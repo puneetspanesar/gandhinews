@@ -93,6 +93,7 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
   {altPath && hiPath && <link rel="alternate" hreflang="hi-IN" href={abs(hiPath)} />}
   {altPath && enPath && <link rel="alternate" hreflang="x-default" href={abs(enPath)} />}
   {(!SITE_LIVE || noindex) && <meta name="robots" content="noindex,nofollow" />}
+  {SITE_LIVE && !noindex && <meta name="robots" content="max-image-preview:large, max-snippet:-1, max-video-preview:-1" />}
   <meta name="theme-color" content="#0d0d0d" />
   <link rel="icon" href="/favicon.png" type="image/png" sizes="192x192" />
   <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
