@@ -37,7 +37,7 @@ sources:
     url: "https://www.taxheal.com/wp-content/uploads/2026/09/276016.pdf"
     primary: true
 verification:
-  status: needs-editor-approval
+  status: approved
   fact_check: verified
   notes:
     - "Fact-checked 11 Oct 2026: 1931, 40 questions, Q10 wording and Jairam Ramesh quote confirmed in Business Standard; ₹11,718 crore (Cabinet-approved) confirmed in Telangana Today and The Arunachal Times; Feb 2027 enumeration and gazette reference dates confirmed."

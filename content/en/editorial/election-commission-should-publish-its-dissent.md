@@ -42,7 +42,7 @@ sources:
     url: "https://www.thedailyjagran.com/india/news/ec-fact-checks-rahul-gandhis-claims-on-form-6-reiterates-declaration-upheld-by-supreme-court-10331667"
     primary: false
 verification:
-  status: needs-editor-approval
+  status: approved
   fact_check: notes
   notes:
     - "Politics desk check 11 Oct 2026: independently confirmed the RBI release (repo hike unanimous; two members, Nagesh Kumar and Ram Singh, for a neutral stance; minutes 21 Oct), the ECI quotes (ThePrint/ANI) and the SCO account of 23 Sep. The 6.15 crore figure is confirmed only at headline level on Deccan Herald (exact total and percentage not visible to our fetcher). No further changes."

@@ -41,7 +41,7 @@ sources:
     url: "https://telanganatoday.com/rajya-sabha-adjourned-sine-die-after-stormy-session-productivity-at-39-per-cent"
     primary: false
 verification:
-  status: needs-editor-approval
+  status: approved
   fact_check: notes
   notes:
     - "Politics/parliament desk check 11 Oct 2026: wording changed. The 2019 PRS paper argued for referring all Bills and cited the UK, where Bills other than Money Bills go to committees automatically; the recommendation is now framed that way rather than as a formal PRS proposal (PRS PDF). Deputy Speaker line attributed to PRS. All figures otherwise confirmed independently."

@@ -41,7 +41,7 @@ sources:
     url: "https://prsindia.org/billtrack/the-industrial-relations-code-amendment-bill-2026"
     primary: true
 verification:
-  status: needs-editor-approval
+  status: approved
   fact_check: notes
   notes:
     - "Fact-checked 11 Oct 2026: 21 Nov 2025 (KPMG, The Tribune), 8 May 2026 central rules (SAM), Kumar's 'hoping' and 'appropriate government' remarks, ten states, Labour Stack quote and GT Bharat issues (Business Standard), Kerala (The Tribune), 1 vs 5 years gratuity (SAM) all confirmed."

@@ -37,7 +37,7 @@ sources:
     url: "https://indiadatalaw.org/is-the-board-operational/"
     primary: false
 verification:
-  status: needs-editor-approval
+  status: approved
   fact_check: verified
   notes:
     - "Fact-checked 11 Oct 2026: 13 Nov 2025 notification (G.S.R. 846(E)), 6 May circular (1 + 4 posts), June advertisement (India Data Law), committees and s.19(3) legal-expertise requirement (LiveLaw), 13 Nov 2026 and 13 May 2027 phases, ₹250 crore cap and digital complaints system (PIB) confirmed. Changed 'eleven months' to 'nearly 11 months' in standfirst, SEO and body (13 Nov 2025 to 11 Oct 2026)."

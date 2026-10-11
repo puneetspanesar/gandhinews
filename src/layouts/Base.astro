@@ -95,8 +95,10 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
   {(!SITE_LIVE || noindex) && <meta name="robots" content="noindex,nofollow" />}
   {SITE_LIVE && !noindex && <meta name="robots" content="max-image-preview:large, max-snippet:-1, max-video-preview:-1" />}
   <meta name="theme-color" content="#0d0d0d" />
-  <link rel="icon" href="/favicon.png" type="image/png" sizes="192x192" />
-  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+  <link rel="icon" href="/favicon.ico?v=lv2" sizes="48x48" />
+  <link rel="icon" href="/favicon.svg?v=lv2" type="image/svg+xml" />
+  <link rel="icon" href="/favicon.png?v=lv2" type="image/png" sizes="192x192" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png?v=lv2" />
   <link rel="preload" href="/fonts/inter-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/fonts/google-sans-latin-600-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/fonts/noto-sans-devanagari-devanagari-600-normal.woff2" as="font" type="font/woff2" crossorigin />

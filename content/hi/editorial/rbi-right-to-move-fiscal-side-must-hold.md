@@ -48,7 +48,7 @@ sources:
     url: "https://www.business-standard.com/amp/economy/news/india-s-forex-reserves-drop-for-fourth-week-down-12-95-bn-to-734-6-bn-126100901061_1.html"
     primary: false
 verification:
-  status: needs-editor-approval
+  status: approved
   fact_check: verified
   notes:
     - "Fact-checked 11 Oct 2026: all figures confirmed (RBI resolution incl. 'elevated inflation expectations' and second-round effects; MoSPI CPI; MoSPI GDP; UNI 41.9%/38.1%; Deccan Chronicle ICRA figures; PTI Brent $102.95; Budget 8.0% GTR growth per PIB). 'Ten months after the last cut' checks (5 Dec 2025 to 7 Oct 2026). No changes needed."
