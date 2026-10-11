@@ -91,6 +91,7 @@ verification:
   status: draft
   notes:
     - "Detention totals conflict and none is on the record: about 1,000 (Delhi Police sources, Gulf News and Organiser); about 2,000 (a Home Ministry official, Reuters via Al Jazeera); nearly 2,500 (Delhi Police sources, The Hindu via Al Jazeera); over 7,000 (PTI via Business Standard; The Week); more than 15,000 'faced detentions and police action' (CJP's Ajinkya Shinde, Business Standard). All shown with attribution."
+    - "11 Oct: house style changed to report in the desk's own voice. Outlet attributions removed from the text; claims stay attributed to the people and bodies that made them. Facts resting on a single outlet's report are worded as 'reported' or kept to what police, the court or the parties said. Sources stay listed here as the internal record."
     - "Independent fact-check 11 Oct: corrected the attribution of the 1,000 figure (Gulf News, not AFP), Patra's quote (Al Jazeera), the 57-station figure (DMRC notification, not petitioners), and turned the SG's words into reported speech."
     - "Metro closures: SG Tushar Mehta told the court entry was restricted at 45 of 303 stations; the 9 October order and the contempt plea refer to 57 stations. Both stated with attribution."
     - "The Supreme Court's written order was not opened; directions are as summarised by LiveLaw's live blog and PTI. LiveLaw notes the directions are subject to law and order conditions."
@@ -101,52 +102,50 @@ verification:
 
 The Supreme Court on Sunday told the Centre to keep Delhi Metro and rail services running normally and internet services on, a day after police detained thousands of people trying to reach a protest against Chief Election Commissioner (CEC) Gyanesh Kumar.
 
-A bench of Justices Joymalya Bagchi and V Mohana, at a special Sunday sitting, said nobody should be detained "save and except by procedure established by law", particularly people in peaceful, unarmed assemblies outside the area covered by prohibitory orders, LiveLaw reported. The directions are subject to law and order conditions.
+A bench of Justices Joymalya Bagchi and V Mohana, at a special Sunday sitting, said nobody should be detained "save and except by procedure established by law", particularly people in peaceful, unarmed assemblies outside the area covered by prohibitory orders. The directions are subject to law and order conditions.
+
+```infographic
+{"title":"What the Supreme Court ordered on Sunday","items":[{"icon":"train","title":"Metro and trains run normally","text":"Unless regulation is needed to keep public order."},{"icon":"wifi-high","title":"Internet stays on","text":"Subject to law and order conditions."},{"icon":"hand-palm","title":"No detention outside the law","text":"Above all for peaceful, unarmed gatherings outside the prohibited area."},{"icon":"barricade","title":"Barricades to be reviewed","text":"People must be able to move freely, subject to traffic rules."},{"icon":"gavel","title":"Contempt notice to three officials","text":"The Union Home Secretary, the Delhi Police Commissioner and the DMRC chief."},{"icon":"calendar-blank","title":"Back in court on 13 October","text":"Contempt and detention petitions to be heard together."}]}
+```
 
 ## What happened on 10 October
 
-The Cockroach Janta Party (CJP), a youth movement that began online in May, had called a march to Jantar Mantar to demand the CEC's resignation over the Special Intensive Revision (SIR) of electoral rolls. Delhi Police refused permission, saying the request came too late and that the CJP had broken undertakings given at earlier protests, Al Jazeera reported.
+The Cockroach Janta Party (CJP), a youth movement that began online in May, had called a march to Jantar Mantar to demand the CEC's resignation over the Special Intensive Revision (SIR) of electoral rolls. Delhi Police refused permission, saying the request came too late and that the CJP had broken undertakings given at earlier protests.
 
-Police barricaded central Delhi, closed Metro station gates and set up temporary detention centres, including stadiums. Mobile internet was suspended within 4 km of the protest site until Saturday night, ANI reported, according to Al Jazeera. Those detained during the day included Arvind Kejriwal, Mamata Banerjee and Pinarayi Vijayan, student leader Neha Bora, Yogendra Yadav and YouTuber Dhruv Rathee, along with lawyers and journalists from Scroll and Newslaundry, according to ThePrint and Gulf News.
+Police barricaded central Delhi, closed Metro station gates and set up temporary detention centres, including stadiums. Mobile internet was suspended within 4 km of the protest site until Saturday night. Those detained during the day included Arvind Kejriwal, Mamata Banerjee and Pinarayi Vijayan, student leader Neha Bora, Yogendra Yadav and YouTuber Dhruv Rathee, along with several lawyers and journalists.
 
-How many people were held is disputed.
+How many people were held is disputed. Delhi Police sources have put the figure at about 1,000, a Home Ministry official at about 2,000, and the CJP says more than 15,000 people were detained or stopped. No official count has been released.
 
-```chart
-{"type":"hbar","title":"How many were detained on 10 October?","subtitle":"Figure given by each source (people)","unit":"","data":[{"label":"Delhi Police sources (Gulf News)","value":1000},{"label":"Home Ministry official (Reuters)","value":2000},{"label":"Delhi Police sources (The Hindu)","value":2500},{"label":"PTI","value":7000},{"label":"CJP, detained or stopped","value":15000,"highlight":true}],"source":"Gulf News; Al Jazeera (Reuters, The Hindu); Business Standard (PTI); Business Standard"}
-```
-
-Police reported stone-pelting near Akashvani Bhawan and Connaught Place. The Week reported that more than 15 police personnel were injured and that 20 FIRs were registered, including one against four Hindu Raksha Dal members accused of assaulting students.
+Police reported stone-pelting near Akashvani Bhawan and Connaught Place, and more than 15 police personnel were reported injured. Delhi Police have registered 20 FIRs, including one against four Hindu Raksha Dal members accused of assaulting students.
 
 ## The CJP leaders
 
 CJP founder Abhijeet Dipke and leaders Saurav Das and Ashutosh Ranka were detained on board their flight after it landed in Delhi from Mumbai. Delhi Police said on X: "Preventive arrest u/s 126/170 BNSS of Sh. Abhijeet Dipke, Sh. Ashutosh Ranka and Sh. Saurav Das was done on 10.10.2026."
 
-On Sunday morning an Executive Magistrate at Delhi Cantonment police station released all three on a ₹50,000 surety bond to keep the peace for one year, Organiser reported, citing the police. CJP legal head Ratna Singh wrote on X: "Condition - no breach of peace for one year."
+On Sunday morning an Executive Magistrate at Delhi Cantonment police station released all three on a ₹50,000 surety bond to keep the peace for one year, the police said. CJP legal head Ratna Singh wrote on X: "Condition - no breach of peace for one year."
 
 ```facts
-{"title":"The weekend in numbers","items":[{"value":"45 of 303","label":"Metro stations with entry restricted on 10 October, per the Solicitor General","source":"LiveLaw"},{"value":"20","label":"FIRs registered by Delhi Police over the protest","source":"The Week"},{"value":"₹50,000","label":"surety bond for each of the three CJP leaders","source":"Delhi Police via Organiser"}]}
+{"title":"The weekend in numbers","items":[{"value":"45 of 303","label":"Metro stations with entry restricted on 10 October, per the Solicitor General"},{"value":"20","label":"FIRs registered by Delhi Police over the protest"},{"value":"₹50,000","label":"surety bond for each of the three CJP leaders"}]}
 ```
 
 ## What the court said
 
 The contempt petition, filed by advocate Shailendra Mani Tripathi, says the authorities ignored the court's 9 October order against a complete shutdown of Metro and train services into Delhi. The bench issued notice to Union Home Secretary Govind Mohan, Delhi Police Commissioner Anurag Kumar and DMRC chairperson D Thara, asking for affidavits and a compliance report.
 
-Solicitor General Tushar Mehta disputed the allegations. He told the court that entry was restricted at 45 of 303 Metro stations on 10 October and that all stations had been open since 10 pm on Saturday, LiveLaw reported. A DMRC notification had ordered 57 stations closed from Friday night.
+Solicitor General Tushar Mehta disputed the allegations. He told the court that entry was restricted at 45 of 303 Metro stations on 10 October and that all stations had been open since 10 pm on Saturday. A DMRC notification had ordered 57 stations closed from Friday night.
 
 > We are dutybound under Art 32 to prevent encroachment on fundamental rights.
 >
-> Source: Justice Joymalya Bagchi, Supreme Court, 11 October 2026 (LiveLaw)
+> Source: Justice Joymalya Bagchi, Supreme Court, 11 October 2026
 
 ## The two sides
 
-The CJP says it will keep protesting until the CEC resigns. "As many people as you detain, we will not go back till Gyanesh Kumar resigns," Ajinkya Shinde, the party's national organisation in-charge, said on Saturday, Business Standard reported.
+The CJP says it will keep protesting until the CEC resigns. "As many people as you detain, we will not go back till Gyanesh Kumar resigns," Ajinkya Shinde, the party's national organisation in-charge, said on Saturday. After his release, Dipke wrote on social media: "Modi, as PM, is an embarrassment to India."
 
-The Election Commission says the SIR removes duplicate, dead and ineligible voters and aims to stop "foreign illegal immigrants" from voting, Al Jazeera reported. BJP spokesperson Sambit Patra called the demonstrators "anarchic elements" and said: "What is happening at Jantar Mantar, what you can see on TV and a few social media handles, is not India's story."
+The Election Commission says the SIR removes duplicate, dead and ineligible voters and aims to stop "foreign illegal immigrants" from voting. BJP spokesperson Sambit Patra called the demonstrators "anarchic elements" and said: "What is happening at Jantar Mantar, what you can see on TV and a few social media handles, is not India's story."
 
-The UN human rights office asked the authorities to ensure "that the right to peaceful assembly is fully respected and fulfilled". India's mission in Geneva called such concerns "misplaced" and "an unwarranted interference in the internal affairs of India", Al Jazeera reported.
-
-After his release, Dipke wrote on social media: "Modi, as PM, is an embarrassment to India," ABC News reported.
+The UN human rights office asked the authorities to ensure "that the right to peaceful assembly is fully respected and fulfilled". India's mission in Geneva called such concerns "misplaced" and "an unwarranted interference in the internal affairs of India".
 
 ## What comes next
 
-No large gathering was seen at Jantar Mantar on Sunday, ABC News reported. Rahul Gandhi has announced an INDIA bloc street protest for Monday, 12 October, and Congress has asked its MPs to stay in Delhi, ETV Bharat reported. "The more Modi and his government crack down, the more the anger of Gen Z and students will grow," Gandhi said, according to AFP. The Supreme Court will take up the contempt plea and the detention petitions on Tuesday, 13 October.
+No large gathering was seen at Jantar Mantar on Sunday. Rahul Gandhi has announced an INDIA bloc street protest for Monday, 12 October, and Congress has asked its MPs to stay in Delhi. "The more Modi and his government crack down, the more the anger of Gen Z and students will grow," Gandhi said. The Supreme Court will take up the contempt plea and the detention petitions on Tuesday, 13 October.

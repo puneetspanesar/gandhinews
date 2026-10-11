@@ -53,7 +53,7 @@ function hiddenTable(d, lang, fmt) {
 
 function figure(d, lang, inner, fmt, cls) {
   const id = nextId('fig');
-  const src = d.source ? `<p class="fsrc">${L[lang].source}: ${esc(d.source)}</p>` : '';
+  const src = ''; // d.source is kept in the file as an internal record, not shown
   return `<figure class="fig chart ${cls}" aria-labelledby="${id}"><figcaption id="${id}"><span class="ft">${esc(d.title)}</span>${d.subtitle ? `<span class="fs">${esc(d.subtitle)}</span>` : ''}</figcaption><div class="viz" aria-hidden="true">${inner}</div>${hiddenTable(d, lang, fmt)}${src}</figure>`;
 }
 
@@ -158,7 +158,7 @@ export function renderFacts(d, lang = 'en') {
   const items = d.items
     .map(
       (it) =>
-        `<li><b class="num">${esc(it.value)}</b><span>${esc(it.label)}</span>${it.source ? `<small>${L[lang].source}: ${esc(it.source)}</small>` : ''}</li>`,
+        `<li><b class="num">${esc(it.value)}</b><span>${esc(it.label)}</span></li>`,
     )
     .join('');
   return `<section class="facts" aria-label="${esc(d.title || '')}">${d.title ? `<p class="ft">${esc(d.title)}</p>` : ''}<ul class="c${cols}">${items}</ul></section>`;
@@ -189,6 +189,18 @@ export function renderTimeline(d, lang = 'en') {
     })
     .join('');
   return `<section class="tlb" aria-label="${esc(d.title || '')}">${d.title ? `<p class="ft">${esc(d.title)}</p>` : ''}<ol class="tl">${items}</ol></section>`;
+}
+
+/** ```infographic: a grid of icon points about the story.
+ *  {"title":"...","items":[{"icon":"train","title":"...","text":"..."}]} */
+export function renderInfographic(d, lang = 'en', iconSvg) {
+  if (!d || !Array.isArray(d.items)) throw new Error('infographic block needs an "items" array');
+  const n = d.items.length;
+  const cols = n === 4 ? 2 : n <= 3 ? n : 3;
+  const items = d.items
+    .map((it) => `<li><span class="ic" aria-hidden="true">${iconSvg(it.icon)}</span><b>${esc(it.title)}</b>${it.text ? `<span>${esc(it.text)}</span>` : ''}</li>`)
+    .join('');
+  return `<section class="igx" aria-label="${esc(d.title || '')}">${d.title ? `<p class="ft">${esc(d.title)}</p>` : ''}<ul class="c${cols}">${items}</ul></section>`;
 }
 
 /** Tiny inline sparkline (SVG) for tracker tiles. */

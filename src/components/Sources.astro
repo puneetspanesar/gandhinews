@@ -4,14 +4,17 @@ import { UI, type Lang } from '../lib/i18n';
 import { fmtDate } from '../lib/site';
 import { resolveHref } from '../lib/routes.mjs';
 interface Props { lang: Lang; sources: any[] }
-const { lang, sources } = Astro.props;
+const { lang, sources: all } = Astro.props;
+// Gandhi News reports in its own voice: other outlets are not listed. Readers get the
+// official documents behind a story (frontmatter sources marked primary: true).
+const sources = (all ?? []).filter((s: any) => s.primary);
 const t = UI[lang];
 const iconFor = (s: any) => (/\.pdf($|\?)/i.test(s.url || '') ? 'file-pdf' : s.primary ? 'file-text' : 'link-simple');
 const dateText = (d: any) => (d instanceof Date ? fmtDate(d, lang) : d ? fmtDate(String(d), lang) : '');
 ---
 {sources.length > 0 && (
   <section class="srcs" aria-labelledby="sources-h">
-    <h2 id="sources-h">{t.sources}</h2>
+    <h2 id="sources-h">{lang === 'hi' ? 'मूल दस्तावेज़' : 'The documents'}</h2>
     <ul>
       {sources.map((s) => (
         <li>

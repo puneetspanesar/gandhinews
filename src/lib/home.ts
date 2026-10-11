@@ -7,7 +7,8 @@ import { content, urlOf, kicker, fmtShort, labelParts, topicLink, type Entry } f
 import { DATA, tr } from './data';
 import { verdictKey, VERDICT_ORDER, type Lang } from './i18n';
 // @ts-ignore - plain JS module
-import { renderChart, fmtNum, esc } from './blocks.mjs';
+import { renderChart, renderInfographic, fmtNum, esc } from './blocks.mjs';
+import { iconSvg } from './icons.mjs';
 // @ts-ignore - plain JS module
 import { ROOT } from './routes.mjs';
 
@@ -112,10 +113,12 @@ function need<T>(v: T | undefined, what: string): T {
 }
 
 function chartFromBody(e: Entry, n: number, lang: Lang) {
-  const blocks = [...String((e as any).body ?? '').matchAll(/```chart\n([\s\S]*?)\n```/g)];
+  // The lead's visual: the nth chart or infographic block in the story.
+  const blocks = [...String((e as any).body ?? '').matchAll(/```(chart|infographic)\n([\s\S]*?)\n```/g)];
   const b = blocks[n - 1];
   if (!b) return '';
-  return renderChart(JSON.parse(b[1]), lang) as string;
+  const d = JSON.parse(b[2]);
+  return (b[1] === 'chart' ? renderChart(d, lang) : renderInfographic(d, lang, (x: string) => iconSvg(x, 'i'))) as string;
 }
 
 /** Sparkline: a polyline that stretches to its box, with a round end dot that stays round. */

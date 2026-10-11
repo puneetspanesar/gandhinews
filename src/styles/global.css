@@ -667,3 +667,15 @@ footer .legal a:hover{color:#fff}
 .pc-list img{height:80px;border-radius:3px}
 .pc-list b{font-family:var(--f-head);font-weight:600;color:var(--ink);display:block}
 .pc-list a{color:var(--ink);text-decoration:underline}
+
+/* ```infographic: icon points about the story */
+.igx{margin:28px 0;border-top:2px solid var(--ink);padding-top:12px}
+.igx .ft{display:block;font-family:var(--f-head);font-size:16px;font-weight:600;color:var(--ink);margin:0}
+.igx ul,.body .igx ul{display:grid;grid-template-columns:repeat(3,1fr);gap:0 24px;margin:6px 0 0;padding:0;list-style:none}
+.igx ul.c2{grid-template-columns:1fr 1fr}.igx ul.c1{grid-template-columns:1fr}
+.igx li,.body .igx li{display:grid;grid-template-columns:32px 1fr;column-gap:12px;align-items:start;align-content:start;padding:14px 0;border-bottom:1px solid var(--line);margin:0}
+.igx .ic{grid-row:span 2;width:28px;height:28px;color:var(--red)}
+.igx .ic svg{width:28px;height:28px;display:block}
+.igx b{font-family:var(--f-head);font-size:16px;font-weight:600;color:var(--ink);line-height:1.3}
+.igx li>span:not(.ic){font-size:14px;color:var(--ink2);line-height:1.45;margin-top:2px}
+@media (max-width:720px){.igx ul[class],.body .igx ul[class]{grid-template-columns:1fr}}
