@@ -203,6 +203,18 @@ export function renderInfographic(d, lang = 'en', iconSvg) {
   return `<section class="igx" aria-label="${esc(d.title || '')}">${d.title ? `<p class="ft">${esc(d.title)}</p>` : ''}<ul class="c${cols}">${items}</ul></section>`;
 }
 
+/** ```compare: rows compared across two or more columns, each row with an optional icon.
+ *  {"title":"...","columns":["What the law says","What happened"],"rows":[{"icon":"users-three","label":"Assembly","cells":["...","..."]}]} */
+export function renderCompare(d, lang = 'en', iconSvg) {
+  if (!d || !Array.isArray(d.columns) || !Array.isArray(d.rows)) throw new Error('compare block needs "columns" and "rows"');
+  const n = d.columns.length;
+  const head = `<div class="cmp-h"><span></span>${d.columns.map((c, i) => `<span class="${i === n - 1 ? 'hl' : ''}">${esc(c)}</span>`).join('')}</div>`;
+  const rows = d.rows
+    .map((r) => `<div class="cmp-r"><div class="cmp-l">${r.icon ? `<span class="ic" aria-hidden="true">${iconSvg(r.icon)}</span>` : ''}<b>${esc(r.label)}</b></div>${r.cells.map((c, i) => `<div class="cmp-c${i === n - 1 ? ' hl' : ''}" data-col="${esc(d.columns[i] || '')}">${esc(c)}</div>`).join('')}</div>`)
+    .join('');
+  return `<section class="cmp c${n}" aria-label="${esc(d.title || '')}">${d.title ? `<p class="ft">${esc(d.title)}</p>` : ''}${head}${rows}</section>`;
+}
+
 /** Tiny inline sparkline (SVG) for tracker tiles. */
 export function sparkline(values, { w = 120, h = 36, stroke = '#0d0d0d', dot = '#cc0000' } = {}) {
   if (!values || values.length < 2) return '';

@@ -18,6 +18,8 @@ hero:
   need: "West Bengal Legislative Assembly building in Kolkata, or a Bengali-language government signboard"
   suggested_source: "Wikimedia Commons: West Bengal Legislative Assembly"
   alt: "The West Bengal Legislative Assembly building in Kolkata"
+  overlay:
+    value: "Bengali compulsory for all government work"
 related: [kerala-becomes-keralam-what-changes]
 seo:
   description: "Bengali is now mandatory for all West Bengal government work. What the rule covers, Amit Shah's letter, and how BJP, TMC, Congress and CPI(M) reacted."

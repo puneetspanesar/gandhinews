@@ -18,6 +18,8 @@ hero:
   need: "Lok Sabha chamber during the session, or the Speaker adjourning the House sine die on 13 August 2026"
   suggested_source: "PIB photo gallery or Sansad TV stills, 13 Aug 2026 (credit PIB / Sansad TV)"
   alt: "The Lok Sabha chamber in Parliament House, New Delhi"
+  overlay:
+    value: "Lok Sabha’s lowest output this term"
 related: [parliament-that-sits-but-does-not-debate, how-a-bill-becomes-law-in-india, fcra-explained-2026-amendment-bill, bills-in-parliament-tracker, parliament]
 seo:
   description: "Lok Sabha worked 15% of scheduled time in the Monsoon Session 2026 per PRS (19% per government). Nine of 11 Bills passed with only the minister speaking."

@@ -19,6 +19,8 @@ hero:
   need: "नई दिल्ली में चुनाव आयोग का मुख्यालय, निर्वाचन सदन"
   suggested_source: "PIB Photo / ECI media gallery; Wikimedia Commons 'Nirvachan Sadan'"
   alt: "नई दिल्ली में भारत निर्वाचन आयोग का मुख्यालय, निर्वाचन सदन"
+  overlay:
+    value: "दो आयुक्तों ने कम से कम 14 बार आपत्ति जताई"
 related: [how-chief-election-commissioner-is-appointed-removed, election-commission-should-publish-its-dissent, election-commission, sir-phase-three-draft-rolls-names-dropped-by-state]
 seo:
   description: "इंडियन एक्सप्रेस के मुताबिक दो चुनाव आयुक्तों ने एसआईआर फैसलों पर 14 बार आपत्ति जताई; आयोग ने फैसले सर्वसम्मत बताए। सीईसी को हटाने की मुहिम कहां पहुंची।"

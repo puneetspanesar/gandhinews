@@ -18,6 +18,8 @@ hero:
   need: "Rupee notes and US dollar notes, or a currency dealing room in Mumbai"
   suggested_source: "Wikimedia Commons search 'Indian rupee banknotes'"
   alt: "Indian rupee and US dollar banknotes"
+  overlay:
+    value: "Rupee near 97, crude above $100"
 related: [rbi-raises-repo-rate-to-5-50, economy-dashboard, rbi-interest-rates, fiscal-deficit-reaches-41-9-of-target-by-august, inflation, rbi-right-to-move-fiscal-side-must-hold]
 seo:
   description: "The rupee closed near 97 per dollar on 9 October 2026 with Brent above $100. RBI opened a dollar window for oil companies and tightened hedging rules."

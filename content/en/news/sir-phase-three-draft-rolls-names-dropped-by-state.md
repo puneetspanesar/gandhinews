@@ -18,6 +18,8 @@ hero:
   need: "Booth Level Officer checking enumeration forms with a voter at a doorstep, or a draft roll displayed at a polling station"
   suggested_source: "PIB Photo / CEO state websites; Wikimedia Commons search 'Special Intensive Revision BLO'"
   alt: "A booth level officer checks a voter's enumeration form during the Special Intensive Revision"
+  overlay:
+    value: "6.15 crore names off draft rolls"
 related: [special-intensive-revision-how-to-check-your-name, electoral-rolls-sir, election-commission-dissent-report-move-to-remove-cec, election-commission]
 seo:
   description: "SIR phase III draft rolls left out 6.15 crore names across 17 states and UTs. State-by-state figures, the ECI's reasons and the opposition's objections."

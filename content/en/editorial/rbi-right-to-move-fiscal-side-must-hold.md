@@ -12,6 +12,8 @@ hero:
   need: "RBI headquarters and North Block, or a composite; alternatively a fuel pump price board"
   suggested_source: "Wikimedia Commons search 'Reserve Bank of India Mumbai' and 'North Block New Delhi'"
   alt: "Reserve Bank of India building in Mumbai"
+  overlay:
+    value: "Now the fiscal side must hold"
 related: [rbi-raises-repo-rate-to-5-50, fiscal-deficit-reaches-41-9-of-target-by-august, retail-inflation-rises-to-4-82-in-august, rupee-near-97-as-crude-stays-above-100, fiscal-deficit-explained, rbi-interest-rates]
 seo:
   description: "LokVox editorial: the RBI's October 2026 rate hike was justified by oil-led inflation risk. The Centre must now protect its 4.3% fiscal deficit target."

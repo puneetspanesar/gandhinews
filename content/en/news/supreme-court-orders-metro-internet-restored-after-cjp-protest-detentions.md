@@ -18,6 +18,8 @@ hero:
   need: "Supreme Court of India, New Delhi"
   suggested_source: "Wikimedia Commons 'Supreme Court of India'"
   alt: "Supreme Court of India, New Delhi"
+  overlay:
+    value: "Metro, internet must run normally"
 related: [what-is-the-cockroach-janta-party, election-commission-dissent-report-move-to-remove-cec, how-chief-election-commissioner-is-appointed-removed, sir-phase-three-draft-rolls-names-dropped-by-state, election-commission, electoral-rolls-sir]
 seo:
   description: "Police detained thousands, by most counts, at the CJP's 10 October protest against CEC Gyanesh Kumar. The Supreme Court ordered Metro, rail and internet restored."

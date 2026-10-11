@@ -19,6 +19,8 @@ hero:
   need: "बुवाई के समय पंजाब या मध्य प्रदेश का गेहूं का खेत, या 30 सितंबर 2026 को अश्विनी वैष्णव की कैबिनेट ब्रीफिंग"
   suggested_source: "PIB release PRID 2316956 and PIB photo gallery for the 30 Sep 2026 Cabinet briefing; credit PIB"
   alt: "गेहूं के खेत में एक किसान"
+  overlay:
+    value: "गेहूं का एमएसपी ₹25 बढ़कर ₹2,610"
 related: [msp-explained-how-set-who-benefits]
 seo:
   description: "कैबिनेट ने 2027–28 का रबी एमएसपी तय किया: गेहूं ₹2,610 प्रति क्विंटल (+₹25), कुसुम +₹675, सरसों +₹413, मसूर +₹390। हर फसल के आंकड़े और लागत पर मार्जिन।"

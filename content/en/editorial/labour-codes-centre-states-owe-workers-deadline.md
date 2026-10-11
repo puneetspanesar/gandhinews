@@ -12,6 +12,8 @@ hero:
   need: "Workers at a factory gate or construction site, no identifiable faces needed"
   suggested_source: "PIB photo gallery (Ministry of Labour and Employment) or Wikimedia Commons; credit as listed"
   alt: "Workers at an industrial site"
+  overlay:
+    value: "Workers are owed a deadline"
 related: [labour-codes-centre-wants-state-rules-by-october-31, four-labour-codes-explained-workers-employers, labour-codes]
 seo:
   description: "The labour codes took effect in November 2025, yet most states lack final rules. The Centre should publish a state-wise tracker; states should commit to dates."

@@ -19,6 +19,8 @@ hero:
   need: "किसी व्यापार से जुड़े कार्यक्रम में निर्मला सीतारमण या पीयूष गोयल, या किसी भारतीय बंदरगाह पर शिपिंग कंटेनर"
   suggested_source: "PIB Photo search: Piyush Goyal USTR Greer 2026; or Nirmala Sitharaman October 2026"
   alt: "एक भारतीय बंदरगाह पर रखे कंटेनर"
+  overlay:
+    value: "व्यापार वार्ता ठहरी, 100% शुल्क की आशंका"
 related: [india-us-trade, us-suspends-indian-it-firms-green-card-sponsorship, rupee-near-97-as-crude-stays-above-100, rbi-raises-repo-rate-to-5-50]
 seo:
   description: "सीतारमण ने कहा भारत-अमेरिका व्यापार वार्ता ठहराव पर है। भारत पर कौन से अमेरिकी टैरिफ लागू हैं, कौन से नहीं, और रूसी तेल पर नया अमेरिकी कानून क्या कहता है।"

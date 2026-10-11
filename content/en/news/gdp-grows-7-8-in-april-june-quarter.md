@@ -18,6 +18,8 @@ hero:
   need: "Factory floor or construction site in India; alternatively a busy port or highway project"
   suggested_source: "PIB photo gallery; Wikimedia Commons search 'Indian manufacturing factory'"
   alt: "Workers on a factory floor in India"
+  overlay:
+    value: "GDP up 7.8% in April-June"
 related: [how-gdp-is-measured-new-base-year, economy-dashboard, rbi-raises-repo-rate-to-5-50, rbi-interest-rates, fiscal-deficit-reaches-41-9-of-target-by-august]
 seo:
   description: "India's real GDP grew 7.8% in Q1 FY27 (April-June 2026), led by services and investment, on the new 2022-23 base. Sector data and what the revisions mean."

@@ -19,6 +19,8 @@ hero:
   need: "रुपये और अमेरिकी डॉलर के नोट, या मुंबई का कोई करेंसी डीलिंग रूम"
   suggested_source: "Wikimedia Commons search 'Indian rupee banknotes'"
   alt: "भारतीय रुपये और अमेरिकी डॉलर के नोट"
+  overlay:
+    value: "रुपया 97 के करीब, कच्चा तेल 100 डॉलर पार"
 related: [rbi-raises-repo-rate-to-5-50, economy-dashboard, rbi-interest-rates, fiscal-deficit-reaches-41-9-of-target-by-august, inflation, rbi-right-to-move-fiscal-side-must-hold]
 seo:
   description: "9 अक्टूबर 2026 को ब्रेंट 100 डॉलर के पार रहा और डॉलर के मुकाबले रुपया 97 के करीब बंद हुआ। आरबीआई ने तेल कंपनियों के लिए डॉलर विंडो खोली और हेजिंग नियम सख्त किए।"

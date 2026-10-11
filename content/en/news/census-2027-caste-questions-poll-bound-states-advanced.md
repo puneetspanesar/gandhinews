@@ -18,6 +18,8 @@ hero:
   need: "Census enumerator with a tablet or phone at a household during house listing, 2026"
   suggested_source: "PIB photo gallery or Office of the Registrar General (censusindia.gov.in); credit PIB / ORGI"
   alt: "A census enumerator recording household details"
+  overlay:
+    value: "Caste is back on the census form"
 related: [census-2027-what-will-be-asked-caste, publish-caste-census-in-full-on-time, census-2027]
 seo:
   description: "Census 2027 nears the headcount: caste is on the 40-question form, and UP, Punjab, Goa and Uttarakhand will be counted from 1 December 2026, ahead of polls."

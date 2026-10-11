@@ -19,6 +19,8 @@ hero:
   need: "तिरुवनंतपुरम में केरल विधानसभा (नियमसभा) की इमारत"
   suggested_source: "Wikimedia Commons: Kerala Legislative Assembly building"
   alt: "तिरुवनंतपुरम में केरल विधानसभा की इमारत"
+  overlay:
+    value: "केरल अब आधिकारिक रूप से केरलम"
 related: [west-bengal-makes-bengali-compulsory-government-work]
 seo:
   description: "25 अगस्त 2026 से केरल का आधिकारिक नाम केरलम हो गया। अनुच्छेद 3 की प्रक्रिया, संसद में मतदान, अधिसूचना की तारीख और नया अधिनियम क्या कहता है, जानिए।"

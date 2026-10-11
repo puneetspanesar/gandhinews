@@ -13,6 +13,8 @@ hero:
   need: "स्मार्टफोन इस्तेमाल करते व्यक्ति की सामान्य तस्वीर, या नई दिल्ली में मेइटी की इमारत"
   suggested_source: "PIB photo gallery (MeitY) or Wikimedia Commons; credit as listed"
   alt: "स्मार्टफोन इस्तेमाल करता एक व्यक्ति"
+  overlay:
+    value: "पहले बोर्ड नियुक्त हो"
 related: [dpdp-consent-managers-start-data-protection-board-empty, your-rights-under-dpdp-act, data-protection]
 seo:
   description: "डीपीडीपी नियम लागू होने के लगभग 11 महीने बाद भी डेटा संरक्षण बोर्ड में कोई सदस्य नहीं है। दिसंबर तक नियुक्तियां हों, ताकि बोर्ड मई 2027 से पहले तैयार रहे।"

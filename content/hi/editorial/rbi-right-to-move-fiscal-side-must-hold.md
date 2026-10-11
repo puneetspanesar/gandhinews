@@ -13,6 +13,8 @@ hero:
   need: "आरबीआई मुख्यालय और नॉर्थ ब्लॉक, या दोनों की मिली-जुली तस्वीर; विकल्प के तौर पर पेट्रोल पंप का कीमत बोर्ड"
   suggested_source: "Wikimedia Commons search 'Reserve Bank of India Mumbai' and 'North Block New Delhi'"
   alt: "मुंबई में भारतीय रिज़र्व बैंक की इमारत"
+  overlay:
+    value: "अब राजकोषीय मोर्चा संभले"
 related: [rbi-raises-repo-rate-to-5-50, fiscal-deficit-reaches-41-9-of-target-by-august, retail-inflation-rises-to-4-82-in-august, rupee-near-97-as-crude-stays-above-100, fiscal-deficit-explained, rbi-interest-rates]
 seo:
   description: "लोकवॉक्स संपादकीय: तेल से बढ़ते महंगाई के जोखिम को देखते हुए अक्टूबर 2026 में आरबीआई की दर बढ़ोतरी सही थी। अब केंद्र 4.3% राजकोषीय घाटे का लक्ष्य बचाए।"

@@ -12,6 +12,8 @@ hero:
   need: "Generic image of a person using a smartphone, or MeitY building in New Delhi"
   suggested_source: "PIB photo gallery (MeitY) or Wikimedia Commons; credit as listed"
   alt: "A person using a smartphone"
+  overlay:
+    value: "Appoint the Board first"
 related: [dpdp-consent-managers-start-data-protection-board-empty, your-rights-under-dpdp-act, data-protection]
 seo:
   description: "The Data Protection Board has no members nearly 11 months after the DPDP Rules took effect. Appoint them by December so the Board is ready well before May 2027."

@@ -19,6 +19,8 @@ hero:
   need: "भारत में किसी फैक्ट्री का शॉप फ्लोर या निर्माण स्थल, या फिर कोई व्यस्त बंदरगाह या हाईवे परियोजना"
   suggested_source: "PIB photo gallery; Wikimedia Commons search 'Indian manufacturing factory'"
   alt: "भारत में एक फैक्ट्री के शॉप फ्लोर पर काम करते मज़दूर"
+  overlay:
+    value: "अप्रैल-जून में जीडीपी 7.8% बढ़ी"
 related: [how-gdp-is-measured-new-base-year, economy-dashboard, rbi-raises-repo-rate-to-5-50, rbi-interest-rates, fiscal-deficit-reaches-41-9-of-target-by-august]
 seo:
   description: "2022-23 के नए आधार पर अप्रैल-जून 2026 (वित्त वर्ष 27 की पहली तिमाही) में जीडीपी 7.8% बढ़ी, सेवा और निवेश आगे रहे। सेक्टर के आंकड़े और संशोधनों का मतलब।"

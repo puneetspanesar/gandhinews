@@ -13,6 +13,8 @@ hero:
   need: "किसी फैक्ट्री गेट या निर्माण स्थल पर कामगार, पहचाने जा सकने वाले चेहरों की ज़रूरत नहीं"
   suggested_source: "PIB photo gallery (Ministry of Labour and Employment) or Wikimedia Commons; credit as listed"
   alt: "एक औद्योगिक स्थल पर काम करते कामगार"
+  overlay:
+    value: "मज़दूरों को समय-सीमा चाहिए"
 related: [labour-codes-centre-wants-state-rules-by-october-31, four-labour-codes-explained-workers-employers, labour-codes]
 seo:
   description: "श्रम संहिताएं नवंबर 2025 में लागू हुईं, पर ज़्यादातर राज्यों के अंतिम नियम अब तक नहीं आए। केंद्र राज्यवार ट्रैकर जारी करे और राज्य अपनी तारीखें तय करें।"

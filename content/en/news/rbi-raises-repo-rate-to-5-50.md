@@ -18,6 +18,8 @@ hero:
   need: "RBI headquarters on Mint Road, Mumbai, or Governor Sanjay Malhotra at the 7 October 2026 policy press conference"
   suggested_source: "RBI media gallery; Wikimedia Commons search 'Reserve Bank of India headquarters Mumbai'"
   alt: "Reserve Bank of India headquarters building in Mumbai"
+  overlay:
+    value: "Repo rate 5.25% → 5.50%"
 related: [rbi-interest-rates, repo-rate-and-your-emi-explained, retail-inflation-rises-to-4-82-in-august, rupee-near-97-as-crude-stays-above-100, rbi-right-to-move-fiscal-side-must-hold, economy-dashboard, inflation]
 seo:
   description: "RBI's MPC raised the repo rate 25 basis points to 5.50% on 7 October 2026 and moved to calibrated tightening. Votes, projections and what comes next."

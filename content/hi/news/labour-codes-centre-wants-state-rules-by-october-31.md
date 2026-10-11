@@ -19,6 +19,8 @@ hero:
   need: "किसी साइट पर काम करते फैक्ट्री या निर्माण मज़दूर, या 24 सितंबर 2026 को पीएचडीसीसीआई-ग्रांट थॉर्नटन सेमिनार में श्रम सचिव"
   suggested_source: "PIB photo gallery, Ministry of Labour and Employment; credit PIB"
   alt: "भारत में एक औद्योगिक साइट पर काम करते मज़दूर"
+  overlay:
+    value: "राज्यों के नियम 31 अक्टूबर तक"
 related: [four-labour-codes-explained-workers-employers, labour-codes-centre-states-owe-workers-deadline, labour-codes]
 seo:
   description: "केंद्र चाहता है कि सभी राज्य 31 अक्टूबर 2026 तक श्रम संहिताओं के नियम अधिसूचित करें। श्रम सचिव के मुताबिक दस राज्यों के अंतिम नियम आ चुके। राज्यों की स्थिति।"

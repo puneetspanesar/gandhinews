@@ -18,6 +18,8 @@ hero:
   need: "Andhra Pradesh High Court building at Amaravati"
   suggested_source: "Wikimedia Commons: Andhra Pradesh High Court Amaravati"
   alt: "The Andhra Pradesh High Court building at Amaravati"
+  overlay:
+    value: "34% BC quota in local bodies struck down"
 related: []
 seo:
   description: "Andhra Pradesh High Court struck down a 34% BC quota in local bodies over the 50% ceiling. The reasoning, the Supreme Court's refusal and Naidu's response."

@@ -19,6 +19,8 @@ hero:
   need: "सब्ज़ी बाज़ार या किराना दुकान, जहां दाम लिखे बोर्ड दिखें, बेहतर हो कि किसी मंडी की तस्वीर हो"
   suggested_source: "Wikimedia Commons search 'Indian vegetable market'"
   alt: "भारत में एक बाज़ार के ठेले पर बिकती सब्ज़ियां"
+  overlay:
+    value: "अगस्त में खुदरा महंगाई 4.82%"
 related: [how-india-measures-inflation-new-cpi-series, inflation, rbi-raises-repo-rate-to-5-50, economy-dashboard, rbi-interest-rates]
 seo:
   description: "2024 आधार वाली नई सीरीज़ में अगस्त 2026 की सीपीआई महंगाई खाद्य कीमतों के कारण 4.82% पर पहुंची। मासिक आंकड़े, गांव-शहर का अंतर और आरबीआई का अगला अनुमान।"

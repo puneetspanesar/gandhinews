@@ -18,6 +18,8 @@ hero:
   need: "Finance Minister Nirmala Sitharaman chairing or briefing after the 57th GST Council meeting at Bharat Mandapam, 8 October 2026"
   suggested_source: "PIB photo gallery, 8 Oct 2026 (search 'GST Council 57th meeting'); credit PIB"
   alt: "Finance Minister Nirmala Sitharaman at the 57th GST Council meeting in New Delhi"
+  overlay:
+    value: "No arrest powers, ₹5 crore prosecution threshold"
 related: [gst-explained-slabs-council-revenue-sharing, gst]
 seo:
   description: "57th GST Council: arrest powers to go, prosecution threshold up to ₹5 crore, no notices under ₹10,000, faster refunds. What the official release says."

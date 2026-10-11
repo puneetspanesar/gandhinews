@@ -46,6 +46,7 @@ const base = z.object({
       src: optStr,
       credit: optStr,
       caption: optStr,
+      overlay: z.object({ kicker: optStr, value: optStr }).optional().nullable(),
     })
     .optional(),
   related: z.array(z.string()).default([]),

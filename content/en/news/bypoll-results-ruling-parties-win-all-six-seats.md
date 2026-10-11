@@ -18,6 +18,8 @@ hero:
   need: "Counting centre on 9 October 2026, or a winning candidate receiving the certificate in Nandigram or Nagaon"
   suggested_source: "PIB Photo / ECI media gallery; Wikimedia Commons search 'Nandigram bypoll 2026'"
   alt: "Election officials counting votes at a counting centre during the October 2026 bypolls"
+  overlay:
+    value: "6 of 6 seats to the ruling party of each state"
 related: [five-states-head-for-2027-assembly-polls, election-calendar, elections-2027, election-commission]
 seo:
   description: "Results of the 6 October 2026 bypolls: BJP wins Nagaon, Nandigram and Rejinagar, TVK holds two Tamil Nadu seats and AINRC wins Thattanchavady in Puducherry."

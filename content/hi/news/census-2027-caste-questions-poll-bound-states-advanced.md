@@ -19,6 +19,8 @@ hero:
   need: "2026 में मकान सूचीकरण के दौरान किसी घर पर टैबलेट या फोन के साथ जनगणना कर्मचारी"
   suggested_source: "PIB photo gallery or Office of the Registrar General (censusindia.gov.in); credit PIB / ORGI"
   alt: "परिवार का ब्योरा दर्ज करता एक जनगणना कर्मचारी"
+  overlay:
+    value: "जनगणना फॉर्म में फिर जाति का सवाल"
 related: [census-2027-what-will-be-asked-caste, publish-caste-census-in-full-on-time, census-2027]
 seo:
   description: "जनगणना 2027 में 40 सवालों के फॉर्म में जाति शामिल है। चुनाव से पहले यूपी, पंजाब, गोवा और उत्तराखंड में 1 दिसंबर 2026 से जनसंख्या गणना होगी। पूरा कार्यक्रम।"

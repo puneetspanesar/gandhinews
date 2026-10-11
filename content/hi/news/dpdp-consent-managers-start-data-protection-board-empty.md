@@ -19,6 +19,8 @@ hero:
   need: "नई दिल्ली में मेइटी की इमारत (इलेक्ट्रॉनिक्स निकेतन) या फोन पर सहमति (कंसेंट) स्क्रीन की कोई सामान्य तस्वीर"
   suggested_source: "PIB photo gallery, MeitY; or Wikimedia Commons 'Electronics Niketan'; credit as listed"
   alt: "नई दिल्ली में इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय की इमारत"
+  overlay:
+    value: "13 नवंबर से कंसेंट मैनेजर, बोर्ड अब भी खाली"
 related: [your-rights-under-dpdp-act, appoint-data-protection-board-before-rules-bite, data-protection]
 seo:
   description: "डीपीडीपी नियमों के तहत सहमति प्रबंधकों का ढांचा 13 नवंबर 2026 से शुरू होगा, पर डेटा संरक्षण बोर्ड में अब तक कोई सदस्य नहीं। क्या लागू होना है, क्या अधूरा है।"

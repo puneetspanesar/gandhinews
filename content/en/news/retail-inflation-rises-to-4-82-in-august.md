@@ -18,6 +18,8 @@ hero:
   need: "Vegetable market or kirana shop with price boards, ideally in a mandi"
   suggested_source: "Wikimedia Commons search 'Indian vegetable market'"
   alt: "Vegetables on sale at a market stall in India"
+  overlay:
+    value: "Retail inflation at 4.82% in August"
 related: [how-india-measures-inflation-new-cpi-series, inflation, rbi-raises-repo-rate-to-5-50, economy-dashboard, rbi-interest-rates]
 seo:
   description: "India's CPI inflation rose to 4.82% in August 2026 on the new base-2024 series, led by food. Monthly data, rural-urban split and what the RBI expects next."

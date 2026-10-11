@@ -19,6 +19,8 @@ hero:
   need: "मुंबई के मिंट रोड पर आरबीआई मुख्यालय, या 7 अक्टूबर 2026 की नीति प्रेस कॉन्फ्रेंस में गवर्नर संजय मल्होत्रा"
   suggested_source: "RBI media gallery; Wikimedia Commons search 'Reserve Bank of India headquarters Mumbai'"
   alt: "मुंबई में भारतीय रिज़र्व बैंक के मुख्यालय की इमारत"
+  overlay:
+    value: "रेपो रेट 5.25% → 5.50%"
 related: [rbi-interest-rates, repo-rate-and-your-emi-explained, retail-inflation-rises-to-4-82-in-august, rupee-near-97-as-crude-stays-above-100, rbi-right-to-move-fiscal-side-must-hold, economy-dashboard, inflation]
 seo:
   description: "आरबीआई की एमपीसी ने 7 अक्टूबर 2026 को रेपो रेट 25 बेसिस पॉइंट बढ़ाकर 5.50% किया और रुख कैलिब्रेटेड टाइटनिंग किया। वोटिंग, अनुमान और आगे क्या होगा, जानिए।"

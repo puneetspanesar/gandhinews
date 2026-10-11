@@ -19,6 +19,8 @@ hero:
   need: "नई दिल्ली का नॉर्थ ब्लॉक (वित्त मंत्रालय)"
   suggested_source: "Wikimedia Commons search 'North Block New Delhi'"
   alt: "नई दिल्ली का नॉर्थ ब्लॉक, जहां वित्त मंत्रालय है"
+  overlay:
+    value: "अगस्त तक साल के घाटे का 41.9%"
 related: [fiscal-deficit-explained, budget-2026-27-promise-tracker, rbi-right-to-move-fiscal-side-must-hold, economy-dashboard, rupee-near-97-as-crude-stays-above-100]
 seo:
   description: "अगस्त 2026 तक राजकोषीय घाटा ₹7.10 लाख करोड़, यानी वित्त वर्ष 27 के लक्ष्य का 41.9% रहा। टैक्स-सब्सिडी से इक्रा को ₹1.3-1.4 लाख करोड़ ज़्यादा घाटे का अंदेशा।"

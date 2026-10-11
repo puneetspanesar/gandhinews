@@ -13,6 +13,8 @@ hero:
   need: "किसी घर के दरवाज़े पर जनगणना कर्मी, या गिनती में शामिल होता कोई ग्रामीण परिवार"
   suggested_source: "PIB photo gallery or Office of the Registrar General (censusindia.gov.in); credit PIB / ORGI"
   alt: "घर पर एक परिवार से बात करता जनगणना कर्मी"
+  overlay:
+    value: "पूरी, और समय पर"
 related: [census-2027-caste-questions-poll-bound-states-advanced, census-2027-what-will-be-asked-caste, census-2027]
 seo:
   description: "जनगणना 2027 में 1931 के बाद पहली बार जाति गिनी जाएगी। महापंजीयक नतीजों का कैलेंडर, जाति कोडिंग का तरीका और पूरी जाति तालिकाएं प्रकाशित करें।"

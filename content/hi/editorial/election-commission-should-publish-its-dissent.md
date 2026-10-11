@@ -13,6 +13,8 @@ hero:
   need: "निर्वाचन सदन का बाहरी हिस्सा, या मतदाता की उंगली पर अमिट स्याही का निशान"
   suggested_source: "PIB Photo / Wikimedia Commons 'Nirvachan Sadan'"
   alt: "नई दिल्ली में भारत निर्वाचन आयोग का मुख्यालय, निर्वाचन सदन"
+  overlay:
+    value: "असहमति सार्वजनिक हो"
 related: [election-commission-dissent-report-move-to-remove-cec, how-chief-election-commissioner-is-appointed-removed, election-commission, sir-phase-three-draft-rolls-names-dropped-by-state]
 seo:
   description: "लोकवॉक्स संपादकीय: चुनाव आयोग एसआईआर जैसे बड़े फैसलों पर असहमति नोट दर्ज करे और उन्हें सार्वजनिक करे, जैसा आरबीआई की मौद्रिक नीति समिति करती है।"

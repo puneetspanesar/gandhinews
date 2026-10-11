@@ -18,6 +18,8 @@ hero:
   need: "US Department of Labor building in Washington, or an Indian IT campus exterior"
   suggested_source: "Wikimedia Commons: Frances Perkins Building (US Department of Labor)"
   alt: "The US Department of Labor headquarters in Washington"
+  overlay:
+    value: "Green-card filings frozen for 8 firms"
 related: [india-us-trade, india-us-trade-talks-plateau-russia-oil-tariff-law]
 seo:
   description: "The US froze green-card labour certifications for TCS, Infosys, Wipro, HCL and four others. India's MEA called JD Vance's remark unwarranted and offensive."

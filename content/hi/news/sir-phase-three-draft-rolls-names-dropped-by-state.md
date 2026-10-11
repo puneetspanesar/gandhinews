@@ -19,6 +19,8 @@ hero:
   need: "घर के दरवाज़े पर किसी मतदाता के साथ गणना फॉर्म जांचते बूथ लेवल अधिकारी, या मतदान केंद्र पर लगी मसौदा सूची"
   suggested_source: "PIB Photo / CEO state websites; Wikimedia Commons search 'Special Intensive Revision BLO'"
   alt: "विशेष गहन पुनरीक्षण के दौरान एक मतदाता का गणना फॉर्म जांचते बूथ लेवल अधिकारी"
+  overlay:
+    value: "मसौदा सूचियों से 6.15 करोड़ नाम बाहर"
 related: [special-intensive-revision-how-to-check-your-name, electoral-rolls-sir, election-commission-dissent-report-move-to-remove-cec, election-commission]
 seo:
   description: "एसआईआर तीसरे चरण में 17 राज्यों और केंद्रशासित प्रदेशों की मसौदा मतदाता सूचियों से 6.15 करोड़ नाम बाहर। राज्यवार आंकड़े, चुनाव आयोग की वजहें, विपक्ष की आपत्ति।"

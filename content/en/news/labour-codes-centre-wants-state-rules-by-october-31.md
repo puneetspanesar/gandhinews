@@ -18,6 +18,8 @@ hero:
   need: "Factory or construction workers at a site, or the Labour Secretary at the PHDCCI-Grant Thornton seminar on 24 September 2026"
   suggested_source: "PIB photo gallery, Ministry of Labour and Employment; credit PIB"
   alt: "Workers at an industrial site in India"
+  overlay:
+    value: "State rules due by 31 October"
 related: [four-labour-codes-explained-workers-employers, labour-codes-centre-states-owe-workers-deadline, labour-codes]
 seo:
   description: "The Centre wants all states to notify labour code rules by 31 October 2026. Ten have final rules, says the Labour Secretary. Where the states stand and why."

@@ -19,6 +19,8 @@ hero:
   need: "9 अक्टूबर 2026 को मतगणना केंद्र, या नंदीग्राम या नगांव में जीत का प्रमाणपत्र लेते विजेता उम्मीदवार"
   suggested_source: "PIB Photo / ECI media gallery; Wikimedia Commons search 'Nandigram bypoll 2026'"
   alt: "अक्टूबर 2026 के उपचुनावों में एक मतगणना केंद्र पर वोटों की गिनती करते चुनाव अधिकारी"
+  overlay:
+    value: "छह की छह सीटें राज्य के सत्तारूढ़ दल को"
 related: [five-states-head-for-2027-assembly-polls, election-calendar, elections-2027, election-commission]
 seo:
   description: "6 अक्टूबर 2026 उपचुनाव नतीजे: भाजपा ने नगांव, नंदीग्राम और रेजीनगर जीते, टीवीके ने तमिलनाडु की दो सीटें बचाईं, पुडुचेरी में एआईएनआरसी ने तट्टांचावडी जीती।"

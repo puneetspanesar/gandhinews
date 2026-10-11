@@ -19,6 +19,8 @@ hero:
   need: "सत्र के दौरान लोकसभा का सदन, या 13 अगस्त 2026 को सदन को अनिश्चितकाल के लिए स्थगित करते लोकसभा अध्यक्ष"
   suggested_source: "PIB photo gallery or Sansad TV stills, 13 Aug 2026 (credit PIB / Sansad TV)"
   alt: "नई दिल्ली के संसद भवन में लोकसभा का सदन"
+  overlay:
+    value: "इस कार्यकाल में लोकसभा का सबसे कम कामकाज"
 related: [parliament-that-sits-but-does-not-debate, how-a-bill-becomes-law-in-india, fcra-explained-2026-amendment-bill, bills-in-parliament-tracker, parliament]
 seo:
   description: "पीआरएस के मुताबिक मानसून सत्र 2026 में लोकसभा ने तय समय का सिर्फ 15% काम किया (सरकार के मुताबिक 19%)। 11 में से नौ विधेयक सिर्फ मंत्री के भाषण के साथ पारित हुए।"

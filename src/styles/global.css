@@ -773,3 +773,34 @@ html.so-on{overflow:hidden}
 @media (max-width:720px){
  .so-p{margin:0;width:100%;height:100%;max-height:none;border-radius:0;border:0}
 }
+
+/* article photo treatment: bottom gradient with the key fact */
+.hero-ph{position:relative;border-radius:4px;overflow:hidden}
+.hero-ph img,.hero-ph .ph{display:block;border-radius:0}
+.hov{position:absolute;left:0;right:0;bottom:0;padding:90px 28px 22px;background:linear-gradient(to top,rgba(13,13,13,.9) 0%,rgba(13,13,13,.72) 42%,rgba(13,13,13,0) 100%);color:#fff;display:flex;flex-direction:column;gap:6px}
+.hov .ok{font-family:var(--f-head);font-size:13px;font-weight:600;display:flex;align-items:center;gap:8px;color:#fff}
+.hov .ok::before{content:"";width:8px;height:8px;border-radius:50%;background:var(--red);flex:none}
+.hov .ov{font-family:var(--f-head);font-size:26px;font-weight:600;line-height:1.25;max-width:80%;letter-spacing:-.01em}
+:lang(hi) .hov .ov{line-height:1.45;letter-spacing:0}
+@media (max-width:720px){.hov{padding:60px 16px 14px}.hov .ov{font-size:18px;max-width:100%}}
+
+/* ```compare: what the law says vs what happened */
+.cmp{margin:32px 0;border-top:2px solid var(--ink);padding-top:12px}
+.cmp .ft{display:block;font-family:var(--f-head);font-size:16px;font-weight:600;color:var(--ink);margin:0 0 6px}
+.cmp-h,.cmp-r{display:grid;grid-template-columns:150px repeat(var(--n,2),1fr);column-gap:20px}
+.cmp.c2 .cmp-h,.cmp.c2 .cmp-r{--n:2}.cmp.c3 .cmp-h,.cmp.c3 .cmp-r{--n:3}
+.cmp-h{padding:8px 0;font-family:var(--f-head);font-size:13px;font-weight:600;color:var(--mut);border-bottom:1px solid var(--line)}
+.cmp-h .hl{color:var(--red)}
+.cmp-r{padding:14px 0;border-bottom:1px solid var(--line);align-items:start}
+.cmp-l{display:flex;align-items:center;gap:10px}
+.cmp-l .ic{width:24px;height:24px;color:var(--red);flex:none;display:flex}
+.cmp-l .ic svg{width:24px;height:24px}
+.cmp-l b{font-family:var(--f-head);font-size:15px;font-weight:600;color:var(--ink)}
+.cmp-c{font-size:14px;line-height:1.5;color:var(--ink2)}
+.cmp-c.hl{color:var(--ink);font-weight:500}
+@media (max-width:720px){
+ .cmp-h{display:none}
+ .cmp-r{grid-template-columns:1fr;row-gap:8px}
+ .cmp-c::before{content:attr(data-col);display:block;font-family:var(--f-head);font-size:12px;font-weight:600;color:var(--mut);margin-bottom:2px}
+ .cmp-c.hl::before{color:var(--red)}
+}

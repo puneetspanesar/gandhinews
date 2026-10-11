@@ -19,6 +19,8 @@ hero:
   need: "नई दिल्ली में भारत का सुप्रीम कोर्ट"
   suggested_source: "Wikimedia Commons 'Supreme Court of India'"
   alt: "नई दिल्ली में भारत का सुप्रीम कोर्ट"
+  overlay:
+    value: "मेट्रो, इंटरनेट सामान्य रूप से चलें"
 related: [what-is-the-cockroach-janta-party, election-commission-dissent-report-move-to-remove-cec, how-chief-election-commissioner-is-appointed-removed, sir-phase-three-draft-rolls-names-dropped-by-state, election-commission, electoral-rolls-sir]
 seo:
   description: "सीजेपी के 10 अक्टूबर के प्रदर्शन में ज़्यादातर अनुमानों के मुताबिक पुलिस ने हज़ारों लोगों को हिरासत में लिया। सुप्रीम कोर्ट ने मेट्रो, रेल और इंटरनेट बहाल करने का निर्देश दिया।"

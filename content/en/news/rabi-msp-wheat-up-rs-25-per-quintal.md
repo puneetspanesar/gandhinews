@@ -18,6 +18,8 @@ hero:
   need: "Wheat field in Punjab or Madhya Pradesh at sowing, or Cabinet briefing by Ashwini Vaishnaw on 30 September 2026"
   suggested_source: "PIB release PRID 2316956 and PIB photo gallery for the 30 Sep 2026 Cabinet briefing; credit PIB"
   alt: "A farmer in a wheat field"
+  overlay:
+    value: "Wheat MSP up ₹25 to ₹2,610 a quintal"
 related: [msp-explained-how-set-who-benefits]
 seo:
   description: "Cabinet sets rabi MSP for 2027–28: wheat ₹2,610 a quintal (+₹25), safflower +₹675, mustard +₹413, masoor +₹390. Crop-by-crop figures and margins over cost."

@@ -18,6 +18,8 @@ hero:
   need: "Voters queueing at a polling station in Uttar Pradesh or Punjab (archive, clearly captioned with year)"
   suggested_source: "PIB Photo archive; ECI media gallery"
   alt: "Voters queue outside a polling station (file photo)"
+  overlay:
+    value: "Five assemblies vote in early 2027"
 related: [election-calendar, elections-2027, electoral-rolls-sir, bypoll-results-ruling-parties-win-all-six-seats]
 seo:
   description: "Manipur, Goa, Punjab, Uttarakhand and Uttar Pradesh face assembly polls expected in Feb-March 2027. Term-end dates, census changes and roll revision status."

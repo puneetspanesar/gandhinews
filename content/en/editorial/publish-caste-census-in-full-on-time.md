@@ -12,6 +12,8 @@ hero:
   need: "Census enumerator at a doorstep, or a rural household being counted"
   suggested_source: "PIB photo gallery or Office of the Registrar General (censusindia.gov.in); credit PIB / ORGI"
   alt: "A census enumerator speaking to a family at their home"
+  overlay:
+    value: "In full, and on time"
 related: [census-2027-caste-questions-poll-bound-states-advanced, census-2027-what-will-be-asked-caste, census-2027]
 seo:
   description: "Census 2027 will count caste for the first time since 1931. The Registrar General should publish a release calendar, its coding method and full caste tables."

@@ -18,6 +18,8 @@ hero:
   need: "Kerala Legislative Assembly (Niyamasabha) building in Thiruvananthapuram"
   suggested_source: "Wikimedia Commons: Kerala Legislative Assembly building"
   alt: "The Kerala Legislative Assembly building in Thiruvananthapuram"
+  overlay:
+    value: "Kerala is now officially Keralam"
 related: [west-bengal-makes-bengali-compulsory-government-work]
 seo:
   description: "Kerala is officially Keralam from 25 August 2026. The Article 3 steps, the votes in Parliament, the notification date, and what the new Act spells out."

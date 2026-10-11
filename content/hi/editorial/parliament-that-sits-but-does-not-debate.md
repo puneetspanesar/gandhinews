@@ -13,6 +13,8 @@ hero:
   need: "लोकसभा की खाली या लगभग खाली बेंचें, या नए संसद भवन का बाहरी हिस्सा"
   suggested_source: "PIB / Sansad TV file photo of Parliament House, New Delhi"
   alt: "नई दिल्ली में संसद भवन"
+  overlay:
+    value: "बैठना बहस करना नहीं है"
 related: [monsoon-session-2026-ends-with-lowest-output, parliamentary-committees-jpc-standing-select-explained, how-a-bill-becomes-law-in-india, parliament]
 seo:
   description: "मानसून सत्र 2026 में कानून बिना बहस के पारित हुए, और दोष दोनों पक्षों का है। विधेयक समितियों को भेजे जाएं, बहस का समय सुरक्षित हो, लोकसभा उपाध्यक्ष चुना जाए।"

@@ -4,7 +4,7 @@
 // - fact checks: "### 1. ..." evidence sections -> numbered evidence items; "Source(s):" lines -> source chips
 // - internal links (/en/..., /hi/..., bare ids, /content/data/...) rewritten to real routes; broken ones fail the build
 import { visit, SKIP } from 'unist-util-visit';
-import { renderChart, renderFacts, renderTimeline, renderInfographic } from './blocks.mjs';
+import { renderChart, renderFacts, renderTimeline, renderInfographic, renderCompare } from './blocks.mjs';
 import { resolveHref } from './routes.mjs';
 import { iconSvg } from './icons.mjs';
 
@@ -33,7 +33,7 @@ export default function remarkGandhi() {
 
     // 1. Data blocks
     visit(tree, 'code', (node, index, parent) => {
-      if (!['chart', 'facts', 'timeline', 'infographic'].includes(node.lang)) return;
+      if (!['chart', 'facts', 'timeline', 'infographic', 'compare'].includes(node.lang)) return;
       let data;
       try {
         data = JSON.parse(node.value);
@@ -42,7 +42,7 @@ export default function remarkGandhi() {
       }
       let html;
       try {
-        html = node.lang === 'chart' ? renderChart(data, lang) : node.lang === 'facts' ? renderFacts(data, lang) : node.lang === 'infographic' ? renderInfographic(data, lang, (n) => iconSvg(n, 'i')) : renderTimeline(data, lang);
+        html = node.lang === 'chart' ? renderChart(data, lang) : node.lang === 'facts' ? renderFacts(data, lang) : node.lang === 'infographic' ? renderInfographic(data, lang, (n) => iconSvg(n, 'i')) : node.lang === 'compare' ? renderCompare(data, lang, (n) => iconSvg(n, 'i')) : renderTimeline(data, lang);
       } catch (e) {
         throw new Error(`[gandhi] Could not render \`\`\`${node.lang} block in ${where}: ${e.message}`);
       }

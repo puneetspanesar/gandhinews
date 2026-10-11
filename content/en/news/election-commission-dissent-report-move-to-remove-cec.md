@@ -18,6 +18,8 @@ hero:
   need: "Nirvachan Sadan, the Election Commission headquarters in New Delhi"
   suggested_source: "PIB Photo / ECI media gallery; Wikimedia Commons 'Nirvachan Sadan'"
   alt: "Nirvachan Sadan, headquarters of the Election Commission of India, New Delhi"
+  overlay:
+    value: "Two commissioners objected at least 14 times"
 related: [how-chief-election-commissioner-is-appointed-removed, election-commission-should-publish-its-dissent, election-commission, sir-phase-three-draft-rolls-names-dropped-by-state]
 seo:
   description: "Indian Express reported two Election Commissioners objected 14 times to SIR decisions; the ECI says decisions were unanimous. Where the CEC removal move stands."

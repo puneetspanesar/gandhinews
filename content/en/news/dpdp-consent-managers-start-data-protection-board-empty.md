@@ -18,6 +18,8 @@ hero:
   need: "MeitY building (Electronics Niketan, New Delhi) or a generic image of a phone consent screen"
   suggested_source: "PIB photo gallery, MeitY; or Wikimedia Commons 'Electronics Niketan'; credit as listed"
   alt: "The Ministry of Electronics and Information Technology building in New Delhi"
+  overlay:
+    value: "Consent managers from 13 November, Board still empty"
 related: [your-rights-under-dpdp-act, appoint-data-protection-board-before-rules-bite, data-protection]
 seo:
   description: "The consent manager framework under India's DPDP Rules begins on 13 November 2026, but the Data Protection Board still has no members. What is due and missing."

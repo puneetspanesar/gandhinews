@@ -18,6 +18,8 @@ hero:
   need: "Nirmala Sitharaman or Piyush Goyal at a trade-related event, or shipping containers at an Indian port"
   suggested_source: "PIB Photo search: Piyush Goyal USTR Greer 2026; or Nirmala Sitharaman October 2026"
   alt: "Containers stacked at an Indian port"
+  overlay:
+    value: "Trade talks at a plateau, 100% tariffs possible"
 related: [india-us-trade, us-suspends-indian-it-firms-green-card-sponsorship, rupee-near-97-as-crude-stays-above-100, rbi-raises-repo-rate-to-5-50]
 seo:
   description: "India-US trade talks have hit a plateau, says Sitharaman. What US tariffs on India are in force, what is not, and what the new Russia oil sanctions law allows."

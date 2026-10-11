@@ -67,10 +67,11 @@
       }
     ],
     "relatedBelow": [
+      "protest-is-not-a-threat-to-public-order",
       "what-is-the-cockroach-janta-party"
     ],
     "relatedBeside": [
-      "election-commission-dissent-report-move-to-remove-cec",
+      "mea-rejects-un-rights-office-remarks-delhi-protest-detentions",
       "rbi-raises-repo-rate-to-5-50"
     ]
   },
@@ -88,6 +89,39 @@
         }
       },
       {
+        "link": "modi-opens-chennai-metro-stretch-vijay-seeks-school-funds",
+        "lead": {
+          "en": "Chennai:",
+          "hi": "चेन्नई:"
+        },
+        "text": {
+          "en": "Modi opened a new Metro stretch with CM Vijay, who asked for ₹5,110 crore in school funds.",
+          "hi": "मोदी ने मुख्यमंत्री विजय के साथ मेट्रो का नया हिस्सा खोला; विजय ने स्कूलों के ₹5,110 करोड़ मांगे।"
+        }
+      },
+      {
+        "link": "rbi-raises-daily-crr-minimum-to-99-per-cent",
+        "lead": {
+          "en": "Banks:",
+          "hi": "बैंक:"
+        },
+        "text": {
+          "en": "the RBI raised the daily CRR minimum from 90% to 99% from 16 October.",
+          "hi": "आरबीआई ने रोज़ाना सीआरआर की न्यूनतम सीमा 16 अक्टूबर से 90% से बढ़ाकर 99% की।"
+        }
+      },
+      {
+        "link": "india-condemns-houthi-attacks-saudi-airports-riyadh",
+        "lead": {
+          "en": "West Asia:",
+          "hi": "पश्चिम एशिया:"
+        },
+        "text": {
+          "en": "India condemned attacks on Saudi airports; the embassy advised Indians to stay indoors as needed.",
+          "hi": "भारत ने सऊदी हवाई अड्डों पर हमलों की निंदा की; दूतावास ने भारतीयों को ज़रूरत हो तो घर में रहने की सलाह दी।"
+        }
+      },
+      {
         "link": "rbi-raises-repo-rate-to-5-50",
         "lead": {
           "en": "RBI:",
@@ -99,17 +133,6 @@
         }
       },
       {
-        "link": "bypoll-results-ruling-parties-win-all-six-seats",
-        "lead": {
-          "en": "Bypolls:",
-          "hi": "उपचुनाव:"
-        },
-        "text": {
-          "en": "each of the six seats counted on 9 October went to the party that runs the state.",
-          "hi": "9 अक्टूबर को गिनी गई छहों सीटें उसी दल को मिलीं जिसकी उस राज्य में सरकार है।"
-        }
-      },
-      {
         "link": "sir-phase-three-draft-rolls-names-dropped-by-state",
         "lead": {
           "en": "SIR phase III:",
@@ -118,28 +141,6 @@
         "text": {
           "en": "draft rolls in 17 states and UTs left out more than 6.15 crore names.",
           "hi": "17 राज्यों और केंद्रशासित प्रदेशों की मसौदा मतदाता सूचियों में 6.15 करोड़ से ज़्यादा नाम छूट गए।"
-        }
-      },
-      {
-        "link": "gst-council-scraps-arrest-powers-raises-prosecution-threshold",
-        "lead": {
-          "en": "GST Council",
-          "hi": "जीएसटी परिषद"
-        },
-        "text": {
-          "en": "recommended ending officers' arrest powers and lifting the prosecution threshold to ₹5 crore.",
-          "hi": "ने अधिकारियों के गिरफ्तारी के अधिकार खत्म करने और अभियोजन की सीमा बढ़ाकर ₹5 करोड़ करने की सिफारिश की।"
-        }
-      },
-      {
-        "link": "us-suspends-indian-it-firms-green-card-sponsorship",
-        "lead": {
-          "en": "US green cards:",
-          "hi": "अमेरिकी ग्रीन कार्ड:"
-        },
-        "text": {
-          "en": "the Labor Department froze PERM filings from eight firms, including TCS and Infosys.",
-          "hi": "अमेरिकी श्रम विभाग ने टीसीएस और इन्फोसिस समेत आठ कंपनियों की PERM फाइलिंग रोक दी।"
         }
       },
       {
@@ -218,18 +219,18 @@
   },
   "topStories": {
     "big": {
-      "id": "sir-phase-three-draft-rolls-names-dropped-by-state",
+      "id": "modi-opens-chennai-metro-stretch-vijay-seeks-school-funds",
       "also": [
-        "special-intensive-revision-how-to-check-your-name",
-        "electoral-rolls-sir"
+        "rahul-gandhi-lunches-with-vijay-day-before-modi-visit",
+        "supreme-court-declines-plea-aiadmk-mlas-disqualification"
       ]
     },
     "list": [
-      "bypoll-results-ruling-parties-win-all-six-seats",
-      "gst-council-scraps-arrest-powers-raises-prosecution-threshold",
-      "india-us-trade-talks-plateau-russia-oil-tariff-law",
-      "us-suspends-indian-it-firms-green-card-sponsorship",
-      "monsoon-session-2026-ends-with-lowest-output"
+      "supreme-court-sir-cannot-delay-local-body-polls",
+      "rbi-raises-daily-crr-minimum-to-99-per-cent",
+      "india-condemns-houthi-attacks-saudi-airports-riyadh",
+      "draft-steel-policy-targets-604-mt-capacity-by-2047",
+      "sir-phase-three-draft-rolls-names-dropped-by-state"
     ]
   },
   "startHere": [
@@ -391,11 +392,11 @@
     }
   ],
   "opinion": [
+    "protest-is-not-a-threat-to-public-order",
     "rbi-right-to-move-fiscal-side-must-hold",
     "parliament-that-sits-but-does-not-debate",
     "election-commission-should-publish-its-dissent",
-    "labour-codes-centre-states-owe-workers-deadline",
-    "appoint-data-protection-board-before-rules-bite"
+    "labour-codes-centre-states-owe-workers-deadline"
   ],
   "sections": [
     {
@@ -405,17 +406,18 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "rahul-gandhi-lunches-with-vijay-day-before-modi-visit",
         "election-commission-dissent-report-move-to-remove-cec"
       ]
     },
     {
       "section": "policy",
-      "lead": "rabi-msp-wheat-up-rs-25-per-quintal",
+      "lead": "draft-steel-policy-targets-604-mt-capacity-by-2047",
       "list": [
+        "rabi-msp-wheat-up-rs-25-per-quintal",
         "labour-codes-centre-wants-state-rules-by-october-31",
         "census-2027-caste-questions-poll-bound-states-advanced",
-        "dpdp-consent-managers-start-data-protection-board-empty",
-        "msp-explained-how-set-who-benefits"
+        "dpdp-consent-managers-start-data-protection-board-empty"
       ]
     },
     {
@@ -431,6 +433,7 @@
         ]
       },
       "list": [
+        "rbi-raises-daily-crr-minimum-to-99-per-cent",
         "fiscal-deficit-reaches-41-9-of-target-by-august"
       ]
     },
@@ -441,23 +444,26 @@
         "session": "monsoon-2026"
       },
       "list": [
+        "supreme-court-sir-cannot-delay-local-body-polls",
         "fcra-explained-2026-amendment-bill"
       ]
     },
     {
       "section": "states",
-      "lead": "west-bengal-makes-bengali-compulsory-government-work",
+      "lead": "modi-opens-chennai-metro-stretch-vijay-seeks-school-funds",
       "list": [
-        "kerala-becomes-keralam-what-changes",
-        "andhra-high-court-strikes-down-bc-quota-local-bodies"
+        "supreme-court-declines-plea-aiadmk-mlas-disqualification",
+        "west-bengal-makes-bengali-compulsory-government-work",
+        "kerala-becomes-keralam-what-changes"
       ]
     },
     {
       "section": "world",
-      "lead": "india-us-trade-talks-plateau-russia-oil-tariff-law",
+      "lead": "india-condemns-houthi-attacks-saudi-airports-riyadh",
       "list": [
-        "us-suspends-indian-it-firms-green-card-sponsorship",
-        "ai-brics-selfie-modi-putin-xi-raisi"
+        "mea-rejects-un-rights-office-remarks-delhi-protest-detentions",
+        "india-us-trade-talks-plateau-russia-oil-tariff-law",
+        "us-suspends-indian-it-firms-green-card-sponsorship"
       ]
     }
   ]

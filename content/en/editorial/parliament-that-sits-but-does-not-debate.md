@@ -12,6 +12,8 @@ hero:
   need: "Empty or near-empty Lok Sabha benches, or the new Parliament House exterior"
   suggested_source: "PIB / Sansad TV file photo of Parliament House, New Delhi"
   alt: "Parliament House in New Delhi"
+  overlay:
+    value: "Sitting is not debating"
 related: [monsoon-session-2026-ends-with-lowest-output, parliamentary-committees-jpc-standing-select-explained, how-a-bill-becomes-law-in-india, parliament]
 seo:
   description: "The Monsoon Session 2026 passed laws without debate, and both sides share the blame. Refer Bills to committees, protect debate time, elect a Deputy Speaker."

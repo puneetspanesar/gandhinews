@@ -19,6 +19,8 @@ hero:
   need: "वॉशिंगटन में अमेरिकी श्रम विभाग की इमारत, या किसी भारतीय आईटी कैंपस का बाहरी दृश्य"
   suggested_source: "Wikimedia Commons: Frances Perkins Building (US Department of Labor)"
   alt: "वॉशिंगटन में अमेरिकी श्रम विभाग का मुख्यालय"
+  overlay:
+    value: "8 कंपनियों की ग्रीन कार्ड फाइलिंग पर रोक"
 related: [india-us-trade, india-us-trade-talks-plateau-russia-oil-tariff-law]
 seo:
   description: "अमेरिका ने टीसीएस, इंफोसिस, विप्रो, एचसीएल और चार अन्य कंपनियों के ग्रीन कार्ड श्रम प्रमाणन रोके। विदेश मंत्रालय ने जेडी वेंस की टिप्पणी को आपत्तिजनक बताया।"

@@ -18,6 +18,8 @@ hero:
   need: "North Block, New Delhi (Ministry of Finance)"
   suggested_source: "Wikimedia Commons search 'North Block New Delhi'"
   alt: "North Block in New Delhi, which houses the Ministry of Finance"
+  overlay:
+    value: "41.9% of the year’s deficit used by August"
 related: [fiscal-deficit-explained, budget-2026-27-promise-tracker, rbi-right-to-move-fiscal-side-must-hold, economy-dashboard, rupee-near-97-as-crude-stays-above-100]
 seo:
   description: "India's fiscal deficit hit ₹7.10 lakh crore, 41.9% of the FY27 target, by August 2026. ICRA sees a ₹1.3-1.4 lakh crore overshoot on taxes and subsidies."

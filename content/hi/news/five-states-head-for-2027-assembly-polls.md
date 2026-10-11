@@ -19,6 +19,8 @@ hero:
   need: "उत्तर प्रदेश या पंजाब में किसी मतदान केंद्र पर कतार में खड़े मतदाता (पुरानी तस्वीर, साल के साथ साफ कैप्शन)"
   suggested_source: "PIB Photo archive; ECI media gallery"
   alt: "एक मतदान केंद्र के बाहर कतार में खड़े मतदाता (फाइल फोटो)"
+  overlay:
+    value: "2027 की शुरुआत में पांच विधानसभा चुनाव"
 related: [election-calendar, elections-2027, electoral-rolls-sir, bypoll-results-ruling-parties-win-all-six-seats]
 seo:
   description: "मणिपुर, गोवा, पंजाब, उत्तराखंड और यूपी में फरवरी-मार्च 2027 में विधानसभा चुनाव की उम्मीद। कार्यकाल खत्म होने की तारीखें, जनगणना में बदलाव और एसआईआर की स्थिति।"
