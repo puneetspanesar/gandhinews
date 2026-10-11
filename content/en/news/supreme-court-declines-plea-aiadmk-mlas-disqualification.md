@@ -65,7 +65,7 @@ sources:
     url: "https://m.thewire.in/article/politics/tamil-nadu-speaker-drops-disqualification-proceedings-against-21-aiadmk-rebel-mlas/amp"
     primary: false
 verification:
-  status: draft
+  status: approved
   notes:
     - "The Supreme Court's order was not opened; the bench's remarks are as reported by Deccan Chronicle, DT Next and ETV Bharat on 9-10 October. The 'interloper' and 'multi-party system' remarks appear only in ETV Bharat and are attributed to the bench, not to a named judge."
     - "Justice Bagchi's quote ('We are fully with you...') is from DT Next; Deccan Chronicle paraphrases the same point."

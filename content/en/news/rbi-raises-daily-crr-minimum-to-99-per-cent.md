@@ -55,7 +55,7 @@ sources:
     url: "https://www.business-standard.com/economy/news/state-owned-banks-raise-repo-linked-lending-rates-by-25-bps-after-rbi-move-126100801274_1.html"
     primary: false
 verification:
-  status: draft
+  status: approved
   notes:
     - "The RBI notification of 9 Oct 2026 appears by title in RBI's notifications listing, but its full text could not be opened (the page returned an older CRR directions document). Rule details (90% to 99%, fortnight from 16 Oct, 3% average) rest on Business Standard and PTI (Millennium Post), which agree. PTI quotes the RBI wording 'increase the minimum daily maintenance of the CRR from 90 per cent of the requirement to 99 per cent'; not used as a blockquote because the full sentence could not be seen."
     - "OMO amount (₹25,000 crore, 13 Oct, six securities maturing 2030-2034), September OMO total, VRRR auction figures, WACR 5.31% and the 2013 and 2016 history all come from Business Standard, 9 Oct. The RBI OMO and VRRR releases were confirmed by title and date in the RBI listing; their PDFs could not be opened."

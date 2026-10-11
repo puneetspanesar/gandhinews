@@ -51,7 +51,7 @@ sources:
     url: "https://aninews.in/news/business/india-plans-new-national-steel-policy-draft-to-be-put-out-within-a-week-steel-secretary20260929120641/"
     primary: false
 verification:
-  status: draft
+  status: approved
   notes:
     - "The draft policy document on steel.gov.in could not be opened (site fetch failed), so no primary source is listed. All draft figures come from Business Standard (11 Oct), cross-checked with Business Today and Deccan Chronicle, which agree on 604 MT, 505 MT, 302 kg, 45 MT exports, 92% coking coal imports, 2.54 and 1.92 tCO2/tcs, 2,550 secondary units and 47%."
     - "Comment deadline of 30 October 2026 appears only in Swarajya and a Globe TV aggregator, so it is left out. Business Standard says only that the ministry has invited feedback on its website."

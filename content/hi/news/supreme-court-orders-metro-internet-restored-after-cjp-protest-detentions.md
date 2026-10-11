@@ -91,7 +91,7 @@ sources:
     url: "https://www.etvbharat.com/en/bharat/live-blog--cjp-protest-delhi-live-updates-abhijeet-dipke-dhruv-rathee-jantar-mantar-enn26101100436"
     primary: false
 verification:
-  status: draft
+  status: approved
   notes:
     - "Detention totals conflict and none is on the record: about 1,000 (Delhi Police sources, Gulf News and Organiser); about 2,000 (a Home Ministry official, Reuters via Al Jazeera); nearly 2,500 (Delhi Police sources, The Hindu via Al Jazeera); over 7,000 (PTI via Business Standard; The Week); more than 15,000 'faced detentions and police action' (CJP's Ajinkya Shinde, Business Standard). All shown with attribution."
     - "11 Oct: house style changed to report in the desk's own voice. Outlet attributions removed from the text; claims stay attributed to the people and bodies that made them. Facts resting on a single outlet's report are worded as 'reported' or kept to what police, the court or the parties said. Sources stay listed here as the internal record."

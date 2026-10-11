@@ -60,7 +60,7 @@ sources:
     url: "https://www.barandbench.com/news/litigation/west-bengal-sir-supreme-court-to-hear-plea-to-allow-excluded-voters-under-appeal-to-vote-for-upcoming-municipal-elections"
     primary: false
 verification:
-  status: draft
+  status: approved
   notes:
     - "The Supreme Court's written order in Paka Suresh v. Union of India (SLP(C) 35786/2026) was not opened. The directions are as reported by LiveLaw, ETV Bharat, Deccan Chronicle and The Hans India; none reproduces the order text, so the court's words are paraphrased, not quoted."
     - "Deccan Chronicle calls the Andhra petition a YSRCP plea; LiveLaw names the petitioner as Paka Suresh without a party link. Copy names Paka Suresh and does not say the YSRCP filed it."

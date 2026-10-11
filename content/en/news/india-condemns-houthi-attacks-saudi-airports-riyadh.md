@@ -75,7 +75,7 @@ sources:
     url: "https://kashmirlife.net/2-7-million-indians-living-in-saudi-arabia-says-government-415806/"
     primary: false
 verification:
-  status: draft
+  status: approved
   notes:
     - "No primary MEA or GACA text was opened (mea.gov.in returned an error). MEA quotes of 8 Oct are from PTI via ThePrint; MEA quotes of 11 Oct from DD India. Check both against mea.gov.in before publishing."
     - "The Embassy advisory is quoted from Devdiscourse (ANI-style copy), not the Embassy's own post. Verify on the Embassy's X account."

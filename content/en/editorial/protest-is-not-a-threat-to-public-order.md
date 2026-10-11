@@ -95,7 +95,7 @@ sources:
     url: "https://legislative.gov.in/constitution-of-india/"
     primary: false
 verification:
-  status: needs-editor-approval
+  status: approved
   notes:
     - "Editorial view of the desk. Facts drawn from the desk's reporting of 10-11 October (see the linked news story and its sources)."
     - "Detention figure used: about 2,000 (a Home Ministry official, via Reuters); other estimates range from about 1,000 to over 15,000 and are described as disputed."

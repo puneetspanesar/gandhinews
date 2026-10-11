@@ -81,7 +81,7 @@ sources:
     url: "https://aninews.in/news/national/politics/projects-worth-rs-13000-crore-will-8220create-jobs-for-young-people-across-tamil-nadu8221-pm-modi20261011155053/"
     primary: false
 verification:
-  status: draft
+  status: approved
   notes:
     - "No on-record statement from Gandhi, Vijay, TVK or the Congress about the lunch was found. 'About an hour' rests on party sources and media reports (The News Minute, India Today via NPUI). The invitation to join anti-BJP campaigns rests on unnamed Congress sources quoted by South First, so it is worded as 'reported'. The Taj Connemara meeting is South First only and is left out."
     - "Whether TVK is formally in the INDIA bloc is unclear: The News Minute says it formally joined; South First and The Federal say it is not formally part. The story quotes TVK spokesperson Felix Gerald's own words from 3 October instead of asserting membership."

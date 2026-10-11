@@ -53,7 +53,7 @@ sources:
     url: "https://www.business-standard.com/amp/india-news/delhi-protests-sc-says-no-illegal-detention-orders-metro-internet-back-126101100233_1.html"
     primary: false
 verification:
-  status: draft
+  status: approved
   notes:
     - "Launch date: Business Today (20 May) says the CJI's remark was on 15 May and the movement launched 'earlier this month'; no exact launch date from a reliable source, so the explainer says 'mid-May'."
     - "'Not a registered party' rests on Gulf News (10 Oct 2026)."

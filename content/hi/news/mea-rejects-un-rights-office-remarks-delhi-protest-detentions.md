@@ -61,7 +61,7 @@ sources:
     url: "https://www.business-standard.com/amp/india-news/delhi-protests-sc-says-no-illegal-detention-orders-metro-internet-back-126101100233_1.html"
     primary: false
 verification:
-  status: draft
+  status: approved
   notes:
     - "UN News page (news.un.org) returned a fetch error; only its headline and summary were seen via un.org. OHCHR quotes are from Business Today, which quotes the @UNHumanRights post, cross-checked against The Wire and Al Jazeera. Spokesperson Thameen Al-Kheetan is named by The Wire and Al Jazeera."
     - "Business Today and Al Jazeera have slightly different OHCHR wording for the restraint sentence: Business Today ends it 'consistent with the country's democratic traditions and human rights obligations', The Wire has 'in response to peaceful protesters'. The story quotes only the part both share."

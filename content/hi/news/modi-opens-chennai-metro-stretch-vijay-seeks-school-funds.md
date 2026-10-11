@@ -75,7 +75,7 @@ sources:
     url: "https://thefederal.com/category/states/south/tamil-nadu/rahul-drops-in-for-lunch-and-coffee-but-will-vijay-join-the-sir-war-259175"
     primary: false
 verification:
-  status: draft
+  status: approved
   notes:
     - "No PIB release or official speech text was opened. Modi's quotes are as carried by ANI and Business Standard; the speech appears to have been translated, and the two versions differ slightly. Where they differ ('Governments may change, but my resolve...' in BS vs 'Governments changed, but my resolve...' in ANI), the body paraphrases and quotes only the words both carry ('taking this journey forward with CM Joseph Vijay')."
     - "Stretch length: The Federal and India TV say about 15 km; DT Next gives 14.64 km. The story says 'about 15 km'."
