@@ -689,7 +689,7 @@ footer .legal a:hover{color:#fff}
 .meta .ed a{color:var(--ink);text-decoration:underline;text-underline-offset:2px;text-decoration-color:#bbb}
 
 /* cookie notice */
-.ck{position:fixed;left:24px;bottom:24px;z-index:70;max-width:420px;background:#fff;border:1px solid var(--line);border-radius:6px;padding:16px 18px;font-size:14px;line-height:1.45;color:var(--ink2)}
+.ck{position:fixed;right:24px;bottom:24px;z-index:70;max-width:420px;background:#fff;border:1px solid var(--line);border-radius:6px;padding:16px 18px;font-size:14px;line-height:1.45;color:var(--ink2)}
 .ck[hidden]{display:none}
 .ck p{margin:0}
 .ck a{color:var(--ink);text-decoration:underline;text-underline-offset:2px}
