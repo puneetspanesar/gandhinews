@@ -1,0 +1,6 @@
+200 353616 0.432284 | GandhiNewsPhotoFetcher/1.0 (https://github.com/puneetspanesar/gandhinews; puneet.panesar24@gmail.com) | https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Tower_and_building_of_Reserve_Bank_of_India%2C_Mumbai_02.jpg/1280px-Tower_and_building_of_Reserve_Bank_of_India%2C_Mumbai_02.jpg
+200 353616 0.201219 | Mozilla/5.0 | https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Tower_and_building_of_Reserve_Bank_of_India%2C_Mumbai_02.jpg/1280px-Tower_and_building_of_Reserve_Bank_of_India%2C_Mumbai_02.jpg
+200 3569848 0.436185 | GandhiNewsPhotoFetcher/1.0 (https://github.com/puneetspanesar/gandhinews; puneet.panesar24@gmail.com) | https://upload.wikimedia.org/wikipedia/commons/a/a3/Tower_and_building_of_Reserve_Bank_of_India%2C_Mumbai_02.jpg
+200 3569848 0.363399 | Mozilla/5.0 | https://upload.wikimedia.org/wikipedia/commons/a/a3/Tower_and_building_of_Reserve_Bank_of_India%2C_Mumbai_02.jpg
+200 353616 0.592837 | GandhiNewsPhotoFetcher/1.0 (https://github.com/puneetspanesar/gandhinews; puneet.panesar24@gmail.com) | https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Tower_and_building_of_Reserve_Bank_of_India,_Mumbai_02.jpg&width=1280
+200 353616 0.293892 | Mozilla/5.0 | https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Tower_and_building_of_Reserve_Bank_of_India,_Mumbai_02.jpg&width=1280
