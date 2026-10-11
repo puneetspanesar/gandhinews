@@ -14,7 +14,7 @@
     "AWS_REGION": "ap-south-1",
     "MAIL_FROM_ADDRESS": "brief@lokvox.com"
   },
-  "d1_databases": [{ "binding": "DB", "database_name": "lokvox-subscribers", "database_id": "6b088a99-6771-4d69-bc2f-06a764cc16c7" }]
-  // Added once Email Sending is set up for lokvox.com (adding it earlier would fail the deploy):
-  // "send_email": [{ "name": "EMAIL", "remote": true }]
+  "d1_databases": [{ "binding": "DB", "database_name": "lokvox-subscribers", "database_id": "6b088a99-6771-4d69-bc2f-06a764cc16c7" }],
+  // Cloudflare Email Service: sends the confirmation emails from brief@lokvox.com.
+  "send_email": [{ "name": "EMAIL", "remote": true }]
 }
