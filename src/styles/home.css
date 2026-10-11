@@ -302,3 +302,11 @@
 .home .nopic .chartbox .fig{margin-top:0;border-top:2px solid var(--ink);padding-top:12px}
 .home .nopic .chartbox .fig .ft{font-size:16px}
 .home .nopic .chartbox .lc{grid-template-rows:300px auto;margin-top:30px}
+/* lead photo: news strip over a bottom gradient */
+.home .pic .lph{position:relative;display:block;border-radius:4px;overflow:hidden}
+.home .pic .lph img,.home .pic .lph .ph{display:block;border-radius:0}
+.home .pic .lph .ov{position:absolute;left:0;right:0;bottom:0;padding:56px 18px 16px;background:linear-gradient(to top,rgba(13,13,13,.92) 0%,rgba(13,13,13,.78) 45%,rgba(13,13,13,0) 100%);color:#fff;display:flex;flex-direction:column;gap:4px}
+.home .pic .lph .ok{font-family:var(--f-head);font-size:12px;font-weight:600;color:#fff;display:flex;align-items:center;gap:6px}
+.home .pic .lph .ok::before{content:"";width:8px;height:8px;border-radius:50%;background:var(--red)}
+.home .pic .lph .ovv{font-family:var(--f-head);font-size:22px;font-weight:700;letter-spacing:-.01em;line-height:1.2}
+.home .pic .lph .ot{font-size:14px;color:#d9d9d9;line-height:1.4}

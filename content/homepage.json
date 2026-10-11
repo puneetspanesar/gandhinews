@@ -50,7 +50,21 @@
     "relatedBeside": [
       "rbi-right-to-move-fiscal-side-must-hold",
       "rupee-near-97-as-crude-stays-above-100"
-    ]
+    ],
+    "overlay": {
+      "kicker": {
+        "en": "MPC decision, 7 October",
+        "hi": "एमपीसी का फैसला, 7 अक्टूबर"
+      },
+      "value": {
+        "en": "Repo rate 5.25% → 5.50%",
+        "hi": "रेपो रेट 5.25% → 5.50%"
+      },
+      "text": {
+        "en": "First hike since February 2023, voted 6-0",
+        "hi": "फरवरी 2023 के बाद पहली बढ़ोतरी, वोट 6-0"
+      }
+    }
   },
   "briefing": {
     "items": [
