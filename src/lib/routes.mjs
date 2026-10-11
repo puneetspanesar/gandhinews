@@ -55,6 +55,7 @@ export function contentIndex() {
 /** Trust and legal pages (Markdown in /content/pages/{lang}/{id}.md), id -> path. */
 export const TRUST_PAGES = {
   about: 'about',
+  editor: 'editor',
   standards: 'standards',
   corrections: 'corrections',
   ownership: 'ownership',

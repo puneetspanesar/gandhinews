@@ -10,6 +10,7 @@ export const PUBLISHER = {
   logo: { '@type': 'ImageObject', url: `${SITE_URL}/logo.png`, width: 512, height: 512 },
 };
 export const AUTHOR = { '@type': 'Organization', name: 'LokVox Editorial Desk', url: `${SITE_URL}/` };
+export const EDITOR = { '@type': 'Person', name: 'Puneet Singh', jobTitle: 'Editor and Publisher', url: `${SITE_URL}/editor/`, worksFor: { '@type': 'NewsMediaOrganization', name: 'LokVox', url: `${SITE_URL}/` } };
 const inLang = (l: Lang) => (l === 'hi' ? 'hi-IN' : 'en-IN');
 const img = () => ({ '@type': 'ImageObject', url: `${SITE_URL}/og-default.png`, width: 1200, height: 630 });
 
@@ -32,6 +33,7 @@ export function newsArticleLd(d: any) {
     isAccessibleForFree: true,
     image: [img()],
     author: [AUTHOR],
+    editor: EDITOR,
     publisher: PUBLISHER,
     ...(d.location ? { contentLocation: { '@type': 'Place', name: d.location } } : {}),
     ...(d.translation_of ? { translationOfWork: { '@id': `${abs(urlOf({ ...d, lang: 'en' }))}#article` } } : {}),

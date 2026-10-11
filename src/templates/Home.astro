@@ -213,7 +213,7 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
             <a href={`${p}/fact-check/methodology/`}>{h.method}</a>
           </div>
           <!-- TODO(launch): point this at the WhatsApp tip line (wa.me/<number>) once the number exists. Until then it opens the contact page, which shows the placeholder. -->
-          <a class="btn" href={`${p}/contact/#whatsapp`} data-todo="whatsapp-tipline"><Icon name="whatsapp-logo" />{h.wa}</a>
+          <a class="btn" href="https://wa.me/917760906195" rel="noopener" target="_blank"><Icon name="whatsapp-logo" />{h.wa}</a>
         </div>
       </div>
       <div class="fcstat"><span><b class="num">{m.fcStats.total}</b>{h.checked}</span>{m.fcStats.counts.map((c: any) => <span><b class="num">{c.n}</b>{lang === 'en' ? t.verdicts[c.v as 'true'].toLowerCase() : t.verdicts[c.v as 'true']}</span>)}</div>

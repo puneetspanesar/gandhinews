@@ -683,3 +683,7 @@ footer .legal a:hover{color:#fff}
 
 /* key facts inside key points */
 .kp .hl,.kf .hl{color:var(--red);font-weight:600}
+
+/* editor credit in bylines */
+.meta .ed{display:block;color:var(--ink2)}
+.meta .ed a{color:var(--ink);text-decoration:underline;text-underline-offset:2px;text-decoration-color:#bbb}
