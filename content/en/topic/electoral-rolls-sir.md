@@ -12,7 +12,7 @@ hero:
   need: "Booth Level Officer with enumeration forms"
   suggested_source: "PIB Photo / state CEO websites"
   alt: "A booth level officer carrying enumeration forms during the Special Intensive Revision"
-related: [special-intensive-revision-how-to-check-your-name, sir-phase-three-draft-rolls-names-dropped-by-state, election-commission-dissent-report-move-to-remove-cec, election-commission, elections-2027, five-states-head-for-2027-assembly-polls]
+related: [supreme-court-orders-metro-internet-restored-after-cjp-protest-detentions, what-is-the-cockroach-janta-party, special-intensive-revision-how-to-check-your-name, sir-phase-three-draft-rolls-names-dropped-by-state, election-commission-dissent-report-move-to-remove-cec, election-commission, elections-2027, five-states-head-for-2027-assembly-polls]
 seo:
   description: "Living guide to the Special Intensive Revision of electoral rolls: phases, draft-roll exclusions, court cases and how to check your name. As of October 2026."
 sources:

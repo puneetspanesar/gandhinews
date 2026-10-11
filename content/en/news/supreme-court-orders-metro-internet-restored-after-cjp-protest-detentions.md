@@ -1,0 +1,152 @@
+---
+id: supreme-court-orders-metro-internet-restored-after-cjp-protest-detentions
+lang: en
+type: news
+section: politics
+format_label: "Politics / Protests"
+topics: [election-commission, electoral-rolls-sir, supreme-court]
+title: "Supreme Court orders Metro and internet restored after mass detentions at CJP protest"
+standfirst: "Police held thousands, by most counts, as they blocked a march against CEC Gyanesh Kumar on 10 October. At a Sunday sitting, the court said peaceful protesters cannot be held except by law."
+published: 2026-10-11T16:30:00+05:30
+location: New Delhi
+keyPoints:
+  - "Police stopped the Cockroach Janta Party's march to Jantar Mantar on 10 October; counts of those detained range from about 1,000 (Delhi Police sources) and about 2,000 (a Home Ministry official) to over 15,000 (the CJP)."
+  - "CJP founder Abhijeet Dipke, Saurav Das and Ashutosh Ranka were held under preventive arrest and released on 11 October on a ₹50,000 surety bond to keep the peace for a year."
+  - "A Supreme Court bench said Metro and rail services must run normally, internet must stay on and nobody may be detained except by procedure established by law."
+  - "The court issued contempt notice to the Union Home Secretary, the Delhi Police Commissioner and the DMRC chief; the case returns on Tuesday, 13 October."
+hero:
+  need: "Supreme Court of India, New Delhi"
+  suggested_source: "Wikimedia Commons 'Supreme Court of India'"
+  alt: "Supreme Court of India, New Delhi"
+related: [what-is-the-cockroach-janta-party, election-commission-dissent-report-move-to-remove-cec, how-chief-election-commissioner-is-appointed-removed, sir-phase-three-draft-rolls-names-dropped-by-state, election-commission, electoral-rolls-sir]
+seo:
+  description: "Police detained thousands, by most counts, at the CJP's 10 October protest against CEC Gyanesh Kumar. The Supreme Court ordered Metro, rail and internet restored."
+sources:
+  - title: "Supreme Court Sunday hearing against detentions and curbs during Delhi protests (live updates)"
+    publisher: "LiveLaw"
+    date: 2026-10-11
+    url: "https://www.livelaw.in/top-stories/supreme-court-sunday-hearing-against-detentions-curbs-during-delhi-protests-live-updates-554104"
+    primary: false
+  - title: "Delhi protests: SC says no illegal detention, orders Metro, internet back (PTI)"
+    publisher: "Business Standard"
+    date: 2026-10-11
+    url: "https://www.business-standard.com/amp/india-news/delhi-protests-sc-says-no-illegal-detention-orders-metro-internet-back-126101100233_1.html"
+    primary: false
+  - title: "SC issues contempt notice to Union Home Secretary, Delhi Police chief and DMRC chairperson"
+    publisher: "The Tribune"
+    date: 2026-10-11
+    url: "https://tribuneindia.com/news/delhi/cjp-protest-sc-issues-contempt-notice-to-union-home-secretary-delhi-police-chief-and-dmrc-chairperson-over-alleged-violation-of-its-order"
+    primary: false
+  - title: "CJP protest: Abhijit Dipke and others released on conditions"
+    publisher: "Organiser"
+    date: 2026-10-11
+    url: "https://organiser.org/2026/10/11/385820/bharat/abhijit-dipke-saurav-das-condition-to-maintain-peace-good-behaviour-imposed/"
+    primary: false
+  - title: "CJP protest: Abhijeet Dipke, Saurav Das and Ashutosh Ranka released by Executive Magistrate"
+    publisher: "Business Today"
+    date: 2026-10-11
+    url: "https://www.businesstoday.in/india/story/cjp-protest-abhijeet-dipke-saurav-das-ashutosh-ranka-released-by-executive-magistrate-court-560846-2026-10-11"
+    primary: false
+  - title: "CJP's Jantar Mantar 2.0: Delhi Police register 20 FIRs after protests"
+    publisher: "The Week"
+    date: 2026-10-11
+    url: "https://www.theweek.in/news/india/2026/10/11/cjps-jantar-mantar-20-delhi-police-register-20-firs-after-protests.html"
+    primary: false
+  - title: "India's CJP protests explained: why leaders were detained and what happens next"
+    publisher: "Gulf News"
+    date: 2026-10-10
+    url: "https://gulfnews.com/world/asia/india/indias-cjp-protests-explained-why-leaders-were-detained-and-what-happens-next-1.500705895"
+    primary: false
+  - title: "Jantar Mantar 2.0 highlights (live blog)"
+    publisher: "ThePrint"
+    date: 2026-10-10
+    url: "https://theprint.in/india/jantar-mantar-delhi-cjp-protest-live-updates/3066985/"
+    primary: false
+  - title: "India's 'cockroach' leaders detained, New Delhi in lockdown"
+    publisher: "Al Jazeera (Reuters, AFP)"
+    date: 2026-10-10
+    url: "https://www.aljazeera.com/news/2026/10/10/indias-cockroach-leaders-detained-new-delhi-in-lockdown"
+    primary: false
+  - title: "India releases 'cockroach' leaders, calls for more protests"
+    publisher: "ABC News (AFP)"
+    date: 2026-10-11
+    url: "https://www.abc.net.au/news/2026-10-11/india-releases-cockroach-leaders-calls-for-more-protests/107253752"
+    primary: false
+  - title: "CJP vows to continue protests, calls fresh Jantar Mantar march on Sunday"
+    publisher: "Business Standard"
+    date: 2026-10-10
+    url: "https://www.business-standard.com/india-news/cjp-vows-to-continue-protests-calls-fresh-jantar-mantar-march-on-sunday-126101000979_1.html"
+    primary: false
+  - title: "India deploys police and restricts transport ahead of mass protest in Delhi"
+    publisher: "Al Jazeera (AFP, Reuters)"
+    date: 2026-10-10
+    url: "https://www.aljazeera.com/news/2026/10/10/india-deploys-police-and-restricts-transport-ahead-of-mass-protest-in-delhi"
+    primary: false
+  - title: "CJP protest live updates, 11 October"
+    publisher: "ETV Bharat"
+    date: 2026-10-11
+    url: "https://www.etvbharat.com/en/bharat/live-blog--cjp-protest-delhi-live-updates-abhijeet-dipke-dhruv-rathee-jantar-mantar-enn26101100436"
+    primary: false
+verification:
+  status: draft
+  notes:
+    - "Detention totals conflict and none is on the record: about 1,000 (Delhi Police sources, Gulf News and Organiser); about 2,000 (a Home Ministry official, Reuters via Al Jazeera); nearly 2,500 (Delhi Police sources, The Hindu via Al Jazeera); over 7,000 (PTI via Business Standard; The Week); more than 15,000 'faced detentions and police action' (CJP's Ajinkya Shinde, Business Standard). All shown with attribution."
+    - "Independent fact-check 11 Oct: corrected the attribution of the 1,000 figure (Gulf News, not AFP), Patra's quote (Al Jazeera), the 57-station figure (DMRC notification, not petitioners), and turned the SG's words into reported speech."
+    - "Metro closures: SG Tushar Mehta told the court entry was restricted at 45 of 303 stations; the 9 October order and the contempt plea refer to 57 stations. Both stated with attribution."
+    - "The Supreme Court's written order was not opened; directions are as summarised by LiveLaw's live blog and PTI. LiveLaw notes the directions are subject to law and order conditions."
+    - "BNSS Sections 126 and 170 and the ₹50,000 bond are from Delhi Police's X post as quoted by Organiser."
+    - "'Tuesday' for the next hearing is from The Tribune and LiveLaw; 13 October is the date of that Tuesday."
+    - "Not covered: whether protesters gathered at Jantar Mantar on 11 October; reports seen by 4 pm IST did not confirm it."
+---
+
+The Supreme Court on Sunday told the Centre to keep Delhi Metro and rail services running normally and internet services on, a day after police detained thousands of people trying to reach a protest against Chief Election Commissioner (CEC) Gyanesh Kumar.
+
+A bench of Justices Joymalya Bagchi and V Mohana, at a special Sunday sitting, said nobody should be detained "save and except by procedure established by law", particularly people in peaceful, unarmed assemblies outside the area covered by prohibitory orders, LiveLaw reported. The directions are subject to law and order conditions.
+
+## What happened on 10 October
+
+The Cockroach Janta Party (CJP), a youth movement that began online in May, had called a march to Jantar Mantar to demand the CEC's resignation over the Special Intensive Revision (SIR) of electoral rolls. Delhi Police refused permission, saying the request came too late and that the CJP had broken undertakings given at earlier protests, Al Jazeera reported.
+
+Police barricaded central Delhi, closed Metro station gates and set up temporary detention centres, including stadiums. Mobile internet was suspended within 4 km of the protest site until Saturday night, ANI reported, according to Al Jazeera. Those detained during the day included Arvind Kejriwal, Mamata Banerjee and Pinarayi Vijayan, student leader Neha Bora, Yogendra Yadav and YouTuber Dhruv Rathee, along with lawyers and journalists from Scroll and Newslaundry, according to ThePrint and Gulf News.
+
+How many people were held is disputed.
+
+```chart
+{"type":"hbar","title":"How many were detained on 10 October?","subtitle":"Figure given by each source (people)","unit":"","data":[{"label":"Delhi Police sources (Gulf News)","value":1000},{"label":"Home Ministry official (Reuters)","value":2000},{"label":"Delhi Police sources (The Hindu)","value":2500},{"label":"PTI","value":7000},{"label":"CJP, detained or stopped","value":15000,"highlight":true}],"source":"Gulf News; Al Jazeera (Reuters, The Hindu); Business Standard (PTI); Business Standard"}
+```
+
+Police reported stone-pelting near Akashvani Bhawan and Connaught Place. The Week reported that more than 15 police personnel were injured and that 20 FIRs were registered, including one against four Hindu Raksha Dal members accused of assaulting students.
+
+## The CJP leaders
+
+CJP founder Abhijeet Dipke and leaders Saurav Das and Ashutosh Ranka were detained on board their flight after it landed in Delhi from Mumbai. Delhi Police said on X: "Preventive arrest u/s 126/170 BNSS of Sh. Abhijeet Dipke, Sh. Ashutosh Ranka and Sh. Saurav Das was done on 10.10.2026."
+
+On Sunday morning an Executive Magistrate at Delhi Cantonment police station released all three on a ₹50,000 surety bond to keep the peace for one year, Organiser reported, citing the police. CJP legal head Ratna Singh wrote on X: "Condition - no breach of peace for one year."
+
+```facts
+{"title":"The weekend in numbers","items":[{"value":"45 of 303","label":"Metro stations with entry restricted on 10 October, per the Solicitor General","source":"LiveLaw"},{"value":"20","label":"FIRs registered by Delhi Police over the protest","source":"The Week"},{"value":"₹50,000","label":"surety bond for each of the three CJP leaders","source":"Delhi Police via Organiser"}]}
+```
+
+## What the court said
+
+The contempt petition, filed by advocate Shailendra Mani Tripathi, says the authorities ignored the court's 9 October order against a complete shutdown of Metro and train services into Delhi. The bench issued notice to Union Home Secretary Govind Mohan, Delhi Police Commissioner Anurag Kumar and DMRC chairperson D Thara, asking for affidavits and a compliance report.
+
+Solicitor General Tushar Mehta disputed the allegations. He told the court that entry was restricted at 45 of 303 Metro stations on 10 October and that all stations had been open since 10 pm on Saturday, LiveLaw reported. A DMRC notification had ordered 57 stations closed from Friday night.
+
+> We are dutybound under Art 32 to prevent encroachment on fundamental rights.
+>
+> Source: Justice Joymalya Bagchi, Supreme Court, 11 October 2026 (LiveLaw)
+
+## The two sides
+
+The CJP says it will keep protesting until the CEC resigns. "As many people as you detain, we will not go back till Gyanesh Kumar resigns," Ajinkya Shinde, the party's national organisation in-charge, said on Saturday, Business Standard reported.
+
+The Election Commission says the SIR removes duplicate, dead and ineligible voters and aims to stop "foreign illegal immigrants" from voting, Al Jazeera reported. BJP spokesperson Sambit Patra called the demonstrators "anarchic elements" and said: "What is happening at Jantar Mantar, what you can see on TV and a few social media handles, is not India's story."
+
+The UN human rights office asked the authorities to ensure "that the right to peaceful assembly is fully respected and fulfilled". India's mission in Geneva called such concerns "misplaced" and "an unwarranted interference in the internal affairs of India", Al Jazeera reported.
+
+After his release, Dipke wrote on social media: "Modi, as PM, is an embarrassment to India," ABC News reported.
+
+## What comes next
+
+No large gathering was seen at Jantar Mantar on Sunday, ABC News reported. Rahul Gandhi has announced an INDIA bloc street protest for Monday, 12 October, and Congress has asked its MPs to stay in Delhi, ETV Bharat reported. "The more Modi and his government crack down, the more the anger of Gen Z and students will grow," Gandhi said, according to AFP. The Supreme Court will take up the contempt plea and the detention petitions on Tuesday, 13 October.

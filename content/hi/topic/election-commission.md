@@ -13,7 +13,7 @@ hero:
   need: "निर्वाचन सदन की बाहरी तस्वीर"
   suggested_source: "PIB Photo; Wikimedia Commons 'Nirvachan Sadan'"
   alt: "नई दिल्ली में भारत के चुनाव आयोग का मुख्यालय, निर्वाचन सदन"
-related: [how-chief-election-commissioner-is-appointed-removed, election-commission-dissent-report-move-to-remove-cec, election-commission-should-publish-its-dissent, electoral-rolls-sir, elections-2027]
+related: [supreme-court-orders-metro-internet-restored-after-cjp-protest-detentions, what-is-the-cockroach-janta-party, how-chief-election-commissioner-is-appointed-removed, election-commission-dissent-report-move-to-remove-cec, election-commission-should-publish-its-dissent, electoral-rolls-sir, elections-2027]
 seo:
   description: "भारत के चुनाव आयोग पर पूरी जानकारी: इसके सदस्य, सुप्रीम कोर्ट में 2023 का नियुक्ति कानून, असहमति पर रिपोर्ट और मुख्य चुनाव आयुक्त को हटाने के नोटिस।"
 sources:

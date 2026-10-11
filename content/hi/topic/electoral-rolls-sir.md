@@ -13,7 +13,7 @@ hero:
   need: "गणना फॉर्म के साथ बूथ स्तर अधिकारी"
   suggested_source: "PIB Photo / state CEO websites"
   alt: "विशेष गहन पुनरीक्षण के दौरान गणना फॉर्म लिए एक बूथ स्तर अधिकारी"
-related: [special-intensive-revision-how-to-check-your-name, sir-phase-three-draft-rolls-names-dropped-by-state, election-commission-dissent-report-move-to-remove-cec, election-commission, elections-2027, five-states-head-for-2027-assembly-polls]
+related: [supreme-court-orders-metro-internet-restored-after-cjp-protest-detentions, what-is-the-cockroach-janta-party, special-intensive-revision-how-to-check-your-name, sir-phase-three-draft-rolls-names-dropped-by-state, election-commission-dissent-report-move-to-remove-cec, election-commission, elections-2027, five-states-head-for-2027-assembly-polls]
 seo:
   description: "मतदाता सूचियों के विशेष गहन पुनरीक्षण (एसआईआर) पर पूरी जानकारी: चरण, मसौदा सूची से कटे नाम, अदालती मामले और अपना नाम कैसे जांचें। अक्टूबर 2026 तक।"
 sources:

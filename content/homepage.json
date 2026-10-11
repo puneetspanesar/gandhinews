@@ -1,73 +1,103 @@
 {
   "lead": {
-    "id": "rbi-raises-repo-rate-to-5-50",
+    "id": "supreme-court-orders-metro-internet-restored-after-cjp-protest-detentions",
     "chart": 1,
+    "overlay": {
+      "kicker": {
+        "en": "Supreme Court, special Sunday sitting",
+        "hi": "सुप्रीम कोर्ट, रविवार की विशेष सुनवाई"
+      },
+      "value": {
+        "en": "Metro, internet must run normally",
+        "hi": "मेट्रो, इंटरनेट सामान्य रूप से चलें"
+      },
+      "text": {
+        "en": "Contempt notice to Home Secretary, Delhi Police chief and DMRC. Hearing on 13 October.",
+        "hi": "गृह सचिव, दिल्ली पुलिस प्रमुख और डीएमआरसी को अवमानना नोटिस। सुनवाई 13 अक्टूबर को।"
+      }
+    },
     "dataBox": [
       {
-        "indicator": "repo-rate",
-        "decimals": 2,
-        "icon": "percent",
+        "icon": "users-three",
         "color": "#cc0000",
+        "value": {
+          "en": "2,000",
+          "hi": "2,000"
+        },
         "label": {
-          "en": "repo rate",
-          "hi": "रेपो रेट"
+          "en": "detained, Home Ministry estimate",
+          "hi": "हिरासत में, गृह मंत्रालय का अनुमान"
         }
       },
       {
-        "indicator": "cpi-inflation",
-        "decimals": 2,
-        "icon": "shopping-cart",
+        "icon": "map-pin",
         "color": "#8f0000",
+        "value": {
+          "en": "45 of 303",
+          "hi": "303 में 45"
+        },
         "label": {
-          "en": "CPI inflation, Aug",
-          "hi": "सीपीआई महंगाई, अगस्त"
+          "en": "Metro stations restricted",
+          "hi": "मेट्रो स्टेशनों पर रोक"
         }
       },
       {
-        "indicator": "gdp-growth",
-        "decimals": 1,
-        "icon": "trend-up",
+        "icon": "file-text",
         "color": "#0d0d0d",
+        "value": {
+          "en": "20",
+          "hi": "20"
+        },
         "label": {
-          "en": "GDP growth, Apr-Jun",
-          "hi": "जीडीपी वृद्धि, अप्रैल-जून"
+          "en": "FIRs registered",
+          "hi": "एफआईआर दर्ज"
         }
       },
       {
-        "indicator": "usd-inr",
-        "decimals": 2,
-        "icon": "currency-inr",
+        "icon": "gavel",
         "color": "#6e6e6e",
+        "value": {
+          "en": "13 Oct",
+          "hi": "13 अक्टूबर"
+        },
         "label": {
-          "en": "per dollar, 9 Oct",
-          "hi": "प्रति डॉलर, 9 अक्टूबर"
+          "en": "next Supreme Court hearing",
+          "hi": "सुप्रीम कोर्ट में अगली सुनवाई"
         }
       }
     ],
     "relatedBelow": [
-      "repo-rate-and-your-emi-explained"
+      "what-is-the-cockroach-janta-party"
     ],
     "relatedBeside": [
-      "rbi-right-to-move-fiscal-side-must-hold",
-      "rupee-near-97-as-crude-stays-above-100"
-    ],
-    "overlay": {
-      "kicker": {
-        "en": "MPC decision, 7 October",
-        "hi": "एमपीसी का फैसला, 7 अक्टूबर"
-      },
-      "value": {
-        "en": "Repo rate 5.25% → 5.50%",
-        "hi": "रेपो रेट 5.25% → 5.50%"
-      },
-      "text": {
-        "en": "First hike since February 2023, voted 6-0",
-        "hi": "फरवरी 2023 के बाद पहली बढ़ोतरी, वोट 6-0"
-      }
-    }
+      "election-commission-dissent-report-move-to-remove-cec",
+      "rbi-raises-repo-rate-to-5-50"
+    ]
   },
   "briefing": {
     "items": [
+      {
+        "link": "supreme-court-orders-metro-internet-restored-after-cjp-protest-detentions",
+        "lead": {
+          "en": "CJP protest:",
+          "hi": "सीजेपी प्रदर्शन:"
+        },
+        "text": {
+          "en": "leaders Dipke, Das and Ranka were released on bonds after thousands were detained in Delhi.",
+          "hi": "दिल्ली में हज़ारों लोगों को हिरासत में लिए जाने के बाद नेता दिपके, दास और रांका बॉन्ड पर रिहा।"
+        }
+      },
+      {
+        "link": "rbi-raises-repo-rate-to-5-50",
+        "lead": {
+          "en": "RBI:",
+          "hi": "आरबीआई:"
+        },
+        "text": {
+          "en": "repo rate up 25 bps to 5.50%, the first hike since February 2023.",
+          "hi": "रेपो रेट 25 बेसिस पॉइंट बढ़कर 5.50%, फरवरी 2023 के बाद पहली बढ़ोतरी।"
+        }
+      },
       {
         "link": "bypoll-results-ruling-parties-win-all-six-seats",
         "lead": {
@@ -110,28 +140,6 @@
         "text": {
           "en": "the Labor Department froze PERM filings from eight firms, including TCS and Infosys.",
           "hi": "अमेरिकी श्रम विभाग ने टीसीएस और इन्फोसिस समेत आठ कंपनियों की PERM फाइलिंग रोक दी।"
-        }
-      },
-      {
-        "link": "labour-codes-centre-wants-state-rules-by-october-31",
-        "lead": {
-          "en": "Labour codes:",
-          "hi": "श्रम संहिताएं:"
-        },
-        "text": {
-          "en": "the Centre wants every state's rules in place by 31 October.",
-          "hi": "केंद्र चाहता है कि 31 अक्टूबर तक हर राज्य के नियम लागू हो जाएं।"
-        }
-      },
-      {
-        "link": "rabi-msp-wheat-up-rs-25-per-quintal",
-        "lead": {
-          "en": "Rabi MSP:",
-          "hi": "रबी एमएसपी:"
-        },
-        "text": {
-          "en": "wheat rises ₹25 to ₹2,610 a quintal for the 2027-28 season.",
-          "hi": "2027-28 सीज़न के लिए गेहूं ₹25 बढ़कर ₹2,610 प्रति क्विंटल हुआ।"
         }
       },
       {
@@ -225,12 +233,12 @@
     ]
   },
   "startHere": [
+    "what-is-the-cockroach-janta-party",
     "how-a-bill-becomes-law-in-india",
     "how-india-measures-inflation-new-cpi-series",
     "four-labour-codes-explained-workers-employers",
     "gst-explained-slabs-council-revenue-sharing",
-    "census-2027-what-will-be-asked-caste",
-    "your-rights-under-dpdp-act"
+    "census-2027-what-will-be-asked-caste"
   ],
   "trackers": [
     {

@@ -12,7 +12,7 @@ hero:
   need: "Nirvachan Sadan exterior"
   suggested_source: "PIB Photo; Wikimedia Commons 'Nirvachan Sadan'"
   alt: "Nirvachan Sadan, the Election Commission of India's headquarters in New Delhi"
-related: [how-chief-election-commissioner-is-appointed-removed, election-commission-dissent-report-move-to-remove-cec, election-commission-should-publish-its-dissent, electoral-rolls-sir, elections-2027]
+related: [supreme-court-orders-metro-internet-restored-after-cjp-protest-detentions, what-is-the-cockroach-janta-party, how-chief-election-commissioner-is-appointed-removed, election-commission-dissent-report-move-to-remove-cec, election-commission-should-publish-its-dissent, electoral-rolls-sir, elections-2027]
 seo:
   description: "Living guide to the Election Commission of India: its members, the 2023 appointment law in the Supreme Court, the dissent report and CEC removal notices."
 sources:

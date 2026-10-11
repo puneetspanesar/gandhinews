@@ -203,7 +203,8 @@ export async function homeModel(lang: Lang) {
     photo: HOME.lead.photo !== false,
     overlay: HOME.lead.overlay ? { k: HOME.lead.overlay.kicker[lang], v: HOME.lead.overlay.value[lang], t: HOME.lead.overlay.text[lang] } : null,
     chart: chartFromBody(leadE, HOME.lead.chart ?? 1, lang),
-    dataBox: HOME.lead.dataBox.map((x: any) => ({ ...x, value: fmtIndicator(lang, x.indicator, x.decimals), label: x.label[lang] })),
+    // Each box is either a tracker indicator or a fixed value from the story (value: {en, hi}).
+    dataBox: HOME.lead.dataBox.map((x: any) => ({ ...x, value: x.value ? x.value[lang] : fmtIndicator(lang, x.indicator, x.decimals), label: x.label[lang] })),
     below: HOME.lead.relatedBelow.map(card),
     beside: HOME.lead.relatedBeside.map(card),
   };
