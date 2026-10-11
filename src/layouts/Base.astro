@@ -199,7 +199,7 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
         <!-- TODO(launch): link WhatsApp, Instagram, YouTube and X once the accounts exist. WhatsApp points at the contact page placeholder for now. -->
         <div><h2 class="fh">{t.follow}</h2><ul><li><a href={`${p}/rss.xml`}>RSS</a></li><li><a href={`${p}/contact/#whatsapp`} data-todo="whatsapp-channel">WhatsApp</a></li><li>Instagram</li><li>YouTube</li><li>X</li></ul></div>
       </div>
-      <div class="b"><span>{t.rights}</span><span class="legal"><a href={`${p}/privacy/`}>{t.privacy}</a> · <a href={`${p}/terms/`}>{t.terms}</a> · <a href={`${p}/privacy/#cookies`}>{t.cookies}</a></span></div>
+      <div class="b"><span>{t.rights}</span><span class="legal"><a href={`${p}/privacy/`}>{t.privacy}</a> · <a href={`${p}/terms/`}>{t.terms}</a> · <a href={`${p}/privacy/#cookies`}>{t.cookies}</a> · <a href="/photo-credits/">{lang === 'hi' ? 'फोटो क्रेडिट' : 'Photo credits'}</a></span></div>
     </div>
   </footer>
   <nav class="tab" aria-label={lang === 'hi' ? 'त्वरित नेविगेशन' : 'Quick navigation'}>

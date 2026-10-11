@@ -46,7 +46,7 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
         </div>
       </div>
       <div class="pic">
-        <a href={L.href} tabindex="-1" aria-hidden="true"><Photo id={L.id} src={L.d.hero?.src} alt={L.d.hero?.alt} size="lg" lang={lang} eager showCredit /></a>
+        <a href={L.href} tabindex="-1" aria-hidden="true"><Photo id={L.id} src={L.d.hero?.src} alt={L.d.hero?.alt} size="lg" lang={lang} eager /></a>
         {L.chart && <div class="chartbox" set:html={L.chart} />}
         <div class="rel">
           {L.beside.map((x: any) => <a href={x.href}><div><span class="k">{x.k}</span><h3>{x.d.title}</h3></div><Photo id={x.id} src={x.d.hero?.src} /></a>)}
@@ -85,7 +85,7 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
           <div class="sh"><h2 id="top-stories">{h.topStories}</h2></div>
           <div class="ts2">
             <article class="big">
-              <a href={m.big.href} tabindex="-1" aria-hidden="true"><Photo id={m.big.id} src={m.big.d.hero?.src} alt={m.big.d.hero?.alt} size="lg" lang={lang} showCredit /></a>
+              <a href={m.big.href} tabindex="-1" aria-hidden="true"><Photo id={m.big.id} src={m.big.d.hero?.src} alt={m.big.d.hero?.alt} size="lg" lang={lang} /></a>
               <span class="k">{m.big.k}</span>
               <a href={m.big.href}><h3>{m.big.d.title}</h3></a>
               <p class="sd">{m.big.d.standfirst}</p>

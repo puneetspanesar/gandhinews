@@ -134,11 +134,12 @@ export const labelParts = (s: string) => s.split('/').map((x) => x.trim()).filte
 export const kicker = (d: Data) => labelParts(d.format_label).join(' · ');
 
 /** Hero photo for a story: a fetched photo (content/photos.map.json) wins over frontmatter hero.src. */
-export function heroOf(d: any): { src?: string | null; credit?: string | null; caption?: string | null; alt?: string; page?: string | null } {
+export function heroOf(d: any): { src?: string | null; credit?: string | null; caption?: string | null; alt?: string; page?: string | null; short?: string; photoId?: string } {
   const f = (PHOTOS as Record<string, any>)[d.id];
   if (f) {
     const alt = d.lang === 'hi' ? (f.alt_hi ?? f.alt) : f.alt;
-    return { src: f.src, credit: `${f.credit}, ${f.licence}`, caption: alt, alt, page: f.page ?? null };
+    const who = String(f.credit).replace(/^Photo:\s*/, '').replace(/\s*\/\s*Wikimedia Commons$/, '');
+    return { src: f.src, credit: `${f.credit}, ${f.licence}`, short: `${who} / Wikimedia`, photoId: f.id, caption: alt, alt, page: f.page ?? null };
   }
   return { src: d.hero?.src, credit: d.hero?.credit, caption: d.hero?.caption, alt: d.hero?.alt };
 }

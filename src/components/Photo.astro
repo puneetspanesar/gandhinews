@@ -18,7 +18,7 @@ interface Props {
 const { id, alt = '', size = 'sm', lang = 'en', class: cls = '', eager = false, showCredit = false } = Astro.props;
 const fetched: any = id ? (PHOTOS as Record<string, any>)[id] : null;
 const src = fetched?.src ?? Astro.props.src;
-const srcset = fetched ? `${fetched.src800} 800w, ${fetched.src} 1600w` : undefined;
+const srcset = undefined;
 const credit = fetched ? `${fetched.credit}, ${fetched.licence}` : Astro.props.credit;
 const altText = fetched ? ((lang === 'hi' ? fetched.alt_hi : fetched.alt) ?? alt) : alt;
 const t = UI[lang];

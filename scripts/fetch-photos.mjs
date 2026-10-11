@@ -1,5 +1,5 @@
 // Photo pipeline. Reads content/photos.json, downloads each listed image, writes two JPEGs
-// (1600px and 800px wide) to public/photos/, and regenerates content/photos.map.json, which the
+// (1280px and 640px wide) to public/photos/, and regenerates content/photos.map.json, which the
 // Photo component and article pages read (keyed by article id, shared by English and Hindi).
 //
 // content/photos.json is a list of:
@@ -23,7 +23,7 @@ const ROOT = process.cwd();
 const LIST = path.join(ROOT, 'content/photos.json');
 const MAP = path.join(ROOT, 'content/photos.map.json');
 const OUT = path.join(ROOT, 'public/photos');
-const WIDTHS = [1600, 800];
+const WIDTHS = [1280, 640];
 const force = process.argv.includes('--force');
 
 const list = JSON.parse(fs.readFileSync(LIST, 'utf8'));
@@ -55,7 +55,7 @@ for (const p of list) {
         await new Promise((z) => setTimeout(z, 8000 * (attempt + 1)));
       }
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      await new Promise((z) => setTimeout(z, 2000));
+      await new Promise((z) => setTimeout(z, 1000));
       const buf = Buffer.from(await res.arrayBuffer());
       for (const w of WIDTHS) {
         await sharp(buf)
@@ -68,12 +68,12 @@ for (const p of list) {
     } else {
       console.log(`have     ${p.id}`);
     }
-    const meta = await sharp(file(p.id, 1600)).metadata();
-    if ((meta.width ?? 0) < 1600) console.warn(`warning  ${p.id}: source is only ${meta.width}px wide`);
+    const meta = await sharp(file(p.id, 1280)).metadata();
+    if ((meta.width ?? 0) < 1280) console.warn(`warning  ${p.id}: source is only ${meta.width}px wide`);
     map[p.articleId] = {
       id: p.id,
-      src: `/photos/${p.id}-1600.jpg`,
-      src800: `/photos/${p.id}-800.jpg`,
+      src: `/photos/${p.id}-1280.jpg`,
+      src800: `/photos/${p.id}-640.jpg`,
       width: meta.width,
       height: meta.height,
       credit: p.credit,
