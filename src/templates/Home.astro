@@ -57,7 +57,7 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
         <h2 id="brief-h">{h.briefing}</h2>
         <p class="cad">{todayLine(lang)}</p>
         <ol class="br">
-          {m.briefing.map((b: any) => <li><a href={b.href}><p><b>{b.lead}</b> {b.text}</p></a></li>)}
+          {m.briefing.map((b: any) => <li><Icon name={b.icon} /><a href={b.href}><p><b>{b.lead}</b> {b.text}</p></a></li>)}
         </ol>
         <a class="ball" href="#newsletter">{h.morningBrief} <Icon name="caret-right" /></a>
       </aside>
@@ -99,7 +99,7 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
         </div>
         <aside class="mr" aria-labelledby="start-h">
           <div class="sh"><h2 id="start-h">{h.startHere}</h2><span class="x">{h.explainers}</span></div>
-          <ol>{m.start.map((x: any) => <li><a href={x.href}><h3>{x.d.title}</h3><p class="m">{x.meta}</p></a></li>)}</ol>
+          <ol>{m.start.map((x: any) => <li><Icon name={x.icon} /><a href={x.href}><h3>{x.d.title}</h3><p class="m">{x.meta}</p></a></li>)}</ol>
         </aside>
       </div>
     </section>
@@ -240,7 +240,7 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
         </div>
         <aside class="op">
           <div class="sh"><h2>{h.opinion}</h2><span class="x">{h.opinionX}</span><a href={`${p}/opinion/`}>{h.allEditorials} <Icon name="caret-right" /></a></div>
-          {m.opinion.map((x: any) => <article><a href={x.href}><span class="k">{x.topic}</span><h3>{x.d.title}</h3></a></article>)}
+          {m.opinion.map((x: any) => <article><Icon name={x.icon} /><a href={x.href}><span class="k">{x.topic}</span><h3>{x.d.title}</h3></a></article>)}
         </aside>
       </div>
     </section>

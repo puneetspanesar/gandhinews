@@ -149,3 +149,38 @@ export function heroOf(d: any): { src?: string | null; credit?: string | null; c
 export const emph = (s: string) =>
   String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/\*\*(.+?)\*\*/g, '<strong class="hl">$1</strong>');
 export const plain = (s: string) => String(s ?? '').replace(/\*\*/g, '');
+
+/** A topic icon for any story: a per-story pick, else its first known topic, else its section. */
+const ICON_BY_ID: Record<string, string> = {
+  'supreme-court-orders-metro-internet-restored-after-cjp-protest-detentions': 'megaphone',
+  'what-is-the-cockroach-janta-party': 'megaphone',
+  'protest-is-not-a-threat-to-public-order': 'megaphone',
+  'mea-rejects-un-rights-office-remarks-delhi-protest-detentions': 'globe-hemisphere-east',
+  'india-condemns-houthi-attacks-saudi-airports-riyadh': 'airplane-tilt',
+  'modi-opens-chennai-metro-stretch-vijay-seeks-school-funds': 'train',
+  'draft-steel-policy-targets-604-mt-capacity-by-2047': 'factory',
+  'rbi-raises-daily-crr-minimum-to-99-per-cent': 'bank',
+  'rupee-near-97-as-crude-stays-above-100': 'currency-inr',
+  'us-suspends-indian-it-firms-green-card-sponsorship': 'airplane-tilt',
+  'west-bengal-makes-bengali-compulsory-government-work': 'translate',
+  'kerala-becomes-keralam-what-changes': 'map-pin',
+  'bypoll-results-ruling-parties-win-all-six-seats': 'check-square',
+  'rahul-gandhi-lunches-with-vijay-day-before-modi-visit': 'handshake',
+  'gdp-grows-7-8-in-april-june-quarter': 'chart-line',
+};
+const ICON_BY_TOPIC: Record<string, string> = {
+  'rbi-interest-rates': 'percent', inflation: 'shopping-cart', gst: 'receipt', 'labour-codes': 'hard-hat',
+  'electoral-rolls-sir': 'identification-card', 'election-commission': 'check-square', delimitation: 'map-trifold',
+  'elections-2027': 'check-square', parliament: 'bank', 'census-2027': 'users-three', 'india-us-trade': 'handshake',
+  'data-protection': 'lock-key', 'supreme-court': 'scales', 'agriculture-msp': 'plant', 'fiscal-deficit': 'wallet',
+  'budget-2026-27': 'wallet', 'rupee-forex': 'currency-inr', economy: 'chart-line', states: 'map-pin',
+};
+const ICON_BY_SECTION: Record<string, string> = {
+  politics: 'megaphone', policy: 'scroll', economy: 'chart-line', parliament: 'bank', states: 'map-pin', world: 'globe-hemisphere-east',
+};
+export function iconFor(d: any): string {
+  if (!d) return 'newspaper';
+  if (ICON_BY_ID[d.id]) return ICON_BY_ID[d.id];
+  for (const t of d.topics ?? []) if (ICON_BY_TOPIC[t]) return ICON_BY_TOPIC[t];
+  return ICON_BY_SECTION[d.section] ?? 'newspaper';
+}

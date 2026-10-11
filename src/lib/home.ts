@@ -3,7 +3,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import HOME from '../../content/homepage.json';
-import { content, urlOf, kicker, fmtShort, labelParts, topicLink, type Entry } from './site';
+import { content, urlOf, kicker, fmtShort, labelParts, topicLink, iconFor, type Entry } from './site';
 import { DATA, tr } from './data';
 import { verdictKey, VERDICT_ORDER, type Lang } from './i18n';
 // @ts-ignore - plain JS module
@@ -213,7 +213,7 @@ export async function homeModel(lang: Lang) {
   };
 
   // ---- Briefing
-  const briefing = HOME.briefing.items.map((b: any) => ({ lead: b.lead[lang], text: b.text[lang], href: urlOf(get(b.link).data) }));
+  const briefing = HOME.briefing.items.map((b: any) => ({ lead: b.lead[lang], text: b.text[lang], href: urlOf(get(b.link).data), icon: b.icon ?? iconFor(get(b.link).data) }));
 
   // ---- India in numbers
   const numbers = HOME.numbers.items.map((x: any) => {
@@ -239,7 +239,7 @@ export async function homeModel(lang: Lang) {
     return { ...x, label: `${pre}: ${x.d.title}` };
   });
   const top = HOME.topStories.list.map(card);
-  const start = HOME.startHere.map((id: string) => { const x = card(id); return { ...x, meta: labelParts(x.d.format_label).slice(-1)[0] }; });
+  const start = HOME.startHere.map((id: string) => { const x = card(id); return { ...x, icon: iconFor(x.d), meta: labelParts(x.d.format_label).slice(-1)[0] }; });
 
   // ---- Trackers band
   const trackers = HOME.trackers.map((tk: any) => {
@@ -415,7 +415,7 @@ export async function homeModel(lang: Lang) {
   const opinion = await Promise.all(HOME.opinion.map(async (id: string) => {
     const x = card(id);
     const tp = x.d.topics[0] ? (await topicLink(x.d.topics[0], lang)).label : '';
-    return { ...x, topic: tp };
+    return { ...x, topic: tp, icon: iconFor(x.d) };
   }));
 
   // ---- Section blocks
