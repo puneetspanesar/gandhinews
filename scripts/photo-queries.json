@@ -1,9 +1,7 @@
 {
-  "s-steel": "Bhilai Steel Plant",
-  "s-steel2": "steel plant India blast furnace",
-  "s-riyadh": "King Khalid International Airport",
-  "s-cmrl": "Chennai Metro train elevated",
-  "s-cmrl2": "Chennai Metro Phase II Poonamallee",
-  "s-fort": "Fort St. George Chennai Secretariat",
-  "s-geneva": "Palais Wilson Geneva"
+  "t-cmrl": "Chennai Metro Rail",
+  "t-cmrl2": "Chennai Metro station",
+  "t-modi": "Narendra Modi official portrait",
+  "t-vijay": "Joseph Vijay",
+  "t-vijay2": "Vijay Tamil actor"
 }
