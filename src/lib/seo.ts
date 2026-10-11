@@ -33,7 +33,6 @@ export function newsArticleLd(d: any) {
     isAccessibleForFree: true,
     image: [img()],
     author: [AUTHOR],
-    editor: EDITOR,
     publisher: PUBLISHER,
     ...(d.location ? { contentLocation: { '@type': 'Place', name: d.location } } : {}),
     ...(d.translation_of ? { translationOfWork: { '@id': `${abs(urlOf({ ...d, lang: 'en' }))}#article` } } : {}),
