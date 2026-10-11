@@ -8,6 +8,10 @@ topics: [election-commission, electoral-rolls-sir, supreme-court]
 title: "Shutting down a city is not how a democracy answers a protest"
 standfirst: "The CJP must keep its marches peaceful. The state must stop treating them as a threat. And the Election Commission must answer the question at the heart of them."
 published: 2026-10-11T21:00:00+05:30
+keyPoints:
+  - "The CJP must **keep its marches peaceful**, accept a fixed venue and time, and expel anyone who throws a stone."
+  - "Delhi Police should **grant time-bound permission at Jantar Mantar** and stop blanket preventive detention."
+  - "The Election Commission should **publish deletions by constituency and reason**, and its members' dissent notes."
 hero:
   need: "Students protesting at Jantar Mantar, New Delhi, July 2026"
   suggested_source: "Wikimedia Commons, Jantar Mantar NEET protest July 2026"

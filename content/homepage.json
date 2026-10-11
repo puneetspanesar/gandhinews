@@ -1,15 +1,15 @@
 {
   "lead": {
-    "id": "supreme-court-orders-metro-internet-restored-after-cjp-protest-detentions",
+    "id": "protest-is-not-a-threat-to-public-order",
     "chart": 1,
     "overlay": {
       "kicker": {
-        "en": "Supreme Court, special Sunday sitting",
-        "hi": "सुप्रीम कोर्ट, रविवार की विशेष सुनवाई"
+        "en": "Our view",
+        "hi": "हमारा मत"
       },
       "value": {
-        "en": "Metro, internet must run normally",
-        "hi": "मेट्रो, इंटरनेट सामान्य रूप से चलें"
+        "en": "Answer the question, not the crowd",
+        "hi": "भीड़ का नहीं, सवाल का जवाब दीजिए"
       },
       "text": {
         "en": "",
@@ -42,15 +42,15 @@
         }
       },
       {
-        "icon": "file-text",
+        "icon": "wifi-high",
         "color": "#0d0d0d",
         "value": {
-          "en": "20",
-          "hi": "20"
+          "en": "4 km",
+          "hi": "4 किमी"
         },
         "label": {
-          "en": "FIRs registered",
-          "hi": "एफआईआर दर्ज"
+          "en": "internet cut around Jantar Mantar",
+          "hi": "जंतर-मंतर के आसपास इंटरनेट बंद"
         }
       },
       {
@@ -67,12 +67,12 @@
       }
     ],
     "relatedBelow": [
-      "protest-is-not-a-threat-to-public-order",
+      "supreme-court-orders-metro-internet-restored-after-cjp-protest-detentions",
       "what-is-the-cockroach-janta-party"
     ],
     "relatedBeside": [
       "mea-rejects-un-rights-office-remarks-delhi-protest-detentions",
-      "rbi-raises-repo-rate-to-5-50"
+      "modi-opens-chennai-metro-stretch-vijay-seeks-school-funds"
     ]
   },
   "briefing": {
@@ -392,11 +392,11 @@
     }
   ],
   "opinion": [
-    "protest-is-not-a-threat-to-public-order",
     "rbi-right-to-move-fiscal-side-must-hold",
     "parliament-that-sits-but-does-not-debate",
     "election-commission-should-publish-its-dissent",
-    "labour-codes-centre-states-owe-workers-deadline"
+    "labour-codes-centre-states-owe-workers-deadline",
+    "publish-caste-census-in-full-on-time"
   ],
   "sections": [
     {
