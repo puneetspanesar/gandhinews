@@ -39,7 +39,7 @@ How we handle personal data is set out in our [privacy policy](/privacy/).
 
 ## The law that applies
 
-These terms are governed by the laws of India.
+These terms are governed by the laws of India. Courts at Mohali (SAS Nagar), Punjab, have jurisdiction.
 
 ## Contact
 
