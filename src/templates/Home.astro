@@ -47,7 +47,7 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
       </div>
       <div class={L.photo ? 'pic' : 'pic nopic'}>
         {L.photo && <a class="lph" href={L.href} tabindex="-1" aria-hidden="true"><Photo id={L.id} src={L.d.hero?.src} alt={L.d.hero?.alt} size="lg" lang={lang} eager />
-          {L.overlay && <span class="ov"><span class="ok">{L.overlay.k}</span><span class="ovv num">{L.overlay.v}</span><span class="ot">{L.overlay.t}</span></span>}</a>}
+          {L.overlay && <span class="ov"><span class="ok">{L.overlay.k}</span><span class="ovv num">{L.overlay.v}</span>{L.overlay.t && <span class="ot">{L.overlay.t}</span>}</span>}</a>}
         {L.chart && <div class="chartbox" set:html={L.chart} />}
         <div class="rel">
           {L.beside.map((x: any) => <a href={x.href}><div><span class="k">{x.k}</span><h3>{x.d.title}</h3></div><Photo id={x.id} src={x.d.hero?.src} /></a>)}
