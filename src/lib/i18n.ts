@@ -4,7 +4,7 @@ export type Lang = 'en' | 'hi';
 export const UI = {
   en: {
     siteName: 'LokVox',
-    motto: 'Covering power, for the people',
+    motto: 'The people’s newsroom',
     skip: 'Skip to content',
     home: 'Home',
     more: 'More',
@@ -109,7 +109,7 @@ export const UI = {
   },
   hi: {
     siteName: 'LokVox',
-    motto: 'सत्ता की खबर, जनता के लिए',
+    motto: 'जनता का न्यूज़रूम',
     skip: 'सीधे लेख पर जाएं',
     home: 'होम',
     more: 'और',
