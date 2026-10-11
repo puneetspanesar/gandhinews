@@ -52,6 +52,20 @@ export function contentIndex() {
   return cache;
 }
 
+/** Trust and legal pages (Markdown in /content/pages/{lang}/{id}.md), id -> path. */
+export const TRUST_PAGES = {
+  about: 'about',
+  standards: 'standards',
+  corrections: 'corrections',
+  ownership: 'ownership',
+  contact: 'contact',
+  grievance: 'grievance',
+  'ai-policy': 'ai-policy',
+  'fact-check-methodology': 'fact-check/methodology',
+  privacy: 'privacy',
+  terms: 'terms',
+};
+
 /** Fixed (non-content) routes, per language. */
 export function staticRoutes(lang) {
   const p = prefix(lang);
@@ -59,7 +73,8 @@ export function staticRoutes(lang) {
     `${p}/`,
     ...SECTIONS.map((s) => `${p}/${s}/`),
     `${p}/explained/`, `${p}/fact-check/`, `${p}/opinion/`, `${p}/trackers/`, `${p}/topics/`,
-    `${p}/search/`, `${p}/saved/`,
+    `${p}/search/`, `${p}/saved/`, `${p}/latest/`,
+    ...Object.values(TRUST_PAGES).map((x) => `${p}/${x}/`),
   ];
 }
 

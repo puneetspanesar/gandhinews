@@ -1,0 +1,68 @@
+---
+// Trust and legal pages (About, Standards, Corrections, Ownership, Contact, Grievance,
+// AI policy, Fact-check methodology, Privacy, Terms). Markdown in /content/pages/{lang}/.
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import { prefix, fmtDate, content, urlOf } from '../lib/site';
+import { UI, type Lang } from '../lib/i18n';
+// @ts-ignore - plain JS module
+import { TRUST_PAGES } from '../lib/routes.mjs';
+import CORRECTIONS from '../../content/corrections.json';
+
+interface Props { lang: Lang; id: string; route: string }
+const { lang, id, route } = Astro.props;
+const t = UI[lang];
+const p = prefix(lang);
+const all = await getCollection(`pages_${lang}`);
+const e: any = all.find((x: any) => x.data.id === id);
+if (!e) throw new Error(`Page "${id}" missing in content/pages/${lang}/`);
+const d = e.data;
+const html: string = e.rendered?.html ?? '';
+const order = Object.keys(TRUST_PAGES);
+const nav = order.map((k) => all.find((x: any) => x.data.id === k)).filter(Boolean).map((x: any) => ({ id: x.data.id, title: x.data.title, href: `${p}/${x.data.path}/` }));
+const crumbs = [{ name: t.home, href: `${p}/` }, { name: d.title, href: route }];
+
+// Corrections log (content/corrections.json): newest first.
+// Entry: { "id", "date": "YYYY-MM-DD", "article": "<article id>", "correction": { "en": "...", "hi": "..." } }
+const c = (await content())[lang];
+const log = id === 'corrections'
+  ? [...(CORRECTIONS as any[])].sort((a, b) => String(b.date).localeCompare(String(a.date))).map((x) => {
+      const art = x.article ? c.all.get(x.article) : null;
+      if (x.article && !art) throw new Error(`corrections.json: article "${x.article}" not found (${lang})`);
+      return { ...x, title: art?.data.title, href: art ? urlOf(art.data) : null, text: x.correction?.[lang] ?? x.correction?.en ?? '' };
+    })
+  : [];
+const L = lang === 'hi'
+  ? { updated: 'आखिरी बदलाव', trust: 'भरोसा और नीतियां', log: 'सुधारों का रिकॉर्ड', none: 'अभी तक कोई सुधार नहीं। जब हम कोई गलती सुधारेंगे, तो वह तारीख के साथ यहां और खबर पर दिखेगी।', date: 'तारीख', story: 'खबर', what: 'क्या सुधारा गया' }
+  : { updated: 'Last updated', trust: 'Trust and policies', log: 'Corrections log', none: 'No corrections yet. When we correct a story, the correction and its date will appear here and on the story.', date: 'Date', story: 'Story', what: 'What we corrected' };
+---
+<Base lang={lang} title={d.title} description={d.description} path={route} crumbs={crumbs} active="">
+  <div class="w">
+    <div class="tp">
+      <article class="tp-main">
+        <header class="page-h tp-h">
+          <h1>{d.title}</h1>
+          <p class="m">{L.updated}: <time datetime={d.updated.toISOString().slice(0, 10)}>{fmtDate(d.updated, lang)}</time></p>
+        </header>
+        <div class="body tp-body" set:html={html} />
+        {id === 'corrections' && (
+          <section class="tp-log" aria-labelledby="log-h">
+            <h2 id="log-h">{L.log}</h2>
+            {log.length === 0
+              ? <p class="tp-empty">{L.none}</p>
+              : (
+                <table>
+                  <thead><tr><th scope="col">{L.date}</th><th scope="col">{L.story}</th><th scope="col">{L.what}</th></tr></thead>
+                  <tbody>{log.map((x: any) => <tr id={x.id}><td class="num">{fmtDate(x.date, lang)}</td><td>{x.href ? <a href={x.href}>{x.title}</a> : '-'}</td><td>{x.text}</td></tr>)}</tbody>
+                </table>
+              )}
+          </section>
+        )}
+      </article>
+      <aside class="tp-nav" aria-label={L.trust}>
+        <h2 class="rh">{L.trust}</h2>
+        <ul>{nav.map((n) => <li><a href={n.href} class={n.id === id ? 'on' : undefined} aria-current={n.id === id ? 'page' : undefined}>{n.title}</a></li>)}</ul>
+      </aside>
+    </div>
+  </div>
+</Base>

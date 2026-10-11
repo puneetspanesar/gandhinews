@@ -5,6 +5,7 @@ import Byline from '../components/Byline.astro';
 import Sources from '../components/Sources.astro';
 import RailList from '../components/RailList.astro';
 import ListCard from '../components/ListCard.astro';
+import PfMeta from '../components/PfMeta.astro';
 import { content, prefix, kicker } from '../lib/site';
 import { UI, type Lang } from '../lib/i18n';
 import { collectionLd } from '../lib/seo';
@@ -29,7 +30,8 @@ const crumbs = [{ name: t.home, href: `${p}/` }, { name: t.topics, href: `${p}/t
   article={{ published: d.published, modified: d.updated ?? d.published, section: t.topic, tags: d.topics }}>
   <div class="w">
     <div class="art">
-      <article>
+      <article data-pagefind-body>
+        <PfMeta data={d} lang={lang} />
         <header class="ah">
           <FormatLabel data={d} />
           <h1>{d.title}</h1>
@@ -38,12 +40,12 @@ const crumbs = [{ name: t.home, href: `${p}/` }, { name: t.topics, href: `${p}/t
         </header>
         <div class="body" set:html={html} />
         {tagged.length > 0 && (
-          <section class="tr-sec" aria-labelledby="cov-h" style="margin-top:12px">
+          <section data-pagefind-ignore class="tr-sec" aria-labelledby="cov-h" style="margin-top:12px">
             <h2 id="cov-h" class="rh">{t.allCoverage} <span class="m" style="font-family:var(--f-body);font-weight:500;margin-left:6px">{tagged.length} {t.stories}</span></h2>
             {tagged.map((x: any) => <ListCard entry={x} lang={lang} compact />)}
           </section>
         )}
-        <Sources lang={lang} sources={d.sources} />
+        <div data-pagefind-ignore><Sources lang={lang} sources={d.sources} /></div>
       </article>
       <aside class="rail" aria-label={t.related}>
         <RailList title={t.related} items={relatedExtra.slice(0, 5)} />

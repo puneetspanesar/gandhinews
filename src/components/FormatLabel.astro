@@ -12,7 +12,7 @@ const hubHref: Record<string, string> = {
 };
 const parts = d.type === 'editorial' ? [t.opinion, t.ourView] : labelParts(d.format_label);
 ---
-<p class="fmt">
+<p class="fmt" data-pagefind-ignore>
   <a href={hubHref[d.type]} class={d.type === 'factcheck' ? 'red' : undefined}>{parts[0]}</a>
   {parts.slice(1).map((x) => <><span class="sep2" aria-hidden="true">/</span><span>{x}</span></>)}
 </p>

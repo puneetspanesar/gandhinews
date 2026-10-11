@@ -11,10 +11,12 @@ const { lang, key, kind, route } = Astro.props;
 const c = (await content())[lang];
 const t = UI[lang];
 const p = prefix(lang);
-const title = kind === 'section' ? SECTION_NAMES[lang][key] : (HUBS as any)[key][lang];
-const desc = SECTION_DESCRIPTIONS[lang][key];
+const latest = key === 'latest';
+const title = kind === 'section' ? SECTION_NAMES[lang][key] : latest ? t.latestTitle : (HUBS as any)[key][lang];
+const desc = latest ? t.latestDesc : SECTION_DESCRIPTIONS[lang][key];
 const items = kind === 'section'
   ? c.articles.filter((e: any) => e.data.section === key && e.data.type === 'news')
+  : latest ? c.articles
   : c.articles.filter((e: any) => e.data.type === (HUBS as any)[key].type);
 // Sections also list explainers, fact checks and opinion from that section in the rail.
 const formats = kind === 'section' ? c.articles.filter((e: any) => e.data.section === key && e.data.type !== 'news') : [];

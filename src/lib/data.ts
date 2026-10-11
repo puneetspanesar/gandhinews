@@ -9,11 +9,13 @@ import electEn from '../../content/data/election-calendar.json';
 import electHi from '../../content/data/hi/election-calendar.json';
 import scEn from '../../content/data/sc-cases.json';
 import scHi from '../../content/data/hi/sc-cases.json';
+import sessEn from '../../content/data/parliament-sessions.json';
+import sessHi from '../../content/data/hi/parliament-sessions.json';
 import type { Lang } from './i18n';
 
 export const DATA = {
-  en: { bills: billsEn, budget: budgetEn, economy: econEn, elections: electEn, sc: scEn },
-  hi: { bills: billsHi, budget: budgetHi, economy: econHi, elections: electHi, sc: scHi },
+  en: { bills: billsEn, budget: budgetEn, economy: econEn, elections: electEn, sc: scEn, sessions: sessEn },
+  hi: { bills: billsHi, budget: budgetHi, economy: econHi, elections: electHi, sc: scHi, sessions: sessHi },
 } as const;
 
 /** Which data view a tracker page uses, keyed by tracker id. */

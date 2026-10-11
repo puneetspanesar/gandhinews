@@ -2,13 +2,14 @@
 import Base from '../layouts/Base.astro';
 import Icon from '../components/Icon.astro';
 import Photo from '../components/Photo.astro';
+import PfMeta from '../components/PfMeta.astro';
 import FormatLabel from '../components/FormatLabel.astro';
 import Byline from '../components/Byline.astro';
 import Sources from '../components/Sources.astro';
 import Tags from '../components/Tags.astro';
 import RailList from '../components/RailList.astro';
 import FollowCard from '../components/FollowCard.astro';
-import { content, urlOf, prefix, kicker, fmtDateTime, labelParts } from '../lib/site';
+import { content, urlOf, prefix, kicker, fmtDateTime, labelParts, heroOf } from '../lib/site';
 import { UI, SECTION_NAMES, HUBS, TYPE_HUB, verdictKey, VERDICT_ORDER, type Lang } from '../lib/i18n';
 import { newsArticleLd, faqLd, claimReviewLd } from '../lib/seo';
 
@@ -50,6 +51,7 @@ const vIcon = vkey === 'false' ? 'x-circle' : vkey === 'misleading' ? 'warning-c
 const firstSeen = d.factcheck?.firstSeen instanceof Date ? d.factcheck.firstSeen : null;
 const fmtD = (x: Date) => fmtDateTime(x, lang).split(',').slice(0, 1).join('');
 const active = d.type === 'news' ? d.section : hubKey;
+const hero = heroOf(d);
 ---
 <Base
   lang={lang}
@@ -64,7 +66,8 @@ const active = d.type === 'news' ? d.section : hubKey;
 >
   <div class="w">
     <div class={`art ${d.type === 'factcheck' ? 'fc' : ''}`}>
-      <article>
+      <article data-pagefind-body>
+        <PfMeta data={d} lang={lang} />
         <header class="ah">
           <FormatLabel data={d} />
           <h1>{d.title}</h1>
@@ -74,8 +77,8 @@ const active = d.type === 'news' ? d.section : hubKey;
 
         {d.type === 'news' && (
           <figure class="hero">
-            <Photo src={d.hero?.src} alt={d.hero?.alt} size="lg" lang={lang} eager />
-            {d.hero?.src && (d.hero?.caption || d.hero?.credit) && <figcaption><span>{d.hero.caption}</span><span>{d.hero.credit}</span></figcaption>}
+            <Photo id={d.id} src={d.hero?.src} alt={d.hero?.alt} size="lg" lang={lang} eager />
+            {hero.src && (hero.caption || hero.credit) && <figcaption><span>{hero.caption}</span><span>{hero.credit}</span></figcaption>}
           </figure>
         )}
 
@@ -111,14 +114,14 @@ const active = d.type === 'news' ? d.section : hubKey;
 
         <div class={`body ${d.type === 'explainer' ? 'qa' : ''}`} set:html={html} />
 
-        {d.type === 'editorial' && <aside class="ednote"><Icon name="info" /><p>{t.editorialsNote}</p></aside>}
+        {d.type === 'editorial' && <aside class="ednote"><Icon name="info" /><p>{t.editorialsNote} <a href={`${p}/standards/`}>{t.readStandards}</a></p></aside>}
 
         {d.updated && (
           <p class="upd"><Icon name="clock-counter-clockwise" /><span><b>{t.updated} {fmtDateTime(d.updated, lang)}:</b> {t.updateNote}</span></p>
         )}
 
-        <Sources lang={lang} sources={d.sources} />
-        <Tags lang={lang} topics={d.topics} />
+        <div data-pagefind-ignore><Sources lang={lang} sources={d.sources} />
+        <Tags lang={lang} topics={d.topics} /></div>
       </article>
 
       <aside class="rail" aria-label={t.related}>
@@ -126,10 +129,11 @@ const active = d.type === 'news' ? d.section : hubKey;
           <section class="box">
             <h2 class="rh" style="border:0;padding:0;margin-bottom:6px;font-size:14px">{t.howWeRate}</h2>
             <ul class="rate">{VERDICT_ORDER.map((v) => <li class={v === vkey ? 'cur' : undefined}><b>{t.verdicts[v]}</b>{t.rate[v]}</li>)}</ul>
+            <a class="dl" href={`${p}/fact-check/methodology/`}>{t.ourMethod} <Icon name="caret-right" /></a>
           </section>
         )}
         {d.type === 'editorial' && (
-          <section class="box"><h2 class="rh" style="border:0;padding:0;margin-bottom:6px;font-size:14px">{t.aboutEditorials}</h2><p>{t.aboutEditorialsText}</p></section>
+          <section class="box"><h2 class="rh" style="border:0;padding:0;margin-bottom:6px;font-size:14px">{t.aboutEditorials}</h2><p>{t.aboutEditorialsText}</p><a class="dl" href={`${p}/standards/`}>{t.standards} <Icon name="caret-right" /></a></section>
         )}
         {d.type !== 'editorial' && topicPages[0] && <FollowCard lang={lang} topic={topicPages[0]} />}
         <RailList title={t.related} items={related.slice(0, 5)} thumbs={d.type === 'news' ? 1 : 0} />

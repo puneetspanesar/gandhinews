@@ -1,0 +1,20 @@
+---
+// Pagefind search metadata: hidden filters (type, section) and result meta (format label, date).
+import { SECTION_NAMES, type Lang } from '../lib/i18n';
+import { kicker, fmtDate } from '../lib/site';
+interface Props { data: any; lang: Lang }
+const { data: d, lang } = Astro.props;
+const TYPES: Record<string, { en: string; hi: string }> = {
+  news: { en: 'News', hi: 'खबर' },
+  explainer: { en: 'Explained', hi: 'समझिए' },
+  factcheck: { en: 'Fact check', hi: 'फैक्ट चेक' },
+  editorial: { en: 'Opinion', hi: 'राय' },
+  topic: { en: 'Topic', hi: 'विषय' },
+  tracker: { en: 'Tracker', hi: 'ट्रैकर' },
+};
+---
+{/* Attribute forms keep these values out of the indexed text and excerpts. */}
+<span hidden data-pagefind-filter="type[data-v]" data-v={TYPES[d.type][lang]}></span>
+<span hidden data-pagefind-filter="section[data-v]" data-v={SECTION_NAMES[lang][d.section]}></span>
+<span hidden data-pagefind-meta="format[data-v]" data-v={kicker(d)}></span>
+<span hidden data-pagefind-meta="date[data-v]" data-v={fmtDate(d.updated ?? d.published, lang)}></span>

@@ -15,7 +15,7 @@ const { title, items, thumbs = 0 } = Astro.props;
               <span class="k">{kicker(e.data)}</span>
               <h3>{e.data.title}</h3>
             </div>
-            {i < thumbs && <Photo src={e.data.hero?.src} alt="" />}
+            {i < thumbs && <Photo id={e.data.id} src={e.data.hero?.src} alt="" />}
           </a>
         </li>
       ))}

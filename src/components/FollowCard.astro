@@ -10,5 +10,7 @@ const t = UI[lang];
   <span class="k">{Astro.props.label ?? t.topic}</span>
   <h3>{topic.data.title}</h3>
   <p>{topic.data.standfirst}</p>
-  <a class="fbtn" href={urlOf(topic.data)}><Icon name="bell-simple" />{t.followTopic}</a>
+  {/* TODO(launch): "Follow this topic" should subscribe the reader to alerts for this topic (email or push)
+      once a provider is chosen. Until then it opens the topic page. */}
+  <a class="fbtn" href={urlOf(topic.data)} data-todo="topic-follow"><Icon name="bell-simple" />{t.followTopic}</a>
 </section>

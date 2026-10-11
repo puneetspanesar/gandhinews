@@ -1,0 +1,37 @@
+---
+// Not found page, served for any missing URL (dist/404.html). English, with a way into the Hindi site.
+import Base from '../layouts/Base.astro';
+import Icon from '../components/Icon.astro';
+import { content, urlOf, kicker } from '../lib/site';
+import { SECTION_NAMES } from '../lib/i18n';
+
+const c = (await content()).en;
+const latest = c.articles.filter((e: any) => e.data.type === 'news').slice(0, 4);
+const S = SECTION_NAMES.en;
+---
+<Base lang="en" title="Page not found" description="We could not find that page on Gandhi News." path="/404.html" altPath={null} noindex>
+  <div class="w">
+    <div class="nf">
+      <div class="nf-main">
+        <p class="nf-code num">404</p>
+        <h1>We could not find that page</h1>
+        <p class="nf-d">The link may be old, or the address may have a typing error. If you followed a link from our site, tell us at our <a href="/contact/">contact page</a> and we will fix it.</p>
+        <form class="sbox" role="search" action="/search/" method="get">
+          <label class="sr-only" for="nf-q">Search</label>
+          <Icon name="magnifying-glass" />
+          <input id="nf-q" name="q" type="search" placeholder="Search Gandhi News" />
+          <button type="submit">Search</button>
+        </form>
+        <div class="nf-links">
+          <a class="fbtn" href="/"><Icon name="house" />Go to the homepage</a>
+          <a class="fbtn ol" href="/hi/" lang="hi" hreflang="hi">हिंदी होमपेज पर जाएं</a>
+        </div>
+        <nav class="ph-links" aria-label="Sections">{Object.entries(S).map(([k, v]) => <a href={`/${k}/`}>{v}</a>)}<a href="/trackers/">Trackers</a><a href="/fact-check/">Fact check</a></nav>
+      </div>
+      <aside class="nf-side">
+        <h2 class="rh">Latest stories</h2>
+        <ul class="rl">{latest.map((e: any) => <li><a href={urlOf(e.data)}><span class="k">{kicker(e.data)}</span><h3>{e.data.title}</h3></a></li>)}</ul>
+      </aside>
+    </div>
+  </div>
+</Base>

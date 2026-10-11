@@ -9,6 +9,10 @@ import Tracker from '../templates/Tracker.astro';
 import List from '../templates/List.astro';
 import CardsHub from '../templates/CardsHub.astro';
 import Simple from '../templates/Simple.astro';
+import Home from '../templates/Home.astro';
+import Search from '../templates/Search.astro';
+import Page from '../templates/Page.astro';
+import { getCollection } from 'astro:content';
 
 export const getStaticPaths = (async () => {
   const c = await content();
@@ -30,6 +34,8 @@ export const getStaticPaths = (async () => {
     add(`${p}/`, { kind: 'home', lang });
     add(`${p}/search/`, { kind: 'search', lang });
     add(`${p}/saved/`, { kind: 'saved', lang });
+    add(`${p}/latest/`, { kind: 'hub', lang, key: 'latest' });
+    for (const e of await getCollection(`pages_${lang}`)) add(`${p}/${e.data.path}/`, { kind: 'page', lang, id: e.data.id });
   }
   const seen = new Set<string>();
   for (const o of out) {
@@ -46,4 +52,7 @@ const props = Astro.props as any;
 {props.kind === 'tracker' && <Tracker {...props} />}
 {(props.kind === 'section' || props.kind === 'hub') && <List {...props} />}
 {(props.kind === 'trackers' || props.kind === 'topics') && <CardsHub {...props} />}
-{(props.kind === 'home' || props.kind === 'search' || props.kind === 'saved') && <Simple {...props} />}
+{props.kind === 'home' && <Home {...props} />}
+{props.kind === 'search' && <Search {...props} />}
+{props.kind === 'page' && <Page {...props} />}
+{props.kind === 'saved' && <Simple {...props} />}

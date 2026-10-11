@@ -1,0 +1,288 @@
+---
+// Homepage, English and Hindi. Which stories appear where is set in content/homepage.json;
+// everything shown is read from the articles and the tracker data (see src/lib/home.ts).
+import Base from '../layouts/Base.astro';
+import Icon from '../components/Icon.astro';
+import Seal from '../components/Seal.astro';
+import Photo from '../components/Photo.astro';
+import '../styles/home.css';
+import { prefix, todayLine } from '../lib/site';
+import { UI, SECTION_NAMES, type Lang } from '../lib/i18n';
+import { websiteLd } from '../lib/seo';
+import { homeModel, H } from '../lib/home';
+import CORRECTIONS from '../../content/corrections.json';
+
+interface Props { lang: Lang; route: string }
+const { lang, route } = Astro.props;
+const t = UI[lang];
+const h = H[lang];
+const p = prefix(lang);
+const S = SECTION_NAMES[lang];
+const m = await homeModel(lang);
+const L = m.lead;
+const desc = lang === 'hi'
+  ? 'गांधी न्यूज़: राजनीति, नीति, अर्थव्यवस्था और संसद पर स्वतंत्र भारतीय पत्रकारिता, अंग्रेज़ी और हिंदी में।'
+  : 'Gandhi News: independent Indian journalism on politics, policy, the economy and Parliament, in English and Hindi.';
+const latestCorrection: any = (CORRECTIONS as any[])[0];
+---
+<Base lang={lang} title={t.siteName} description={desc} path={route} active="home" jsonld={websiteLd(lang)}>
+<div class="home">
+  <div class="w">
+    <!-- LEAD -->
+    <section class="lead" aria-labelledby="lead-h">
+      <div>
+        <span class="tag">{L.k}</span>
+        <a href={L.href}><h1 id="lead-h">{L.d.title}</h1></a>
+        <p class="d">{L.d.standfirst}</p>
+        <div class="by"><Seal small /><span>{lang === 'hi' ? <><b>{h.desk}</b>{L.d.location && <> · {L.d.location}</>}</> : <>{h.fromDesk} <b>{h.desk}</b>{L.d.location && <> · {L.d.location}</>}</>}</span></div>
+        <div class="how">
+          {L.dataBox.map((x: any) => <div><Icon name={x.icon} style={`color:${x.color}`} /><span><b class="num">{x.value}</b>{x.label}</span></div>)}
+        </div>
+        {L.d.keyPoints?.length > 0 && (
+          <div class="kf"><h2>{h.keyPoints}</h2><ol>{L.d.keyPoints.map((k: string) => <li>{k}</li>)}</ol></div>
+        )}
+        <div class="rel">
+          {L.below.map((x: any) => <a href={x.href}><div><span class="k">{x.k}</span><h3>{x.d.title}</h3></div><Photo id={x.id} src={x.d.hero?.src} /></a>)}
+        </div>
+      </div>
+      <div class="pic">
+        <a href={L.href} tabindex="-1" aria-hidden="true"><Photo id={L.id} src={L.d.hero?.src} alt={L.d.hero?.alt} size="lg" lang={lang} eager showCredit /></a>
+        {L.chart && <div class="chartbox" set:html={L.chart} />}
+        <div class="rel">
+          {L.beside.map((x: any) => <a href={x.href}><div><span class="k">{x.k}</span><h3>{x.d.title}</h3></div><Photo id={x.id} src={x.d.hero?.src} /></a>)}
+        </div>
+      </div>
+      <aside class="lt" aria-labelledby="brief-h">
+        <h2 id="brief-h">{h.briefing}</h2>
+        <p class="cad">{todayLine(lang)} · {h.briefingCad}</p>
+        <ol class="br">
+          {m.briefing.map((b: any) => <li><a href={b.href}><p><b>{b.lead}</b> {b.text}</p></a></li>)}
+        </ol>
+        <a class="ball" href="#newsletter">{h.morningBrief} <Icon name="caret-right" /></a>
+      </aside>
+    </section>
+
+    <!-- INDIA IN NUMBERS -->
+    <section class="sec" aria-labelledby="num-h">
+      <div class="sh"><h2 id="num-h">{h.numbers}</h2><span class="x">{h.numbersX}</span><a href={m.dashHref}>{h.dashboard} <Icon name="caret-right" /></a></div>
+      <div class="ind">
+        {m.numbers.map((x: any) => (
+          <div>
+            <div class="t"><Icon name={x.icon} />{x.label}</div>
+            <div class="v num">{x.value}</div>
+            <div class="c num">{x.change}</div>
+            <div class="sp"><Fragment set:html={x.spark} /><div class="sx"><span>{x.x0}</span><span>{x.x1}</span></div></div>
+            <div class="s">{x.src}</div>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <!-- TOP STORIES + START HERE -->
+    <section class="sec nob" aria-label={h.topStories}>
+      <div class="two">
+        <div>
+          <div class="sh"><h2 id="top-stories">{h.topStories}</h2></div>
+          <div class="ts2">
+            <article class="big">
+              <a href={m.big.href} tabindex="-1" aria-hidden="true"><Photo id={m.big.id} src={m.big.d.hero?.src} alt={m.big.d.hero?.alt} size="lg" lang={lang} showCredit /></a>
+              <span class="k">{m.big.k}</span>
+              <a href={m.big.href}><h3>{m.big.d.title}</h3></a>
+              <p class="sd">{m.big.d.standfirst}</p>
+              <ul class="also">{m.bigAlso.map((x: any) => <li><a href={x.href}>{x.label}</a></li>)}</ul>
+            </article>
+            <div class="sm">
+              {m.top.map((x: any) => <article><a href={x.href}><div><span class="k">{x.k}</span><h3>{x.d.title}</h3></div><Photo id={x.id} src={x.d.hero?.src} /></a></article>)}
+            </div>
+          </div>
+        </div>
+        <aside class="mr" aria-labelledby="start-h">
+          <div class="sh"><h2 id="start-h">{h.startHere}</h2><span class="x">{h.explainers}</span></div>
+          <ol>{m.start.map((x: any) => <li><a href={x.href}><h3>{x.d.title}</h3><p class="m">{x.meta}</p></a></li>)}</ol>
+        </aside>
+      </div>
+    </section>
+  </div>
+
+  <!-- TRACKERS BAND -->
+  <section class="band blk" aria-labelledby="trk-h">
+    <div class="w">
+      <div class="sh"><h2 id="trk-h">{h.trackers}</h2><span class="x">{h.trackersX}</span><a href={`${p}/trackers/`}>{h.allTrackers} <Icon name="caret-right" /></a></div>
+      <div class="trk">
+        {m.trackers.map((x: any) => (
+          <a class="tc" href={x.href}>
+            {x.id === 'bills-in-parliament-tracker' && <>
+              <span class="ti"><Icon name="scroll" />{x.area}</span><h3>{x.short}</h3>
+              <div class="bg"><b class="num">{m.billsCard.big}</b>{h.trk.billsBig}</div>
+              <div class="tr">{m.billsCard.rows.map((r: any) => <div class="r"><span>{r.l}</span><span class="num">{r.n}</span><span class="b"><i class={r.rd ? 'rd' : undefined} style={`width:${r.w}`}></i></span></div>)}</div>
+              {m.billsCard.winter.length > 0 && <div class="tl"><h4>{h.trk.winter}</h4>{m.billsCard.winter.map((w: string) => <div><span>{w}</span></div>)}</div>}
+            </>}
+            {x.id === 'economy-dashboard' && <>
+              <span class="ti"><Icon name="chart-line" />{x.area}</span><h3>{x.short}</h3>
+              <div class="bg"><b class="num">{m.econCard.big}</b>{m.econCard.bigLabel}</div>
+              <div class="sp"><Fragment set:html={m.econCard.spark} /><div class="sx"><span>{m.econCard.x0}</span><span>{m.econCard.x1}</span></div></div>
+              <div class="tl">{m.econCard.rows.map((r: any) => <div><span>{r.l}, {r.p}</span><b class="num">{r.v}</b></div>)}</div>
+            </>}
+            {x.id === 'election-calendar' && <>
+              <span class="ti"><Icon name="calendar-blank" />{x.area}</span><h3>{x.short}</h3>
+              <div class="bg"><b class="num">{m.elCard.big}</b>{h.trk.pollsBig}</div>
+              <div class="tr">{m.elCard.rows.map((r: any) => <div class="r"><span>{r.l}</span><span class="num">{r.n}</span><span class="b"><i class={r.rd ? 'rd' : undefined} style={`width:${r.w}`}></i></span></div>)}</div>
+              <div class="tl"><h4>{h.trk.next}</h4>{m.elCard.next.map((r: any) => <div><span>{r.l}</span><b>{r.v}</b></div>)}</div>
+            </>}
+            {x.id === 'budget-2026-27-promise-tracker' && <>
+              <span class="ti"><Icon name="list-checks" />{x.area}</span><h3>{x.short}</h3>
+              <div class="bg"><b class="num">{m.budgetCard.big}</b>{h.trk.promisesBig}</div>
+              <div class="stk">{m.budgetCard.stat.map((s: any) => <i style={`flex:${s.n};background:${s.c}`}></i>)}</div>
+              <div class="sk">{m.budgetCard.stat.map((s: any) => <span><i style={`background:${s.c}`}></i><b class="num">{s.n}</b>{s.l}</span>)}</div>
+              <div class="tl"><h4>{h.trk.byArea}</h4>{m.budgetCard.areas.map((r: any) => <div><span>{r.l}</span><b class="num">{r.n}</b></div>)}</div>
+            </>}
+            {x.id === 'sc-cases-tracker' && <>
+              <span class="ti"><Icon name="gavel" />{x.area}</span><h3>{x.short}</h3>
+              <div class="bg"><b class="num">{m.scCard.big}</b>{h.trk.casesBig}</div>
+              <div class="tr">{m.scCard.rows.map((r: any) => <div class="r"><span>{r.l}</span><span class="num">{r.n}</span><span class="b"><i class={r.rd ? 'rd' : r.gr ? 'gr' : undefined} style={`width:${r.w}`}></i></span></div>)}</div>
+              {m.scCard.reserved.length > 0 && <div class="tl"><h4>{h.trk.reservedOn}</h4>{m.scCard.reserved.map((r: any) => <div><span>{r.l}</span><b>{r.v}</b></div>)}</div>}
+            </>}
+            <p class="l">{x.line}</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <div class="w">
+    <!-- DATA DESK + PARLIAMENT -->
+    <section class="sec" aria-labelledby="dd-h">
+      <div class="mapw">
+        <div>
+          <div class="sh"><h2 id="dd-h">{h.dataDesk}</h2><a href={m.mapModel.href}>{h.moreCharts} <Icon name="caret-right" /></a></div>
+          <div class="mapc">
+            <div>
+              <svg class="map" viewBox="0 0 612 696" role="img" aria-labelledby="map-h">
+                {m.mapModel.paths.map((x: any) => <use href={`/maps/india.svg#${x.id}`} fill={x.fill} stroke="#fff" stroke-width="0.8" />)}
+              </svg>
+              <p class="m">{h.mapSource(m.mapModel.asOf)}</p>
+            </div>
+            <div>
+              <a class="k" href={m.mapModel.topicHref}>{m.mapModel.kicker}</a>
+              <h3 id="map-h">{m.mapModel.title}</h3>
+              <p class="d">{m.mapModel.text}</p>
+              <div class="leg"><span><i style="background:#cc0000"></i>{h.early}</span><span><i style="background:#0d0d0d"></i>{h.late}</span><span><i style="background:#e2e2e2"></i>{h.others}</span></div>
+              <div class="el"><h4><span>{h.state}</span><span>{h.termEnds}</span></h4>
+                {m.mapModel.states.map((s: any) => <div class="r"><i style={`background:${s.early ? '#cc0000' : '#0d0d0d'}`}></i><span>{s.name}</span><span class="num">{s.when}</span></div>)}
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="pt">
+          <h3><a href={m.parl.href}>{h.parl}</a> <span>{m.parl.name}</span></h3>
+          <div class="hsum"><div><b class="num">{m.parl.sittings}</b>{h.sittings}</div><div><b class="num">{m.parl.prod}</b>{h.lsProd}</div><div><b class="num">{m.parl.passed}</b>{h.billsPassed}</div></div>
+          <table class="hpm">
+            <thead><tr><th scope="col">{h.bill}</th>{h.cols.map((c: string) => <th scope="col">{c}</th>)}</tr></thead>
+            <tbody>
+              {m.parl.bills.map((b: any) => (
+                <tr><td><a href={b.href}>{b.name}</a><span>{b.note}</span></td>{b.cells.map((cl: string, i: number) => <td data-l={h.cols[i]}><i class={cl} role="img" aria-label={cl === 'y' ? h.done : cl === 'c' ? h.cur : cl === 's' ? h.skip : h.not}></i></td>)}</tr>
+              ))}
+            </tbody>
+          </table>
+          <div class="hpk"><span><i class="y"></i>{h.done}</span><span><i class="c"></i>{h.cur}</span><span><i class="n"></i>{h.not}</span><span><i class="s"></i>{h.skip}</span><span class="srcr">{h.prs}</span></div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <!-- FACT CHECK BAND -->
+  <section class="band red" aria-labelledby="fc-h">
+    <div class="w">
+      <div class="sh"><h2 id="fc-h">{h.fc}</h2><span class="x">{h.fcX}</span><a href={`${p}/fact-check/`}>{h.allFc} <Icon name="caret-right" /></a></div>
+      <div class="fcg">
+        {m.fcCards.map((x: any) => (
+          <a class="fcc" href={x.href}>
+            <span class={`vd v-${x.vk}`}>{x.verdict}</span>
+            <h3>{x.claim}</h3>
+            <p class="who">{x.who}</p>
+            <p class="wf"><b>{h.whatWeFound}</b> {x.found}</p>
+            <p class="src">{x.src}</p>
+          </a>
+        ))}
+        <div class="ask">
+          <h3>{h.ask}</h3>
+          <ol class="hw">{h.steps.map((s: string) => <li>{s}</li>)}</ol>
+          <div class="rsc"><h4>{h.howRate}</h4>
+            {(['true', 'mostly', 'misleading', 'false'] as const).map((v) => <p><b>{t.verdicts[v]}</b>{t.rate[v]}</p>)}
+            <a href={`${p}/fact-check/methodology/`}>{h.method}</a>
+          </div>
+          <!-- TODO(launch): point this at the WhatsApp tip line (wa.me/<number>) once the number exists. Until then it opens the contact page, which shows the placeholder. -->
+          <a class="btn" href={`${p}/contact/#whatsapp`} data-todo="whatsapp-tipline"><Icon name="whatsapp-logo" />{h.wa}</a>
+        </div>
+      </div>
+      <div class="fcstat"><span><b class="num">{m.fcStats.total}</b>{h.checked}</span>{m.fcStats.counts.map((c: any) => <span><b class="num">{c.n}</b>{lang === 'en' ? t.verdicts[c.v as 'true'].toLowerCase() : t.verdicts[c.v as 'true']}</span>)}</div>
+    </div>
+  </section>
+
+  <div class="w">
+    <!-- EXPLAINED + OPINION -->
+    <section class="sec" aria-label={`${h.explained}, ${h.opinion}`}>
+      <div class="two">
+        <div>
+          <div class="sh"><h2>{h.explained}</h2><a href={`${p}/explained/`}>{h.allExplainers} <Icon name="caret-right" /></a></div>
+          <div class="ex">
+            {m.explained.map((x: any) => (
+              <div>
+                <a class="pl" href={x.href} tabindex="-1" aria-hidden="true"><Photo id={x.id} src={x.d.hero?.src} /></a>
+                <span class="k">{x.topic}</span>
+                <a href={x.href}><h3>{x.d.title}</h3></a>
+                <p class="sd">{x.d.standfirst}</p>
+                <div class="kn">{x.kn.map((k: any) => <div><b class="num">{k.v}</b>{k.l}</div>)}</div>
+              </div>
+            ))}
+          </div>
+        </div>
+        <aside class="op">
+          <div class="sh"><h2>{h.opinion}</h2><span class="x">{h.opinionX}</span><a href={`${p}/opinion/`}>{h.allEditorials} <Icon name="caret-right" /></a></div>
+          {m.opinion.map((x: any) => <article><a href={x.href}><span class="k">{x.topic}</span><h3>{x.d.title}</h3></a></article>)}
+        </aside>
+      </div>
+    </section>
+
+    <!-- SECTION FRONTS -->
+    <section class="sec" aria-label={t.sections}>
+      <div class="fr">
+        {m.sections.map((s: any) => (
+          <div>
+            <h2><a href={`${p}/${s.key}/`} style="font:inherit;color:inherit">{S[s.key]}</a><a href={`${p}/${s.key}/`}>{h.more} <Icon name="caret-right" /></a></h2>
+            {s.module?.type === 'bypolls' && (
+              <div class="mini"><div class="mh"><a href={s.module.href}>{s.module.title}</a><b>{h.bypollSeats(s.module.n)}</b></div>
+                <table class="num"><tbody>{s.module.rows.map((r: any) => <tr><td>{r.seat}</td><td>{r.party} <span style="color:var(--mut);font-weight:400">· {r.margin}</span></td></tr>)}</tbody></table>
+              </div>
+            )}
+            {s.module?.type === 'session' && (
+              <div class="mini"><div class="mh"><span>{s.module.name}</span><b>{s.module.when}</b></div>
+                <table class="num"><tbody>{s.module.rows.map((r: any) => <tr><td>{r.l}</td><td>{r.v}</td></tr>)}</tbody></table>
+              </div>
+            )}
+            {s.lead && <a class="lead2" href={s.lead.href}><div><h3>{s.lead.d.title}</h3><p class="m">{s.lead.k}</p></div><Photo id={s.lead.id} src={s.lead.d.hero?.src} /></a>}
+            {s.module?.type === 'markets' && (
+              <table class="num"><tbody>{s.module.rows.map((r: any) => <tr><td>{r.l}</td><td>{r.v}{r.pct && <span class={r.up ? 'up' : 'dn'}>{r.pct}</span>}</td></tr>)}</tbody></table>
+            )}
+            {s.list.length > 0 && <ul>{s.list.map((x: any) => <li><a href={x.href}>{x.d.title}</a></li>)}</ul>}
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <!-- STANDARDS -->
+    <section class="std2" aria-label={t.trust}>
+      <div class="cor">
+        <span class="k">{h.corrections}</span>
+        {latestCorrection
+          ? <p>{latestCorrection.summary?.[lang] ?? latestCorrection.summary}</p>
+          : <p>{h.correctionsNone}</p>}
+        <a href={`${p}/corrections/`}>{h.correctionsLog} <Icon name="caret-right" /></a>
+      </div>
+      <div class="prs">
+        {h.pillars.map((x: any) => <a class="pr" href={`${p}${x.href}`}><Icon name={x.icon} /><span><b>{x.b}</b><p>{x.p}</p></span></a>)}
+      </div>
+    </section>
+  </div>
+</div>
+</Base>

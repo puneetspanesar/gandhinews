@@ -7,7 +7,7 @@ interface Props { lang: Lang; published: Date; updated?: Date; title: string; pa
 const { lang, published, updated, title, path, kicker, location } = Astro.props;
 const t = UI[lang];
 ---
-<div class="meta">
+<div class="meta" data-pagefind-ignore>
   <div class="who">
     <Seal small />
     <span>

@@ -21,8 +21,10 @@ interface Props {
   crumbs?: Crumb[];
   active?: string;
   article?: { published?: Date; modified?: Date; section?: string; tags?: string[] };
+  /** Keep this page out of search engines even after launch (404). */
+  noindex?: boolean;
 }
-const { lang, title, description, path, ogType = 'website', jsonld = [], crumbs = [], active = '', article } = Astro.props;
+const { lang, title, description, path, ogType = 'website', jsonld = [], crumbs = [], active = '', article, noindex = false } = Astro.props;
 const altPath = Astro.props.altPath === undefined ? swapLangPath(path, lang === 'en' ? 'hi' : 'en') : Astro.props.altPath;
 const t = UI[lang];
 const p = prefix(lang);
@@ -44,6 +46,23 @@ const more = [
   { key: 'topics', label: t.topics, href: `${p}/topics/` },
 ];
 const moreActive = more.some((m) => m.key === active);
+const trust = [
+  { label: t.about, href: `${p}/about/` },
+  { label: t.standards, href: `${p}/standards/` },
+  { label: t.corrections, href: `${p}/corrections/` },
+  { label: t.ownership, href: `${p}/ownership/` },
+  { label: t.aiPolicy, href: `${p}/ai-policy/` },
+  { label: t.grievance, href: `${p}/grievance/` },
+  { label: t.contact, href: `${p}/contact/` },
+];
+// Mobile bottom tab bar
+const tabs = [
+  { icon: 'house', label: t.tabHome, href: `${p}/`, on: path === `${p}/` },
+  { icon: 'clock', label: t.tabLatest, href: `${p}/latest/`, on: path === `${p}/latest/` },
+  { icon: 'list-checks', label: t.tabTrackers, href: `${p}/trackers/`, on: path.startsWith(`${p}/trackers/`) },
+  { icon: 'bookmark-simple', label: t.tabSaved, href: `${p}/saved/`, on: path === `${p}/saved/` },
+  { icon: 'magnifying-glass', label: t.tabSearch, href: `${p}/search/`, on: path === `${p}/search/` },
+];
 
 // Markets strip
 const sensex = indicator(lang, 'sensex');
@@ -74,7 +93,7 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
   {altPath && enPath && <link rel="alternate" hreflang="en-IN" href={abs(enPath)} />}
   {altPath && hiPath && <link rel="alternate" hreflang="hi-IN" href={abs(hiPath)} />}
   {altPath && enPath && <link rel="alternate" hreflang="x-default" href={abs(enPath)} />}
-  {!SITE_LIVE && <meta name="robots" content="noindex,nofollow" />}
+  {(!SITE_LIVE || noindex) && <meta name="robots" content="noindex,nofollow" />}
   <meta name="theme-color" content="#0d0d0d" />
   <link rel="icon" href="/favicon.png" type="image/png" sizes="192x192" />
   <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
@@ -163,8 +182,9 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
     <div class="w">
       <div class="nlr" id="newsletter">
         <div><h2>{t.newsletterTitle}</h2><p>{t.newsletterText}</p></div>
-        <!-- Newsletter: set the form action to the email provider's signup endpoint before launch. -->
-        <form action="#newsletter" method="post" data-newsletter>
+        <!-- TODO(launch): newsletter. Set `action` to the email provider's signup endpoint (and its field names).
+             Until then the form posts nowhere: the handler below shows a "coming soon" message instead. -->
+        <form action="#newsletter" method="post" data-newsletter data-todo="newsletter-endpoint">
           <label class="sr-only" for="nl-email">{t.email}</label>
           <input id="nl-email" name="email" type="email" autocomplete="email" required placeholder={t.email} />
           <input type="hidden" name="list" value={lang === 'hi' ? 'morning-brief-hi' : 'morning-brief-en'} />
@@ -175,12 +195,16 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
         <div><a class="brand" href={`${p}/`}><Seal /><span class="wm" style="color:#fff">Gandhi News</span></a><p class="named">{t.named}</p></div>
         <div><h2 class="fh">{t.sections}</h2><ul>{['politics', 'policy', 'economy', 'parliament', 'states', 'world'].map((k) => <li><a href={`${p}/${k}/`}>{S[k]}</a></li>)}</ul></div>
         <div><h2 class="fh">{t.features}</h2><ul>{[...more, { key: 'fact-check', label: t.factCheck, href: `${p}/fact-check/` }].map((m) => <li><a href={m.href}>{m.label}</a></li>)}</ul></div>
-        <div><h2 class="fh">{t.trust}</h2><ul><li>{t.standards}</li><li>{t.corrections}</li><li>{t.ownership}</li><li>{t.contact}</li></ul></div>
-        <div><h2 class="fh">{t.follow}</h2><ul><li><a href={`${p}/rss.xml`}>RSS</a></li><li>WhatsApp</li><li>Instagram</li><li>YouTube</li><li>X</li></ul></div>
+        <div><h2 class="fh">{t.trust}</h2><ul>{trust.map((x) => <li><a href={x.href}>{x.label}</a></li>)}</ul></div>
+        <!-- TODO(launch): link WhatsApp, Instagram, YouTube and X once the accounts exist. WhatsApp points at the contact page placeholder for now. -->
+        <div><h2 class="fh">{t.follow}</h2><ul><li><a href={`${p}/rss.xml`}>RSS</a></li><li><a href={`${p}/contact/#whatsapp`} data-todo="whatsapp-channel">WhatsApp</a></li><li>Instagram</li><li>YouTube</li><li>X</li></ul></div>
       </div>
-      <div class="b"><span>{t.rights}</span><span>{lang === 'hi' ? 'निजता · शर्तें · कुकीज़' : 'Privacy · Terms · Cookies'}</span></div>
+      <div class="b"><span>{t.rights}</span><span class="legal"><a href={`${p}/privacy/`}>{t.privacy}</a> · <a href={`${p}/terms/`}>{t.terms}</a> · <a href={`${p}/privacy/#cookies`}>{t.cookies}</a></span></div>
     </div>
   </footer>
+  <nav class="tab" aria-label={lang === 'hi' ? 'त्वरित नेविगेशन' : 'Quick navigation'}>
+    {tabs.map((x) => <a href={x.href} class={x.on ? 'on' : undefined} aria-current={x.on ? 'page' : undefined}><Icon name={x.icon} />{x.label}</a>)}
+  </nav>
   <div class="toast" role="status" aria-live="polite" id="toast"></div>
   <script>
     const nb = document.getElementById('nb');
@@ -195,6 +219,17 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
     const dd = document.querySelector<HTMLDetailsElement>('.menu details');
     document.addEventListener('click', (e) => { if (dd?.open && !dd.contains(e.target as Node)) dd.open = false; });
     document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && dd?.open) { dd.open = false; dd.querySelector('summary')?.focus(); } });
+    // TODO(launch): remove this once the newsletter form posts to the real provider endpoint.
+    const nl = document.querySelector<HTMLFormElement>('form[data-todo="newsletter-endpoint"]');
+    nl?.addEventListener('submit', (e) => {
+      e.preventDefault();
+      const toast = document.getElementById('toast');
+      if (toast) {
+        toast.textContent = document.documentElement.lang === 'hi' ? 'न्यूज़लेटर जल्द शुरू होगा।' : 'The newsletter is launching soon.';
+        toast.classList.add('show');
+        setTimeout(() => toast.classList.remove('show'), 2600);
+      }
+    });
   </script>
 </body>
 </html>

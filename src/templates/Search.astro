@@ -1,0 +1,150 @@
+---
+// Search page. The index is built after `astro build` by Pagefind (see package.json "build").
+// Articles, topics and trackers carry data-pagefind-body plus "type" and "section" filters;
+// Pagefind keeps a separate index per <html lang>, so /search/ searches English and /hi/search/ Hindi.
+import Base from '../layouts/Base.astro';
+import Icon from '../components/Icon.astro';
+import { prefix } from '../lib/site';
+import { UI, type Lang } from '../lib/i18n';
+
+interface Props { lang: Lang; route: string }
+const { lang, route } = Astro.props;
+const t = UI[lang];
+const p = prefix(lang);
+const L = lang === 'hi'
+  ? { h1: 'खोजें', desc: 'गांधी न्यूज़ की खबरों, समझिए लेखों, फैक्ट चेक, संपादकीय, विषयों और ट्रैकरों में खोजें।', ph: 'जैसे रेपो रेट, एसआईआर, जीएसटी', btn: 'खोजें', type: 'प्रकार', section: 'सेक्शन', all: 'सभी', results: (n: number, q: string) => `“${q}” के लिए ${n} नतीजे`, resultsNoQ: (n: number) => `${n} नतीजे`, none: (q: string) => `“${q}” के लिए कुछ नहीं मिला। दूसरे शब्द आज़माएं या फिल्टर हटाएं।`, more: 'और नतीजे', hint: 'शब्द लिखें और Enter दबाएं। फिल्टर से नतीजे छांटें।', off: 'खोज अभी उपलब्ध नहीं है। साइट बनने के बाद खोज का इंडेक्स तैयार होता है।', tryL: 'आज़माएं:', tries: ['रेपो रेट', 'उपचुनाव', 'श्रम संहिताएं', 'जनगणना 2027'] }
+  : { h1: 'Search', desc: 'Search Gandhi News stories, explainers, fact checks, editorials, topics and trackers.', ph: 'Try repo rate, SIR, GST', btn: 'Search', type: 'Type', section: 'Section', all: 'All', results: (n: number, q: string) => `${n} results for “${q}”`, resultsNoQ: (n: number) => `${n} results`, none: (q: string) => `Nothing found for “${q}”. Try other words or clear the filters.`, more: 'More results', hint: 'Type a word and press Enter. Use the filters to narrow results.', off: 'Search is not available yet. The search index is built when the site is built.', tryL: 'Try:', tries: ['repo rate', 'bypolls', 'labour codes', 'Census 2027'] };
+const crumbs = [{ name: t.home, href: `${p}/` }, { name: L.h1, href: route }];
+---
+<Base lang={lang} title={L.h1} description={L.desc} path={route} crumbs={crumbs} active="">
+  <div class="w">
+    <div class="srch" data-search
+      data-l-all={L.all} data-l-more={L.more} data-l-none={L.none('%q')} data-l-results={L.results(-1, '%q')} data-l-resultsnoq={L.resultsNoQ(-1)} data-l-off={L.off}>
+      <header class="page-h srch-h">
+        <h1>{L.h1}</h1>
+        <form class="sbox" role="search" action={route} method="get" data-form>
+          <label class="sr-only" for="q">{L.h1}</label>
+          <Icon name="magnifying-glass" />
+          <input id="q" name="q" type="search" autocomplete="off" placeholder={L.ph} data-q />
+          <button type="submit">{L.btn}</button>
+        </form>
+        <p class="m srch-try">{L.tryL} {L.tries.map((x, i) => <>{i > 0 && ', '}<a href={`${route}?q=${encodeURIComponent(x)}`}>{x}</a></>)}</p>
+      </header>
+      <div class="sfil" data-filters hidden>
+        <div class="fg"><span class="fl">{L.type}</span><div class="chips" data-group="type"></div></div>
+        <div class="fg"><span class="fl">{L.section}</span><div class="chips" data-group="section"></div></div>
+      </div>
+      <p class="scount" data-count role="status" aria-live="polite">{L.hint}</p>
+      <ol class="sres" data-results></ol>
+      <button type="button" class="smore" data-more hidden>{L.more}</button>
+    </div>
+  </div>
+  <script is:inline>
+  (function () {
+    var root = document.querySelector('[data-search]');
+    if (!root) return;
+    var D = root.dataset;
+    var input = root.querySelector('[data-q]');
+    var form = root.querySelector('[data-form]');
+    var list = root.querySelector('[data-results]');
+    var count = root.querySelector('[data-count]');
+    var moreBtn = root.querySelector('[data-more]');
+    var filtersBox = root.querySelector('[data-filters]');
+    var PAGE = 10;
+    var hint = count.textContent;
+    var state = { q: '', type: null, section: null, results: [], shown: 0 };
+    var pf = null;
+    var params = new URLSearchParams(location.search);
+    state.q = params.get('q') || '';
+    state.type = params.get('type');
+    state.section = params.get('section');
+    input.value = state.q;
+    if (!state.q) input.focus();
+
+    function el(tag, cls, text) { var e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; }
+    function fmt(tpl, n, q) { return tpl.replace('-1', n).replace('%q', q); }
+
+    function chips(group, counts) {
+      var box = root.querySelector('[data-group="' + group + '"]');
+      box.replaceChildren();
+      var keys = Object.keys(counts || {}).sort(function (a, b) { return counts[b] - counts[a]; });
+      var all = el('button', null, D.lAll); all.type = 'button';
+      all.setAttribute('aria-pressed', String(!state[group]));
+      all.addEventListener('click', function () { state[group] = null; run(); });
+      box.append(all);
+      keys.forEach(function (k) {
+        if (!counts[k] && state[group] !== k) return;
+        var b = el('button'); b.type = 'button';
+        b.append(document.createTextNode(k + ' '), el('b', null, String(counts[k])));
+        b.setAttribute('aria-pressed', String(state[group] === k));
+        b.addEventListener('click', function () { state[group] = state[group] === k ? null : k; run(); });
+        box.append(b);
+      });
+    }
+
+    function syncUrl() {
+      var u = new URL(location.href);
+      ['q', 'type', 'section'].forEach(function (k) { if (state[k]) u.searchParams.set(k, state[k]); else u.searchParams.delete(k); });
+      history.replaceState(null, '', u);
+    }
+
+    async function showMore() {
+      var slice = state.results.slice(state.shown, state.shown + PAGE);
+      var data = await Promise.all(slice.map(function (r) { return r.data(); }));
+      data.forEach(function (d) {
+        var li = el('li');
+        var k = el('span', 'k', (d.meta && d.meta.format) || '');
+        var a = el('a'); a.href = d.url;
+        a.append(el('h2', null, (d.meta && d.meta.title) || d.url));
+        var p = el('p'); p.innerHTML = d.excerpt;
+        li.append(k, a, p);
+        if (d.meta && d.meta.date) li.append(el('p', 'm', d.meta.date));
+        list.append(li);
+      });
+      state.shown += slice.length;
+      moreBtn.hidden = state.shown >= state.results.length;
+    }
+
+    async function run() {
+      syncUrl();
+      if (!pf) return;
+      var filters = {};
+      if (state.type) filters.type = state.type;
+      if (state.section) filters.section = state.section;
+      if (!state.q && !state.type && !state.section) {
+        list.replaceChildren(); moreBtn.hidden = true; filtersBox.hidden = true; count.textContent = hint; return;
+      }
+      var res = await pf.search(state.q || null, Object.keys(filters).length ? { filters: filters } : {});
+      if (!res) return;
+      // Facet counts: each group counts results within the other group's filter.
+      var facet = async function (other) {
+        var o = {}; if (state[other]) o[other] = state[other];
+        var r = await pf.search(state.q || null, Object.keys(o).length ? { filters: o } : {});
+        return (r && r.filters) || {};
+      };
+      var ft = await facet('section'), fs = await facet('type');
+      state.results = res.results; state.shown = 0;
+      list.replaceChildren();
+      var total = res.results.length;
+      count.textContent = total === 0 ? D.lNone.replace('%q', state.q) : state.q ? fmt(D.lResults, total, state.q) : fmt(D.lResultsnoq, total, '');
+      chips('type', ft.type); chips('section', fs.section);
+      filtersBox.hidden = false;
+      await showMore();
+    }
+
+    var timer;
+    input.addEventListener('input', function () { clearTimeout(timer); timer = setTimeout(function () { state.q = input.value.trim(); run(); }, 220); });
+    form.addEventListener('submit', function (e) { e.preventDefault(); state.q = input.value.trim(); run(); });
+    moreBtn.addEventListener('click', showMore);
+
+    var url = '/pagefind/pagefind.js';
+    import(url).then(async function (m) {
+      pf = m;
+      await pf.options({ excerptLength: 26 });
+      await pf.init();
+      await pf.filters(); // load the filter index so result counts come back for every filter
+      if (state.q || state.type || state.section) run();
+    }).catch(function () { count.textContent = D.lOff; });
+  })();
+  </script>
+</Base>

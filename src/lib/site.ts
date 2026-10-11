@@ -1,6 +1,7 @@
 import { getCollection, type CollectionEntry } from 'astro:content';
 import type { Lang } from './i18n';
 import { TOPIC_FALLBACK } from './i18n';
+import PHOTOS from '../../content/photos.map.json';
 // @ts-ignore - plain JS module shared with the Markdown plugin
 import { routeFor, prefix, SECTIONS } from './routes.mjs';
 
@@ -131,3 +132,9 @@ export const isoDate = (d: Date | string) => (typeof d === 'string' ? d : new Da
 export const labelParts = (s: string) => s.split('/').map((x) => x.trim()).filter(Boolean);
 /** Short kicker for cards: first part of the format label. */
 export const kicker = (d: Data) => labelParts(d.format_label).join(' · ');
+
+/** Hero photo for a story: a fetched photo (content/photos.map.json) wins over frontmatter hero.src. */
+export function heroOf(d: any): { src?: string | null; credit?: string | null; caption?: string | null; alt?: string } {
+  const f = (PHOTOS as Record<string, any>)[d.id];
+  return { src: f?.src ?? d.hero?.src, credit: f?.credit ?? d.hero?.credit, caption: d.hero?.caption, alt: d.hero?.alt };
+}

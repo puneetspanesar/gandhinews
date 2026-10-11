@@ -11,7 +11,7 @@ const showImg = !compact && d.type === 'news';
 ---
 {lead ? (
   <article class="leadc">
-    <a href={href}><Photo src={d.hero?.src} alt={d.hero?.alt} size="lg" lang={lang} eager /></a>
+    <a href={href}><Photo id={d.id} src={d.hero?.src} alt={d.hero?.alt} size="lg" lang={lang} eager /></a>
     <div>
       {vk ? <span class={`vd v-${vk}`}>{d.factcheck.verdict}</span> : <span class="k">{kicker(d)}</span>}
       <a href={href}><h2>{d.title}</h2></a>
@@ -27,6 +27,6 @@ const showImg = !compact && d.type === 'news';
       {!compact && <p>{d.standfirst}</p>}
       <p class="m"><time datetime={d.published.toISOString()}>{fmtDateTime(d.published, lang)}</time></p>
     </div>
-    {showImg && <a href={href} tabindex="-1" aria-hidden="true"><Photo src={d.hero?.src} alt="" /></a>}
+    {showImg && <a href={href} tabindex="-1" aria-hidden="true"><Photo id={d.id} src={d.hero?.src} alt="" /></a>}
   </article>
 )}

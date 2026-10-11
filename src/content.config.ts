@@ -69,6 +69,20 @@ const coll = (lang: 'en' | 'hi', pattern: string) =>
     schema: base,
   });
 
+const page = z.object({
+  id: z.string(),
+  lang: z.enum(['en', 'hi']),
+  path: z.string(),
+  title: z.string(),
+  description: z.string(),
+  updated: date,
+});
+const pages = (lang: 'en' | 'hi') =>
+  defineCollection({
+    loader: glob({ pattern: '*.md', base: `./content/pages/${lang}`, generateId: ({ entry }) => entry.replace(/\.md$/, '') }),
+    schema: page,
+  });
+
 const ARTICLES = '{news,explainer,factcheck,editorial}/*.md';
 
 export const collections = {
@@ -78,4 +92,6 @@ export const collections = {
   topics_hi: coll('hi', 'topic/*.md'),
   trackers_en: coll('en', 'tracker/*.md'),
   trackers_hi: coll('hi', 'tracker/*.md'),
+  pages_en: pages('en'),
+  pages_hi: pages('hi'),
 };
