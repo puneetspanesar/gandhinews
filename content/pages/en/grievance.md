@@ -3,11 +3,11 @@ id: grievance
 lang: en
 path: grievance
 title: "Grievance redressal"
-description: "How to complain about Gandhi News content under Part III of India's IT Rules, 2021, who our Grievance Officer is and how quickly we respond."
+description: "How to complain about LokVox content under Part III of India's IT Rules, 2021, who our Grievance Officer is and how quickly we respond."
 updated: 2026-10-11
 ---
 
-Gandhi News publishes news and current affairs content in India. Part III of the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021 asks such publishers to follow a Code of Ethics and to run a grievance redressal process. This page explains ours.
+LokVox publishes news and current affairs content in India. Part III of the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021 asks such publishers to follow a Code of Ethics and to run a grievance redressal process. This page explains ours.
 
 ## Grievance Officer
 

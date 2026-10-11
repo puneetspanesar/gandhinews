@@ -3,7 +3,7 @@ id: standards
 lang: en
 path: standards
 title: "Editorial standards"
-description: "The rules Gandhi News follows on sourcing, attribution, fairness, opinion, corrections, photos and AI, written down so readers can hold us to them."
+description: "The rules LokVox follows on sourcing, attribution, fairness, opinion, corrections, photos and AI, written down so readers can hold us to them."
 updated: 2026-10-11
 ---
 

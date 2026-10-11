@@ -11,7 +11,7 @@ export async function GET() {
     .map(({ lang, d }) => `  <url>
     <loc>${abs(urlOf(d))}</loc>
     <news:news>
-      <news:publication><news:name>Gandhi News</news:name><news:language>${lang}</news:language></news:publication>
+      <news:publication><news:name>LokVox</news:name><news:language>${lang}</news:language></news:publication>
       <news:publication_date>${d.published.toISOString()}</news:publication_date>
       <news:title>${esc(d.title)}</news:title>
     </news:news>

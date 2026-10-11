@@ -53,7 +53,7 @@ verification:
   notes:
     - "Fact-checked 11 Oct 2026: definitions, MPC composition and rules, May 2016 amendment, 25 March 2026 retention of the 4% target for April 2026 to March 2031, SDF/MSF spreads and Bank Rate confirmed on RBI's monetary policy overview page; external benchmark rules confirmed in circular RBI/2019-20/53; quotes and projections confirmed in the 7 Oct resolution and Governor's statement; repo history as in the RBI news story. EMI arithmetic recomputed: ₹41,822 and ₹42,603, ₹781 a month, about ₹1.87 lakh over 240 months, about 12 extra instalments if tenure is extended."
     - "Changed: the benchmark list now includes 'another market benchmark published by FBIL', which the circular also allows."
-    - "The EMI example is Gandhi News's own arithmetic on assumed loan terms (₹50 lakh, 20 years, 8.00% rising to 8.25%). The 8.00% starting rate is an assumption for illustration, not a quoted bank rate."
+    - "The EMI example is LokVox's own arithmetic on assumed loan terms (₹50 lakh, 20 years, 8.00% rising to 8.25%). The 8.00% starting rate is an assumption for illustration, not a quoted bank rate."
     - "Treatment of fixed-rate and older (MCLR or base-rate) loans is not covered because no source on those was read for this piece."
     - "Hindi adaptation of verified English text"
 ---
@@ -87,7 +87,7 @@ verification:
 **लंबी अवधि के एक आम होम लोन पर 25 बेसिस पॉइंट की बढ़ोतरी से हर ₹50 लाख के कर्ज़ पर हर महीने कुछ सौ रुपये बढ़ जाते हैं।** नीचे दिया गया उदाहरण असर का आकार दिखाने के लिए मान ली गई शर्तों पर आधारित है। आपके अपने आंकड़े आपकी दर, बकाया राशि और बची हुई अवधि पर निर्भर करेंगे।
 
 ```facts
-{"title":"उदाहरण: ₹50 लाख का होम लोन, 20 साल","items":[{"value":"₹41,822","label":"8.00% की मानी गई दर पर मासिक ईएमआई","source":"गांधी न्यूज़ की गणना"},{"value":"₹42,603","label":"25 बेसिस पॉइंट बढ़ने के बाद 8.25% पर मासिक ईएमआई","source":"गांधी न्यूज़ की गणना"},{"value":"₹781","label":"हर महीने अतिरिक्त, 20 साल में करीब ₹1.87 लाख","source":"गांधी न्यूज़ की गणना"}]}
+{"title":"उदाहरण: ₹50 लाख का होम लोन, 20 साल","items":[{"value":"₹41,822","label":"8.00% की मानी गई दर पर मासिक ईएमआई","source":"लोकवॉक्स की गणना"},{"value":"₹42,603","label":"25 बेसिस पॉइंट बढ़ने के बाद 8.25% पर मासिक ईएमआई","source":"लोकवॉक्स की गणना"},{"value":"₹781","label":"हर महीने अतिरिक्त, 20 साल में करीब ₹1.87 लाख","source":"लोकवॉक्स की गणना"}]}
 ```
 
 अगर बैंक ईएमआई वही रखे और उसकी जगह अवधि बढ़ा दे, तो इस उदाहरण में करीब 12 और मासिक किस्तें देनी होंगी। अपने बैंक से पूछें कि आपके कर्ज़ पर कौन सा विकल्प लागू होता है।

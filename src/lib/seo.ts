@@ -4,12 +4,12 @@ import { verdictKey, VERDICT_RATING, UI, type Lang } from './i18n';
 export const PUBLISHER = {
   '@type': 'NewsMediaOrganization',
   '@id': `${SITE_URL}/#organization`,
-  name: 'Gandhi News',
-  alternateName: 'गांधी न्यूज़',
+  name: 'LokVox',
+  alternateName: 'लोकवॉक्स',
   url: `${SITE_URL}/`,
   logo: { '@type': 'ImageObject', url: `${SITE_URL}/logo.png`, width: 512, height: 512 },
 };
-export const AUTHOR = { '@type': 'Organization', name: 'Gandhi News Editorial Desk', url: `${SITE_URL}/` };
+export const AUTHOR = { '@type': 'Organization', name: 'LokVox Editorial Desk', url: `${SITE_URL}/` };
 const inLang = (l: Lang) => (l === 'hi' ? 'hi-IN' : 'en-IN');
 const img = () => ({ '@type': 'ImageObject', url: `${SITE_URL}/og-default.png`, width: 1200, height: 630 });
 
@@ -122,7 +122,7 @@ export function collectionLd(name: string, description: string, path: string, la
     description,
     url: abs(path),
     inLanguage: inLang(lang),
-    isPartOf: { '@type': 'WebSite', name: 'Gandhi News', url: `${SITE_URL}/` },
+    isPartOf: { '@type': 'WebSite', name: 'LokVox', url: `${SITE_URL}/` },
     mainEntity: {
       '@type': 'ItemList',
       itemListElement: items.slice(0, 30).map((e, i) => ({ '@type': 'ListItem', position: i + 1, url: abs(urlOf(e.data)), name: e.data.title })),
@@ -133,6 +133,6 @@ export function collectionLd(name: string, description: string, path: string, la
 export function websiteLd(lang: Lang) {
   return [
     { '@context': 'https://schema.org', ...PUBLISHER },
-    { '@context': 'https://schema.org', '@type': 'WebSite', name: 'Gandhi News', url: `${SITE_URL}/`, inLanguage: ['en-IN', 'hi-IN'], publisher: { '@id': PUBLISHER['@id'] } },
+    { '@context': 'https://schema.org', '@type': 'WebSite', name: 'LokVox', url: `${SITE_URL}/`, inLanguage: ['en-IN', 'hi-IN'], publisher: { '@id': PUBLISHER['@id'] } },
   ];
 }

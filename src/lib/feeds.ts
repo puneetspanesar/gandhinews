@@ -5,7 +5,7 @@ import type { Lang } from './i18n';
 export async function feed(lang: Lang) {
   const c = (await content())[lang];
   return rss({
-    title: lang === 'hi' ? 'Gandhi News (हिंदी)' : 'Gandhi News',
+    title: lang === 'hi' ? 'LokVox (हिंदी)' : 'LokVox',
     description: lang === 'hi'
       ? 'राजनीति, नीति, अर्थव्यवस्था और संसद पर स्वतंत्र भारतीय पत्रकारिता।'
       : 'Independent Indian journalism on politics, policy, the economy and Parliament.',
@@ -16,7 +16,7 @@ export async function feed(lang: Lang) {
       pubDate: e.data.published,
       description: e.data.standfirst,
       categories: [e.data.format_label, ...e.data.topics],
-      author: 'Gandhi News Editorial Desk',
+      author: 'LokVox Editorial Desk',
     })),
     customData: `<language>${lang === 'hi' ? 'hi-in' : 'en-in'}</language>`,
   });

@@ -6,7 +6,7 @@ section: politics
 format_label: Fact check / Election Commission
 topics: [election-commission, electoral-rolls-sir]
 title: "Claim that ECI took down its 26 September Form 6 press note is false"
-standfirst: "The Election Commission rejected the claim and shared a link to the note on 5 October, and PIB Fact Check called it fake. Gandhi News has not yet opened the page itself."
+standfirst: "The Election Commission rejected the claim and shared a link to the note on 5 October, and PIB Fact Check called it fake. LokVox has not yet opened the page itself."
 published: 2026-10-11T10:00:00+05:30
 factcheck:
   claim: "The Election Commission removed its 26 September 2026 press note on Form 6 from its website after the Supreme Court said it had not approved any modification to Form 6."
@@ -14,7 +14,7 @@ factcheck:
   seenOn: "X, then shared by political handles"
   firstSeen: 2026-10-05
   verdict: "False"
-  finding: "On 5 October the Election Commission rejected claims that it had withdrawn the note and shared a link to it, PTI reported, and PIB Fact Check called the claim fake. Gandhi News could not open the ECI page itself, so the rating is pending that check."
+  finding: "On 5 October the Election Commission rejected claims that it had withdrawn the note and shared a link to it, PTI reported, and PIB Fact Check called the claim fake. LokVox could not open the ECI page itself, so the rating is pending that check."
 hero:
   need: "Election Commission of India headquarters, Nirvachan Sadan, New Delhi"
   suggested_source: "Wikimedia Commons search: Nirvachan Sadan New Delhi"
@@ -53,7 +53,7 @@ verification:
   notes:
     - "Fact check 11 Oct 2026, second attempt: eci.gov.in (several URLs), the Wayback Machine, archive.ph and the PIB Fact Check post on X all failed to open from this environment (blocked or fetch error). Status therefore stays unconfirmed by the desk. New evidence found: PTI (ThePrint, 5 Oct) reports on the record that 'the EC rejected claims that it has withdrawn the September 26 press note from its website' and 'shared link of the press note to assert that the statement was still available'; UNI (5 Oct) confirms Press Note No. 120 is dated 26 Sep 2026 and quotes point 1(iii). EDITOR: open Press Note No. 120 on eci.gov.in, archive it with a timestamp, then publish with the False rating; if the page is missing, the verdict must be reconsidered."
     - "Correction: the words 'The September 26 press note is available on the ECI website. Was never taken down.' were attributed to the Election Commission. IANS and The Hans India attribute them to unnamed 'ECI sources'. Under desk rules (no anonymous quotes) the quote is removed; the on-record PTI account is used instead."
-    - "Earlier draft note: eci.gov.in could not be opened from the desk (connection refused), so Gandhi News has not itself confirmed that Press Note No. 120 is live. The False rating rests on the ECI's own statement and PIB Fact Check (the government's unit, not an IFCN signatory), as reported by The Economic Times, IANS and Daily Jagran. An editor must open the note on eci.gov.in and archive it with a timestamp before this rating is published."
+    - "Earlier draft note: eci.gov.in could not be opened from the desk (connection refused), so LokVox has not itself confirmed that Press Note No. 120 is live. The False rating rests on the ECI's own statement and PIB Fact Check (the government's unit, not an IFCN signatory), as reported by The Economic Times, IANS and Daily Jagran. An editor must open the note on eci.gov.in and archive it with a timestamp before this rating is published."
     - "PIB post URL (x.com/PIBFactCheck/status/2107063899514347725) is from the research file and was not opened."
     - "Date of PIB's response: IANS gives 5 Oct 2026; NewsBytes gives 6 Oct. IANS used."
     - "Ranka's post was not opened; his claim is paraphrased from The Economic Times. No verbatim quote available."
@@ -65,7 +65,7 @@ verification:
 
 The claim is false on the available record. On 5 October 2026 the Election Commission rejected claims that it had withdrawn its 26 September press note from its website and shared a link to the note to show it was still available, PTI reported. PIB Fact Check called the claim fake and shared the official ECI link to the note.
 
-Gandhi News could not open the ECI website to check the page itself, so this rating rests on the Commission's response and PIB's check as reported by news agencies. It will be updated once the desk has confirmed the page directly. The claim is about whether a document exists online, which anyone can test by opening Press Note No. 120 on the ECI website.
+LokVox could not open the ECI website to check the page itself, so this rating rests on the Commission's response and PIB's check as reported by news agencies. It will be updated once the desk has confirmed the page directly. The claim is about whether a document exists online, which anyone can test by opening Press Note No. 120 on the ECI website.
 
 The rating covers only the removal claim. It does not address the separate dispute over who approved changes to Form 6, which is before the Supreme Court.
 

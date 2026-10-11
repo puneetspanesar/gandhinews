@@ -52,7 +52,7 @@ verification:
   notes:
     - "Fact-checked 11 Oct 2026: definitions, MPC composition and rules, May 2016 amendment, 25 March 2026 retention of the 4% target for April 2026 to March 2031, SDF/MSF spreads and Bank Rate confirmed on RBI's monetary policy overview page; external benchmark rules confirmed in circular RBI/2019-20/53; quotes and projections confirmed in the 7 Oct resolution and Governor's statement; repo history as in the RBI news story. EMI arithmetic recomputed: ₹41,822 and ₹42,603, ₹781 a month, about ₹1.87 lakh over 240 months, about 12 extra instalments if tenure is extended."
     - "Changed: the benchmark list now includes 'another market benchmark published by FBIL', which the circular also allows."
-    - "The EMI example is Gandhi News's own arithmetic on assumed loan terms (₹50 lakh, 20 years, 8.00% rising to 8.25%). The 8.00% starting rate is an assumption for illustration, not a quoted bank rate."
+    - "The EMI example is LokVox's own arithmetic on assumed loan terms (₹50 lakh, 20 years, 8.00% rising to 8.25%). The 8.00% starting rate is an assumption for illustration, not a quoted bank rate."
     - "Treatment of fixed-rate and older (MCLR or base-rate) loans is not covered because no source on those was read for this piece."
 ---
 
@@ -85,7 +85,7 @@ Banks can choose the RBI's repo rate, the three- or six-month Treasury bill yiel
 **For a typical long home loan, a 25 basis point increase adds a few hundred rupees a month per ₹50 lakh borrowed.** The example below uses assumed terms to show the size of the effect. Your own figures will depend on your rate, balance and remaining tenure.
 
 ```facts
-{"title":"Illustration: ₹50 lakh home loan, 20 years","items":[{"value":"₹41,822","label":"monthly EMI at an assumed 8.00%","source":"Gandhi News calculation"},{"value":"₹42,603","label":"monthly EMI at 8.25%, after a 25 bps rise","source":"Gandhi News calculation"},{"value":"₹781","label":"extra per month, about ₹1.87 lakh over 20 years","source":"Gandhi News calculation"}]}
+{"title":"Illustration: ₹50 lakh home loan, 20 years","items":[{"value":"₹41,822","label":"monthly EMI at an assumed 8.00%","source":"LokVox calculation"},{"value":"₹42,603","label":"monthly EMI at 8.25%, after a 25 bps rise","source":"LokVox calculation"},{"value":"₹781","label":"extra per month, about ₹1.87 lakh over 20 years","source":"LokVox calculation"}]}
 ```
 
 If a lender keeps the EMI unchanged and extends the tenure instead, this example would need about 12 more monthly instalments. Ask your bank which option applies to your loan.

@@ -79,7 +79,7 @@ West Bengal started late, with self-enumeration from 1 to 15 August. Its house-t
 >
 > Source: Suvendu Adhikari, Chief Minister of West Bengal, on X, as reported by UNI on 16 September 2026
 
-Gandhi News could not find a national completion figure from the Registrar General.
+LokVox could not find a national completion figure from the Registrar General.
 
 ## Caste on the form
 

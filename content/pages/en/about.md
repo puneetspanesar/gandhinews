@@ -2,14 +2,14 @@
 id: about
 lang: en
 path: about
-title: "About Gandhi News"
+title: "About LokVox"
 description: "Who we are, what we cover and how we work: independent journalism on Indian politics, policy, the economy and Parliament, in English and Hindi."
 updated: 2026-10-11
 ---
 
-Gandhi News is an independent Indian news site that covers politics, policy, the economy and Parliament, in English and Hindi.
+LokVox is an independent Indian news site that covers politics, policy, the economy and Parliament, in English and Hindi.
 
-We are named after Mahatma Gandhi, for whom truth came before everything else. Our promise is in the seal on every page: सत्य, truth. Our motto is "Truth is the only side we take".
+Our name joins two words. Lok is Hindi for people, as in Lok Sabha, and vox is Latin for voice. The seal on every page carries लोक, because we write for the people of India, not for any party or government. Our promise is in our line: "Facts for every citizen". We report what can be checked, show our evidence and correct our mistakes in public.
 
 ## What we publish
 
@@ -29,7 +29,7 @@ Our [editorial standards](/standards/) set out the rules we follow. When we get 
 
 ## Who we are
 
-Gandhi News is owned and published by Puneet Singh.
+LokVox is owned and published by Puneet Singh.
 
 Editor: Puneet Singh.
 

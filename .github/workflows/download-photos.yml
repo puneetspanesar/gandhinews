@@ -13,7 +13,7 @@ jobs:
           mkdir -p raw
           jq -r '.[] | "\(.id)\t\(.sourceUrl)"' content/photos.json | sort -u | while IFS=$'\t' read -r id url; do
             [ -f "raw/$id.jpg" ] && continue
-            code=$(curl -s -L --retry 3 --retry-delay 5 -A 'GandhiNewsPhotoFetcher/1.0 (https://github.com/puneetspanesar/gandhinews; puneet.panesar24@gmail.com)' -o "raw/$id.jpg" -w '%{http_code}' "$url")
+            code=$(curl -s -L --retry 3 --retry-delay 5 -A 'LokVoxPhotoFetcher/1.0 (https://github.com/puneetspanesar/gandhinews; puneet.panesar24@gmail.com)' -o "raw/$id.jpg" -w '%{http_code}' "$url")
             echo "$code $id" | tee -a raw/log.txt
             sleep 1
           done

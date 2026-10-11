@@ -87,6 +87,6 @@ Sources: [Free Press Journal, 12 September 2026](https://freepressjournal.in/ind
 
 The image appeared while India was hosting the summit, an event that drew Xi on his first visit to India in nearly seven years, Free Press Journal reported. BOOM said it was posted by a spokesperson of the ruling party, with a message aimed at opposition leaders, before it was deleted. BOOM linked an archived copy of the post. The desk has no sourced data on how widely the image was shared or how many accounts posted it, and the deletion does not by itself show how far it had travelled.
 
-Gandhi News does not reproduce or link to the image. Readers can see BOOM's full analysis at the link above.
+LokVox does not reproduce or link to the image. Readers can see BOOM's full analysis at the link above.
 
 Sources: [BOOM, 13 September 2026](https://www.boomlive.in/fact-check/photo-of-pm-modi-with-world-leaders-at-brics-summit-is-ai-32212); [Free Press Journal, 12 September 2026](https://freepressjournal.in/india/brics-summit-2026-pm-modi-welcomes-xi-putin-pezeshkian-ramaphosa-among-global-leaders-in-delhi)

@@ -3,25 +3,25 @@ id: ownership
 lang: en
 path: ownership
 title: "Ownership and funding"
-description: "Who owns Gandhi News, who funds it and how it makes money. We publish this so readers can judge our independence for themselves."
+description: "Who owns LokVox, who funds it and how it makes money. We publish this so readers can judge our independence for themselves."
 updated: 2026-10-11
 ---
 
 Readers should know who owns a news organisation and who pays for it. This page sets that out.
 
-## Who owns Gandhi News
+## Who owns LokVox
 
-Gandhi News is owned and published by Puneet Singh, an individual based in India. It is not part of any company, media group or political organisation.
+LokVox is owned and published by Puneet Singh, an individual based in India. It is not part of any company, media group or political organisation.
 
 Owner: Puneet Singh (100%).
 
 ## Who funds us
 
-Gandhi News is paid for entirely by its owner. It has no investors, grants or donors. This is correct as of 11 October 2026, and we will update this page if that changes.
+LokVox is paid for entirely by its owner. It has no investors, grants or donors. This is correct as of 11 October 2026, and we will update this page if that changes.
 
 ## How we make money
 
-Gandhi News does not earn any money yet. It may carry advertising in future. If it does, ads will always be clearly labelled and kept apart from the news.
+LokVox does not earn any money yet. It may carry advertising in future. If it does, ads will always be clearly labelled and kept apart from the news.
 
 ## How we keep that separate from the news
 

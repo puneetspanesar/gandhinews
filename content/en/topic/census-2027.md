@@ -74,4 +74,4 @@ The notification gives no reason. Business Standard linked it to assembly electi
 Yes. Self-enumeration windows open before door-to-door counting; in the four poll-bound states it runs from 16 to 30 November 2026.
 
 **When will results be published?**
-No date has been announced. Gandhi News could not find an official release timetable for population totals or caste tables.
+No date has been announced. LokVox could not find an official release timetable for population totals or caste tables.

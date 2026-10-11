@@ -4,7 +4,7 @@ import sitemap from '@astrojs/sitemap';
 import { unified } from '@astrojs/markdown-remark';
 import remarkGandhi from './src/lib/remark-gn.mjs';
 
-const SITE_URL = (process.env.SITE_URL || 'https://gandhinews.com').replace(/\/$/, '');
+const SITE_URL = (process.env.SITE_URL || 'https://lokvox.com').replace(/\/$/, '');
 
 export default defineConfig({
   site: SITE_URL,

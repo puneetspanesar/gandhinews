@@ -15,7 +15,7 @@ hero:
   alt: "मुंबई में भारतीय रिज़र्व बैंक की इमारत"
 related: [rbi-raises-repo-rate-to-5-50, fiscal-deficit-reaches-41-9-of-target-by-august, retail-inflation-rises-to-4-82-in-august, rupee-near-97-as-crude-stays-above-100, fiscal-deficit-explained, rbi-interest-rates]
 seo:
-  description: "गांधी न्यूज़ संपादकीय: तेल से बढ़ते महंगाई के जोखिम को देखते हुए अक्टूबर 2026 में आरबीआई की दर बढ़ोतरी सही थी। अब केंद्र 4.3% राजकोषीय घाटे का लक्ष्य बचाए।"
+  description: "लोकवॉक्स संपादकीय: तेल से बढ़ते महंगाई के जोखिम को देखते हुए अक्टूबर 2026 में आरबीआई की दर बढ़ोतरी सही थी। अब केंद्र 4.3% राजकोषीय घाटे का लक्ष्य बचाए।"
 sources:
   - title: "Monetary Policy Statement, 2026-27: Resolution of the MPC, October 5 to 7, 2026"
     publisher: "Reserve Bank of India"

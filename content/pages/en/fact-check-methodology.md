@@ -3,7 +3,7 @@ id: fact-check-methodology
 lang: en
 path: fact-check/methodology
 title: "How we fact check"
-description: "How Gandhi News chooses claims to check, how we check them and what our four ratings mean: True, Mostly true, Misleading and False."
+description: "How LokVox chooses claims to check, how we check them and what our four ratings mean: True, Mostly true, Misleading and False."
 updated: 2026-10-11
 ---
 

@@ -72,7 +72,7 @@ Labour is on the concurrent list, so both Parliament and state legislatures can 
 
 Neither the Labour Ministry nor Business Standard has named the ten states with final rules. Gujarat, Arunachal Pradesh and Bihar are reported to have final rules under all four codes by both The Tribune, in July, and the Shardul Amarchand Mangaldas employment law newsletter for October 2026.
 
-The Tribune reported in July that Kerala had sought more time to study the codes and that West Bengal had not published draft rules. Gandhi News could not confirm whether either state has moved since.
+The Tribune reported in July that Kerala had sought more time to study the codes and that West Bengal had not published draft rules. LokVox could not confirm whether either state has moved since.
 
 ```facts
 {"title":"Labour codes in numbers","items":[{"value":"29","label":"central labour laws replaced by four codes","source":"Business Standard"},{"value":"10","label":"states with final rules, per the Labour Secretary on 24 Sep 2026","source":"Business Standard"},{"value":"1,436 to 351","label":"cut in the number of rules, per a Grant Thornton Bharat report","source":"Business Standard"},{"value":"31 Oct 2026","label":"date by which the Centre hopes all states will have rules","source":"Business Standard"}]}

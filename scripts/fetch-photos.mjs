@@ -49,7 +49,7 @@ for (const p of list) {
     if (force || !have) {
       let res;
       for (let attempt = 0; attempt < 6; attempt++) {
-        res = await fetch(p.sourceUrl, { headers: { 'User-Agent': 'GandhiNewsPhotoFetcher/1.0 (newsroom photo pipeline; github.com/puneetspanesar/gandhinews)' } });
+        res = await fetch(p.sourceUrl, { headers: { 'User-Agent': 'LokVoxPhotoFetcher/1.0 (newsroom photo pipeline; github.com/puneetspanesar/gandhinews)' } });
         if (res.ok) break;
         console.log(`retry    ${p.id}: HTTP ${res.status}`);
         await new Promise((z) => setTimeout(z, 8000 * (attempt + 1)));

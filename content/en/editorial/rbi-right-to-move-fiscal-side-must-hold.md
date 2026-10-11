@@ -14,7 +14,7 @@ hero:
   alt: "Reserve Bank of India building in Mumbai"
 related: [rbi-raises-repo-rate-to-5-50, fiscal-deficit-reaches-41-9-of-target-by-august, retail-inflation-rises-to-4-82-in-august, rupee-near-97-as-crude-stays-above-100, fiscal-deficit-explained, rbi-interest-rates]
 seo:
-  description: "Gandhi News editorial: the RBI's October 2026 rate hike was justified by oil-led inflation risk. The Centre must now protect its 4.3% fiscal deficit target."
+  description: "LokVox editorial: the RBI's October 2026 rate hike was justified by oil-led inflation risk. The Centre must now protect its 4.3% fiscal deficit target."
 sources:
   - title: "Monetary Policy Statement, 2026-27: Resolution of the MPC, October 5 to 7, 2026"
     publisher: "Reserve Bank of India"
