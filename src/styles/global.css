@@ -687,3 +687,13 @@ footer .legal a:hover{color:#fff}
 /* editor credit in bylines */
 .meta .ed{display:block;color:var(--ink2)}
 .meta .ed a{color:var(--ink);text-decoration:underline;text-underline-offset:2px;text-decoration-color:#bbb}
+
+/* cookie notice */
+.ck{position:fixed;left:24px;bottom:24px;z-index:70;max-width:420px;background:#fff;border:1px solid var(--line);border-radius:6px;padding:16px 18px;font-size:14px;line-height:1.45;color:var(--ink2)}
+.ck[hidden]{display:none}
+.ck p{margin:0}
+.ck a{color:var(--ink);text-decoration:underline;text-underline-offset:2px}
+.ckb{display:flex;gap:8px;justify-content:flex-end;margin-top:12px}
+.ckb button{font-family:var(--f-head);font-weight:500;font-size:14px;padding:8px 16px;border-radius:20px;border:1px solid var(--ink);background:#fff;color:var(--ink);cursor:pointer}
+.ckb button.ok{background:var(--red);border-color:var(--red);color:#fff}
+@media (max-width:720px){.ck{left:12px;right:12px;bottom:76px;max-width:none}}

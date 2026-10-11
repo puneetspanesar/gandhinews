@@ -124,15 +124,20 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
   <meta name="twitter:description" content={description} />
   <meta name="twitter:image" content={ogImage} />
   {ld.map((d) => <JsonLd data={d} />)}
-  <!-- Google Analytics 4. Loads only on the live domain, so previews and local builds are not counted. -->
+  <!-- Google Analytics 4: loads only on the live domain and only after the reader accepts cookies. -->
   <script is:inline>
-    if (location.hostname === 'lokvox.com' || location.hostname === 'www.lokvox.com') {
-      var s = document.createElement('script'); s.async = true; s.src = 'https://www.googletagmanager.com/gtag/js?id=G-RX4QDCN88Y'; document.head.appendChild(s);
-      window.dataLayer = window.dataLayer || [];
-      window.gtag = function () { dataLayer.push(arguments); };
-      gtag('js', new Date());
-      gtag('config', 'G-RX4QDCN88Y');
-    }
+    (function () {
+      var live = location.hostname === 'lokvox.com' || location.hostname === 'www.lokvox.com';
+      var choice = null; try { choice = localStorage.getItem('lv-cookies'); } catch (e) {}
+      window.lvLoadGA = function () {
+        if (!live || window.lvGA) return; window.lvGA = true;
+        var s = document.createElement('script'); s.async = true; s.src = 'https://www.googletagmanager.com/gtag/js?id=G-RX4QDCN88Y'; document.head.appendChild(s);
+        window.dataLayer = window.dataLayer || [];
+        window.gtag = function () { dataLayer.push(arguments); };
+        gtag('js', new Date()); gtag('config', 'G-RX4QDCN88Y');
+      };
+      if (choice === 'yes') window.lvLoadGA();
+    })();
   </script>
 </head>
 <body>
@@ -211,7 +216,7 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
         <!-- TODO(launch): link WhatsApp, Instagram, YouTube and X once the accounts exist. WhatsApp points at the contact page placeholder for now. -->
         <div><h2 class="fh">{t.follow}</h2><ul><li><a href={`${p}/rss.xml`}>RSS</a></li><li><a href="https://wa.me/917760906195" rel="noopener" target="_blank">WhatsApp</a></li><li>Instagram</li><li>YouTube</li><li>X</li></ul></div>
       </div>
-      <div class="b"><span>{t.rights}</span><span class="legal"><a href={`${p}/privacy/`}>{t.privacy}</a> · <a href={`${p}/terms/`}>{t.terms}</a> · <a href={`${p}/privacy/#cookies`}>{t.cookies}</a> · <a href="/photo-credits/">{lang === 'hi' ? 'फोटो क्रेडिट' : 'Photo credits'}</a></span></div>
+      <div class="b"><span>{t.rights}</span><span class="legal"><a href={`${p}/privacy/`}>{t.privacy}</a> · <a href={`${p}/terms/`}>{t.terms}</a> · <a href={`${p}/privacy/#cookies`} data-cookie-settings>{t.cookies}</a> · <a href="/photo-credits/">{lang === 'hi' ? 'फोटो क्रेडिट' : 'Photo credits'}</a></span></div>
     </div>
   </footer>
   <nav class="tab" aria-label={lang === 'hi' ? 'त्वरित नेविगेशन' : 'Quick navigation'}>
@@ -242,6 +247,28 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
         setTimeout(() => toast.classList.remove('show'), 2600);
       }
     });
+  </script>
+  <div class="ck" id="ck" role="region" aria-label={lang === 'hi' ? 'कुकीज़' : 'Cookies'} hidden>
+    <p>{lang === 'hi'
+      ? <>हम यह समझने के लिए कुकीज़ इस्तेमाल करते हैं कि कौन-सी खबरें पढ़ी जाती हैं। विज्ञापन वाली कुकीज़ नहीं। <a href={`${p}/privacy/#cookies`}>और जानें</a></>
+      : <>We use cookies to understand which stories are read. No advertising cookies. <a href={`${p}/privacy/#cookies`}>Learn more</a></>}</p>
+    <div class="ckb"><button type="button" data-ck="no">{lang === 'hi' ? 'मना करें' : 'Decline'}</button><button type="button" class="ok" data-ck="yes">{lang === 'hi' ? 'स्वीकार करें' : 'Accept'}</button></div>
+  </div>
+  <script is:inline>
+    (function () {
+      var box = document.getElementById('ck'); if (!box) return;
+      var get = function () { try { return localStorage.getItem('lv-cookies'); } catch (e) { return null; } };
+      var set = function (v) { try { localStorage.setItem('lv-cookies', v); } catch (e) {} };
+      if (!get()) box.hidden = false;
+      box.addEventListener('click', function (e) {
+        var b = e.target.closest('[data-ck]'); if (!b) return;
+        set(b.getAttribute('data-ck')); box.hidden = true;
+        if (b.getAttribute('data-ck') === 'yes' && window.lvLoadGA) window.lvLoadGA();
+      });
+      document.querySelectorAll('[data-cookie-settings]').forEach(function (a) {
+        a.addEventListener('click', function (e) { e.preventDefault(); box.hidden = false; });
+      });
+    })();
   </script>
 </body>
 </html>
