@@ -21,8 +21,8 @@ const S = SECTION_NAMES[lang];
 const m = await homeModel(lang);
 const L = m.lead;
 const desc = lang === 'hi'
-  ? 'लोकवॉक्स: राजनीति, नीति, अर्थव्यवस्था और संसद पर स्वतंत्र भारतीय पत्रकारिता, अंग्रेज़ी और हिंदी में।'
-  : 'LokVox: independent Indian journalism on politics, policy, the economy and Parliament, in English and Hindi.';
+  ? 'लोकवॉक्स (लोक वॉक्स): राजनीति, नीति, अर्थव्यवस्था और संसद पर स्वतंत्र भारतीय पत्रकारिता, अंग्रेज़ी और हिंदी में।'
+  : 'LokVox (Lok Vox): independent Indian journalism on politics, policy, the economy and Parliament, in English and Hindi.';
 const latestCorrection: any = (CORRECTIONS as any[])[0];
 ---
 <Base lang={lang} title={t.siteName} description={desc} path={route} active="home" jsonld={websiteLd(lang)}>

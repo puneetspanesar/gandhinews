@@ -1,11 +1,14 @@
 import { abs, urlOf, SITE_URL } from './site';
-import { verdictKey, VERDICT_RATING, UI, type Lang } from './i18n';
+import { verdictKey, VERDICT_RATING, UI, SECTION_NAMES, type Lang } from './i18n';
+
+/** Ways people write the name: two words, with "news", and in Devanagari. */
+export const NAME_VARIANTS = ['Lok Vox', 'LokVox News', 'Lok Vox News', 'Lokvox', 'लोकवॉक्स', 'लोक वॉक्स'];
 
 export const PUBLISHER = {
   '@type': 'NewsMediaOrganization',
   '@id': `${SITE_URL}/#organization`,
   name: 'LokVox',
-  alternateName: 'लोकवॉक्स',
+  alternateName: NAME_VARIANTS,
   url: `${SITE_URL}/`,
   logo: { '@type': 'ImageObject', url: `${SITE_URL}/logo.png`, width: 512, height: 512 },
 };
@@ -134,6 +137,30 @@ export function collectionLd(name: string, description: string, path: string, la
 export function websiteLd(lang: Lang) {
   return [
     { '@context': 'https://schema.org', ...PUBLISHER },
-    { '@context': 'https://schema.org', '@type': 'WebSite', name: 'LokVox', url: `${SITE_URL}/`, inLanguage: ['en-IN', 'hi-IN'], publisher: { '@id': PUBLISHER['@id'] } },
+    { '@context': 'https://schema.org', '@type': 'WebSite', '@id': `${SITE_URL}/#website`, name: 'LokVox', alternateName: NAME_VARIANTS, url: `${SITE_URL}/`, inLanguage: ['en-IN', 'hi-IN'], publisher: { '@id': PUBLISHER['@id'] } },
+    navLd(lang),
   ];
+}
+
+/** The category tree: sections and format hubs, as the site navigation. */
+export function navLd(lang: Lang) {
+  const p = lang === 'hi' ? '/hi' : '';
+  const t: any = UI[lang];
+  const S = SECTION_NAMES[lang];
+  const items = [
+    ...['politics', 'policy', 'economy', 'parliament', 'states', 'world'].map((k) => [S[k], `${p}/${k}/`]),
+    [t.factCheck, `${p}/fact-check/`],
+    [t.explained, `${p}/explained/`],
+    [t.opinion, `${p}/opinion/`],
+    [t.dataTrackers, `${p}/trackers/`],
+    [t.topics, `${p}/topics/`],
+  ];
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name: lang === 'hi' ? 'लोकवॉक्स सेक्शन' : 'LokVox sections',
+    itemListElement: items.map(([name, href], i) => ({
+      '@type': 'SiteNavigationElement', position: i + 1, name, url: `${SITE_URL}${href}`,
+    })),
+  };
 }
