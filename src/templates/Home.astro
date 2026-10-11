@@ -54,7 +54,7 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
       </div>
       <aside class="lt" aria-labelledby="brief-h">
         <h2 id="brief-h">{h.briefing}</h2>
-        <p class="cad">{todayLine(lang)} · {h.briefingCad}</p>
+        <p class="cad">{todayLine(lang)}</p>
         <ol class="br">
           {m.briefing.map((b: any) => <li><a href={b.href}><p><b>{b.lead}</b> {b.text}</p></a></li>)}
         </ol>

@@ -35,7 +35,6 @@ const fullTitle = path === `${p}/` ? `${t.siteName}: ${t.motto}` : `${title} | $
 const ogImage = abs('/og-default.png');
 
 const nav = [
-  { key: 'home', label: t.home, href: `${p}/` },
   ...['politics', 'policy', 'economy', 'parliament', 'states', 'world'].map((k) => ({ key: k, label: S[k], href: `${p}/${k}/` })),
   { key: 'fact-check', label: t.factCheck, href: `${p}/fact-check/` },
 ];

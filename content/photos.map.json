@@ -1,27 +1,27 @@
 {
   "rbi-raises-repo-rate-to-5-50": {
-    "id": "rbi-mumbai",
-    "src": "/photos/rbi-mumbai-1280.jpg",
-    "src800": "/photos/rbi-mumbai-640.jpg",
+    "id": "rbi-kolkata",
+    "src": "/photos/rbi-kolkata-1280.jpg",
+    "src800": "/photos/rbi-kolkata-640.jpg",
     "width": 1280,
-    "height": 1707,
-    "credit": "Photo: Pinakpani / Wikimedia Commons",
+    "height": 853,
+    "credit": "Photo: सुबोध कुलकर्णी / Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
-    "alt": "Reserve Bank of India tower and building in Mumbai",
-    "alt_hi": "मुंबई में भारतीय रिज़र्व बैंक का टावर और भवन",
-    "page": "https://commons.wikimedia.org/wiki/File:Tower_and_building_of_Reserve_Bank_of_India,_Mumbai_02.jpg"
+    "alt": "The Reserve Bank of India building in Kolkata",
+    "alt_hi": "कोलकाता में भारतीय रिज़र्व बैंक का भवन",
+    "page": "https://commons.wikimedia.org/wiki/File:Reserve_Bank_of_India_building_in_Kolkata.jpg"
   },
   "rbi-interest-rates": {
-    "id": "rbi-mumbai",
-    "src": "/photos/rbi-mumbai-1280.jpg",
-    "src800": "/photos/rbi-mumbai-640.jpg",
+    "id": "rbi-kolkata",
+    "src": "/photos/rbi-kolkata-1280.jpg",
+    "src800": "/photos/rbi-kolkata-640.jpg",
     "width": 1280,
-    "height": 1707,
-    "credit": "Photo: Pinakpani / Wikimedia Commons",
+    "height": 853,
+    "credit": "Photo: सुबोध कुलकर्णी / Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
-    "alt": "Reserve Bank of India tower and building in Mumbai",
-    "alt_hi": "मुंबई में भारतीय रिज़र्व बैंक का टावर और भवन",
-    "page": "https://commons.wikimedia.org/wiki/File:Tower_and_building_of_Reserve_Bank_of_India,_Mumbai_02.jpg"
+    "alt": "The Reserve Bank of India building in Kolkata",
+    "alt_hi": "कोलकाता में भारतीय रिज़र्व बैंक का भवन",
+    "page": "https://commons.wikimedia.org/wiki/File:Reserve_Bank_of_India_building_in_Kolkata.jpg"
   },
   "fiscal-deficit-reaches-41-9-of-target-by-august": {
     "id": "north-block",

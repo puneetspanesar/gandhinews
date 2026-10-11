@@ -13,7 +13,7 @@ import { ROOT } from './routes.mjs';
 
 export const H = {
   en: {
-    briefing: "Today's briefing", briefingCad: 'Updated every morning and evening by our editors', morningBrief: 'Get the Morning Brief by email',
+    briefing: "Today's briefing", morningBrief: 'Get the Morning Brief by email',
     fromDesk: 'From', desk: 'the editorial desk', keyPoints: 'Key points',
     numbers: 'India in numbers', numbersX: 'Latest releases, each with its source', dashboard: 'Economy dashboard',
     topStories: 'Top stories', startHere: 'Start here', explainers: 'Explainers',
@@ -47,7 +47,7 @@ export const H = {
     },
   },
   hi: {
-    briefing: 'आज की ब्रीफिंग', briefingCad: 'हमारे संपादक हर सुबह और शाम अपडेट करते हैं', morningBrief: 'मॉर्निंग ब्रीफ ईमेल पर पाएं',
+    briefing: 'आज की ब्रीफिंग', morningBrief: 'मॉर्निंग ब्रीफ ईमेल पर पाएं',
     fromDesk: '', desk: 'संपादकीय डेस्क से', keyPoints: 'मुख्य बातें',
     numbers: 'आंकड़ों में भारत', numbersX: 'ताज़ा आंकड़े, हर एक के स्रोत के साथ', dashboard: 'अर्थव्यवस्था डैशबोर्ड',
     topStories: 'बड़ी खबरें', startHere: 'यहां से शुरू करें', explainers: 'समझिए',
