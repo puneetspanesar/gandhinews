@@ -5,6 +5,8 @@ import { AwsClient } from 'aws4fetch';
 
 interface Env {
   DB?: D1Database;
+  EMAIL?: { send: (m: any) => Promise<any> }; // Cloudflare Email Service binding (confirmation emails)
+  MAIL_FROM_ADDRESS?: string; // e.g. brief@lokvox.com
   AWS_ACCESS_KEY_ID?: string;
   AWS_SECRET_ACCESS_KEY?: string;
   AWS_REGION?: string; // e.g. ap-south-1
@@ -97,7 +99,22 @@ function confirmEmail(lang: Lang, link: string) {
   return { subject: c.subject, html, text };
 }
 
+// Delivery: Cloudflare Email Service when bound (used for confirmation emails now); Amazon SES otherwise (planned for the daily brief).
 async function sendEmail(env: Env, to: string, msg: { subject: string; html: string; text: string }, unsubUrl?: string) {
+  if (env.EMAIL && !unsubUrl) {
+    const from = env.MAIL_FROM_ADDRESS || 'brief@lokvox.com';
+    try {
+      const r = await env.EMAIL.send({ to, from: { email: from, name: 'LokVox' }, subject: msg.subject, html: msg.html, text: msg.text });
+      return { ok: true, info: `cf:${r?.messageId ?? 'sent'}` };
+    } catch (e1: any) {
+      try {
+        const r = await env.EMAIL.send({ to, from, subject: msg.subject, html: msg.html, text: msg.text });
+        return { ok: true, info: `cf:${r?.messageId ?? 'sent'}` };
+      } catch (e2: any) {
+        return { ok: false, info: `cf-error: ${String(e2?.message || e2).slice(0, 300)}` };
+      }
+    }
+  }
   if (!env.AWS_ACCESS_KEY_ID || !env.AWS_SECRET_ACCESS_KEY || !env.MAIL_FROM) return { ok: false, info: 'ses-not-configured' };
   const region = env.AWS_REGION || 'ap-south-1';
   const aws = new AwsClient({ accessKeyId: env.AWS_ACCESS_KEY_ID, secretAccessKey: env.AWS_SECRET_ACCESS_KEY, service: 'ses', region });
@@ -198,7 +215,7 @@ export default {
       if (url.pathname === '/api/confirm' && req.method === 'GET') return await confirm(url, env);
       if (url.pathname === '/api/unsubscribe') return await unsubscribe(req, url, env);
       if (url.pathname === '/api/admin/stats') return await stats(req, env);
-      if (url.pathname === '/api/health') return json({ ok: true, db: Boolean(env.DB), ses: Boolean(env.AWS_ACCESS_KEY_ID && env.MAIL_FROM) });
+      if (url.pathname === '/api/health') return json({ ok: true, db: Boolean(env.DB), email: Boolean(env.EMAIL), ses: Boolean(env.AWS_ACCESS_KEY_ID && env.MAIL_FROM) });
       return json({ error: 'not found' }, 404);
     } catch (e: any) {
       console.error(e);

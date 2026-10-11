@@ -11,8 +11,10 @@
   },
   "vars": {
     "SITE_URL": "https://lokvox.com",
-    "AWS_REGION": "ap-south-1"
+    "AWS_REGION": "ap-south-1",
+    "MAIL_FROM_ADDRESS": "brief@lokvox.com"
   }
-  // D1 subscriber database: added once it is created in the Cloudflare dashboard.
-  // "d1_databases": [{ "binding": "DB", "database_name": "lokvox-subscribers", "database_id": "<id>" }]
+  // Added once set up in the Cloudflare dashboard (adding them earlier would fail the deploy):
+  // "d1_databases": [{ "binding": "DB", "database_name": "lokvox-subscribers", "database_id": "<id>" }],
+  // "send_email": [{ "name": "EMAIL", "remote": true }]
 }
