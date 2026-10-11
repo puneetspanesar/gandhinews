@@ -6,7 +6,7 @@ import Icon from '../components/Icon.astro';
 import Seal from '../components/Seal.astro';
 import Photo from '../components/Photo.astro';
 import '../styles/home.css';
-import { prefix, todayLine } from '../lib/site';
+import { prefix, todayLine, emph } from '../lib/site';
 import { UI, SECTION_NAMES, type Lang } from '../lib/i18n';
 import { websiteLd } from '../lib/seo';
 import { homeModel, H } from '../lib/home';
@@ -39,7 +39,7 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
           {L.dataBox.map((x: any) => <div><Icon name={x.icon} style={`color:${x.color}`} /><span><b class="num">{x.value}</b>{x.label}</span></div>)}
         </div>
         {L.d.keyPoints?.length > 0 && (
-          <div class="kf"><h2>{h.keyPoints}</h2><ol>{L.d.keyPoints.map((k: string) => <li>{k}</li>)}</ol></div>
+          <div class="kf"><h2>{h.keyPoints}</h2><ol>{L.d.keyPoints.map((k: string) => <li><span set:html={emph(k)} /></li>)}</ol></div>
         )}
         <div class="rel">
           {L.below.map((x: any) => <a href={x.href}><div><span class="k">{x.k}</span><h3>{x.d.title}</h3></div><Photo id={x.id} src={x.d.hero?.src} /></a>)}

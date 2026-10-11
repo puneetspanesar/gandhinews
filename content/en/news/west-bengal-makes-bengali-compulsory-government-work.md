@@ -10,10 +10,10 @@ standfirst: "Chief Minister Suvendu Adhikari's rule applies from 1 September. Le
 published: 2026-10-11T11:00:00+05:30
 location: Kolkata
 keyPoints:
-  - "Chief Minister Suvendu Adhikari told the Assembly on 20 July that Bengali would be mandatory at every level of the state government from 1 September 2026."
-  - "Communication with the Centre is to be in Bengali along with Hindi, and Adhikari urged police to use Bengali for FIRs, complaints and public messages."
-  - "The move followed a letter from Union Home Minister Amit Shah, which Adhikari read out in the Assembly."
-  - "Trinamool, Congress and CPI(M) leaders backed promoting Bengali but raised practical and political objections."
+  - "Chief Minister Suvendu Adhikari told the Assembly on 20 July that **Bengali would be mandatory** at every level of the state government from 1 September 2026."
+  - "Communication with the Centre is to be **in Bengali along with Hindi**, and Adhikari urged police to use Bengali for FIRs, complaints and public messages."
+  - "The move followed **a letter from Union Home Minister Amit Shah**, which Adhikari read out in the Assembly."
+  - "Trinamool, Congress and CPI(M) leaders backed promoting Bengali but **raised practical and political objections**."
 hero:
   need: "West Bengal Legislative Assembly building in Kolkata, or a Bengali-language government signboard"
   suggested_source: "Wikimedia Commons: West Bengal Legislative Assembly"

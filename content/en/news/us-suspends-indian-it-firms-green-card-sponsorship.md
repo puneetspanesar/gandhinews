@@ -10,10 +10,10 @@ standfirst: "The US Labor Department has frozen new and pending PERM filings fro
 published: 2026-10-11T10:30:00+05:30
 location: New Delhi
 keyPoints:
-  - "The US Labor Department said on 8 October it would not accept or process PERM labour certifications involving eight companies, including TCS, Infosys, Wipro and HCL."
-  - "PERM is required for most employment-based green cards; Reuters reported the freeze does not appear to directly affect current H-1B holders."
-  - "The MEA said on 9 October that Vice President JD Vance's 'indentured servants' remark was unwarranted and deeply offensive."
-  - "TCS said its PERM applications were in single digits over the last two years and it did not expect an impact on its US workforce plans."
+  - "The US Labor Department said on 8 October it would **not accept or process PERM labour certifications** involving eight companies, including TCS, Infosys, Wipro and HCL."
+  - "PERM is required for most employment-based green cards; Reuters reported the freeze does **not appear to directly affect current H-1B holders**."
+  - "The MEA said on 9 October that Vice President JD Vance's 'indentured servants' remark was **unwarranted and deeply offensive**."
+  - "TCS said its PERM applications were in single digits over the last two years and it **did not expect an impact** on its US workforce plans."
 hero:
   need: "US Department of Labor building in Washington, or an Indian IT campus exterior"
   suggested_source: "Wikimedia Commons: Frances Perkins Building (US Department of Labor)"

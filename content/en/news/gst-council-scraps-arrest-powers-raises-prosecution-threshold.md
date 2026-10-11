@@ -10,10 +10,10 @@ standfirst: "The 57th Council meeting left the 5% and 18% slabs alone and focuse
 published: 2026-10-11T09:00:00+05:30
 location: New Delhi
 keyPoints:
-  - "The Council recommended withdrawing GST officers' arrest powers by omitting section 69 of the CGST Act, and raising the prosecution threshold from ₹1 crore to ₹5 crore."
-  - "No show cause notice would be issued for demands below ₹10,000, and the general penalty would fall from ₹25,000 to ₹10,000."
-  - "90% of zero-rated and inverted-duty refund claims would be sanctioned automatically and provisionally on the basis of system risk checks."
-  - "The release says the recommendations take legal effect only through circulars, notifications and law amendments."
+  - "The Council recommended **withdrawing GST officers' arrest powers** by omitting section 69 of the CGST Act, and raising the prosecution threshold from ₹1 crore to ₹5 crore."
+  - "No show cause notice would be issued for demands below ₹10,000, and the general penalty would **fall from ₹25,000 to ₹10,000**."
+  - "**90% of zero-rated and inverted-duty refund claims** would be sanctioned automatically and provisionally on the basis of system risk checks."
+  - "The release says the recommendations take legal effect **only through circulars, notifications and law amendments**."
 hero:
   need: "Finance Minister Nirmala Sitharaman chairing or briefing after the 57th GST Council meeting at Bharat Mandapam, 8 October 2026"
   suggested_source: "PIB photo gallery, 8 Oct 2026 (search 'GST Council 57th meeting'); credit PIB"

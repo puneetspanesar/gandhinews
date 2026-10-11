@@ -143,3 +143,8 @@ export function heroOf(d: any): { src?: string | null; credit?: string | null; c
   }
   return { src: d.hero?.src, credit: d.hero?.credit, caption: d.hero?.caption, alt: d.hero?.alt };
 }
+
+/** Key point text: **phrase** marks the key fact, shown in bold red. Everything else is escaped. */
+export const emph = (s: string) =>
+  String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/\*\*(.+?)\*\*/g, '<strong class="hl">$1</strong>');
+export const plain = (s: string) => String(s ?? '').replace(/\*\*/g, '');

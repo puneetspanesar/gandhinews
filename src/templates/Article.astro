@@ -9,7 +9,7 @@ import Sources from '../components/Sources.astro';
 import Tags from '../components/Tags.astro';
 import RailList from '../components/RailList.astro';
 import FollowCard from '../components/FollowCard.astro';
-import { content, urlOf, prefix, kicker, fmtDateTime, labelParts, heroOf } from '../lib/site';
+import { content, urlOf, prefix, kicker, fmtDateTime, labelParts, heroOf, emph } from '../lib/site';
 import { UI, SECTION_NAMES, HUBS, TYPE_HUB, verdictKey, VERDICT_ORDER, type Lang } from '../lib/i18n';
 import { newsArticleLd, faqLd, claimReviewLd } from '../lib/seo';
 
@@ -83,7 +83,7 @@ const hero = heroOf(d);
         )}
 
         {d.type === 'news' && d.keyPoints?.length > 0 && (
-          <section class="kp" aria-labelledby="kp-h"><h2 id="kp-h">{t.keyPoints}</h2><ol>{d.keyPoints.map((x: string) => <li>{x}</li>)}</ol></section>
+          <section class="kp" aria-labelledby="kp-h"><h2 id="kp-h">{t.keyPoints}</h2><ol>{d.keyPoints.map((x: string) => <li><span set:html={emph(x)} /></li>)}</ol></section>
         )}
 
         {d.type === 'explainer' && d.shortAnswer && (

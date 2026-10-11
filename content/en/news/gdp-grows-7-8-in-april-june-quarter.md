@@ -10,10 +10,10 @@ standfirst: "Services and investment led the first quarter of 2026-27. It is als
 published: 2026-10-11T09:00:00+05:30
 location: New Delhi
 keyPoints:
-  - "Real GDP grew 7.8% in April-June 2026, up from 6.9% a year earlier and above the RBI's 7.0% estimate."
-  - "Financial, real estate and professional services grew 12.1% and manufacturing 9.2%; mining shrank 2.4%."
-  - "Investment (gross fixed capital formation) grew 11.9%, against 5.8% a year earlier."
-  - "Under the new 2022-23 base, growth for 2025-26 is now 7.8%, revised from 7.7%."
+  - "Real GDP **grew 7.8%** in April-June 2026, up from 6.9% a year earlier and above the RBI's 7.0% estimate."
+  - "Financial, real estate and **professional services grew 12.1%** and manufacturing 9.2%; mining shrank 2.4%."
+  - "Investment (gross fixed capital formation) **grew 11.9%**, against 5.8% a year earlier."
+  - "Under the new 2022-23 base, growth for 2025-26 is **now 7.8%, revised from 7.7%**."
 hero:
   need: "Factory floor or construction site in India; alternatively a busy port or highway project"
   suggested_source: "PIB photo gallery; Wikimedia Commons search 'Indian manufacturing factory'"

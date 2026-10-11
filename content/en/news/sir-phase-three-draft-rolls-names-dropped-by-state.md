@@ -10,10 +10,10 @@ standfirst: "Maharashtra lost the most names and Delhi the largest share. The El
 published: 2026-10-11T10:30:00+05:30
 location: New Delhi
 keyPoints:
-  - "Draft rolls in the 17 states and UTs published by 1 September left out more than 6.15 crore electors, Deccan Herald reported."
-  - "Maharashtra had the largest number of exclusions (2.07 crore) and Delhi the largest share (32.78%)."
-  - "The Election Commission says names were left out because voters were absent, had shifted, had died or were registered twice, and that these are not final deletions."
-  - "Opposition leaders including Rahul Gandhi have alleged that eligible voters are being removed; the ECI calls the 'vote chori' charge part of a misleading narrative."
+  - "Draft rolls in the 17 states and UTs published by 1 September left out **more than 6.15 crore electors**, Deccan Herald reported."
+  - "Maharashtra had the **largest number of exclusions (2.07 crore)** and Delhi the largest share (32.78%)."
+  - "The Election Commission says names were left out because voters were absent, had shifted, had died or were registered twice, and that these are **not final deletions**."
+  - "Opposition leaders including Rahul Gandhi have alleged that **eligible voters are being removed**; the ECI calls the 'vote chori' charge part of a misleading narrative."
 hero:
   need: "Booth Level Officer checking enumeration forms with a voter at a doorstep, or a draft roll displayed at a polling station"
   suggested_source: "PIB Photo / CEO state websites; Wikimedia Commons search 'Special Intensive Revision BLO'"

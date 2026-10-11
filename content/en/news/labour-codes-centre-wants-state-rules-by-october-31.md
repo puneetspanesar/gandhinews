@@ -10,10 +10,10 @@ standfirst: "Ten states have final rules and the rest have drafts, the Labour Se
 published: 2026-10-11T09:00:00+05:30
 location: New Delhi
 keyPoints:
-  - "Labour Secretary Chandra Bhushan Kumar said on 24 September that ten states had published final rules under the labour codes and the rest had issued drafts."
-  - "The Centre hopes all states and Union Territories will have rules in place by 31 October 2026."
-  - "Gujarat, Arunachal Pradesh and Bihar are reported by more than one reliable source to have final rules under all four codes; the ministry has not published a full list."
-  - "The four codes, which replaced 29 central labour laws, came into force on 21 November 2025, and central rules were notified on 8 May 2026."
+  - "Labour Secretary Chandra Bhushan Kumar said on 24 September that **ten states had published final rules** under the labour codes and the rest had issued drafts."
+  - "The Centre hopes all states and Union Territories will have rules in place **by 31 October 2026**."
+  - "Gujarat, Arunachal Pradesh and Bihar are reported by more than one reliable source to have **final rules under all four codes**; the ministry has not published a full list."
+  - "The four codes, which replaced 29 central labour laws, **came into force on 21 November 2025**, and central rules were notified on 8 May 2026."
 hero:
   need: "Factory or construction workers at a site, or the Labour Secretary at the PHDCCI-Grant Thornton seminar on 24 September 2026"
   suggested_source: "PIB photo gallery, Ministry of Labour and Employment; credit PIB"

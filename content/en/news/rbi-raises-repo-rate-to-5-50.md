@@ -10,10 +10,10 @@ standfirst: "The Monetary Policy Committee voted 6-0 for the increase and change
 published: 2026-10-11T09:00:00+05:30
 location: Mumbai
 keyPoints:
-  - "The repo rate rose from 5.25% to 5.50% on 7 October 2026, the first increase since February 2023."
-  - "All six MPC members voted for the hike; two of them wanted to keep the stance neutral rather than move to calibrated tightening."
-  - "The RBI now projects CPI inflation at 5.2% for 2026-27, peaking at 6.0% in October-December, and GDP growth at 7.1%."
-  - "Minutes are due on 21 October and the next policy meeting is on 2 to 4 December 2026."
+  - "The repo rate rose **from 5.25% to 5.50%** on 7 October 2026, the first increase since February 2023."
+  - "All **six MPC members voted for the hike**; two of them wanted to keep the stance neutral rather than move to calibrated tightening."
+  - "The RBI now projects **CPI inflation at 5.2%** for 2026-27, peaking at 6.0% in October-December, and GDP growth at 7.1%."
+  - "Minutes are due on 21 October and the next policy meeting is **on 2 to 4 December 2026**."
 hero:
   need: "RBI headquarters on Mint Road, Mumbai, or Governor Sanjay Malhotra at the 7 October 2026 policy press conference"
   suggested_source: "RBI media gallery; Wikimedia Commons search 'Reserve Bank of India headquarters Mumbai'"

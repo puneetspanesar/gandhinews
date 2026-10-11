@@ -10,10 +10,10 @@ standfirst: "House listing was scheduled to wrap up by September. Uttar Pradesh,
 published: 2026-10-11T09:00:00+05:30
 location: New Delhi
 keyPoints:
-  - "The first phase of Census 2027, house listing and housing, was scheduled between April and September 2026, with 30 days of door-to-door work in each state."
-  - "On 14 August the Registrar General notified 40 questions for the population count, including caste for all groups for the first time since 1931."
-  - "Population enumeration in Uttar Pradesh, Punjab, Goa and non-snow-bound Uttarakhand will run from 1 December 2026 to 4 January 2027, before assembly elections due in 2027."
-  - "For most of India the count is scheduled for February 2027, with a reference date of 1 March 2027."
+  - "The first phase of Census 2027, house listing and housing, was scheduled **between April and September 2026**, with 30 days of door-to-door work in each state."
+  - "On 14 August the Registrar General notified 40 questions for the population count, **including caste for all groups** for the first time since 1931."
+  - "Population enumeration in Uttar Pradesh, Punjab, Goa and non-snow-bound Uttarakhand will run **from 1 December 2026 to 4 January 2027**, before assembly elections due in 2027."
+  - "For most of India the count is **scheduled for February 2027**, with a reference date of 1 March 2027."
 hero:
   need: "Census enumerator with a tablet or phone at a household during house listing, 2026"
   suggested_source: "PIB photo gallery or Office of the Registrar General (censusindia.gov.in); credit PIB / ORGI"

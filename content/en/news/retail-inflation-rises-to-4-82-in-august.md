@@ -10,10 +10,10 @@ standfirst: "Food prices pushed CPI inflation up from 4.45% in July, with rural 
 published: 2026-10-11T09:00:00+05:30
 location: New Delhi
 keyPoints:
-  - "CPI inflation was 4.82% in August 2026 (provisional), up from 4.45% in July and 2.74% in January."
-  - "Food inflation rose to 5.95% from 5.52%."
-  - "Rural inflation was 5.23% and urban inflation 4.31%."
-  - "Restaurants and accommodation (8.38%) and personal care and miscellaneous goods (15.17%) were the fastest-rising divisions."
+  - "CPI inflation was **4.82% in August 2026** (provisional), up from 4.45% in July and 2.74% in January."
+  - "Food inflation **rose to 5.95%** from 5.52%."
+  - "**Rural inflation was 5.23%** and urban inflation 4.31%."
+  - "Restaurants and accommodation (8.38%) and **personal care and miscellaneous goods (15.17%)** were the fastest-rising divisions."
 hero:
   need: "Vegetable market or kirana shop with price boards, ideally in a mandi"
   suggested_source: "Wikimedia Commons search 'Indian vegetable market'"

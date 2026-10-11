@@ -10,10 +10,10 @@ standfirst: "The Lok Sabha worked 15% of its scheduled time by PRS's count and 1
 published: 2026-10-11T09:00:00+05:30
 location: New Delhi
 keyPoints:
-  - "PRS Legislative Research puts Lok Sabha productivity at 15% and Rajya Sabha at 33%; the government's figures are 19% and 39%."
-  - "Nine of the 11 Bills the Lok Sabha passed went through with no MP other than the minister speaking, according to PRS."
-  - "Question Hour in the Lok Sabha lasted nine minutes across the whole session, with two questions answered orally."
-  - "The FCRA Amendment Bill went to a Joint Parliamentary Committee, which is due to report in the first week of the Winter Session."
+  - "PRS Legislative Research puts **Lok Sabha productivity at 15%** and Rajya Sabha at 33%; the government's figures are 19% and 39%."
+  - "**Nine of the 11 Bills** the Lok Sabha passed went through with no MP other than the minister speaking, according to PRS."
+  - "Question Hour in the Lok Sabha **lasted nine minutes** across the whole session, with two questions answered orally."
+  - "The FCRA Amendment Bill **went to a Joint Parliamentary Committee**, which is due to report in the first week of the Winter Session."
 hero:
   need: "Lok Sabha chamber during the session, or the Speaker adjourning the House sine die on 13 August 2026"
   suggested_source: "PIB photo gallery or Sansad TV stills, 13 Aug 2026 (credit PIB / Sansad TV)"

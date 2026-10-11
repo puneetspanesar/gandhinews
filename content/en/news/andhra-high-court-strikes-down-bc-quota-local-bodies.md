@@ -10,10 +10,10 @@ standfirst: "The court said total reservation could not cross 50% without proper
 published: 2026-10-11T12:00:00+05:30
 location: Amaravati
 keyPoints:
-  - "On 1 October the Andhra Pradesh High Court quashed two orders giving Backward Classes 34% of rural and 33.33% of urban local body seats."
-  - "The bench held the quotas pushed total reservation past the 50% ceiling without empirical data, and ordered the poll process to begin within six weeks."
-  - "The Supreme Court dismissed the state's appeal on 9 October, calling the High Court's approach very reasonable."
-  - "Chief Minister N. Chandrababu Naidu said the NDA would allocate 34% of its local poll seats to BC candidates."
+  - "On 1 October the Andhra Pradesh High Court **quashed two orders** giving Backward Classes 34% of rural and 33.33% of urban local body seats."
+  - "The bench held the quotas pushed total reservation **past the 50% ceiling** without empirical data, and ordered the poll process to begin within six weeks."
+  - "The Supreme Court **dismissed the state's appeal** on 9 October, calling the High Court's approach very reasonable."
+  - "Chief Minister N. Chandrababu Naidu said the NDA would allocate **34% of its local poll seats** to BC candidates."
 hero:
   need: "Andhra Pradesh High Court building at Amaravati"
   suggested_source: "Wikimedia Commons: Andhra Pradesh High Court Amaravati"

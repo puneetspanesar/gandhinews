@@ -10,10 +10,10 @@ standfirst: "Sitharaman says more concessions will be hard for both sides. A new
 published: 2026-10-11T10:00:00+05:30
 location: New Delhi
 keyPoints:
-  - "Finance Minister Nirmala Sitharaman said on 5 October that trade talks with the US had reached a plateau, Reuters reported."
-  - "The 18% US tariff rate in the February 2026 framework never took effect, and the first tranche of the deal is not in force."
-  - "Indian goods have faced a 10% US Section 301 duty since 24 July 2026, on top of normal duties, with exclusions."
-  - "A US law signed on 18 September allows tariffs of up to 100% on the five biggest buyers of Russian oil and gas, but it does not impose them."
+  - "Finance Minister Nirmala Sitharaman said on 5 October that trade talks with the US had **reached a plateau**, Reuters reported."
+  - "The 18% US tariff rate in the February 2026 framework **never took effect**, and the first tranche of the deal is not in force."
+  - "Indian goods have faced **a 10% US Section 301 duty** since 24 July 2026, on top of normal duties, with exclusions."
+  - "A US law signed on 18 September allows **tariffs of up to 100%** on the five biggest buyers of Russian oil and gas, but it does not impose them."
 hero:
   need: "Nirmala Sitharaman or Piyush Goyal at a trade-related event, or shipping containers at an Indian port"
   suggested_source: "PIB Photo search: Piyush Goyal USTR Greer 2026; or Nirmala Sitharaman October 2026"

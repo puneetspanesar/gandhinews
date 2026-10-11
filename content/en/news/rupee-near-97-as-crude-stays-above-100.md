@@ -10,10 +10,10 @@ standfirst: "The RBI will meet the full daily dollar needs of three state-run oi
 published: 2026-10-11T09:00:00+05:30
 location: Mumbai
 keyPoints:
-  - "The rupee closed at 96.72 per dollar (provisional) on 9 October, after 96.88 the day before; Brent crude futures were at $102.95."
-  - "From 12 October the RBI will sell dollars directly to Indian Oil, HPCL and BPCL through designated banks, until further notice."
-  - "It has cut the limit for hedging without proof of underlying exposure from $100 million to $5 million and created a Foreign Exchange Risk Reserve."
-  - "Forex reserves fell to $734.6 billion in the week ended 2 October, $51.1 billion below the record of early September."
+  - "The rupee **closed at 96.72 per dollar** (provisional) on 9 October, after 96.88 the day before; Brent crude futures were at $102.95."
+  - "From 12 October the RBI will **sell dollars directly** to Indian Oil, HPCL and BPCL through designated banks, until further notice."
+  - "It has cut the limit for hedging without proof of underlying exposure **from $100 million to $5 million** and created a Foreign Exchange Risk Reserve."
+  - "Forex reserves **fell to $734.6 billion** in the week ended 2 October, $51.1 billion below the record of early September."
 hero:
   need: "Rupee notes and US dollar notes, or a currency dealing room in Mumbai"
   suggested_source: "Wikimedia Commons search 'Indian rupee banknotes'"

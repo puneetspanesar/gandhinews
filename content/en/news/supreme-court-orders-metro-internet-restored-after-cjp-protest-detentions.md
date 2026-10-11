@@ -10,10 +10,10 @@ standfirst: "Police held thousands, by most counts, as they blocked a march agai
 published: 2026-10-11T16:30:00+05:30
 location: New Delhi
 keyPoints:
-  - "Police stopped the Cockroach Janta Party's march to Jantar Mantar on 10 October; counts of those detained range from about 1,000 (Delhi Police sources) and about 2,000 (a Home Ministry official) to over 15,000 (the CJP)."
-  - "CJP founder Abhijeet Dipke, Saurav Das and Ashutosh Ranka were held under preventive arrest and released on 11 October on a ₹50,000 surety bond to keep the peace for a year."
-  - "A Supreme Court bench said Metro and rail services must run normally, internet must stay on and nobody may be detained except by procedure established by law."
-  - "The court issued contempt notice to the Union Home Secretary, the Delhi Police Commissioner and the DMRC chief; the case returns on Tuesday, 13 October."
+  - "**Police stopped the Cockroach Janta Party's march to Jantar Mantar** on 10 October; counts of those detained range from about 1,000 (Delhi Police sources) and about 2,000 (a Home Ministry official) to over 15,000 (the CJP)."
+  - "CJP founder Abhijeet Dipke, Saurav Das and Ashutosh Ranka were held under preventive arrest and **released on 11 October on a ₹50,000 surety bond** to keep the peace for a year."
+  - "A Supreme Court bench said Metro and rail services must run normally, **internet must stay on** and nobody may be detained except by procedure established by law."
+  - "The court **issued contempt notice** to the Union Home Secretary, the Delhi Police Commissioner and the DMRC chief; the case returns on Tuesday, 13 October."
 hero:
   need: "Supreme Court of India, New Delhi"
   suggested_source: "Wikimedia Commons 'Supreme Court of India'"

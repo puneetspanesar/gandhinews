@@ -10,10 +10,10 @@ standfirst: "The second phase of India's data protection rules begins next month
 published: 2026-10-11T09:00:00+05:30
 location: New Delhi
 keyPoints:
-  - "The consent manager framework under the Digital Personal Data Protection Rules, 2025 begins on 13 November 2026, one year after the rules were notified."
-  - "The Data Protection Board of India was legally established in November 2025 but has no chairperson or members, according to LiveLaw and the India Data Law tracker."
-  - "MeitY invited applications for a chairperson and four members on 6 May 2026; no appointment has been announced."
-  - "Most obligations on companies, and the Board's power to impose penalties of up to ₹250 crore, take effect on 13 May 2027."
+  - "The consent manager framework under the Digital Personal Data Protection Rules, 2025 **begins on 13 November 2026**, one year after the rules were notified."
+  - "The Data Protection Board of India was legally established in November 2025 but **has no chairperson or members**, according to LiveLaw and the India Data Law tracker."
+  - "MeitY invited applications for a chairperson and four members on 6 May 2026; **no appointment has been announced**."
+  - "Most obligations on companies, and the Board's power to impose penalties of up to ₹250 crore, **take effect on 13 May 2027**."
 hero:
   need: "MeitY building (Electronics Niketan, New Delhi) or a generic image of a phone consent screen"
   suggested_source: "PIB photo gallery, MeitY; or Wikimedia Commons 'Electronics Niketan'; credit as listed"

@@ -10,10 +10,10 @@ standfirst: "Wheat's support price moves to ₹2,610, a rise of under 1%. Pulses
 published: 2026-10-11T09:00:00+05:30
 location: New Delhi
 keyPoints:
-  - "The Cabinet Committee on Economic Affairs approved minimum support prices for six rabi crops for the 2027–28 marketing season on 30 September 2026."
-  - "Wheat rises by ₹25 to ₹2,610 a quintal, against a projected production cost of ₹1,264, a margin of 106%."
-  - "Safflower (+₹675), rapeseed-mustard (+₹413) and masoor (+₹390) get the largest increases in rupee terms."
-  - "The government says the rise follows its 2018–19 Budget promise to set MSP at least 1.5 times the all-India weighted average cost of production."
+  - "The Cabinet Committee on Economic Affairs approved **minimum support prices for six rabi crops** for the 2027–28 marketing season on 30 September 2026."
+  - "Wheat **rises by ₹25 to ₹2,610 a quintal**, against a projected production cost of ₹1,264, a margin of 106%."
+  - "**Safflower (+₹675)**, rapeseed-mustard (+₹413) and masoor (+₹390) get the largest increases in rupee terms."
+  - "The government says the rise follows its 2018–19 Budget promise to set MSP **at least 1.5 times** the all-India weighted average cost of production."
 hero:
   need: "Wheat field in Punjab or Madhya Pradesh at sowing, or Cabinet briefing by Ashwini Vaishnaw on 30 September 2026"
   suggested_source: "PIB release PRID 2316956 and PIB photo gallery for the 30 Sep 2026 Cabinet briefing; credit PIB"

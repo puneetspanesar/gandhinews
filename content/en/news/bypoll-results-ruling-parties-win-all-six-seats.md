@@ -10,10 +10,10 @@ standfirst: "The BJP won Nagaon, Nandigram and Rejinagar, TVK held both Tamil Na
 published: 2026-10-11T10:00:00+05:30
 location: New Delhi
 keyPoints:
-  - "The BJP won the Nagaon Lok Sabha seat in Assam and both West Bengal assembly seats, Nandigram and Rejinagar."
-  - "TVK won Madurantakam and Dharapuram in Tamil Nadu, where its candidates were the two former AIADMK MLAs who had resigned and joined the party."
-  - "AINRC's Ashok Anand won Thattanchavady in Puducherry, the seat vacated by Chief Minister N. Rangasamy."
-  - "Margins ranged from 1,42,224 votes in Nagaon to 8,482 in Thattanchavady."
+  - "The BJP **won the Nagaon Lok Sabha seat** in Assam and both West Bengal assembly seats, Nandigram and Rejinagar."
+  - "**TVK won Madurantakam and Dharapuram** in Tamil Nadu, where its candidates were the two former AIADMK MLAs who had resigned and joined the party."
+  - "AINRC's Ashok Anand **won Thattanchavady in Puducherry**, the seat vacated by Chief Minister N. Rangasamy."
+  - "Margins ranged from **1,42,224 votes in Nagaon** to 8,482 in Thattanchavady."
 hero:
   need: "Counting centre on 9 October 2026, or a winning candidate receiving the certificate in Nandigram or Nagaon"
   suggested_source: "PIB Photo / ECI media gallery; Wikimedia Commons search 'Nandigram bypoll 2026'"

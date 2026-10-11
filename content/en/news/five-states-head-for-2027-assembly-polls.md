@@ -10,10 +10,10 @@ standfirst: "Manipur, Goa, Punjab, Uttarakhand and Uttar Pradesh complete their 
 published: 2026-10-11T11:30:00+05:30
 location: New Delhi
 keyPoints:
-  - "The terms of the Manipur, Goa, Punjab and Uttarakhand assemblies end between 13 and 28 March 2027, and Uttar Pradesh's on 22 May 2027, News24 reported."
-  - "Reports expect the Election Commission to hold all five polls together in February and March; no schedule had been announced as of 11 October."
-  - "Census enumeration in Uttar Pradesh, Punjab, Goa and non-snowbound Uttarakhand was brought forward to 1 December 2026 to 4 January 2027."
-  - "The SIR of electoral rolls is complete in Uttar Pradesh, Goa and Manipur; Punjab and Uttarakhand await final rolls."
+  - "The terms of the Manipur, Goa, Punjab and Uttarakhand assemblies end **between 13 and 28 March 2027**, and Uttar Pradesh's on 22 May 2027, News24 reported."
+  - "Reports expect the Election Commission to **hold all five polls together** in February and March; no schedule had been announced as of 11 October."
+  - "Census enumeration in Uttar Pradesh, Punjab, Goa and non-snowbound Uttarakhand was **brought forward to 1 December 2026** to 4 January 2027."
+  - "The SIR of electoral rolls is complete in Uttar Pradesh, Goa and Manipur; **Punjab and Uttarakhand await final rolls**."
 hero:
   need: "Voters queueing at a polling station in Uttar Pradesh or Punjab (archive, clearly captioned with year)"
   suggested_source: "PIB Photo archive; ECI media gallery"

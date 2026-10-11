@@ -10,10 +10,10 @@ standfirst: "The Kerala (Alteration of Name) Act, 2026 came into force on 25 Aug
 published: 2026-10-11T11:30:00+05:30
 location: Thiruvananthapuram
 keyPoints:
-  - "The Union Home Ministry notified 25 August 2026 as the date the Kerala (Alteration of Name) Act, 2026 came into force."
-  - "The Act replaces 'Kerala' with 'Keralam', the state's Malayalam name, in the First Schedule of the Constitution."
-  - "The change followed the Article 3 route: a state request, a Presidential reference to the Assembly, passage by both Houses and Presidential assent."
-  - "Lok Sabha passed the Bill by voice vote without debate on 11 August; Rajya Sabha debated it the next day."
+  - "The Union Home Ministry **notified 25 August 2026** as the date the Kerala (Alteration of Name) Act, 2026 came into force."
+  - "The Act **replaces 'Kerala' with 'Keralam'**, the state's Malayalam name, in the First Schedule of the Constitution."
+  - "The change followed **the Article 3 route**: a state request, a Presidential reference to the Assembly, passage by both Houses and Presidential assent."
+  - "Lok Sabha passed the Bill **by voice vote without debate** on 11 August; Rajya Sabha debated it the next day."
 hero:
   need: "Kerala Legislative Assembly (Niyamasabha) building in Thiruvananthapuram"
   suggested_source: "Wikimedia Commons: Kerala Legislative Assembly building"

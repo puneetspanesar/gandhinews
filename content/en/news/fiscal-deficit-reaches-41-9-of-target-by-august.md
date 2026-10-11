@@ -10,10 +10,10 @@ standfirst: "The Centre's deficit for April-August was ₹7.10 lakh crore. Weak 
 published: 2026-10-11T09:00:00+05:30
 location: New Delhi
 keyPoints:
-  - "The Centre's fiscal deficit was ₹7,10,249 crore in April-August 2026, or 41.9% of the Budget Estimate, against 38.1% a year earlier."
-  - "Gross tax revenue grew 6.5%, with excise collections down 23% after the cut in fuel duties."
-  - "Subsidies rose 24%; capital spending was up 18% over five months but fell 30% in August."
-  - "ICRA expects the full-year deficit to exceed the Budget Estimate by ₹1.3 to 1.4 lakh crore."
+  - "The Centre's fiscal deficit was ₹7,10,249 crore in April-August 2026, or **41.9% of the Budget Estimate**, against 38.1% a year earlier."
+  - "Gross tax revenue grew 6.5%, with **excise collections down 23%** after the cut in fuel duties."
+  - "Subsidies rose 24%; capital spending was up 18% over five months but **fell 30% in August**."
+  - "ICRA expects the full-year deficit to exceed the Budget Estimate **by ₹1.3 to 1.4 lakh crore**."
 hero:
   need: "North Block, New Delhi (Ministry of Finance)"
   suggested_source: "Wikimedia Commons search 'North Block New Delhi'"

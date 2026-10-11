@@ -10,10 +10,10 @@ standfirst: "The Indian Express reported two Election Commissioners objected at 
 published: 2026-10-11T11:00:00+05:30
 location: New Delhi
 keyPoints:
-  - "The Indian Express reported on 23 September that Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi objected on record at least 14 times in 10 months to SIR-related decisions."
-  - "The Election Commission said written notes and differing views are a normal part of deliberation and that its decisions over the past year were unanimous."
-  - "INDIA bloc parties said they were drafting a third notice to remove CEC Gyanesh Kumar; no report found by 11 October confirms it has been submitted."
-  - "Delhi Police registered at least four FIRs naming Rahul Gandhi, Priyanka Gandhi Vadra and others after protests on 6 and 7 October; no court has ruled on them."
+  - "The Indian Express reported on 23 September that Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi objected on record **at least 14 times** in 10 months to SIR-related decisions."
+  - "The Election Commission said written notes and differing views are a normal part of deliberation and that its **decisions over the past year were unanimous**."
+  - "INDIA bloc parties said they were **drafting a third notice** to remove CEC Gyanesh Kumar; no report found by 11 October confirms it has been submitted."
+  - "Delhi Police registered **at least four FIRs** naming Rahul Gandhi, Priyanka Gandhi Vadra and others after protests on 6 and 7 October; no court has ruled on them."
 hero:
   need: "Nirvachan Sadan, the Election Commission headquarters in New Delhi"
   suggested_source: "PIB Photo / ECI media gallery; Wikimedia Commons 'Nirvachan Sadan'"
