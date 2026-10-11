@@ -5,7 +5,7 @@ import PHOTOS from '../../content/photos.map.json';
 // @ts-ignore - plain JS module shared with the Markdown plugin
 import { routeFor, prefix, SECTIONS } from './routes.mjs';
 
-export const SITE_URL = (import.meta.env.SITE_URL || process.env.SITE_URL || 'https://gandhinews.example').replace(/\/$/, '');
+export const SITE_URL = (import.meta.env.SITE_URL || process.env.SITE_URL || 'https://gandhinews.com').replace(/\/$/, '');
 export const SITE_LIVE = String(import.meta.env.SITE_LIVE ?? process.env.SITE_LIVE ?? '').toLowerCase() === 'true';
 export { prefix, SECTIONS };
 
