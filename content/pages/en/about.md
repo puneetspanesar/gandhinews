@@ -9,7 +9,7 @@ updated: 2026-10-11
 
 LokVox is an independent Indian news site that covers politics, policy, the economy and Parliament, in English and Hindi.
 
-Our name joins two words. Lok is Hindi for people, as in Lok Sabha, and vox is Latin for voice. The seal on every page carries लोक, because we write for the people of India, not for any party or government. Our promise is in our line: "Facts for every citizen". We report what can be checked, show our evidence and correct our mistakes in public.
+Our name joins two words. Lok is Hindi for people, as in Lok Sabha, and vox is Latin for voice. The seal on every page carries लोक, because we write for the people of India, not for any party or government. Our line says what we do: "Covering power, for the people". We follow what governments, Parliament, parties and regulators decide, and explain what it means for the people it affects. We report what can be checked, show our evidence and correct our mistakes in public.
 
 ## What we publish
 
