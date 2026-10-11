@@ -1,9 +1,18 @@
 {
   "name": "gandhinews",
+  "main": "worker/index.ts",
   "compatibility_date": "2026-10-01",
   "assets": {
     "directory": "./dist",
+    "binding": "ASSETS",
     "not_found_handling": "404-page",
-    "html_handling": "auto-trailing-slash"
+    "html_handling": "auto-trailing-slash",
+    "run_worker_first": ["/api/*"]
+  },
+  "vars": {
+    "SITE_URL": "https://lokvox.com",
+    "AWS_REGION": "ap-south-1"
   }
+  // D1 subscriber database: added once it is created in the Cloudflare dashboard.
+  // "d1_databases": [{ "binding": "DB", "database_name": "lokvox-subscribers", "database_id": "<id>" }]
 }

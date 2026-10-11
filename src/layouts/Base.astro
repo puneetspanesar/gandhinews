@@ -162,7 +162,7 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
             : <>{altPath ? <a href={altPath} hreflang="en" lang="en" title={UI.hi.switchLabel}>EN</a> : <span>EN</span>}<span class="on hi" aria-current="true">हिंदी</span></>}
         </div>
         <span class="sep" aria-hidden="true"></span>
-        <a class="sub" href="#newsletter">{t.subscribe}</a>
+        <a class="sub" href={`${p}/subscribe/`}>{t.subscribe}</a>
       </div>
     </div>
   </header>
@@ -199,12 +199,12 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
     <div class="w">
       <div class="nlr" id="newsletter">
         <div><h2>{t.newsletterTitle}</h2><p>{t.newsletterText}</p></div>
-        <!-- TODO(launch): newsletter. Set `action` to the email provider's signup endpoint (and its field names).
-             Until then the form posts nowhere: the handler below shows a "coming soon" message instead. -->
-        <form action="#newsletter" method="post" data-newsletter data-todo="newsletter-endpoint">
+        <form action="/api/subscribe" method="post" data-newsletter>
           <label class="sr-only" for="nl-email">{t.email}</label>
           <input id="nl-email" name="email" type="email" autocomplete="email" required placeholder={t.email} />
-          <input type="hidden" name="list" value={lang === 'hi' ? 'morning-brief-hi' : 'morning-brief-en'} />
+          <input type="hidden" name="lang" value={lang} />
+          <input type="hidden" name="source" value="footer" />
+          <input class="hp" type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" />
           <button type="submit">{t.signUp}</button>
         </form>
       </div>
@@ -236,16 +236,24 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
     const dd = document.querySelector<HTMLDetailsElement>('.menu details');
     document.addEventListener('click', (e) => { if (dd?.open && !dd.contains(e.target as Node)) dd.open = false; });
     document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && dd?.open) { dd.open = false; dd.querySelector('summary')?.focus(); } });
-    // TODO(launch): remove this once the newsletter form posts to the real provider endpoint.
-    const nl = document.querySelector<HTMLFormElement>('form[data-todo="newsletter-endpoint"]');
-    nl?.addEventListener('submit', (e) => {
-      e.preventDefault();
-      const toast = document.getElementById('toast');
-      if (toast) {
-        toast.textContent = document.documentElement.lang === 'hi' ? 'न्यूज़लेटर जल्द शुरू होगा।' : 'The newsletter is launching soon.';
-        toast.classList.add('show');
-        setTimeout(() => toast.classList.remove('show'), 2600);
-      }
+    // Morning Brief signup: post to our own API and show the result in place.
+    document.querySelectorAll<HTMLFormElement>('form[data-newsletter]').forEach((f) => {
+      f.addEventListener('submit', async (e) => {
+        e.preventDefault();
+        const hi = document.documentElement.lang === 'hi';
+        const toast = document.getElementById('toast');
+        const say = (m: string) => { if (toast) { toast.textContent = m; toast.classList.add('show'); setTimeout(() => toast.classList.remove('show'), 4200); } };
+        const btn = f.querySelector('button'); if (btn) btn.disabled = true;
+        try {
+          const r = await fetch(f.action, { method: 'POST', body: new FormData(f), headers: { accept: 'application/json' } });
+          const j = await r.json().catch(() => ({}));
+          if (j.status === 'invalid') say(hi ? 'कृपया सही ईमेल पता डालें।' : 'Please enter a valid email address.');
+          else if (j.status === 'confirmed') say(hi ? 'आप पहले से सब्सक्राइब हैं।' : 'You are already subscribed.');
+          else if (r.ok) { say(hi ? 'अपना ईमेल देखें: पुष्टि का लिंक भेजा है।' : 'Check your inbox: we have sent a confirmation link.'); f.reset(); }
+          else say(hi ? 'अभी सब्सक्राइब नहीं हो सका। थोड़ी देर बाद कोशिश करें।' : 'Could not subscribe right now. Please try again later.');
+        } catch { say(hi ? 'अभी सब्सक्राइब नहीं हो सका। थोड़ी देर बाद कोशिश करें।' : 'Could not subscribe right now. Please try again later.'); }
+        if (btn) btn.disabled = false;
+      });
     });
   </script>
   <div class="ck" id="ck" role="region" aria-label={lang === 'hi' ? 'कुकीज़' : 'Cookies'} hidden>

@@ -17,6 +17,7 @@
     "@astrojs/rss": "^4.0.19",
     "@astrojs/sitemap": "^3.7.4",
     "astro": "^7.3.8",
+    "aws4fetch": "^1.0.20",
     "pagefind": "^1.5.2",
     "sharp": "^0.34.5",
     "unist-util-visit": "^5.1.0"

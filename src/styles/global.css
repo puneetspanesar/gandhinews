@@ -697,3 +697,23 @@ footer .legal a:hover{color:#fff}
 .ckb button{font-family:var(--f-head);font-weight:500;font-size:14px;padding:8px 16px;border-radius:20px;border:1px solid var(--ink);background:#fff;color:var(--ink);cursor:pointer}
 .ckb button.ok{background:var(--red);border-color:var(--red);color:#fff}
 @media (max-width:720px){.ck{left:12px;right:12px;bottom:76px;max-width:none}}
+
+.hp{position:absolute;left:-9999px;width:1px;height:1px;opacity:0}
+/* subscribe pages */
+.subp{padding:56px 0 72px;display:flex;justify-content:center}
+.subc{max-width:520px;width:100%}
+.subc .seal{width:48px;height:48px;margin-bottom:18px}
+.subc h1{font-size:28px;line-height:1.2;margin:0 0 10px}
+.subc .sd{font-size:16px;line-height:1.6;color:var(--ink2);margin:0 0 18px}
+.subl{list-style:none;padding:0;margin:0 0 22px}
+.subl li{padding:8px 0 8px 22px;border-top:1px solid var(--line);font-size:15px;color:var(--ink2);position:relative}
+.subl li::before{content:"";position:absolute;left:2px;top:15px;width:8px;height:8px;border-radius:50%;background:var(--red)}
+.subf{display:grid;gap:12px}
+.subf input[type=email]{height:46px;border:1px solid #cfcfcf;border-radius:23px;padding:0 18px;font-size:16px;font-family:inherit}
+.subf .lng{border:0;padding:0;margin:0;display:flex;gap:20px;font-size:15px}
+.subf button{height:46px;border:0;border-radius:23px;background:var(--red);color:#fff;font-family:var(--f-head);font-weight:600;font-size:16px;cursor:pointer}
+.subf button:disabled{opacity:.6}
+.subfine{font-size:13px;color:var(--mut);margin-top:12px}
+.subfine a{color:var(--ink)}
+.suberr{color:var(--red);font-size:14px;margin:0 0 10px}
+.subf input[type=radio]{accent-color:var(--red)}

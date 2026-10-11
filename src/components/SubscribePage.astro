@@ -1,0 +1,62 @@
+---
+// Morning Brief pages: signup, check your email, confirmed, unsubscribed. Same template, four states.
+import Base from '../layouts/Base.astro';
+import Seal from './Seal.astro';
+import { prefix } from '../lib/site';
+import type { Lang } from '../lib/i18n';
+interface Props { lang: Lang; state: 'form' | 'check' | 'confirmed' | 'unsubscribed' }
+const { lang, state } = Astro.props;
+const p = prefix(lang);
+const hi = lang === 'hi';
+const C = {
+  form: hi ? { t: 'मॉर्निंग ब्रीफ', d: 'हर कामकाजी दिन की सुबह ज़रूरी खबरें, एक चार्ट के साथ। मुफ्त, और कभी भी अनसब्सक्राइब कर सकते हैं।' }
+           : { t: 'The Morning Brief', d: 'The stories that matter, with one chart, every weekday morning. Free, and you can unsubscribe at any time.' },
+  check: hi ? { t: 'अपना ईमेल देखें', d: 'हमने आपको पुष्टि का एक लिंक भेजा है। सदस्यता शुरू करने के लिए उस पर क्लिक करें। ईमेल न दिखे तो स्पैम या प्रमोशन फोल्डर देखें।' }
+            : { t: 'Check your email', d: 'We have sent you a confirmation link. Click it to start your subscription. If you cannot see it, look in your spam or promotions folder.' },
+  confirmed: hi ? { t: 'आप सब्सक्राइब हो गए', d: 'शुक्रिया। मॉर्निंग ब्रीफ हर कामकाजी दिन की सुबह आपके इनबॉक्स में पहुंचेगा।' }
+                : { t: 'You are subscribed', d: 'Thank you. The Morning Brief will reach your inbox every weekday morning.' },
+  unsubscribed: hi ? { t: 'आप अनसब्सक्राइब हो गए', d: 'अब आपको मॉर्निंग ब्रीफ नहीं मिलेगा। मन बदले तो नीचे दोबारा सब्सक्राइब कर सकते हैं।' }
+                   : { t: 'You have unsubscribed', d: 'You will not receive the Morning Brief any more. If you change your mind, you can subscribe again below.' },
+}[state];
+const showForm = state === 'form' || state === 'unsubscribed';
+const route = `${p}/subscribe/${state === 'form' ? '' : state === 'check' ? 'check-email/' : state + '/'}`;
+const points = hi
+  ? ['दिन की 5 सबसे ज़रूरी खबरें, छोटे में', 'एक चार्ट जो खबर को साफ करे', 'हिंदी या अंग्रेज़ी, आप चुनें']
+  : ['The five stories that matter, in short', 'One chart that makes the news clear', 'In English or Hindi, your choice'];
+---
+<Base lang={lang} title={C.t} description={C.d} path={route} noindex={state !== 'form'}>
+  <div class="w subp">
+    <div class="subc">
+      <Seal />
+      <h1>{C.t}</h1>
+      <p class="sd">{C.d}</p>
+      {showForm && (
+        <>
+          <ul class="subl">{points.map((x) => <li>{x}</li>)}</ul>
+          <p class="suberr" data-suberr hidden></p>
+          <form action="/api/subscribe" method="post" data-newsletter class="subf">
+            <label class="sr-only" for="sp-email">{hi ? 'ईमेल पता' : 'Email address'}</label>
+            <input id="sp-email" name="email" type="email" autocomplete="email" required placeholder={hi ? 'ईमेल पता' : 'Email address'} />
+            <fieldset class="lng"><legend class="sr-only">{hi ? 'भाषा' : 'Language'}</legend>
+              <label><input type="radio" name="lang" value="en" checked={!hi} /> English</label>
+              <label><input type="radio" name="lang" value="hi" checked={hi} /> हिंदी</label>
+            </fieldset>
+            <input type="hidden" name="source" value="subscribe-page" />
+            <input class="hp" type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" />
+            <button type="submit">{hi ? 'सब्सक्राइब करें' : 'Subscribe'}</button>
+          </form>
+          <p class="subfine">{hi ? <>हम आपका ईमेल सिर्फ न्यूज़लेटर भेजने के लिए इस्तेमाल करते हैं। देखें हमारी <a href={`${p}/privacy/`}>निजता नीति</a>।</> : <>We use your email only to send the newsletter. See our <a href={`${p}/privacy/`}>privacy policy</a>.</>}</p>
+        </>
+      )}
+      {!showForm && <p><a class="fbtn" href={`${p}/`}>{hi ? 'होमपेज पर जाएं' : 'Go to the homepage'}</a></p>}
+    </div>
+  </div>
+  <script is:inline>
+    (function () {
+      var e = new URLSearchParams(location.search).get('error'); var el = document.querySelector('[data-suberr]'); if (!e || !el) return;
+      var hi = document.documentElement.lang === 'hi';
+      var m = { email: hi ? 'कृपया सही ईमेल पता डालें।' : 'Please enter a valid email address.', link: hi ? 'यह लिंक काम नहीं कर रहा या पुराना हो गया है। कृपया दोबारा सब्सक्राइब करें।' : 'That link has expired or does not work. Please subscribe again.', later: hi ? 'अभी सब्सक्राइब नहीं हो सका। थोड़ी देर बाद कोशिश करें।' : 'We could not subscribe you right now. Please try again later.' }[e];
+      if (m) { el.textContent = m; el.hidden = false; }
+    })();
+  </script>
+</Base>

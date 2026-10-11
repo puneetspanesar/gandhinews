@@ -35,7 +35,7 @@ We do not sell your data. We do not use it for advertising.
 
 ## Who else handles it
 
-Our site is hosted by Cloudflare, and we use Google Analytics to measure readership. When the newsletter starts, we will name the email service that sends it here.
+Our site is hosted by Cloudflare, and we use Google Analytics to measure readership. We keep the newsletter list ourselves, in a database on Cloudflare, and deliver the emails through Amazon Web Services (Amazon SES), which processes your email address only to send them. When you sign up we record the date and a scrambled form of your IP address as proof of your consent.
 
 ## How long we keep it
 

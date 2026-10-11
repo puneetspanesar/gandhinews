@@ -34,7 +34,7 @@ export default defineConfig({
   integrations: [
     sitemap({
       i18n: { defaultLocale: 'en', locales: { en: 'en-IN', hi: 'hi-IN' } },
-      filter: (page) => !/\/(search|saved)\/$/.test(page) && !DRAFTS.some((d) => page.endsWith(d)),
+      filter: (page) => !/\/(search|saved|check-email|confirmed|unsubscribed)\/$/.test(page) && !DRAFTS.some((d) => page.endsWith(d)),
     }),
   ],
 });
