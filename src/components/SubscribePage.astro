@@ -31,7 +31,7 @@ const points = hi
       <h1>{C.t}</h1>
       <p class="sd">{C.d}</p>
       {showForm && (
-        <>
+        <div class="subwrap">
           <ul class="subl">{points.map((x) => <li>{x}</li>)}</ul>
           <p class="suberr" data-suberr hidden></p>
           <form action="/api/subscribe" method="post" data-newsletter class="subf">
@@ -46,7 +46,7 @@ const points = hi
             <button type="submit">{hi ? 'सब्सक्राइब करें' : 'Subscribe'}</button>
           </form>
           <p class="subfine">{hi ? <>हम आपका ईमेल सिर्फ न्यूज़लेटर भेजने के लिए इस्तेमाल करते हैं। देखें हमारी <a href={`${p}/privacy/`}>निजता नीति</a>।</> : <>We use your email only to send the newsletter. See our <a href={`${p}/privacy/`}>privacy policy</a>.</>}</p>
-        </>
+        </div>
       )}
       {!showForm && <p><a class="fbtn" href={`${p}/`}>{hi ? 'होमपेज पर जाएं' : 'Go to the homepage'}</a></p>}
     </div>

@@ -34,6 +34,8 @@ const hiPath = lang === 'hi' ? path : altPath;
 const fullTitle = path === `${p}/` ? `${t.siteName}: ${t.motto}` : `${title} | ${t.siteName}`;
 const ogImage = abs('/og-default.png');
 
+const EN_TRY = ['CJP protest', 'Repo rate', 'SIR electoral rolls', 'GST Council', 'Labour codes'];
+const HI_TRY = ['सीजेपी प्रदर्शन', 'रेपो रेट', 'एसआईआर', 'जीएसटी परिषद', 'श्रम संहिताएं'];
 const nav = [
   ...['politics', 'policy', 'economy', 'parliament', 'states', 'world'].map((k) => ({ key: k, label: S[k], href: `${p}/${k}/` })),
   { key: 'fact-check', label: t.factCheck, href: `${p}/fact-check/` },
@@ -155,7 +157,7 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
         </details>
       </nav>
       <div class="act">
-        <a class="ib" href={`${p}/search/`} title={t.search}><Icon name="magnifying-glass" label={t.search} /></a>
+        <a class="ib" href={`${p}/search/`} title={t.search} data-so-open><Icon name="magnifying-glass" label={t.search} /></a>
         <div class="lang" role="group" aria-label={lang === 'hi' ? 'भाषा' : 'Language'}>
           {lang === 'en'
             ? <><span class="on" aria-current="true">EN</span>{altPath ? <a class="hi" href={altPath} hreflang="hi" lang="hi" title={UI.en.switchLabel}>हिंदी</a> : <span class="hi" lang="hi">हिंदी</span>}</>
@@ -220,7 +222,7 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
     </div>
   </footer>
   <nav class="tab" aria-label={lang === 'hi' ? 'त्वरित नेविगेशन' : 'Quick navigation'}>
-    {tabs.map((x) => <a href={x.href} class={x.on ? 'on' : undefined} aria-current={x.on ? 'page' : undefined}><Icon name={x.icon} />{x.label}</a>)}
+    {tabs.map((x) => <a href={x.href} class={x.on ? 'on' : undefined} aria-current={x.on ? 'page' : undefined} data-so-open={x.icon === 'magnifying-glass' ? '' : undefined}><Icon name={x.icon} />{x.label}</a>)}
   </nav>
   <div class="toast" role="status" aria-live="polite" id="toast"></div>
   <script>
@@ -237,6 +239,24 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
     document.addEventListener('click', (e) => { if (dd?.open && !dd.contains(e.target as Node)) dd.open = false; });
     document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && dd?.open) { dd.open = false; dd.querySelector('summary')?.focus(); } });
     // Morning Brief signup: post to our own API and show the result in place.
+    // Replace the form with a confirmation panel right where the reader signed up.
+    const done = (f: HTMLFormElement, email: string, hi: boolean) => {
+      const page = f.closest('.subc');
+      const box = document.createElement('div');
+      box.className = page ? 'subok' : 'subok sm';
+      box.setAttribute('role', 'status');
+      const esc = (x: string) => x.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' } as any)[c]);
+      box.innerHTML = `<span class="env" aria-hidden="true"><svg viewBox="0 0 256 256"><path fill="currentColor" d="M224,48H32a8,8,0,0,0-8,8V192a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V56A8,8,0,0,0,224,48Zm-96,85.15L52.57,64H203.43ZM98.71,128,40,181.81V74.19Zm11.84,10.85,12,11.05a8,8,0,0,0,10.82,0l12-11.05,58,53.15H52.57ZM157.29,128,216,74.18V181.82Z"/></svg><i></i></span>
+        <div><b>${hi ? 'अपना इनबॉक्स देखें' : 'Check your inbox'}</b>
+        <p>${hi ? `हमने <strong>${esc(email)}</strong> पर पुष्टि का लिंक भेजा है। उस पर क्लिक करते ही आप सब्सक्राइब हो जाएंगे।` : `We have sent a confirmation link to <strong>${esc(email)}</strong>. Click it and you are in.`}</p>
+        <p class="sm2">${hi ? 'ईमेल न दिखे तो स्पैम या प्रमोशन फोल्डर देखें और उसे "स्पैम नहीं" बताएं।' : 'Not there? Look in Spam or Promotions and mark it "Not spam".'}</p>
+        <button type="button" class="again">${hi ? 'दूसरा ईमेल इस्तेमाल करें' : 'Use a different email'}</button></div>`;
+      const target: HTMLElement = page ? (page.querySelector('.subwrap') as HTMLElement) || f : f;
+      target.hidden = true;
+      target.after(box);
+      box.querySelector('.again')?.addEventListener('click', () => { box.remove(); target.hidden = false; f.reset(); (f.querySelector('input[type=email]') as HTMLInputElement)?.focus(); });
+      if (page) page.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    };
     document.querySelectorAll<HTMLFormElement>('form[data-newsletter]').forEach((f) => {
       f.addEventListener('submit', async (e) => {
         e.preventDefault();
@@ -249,12 +269,82 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
           const j = await r.json().catch(() => ({}));
           if (j.status === 'invalid') say(hi ? 'कृपया सही ईमेल पता डालें।' : 'Please enter a valid email address.');
           else if (j.status === 'confirmed') say(hi ? 'आप पहले से सब्सक्राइब हैं।' : 'You are already subscribed.');
-          else if (r.ok) { say(hi ? 'अपना ईमेल देखें: पुष्टि का लिंक भेजा है।' : 'Check your inbox: we have sent a confirmation link.'); f.reset(); }
+          else if (r.ok) { done(f, String(new FormData(f).get('email') || ''), hi); }
           else say(hi ? 'अभी सब्सक्राइब नहीं हो सका। थोड़ी देर बाद कोशिश करें।' : 'Could not subscribe right now. Please try again later.');
         } catch { say(hi ? 'अभी सब्सक्राइब नहीं हो सका। थोड़ी देर बाद कोशिश करें।' : 'Could not subscribe right now. Please try again later.'); }
         if (btn) btn.disabled = false;
       });
     });
+  </script>
+  <div class="so" id="so" hidden role="dialog" aria-modal="true" aria-label={t.search} data-search-url={`${p}/search/`}
+    data-l-none={lang === 'hi' ? 'कोई नतीजा नहीं मिला। दूसरे शब्द आज़माएं।' : 'Nothing found. Try other words.'}
+    data-l-all={lang === 'hi' ? 'सभी नतीजे देखें' : 'See all results'} data-l-off={lang === 'hi' ? 'खोज अभी उपलब्ध नहीं है।' : 'Search is not available right now.'}>
+    <div class="so-bg" data-so-close></div>
+    <div class="so-p">
+      <form class="so-f" role="search" action={`${p}/search/`} method="get">
+        <Icon name="magnifying-glass" />
+        <input name="q" type="search" autocomplete="off" spellcheck="false" placeholder={lang === 'hi' ? 'खबरें, विषय, ट्रैकर खोजें' : 'Search stories, topics, trackers'} aria-label={t.search} data-so-q />
+        <button type="button" class="so-x" data-so-close aria-label={lang === 'hi' ? 'बंद करें' : 'Close'}><span class="kb">Esc</span><Icon name="x" /></button>
+      </form>
+      <div class="so-b">
+        <div class="so-e" data-so-empty>
+          <p class="so-h">{lang === 'hi' ? 'लोग खोज रहे हैं' : 'Trending'}</p>
+          <div class="so-c">{(lang === 'hi' ? HI_TRY : EN_TRY).map((x) => <button type="button" data-so-try={x}>{x}</button>)}</div>
+        </div>
+        <ol class="so-r" data-so-res></ol>
+        <p class="so-m" data-so-msg hidden></p>
+      </div>
+      <div class="so-ft"><span><span class="kb">↑</span><span class="kb">↓</span> {lang === 'hi' ? 'चुनें' : 'move'}</span><span><span class="kb">↵</span> {lang === 'hi' ? 'खोलें' : 'open'}</span><a href={`${p}/search/`} data-so-all>{lang === 'hi' ? 'सभी नतीजे' : 'All results'} <Icon name="arrow-up-right" /></a></div>
+    </div>
+  </div>
+  <script is:inline>
+  (function () {
+    var so = document.getElementById('so'); if (!so) return;
+    var q = so.querySelector('[data-so-q]'), res = so.querySelector('[data-so-res]'), msg = so.querySelector('[data-so-msg]'), empty = so.querySelector('[data-so-empty]'), all = so.querySelector('[data-so-all]');
+    var D = so.dataset, pf = null, loading = null, timer, sel = -1, last = null;
+    function load() {
+      if (pf || loading) return loading;
+      var u = '/pagefind/pagefind.js';
+      loading = import(u).then(function (m) { pf = m; return pf.options({ excerptLength: 18 }).then(function () { return pf.init(); }); }).catch(function () { msg.textContent = D.lOff; msg.hidden = false; });
+      return loading;
+    }
+    function open(e) { if (e) e.preventDefault(); last = document.activeElement; so.hidden = false; document.documentElement.classList.add('so-on'); load(); setTimeout(function () { q.focus(); q.select(); }, 10); }
+    function close() { so.hidden = true; document.documentElement.classList.remove('so-on'); if (last && last.focus) last.focus(); }
+    function mark(i) { var items = res.querySelectorAll('a'); items.forEach(function (a, j) { a.classList.toggle('on', j === i); }); sel = i; if (items[i]) items[i].scrollIntoView({ block: 'nearest' }); }
+    async function run() {
+      var term = q.value.trim(); all.href = D.searchUrl + (term ? '?q=' + encodeURIComponent(term) : '');
+      if (!term) { res.replaceChildren(); msg.hidden = true; empty.hidden = false; return; }
+      empty.hidden = true; await load(); if (!pf) return;
+      var r = await pf.search(term); if (!r || q.value.trim() !== term) return;
+      var data = await Promise.all(r.results.slice(0, 7).map(function (x) { return x.data(); }));
+      if (q.value.trim() !== term) return;
+      res.replaceChildren(); sel = -1;
+      data.forEach(function (d) {
+        var li = document.createElement('li'), a = document.createElement('a'); a.href = d.url;
+        var k = document.createElement('span'); k.className = 'k'; k.textContent = (d.meta && d.meta.format) || '';
+        var h = document.createElement('b'); h.textContent = (d.meta && d.meta.title) || d.url;
+        var x = document.createElement('span'); x.className = 'x'; x.innerHTML = d.excerpt;
+        a.append(k, h, x); li.append(a); res.append(li);
+      });
+      msg.textContent = D.lNone; msg.hidden = data.length > 0;
+    }
+    document.querySelectorAll('[data-so-open]').forEach(function (b) { b.addEventListener('click', open); });
+    so.querySelectorAll('[data-so-close]').forEach(function (b) { b.addEventListener('click', close); });
+    so.querySelectorAll('[data-so-try]').forEach(function (b) { b.addEventListener('click', function () { q.value = b.getAttribute('data-so-try'); run(); q.focus(); }); });
+    q.addEventListener('input', function () { clearTimeout(timer); timer = setTimeout(run, 160); });
+    so.querySelector('form').addEventListener('submit', function (e) { var a = res.querySelectorAll('a')[sel]; if (a) { e.preventDefault(); location.href = a.href; } });
+    document.addEventListener('keydown', function (e) {
+      var typing = /^(INPUT|TEXTAREA|SELECT)$/.test((e.target && e.target.tagName) || '') || (e.target && e.target.isContentEditable);
+      if (so.hidden) {
+        if ((e.key === 'k' && (e.metaKey || e.ctrlKey)) || (e.key === '/' && !typing)) open(e);
+        return;
+      }
+      var n = res.querySelectorAll('a').length;
+      if (e.key === 'Escape') { e.preventDefault(); close(); }
+      else if (e.key === 'ArrowDown' && n) { e.preventDefault(); mark(Math.min(n - 1, sel + 1)); }
+      else if (e.key === 'ArrowUp' && n) { e.preventDefault(); mark(Math.max(0, sel - 1)); }
+    });
+  })();
   </script>
   <div class="ck" id="ck" role="region" aria-label={lang === 'hi' ? 'कुकीज़' : 'Cookies'} hidden>
     <p>{lang === 'hi'
