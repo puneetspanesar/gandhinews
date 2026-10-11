@@ -1,5 +1,10 @@
 ---
+// LokVox seal: a red circle with a white ल (Noto Sans Devanagari ExtraBold outline, so no font is needed).
+import fs from 'node:fs';
+import path from 'node:path';
+import { ROOT } from '../lib/routes.mjs';
 interface Props { small?: boolean }
 const { small = false } = Astro.props;
+const svg = fs.readFileSync(path.join(ROOT, 'src/components/seal.svg.txt'), 'utf8');
 ---
-<span class={small ? 'seal sm' : 'seal'} lang="hi" aria-hidden="true">लोक</span>
+<span class={small ? 'seal sm' : 'seal'} set:html={svg} />
