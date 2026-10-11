@@ -47,8 +47,15 @@ for (const p of list) {
   try {
     const have = WIDTHS.every((w) => fs.existsSync(file(p.id, w)));
     if (force || !have) {
-      const res = await fetch(p.sourceUrl, { headers: { 'User-Agent': 'GandhiNewsPhotoFetcher/1.0 (newsroom photo pipeline)' } });
+      let res;
+      for (let attempt = 0; attempt < 6; attempt++) {
+        res = await fetch(p.sourceUrl, { headers: { 'User-Agent': 'GandhiNewsPhotoFetcher/1.0 (newsroom photo pipeline; github.com/puneetspanesar/gandhinews)' } });
+        if (res.ok) break;
+        console.log(`retry    ${p.id}: HTTP ${res.status}`);
+        await new Promise((z) => setTimeout(z, 8000 * (attempt + 1)));
+      }
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      await new Promise((z) => setTimeout(z, 2000));
       const buf = Buffer.from(await res.arrayBuffer());
       for (const w of WIDTHS) {
         await sharp(buf)
@@ -87,4 +94,4 @@ for (const f of fs.readdirSync(OUT)) if (f.endsWith('.jpg') && !keep.has(f)) { f
 
 fs.writeFileSync(MAP, JSON.stringify(map, null, 2) + '\n');
 console.log(`\n${Object.keys(map).length} photo(s) in content/photos.map.json${failed ? `, ${failed} failed` : ''}.`);
-if (failed) process.exit(1);
+if (failed) console.warn(`${failed} photo(s) failed; they keep the placeholder.`);
