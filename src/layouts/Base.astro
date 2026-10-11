@@ -282,9 +282,9 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
     <div class="so-bg" data-so-close></div>
     <div class="so-p">
       <form class="so-f" role="search" action={`${p}/search/`} method="get">
-        <Icon name="magnifying-glass" />
+        <span class="so-seal"><Seal /></span>
         <input name="q" type="search" autocomplete="off" spellcheck="false" placeholder={lang === 'hi' ? 'खबरें, विषय, ट्रैकर खोजें' : 'Search stories, topics, trackers'} aria-label={t.search} data-so-q />
-        <button type="button" class="so-x" data-so-close aria-label={lang === 'hi' ? 'बंद करें' : 'Close'}><span class="kb">Esc</span><Icon name="x" /></button>
+        <button type="button" class="so-x" data-so-close aria-label={lang === 'hi' ? 'बंद करें' : 'Close'}><Icon name="x" /></button>
       </form>
       <div class="so-b">
         <div class="so-e" data-so-empty>
@@ -294,13 +294,12 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
         <ol class="so-r" data-so-res></ol>
         <p class="so-m" data-so-msg hidden></p>
       </div>
-      <div class="so-ft"><span><span class="kb">↑</span><span class="kb">↓</span> {lang === 'hi' ? 'चुनें' : 'move'}</span><span><span class="kb">↵</span> {lang === 'hi' ? 'खोलें' : 'open'}</span><a href={`${p}/search/`} data-so-all>{lang === 'hi' ? 'सभी नतीजे' : 'All results'} <Icon name="arrow-up-right" /></a></div>
     </div>
   </div>
   <script is:inline>
   (function () {
     var so = document.getElementById('so'); if (!so) return;
-    var q = so.querySelector('[data-so-q]'), res = so.querySelector('[data-so-res]'), msg = so.querySelector('[data-so-msg]'), empty = so.querySelector('[data-so-empty]'), all = so.querySelector('[data-so-all]');
+    var q = so.querySelector('[data-so-q]'), res = so.querySelector('[data-so-res]'), msg = so.querySelector('[data-so-msg]'), empty = so.querySelector('[data-so-empty]');
     var D = so.dataset, pf = null, loading = null, timer, sel = -1, last = null;
     function load() {
       if (pf || loading) return loading;
@@ -312,11 +311,11 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
     function close() { so.hidden = true; document.documentElement.classList.remove('so-on'); if (last && last.focus) last.focus(); }
     function mark(i) { var items = res.querySelectorAll('a'); items.forEach(function (a, j) { a.classList.toggle('on', j === i); }); sel = i; if (items[i]) items[i].scrollIntoView({ block: 'nearest' }); }
     async function run() {
-      var term = q.value.trim(); all.href = D.searchUrl + (term ? '?q=' + encodeURIComponent(term) : '');
+      var term = q.value.trim();
       if (!term) { res.replaceChildren(); msg.hidden = true; empty.hidden = false; return; }
       empty.hidden = true; await load(); if (!pf) return;
       var r = await pf.search(term); if (!r || q.value.trim() !== term) return;
-      var data = await Promise.all(r.results.slice(0, 7).map(function (x) { return x.data(); }));
+      var data = await Promise.all(r.results.slice(0, 12).map(function (x) { return x.data(); }));
       if (q.value.trim() !== term) return;
       res.replaceChildren(); sel = -1;
       data.forEach(function (d) {
@@ -332,7 +331,7 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
     so.querySelectorAll('[data-so-close]').forEach(function (b) { b.addEventListener('click', close); });
     so.querySelectorAll('[data-so-try]').forEach(function (b) { b.addEventListener('click', function () { q.value = b.getAttribute('data-so-try'); run(); q.focus(); }); });
     q.addEventListener('input', function () { clearTimeout(timer); timer = setTimeout(run, 160); });
-    so.querySelector('form').addEventListener('submit', function (e) { var a = res.querySelectorAll('a')[sel]; if (a) { e.preventDefault(); location.href = a.href; } });
+    so.querySelector('form').addEventListener('submit', function (e) { e.preventDefault(); var a = res.querySelectorAll('a')[sel < 0 ? 0 : sel]; if (a) location.href = a.href; });
     document.addEventListener('keydown', function (e) {
       var typing = /^(INPUT|TEXTAREA|SELECT)$/.test((e.target && e.target.tagName) || '') || (e.target && e.target.isContentEditable);
       if (so.hidden) {

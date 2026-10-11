@@ -744,13 +744,14 @@ html.so-on{overflow:hidden}
 .so-bg{position:absolute;inset:0;background:rgba(13,13,13,.55);backdrop-filter:blur(3px);animation:sofade .15s ease-out}
 .so-p{position:relative;margin:9vh auto 0;width:min(680px,calc(100% - 32px));background:#fff;border-radius:14px;border:1px solid #e3e3e3;overflow:hidden;animation:soin .18s ease-out;display:flex;flex-direction:column;max-height:76vh}
 .so-f{display:flex;align-items:center;gap:12px;padding:0 14px 0 20px;height:64px;border-bottom:1px solid var(--line)}
-.so-f>.ic{width:22px;height:22px;color:var(--red);flex:none}
+.so-seal{flex:none;display:flex}.so-seal .seal{width:34px;height:34px}
 .so-f input{flex:1;border:0;outline:0;font-size:19px;font-family:var(--f-head);color:var(--ink);background:none;min-width:0}
 .so-f input::-webkit-search-cancel-button{display:none}
-.so-x{display:flex;align-items:center;gap:6px;background:none;border:0;color:var(--mut);cursor:pointer;padding:6px}
-.so-x .ic{display:none;width:20px;height:20px}
+.so-x{flex:none;display:grid;place-items:center;width:40px;height:40px;border-radius:50%;background:#f2f2f2;border:0;color:var(--ink);cursor:pointer;transition:background .15s}
+.so-x:hover{background:#e6e6e6}
+.so-x .ic{width:20px;height:20px}
 .kb{display:inline-block;min-width:20px;padding:1px 6px;border:1px solid #d6d6d6;border-radius:5px;font-size:11px;font-family:var(--f-body);color:var(--mut);text-align:center;line-height:16px}
-.so-b{overflow:auto;padding:8px 0}
+.so-b{overflow:auto;padding:8px 0 12px}
 .so-e{padding:12px 20px 16px}
 .so-h{font-family:var(--f-head);font-size:12px;font-weight:600;color:var(--mut);margin:0 0 10px;text-transform:none}
 .so-c{display:flex;flex-wrap:wrap;gap:8px}
@@ -771,6 +772,4 @@ html.so-on{overflow:hidden}
 @keyframes soin{from{opacity:0;transform:translateY(-8px) scale(.98)}to{opacity:1;transform:none}}
 @media (max-width:720px){
  .so-p{margin:0;width:100%;height:100%;max-height:none;border-radius:0;border:0}
- .so-x .kb{display:none}.so-x .ic{display:block}
- .so-ft span{display:none}
 }
