@@ -1,1 +1,592 @@
-[]
+[
+  {
+    "id": "rbi-mumbai",
+    "articleId": "rbi-raises-repo-rate-to-5-50",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Tower_and_building_of_Reserve_Bank_of_India%2C_Mumbai_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Pinakpani / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Reserve Bank of India tower and building in Mumbai",
+    "page": "https://commons.wikimedia.org/wiki/File:Tower_and_building_of_Reserve_Bank_of_India,_Mumbai_02.jpg",
+    "alt_hi": "मुंबई में भारतीय रिज़र्व बैंक का टावर और भवन"
+  },
+  {
+    "id": "rbi-mumbai",
+    "articleId": "rbi-interest-rates",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Tower_and_building_of_Reserve_Bank_of_India%2C_Mumbai_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Pinakpani / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Reserve Bank of India tower and building in Mumbai",
+    "page": "https://commons.wikimedia.org/wiki/File:Tower_and_building_of_Reserve_Bank_of_India,_Mumbai_02.jpg",
+    "alt_hi": "मुंबई में भारतीय रिज़र्व बैंक का टावर और भवन"
+  },
+  {
+    "id": "north-block",
+    "articleId": "fiscal-deficit-reaches-41-9-of-target-by-august",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/North_Block%2C_Raisina_Hill%2C_New_Delhi_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Pinakpani / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "North Block on Raisina Hill, New Delhi, home to the Finance and Home ministries",
+    "page": "https://commons.wikimedia.org/wiki/File:North_Block,_Raisina_Hill,_New_Delhi_04.jpg",
+    "alt_hi": "नई दिल्ली में रायसीना हिल पर नॉर्थ ब्लॉक, जहां वित्त और गृह मंत्रालय हैं"
+  },
+  {
+    "id": "north-block",
+    "articleId": "fiscal-deficit-explained",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/North_Block%2C_Raisina_Hill%2C_New_Delhi_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Pinakpani / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "North Block on Raisina Hill, New Delhi, home to the Finance and Home ministries",
+    "page": "https://commons.wikimedia.org/wiki/File:North_Block,_Raisina_Hill,_New_Delhi_04.jpg",
+    "alt_hi": "नई दिल्ली में रायसीना हिल पर नॉर्थ ब्लॉक, जहां वित्त और गृह मंत्रालय हैं"
+  },
+  {
+    "id": "north-block",
+    "articleId": "rbi-right-to-move-fiscal-side-must-hold",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/North_Block%2C_Raisina_Hill%2C_New_Delhi_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Pinakpani / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "North Block on Raisina Hill, New Delhi, home to the Finance and Home ministries",
+    "page": "https://commons.wikimedia.org/wiki/File:North_Block,_Raisina_Hill,_New_Delhi_04.jpg",
+    "alt_hi": "नई दिल्ली में रायसीना हिल पर नॉर्थ ब्लॉक, जहां वित्त और गृह मंत्रालय हैं"
+  },
+  {
+    "id": "north-block",
+    "articleId": "budget-2026-27-promise-tracker",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/North_Block%2C_Raisina_Hill%2C_New_Delhi_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Pinakpani / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "North Block on Raisina Hill, New Delhi, home to the Finance and Home ministries",
+    "page": "https://commons.wikimedia.org/wiki/File:North_Block,_Raisina_Hill,_New_Delhi_04.jpg",
+    "alt_hi": "नई दिल्ली में रायसीना हिल पर नॉर्थ ब्लॉक, जहां वित्त और गृह मंत्रालय हैं"
+  },
+  {
+    "id": "north-block",
+    "articleId": "fcra-explained-2026-amendment-bill",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/North_Block%2C_Raisina_Hill%2C_New_Delhi_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Pinakpani / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "North Block on Raisina Hill, New Delhi, home to the Finance and Home ministries",
+    "page": "https://commons.wikimedia.org/wiki/File:North_Block,_Raisina_Hill,_New_Delhi_04.jpg",
+    "alt_hi": "नई दिल्ली में रायसीना हिल पर नॉर्थ ब्लॉक, जहां वित्त और गृह मंत्रालय हैं"
+  },
+  {
+    "id": "samvidhan-sadan",
+    "articleId": "monsoon-session-2026-ends-with-lowest-output",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Sansad_Bhavan%2C_Delhi%2C_BNK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Nikhilb239 / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "The old Parliament House, Samvidhan Sadan, in New Delhi",
+    "page": "https://commons.wikimedia.org/wiki/File:Sansad_Bhavan,_Delhi,_BNK.jpg",
+    "alt_hi": "नई दिल्ली में पुराना संसद भवन, संविधान सदन"
+  },
+  {
+    "id": "samvidhan-sadan",
+    "articleId": "parliament-that-sits-but-does-not-debate",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Sansad_Bhavan%2C_Delhi%2C_BNK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Nikhilb239 / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "The old Parliament House, Samvidhan Sadan, in New Delhi",
+    "page": "https://commons.wikimedia.org/wiki/File:Sansad_Bhavan,_Delhi,_BNK.jpg",
+    "alt_hi": "नई दिल्ली में पुराना संसद भवन, संविधान सदन"
+  },
+  {
+    "id": "samvidhan-sadan",
+    "articleId": "how-a-bill-becomes-law-in-india",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Sansad_Bhavan%2C_Delhi%2C_BNK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Nikhilb239 / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "The old Parliament House, Samvidhan Sadan, in New Delhi",
+    "page": "https://commons.wikimedia.org/wiki/File:Sansad_Bhavan,_Delhi,_BNK.jpg",
+    "alt_hi": "नई दिल्ली में पुराना संसद भवन, संविधान सदन"
+  },
+  {
+    "id": "samvidhan-sadan",
+    "articleId": "anti-defection-law-explained",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Sansad_Bhavan%2C_Delhi%2C_BNK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Nikhilb239 / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "The old Parliament House, Samvidhan Sadan, in New Delhi",
+    "page": "https://commons.wikimedia.org/wiki/File:Sansad_Bhavan,_Delhi,_BNK.jpg",
+    "alt_hi": "नई दिल्ली में पुराना संसद भवन, संविधान सदन"
+  },
+  {
+    "id": "samvidhan-sadan",
+    "articleId": "how-rajya-sabha-elections-work",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Sansad_Bhavan%2C_Delhi%2C_BNK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Nikhilb239 / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "The old Parliament House, Samvidhan Sadan, in New Delhi",
+    "page": "https://commons.wikimedia.org/wiki/File:Sansad_Bhavan,_Delhi,_BNK.jpg",
+    "alt_hi": "नई दिल्ली में पुराना संसद भवन, संविधान सदन"
+  },
+  {
+    "id": "samvidhan-sadan",
+    "articleId": "parliamentary-committees-jpc-standing-select-explained",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Sansad_Bhavan%2C_Delhi%2C_BNK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Nikhilb239 / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "The old Parliament House, Samvidhan Sadan, in New Delhi",
+    "page": "https://commons.wikimedia.org/wiki/File:Sansad_Bhavan,_Delhi,_BNK.jpg",
+    "alt_hi": "नई दिल्ली में पुराना संसद भवन, संविधान सदन"
+  },
+  {
+    "id": "samvidhan-sadan",
+    "articleId": "one-nation-one-election-bills-explained",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Sansad_Bhavan%2C_Delhi%2C_BNK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Nikhilb239 / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "The old Parliament House, Samvidhan Sadan, in New Delhi",
+    "page": "https://commons.wikimedia.org/wiki/File:Sansad_Bhavan,_Delhi,_BNK.jpg",
+    "alt_hi": "नई दिल्ली में पुराना संसद भवन, संविधान सदन"
+  },
+  {
+    "id": "samvidhan-sadan",
+    "articleId": "delimitation-explained-why-131st-amendment-failed",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Sansad_Bhavan%2C_Delhi%2C_BNK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Nikhilb239 / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "The old Parliament House, Samvidhan Sadan, in New Delhi",
+    "page": "https://commons.wikimedia.org/wiki/File:Sansad_Bhavan,_Delhi,_BNK.jpg",
+    "alt_hi": "नई दिल्ली में पुराना संसद भवन, संविधान सदन"
+  },
+  {
+    "id": "samvidhan-sadan",
+    "articleId": "parliament",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Sansad_Bhavan%2C_Delhi%2C_BNK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Nikhilb239 / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "The old Parliament House, Samvidhan Sadan, in New Delhi",
+    "page": "https://commons.wikimedia.org/wiki/File:Sansad_Bhavan,_Delhi,_BNK.jpg",
+    "alt_hi": "नई दिल्ली में पुराना संसद भवन, संविधान सदन"
+  },
+  {
+    "id": "samvidhan-sadan",
+    "articleId": "delimitation",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Sansad_Bhavan%2C_Delhi%2C_BNK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Nikhilb239 / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "The old Parliament House, Samvidhan Sadan, in New Delhi",
+    "page": "https://commons.wikimedia.org/wiki/File:Sansad_Bhavan,_Delhi,_BNK.jpg",
+    "alt_hi": "नई दिल्ली में पुराना संसद भवन, संविधान सदन"
+  },
+  {
+    "id": "samvidhan-sadan",
+    "articleId": "bills-in-parliament-tracker",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Sansad_Bhavan%2C_Delhi%2C_BNK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Nikhilb239 / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "The old Parliament House, Samvidhan Sadan, in New Delhi",
+    "page": "https://commons.wikimedia.org/wiki/File:Sansad_Bhavan,_Delhi,_BNK.jpg",
+    "alt_hi": "नई दिल्ली में पुराना संसद भवन, संविधान सदन"
+  },
+  {
+    "id": "voter-ink",
+    "articleId": "sir-phase-three-draft-rolls-names-dropped-by-state",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Election_mark_on_index_finger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Fotokannan / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Indelible ink on a voter's index finger after casting a vote",
+    "page": "https://commons.wikimedia.org/wiki/File:Election_mark_on_index_finger.jpg",
+    "alt_hi": "वोट डालने के बाद मतदाता की उंगली पर अमिट स्याही"
+  },
+  {
+    "id": "voter-ink",
+    "articleId": "special-intensive-revision-how-to-check-your-name",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Election_mark_on_index_finger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Fotokannan / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Indelible ink on a voter's index finger after casting a vote",
+    "page": "https://commons.wikimedia.org/wiki/File:Election_mark_on_index_finger.jpg",
+    "alt_hi": "वोट डालने के बाद मतदाता की उंगली पर अमिट स्याही"
+  },
+  {
+    "id": "voter-ink",
+    "articleId": "electoral-rolls-sir",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Election_mark_on_index_finger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Fotokannan / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Indelible ink on a voter's index finger after casting a vote",
+    "page": "https://commons.wikimedia.org/wiki/File:Election_mark_on_index_finger.jpg",
+    "alt_hi": "वोट डालने के बाद मतदाता की उंगली पर अमिट स्याही"
+  },
+  {
+    "id": "voter-ink",
+    "articleId": "election-calendar",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Election_mark_on_index_finger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Fotokannan / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Indelible ink on a voter's index finger after casting a vote",
+    "page": "https://commons.wikimedia.org/wiki/File:Election_mark_on_index_finger.jpg",
+    "alt_hi": "वोट डालने के बाद मतदाता की उंगली पर अमिट स्याही"
+  },
+  {
+    "id": "voter-ink",
+    "articleId": "five-states-head-for-2027-assembly-polls",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Election_mark_on_index_finger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Fotokannan / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Indelible ink on a voter's index finger after casting a vote",
+    "page": "https://commons.wikimedia.org/wiki/File:Election_mark_on_index_finger.jpg",
+    "alt_hi": "वोट डालने के बाद मतदाता की उंगली पर अमिट स्याही"
+  },
+  {
+    "id": "voter-ink",
+    "articleId": "elections-2027",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Election_mark_on_index_finger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Fotokannan / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Indelible ink on a voter's index finger after casting a vote",
+    "page": "https://commons.wikimedia.org/wiki/File:Election_mark_on_index_finger.jpg",
+    "alt_hi": "वोट डालने के बाद मतदाता की उंगली पर अमिट स्याही"
+  },
+  {
+    "id": "voter-ink",
+    "articleId": "bypoll-results-ruling-parties-win-all-six-seats",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Election_mark_on_index_finger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Fotokannan / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Indelible ink on a voter's index finger after casting a vote",
+    "page": "https://commons.wikimedia.org/wiki/File:Election_mark_on_index_finger.jpg",
+    "alt_hi": "वोट डालने के बाद मतदाता की उंगली पर अमिट स्याही"
+  },
+  {
+    "id": "voter-ink",
+    "articleId": "election-commission-dissent-report-move-to-remove-cec",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Election_mark_on_index_finger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Fotokannan / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Indelible ink on a voter's index finger after casting a vote",
+    "page": "https://commons.wikimedia.org/wiki/File:Election_mark_on_index_finger.jpg",
+    "alt_hi": "वोट डालने के बाद मतदाता की उंगली पर अमिट स्याही"
+  },
+  {
+    "id": "voter-ink",
+    "articleId": "election-commission-should-publish-its-dissent",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Election_mark_on_index_finger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Fotokannan / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Indelible ink on a voter's index finger after casting a vote",
+    "page": "https://commons.wikimedia.org/wiki/File:Election_mark_on_index_finger.jpg",
+    "alt_hi": "वोट डालने के बाद मतदाता की उंगली पर अमिट स्याही"
+  },
+  {
+    "id": "voter-ink",
+    "articleId": "how-chief-election-commissioner-is-appointed-removed",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Election_mark_on_index_finger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Fotokannan / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Indelible ink on a voter's index finger after casting a vote",
+    "page": "https://commons.wikimedia.org/wiki/File:Election_mark_on_index_finger.jpg",
+    "alt_hi": "वोट डालने के बाद मतदाता की उंगली पर अमिट स्याही"
+  },
+  {
+    "id": "voter-ink",
+    "articleId": "election-commission",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Election_mark_on_index_finger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Fotokannan / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Indelible ink on a voter's index finger after casting a vote",
+    "page": "https://commons.wikimedia.org/wiki/File:Election_mark_on_index_finger.jpg",
+    "alt_hi": "वोट डालने के बाद मतदाता की उंगली पर अमिट स्याही"
+  },
+  {
+    "id": "voter-ink",
+    "articleId": "eci-form-6-press-note-taken-down-claim",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Election_mark_on_index_finger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Fotokannan / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Indelible ink on a voter's index finger after casting a vote",
+    "page": "https://commons.wikimedia.org/wiki/File:Election_mark_on_index_finger.jpg",
+    "alt_hi": "वोट डालने के बाद मतदाता की उंगली पर अमिट स्याही"
+  },
+  {
+    "id": "supreme-court",
+    "articleId": "sc-cases-tracker",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Supreme_Court_of_India_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Subhashish Panigrahi / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Supreme Court of India, New Delhi",
+    "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_01.jpg",
+    "alt_hi": "नई दिल्ली में भारत का सुप्रीम कोर्ट"
+  },
+  {
+    "id": "ap-high-court",
+    "articleId": "andhra-high-court-strikes-down-bc-quota-local-bodies",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/High_Court_of_Andhra_Pradesh%2C_Amaravati_%28May_2019%29_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: IM3847 / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "High Court of Andhra Pradesh at Amaravati",
+    "page": "https://commons.wikimedia.org/wiki/File:High_Court_of_Andhra_Pradesh,_Amaravati_(May_2019)_1.jpg",
+    "alt_hi": "अमरावती में आंध्र प्रदेश हाईकोर्ट"
+  },
+  {
+    "id": "kerala-assembly",
+    "articleId": "kerala-becomes-keralam-what-changes",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Kerala_State_Legislative_Assembly_building%2C_Trivandrum_-_sautvmcc2k26_%2812%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Vinayaraj / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Kerala Legislative Assembly building, Thiruvananthapuram",
+    "page": "https://commons.wikimedia.org/wiki/File:Kerala_State_Legislative_Assembly_building,_Trivandrum_-_sautvmcc2k26_(12).jpg",
+    "alt_hi": "तिरुवनंतपुरम में केरल विधानसभा भवन"
+  },
+  {
+    "id": "wb-assembly",
+    "articleId": "west-bengal-makes-bengali-compulsory-government-work",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/West_Bengal_State_Legislative_Assembly_House%2C_Kolkata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Sujay25 / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "West Bengal Legislative Assembly House, Kolkata",
+    "page": "https://commons.wikimedia.org/wiki/File:West_Bengal_State_Legislative_Assembly_House,_Kolkata.jpg",
+    "alt_hi": "कोलकाता में पश्चिम बंगाल विधानसभा भवन"
+  },
+  {
+    "id": "veg-andaman",
+    "articleId": "retail-inflation-rises-to-4-82-in-august",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Vegetables_at_vegetable_market%2C_Havelock_Island%2C_Andamans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Vyacheslav Argenberg / Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "alt": "Vegetables for sale at a market in the Andaman Islands",
+    "page": "https://commons.wikimedia.org/wiki/File:Vegetables_at_vegetable_market,_Havelock_Island,_Andamans.jpg",
+    "alt_hi": "अंडमान द्वीप के एक बाज़ार में बिकती सब्ज़ियां"
+  },
+  {
+    "id": "veg-andaman",
+    "articleId": "inflation",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Vegetables_at_vegetable_market%2C_Havelock_Island%2C_Andamans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Vyacheslav Argenberg / Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "alt": "Vegetables for sale at a market in the Andaman Islands",
+    "page": "https://commons.wikimedia.org/wiki/File:Vegetables_at_vegetable_market,_Havelock_Island,_Andamans.jpg",
+    "alt_hi": "अंडमान द्वीप के एक बाज़ार में बिकती सब्ज़ियां"
+  },
+  {
+    "id": "veg-ahmedabad",
+    "articleId": "how-india-measures-inflation-new-cpi-series",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Vegetable_market%2C_Ahmedabad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Bernard Gagnon / Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "alt": "Vegetable sellers at a market in Ahmedabad",
+    "page": "https://commons.wikimedia.org/wiki/File:Vegetable_market,_Ahmedabad.jpg",
+    "alt_hi": "अहमदाबाद के एक बाज़ार में सब्ज़ी विक्रेता"
+  },
+  {
+    "id": "wheat-punjab",
+    "articleId": "rabi-msp-wheat-up-rs-25-per-quintal",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Wheat_field_in_Punjab_-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Sarbjit Bahga / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "A wheat field in Punjab",
+    "page": "https://commons.wikimedia.org/wiki/File:Wheat_field_in_Punjab_-2.jpg",
+    "alt_hi": "पंजाब में गेहूं का खेत"
+  },
+  {
+    "id": "wheat-punjab",
+    "articleId": "msp-explained-how-set-who-benefits",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Wheat_field_in_Punjab_-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Sarbjit Bahga / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "A wheat field in Punjab",
+    "page": "https://commons.wikimedia.org/wiki/File:Wheat_field_in_Punjab_-2.jpg",
+    "alt_hi": "पंजाब में गेहूं का खेत"
+  },
+  {
+    "id": "workshop-dharavi",
+    "articleId": "labour-codes-centre-wants-state-rules-by-october-31",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Dharavi_industry_cleaning_metal_barrels_for_reuse_Mumbai_India_22Aug2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Everhard van Eimeren / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Workers cleaning metal barrels for reuse in Dharavi, Mumbai",
+    "page": "https://commons.wikimedia.org/wiki/File:Dharavi_industry_cleaning_metal_barrels_for_reuse_Mumbai_India_22Aug2006.jpg",
+    "alt_hi": "मुंबई के धारावी में धातु के ड्रम साफ करते कामगार"
+  },
+  {
+    "id": "workshop-dharavi",
+    "articleId": "four-labour-codes-explained-workers-employers",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Dharavi_industry_cleaning_metal_barrels_for_reuse_Mumbai_India_22Aug2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Everhard van Eimeren / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Workers cleaning metal barrels for reuse in Dharavi, Mumbai",
+    "page": "https://commons.wikimedia.org/wiki/File:Dharavi_industry_cleaning_metal_barrels_for_reuse_Mumbai_India_22Aug2006.jpg",
+    "alt_hi": "मुंबई के धारावी में धातु के ड्रम साफ करते कामगार"
+  },
+  {
+    "id": "workshop-dharavi",
+    "articleId": "labour-codes-centre-states-owe-workers-deadline",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Dharavi_industry_cleaning_metal_barrels_for_reuse_Mumbai_India_22Aug2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Everhard van Eimeren / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Workers cleaning metal barrels for reuse in Dharavi, Mumbai",
+    "page": "https://commons.wikimedia.org/wiki/File:Dharavi_industry_cleaning_metal_barrels_for_reuse_Mumbai_India_22Aug2006.jpg",
+    "alt_hi": "मुंबई के धारावी में धातु के ड्रम साफ करते कामगार"
+  },
+  {
+    "id": "workshop-dharavi",
+    "articleId": "labour-codes",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Dharavi_industry_cleaning_metal_barrels_for_reuse_Mumbai_India_22Aug2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Everhard van Eimeren / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Workers cleaning metal barrels for reuse in Dharavi, Mumbai",
+    "page": "https://commons.wikimedia.org/wiki/File:Dharavi_industry_cleaning_metal_barrels_for_reuse_Mumbai_India_22Aug2006.jpg",
+    "alt_hi": "मुंबई के धारावी में धातु के ड्रम साफ करते कामगार"
+  },
+  {
+    "id": "construction-howrah",
+    "articleId": "gdp-grows-7-8-in-april-june-quarter",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Santragachi_Railway_Station_Terminal_Building_Under_Construction_-_Kona_Expressway_-_Howrah_2017-07-06_0505.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Biswarup Ganguly / Wikimedia Commons",
+    "licence": "CC BY 3.0",
+    "alt": "Construction work in Howrah, West Bengal",
+    "page": "https://commons.wikimedia.org/wiki/File:Santragachi_Railway_Station_Terminal_Building_Under_Construction_-_Kona_Expressway_-_Howrah_2017-07-06_0505.JPG",
+    "alt_hi": "पश्चिम बंगाल के हावड़ा में निर्माण कार्य"
+  },
+  {
+    "id": "construction-howrah",
+    "articleId": "how-gdp-is-measured-new-base-year",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Santragachi_Railway_Station_Terminal_Building_Under_Construction_-_Kona_Expressway_-_Howrah_2017-07-06_0505.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Biswarup Ganguly / Wikimedia Commons",
+    "licence": "CC BY 3.0",
+    "alt": "Construction work in Howrah, West Bengal",
+    "page": "https://commons.wikimedia.org/wiki/File:Santragachi_Railway_Station_Terminal_Building_Under_Construction_-_Kona_Expressway_-_Howrah_2017-07-06_0505.JPG",
+    "alt_hi": "पश्चिम बंगाल के हावड़ा में निर्माण कार्य"
+  },
+  {
+    "id": "petrol-pump",
+    "articleId": "kejriwal-e20-trump-pressure-ethanol-claim",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/HP_Petrol_Pump_at_Addakal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Chanduclicks / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "A petrol pump in Telangana",
+    "page": "https://commons.wikimedia.org/wiki/File:HP_Petrol_Pump_at_Addakal.jpg",
+    "alt_hi": "तेलंगाना में एक पेट्रोल पंप"
+  },
+  {
+    "id": "rupee-notes",
+    "articleId": "rupee-near-97-as-crude-stays-above-100",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Indian_100_and_2000_rupee_notes_%2832190943222%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Monito - Money Transfer Comparison / Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "alt": "Indian ₹100 and ₹2,000 notes",
+    "page": "https://commons.wikimedia.org/wiki/File:Indian_100_and_2000_rupee_notes_(32190943222).jpg",
+    "alt_hi": "₹100 और ₹2,000 के भारतीय नोट"
+  },
+  {
+    "id": "smartphone",
+    "articleId": "dpdp-consent-managers-start-data-protection-board-empty",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Man_using_smartphone_outdoors.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Bhullargraphic / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "A man looking at his smartphone",
+    "page": "https://commons.wikimedia.org/wiki/File:Man_using_smartphone_outdoors.jpg",
+    "alt_hi": "अपना स्मार्टफोन देखता एक व्यक्ति"
+  },
+  {
+    "id": "smartphone",
+    "articleId": "your-rights-under-dpdp-act",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Man_using_smartphone_outdoors.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Bhullargraphic / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "A man looking at his smartphone",
+    "page": "https://commons.wikimedia.org/wiki/File:Man_using_smartphone_outdoors.jpg",
+    "alt_hi": "अपना स्मार्टफोन देखता एक व्यक्ति"
+  },
+  {
+    "id": "smartphone",
+    "articleId": "appoint-data-protection-board-before-rules-bite",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Man_using_smartphone_outdoors.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Bhullargraphic / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "A man looking at his smartphone",
+    "page": "https://commons.wikimedia.org/wiki/File:Man_using_smartphone_outdoors.jpg",
+    "alt_hi": "अपना स्मार्टफोन देखता एक व्यक्ति"
+  },
+  {
+    "id": "smartphone",
+    "articleId": "data-protection",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Man_using_smartphone_outdoors.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Bhullargraphic / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "A man looking at his smartphone",
+    "page": "https://commons.wikimedia.org/wiki/File:Man_using_smartphone_outdoors.jpg",
+    "alt_hi": "अपना स्मार्टफोन देखता एक व्यक्ति"
+  },
+  {
+    "id": "smartphone",
+    "articleId": "jairam-ramesh-upi-charges-above-2000-claim",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Man_using_smartphone_outdoors.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Bhullargraphic / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "A man looking at his smartphone",
+    "page": "https://commons.wikimedia.org/wiki/File:Man_using_smartphone_outdoors.jpg",
+    "alt_hi": "अपना स्मार्टफोन देखता एक व्यक्ति"
+  },
+  {
+    "id": "smartphone",
+    "articleId": "sitharaman-upi-free-for-consumers-claim",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Man_using_smartphone_outdoors.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Bhullargraphic / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "A man looking at his smartphone",
+    "page": "https://commons.wikimedia.org/wiki/File:Man_using_smartphone_outdoors.jpg",
+    "alt_hi": "अपना स्मार्टफोन देखता एक व्यक्ति"
+  },
+  {
+    "id": "bharat-mandapam",
+    "articleId": "ai-brics-selfie-modi-putin-xi-raisi",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Bharat_Mandapam_view_from_East.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Kuldeepburjbhalaike / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Bharat Mandapam, New Delhi",
+    "page": "https://commons.wikimedia.org/wiki/File:Bharat_Mandapam_view_from_East.jpg",
+    "alt_hi": "नई दिल्ली में भारत मंडपम"
+  },
+  {
+    "id": "us-dol",
+    "articleId": "us-suspends-indian-it-firms-green-card-sponsorship",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Frances_Perkins_Building_of_the_United_States_Department_of_Labor_in_Washington%2C_D.C._-_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: US Department of Labor / Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "alt": "Frances Perkins Building of the US Department of Labor, Washington",
+    "page": "https://commons.wikimedia.org/wiki/File:Frances_Perkins_Building_of_the_United_States_Department_of_Labor_in_Washington,_D.C._-_8.jpg",
+    "alt_hi": "वॉशिंगटन में अमेरिकी श्रम विभाग की फ्रांसेस पर्किन्स बिल्डिंग"
+  },
+  {
+    "id": "sbi-branch",
+    "articleId": "repo-rate-and-your-emi-explained",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/State_Bank_of_India%2C_Jhunir_branch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: Kuldeepburjbhalaike / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "A State Bank of India branch in Mansa district, Punjab",
+    "page": "https://commons.wikimedia.org/wiki/File:State_Bank_of_India,_Jhunir_branch.jpg",
+    "alt_hi": "पंजाब के मानसा ज़िले में भारतीय स्टेट बैंक की एक शाखा"
+  },
+  {
+    "id": "kolkata-market",
+    "articleId": "gst-council-scraps-arrest-powers-raises-prosecution-threshold",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Kolkata_Dharmatala1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: P.K.Niyogi / Wikimedia Commons",
+    "licence": "Public domain",
+    "alt": "Shops along Chandni Chowk Street, Kolkata",
+    "page": "https://commons.wikimedia.org/wiki/File:Kolkata_Dharmatala1.jpg",
+    "alt_hi": "कोलकाता की चांदनी चौक स्ट्रीट पर दुकानें"
+  },
+  {
+    "id": "kolkata-market",
+    "articleId": "gst-explained-slabs-council-revenue-sharing",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Kolkata_Dharmatala1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: P.K.Niyogi / Wikimedia Commons",
+    "licence": "Public domain",
+    "alt": "Shops along Chandni Chowk Street, Kolkata",
+    "page": "https://commons.wikimedia.org/wiki/File:Kolkata_Dharmatala1.jpg",
+    "alt_hi": "कोलकाता की चांदनी चौक स्ट्रीट पर दुकानें"
+  },
+  {
+    "id": "kolkata-market",
+    "articleId": "gst",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Kolkata_Dharmatala1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Photo: P.K.Niyogi / Wikimedia Commons",
+    "licence": "Public domain",
+    "alt": "Shops along Chandni Chowk Street, Kolkata",
+    "page": "https://commons.wikimedia.org/wiki/File:Kolkata_Dharmatala1.jpg",
+    "alt_hi": "कोलकाता की चांदनी चौक स्ट्रीट पर दुकानें"
+  }
+]

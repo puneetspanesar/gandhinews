@@ -72,6 +72,8 @@ for (const p of list) {
       credit: p.credit,
       licence: p.licence,
       alt: p.alt,
+      alt_hi: p.alt_hi,
+      page: p.page,
     };
   } catch (e) {
     failed++;

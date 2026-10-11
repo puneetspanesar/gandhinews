@@ -77,8 +77,8 @@ const hero = heroOf(d);
 
         {d.type === 'news' && (
           <figure class="hero">
-            <Photo id={d.id} src={d.hero?.src} alt={d.hero?.alt} size="lg" lang={lang} eager />
-            {hero.src && (hero.caption || hero.credit) && <figcaption><span>{hero.caption}</span><span>{hero.credit}</span></figcaption>}
+            <Photo id={d.id} src={d.hero?.src} alt={hero.alt} size="lg" lang={lang} eager />
+            {hero.src && (hero.caption || hero.credit) && <figcaption><span>{hero.caption}</span>{hero.page ? <a href={hero.page} rel="noopener" target="_blank">{hero.credit}</a> : <span>{hero.credit}</span>}</figcaption>}
           </figure>
         )}
 
