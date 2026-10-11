@@ -23,7 +23,7 @@ When you save a story, the list is stored in your browser on your own device. It
 
 <h2 id="cookies">Cookies</h2>
 
-We do not use advertising or tracking cookies. [Update this section if analytics or advertising tools are added.]
+We use Google Analytics to count visits and see which stories are read, so we can decide what to cover. It sets cookies that record pages viewed, the device and browser type, and an approximate location; it does not give us your name or email. You can block these cookies in your browser settings or with Google's opt-out add-on, and the site works the same without them. We do not use advertising cookies.
 
 ## Why we use it
 

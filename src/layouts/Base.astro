@@ -122,6 +122,16 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
   <meta name="twitter:description" content={description} />
   <meta name="twitter:image" content={ogImage} />
   {ld.map((d) => <JsonLd data={d} />)}
+  <!-- Google Analytics 4. Loads only on the live domain, so previews and local builds are not counted. -->
+  <script is:inline>
+    if (location.hostname === 'gandhinews.com' || location.hostname === 'www.gandhinews.com') {
+      var s = document.createElement('script'); s.async = true; s.src = 'https://www.googletagmanager.com/gtag/js?id=G-RX4QDCN88Y'; document.head.appendChild(s);
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = function () { dataLayer.push(arguments); };
+      gtag('js', new Date());
+      gtag('config', 'G-RX4QDCN88Y');
+    }
+  </script>
 </head>
 <body>
   <a class="skip" href="#main">{t.skip}</a>
