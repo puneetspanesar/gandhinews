@@ -31,7 +31,7 @@ for (const [key, q] of Object.entries(queries)) {
     const m = ii.extmetadata || {};
     const lic = strip(m.LicenseShortName?.value);
     if (!OK.test(lic) || /nc|nd/i.test(lic.replace(/and/i, ''))) continue;
-    if (ii.mime !== 'image/jpeg' || ii.width < 1200 || ii.height < 700) continue;
+    if (ii.mime !== "image/jpeg" || Math.max(ii.width, ii.height) < 1000) continue;
     const n = cands.length;
     const thumb = `${key}-${n}.jpg`;
     try { await new Promise((z) => setTimeout(z, 300)); const t = await fetch(ii.thumburl, { headers: UA }); if (!t.ok) continue; fs.writeFileSync(path.join(out, 'thumbs', thumb), Buffer.from(await t.arrayBuffer())); } catch { continue; }
