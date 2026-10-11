@@ -22,7 +22,7 @@ The build fails on: invalid frontmatter, invalid JSON in a chart/facts/timeline 
 
 | Variable    | Default                      | Purpose |
 |-------------|------------------------------|---------|
-| `SITE_URL`  | `https://gandhinews.example` | Absolute site URL for canonical links, hreflang, sitemaps, RSS, Open Graph and JSON-LD. No trailing slash. |
+| `SITE_URL`  | `https://gandhinews.com` | Absolute site URL for canonical links, hreflang, sitemaps, RSS, Open Graph and JSON-LD. No trailing slash. |
 | `SITE_LIVE` | unset (preview mode)         | Until this is `true`, every page carries `<meta name="robots" content="noindex,nofollow">` and `robots.txt` disallows everything. Set `SITE_LIVE=true` only for the public launch. |
 
 ## Content
