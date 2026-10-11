@@ -55,6 +55,7 @@ const hero = heroOf(d);
 ---
 <Base
   lang={lang}
+  noindex={d.verification?.status === 'needs-editor-approval'}
   title={d.title}
   description={d.seo.description}
   path={route}

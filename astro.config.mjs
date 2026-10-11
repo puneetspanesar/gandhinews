@@ -1,6 +1,18 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
+import fs from 'node:fs';
+// Editorials waiting for the editor's approval stay out of the sitemap (and carry noindex).
+const DRAFTS = ['en', 'hi'].flatMap((lang) => {
+  const dir = `./content/${lang}/editorial`;
+  if (!fs.existsSync(dir)) return [];
+  return fs.readdirSync(dir).filter((f) => f.endsWith('.md')).flatMap((f) => {
+    const t = fs.readFileSync(`${dir}/${f}`, 'utf8');
+    if (!/status:\s*needs-editor-approval/.test(t)) return [];
+    const id = (t.match(/^id:\s*(.+)$/m) || [])[1]?.trim(); const sec = (t.match(/^section:\s*(.+)$/m) || [])[1]?.trim();
+    return id && sec ? [`${lang === 'hi' ? '/hi' : ''}/${sec}/${id}/`] : [];
+  });
+});
 import { unified } from '@astrojs/markdown-remark';
 import remarkGandhi from './src/lib/remark-gn.mjs';
 
@@ -22,7 +34,7 @@ export default defineConfig({
   integrations: [
     sitemap({
       i18n: { defaultLocale: 'en', locales: { en: 'en-IN', hi: 'hi-IN' } },
-      filter: (page) => !/\/(search|saved)\/$/.test(page),
+      filter: (page) => !/\/(search|saved)\/$/.test(page) && !DRAFTS.some((d) => page.endsWith(d)),
     }),
   ],
 });
