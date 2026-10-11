@@ -60,4 +60,4 @@ As a publisher of news and current affairs content in India, we follow the Code 
 
 ## Questions
 
-Write to the editor at [editor email address]. See [Contact](/contact/) for other ways to reach us.
+Write to the editor at puneet@thar.co. See [Contact](/contact/) for other ways to reach us.

@@ -11,10 +11,10 @@ Gandhi News publishes news and current affairs content in India. Part III of the
 
 ## Grievance Officer
 
-- Name: [Grievance Officer name]
-- Designation: [Designation]
-- Email: [grievance email address]
-- Address: [Legal name of publishing entity], [registered address]
+- Name: Puneet Singh
+- Designation: Editor and Publisher
+- Email: puneet@thar.co
+- Phone: +91 77609 06195
 
 ## How to make a complaint
 
@@ -33,7 +33,7 @@ Write to the Grievance Officer by email or post. Please include:
 
 ## If you are not satisfied
 
-If you do not agree with our decision, or do not hear from us within 15 days, you can appeal to the self-regulating body we are a member of: [Name of self-regulating body], [its contact details]. The Rules also provide an oversight mechanism run by the Ministry of Information and Broadcasting.
+If you do not agree with our decision, or do not hear from us within 15 days, you can take it further under the oversight mechanism the Rules set up, run by the Ministry of Information and Broadcasting.
 
 ## Other ways to reach us
 

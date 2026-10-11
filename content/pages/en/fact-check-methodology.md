@@ -33,4 +33,4 @@ If new evidence comes to light we update the fact check and say what changed. If
 
 ## Send us a claim
 
-Send a claim, photo or video to check on WhatsApp at [WhatsApp number], or see our [contact page](/contact/).
+Send a claim, photo or video to check on WhatsApp at +91 77609 06195, or see our [contact page](/contact/).

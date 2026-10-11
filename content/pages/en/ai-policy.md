@@ -33,4 +33,4 @@ AI assists our research, drafting and translation. Editors check and approve eve
 
 The responsibility is ours, not the tool's. Mistakes are corrected under our [corrections policy](/corrections/), like any other error.
 
-Questions about this policy can go to [editor email address].
+Questions about this policy can go to puneet@thar.co.

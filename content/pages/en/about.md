@@ -29,9 +29,9 @@ Our [editorial standards](/standards/) set out the rules we follow. When we get 
 
 ## Who we are
 
-Gandhi News is published by [Legal name of publishing entity], [registered address].
+Gandhi News is owned and published by Puneet Singh.
 
-Editor: [Editor's name].
+Editor: Puneet Singh.
 
 ## Get in touch
 

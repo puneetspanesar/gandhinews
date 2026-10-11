@@ -11,20 +11,20 @@ Readers should know who owns a news organisation and who pays for it. This page 
 
 ## Who owns Gandhi News
 
-Gandhi News is published by [Legal name of publishing entity], a [type of entity, for example private limited company or LLP] registered in India at [registered address]. [CIN or LLPIN].
+Gandhi News is owned and published by Puneet Singh, an individual based in India. It is not part of any company, media group or political organisation.
 
-Owners: [Names of owners or shareholders and their shares].
+Owner: Puneet Singh (100%).
 
 ## Who funds us
 
-[List of funders, investors or grants, with amounts or ranges, and the date of this list].
+Gandhi News is paid for entirely by its owner. It has no investors, grants or donors. This is correct as of 11 October 2026, and we will update this page if that changes.
 
 ## How we make money
 
-[Revenue sources, for example reader subscriptions, donations, advertising or grants].
+Gandhi News does not earn any money yet. It may carry advertising in future. If it does, ads will always be clearly labelled and kept apart from the news.
 
 ## How we keep that separate from the news
 
 Owners, funders and advertisers have no say over what we report or how. If we report on any of them, we say so in the story. Our [editorial standards](/standards/) apply to them as to everyone else.
 
-This page was last reviewed on [date of last review].
+This page was last reviewed on 11 October 2026.

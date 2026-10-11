@@ -15,9 +15,9 @@ You are welcome to read, link to and share our stories. Please link back to the 
 
 ## Reusing our work
 
-Our articles, charts and photos are protected by copyright. Unless a page says otherwise, you may quote short extracts with credit to Gandhi News and a link. To republish a whole story, write to [editor email address].
+Our articles, charts and photos are protected by copyright. Unless a page says otherwise, you may quote short extracts with credit to Gandhi News and a link. To republish a whole story, write to puneet@thar.co.
 
-Data from our trackers, published as JSON files, may be reused with credit to Gandhi News and a link to the tracker. [Confirm the licence for tracker data, for example CC BY 4.0.]
+Data from our trackers, published as JSON files, may be reused with credit to Gandhi News and a link to the tracker. Tracker data is licensed under Creative Commons Attribution 4.0 (CC BY 4.0).
 
 Photos may belong to others. Check the credit on each photo before reusing it.
 
@@ -39,10 +39,10 @@ How we handle personal data is set out in our [privacy policy](/privacy/).
 
 ## The law that applies
 
-These terms are governed by the laws of India. Courts at [city] have jurisdiction.
+These terms are governed by the laws of India.
 
 ## Contact
 
-[Legal name of publishing entity], [registered address]. Email: [editor email address].
+Puneet Singh, publisher, Gandhi News. Email: puneet@thar.co.
 
 We may update these terms. The date at the top shows when they last changed.

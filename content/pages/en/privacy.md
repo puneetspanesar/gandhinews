@@ -7,7 +7,7 @@ description: "What personal data Gandhi News collects, why, how long we keep it 
 updated: 2026-10-11
 ---
 
-This policy explains what personal data we collect, why, how long we keep it and what you can do about it. It is written for India's Digital Personal Data Protection Act, 2023 (DPDP Act). [Legal name of publishing entity] is the Data Fiduciary for this website.
+This policy explains what personal data we collect, why, how long we keep it and what you can do about it. It is written for India's Digital Personal Data Protection Act, 2023 (DPDP Act). Puneet Singh, the publisher of Gandhi News, is the Data Fiduciary for this website.
 
 ## What we collect
 
@@ -15,7 +15,7 @@ You can read Gandhi News without giving us any personal data.
 
 - **Newsletter:** if you sign up for the Morning Brief, we collect your email address and which edition you chose (English or Hindi).
 - **Messages:** if you write to us, by email or WhatsApp, we receive what you send and your contact details.
-- **Technical logs:** our hosting provider, [hosting provider], keeps standard server logs, such as IP address and browser type, to run and protect the site.
+- **Technical logs:** our hosting provider, Cloudflare, keeps standard server logs, such as IP address and browser type, to run and protect the site.
 
 ## Saved stories stay on your device
 
@@ -35,13 +35,13 @@ We do not sell your data. We do not use it for advertising.
 
 ## Who else handles it
 
-We send the newsletter through [email service provider], which processes your email address on our behalf. Our site is hosted by [hosting provider].
+Our site is hosted by Cloudflare, and we use Google Analytics to measure readership. When the newsletter starts, we will name the email service that sends it here.
 
 ## How long we keep it
 
-- Newsletter email: until you unsubscribe. We then delete it within [number] days.
-- Messages: for as long as we need to deal with them, and no more than [retention period].
-- Server logs: [retention period].
+- Newsletter email: until you unsubscribe. We then delete it within 30 days.
+- Messages: for as long as we need to deal with them, and no more than 12 months.
+- Server logs: we do not keep server logs ourselves. Cloudflare processes request data under its own privacy policy.
 
 ## Your rights
 
@@ -55,7 +55,7 @@ Under the DPDP Act you can:
 
 ## Contact
 
-For any privacy question or request, write to [privacy contact name or role] at [privacy email address]. We will reply within [number] days.
+For any privacy question or request, write to Puneet Singh at puneet@thar.co. We will reply within 15 days.
 
 ## Changes
 
