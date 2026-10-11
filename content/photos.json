@@ -230,26 +230,6 @@
     "page": "https://commons.wikimedia.org/wiki/File:Nation_Voter_Day_Posters_outside_Election_Commission.jpg"
   },
   {
-    "id": "gyanesh-kumar",
-    "articleId": "election-commission-dissent-report-move-to-remove-cec",
-    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Gyanesh_Kumar_at_India_International_Institute_of_Democracy_and_Election_Management_in_2025.jpg",
-    "credit": "Photo: Sharma Dhawan / Wikimedia Commons",
-    "licence": "CC0",
-    "alt": "Chief Election Commissioner Gyanesh Kumar at an IIIDEM event in 2025",
-    "alt_hi": "2025 में आईआईआईडीईएम के एक कार्यक्रम में मुख्य चुनाव आयुक्त ज्ञानेश कुमार",
-    "page": "https://commons.wikimedia.org/wiki/File:Gyanesh_Kumar_at_India_International_Institute_of_Democracy_and_Election_Management_in_2025.jpg"
-  },
-  {
-    "id": "gyanesh-kumar",
-    "articleId": "how-chief-election-commissioner-is-appointed-removed",
-    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Gyanesh_Kumar_at_India_International_Institute_of_Democracy_and_Election_Management_in_2025.jpg",
-    "credit": "Photo: Sharma Dhawan / Wikimedia Commons",
-    "licence": "CC0",
-    "alt": "Chief Election Commissioner Gyanesh Kumar at an IIIDEM event in 2025",
-    "alt_hi": "2025 में आईआईआईडीईएम के एक कार्यक्रम में मुख्य चुनाव आयुक्त ज्ञानेश कुमार",
-    "page": "https://commons.wikimedia.org/wiki/File:Gyanesh_Kumar_at_India_International_Institute_of_Democracy_and_Election_Management_in_2025.jpg"
-  },
-  {
     "id": "evm",
     "articleId": "election-calendar",
     "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Contr_Unit_of_Electronic_Voting_Machine_2.jpg/1280px-Contr_Unit_of_Electronic_Voting_Machine_2.jpg",
@@ -688,5 +668,115 @@
     "alt": "Protesters at Jantar Mantar, New Delhi, in July 2026 (file photo)",
     "alt_hi": "जुलाई 2026 में नई दिल्ली के जंतर-मंतर पर प्रदर्शनकारी (फाइल फोटो)",
     "page": "https://commons.wikimedia.org/wiki/File:Jantar_Mantar_Protest.jpg"
+  },
+  {
+    "id": "gyanesh-kumar",
+    "articleId": "election-commission-dissent-report-move-to-remove-cec",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Gyanesh_Kumar_at_India_International_Institute_of_Democracy_and_Election_Management_in_2025.jpg",
+    "credit": "Photo: Sharma Dhawan / Wikimedia Commons",
+    "licence": "CC0",
+    "alt": "Chief Election Commissioner Gyanesh Kumar",
+    "alt_hi": "मुख्य चुनाव आयुक्त ज्ञानेश कुमार",
+    "page": "https://commons.wikimedia.org/wiki/File:Gyanesh_Kumar_at_India_International_Institute_of_Democracy_and_Election_Management_in_2025.jpg"
+  },
+  {
+    "id": "gyanesh-kumar",
+    "articleId": "how-chief-election-commissioner-is-appointed-removed",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Gyanesh_Kumar_at_India_International_Institute_of_Democracy_and_Election_Management_in_2025.jpg",
+    "credit": "Photo: Sharma Dhawan / Wikimedia Commons",
+    "licence": "CC0",
+    "alt": "Chief Election Commissioner Gyanesh Kumar",
+    "alt_hi": "मुख्य चुनाव आयुक्त ज्ञानेश कुमार",
+    "page": "https://commons.wikimedia.org/wiki/File:Gyanesh_Kumar_at_India_International_Institute_of_Democracy_and_Election_Management_in_2025.jpg"
+  },
+  {
+    "id": "durgapur-steel",
+    "articleId": "draft-steel-policy-targets-604-mt-capacity-by-2047",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Durgapur_Steel_Plant.jpg/1280px-Durgapur_Steel_Plant.jpg",
+    "credit": "Photo: The original uploader was P.K.Niyogi at English Wikipedia. / Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "alt": "Durgapur Steel Plant, West Bengal",
+    "alt_hi": "दुर्गापुर स्टील प्लांट, पश्चिम बंगाल",
+    "page": "https://commons.wikimedia.org/wiki/File:Durgapur_Steel_Plant.jpg"
+  },
+  {
+    "id": "riyadh-airport",
+    "articleId": "india-condemns-houthi-attacks-saudi-airports-riyadh",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/King_Khalid_International_Airport.JPG",
+    "credit": "Photo: Vanquish0 / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "King Khalid International Airport, Riyadh",
+    "alt_hi": "रियाद का किंग खालिद अंतरराष्ट्रीय हवाई अड्डा",
+    "page": "https://commons.wikimedia.org/wiki/File:King_Khalid_International_Airport.JPG"
+  },
+  {
+    "id": "palais-wilson",
+    "articleId": "mea-rejects-un-rights-office-remarks-delhi-protest-detentions",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Palais_Wilson_May_2023.jpg/1280px-Palais_Wilson_May_2023.jpg",
+    "credit": "Photo: Nick-D / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Palais Wilson, Geneva, headquarters of the UN human rights office",
+    "alt_hi": "जिनेवा में पैले विल्सन, संयुक्त राष्ट्र मानवाधिकार कार्यालय का मुख्यालय",
+    "page": "https://commons.wikimedia.org/wiki/File:Palais_Wilson_May_2023.jpg"
+  },
+  {
+    "id": "chennai-metro",
+    "articleId": "modi-opens-chennai-metro-stretch-vijay-seeks-school-funds",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Chennai_Metro_Phase2_trainset.jpg/1280px-Chennai_Metro_Phase2_trainset.jpg",
+    "credit": "Photo: TamizhanEditor / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "A Chennai Metro Phase 2 train",
+    "alt_hi": "चेन्नई मेट्रो फेज़ 2 की एक ट्रेन",
+    "page": "https://commons.wikimedia.org/wiki/File:Chennai_Metro_Phase2_trainset.jpg"
+  },
+  {
+    "id": "jm-students",
+    "articleId": "protest-is-not-a-threat-to-public-order",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Students_from_All_Over_India_protesting_against_2026_NEET_UG_paper_leak_place_Jantar_Mantar_on_20_July_2026_ahead_of_Parliament_March_21.jpg/1280px-Students_from_All_Over_India_protesting_against_2026_NEET_UG_paper_leak_place_Jantar_Mantar_on_20_July_2026_ahead_of_Parliament_March_21.jpg",
+    "credit": "Photo: Sumita Roy Dutta / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Students protesting at Jantar Mantar, New Delhi, in July 2026 (file photo)",
+    "alt_hi": "जुलाई 2026 में नई दिल्ली के जंतर-मंतर पर प्रदर्शन करते छात्र (फाइल फोटो)",
+    "page": "https://commons.wikimedia.org/wiki/File:Students_from_All_Over_India_protesting_against_2026_NEET_UG_paper_leak_place_Jantar_Mantar_on_20_July_2026_ahead_of_Parliament_March_21.jpg"
+  },
+  {
+    "id": "supreme-court",
+    "articleId": "supreme-court-declines-plea-aiadmk-mlas-disqualification",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Supreme_Court_of_India_01.jpg/1280px-Supreme_Court_of_India_01.jpg",
+    "credit": "Photo: Subhashish Panigrahi / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Supreme Court of India, New Delhi",
+    "alt_hi": "नई दिल्ली में भारत का सुप्रीम कोर्ट",
+    "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_01.jpg"
+  },
+  {
+    "id": "finger-ink",
+    "articleId": "supreme-court-sir-cannot-delay-local-body-polls",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Election_mark_on_index_finger.jpg/1280px-Election_mark_on_index_finger.jpg",
+    "credit": "Photo: Fotokannan / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Indelible ink on a voter's index finger after voting",
+    "alt_hi": "वोट डालने के बाद मतदाता की उंगली पर अमिट स्याही",
+    "page": "https://commons.wikimedia.org/wiki/File:Election_mark_on_index_finger.jpg"
+  },
+  {
+    "id": "sbi-branch",
+    "articleId": "rbi-raises-daily-crr-minimum-to-99-per-cent",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/State_Bank_of_India%2C_Jhunir_branch.jpg/1280px-State_Bank_of_India%2C_Jhunir_branch.jpg",
+    "credit": "Photo: Kuldeepburjbhalaike / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "A State Bank of India branch in Mansa district, Punjab",
+    "alt_hi": "पंजाब के मानसा ज़िले में भारतीय स्टेट बैंक की एक शाखा",
+    "page": "https://commons.wikimedia.org/wiki/File:State_Bank_of_India,_Jhunir_branch.jpg"
+  },
+  {
+    "id": "rahul-gandhi",
+    "articleId": "rahul-gandhi-lunches-with-vijay-day-before-modi-visit",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Rahul_Gandhi_speaking.jpg/1280px-Rahul_Gandhi_speaking.jpg",
+    "credit": "Photo: Sidheeq / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Rahul Gandhi speaking at an event in Karnataka (file photo)",
+    "alt_hi": "कर्नाटक में एक कार्यक्रम में बोलते राहुल गांधी (फाइल फोटो)",
+    "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi_speaking.jpg"
   }
 ]
