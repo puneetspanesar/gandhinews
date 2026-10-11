@@ -326,3 +326,8 @@
 .home .mr li>.ic{width:22px;height:22px}
 .home .op article{display:grid;grid-template-columns:30px 1fr;align-items:start}
 .home .op article>.ic{margin-top:2px}
+
+/* lead infographic on the homepage: four items, two-line notes, so the three columns stay level */
+.home .chartbox .igx li{align-items:center;padding:12px 0}
+.home .chartbox .igx li>span:not(.ic){display:none}
+.home .chartbox .igx .ic{grid-row:auto}
