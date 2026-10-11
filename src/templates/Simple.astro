@@ -1,0 +1,68 @@
+---
+// Placeholders for the homepage and search (built next), plus the saved-stories page.
+import Base from '../layouts/Base.astro';
+import { prefix } from '../lib/site';
+import { UI, SECTION_NAMES, type Lang } from '../lib/i18n';
+import { websiteLd } from '../lib/seo';
+interface Props { lang: Lang; kind: 'home' | 'search' | 'saved'; route: string }
+const { lang, kind, route } = Astro.props;
+const t = UI[lang];
+const p = prefix(lang);
+const links = [
+  ...Object.entries(SECTION_NAMES[lang]).map(([k, v]) => ({ href: `${p}/${k}/`, label: v })),
+  { href: `${p}/explained/`, label: t.explained }, { href: `${p}/fact-check/`, label: t.factCheck },
+  { href: `${p}/opinion/`, label: t.opinion }, { href: `${p}/trackers/`, label: t.trackers }, { href: `${p}/topics/`, label: t.topics },
+];
+const title = kind === 'home' ? t.siteName : kind === 'search' ? t.search : t.savedPage;
+const desc = kind === 'home'
+  ? (lang === 'hi' ? 'गांधी न्यूज़: राजनीति, नीति, अर्थव्यवस्था और संसद पर स्वतंत्र भारतीय पत्रकारिता, अंग्रेज़ी और हिंदी में।' : 'Gandhi News: independent Indian journalism on politics, policy, the economy and Parliament, in English and Hindi.')
+  : kind === 'search' ? t.placeholderSearch : t.savedPage;
+const crumbs = kind === 'home' ? [] : [{ name: t.home, href: `${p}/` }, { name: title, href: route }];
+---
+<Base lang={lang} title={title} description={desc} path={route} crumbs={crumbs} active={kind === 'home' ? 'home' : ''} jsonld={kind === 'home' ? websiteLd(lang) : []}>
+  <div class="w">
+    <div class="ph-page">
+      {kind === 'home' && <><h1>{t.siteName}</h1><p>{t.placeholderHome}</p></>}
+      {kind === 'search' && (
+        <>
+          <h1>{t.search}</h1>
+          <p>{t.placeholderSearch}</p>
+        </>
+      )}
+      {kind === 'saved' && (
+        <>
+          <h1>{t.savedPage}</h1>
+          <p data-empty>{t.savedEmpty}</p>
+          <ul class="saved-list" data-saved data-lang={lang} data-remove={t.remove} style="margin-top:20px"></ul>
+        </>
+      )}
+      {kind !== 'saved' && <nav class="ph-links" aria-label={t.sections}>{links.map((l) => <a href={l.href}>{l.label}</a>)}</nav>}
+    </div>
+  </div>
+  {kind === 'saved' && (
+    <script>
+      const ul = document.querySelector<HTMLElement>('[data-saved]');
+      const empty = document.querySelector<HTMLElement>('[data-empty]');
+      const KEY = 'gn:saved';
+      const read = (): any[] => { try { return JSON.parse(localStorage.getItem(KEY) || '[]'); } catch { return []; } };
+      const render = () => {
+        if (!ul) return;
+        const items = read();
+        if (empty) empty.hidden = items.length > 0;
+        ul.replaceChildren(...items.map((x) => {
+          const li = document.createElement('li');
+          const d = document.createElement('div');
+          const k = document.createElement('span'); k.className = 'k'; k.textContent = x.kicker || '';
+          const a = document.createElement('a'); a.href = x.path;
+          const h = document.createElement('h3'); h.textContent = x.title; if (x.lang === 'hi') h.lang = 'hi';
+          a.append(h); d.append(k, a);
+          const b = document.createElement('button'); b.type = 'button'; b.textContent = ul.dataset.remove || 'Remove';
+          b.addEventListener('click', () => { try { localStorage.setItem(KEY, JSON.stringify(read().filter((y) => y.path !== x.path))); } catch {} render(); });
+          li.append(d, b);
+          return li;
+        }));
+      };
+      render();
+    </script>
+  )}
+</Base>

@@ -1,0 +1,346 @@
+{
+  "meta": {
+    "title": "सुप्रीम कोर्ट के बड़े मामलों का ट्रैकर",
+    "as_of": "2026-10-11",
+    "compiled_by": "गांधी न्यूज़ संपादकीय डेस्क",
+    "status_values": [
+      "pending",
+      "reserved",
+      "referred_to_larger_bench",
+      "partly_decided",
+      "decided",
+      "disposed",
+      "challenge_announced"
+    ],
+    "notes": [
+      "तारीखें आईएसओ प्रारूप में हैं; 'YYYY-MM' का मतलब है कि महीना पता है, दिन नहीं।",
+      "bench_size उस पीठ का आकार है जिसने आखिरी बार मामले की सुनवाई की या फैसला दिया; स्रोतों में न बताए जाने पर null।"
+    ],
+    "status_labels_hi": {
+      "pending": "लंबित",
+      "reserved": "फैसला सुरक्षित",
+      "referred_to_larger_bench": "बड़ी पीठ को भेजा गया",
+      "partly_decided": "आंशिक रूप से तय",
+      "decided": "तय",
+      "disposed": "निपटाया गया",
+      "challenge_announced": "चुनौती की घोषणा"
+    }
+  },
+  "cases": [
+    {
+      "id": "ec-appointments-law",
+      "case": "Jaya Thakur v. Union of India (challenge to the Chief Election Commissioner and Other Election Commissioners Act, 2023)",
+      "issue": "क्या 2023 के अधिनियम की धारा 6 और 7, जिन्होंने सीईसी और चुनाव आयुक्तों को चुनने वाली समिति से भारत के मुख्य न्यायाधीश को हटा दिया, चुनाव आयोग की स्वतंत्रता से समझौता करती हैं।",
+      "bench_size": 2,
+      "bench": "जस्टिस दीपांकर दत्ता और एस.सी. शर्मा (मुख्य न्यायाधीश सूर्यकांत 20 मार्च 2026 को सुनवाई से अलग हुए)",
+      "status": "referred_to_larger_bench",
+      "status_text": "संविधान पीठ को भेजा गया",
+      "last_date": "2026-09-23",
+      "last_event": "दोनों जज इस पर बंट गए कि बड़ी पीठ की ज़रूरत है या नहीं, फिर सर्वसम्मति से कागज़ात मुख्य न्यायाधीश को भेजे ताकि संविधान पीठ गठित की जा सके। फैसला 30 जुलाई 2026 को सुरक्षित रखा गया था।",
+      "next_step": "संविधान पीठ का गठन होना है; सुनवाई की कोई तारीख घोषित नहीं। अलग से, 5 अक्टूबर 2026 को मुख्य न्यायाधीश सूर्यकांत और जस्टिस जॉयमाल्य बागची और वी. मोहना की पीठ ने एक याचिका पर केंद्र और ईसीआई को नोटिस जारी किया। याचिका में पूछा गया है कि क्या सीईसी ज्ञानेश कुमार पूरे आयोग को मिली शक्तियों का अकेले इस्तेमाल कर सकते हैं। पीठ ने कहा, 'फॉर्म 6 में किसी भी बदलाव को हमने मंजूरी नहीं दी है' (आईएएनएस; पीटीआई)।",
+      "sources": [
+        {
+          "title": "SCO case page: Jaya Thakur v Union of India",
+          "publisher": "Supreme Court Observer",
+          "date": "2026-09-23",
+          "url": "https://www.scobserver.in/cases/jaya-thakur-v-union-of-india-challenges-to-the-appointments-of-election-commissioners-act-2023-eci/"
+        },
+        {
+          "title": "Supreme Court Observer, Monthly Review: September 2026",
+          "publisher": "Supreme Court Observer",
+          "date": "2026-09-30",
+          "url": "https://www.scobserver.in/journal/monthly-review-september-2026/amp/"
+        },
+        {
+          "title": "ECI's Sep 26 SIR press note never taken down from website: PIB Fact Check",
+          "publisher": "SocialNews.XYZ (IANS)",
+          "date": "2026-10-05",
+          "url": "https://www.socialnews.xyz/2026/10/05/ecis-sep-26-sir-press-note-never-taken-down-from-website-pib-fact-check-lead/"
+        }
+      ],
+      "case_hi": "जया ठाकुर बनाम भारत संघ (मुख्य चुनाव आयुक्त और अन्य चुनाव आयुक्त अधिनियम, 2023 को चुनौती)",
+      "status_hi": "बड़ी पीठ को भेजा गया"
+    },
+    {
+      "id": "definition-of-industry",
+      "case": "State of Uttar Pradesh v. Jai Bir Singh",
+      "issue": "क्या औद्योगिक विवाद अधिनियम की धारा 2(j) के तहत 'उद्योग' किसे माना जाए, इसके लिए 1978 के बैंगलोर वॉटर सप्लाई टेस्ट पर दोबारा विचार किया जाए।",
+      "bench_size": 9,
+      "bench": "मुख्य न्यायाधीश सूर्यकांत की अगुवाई में नौ जज",
+      "status": "decided",
+      "status_text": "तय, बंटा हुआ फैसला",
+      "last_date": "2026-08-20",
+      "last_event": "चार जजों ने मुख्य न्यायाधीश के 'स्पष्ट व्यावसायिक स्वरूप' (discernible commercial character) वाले सीमित टेस्ट का समर्थन किया; चार (नागरत्ना, दत्ता, भुइयां, बागची) ने 1978 के टेस्ट का समर्थन किया; जस्टिस पी.एस. नरसिम्हा ने 1978 के टेस्ट को नहीं छेड़ा, क्योंकि औद्योगिक विवाद अधिनियम रद्द हो चुका है। औद्योगिक विवाद अधिनियम के लंबित विवादों पर 1978 का टेस्ट लागू रहेगा।",
+      "next_step": "इस मामले में कोई नहीं। औद्योगिक संबंध संहिता, 2020 की परिभाषा को उसकी अपनी शर्तों पर पढ़ा जाएगा।",
+      "sources": [
+        {
+          "title": "Supreme Court Observer, 2026 | Monsoon session review",
+          "publisher": "Supreme Court Observer",
+          "date": "2026-09-30",
+          "url": "https://scobserver.in/journal/2026-monsoon-session-review"
+        },
+        {
+          "title": "Justice B.V. Nagarathna's opinion (PDF)",
+          "publisher": "Supreme Court Observer",
+          "url": "https://www.scobserver.in/wp-content/uploads/2026/08/Justice-BV-Nagarathna-Opinion-Definition-of-Industry-State-of-UP-v-Jai-Bir-Singh.pdf"
+        }
+      ],
+      "notes": "एससीओ के मुताबिक संदर्भ की स्वीकार्यता पर फैसला 6:3 से और टेस्ट बदलने पर 4:4 से बंटा। एससीओ की समीक्षा में 4:4 के बंटवारे में दोनों तरफ के जजों के नाम नहीं हैं; यहां दिए नाम प्रकाशित फैसलों पर आधारित हैं और उनकी दोबारा जांच नहीं हुई।",
+      "case_hi": "उत्तर प्रदेश राज्य बनाम जय बीर सिंह",
+      "status_hi": "तय"
+    },
+    {
+      "id": "sabarimala-reference",
+      "case": "Sabarimala reference (review of the 2018 women's entry judgment and connected religious-freedom questions)",
+      "issue": "अनुच्छेद 25 और 26 के तहत धर्म की स्वतंत्रता का दायरा, अनिवार्य धार्मिक प्रथाओं का सिद्धांत और 'संवैधानिक नैतिकता'; इस संदर्भ में दाऊदी बोहरा और पारसी महिलाओं से जुड़े मामले भी शामिल हैं।",
+      "bench_size": 9,
+      "bench": "मुख्य न्यायाधीश सूर्यकांत और जस्टिस बी.वी. नागरत्ना, एम.एम. सुंदरेश, अहसानुद्दीन अमानुल्लाह, अरविंद कुमार, ऑगस्टीन जॉर्ज मसीह, प्रसन्ना बी. वराले, आर. महादेवन और जॉयमाल्य बागची",
+      "status": "reserved",
+      "status_text": "फैसला सुरक्षित",
+      "last_date": "2026-05-14",
+      "last_event": "16 दिन की सुनवाई के बाद फैसला सुरक्षित रखा गया।",
+      "next_step": "फैसला। मुख्य न्यायाधीश ने अगस्त में संकेत दिया था कि यह 6 अक्टूबर 2026 तक आ सकता है (लाइवलॉ, केरल कौमुदी); 11 अक्टूबर 2026 तक कोई फैसला नहीं मिला।",
+      "sources": [
+        {
+          "title": "Supreme Court Observer, 2026 | Summer session review",
+          "publisher": "Supreme Court Observer",
+          "date": "2026-06-30",
+          "url": "https://www.scobserver.in/journal/2026-summer-session-review/"
+        },
+        {
+          "title": "Supreme Court To Hear Bodh Gaya Temple Act Challenge After Sabarimala Reference Verdict; Posted In October",
+          "publisher": "LiveLaw",
+          "date": "2026-08-11",
+          "url": "https://www.livelaw.in/top-stories/supreme-court-sabarimala-reference-9-judge-decision-likely-in-october-bodh-gaya-temple-act-constitutionality-challenge-deferred-545383"
+        },
+        {
+          "title": "Sabarimala women entry verdict in October first week",
+          "publisher": "Kerala Kaumudi",
+          "date": "2026-08-12",
+          "url": "https://keralakaumudi.com/en/india/general/sabarimala-women-entry-verdict-october-first-week-1790839"
+        }
+      ],
+      "case_hi": "सबरीमला संदर्भ (महिलाओं के प्रवेश पर 2018 के फैसले की समीक्षा और धार्मिक स्वतंत्रता से जुड़े संबंधित सवाल)",
+      "status_hi": "फैसला सुरक्षित"
+    },
+    {
+      "id": "legislative-privilege-free-speech",
+      "case": "N. Ravi v. Speaker, Tamil Nadu Legislative Assembly",
+      "issue": "क्या अनुच्छेद 194 के तहत विधायी विशेषाधिकार अनुच्छेद 19(1)(a) के तहत अभिव्यक्ति की आज़ादी से ऊपर है; यह मामला एक संपादकीय को लेकर द हिंदू के संपादकों को गिरफ्तार करने के तमिलनाडु विधानसभा के 2003 के आदेश से उठा था।",
+      "bench_size": 7,
+      "bench": "मुख्य न्यायाधीश सूर्यकांत और जस्टिस अरविंद कुमार, पी.के. मिश्रा, जॉयमाल्य बागची, विपुल पंचोली, श्री चंद्रशेखर और वी. मोहना",
+      "status": "disposed",
+      "status_text": "निष्प्रभावी मानकर निपटाया गया; कानूनी सवाल खुले छोड़े गए",
+      "last_date": "2026-10-06",
+      "last_event": "संदर्भ बंद किया गया, क्योंकि विधानसभा का प्रस्ताव 2004 में वापस ले लिया गया था।",
+      "next_step": "कोई नहीं। कानूनी सवाल किसी भविष्य के मामले का इंतज़ार कर रहा है।",
+      "sources": [
+        {
+          "title": "Supreme Court 7-Judge Bench Disposes Reference On Legislative Privilege As Infructuous",
+          "publisher": "LiveLaw",
+          "date": "2026-10-06",
+          "url": "https://www.livelaw.in/top-stories/supreme-court-7-judge-reference-on-legislative-privilege-free-speech-interplay-closed-as-2003-tamil-nadu-assembly-decision-withdrawn-553277"
+        },
+        {
+          "title": "Seven-judge Bench to hear challenge on law makers immunity from 6 October 2026",
+          "publisher": "Supreme Court Observer",
+          "date": "2026-08-12",
+          "url": "https://www.scobserver.in/reports/seven-judge-bench-to-hear-challenge-on-law-markers-immunity-from-6-october-2026/"
+        }
+      ],
+      "case_hi": "एन. रवि बनाम अध्यक्ष, तमिलनाडु विधानसभा",
+      "status_hi": "निपटाया गया"
+    },
+    {
+      "id": "sir-electoral-rolls",
+      "case": "Association for Democratic Reforms v. Election Commission of India and connected SIR petitions",
+      "issue": "बिहार और बाद के चरणों में मतदाता सूचियों के विशेष गहन पुनरीक्षण (एसआईआर) की वैधता।",
+      "bench_size": 2,
+      "bench": "मुख्य न्यायाधीश सूर्यकांत और जस्टिस जॉयमाल्य बागची (बिहार पर फैसला)",
+      "status": "partly_decided",
+      "status_text": "बिहार एसआईआर सही ठहराया गया; बाद के चरणों की चुनौतियां लंबित",
+      "last_date": "2026-09",
+      "last_event": "दिल्ली की एक याचिका पर नोटिस जारी हुआ, जिसमें आरोप है कि एसआईआर के नोटिस यांत्रिक तरीके से जारी किए गए। अगस्त में कोर्ट ने ईसीआई को पश्चिम बंगाल में लंबित अपीलों का ब्योरा देने का निर्देश दिया। 27 मई 2026 को बिहार एसआईआर को सर्वसम्मति से सही ठहराया गया।",
+      "next_step": "दिल्ली और पश्चिम बंगाल के मामलों पर सुनवाई; मिले स्रोतों में कोई तारीख नहीं।",
+      "sources": [
+        {
+          "title": "Supreme Court Observer, 2026 | Summer session review",
+          "publisher": "Supreme Court Observer",
+          "date": "2026-06-30",
+          "url": "https://www.scobserver.in/journal/2026-summer-session-review/"
+        },
+        {
+          "title": "Supreme Court Observer, 2026 | Monsoon session review",
+          "publisher": "Supreme Court Observer",
+          "date": "2026-09-30",
+          "url": "https://scobserver.in/journal/2026-monsoon-session-review"
+        },
+        {
+          "title": "Supreme Court Observer, Monthly Review: September 2026",
+          "publisher": "Supreme Court Observer",
+          "date": "2026-09-30",
+          "url": "https://www.scobserver.in/journal/monthly-review-september-2026/amp/"
+        }
+      ],
+      "notes": "एससीओ ने सितंबर के नोटिस की सटीक तारीख नहीं बताई।",
+      "case_hi": "एसोसिएशन फॉर डेमोक्रेटिक रिफॉर्म्स बनाम भारत निर्वाचन आयोग और एसआईआर से जुड़ी अन्य याचिकाएं",
+      "status_hi": "आंशिक रूप से तय"
+    },
+    {
+      "id": "neet-protest-firs",
+      "case": "NEET-UG 2026 protest FIRs (Jantar Mantar protests of 20 July 2026)",
+      "issue": "क्या नीट-यूजी पेपर लीक के खिलाफ प्रदर्शन करने वाले छात्रों पर देशभर में दर्ज एफआईआर रद्द की जाएं।",
+      "bench_size": 3,
+      "bench": "मुख्य न्यायाधीश सूर्यकांत और जस्टिस जॉयमाल्य बागची और वी. मोहना",
+      "status": "decided",
+      "status_text": "अनुच्छेद 142 के तहत एफआईआर रद्द; संबंधित मामले लंबित",
+      "last_date": "2026-09-16",
+      "last_event": "1 सितंबर 2026 को कोर्ट ने 20-25 जुलाई की घटनाओं से जुड़ी एफआईआर रद्द कीं और नई एफआईआर पर रोक लगाई, सिवाय दिल्ली पुलिस की उस एक एफआईआर के जो कथित 'गंभीर आपराधिक पृष्ठभूमि' वाले 2,873 लोगों के खिलाफ है, और कहा कि यह आदेश नज़ीर नहीं बनेगा। 16 सितंबर को कोर्ट ने पुलिस ज़्यादतियों पर बनी उच्चाधिकार जांच समिति (18 अगस्त को गठित) को फिर से गठित करने की याचिका को समय से पहले बताकर खारिज कर दिया।",
+      "next_step": "केंद्र को 1 सितंबर 2026 से तीन महीने के भीतर मुआवज़ा नीति बनानी है, जिसमें आत्महत्या करने वाले छात्रों के परिवार भी शामिल हों।",
+      "sources": [
+        {
+          "title": "SC quashes Jantar Mantar protest FIRs across India, permits fresh FIR against 2873",
+          "publisher": "Supreme Court Observer",
+          "date": "2026-09-01",
+          "url": "https://www.scobserver.in/journal/sc-quashes-jantar-mantar-protest-firs-across-india-permits-fresh-fir-against-2873/"
+        },
+        {
+          "title": "Supreme Court Observer, Monthly Review: September 2026",
+          "publisher": "Supreme Court Observer",
+          "date": "2026-09-30",
+          "url": "https://www.scobserver.in/journal/monthly-review-september-2026/amp/"
+        }
+      ],
+      "case_hi": "नीट-यूजी 2026 प्रदर्शन एफआईआर (20 जुलाई 2026 के जंतर मंतर प्रदर्शन)",
+      "status_hi": "तय"
+    },
+    {
+      "id": "mines-state-taxing-powers",
+      "case": "States' power to tax minerals: Mineral Area Development Authority v. Steel Authority of India (2024) and the MMDR (Amendment) Act, 2026",
+      "issue": "2024 में नौ जजों के फैसले में राज्यों की कर लगाने की शक्ति को सही ठहराए जाने के बाद, क्या संसद राज्यों को खनिज अधिकारों और खनिज वाली ज़मीन पर कर लगाने से रोक सकती है।",
+      "bench_size": 9,
+      "bench": "नौ जजों की संविधान पीठ (2024 का फैसला)",
+      "status": "challenge_announced",
+      "status_text": "2026 के संशोधन को चुनौती की घोषणा; याचिका दाखिल होने की पुष्टि नहीं",
+      "last_date": "2026-08-20",
+      "last_event": "कर्नाटक, केरल और तेलंगाना ने कहा कि वे एमएमडीआर (संशोधन) अधिनियम, 2026 को मिलकर सुप्रीम कोर्ट में चुनौती देंगे; कांग्रेस के जयराम रमेश ने कहा कि याचिका तैयार है।",
+      "next_step": "राज्यों की याचिका दाखिल होना; 11 अक्टूबर 2026 तक सुनवाई के लिए सूचीबद्ध होने की कोई जानकारी नहीं।",
+      "sources": [
+        {
+          "title": "Congress-ruled states to jointly challenge MMDR Act in Supreme Court",
+          "publisher": "Business Standard",
+          "date": "2026-08-20",
+          "url": "https://www.business-standard.com/politics/congress-ruled-states-to-jointly-challenge-mmdr-act-in-supreme-court-126082001246_1.html"
+        },
+        {
+          "title": "The Mines and Minerals (Development and Regulation) Amendment Bill, 2026",
+          "publisher": "PRS Legislative Research",
+          "url": "https://prsindia.org/billtrack/the-mines-and-minerals-development-and-regulation-amendment-bill-2026"
+        },
+        {
+          "title": "Ergo note on the MMDR Amendment, 21 Aug 2026",
+          "publisher": "Khaitan & Co",
+          "date": "2026-08-21",
+          "url": "https://www.khaitanco.com/sites/default/files/2026-08/Ergo_Mines%20and%20Minerals%20(Developement%20and%20Regulation)%20Amendment_21082026.pdf"
+        }
+      ],
+      "notes": "पीआरएस ने ध्यान दिलाया है कि 2026 का कानून 2024 के फैसले से टकरा सकता है। पढ़े गए स्रोतों में 2024 के फैसले की सटीक तारीख और जजों के बंटवारे की पुष्टि नहीं हुई।",
+      "case_hi": "खनिजों पर कर लगाने की राज्यों की शक्ति: खनिज क्षेत्र विकास प्राधिकरण बनाम स्टील अथॉरिटी ऑफ इंडिया (2024) और एमएमडीआर (संशोधन) अधिनियम, 2026",
+      "status_hi": "चुनौती की घोषणा"
+    },
+    {
+      "id": "state-turnover-tax-reference",
+      "case": "Arjun Floor Mills v. State of Orissa",
+      "issue": "सालाना टर्नओवर के आधार पर डीलरों पर उड़ीसा के अतिरिक्त कर की वैधता (₹10 लाख से ₹1 करोड़ पर 10%, ₹1 करोड़ से ऊपर 15%); राज्य का तर्क है कि 2017 के कर बदलावों के बाद यह संदर्भ सिर्फ अकादमिक रह गया है।",
+      "bench_size": 7,
+      "bench": "सात जजों की संविधान पीठ (स्रोत में सदस्यों के नाम नहीं)",
+      "status": "reserved",
+      "status_text": "फैसला सुरक्षित",
+      "last_date": "2026-09-22",
+      "last_event": "एक दिन की सुनवाई के बाद फैसला सुरक्षित रखा गया।",
+      "next_step": "फैसला।",
+      "sources": [
+        {
+          "title": "Supreme Court Observer, Monthly Review: September 2026",
+          "publisher": "Supreme Court Observer",
+          "date": "2026-09-30",
+          "url": "https://www.scobserver.in/journal/monthly-review-september-2026/amp/"
+        }
+      ],
+      "case_hi": "अर्जुन फ्लोर मिल्स बनाम उड़ीसा राज्य",
+      "status_hi": "फैसला सुरक्षित"
+    },
+    {
+      "id": "transgender-amendment-challenge",
+      "case": "Challenges to the Transgender Persons (Protection of Rights) Amendment Act, 2026",
+      "issue": "2026 के उस संशोधन की वैधता, जो ट्रांसजेंडर व्यक्ति की परिभाषा की जगह सूचीबद्ध श्रेणियां लाता है और पहचान प्रमाणपत्रों की मेडिकल बोर्ड से समीक्षा जोड़ता है।",
+      "bench_size": null,
+      "bench": "स्रोत में नहीं बताया गया",
+      "status": "pending",
+      "status_text": "लंबित; अंतरिम रोक से इनकार",
+      "last_date": "2026-08",
+      "last_event": "केंद्र ने कोर्ट को भरोसा दिलाया कि मौजूदा पहचान पत्र अंतरिम तौर पर मान्य रहेंगे। इससे पहले कोर्ट ने अंतरिम रोक से इनकार किया (मई) और 15 जून को हाईकोर्ट (उच्च न्यायालय) में दायर चुनौतियों को अपने पास मंगाने की केंद्र की याचिका पर नोटिस जारी किया।",
+      "next_step": "मामलों के स्थानांतरण और गुण-दोष पर सुनवाई; मिले स्रोतों में कोई तारीख नहीं।",
+      "sources": [
+        {
+          "title": "Supreme Court Observer, 2026 | Monsoon session review",
+          "publisher": "Supreme Court Observer",
+          "date": "2026-09-30",
+          "url": "https://scobserver.in/journal/2026-monsoon-session-review"
+        }
+      ],
+      "case_hi": "ट्रांसजेंडर व्यक्ति (अधिकारों का संरक्षण) संशोधन अधिनियम, 2026 को चुनौतियां",
+      "status_hi": "लंबित"
+    },
+    {
+      "id": "deputy-speaker-delay",
+      "case": "Petition on the failure to elect a Lok Sabha Deputy Speaker",
+      "issue": "क्या उपाध्यक्ष के चुनाव में देरी संविधान का उल्लंघन है; यह पद जून 2019 से खाली है।",
+      "bench_size": null,
+      "bench": "स्रोत में नहीं बताया गया",
+      "status": "pending",
+      "status_text": "फरवरी 2023 में नोटिस के बाद से लंबित",
+      "last_date": "2023-02",
+      "last_event": "सुप्रीम कोर्ट ने केंद्र को नोटिस जारी किया।",
+      "next_step": "मिले स्रोतों में सुनवाई की कोई तारीख नहीं।",
+      "sources": [
+        {
+          "title": "Functioning of Parliament during Monsoon Session 2026",
+          "publisher": "PRS Legislative Research",
+          "url": "https://prsindia.org/parliamenttrack/vital-stats/functioning-of-parliament-during-monsoon-session-2026"
+        },
+        {
+          "title": "Parliament functioning in Monsoon Session 2025",
+          "publisher": "PRS Legislative Research",
+          "url": "https://prsindia.org/parliamenttrack/vital-stats/parliament-functioning-in-monsoon-session-2025"
+        }
+      ],
+      "notes": "पीआरएस ने मामले का नाम नहीं बताया।",
+      "case_hi": "लोकसभा उपाध्यक्ष का चुनाव न होने पर याचिका",
+      "status_hi": "लंबित"
+    },
+    {
+      "id": "district-judges-retirement-age",
+      "case": "Retirement age of district judges (All India Judges' Association line of cases)",
+      "issue": "क्या ज़िला जजों की सेवानिवृत्ति की उम्र 60 से बढ़ाकर 62 की जाए।",
+      "bench_size": 3,
+      "bench": "मुख्य न्यायाधीश सूर्यकांत और जस्टिस जॉयमाल्य बागची और वी. मोहना",
+      "status": "decided",
+      "status_text": "तय",
+      "last_date": "2026-09-01",
+      "last_event": "सात राज्यों को सेवा नियमों में संशोधन कर उम्र 62 करने का निर्देश दिया गया; 31 मार्च 2026 को या उसके बाद सेवानिवृत्त हुए अधिकारी शर्तों के साथ फिर से सेवा में आने का विकल्प चुन सकते हैं।",
+      "next_step": "राज्यों को अपने नियमों में संशोधन करना है; कोई समय-सीमा नहीं बताई गई।",
+      "sources": [
+        {
+          "title": "Supreme Court Observer, Monthly Review: September 2026",
+          "publisher": "Supreme Court Observer",
+          "date": "2026-09-30",
+          "url": "https://www.scobserver.in/journal/monthly-review-september-2026/amp/"
+        }
+      ],
+      "notes": "एससीओ ने 2026 के आदेश का मामला-शीर्षक नहीं दिया; 2002 के ऑल इंडिया जजेज़ एसोसिएशन फैसले का हवाला पृष्ठभूमि के तौर पर दिया गया है।",
+      "case_hi": "ज़िला जजों की सेवानिवृत्ति की उम्र (ऑल इंडिया जजेज़ एसोसिएशन से जुड़े मामले)",
+      "status_hi": "तय"
+    }
+  ]
+}

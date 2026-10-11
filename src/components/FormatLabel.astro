@@ -1,0 +1,18 @@
+---
+import { labelParts, prefix } from '../lib/site';
+import { UI, type Lang } from '../lib/i18n';
+interface Props { data: any }
+const d = Astro.props.data;
+const lang: Lang = d.lang;
+const t = UI[lang];
+const p = prefix(lang);
+const hubHref: Record<string, string> = {
+  news: `${p}/${d.section}/`, explainer: `${p}/explained/`, factcheck: `${p}/fact-check/`,
+  editorial: `${p}/opinion/`, topic: `${p}/topics/`, tracker: `${p}/trackers/`,
+};
+const parts = d.type === 'editorial' ? [t.opinion, t.ourView] : labelParts(d.format_label);
+---
+<p class="fmt">
+  <a href={hubHref[d.type]} class={d.type === 'factcheck' ? 'red' : undefined}>{parts[0]}</a>
+  {parts.slice(1).map((x) => <><span class="sep2" aria-hidden="true">/</span><span>{x}</span></>)}
+</p>

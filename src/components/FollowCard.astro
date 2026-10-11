@@ -1,0 +1,14 @@
+---
+import Icon from './Icon.astro';
+import { UI, type Lang } from '../lib/i18n';
+import { urlOf } from '../lib/site';
+interface Props { lang: Lang; topic: any; label?: string }
+const { lang, topic } = Astro.props;
+const t = UI[lang];
+---
+<section class="follow">
+  <span class="k">{Astro.props.label ?? t.topic}</span>
+  <h3>{topic.data.title}</h3>
+  <p>{topic.data.standfirst}</p>
+  <a class="fbtn" href={urlOf(topic.data)}><Icon name="bell-simple" />{t.followTopic}</a>
+</section>

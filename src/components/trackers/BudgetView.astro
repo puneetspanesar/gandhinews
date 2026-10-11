@@ -1,0 +1,53 @@
+---
+import { fmtShort } from '../../lib/site';
+import { tr } from '../../lib/data';
+import type { Lang } from '../../lib/i18n';
+interface Props { lang: Lang; data: any }
+const { lang, data } = Astro.props;
+const hi = lang === 'hi';
+const ORDER = ['delivered', 'in progress', 'no update found'];
+const cls: Record<string, string> = { delivered: 's-delivered', 'in progress': 's-progress', 'no update found': 's-none' };
+const color: Record<string, string> = { delivered: '#12804a', 'in progress': '#0d0d0d', 'no update found': '#d4d4d4' };
+const label = (s: string) => (hi ? data.status_labels_hi?.[s] : null) ?? s.charAt(0).toUpperCase() + s.slice(1);
+const L = hi
+  ? { all: 'सभी', ref: 'संदर्भ', checked: 'आखिरी जांच', source: 'स्रोत', previous: 'पिछले बजट का वादा', filter: 'स्थिति के हिसाब से छांटें', promises: 'वादे' }
+  : { all: 'All', ref: 'Reference', checked: 'Last checked', source: 'Sources', previous: 'From the previous Budget', filter: 'Filter by status', promises: 'promises' };
+const promises = data.promises;
+const counts = ORDER.map((s) => ({ s, n: promises.filter((p: any) => p.status === s).length }));
+const all = [...promises.map((p: any) => ({ ...p, prev: false })), ...(data.previous_budget ?? []).map((p: any) => ({ ...p, prev: true }))];
+---
+<div class="sum" style="--n:4">
+  <div><b class="num">{promises.length}</b>{hi ? 'बजट 2026-27 के वादे' : 'Budget 2026-27 promises'}</div>
+  {counts.map((c) => <div><b class="num">{c.n}</b><i class="dot" style={`background:${color[c.s]}`}></i>{label(c.s)}</div>)}
+</div>
+<div class="sbar" aria-hidden="true">{counts.map((c) => <i style={`flex:${c.n};background:${color[c.s]}`}></i>)}</div>
+<div class="filters" role="group" aria-label={L.filter} data-filters>
+  <button type="button" aria-pressed="true" data-f="all">{L.all} <b class="num">{all.length}</b></button>
+  {ORDER.map((s) => <button type="button" aria-pressed="false" data-f={s}>{label(s)} <b class="num">{all.filter((p) => p.status === s).length}</b></button>)}
+</div>
+<div class="plist" aria-live="polite">
+  {all.map((p) => (
+    <article class="prow" id={p.id} data-status={p.status}>
+      <div>
+        <h4>{p.text}</h4>
+        <p class="meta2">{[p.prev ? L.previous : null, tr(p, 'category', lang), tr(p, 'ministry', lang), p.budget_speech_reference].filter(Boolean).join(' · ')}</p>
+        {p.progress_note && <p>{p.progress_note}</p>}
+        <p class="src">{L.source}: {p.sources.map((s: any, i: number) => <>{i > 0 && ' · '}<a href={s.url} target="_blank" rel="noopener">{s.publisher}</a>{s.date && `, ${fmtShort(s.date, lang)}`}</>)}{p.last_checked && <> · {L.checked} {fmtShort(p.last_checked, lang)}</>}</p>
+      </div>
+      <div><span class={`chip ${cls[p.status] ?? ''}`}><i></i>{label(p.status)}</span></div>
+    </article>
+  ))}
+</div>
+<ul class="trk-notes">{ORDER.map((s) => <li><b style="color:var(--ink2)">{label(s)}:</b> {data.status_definitions[s]}</li>)}</ul>
+<script>
+  document.querySelectorAll<HTMLElement>('[data-filters]').forEach((box) => {
+    const rows = document.querySelectorAll<HTMLElement>('.prow');
+    box.addEventListener('click', (e) => {
+      const b = (e.target as HTMLElement).closest('button');
+      if (!b) return;
+      box.querySelectorAll('button').forEach((x) => x.setAttribute('aria-pressed', String(x === b)));
+      const f = b.dataset.f;
+      rows.forEach((r) => { r.hidden = f !== 'all' && r.dataset.status !== f; });
+    });
+  });
+</script>

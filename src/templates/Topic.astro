@@ -1,0 +1,54 @@
+---
+import Base from '../layouts/Base.astro';
+import FormatLabel from '../components/FormatLabel.astro';
+import Byline from '../components/Byline.astro';
+import Sources from '../components/Sources.astro';
+import RailList from '../components/RailList.astro';
+import ListCard from '../components/ListCard.astro';
+import { content, prefix, kicker } from '../lib/site';
+import { UI, type Lang } from '../lib/i18n';
+import { collectionLd } from '../lib/seo';
+
+interface Props { lang: Lang; id: string; route: string }
+const { lang, id, route } = Astro.props;
+const c = (await content())[lang];
+const e = c.all.get(id)!;
+const d: any = e.data;
+const t = UI[lang];
+const p = prefix(lang);
+const html: string = (e as any).rendered?.html ?? '';
+
+const tagged = [...c.articles, ...c.trackers].filter((x: any) => x.data.topics.includes(id));
+const taggedIds = new Set(tagged.map((x: any) => x.data.id));
+const relatedExtra = d.related.map((r: string) => c.all.get(r)).filter((x: any) => x && !taggedIds.has(x.data.id) && x.data.id !== id);
+const otherTopics = c.topics.filter((x: any) => x.data.id !== id);
+const crumbs = [{ name: t.home, href: `${p}/` }, { name: t.topics, href: `${p}/topics/` }, { name: d.title, href: route }];
+---
+<Base lang={lang} title={d.title} description={d.seo.description} path={route} crumbs={crumbs} active="topics"
+  jsonld={[collectionLd(d.title, d.seo.description, route, lang, tagged)]}
+  article={{ published: d.published, modified: d.updated ?? d.published, section: t.topic, tags: d.topics }}>
+  <div class="w">
+    <div class="art">
+      <article>
+        <header class="ah">
+          <FormatLabel data={d} />
+          <h1>{d.title}</h1>
+          <p class="stand">{d.standfirst}</p>
+          <Byline lang={lang} published={d.published} updated={d.updated} title={d.title} path={route} kicker={kicker(d)} />
+        </header>
+        <div class="body" set:html={html} />
+        {tagged.length > 0 && (
+          <section class="tr-sec" aria-labelledby="cov-h" style="margin-top:12px">
+            <h2 id="cov-h" class="rh">{t.allCoverage} <span class="m" style="font-family:var(--f-body);font-weight:500;margin-left:6px">{tagged.length} {t.stories}</span></h2>
+            {tagged.map((x: any) => <ListCard entry={x} lang={lang} compact />)}
+          </section>
+        )}
+        <Sources lang={lang} sources={d.sources} />
+      </article>
+      <aside class="rail" aria-label={t.related}>
+        <RailList title={t.related} items={relatedExtra.slice(0, 5)} />
+        <div class="stick"><RailList title={t.topics} items={otherTopics.slice(0, 6)} /></div>
+      </aside>
+    </div>
+  </div>
+</Base>

@@ -1,0 +1,23 @@
+{
+  "name": "gandhinews",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "clean": "rm -rf .astro node_modules/.astro dist"
+  },
+  "dependencies": {
+    "@astrojs/markdown-remark": "^7.3.2",
+    "@astrojs/rss": "^4.0.19",
+    "@astrojs/sitemap": "^3.7.4",
+    "astro": "^7.3.8",
+    "unist-util-visit": "^5.1.0"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}

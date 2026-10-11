@@ -1,0 +1,606 @@
+{
+  "id": "economy-dashboard",
+  "title": "India economy dashboard",
+  "as_of": "2026-10-11",
+  "updated": "2026-10-11T09:00:00+05:30",
+  "notes": "Every value is taken from the source named in its row. verified_primary is true only when the figure was read in a primary release (RBI, MoSPI, PIB, Ministry of Finance). Values the research desk marked as derived are not included.",
+  "indicators": [
+    {
+      "id": "gdp-growth",
+      "name": "Real GDP growth",
+      "latest_value": 7.8,
+      "unit": "% year on year",
+      "period": "Apr-Jun 2026 (Q1 2026-27)",
+      "release_date": "2026-08-31",
+      "change_vs_previous": {
+        "basis": "same quarter a year earlier",
+        "previous_value": 6.9,
+        "previous_period": "Apr-Jun 2025",
+        "change": 0.9,
+        "change_unit": "percentage points"
+      },
+      "history": [
+        {
+          "period": "Apr-Jun 2025",
+          "value": 6.9
+        },
+        {
+          "period": "Apr-Jun 2026",
+          "value": 7.8
+        }
+      ],
+      "annual_history": [
+        {
+          "period": "2023-24",
+          "value": 7.3
+        },
+        {
+          "period": "2024-25",
+          "value": 7.2
+        },
+        {
+          "period": "2025-26",
+          "value": 7.8
+        }
+      ],
+      "source": {
+        "publisher": "Ministry of Statistics and Programme Implementation (NSO)",
+        "url": "https://www.mospi.gov.in/uploads/latestreleasesfiles/1788174301107-Press%20Note%20on%20GDP%20Estimates%20for%20Q1%202026-27.pdf",
+        "date": "2026-08-31"
+      },
+      "annual_source": {
+        "publisher": "Press Information Bureau (factsheet citing MoSPI)",
+        "url": "https://pib.gov.in/FactsheetDetails.aspx?Id=150991",
+        "date": "2026-09-01"
+      },
+      "verified_primary": true,
+      "note": "Base year 2022-23. Quarterly growth for Jul-Sep 2025 to Jan-Mar 2026 on the new series was not found in a primary source, so the previous quarter is not shown. Next release: 30 Nov 2026."
+    },
+    {
+      "id": "cpi-inflation",
+      "name": "CPI inflation (all-India combined)",
+      "latest_value": 4.82,
+      "unit": "% year on year",
+      "period": "Aug 2026 (provisional)",
+      "release_date": "2026-09-14",
+      "change_vs_previous": {
+        "basis": "previous month",
+        "previous_value": 4.45,
+        "previous_period": "Jul 2026 (final)",
+        "change": 0.37,
+        "change_unit": "percentage points"
+      },
+      "history": [
+        {
+          "period": "Jan 2026",
+          "value": 2.74
+        },
+        {
+          "period": "Feb 2026",
+          "value": 3.21
+        },
+        {
+          "period": "Mar 2026",
+          "value": 3.4
+        },
+        {
+          "period": "Apr 2026",
+          "value": 3.48
+        },
+        {
+          "period": "May 2026",
+          "value": 3.93
+        },
+        {
+          "period": "Jun 2026",
+          "value": 4.38
+        },
+        {
+          "period": "Jul 2026",
+          "value": 4.45
+        },
+        {
+          "period": "Aug 2026",
+          "value": 4.82
+        }
+      ],
+      "source": {
+        "publisher": "Ministry of Statistics and Programme Implementation (NSO)",
+        "url": "https://www.mospi.gov.in/uploads/latestreleasesfiles/1789382372004-Press%20Release%20of%20CPI%20for%20August%202026.pdf",
+        "date": "2026-09-14"
+      },
+      "verified_primary": true,
+      "note": "New series, base 2024=100. Food inflation (CFPI) Aug 2026: 5.95%. September data due 12 Oct 2026."
+    },
+    {
+      "id": "repo-rate",
+      "name": "RBI policy repo rate",
+      "latest_value": 5.5,
+      "unit": "%",
+      "period": "effective 7 Oct 2026",
+      "release_date": "2026-10-07",
+      "change_vs_previous": {
+        "basis": "previous level",
+        "previous_value": 5.25,
+        "previous_period": "from 5 Dec 2025",
+        "change": 0.25,
+        "change_unit": "percentage points"
+      },
+      "history": [
+        {
+          "period": "2023-02-08",
+          "value": 6.5,
+          "action": "hike 25 bps",
+          "source": {
+            "publisher": "Reserve Bank of India (MPC minutes)",
+            "url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=55267",
+            "date": "2023-02-22"
+          }
+        },
+        {
+          "period": "2025-02",
+          "value": 6.25,
+          "action": "cut 25 bps",
+          "source": {
+            "publisher": "PTI via The Pioneer; Business Standard",
+            "url": "https://www.dailypioneer.com/2025/trending-news/rbi-cuts-repo-rate-by-50-bps-to-5-5-pc--third-consecutive-reduction.html",
+            "date": "2025-06-06"
+          },
+          "note": "Cut size inferred from PTI's 100 bps cumulative cut since February 2025 less the April (25 bps) and June (50 bps) cuts; exact meeting date not confirmed."
+        },
+        {
+          "period": "2025-04",
+          "value": 6.0,
+          "action": "cut 25 bps",
+          "source": {
+            "publisher": "PTI via The Pioneer",
+            "url": "https://www.dailypioneer.com/2025/trending-news/rbi-cuts-repo-rate-by-50-bps-to-5-5-pc--third-consecutive-reduction.html",
+            "date": "2025-06-06"
+          }
+        },
+        {
+          "period": "2025-06-06",
+          "value": 5.5,
+          "action": "cut 50 bps",
+          "source": {
+            "publisher": "PTI via The Pioneer",
+            "url": "https://www.dailypioneer.com/2025/trending-news/rbi-cuts-repo-rate-by-50-bps-to-5-5-pc--third-consecutive-reduction.html",
+            "date": "2025-06-06"
+          }
+        },
+        {
+          "period": "2025-12-05",
+          "value": 5.25,
+          "action": "cut 25 bps",
+          "source": {
+            "publisher": "Business Standard",
+            "url": "https://www.business-standard.com/amp/finance/news/rbi-mpc-december-2025-rate-cut-announcement-sanjay-malhotra-cpi-inflation-125120500161_1.html",
+            "date": "2025-12-05"
+          }
+        },
+        {
+          "period": "2026-10-07",
+          "value": 5.5,
+          "action": "hike 25 bps",
+          "source": {
+            "publisher": "Reserve Bank of India",
+            "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63742",
+            "date": "2026-10-07"
+          }
+        }
+      ],
+      "source": {
+        "publisher": "Reserve Bank of India",
+        "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63742",
+        "date": "2026-10-07"
+      },
+      "verified_primary": true,
+      "note": "History lists rate changes since the February 2023 hike. Hold decisions in between (rate unchanged) are not listed individually because their meeting dates were not confirmed against rbi.org.in. SDF 5.25%, MSF and Bank Rate 5.75%. Next MPC meeting 2-4 Dec 2026."
+    },
+    {
+      "id": "unemployment",
+      "name": "Unemployment rate (PLFS, current weekly status, age 15+)",
+      "latest_value": 5.0,
+      "unit": "%",
+      "period": "Aug 2026",
+      "release_date": "2026-09-15",
+      "change_vs_previous": {
+        "basis": "previous month",
+        "previous_value": 5.1,
+        "previous_period": "Jul 2026",
+        "change": -0.1,
+        "change_unit": "percentage points"
+      },
+      "history": [
+        {
+          "period": "Aug 2025",
+          "value": 5.1
+        },
+        {
+          "period": "Sep 2025",
+          "value": 5.2
+        },
+        {
+          "period": "Oct 2025",
+          "value": 5.2
+        },
+        {
+          "period": "Nov 2025",
+          "value": 4.7
+        },
+        {
+          "period": "Dec 2025",
+          "value": 4.8
+        },
+        {
+          "period": "Jan 2026",
+          "value": 5.0
+        },
+        {
+          "period": "Feb 2026",
+          "value": 4.9
+        },
+        {
+          "period": "Mar 2026",
+          "value": 5.1
+        },
+        {
+          "period": "Apr 2026",
+          "value": 5.2
+        },
+        {
+          "period": "May 2026",
+          "value": 5.5
+        },
+        {
+          "period": "Jun 2026",
+          "value": 5.5
+        },
+        {
+          "period": "Jul 2026",
+          "value": 5.1
+        },
+        {
+          "period": "Aug 2026",
+          "value": 5.0
+        }
+      ],
+      "source": {
+        "publisher": "Ministry of Statistics and Programme Implementation (PLFS monthly bulletin)",
+        "url": "https://www.mospi.gov.in/uploads/latestReleases/latest_release_1789465219488_2c7319c0-05c4-4d44-9eac-a99be911de26_Monthly_Press_note_Aug_2026.pdf",
+        "date": "2026-09-15"
+      },
+      "verified_primary": true,
+      "note": "Urban 6.8%, rural 4.1% in Aug 2026. Values for Sep 2025 to Jun 2026 are read from the bulletin's chart data labels; Aug 2025, Jul 2026 and Aug 2026 are also stated in its text."
+    },
+    {
+      "id": "iip-growth",
+      "name": "Index of Industrial Production growth",
+      "latest_value": 8.0,
+      "unit": "% year on year",
+      "period": "Aug 2026 (quick estimate)",
+      "release_date": "2026-09-28",
+      "change_vs_previous": {
+        "basis": "previous month",
+        "previous_value": 7.4,
+        "previous_period": "Jul 2026 (revised)",
+        "change": 0.6,
+        "change_unit": "percentage points"
+      },
+      "history": [
+        {
+          "period": "Jul 2026",
+          "value": 7.4
+        },
+        {
+          "period": "Aug 2026",
+          "value": 8.0
+        }
+      ],
+      "source": {
+        "publisher": "Ministry of Statistics and Programme Implementation",
+        "url": "https://www.mospi.gov.in/uploads/latestReleases/latest_release_1790590696008_1b346687-0a5f-445a-83a2-28283c586094_IIP_Press_Release_August_2026.pdf",
+        "date": "2026-09-28"
+      },
+      "verified_primary": true,
+      "note": "Base 2022-23=100. April-August 2026 cumulative growth 6.7%. Earlier monthly growth rates are not shown because published figures were not found; growth rates calculated from index levels are not published here."
+    },
+    {
+      "id": "fiscal-deficit-pct-be",
+      "name": "Centre's fiscal deficit, cumulative % of Budget Estimate",
+      "latest_value": 41.9,
+      "unit": "% of BE",
+      "period": "Apr-Aug 2026",
+      "release_date": "2026-09-30",
+      "change_vs_previous": {
+        "basis": "same period a year earlier",
+        "previous_value": 38.1,
+        "previous_period": "Apr-Aug 2025",
+        "change": 3.8,
+        "change_unit": "percentage points"
+      },
+      "history": [
+        {
+          "period": "Apr-Jun 2026",
+          "value": 18.2
+        },
+        {
+          "period": "Apr-Jul 2026",
+          "value": 26.8
+        },
+        {
+          "period": "Apr-Aug 2026",
+          "value": 41.9
+        }
+      ],
+      "source": {
+        "publisher": "UNI (reporting CGA data)",
+        "url": "https://www.uniindia.com/business-economy/economy-govt-finances/198268",
+        "date": "2026-09-30"
+      },
+      "history_sources": [
+        {
+          "period": "Apr-Jun 2026",
+          "publisher": "PTI via ThePrint",
+          "url": "https://theprint.in/economy/fiscal-deficit-touches-18-2-pc-of-full-year-target-in-q1-cga-data/3002122/",
+          "date": "2026-07-31"
+        },
+        {
+          "period": "Apr-Jul 2026",
+          "publisher": "Daily Excelsior",
+          "url": "https://www.dailyexcelsior.com/centres-fy27-fiscal-deficit-touches-26-8-pc-of-full-year-target-at-end-july-govt-data/",
+          "date": "2026-08-31"
+        }
+      ],
+      "verified_primary": false,
+      "note": "Apr-Aug deficit ₹7,10,249 crore. Full-year BE ₹16,95,768 crore, 4.3% of GDP (Budget at a Glance 2026-27). The CGA release page could not be read, so figures rest on news-agency reports of CGA data."
+    },
+    {
+      "id": "gst-gross",
+      "name": "Gross GST collections",
+      "latest_value": 2.04,
+      "unit": "₹ lakh crore",
+      "period": "Sep 2026 (provisional)",
+      "release_date": "2026-10-01",
+      "change_vs_previous": {
+        "basis": "same month a year earlier",
+        "previous_value": 1.77,
+        "previous_period": "Sep 2025",
+        "change_pct": 14.7
+      },
+      "history": [
+        {
+          "period": "Apr 2026",
+          "value": 2.42,
+          "note": "reported as 'over ₹2.42 lakh crore'"
+        },
+        {
+          "period": "May 2026",
+          "value": 1.94,
+          "note": "reported as 'over ₹1.94 lakh crore'"
+        },
+        {
+          "period": "Jul 2026",
+          "value": 2.11,
+          "note": "about ₹2.11 lakh crore"
+        },
+        {
+          "period": "Aug 2026",
+          "value": 1.9985
+        },
+        {
+          "period": "Sep 2026",
+          "value": 2.04
+        }
+      ],
+      "source": {
+        "publisher": "Business Today",
+        "url": "https://businesstoday.in/latest/economy/story/september-gst-collections-rise-14-7-to-rs2-04-lakh-crore-558985-2026-10-01",
+        "date": "2026-10-01"
+      },
+      "history_sources": [
+        {
+          "period": "Apr 2026",
+          "publisher": "News On AIR",
+          "url": "https://newsonair.gov.in/gst-collections-hit-all-time-high-of-over-%E2%82%B92-42-lakh-crore-in-april/",
+          "date": "2026-05-01"
+        },
+        {
+          "period": "May 2026",
+          "publisher": "News On AIR",
+          "url": "https://newsonair.gov.in/gst-collections-rise-3-2-to-over-%E2%82%B91-94-lakh-crore-in-may/",
+          "date": "2026-06-01"
+        },
+        {
+          "period": "Jul 2026",
+          "publisher": "IANS via Eastern Mirror",
+          "url": "https://www.easternmirrornagaland.com/gst-collections-rise-148-pc-to-nearly-inr-2-lakh-crore-in-august",
+          "date": "2026-09-01"
+        },
+        {
+          "period": "Aug 2026",
+          "publisher": "IANS via Eastern Mirror",
+          "url": "https://www.easternmirrornagaland.com/gst-collections-rise-148-pc-to-nearly-inr-2-lakh-crore-in-august",
+          "date": "2026-09-01"
+        }
+      ],
+      "verified_primary": false,
+      "note": "June 2026 is omitted because the only source found was a broker site. April-September 2026 gross ₹12.46 lakh crore, up 11.6%."
+    },
+    {
+      "id": "usd-inr",
+      "name": "Rupee per US dollar (closing)",
+      "latest_value": 96.72,
+      "unit": "₹ per $",
+      "period": "9 Oct 2026 (provisional close)",
+      "release_date": "2026-10-09",
+      "change_vs_previous": {
+        "basis": "previous close",
+        "previous_value": 96.88,
+        "previous_period": "8 Oct 2026",
+        "change": -0.16,
+        "change_unit": "₹ (rupee gained 16 paise)"
+      },
+      "history": [
+        {
+          "period": "30 Apr 2026",
+          "value": 95.32,
+          "note": "then-record low"
+        },
+        {
+          "period": "27 May 2026",
+          "value": 95.68,
+          "note": "provisional close"
+        },
+        {
+          "period": "8 Oct 2026",
+          "value": 96.88
+        },
+        {
+          "period": "9 Oct 2026",
+          "value": 96.72
+        }
+      ],
+      "source": {
+        "publisher": "PTI via Deccan Herald",
+        "url": "https://www.deccanherald.com/amp/story/business/rupee-rises-16-paise-to-close-at-9672-against-us-dollar-4176436",
+        "date": "2026-10-09"
+      },
+      "history_sources": [
+        {
+          "period": "30 Apr 2026",
+          "publisher": "Business Standard",
+          "url": "https://www.business-standard.com/amp/markets/news/rupee-outlook-usd-inr-levels-96-97-brent-oil-prices-rise-fii-outflows-2026-126043000501_1.html",
+          "date": "2026-04-30"
+        },
+        {
+          "period": "27 May 2026",
+          "publisher": "PTI via Deccan Herald",
+          "url": "https://www.deccanherald.com/amp/story/business/markets/rupee-settles-on-flat-note-up-2-paise-at-9568-against-us-dollar-4018029",
+          "date": "2026-05-27"
+        }
+      ],
+      "verified_primary": false,
+      "note": "National Herald reported the 9 Oct close as 96.71. The current all-time low was not found."
+    },
+    {
+      "id": "forex-reserves",
+      "name": "Foreign exchange reserves",
+      "latest_value": 734.6,
+      "unit": "$ billion",
+      "period": "week ended 2 Oct 2026",
+      "release_date": "2026-10-09",
+      "change_vs_previous": {
+        "basis": "previous week",
+        "previous_value": 747.6,
+        "previous_period": "week ended 25 Sep 2026",
+        "change": -12.95,
+        "change_unit": "$ billion"
+      },
+      "history": [
+        {
+          "period": "w/e 26 Jun 2026",
+          "value": 666.9
+        },
+        {
+          "period": "w/e 4 Sep 2026",
+          "value": 785.7,
+          "note": "record high"
+        },
+        {
+          "period": "w/e 25 Sep 2026",
+          "value": 747.6
+        },
+        {
+          "period": "w/e 2 Oct 2026",
+          "value": 734.6
+        }
+      ],
+      "source": {
+        "publisher": "Business Standard (reporting RBI weekly data)",
+        "url": "https://www.business-standard.com/amp/economy/news/india-s-forex-reserves-drop-for-fourth-week-down-12-95-bn-to-734-6-bn-126100901061_1.html",
+        "date": "2026-10-09"
+      },
+      "verified_primary": false,
+      "note": "Fourth straight weekly fall. Weeks ended 11 and 18 Sep not found."
+    },
+    {
+      "id": "sensex",
+      "name": "BSE Sensex (close)",
+      "latest_value": 72472.33,
+      "unit": "index points",
+      "period": "9 Oct 2026",
+      "release_date": "2026-10-09",
+      "change_vs_previous": {
+        "basis": "previous close",
+        "change": 879.09,
+        "change_pct": 1.23,
+        "change_unit": "points"
+      },
+      "history": [
+        {
+          "period": "27 May 2026",
+          "value": 75867.8
+        },
+        {
+          "period": "9 Oct 2026",
+          "value": 72472.33
+        }
+      ],
+      "source": {
+        "publisher": "Business Standard; PTI via Deccan Herald",
+        "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-october-9-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-it-stocks-today-126100900099_1.html",
+        "date": "2026-10-09"
+      },
+      "verified_primary": false,
+      "note": "27 May 2026 close from PTI via Deccan Herald. 10 and 11 October 2026 are a weekend, so 9 October is the latest close.",
+      "history_sources": [
+        {
+          "period": "27 May 2026",
+          "publisher": "PTI via Deccan Herald",
+          "url": "https://www.deccanherald.com/amp/story/business/markets/rupee-settles-on-flat-note-up-2-paise-at-9568-against-us-dollar-4018029",
+          "date": "2026-05-27"
+        }
+      ]
+    },
+    {
+      "id": "nifty-50",
+      "name": "NSE Nifty 50 (close)",
+      "latest_value": 22520.45,
+      "unit": "index points",
+      "period": "9 Oct 2026",
+      "release_date": "2026-10-09",
+      "change_vs_previous": {
+        "basis": "previous close",
+        "change": 288.65,
+        "change_pct": 1.3,
+        "change_unit": "points"
+      },
+      "history": [
+        {
+          "period": "27 May 2026",
+          "value": 23907.15
+        },
+        {
+          "period": "9 Oct 2026",
+          "value": 22520.45
+        }
+      ],
+      "source": {
+        "publisher": "Business Standard; PTI via Deccan Herald",
+        "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-october-9-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-it-stocks-today-126100900099_1.html",
+        "date": "2026-10-09"
+      },
+      "verified_primary": false,
+      "note": "27 May 2026 close from PTI via Deccan Herald. 10 and 11 October 2026 are a weekend, so 9 October is the latest close.",
+      "history_sources": [
+        {
+          "period": "27 May 2026",
+          "publisher": "PTI via Deccan Herald",
+          "url": "https://www.deccanherald.com/amp/story/business/markets/rupee-settles-on-flat-note-up-2-paise-at-9568-against-us-dollar-4018029",
+          "date": "2026-05-27"
+        }
+      ]
+    }
+  ]
+}

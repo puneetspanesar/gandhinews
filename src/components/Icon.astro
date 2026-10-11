@@ -1,0 +1,10 @@
+---
+// Inline Phosphor (regular) icon by file name, e.g. <Icon name="magnifying-glass" />
+import { iconInner } from '../lib/icons.mjs';
+interface Props { name: string; class?: string; label?: string; style?: string }
+const { name, class: cls = 'ic', label, style } = Astro.props;
+const inner = iconInner(name);
+---
+{label
+  ? <svg class={cls} style={style} viewBox="0 0 256 256" fill="currentColor" role="img" aria-label={label} set:html={inner} />
+  : <svg class={cls} style={style} viewBox="0 0 256 256" fill="currentColor" aria-hidden="true" focusable="false" set:html={inner} />}

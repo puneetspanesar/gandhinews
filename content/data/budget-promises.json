@@ -1,0 +1,527 @@
+{
+  "id": "budget-2026-27-promise-tracker",
+  "title": "Budget 2026-27 promise tracker",
+  "budget": "Union Budget 2026-27, presented 1 February 2026 by Finance Minister Nirmala Sitharaman",
+  "as_of": "2026-10-11",
+  "status_definitions": {
+    "delivered": "The promised measure has been formally put in place: a law in force, or a scheme or fund approved by the Cabinet. It does not mean the intended outcome has been achieved.",
+    "in progress": "Verified steps have been taken, or in-year data shows the target is being tracked, but the promise is not yet complete.",
+    "no update found": "We could not find a reliable source on progress. It does not mean nothing has happened."
+  },
+  "promises": [
+    {
+      "id": "fiscal-deficit-4-3",
+      "text": "Bring the fiscal deficit down to 4.3% of GDP (₹16,95,768 crore) in 2026-27, from 4.4% in 2025-26.",
+      "ministry": "Finance",
+      "budget_speech_reference": "Para 94",
+      "category": "Fiscal",
+      "status": "in progress",
+      "progress_note": "By end-August 2026 the deficit was ₹7,10,249 crore, 41.9% of the Budget Estimate, against 38.1% a year earlier. ICRA expects an overshoot of ₹1.3 to 1.4 lakh crore because of a tax shortfall and extra fuel and fertiliser subsidies.",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        },
+        {
+          "publisher": "Ministry of Finance (Budget at a Glance 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/Budget_at_Glance/budget_at_a_glance.pdf",
+          "date": "2026-02-01"
+        },
+        {
+          "publisher": "UNI",
+          "url": "https://www.uniindia.com/business-economy/economy-govt-finances/198268",
+          "date": "2026-09-30"
+        },
+        {
+          "publisher": "Deccan Chronicle",
+          "url": "https://www.deccanchronicle.com/business/fiscal-deficit-widens-to-rs-71-lakh-cr-till-august-to-overshoot-fy27-budget-estimate-1991935",
+          "date": "2026-09-30"
+        }
+      ]
+    },
+    {
+      "id": "debt-to-gdp-50",
+      "text": "Reduce central government debt to 50±1% of GDP by 2030-31; debt estimated at 55.6% of GDP in BE 2026-27.",
+      "ministry": "Finance",
+      "budget_speech_reference": "Para 92",
+      "category": "Fiscal",
+      "status": "no update found",
+      "progress_note": "No in-year figure for the debt ratio was found.",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        },
+        {
+          "publisher": "Press Information Bureau",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2221389",
+          "date": "2026-02-01"
+        }
+      ]
+    },
+    {
+      "id": "capex-12-2",
+      "text": "Raise capital expenditure to ₹12.2 lakh crore in 2026-27 (₹12,21,821 crore; effective capex ₹17,14,523 crore).",
+      "ministry": "Finance (all ministries)",
+      "budget_speech_reference": "Para 33",
+      "category": "Infrastructure",
+      "status": "in progress",
+      "progress_note": "Capital spending was up 18% in April-August 2026 after a 60% rise in June-July, but fell 30% in August, according to ICRA's analysis of CGA data reported by Deccan Chronicle.",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        },
+        {
+          "publisher": "Ministry of Finance (Budget at a Glance 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/Budget_at_Glance/budget_at_a_glance.pdf",
+          "date": "2026-02-01"
+        },
+        {
+          "publisher": "Deccan Chronicle",
+          "url": "https://www.deccanchronicle.com/business/fiscal-deficit-widens-to-rs-71-lakh-cr-till-august-to-overshoot-fy27-budget-estimate-1991935",
+          "date": "2026-09-30"
+        }
+      ]
+    },
+    {
+      "id": "gross-tax-revenue",
+      "text": "Gross tax revenue of ₹44.04 lakh crore, 8.0% above the 2025-26 Revised Estimate.",
+      "ministry": "Finance (CBDT and CBIC)",
+      "budget_speech_reference": "Not in speech; Budget documents (PIB summary)",
+      "category": "Tax",
+      "status": "in progress",
+      "progress_note": "Gross tax revenue grew 6.5% in April-August 2026; excise collections fell 23% after the March cut in fuel duties (ICRA via Deccan Chronicle). ICRA expects income tax and excise to fall short of budgeted levels.",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Press Information Bureau",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2221389",
+          "date": "2026-02-01"
+        },
+        {
+          "publisher": "Deccan Chronicle",
+          "url": "https://www.deccanchronicle.com/business/fiscal-deficit-widens-to-rs-71-lakh-cr-till-august-to-overshoot-fy27-budget-estimate-1991935",
+          "date": "2026-09-30"
+        }
+      ]
+    },
+    {
+      "id": "income-tax-act-2025",
+      "text": "Bring the Income Tax Act, 2025 into effect from 1 April 2026, replacing the 1961 Act.",
+      "ministry": "Finance (CBDT)",
+      "budget_speech_reference": "Para 99",
+      "category": "Tax",
+      "status": "delivered",
+      "progress_note": "CBDT said the Act came into force on 1 April 2026. The Income-tax Rules, 2026 were notified on 20 March 2026, with new forms.",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        },
+        {
+          "publisher": "Central Board of Direct Taxes",
+          "url": "https://www.incometaxindia.gov.in/documents/d/guest/press-release-income-tax-act-2025-comes-into-force-from-01-april-2026-pdf",
+          "date": "2026-04-01"
+        }
+      ]
+    },
+    {
+      "id": "revised-return-deadline",
+      "text": "Extend the time to revise income tax returns from 31 December to 31 March.",
+      "ministry": "Finance (CBDT)",
+      "budget_speech_reference": "Para 108",
+      "category": "Tax",
+      "status": "no update found",
+      "progress_note": "No source was found confirming how the change has been applied.",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        }
+      ]
+    },
+    {
+      "id": "ism-2-0",
+      "text": "Launch India Semiconductor Mission (ISM) 2.0 to produce equipment and materials.",
+      "ministry": "Electronics and IT",
+      "budget_speech_reference": "Para 17",
+      "category": "Industry",
+      "status": "delivered",
+      "progress_note": "The Union Cabinet approved ISM 2.0 with a total outlay of ₹1.27 lakh crore on 15 July 2026, IT Minister Ashwini Vaishnaw said (PTI). Projects under it were not tracked.",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        },
+        {
+          "publisher": "PTI via ThePrint",
+          "url": "https://theprint.in/economy/cabinet-approves-rs-1-27-lakh-crore-for-semicon-mission-2-0/2987130/",
+          "date": "2026-07-15"
+        }
+      ]
+    },
+    {
+      "id": "ecms-40000",
+      "text": "Raise the outlay of the Electronics Components Manufacturing Scheme to ₹40,000 crore.",
+      "ministry": "Electronics and IT",
+      "budget_speech_reference": "Para 18",
+      "category": "Industry",
+      "status": "no update found",
+      "progress_note": "No update found.",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        }
+      ]
+    },
+    {
+      "id": "biopharma-shakti",
+      "text": "Biopharma SHAKTI, with an outlay of ₹10,000 crore over five years, to build capacity in biologics and biosimilars.",
+      "ministry": "Not stated in sources",
+      "budget_speech_reference": "Para 16",
+      "category": "Health and industry",
+      "status": "no update found",
+      "progress_note": "News On AIR described the initiative as proposed on 21 March 2026. No approval or launch was found after that.",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        },
+        {
+          "publisher": "News On AIR",
+          "url": "https://www.newsonair.gov.in/government-proposes-biopharma-shakti-initiative-to-boost-indias-biopharmaceutical-sector",
+          "date": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "id": "high-speed-rail-7",
+      "text": "Develop seven high-speed rail corridors between cities (Mumbai-Pune, Pune-Hyderabad, Hyderabad-Bengaluru, Hyderabad-Chennai, Chennai-Bengaluru, Delhi-Varanasi, Varanasi-Siliguri).",
+      "ministry": "Railways",
+      "budget_speech_reference": "Para 40",
+      "category": "Infrastructure",
+      "status": "in progress",
+      "progress_note": "On 9 February 2026 Business Standard reported that the Railway Board had directed NHSRCL to update detailed project reports with current costs so financial viability could be assessed. No later update found.",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        },
+        {
+          "publisher": "Business Standard",
+          "url": "https://www.business-standard.com/india-news/railways-begins-viability-assessment-for-7-new-bullet-train-corridors-126020901478_1.html",
+          "date": "2026-02-09"
+        }
+      ]
+    },
+    {
+      "id": "rare-earth-corridors",
+      "text": "Set up dedicated Rare Earth Corridors in Odisha, Kerala, Andhra Pradesh and Tamil Nadu.",
+      "ministry": "Not stated in sources",
+      "budget_speech_reference": "Para 19",
+      "category": "Industry",
+      "status": "no update found",
+      "progress_note": "No update found.",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        }
+      ]
+    },
+    {
+      "id": "ccus-20000",
+      "text": "Carbon capture, utilisation and storage (CCUS): ₹20,000 crore over five years.",
+      "ministry": "Not stated in sources",
+      "budget_speech_reference": "Para 38",
+      "category": "Environment and energy",
+      "status": "no update found",
+      "progress_note": "No update found.",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        }
+      ]
+    },
+    {
+      "id": "container-manufacturing",
+      "text": "Container manufacturing scheme with ₹10,000 crore over five years.",
+      "ministry": "Not stated in sources",
+      "budget_speech_reference": "Para 21(c)",
+      "category": "Industry",
+      "status": "no update found",
+      "progress_note": "No update found.",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        }
+      ]
+    },
+    {
+      "id": "sme-growth-fund",
+      "text": "A dedicated ₹10,000 crore SME Growth Fund.",
+      "ministry": "MSME and Finance",
+      "budget_speech_reference": "Para 28",
+      "category": "Industry",
+      "status": "delivered",
+      "progress_note": "The Union Cabinet approved a government commitment of ₹10,000 crore to an Alternative Investment Fund under the SME Growth Fund on 6 October 2026. It will make direct equity investments, mainly in manufacturing SMEs. The fund's first investments have not been reported.",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        },
+        {
+          "publisher": "Press Information Bureau (Cabinet decisions)",
+          "url": "https://www.pib.gov.in/PressReleseDetail.aspx?PRID=2319534",
+          "date": "2026-10-06"
+        },
+        {
+          "publisher": "The Hans India",
+          "url": "https://www.thehansindia.com/business/centre-bets-rs-10k-cr-on-next-generation-of-sme-champions-1129719",
+          "date": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chemical-parks",
+      "text": "Support states in setting up three dedicated Chemical Parks.",
+      "ministry": "Chemicals and Fertilisers",
+      "budget_speech_reference": "Para 20",
+      "category": "Industry",
+      "status": "no update found",
+      "progress_note": "No update found.",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        }
+      ]
+    },
+    {
+      "id": "vb-g-ram-g",
+      "text": "Fund the VB-G RAM G rural employment scheme (₹95,691 crore), which raises guaranteed work from 100 to 125 days a year with states paying a larger share.",
+      "ministry": "Rural Development",
+      "budget_speech_reference": "Not located in speech text read; reported by Scroll",
+      "category": "Rural",
+      "status": "in progress",
+      "progress_note": "Outlook Money reported on 11 May 2026 that the Act replacing MGNREGA would take effect on 1 July 2026, guaranteeing 125 days of work with a 60:40 Centre-state split for most states, and that rules were still being drafted. Spending against the allocation and work generated since July were not found.",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Scroll",
+          "url": "https://scroll.in/latest/1090413/scroll_in",
+          "date": "2026-02-01"
+        },
+        {
+          "publisher": "Outlook Money",
+          "url": "https://www.outlookmoney.com/news/vb-g-ram-g-act-replaces-mgnrega-implementation-to-take-effect-from-july-1",
+          "date": "2026-05-11"
+        }
+      ]
+    },
+    {
+      "id": "national-waterways",
+      "text": "Operationalise 20 new National Waterways over five years, with a ship-repair ecosystem for inland waterways at Varanasi and Patna.",
+      "ministry": "Ports, Shipping and Waterways",
+      "budget_speech_reference": "Para 36(b)",
+      "category": "Infrastructure",
+      "status": "no update found",
+      "progress_note": "No update found.",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        }
+      ]
+    },
+    {
+      "id": "dankuni-surat-dfc",
+      "text": "New Dedicated Freight Corridor connecting Dankuni in the east to Surat in the west.",
+      "ministry": "Railways",
+      "budget_speech_reference": "Para 36(a)",
+      "category": "Infrastructure",
+      "status": "no update found",
+      "progress_note": "No update found.",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        }
+      ]
+    },
+    {
+      "id": "cancer-drugs-customs",
+      "text": "Exempt basic customs duty on 17 drugs or medicines.",
+      "ministry": "Finance (CBIC)",
+      "budget_speech_reference": "Para 160; Annex C.1",
+      "category": "Health",
+      "status": "no update found",
+      "progress_note": "Customs changes are made through Budget notifications; implementation was not separately verified.",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        }
+      ]
+    },
+    {
+      "id": "personal-import-duty",
+      "text": "Cut customs duty on goods imported for personal use from 20% to 10%, effective 1 April 2026.",
+      "ministry": "Finance (CBIC)",
+      "budget_speech_reference": "Para 159; Annex C.1",
+      "category": "Tax",
+      "status": "no update found",
+      "progress_note": "Effective date set in the Budget; implementation was not separately verified.",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        }
+      ]
+    },
+    {
+      "id": "tcs-tour-packages",
+      "text": "Cut tax collected at source on overseas tour packages from 5% and 20% to a uniform 2%.",
+      "ministry": "Finance (CBDT)",
+      "budget_speech_reference": "Para 103",
+      "category": "Tax",
+      "status": "no update found",
+      "progress_note": "Implementation was not separately verified.",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        }
+      ]
+    },
+    {
+      "id": "girls-hostels",
+      "text": "Establish one girls' hostel in every district.",
+      "ministry": "Not stated in sources",
+      "budget_speech_reference": "Para 63",
+      "category": "Education",
+      "status": "no update found",
+      "progress_note": "No update found.",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        }
+      ]
+    },
+    {
+      "id": "khelo-india-mission",
+      "text": "Launch a Khelo India Mission to transform the sports sector over the next decade.",
+      "ministry": "Sports",
+      "budget_speech_reference": "Para 72",
+      "category": "Sports",
+      "status": "no update found",
+      "progress_note": "No update found.",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        }
+      ]
+    },
+    {
+      "id": "caregivers",
+      "text": "Train 1.5 lakh caregivers in the coming year.",
+      "ministry": "Not stated in sources",
+      "budget_speech_reference": "Para 54",
+      "category": "Health",
+      "status": "no update found",
+      "progress_note": "No update found.",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        }
+      ]
+    },
+    {
+      "id": "regional-medical-hubs",
+      "text": "Establish five Regional Medical Hubs.",
+      "ministry": "Not stated in sources",
+      "budget_speech_reference": "Para 55",
+      "category": "Health",
+      "status": "no update found",
+      "progress_note": "No update found.",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        }
+      ]
+    }
+  ],
+  "previous_budget": [
+    {
+      "id": "fiscal-deficit-4-4-fy26",
+      "text": "Budget 2025-26: fiscal deficit of 4.4% of GDP in 2025-26.",
+      "ministry": "Finance",
+      "budget_speech_reference": "Budget 2025-26",
+      "category": "Fiscal",
+      "status": "delivered",
+      "progress_note": "Met. Provisional accounts put the 2025-26 deficit at ₹15,19,169 crore, 4.4% of GDP and 97.5% of the Revised Estimate.",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Deccan Herald",
+          "url": "https://www.deccanherald.com/business/economy/government-achieves-fiscal-deficit-target-of-44-for-fy26-4023562",
+          "date": "2026-06-01"
+        }
+      ]
+    }
+  ]
+}

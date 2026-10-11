@@ -1,0 +1,24 @@
+---
+import Photo from './Photo.astro';
+import { urlOf, kicker } from '../lib/site';
+interface Props { title: string; items: any[]; thumbs?: number; href?: string }
+const { title, items, thumbs = 0 } = Astro.props;
+---
+{items.length > 0 && (
+  <section>
+    <h2 class="rh">{title}</h2>
+    <ul class="rl">
+      {items.map((e, i) => (
+        <li>
+          <a href={urlOf(e.data)} class={i < thumbs ? 'rimg' : undefined}>
+            <div>
+              <span class="k">{kicker(e.data)}</span>
+              <h3>{e.data.title}</h3>
+            </div>
+            {i < thumbs && <Photo src={e.data.hero?.src} alt="" />}
+          </a>
+        </li>
+      ))}
+    </ul>
+  </section>
+)}

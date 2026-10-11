@@ -1,0 +1,49 @@
+---
+// One router for every HTML page. English lives at the root, Hindi under /hi/.
+import type { GetStaticPaths } from 'astro';
+import { content, prefix, SECTIONS, urlOf } from '../lib/site';
+import { HUBS } from '../lib/i18n';
+import Article from '../templates/Article.astro';
+import Topic from '../templates/Topic.astro';
+import Tracker from '../templates/Tracker.astro';
+import List from '../templates/List.astro';
+import CardsHub from '../templates/CardsHub.astro';
+import Simple from '../templates/Simple.astro';
+
+export const getStaticPaths = (async () => {
+  const c = await content();
+  const out: any[] = [];
+  const add = (route: string, props: any) => {
+    const path = route.replace(/^\/|\/$/g, '') || undefined;
+    out.push({ params: { path }, props: { ...props, route } });
+  };
+  for (const lang of ['en', 'hi'] as const) {
+    const p = prefix(lang);
+    const { articles, topics, trackers } = c[lang];
+    for (const e of articles) add(urlOf(e.data), { kind: 'article', lang, id: e.data.id });
+    for (const e of topics) add(urlOf(e.data), { kind: 'topic', lang, id: e.data.id });
+    for (const e of trackers) add(urlOf(e.data), { kind: 'tracker', lang, id: e.data.id });
+    for (const s of SECTIONS) add(`${p}/${s}/`, { kind: 'section', lang, key: s });
+    for (const h of Object.keys(HUBS)) add(`${p}/${h}/`, { kind: 'hub', lang, key: h });
+    add(`${p}/trackers/`, { kind: 'trackers', lang });
+    add(`${p}/topics/`, { kind: 'topics', lang });
+    add(`${p}/`, { kind: 'home', lang });
+    add(`${p}/search/`, { kind: 'search', lang });
+    add(`${p}/saved/`, { kind: 'saved', lang });
+  }
+  const seen = new Set<string>();
+  for (const o of out) {
+    if (seen.has(o.props.route)) throw new Error(`Route collision: ${o.props.route}`);
+    seen.add(o.props.route);
+  }
+  return out;
+}) satisfies GetStaticPaths;
+
+const props = Astro.props as any;
+---
+{props.kind === 'article' && <Article {...props} />}
+{props.kind === 'topic' && <Topic {...props} />}
+{props.kind === 'tracker' && <Tracker {...props} />}
+{(props.kind === 'section' || props.kind === 'hub') && <List {...props} />}
+{(props.kind === 'trackers' || props.kind === 'topics') && <CardsHub {...props} />}
+{(props.kind === 'home' || props.kind === 'search' || props.kind === 'saved') && <Simple {...props} />}

@@ -1,0 +1,5 @@
+---
+interface Props { small?: boolean }
+const { small = false } = Astro.props;
+---
+<span class={small ? 'seal sm' : 'seal'} lang="hi" aria-hidden="true">सत्य</span>

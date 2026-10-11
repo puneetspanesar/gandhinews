@@ -1,0 +1,1125 @@
+{
+  "meta": {
+    "title": "संसद में विधेयकों का ट्रैकर",
+    "as_of": "2026-10-11",
+    "compiled_by": "गांधी न्यूज़ संपादकीय डेस्क",
+    "default_source": "पीआरएस लेजिस्लेटिव रिसर्च के विधेयक पेज (प्रकाशन की तारीख नहीं; 11 अक्टूबर 2026 को देखे गए)",
+    "count": 35,
+    "stage_values": {
+      "in_committee": "समिति को भेजा गया, रिपोर्ट अभी पेश नहीं हुई",
+      "committee_reported": "समिति रिपोर्ट दे चुकी है; विधेयक सदन में लंबित",
+      "passed_both": "दोनों सदनों से पास; हमारे स्रोतों में राष्ट्रपति की मंजूरी की पुष्टि नहीं",
+      "assent": "राष्ट्रपति की मंजूरी की पुष्टि",
+      "in_force": "मंजूरी मिल चुकी और अधिनियम लागू",
+      "negatived": "वोटिंग में गिरा",
+      "infructuous": "वापस लिया गया या छोड़ दिया गया; पीआरएस इसे निष्प्रभावी (infructuous) बताता है"
+    },
+    "notes": [
+      "तारीखें आईएसओ प्रारूप (YYYY-MM-DD) में हैं; '2026-08' का मतलब है कि महीना पता है, दिन नहीं।",
+      "पीआरएस के विधेयक पेज राष्ट्रपति की मंजूरी की तारीख नहीं दिखाते। 'assent': null का मतलब है कि हमारे स्रोतों में इसकी पुष्टि नहीं हुई, न कि मंजूरी से इनकार हुआ।",
+      "32 विधेयक डेस्क की रिसर्च तालिका से हैं; 3 और (केंद्र शासित प्रदेश कानून (संशोधन) विधेयक 2026 और एक देश, एक चुनाव के दो विधेयक) जोड़े गए हैं और उनकी टिप्पणियों में इसका ज़िक्र है।"
+    ],
+    "stage_labels_hi": {
+      "in_committee": "समिति में",
+      "committee_reported": "समिति की रिपोर्ट आई",
+      "passed_both": "दोनों सदनों से पास",
+      "assent": "राष्ट्रपति की मंजूरी",
+      "in_force": "लागू",
+      "negatived": "नामंज़ूर",
+      "infructuous": "निष्प्रभावी"
+    }
+  },
+  "bills": [
+    {
+      "id": "fcra-amendment-2026",
+      "name": "Foreign Contribution (Regulation) Amendment Bill, 2026",
+      "ministry": "Home Affairs",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-03-25",
+      "stages": {
+        "introduced": "2026-03-25",
+        "committee": {
+          "name": "Joint Parliamentary Committee on the FCRA Amendment Bill, 2026 (31 members: 21 LS, 10 RS)",
+          "type": "joint",
+          "chair": null,
+          "referred": "2026-08-12",
+          "report": null,
+          "report_due": "शीतकालीन सत्र 2026 के पहले हफ्ते के आखिरी दिन तक",
+          "name_hi": "एफसीआरए संशोधन विधेयक, 2026 पर संयुक्त संसदीय समिति (31 सदस्य: लोकसभा 21, राज्यसभा 10)",
+          "type_hi": "संयुक्त"
+        },
+        "passed_ls": null,
+        "passed_rs": null,
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "in_committee",
+      "status": "confirmed",
+      "summary": "जिन संगठनों का एफसीआरए प्रमाणपत्र खत्म हो जाता है, उनके विदेशी धन और संपत्तियों को एक सरकारी प्राधिकरण को अपने कब्ज़े में लेने देता है, और उल्लंघनों के लिए ज़िम्मेदार कौन है, इसे नए सिरे से परिभाषित करता है।",
+      "source_url": "https://prsindia.org/billtrack/the-foreign-contribution-regulation-amendment-bill-2026",
+      "other_sources": [
+        {
+          "title": "ThePrint, 12 Aug 2026",
+          "url": "https://theprint.in/india/fcra-amendment-bill-referred-to-joint-parliamentary-committee-congress-sp-seek-bills-withdrawal/"
+        }
+      ],
+      "notes": "मिले स्रोतों में समिति के अध्यक्ष और सदस्यों के नाम नहीं हैं।",
+      "name_hi": "विदेशी अंशदान (विनियमन) संशोधन विधेयक, 2026",
+      "ministry_hi": "गृह",
+      "house_introduced_hi": "लोकसभा",
+      "current_stage_hi": "समिति में",
+      "status_hi": "पुष्ट"
+    },
+    {
+      "id": "constitution-130th-amendment-2025",
+      "name": "Constitution (130th Amendment) Bill, 2025",
+      "ministry": "Home Affairs",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2025-08-20",
+      "stages": {
+        "introduced": "2025-08-20",
+        "committee": {
+          "name": "Joint Committee on the Constitution (130th Amendment) Bill, 2025 and two related Bills",
+          "type": "joint",
+          "chair": "Aparajita Sarangi",
+          "referred": "2025-08-20",
+          "report": null,
+          "name_hi": "संविधान (130वां संशोधन) विधेयक, 2025 और दो संबंधित विधेयकों पर संयुक्त समिति",
+          "type_hi": "संयुक्त",
+          "chair_hi": "अपराजिता सारंगी"
+        },
+        "passed_ls": null,
+        "passed_rs": null,
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "in_committee",
+      "status": "confirmed",
+      "summary": "पांच साल या उससे ज़्यादा की सज़ा वाले आरोप में लगातार 30 दिन हिरासत में रहने वाले प्रधानमंत्री, मुख्यमंत्री या मंत्री को पद से हटाने का प्रावधान।",
+      "source_url": "https://prsindia.org/billtrack/the-constitution-one-hundred-and-thirtieth-amendment-bill-2025",
+      "other_sources": [
+        {
+          "title": "PRS committee page",
+          "url": "https://prsindia.org/parliamentary-committees/joint-committee-on-the-constitution-130th-amendment-bill-2025-the-jammu-and-kashmir-reorganisation-amendment-bill-2025-and-the-government-of-union-territories-amendment-bill-2025"
+        },
+        {
+          "title": "The Sentinel / ANI, 18 Jul 2026",
+          "url": "https://www.sentinelassam.com/more-news/national-news/jpc-defers-draft-report-on-130th-constitution-amendment-bill-seeks-more-consultations"
+        }
+      ],
+      "notes": "जेपीसी ने जुलाई 2026 के मध्य में अपनी मसौदा रिपोर्ट को स्वीकार करना टाल दिया (सेंटिनल/एएनआई)। 11 अक्टूबर 2026 तक कोई रिपोर्ट पेश नहीं हुई (पीआरएस)।",
+      "name_hi": "संविधान (130वां संशोधन) विधेयक, 2025",
+      "ministry_hi": "गृह",
+      "house_introduced_hi": "लोकसभा",
+      "current_stage_hi": "समिति में",
+      "status_hi": "पुष्ट"
+    },
+    {
+      "id": "jk-reorganisation-amendment-2025",
+      "name": "Jammu and Kashmir Reorganisation (Amendment) Bill, 2025",
+      "ministry": "Home Affairs",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2025-08-20",
+      "stages": {
+        "introduced": "2025-08-20",
+        "committee": {
+          "name": "Joint Committee on the Constitution (130th Amendment) Bill, 2025 and two related Bills",
+          "type": "joint",
+          "chair": "Aparajita Sarangi",
+          "referred": "2025-08-20",
+          "report": null,
+          "name_hi": "संविधान (130वां संशोधन) विधेयक, 2025 और दो संबंधित विधेयकों पर संयुक्त समिति",
+          "type_hi": "संयुक्त",
+          "chair_hi": "अपराजिता सारंगी"
+        },
+        "passed_ls": null,
+        "passed_rs": null,
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "in_committee",
+      "status": "confirmed",
+      "summary": "हिरासत में रखे गए मंत्रियों को हटाने का नियम जम्मू और कश्मीर पर लागू करता है।",
+      "source_url": "https://prsindia.org/billtrack/the-jammu-and-kashmir-reorganisation-amendment-bill-2025",
+      "name_hi": "जम्मू और कश्मीर पुनर्गठन (संशोधन) विधेयक, 2025",
+      "ministry_hi": "गृह",
+      "house_introduced_hi": "लोकसभा",
+      "current_stage_hi": "समिति में",
+      "status_hi": "पुष्ट"
+    },
+    {
+      "id": "government-of-uts-amendment-2025",
+      "name": "Government of Union Territories (Amendment) Bill, 2025",
+      "ministry": "Home Affairs",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2025-08-20",
+      "stages": {
+        "introduced": "2025-08-20",
+        "committee": {
+          "name": "Joint Committee on the Constitution (130th Amendment) Bill, 2025 and two related Bills",
+          "type": "joint",
+          "chair": "Aparajita Sarangi",
+          "referred": "2025-08-20",
+          "report": null,
+          "name_hi": "संविधान (130वां संशोधन) विधेयक, 2025 और दो संबंधित विधेयकों पर संयुक्त समिति",
+          "type_hi": "संयुक्त",
+          "chair_hi": "अपराजिता सारंगी"
+        },
+        "passed_ls": null,
+        "passed_rs": null,
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "in_committee",
+      "status": "confirmed",
+      "summary": "हिरासत में रखे गए मंत्रियों को हटाने का नियम विधानसभा वाले केंद्र शासित प्रदेशों पर लागू करता है।",
+      "source_url": "https://prsindia.org/billtrack/the-government-of-union-territories-amendment-bill-2025",
+      "name_hi": "केंद्र शासित प्रदेश शासन (संशोधन) विधेयक, 2025",
+      "ministry_hi": "गृह",
+      "house_introduced_hi": "लोकसभा",
+      "current_stage_hi": "समिति में",
+      "status_hi": "पुष्ट"
+    },
+    {
+      "id": "viksit-bharat-shiksha-adhishthan-2025",
+      "name": "Viksit Bharat Shiksha Adhishthan Bill, 2025",
+      "ministry": "Education",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2025-12-15",
+      "stages": {
+        "introduced": "2025-12-15",
+        "committee": {
+          "name": "Joint Committee on the Viksit Bharat Shiksha Adhishthan Bill, 2025",
+          "type": "joint",
+          "chair": "Daggubati Purandeswari",
+          "referred": "2025-12-16",
+          "report": null,
+          "name_hi": "विकसित भारत शिक्षा अधिष्ठान विधेयक, 2025 पर संयुक्त समिति",
+          "type_hi": "संयुक्त",
+          "chair_hi": "दग्गुबाती पुरंदेश्वरी"
+        },
+        "passed_ls": null,
+        "passed_rs": null,
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "in_committee",
+      "status": "confirmed",
+      "summary": "यूजीसी, एआईसीटीई और एनसीटीई की जगह तीन परिषदों वाला एक उच्च शिक्षा नियामक बनाता है।",
+      "source_url": "https://prsindia.org/billtrack/the-viksit-bharat-shiksha-adhishthan-bill-2025",
+      "other_sources": [
+        {
+          "title": "PRS, Functioning of Parliament during Monsoon Session 2026",
+          "url": "https://prsindia.org/parliamenttrack/vital-stats/functioning-of-parliament-during-monsoon-session-2026"
+        },
+        {
+          "title": "PRS JPC page",
+          "url": "https://prsindia.org/parliamentary-committees/joint-committee-on-viksit-bharat-shiksha-adhishthan-bill-2025"
+        }
+      ],
+      "notes": "मसौदा रिपोर्ट को स्वीकार करना 17 जुलाई 2026 के लिए सूचीबद्ध था; 11 अक्टूबर 2026 तक कोई रिपोर्ट पेश नहीं हुई (पीआरएस)।",
+      "name_hi": "विकसित भारत शिक्षा अधिष्ठान विधेयक, 2025",
+      "ministry_hi": "शिक्षा",
+      "house_introduced_hi": "लोकसभा",
+      "current_stage_hi": "समिति में",
+      "status_hi": "पुष्ट"
+    },
+    {
+      "id": "securities-markets-code-2025",
+      "name": "Securities Markets Code, 2025",
+      "ministry": "Finance",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2025-12-18",
+      "stages": {
+        "introduced": "2025-12-18",
+        "committee": {
+          "name": "Standing Committee on Finance",
+          "type": "standing",
+          "chair": "Bhartruhari Mahtab",
+          "referred": "2025-12-18",
+          "report": "2026-07-23",
+          "name_hi": "वित्त संबंधी स्थायी समिति",
+          "type_hi": "स्थायी",
+          "chair_hi": "भर्तृहरि महताब"
+        },
+        "passed_ls": null,
+        "passed_rs": null,
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "committee_reported",
+      "status": "confirmed",
+      "summary": "सेबी अधिनियम, प्रतिभूति संविदा (विनियमन) अधिनियम और डिपॉज़िटरी अधिनियम को एक संहिता में मिलाती है।",
+      "source_url": "https://prsindia.org/billtrack/the-securities-markets-code-2025",
+      "other_sources": [
+        {
+          "title": "PRS Monthly Policy Review, August 2026",
+          "url": "https://prsindia.org/policy/monthly-policy-review/august-2026"
+        }
+      ],
+      "name_hi": "प्रतिभूति बाज़ार संहिता, 2025",
+      "ministry_hi": "वित्त",
+      "house_introduced_hi": "लोकसभा",
+      "current_stage_hi": "समिति की रिपोर्ट आई",
+      "status_hi": "पुष्ट"
+    },
+    {
+      "id": "corporate-laws-amendment-2026",
+      "name": "Corporate Laws (Amendment) Bill, 2026",
+      "ministry": "Corporate Affairs",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-03-23",
+      "stages": {
+        "introduced": "2026-03-23",
+        "committee": {
+          "name": "Joint Committee on the Corporate Laws (Amendment) Bill, 2026",
+          "type": "joint",
+          "chair": "Sudhir Gupta",
+          "referred": "2026-03-23",
+          "report": "2026-08-03",
+          "name_hi": "कॉरपोरेट कानून (संशोधन) विधेयक, 2026 पर संयुक्त समिति",
+          "type_hi": "संयुक्त",
+          "chair_hi": "सुधीर गुप्ता"
+        },
+        "passed_ls": null,
+        "passed_rs": null,
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "committee_reported",
+      "status": "confirmed",
+      "summary": "कंपनी अधिनियम और एलएलपी अधिनियम के कुछ अपराधों को अपराध की श्रेणी से बाहर करता है, अनुपालन आसान करता है और सीएसआर, विलय और शेयर बायबैक के नियम बदलता है।",
+      "source_url": "https://prsindia.org/billtrack/the-corporate-laws-amendment-bill-2026",
+      "other_sources": [
+        {
+          "title": "PRS Monthly Policy Review, August 2026",
+          "url": "https://prsindia.org/policy/monthly-policy-review/august-2026"
+        }
+      ],
+      "notes": "समिति के अध्यक्ष (सुधीर गुप्ता) का नाम पीआरएस मंथली पॉलिसी रिव्यू, अगस्त 2026 से है, जैसा रिसर्च डेस्क ने दर्ज किया; पीआरएस के विधेयक पेज पर अध्यक्ष का नाम नहीं है।",
+      "name_hi": "कॉरपोरेट कानून (संशोधन) विधेयक, 2026",
+      "ministry_hi": "कॉरपोरेट कार्य",
+      "house_introduced_hi": "लोकसभा",
+      "current_stage_hi": "समिति की रिपोर्ट आई",
+      "status_hi": "पुष्ट"
+    },
+    {
+      "id": "indian-statistical-institute-2026",
+      "name": "Indian Statistical Institute Bill, 2026",
+      "ministry": "Statistics and Programme Implementation",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-08-03",
+      "stages": {
+        "introduced": "2026-08-03",
+        "committee": {
+          "name": "Departmentally Related Standing Committee (not named on PRS page)",
+          "type": "standing",
+          "chair": null,
+          "referred": "2026-09-01",
+          "report": null,
+          "name_hi": "विभाग संबंधित स्थायी समिति (पीआरएस पेज पर नाम नहीं)",
+          "type_hi": "स्थायी"
+        },
+        "passed_ls": null,
+        "passed_rs": null,
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "in_committee",
+      "status": "confirmed",
+      "summary": "भारतीय सांख्यिकी संस्थान, कोलकाता को एक नया वैधानिक चार्टर देता है, जिसमें बोर्ड ऑफ गवर्नर्स होगा और राष्ट्रपति विज़िटर होंगे।",
+      "source_url": "https://prsindia.org/billtrack/the-indian-statistical-institute-bill-2026",
+      "other_sources": [
+        {
+          "title": "Outlook, 13 Aug 2026 (pending at session end)",
+          "url": "https://www.outlookindia.com/national/monsoon-session-concludes-with-11-bills-passed-lok-sabha-productivity-at-19"
+        }
+      ],
+      "name_hi": "भारतीय सांख्यिकी संस्थान विधेयक, 2026",
+      "ministry_hi": "सांख्यिकी और कार्यक्रम कार्यान्वयन",
+      "house_introduced_hi": "लोकसभा",
+      "current_stage_hi": "समिति में",
+      "status_hi": "पुष्ट"
+    },
+    {
+      "id": "constitution-131st-amendment-2026",
+      "name": "Constitution (131st Amendment) Bill, 2026",
+      "ministry": "Law and Justice",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-04-16",
+      "stages": {
+        "introduced": "2026-04-16",
+        "committee": null,
+        "passed_ls": null,
+        "passed_rs": null,
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "negatived",
+      "status": "confirmed",
+      "summary": "लोकसभा की अधिकतम सीमा 550 से बढ़ाकर 850 सीटें करता, 2011 की जनगणना पर परिसीमन की अनुमति देता और महिला आरक्षण को अगली जनगणना से अलग करता।",
+      "source_url": "https://prsindia.org/billtrack/the-constitution-131st-amendment-bill-2026",
+      "other_sources": [
+        {
+          "title": "LiveLaw, 17 Apr 2026",
+          "url": "https://www.livelaw.in/amp/top-stories/lok-sabha-rejects-constitution-131st-bill-2026-on-delimitation-530736"
+        }
+      ],
+      "notes": "17 अप्रैल 2026 को लोकसभा में गिरा: पक्ष में 298, विरोध में 230; मौजूद और वोट देने वाले सदस्यों का दो-तिहाई (352) नहीं मिला।",
+      "name_hi": "संविधान (131वां संशोधन) विधेयक, 2026",
+      "ministry_hi": "विधि और न्याय",
+      "house_introduced_hi": "लोकसभा",
+      "current_stage_hi": "नामंज़ूर",
+      "status_hi": "पुष्ट"
+    },
+    {
+      "id": "delimitation-2026",
+      "name": "Delimitation Bill, 2026",
+      "ministry": "Law and Justice",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-04-16",
+      "stages": {
+        "introduced": "2026-04-16",
+        "committee": null,
+        "passed_ls": null,
+        "passed_rs": null,
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "infructuous",
+      "status": "confirmed",
+      "summary": "2011 की जनगणना के आधार पर निर्वाचन क्षेत्रों की सीमाएं नए सिरे से तय करने के लिए परिसीमन आयोग बनाता।",
+      "source_url": "https://prsindia.org/billtrack/the-delimitation-bill-2026",
+      "other_sources": [
+        {
+          "title": "LiveLaw, 17 Apr 2026",
+          "url": "https://www.livelaw.in/amp/top-stories/lok-sabha-rejects-constitution-131st-bill-2026-on-delimitation-530736"
+        }
+      ],
+      "notes": "131वां संशोधन विधेयक गिरने के बाद सरकार ने 17 अप्रैल 2026 को इसे वापस ले लिया (लाइवलॉ); पीआरएस इसे निष्प्रभावी बताता है।",
+      "name_hi": "परिसीमन विधेयक, 2026",
+      "ministry_hi": "विधि और न्याय",
+      "house_introduced_hi": "लोकसभा",
+      "current_stage_hi": "निष्प्रभावी",
+      "status_hi": "पुष्ट"
+    },
+    {
+      "id": "ut-laws-amendment-2026",
+      "name": "Union Territories Laws (Amendment) Bill, 2026",
+      "ministry": "Home Affairs",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-04-16",
+      "stages": {
+        "introduced": "2026-04-16",
+        "committee": null,
+        "passed_ls": null,
+        "passed_rs": null,
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "infructuous",
+      "status": "confirmed",
+      "summary": "131वें संशोधन विधेयक के परिसीमन और सीटों से जुड़े बदलाव पुडुचेरी, दिल्ली और जम्मू और कश्मीर पर लागू करता।",
+      "source_url": "https://prsindia.org/billtrack/the-union-territories-laws-amendment-bill-2026",
+      "other_sources": [
+        {
+          "title": "LiveLaw, 17 Apr 2026",
+          "url": "https://www.livelaw.in/amp/top-stories/lok-sabha-rejects-constitution-131st-bill-2026-on-delimitation-530736"
+        },
+        {
+          "title": "PRS, Parliament functioning in Budget Session 2026",
+          "url": "https://prsindia.org/parliamenttrack/vital-stats/parliament-functioning-in-budget-session-2026"
+        }
+      ],
+      "notes": "विरोधाभास सुलझा: रिसर्च के एक पुराने नोट में कहा गया था कि पीआरएस इस विधेयक को 'लंबित' बताता है। 11 अक्टूबर 2026 को पीआरएस पेज इसे 'निष्प्रभावी' (लोकसभा, 17 अप्रैल 2026) दिखाता है, जो लाइवलॉ की इस खबर से मेल खाता है कि इसे परिसीमन विधेयक के साथ वापस लिया गया। यह रिसर्च तालिका के 32 विधेयकों में नहीं है; विरोधाभास सामने आने की वजह से जोड़ा गया।",
+      "name_hi": "केंद्र शासित प्रदेश कानून (संशोधन) विधेयक, 2026",
+      "ministry_hi": "गृह",
+      "house_introduced_hi": "लोकसभा",
+      "current_stage_hi": "निष्प्रभावी",
+      "status_hi": "पुष्ट"
+    },
+    {
+      "id": "public-examinations-amendment-2026",
+      "name": "Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026",
+      "ministry": "Personnel, Public Grievances and Pensions",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-07-27",
+      "stages": {
+        "introduced": "2026-07-27",
+        "committee": null,
+        "passed_ls": "2026-07-29",
+        "passed_rs": "2026-07-30",
+        "assent": null,
+        "act_name": "Public Examinations (Prevention of Unfair Means) Amendment Act, 2026",
+        "act_name_hi": "सार्वजनिक परीक्षा (अनुचित साधनों की रोकथाम) संशोधन अधिनियम, 2026"
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "परीक्षा के पेपर लीक पर सज़ा बढ़ाता है और जांच व मुकदमे के लिए समय-सीमा तय करता है।",
+      "source_url": "https://prsindia.org/billtrack/the-public-examinations-prevention-of-unfair-means-amendment-bill-2026",
+      "other_sources": [
+        {
+          "title": "PRS, Functioning of Parliament during Monsoon Session 2026",
+          "url": "https://prsindia.org/parliamenttrack/vital-stats/functioning-of-parliament-during-monsoon-session-2026"
+        }
+      ],
+      "notes": "पीआरएस ने अधिनियम की पीडीएफ का लिंक दिया है; मंजूरी की तारीख की पुष्टि नहीं।",
+      "name_hi": "सार्वजनिक परीक्षा (अनुचित साधनों की रोकथाम) संशोधन विधेयक, 2026",
+      "ministry_hi": "कार्मिक, लोक शिकायत और पेंशन",
+      "house_introduced_hi": "लोकसभा",
+      "current_stage_hi": "दोनों सदनों से पास",
+      "status_hi": "पुष्ट"
+    },
+    {
+      "id": "national-honour-amendment-2026",
+      "name": "Prevention of Insults to National Honour (Amendment) Bill, 2026",
+      "ministry": "Home Affairs",
+      "house_introduced": "Rajya Sabha",
+      "date_introduced": "2026-07-24",
+      "stages": {
+        "introduced": "2026-07-24",
+        "committee": null,
+        "passed_ls": "2026-07-30",
+        "passed_rs": "2026-07-29",
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "राष्ट्रगान में बाधा डालने पर सज़ा के प्रावधान को वंदे मातरम पर भी लागू करता है।",
+      "source_url": "https://prsindia.org/billtrack/the-prevention-of-insults-to-national-honour-amendment-bill-2026",
+      "notes": "स्रोतों में राष्ट्रपति की मंजूरी की पुष्टि नहीं हुई।",
+      "name_hi": "राष्ट्र गौरव अपमान निवारण (संशोधन) विधेयक, 2026",
+      "ministry_hi": "गृह",
+      "house_introduced_hi": "राज्यसभा",
+      "current_stage_hi": "दोनों सदनों से पास",
+      "status_hi": "पुष्ट"
+    },
+    {
+      "id": "supreme-court-number-of-judges-amendment-2026",
+      "name": "Supreme Court (Number of Judges) Amendment Bill, 2026",
+      "ministry": "Law and Justice",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-07-20",
+      "stages": {
+        "introduced": "2026-07-20",
+        "committee": null,
+        "passed_ls": "2026-08-03",
+        "passed_rs": "2026-08-05",
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "मुख्य न्यायाधीश के अलावा सुप्रीम कोर्ट के जजों की संख्या 33 से बढ़ाकर 37 करता है।",
+      "source_url": "https://prsindia.org/billtrack/the-supreme-court-number-of-judges-amendment-bill-2026",
+      "notes": "16 मई 2026 के एक अध्यादेश की जगह लेता है। स्रोतों में राष्ट्रपति की मंजूरी की पुष्टि नहीं हुई।",
+      "name_hi": "सुप्रीम कोर्ट (न्यायाधीशों की संख्या) संशोधन विधेयक, 2026",
+      "ministry_hi": "विधि और न्याय",
+      "house_introduced_hi": "लोकसभा",
+      "current_stage_hi": "दोनों सदनों से पास",
+      "status_hi": "पुष्ट"
+    },
+    {
+      "id": "msme-development-amendment-2026",
+      "name": "Micro, Small and Medium Enterprises Development (Amendment) Bill, 2026",
+      "ministry": "Micro, Small and Medium Enterprises",
+      "house_introduced": "Rajya Sabha",
+      "date_introduced": "2026-07-28",
+      "stages": {
+        "introduced": "2026-07-28",
+        "committee": null,
+        "passed_ls": "2026-08-07",
+        "passed_rs": "2026-08-03",
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "एमएसएमई के वर्गीकरण का तरीका बदलता है, पंजीकरण को स्वैच्छिक बनाता है और एमएसएमई के बकाये के जल्द भुगतान पर ज़ोर देता है।",
+      "source_url": "https://prsindia.org/billtrack/the-micro-small-and-medium-enterprises-development-amendment-bill-2026",
+      "notes": "पीआरएस पेज पर मंत्रालय का नाम 'Medium Small and Medium Enterprises' लिखा है, जो ज़ाहिर तौर पर टाइपिंग की गलती है। मंजूरी की पुष्टि नहीं।",
+      "name_hi": "सूक्ष्म, लघु और मध्यम उद्यम विकास (संशोधन) विधेयक, 2026",
+      "ministry_hi": "सूक्ष्म, लघु और मध्यम उद्यम",
+      "house_introduced_hi": "राज्यसभा",
+      "current_stage_hi": "दोनों सदनों से पास",
+      "status_hi": "पुष्ट"
+    },
+    {
+      "id": "registration-births-deaths-amendment-2026",
+      "name": "Registration of Births and Deaths (Amendment) Bill, 2026",
+      "ministry": "Home Affairs",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-07-29",
+      "stages": {
+        "introduced": "2026-07-29",
+        "committee": null,
+        "passed_ls": "2026-07-31",
+        "passed_rs": "2026-08-04",
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "दो साल से ज़्यादा देरी से होने वाले पंजीकरण के लिए प्रथम श्रेणी न्यायिक मजिस्ट्रेट की अनुमति ज़रूरी करता है।",
+      "source_url": "https://prsindia.org/billtrack/the-registration-of-births-and-deaths-amendment-bill-2026",
+      "notes": "स्रोतों में राष्ट्रपति की मंजूरी की पुष्टि नहीं हुई।",
+      "name_hi": "जन्म और मृत्यु पंजीकरण (संशोधन) विधेयक, 2026",
+      "ministry_hi": "गृह",
+      "house_introduced_hi": "लोकसभा",
+      "current_stage_hi": "दोनों सदनों से पास",
+      "status_hi": "पुष्ट"
+    },
+    {
+      "id": "bankers-books-evidence-2026",
+      "name": "Bankers' Books Evidence Bill, 2026",
+      "ministry": "Finance",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-08-03",
+      "stages": {
+        "introduced": "2026-08-03",
+        "committee": null,
+        "passed_ls": "2026-08-05",
+        "passed_rs": "2026-08-10",
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "1891 के एक कानून की जगह लेता है, ताकि बैंक के इलेक्ट्रॉनिक रिकॉर्ड सबूत के तौर पर इस्तेमाल हो सकें।",
+      "source_url": "https://prsindia.org/billtrack/the-bankers%E2%80%99-books-evidence-bill-2026",
+      "notes": "स्रोतों में राष्ट्रपति की मंजूरी की पुष्टि नहीं हुई।",
+      "name_hi": "बैंकर बही साक्ष्य विधेयक, 2026",
+      "ministry_hi": "वित्त",
+      "house_introduced_hi": "लोकसभा",
+      "current_stage_hi": "दोनों सदनों से पास",
+      "status_hi": "पुष्ट"
+    },
+    {
+      "id": "taxation-other-laws-amendment-2026",
+      "name": "Taxation and Other Laws (Amendment) Bill, 2026",
+      "ministry": "Finance",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-08-04",
+      "stages": {
+        "introduced": "2026-08-04",
+        "committee": null,
+        "passed_ls": "2026-08-06",
+        "passed_rs": "2026-08-10",
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "दूसरे कर बदलावों के साथ, सरकारी प्रतिभूतियों से विदेशी निवेशकों की ब्याज आय और पूंजीगत लाभ को कर-मुक्त करता है।",
+      "source_url": "https://prsindia.org/billtrack/the-taxation-and-other-laws-amendment-bill-2026",
+      "other_sources": [
+        {
+          "title": "SCC Online, Income Tax (Amendment) Ordinance, 2026 explained",
+          "url": "https://www.scconline.com/blog/post/2026/06/10/income-tax-amendment-ordinance-2026-explained/"
+        }
+      ],
+      "notes": "5 जून 2026 के आयकर (संशोधन) अध्यादेश की जगह लेता है। मंजूरी की पुष्टि नहीं।",
+      "name_hi": "कराधान और अन्य कानून (संशोधन) विधेयक, 2026",
+      "ministry_hi": "वित्त",
+      "house_introduced_hi": "लोकसभा",
+      "current_stage_hi": "दोनों सदनों से पास",
+      "status_hi": "पुष्ट"
+    },
+    {
+      "id": "tribunals-reforms-2026",
+      "name": "Tribunals Reforms Bill, 2026",
+      "ministry": "Law and Justice",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-08-10",
+      "stages": {
+        "introduced": "2026-08-10",
+        "committee": null,
+        "passed_ls": "2026-08-10",
+        "passed_rs": "2026-08-11",
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "न्यायाधिकरणों से जुड़े 2021 के कानून की जगह लेता है और चयन, कामकाज की समीक्षा और शिकायतों के लिए राष्ट्रीय न्यायाधिकरण आयोग बनाता है।",
+      "source_url": "https://prsindia.org/billtrack/the-tribunals-reforms-bill-2026",
+      "notes": "स्रोतों में राष्ट्रपति की मंजूरी की पुष्टि नहीं हुई।",
+      "name_hi": "न्यायाधिकरण सुधार विधेयक, 2026",
+      "ministry_hi": "विधि और न्याय",
+      "house_introduced_hi": "लोकसभा",
+      "current_stage_hi": "दोनों सदनों से पास",
+      "status_hi": "पुष्ट"
+    },
+    {
+      "id": "ncdc-amendment-2026",
+      "name": "National Co-operative Development Corporation (Amendment) Bill, 2026",
+      "ministry": "Cooperation",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-08-10",
+      "stages": {
+        "introduced": "2026-08-10",
+        "committee": null,
+        "passed_ls": "2026-08-11",
+        "passed_rs": "2026-08-12",
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "पूरे सहकारी क्षेत्र में एनसीडीसी के कर्ज़ देने और निवेश के दायरे को बढ़ाता है।",
+      "source_url": "https://prsindia.org/billtrack/the-national-co-operative-development-corporation-amendment-bill-2026",
+      "notes": "स्रोतों में राष्ट्रपति की मंजूरी की पुष्टि नहीं हुई।",
+      "name_hi": "राष्ट्रीय सहकारी विकास निगम (संशोधन) विधेयक, 2026",
+      "ministry_hi": "सहकारिता",
+      "house_introduced_hi": "लोकसभा",
+      "current_stage_hi": "दोनों सदनों से पास",
+      "status_hi": "पुष्ट"
+    },
+    {
+      "id": "kerala-alteration-of-name-2026",
+      "name": "Kerala (Alteration of Name) Bill, 2026",
+      "ministry": "Home Affairs",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-08-10",
+      "stages": {
+        "introduced": "2026-08-10",
+        "committee": null,
+        "passed_ls": "2026-08-11",
+        "passed_rs": "2026-08-12",
+        "assent": "2026-08",
+        "act_name": "Kerala (Alteration of Name) Act, 2026",
+        "act_name_hi": "केरल (नाम परिवर्तन) अधिनियम, 2026"
+      },
+      "current_stage": "in_force",
+      "status": "confirmed",
+      "summary": "संविधान की पहली अनुसूची में केरल राज्य का नाम बदलकर केरलम करता है।",
+      "source_url": "https://prsindia.org/billtrack/the-kerala-alteration-of-name-bill-2026",
+      "other_sources": [
+        {
+          "title": "The News Minute, 26 Aug 2026",
+          "url": "https://www.thenewsminute.com/kerala/kerala-is-now-officially-keralam-as-union-govt-notifies-name-change"
+        },
+        {
+          "title": "Onmanorama, 26 Aug 2026",
+          "url": "https://www.onmanorama.com/news/kerala/2026/08/26/its-official-kerala-is-now-keralam-as-centre-notifies-name-change.html"
+        }
+      ],
+      "notes": "अगस्त 2026 में मंजूरी मिली (सटीक तारीख नहीं मिली; द न्यूज़ मिनट के मुताबिक 'इसी महीने की शुरुआत में')। गृह मंत्रालय की अधिसूचना से 25 अगस्त 2026 से लागू (द न्यूज़ मिनट)।",
+      "name_hi": "केरल (नाम परिवर्तन) विधेयक, 2026",
+      "ministry_hi": "गृह",
+      "house_introduced_hi": "लोकसभा",
+      "current_stage_hi": "लागू",
+      "status_hi": "पुष्ट"
+    },
+    {
+      "id": "mmdr-amendment-2026",
+      "name": "Mines and Minerals (Development and Regulation) Amendment Bill, 2026",
+      "ministry": "Mines",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-08-10",
+      "stages": {
+        "introduced": "2026-08-10",
+        "committee": null,
+        "passed_ls": "2026-08-12",
+        "passed_rs": "2026-08-13",
+        "assent": "2026-08-18",
+        "act_name": null
+      },
+      "current_stage": "assent",
+      "status": "confirmed",
+      "summary": "राज्यों को खनिज अधिकारों या खनिज वाली ज़मीन पर कर लगाने से रोकता है, सिवाय उन शर्तों के जो केंद्र तय करे, और राज्यों के पिछले बकाया शुल्कों को रद्द करता है।",
+      "source_url": "https://prsindia.org/billtrack/the-mines-and-minerals-development-and-regulation-amendment-bill-2026",
+      "other_sources": [
+        {
+          "title": "Khaitan & Co, Ergo note, 21 Aug 2026 (assent date)",
+          "url": "https://www.khaitanco.com/sites/default/files/2026-08/Ergo_Mines%20and%20Minerals%20(Developement%20and%20Regulation)%20Amendment_21082026.pdf"
+        },
+        {
+          "title": "Business Standard, 20 Aug 2026",
+          "url": "https://www.business-standard.com/politics/congress-ruled-states-to-jointly-challenge-mmdr-act-in-supreme-court-126082001246_1.html"
+        }
+      ],
+      "notes": "मंजूरी की तारीख 18 अगस्त 2026 एक लॉ फर्म के नोट (खेतान एंड कंपनी) पर आधारित है; बिज़नेस स्टैंडर्ड (20 अगस्त) के मुताबिक मंजूरी 'इसी हफ्ते की शुरुआत में' मिली। कर्नाटक, केरल और तेलंगाना ने सुप्रीम कोर्ट में चुनौती की घोषणा की; याचिका दाखिल होने की पुष्टि नहीं।",
+      "name_hi": "खान और खनिज (विकास और विनियमन) संशोधन विधेयक, 2026",
+      "ministry_hi": "खान",
+      "house_introduced_hi": "लोकसभा",
+      "current_stage_hi": "राष्ट्रपति की मंजूरी",
+      "status_hi": "पुष्ट"
+    },
+    {
+      "id": "jan-vishwas-2026",
+      "name": "Jan Vishwas (Amendment of Provisions) Bill, 2026",
+      "ministry": "Commerce and Industry",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-03-27",
+      "stages": {
+        "introduced": "2026-03-27",
+        "committee": null,
+        "passed_ls": "2026-04-01",
+        "passed_rs": "2026-04-02",
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "छोटे अपराधों में जेल की सज़ा की जगह जुर्माना या चेतावनी लाने के लिए 80 केंद्रीय कानूनों में संशोधन करता है।",
+      "source_url": "https://prsindia.org/billtrack/the-jan-vishwas-amendment-of-provisions-bill-2026",
+      "notes": "2025 वाला संस्करण वापस ले लिया गया था। स्रोतों में राष्ट्रपति की मंजूरी की पुष्टि नहीं हुई।",
+      "name_hi": "जन विश्वास (प्रावधानों का संशोधन) विधेयक, 2026",
+      "ministry_hi": "वाणिज्य और उद्योग",
+      "house_introduced_hi": "लोकसभा",
+      "current_stage_hi": "दोनों सदनों से पास",
+      "status_hi": "पुष्ट"
+    },
+    {
+      "id": "capf-general-administration-2026",
+      "name": "Central Armed Police Forces (General Administration) Bill, 2026",
+      "ministry": "Home Affairs",
+      "house_introduced": "Rajya Sabha",
+      "date_introduced": "2026-03-25",
+      "stages": {
+        "introduced": "2026-03-25",
+        "committee": null,
+        "passed_ls": "2026-04-02",
+        "passed_rs": "2026-04-01",
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "केंद्र को पांच केंद्रीय सशस्त्र पुलिस बलों में भर्ती, प्रतिनियुक्ति और पदोन्नति के नियम बनाने का अधिकार देता है।",
+      "source_url": "https://prsindia.org/billtrack/the-central-armed-police-forces-general-administration-bill-2026",
+      "notes": "स्रोतों में राष्ट्रपति की मंजूरी की पुष्टि नहीं हुई।",
+      "name_hi": "केंद्रीय सशस्त्र पुलिस बल (सामान्य प्रशासन) विधेयक, 2026",
+      "ministry_hi": "गृह",
+      "house_introduced_hi": "राज्यसभा",
+      "current_stage_hi": "दोनों सदनों से पास",
+      "status_hi": "पुष्ट"
+    },
+    {
+      "id": "andhra-pradesh-reorganisation-amendment-2026",
+      "name": "Andhra Pradesh Reorganisation (Amendment) Bill, 2026",
+      "ministry": "Home Affairs",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-04-01",
+      "stages": {
+        "introduced": "2026-04-01",
+        "committee": null,
+        "passed_ls": "2026-04-01",
+        "passed_rs": "2026-04-02",
+        "assent": null,
+        "act_name": "Andhra Pradesh Reorganisation (Amendment) Act, 2026",
+        "act_name_hi": "आंध्र प्रदेश पुनर्गठन (संशोधन) अधिनियम, 2026"
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "अमरावती को आंध्र प्रदेश की राजधानी घोषित करता है।",
+      "source_url": "https://prsindia.org/billtrack/the-andhra-pradesh-reorganisation-amendment-bill-2026",
+      "notes": "पीआरएस ने अधिनियम की पीडीएफ का लिंक दिया है; मंजूरी की तारीख की पुष्टि नहीं। अधिनियम का नाम विधेयक के शीर्षक से अनुमानित है।",
+      "name_hi": "आंध्र प्रदेश पुनर्गठन (संशोधन) विधेयक, 2026",
+      "ministry_hi": "गृह",
+      "house_introduced_hi": "लोकसभा",
+      "current_stage_hi": "दोनों सदनों से पास",
+      "status_hi": "पुष्ट"
+    },
+    {
+      "id": "transgender-persons-amendment-2026",
+      "name": "Transgender Persons (Protection of Rights) Amendment Bill, 2026",
+      "ministry": "Social Justice and Empowerment",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-03-13",
+      "stages": {
+        "introduced": "2026-03-13",
+        "committee": null,
+        "passed_ls": "2026-03-24",
+        "passed_rs": "2026-03-25",
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "ट्रांसजेंडर व्यक्ति की परिभाषा की जगह सूचीबद्ध श्रेणियां लाता है और पहचान प्रमाणपत्रों की मेडिकल बोर्ड से समीक्षा जोड़ता है।",
+      "source_url": "https://prsindia.org/billtrack/the-transgender-persons-protection-of-rights-amendment-bill-2026",
+      "other_sources": [
+        {
+          "title": "SCO, 2026 Monsoon session review",
+          "url": "https://scobserver.in/journal/2026-monsoon-session-review"
+        }
+      ],
+      "notes": "अब यह अधिनियम है, जिसे सुप्रीम कोर्ट में चुनौती दी गई है (एससीओ); मंजूरी की तारीख की पुष्टि नहीं।",
+      "name_hi": "ट्रांसजेंडर व्यक्ति (अधिकारों का संरक्षण) संशोधन विधेयक, 2026",
+      "ministry_hi": "सामाजिक न्याय और अधिकारिता",
+      "house_introduced_hi": "लोकसभा",
+      "current_stage_hi": "दोनों सदनों से पास",
+      "status_hi": "पुष्ट"
+    },
+    {
+      "id": "industrial-relations-code-amendment-2026",
+      "name": "Industrial Relations Code (Amendment) Bill, 2026",
+      "ministry": "Labour and Employment",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-02-11",
+      "stages": {
+        "introduced": "2026-02-11",
+        "committee": null,
+        "passed_ls": "2026-02-12",
+        "passed_rs": "2026-02-12",
+        "assent": null,
+        "act_name": "Industrial Relations Code (Amendment) Act, 2026",
+        "act_name_hi": "औद्योगिक संबंध संहिता (संशोधन) अधिनियम, 2026"
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "ट्रेड यूनियनों, हड़तालों और औद्योगिक विवादों पर 2020 की श्रम संहिता में संशोधन करता है।",
+      "source_url": "https://prsindia.org/billtrack/the-industrial-relations-code-amendment-bill-2026",
+      "notes": "पीआरएस ने अधिनियम की पीडीएफ का लिंक दिया है; मंजूरी की तारीख की पुष्टि नहीं। अधिनियम का नाम विधेयक के शीर्षक से अनुमानित है।",
+      "name_hi": "औद्योगिक संबंध संहिता (संशोधन) विधेयक, 2026",
+      "ministry_hi": "श्रम और रोज़गार",
+      "house_introduced_hi": "लोकसभा",
+      "current_stage_hi": "दोनों सदनों से पास",
+      "status_hi": "पुष्ट"
+    },
+    {
+      "id": "ibc-amendment-2025",
+      "name": "Insolvency and Bankruptcy Code (Amendment) Bill, 2025",
+      "ministry": "Finance",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2025-08-12",
+      "stages": {
+        "introduced": "2025-08-12",
+        "committee": {
+          "name": "Select Committee of Lok Sabha on the IBC (Amendment) Bill, 2025",
+          "type": "select",
+          "chair": "Baijayant Panda",
+          "referred": "2025-08-12",
+          "report": "2025-12-17",
+          "name_hi": "आईबीसी (संशोधन) विधेयक, 2025 पर लोकसभा की प्रवर समिति",
+          "type_hi": "प्रवर",
+          "chair_hi": "बैजयंत पांडा"
+        },
+        "passed_ls": "2026-03-30",
+        "passed_rs": "2026-04-01",
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "दिवाला मामलों को तेज़ करता है और अदालत से बाहर, लेनदारों की अगुवाई वाला समाधान का रास्ता जोड़ता है।",
+      "source_url": "https://prsindia.org/billtrack/the-insolvency-and-bankruptcy-code-amendment-bill-2025",
+      "notes": "स्रोतों में राष्ट्रपति की मंजूरी की पुष्टि नहीं हुई।",
+      "name_hi": "दिवाला और शोधन अक्षमता संहिता (संशोधन) विधेयक, 2025",
+      "ministry_hi": "वित्त",
+      "house_introduced_hi": "लोकसभा",
+      "current_stage_hi": "दोनों सदनों से पास",
+      "status_hi": "पुष्ट"
+    },
+    {
+      "id": "vb-g-ram-g-2025",
+      "name": "Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin) (VB-G RAM G) Bill, 2025",
+      "ministry": "Agriculture and Farmers Welfare (as listed by PRS)",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2025-12-16",
+      "stages": {
+        "introduced": "2025-12-16",
+        "committee": null,
+        "passed_ls": "2025-12-18",
+        "passed_rs": "2025-12-18",
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "मनरेगा की जगह लेता है और ग्रामीण रोज़गार गारंटी को साल में 100 से बढ़ाकर 125 दिन करता है।",
+      "source_url": "https://prsindia.org/billtrack/the-viksit-bharat-%E2%80%93-guarantee-for-rozgar-and-ajeevika-mission-gramin-vb-%E2%80%93-g-ram-g-bill-2025",
+      "notes": "मंत्रालय का नाम वैसा ही है जैसा पीआरएस दिखाता है; विधेयक के पाठ से मिलान नहीं किया गया। मंजूरी की पुष्टि नहीं।",
+      "name_hi": "विकसित भारत - रोज़गार और आजीविका गारंटी मिशन (ग्रामीण) (वीबी-जी राम जी) विधेयक, 2025",
+      "ministry_hi": "कृषि और किसान कल्याण (पीआरएस की सूची के अनुसार)",
+      "house_introduced_hi": "लोकसभा",
+      "current_stage_hi": "दोनों सदनों से पास",
+      "status_hi": "पुष्ट"
+    },
+    {
+      "id": "shanti-2025",
+      "name": "Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India (SHANTI) Bill, 2025",
+      "ministry": "Science and Technology and Earth Sciences (as listed by PRS)",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2025-12-15",
+      "stages": {
+        "introduced": "2025-12-15",
+        "committee": null,
+        "passed_ls": "2025-12-17",
+        "passed_rs": "2025-12-18",
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "परमाणु ऊर्जा क्षेत्र को लाइसेंस वाली निजी कंपनियों के लिए खोलता है और 1962 के परमाणु ऊर्जा कानून व 2010 के परमाणु दायित्व कानून की जगह लेता है।",
+      "source_url": "https://prsindia.org/billtrack/the-sustainable-harnessing-and-advancementof-nuclear-energy-for-transforming-india-bill-2025",
+      "notes": "मंत्रालय का नाम वैसा ही है जैसा पीआरएस दिखाता है; विधेयक के पाठ से मिलान नहीं किया गया। मंजूरी की पुष्टि नहीं।",
+      "name_hi": "भारत के रूपांतरण के लिए परमाणु ऊर्जा का सतत दोहन और उन्नति (शांति) विधेयक, 2025",
+      "ministry_hi": "विज्ञान और प्रौद्योगिकी तथा पृथ्वी विज्ञान (पीआरएस की सूची के अनुसार)",
+      "house_introduced_hi": "लोकसभा",
+      "current_stage_hi": "दोनों सदनों से पास",
+      "status_hi": "पुष्ट"
+    },
+    {
+      "id": "sabka-bima-sabki-raksha-2025",
+      "name": "Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025",
+      "ministry": "Finance",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2025-12-16",
+      "stages": {
+        "introduced": "2025-12-16",
+        "committee": null,
+        "passed_ls": "2025-12-16",
+        "passed_rs": "2025-12-17",
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "भारतीय बीमा कंपनियों में 100% विदेशी निवेश की अनुमति देता है।",
+      "source_url": "https://prsindia.org/billtrack/the-sabka-bima-sabki-raksha-amendment-of-insurance-laws-bill-2025",
+      "notes": "स्रोतों में राष्ट्रपति की मंजूरी की पुष्टि नहीं हुई।",
+      "name_hi": "सबका बीमा सबकी रक्षा (बीमा कानूनों का संशोधन) विधेयक, 2025",
+      "ministry_hi": "वित्त",
+      "house_introduced_hi": "लोकसभा",
+      "current_stage_hi": "दोनों सदनों से पास",
+      "status_hi": "पुष्ट"
+    },
+    {
+      "id": "online-gaming-2025",
+      "name": "Promotion and Regulation of Online Gaming Bill, 2025",
+      "ministry": "Electronics and Information Technology",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2025-08-20",
+      "stages": {
+        "introduced": "2025-08-20",
+        "committee": null,
+        "passed_ls": "2025-08-20",
+        "passed_rs": "2025-08-21",
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "असली पैसे वाले ऑनलाइन गेम और उनके विज्ञापनों पर रोक लगाता है, और ई-स्पोर्ट्स को बढ़ावा देता है।",
+      "source_url": "https://prsindia.org/billtrack/the-promotion-and-regulation-of-online-gaming-bill-2025",
+      "notes": "स्रोतों में राष्ट्रपति की मंजूरी की पुष्टि नहीं हुई।",
+      "name_hi": "ऑनलाइन गेमिंग संवर्धन और विनियमन विधेयक, 2025",
+      "ministry_hi": "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी",
+      "house_introduced_hi": "लोकसभा",
+      "current_stage_hi": "दोनों सदनों से पास",
+      "status_hi": "पुष्ट"
+    },
+    {
+      "id": "income-tax-no2-2025",
+      "name": "Income-Tax (No. 2) Bill, 2025",
+      "ministry": "Finance",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2025-08-11",
+      "stages": {
+        "introduced": "2025-08-11",
+        "committee": null,
+        "passed_ls": "2025-08-11",
+        "passed_rs": "2025-08-12",
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "आयकर अधिनियम, 1961 की जगह नए सिरे से लिखा गया, सरल कानून लाता है।",
+      "source_url": "https://prsindia.org/billtrack/the-income-tax-no2-bill-2025",
+      "other_sources": [
+        {
+          "title": "PRS, Parliament functioning in Monsoon Session 2025",
+          "url": "https://prsindia.org/parliamenttrack/vital-stats/parliament-functioning-in-monsoon-session-2025"
+        }
+      ],
+      "notes": "इसने आयकर विधेयक, 2025 की जगह ली, जिसे वापस ले लिया गया था। स्रोतों में राष्ट्रपति की मंजूरी की पुष्टि नहीं हुई।",
+      "name_hi": "आयकर (संख्या 2) विधेयक, 2025",
+      "ministry_hi": "वित्त",
+      "house_introduced_hi": "लोकसभा",
+      "current_stage_hi": "दोनों सदनों से पास",
+      "status_hi": "पुष्ट"
+    },
+    {
+      "id": "constitution-129th-amendment-2024",
+      "name": "Constitution (129th Amendment) Bill, 2024 (One Nation One Election)",
+      "ministry": "Law and Justice",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2024-12-17",
+      "stages": {
+        "introduced": "2024-12-17",
+        "committee": {
+          "name": "Joint Parliamentary Committee on One Nation One Election (41 members)",
+          "type": "joint",
+          "chair": "P.P. Chaudhary",
+          "referred": "2024-12-19",
+          "report": null,
+          "report_due": "शीतकालीन सत्र 2026 के आखिरी हफ्ते का पहला दिन",
+          "name_hi": "एक देश, एक चुनाव पर संयुक्त संसदीय समिति (41 सदस्य)",
+          "type_hi": "संयुक्त",
+          "chair_hi": "पी.पी. चौधरी"
+        },
+        "passed_ls": null,
+        "passed_rs": null,
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "in_committee",
+      "status": "confirmed",
+      "summary": "अधिसूचित तारीख के बाद चुनी गई राज्य विधानसभाओं का कार्यकाल लोकसभा के साथ खत्म करता है, ताकि सबके चुनाव एक साथ हों।",
+      "source_url": "https://prsindia.org/billtrack/the-constitution-one-hundred-and-twenty-ninth-amendment-bill-2024",
+      "other_sources": [
+        {
+          "title": "News On AIR, 29 Jul 2026",
+          "url": "https://newsonair.gov.in/lok-sabha-extends-tenure-of-jpc-on-one-nation-one-election/"
+        }
+      ],
+      "notes": "यह रिसर्च तालिका के 32 विधेयकों में नहीं है; पूर्णता के लिए जोड़ा गया। समय-सीमा मार्च 2026 में और फिर 29 जुलाई 2026 को बढ़ाई गई।",
+      "name_hi": "संविधान (129वां संशोधन) विधेयक, 2024 (एक देश, एक चुनाव)",
+      "ministry_hi": "विधि और न्याय",
+      "house_introduced_hi": "लोकसभा",
+      "current_stage_hi": "समिति में",
+      "status_hi": "पुष्ट"
+    },
+    {
+      "id": "ut-laws-amendment-2024",
+      "name": "Union Territories Laws (Amendment) Bill, 2024 (One Nation One Election)",
+      "ministry": "Law and Justice (not confirmed)",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2024-12-17",
+      "stages": {
+        "introduced": "2024-12-17",
+        "committee": {
+          "name": "Joint Parliamentary Committee on One Nation One Election (41 members)",
+          "type": "joint",
+          "chair": "P.P. Chaudhary",
+          "referred": null,
+          "report": null,
+          "report_due": "शीतकालीन सत्र 2026 के आखिरी हफ्ते का पहला दिन",
+          "name_hi": "एक देश, एक चुनाव पर संयुक्त संसदीय समिति (41 सदस्य)",
+          "type_hi": "संयुक्त",
+          "chair_hi": "पी.पी. चौधरी"
+        },
+        "passed_ls": null,
+        "passed_rs": null,
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "in_committee",
+      "status": "partly_confirmed",
+      "summary": "एक साथ चुनाव की व्यवस्था को विधानसभा वाले केंद्र शासित प्रदेशों पर लागू करता है।",
+      "source_url": "https://newsonair.gov.in/lok-sabha-extends-tenure-of-jpc-on-one-nation-one-election/",
+      "notes": "यह रिसर्च तालिका के 32 विधेयकों में नहीं है; पूर्णता के लिए जोड़ा गया। पीआरएस पेज नहीं खोला गया; मंत्रालय और समिति को भेजे जाने की तारीख की पुष्टि नहीं। स्रोत न्यूज़ ऑन एयर / राजनीति रिसर्च फाइल है।",
+      "name_hi": "केंद्र शासित प्रदेश कानून (संशोधन) विधेयक, 2024 (एक देश, एक चुनाव)",
+      "ministry_hi": "विधि और न्याय (पुष्टि नहीं)",
+      "house_introduced_hi": "लोकसभा",
+      "current_stage_hi": "समिति में",
+      "status_hi": "आंशिक रूप से पुष्ट"
+    }
+  ]
+}

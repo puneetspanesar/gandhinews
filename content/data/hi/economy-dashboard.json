@@ -1,0 +1,606 @@
+{
+  "id": "economy-dashboard",
+  "title": "भारत की अर्थव्यवस्था का डैशबोर्ड",
+  "as_of": "2026-10-11",
+  "updated": "2026-10-11T09:00:00+05:30",
+  "notes": "हर आंकड़ा अपनी पंक्ति में बताए गए स्रोत से लिया गया है। verified_primary सिर्फ तब true है जब आंकड़ा किसी प्राथमिक विज्ञप्ति (आरबीआई, सांख्यिकी मंत्रालय, पीआईबी, वित्त मंत्रालय) में पढ़ा गया हो। जिन आंकड़ों को रिसर्च डेस्क ने गणना से निकाला गया (व्युत्पन्न) बताया, वे शामिल नहीं हैं।",
+  "indicators": [
+    {
+      "id": "gdp-growth",
+      "name": "वास्तविक जीडीपी वृद्धि",
+      "latest_value": 7.8,
+      "unit": "% सालाना",
+      "period": "अप्रैल-जून 2026 (2026-27 की पहली तिमाही)",
+      "release_date": "2026-08-31",
+      "change_vs_previous": {
+        "basis": "एक साल पहले की यही तिमाही",
+        "previous_value": 6.9,
+        "previous_period": "अप्रैल-जून 2025",
+        "change": 0.9,
+        "change_unit": "प्रतिशत अंक"
+      },
+      "history": [
+        {
+          "period": "अप्रैल-जून 2025",
+          "value": 6.9
+        },
+        {
+          "period": "अप्रैल-जून 2026",
+          "value": 7.8
+        }
+      ],
+      "annual_history": [
+        {
+          "period": "2023-24",
+          "value": 7.3
+        },
+        {
+          "period": "2024-25",
+          "value": 7.2
+        },
+        {
+          "period": "2025-26",
+          "value": 7.8
+        }
+      ],
+      "source": {
+        "publisher": "Ministry of Statistics and Programme Implementation (NSO)",
+        "url": "https://www.mospi.gov.in/uploads/latestreleasesfiles/1788174301107-Press%20Note%20on%20GDP%20Estimates%20for%20Q1%202026-27.pdf",
+        "date": "2026-08-31"
+      },
+      "annual_source": {
+        "publisher": "Press Information Bureau (factsheet citing MoSPI)",
+        "url": "https://pib.gov.in/FactsheetDetails.aspx?Id=150991",
+        "date": "2026-09-01"
+      },
+      "verified_primary": true,
+      "note": "आधार वर्ष 2022-23। नई सीरीज़ पर जुलाई-सितंबर 2025 से जनवरी-मार्च 2026 तक की तिमाही वृद्धि किसी प्राथमिक स्रोत में नहीं मिली, इसलिए पिछली तिमाही नहीं दिखाई गई है। अगली विज्ञप्ति: 30 नवंबर 2026।"
+    },
+    {
+      "id": "cpi-inflation",
+      "name": "सीपीआई महंगाई (अखिल भारतीय, संयुक्त)",
+      "latest_value": 4.82,
+      "unit": "% सालाना",
+      "period": "अगस्त 2026 (अनंतिम)",
+      "release_date": "2026-09-14",
+      "change_vs_previous": {
+        "basis": "पिछला महीना",
+        "previous_value": 4.45,
+        "previous_period": "जुलाई 2026 (अंतिम)",
+        "change": 0.37,
+        "change_unit": "प्रतिशत अंक"
+      },
+      "history": [
+        {
+          "period": "जनवरी 2026",
+          "value": 2.74
+        },
+        {
+          "period": "फरवरी 2026",
+          "value": 3.21
+        },
+        {
+          "period": "मार्च 2026",
+          "value": 3.4
+        },
+        {
+          "period": "अप्रैल 2026",
+          "value": 3.48
+        },
+        {
+          "period": "मई 2026",
+          "value": 3.93
+        },
+        {
+          "period": "जून 2026",
+          "value": 4.38
+        },
+        {
+          "period": "जुलाई 2026",
+          "value": 4.45
+        },
+        {
+          "period": "अगस्त 2026",
+          "value": 4.82
+        }
+      ],
+      "source": {
+        "publisher": "Ministry of Statistics and Programme Implementation (NSO)",
+        "url": "https://www.mospi.gov.in/uploads/latestreleasesfiles/1789382372004-Press%20Release%20of%20CPI%20for%20August%202026.pdf",
+        "date": "2026-09-14"
+      },
+      "verified_primary": true,
+      "note": "नई सीरीज़, आधार 2024=100। अगस्त 2026 में खाद्य महंगाई (सीएफपीआई): 5.95%। सितंबर के आंकड़े 12 अक्टूबर 2026 को आने हैं।"
+    },
+    {
+      "id": "repo-rate",
+      "name": "आरबीआई की नीतिगत रेपो रेट",
+      "latest_value": 5.5,
+      "unit": "%",
+      "period": "7 अक्टूबर 2026 से लागू",
+      "release_date": "2026-10-07",
+      "change_vs_previous": {
+        "basis": "पिछला स्तर",
+        "previous_value": 5.25,
+        "previous_period": "5 दिसंबर 2025 से",
+        "change": 0.25,
+        "change_unit": "प्रतिशत अंक"
+      },
+      "history": [
+        {
+          "period": "2023-02-08",
+          "value": 6.5,
+          "action": "25 बेसिस पॉइंट की बढ़ोतरी",
+          "source": {
+            "publisher": "Reserve Bank of India (MPC minutes)",
+            "url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=55267",
+            "date": "2023-02-22"
+          }
+        },
+        {
+          "period": "2025-02",
+          "value": 6.25,
+          "action": "25 बेसिस पॉइंट की कटौती",
+          "source": {
+            "publisher": "PTI via The Pioneer; Business Standard",
+            "url": "https://www.dailypioneer.com/2025/trending-news/rbi-cuts-repo-rate-by-50-bps-to-5-5-pc--third-consecutive-reduction.html",
+            "date": "2025-06-06"
+          },
+          "note": "कटौती का आकार पीटीआई के बताए फरवरी 2025 से कुल 100 बेसिस पॉइंट की कटौती में से अप्रैल (25 बेसिस पॉइंट) और जून (50 बेसिस पॉइंट) की कटौतियां घटाकर निकाला गया है; बैठक की सटीक तारीख की पुष्टि नहीं हुई।"
+        },
+        {
+          "period": "2025-04",
+          "value": 6.0,
+          "action": "25 बेसिस पॉइंट की कटौती",
+          "source": {
+            "publisher": "PTI via The Pioneer",
+            "url": "https://www.dailypioneer.com/2025/trending-news/rbi-cuts-repo-rate-by-50-bps-to-5-5-pc--third-consecutive-reduction.html",
+            "date": "2025-06-06"
+          }
+        },
+        {
+          "period": "2025-06-06",
+          "value": 5.5,
+          "action": "50 बेसिस पॉइंट की कटौती",
+          "source": {
+            "publisher": "PTI via The Pioneer",
+            "url": "https://www.dailypioneer.com/2025/trending-news/rbi-cuts-repo-rate-by-50-bps-to-5-5-pc--third-consecutive-reduction.html",
+            "date": "2025-06-06"
+          }
+        },
+        {
+          "period": "2025-12-05",
+          "value": 5.25,
+          "action": "25 बेसिस पॉइंट की कटौती",
+          "source": {
+            "publisher": "Business Standard",
+            "url": "https://www.business-standard.com/amp/finance/news/rbi-mpc-december-2025-rate-cut-announcement-sanjay-malhotra-cpi-inflation-125120500161_1.html",
+            "date": "2025-12-05"
+          }
+        },
+        {
+          "period": "2026-10-07",
+          "value": 5.5,
+          "action": "25 बेसिस पॉइंट की बढ़ोतरी",
+          "source": {
+            "publisher": "Reserve Bank of India",
+            "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63742",
+            "date": "2026-10-07"
+          }
+        }
+      ],
+      "source": {
+        "publisher": "Reserve Bank of India",
+        "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63742",
+        "date": "2026-10-07"
+      },
+      "verified_primary": true,
+      "note": "इतिहास में फरवरी 2023 की बढ़ोतरी के बाद से दरों में हुए बदलाव दिए गए हैं। बीच के वे फैसले जिनमें दर नहीं बदली, अलग से नहीं दिए गए, क्योंकि उन बैठकों की तारीखों का rbi.org.in से मिलान नहीं हो सका। एसडीएफ 5.25%, एमएसएफ और बैंक दर 5.75%। एमपीसी की अगली बैठक 2-4 दिसंबर 2026।"
+    },
+    {
+      "id": "unemployment",
+      "name": "बेरोज़गारी दर (पीएलएफएस, वर्तमान साप्ताहिक स्थिति, 15+ आयु)",
+      "latest_value": 5.0,
+      "unit": "%",
+      "period": "अगस्त 2026",
+      "release_date": "2026-09-15",
+      "change_vs_previous": {
+        "basis": "पिछला महीना",
+        "previous_value": 5.1,
+        "previous_period": "जुलाई 2026",
+        "change": -0.1,
+        "change_unit": "प्रतिशत अंक"
+      },
+      "history": [
+        {
+          "period": "अगस्त 2025",
+          "value": 5.1
+        },
+        {
+          "period": "सितंबर 2025",
+          "value": 5.2
+        },
+        {
+          "period": "अक्टूबर 2025",
+          "value": 5.2
+        },
+        {
+          "period": "नवंबर 2025",
+          "value": 4.7
+        },
+        {
+          "period": "दिसंबर 2025",
+          "value": 4.8
+        },
+        {
+          "period": "जनवरी 2026",
+          "value": 5.0
+        },
+        {
+          "period": "फरवरी 2026",
+          "value": 4.9
+        },
+        {
+          "period": "मार्च 2026",
+          "value": 5.1
+        },
+        {
+          "period": "अप्रैल 2026",
+          "value": 5.2
+        },
+        {
+          "period": "मई 2026",
+          "value": 5.5
+        },
+        {
+          "period": "जून 2026",
+          "value": 5.5
+        },
+        {
+          "period": "जुलाई 2026",
+          "value": 5.1
+        },
+        {
+          "period": "अगस्त 2026",
+          "value": 5.0
+        }
+      ],
+      "source": {
+        "publisher": "Ministry of Statistics and Programme Implementation (PLFS monthly bulletin)",
+        "url": "https://www.mospi.gov.in/uploads/latestReleases/latest_release_1789465219488_2c7319c0-05c4-4d44-9eac-a99be911de26_Monthly_Press_note_Aug_2026.pdf",
+        "date": "2026-09-15"
+      },
+      "verified_primary": true,
+      "note": "अगस्त 2026 में शहरी 6.8%, ग्रामीण 4.1%। सितंबर 2025 से जून 2026 तक के आंकड़े बुलेटिन के चार्ट के डेटा लेबल से पढ़े गए हैं; अगस्त 2025, जुलाई 2026 और अगस्त 2026 के आंकड़े उसके पाठ में भी दिए गए हैं।"
+    },
+    {
+      "id": "iip-growth",
+      "name": "औद्योगिक उत्पादन सूचकांक (आईआईपी) वृद्धि",
+      "latest_value": 8.0,
+      "unit": "% सालाना",
+      "period": "अगस्त 2026 (त्वरित अनुमान)",
+      "release_date": "2026-09-28",
+      "change_vs_previous": {
+        "basis": "पिछला महीना",
+        "previous_value": 7.4,
+        "previous_period": "जुलाई 2026 (संशोधित)",
+        "change": 0.6,
+        "change_unit": "प्रतिशत अंक"
+      },
+      "history": [
+        {
+          "period": "जुलाई 2026",
+          "value": 7.4
+        },
+        {
+          "period": "अगस्त 2026",
+          "value": 8.0
+        }
+      ],
+      "source": {
+        "publisher": "Ministry of Statistics and Programme Implementation",
+        "url": "https://www.mospi.gov.in/uploads/latestReleases/latest_release_1790590696008_1b346687-0a5f-445a-83a2-28283c586094_IIP_Press_Release_August_2026.pdf",
+        "date": "2026-09-28"
+      },
+      "verified_primary": true,
+      "note": "आधार 2022-23=100। अप्रैल-अगस्त 2026 में कुल वृद्धि 6.7%। पहले के महीनों की वृद्धि दरें नहीं दिखाई गईं क्योंकि उनके प्रकाशित आंकड़े नहीं मिले; सूचकांक के स्तर से निकाली गई वृद्धि दरें यहां प्रकाशित नहीं की जातीं।"
+    },
+    {
+      "id": "fiscal-deficit-pct-be",
+      "name": "केंद्र का राजकोषीय घाटा, बजट अनुमान के % के रूप में (संचयी)",
+      "latest_value": 41.9,
+      "unit": "बजट अनुमान का %",
+      "period": "अप्रैल-अगस्त 2026",
+      "release_date": "2026-09-30",
+      "change_vs_previous": {
+        "basis": "एक साल पहले की यही अवधि",
+        "previous_value": 38.1,
+        "previous_period": "अप्रैल-अगस्त 2025",
+        "change": 3.8,
+        "change_unit": "प्रतिशत अंक"
+      },
+      "history": [
+        {
+          "period": "अप्रैल-जून 2026",
+          "value": 18.2
+        },
+        {
+          "period": "अप्रैल-जुलाई 2026",
+          "value": 26.8
+        },
+        {
+          "period": "अप्रैल-अगस्त 2026",
+          "value": 41.9
+        }
+      ],
+      "source": {
+        "publisher": "UNI (reporting CGA data)",
+        "url": "https://www.uniindia.com/business-economy/economy-govt-finances/198268",
+        "date": "2026-09-30"
+      },
+      "history_sources": [
+        {
+          "period": "अप्रैल-जून 2026",
+          "publisher": "PTI via ThePrint",
+          "url": "https://theprint.in/economy/fiscal-deficit-touches-18-2-pc-of-full-year-target-in-q1-cga-data/3002122/",
+          "date": "2026-07-31"
+        },
+        {
+          "period": "अप्रैल-जुलाई 2026",
+          "publisher": "Daily Excelsior",
+          "url": "https://www.dailyexcelsior.com/centres-fy27-fiscal-deficit-touches-26-8-pc-of-full-year-target-at-end-july-govt-data/",
+          "date": "2026-08-31"
+        }
+      ],
+      "verified_primary": false,
+      "note": "अप्रैल-अगस्त का घाटा ₹7,10,249 करोड़। पूरे साल का बजट अनुमान ₹16,95,768 करोड़, जीडीपी का 4.3% (बजट एक नज़र में 2026-27)। सीजीए का विज्ञप्ति पेज नहीं पढ़ा जा सका, इसलिए आंकड़े सीजीए के डेटा पर समाचार एजेंसियों की खबरों पर आधारित हैं।"
+    },
+    {
+      "id": "gst-gross",
+      "name": "सकल जीएसटी संग्रह",
+      "latest_value": 2.04,
+      "unit": "₹ लाख करोड़",
+      "period": "सितंबर 2026 (अनंतिम)",
+      "release_date": "2026-10-01",
+      "change_vs_previous": {
+        "basis": "एक साल पहले का यही महीना",
+        "previous_value": 1.77,
+        "previous_period": "सितंबर 2025",
+        "change_pct": 14.7
+      },
+      "history": [
+        {
+          "period": "अप्रैल 2026",
+          "value": 2.42,
+          "note": "'₹2.42 लाख करोड़ से ज़्यादा' बताया गया"
+        },
+        {
+          "period": "मई 2026",
+          "value": 1.94,
+          "note": "'₹1.94 लाख करोड़ से ज़्यादा' बताया गया"
+        },
+        {
+          "period": "जुलाई 2026",
+          "value": 2.11,
+          "note": "करीब ₹2.11 लाख करोड़"
+        },
+        {
+          "period": "अगस्त 2026",
+          "value": 1.9985
+        },
+        {
+          "period": "सितंबर 2026",
+          "value": 2.04
+        }
+      ],
+      "source": {
+        "publisher": "Business Today",
+        "url": "https://businesstoday.in/latest/economy/story/september-gst-collections-rise-14-7-to-rs2-04-lakh-crore-558985-2026-10-01",
+        "date": "2026-10-01"
+      },
+      "history_sources": [
+        {
+          "period": "अप्रैल 2026",
+          "publisher": "News On AIR",
+          "url": "https://newsonair.gov.in/gst-collections-hit-all-time-high-of-over-%E2%82%B92-42-lakh-crore-in-april/",
+          "date": "2026-05-01"
+        },
+        {
+          "period": "मई 2026",
+          "publisher": "News On AIR",
+          "url": "https://newsonair.gov.in/gst-collections-rise-3-2-to-over-%E2%82%B91-94-lakh-crore-in-may/",
+          "date": "2026-06-01"
+        },
+        {
+          "period": "जुलाई 2026",
+          "publisher": "IANS via Eastern Mirror",
+          "url": "https://www.easternmirrornagaland.com/gst-collections-rise-148-pc-to-nearly-inr-2-lakh-crore-in-august",
+          "date": "2026-09-01"
+        },
+        {
+          "period": "अगस्त 2026",
+          "publisher": "IANS via Eastern Mirror",
+          "url": "https://www.easternmirrornagaland.com/gst-collections-rise-148-pc-to-nearly-inr-2-lakh-crore-in-august",
+          "date": "2026-09-01"
+        }
+      ],
+      "verified_primary": false,
+      "note": "जून 2026 का आंकड़ा छोड़ा गया है क्योंकि इसका एकमात्र स्रोत एक ब्रोकर साइट थी। अप्रैल-सितंबर 2026 में सकल संग्रह ₹12.46 लाख करोड़ रहा, 11.6% ज़्यादा।"
+    },
+    {
+      "id": "usd-inr",
+      "name": "डॉलर के मुकाबले रुपया (बंद भाव)",
+      "latest_value": 96.72,
+      "unit": "₹ प्रति $",
+      "period": "9 अक्टूबर 2026 (अनंतिम बंद भाव)",
+      "release_date": "2026-10-09",
+      "change_vs_previous": {
+        "basis": "पिछला बंद भाव",
+        "previous_value": 96.88,
+        "previous_period": "8 अक्टूबर 2026",
+        "change": -0.16,
+        "change_unit": "₹ (रुपया 16 पैसे मज़बूत हुआ)"
+      },
+      "history": [
+        {
+          "period": "30 अप्रैल 2026",
+          "value": 95.32,
+          "note": "उस समय का रिकॉर्ड निचला स्तर"
+        },
+        {
+          "period": "27 मई 2026",
+          "value": 95.68,
+          "note": "अनंतिम बंद भाव"
+        },
+        {
+          "period": "8 अक्टूबर 2026",
+          "value": 96.88
+        },
+        {
+          "period": "9 अक्टूबर 2026",
+          "value": 96.72
+        }
+      ],
+      "source": {
+        "publisher": "PTI via Deccan Herald",
+        "url": "https://www.deccanherald.com/amp/story/business/rupee-rises-16-paise-to-close-at-9672-against-us-dollar-4176436",
+        "date": "2026-10-09"
+      },
+      "history_sources": [
+        {
+          "period": "30 अप्रैल 2026",
+          "publisher": "Business Standard",
+          "url": "https://www.business-standard.com/amp/markets/news/rupee-outlook-usd-inr-levels-96-97-brent-oil-prices-rise-fii-outflows-2026-126043000501_1.html",
+          "date": "2026-04-30"
+        },
+        {
+          "period": "27 मई 2026",
+          "publisher": "PTI via Deccan Herald",
+          "url": "https://www.deccanherald.com/amp/story/business/markets/rupee-settles-on-flat-note-up-2-paise-at-9568-against-us-dollar-4018029",
+          "date": "2026-05-27"
+        }
+      ],
+      "verified_primary": false,
+      "note": "नेशनल हेराल्ड ने 9 अक्टूबर का बंद भाव 96.71 बताया। मौजूदा सर्वकालिक निचला स्तर नहीं मिला।"
+    },
+    {
+      "id": "forex-reserves",
+      "name": "विदेशी मुद्रा भंडार",
+      "latest_value": 734.6,
+      "unit": "$ अरब",
+      "period": "2 अक्टूबर 2026 को समाप्त सप्ताह",
+      "release_date": "2026-10-09",
+      "change_vs_previous": {
+        "basis": "पिछला हफ्ता",
+        "previous_value": 747.6,
+        "previous_period": "25 सितंबर 2026 को समाप्त सप्ताह",
+        "change": -12.95,
+        "change_unit": "$ अरब"
+      },
+      "history": [
+        {
+          "period": "26 जून 2026 को समाप्त सप्ताह",
+          "value": 666.9
+        },
+        {
+          "period": "4 सितंबर 2026 को समाप्त सप्ताह",
+          "value": 785.7,
+          "note": "रिकॉर्ड ऊंचाई"
+        },
+        {
+          "period": "25 सितंबर 2026 को समाप्त सप्ताह",
+          "value": 747.6
+        },
+        {
+          "period": "2 अक्टूबर 2026 को समाप्त सप्ताह",
+          "value": 734.6
+        }
+      ],
+      "source": {
+        "publisher": "Business Standard (reporting RBI weekly data)",
+        "url": "https://www.business-standard.com/amp/economy/news/india-s-forex-reserves-drop-for-fourth-week-down-12-95-bn-to-734-6-bn-126100901061_1.html",
+        "date": "2026-10-09"
+      },
+      "verified_primary": false,
+      "note": "लगातार चौथी साप्ताहिक गिरावट। 11 और 18 सितंबर को समाप्त हफ्तों के आंकड़े नहीं मिले।"
+    },
+    {
+      "id": "sensex",
+      "name": "बीएसई सेंसेक्स (बंद स्तर)",
+      "latest_value": 72472.33,
+      "unit": "अंक",
+      "period": "9 अक्टूबर 2026",
+      "release_date": "2026-10-09",
+      "change_vs_previous": {
+        "basis": "पिछला बंद भाव",
+        "change": 879.09,
+        "change_pct": 1.23,
+        "change_unit": "अंक"
+      },
+      "history": [
+        {
+          "period": "27 मई 2026",
+          "value": 75867.8
+        },
+        {
+          "period": "9 अक्टूबर 2026",
+          "value": 72472.33
+        }
+      ],
+      "source": {
+        "publisher": "Business Standard; PTI via Deccan Herald",
+        "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-october-9-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-it-stocks-today-126100900099_1.html",
+        "date": "2026-10-09"
+      },
+      "verified_primary": false,
+      "note": "27 मई 2026 का बंद स्तर पीटीआई (डेक्कन हेराल्ड के ज़रिए) से है। 10 और 11 अक्टूबर 2026 को सप्ताहांत था, इसलिए 9 अक्टूबर का बंद स्तर सबसे ताज़ा है।",
+      "history_sources": [
+        {
+          "period": "27 मई 2026",
+          "publisher": "PTI via Deccan Herald",
+          "url": "https://www.deccanherald.com/amp/story/business/markets/rupee-settles-on-flat-note-up-2-paise-at-9568-against-us-dollar-4018029",
+          "date": "2026-05-27"
+        }
+      ]
+    },
+    {
+      "id": "nifty-50",
+      "name": "एनएसई निफ्टी 50 (बंद स्तर)",
+      "latest_value": 22520.45,
+      "unit": "अंक",
+      "period": "9 अक्टूबर 2026",
+      "release_date": "2026-10-09",
+      "change_vs_previous": {
+        "basis": "पिछला बंद भाव",
+        "change": 288.65,
+        "change_pct": 1.3,
+        "change_unit": "अंक"
+      },
+      "history": [
+        {
+          "period": "27 मई 2026",
+          "value": 23907.15
+        },
+        {
+          "period": "9 अक्टूबर 2026",
+          "value": 22520.45
+        }
+      ],
+      "source": {
+        "publisher": "Business Standard; PTI via Deccan Herald",
+        "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-october-9-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-it-stocks-today-126100900099_1.html",
+        "date": "2026-10-09"
+      },
+      "verified_primary": false,
+      "note": "27 मई 2026 का बंद स्तर पीटीआई (डेक्कन हेराल्ड के ज़रिए) से है। 10 और 11 अक्टूबर 2026 को सप्ताहांत था, इसलिए 9 अक्टूबर का बंद स्तर सबसे ताज़ा है।",
+      "history_sources": [
+        {
+          "period": "27 मई 2026",
+          "publisher": "PTI via Deccan Herald",
+          "url": "https://www.deccanherald.com/amp/story/business/markets/rupee-settles-on-flat-note-up-2-paise-at-9568-against-us-dollar-4018029",
+          "date": "2026-05-27"
+        }
+      ]
+    }
+  ]
+}

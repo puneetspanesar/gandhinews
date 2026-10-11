@@ -1,0 +1,401 @@
+{
+  "meta": {
+    "title": "Parliament session statistics",
+    "as_of": "2026-10-11",
+    "compiled_by": "Gandhi News editorial desk",
+    "definitions": {
+      "productivity_prs_pct": "Time the House functioned as a share of its scheduled time (PRS Legislative Research).",
+      "productivity_government_pct": "Figure announced by the government or presiding officer; method not stated in sources read.",
+      "question_hour_share_pct": "Share of scheduled Question Hour time used."
+    },
+    "notes": [
+      "null means not stated in the source read.",
+      "Sessions of June-July 2024 (first session and Budget 2024 of the 18th Lok Sabha) not yet added."
+    ]
+  },
+  "sessions": [
+    {
+      "id": "monsoon-2026",
+      "name": "Monsoon Session 2026",
+      "lok_sabha_no": 18,
+      "start": "2026-07-20",
+      "end": "2026-08-13",
+      "lok_sabha": {
+        "sittings": 19,
+        "productivity_prs_pct": 15,
+        "productivity_government_pct": 19,
+        "question_hour_share_pct": 1,
+        "question_hour_minutes": 9,
+        "oral_answers": 2,
+        "bills_passed_excl_finance_appropriation": 11,
+        "bills_passed_with_only_minister_speaking": 9,
+        "bills_referred_to_committee": 1,
+        "private_members_business": "none taken up in the Lok Sabha (PRS)"
+      },
+      "rajya_sabha": {
+        "sittings": 19,
+        "productivity_prs_pct": 33,
+        "productivity_government_pct": 39.17,
+        "question_hour_share_pct": 12,
+        "question_hour_minutes": null,
+        "sitting_time": "37 h 49 min (Chairman's figure)",
+        "starred_questions_taken_up": "16 of 285",
+        "zero_hour_taken_up": "52 of 380",
+        "special_mentions_taken_up": "93 of 380"
+      },
+      "bills_introduced": 12,
+      "bills_passed_prs": 11,
+      "bills_passed_government": 12,
+      "notes": [
+        "Government counts 12 Bills passed (Rijiju; Rajya Sabha Chairman: 'passed or returned'); PRS counts 11, excluding Finance and Appropriation Bills.",
+        "Bills introduced (12) is from PRS Monthly Policy Review, Aug 2026: '11 of 12 introduced Bills were passed'; the pending Bill is the Indian Statistical Institute Bill, 2026.",
+        "Lok Sabha government figure 19% is Kiren Rijiju's (Outlook); Rajya Sabha 39.17% is the Chairman's (PTI). The government's method is not stated in sources read.",
+        "Session adjourned sine die 13 Aug 2026; not prorogued as of reports on 23 Aug and 17 Sep 2026."
+      ],
+      "sources": [
+        {
+          "publisher": "PRS Legislative Research",
+          "title": "Functioning of Parliament during Monsoon Session 2026",
+          "url": "https://prsindia.org/parliamenttrack/vital-stats/functioning-of-parliament-during-monsoon-session-2026"
+        },
+        {
+          "publisher": "PRS Legislative Research",
+          "title": "Monsoon Session 2026 vital stats",
+          "url": "https://prsindia.org/sessiontrack/monsoon-session-2026/vital-stats"
+        },
+        {
+          "publisher": "PRS Legislative Research",
+          "title": "Monthly Policy Review, August 2026",
+          "url": "https://prsindia.org/policy/monthly-policy-review/august-2026"
+        },
+        {
+          "publisher": "Outlook",
+          "title": "Monsoon Session Concludes With 11 Bills Passed, Lok Sabha Productivity At 19%",
+          "date": "2026-08-13",
+          "url": "https://www.outlookindia.com/national/monsoon-session-concludes-with-11-bills-passed-lok-sabha-productivity-at-19"
+        },
+        {
+          "publisher": "Telangana Today / PTI",
+          "title": "Rajya Sabha adjourned sine die after stormy session, productivity at 39 per cent",
+          "date": "2026-08-13",
+          "url": "https://telanganatoday.com/rajya-sabha-adjourned-sine-die-after-stormy-session-productivity-at-39-per-cent"
+        },
+        {
+          "publisher": "News On AIR",
+          "title": "Both Houses of Parliament adjourned sine die with passage of 12 bills during Monsoon Session",
+          "date": "2026-08-13",
+          "url": "https://newsonair.gov.in/both-houses-of-parliament-adjourned-sine-die-with-passage-of-12-bills-during-monsoon-session/"
+        }
+      ],
+      "time_per_bill": {
+        "source": "PRS Legislative Research, Functioning of Parliament during Monsoon Session 2026",
+        "unit": "HH:MM",
+        "rows": [
+          {
+            "bill": "Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026",
+            "ls_time": "10:54",
+            "ls_mps": 48,
+            "rs_time": "06:39",
+            "rs_mps": 35
+          },
+          {
+            "bill": "Prevention of Insults to National Honour (Amendment) Bill, 2026",
+            "ls_time": "00:14",
+            "ls_mps": 2,
+            "rs_time": "01:02",
+            "rs_mps": 11
+          },
+          {
+            "bill": "Tribunals Reforms Bill, 2026",
+            "ls_time": "00:12",
+            "ls_mps": 0,
+            "rs_time": "01:52",
+            "rs_mps": 15
+          },
+          {
+            "bill": "National Co-operative Development Corporation (Amendment) Bill, 2026",
+            "ls_time": "00:10",
+            "ls_mps": 0,
+            "rs_time": "01:42",
+            "rs_mps": 18
+          },
+          {
+            "bill": "Bankers' Books Evidence Bill, 2026",
+            "ls_time": "00:05",
+            "ls_mps": 0,
+            "rs_time": "00:52",
+            "rs_mps": 13
+          },
+          {
+            "bill": "Kerala (Alteration of Name) Bill, 2026",
+            "ls_time": "00:05",
+            "ls_mps": 0,
+            "rs_time": "02:16",
+            "rs_mps": 24
+          },
+          {
+            "bill": "Mines and Minerals (Development and Regulation) Amendment Bill, 2026",
+            "ls_time": "00:05",
+            "ls_mps": 0,
+            "rs_time": "00:40",
+            "rs_mps": 12
+          },
+          {
+            "bill": "Supreme Court (Number of Judges) Amendment Bill, 2026",
+            "ls_time": "00:04",
+            "ls_mps": 0,
+            "rs_time": "02:21",
+            "rs_mps": 33
+          },
+          {
+            "bill": "MSME Development (Amendment) Bill, 2026",
+            "ls_time": "00:03",
+            "ls_mps": 0,
+            "rs_time": "01:19",
+            "rs_mps": 18
+          },
+          {
+            "bill": "Taxation and Other Laws (Amendment) Bill, 2026",
+            "ls_time": "00:03",
+            "ls_mps": 0,
+            "rs_time": "02:07",
+            "rs_mps": 15
+          },
+          {
+            "bill": "Registration of Births and Deaths (Amendment) Bill, 2026",
+            "ls_time": "00:02",
+            "ls_mps": 0,
+            "rs_time": "00:50",
+            "rs_mps": 16
+          }
+        ]
+      }
+    },
+    {
+      "id": "budget-2026",
+      "name": "Budget Session 2026",
+      "lok_sabha_no": 18,
+      "start": "2026-01-28",
+      "end": "2026-04-18",
+      "lok_sabha": {
+        "sittings": 31,
+        "productivity_prs_pct": 86,
+        "productivity_government_pct": null,
+        "question_hour_share_pct": null,
+        "question_hour_minutes": null,
+        "question_hour_note": "Less than 15 minutes of Question Hour on 12 days",
+        "budget_guillotined_pct": 77,
+        "private_members_business": "none, though three days were allocated"
+      },
+      "rajya_sabha": {
+        "sittings": 31,
+        "productivity_prs_pct": 92,
+        "productivity_government_pct": null,
+        "question_hour_share_pct": null,
+        "question_hour_minutes": null,
+        "private_members_bills_introduced": 50
+      },
+      "bills_introduced": null,
+      "bills_passed_prs": null,
+      "notes": [
+        "PRS does not give a total count of Bills introduced or passed on the page read.",
+        "Session extended for delimitation-related Bills; the Constitution (131st Amendment) Bill was defeated 298-230 on 17 Apr 2026."
+      ],
+      "sources": [
+        {
+          "publisher": "PRS Legislative Research",
+          "title": "Parliament functioning in Budget Session 2026",
+          "url": "https://prsindia.org/parliamenttrack/vital-stats/parliament-functioning-in-budget-session-2026"
+        }
+      ]
+    },
+    {
+      "id": "winter-2025",
+      "name": "Winter Session 2025",
+      "lok_sabha_no": 18,
+      "start": "2025-12-01",
+      "end": "2025-12-19",
+      "lok_sabha": {
+        "sittings": 15,
+        "productivity_prs_pct": 103,
+        "productivity_government_pct": null,
+        "question_hour_share_pct": 67,
+        "question_hour_minutes": null,
+        "starred_questions_answered_orally_pct": 23,
+        "private_members_bills_introduced": 137
+      },
+      "rajya_sabha": {
+        "sittings": 15,
+        "productivity_prs_pct": 104,
+        "productivity_government_pct": null,
+        "question_hour_share_pct": 80,
+        "question_hour_minutes": null,
+        "starred_questions_answered_orally_pct": 26,
+        "private_members_bills_introduced": 59
+      },
+      "bills_introduced": 9,
+      "bills_passed_prs": 7,
+      "bills_referred_to_committee": 2,
+      "notes": [
+        "Question Hour figures are the share of Question Hour time used."
+      ],
+      "sources": [
+        {
+          "publisher": "PRS Legislative Research",
+          "title": "Parliament functioning in Winter Session 2025",
+          "url": "https://prsindia.org/parliamenttrack/vital-stats/parliament-functioning-in-winter-session-2025"
+        }
+      ]
+    },
+    {
+      "id": "monsoon-2025",
+      "name": "Monsoon Session 2025",
+      "lok_sabha_no": 18,
+      "start": "2025-07-21",
+      "end": "2025-08-21",
+      "lok_sabha": {
+        "sittings": 21,
+        "productivity_prs_pct": 29,
+        "productivity_government_pct": null,
+        "question_hour_share_pct": 23,
+        "question_hour_minutes": null,
+        "starred_questions_answered_orally_pct": 8
+      },
+      "rajya_sabha": {
+        "sittings": 21,
+        "productivity_prs_pct": 34,
+        "productivity_government_pct": null,
+        "question_hour_share_pct": 6,
+        "question_hour_minutes": null,
+        "starred_questions_answered_orally_pct": 5
+      },
+      "bills_introduced": 13,
+      "bills_passed_prs": 14,
+      "bills_referred_to_committee": 5,
+      "notes": [
+        "PRS called the Lok Sabha figure 'the lowest functioning seen during the 18th Lok Sabha' at the time.",
+        "13 Bills introduced (excluding Appropriation Bills); 14 passed by both Houses (excluding Finance and Appropriation Bills); 3 referred to Joint Committees and 2 to Lok Sabha Select Committees."
+      ],
+      "sources": [
+        {
+          "publisher": "PRS Legislative Research",
+          "title": "Parliament functioning in Monsoon Session 2025",
+          "url": "https://prsindia.org/parliamenttrack/vital-stats/parliament-functioning-in-monsoon-session-2025"
+        }
+      ]
+    },
+    {
+      "id": "budget-2025",
+      "name": "Budget Session 2025",
+      "lok_sabha_no": 18,
+      "start": "2025-01-31",
+      "end": "2025-04-04",
+      "lok_sabha": {
+        "sittings": 26,
+        "productivity_prs_pct": 111,
+        "productivity_government_pct": null,
+        "question_hour_share_pct": 78,
+        "question_hour_minutes": null,
+        "starred_questions_answered_orally_pct": 28
+      },
+      "rajya_sabha": {
+        "sittings": 26,
+        "productivity_prs_pct": null,
+        "productivity_government_pct": null,
+        "question_hour_share_pct": 83,
+        "question_hour_minutes": null,
+        "starred_questions_answered_orally_pct": 28
+      },
+      "bills_introduced": 5,
+      "bills_passed_prs": 10,
+      "bills_referred_to_committee": 1,
+      "notes": [
+        "Rajya Sabha productivity not given on the PRS page read."
+      ],
+      "sources": [
+        {
+          "publisher": "PRS Legislative Research",
+          "title": "Parliament functioning in Budget Session 2025",
+          "url": "https://prsindia.org/parliamenttrack/vital-stats/parliament-functioning-in-budget-session-2025"
+        }
+      ]
+    },
+    {
+      "id": "winter-2024",
+      "name": "Winter Session 2024",
+      "lok_sabha_no": 18,
+      "start": "2024-11-25",
+      "end": "2024-12-20",
+      "lok_sabha": {
+        "sittings": 20,
+        "productivity_prs_pct": 52,
+        "productivity_government_pct": null,
+        "question_hour_share_pct": null,
+        "question_hour_minutes": null,
+        "question_hour_note": "Question Hour did not run for more than 10 minutes on 12 of 20 days"
+      },
+      "rajya_sabha": {
+        "sittings": 19,
+        "productivity_prs_pct": 39,
+        "productivity_government_pct": null,
+        "question_hour_share_pct": null,
+        "question_hour_minutes": null,
+        "question_hour_note": "Question Hour did not function on 15 of 19 days"
+      },
+      "bills_introduced": 4,
+      "bills_passed_prs": 1,
+      "notes": [
+        "Two of the four Bills introduced were the One Nation One Election Bills."
+      ],
+      "sources": [
+        {
+          "publisher": "PRS Legislative Research",
+          "title": "Parliament functioning in Winter Session 2024",
+          "url": "https://prsindia.org/parliamenttrack/vital-stats/parliament-functioning-in-winter-session-2024"
+        }
+      ]
+    }
+  ],
+  "committee_referral_share": {
+    "description": "Share of Bills referred to parliamentary committees, by Lok Sabha",
+    "unit": "%",
+    "rows": [
+      {
+        "lok_sabha": "14th (2004-09)",
+        "share_pct": 60,
+        "source": "https://prsindia.org/parliamenttrack/vital-stats/functioning-of-16th-lok-sabha-2014-2019"
+      },
+      {
+        "lok_sabha": "15th (2009-14)",
+        "share_pct": 71,
+        "source": "https://prsindia.org/parliamenttrack/vital-stats/functioning-of-16th-lok-sabha-2014-2019"
+      },
+      {
+        "lok_sabha": "16th (2014-19)",
+        "share_pct": 25,
+        "alt_values": [
+          {
+            "value": 28,
+            "source": "https://prsindia.org/parliamenttrack/vital-stats/functioning-of-parliament-during-monsoon-session-2026"
+          },
+          {
+            "value": 27,
+            "source": "https://prsindia.org/files/parliament/discussion_papers/Parliamentary%20Committees%20Increasing%20their%20effectiveness.pdf"
+          }
+        ],
+        "source": "https://prsindia.org/parliamenttrack/vital-stats/functioning-of-16th-lok-sabha-2014-2019",
+        "status": "disputed"
+      },
+      {
+        "lok_sabha": "17th (2019-24)",
+        "share_pct": 16,
+        "source": "https://prsindia.org/parliamenttrack/vital-stats/functioning-of-the-17th-lok-sabha"
+      },
+      {
+        "lok_sabha": "18th (to Monsoon 2026)",
+        "share_pct": 21,
+        "source": "https://prsindia.org/parliamenttrack/vital-stats/functioning-of-parliament-during-monsoon-session-2026"
+      }
+    ]
+  }
+}

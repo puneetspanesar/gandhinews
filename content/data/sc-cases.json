@@ -1,0 +1,315 @@
+{
+  "meta": {
+    "title": "Big Supreme Court cases tracker",
+    "as_of": "2026-10-11",
+    "compiled_by": "Gandhi News editorial desk",
+    "status_values": [
+      "pending",
+      "reserved",
+      "referred_to_larger_bench",
+      "partly_decided",
+      "decided",
+      "disposed",
+      "challenge_announced"
+    ],
+    "notes": [
+      "Dates are ISO; 'YYYY-MM' means the month is known but not the day.",
+      "bench_size is the bench that last heard or decided the matter; null when not stated in sources."
+    ]
+  },
+  "cases": [
+    {
+      "id": "ec-appointments-law",
+      "case": "Jaya Thakur v. Union of India (challenge to the Chief Election Commissioner and Other Election Commissioners Act, 2023)",
+      "issue": "Whether Sections 6 and 7 of the 2023 Act, which removed the Chief Justice of India from the panel that selects the CEC and Election Commissioners, compromise the Election Commission's independence.",
+      "bench_size": 2,
+      "bench": "Justices Dipankar Datta and S.C. Sharma (CJI Surya Kant recused on 20 Mar 2026)",
+      "status": "referred_to_larger_bench",
+      "status_text": "Referred to a Constitution Bench",
+      "last_date": "2026-09-23",
+      "last_event": "The two judges split on whether a larger bench was needed, then unanimously sent the papers to the CJI so a Constitution Bench can be constituted. Decision had been reserved on 30 Jul 2026.",
+      "next_step": "Constitution Bench to be constituted; no hearing date announced. Separately, on 5 Oct 2026 a bench of CJI Surya Kant and Justices Joymalya Bagchi and V. Mohana issued notice to the Centre and the ECI on a plea asking whether CEC Gyanesh Kumar can individually exercise powers vested in the full Commission, and said 'Any modification to Form 6 has not been approved by us' (IANS; PTI).",
+      "sources": [
+        {
+          "title": "SCO case page: Jaya Thakur v Union of India",
+          "publisher": "Supreme Court Observer",
+          "date": "2026-09-23",
+          "url": "https://www.scobserver.in/cases/jaya-thakur-v-union-of-india-challenges-to-the-appointments-of-election-commissioners-act-2023-eci/"
+        },
+        {
+          "title": "Supreme Court Observer, Monthly Review: September 2026",
+          "publisher": "Supreme Court Observer",
+          "date": "2026-09-30",
+          "url": "https://www.scobserver.in/journal/monthly-review-september-2026/amp/"
+        },
+        {
+          "title": "ECI's Sep 26 SIR press note never taken down from website: PIB Fact Check",
+          "publisher": "SocialNews.XYZ (IANS)",
+          "date": "2026-10-05",
+          "url": "https://www.socialnews.xyz/2026/10/05/ecis-sep-26-sir-press-note-never-taken-down-from-website-pib-fact-check-lead/"
+        }
+      ]
+    },
+    {
+      "id": "definition-of-industry",
+      "case": "State of Uttar Pradesh v. Jai Bir Singh",
+      "issue": "Whether to revisit the 1978 Bangalore Water Supply test for what counts as an 'industry' under Section 2(j) of the Industrial Disputes Act.",
+      "bench_size": 9,
+      "bench": "Nine judges led by CJI Surya Kant",
+      "status": "decided",
+      "status_text": "Decided, split verdict",
+      "last_date": "2026-08-20",
+      "last_event": "Four judges backed the CJI's narrower 'discernible commercial character' test; four (Nagarathna, Datta, Bhuyan, Bagchi) backed the 1978 test; Justice P.S. Narasimha left the 1978 test undisturbed because the ID Act has been repealed. The 1978 test continues for pending ID Act disputes.",
+      "next_step": "None in this case. The Industrial Relations Code, 2020 definition is to be read on its own terms.",
+      "sources": [
+        {
+          "title": "Supreme Court Observer, 2026 | Monsoon session review",
+          "publisher": "Supreme Court Observer",
+          "date": "2026-09-30",
+          "url": "https://scobserver.in/journal/2026-monsoon-session-review"
+        },
+        {
+          "title": "Justice B.V. Nagarathna's opinion (PDF)",
+          "publisher": "Supreme Court Observer",
+          "url": "https://www.scobserver.in/wp-content/uploads/2026/08/Justice-BV-Nagarathna-Opinion-Definition-of-Industry-State-of-UP-v-Jai-Bir-Singh.pdf"
+        }
+      ],
+      "notes": "SCO describes the split as 6:3 on maintainability of the reference and 4:4 on altering the test. SCO's review does not name the judges on each side of the 4:4 split; the names here rest on the published opinions and were not re-checked."
+    },
+    {
+      "id": "sabarimala-reference",
+      "case": "Sabarimala reference (review of the 2018 women's entry judgment and connected religious-freedom questions)",
+      "issue": "Scope of freedom of religion under Articles 25 and 26, the essential religious practices doctrine and 'constitutional morality'; the reference also covers the Dawoodi Bohra and Parsi women matters.",
+      "bench_size": 9,
+      "bench": "CJI Surya Kant and Justices B.V. Nagarathna, M.M. Sundresh, Ahsanuddin Amanullah, Aravind Kumar, Augustine George Masih, Prasanna B. Varale, R. Mahadevan and Joymalya Bagchi",
+      "status": "reserved",
+      "status_text": "Judgment reserved",
+      "last_date": "2026-05-14",
+      "last_event": "Judgment reserved after 16 days of hearing.",
+      "next_step": "Verdict. The CJI indicated in August it could come by 6 Oct 2026 (LiveLaw, Kerala Kaumudi); no verdict found as of 11 Oct 2026.",
+      "sources": [
+        {
+          "title": "Supreme Court Observer, 2026 | Summer session review",
+          "publisher": "Supreme Court Observer",
+          "date": "2026-06-30",
+          "url": "https://www.scobserver.in/journal/2026-summer-session-review/"
+        },
+        {
+          "title": "Supreme Court To Hear Bodh Gaya Temple Act Challenge After Sabarimala Reference Verdict; Posted In October",
+          "publisher": "LiveLaw",
+          "date": "2026-08-11",
+          "url": "https://www.livelaw.in/top-stories/supreme-court-sabarimala-reference-9-judge-decision-likely-in-october-bodh-gaya-temple-act-constitutionality-challenge-deferred-545383"
+        },
+        {
+          "title": "Sabarimala women entry verdict in October first week",
+          "publisher": "Kerala Kaumudi",
+          "date": "2026-08-12",
+          "url": "https://keralakaumudi.com/en/india/general/sabarimala-women-entry-verdict-october-first-week-1790839"
+        }
+      ]
+    },
+    {
+      "id": "legislative-privilege-free-speech",
+      "case": "N. Ravi v. Speaker, Tamil Nadu Legislative Assembly",
+      "issue": "Whether legislative privilege under Article 194 overrides free speech under Article 19(1)(a); arose from the TN Assembly's 2003 order to arrest editors of The Hindu over an editorial.",
+      "bench_size": 7,
+      "bench": "CJI Surya Kant and Justices Aravind Kumar, P.K. Mishra, Joymalya Bagchi, Vipul Pancholi, Shree Chandrashekhar and V. Mohana",
+      "status": "disposed",
+      "status_text": "Disposed as infructuous; questions of law left open",
+      "last_date": "2026-10-06",
+      "last_event": "Reference closed because the Assembly resolution was withdrawn in 2004.",
+      "next_step": "None. The legal question awaits a future case.",
+      "sources": [
+        {
+          "title": "Supreme Court 7-Judge Bench Disposes Reference On Legislative Privilege As Infructuous",
+          "publisher": "LiveLaw",
+          "date": "2026-10-06",
+          "url": "https://www.livelaw.in/top-stories/supreme-court-7-judge-reference-on-legislative-privilege-free-speech-interplay-closed-as-2003-tamil-nadu-assembly-decision-withdrawn-553277"
+        },
+        {
+          "title": "Seven-judge Bench to hear challenge on law makers immunity from 6 October 2026",
+          "publisher": "Supreme Court Observer",
+          "date": "2026-08-12",
+          "url": "https://www.scobserver.in/reports/seven-judge-bench-to-hear-challenge-on-law-markers-immunity-from-6-october-2026/"
+        }
+      ]
+    },
+    {
+      "id": "sir-electoral-rolls",
+      "case": "Association for Democratic Reforms v. Election Commission of India and connected SIR petitions",
+      "issue": "Legality of the Special Intensive Revision (SIR) of electoral rolls in Bihar and later phases.",
+      "bench_size": 2,
+      "bench": "CJI Surya Kant and Justice Joymalya Bagchi (Bihar ruling)",
+      "status": "partly_decided",
+      "status_text": "Bihar SIR upheld; later-phase challenges pending",
+      "last_date": "2026-09",
+      "last_event": "Notice issued on a Delhi petition alleging SIR notices were issued mechanically. In August the Court directed the ECI to disclose pending appeals in West Bengal. Bihar SIR upheld unanimously on 27 May 2026.",
+      "next_step": "Hearings on Delhi and West Bengal matters; no dates in sources found.",
+      "sources": [
+        {
+          "title": "Supreme Court Observer, 2026 | Summer session review",
+          "publisher": "Supreme Court Observer",
+          "date": "2026-06-30",
+          "url": "https://www.scobserver.in/journal/2026-summer-session-review/"
+        },
+        {
+          "title": "Supreme Court Observer, 2026 | Monsoon session review",
+          "publisher": "Supreme Court Observer",
+          "date": "2026-09-30",
+          "url": "https://scobserver.in/journal/2026-monsoon-session-review"
+        },
+        {
+          "title": "Supreme Court Observer, Monthly Review: September 2026",
+          "publisher": "Supreme Court Observer",
+          "date": "2026-09-30",
+          "url": "https://www.scobserver.in/journal/monthly-review-september-2026/amp/"
+        }
+      ],
+      "notes": "Exact date of the September notice not given by SCO."
+    },
+    {
+      "id": "neet-protest-firs",
+      "case": "NEET-UG 2026 protest FIRs (Jantar Mantar protests of 20 July 2026)",
+      "issue": "Whether FIRs filed across India against students who protested the NEET-UG paper leak should be quashed.",
+      "bench_size": 3,
+      "bench": "CJI Surya Kant and Justices Joymalya Bagchi and V. Mohana",
+      "status": "decided",
+      "status_text": "FIRs quashed under Article 142; related matters pending",
+      "last_date": "2026-09-16",
+      "last_event": "On 1 Sep 2026 the Court quashed FIRs for incidents of 20-25 July, barred fresh FIRs except one Delhi Police FIR against 2,873 people with alleged 'serious criminal antecedents', and said the order is not a precedent. On 16 Sep it dismissed as premature a plea to reconstitute the High-Power Enquiry Committee on police excesses (formed 18 Aug).",
+      "next_step": "The Union must frame a compensation policy, including for families of students who died by suicide, within three months of 1 Sep 2026.",
+      "sources": [
+        {
+          "title": "SC quashes Jantar Mantar protest FIRs across India, permits fresh FIR against 2873",
+          "publisher": "Supreme Court Observer",
+          "date": "2026-09-01",
+          "url": "https://www.scobserver.in/journal/sc-quashes-jantar-mantar-protest-firs-across-india-permits-fresh-fir-against-2873/"
+        },
+        {
+          "title": "Supreme Court Observer, Monthly Review: September 2026",
+          "publisher": "Supreme Court Observer",
+          "date": "2026-09-30",
+          "url": "https://www.scobserver.in/journal/monthly-review-september-2026/amp/"
+        }
+      ]
+    },
+    {
+      "id": "mines-state-taxing-powers",
+      "case": "States' power to tax minerals: Mineral Area Development Authority v. Steel Authority of India (2024) and the MMDR (Amendment) Act, 2026",
+      "issue": "Whether Parliament can bar states from taxing mineral rights and mineral-bearing land, after a 2024 nine-judge ruling upheld state taxing powers.",
+      "bench_size": 9,
+      "bench": "Nine-judge Constitution Bench (2024 ruling)",
+      "status": "challenge_announced",
+      "status_text": "Challenge to 2026 amendment announced; filing not confirmed",
+      "last_date": "2026-08-20",
+      "last_event": "Karnataka, Kerala and Telangana said they would jointly challenge the MMDR (Amendment) Act, 2026 in the Supreme Court; Congress's Jairam Ramesh said a petition had been prepared.",
+      "next_step": "Filing of the states' petition; no listing found as of 11 Oct 2026.",
+      "sources": [
+        {
+          "title": "Congress-ruled states to jointly challenge MMDR Act in Supreme Court",
+          "publisher": "Business Standard",
+          "date": "2026-08-20",
+          "url": "https://www.business-standard.com/politics/congress-ruled-states-to-jointly-challenge-mmdr-act-in-supreme-court-126082001246_1.html"
+        },
+        {
+          "title": "The Mines and Minerals (Development and Regulation) Amendment Bill, 2026",
+          "publisher": "PRS Legislative Research",
+          "url": "https://prsindia.org/billtrack/the-mines-and-minerals-development-and-regulation-amendment-bill-2026"
+        },
+        {
+          "title": "Ergo note on the MMDR Amendment, 21 Aug 2026",
+          "publisher": "Khaitan & Co",
+          "date": "2026-08-21",
+          "url": "https://www.khaitanco.com/sites/default/files/2026-08/Ergo_Mines%20and%20Minerals%20(Developement%20and%20Regulation)%20Amendment_21082026.pdf"
+        }
+      ],
+      "notes": "PRS flags that the 2026 law may conflict with the 2024 judgment. The 2024 judgment's exact date and vote split were not confirmed in sources read."
+    },
+    {
+      "id": "state-turnover-tax-reference",
+      "case": "Arjun Floor Mills v. State of Orissa",
+      "issue": "Validity of Orissa's additional tax on dealers by annual turnover (10% for ₹10 lakh to ₹1 crore, 15% above ₹1 crore); the state argues the 2017 tax changes make the reference academic.",
+      "bench_size": 7,
+      "bench": "Seven-judge Constitution Bench (members not named in source)",
+      "status": "reserved",
+      "status_text": "Judgment reserved",
+      "last_date": "2026-09-22",
+      "last_event": "Judgment reserved after one day of hearing.",
+      "next_step": "Verdict.",
+      "sources": [
+        {
+          "title": "Supreme Court Observer, Monthly Review: September 2026",
+          "publisher": "Supreme Court Observer",
+          "date": "2026-09-30",
+          "url": "https://www.scobserver.in/journal/monthly-review-september-2026/amp/"
+        }
+      ]
+    },
+    {
+      "id": "transgender-amendment-challenge",
+      "case": "Challenges to the Transgender Persons (Protection of Rights) Amendment Act, 2026",
+      "issue": "Validity of the 2026 amendment that replaces the definition of a transgender person with listed categories and adds medical board review of identity certificates.",
+      "bench_size": null,
+      "bench": "Not stated in source",
+      "status": "pending",
+      "status_text": "Pending; interim stay refused",
+      "last_date": "2026-08",
+      "last_event": "Union assured the Court of interim validity for existing identity cards. Earlier, the Court declined an interim stay (May) and issued notice on 15 Jun on the Union's plea to transfer High Court challenges to itself.",
+      "next_step": "Hearing on transfer and merits; no date in sources found.",
+      "sources": [
+        {
+          "title": "Supreme Court Observer, 2026 | Monsoon session review",
+          "publisher": "Supreme Court Observer",
+          "date": "2026-09-30",
+          "url": "https://scobserver.in/journal/2026-monsoon-session-review"
+        }
+      ]
+    },
+    {
+      "id": "deputy-speaker-delay",
+      "case": "Petition on the failure to elect a Lok Sabha Deputy Speaker",
+      "issue": "Whether the delay in electing a Deputy Speaker breaches the Constitution; the post has been vacant since June 2019.",
+      "bench_size": null,
+      "bench": "Not stated in source",
+      "status": "pending",
+      "status_text": "Pending since notice in February 2023",
+      "last_date": "2023-02",
+      "last_event": "Supreme Court issued notice to the Centre.",
+      "next_step": "No hearing date in sources found.",
+      "sources": [
+        {
+          "title": "Functioning of Parliament during Monsoon Session 2026",
+          "publisher": "PRS Legislative Research",
+          "url": "https://prsindia.org/parliamenttrack/vital-stats/functioning-of-parliament-during-monsoon-session-2026"
+        },
+        {
+          "title": "Parliament functioning in Monsoon Session 2025",
+          "publisher": "PRS Legislative Research",
+          "url": "https://prsindia.org/parliamenttrack/vital-stats/parliament-functioning-in-monsoon-session-2025"
+        }
+      ],
+      "notes": "Case name not given by PRS."
+    },
+    {
+      "id": "district-judges-retirement-age",
+      "case": "Retirement age of district judges (All India Judges' Association line of cases)",
+      "issue": "Whether to raise the retirement age of district judges from 60 to 62.",
+      "bench_size": 3,
+      "bench": "CJI Surya Kant and Justices Joymalya Bagchi and V. Mohana",
+      "status": "decided",
+      "status_text": "Decided",
+      "last_date": "2026-09-01",
+      "last_event": "Seven states directed to amend service rules to raise the age to 62; officers who retired on or after 31 Mar 2026 may opt to rejoin, subject to conditions.",
+      "next_step": "States to amend their rules; no deadline stated.",
+      "sources": [
+        {
+          "title": "Supreme Court Observer, Monthly Review: September 2026",
+          "publisher": "Supreme Court Observer",
+          "date": "2026-09-30",
+          "url": "https://www.scobserver.in/journal/monthly-review-september-2026/amp/"
+        }
+      ],
+      "notes": "Case caption for the 2026 order not given by SCO; the 2002 All India Judges' Association ruling is cited as background."
+    }
+  ]
+}

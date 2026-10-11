@@ -1,0 +1,20 @@
+---
+import Seal from './Seal.astro';
+import Share from './Share.astro';
+import { UI, type Lang } from '../lib/i18n';
+import { fmtDateTime } from '../lib/site';
+interface Props { lang: Lang; published: Date; updated?: Date; title: string; path: string; kicker?: string; location?: string | null }
+const { lang, published, updated, title, path, kicker, location } = Astro.props;
+const t = UI[lang];
+---
+<div class="meta">
+  <div class="who">
+    <Seal small />
+    <span>
+      <b>{t.fromDesk}{location ? <span style="font-weight:400;color:var(--mut)"> · {location}</span> : null}</b>
+      {t.published} <time datetime={published.toISOString()}>{fmtDateTime(published, lang)}</time>
+      {updated && <><br />{t.updated} <time datetime={updated.toISOString()}>{fmtDateTime(updated, lang)}</time></>}
+    </span>
+  </div>
+  <Share lang={lang} title={title} path={path} kicker={kicker} />
+</div>

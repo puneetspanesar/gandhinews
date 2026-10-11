@@ -1,0 +1,95 @@
+---
+import { fmtShort } from '../../lib/site';
+import { tr } from '../../lib/data';
+import type { Lang } from '../../lib/i18n';
+interface Props { lang: Lang; data: any }
+const { lang, data } = Astro.props;
+const hi = lang === 'hi';
+const L = hi
+  ? { stages: ['पेश', 'समिति', 'लोकसभा', 'राज्यसभा', 'राष्ट्रपति की मंजूरी'], bill: 'विधेयक', done: 'चरण पूरा', cur: 'अभी इस चरण में', not: 'अभी नहीं', skip: 'लागू नहीं', fail: 'नामंज़ूर / निष्प्रभावी', referred: 'भेजा गया', reported: 'रिपोर्ट', unconfirmed: 'पुष्टि नहीं', inForce: 'लागू', notes: 'टिप्पणियां और स्रोत', prs: 'पीआरएस पेज', total: 'कुल विधेयक' }
+  : { stages: ['Introduced', 'Committee', 'Lok Sabha', 'Rajya Sabha', 'Assent'], bill: 'Bill', done: 'Stage complete', cur: 'Current stage', not: 'Not yet', skip: 'Not applicable', fail: 'Defeated or dropped', referred: 'Referred', reported: 'Reported', unconfirmed: 'Not confirmed', inForce: 'In force', notes: 'Notes and sources', prs: 'PRS bill page', total: 'Bills tracked' };
+const stageLabel = (k: string) => (hi ? data.meta.stage_labels_hi?.[k] : null) ?? ({ in_committee: 'In committee', committee_reported: 'Committee reported', passed_both: 'Passed both Houses', assent: 'Assent', in_force: 'In force', negatived: 'Negatived', infructuous: 'Infructuous' } as any)[k] ?? k;
+
+const GROUPS = [
+  { key: 'committee', stages: ['in_committee'], title: hi ? 'समिति के पास' : 'With a committee', dot: 'c' },
+  { key: 'reported', stages: ['committee_reported'], title: hi ? 'समिति की रिपोर्ट आ चुकी है' : 'Committee has reported', dot: 'c' },
+  { key: 'passed', stages: ['passed_both', 'assent', 'in_force'], title: hi ? 'संसद से पास' : 'Passed by Parliament', dot: 'y' },
+  { key: 'failed', stages: ['negatived', 'infructuous'], title: hi ? 'नामंज़ूर या निष्प्रभावी' : 'Defeated or dropped', dot: 'x' },
+];
+const sd = (s: string | null | undefined) => fmtShort(s, lang);
+
+type Cell = { dot: string; text?: string; cur?: boolean; unc?: boolean };
+function cells(b: any): Cell[] {
+  const s = b.stages; const cs = b.current_stage;
+  const failed = cs === 'negatived' || cs === 'infructuous';
+  const out: Cell[] = [{ dot: 'y', text: sd(s.introduced) }];
+  if (s.committee) {
+    const c = s.committee;
+    if (cs === 'in_committee') out.push({ dot: 'c', cur: true, text: c.referred ? `${L.referred} ${sd(c.referred)}` : L.referred });
+    else if (cs === 'committee_reported') out.push({ dot: 'y', cur: true, text: c.report ? `${L.reported} ${sd(c.report)}` : L.reported });
+    else out.push({ dot: 'y', text: c.report ? `${L.reported} ${sd(c.report)}` : c.referred ? `${L.referred} ${sd(c.referred)}` : '' });
+  } else out.push({ dot: 's' });
+  const house = (passed: string | null, isHome: boolean): Cell => {
+    if (passed) return { dot: 'y', text: sd(passed) };
+    if (failed && isHome) return { dot: 'x', cur: true, text: stageLabel(cs) };
+    if (failed) return { dot: 's' };
+    return { dot: 'n' };
+  };
+  const lsHome = b.house_introduced === 'Lok Sabha';
+  out.push(house(s.passed_ls, lsHome));
+  out.push(house(s.passed_rs, !lsHome));
+  if (s.assent) out.push({ dot: 'y', text: cs === 'in_force' ? `${sd(s.assent)}, ${L.inForce}` : sd(s.assent) });
+  else if (failed) out.push({ dot: 's' });
+  else if (cs === 'passed_both') out.push({ dot: 'n', unc: true, text: L.unconfirmed });
+  else out.push({ dot: 'n' });
+  return out;
+}
+const bills = [...data.bills];
+const groups = GROUPS.map((g) => ({ ...g, rows: bills.filter((b) => g.stages.includes(b.current_stage)).sort((a, b) => b.date_introduced.localeCompare(a.date_introduced)) }));
+const unknown = bills.filter((b) => !GROUPS.some((g) => g.stages.includes(b.current_stage)));
+if (unknown.length) throw new Error(`Bills tracker: unknown stage ${unknown.map((b) => b.current_stage).join(', ')}`);
+---
+<div class="sum" style="--n:5">
+  <div><b class="num">{bills.length}</b>{L.total}</div>
+  {groups.map((g) => <div><b class="num">{g.rows.length}</b><i class={`dot ${g.dot}`}></i>{g.title}</div>)}
+</div>
+<div class="pmk" aria-label={hi ? 'संकेत' : 'Legend'}>
+  <span><i class="dot y"></i>{L.done}</span>
+  <span><i class="dot c"></i>{L.cur}</span>
+  <span><i class="dot n"></i>{L.not}</span>
+  <span><i class="dot s"></i>{L.skip}</span>
+  <span><i class="dot x"></i>{L.fail}</span>
+</div>
+{groups.filter((g) => g.rows.length).map((g) => (
+  <section class="tr-sec" aria-labelledby={`g-${g.key}`}>
+    <h2 id={`g-${g.key}`}>{g.title} <span>{g.rows.length}</span></h2>
+    <table class="pm">
+      <colgroup><col class="c-bill" />{L.stages.map(() => <col />)}</colgroup>
+      <thead><tr><th scope="col">{L.bill}</th>{L.stages.map((s) => <th scope="col">{s}</th>)}</tr></thead>
+      <tbody>
+        {g.rows.map((b) => (
+          <tr id={b.id}>
+            <td>
+              <span class="bn"><a href={b.source_url} target="_blank" rel="noopener">{tr(b, 'name', lang)}</a></span>
+              <span class="bm">{tr(b, 'ministry', lang)} · {tr(b, 'house_introduced', lang)}{b.stages.committee ? ` · ${tr(b.stages.committee, 'name', lang)}` : ''}</span>
+              <span class="bs">{b.summary}</span>
+              {(b.notes || b.other_sources?.length) && (
+                <details class="bnote"><summary>{L.notes}</summary>
+                  {b.notes && <p>{b.notes}</p>}
+                  <p><a href={b.source_url} target="_blank" rel="noopener">{L.prs}</a>{b.other_sources?.map((o: any) => <>{' · '}<a href={o.url} target="_blank" rel="noopener">{o.title}</a></>)}</p>
+                </details>
+              )}
+            </td>
+            {cells(b).map((c, i) => (
+              <td class={`st ${c.cur ? 'cur' : ''} ${c.unc ? 'unc' : ''}`} data-l={L.stages[i]}>
+                <i class={`dot ${c.dot}`} role="img" aria-label={c.dot === 'y' ? L.done : c.dot === 'c' ? L.cur : c.dot === 'x' ? L.fail : c.dot === 's' ? L.skip : L.not}></i>
+                {c.text && <span>{c.text}</span>}
+              </td>
+            ))}
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </section>
+))}
+{data.meta.notes?.length > 0 && <ul class="trk-notes">{data.meta.notes.map((n: string) => <li>{n}</li>)}</ul>}

@@ -1,0 +1,20 @@
+---
+// Photo slot. Renders the real image when `src` is set (frontmatter hero.src + hero.credit),
+// otherwise a flat placeholder with a camera icon (and a caption on large slots).
+import Icon from './Icon.astro';
+import type { Lang } from '../lib/i18n';
+import { UI } from '../lib/i18n';
+interface Props { src?: string | null; alt?: string; credit?: string | null; caption?: string | null; size?: 'lg' | 'sm'; lang?: Lang; class?: string; eager?: boolean }
+const { src, alt = '', credit, caption, size = 'sm', lang = 'en', class: cls = '', eager = false } = Astro.props;
+const t = UI[lang];
+---
+{src ? (
+  <img class={cls} src={src} alt={alt} loading={eager ? 'eager' : 'lazy'} decoding="async" />
+) : size === 'lg' ? (
+  <div class={`ph lg ${cls}`} role="img" aria-label={alt}>
+    <Icon name="camera" class="cam" />
+    {alt && <span class="phc" aria-hidden="true">{t.photo}: {alt}</span>}
+  </div>
+) : (
+  <div class={`ph ${cls}`} aria-hidden="true"><Icon name="camera" class="cam" /></div>
+)}

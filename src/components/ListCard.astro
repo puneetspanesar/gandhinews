@@ -1,0 +1,32 @@
+---
+import Photo from './Photo.astro';
+import { urlOf, kicker, fmtDateTime } from '../lib/site';
+import { verdictKey, type Lang } from '../lib/i18n';
+interface Props { entry: any; lang: Lang; compact?: boolean; lead?: boolean }
+const { entry, lang, compact = false, lead = false } = Astro.props;
+const d = entry.data;
+const href = urlOf(d);
+const vk = d.factcheck ? verdictKey(d.factcheck.verdict) : null;
+const showImg = !compact && d.type === 'news';
+---
+{lead ? (
+  <article class="leadc">
+    <a href={href}><Photo src={d.hero?.src} alt={d.hero?.alt} size="lg" lang={lang} eager /></a>
+    <div>
+      {vk ? <span class={`vd v-${vk}`}>{d.factcheck.verdict}</span> : <span class="k">{kicker(d)}</span>}
+      <a href={href}><h2>{d.title}</h2></a>
+      <p>{d.standfirst}</p>
+      <p class="m"><time datetime={d.published.toISOString()}>{fmtDateTime(d.published, lang)}</time></p>
+    </div>
+  </article>
+) : (
+  <article class={`card ${showImg ? '' : 'noimg'} ${compact ? 'compact' : ''}`}>
+    <div>
+      {vk ? <span class={`vd v-${vk}`}>{d.factcheck.verdict}</span> : <span class="k">{kicker(d)}</span>}
+      <a href={href}><h3>{d.title}</h3></a>
+      {!compact && <p>{d.standfirst}</p>}
+      <p class="m"><time datetime={d.published.toISOString()}>{fmtDateTime(d.published, lang)}</time></p>
+    </div>
+    {showImg && <a href={href} tabindex="-1" aria-hidden="true"><Photo src={d.hero?.src} alt="" /></a>}
+  </article>
+)}

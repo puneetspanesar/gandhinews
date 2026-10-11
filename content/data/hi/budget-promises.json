@@ -1,0 +1,610 @@
+{
+  "id": "budget-2026-27-promise-tracker",
+  "title": "बजट 2026-27 के वादों का ट्रैकर",
+  "budget": "केंद्रीय बजट 2026-27, जिसे वित्त मंत्री निर्मला सीतारमण ने 1 फरवरी 2026 को पेश किया",
+  "as_of": "2026-10-11",
+  "status_definitions": {
+    "delivered": "वादा किया गया उपाय औपचारिक रूप से लागू हो गया है: कोई कानून लागू हुआ है, या कैबिनेट ने कोई योजना या कोष मंजूर किया है। इसका मतलब यह नहीं कि इच्छित नतीजा हासिल हो गया है।",
+    "in progress": "पुष्ट कदम उठाए गए हैं, या चालू साल के आंकड़े दिखाते हैं कि लक्ष्य पर नज़र रखी जा रही है, लेकिन वादा अभी पूरा नहीं हुआ है।",
+    "no update found": "प्रगति पर हमें कोई भरोसेमंद स्रोत नहीं मिला। इसका मतलब यह नहीं कि कुछ नहीं हुआ।"
+  },
+  "promises": [
+    {
+      "id": "fiscal-deficit-4-3",
+      "text": "2026-27 में राजकोषीय घाटा घटाकर जीडीपी का 4.3% (₹16,95,768 करोड़) करना, जो 2025-26 में 4.4% था।",
+      "ministry": "Finance",
+      "budget_speech_reference": "पैरा 94",
+      "category": "Fiscal",
+      "status": "in progress",
+      "progress_note": "अगस्त 2026 के आखिर तक घाटा ₹7,10,249 करोड़ था, यानी बजट अनुमान का 41.9%, जबकि एक साल पहले यह 38.1% था। इक्रा को कर संग्रह में कमी और ईंधन व उर्वरक पर अतिरिक्त सब्सिडी की वजह से ₹1.3 से 1.4 लाख करोड़ ज़्यादा घाटे की आशंका है।",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        },
+        {
+          "publisher": "Ministry of Finance (Budget at a Glance 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/Budget_at_Glance/budget_at_a_glance.pdf",
+          "date": "2026-02-01"
+        },
+        {
+          "publisher": "UNI",
+          "url": "https://www.uniindia.com/business-economy/economy-govt-finances/198268",
+          "date": "2026-09-30"
+        },
+        {
+          "publisher": "Deccan Chronicle",
+          "url": "https://www.deccanchronicle.com/business/fiscal-deficit-widens-to-rs-71-lakh-cr-till-august-to-overshoot-fy27-budget-estimate-1991935",
+          "date": "2026-09-30"
+        }
+      ],
+      "ministry_hi": "वित्त",
+      "category_hi": "राजकोषीय",
+      "status_hi": "काम जारी"
+    },
+    {
+      "id": "debt-to-gdp-50",
+      "text": "2030-31 तक केंद्र सरकार का कर्ज़ जीडीपी के 50±1% तक लाना; बजट अनुमान 2026-27 में कर्ज़ जीडीपी का 55.6% आंका गया।",
+      "ministry": "Finance",
+      "budget_speech_reference": "पैरा 92",
+      "category": "Fiscal",
+      "status": "no update found",
+      "progress_note": "कर्ज़ अनुपात का चालू साल का कोई आंकड़ा नहीं मिला।",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        },
+        {
+          "publisher": "Press Information Bureau",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2221389",
+          "date": "2026-02-01"
+        }
+      ],
+      "ministry_hi": "वित्त",
+      "category_hi": "राजकोषीय",
+      "status_hi": "कोई अपडेट नहीं मिला"
+    },
+    {
+      "id": "capex-12-2",
+      "text": "2026-27 में पूंजीगत व्यय बढ़ाकर ₹12.2 लाख करोड़ करना (₹12,21,821 करोड़; प्रभावी पूंजीगत व्यय ₹17,14,523 करोड़)।",
+      "ministry": "Finance (all ministries)",
+      "budget_speech_reference": "पैरा 33",
+      "category": "Infrastructure",
+      "status": "in progress",
+      "progress_note": "डेक्कन क्रॉनिकल में छपे सीजीए आंकड़ों के इक्रा के विश्लेषण के मुताबिक, अप्रैल-अगस्त 2026 में पूंजीगत खर्च 18% बढ़ा। जून-जुलाई में इसमें 60% की बढ़त हुई थी, लेकिन अगस्त में यह 30% घटा।",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        },
+        {
+          "publisher": "Ministry of Finance (Budget at a Glance 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/Budget_at_Glance/budget_at_a_glance.pdf",
+          "date": "2026-02-01"
+        },
+        {
+          "publisher": "Deccan Chronicle",
+          "url": "https://www.deccanchronicle.com/business/fiscal-deficit-widens-to-rs-71-lakh-cr-till-august-to-overshoot-fy27-budget-estimate-1991935",
+          "date": "2026-09-30"
+        }
+      ],
+      "ministry_hi": "वित्त (सभी मंत्रालय)",
+      "category_hi": "बुनियादी ढांचा",
+      "status_hi": "काम जारी"
+    },
+    {
+      "id": "gross-tax-revenue",
+      "text": "₹44.04 लाख करोड़ का सकल कर राजस्व, जो 2025-26 के संशोधित अनुमान से 8.0% ज़्यादा है।",
+      "ministry": "Finance (CBDT and CBIC)",
+      "budget_speech_reference": "भाषण में नहीं; बजट दस्तावेज़ (पीआईबी सारांश)",
+      "category": "Tax",
+      "status": "in progress",
+      "progress_note": "अप्रैल-अगस्त 2026 में सकल कर राजस्व 6.5% बढ़ा; मार्च में ईंधन पर शुल्क घटाए जाने के बाद उत्पाद शुल्क संग्रह 23% गिरा (डेक्कन क्रॉनिकल के ज़रिए इक्रा)। इक्रा को उम्मीद है कि आयकर और उत्पाद शुल्क बजट के स्तर से कम रहेंगे।",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Press Information Bureau",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2221389",
+          "date": "2026-02-01"
+        },
+        {
+          "publisher": "Deccan Chronicle",
+          "url": "https://www.deccanchronicle.com/business/fiscal-deficit-widens-to-rs-71-lakh-cr-till-august-to-overshoot-fy27-budget-estimate-1991935",
+          "date": "2026-09-30"
+        }
+      ],
+      "ministry_hi": "वित्त (सीबीडीटी और सीबीआईसी)",
+      "category_hi": "कर",
+      "status_hi": "काम जारी"
+    },
+    {
+      "id": "income-tax-act-2025",
+      "text": "1961 के अधिनियम की जगह आयकर अधिनियम, 2025 को 1 अप्रैल 2026 से लागू करना।",
+      "ministry": "Finance (CBDT)",
+      "budget_speech_reference": "पैरा 99",
+      "category": "Tax",
+      "status": "delivered",
+      "progress_note": "सीबीडीटी ने कहा कि अधिनियम 1 अप्रैल 2026 को लागू हो गया। आयकर नियम, 2026 नए फॉर्म के साथ 20 मार्च 2026 को अधिसूचित किए गए।",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        },
+        {
+          "publisher": "Central Board of Direct Taxes",
+          "url": "https://www.incometaxindia.gov.in/documents/d/guest/press-release-income-tax-act-2025-comes-into-force-from-01-april-2026-pdf",
+          "date": "2026-04-01"
+        }
+      ],
+      "ministry_hi": "वित्त (सीबीडीटी)",
+      "category_hi": "कर",
+      "status_hi": "पूरा हुआ"
+    },
+    {
+      "id": "revised-return-deadline",
+      "text": "संशोधित आयकर रिटर्न भरने की समय-सीमा 31 दिसंबर से बढ़ाकर 31 मार्च करना।",
+      "ministry": "Finance (CBDT)",
+      "budget_speech_reference": "पैरा 108",
+      "category": "Tax",
+      "status": "no update found",
+      "progress_note": "यह बदलाव कैसे लागू हुआ, इसकी पुष्टि करने वाला कोई स्रोत नहीं मिला।",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        }
+      ],
+      "ministry_hi": "वित्त (सीबीडीटी)",
+      "category_hi": "कर",
+      "status_hi": "कोई अपडेट नहीं मिला"
+    },
+    {
+      "id": "ism-2-0",
+      "text": "उपकरण और सामग्री बनाने के लिए इंडिया सेमीकंडक्टर मिशन (आईएसएम) 2.0 शुरू करना।",
+      "ministry": "Electronics and IT",
+      "budget_speech_reference": "पैरा 17",
+      "category": "Industry",
+      "status": "delivered",
+      "progress_note": "आईटी मंत्री अश्विनी वैष्णव ने बताया कि केंद्रीय कैबिनेट ने 15 जुलाई 2026 को ₹1.27 लाख करोड़ के कुल परिव्यय के साथ आईएसएम 2.0 को मंजूरी दी (पीटीआई)। इसके तहत परियोजनाओं पर नज़र नहीं रखी गई।",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        },
+        {
+          "publisher": "PTI via ThePrint",
+          "url": "https://theprint.in/economy/cabinet-approves-rs-1-27-lakh-crore-for-semicon-mission-2-0/2987130/",
+          "date": "2026-07-15"
+        }
+      ],
+      "ministry_hi": "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी",
+      "category_hi": "उद्योग",
+      "status_hi": "पूरा हुआ"
+    },
+    {
+      "id": "ecms-40000",
+      "text": "इलेक्ट्रॉनिक्स कंपोनेंट्स मैन्युफैक्चरिंग स्कीम (ईसीएमएस) का परिव्यय बढ़ाकर ₹40,000 करोड़ करना।",
+      "ministry": "Electronics and IT",
+      "budget_speech_reference": "पैरा 18",
+      "category": "Industry",
+      "status": "no update found",
+      "progress_note": "कोई अपडेट नहीं मिला।",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        }
+      ],
+      "ministry_hi": "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी",
+      "category_hi": "उद्योग",
+      "status_hi": "कोई अपडेट नहीं मिला"
+    },
+    {
+      "id": "biopharma-shakti",
+      "text": "बायोफार्मा शक्ति (SHAKTI), पांच साल में ₹10,000 करोड़ के परिव्यय के साथ, बायोलॉजिक्स और बायोसिमिलर्स में क्षमता बनाने के लिए।",
+      "ministry": "Not stated in sources",
+      "budget_speech_reference": "पैरा 16",
+      "category": "Health and industry",
+      "status": "no update found",
+      "progress_note": "न्यूज़ ऑन एयर ने 21 मार्च 2026 को इस पहल को प्रस्तावित बताया था। उसके बाद कोई मंजूरी या शुरुआत की जानकारी नहीं मिली।",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        },
+        {
+          "publisher": "News On AIR",
+          "url": "https://www.newsonair.gov.in/government-proposes-biopharma-shakti-initiative-to-boost-indias-biopharmaceutical-sector",
+          "date": "2026-03-21"
+        }
+      ],
+      "ministry_hi": "स्रोतों में नहीं बताया गया",
+      "category_hi": "स्वास्थ्य और उद्योग",
+      "status_hi": "कोई अपडेट नहीं मिला"
+    },
+    {
+      "id": "high-speed-rail-7",
+      "text": "शहरों के बीच सात हाई-स्पीड रेल कॉरिडोर बनाना (मुंबई-पुणे, पुणे-हैदराबाद, हैदराबाद-बेंगलुरु, हैदराबाद-चेन्नई, चेन्नई-बेंगलुरु, दिल्ली-वाराणसी, वाराणसी-सिलीगुड़ी)।",
+      "ministry": "Railways",
+      "budget_speech_reference": "पैरा 40",
+      "category": "Infrastructure",
+      "status": "in progress",
+      "progress_note": "बिज़नेस स्टैंडर्ड ने 9 फरवरी 2026 को खबर दी कि रेलवे बोर्ड ने एनएचएसआरसीएल को मौजूदा लागत के साथ विस्तृत परियोजना रिपोर्ट (डीपीआर) अपडेट करने को कहा है, ताकि वित्तीय व्यवहार्यता का आकलन हो सके। इसके बाद का कोई अपडेट नहीं मिला।",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        },
+        {
+          "publisher": "Business Standard",
+          "url": "https://www.business-standard.com/india-news/railways-begins-viability-assessment-for-7-new-bullet-train-corridors-126020901478_1.html",
+          "date": "2026-02-09"
+        }
+      ],
+      "ministry_hi": "रेल",
+      "category_hi": "बुनियादी ढांचा",
+      "status_hi": "काम जारी"
+    },
+    {
+      "id": "rare-earth-corridors",
+      "text": "ओडिशा, केरल, आंध्र प्रदेश और तमिलनाडु में समर्पित रेयर अर्थ कॉरिडोर बनाना।",
+      "ministry": "Not stated in sources",
+      "budget_speech_reference": "पैरा 19",
+      "category": "Industry",
+      "status": "no update found",
+      "progress_note": "कोई अपडेट नहीं मिला।",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        }
+      ],
+      "ministry_hi": "स्रोतों में नहीं बताया गया",
+      "category_hi": "उद्योग",
+      "status_hi": "कोई अपडेट नहीं मिला"
+    },
+    {
+      "id": "ccus-20000",
+      "text": "कार्बन कैप्चर, उपयोग और भंडारण (सीसीयूएस): पांच साल में ₹20,000 करोड़।",
+      "ministry": "Not stated in sources",
+      "budget_speech_reference": "पैरा 38",
+      "category": "Environment and energy",
+      "status": "no update found",
+      "progress_note": "कोई अपडेट नहीं मिला।",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        }
+      ],
+      "ministry_hi": "स्रोतों में नहीं बताया गया",
+      "category_hi": "पर्यावरण और ऊर्जा",
+      "status_hi": "कोई अपडेट नहीं मिला"
+    },
+    {
+      "id": "container-manufacturing",
+      "text": "पांच साल में ₹10,000 करोड़ के साथ कंटेनर निर्माण योजना।",
+      "ministry": "Not stated in sources",
+      "budget_speech_reference": "पैरा 21(c)",
+      "category": "Industry",
+      "status": "no update found",
+      "progress_note": "कोई अपडेट नहीं मिला।",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        }
+      ],
+      "ministry_hi": "स्रोतों में नहीं बताया गया",
+      "category_hi": "उद्योग",
+      "status_hi": "कोई अपडेट नहीं मिला"
+    },
+    {
+      "id": "sme-growth-fund",
+      "text": "₹10,000 करोड़ का एक समर्पित एसएमई ग्रोथ फंड।",
+      "ministry": "MSME and Finance",
+      "budget_speech_reference": "पैरा 28",
+      "category": "Industry",
+      "status": "delivered",
+      "progress_note": "केंद्रीय कैबिनेट ने 6 अक्टूबर 2026 को एसएमई ग्रोथ फंड के तहत एक वैकल्पिक निवेश कोष (एआईएफ) के लिए ₹10,000 करोड़ की सरकारी प्रतिबद्धता मंजूर की। यह मुख्य रूप से विनिर्माण क्षेत्र के एसएमई में सीधे इक्विटी निवेश करेगा। फंड के पहले निवेश की कोई खबर नहीं आई है।",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        },
+        {
+          "publisher": "Press Information Bureau (Cabinet decisions)",
+          "url": "https://www.pib.gov.in/PressReleseDetail.aspx?PRID=2319534",
+          "date": "2026-10-06"
+        },
+        {
+          "publisher": "The Hans India",
+          "url": "https://www.thehansindia.com/business/centre-bets-rs-10k-cr-on-next-generation-of-sme-champions-1129719",
+          "date": "2026-10-07"
+        }
+      ],
+      "ministry_hi": "एमएसएमई और वित्त",
+      "category_hi": "उद्योग",
+      "status_hi": "पूरा हुआ"
+    },
+    {
+      "id": "chemical-parks",
+      "text": "तीन समर्पित केमिकल पार्क बनाने में राज्यों की मदद करना।",
+      "ministry": "Chemicals and Fertilisers",
+      "budget_speech_reference": "पैरा 20",
+      "category": "Industry",
+      "status": "no update found",
+      "progress_note": "कोई अपडेट नहीं मिला।",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        }
+      ],
+      "ministry_hi": "रसायन और उर्वरक",
+      "category_hi": "उद्योग",
+      "status_hi": "कोई अपडेट नहीं मिला"
+    },
+    {
+      "id": "vb-g-ram-g",
+      "text": "वीबी-जी राम जी ग्रामीण रोज़गार योजना के लिए धन (₹95,691 करोड़), जो गारंटीशुदा काम को साल में 100 से बढ़ाकर 125 दिन करती है और जिसमें राज्यों का हिस्सा बढ़ता है।",
+      "ministry": "Rural Development",
+      "budget_speech_reference": "पढ़े गए भाषण के पाठ में नहीं मिला; स्क्रॉल की खबर",
+      "category": "Rural",
+      "status": "in progress",
+      "progress_note": "आउटलुक मनी ने 11 मई 2026 को खबर दी कि मनरेगा की जगह लेने वाला अधिनियम 1 जुलाई 2026 से लागू होगा, जिसमें 125 दिन के काम की गारंटी होगी और ज़्यादातर राज्यों के लिए केंद्र-राज्य का हिस्सा 60:40 होगा, और नियम अभी तैयार हो रहे थे। आवंटन के मुकाबले खर्च और जुलाई से पैदा हुए काम के आंकड़े नहीं मिले।",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Scroll",
+          "url": "https://scroll.in/latest/1090413/scroll_in",
+          "date": "2026-02-01"
+        },
+        {
+          "publisher": "Outlook Money",
+          "url": "https://www.outlookmoney.com/news/vb-g-ram-g-act-replaces-mgnrega-implementation-to-take-effect-from-july-1",
+          "date": "2026-05-11"
+        }
+      ],
+      "ministry_hi": "ग्रामीण विकास",
+      "category_hi": "ग्रामीण",
+      "status_hi": "काम जारी"
+    },
+    {
+      "id": "national-waterways",
+      "text": "पांच साल में 20 नए राष्ट्रीय जलमार्ग चालू करना, और वाराणसी व पटना में अंतर्देशीय जलमार्गों के लिए जहाज़ मरम्मत की व्यवस्था बनाना।",
+      "ministry": "Ports, Shipping and Waterways",
+      "budget_speech_reference": "पैरा 36(b)",
+      "category": "Infrastructure",
+      "status": "no update found",
+      "progress_note": "कोई अपडेट नहीं मिला।",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        }
+      ],
+      "ministry_hi": "बंदरगाह, पोत परिवहन और जलमार्ग",
+      "category_hi": "बुनियादी ढांचा",
+      "status_hi": "कोई अपडेट नहीं मिला"
+    },
+    {
+      "id": "dankuni-surat-dfc",
+      "text": "पूर्व में दानकुनी को पश्चिम में सूरत से जोड़ने वाला नया समर्पित माल ढुलाई गलियारा (डीएफसी)।",
+      "ministry": "Railways",
+      "budget_speech_reference": "पैरा 36(a)",
+      "category": "Infrastructure",
+      "status": "no update found",
+      "progress_note": "कोई अपडेट नहीं मिला।",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        }
+      ],
+      "ministry_hi": "रेल",
+      "category_hi": "बुनियादी ढांचा",
+      "status_hi": "कोई अपडेट नहीं मिला"
+    },
+    {
+      "id": "cancer-drugs-customs",
+      "text": "17 दवाओं पर मूल सीमा शुल्क से छूट।",
+      "ministry": "Finance (CBIC)",
+      "budget_speech_reference": "पैरा 160; अनुलग्नक C.1",
+      "category": "Health",
+      "status": "no update found",
+      "progress_note": "सीमा शुल्क में बदलाव बजट अधिसूचनाओं के ज़रिए होते हैं; इनके लागू होने की अलग से पुष्टि नहीं की गई।",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        }
+      ],
+      "ministry_hi": "वित्त (सीबीआईसी)",
+      "category_hi": "स्वास्थ्य",
+      "status_hi": "कोई अपडेट नहीं मिला"
+    },
+    {
+      "id": "personal-import-duty",
+      "text": "निजी इस्तेमाल के लिए आयात किए गए सामान पर सीमा शुल्क 20% से घटाकर 10% करना, 1 अप्रैल 2026 से लागू।",
+      "ministry": "Finance (CBIC)",
+      "budget_speech_reference": "पैरा 159; अनुलग्नक C.1",
+      "category": "Tax",
+      "status": "no update found",
+      "progress_note": "लागू होने की तारीख बजट में तय की गई; लागू होने की अलग से पुष्टि नहीं की गई।",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        }
+      ],
+      "ministry_hi": "वित्त (सीबीआईसी)",
+      "category_hi": "कर",
+      "status_hi": "कोई अपडेट नहीं मिला"
+    },
+    {
+      "id": "tcs-tour-packages",
+      "text": "विदेशी टूर पैकेज पर स्रोत पर कर संग्रह (टीसीएस) 5% और 20% से घटाकर एक समान 2% करना।",
+      "ministry": "Finance (CBDT)",
+      "budget_speech_reference": "पैरा 103",
+      "category": "Tax",
+      "status": "no update found",
+      "progress_note": "लागू होने की अलग से पुष्टि नहीं की गई।",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        }
+      ],
+      "ministry_hi": "वित्त (सीबीडीटी)",
+      "category_hi": "कर",
+      "status_hi": "कोई अपडेट नहीं मिला"
+    },
+    {
+      "id": "girls-hostels",
+      "text": "हर ज़िले में एक बालिका छात्रावास बनाना।",
+      "ministry": "Not stated in sources",
+      "budget_speech_reference": "पैरा 63",
+      "category": "Education",
+      "status": "no update found",
+      "progress_note": "कोई अपडेट नहीं मिला।",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        }
+      ],
+      "ministry_hi": "स्रोतों में नहीं बताया गया",
+      "category_hi": "शिक्षा",
+      "status_hi": "कोई अपडेट नहीं मिला"
+    },
+    {
+      "id": "khelo-india-mission",
+      "text": "अगले दशक में खेल क्षेत्र को बदलने के लिए खेलो इंडिया मिशन शुरू करना।",
+      "ministry": "Sports",
+      "budget_speech_reference": "पैरा 72",
+      "category": "Sports",
+      "status": "no update found",
+      "progress_note": "कोई अपडेट नहीं मिला।",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        }
+      ],
+      "ministry_hi": "खेल",
+      "category_hi": "खेल",
+      "status_hi": "कोई अपडेट नहीं मिला"
+    },
+    {
+      "id": "caregivers",
+      "text": "आने वाले साल में 1.5 लाख देखभालकर्ताओं (केयरगिवर्स) को प्रशिक्षण देना।",
+      "ministry": "Not stated in sources",
+      "budget_speech_reference": "पैरा 54",
+      "category": "Health",
+      "status": "no update found",
+      "progress_note": "कोई अपडेट नहीं मिला।",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        }
+      ],
+      "ministry_hi": "स्रोतों में नहीं बताया गया",
+      "category_hi": "स्वास्थ्य",
+      "status_hi": "कोई अपडेट नहीं मिला"
+    },
+    {
+      "id": "regional-medical-hubs",
+      "text": "पांच क्षेत्रीय मेडिकल हब बनाना।",
+      "ministry": "Not stated in sources",
+      "budget_speech_reference": "पैरा 55",
+      "category": "Health",
+      "status": "no update found",
+      "progress_note": "कोई अपडेट नहीं मिला।",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Ministry of Finance (Budget Speech 2026-27)",
+          "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+          "date": "2026-02-01"
+        }
+      ],
+      "ministry_hi": "स्रोतों में नहीं बताया गया",
+      "category_hi": "स्वास्थ्य",
+      "status_hi": "कोई अपडेट नहीं मिला"
+    }
+  ],
+  "previous_budget": [
+    {
+      "id": "fiscal-deficit-4-4-fy26",
+      "text": "बजट 2025-26: 2025-26 में जीडीपी के 4.4% का राजकोषीय घाटा।",
+      "ministry": "Finance",
+      "budget_speech_reference": "बजट 2025-26",
+      "category": "Fiscal",
+      "status": "delivered",
+      "progress_note": "लक्ष्य पूरा हुआ। अनंतिम खातों के मुताबिक 2025-26 का घाटा ₹15,19,169 करोड़ रहा, जो जीडीपी का 4.4% और संशोधित अनुमान का 97.5% है।",
+      "last_checked": "2026-10-11",
+      "sources": [
+        {
+          "publisher": "Deccan Herald",
+          "url": "https://www.deccanherald.com/business/economy/government-achieves-fiscal-deficit-target-of-44-for-fy26-4023562",
+          "date": "2026-06-01"
+        }
+      ],
+      "ministry_hi": "वित्त",
+      "category_hi": "राजकोषीय",
+      "status_hi": "पूरा हुआ"
+    }
+  ],
+  "status_labels_hi": {
+    "delivered": "पूरा हुआ",
+    "in progress": "काम जारी",
+    "no update found": "कोई अपडेट नहीं मिला"
+  }
+}

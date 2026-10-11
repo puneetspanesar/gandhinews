@@ -1,0 +1,8 @@
+---
+import { topicLink } from '../lib/site';
+import type { Lang } from '../lib/i18n';
+interface Props { lang: Lang; topics: string[] }
+const { lang, topics } = Astro.props;
+const links = await Promise.all(topics.map((t) => topicLink(t, lang)));
+---
+{links.length > 0 && <nav class="tags" aria-label={lang === 'hi' ? 'विषय' : 'Topics'}>{links.map((l) => <a href={l.href}>{l.label}</a>)}</nav>}

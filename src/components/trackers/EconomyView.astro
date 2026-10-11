@@ -1,0 +1,87 @@
+---
+import Icon from '../Icon.astro';
+import { fmtNum, sparkline } from '../../lib/blocks.mjs';
+import { fmtDate, fmtShort } from '../../lib/site';
+import type { Lang } from '../../lib/i18n';
+interface Props { lang: Lang; data: any; dataHref: string }
+const { lang, data, dataHref } = Astro.props;
+const hi = lang === 'hi';
+const L = hi
+  ? { vs: 'की तुलना में', released: 'जारी', note: 'टिप्पणी', secondary: 'द्वितीयक स्रोत', source: 'स्रोत', pts: 'अंक' }
+  : { vs: 'vs', released: 'released', note: 'Note', secondary: 'Secondary source', source: 'Source', pts: 'pts' };
+const dec = (v: number) => (String(v).split('.')[1] || '').length;
+
+function value(i: any) {
+  const d = Math.max(dec(i.latest_value), i.change_vs_previous?.previous_value != null ? dec(i.change_vs_previous.previous_value) : 0);
+  const n = fmtNum(i.latest_value, d);
+  const u = String(i.unit || '').trim();
+  if (u.startsWith('%')) return { big: `${n}%`, small: u.slice(1).trim() };
+  if (u.startsWith('₹') || u.startsWith('$')) return { big: `${u[0]}${n}`, small: u.slice(1).trim() };
+  return { big: n, small: /index|अंक/.test(u) ? '' : u };
+}
+function change(i: any) {
+  const c = i.change_vs_previous;
+  if (!c) return null;
+  let txt = '';
+  let dir = 0;
+  if (typeof c.change === 'number') {
+    dir = Math.sign(c.change);
+    const d = Math.max(dec(c.change), 1);
+    const unit = String(c.change_unit || '');
+    const u = /percentage points|प्रतिशत अंक/.test(unit) ? ` ${L.pts}` : /^\$ billion/.test(unit) ? ' $ bn' : /^\$ अरब/.test(unit) ? ' $ अरब' : /^₹/.test(unit) ? '' : '';
+    txt = `${fmtNum(c.change, /points|अंक/.test(unit) && !/percentage|प्रतिशत/.test(unit) ? 2 : d, true)}${u}`;
+    if (typeof c.change_pct === 'number') txt += ` (${fmtNum(c.change_pct, dec(c.change_pct), true)}%)`;
+  } else if (typeof c.change_pct === 'number') {
+    dir = Math.sign(c.change_pct);
+    txt = `${fmtNum(c.change_pct, dec(c.change_pct), true)}%`;
+  }
+  const pp = c.previous_period && !/^from\s|\sसे$/.test(c.previous_period) ? c.previous_period : c.basis;
+  const prev = pp ? (hi ? `${pp} ${L.vs}` : `${L.vs} ${pp}`) : '';
+  return { txt, dir, prev };
+}
+function series(i: any) {
+  const h = i.history || [];
+  const a = i.annual_history || [];
+  const s = h.length >= 3 || a.length < 3 ? h : a;
+  return s;
+}
+const per = (x: string) => {
+  const m = x.match(/^(\d{4})-(\d{2})(-\d{2})?$/);
+  if (!m) return x;
+  const isFiscal = !m[3] && +m[2] === (+m[1] + 1) % 100; // "2023-24"
+  return isFiscal ? x : fmtShort(x, lang);
+};
+const tiles = data.indicators.map((i: any) => ({ i, v: value(i), ch: change(i), s: series(i) }));
+---
+<div class="dash">
+  {tiles.map(({ i, v, ch, s }: any) => (
+    <article class="tile" id={i.id}>
+      <h2 class="t">{i.name}</h2>
+      <p class="v num">{v.big}{v.small && <small>{v.small}</small>}</p>
+      <p class="p">{i.period}</p>
+      {ch && ch.txt && (
+        <p class={`c ${ch.dir === 0 ? 'flat' : ''}`}>
+          {ch.dir > 0 && <Icon name="trend-up" style="width:13px;height:13px;vertical-align:-2px;margin-right:4px" />}
+          {ch.dir < 0 && <Icon name="trend-down" style="width:13px;height:13px;vertical-align:-2px;margin-right:4px" />}
+          <span class="num">{ch.txt}</span> <span style="font-weight:400;color:var(--mut)">{ch.prev}</span>
+        </p>
+      )}
+      {s.length >= 2 ? (
+        <>
+          <Fragment set:html={sparkline(s.map((x: any) => x.value), { w: 240, h: 40 })} />
+          <div class="sx"><span>{per(s[0].period)}</span><span>{per(s[s.length - 1].period)}</span></div>
+        </>
+      ) : <div class="tile-pad"></div>}
+      <p class="s">
+        {L.source}: <a href={i.source.url} target="_blank" rel="noopener">{i.source.publisher}</a>{i.source.date && <>, {fmtDate(i.source.date, lang)}</>}
+        {!i.verified_primary && <><br />{L.secondary}</>}
+      </p>
+      {i.note && <details class="nt"><summary>{L.note}</summary><p>{i.note}</p></details>}
+    </article>
+  ))}
+  <aside class="tile about">
+    <h2 class="t">{hi ? 'इस डेटा के बारे में' : 'About this data'}</h2>
+    <p>{data.notes}</p>
+    <a class="dl" href={dataHref}><Icon name="database" />{hi ? 'डेटा फाइल (JSON)' : 'Data file (JSON)'}</a>
+  </aside>
+</div>

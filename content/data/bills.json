@@ -1,0 +1,906 @@
+{
+  "meta": {
+    "title": "Bills in Parliament tracker",
+    "as_of": "2026-10-11",
+    "compiled_by": "Gandhi News editorial desk",
+    "default_source": "PRS Legislative Research bill pages (no publication date; accessed 11 Oct 2026)",
+    "count": 35,
+    "stage_values": {
+      "in_committee": "referred to a committee, report not yet presented",
+      "committee_reported": "committee has reported; Bill pending in the House",
+      "passed_both": "passed by both Houses; assent not confirmed in our sources",
+      "assent": "Presidential assent confirmed",
+      "in_force": "assent given and Act in force",
+      "negatived": "defeated in a vote",
+      "infructuous": "withdrawn or dropped; listed as infructuous by PRS"
+    },
+    "notes": [
+      "Dates are ISO (YYYY-MM-DD); '2026-08' means the month is known but not the day.",
+      "PRS bill pages do not show assent dates. 'assent': null means not confirmed in our sources, not that assent was refused.",
+      "32 Bills come from the desk's research table; 3 more (UT Laws (Amendment) Bill 2026 and the two One Nation One Election Bills) are added and flagged in their notes."
+    ]
+  },
+  "bills": [
+    {
+      "id": "fcra-amendment-2026",
+      "name": "Foreign Contribution (Regulation) Amendment Bill, 2026",
+      "ministry": "Home Affairs",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-03-25",
+      "stages": {
+        "introduced": "2026-03-25",
+        "committee": {
+          "name": "Joint Parliamentary Committee on the FCRA Amendment Bill, 2026 (31 members: 21 LS, 10 RS)",
+          "type": "joint",
+          "chair": null,
+          "referred": "2026-08-12",
+          "report": null,
+          "report_due": "By the last day of the first week of the Winter Session 2026"
+        },
+        "passed_ls": null,
+        "passed_rs": null,
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "in_committee",
+      "status": "confirmed",
+      "summary": "Lets a government authority take over the foreign funds and assets of organisations whose FCRA certificate ceases, and redefines who is liable for violations.",
+      "source_url": "https://prsindia.org/billtrack/the-foreign-contribution-regulation-amendment-bill-2026",
+      "other_sources": [
+        {
+          "title": "ThePrint, 12 Aug 2026",
+          "url": "https://theprint.in/india/fcra-amendment-bill-referred-to-joint-parliamentary-committee-congress-sp-seek-bills-withdrawal/"
+        }
+      ],
+      "notes": "Committee chair and members not named in sources found."
+    },
+    {
+      "id": "constitution-130th-amendment-2025",
+      "name": "Constitution (130th Amendment) Bill, 2025",
+      "ministry": "Home Affairs",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2025-08-20",
+      "stages": {
+        "introduced": "2025-08-20",
+        "committee": {
+          "name": "Joint Committee on the Constitution (130th Amendment) Bill, 2025 and two related Bills",
+          "type": "joint",
+          "chair": "Aparajita Sarangi",
+          "referred": "2025-08-20",
+          "report": null
+        },
+        "passed_ls": null,
+        "passed_rs": null,
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "in_committee",
+      "status": "confirmed",
+      "summary": "Removes a Prime Minister, Chief Minister or minister held in custody for 30 consecutive days on a charge carrying five or more years in prison.",
+      "source_url": "https://prsindia.org/billtrack/the-constitution-one-hundred-and-thirtieth-amendment-bill-2025",
+      "other_sources": [
+        {
+          "title": "PRS committee page",
+          "url": "https://prsindia.org/parliamentary-committees/joint-committee-on-the-constitution-130th-amendment-bill-2025-the-jammu-and-kashmir-reorganisation-amendment-bill-2025-and-the-government-of-union-territories-amendment-bill-2025"
+        },
+        {
+          "title": "The Sentinel / ANI, 18 Jul 2026",
+          "url": "https://www.sentinelassam.com/more-news/national-news/jpc-defers-draft-report-on-130th-constitution-amendment-bill-seeks-more-consultations"
+        }
+      ],
+      "notes": "JPC deferred adoption of its draft report in mid-July 2026 (Sentinel/ANI). No report presented as of 11 Oct 2026 (PRS)."
+    },
+    {
+      "id": "jk-reorganisation-amendment-2025",
+      "name": "Jammu and Kashmir Reorganisation (Amendment) Bill, 2025",
+      "ministry": "Home Affairs",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2025-08-20",
+      "stages": {
+        "introduced": "2025-08-20",
+        "committee": {
+          "name": "Joint Committee on the Constitution (130th Amendment) Bill, 2025 and two related Bills",
+          "type": "joint",
+          "chair": "Aparajita Sarangi",
+          "referred": "2025-08-20",
+          "report": null
+        },
+        "passed_ls": null,
+        "passed_rs": null,
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "in_committee",
+      "status": "confirmed",
+      "summary": "Applies the rule on removing ministers held in custody to Jammu and Kashmir.",
+      "source_url": "https://prsindia.org/billtrack/the-jammu-and-kashmir-reorganisation-amendment-bill-2025"
+    },
+    {
+      "id": "government-of-uts-amendment-2025",
+      "name": "Government of Union Territories (Amendment) Bill, 2025",
+      "ministry": "Home Affairs",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2025-08-20",
+      "stages": {
+        "introduced": "2025-08-20",
+        "committee": {
+          "name": "Joint Committee on the Constitution (130th Amendment) Bill, 2025 and two related Bills",
+          "type": "joint",
+          "chair": "Aparajita Sarangi",
+          "referred": "2025-08-20",
+          "report": null
+        },
+        "passed_ls": null,
+        "passed_rs": null,
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "in_committee",
+      "status": "confirmed",
+      "summary": "Applies the rule on removing ministers held in custody to Union Territories with legislatures.",
+      "source_url": "https://prsindia.org/billtrack/the-government-of-union-territories-amendment-bill-2025"
+    },
+    {
+      "id": "viksit-bharat-shiksha-adhishthan-2025",
+      "name": "Viksit Bharat Shiksha Adhishthan Bill, 2025",
+      "ministry": "Education",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2025-12-15",
+      "stages": {
+        "introduced": "2025-12-15",
+        "committee": {
+          "name": "Joint Committee on the Viksit Bharat Shiksha Adhishthan Bill, 2025",
+          "type": "joint",
+          "chair": "Daggubati Purandeswari",
+          "referred": "2025-12-16",
+          "report": null
+        },
+        "passed_ls": null,
+        "passed_rs": null,
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "in_committee",
+      "status": "confirmed",
+      "summary": "Replaces the UGC, AICTE and NCTE with a single higher education regulator with three councils.",
+      "source_url": "https://prsindia.org/billtrack/the-viksit-bharat-shiksha-adhishthan-bill-2025",
+      "other_sources": [
+        {
+          "title": "PRS, Functioning of Parliament during Monsoon Session 2026",
+          "url": "https://prsindia.org/parliamenttrack/vital-stats/functioning-of-parliament-during-monsoon-session-2026"
+        },
+        {
+          "title": "PRS JPC page",
+          "url": "https://prsindia.org/parliamentary-committees/joint-committee-on-viksit-bharat-shiksha-adhishthan-bill-2025"
+        }
+      ],
+      "notes": "Adoption of the draft report was listed for 17 Jul 2026; no report presented as of 11 Oct 2026 (PRS)."
+    },
+    {
+      "id": "securities-markets-code-2025",
+      "name": "Securities Markets Code, 2025",
+      "ministry": "Finance",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2025-12-18",
+      "stages": {
+        "introduced": "2025-12-18",
+        "committee": {
+          "name": "Standing Committee on Finance",
+          "type": "standing",
+          "chair": "Bhartruhari Mahtab",
+          "referred": "2025-12-18",
+          "report": "2026-07-23"
+        },
+        "passed_ls": null,
+        "passed_rs": null,
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "committee_reported",
+      "status": "confirmed",
+      "summary": "Merges the SEBI Act, the Securities Contracts (Regulation) Act and the Depositories Act into one code.",
+      "source_url": "https://prsindia.org/billtrack/the-securities-markets-code-2025",
+      "other_sources": [
+        {
+          "title": "PRS Monthly Policy Review, August 2026",
+          "url": "https://prsindia.org/policy/monthly-policy-review/august-2026"
+        }
+      ]
+    },
+    {
+      "id": "corporate-laws-amendment-2026",
+      "name": "Corporate Laws (Amendment) Bill, 2026",
+      "ministry": "Corporate Affairs",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-03-23",
+      "stages": {
+        "introduced": "2026-03-23",
+        "committee": {
+          "name": "Joint Committee on the Corporate Laws (Amendment) Bill, 2026",
+          "type": "joint",
+          "chair": "Sudhir Gupta",
+          "referred": "2026-03-23",
+          "report": "2026-08-03"
+        },
+        "passed_ls": null,
+        "passed_rs": null,
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "committee_reported",
+      "status": "confirmed",
+      "summary": "Decriminalises some Companies Act and LLP Act offences, eases compliance and revises rules on CSR, mergers and buy-backs.",
+      "source_url": "https://prsindia.org/billtrack/the-corporate-laws-amendment-bill-2026",
+      "other_sources": [
+        {
+          "title": "PRS Monthly Policy Review, August 2026",
+          "url": "https://prsindia.org/policy/monthly-policy-review/august-2026"
+        }
+      ],
+      "notes": "Committee chair (Sudhir Gupta) is from the PRS Monthly Policy Review, August 2026, as recorded by the research desk; the PRS bill page does not name the chair."
+    },
+    {
+      "id": "indian-statistical-institute-2026",
+      "name": "Indian Statistical Institute Bill, 2026",
+      "ministry": "Statistics and Programme Implementation",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-08-03",
+      "stages": {
+        "introduced": "2026-08-03",
+        "committee": {
+          "name": "Departmentally Related Standing Committee (not named on PRS page)",
+          "type": "standing",
+          "chair": null,
+          "referred": "2026-09-01",
+          "report": null
+        },
+        "passed_ls": null,
+        "passed_rs": null,
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "in_committee",
+      "status": "confirmed",
+      "summary": "Gives the Indian Statistical Institute, Kolkata a new statutory charter with a Board of Governors and the President as Visitor.",
+      "source_url": "https://prsindia.org/billtrack/the-indian-statistical-institute-bill-2026",
+      "other_sources": [
+        {
+          "title": "Outlook, 13 Aug 2026 (pending at session end)",
+          "url": "https://www.outlookindia.com/national/monsoon-session-concludes-with-11-bills-passed-lok-sabha-productivity-at-19"
+        }
+      ]
+    },
+    {
+      "id": "constitution-131st-amendment-2026",
+      "name": "Constitution (131st Amendment) Bill, 2026",
+      "ministry": "Law and Justice",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-04-16",
+      "stages": {
+        "introduced": "2026-04-16",
+        "committee": null,
+        "passed_ls": null,
+        "passed_rs": null,
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "negatived",
+      "status": "confirmed",
+      "summary": "Would have raised the Lok Sabha cap from 550 to 850 seats, allowed delimitation on the 2011 census and delinked women's reservation from the next census.",
+      "source_url": "https://prsindia.org/billtrack/the-constitution-131st-amendment-bill-2026",
+      "other_sources": [
+        {
+          "title": "LiveLaw, 17 Apr 2026",
+          "url": "https://www.livelaw.in/amp/top-stories/lok-sabha-rejects-constitution-131st-bill-2026-on-delimitation-530736"
+        }
+      ],
+      "notes": "Defeated in Lok Sabha on 17 Apr 2026: 298 for, 230 against; two-thirds of members present and voting (352) not reached."
+    },
+    {
+      "id": "delimitation-2026",
+      "name": "Delimitation Bill, 2026",
+      "ministry": "Law and Justice",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-04-16",
+      "stages": {
+        "introduced": "2026-04-16",
+        "committee": null,
+        "passed_ls": null,
+        "passed_rs": null,
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "infructuous",
+      "status": "confirmed",
+      "summary": "Would have set up a Delimitation Commission to redraw constituencies using the 2011 census.",
+      "source_url": "https://prsindia.org/billtrack/the-delimitation-bill-2026",
+      "other_sources": [
+        {
+          "title": "LiveLaw, 17 Apr 2026",
+          "url": "https://www.livelaw.in/amp/top-stories/lok-sabha-rejects-constitution-131st-bill-2026-on-delimitation-530736"
+        }
+      ],
+      "notes": "Withdrawn by the government on 17 Apr 2026 after the 131st Amendment Bill failed (LiveLaw); PRS lists it as infructuous."
+    },
+    {
+      "id": "ut-laws-amendment-2026",
+      "name": "Union Territories Laws (Amendment) Bill, 2026",
+      "ministry": "Home Affairs",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-04-16",
+      "stages": {
+        "introduced": "2026-04-16",
+        "committee": null,
+        "passed_ls": null,
+        "passed_rs": null,
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "infructuous",
+      "status": "confirmed",
+      "summary": "Would have applied the delimitation and seat changes in the 131st Amendment Bill to Puducherry, Delhi and Jammu and Kashmir.",
+      "source_url": "https://prsindia.org/billtrack/the-union-territories-laws-amendment-bill-2026",
+      "other_sources": [
+        {
+          "title": "LiveLaw, 17 Apr 2026",
+          "url": "https://www.livelaw.in/amp/top-stories/lok-sabha-rejects-constitution-131st-bill-2026-on-delimitation-530736"
+        },
+        {
+          "title": "PRS, Parliament functioning in Budget Session 2026",
+          "url": "https://prsindia.org/parliamenttrack/vital-stats/parliament-functioning-in-budget-session-2026"
+        }
+      ],
+      "notes": "Conflict resolved: an earlier research note said PRS listed this Bill as 'Pending'. On 11 Oct 2026 the PRS page shows 'Infructuous' (Lok Sabha, 17 Apr 2026), consistent with LiveLaw's report that it was withdrawn with the Delimitation Bill. Not one of the 32 Bills in the research table; added because the conflict was flagged."
+    },
+    {
+      "id": "public-examinations-amendment-2026",
+      "name": "Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026",
+      "ministry": "Personnel, Public Grievances and Pensions",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-07-27",
+      "stages": {
+        "introduced": "2026-07-27",
+        "committee": null,
+        "passed_ls": "2026-07-29",
+        "passed_rs": "2026-07-30",
+        "assent": null,
+        "act_name": "Public Examinations (Prevention of Unfair Means) Amendment Act, 2026"
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "Raises penalties for exam paper leaks and sets deadlines for investigations and trials.",
+      "source_url": "https://prsindia.org/billtrack/the-public-examinations-prevention-of-unfair-means-amendment-bill-2026",
+      "other_sources": [
+        {
+          "title": "PRS, Functioning of Parliament during Monsoon Session 2026",
+          "url": "https://prsindia.org/parliamenttrack/vital-stats/functioning-of-parliament-during-monsoon-session-2026"
+        }
+      ],
+      "notes": "PRS links an Act PDF; assent date not confirmed."
+    },
+    {
+      "id": "national-honour-amendment-2026",
+      "name": "Prevention of Insults to National Honour (Amendment) Bill, 2026",
+      "ministry": "Home Affairs",
+      "house_introduced": "Rajya Sabha",
+      "date_introduced": "2026-07-24",
+      "stages": {
+        "introduced": "2026-07-24",
+        "committee": null,
+        "passed_ls": "2026-07-30",
+        "passed_rs": "2026-07-29",
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "Extends the penalty for disrupting the national anthem to Vande Mataram.",
+      "source_url": "https://prsindia.org/billtrack/the-prevention-of-insults-to-national-honour-amendment-bill-2026",
+      "notes": "Assent not confirmed in sources found."
+    },
+    {
+      "id": "supreme-court-number-of-judges-amendment-2026",
+      "name": "Supreme Court (Number of Judges) Amendment Bill, 2026",
+      "ministry": "Law and Justice",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-07-20",
+      "stages": {
+        "introduced": "2026-07-20",
+        "committee": null,
+        "passed_ls": "2026-08-03",
+        "passed_rs": "2026-08-05",
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "Raises the number of Supreme Court judges, excluding the Chief Justice, from 33 to 37.",
+      "source_url": "https://prsindia.org/billtrack/the-supreme-court-number-of-judges-amendment-bill-2026",
+      "notes": "Replaces an ordinance of 16 May 2026. Assent not confirmed in sources found."
+    },
+    {
+      "id": "msme-development-amendment-2026",
+      "name": "Micro, Small and Medium Enterprises Development (Amendment) Bill, 2026",
+      "ministry": "Micro, Small and Medium Enterprises",
+      "house_introduced": "Rajya Sabha",
+      "date_introduced": "2026-07-28",
+      "stages": {
+        "introduced": "2026-07-28",
+        "committee": null,
+        "passed_ls": "2026-08-07",
+        "passed_rs": "2026-08-03",
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "Changes how MSMEs are classified, makes registration voluntary and pushes for faster payment of MSME dues.",
+      "source_url": "https://prsindia.org/billtrack/the-micro-small-and-medium-enterprises-development-amendment-bill-2026",
+      "notes": "PRS page labels the ministry 'Medium Small and Medium Enterprises', an apparent typo. Assent not confirmed."
+    },
+    {
+      "id": "registration-births-deaths-amendment-2026",
+      "name": "Registration of Births and Deaths (Amendment) Bill, 2026",
+      "ministry": "Home Affairs",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-07-29",
+      "stages": {
+        "introduced": "2026-07-29",
+        "committee": null,
+        "passed_ls": "2026-07-31",
+        "passed_rs": "2026-08-04",
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "Requires a first-class judicial magistrate to authorise registrations delayed by more than two years.",
+      "source_url": "https://prsindia.org/billtrack/the-registration-of-births-and-deaths-amendment-bill-2026",
+      "notes": "Assent not confirmed in sources found."
+    },
+    {
+      "id": "bankers-books-evidence-2026",
+      "name": "Bankers' Books Evidence Bill, 2026",
+      "ministry": "Finance",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-08-03",
+      "stages": {
+        "introduced": "2026-08-03",
+        "committee": null,
+        "passed_ls": "2026-08-05",
+        "passed_rs": "2026-08-10",
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "Replaces an 1891 law so that electronic bank records can be used as evidence.",
+      "source_url": "https://prsindia.org/billtrack/the-bankers%E2%80%99-books-evidence-bill-2026",
+      "notes": "Assent not confirmed in sources found."
+    },
+    {
+      "id": "taxation-other-laws-amendment-2026",
+      "name": "Taxation and Other Laws (Amendment) Bill, 2026",
+      "ministry": "Finance",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-08-04",
+      "stages": {
+        "introduced": "2026-08-04",
+        "committee": null,
+        "passed_ls": "2026-08-06",
+        "passed_rs": "2026-08-10",
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "Makes foreign investors' interest and capital gains from government securities tax-free, among other tax changes.",
+      "source_url": "https://prsindia.org/billtrack/the-taxation-and-other-laws-amendment-bill-2026",
+      "other_sources": [
+        {
+          "title": "SCC Online, Income Tax (Amendment) Ordinance, 2026 explained",
+          "url": "https://www.scconline.com/blog/post/2026/06/10/income-tax-amendment-ordinance-2026-explained/"
+        }
+      ],
+      "notes": "Replaces the Income-tax (Amendment) Ordinance of 5 Jun 2026. Assent not confirmed."
+    },
+    {
+      "id": "tribunals-reforms-2026",
+      "name": "Tribunals Reforms Bill, 2026",
+      "ministry": "Law and Justice",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-08-10",
+      "stages": {
+        "introduced": "2026-08-10",
+        "committee": null,
+        "passed_ls": "2026-08-10",
+        "passed_rs": "2026-08-11",
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "Replaces the 2021 tribunals law and sets up a National Tribunals Commission for selections, performance review and complaints.",
+      "source_url": "https://prsindia.org/billtrack/the-tribunals-reforms-bill-2026",
+      "notes": "Assent not confirmed in sources found."
+    },
+    {
+      "id": "ncdc-amendment-2026",
+      "name": "National Co-operative Development Corporation (Amendment) Bill, 2026",
+      "ministry": "Cooperation",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-08-10",
+      "stages": {
+        "introduced": "2026-08-10",
+        "committee": null,
+        "passed_ls": "2026-08-11",
+        "passed_rs": "2026-08-12",
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "Widens NCDC's lending and investment remit across the co-operative sector.",
+      "source_url": "https://prsindia.org/billtrack/the-national-co-operative-development-corporation-amendment-bill-2026",
+      "notes": "Assent not confirmed in sources found."
+    },
+    {
+      "id": "kerala-alteration-of-name-2026",
+      "name": "Kerala (Alteration of Name) Bill, 2026",
+      "ministry": "Home Affairs",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-08-10",
+      "stages": {
+        "introduced": "2026-08-10",
+        "committee": null,
+        "passed_ls": "2026-08-11",
+        "passed_rs": "2026-08-12",
+        "assent": "2026-08",
+        "act_name": "Kerala (Alteration of Name) Act, 2026"
+      },
+      "current_stage": "in_force",
+      "status": "confirmed",
+      "summary": "Renames the state of Kerala as Keralam in the First Schedule of the Constitution.",
+      "source_url": "https://prsindia.org/billtrack/the-kerala-alteration-of-name-bill-2026",
+      "other_sources": [
+        {
+          "title": "The News Minute, 26 Aug 2026",
+          "url": "https://www.thenewsminute.com/kerala/kerala-is-now-officially-keralam-as-union-govt-notifies-name-change"
+        },
+        {
+          "title": "Onmanorama, 26 Aug 2026",
+          "url": "https://www.onmanorama.com/news/kerala/2026/08/26/its-official-kerala-is-now-keralam-as-centre-notifies-name-change.html"
+        }
+      ],
+      "notes": "Assent given in August 2026 (exact date not found; The News Minute says 'earlier this month'). In force from 25 Aug 2026 by Home Ministry notification (The News Minute)."
+    },
+    {
+      "id": "mmdr-amendment-2026",
+      "name": "Mines and Minerals (Development and Regulation) Amendment Bill, 2026",
+      "ministry": "Mines",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-08-10",
+      "stages": {
+        "introduced": "2026-08-10",
+        "committee": null,
+        "passed_ls": "2026-08-12",
+        "passed_rs": "2026-08-13",
+        "assent": "2026-08-18",
+        "act_name": null
+      },
+      "current_stage": "assent",
+      "status": "confirmed",
+      "summary": "Bars states from taxing mineral rights or mineral-bearing land except on terms the Centre sets, and voids unpaid past state levies.",
+      "source_url": "https://prsindia.org/billtrack/the-mines-and-minerals-development-and-regulation-amendment-bill-2026",
+      "other_sources": [
+        {
+          "title": "Khaitan & Co, Ergo note, 21 Aug 2026 (assent date)",
+          "url": "https://www.khaitanco.com/sites/default/files/2026-08/Ergo_Mines%20and%20Minerals%20(Developement%20and%20Regulation)%20Amendment_21082026.pdf"
+        },
+        {
+          "title": "Business Standard, 20 Aug 2026",
+          "url": "https://www.business-standard.com/politics/congress-ruled-states-to-jointly-challenge-mmdr-act-in-supreme-court-126082001246_1.html"
+        }
+      ],
+      "notes": "Assent date 18 Aug 2026 rests on a law firm note (Khaitan & Co); Business Standard (20 Aug) says assent came 'earlier this week'. Karnataka, Kerala and Telangana announced a Supreme Court challenge; filing not confirmed."
+    },
+    {
+      "id": "jan-vishwas-2026",
+      "name": "Jan Vishwas (Amendment of Provisions) Bill, 2026",
+      "ministry": "Commerce and Industry",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-03-27",
+      "stages": {
+        "introduced": "2026-03-27",
+        "committee": null,
+        "passed_ls": "2026-04-01",
+        "passed_rs": "2026-04-02",
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "Amends 80 central laws to replace jail terms with fines or warnings for minor offences.",
+      "source_url": "https://prsindia.org/billtrack/the-jan-vishwas-amendment-of-provisions-bill-2026",
+      "notes": "The 2025 version was withdrawn. Assent not confirmed in sources found."
+    },
+    {
+      "id": "capf-general-administration-2026",
+      "name": "Central Armed Police Forces (General Administration) Bill, 2026",
+      "ministry": "Home Affairs",
+      "house_introduced": "Rajya Sabha",
+      "date_introduced": "2026-03-25",
+      "stages": {
+        "introduced": "2026-03-25",
+        "committee": null,
+        "passed_ls": "2026-04-02",
+        "passed_rs": "2026-04-01",
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "Lets the Centre make rules on recruitment, deputation and promotion in five central armed police forces.",
+      "source_url": "https://prsindia.org/billtrack/the-central-armed-police-forces-general-administration-bill-2026",
+      "notes": "Assent not confirmed in sources found."
+    },
+    {
+      "id": "andhra-pradesh-reorganisation-amendment-2026",
+      "name": "Andhra Pradesh Reorganisation (Amendment) Bill, 2026",
+      "ministry": "Home Affairs",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-04-01",
+      "stages": {
+        "introduced": "2026-04-01",
+        "committee": null,
+        "passed_ls": "2026-04-01",
+        "passed_rs": "2026-04-02",
+        "assent": null,
+        "act_name": "Andhra Pradesh Reorganisation (Amendment) Act, 2026"
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "Names Amaravati as the capital of Andhra Pradesh.",
+      "source_url": "https://prsindia.org/billtrack/the-andhra-pradesh-reorganisation-amendment-bill-2026",
+      "notes": "PRS links an Act PDF; assent date not confirmed. Act name inferred from the Bill title."
+    },
+    {
+      "id": "transgender-persons-amendment-2026",
+      "name": "Transgender Persons (Protection of Rights) Amendment Bill, 2026",
+      "ministry": "Social Justice and Empowerment",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-03-13",
+      "stages": {
+        "introduced": "2026-03-13",
+        "committee": null,
+        "passed_ls": "2026-03-24",
+        "passed_rs": "2026-03-25",
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "Replaces the definition of a transgender person with listed categories and adds medical board review of identity certificates.",
+      "source_url": "https://prsindia.org/billtrack/the-transgender-persons-protection-of-rights-amendment-bill-2026",
+      "other_sources": [
+        {
+          "title": "SCO, 2026 Monsoon session review",
+          "url": "https://scobserver.in/journal/2026-monsoon-session-review"
+        }
+      ],
+      "notes": "Now an Act under challenge in the Supreme Court (SCO); assent date not confirmed."
+    },
+    {
+      "id": "industrial-relations-code-amendment-2026",
+      "name": "Industrial Relations Code (Amendment) Bill, 2026",
+      "ministry": "Labour and Employment",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2026-02-11",
+      "stages": {
+        "introduced": "2026-02-11",
+        "committee": null,
+        "passed_ls": "2026-02-12",
+        "passed_rs": "2026-02-12",
+        "assent": null,
+        "act_name": "Industrial Relations Code (Amendment) Act, 2026"
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "Amends the 2020 labour code on trade unions, strikes and industrial disputes.",
+      "source_url": "https://prsindia.org/billtrack/the-industrial-relations-code-amendment-bill-2026",
+      "notes": "PRS links an Act PDF; assent date not confirmed. Act name inferred from the Bill title."
+    },
+    {
+      "id": "ibc-amendment-2025",
+      "name": "Insolvency and Bankruptcy Code (Amendment) Bill, 2025",
+      "ministry": "Finance",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2025-08-12",
+      "stages": {
+        "introduced": "2025-08-12",
+        "committee": {
+          "name": "Select Committee of Lok Sabha on the IBC (Amendment) Bill, 2025",
+          "type": "select",
+          "chair": "Baijayant Panda",
+          "referred": "2025-08-12",
+          "report": "2025-12-17"
+        },
+        "passed_ls": "2026-03-30",
+        "passed_rs": "2026-04-01",
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "Speeds up insolvency cases and adds an out-of-court, creditor-led resolution route.",
+      "source_url": "https://prsindia.org/billtrack/the-insolvency-and-bankruptcy-code-amendment-bill-2025",
+      "notes": "Assent not confirmed in sources found."
+    },
+    {
+      "id": "vb-g-ram-g-2025",
+      "name": "Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin) (VB-G RAM G) Bill, 2025",
+      "ministry": "Agriculture and Farmers Welfare (as listed by PRS)",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2025-12-16",
+      "stages": {
+        "introduced": "2025-12-16",
+        "committee": null,
+        "passed_ls": "2025-12-18",
+        "passed_rs": "2025-12-18",
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "Replaces MGNREGA and raises the rural job guarantee from 100 to 125 days a year.",
+      "source_url": "https://prsindia.org/billtrack/the-viksit-bharat-%E2%80%93-guarantee-for-rozgar-and-ajeevika-mission-gramin-vb-%E2%80%93-g-ram-g-bill-2025",
+      "notes": "Ministry label as shown by PRS; not checked against the Bill text. Assent not confirmed."
+    },
+    {
+      "id": "shanti-2025",
+      "name": "Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India (SHANTI) Bill, 2025",
+      "ministry": "Science and Technology and Earth Sciences (as listed by PRS)",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2025-12-15",
+      "stages": {
+        "introduced": "2025-12-15",
+        "committee": null,
+        "passed_ls": "2025-12-17",
+        "passed_rs": "2025-12-18",
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "Opens nuclear power to licensed private players and replaces the 1962 atomic energy law and the 2010 nuclear liability law.",
+      "source_url": "https://prsindia.org/billtrack/the-sustainable-harnessing-and-advancementof-nuclear-energy-for-transforming-india-bill-2025",
+      "notes": "Ministry label as shown by PRS; not checked against the Bill text. Assent not confirmed."
+    },
+    {
+      "id": "sabka-bima-sabki-raksha-2025",
+      "name": "Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025",
+      "ministry": "Finance",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2025-12-16",
+      "stages": {
+        "introduced": "2025-12-16",
+        "committee": null,
+        "passed_ls": "2025-12-16",
+        "passed_rs": "2025-12-17",
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "Allows 100% foreign investment in Indian insurance companies.",
+      "source_url": "https://prsindia.org/billtrack/the-sabka-bima-sabki-raksha-amendment-of-insurance-laws-bill-2025",
+      "notes": "Assent not confirmed in sources found."
+    },
+    {
+      "id": "online-gaming-2025",
+      "name": "Promotion and Regulation of Online Gaming Bill, 2025",
+      "ministry": "Electronics and Information Technology",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2025-08-20",
+      "stages": {
+        "introduced": "2025-08-20",
+        "committee": null,
+        "passed_ls": "2025-08-20",
+        "passed_rs": "2025-08-21",
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "Bans real-money online games and their advertising, and promotes e-sports.",
+      "source_url": "https://prsindia.org/billtrack/the-promotion-and-regulation-of-online-gaming-bill-2025",
+      "notes": "Assent not confirmed in sources found."
+    },
+    {
+      "id": "income-tax-no2-2025",
+      "name": "Income-Tax (No. 2) Bill, 2025",
+      "ministry": "Finance",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2025-08-11",
+      "stages": {
+        "introduced": "2025-08-11",
+        "committee": null,
+        "passed_ls": "2025-08-11",
+        "passed_rs": "2025-08-12",
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "passed_both",
+      "status": "confirmed",
+      "summary": "Replaces the Income-tax Act, 1961 with a rewritten, simplified law.",
+      "source_url": "https://prsindia.org/billtrack/the-income-tax-no2-bill-2025",
+      "other_sources": [
+        {
+          "title": "PRS, Parliament functioning in Monsoon Session 2025",
+          "url": "https://prsindia.org/parliamenttrack/vital-stats/parliament-functioning-in-monsoon-session-2025"
+        }
+      ],
+      "notes": "Replaced the Income-Tax Bill, 2025, which was withdrawn. Assent not confirmed in sources found."
+    },
+    {
+      "id": "constitution-129th-amendment-2024",
+      "name": "Constitution (129th Amendment) Bill, 2024 (One Nation One Election)",
+      "ministry": "Law and Justice",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2024-12-17",
+      "stages": {
+        "introduced": "2024-12-17",
+        "committee": {
+          "name": "Joint Parliamentary Committee on One Nation One Election (41 members)",
+          "type": "joint",
+          "chair": "P.P. Chaudhary",
+          "referred": "2024-12-19",
+          "report": null,
+          "report_due": "First day of the last week of the Winter Session 2026"
+        },
+        "passed_ls": null,
+        "passed_rs": null,
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "in_committee",
+      "status": "confirmed",
+      "summary": "Makes state assemblies elected after a notified date end their terms with the Lok Sabha, so that all are elected together.",
+      "source_url": "https://prsindia.org/billtrack/the-constitution-one-hundred-and-twenty-ninth-amendment-bill-2024",
+      "other_sources": [
+        {
+          "title": "News On AIR, 29 Jul 2026",
+          "url": "https://newsonair.gov.in/lok-sabha-extends-tenure-of-jpc-on-one-nation-one-election/"
+        }
+      ],
+      "notes": "Not one of the 32 Bills in the research table; added for completeness. Deadline extended in March 2026 and again on 29 Jul 2026."
+    },
+    {
+      "id": "ut-laws-amendment-2024",
+      "name": "Union Territories Laws (Amendment) Bill, 2024 (One Nation One Election)",
+      "ministry": "Law and Justice (not confirmed)",
+      "house_introduced": "Lok Sabha",
+      "date_introduced": "2024-12-17",
+      "stages": {
+        "introduced": "2024-12-17",
+        "committee": {
+          "name": "Joint Parliamentary Committee on One Nation One Election (41 members)",
+          "type": "joint",
+          "chair": "P.P. Chaudhary",
+          "referred": null,
+          "report": null,
+          "report_due": "First day of the last week of the Winter Session 2026"
+        },
+        "passed_ls": null,
+        "passed_rs": null,
+        "assent": null,
+        "act_name": null
+      },
+      "current_stage": "in_committee",
+      "status": "partly_confirmed",
+      "summary": "Applies the simultaneous elections scheme to Union Territories with legislatures.",
+      "source_url": "https://newsonair.gov.in/lok-sabha-extends-tenure-of-jpc-on-one-nation-one-election/",
+      "notes": "Not one of the 32 Bills in the research table; added for completeness. PRS page not opened; ministry and referral date not confirmed. Source is News On AIR / politics research file."
+    }
+  ]
+}

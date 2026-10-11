@@ -1,0 +1,31 @@
+---
+import Base from '../layouts/Base.astro';
+import { content, prefix, urlOf, fmtDateTime, labelParts } from '../lib/site';
+import { UI, SECTION_DESCRIPTIONS, type Lang } from '../lib/i18n';
+import { collectionLd } from '../lib/seo';
+interface Props { lang: Lang; kind: 'trackers' | 'topics'; route: string }
+const { lang, kind, route } = Astro.props;
+const c = (await content())[lang];
+const t = UI[lang];
+const p = prefix(lang);
+const items = kind === 'trackers' ? c.trackers : c.topics;
+const title = kind === 'trackers' ? t.dataTrackers : t.topics;
+const desc = SECTION_DESCRIPTIONS[lang][kind];
+const crumbs = [{ name: t.home, href: `${p}/` }, { name: title, href: route }];
+---
+<Base lang={lang} title={title} description={`${title}: ${desc}`} path={route} crumbs={crumbs} active={kind}
+  jsonld={[collectionLd(title, desc, route, lang, items)]}>
+  <div class="w">
+    <header class="page-h"><h1>{title}</h1><p>{desc}</p></header>
+    <div class="grid3" style="padding:28px 0 48px">
+      {items.map((e: any) => (
+        <a class="tcard" href={urlOf(e.data)}>
+          <span class="k">{labelParts(e.data.format_label).slice(1).join(' · ') || (kind === 'trackers' ? t.tracker : t.topic)}</span>
+          <h2>{e.data.title}</h2>
+          <p>{e.data.standfirst}</p>
+          <p class="m">{t.updated} <time datetime={(e.data.updated ?? e.data.published).toISOString()}>{fmtDateTime(e.data.updated ?? e.data.published, lang)}</time></p>
+        </a>
+      ))}
+    </div>
+  </div>
+</Base>

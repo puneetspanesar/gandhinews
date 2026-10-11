@@ -1,0 +1,84 @@
+---
+import Base from '../layouts/Base.astro';
+import Icon from '../components/Icon.astro';
+import FormatLabel from '../components/FormatLabel.astro';
+import Byline from '../components/Byline.astro';
+import Sources from '../components/Sources.astro';
+import Tags from '../components/Tags.astro';
+import RailList from '../components/RailList.astro';
+import BillsView from '../components/trackers/BillsView.astro';
+import EconomyView from '../components/trackers/EconomyView.astro';
+import ElectionsView from '../components/trackers/ElectionsView.astro';
+import BudgetView from '../components/trackers/BudgetView.astro';
+import ScView from '../components/trackers/ScView.astro';
+import { content, prefix, kicker, fmtDate } from '../lib/site';
+import { UI, type Lang } from '../lib/i18n';
+import { TRACKER_VIEW, DATA, dataUrl } from '../lib/data';
+import { datasetLd, newsArticleLd } from '../lib/seo';
+
+interface Props { lang: Lang; id: string; route: string }
+const { lang, id, route } = Astro.props;
+const c = (await content())[lang];
+const e = c.all.get(id)!;
+const d: any = e.data;
+const t = UI[lang];
+const p = prefix(lang);
+const html: string = (e as any).rendered?.html ?? '';
+// Intro = everything before the first H2; the rest (how to read, source note) goes after the data.
+const cut = html.search(/<h2[\s>]/);
+const intro = cut === -1 ? html : html.slice(0, cut);
+const rest = cut === -1 ? '' : html.slice(cut);
+
+const view = TRACKER_VIEW[id];
+if (!view) throw new Error(`No data view configured for tracker "${id}"`);
+const data: any = (DATA[lang] as any)[view.kind];
+const asOf: string | undefined = data.meta?.as_of ?? data.as_of ?? (data.updated ? String(data.updated).slice(0, 10) : undefined);
+const jsonPath = dataUrl(view.file, lang);
+const related = d.related.map((r: string) => c.all.get(r)).filter((x: any) => x && x.data.id !== id);
+const others = c.trackers.filter((x: any) => x.data.id !== id);
+const crumbs = [{ name: t.home, href: `${p}/` }, { name: t.trackers, href: `${p}/trackers/` }, { name: d.title, href: route }];
+const dl = lang === 'hi' ? 'डेटा डाउनलोड करें (JSON)' : 'Download the data (JSON)';
+---
+<Base lang={lang} title={d.title} description={d.seo.description} path={route} crumbs={crumbs} active="trackers"
+  jsonld={[datasetLd(d, jsonPath, asOf), newsArticleLd(d)]}
+  article={{ published: d.published, modified: d.updated ?? d.published, section: t.tracker, tags: d.topics }}>
+  <div class="w">
+    <div class="art" style="padding-bottom:8px">
+      <article>
+        <header class="ah">
+          <FormatLabel data={d} />
+          <h1>{d.title}</h1>
+          <p class="stand">{d.standfirst}</p>
+          <Byline lang={lang} published={d.published} updated={d.updated} title={d.title} path={route} kicker={kicker(d)} />
+        </header>
+        <div class="body" set:html={intro} />
+      </article>
+      <aside class="rail">
+        <section class="box">
+          <span class="k">{t.tracker}</span>
+          {asOf && <p style="font-family:var(--f-head);font-weight:600;color:var(--ink);font-size:16px">{t.asOf} {fmtDate(asOf, lang)}</p>}
+          <p style="margin-top:6px">{lang === 'hi' ? 'हर पंक्ति का स्रोत डेटा फाइल में दर्ज है।' : 'Every row carries its source in the data file.'}</p>
+          <a class="dl" href={jsonPath}><Icon name="database" />{dl}</a>
+        </section>
+        <RailList title={t.related} items={related.slice(0, 4)} />
+      </aside>
+    </div>
+  </div>
+  <section class="w tr-wrap" aria-label={d.title}>
+    {view.kind === 'bills' && <BillsView lang={lang} data={data} />}
+    {view.kind === 'economy' && <EconomyView lang={lang} data={data} dataHref={jsonPath} />}
+    {view.kind === 'elections' && <ElectionsView lang={lang} data={data} />}
+    {view.kind === 'budget' && <BudgetView lang={lang} data={data} />}
+    {view.kind === 'sc' && <ScView lang={lang} data={data} />}
+  </section>
+  <div class="w">
+    <div class="art" style="padding-top:8px">
+      <article>
+        {rest && <div class="body" set:html={rest} />}
+        <Sources lang={lang} sources={d.sources} />
+        <Tags lang={lang} topics={d.topics} />
+      </article>
+      <aside class="rail"><div class="stick"><RailList title={t.trackers} items={others} /></div></aside>
+    </div>
+  </div>
+</Base>

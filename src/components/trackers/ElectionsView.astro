@@ -1,0 +1,53 @@
+---
+import { fmtShort, monthKey, monthLabel } from '../../lib/site';
+import { tr } from '../../lib/data';
+import type { Lang } from '../../lib/i18n';
+interface Props { lang: Lang; data: any }
+const { lang, data } = Astro.props;
+const hi = lang === 'hi';
+const L = hi
+  ? { counting: 'मतगणना', termEnds: 'कार्यकाल खत्म', seats: (n: number) => `${n} ${n === 1 ? 'सीट' : 'सीटें'}`, source: 'स्रोत', notes: 'टिप्पणी', excluded: 'जिनकी पुष्टि नहीं हो सकी', dates: 'तारीख तय नहीं', total: 'कुल' }
+  : { counting: 'Counting', termEnds: 'Term ends', seats: (n: number) => `${n} ${n === 1 ? 'seat' : 'seats'}`, source: 'Source', notes: 'Notes', excluded: 'Not included because we could not verify them', dates: 'Dates not fixed', total: 'Total' };
+const status = (r: any) => (hi ? data.status_labels_hi?.[r.status] : null) ?? r.status.charAt(0).toUpperCase() + r.status.slice(1);
+const groups = new Map<string, { label: string; sort: string; rows: any[] }>();
+for (const r of data.rows) {
+  const key = r.date ? monthKey(r.date)! : `w:${r.expected_window}`;
+  const sort = r.date ?? r.term_end ?? '9999';
+  if (!groups.has(key)) groups.set(key, { label: r.date ? monthLabel(key, lang) : r.expected_window, sort, rows: [] });
+  const g = groups.get(key)!;
+  g.rows.push(r);
+  if (sort < g.sort) g.sort = sort;
+}
+const ordered = [...groups.values()].sort((a, b) => a.sort.localeCompare(b.sort));
+for (const g of ordered) g.rows.sort((a, b) => (a.date ?? a.term_end ?? '9999').localeCompare(b.date ?? b.term_end ?? '9999'));
+const counts = ['held', 'announced', 'expected'].map((s) => ({ s, n: data.rows.filter((r: any) => r.status === s).length }));
+---
+<div class="sum" style="--n:4">
+  <div><b class="num">{data.rows.length}</b>{hi ? 'चुनाव और उपचुनाव' : 'elections and bypolls'}</div>
+  {counts.map((c) => <div><b class="num">{c.n}</b>{(hi ? data.status_labels_hi?.[c.s] : null) ?? c.s.charAt(0).toUpperCase() + c.s.slice(1)}</div>)}
+</div>
+{ordered.map((g) => (
+  <section class="mgroup">
+    <h3>{g.label} <span>{g.rows.length}</span></h3>
+    {g.rows.map((r) => (
+      <article class="erow" id={r.id}>
+        <div class="d">
+          {r.date ? fmtShort(r.date, lang) : L.dates}
+          {r.counting_date && <span>{L.counting} {fmtShort(r.counting_date, lang)}</span>}
+          {r.term_end && <span>{L.termEnds} {fmtShort(r.term_end, lang)}</span>}
+        </div>
+        <div>
+          <h4>{r.name}</h4>
+          <p class="meta2">{[tr(r, 'state', lang), tr(r, 'house', lang), r.seats ? L.seats(r.seats) : null].filter(Boolean).join(' · ')}</p>
+          {r.result && <p>{r.result}</p>}
+          {r.notes && <details class="nt"><summary>{L.notes}</summary><p>{r.notes}</p></details>}
+          {r.source_url && <p class="src">{L.source}: <a href={r.source_url} target="_blank" rel="noopener">{r.source_publisher}</a></p>}
+        </div>
+        <span class={`chip s-${r.status}`}><i></i>{status(r)}</span>
+      </article>
+    ))}
+  </section>
+))}
+{data.excluded_unverified?.length > 0 && (
+  <div class="trk-notes"><p style="margin-bottom:4px;font-weight:600;color:var(--ink2)">{L.excluded}</p><ul>{data.excluded_unverified.map((x: string) => <li>{x}</li>)}</ul></div>
+)}

@@ -1,0 +1,33 @@
+---
+import { fmtShort } from '../../lib/site';
+import { tr } from '../../lib/data';
+import type { Lang } from '../../lib/i18n';
+interface Props { lang: Lang; data: any }
+const { lang, data } = Astro.props;
+const hi = lang === 'hi';
+const L = hi
+  ? { bench: 'पीठ', last: 'ताज़ा घटनाक्रम', next: 'आगे क्या', source: 'स्रोत', judges: (n: number) => `${n} जज` }
+  : { bench: 'Bench', last: 'Latest', next: 'Next', source: 'Sources', judges: (n: number) => `${n} judges` };
+const label = (s: string) => (hi ? data.meta.status_labels_hi?.[s] : null) ?? s.replace(/_/g, ' ').replace(/^./, (c) => c.toUpperCase());
+const tone: Record<string, string> = { decided: 's-held', disposed: 's-none', reserved: 's-announced', pending: 's-progress', referred_to_larger_bench: 's-progress', partly_decided: 's-held', challenge_announced: 's-announced' };
+const cases = [...data.cases].sort((a, b) => String(b.last_date).localeCompare(String(a.last_date)));
+const counts = [...new Set(cases.map((c) => c.status))].map((s) => ({ s, n: cases.filter((c) => c.status === s).length }));
+---
+<div class="pmk" style="margin-top:20px">{counts.map((c) => <span class={`chip ${tone[c.s] ?? ''}`}><i></i>{label(c.s)} <b class="num" style="margin-left:2px">{c.n}</b></span>)}</div>
+<div class="cases">
+  {cases.map((c) => (
+    <article class="case" id={c.id}>
+      <div><span class={`chip ${tone[c.status] ?? ''}`} style="justify-self:start"><i></i>{label(c.status)}</span></div>
+      {c.status_text && c.status_text.toLowerCase() !== label(c.status).toLowerCase() && <p class="st2">{c.status_text}</p>}
+      <h3>{tr(c, 'case', lang)}</h3>
+      <p class="iss">{c.issue}</p>
+      <dl>
+        <dt>{L.bench}</dt><dd>{c.bench_size ? `${L.judges(c.bench_size)}: ` : ''}{c.bench}</dd>
+        <dt>{L.last}</dt><dd><b style="font-weight:600;color:var(--ink)">{fmtShort(c.last_date, lang)}.</b> {c.last_event}</dd>
+        <dt>{L.next}</dt><dd>{c.next_step}</dd>
+      </dl>
+      <p class="src">{L.source}: {c.sources.map((s: any, i: number) => <>{i > 0 && ' · '}<a href={s.url} target="_blank" rel="noopener">{s.publisher}{s.date && `, ${fmtShort(s.date, lang)}`}</a></>)}</p>
+    </article>
+  ))}
+</div>
+{data.meta.notes?.length > 0 && <ul class="trk-notes">{data.meta.notes.map((n: string) => <li>{n}</li>)}</ul>}

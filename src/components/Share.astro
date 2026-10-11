@@ -1,0 +1,59 @@
+---
+import Icon from './Icon.astro';
+import { UI, type Lang } from '../lib/i18n';
+import { abs } from '../lib/site';
+interface Props { lang: Lang; title: string; path: string; kicker?: string }
+const { lang, title, path, kicker = '' } = Astro.props;
+const t = UI[lang];
+const url = abs(path);
+const enc = encodeURIComponent;
+---
+<div class="share" data-share data-url={url} data-title={title} data-path={path} data-kicker={kicker} data-lang={lang}>
+  <button type="button" class="sb native" data-act="native" title={t.share}><Icon name="share-network" label={t.share} /></button>
+  <a class="sb" href={`https://wa.me/?text=${enc(`${title} ${url}`)}`} target="_blank" rel="noopener" title={t.shareWa}><Icon name="whatsapp-logo" label={t.shareWa} /></a>
+  <a class="sb" href={`https://x.com/intent/post?text=${enc(title)}&url=${enc(url)}`} target="_blank" rel="noopener" title={t.shareX}><Icon name="x-logo" label={t.shareX} /></a>
+  <a class="sb" href={`https://www.linkedin.com/sharing/share-offsite/?url=${enc(url)}`} target="_blank" rel="noopener" title={t.shareLi}><Icon name="linkedin-logo" label={t.shareLi} /></a>
+  <button type="button" class="sb" data-act="copy" title={t.copyLink} data-done={t.linkCopied}><Icon name="link-simple" label={t.copyLink} /></button>
+  <button type="button" class="sb" data-act="save" title={t.save} aria-pressed="false" data-on={t.saved} data-off={t.save} data-removed={lang === 'hi' ? 'हटाया गया' : 'Removed'}>
+    <span class="i-off"><Icon name="bookmark-simple" label={t.save} /></span><span class="i-on" hidden><Icon name="bookmark-simple-fill" label={t.saved} /></span>
+  </button>
+</div>
+<script>
+  const KEY = 'gn:saved';
+  const read = (): any[] => { try { return JSON.parse(localStorage.getItem(KEY) || '[]'); } catch { return []; } };
+  const write = (v: any[]) => { try { localStorage.setItem(KEY, JSON.stringify(v)); } catch {} };
+  const toast = (msg: string) => {
+    const el = document.getElementById('toast');
+    if (!el) return;
+    el.textContent = msg; el.classList.add('show');
+    clearTimeout((el as any)._t); (el as any)._t = setTimeout(() => el.classList.remove('show'), 1800);
+  };
+  document.querySelectorAll<HTMLElement>('[data-share]').forEach((box) => {
+    const { url = '', title = '', path = '', kicker = '', lang = 'en' } = box.dataset;
+    const nativeBtn = box.querySelector<HTMLElement>('[data-act="native"]');
+    if (!('share' in navigator) && nativeBtn) nativeBtn.remove();
+    nativeBtn?.addEventListener('click', () => { (navigator as any).share({ title, url }).catch(() => {}); });
+    const copy = box.querySelector<HTMLElement>('[data-act="copy"]');
+    copy?.addEventListener('click', async () => {
+      try { await navigator.clipboard.writeText(url); }
+      catch { const i = document.createElement('input'); i.value = url; document.body.appendChild(i); i.select(); document.execCommand('copy'); i.remove(); }
+      toast(copy.dataset.done || 'Link copied');
+    });
+    const save = box.querySelector<HTMLElement>('[data-act="save"]');
+    const paint = (on: boolean) => {
+      if (!save) return;
+      save.setAttribute('aria-pressed', String(on));
+      save.title = (on ? save.dataset.on : save.dataset.off) || '';
+      save.querySelector<HTMLElement>('.i-on')!.hidden = !on;
+      save.querySelector<HTMLElement>('.i-off')!.hidden = on;
+    };
+    paint(read().some((x) => x.path === path));
+    save?.addEventListener('click', () => {
+      let list = read();
+      const on = list.some((x) => x.path === path);
+      list = on ? list.filter((x) => x.path !== path) : [{ path, title, kicker, lang, at: Date.now() }, ...list].slice(0, 200);
+      write(list); paint(!on);
+      toast((on ? save.dataset.removed : save.dataset.on) || '');
+    });
+  });
+</script>
