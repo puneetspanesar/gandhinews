@@ -116,7 +116,12 @@ function line(d, lang, fmt) {
   const dots = d.data
     .map((r, i) => {
       const cls = r.highlight || (i === n - 1 && !d.data.some((x) => x.highlight)) ? 'hl' : '';
-      const pos = i === 0 ? 'first' : i === n - 1 ? 'last' : '';
+      let pos = i === 0 ? 'first' : i === n - 1 ? 'last' : '';
+      if (!pos) {
+        // Keep the value label off the line: below a dip, beside the line on a slope.
+        const a = vals[i - 1], v = vals[i], b = vals[i + 1];
+        pos = a > v && b > v ? 'dn' : a > v && v > b ? 'ur' : a < v && v < b ? 'ul' : '';
+      }
       return `<span class="pt ${cls}" style="left:${X(i).toFixed(2)}%;top:${Y(r.value).toFixed(2)}%"></span><span class="pv ${cls} ${pos}" style="left:${X(i).toFixed(2)}%;top:${Y(r.value).toFixed(2)}%">${esc(fmt(r.value))}</span>`;
     })
     .join('');

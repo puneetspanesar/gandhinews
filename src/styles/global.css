@@ -203,6 +203,9 @@ p,dd,li{text-wrap:pretty}
 .lc .pt.hl{width:10px;height:10px;margin:-5px 0 0 -5px;background:var(--red);border-color:var(--red)}
 .lc .pv{position:absolute;transform:translate(-50%,-26px);font-size:12px;font-weight:600;white-space:nowrap;color:var(--ink)}
 .lc .pv.hl{color:var(--red)}
+.lc .pv.dn{transform:translate(-50%,10px)}
+.lc .pv.ur{transform:translate(6px,-22px)}
+.lc .pv.ul{transform:translate(calc(-100% - 6px),-22px)}
 .lc .yt{position:relative}
 .lc .yt span{position:absolute;left:0;transform:translateY(-50%);font-size:12px;color:var(--mut);white-space:nowrap}
 .lc .xl{position:relative;height:22px;margin-top:8px}

@@ -199,6 +199,8 @@ export async function homeModel(lang: Lang) {
   const leadE = get(HOME.lead.id);
   const lead = {
     ...card(HOME.lead.id),
+    // The lead photo is opt-in ("photo": true): only when the picture itself tells part of the story.
+    photo: HOME.lead.photo === true,
     chart: chartFromBody(leadE, HOME.lead.chart ?? 1, lang),
     dataBox: HOME.lead.dataBox.map((x: any) => ({ ...x, value: fmtIndicator(lang, x.indicator, x.decimals), label: x.label[lang] })),
     below: HOME.lead.relatedBelow.map(card),

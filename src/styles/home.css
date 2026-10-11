@@ -298,3 +298,7 @@
 .home .rel img,.home .ts2 .sm img,.home .lead2 img{border-radius:3px}
 /* Hindi month names are longer: keep the first, every other and the last x label in the lead chart */
 :lang(hi) .home .chartbox .lc .xl span:not(.first):not(.last):nth-child(even),:lang(hi) .home .chartbox .lc .xl span:not(.first):nth-last-child(2){display:none}
+/* lead without a photo: the chart is the visual */
+.home .nopic .chartbox .fig{margin-top:0;border-top:2px solid var(--ink);padding-top:12px}
+.home .nopic .chartbox .fig .ft{font-size:16px}
+.home .nopic .chartbox .lc{grid-template-rows:300px auto;margin-top:30px}
