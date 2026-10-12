@@ -4,12 +4,12 @@
     "chart": 1,
     "overlay": {
       "kicker": {
-        "en": "Today, 1:30 pm",
-        "hi": "आज, दोपहर 1:30 बजे"
+        "en": "Delhi, Monday",
+        "hi": "दिल्ली, सोमवार"
       },
       "value": {
-        "en": "CJI says no to meeting; march goes ahead",
-        "hi": "सीजेआई का मिलने से इनकार, फिर भी मार्च"
+        "en": "From memorandum to petition",
+        "hi": "ज्ञापन नहीं, अब याचिका"
       },
       "text": {
         "en": "",
@@ -18,51 +18,51 @@
     },
     "dataBox": [
       {
-        "icon": "map-pin",
+        "icon": "gavel",
         "color": "#cc0000",
         "value": {
-          "en": "1:30 pm",
-          "hi": "1:30 बजे"
+          "en": "3 pm",
+          "hi": "दोपहर 3 बजे"
         },
         "label": {
-          "en": "assembly at Connaught Place",
-          "hi": "कनॉट प्लेस में जुटान"
+          "en": "petition filing time announced",
+          "hi": "याचिका दायर करने का घोषित समय"
+        }
+      },
+      {
+        "icon": "map-pin",
+        "color": "#8f0000",
+        "value": {
+          "en": "Constitution Club",
+          "hi": "कॉन्स्टिट्यूशन क्लब"
+        },
+        "label": {
+          "en": "where leaders gathered",
+          "hi": "जहां नेता जुटे"
+        }
+      },
+      {
+        "icon": "train",
+        "color": "#0d0d0d",
+        "value": {
+          "en": "6",
+          "hi": "6"
+        },
+        "label": {
+          "en": "Metro stations shut till 4 pm",
+          "hi": "मेट्रो स्टेशन शाम 4 बजे तक बंद"
         }
       },
       {
         "icon": "scales",
-        "color": "#8f0000",
-        "value": {
-          "en": "4-5 pm",
-          "hi": "4-5 बजे"
-        },
-        "label": {
-          "en": "meeting slot the CJI declined",
-          "hi": "मुलाकात का समय, जिससे सीजेआई ने इनकार किया"
-        }
-      },
-      {
-        "icon": "megaphone",
-        "color": "#0d0d0d",
-        "value": {
-          "en": "3",
-          "hi": "3"
-        },
-        "label": {
-          "en": "demands: CEC exit, SIR halt, paper ballots",
-          "hi": "मांगें: सीईसी का इस्तीफ़ा, एसआईआर पर रोक, बैलेट पेपर"
-        }
-      },
-      {
-        "icon": "gavel",
         "color": "#6e6e6e",
         "value": {
           "en": "13 Oct",
           "hi": "13 अक्टूबर"
         },
         "label": {
-          "en": "Supreme Court hearing",
-          "hi": "सुप्रीम कोर्ट में सुनवाई"
+          "en": "SC hears detention pleas",
+          "hi": "हिरासत मामलों पर सुनवाई"
         }
       }
     ],
@@ -71,10 +71,10 @@
       "protest-is-not-a-threat-to-public-order"
     ],
     "relatedBeside": [
-      "madhya-pradesh-high-court-strikes-down-27-obc-quota",
-      "speaker-gives-rebel-tmc-mps-till-october-20",
-      "tcs-q2-profit-ai-revenue-crosses-3-billion",
-      "cabinet-approves-integrated-transport-logistics-authority"
+      "keralam-assembly-resolution-seeks-removal-of-cec",
+      "sensex-falls-as-bond-yields-climb-rupee-best-day-since-april",
+      "supreme-court-bars-coercive-action-punjab-cm-osd-cbi-case",
+      "two-indian-seafarers-missing-after-tanker-attacks-off-oman"
     ]
   },
   "briefing": {
@@ -86,8 +86,41 @@
           "hi": "इंडिया गठबंधन:"
         },
         "text": {
-          "en": "leaders march from Connaught Place to the Supreme Court at 1:30 pm after the CJI declined to meet them.",
-          "hi": "सीजेआई के मिलने से इनकार के बाद नेता दोपहर 1:30 बजे कनॉट प्लेस से सुप्रीम कोर्ट तक मार्च करेंगे।"
+          "en": "leaders marched in Delhi and said they will file a Supreme Court petition against the CEC.",
+          "hi": "नेताओं ने दिल्ली में मार्च किया और मुख्य चुनाव आयुक्त के खिलाफ सुप्रीम कोर्ट में याचिका की बात कही।"
+        }
+      },
+      {
+        "link": "keralam-assembly-resolution-seeks-removal-of-cec",
+        "lead": {
+          "en": "Keralam:",
+          "hi": "केरलम:"
+        },
+        "text": {
+          "en": "the Assembly passed a resolution seeking CEC Gyanesh Kumar's removal.",
+          "hi": "विधानसभा ने मुख्य चुनाव आयुक्त ज्ञानेश कुमार को हटाने की मांग वाला प्रस्ताव पारित किया।"
+        }
+      },
+      {
+        "link": "sensex-falls-as-bond-yields-climb-rupee-best-day-since-april",
+        "lead": {
+          "en": "Markets:",
+          "hi": "बाज़ार:"
+        },
+        "text": {
+          "en": "Sensex fell over 550 points as bond yields rose; the rupee had its best day since April.",
+          "hi": "बॉन्ड यील्ड बढ़ने से सेंसेक्स 550 अंक से ज़्यादा गिरा; रुपये में अप्रैल के बाद सबसे बड़ी तेज़ी।"
+        }
+      },
+      {
+        "link": "supreme-court-bars-coercive-action-punjab-cm-osd-cbi-case",
+        "lead": {
+          "en": "Punjab:",
+          "hi": "पंजाब:"
+        },
+        "text": {
+          "en": "the Supreme Court barred arrest of CM Mann's aide but let the CBI probe go on.",
+          "hi": "सुप्रीम कोर्ट ने मुख्यमंत्री मान के सहयोगी की गिरफ़्तारी पर रोक लगाई, सीबीआई जांच जारी रहेगी।"
         }
       },
       {
@@ -97,63 +130,30 @@
           "hi": "नाविक:"
         },
         "text": {
-          "en": "two Indians are missing after a drone hit a tanker off Oman; India condemned the attacks.",
-          "hi": "ओमान के पास एक टैंकर पर ड्रोन हमले के बाद दो भारतीय लापता; भारत ने हमलों की निंदा की।"
+          "en": "still no word on the two Indians missing after a drone hit a tanker off Oman.",
+          "hi": "ओमान के पास टैंकर पर ड्रोन हमले के बाद लापता दो भारतीयों की अब तक कोई खबर नहीं।"
         }
       },
       {
-        "link": "madhya-pradesh-high-court-strikes-down-27-obc-quota",
+        "link": "north-korea-fires-ballistic-missiles-after-seoul-hypersonic-test",
         "lead": {
-          "en": "OBC quota:",
-          "hi": "ओबीसी आरक्षण:"
+          "en": "North Korea:",
+          "hi": "उत्तर कोरिया:"
         },
         "text": {
-          "en": "the MP High Court struck down 27% reservation and restored 14%.",
-          "hi": "मध्य प्रदेश हाई कोर्ट ने 27% आरक्षण रद्द कर 14% बहाल किया।"
+          "en": "fired several ballistic missiles, one flying over 900 km.",
+          "hi": "कई बैलिस्टिक मिसाइलें दागीं, एक 900 किमी से ज़्यादा उड़ी।"
         }
       },
       {
-        "link": "speaker-gives-rebel-tmc-mps-till-october-20",
+        "link": "migrant-boat-capsizes-off-djibouti-killing-at-least-139",
         "lead": {
-          "en": "Lok Sabha:",
-          "hi": "लोकसभा:"
+          "en": "Djibouti:",
+          "hi": "जिबूती:"
         },
         "text": {
-          "en": "the Speaker gave 20 rebel TMC MPs until 20 October to answer disqualification petitions.",
-          "hi": "अध्यक्ष ने 20 बागी टीएमसी सांसदों को अयोग्यता याचिकाओं पर जवाब के लिए 20 अक्टूबर तक का समय दिया।"
-        }
-      },
-      {
-        "link": "tcs-q2-profit-ai-revenue-crosses-3-billion",
-        "lead": {
-          "en": "TCS:",
-          "hi": "टीसीएस:"
-        },
-        "text": {
-          "en": "quarterly profit rose 15% to ₹13,884 crore; HCLTech reports today.",
-          "hi": "तिमाही मुनाफ़ा 15% बढ़कर ₹13,884 करोड़; एचसीएलटेक के नतीजे आज।"
-        }
-      },
-      {
-        "link": "cabinet-approves-integrated-transport-logistics-authority",
-        "lead": {
-          "en": "Transport:",
-          "hi": "परिवहन:"
-        },
-        "text": {
-          "en": "the Cabinet approved one authority to plan rail, road, ports and air together.",
-          "hi": "कैबिनेट ने रेल, सड़क, बंदरगाह और हवाई परिवहन की साझा योजना के लिए एक प्राधिकरण को मंज़ूरी दी।"
-        }
-      },
-      {
-        "link": "sebi-new-settlement-rules-fast-track-up-to-10-lakh",
-        "lead": {
-          "en": "SEBI:",
-          "hi": "सेबी:"
-        },
-        "text": {
-          "en": "new settlement rules add a fast track for cases of up to ₹10 lakh.",
-          "hi": "निपटान के नए नियमों में ₹10 लाख तक के मामलों के लिए फ़ास्ट ट्रैक।"
+          "en": "at least 139 migrants died when a boat bound for Yemen capsized.",
+          "hi": "यमन जा रही प्रवासियों की नाव पलटी, कम से कम 139 की मौत।"
         }
       },
       {
@@ -163,8 +163,8 @@
           "hi": "महंगाई के आंकड़े:"
         },
         "text": {
-          "en": "September CPI figures on the new 2024-base series are due at 4 pm today.",
-          "hi": "2024 आधार वर्ष वाली नई सीरीज़ पर सितंबर के सीपीआई आंकड़े आज शाम 4 बजे आएंगे।"
+          "en": "September CPI figures are due at 4 pm today.",
+          "hi": "सितंबर के सीपीआई आंकड़े आज शाम 4 बजे आएंगे।"
         }
       }
     ]
@@ -232,18 +232,18 @@
   },
   "topStories": {
     "big": {
-      "id": "two-indian-seafarers-missing-after-tanker-attacks-off-oman",
+      "id": "keralam-assembly-resolution-seeks-removal-of-cec",
       "also": [
-        "india-condemns-houthi-attacks-saudi-airports-riyadh",
-        "rupee-near-97-as-crude-stays-above-100"
+        "election-commission-dissent-report-move-to-remove-cec",
+        "how-chief-election-commissioner-is-appointed-removed"
       ]
     },
     "list": [
       "madhya-pradesh-high-court-strikes-down-27-obc-quota",
       "speaker-gives-rebel-tmc-mps-till-october-20",
-      "sebi-new-settlement-rules-fast-track-up-to-10-lakh",
+      "tcs-q2-profit-ai-revenue-crosses-3-billion",
       "cabinet-approves-integrated-transport-logistics-authority",
-      "supreme-court-orders-metro-internet-restored-after-cjp-protest-detentions"
+      "sebi-new-settlement-rules-fast-track-up-to-10-lakh"
     ]
   },
   "startHere": [
@@ -420,12 +420,12 @@
       },
       "list": [
         "india-bloc-march-to-supreme-court-after-cji-declines-meeting",
-        "rahul-gandhi-lunches-with-vijay-day-before-modi-visit"
+        "keralam-assembly-resolution-seeks-removal-of-cec"
       ]
     },
     {
       "section": "economy",
-      "lead": "tcs-q2-profit-ai-revenue-crosses-3-billion",
+      "lead": "sensex-falls-as-bond-yields-climb-rupee-best-day-since-april",
       "module": {
         "type": "markets",
         "indicators": [
@@ -436,16 +436,16 @@
         ]
       },
       "list": [
-        "rbi-raises-daily-crr-minimum-to-99-per-cent",
-        "gdp-grows-7-8-in-april-june-quarter"
+        "tcs-q2-profit-ai-revenue-crosses-3-billion",
+        "rbi-raises-daily-crr-minimum-to-99-per-cent"
       ]
     },
     {
       "section": "states",
-      "lead": "madhya-pradesh-high-court-strikes-down-27-obc-quota",
+      "lead": "supreme-court-bars-coercive-action-punjab-cm-osd-cbi-case",
       "list": [
+        "madhya-pradesh-high-court-strikes-down-27-obc-quota",
         "modi-opens-chennai-metro-stretch-vijay-seeks-school-funds",
-        "supreme-court-declines-plea-aiadmk-mlas-disqualification",
         "west-bengal-makes-bengali-compulsory-government-work"
       ]
     },
@@ -476,7 +476,8 @@
       "section": "world",
       "lead": "trump-announces-russia-ukraine-energy-ceasefire",
       "list": [
-        "iran-calls-us-hormuz-response-insufficient",
+        "north-korea-fires-ballistic-missiles-after-seoul-hypersonic-test",
+        "migrant-boat-capsizes-off-djibouti-killing-at-least-139",
         "pakistan-imposes-emergency-rule-khyber-pakhtunkhwa"
       ]
     },
@@ -484,6 +485,7 @@
       "section": "science",
       "lead": "openai-brings-gpt-6-to-all-chatgpt-users",
       "list": [
+        "nadella-ai-models-insider-risk-emergency-brake",
         "starlink-waits-on-security-clearance-as-musk-row-escalates",
         "francis-halzen-wins-physics-nobel-for-icecube-neutrinos"
       ]
@@ -492,8 +494,9 @@
       "section": "sports",
       "lead": "india-beat-west-indies-by-14-runs-in-indore-t20i",
       "list": [
-        "verstappen-wins-singapore-grand-prix-antonelli-nears-title",
-        "isl-returns-bengaluru-comeback-churchill-brothers-win-on-debut"
+        "zheng-qinwen-wins-china-open-beats-andreeva",
+        "kipruto-feysa-win-chicago-marathon",
+        "verstappen-wins-singapore-grand-prix-antonelli-nears-title"
       ]
     }
   ],
@@ -505,8 +508,8 @@
         "hi": "आज"
       },
       "text": {
-        "en": "INDIA bloc leaders march to the Supreme Court; September inflation figures due.",
-        "hi": "इंडिया गठबंधन का सुप्रीम कोर्ट तक मार्च; सितंबर के महंगाई आंकड़े आएंगे।"
+        "en": "INDIA bloc files Supreme Court petition against the CEC; September inflation figures at 4 pm.",
+        "hi": "इंडिया गठबंधन की मुख्य चुनाव आयुक्त के खिलाफ सुप्रीम कोर्ट में याचिका; शाम 4 बजे सितंबर के महंगाई आंकड़े।"
       },
       "link": "india-bloc-march-to-supreme-court-after-cji-declines-meeting"
     },
