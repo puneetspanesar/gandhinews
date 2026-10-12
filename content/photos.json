@@ -778,5 +778,75 @@
     "alt": "Rahul Gandhi speaking at an event in Karnataka (file photo)",
     "alt_hi": "कर्नाटक में एक कार्यक्रम में बोलते राहुल गांधी (फाइल फोटो)",
     "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi_speaking.jpg"
+  },
+  {
+    "id": "tanker-fire",
+    "articleId": "two-indian-seafarers-missing-after-tanker-attacks-off-oman",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Burning_MV_EVERTON_in_2004.JPEG/1200px-Burning_MV_EVERTON_in_2004.JPEG",
+    "credit": "Photo: US Navy / Wikimedia Commons",
+    "licence": "Public domain",
+    "alt": "File photo: a crude oil tanker on fire at sea (2004)",
+    "alt_hi": "फ़ाइल फ़ोटो: समुद्र में आग की चपेट में एक कच्चे तेल का टैंकर (2004)",
+    "page": "https://commons.wikimedia.org/wiki/File:Burning_MV_EVERTON_in_2004.JPEG"
+  },
+  {
+    "id": "tcs-sipcot",
+    "articleId": "tcs-q2-profit-ai-revenue-crosses-3-billion",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TCS_SIPCOT_Building.jpg/1280px-TCS_SIPCOT_Building.jpg",
+    "credit": "Photo: Naveen.kumar.kotta / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "A Tata Consultancy Services office building at SIPCOT, Chennai",
+    "alt_hi": "चेन्नई के सिपकॉट में टाटा कंसल्टेंसी सर्विसेज़ का एक दफ़्तर",
+    "page": "https://commons.wikimedia.org/wiki/File:TCS_SIPCOT_Building.jpg"
+  },
+  {
+    "id": "sebi-bhavan",
+    "articleId": "sebi-new-settlement-rules-fast-track-up-to-10-lakh",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SEBI_Bhavan.jpg/1280px-SEBI_Bhavan.jpg",
+    "credit": "Photo: Jimmy vikas / Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "alt": "SEBI Bhavan, the headquarters of the Securities and Exchange Board of India in Mumbai",
+    "alt_hi": "मुंबई में भारतीय प्रतिभूति और विनिमय बोर्ड (सेबी) का मुख्यालय, सेबी भवन",
+    "page": "https://commons.wikimedia.org/wiki/File:SEBI_Bhavan.jpg"
+  },
+  {
+    "id": "mp-high-court",
+    "articleId": "madhya-pradesh-high-court-strikes-down-27-obc-quota",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/MP_HIGH_COURT_JABALPUR_-_panoramio_-_Gyanendra_Singh_Chau%E2%80%A6.jpg",
+    "credit": "Photo: Gyanendra Singh Chauhan / Wikimedia Commons",
+    "licence": "CC BY 3.0",
+    "alt": "The Madhya Pradesh High Court building in Jabalpur",
+    "alt_hi": "जबलपुर में मध्य प्रदेश हाई कोर्ट की इमारत",
+    "page": "https://commons.wikimedia.org/wiki/File:MP_HIGH_COURT_JABALPUR_-_panoramio_-_Gyanendra_Singh_Chau%E2%80%A6.jpg"
+  },
+  {
+    "id": "om-birla",
+    "articleId": "speaker-gives-rebel-tmc-mps-till-october-20",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Om_Birla_%282021%29_%28cropped%29.jpg",
+    "credit": "Photo: IAEA Imagebank / Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "alt": "Lok Sabha Speaker Om Birla",
+    "alt_hi": "लोकसभा अध्यक्ष ओम बिरला",
+    "page": "https://commons.wikimedia.org/wiki/File:Om_Birla_(2021)_(cropped).jpg"
+  },
+  {
+    "id": "cp-b-block",
+    "articleId": "india-bloc-march-to-supreme-court-after-cji-declines-meeting",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Connaught_Place%2C_B_Block_at_night%2C_Delhi.jpg/1280px-Connaught_Place%2C_B_Block_at_night%2C_Delhi.jpg",
+    "credit": "Photo: Slyronit / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Connaught Place in central New Delhi, where the INDIA bloc's march is due to begin",
+    "alt_hi": "मध्य दिल्ली का कनॉट प्लेस, जहां से इंडिया गठबंधन का मार्च शुरू होना है",
+    "page": "https://commons.wikimedia.org/wiki/File:Connaught_Place,_B_Block_at_night,_Delhi.jpg"
+  },
+  {
+    "id": "jnpt",
+    "articleId": "cabinet-approves-integrated-transport-logistics-authority",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/JNPT_Port_container_handling.jpg/1280px-JNPT_Port_container_handling.jpg",
+    "credit": "Photo: Ccmarathe / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Container handling at JNPT port near Mumbai",
+    "alt_hi": "मुंबई के पास जेएनपीटी बंदरगाह पर कंटेनरों की आवाजाही",
+    "page": "https://commons.wikimedia.org/wiki/File:JNPT_Port_container_handling.jpg"
   }
 ]
