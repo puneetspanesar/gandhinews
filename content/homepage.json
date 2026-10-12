@@ -1,15 +1,15 @@
 {
   "lead": {
-    "id": "india-bloc-march-to-supreme-court-after-cji-declines-meeting",
+    "id": "lawyers-journalists-move-supreme-court-over-delhi-protest-detentions",
     "chart": 1,
     "overlay": {
       "kicker": {
-        "en": "Delhi, Monday",
-        "hi": "दिल्ली, सोमवार"
+        "en": "Supreme Court, today",
+        "hi": "सुप्रीम कोर्ट, आज"
       },
       "value": {
-        "en": "Stopped at the barricade, filed in court",
-        "hi": "बैरिकेड पर रुके, अदालत में याचिका"
+        "en": "Detention pleas heard today",
+        "hi": "हिरासत की याचिकाओं पर आज सुनवाई"
       },
       "text": {
         "en": "",
@@ -18,154 +18,154 @@
     },
     "dataBox": [
       {
-        "icon": "users-three",
-        "color": "#cc0000",
-        "value": {
-          "en": "11",
-          "hi": "11"
-        },
-        "label": {
-          "en": "opposition leaders signed the petition",
-          "hi": "विपक्षी नेताओं ने याचिका पर हस्ताक्षर किए"
-        }
-      },
-      {
         "icon": "scales",
-        "color": "#8f0000",
-        "value": {
-          "en": "4",
-          "hi": "4"
-        },
-        "label": {
-          "en": "respondents: ECI, CEC and two ECs",
-          "hi": "प्रतिवादी: चुनाव आयोग, सीईसी और दो आयुक्त"
-        }
-      },
-      {
-        "icon": "map-pin",
-        "color": "#0d0d0d",
-        "value": {
-          "en": "Bhagwan Dass Rd",
-          "hi": "भगवान दास रोड"
-        },
-        "label": {
-          "en": "where police stopped the march",
-          "hi": "जहां पुलिस ने मार्च रोका"
-        }
-      },
-      {
-        "icon": "gavel",
-        "color": "#6e6e6e",
+        "color": "#cc0000",
         "value": {
           "en": "13 Oct",
           "hi": "13 अक्टूबर"
         },
         "label": {
-          "en": "SC hears detention pleas",
-          "hi": "हिरासत मामलों पर सुनवाई"
+          "en": "detention and contempt pleas listed",
+          "hi": "हिरासत और अवमानना याचिकाएं सूचीबद्ध"
+        }
+      },
+      {
+        "icon": "users-three",
+        "color": "#8f0000",
+        "value": {
+          "en": "11",
+          "hi": "11"
+        },
+        "label": {
+          "en": "leaders on the INDIA bloc SIR petition",
+          "hi": "इंडिया गठबंधन की एसआईआर याचिका पर नेता"
+        }
+      },
+      {
+        "icon": "gavel",
+        "color": "#0d0d0d",
+        "value": {
+          "en": "SCBA",
+          "hi": "एससीबीए"
+        },
+        "label": {
+          "en": "Bar wants inquiry into police action",
+          "hi": "बार ने पुलिस कार्रवाई की जांच मांगी"
+        }
+      },
+      {
+        "icon": "calendar-blank",
+        "color": "#6e6e6e",
+        "value": {
+          "en": "27 Oct",
+          "hi": "27 अक्टूबर"
+        },
+        "label": {
+          "en": "next date in the Form 6 case",
+          "hi": "फ़ॉर्म 6 मामले में अगली तारीख"
         }
       }
     ],
     "relatedBelow": [
-      "supreme-court-orders-metro-internet-restored-after-cjp-protest-detentions",
-      "protest-is-not-a-threat-to-public-order"
+      "india-bloc-march-to-supreme-court-after-cji-declines-meeting",
+      "what-india-bloc-supreme-court-petition-on-sir-asks-for"
     ],
     "relatedBeside": [
-      "retail-inflation-september-2026-5-54",
-      "congress-keralam-unit-deletes-post-asking-cji-to-resign",
-      "keralam-assembly-resolution-seeks-removal-of-cec",
-      "sensex-falls-as-bond-yields-climb-rupee-best-day-since-april",
-      "hcltech-q2-profit-rises-21-raises-revenue-guidance"
+      "bjp-hits-back-at-india-bloc-march-adityanath-thakur",
+      "supreme-court-new-form-6-not-decided-in-bihar-sir-ruling",
+      "president-appoints-governors-six-states-keralam-tamil-nadu",
+      "oil-jumps-after-saudi-airport-attacks-wall-street-mixed",
+      "hyderabad-man-killed-riyadh-airport-strike-envoy-attends-funeral"
     ]
   },
   "briefing": {
     "items": [
       {
-        "link": "india-bloc-march-to-supreme-court-after-cji-declines-meeting",
+        "link": "lawyers-journalists-move-supreme-court-over-delhi-protest-detentions",
         "lead": {
-          "en": "INDIA bloc:",
-          "hi": "इंडिया गठबंधन:"
+          "en": "Supreme Court:",
+          "hi": "सुप्रीम कोर्ट:"
         },
         "text": {
-          "en": "police stopped the march near the Supreme Court; 11 leaders filed a petition seeking a stay on the SIR.",
-          "hi": "पुलिस ने सुप्रीम कोर्ट के पास मार्च रोका; 11 नेताओं ने एसआईआर पर रोक के लिए याचिका दायर की।"
+          "en": "hears the Delhi protest detention and contempt pleas today.",
+          "hi": "दिल्ली प्रदर्शन में हिरासत और अवमानना की याचिकाओं पर आज सुनवाई।"
         }
       },
       {
-        "link": "retail-inflation-september-2026-5-54",
+        "link": "president-appoints-governors-six-states-keralam-tamil-nadu",
         "lead": {
-          "en": "Inflation:",
-          "hi": "महंगाई:"
+          "en": "Governors:",
+          "hi": "राज्यपाल:"
         },
         "text": {
-          "en": "retail inflation jumped to 5.54% in September as food prices rose 7.74%.",
-          "hi": "सितंबर में खुदरा महंगाई बढ़कर 5.54%, खाद्य महंगाई 7.74%।"
+          "en": "the President named new Governors in six states, including Tamil Nadu and Keralam.",
+          "hi": "राष्ट्रपति ने तमिलनाडु और केरलम समेत छह राज्यों में नए राज्यपाल नियुक्त किए।"
         }
       },
       {
-        "link": "congress-keralam-unit-deletes-post-asking-cji-to-resign",
+        "link": "oil-jumps-after-saudi-airport-attacks-wall-street-mixed",
         "lead": {
-          "en": "CJI row:",
-          "hi": "सीजेआई विवाद:"
+          "en": "Oil:",
+          "hi": "तेल:"
         },
         "text": {
-          "en": "Congress's Keralam unit deleted a post asking the CJI to resign; Rijiju hit back.",
-          "hi": "कांग्रेस की केरलम इकाई ने सीजेआई से इस्तीफ़ा मांगने वाली पोस्ट हटाई; रिजिजू का पलटवार।"
+          "en": "Brent rose to $106.65 after the Riyadh airport attack.",
+          "hi": "रियाद हवाई अड्डे पर हमले के बाद ब्रेंट $106.65 पर पहुंचा।"
         }
       },
       {
-        "link": "sensex-falls-as-bond-yields-climb-rupee-best-day-since-april",
+        "link": "hyderabad-man-killed-riyadh-airport-strike-envoy-attends-funeral",
         "lead": {
-          "en": "Markets:",
-          "hi": "बाज़ार:"
+          "en": "Riyadh:",
+          "hi": "रियाद:"
         },
         "text": {
-          "en": "Sensex closed 548 points lower; the rupee rose 93 paise to 95.78.",
-          "hi": "सेंसेक्स 548 अंक गिरकर बंद; रुपया 93 पैसे चढ़कर 95.78 पर।"
+          "en": "a Hyderabad man was among those killed; three Indians are in ICU.",
+          "hi": "मरने वालों में हैदराबाद का एक व्यक्ति; तीन भारतीय आईसीयू में।"
         }
       },
       {
-        "link": "hcltech-q2-profit-rises-21-raises-revenue-guidance",
+        "link": "mpsc-chairman-on-leave-pune-students-end-protest",
         "lead": {
-          "en": "HCLTech:",
-          "hi": "एचसीएलटेक:"
+          "en": "Maharashtra:",
+          "hi": "महाराष्ट्र:"
         },
         "text": {
-          "en": "profit rose 21% to ₹5,132 crore and it raised its revenue forecast.",
-          "hi": "मुनाफ़ा 21% बढ़कर ₹5,132 करोड़, राजस्व अनुमान बढ़ाया।"
+          "en": "the MPSC chairman went on leave and Pune students ended their protest.",
+          "hi": "एमपीएससी अध्यक्ष छुट्टी पर गए, पुणे के छात्रों ने आंदोलन खत्म किया।"
         }
       },
       {
-        "link": "hall-woodford-win-economics-nobel-stabilisation-models",
+        "link": "bergs-stuns-alcaraz-zverev-clinches-year-end-no-1",
         "lead": {
-          "en": "Nobel:",
-          "hi": "नोबेल:"
+          "en": "Tennis:",
+          "hi": "टेनिस:"
         },
         "text": {
-          "en": "Robert Hall and Michael Woodford win the economics prize.",
-          "hi": "रॉबर्ट हॉल और माइकल वुडफ़र्ड को अर्थशास्त्र का नोबेल।"
+          "en": "Bergs beat Alcaraz in Shanghai, sealing year-end No. 1 for Zverev.",
+          "hi": "शंघाई में बर्ग्स ने अल्कराज़ को हराया, ज़्वेरेव का साल के अंत में नंबर 1 रहना तय।"
         }
       },
       {
-        "link": "saudi-arabia-vows-serious-response-riyadh-airport-stays-shut",
+        "link": "india-west-indies-fourth-t20i-hyderabad-preview",
         "lead": {
-          "en": "Saudi Arabia:",
-          "hi": "सऊदी अरब:"
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Riyadh airport stays shut after Houthi strikes killed 13; Riyadh vows a response.",
-          "hi": "हूती हमलों में 13 मौतों के बाद रियाद हवाई अड्डा बंद; सऊदी ने जवाब की चेतावनी दी।"
+          "en": "India can win the series in Hyderabad on Wednesday.",
+          "hi": "भारत बुधवार को हैदराबाद में सीरीज़ जीत सकता है।"
         }
       },
       {
-        "link": "uk-says-iran-highly-likely-behind-raf-fairford-plot",
+        "link": "wpi-inflation-september-data-due-preview",
         "lead": {
-          "en": "UK:",
-          "hi": "ब्रिटेन:"
+          "en": "Prices:",
+          "hi": "कीमतें:"
         },
         "text": {
-          "en": "the government says Iran was almost certainly behind the RAF Fairford plot.",
-          "hi": "सरकार ने कहा, आरएएफ़ फ़ेयरफ़र्ड साज़िश के पीछे लगभग निश्चित रूप से ईरान।"
+          "en": "September wholesale inflation figures are due on Wednesday.",
+          "hi": "सितंबर के थोक महंगाई आंकड़े बुधवार को आएंगे।"
         }
       }
     ]
@@ -233,27 +233,27 @@
   },
   "topStories": {
     "big": {
-      "id": "retail-inflation-september-2026-5-54",
+      "id": "former-mla-atar-singh-bhadana-dies-after-attack-bharatpur",
       "also": [
-        "rbi-raises-repo-rate-to-5-50",
-        "repo-rate-and-your-emi-explained"
+        "up-yogi-releases-493-crore-crop-loss-relief-farmers",
+        "uttarakhand-cabinet-agniveer-recruitment-exemptions-flood-zoning"
       ]
     },
     "list": [
-      "keralam-assembly-resolution-seeks-removal-of-cec",
-      "supreme-court-bars-coercive-action-punjab-cm-osd-cbi-case",
-      "madhya-pradesh-high-court-strikes-down-27-obc-quota",
-      "two-indian-seafarers-missing-after-tanker-attacks-off-oman",
-      "speaker-gives-rebel-tmc-mps-till-october-20"
+      "centre-to-cap-cancer-drug-trade-margins-at-30-per-cent",
+      "bjp-mahila-morcha-protests-congress-mp-akoijam-jnu-case",
+      "mns-signature-campaign-seeks-cec-gyanesh-kumar-resignation",
+      "keralam-satheesan-balagopal-clash-over-pay-revision-arrears",
+      "supreme-court-firecrackers-religion-caqm-suggestions"
     ]
   },
   "startHere": [
+    "why-retail-inflation-jumped-september-what-it-means-for-emi",
+    "what-india-bloc-supreme-court-petition-on-sir-asks-for",
+    "why-riyadh-airport-is-shut-houthi-saudi-strikes-explained",
     "what-is-the-cockroach-janta-party",
-    "how-a-bill-becomes-law-in-india",
-    "how-india-measures-inflation-new-cpi-series",
-    "four-labour-codes-explained-workers-employers",
-    "gst-explained-slabs-council-revenue-sharing",
-    "census-2027-what-will-be-asked-caste"
+    "how-chief-election-commissioner-is-appointed-removed",
+    "repo-rate-and-your-emi-explained"
   ],
   "trackers": [
     {
@@ -420,13 +420,14 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "india-bloc-march-to-supreme-court-after-cji-declines-meeting",
-        "congress-keralam-unit-deletes-post-asking-cji-to-resign"
+        "bjp-hits-back-at-india-bloc-march-adityanath-thakur",
+        "owaisi-says-akhilesh-yadav-has-understanding-with-adityanath",
+        "rlm-suspends-ram-pukar-sinha-mla-revolt-saran-mlc"
       ]
     },
     {
       "section": "economy",
-      "lead": "retail-inflation-september-2026-5-54",
+      "lead": "rbl-bank-q2-profit-jumps-170-per-cent",
       "module": {
         "type": "markets",
         "indicators": [
@@ -437,27 +438,28 @@
         ]
       },
       "list": [
-        "hcltech-q2-profit-rises-21-raises-revenue-guidance",
-        "sensex-falls-as-bond-yields-climb-rupee-best-day-since-april"
+        "zetwerk-ipo-price-band-opens-october-15",
+        "festive-ecommerce-sales-24000-crore-first-two-days",
+        "gold-slips-near-1-5-lakh-ahead-of-us-inflation-data"
       ]
     },
     {
       "section": "states",
-      "lead": "supreme-court-bars-coercive-action-punjab-cm-osd-cbi-case",
+      "lead": "mpsc-chairman-on-leave-pune-students-end-protest",
       "list": [
-        "keralam-assembly-resolution-seeks-removal-of-cec",
-        "madhya-pradesh-high-court-strikes-down-27-obc-quota",
-        "modi-opens-chennai-metro-stretch-vijay-seeks-school-funds"
+        "majhi-orders-faster-work-on-puri-heritage-projects",
+        "himanta-dares-congress-states-to-resign-revanth-attacks-sir",
+        "gujarat-clears-assistance-25-industrial-units-3903-crore"
       ]
     },
     {
       "section": "policy",
-      "lead": "cabinet-approves-integrated-transport-logistics-authority",
+      "lead": "india-uk-jetco-goyal-doubling-trade-by-2030",
       "list": [
-        "sebi-new-settlement-rules-fast-track-up-to-10-lakh",
-        "draft-steel-policy-targets-604-mt-capacity-by-2047",
-        "rabi-msp-wheat-up-rs-25-per-quintal",
-        "labour-codes-centre-wants-state-rules-by-october-31"
+        "navy-commissions-ins-mangrol-anti-submarine-craft",
+        "nadda-icmr-high-altitude-research-centre-keylong",
+        "supreme-court-asks-centre-census-caste-declaration-procedure",
+        "supreme-court-orders-sit-probe-assault-on-lawyers-bci-protest"
       ]
     },
     {
@@ -475,29 +477,29 @@
   "desks": [
     {
       "section": "world",
-      "lead": "saudi-arabia-vows-serious-response-riyadh-airport-stays-shut",
+      "lead": "sudan-air-strikes-kill-72-gold-miners-near-egypt-border",
       "list": [
-        "uk-says-iran-highly-likely-behind-raf-fairford-plot",
         "trump-announces-russia-ukraine-energy-ceasefire",
-        "north-korea-fires-ballistic-missiles-after-seoul-hypersonic-test"
+        "carney-urges-albertans-to-stay-united-before-vote",
+        "china-sanctions-paraguay-belize-ministers-taiwan-ties"
       ]
     },
     {
       "section": "science",
-      "lead": "hall-woodford-win-economics-nobel-stabilisation-models",
+      "lead": "microsoft-unveils-maia-300-ai-chip",
       "list": [
-        "nadella-ai-models-insider-risk-emergency-brake",
-        "openai-brings-gpt-6-to-all-chatgpt-users",
-        "starlink-waits-on-security-clearance-as-musk-row-escalates"
+        "ahold-delhaize-cyberattack-albert-heijn-shelves",
+        "spacex-crs-35-cargo-launch-iss-brain-organoids",
+        "climate-fingerprint-review-santer-human-warming-incontrovertible"
       ]
     },
     {
       "section": "sports",
-      "lead": "india-beat-west-indies-by-14-runs-in-indore-t20i",
+      "lead": "liverpool-0-manchester-city-3-anfield",
       "list": [
-        "rajnath-singh-honours-services-athletes-27-asian-games-medals",
-        "brics-traditional-sports-games-open-in-ahmedabad",
-        "zheng-qinwen-wins-china-open-beats-andreeva"
+        "bergs-stuns-alcaraz-zverev-clinches-year-end-no-1",
+        "ranji-trophy-deshpande-hat-trick-jadeja-century",
+        "udhayveer-sidhu-wins-air-pistol-gold-cairo-world-cup"
       ]
     }
   ],
@@ -505,14 +507,14 @@
     {
       "icon": "scales",
       "date": {
-        "en": "Tue 13 Oct",
-        "hi": "मंगल, 13 अक्टूबर"
+        "en": "Today",
+        "hi": "आज"
       },
       "text": {
-        "en": "Supreme Court hears the CJP detention and contempt pleas; the INDIA bloc wants its SIR petition heard too.",
-        "hi": "सुप्रीम कोर्ट में सीजेपी हिरासत और अवमानना याचिकाओं पर सुनवाई; इंडिया गठबंधन भी अपनी एसआईआर याचिका पर सुनवाई चाहता है।"
+        "en": "Supreme Court hears the protest detention and contempt pleas; SpaceX cargo launch to the ISS.",
+        "hi": "सुप्रीम कोर्ट में प्रदर्शन से जुड़ी हिरासत और अवमानना याचिकाओं पर सुनवाई; आईएसएस के लिए स्पेसएक्स का कार्गो लॉन्च।"
       },
-      "link": "supreme-court-orders-metro-internet-restored-after-cjp-protest-detentions"
+      "link": "lawyers-journalists-move-supreme-court-over-delhi-protest-detentions"
     },
     {
       "icon": "trophy",
@@ -521,10 +523,10 @@
         "hi": "बुध, 14 अक्टूबर"
       },
       "text": {
-        "en": "India play West Indies in the fourth T20I in Hyderabad, 2-1 up.",
-        "hi": "हैदराबाद में भारत और वेस्टइंडीज़ का चौथा टी20, भारत 2-1 से आगे।"
+        "en": "India v West Indies, fourth T20I in Hyderabad; September WPI data.",
+        "hi": "हैदराबाद में भारत-वेस्टइंडीज़ चौथा टी20; सितंबर के थोक महंगाई आंकड़े।"
       },
-      "link": "india-beat-west-indies-by-14-runs-in-indore-t20i"
+      "link": "india-west-indies-fourth-t20i-hyderabad-preview"
     },
     {
       "icon": "bank",

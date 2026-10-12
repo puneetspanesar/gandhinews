@@ -5,14 +5,15 @@ type: news
 section: sports
 format_label: Sports / Football
 topics: []
-title: "ISL returns with a Bengaluru comeback and a winning debut for Churchill Brothers"
-standfirst: "Menno Koch scored at both ends as Bengaluru FC beat Sporting Club Delhi 3-2 in the opener. Churchill Brothers beat Mumbai City and Kerala Blasters won in Pune."
+title: "ISL returns with a Bengaluru comeback, a Churchill debut win and a late NorthEast winner"
+standfirst: "Menno Koch scored at both ends as Bengaluru FC beat Sporting Club Delhi 3-2 in the opener. Churchill Brothers beat Mumbai City, and NorthEast United stunned Mohun Bagan 1-0."
 published: 2026-10-12T08:00:00+05:30
+updated: 2026-10-13T04:00:00+05:30
 location: Bengaluru
 keyPoints:
   - "Bengaluru FC came from 2-1 down to beat Sporting Club Delhi **3-2**, with Menno Koch heading the 89th-minute winner."
   - "Churchill Brothers won their **first ISL match**, 2-1 against Mumbai City at Fatorda."
-  - "Kerala Blasters beat Inter Kashi **2-0** in Pune; FC Goa and Chennaiyin drew 1-1."
+  - "NorthEast United beat Mohun Bagan Super Giant **1-0** in Guwahati with Jithin M.S.'s stoppage-time goal."
 hero:
   need: "Sree Kanteerava Stadium, Bengaluru, or Bengaluru FC players in action"
   suggested_source: "Wikimedia Commons search 'Sree Kanteerava Stadium' or 'Bengaluru FC'"
@@ -21,7 +22,7 @@ hero:
     value: "ISL is back: Bengaluru win 3-2"
 related: []
 seo:
-  description: "ISL 2026-27 opening weekend: Bengaluru FC beat SC Delhi 3-2, Churchill Brothers beat Mumbai City 2-1, Kerala Blasters won 2-0, FC Goa drew with Chennaiyin."
+  description: "ISL 2026-27 opening weekend: Bengaluru FC beat SC Delhi 3-2, Churchill Brothers beat Mumbai City 2-1 and NorthEast United beat Mohun Bagan 1-0."
 sources:
   - title: "FC Goa fight back to hold Chennaiyin FC to 1-1 draw"
     publisher: "Indian Super League"
@@ -73,6 +74,26 @@ sources:
     date: 2026-10-10
     url: "https://khelnow.com/football/bengaluru-fc-3-2-sc-delhi-key-takeaways-from-isl-2026-27-opener"
     primary: false
+  - title: "Jithin MS Stoppage Time Banger Stuns Mohun Bagan As NorthEast United Begin ISL Season With A Win"
+    publisher: "myKhel"
+    date: 2026-10-12
+    url: "https://www.mykhel.com/football/jithin-ms-stoppage-time-banger-stuns-mohun-bagan-as-northeast-united-begin-isl-season-with-a-win-456203.html"
+    primary: false
+  - title: "\"We Deserved To Win\": Mohun Bagan Coach Dilmperis Rues Missed Chances After NorthEast United Defeat"
+    publisher: "myKhel"
+    date: 2026-10-12
+    url: "https://www.mykhel.com/football/we-deserved-to-win-mohun-bagan-coach-dilmperis-rues-missed-chances-after-northeast-united-defeat-456205.html"
+    primary: false
+  - title: "MG ISL: NorthEast United FC beat Mohun Bagan SG"
+    publisher: "UNI"
+    date: 2026-10-12
+    url: "https://www.uniindia.com/sports/sports-football-isl/211816"
+    primary: false
+  - title: "Jithin's late strike helps NorthEast United stun Mohun Bagan in Guwahati"
+    publisher: "The News Mill"
+    date: 2026-10-12
+    url: "https://thenewsmill.com/2026/10/jithins-late-strike-helps-northeast-united-stun-mohun-bagan-in-guwahati/"
+    primary: false
 verification:
   status: approved
   notes:
@@ -81,10 +102,10 @@ verification:
     - "Gaurav Bora's line ('It's for the badge, it's for the people!') is quoted by India.com from the ISL's X account; the post itself was not opened."
     - "Inter Kashi v Kerala venue: The Bridge calls it Balewadi Stadium; ANI names the Shree Shiv Chhatrapati Sports Complex, Pune (the Balewadi complex). Copy uses Pune."
     - "Season format, 13 clubs, 163 matches and the Churchill/Jamshedpur and Diamond Harbour details are from The Bridge's season guide only."
-    - "NorthEast United v Mohun Bagan SG is tonight (12 Oct, 7:30 pm IST); not yet played at time of writing."
+    - "Update 13 Oct: NorthEast United 1-0 Mohun Bagan SG agreed by UNI, myKhel and The News Mill; Jithin M.S. at 90+2. myKhel describes the goal as a rebound after a Kaith save off the post; The News Mill describes a counterattack finish. Copy says only that he 'struck from close range', which fits both. Ajaraie disallowed offside goal from myKhel only, minute unknown, left out. No NorthEast coach quote found."
 ---
 
-The Indian Super League is back in its full home-and-away shape, and its opening weekend did not lack drama. Bengaluru FC came from behind to beat Sporting Club Delhi 3-2 on Saturday, with defender Menno Koch scoring at both ends. On Sunday, newcomers Churchill Brothers won their first ISL match, beating Mumbai City 2-1 at Fatorda.
+The Indian Super League is back in its full home-and-away shape, and its opening weekend did not lack drama. Bengaluru FC came from behind to beat Sporting Club Delhi 3-2 on Saturday, with defender Menno Koch scoring at both ends. On Sunday, newcomers Churchill Brothers won their first ISL match, beating Mumbai City 2-1 at Fatorda, and on Monday night NorthEast United snatched a 1-0 win over Mohun Bagan Super Giant in stoppage time.
 
 ## Koch's night in Bengaluru
 
@@ -107,13 +128,23 @@ Head coach Ashley Westwood was pleased but not carried away. "Happy with the res
 On Saturday night FC Goa came from behind to draw 1-1 with Chennaiyin FC at Fatorda. Irfan Yadwad put Chennaiyin ahead in the 64th minute, and Chiki headed the equaliser 11 minutes later from a free kick won by Udanta Singh, who also hit the crossbar.
 
 ```facts
-{"title":"ISL 2026-27, opening weekend","items":[{"value":"3-2","label":"Bengaluru FC v Sporting Club Delhi, 10 Oct","source":"ISL"},{"value":"1-1","label":"FC Goa v Chennaiyin FC, 10 Oct","source":"ISL"},{"value":"0-2","label":"Inter Kashi v Kerala Blasters, 11 Oct","source":"ISL"},{"value":"2-1","label":"Churchill Brothers v Mumbai City, 11 Oct","source":"ISL"}]}
+{"title":"ISL 2026-27, opening weekend","items":[{"value":"3-2","label":"Bengaluru FC v Sporting Club Delhi, 10 Oct","source":"ISL"},{"value":"1-1","label":"FC Goa v Chennaiyin FC, 10 Oct","source":"ISL"},{"value":"0-2","label":"Inter Kashi v Kerala Blasters, 11 Oct","source":"ISL"},{"value":"2-1","label":"Churchill Brothers v Mumbai City, 11 Oct","source":"ISL"},{"value":"1-0","label":"NorthEast United v Mohun Bagan SG, 12 Oct","source":"ISL"}]}
 ```
 
 ## A full season again
 
 Last season was cut to a single round of 13 matches per team, played from February to May, with no playoffs. This time 13 clubs play each other home and away, the ISL Cup playoffs are back, and 163 matches are scheduled through to May 2027.
 
+## A late sting in Guwahati
+
+The weekend closed on Monday night with the biggest upset so far. NorthEast United beat Mohun Bagan Super Giant 1-0 at the Indira Gandhi Athletic Stadium in Guwahati, and the goal came in the second minute of stoppage time. Jithin M.S., sent on at the start of the second half, struck from close range to win it.
+
+Mohun Bagan had the better of the chances. Lee Erwin headed against the woodwork in the ninth minute, NorthEast goalkeeper Gurmeet Singh made important saves, and substitute Suhail Bhat hit the frame of the goal late on from a Liston Colaco cross. Mohun Bagan head coach Panos Dilmperis did not hide his frustration.
+
+> We are very sad and disappointed with the result. We apologise to our fans because we wanted to start the season with a win, and we believe we deserved it.
+>
+> Source: Panos Dilmperis, Mohun Bagan Super Giant head coach, 12 October 2026
+
 ## What's next
 
-NorthEast United host Mohun Bagan Super Giant in Guwahati tonight at 7:30 pm IST. Punjab FC play Odisha FC in Delhi on Wednesday, and East Bengal begin their season against Churchill Brothers at Fatorda on 18 October.
+Punjab FC play Odisha FC in Delhi on Wednesday, and East Bengal begin their season against Churchill Brothers at Fatorda on 18 October.

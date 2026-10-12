@@ -6,14 +6,15 @@ type: news
 section: sports
 format_label: खेल / फ़ुटबॉल
 topics: []
-title: "आईएसएल की वापसी: बेंगलुरु की शानदार वापसी, चर्चिल ब्रदर्स की जीत से शुरुआत"
-standfirst: "मेनो कोख ने दोनों छोर पर गोल किया और बेंगलुरु एफ़सी ने सीज़न के पहले मैच में स्पोर्टिंग क्लब दिल्ली को 3-2 से हराया। चर्चिल ब्रदर्स ने मुंबई सिटी को हराया, केरला ब्लास्टर्स पुणे में जीते।"
+title: "आईएसएल की वापसी: बेंगलुरु का पलटवार, चर्चिल की पहली जीत, नॉर्थईस्ट का आख़िरी वार"
+standfirst: "मेनो कोख ने दोनों छोर पर गोल किया और बेंगलुरु एफ़सी ने सीज़न के पहले मैच में स्पोर्टिंग क्लब दिल्ली को 3-2 से हराया। चर्चिल ब्रदर्स ने मुंबई सिटी को हराया और नॉर्थईस्ट यूनाइटेड ने मोहन बागान को 1-0 से चौंकाया।"
 published: 2026-10-12T08:00:00+05:30
+updated: 2026-10-13T04:00:00+05:30
 location: बेंगलुरु
 keyPoints:
   - "बेंगलुरु एफ़सी ने 1-2 से पिछड़ने के बाद स्पोर्टिंग क्लब दिल्ली को **3-2 से हराया**; 89वें मिनट में मेनो कोख ने हेडर से विजयी गोल किया।"
   - "चर्चिल ब्रदर्स ने फ़ातोर्डा में मुंबई सिटी को 2-1 से हराकर **आईएसएल का अपना पहला मैच** जीता।"
-  - "केरला ब्लास्टर्स ने पुणे में इंटर काशी को **2-0 से** हराया; एफ़सी गोवा और चेन्नइयिन का मैच 1-1 से बराबर रहा।"
+  - "नॉर्थईस्ट यूनाइटेड ने गुवाहाटी में जितिन एम.एस. के स्टॉपेज टाइम गोल से मोहन बागान सुपर जायंट को **1-0 से हराया**।"
 hero:
   need: "बेंगलुरु का श्री कांतीरवा स्टेडियम, या खेलते हुए बेंगलुरु एफ़सी के खिलाड़ी"
   suggested_source: "Wikimedia Commons search 'Sree Kanteerava Stadium' or 'Bengaluru FC'"
@@ -22,7 +23,7 @@ hero:
     value: "आईएसएल लौटा: बेंगलुरु 3-2 से जीता"
 related: []
 seo:
-  description: "आईएसएल 2026-27 का पहला वीकेंड: बेंगलुरु एफ़सी ने एससी दिल्ली को 3-2, चर्चिल ब्रदर्स ने मुंबई सिटी को 2-1 से हराया, केरला ब्लास्टर्स जीते, गोवा-चेन्नइयिन ड्रॉ।"
+  description: "आईएसएल 2026-27 का पहला वीकेंड: बेंगलुरु एफ़सी ने एससी दिल्ली को 3-2, चर्चिल ब्रदर्स ने मुंबई सिटी को 2-1 और नॉर्थईस्ट यूनाइटेड ने मोहन बागान को 1-0 से हराया।"
 sources:
   - title: "FC Goa fight back to hold Chennaiyin FC to 1-1 draw"
     publisher: "Indian Super League"
@@ -74,6 +75,26 @@ sources:
     date: 2026-10-10
     url: "https://khelnow.com/football/bengaluru-fc-3-2-sc-delhi-key-takeaways-from-isl-2026-27-opener"
     primary: false
+  - title: "Jithin MS Stoppage Time Banger Stuns Mohun Bagan As NorthEast United Begin ISL Season With A Win"
+    publisher: "myKhel"
+    date: 2026-10-12
+    url: "https://www.mykhel.com/football/jithin-ms-stoppage-time-banger-stuns-mohun-bagan-as-northeast-united-begin-isl-season-with-a-win-456203.html"
+    primary: false
+  - title: "\"We Deserved To Win\": Mohun Bagan Coach Dilmperis Rues Missed Chances After NorthEast United Defeat"
+    publisher: "myKhel"
+    date: 2026-10-12
+    url: "https://www.mykhel.com/football/we-deserved-to-win-mohun-bagan-coach-dilmperis-rues-missed-chances-after-northeast-united-defeat-456205.html"
+    primary: false
+  - title: "MG ISL: NorthEast United FC beat Mohun Bagan SG"
+    publisher: "UNI"
+    date: 2026-10-12
+    url: "https://www.uniindia.com/sports/sports-football-isl/211816"
+    primary: false
+  - title: "Jithin's late strike helps NorthEast United stun Mohun Bagan in Guwahati"
+    publisher: "The News Mill"
+    date: 2026-10-12
+    url: "https://thenewsmill.com/2026/10/jithins-late-strike-helps-northeast-united-stun-mohun-bagan-in-guwahati/"
+    primary: false
 verification:
   status: approved
   notes:
@@ -82,10 +103,10 @@ verification:
     - "Gaurav Bora's line ('It's for the badge, it's for the people!') is quoted by India.com from the ISL's X account; the post itself was not opened."
     - "Inter Kashi v Kerala venue: The Bridge calls it Balewadi Stadium; ANI names the Shree Shiv Chhatrapati Sports Complex, Pune (the Balewadi complex). Copy uses Pune."
     - "Season format, 13 clubs, 163 matches and the Churchill/Jamshedpur and Diamond Harbour details are from The Bridge's season guide only."
-    - "NorthEast United v Mohun Bagan SG is tonight (12 Oct, 7:30 pm IST); not yet played at time of writing."
+    - "Update 13 Oct: NorthEast United 1-0 Mohun Bagan SG agreed by UNI, myKhel and The News Mill; Jithin M.S. at 90+2. myKhel describes the goal as a rebound after a Kaith save off the post; The News Mill describes a counterattack finish. Copy says only that he 'struck from close range', which fits both. Ajaraie disallowed offside goal from myKhel only, minute unknown, left out. No NorthEast coach quote found."
 ---
 
-इंडियन सुपर लीग (आईएसएल) अपने पूरे होम-एंड-अवे प्रारूप में लौट आई है, और पहले ही वीकेंड में रोमांच की कमी नहीं रही। शनिवार को बेंगलुरु एफ़सी ने पिछड़ने के बाद स्पोर्टिंग क्लब दिल्ली को 3-2 से हराया, जिसमें डिफ़ेंडर मेनो कोख ने दोनों छोर पर गोल किया। रविवार को लीग में नई आई चर्चिल ब्रदर्स ने फ़ातोर्डा में मुंबई सिटी को 2-1 से हराकर आईएसएल में अपना पहला मैच जीता।
+इंडियन सुपर लीग (आईएसएल) अपने पूरे होम-एंड-अवे प्रारूप में लौट आई है, और पहले ही वीकेंड में रोमांच की कमी नहीं रही। शनिवार को बेंगलुरु एफ़सी ने पिछड़ने के बाद स्पोर्टिंग क्लब दिल्ली को 3-2 से हराया, जिसमें डिफ़ेंडर मेनो कोख ने दोनों छोर पर गोल किया। रविवार को लीग में नई आई चर्चिल ब्रदर्स ने फ़ातोर्डा में मुंबई सिटी को 2-1 से हराकर आईएसएल में अपना पहला मैच जीता, और सोमवार रात नॉर्थईस्ट यूनाइटेड ने स्टॉपेज टाइम में मोहन बागान सुपर जायंट पर 1-0 की जीत छीन ली।
 
 ## बेंगलुरु में कोख की रात
 
@@ -108,13 +129,23 @@ verification:
 शनिवार रात फ़ातोर्डा में एफ़सी गोवा ने पिछड़ने के बाद चेन्नइयिन एफ़सी से 1-1 से ड्रॉ खेला। 64वें मिनट में इरफ़ान यादवाड ने चेन्नइयिन को बढ़त दिलाई, और 11 मिनट बाद चिकी ने उदांता सिंह पर हुए फ़ाउल से मिली फ़्री किक पर हेडर से बराबरी का गोल किया। उदांता का एक शॉट क्रॉसबार से भी टकराया।
 
 ```facts
-{"title":"आईएसएल 2026-27, पहला वीकेंड","items":[{"value":"3-2","label":"बेंगलुरु एफ़सी बनाम स्पोर्टिंग क्लब दिल्ली, 10 अक्टूबर","source":"आईएसएल"},{"value":"1-1","label":"एफ़सी गोवा बनाम चेन्नइयिन एफ़सी, 10 अक्टूबर","source":"आईएसएल"},{"value":"0-2","label":"इंटर काशी बनाम केरला ब्लास्टर्स, 11 अक्टूबर","source":"आईएसएल"},{"value":"2-1","label":"चर्चिल ब्रदर्स बनाम मुंबई सिटी, 11 अक्टूबर","source":"आईएसएल"}]}
+{"title":"आईएसएल 2026-27, पहला वीकेंड","items":[{"value":"3-2","label":"बेंगलुरु एफ़सी बनाम स्पोर्टिंग क्लब दिल्ली, 10 अक्टूबर","source":"आईएसएल"},{"value":"1-1","label":"एफ़सी गोवा बनाम चेन्नइयिन एफ़सी, 10 अक्टूबर","source":"आईएसएल"},{"value":"0-2","label":"इंटर काशी बनाम केरला ब्लास्टर्स, 11 अक्टूबर","source":"आईएसएल"},{"value":"2-1","label":"चर्चिल ब्रदर्स बनाम मुंबई सिटी, 11 अक्टूबर","source":"आईएसएल"},{"value":"1-0","label":"नॉर्थईस्ट यूनाइटेड बनाम मोहन बागान एसजी, 12 अक्टूबर","source":"आईएसएल"}]}
 ```
 
 ## फिर से पूरा सीज़न
 
 पिछला सीज़न फ़रवरी से मई तक चला था और उसमें हर टीम के सिर्फ़ 13 मैच हुए थे, प्लेऑफ़ भी नहीं थे। इस बार 13 क्लब एक-दूसरे से घर और बाहर दोनों जगह खेलेंगे, आईएसएल कप प्लेऑफ़ लौट आए हैं, और मई 2027 तक कुल 163 मैच होंगे।
 
+## गुवाहाटी में आख़िरी मिनटों का झटका
+
+सोमवार रात वीकेंड का समापन अब तक के सबसे बड़े उलटफेर से हुआ। गुवाहाटी के इंदिरा गांधी एथलेटिक स्टेडियम में नॉर्थईस्ट यूनाइटेड ने मोहन बागान सुपर जायंट को 1-0 से हराया, और यह गोल स्टॉपेज टाइम के दूसरे मिनट में आया। दूसरे हाफ़ की शुरुआत में मैदान पर उतरे जितिन एम.एस. ने नज़दीक से गोल कर मैच जिता दिया।
+
+मौके मोहन बागान को ज़्यादा मिले। नौवें मिनट में ली इरविन का हेडर गोलपोस्ट से टकराया, नॉर्थईस्ट के गोलकीपर गुरमीत सिंह ने कई अहम बचाव किए, और आख़िरी मिनटों में सब्स्टिट्यूट सुहैल भट का शॉट लिस्टन कोलासो के क्रॉस पर फ़्रेम से टकराया। मोहन बागान के मुख्य कोच पानोस दिलम्पेरिस ने अपनी निराशा नहीं छिपाई।
+
+> हम नतीजे से बहुत दुखी और निराश हैं। हम अपने प्रशंसकों से माफ़ी मांगते हैं, क्योंकि हम सीज़न की शुरुआत जीत से करना चाहते थे और हमें लगता है कि हम इसके हक़दार थे।
+>
+> स्रोत: पानोस दिलम्पेरिस, मोहन बागान सुपर जायंट के मुख्य कोच, 12 अक्टूबर 2026
+
 ## आगे क्या
 
-आज शाम 7:30 बजे गुवाहाटी में नॉर्थईस्ट यूनाइटेड का मुकाबला मोहन बागान सुपर जायंट से होगा। बुधवार को दिल्ली में पंजाब एफ़सी और ओडिशा एफ़सी आमने-सामने होंगे, और ईस्ट बंगाल 18 अक्टूबर को फ़ातोर्डा में चर्चिल ब्रदर्स के ख़िलाफ़ अपना सीज़न शुरू करेगी।
+बुधवार को दिल्ली में पंजाब एफ़सी और ओडिशा एफ़सी आमने-सामने होंगे, और ईस्ट बंगाल 18 अक्टूबर को फ़ातोर्डा में चर्चिल ब्रदर्स के ख़िलाफ़ अपना सीज़न शुरू करेगी।
