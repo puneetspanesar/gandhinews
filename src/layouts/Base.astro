@@ -37,12 +37,12 @@ const ogImage = abs('/og-default.png');
 const EN_TRY = ['CJP protest', 'Repo rate', 'SIR electoral rolls', 'GST Council', 'Labour codes'];
 const HI_TRY = ['सीजेपी प्रदर्शन', 'रेपो रेट', 'एसआईआर', 'जीएसटी परिषद', 'श्रम संहिताएं'];
 const nav = [
-  ...['politics', 'policy', 'economy', 'parliament', 'states', 'world'].map((k) => ({ key: k, label: S[k], href: `${p}/${k}/` })),
-  { key: 'fact-check', label: t.factCheck, href: `${p}/fact-check/` },
+  ...['politics', 'world', 'economy', 'science', 'sports', 'states', 'policy', 'parliament'].map((k) => ({ key: k, label: S[k], href: `${p}/${k}/` })),
 ];
 const more = [
   { key: 'explained', label: t.explained, href: `${p}/explained/` },
   { key: 'opinion', label: t.opinion, href: `${p}/opinion/` },
+  { key: 'fact-check', label: t.factCheck, href: `${p}/fact-check/` },
   { key: 'trackers', label: t.dataTrackers, href: `${p}/trackers/` },
   { key: 'topics', label: t.topics, href: `${p}/topics/` },
 ];
@@ -60,7 +60,7 @@ const trust = [
 const tabs = [
   { icon: 'house', label: t.tabHome, href: `${p}/`, on: path === `${p}/` },
   { icon: 'clock', label: t.tabLatest, href: `${p}/latest/`, on: path === `${p}/latest/` },
-  { icon: 'list-checks', label: t.tabTrackers, href: `${p}/trackers/`, on: path.startsWith(`${p}/trackers/`) },
+  { icon: 'trophy', label: S.sports, href: `${p}/sports/`, on: path.startsWith(`${p}/sports/`) },
   { icon: 'bookmark-simple', label: t.tabSaved, href: `${p}/saved/`, on: path === `${p}/saved/` },
   { icon: 'magnifying-glass', label: t.tabSearch, href: `${p}/search/`, on: path === `${p}/search/` },
 ];
@@ -212,8 +212,8 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
       </div>
       <div class="g">
         <div><a class="brand" href={`${p}/`}><Seal /><span class="wm" style="color:#fff">LokVox</span></a><p class="named">{t.named}</p></div>
-        <div><h2 class="fh">{t.sections}</h2><ul>{['politics', 'policy', 'economy', 'parliament', 'states', 'world'].map((k) => <li><a href={`${p}/${k}/`}>{S[k]}</a></li>)}</ul></div>
-        <div><h2 class="fh">{t.features}</h2><ul>{[...more, { key: 'fact-check', label: t.factCheck, href: `${p}/fact-check/` }].map((m) => <li><a href={m.href}>{m.label}</a></li>)}</ul></div>
+        <div><h2 class="fh">{t.sections}</h2><ul>{['politics', 'world', 'economy', 'science', 'sports', 'states', 'policy', 'parliament'].map((k) => <li><a href={`${p}/${k}/`}>{S[k]}</a></li>)}</ul></div>
+        <div><h2 class="fh">{t.features}</h2><ul>{more.map((m) => <li><a href={m.href}>{m.label}</a></li>)}</ul></div>
         <div><h2 class="fh">{t.trust}</h2><ul>{trust.map((x) => <li><a href={x.href}>{x.label}</a></li>)}</ul></div>
         <!-- TODO(launch): link WhatsApp, Instagram, YouTube and X once the accounts exist. WhatsApp points at the contact page placeholder for now. -->
         <div><h2 class="fh">{t.follow}</h2><ul><li><a href={`${p}/rss.xml`}>RSS</a></li><li><a href="https://wa.me/917760906195" rel="noopener" target="_blank">WhatsApp</a></li><li>Instagram</li><li>YouTube</li><li>X</li></ul></div>

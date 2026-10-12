@@ -70,7 +70,7 @@ export const UI = {
     newsletterText: 'The stories that matter, with one chart, every weekday morning.',
     email: 'Email address',
     signUp: 'Sign up',
-    named: 'Lok means people, vox means voice. Independent journalism on politics, policy and the economy, in English and Hindi.',
+    named: 'Lok means people, vox means voice. Independent news from India and the world, in English and Hindi.',
     sections: 'Sections',
     features: 'Features',
     trust: 'Trust',
@@ -175,7 +175,7 @@ export const UI = {
     newsletterText: 'हर कामकाजी दिन की सुबह ज़रूरी खबरें, एक चार्ट के साथ।',
     email: 'ईमेल पता',
     signUp: 'साइन अप करें',
-    named: 'लोक यानी जनता, वॉक्स यानी आवाज़। राजनीति, नीति और अर्थव्यवस्था पर स्वतंत्र पत्रकारिता, हिंदी और अंग्रेज़ी में।',
+    named: 'लोक यानी जनता, वॉक्स यानी आवाज़। भारत और दुनिया की स्वतंत्र खबरें, हिंदी और अंग्रेज़ी में।',
     sections: 'सेक्शन',
     features: 'फीचर',
     trust: 'भरोसा',
@@ -215,8 +215,8 @@ export const UI = {
 } as const;
 
 export const SECTION_NAMES: Record<Lang, Record<string, string>> = {
-  en: { politics: 'Politics', policy: 'Policy', economy: 'Economy', parliament: 'Parliament', states: 'States', world: 'World' },
-  hi: { politics: 'राजनीति', policy: 'नीति', economy: 'अर्थव्यवस्था', parliament: 'संसद', states: 'राज्य', world: 'दुनिया' },
+  en: { politics: 'Politics', policy: 'Policy', economy: 'Economy', parliament: 'Parliament', states: 'States', world: 'World', science: 'Science & Tech', sports: 'Sports' },
+  hi: { politics: 'राजनीति', policy: 'नीति', economy: 'अर्थव्यवस्था', parliament: 'संसद', states: 'राज्य', world: 'दुनिया', science: 'विज्ञान-तकनीक', sports: 'खेल' },
 };
 
 export const HUBS = {
@@ -234,7 +234,9 @@ export const SECTION_DESCRIPTIONS: Record<Lang, Record<string, string>> = {
     economy: 'Growth, prices, interest rates, the rupee and the public purse.',
     parliament: 'What Parliament debates, passes and leaves undone.',
     states: 'News from India’s states and Union Territories.',
-    world: 'India and the world: trade, diplomacy and migration.',
+    world: 'News from around the world, and what it means for India.',
+    science: 'Space, science, health, technology and AI.',
+    sports: 'Cricket, football, Formula 1 and the rest of the sporting world.',
     explained: 'Plain answers to the questions behind the news.',
     'fact-check': 'Viral claims checked against the record, with the evidence.',
     opinion: 'The editorial desk’s view, argued from the reporting.',
@@ -247,7 +249,9 @@ export const SECTION_DESCRIPTIONS: Record<Lang, Record<string, string>> = {
     economy: 'विकास, महंगाई, ब्याज दरें, रुपया और सरकारी खजाना।',
     parliament: 'संसद में क्या बहस हुई, क्या पास हुआ और क्या अटका।',
     states: 'राज्यों और केंद्रशासित प्रदेशों की खबरें।',
-    world: 'भारत और दुनिया: व्यापार, कूटनीति और प्रवासन।',
+    world: 'दुनिया भर की खबरें, और भारत के लिए उनके मायने।',
+    science: 'अंतरिक्ष, विज्ञान, सेहत, तकनीक और एआई।',
+    sports: 'क्रिकेट, फ़ुटबॉल, फ़ॉर्मूला 1 और खेल की दुनिया।',
     explained: 'खबरों के पीछे के सवालों के सीधे जवाब।',
     'fact-check': 'वायरल दावों की रिकॉर्ड से जांच, सबूत के साथ।',
     opinion: 'रिपोर्टिंग पर आधारित संपादकीय डेस्क का मत।',

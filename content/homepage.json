@@ -424,16 +424,6 @@
       ]
     },
     {
-      "section": "policy",
-      "lead": "cabinet-approves-integrated-transport-logistics-authority",
-      "list": [
-        "sebi-new-settlement-rules-fast-track-up-to-10-lakh",
-        "draft-steel-policy-targets-604-mt-capacity-by-2047",
-        "rabi-msp-wheat-up-rs-25-per-quintal",
-        "labour-codes-centre-wants-state-rules-by-october-31"
-      ]
-    },
-    {
       "section": "economy",
       "lead": "tcs-q2-profit-ai-revenue-crosses-3-billion",
       "module": {
@@ -451,17 +441,6 @@
       ]
     },
     {
-      "section": "parliament",
-      "module": {
-        "type": "session",
-        "session": "monsoon-2026"
-      },
-      "list": [
-        "speaker-gives-rebel-tmc-mps-till-october-20",
-        "fcra-explained-2026-amendment-bill"
-      ]
-    },
-    {
       "section": "states",
       "lead": "madhya-pradesh-high-court-strikes-down-27-obc-quota",
       "list": [
@@ -471,12 +450,51 @@
       ]
     },
     {
-      "section": "world",
-      "lead": "two-indian-seafarers-missing-after-tanker-attacks-off-oman",
+      "section": "policy",
+      "lead": "cabinet-approves-integrated-transport-logistics-authority",
       "list": [
-        "india-condemns-houthi-attacks-saudi-airports-riyadh",
-        "mea-rejects-un-rights-office-remarks-delhi-protest-detentions",
-        "india-us-trade-talks-plateau-russia-oil-tariff-law"
+        "sebi-new-settlement-rules-fast-track-up-to-10-lakh",
+        "draft-steel-policy-targets-604-mt-capacity-by-2047",
+        "rabi-msp-wheat-up-rs-25-per-quintal",
+        "labour-codes-centre-wants-state-rules-by-october-31"
+      ]
+    },
+    {
+      "section": "parliament",
+      "module": {
+        "type": "session",
+        "session": "monsoon-2026"
+      },
+      "list": [
+        "speaker-gives-rebel-tmc-mps-till-october-20",
+        "fcra-explained-2026-amendment-bill"
+      ]
+    }
+  ],
+  "desks": [
+    {
+      "section": "world",
+      "lead": "trump-announces-russia-ukraine-energy-ceasefire",
+      "list": [
+        "iran-calls-us-hormuz-response-insufficient",
+        "pakistan-imposes-emergency-rule-khyber-pakhtunkhwa",
+        "two-indian-seafarers-missing-after-tanker-attacks-off-oman"
+      ]
+    },
+    {
+      "section": "science",
+      "lead": "openai-brings-gpt-6-to-all-chatgpt-users",
+      "list": [
+        "starlink-waits-on-security-clearance-as-musk-row-escalates",
+        "francis-halzen-wins-physics-nobel-for-icecube-neutrinos"
+      ]
+    },
+    {
+      "section": "sports",
+      "lead": "india-beat-west-indies-by-14-runs-in-indore-t20i",
+      "list": [
+        "verstappen-wins-singapore-grand-prix-antonelli-nears-title",
+        "isl-returns-bengaluru-comeback-churchill-brothers-win-on-debut"
       ]
     }
   ]

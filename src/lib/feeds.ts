@@ -3,7 +3,7 @@ import { content, urlOf, SITE_URL, prefix } from './site';
 import { UI, SECTION_NAMES, type Lang } from './i18n';
 
 /** Feed channels: the whole site, each news section and each format hub (for Google News sections). */
-export const FEED_KEYS = ['politics', 'policy', 'economy', 'parliament', 'states', 'world', 'explained', 'fact-check', 'opinion'] as const;
+export const FEED_KEYS = ['politics', 'world', 'economy', 'science', 'sports', 'states', 'policy', 'parliament', 'explained', 'fact-check', 'opinion'] as const;
 const FORMAT_TYPE: Record<string, string> = { explained: 'explainer', 'fact-check': 'factcheck', opinion: 'editorial' };
 
 function label(lang: Lang, key: string) {
@@ -22,8 +22,8 @@ export async function feed(lang: Lang, key?: string) {
   return rss({
     title: key ? `${label(lang, key)} | ${name}` : name,
     description: lang === 'hi'
-      ? 'राजनीति, नीति, अर्थव्यवस्था और संसद पर स्वतंत्र भारतीय पत्रकारिता।'
-      : 'Independent Indian journalism on politics, policy, the economy and Parliament.',
+      ? 'भारत और दुनिया की स्वतंत्र खबरें, हिंदी और अंग्रेज़ी में।'
+      : 'Independent news from India and the world, in English and Hindi.',
     site: `${SITE_URL}${prefix(lang)}/${key ? `${key}/` : ''}`,
     items: c.articles.filter(pick).slice(0, 50).map((e: any) => ({
       title: e.data.title,

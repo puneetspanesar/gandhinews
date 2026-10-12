@@ -183,7 +183,7 @@ const ICON_BY_TOPIC: Record<string, string> = {
   'budget-2026-27': 'wallet', 'rupee-forex': 'currency-inr', economy: 'chart-line', states: 'map-pin',
 };
 const ICON_BY_SECTION: Record<string, string> = {
-  politics: 'megaphone', policy: 'scroll', economy: 'chart-line', parliament: 'bank', states: 'map-pin', world: 'globe-hemisphere-east',
+  politics: 'megaphone', policy: 'scroll', economy: 'chart-line', parliament: 'bank', states: 'map-pin', world: 'globe-hemisphere-east', science: 'atom', sports: 'trophy',
 };
 export function iconFor(d: any): string {
   if (!d) return 'newspaper';

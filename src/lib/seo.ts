@@ -148,7 +148,7 @@ export function navLd(lang: Lang) {
   const t: any = UI[lang];
   const S = SECTION_NAMES[lang];
   const items = [
-    ...['politics', 'policy', 'economy', 'parliament', 'states', 'world'].map((k) => [S[k], `${p}/${k}/`]),
+    ...['politics', 'world', 'economy', 'science', 'sports', 'states', 'policy', 'parliament'].map((k) => [S[k], `${p}/${k}/`]),
     [t.factCheck, `${p}/fact-check/`],
     [t.explained, `${p}/explained/`],
     [t.opinion, `${p}/opinion/`],

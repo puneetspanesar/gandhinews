@@ -1018,5 +1018,113 @@
     "alt": "Container handling at JNPT port near Mumbai",
     "alt_hi": "मुंबई के पास जेएनपीटी बंदरगाह पर कंटेनरों की आवाजाही",
     "page": "https://commons.wikimedia.org/wiki/File:JNPT_Port_container_handling.jpg"
+  },
+  "trump-announces-russia-ukraine-energy-ceasefire": {
+    "id": "trump-zelenskyy",
+    "src": "/photos/trump-zelenskyy-1280.jpg",
+    "src800": "/photos/trump-zelenskyy-640.jpg",
+    "width": 1280,
+    "height": 720,
+    "credit": "Photo: The White House / Wikimedia Commons",
+    "licence": "Public domain",
+    "alt": "Donald Trump and Volodymyr Zelenskyy in the Oval Office in February 2025 (file photo)",
+    "alt_hi": "फ़रवरी 2025 में ओवल ऑफ़िस में डोनाल्ड ट्रंप और वोलोदिमिर ज़ेलेंस्की (फ़ाइल फ़ोटो)",
+    "page": "https://commons.wikimedia.org/wiki/File:President_Trump_Clashes_With_Ukrainian_President_Zelenskyy_During_Meeting_in_Oval_Office,_Feb._28,_2025.jpg"
+  },
+  "iran-calls-us-hormuz-response-insufficient": {
+    "id": "mohsen-rezaei",
+    "src": "/photos/mohsen-rezaei-1280.jpg",
+    "src800": "/photos/mohsen-rezaei-640.jpg",
+    "width": 1280,
+    "height": 960,
+    "credit": "Photo: khamenei.ir / Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "alt": "Mohsen Rezaei, pictured in 2020",
+    "alt_hi": "मोहसिन रेज़ाई, 2020 की तस्वीर",
+    "page": "https://commons.wikimedia.org/wiki/File:Mohsen_Rezaee_in_2020.jpg"
+  },
+  "pakistan-imposes-emergency-rule-khyber-pakhtunkhwa": {
+    "id": "kp-assembly",
+    "src": "/photos/kp-assembly-1280.jpg",
+    "src800": "/photos/kp-assembly-640.jpg",
+    "width": 1280,
+    "height": 960,
+    "credit": "Photo: Wikimedia Commons",
+    "licence": "Public domain",
+    "alt": "The Khyber Pakhtunkhwa Provincial Assembly chamber in Peshawar",
+    "alt_hi": "पेशावर में ख़ैबर पख़्तूनख़्वा प्रांतीय असेंबली का सदन",
+    "page": "https://commons.wikimedia.org/wiki/File:KPK_Assembly_House.jpg"
+  },
+  "openai-brings-gpt-6-to-all-chatgpt-users": {
+    "id": "chatgpt-phone",
+    "src": "/photos/chatgpt-phone-1280.jpg",
+    "src800": "/photos/chatgpt-phone-640.jpg",
+    "width": 1280,
+    "height": 796,
+    "credit": "Photo: Jernej Furman / Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "alt": "A smartphone showing the ChatGPT app",
+    "alt_hi": "स्मार्टफ़ोन पर चैटजीपीटी ऐप",
+    "page": "https://commons.wikimedia.org/wiki/File:Smartphone_with_ChatGPT_app_(52917381673).jpg"
+  },
+  "starlink-waits-on-security-clearance-as-musk-row-escalates": {
+    "id": "starlink-dish",
+    "src": "/photos/starlink-dish-1280.jpg",
+    "src800": "/photos/starlink-dish-640.jpg",
+    "width": 1280,
+    "height": 720,
+    "credit": "Photo: Ka23 13 / Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "alt": "Starlink satellite dishes",
+    "alt_hi": "स्टारलिंक के सैटेलाइट डिश",
+    "page": "https://commons.wikimedia.org/wiki/File:Starlink_Dish_20250111_101122.jpg"
+  },
+  "francis-halzen-wins-physics-nobel-for-icecube-neutrinos": {
+    "id": "icecube-lab",
+    "src": "/photos/icecube-lab-1280.jpg",
+    "src800": "/photos/icecube-lab-640.jpg",
+    "width": 1280,
+    "height": 875,
+    "credit": "Photo: Christopher Michel / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "The IceCube Neutrino Observatory at the South Pole",
+    "alt_hi": "दक्षिणी ध्रुव पर आइसक्यूब न्यूट्रिनो वेधशाला",
+    "page": "https://commons.wikimedia.org/wiki/File:IceCube_Neutrino_Observatory_in_2023_02.jpg"
+  },
+  "india-beat-west-indies-by-14-runs-in-indore-t20i": {
+    "id": "arshdeep-singh",
+    "src": "/photos/arshdeep-singh-1280.jpg",
+    "src800": "/photos/arshdeep-singh-640.jpg",
+    "width": 1280,
+    "height": 960,
+    "credit": "Photo: Storm machine / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Arshdeep Singh playing for India (file photo)",
+    "alt_hi": "भारत के लिए खेलते अर्शदीप सिंह (फ़ाइल फ़ोटो)",
+    "page": "https://commons.wikimedia.org/wiki/File:Arshdeep_Singh_2022.jpg"
+  },
+  "verstappen-wins-singapore-grand-prix-antonelli-nears-title": {
+    "id": "verstappen-singapore",
+    "src": "/photos/verstappen-singapore-1280.jpg",
+    "src800": "/photos/verstappen-singapore-640.jpg",
+    "width": 1280,
+    "height": 720,
+    "credit": "Photo: Liauzh / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Max Verstappen at the Marina Bay circuit in Singapore in 2025 (file photo)",
+    "alt_hi": "2025 में सिंगापुर के मरीना बे सर्किट पर मैक्स फ़र्स्टापेन (फ़ाइल फ़ोटो)",
+    "page": "https://commons.wikimedia.org/wiki/File:2025_Singapore_GP_-_Red_Bull_-_Max_Verstappen_-_FP1.jpg"
+  },
+  "isl-returns-bengaluru-comeback-churchill-brothers-win-on-debut": {
+    "id": "bfc-fans",
+    "src": "/photos/bfc-fans-1280.jpg",
+    "src800": "/photos/bfc-fans-640.jpg",
+    "width": 1280,
+    "height": 1025,
+    "credit": "Photo: Coderzombie / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Bengaluru FC fans at the Sree Kanteerava Stadium (file photo)",
+    "alt_hi": "श्री कांतीरवा स्टेडियम में बेंगलुरु एफ़सी के प्रशंसक (फ़ाइल फ़ोटो)",
+    "page": "https://commons.wikimedia.org/wiki/File:Bengaluru_FC_vs_Shillong_Lajong,_7_January_2017.jpg"
   }
 }

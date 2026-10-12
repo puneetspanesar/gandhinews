@@ -15,7 +15,7 @@ const links = [
 ];
 const title = kind === 'home' ? t.siteName : kind === 'search' ? t.search : t.savedPage;
 const desc = kind === 'home'
-  ? (lang === 'hi' ? 'लोकवॉक्स (लोक वॉक्स): राजनीति, नीति, अर्थव्यवस्था और संसद पर स्वतंत्र भारतीय पत्रकारिता, अंग्रेज़ी और हिंदी में।' : 'LokVox (Lok Vox): independent Indian journalism on politics, policy, the economy and Parliament, in English and Hindi.')
+  ? (lang === 'hi' ? 'लोकवॉक्स (लोक वॉक्स): भारत और दुनिया की स्वतंत्र खबरें: राजनीति, अर्थव्यवस्था, विज्ञान-तकनीक और खेल, हिंदी और अंग्रेज़ी में।' : 'LokVox (Lok Vox): independent news from India and the world: politics, economy, science and tech, and sports, in English and Hindi.')
   : kind === 'search' ? t.placeholderSearch : t.savedPage;
 const crumbs = kind === 'home' ? [] : [{ name: t.home, href: `${p}/` }, { name: title, href: route }];
 ---

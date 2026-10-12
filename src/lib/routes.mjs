@@ -7,7 +7,7 @@ import path from 'node:path';
 export const ROOT = process.cwd();
 export const CONTENT = path.join(ROOT, 'content');
 export const LANGS = ['en', 'hi'];
-export const SECTIONS = ['politics', 'policy', 'economy', 'parliament', 'states', 'world'];
+export const SECTIONS = ['politics', 'world', 'economy', 'science', 'sports', 'states', 'policy', 'parliament'];
 export const ARTICLE_TYPES = ['news', 'explainer', 'factcheck', 'editorial'];
 
 /** Path prefix for a language: '' for English, '/hi' for Hindi. */

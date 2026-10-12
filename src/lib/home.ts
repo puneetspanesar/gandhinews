@@ -456,7 +456,10 @@ export async function homeModel(lang: Lang) {
     return out;
   });
 
-  return { lead, briefing, numbers, dashHref, big, bigAlso, top, start, trackers, billsCard, econCard, elCard, budgetCard, scCard, mapModel, parl, fcCards, fcStats, explained, opinion, sections };
+  // ---- Desks: world, science and tech, sports
+  const desks = (HOME.desks ?? []).map((s: any) => ({ key: s.section, lead: card(s.lead), list: (s.list ?? []).map(card) }));
+
+  return { desks, lead, briefing, numbers, dashHref, big, bigAlso, top, start, trackers, billsCard, econCard, elCard, budgetCard, scCard, mapModel, parl, fcCards, fcStats, explained, opinion, sections };
 }
 
 export { esc };
