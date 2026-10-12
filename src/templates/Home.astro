@@ -175,5 +175,136 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
     </section>
 
   </div>
+
+  <!-- TRACKERS BAND -->
+  <section class="band blk" aria-labelledby="trk-h">
+    <div class="w">
+      <div class="sh"><h2 id="trk-h">{h.trackers}</h2><span class="x">{h.trackersX}</span><a href={`${p}/trackers/`}>{h.allTrackers} <Icon name="caret-right" /></a></div>
+      <div class="trk">
+        {m.trackers.map((x: any) => (
+          <a class="tc" href={x.href}>
+            {x.id === 'bills-in-parliament-tracker' && <>
+              <span class="ti"><Icon name="scroll" />{x.area}</span><h3>{x.short}</h3>
+              <div class="bg"><b class="num">{m.billsCard.big}</b>{h.trk.billsBig}</div>
+              <div class="tr">{m.billsCard.rows.map((r: any) => <div class="r"><span>{r.l}</span><span class="num">{r.n}</span><span class="b"><i class={r.rd ? 'rd' : undefined} style={`width:${r.w}`}></i></span></div>)}</div>
+              {m.billsCard.winter.length > 0 && <div class="tl"><h4>{h.trk.winter}</h4>{m.billsCard.winter.map((w: string) => <div><span>{w}</span></div>)}</div>}
+            </>}
+            {x.id === 'economy-dashboard' && <>
+              <span class="ti"><Icon name="chart-line" />{x.area}</span><h3>{x.short}</h3>
+              <div class="bg"><b class="num">{m.econCard.big}</b>{m.econCard.bigLabel}</div>
+              <div class="sp"><Fragment set:html={m.econCard.spark} /><div class="sx"><span>{m.econCard.x0}</span><span>{m.econCard.x1}</span></div></div>
+              <div class="tl">{m.econCard.rows.map((r: any) => <div><span>{r.l}, {r.p}</span><b class="num">{r.v}</b></div>)}</div>
+            </>}
+            {x.id === 'election-calendar' && <>
+              <span class="ti"><Icon name="calendar-blank" />{x.area}</span><h3>{x.short}</h3>
+              <div class="bg"><b class="num">{m.elCard.big}</b>{h.trk.pollsBig}</div>
+              <div class="tr">{m.elCard.rows.map((r: any) => <div class="r"><span>{r.l}</span><span class="num">{r.n}</span><span class="b"><i class={r.rd ? 'rd' : undefined} style={`width:${r.w}`}></i></span></div>)}</div>
+              <div class="tl"><h4>{h.trk.next}</h4>{m.elCard.next.map((r: any) => <div><span>{r.l}</span><b>{r.v}</b></div>)}</div>
+            </>}
+            {x.id === 'budget-2026-27-promise-tracker' && <>
+              <span class="ti"><Icon name="list-checks" />{x.area}</span><h3>{x.short}</h3>
+              <div class="bg"><b class="num">{m.budgetCard.big}</b>{h.trk.promisesBig}</div>
+              <div class="stk">{m.budgetCard.stat.map((s: any) => <i style={`flex:${s.n};background:${s.c}`}></i>)}</div>
+              <div class="sk">{m.budgetCard.stat.map((s: any) => <span><i style={`background:${s.c}`}></i><b class="num">{s.n}</b>{s.l}</span>)}</div>
+              <div class="tl"><h4>{h.trk.byArea}</h4>{m.budgetCard.areas.map((r: any) => <div><span>{r.l}</span><b class="num">{r.n}</b></div>)}</div>
+            </>}
+            {x.id === 'sc-cases-tracker' && <>
+              <span class="ti"><Icon name="gavel" />{x.area}</span><h3>{x.short}</h3>
+              <div class="bg"><b class="num">{m.scCard.big}</b>{h.trk.casesBig}</div>
+              <div class="tr">{m.scCard.rows.map((r: any) => <div class="r"><span>{r.l}</span><span class="num">{r.n}</span><span class="b"><i class={r.rd ? 'rd' : r.gr ? 'gr' : undefined} style={`width:${r.w}`}></i></span></div>)}</div>
+              {m.scCard.reserved.length > 0 && <div class="tl"><h4>{h.trk.reservedOn}</h4>{m.scCard.reserved.map((r: any) => <div><span>{r.l}</span><b>{r.v}</b></div>)}</div>}
+            </>}
+            <p class="l">{x.line}</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <div class="w">
+    <!-- DATA DESK + PARLIAMENT -->
+    <section class="sec" aria-labelledby="dd-h">
+      <div class="mapw">
+        <div>
+          <div class="sh"><h2 id="dd-h">{h.dataDesk}</h2><a href={m.mapModel.href}>{h.moreCharts} <Icon name="caret-right" /></a></div>
+          <div class="mapc">
+            <div>
+              <svg class="map" viewBox="0 0 612 696" role="img" aria-labelledby="map-h">
+                {m.mapModel.paths.map((x: any) => <use href={`/maps/india.svg#${x.id}`} fill={x.fill} stroke="#fff" stroke-width="0.8" />)}
+              </svg>
+              <p class="m">{h.mapSource(m.mapModel.asOf)}</p>
+            </div>
+            <div>
+              <a class="k" href={m.mapModel.topicHref}>{m.mapModel.kicker}</a>
+              <h3 id="map-h">{m.mapModel.title}</h3>
+              <p class="d">{m.mapModel.text}</p>
+              <div class="leg"><span><i style="background:#cc0000"></i>{h.early}</span><span><i style="background:#0d0d0d"></i>{h.late}</span><span><i style="background:#e2e2e2"></i>{h.others}</span></div>
+              <div class="el"><h4><span>{h.state}</span><span>{h.termEnds}</span></h4>
+                {m.mapModel.states.map((s: any) => <div class="r"><i style={`background:${s.early ? '#cc0000' : '#0d0d0d'}`}></i><span>{s.name}</span><span class="num">{s.when}</span></div>)}
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="pt">
+          <h3><a href={m.parl.href}>{h.parl}</a> <span>{m.parl.name}</span></h3>
+          <div class="hsum"><div><b class="num">{m.parl.sittings}</b>{h.sittings}</div><div><b class="num">{m.parl.prod}</b>{h.lsProd}</div><div><b class="num">{m.parl.passed}</b>{h.billsPassed}</div></div>
+          <table class="hpm">
+            <thead><tr><th scope="col">{h.bill}</th>{h.cols.map((c: string) => <th scope="col">{c}</th>)}</tr></thead>
+            <tbody>
+              {m.parl.bills.map((b: any) => (
+                <tr><td><a href={b.href}>{b.name}</a><span>{b.note}</span></td>{b.cells.map((cl: string, i: number) => <td data-l={h.cols[i]}><i class={cl} role="img" aria-label={cl === 'y' ? h.done : cl === 'c' ? h.cur : cl === 's' ? h.skip : h.not}></i></td>)}</tr>
+              ))}
+            </tbody>
+          </table>
+          <div class="hpk"><span><i class="y"></i>{h.done}</span><span><i class="c"></i>{h.cur}</span><span><i class="n"></i>{h.not}</span><span><i class="s"></i>{h.skip}</span><span class="srcr">{h.prs}</span></div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <!-- FACT CHECK BAND -->
+  <section class="band red" aria-labelledby="fc-h">
+    <div class="w">
+      <div class="sh"><h2 id="fc-h">{h.fc}</h2><span class="x">{h.fcX}</span><a href={`${p}/fact-check/`}>{h.allFc} <Icon name="caret-right" /></a></div>
+      <div class="fcg">
+        {m.fcCards.map((x: any) => (
+          <a class="fcc" href={x.href}>
+            <span class={`vd v-${x.vk}`}>{x.verdict}</span>
+            <h3>{x.claim}</h3>
+            <p class="who">{x.who}</p>
+            <p class="wf"><b>{h.whatWeFound}</b> {x.found}</p>
+            <p class="src">{x.src}</p>
+          </a>
+        ))}
+        <div class="ask">
+          <h3>{h.ask}</h3>
+          <ol class="hw">{h.steps.map((s: string) => <li>{s}</li>)}</ol>
+          <div class="rsc"><h4>{h.howRate}</h4>
+            {(['true', 'mostly', 'misleading', 'false'] as const).map((v) => <p><b>{t.verdicts[v]}</b>{t.rate[v]}</p>)}
+            <a href={`${p}/fact-check/methodology/`}>{h.method}</a>
+          </div>
+          <!-- TODO(launch): point this at the WhatsApp tip line (wa.me/<number>) once the number exists. Until then it opens the contact page, which shows the placeholder. -->
+          <a class="btn" href="https://wa.me/917760906195" rel="noopener" target="_blank"><Icon name="whatsapp-logo" />{h.wa}</a>
+        </div>
+      </div>
+      <div class="fcstat"><span><b class="num">{m.fcStats.total}</b>{h.checked}</span>{m.fcStats.counts.map((c: any) => <span><b class="num">{c.n}</b>{lang === 'en' ? t.verdicts[c.v as 'true'].toLowerCase() : t.verdicts[c.v as 'true']}</span>)}</div>
+    </div>
+  </section>
+
+  <div class="w">
+    <!-- STANDARDS -->
+    <section class="std2" aria-label={t.trust}>
+      <div class="cor">
+        <span class="k">{h.corrections}</span>
+        {latestCorrection
+          ? <p>{latestCorrection.summary?.[lang] ?? latestCorrection.summary}</p>
+          : <p>{h.correctionsNone}</p>}
+        <a href={`${p}/corrections/`}>{h.correctionsLog} <Icon name="caret-right" /></a>
+      </div>
+      <div class="prs">
+        {h.pillars.map((x: any) => <a class="pr" href={`${p}${x.href}`}><Icon name={x.icon} /><span><b>{x.b}</b><p>{x.p}</p></span></a>)}
+      </div>
+    </section>
+  </div>
 </div>
 </Base>
