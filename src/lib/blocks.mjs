@@ -198,7 +198,7 @@ export function renderInfographic(d, lang = 'en', iconSvg) {
   const n = d.items.length;
   const cols = n === 4 ? 2 : n <= 3 ? n : 3;
   const items = d.items
-    .map((it) => `<li><span class="ic" aria-hidden="true">${iconSvg(it.icon)}</span><b>${esc(it.title)}</b>${it.text ? `<span>${esc(it.text)}</span>` : ''}</li>`)
+    .map((it) => `<li><span class="ic" aria-hidden="true">${iconSvg(it.icon)}</span><b>${it.value ? `<span class="v">${esc(it.value)}</span> ${esc(it.label || '')}` : esc(it.title)}</b>${it.text ? `<span>${esc(it.text)}</span>` : ''}</li>`)
     .join('');
   return `<section class="igx" aria-label="${esc(d.title || '')}">${d.title ? `<p class="ft">${esc(d.title)}</p>` : ''}<ul class="c${cols}">${items}</ul></section>`;
 }

@@ -167,6 +167,13 @@ const ICON_BY_ID: Record<string, string> = {
   'bypoll-results-ruling-parties-win-all-six-seats': 'check-square',
   'rahul-gandhi-lunches-with-vijay-day-before-modi-visit': 'handshake',
   'gdp-grows-7-8-in-april-june-quarter': 'chart-line',
+  'india-bloc-march-to-supreme-court-after-cji-declines-meeting': 'megaphone',
+  'two-indian-seafarers-missing-after-tanker-attacks-off-oman': 'boat',
+  'tcs-q2-profit-ai-revenue-crosses-3-billion': 'cpu',
+  'cabinet-approves-integrated-transport-logistics-authority': 'truck',
+  'sebi-new-settlement-rules-fast-track-up-to-10-lakh': 'scales',
+  'speaker-gives-rebel-tmc-mps-till-october-20': 'user-switch',
+  'madhya-pradesh-high-court-strikes-down-27-obc-quota': 'gavel',
 };
 const ICON_BY_TOPIC: Record<string, string> = {
   'rbi-interest-rates': 'percent', inflation: 'shopping-cart', gst: 'receipt', 'labour-codes': 'hard-hat',

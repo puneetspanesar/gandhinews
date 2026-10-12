@@ -934,5 +934,89 @@
     "alt": "Rahul Gandhi speaking at an event in Karnataka (file photo)",
     "alt_hi": "कर्नाटक में एक कार्यक्रम में बोलते राहुल गांधी (फाइल फोटो)",
     "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi_speaking.jpg"
+  },
+  "two-indian-seafarers-missing-after-tanker-attacks-off-oman": {
+    "id": "tanker-fire",
+    "src": "/photos/tanker-fire-1280.jpg",
+    "src800": "/photos/tanker-fire-640.jpg",
+    "width": 1280,
+    "height": 850,
+    "credit": "Photo: US Navy / Wikimedia Commons",
+    "licence": "Public domain",
+    "alt": "File photo: a crude oil tanker on fire at sea (2004)",
+    "alt_hi": "फ़ाइल फ़ोटो: समुद्र में आग की चपेट में एक कच्चे तेल का टैंकर (2004)",
+    "page": "https://commons.wikimedia.org/wiki/File:Burning_MV_EVERTON_in_2004.JPEG"
+  },
+  "tcs-q2-profit-ai-revenue-crosses-3-billion": {
+    "id": "tcs-sipcot",
+    "src": "/photos/tcs-sipcot-1280.jpg",
+    "src800": "/photos/tcs-sipcot-640.jpg",
+    "width": 1280,
+    "height": 762,
+    "credit": "Photo: Naveen.kumar.kotta / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "A Tata Consultancy Services office building at SIPCOT, Chennai",
+    "alt_hi": "चेन्नई के सिपकॉट में टाटा कंसल्टेंसी सर्विसेज़ का एक दफ़्तर",
+    "page": "https://commons.wikimedia.org/wiki/File:TCS_SIPCOT_Building.jpg"
+  },
+  "sebi-new-settlement-rules-fast-track-up-to-10-lakh": {
+    "id": "sebi-bhavan",
+    "src": "/photos/sebi-bhavan-1280.jpg",
+    "src800": "/photos/sebi-bhavan-640.jpg",
+    "width": 1280,
+    "height": 960,
+    "credit": "Photo: Jimmy vikas / Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "alt": "SEBI Bhavan, the headquarters of the Securities and Exchange Board of India in Mumbai",
+    "alt_hi": "मुंबई में भारतीय प्रतिभूति और विनिमय बोर्ड (सेबी) का मुख्यालय, सेबी भवन",
+    "page": "https://commons.wikimedia.org/wiki/File:SEBI_Bhavan.jpg"
+  },
+  "madhya-pradesh-high-court-strikes-down-27-obc-quota": {
+    "id": "mp-high-court",
+    "src": "/photos/mp-high-court-1280.jpg",
+    "src800": "/photos/mp-high-court-640.jpg",
+    "width": 1280,
+    "height": 853,
+    "credit": "Photo: Gyanendra Singh Chauhan / Wikimedia Commons",
+    "licence": "CC BY 3.0",
+    "alt": "The Madhya Pradesh High Court building in Jabalpur",
+    "alt_hi": "जबलपुर में मध्य प्रदेश हाई कोर्ट की इमारत",
+    "page": "https://commons.wikimedia.org/wiki/File:MP_HIGH_COURT_JABALPUR_-_panoramio_-_Gyanendra_Singh_Chau%E2%80%A6.jpg"
+  },
+  "speaker-gives-rebel-tmc-mps-till-october-20": {
+    "id": "om-birla",
+    "src": "/photos/om-birla-1280.jpg",
+    "src800": "/photos/om-birla-640.jpg",
+    "width": 1280,
+    "height": 1068,
+    "credit": "Photo: IAEA Imagebank / Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "alt": "Lok Sabha Speaker Om Birla",
+    "alt_hi": "लोकसभा अध्यक्ष ओम बिरला",
+    "page": "https://commons.wikimedia.org/wiki/File:Om_Birla_(2021)_(cropped).jpg"
+  },
+  "india-bloc-march-to-supreme-court-after-cji-declines-meeting": {
+    "id": "cp-b-block",
+    "src": "/photos/cp-b-block-1280.jpg",
+    "src800": "/photos/cp-b-block-640.jpg",
+    "width": 1280,
+    "height": 853,
+    "credit": "Photo: Slyronit / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Connaught Place in central New Delhi, where the INDIA bloc's march is due to begin",
+    "alt_hi": "मध्य दिल्ली का कनॉट प्लेस, जहां से इंडिया गठबंधन का मार्च शुरू होना है",
+    "page": "https://commons.wikimedia.org/wiki/File:Connaught_Place,_B_Block_at_night,_Delhi.jpg"
+  },
+  "cabinet-approves-integrated-transport-logistics-authority": {
+    "id": "jnpt",
+    "src": "/photos/jnpt-1280.jpg",
+    "src800": "/photos/jnpt-640.jpg",
+    "width": 1280,
+    "height": 720,
+    "credit": "Photo: Ccmarathe / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Container handling at JNPT port near Mumbai",
+    "alt_hi": "मुंबई के पास जेएनपीटी बंदरगाह पर कंटेनरों की आवाजाही",
+    "page": "https://commons.wikimedia.org/wiki/File:JNPT_Port_container_handling.jpg"
   }
 }

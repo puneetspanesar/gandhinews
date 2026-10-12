@@ -1,15 +1,15 @@
 {
   "lead": {
-    "id": "protest-is-not-a-threat-to-public-order",
+    "id": "india-bloc-march-to-supreme-court-after-cji-declines-meeting",
     "chart": 1,
     "overlay": {
       "kicker": {
-        "en": "Our view",
-        "hi": "हमारा मत"
+        "en": "Today, 1:30 pm",
+        "hi": "आज, दोपहर 1:30 बजे"
       },
       "value": {
-        "en": "Answer the question, not the crowd",
-        "hi": "भीड़ का नहीं, सवाल का जवाब दीजिए"
+        "en": "CJI says no to meeting; march goes ahead",
+        "hi": "सीजेआई का मिलने से इनकार, फिर भी मार्च"
       },
       "text": {
         "en": "",
@@ -18,39 +18,39 @@
     },
     "dataBox": [
       {
-        "icon": "users-three",
+        "icon": "map-pin",
         "color": "#cc0000",
         "value": {
-          "en": "2,000",
-          "hi": "2,000"
+          "en": "1:30 pm",
+          "hi": "1:30 बजे"
         },
         "label": {
-          "en": "detained, Home Ministry estimate",
-          "hi": "हिरासत में, गृह मंत्रालय का अनुमान"
+          "en": "assembly at Connaught Place",
+          "hi": "कनॉट प्लेस में जुटान"
         }
       },
       {
-        "icon": "map-pin",
+        "icon": "scales",
         "color": "#8f0000",
         "value": {
-          "en": "45 of 303",
-          "hi": "303 में 45"
+          "en": "4-5 pm",
+          "hi": "4-5 बजे"
         },
         "label": {
-          "en": "Metro stations restricted",
-          "hi": "मेट्रो स्टेशनों पर रोक"
+          "en": "meeting slot the CJI declined",
+          "hi": "मुलाकात का समय, जिससे सीजेआई ने इनकार किया"
         }
       },
       {
-        "icon": "wifi-high",
+        "icon": "megaphone",
         "color": "#0d0d0d",
         "value": {
-          "en": "4 km",
-          "hi": "4 किमी"
+          "en": "3",
+          "hi": "3"
         },
         "label": {
-          "en": "internet cut around Jantar Mantar",
-          "hi": "जंतर-मंतर के आसपास इंटरनेट बंद"
+          "en": "demands: CEC exit, SIR halt, paper ballots",
+          "hi": "मांगें: सीईसी का इस्तीफ़ा, एसआईआर पर रोक, बैलेट पेपर"
         }
       },
       {
@@ -61,87 +61,99 @@
           "hi": "13 अक्टूबर"
         },
         "label": {
-          "en": "next Supreme Court hearing",
-          "hi": "सुप्रीम कोर्ट में अगली सुनवाई"
+          "en": "Supreme Court hearing",
+          "hi": "सुप्रीम कोर्ट में सुनवाई"
         }
       }
     ],
     "relatedBelow": [
       "supreme-court-orders-metro-internet-restored-after-cjp-protest-detentions",
-      "what-is-the-cockroach-janta-party"
+      "protest-is-not-a-threat-to-public-order"
     ],
     "relatedBeside": [
-      "mea-rejects-un-rights-office-remarks-delhi-protest-detentions",
-      "modi-opens-chennai-metro-stretch-vijay-seeks-school-funds",
-      "rbi-raises-daily-crr-minimum-to-99-per-cent"
+      "madhya-pradesh-high-court-strikes-down-27-obc-quota",
+      "speaker-gives-rebel-tmc-mps-till-october-20",
+      "tcs-q2-profit-ai-revenue-crosses-3-billion",
+      "cabinet-approves-integrated-transport-logistics-authority"
     ]
   },
   "briefing": {
     "items": [
       {
-        "link": "supreme-court-orders-metro-internet-restored-after-cjp-protest-detentions",
+        "link": "india-bloc-march-to-supreme-court-after-cji-declines-meeting",
         "lead": {
-          "en": "CJP protest:",
-          "hi": "सीजेपी प्रदर्शन:"
+          "en": "INDIA bloc:",
+          "hi": "इंडिया गठबंधन:"
         },
         "text": {
-          "en": "leaders Dipke, Das and Ranka were released on bonds after thousands were detained in Delhi.",
-          "hi": "दिल्ली में हज़ारों लोगों को हिरासत में लिए जाने के बाद नेता दिपके, दास और रांका बॉन्ड पर रिहा।"
+          "en": "leaders march from Connaught Place to the Supreme Court at 1:30 pm after the CJI declined to meet them.",
+          "hi": "सीजेआई के मिलने से इनकार के बाद नेता दोपहर 1:30 बजे कनॉट प्लेस से सुप्रीम कोर्ट तक मार्च करेंगे।"
         }
       },
       {
-        "link": "modi-opens-chennai-metro-stretch-vijay-seeks-school-funds",
+        "link": "two-indian-seafarers-missing-after-tanker-attacks-off-oman",
         "lead": {
-          "en": "Chennai:",
-          "hi": "चेन्नई:"
+          "en": "Seafarers:",
+          "hi": "नाविक:"
         },
         "text": {
-          "en": "Modi opened a new Metro stretch with CM Vijay, who asked for ₹5,110 crore in school funds.",
-          "hi": "मोदी ने मुख्यमंत्री विजय के साथ मेट्रो का नया हिस्सा खोला; विजय ने स्कूलों के ₹5,110 करोड़ मांगे।"
+          "en": "two Indians are missing after a drone hit a tanker off Oman; India condemned the attacks.",
+          "hi": "ओमान के पास एक टैंकर पर ड्रोन हमले के बाद दो भारतीय लापता; भारत ने हमलों की निंदा की।"
         }
       },
       {
-        "link": "rbi-raises-daily-crr-minimum-to-99-per-cent",
+        "link": "madhya-pradesh-high-court-strikes-down-27-obc-quota",
         "lead": {
-          "en": "Banks:",
-          "hi": "बैंक:"
+          "en": "OBC quota:",
+          "hi": "ओबीसी आरक्षण:"
         },
         "text": {
-          "en": "the RBI raised the daily CRR minimum from 90% to 99% from 16 October.",
-          "hi": "आरबीआई ने रोज़ाना सीआरआर की न्यूनतम सीमा 16 अक्टूबर से 90% से बढ़ाकर 99% की।"
+          "en": "the MP High Court struck down 27% reservation and restored 14%.",
+          "hi": "मध्य प्रदेश हाई कोर्ट ने 27% आरक्षण रद्द कर 14% बहाल किया।"
         }
       },
       {
-        "link": "india-condemns-houthi-attacks-saudi-airports-riyadh",
+        "link": "speaker-gives-rebel-tmc-mps-till-october-20",
         "lead": {
-          "en": "West Asia:",
-          "hi": "पश्चिम एशिया:"
+          "en": "Lok Sabha:",
+          "hi": "लोकसभा:"
         },
         "text": {
-          "en": "India condemned attacks on Saudi airports; the embassy advised Indians to stay indoors as needed.",
-          "hi": "भारत ने सऊदी हवाई अड्डों पर हमलों की निंदा की; दूतावास ने भारतीयों को ज़रूरत हो तो घर में रहने की सलाह दी।"
+          "en": "the Speaker gave 20 rebel TMC MPs until 20 October to answer disqualification petitions.",
+          "hi": "अध्यक्ष ने 20 बागी टीएमसी सांसदों को अयोग्यता याचिकाओं पर जवाब के लिए 20 अक्टूबर तक का समय दिया।"
         }
       },
       {
-        "link": "rbi-raises-repo-rate-to-5-50",
+        "link": "tcs-q2-profit-ai-revenue-crosses-3-billion",
         "lead": {
-          "en": "RBI:",
-          "hi": "आरबीआई:"
+          "en": "TCS:",
+          "hi": "टीसीएस:"
         },
         "text": {
-          "en": "repo rate up 25 bps to 5.50%, the first hike since February 2023.",
-          "hi": "रेपो रेट 25 बेसिस पॉइंट बढ़कर 5.50%, फरवरी 2023 के बाद पहली बढ़ोतरी।"
+          "en": "quarterly profit rose 15% to ₹13,884 crore; HCLTech reports today.",
+          "hi": "तिमाही मुनाफ़ा 15% बढ़कर ₹13,884 करोड़; एचसीएलटेक के नतीजे आज।"
         }
       },
       {
-        "link": "sir-phase-three-draft-rolls-names-dropped-by-state",
+        "link": "cabinet-approves-integrated-transport-logistics-authority",
         "lead": {
-          "en": "SIR phase III:",
-          "hi": "एसआईआर का तीसरा चरण:"
+          "en": "Transport:",
+          "hi": "परिवहन:"
         },
         "text": {
-          "en": "draft rolls in 17 states and UTs left out more than 6.15 crore names.",
-          "hi": "17 राज्यों और केंद्रशासित प्रदेशों की मसौदा मतदाता सूचियों में 6.15 करोड़ से ज़्यादा नाम छूट गए।"
+          "en": "the Cabinet approved one authority to plan rail, road, ports and air together.",
+          "hi": "कैबिनेट ने रेल, सड़क, बंदरगाह और हवाई परिवहन की साझा योजना के लिए एक प्राधिकरण को मंज़ूरी दी।"
+        }
+      },
+      {
+        "link": "sebi-new-settlement-rules-fast-track-up-to-10-lakh",
+        "lead": {
+          "en": "SEBI:",
+          "hi": "सेबी:"
+        },
+        "text": {
+          "en": "new settlement rules add a fast track for cases of up to ₹10 lakh.",
+          "hi": "निपटान के नए नियमों में ₹10 लाख तक के मामलों के लिए फ़ास्ट ट्रैक।"
         }
       },
       {
@@ -151,8 +163,8 @@
           "hi": "महंगाई के आंकड़े:"
         },
         "text": {
-          "en": "September CPI figures on the new 2024-base series are due on 12 October.",
-          "hi": "2024 आधार वर्ष वाली नई सीरीज़ पर सितंबर के सीपीआई आंकड़े 12 अक्टूबर को आएंगे।"
+          "en": "September CPI figures on the new 2024-base series are due at 4 pm today.",
+          "hi": "2024 आधार वर्ष वाली नई सीरीज़ पर सितंबर के सीपीआई आंकड़े आज शाम 4 बजे आएंगे।"
         }
       }
     ]
@@ -220,18 +232,18 @@
   },
   "topStories": {
     "big": {
-      "id": "modi-opens-chennai-metro-stretch-vijay-seeks-school-funds",
+      "id": "two-indian-seafarers-missing-after-tanker-attacks-off-oman",
       "also": [
-        "rahul-gandhi-lunches-with-vijay-day-before-modi-visit",
-        "supreme-court-declines-plea-aiadmk-mlas-disqualification"
+        "india-condemns-houthi-attacks-saudi-airports-riyadh",
+        "rupee-near-97-as-crude-stays-above-100"
       ]
     },
     "list": [
-      "supreme-court-sir-cannot-delay-local-body-polls",
-      "rbi-raises-daily-crr-minimum-to-99-per-cent",
-      "india-condemns-houthi-attacks-saudi-airports-riyadh",
-      "draft-steel-policy-targets-604-mt-capacity-by-2047",
-      "sir-phase-three-draft-rolls-names-dropped-by-state"
+      "madhya-pradesh-high-court-strikes-down-27-obc-quota",
+      "speaker-gives-rebel-tmc-mps-till-october-20",
+      "sebi-new-settlement-rules-fast-track-up-to-10-lakh",
+      "cabinet-approves-integrated-transport-logistics-authority",
+      "supreme-court-orders-metro-internet-restored-after-cjp-protest-detentions"
     ]
   },
   "startHere": [
@@ -393,11 +405,11 @@
     }
   ],
   "opinion": [
+    "protest-is-not-a-threat-to-public-order",
     "rbi-right-to-move-fiscal-side-must-hold",
-    "parliament-that-sits-but-does-not-debate",
     "election-commission-should-publish-its-dissent",
-    "labour-codes-centre-states-owe-workers-deadline",
-    "publish-caste-census-in-full-on-time"
+    "parliament-that-sits-but-does-not-debate",
+    "labour-codes-centre-states-owe-workers-deadline"
   ],
   "sections": [
     {
@@ -407,23 +419,23 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "rahul-gandhi-lunches-with-vijay-day-before-modi-visit",
-        "election-commission-dissent-report-move-to-remove-cec"
+        "india-bloc-march-to-supreme-court-after-cji-declines-meeting",
+        "rahul-gandhi-lunches-with-vijay-day-before-modi-visit"
       ]
     },
     {
       "section": "policy",
-      "lead": "draft-steel-policy-targets-604-mt-capacity-by-2047",
+      "lead": "cabinet-approves-integrated-transport-logistics-authority",
       "list": [
+        "sebi-new-settlement-rules-fast-track-up-to-10-lakh",
+        "draft-steel-policy-targets-604-mt-capacity-by-2047",
         "rabi-msp-wheat-up-rs-25-per-quintal",
-        "labour-codes-centre-wants-state-rules-by-october-31",
-        "census-2027-caste-questions-poll-bound-states-advanced",
-        "dpdp-consent-managers-start-data-protection-board-empty"
+        "labour-codes-centre-wants-state-rules-by-october-31"
       ]
     },
     {
       "section": "economy",
-      "lead": "gdp-grows-7-8-in-april-june-quarter",
+      "lead": "tcs-q2-profit-ai-revenue-crosses-3-billion",
       "module": {
         "type": "markets",
         "indicators": [
@@ -435,7 +447,7 @@
       },
       "list": [
         "rbi-raises-daily-crr-minimum-to-99-per-cent",
-        "fiscal-deficit-reaches-41-9-of-target-by-august"
+        "gdp-grows-7-8-in-april-june-quarter"
       ]
     },
     {
@@ -445,26 +457,26 @@
         "session": "monsoon-2026"
       },
       "list": [
-        "supreme-court-sir-cannot-delay-local-body-polls",
+        "speaker-gives-rebel-tmc-mps-till-october-20",
         "fcra-explained-2026-amendment-bill"
       ]
     },
     {
       "section": "states",
-      "lead": "modi-opens-chennai-metro-stretch-vijay-seeks-school-funds",
+      "lead": "madhya-pradesh-high-court-strikes-down-27-obc-quota",
       "list": [
+        "modi-opens-chennai-metro-stretch-vijay-seeks-school-funds",
         "supreme-court-declines-plea-aiadmk-mlas-disqualification",
-        "west-bengal-makes-bengali-compulsory-government-work",
-        "kerala-becomes-keralam-what-changes"
+        "west-bengal-makes-bengali-compulsory-government-work"
       ]
     },
     {
       "section": "world",
-      "lead": "india-condemns-houthi-attacks-saudi-airports-riyadh",
+      "lead": "two-indian-seafarers-missing-after-tanker-attacks-off-oman",
       "list": [
+        "india-condemns-houthi-attacks-saudi-airports-riyadh",
         "mea-rejects-un-rights-office-remarks-delhi-protest-detentions",
-        "india-us-trade-talks-plateau-russia-oil-tariff-law",
-        "us-suspends-indian-it-firms-green-card-sponsorship"
+        "india-us-trade-talks-plateau-russia-oil-tariff-law"
       ]
     }
   ]
