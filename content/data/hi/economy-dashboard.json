@@ -434,16 +434,16 @@
     {
       "id": "usd-inr",
       "name": "डॉलर के मुकाबले रुपया (बंद भाव)",
-      "latest_value": 96.72,
+      "latest_value": 95.78,
       "unit": "₹ प्रति $",
-      "period": "9 अक्टूबर 2026 (अनंतिम बंद भाव)",
-      "release_date": "2026-10-09",
+      "period": "12 अक्टूबर 2026 (अनंतिम बंद भाव)",
+      "release_date": "2026-10-12",
       "change_vs_previous": {
         "basis": "पिछला बंद भाव",
-        "previous_value": 96.88,
-        "previous_period": "8 अक्टूबर 2026",
-        "change": -0.16,
-        "change_unit": "₹ (रुपया 16 पैसे मज़बूत हुआ)"
+        "previous_value": 96.71,
+        "previous_period": "9 अक्टूबर 2026",
+        "change": -0.93,
+        "change_unit": "₹ (रुपया 93 पैसे मज़बूत हुआ)"
       },
       "history": [
         {
@@ -463,12 +463,16 @@
         {
           "period": "9 अक्टूबर 2026",
           "value": 96.72
+        },
+        {
+          "period": "12 अक्टूबर 2026",
+          "value": 95.78
         }
       ],
       "source": {
-        "publisher": "PTI via Deccan Herald",
-        "url": "https://www.deccanherald.com/amp/story/business/rupee-rises-16-paise-to-close-at-9672-against-us-dollar-4176436",
-        "date": "2026-10-09"
+        "publisher": "Kotak Neo; PTI via ThePrint",
+        "url": "https://theprint.in/economy/rupee-jumps-93-paise-to-close-at-95-78-against-us-dollar/3069693/",
+        "date": "2026-10-12"
       },
       "history_sources": [
         {
@@ -531,14 +535,14 @@
     {
       "id": "sensex",
       "name": "बीएसई सेंसेक्स (बंद स्तर)",
-      "latest_value": 72472.33,
+      "latest_value": 71924.68,
       "unit": "अंक",
-      "period": "9 अक्टूबर 2026",
-      "release_date": "2026-10-09",
+      "period": "12 अक्टूबर 2026",
+      "release_date": "2026-10-12",
       "change_vs_previous": {
         "basis": "पिछला बंद भाव",
-        "change": 879.09,
-        "change_pct": 1.23,
+        "change": -547.65,
+        "change_pct": -0.76,
         "change_unit": "अंक"
       },
       "history": [
@@ -549,15 +553,19 @@
         {
           "period": "9 अक्टूबर 2026",
           "value": 72472.33
+        },
+        {
+          "period": "12 अक्टूबर 2026",
+          "value": 71924.68
         }
       ],
       "source": {
-        "publisher": "Business Standard; PTI via Deccan Herald",
-        "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-october-9-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-it-stocks-today-126100900099_1.html",
-        "date": "2026-10-09"
+        "publisher": "Kotak Neo; PTI via ThePrint",
+        "url": "https://www.kotakneo.com/news/market-news/sensex-and-nifty-50-close-lower/",
+        "date": "2026-10-12"
       },
       "verified_primary": false,
-      "note": "27 मई 2026 का बंद स्तर पीटीआई (डेक्कन हेराल्ड के ज़रिए) से है। 10 और 11 अक्टूबर 2026 को सप्ताहांत था, इसलिए 9 अक्टूबर का बंद स्तर सबसे ताज़ा है।",
+      "note": "27 मई 2026 का बंद स्तर पीटीआई (डेक्कन हेराल्ड के ज़रिए) से है।",
       "history_sources": [
         {
           "period": "27 मई 2026",
@@ -570,14 +578,14 @@
     {
       "id": "nifty-50",
       "name": "एनएसई निफ्टी 50 (बंद स्तर)",
-      "latest_value": 22520.45,
+      "latest_value": 22363.35,
       "unit": "अंक",
-      "period": "9 अक्टूबर 2026",
-      "release_date": "2026-10-09",
+      "period": "12 अक्टूबर 2026",
+      "release_date": "2026-10-12",
       "change_vs_previous": {
         "basis": "पिछला बंद भाव",
-        "change": 288.65,
-        "change_pct": 1.3,
+        "change": -157.1,
+        "change_pct": -0.7,
         "change_unit": "अंक"
       },
       "history": [
@@ -588,15 +596,19 @@
         {
           "period": "9 अक्टूबर 2026",
           "value": 22520.45
+        },
+        {
+          "period": "12 अक्टूबर 2026",
+          "value": 22363.35
         }
       ],
       "source": {
-        "publisher": "Business Standard; PTI via Deccan Herald",
-        "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-october-9-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-it-stocks-today-126100900099_1.html",
-        "date": "2026-10-09"
+        "publisher": "Kotak Neo; PTI via ThePrint",
+        "url": "https://www.kotakneo.com/news/market-news/sensex-and-nifty-50-close-lower/",
+        "date": "2026-10-12"
       },
       "verified_primary": false,
-      "note": "27 मई 2026 का बंद स्तर पीटीआई (डेक्कन हेराल्ड के ज़रिए) से है। 10 और 11 अक्टूबर 2026 को सप्ताहांत था, इसलिए 9 अक्टूबर का बंद स्तर सबसे ताज़ा है।",
+      "note": "27 मई 2026 का बंद स्तर पीटीआई (डेक्कन हेराल्ड के ज़रिए) से है।",
       "history_sources": [
         {
           "period": "27 मई 2026",

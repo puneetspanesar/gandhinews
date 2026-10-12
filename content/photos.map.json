@@ -996,16 +996,16 @@
     "page": "https://commons.wikimedia.org/wiki/File:Om_Birla_(2021)_(cropped).jpg"
   },
   "india-bloc-march-to-supreme-court-after-cji-declines-meeting": {
-    "id": "cp-b-block",
-    "src": "/photos/cp-b-block-1280.jpg",
-    "src800": "/photos/cp-b-block-640.jpg",
+    "id": "sc-courtyard",
+    "src": "/photos/sc-courtyard-1280.jpg",
+    "src800": "/photos/sc-courtyard-640.jpg",
     "width": 1280,
-    "height": 853,
-    "credit": "Photo: Slyronit / Wikimedia Commons",
+    "height": 960,
+    "credit": "Photo: Pinakpani / Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
-    "alt": "Connaught Place in central New Delhi, where the INDIA bloc's march is due to begin",
-    "alt_hi": "मध्य दिल्ली का कनॉट प्लेस, जहां से इंडिया गठबंधन का मार्च शुरू होना है",
-    "page": "https://commons.wikimedia.org/wiki/File:Connaught_Place,_B_Block_at_night,_Delhi.jpg"
+    "alt": "Inside the Supreme Court of India complex, New Delhi",
+    "alt_hi": "नई दिल्ली में सुप्रीम कोर्ट परिसर के भीतर",
+    "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India,_inside_buildings_01.jpg"
   },
   "cabinet-approves-integrated-transport-logistics-authority": {
     "id": "jnpt",
