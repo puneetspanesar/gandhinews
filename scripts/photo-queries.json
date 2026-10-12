@@ -1,7 +1,13 @@
 {
-  "t-cmrl": "Chennai Metro Rail",
-  "t-cmrl2": "Chennai Metro station",
-  "t-modi": "Narendra Modi official portrait",
-  "t-vijay": "Joseph Vijay",
-  "t-vijay2": "Vijay Tamil actor"
+  "t-tcs": "Tata Consultancy Services office",
+  "t-tcs2": "TCS campus building",
+  "t-tanker": "oil tanker Strait of Hormuz",
+  "t-tanker2": "oil tanker Gulf of Oman",
+  "t-mphc": "Madhya Pradesh High Court Jabalpur",
+  "t-sebi": "SEBI Bhavan Mumbai",
+  "t-birla": "Om Birla",
+  "t-lsch": "Lok Sabha chamber",
+  "t-kharge": "Mallikarjun Kharge",
+  "t-cp": "Connaught Place New Delhi",
+  "t-dfc": "Dedicated Freight Corridor train"
 }
