@@ -6,187 +6,154 @@ type: news
 section: politics
 format_label: "राजनीति / विपक्ष"
 topics: [electoral-rolls-sir, election-commission, supreme-court]
-title: "सीजेआई ने मिलने से मना किया, इंडिया गठबंधन आज सुप्रीम कोर्ट तक मार्च करेगा"
-standfirst: "एसआईआर और मुख्य चुनाव आयुक्त के मुद्दे पर विपक्षी नेता दोपहर 1:30 बजे कनॉट प्लेस में जुटकर सुप्रीम कोर्ट तक पैदल जाएंगे। छह मेट्रो स्टेशन बंद हैं और पुलिस ने ट्रैफ़िक डायवर्ज़न की सूचना दी है।"
+title: "दिल्ली में इंडिया गठबंधन का मार्च, मुख्य चुनाव आयुक्त के खिलाफ सुप्रीम कोर्ट में याचिका की तैयारी"
+standfirst: "राहुल गांधी, मल्लिकार्जुन खड़गे, प्रियंका गांधी वाड्रा और ममता बनर्जी के नेतृत्व में विपक्षी सांसदों ने सोमवार को मध्य दिल्ली में मार्च किया। मुख्य न्यायाधीश के मिलने से इनकार के बाद गठबंधन ने ज्ञापन की जगह याचिका दायर करने की बात कही।"
 published: 2026-10-12T07:00:00+05:30
+updated: 2026-10-12T14:45:00+05:30
 location: नई दिल्ली
 keyPoints:
-  - "विपक्षी नेता **दोपहर 1:30 बजे कनॉट प्लेस-बाराखंभा रोड चौराहे** पर जुटेंगे और वहां से सुप्रीम कोर्ट तक मार्च करेंगे।"
-  - "मुख्य न्यायाधीश सूर्यकांत ने राहुल गांधी और मल्लिकार्जुन खड़गे की मांगी गई **शाम 4 से 5 बजे की मुलाकात से इनकार** कर दिया और कहा कि मामला विचाराधीन है, इसलिए याचिका दायर करें।"
-  - "गठबंधन की मांग है कि **मुख्य चुनाव आयुक्त ज्ञानेश कुमार इस्तीफ़ा दें**, मतदाता सूची का एसआईआर रोका जाए और बैलेट पेपर से चुनाव लौटें।"
-  - "मध्य दिल्ली के **छह मेट्रो स्टेशनों** पर सुबह 6 से शाम 4 बजे तक प्रवेश और निकास बंद है, और ट्रैफ़िक पुलिस ने 30 जगहों पर डायवर्ज़न की चेतावनी दी है।"
+  - "विपक्षी नेता और सांसद सोमवार दोपहर मध्य दिल्ली में मार्च करते हुए **कॉन्स्टिट्यूशन क्लब ऑफ इंडिया** पर जुटे।"
+  - "मुख्य न्यायाधीश के मिलने से मना करने के बाद राहुल गांधी ने कहा कि गठबंधन मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ **सुप्रीम कोर्ट में याचिका दायर करेगा**।"
+  - "सीजेआई सूर्यकांत ने अदालत में कहा कि **सुप्रीम कोर्ट को इसमें घसीटा नहीं जाना चाहिए** और वकीलों की आवाजाही में रुकावट नहीं होनी चाहिए।"
 hero:
-  need: "नई दिल्ली में इंडिया गठबंधन के सांसदों के साथ मार्च करते राहुल गांधी, या 9 अक्टूबर को राष्ट्रपति से मिलने के बाद विजय चौक पर विपक्षी नेता"
-  suggested_source: "PTI / ANI wire photos of 12 October march; Wikimedia Commons search 'Rahul Gandhi march Delhi'"
-  alt: "नई दिल्ली में राहुल गांधी के नेतृत्व में विरोध मार्च करते विपक्षी नेता"
+  need: "12 अक्टूबर को कॉन्स्टिट्यूशन क्लब ऑफ इंडिया में या मध्य दिल्ली में मार्च करते राहुल गांधी, प्रियंका गांधी वाड्रा, मल्लिकार्जुन खड़गे और ममता बनर्जी के साथ इंडिया गठबंधन के सांसद"
+  suggested_source: "Wikimedia Commons search 'Rahul Gandhi protest march Delhi' or 'Constitution Club of India'"
+  alt: "मध्य दिल्ली में राहुल गांधी के नेतृत्व में विरोध मार्च करते इंडिया गठबंधन के नेता"
   overlay:
-    value: "सीजेआई का मिलने से इनकार, फिर भी मार्च"
+    value: "ज्ञापन नहीं, अब याचिका"
 related: [supreme-court-orders-metro-internet-restored-after-cjp-protest-detentions, what-is-the-cockroach-janta-party, election-commission-dissent-report-move-to-remove-cec, sir-phase-three-draft-rolls-names-dropped-by-state, how-chief-election-commissioner-is-appointed-removed, mea-rejects-un-rights-office-remarks-delhi-protest-detentions, electoral-rolls-sir, election-commission]
 seo:
-  description: "एसआईआर और मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ इंडिया गठबंधन 12 अक्टूबर को कनॉट प्लेस से सुप्रीम कोर्ट तक मार्च करेगा। सीजेआई ने मुलाकात से इनकार किया।"
+  description: "राहुल गांधी और ममता बनर्जी के नेतृत्व में इंडिया गठबंधन ने 12 अक्टूबर को दिल्ली में मार्च किया। सीजेआई के मिलने से इनकार के बाद मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ सुप्रीम कोर्ट में याचिका की तैयारी।"
 sources:
-  - title: "INDIA bloc to step up fight over voting rights, announces Delhi protest on Monday (PTI)"
-    publisher: "Business Today"
-    date: 2026-10-10
-    url: "https://www.businesstoday.in/india/story/india-bloc-to-step-up-fight-over-voting-rights-announces-delhi-protest-on-monday-560816-2026-10-10"
-    primary: false
-  - title: "Opposition bloc calls protest on October 12"
-    publisher: "The Week"
-    date: 2026-10-10
-    url: "https://www.theweek.in/news/india/2026/10/10/opposition-bloc-protest-october-12.html"
-    primary: false
-  - title: "CJI Surya Kant declines INDIA bloc's proposed 'vote chori' discussion ahead of SC protest march on Monday"
-    publisher: "The Week"
-    date: 2026-10-11
-    url: "https://www.theweek.in/news/india/2026/10/11/opposition-to-march-to-supreme-court-on-monday-rahul-gandhi-to-submit-memorandum-with-3-key-demands.html"
-    primary: false
-  - title: "CJI rejects INDIA bloc leaders' request for meeting, asks them to file petition in court"
+  - title: "INDIA bloc stages mega protest march from Connaught Place against Election Commission; vows to move Supreme Court"
     publisher: "ANI"
-    date: 2026-10-11
-    url: "https://www.aninews.in/news/national/politics/cji-rejects-india-bloc-leaders8217-request-for-meeting-asks-them-to-file-petition-in-court20261011223531/"
+    date: 2026-10-12
+    url: "https://aninews.in/news/national/politics/india-bloc-stages-mega-protest-march-from-connaught-place-against-election-commission-vows-to-move-supreme-court20261012134525/"
+    primary: false
+  - title: "INDIA Bloc leaders reach Constitution Club in Delhi; Rahul Gandhi calls for action against 'Vote Theft'"
+    publisher: "ANI"
+    date: 2026-10-12
+    url: "https://www.aninews.in/news/national/politics/india-bloc-leaders-reach-constitution-club-in-delhi-rahul-gandhi-calls-for-action-against-vote-theft20261012140608/"
+    primary: false
+  - title: "\"We are demanding justice\": INDIA bloc leaders gather for massive protest against EC"
+    publisher: "ANI"
+    date: 2026-10-12
+    url: "https://www.aninews.in/news/national/politics/we-are-demanding-justice-india-bloc-leaders-gather-for-massive-protest-against-ec16020261012134934/"
+    primary: false
+  - title: "INDIA bloc begins Delhi protest march, plans Supreme Court petition"
+    publisher: "The News Mill"
+    date: 2026-10-12
+    url: "https://thenewsmill.com/2026/10/opposition-india-bloc-begins-protest-march-in-delhi-plans-supreme-court-petition/"
+    primary: false
+  - title: "India bloc leaders march to Supreme Court against alleged vote theft"
+    publisher: "The News Mill"
+    date: 2026-10-12
+    url: "https://thenewsmill.com/2026/10/india-bloc-leaders-march-to-supreme-court-against-alleged-vote-theft/"
+    primary: false
+  - title: "INDIA bloc leaders to file petition against CEC Gyanesh Kumar in SC: Rahul (PTI)"
+    publisher: "ThePrint"
+    date: 2026-10-12
+    url: "https://theprint.in/india/india-bloc-leaders-to-file-petition-against-cec-gyanesh-kumar-in-sc-rahul/3069061/"
+    primary: false
+  - title: "Govt protecting Gyanesh Kumar, turning Delhi into a prison: Rahul Gandhi"
+    publisher: "Business Standard"
+    date: 2026-10-12
+    url: "https://www.business-standard.com/amp/india-news/rahul-gandhi-congress-gyanesh-kumar-eci-jantar-mantar-protests-students-sir-126101200360_1.html"
+    primary: false
+  - title: "INDIA bloc to move Supreme Court against CEC at 3 pm, Rahul alleges government shielding Kumar"
+    publisher: "Millennium Post"
+    date: 2026-10-12
+    url: "https://www.millenniumpost.in/big-stories/india-bloc-to-move-supreme-court-against-cec-at-3-pm-rahul-alleges-government-shielding-kumar-679481"
+    primary: false
+  - title: "From memorandum to petition, INDIA bloc changes Supreme Court strategy after CJI refuses meeting"
+    publisher: "NewsDrum"
+    date: 2026-10-12
+    url: "https://newsdrum.in/national/from-memorandum-to-petition-india-bloc-changes-supreme-court-strategy-after-cji-refuses-meeting-12668161"
+    primary: false
+  - title: "INDIA Bloc Protest Live Updates"
+    publisher: "Aaj Tak"
+    date: 2026-10-12
+    url: "https://www.aajtak.in/india/news/story/india-bloc-march-rahul-gandhi-cjp-protest-date-cji-suryakant-delhi-metro-ntc-acwi-2668014-2026-10-12"
+    primary: false
+  - title: "There Should Be No Impediment In Movement Of Lawyers, Court Staff: CJI Surya Kant Amid CEC Protests"
+    publisher: "LiveLaw"
+    date: 2026-10-12
+    url: "https://www.livelaw.in/top-stories/there-should-be-no-impediment-in-movement-of-lawyers-court-staff-cji-surya-kant-amid-cec-protests-554204"
+    primary: false
+  - title: "'Supreme Court should not be dragged...': CJI Surya Kant after denying INDIA bloc meeting request"
+    publisher: "Business Today"
+    date: 2026-10-12
+    url: "https://www.businesstoday.in/india/story/supreme-court-should-not-be-dragged-cji-surya-kant-after-denying-india-bloc-meeting-request-560969-2026-10-12"
+    primary: false
+  - title: "Jantar Mantar de-notified as protest venue by Delhi Police; three new venues designated"
+    publisher: "Bar & Bench"
+    date: 2026-10-12
+    url: "https://www.barandbench.com/news/jantar-mantar-de-notified-as-protest-venue-by-delhi-police-three-new-venues-designated"
     primary: false
   - title: "'Respect the decision but will march to Supreme Court': KC Venugopal as CJI rejects INDIA bloc's request for meeting"
     publisher: "ANI"
     date: 2026-10-12
     url: "https://aninews.in/news/national/politics/respect-the-decision-but-will-march-to-supreme-court-kc-venugopal-as-cji-rejects-india-blocs-request-for-meeting20261012023615/"
     primary: false
-  - title: "CJI Surya Kant declines INDIA bloc leaders' request for meeting ahead of march to SC, asks them to file petition"
-    publisher: "WION"
-    date: 2026-10-12
-    url: "https://www.wionews.com/india-news/cji-surya-kant-declines-india-bloc-leaders-request-for-meeting-ahead-of-march-to-sc-asks-them-to-file-petition-1791745229102"
-    primary: false
-  - title: "Opposition stir today, CJI no to Cong. meet"
-    publisher: "Deccan Chronicle"
-    date: 2026-10-11
-    url: "https://www.deccanchronicle.com/nation/current-affairs/cji-does-not-agree-to-meet-rahul-kharge-oppn-march-today-1994992"
-    primary: false
-  - title: "Congress plans Supreme Court march after CJI rejects INDIA bloc request"
-    publisher: "The News Mill"
-    date: 2026-10-11
-    url: "https://thenewsmill.com/2026/10/congress-plans-supreme-court-march-after-cji-rejects-india-bloc-meeting-request/"
-    primary: false
-  - title: "Is there a protest in Delhi today, October 12?"
-    publisher: "The Sunday Guardian"
-    date: 2026-10-12
-    url: "https://sundayguardianlive.com/india/is-there-a-protest-in-delhi-today-october-12-rahul-gandhi-and-india-bloc-plan-march-towards-supreme-court-check-assembly-point-timing-metro-stations-traffic-advisory-and-more-303778/"
-    primary: false
-  - title: "INDIA bloc leaders to march to Supreme Court today, submit memorandum to CJI"
-    publisher: "Deccan Herald"
-    date: 2026-10-10
-    url: "https://www.deccanherald.com/india/india-bloc-leaders-to-march-to-supreme-court-today-submit-memorandum-to-cji-4178138"
-    primary: false
-  - title: "Delhi metro closes 6 major stations ahead of Opposition's Supreme Court march today"
-    publisher: "Business Today"
-    date: 2026-10-12
-    url: "https://www.businesstoday.in/india/story/delhi-metro-stations-closed-opposition-supreme-court-march-october-2026-560891-2026-10-12"
-    primary: false
   - title: "Delhi Metro shuts entry, exit at six stations amid Congress' call for protest march"
     publisher: "ANI"
     date: 2026-10-12
     url: "https://aninews.in/news/national/general-news/delhi-metro-shuts-entry-exit-at-six-stations-amid-congress-call-for-protest-march20261012051859/"
-    primary: false
-  - title: "Delhi Traffic Police warn of diversions on October 12 amid Congress protest march"
-    publisher: "The News Mill"
-    date: 2026-10-12
-    url: "https://thenewsmill.com/2026/10/delhi-traffic-police-warn-of-diversions-on-october-12-amid-congress-protest-march/"
-    primary: false
-  - title: "Protecting citizens' right to vote our resolve: DK Shivakumar on Congress' call for protest on Oct 12"
-    publisher: "ANI"
-    date: 2026-10-12
-    url: "https://aninews.in/news/national/politics/protecting-citizens8217-right-to-vote-our-resolve-dk-shivakumar-on-congress-call-for-protest-on-oct-1220261012035553/"
-    primary: false
-  - title: "Karnataka CM Shivakumar pledges protection of voting rights ahead of Oct 12 Delhi protest"
-    publisher: "The CSR Journal"
-    date: 2026-10-12
-    url: "https://thecsrjournal.in/karnataka-cm-shivakumar-pledges-protection-of-voting-rights-ahead-of-oct-12-delhi-protest"
     primary: false
   - title: "BJP's Sambit Patra calls Rahul Gandhi 'nalayak neta' over memorandum to President"
     publisher: "The News Mill"
     date: 2026-10-10
     url: "https://thenewsmill.com/2026/10/bjps-sambit-patra-calls-rahul-gandhi-nalayak-neta-over-memorandum-to-president/"
     primary: false
-  - title: "'Anarchist' Rahul tried to drag President to street protest: Sambit Patra"
-    publisher: "Asianet Newsable"
-    date: 2026-10-10
-    url: "https://newsable.asianetnews.com/india/anarchist-rahul-tried-to-drag-president-to-street-protest-sambit-patra-articleshow-c5hw3ti"
-    primary: false
-  - title: "INDIA bloc to hold massive 'vote chori' protest in Delhi on October 12, Rahul Gandhi plans to approach CJI"
-    publisher: "Free Press Journal"
-    date: 2026-10-10
-    url: "https://www.freepressjournal.in/india/india-bloc-to-hold-massive-vote-chori-protest-in-delhi-on-october-12-rahul-gandhi-plans-to-approach-cji"
-    primary: false
-  - title: "ECI debunks 'fake allegations' amid SIR row, says '13 crore voter deletion claim misleading'"
-    publisher: "Free Press Journal"
-    date: 2026-10-02
-    url: "https://www.freepressjournal.in/india/eci-debunks-fake-allegations-amid-sir-row-says-13-crore-voter-deletion-claim-misleading"
-    primary: false
 verification:
   status: approved
   notes:
-    - "Assembly point conflict: Deccan Chronicle, WION and The Sunday Guardian (citing The Times of India) give the Connaught Place-Barakhamba Road junction at 1:30 pm. The Week (citing Hindustan Times) said leaders would gather at India Gate. We used the majority version; check before the march starts."
-    - "No report seen by 7 am said whether Delhi Police have granted permission for the march. Left out."
-    - "CJI's reply: the decline, the email and the 'file a petition, matter is sub judice' advice appear in ANI, WION, The News Mill and Business Today. The reasons (sub judice, judicial rather than administrative route) rest on unnamed sources cited by ANI and LiveLaw (via WION); worded as what the reply reportedly said. Business Today alone says a petition could be heard the next day; left out. Deccan Chronicle quotes an unnamed source on the email; not used."
-    - "The 4-5 pm slot is from WION and Deccan Chronicle; The Week (citing HT) said 'after 4 pm'."
-    - "Demands: paper ballots is in WION, Deccan Chronicle and Business Today; Tharoor's list (ANI, News Mill) adds restoring deleted voters. The President memorandum (9 Oct) also sought scrapping of assembly polls of the last two years (WION, FPJ)."
-    - "Venugopal's 'We respect that decision...' remarks: ANI dates the story 12 Oct (2:36 am) but he says 'tomorrow', so they were made on 11 Oct. Written as Sunday."
-    - "Shivakumar spoke in Mysuru; ANI's dateline is 12 October but the remarks were probably made on 11 October. Written as 'on the eve of the march'. Quote is from ANI; The CSR Journal carries a paraphrase of the same remarks."
-    - "Akhilesh Yadav's expected participation rests on The Week and Deccan Chronicle; Mamata Banerjee staying back on Rahul Gandhi's request is from Deccan Herald and The Week."
-    - "BJP response: Sambit Patra's 10 Oct quote confirmed in The News Mill and Asianet Newsable. Sukanta Majumdar's 'cockroach' remark (ANI) and Rekha Gupta's comments (paraphrase only) not used for space. Nothing found from the BJP or ECI on the 12 Oct march itself."
-    - "ECI's 2 Oct statement is from Free Press Journal only, hedged as reported. No ECI response to the march found."
-    - "Tharoor's '130 million' figure and the bloc's '13.30 crore' deletion figure not used; the ECI disputes the basis of the 13 crore figure."
-    - "Fact-check 12 Oct: Assembly point and time (Connaught Place-Barakhamba Road junction, 1:30 pm) now confirmed by PTI (ThePrint, Business Standard, 11 Oct night) and India TV as well; India Gate (The Week) remains the outlier. No change of venue or time found as of 8 am. Still no report on Delhi Police permission. Metro list, 6 am-4 pm window, interchange and DMRC wording checked against ANI and Business Today; 30 diversion points and travel advice checked against ANI and Business Today. Rahul Gandhi X quote checked word for word (PTI, The Week, WION, Deccan Chronicle). Venugopal quotes (ANI; PTI via Business Today), Shivakumar quote (ANI), Patra quote (The News Mill) all verified verbatim; the Venugopal 11 Oct quote's first sentence is truncated at a comma in the original. Mamata Banerjee's 10 Oct detention confirmed (Deccan Herald, ThePrint, The Quint). India TV also says a petition could be heard with the SIR matters on Tuesday (now two outlets with Business Today); still left out as it rests on unnamed sources. Changed: timeline entry for 2 Oct hedged ('reported to') to match the body, since the ECI statement rests on Free Press Journal only."
+    - "Rewritten at about 2:45 pm from the 7 am preview. Latest fact used: The News Mill (ANI inputs), 2:37 pm, that the march was under way from the Constitution Club with Rahul Gandhi, Priyanka Gandhi Vadra and Mamata Banerjee present. No report seen by 2:45 pm says the march reached the Supreme Court, that the petition has been filed, or that anyone was detained on Monday. Recheck before the 4 pm Metro window ends."
+    - "Route conflict: ANI (1:45 pm) says the march started from Connaught Place; ANI (2:06 pm) says leaders marched through central Delhi to the Constitution Club; The News Mill (2:37 pm) says the march began from the Constitution Club. Aaj Tak (10:54 am) has Kharge asking people to gather at the Constitution Club at 1 pm. Body written to cover both: supporters gathered at Connaught Place, leaders at the Constitution Club. Exact route to the court not reported."
+    - "Kharge's presence: ANI (2:06 pm) lists him among those at the march; The News Mill (2:37 pm) names only Rahul Gandhi, Priyanka Gandhi Vadra and Mamata Banerjee as arriving at the Constitution Club. Akhilesh Yadav and Tejashwi Yadav are described only as backing the march; not stated as present."
+    - "3 pm filing time: Millennium Post and Aaj Tak headline. Venugopal's 'registry between 10 and 4' is from ANI. Filing not confirmed at time of writing."
+    - "Press conference venue: PTI (ThePrint) and Business Standard say Indira Bhawan, New Delhi. The Week says Mumbai, which looks like an error; not used."
+    - "Rahul Gandhi's '200 officers' claim not used: unverified, offered without evidence."
+    - "CJI's remarks were made in court when senior advocates mentioned petitions on detention of lawyers (LiveLaw, 11:20 am; Business Today). Quotes verbatim from LiveLaw. The 'petition could be heard Tuesday' line rests on unnamed sources; not used."
+    - "No crowd or detention figures for Monday found. No BJP or ECI response to Monday's march found by 2:45 pm; Patra's 10 October quote used as context, dated."
+    - "Jantar Mantar order: Bar & Bench, standing order dated 11 October by Commissioner Anurag Kumar; venues Ramlila Ground, Burari Ground, CBD Ground (East Delhi). Also in ANI."
+    - "Indian Youth Congress petition in Delhi High Court over Jantar Mantar permission rests on Aaj Tak only; left out."
+    - "Mamata Banerjee: ANI calls her former West Bengal CM; she is described here as Trinamool Congress chief, as in the earlier version."
+    - "Infographic and timeline blocks from the preview dropped: no longer about the day's travel and the story runs without a block."
 ---
 
-विपक्षी इंडिया गठबंधन के नेता आज दोपहर नई दिल्ली में सुप्रीम कोर्ट (सर्वोच्च न्यायालय) तक मार्च करेंगे। उनका विरोध मतदाता सूची के विशेष गहन पुनरीक्षण (एसआईआर) के खिलाफ है और उनकी मांग है कि मुख्य चुनाव आयुक्त ज्ञानेश कुमार इस्तीफ़ा दें।
+विपक्षी इंडिया गठबंधन के नेताओं ने सोमवार दोपहर मुख्य चुनाव आयुक्त ज्ञानेश कुमार और मतदाता सूचियों के विशेष गहन पुनरीक्षण (एसआईआर) के खिलाफ मध्य दिल्ली में मार्च किया और कहा कि वे यह लड़ाई अब औपचारिक याचिका के जरिए सुप्रीम कोर्ट ले जाएंगे।
 
-नेता भारत के मुख्य न्यायाधीश सूर्यकांत को ज्ञापन सौंपना चाहते थे। मुख्य न्यायाधीश ने उनसे मिलने से इनकार कर दिया है। गठबंधन का कहना है कि मार्च फिर भी होगा।
+लोकसभा में नेता प्रतिपक्ष राहुल गांधी, कांग्रेस अध्यक्ष मल्लिकार्जुन खड़गे, प्रियंका गांधी वाड्रा और तृणमूल कांग्रेस प्रमुख ममता बनर्जी कॉन्स्टिट्यूशन क्लब ऑफ इंडिया में जुटे नेताओं में शामिल थे, जबकि कांग्रेस कार्यकर्ता और समर्थक कनॉट प्लेस में इकट्ठा हुए। दोपहर 2:45 बजे तक भारी पुलिस तैनाती और मध्य दिल्ली में जगह-जगह लगे बैरिकेड के बीच मार्च जारी था। सोमवार को किसी को हिरासत में लिए जाने की खबर नहीं थी।
 
-## आज का कार्यक्रम
+गठबंधन की योजना मुख्य न्यायाधीश सूर्यकांत को ज्ञापन सौंपने की थी। उन्होंने यह कहते हुए नेताओं से मिलने से मना कर दिया कि ये मुद्दे पहले से अदालत के सामने हैं। इसके बाद योजना बदल गई।
 
-कांग्रेस ने इस प्रदर्शन को "चलो दिल्ली, मार्च फ़ॉर डेमोक्रेसी" नाम दिया है। नेता दोपहर 1:30 बजे कनॉट प्लेस-बाराखंभा रोड चौराहे पर जुटेंगे और वहां से पैदल सुप्रीम कोर्ट की ओर बढ़ेंगे। लोकसभा में नेता प्रतिपक्ष राहुल गांधी ने युवाओं, विपक्षी दलों और नागरिक संगठनों से इसमें शामिल होने की अपील की है।
+## ज्ञापन की जगह याचिका
 
-तृणमूल कांग्रेस (टीएमसी) प्रमुख ममता बनर्जी, जो शनिवार को हिरासत में लिए गए लोगों में शामिल थीं, राहुल गांधी के अनुरोध पर दिल्ली में रुक गई हैं। समाजवादी पार्टी (सपा) प्रमुख अखिलेश यादव के भी शामिल होने की उम्मीद है।
+राहुल गांधी ने कहा, "हमने सीजेआई को पत्र लिखा था। उन्होंने हमें याचिका दायर करने को कहा।" मार्च से पहले कांग्रेस मुख्यालय इंदिरा भवन में पत्रकारों से बात करते हुए उन्होंने कहा कि इंडिया गठबंधन के नेता साथ मिलकर दोपहर 3 बजे सुप्रीम कोर्ट में याचिका दायर करेंगे। उन्होंने कहा, "हम पीछे नहीं हटेंगे, हम सच के साथ खड़े हैं।"
 
-> कल हम भारतीयों के रूप में, पार्टी, लिंग, जाति, समुदाय और राज्य से ऊपर उठकर एकजुट होकर सुप्रीम कोर्ट तक मार्च करेंगे।
->
-> स्रोत: राहुल गांधी, नेता प्रतिपक्ष, लोकसभा, एक्स पर, 11 अक्टूबर 2026
+कांग्रेस महासचिव के सी वेणुगोपाल ने इस प्रदर्शन को "चुनाव आयुक्त और चुनाव व्यवस्था के खिलाफ सबसे बड़ा आंदोलन" बताया और कहा कि मुख्य न्यायाधीश के कार्यालय ने पार्टी को बताया है कि रजिस्ट्री 10 से 4 बजे के बीच उनकी याचिका ले सकती है। कांग्रेस सांसद राजीव शुक्ला ने कहा, "सीजेआई ने जो कहा है, हम उसी के मुताबिक आगे बढ़ेंगे और याचिका दायर करेंगे। हमें अदालत पर भरोसा है।"
 
-```infographic
-{"title":"आज मध्य दिल्ली में आवाजाही","items":[{"icon":"map-pin","value":"दोपहर 1:30","label":"जुटने का समय","text":"कनॉट प्लेस-बाराखंभा रोड चौराहा, फिर पैदल सुप्रीम कोर्ट तक।"},{"icon":"train","value":"6","label":"मेट्रो स्टेशन बंद","text":"पटेल चौक, जनपथ, राजीव चौक, मंडी हाउस, केंद्रीय सचिवालय और बाराखंभा रोड, सुबह 6 से शाम 4 बजे तक। इंटरचेंज खुला रहेगा।"},{"icon":"truck","value":"30","label":"ट्रैफ़िक पॉइंट","text":"नई दिल्ली और मध्य दिल्ली में सुबह 6 बजे से, ज़मीनी हालात के हिसाब से डायवर्ज़न।"},{"icon":"warning","value":"अतिरिक्त समय","label":"यात्रियों के लिए","text":"मध्य दिल्ली होकर रेलवे स्टेशन, आईएसबीटी और हवाई अड्डे जाने वालों को पुलिस ने ज़्यादा समय लेकर चलने की सलाह दी है।"}]}
-```
+राहुल गांधी ने मुख्य चुनाव आयुक्त से पद छोड़ने को कहा। उन्होंने कहा, "इस्तीफा दीजिए, सरकारी गवाह बन जाइए; आपसे गलती हुई है, लेकिन इस गलती के पीछे का दिमाग आप नहीं हैं।" पिछले कुछ दिनों के सुरक्षा इंतज़ाम पर भी उन्होंने सवाल उठाया: "दिल्ली को जेल में क्यों बदल दिया गया है?"
 
-दिल्ली मेट्रो रेल कॉरपोरेशन (डीएमआरसी) ने कहा कि स्टेशन "सुरक्षा कारणों से" बंद किए गए हैं और सुरक्षा एजेंसियां स्थिति की समीक्षा करेंगी। दिल्ली ट्रैफ़िक पुलिस ने लोगों को इस इलाके में गैर-ज़रूरी यात्रा से बचने की सलाह दी है।
+## सड़क पर विपक्ष
 
-## मुख्य न्यायाधीश ने मना क्यों किया
+ममता बनर्जी ने कहा, "हम न्याय मांग रहे हैं, और कुछ नहीं।" शिवसेना (यूबीटी) सांसद संजय राउत ने कहा कि उनकी पार्टी "राहुल गांधी जो करते हैं, उसके साथ है", और समाजवादी पार्टी के सांसद मोहिबुल्लाह नदवी ने इसे "जनता की लड़ाई" बताया। अखिलेश यादव और तेजस्वी यादव ने मार्च का समर्थन किया।
 
-राहुल गांधी और कांग्रेस अध्यक्ष मल्लिकार्जुन खड़गे ने मुख्य न्यायाधीश को पत्र लिखकर आज शाम 4 से 5 बजे के बीच मुलाकात का समय मांगा था। रविवार को ईमेल से भेजे गए जवाब में कथित तौर पर कहा गया कि ये मुद्दे पहले से अदालत में विचाराधीन हैं और प्रशासनिक स्तर पर ज्ञापन के बजाय अदालत में याचिका के ज़रिए बेहतर ढंग से उठाए जा सकते हैं।
+कांग्रेस सांसद रेणुका चौधरी ने पुलिस की सख्ती की निंदा करते हुए कहा कि सरकार "हमें गैरकानूनी घोषित कर रही है"। दिल्ली मेट्रो ने राजीव चौक, मंडी हाउस और बाराखंभा रोड समेत मध्य दिल्ली के छह स्टेशनों पर शाम 4 बजे तक प्रवेश और निकास बंद रखा।
 
-कांग्रेस महासचिव के सी वेणुगोपाल ने रविवार को कहा, "सीजेआई ने हमसे मिलने से इनकार कर दिया है। हम उस फ़ैसले का सम्मान करते हैं, लेकिन कल सुप्रीम कोर्ट तक मार्च करने के लिए पूरी तरह तैयार हैं।"
+## मुख्य न्यायाधीश का संदेश
 
-## गठबंधन क्या चाहता है
+इससे पहले दिन में, जब वरिष्ठ वकीलों ने सप्ताहांत के प्रदर्शनों के दौरान वकीलों को हिरासत में लिए जाने से जुड़ी याचिकाओं का ज़िक्र किया, तो मुख्य न्यायाधीश ने अदालत में कहा, "ये सभी लोकतांत्रिक गतिविधियां होनी चाहिए, लेकिन कम से कम सुप्रीम कोर्ट के कामकाज में..." उन्होंने आगे कहा, "मैंने प्रदर्शनकारियों से भी अपील की है। सभी राजनीतिक दलों से भी... सुप्रीम कोर्ट को इसमें घसीटा नहीं जाना चाहिए।"
 
-नेताओं की मांग है कि मुख्य चुनाव आयुक्त इस्तीफ़ा दें, एसआईआर रोका जाए और चुनाव फिर से बैलेट पेपर से हों। 9 अक्टूबर को गठबंधन का एक प्रतिनिधिमंडल इसी तरह की मांगों के साथ राष्ट्रपति द्रौपदी मुर्मू से मिला था।
-
-वेणुगोपाल ने 10 अक्टूबर को अलप्पुझा में आज के प्रदर्शन का ऐलान किया था। उन्होंने कहा, "प्रधानमंत्री मोदी ऐसे नेता की तरह बर्ताव कर रहे हैं जिसका पतन करीब है। वे विपक्ष के प्रदर्शनों से डरे हुए हैं।" मार्च से एक दिन पहले कर्नाटक के मुख्यमंत्री डी के शिवकुमार ने मैसूरु में कहा कि वे दिल्ली में कांग्रेस के वरिष्ठ नेताओं, सांसदों, मंत्रियों और विधायकों के साथ शामिल होंगे।
-
-> लोकतंत्र में हर वोट हर नागरिक का अधिकार है। किसी को भी अपना यह मताधिकार नहीं खोना चाहिए।
->
-> स्रोत: डी के शिवकुमार, मुख्यमंत्री, कर्नाटक, मैसूरु, 12 अक्टूबर 2026 को प्रकाशित
+उन्होंने यह भी कहा कि वकीलों, वादियों और अदालत के कर्मचारियों की आवाजाही में कोई रुकावट नहीं होनी चाहिए।
 
 ## दूसरा पक्ष
 
-भाजपा और चुनाव आयोग चुनावी गड़बड़ी के आरोपों को खारिज करते हैं। राष्ट्रपति से मुलाकात के बाद भाजपा प्रवक्ता संबित पात्रा ने 10 अक्टूबर को कहा, "इससे पहले कभी राष्ट्रपति को सड़क के प्रदर्शन में घसीटने की कोशिश नहीं की गई।"
+भाजपा और चुनाव आयोग मतदाता सूचियों में जानबूझकर हेरफेर के आरोप को खारिज करते हैं। पिछले हफ्ते गठबंधन के राष्ट्रपति द्रौपदी मुर्मू से मिलने के बाद भाजपा प्रवक्ता संबित पात्रा ने 10 अक्टूबर को कहा था, "राष्ट्रपति को सड़क के प्रदर्शन में घसीटने की ऐसी कोशिश पहले कभी नहीं हुई।" दोपहर तक सोमवार के मार्च पर दोनों में से किसी की नई प्रतिक्रिया नहीं आई थी।
 
-खबरों के मुताबिक 2 अक्टूबर को आयोग ने 13 करोड़ मतदाताओं के नाम हटाए जाने के दावे को भ्रामक बताया था। आयोग का कहना था कि यह आंकड़ा मसौदा सूची के स्तर पर अनुपस्थित, स्थानांतरित, मृत या दोहरे दर्ज नामों का है, अंतिम सूची से हटाए गए नामों का नहीं।
-
-## यहां तक कैसे पहुंचे
-
-आज का मार्च उस सप्ताहांत के बाद हो रहा है जब मुख्य चुनाव आयुक्त के खिलाफ कॉकरोच जनता पार्टी के प्रदर्शन में पुलिस ने, ज़्यादातर अनुमानों के मुताबिक, हज़ारों लोगों को हिरासत में लिया। रविवार को सुप्रीम कोर्ट ने मेट्रो और इंटरनेट सेवाएं बहाल करने का आदेश दिया।
-
-```timeline
-{"title":"आज के मार्च तक का घटनाक्रम","items":[{"date":"2 अक्टूबर 2026","text":"खबरों के मुताबिक चुनाव आयोग ने 13 करोड़ नाम हटाने के दावे को भ्रामक बताया"},{"date":"9 अक्टूबर 2026","text":"इंडिया गठबंधन का प्रतिनिधिमंडल राष्ट्रपति द्रौपदी मुर्मू से मिला"},{"date":"10 अक्टूबर 2026","text":"वेणुगोपाल ने दिल्ली प्रदर्शन का ऐलान किया; सीजेपी मार्च में पुलिस ने प्रदर्शनकारियों को हिरासत में लिया"},{"date":"11 अक्टूबर 2026","text":"सुप्रीम कोर्ट ने मेट्रो और इंटरनेट बहाल करने को कहा; सीजेआई ने गठबंधन से मिलने से इनकार किया"},{"date":"12 अक्टूबर 2026","text":"दोपहर 1:30 बजे कनॉट प्लेस से सुप्रीम कोर्ट तक मार्च"},{"date":"13 अक्टूबर 2026","text":"सुप्रीम कोर्ट में अवमानना याचिका और हिरासत से जुड़ी याचिकाओं पर सुनवाई"}]}
-```
+उधर, दिल्ली पुलिस आयुक्त अनुराग कुमार ने 11 अक्टूबर के एक स्थायी आदेश में जंतर-मंतर को प्रदर्शन स्थल की सूची से हटा दिया है और उसकी जगह रामलीला ग्राउंड, बुराड़ी ग्राउंड और पूर्वी दिल्ली के सीबीडी ग्राउंड को तय किया है।
 
 ## आगे क्या
 
-मंगलवार को सुप्रीम कोर्ट केंद्रीय गृह सचिव, दिल्ली पुलिस आयुक्त और डीएमआरसी प्रमुख के खिलाफ अवमानना याचिका पर सुनवाई करेगा। साथ ही पिछले सप्ताहांत की हिरासत से जुड़ी याचिकाएं भी सुनी जाएंगी।
+मंगलवार को सुप्रीम कोर्ट सप्ताहांत की हिरासतों से जुड़ी याचिकाओं पर सुनवाई करेगा, जिनमें वकीलों से जुड़ी याचिकाएं भी हैं। साथ ही केंद्रीय गृह सचिव, दिल्ली पुलिस आयुक्त और डीएमआरसी प्रमुख के खिलाफ अवमानना याचिका भी सुनी जाएगी। गठबंधन की अपनी याचिका इनके साथ सुनी जाएगी या नहीं, यह इस पर निर्भर करेगा कि वह कब दायर होती है।

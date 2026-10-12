@@ -6,22 +6,48 @@ section: world
 format_label: World / Europe
 topics: []
 title: "Trump announces Russia-Ukraine energy ceasefire, a day after calling for Zelenskyy to go"
-standfirst: "Zelenskyy said the truce was news to him but Ukraine would accept it if Russia did. Hours later, a power plant in Kharkiv was attacked."
+standfirst: "Moscow has not confirmed the truce, but the Kremlin said on Monday that Zelenskyy had so far failed to show the will to end the war. The EU adopted its biggest sanctions package yet."
 published: 2026-10-12T08:00:00+05:30
+updated: 2026-10-12T15:00:00+05:30
 keyPoints:
   - "Trump said on Sunday that Russia and Ukraine had agreed to an **energy ceasefire, effective immediately**, but gave no details."
-  - "A day earlier he said Ukraine should **get a new leader who can make a deal**, blaming Zelenskyy for high US diesel prices."
-  - "Zelenskyy offered elections after **a 60-day total ceasefire**, and said Russia was still striking Ukraine's power plants."
+  - "The Kremlin has **not confirmed the truce**; its spokesman backed Trump's call for a new Ukrainian leader."
+  - "EU foreign ministers on Monday adopted **nearly 1,600 new sanctions listings** against Russia's arms industry."
 hero:
   need: "Volodymyr Zelenskyy, ideally speaking or at a meeting with Donald Trump; or a damaged power plant in Ukraine"
   suggested_source: "Wikimedia Commons search 'Zelenskyy Trump meeting' or 'Volodymyr Zelenskyy 2025'"
   alt: "Ukrainian President Volodymyr Zelenskyy"
   overlay:
-    value: "Trump claims an energy truce in Ukraine"
+    value: "Energy truce: Kremlin stays silent"
 related: [india-us-trade-talks-plateau-russia-oil-tariff-law]
 seo:
-  description: "Trump says Russia and Ukraine agreed an immediate energy ceasefire, a day after urging Ukraine to replace Zelenskyy. Kyiv says it was not told and Russian strikes go on."
+  description: "The Kremlin has not confirmed Trump's Russia-Ukraine energy ceasefire but backed his call for a new leader in Kyiv. The EU adopted nearly 1,600 new sanctions listings."
 sources:
+  - title: "Kremlin Claims Trump Wants New Ukrainian President as Zelensky Avoids 'Difficult Decisions'"
+    publisher: "Kyiv Post"
+    date: 2026-10-12
+    url: "https://www.kyivpost.com/post/86766"
+    primary: false
+  - title: "Kremlin commented on Trump's statement on changing Ukraine's president (in Russian)"
+    publisher: "Focus.ua"
+    date: 2026-10-12
+    url: "https://focus.ua/world/770809-kreml-prokommentiroval-zayavlenie-trampa-ob-smene-prezidenta-ukrainy-zelenskiy-etogo-ne-delaet"
+    primary: false
+  - title: "EU adopts nearly 1,600 new sanctions listings targeting Russia (Reuters)"
+    publisher: "93.3 The Drive"
+    date: 2026-10-12
+    url: "https://www.933thedrive.com/2026/10/12/eu-adopts-nearly-1600-new-sanctions-listings-targeting-russia/"
+    primary: false
+  - title: "Trump says Russia and Ukraine agree to an 'energy ceasefire' (AP)"
+    publisher: "WBHM / NPR"
+    date: 2026-10-12
+    url: "https://www.wbhm.org/2026-10-12/trump-says-russia-and-ukraine-agree-to-an-energy-ceasefire"
+    primary: false
+  - title: "Trump announces Russia-Ukraine energy ceasefire, Kyiv reports continued attacks"
+    publisher: "Outlook"
+    date: 2026-10-12
+    url: "https://www.outlookindia.com/international/trump-announces-russia-ukraine-energy-ceasefire-kyiv-reports-continued-attacks"
+    primary: false
   - title: "Trump says Russia and Ukraine agreed to immediate energy ceasefire"
     publisher: "Axios"
     date: 2026-10-11
@@ -65,6 +91,11 @@ sources:
 verification:
   status: approved
   notes:
+    - "Update 3 pm IST 12 Oct: still no Kremlin confirmation of the energy truce found (Outlook 9:43 am IST and AP/NPR say Moscow had not confirmed). Peskov's Monday remarks on Zelenskyy were made to RIA Novosti per Focus.ua; the RIA/RBC originals were not opened. English wording is the Kyiv Post translation; Focus.ua's Russian text matches ('Пока что он этого не делает'). iz.ru and mail.ru versions failed to load."
+    - "Fontanka (citing Axios) says a White House official described the truce as a possible deal starting with refineries and said 'the Russians are thinking about it', and that Witkoff and Kushner postponed a trip to Russia. Not found in the Axios article itself (last modified 15:39 UTC 11 Oct); not used."
+    - "The Week (12 Oct) quotes Peskov calling the energy truce a 'very good idea' but gives no date; Russian outlets date that remark to mid-September. Not used."
+    - "EU sanctions: Reuters brief via 93.3 The Drive; Kallas quote from her X post as carried there. 'Largest package yet' framing carried over from the 8 am version."
+    - "Overnight strikes on 11-12 Oct: Ukrinform headlines mention an energy facility in the Kharkiv suburbs hit late Sunday and Izium hit overnight; casualty figures could not be matched to a dated article, so not added."
     - "No Kremlin reaction to Sunday's announcement was found as of about 8 am IST on 12 October (PBS/AP: Moscow did not immediately comment). Peskov's 8 October 'Achilles' heel' remark is from the Kyiv Independent (9 Oct)."
     - "Trump's post is quoted only in the two fragments Axios and CBS carried; the full Truth Social post was not opened."
     - "Zaporizhzhia toll: AP on 10 Oct said at least 20 killed incl. three children; Zelenskyy later said 23 incl. four children (CBS, PBS 11 Oct). The story uses Zelenskyy's later figure, attributed."
@@ -76,7 +107,7 @@ verification:
 
 US President Donald Trump said on Sunday that Russia and Ukraine had agreed to stop attacking each other's energy facilities, a day after he said Ukraine needed a new president. Ukrainian President Volodymyr Zelenskyy said he had not been told about any such deal.
 
-"Effective immediately, there is an ENERGY CEASEFIRE in the War between Russia and Ukraine," Trump wrote on Truth Social. "Both parties have agreed. Do not break it!" He gave no details of what had been agreed, or when. The Kremlin did not immediately comment.
+"Effective immediately, there is an ENERGY CEASEFIRE in the War between Russia and Ukraine," Trump wrote on Truth Social. "Both parties have agreed. Do not break it!" He gave no details of what had been agreed, or when. By Monday afternoon Moscow had not confirmed any such deal.
 
 Within hours, Zelenskyy said Russia was still hitting Ukraine's power system. A power plant in Kharkiv was attacked on Sunday evening, and his office confirmed the strike came after Trump's post.
 
@@ -84,7 +115,7 @@ Within hours, Zelenskyy said Russia was still hitting Ukraine's power system. A 
 
 Zelenskyy told Axios the announcement "was news for me. But if Russians agree to an energy ceasefire, Ukraine will agree." He added: "If President Trump negotiated it with Putin, please tell us when the ceasefire begins. We are ready, and we will accept it."
 
-He said Ukraine would stop striking Russian oil refineries if Moscow stopped attacking Ukraine's energy grid, and that the armed forces had received "all the appropriate orders". On X he wrote that "Ukraine wants peace" and that "the question is whether Russia does."
+He said Ukraine would stop striking Russian oil refineries if Moscow stopped attacking Ukraine's energy grid, and that the armed forces had received "all the appropriate orders".
 
 This is the second time in a month that Trump has announced such a truce. A similar claim on 14 September was not followed by any pause. Russia has said little in public. On 8 October Kremlin spokesman Dmitry Peskov said Kyiv wanted a ceasefire in "an area that is its Achilles' heel, the energy sector."
 
@@ -98,10 +129,14 @@ On Saturday Trump hit back. He blamed Zelenskyy for high US diesel prices and sa
 
 Zelenskyy replied on Sunday. "With all respect to President Trump, it's up to our society, up to our people to choose one or another leader," he told ABC's Jonathan Karl. He said elections were hard to hold in wartime, and made an offer: "Please tell Putin, give us two months, 60 days off. Total ceasefire, 60 days, and we will organise elections."
 
-Foreign Minister Andrii Sybiha said Zelenskyy was leading Ukraine through a war for independence and had the support of its people.
+## The Kremlin weighs in
+
+On Monday the Kremlin sided with Trump on Ukraine's leadership. "Trump said that, in his opinion, it is time for a new president," Kremlin spokesman Dmitry Peskov said. "Why? Because the president of Ukraine must make very responsible and very difficult decisions to stop this war."
+
+"Either Zelensky takes on that responsibility and demonstrates that political will, or he does not," Peskov added. "So far, he has not."
 
 ## Strikes go on
 
-Russian bombardments killed more than 60 people in Ukraine over four days to Saturday. Zelenskyy said a Russian bombing of Zaporizhzhia on Saturday killed 23 people, including four children. Ukrainian drones, for their part, shut down a Yandex data centre in Vladimir on Sunday, the third strike on the Russian tech company's sites in four days.
+Zelenskyy said a Russian bombing of Zaporizhzhia on Saturday killed 23 people, including four children. Ukrainian drones shut down a Yandex data centre in Vladimir on Sunday, the third strike on the Russian tech company's sites in four days.
 
-In Washington, six senators, four Republicans and two Democrats, urged the administration to "immediately reverse course" on buying Russian diesel. In Europe, Swedish Prime Minister Ulf Kristersson said Stockholm regretted the deal. The European Union is due to unveil its largest sanctions package against Russia yet, with 1,600 listings, on Monday.
+In Washington, six senators, four Republicans and two Democrats, urged the administration to "immediately reverse course" on buying Russian diesel. In Brussels on Monday, EU foreign ministers adopted nearly 1,600 new sanctions listings aimed at Russia's military industry, the bloc's largest package yet. "More than half are connected to the production chain for ballistic missiles," said Kaja Kallas, the EU's foreign policy chief.

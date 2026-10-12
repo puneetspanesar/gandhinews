@@ -7,11 +7,12 @@ section: world
 format_label: दुनिया / पश्चिम एशिया
 topics: []
 title: "ओमान के पास टैंकर पर ड्रोन हमला, दो भारतीय नाविक लापता"
-standfirst: "रविवार को दो टैंकरों पर हमला हुआ, जिन पर कुल 22 भारतीय सवार थे। दो दिन पहले शारजाह के पास 22 भारतीयों वाले एक और टैंकर को निशाना बनाया गया था। भारत ने हमलों की निंदा करते हुए तुरंत तनाव कम करने की अपील की है।"
+standfirst: "नाविकों की एक यूनियन ने दोनों के नाम बताए हैं और तुरंत जानकारी देने की मांग की है। रविवार को जिन दो टैंकरों पर हमला हुआ, उन पर कुल 22 भारतीय सवार थे। भारत ने हमलों की निंदा करते हुए तनाव कम करने की अपील की है।"
 published: 2026-10-12T07:00:00+05:30
+updated: 2026-10-12T15:00:00+05:30
 location: नई दिल्ली
 keyPoints:
-  - "11 अक्टूबर को ओमान के सोहार एंकरेज पर एमटी पेट्रो डॉल्फिन पर ड्रोन हमला हुआ; **11 भारतीय चालक दल में से दो लापता हैं** और नौ को बचा लिया गया।"
+  - "11 अक्टूबर को ओमान के सोहार एंकरेज पर एमटी पेट्रो डॉल्फिन पर ड्रोन हमला हुआ; **बीर बहादुर यादव और अमित सिंह अब भी लापता हैं**, जबकि नौ भारतीयों को बचा लिया गया।"
   - "होर्मुज जलडमरूमध्य में एक अज्ञात प्रोजेक्टाइल लगने से एमटी वाल्थेरा में आग लगी; **उस पर सवार सभी 11 भारतीय सुरक्षित हैं**।"
   - "9 अक्टूबर को शारजाह एंकरेज पर एमटी जेम नंबर 2 पर ड्रोन हमला हुआ; **सवार सभी 22 भारतीय सुरक्षित हैं**।"
   - "विदेश मंत्रालय ने कहा कि व्यापारिक जहाजों, नाविकों और नागरिक ढांचे पर हमले **बंद होने चाहिए**, और तुरंत तनाव कम करने की अपील की।"
@@ -20,11 +21,31 @@ hero:
   suggested_source: "Wikimedia Commons search 'oil tanker Strait of Hormuz' or 'tanker Gulf of Oman'"
   alt: "होर्मुज जलडमरूमध्य में एक तेल टैंकर"
   overlay:
-    value: "ओमान के पास 2 भारतीय नाविक लापता"
+    value: "लापता 2 भारतीयों की अब तक खबर नहीं"
 related: [india-condemns-houthi-attacks-saudi-airports-riyadh, rupee-near-97-as-crude-stays-above-100]
 seo:
-  description: "ओमान के पास एमटी पेट्रो डॉल्फिन पर ड्रोन हमले के बाद दो भारतीय नाविक लापता हैं। होर्मुज में 11 भारतीयों वाले दूसरे टैंकर में आग लगी। भारत ने हमलों की निंदा की।"
+  description: "ओमान के पास एमटी पेट्रो डॉल्फिन पर ड्रोन हमले के बाद भारतीय नाविक बीर बहादुर यादव और अमित सिंह अब भी लापता हैं। एक यूनियन ने तुरंत जानकारी मांगी है।"
 sources:
+  - title: "Seafarers Union seeks 'urgent status update' on two Indian seafarers missing after attack on commercial vessel in Hormuz (ANI)"
+    publisher: "The Tribune"
+    date: 2026-10-12
+    url: "https://www.tribuneindia.com/news/world/seafarers-union-seeks-urgent-status-update-on-two-indian-seafarers-missing-after-attack-on-commercial-vessel-in-hormuz/"
+    primary: false
+  - title: "Seafarers Union seeks 'urgent status update' on two Indian seafarers missing (ANI)"
+    publisher: "Gulf News"
+    date: 2026-10-12
+    url: "https://gulfnews.com/world/mena/2-indian-seafarers-missing-after-hormuz-attack-seafarers-union-seeks-urgent-status-update-1.500706956"
+    primary: false
+  - title: "Two Indian sailors missing after drone strike off Oman; union reveals identities, seeks answers"
+    publisher: "The Statesman"
+    date: 2026-10-12
+    url: "https://www.thestatesman.com/india/two-indian-sailors-missing-after-drone-strike-off-oman-union-reveals-identities-seeks-answers-1503650004.html"
+    primary: false
+  - title: "Two Indian Seafarers Missing After Drone Attack on Nicaragua-Bound Tanker"
+    publisher: "The Wire"
+    date: 2026-10-12
+    url: "https://m.thewire.in/article/world/two-indian-seafarers-missing-after-drone-attack-on-nicaragua-bound-tanker"
+    primary: false
   - title: "India condemns attacks on two vessels in Hormuz region, calls for de-escalation (ANI)"
     publisher: "ANI"
     date: 2026-10-12
@@ -93,6 +114,7 @@ sources:
 verification:
   status: approved
   notes:
+    - "Update 3 pm IST 12 Oct: see EN notes (names from the union via ANI; union name conflict; Oil on edge section removed). FSUI quote translated from English."
     - "No MEA text was opened on mea.gov.in (the site returned an error). All MEA wording of 11 Oct comes from ANI copy as carried by ANI and The Tribune; both agree. Quote fragments only were used, because the fetch tool returned the statement in segments. Check the full statement on mea.gov.in before publishing."
     - "Sonowal and Embassy of India, Muscat quotes are from their X posts as quoted by ANI and Telangana Today; the posts themselves were not opened."
     - "Missing seafarers: no update found as of about 7 am IST on 12 October. Names, ranks and home states of the two missing men were not found in any source."
@@ -109,7 +131,7 @@ verification:
     - "Fact-check 12 Oct: re-checked ANI (Sonowal and MEA), Maritime Executive, Daily Jagran, Sunday Guardian live blog and anews (Turkey), all last updated about 1 am IST on 12 Oct. No update on the two missing men, no names and no claim of responsibility found as of about 8 am IST. Daily Jagran (citing a Marine Tanks post) says Petro Dolphin had 12 crew incl. one Bangladeshi and gives the strike time as about 11:30 am local; single source, not used. MEA fragments ('safety and security... remain a priority', 'must cease') confirmed in ANI copy. No changes to copy."
 ---
 
-सोमवार सुबह तक दो भारतीय नाविक लापता थे। रविवार, 11 अक्टूबर को ओमान के सोहार एंकरेज पर टैंकर एमटी पेट्रो डॉल्फिन पर ड्रोन से हमला हुआ था। केंद्रीय बंदरगाह, पोत परिवहन और जलमार्ग मंत्री सर्बानंद सोनोवाल ने बताया कि चालक दल के बाकी नौ भारतीय सदस्यों को बचा लिया गया है और वे सुरक्षित हैं।
+सोमवार दोपहर तक दो भारतीय नाविक लापता थे। नाविकों की एक यूनियन ने उनके नाम बीर बहादुर यादव और अमित सिंह बताए हैं। रविवार, 11 अक्टूबर को ओमान के सोहार एंकरेज पर टैंकर एमटी पेट्रो डॉल्फिन पर ड्रोन से हमला हुआ था। केंद्रीय बंदरगाह, पोत परिवहन और जलमार्ग मंत्री सर्बानंद सोनोवाल ने बताया कि चालक दल के बाकी नौ भारतीय सदस्यों को बचा लिया गया है और वे सुरक्षित हैं।
 
 रविवार को भारतीय चालक दल वाले दो टैंकरों पर हमला हुआ। मार्शल आइलैंड्स के झंडे वाले टैंकर एमटी वाल्थेरा पर होर्मुज जलडमरूमध्य में एक अज्ञात प्रोजेक्टाइल गिरा, जिससे जहाज़ पर आग लग गई। उस पर सवार सभी 11 भारतीय नाविक सुरक्षित हैं। इससे दो दिन पहले, 9 अक्टूबर को, शारजाह एंकरेज पर पनामा के झंडे वाले कच्चे तेल के टैंकर एमटी जेम नंबर 2 पर ड्रोन हमला हुआ था। उस पर सवार सभी 22 भारतीय सुरक्षित हैं।
 
@@ -129,11 +151,13 @@ verification:
 
 ## सोहार के पास तलाश
 
-सोनोवाल ने एक्स पर लिखा, "स्थानीय तटरक्षक बल खोज और बचाव अभियान सक्रिय रूप से चला रहा है।" उन्होंने कहा कि सरकार सभी संबंधित एजेंसियों के साथ मिलकर काम कर रही है ताकि "हमारे लापता कर्मियों को सुरक्षित ढूंढा जा सके"। मस्कट में भारतीय दूतावास ने कहा कि वह "संबंधित अधिकारियों के साथ लगातार और करीबी संपर्क में है"। दूतावास ओमान के अधिकारियों और जहाज़ प्रबंधन कंपनियों के साथ तालमेल कर रहा है। सोमवार सुबह तक दोनों लापता नाविकों के बारे में कोई नई जानकारी सार्वजनिक नहीं हुई थी।
+सोनोवाल ने एक्स पर लिखा, "स्थानीय तटरक्षक बल खोज और बचाव अभियान सक्रिय रूप से चला रहा है।" उन्होंने कहा कि सरकार सभी संबंधित एजेंसियों के साथ मिलकर काम कर रही है ताकि "हमारे लापता कर्मियों को सुरक्षित ढूंढा जा सके"। मस्कट में भारतीय दूतावास ने कहा कि वह "संबंधित अधिकारियों के साथ लगातार और करीबी संपर्क में है"। दूतावास ओमान के अधिकारियों और जहाज़ प्रबंधन कंपनियों के साथ तालमेल कर रहा है। सोमवार दोपहर तक दोनों नाविकों के बारे में कोई नई जानकारी सार्वजनिक नहीं हुई थी।
+
+फ़ॉरवर्ड सीमेन्स यूनियन ऑफ़ इंडिया (एफ़एसयूआई) ने एक्स पर लिखा कि वह "एमटी पेट्रो डॉल्फिन के 2 लापता भारतीय नाविकों के बारे में तुरंत जानकारी का इंतज़ार कर रही है"। यूनियन ने उनकी स्थिति की फ़ौरन पुष्टि करने और उनके परिवारों की मदद की मांग की।
 
 ## हमलों के पीछे कौन
 
-न विदेश मंत्रालय ने और न ही सोनोवाल ने किसी हमलावर का नाम लिया। सोमवार सुबह तक रविवार के हमलों की ज़िम्मेदारी लेने की कोई खबर नहीं थी। सोहार पर हुए हमले को संदिग्ध ईरानी हमला बताया गया है, जो होर्मुज के आसपास के मुख्य संघर्ष क्षेत्र से काफी दूर हुआ। खबरों के मुताबिक, ईरान के रिवोल्यूशनरी गार्ड्स की नौसेना ने पिछले हफ्ते धमकी दी थी कि ईरान की अनुमति के बिना होर्मुज पार करने वाले जहाज़ों का "पूरे इलाके में" पीछा किया जाएगा।
+न विदेश मंत्रालय ने और न ही सोनोवाल ने किसी हमलावर का नाम लिया। सोमवार दोपहर तक रविवार के हमलों की ज़िम्मेदारी लेने की कोई खबर नहीं थी। सोहार पर हुए हमले को संदिग्ध ईरानी हमला बताया गया है, जो होर्मुज के आसपास के मुख्य संघर्ष क्षेत्र से काफी दूर हुआ। खबरों के मुताबिक, ईरान के रिवोल्यूशनरी गार्ड्स की नौसेना ने पिछले हफ्ते धमकी दी थी कि ईरान की अनुमति के बिना होर्मुज पार करने वाले जहाज़ों का "पूरे इलाके में" पीछा किया जाएगा।
 
 ईरान से जुड़ा युद्ध फरवरी के आखिर में शुरू हुआ था। खबरों के मुताबिक, अक्टूबर की शुरुआत में होर्मुज में जहाज़ों पर ईरानी हमले युद्ध शुरू होने के बाद किसी भी समय से ज़्यादा हुए।
 
@@ -146,7 +170,3 @@ verification:
 ## भारतीय नाविकों के लिए नियम
 
 समुद्री प्रशासन महानिदेशालय (डीजीएमए) की 5 अगस्त की एडवाइज़री के तहत, जो कंपनियां भारतीय नाविकों को होर्मुज से गुज़रने वाली यात्राओं पर भेजती हैं, उन्हें डीजी संचार केंद्र को सूचना देनी होगी और हर नाविक की सहमति लेनी होगी। खाड़ी में जहाज़ों के कप्तानों को "सुरक्षा को लेकर बढ़ी हुई सतर्कता" बरतनी होगी। इस एडवाइज़री ने 15 जुलाई के उस आदेश की जगह ली, जिसमें ऐसी तैनाती पर पूरी तरह रोक लगा दी गई थी।
-
-## तेल बाज़ार में बेचैनी
-
-रविवार के हमलों से पहले आखिरी कारोबारी दिन, शुक्रवार 9 अक्टूबर को, ब्रेंट क्रूड वायदा 102.95 डॉलर प्रति बैरल पर था। भारतीय रिज़र्व बैंक आज से इंडियन ऑयल, एचपीसीएल और बीपीसीएल को उनकी रोज़ की आयात ज़रूरतों के लिए सीधे डॉलर बेचना शुरू करने वाला है।

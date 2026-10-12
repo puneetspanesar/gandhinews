@@ -5,187 +5,154 @@ type: news
 section: politics
 format_label: "Politics / Opposition"
 topics: [electoral-rolls-sir, election-commission, supreme-court]
-title: "INDIA bloc marches to Supreme Court today after CJI declines to meet its leaders"
-standfirst: "Opposition leaders plan to gather in Connaught Place at 1:30 pm and walk to the court over the SIR and the CEC. Six Metro stations are shut and police have announced diversions."
+title: "INDIA bloc leaders march in Delhi, turn to Supreme Court petition against CEC"
+standfirst: "Rahul Gandhi, Mallikarjun Kharge, Priyanka Gandhi Vadra and Mamata Banerjee led opposition MPs through central Delhi on Monday. With the Chief Justice declining a meeting, the bloc said it would file a petition instead."
 published: 2026-10-12T07:00:00+05:30
+updated: 2026-10-12T14:45:00+05:30
 location: New Delhi
 keyPoints:
-  - "Opposition leaders are due to assemble at the **Connaught Place-Barakhamba Road junction at 1:30 pm** and march to the Supreme Court."
-  - "Chief Justice Surya Kant has **declined a 4-5 pm meeting** sought by Rahul Gandhi and Mallikarjun Kharge, advising them to file a petition as the matter is sub judice."
-  - "The bloc wants the **resignation of CEC Gyanesh Kumar**, a halt to the SIR of electoral rolls and a return to paper ballots."
-  - "Entry and exit at **six central Delhi Metro stations** are closed from 6 am to 4 pm, and traffic police have flagged 30 points for diversions."
+  - "Opposition leaders and MPs marched through central Delhi and gathered at the **Constitution Club of India** on Monday afternoon."
+  - "Rahul Gandhi said the bloc would **file a petition in the Supreme Court** against CEC Gyanesh Kumar, after the Chief Justice declined to meet them."
+  - "In court, CJI Surya Kant said the **Supreme Court should not be dragged** into the protests and lawyers must be able to move freely."
 hero:
-  need: "Rahul Gandhi with INDIA bloc MPs marching in New Delhi, or opposition leaders at Vijay Chowk after meeting the President on 9 October"
-  suggested_source: "PTI / ANI wire photos of 12 October march; Wikimedia Commons search 'Rahul Gandhi march Delhi'"
-  alt: "Opposition leaders led by Rahul Gandhi on a protest march in New Delhi"
+  need: "Rahul Gandhi, Priyanka Gandhi Vadra, Mallikarjun Kharge and Mamata Banerjee with INDIA bloc MPs at the Constitution Club of India or on the march in central Delhi, 12 October"
+  suggested_source: "Wikimedia Commons search 'Rahul Gandhi protest march Delhi' or 'Constitution Club of India'"
+  alt: "INDIA bloc leaders led by Rahul Gandhi on a protest march in central Delhi"
   overlay:
-    value: "CJI says no to meeting; march goes ahead"
+    value: "From memorandum to petition"
 related: [supreme-court-orders-metro-internet-restored-after-cjp-protest-detentions, what-is-the-cockroach-janta-party, election-commission-dissent-report-move-to-remove-cec, sir-phase-three-draft-rolls-names-dropped-by-state, how-chief-election-commissioner-is-appointed-removed, mea-rejects-un-rights-office-remarks-delhi-protest-detentions, electoral-rolls-sir, election-commission]
 seo:
-  description: "INDIA bloc leaders march from Connaught Place to the Supreme Court on 12 October over the SIR and CEC Gyanesh Kumar, after the CJI declined to meet them."
+  description: "INDIA bloc leaders led by Rahul Gandhi and Mamata Banerjee marched in Delhi on 12 October and moved to file a Supreme Court petition against CEC Gyanesh Kumar after the CJI declined to meet them."
 sources:
-  - title: "INDIA bloc to step up fight over voting rights, announces Delhi protest on Monday (PTI)"
-    publisher: "Business Today"
-    date: 2026-10-10
-    url: "https://www.businesstoday.in/india/story/india-bloc-to-step-up-fight-over-voting-rights-announces-delhi-protest-on-monday-560816-2026-10-10"
-    primary: false
-  - title: "Opposition bloc calls protest on October 12"
-    publisher: "The Week"
-    date: 2026-10-10
-    url: "https://www.theweek.in/news/india/2026/10/10/opposition-bloc-protest-october-12.html"
-    primary: false
-  - title: "CJI Surya Kant declines INDIA bloc's proposed 'vote chori' discussion ahead of SC protest march on Monday"
-    publisher: "The Week"
-    date: 2026-10-11
-    url: "https://www.theweek.in/news/india/2026/10/11/opposition-to-march-to-supreme-court-on-monday-rahul-gandhi-to-submit-memorandum-with-3-key-demands.html"
-    primary: false
-  - title: "CJI rejects INDIA bloc leaders' request for meeting, asks them to file petition in court"
+  - title: "INDIA bloc stages mega protest march from Connaught Place against Election Commission; vows to move Supreme Court"
     publisher: "ANI"
-    date: 2026-10-11
-    url: "https://www.aninews.in/news/national/politics/cji-rejects-india-bloc-leaders8217-request-for-meeting-asks-them-to-file-petition-in-court20261011223531/"
+    date: 2026-10-12
+    url: "https://aninews.in/news/national/politics/india-bloc-stages-mega-protest-march-from-connaught-place-against-election-commission-vows-to-move-supreme-court20261012134525/"
+    primary: false
+  - title: "INDIA Bloc leaders reach Constitution Club in Delhi; Rahul Gandhi calls for action against 'Vote Theft'"
+    publisher: "ANI"
+    date: 2026-10-12
+    url: "https://www.aninews.in/news/national/politics/india-bloc-leaders-reach-constitution-club-in-delhi-rahul-gandhi-calls-for-action-against-vote-theft20261012140608/"
+    primary: false
+  - title: "\"We are demanding justice\": INDIA bloc leaders gather for massive protest against EC"
+    publisher: "ANI"
+    date: 2026-10-12
+    url: "https://www.aninews.in/news/national/politics/we-are-demanding-justice-india-bloc-leaders-gather-for-massive-protest-against-ec16020261012134934/"
+    primary: false
+  - title: "INDIA bloc begins Delhi protest march, plans Supreme Court petition"
+    publisher: "The News Mill"
+    date: 2026-10-12
+    url: "https://thenewsmill.com/2026/10/opposition-india-bloc-begins-protest-march-in-delhi-plans-supreme-court-petition/"
+    primary: false
+  - title: "India bloc leaders march to Supreme Court against alleged vote theft"
+    publisher: "The News Mill"
+    date: 2026-10-12
+    url: "https://thenewsmill.com/2026/10/india-bloc-leaders-march-to-supreme-court-against-alleged-vote-theft/"
+    primary: false
+  - title: "INDIA bloc leaders to file petition against CEC Gyanesh Kumar in SC: Rahul (PTI)"
+    publisher: "ThePrint"
+    date: 2026-10-12
+    url: "https://theprint.in/india/india-bloc-leaders-to-file-petition-against-cec-gyanesh-kumar-in-sc-rahul/3069061/"
+    primary: false
+  - title: "Govt protecting Gyanesh Kumar, turning Delhi into a prison: Rahul Gandhi"
+    publisher: "Business Standard"
+    date: 2026-10-12
+    url: "https://www.business-standard.com/amp/india-news/rahul-gandhi-congress-gyanesh-kumar-eci-jantar-mantar-protests-students-sir-126101200360_1.html"
+    primary: false
+  - title: "INDIA bloc to move Supreme Court against CEC at 3 pm, Rahul alleges government shielding Kumar"
+    publisher: "Millennium Post"
+    date: 2026-10-12
+    url: "https://www.millenniumpost.in/big-stories/india-bloc-to-move-supreme-court-against-cec-at-3-pm-rahul-alleges-government-shielding-kumar-679481"
+    primary: false
+  - title: "From memorandum to petition, INDIA bloc changes Supreme Court strategy after CJI refuses meeting"
+    publisher: "NewsDrum"
+    date: 2026-10-12
+    url: "https://newsdrum.in/national/from-memorandum-to-petition-india-bloc-changes-supreme-court-strategy-after-cji-refuses-meeting-12668161"
+    primary: false
+  - title: "INDIA Bloc Protest Live Updates"
+    publisher: "Aaj Tak"
+    date: 2026-10-12
+    url: "https://www.aajtak.in/india/news/story/india-bloc-march-rahul-gandhi-cjp-protest-date-cji-suryakant-delhi-metro-ntc-acwi-2668014-2026-10-12"
+    primary: false
+  - title: "There Should Be No Impediment In Movement Of Lawyers, Court Staff: CJI Surya Kant Amid CEC Protests"
+    publisher: "LiveLaw"
+    date: 2026-10-12
+    url: "https://www.livelaw.in/top-stories/there-should-be-no-impediment-in-movement-of-lawyers-court-staff-cji-surya-kant-amid-cec-protests-554204"
+    primary: false
+  - title: "'Supreme Court should not be dragged...': CJI Surya Kant after denying INDIA bloc meeting request"
+    publisher: "Business Today"
+    date: 2026-10-12
+    url: "https://www.businesstoday.in/india/story/supreme-court-should-not-be-dragged-cji-surya-kant-after-denying-india-bloc-meeting-request-560969-2026-10-12"
+    primary: false
+  - title: "Jantar Mantar de-notified as protest venue by Delhi Police; three new venues designated"
+    publisher: "Bar & Bench"
+    date: 2026-10-12
+    url: "https://www.barandbench.com/news/jantar-mantar-de-notified-as-protest-venue-by-delhi-police-three-new-venues-designated"
     primary: false
   - title: "'Respect the decision but will march to Supreme Court': KC Venugopal as CJI rejects INDIA bloc's request for meeting"
     publisher: "ANI"
     date: 2026-10-12
     url: "https://aninews.in/news/national/politics/respect-the-decision-but-will-march-to-supreme-court-kc-venugopal-as-cji-rejects-india-blocs-request-for-meeting20261012023615/"
     primary: false
-  - title: "CJI Surya Kant declines INDIA bloc leaders' request for meeting ahead of march to SC, asks them to file petition"
-    publisher: "WION"
-    date: 2026-10-12
-    url: "https://www.wionews.com/india-news/cji-surya-kant-declines-india-bloc-leaders-request-for-meeting-ahead-of-march-to-sc-asks-them-to-file-petition-1791745229102"
-    primary: false
-  - title: "Opposition stir today, CJI no to Cong. meet"
-    publisher: "Deccan Chronicle"
-    date: 2026-10-11
-    url: "https://www.deccanchronicle.com/nation/current-affairs/cji-does-not-agree-to-meet-rahul-kharge-oppn-march-today-1994992"
-    primary: false
-  - title: "Congress plans Supreme Court march after CJI rejects INDIA bloc request"
-    publisher: "The News Mill"
-    date: 2026-10-11
-    url: "https://thenewsmill.com/2026/10/congress-plans-supreme-court-march-after-cji-rejects-india-bloc-meeting-request/"
-    primary: false
-  - title: "Is there a protest in Delhi today, October 12?"
-    publisher: "The Sunday Guardian"
-    date: 2026-10-12
-    url: "https://sundayguardianlive.com/india/is-there-a-protest-in-delhi-today-october-12-rahul-gandhi-and-india-bloc-plan-march-towards-supreme-court-check-assembly-point-timing-metro-stations-traffic-advisory-and-more-303778/"
-    primary: false
-  - title: "INDIA bloc leaders to march to Supreme Court today, submit memorandum to CJI"
-    publisher: "Deccan Herald"
-    date: 2026-10-10
-    url: "https://www.deccanherald.com/india/india-bloc-leaders-to-march-to-supreme-court-today-submit-memorandum-to-cji-4178138"
-    primary: false
-  - title: "Delhi metro closes 6 major stations ahead of Opposition's Supreme Court march today"
-    publisher: "Business Today"
-    date: 2026-10-12
-    url: "https://www.businesstoday.in/india/story/delhi-metro-stations-closed-opposition-supreme-court-march-october-2026-560891-2026-10-12"
-    primary: false
   - title: "Delhi Metro shuts entry, exit at six stations amid Congress' call for protest march"
     publisher: "ANI"
     date: 2026-10-12
     url: "https://aninews.in/news/national/general-news/delhi-metro-shuts-entry-exit-at-six-stations-amid-congress-call-for-protest-march20261012051859/"
-    primary: false
-  - title: "Delhi Traffic Police warn of diversions on October 12 amid Congress protest march"
-    publisher: "The News Mill"
-    date: 2026-10-12
-    url: "https://thenewsmill.com/2026/10/delhi-traffic-police-warn-of-diversions-on-october-12-amid-congress-protest-march/"
-    primary: false
-  - title: "Protecting citizens' right to vote our resolve: DK Shivakumar on Congress' call for protest on Oct 12"
-    publisher: "ANI"
-    date: 2026-10-12
-    url: "https://aninews.in/news/national/politics/protecting-citizens8217-right-to-vote-our-resolve-dk-shivakumar-on-congress-call-for-protest-on-oct-1220261012035553/"
-    primary: false
-  - title: "Karnataka CM Shivakumar pledges protection of voting rights ahead of Oct 12 Delhi protest"
-    publisher: "The CSR Journal"
-    date: 2026-10-12
-    url: "https://thecsrjournal.in/karnataka-cm-shivakumar-pledges-protection-of-voting-rights-ahead-of-oct-12-delhi-protest"
     primary: false
   - title: "BJP's Sambit Patra calls Rahul Gandhi 'nalayak neta' over memorandum to President"
     publisher: "The News Mill"
     date: 2026-10-10
     url: "https://thenewsmill.com/2026/10/bjps-sambit-patra-calls-rahul-gandhi-nalayak-neta-over-memorandum-to-president/"
     primary: false
-  - title: "'Anarchist' Rahul tried to drag President to street protest: Sambit Patra"
-    publisher: "Asianet Newsable"
-    date: 2026-10-10
-    url: "https://newsable.asianetnews.com/india/anarchist-rahul-tried-to-drag-president-to-street-protest-sambit-patra-articleshow-c5hw3ti"
-    primary: false
-  - title: "INDIA bloc to hold massive 'vote chori' protest in Delhi on October 12, Rahul Gandhi plans to approach CJI"
-    publisher: "Free Press Journal"
-    date: 2026-10-10
-    url: "https://www.freepressjournal.in/india/india-bloc-to-hold-massive-vote-chori-protest-in-delhi-on-october-12-rahul-gandhi-plans-to-approach-cji"
-    primary: false
-  - title: "ECI debunks 'fake allegations' amid SIR row, says '13 crore voter deletion claim misleading'"
-    publisher: "Free Press Journal"
-    date: 2026-10-02
-    url: "https://www.freepressjournal.in/india/eci-debunks-fake-allegations-amid-sir-row-says-13-crore-voter-deletion-claim-misleading"
-    primary: false
 verification:
   status: approved
   notes:
-    - "Assembly point conflict: Deccan Chronicle, WION and The Sunday Guardian (citing The Times of India) give the Connaught Place-Barakhamba Road junction at 1:30 pm. The Week (citing Hindustan Times) said leaders would gather at India Gate. We used the majority version; check before the march starts."
-    - "No report seen by 7 am said whether Delhi Police have granted permission for the march. Left out."
-    - "CJI's reply: the decline, the email and the 'file a petition, matter is sub judice' advice appear in ANI, WION, The News Mill and Business Today. The reasons (sub judice, judicial rather than administrative route) rest on unnamed sources cited by ANI and LiveLaw (via WION); worded as what the reply reportedly said. Business Today alone says a petition could be heard the next day; left out. Deccan Chronicle quotes an unnamed source on the email; not used."
-    - "The 4-5 pm slot is from WION and Deccan Chronicle; The Week (citing HT) said 'after 4 pm'."
-    - "Demands: paper ballots is in WION, Deccan Chronicle and Business Today; Tharoor's list (ANI, News Mill) adds restoring deleted voters. The President memorandum (9 Oct) also sought scrapping of assembly polls of the last two years (WION, FPJ)."
-    - "Venugopal's 'We respect that decision...' remarks: ANI dates the story 12 Oct (2:36 am) but he says 'tomorrow', so they were made on 11 Oct. Written as Sunday."
-    - "Shivakumar spoke in Mysuru; ANI's dateline is 12 October but the remarks were probably made on 11 October. Written as 'on the eve of the march'. Quote is from ANI; The CSR Journal carries a paraphrase of the same remarks."
-    - "Akhilesh Yadav's expected participation rests on The Week and Deccan Chronicle; Mamata Banerjee staying back on Rahul Gandhi's request is from Deccan Herald and The Week."
-    - "BJP response: Sambit Patra's 10 Oct quote confirmed in The News Mill and Asianet Newsable. Sukanta Majumdar's 'cockroach' remark (ANI) and Rekha Gupta's comments (paraphrase only) not used for space. Nothing found from the BJP or ECI on the 12 Oct march itself."
-    - "ECI's 2 Oct statement is from Free Press Journal only, hedged as reported. No ECI response to the march found."
-    - "Tharoor's '130 million' figure and the bloc's '13.30 crore' deletion figure not used; the ECI disputes the basis of the 13 crore figure."
-    - "Fact-check 12 Oct: Assembly point and time (Connaught Place-Barakhamba Road junction, 1:30 pm) now confirmed by PTI (ThePrint, Business Standard, 11 Oct night) and India TV as well; India Gate (The Week) remains the outlier. No change of venue or time found as of 8 am. Still no report on Delhi Police permission. Metro list, 6 am-4 pm window, interchange and DMRC wording checked against ANI and Business Today; 30 diversion points and travel advice checked against ANI and Business Today. Rahul Gandhi X quote checked word for word (PTI, The Week, WION, Deccan Chronicle). Venugopal quotes (ANI; PTI via Business Today), Shivakumar quote (ANI), Patra quote (The News Mill) all verified verbatim; the Venugopal 11 Oct quote's first sentence is truncated at a comma in the original. Mamata Banerjee's 10 Oct detention confirmed (Deccan Herald, ThePrint, The Quint). India TV also says a petition could be heard with the SIR matters on Tuesday (now two outlets with Business Today); still left out as it rests on unnamed sources. Changed: timeline entry for 2 Oct hedged ('reported to') to match the body, since the ECI statement rests on Free Press Journal only."
+    - "Rewritten at about 2:45 pm from the 7 am preview. Latest fact used: The News Mill (ANI inputs), 2:37 pm, that the march was under way from the Constitution Club with Rahul Gandhi, Priyanka Gandhi Vadra and Mamata Banerjee present. No report seen by 2:45 pm says the march reached the Supreme Court, that the petition has been filed, or that anyone was detained on Monday. Recheck before the 4 pm Metro window ends."
+    - "Route conflict: ANI (1:45 pm) says the march started from Connaught Place; ANI (2:06 pm) says leaders marched through central Delhi to the Constitution Club; The News Mill (2:37 pm) says the march began from the Constitution Club. Aaj Tak (10:54 am) has Kharge asking people to gather at the Constitution Club at 1 pm. Body written to cover both: supporters gathered at Connaught Place, leaders at the Constitution Club. Exact route to the court not reported."
+    - "Kharge's presence: ANI (2:06 pm) lists him among those at the march; The News Mill (2:37 pm) names only Rahul Gandhi, Priyanka Gandhi Vadra and Mamata Banerjee as arriving at the Constitution Club. Akhilesh Yadav and Tejashwi Yadav are described only as backing the march; not stated as present."
+    - "3 pm filing time: Millennium Post and Aaj Tak headline. Venugopal's 'registry between 10 and 4' is from ANI. Filing not confirmed at time of writing."
+    - "Press conference venue: PTI (ThePrint) and Business Standard say Indira Bhawan, New Delhi. The Week says Mumbai, which looks like an error; not used."
+    - "Rahul Gandhi's '200 officers' claim not used: unverified, offered without evidence."
+    - "CJI's remarks were made in court when senior advocates mentioned petitions on detention of lawyers (LiveLaw, 11:20 am; Business Today). Quotes verbatim from LiveLaw. The 'petition could be heard Tuesday' line rests on unnamed sources; not used."
+    - "No crowd or detention figures for Monday found. No BJP or ECI response to Monday's march found by 2:45 pm; Patra's 10 October quote used as context, dated."
+    - "Jantar Mantar order: Bar & Bench, standing order dated 11 October by Commissioner Anurag Kumar; venues Ramlila Ground, Burari Ground, CBD Ground (East Delhi). Also in ANI."
+    - "Indian Youth Congress petition in Delhi High Court over Jantar Mantar permission rests on Aaj Tak only; left out."
+    - "Mamata Banerjee: ANI calls her former West Bengal CM; she is described here as Trinamool Congress chief, as in the earlier version."
+    - "Infographic and timeline blocks from the preview dropped: no longer about the day's travel and the story runs without a block."
 ---
 
-Leaders of the opposition INDIA bloc are due to march to the Supreme Court in New Delhi this afternoon to protest against the Special Intensive Revision (SIR) of electoral rolls and to demand that Chief Election Commissioner (CEC) Gyanesh Kumar resign.
+Leaders of the opposition INDIA bloc marched through central Delhi on Monday afternoon against Chief Election Commissioner (CEC) Gyanesh Kumar and the Special Intensive Revision (SIR) of electoral rolls, and said they would take their fight to the Supreme Court as a formal petition.
 
-They had hoped to hand a memorandum to Chief Justice of India Surya Kant. He has declined to meet them. The bloc says it will march anyway.
+Lok Sabha Leader of the Opposition Rahul Gandhi, Congress president Mallikarjun Kharge, Priyanka Gandhi Vadra and Trinamool Congress chief Mamata Banerjee were among those who gathered at the Constitution Club of India, as Congress workers and supporters assembled at Connaught Place. As of 2:45 pm, the march was under way under heavy police deployment, with barricades across central Delhi. No detentions had been reported.
 
-## The plan for today
+The bloc had planned to hand a memorandum to Chief Justice of India Surya Kant. He declined to meet its leaders, saying the issues were already before the court. The plan changed accordingly.
 
-Congress has called the protest "Chalo Delhi, March for Democracy". Leaders are to assemble at the Connaught Place-Barakhamba Road junction at 1:30 pm and walk towards the Supreme Court. Rahul Gandhi, Leader of the Opposition in the Lok Sabha, has asked young people, opposition parties and civil society groups to join.
+## From memorandum to petition
 
-Trinamool Congress chief Mamata Banerjee, who was among those detained on Saturday, has stayed on in Delhi at Gandhi's request. Samajwadi Party chief Akhilesh Yadav is expected to take part.
+"We had written a letter to the CJI. He directed us to file a petition," Gandhi said. Speaking to reporters at the Congress headquarters, Indira Bhawan, before the march, he said INDIA bloc leaders would go to the court together and file it at 3 pm. "We will not back down, we are standing with the truth," he said.
 
-> Tomorrow, we will march to the Supreme Court as Indians, united beyond party, gender, caste, community and state.
->
-> Source: Rahul Gandhi, Leader of the Opposition, Lok Sabha, on X, 11 October 2026
+Congress general secretary K C Venugopal called the protest the "biggest andolan against the Election Commissioner and the election system" and said the Chief Justice's office had told the party the registry could receive its petition between 10 and 4. "We will proceed according to what the CJI has said, and we will file the petition. We have faith in the court," said Congress MP Rajeev Shukla.
 
-```infographic
-{"title":"Getting around central Delhi today","items":[{"icon":"map-pin","value":"1:30 pm","label":"Assembly","text":"Connaught Place-Barakhamba Road junction, then on foot to the Supreme Court."},{"icon":"train","value":"6","label":"Metro stations shut","text":"Patel Chowk, Janpath, Rajiv Chowk, Mandi House, Central Secretariat and Barakhamba Road, 6 am to 4 pm. Interchange stays open."},{"icon":"truck","value":"30","label":"Traffic points","text":"Diversions from 6 am across New Delhi and Central Delhi, depending on the situation on the ground."},{"icon":"warning","value":"Extra time","label":"For travellers","text":"Police advise extra time for trips to railway stations, ISBTs and the airport via central Delhi."}]}
-```
+Gandhi asked the CEC to step down. "Resign, turn approver; you have made a mistake but you are not the mind behind the mistake," he said. He also questioned the security measures of the past few days: "Why is Delhi jailed?"
 
-The Delhi Metro Rail Corporation said the closures were "due to security reasons" and that the situation "will be reviewed by the security agencies". Delhi Traffic Police have advised commuters to avoid non-essential travel in the area.
+## On the streets
 
-## Why the Chief Justice said no
+"We are demanding justice, nothing else," Mamata Banerjee said. Shiv Sena (UBT) MP Sanjay Raut said his party was "with what Rahul Gandhi does", and Samajwadi Party MP Mohibbullah Nadvi called the protest "the people's battle". Akhilesh Yadav and Tejashwi Yadav backed the march.
 
-Gandhi and Congress president Mallikarjun Kharge had written to the Chief Justice seeking an appointment between 4 pm and 5 pm today. The reply, sent by email on Sunday, reportedly told them the issues were already sub judice and would be better addressed through a petition in court than a memorandum on the administrative side.
+Congress MP Renuka Chowdhury condemned the police clampdown, saying the government was "declaring us unlawful". Delhi Metro kept entry and exit closed at six central stations, including Rajiv Chowk, Mandi House and Barakhamba Road, until 4 pm.
 
-"The CJI has declined to meet us," Congress general secretary K C Venugopal said on Sunday. "We respect that decision, but we are very much for marching to the Supreme Court tomorrow."
+## The Chief Justice's message
 
-## What the bloc wants
+Earlier in the day, as senior advocates mentioned petitions over the detention of lawyers during the weekend protests, the Chief Justice spoke from the bench. "All these democratic activities should take place, but at least in Supreme Court functioning..." he said. "I have appealed to protesters also. All political parties also...The Supreme Court should not be dragged into this."
 
-The leaders want the CEC to resign, the SIR to be halted and elections to return to paper ballots. On 9 October a bloc delegation met President Droupadi Murmu with a similar list.
-
-Venugopal announced today's protest in Alappuzha on 10 October. "PM Modi is behaving like a leader nearing his downfall. He is afraid of the opposition's protests," he said. On the eve of the march, Karnataka Chief Minister D K Shivakumar said in Mysuru that he would join senior Congress leaders, MPs, ministers and MLAs in Delhi.
-
-> In a democracy, every vote is the right of every citizen. No one should lose this right to vote.
->
-> Source: D K Shivakumar, Chief Minister of Karnataka, Mysuru, reported 12 October 2026
+He added that there should not be any impediment in the movement of lawyers, litigants and court staff.
 
 ## The other side
 
-The BJP and the Election Commission reject the charge of electoral manipulation. After the President meeting, BJP spokesperson Sambit Patra said on 10 October: "Never before was an attempt made to drag the President into a street protest."
+The BJP and the Election Commission reject the charge of deliberate manipulation of the rolls. After the bloc met President Droupadi Murmu last week, BJP spokesperson Sambit Patra said on 10 October: "Never before was an attempt made to drag the President into a street protest." There was no fresh response from either to Monday's march by mid-afternoon.
 
-On 2 October the Commission was reported to have called the claim that 13 crore voters had been removed misleading, saying the figure counts names marked absent, shifted, dead or duplicate at the draft stage, not deletions from final rolls.
-
-## How we got here
-
-Today's march follows a weekend in which police detained thousands, by most counts, at the Cockroach Janta Party's protest against the CEC. The Supreme Court ordered Metro and internet services restored on Sunday.
-
-```timeline
-{"title":"The road to today's march","items":[{"date":"2 Oct 2026","text":"Election Commission reported to call the 13 crore deletions claim misleading"},{"date":"9 Oct 2026","text":"INDIA bloc delegation meets President Droupadi Murmu"},{"date":"10 Oct 2026","text":"Venugopal announces the Delhi protest; police detain protesters at the CJP march"},{"date":"11 Oct 2026","text":"Supreme Court orders Metro and internet restored; CJI declines the bloc's meeting request"},{"date":"12 Oct 2026","text":"March from Connaught Place to the Supreme Court, 1:30 pm"},{"date":"13 Oct 2026","text":"Supreme Court hears the contempt plea and detention petitions"}]}
-```
+Separately, Delhi Police Commissioner Anurag Kumar has de-notified Jantar Mantar as a protest venue in a standing order dated 11 October, naming Ramlila Ground, Burari Ground and the CBD Ground in East Delhi instead.
 
 ## What comes next
 
-On Tuesday the Supreme Court takes up the contempt petition against the Union Home Secretary, the Delhi Police Commissioner and the DMRC chief, along with the petitions over last weekend's detentions.
+On Tuesday the Supreme Court takes up the petitions over the weekend detentions, including those concerning lawyers, along with the contempt plea against the Union Home Secretary, the Delhi Police Commissioner and the DMRC chief. Whether the bloc's own petition is listed with them will depend on when it is filed.

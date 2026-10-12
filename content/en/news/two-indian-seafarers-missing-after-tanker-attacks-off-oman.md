@@ -6,11 +6,12 @@ section: world
 format_label: World / West Asia
 topics: []
 title: "Two Indian seafarers missing after drone strike on tanker off Oman"
-standfirst: "Two tankers carrying 22 Indians between them were hit on Sunday, two days after a third with 22 Indians was struck off Sharjah. India has condemned the attacks and called for immediate de-escalation."
+standfirst: "A seafarers' union has named the two men and demanded an urgent update. They were among 22 Indians on two tankers hit on Sunday; India has condemned the attacks and called for de-escalation."
 published: 2026-10-12T07:00:00+05:30
+updated: 2026-10-12T15:00:00+05:30
 location: New Delhi
 keyPoints:
-  - "A drone struck MT Petro Dolphin at Sohar Anchorage, Oman, on 11 October; **two of its 11 Indian crew are missing** and nine were rescued."
+  - "A drone struck MT Petro Dolphin at Sohar Anchorage, Oman, on 11 October; **Bir Bahadur Yadav and Amit Singh are still missing** and nine Indian crew were rescued."
   - "MT Valthera caught fire after an unknown projectile hit it in the Strait of Hormuz; **all 11 Indians on board are safe**."
   - "On 9 October a drone hit MT Gem No. 2 at Sharjah Anchorage; **all 22 Indians on board are safe**."
   - "The MEA said attacks on commercial vessels, seafarers and civilian infrastructure **must cease**, and called for immediate de-escalation."
@@ -19,11 +20,31 @@ hero:
   suggested_source: "Wikimedia Commons search 'oil tanker Strait of Hormuz' or 'tanker Gulf of Oman'"
   alt: "An oil tanker in the waters of the Strait of Hormuz"
   overlay:
-    value: "2 Indian seafarers missing off Oman"
+    value: "Still no word on 2 missing Indians"
 related: [india-condemns-houthi-attacks-saudi-airports-riyadh, rupee-near-97-as-crude-stays-above-100]
 seo:
-  description: "Two Indian seafarers are missing after a drone hit MT Petro Dolphin off Oman. A second tanker with 11 Indians caught fire in Hormuz. India condemned the attacks."
+  description: "Bir Bahadur Yadav and Amit Singh, two Indian seafarers, are still missing after a drone hit MT Petro Dolphin off Oman. A union has sought an urgent update."
 sources:
+  - title: "Seafarers Union seeks 'urgent status update' on two Indian seafarers missing after attack on commercial vessel in Hormuz (ANI)"
+    publisher: "The Tribune"
+    date: 2026-10-12
+    url: "https://www.tribuneindia.com/news/world/seafarers-union-seeks-urgent-status-update-on-two-indian-seafarers-missing-after-attack-on-commercial-vessel-in-hormuz/"
+    primary: false
+  - title: "Seafarers Union seeks 'urgent status update' on two Indian seafarers missing (ANI)"
+    publisher: "Gulf News"
+    date: 2026-10-12
+    url: "https://gulfnews.com/world/mena/2-indian-seafarers-missing-after-hormuz-attack-seafarers-union-seeks-urgent-status-update-1.500706956"
+    primary: false
+  - title: "Two Indian sailors missing after drone strike off Oman; union reveals identities, seeks answers"
+    publisher: "The Statesman"
+    date: 2026-10-12
+    url: "https://www.thestatesman.com/india/two-indian-sailors-missing-after-drone-strike-off-oman-union-reveals-identities-seeks-answers-1503650004.html"
+    primary: false
+  - title: "Two Indian Seafarers Missing After Drone Attack on Nicaragua-Bound Tanker"
+    publisher: "The Wire"
+    date: 2026-10-12
+    url: "https://m.thewire.in/article/world/two-indian-seafarers-missing-after-drone-attack-on-nicaragua-bound-tanker"
+    primary: false
   - title: "India condemns attacks on two vessels in Hormuz region, calls for de-escalation (ANI)"
     publisher: "ANI"
     date: 2026-10-12
@@ -92,6 +113,8 @@ sources:
 verification:
   status: approved
   notes:
+    - "Removed the closing Oil on edge section in the 3 pm update to keep length; Brent and RBI window are covered in the rupee story."
+    - "Update 3 pm IST 12 Oct: names Bir Bahadur Yadav and Amit Singh come from the union's X post as carried by ANI (Tribune, Gulf News), The Statesman and The Wire; no government source has named them, and ranks, ages and home states were not found. Union name conflict: ANI and The Statesman say Forward Seamen's Union of India (FSUI); The Wire says Federation of Seafarers' Union of India. Story uses the ANI version. FSUI post not opened. No search result or recovery reported in any source checked up to about 3 pm IST (latest: The Wire, 11:29 am IST)."
     - "No MEA text was opened on mea.gov.in (the site returned an error). All MEA wording of 11 Oct comes from ANI copy as carried by ANI and The Tribune; both agree. Quote fragments only were used, because the fetch tool returned the statement in segments. Check the full statement on mea.gov.in before publishing."
     - "Sonowal and Embassy of India, Muscat quotes are from their X posts as quoted by ANI and Telangana Today; the posts themselves were not opened."
     - "Missing seafarers: no update found as of about 7 am IST on 12 October. Names, ranks and home states of the two missing men were not found in any source."
@@ -108,7 +131,7 @@ verification:
     - "Fact-check 12 Oct: re-checked ANI (Sonowal and MEA), Maritime Executive, Daily Jagran, Sunday Guardian live blog and anews (Turkey), all last updated about 1 am IST on 12 Oct. No update on the two missing men, no names and no claim of responsibility found as of about 8 am IST. Daily Jagran (citing a Marine Tanks post) says Petro Dolphin had 12 crew incl. one Bangladeshi and gives the strike time as about 11:30 am local; single source, not used. MEA fragments ('safety and security... remain a priority', 'must cease') confirmed in ANI copy. No changes to copy."
 ---
 
-Two Indian seafarers were missing on Monday morning after a drone struck the tanker MT Petro Dolphin at Sohar Anchorage, off Oman, on Sunday, 11 October. Nine other Indian crew members were rescued and are safe, Ports, Shipping and Waterways Minister Sarbananda Sonowal said.
+Two Indian seafarers were still missing on Monday afternoon after a drone struck the tanker MT Petro Dolphin at Sohar Anchorage, off Oman, on Sunday, 11 October. A seafarers' union has named them as Bir Bahadur Yadav and Amit Singh. Nine other Indian crew members were rescued and are safe, Ports, Shipping and Waterways Minister Sarbananda Sonowal said.
 
 It was one of two attacks on Indian-crewed tankers on Sunday. MT Valthera, a Marshall Islands-flagged tanker, was struck by an unknown projectile in the Strait of Hormuz, which set off a fire on board. All 11 Indian seafarers on it are safe. Two days earlier, on 9 October, a drone hit the Panama-flagged crude tanker MT Gem No. 2 at Sharjah Anchorage. All 22 Indians on board are safe.
 
@@ -128,11 +151,13 @@ The ministry said freedom of navigation through international waterways must be 
 
 ## The search off Sohar
 
-"Search-and-rescue operations are actively underway by the local Coast Guard," Sonowal said on X. He said the government was working with all relevant authorities "to safely locate our missing personnel". The Indian Embassy in Muscat said it was "in close and continuous contact with the concerned authorities" and is coordinating with Omani authorities and the ship management companies. No update on the two missing men had been made public by early Monday.
+"Search-and-rescue operations are actively underway by the local Coast Guard," Sonowal said on X. He said the government was working with all relevant authorities "to safely locate our missing personnel". The Indian Embassy in Muscat said it was "in close and continuous contact with the concerned authorities" and is coordinating with Omani authorities and the ship management companies. No update on the two men had been made public by Monday afternoon.
+
+The Forward Seamen's Union of India (FSUI) said on X that it was "awaiting urgent status update on 2 missing Indian seafarers from MT Petro Dolphin". It called for immediate confirmation of their status and support for their families.
 
 ## Who is behind the attacks
 
-Neither the MEA nor Sonowal named an attacker, and no claim of responsibility for Sunday's strikes had been reported by Monday morning. The Sohar attack was reported to be a suspected Iranian strike, far from the main conflict zone around the Strait. Iran's Revolutionary Guards navy was reported last week to have threatened to pursue vessels that cross Hormuz without Iranian authorisation "throughout the region".
+Neither the MEA nor Sonowal named an attacker, and no claim of responsibility for Sunday's strikes had been reported by Monday afternoon. The Sohar attack was reported to be a suspected Iranian strike, far from the main conflict zone around the Strait. Iran's Revolutionary Guards navy was reported last week to have threatened to pursue vessels that cross Hormuz without Iranian authorisation "throughout the region".
 
 The war involving Iran began in late February. Iranian attacks on ships in the strait were reported to be more frequent in early October than at any time since.
 
@@ -145,7 +170,3 @@ Indian crews have been hit before. On 6 October the MEA said 12 crew members of 
 ## Rules for Indian crews
 
 Under an advisory issued on 5 August by the Directorate General of Maritime Administration (DGMA), companies that send Indian seafarers on voyages through Hormuz must inform the DG Communication Centre and get each seafarer's consent. Masters in the Gulf must keep "a heightened level of security vigilance". The advisory replaced a 15 July order that had barred such deployments altogether.
-
-## Oil on edge
-
-Brent crude futures were at $102.95 a barrel on Friday, 9 October, the last trading day before Sunday's attacks. From today, the Reserve Bank of India is due to start selling dollars directly to Indian Oil, HPCL and BPCL to meet their daily import needs.

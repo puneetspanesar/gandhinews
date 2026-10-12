@@ -6,22 +6,38 @@ section: world
 format_label: World / South Asia
 topics: []
 title: "Pakistan imposes emergency rule in Khyber Pakhtunkhwa, ousting Imran Khan's party"
-standfirst: "The federal government removed the PTI-led provincial government in the middle of its long march for Khan's release. The party says its chief minister has been arrested."
+standfirst: "Police confirmed on Monday that ousted Chief Minister Sohail Afridi and the assembly speaker are in preventive custody. The PTI's long march for Khan's release fizzled out at Swabi."
 published: 2026-10-12T08:00:00+05:30
+updated: 2026-10-12T15:00:00+05:30
 keyPoints:
   - "President Asif Ali Zardari imposed an **emergency and governor's rule** in Khyber Pakhtunkhwa on Sunday, on the cabinet's advice."
   - "The government said the province had **disengaged from the fight against terrorism**; the PTI called the move undemocratic."
-  - "The PTI says ousted Chief Minister **Sohail Afridi was arrested**; officials have not confirmed it."
+  - "Police say **eight people, including ousted Chief Minister Sohail Afridi**, are in preventive custody."
 hero:
   need: "Peshawar street scene or Khyber Pakhtunkhwa Assembly building; or a PTI rally"
   suggested_source: "Wikimedia Commons search 'Khyber Pakhtunkhwa Assembly' or 'Peshawar'"
   alt: "Peshawar, capital of Pakistan's Khyber Pakhtunkhwa province"
   overlay:
-    value: "Emergency rule in Khyber Pakhtunkhwa"
+    value: "KP chief minister held in custody"
 related: []
 seo:
-  description: "Pakistan has imposed an emergency and governor's rule in Khyber Pakhtunkhwa, removing Imran Khan's PTI government mid-march. The PTI says CM Sohail Afridi was arrested."
+  description: "Police say ousted Khyber Pakhtunkhwa CM Sohail Afridi is in preventive custody after Pakistan imposed emergency rule. The PTI's long march fizzled out at Swabi."
 sources:
+  - title: "Now-suspended KP CM Sohail Afridi, assembly speaker in preventative custody: police"
+    publisher: "Dawn"
+    date: 2026-10-12
+    url: "https://www.dawn.com/news/2036604/now-suspended-kp-cm-sohail-afridi-assembly-speaker-in-preventative-custody-police"
+    primary: false
+  - title: "PTI long march fizzles out in Swabi following emergency, governor's rule"
+    publisher: "The Express Tribune"
+    date: 2026-10-12
+    url: "https://tribune.com.pk/story/2634264/pti-long-march-fizzles-out-in-swabi-following-emergency-governors-rule"
+    primary: false
+  - title: "PTI may challenge emergency in court"
+    publisher: "The Express Tribune"
+    date: 2026-10-12
+    url: "https://tribune.com.pk/story/2634329/pti-may-challenge-emergency-in-court"
+    primary: false
   - title: "Emergency, governor's rule imposed in KP as president approves cabinet decision"
     publisher: "Dawn"
     date: 2026-10-11
@@ -50,6 +66,8 @@ sources:
 verification:
   status: approved
   notes:
+    - "Update 3 pm IST 12 Oct: custody confirmed by 'a senior police official' via Dawn (1:48 pm PKT); eight people incl. Afridi, Junaid Akbar (Dawn calls him MNA; we keep 'PTI provincial president' from the morning version) and Speaker Babar Saleem Swati. Dawn's sources say Afridi and Akbar are held under Section 3 of the MPO; not used. Chaudhry's line (those with cases tried, others released) is from Dawn citing Reuters."
+    - "Swabi details (no significant protest Monday, mobile and PTCL internet suspended, dispersal at Shiwa Adda and Ismaila Interchange) are from one Express Tribune report. No court petition had been filed as of the Tribune's 12 Oct report; the Pakistan Bar Council members' quote is from the same report."
     - "The President House proclamation itself was not opened; its wording ('could not function in accordance with the Constitution under the prevailing circumstances') is from The Express Tribune, and 'unprecedented intensity of terrorist violence' from Nukta. Articles 232(1) and 234(1) agree across Dawn, Tribune and Nukta."
     - "Afridi's arrest: claimed by PTI figures (KP Information Minister Shafi Jan, MNA Shahid Khattak, Junaid Akbar's colleagues); not confirmed by police or government as of the 12 Oct Express Tribune reports. Minister of State Tallal Chaudhry said some people were detained. Kept as a claim."
     - "Gohar Ali Khan's arrest figures (about 1,500 PTI workers jailed in Punjab, 10 KP MPAs and 8 MNAs arrested) are party claims from Express Tribune; not used."
@@ -69,19 +87,21 @@ The proclamation said the provincial government "could not function in accordanc
 
 ## A march cut short
 
-Afridi was leading the PTI's long march when the order came. Party leaders say he was then taken into custody along with the PTI's provincial president, Junaid Akbar. The government has not confirmed this. Minister of State for Interior Tallal Chaudhry said some people had been detained and that those without criminal records would be released. The PTI's secretary general, Salman Akram Raja, said the party did not know where Afridi was.
+Afridi was leading the PTI's long march when the order came. On Monday a senior police official confirmed that eight people had been taken into "preventative custody", among them Afridi, the PTI's provincial president Junaid Akbar and the provincial assembly speaker, Babar Saleem Swati. Minister of State for Interior Tallal Chaudhry said the detentions took place on Sunday, and that anyone facing cases would be tried and the rest released.
 
-Police arrested 59 PTI workers in Swabi. Shipping containers sealed roads around Peshawar, mobile internet was cut in parts of the province, Peshawar's bus rapid transit was suspended and schools in Peshawar district were shut on Monday. Matriculation exams due on Monday were postponed. The federal government has authorised the army to deploy in aid of the civil administration.
+The march itself fizzled out. The caravan had been expected in Swabi on Sunday night, but no significant protest was held there on Monday. Police dispersed workers gathering at Shiwa Adda and the Ismaila Interchange, and mobile phone networks and PTCL internet were suspended across the district. Police arrested 59 PTI workers in Swabi. Shipping containers sealed roads around Peshawar, mobile internet was cut in parts of the province, Peshawar's bus rapid transit was suspended and schools in Peshawar district were shut on Monday. The federal government has authorised the army to deploy in aid of the civil administration.
 
 ## The PTI hits back
 
 PTI chairman Gohar Ali Khan called the move undemocratic and said the party would challenge it in the courts, the assemblies and in public. He questioned why the whole province was under governor's rule. "If the problem of terrorism exists in 12 districts, why has governor's rule been imposed across the province?" he asked.
 
-Zulfikar Bukhari, a close aide of Khan, called it a "ridiculous decision" and warned it would bring "further bloodshed, instability and collateral damage". Raja urged restraint. "We will not throw stones. Through peaceful protest, we have to express our moral position," he said. The opposition alliance Tehreek-e-Tahafuz Ayin-e-Pakistan called the emergency unconstitutional.
+Zulfikar Bukhari, a close aide of Khan, called it a "ridiculous decision" and warned it would bring "further bloodshed, instability and collateral damage". The PTI's secretary general, Salman Akram Raja, urged restraint. "We will not throw stones. Through peaceful protest, we have to express our moral position," he said.
+
+No court challenge had been filed by Monday, though any petition is likely to go first to the Peshawar High Court. Eight members of the Pakistan Bar Council called the action illegal, saying in a joint statement that "the provincial government and the Provincial Assembly were both discharging their functions" under the constitution.
 
 ## Who runs the province now
 
-Governor Faisal Karim Kundi, a leader of Zardari's Pakistan Peoples Party, now holds executive power under federal direction. He has an 11-member advisory council, and Muhammad Fakhr Alam Irfan has been named chief secretary. A separate secretariat will run administration, security and development in 12 districts, including Bannu, Bajaur, Kurram and North Waziristan. Kundi called for a "new chapter" in the province.
+Governor Faisal Karim Kundi, a leader of Zardari's Pakistan Peoples Party, now holds executive power under federal direction. He has an 11-member advisory council, and Muhammad Fakhr Alam Irfan has been named chief secretary. A separate secretariat will run administration, security and development in 12 districts, including Bannu, Bajaur, Kurram and North Waziristan.
 
 Under the constitution, governor's rule must be put before a joint sitting of Parliament and lapses after two months unless extended, up to a limit of six months.
 
