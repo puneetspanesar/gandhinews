@@ -2,7 +2,7 @@
   "id": "economy-dashboard",
   "title": "भारत की अर्थव्यवस्था का डैशबोर्ड",
   "as_of": "2026-10-11",
-  "updated": "2026-10-11T09:00:00+05:30",
+  "updated": "2026-10-12T21:30:00+05:30",
   "notes": "हर आंकड़ा अपनी पंक्ति में बताए गए स्रोत से लिया गया है। verified_primary सिर्फ तब true है जब आंकड़ा किसी प्राथमिक विज्ञप्ति (आरबीआई, सांख्यिकी मंत्रालय, पीआईबी, वित्त मंत्रालय) में पढ़ा गया हो। जिन आंकड़ों को रिसर्च डेस्क ने गणना से निकाला गया (व्युत्पन्न) बताया, वे शामिल नहीं हैं।",
   "indicators": [
     {
@@ -59,15 +59,15 @@
     {
       "id": "cpi-inflation",
       "name": "सीपीआई महंगाई (अखिल भारतीय, संयुक्त)",
-      "latest_value": 4.82,
+      "latest_value": 5.54,
       "unit": "% सालाना",
-      "period": "अगस्त 2026 (अनंतिम)",
-      "release_date": "2026-09-14",
+      "period": "सितंबर 2026 (अनंतिम)",
+      "release_date": "2026-10-12",
       "change_vs_previous": {
         "basis": "पिछला महीना",
-        "previous_value": 4.45,
-        "previous_period": "जुलाई 2026 (अंतिम)",
-        "change": 0.37,
+        "previous_value": 4.83,
+        "previous_period": "अगस्त 2026 (अंतिम)",
+        "change": 0.71,
         "change_unit": "प्रतिशत अंक"
       },
       "history": [
@@ -101,16 +101,20 @@
         },
         {
           "period": "अगस्त 2026",
-          "value": 4.82
+          "value": 4.83
+        },
+        {
+          "period": "सितंबर 2026",
+          "value": 5.54
         }
       ],
       "source": {
-        "publisher": "Ministry of Statistics and Programme Implementation (NSO)",
-        "url": "https://www.mospi.gov.in/uploads/latestreleasesfiles/1789382372004-Press%20Release%20of%20CPI%20for%20August%202026.pdf",
-        "date": "2026-09-14"
+        "publisher": "Ministry of Statistics and Programme Implementation (NSO), as reported by Business Standard",
+        "url": "https://www.business-standard.com/economy/news/retail-inflation-rises-to-5-54-in-sep-as-food-inflation-zooms-to-7-74-126101200671_1.html",
+        "date": "2026-10-12"
       },
-      "verified_primary": true,
-      "note": "नई सीरीज़, आधार 2024=100। अगस्त 2026 में खाद्य महंगाई (सीएफपीआई): 5.95%। सितंबर के आंकड़े 12 अक्टूबर 2026 को आने हैं।"
+      "verified_primary": false,
+      "note": "नई सीरीज़, आधार 2024=100। सितंबर 2026 में खाद्य महंगाई (सीएफ़पीआई): 7.74%। अगस्त संशोधित होकर 4.83%। अक्टूबर के आंकड़े 12 नवंबर 2026 को।"
     },
     {
       "id": "repo-rate",

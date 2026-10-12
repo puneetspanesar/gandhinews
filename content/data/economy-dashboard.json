@@ -2,7 +2,7 @@
   "id": "economy-dashboard",
   "title": "India economy dashboard",
   "as_of": "2026-10-11",
-  "updated": "2026-10-11T09:00:00+05:30",
+  "updated": "2026-10-12T21:30:00+05:30",
   "notes": "Every value is taken from the source named in its row. verified_primary is true only when the figure was read in a primary release (RBI, MoSPI, PIB, Ministry of Finance). Values the research desk marked as derived are not included.",
   "indicators": [
     {
@@ -59,15 +59,15 @@
     {
       "id": "cpi-inflation",
       "name": "CPI inflation (all-India combined)",
-      "latest_value": 4.82,
+      "latest_value": 5.54,
       "unit": "% year on year",
-      "period": "Aug 2026 (provisional)",
-      "release_date": "2026-09-14",
+      "period": "Sep 2026 (provisional)",
+      "release_date": "2026-10-12",
       "change_vs_previous": {
         "basis": "previous month",
-        "previous_value": 4.45,
-        "previous_period": "Jul 2026 (final)",
-        "change": 0.37,
+        "previous_value": 4.83,
+        "previous_period": "Aug 2026 (final)",
+        "change": 0.71,
         "change_unit": "percentage points"
       },
       "history": [
@@ -101,16 +101,20 @@
         },
         {
           "period": "Aug 2026",
-          "value": 4.82
+          "value": 4.83
+        },
+        {
+          "period": "Sep 2026",
+          "value": 5.54
         }
       ],
       "source": {
-        "publisher": "Ministry of Statistics and Programme Implementation (NSO)",
-        "url": "https://www.mospi.gov.in/uploads/latestreleasesfiles/1789382372004-Press%20Release%20of%20CPI%20for%20August%202026.pdf",
-        "date": "2026-09-14"
+        "publisher": "Ministry of Statistics and Programme Implementation (NSO), as reported by Business Standard",
+        "url": "https://www.business-standard.com/economy/news/retail-inflation-rises-to-5-54-in-sep-as-food-inflation-zooms-to-7-74-126101200671_1.html",
+        "date": "2026-10-12"
       },
-      "verified_primary": true,
-      "note": "New series, base 2024=100. Food inflation (CFPI) Aug 2026: 5.95%. September data due 12 Oct 2026."
+      "verified_primary": false,
+      "note": "New series, base 2024=100. Food inflation (CFPI) Sep 2026: 7.74%. August revised to 4.83% (from 4.82% provisional). October data due 12 Nov 2026. MoSPI PDF link to be added."
     },
     {
       "id": "repo-rate",

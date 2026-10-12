@@ -8,8 +8,8 @@
         "hi": "दिल्ली, सोमवार"
       },
       "value": {
-        "en": "From memorandum to petition",
-        "hi": "ज्ञापन नहीं, अब याचिका"
+        "en": "Stopped at the barricade, filed in court",
+        "hi": "बैरिकेड पर रुके, अदालत में याचिका"
       },
       "text": {
         "en": "",
@@ -18,43 +18,43 @@
     },
     "dataBox": [
       {
-        "icon": "gavel",
+        "icon": "users-three",
         "color": "#cc0000",
         "value": {
-          "en": "3 pm",
-          "hi": "दोपहर 3 बजे"
+          "en": "11",
+          "hi": "11"
         },
         "label": {
-          "en": "petition filing time announced",
-          "hi": "याचिका दायर करने का घोषित समय"
-        }
-      },
-      {
-        "icon": "map-pin",
-        "color": "#8f0000",
-        "value": {
-          "en": "Constitution Club",
-          "hi": "कॉन्स्टिट्यूशन क्लब"
-        },
-        "label": {
-          "en": "where leaders gathered",
-          "hi": "जहां नेता जुटे"
-        }
-      },
-      {
-        "icon": "train",
-        "color": "#0d0d0d",
-        "value": {
-          "en": "6",
-          "hi": "6"
-        },
-        "label": {
-          "en": "Metro stations shut till 4 pm",
-          "hi": "मेट्रो स्टेशन शाम 4 बजे तक बंद"
+          "en": "opposition leaders signed the petition",
+          "hi": "विपक्षी नेताओं ने याचिका पर हस्ताक्षर किए"
         }
       },
       {
         "icon": "scales",
+        "color": "#8f0000",
+        "value": {
+          "en": "4",
+          "hi": "4"
+        },
+        "label": {
+          "en": "respondents: ECI, CEC and two ECs",
+          "hi": "प्रतिवादी: चुनाव आयोग, सीईसी और दो आयुक्त"
+        }
+      },
+      {
+        "icon": "map-pin",
+        "color": "#0d0d0d",
+        "value": {
+          "en": "Bhagwan Dass Rd",
+          "hi": "भगवान दास रोड"
+        },
+        "label": {
+          "en": "where police stopped the march",
+          "hi": "जहां पुलिस ने मार्च रोका"
+        }
+      },
+      {
+        "icon": "gavel",
         "color": "#6e6e6e",
         "value": {
           "en": "13 Oct",
@@ -71,11 +71,11 @@
       "protest-is-not-a-threat-to-public-order"
     ],
     "relatedBeside": [
+      "retail-inflation-september-2026-5-54",
+      "congress-keralam-unit-deletes-post-asking-cji-to-resign",
       "keralam-assembly-resolution-seeks-removal-of-cec",
       "sensex-falls-as-bond-yields-climb-rupee-best-day-since-april",
-      "supreme-court-bars-coercive-action-punjab-cm-osd-cbi-case",
-      "two-indian-seafarers-missing-after-tanker-attacks-off-oman",
-      "migrant-boat-capsizes-off-djibouti-killing-at-least-139"
+      "hcltech-q2-profit-rises-21-raises-revenue-guidance"
     ]
   },
   "briefing": {
@@ -87,19 +87,30 @@
           "hi": "इंडिया गठबंधन:"
         },
         "text": {
-          "en": "leaders marched in Delhi and said they will file a Supreme Court petition against the CEC.",
-          "hi": "नेताओं ने दिल्ली में मार्च किया और मुख्य चुनाव आयुक्त के खिलाफ सुप्रीम कोर्ट में याचिका की बात कही।"
+          "en": "police stopped the march near the Supreme Court; 11 leaders filed a petition seeking a stay on the SIR.",
+          "hi": "पुलिस ने सुप्रीम कोर्ट के पास मार्च रोका; 11 नेताओं ने एसआईआर पर रोक के लिए याचिका दायर की।"
         }
       },
       {
-        "link": "keralam-assembly-resolution-seeks-removal-of-cec",
+        "link": "retail-inflation-september-2026-5-54",
         "lead": {
-          "en": "Keralam:",
-          "hi": "केरलम:"
+          "en": "Inflation:",
+          "hi": "महंगाई:"
         },
         "text": {
-          "en": "the Assembly passed a resolution seeking CEC Gyanesh Kumar's removal.",
-          "hi": "विधानसभा ने मुख्य चुनाव आयुक्त ज्ञानेश कुमार को हटाने की मांग वाला प्रस्ताव पारित किया।"
+          "en": "retail inflation jumped to 5.54% in September as food prices rose 7.74%.",
+          "hi": "सितंबर में खुदरा महंगाई बढ़कर 5.54%, खाद्य महंगाई 7.74%।"
+        }
+      },
+      {
+        "link": "congress-keralam-unit-deletes-post-asking-cji-to-resign",
+        "lead": {
+          "en": "CJI row:",
+          "hi": "सीजेआई विवाद:"
+        },
+        "text": {
+          "en": "Congress's Keralam unit deleted a post asking the CJI to resign; Rijiju hit back.",
+          "hi": "कांग्रेस की केरलम इकाई ने सीजेआई से इस्तीफ़ा मांगने वाली पोस्ट हटाई; रिजिजू का पलटवार।"
         }
       },
       {
@@ -109,63 +120,52 @@
           "hi": "बाज़ार:"
         },
         "text": {
-          "en": "Sensex fell over 550 points as bond yields rose; the rupee had its best day since April.",
-          "hi": "बॉन्ड यील्ड बढ़ने से सेंसेक्स 550 अंक से ज़्यादा गिरा; रुपये में अप्रैल के बाद सबसे बड़ी तेज़ी।"
+          "en": "Sensex closed 548 points lower; the rupee rose 93 paise to 95.78.",
+          "hi": "सेंसेक्स 548 अंक गिरकर बंद; रुपया 93 पैसे चढ़कर 95.78 पर।"
         }
       },
       {
-        "link": "supreme-court-bars-coercive-action-punjab-cm-osd-cbi-case",
+        "link": "hcltech-q2-profit-rises-21-raises-revenue-guidance",
         "lead": {
-          "en": "Punjab:",
-          "hi": "पंजाब:"
+          "en": "HCLTech:",
+          "hi": "एचसीएलटेक:"
         },
         "text": {
-          "en": "the Supreme Court barred arrest of CM Mann's aide but let the CBI probe go on.",
-          "hi": "सुप्रीम कोर्ट ने मुख्यमंत्री मान के सहयोगी की गिरफ़्तारी पर रोक लगाई, सीबीआई जांच जारी रहेगी।"
+          "en": "profit rose 21% to ₹5,132 crore and it raised its revenue forecast.",
+          "hi": "मुनाफ़ा 21% बढ़कर ₹5,132 करोड़, राजस्व अनुमान बढ़ाया।"
         }
       },
       {
-        "link": "two-indian-seafarers-missing-after-tanker-attacks-off-oman",
+        "link": "hall-woodford-win-economics-nobel-stabilisation-models",
         "lead": {
-          "en": "Seafarers:",
-          "hi": "नाविक:"
+          "en": "Nobel:",
+          "hi": "नोबेल:"
         },
         "text": {
-          "en": "still no word on the two Indians missing after a drone hit a tanker off Oman.",
-          "hi": "ओमान के पास टैंकर पर ड्रोन हमले के बाद लापता दो भारतीयों की अब तक कोई खबर नहीं।"
+          "en": "Robert Hall and Michael Woodford win the economics prize.",
+          "hi": "रॉबर्ट हॉल और माइकल वुडफ़र्ड को अर्थशास्त्र का नोबेल।"
         }
       },
       {
-        "link": "north-korea-fires-ballistic-missiles-after-seoul-hypersonic-test",
+        "link": "saudi-arabia-vows-serious-response-riyadh-airport-stays-shut",
         "lead": {
-          "en": "North Korea:",
-          "hi": "उत्तर कोरिया:"
+          "en": "Saudi Arabia:",
+          "hi": "सऊदी अरब:"
         },
         "text": {
-          "en": "fired several ballistic missiles, one flying over 900 km.",
-          "hi": "कई बैलिस्टिक मिसाइलें दागीं, एक 900 किमी से ज़्यादा उड़ी।"
+          "en": "Riyadh airport stays shut after Houthi strikes killed 13; Riyadh vows a response.",
+          "hi": "हूती हमलों में 13 मौतों के बाद रियाद हवाई अड्डा बंद; सऊदी ने जवाब की चेतावनी दी।"
         }
       },
       {
-        "link": "migrant-boat-capsizes-off-djibouti-killing-at-least-139",
+        "link": "uk-says-iran-highly-likely-behind-raf-fairford-plot",
         "lead": {
-          "en": "Djibouti:",
-          "hi": "जिबूती:"
+          "en": "UK:",
+          "hi": "ब्रिटेन:"
         },
         "text": {
-          "en": "at least 139 migrants died when a boat bound for Yemen capsized.",
-          "hi": "यमन जा रही प्रवासियों की नाव पलटी, कम से कम 139 की मौत।"
-        }
-      },
-      {
-        "link": "retail-inflation-rises-to-4-82-in-august",
-        "lead": {
-          "en": "Inflation data:",
-          "hi": "महंगाई के आंकड़े:"
-        },
-        "text": {
-          "en": "September CPI figures are due at 4 pm today.",
-          "hi": "सितंबर के सीपीआई आंकड़े आज शाम 4 बजे आएंगे।"
+          "en": "the government says Iran was almost certainly behind the RAF Fairford plot.",
+          "hi": "सरकार ने कहा, आरएएफ़ फ़ेयरफ़र्ड साज़िश के पीछे लगभग निश्चित रूप से ईरान।"
         }
       }
     ]
@@ -233,18 +233,18 @@
   },
   "topStories": {
     "big": {
-      "id": "keralam-assembly-resolution-seeks-removal-of-cec",
+      "id": "retail-inflation-september-2026-5-54",
       "also": [
-        "election-commission-dissent-report-move-to-remove-cec",
-        "how-chief-election-commissioner-is-appointed-removed"
+        "rbi-raises-repo-rate-to-5-50",
+        "repo-rate-and-your-emi-explained"
       ]
     },
     "list": [
+      "keralam-assembly-resolution-seeks-removal-of-cec",
+      "supreme-court-bars-coercive-action-punjab-cm-osd-cbi-case",
       "madhya-pradesh-high-court-strikes-down-27-obc-quota",
-      "speaker-gives-rebel-tmc-mps-till-october-20",
-      "tcs-q2-profit-ai-revenue-crosses-3-billion",
-      "cabinet-approves-integrated-transport-logistics-authority",
-      "sebi-new-settlement-rules-fast-track-up-to-10-lakh"
+      "two-indian-seafarers-missing-after-tanker-attacks-off-oman",
+      "speaker-gives-rebel-tmc-mps-till-october-20"
     ]
   },
   "startHere": [
@@ -421,12 +421,12 @@
       },
       "list": [
         "india-bloc-march-to-supreme-court-after-cji-declines-meeting",
-        "keralam-assembly-resolution-seeks-removal-of-cec"
+        "congress-keralam-unit-deletes-post-asking-cji-to-resign"
       ]
     },
     {
       "section": "economy",
-      "lead": "sensex-falls-as-bond-yields-climb-rupee-best-day-since-april",
+      "lead": "retail-inflation-september-2026-5-54",
       "module": {
         "type": "markets",
         "indicators": [
@@ -437,17 +437,17 @@
         ]
       },
       "list": [
-        "tcs-q2-profit-ai-revenue-crosses-3-billion",
-        "rbi-raises-daily-crr-minimum-to-99-per-cent"
+        "hcltech-q2-profit-rises-21-raises-revenue-guidance",
+        "sensex-falls-as-bond-yields-climb-rupee-best-day-since-april"
       ]
     },
     {
       "section": "states",
       "lead": "supreme-court-bars-coercive-action-punjab-cm-osd-cbi-case",
       "list": [
+        "keralam-assembly-resolution-seeks-removal-of-cec",
         "madhya-pradesh-high-court-strikes-down-27-obc-quota",
-        "modi-opens-chennai-metro-stretch-vijay-seeks-school-funds",
-        "west-bengal-makes-bengali-compulsory-government-work"
+        "modi-opens-chennai-metro-stretch-vijay-seeks-school-funds"
       ]
     },
     {
@@ -475,45 +475,33 @@
   "desks": [
     {
       "section": "world",
-      "lead": "trump-announces-russia-ukraine-energy-ceasefire",
+      "lead": "saudi-arabia-vows-serious-response-riyadh-airport-stays-shut",
       "list": [
-        "north-korea-fires-ballistic-missiles-after-seoul-hypersonic-test",
-        "migrant-boat-capsizes-off-djibouti-killing-at-least-139",
-        "pakistan-imposes-emergency-rule-khyber-pakhtunkhwa"
+        "uk-says-iran-highly-likely-behind-raf-fairford-plot",
+        "trump-announces-russia-ukraine-energy-ceasefire",
+        "north-korea-fires-ballistic-missiles-after-seoul-hypersonic-test"
       ]
     },
     {
       "section": "science",
-      "lead": "openai-brings-gpt-6-to-all-chatgpt-users",
+      "lead": "hall-woodford-win-economics-nobel-stabilisation-models",
       "list": [
         "nadella-ai-models-insider-risk-emergency-brake",
-        "starlink-waits-on-security-clearance-as-musk-row-escalates",
-        "francis-halzen-wins-physics-nobel-for-icecube-neutrinos"
+        "openai-brings-gpt-6-to-all-chatgpt-users",
+        "starlink-waits-on-security-clearance-as-musk-row-escalates"
       ]
     },
     {
       "section": "sports",
       "lead": "india-beat-west-indies-by-14-runs-in-indore-t20i",
       "list": [
-        "zheng-qinwen-wins-china-open-beats-andreeva",
-        "kipruto-feysa-win-chicago-marathon",
-        "verstappen-wins-singapore-grand-prix-antonelli-nears-title"
+        "rajnath-singh-honours-services-athletes-27-asian-games-medals",
+        "brics-traditional-sports-games-open-in-ahmedabad",
+        "zheng-qinwen-wins-china-open-beats-andreeva"
       ]
     }
   ],
   "weekAhead": [
-    {
-      "icon": "megaphone",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "INDIA bloc files Supreme Court petition against the CEC; September inflation figures at 4 pm.",
-        "hi": "इंडिया गठबंधन की मुख्य चुनाव आयुक्त के खिलाफ सुप्रीम कोर्ट में याचिका; शाम 4 बजे सितंबर के महंगाई आंकड़े।"
-      },
-      "link": "india-bloc-march-to-supreme-court-after-cji-declines-meeting"
-    },
     {
       "icon": "scales",
       "date": {
@@ -521,8 +509,8 @@
         "hi": "मंगल, 13 अक्टूबर"
       },
       "text": {
-        "en": "Supreme Court hears the contempt and detention petitions over the CJP protests.",
-        "hi": "सीजेपी प्रदर्शनों से जुड़ी अवमानना और हिरासत याचिकाओं पर सुप्रीम कोर्ट में सुनवाई।"
+        "en": "Supreme Court hears the CJP detention and contempt pleas; the INDIA bloc wants its SIR petition heard too.",
+        "hi": "सुप्रीम कोर्ट में सीजेपी हिरासत और अवमानना याचिकाओं पर सुनवाई; इंडिया गठबंधन भी अपनी एसआईआर याचिका पर सुनवाई चाहता है।"
       },
       "link": "supreme-court-orders-metro-internet-restored-after-cjp-protest-detentions"
     },
@@ -549,6 +537,18 @@
         "hi": "बैंकों को हर दिन तय सीआरआर का 99% रखना शुरू करना होगा।"
       },
       "link": "rbi-raises-daily-crr-minimum-to-99-per-cent"
+    },
+    {
+      "icon": "cpu",
+      "date": {
+        "en": "Thu 15 Oct",
+        "hi": "गुरु, 15 अक्टूबर"
+      },
+      "text": {
+        "en": "Wipro and Tech Mahindra report July-September results.",
+        "hi": "विप्रो और टेक महिंद्रा के जुलाई-सितंबर के नतीजे।"
+      },
+      "link": "hcltech-q2-profit-rises-21-raises-revenue-guidance"
     },
     {
       "icon": "user-switch",
