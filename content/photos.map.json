@@ -1138,5 +1138,89 @@
     "alt": "Supreme Court of India, New Delhi",
     "alt_hi": "नई दिल्ली में भारत का सुप्रीम कोर्ट",
     "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_01.jpg"
+  },
+  "sensex-falls-as-bond-yields-climb-rupee-best-day-since-april": {
+    "id": "bse-dalal",
+    "src": "/photos/bse-dalal-1280.jpg",
+    "src800": "/photos/bse-dalal-640.jpg",
+    "width": 1280,
+    "height": 853,
+    "credit": "Photo: BSEINDIA / Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "alt": "The BSE building on Dalal Street, Mumbai",
+    "alt_hi": "मुंबई के दलाल स्ट्रीट पर बीएसई की इमारत",
+    "page": "https://commons.wikimedia.org/wiki/File:BSE_building_at_Dalal_Street.JPG"
+  },
+  "keralam-assembly-resolution-seeks-removal-of-cec": {
+    "id": "kerala-niyamasabha",
+    "src": "/photos/kerala-niyamasabha-1280.jpg",
+    "src800": "/photos/kerala-niyamasabha-640.jpg",
+    "width": 1280,
+    "height": 721,
+    "credit": "Photo: Sabu Mampallil / Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "alt": "The Keralam Legislative Assembly building in Thiruvananthapuram",
+    "alt_hi": "तिरुवनंतपुरम में केरलम विधानसभा भवन",
+    "page": "https://commons.wikimedia.org/wiki/File:Kerala_Niyamasabha.jpg"
+  },
+  "north-korea-fires-ballistic-missiles-after-seoul-hypersonic-test": {
+    "id": "hwasong-parade",
+    "src": "/photos/hwasong-parade-1280.jpg",
+    "src800": "/photos/hwasong-parade-640.jpg",
+    "width": 1280,
+    "height": 853,
+    "credit": "Photo: KCNA / Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "alt": "A North Korean ballistic missile on a launcher at a 2020 parade in Pyongyang (file photo)",
+    "alt_hi": "2020 में प्योंगयांग की परेड में लॉन्चर पर उत्तर कोरिया की बैलिस्टिक मिसाइल (फ़ाइल फ़ोटो)",
+    "page": "https://commons.wikimedia.org/wiki/File:Hwasong17-20201010-KORN_Pyonyang-N323-2.jpg"
+  },
+  "migrant-boat-capsizes-off-djibouti-killing-at-least-139": {
+    "id": "obock-port",
+    "src": "/photos/obock-port-1280.jpg",
+    "src800": "/photos/obock-port-640.jpg",
+    "width": 1280,
+    "height": 785,
+    "credit": "Photo: US Navy / Wikimedia Commons",
+    "licence": "Public domain",
+    "alt": "The port of Obock, Djibouti (file photo)",
+    "alt_hi": "जिबूती का ओबॉक बंदरगाह (फ़ाइल फ़ोटो)",
+    "page": "https://commons.wikimedia.org/wiki/File:Small_tugboat_and_pier_in_Obock,_Djibouti.jpg"
+  },
+  "nadella-ai-models-insider-risk-emergency-brake": {
+    "id": "satya-nadella",
+    "src": "/photos/satya-nadella-1280.jpg",
+    "src800": "/photos/satya-nadella-640.jpg",
+    "width": 1280,
+    "height": 853,
+    "credit": "Photo: Brian Smale and Microsoft / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Microsoft chief executive Satya Nadella",
+    "alt_hi": "माइक्रोसॉफ़्ट के सीईओ सत्य नडेला",
+    "page": "https://commons.wikimedia.org/wiki/File:Satya_smiling-print.jpg"
+  },
+  "kipruto-feysa-win-chicago-marathon": {
+    "id": "chicago-marathon",
+    "src": "/photos/chicago-marathon-1280.jpg",
+    "src800": "/photos/chicago-marathon-640.jpg",
+    "width": 1280,
+    "height": 960,
+    "credit": "Photo: Benjamin Lipsman / Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "alt": "Runners at the Chicago Marathon (file photo)",
+    "alt_hi": "शिकागो मैराथन में धावक (फ़ाइल फ़ोटो)",
+    "page": "https://commons.wikimedia.org/wiki/File:2011_Chicago_Marathon_runners.jpg"
+  },
+  "zheng-qinwen-wins-china-open-beats-andreeva": {
+    "id": "zheng-qinwen",
+    "src": "/photos/zheng-qinwen-1280.jpg",
+    "src800": "/photos/zheng-qinwen-640.jpg",
+    "width": 1280,
+    "height": 960,
+    "credit": "Photo: Kuberzog / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Zheng Qinwen at the 2024 Paris Olympics (file photo)",
+    "alt_hi": "2024 पेरिस ओलंपिक में झेंग छिनवेन (फ़ाइल फ़ोटो)",
+    "page": "https://commons.wikimedia.org/wiki/File:Qinwen_Zheng_-_2024_Olympics.jpg"
   }
 }
