@@ -89,9 +89,9 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
     </section>
   </div>
 
-  <div class="w">
-    <!-- DESKS: WORLD, SCIENCE & TECH, SPORTS -->
-    <section class="sec dk" aria-label={m.desks.map((d: any) => S[d.key]).join(', ')}>
+  <!-- DESKS: WORLD, SCIENCE & TECH, SPORTS -->
+  <section class="band gry dk" aria-label={m.desks.map((d: any) => S[d.key]).join(', ')}>
+    <div class="w">
       <div class="dk3">
         {m.desks.map((dk: any) => (
           <div>
@@ -106,8 +106,10 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
           </div>
         ))}
       </div>
-    </section>
+    </div>
+  </section>
 
+  <div class="w">
     <!-- EXPLAINED + OPINION -->
     <section class="sec" aria-label={`${h.explained}, ${h.opinion}`}>
       <div class="two">
@@ -155,6 +157,10 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
             {s.list.length > 0 && <ul>{s.list.map((x: any) => <li><a href={x.href}>{x.d.title}</a></li>)}</ul>}
           </div>
         ))}
+        <div class="lat">
+          <h2><a href={`${p}/latest/`} style="font:inherit;color:inherit">{h.latest}</a><a href={`${p}/latest/`}>{h.more} <Icon name="caret-right" /></a></h2>
+          <ol>{m.latest.map((x: any) => <li><span class="tm num">{x.time}</span><a href={x.href}><span class="k">{x.k}</span>{x.d.title}</a></li>)}</ol>
+        </div>
       </div>
     </section>
 
