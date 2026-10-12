@@ -496,5 +496,67 @@
         "isl-returns-bengaluru-comeback-churchill-brothers-win-on-debut"
       ]
     }
+  ],
+  "weekAhead": [
+    {
+      "icon": "megaphone",
+      "date": {
+        "en": "Today",
+        "hi": "आज"
+      },
+      "text": {
+        "en": "INDIA bloc leaders march to the Supreme Court; September inflation figures due.",
+        "hi": "इंडिया गठबंधन का सुप्रीम कोर्ट तक मार्च; सितंबर के महंगाई आंकड़े आएंगे।"
+      },
+      "link": "india-bloc-march-to-supreme-court-after-cji-declines-meeting"
+    },
+    {
+      "icon": "scales",
+      "date": {
+        "en": "Tue 13 Oct",
+        "hi": "मंगल, 13 अक्टूबर"
+      },
+      "text": {
+        "en": "Supreme Court hears the contempt and detention petitions over the CJP protests.",
+        "hi": "सीजेपी प्रदर्शनों से जुड़ी अवमानना और हिरासत याचिकाओं पर सुप्रीम कोर्ट में सुनवाई।"
+      },
+      "link": "supreme-court-orders-metro-internet-restored-after-cjp-protest-detentions"
+    },
+    {
+      "icon": "trophy",
+      "date": {
+        "en": "Wed 14 Oct",
+        "hi": "बुध, 14 अक्टूबर"
+      },
+      "text": {
+        "en": "India play West Indies in the fourth T20I in Hyderabad, 2-1 up.",
+        "hi": "हैदराबाद में भारत और वेस्टइंडीज़ का चौथा टी20, भारत 2-1 से आगे।"
+      },
+      "link": "india-beat-west-indies-by-14-runs-in-indore-t20i"
+    },
+    {
+      "icon": "bank",
+      "date": {
+        "en": "Fri 16 Oct",
+        "hi": "शुक्र, 16 अक्टूबर"
+      },
+      "text": {
+        "en": "Banks must start holding 99% of their required CRR every day.",
+        "hi": "बैंकों को हर दिन तय सीआरआर का 99% रखना शुरू करना होगा।"
+      },
+      "link": "rbi-raises-daily-crr-minimum-to-99-per-cent"
+    },
+    {
+      "icon": "user-switch",
+      "date": {
+        "en": "Tue 20 Oct",
+        "hi": "मंगल, 20 अक्टूबर"
+      },
+      "text": {
+        "en": "Deadline for 20 rebel TMC MPs to answer disqualification petitions.",
+        "hi": "20 बागी टीएमसी सांसदों के लिए अयोग्यता याचिकाओं पर जवाब की आखिरी तारीख।"
+      },
+      "link": "speaker-gives-rebel-tmc-mps-till-october-20"
+    }
   ]
 }

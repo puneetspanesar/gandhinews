@@ -158,8 +158,8 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
           </div>
         ))}
         <div class="lat">
-          <h2><a href={`${p}/latest/`} style="font:inherit;color:inherit">{h.latest}</a><a href={`${p}/latest/`}>{h.more} <Icon name="caret-right" /></a></h2>
-          <ol>{m.latest.map((x: any) => <li><span class="tm num">{x.time}</span><a href={x.href}><span class="k">{x.k}</span>{x.d.title}</a></li>)}</ol>
+          <h2>{h.weekAhead}</h2>
+          <ol>{m.week.map((x: any) => <li><Icon name={x.icon} /><div><span class="dt">{x.date}</span>{x.href ? <a href={x.href}>{x.text}</a> : <span>{x.text}</span>}</div></li>)}</ol>
         </div>
       </div>
     </section>

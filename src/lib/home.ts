@@ -28,7 +28,7 @@ export const H = {
     fc: 'Fact check', fcX: 'Viral claims, checked against the record', allFc: 'All fact checks', whatWeFound: 'What we found.',
     ask: 'Send us a claim, photo or video to check', steps: ['Trace the original source', 'Check official records', 'Publish verdict and evidence'],
     howRate: 'How we rate claims', method: 'Our method', wa: 'Send on WhatsApp', checked: 'claims checked so far',
-    latest: 'Latest', explained: 'Explained', allExplainers: 'All explainers', opinion: 'Opinion', opinionX: 'From the editorial desk', allEditorials: 'All editorials',
+    weekAhead: 'The week ahead', explained: 'Explained', allExplainers: 'All explainers', opinion: 'Opinion', opinionX: 'From the editorial desk', allEditorials: 'All editorials',
     more: 'More', corrections: 'Corrections', correctionsNone: 'None yet. When we get something wrong, the correction and the date will appear here, and on the story.', correctionsLog: 'Corrections log',
     pillars: [
       { icon: 'file-text', b: 'Sources on every story', p: 'Each report lists the documents, data and interviews behind it.', href: '/standards/' },
@@ -62,7 +62,7 @@ export const H = {
     fc: 'फैक्ट चेक', fcX: 'वायरल दावे, रिकॉर्ड से जांचे गए', allFc: 'सभी फैक्ट चेक', whatWeFound: 'हमने क्या पाया।',
     ask: 'जांच के लिए हमें कोई दावा, फोटो या वीडियो भेजें', steps: ['मूल स्रोत तक पहुंचना', 'सरकारी रिकॉर्ड से मिलान', 'निष्कर्ष और सबूत प्रकाशित करना'],
     howRate: 'हम दावों को कैसे आंकते हैं', method: 'हमारी जांच का तरीका', wa: 'व्हाट्सऐप पर भेजें', checked: 'दावे अब तक जांचे गए',
-    latest: 'ताज़ा खबरें', explained: 'समझिए', allExplainers: 'सभी लेख', opinion: 'राय', opinionX: 'संपादकीय डेस्क से', allEditorials: 'सभी संपादकीय',
+    weekAhead: 'इस हफ़्ते', explained: 'समझिए', allExplainers: 'सभी लेख', opinion: 'राय', opinionX: 'संपादकीय डेस्क से', allEditorials: 'सभी संपादकीय',
     more: 'और', corrections: 'सुधार', correctionsNone: 'अभी कोई नहीं। जब हमसे कोई गलती होगी, तो सुधार और उसकी तारीख यहां और खबर पर दिखेगी।', correctionsLog: 'सुधारों का रिकॉर्ड',
     pillars: [
       { icon: 'file-text', b: 'हर खबर के स्रोत', p: 'हर रिपोर्ट में उसके पीछे के दस्तावेज़, आंकड़े और बातचीत दर्ज हैं।', href: '/standards/' },
@@ -456,23 +456,13 @@ export async function homeModel(lang: Lang) {
     return out;
   });
 
-  // ---- Latest headlines (newest first) for the section fronts
-  const ist = (d: Date) => new Date(d.getTime() + 330 * 60000);
-  const today = ist(new Date(c.articles[0]?.data.published ?? Date.now())).toISOString().slice(0, 10);
-  const latest = c.articles.slice(0, 5).map((e: any) => {
-    const d = ist(new Date(e.data.published));
-    const sameDay = d.toISOString().slice(0, 10) === today;
-    const hh = d.getUTCHours(), mm = String(d.getUTCMinutes()).padStart(2, '0');
-    const time = sameDay
-      ? (lang === 'hi' ? `${hh}:${mm}` : `${((hh + 11) % 12) + 1}:${mm} ${hh < 12 ? 'am' : 'pm'}`)
-      : d.toLocaleDateString(lang === 'hi' ? 'hi-IN' : 'en-GB', { day: 'numeric', month: 'short', timeZone: 'UTC' });
-    return { ...card(e.data.id), time };
-  });
+  // ---- The week ahead (editor's diary in homepage.json)
+  const week = (HOME.weekAhead ?? []).map((x: any) => ({ icon: x.icon, date: x.date[lang], text: x.text[lang], href: x.link ? urlOf(get(x.link).data) : null }));
 
   // ---- Desks: world, science and tech, sports
   const desks = (HOME.desks ?? []).map((s: any) => ({ key: s.section, lead: card(s.lead), list: (s.list ?? []).map(card) }));
 
-  return { latest, desks, lead, briefing, numbers, dashHref, big, bigAlso, top, start, trackers, billsCard, econCard, elCard, budgetCard, scCard, mapModel, parl, fcCards, fcStats, explained, opinion, sections };
+  return { week, desks, lead, briefing, numbers, dashHref, big, bigAlso, top, start, trackers, billsCard, econCard, elCard, budgetCard, scCard, mapModel, parl, fcCards, fcStats, explained, opinion, sections };
 }
 
 export { esc };
