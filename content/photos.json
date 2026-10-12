@@ -830,16 +830,6 @@
     "page": "https://commons.wikimedia.org/wiki/File:Om_Birla_(2021)_(cropped).jpg"
   },
   {
-    "id": "cp-b-block",
-    "articleId": "india-bloc-march-to-supreme-court-after-cji-declines-meeting",
-    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Connaught_Place%2C_B_Block_at_night%2C_Delhi.jpg/1280px-Connaught_Place%2C_B_Block_at_night%2C_Delhi.jpg",
-    "credit": "Photo: Slyronit / Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "alt": "Connaught Place in central New Delhi, where the INDIA bloc's march is due to begin",
-    "alt_hi": "मध्य दिल्ली का कनॉट प्लेस, जहां से इंडिया गठबंधन का मार्च शुरू होना है",
-    "page": "https://commons.wikimedia.org/wiki/File:Connaught_Place,_B_Block_at_night,_Delhi.jpg"
-  },
-  {
     "id": "jnpt",
     "articleId": "cabinet-approves-integrated-transport-logistics-authority",
     "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/JNPT_Port_container_handling.jpg/1280px-JNPT_Port_container_handling.jpg",
@@ -1098,5 +1088,15 @@
     "alt": "North Block on Raisina Hill, New Delhi, home to the Finance and Home ministries",
     "alt_hi": "नई दिल्ली में रायसीना हिल पर नॉर्थ ब्लॉक, जहां वित्त और गृह मंत्रालय हैं",
     "page": "https://commons.wikimedia.org/wiki/File:North_Block,_Raisina_Hill,_New_Delhi_04.jpg"
+  },
+  {
+    "id": "sc-courtyard",
+    "articleId": "india-bloc-march-to-supreme-court-after-cji-declines-meeting",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Supreme_Court_of_India%2C_inside_buildings_01.jpg/1280px-Supreme_Court_of_India%2C_inside_buildings_01.jpg",
+    "credit": "Photo: Pinakpani / Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "alt": "Inside the Supreme Court of India complex, New Delhi",
+    "alt_hi": "नई दिल्ली में सुप्रीम कोर्ट परिसर के भीतर",
+    "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India,_inside_buildings_01.jpg"
   }
 ]
