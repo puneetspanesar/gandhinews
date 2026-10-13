@@ -805,3 +805,108 @@ html.so-on{overflow:hidden}
  .cmp-c::before{content:attr(data-col);display:block;font-family:var(--f-head);font-size:12px;font-weight:600;color:var(--mut);margin-bottom:2px}
  .cmp-c.hl::before{color:var(--red)}
 }
+
+/* ---------- Election guides ---------- */
+.elx{padding-bottom:48px}
+.elx .ehd{padding:28px 0 8px;max-width:860px}
+.elx .ehd .k{font-family:var(--f-head);font-size:13px;font-weight:600;color:var(--red)}
+.elx .ehd h1{font-size:34px;line-height:1.15;margin:6px 0 10px}
+.elx .ehd .sd{font-size:17px;color:var(--ink2);line-height:1.5}
+.elx .keys{display:grid;grid-template-columns:repeat(4,1fr);gap:0;border:1px solid var(--line);border-radius:6px;margin-top:20px}
+.elx .keys>div{padding:14px 16px;border-left:1px solid var(--line);display:flex;flex-direction:column;gap:2px}
+.elx .keys>div:first-child{border-left:0}
+.elx .keys .ic{width:20px;height:20px;color:var(--red);margin-bottom:4px}
+.elx .keys b{font-family:var(--f-head);font-size:17px;font-weight:600}
+.elx .keys span{font-size:13px;color:var(--mut)}
+.elx .sec{margin-top:40px}
+.elx .sh{display:flex;align-items:baseline;gap:14px;border-bottom:2px solid var(--ink);padding-bottom:8px;margin-bottom:18px}
+.elx .sh h2{font-size:22px}
+.elx .sh .x{font-size:13px;color:var(--mut)}
+.elx .st{font-family:var(--f-head);font-size:15px;font-weight:600;margin-bottom:10px}
+.elx .pt{width:64px;height:64px;border-radius:50%;object-fit:cover;object-position:top;flex:none;background:var(--ph)}
+.elx .pt.lg{width:112px;height:112px}
+.elx .ini{display:inline-flex;align-items:center;justify-content:center;color:#fff;font-family:var(--f-head);font-weight:600;font-size:20px}
+.elx .pt.lg.ini{font-size:34px}
+.elx .pty{display:inline-flex;align-items:center;gap:5px;font-family:var(--f-head);font-size:13px;font-weight:600;color:var(--pc);border:1px solid var(--pc);border-radius:20px;padding:2px 10px 2px 7px;line-height:1.4}
+.elx .pty .ic{width:15px;height:15px}
+.elx .pty.sm{font-size:12px;padding:1px 8px 1px 6px}
+.elx .pty.xs{font-size:11px;padding:0 6px 0 5px;gap:3px}.elx .pty.xs .ic{width:12px;height:12px}
+.elx .role{display:block;font-size:12px;color:var(--mut);font-family:var(--f-head);font-weight:500}
+.elx .gov{display:grid;grid-template-columns:1.25fr 1fr;gap:28px}
+.elx .cmc{display:flex;gap:20px;border:1px solid var(--line);border-radius:6px;padding:20px}
+.elx .cmc h3{font-size:24px;margin:2px 0 8px}
+.elx .cmc .m{font-size:14px;color:var(--ink2);margin-top:10px;line-height:1.5}
+.elx .mg{font-size:14px;margin-top:6px}
+.elx .cr{font-size:11px;color:var(--mut);margin-top:8px}
+.elx .offs{display:flex;flex-direction:column;gap:0;border:1px solid var(--line);border-radius:6px}
+.elx .off{display:flex;gap:14px;align-items:center;padding:12px 16px;border-top:1px solid var(--line)}
+.elx .off:first-child{border-top:0}
+.elx .off .pt{width:48px;height:48px;font-size:16px}
+.elx .off b{display:block;font-family:var(--f-head);font-size:16px;font-weight:600;margin:1px 0 4px}
+.elx .v22{display:grid;grid-template-columns:1fr 1fr;gap:40px}
+.elx .waf{display:grid;grid-template-columns:repeat(20,1fr);gap:3px;max-width:440px}
+.elx .waf i{aspect-ratio:1;border-radius:2px;display:block}
+.elx .leg{list-style:none;padding:0;margin:14px 0 0;display:flex;flex-wrap:wrap;gap:8px 18px}
+.elx .leg li{display:flex;align-items:center;gap:6px;font-size:14px}
+.elx .leg li>i{width:10px;height:10px;border-radius:2px}
+.elx .leg .ic{width:15px;height:15px;color:var(--mut)}
+.elx .vs{list-style:none;padding:0;margin:0}
+.elx .vs li{display:grid;grid-template-columns:150px 1fr 56px;gap:10px;align-items:center;padding:7px 0;border-top:1px solid var(--line);font-size:14px}
+.elx .vs li:first-child{border-top:0}
+.elx .vs .pl{display:flex;align-items:center;gap:6px}.elx .vs .pl .ic{width:15px;height:15px;color:var(--mut)}
+.elx .vs .bar{height:10px;background:var(--ph);border-radius:2px;overflow:hidden}.elx .vs .bar i{display:block;height:100%}
+.elx .vs b{text-align:right;font-family:var(--f-head)}
+.elx .mins{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.elx .mn{border:1px solid var(--line);border-radius:6px;padding:16px;display:flex;flex-direction:column}
+.elx .mh{display:flex;gap:14px;align-items:flex-start}
+.elx .mh h3{font-size:17px;line-height:1.25;margin-bottom:6px}
+.elx .seat{display:flex;align-items:center;gap:4px;font-size:13px;color:var(--ink2);margin-top:6px}.elx .seat .ic{width:14px;height:14px;color:var(--red)}
+.elx .pf{list-style:none;padding:0;margin:12px 0 0;border-top:1px solid var(--line);padding-top:10px;font-size:13px;color:var(--ink2);line-height:1.45}
+.elx .pf li{padding:2px 0}
+.elx .note{font-size:13px;color:var(--ink2);margin-top:12px;border-top:1px solid var(--line);padding-top:10px}
+.elx .res{margin-top:auto;padding-top:10px;border-top:1px solid var(--line);margin-top:12px;font-size:13px}
+.elx .res .rl{display:block;font-size:11px;color:var(--mut);font-family:var(--f-head);font-weight:600;text-transform:uppercase;letter-spacing:.04em;margin-bottom:2px}
+.elx .res p{margin:2px 0}.elx .res b{font-family:var(--f-head);color:var(--red)}
+.elx .res .ru{color:var(--ink2);display:flex;flex-wrap:wrap;align-items:center;gap:4px}
+.elx .fm{margin-top:16px;border:1px solid var(--line);border-radius:6px;padding:12px 16px}
+.elx .fm summary{cursor:pointer;font-family:var(--f-head);font-weight:600;font-size:14px}
+.elx .fm ul{list-style:none;padding:0;margin:10px 0 0}
+.elx .fm li{display:grid;grid-template-columns:200px 140px 1fr;gap:10px;padding:8px 0;border-top:1px solid var(--line);font-size:13px}
+.elx .house{display:grid;grid-template-columns:320px 1fr;gap:40px}
+.elx .hs{list-style:none;padding:0;margin:0}
+.elx .hs li{display:grid;grid-template-columns:12px 1fr auto;gap:10px;align-items:center;padding:8px 0;border-top:1px solid var(--line);font-size:14px}
+.elx .hs li:first-child{border-top:0}.elx .hs li>i{width:12px;height:12px;border-radius:2px}
+.elx .hs b{font-family:var(--f-head)}
+.elx .bt{width:100%;border-collapse:collapse;font-size:13px}
+.elx .bt th{text-align:left;font-family:var(--f-head);font-weight:600;color:var(--mut);font-size:12px;padding:6px 8px;border-bottom:1px solid var(--line)}
+.elx .bt td{padding:8px;border-bottom:1px solid var(--line)}
+.elx .iss{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.elx .iss>div{background:#f4f4f2;border-radius:6px;padding:16px}
+.elx .iss h3{font-size:16px;margin-bottom:6px}.elx .iss p{font-size:14px;color:var(--ink2);line-height:1.5}
+.elx .etl{list-style:none;padding:0;margin:0;border-left:2px solid var(--line);margin-left:6px}
+.elx .etl li{display:grid;grid-template-columns:150px 1fr;gap:14px;padding:8px 0 8px 18px;position:relative;font-size:14px}
+.elx .etl li::before{content:"";position:absolute;left:-6px;top:14px;width:10px;height:10px;border-radius:50%;background:var(--red)}
+.elx .etl b{font-family:var(--f-head);font-size:13px}
+.elx .erel{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(3,1fr);gap:0 24px}
+.elx .erel li{border-top:1px solid var(--line);padding:12px 0}
+.elx .erel a{font-family:var(--f-head);font-weight:500;font-size:15px;line-height:1.35}.elx .erel a:hover{text-decoration:underline}
+.elx .erel .k{display:block;font-size:12px;color:var(--mut);font-weight:500;margin-bottom:2px}
+.elx .srcn{font-size:12px;color:var(--mut);margin-top:36px;border-top:1px solid var(--line);padding-top:12px;max-width:860px}
+.elx .hubg{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-top:24px}
+.elx .hc{border:1px solid var(--line);border-radius:6px;padding:18px;display:flex;flex-direction:column;gap:6px;color:var(--mut)}
+.elx .hc.on{color:var(--ink);border-color:var(--ink)}.elx .hc.on:hover{background:#f4f4f2}
+.elx .hc h2{font-size:22px;color:inherit}.elx .hc .k{font-size:12px;font-family:var(--f-head);font-weight:600}.elx .hc.on .k{color:var(--red)}
+.elx .hc p{display:flex;align-items:center;gap:6px;font-size:14px}.elx .hc .ic{width:16px;height:16px}
+@media(max-width:980px){
+ .elx .gov,.elx .v22,.elx .house{grid-template-columns:1fr}
+ .elx .mins,.elx .iss,.elx .erel{grid-template-columns:1fr 1fr}
+ .elx .hubg{grid-template-columns:1fr 1fr}
+ .elx .keys{grid-template-columns:1fr 1fr}.elx .keys>div:nth-child(3){border-left:0}.elx .keys>div:nth-child(n+3){border-top:1px solid var(--line)}
+}
+@media(max-width:640px){
+ .elx .ehd h1{font-size:26px}
+ .elx .mins,.elx .iss,.elx .erel,.elx .hubg{grid-template-columns:1fr}
+ .elx .cmc{flex-direction:column}
+ .elx .fm li,.elx .etl li{grid-template-columns:1fr}
+ .elx .vs li{grid-template-columns:110px 1fr 50px}
+}

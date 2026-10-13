@@ -1,0 +1,1217 @@
+{
+  "meta": {
+    "state": "Punjab",
+    "page": "Punjab Assembly election 2027",
+    "compiled_on": "2026-10-13",
+    "notes": [
+      "2022 constituency figures are from ECI results pages (results.eci.gov.in/ResultAcGenMar2022), which ECI marks provisional; final figures are in Form-20.",
+      "punjab.gov.in and punjabvidhansabha.gov.in block automated fetching, so the council of ministers is reconstructed from dated media reports of each change. No single official list dated October 2026 was available.",
+      "Wikimedia Commons could not be opened directly; photo and symbol files below are search-index hits with licence unconfirmed."
+    ]
+  },
+  "election": {
+    "total_seats": 117,
+    "reserved_sc_seats": 34,
+    "reserved_sc_seats_unverified": true,
+    "majority_mark": 59,
+    "assembly": "16th Punjab Vidhan Sabha",
+    "assembly_constituted": "2022-03-11",
+    "first_sitting_oath": "2022-03-17",
+    "term_end": "2027-03-16",
+    "term_end_note": "Derived: five years from the first sitting (March 17, 2022) under Article 172. Not confirmed against ECI's term-of-houses list, which could not be fetched.",
+    "term_end_unverified": true,
+    "expected_election_window": "February to March 2027",
+    "expected_election_window_sources": [
+      {
+        "who": "Babushahi citing The Tribune (June 17, 2026): Punjab, UP, Uttarakhand, Goa and Manipur polls 'likely to be held as per schedule during February-March 2027'; no proposal to advance them",
+        "url": "https://www.babushahi.com/full-news.php?id=222627"
+      },
+      {
+        "who": "BOOM elections tracker lists Punjab as due Feb 2027",
+        "url": "https://elections.boomlive.in/elections/upcoming"
+      }
+    ],
+    "schedule_announced": false,
+    "result_2022": {
+      "poll_date": "2022-02-20",
+      "results_date": "2022-03-10",
+      "turnout_pct": 71.95,
+      "turnout_sources": [
+        "https://indianexpress.com/elections/punjab-assembly-elections-poll-panel-revises-punjab-voter-turnout-to-71-95-per-cent-7784620/"
+      ],
+      "parties": [
+        {
+          "party": "AAP",
+          "contested": 117,
+          "seats": 92,
+          "votes": 6538783,
+          "vote_share_pct": 42.01
+        },
+        {
+          "party": "INC",
+          "contested": 117,
+          "seats": 18,
+          "votes": 3576684,
+          "vote_share_pct": 22.98
+        },
+        {
+          "party": "SAD",
+          "contested": 97,
+          "seats": 3,
+          "votes": 2861286,
+          "vote_share_pct": 18.38,
+          "alliance": "SAD-BSP"
+        },
+        {
+          "party": "BJP",
+          "contested": 73,
+          "seats": 2,
+          "votes": 1027143,
+          "vote_share_pct": 6.6,
+          "alliance": "NDA (BJP, PLC, SAD Sanyukt)"
+        },
+        {
+          "party": "BSP",
+          "contested": 20,
+          "seats": 1,
+          "votes": 275232,
+          "vote_share_pct": 1.77,
+          "alliance": "SAD-BSP"
+        },
+        {
+          "party": "IND",
+          "seats": 1,
+          "votes": 457410,
+          "vote_share_pct": 2.94
+        },
+        {
+          "party": "SAD (Amritsar)",
+          "contested": 81,
+          "seats": 0,
+          "votes": 386176,
+          "vote_share_pct": 2.48
+        },
+        {
+          "party": "Others (incl. PLC, SAD Sanyukt, LIP)",
+          "seats": 0,
+          "vote_share_pct": 2.13,
+          "note": "PLC 0.54, SAD(S) 0.59, LIP 0.28, remaining others 0.72"
+        },
+        {
+          "party": "NOTA",
+          "votes": 110308,
+          "vote_share_pct": 0.71
+        }
+      ],
+      "sources": {
+        "seats": [
+          "https://results.eci.gov.in/ResultAcGenMar2022/partywiseresult-S19.htm"
+        ],
+        "votes_and_vote_share": [
+          "https://en.wikipedia.org/wiki/2022_Punjab_Legislative_Assembly_election",
+          "https://web.archive.org/web/20230214084523/https://ceopunjab.gov.in/DownLoadDocument?t=2294&l=En&q=election"
+        ]
+      },
+      "vote_share_note": "ECI's party-wise page shows seats only in text form; vote counts and shares are from Wikipedia, which cites CEO Punjab."
+    },
+    "current_house_position": {
+      "as_of": "2026-10",
+      "unverified": true,
+      "by_party_label": {
+        "AAP": 94,
+        "INC": 16,
+        "SAD": 3,
+        "BJP": 2,
+        "BSP": 1,
+        "IND": 1
+      },
+      "effective": {
+        "AAP": 95,
+        "INC": 14,
+        "INC_suspended_listed_independent": 2,
+        "SAD": 1,
+        "Akali Dal (Waris Punjab De)": 1,
+        "BJP": 2,
+        "BSP": 1,
+        "IND": 1
+      },
+      "explanation": "Computed from by-election results and recorded defections: AAP gained Chabbewal, Dera Baba Nanak and Gidderbaha from INC (2024), lost Barnala to INC (2024), held Jalandhar West (2024), Ludhiana West (2025) and Tarn Taran (2025). Banga MLA Sukhwinder Kumar Sukhi moved from SAD to AAP; Dakha MLA Manpreet Singh Ayali moved from SAD to Akali Dal (Waris Punjab De); INC suspended Sandeep Jakhar (Abohar) and Vikramjit Singh Chaudhary (Phillaur). Wikipedia's own infobox (AAP 94, INC 16, SAD 2, BJP 2, BSP 1, IND 1) does not add to 117. Defection counts are not formal changes in House records.",
+      "by_elections": [
+        {
+          "date": "2024-07-10",
+          "seat": "Jalandhar West",
+          "winner": "Mohinder Bhagat",
+          "party": "AAP",
+          "vacated_by": "Sheetal Angural (AAP, resigned and joined BJP)"
+        },
+        {
+          "date": "2024-11-20",
+          "seat": "Chabbewal",
+          "winner": "Ishank Kumar",
+          "party": "AAP",
+          "vacated_by": "Raj Kumar Chabbewal (INC, resigned)"
+        },
+        {
+          "date": "2024-11-20",
+          "seat": "Dera Baba Nanak",
+          "winner": "Gurdeep Singh Randhawa",
+          "party": "AAP",
+          "vacated_by": "Sukhjinder Singh Randhawa (INC, elected to Lok Sabha)",
+          "date_unverified": true
+        },
+        {
+          "date": "2024-11-20",
+          "seat": "Gidderbaha",
+          "winner": "Hardeep Singh Dimpy Dhillon",
+          "party": "AAP",
+          "vacated_by": "Amrinder Singh Raja Warring (INC, elected to Lok Sabha)",
+          "date_unverified": true
+        },
+        {
+          "date": "2024-11-20",
+          "seat": "Barnala",
+          "winner": "Kuldeep Singh Dhillon",
+          "party": "INC",
+          "vacated_by": "Gurmeet Singh Meet Hayer (AAP, elected to Lok Sabha)",
+          "date_unverified": true
+        },
+        {
+          "date": "2025-06-19",
+          "seat": "Ludhiana West",
+          "winner": "Sanjeev Arora",
+          "party": "AAP",
+          "vacated_by": "Gurpreet Bassi Gogi (AAP, died January 11, 2025)"
+        },
+        {
+          "date": "2025-11-11",
+          "seat": "Tarn Taran",
+          "winner": "Harmeet Singh Sandhu",
+          "party": "AAP",
+          "vacated_by": "Kashmir Singh Sohal (AAP, died June 27, 2025)"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/16th_Punjab_Assembly",
+        "https://en.wikipedia.org/wiki/2027_Punjab_Legislative_Assembly_election"
+      ]
+    },
+    "alliances_2027": {
+      "unverified": true,
+      "notes": [
+        "BJP said it will contest all 117 seats alone and ruled out an alliance with SAD (Times of India, August 12, 2026, as cited on Wikipedia).",
+        "SAD (Amritsar) released a first list of 20 candidates on July 29, 2026."
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2027_Punjab_Legislative_Assembly_election",
+        "https://www.indiatvnews.com/news/india/shiromani-akali-dal-amritsar-announces-first-list-of-20-candidates-for-punjab-assembly-elections-2027-2026-07-29-1049694"
+      ]
+    },
+    "sources": [
+      "https://results.eci.gov.in/ResultAcGenMar2022/partywiseresult-S19.htm",
+      "https://en.wikipedia.org/wiki/2022_Punjab_Legislative_Assembly_election",
+      "https://en.wikipedia.org/wiki/16th_Punjab_Assembly",
+      "https://en.wikipedia.org/wiki/2027_Punjab_Legislative_Assembly_election"
+    ]
+  },
+  "government": {
+    "chief_minister": {
+      "name": "Bhagwant Mann",
+      "hindi_name": "भगवंत मान",
+      "punjabi_name": "ਭਗਵੰਤ ਮਾਨ",
+      "names_unverified": true,
+      "party": "AAP",
+      "sworn_in": "2022-03-16",
+      "sworn_in_place": "Khatkar Kalan (SBS Nagar)",
+      "portfolios": [
+        "General Administration",
+        "Home Affairs and Justice",
+        "Vigilance",
+        "Personnel",
+        "Cooperation",
+        "Legal and Legislative Affairs",
+        "Civil Aviation",
+        "other departments not allocated to any minister"
+      ],
+      "portfolios_unverified": true,
+      "constituency": "Dhuri",
+      "result_2022": {
+        "election": "2022 general",
+        "ac_number": 107,
+        "constituency": "Dhuri",
+        "votes": 82592,
+        "vote_share_pct": 64.29,
+        "runner_up": {
+          "name": "Dalvir Singh Goldy",
+          "party": "INC",
+          "votes": 24386,
+          "vote_share_pct": 18.98
+        },
+        "margin_votes": 58206,
+        "provisional_eci_counts": true,
+        "sources": [
+          "https://results.eci.gov.in/ResultAcGenMar2022/ConstituencywiseS19107.htm?ac=107"
+        ]
+      },
+      "photo": {
+        "commons_url": "https://commons.wikimedia.org/wiki/File:Bhagwant_Mann.png",
+        "licence": null,
+        "author": null,
+        "unverified": true,
+        "note": "Found via search index only; Commons file page could not be fetched to confirm licence and author."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mann_ministry",
+        "https://en.wikipedia.org/wiki/Bhagwant_Mann",
+        "https://newsdarpan.in/en/article/punjab-cabinet-ministers-list-2026-contact-numbers-portfolios"
+      ]
+    },
+    "governor": {
+      "name": "Gulab Chand Kataria",
+      "hindi_name": "गुलाब चंद कटारिया",
+      "since": "2024-07-31",
+      "sources": [
+        "https://www.newsonair.gov.in/gulab-chand-kataria-takes-oath-as-governor-of-punjab/",
+        "https://aninews.in/news/national/politics/punjab-governor-approves-reallocation-of-key-portfolios-in-bhagwant-mann-cabinet20260511220724/"
+      ],
+      "note": "Still Governor as of May 11, 2026 (approved portfolio changes). No later change found."
+    },
+    "speaker": {
+      "name": "Kultar Singh Sandhwan",
+      "hindi_name": "कुलतार सिंह संधवां",
+      "party": "AAP",
+      "since": "2022-03-21",
+      "sources": [
+        "https://en.wikipedia.org/wiki/16th_Punjab_Assembly",
+        "https://www.babushahi.com/view-news.php?id=218507"
+      ],
+      "note": "Confirmed in office March 16, 2026."
+    },
+    "deputy_speaker": {
+      "name": "Jai Krishan Singh Rori",
+      "party": "AAP",
+      "since": "2022-06-30",
+      "sources": [
+        "https://en.wikipedia.org/wiki/16th_Punjab_Assembly"
+      ],
+      "unverified": true
+    },
+    "leader_of_opposition": {
+      "name": "Partap Singh Bajwa",
+      "hindi_name": "प्रताप सिंह बाजवा",
+      "party": "INC",
+      "since": "2022-04-09",
+      "sources": [
+        "https://www.tribuneindia.com/news/punjab/amarinder-singh-raja-warring-is-punjab-congress-chief-partap-singh-bajwa-clp-leader-384969",
+        "https://www.babushahi.com/view-news.php?id=218507"
+      ],
+      "note": "Named as LoP on March 16, 2026. Not rechecked after Pargat Singh became PCC chief on October 2, 2026."
+    },
+    "cabinet_size_note": "CM plus 15 ministers (one, Sanjeev Arora, without portfolio and in custody). Constitutional ceiling is 18 including the CM (15% of 117). Laljit Singh Bhullar's March 2026 vacancy has not been filled as far as found.",
+    "cabinet_size_unverified": true
+  },
+  "ministers": [
+    {
+      "id": "harpal-singh-cheema",
+      "name": "Harpal Singh Cheema",
+      "hindi_name": "हरपाल सिंह चीमा",
+      "punjabi_name": "ਹਰਪਾਲ ਸਿੰਘ ਚੀਮਾ",
+      "role": "Cabinet Minister",
+      "party": "AAP",
+      "portfolios": [
+        "Finance",
+        "Planning",
+        "Programme Implementation",
+        "Excise and Taxation",
+        "Transport (additional charge from March 2026)"
+      ],
+      "constituency": "Dirba",
+      "joined_cabinet": "2022-03-19",
+      "result_2022": {
+        "election": "2022 general",
+        "ac_number": 100,
+        "constituency": "Dirba",
+        "votes": 82630,
+        "vote_share_pct": 56.89,
+        "runner_up": {
+          "name": "Gulzar Singh Moonak",
+          "party": "SAD",
+          "votes": 31975,
+          "vote_share_pct": 22.01
+        },
+        "margin_votes": 50655,
+        "provisional_eci_counts": true,
+        "sources": [
+          "https://results.eci.gov.in/ResultAcGenMar2022/ConstituencywiseS19100.htm?ac=100"
+        ]
+      },
+      "sources": [
+        "https://www.indiatvnews.com/news/india/punjab-cabinet-ministers-swearing-in-ceremony-live-updates-ten-aam-aadmi-party-mla-oath-taking-punjab-chief-minister-bhagwant-mann-latest-news-updates-2022-03-19-764980",
+        "https://newsdarpan.in/en/article/punjab-cabinet-ministers-list-2026-contact-numbers-portfolios",
+        "https://newsable.asianetnews.com/india/punjab-minister-laljit-bhullar-resigns-cheema-gets-transport-charge-articleshow-d6gg7rn",
+        "https://en.wikipedia.org/wiki/Mann_ministry"
+      ],
+      "names_unverified": true,
+      "photo": {
+        "commons_url": "https://commons.wikimedia.org/wiki/File:Harpal_Singh_Cheema.jpg",
+        "licence": null,
+        "author": null,
+        "unverified": true,
+        "note": "Found via search index only; Commons file page could not be fetched to confirm licence and author. Check before use."
+      }
+    },
+    {
+      "id": "aman-arora",
+      "name": "Aman Arora",
+      "hindi_name": "अमन अरोड़ा",
+      "punjabi_name": "ਅਮਨ ਅਰੋੜਾ",
+      "role": "Cabinet Minister",
+      "party": "AAP",
+      "portfolios": [
+        "Industries and Commerce (from May 11, 2026)",
+        "Investment Promotion (from May 11, 2026)",
+        "New and Renewable Energy Sources",
+        "Printing and Stationery",
+        "Governance Reforms and Public Grievances",
+        "Employment Generation and Training"
+      ],
+      "constituency": "Sunam",
+      "joined_cabinet": "2022-07-04",
+      "result_2022": {
+        "election": "2022 general",
+        "ac_number": 101,
+        "constituency": "Sunam",
+        "votes": 94794,
+        "vote_share_pct": 61.28,
+        "runner_up": {
+          "name": "Jaswinder Singh Dhiman",
+          "party": "INC",
+          "votes": 19517,
+          "vote_share_pct": 12.62
+        },
+        "margin_votes": 75277,
+        "provisional_eci_counts": true,
+        "sources": [
+          "https://results.eci.gov.in/ResultAcGenMar2022/ConstituencywiseS19101.htm?ac=101"
+        ]
+      },
+      "sources": [
+        "https://www.tribuneindia.com/news/punjab/punjab-cabinet-expansion-live-updates-5-ministers-to-be-inducted-shortly-409442",
+        "https://aninews.in/news/national/politics/punjab-governor-approves-reallocation-of-key-portfolios-in-bhagwant-mann-cabinet20260511220724/",
+        "https://www.tribuneindia.com/news/punjab/after-sanjeev-aroras-arrest-punjab-allocates-his-portfolios-to-other-ministers/",
+        "https://newsdarpan.in/en/article/punjab-cabinet-ministers-list-2026-contact-numbers-portfolios",
+        "https://en.wikipedia.org/wiki/Mann_ministry"
+      ],
+      "names_unverified": true,
+      "photo": null
+    },
+    {
+      "id": "baljit-kaur",
+      "name": "Dr. Baljit Kaur",
+      "hindi_name": "डॉ. बलजीत कौर",
+      "punjabi_name": "ਡਾ. ਬਲਜੀਤ ਕੌਰ",
+      "role": "Cabinet Minister",
+      "party": "AAP",
+      "portfolios": [
+        "Social Justice, Empowerment and Minorities",
+        "Social Security and Development of Women and Children"
+      ],
+      "constituency": "Malout (SC)",
+      "joined_cabinet": "2022-03-19",
+      "result_2022": {
+        "election": "2022 general",
+        "ac_number": 85,
+        "constituency": "Malout",
+        "votes": 77370,
+        "vote_share_pct": 55.6,
+        "runner_up": {
+          "name": "Harpreet Singh",
+          "party": "SAD",
+          "votes": 37137,
+          "vote_share_pct": 26.67
+        },
+        "margin_votes": 40233,
+        "provisional_eci_counts": true,
+        "sources": [
+          "https://results.eci.gov.in/ResultAcGenMar2022/ConstituencywiseS1985.htm?ac=85"
+        ]
+      },
+      "sources": [
+        "https://www.indiatvnews.com/news/india/punjab-cabinet-ministers-swearing-in-ceremony-live-updates-ten-aam-aadmi-party-mla-oath-taking-punjab-chief-minister-bhagwant-mann-latest-news-updates-2022-03-19-764980",
+        "https://newsdarpan.in/en/article/punjab-cabinet-ministers-list-2026-contact-numbers-portfolios",
+        "https://en.wikipedia.org/wiki/Mann_ministry"
+      ],
+      "names_unverified": true,
+      "photo": null
+    },
+    {
+      "id": "balbir-singh",
+      "name": "Dr. Balbir Singh",
+      "hindi_name": "डॉ. बलबीर सिंह",
+      "punjabi_name": "ਡਾ. ਬਲਬੀਰ ਸਿੰਘ",
+      "role": "Cabinet Minister",
+      "party": "AAP",
+      "portfolios": [
+        "Health and Family Welfare",
+        "Medical Education and Research",
+        "Elections"
+      ],
+      "constituency": "Patiala Rural",
+      "joined_cabinet": "2023-01-07",
+      "result_2022": {
+        "election": "2022 general",
+        "ac_number": 110,
+        "constituency": "Patiala Rural",
+        "votes": 77155,
+        "vote_share_pct": 52.05,
+        "runner_up": {
+          "name": "Mohit Mohindra",
+          "party": "INC",
+          "votes": 23681,
+          "vote_share_pct": 15.97
+        },
+        "margin_votes": 53474,
+        "provisional_eci_counts": true,
+        "sources": [
+          "https://results.eci.gov.in/ResultAcGenMar2022/ConstituencywiseS19110.htm?ac=110"
+        ]
+      },
+      "sources": [
+        "https://www.theweek.in/news/india/2023/01/07/aap-mla-balbir-singh-sworn-in-as-punjab-cabinet-minister.html",
+        "https://newsdarpan.in/en/article/punjab-cabinet-ministers-list-2026-contact-numbers-portfolios",
+        "https://en.wikipedia.org/wiki/Mann_ministry"
+      ],
+      "names_unverified": true,
+      "photo": null
+    },
+    {
+      "id": "hardeep-singh-mundian",
+      "name": "Hardeep Singh Mundian",
+      "hindi_name": "हरदीप सिंह मुंडियां",
+      "punjabi_name": "ਹਰਦੀਪ ਸਿੰਘ ਮੁੰਡੀਆਂ",
+      "role": "Cabinet Minister",
+      "party": "AAP",
+      "portfolios": [
+        "Revenue, Rehabilitation and Disaster Management",
+        "Water Supply and Sanitation",
+        "Housing and Urban Development"
+      ],
+      "constituency": "Sahnewal",
+      "joined_cabinet": "2024-09-23",
+      "result_2022": {
+        "election": "2022 general",
+        "ac_number": 59,
+        "constituency": "Sahnewal",
+        "votes": 61515,
+        "vote_share_pct": 34.33,
+        "runner_up": {
+          "name": "Vikram Singh Bajwa",
+          "party": "INC",
+          "votes": 46322,
+          "vote_share_pct": 25.85
+        },
+        "margin_votes": 15193,
+        "provisional_eci_counts": true,
+        "sources": [
+          "https://results.eci.gov.in/ResultAcGenMar2022/ConstituencywiseS1959.htm?ac=59"
+        ]
+      },
+      "sources": [
+        "https://www.business-standard.com/india-news/bhagwant-mann-govt-inducts-five-aap-mlas-as-cabinet-ministers-in-punjab-124092300823_1.html",
+        "https://newsdarpan.in/en/article/punjab-cabinet-ministers-list-2026-contact-numbers-portfolios",
+        "https://en.wikipedia.org/wiki/Mann_ministry"
+      ],
+      "names_unverified": true,
+      "photo": null
+    },
+    {
+      "id": "lal-chand-kataruchakk",
+      "name": "Lal Chand Kataruchakk",
+      "hindi_name": "लाल चंद कटारूचक्क",
+      "punjabi_name": "ਲਾਲ ਚੰਦ ਕਟਾਰੂਚੱਕ",
+      "role": "Cabinet Minister",
+      "party": "AAP",
+      "portfolios": [
+        "Food, Civil Supplies and Consumer Affairs",
+        "Forests and Wildlife Preservation"
+      ],
+      "constituency": "Bhoa (SC)",
+      "joined_cabinet": "2022-03-19",
+      "result_2022": {
+        "election": "2022 general",
+        "ac_number": 2,
+        "constituency": "Bhoa",
+        "votes": 50339,
+        "vote_share_pct": 36.59,
+        "runner_up": {
+          "name": "Joginder Pal",
+          "party": "INC",
+          "votes": 49135,
+          "vote_share_pct": 35.72
+        },
+        "margin_votes": 1204,
+        "provisional_eci_counts": true,
+        "sources": [
+          "https://results.eci.gov.in/ResultAcGenMar2022/ConstituencywiseS192.htm?ac=2"
+        ]
+      },
+      "sources": [
+        "https://www.indiatvnews.com/news/india/punjab-cabinet-ministers-swearing-in-ceremony-live-updates-ten-aam-aadmi-party-mla-oath-taking-punjab-chief-minister-bhagwant-mann-latest-news-updates-2022-03-19-764980",
+        "https://newsdarpan.in/en/article/punjab-cabinet-ministers-list-2026-contact-numbers-portfolios",
+        "https://en.wikipedia.org/wiki/Mann_ministry"
+      ],
+      "names_unverified": true,
+      "photo": null
+    },
+    {
+      "id": "harjot-singh-bains",
+      "name": "Harjot Singh Bains",
+      "hindi_name": "हरजोत सिंह बैंस",
+      "punjabi_name": "ਹਰਜੋਤ ਸਿੰਘ ਬੈਂਸ",
+      "role": "Cabinet Minister",
+      "party": "AAP",
+      "portfolios": [
+        "School Education",
+        "Higher Education and Languages",
+        "Technical Education and Industrial Training",
+        "Information and Public Relations",
+        "Local Government (from May 11, 2026)"
+      ],
+      "constituency": "Anandpur Sahib",
+      "joined_cabinet": "2022-03-19",
+      "result_2022": {
+        "election": "2022 general",
+        "ac_number": 49,
+        "constituency": "Anandpur Sahib",
+        "votes": 82132,
+        "vote_share_pct": 57.92,
+        "runner_up": {
+          "name": "Kanwar Pal Singh",
+          "party": "INC",
+          "votes": 36352,
+          "vote_share_pct": 25.63
+        },
+        "margin_votes": 45780,
+        "provisional_eci_counts": true,
+        "sources": [
+          "https://results.eci.gov.in/ResultAcGenMar2022/ConstituencywiseS1949.htm?ac=49"
+        ]
+      },
+      "sources": [
+        "https://www.indiatvnews.com/news/india/punjab-cabinet-ministers-swearing-in-ceremony-live-updates-ten-aam-aadmi-party-mla-oath-taking-punjab-chief-minister-bhagwant-mann-latest-news-updates-2022-03-19-764980",
+        "https://aninews.in/news/national/politics/punjab-governor-approves-reallocation-of-key-portfolios-in-bhagwant-mann-cabinet20260511220724/",
+        "https://www.tribuneindia.com/news/punjab/after-sanjeev-aroras-arrest-punjab-allocates-his-portfolios-to-other-ministers/",
+        "https://newsdarpan.in/en/article/punjab-cabinet-ministers-list-2026-contact-numbers-portfolios"
+      ],
+      "notes": "Information and Public Relations is listed under Bains by newsdarpan.in (August 2026) and Wikipedia; not confirmed against a government notification.",
+      "names_unverified": true,
+      "photo": null
+    },
+    {
+      "id": "harbhajan-singh-eto",
+      "name": "Harbhajan Singh ETO",
+      "hindi_name": "हरभजन सिंह ईटीओ",
+      "punjabi_name": "ਹਰਭਜਨ ਸਿੰਘ ਈਟੀਓ",
+      "role": "Cabinet Minister",
+      "party": "AAP",
+      "portfolios": [
+        "Public Works (Buildings and Roads)"
+      ],
+      "constituency": "Jandiala (SC)",
+      "joined_cabinet": "2022-03-19",
+      "result_2022": {
+        "election": "2022 general",
+        "ac_number": 14,
+        "constituency": "Jandiala",
+        "votes": 59724,
+        "vote_share_pct": 46.41,
+        "runner_up": {
+          "name": "Sukhwinder Singh Danny Bandala",
+          "party": "INC",
+          "votes": 34341,
+          "vote_share_pct": 26.69
+        },
+        "margin_votes": 25383,
+        "provisional_eci_counts": true,
+        "sources": [
+          "https://results.eci.gov.in/ResultAcGenMar2022/ConstituencywiseS1914.htm?ac=14"
+        ]
+      },
+      "sources": [
+        "https://www.indiatvnews.com/news/india/punjab-cabinet-ministers-swearing-in-ceremony-live-updates-ten-aam-aadmi-party-mla-oath-taking-punjab-chief-minister-bhagwant-mann-latest-news-updates-2022-03-19-764980",
+        "https://www.ptcnews.tv/punjab-2/punjab-harbhajan-eto-stripped-of-power-department-sanjeev-arora-given-charge-4413391",
+        "https://newsdarpan.in/en/article/punjab-cabinet-ministers-list-2026-contact-numbers-portfolios"
+      ],
+      "notes": "Lost the Power department on August 18, 2025.",
+      "names_unverified": true,
+      "photo": null
+    },
+    {
+      "id": "barinder-kumar-goyal",
+      "name": "Barinder Kumar Goyal",
+      "hindi_name": "बरिंदर कुमार गोयल",
+      "punjabi_name": "ਬਰਿੰਦਰ ਕੁਮਾਰ ਗੋਇਲ",
+      "role": "Cabinet Minister",
+      "party": "AAP",
+      "portfolios": [
+        "Water Resources",
+        "Mines and Geology",
+        "Conservation of Land and Water"
+      ],
+      "constituency": "Lehra",
+      "joined_cabinet": "2024-09-23",
+      "result_2022": {
+        "election": "2022 general",
+        "ac_number": 99,
+        "constituency": "Lehra",
+        "votes": 60058,
+        "vote_share_pct": 43.59,
+        "runner_up": {
+          "name": "Parminder Singh Dhindsa",
+          "party": "SAD (Sanyukt)",
+          "votes": 33538,
+          "vote_share_pct": 24.34
+        },
+        "margin_votes": 26520,
+        "provisional_eci_counts": true,
+        "sources": [
+          "https://results.eci.gov.in/ResultAcGenMar2022/ConstituencywiseS1999.htm?ac=99"
+        ]
+      },
+      "sources": [
+        "https://www.business-standard.com/india-news/bhagwant-mann-govt-inducts-five-aap-mlas-as-cabinet-ministers-in-punjab-124092300823_1.html",
+        "https://newsdarpan.in/en/article/punjab-cabinet-ministers-list-2026-contact-numbers-portfolios",
+        "https://en.wikipedia.org/wiki/Mann_ministry"
+      ],
+      "names_unverified": true,
+      "photo": null
+    },
+    {
+      "id": "tarunpreet-singh-sond",
+      "name": "Tarunpreet Singh Sond",
+      "hindi_name": "तरुणप्रीत सिंह सौंद",
+      "punjabi_name": "ਤਰੁਨਪ੍ਰੀਤ ਸਿੰਘ ਸੌਂਦ",
+      "role": "Cabinet Minister",
+      "party": "AAP",
+      "portfolios": [
+        "Power (from May 11, 2026)",
+        "Rural Development and Panchayats",
+        "Labour",
+        "Tourism and Cultural Affairs",
+        "Hospitality"
+      ],
+      "constituency": "Khanna",
+      "joined_cabinet": "2024-09-23",
+      "result_2022": {
+        "election": "2022 general",
+        "ac_number": 57,
+        "constituency": "Khanna",
+        "votes": 62425,
+        "vote_share_pct": 48.55,
+        "runner_up": {
+          "name": "Jasdeep Kaur Yadu",
+          "party": "SAD",
+          "votes": 26805,
+          "vote_share_pct": 20.85
+        },
+        "margin_votes": 35620,
+        "provisional_eci_counts": true,
+        "sources": [
+          "https://results.eci.gov.in/ResultAcGenMar2022/ConstituencywiseS1957.htm?ac=57"
+        ]
+      },
+      "sources": [
+        "https://www.business-standard.com/india-news/bhagwant-mann-govt-inducts-five-aap-mlas-as-cabinet-ministers-in-punjab-124092300823_1.html",
+        "https://aninews.in/news/national/politics/punjab-governor-approves-reallocation-of-key-portfolios-in-bhagwant-mann-cabinet20260511220724/",
+        "https://www.tribuneindia.com/news/punjab/after-sanjeev-aroras-arrest-punjab-allocates-his-portfolios-to-other-ministers/",
+        "https://newsdarpan.in/en/article/punjab-cabinet-ministers-list-2026-contact-numbers-portfolios"
+      ],
+      "names_unverified": true,
+      "photo": null
+    },
+    {
+      "id": "ravjot-singh",
+      "name": "Dr. Ravjot Singh",
+      "hindi_name": "डॉ. रवजोत सिंह",
+      "punjabi_name": "ਡਾ. ਰਵਜੋਤ ਸਿੰਘ",
+      "role": "Cabinet Minister",
+      "party": "AAP",
+      "portfolios": [
+        "Parliamentary Affairs",
+        "NRI Affairs (from January 8, 2026)",
+        "Jails (from March 2026)"
+      ],
+      "constituency": "Sham Chaurasi (SC)",
+      "joined_cabinet": "2024-09-23",
+      "result_2022": {
+        "election": "2022 general",
+        "ac_number": 42,
+        "constituency": "Sham Chaurasi",
+        "votes": 60730,
+        "vote_share_pct": 48.97,
+        "runner_up": {
+          "name": "Pawan Kumar Adia",
+          "party": "INC",
+          "votes": 39374,
+          "vote_share_pct": 31.75
+        },
+        "margin_votes": 21356,
+        "provisional_eci_counts": true,
+        "sources": [
+          "https://results.eci.gov.in/ResultAcGenMar2022/ConstituencywiseS1942.htm?ac=42"
+        ]
+      },
+      "sources": [
+        "https://www.business-standard.com/india-news/bhagwant-mann-govt-inducts-five-aap-mlas-as-cabinet-ministers-in-punjab-124092300823_1.html",
+        "https://www.tribuneindia.com/news/punjab/power-minister-sanjeev-arora-gets-local-government-department-in-punjab-cabinet-reshuffle/",
+        "https://newsable.asianetnews.com/india/punjab-minister-laljit-bhullar-resigns-cheema-gets-transport-charge-articleshow-d6gg7rn",
+        "https://newsdarpan.in/en/article/punjab-cabinet-ministers-list-2026-contact-numbers-portfolios"
+      ],
+      "notes": "Held Local Government until January 8, 2026, when it moved to Sanjeev Arora.",
+      "names_unverified": true,
+      "photo": null
+    },
+    {
+      "id": "gurmeet-singh-khudian",
+      "name": "Gurmeet Singh Khudian",
+      "hindi_name": "गुरमीत सिंह खुड्डियां",
+      "punjabi_name": "ਗੁਰਮੀਤ ਸਿੰਘ ਖੁੱਡੀਆਂ",
+      "role": "Cabinet Minister",
+      "party": "AAP",
+      "portfolios": [
+        "Agriculture and Farmers Welfare",
+        "Animal Husbandry, Fisheries and Dairy Development",
+        "Food Processing"
+      ],
+      "constituency": "Lambi",
+      "joined_cabinet": "2023-05-31",
+      "result_2022": {
+        "election": "2022 general",
+        "ac_number": 83,
+        "constituency": "Lambi",
+        "votes": 66313,
+        "vote_share_pct": 48.87,
+        "runner_up": {
+          "name": "Parkash Singh Badal",
+          "party": "SAD",
+          "votes": 54917,
+          "vote_share_pct": 40.47
+        },
+        "margin_votes": 11396,
+        "provisional_eci_counts": true,
+        "note": "Figures parsed from ECI page where columns run together (EVM 65,717 + postal 596 = 66,313; Badal 54,360 + 557 = 54,917).",
+        "sources": [
+          "https://results.eci.gov.in/ResultAcGenMar2022/ConstituencywiseS1983.htm?ac=83"
+        ]
+      },
+      "sources": [
+        "https://www.business-standard.com/india-news/inderbir-nijjar-resigns-from-punjab-cabinet-two-new-mlas-to-be-sworn-in-123053100061_1.html",
+        "https://newsdarpan.in/en/article/punjab-cabinet-ministers-list-2026-contact-numbers-portfolios",
+        "https://en.wikipedia.org/wiki/Mann_ministry"
+      ],
+      "notes": "Also spelt Khuddian.",
+      "names_unverified": true,
+      "photo": {
+        "commons_url": "https://commons.wikimedia.org/wiki/Category:Gurmeet_Singh_Khuddian",
+        "licence": null,
+        "author": null,
+        "unverified": true,
+        "note": "Found via search index only; Commons file page could not be fetched to confirm licence and author. Check before use. This is a category page, pick a file inside it."
+      }
+    },
+    {
+      "id": "mohinder-bhagat",
+      "name": "Mohinder Bhagat",
+      "hindi_name": "मोहिंदर भगत",
+      "punjabi_name": "ਮਹਿੰਦਰ ਭਗਤ",
+      "role": "Cabinet Minister",
+      "party": "AAP",
+      "portfolios": [
+        "Defence Services Welfare",
+        "Freedom Fighters",
+        "Horticulture"
+      ],
+      "constituency": "Jalandhar West (SC)",
+      "joined_cabinet": "2024-09-23",
+      "result_2022": {
+        "election": "2022 general",
+        "ac_number": 34,
+        "constituency": "Jalandhar West",
+        "note": "Bhagat lost in 2022 as the BJP candidate (third, 33,486 votes, 28.81%). Winner was Sheetal Angural (AAP) with 39,213 votes (33.73%), runner-up Sushil Kumar Rinku (INC) 34,960 (30.07%), margin 4,253.",
+        "candidate_votes_2022": 33486,
+        "candidate_vote_share_2022_pct": 28.81,
+        "candidate_party_2022": "BJP",
+        "winner_2022": {
+          "name": "Sheetal Angural",
+          "party": "AAP",
+          "votes": 39213,
+          "vote_share_pct": 33.73
+        },
+        "runner_up": {
+          "name": "Sushil Kumar Rinku",
+          "party": "INC",
+          "votes": 34960,
+          "vote_share_pct": 30.07
+        },
+        "margin_votes": 4253,
+        "provisional_eci_counts": true,
+        "sources": [
+          "https://results.eci.gov.in/ResultAcGenMar2022/ConstituencywiseS1934.htm?ac=34"
+        ]
+      },
+      "seat_won_in": {
+        "election": "Jalandhar West by-election, July 10, 2024 (counted July 13, 2024)",
+        "votes": 55246,
+        "vote_share_pct": null,
+        "runner_up": {
+          "name": "Sheetal Angural",
+          "party": "BJP",
+          "votes": 17921
+        },
+        "third": {
+          "name": "Surinder Kaur",
+          "party": "INC",
+          "votes": 16757
+        },
+        "margin_votes": 37325,
+        "sources": [
+          "https://theprint.in/india/punjab-bypoll-aaps-mohinder-bhagat-defeats-bjps-sheetal-angural-in-jalandhar-west-assembly-seat/2173196/",
+          "https://en.wikipedia.org/wiki/16th_Punjab_Assembly"
+        ]
+      },
+      "sources": [
+        "https://www.business-standard.com/india-news/bhagwant-mann-govt-inducts-five-aap-mlas-as-cabinet-ministers-in-punjab-124092300823_1.html",
+        "https://newsdarpan.in/en/article/punjab-cabinet-ministers-list-2026-contact-numbers-portfolios",
+        "https://en.wikipedia.org/wiki/Mann_ministry"
+      ],
+      "names_unverified": true,
+      "photo": null
+    },
+    {
+      "id": "sanjeev-arora",
+      "name": "Sanjeev Arora",
+      "hindi_name": "संजीव अरोड़ा",
+      "punjabi_name": "ਸੰਜੀਵ ਅਰੋੜਾ",
+      "role": "Cabinet Minister (without portfolio since May 11, 2026)",
+      "party": "AAP",
+      "portfolios": [],
+      "status_note": "Arrested by the Enforcement Directorate on May 9, 2026 in a money-laundering case; his Power, Local Government and Industries/Investment Promotion portfolios were reallocated on May 11, 2026. Media through July 28, 2026 (LiveLaw, Supreme Court medical-bail hearing) still describe him as a Punjab minister in custody. A June 3, 2026 Babushahi report calls him 'former minister' without explanation. No report of resignation or removal was found.",
+      "status_unverified": true,
+      "constituency": "Ludhiana West",
+      "joined_cabinet": "2025-07-03",
+      "result_2022": null,
+      "seat_won_in": {
+        "election": "Ludhiana West by-election, June 19, 2025 (counted June 23, 2025)",
+        "votes": 35179,
+        "vote_share_pct": null,
+        "runner_up": {
+          "name": "Bharat Bhushan Ashu",
+          "party": "INC",
+          "votes": 24542
+        },
+        "margin_votes": 10637,
+        "sources": [
+          "https://www.ptcnews.tv/politics/ludhiana-west-bypoll-result-live-updates-ptc-news-punjab-politics-aap-congress-sad-bjp-livenews-4410908",
+          "https://en.wikipedia.org/wiki/16th_Punjab_Assembly"
+        ]
+      },
+      "seat_2022_context": {
+        "note": "Seat won in 2022 by Gurpreet Bassi Gogi (AAP), 40,443 votes (34.46%), over Bharat Bhushan Ashu (INC) 32,931 (28.06%), margin 7,512. Gogi died January 11, 2025.",
+        "sources": [
+          "https://results.eci.gov.in/ResultAcGenMar2022/ConstituencywiseS1964.htm?ac=64",
+          "https://en.wikipedia.org/wiki/16th_Punjab_Assembly"
+        ]
+      },
+      "sources": [
+        "https://www.etvbharat.com/en/!bharat/punjab-ludhiana-west-mla-sanjeev-arora-sworn-in-as-cabinet-minister-dhaliwal-resigns-enn25070304272",
+        "https://www.ptcnews.tv/punjab-2/punjab-harbhajan-eto-stripped-of-power-department-sanjeev-arora-given-charge-4413391",
+        "https://www.tribuneindia.com/news/punjab/power-minister-sanjeev-arora-gets-local-government-department-in-punjab-cabinet-reshuffle/",
+        "https://www.tribuneindia.com/news/punjab/after-sanjeev-aroras-arrest-punjab-allocates-his-portfolios-to-other-ministers/",
+        "https://aninews.in/news/national/politics/punjab-governor-approves-reallocation-of-key-portfolios-in-bhagwant-mann-cabinet20260511220724/",
+        "https://www.livelawbiz.com/amp/top-stories/supreme-court-reserves-orders-in-punjab-minister-sanjeev-aroras-bail-plea-on-medical-grounds-in-pmla-case-543163",
+        "https://www.livelaw.in/tags/sanjeev-arora",
+        "https://www.babushahi.com/full-news.php?id=222035"
+      ],
+      "names_unverified": true,
+      "photo": null
+    }
+  ],
+  "former_ministers": [
+    {
+      "name": "Vijay Singla",
+      "left": "2022-05-24",
+      "reason": "Sacked by CM over corruption allegations",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mann_ministry"
+      ]
+    },
+    {
+      "name": "Fauja Singh Sarari",
+      "left": "2023-01-07",
+      "reason": "Resigned after 'extortion' audio clip row",
+      "sources": [
+        "https://www.tribuneindia.com/news/punjab/punjab-minister-fauja-singh-sarari-resigns-468271"
+      ]
+    },
+    {
+      "name": "Inderbir Singh Nijjar",
+      "left": "2023-05-31",
+      "reason": "Resigned",
+      "sources": [
+        "https://www.business-standard.com/india-news/inderbir-nijjar-resigns-from-punjab-cabinet-two-new-mlas-to-be-sworn-in-123053100061_1.html"
+      ]
+    },
+    {
+      "name": "Gurmeet Singh Meet Hayer",
+      "left": "2024-06",
+      "reason": "Elected to Lok Sabha (Sangrur)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mann_ministry"
+      ],
+      "unverified": true
+    },
+    {
+      "name": "Chetan Singh Jauramajra, Anmol Gagan Maan, Balkar Singh, Brahm Shankar Jimpa",
+      "left": "2024-09-23",
+      "reason": "Dropped in reshuffle",
+      "sources": [
+        "https://www.business-standard.com/india-news/bhagwant-mann-govt-inducts-five-aap-mlas-as-cabinet-ministers-in-punjab-124092300823_1.html"
+      ]
+    },
+    {
+      "name": "Kuldeep Singh Dhaliwal",
+      "left": "2025-07-03",
+      "reason": "Dropped when Sanjeev Arora was inducted",
+      "sources": [
+        "https://www.etvbharat.com/en/!bharat/punjab-ludhiana-west-mla-sanjeev-arora-sworn-in-as-cabinet-minister-dhaliwal-resigns-enn25070304272"
+      ]
+    },
+    {
+      "name": "Laljit Singh Bhullar",
+      "left": "2026-03",
+      "reason": "Resigned amid row over the death of Punjab Warehousing Corporation official Gagandeep Singh Randhawa; Transport went to Cheema, Jails to Ravjot Singh",
+      "sources": [
+        "https://newsable.asianetnews.com/india/punjab-minister-laljit-bhullar-resigns-cheema-gets-transport-charge-articleshow-d6gg7rn",
+        "https://www.tribuneindia.com/news/punjab/breaking-aap-punjab-minister-laljit-bhullar-resigns-amid-warehousing-corporation-officials-death-row/"
+      ],
+      "exact_date_unverified": true
+    }
+  ],
+  "parties": [
+    {
+      "id": "AAP",
+      "name": "Aam Aadmi Party",
+      "hindi_name": "आम आदमी पार्टी",
+      "status": "National party",
+      "symbol": "Broom",
+      "symbol_hindi": "झाड़ू",
+      "symbol_image": null,
+      "symbol_image_note": "No Commons file for the broom symbol found via search.",
+      "sources": [
+        "https://eci.gov.in/files/file/9781-allotment-of-reserved-symbol-to-aam-aadmi-party-under-para-10-gujarat-bye-election-dt-04042019/",
+        "https://en.wikipedia.org/wiki/List_of_political_parties_in_India"
+      ]
+    },
+    {
+      "id": "INC",
+      "name": "Indian National Congress",
+      "hindi_name": "भारतीय राष्ट्रीय कांग्रेस",
+      "status": "National party",
+      "symbol": "Hand",
+      "symbol_hindi": "हाथ",
+      "symbol_image": {
+        "commons_url": "https://commons.wikimedia.org/wiki/File:Indian_National_Congress_hand_logo.svg",
+        "licence": null,
+        "author": null,
+        "unverified": true
+      },
+      "sources": [
+        "https://ceodelhinet.nic.in/eLearningv2/admin/HindiPDF/Parties_Symbols_Conditions.pdf"
+      ]
+    },
+    {
+      "id": "BJP",
+      "name": "Bharatiya Janata Party",
+      "hindi_name": "भारतीय जनता पार्टी",
+      "status": "National party",
+      "symbol": "Lotus",
+      "symbol_hindi": "कमल",
+      "symbol_image": {
+        "commons_url": "https://commons.wikimedia.org/wiki/File:BJP_Election_Symbol.svg",
+        "licence": null,
+        "author": null,
+        "unverified": true
+      },
+      "sources": [
+        "https://ceodelhinet.nic.in/eLearningv2/admin/HindiPDF/Parties_Symbols_Conditions.pdf"
+      ]
+    },
+    {
+      "id": "SAD",
+      "name": "Shiromani Akali Dal",
+      "hindi_name": "शिरोमणि अकाली दल",
+      "status": "State party (Punjab)",
+      "symbol": "Scales",
+      "symbol_hindi": "तराजू",
+      "symbol_image": null,
+      "symbol_image_note": "No Commons file found via search.",
+      "sources": [
+        "https://ceodelhinet.nic.in/eLearningv2/admin/HindiPDF/Parties_Symbols_Conditions.pdf"
+      ]
+    },
+    {
+      "id": "BSP",
+      "name": "Bahujan Samaj Party",
+      "hindi_name": "बहुजन समाज पार्टी",
+      "status": "National party",
+      "symbol": "Elephant",
+      "symbol_hindi": "हाथी",
+      "symbol_image": null,
+      "symbol_image_note": "No Commons file found via search.",
+      "sources": [
+        "https://ceodelhinet.nic.in/eLearningv2/admin/HindiPDF/Parties_Symbols_Conditions.pdf"
+      ]
+    }
+  ],
+  "parties_note": "Symbol names for INC, BJP, BSP and SAD are from an ECI symbols notification (2001 consolidated list hosted by CEO Delhi); they have not changed since, but a current ECI notification was not fetched. Hindi symbol names are editorial.",
+  "party_leaders_2027": {
+    "unverified": true,
+    "AAP": "Bhagwant Mann (incumbent CM, seeking second term)",
+    "INC": "Pargat Singh (PCC president from October 2, 2026, replacing Amrinder Singh Raja Warring)",
+    "SAD": "Sukhbir Singh Badal (announced he will contest Gidderbaha, December 8, 2025)",
+    "sources": [
+      "https://thenewsmill.com/2026/10/pargat-singh-appointed-punjab-congress-president-replacing-warring/",
+      "https://www.newindianexpress.com/india/2025/Dec/08/akali-dal-chief-sukhbir-singh-badal-announces-hell-contest-next-assembly-polls-from-family-fiefdom-gidderbaha",
+      "https://www.tribuneindia.com/news/punjab/citing-four-year-record-bhagwant-mann-seeks-second-term-rolls-out-punjab-poll-campaign/"
+    ]
+  },
+  "key_issues": [
+    {
+      "issue": "Drugs",
+      "detail": "AAP's 'Yudh Nashian Virudh' anti-drug drive since March 2025; opposition questions results.",
+      "sources": [
+        "https://www.newsonair.gov.in/punjab-police-launch-drive-against-drug-menace-on-war-footing-yudh-nasheyan-virudh",
+        "https://www.tribuneindia.com/news/punjab/500-days-of-war-against-drugs-resulted-in-record-arrests-says-punjab-dgp-gaurav-yadav/"
+      ]
+    },
+    {
+      "issue": "₹1,000 a month for women",
+      "detail": "2022 poll promise announced only in the March 8, 2026 budget (₹1,500 for Dalit women).",
+      "sources": [
+        "https://www.newsonair.gov.in/punjab-government-announces-%E2%82%B92-60-lakh-crore-outlay-with-focus-on-welfare-and-development/",
+        "https://theprint.in/india/punjab-budget-announcing-rs-1000-a-month-for-women-mann-says-all-pre-poll-promises-fulfilled/2873318/"
+      ]
+    },
+    {
+      "issue": "Flood relief and farm distress",
+      "detail": "2025 floods hit all 23 districts; compensation and embankment works are campaign themes.",
+      "sources": [
+        "https://www.indiatvnews.com/news/india/punjab-floods-state-declared-disaster-hit-as-1400-villages-submerged-30-dead-in-worst-deluge-in-decades-2025-09-03-1006516"
+      ]
+    },
+    {
+      "issue": "Corruption cases against ministers",
+      "detail": "Singla (2022), Sarari (2023), Bhullar (2026) exits and Sanjeev Arora's ED arrest (2026).",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mann_ministry",
+        "https://newsable.asianetnews.com/india/punjab-minister-laljit-bhullar-resigns-cheema-gets-transport-charge-articleshow-d6gg7rn",
+        "https://www.tribuneindia.com/news/punjab/after-sanjeev-aroras-arrest-punjab-allocates-his-portfolios-to-other-ministers/"
+      ]
+    },
+    {
+      "issue": "AAP defections to BJP",
+      "detail": "Seven AAP Rajya Sabha MPs, including Sandeep Pathak and Rajinder Gupta, joined the BJP around late April 2026.",
+      "sources": [
+        "https://theprint.in/politics/punjab-minister-in-ed-custody-urges-high-court-treat-me-the-same-as-aap-mps-who-defected-to-bjp/2928989/"
+      ]
+    },
+    {
+      "issue": "Fragmented Akali and Panthic vote",
+      "detail": "SAD, SAD (Amritsar), SAD (Punar Surjit) and Akali Dal (Waris Punjab De) competing for the same base.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/2027_Punjab_Legislative_Assembly_election"
+      ],
+      "unverified": true
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2022-03-10",
+      "event": "AAP wins 92 of 117 seats; Congress 18, SAD 3, BJP 2, BSP 1, Independent 1.",
+      "sources": [
+        "https://results.eci.gov.in/ResultAcGenMar2022/partywiseresult-S19.htm"
+      ]
+    },
+    {
+      "date": "2022-03-16",
+      "event": "Bhagwant Mann sworn in as Chief Minister at Khatkar Kalan.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mann_ministry",
+        "https://en.wikipedia.org/wiki/Bhagwant_Mann"
+      ]
+    },
+    {
+      "date": "2022-05-24",
+      "event": "Health Minister Vijay Singla sacked over corruption allegations.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mann_ministry"
+      ]
+    },
+    {
+      "date": "2024-09-23",
+      "event": "Biggest reshuffle: four ministers dropped, five inducted (Mundian, Goyal, Sond, Ravjot Singh, Bhagat).",
+      "sources": [
+        "https://www.business-standard.com/india-news/bhagwant-mann-govt-inducts-five-aap-mlas-as-cabinet-ministers-in-punjab-124092300823_1.html"
+      ]
+    },
+    {
+      "date": "2025-03-01",
+      "event": "Punjab Police launch 'Yudh Nashian Virudh' statewide anti-drug operation.",
+      "sources": [
+        "https://www.newsonair.gov.in/punjab-police-launch-drive-against-drug-menace-on-war-footing-yudh-nasheyan-virudh"
+      ]
+    },
+    {
+      "date": "2025-07-03",
+      "event": "Sanjeev Arora, winner of the Ludhiana West bypoll, sworn in as minister; Kuldeep Singh Dhaliwal dropped.",
+      "sources": [
+        "https://www.etvbharat.com/en/!bharat/punjab-ludhiana-west-mla-sanjeev-arora-sworn-in-as-cabinet-minister-dhaliwal-resigns-enn25070304272"
+      ]
+    },
+    {
+      "date": "2025-09-03",
+      "event": "Entire state declared disaster-hit after floods across 23 districts; about 1,400 villages hit.",
+      "sources": [
+        "https://www.indiatvnews.com/news/india/punjab-floods-state-declared-disaster-hit-as-1400-villages-submerged-30-dead-in-worst-deluge-in-decades-2025-09-03-1006516"
+      ]
+    },
+    {
+      "date": "2026-03-08",
+      "event": "Budget of ₹2.60 lakh crore announces ₹1,000 a month for women.",
+      "sources": [
+        "https://www.newsonair.gov.in/punjab-government-announces-%E2%82%B92-60-lakh-crore-outlay-with-focus-on-welfare-and-development/"
+      ]
+    },
+    {
+      "date": "2026-03",
+      "event": "Transport Minister Laljit Singh Bhullar resigns amid row over an official's death.",
+      "sources": [
+        "https://newsable.asianetnews.com/india/punjab-minister-laljit-bhullar-resigns-cheema-gets-transport-charge-articleshow-d6gg7rn"
+      ],
+      "exact_date_unverified": true
+    },
+    {
+      "date": "2026-05-09",
+      "event": "ED arrests minister Sanjeev Arora in a money-laundering case; portfolios reallocated May 11.",
+      "sources": [
+        "https://www.tribuneindia.com/news/punjab/after-sanjeev-aroras-arrest-punjab-allocates-his-portfolios-to-other-ministers/"
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "event": "Congress names Pargat Singh Punjab unit chief in place of Raja Warring.",
+      "sources": [
+        "https://thenewsmill.com/2026/10/pargat-singh-appointed-punjab-congress-president-replacing-warring/"
+      ]
+    }
+  ]
+}

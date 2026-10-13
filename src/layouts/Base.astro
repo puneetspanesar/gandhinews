@@ -40,6 +40,7 @@ const nav = [
   ...['politics', 'world', 'economy', 'science', 'sports', 'states', 'policy', 'parliament'].map((k) => ({ key: k, label: S[k], href: `${p}/${k}/` })),
 ];
 const more = [
+  { key: 'elections', label: lang === 'hi' ? 'चुनाव 2027' : 'Elections 2027', href: `${p}/elections/` },
   { key: 'explained', label: t.explained, href: `${p}/explained/` },
   { key: 'opinion', label: t.opinion, href: `${p}/opinion/` },
   { key: 'fact-check', label: t.factCheck, href: `${p}/fact-check/` },

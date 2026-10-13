@@ -12,6 +12,9 @@ import Simple from '../templates/Simple.astro';
 import Home from '../templates/Home.astro';
 import Search from '../templates/Search.astro';
 import Page from '../templates/Page.astro';
+import Election from '../templates/Election.astro';
+import ElectionsHub from '../templates/ElectionsHub.astro';
+import { ELECTIONS } from '../lib/elections';
 import { getCollection } from 'astro:content';
 
 export const getStaticPaths = (async () => {
@@ -35,6 +38,8 @@ export const getStaticPaths = (async () => {
     add(`${p}/search/`, { kind: 'search', lang });
     add(`${p}/saved/`, { kind: 'saved', lang });
     add(`${p}/latest/`, { kind: 'hub', lang, key: 'latest' });
+    add(`${p}/elections/`, { kind: 'elections', lang });
+    for (const [state, E] of Object.entries(ELECTIONS)) add(`${p}/elections/${E.slug}/`, { kind: 'election', lang, state });
     for (const e of await getCollection(`pages_${lang}`)) add(`${p}/${e.data.path}/`, { kind: 'page', lang, id: e.data.id });
   }
   const seen = new Set<string>();
@@ -55,4 +60,6 @@ const props = Astro.props as any;
 {props.kind === 'home' && <Home {...props} />}
 {props.kind === 'search' && <Search {...props} />}
 {props.kind === 'page' && <Page {...props} />}
+{props.kind === 'election' && <Election {...props} />}
+{props.kind === 'elections' && <ElectionsHub {...props} />}
 {props.kind === 'saved' && <Simple {...props} />}

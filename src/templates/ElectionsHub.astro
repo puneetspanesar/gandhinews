@@ -1,0 +1,40 @@
+---
+// /elections/: the 2027 Assembly elections, one card per state. States with a full page link to it.
+import Base from '../layouts/Base.astro';
+import Icon from '../components/Icon.astro';
+import CAL from '../../content/data/election-calendar.json';
+import { ELECTIONS } from '../lib/elections';
+import { prefix } from '../lib/site';
+import { UI, type Lang } from '../lib/i18n';
+
+interface Props { lang: Lang; route: string }
+const { lang, route } = Astro.props;
+const t = UI[lang];
+const p = prefix(lang);
+const hi = lang === 'hi';
+const L = (en: string, h: string) => (hi ? h : en);
+const HI_STATE: Record<string, string> = { Punjab: 'पंजाब', 'Uttar Pradesh': 'उत्तर प्रदेश', Uttarakhand: 'उत्तराखंड', Goa: 'गोवा', Manipur: 'मणिपुर', 'Himachal Pradesh': 'हिमाचल प्रदेश', Gujarat: 'गुजरात' };
+const HI_WIN: Record<string, string> = { 'February to March 2027': 'फ़रवरी से मार्च 2027' };
+const rows = (CAL as any).rows.filter((r: any) => r.house === 'Legislative Assembly' && r.status === 'expected');
+const pageFor = (state: string) => Object.values(ELECTIONS).find((e) => e.name.en === state);
+const title = L('Assembly elections 2027', 'विधानसभा चुनाव 2027');
+const desc = L('Every state that votes in 2027: when, how many seats, who governs now, and full guides to the ministers and seats.', '2027 में जिन राज्यों में चुनाव हैं: कब, कितनी सीटें, अभी सरकार किसकी, और मंत्रियों व सीटों की पूरी जानकारी।');
+const crumbs = [{ name: t.home, href: `${p}/` }, { name: L('Elections 2027', 'चुनाव 2027'), href: route }];
+---
+<Base lang={lang} title={title} description={desc} path={route} crumbs={crumbs} active="">
+<div class="elx w">
+  <header class="ehd"><span class="k">{L('Elections 2027', 'चुनाव 2027')}</span><h1>{title}</h1><p class="sd">{desc}</p></header>
+  <div class="hubg">
+    {rows.map((r: any) => {
+      const pg = pageFor(r.state);
+      const inner = <>
+        <span class="k">{pg ? L('Full guide', 'पूरी जानकारी') : L('Guide coming soon', 'जानकारी जल्द')}</span>
+        <h2>{hi ? HI_STATE[r.state] ?? r.state : r.state}</h2>
+        <p><Icon name="calendar-check" />{r.expected_window ? (hi ? HI_WIN[r.expected_window] ?? r.expected_window : r.expected_window) : L('Late 2027', '2027 के आखिर में')}</p>
+        {r.seats && <p><Icon name="chair" />{r.seats} {L('seats', 'सीटें')}</p>}
+      </>;
+      return pg ? <a class="hc on" href={`${p}/elections/${pg.slug}/`}>{inner}</a> : <div class="hc">{inner}</div>;
+    })}
+  </div>
+</div>
+</Base>

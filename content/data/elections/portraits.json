@@ -1,0 +1,32 @@
+{
+ "cm": {
+  "src": "/portraits/pb-cm.jpg",
+  "credit": "Photo: Gurvinder Singh brar GSB / Wikimedia Commons, CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bhagwant_maan_2026.png"
+ },
+ "harpal-singh-cheema": {
+  "src": "/portraits/pb-harpal-singh-cheema.jpg",
+  "credit": "Photo: ABP Sanjha / Wikimedia Commons, CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:H._S._Cheema.png"
+ },
+ "aman-arora": {
+  "src": "/portraits/pb-aman-arora.jpg",
+  "credit": "Photo: ABP Sanjha / Wikimedia Commons, CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Aman_Arora.png"
+ },
+ "sanjeev-arora": {
+  "src": "/portraits/pb-sanjeev-arora.jpg",
+  "credit": "Photo: Press / Wikimedia Commons, CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Arora_Sanjeev.jpg"
+ },
+ "lop": {
+  "src": "/portraits/pb-lop.jpg",
+  "credit": "Photo: ABP Sanjha / Wikimedia Commons, CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Pratap_Singh_Bajwa.jpg"
+ },
+ "speaker": {
+  "src": "/portraits/pb-speaker.jpg",
+  "credit": "Photo: Harvinder Chandigarh / Wikimedia Commons, CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:S._Kultar_Singh_Sandhwan_(cropped).jpg"
+ }
+}

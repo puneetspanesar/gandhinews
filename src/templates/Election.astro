@@ -1,0 +1,192 @@
+---
+// A state election page: who governs now, the 2022 verdict, the council of ministers with their
+// seats and margins, how the House changed, the issues and the five years in between.
+import Base from '../layouts/Base.astro';
+import Icon from '../components/Icon.astro';
+import { ELECTIONS, partyOf, portrait, translator, initials, num } from '../lib/elections';
+import { content, prefix, urlOf, kicker, fmtDate } from '../lib/site';
+import { UI, type Lang } from '../lib/i18n';
+import { SITE_URL } from '../lib/site';
+
+interface Props { lang: Lang; state: string; route: string }
+const { lang, state, route } = Astro.props;
+const E = ELECTIONS[state];
+const d = E.data;
+const tr = translator(lang, E.hi);
+const t = UI[lang];
+const p = prefix(lang);
+const hi = lang === 'hi';
+const S = E.name[lang];
+const L = (en: string, h: string) => (hi ? h : en);
+const pn = (k: string) => (hi ? partyOf(k).hi : partyOf(k).short);
+const nameOf = (o: any) => (hi ? o.hindi_name ?? tr(o.name) : o.name);
+
+const el = d.election;
+const r22 = el.result_2022;
+const gov = d.government;
+const cm = gov.chief_minister;
+const mins = d.ministers;
+const seats22 = r22.parties.filter((x: any) => x.seats);
+const shares = r22.parties.filter((x: any) => x.vote_share_pct && x.party !== 'NOTA').slice(0, 7);
+const maxShare = Math.max(...shares.map((x: any) => x.vote_share_pct));
+const now = el.current_house_position;
+const nowRows = Object.entries(now.effective as Record<string, number>).map(([k, v]) => ({
+  k, v, label: k === 'INC_suspended_listed_independent' ? L('Suspended Congress MLAs', 'निलंबित कांग्रेस विधायक') : k === 'Akali Dal (Waris Punjab De)' ? tr(k) : pn(k),
+  color: k.startsWith('INC_') ? '#9ccfee' : k.startsWith('Akali Dal (W') ? '#6a7bb5' : partyOf(k).color,
+}));
+const waffle = seats22.flatMap((x: any) => Array.from({ length: x.seats }, () => partyOf(x.party).color));
+
+const c = (await content())[lang];
+const related = c.articles.filter((e: any) => /punjab|पंजाब|\bmann\b|मान/i.test(`${e.data.title} ${e.data.format_label}`)).slice(0, 6);
+
+const title = L(`${S} Assembly election 2027`, `${S} विधानसभा चुनाव 2027`);
+const desc = L(
+  `Punjab votes in ${el.expected_election_window}. Who governs now, every minister's seat and 2022 margin, how the House changed, and the issues.`,
+  `पंजाब में चुनाव ${tr(el.expected_election_window)} में होने हैं। अभी सरकार किसकी है, हर मंत्री की सीट और 2022 का अंतर, सदन में क्या बदला और मुद्दे क्या हैं।`,
+);
+const crumbs = [{ name: t.home, href: `${p}/` }, { name: L('Elections 2027', 'चुनाव 2027'), href: `${p}/elections/` }, { name: S, href: route }];
+const ld = [{ '@context': 'https://schema.org', '@type': 'WebPage', name: title, description: desc, url: `${SITE_URL}${route}`, inLanguage: hi ? 'hi-IN' : 'en-IN', about: { '@type': 'Event', name: title, location: { '@type': 'Place', name: S } } }];
+
+const shareLabel = (k: string) => (k in { AAP: 1, INC: 1, SAD: 1, BJP: 1, BSP: 1, IND: 1 } ? pn(k) : tr(k).replace(/\s*\(incl.*\)$/, '').replace(/\s*\(.*सहित\)$/, ''));
+const termEnd = (() => { const [y, m] = el.term_end.split('-'); const M = hi ? ['जनवरी','फ़रवरी','मार्च','अप्रैल','मई','जून','जुलाई','अगस्त','सितंबर','अक्टूबर','नवंबर','दिसंबर'] : ['January','February','March','April','May','June','July','August','September','October','November','December']; return `${M[+m - 1]} ${y}`; })();
+const card = (o: any, role: string, id?: string) => ({ o, role, ph: id ? portrait(id) : null });
+---
+<Base lang={lang} title={title} description={desc} path={route} crumbs={crumbs} active="" jsonld={ld}>
+<div class="elx w">
+  <header class="ehd">
+    <span class="k">{L('Elections 2027', 'चुनाव 2027')}</span>
+    <h1>{title}</h1>
+    <p class="sd">{L(
+      `All ${el.total_seats} seats go to the polls in ${el.expected_election_window}. The Election Commission has not announced the schedule yet. Here is where things stand.`,
+      `सभी ${el.total_seats} सीटों पर चुनाव ${tr(el.expected_election_window)} में होने हैं। चुनाव आयोग ने अभी कार्यक्रम घोषित नहीं किया है। अभी की स्थिति यह है।`)}</p>
+    <div class="keys">
+      <div><Icon name="calendar-check" /><b>{tr(el.expected_election_window)}</b><span>{L('expected polling window', 'मतदान का संभावित समय')}</span></div>
+      <div><Icon name="chair" /><b class="num">{el.total_seats}</b><span>{L(`seats, ${el.majority_mark} for a majority`, `सीटें, बहुमत के लिए ${el.majority_mark}`)}</span></div>
+      <div><Icon name="flag-banner" /><b>{termEnd}</b><span>{L('current Assembly term ends', 'मौजूदा विधानसभा का कार्यकाल खत्म')}</span></div>
+      <div><Icon name="users-three" /><b class="num">{r22.turnout_pct}%</b><span>{L('turnout in 2022', '2022 में मतदान')}</span></div>
+    </div>
+  </header>
+
+  <section class="sec" aria-labelledby="gov-h">
+    <div class="sh"><h2 id="gov-h">{L('Who governs now', 'अभी सरकार किसकी')}</h2></div>
+    <div class="gov">
+      <article class="cmc">
+        {portrait('cm') ? <img class="pt lg" src={portrait('cm').src} alt={nameOf(cm)} loading="eager" /> : <span class="pt lg ini" style={`background:${partyOf(cm.party).color}`}>{initials(cm.name)}</span>}
+        <div>
+          <span class="role">{L('Chief Minister', 'मुख्यमंत्री')}</span>
+          <h3>{nameOf(cm)}</h3>
+          <span class="pty" style={`--pc:${partyOf(cm.party).color}`}>{partyOf(cm.party).icon && <Icon name={partyOf(cm.party).icon!} />}{pn(cm.party)}</span>
+          <p class="m">{L(`MLA from ${cm.constituency}. Sworn in on ${fmtDate(cm.sworn_in, lang)} at ${cm.sworn_in_place}.`, `${tr(cm.constituency)} से विधायक। ${fmtDate(cm.sworn_in, lang)} को ${tr(cm.sworn_in_place)} में शपथ ली।`)}</p>
+          <p class="mg">{L('Won by', 'जीत का अंतर')} <b class="num">{num(cm.result_2022.margin_votes, lang)}</b> {L('votes in 2022', 'वोट, 2022 में')} · {cm.result_2022.vote_share_pct}%</p>
+          {portrait('cm') && <p class="cr">{portrait('cm').credit}</p>}
+        </div>
+      </article>
+      <div class="offs">
+        {[card(gov.governor, L('Governor', 'राज्यपाल'), 'governor'), card(gov.speaker, L('Speaker', 'विधानसभा अध्यक्ष'), 'speaker'), card(gov.leader_of_opposition, L('Leader of Opposition', 'नेता प्रतिपक्ष'), 'lop')].map((x) => (
+          <div class="off">
+            {x.ph ? <img class="pt" src={x.ph.src} alt={nameOf(x.o)} loading="lazy" /> : <span class="pt ini" style={`background:${x.o.party ? partyOf(x.o.party).color : '#6e6e6e'}`}>{initials(x.o.name)}</span>}
+            <div><span class="role">{x.role}</span><b>{nameOf(x.o)}</b>{x.o.party && <span class="pty sm" style={`--pc:${partyOf(x.o.party).color}`}>{partyOf(x.o.party).icon && <Icon name={partyOf(x.o.party).icon!} />}{pn(x.o.party)}</span>}</div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="sec" aria-labelledby="v22-h">
+    <div class="sh"><h2 id="v22-h">{L('The 2022 verdict', '2022 का जनादेश')}</h2><span class="x">{L(`Results declared ${fmtDate(r22.results_date, lang)}`, `नतीजे ${fmtDate(r22.results_date, lang)} को`)}</span></div>
+    <div class="v22">
+      <div>
+        <h3 class="st">{L('Seats won', 'जीती गई सीटें')}</h3>
+        <div class="waf" role="img" aria-label={seats22.map((x: any) => `${pn(x.party)} ${x.seats}`).join(', ')}>{waffle.map((col: string) => <i style={`background:${col}`}></i>)}</div>
+        <ul class="leg">{seats22.map((x: any) => <li><i style={`background:${partyOf(x.party).color}`}></i>{partyOf(x.party).icon && <Icon name={partyOf(x.party).icon!} />}<span>{pn(x.party)}</span><b class="num">{x.seats}</b></li>)}</ul>
+      </div>
+      <div>
+        <h3 class="st">{L('Vote share', 'वोट शेयर')}</h3>
+        <ul class="vs">{shares.map((x: any) => (
+          <li><span class="pl">{partyOf(x.party).icon && <Icon name={partyOf(x.party).icon!} />}{shareLabel(x.party)}</span><span class="bar"><i style={`width:${(x.vote_share_pct / maxShare) * 100}%;background:${partyOf(x.party).color}`}></i></span><b class="num">{x.vote_share_pct}%</b></li>
+        ))}</ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="sec" aria-labelledby="min-h">
+    <div class="sh"><h2 id="min-h">{L('The council of ministers', 'मंत्रिपरिषद')}</h2><span class="x">{L(`Chief Minister and ${mins.length} ministers, as of October 2026`, `मुख्यमंत्री और ${mins.length} मंत्री, अक्टूबर 2026 तक`)}</span></div>
+    <div class="mins">
+      {mins.map((m: any) => {
+        const ph = portrait(m.id);
+        const r = m.result_2022;
+        const won = m.seat_won_in;
+        return (
+          <article class="mn">
+            <div class="mh">
+              {ph ? <img class="pt" src={ph.src} alt={nameOf(m)} loading="lazy" /> : <span class="pt ini" style={`background:${partyOf(m.party).color}`}>{initials(m.name)}</span>}
+              <div>
+                <h3>{nameOf(m)}</h3>
+                <span class="pty sm" style={`--pc:${partyOf(m.party).color}`}>{partyOf(m.party).icon && <Icon name={partyOf(m.party).icon!} />}{pn(m.party)}</span>
+                <span class="seat"><Icon name="map-pin" />{tr(m.constituency)}</span>
+              </div>
+            </div>
+            {m.portfolios?.length ? <ul class="pf">{m.portfolios.map((x: string) => <li>{tr(x)}</li>)}</ul> : <p class="note">{L('No portfolio since 11 May 2026; in Enforcement Directorate custody.', '11 मई 2026 से कोई विभाग नहीं; प्रवर्तन निदेशालय की हिरासत में।')}</p>}
+            <div class="res">
+              {r && r.margin_votes && r.runner_up && !r.winner_2022 && <>
+                <span class="rl">{L('2022 result', '2022 का नतीजा')}</span>
+                <p>{L('Won by', 'जीत')} <b class="num">{num(r.margin_votes, lang)}</b> {L('votes', 'वोट से')} <span class="vsh">({r.vote_share_pct}%)</span></p>
+                <p class="ru">{L('Runner-up', 'दूसरे स्थान पर')}: {tr(r.runner_up.name)} <span class="pty xs" style={`--pc:${partyOf(r.runner_up.party).color}`}>{partyOf(r.runner_up.party).icon && <Icon name={partyOf(r.runner_up.party).icon!} />}{pn(r.runner_up.party)}</span></p>
+              </>}
+              {r && r.winner_2022 && <>
+                <span class="rl">{L('2022 result', '2022 का नतीजा')}</span>
+                <p>{L(`Lost in 2022 as the ${r.candidate_party_2022} candidate (third).`, `2022 में ${pn(r.candidate_party_2022)} उम्मीदवार के रूप में हारे (तीसरे स्थान पर)।`)}</p>
+              </>}
+              {won && <>
+                <span class="rl">{L('Seat won in by-election', 'उपचुनाव में जीती सीट')}</span>
+                <p>{L('Won by', 'जीत')} <b class="num">{num(won.margin_votes, lang)}</b> {L('votes', 'वोट से')}</p>
+                {won.runner_up && <p class="ru">{L('Runner-up', 'दूसरे स्थान पर')}: {tr(won.runner_up.name)} <span class="pty xs" style={`--pc:${partyOf(won.runner_up.party).color}`}>{partyOf(won.runner_up.party).icon && <Icon name={partyOf(won.runner_up.party).icon!} />}{pn(won.runner_up.party)}</span></p>}
+              </>}
+            </div>
+            {ph && <p class="cr">{ph.credit}</p>}
+          </article>
+        );
+      })}
+    </div>
+    {d.former_ministers?.length > 0 && (
+      <details class="fm"><summary>{L(`${d.former_ministers.length} ministers have left the cabinet since 2022`, `2022 से अब तक ${d.former_ministers.length} मंत्री मंत्रिमंडल से बाहर`)}</summary>
+        <ul>{d.former_ministers.map((f: any) => <li><b>{tr(f.name)}</b><span>{fmtDate(f.left, lang)}</span><span>{tr(f.reason)}</span></li>)}</ul>
+      </details>
+    )}
+  </section>
+
+  <section class="sec" aria-labelledby="house-h">
+    <div class="sh"><h2 id="house-h">{L('The House today', 'सदन आज')}</h2><span class="x">{L('After by-elections and defections', 'उपचुनावों और दलबदल के बाद')}</span></div>
+    <div class="house">
+      <ul class="hs">{nowRows.map((x) => <li><i style={`background:${x.color}`}></i><span>{x.label}</span><b class="num">{x.v}</b></li>)}</ul>
+      <div>
+        <h3 class="st">{L(`${now.by_elections.length} by-elections since 2022`, `2022 से अब तक ${now.by_elections.length} उपचुनाव`)}</h3>
+        <table class="bt"><thead><tr><th>{L('Seat', 'सीट')}</th><th>{L('Winner', 'विजेता')}</th><th>{L('Date', 'तारीख')}</th></tr></thead>
+          <tbody>{now.by_elections.map((b: any) => <tr><td>{tr(b.seat)}</td><td>{tr(b.winner)} <span class="pty xs" style={`--pc:${partyOf(b.party).color}`}>{partyOf(b.party).icon && <Icon name={partyOf(b.party).icon!} />}{pn(b.party)}</span></td><td class="num">{fmtDate(b.date, lang)}</td></tr>)}</tbody></table>
+      </div>
+    </div>
+  </section>
+
+  <section class="sec" aria-labelledby="iss-h">
+    <div class="sh"><h2 id="iss-h">{L('What this election is about', 'इस चुनाव के मुद्दे')}</h2></div>
+    <div class="iss">{d.key_issues.map((x: any) => <div><h3>{tr(x.issue)}</h3><p>{tr(x.detail)}</p></div>)}</div>
+  </section>
+
+  <section class="sec" aria-labelledby="tl-h">
+    <div class="sh"><h2 id="tl-h">{L('Five years in Punjab', 'पंजाब के पांच साल')}</h2></div>
+    <ol class="etl">{d.timeline.map((x: any) => <li><b class="num">{fmtDate(x.date, lang)}</b><span>{tr(x.event)}</span></li>)}</ol>
+  </section>
+
+  {related.length > 0 && (
+    <section class="sec" aria-labelledby="rel-h">
+      <div class="sh"><h2 id="rel-h">{L('Latest from Punjab', 'पंजाब से ताज़ा')}</h2></div>
+      <ul class="erel">{related.map((e: any) => <li><a href={urlOf(e.data)}><span class="k">{kicker(e.data)}</span>{e.data.title}</a></li>)}</ul>
+    </section>
+  )}
+
+  <p class="srcn">{L(
+    'Results are from the Election Commission of India. Party symbols are shown as icons. Portraits are official government photographs or freely licensed images, credited on each card. This page is updated as the campaign moves.',
+    'नतीजे भारत निर्वाचन आयोग से हैं। चुनाव चिह्न आइकन के रूप में दिखाए गए हैं। तस्वीरें सरकारी या मुक्त लाइसेंस वाली हैं, हर कार्ड पर श्रेय दिया गया है। चुनाव अभियान के साथ यह पेज अपडेट होता रहेगा।')}</p>
+</div>
+</Base>
+
