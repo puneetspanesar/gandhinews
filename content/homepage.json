@@ -1,15 +1,15 @@
 {
   "lead": {
-    "id": "lawyers-journalists-move-supreme-court-over-delhi-protest-detentions",
+    "id": "two-firs-over-india-bloc-supreme-court-march-rahul-gandhi-named",
     "chart": 1,
     "overlay": {
       "kicker": {
-        "en": "Supreme Court, today",
-        "hi": "सुप्रीम कोर्ट, आज"
+        "en": "Delhi, Tuesday",
+        "hi": "दिल्ली, मंगलवार"
       },
       "value": {
-        "en": "Detention pleas heard today",
-        "hi": "हिरासत की याचिकाओं पर आज सुनवाई"
+        "en": "The march is over, the cases begin",
+        "hi": "मार्च खत्म, अब मुकदमे शुरू"
       },
       "text": {
         "en": "",
@@ -18,51 +18,51 @@
     },
     "dataBox": [
       {
-        "icon": "scales",
+        "icon": "gavel",
         "color": "#cc0000",
         "value": {
-          "en": "13 Oct",
-          "hi": "13 अक्टूबर"
+          "en": "Tilak Marg",
+          "hi": "तिलक मार्ग"
         },
         "label": {
-          "en": "detention and contempt pleas listed",
-          "hi": "हिरासत और अवमानना याचिकाएं सूचीबद्ध"
+          "en": "police station where Rahul Gandhi is named",
+          "hi": "थाना, जहां राहुल गांधी नामजद"
+        }
+      },
+      {
+        "icon": "scroll",
+        "color": "#8f0000",
+        "value": {
+          "en": "BNSS 163",
+          "hi": "बीएनएसएस 163"
+        },
+        "label": {
+          "en": "prohibitory orders police say were broken",
+          "hi": "निषेधाज्ञा, जिसके उल्लंघन का आरोप"
         }
       },
       {
         "icon": "users-three",
-        "color": "#8f0000",
-        "value": {
-          "en": "11",
-          "hi": "11"
-        },
-        "label": {
-          "en": "leaders on the INDIA bloc SIR petition",
-          "hi": "इंडिया गठबंधन की एसआईआर याचिका पर नेता"
-        }
-      },
-      {
-        "icon": "gavel",
         "color": "#0d0d0d",
         "value": {
-          "en": "SCBA",
-          "hi": "एससीबीए"
+          "en": "3",
+          "hi": "3"
         },
         "label": {
-          "en": "Bar wants inquiry into police action",
-          "hi": "बार ने पुलिस कार्रवाई की जांच मांगी"
+          "en": "CJP leaders detained at Jantar Mantar",
+          "hi": "सीजेपी नेता जंतर-मंतर पर हिरासत में"
         }
       },
       {
-        "icon": "calendar-blank",
+        "icon": "scales",
         "color": "#6e6e6e",
         "value": {
-          "en": "27 Oct",
-          "hi": "27 अक्टूबर"
+          "en": "Today",
+          "hi": "आज"
         },
         "label": {
-          "en": "next date in the Form 6 case",
-          "hi": "फ़ॉर्म 6 मामले में अगली तारीख"
+          "en": "Supreme Court hears detention pleas",
+          "hi": "हिरासत याचिकाओं पर सुप्रीम कोर्ट में सुनवाई"
         }
       }
     ],
@@ -71,15 +71,37 @@
       "what-india-bloc-supreme-court-petition-on-sir-asks-for"
     ],
     "relatedBeside": [
+      "cjp-members-scale-jantar-mantar-gate-detained",
+      "lawyers-journalists-move-supreme-court-over-delhi-protest-detentions",
       "bjp-hits-back-at-india-bloc-march-adityanath-thakur",
-      "supreme-court-new-form-6-not-decided-in-bihar-sir-ruling",
       "president-appoints-governors-six-states-keralam-tamil-nadu",
-      "oil-jumps-after-saudi-airport-attacks-wall-street-mixed",
-      "hyderabad-man-killed-riyadh-airport-strike-envoy-attends-funeral"
+      "oil-jumps-after-saudi-airport-attacks-wall-street-mixed"
     ]
   },
   "briefing": {
     "items": [
+      {
+        "link": "two-firs-over-india-bloc-supreme-court-march-rahul-gandhi-named",
+        "lead": {
+          "en": "FIRs:",
+          "hi": "एफआईआर:"
+        },
+        "text": {
+          "en": "Delhi Police filed cases over the INDIA bloc march; Rahul Gandhi is named.",
+          "hi": "दिल्ली पुलिस ने इंडिया गठबंधन के मार्च पर मुकदमे दर्ज किए, राहुल गांधी नामजद।"
+        }
+      },
+      {
+        "link": "cjp-members-scale-jantar-mantar-gate-detained",
+        "lead": {
+          "en": "CJP:",
+          "hi": "सीजेपी:"
+        },
+        "text": {
+          "en": "leaders scaled the locked Jantar Mantar gate with the Tricolour and were detained.",
+          "hi": "नेताओं ने तिरंगा लेकर जंतर-मंतर का बंद गेट फांदा, हिरासत में लिए गए।"
+        }
+      },
       {
         "link": "lawyers-journalists-move-supreme-court-over-delhi-protest-detentions",
         "lead": {
@@ -144,28 +166,6 @@
         "text": {
           "en": "Bergs beat Alcaraz in Shanghai, sealing year-end No. 1 for Zverev.",
           "hi": "शंघाई में बर्ग्स ने अल्कराज़ को हराया, ज़्वेरेव का साल के अंत में नंबर 1 रहना तय।"
-        }
-      },
-      {
-        "link": "india-west-indies-fourth-t20i-hyderabad-preview",
-        "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
-        },
-        "text": {
-          "en": "India can win the series in Hyderabad on Wednesday.",
-          "hi": "भारत बुधवार को हैदराबाद में सीरीज़ जीत सकता है।"
-        }
-      },
-      {
-        "link": "wpi-inflation-september-data-due-preview",
-        "lead": {
-          "en": "Prices:",
-          "hi": "कीमतें:"
-        },
-        "text": {
-          "en": "September wholesale inflation figures are due on Wednesday.",
-          "hi": "सितंबर के थोक महंगाई आंकड़े बुधवार को आएंगे।"
         }
       }
     ]
