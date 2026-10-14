@@ -11,7 +11,7 @@ import RailList from '../components/RailList.astro';
 import FollowCard from '../components/FollowCard.astro';
 import { content, urlOf, prefix, kicker, fmtDateTime, labelParts, heroOf, emph } from '../lib/site';
 import { UI, SECTION_NAMES, HUBS, TYPE_HUB, verdictKey, VERDICT_ORDER, type Lang } from '../lib/i18n';
-import { newsArticleLd, faqLd, claimReviewLd } from '../lib/seo';
+import { newsArticleLd, faqLd, claimReviewLd, storyImage } from '../lib/seo';
 
 interface Props { lang: Lang; id: string; route: string }
 const { lang, id, route } = Astro.props;
@@ -68,6 +68,7 @@ const heroOv = {
   description={d.seo.description}
   path={route}
   ogType="article"
+  image={storyImage(d)}
   jsonld={jsonld}
   crumbs={crumbs}
   active={active}

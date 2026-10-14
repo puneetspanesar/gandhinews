@@ -1,4 +1,5 @@
 import { abs, urlOf, SITE_URL } from './site';
+import PHOTOS from '../../content/photos.map.json';
 import { verdictKey, VERDICT_RATING, UI, SECTION_NAMES, type Lang } from './i18n';
 
 /** Ways people write the name: two words, with "news", and in Devanagari. */
@@ -16,6 +17,16 @@ export const AUTHOR = { '@type': 'Organization', name: 'LokVox Editorial Desk', 
 export const EDITOR = { '@type': 'Person', name: 'Puneet Singh', jobTitle: 'Editor and Publisher', url: `${SITE_URL}/editor/`, worksFor: { '@type': 'NewsMediaOrganization', name: 'LokVox', url: `${SITE_URL}/` } };
 const inLang = (l: Lang) => (l === 'hi' ? 'hi-IN' : 'en-IN');
 const img = () => ({ '@type': 'ImageObject', url: `${SITE_URL}/og-default.png`, width: 1200, height: 630 });
+/** The story's own photo (content/photos.map.json), for og:image and schema; null when it has none. */
+export function storyImage(d: any): { url: string; width: number; height: number; alt: string } | null {
+  const f = (PHOTOS as Record<string, any>)[d?.id];
+  if (!f?.src) return null;
+  return { url: abs(f.src), width: f.width ?? 1280, height: f.height ?? 720, alt: (d.lang === 'hi' ? f.alt_hi ?? f.alt : f.alt) ?? '' };
+}
+const imagesFor = (d: any) => {
+  const s = storyImage(d);
+  return s ? [{ '@type': 'ImageObject', url: s.url, width: s.width, height: s.height }, img()] : [img()];
+};
 
 export function newsArticleLd(d: any) {
   const url = abs(urlOf(d));
@@ -34,7 +45,7 @@ export function newsArticleLd(d: any) {
     articleSection: d.format_label,
     keywords: d.topics.join(', '),
     isAccessibleForFree: true,
-    image: [img()],
+    image: imagesFor(d),
     author: [AUTHOR],
     publisher: PUBLISHER,
     ...(d.location ? { contentLocation: { '@type': 'Place', name: d.location } } : {}),

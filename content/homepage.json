@@ -1,568 +1,568 @@
 {
-  "lead": {
-    "id": "two-firs-over-india-bloc-supreme-court-march-rahul-gandhi-named",
-    "chart": 1,
-    "overlay": {
-      "kicker": {
-        "en": "Delhi, Tuesday",
-        "hi": "दिल्ली, मंगलवार"
-      },
-      "value": {
-        "en": "The march is over, the cases begin",
-        "hi": "मार्च खत्म, अब मुकदमे शुरू"
-      },
-      "text": {
-        "en": "",
-        "hi": ""
-      }
-    },
-    "dataBox": [
-      {
-        "icon": "gavel",
-        "color": "#cc0000",
-        "value": {
-          "en": "Tilak Marg",
-          "hi": "तिलक मार्ग"
-        },
-        "label": {
-          "en": "police station where Rahul Gandhi is named",
-          "hi": "थाना, जहां राहुल गांधी नामजद"
-        }
-      },
-      {
-        "icon": "scroll",
-        "color": "#8f0000",
-        "value": {
-          "en": "BNSS 163",
-          "hi": "बीएनएसएस 163"
-        },
-        "label": {
-          "en": "prohibitory orders police say were broken",
-          "hi": "निषेधाज्ञा, जिसके उल्लंघन का आरोप"
-        }
-      },
-      {
-        "icon": "users-three",
-        "color": "#0d0d0d",
-        "value": {
-          "en": "3",
-          "hi": "3"
-        },
-        "label": {
-          "en": "CJP leaders detained at Jantar Mantar",
-          "hi": "सीजेपी नेता जंतर-मंतर पर हिरासत में"
-        }
-      },
-      {
-        "icon": "scales",
-        "color": "#6e6e6e",
-        "value": {
-          "en": "Today",
-          "hi": "आज"
-        },
-        "label": {
-          "en": "Supreme Court hears detention pleas",
-          "hi": "हिरासत याचिकाओं पर सुप्रीम कोर्ट में सुनवाई"
-        }
-      }
-    ],
-    "relatedBelow": [
-      "india-bloc-march-to-supreme-court-after-cji-declines-meeting",
-      "what-india-bloc-supreme-court-petition-on-sir-asks-for"
-    ],
-    "relatedBeside": [
-      "cjp-members-scale-jantar-mantar-gate-detained",
-      "lawyers-journalists-move-supreme-court-over-delhi-protest-detentions",
-      "bjp-hits-back-at-india-bloc-march-adityanath-thakur",
-      "president-appoints-governors-six-states-keralam-tamil-nadu",
-      "oil-jumps-after-saudi-airport-attacks-wall-street-mixed"
-    ]
+ "lead": {
+  "id": "vaishali-boat-capsize-ganga-raghopur-children-killed",
+  "chart": 1,
+  "overlay": {
+   "kicker": {
+    "en": "Vaishali, Tuesday evening",
+    "hi": "वैशाली, मंगलवार शाम"
+   },
+   "value": {
+    "en": "13 children lost in the Ganga",
+    "hi": "गंगा में डूबे 13 बच्चे"
+   },
+   "text": {
+    "en": "",
+    "hi": ""
+   }
   },
-  "briefing": {
-    "items": [
-      {
-        "link": "two-firs-over-india-bloc-supreme-court-march-rahul-gandhi-named",
-        "lead": {
-          "en": "FIRs:",
-          "hi": "एफआईआर:"
-        },
-        "text": {
-          "en": "Delhi Police filed cases over the INDIA bloc march; Rahul Gandhi is named.",
-          "hi": "दिल्ली पुलिस ने इंडिया गठबंधन के मार्च पर मुकदमे दर्ज किए, राहुल गांधी नामजद।"
-        }
-      },
-      {
-        "link": "cjp-members-scale-jantar-mantar-gate-detained",
-        "lead": {
-          "en": "CJP:",
-          "hi": "सीजेपी:"
-        },
-        "text": {
-          "en": "leaders scaled the locked Jantar Mantar gate with the Tricolour and were detained.",
-          "hi": "नेताओं ने तिरंगा लेकर जंतर-मंतर का बंद गेट फांदा, हिरासत में लिए गए।"
-        }
-      },
-      {
-        "link": "lawyers-journalists-move-supreme-court-over-delhi-protest-detentions",
-        "lead": {
-          "en": "Supreme Court:",
-          "hi": "सुप्रीम कोर्ट:"
-        },
-        "text": {
-          "en": "hears the Delhi protest detention and contempt pleas today.",
-          "hi": "दिल्ली प्रदर्शन में हिरासत और अवमानना की याचिकाओं पर आज सुनवाई।"
-        }
-      },
-      {
-        "link": "president-appoints-governors-six-states-keralam-tamil-nadu",
-        "lead": {
-          "en": "Governors:",
-          "hi": "राज्यपाल:"
-        },
-        "text": {
-          "en": "the President named new Governors in six states, including Tamil Nadu and Keralam.",
-          "hi": "राष्ट्रपति ने तमिलनाडु और केरलम समेत छह राज्यों में नए राज्यपाल नियुक्त किए।"
-        }
-      },
-      {
-        "link": "oil-jumps-after-saudi-airport-attacks-wall-street-mixed",
-        "lead": {
-          "en": "Oil:",
-          "hi": "तेल:"
-        },
-        "text": {
-          "en": "Brent rose to $106.65 after the Riyadh airport attack.",
-          "hi": "रियाद हवाई अड्डे पर हमले के बाद ब्रेंट $106.65 पर पहुंचा।"
-        }
-      },
-      {
-        "link": "hyderabad-man-killed-riyadh-airport-strike-envoy-attends-funeral",
-        "lead": {
-          "en": "Riyadh:",
-          "hi": "रियाद:"
-        },
-        "text": {
-          "en": "a Hyderabad man was among those killed; three Indians are in ICU.",
-          "hi": "मरने वालों में हैदराबाद का एक व्यक्ति; तीन भारतीय आईसीयू में।"
-        }
-      },
-      {
-        "link": "mpsc-chairman-on-leave-pune-students-end-protest",
-        "lead": {
-          "en": "Maharashtra:",
-          "hi": "महाराष्ट्र:"
-        },
-        "text": {
-          "en": "the MPSC chairman went on leave and Pune students ended their protest.",
-          "hi": "एमपीएससी अध्यक्ष छुट्टी पर गए, पुणे के छात्रों ने आंदोलन खत्म किया।"
-        }
-      },
-      {
-        "link": "bergs-stuns-alcaraz-zverev-clinches-year-end-no-1",
-        "lead": {
-          "en": "Tennis:",
-          "hi": "टेनिस:"
-        },
-        "text": {
-          "en": "Bergs beat Alcaraz in Shanghai, sealing year-end No. 1 for Zverev.",
-          "hi": "शंघाई में बर्ग्स ने अल्कराज़ को हराया, ज़्वेरेव का साल के अंत में नंबर 1 रहना तय।"
-        }
-      }
-    ]
-  },
-  "numbers": {
-    "tracker": "economy-dashboard",
-    "items": [
-      {
-        "indicator": "gdp-growth",
-        "icon": "trend-up",
-        "label": {
-          "en": "GDP growth",
-          "hi": "जीडीपी वृद्धि"
-        },
-        "decimals": 1
-      },
-      {
-        "indicator": "cpi-inflation",
-        "icon": "shopping-cart",
-        "highlight": true,
-        "label": {
-          "en": "CPI inflation",
-          "hi": "सीपीआई महंगाई"
-        },
-        "decimals": 2
-      },
-      {
-        "indicator": "unemployment",
-        "icon": "briefcase",
-        "label": {
-          "en": "Unemployment",
-          "hi": "बेरोज़गारी"
-        },
-        "decimals": 1
-      },
-      {
-        "indicator": "iip-growth",
-        "icon": "factory",
-        "label": {
-          "en": "IIP growth",
-          "hi": "आईआईपी वृद्धि"
-        },
-        "decimals": 1
-      },
-      {
-        "indicator": "repo-rate",
-        "icon": "bank",
-        "decimals": 2,
-        "label": {
-          "en": "Repo rate",
-          "hi": "रेपो रेट"
-        }
-      },
-      {
-        "indicator": "fiscal-deficit-pct-be",
-        "icon": "chart-bar",
-        "highlight": true,
-        "label": {
-          "en": "Fiscal deficit used",
-          "hi": "राजकोषीय घाटा (बजट का)"
-        },
-        "decimals": 1
-      }
-    ]
-  },
-  "topStories": {
-    "big": {
-      "id": "former-mla-atar-singh-bhadana-dies-after-attack-bharatpur",
-      "also": [
-        "up-yogi-releases-493-crore-crop-loss-relief-farmers",
-        "uttarakhand-cabinet-agniveer-recruitment-exemptions-flood-zoning"
-      ]
+  "dataBox": [
+   {
+    "icon": "warning",
+    "color": "#cc0000",
+    "value": {
+     "en": "13",
+     "hi": "13"
     },
-    "list": [
-      "centre-to-cap-cancer-drug-trade-margins-at-30-per-cent",
-      "bjp-mahila-morcha-protests-congress-mp-akoijam-jnu-case",
-      "mns-signature-campaign-seeks-cec-gyanesh-kumar-resignation",
-      "keralam-satheesan-balagopal-clash-over-pay-revision-arrears",
-      "supreme-court-firecrackers-religion-caqm-suggestions"
-    ]
-  },
-  "startHere": [
-    "why-retail-inflation-jumped-september-what-it-means-for-emi",
-    "what-india-bloc-supreme-court-petition-on-sir-asks-for",
-    "why-riyadh-airport-is-shut-houthi-saudi-strikes-explained",
-    "what-is-the-cockroach-janta-party",
-    "how-chief-election-commissioner-is-appointed-removed",
-    "repo-rate-and-your-emi-explained"
-  ],
-  "trackers": [
-    {
-      "id": "bills-in-parliament-tracker",
-      "title": {
-        "en": "Bills in Parliament",
-        "hi": "संसद में विधेयक"
-      }
-    },
-    {
-      "id": "economy-dashboard",
-      "title": {
-        "en": "Economy dashboard",
-        "hi": "अर्थव्यवस्था डैशबोर्ड"
-      }
-    },
-    {
-      "id": "election-calendar",
-      "title": {
-        "en": "Election calendar",
-        "hi": "चुनाव कैलेंडर"
-      }
-    },
-    {
-      "id": "budget-2026-27-promise-tracker",
-      "title": {
-        "en": "Budget promises",
-        "hi": "बजट के वादे"
-      }
-    },
-    {
-      "id": "sc-cases-tracker",
-      "title": {
-        "en": "Big Supreme Court cases",
-        "hi": "सुप्रीम कोर्ट के बड़े मामले"
-      }
+    "label": {
+     "en": "children confirmed dead by the DM",
+     "hi": "बच्चों की मौत की डीएम ने पुष्टि की"
     }
-  ],
-  "dataDesk": {
-    "map": {
-      "tracker": "election-calendar",
-      "topic": "elections-2027",
-      "kicker": {
-        "en": "Elections 2027",
-        "hi": "चुनाव 2027"
-      },
-      "title": {
-        "en": "{n} states vote in 2027",
-        "hi": "2027 में {n} राज्यों में चुनाव"
-      },
-      "text": {
-        "en": "Five assemblies are expected to vote in February and March, Himachal Pradesh and Gujarat late in the year. No schedule has been announced. The President's term ends in July 2027.",
-        "hi": "पांच विधानसभाओं के चुनाव फरवरी और मार्च में होने की उम्मीद है, हिमाचल प्रदेश और गुजरात के साल के आखिर में। अभी कोई कार्यक्रम घोषित नहीं हुआ है। राष्ट्रपति का कार्यकाल जुलाई 2027 में खत्म होता है।"
-      }
+   },
+   {
+    "icon": "boat",
+    "color": "#8f0000",
+    "value": {
+     "en": "7",
+     "hi": "7"
     },
-    "parliament": {
-      "tracker": "bills-in-parliament-tracker",
-      "session": "monsoon-2026",
-      "bills": [
-        "fcra-amendment-2026",
-        "indian-statistical-institute-2026",
-        "supreme-court-number-of-judges-amendment-2026",
-        "mmdr-amendment-2026",
-        "kerala-alteration-of-name-2026"
-      ]
+    "label": {
+     "en": "people pulled out alive",
+     "hi": "लोग जिंदा निकाले गए"
     }
-  },
-  "factCheck": {
-    "cards": [
-      "jairam-ramesh-upi-charges-above-2000-claim",
-      "kejriwal-e20-trump-pressure-ethanol-claim",
-      "ai-brics-selfie-modi-putin-xi-raisi"
-    ]
-  },
-  "explained": [
-    {
-      "id": "repo-rate-and-your-emi-explained",
-      "kn": [
-        {
-          "value": {
-            "en": "₹781",
-            "hi": "₹781"
-          },
-          "label": {
-            "en": "extra EMI a month, ₹50 lakh loan",
-            "hi": "₹50 लाख के लोन पर हर महीने ज़्यादा ईएमआई"
-          }
-        },
-        {
-          "value": {
-            "en": "₹1.87 lakh",
-            "hi": "₹1.87 लाख"
-          },
-          "label": {
-            "en": "extra over 20 years",
-            "hi": "20 साल में ज़्यादा भुगतान"
-          }
-        }
-      ]
+   },
+   {
+    "icon": "currency-inr",
+    "color": "#0d0d0d",
+    "value": {
+     "en": "₹4 lakh",
+     "hi": "₹4 लाख"
     },
-    {
-      "id": "delimitation-explained-why-131st-amendment-failed",
-      "kn": [
-        {
-          "value": {
-            "en": "298 to 230",
-            "hi": "298 बनाम 230"
-          },
-          "label": {
-            "en": "Lok Sabha vote, 17 Apr 2026",
-            "hi": "लोकसभा में वोट, 17 अप्रैल 2026"
-          }
-        },
-        {
-          "value": {
-            "en": "1971",
-            "hi": "1971"
-          },
-          "label": {
-            "en": "census still sets state seat totals",
-            "hi": "की जनगणना से अब भी तय होती हैं राज्यों की सीटें"
-          }
-        }
-      ]
-    },
-    {
-      "id": "special-intensive-revision-how-to-check-your-name",
-      "kn": [
-        {
-          "value": {
-            "en": "36.73 crore",
-            "hi": "36.73 करोड़"
-          },
-          "label": {
-            "en": "electors covered by phase III",
-            "hi": "मतदाता तीसरे चरण के दायरे में"
-          }
-        },
-        {
-          "value": {
-            "en": "1950",
-            "hi": "1950"
-          },
-          "label": {
-            "en": "toll-free voter helpline",
-            "hi": "टोल-फ्री वोटर हेल्पलाइन"
-          }
-        }
-      ]
+    "label": {
+     "en": "state aid for each family",
+     "hi": "हर परिवार को राज्य की सहायता"
     }
-  ],
-  "opinion": [
-    "protest-is-not-a-threat-to-public-order",
-    "rbi-right-to-move-fiscal-side-must-hold",
-    "election-commission-should-publish-its-dissent",
-    "parliament-that-sits-but-does-not-debate",
-    "labour-codes-centre-states-owe-workers-deadline"
-  ],
-  "sections": [
-    {
-      "section": "politics",
-      "module": {
-        "type": "bypolls",
-        "article": "bypoll-results-ruling-parties-win-all-six-seats"
-      },
-      "list": [
-        "bjp-hits-back-at-india-bloc-march-adityanath-thakur",
-        "owaisi-says-akhilesh-yadav-has-understanding-with-adityanath",
-        "rlm-suspends-ram-pukar-sinha-mla-revolt-saran-mlc"
-      ]
+   },
+   {
+    "icon": "map-pin",
+    "color": "#6e6e6e",
+    "value": {
+     "en": "Raghopur",
+     "hi": "राघोपुर"
     },
-    {
-      "section": "economy",
-      "lead": "rbl-bank-q2-profit-jumps-170-per-cent",
-      "module": {
-        "type": "markets",
-        "indicators": [
-          "sensex",
-          "nifty-50",
-          "usd-inr",
-          "forex-reserves"
-        ]
-      },
-      "list": [
-        "zetwerk-ipo-price-band-opens-october-15",
-        "festive-ecommerce-sales-24000-crore-first-two-days",
-        "gold-slips-near-1-5-lakh-ahead-of-us-inflation-data"
-      ]
-    },
-    {
-      "section": "states",
-      "lead": "mpsc-chairman-on-leave-pune-students-end-protest",
-      "list": [
-        "majhi-orders-faster-work-on-puri-heritage-projects",
-        "himanta-dares-congress-states-to-resign-revanth-attacks-sir",
-        "gujarat-clears-assistance-25-industrial-units-3903-crore"
-      ]
-    },
-    {
-      "section": "policy",
-      "lead": "india-uk-jetco-goyal-doubling-trade-by-2030",
-      "list": [
-        "navy-commissions-ins-mangrol-anti-submarine-craft",
-        "nadda-icmr-high-altitude-research-centre-keylong",
-        "supreme-court-asks-centre-census-caste-declaration-procedure",
-        "supreme-court-orders-sit-probe-assault-on-lawyers-bci-protest"
-      ]
-    },
-    {
-      "section": "parliament",
-      "module": {
-        "type": "session",
-        "session": "monsoon-2026"
-      },
-      "list": [
-        "speaker-gives-rebel-tmc-mps-till-october-20",
-        "fcra-explained-2026-amendment-bill"
-      ]
+    "label": {
+     "en": "block in Vaishali district",
+     "hi": "वैशाली ज़िले का प्रखंड"
     }
+   }
   ],
-  "desks": [
-    {
-      "section": "world",
-      "lead": "sudan-air-strikes-kill-72-gold-miners-near-egypt-border",
-      "list": [
-        "trump-announces-russia-ukraine-energy-ceasefire",
-        "carney-urges-albertans-to-stay-united-before-vote",
-        "china-sanctions-paraguay-belize-ministers-taiwan-ties"
-      ]
-    },
-    {
-      "section": "science",
-      "lead": "microsoft-unveils-maia-300-ai-chip",
-      "list": [
-        "ahold-delhaize-cyberattack-albert-heijn-shelves",
-        "spacex-crs-35-cargo-launch-iss-brain-organoids",
-        "climate-fingerprint-review-santer-human-warming-incontrovertible"
-      ]
-    },
-    {
-      "section": "sports",
-      "lead": "liverpool-0-manchester-city-3-anfield",
-      "list": [
-        "bergs-stuns-alcaraz-zverev-clinches-year-end-no-1",
-        "ranji-trophy-deshpande-hat-trick-jadeja-century",
-        "udhayveer-sidhu-wins-air-pistol-gold-cairo-world-cup"
-      ]
-    }
+  "relatedBelow": [
+   "mansa-anti-drug-activist-parvinder-jhota-shot-dead",
+   "china-rejects-india-ladakh-28-place-names-mea-responds"
   ],
-  "weekAhead": [
-    {
-      "icon": "scales",
-      "date": {
-        "en": "Today",
-        "hi": "आज"
-      },
-      "text": {
-        "en": "Supreme Court hears the protest detention and contempt pleas; SpaceX cargo launch to the ISS.",
-        "hi": "सुप्रीम कोर्ट में प्रदर्शन से जुड़ी हिरासत और अवमानना याचिकाओं पर सुनवाई; आईएसएस के लिए स्पेसएक्स का कार्गो लॉन्च।"
-      },
-      "link": "lawyers-journalists-move-supreme-court-over-delhi-protest-detentions"
-    },
-    {
-      "icon": "trophy",
-      "date": {
-        "en": "Wed 14 Oct",
-        "hi": "बुध, 14 अक्टूबर"
-      },
-      "text": {
-        "en": "India v West Indies, fourth T20I in Hyderabad; September WPI data.",
-        "hi": "हैदराबाद में भारत-वेस्टइंडीज़ चौथा टी20; सितंबर के थोक महंगाई आंकड़े।"
-      },
-      "link": "india-west-indies-fourth-t20i-hyderabad-preview"
-    },
-    {
-      "icon": "bank",
-      "date": {
-        "en": "Fri 16 Oct",
-        "hi": "शुक्र, 16 अक्टूबर"
-      },
-      "text": {
-        "en": "Banks must start holding 99% of their required CRR every day.",
-        "hi": "बैंकों को हर दिन तय सीआरआर का 99% रखना शुरू करना होगा।"
-      },
-      "link": "rbi-raises-daily-crr-minimum-to-99-per-cent"
-    },
-    {
-      "icon": "cpu",
-      "date": {
-        "en": "Thu 15 Oct",
-        "hi": "गुरु, 15 अक्टूबर"
-      },
-      "text": {
-        "en": "Wipro and Tech Mahindra report July-September results.",
-        "hi": "विप्रो और टेक महिंद्रा के जुलाई-सितंबर के नतीजे।"
-      },
-      "link": "hcltech-q2-profit-rises-21-raises-revenue-guidance"
-    },
-    {
-      "icon": "user-switch",
-      "date": {
-        "en": "Tue 20 Oct",
-        "hi": "मंगल, 20 अक्टूबर"
-      },
-      "text": {
-        "en": "Deadline for 20 rebel TMC MPs to answer disqualification petitions.",
-        "hi": "20 बागी टीएमसी सांसदों के लिए अयोग्यता याचिकाओं पर जवाब की आखिरी तारीख।"
-      },
-      "link": "speaker-gives-rebel-tmc-mps-till-october-20"
-    }
+  "relatedBeside": [
+   "amit-shah-tells-rahul-gandhi-prepare-for-2029-defeat",
+   "police-stop-trinamool-anti-cec-march-kolkata-rajabazar",
+   "sensex-jumps-1109-it-rally-sitharaman-ltcg-remarks",
+   "pope-leo-diagnosed-with-lung-cancer-after-surgery",
+   "houthis-strike-aramco-building-dhahran-coalition-hits-sanaa"
   ]
+ },
+ "briefing": {
+  "items": [
+   {
+    "link": "vaishali-boat-capsize-ganga-raghopur-children-killed",
+    "lead": {
+     "en": "Bihar:",
+     "hi": "बिहार:"
+    },
+    "text": {
+     "en": "13 children drowned when a boat capsized in the Ganga at Raghopur.",
+     "hi": "राघोपुर में गंगा में नाव पलटने से 13 बच्चों की मौत।"
+    }
+   },
+   {
+    "link": "supreme-court-adjourns-delhi-protest-pleas-summons-police-officer",
+    "lead": {
+     "en": "Supreme Court:",
+     "hi": "सुप्रीम कोर्ट:"
+    },
+    "text": {
+     "en": "the Delhi protest pleas move to Thursday; a senior police officer is told to appear.",
+     "hi": "दिल्ली प्रदर्शन की याचिकाएं गुरुवार तक टलीं, वरिष्ठ पुलिस अधिकारी तलब।"
+    }
+   },
+   {
+    "link": "amit-shah-tells-rahul-gandhi-prepare-for-2029-defeat",
+    "lead": {
+     "en": "Amit Shah:",
+     "hi": "अमित शाह:"
+    },
+    "text": {
+     "en": "told Congress to prepare for a \"crushing defeat\" in 2029.",
+     "hi": "कांग्रेस से 2029 में \"करारी हार\" के लिए तैयार रहने को कहा।"
+    }
+   },
+   {
+    "link": "sensex-jumps-1109-it-rally-sitharaman-ltcg-remarks",
+    "lead": {
+     "en": "Markets:",
+     "hi": "बाज़ार:"
+    },
+    "text": {
+     "en": "the Sensex jumped 1,109 points on an IT rally.",
+     "hi": "आईटी शेयरों की तेज़ी से सेंसेक्स 1,109 अंक चढ़ा।"
+    }
+   },
+   {
+    "link": "imf-raises-india-growth-forecast-7-per-cent",
+    "lead": {
+     "en": "IMF:",
+     "hi": "आईएमएफ:"
+    },
+    "text": {
+     "en": "raised India's growth forecast for this year to 7%.",
+     "hi": "भारत की इस साल की विकास दर का अनुमान बढ़ाकर 7% किया।"
+    }
+   },
+   {
+    "link": "mansa-anti-drug-activist-parvinder-jhota-shot-dead",
+    "lead": {
+     "en": "Punjab:",
+     "hi": "पंजाब:"
+    },
+    "text": {
+     "en": "anti-drug activist Parvinder Jhota shot dead in Mansa; bandh called for Thursday.",
+     "hi": "मानसा में नशा-विरोधी कार्यकर्ता परविंदर झोटा की गोली मारकर हत्या, गुरुवार को बंद।"
+    }
+   },
+   {
+    "link": "china-rejects-india-ladakh-28-place-names-mea-responds",
+    "lead": {
+     "en": "Ladakh:",
+     "hi": "लद्दाख:"
+    },
+    "text": {
+     "en": "China rejected India's names for 28 places; the MEA hit back.",
+     "hi": "चीन ने 28 जगहों के भारतीय नाम खारिज किए, विदेश मंत्रालय का जवाब।"
+    }
+   },
+   {
+    "link": "pope-leo-diagnosed-with-lung-cancer-after-surgery",
+    "lead": {
+     "en": "Vatican:",
+     "hi": "वेटिकन:"
+    },
+    "text": {
+     "en": "Pope Leo has lung cancer, his doctors said after surgery.",
+     "hi": "सर्जरी के बाद डॉक्टरों ने बताया, पोप लियो को फेफड़े का कैंसर।"
+    }
+   }
+  ]
+ },
+ "numbers": {
+  "tracker": "economy-dashboard",
+  "items": [
+   {
+    "indicator": "gdp-growth",
+    "icon": "trend-up",
+    "label": {
+     "en": "GDP growth",
+     "hi": "जीडीपी वृद्धि"
+    },
+    "decimals": 1
+   },
+   {
+    "indicator": "cpi-inflation",
+    "icon": "shopping-cart",
+    "highlight": true,
+    "label": {
+     "en": "CPI inflation",
+     "hi": "सीपीआई महंगाई"
+    },
+    "decimals": 2
+   },
+   {
+    "indicator": "unemployment",
+    "icon": "briefcase",
+    "label": {
+     "en": "Unemployment",
+     "hi": "बेरोज़गारी"
+    },
+    "decimals": 1
+   },
+   {
+    "indicator": "iip-growth",
+    "icon": "factory",
+    "label": {
+     "en": "IIP growth",
+     "hi": "आईआईपी वृद्धि"
+    },
+    "decimals": 1
+   },
+   {
+    "indicator": "repo-rate",
+    "icon": "bank",
+    "decimals": 2,
+    "label": {
+     "en": "Repo rate",
+     "hi": "रेपो रेट"
+    }
+   },
+   {
+    "indicator": "fiscal-deficit-pct-be",
+    "icon": "chart-bar",
+    "highlight": true,
+    "label": {
+     "en": "Fiscal deficit used",
+     "hi": "राजकोषीय घाटा (बजट का)"
+    },
+    "decimals": 1
+   }
+  ]
+ },
+ "topStories": {
+  "big": {
+   "id": "police-stop-trinamool-anti-cec-march-kolkata-rajabazar",
+   "also": [
+    "woman-tries-to-attack-mamata-banerjee-kalighat-tmc-says",
+    "rahul-gandhi-high-tea-india-bloc-cec-campaign"
+   ]
+  },
+  "list": [
+   "supreme-court-stays-rahul-gandhi-defamation-trial-chor-remark",
+   "two-firs-over-india-bloc-supreme-court-march-rahul-gandhi-named",
+   "cjp-members-scale-jantar-mantar-gate-detained",
+   "l-murugan-seeks-to-quit-ministry-rajya-sabha-for-tamil-nadu-bjp",
+   "siddaramaiah-court-bars-sting-videos-bjp-attacks-congress"
+  ]
+ },
+ "startHere": [
+  "section-163-bnss-prohibitory-orders-explained",
+  "what-hormuz-attacks-mean-for-indian-fuel-prices",
+  "wpi-vs-cpi-explained-wholesale-retail-inflation",
+  "what-is-the-cockroach-janta-party",
+  "what-india-bloc-supreme-court-petition-on-sir-asks-for",
+  "why-retail-inflation-jumped-september-what-it-means-for-emi"
+ ],
+ "trackers": [
+  {
+   "id": "bills-in-parliament-tracker",
+   "title": {
+    "en": "Bills in Parliament",
+    "hi": "संसद में विधेयक"
+   }
+  },
+  {
+   "id": "economy-dashboard",
+   "title": {
+    "en": "Economy dashboard",
+    "hi": "अर्थव्यवस्था डैशबोर्ड"
+   }
+  },
+  {
+   "id": "election-calendar",
+   "title": {
+    "en": "Election calendar",
+    "hi": "चुनाव कैलेंडर"
+   }
+  },
+  {
+   "id": "budget-2026-27-promise-tracker",
+   "title": {
+    "en": "Budget promises",
+    "hi": "बजट के वादे"
+   }
+  },
+  {
+   "id": "sc-cases-tracker",
+   "title": {
+    "en": "Big Supreme Court cases",
+    "hi": "सुप्रीम कोर्ट के बड़े मामले"
+   }
+  }
+ ],
+ "dataDesk": {
+  "map": {
+   "tracker": "election-calendar",
+   "topic": "elections-2027",
+   "kicker": {
+    "en": "Elections 2027",
+    "hi": "चुनाव 2027"
+   },
+   "title": {
+    "en": "{n} states vote in 2027",
+    "hi": "2027 में {n} राज्यों में चुनाव"
+   },
+   "text": {
+    "en": "Five assemblies are expected to vote in February and March, Himachal Pradesh and Gujarat late in the year. No schedule has been announced. The President's term ends in July 2027.",
+    "hi": "पांच विधानसभाओं के चुनाव फरवरी और मार्च में होने की उम्मीद है, हिमाचल प्रदेश और गुजरात के साल के आखिर में। अभी कोई कार्यक्रम घोषित नहीं हुआ है। राष्ट्रपति का कार्यकाल जुलाई 2027 में खत्म होता है।"
+   }
+  },
+  "parliament": {
+   "tracker": "bills-in-parliament-tracker",
+   "session": "monsoon-2026",
+   "bills": [
+    "fcra-amendment-2026",
+    "indian-statistical-institute-2026",
+    "supreme-court-number-of-judges-amendment-2026",
+    "mmdr-amendment-2026",
+    "kerala-alteration-of-name-2026"
+   ]
+  }
+ },
+ "factCheck": {
+  "cards": [
+   "jairam-ramesh-upi-charges-above-2000-claim",
+   "kejriwal-e20-trump-pressure-ethanol-claim",
+   "ai-brics-selfie-modi-putin-xi-raisi"
+  ]
+ },
+ "explained": [
+  {
+   "id": "wpi-vs-cpi-explained-wholesale-retail-inflation",
+   "kn": [
+    {
+     "value": {
+      "en": "9.92%",
+      "hi": "9.92%"
+     },
+     "label": {
+      "en": "wholesale inflation, August",
+      "hi": "थोक महंगाई, अगस्त"
+     }
+    },
+    {
+     "value": {
+      "en": "5.54%",
+      "hi": "5.54%"
+     },
+     "label": {
+      "en": "retail inflation, September",
+      "hi": "खुदरा महंगाई, सितंबर"
+     }
+    }
+   ]
+  },
+  {
+   "id": "repo-rate-and-your-emi-explained",
+   "kn": [
+    {
+     "value": {
+      "en": "₹781",
+      "hi": "₹781"
+     },
+     "label": {
+      "en": "extra EMI a month, ₹50 lakh loan",
+      "hi": "₹50 लाख के लोन पर हर महीने ज़्यादा ईएमआई"
+     }
+    },
+    {
+     "value": {
+      "en": "₹1.87 lakh",
+      "hi": "₹1.87 लाख"
+     },
+     "label": {
+      "en": "extra over 20 years",
+      "hi": "20 साल में ज़्यादा भुगतान"
+     }
+    }
+   ]
+  },
+  {
+   "id": "special-intensive-revision-how-to-check-your-name",
+   "kn": [
+    {
+     "value": {
+      "en": "36.73 crore",
+      "hi": "36.73 करोड़"
+     },
+     "label": {
+      "en": "electors covered by phase III",
+      "hi": "मतदाता तीसरे चरण के दायरे में"
+     }
+    },
+    {
+     "value": {
+      "en": "1950",
+      "hi": "1950"
+     },
+     "label": {
+      "en": "toll-free voter helpline",
+      "hi": "टोल-फ्री वोटर हेल्पलाइन"
+     }
+    }
+   ]
+  }
+ ],
+ "opinion": [
+  "indian-seafarers-should-not-carry-hormuz-risk-alone",
+  "festive-sales-boom-does-not-mean-inflation-can-wait",
+  "protest-is-not-a-threat-to-public-order",
+  "election-commission-should-publish-its-dissent",
+  "rbi-right-to-move-fiscal-side-must-hold"
+ ],
+ "sections": [
+  {
+   "section": "politics",
+   "module": {
+    "type": "bypolls",
+    "article": "bypoll-results-ruling-parties-win-all-six-seats"
+   },
+   "list": [
+    "rijiju-himanta-shivakumar-rahul-gandhi-video-row",
+    "madras-high-court-upholds-speaker-aiadmk-mla-resignations",
+    "sunetra-pawar-panel-sweeps-someshwar-sugar-factory-polls"
+   ]
+  },
+  {
+   "section": "economy",
+   "lead": "fpi-outflows-record-3-trillion-2026",
+   "module": {
+    "type": "markets",
+    "indicators": [
+     "sensex",
+     "nifty-50",
+     "usd-inr",
+     "forex-reserves"
+    ]
+   },
+   "list": [
+    "upi-merchant-fee-deferred-until-after-diwali",
+    "sebi-proposes-tighter-ipo-proceeds-monitoring",
+    "maruti-suzuki-shares-hit-18-month-low"
+   ]
+  },
+  {
+   "section": "states",
+   "lead": "keralam-high-court-refuses-stay-vigilance-fir-pinarayi-vijayan",
+   "list": [
+    "jk-waqf-board-uniform-friday-sermons-omar-mehbooba",
+    "supreme-court-stays-gurugram-dlf-colonies-sealing-drive",
+    "bhatti-vikramarka-announces-relief-for-singareni-workers"
+   ]
+  },
+  {
+   "section": "policy",
+   "lead": "bimstec-home-ministers-meet-amit-shah-delhi",
+   "list": [
+    "chouhan-yadav-review-stubble-burning-punjab-haryana",
+    "modi-carney-talks-india-canada-partnership",
+    "maritime-state-development-council-mumbai",
+    "supreme-court-notice-adr-plea-cec-immunity-section-16"
+   ]
+  },
+  {
+   "section": "parliament",
+   "module": {
+    "type": "session",
+    "session": "monsoon-2026"
+   },
+   "list": [
+    "speaker-gives-rebel-tmc-mps-till-october-20",
+    "fcra-explained-2026-amendment-bill"
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "section": "world",
+   "lead": "drone-attack-sinks-ship-off-bulgaria-black-sea",
+   "list": [
+    "pakistan-pti-protest-bara-turns-violent-kp-governor-rule",
+    "haze-from-indonesia-fires-firefly-cancels-singapore-flights",
+    "nepal-gorkha-floods-strand-foreign-trekkers-manaslu"
+   ]
+  },
+  {
+   "section": "science",
+   "lead": "character-ai-files-for-bankruptcy-disney-asset-sale",
+   "list": [
+    "fbi-arrests-openai-employee-hidden-recording-device",
+    "spacex-crs-35-cargo-launch-iss-brain-organoids",
+    "swadeshi-jagran-manch-asks-centre-to-block-starlink"
+   ]
+  },
+  {
+   "section": "sports",
+   "lead": "hazlewood-six-seals-australia-win-in-durban-test",
+   "list": [
+    "shubman-gill-icc-player-of-the-month-september",
+    "east-bengal-lose-to-al-shorta-acl-two-kolkata",
+    "sindhu-lakshya-out-of-denmark-open-first-round"
+   ]
+  }
+ ],
+ "weekAhead": [
+  {
+   "icon": "trophy",
+   "date": {
+    "en": "Today",
+    "hi": "आज"
+   },
+   "text": {
+    "en": "India v West Indies, fourth T20I in Hyderabad; September WPI data at noon.",
+    "hi": "हैदराबाद में भारत-वेस्टइंडीज़ चौथा टी20; दोपहर में सितंबर के थोक महंगाई आंकड़े।"
+   },
+   "link": "india-west-indies-fourth-t20i-hyderabad-preview"
+  },
+  {
+   "icon": "scales",
+   "date": {
+    "en": "Thu 15 Oct",
+    "hi": "गुरु, 15 अक्टूबर"
+   },
+   "text": {
+    "en": "Supreme Court takes up the Delhi protest detention and contempt pleas.",
+    "hi": "सुप्रीम कोर्ट में दिल्ली प्रदर्शन से जुड़ी हिरासत और अवमानना याचिकाओं पर सुनवाई।"
+   },
+   "link": "supreme-court-adjourns-delhi-protest-pleas-summons-police-officer"
+  },
+  {
+   "icon": "megaphone",
+   "date": {
+    "en": "Thu 15 Oct",
+    "hi": "गुरु, 15 अक्टूबर"
+   },
+   "text": {
+    "en": "Punjab bandh called over the Mansa killing of an anti-drug activist.",
+    "hi": "मानसा में नशा-विरोधी कार्यकर्ता की हत्या पर पंजाब बंद का आह्वान।"
+   },
+   "link": "mansa-anti-drug-activist-parvinder-jhota-shot-dead"
+  },
+  {
+   "icon": "bank",
+   "date": {
+    "en": "Fri 16 Oct",
+    "hi": "शुक्र, 16 अक्टूबर"
+   },
+   "text": {
+    "en": "Banks must start holding 99% of their required CRR every day.",
+    "hi": "बैंकों को हर दिन तय सीआरआर का 99% रखना शुरू करना होगा।"
+   },
+   "link": "rbi-raises-daily-crr-minimum-to-99-per-cent"
+  },
+  {
+   "icon": "user-switch",
+   "date": {
+    "en": "Tue 20 Oct",
+    "hi": "मंगल, 20 अक्टूबर"
+   },
+   "text": {
+    "en": "Deadline for 20 rebel TMC MPs to answer disqualification petitions.",
+    "hi": "20 बागी टीएमसी सांसदों के लिए अयोग्यता याचिकाओं पर जवाब की आखिरी तारीख।"
+   },
+   "link": "speaker-gives-rebel-tmc-mps-till-october-20"
+  }
+ ]
 }

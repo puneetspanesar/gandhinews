@@ -2,7 +2,7 @@
   "id": "economy-dashboard",
   "title": "भारत की अर्थव्यवस्था का डैशबोर्ड",
   "as_of": "2026-10-11",
-  "updated": "2026-10-12T21:30:00+05:30",
+  "updated": "2026-10-14T09:00:00+05:30",
   "notes": "हर आंकड़ा अपनी पंक्ति में बताए गए स्रोत से लिया गया है। verified_primary सिर्फ तब true है जब आंकड़ा किसी प्राथमिक विज्ञप्ति (आरबीआई, सांख्यिकी मंत्रालय, पीआईबी, वित्त मंत्रालय) में पढ़ा गया हो। जिन आंकड़ों को रिसर्च डेस्क ने गणना से निकाला गया (व्युत्पन्न) बताया, वे शामिल नहीं हैं।",
   "indicators": [
     {
@@ -434,16 +434,16 @@
     {
       "id": "usd-inr",
       "name": "डॉलर के मुकाबले रुपया (बंद भाव)",
-      "latest_value": 95.78,
+      "latest_value": 95.28,
       "unit": "₹ प्रति $",
-      "period": "12 अक्टूबर 2026 (अनंतिम बंद भाव)",
-      "release_date": "2026-10-12",
+      "period": "13 अक्टूबर 2026",
+      "release_date": "2026-10-13",
       "change_vs_previous": {
         "basis": "पिछला बंद भाव",
-        "previous_value": 96.71,
-        "previous_period": "9 अक्टूबर 2026",
-        "change": -0.93,
-        "change_unit": "₹ (रुपया 93 पैसे मज़बूत हुआ)"
+        "previous_value": 95.78,
+        "previous_period": "12 अक्टूबर 2026",
+        "change": -0.5,
+        "change_unit": "₹ (रुपया 50 पैसे मज़बूत हुआ)"
       },
       "history": [
         {
@@ -467,12 +467,16 @@
         {
           "period": "12 अक्टूबर 2026",
           "value": 95.78
+        },
+        {
+          "period": "13 अक्टूबर 2026",
+          "value": 95.28
         }
       ],
       "source": {
-        "publisher": "Kotak Neo; PTI via ThePrint",
-        "url": "https://theprint.in/economy/rupee-jumps-93-paise-to-close-at-95-78-against-us-dollar/3069693/",
-        "date": "2026-10-12"
+        "publisher": "Business Standard",
+        "url": "https://www.business-standard.com/markets/news/it-stocks-post-best-day-in-17-months-markets-log-biggest-gain-in-4-months-126101301151_1.html",
+        "date": "2026-10-13"
       },
       "history_sources": [
         {
@@ -535,14 +539,14 @@
     {
       "id": "sensex",
       "name": "बीएसई सेंसेक्स (बंद स्तर)",
-      "latest_value": 71924.68,
+      "latest_value": 73033.78,
       "unit": "अंक",
-      "period": "12 अक्टूबर 2026",
-      "release_date": "2026-10-12",
+      "period": "13 अक्टूबर 2026",
+      "release_date": "2026-10-13",
       "change_vs_previous": {
         "basis": "पिछला बंद भाव",
-        "change": -547.65,
-        "change_pct": -0.76,
+        "change": 1109.1,
+        "change_pct": 1.54,
         "change_unit": "अंक"
       },
       "history": [
@@ -557,12 +561,16 @@
         {
           "period": "12 अक्टूबर 2026",
           "value": 71924.68
+        },
+        {
+          "period": "13 अक्टूबर 2026",
+          "value": 73033.78
         }
       ],
       "source": {
-        "publisher": "Kotak Neo; PTI via ThePrint",
-        "url": "https://www.kotakneo.com/news/market-news/sensex-and-nifty-50-close-lower/",
-        "date": "2026-10-12"
+        "publisher": "Business Standard; Kotak Neo",
+        "url": "https://www.business-standard.com/markets/news/stock-market-live-october-13-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101300081_1.html",
+        "date": "2026-10-13"
       },
       "verified_primary": false,
       "note": "27 मई 2026 का बंद स्तर पीटीआई (डेक्कन हेराल्ड के ज़रिए) से है।",
@@ -578,14 +586,14 @@
     {
       "id": "nifty-50",
       "name": "एनएसई निफ्टी 50 (बंद स्तर)",
-      "latest_value": 22363.35,
+      "latest_value": 22721.95,
       "unit": "अंक",
-      "period": "12 अक्टूबर 2026",
-      "release_date": "2026-10-12",
+      "period": "13 अक्टूबर 2026",
+      "release_date": "2026-10-13",
       "change_vs_previous": {
         "basis": "पिछला बंद भाव",
-        "change": -157.1,
-        "change_pct": -0.7,
+        "change": 358.6,
+        "change_pct": 1.6,
         "change_unit": "अंक"
       },
       "history": [
@@ -600,12 +608,16 @@
         {
           "period": "12 अक्टूबर 2026",
           "value": 22363.35
+        },
+        {
+          "period": "13 अक्टूबर 2026",
+          "value": 22721.95
         }
       ],
       "source": {
-        "publisher": "Kotak Neo; PTI via ThePrint",
-        "url": "https://www.kotakneo.com/news/market-news/sensex-and-nifty-50-close-lower/",
-        "date": "2026-10-12"
+        "publisher": "Business Standard; Kotak Neo",
+        "url": "https://www.business-standard.com/markets/news/stock-market-live-october-13-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101300081_1.html",
+        "date": "2026-10-13"
       },
       "verified_primary": false,
       "note": "27 मई 2026 का बंद स्तर पीटीआई (डेक्कन हेराल्ड के ज़रिए) से है।",

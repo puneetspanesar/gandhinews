@@ -6,24 +6,50 @@ type: news
 section: politics
 format_label: "राजनीति / प्रदर्शन"
 topics: [election-commission, electoral-rolls-sir, supreme-court]
-title: "तिरंगा लेकर जंतर-मंतर का गेट फांदे सीजेपी नेता, दिल्ली पुलिस ने हिरासत में लिया"
-standfirst: "सौरव दास, आशुतोष रांका और अजिंक्य शिंदे को मंगलवार तड़के उस जगह से उठाया गया, जिसे प्रदर्शन स्थलों की सूची से हटा दिया गया है। आज ही सुप्रीम कोर्ट सप्ताहांत की हिरासतों पर सुनवाई करेगा।"
+title: "सीजेपी नेताओं के गेट फांदने के कुछ घंटे बाद पुलिस ने कोर्ट में जंतर-मंतर बंद करने का बचाव किया"
+standfirst: "दिल्ली पुलिस ने हाईकोर्ट से कहा कि जंतर-मंतर को सुप्रीम कोर्ट के आदेश के आधार पर सूची से हटाया गया। एक जज की तबीयत खराब होने से सुप्रीम कोर्ट ने हिरासत से जुड़े मामले गुरुवार तक टाल दिए।"
 published: 2026-10-13T11:30:00+05:30
+updated: 2026-10-14T08:30:00+05:30
 location: नई दिल्ली
 keyPoints:
   - "कॉकरोच जनता पार्टी के नेता मंगलवार तड़के **ताला लगा गेट फांदकर जंतर-मंतर में घुसे** और दिल्ली पुलिस ने उन्हें हिरासत में ले लिया।"
-  - "संस्थापक अभिजीत दिपके के मुताबिक **सौरव दास, आशुतोष रांका, अजिंक्य शिंदे** और टीम के कई अन्य सदस्य पकड़े गए।"
-  - "दिल्ली पुलिस ने सप्ताहांत में जंतर-मंतर को **तय प्रदर्शन स्थलों की सूची** से हटा दिया था।"
+  - "पुलिस ने दिल्ली हाईकोर्ट से कहा कि यह जगह **सुप्रीम कोर्ट के 9 अक्टूबर के आदेश के आधार पर** सूची से हटाई गई।"
+  - "जस्टिस वी मोहना की तबीयत ठीक न होने से सुप्रीम कोर्ट ने **हिरासत से जुड़े मामले 15 अक्टूबर तक टाले**।"
 hero:
   need: "नई दिल्ली में संसद मार्ग पर जंतर-मंतर के गेट और रेलिंग, बेहतर हो तो वेधशाला के बाहर का प्रदर्शन वाला हिस्सा"
   suggested_source: "Jantar Mantar gate"
   alt: "नई दिल्ली में जंतर-मंतर का गेट"
   overlay:
     value: "गेट के ऊपर से, सीधे पुलिस वैन में"
-related: [supreme-court-orders-metro-internet-restored-after-cjp-protest-detentions, what-is-the-cockroach-janta-party, india-bloc-march-to-supreme-court-after-cji-declines-meeting, two-firs-over-india-bloc-supreme-court-march-rahul-gandhi-named, mea-rejects-un-rights-office-remarks-delhi-protest-detentions, sc-cases-tracker]
+related: [supreme-court-adjourns-delhi-protest-pleas-summons-police-officer, supreme-court-orders-metro-internet-restored-after-cjp-protest-detentions, what-is-the-cockroach-janta-party, two-firs-over-india-bloc-supreme-court-march-rahul-gandhi-named, mea-rejects-un-rights-office-remarks-delhi-protest-detentions, sc-cases-tracker]
 seo:
-  description: "13 अक्टूबर को सीजेपी नेता सौरव दास और आशुतोष रांका तिरंगा लेकर जंतर-मंतर का बंद गेट फांदकर अंदर पहुंचे, दिल्ली पुलिस ने उन्हें हिरासत में लिया।"
+  description: "13 अक्टूबर को सीजेपी नेता जंतर-मंतर का गेट फांदकर हिरासत में लिए गए। दिल्ली पुलिस ने हाईकोर्ट से कहा, जगह को सुप्रीम कोर्ट के आदेश के बाद सूची से हटाया गया।"
 sources:
+  - title: "Decision to de-notify Jantar Mantar as protest site taken after Supreme Court order: Delhi police to High Court"
+    publisher: "Bar & Bench"
+    date: 2026-10-13
+    url: "https://www.barandbench.com/news/decision-to-de-notify-jantar-mantar-as-protest-site-taken-after-supreme-court-order-delhi-police-to-high-court"
+    primary: false
+  - title: "Supreme Court Adjourns Delhi Protest Matter To October 15"
+    publisher: "LiveLaw"
+    date: 2026-10-13
+    url: "https://www.livelaw.in/top-stories/supreme-court-delhi-protests-against-cec-gyanesh-kumar-election-commission-sir-adjourned-to-october-15-justice-mohana-unwell-554413"
+    primary: false
+  - title: "LiveLaw Breaking News Alerts: 13 October 2026"
+    publisher: "LiveLaw"
+    date: 2026-10-13
+    url: "https://www.livelaw.in/top-stories/livelaw-breaking-news-alerts-13-october-2026-554389"
+    primary: false
+  - title: "Can't pass blanket orders: Bombay High Court on mass detentions during anti-CEC stir in Mumbai"
+    publisher: "Bar & Bench"
+    date: 2026-10-13
+    url: "https://www.barandbench.com/news/cant-pass-blanket-orders-bombay-high-court-on-mass-detentions-during-anti-cec-stir-in-mumbai"
+    primary: false
+  - title: "Delhi police register four FIRs over INDIA bloc's march to Supreme Court"
+    publisher: "Telangana Today"
+    date: 2026-10-13
+    url: "https://telanganatoday.com/delhi-police-register-four-firs-over-india-blocs-march-to-supreme-court"
+    primary: false
   - title: "CJP's Saurav Das, Ashutosh Ranka detained near Jantar Mantar; Dipke says 'cannot de-notify resistance' (PTI)"
     publisher: "ThePrint"
     date: 2026-10-13
@@ -54,11 +80,6 @@ sources:
     date: 2026-10-13
     url: "https://www.thehansindia.com/news/cities/new-delhi/delhi-protest-two-firs-filed-over-india-bloc-march-supreme-court-high-court-to-hear-pleas-1131973"
     primary: false
-  - title: "Delhi Police file FIRs over Rahul Gandhi-led INDIA bloc march, cite barricade breach and graffiti"
-    publisher: "The Statesman"
-    date: 2026-10-13
-    url: "https://www.thestatesman.com/cities/delhi/delhi-police-file-firs-over-rahul-gandhi-led-india-bloc-march-cite-barricade-breach-and-graffiti-1503650478.html"
-    primary: false
   - title: "Jantar Mantar de-notified as protest venue by Delhi Police; three new venues designated"
     publisher: "Bar & Bench"
     date: 2026-10-12
@@ -67,40 +88,41 @@ sources:
 verification:
   status: approved
   notes:
-    - "Written about 11:20 am IST, 13 Oct. Exact time of the gate climb not reported; Dipke says 'early this morning'. Deccan Herald's first report is timestamped 4:16 am IST, so it may have been very early Tuesday (or the timestamp is off). Written as 'early on Tuesday'. The Week's body says 'Sunday', which conflicts with its own date; ignored."
-    - "Number detained not reported anywhere. Named: Das, Ranka (all outlets, PTI says per Delhi Police); Ajinkya Shinde (Dipke's post, Statesman 'reportedly'). Where they were taken and whether released: not reported by 11:20 am."
-    - "No on-record police statement found; PTI attributes the detention to Delhi Police without a quote. Written as 'police rushed in', which PTI reports."
-    - "Slogans: 'Bharat Mata ki Jai' (all), 'Gyanesh Kumar isteefa do' (PTI/ThePrint), 'Inquilab Zindabad' (DY365, Telangana Today)."
-    - "Date of de-notification: The Week says announced Saturday, order by Commissioner Anurag Kumar dated 11 Oct; DY365 says 'a day after'; Bar & Bench report dated 12 Oct. Written as 'over the weekend'."
-    - "Ranka's 'Hands Off Jantar Mantar!' caption from The Hans India only."
+    - "Update 14 Oct, 8:30 am IST. Release of Das, Ranka and Shinde after Tuesday's detention: not found in any source checked (Deccan Herald page last updated 4:16 am, Tribune, Telangana Today, searches). Copy says police have not said whether they were released."
+    - "Delhi HC: Uday Bhanu Chib v Union of India, Justice Amit Mahajan, 13 Oct (Bar & Bench 12:50 pm). ASG Chetan Sharma quote verbatim from Bar & Bench. Next date not reported."
+    - "SC adjournment: LiveLaw, 12:59 pm alert and full report; Justice Mohana unwell, parties agreed to 15 Oct. Compliance report and replies deadline extended to 15 Oct at SG's request."
+    - "Bombay HC: Sagar Devre v State of Maharashtra, CJ Mahesh Chandra Tripathi and Justice Advait Sethna; quote verbatim from Bar & Bench; deferred to Monday (19 Oct inferred, written as 'Monday')."
+    - "MP HC Itarsi detainee: LiveLaw alert 3:42 pm only."
+    - "Gate climb timing: Dipke said 'early this morning'; Deccan Herald first report timestamped 4:16 am IST. Number detained not reported. Shinde named by Dipke's post only."
+    - "No on-record police statement on the Tuesday detentions found."
+    - "Slogans: 'Bharat Mata ki Jai' (all), 'Gyanesh Kumar isteefa do' (PTI/ThePrint)."
     - "Whether Tuesday's act affects the 11 Oct peace bond: no reporting found; not raised."
-    - "SC hearing today: contempt plea and detention petitions (from SC 11 Oct order, our earlier story); SCBA plea and Sankaranarayanan-mentioned plea per Hans India. Delhi High Court pleas on Jantar Mantar closure per Hans India. Outcomes not known at writing."
 ---
 
-कॉकरोच जनता पार्टी (सीजेपी) के नेता मंगलवार तड़के राष्ट्रीय ध्वज लेकर ताला लगे गेट पर चढ़कर जंतर-मंतर में दाखिल हुए, जिसके बाद दिल्ली पुलिस ने उन्हें हिरासत में ले लिया। सप्ताहांत में इस जगह को शहर के तय प्रदर्शन स्थलों की सूची से हटा दिया गया था।
+दिल्ली पुलिस ने मंगलवार को दिल्ली हाईकोर्ट (उच्च न्यायालय) से कहा कि जंतर-मंतर को प्रदर्शन स्थलों की सूची से सुप्रीम कोर्ट के एक आदेश की वजह से हटाया गया। इससे कुछ ही घंटे पहले कॉकरोच जनता पार्टी (सीजेपी) के नेता राष्ट्रीय ध्वज लेकर इसके ताला लगे गेट पर चढ़े थे और पुलिस उन्हें उठा ले गई थी।
 
-दिल्ली पुलिस ने सीजेपी नेता सौरव दास और आशुतोष रांका को उस वक्त हिरासत में लिया जब वे प्रदर्शन स्थल तक पहुंचने की कोशिश कर रहे थे। पार्टी के संस्थापक अभिजीत दिपके ने बताया कि पार्टी के राष्ट्रीय संगठन प्रभारी अजिंक्य शिंदे और टीम के कई दूसरे सदस्य भी पकड़े गए। पुलिस ने यह नहीं बताया है कि कितने लोगों को हिरासत में लिया गया या उन्हें कहां ले जाया गया।
+सीजेपी के सौरव दास और आशुतोष रांका को मंगलवार तड़के उस वक्त हिरासत में लिया गया जब वे पुराने प्रदर्शन स्थल तक पहुंचने की कोशिश कर रहे थे। पार्टी के संस्थापक अभिजीत दिपके ने बताया कि पार्टी के राष्ट्रीय संगठन प्रभारी अजिंक्य शिंदे और टीम के कई दूसरे सदस्य भी पकड़े गए। पुलिस ने यह नहीं बताया है कि कितने लोगों को हिरासत में लिया गया, उन्हें कहां ले जाया गया या उन्हें छोड़ा गया है या नहीं।
 
 ## गेट के ऊपर से
 
-दिपके के पोस्ट किए वीडियो में दास और रांका तिरंगा लिए गेट पर चढ़ते दिखते हैं, जबकि समूह "भारत माता की जय" और "ज्ञानेश कुमार इस्तीफा दो" के नारे लगा रहा है। पुलिसकर्मी दौड़कर मौके पर पहुंचे और उन्हें ले गए।
+दिपके के पोस्ट किए वीडियो में दास और रांका तिरंगा लिए गेट पर चढ़ते दिखते हैं, जबकि समूह "भारत माता की जय" और "ज्ञानेश कुमार इस्तीफा दो" के नारे लगा रहा है। दिपके ने एक्स पर लिखा, "तिरंगा लिए कॉकरोच आज तड़के जंतर-मंतर में घुस गए, जिसके बाद दिल्ली पुलिस ने उन्हें उठा लिया।" प्रधानमंत्री नरेंद्र मोदी को टैग करते हुए उन्होंने जोड़ा: "आप प्रतिरोध को डीनोटिफाई नहीं कर सकते।"
 
-दिपके ने एक्स पर लिखा, "तिरंगा लिए कॉकरोच आज तड़के जंतर-मंतर में घुस गए, जिसके बाद दिल्ली पुलिस ने उन्हें उठा लिया।" प्रधानमंत्री नरेंद्र मोदी को टैग करते हुए उन्होंने जोड़ा: "आप प्रतिरोध को डीनोटिफाई नहीं कर सकते।"
+दास, रांका और दिपके को 10 अक्टूबर को भी हिरासत में लिया गया था। उन्हें रविवार को एक साल तक शांति बनाए रखने की शर्त पर ₹50,000 के मुचलके पर रिहा किया गया था।
 
-रांका ने गेट पर चढ़ने का अपना वीडियो "हैंड्स ऑफ जंतर मंतर!" कैप्शन के साथ पोस्ट किया।
+## हाईकोर्ट में
 
-## सूची से हटाई गई जगह
+मंगलवार को ही जस्टिस अमित महाजन ने भारतीय युवा कांग्रेस के प्रमुख उदय भानु चिब की याचिका सुनी। चिब को मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ जंतर-मंतर पर प्रदर्शन की अनुमति नहीं दी गई थी।
 
-संसद के पास स्थित जंतर-मंतर लंबे समय से दिल्ली का तय प्रदर्शन स्थल रहा है। केंद्रीय गृह मंत्रालय की एक समिति की सिफारिशों के आधार पर पुलिस आयुक्त अनुराग कुमार के आदेश के बाद अब यह ऐसा स्थल नहीं है। इसकी जगह रामलीला मैदान, बुराड़ी ग्राउंड और पूर्वी दिल्ली का सीबीडी ग्राउंड तय किए गए हैं।
+दिल्ली पुलिस की ओर से अतिरिक्त सॉलिसिटर जनरल चेतन शर्मा ने कहा कि जगह को सुप्रीम कोर्ट के 9 अक्टूबर के आदेश के आधार पर सूची से हटाया गया, जिसमें अधिकारियों से शांतिपूर्ण प्रदर्शन के लिए उपयुक्त वैकल्पिक जगहें पहचानने पर विचार करने को कहा गया था। उन्होंने कहा, "अदालत ने कहा था कि उपयुक्त जगहों की पहचान कर उन्हें तय किया जाए, और हमने ठीक यही किया है।" इसकी जगह रामलीला मैदान, बुराड़ी ग्राउंड और सीबीडी ग्राउंड तय किए गए हैं, और शर्मा ने दलील दी कि याचिका अब निरर्थक हो चुकी है।
 
-सीजेपी, जो मई में ऑनलाइन शुरू हुआ युवाओं का आंदोलन है, मतदाता सूचियों के विशेष गहन पुनरीक्षण (एसआईआर) को लेकर मुख्य चुनाव आयुक्त ज्ञानेश कुमार का इस्तीफा मांग रही है। 10 अक्टूबर को जंतर-मंतर तक मार्च के उसके आह्वान के बाद पुलिस ने मध्य दिल्ली में हज़ारों लोगों को हिरासत में लिया था।
+जज ने यह नहीं माना कि मामला खत्म हो गया है। एएसजी की आपत्ति के बावजूद उन्होंने चिब की तीन मांगों पर नोटिस जारी किया। इनमें प्रदर्शन के लिए 10 दिन पहले सूचना देने के पुलिस नियम को चुनौती, और यह मांग शामिल है कि 2022 के एक स्थायी आदेश का इस्तेमाल शांतिपूर्ण जमावड़ों पर यांत्रिक ढंग से रोक के लिए नहीं किया जा सकता।
 
-दास और रांका को उस दिन भी दिपके के साथ हिरासत में लिया गया था, जब मुंबई से उनकी उड़ान दिल्ली पहुंची। तीनों को रविवार को एक साल तक शांति बनाए रखने की शर्त पर ₹50,000 के मुचलके पर रिहा किया गया था।
+## सुप्रीम कोर्ट ने हिरासत के मामले टाले
 
-दिल्ली पुलिस का कहना है कि तीन नए प्रदर्शन स्थलों की सुरक्षा समीक्षा पूरी हो गई है और तैनाती की रोज़ समीक्षा हो रही है। पुलिस ने सीजेपी के और प्रदर्शनों की आशंका बताते हुए केंद्रीय सशस्त्र पुलिस बलों की 273 कंपनियों को 20 अक्टूबर तक राजधानी में रखने की मांग भी की है।
+सुप्रीम कोर्ट में सप्ताहांत की कार्रवाई से जुड़ी हिरासत और अवमानना याचिकाएं मुख्य न्यायाधीश सूर्यकांत, जस्टिस जॉयमाल्य बागची और जस्टिस वी मोहना की पीठ के सामने आनी थीं। जस्टिस मोहना की तबीयत ठीक न होने से पक्षकारों ने इन्हें गुरुवार, 15 अक्टूबर को सुनने पर सहमति दी। सॉलिसिटर जनरल के अनुरोध पर अदालत ने सरकार को अपने पहले के निर्देशों पर अनुपालन रिपोर्ट और अवमानना याचिकाओं पर जवाब दाखिल करने के लिए तब तक का समय दिया।
 
-## आज अदालत में
+## दूसरी अदालतों में
 
-सुप्रीम कोर्ट मंगलवार को सप्ताहांत की हिरासतों से जुड़ी याचिकाओं और केंद्रीय गृह सचिव, दिल्ली पुलिस आयुक्त और दिल्ली मेट्रो प्रमुख के खिलाफ अवमानना याचिका पर सुनवाई करेगा। रविवार की विशेष सुनवाई में जस्टिस जॉयमाल्य बागची और जस्टिस वी मोहना की पीठ ने कहा था कि किसी को भी "कानून द्वारा स्थापित प्रक्रिया" के अलावा हिरासत में नहीं रखा जाना चाहिए, खासकर शांतिपूर्ण और निहत्थे जमावड़ों में शामिल लोगों को।
+प्रदर्शन दूसरे हाईकोर्ट तक भी पहुंच गए हैं। मुंबई में मुख्य न्यायाधीश महेश चंद्र त्रिपाठी की अगुवाई वाली पीठ ने 10 और 11 अक्टूबर को सीईसी-विरोधी प्रदर्शनों के दौरान हिरासत में लिए गए लोगों को छोड़ने का अंतरिम आदेश देने से इनकार किया। पीठ ने कहा, "हम ऐसे व्यापक आदेश पारित नहीं कर सकते। आप जो भी मामले रिकॉर्ड पर लाएंगे, हम उन्हें देखेंगे।" मामला सोमवार को सुना जाएगा।
 
-अदालत को प्रदर्शनों के दौरान वकीलों और अदालती कामकाज में बाधा पर सुप्रीम कोर्ट बार एसोसिएशन की याचिका पर भी सुनवाई करनी है। अलग से, दिल्ली हाई कोर्ट के सामने प्रदर्शनों और जंतर-मंतर को प्रदर्शन स्थल के रूप में बंद करने से जुड़ी याचिकाएं हैं।
+मध्य प्रदेश हाईकोर्ट को बताया गया कि सीजेपी प्रदर्शन में जाते समय इटारसी जंक्शन पर हिरासत में ली गई एक महिला को उसके परिवार के पास लौटा दिया गया है। पीठ ने राज्य से यह दिखाने को कहा कि ऐसे सभी लोगों को घर भेज दिया गया है।
