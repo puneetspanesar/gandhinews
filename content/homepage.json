@@ -1,15 +1,15 @@
 {
  "lead": {
-  "id": "vaishali-boat-capsize-ganga-raghopur-children-killed",
+  "id": "opposition-leaders-back-jailed-cjp-leaders-tricolour",
   "chart": 1,
   "overlay": {
    "kicker": {
-    "en": "Vaishali, Tuesday evening",
-    "hi": "वैशाली, मंगलवार शाम"
+    "en": "Delhi, Wednesday",
+    "hi": "दिल्ली, बुधवार"
    },
    "value": {
-    "en": "13 children lost in the Ganga",
-    "hi": "गंगा में डूबे 13 बच्चे"
+    "en": "Opposition stands with the CJP",
+    "hi": "सीजेपी के साथ खड़ा विपक्ष"
    },
    "text": {
     "en": "",
@@ -18,154 +18,154 @@
   },
   "dataBox": [
    {
-    "icon": "warning",
+    "icon": "gavel",
     "color": "#cc0000",
     "value": {
-     "en": "13",
-     "hi": "13"
+     "en": "5 days",
+     "hi": "5 दिन"
     },
     "label": {
-     "en": "children confirmed dead by the DM",
-     "hi": "बच्चों की मौत की डीएम ने पुष्टि की"
+     "en": "judicial custody for Das and Ranka",
+     "hi": "दास और रांका को न्यायिक हिरासत"
     }
    },
    {
-    "icon": "boat",
+    "icon": "users-three",
     "color": "#8f0000",
     "value": {
-     "en": "7",
-     "hi": "7"
+     "en": "6",
+     "hi": "6"
     },
     "label": {
-     "en": "people pulled out alive",
-     "hi": "लोग जिंदा निकाले गए"
+     "en": "opposition leaders who questioned the arrests",
+     "hi": "विपक्षी नेताओं ने गिरफ़्तारी पर सवाल उठाए"
     }
    },
    {
-    "icon": "currency-inr",
+    "icon": "train",
     "color": "#0d0d0d",
     "value": {
-     "en": "₹4 lakh",
-     "hi": "₹4 लाख"
+     "en": "45 of 303",
+     "hi": "303 में से 45"
     },
     "label": {
-     "en": "state aid for each family",
-     "hi": "हर परिवार को राज्य की सहायता"
+     "en": "Metro stations shut on 10 Oct, DMRC says",
+     "hi": "मेट्रो स्टेशन 10 अक्टूबर को बंद, डीएमआरसी के मुताबिक"
     }
    },
    {
-    "icon": "map-pin",
+    "icon": "scales",
     "color": "#6e6e6e",
     "value": {
-     "en": "Raghopur",
-     "hi": "राघोपुर"
+     "en": "Today",
+     "hi": "आज"
     },
     "label": {
-     "en": "block in Vaishali district",
-     "hi": "वैशाली ज़िले का प्रखंड"
+     "en": "Supreme Court hears the protest cases",
+     "hi": "प्रदर्शन के मामलों पर सुप्रीम कोर्ट में सुनवाई"
     }
    }
   ],
   "relatedBelow": [
-   "mansa-anti-drug-activist-parvinder-jhota-shot-dead",
-   "china-rejects-india-ladakh-28-place-names-mea-responds"
+   "cjp-members-scale-jantar-mantar-gate-detained",
+   "dmrc-apologises-supreme-court-ahead-of-delhi-protest-hearing"
   ],
   "relatedBeside": [
-   "amit-shah-tells-rahul-gandhi-prepare-for-2029-defeat",
-   "police-stop-trinamool-anti-cec-march-kolkata-rajabazar",
-   "sensex-jumps-1109-it-rally-sitharaman-ltcg-remarks",
-   "pope-leo-diagnosed-with-lung-cancer-after-surgery",
-   "houthis-strike-aramco-building-dhahran-coalition-hits-sanaa"
+   "wpi-inflation-september-2026",
+   "india-west-indies-fourth-t20i-hyderabad-result",
+   "government-approves-idbi-bank-strategic-restructuring",
+   "mansa-jhota-accused-held-rajasthan-punjab-bandh-today",
+   "meerut-blue-drum-murder-muskan-sahil-sentenced-to-death"
   ]
  },
  "briefing": {
   "items": [
    {
-    "link": "vaishali-boat-capsize-ganga-raghopur-children-killed",
+    "link": "opposition-leaders-back-jailed-cjp-leaders-tricolour",
     "lead": {
-     "en": "Bihar:",
-     "hi": "बिहार:"
+     "en": "CJP:",
+     "hi": "सीजेपी:"
     },
     "text": {
-     "en": "13 children drowned when a boat capsized in the Ganga at Raghopur.",
-     "hi": "राघोपुर में गंगा में नाव पलटने से 13 बच्चों की मौत।"
+     "en": "Rahul Gandhi and five other opposition leaders backed the jailed CJP leaders.",
+     "hi": "राहुल गांधी समेत छह विपक्षी नेता जेल भेजे गए सीजेपी नेताओं के समर्थन में उतरे।"
     }
    },
    {
-    "link": "supreme-court-adjourns-delhi-protest-pleas-summons-police-officer",
+    "link": "wpi-inflation-september-2026",
     "lead": {
-     "en": "Supreme Court:",
-     "hi": "सुप्रीम कोर्ट:"
+     "en": "Prices:",
+     "hi": "कीमतें:"
     },
     "text": {
-     "en": "the Delhi protest pleas move to Thursday; a senior police officer is told to appear.",
-     "hi": "दिल्ली प्रदर्शन की याचिकाएं गुरुवार तक टलीं, वरिष्ठ पुलिस अधिकारी तलब।"
+     "en": "wholesale inflation hit 11.39% in September, a series high.",
+     "hi": "सितंबर में थोक महंगाई 11.39% पर, नई सीरीज़ में सबसे ऊंची।"
     }
    },
    {
-    "link": "amit-shah-tells-rahul-gandhi-prepare-for-2029-defeat",
+    "link": "government-approves-idbi-bank-strategic-restructuring",
     "lead": {
-     "en": "Amit Shah:",
-     "hi": "अमित शाह:"
+     "en": "IDBI Bank:",
+     "hi": "आईडीबीआई बैंक:"
     },
     "text": {
-     "en": "told Congress to prepare for a \"crushing defeat\" in 2029.",
-     "hi": "कांग्रेस से 2029 में \"करारी हार\" के लिए तैयार रहने को कहा।"
+     "en": "the Cabinet cleared the sale of control to Fairfax at ₹81 a share.",
+     "hi": "कैबिनेट ने ₹81 प्रति शेयर पर फेयरफैक्स को नियंत्रण बेचने को मंज़ूरी दी।"
     }
    },
    {
-    "link": "sensex-jumps-1109-it-rally-sitharaman-ltcg-remarks",
+    "link": "india-west-indies-fourth-t20i-hyderabad-result",
     "lead": {
-     "en": "Markets:",
-     "hi": "बाज़ार:"
+     "en": "Cricket:",
+     "hi": "क्रिकेट:"
     },
     "text": {
-     "en": "the Sensex jumped 1,109 points on an IT rally.",
-     "hi": "आईटी शेयरों की तेज़ी से सेंसेक्स 1,109 अंक चढ़ा।"
+     "en": "West Indies won in Hyderabad; the series is 2-2.",
+     "hi": "हैदराबाद में वेस्टइंडीज़ जीता, सीरीज़ 2-2 से बराबर।"
     }
    },
    {
-    "link": "imf-raises-india-growth-forecast-7-per-cent",
-    "lead": {
-     "en": "IMF:",
-     "hi": "आईएमएफ:"
-    },
-    "text": {
-     "en": "raised India's growth forecast for this year to 7%.",
-     "hi": "भारत की इस साल की विकास दर का अनुमान बढ़ाकर 7% किया।"
-    }
-   },
-   {
-    "link": "mansa-anti-drug-activist-parvinder-jhota-shot-dead",
+    "link": "mansa-jhota-accused-held-rajasthan-punjab-bandh-today",
     "lead": {
      "en": "Punjab:",
      "hi": "पंजाब:"
     },
     "text": {
-     "en": "anti-drug activist Parvinder Jhota shot dead in Mansa; bandh called for Thursday.",
-     "hi": "मानसा में नशा-विरोधी कार्यकर्ता परविंदर झोटा की गोली मारकर हत्या, गुरुवार को बंद।"
+     "en": "the accused in Jhota's killing was arrested in Rajasthan; bandh today.",
+     "hi": "झोटा हत्याकांड का आरोपी राजस्थान में गिरफ़्तार, आज पंजाब बंद।"
     }
    },
    {
-    "link": "china-rejects-india-ladakh-28-place-names-mea-responds",
+    "link": "meerut-blue-drum-murder-muskan-sahil-sentenced-to-death",
     "lead": {
-     "en": "Ladakh:",
-     "hi": "लद्दाख:"
+     "en": "Meerut:",
+     "hi": "मेरठ:"
     },
     "text": {
-     "en": "China rejected India's names for 28 places; the MEA hit back.",
-     "hi": "चीन ने 28 जगहों के भारतीय नाम खारिज किए, विदेश मंत्रालय का जवाब।"
+     "en": "a court sentenced Muskan and Sahil to death for the \"blue drum\" murder.",
+     "hi": "अदालत ने \"नीला ड्रम\" हत्याकांड में मुस्कान और साहिल को मौत की सज़ा सुनाई।"
     }
    },
    {
-    "link": "pope-leo-diagnosed-with-lung-cancer-after-surgery",
+    "link": "jio-platforms-ipo-price-band-biggest-india-listing",
     "lead": {
-     "en": "Vatican:",
-     "hi": "वेटिकन:"
+     "en": "Jio:",
+     "hi": "जियो:"
     },
     "text": {
-     "en": "Pope Leo has lung cancer, his doctors said after surgery.",
-     "hi": "सर्जरी के बाद डॉक्टरों ने बताया, पोप लियो को फेफड़े का कैंसर।"
+     "en": "set a price band of ₹1,065 to ₹1,119 for India's biggest IPO.",
+     "hi": "देश के सबसे बड़े आईपीओ के लिए ₹1,065 से ₹1,119 का प्राइस बैंड तय।"
+    }
+   },
+   {
+    "link": "us-inflation-september-cpi-rises-before-midterms",
+    "lead": {
+     "en": "US:",
+     "hi": "अमेरिका:"
+    },
+    "text": {
+     "en": "consumer inflation rose to 3.7% in September as petrol jumped.",
+     "hi": "पेट्रोल महंगा होने से सितंबर में उपभोक्ता महंगाई 3.7% पर।"
     }
    }
   ]
@@ -233,27 +233,27 @@
  },
  "topStories": {
   "big": {
-   "id": "police-stop-trinamool-anti-cec-march-kolkata-rajabazar",
+   "id": "nadda-kharge-ramesh-shah-trade-charges-over-sir",
    "also": [
-    "woman-tries-to-attack-mamata-banerjee-kalighat-tmc-says",
-    "rahul-gandhi-high-tea-india-bloc-cec-campaign"
+    "rss-invites-dhankhar-vijayadashami-congress-jibe",
+    "ankita-bhandari-parents-protest-dushyant-gautam-sikkim-governor"
    ]
   },
   "list": [
-   "supreme-court-stays-rahul-gandhi-defamation-trial-chor-remark",
-   "two-firs-over-india-bloc-supreme-court-march-rahul-gandhi-named",
-   "cjp-members-scale-jantar-mantar-gate-detained",
-   "l-murugan-seeks-to-quit-ministry-rajya-sabha-for-tamil-nadu-bjp",
-   "siddaramaiah-court-bars-sting-videos-bjp-attacks-congress"
+   "supreme-court-eci-lost-karnataka-counting-video",
+   "owaisi-moves-supreme-court-against-sir",
+   "dipke-calls-lehra-do-tiranga-protest-connaught-place",
+   "supreme-court-quashes-up-police-notice-x-abhishek-upadhyay",
+   "madras-high-court-questions-police-rss-route-march-denial"
   ]
  },
  "startHere": [
-  "section-163-bnss-prohibitory-orders-explained",
-  "what-hormuz-attacks-mean-for-indian-fuel-prices",
+  "how-china-standardised-names-india-places-explained",
+  "upi-merchant-fee-mdr-explained-who-pays",
+  "imf-world-economic-outlook-explained-india-rbi",
   "wpi-vs-cpi-explained-wholesale-retail-inflation",
-  "what-is-the-cockroach-janta-party",
-  "what-india-bloc-supreme-court-petition-on-sir-asks-for",
-  "why-retail-inflation-jumped-september-what-it-means-for-emi"
+  "section-163-bnss-prohibitory-orders-explained",
+  "what-hormuz-attacks-mean-for-indian-fuel-prices"
  ],
  "trackers": [
   {
@@ -330,16 +330,41 @@
  },
  "explained": [
   {
+   "id": "imf-world-economic-outlook-explained-india-rbi",
+   "kn": [
+    {
+     "value": {
+      "en": "7%",
+      "hi": "7%"
+     },
+     "label": {
+      "en": "IMF forecast for India, this year",
+      "hi": "इस साल भारत के लिए आईएमएफ का अनुमान"
+     }
+    },
+    {
+     "value": {
+      "en": "7.1%",
+      "hi": "7.1%"
+     },
+     "label": {
+      "en": "RBI's own forecast",
+      "hi": "आरबीआई का अपना अनुमान"
+     }
+    }
+   ]
+  },
+  {
    "id": "wpi-vs-cpi-explained-wholesale-retail-inflation",
    "kn": [
     {
      "value": {
-      "en": "9.92%",
-      "hi": "9.92%"
+      "en": "11.39%",
+      "hi": "11.39%"
      },
      "label": {
-      "en": "wholesale inflation, August",
-      "hi": "थोक महंगाई, अगस्त"
+      "en": "wholesale inflation, September",
+      "hi": "थोक महंगाई, सितंबर"
      }
     },
     {
@@ -378,39 +403,14 @@
      }
     }
    ]
-  },
-  {
-   "id": "special-intensive-revision-how-to-check-your-name",
-   "kn": [
-    {
-     "value": {
-      "en": "36.73 crore",
-      "hi": "36.73 करोड़"
-     },
-     "label": {
-      "en": "electors covered by phase III",
-      "hi": "मतदाता तीसरे चरण के दायरे में"
-     }
-    },
-    {
-     "value": {
-      "en": "1950",
-      "hi": "1950"
-     },
-     "label": {
-      "en": "toll-free voter helpline",
-      "hi": "टोल-फ्री वोटर हेल्पलाइन"
-     }
-    }
-   ]
   }
  ],
  "opinion": [
+  "after-raghopur-country-boats-need-rules-that-are-enforced",
+  "punjab-drug-war-cannot-be-left-to-vigilantes",
   "indian-seafarers-should-not-carry-hormuz-risk-alone",
   "festive-sales-boom-does-not-mean-inflation-can-wait",
-  "protest-is-not-a-threat-to-public-order",
-  "election-commission-should-publish-its-dissent",
-  "rbi-right-to-move-fiscal-side-must-hold"
+  "protest-is-not-a-threat-to-public-order"
  ],
  "sections": [
   {
@@ -420,14 +420,14 @@
     "article": "bypoll-results-ruling-parties-win-all-six-seats"
    },
    "list": [
-    "rijiju-himanta-shivakumar-rahul-gandhi-video-row",
-    "madras-high-court-upholds-speaker-aiadmk-mla-resignations",
-    "sunetra-pawar-panel-sweeps-someshwar-sugar-factory-polls"
+    "rajasthan-cabinet-resolution-modi-25-years-head-of-government",
+    "jharkhand-congress-expels-yogendra-sao-three-years",
+    "odisha-satyabadi-block-office-vandalised-naveen"
    ]
   },
   {
    "section": "economy",
-   "lead": "fpi-outflows-record-3-trillion-2026",
+   "lead": "sensex-nifty-rupee-close-october-14",
    "module": {
     "type": "markets",
     "indicators": [
@@ -438,28 +438,28 @@
     ]
    },
    "list": [
-    "upi-merchant-fee-deferred-until-after-diwali",
-    "sebi-proposes-tighter-ipo-proceeds-monitoring",
-    "maruti-suzuki-shares-hit-18-month-low"
+    "wipro-tech-mahindra-q2-results-preview",
+    "groww-q2-profit-rises-54-per-cent",
+    "sebi-proposes-sme-ipo-norms-market-cap-lower-application"
    ]
   },
   {
    "section": "states",
-   "lead": "keralam-high-court-refuses-stay-vigilance-fir-pinarayi-vijayan",
+   "lead": "mohan-yadav-laadli-behna-41st-instalment-umaria",
    "list": [
-    "jk-waqf-board-uniform-friday-sermons-omar-mehbooba",
-    "supreme-court-stays-gurugram-dlf-colonies-sealing-drive",
-    "bhatti-vikramarka-announces-relief-for-singareni-workers"
+    "keralam-senior-citizens-bill-jail-for-elder-abuse",
+    "yogi-prayagraj-padmalok-flats-atiq-land-pmay-keys",
+    "samrat-choudhary-opens-ctrls-data-centre-patna"
    ]
   },
   {
    "section": "policy",
-   "lead": "bimstec-home-ministers-meet-amit-shah-delhi",
+   "lead": "anita-anand-meets-modi-jaishankar-india-canada-talks",
    "list": [
-    "chouhan-yadav-review-stubble-burning-punjab-haryana",
-    "modi-carney-talks-india-canada-partnership",
-    "maritime-state-development-council-mumbai",
-    "supreme-court-notice-adr-plea-cec-immunity-section-16"
+    "cabinet-approves-railway-employees-bonus-2009-crore",
+    "centre-sets-up-committee-sugarcane-farmers-sugar-sector",
+    "law-ministry-enlists-nlus-to-cut-case-pendency-100-districts",
+    "rajnath-singh-iit-kanpur-military-drone-centre-near-approval"
    ]
   },
   {
@@ -477,68 +477,56 @@
  "desks": [
   {
    "section": "world",
-   "lead": "drone-attack-sinks-ship-off-bulgaria-black-sea",
+   "lead": "musk-starlink-ukraine-throttling-us-military",
    "list": [
-    "pakistan-pti-protest-bara-turns-violent-kp-governor-rule",
-    "haze-from-indonesia-fires-firefly-cancels-singapore-flights",
-    "nepal-gorkha-floods-strand-foreign-trekkers-manaslu"
+    "pakistan-kp-governors-rule-follow-up",
+    "ronen-bar-sues-netanyahu-defamation-october-7",
+    "kenya-confirms-second-ebola-case"
    ]
   },
   {
    "section": "science",
-   "lead": "character-ai-files-for-bankruptcy-disney-asset-sale",
+   "lead": "ncpcr-summons-google-ai-kiss-hug-apps-child-safety-norms",
    "list": [
-    "fbi-arrests-openai-employee-hidden-recording-device",
-    "spacex-crs-35-cargo-launch-iss-brain-organoids",
-    "swadeshi-jagran-manch-asks-centre-to-block-starlink"
+    "jio-platforms-ipo-price-band-biggest-india-listing",
+    "asml-raises-2026-sales-forecast-ai-chip-tool-demand",
+    "colossal-genomorph-ai-dodo-de-extinction"
    ]
   },
   {
    "section": "sports",
-   "lead": "hazlewood-six-seals-australia-win-in-durban-test",
+   "lead": "ranji-trophy-round-one-final-day-results",
    "list": [
-    "shubman-gill-icc-player-of-the-month-september",
-    "east-bengal-lose-to-al-shorta-acl-two-kolkata",
-    "sindhu-lakshya-out-of-denmark-open-first-round"
+    "satwik-chirag-crash-out-denmark-open-first-round",
+    "hockey-veterans-shocked-by-reported-retirement-plan",
+    "punjab-fc-beat-odisha-fc-stoppage-time-isl"
    ]
   }
  ],
  "weekAhead": [
   {
-   "icon": "trophy",
+   "icon": "scales",
    "date": {
     "en": "Today",
     "hi": "आज"
    },
    "text": {
-    "en": "India v West Indies, fourth T20I in Hyderabad; September WPI data at noon.",
-    "hi": "हैदराबाद में भारत-वेस्टइंडीज़ चौथा टी20; दोपहर में सितंबर के थोक महंगाई आंकड़े।"
+    "en": "Supreme Court hears the Delhi protest detention, contempt and journalists' pleas.",
+    "hi": "सुप्रीम कोर्ट में दिल्ली प्रदर्शन से जुड़ी हिरासत, अवमानना और पत्रकारों की याचिकाओं पर सुनवाई।"
    },
-   "link": "india-west-indies-fourth-t20i-hyderabad-preview"
-  },
-  {
-   "icon": "scales",
-   "date": {
-    "en": "Thu 15 Oct",
-    "hi": "गुरु, 15 अक्टूबर"
-   },
-   "text": {
-    "en": "Supreme Court takes up the Delhi protest detention and contempt pleas.",
-    "hi": "सुप्रीम कोर्ट में दिल्ली प्रदर्शन से जुड़ी हिरासत और अवमानना याचिकाओं पर सुनवाई।"
-   },
-   "link": "supreme-court-adjourns-delhi-protest-pleas-summons-police-officer"
+   "link": "dmrc-apologises-supreme-court-ahead-of-delhi-protest-hearing"
   },
   {
    "icon": "megaphone",
    "date": {
-    "en": "Thu 15 Oct",
-    "hi": "गुरु, 15 अक्टूबर"
+    "en": "Today",
+    "hi": "आज"
    },
    "text": {
-    "en": "Punjab bandh called over the Mansa killing of an anti-drug activist.",
-    "hi": "मानसा में नशा-विरोधी कार्यकर्ता की हत्या पर पंजाब बंद का आह्वान।"
+    "en": "Punjab bandh from 6 am to 5 pm over the Mansa killing; Wipro and Tech Mahindra report results.",
+    "hi": "मानसा हत्याकांड पर सुबह 6 से शाम 5 बजे तक पंजाब बंद; विप्रो और टेक महिंद्रा के नतीजे।"
    },
-   "link": "mansa-anti-drug-activist-parvinder-jhota-shot-dead"
+   "link": "mansa-jhota-accused-held-rajasthan-punjab-bandh-today"
   },
   {
    "icon": "bank",
@@ -551,6 +539,18 @@
     "hi": "बैंकों को हर दिन तय सीआरआर का 99% रखना शुरू करना होगा।"
    },
    "link": "rbi-raises-daily-crr-minimum-to-99-per-cent"
+  },
+  {
+   "icon": "trophy",
+   "date": {
+    "en": "Sat 17 Oct",
+    "hi": "शनि, 17 अक्टूबर"
+   },
+   "text": {
+    "en": "India v West Indies, series decider at the Chinnaswamy, Bengaluru.",
+    "hi": "बेंगलुरु के चिन्नास्वामी में भारत-वेस्टइंडीज़ सीरीज़ का निर्णायक मैच।"
+   },
+   "link": "india-west-indies-fourth-t20i-hyderabad-result"
   },
   {
    "icon": "user-switch",

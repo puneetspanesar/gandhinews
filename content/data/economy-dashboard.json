@@ -2,7 +2,7 @@
   "id": "economy-dashboard",
   "title": "India economy dashboard",
   "as_of": "2026-10-11",
-  "updated": "2026-10-14T09:00:00+05:30",
+  "updated": "2026-10-15T08:00:00+05:30",
   "notes": "Every value is taken from the source named in its row. verified_primary is true only when the figure was read in a primary release (RBI, MoSPI, PIB, Ministry of Finance). Values the research desk marked as derived are not included.",
   "indicators": [
     {
@@ -434,16 +434,16 @@
     {
       "id": "usd-inr",
       "name": "Rupee per US dollar (closing)",
-      "latest_value": 95.28,
+      "latest_value": 95.16,
       "unit": "₹ per $",
-      "period": "13 Oct 2026",
-      "release_date": "2026-10-13",
+      "period": "14 Oct 2026",
+      "release_date": "2026-10-14",
       "change_vs_previous": {
         "basis": "previous close",
-        "previous_value": 95.78,
-        "previous_period": "12 Oct 2026",
-        "change": -0.5,
-        "change_unit": "₹ (rupee gained 50 paise)"
+        "previous_value": 95.28,
+        "previous_period": "13 Oct 2026",
+        "change": -0.12,
+        "change_unit": "₹ (rupee gained 12 paise)"
       },
       "history": [
         {
@@ -471,12 +471,16 @@
         {
           "period": "13 Oct 2026",
           "value": 95.28
+        },
+        {
+          "period": "14 Oct 2026",
+          "value": 95.16
         }
       ],
       "source": {
         "publisher": "Business Standard",
-        "url": "https://www.business-standard.com/markets/news/it-stocks-post-best-day-in-17-months-markets-log-biggest-gain-in-4-months-126101301151_1.html",
-        "date": "2026-10-13"
+        "url": "https://www.business-standard.com/markets/news/it-s-25k-crore-market-value-gain-mirrors-pharma-s-loss-as-nifty-falls-126101401231_1.html",
+        "date": "2026-10-14"
       },
       "history_sources": [
         {
@@ -493,7 +497,7 @@
         }
       ],
       "verified_primary": false,
-      "note": "National Herald reported the 9 Oct close as 96.71. The current all-time low was not found."
+      "note": "National Herald reported the 9 Oct close as 96.71. PTI put the 14 Oct close at 95.17 (previous 95.36). The current all-time low was not found."
     },
     {
       "id": "forex-reserves",
@@ -539,14 +543,14 @@
     {
       "id": "sensex",
       "name": "BSE Sensex (close)",
-      "latest_value": 73033.78,
+      "latest_value": 72781.89,
       "unit": "index points",
-      "period": "13 Oct 2026",
-      "release_date": "2026-10-13",
+      "period": "14 Oct 2026",
+      "release_date": "2026-10-14",
       "change_vs_previous": {
         "basis": "previous close",
-        "change": 1109.1,
-        "change_pct": 1.54,
+        "change": -251.89,
+        "change_pct": -0.34,
         "change_unit": "points"
       },
       "history": [
@@ -565,12 +569,16 @@
         {
           "period": "13 Oct 2026",
           "value": 73033.78
+        },
+        {
+          "period": "14 Oct 2026",
+          "value": 72781.89
         }
       ],
       "source": {
-        "publisher": "Business Standard; Kotak Neo",
-        "url": "https://www.business-standard.com/markets/news/stock-market-live-october-13-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101300081_1.html",
-        "date": "2026-10-13"
+        "publisher": "Business Standard",
+        "url": "https://www.business-standard.com/markets/news/stock-market-live-october-14-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101400113_1.html",
+        "date": "2026-10-14"
       },
       "verified_primary": false,
       "note": "27 May 2026 close from PTI via Deccan Herald.",
@@ -586,14 +594,14 @@
     {
       "id": "nifty-50",
       "name": "NSE Nifty 50 (close)",
-      "latest_value": 22721.95,
+      "latest_value": 22622.7,
       "unit": "index points",
-      "period": "13 Oct 2026",
-      "release_date": "2026-10-13",
+      "period": "14 Oct 2026",
+      "release_date": "2026-10-14",
       "change_vs_previous": {
         "basis": "previous close",
-        "change": 358.6,
-        "change_pct": 1.6,
+        "change": -99.25,
+        "change_pct": -0.44,
         "change_unit": "points"
       },
       "history": [
@@ -612,12 +620,16 @@
         {
           "period": "13 Oct 2026",
           "value": 22721.95
+        },
+        {
+          "period": "14 Oct 2026",
+          "value": 22622.7
         }
       ],
       "source": {
-        "publisher": "Business Standard; Kotak Neo",
-        "url": "https://www.business-standard.com/markets/news/stock-market-live-october-13-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101300081_1.html",
-        "date": "2026-10-13"
+        "publisher": "Business Standard",
+        "url": "https://www.business-standard.com/markets/news/stock-market-live-october-14-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101400113_1.html",
+        "date": "2026-10-14"
       },
       "verified_primary": false,
       "note": "27 May 2026 close from PTI via Deccan Herald.",

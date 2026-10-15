@@ -5,25 +5,30 @@ type: news
 section: politics
 format_label: "Politics / Protests"
 topics: [election-commission, electoral-rolls-sir, supreme-court]
-title: "Police defend Jantar Mantar closure in court hours after CJP leaders scale its gate"
-standfirst: "Delhi Police told the High Court the site was de-notified because of a Supreme Court order. The Supreme Court put off the detention cases to Thursday after a judge fell ill."
+title: "CJP's Saurav Das and Ashutosh Ranka sent to judicial custody over Jantar Mantar entry"
+standfirst: "A Delhi magistrate's court remanded the two Cockroach Janta Party leaders for five days on Wednesday, a day after they climbed the locked gate of the de-notified protest site."
 published: 2026-10-13T11:30:00+05:30
-updated: 2026-10-14T08:30:00+05:30
+updated: 2026-10-15T07:30:00+05:30
 location: New Delhi
 keyPoints:
-  - "Cockroach Janta Party leaders **climbed a locked gate into Jantar Mantar** early on Tuesday and were detained by Delhi Police."
-  - "Police told the Delhi High Court the site was de-notified **on the basis of the Supreme Court's 9 October order**."
-  - "The Supreme Court **adjourned the protest detention cases to 15 October** because Justice V Mohana was unwell."
+  - "A Delhi court remanded Saurav Das and Ashutosh Ranka to **five days of judicial custody** on Wednesday."
+  - "Police have charged them with **unlawful assembly and disobeying an official order** after they entered Jantar Mantar."
+  - "The Supreme Court is due to hear the protest detention cases **on Thursday, 15 October**."
 hero:
   need: "The gates and railings of Jantar Mantar on Sansad Marg, New Delhi, ideally the protest stretch outside the observatory"
   suggested_source: "Jantar Mantar gate"
   alt: "The gate at Jantar Mantar, New Delhi"
   overlay:
     value: "Over the gate, into a police van"
-related: [supreme-court-adjourns-delhi-protest-pleas-summons-police-officer, supreme-court-orders-metro-internet-restored-after-cjp-protest-detentions, what-is-the-cockroach-janta-party, two-firs-over-india-bloc-supreme-court-march-rahul-gandhi-named, mea-rejects-un-rights-office-remarks-delhi-protest-detentions, sc-cases-tracker]
+related: [dmrc-apologises-supreme-court-ahead-of-delhi-protest-hearing, supreme-court-adjourns-delhi-protest-pleas-summons-police-officer, supreme-court-orders-metro-internet-restored-after-cjp-protest-detentions, what-is-the-cockroach-janta-party, two-firs-over-india-bloc-supreme-court-march-rahul-gandhi-named, mea-rejects-un-rights-office-remarks-delhi-protest-detentions, sc-cases-tracker]
 seo:
-  description: "CJP leaders scaled the Jantar Mantar gate and were detained on 13 October. Delhi Police told the High Court the site's closure followed a Supreme Court order."
+  description: "CJP leaders Saurav Das and Ashutosh Ranka were remanded to five days of judicial custody on 14 October after climbing the Jantar Mantar gate a day earlier."
 sources:
+  - title: "Delhi Court Remands CJP Leaders Saurav Das, Ashutosh Ranka To Five Days Judicial Custody For 'Trespassing' At Jantar Mantar"
+    publisher: "LiveLaw"
+    date: 2026-10-14
+    url: "https://www.livelaw.in/news-updates/delhi-court-remands-cjp-leaders-saurav-das-ashutosh-ranka-to-five-days-judicial-custody-for-trespassing-at-jantar-mantar-554532"
+    primary: false
   - title: "Decision to de-notify Jantar Mantar as protest site taken after Supreme Court order: Delhi police to High Court"
     publisher: "Bar & Bench"
     date: 2026-10-13
@@ -87,6 +92,7 @@ sources:
 verification:
   status: approved
   notes:
+    - "Update 15 Oct, 7:30 am IST. Remand: LiveLaw (14 Oct, 9:01 am) only; SEM court, magistrate not named; FIR of 13 Oct alleges unlawful assembly and disobedience of order promulgated by public servant, sections not given; Jaffarpur Kalan then Parliament Street PS; Ratna Singh's remarks are from her tweet as reported by LiveLaw. Remand reported in the morning of 14 Oct; exact hour not given. Fate of Shinde and others still not reported; no bail plea reported."
     - "Update 14 Oct, 8:30 am IST. Release of Das, Ranka and Shinde after Tuesday's detention: not found in any source checked (Deccan Herald page last updated 4:16 am, Tribune, Telangana Today, searches). Copy says police have not said whether they were released."
     - "Delhi HC: Uday Bhanu Chib v Union of India, Justice Amit Mahajan, 13 Oct (Bar & Bench 12:50 pm). ASG Chetan Sharma quote verbatim from Bar & Bench. Next date not reported."
     - "SC adjournment: LiveLaw, 12:59 pm alert and full report; Justice Mohana unwell, parties agreed to 15 Oct. Compliance report and replies deadline extended to 15 Oct at SG's request."
@@ -98,9 +104,13 @@ verification:
     - "Whether Tuesday's act affects the 11 Oct peace bond: no reporting found; not raised."
 ---
 
-Delhi Police told the Delhi High Court on Tuesday that Jantar Mantar was struck off the list of protest sites because of a Supreme Court order, hours after leaders of the Cockroach Janta Party (CJP) climbed over its locked gate with the national flag and were taken away by officers.
+Two leaders of the Cockroach Janta Party (CJP), Saurav Das and Ashutosh Ranka, were sent to five days of judicial custody on Wednesday, a day after they climbed over the locked gate of Jantar Mantar carrying the national flag.
 
-The CJP's Saurav Das and Ashutosh Ranka were detained early on Tuesday as they tried to reach the old protest ground. Party founder Abhijeet Dipke said Ajinkya Shinde, the party's national organisation in-charge, and several other team members were also picked up. Police have not said how many people were held, where they were taken or whether they have been released.
+A Special Executive Magistrate's court in Delhi passed the remand order. Delhi Police registered an FIR on Tuesday against the two and others, alleging unlawful assembly and disobedience of an order promulgated by a public servant. Jantar Mantar had been struck off the list of protest venues a day before they went in.
+
+The two were first held at Jaffarpur Kalan police station on Tuesday and moved to Parliament Street police station in the early hours of Wednesday. Ratna Singh, who heads the CJP's legal affairs, said they were not allowed to meet their lawyers until late at night and could be sent to Tihar Jail. Party founder Abhijeet Dipke said Ajinkya Shinde, the party's national organisation in-charge, and several other team members were also picked up on Tuesday. Police have not said what happened to them.
+
+The Supreme Court is due on Thursday to hear the wider set of petitions over the mass detentions during the protests against Chief Election Commissioner Gyanesh Kumar.
 
 ## Over the gate
 
@@ -110,7 +120,7 @@ Das, Ranka and Dipke had been held on 10 October as well and were released on Su
 
 ## In the High Court
 
-Later on Tuesday, Justice Amit Mahajan heard a plea by Indian Youth Congress chief Uday Bhanu Chib, who had been refused permission to protest at Jantar Mantar against Chief Election Commissioner Gyanesh Kumar.
+Also on Tuesday, Justice Amit Mahajan of the Delhi High Court heard a plea by Indian Youth Congress chief Uday Bhanu Chib, who had been refused permission to protest at Jantar Mantar against Chief Election Commissioner Gyanesh Kumar.
 
 Additional Solicitor General Chetan Sharma, for Delhi Police, said the site was de-notified on the strength of the Supreme Court's 9 October order, which had asked authorities to consider identifying suitable alternative venues for peaceful protest. "The Court said appropriate sites need to be identified and designated and we have precisely done that," he said. Ramlila Maidan, Burari Ground and CBD Ground have been named instead, and Sharma argued that the plea had become infructuous.
 
