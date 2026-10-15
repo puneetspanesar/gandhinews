@@ -6,7 +6,7 @@ import { verdictKey, VERDICT_RATING, UI, SECTION_NAMES, type Lang } from './i18n
  *  an unrelated Mumbai channel uses that name, and we do not want Google to merge the two.) */
 export const NAME_VARIANTS = ['Lok Vox', 'Lokvox', 'lokvox.com', 'लोकवॉक्स', 'लोक वॉक्स'];
 /** Official profiles elsewhere. Add each one here as it is created, so Google can tie them to this site. */
-export const SAME_AS: string[] = [];
+export const SAME_AS: string[] = ['https://x.com/lokvoxcom', 'https://www.instagram.com/lokvoxnews'];
 
 export const PUBLISHER = {
   '@type': 'NewsMediaOrganization',
