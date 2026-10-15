@@ -33,7 +33,7 @@ const p = prefix(lang);
 const S = SECTION_NAMES[lang];
 const enPath = lang === 'en' ? path : altPath;
 const hiPath = lang === 'hi' ? path : altPath;
-const fullTitle = path === `${p}/` ? `${t.siteName}: ${t.motto}` : `${title} | ${t.siteName}`;
+const fullTitle = path === `${p}/` ? (lang === 'hi' ? 'लोकवॉक्स (LokVox): भारत और दुनिया की ख़बरें, हिंदी और अंग्रेज़ी में' : 'LokVox: India and world news in English and Hindi') : `${title} | ${t.siteName}`;
 const ogImage = image?.url ?? abs('/og-default.png');
 
 const EN_TRY = ['CJP protest', 'Repo rate', 'SIR electoral rolls', 'GST Council', 'Labour codes'];
