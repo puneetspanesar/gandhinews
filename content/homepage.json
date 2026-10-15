@@ -1,15 +1,15 @@
 {
  "lead": {
-  "id": "opposition-leaders-back-jailed-cjp-leaders-tricolour",
+  "id": "supreme-court-notice-centre-delhi-protest-pleas-cctv",
   "chart": 1,
   "overlay": {
    "kicker": {
-    "en": "Delhi, Wednesday",
-    "hi": "दिल्ली, बुधवार"
+    "en": "Supreme Court, Thursday",
+    "hi": "सुप्रीम कोर्ट, गुरुवार"
    },
    "value": {
-    "en": "Opposition stands with the CJP",
-    "hi": "सीजेपी के साथ खड़ा विपक्ष"
+    "en": "Keep the footage, show the orders",
+    "hi": "फ़ुटेज बचाकर रखें, आदेश दिखाएं"
    },
    "text": {
     "en": "",
@@ -18,154 +18,154 @@
   },
   "dataBox": [
    {
-    "icon": "gavel",
+    "icon": "scales",
     "color": "#cc0000",
     "value": {
-     "en": "5 days",
-     "hi": "5 दिन"
+     "en": "CCTV",
+     "hi": "सीसीटीवी"
     },
     "label": {
-     "en": "judicial custody for Das and Ranka",
-     "hi": "दास और रांका को न्यायिक हिरासत"
+     "en": "footage and digital material to be preserved",
+     "hi": "फ़ुटेज और डिजिटल सामग्री सुरक्षित रखने का आदेश"
+    }
+   },
+   {
+    "icon": "scroll",
+    "color": "#8f0000",
+    "value": {
+     "en": "BNSS 163",
+     "hi": "बीएनएसएस 163"
+    },
+    "label": {
+     "en": "orders police must place on record",
+     "hi": "आदेश, जो पुलिस को रिकॉर्ड पर रखने होंगे"
+    }
+   },
+   {
+    "icon": "gavel",
+    "color": "#0d0d0d",
+    "value": {
+     "en": "46",
+     "hi": "46"
+    },
+    "label": {
+     "en": "matters already pending before the court",
+     "hi": "मामले पहले से अदालत में लंबित"
     }
    },
    {
     "icon": "users-three",
-    "color": "#8f0000",
-    "value": {
-     "en": "6",
-     "hi": "6"
-    },
-    "label": {
-     "en": "opposition leaders who questioned the arrests",
-     "hi": "विपक्षी नेताओं ने गिरफ़्तारी पर सवाल उठाए"
-    }
-   },
-   {
-    "icon": "train",
-    "color": "#0d0d0d",
-    "value": {
-     "en": "45 of 303",
-     "hi": "303 में से 45"
-    },
-    "label": {
-     "en": "Metro stations shut on 10 Oct, DMRC says",
-     "hi": "मेट्रो स्टेशन 10 अक्टूबर को बंद, डीएमआरसी के मुताबिक"
-    }
-   },
-   {
-    "icon": "scales",
     "color": "#6e6e6e",
     "value": {
-     "en": "Today",
-     "hi": "आज"
+     "en": "3",
+     "hi": "3"
     },
     "label": {
-     "en": "Supreme Court hears the protest cases",
-     "hi": "प्रदर्शन के मामलों पर सुप्रीम कोर्ट में सुनवाई"
+     "en": "election commissioners served notice on the SIR plea",
+     "hi": "चुनाव आयुक्तों को एसआईआर याचिका पर नोटिस"
     }
    }
   ],
   "relatedBelow": [
-   "cjp-members-scale-jantar-mantar-gate-detained",
-   "dmrc-apologises-supreme-court-ahead-of-delhi-protest-hearing"
+   "supreme-court-notice-cec-rahul-gandhi-sir-plea-conduct",
+   "supreme-court-women-journalists-sealed-cover-delhi-protests"
   ],
   "relatedBeside": [
-   "wpi-inflation-september-2026",
-   "india-west-indies-fourth-t20i-hyderabad-result",
-   "government-approves-idbi-bank-strategic-restructuring",
-   "mansa-jhota-accused-held-rajasthan-punjab-bandh-today",
-   "meerut-blue-drum-murder-muskan-sahil-sentenced-to-death"
+   "two-ships-sink-near-hormuz-pezeshkian-surrender",
+   "peshawar-school-roof-collapse-kills-students",
+   "sensex-nifty-rupee-close-october-15",
+   "punjab-bandh-jhota-mansa-shutdown-response",
+   "yes-bank-shares-crash-supreme-court-at1-bonds"
   ]
  },
  "briefing": {
   "items": [
    {
-    "link": "opposition-leaders-back-jailed-cjp-leaders-tricolour",
+    "link": "supreme-court-notice-centre-delhi-protest-pleas-cctv",
     "lead": {
-     "en": "CJP:",
-     "hi": "सीजेपी:"
+     "en": "Supreme Court:",
+     "hi": "सुप्रीम कोर्ट:"
     },
     "text": {
-     "en": "Rahul Gandhi and five other opposition leaders backed the jailed CJP leaders.",
-     "hi": "राहुल गांधी समेत छह विपक्षी नेता जेल भेजे गए सीजेपी नेताओं के समर्थन में उतरे।"
+     "en": "ordered protest footage preserved and asked police for the prohibitory orders.",
+     "hi": "प्रदर्शन के फ़ुटेज सुरक्षित रखने का आदेश, पुलिस से निषेधाज्ञा के आदेश मांगे।"
     }
    },
    {
-    "link": "wpi-inflation-september-2026",
+    "link": "supreme-court-notice-cec-rahul-gandhi-sir-plea-conduct",
     "lead": {
-     "en": "Prices:",
-     "hi": "कीमतें:"
+     "en": "SIR plea:",
+     "hi": "एसआईआर याचिका:"
     },
     "text": {
-     "en": "wholesale inflation hit 11.39% in September, a series high.",
-     "hi": "सितंबर में थोक महंगाई 11.39% पर, नई सीरीज़ में सबसे ऊंची।"
+     "en": "notice to the CEC and both election commissioners.",
+     "hi": "मुख्य चुनाव आयुक्त और दोनों चुनाव आयुक्तों को नोटिस।"
     }
    },
    {
-    "link": "government-approves-idbi-bank-strategic-restructuring",
+    "link": "two-ships-sink-near-hormuz-pezeshkian-surrender",
     "lead": {
-     "en": "IDBI Bank:",
-     "hi": "आईडीबीआई बैंक:"
+     "en": "Hormuz:",
+     "hi": "होर्मुज़:"
     },
     "text": {
-     "en": "the Cabinet cleared the sale of control to Fairfax at ₹81 a share.",
-     "hi": "कैबिनेट ने ₹81 प्रति शेयर पर फेयरफैक्स को नियंत्रण बेचने को मंज़ूरी दी।"
+     "en": "two cargo ships sank; Iran says the strait stays shut.",
+     "hi": "दो मालवाहक जहाज़ डूबे, ईरान बोला जलडमरूमध्य बंद रहेगा।"
     }
    },
    {
-    "link": "india-west-indies-fourth-t20i-hyderabad-result",
+    "link": "sensex-nifty-rupee-close-october-15",
     "lead": {
-     "en": "Cricket:",
-     "hi": "क्रिकेट:"
+     "en": "Markets:",
+     "hi": "बाज़ार:"
     },
     "text": {
-     "en": "West Indies won in Hyderabad; the series is 2-2.",
-     "hi": "हैदराबाद में वेस्टइंडीज़ जीता, सीरीज़ 2-2 से बराबर।"
+     "en": "the Sensex jumped 1,534 points to 74,315.61.",
+     "hi": "सेंसेक्स 1,534 अंक चढ़कर 74,315.61 पर।"
     }
    },
    {
-    "link": "mansa-jhota-accused-held-rajasthan-punjab-bandh-today",
+    "link": "india-september-exports-jump-23-trade-deficit",
+    "lead": {
+     "en": "Exports:",
+     "hi": "निर्यात:"
+    },
+    "text": {
+     "en": "goods exports rose 23% to $44.4 billion in September.",
+     "hi": "सितंबर में वस्तु निर्यात 23% बढ़कर 44.4 अरब डॉलर।"
+    }
+   },
+   {
+    "link": "punjab-bandh-jhota-mansa-shutdown-response",
     "lead": {
      "en": "Punjab:",
      "hi": "पंजाब:"
     },
     "text": {
-     "en": "the accused in Jhota's killing was arrested in Rajasthan; bandh today.",
-     "hi": "झोटा हत्याकांड का आरोपी राजस्थान में गिरफ़्तार, आज पंजाब बंद।"
+     "en": "markets shut and highways blocked over the Mansa killing.",
+     "hi": "मानसा हत्याकांड पर बाज़ार बंद, हाईवे जाम।"
     }
    },
    {
-    "link": "meerut-blue-drum-murder-muskan-sahil-sentenced-to-death",
+    "link": "peshawar-school-roof-collapse-kills-students",
     "lead": {
-     "en": "Meerut:",
-     "hi": "मेरठ:"
+     "en": "Peshawar:",
+     "hi": "पेशावर:"
     },
     "text": {
-     "en": "a court sentenced Muskan and Sahil to death for the \"blue drum\" murder.",
-     "hi": "अदालत ने \"नीला ड्रम\" हत्याकांड में मुस्कान और साहिल को मौत की सज़ा सुनाई।"
+     "en": "a school roof collapse killed 28 children and a teacher.",
+     "hi": "स्कूल की छत गिरने से 28 बच्चों और एक शिक्षक की मौत।"
     }
    },
    {
-    "link": "jio-platforms-ipo-price-band-biggest-india-listing",
+    "link": "how-uttar-pradesh-voted-2022-what-it-takes-to-win",
     "lead": {
-     "en": "Jio:",
-     "hi": "जियो:"
+     "en": "UP 2027:",
+     "hi": "यूपी 2027:"
     },
     "text": {
-     "en": "set a price band of ₹1,065 to ₹1,119 for India's biggest IPO.",
-     "hi": "देश के सबसे बड़े आईपीओ के लिए ₹1,065 से ₹1,119 का प्राइस बैंड तय।"
-    }
-   },
-   {
-    "link": "us-inflation-september-cpi-rises-before-midterms",
-    "lead": {
-     "en": "US:",
-     "hi": "अमेरिका:"
-    },
-    "text": {
-     "en": "consumer inflation rose to 3.7% in September as petrol jumped.",
-     "hi": "पेट्रोल महंगा होने से सितंबर में उपभोक्ता महंगाई 3.7% पर।"
+     "en": "our full guide to the 403 seats and the Yogi government.",
+     "hi": "403 सीटों और योगी सरकार पर हमारी पूरी गाइड।"
     }
    }
   ]
@@ -233,27 +233,27 @@
  },
  "topStories": {
   "big": {
-   "id": "nadda-kharge-ramesh-shah-trade-charges-over-sir",
+   "id": "supreme-court-notice-congress-rahul-march-browbeat-judiciary",
    "also": [
-    "rss-invites-dhankhar-vijayadashami-congress-jibe",
-    "ankita-bhandari-parents-protest-dushyant-gautam-sikkim-governor"
+    "delhi-police-tells-high-court-will-act-against-dipke-cp-protest",
+    "bjp-says-rahul-wants-regime-change-neha-bora-bangladesh"
    ]
   },
   "list": [
-   "supreme-court-eci-lost-karnataka-counting-video",
-   "owaisi-moves-supreme-court-against-sir",
-   "dipke-calls-lehra-do-tiranga-protest-connaught-place",
-   "supreme-court-quashes-up-police-notice-x-abhishek-upadhyay",
-   "madras-high-court-questions-police-rss-route-march-denial"
+   "akhilesh-sir-vote-theft-rajbhar-hits-back",
+   "sp-seeks-ec-notice-yogi-mlc-polls-deputy-cms",
+   "yogi-varanasi-mlc-teachers-poll-old-pension",
+   "dhami-defends-police-ankita-bhandari-congress",
+   "supreme-court-upholds-tn-convert-backward-muslim-certificate-ruling"
   ]
  },
  "startHere": [
+  "how-uttar-pradesh-voted-2022-what-it-takes-to-win",
+  "whos-who-uttar-pradesh-2027-contest",
   "how-china-standardised-names-india-places-explained",
   "upi-merchant-fee-mdr-explained-who-pays",
   "imf-world-economic-outlook-explained-india-rbi",
-  "wpi-vs-cpi-explained-wholesale-retail-inflation",
-  "section-163-bnss-prohibitory-orders-explained",
-  "what-hormuz-attacks-mean-for-indian-fuel-prices"
+  "wpi-vs-cpi-explained-wholesale-retail-inflation"
  ],
  "trackers": [
   {
@@ -427,7 +427,7 @@
   },
   {
    "section": "economy",
-   "lead": "sensex-nifty-rupee-close-october-14",
+   "lead": "india-september-exports-jump-23-trade-deficit",
    "module": {
     "type": "markets",
     "indicators": [
@@ -438,28 +438,28 @@
     ]
    },
    "list": [
-    "wipro-tech-mahindra-q2-results-preview",
-    "groww-q2-profit-rises-54-per-cent",
-    "sebi-proposes-sme-ipo-norms-market-cap-lower-application"
+    "wipro-q2-results",
+    "zetwerk-ipo-day-one-subscription",
+    "tata-communications-q2-profit-rises-86-per-cent"
    ]
   },
   {
    "section": "states",
-   "lead": "mohan-yadav-laadli-behna-41st-instalment-umaria",
+   "lead": "modi-ladakh-3350-crore-projects",
    "list": [
-    "keralam-senior-citizens-bill-jail-for-elder-abuse",
-    "yogi-prayagraj-padmalok-flats-atiq-land-pmay-keys",
-    "samrat-choudhary-opens-ctrls-data-centre-patna"
+    "telangana-el-nino-severe-chief-secretary-singur",
+    "bhajanlal-sharma-meets-modi-delhi",
+    "gujarat-smc-seizes-stolen-fuel-chemicals-anand"
    ]
   },
   {
    "section": "policy",
-   "lead": "anita-anand-meets-modi-jaishankar-india-canada-talks",
+   "lead": "jaishankar-no-agreed-border-china-stable-boundary",
    "list": [
-    "cabinet-approves-railway-employees-bonus-2009-crore",
-    "centre-sets-up-committee-sugarcane-farmers-sugar-sector",
-    "law-ministry-enlists-nlus-to-cut-case-pendency-100-districts",
-    "rajnath-singh-iit-kanpur-military-drone-centre-near-approval"
+    "mea-concern-illinois-hindu-temple-shooting-plot",
+    "india-to-join-siofa-high-seas-fisheries",
+    "asean-india-defence-think-tank-forum-delhi",
+    "anita-anand-meets-modi-jaishankar-india-canada-talks"
    ]
   },
   {
@@ -469,64 +469,64 @@
     "session": "monsoon-2026"
    },
    "list": [
-    "speaker-gives-rebel-tmc-mps-till-october-20",
-    "fcra-explained-2026-amendment-bill"
+    "finance-panel-hears-mospi-indian-statistical-institute-bill",
+    "pac-examines-sc-scholarship-schemes-cag-report"
    ]
   }
  ],
  "desks": [
   {
    "section": "world",
-   "lead": "musk-starlink-ukraine-throttling-us-military",
+   "lead": "ukraine-resumes-strikes-russian-oil-refineries",
    "list": [
-    "pakistan-kp-governors-rule-follow-up",
-    "ronen-bar-sues-netanyahu-defamation-october-7",
-    "kenya-confirms-second-ebola-case"
+    "pakistan-joint-sitting-approves-kp-governors-rule",
+    "new-yalu-river-bridge-opens-china-north-korea",
+    "imf-gulf-economies-wont-return-to-pre-war-growth"
    ]
   },
   {
    "section": "science",
-   "lead": "ncpcr-summons-google-ai-kiss-hug-apps-child-safety-norms",
+   "lead": "punjab-farm-fires-season-worst-day-amritsar-tarn-taran",
    "list": [
-    "jio-platforms-ipo-price-band-biggest-india-listing",
-    "asml-raises-2026-sales-forecast-ai-chip-tool-demand",
-    "colossal-genomorph-ai-dodo-de-extinction"
+    "anthropic-opens-singapore-office-signs-government-mou",
+    "ncpcr-summons-google-ai-kiss-hug-apps-child-safety-norms",
+    "jio-platforms-ipo-price-band-biggest-india-listing"
    ]
   },
   {
    "section": "sports",
-   "lead": "ranji-trophy-round-one-final-day-results",
+   "lead": "india-west-indies-bengaluru-decider-arshdeep-doubt",
    "list": [
-    "satwik-chirag-crash-out-denmark-open-first-round",
-    "hockey-veterans-shocked-by-reported-retirement-plan",
-    "punjab-fc-beat-odisha-fc-stoppage-time-isl"
+    "real-madrid-comeback-roma-psg-win-at-manchester-city",
+    "vishvajit-more-u23-world-greco-roman-silver",
+    "south-africa-drop-stubbs-recall-breetzke-gqeberha-test"
    ]
   }
  ],
  "weekAhead": [
   {
-   "icon": "scales",
+   "icon": "rocket",
    "date": {
-    "en": "Today",
-    "hi": "आज"
+    "en": "Tonight",
+    "hi": "आज रात"
    },
    "text": {
-    "en": "Supreme Court hears the Delhi protest detention, contempt and journalists' pleas.",
-    "hi": "सुप्रीम कोर्ट में दिल्ली प्रदर्शन से जुड़ी हिरासत, अवमानना और पत्रकारों की याचिकाओं पर सुनवाई।"
+    "en": "SpaceX Dragon reaches the space station around 8:30 pm IST.",
+    "hi": "स्पेसएक्स ड्रैगन रात करीब 8:30 बजे अंतरिक्ष स्टेशन पहुंचेगा।"
    },
-   "link": "dmrc-apologises-supreme-court-ahead-of-delhi-protest-hearing"
+   "link": "spacex-crs-35-cargo-launch-iss-brain-organoids"
   },
   {
    "icon": "megaphone",
    "date": {
-    "en": "Today",
-    "hi": "आज"
+    "en": "Fri 16 Oct",
+    "hi": "शुक्र, 16 अक्टूबर"
    },
    "text": {
-    "en": "Punjab bandh from 6 am to 5 pm over the Mansa killing; Wipro and Tech Mahindra report results.",
-    "hi": "मानसा हत्याकांड पर सुबह 6 से शाम 5 बजे तक पंजाब बंद; विप्रो और टेक महिंद्रा के नतीजे।"
+    "en": "CJP calls a flag protest at Connaught Place; police say they will act.",
+    "hi": "सीजेपी का कनॉट प्लेस में तिरंगा प्रदर्शन; पुलिस ने कार्रवाई की बात कही।"
    },
-   "link": "mansa-jhota-accused-held-rajasthan-punjab-bandh-today"
+   "link": "delhi-police-tells-high-court-will-act-against-dipke-cp-protest"
   },
   {
    "icon": "bank",

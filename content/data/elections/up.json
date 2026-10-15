@@ -1,0 +1,3581 @@
+{
+ "meta": {
+  "state": "Uttar Pradesh",
+  "page": "Uttar Pradesh Assembly election 2027",
+  "compiled_on": "2026-10-15",
+  "notes": [
+   "This file holds everything except the council of ministers list, which is compiled separately. Only the Chief Minister is detailed here.",
+   "2022 party-wise votes and vote shares are from Wikipedia (which cites ECI). ECI results pages were not opened directly for this file.",
+   "Wikipedia pages and WebFetch were used only where a search surfaced them; several constituency pages could not be opened, so some by-election margins are missing and flagged.",
+   "Five assembly seats are vacant as of October 2026 because sitting MLAs died (Ghosi, Faridpur, Duddhi, Nizamabad, Rasara). No by-elections for them were found; with the term ending in 2027 the Election Commission appears to have let them lapse under Section 151A of the Representation of the People Act. This is an inference and is flagged."
+  ]
+ },
+ "election": {
+  "total_seats": 403,
+  "reserved_sc_seats": 84,
+  "reserved_sc_seats_unverified": true,
+  "reserved_sc_note": "84 is the figure under the 2008 delimitation as generally reported; a count of the (SC) entries on Wikipedia's assembly page gave about 80 and was not exact. Needs a check against the ECI constituency list.",
+  "reserved_st_seats": 2,
+  "reserved_st_note": "Obra and Duddhi (Sonbhadra district).",
+  "reserved_st_seats_unverified": true,
+  "majority_mark": 202,
+  "assembly": "18th Uttar Pradesh Vidhan Sabha",
+  "assembly_constituted": null,
+  "assembly_constituted_note": "Formal constitution notification date not found. Results were declared on March 10, 2022.",
+  "first_sitting_oath": "2022-03-29",
+  "first_sitting_unverified": true,
+  "first_sitting_note": "Wikipedia's UP Legislative Assembly page gives the current term as starting March 29, 2022, the day Satish Mahana was elected Speaker; MLAs' oath may have begun a day earlier. Wikipedia's 18th Assembly page separately says the term began May 23, 2022. Not reconciled.",
+  "term_end": "2027-05-22",
+  "term_end_unverified": true,
+  "term_end_note": "May 22, 2027, counting five years from the first session on May 23, 2022, the same way the previous Assembly's term ran to May 14, 2022. MLAs took oath on March 28-29, 2022. Not yet confirmed against ECI's term-of-houses list.",
+  "expected_election_window": "February to March 2027",
+  "expected_election_window_sources": [
+   {
+    "who": "UNI (June 16, 2026): polls 'currently scheduled for February 2027' and may be advanced by a month because census staff overlap",
+    "url": "https://test.uniindia.com/up-assembly-elections-may-be-held-early-due-to-census/north/news/3878044.html"
+   },
+   {
+    "who": "Swarajya (June 25, 2026): UP votes in February to March 2027",
+    "url": "https://swarajyamag.com/news-brief/bjp-announces-major-organisational-reshuffle-in-uttar-pradesh-ahead-of-2027-assembly-elections"
+   },
+   {
+    "who": "BOOM Elections tracker (October 2026): next UP assembly election listed as March 2027",
+    "url": "https://elections.boomlive.in/elections/upcoming"
+   },
+   {
+    "who": "Wikipedia: elections expected February to March 2027",
+    "url": "https://en.wikipedia.org/wiki/Next_Uttar_Pradesh_Legislative_Assembly_election"
+   }
+  ],
+  "schedule_announced": false,
+  "result_2022": {
+   "poll_dates": [
+    "2022-02-10",
+    "2022-02-14",
+    "2022-02-20",
+    "2022-02-23",
+    "2022-02-27",
+    "2022-03-03",
+    "2022-03-07"
+   ],
+   "phases": 7,
+   "results_date": "2022-03-10",
+   "turnout_pct": 61.03,
+   "turnout_sources": [
+    "https://en.wikipedia.org/wiki/2022_Uttar_Pradesh_Legislative_Assembly_election"
+   ],
+   "parties": [
+    {
+     "party": "BJP",
+     "contested": 376,
+     "seats": 255,
+     "votes": 38051721,
+     "vote_share_pct": 41.29
+    },
+    {
+     "party": "SP",
+     "contested": 347,
+     "seats": 111,
+     "votes": 29543934,
+     "vote_share_pct": 32.06
+    },
+    {
+     "party": "ADS",
+     "contested": 17,
+     "seats": 12,
+     "votes": 1493181,
+     "vote_share_pct": 1.62
+    },
+    {
+     "party": "RLD",
+     "contested": 33,
+     "seats": 8,
+     "votes": 2630168,
+     "vote_share_pct": 2.85
+    },
+    {
+     "party": "NISHAD",
+     "contested": 10,
+     "seats": 6,
+     "votes": 840584,
+     "vote_share_pct": 0.91,
+     "note": "NISHAD candidates contested partly on the BJP symbol; Wikipedia's count of NISHAD seats/votes may treat this differently from ECI."
+    },
+    {
+     "party": "SBSP",
+     "contested": 19,
+     "seats": 6,
+     "votes": 1252925,
+     "vote_share_pct": 1.36
+    },
+    {
+     "party": "INC",
+     "contested": 399,
+     "seats": 2,
+     "votes": 2151234,
+     "vote_share_pct": 2.33
+    },
+    {
+     "party": "JSDL",
+     "contested": 16,
+     "seats": 2,
+     "votes": 191874,
+     "vote_share_pct": 0.21
+    },
+    {
+     "party": "BSP",
+     "contested": 403,
+     "seats": 1,
+     "votes": 11873137,
+     "vote_share_pct": 12.88
+    },
+    {
+     "party": "ADK",
+     "contested": 6,
+     "seats": 1,
+     "votes": 258103,
+     "vote_share_pct": 0.28,
+     "note": "Wikipedia lists Apna Dal (Kamerawadi) with 1 seat, but PRS's party list (and the 403 total of the other parties) does not include it: BJP 255 + SP 111 + ADS 12 + RLD 8 + NISHAD 6 + SBSP 6 + INC 2 + JSDL 2 + BSP 1 = 403. The ADK winner (Pallavi Patel, Sirathu) contested on the SP symbol and ECI counts her as SP. Do not add ADK to seat totals.",
+     "counted_in_SP_by_ECI": true,
+     "unverified": true
+    },
+    {
+     "party": "AAP",
+     "contested": 349,
+     "seats": 0,
+     "votes": 347187,
+     "vote_share_pct": 0.38
+    },
+    {
+     "party": "AIMIM",
+     "contested": 94,
+     "seats": 0,
+     "votes": 450929,
+     "vote_share_pct": 0.49
+    }
+   ],
+   "alliance_totals": {
+    "NDA": {
+     "members": [
+      "BJP",
+      "ADS",
+      "NISHAD"
+     ],
+     "seats": 273,
+     "vote_share_pct": 43.82
+    },
+    "SP_alliance": {
+     "members": [
+      "SP",
+      "RLD",
+      "SBSP",
+      "ADK",
+      "NCP"
+     ],
+     "seats": 125,
+     "vote_share_pct": 36.6
+    }
+   },
+   "nota": {
+    "votes": 637313,
+    "vote_share_pct": 0.69
+   },
+   "sources": {
+    "seats": [
+     "https://prsindia.org/files/policy/policy_vital_state/Profile_18th_UP_Assembly.pdf",
+     "https://en.wikipedia.org/wiki/2022_Uttar_Pradesh_Legislative_Assembly_election"
+    ],
+    "votes_and_vote_share": [
+     "https://en.wikipedia.org/wiki/2022_Uttar_Pradesh_Legislative_Assembly_election"
+    ]
+   },
+   "vote_share_note": "Votes and vote shares are from Wikipedia, which cites ECI; not checked against ECI's own statistical report. Seat counts match PRS's profile of the 18th Assembly."
+  },
+  "current_house_position": {
+   "as_of": "2026-10",
+   "unverified": true,
+   "by_party_label": {
+    "BJP": 257,
+    "SP": 104,
+    "ADS": 13,
+    "RLD": 9,
+    "SBSP": 6,
+    "NISHAD": 5,
+    "INC": 2,
+    "JSDL": 2,
+    "BSP": 0,
+    "Vacant": 5
+   },
+   "effective": {
+    "BJP": 257,
+    "SP": 100,
+    "SP_expelled_backing_NDA": 4,
+    "ADS": 13,
+    "RLD": 9,
+    "SBSP": 6,
+    "NISHAD": 5,
+    "INC": 2,
+    "JSDL": 2,
+    "BSP": 0,
+    "Vacant": 5
+   },
+   "alliance_view": {
+    "NDA_including_SP_expelled": 294,
+    "SP_and_INC": 102,
+    "JSDL": 2,
+    "Vacant": 5
+   },
+   "explanation": "Start from 2022 (BJP 255, SP 111, ADS 12, RLD 8, NISHAD 6, SBSP 6, INC 2, JSDL 2, BSP 1). By-elections moved Rampur, Kundarki, Katehari and Milkipur from SP to BJP, Majhawan from NISHAD to BJP, Khatauli from BJP to RLD, Suar from SP to ADS, and Duddhi from BJP to SP. Deaths have left five seats vacant: Faridpur (BJP), Ghosi, Duddhi and Nizamabad (SP) and Rasara (BSP's only seat). That gives BJP 257 and SP 104 by the label they were elected on. Of the 104, four have been expelled by SP and back the NDA (Manoj Kumar Pandey, now a BJP minister; Rakesh Pratap Singh; Abhay Singh; Pooja Pal), leaving 100 effective SP MLAs. Two more (Vinod Chaturvedi, Rakesh Pandey) are listed as rebels but not expelled. Total 398 sitting plus 5 vacant = 403. This matches Wikipedia's 18th Assembly table (BJP 257, SP 100, 4 SP rebels with NDA, 5 vacant). Wikipedia's 2027 election page gives slightly different figures (BJP 258, SP 101) and was not followed.",
+   "by_elections": [
+    {
+     "poll_date": "2022-11-03",
+     "result_date": null,
+     "seat": "Gola Gokarannath",
+     "winner": "Aman Giri",
+     "party": "BJP",
+     "vacated_by": "Arvind Giri (BJP, died September 6, 2022)",
+     "reason": "death",
+     "margin_votes": null,
+     "margin_unverified": true,
+     "sources": [
+      "https://en.wikipedia.org/wiki/List_of_by-elections_to_the_Uttar_Pradesh_Legislative_Assembly",
+      "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly"
+     ],
+     "date": "2022-11-03"
+    },
+    {
+     "poll_date": "2022-12-05",
+     "result_date": "2022-12-08",
+     "seat": "Rampur",
+     "winner": "Akash Saxena",
+     "party": "BJP",
+     "vacated_by": "Azam Khan (SP, disqualified October 28, 2022 after conviction in a hate speech case)",
+     "reason": "disqualification",
+     "margin_votes": null,
+     "margin_unverified": true,
+     "note": "First BJP win in Rampur; long an Azam Khan stronghold.",
+     "sources": [
+      "https://en.wikipedia.org/wiki/List_of_by-elections_to_the_Uttar_Pradesh_Legislative_Assembly",
+      "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly"
+     ],
+     "date": "2022-12-05"
+    },
+    {
+     "poll_date": "2022-12-05",
+     "result_date": "2022-12-08",
+     "seat": "Khatauli",
+     "winner": "Madan Bhaiya (Madan Kasana)",
+     "party": "RLD",
+     "vacated_by": "Vikram Singh Saini (BJP, disqualified November 7, 2022 after conviction in a Muzaffarnagar riots case)",
+     "reason": "disqualification",
+     "margin_votes": null,
+     "margin_unverified": true,
+     "sources": [
+      "https://en.wikipedia.org/wiki/List_of_by-elections_to_the_Uttar_Pradesh_Legislative_Assembly",
+      "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly"
+     ],
+     "date": "2022-12-05"
+    },
+    {
+     "poll_date": "2023-05-10",
+     "result_date": "2023-05-13",
+     "seat": "Suar",
+     "winner": "Shafeek Ahmed Ansari",
+     "party": "ADS",
+     "vacated_by": "Abdullah Azam Khan (SP, disqualified February 15, 2023 after conviction)",
+     "reason": "disqualification",
+     "margin_votes": null,
+     "margin_unverified": true,
+     "result_date_unverified": true,
+     "sources": [
+      "https://en.wikipedia.org/wiki/List_of_by-elections_to_the_Uttar_Pradesh_Legislative_Assembly",
+      "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly"
+     ],
+     "date": "2023-05-10"
+    },
+    {
+     "poll_date": "2023-05-10",
+     "result_date": "2023-05-13",
+     "seat": "Chhanbey (SC)",
+     "winner": "Rinki Kol",
+     "party": "ADS",
+     "vacated_by": "Rahul Prakash Kol (ADS, died February 2, 2023)",
+     "reason": "death",
+     "margin_votes": null,
+     "margin_unverified": true,
+     "result_date_unverified": true,
+     "sources": [
+      "https://en.wikipedia.org/wiki/List_of_by-elections_to_the_Uttar_Pradesh_Legislative_Assembly",
+      "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly"
+     ],
+     "date": "2023-05-10"
+    },
+    {
+     "poll_date": "2023-09-05",
+     "result_date": "2023-09-08",
+     "seat": "Ghosi",
+     "winner": "Sudhakar Singh",
+     "party": "SP",
+     "vacated_by": "Dara Singh Chauhan (SP, resigned July 15, 2023 and joined BJP)",
+     "reason": "resignation",
+     "winner_votes": 124427,
+     "runner_up": {
+      "name": "Dara Singh Chauhan",
+      "party": "BJP",
+      "votes": 81668
+     },
+     "margin_votes": 42759,
+     "note": "Sudhakar Singh died on November 20, 2025; the seat is vacant.",
+     "sources": [
+      "https://en.wikipedia.org/wiki/List_of_by-elections_to_the_Uttar_Pradesh_Legislative_Assembly",
+      "https://en.wikipedia.org/wiki/Ghosi,_Uttar_Pradesh_Assembly_constituency",
+      "https://www.aajtak.in/uttar-pradesh/story/ghosi-bypoll-results-samajwadi-party-sudhakar-singh-bjp-dara-singh-chouhan-pda-ntc-bikt-1775024-2023-09-08"
+     ],
+     "date": "2023-09-05"
+    },
+    {
+     "poll_date": "2024-05-13",
+     "result_date": "2024-06-04",
+     "seat": "Dadraul",
+     "winner": "Arvind Kumar Singh",
+     "party": "BJP",
+     "vacated_by": "Manvendra Singh (BJP, died January 5, 2024)",
+     "reason": "death",
+     "winner_votes": 105972,
+     "runner_up": {
+      "name": "Avadhesh Kumar Verma",
+      "party": "SP",
+      "votes": 89177
+     },
+     "margin_votes": 16795,
+     "sources": [
+      "https://en.wikipedia.org/wiki/2024_Uttar_Pradesh_Legislative_Assembly_by-elections"
+     ],
+     "date": "2024-05-13"
+    },
+    {
+     "poll_date": "2024-05-20",
+     "result_date": "2024-06-04",
+     "seat": "Lucknow East",
+     "winner": "O. P. Srivastava",
+     "party": "BJP",
+     "vacated_by": "Ashutosh Tandon (BJP, died November 9, 2023)",
+     "reason": "death",
+     "winner_votes": 142948,
+     "runner_up": {
+      "name": "Mukesh Chauhan",
+      "party": "INC",
+      "votes": 89061
+     },
+     "margin_votes": 53887,
+     "sources": [
+      "https://en.wikipedia.org/wiki/2024_Uttar_Pradesh_Legislative_Assembly_by-elections"
+     ],
+     "date": "2024-05-20"
+    },
+    {
+     "poll_date": "2024-05-25",
+     "result_date": "2024-06-04",
+     "seat": "Gainsari",
+     "winner": "Rakesh Kumar Yadav",
+     "party": "SP",
+     "vacated_by": "Shiv Pratap Yadav (SP, died January 2024)",
+     "reason": "death",
+     "winner_votes": 87120,
+     "runner_up": {
+      "name": "Shailesh Kumar Singh",
+      "party": "BJP",
+      "votes": 77683
+     },
+     "margin_votes": 9437,
+     "note": "Wikipedia gives the death date as January 26 on one page and January 28 on another.",
+     "sources": [
+      "https://en.wikipedia.org/wiki/2024_Uttar_Pradesh_Legislative_Assembly_by-elections",
+      "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly"
+     ],
+     "date": "2024-05-25"
+    },
+    {
+     "poll_date": "2024-06-01",
+     "result_date": "2024-06-04",
+     "seat": "Duddhi (ST)",
+     "winner": "Vijay Singh Gond",
+     "party": "SP",
+     "vacated_by": "Ramdular Gaur (BJP, disqualified December 15, 2023 after conviction)",
+     "reason": "disqualification",
+     "winner_votes": 82787,
+     "runner_up": {
+      "name": "Saravan Kumar",
+      "party": "BJP",
+      "votes": 79579
+     },
+     "margin_votes": 3208,
+     "note": "Vijay Singh Gond died on January 8, 2026; the seat is vacant.",
+     "sources": [
+      "https://en.wikipedia.org/wiki/2024_Uttar_Pradesh_Legislative_Assembly_by-elections",
+      "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly"
+     ],
+     "date": "2024-06-01"
+    },
+    {
+     "poll_date": "2024-11-20",
+     "result_date": "2024-11-23",
+     "seat": "Meerapur",
+     "winner": "Mithlesh Pal",
+     "party": "RLD",
+     "vacated_by": "Chandan Chauhan (RLD, elected to Lok Sabha from Bijnor)",
+     "reason": "elected to Lok Sabha",
+     "winner_votes": 84304,
+     "runner_up": {
+      "name": "Sumbul Rana",
+      "party": "SP",
+      "votes": 53508
+     },
+     "margin_votes": 30796,
+     "sources": [
+      "https://en.wikipedia.org/wiki/2024_Uttar_Pradesh_Legislative_Assembly_by-elections"
+     ],
+     "date": "2024-11-20"
+    },
+    {
+     "poll_date": "2024-11-20",
+     "result_date": "2024-11-23",
+     "seat": "Kundarki",
+     "winner": "Ramveer Singh",
+     "party": "BJP",
+     "vacated_by": "Ziaur Rahman Barq (SP, elected to Lok Sabha)",
+     "reason": "elected to Lok Sabha",
+     "winner_votes": 170371,
+     "runner_up": {
+      "name": "Mohammad Rizwan",
+      "party": "SP",
+      "votes": 25580
+     },
+     "margin_votes": 144791,
+     "sources": [
+      "https://en.wikipedia.org/wiki/2024_Uttar_Pradesh_Legislative_Assembly_by-elections"
+     ],
+     "date": "2024-11-20"
+    },
+    {
+     "poll_date": "2024-11-20",
+     "result_date": "2024-11-23",
+     "seat": "Ghaziabad",
+     "winner": "Sanjeev Sharma",
+     "party": "BJP",
+     "vacated_by": "Atul Garg (BJP, elected to Lok Sabha)",
+     "reason": "elected to Lok Sabha",
+     "winner_votes": 96946,
+     "runner_up": {
+      "name": "Singh Raj Jatav",
+      "party": "SP",
+      "votes": 27595
+     },
+     "margin_votes": 69351,
+     "margin_note": "Computed from the vote counts; Wikipedia's margin cell wrongly repeats the winner's vote total.",
+     "sources": [
+      "https://en.wikipedia.org/wiki/2024_Uttar_Pradesh_Legislative_Assembly_by-elections"
+     ],
+     "date": "2024-11-20"
+    },
+    {
+     "poll_date": "2024-11-20",
+     "result_date": "2024-11-23",
+     "seat": "Khair (SC)",
+     "winner": "Surender Diler",
+     "party": "BJP",
+     "vacated_by": "Anoop Pradhan Valmiki (BJP, elected to Lok Sabha from Hathras)",
+     "reason": "elected to Lok Sabha",
+     "winner_votes": 100181,
+     "runner_up": {
+      "name": "Charu Kain",
+      "party": "SP",
+      "votes": 61788
+     },
+     "margin_votes": 38393,
+     "note": "Surender Diler became a Minister of State on May 10, 2026.",
+     "sources": [
+      "https://en.wikipedia.org/wiki/2024_Uttar_Pradesh_Legislative_Assembly_by-elections",
+      "https://newsonair.gov.in/up-cabinet-expansion-six-bjp-leaders-take-oath-as-ministers/"
+     ],
+     "date": "2024-11-20"
+    },
+    {
+     "poll_date": "2024-11-20",
+     "result_date": "2024-11-23",
+     "seat": "Karhal",
+     "winner": "Tej Pratap Singh Yadav",
+     "party": "SP",
+     "vacated_by": "Akhilesh Yadav (SP, resigned after election to Lok Sabha from Kannauj)",
+     "reason": "elected to Lok Sabha",
+     "winner_votes": 104304,
+     "runner_up": {
+      "name": "Anujesh Pratap Singh",
+      "party": "BJP",
+      "votes": 89503
+     },
+     "margin_votes": 14801,
+     "sources": [
+      "https://en.wikipedia.org/wiki/2024_Uttar_Pradesh_Legislative_Assembly_by-elections",
+      "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly"
+     ],
+     "date": "2024-11-20"
+    },
+    {
+     "poll_date": "2024-11-20",
+     "result_date": "2024-11-23",
+     "seat": "Sishamau",
+     "winner": "Naseem Solanki",
+     "party": "SP",
+     "vacated_by": "Haji Irfan Solanki (SP, disqualified June 7, 2024 after conviction)",
+     "reason": "disqualification",
+     "winner_votes": 69714,
+     "runner_up": {
+      "name": "Suresh Awasthi",
+      "party": "BJP",
+      "votes": 61150
+     },
+     "margin_votes": 8564,
+     "sources": [
+      "https://en.wikipedia.org/wiki/2024_Uttar_Pradesh_Legislative_Assembly_by-elections"
+     ],
+     "date": "2024-11-20"
+    },
+    {
+     "poll_date": "2024-11-20",
+     "result_date": "2024-11-23",
+     "seat": "Phulpur",
+     "winner": "Deepak Patel",
+     "party": "BJP",
+     "vacated_by": "Praveen Patel (BJP, elected to Lok Sabha)",
+     "reason": "elected to Lok Sabha",
+     "winner_votes": 78289,
+     "runner_up": {
+      "name": "Mohammad Mujtaba Siddiqui",
+      "party": "SP",
+      "votes": 66984
+     },
+     "margin_votes": 11305,
+     "sources": [
+      "https://en.wikipedia.org/wiki/2024_Uttar_Pradesh_Legislative_Assembly_by-elections"
+     ],
+     "date": "2024-11-20"
+    },
+    {
+     "poll_date": "2024-11-20",
+     "result_date": "2024-11-23",
+     "seat": "Katehari",
+     "winner": "Dharmraj Nishad",
+     "party": "BJP",
+     "vacated_by": "Lalji Verma (SP, elected to Lok Sabha)",
+     "reason": "elected to Lok Sabha",
+     "winner_votes": 104091,
+     "runner_up": {
+      "name": "Shobhawati Verma",
+      "party": "SP",
+      "votes": 69577
+     },
+     "margin_votes": 34514,
+     "sources": [
+      "https://en.wikipedia.org/wiki/2024_Uttar_Pradesh_Legislative_Assembly_by-elections"
+     ],
+     "date": "2024-11-20"
+    },
+    {
+     "poll_date": "2024-11-20",
+     "result_date": "2024-11-23",
+     "seat": "Majhawan",
+     "winner": "Suchismita Maurya",
+     "party": "BJP",
+     "vacated_by": "Vinod Kumar Bind (NISHAD, elected to Lok Sabha)",
+     "reason": "elected to Lok Sabha",
+     "winner_votes": 77737,
+     "runner_up": {
+      "name": "Jyoti Bind",
+      "party": "SP",
+      "votes": 72815
+     },
+     "margin_votes": 4922,
+     "sources": [
+      "https://en.wikipedia.org/wiki/2024_Uttar_Pradesh_Legislative_Assembly_by-elections"
+     ],
+     "date": "2024-11-20"
+    },
+    {
+     "poll_date": "2025-02-05",
+     "result_date": "2025-02-08",
+     "seat": "Milkipur (SC)",
+     "winner": "Chandrabhanu Paswan",
+     "party": "BJP",
+     "vacated_by": "Awadhesh Prasad (SP, resigned June 2024 after election to Lok Sabha from Faizabad)",
+     "reason": "elected to Lok Sabha",
+     "margin_votes": null,
+     "margin_unverified": true,
+     "note": "Held separately from the November 2024 round because of a pending election petition.",
+     "note_unverified": true,
+     "sources": [
+      "https://en.wikipedia.org/wiki/List_of_by-elections_to_the_Uttar_Pradesh_Legislative_Assembly",
+      "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly"
+     ],
+     "date": "2025-02-05"
+    }
+   ],
+   "vacancies": [
+    {
+     "seat": "Ghosi",
+     "vacant_since": "2025-11-20",
+     "previous": "Sudhakar Singh (SP)",
+     "reason": "died",
+     "sources": [
+      "https://en.wikipedia.org/wiki/Ghosi,_Uttar_Pradesh_Assembly_constituency",
+      "https://www.patrika.com/mau-news/ghosi-mla-sudhakar-singh-dies-in-medanta-hospital-lucknow-sudhakar-singh-funeral-20116284"
+     ]
+    },
+    {
+     "seat": "Faridpur (SC)",
+     "vacant_since": "2026-01-02",
+     "previous": "Shyam Bihari Lal (BJP)",
+     "reason": "died",
+     "sources": [
+      "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly"
+     ],
+     "unverified": true
+    },
+    {
+     "seat": "Duddhi (ST)",
+     "vacant_since": "2026-01-08",
+     "previous": "Vijay Singh Gond (SP)",
+     "reason": "died",
+     "sources": [
+      "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly"
+     ],
+     "unverified": true
+    },
+    {
+     "seat": "Nizamabad",
+     "vacant_since": "2026-07-22",
+     "previous": "Alambadi (SP)",
+     "reason": "died",
+     "sources": [
+      "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly"
+     ],
+     "unverified": true
+    },
+    {
+     "seat": "Rasara",
+     "vacant_since": "2026-08-05",
+     "previous": "Umashankar Singh (BSP, the party's only MLA)",
+     "reason": "died after a long illness",
+     "sources": [
+      "https://www.amarujala.com/uttar-pradesh/varanasi/umashankar-singh-passes-away-bsp-mla-ballia-rasra-constituency-mourning-in-political-circles-2026-08-05",
+      "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly"
+     ]
+    }
+   ],
+   "vacancies_note": "No by-election was found for any of the five vacancies. Ghosi fell vacant on November 20, 2025 with about 16 months of term left, but a by-poll within six months would have left under a year; ECI appears to have used Section 151A to skip it (the Supreme Court reserved judgment on this exact question in another case on October 10, 2026). Inference, not confirmed by an ECI notice.",
+   "vacancies_unverified": true,
+   "vacancies_sources": [
+    "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly",
+    "https://www.livelaw.in/top-stories/when-can-eci-choose-not-to-hold-bye-election-supreme-court-reserves-judgment-on-interpretation-of-s151a-rp-act-553942"
+   ],
+   "other_changes": [
+    {
+     "date": "2025-05-31",
+     "seat": "Mau",
+     "member": "Abbas Ansari (SBSP)",
+     "event": "Convicted (two-year sentence) by MP-MLA court; membership revoked and seat declared vacant. Allahabad High Court stayed the conviction and the Assembly secretariat restored his membership around September 8, 2025, so no by-election was held.",
+     "sources": [
+      "https://www.dailypioneer.com/2025/india/up-assembly-disqualifies-abbas-ansari-after-hate-speech-conviction--mau-seat-declared-vacant.html",
+      "https://www.deccanherald.com/amp/story/india%2Futtar-pradesh%2Fabbas-ansaris-up-assembly-membership-restored-after-allahabad-hc-stays-conviction-3718098"
+     ]
+    },
+    {
+     "date": "2025-06-23",
+     "seat": "Unchahar, Gauriganj, Goshainganj",
+     "member": "Manoj Kumar Pandey, Rakesh Pratap Singh, Abhay Singh (SP)",
+     "event": "Expelled by SP for cross-voting in the February 2024 Rajya Sabha election and backing BJP. Manoj Kumar Pandey became a Cabinet Minister on May 10, 2026.",
+     "sources": [
+      "https://scroll.in/latest/1083768/samajwadi-party-expels-3-up-mlas-who-cross-voted-in-2024-rajya-sabha-polls",
+      "https://newsonair.gov.in/up-cabinet-expansion-six-bjp-leaders-take-oath-as-ministers/"
+     ]
+    },
+    {
+     "date": "2025-08-14",
+     "seat": "Chail",
+     "member": "Pooja Pal (SP)",
+     "event": "Expelled by SP hours after praising CM Yogi Adityanath in the Assembly. Named one of 19 UP BJP vice-presidents on June 25, 2026.",
+     "sources": [
+      "https://www.theweek.in/wire-updates/national/2025/08/14/des65-up-sp-mla-2ndld-expulsion.html",
+      "https://swarajyamag.com/news-brief/bjp-announces-major-organisational-reshuffle-in-uttar-pradesh-ahead-of-2027-assembly-elections"
+     ]
+    },
+    {
+     "date": null,
+     "seat": "Kalpi, Jalalpur",
+     "member": "Vinod Chaturvedi, Rakesh Pandey (SP)",
+     "event": "Listed as SP rebels by Wikipedia (among the seven SP MLAs who cross-voted in February 2024) but not reported expelled.",
+     "unverified": true,
+     "sources": [
+      "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly"
+     ]
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly",
+    "https://en.wikipedia.org/wiki/List_of_by-elections_to_the_Uttar_Pradesh_Legislative_Assembly",
+    "https://en.wikipedia.org/wiki/2024_Uttar_Pradesh_Legislative_Assembly_by-elections",
+    "https://en.wikipedia.org/wiki/Next_Uttar_Pradesh_Legislative_Assembly_election"
+   ]
+  },
+  "alliances_2027": {
+   "unverified": true,
+   "notes": [
+    "NDA: BJP with Apna Dal (Soneylal), NISHAD Party, RLD and SBSP. RLD joined the NDA and the state government in March 2024; SBSP also got a cabinet berth then.",
+    "SP and Congress say their INDIA bloc alliance holds for 2027 but seat-sharing is unresolved. Congress has asked for about 150 seats; an SP MP said 50 (October 3, 2026). Talks were expected to start later in October 2026. Akhilesh Yadav says winnability will decide seats.",
+    "BSP will contest alone: state president Vishwanath Pal said the party's alliance is 'with the people' (July 30, 2026).",
+    "Aazad Samaj Party (Kanshi Ram) of Chandrashekhar Azad has announced candidates for 45 seats, per Wikipedia (Amar Ujala, July 31, 2026). AAP and Jansatta Dal (Loktantrik) also plan to contest."
+   ],
+   "sources": [
+    "https://telanganatoday.com/up-polls-2027-sp-mp-rejects-congress-150-seat-demand-backs-50",
+    "https://www.outlookindia.com/elections/congress-new-up-team-monas-sp-link-masoods-rise-and-the-2027-alliance-test",
+    "https://www.deccanherald.com/india/uttar-pradesh/akhilesh-yadav-hints-at-alliance-with-congress-in-2027-uttar-pradesh-assembly-elections-4008808",
+    "https://www.patrika.com/lucknow-news/bsp-strategy-up-election-2027-akash-anand-mayawati-vishwanath-pal-20791248",
+    "https://www.business-standard.com/politics/up-cabinet-expansion-nda-partners-with-sbsp-rld-gets-representation-124030501065_1.html",
+    "https://en.wikipedia.org/wiki/Next_Uttar_Pradesh_Legislative_Assembly_election"
+   ]
+  },
+  "sources": [
+   "https://prsindia.org/files/policy/policy_vital_state/Profile_18th_UP_Assembly.pdf",
+   "https://en.wikipedia.org/wiki/2022_Uttar_Pradesh_Legislative_Assembly_election",
+   "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly",
+   "https://en.wikipedia.org/wiki/Next_Uttar_Pradesh_Legislative_Assembly_election"
+  ]
+ },
+ "government": {
+  "chief_minister": {
+   "name": "Yogi Adityanath",
+   "hindi_name": "योगी आदित्यनाथ",
+   "names_unverified": false,
+   "party": "BJP",
+   "sworn_in": "2022-03-25",
+   "sworn_in_place": "BRSABV Ekana International Cricket Stadium, Lucknow",
+   "first_sworn_in": "2017-03-19",
+   "first_sworn_in_unverified": true,
+   "first_sworn_in_note": "March 19, 2017 is the widely reported date of his first oath; not rechecked against a source for this file.",
+   "term_note": "Second consecutive term; seeking a third in 2027.",
+   "portfolios": [
+    "Home",
+    "Appointment and Personnel",
+    "General Administration",
+    "Cabinet Affairs",
+    "Information and Public Relations",
+    "Housing",
+    "Revenue",
+    "Mining and Geology",
+    "Institutional Finance",
+    "Planning",
+    "Programme Implementation",
+    "Relief and Rehabilitation",
+    "Protocol",
+    "Sainik Welfare",
+    "Prantiya Raksha Dal",
+    "Civil Aviation",
+    "Law",
+    "Food Security and Drug Administration",
+    "other departments not allotted to any minister"
+   ],
+   "portfolios_unverified": true,
+   "portfolios_note": "From Wikipedia's Second Yogi Adityanath ministry page. Revenue appears here although Anoop Pradhan Valmiki held Revenue (as MoS) until June 2024; may not reflect the May 2026 reshuffle.",
+   "house": "Legislative Assembly",
+   "constituency": "Gorakhpur Urban",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 322,
+    "constituency": "Gorakhpur Urban",
+    "votes": 165499,
+    "vote_share_pct": 66.18,
+    "runner_up": {
+     "name": "Subhawati Shukla",
+     "party": "SP",
+     "votes": 62109,
+     "vote_share_pct": 24.84
+    },
+    "margin_votes": 103390,
+    "turnout_pct": 53.8,
+    "provisional_eci_counts": true,
+    "note": "First assembly election he contested; he was an MLC during his first term. Chandrashekhar Azad (ASP(KR)) got 7,640 votes. Runner-up's name is spelt Subhavati/Sabhawati on Wikipedia.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Gorakhpur_Urban_Assembly_constituency"
+    ]
+   },
+   "photo": null,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://en.wikipedia.org/wiki/Gorakhpur_Urban_Assembly_constituency",
+    "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly"
+   ]
+  },
+  "governor": {
+   "name": "Anandiben Patel",
+   "hindi_name": "आनंदीबेन पटेल",
+   "since": "2019-07-29",
+   "sources": [
+    "https://www.patrika.com/lucknow-news/anandiben-patel-broke-record-of-remaining-governor-in-up-for-longest-period-19311108",
+    "https://newsonair.gov.in/up-cabinet-expansion-six-bjp-leaders-take-oath-as-ministers/",
+    "https://upvetuniv.edu.in/942-2/"
+   ],
+   "note": "Her five-year term ended July 29, 2024 but she continues until a successor is appointed. She administered oath to new ministers on May 10, 2026 and is listed as Chancellor at Raj Bhavan, Lucknow on a state university page seen in August 2026. Longest-serving UP Governor. No successor found as of October 15, 2026.",
+   "unverified": false
+  },
+  "speaker": {
+   "name": "Satish Mahana",
+   "hindi_name": "सतीश महाना",
+   "party": "BJP",
+   "constituency": "Maharajpur",
+   "since": "2022-03-29",
+   "sources": [
+    "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly",
+    "https://en.wikipedia.org/wiki/Uttar_Pradesh_Legislative_Assembly"
+   ]
+  },
+  "deputy_speaker": {
+   "name": null,
+   "note": "Vacant through the 18th Assembly, per Wikipedia.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly"
+   ],
+   "unverified": true
+  },
+  "leader_of_opposition": {
+   "name": "Mata Prasad Pandey",
+   "hindi_name": "माता प्रसाद पांडेय",
+   "party": "SP",
+   "constituency": "Itwa",
+   "since": "2024-07-28",
+   "predecessor": "Akhilesh Yadav (SP), LoP from March 2022 until he resigned his Karhal seat in June 2024 after winning Kannauj Lok Sabha seat",
+   "sources": [
+    "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly",
+    "https://en.wikipedia.org/wiki/Uttar_Pradesh_Legislative_Assembly",
+    "https://news.webindia123.com/news/Articles/India/20260804/4483023.html",
+    "https://dailypioneer.com/news/up-assembly-monsoon-session-opposition-to-raise-alleged-ram-temple-donation-irregularities"
+   ],
+   "note": "Named as LoP in reports of the August 3 to 6, 2026 Monsoon Session."
+  },
+  "congress_legislature_party_leader": {
+   "name": "Aradhana Misra 'Mona'",
+   "hindi_name": "आराधना मिश्रा 'मोना'",
+   "constituency": "Rampur Khas",
+   "sources": [
+    "https://dailypioneer.com/news/up-assembly-monsoon-session-opposition-to-raise-alleged-ram-temple-donation-irregularities",
+    "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly"
+   ],
+   "note": "Also named UP Congress president in October 2026.",
+   "constituency_unverified": true
+  },
+  "cabinet_size_note": "Council of ministers at 60 including the CM after the May 10, 2026 expansion (six new ministers, two promotions), the constitutional ceiling of 15% of 403. Swarajya reported the total as 54, which does not fit Wikipedia's figures (53 sworn in 2022, plus 4 in March 2024, plus 6 in May 2026, minus 3 departures = 60).",
+  "cabinet_size_unverified": true,
+  "cabinet_size_sources": [
+   "https://newsonair.gov.in/up-cabinet-expansion-six-bjp-leaders-take-oath-as-ministers/",
+   "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+   "https://swarajyamag.com/news-brief/bjp-announces-major-organisational-reshuffle-in-uttar-pradesh-ahead-of-2027-assembly-elections"
+  ]
+ },
+ "former_ministers": [
+  {
+   "name": "Bhupendra Chaudhary",
+   "hindi_name": "भूपेंद्र चौधरी",
+   "role": "Cabinet Minister (Panchayati Raj)",
+   "party": "BJP",
+   "left": "2022-08-30",
+   "reason": "Left the ministry after being made UP BJP state president in August 2022; the CM took over Panchayati Raj. Returned as a Cabinet Minister on May 10, 2026, so he is a current minister again.",
+   "reason_unverified": true,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://newsonair.gov.in/up-cabinet-expansion-six-bjp-leaders-take-oath-as-ministers/"
+   ]
+  },
+  {
+   "name": "Jitin Prasada",
+   "hindi_name": "जितिन प्रसाद",
+   "role": "Cabinet Minister (Public Works)",
+   "party": "BJP",
+   "left": "2024-06-11",
+   "reason": "Elected to Lok Sabha from Pilibhit in 2024; became Union Minister of State.",
+   "reason_unverified": true,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry"
+   ]
+  },
+  {
+   "name": "Anoop Pradhan Valmiki",
+   "hindi_name": "अनूप प्रधान वाल्मीकि",
+   "role": "Minister of State (Revenue)",
+   "party": "BJP",
+   "left": "2024-06-11",
+   "reason": "Elected to Lok Sabha from Hathras in 2024; his Khair assembly seat went to a by-election in November 2024.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://en.wikipedia.org/wiki/2024_Uttar_Pradesh_Legislative_Assembly_by-elections"
+   ]
+  }
+ ],
+ "former_ministers_note": "Wikipedia lists Dharmpal Singh, Dharmveer Prajapati and Yogendra Upadhyaya against March 5, 2024, but those were portfolio changes; they remained ministers. Dinesh Khatik's 2022 resignation letter was reported but he stayed in office (not rechecked). No minister death, sacking or drop in the May 2026 expansion was found. The ministers list compiled separately should be checked against this.",
+ "former_ministers_unverified": true,
+ "parties": [
+  {
+   "id": "BJP",
+   "name": "Bharatiya Janata Party",
+   "hindi_name": "भारतीय जनता पार्टी",
+   "status": "National party",
+   "symbol": "Lotus",
+   "symbol_hindi": "कमल",
+   "symbol_image": null,
+   "sources": [
+    "https://ceodelhinet.nic.in/eLearningv2/admin/HindiPDF/Parties_Symbols_Conditions.pdf"
+   ]
+  },
+  {
+   "id": "SP",
+   "name": "Samajwadi Party",
+   "hindi_name": "समाजवादी पार्टी",
+   "status": "State party (Uttar Pradesh)",
+   "symbol": "Bicycle",
+   "symbol_hindi": "साइकिल",
+   "symbol_image": null,
+   "unverified": true,
+   "note": "Symbol widely known; no ECI document opened for this file."
+  },
+  {
+   "id": "BSP",
+   "name": "Bahujan Samaj Party",
+   "hindi_name": "बहुजन समाज पार्टी",
+   "status": "National party",
+   "symbol": "Elephant",
+   "symbol_hindi": "हाथी",
+   "symbol_image": null,
+   "sources": [
+    "https://ceodelhinet.nic.in/eLearningv2/admin/HindiPDF/Parties_Symbols_Conditions.pdf"
+   ],
+   "note": "Elephant symbol is not available to BSP in Assam and Sikkim; applies in UP."
+  },
+  {
+   "id": "INC",
+   "name": "Indian National Congress",
+   "hindi_name": "भारतीय राष्ट्रीय कांग्रेस",
+   "status": "National party",
+   "symbol": "Hand",
+   "symbol_hindi": "हाथ",
+   "symbol_image": {
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Indian_National_Congress_hand_logo.svg",
+    "licence": null,
+    "author": null,
+    "unverified": true
+   },
+   "sources": [
+    "https://ceodelhinet.nic.in/eLearningv2/admin/HindiPDF/Parties_Symbols_Conditions.pdf"
+   ]
+  },
+  {
+   "id": "RLD",
+   "name": "Rashtriya Lok Dal",
+   "hindi_name": "राष्ट्रीय लोक दल",
+   "status": "Registered party; lost UP state-party recognition in 2023 per Sakshi Post, though it has 9 MLAs and ECI may have restored it since",
+   "status_unverified": true,
+   "symbol": "Hand pump",
+   "symbol_hindi": "हैंडपंप",
+   "symbol_image": null,
+   "sources": [
+    "https://www.sakshipost.com/news/rld-holding-handpump-symbol-key-its-survival-180564"
+   ]
+  },
+  {
+   "id": "ADS",
+   "name": "Apna Dal (Soneylal)",
+   "hindi_name": "अपना दल (सोनेलाल)",
+   "status": "State party (Uttar Pradesh)",
+   "status_unverified": true,
+   "symbol": "Cup and saucer",
+   "symbol_hindi": "कप-प्लेट",
+   "symbol_image": null,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Apna_Dal_(Soneylal)"
+   ],
+   "note": "Wikipedia's infobox cites an ECI order on 'allotment of cup saucer as reserved symbol'.",
+   "unverified": true
+  },
+  {
+   "id": "SBSP",
+   "name": "Suheldev Bharatiya Samaj Party",
+   "hindi_name": "सुहेलदेव भारतीय समाज पार्टी",
+   "status": "Registered party",
+   "symbol": null,
+   "symbol_hindi": null,
+   "symbol_image": null,
+   "unverified": true,
+   "note": "Used a walking stick (छड़ी) symbol for 22 years but dropped it in August 2024 (The Wire). The replacement symbol was not found.",
+   "sources": [
+    "https://thewire.in/politics/after-2024-election-defeat-a-bjp-ally-in-uttar-pradesh-drops-its-stick"
+   ]
+  },
+  {
+   "id": "NISHAD",
+   "name": "Nirbal Indian Shoshit Hamara Aam Dal (NISHAD Party)",
+   "hindi_name": "निर्बल इंडियन शोषित हमारा आम दल (निषाद पार्टी)",
+   "status": "Registered party",
+   "symbol": null,
+   "symbol_hindi": null,
+   "symbol_image": null,
+   "unverified": true,
+   "note": "Symbol not confirmed. In 2022 several NISHAD candidates contested on the BJP lotus."
+  },
+  {
+   "id": "JSDL",
+   "name": "Jansatta Dal (Loktantrik)",
+   "hindi_name": "जनसत्ता दल (लोकतांत्रिक)",
+   "status": "Registered party",
+   "symbol": null,
+   "symbol_hindi": null,
+   "symbol_image": null,
+   "unverified": true,
+   "note": "Led by Raghuraj Pratap Singh ('Raja Bhaiya'). Symbol not confirmed."
+  }
+ ],
+ "parties_note": "Symbols for BJP, BSP and INC are from the ECI consolidated symbols list hosted by CEO Delhi (same source as the Punjab page). SP's bicycle is standard but no document was opened. Symbols for SBSP, NISHAD and JSDL could not be confirmed and are left null rather than guessed.",
+ "party_leaders_2027": {
+  "unverified": true,
+  "BJP": "State president Pankaj Chaudhary (Maharajganj MP and Union MoS Finance), declared December 14, 2025, replacing Bhupendra Chaudhary. CM Yogi Adityanath is the party's face for a third term, though no formal CM-candidate announcement was found.",
+  "SP": "National president Akhilesh Yadav (Kannauj MP) is the party's de facto CM face. State president Shyam Lal Pal (still in post as of August 4, 2026).",
+  "BSP": "National president Mayawati makes final decisions; state president Vishwanath Pal; Akash Anand is national coordinator. No formal CM candidate announced.",
+  "INC": "Aradhana Misra 'Mona' (CLP leader, Rampur Khas MLA) named UP Congress president in early October 2026 (Outlook, October 6, 2026), apparently succeeding Ajay Rai, who was still president in July 2026; Saharanpur MP Imran Masood made working president. UP in-charge Rajendra Pal Gautam.",
+  "INC_unverified_note": "Outlook does not say explicitly that Ajay Rai was replaced; check before publishing.",
+  "hindi_names": {
+   "Pankaj Chaudhary": "पंकज चौधरी",
+   "Akhilesh Yadav": "अखिलेश यादव",
+   "Shyam Lal Pal": "श्याम लाल पाल",
+   "Mayawati": "मायावती",
+   "Vishwanath Pal": "विश्वनाथ पाल",
+   "Akash Anand": "आकाश आनंद",
+   "Ajay Rai": "अजय राय",
+   "Imran Masood": "इमरान मसूद"
+  },
+  "sources": [
+   "https://www.deccanherald.com/amp/story/india%2Futtar-pradesh%2Funion-minister-pankaj-chaudhary-formally-declared-uttar-pradesh-bjp-chief-3830780",
+   "https://www.tribuneindia.com/news/india/prominent-kurmi-face-chaudhary-appointed-up-bjp-chief",
+   "https://swarajyamag.com/news-brief/bjp-announces-major-organisational-reshuffle-in-uttar-pradesh-ahead-of-2027-assembly-elections",
+   "https://www.tribuneindia.com/news/uttar-pradesh/shyam-lal-pal-appointed-samajwadi-party-uttar-pradesh-president-618493",
+   "https://www.amarujala.com/video/uttar-pradesh/etah/video-sp-state-president-shyam-lal-pal-lashed-out-at-bjp-government-2026-08-04",
+   "https://www.patrika.com/lucknow-news/bsp-strategy-up-election-2027-akash-anand-mayawati-vishwanath-pal-20791248",
+   "https://www.outlookindia.com/elections/congress-new-up-team-monas-sp-link-masoods-rise-and-the-2027-alliance-test",
+   "https://test.uniindia.com/bsp-suffers-setback-as-former-unnao-mla-jaivind-joins-congress/north/news/3908217.html",
+   "https://telanganatoday.com/up-polls-2027-sp-mp-rejects-congress-150-seat-demand-backs-50"
+  ]
+ },
+ "key_issues": [
+  {
+   "issue": "Jobs and paper leaks",
+   "detail": "Opposition makes unemployment its main charge; SP and Congress raised youth unemployment again in the August 2026 Monsoon Session.",
+   "sources": [
+    "https://dailypioneer.com/news/up-assembly-monsoon-session-opposition-to-raise-alleged-ram-temple-donation-irregularities",
+    "https://www.deccanherald.com/india/uttar-pradesh/akhilesh-yadav-hints-at-alliance-with-congress-in-2027-uttar-pradesh-assembly-elections-4008808"
+   ]
+  },
+  {
+   "issue": "Price rise",
+   "detail": "Inflation is a standard SP and Congress line of attack against the BJP government, raised in the Assembly in August 2026.",
+   "sources": [
+    "https://dailypioneer.com/news/up-assembly-monsoon-session-opposition-to-raise-alleged-ram-temple-donation-irregularities",
+    "https://www.freepressjournal.in/amp/india/ram-temple-donation-theft-inflation-unemployment-to-be-raised-in-up-assembly-monsoon-session-lop"
+   ]
+  },
+  {
+   "issue": "Ram temple donations row",
+   "detail": "Opposition alleges embezzlement of Ram Mandir donations in Ayodhya and wants the SIT report made public; it dominated the August 2026 session.",
+   "sources": [
+    "https://news.webindia123.com/news/Articles/India/20260804/4483023.html",
+    "https://dailypioneer.com/news/up-assembly-monsoon-session-opposition-to-raise-alleged-ram-temple-donation-irregularities",
+    "https://www.freepressjournal.in/amp/india/ram-temple-donation-theft-inflation-unemployment-to-be-raised-in-up-assembly-monsoon-session-lop"
+   ]
+  },
+  {
+   "issue": "Voter roll revision (SIR)",
+   "detail": "Special Intensive Revision cut the roll from 15.44 crore (October 2025) to a final 13.39 crore on April 10, 2026, with over 2 crore names removed; Akhilesh Yadav accused BJP of trying to game the rolls.",
+   "sources": [
+    "https://thefederal.com/category/states/north/uttar-pradesh/over-two-crore-voters-deleted-from-up-rolls-after-sir-final-electorate-at-1339-crore-238632",
+    "https://www.indiatvnews.com/uttar-pradesh/up-final-voter-list-out-after-sir-2-05-crore-voters-deleted-know-how-to-check-your-name-2026-04-10-1037043",
+    "https://www.deccanherald.com/amp/story/india%2Futtar-pradesh%2Fbjp-will-try-to-get-fake-voters-enrolled-now-akhilesh-as-sir-sees-289-crore-names-deleted-in-state-3855535"
+   ]
+  },
+  {
+   "issue": "School pairing and closures",
+   "detail": "The 2025 'pairing' (merger) of low-enrolment primary schools drew protests; SP calls it a conspiracy against poor children and ran 'PDA Pathshala' classes in response.",
+   "sources": [
+    "https://www.theweek.in/wire-updates/national/2025/07/25/des111-up-school-opposition.html",
+    "https://thewire.in/politics/up-school-merger-sparks-protests-across-state-opposition-parties-unions-demand-rollback"
+   ]
+  },
+  {
+   "issue": "Caste arithmetic (PDA vs Hindutva)",
+   "detail": "SP's 'PDA' (backward classes, Dalits, minorities) pitch, which helped it beat BJP 37 to 33 in UP Lok Sabha seats in 2024, against BJP's Hindutva and welfare plank under Yogi Adityanath.",
+   "sources": [
+    "https://www.outlookindia.com/elections/congress-new-up-team-monas-sp-link-masoods-rise-and-the-2027-alliance-test",
+    "https://swarajyamag.com/news-brief/bjp-announces-major-organisational-reshuffle-in-uttar-pradesh-ahead-of-2027-assembly-elections"
+   ]
+  },
+  {
+   "issue": "Farm inputs and power supply",
+   "detail": "Fertiliser availability, farmers' concerns and electricity supply listed by the opposition among issues for the August 2026 session.",
+   "sources": [
+    "https://dailypioneer.com/news/up-assembly-monsoon-session-opposition-to-raise-alleged-ram-temple-donation-irregularities"
+   ]
+  },
+  {
+   "issue": "Law and order",
+   "detail": "BJP campaigns on its crackdown on gangsters; opposition points to crimes against women. The Pooja Pal episode (praising action against Atiq Ahmad) shows the theme's pull.",
+   "sources": [
+    "https://dailypioneer.com/news/up-assembly-monsoon-session-opposition-to-raise-alleged-ram-temple-donation-irregularities",
+    "https://www.theweek.in/wire-updates/national/2025/08/14/des65-up-sp-mla-2ndld-expulsion.html"
+   ]
+  }
+ ],
+ "key_issues_note": "Issue framing is a summary written for this page, based on the cited reports; it is not from a single survey.",
+ "timeline": [
+  {
+   "date": "2022-03-10",
+   "event": "BJP wins 255 of 403 seats (NDA 273); SP 111, RLD 8, SBSP 6, INC 2, BSP 1.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2022_Uttar_Pradesh_Legislative_Assembly_election",
+    "https://prsindia.org/files/policy/policy_vital_state/Profile_18th_UP_Assembly.pdf"
+   ]
+  },
+  {
+   "date": "2022-03-25",
+   "event": "Yogi Adityanath sworn in for a second term at Ekana Stadium, Lucknow.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry"
+   ]
+  },
+  {
+   "date": "2022-03-29",
+   "event": "Satish Mahana elected Speaker of the 18th Vidhan Sabha.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly"
+   ]
+  },
+  {
+   "date": "2022-12-08",
+   "event": "BJP wins Rampur by-election after Azam Khan's disqualification; RLD takes Khatauli from BJP.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_by-elections_to_the_Uttar_Pradesh_Legislative_Assembly",
+    "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly"
+   ]
+  },
+  {
+   "date": "2023-09-08",
+   "event": "SP's Sudhakar Singh beats Dara Singh Chauhan (BJP) by 42,759 votes in the Ghosi by-election.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ghosi,_Uttar_Pradesh_Assembly_constituency"
+   ]
+  },
+  {
+   "date": "2024-02",
+   "event": "Seven SP MLAs cross-vote in the Rajya Sabha election, costing SP one of its three candidates.",
+   "sources": [
+    "https://scroll.in/latest/1083768/samajwadi-party-expels-3-up-mlas-who-cross-voted-in-2024-rajya-sabha-polls"
+   ]
+  },
+  {
+   "date": "2024-03-05",
+   "event": "First cabinet expansion: four ministers inducted, including SBSP chief Om Prakash Rajbhar and RLD's Anil Kumar.",
+   "sources": [
+    "https://www.business-standard.com/politics/up-cabinet-expansion-nda-partners-with-sbsp-rld-gets-representation-124030501065_1.html",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry"
+   ]
+  },
+  {
+   "date": "2024-06-04",
+   "event": "Lok Sabha results: SP 37 and Congress 6 of UP's 80 seats, BJP 33. Same day, BJP holds three of four assembly by-elections; SP takes Duddhi.",
+   "sources": [
+    "https://www.outlookindia.com/elections/congress-new-up-team-monas-sp-link-masoods-rise-and-the-2027-alliance-test",
+    "https://en.wikipedia.org/wiki/2024_Uttar_Pradesh_Legislative_Assembly_by-elections"
+   ]
+  },
+  {
+   "date": "2024-07-28",
+   "event": "Mata Prasad Pandey becomes Leader of Opposition after Akhilesh Yadav moves to the Lok Sabha.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly"
+   ]
+  },
+  {
+   "date": "2024-11-23",
+   "event": "NDA wins 7 of 9 by-elections, taking Kundarki and Katehari from SP.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2024_Uttar_Pradesh_Legislative_Assembly_by-elections"
+   ]
+  },
+  {
+   "date": "2025-02-08",
+   "event": "BJP's Chandrabhanu Paswan wins Milkipur (Ayodhya) by-election from SP.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_by-elections_to_the_Uttar_Pradesh_Legislative_Assembly"
+   ]
+  },
+  {
+   "date": "2025-06-23",
+   "event": "SP expels three MLAs (Manoj Kumar Pandey, Rakesh Pratap Singh, Abhay Singh) for backing BJP; Pooja Pal expelled on August 14.",
+   "sources": [
+    "https://scroll.in/latest/1083768/samajwadi-party-expels-3-up-mlas-who-cross-voted-in-2024-rajya-sabha-polls",
+    "https://www.theweek.in/wire-updates/national/2025/08/14/des65-up-sp-mla-2ndld-expulsion.html"
+   ]
+  },
+  {
+   "date": "2025-11-20",
+   "event": "Ghosi MLA Sudhakar Singh (SP) dies; first of five vacancies that remain unfilled.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ghosi,_Uttar_Pradesh_Assembly_constituency",
+    "https://www.patrika.com/mau-news/ghosi-mla-sudhakar-singh-dies-in-medanta-hospital-lucknow-sudhakar-singh-funeral-20116284"
+   ]
+  },
+  {
+   "date": "2025-12-14",
+   "event": "Union minister Pankaj Chaudhary declared UP BJP president.",
+   "sources": [
+    "https://www.deccanherald.com/amp/story/india%2Futtar-pradesh%2Funion-minister-pankaj-chaudhary-formally-declared-uttar-pradesh-bjp-chief-3830780"
+   ]
+  },
+  {
+   "date": "2026-04-10",
+   "event": "Final electoral roll after SIR: 13.39 crore voters, over 2 crore names removed.",
+   "sources": [
+    "https://thefederal.com/category/states/north/uttar-pradesh/over-two-crore-voters-deleted-from-up-rolls-after-sir-final-electorate-at-1339-crore-238632",
+    "https://www.indiatvnews.com/uttar-pradesh/up-final-voter-list-out-after-sir-2-05-crore-voters-deleted-know-how-to-check-your-name-2026-04-10-1037043"
+   ]
+  },
+  {
+   "date": "2026-05-10",
+   "event": "Second cabinet expansion: six BJP ministers including Bhupendra Chaudhary and Manoj Pandey; council reaches 60.",
+   "sources": [
+    "https://newsonair.gov.in/up-cabinet-expansion-six-bjp-leaders-take-oath-as-ministers/"
+   ]
+  },
+  {
+   "date": "2026-08-05",
+   "event": "Rasara MLA Umashankar Singh, BSP's only legislator, dies; BSP left with no MLA.",
+   "sources": [
+    "https://www.amarujala.com/uttar-pradesh/varanasi/umashankar-singh-passes-away-bsp-mla-ballia-rasra-constituency-mourning-in-political-circles-2026-08-05"
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "event": "Seat-sharing rift: Congress seeks 150 seats, an SP MP offers 50; talks due later in October.",
+   "sources": [
+    "https://telanganatoday.com/up-polls-2027-sp-mp-rejects-congress-150-seat-demand-backs-50"
+   ]
+  },
+  {
+   "date": "2026-10-06",
+   "event": "Congress names Aradhana Misra 'Mona' UP Congress president, Imran Masood working president.",
+   "sources": [
+    "https://www.outlookindia.com/elections/congress-new-up-team-monas-sp-link-masoods-rise-and-the-2027-alliance-test"
+   ]
+  }
+ ],
+ "ministers": [
+  {
+   "id": "keshav-prasad-maurya",
+   "name": "Keshav Prasad Maurya",
+   "hindi_name": "केशव प्रसाद मौर्य",
+   "role": "Deputy Chief Minister",
+   "party": "BJP",
+   "house": "Legislative Council",
+   "portfolios": [
+    "Rural Development and Samagra Gramya Vikas",
+    "Rural Engineering",
+    "Food Processing",
+    "Entertainment Tax",
+    "Public Enterprises",
+    "National Integration"
+   ],
+   "constituency": null,
+   "joined_cabinet": "2022-03-25",
+   "result_2022": null,
+   "mlc_since": "2017-09-09",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Keshav_Prasad_Maurya",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.hindustantimes.com/cities/lucknow-news/yogis-new-up-cabinet-likely-to-have-52-ministers-full-list-here-101648206532509.html",
+    "https://www.newindianexpress.com/nation/2022/mar/25/uttar-pradesh-yogi-cabinet-20-drops-24-ministers-inducts-fresh-faces-2434224.html"
+   ],
+   "portfolios_unverified": true,
+   "mlc_since_unverified": true,
+   "photo": {
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Shri_Keshav_Prasad_Maurya,_MP,_Phoolpur_(U.P)_and_Shri_Satyapal_Singh_Saini,_MP,_Sambhal_(U.P)_meeting_the_Minister_of_State_for_Culture_(Independent_Charge),_Tourism_(Independent_Charge)_and_Civil_Aviation_(cropped).jpg",
+    "licence": null,
+    "author": null,
+    "unverified": true,
+    "note": "Taken from the English Wikipedia infobox; not confirmed that the file is on Commons (and not a local non-free upload), and licence and author were not checked."
+   },
+   "note": "Deputy CM since March 19, 2017; sworn in again on March 25, 2022. He lost Sirathu in 2022 (to Pallavi Patel, SP) and continues as an MLC. MLC since September 2017 per Wikipedia; the date of his re-election to the Council (2022 biennial) was not separately confirmed. Portfolio list is from the March 2022 allocation; only Rural Development, Food Processing and Entertainment Tax are confirmed by the Wikipedia ministry page."
+  },
+  {
+   "id": "brajesh-pathak",
+   "name": "Brajesh Pathak",
+   "hindi_name": "ब्रजेश पाठक",
+   "role": "Deputy Chief Minister",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Medical Health and Family Welfare",
+    "Medical Education",
+    "Maternal and Child Welfare"
+   ],
+   "constituency": "Lucknow Cantonment",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 175,
+    "constituency": "Lucknow Cantonment",
+    "votes": 108147,
+    "vote_share_pct": 54.7,
+    "runner_up": {
+     "name": "Surendra Singh Gandhi",
+     "party": "SP",
+     "votes": 68635,
+     "vote_share_pct": 34.71
+    },
+    "margin_votes": 39512,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/Lucknow_Cantonment_Assembly_constituency",
+     "https://old.eci.gov.in/files/file/14185-uttar-pradesh-general-legislative-election-2022/"
+    ],
+    "winner_party_2022": "BJP"
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Brajesh_Pathak",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.hindustantimes.com/cities/lucknow-news/yogis-new-up-cabinet-likely-to-have-52-ministers-full-list-here-101648206532509.html",
+    "https://www.newindianexpress.com/nation/2022/mar/25/uttar-pradesh-yogi-cabinet-20-drops-24-ministers-inducts-fresh-faces-2434224.html"
+   ],
+   "photo": {
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Brajesh_Pathak.jpg",
+    "licence": null,
+    "author": null,
+    "unverified": true,
+    "note": "Taken from the English Wikipedia infobox; not confirmed that the file is on Commons (and not a local non-free upload), and licence and author were not checked."
+   }
+  },
+  {
+   "id": "suresh-kumar-khanna",
+   "name": "Suresh Kumar Khanna",
+   "hindi_name": "सुरेश कुमार खन्ना",
+   "role": "Cabinet Minister",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Finance",
+    "Parliamentary Affairs"
+   ],
+   "constituency": "Shahjahanpur",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 135,
+    "constituency": "Shahjahanpur",
+    "votes": 109942,
+    "vote_share_pct": 48.98,
+    "runner_up": {
+     "name": "Tanveer Khan",
+     "party": "SP",
+     "votes": 100629,
+     "vote_share_pct": 44.83
+    },
+    "margin_votes": 9313,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/Shahjahanpur_Assembly_constituency",
+     "https://old.eci.gov.in/files/file/14185-uttar-pradesh-general-legislative-election-2022/"
+    ],
+    "winner_party_2022": "BJP"
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Suresh_Kumar_Khanna",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.hindustantimes.com/cities/lucknow-news/yogis-new-up-cabinet-likely-to-have-52-ministers-full-list-here-101648206532509.html",
+    "https://www.newindianexpress.com/nation/2022/mar/25/uttar-pradesh-yogi-cabinet-20-drops-24-ministers-inducts-fresh-faces-2434224.html"
+   ],
+   "photo": null
+  },
+  {
+   "id": "surya-pratap-shahi",
+   "name": "Surya Pratap Shahi",
+   "hindi_name": "सूर्य प्रताप शाही",
+   "role": "Cabinet Minister",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Agriculture",
+    "Agricultural Education and Research"
+   ],
+   "constituency": "Pathardeva",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 338,
+    "constituency": "Pathardeva",
+    "votes": 93858,
+    "vote_share_pct": 46.65,
+    "runner_up": {
+     "name": "Brahmashankar Tripathi",
+     "party": "SP",
+     "votes": 65177,
+     "vote_share_pct": 32.4
+    },
+    "margin_votes": 28681,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/Pathardeva_Assembly_constituency",
+     "https://old.eci.gov.in/files/file/14185-uttar-pradesh-general-legislative-election-2022/"
+    ],
+    "winner_party_2022": "BJP"
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Surya_Pratap_Shahi",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.hindustantimes.com/cities/lucknow-news/yogis-new-up-cabinet-likely-to-have-52-ministers-full-list-here-101648206532509.html",
+    "https://www.newindianexpress.com/nation/2022/mar/25/uttar-pradesh-yogi-cabinet-20-drops-24-ministers-inducts-fresh-faces-2434224.html"
+   ],
+   "photo": {
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Surya_Pratap_Shahi.jpg",
+    "licence": null,
+    "author": null,
+    "unverified": true,
+    "note": "Taken from the English Wikipedia infobox; not confirmed that the file is on Commons (and not a local non-free upload), and licence and author were not checked."
+   }
+  },
+  {
+   "id": "swatantra-dev-singh",
+   "name": "Swatantra Dev Singh",
+   "hindi_name": "स्वतंत्र देव सिंह",
+   "role": "Cabinet Minister",
+   "party": "BJP",
+   "house": "Legislative Council",
+   "portfolios": [
+    "Jal Shakti (Irrigation and Flood Control)",
+    "Namami Gange and Rural Water Supply",
+    "Disaster Management"
+   ],
+   "constituency": null,
+   "joined_cabinet": "2022-03-25",
+   "result_2022": null,
+   "mlc_since": "2017-09-08",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Swatantra_Dev_Singh",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.hindustantimes.com/cities/lucknow-news/yogis-new-up-cabinet-likely-to-have-52-ministers-full-list-here-101648206532509.html",
+    "https://www.newindianexpress.com/nation/2022/mar/25/uttar-pradesh-yogi-cabinet-20-drops-24-ministers-inducts-fresh-faces-2434224.html"
+   ],
+   "portfolios_unverified": true,
+   "mlc_since_unverified": true,
+   "photo": {
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Swatantra_dev_singh_welcoming_hasnain_baqai_of_safipur_at_his_residence_(cropped).jpg",
+    "licence": null,
+    "author": null,
+    "unverified": true,
+    "note": "Taken from the English Wikipedia infobox; not confirmed that the file is on Commons (and not a local non-free upload), and licence and author were not checked."
+   },
+   "note": "MLC (elected by MLAs). Wikipedia gives the current Council term as starting September 8, 2017; re-election in the 2022 biennial poll not separately confirmed. Wikipedia ministry page lists Jal Shakti and Disaster Management; Namami Gange and Rural Water Supply is from the 2022 allocation reports and was not rechecked."
+  },
+  {
+   "id": "baby-rani-maurya",
+   "name": "Baby Rani Maurya",
+   "hindi_name": "बेबी रानी मौर्य",
+   "role": "Cabinet Minister",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Women Welfare",
+    "Child Development and Nutrition"
+   ],
+   "constituency": "Agra Rural",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 90,
+    "constituency": "Agra Rural",
+    "votes": 137310,
+    "vote_share_pct": 52.63,
+    "runner_up": {
+     "name": "Kiran Prabha Kesari",
+     "party": "BSP",
+     "votes": 60702,
+     "vote_share_pct": 23.26
+    },
+    "margin_votes": 76608,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/Agra_Rural_Assembly_constituency",
+     "https://old.eci.gov.in/files/file/14185-uttar-pradesh-general-legislative-election-2022/"
+    ],
+    "winner_party_2022": "BJP"
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Baby_Rani_Maurya",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.hindustantimes.com/cities/lucknow-news/yogis-new-up-cabinet-likely-to-have-52-ministers-full-list-here-101648206532509.html",
+    "https://www.newindianexpress.com/nation/2022/mar/25/uttar-pradesh-yogi-cabinet-20-drops-24-ministers-inducts-fresh-faces-2434224.html"
+   ],
+   "photo": {
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Baby_Rani_Maurya_in_2022_(cropped).jpg",
+    "licence": null,
+    "author": null,
+    "unverified": true,
+    "note": "Taken from the English Wikipedia infobox; not confirmed that the file is on Commons (and not a local non-free upload), and licence and author were not checked."
+   },
+   "note": "Former Governor of Uttarakhand (2018 to 2021)."
+  },
+  {
+   "id": "laxmi-narayan-chaudhary",
+   "name": "Laxmi Narayan Chaudhary",
+   "hindi_name": "लक्ष्मी नारायण चौधरी",
+   "role": "Cabinet Minister",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Sugarcane Development and Sugar Mills"
+   ],
+   "constituency": "Chhata",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 81,
+    "constituency": "Chhata",
+    "votes": 124414,
+    "vote_share_pct": 52.18,
+    "runner_up": {
+     "name": "Tejpal Singh",
+     "party": "RLD",
+     "votes": 75466,
+     "vote_share_pct": 31.65
+    },
+    "margin_votes": 48948,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/Chhata_Assembly_constituency",
+     "https://old.eci.gov.in/files/file/14185-uttar-pradesh-general-legislative-election-2022/"
+    ],
+    "winner_party_2022": "BJP"
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Chaudhary_Laxmi_Narayan_Singh",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.hindustantimes.com/cities/lucknow-news/yogis-new-up-cabinet-likely-to-have-52-ministers-full-list-here-101648206532509.html",
+    "https://www.newindianexpress.com/nation/2022/mar/25/uttar-pradesh-yogi-cabinet-20-drops-24-ministers-inducts-fresh-faces-2434224.html"
+   ],
+   "name_note": "Also written Chaudhary Laxmi Narayan or Chaudhary Laxmi Narayan Singh (Wikipedia article title). Official spelling on up.gov.in could not be checked (site unreachable).",
+   "photo": null
+  },
+  {
+   "id": "jaiveer-singh",
+   "name": "Jaiveer Singh",
+   "hindi_name": "जयवीर सिंह",
+   "role": "Cabinet Minister",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Tourism",
+    "Culture"
+   ],
+   "constituency": "Mainpuri",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 107,
+    "constituency": "Mainpuri",
+    "votes": 99814,
+    "vote_share_pct": 46.73,
+    "runner_up": {
+     "name": "Raju Yadav",
+     "party": "SP",
+     "votes": 93048,
+     "vote_share_pct": 43.56
+    },
+    "margin_votes": 6766,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/Mainpuri_Assembly_constituency",
+     "https://old.eci.gov.in/files/file/14185-uttar-pradesh-general-legislative-election-2022/"
+    ],
+    "winner_party_2022": "BJP"
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jaiveer_Singh",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.hindustantimes.com/cities/lucknow-news/yogis-new-up-cabinet-likely-to-have-52-ministers-full-list-here-101648206532509.html",
+    "https://www.newindianexpress.com/nation/2022/mar/25/uttar-pradesh-yogi-cabinet-20-drops-24-ministers-inducts-fresh-faces-2434224.html"
+   ],
+   "photo": null
+  },
+  {
+   "id": "dharmpal-singh",
+   "name": "Dharmpal Singh",
+   "hindi_name": "धर्मपाल सिंह",
+   "role": "Cabinet Minister",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Animal Husbandry and Dairy Development"
+   ],
+   "constituency": "Aonla",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 126,
+    "constituency": "Aonla",
+    "votes": 88956,
+    "vote_share_pct": 46.45,
+    "runner_up": {
+     "name": "Radha Krishan Sharma",
+     "party": "SP",
+     "votes": 70532,
+     "vote_share_pct": 36.83
+    },
+    "margin_votes": 18424,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/Aonla_Assembly_constituency",
+     "https://old.eci.gov.in/files/file/14185-uttar-pradesh-general-legislative-election-2022/"
+    ],
+    "winner_party_2022": "BJP"
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Dharmpal_Singh",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.hindustantimes.com/cities/lucknow-news/yogis-new-up-cabinet-likely-to-have-52-ministers-full-list-here-101648206532509.html",
+    "https://www.newindianexpress.com/nation/2022/mar/25/uttar-pradesh-yogi-cabinet-20-drops-24-ministers-inducts-fresh-faces-2434224.html",
+    "https://newsable.asianetnews.com/india/bjp-s-up-rajya-sabha-picks-thank-leadership-hail-worker-recognition-articleshow-ff6htzf",
+    "https://navbharatlive.com/uttar-pradesh/up-rajya-sabha-election-2026-bjp-candidate-profile-8-candidates-sns03"
+   ],
+   "portfolios_unverified": true,
+   "status_note": "Named on October 5, 2026 as one of BJP's eight Rajya Sabha candidates from UP; reports dated October 9, 2026 say all 10 candidates were elected unopposed. Wikipedia gives his Rajya Sabha term as starting November 26, 2026. As of October 15, 2026 he is still described as cabinet minister and Aonla MLA; no resignation from the ministry or the assembly was found. He will have to give up one of the two seats, so watch for an Aonla vacancy and a cabinet change.",
+   "photo": null,
+   "note": "Held Minority Welfare and Haj/Wakf until March 5, 2024 (moved to Om Prakash Rajbhar). The May 2026 allocation gave Political Pension to Ajit Singh Pal (MoS Independent Charge), so Dharmpal Singh probably no longer holds it; not confirmed.",
+   "card_note": "Elected to the Rajya Sabha in October 2026; still a minister and Aonla MLA for now."
+  },
+  {
+   "id": "nand-gopal-gupta-nandi",
+   "name": "Nand Gopal Gupta 'Nandi'",
+   "hindi_name": "नंद गोपाल गुप्ता 'नंदी'",
+   "role": "Cabinet Minister",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Industrial Development",
+    "Export Promotion",
+    "NRI",
+    "Investment Promotion"
+   ],
+   "constituency": "Prayagraj South",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 263,
+    "constituency": "Prayagraj South",
+    "votes": 97864,
+    "vote_share_pct": 54.14,
+    "runner_up": {
+     "name": "Raish Chandra Shukla",
+     "party": "SP",
+     "votes": 71682,
+     "vote_share_pct": 39.66
+    },
+    "margin_votes": 26182,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/Allahabad_South_Assembly_constituency",
+     "https://old.eci.gov.in/files/file/14185-uttar-pradesh-general-legislative-election-2022/"
+    ],
+    "winner_party_2022": "BJP"
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Nand_Gopal_Gupta",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.hindustantimes.com/cities/lucknow-news/yogis-new-up-cabinet-likely-to-have-52-ministers-full-list-here-101648206532509.html",
+    "https://www.newindianexpress.com/nation/2022/mar/25/uttar-pradesh-yogi-cabinet-20-drops-24-ministers-inducts-fresh-faces-2434224.html"
+   ],
+   "photo": null,
+   "note": "Constituency is also listed as Allahabad South."
+  },
+  {
+   "id": "anil-rajbhar",
+   "name": "Anil Rajbhar",
+   "hindi_name": "अनिल राजभर",
+   "role": "Cabinet Minister",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Labour and Employment",
+    "Coordination"
+   ],
+   "constituency": "Shivpur",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 386,
+    "constituency": "Shivpur",
+    "votes": 115231,
+    "vote_share_pct": 45.76,
+    "runner_up": {
+     "name": "Arvind Rajbhar",
+     "party": "SBSP",
+     "votes": 87544,
+     "vote_share_pct": 34.77
+    },
+    "margin_votes": 27687,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/Shivpur_Assembly_constituency",
+     "https://old.eci.gov.in/files/file/14185-uttar-pradesh-general-legislative-election-2022/"
+    ],
+    "winner_party_2022": "BJP"
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Anil_Rajbhar",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.hindustantimes.com/cities/lucknow-news/yogis-new-up-cabinet-likely-to-have-52-ministers-full-list-here-101648206532509.html",
+    "https://www.newindianexpress.com/nation/2022/mar/25/uttar-pradesh-yogi-cabinet-20-drops-24-ministers-inducts-fresh-faces-2434224.html"
+   ],
+   "portfolios_unverified": true,
+   "photo": null,
+   "note": "Runner-up Arvind Rajbhar is Om Prakash Rajbhar's son; SBSP was then allied with SP and is now in the NDA. 'Coordination' is from 2022 allocation reports and was not rechecked."
+  },
+  {
+   "id": "rakesh-sachan",
+   "name": "Rakesh Sachan",
+   "hindi_name": "राकेश सचान",
+   "role": "Cabinet Minister",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Khadi and Village Industries",
+    "Sericulture",
+    "Handloom and Textiles"
+   ],
+   "constituency": "Bhognipur",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 208,
+    "constituency": "Bhognipur",
+    "votes": 87809,
+    "vote_share_pct": 40.25,
+    "runner_up": {
+     "name": "Narendra Pal Singh",
+     "party": "SP",
+     "votes": 75916,
+     "vote_share_pct": 34.8
+    },
+    "margin_votes": 11893,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/Bhognipur_Assembly_constituency",
+     "https://old.eci.gov.in/files/file/14185-uttar-pradesh-general-legislative-election-2022/"
+    ],
+    "winner_party_2022": "BJP"
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Rakesh_Sachan",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.hindustantimes.com/cities/lucknow-news/yogis-new-up-cabinet-likely-to-have-52-ministers-full-list-here-101648206532509.html",
+    "https://www.newindianexpress.com/nation/2022/mar/25/uttar-pradesh-yogi-cabinet-20-drops-24-ministers-inducts-fresh-faces-2434224.html",
+    "https://newsonair.gov.in/up-cm-yogi-adityanath-allocates-portfolios-to-newly-inducted-and-promoted-ministers/",
+    "https://www.inkl.com/news/up-cabinet-expansion-former-bjp-chief-bhupendra-chaudhary-gets-msme-manoj-pandey-to-take-charge-of-food-and-civil-supplies",
+    "https://www.aajtak.in/uttar-pradesh/story/cabinet-expansion-live-updates-yogi-adityanath-new-minister-bhupendra-chaudhary-oath-ceremony-lcly-rpti-2548614-2026-05-10"
+   ],
+   "portfolios_unverified": true,
+   "photo": {
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Rakesh_Sachan_meeting_with_Nitish_Kumar_(cropped).jpg",
+    "licence": null,
+    "author": null,
+    "unverified": true,
+    "note": "Taken from the English Wikipedia infobox; not confirmed that the file is on Commons (and not a local non-free upload), and licence and author were not checked."
+   },
+   "note": "Held MSME from 2022. On May 17, 2026 MSME was allotted to Bhupendra Singh Chaudhary, so Sachan is assumed to keep only Khadi, Sericulture and Handloom and Textiles; no report explicitly confirming the change to his charge was found."
+  },
+  {
+   "id": "arvind-kumar-sharma",
+   "name": "Arvind Kumar Sharma",
+   "hindi_name": "अरविंद कुमार शर्मा",
+   "role": "Cabinet Minister",
+   "party": "BJP",
+   "house": "Legislative Council",
+   "portfolios": [
+    "Urban Development",
+    "Integrated Urban Development",
+    "Urban Employment and Poverty Alleviation",
+    "Energy and Additional Sources of Energy"
+   ],
+   "constituency": null,
+   "joined_cabinet": "2022-03-25",
+   "result_2022": null,
+   "mlc_since": "2021-01-31",
+   "sources": [
+    "https://en.wikipedia.org/wiki/A._K._Sharma",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.hindustantimes.com/cities/lucknow-news/yogis-new-up-cabinet-likely-to-have-52-ministers-full-list-here-101648206532509.html",
+    "https://www.newindianexpress.com/nation/2022/mar/25/uttar-pradesh-yogi-cabinet-20-drops-24-ministers-inducts-fresh-faces-2434224.html"
+   ],
+   "name_note": "Widely known as A. K. Sharma; former IAS officer.",
+   "photo": {
+    "commons_url": "https://commons.wikimedia.org/wiki/File:A-k-sharma-urja-mantri.jpg",
+    "licence": null,
+    "author": null,
+    "unverified": true,
+    "note": "Taken from the English Wikipedia infobox; not confirmed that the file is on Commons (and not a local non-free upload), and licence and author were not checked."
+   },
+   "note": "MLC (elected by MLAs) since January 2021."
+  },
+  {
+   "id": "yogendra-upadhyay",
+   "name": "Yogendra Upadhyay",
+   "hindi_name": "योगेंद्र उपाध्याय",
+   "role": "Cabinet Minister",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Higher Education"
+   ],
+   "constituency": "Agra South",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 88,
+    "constituency": "Agra South",
+    "votes": 109262,
+    "vote_share_pct": 52.39,
+    "runner_up": {
+     "name": "Vinay Agrawal",
+     "party": "SP",
+     "votes": 52622,
+     "vote_share_pct": 25.23
+    },
+    "margin_votes": 56640,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/Agra_South_Assembly_constituency",
+     "https://old.eci.gov.in/files/file/14185-uttar-pradesh-general-legislative-election-2022/"
+    ],
+    "winner_party_2022": "BJP"
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Yogendra_Upadhyaya",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.hindustantimes.com/cities/lucknow-news/yogis-new-up-cabinet-likely-to-have-52-ministers-full-list-here-101648206532509.html",
+    "https://www.newindianexpress.com/nation/2022/mar/25/uttar-pradesh-yogi-cabinet-20-drops-24-ministers-inducts-fresh-faces-2434224.html",
+    "https://www.thehindu.com/news/national/other-states/up-gets-4-new-ministers-as-adityanath-effects-cabinet-expansion-ahead-of-ls-polls/article67917112.ece"
+   ],
+   "photo": null,
+   "note": "Also spelt Upadhyaya. Lost Science and Technology and Electronics and IT on March 5, 2024 (to Anil Kumar and Sunil Kumar Sharma)."
+  },
+  {
+   "id": "ashish-patel",
+   "name": "Ashish Patel",
+   "hindi_name": "आशीष पटेल",
+   "role": "Cabinet Minister",
+   "party": "ADS",
+   "house": "Legislative Council",
+   "portfolios": [
+    "Technical Education",
+    "Consumer Protection",
+    "Weights and Measures"
+   ],
+   "constituency": null,
+   "joined_cabinet": "2022-03-25",
+   "result_2022": null,
+   "mlc_since": "2018-05-06",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ashish_Singh_Patel",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.hindustantimes.com/cities/lucknow-news/yogis-new-up-cabinet-likely-to-have-52-ministers-full-list-here-101648206532509.html",
+    "https://www.newindianexpress.com/nation/2022/mar/25/uttar-pradesh-yogi-cabinet-20-drops-24-ministers-inducts-fresh-faces-2434224.html"
+   ],
+   "mlc_since_unverified": true,
+   "photo": {
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Ashish_Patel.png",
+    "licence": null,
+    "author": null,
+    "unverified": true,
+    "note": "Taken from the English Wikipedia infobox; not confirmed that the file is on Commons (and not a local non-free upload), and licence and author were not checked."
+   },
+   "note": "Working president of Apna Dal (Soneylal); husband of Union minister Anupriya Patel. MLC since May 2018 per Wikipedia; whether and when he was re-elected when that term ended (2024) was not confirmed."
+  },
+  {
+   "id": "sanjay-nishad",
+   "name": "Sanjay Nishad",
+   "hindi_name": "संजय निषाद",
+   "role": "Cabinet Minister",
+   "party": "NISHAD",
+   "house": "Legislative Council",
+   "portfolios": [
+    "Fisheries"
+   ],
+   "constituency": null,
+   "joined_cabinet": "2022-03-25",
+   "result_2022": null,
+   "mlc_since": "2021-10-01",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Sanjay_Nishad",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.hindustantimes.com/cities/lucknow-news/yogis-new-up-cabinet-likely-to-have-52-ministers-full-list-here-101648206532509.html",
+    "https://www.newindianexpress.com/nation/2022/mar/25/uttar-pradesh-yogi-cabinet-20-drops-24-ministers-inducts-fresh-faces-2434224.html"
+   ],
+   "mlc_since_unverified": true,
+   "name_note": "Officially Dr. Sanjay Kumar Nishad.",
+   "photo": null,
+   "note": "Founder-president of the NISHAD Party. Wikipedia lists him as an MLC nominated by the Governor from October 2021; not confirmed from an official source."
+  },
+  {
+   "id": "om-prakash-rajbhar",
+   "name": "Om Prakash Rajbhar",
+   "hindi_name": "ओम प्रकाश राजभर",
+   "role": "Cabinet Minister",
+   "party": "SBSP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Panchayati Raj",
+    "Minority Welfare",
+    "Muslim Wakf and Haj"
+   ],
+   "constituency": "Zahoorabad",
+   "joined_cabinet": "2024-03-05",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 377,
+    "constituency": "Zahoorabad",
+    "votes": 114860,
+    "vote_share_pct": 46.45,
+    "runner_up": {
+     "name": "Kalicharan Rajbhar",
+     "party": "BJP",
+     "votes": 69228,
+     "vote_share_pct": 28.0
+    },
+    "margin_votes": 45632,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/Zahoorabad_Assembly_constituency",
+     "https://old.eci.gov.in/files/file/14185-uttar-pradesh-general-legislative-election-2022/"
+    ],
+    "winner_party_2022": "SBSP"
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Om_Prakash_Rajbhar",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thehindu.com/news/national/other-states/up-gets-4-new-ministers-as-adityanath-effects-cabinet-expansion-ahead-of-ls-polls/article67917112.ece"
+   ],
+   "photo": {
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Om_Prakash_Rajbhar.jpg",
+    "licence": null,
+    "author": null,
+    "unverified": true,
+    "note": "Taken from the English Wikipedia infobox; not confirmed that the file is on Commons (and not a local non-free upload), and licence and author were not checked."
+   },
+   "note": "Won Zahoorabad in 2022 as SBSP in alliance with the SP, defeating the BJP candidate; SBSP joined the NDA in 2023 and he was sworn in on March 5, 2024. Also a cabinet minister in the first Yogi government (2017 to May 2019). SBSP president."
+  },
+  {
+   "id": "dara-singh-chauhan",
+   "name": "Dara Singh Chauhan",
+   "hindi_name": "दारा सिंह चौहान",
+   "role": "Cabinet Minister",
+   "party": "BJP",
+   "house": "Legislative Council",
+   "portfolios": [
+    "Prisons"
+   ],
+   "constituency": null,
+   "joined_cabinet": "2024-03-05",
+   "result_2022": null,
+   "mlc_since": "2024-01-23",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Dara_Singh_Chauhan",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thehindu.com/news/national/other-states/up-gets-4-new-ministers-as-adityanath-effects-cabinet-expansion-ahead-of-ls-polls/article67917112.ece"
+   ],
+   "photo": null,
+   "note": "Won Ghosi in 2022 on an SP ticket, resigned in July 2023 to rejoin the BJP, and lost the September 2023 Ghosi by-election to SP's Sudhakar Singh. Elected MLC (by MLAs) in January 2024 and sworn in as cabinet minister on March 5, 2024."
+  },
+  {
+   "id": "anil-kumar",
+   "name": "Anil Kumar",
+   "hindi_name": "अनिल कुमार",
+   "role": "Cabinet Minister",
+   "party": "RLD",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Science and Technology"
+   ],
+   "constituency": "Purqazi",
+   "joined_cabinet": "2024-03-05",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 13,
+    "constituency": "Purqazi",
+    "votes": 92672,
+    "vote_share_pct": 43.09,
+    "runner_up": {
+     "name": "Pramod Utwal",
+     "party": "BJP",
+     "votes": 86140,
+     "vote_share_pct": 40.05
+    },
+    "margin_votes": 6532,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/Purqazi_Assembly_constituency",
+     "https://old.eci.gov.in/files/file/14185-uttar-pradesh-general-legislative-election-2022/"
+    ],
+    "winner_party_2022": "RLD"
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Anil_Kumar_(Uttar_Pradesh_politician)",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thehindu.com/news/national/other-states/up-gets-4-new-ministers-as-adityanath-effects-cabinet-expansion-ahead-of-ls-polls/article67917112.ece"
+   ],
+   "photo": null,
+   "note": "Won in 2022 as RLD candidate in the SP alliance, defeating the BJP; RLD joined the NDA in 2024."
+  },
+  {
+   "id": "sunil-kumar-sharma",
+   "name": "Sunil Kumar Sharma",
+   "hindi_name": "सुनील कुमार शर्मा",
+   "role": "Cabinet Minister",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Information Technology and Electronics"
+   ],
+   "constituency": "Sahibabad",
+   "joined_cabinet": "2024-03-05",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 55,
+    "constituency": "Sahibabad",
+    "votes": 322882,
+    "vote_share_pct": 67.03,
+    "runner_up": {
+     "name": "Amarpal Sharma",
+     "party": "SP",
+     "votes": 108047,
+     "vote_share_pct": 22.43
+    },
+    "margin_votes": 214835,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/Sahibabad_Assembly_constituency",
+     "https://old.eci.gov.in/files/file/14185-uttar-pradesh-general-legislative-election-2022/"
+    ],
+    "winner_party_2022": "BJP"
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Sunil_Kumar_Sharma_(Uttar_Pradesh_politician)",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thehindu.com/news/national/other-states/up-gets-4-new-ministers-as-adityanath-effects-cabinet-expansion-ahead-of-ls-polls/article67917112.ece"
+   ],
+   "photo": {
+    "commons_url": "https://commons.wikimedia.org/wiki/File:SunilKumarSharma.png",
+    "licence": null,
+    "author": null,
+    "unverified": true,
+    "note": "Taken from the English Wikipedia infobox; not confirmed that the file is on Commons (and not a local non-free upload), and licence and author were not checked."
+   },
+   "note": "Sahibabad's 2022 margin (214,835) was the largest in the state."
+  },
+  {
+   "id": "bhupendra-singh-chaudhary",
+   "name": "Bhupendra Singh Chaudhary",
+   "hindi_name": "भूपेंद्र सिंह चौधरी",
+   "role": "Cabinet Minister",
+   "party": "BJP",
+   "house": "Legislative Council",
+   "portfolios": [
+    "Micro, Small and Medium Enterprises"
+   ],
+   "constituency": null,
+   "joined_cabinet": "2026-05-10",
+   "result_2022": null,
+   "mlc_since": "2016-07-07",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Chaudhary_Bhupendra_Singh",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://newsonair.gov.in/up-cm-yogi-adityanath-allocates-portfolios-to-newly-inducted-and-promoted-ministers/",
+    "https://www.inkl.com/news/up-cabinet-expansion-former-bjp-chief-bhupendra-chaudhary-gets-msme-manoj-pandey-to-take-charge-of-food-and-civil-supplies",
+    "https://www.aajtak.in/uttar-pradesh/story/cabinet-expansion-live-updates-yogi-adityanath-new-minister-bhupendra-chaudhary-oath-ceremony-lcly-rpti-2548614-2026-05-10"
+   ],
+   "mlc_since_unverified": true,
+   "name_note": "Usually written Bhupendra Chaudhary.",
+   "photo": {
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Bhupendra_Singh.jpg",
+    "licence": null,
+    "author": null,
+    "unverified": true,
+    "note": "Taken from the English Wikipedia infobox; not confirmed that the file is on Commons (and not a local non-free upload), and licence and author were not checked."
+   },
+   "note": "Panchayati Raj minister in this ministry from March 25 to August 30, 2022, when he left to become UP BJP president (August 2022 to December 13, 2025). Sworn in again as cabinet minister on May 10, 2026; MSME allotted on May 17 or 18, 2026. MLC (elected by MLAs) since July 2016 per Wikipedia."
+  },
+  {
+   "id": "manoj-kumar-pandey",
+   "name": "Manoj Kumar Pandey",
+   "hindi_name": "मनोज कुमार पांडेय",
+   "role": "Cabinet Minister",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Food and Civil Supplies",
+    "Consumer Affairs"
+   ],
+   "constituency": "Unchahar",
+   "joined_cabinet": "2026-05-10",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 183,
+    "constituency": "Unchahar",
+    "votes": 82514,
+    "vote_share_pct": 38.92,
+    "runner_up": {
+     "name": "Amarpal Maurya",
+     "party": "BJP",
+     "votes": 75893,
+     "vote_share_pct": 35.79
+    },
+    "margin_votes": 6621,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/Unchahar_Assembly_constituency",
+     "https://old.eci.gov.in/files/file/14185-uttar-pradesh-general-legislative-election-2022/"
+    ],
+    "winner_party_2022": "SP"
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Manoj_Kumar_Pandey_(politician)",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://newsonair.gov.in/up-cm-yogi-adityanath-allocates-portfolios-to-newly-inducted-and-promoted-ministers/",
+    "https://www.inkl.com/news/up-cabinet-expansion-former-bjp-chief-bhupendra-chaudhary-gets-msme-manoj-pandey-to-take-charge-of-food-and-civil-supplies",
+    "https://www.aajtak.in/uttar-pradesh/story/cabinet-expansion-live-updates-yogi-adityanath-new-minister-bhupendra-chaudhary-oath-ceremony-lcly-rpti-2548614-2026-05-10"
+   ],
+   "portfolios_unverified": true,
+   "party_unverified": true,
+   "photo": null,
+   "note": "Won Unchahar in 2022 as the SP candidate (he was SP chief whip in the assembly). Broke with the SP in the February 2024 Rajya Sabha vote and was later expelled by the SP. Wikipedia's infobox shows him as BJP from 2024 while the ministry table lists him as Independent, and The Economic Times calls him a 'BJP leader'; his formal status in the assembly (BJP member or unattached) was not confirmed. Sworn in as cabinet minister May 10, 2026. 'Consumer Affairs' is from one report (Economic Times via inkl); News on AIR says only Food and Civil Supplies."
+  },
+  {
+   "id": "nitin-agrawal",
+   "name": "Nitin Agrawal",
+   "hindi_name": "नितिन अग्रवाल",
+   "role": "Minister of State (Independent Charge)",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Excise and Prohibition"
+   ],
+   "constituency": "Hardoi",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 156,
+    "constituency": "Hardoi",
+    "votes": 126750,
+    "vote_share_pct": 53.19,
+    "runner_up": {
+     "name": "Anil Verma",
+     "party": "SP",
+     "votes": 84339,
+     "vote_share_pct": 35.39
+    },
+    "margin_votes": 42411,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/2022_Uttar_Pradesh_Legislative_Assembly_election"
+    ],
+    "winner_name_as_listed": "Nitin Agarwal"
+   },
+   "sources": [
+    "https://navbharatlive.com/uttar-pradesh/up-government-minister-portfolio-allocation-live-manoj-pandey-bhupendra-chaudhary-1772834.html",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "photo": {
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Nitin_Agarwal.jpg",
+    "licence": null,
+    "author": null,
+    "unverified": true,
+    "note": "Taken from the English Wikipedia infobox or ministry page; Commons file page and licence not checked (Wikimedia API rate limited). Check before use."
+   }
+  },
+  {
+   "id": "kapil-dev-agarwal",
+   "name": "Kapil Dev Agarwal",
+   "hindi_name": "कपिल देव अग्रवाल",
+   "role": "Minister of State (Independent Charge)",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Vocational Education and Skill Development"
+   ],
+   "constituency": "Muzaffarnagar",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 14,
+    "constituency": "Muzaffarnagar",
+    "votes": 111794,
+    "vote_share_pct": 49.57,
+    "runner_up": {
+     "name": "Saurabh Swaroop",
+     "party": "RLD",
+     "votes": 93100,
+     "vote_share_pct": 41.28
+    },
+    "margin_votes": 18694,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/2022_Uttar_Pradesh_Legislative_Assembly_election"
+    ],
+    "winner_name_as_listed": "Kapil Dev Aggarwal"
+   },
+   "sources": [
+    "https://navbharatlive.com/uttar-pradesh/up-government-minister-portfolio-allocation-live-manoj-pandey-bhupendra-chaudhary-1772834.html",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "photo": {
+    "commons_url": "https://commons.wikimedia.org/wiki/File:KAPIL_DEV.jpg",
+    "licence": null,
+    "author": null,
+    "unverified": true,
+    "note": "Taken from the English Wikipedia infobox or ministry page; Commons file page and licence not checked (Wikimedia API rate limited). Check before use."
+   }
+  },
+  {
+   "id": "ravindra-jaiswal",
+   "name": "Ravindra Jaiswal",
+   "hindi_name": "रवीन्द्र जायसवाल",
+   "role": "Minister of State (Independent Charge)",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Stamp and Court Fees",
+    "Registration"
+   ],
+   "constituency": "Varanasi North",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 388,
+    "constituency": "Varanasi North",
+    "votes": 134471,
+    "vote_share_pct": 54.61,
+    "runner_up": {
+     "name": "Ashfaque",
+     "party": "SP",
+     "votes": 93695,
+     "vote_share_pct": 38.05
+    },
+    "margin_votes": 40776,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/2022_Uttar_Pradesh_Legislative_Assembly_election"
+    ],
+    "winner_name_as_listed": "Ravindra Jaiswal"
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "photo": null
+  },
+  {
+   "id": "sandeep-singh",
+   "name": "Sandeep Singh",
+   "hindi_name": "संदीप सिंह",
+   "role": "Minister of State (Independent Charge)",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Basic Education"
+   ],
+   "constituency": "Atrauli",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 73,
+    "constituency": "Atrauli",
+    "votes": 125691,
+    "vote_share_pct": 52.03,
+    "runner_up": {
+     "name": "Viresh Yadav",
+     "party": "SP",
+     "votes": 86367,
+     "vote_share_pct": 35.75
+    },
+    "margin_votes": 39324,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/2022_Uttar_Pradesh_Legislative_Assembly_election"
+    ],
+    "winner_name_as_listed": "Sandeep Kumar Singh"
+   },
+   "sources": [
+    "https://navbharatlive.com/uttar-pradesh/up-government-minister-portfolio-allocation-live-manoj-pandey-bhupendra-chaudhary-1772834.html",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "photo": null
+  },
+  {
+   "id": "gulab-devi",
+   "name": "Gulab Devi",
+   "hindi_name": "गुलाब देवी",
+   "role": "Minister of State (Independent Charge)",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Secondary Education"
+   ],
+   "constituency": "Chandausi",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 31,
+    "constituency": "Chandausi (SC)",
+    "votes": 112890,
+    "vote_share_pct": 49.53,
+    "runner_up": {
+     "name": "Vimlesh Kumar",
+     "party": "SP",
+     "votes": 77523,
+     "vote_share_pct": 34.01
+    },
+    "margin_votes": 35367,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/2022_Uttar_Pradesh_Legislative_Assembly_election"
+    ],
+    "winner_name_as_listed": "Gulabo Devi"
+   },
+   "sources": [
+    "https://navbharatlive.com/uttar-pradesh/up-government-minister-portfolio-allocation-live-manoj-pandey-bhupendra-chaudhary-1772834.html",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "photo": null,
+   "note": "Listed as Gulabo Devi in the 2022 results table and on Wikipedia."
+  },
+  {
+   "id": "girish-chandra-yadav",
+   "name": "Girish Chandra Yadav",
+   "hindi_name": "गिरीश चंद्र यादव",
+   "role": "Minister of State (Independent Charge)",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Sports and Youth Welfare"
+   ],
+   "constituency": "Jaunpur",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 366,
+    "constituency": "Jaunpur",
+    "votes": 97760,
+    "vote_share_pct": 39.35,
+    "runner_up": {
+     "name": "Mohd. Arshad Khan",
+     "party": "SP",
+     "votes": 89708,
+     "vote_share_pct": 36.11
+    },
+    "margin_votes": 8052,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/2022_Uttar_Pradesh_Legislative_Assembly_election"
+    ],
+    "winner_name_as_listed": "Girish Chandra Yadav"
+   },
+   "sources": [
+    "https://navbharatlive.com/uttar-pradesh/up-government-minister-portfolio-allocation-live-manoj-pandey-bhupendra-chaudhary-1772834.html",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "photo": null
+  },
+  {
+   "id": "dharmveer-prajapati",
+   "name": "Dharmveer Prajapati",
+   "hindi_name": "धर्मवीर प्रजापति",
+   "role": "Minister of State (Independent Charge)",
+   "party": "BJP",
+   "house": "Legislative Council",
+   "portfolios": [
+    "Prisons",
+    "Home Guards",
+    "Civil Defence"
+   ],
+   "constituency": null,
+   "joined_cabinet": "2022-03-25",
+   "result_2022": null,
+   "mlc_since": "2021-01-31",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Dharmveer_Prajapati",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "names_unverified": true,
+   "photo": null,
+   "note": "Elected to the Legislative Council by MLAs in January 2021. Department list differs slightly between sources (Wikipedia: Civil Defence and Home Guards; other lists: Jail and Home Guard)."
+  },
+  {
+   "id": "asim-arun",
+   "name": "Asim Arun",
+   "hindi_name": "असीम अरुण",
+   "role": "Minister of State (Independent Charge)",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Social Welfare",
+    "Scheduled Castes and Tribal Welfare"
+   ],
+   "constituency": "Kannauj",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 198,
+    "constituency": "Kannauj (SC)",
+    "votes": 120876,
+    "vote_share_pct": 44.53,
+    "runner_up": {
+     "name": "Anil Kumar Dohare",
+     "party": "SP",
+     "votes": 114786,
+     "vote_share_pct": 42.29
+    },
+    "margin_votes": 6090,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/2022_Uttar_Pradesh_Legislative_Assembly_election"
+    ],
+    "winner_name_as_listed": "Asim Arun"
+   },
+   "sources": [
+    "https://navbharatlive.com/uttar-pradesh/up-government-minister-portfolio-allocation-live-manoj-pandey-bhupendra-chaudhary-1772834.html",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "photo": {
+    "commons_url": "https://commons.wikimedia.org/wiki/File:AsimArun.jpg",
+    "licence": null,
+    "author": null,
+    "unverified": true,
+    "note": "Taken from the English Wikipedia infobox or ministry page; Commons file page and licence not checked (Wikimedia API rate limited). Check before use."
+   }
+  },
+  {
+   "id": "jayendra-pratap-singh-rathore",
+   "name": "Jayendra Pratap Singh Rathore",
+   "hindi_name": "जयेन्द्र प्रताप सिंह राठौर",
+   "role": "Minister of State (Independent Charge)",
+   "party": "BJP",
+   "house": "Legislative Council",
+   "portfolios": [
+    "Cooperation"
+   ],
+   "constituency": null,
+   "joined_cabinet": "2022-03-25",
+   "result_2022": null,
+   "mlc_since": "2022-07-07",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jayendra_Pratap_Singh_Rathore",
+    "https://navbharatlive.com/uttar-pradesh/up-government-minister-portfolio-allocation-live-manoj-pandey-bhupendra-chaudhary-1772834.html",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "names_unverified": true,
+   "photo": null,
+   "also_known_as": "JPS Rathore",
+   "note": "Sworn in on March 25, 2022 before entering the Legislative Council; MLC date from Wikipedia."
+  },
+  {
+   "id": "dayashankar-singh",
+   "name": "Dayashankar Singh",
+   "hindi_name": "दयाशंकर सिंह",
+   "role": "Minister of State (Independent Charge)",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Transport"
+   ],
+   "constituency": "Ballia Nagar",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 361,
+    "constituency": "Ballia Nagar",
+    "votes": 103873,
+    "vote_share_pct": 51.22,
+    "runner_up": {
+     "name": "Narad Rai",
+     "party": "SP",
+     "votes": 77634,
+     "vote_share_pct": 38.28
+    },
+    "margin_votes": 26239,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/2022_Uttar_Pradesh_Legislative_Assembly_election"
+    ],
+    "winner_name_as_listed": "Daya Shankar Singh"
+   },
+   "sources": [
+    "https://navbharatlive.com/uttar-pradesh/up-government-minister-portfolio-allocation-live-manoj-pandey-bhupendra-chaudhary-1772834.html",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "photo": {
+    "commons_url": "https://commons.wikimedia.org/wiki/File:BJP's_UP_Vice_-_President.jpg",
+    "licence": null,
+    "author": null,
+    "unverified": true,
+    "note": "Taken from the English Wikipedia infobox or ministry page; Commons file page and licence not checked (Wikimedia API rate limited). Check before use."
+   },
+   "note": "Listed as Daya Shankar Singh in the 2022 results table."
+  },
+  {
+   "id": "narendra-kashyap",
+   "name": "Narendra Kashyap",
+   "hindi_name": "नरेन्द्र कश्यप",
+   "role": "Minister of State (Independent Charge)",
+   "party": "BJP",
+   "house": "Legislative Council",
+   "portfolios": [
+    "Backward Classes Welfare",
+    "Divyangjan Empowerment"
+   ],
+   "constituency": null,
+   "joined_cabinet": "2022-03-25",
+   "result_2022": null,
+   "mlc_since": "2022-07-06",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Narendra_Kumar_Kashyap",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "names_unverified": true,
+   "photo": null,
+   "note": "Former Rajya Sabha member; earlier MLC from 1998. Current Council term from July 6, 2022 per Wikipedia."
+  },
+  {
+   "id": "dinesh-pratap-singh",
+   "name": "Dinesh Pratap Singh",
+   "hindi_name": "दिनेश प्रताप सिंह",
+   "role": "Minister of State (Independent Charge)",
+   "party": "BJP",
+   "house": "Legislative Council",
+   "portfolios": [
+    "Horticulture",
+    "Agricultural Marketing",
+    "Agricultural Foreign Trade and Agricultural Exports"
+   ],
+   "constituency": null,
+   "joined_cabinet": "2022-03-25",
+   "result_2022": null,
+   "mlc_since": "2010-01-16",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Dinesh_Pratap_Singh",
+    "https://navbharatlive.com/uttar-pradesh/up-government-minister-portfolio-allocation-live-manoj-pandey-bhupendra-chaudhary-1772834.html",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "photo": null,
+   "note": "MLC from Raebareli Local Authorities since 2010 (first as Congress, BJP since 2018) per Wikipedia; whether his current term began in 2022 was not confirmed. Lost the 2024 Lok Sabha contest in Rae Bareli to Rahul Gandhi.",
+   "mlc_unverified": true
+  },
+  {
+   "id": "arun-kumar-saxena",
+   "name": "Arun Kumar Saxena",
+   "hindi_name": "अरुण कुमार सक्सेना",
+   "role": "Minister of State (Independent Charge)",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Environment, Forest and Climate Change",
+    "Zoological Gardens"
+   ],
+   "constituency": "Bareilly",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 124,
+    "constituency": "Bareilly",
+    "votes": 129014,
+    "vote_share_pct": 53.77,
+    "runner_up": {
+     "name": "Rajesh Aggarwal",
+     "party": "SP",
+     "votes": 96694,
+     "vote_share_pct": 40.3
+    },
+    "margin_votes": 32320,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/2022_Uttar_Pradesh_Legislative_Assembly_election"
+    ],
+    "winner_name_as_listed": "Dr. Arun Kumar Saxena"
+   },
+   "sources": [
+    "https://navbharatlive.com/uttar-pradesh/up-government-minister-portfolio-allocation-live-manoj-pandey-bhupendra-chaudhary-1772834.html",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "photo": null,
+   "note": "Listed as Dr. Arun Kumar Saxena in the 2022 results table."
+  },
+  {
+   "id": "dayashankar-mishra-dayalu",
+   "name": "Dayashankar Mishra 'Dayalu'",
+   "hindi_name": "दयाशंकर मिश्र 'दयालु'",
+   "role": "Minister of State (Independent Charge)",
+   "party": "BJP",
+   "house": "Legislative Council",
+   "portfolios": [
+    "AYUSH"
+   ],
+   "constituency": null,
+   "joined_cabinet": "2022-03-25",
+   "result_2022": null,
+   "mlc_since": null,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Daya_Shankar_Mishra",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "names_unverified": true,
+   "photo": {
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Dr._Dayashankar_Mishra_Dayalu.jpg",
+    "licence": null,
+    "author": null,
+    "unverified": true,
+    "note": "Taken from the English Wikipedia infobox or ministry page; Commons file page and licence not checked (Wikimedia API rate limited). Check before use."
+   },
+   "note": "Until May 2026 he was also Minister of State attached to Food Security and Drug Administration. That department went to Ajit Pal (independent charge) on May 17, 2026; whether Mishra keeps any role there is not confirmed. MLC since 2022 per Wikipedia, exact date not found.",
+   "portfolios_unverified": true,
+   "mlc_since_note": "2022 (exact date not found)"
+  },
+  {
+   "id": "ajit-pal",
+   "name": "Ajit Pal",
+   "hindi_name": "अजीत पाल",
+   "role": "Minister of State (Independent Charge)",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Food Security and Drug Administration",
+    "Political Pension"
+   ],
+   "constituency": "Sikandra",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 207,
+    "constituency": "Sikandra",
+    "votes": 89461,
+    "vote_share_pct": 44.89,
+    "runner_up": {
+     "name": "Prabhakar Pandey",
+     "party": "SP",
+     "votes": 57894,
+     "vote_share_pct": 29.05
+    },
+    "margin_votes": 31567,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/2022_Uttar_Pradesh_Legislative_Assembly_election"
+    ],
+    "winner_name_as_listed": "Ajit Singh Pal"
+   },
+   "sources": [
+    "https://newsonair.gov.in/up-cabinet-expansion-six-bjp-leaders-take-oath-as-ministers/",
+    "https://newsonair.gov.in/up-cm-yogi-adityanath-allocates-portfolios-to-newly-inducted-and-promoted-ministers/",
+    "https://www.deccanherald.com/india/uttar-pradesh/up-cabinet-expansion-six-bjp-leaders-sworn-in-as-ministers-in-yogi-adityanath-govt-3997683",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "names_unverified": true,
+   "photo": null,
+   "also_known_as": "Ajit Singh Pal",
+   "note": "Minister of State (Science and Technology, Electronics and IT) from March 25, 2022; promoted to independent charge on May 10, 2026. Wikipedia gives Political Pension to Somendra Tomar instead; All India Radio gives it to Ajit Pal. Whether he still holds Science and Technology / IT is not stated.",
+   "portfolios_unverified": true,
+   "promoted_to_current_rank": "2026-05-10"
+  },
+  {
+   "id": "somendra-tomar",
+   "name": "Somendra Tomar",
+   "hindi_name": "सोमेंद्र तोमर",
+   "role": "Minister of State (Independent Charge)",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Sainik Kalyan",
+    "Prantiya Rakshak Dal"
+   ],
+   "constituency": "Meerut South",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 49,
+    "constituency": "Meerut South",
+    "votes": 129667,
+    "vote_share_pct": 43.46,
+    "runner_up": {
+     "name": "Md Adil",
+     "party": "SP",
+     "votes": 121725,
+     "vote_share_pct": 40.79
+    },
+    "margin_votes": 7942,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/2022_Uttar_Pradesh_Legislative_Assembly_election"
+    ],
+    "winner_name_as_listed": "Somendra Tomar"
+   },
+   "sources": [
+    "https://newsonair.gov.in/up-cabinet-expansion-six-bjp-leaders-take-oath-as-ministers/",
+    "https://newsonair.gov.in/up-cm-yogi-adityanath-allocates-portfolios-to-newly-inducted-and-promoted-ministers/",
+    "https://www.deccanherald.com/india/uttar-pradesh/up-cabinet-expansion-six-bjp-leaders-sworn-in-as-ministers-in-yogi-adityanath-govt-3997683",
+    "https://navbharatlive.com/uttar-pradesh/up-government-minister-portfolio-allocation-live-manoj-pandey-bhupendra-chaudhary-1772834.html",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "photo": null,
+   "note": "Minister of State (Energy and Additional Sources of Energy) from March 25, 2022; promoted to independent charge on May 10, 2026. Energy MoS role went to Kailash Singh Rajput.",
+   "portfolios_unverified": true,
+   "promoted_to_current_rank": "2026-05-10"
+  },
+  {
+   "id": "mayankeshwar-sharan-singh",
+   "name": "Mayankeshwar Sharan Singh",
+   "hindi_name": "मयंकेश्वर शरण सिंह",
+   "role": "Minister of State",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Parliamentary Affairs",
+    "Medical Education",
+    "Medical Health and Family Welfare",
+    "Maternal and Child Welfare"
+   ],
+   "constituency": "Tiloi",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 178,
+    "constituency": "Tiloi",
+    "votes": 99472,
+    "vote_share_pct": 48.54,
+    "runner_up": {
+     "name": "Mohd Naim",
+     "party": "SP",
+     "votes": 71643,
+     "vote_share_pct": 34.96
+    },
+    "margin_votes": 27829,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/2022_Uttar_Pradesh_Legislative_Assembly_election"
+    ],
+    "winner_name_as_listed": "Mayankeshwar Sharan Singh"
+   },
+   "sources": [
+    "https://navbharatlive.com/uttar-pradesh/up-government-minister-portfolio-allocation-live-manoj-pandey-bhupendra-chaudhary-1772834.html",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "photo": null
+  },
+  {
+   "id": "dinesh-khatik",
+   "name": "Dinesh Khatik",
+   "hindi_name": "दिनेश खटीक",
+   "role": "Minister of State",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Jal Shakti"
+   ],
+   "constituency": "Hastinapur",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 45,
+    "constituency": "Hastinapur (SC)",
+    "votes": 107587,
+    "vote_share_pct": 46.72,
+    "runner_up": {
+     "name": "Yogesh Verma",
+     "party": "SP",
+     "votes": 100275,
+     "vote_share_pct": 43.55
+    },
+    "margin_votes": 7312,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/2022_Uttar_Pradesh_Legislative_Assembly_election"
+    ],
+    "winner_name_as_listed": "Dinesh Khatik"
+   },
+   "sources": [
+    "https://navbharatlive.com/uttar-pradesh/up-government-minister-portfolio-allocation-live-manoj-pandey-bhupendra-chaudhary-1772834.html",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "photo": null,
+   "note": "Sent a resignation letter in July 2022 alleging he was ignored as a Dalit minister, but stayed in office. Some lists still mark him 'resigned'; he was given district in-charge duties in May 2026, so he is treated as serving."
+  },
+  {
+   "id": "sanjeev-gond",
+   "name": "Sanjeev Gond",
+   "hindi_name": "संजीव गोंड",
+   "role": "Minister of State",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Social Welfare",
+    "Scheduled Castes and Tribal Welfare"
+   ],
+   "constituency": "Obra",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 402,
+    "constituency": "Obra (ST)",
+    "votes": 78364,
+    "vote_share_pct": 48.04,
+    "runner_up": {
+     "name": "Arvind Kumar",
+     "party": "SP",
+     "votes": 51922,
+     "vote_share_pct": 31.83
+    },
+    "margin_votes": 26442,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/2022_Uttar_Pradesh_Legislative_Assembly_election"
+    ],
+    "winner_name_as_listed": "Sanjeev Kumar Gond"
+   },
+   "sources": [
+    "https://navbharatlive.com/uttar-pradesh/up-government-minister-portfolio-allocation-live-manoj-pandey-bhupendra-chaudhary-1772834.html",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "photo": null,
+   "note": "Listed as Sanjeev Kumar Gond in the 2022 results table."
+  },
+  {
+   "id": "baldev-singh-aulakh",
+   "name": "Baldev Singh Aulakh",
+   "hindi_name": "बलदेव सिंह औलख",
+   "role": "Minister of State",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Agriculture",
+    "Agricultural Education and Research"
+   ],
+   "constituency": "Bilaspur",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 36,
+    "constituency": "Bilaspur",
+    "votes": 101998,
+    "vote_share_pct": 43.17,
+    "runner_up": {
+     "name": "Amarjit Singh",
+     "party": "SP",
+     "votes": 101691,
+     "vote_share_pct": 43.04
+    },
+    "margin_votes": 307,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/2022_Uttar_Pradesh_Legislative_Assembly_election"
+    ],
+    "winner_name_as_listed": "Baldev Singh Aulakh"
+   },
+   "sources": [
+    "https://navbharatlive.com/uttar-pradesh/up-government-minister-portfolio-allocation-live-manoj-pandey-bhupendra-chaudhary-1772834.html",
+    "https://en.wikipedia.org/wiki/Bilaspur,_Uttar_Pradesh_Assembly_constituency",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "photo": null,
+   "note": "Won Bilaspur by 307 votes, one of the closest results of 2022 (cross-checked against the constituency page, which cites ECI)."
+  },
+  {
+   "id": "jaswant-saini",
+   "name": "Jaswant Saini",
+   "hindi_name": "जसवंत सैनी",
+   "role": "Minister of State",
+   "party": "BJP",
+   "house": "Legislative Council",
+   "portfolios": [
+    "Parliamentary Affairs",
+    "Industrial Development"
+   ],
+   "constituency": null,
+   "joined_cabinet": "2022-03-25",
+   "result_2022": null,
+   "mlc_since": "2022-07-06",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jaswant_Singh_Saini",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "names_unverified": true,
+   "photo": null
+  },
+  {
+   "id": "ramkesh-nishad",
+   "name": "Ramkesh Nishad",
+   "hindi_name": "रामकेश निषाद",
+   "role": "Minister of State",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Jal Shakti"
+   ],
+   "constituency": "Tindwari",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 232,
+    "constituency": "Tindwari",
+    "votes": 86812,
+    "vote_share_pct": 44.24,
+    "runner_up": {
+     "name": "Brijesh Prajapati",
+     "party": "SP",
+     "votes": 58387,
+     "vote_share_pct": 29.76
+    },
+    "margin_votes": 28425,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/2022_Uttar_Pradesh_Legislative_Assembly_election"
+    ],
+    "winner_name_as_listed": "Ramakesh Nishad"
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "names_unverified": true,
+   "photo": null,
+   "note": "Listed as Ramakesh Nishad in the 2022 results table."
+  },
+  {
+   "id": "manohar-lal-mannu-kori",
+   "name": "Manohar Lal Mannu Kori",
+   "hindi_name": "मनोहर लाल मन्नू कोरी",
+   "role": "Minister of State",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Labour and Employment"
+   ],
+   "constituency": "Mehroni",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 227,
+    "constituency": "Mehroni (SC)",
+    "votes": 184778,
+    "vote_share_pct": 54.86,
+    "runner_up": {
+     "name": "Kiran Ramesh Khatik",
+     "party": "BSP",
+     "votes": 74327,
+     "vote_share_pct": 22.07
+    },
+    "margin_votes": 110451,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/2022_Uttar_Pradesh_Legislative_Assembly_election"
+    ],
+    "winner_name_as_listed": "Manohar Lal Panth"
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "names_unverified": true,
+   "photo": null,
+   "note": "Listed as Manohar Lal Panth in the 2022 results table."
+  },
+  {
+   "id": "sanjay-singh-gangwar",
+   "name": "Sanjay Singh Gangwar",
+   "hindi_name": "संजय सिंह गंगवार",
+   "role": "Minister of State",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Sugarcane Development and Sugar Mills"
+   ],
+   "constituency": "Pilibhit",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 127,
+    "constituency": "Pilibhit",
+    "votes": 125506,
+    "vote_share_pct": 48.08,
+    "runner_up": {
+     "name": "Shailendra Gangwar",
+     "party": "SP",
+     "votes": 118536,
+     "vote_share_pct": 45.41
+    },
+    "margin_votes": 6970,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/2022_Uttar_Pradesh_Legislative_Assembly_election"
+    ],
+    "winner_name_as_listed": "Sanjay Singh Gangwar"
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "names_unverified": true,
+   "photo": {
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Sanjay_singh_gangwar.jpg",
+    "licence": null,
+    "author": null,
+    "unverified": true,
+    "note": "Taken from the English Wikipedia infobox or ministry page; Commons file page and licence not checked (Wikimedia API rate limited). Check before use."
+   }
+  },
+  {
+   "id": "brijesh-singh",
+   "name": "Brijesh Singh",
+   "hindi_name": "बृजेश सिंह",
+   "role": "Minister of State",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Public Works Department"
+   ],
+   "constituency": "Deoband",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 5,
+    "constituency": "Deoband",
+    "votes": 93890,
+    "vote_share_pct": 38.77,
+    "runner_up": {
+     "name": "Kartikeya Rana",
+     "party": "SP",
+     "votes": 86786,
+     "vote_share_pct": 35.83
+    },
+    "margin_votes": 7104,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/2022_Uttar_Pradesh_Legislative_Assembly_election"
+    ],
+    "winner_name_as_listed": "Th. Brijesh Singh"
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "photo": {
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Brijeshsinghmla.jpg",
+    "licence": null,
+    "author": null,
+    "unverified": true,
+    "note": "Taken from the English Wikipedia infobox or ministry page; Commons file page and licence not checked (Wikimedia API rate limited). Check before use."
+   },
+   "note": "Listed as Th. Brijesh Singh in the 2022 results table."
+  },
+  {
+   "id": "k-p-malik",
+   "name": "K.P. Malik",
+   "hindi_name": "के.पी. मलिक",
+   "role": "Minister of State",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Environment, Forest and Climate Change",
+    "Zoological Gardens"
+   ],
+   "constituency": "Baraut",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 51,
+    "constituency": "Baraut",
+    "votes": 90931,
+    "vote_share_pct": 46.34,
+    "runner_up": {
+     "name": "Ch. Jaiveer Singh Tomar",
+     "party": "RLD",
+     "votes": 90616,
+     "vote_share_pct": 46.18
+    },
+    "margin_votes": 315,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/2022_Uttar_Pradesh_Legislative_Assembly_election"
+    ],
+    "winner_name_as_listed": "Krishnapal Malik"
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Baraut_Assembly_constituency",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "names_unverified": true,
+   "photo": null,
+   "also_known_as": "Krishnapal Malik",
+   "note": "Won Baraut by 315 votes (cross-checked against the constituency page, which cites ECI)."
+  },
+  {
+   "id": "suresh-rahi",
+   "name": "Suresh Rahi",
+   "hindi_name": "सुरेश राही",
+   "role": "Minister of State",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Prisons"
+   ],
+   "constituency": "Hargaon",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 147,
+    "constituency": "Hargaon (SC)",
+    "votes": 116691,
+    "vote_share_pct": 52.46,
+    "runner_up": {
+     "name": "Ramhet Bharti",
+     "party": "SP",
+     "votes": 78531,
+     "vote_share_pct": 35.31
+    },
+    "margin_votes": 38160,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/2022_Uttar_Pradesh_Legislative_Assembly_election"
+    ],
+    "winner_name_as_listed": "Suresh Rahi"
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "names_unverified": true,
+   "photo": null
+  },
+  {
+   "id": "pratibha-shukla",
+   "name": "Pratibha Shukla",
+   "hindi_name": "प्रतिभा शुक्ला",
+   "role": "Minister of State",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Women Welfare",
+    "Child Development and Nutrition"
+   ],
+   "constituency": "Akbarpur-Raniya",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 206,
+    "constituency": "Akbarpur-Raniya",
+    "votes": 92827,
+    "vote_share_pct": 43.82,
+    "runner_up": {
+     "name": "Dr. Ram Prakash Kushwaha",
+     "party": "SP",
+     "votes": 79410,
+     "vote_share_pct": 37.49
+    },
+    "margin_votes": 13417,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/2022_Uttar_Pradesh_Legislative_Assembly_election"
+    ],
+    "winner_name_as_listed": "Pratibha Shukla"
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "names_unverified": true,
+   "photo": null
+  },
+  {
+   "id": "rakesh-rathore-guru",
+   "name": "Rakesh Rathore Guru",
+   "hindi_name": "राकेश राठौर गुरु",
+   "role": "Minister of State",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Urban Development",
+    "Urban Employment and Poverty Alleviation"
+   ],
+   "constituency": "Sitapur",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 146,
+    "constituency": "Sitapur",
+    "votes": 99349,
+    "vote_share_pct": 42.72,
+    "runner_up": {
+     "name": "Radhe Shyam Jaiswal",
+     "party": "SP",
+     "votes": 98096,
+     "vote_share_pct": 42.18
+    },
+    "margin_votes": 1253,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/2022_Uttar_Pradesh_Legislative_Assembly_election"
+    ],
+    "winner_name_as_listed": "Rakesh Rathour"
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "names_unverified": true,
+   "photo": null,
+   "note": "Listed as Rakesh Rathour in the 2022 results table."
+  },
+  {
+   "id": "rajni-tiwari",
+   "name": "Rajni Tiwari",
+   "hindi_name": "रजनी तिवारी",
+   "role": "Minister of State",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Higher Education"
+   ],
+   "constituency": "Shahabad",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 155,
+    "constituency": "Shahabad",
+    "votes": 94561,
+    "vote_share_pct": 40.49,
+    "runner_up": {
+     "name": "Asif Khan Babbu",
+     "party": "SP",
+     "votes": 88082,
+     "vote_share_pct": 37.72
+    },
+    "margin_votes": 6479,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/2022_Uttar_Pradesh_Legislative_Assembly_election"
+    ],
+    "winner_name_as_listed": "Rajani Tiwari"
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "photo": null
+  },
+  {
+   "id": "satish-chandra-sharma",
+   "name": "Satish Chandra Sharma",
+   "hindi_name": "सतीश चंद्र शर्मा",
+   "role": "Minister of State",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Food and Civil Supplies"
+   ],
+   "constituency": "Dariyabad",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 270,
+    "constituency": "Dariyabad",
+    "votes": 127983,
+    "vote_share_pct": 46.87,
+    "runner_up": {
+     "name": "Arvind Kumar Singh Gope",
+     "party": "SP",
+     "votes": 95366,
+     "vote_share_pct": 35.03
+    },
+    "margin_votes": 32617,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/2022_Uttar_Pradesh_Legislative_Assembly_election"
+    ],
+    "winner_name_as_listed": "Satish Sharma"
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "names_unverified": true,
+   "photo": null,
+   "note": "Food and Civil Supplies went to new Cabinet Minister Manoj Pandey in May 2026; Sharma is presumably still MoS attached to it, not confirmed."
+  },
+  {
+   "id": "danish-azad-ansari",
+   "name": "Danish Azad Ansari",
+   "hindi_name": "दानिश आज़ाद अंसारी",
+   "role": "Minister of State",
+   "party": "BJP",
+   "house": "Legislative Council",
+   "portfolios": [
+    "Minority Welfare",
+    "Muslim Waqf and Haj"
+   ],
+   "constituency": null,
+   "joined_cabinet": "2022-03-25",
+   "result_2022": null,
+   "mlc_since": "2022-07-06",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Danish_Azad_Ansari",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "photo": {
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Danish_Azad_Ansari_Minister_of_State.jpg",
+    "licence": null,
+    "author": null,
+    "unverified": true,
+    "note": "Taken from the English Wikipedia infobox or ministry page; Commons file page and licence not checked (Wikimedia API rate limited). Check before use."
+   },
+   "note": "Only Muslim member of the council of ministers."
+  },
+  {
+   "id": "vijay-laxmi-gautam",
+   "name": "Vijay Laxmi Gautam",
+   "hindi_name": "विजय लक्ष्मी गौतम",
+   "role": "Minister of State",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Rural Development",
+    "Samagra Gram Vikas",
+    "Rural Engineering"
+   ],
+   "constituency": "Salempur",
+   "joined_cabinet": "2022-03-25",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 341,
+    "constituency": "Salempur (SC)",
+    "votes": 82047,
+    "vote_share_pct": 46.15,
+    "runner_up": {
+     "name": "Manbodh Prasad",
+     "party": "SBSP",
+     "votes": 65439,
+     "vote_share_pct": 36.8
+    },
+    "margin_votes": 16608,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/2022_Uttar_Pradesh_Legislative_Assembly_election"
+    ],
+    "winner_name_as_listed": "Vijay Laxmi Gautam"
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "photo": {
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Vijay_Laxmi_Gautam.jpg",
+    "licence": null,
+    "author": null,
+    "unverified": true,
+    "note": "Taken from the English Wikipedia infobox or ministry page; Commons file page and licence not checked (Wikimedia API rate limited). Check before use."
+   }
+  },
+  {
+   "id": "krishna-paswan",
+   "name": "Krishna Paswan",
+   "hindi_name": "कृष्णा पासवान",
+   "role": "Minister of State",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Animal Husbandry and Dairy Development"
+   ],
+   "constituency": "Khaga",
+   "joined_cabinet": "2026-05-10",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 243,
+    "constituency": "Khaga (SC)",
+    "votes": 83735,
+    "vote_share_pct": 41.87,
+    "runner_up": {
+     "name": "Ramthirth Paramhans",
+     "party": "SP",
+     "votes": 78226,
+     "vote_share_pct": 39.12
+    },
+    "margin_votes": 5509,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/2022_Uttar_Pradesh_Legislative_Assembly_election"
+    ],
+    "winner_name_as_listed": "Krishna Paswan"
+   },
+   "sources": [
+    "https://newsonair.gov.in/up-cabinet-expansion-six-bjp-leaders-take-oath-as-ministers/",
+    "https://newsonair.gov.in/up-cm-yogi-adityanath-allocates-portfolios-to-newly-inducted-and-promoted-ministers/",
+    "https://www.deccanherald.com/india/uttar-pradesh/up-cabinet-expansion-six-bjp-leaders-sworn-in-as-ministers-in-yogi-adityanath-govt-3997683",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "names_unverified": true,
+   "photo": null,
+   "note": "Only woman among the six inducted on May 10, 2026.",
+   "order_unverified": true
+  },
+  {
+   "id": "kailash-singh-rajput",
+   "name": "Kailash Singh Rajput",
+   "hindi_name": "कैलाश सिंह राजपूत",
+   "role": "Minister of State",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Energy and Additional Sources of Energy"
+   ],
+   "constituency": "Tirwa",
+   "joined_cabinet": "2026-05-10",
+   "result_2022": {
+    "election": "2022 general",
+    "ac_number": 197,
+    "constituency": "Tirwa",
+    "votes": 106089,
+    "vote_share_pct": 44.51,
+    "runner_up": {
+     "name": "Anil Kumar Pal",
+     "party": "SP",
+     "votes": 101481,
+     "vote_share_pct": 42.57
+    },
+    "margin_votes": 4608,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/2022_Uttar_Pradesh_Legislative_Assembly_election"
+    ],
+    "winner_name_as_listed": "Kailash Singh Rajput"
+   },
+   "sources": [
+    "https://newsonair.gov.in/up-cabinet-expansion-six-bjp-leaders-take-oath-as-ministers/",
+    "https://newsonair.gov.in/up-cm-yogi-adityanath-allocates-portfolios-to-newly-inducted-and-promoted-ministers/",
+    "https://www.deccanherald.com/india/uttar-pradesh/up-cabinet-expansion-six-bjp-leaders-sworn-in-as-ministers-in-yogi-adityanath-govt-3997683",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "names_unverified": true,
+   "photo": null,
+   "order_unverified": true
+  },
+  {
+   "id": "surendra-diler",
+   "name": "Surendra Diler",
+   "hindi_name": "सुरेंद्र दिलेर",
+   "role": "Minister of State",
+   "party": "BJP",
+   "house": "Legislative Assembly",
+   "portfolios": [
+    "Revenue"
+   ],
+   "constituency": "Khair",
+   "joined_cabinet": "2026-05-10",
+   "result_2022": {
+    "election": "2024 by-election",
+    "date": "2024-11-20",
+    "ac_number": 71,
+    "constituency": "Khair",
+    "votes": 100181,
+    "vote_share_pct": 54.0,
+    "runner_up": {
+     "name": "Charu Kain",
+     "party": "SP",
+     "votes": 61788,
+     "vote_share_pct": 33.31
+    },
+    "margin_votes": 38393,
+    "provisional_eci_counts": true,
+    "sources": [
+     "https://en.wikipedia.org/wiki/Khair_Assembly_constituency",
+     "https://en.wikipedia.org/wiki/2022_Uttar_Pradesh_Legislative_Assembly_election"
+    ],
+    "note": "Khair fell vacant when Anoop Pradhan 'Valmiki' (BJP, MoS Revenue) was elected to the Lok Sabha from Hathras in June 2024. In 2022 Pradhan won Khair with 139,643 votes over Charu Kain (BSP, 65,302)."
+   },
+   "sources": [
+    "https://newsonair.gov.in/up-cabinet-expansion-six-bjp-leaders-take-oath-as-ministers/",
+    "https://newsonair.gov.in/up-cm-yogi-adityanath-allocates-portfolios-to-newly-inducted-and-promoted-ministers/",
+    "https://www.deccanherald.com/india/uttar-pradesh/up-cabinet-expansion-six-bjp-leaders-sworn-in-as-ministers-in-yogi-adityanath-govt-3997683",
+    "https://en.wikipedia.org/wiki/Khair_Assembly_constituency",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "names_unverified": true,
+   "photo": null,
+   "also_known_as": "Surender Diler",
+   "order_unverified": true
+  },
+  {
+   "id": "hansraj-vishwakarma",
+   "name": "Hansraj Vishwakarma",
+   "hindi_name": "हंसराज विश्वकर्मा",
+   "role": "Minister of State",
+   "party": "BJP",
+   "house": "Legislative Council",
+   "portfolios": [
+    "Micro, Small and Medium Enterprises"
+   ],
+   "constituency": null,
+   "joined_cabinet": "2026-05-10",
+   "result_2022": null,
+   "mlc_since": null,
+   "sources": [
+    "https://newsonair.gov.in/up-cabinet-expansion-six-bjp-leaders-take-oath-as-ministers/",
+    "https://newsonair.gov.in/up-cm-yogi-adityanath-allocates-portfolios-to-newly-inducted-and-promoted-ministers/",
+    "https://www.amarujala.com/lucknow/up-cabinet-expansion-hansraj-vishwakarma-hailing-from-varanasi-becomes-minister-of-state-2026-05-10",
+    "https://www.amarujala.com/uttar-pradesh/varanasi/politics-bjp-members-express-joy-distribute-sweets-over-hansraj-vishwakarma-appointment-minister-of-state-2026-05-11",
+    "https://en.wikipedia.org/wiki/Second_Yogi_Adityanath_ministry",
+    "https://www.thecurrentindia.com/govt/ministers-of-up-yogi-2-0"
+   ],
+   "photo": null,
+   "note": "MLC (Varanasi region) and BJP Varanasi district president for about ten years, per Amar Ujala. Date he entered the Council was not found.",
+   "mlc_unverified": true,
+   "order_unverified": true
+  }
+ ]
+}

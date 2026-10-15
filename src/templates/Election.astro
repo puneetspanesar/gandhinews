@@ -3,7 +3,7 @@
 // seats and margins, how the House changed, the issues and the five years in between.
 import Base from '../layouts/Base.astro';
 import Icon from '../components/Icon.astro';
-import { ELECTIONS, partyOf, portrait, translator, initials, num } from '../lib/elections';
+import { ELECTIONS, PARTY, partyOf, portrait, translator, initials, num } from '../lib/elections';
 import { content, prefix, urlOf, kicker, fmtDate } from '../lib/site';
 import { UI, type Lang } from '../lib/i18n';
 import { SITE_URL } from '../lib/site';
@@ -20,6 +20,8 @@ const S = E.name[lang];
 const L = (en: string, h: string) => (hi ? h : en);
 const pn = (k: string) => (hi ? partyOf(k).hi : partyOf(k).short);
 const nameOf = (o: any) => (hi ? o.hindi_name ?? tr(o.name) : o.name);
+const pt = (id: string) => portrait(E.pp + id);
+const big = (d.election.total_seats ?? 0) > 200;
 
 const el = d.election;
 const r22 = el.result_2022;
@@ -31,25 +33,33 @@ const shares = r22.parties.filter((x: any) => x.vote_share_pct && x.party !== 'N
 const maxShare = Math.max(...shares.map((x: any) => x.vote_share_pct));
 const now = el.current_house_position;
 const nowRows = Object.entries(now.effective as Record<string, number>).map(([k, v]) => ({
-  k, v, label: k === 'INC_suspended_listed_independent' ? L('Suspended Congress MLAs', 'निलंबित कांग्रेस विधायक') : k === 'Akali Dal (Waris Punjab De)' ? tr(k) : pn(k),
-  color: k.startsWith('INC_') ? '#9ccfee' : k.startsWith('Akali Dal (W') ? '#6a7bb5' : partyOf(k).color,
+  k, v, label: k === 'INC_suspended_listed_independent' ? L('Suspended Congress MLAs', 'निलंबित कांग्रेस विधायक') : k === 'SP_expelled_backing_NDA' ? L('Expelled SP MLAs backing the NDA', 'सपा से निकाले गए विधायक, एनडीए के साथ') : k === 'Vacant' ? L('Vacant seats', 'खाली सीटें') : k === 'Akali Dal (Waris Punjab De)' ? tr(k) : pn(k),
+  color: k.startsWith('INC_') ? '#9ccfee' : k.startsWith('SP_') ? '#f0a3a8' : k === 'Vacant' ? '#d9d9d6' : k.startsWith('Akali Dal (W') ? '#6a7bb5' : partyOf(k).color,
 }));
 const waffle = seats22.flatMap((x: any) => Array.from({ length: x.seats }, () => partyOf(x.party).color));
 
 const c = (await content())[lang];
-const related = c.articles.filter((e: any) => /punjab|पंजाब|\bmann\b|मान/i.test(`${e.data.title} ${e.data.format_label}`)).slice(0, 6);
+const related = c.articles.filter((e: any) => E.related.test(`${e.data.title} ${e.data.format_label}`)).slice(0, 6);
+const ROLES = [
+  ['Deputy Chief Minister', 'Deputy Chief Ministers', 'उपमुख्यमंत्री'],
+  ['Cabinet Minister', 'Cabinet ministers', 'कैबिनेट मंत्री'],
+  ['Minister of State (Independent Charge)', 'Ministers of State (Independent Charge)', 'राज्य मंत्री (स्वतंत्र प्रभार)'],
+  ['Minister of State', 'Ministers of State', 'राज्य मंत्री'],
+];
+const groups = ROLES.map(([k, en, h]) => ({ en, h, list: mins.filter((m: any) => (m.role ?? 'Cabinet Minister') === k) })).filter((g) => g.list.length);
+const showGroups = groups.length > 1;
 
 const title = L(`${S} Assembly election 2027`, `${S} विधानसभा चुनाव 2027`);
 const desc = L(
-  `Punjab votes in ${el.expected_election_window}. Who governs now, every minister's seat and 2022 margin, how the House changed, and the issues.`,
-  `पंजाब में चुनाव ${tr(el.expected_election_window)} में होने हैं। अभी सरकार किसकी है, हर मंत्री की सीट और 2022 का अंतर, सदन में क्या बदला और मुद्दे क्या हैं।`,
+  `${S} votes in ${el.expected_election_window}. Who governs now, every minister's seat and 2022 margin, how the House changed, and the issues.`,
+  `${S} में चुनाव ${tr(el.expected_election_window)} में होने हैं। अभी सरकार किसकी है, हर मंत्री की सीट और 2022 का अंतर, सदन में क्या बदला और मुद्दे क्या हैं।`,
 );
 const crumbs = [{ name: t.home, href: `${p}/` }, { name: L('Elections 2027', 'चुनाव 2027'), href: `${p}/elections/` }, { name: S, href: route }];
 const ld = [{ '@context': 'https://schema.org', '@type': 'WebPage', name: title, description: desc, url: `${SITE_URL}${route}`, inLanguage: hi ? 'hi-IN' : 'en-IN', about: { '@type': 'Event', name: title, location: { '@type': 'Place', name: S } } }];
 
-const shareLabel = (k: string) => (k in { AAP: 1, INC: 1, SAD: 1, BJP: 1, BSP: 1, IND: 1 } ? pn(k) : tr(k).replace(/\s*\(incl.*\)$/, '').replace(/\s*\(.*सहित\)$/, ''));
+const shareLabel = (k: string) => (k in PARTY ? pn(k) : tr(k).replace(/\s*\(incl.*\)$/, '').replace(/\s*\(.*सहित\)$/, ''));
 const termEnd = (() => { const [y, m] = el.term_end.split('-'); const M = hi ? ['जनवरी','फ़रवरी','मार्च','अप्रैल','मई','जून','जुलाई','अगस्त','सितंबर','अक्टूबर','नवंबर','दिसंबर'] : ['January','February','March','April','May','June','July','August','September','October','November','December']; return `${M[+m - 1]} ${y}`; })();
-const card = (o: any, role: string, id?: string) => ({ o, role, ph: id ? portrait(id) : null });
+const card = (o: any, role: string, id?: string) => ({ o, role, ph: id ? pt(id) : null });
 ---
 <Base lang={lang} title={title} description={desc} path={route} crumbs={crumbs} active="" jsonld={ld}>
 <div class="elx w">
@@ -71,14 +81,14 @@ const card = (o: any, role: string, id?: string) => ({ o, role, ph: id ? portrai
     <div class="sh"><h2 id="gov-h">{L('Who governs now', 'अभी सरकार किसकी')}</h2></div>
     <div class="gov">
       <article class="cmc">
-        {portrait('cm') ? <img class="pt lg" src={portrait('cm').src} alt={nameOf(cm)} loading="eager" /> : <span class="pt lg ini" style={`background:${partyOf(cm.party).color}`}>{initials(cm.name)}</span>}
+        {pt('cm') ? <img class="pt lg" src={pt('cm').src} alt={nameOf(cm)} loading="eager" /> : <span class="pt lg ini" style={`background:${partyOf(cm.party).color}`}>{initials(cm.name)}</span>}
         <div>
           <span class="role">{L('Chief Minister', 'मुख्यमंत्री')}</span>
           <h3>{nameOf(cm)}</h3>
           <span class="pty" style={`--pc:${partyOf(cm.party).color}`}>{partyOf(cm.party).icon && <Icon name={partyOf(cm.party).icon!} />}{pn(cm.party)}</span>
           <p class="m">{L(`MLA from ${cm.constituency}. Sworn in on ${fmtDate(cm.sworn_in, lang)} at ${cm.sworn_in_place}.`, `${tr(cm.constituency)} से विधायक। ${fmtDate(cm.sworn_in, lang)} को ${tr(cm.sworn_in_place)} में शपथ ली।`)}</p>
           <p class="mg">{L('Won by', 'जीत का अंतर')} <b class="num">{num(cm.result_2022.margin_votes, lang)}</b> {L('votes in 2022', 'वोट, 2022 में')} · {cm.result_2022.vote_share_pct}%</p>
-          {portrait('cm') && <p class="cr">{portrait('cm').credit}</p>}
+          {pt('cm') && <p class="cr">{pt('cm').credit}</p>}
         </div>
       </article>
       <div class="offs">
@@ -97,7 +107,7 @@ const card = (o: any, role: string, id?: string) => ({ o, role, ph: id ? portrai
     <div class="v22">
       <div>
         <h3 class="st">{L('Seats won', 'जीती गई सीटें')}</h3>
-        <div class="waf" role="img" aria-label={seats22.map((x: any) => `${pn(x.party)} ${x.seats}`).join(', ')}>{waffle.map((col: string) => <i style={`background:${col}`}></i>)}</div>
+        <div class={`waf${big ? ' big' : ''}`} role="img" aria-label={seats22.map((x: any) => `${pn(x.party)} ${x.seats}`).join(', ')}>{waffle.map((col: string) => <i style={`background:${col}`}></i>)}</div>
         <ul class="leg">{seats22.map((x: any) => <li><i style={`background:${partyOf(x.party).color}`}></i>{partyOf(x.party).icon && <Icon name={partyOf(x.party).icon!} />}<span>{pn(x.party)}</span><b class="num">{x.seats}</b></li>)}</ul>
       </div>
       <div>
@@ -111,9 +121,12 @@ const card = (o: any, role: string, id?: string) => ({ o, role, ph: id ? portrai
 
   <section class="sec" aria-labelledby="min-h">
     <div class="sh"><h2 id="min-h">{L('The council of ministers', 'मंत्रिपरिषद')}</h2><span class="x">{L(`Chief Minister and ${mins.length} ministers, as of October 2026`, `मुख्यमंत्री और ${mins.length} मंत्री, अक्टूबर 2026 तक`)}</span></div>
-    <div class="mins">
-      {mins.map((m: any) => {
-        const ph = portrait(m.id);
+    {groups.map((g) => (
+      <>
+        {showGroups && <h3 class="mgh">{L(g.en, g.h)} <span class="num">{g.list.length}</span></h3>}
+        <div class="mins">
+      {g.list.map((m: any) => {
+        const ph = pt(m.id);
         const r = m.result_2022;
         const won = m.seat_won_in;
         return (
@@ -123,14 +136,15 @@ const card = (o: any, role: string, id?: string) => ({ o, role, ph: id ? portrai
               <div>
                 <h3>{nameOf(m)}</h3>
                 <span class="pty sm" style={`--pc:${partyOf(m.party).color}`}>{partyOf(m.party).icon && <Icon name={partyOf(m.party).icon!} />}{pn(m.party)}</span>
-                <span class="seat"><Icon name="map-pin" />{tr(m.constituency)}</span>
+                {m.constituency ? <span class="seat"><Icon name="map-pin" />{tr(m.constituency)}</span> : <span class="seat"><Icon name="bank" />{L('Member of the Legislative Council', 'विधान परिषद सदस्य')}</span>}
               </div>
             </div>
-            {m.portfolios?.length ? <ul class="pf">{m.portfolios.map((x: string) => <li>{tr(x)}</li>)}</ul> : <p class="note">{L('No portfolio since 11 May 2026; in Enforcement Directorate custody.', '11 मई 2026 से कोई विभाग नहीं; प्रवर्तन निदेशालय की हिरासत में।')}</p>}
+            {m.portfolios?.length ? <ul class="pf">{m.portfolios.map((x: string) => <li>{tr(x)}</li>)}</ul> : state === 'punjab' ? <p class="note">{L('No portfolio since 11 May 2026; in Enforcement Directorate custody.', '11 मई 2026 से कोई विभाग नहीं; प्रवर्तन निदेशालय की हिरासत में।')}</p> : null}
             <div class="res">
               {r && r.margin_votes && r.runner_up && !r.winner_2022 && <>
-                <span class="rl">{L('2022 result', '2022 का नतीजा')}</span>
+                <span class="rl">{r.election && /by-election/.test(r.election) ? L(`Won in the ${r.election.slice(0, 4)} by-election`, `${r.election.slice(0, 4)} के उपचुनाव में जीत`) : L('2022 result', '2022 का नतीजा')}</span>
                 <p>{L('Won by', 'जीत')} <b class="num">{num(r.margin_votes, lang)}</b> {L('votes', 'वोट से')} <span class="vsh">({r.vote_share_pct}%)</span></p>
+                {r.winner_party_2022 && r.winner_party_2022 !== m.party && <p class="ru">{L(`Won as the ${pn(r.winner_party_2022)} candidate`, `${pn(r.winner_party_2022)} उम्मीदवार के रूप में जीते`)}</p>}
                 <p class="ru">{L('Runner-up', 'दूसरे स्थान पर')}: {tr(r.runner_up.name)} <span class="pty xs" style={`--pc:${partyOf(r.runner_up.party).color}`}>{partyOf(r.runner_up.party).icon && <Icon name={partyOf(r.runner_up.party).icon!} />}{pn(r.runner_up.party)}</span></p>
               </>}
               {r && r.winner_2022 && <>
@@ -143,11 +157,14 @@ const card = (o: any, role: string, id?: string) => ({ o, role, ph: id ? portrai
                 {won.runner_up && <p class="ru">{L('Runner-up', 'दूसरे स्थान पर')}: {tr(won.runner_up.name)} <span class="pty xs" style={`--pc:${partyOf(won.runner_up.party).color}`}>{partyOf(won.runner_up.party).icon && <Icon name={partyOf(won.runner_up.party).icon!} />}{pn(won.runner_up.party)}</span></p>}
               </>}
             </div>
+            {m.card_note && <p class="note">{tr(m.card_note)}</p>}
             {ph && <p class="cr">{ph.credit}</p>}
           </article>
         );
       })}
     </div>
+      </>
+    ))}
     {d.former_ministers?.length > 0 && (
       <details class="fm"><summary>{L(`${d.former_ministers.length} ministers have left the cabinet since 2022`, `2022 से अब तक ${d.former_ministers.length} मंत्री मंत्रिमंडल से बाहर`)}</summary>
         <ul>{d.former_ministers.map((f: any) => <li><b>{tr(f.name)}</b><span>{fmtDate(f.left, lang)}</span><span>{tr(f.reason)}</span></li>)}</ul>
@@ -173,13 +190,13 @@ const card = (o: any, role: string, id?: string) => ({ o, role, ph: id ? portrai
   </section>
 
   <section class="sec" aria-labelledby="tl-h">
-    <div class="sh"><h2 id="tl-h">{L('Five years in Punjab', 'पंजाब के पांच साल')}</h2></div>
+    <div class="sh"><h2 id="tl-h">{L(`Five years in ${S}`, `${S} के पांच साल`)}</h2></div>
     <ol class="etl">{d.timeline.map((x: any) => <li><b class="num">{fmtDate(x.date, lang)}</b><span>{tr(x.event)}</span></li>)}</ol>
   </section>
 
   {related.length > 0 && (
     <section class="sec" aria-labelledby="rel-h">
-      <div class="sh"><h2 id="rel-h">{L('Latest from Punjab', 'पंजाब से ताज़ा')}</h2></div>
+      <div class="sh"><h2 id="rel-h">{L(`Latest from ${S}`, `${S} से ताज़ा`)}</h2></div>
       <ul class="erel">{related.map((e: any) => <li><a href={urlOf(e.data)}><span class="k">{kicker(e.data)}</span>{e.data.title}</a></li>)}</ul>
     </section>
   )}

@@ -910,3 +910,7 @@ html.so-on{overflow:hidden}
  .elx .fm li,.elx .etl li{grid-template-columns:1fr}
  .elx .vs li{grid-template-columns:110px 1fr 50px}
 }
+.elx .waf.big{grid-template-columns:repeat(31,1fr);gap:2px;max-width:520px}
+.elx .waf.big i{border-radius:1px}
+.elx .mgh{font-size:15px;font-weight:600;margin:22px 0 10px;display:flex;gap:8px;align-items:baseline}
+.elx .mgh .num{color:var(--ink2);font-weight:500;font-size:13px}

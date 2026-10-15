@@ -2,7 +2,7 @@
   "id": "economy-dashboard",
   "title": "भारत की अर्थव्यवस्था का डैशबोर्ड",
   "as_of": "2026-10-11",
-  "updated": "2026-10-15T08:00:00+05:30",
+  "updated": "2026-10-15T16:00:00+05:30",
   "notes": "हर आंकड़ा अपनी पंक्ति में बताए गए स्रोत से लिया गया है। verified_primary सिर्फ तब true है जब आंकड़ा किसी प्राथमिक विज्ञप्ति (आरबीआई, सांख्यिकी मंत्रालय, पीआईबी, वित्त मंत्रालय) में पढ़ा गया हो। जिन आंकड़ों को रिसर्च डेस्क ने गणना से निकाला गया (व्युत्पन्न) बताया, वे शामिल नहीं हैं।",
   "indicators": [
     {
@@ -434,16 +434,16 @@
     {
       "id": "usd-inr",
       "name": "डॉलर के मुकाबले रुपया (बंद भाव)",
-      "latest_value": 95.16,
+      "latest_value": 95.05,
       "unit": "₹ प्रति $",
-      "period": "14 अक्टूबर 2026",
-      "release_date": "2026-10-14",
+      "period": "15 अक्टूबर 2026",
+      "release_date": "2026-10-15",
       "change_vs_previous": {
         "basis": "पिछला बंद भाव",
-        "previous_value": 95.28,
-        "previous_period": "13 अक्टूबर 2026",
-        "change": -0.12,
-        "change_unit": "₹ (रुपया 12 पैसे मज़बूत हुआ)"
+        "previous_value": 95.16,
+        "previous_period": "14 अक्टूबर 2026",
+        "change": -0.11,
+        "change_unit": "₹ (रुपया 11 पैसे मज़बूत हुआ)"
       },
       "history": [
         {
@@ -475,12 +475,16 @@
         {
           "period": "14 अक्टूबर 2026",
           "value": 95.16
+        },
+        {
+          "period": "15 अक्टूबर 2026",
+          "value": 95.05
         }
       ],
       "source": {
-        "publisher": "Business Standard",
-        "url": "https://www.business-standard.com/markets/news/it-s-25k-crore-market-value-gain-mirrors-pharma-s-loss-as-nifty-falls-126101401231_1.html",
-        "date": "2026-10-14"
+        "publisher": "PTI via Deccan Herald",
+        "url": "https://www.deccanherald.com/business/markets/rupee-logs-5th-straight-session-of-gain-closes-12-paise-higher-at-9505-against-us-dollar-4183765",
+        "date": "2026-10-15"
       },
       "history_sources": [
         {
@@ -497,7 +501,7 @@
         }
       ],
       "verified_primary": false,
-      "note": "नेशनल हेराल्ड ने 9 अक्टूबर का बंद भाव 96.71 बताया। पीटीआई ने 14 अक्टूबर का बंद भाव 95.17 (पिछला 95.36) बताया। मौजूदा सर्वकालिक निचला स्तर नहीं मिला।"
+      "note": "15 अक्टूबर का बंद भाव 95.05 पीटीआई से है, जिसने इसे 95.17 से 12 पैसे की बढ़त बताया; 14 अक्टूबर का दिखाया गया आंकड़ा (95.16) बिज़नेस स्टैंडर्ड का है। नेशनल हेराल्ड ने 9 अक्टूबर का बंद भाव 96.71 बताया। मौजूदा सर्वकालिक निचला स्तर नहीं मिला।"
     },
     {
       "id": "forex-reserves",
@@ -543,14 +547,14 @@
     {
       "id": "sensex",
       "name": "बीएसई सेंसेक्स (बंद स्तर)",
-      "latest_value": 72781.89,
+      "latest_value": 74315.61,
       "unit": "अंक",
-      "period": "14 अक्टूबर 2026",
-      "release_date": "2026-10-14",
+      "period": "15 अक्टूबर 2026",
+      "release_date": "2026-10-15",
       "change_vs_previous": {
         "basis": "पिछला बंद भाव",
-        "change": -251.89,
-        "change_pct": -0.34,
+        "change": 1533.72,
+        "change_pct": 2.11,
         "change_unit": "अंक"
       },
       "history": [
@@ -573,12 +577,16 @@
         {
           "period": "14 अक्टूबर 2026",
           "value": 72781.89
+        },
+        {
+          "period": "15 अक्टूबर 2026",
+          "value": 74315.61
         }
       ],
       "source": {
         "publisher": "Business Standard",
-        "url": "https://www.business-standard.com/markets/news/stock-market-live-october-14-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101400113_1.html",
-        "date": "2026-10-14"
+        "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-october-15-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101500089_1.html",
+        "date": "2026-10-15"
       },
       "verified_primary": false,
       "note": "27 मई 2026 का बंद स्तर पीटीआई (डेक्कन हेराल्ड के ज़रिए) से है।",
@@ -594,14 +602,14 @@
     {
       "id": "nifty-50",
       "name": "एनएसई निफ्टी 50 (बंद स्तर)",
-      "latest_value": 22622.7,
+      "latest_value": 22997.35,
       "unit": "अंक",
-      "period": "14 अक्टूबर 2026",
-      "release_date": "2026-10-14",
+      "period": "15 अक्टूबर 2026",
+      "release_date": "2026-10-15",
       "change_vs_previous": {
         "basis": "पिछला बंद भाव",
-        "change": -99.25,
-        "change_pct": -0.44,
+        "change": 374.65,
+        "change_pct": 1.66,
         "change_unit": "अंक"
       },
       "history": [
@@ -624,12 +632,16 @@
         {
           "period": "14 अक्टूबर 2026",
           "value": 22622.7
+        },
+        {
+          "period": "15 अक्टूबर 2026",
+          "value": 22997.35
         }
       ],
       "source": {
         "publisher": "Business Standard",
-        "url": "https://www.business-standard.com/markets/news/stock-market-live-october-14-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101400113_1.html",
-        "date": "2026-10-14"
+        "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-october-15-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101500089_1.html",
+        "date": "2026-10-15"
       },
       "verified_primary": false,
       "note": "27 मई 2026 का बंद स्तर पीटीआई (डेक्कन हेराल्ड के ज़रिए) से है।",

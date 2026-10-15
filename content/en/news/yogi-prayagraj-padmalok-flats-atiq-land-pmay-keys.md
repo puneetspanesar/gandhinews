@@ -10,7 +10,7 @@ standfirst: "In Prayagraj on Thursday, the Chief Minister will begin work on the
 published: 2026-10-15T06:30:00+05:30
 location: Prayagraj
 keyPoints:
-  - "The Padmalok scheme plans **76 flats for poor families** on land cleared of Atiq Ahmed's occupation."
+  - "The Padmalok scheme plans **flats for poor families** on land cleared of Atiq Ahmed's occupation."
   - "Keys to **556 PM Awas Yojana flats** in Pipalgaon will be handed over on the same visit."
   - "Adityanath will also address a **BJP voters' convention** ahead of the MLC elections."
 hero:
@@ -21,7 +21,7 @@ hero:
     value: "Flats on land freed from Atiq Ahmed"
 related: [up-yogi-releases-493-crore-crop-loss-relief-farmers, five-states-head-for-2027-assembly-polls]
 seo:
-  description: "Yogi Adityanath visits Prayagraj on 15 October to lay the foundation of 76 Padmalok flats on land freed from Atiq Ahmed and give keys to 556 PMAY families."
+  description: "Yogi Adityanath visits Prayagraj on 15 October to lay the foundation of the Padmalok housing scheme on land freed from Atiq Ahmed and give keys to 556 PMAY families."
 sources:
   - title: "प्रयागराज में CM योगी का बड़ा कार्यक्रम, 76 फ्लैटों की आवासीय योजना का भूमि पूजन और 556 परिवारों को मिलेगी चाबी"
     publisher: "News Nation"
@@ -38,7 +38,7 @@ verification:
 
 Uttar Pradesh Chief Minister Yogi Adityanath is due in Prayagraj on Thursday to begin work on a housing scheme for poor families on land that was once occupied by former MLA Atiq Ahmed.
 
-He will perform the bhoomi pujan for the Padmalok residential scheme at Kasari-Masari, which plans 76 flats. On the same trip he is to hand over keys to 556 families who have been allotted flats under the Pradhan Mantri Awas Yojana in Pipalgaon.
+He will perform the bhoomi pujan for the Padmalok residential scheme at Kasari-Masari. Reports differ on its size, from 76 flats to about 600. On the same trip he is to hand over keys to 556 families who have been allotted flats under the Pradhan Mantri Awas Yojana in Pipalgaon.
 
 Prayagraj Development Authority secretary Vineet Kumar Singh said more than 2,000 people had registered for the Pipalgaon flats, and the beneficiaries were chosen by lottery in April 2025.
 
