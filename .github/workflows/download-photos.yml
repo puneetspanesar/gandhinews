@@ -13,13 +13,15 @@ jobs:
           mkdir -p raw
           jq -r '.[] | "\(.id)\t\(.sourceUrl)"' content/photos.json | sort -u | while IFS=$'\t' read -r id url; do
             [ -f "raw/$id.jpg" ] && continue
+            # composite parts are re-fetched only if the composite picture is missing
+            case "$id" in cx-*) ls public/photos/v-* >/dev/null 2>&1 && [ -n "$(grep -l "\"$id\"" content/photos.json)" ] && [ -f "public/photos/v-$(jq -r --arg i "$id" '.[]|select(.composite and (.composite|index($i)))|.articleId[0:60]' content/photos.json)-1280.jpg" ] && continue;; esac
             # Already processed into the site: skip, so each run only fetches new photos.
             [ -f "public/photos/$id-1280.jpg" ] && continue
             case "$id" in pt-*) [ -f "public/portraits/${id#pt-}.jpg" ] && continue;; esac
             code=$(curl -s -L --retry 3 --retry-delay 5 -A 'LokVoxPhotoFetcher/1.0 (https://github.com/puneetspanesar/gandhinews; puneet.panesar24@gmail.com)' -o "raw/$id.jpg" -w '%{http_code}' "$url")
             # A 1600px thumbnail fails when the original is smaller; fall back to the original file.
-            if [ "$code" != "200" ] && echo "$url" | grep -q '/thumb/'; then
-              orig=$(echo "$url" | sed -E 's#/thumb/#/#; s#/[0-9]+px-[^/]+$##')
+            if { [ "$code" != "200" ] || ! file -b --mime-type "raw/$id.jpg" | grep -q "^image/"; } && echo "$url" | grep -q '/thumb/'; then
+              orig=$(echo "$url" | sed -E 's#thumb\.wikimedia\.org#upload.wikimedia.org#; s#/thumb/#/#; s#/[0-9]+px-[^/]+$##')
               code=$(curl -s -L --retry 3 --retry-delay 5 -A 'LokVoxPhotoFetcher/1.0 (https://github.com/puneetspanesar/gandhinews; puneet.panesar24@gmail.com)' -o "raw/$id.jpg" -w '%{http_code}' "$orig")
             fi
             echo "$code $id" | tee -a raw/log.txt
