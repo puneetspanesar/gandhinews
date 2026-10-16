@@ -41,7 +41,7 @@ for (const [key, q] of Object.entries(queries)) {
     if (!got) continue;
     cands.push({ n, title: p.title, page: ii.descriptionurl, url: ii.url, width: ii.width, height: ii.height, licence: lic,
       author: strip(m.Artist?.value).slice(0, 120), credit: strip(m.Credit?.value).slice(0, 120), date: strip(m.DateTimeOriginal?.value).slice(0, 40),
-      description: strip(m.ImageDescription?.value).slice(0, 200), thumb, url1600: ii.width > 1600 ? ii.thumburl.replace(/\/480px-/, '/1600px-') : ii.url });
+      description: strip(m.ImageDescription?.value).slice(0, 200), thumb, url1600: ii.width > 1600 ? ii.thumburl.split('?')[0].replace(/\/\d+px-/, '/1600px-') : ii.url.split('?')[0] });
     if (cands.length >= 5) break;
   }
   result[key] = { query: q, candidates: cands };
