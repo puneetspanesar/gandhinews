@@ -1,6 +1,6 @@
 {
  "lead": {
-  "id": "supreme-court-notice-centre-delhi-protest-pleas-cctv",
+  "id": "supreme-court-yes-bank-at1-judgment-rbi-bystander",
   "chart": 1,
   "overlay": {
    "kicker": {
@@ -8,8 +8,8 @@
     "hi": "सुप्रीम कोर्ट, गुरुवार"
    },
    "value": {
-    "en": "Keep the footage, show the orders",
-    "hi": "फ़ुटेज बचाकर रखें, आदेश दिखाएं"
+    "en": "The RBI was a 'mere bystander'",
+    "hi": "आरबीआई \"मूक दर्शक\" बना रहा"
    },
    "text": {
     "en": "",
@@ -18,154 +18,154 @@
   },
   "dataBox": [
    {
-    "icon": "scales",
+    "icon": "currency-inr",
     "color": "#cc0000",
     "value": {
-     "en": "CCTV",
-     "hi": "सीसीटीवी"
+     "en": "₹8,415 cr",
+     "hi": "₹8,415 करोड़"
     },
     "label": {
-     "en": "footage and digital material to be preserved",
-     "hi": "फ़ुटेज और डिजिटल सामग्री सुरक्षित रखने का आदेश"
+     "en": "of AT-1 bonds the write-off wiped out",
+     "hi": "के एटी-1 बॉन्ड, जिन्हें बट्टे खाते में डाला गया था"
     }
    },
    {
-    "icon": "scroll",
+    "icon": "calendar-check",
     "color": "#8f0000",
     "value": {
-     "en": "BNSS 163",
-     "hi": "बीएनएसएस 163"
+     "en": "14 Mar 2020",
+     "hi": "14 मार्च 2020"
     },
     "label": {
-     "en": "orders police must place on record",
-     "hi": "आदेश, जो पुलिस को रिकॉर्ड पर रखने होंगे"
+     "en": "write-down the court says had no authority",
+     "hi": "का राइट-डाउन, जिसे अदालत ने अधिकारहीन माना"
     }
    },
    {
-    "icon": "gavel",
+    "icon": "trend-down",
     "color": "#0d0d0d",
     "value": {
-     "en": "46",
-     "hi": "46"
+     "en": "20%",
+     "hi": "20%"
     },
     "label": {
-     "en": "matters already pending before the court",
-     "hi": "मामले पहले से अदालत में लंबित"
+     "en": "fall in YES Bank shares on Thursday",
+     "hi": "गुरुवार को यस बैंक के शेयर में गिरावट"
     }
    },
    {
-    "icon": "users-three",
+    "icon": "bank",
     "color": "#6e6e6e",
     "value": {
-     "en": "3",
-     "hi": "3"
+     "en": "17 Oct",
+     "hi": "17 अक्टूबर"
     },
     "label": {
-     "en": "election commissioners served notice on the SIR plea",
-     "hi": "चुनाव आयुक्तों को एसआईआर याचिका पर नोटिस"
+     "en": "YES Bank reports its quarterly results",
+     "hi": "यस बैंक के तिमाही नतीजे"
     }
    }
   ],
   "relatedBelow": [
-   "supreme-court-notice-cec-rahul-gandhi-sir-plea-conduct",
-   "supreme-court-women-journalists-sealed-cover-delhi-protests"
+   "at1-bonds-explained-yes-bank-supreme-court-ruling",
+   "yes-bank-shares-crash-supreme-court-at1-bonds"
   ],
   "relatedBeside": [
-   "two-ships-sink-near-hormuz-pezeshkian-surrender",
-   "peshawar-school-roof-collapse-kills-students",
-   "sensex-nifty-rupee-close-october-15",
-   "punjab-bandh-jhota-mansa-shutdown-response",
-   "yes-bank-shares-crash-supreme-court-at1-bonds"
+   "cjp-lehra-do-tiranga-connaught-place-protest-preview",
+   "president-accepts-l-murugan-resignation-council-of-ministers",
+   "tech-mahindra-q2-profit-rises-33-bonus-issue",
+   "peshawar-school-collapse-toll-35-owner-arrested",
+   "houthis-hit-aden-palace-saudi-blames-iran"
   ]
  },
  "briefing": {
   "items": [
    {
-    "link": "supreme-court-notice-centre-delhi-protest-pleas-cctv",
+    "link": "supreme-court-yes-bank-at1-judgment-rbi-bystander",
     "lead": {
-     "en": "Supreme Court:",
-     "hi": "सुप्रीम कोर्ट:"
+     "en": "YES Bank:",
+     "hi": "यस बैंक:"
     },
     "text": {
-     "en": "ordered protest footage preserved and asked police for the prohibitory orders.",
-     "hi": "प्रदर्शन के फ़ुटेज सुरक्षित रखने का आदेश, पुलिस से निषेधाज्ञा के आदेश मांगे।"
+     "en": "the Supreme Court said the RBI was a 'mere bystander' as AT-1 bonds were sold.",
+     "hi": "सुप्रीम कोर्ट ने कहा, एटी-1 बॉन्ड बिकते रहे और आरबीआई मूक दर्शक रहा।"
     }
    },
    {
-    "link": "supreme-court-notice-cec-rahul-gandhi-sir-plea-conduct",
+    "link": "cjp-lehra-do-tiranga-connaught-place-protest-preview",
     "lead": {
-     "en": "SIR plea:",
-     "hi": "एसआईआर याचिका:"
+     "en": "Delhi:",
+     "hi": "दिल्ली:"
     },
     "text": {
-     "en": "notice to the CEC and both election commissioners.",
-     "hi": "मुख्य चुनाव आयुक्त और दोनों चुनाव आयुक्तों को नोटिस।"
+     "en": "CJP's flag protest at Connaught Place is due at 5 pm.",
+     "hi": "सीजेपी का तिरंगा प्रदर्शन शाम 5 बजे कनॉट प्लेस में।"
     }
    },
    {
-    "link": "two-ships-sink-near-hormuz-pezeshkian-surrender",
+    "link": "president-accepts-l-murugan-resignation-council-of-ministers",
     "lead": {
-     "en": "Hormuz:",
-     "hi": "होर्मुज़:"
+     "en": "Cabinet:",
+     "hi": "मंत्रिमंडल:"
     },
     "text": {
-     "en": "two cargo ships sank; Iran says the strait stays shut.",
-     "hi": "दो मालवाहक जहाज़ डूबे, ईरान बोला जलडमरूमध्य बंद रहेगा।"
+     "en": "the President accepted L Murugan's resignation.",
+     "hi": "राष्ट्रपति ने एल मुरुगन का इस्तीफ़ा स्वीकार किया।"
     }
    },
    {
-    "link": "sensex-nifty-rupee-close-october-15",
+    "link": "daily-crr-99-per-cent-rule-takes-effect",
     "lead": {
-     "en": "Markets:",
-     "hi": "बाज़ार:"
+     "en": "RBI:",
+     "hi": "आरबीआई:"
     },
     "text": {
-     "en": "the Sensex jumped 1,534 points to 74,315.61.",
-     "hi": "सेंसेक्स 1,534 अंक चढ़कर 74,315.61 पर।"
+     "en": "the tighter daily CRR rule for banks starts today.",
+     "hi": "बैंकों के लिए रोज़ाना सीआरआर का सख़्त नियम आज से।"
     }
    },
    {
-    "link": "india-september-exports-jump-23-trade-deficit",
+    "link": "tech-mahindra-q2-profit-rises-33-bonus-issue",
     "lead": {
-     "en": "Exports:",
-     "hi": "निर्यात:"
+     "en": "Tech Mahindra:",
+     "hi": "टेक महिंद्रा:"
     },
     "text": {
-     "en": "goods exports rose 23% to $44.4 billion in September.",
-     "hi": "सितंबर में वस्तु निर्यात 23% बढ़कर 44.4 अरब डॉलर।"
+     "en": "profit up 33%; first bonus issue since 2015.",
+     "hi": "मुनाफ़ा 33% बढ़ा; 2015 के बाद पहला बोनस इश्यू।"
     }
    },
    {
-    "link": "punjab-bandh-jhota-mansa-shutdown-response",
+    "link": "wipro-guidance-december-quarter-large-deals-fall",
     "lead": {
-     "en": "Punjab:",
-     "hi": "पंजाब:"
+     "en": "Wipro:",
+     "hi": "विप्रो:"
     },
     "text": {
-     "en": "markets shut and highways blocked over the Mansa killing.",
-     "hi": "मानसा हत्याकांड पर बाज़ार बंद, हाईवे जाम।"
+     "en": "guides for flat to lower revenue next quarter.",
+     "hi": "अगली तिमाही में आय सपाट या कम रहने का अनुमान।"
     }
    },
    {
-    "link": "peshawar-school-roof-collapse-kills-students",
+    "link": "peshawar-school-collapse-toll-35-owner-arrested",
     "lead": {
      "en": "Peshawar:",
      "hi": "पेशावर:"
     },
     "text": {
-     "en": "a school roof collapse killed 28 children and a teacher.",
-     "hi": "स्कूल की छत गिरने से 28 बच्चों और एक शिक्षक की मौत।"
+     "en": "school owner arrested as the death toll rises.",
+     "hi": "मरने वालों की संख्या बढ़ी, स्कूल मालिक गिरफ़्तार।"
     }
    },
    {
-    "link": "how-uttar-pradesh-voted-2022-what-it-takes-to-win",
+    "link": "spacex-crs-35-dragon-docks-space-station",
     "lead": {
-     "en": "UP 2027:",
-     "hi": "यूपी 2027:"
+     "en": "Space:",
+     "hi": "अंतरिक्ष:"
     },
     "text": {
-     "en": "our full guide to the 403 seats and the Yogi government.",
-     "hi": "403 सीटों और योगी सरकार पर हमारी पूरी गाइड।"
+     "en": "the SpaceX cargo Dragon docked at the space station.",
+     "hi": "स्पेसएक्स का कार्गो ड्रैगन अंतरिक्ष स्टेशन से जुड़ा।"
     }
    }
   ]
@@ -233,27 +233,27 @@
  },
  "topStories": {
   "big": {
-   "id": "supreme-court-notice-congress-rahul-march-browbeat-judiciary",
+   "id": "abhishek-banerjee-ankita-bhandari-parents-india-versus-bjp",
    "also": [
-    "delhi-police-tells-high-court-will-act-against-dipke-cp-protest",
-    "bjp-says-rahul-wants-regime-change-neha-bora-bangladesh"
+    "nsui-president-vinod-jakhar-detained-parliament-street",
+    "prashant-bhushan-regime-change-constitutional-right-press-club"
    ]
   },
   "list": [
-   "akhilesh-sir-vote-theft-rajbhar-hits-back",
-   "sp-seeks-ec-notice-yogi-mlc-polls-deputy-cms",
-   "yogi-varanasi-mlc-teachers-poll-old-pension",
-   "dhami-defends-police-ankita-bhandari-congress",
-   "supreme-court-upholds-tn-convert-backward-muslim-certificate-ruling"
+   "no-rajya-sabha-vote-today-all-12-seats-filled-unopposed",
+   "attorney-general-consent-contempt-wagle-sanjay-raut-cji",
+   "shinde-says-mahayuti-will-win-all-five-maharashtra-mlc-seats",
+   "divya-mittal-ex-ias-launches-jan-neeti-bharat-up-2027",
+   "imran-khan-bombay-high-court-frro-leave-india-notice"
   ]
  },
  "startHere": [
+  "at1-bonds-explained-yes-bank-supreme-court-ruling",
+  "daily-crr-rule-explained-banks-borrowers",
+  "why-stubble-fires-rise-in-october-explained",
   "how-uttar-pradesh-voted-2022-what-it-takes-to-win",
   "whos-who-uttar-pradesh-2027-contest",
-  "how-china-standardised-names-india-places-explained",
-  "upi-merchant-fee-mdr-explained-who-pays",
-  "imf-world-economic-outlook-explained-india-rbi",
-  "wpi-vs-cpi-explained-wholesale-retail-inflation"
+  "how-china-standardised-names-india-places-explained"
  ],
  "trackers": [
   {
@@ -406,11 +406,11 @@
   }
  ],
  "opinion": [
+  "school-buildings-need-safety-audits-before-the-next-roof-falls",
+  "india-gulf-war-exposure-needs-a-plan-not-hope",
   "after-raghopur-country-boats-need-rules-that-are-enforced",
   "punjab-drug-war-cannot-be-left-to-vigilantes",
-  "indian-seafarers-should-not-carry-hormuz-risk-alone",
-  "festive-sales-boom-does-not-mean-inflation-can-wait",
-  "protest-is-not-a-threat-to-public-order"
+  "indian-seafarers-should-not-carry-hormuz-risk-alone"
  ],
  "sections": [
   {
@@ -420,14 +420,14 @@
     "article": "bypoll-results-ruling-parties-win-all-six-seats"
    },
    "list": [
-    "rajasthan-cabinet-resolution-modi-25-years-head-of-government",
-    "jharkhand-congress-expels-yogendra-sao-three-years",
-    "odisha-satyabadi-block-office-vandalised-naveen"
+    "rajasthan-panchayat-polls-first-phase-jodhpur-nominations-rejected",
+    "supreme-court-lawyer-ai-fake-judgments-raheja-omkara",
+    "jk-high-court-bans-motorboats-jet-skis-dal-lake"
    ]
   },
   {
    "section": "economy",
-   "lead": "india-september-exports-jump-23-trade-deficit",
+   "lead": "wipro-guidance-december-quarter-large-deals-fall",
    "module": {
     "type": "markets",
     "indicators": [
@@ -438,28 +438,28 @@
     ]
    },
    "list": [
-    "wipro-q2-results",
-    "zetwerk-ipo-day-one-subscription",
-    "tata-communications-q2-profit-rises-86-per-cent"
+    "persistent-q2-profit-falls-nagarro-costs-revenue-up-20",
+    "polycab-hdfc-life-irfc-q2-results-roundup",
+    "zetwerk-tonbo-ipos-day-two"
    ]
   },
   {
    "section": "states",
-   "lead": "modi-ladakh-3350-crore-projects",
+   "lead": "jhota-accused-police-remand-wife-held-mann-phillaur-review",
    "list": [
-    "telangana-el-nino-severe-chief-secretary-singur",
-    "bhajanlal-sharma-meets-modi-delhi",
-    "gujarat-smc-seizes-stolen-fuel-chemicals-anand"
+    "mp-cabinet-27050-crore-jabalpur-indore-corridor-bhavantar",
+    "up-panchayat-polls-high-court-three-months-supreme-court-appeal",
+    "up-sugar-stock-limit-hoarding-jail-yogi"
    ]
   },
   {
    "section": "policy",
-   "lead": "jaishankar-no-agreed-border-china-stable-boundary",
+   "lead": "goyal-launches-national-strategic-trade-command-centre",
    "list": [
-    "mea-concern-illinois-hindu-temple-shooting-plot",
-    "india-to-join-siofa-high-seas-fisheries",
-    "asean-india-defence-think-tank-forum-delhi",
-    "anita-anand-meets-modi-jaishankar-india-canada-talks"
+    "ins-samarthak-commissioning-karwar",
+    "india-ramsar-sites-103-sukhna-sauj-jheel",
+    "nhai-independent-design-checks-major-bridges-iits",
+    "bombay-high-court-street-firecracker-ban-all-festivals"
    ]
   },
   {
@@ -477,68 +477,56 @@
  "desks": [
   {
    "section": "world",
-   "lead": "ukraine-resumes-strikes-russian-oil-refineries",
+   "lead": "zelenskyy-brussels-rutte-macron-air-defence-eu-summit",
    "list": [
-    "pakistan-joint-sitting-approves-kp-governors-rule",
-    "new-yalu-river-bridge-opens-china-north-korea",
-    "imf-gulf-economies-wont-return-to-pre-war-growth"
+    "eu-sanctions-circumvention-firms-india-uae-shadow-fleet",
+    "brazil-senate-approves-40-hour-week-end-6x1-before-runoff",
+    "afghanistan-acute-hunger-record-15-9-million"
    ]
   },
   {
    "section": "science",
-   "lead": "punjab-farm-fires-season-worst-day-amritsar-tarn-taran",
+   "lead": "tsmc-q3-profit-jumps-69-per-cent-2nm-ramp",
    "list": [
-    "anthropic-opens-singapore-office-signs-government-mou",
-    "ncpcr-summons-google-ai-kiss-hug-apps-child-safety-norms",
-    "jio-platforms-ipo-price-band-biggest-india-listing"
+    "spacex-crs-35-dragon-docks-space-station",
+    "israeli-ad-firm-discover-tech-spyware-citizen-lab",
+    "why-stubble-fires-rise-in-october-explained"
    ]
   },
   {
    "section": "sports",
-   "lead": "india-west-indies-bengaluru-decider-arshdeep-doubt",
+   "lead": "india-west-indies-bengaluru-decider-dew-arshdeep-preview",
    "list": [
-    "real-madrid-comeback-roma-psg-win-at-manchester-city",
-    "vishvajit-more-u23-world-greco-roman-silver",
-    "south-africa-drop-stubbs-recall-breetzke-gqeberha-test"
+    "modi-hosts-asian-games-champions-iyer-harmanpreet-delhi",
+    "treesa-gayatri-tanvi-denmark-open-quarters-srikanth-out",
+    "india-women-zimbabwe-raipur-mandhana-first-match-captain"
    ]
   }
  ],
  "weekAhead": [
   {
-   "icon": "rocket",
-   "date": {
-    "en": "Tonight",
-    "hi": "आज रात"
-   },
-   "text": {
-    "en": "SpaceX Dragon reaches the space station around 8:30 pm IST.",
-    "hi": "स्पेसएक्स ड्रैगन रात करीब 8:30 बजे अंतरिक्ष स्टेशन पहुंचेगा।"
-   },
-   "link": "spacex-crs-35-cargo-launch-iss-brain-organoids"
-  },
-  {
    "icon": "megaphone",
    "date": {
-    "en": "Fri 16 Oct",
-    "hi": "शुक्र, 16 अक्टूबर"
+    "en": "Today, 5 pm",
+    "hi": "आज, शाम 5 बजे"
    },
    "text": {
-    "en": "CJP calls a flag protest at Connaught Place; police say they will act.",
-    "hi": "सीजेपी का कनॉट प्लेस में तिरंगा प्रदर्शन; पुलिस ने कार्रवाई की बात कही।"
+    "en": "CJP flag protest at Connaught Place; police say they will act.",
+    "hi": "कनॉट प्लेस में सीजेपी का तिरंगा प्रदर्शन; पुलिस ने कार्रवाई की बात कही।"
    },
-   "link": "delhi-police-tells-high-court-will-act-against-dipke-cp-protest"
+   "link": "cjp-lehra-do-tiranga-connaught-place-protest-preview"
   },
   {
    "icon": "bank",
    "date": {
-    "en": "Fri 16 Oct",
-    "hi": "शुक्र, 16 अक्टूबर"
+    "en": "Today",
+    "hi": "आज"
    },
    "text": {
-    "en": "Banks must start holding 99% of their required CRR every day.",
-    "hi": "बैंकों को हर दिन तय सीआरआर का 99% रखना शुरू करना होगा।"
+    "en": "Banks must hold 99% of their required CRR every day from now.",
+    "hi": "अब से बैंकों को हर दिन तय सीआरआर का 99% रखना होगा।"
    },
-   "link": "rbi-raises-daily-crr-minimum-to-99-per-cent"
+   "link": "daily-crr-99-per-cent-rule-takes-effect"
   },
   {
    "icon": "trophy",
@@ -547,10 +535,22 @@
     "hi": "शनि, 17 अक्टूबर"
    },
    "text": {
-    "en": "India v West Indies, series decider at the Chinnaswamy, Bengaluru.",
-    "hi": "बेंगलुरु के चिन्नास्वामी में भारत-वेस्टइंडीज़ सीरीज़ का निर्णायक मैच।"
+    "en": "India v West Indies, series decider in Bengaluru; YES Bank results.",
+    "hi": "बेंगलुरु में भारत-वेस्टइंडीज़ निर्णायक मैच; यस बैंक के नतीजे।"
    },
-   "link": "india-west-indies-fourth-t20i-hyderabad-result"
+   "link": "india-west-indies-bengaluru-decider-dew-arshdeep-preview"
+  },
+  {
+   "icon": "users-three",
+   "date": {
+    "en": "Sat 18 Oct",
+    "hi": "शनि, 18 अक्टूबर"
+   },
+   "text": {
+    "en": "Asian Para Games open in Aichi-Nagoya; Gqeberha Test begins.",
+    "hi": "आइची-नागोया में एशियाई पैरा खेल शुरू; गकेबरहा टेस्ट भी।"
+   },
+   "link": "asian-para-games-india-begin-badminton-table-tennis-blind-football"
   },
   {
    "icon": "user-switch",

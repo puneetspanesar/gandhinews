@@ -68,9 +68,13 @@ export const TRUST_PAGES = {
 };
 
 /** Fixed (non-content) routes, per language. */
+/** State election guides (keep in step with ELECTIONS in src/lib/elections.ts). */
+export const ELECTION_SLUGS = ['punjab-2027', 'uttar-pradesh-2027'];
+
 export function staticRoutes(lang) {
   const p = prefix(lang);
   return [
+    `${p}/elections/`, ...ELECTION_SLUGS.map((s) => `${p}/elections/${s}/`),
     `${p}/`,
     ...SECTIONS.map((s) => `${p}/${s}/`),
     `${p}/explained/`, `${p}/fact-check/`, `${p}/opinion/`, `${p}/trackers/`, `${p}/topics/`,
