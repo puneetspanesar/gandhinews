@@ -1,15 +1,15 @@
 {
  "lead": {
-  "id": "supreme-court-yes-bank-at1-judgment-rbi-bystander",
+  "id": "cjp-lehra-do-tiranga-dipke-neha-bora-detained-connaught-place",
   "chart": 1,
   "overlay": {
    "kicker": {
-    "en": "Supreme Court, Thursday",
-    "hi": "सुप्रीम कोर्ट, गुरुवार"
+    "en": "Connaught Place, Friday evening",
+    "hi": "कनॉट प्लेस, शुक्रवार शाम"
    },
    "value": {
-    "en": "The RBI was a 'mere bystander'",
-    "hi": "आरबीआई \"मूक दर्शक\" बना रहा"
+    "en": "150 held, Central Park locked",
+    "hi": "150 हिरासत में, सेंट्रल पार्क पर ताला"
    },
    "text": {
     "en": "",
@@ -18,154 +18,154 @@
   },
   "dataBox": [
    {
-    "icon": "currency-inr",
+    "icon": "users-three",
     "color": "#cc0000",
     "value": {
-     "en": "₹8,415 cr",
-     "hi": "₹8,415 करोड़"
+     "en": "~150",
+     "hi": "करीब 150"
     },
     "label": {
-     "en": "of AT-1 bonds the write-off wiped out",
-     "hi": "के एटी-1 बॉन्ड, जिन्हें बट्टे खाते में डाला गया था"
+     "en": "people detained in central Delhi",
+     "hi": "लोग मध्य दिल्ली में हिरासत में"
     }
    },
    {
-    "icon": "calendar-check",
+    "icon": "clock",
     "color": "#8f0000",
     "value": {
-     "en": "14 Mar 2020",
-     "hi": "14 मार्च 2020"
+     "en": "5 pm",
+     "hi": "शाम 5 बजे"
     },
     "label": {
-     "en": "write-down the court says had no authority",
-     "hi": "का राइट-डाउन, जिसे अदालत ने अधिकारहीन माना"
+     "en": "Dipke held minutes before the start",
+     "hi": "शुरू होने से कुछ मिनट पहले डिपके हिरासत में"
     }
    },
    {
-    "icon": "trend-down",
+    "icon": "megaphone",
     "color": "#0d0d0d",
     "value": {
-     "en": "20%",
-     "hi": "20%"
+     "en": "Mandi House",
+     "hi": "मंडी हाउस"
     },
     "label": {
-     "en": "fall in YES Bank shares on Thursday",
-     "hi": "गुरुवार को यस बैंक के शेयर में गिरावट"
+     "en": "where Neha Bora was detained",
+     "hi": "जहाँ नेहा बोरा को हिरासत में लिया गया"
     }
    },
    {
-    "icon": "bank",
+    "icon": "scales",
     "color": "#6e6e6e",
     "value": {
-     "en": "17 Oct",
-     "hi": "17 अक्टूबर"
+     "en": "Sec 163",
+     "hi": "धारा 163"
     },
     "label": {
-     "en": "YES Bank reports its quarterly results",
-     "hi": "यस बैंक के तिमाही नतीजे"
+     "en": "BNSS orders used to bar the gathering",
+     "hi": "बीएनएसएस आदेश, जिनसे सभा रोकी गई"
     }
    }
   ],
   "relatedBelow": [
-   "at1-bonds-explained-yes-bank-supreme-court-ruling",
-   "yes-bank-shares-crash-supreme-court-at1-bonds"
+   "dipke-detention-undeclared-emergency-mamata-rajnath-anarchy",
+   "supreme-court-traders-plea-central-park-shutdown-cjp"
   ],
   "relatedBeside": [
-   "cjp-lehra-do-tiranga-connaught-place-protest-preview",
-   "president-accepts-l-murugan-resignation-council-of-ministers",
-   "tech-mahindra-q2-profit-rises-33-bonus-issue",
-   "peshawar-school-collapse-toll-35-owner-arrested",
-   "houthis-hit-aden-palace-saudi-blames-iran"
+   "supreme-court-contempt-notice-sanjay-raut-nikhil-wagle",
+   "sensex-nifty-it-rally-weekly-gain-october-16",
+   "zelenskyy-asks-eu-70-billion-trump-disgrace-row",
+   "saudi-houthi-war-crimes-us-tightens-iran-sanctions",
+   "gill-iyer-split-odi-captaincy-new-zealand-bumrah-jadeja-out"
   ]
  },
  "briefing": {
   "items": [
    {
-    "link": "supreme-court-yes-bank-at1-judgment-rbi-bystander",
-    "lead": {
-     "en": "YES Bank:",
-     "hi": "यस बैंक:"
-    },
-    "text": {
-     "en": "the Supreme Court said the RBI was a 'mere bystander' as AT-1 bonds were sold.",
-     "hi": "सुप्रीम कोर्ट ने कहा, एटी-1 बॉन्ड बिकते रहे और आरबीआई मूक दर्शक रहा।"
-    }
-   },
-   {
-    "link": "cjp-lehra-do-tiranga-connaught-place-protest-preview",
+    "link": "cjp-lehra-do-tiranga-dipke-neha-bora-detained-connaught-place",
     "lead": {
      "en": "Delhi:",
      "hi": "दिल्ली:"
     },
     "text": {
-     "en": "CJP's flag protest at Connaught Place is due at 5 pm.",
-     "hi": "सीजेपी का तिरंगा प्रदर्शन शाम 5 बजे कनॉट प्लेस में।"
+     "en": "Dipke, Neha Bora and about 150 others detained at the CJP flag protest.",
+     "hi": "सीजेपी के तिरंगा प्रदर्शन में डिपके, नेहा बोरा समेत करीब 150 लोग हिरासत में।"
     }
    },
    {
-    "link": "president-accepts-l-murugan-resignation-council-of-ministers",
+    "link": "dipke-detention-undeclared-emergency-mamata-rajnath-anarchy",
     "lead": {
-     "en": "Cabinet:",
-     "hi": "मंत्रिमंडल:"
+     "en": "Reaction:",
+     "hi": "प्रतिक्रिया:"
     },
     "text": {
-     "en": "the President accepted L Murugan's resignation.",
-     "hi": "राष्ट्रपति ने एल मुरुगन का इस्तीफ़ा स्वीकार किया।"
+     "en": "Mamata calls it an 'undeclared Emergency'; Rajnath blames the opposition.",
+     "hi": "ममता ने इसे \"अघोषित आपातकाल\" कहा; राजनाथ ने विपक्ष पर निशाना साधा।"
     }
    },
    {
-    "link": "daily-crr-99-per-cent-rule-takes-effect",
+    "link": "supreme-court-contempt-notice-sanjay-raut-nikhil-wagle",
     "lead": {
-     "en": "RBI:",
-     "hi": "आरबीआई:"
+     "en": "Supreme Court:",
+     "hi": "सुप्रीम कोर्ट:"
     },
     "text": {
-     "en": "the tighter daily CRR rule for banks starts today.",
-     "hi": "बैंकों के लिए रोज़ाना सीआरआर का सख़्त नियम आज से।"
+     "en": "contempt notice to Sanjay Raut and Nikhil Wagle.",
+     "hi": "संजय राउत और निखिल वागले को अवमानना नोटिस।"
     }
    },
    {
-    "link": "tech-mahindra-q2-profit-rises-33-bonus-issue",
+    "link": "sensex-nifty-it-rally-weekly-gain-october-16",
     "lead": {
-     "en": "Tech Mahindra:",
-     "hi": "टेक महिंद्रा:"
+     "en": "Markets:",
+     "hi": "बाज़ार:"
     },
     "text": {
-     "en": "profit up 33%; first bonus issue since 2015.",
-     "hi": "मुनाफ़ा 33% बढ़ा; 2015 के बाद पहला बोनस इश्यू।"
+     "en": "IT shares lift the Sensex 414 points; up 3.1% for the week.",
+     "hi": "आईटी शेयरों से सेंसेक्स 414 अंक चढ़ा; हफ़्ते में 3.1% बढ़त।"
     }
    },
    {
-    "link": "wipro-guidance-december-quarter-large-deals-fall",
+    "link": "mann-phillaur-punjab-defamed-drugs-mha-seeks-reports",
     "lead": {
-     "en": "Wipro:",
-     "hi": "विप्रो:"
+     "en": "Punjab:",
+     "hi": "पंजाब:"
     },
     "text": {
-     "en": "guides for flat to lower revenue next quarter.",
-     "hi": "अगली तिमाही में आय सपाट या कम रहने का अनुमान।"
+     "en": "Mann says the state is 'defamed' over drugs; Centre seeks reports.",
+     "hi": "मान बोले, नशे पर पंजाब को बदनाम किया गया; केंद्र ने रिपोर्ट मांगी।"
     }
    },
    {
-    "link": "peshawar-school-collapse-toll-35-owner-arrested",
+    "link": "gill-iyer-split-odi-captaincy-new-zealand-bumrah-jadeja-out",
     "lead": {
-     "en": "Peshawar:",
-     "hi": "पेशावर:"
+     "en": "Cricket:",
+     "hi": "क्रिकेट:"
     },
     "text": {
-     "en": "school owner arrested as the death toll rises.",
-     "hi": "मरने वालों की संख्या बढ़ी, स्कूल मालिक गिरफ़्तार।"
+     "en": "Gill and Iyer split the ODI captaincy for New Zealand; no Bumrah.",
+     "hi": "न्यूज़ीलैंड दौरे पर गिल और अय्यर में बंटी वनडे कप्तानी; बुमराह नहीं।"
     }
    },
    {
-    "link": "spacex-crs-35-dragon-docks-space-station",
+    "link": "zelenskyy-asks-eu-70-billion-trump-disgrace-row",
     "lead": {
-     "en": "Space:",
-     "hi": "अंतरिक्ष:"
+     "en": "Ukraine:",
+     "hi": "यूक्रेन:"
     },
     "text": {
-     "en": "the SpaceX cargo Dragon docked at the space station.",
-     "hi": "स्पेसएक्स का कार्गो ड्रैगन अंतरिक्ष स्टेशन से जुड़ा।"
+     "en": "Zelenskyy asks the EU for €70 billion more for 2027.",
+     "hi": "ज़ेलेंस्की ने 2027 के लिए ईयू से 70 अरब यूरो और मांगे।"
+    }
+   },
+   {
+    "link": "saudi-houthi-war-crimes-us-tightens-iran-sanctions",
+    "lead": {
+     "en": "Gulf:",
+     "hi": "खाड़ी:"
+    },
+    "text": {
+     "en": "Saudi Arabia calls Houthi airport strikes war crimes.",
+     "hi": "सऊदी अरब ने हूती हमलों को युद्ध अपराध बताया।"
     }
    }
   ]
@@ -233,27 +233,27 @@
  },
  "topStories": {
   "big": {
-   "id": "abhishek-banerjee-ankita-bhandari-parents-india-versus-bjp",
+   "id": "supreme-court-yes-bank-at1-judgment-rbi-bystander",
    "also": [
-    "nsui-president-vinod-jakhar-detained-parliament-street",
-    "prashant-bhushan-regime-change-constitutional-right-press-club"
+    "yes-bank-q2-results-preview-at1-verdict",
+    "at1-bonds-explained-yes-bank-supreme-court-ruling"
    ]
   },
   "list": [
-   "no-rajya-sabha-vote-today-all-12-seats-filled-unopposed",
-   "attorney-general-consent-contempt-wagle-sanjay-raut-cji",
-   "shinde-says-mahayuti-will-win-all-five-maharashtra-mlc-seats",
-   "divya-mittal-ex-ias-launches-jan-neeti-bharat-up-2027",
-   "imran-khan-bombay-high-court-frro-leave-india-notice"
+   "delhi-sir-reverification-47-lakh-deleted-voters",
+   "ec-hearing-trinamool-ownership-dispute-october-30",
+   "supreme-court-to-hear-plea-rahul-gandhi-pushed-pregnant-journalist",
+   "prashant-kishor-samrat-choudhary-lord-ram-remark-arrogance",
+   "pinarayi-vijayan-supreme-court-cmrl-fir-vacation-listing"
   ]
  },
  "startHere": [
+  "eu-russia-sanctions-indian-firms-explained",
+  "asian-para-games-classification-explained",
+  "bonus-issue-explained-tech-mahindra",
   "at1-bonds-explained-yes-bank-supreme-court-ruling",
-  "daily-crr-rule-explained-banks-borrowers",
-  "why-stubble-fires-rise-in-october-explained",
-  "how-uttar-pradesh-voted-2022-what-it-takes-to-win",
   "whos-who-uttar-pradesh-2027-contest",
-  "how-china-standardised-names-india-places-explained"
+  "daily-crr-rule-explained-banks-borrowers"
  ],
  "trackers": [
   {
@@ -406,11 +406,11 @@
   }
  ],
  "opinion": [
+  "protest-needs-more-than-one-designated-site",
+  "after-yes-bank-ruling-rbi-must-own-investor-protection",
   "school-buildings-need-safety-audits-before-the-next-roof-falls",
   "india-gulf-war-exposure-needs-a-plan-not-hope",
-  "after-raghopur-country-boats-need-rules-that-are-enforced",
-  "punjab-drug-war-cannot-be-left-to-vigilantes",
-  "indian-seafarers-should-not-carry-hormuz-risk-alone"
+  "after-raghopur-country-boats-need-rules-that-are-enforced"
  ],
  "sections": [
   {
@@ -420,14 +420,14 @@
     "article": "bypoll-results-ruling-parties-win-all-six-seats"
    },
    "list": [
-    "rajasthan-panchayat-polls-first-phase-jodhpur-nominations-rejected",
-    "supreme-court-lawyer-ai-fake-judgments-raheja-omkara",
-    "jk-high-court-bans-motorboats-jet-skis-dal-lake"
+    "jk-ias-officer-abuses-jkas-officer-omar-abdullah-protection",
+    "delhi-high-court-refuses-stay-sc-st-fir-woman-journalist-acp",
+    "zubeen-garg-cousin-sandipan-bail-gauhati-high-court"
    ]
   },
   {
    "section": "economy",
-   "lead": "wipro-guidance-december-quarter-large-deals-fall",
+   "lead": "rupee-sixth-gain-forex-reserves-fall-726-billion",
    "module": {
     "type": "markets",
     "indicators": [
@@ -438,28 +438,29 @@
     ]
    },
    "list": [
-    "persistent-q2-profit-falls-nagarro-costs-revenue-up-20",
-    "polycab-hdfc-life-irfc-q2-results-roundup",
-    "zetwerk-tonbo-ipos-day-two"
+    "india-current-account-deficit-august-5-2-billion",
+    "flipkart-group-fy26-revenue-1-45-lakh-crore-loss-narrows",
+    "cult-fit-sebi-nod-ipo-950-crore-fresh-issue",
+    "pnb-federal-bank-q2-profit-record"
    ]
   },
   {
    "section": "states",
-   "lead": "jhota-accused-police-remand-wife-held-mann-phillaur-review",
+   "lead": "mann-phillaur-punjab-defamed-drugs-mha-seeks-reports",
    "list": [
-    "mp-cabinet-27050-crore-jabalpur-indore-corridor-bhavantar",
-    "up-panchayat-polls-high-court-three-months-supreme-court-appeal",
-    "up-sugar-stock-limit-hoarding-jail-yogi"
+    "andhra-local-body-nominations-violence-punganur-mithun-reddy",
+    "manipur-kamjong-ambush-kuki-woman-killed-couple-missing",
+    "delhi-rain-clears-air-aqi-86-satisfactory"
    ]
   },
   {
    "section": "policy",
-   "lead": "goyal-launches-national-strategic-trade-command-centre",
+   "lead": "jaishankar-rubio-talks-mumbai-october-20-mea",
    "list": [
     "ins-samarthak-commissioning-karwar",
-    "india-ramsar-sites-103-sukhna-sauj-jheel",
-    "nhai-independent-design-checks-major-bridges-iits",
-    "bombay-high-court-street-firecracker-ban-all-festivals"
+    "mea-rejects-us-congresswoman-remarks-electoral-process",
+    "india-mongolia-defence-joint-working-group",
+    "pm-setu-1195-crore-five-iti-clusters"
    ]
   },
   {
@@ -477,57 +478,33 @@
  "desks": [
   {
    "section": "world",
-   "lead": "zelenskyy-brussels-rutte-macron-air-defence-eu-summit",
+   "lead": "zelenskyy-asks-eu-70-billion-trump-disgrace-row",
    "list": [
-    "eu-sanctions-circumvention-firms-india-uae-shadow-fleet",
-    "brazil-senate-approves-40-hour-week-end-6x1-before-runoff",
-    "afghanistan-acute-hunger-record-15-9-million"
+    "saudi-houthi-war-crimes-us-tightens-iran-sanctions",
+    "indonesia-stocks-worst-day-since-1998-msci-downgrade",
+    "trump-says-us-in-denuclearisation-talks-russia-china"
    ]
   },
   {
    "section": "science",
-   "lead": "tsmc-q3-profit-jumps-69-per-cent-2nm-ramp",
+   "lead": "reliance-responds-musk-starlink-never-feared-competition",
    "list": [
-    "spacex-crs-35-dragon-docks-space-station",
-    "israeli-ad-firm-discover-tech-spyware-citizen-lab",
-    "why-stubble-fires-rise-in-october-explained"
+    "cert-in-warns-ai-agents-accessed-indian-systems",
+    "anthropic-gives-metr-researchers-employee-level-access",
+    "origin-raises-20-million-wall-finishing-construction-robots"
    ]
   },
   {
    "section": "sports",
-   "lead": "india-west-indies-bengaluru-decider-dew-arshdeep-preview",
+   "lead": "gill-iyer-split-odi-captaincy-new-zealand-bumrah-jadeja-out",
    "list": [
-    "modi-hosts-asian-games-champions-iyer-harmanpreet-delhi",
-    "treesa-gayatri-tanvi-denmark-open-quarters-srikanth-out",
-    "india-women-zimbabwe-raipur-mandhana-first-match-captain"
+    "bhuvneshwar-added-india-squad-arshdeep-shoulder-bengaluru",
+    "asian-para-games-bhavina-suhas-krishna-nagar-winning-start",
+    "komal-u23-worlds-bronze-amruta-pujari-final"
    ]
   }
  ],
  "weekAhead": [
-  {
-   "icon": "megaphone",
-   "date": {
-    "en": "Today, 5 pm",
-    "hi": "आज, शाम 5 बजे"
-   },
-   "text": {
-    "en": "CJP flag protest at Connaught Place; police say they will act.",
-    "hi": "कनॉट प्लेस में सीजेपी का तिरंगा प्रदर्शन; पुलिस ने कार्रवाई की बात कही।"
-   },
-   "link": "cjp-lehra-do-tiranga-connaught-place-protest-preview"
-  },
-  {
-   "icon": "bank",
-   "date": {
-    "en": "Today",
-    "hi": "आज"
-   },
-   "text": {
-    "en": "Banks must hold 99% of their required CRR every day from now.",
-    "hi": "अब से बैंकों को हर दिन तय सीआरआर का 99% रखना होगा।"
-   },
-   "link": "daily-crr-99-per-cent-rule-takes-effect"
-  },
   {
    "icon": "trophy",
    "date": {
@@ -535,34 +512,58 @@
     "hi": "शनि, 17 अक्टूबर"
    },
    "text": {
-    "en": "India v West Indies, series decider in Bengaluru; YES Bank results.",
-    "hi": "बेंगलुरु में भारत-वेस्टइंडीज़ निर्णायक मैच; यस बैंक के नतीजे।"
+    "en": "India v West Indies decider in Bengaluru; Bhuvneshwar in for Arshdeep.",
+    "hi": "बेंगलुरु में भारत-वेस्टइंडीज़ निर्णायक मैच; अर्शदीप की जगह भुवनेश्वर।"
    },
-   "link": "india-west-indies-bengaluru-decider-dew-arshdeep-preview"
+   "link": "bhuvneshwar-added-india-squad-arshdeep-shoulder-bengaluru"
+  },
+  {
+   "icon": "bank",
+   "date": {
+    "en": "Sat 17 Oct",
+    "hi": "शनि, 17 अक्टूबर"
+   },
+   "text": {
+    "en": "YES Bank results, its first since the AT-1 verdict.",
+    "hi": "एटी-1 फ़ैसले के बाद यस बैंक के पहले नतीजे।"
+   },
+   "link": "yes-bank-q2-results-preview-at1-verdict"
   },
   {
    "icon": "users-three",
    "date": {
-    "en": "Sat 18 Oct",
-    "hi": "शनि, 18 अक्टूबर"
+    "en": "Sun 18 Oct",
+    "hi": "रवि, 18 अक्टूबर"
    },
    "text": {
-    "en": "Asian Para Games open in Aichi-Nagoya; Gqeberha Test begins.",
-    "hi": "आइची-नागोया में एशियाई पैरा खेल शुरू; गकेबरहा टेस्ट भी।"
+    "en": "Asian Para Games: India's medal events build in Aichi-Nagoya.",
+    "hi": "एशियाई पैरा खेल: आइची-नागोया में भारत के पदक मुकाबले।"
    },
-   "link": "asian-para-games-india-begin-badminton-table-tennis-blind-football"
+   "link": "asian-para-games-bhavina-suhas-krishna-nagar-winning-start"
   },
   {
-   "icon": "user-switch",
+   "icon": "megaphone",
+   "date": {
+    "en": "Mon 19 Oct",
+    "hi": "सोम, 19 अक्टूबर"
+   },
+   "text": {
+    "en": "Jhota action committee plans protests at AAP leaders' homes.",
+    "hi": "झोटा एक्शन कमेटी का आप नेताओं के घरों के बाहर प्रदर्शन।"
+   },
+   "link": "mann-phillaur-punjab-defamed-drugs-mha-seeks-reports"
+  },
+  {
+   "icon": "handshake",
    "date": {
     "en": "Tue 20 Oct",
     "hi": "मंगल, 20 अक्टूबर"
    },
    "text": {
-    "en": "Deadline for 20 rebel TMC MPs to answer disqualification petitions.",
-    "hi": "20 बागी टीएमसी सांसदों के लिए अयोग्यता याचिकाओं पर जवाब की आखिरी तारीख।"
+    "en": "Jaishankar and Rubio meet in Mumbai; rebel TMC MPs' deadline.",
+    "hi": "मुंबई में जयशंकर-रुबियो वार्ता; बागी टीएमसी सांसदों की समय-सीमा।"
    },
-   "link": "speaker-gives-rebel-tmc-mps-till-october-20"
+   "link": "jaishankar-rubio-talks-mumbai-october-20-mea"
   }
  ]
 }
