@@ -2,7 +2,7 @@
   "id": "economy-dashboard",
   "title": "भारत की अर्थव्यवस्था का डैशबोर्ड",
   "as_of": "2026-10-11",
-  "updated": "2026-10-15T16:00:00+05:30",
+  "updated": "2026-10-16T18:45:00+05:30",
   "notes": "हर आंकड़ा अपनी पंक्ति में बताए गए स्रोत से लिया गया है। verified_primary सिर्फ तब true है जब आंकड़ा किसी प्राथमिक विज्ञप्ति (आरबीआई, सांख्यिकी मंत्रालय, पीआईबी, वित्त मंत्रालय) में पढ़ा गया हो। जिन आंकड़ों को रिसर्च डेस्क ने गणना से निकाला गया (व्युत्पन्न) बताया, वे शामिल नहीं हैं।",
   "indicators": [
     {
@@ -434,16 +434,16 @@
     {
       "id": "usd-inr",
       "name": "डॉलर के मुकाबले रुपया (बंद भाव)",
-      "latest_value": 95.05,
+      "latest_value": 94.89,
       "unit": "₹ प्रति $",
-      "period": "15 अक्टूबर 2026",
-      "release_date": "2026-10-15",
+      "period": "16 अक्टूबर 2026",
+      "release_date": "2026-10-16",
       "change_vs_previous": {
         "basis": "पिछला बंद भाव",
-        "previous_value": 95.16,
-        "previous_period": "14 अक्टूबर 2026",
-        "change": -0.11,
-        "change_unit": "₹ (रुपया 11 पैसे मज़बूत हुआ)"
+        "previous_value": 94.99,
+        "previous_period": "15 अक्टूबर 2026",
+        "change": -0.1,
+        "change_unit": "₹ (रुपया 10 पैसे मज़बूत हुआ)"
       },
       "history": [
         {
@@ -478,13 +478,18 @@
         },
         {
           "period": "15 अक्टूबर 2026",
-          "value": 95.05
+          "value": 94.99,
+          "note": "पीटीआई का अंतिम बंद भाव; पहले 95.05 बताया गया था"
+        },
+        {
+          "period": "16 अक्टूबर 2026",
+          "value": 94.89
         }
       ],
       "source": {
-        "publisher": "PTI via Deccan Herald",
-        "url": "https://www.deccanherald.com/business/markets/rupee-logs-5th-straight-session-of-gain-closes-12-paise-higher-at-9505-against-us-dollar-4183765",
-        "date": "2026-10-15"
+        "publisher": "PTI via ThePrint",
+        "url": "https://theprint.in/economy/rupee-rallies-for-6th-straight-session-ends-10-paise-higher-at-94-89-against-us-dollar/3074139/",
+        "date": "2026-10-16"
       },
       "history_sources": [
         {
@@ -501,20 +506,20 @@
         }
       ],
       "verified_primary": false,
-      "note": "15 अक्टूबर का बंद भाव 95.05 पीटीआई से है, जिसने इसे 95.17 से 12 पैसे की बढ़त बताया; 14 अक्टूबर का दिखाया गया आंकड़ा (95.16) बिज़नेस स्टैंडर्ड का है। नेशनल हेराल्ड ने 9 अक्टूबर का बंद भाव 96.71 बताया। मौजूदा सर्वकालिक निचला स्तर नहीं मिला।"
+      "note": "16 अक्टूबर का बंद भाव 94.89 पीटीआई का अंतिम आंकड़ा है (अनंतिम 94.92 था)। पीटीआई ने 15 अक्टूबर का बंद भाव 94.99 बताया, जो पहले 95.05 बताया गया था। 14 अक्टूबर का आंकड़ा (95.16) बिज़नेस स्टैंडर्ड का है। नेशनल हेराल्ड ने 9 अक्टूबर का बंद भाव 96.71 बताया। पीटीआई के मुताबिक 8 अक्टूबर का 96.88 रिकॉर्ड निचला बंद भाव है। रुपया लगातार छह सत्रों से मज़बूत हुआ है।"
     },
     {
       "id": "forex-reserves",
       "name": "विदेशी मुद्रा भंडार",
-      "latest_value": 734.6,
+      "latest_value": 726.027,
       "unit": "$ अरब",
-      "period": "2 अक्टूबर 2026 को समाप्त सप्ताह",
-      "release_date": "2026-10-09",
+      "period": "9 अक्टूबर 2026 को समाप्त सप्ताह",
+      "release_date": "2026-10-16",
       "change_vs_previous": {
         "basis": "पिछला हफ्ता",
-        "previous_value": 747.6,
-        "previous_period": "25 सितंबर 2026 को समाप्त सप्ताह",
-        "change": -12.95,
+        "previous_value": 734.6,
+        "previous_period": "2 अक्टूबर 2026 को समाप्त सप्ताह",
+        "change": -8.578,
         "change_unit": "$ अरब"
       },
       "history": [
@@ -534,27 +539,31 @@
         {
           "period": "2 अक्टूबर 2026 को समाप्त सप्ताह",
           "value": 734.6
+        },
+        {
+          "period": "9 अक्टूबर 2026 को समाप्त सप्ताह",
+          "value": 726.027
         }
       ],
       "source": {
-        "publisher": "Business Standard (reporting RBI weekly data)",
-        "url": "https://www.business-standard.com/amp/economy/news/india-s-forex-reserves-drop-for-fourth-week-down-12-95-bn-to-734-6-bn-126100901061_1.html",
-        "date": "2026-10-09"
+        "publisher": "ANI via The Tribune (reporting RBI weekly data); PTI via ThePrint",
+        "url": "https://www.tribuneindia.com/news/business/indias-forex-reserves-down-by-usd-8-58-billion-to-usd-726-03-billion-in-week-ended-oct-9",
+        "date": "2026-10-16"
       },
       "verified_primary": false,
-      "note": "लगातार चौथी साप्ताहिक गिरावट। 11 और 18 सितंबर को समाप्त हफ्तों के आंकड़े नहीं मिले।"
+      "note": "लगातार पांचवीं साप्ताहिक गिरावट। 9 अक्टूबर तक: विदेशी मुद्रा परिसंपत्तियां 597.605 अरब डॉलर (-7.142), सोना 105.094 अरब डॉलर (-1.319), एसडीआर 18.548 अरब डॉलर (-0.109), आईएमएफ में रिज़र्व स्थिति 4.780 अरब डॉलर (+0.010)। 11 और 18 सितंबर को समाप्त हफ्तों के आंकड़े नहीं मिले।"
     },
     {
       "id": "sensex",
       "name": "बीएसई सेंसेक्स (बंद स्तर)",
-      "latest_value": 74315.61,
+      "latest_value": 74729.27,
       "unit": "अंक",
-      "period": "15 अक्टूबर 2026",
-      "release_date": "2026-10-15",
+      "period": "16 अक्टूबर 2026",
+      "release_date": "2026-10-16",
       "change_vs_previous": {
         "basis": "पिछला बंद भाव",
-        "change": 1533.72,
-        "change_pct": 2.11,
+        "change": 413.66,
+        "change_pct": 0.56,
         "change_unit": "अंक"
       },
       "history": [
@@ -581,15 +590,19 @@
         {
           "period": "15 अक्टूबर 2026",
           "value": 74315.61
+        },
+        {
+          "period": "16 अक्टूबर 2026",
+          "value": 74729.27
         }
       ],
       "source": {
-        "publisher": "Business Standard",
-        "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-october-15-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101500089_1.html",
-        "date": "2026-10-15"
+        "publisher": "PTI via ThePrint",
+        "url": "https://theprint.in/economy/rupee-rallies-for-6th-straight-session-ends-10-paise-higher-at-94-89-against-us-dollar/3074139/",
+        "date": "2026-10-16"
       },
       "verified_primary": false,
-      "note": "27 मई 2026 का बंद स्तर पीटीआई (डेक्कन हेराल्ड के ज़रिए) से है।",
+      "note": "27 मई 2026 का बंद स्तर पीटीआई (डेक्कन हेराल्ड के ज़रिए) से है। 16 अक्टूबर का बंद स्तर पीटीआई से, लिक्विड से मेल खाता है। हफ्ते भर में (9 से 16 अक्टूबर) सेंसेक्स 2,256.94 अंक यानी 3.11% चढ़ा।",
       "history_sources": [
         {
           "period": "27 मई 2026",
@@ -602,14 +615,14 @@
     {
       "id": "nifty-50",
       "name": "एनएसई निफ्टी 50 (बंद स्तर)",
-      "latest_value": 22997.35,
+      "latest_value": 23146.15,
       "unit": "अंक",
-      "period": "15 अक्टूबर 2026",
-      "release_date": "2026-10-15",
+      "period": "16 अक्टूबर 2026",
+      "release_date": "2026-10-16",
       "change_vs_previous": {
         "basis": "पिछला बंद भाव",
-        "change": 374.65,
-        "change_pct": 1.66,
+        "change": 148.8,
+        "change_pct": 0.65,
         "change_unit": "अंक"
       },
       "history": [
@@ -636,15 +649,19 @@
         {
           "period": "15 अक्टूबर 2026",
           "value": 22997.35
+        },
+        {
+          "period": "16 अक्टूबर 2026",
+          "value": 23146.15
         }
       ],
       "source": {
-        "publisher": "Business Standard",
-        "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-october-15-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101500089_1.html",
-        "date": "2026-10-15"
+        "publisher": "PTI via ThePrint",
+        "url": "https://theprint.in/economy/rupee-rallies-for-6th-straight-session-ends-10-paise-higher-at-94-89-against-us-dollar/3074139/",
+        "date": "2026-10-16"
       },
       "verified_primary": false,
-      "note": "27 मई 2026 का बंद स्तर पीटीआई (डेक्कन हेराल्ड के ज़रिए) से है।",
+      "note": "27 मई 2026 का बंद स्तर पीटीआई (डेक्कन हेराल्ड के ज़रिए) से है। 16 अक्टूबर का बंद स्तर पीटीआई से, लिक्विड से मेल खाता है। हफ्ते भर में (9 से 16 अक्टूबर) निफ्टी 625.70 अंक यानी 2.78% चढ़ा।",
       "history_sources": [
         {
           "period": "27 मई 2026",
