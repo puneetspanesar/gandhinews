@@ -5,14 +5,18 @@ import fs from 'node:fs';
 import path from 'node:path';
 const UA = { 'User-Agent': 'LokVoxPhotoFinder/1.0 (newsroom photo pipeline; contact via github.com/puneetspanesar)' };
 const OK = /^(cc0|cc[- ]by(-sa)?[- ]?[0-9.]*|public domain|pd|cc-pd|attribution|godl-india)/i;
-const queries = JSON.parse(fs.readFileSync('scripts/photo-queries.json', 'utf8'));
+const PART = process.env.PART || '';
+const queries = JSON.parse(fs.readFileSync(`scripts/photo-queries${PART ? '-' + PART : ''}.json`, 'utf8'));
 const out = 'photo-candidates';
 fs.mkdirSync(path.join(out, 'thumbs'), { recursive: true });
 const strip = (s = '') => s.replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
 const result = {};
-for (const [key, q] of Object.entries(queries)) {
+for (const [key, raw] of Object.entries(queries)) {
+  // 'name||N' asks for up to N candidates (default 5).
+  const [q, nWant] = String(raw).split('||');
+  const want = Math.min(Number(nWant) || 5, 20);
   const u = new URL('https://commons.wikimedia.org/w/api.php');
-  Object.entries({ action: 'query', format: 'json', generator: 'search', gsrsearch: `${q} filetype:bitmap`, gsrnamespace: '6', gsrlimit: '30',
+  Object.entries({ action: 'query', format: 'json', generator: 'search', gsrsearch: `${q} filetype:bitmap`, gsrnamespace: '6', gsrlimit: want > 5 ? '50' : '30',
     prop: 'imageinfo', iiprop: 'url|size|mime|extmetadata', iiurlwidth: '480' }).forEach(([k, v]) => u.searchParams.set(k, v));
   let pages = [];
   for (let attempt = 0; attempt < 5; attempt++) {
@@ -42,10 +46,10 @@ for (const [key, q] of Object.entries(queries)) {
     cands.push({ n, title: p.title, page: ii.descriptionurl, url: ii.url, width: ii.width, height: ii.height, licence: lic,
       author: strip(m.Artist?.value).slice(0, 120), credit: strip(m.Credit?.value).slice(0, 120), date: strip(m.DateTimeOriginal?.value).slice(0, 40),
       description: strip(m.ImageDescription?.value).slice(0, 200), thumb, url1600: ii.width > 1600 ? ii.thumburl.split('?')[0].replace(/\/\d+px-/, '/1600px-') : ii.url.split('?')[0] });
-    if (cands.length >= 5) break;
+    if (cands.length >= want) break;
   }
   result[key] = { query: q, candidates: cands };
   console.log(key, pages.length, cands.length);
-  await new Promise((r) => setTimeout(r, 4000));
+  await new Promise((r) => setTimeout(r, 2500));
 }
 fs.writeFileSync(path.join(out, 'candidates.json'), JSON.stringify(result, null, 2));

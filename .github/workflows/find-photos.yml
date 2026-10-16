@@ -1,7 +1,13 @@
 # Finds freely licensed photo candidates on Wikimedia Commons for the queries in
 # scripts/photo-queries.json and pushes them to the photo-candidates branch for review.
 name: Find photo candidates
-on: workflow_dispatch
+on:
+  workflow_dispatch:
+    inputs:
+      part:
+        description: 'Optional part name: reads scripts/photo-queries-PART.json, pushes photo-candidates-PART'
+        required: false
+        default: ''
 permissions:
   contents: write
 jobs:
@@ -13,12 +19,15 @@ jobs:
         with:
           node-version: 22
       - run: node scripts/find-photo-candidates.mjs
+        env:
+          PART: ${{ inputs.part }}
       - name: Push candidates branch
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git checkout --orphan photo-candidates
+          B=photo-candidates${{ inputs.part && format('-{0}', inputs.part) || '' }}
+          git checkout --orphan $B
           git rm -rf --cached . > /dev/null
           git add -f photo-candidates
           git commit -m "Photo candidates"
-          git push -f origin photo-candidates
+          git push -f origin $B
