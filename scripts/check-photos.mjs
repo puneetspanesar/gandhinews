@@ -8,7 +8,8 @@ const list = JSON.parse(fs.readFileSync('content/photos.json', 'utf8'));
 const bySrc = {};
 // Compare by file name, so a thumbnail and the original of the same file count as one.
 const fileOf = (u) => decodeURIComponent(String(u).split('?')[0].replace(/\/\d+px-[^/]+$/, '').replace('/thumb/', '/')).split('/').pop().toLowerCase();
-for (const p of list) if (!String(p.articleId).startsWith('portrait:')) (bySrc[fileOf(p.sourceUrl)] ??= []).push(p.articleId);
+// Composite pictures are checked through their parts (articleId 'part:...').
+for (const p of list) if (!String(p.articleId).startsWith('portrait:') && !p.composite) (bySrc[fileOf(p.sourceUrl)] ??= []).push(p.articleId);
 for (const [src, a] of Object.entries(bySrc)) if (a.length > 1) byPhoto[src] = a;
 const dups = Object.entries(byPhoto).filter(([, a]) => a.length > 1);
 if (dups.length) {
