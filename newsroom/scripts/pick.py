@@ -32,13 +32,16 @@ for sid in sorted(plan):
     for pn in plan[sid]['panels']:
         best = None
         qt = toks(re.sub(r'\(.*?\)', '', pn['q']))
-        for q in [pn['q']] + pn.get('alts', []) + extra.get(pn['q'], []):
+        kinds = [pn['kind']] + (['place'] if pn['kind'] == 'person' and len(pn['q'].split()) == 1 else [])
+        for kind in kinds:
+          if best: break
+          for q in [pn['q']] + pn.get('alts', []) + extra.get(pn['q'], []):
             for d, k, cands in pools.get(q, []):
                 for c in cands:
                     f = fileof(c['url'])
                     if f in taken: continue
                     title = (c['title'] + ' ' + (c.get('description') or '')).lower()
-                    if pn['kind'] == 'person':
+                    if kind == 'person':
                         if qt and qt[-1] not in title: continue
                         nf, big = face_score(f"{W}{d}/photo-candidates/thumbs/{c['thumb']}")
                         if nf == 0: continue
