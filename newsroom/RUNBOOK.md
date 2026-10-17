@@ -19,7 +19,7 @@ The site is Astro in the private repo puneetspanesar/gandhinews. Cloudflare Work
 ```
 [ -d /home/claude/gandhinews/.git ] || gh repo clone puneetspanesar/gandhinews /home/claude/gandhinews
 cd /home/claude/gandhinews && git pull -q && npm ci --silent
-mkdir -p /home/claude/gn-work && cp newsroom/briefs/*.md newsroom/scripts/*.py /home/claude/gn-work/
+mkdir -p /home/claude/gn-work && cp newsroom/briefs/*.md newsroom/scripts/*.py newsroom/scripts/blocklist.txt /home/claude/gn-work/
 [ -x /tmp/claude-0/cvenv/bin/python ] || (python3 -m venv /tmp/claude-0/cvenv && /tmp/claude-0/cvenv/bin/pip -q install "opencv-python-headless<5" pillow numpy pyyaml)
 : > /home/claude/gn-work/claims.txt
 ```
@@ -64,7 +64,7 @@ $PY pick.py
 ```
 For panels still missing, write a second round of better queries (official forms like "Shri Rajnath Singh", plain city or building names, `||20` for big pools) into scripts/photo-queries-<tag>r.json with keys like `<tag>r0`, push, trigger, fetch into pcv<tag>r, and map each missing panel query to its new query texts in gn-work/extra.json: `{"Bhagwant Mann": ["Bhagwant Mann Punjab"]}`. Rerun `$PY pick.py`. One extra round is enough.
 
-Review: `$PY review_sheet.py picks`, then Read every ps*.jpg. For each story check every panel shows the named person or the actual place. Remove wrong panels by editing gn-work/picks.json (set the panel to null; a story with no panels left gets no photo). Common failures: a namesake (wrong person with the same surname), a group photo where the person is tiny, a signature or map instead of the person, a logo that is not the company, an unrelated building. Where a person has no usable photo, a specific place in the story (the court, the city, the HQ) is a good single panel: add it by hand to picks.json using a candidate from the pools (fields q, dir, key, n, title, url (=url1600), page, licence, author, kind, what).
+Review: `$PY review_sheet.py picks`, then Read every ps*.jpg. For each story check every panel shows the named person or the actual place. Remove wrong panels by editing gn-work/picks.json (set the panel to null; a story with no panels left gets no photo). Add the file name of every wrong-person or wrong-place pick (lower case, as in the URL, underscores) to newsroom/scripts/blocklist.txt so no later run picks it again. Common failures: a namesake (wrong person with the same surname), a group photo where the person is tiny, a signature or map instead of the person, a logo that is not the company, an unrelated building. When two or more people are in a photo and the crop could land on the wrong face, drop it unless a focus point fixes it. Where a person has no usable photo, a specific place in the story (the court, the city, the HQ) is a good single panel: add it by hand to picks.json using a candidate from the pools (fields q, dir, key, n, title, url (=url1600), page, licence, author, kind, what).
 
 Alt text: `python3 register.py`. If it lists stories that need alt text (panels changed from the plan), write gn-work/alts-override.json `{"id": ["English alt", "Hindi alt"]}` naming who or what is actually shown, then run it again. Then:
 ```

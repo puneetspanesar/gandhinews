@@ -1,15 +1,15 @@
 {
  "lead": {
-  "id": "cjp-lehra-do-tiranga-dipke-neha-bora-detained-connaught-place",
+  "id": "trump-waives-russia-sanctions-law-india-tariff-threat",
   "chart": 1,
   "overlay": {
    "kicker": {
-    "en": "Connaught Place, Friday evening",
-    "hi": "कनॉट प्लेस, शुक्रवार शाम"
+    "en": "Washington, Friday",
+    "hi": "वॉशिंगटन, शुक्रवार"
    },
    "value": {
-    "en": "150 held, Central Park locked",
-    "hi": "150 हिरासत में, सेंट्रल पार्क पर ताला"
+    "en": "100% tariff threat on India lifted",
+    "hi": "भारत पर 100% टैरिफ़ का ख़तरा टला"
    },
    "text": {
     "en": "",
@@ -18,154 +18,154 @@
   },
   "dataBox": [
    {
-    "icon": "users-three",
+    "icon": "percent",
     "color": "#cc0000",
     "value": {
-     "en": "~150",
-     "hi": "करीब 150"
+     "en": "100%",
+     "hi": "100%"
     },
     "label": {
-     "en": "people detained in central Delhi",
-     "hi": "लोग मध्य दिल्ली में हिरासत में"
+     "en": "tariff the law threatened on top Russian oil buyers",
+     "hi": "टैरिफ़, जिसकी धमकी रूसी तेल के बड़े ख़रीदारों को थी"
     }
    },
    {
-    "icon": "clock",
+    "icon": "calendar-check",
     "color": "#8f0000",
     "value": {
-     "en": "5 pm",
-     "hi": "शाम 5 बजे"
+     "en": "18 Oct",
+     "hi": "18 अक्टूबर"
     },
     "label": {
-     "en": "Dipke held minutes before the start",
-     "hi": "शुरू होने से कुछ मिनट पहले डिपके हिरासत में"
+     "en": "when the penalties were due",
+     "hi": "जब जुर्माने लागू होने थे"
     }
    },
    {
-    "icon": "megaphone",
+    "icon": "handshake",
     "color": "#0d0d0d",
     "value": {
-     "en": "Mandi House",
-     "hi": "मंडी हाउस"
+     "en": "20 Oct",
+     "hi": "20 अक्टूबर"
     },
     "label": {
-     "en": "where Neha Bora was detained",
-     "hi": "जहाँ नेहा बोरा को हिरासत में लिया गया"
+     "en": "Rubio meets Jaishankar in Mumbai",
+     "hi": "मुंबई में रुबियो-जयशंकर मुलाक़ात"
     }
    },
    {
-    "icon": "scales",
+    "icon": "gas-pump",
     "color": "#6e6e6e",
     "value": {
-     "en": "Sec 163",
-     "hi": "धारा 163"
+     "en": "$110",
+     "hi": "110 डॉलर"
     },
     "label": {
-     "en": "BNSS orders used to bar the gathering",
-     "hi": "बीएनएसएस आदेश, जिनसे सभा रोकी गई"
+     "en": "Brent crude as Hormuz stays shut",
+     "hi": "ब्रेंट कच्चा तेल, होर्मुज़ बंद रहने से"
     }
    }
   ],
   "relatedBelow": [
-   "dipke-detention-undeclared-emergency-mamata-rajnath-anarchy",
-   "supreme-court-traders-plea-central-park-shutdown-cjp"
+   "jaishankar-rubio-talks-mumbai-october-20-mea",
+   "us-lawmakers-urge-rubio-raise-cjp-protests-india"
   ],
   "relatedBeside": [
-   "supreme-court-contempt-notice-sanjay-raut-nikhil-wagle",
-   "sensex-nifty-it-rally-weekly-gain-october-16",
-   "zelenskyy-asks-eu-70-billion-trump-disgrace-row",
-   "saudi-houthi-war-crimes-us-tightens-iran-sanctions",
-   "gill-iyer-split-odi-captaincy-new-zealand-bumrah-jadeja-out"
+   "irgc-supertanker-mine-fire-hormuz-closed",
+   "dipke-granted-bail-neha-bora-released-delhi-court",
+   "russia-largest-energy-attack-lutsk-rivne-vinnytsia-blackout",
+   "icici-bank-q2-profit-rises-20-per-cent-loans-30",
+   "india-west-indies-decider-rain-bengaluru-arshdeep-call"
   ]
  },
  "briefing": {
   "items": [
    {
-    "link": "cjp-lehra-do-tiranga-dipke-neha-bora-detained-connaught-place",
+    "link": "trump-waives-russia-sanctions-law-india-tariff-threat",
+    "lead": {
+     "en": "US:",
+     "hi": "अमेरिका:"
+    },
+    "text": {
+     "en": "Trump waives the Russia sanctions law, lifting the 100% tariff threat on India.",
+     "hi": "ट्रंप ने रूस प्रतिबंध क़ानून से छूट दी, भारत पर 100% टैरिफ़ का ख़तरा टला।"
+    }
+   },
+   {
+    "link": "irgc-supertanker-mine-fire-hormuz-closed",
+    "lead": {
+     "en": "Hormuz:",
+     "hi": "होर्मुज़:"
+    },
+    "text": {
+     "en": "Iran says a supertanker hit a mine; 15 Indian seafarers safe.",
+     "hi": "ईरान का दावा, सुपरटैंकर बारूदी सुरंग से टकराया; 15 भारतीय नाविक सुरक्षित।"
+    }
+   },
+   {
+    "link": "dipke-granted-bail-neha-bora-released-delhi-court",
     "lead": {
      "en": "Delhi:",
      "hi": "दिल्ली:"
     },
     "text": {
-     "en": "Dipke, Neha Bora and about 150 others detained at the CJP flag protest.",
-     "hi": "सीजेपी के तिरंगा प्रदर्शन में डिपके, नेहा बोरा समेत करीब 150 लोग हिरासत में।"
+     "en": "Dipke freed on a peace bond; Neha Bora released overnight.",
+     "hi": "डिपके शांति बॉन्ड पर रिहा; नेहा बोरा रात में छोड़ी गईं।"
     }
    },
    {
-    "link": "dipke-detention-undeclared-emergency-mamata-rajnath-anarchy",
+    "link": "hdfc-bank-q2-profit-rises-4-7-per-cent-jagdishan-last",
     "lead": {
-     "en": "Reaction:",
-     "hi": "प्रतिक्रिया:"
+     "en": "Banks:",
+     "hi": "बैंक:"
     },
     "text": {
-     "en": "Mamata calls it an 'undeclared Emergency'; Rajnath blames the opposition.",
-     "hi": "ममता ने इसे \"अघोषित आपातकाल\" कहा; राजनाथ ने विपक्ष पर निशाना साधा।"
+     "en": "HDFC profit up 4.7%, ICICI up 20%, Axis up 38%.",
+     "hi": "एचडीएफ़सी का मुनाफ़ा 4.7%, आईसीआईसीआई का 20%, एक्सिस का 38% बढ़ा।"
     }
    },
    {
-    "link": "supreme-court-contempt-notice-sanjay-raut-nikhil-wagle",
+    "link": "supreme-court-internet-access-fundamental-right-children",
     "lead": {
      "en": "Supreme Court:",
      "hi": "सुप्रीम कोर्ट:"
     },
     "text": {
-     "en": "contempt notice to Sanjay Raut and Nikhil Wagle.",
-     "hi": "संजय राउत और निखिल वागले को अवमानना नोटिस।"
+     "en": "internet access is a fundamental right for children too.",
+     "hi": "इंटरनेट तक पहुंच बच्चों का भी मौलिक अधिकार।"
     }
    },
    {
-    "link": "sensex-nifty-it-rally-weekly-gain-october-16",
-    "lead": {
-     "en": "Markets:",
-     "hi": "बाज़ार:"
-    },
-    "text": {
-     "en": "IT shares lift the Sensex 414 points; up 3.1% for the week.",
-     "hi": "आईटी शेयरों से सेंसेक्स 414 अंक चढ़ा; हफ़्ते में 3.1% बढ़त।"
-    }
-   },
-   {
-    "link": "mann-phillaur-punjab-defamed-drugs-mha-seeks-reports",
+    "link": "jhota-panel-gherao-aap-mlas-singla-heckled-mansa",
     "lead": {
      "en": "Punjab:",
      "hi": "पंजाब:"
     },
     "text": {
-     "en": "Mann says the state is 'defamed' over drugs; Centre seeks reports.",
-     "hi": "मान बोले, नशे पर पंजाब को बदनाम किया गया; केंद्र ने रिपोर्ट मांगी।"
+     "en": "protesters chase an AAP MLA from Mansa hospital; gherao on Monday.",
+     "hi": "प्रदर्शनकारियों ने आप विधायक को मानसा अस्पताल से खदेड़ा; सोमवार को घेराव।"
     }
    },
    {
-    "link": "gill-iyer-split-odi-captaincy-new-zealand-bumrah-jadeja-out",
-    "lead": {
-     "en": "Cricket:",
-     "hi": "क्रिकेट:"
-    },
-    "text": {
-     "en": "Gill and Iyer split the ODI captaincy for New Zealand; no Bumrah.",
-     "hi": "न्यूज़ीलैंड दौरे पर गिल और अय्यर में बंटी वनडे कप्तानी; बुमराह नहीं।"
-    }
-   },
-   {
-    "link": "zelenskyy-asks-eu-70-billion-trump-disgrace-row",
+    "link": "russia-largest-energy-attack-lutsk-rivne-vinnytsia-blackout",
     "lead": {
      "en": "Ukraine:",
      "hi": "यूक्रेन:"
     },
     "text": {
-     "en": "Zelenskyy asks the EU for €70 billion more for 2027.",
-     "hi": "ज़ेलेंस्की ने 2027 के लिए ईयू से 70 अरब यूरो और मांगे।"
+     "en": "Russia's 332-drone strike on the grid cuts power in seven cities.",
+     "hi": "332 ड्रोन से ग्रिड पर रूसी हमला, सात शहरों में बिजली गुल।"
     }
    },
    {
-    "link": "saudi-houthi-war-crimes-us-tightens-iran-sanctions",
+    "link": "india-west-indies-decider-rain-bengaluru-arshdeep-call",
     "lead": {
-     "en": "Gulf:",
-     "hi": "खाड़ी:"
+     "en": "Cricket:",
+     "hi": "क्रिकेट:"
     },
     "text": {
-     "en": "Saudi Arabia calls Houthi airport strikes war crimes.",
-     "hi": "सऊदी अरब ने हूती हमलों को युद्ध अपराध बताया।"
+     "en": "rain delays the series decider in Bengaluru.",
+     "hi": "बारिश से बेंगलुरु में निर्णायक मैच में देरी।"
     }
    }
   ]
@@ -233,27 +233,27 @@
  },
  "topStories": {
   "big": {
-   "id": "supreme-court-yes-bank-at1-judgment-rbi-bystander",
+   "id": "dipke-granted-bail-neha-bora-released-delhi-court",
    "also": [
-    "yes-bank-q2-results-preview-at1-verdict",
-    "at1-bonds-explained-yes-bank-supreme-court-ruling"
+    "police-detention-powers-bnss-explained",
+    "india-rejects-un-rapporteur-romero-report-youth-cjp"
    ]
   },
   "list": [
-   "delhi-sir-reverification-47-lakh-deleted-voters",
-   "ec-hearing-trinamool-ownership-dispute-october-30",
-   "supreme-court-to-hear-plea-rahul-gandhi-pushed-pregnant-journalist",
-   "prashant-kishor-samrat-choudhary-lord-ram-remark-arrogance",
-   "pinarayi-vijayan-supreme-court-cmrl-fir-vacation-listing"
+   "dmk-seeks-cec-gyanesh-kumar-removal-ballot-papers",
+   "census-rules-amended-private-teachers-any-person-enumerators-congress",
+   "finance-ministry-idbi-2003-parliament-assurance-not-binding",
+   "pakistan-rejects-rajnath-remarks-afghan-talks-conditions",
+   "anant-singh-nine-murders-claim-nitish-kumar-row"
   ]
  },
  "startHere": [
+  "police-detention-powers-bnss-explained",
+  "current-account-deficit-explained-rupee",
+  "contempt-of-court-attorney-general-consent-explained",
   "eu-russia-sanctions-indian-firms-explained",
   "asian-para-games-classification-explained",
-  "bonus-issue-explained-tech-mahindra",
-  "at1-bonds-explained-yes-bank-supreme-court-ruling",
-  "whos-who-uttar-pradesh-2027-contest",
-  "daily-crr-rule-explained-banks-borrowers"
+  "bonus-issue-explained-tech-mahindra"
  ],
  "trackers": [
   {
@@ -406,11 +406,11 @@
   }
  ],
  "opinion": [
+  "punjab-drug-crisis-needs-data-not-denial",
+  "cert-in-ai-agents-warning-must-not-fade",
   "protest-needs-more-than-one-designated-site",
   "after-yes-bank-ruling-rbi-must-own-investor-protection",
-  "school-buildings-need-safety-audits-before-the-next-roof-falls",
-  "india-gulf-war-exposure-needs-a-plan-not-hope",
-  "after-raghopur-country-boats-need-rules-that-are-enforced"
+  "school-buildings-need-safety-audits-before-the-next-roof-falls"
  ],
  "sections": [
   {
@@ -420,14 +420,14 @@
     "article": "bypoll-results-ruling-parties-win-all-six-seats"
    },
    "list": [
-    "jk-ias-officer-abuses-jkas-officer-omar-abdullah-protection",
-    "delhi-high-court-refuses-stay-sc-st-fir-woman-journalist-acp",
-    "zubeen-garg-cousin-sandipan-bail-gauhati-high-court"
+    "dhruv-rathee-bailable-warrant-2018-defamation-case",
+    "yogi-adityanath-pda-parivaar-development-authority-ghaziabad",
+    "aiks-joins-october-23-nationwide-protests-against-sir"
    ]
   },
   {
    "section": "economy",
-   "lead": "rupee-sixth-gain-forex-reserves-fall-726-billion",
+   "lead": "icici-bank-q2-profit-rises-20-per-cent-loans-30",
    "module": {
     "type": "markets",
     "indicators": [
@@ -438,29 +438,29 @@
     ]
    },
    "list": [
-    "india-current-account-deficit-august-5-2-billion",
-    "flipkart-group-fy26-revenue-1-45-lakh-crore-loss-narrows",
-    "cult-fit-sebi-nod-ipo-950-crore-fresh-issue",
-    "pnb-federal-bank-q2-profit-record"
+    "hdfc-bank-q2-profit-rises-4-7-per-cent-jagdishan-last",
+    "axis-bank-q2-profit-rises-38-per-cent-misses-estimates",
+    "ipo-week-ahead-jio-platforms-paras-healthcare-open",
+    "urban-company-q2-revenue-rises-41-per-cent-instahelp"
    ]
   },
   {
    "section": "states",
-   "lead": "mann-phillaur-punjab-defamed-drugs-mha-seeks-reports",
+   "lead": "jhota-panel-gherao-aap-mlas-singla-heckled-mansa",
    "list": [
-    "andhra-local-body-nominations-violence-punganur-mithun-reddy",
-    "manipur-kamjong-ambush-kuki-woman-killed-couple-missing",
-    "delhi-rain-clears-air-aqi-86-satisfactory"
+    "keralam-waqf-board-reconstituted-mayin-haji-chairman",
+    "manipur-chassad-firing-village-chief-among-four-injured",
+    "delhi-air-turns-poor-again-anand-vihar-dry-week"
    ]
   },
   {
    "section": "policy",
-   "lead": "jaishankar-rubio-talks-mumbai-october-20-mea",
+   "lead": "census-rules-amended-private-teachers-any-person-enumerators-congress",
    "list": [
-    "ins-samarthak-commissioning-karwar",
-    "mea-rejects-us-congresswoman-remarks-electoral-process",
-    "india-mongolia-defence-joint-working-group",
-    "pm-setu-1195-crore-five-iti-clusters"
+    "fssai-draft-ban-added-sugar-infant-food-six-months",
+    "nmc-one-time-fifth-attempt-first-year-mbbs",
+    "hpec-portal-jantar-mantar-violence-complaints",
+    "chouhan-khet-bachao-abhiyan-october-22-november-30"
    ]
   },
   {
@@ -478,68 +478,44 @@
  "desks": [
   {
    "section": "world",
-   "lead": "zelenskyy-asks-eu-70-billion-trump-disgrace-row",
+   "lead": "irgc-supertanker-mine-fire-hormuz-closed",
    "list": [
-    "saudi-houthi-war-crimes-us-tightens-iran-sanctions",
-    "indonesia-stocks-worst-day-since-1998-msci-downgrade",
-    "trump-says-us-in-denuclearisation-talks-russia-china"
+    "russia-largest-energy-attack-lutsk-rivne-vinnytsia-blackout",
+    "iran-rejects-saudi-houthi-claims-offers-mediation",
+    "global-hunger-index-2026-india-serious-south-asia"
    ]
   },
   {
    "section": "science",
-   "lead": "reliance-responds-musk-starlink-never-feared-competition",
+   "lead": "japan-h3-mmx-phobos-sample-return-launch",
    "list": [
-    "cert-in-warns-ai-agents-accessed-indian-systems",
-    "anthropic-gives-metr-researchers-employee-level-access",
-    "origin-raises-20-million-wall-finishing-construction-robots"
+    "starlink-says-india-infrastructure-ready-govt-approvals",
+    "raman-research-institute-black-hole-jets-heat-galaxy-gas",
+    "replit-ends-anthropic-partnership-ceo-amjad-masad"
    ]
   },
   {
    "section": "sports",
-   "lead": "gill-iyer-split-odi-captaincy-new-zealand-bumrah-jadeja-out",
+   "lead": "india-west-indies-decider-rain-bengaluru-arshdeep-call",
    "list": [
-    "bhuvneshwar-added-india-squad-arshdeep-shoulder-bengaluru",
-    "asian-para-games-bhavina-suhas-krishna-nagar-winning-start",
-    "komal-u23-worlds-bronze-amruta-pujari-final"
+    "india-women-beat-zimbabwe-niki-prasad-deepti-raipur",
+    "jayawardene-steps-down-mumbai-indians-coach",
+    "mohun-bagan-beat-sc-delhi-figueira-isl"
    ]
   }
  ],
  "weekAhead": [
   {
-   "icon": "trophy",
-   "date": {
-    "en": "Sat 17 Oct",
-    "hi": "शनि, 17 अक्टूबर"
-   },
-   "text": {
-    "en": "India v West Indies decider in Bengaluru; Bhuvneshwar in for Arshdeep.",
-    "hi": "बेंगलुरु में भारत-वेस्टइंडीज़ निर्णायक मैच; अर्शदीप की जगह भुवनेश्वर।"
-   },
-   "link": "bhuvneshwar-added-india-squad-arshdeep-shoulder-bengaluru"
-  },
-  {
-   "icon": "bank",
-   "date": {
-    "en": "Sat 17 Oct",
-    "hi": "शनि, 17 अक्टूबर"
-   },
-   "text": {
-    "en": "YES Bank results, its first since the AT-1 verdict.",
-    "hi": "एटी-1 फ़ैसले के बाद यस बैंक के पहले नतीजे।"
-   },
-   "link": "yes-bank-q2-results-preview-at1-verdict"
-  },
-  {
-   "icon": "users-three",
+   "icon": "person-simple-run",
    "date": {
     "en": "Sun 18 Oct",
     "hi": "रवि, 18 अक्टूबर"
    },
    "text": {
-    "en": "Asian Para Games: India's medal events build in Aichi-Nagoya.",
-    "hi": "एशियाई पैरा खेल: आइची-नागोया में भारत के पदक मुकाबले।"
+    "en": "Delhi Half Marathon: Legese goes for a third title.",
+    "hi": "दिल्ली हाफ़ मैराथन: लेगेसे तीसरे ख़िताब की तलाश में।"
    },
-   "link": "asian-para-games-bhavina-suhas-krishna-nagar-winning-start"
+   "link": "delhi-half-marathon-legese-third-title-preview"
   },
   {
    "icon": "megaphone",
@@ -548,10 +524,10 @@
     "hi": "सोम, 19 अक्टूबर"
    },
    "text": {
-    "en": "Jhota action committee plans protests at AAP leaders' homes.",
-    "hi": "झोटा एक्शन कमेटी का आप नेताओं के घरों के बाहर प्रदर्शन।"
+    "en": "Jhota panel to gherao AAP MLAs and ministers in Punjab.",
+    "hi": "पंजाब में झोटा कमेटी का आप विधायकों और मंत्रियों का घेराव।"
    },
-   "link": "mann-phillaur-punjab-defamed-drugs-mha-seeks-reports"
+   "link": "jhota-panel-gherao-aap-mlas-singla-heckled-mansa"
   },
   {
    "icon": "handshake",
@@ -564,6 +540,30 @@
     "hi": "मुंबई में जयशंकर-रुबियो वार्ता; बागी टीएमसी सांसदों की समय-सीमा।"
    },
    "link": "jaishankar-rubio-talks-mumbai-october-20-mea"
+  },
+  {
+   "icon": "rocket",
+   "date": {
+    "en": "Tue 20 Oct",
+    "hi": "मंगल, 20 अक्टूबर"
+   },
+   "text": {
+    "en": "Japan launches its MMX mission to Mars's moon Phobos.",
+    "hi": "जापान का एमएमएक्स मिशन मंगल के चंद्रमा फ़ोबोस की ओर।"
+   },
+   "link": "japan-h3-mmx-phobos-sample-return-launch"
+  },
+  {
+   "icon": "bank",
+   "date": {
+    "en": "Wed 21 Oct",
+    "hi": "बुध, 21 अक्टूबर"
+   },
+   "text": {
+    "en": "Jio Platforms and Paras Healthcare IPOs open.",
+    "hi": "जियो प्लेटफ़ॉर्म्स और पारस हेल्थकेयर के आईपीओ खुलेंगे।"
+   },
+   "link": "ipo-week-ahead-jio-platforms-paras-healthcare-open"
   }
  ]
 }

@@ -17,6 +17,8 @@ for f in sorted(glob.glob(W + 'pcv*/photo-candidates/candidates.json')):
 fileof = lambda u: urllib.parse.unquote(re.sub(r'/\d+px-[^/]+$', '', u.split('?')[0]).replace('/thumb/', '/')).split('/')[-1].lower()
 P = json.load(open('/home/claude/gandhinews/content/photos.json'))
 taken = {fileof(p['sourceUrl']) for p in P if not p.get('composite') and p['articleId'].split(':')[1 if p['articleId'].startswith('part:') else 0] not in plan}
+BLOCK = {l.strip().lower() for l in open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'blocklist.txt')) if l.strip() and not l.startswith('#')} if os.path.exists(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'blocklist.txt')) else set()
+taken |= BLOCK
 CASC = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
 def face_score(path):
     try: g = cv2.cvtColor(np.array(Image.open(path).convert('RGB')), cv2.COLOR_RGB2GRAY)
@@ -32,7 +34,7 @@ for sid in sorted(plan):
     for pn in plan[sid]['panels']:
         best = None
         qt = toks(re.sub(r'\(.*?\)', '', pn['q']))
-        kinds = [pn['kind']] + (['place'] if pn['kind'] == 'person' and len(pn['q'].split()) == 1 else [])
+        kinds = [pn['kind']] + (['place'] if pn['kind'] == 'person' else [])
         for kind in kinds:
           if best: break
           for q in [pn['q']] + pn.get('alts', []) + extra.get(pn['q'], []):
@@ -49,6 +51,7 @@ for sid in sorted(plan):
                     else:
                         hits = sum(1 for t in qt if t in title)
                         if qt and not hits: continue
+                        if pn['kind'] == 'person' and hits < len(qt): continue  # a person's name used as a place: all words must match
                         score = hits
                     score += min(c['width'], 3000) / 1000 - c['n'] * 0.2
                     if not best or score > best['score']:
