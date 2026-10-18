@@ -1,15 +1,15 @@
 {
  "lead": {
-  "id": "kolkata-chorbagan-durga-puja-pandal-stampede",
+  "id": "gwalior-truck-sheetla-mata-temple-14-killed",
   "chart": 1,
   "overlay": {
    "kicker": {
-    "en": "North Kolkata, Saturday evening",
-    "hi": "उत्तर कोलकाता, शनिवार शाम"
+    "en": "Gwalior, early Sunday",
+    "hi": "ग्वालियर, रविवार तड़के"
    },
    "value": {
-    "en": "A rush in the rain, 19 dead",
-    "hi": "बारिश में भगदड़, 19 की मौत"
+    "en": "14 dead outside temple",
+    "hi": "मंदिर के बाहर 14 की मौत"
    },
    "text": {
     "en": "",
@@ -18,154 +18,154 @@
   },
   "dataBox": [
    {
-    "icon": "warning",
+    "icon": "users-three",
     "color": "#cc0000",
     "value": {
-     "en": "19",
-     "hi": "19"
+     "en": "14",
+     "hi": "14"
     },
     "label": {
-     "en": "people killed, the Chief Minister said",
-     "hi": "लोगों की मौत, मुख्यमंत्री ने बताया"
+     "en": "devotees killed when the truck hit",
+     "hi": "श्रद्धालुओं की ट्रक की टक्कर से मौत"
     }
    },
    {
-    "icon": "users-three",
+    "icon": "clock",
     "color": "#8f0000",
     "value": {
-     "en": "25",
-     "hi": "25"
+     "en": "28",
+     "hi": "28"
     },
     "label": {
-     "en": "injured in the crowd surge",
-     "hi": "भीड़ के दबाव में घायल"
+     "en": "people injured, taken to hospital",
+     "hi": "लोग घायल, अस्पताल में भर्ती"
     }
    },
    {
-    "icon": "currency-inr",
+    "icon": "scales",
     "color": "#0d0d0d",
     "value": {
-     "en": "₹2 lakh",
-     "hi": "₹2 लाख"
+     "en": "8",
+     "hi": "8"
     },
     "label": {
-     "en": "PM's ex gratia for each family of the dead",
-     "hi": "मृतकों के प्रत्येक परिवार को प्रधानमंत्री की अनुग्रह राशि"
+     "en": "police suspended; City SP removed",
+     "hi": "पुलिसकर्मी निलंबित; सीएसपी हटाए गए"
     }
    },
    {
-    "icon": "barricade",
+    "icon": "bank",
     "color": "#6e6e6e",
     "value": {
-     "en": "Shut",
-     "hi": "बंद"
+     "en": "₹4 lakh",
+     "hi": "₹4 लाख"
     },
     "label": {
-     "en": "big pandals closed for the night, probe opened",
-     "hi": "बड़े पंडाल रात भर बंद, जांच शुरू"
+     "en": "state aid per bereaved family",
+     "hi": "हर मृतक परिवार को राज्य की सहायता"
     }
    }
   ],
   "relatedBelow": [
-   "kolkata-police-shut-major-pandals-stampede-probe",
-   "hyderabad-dandiya-arch-collapse-student-killed"
+   "kolkata-stampede-seven-arrested-sit-judge",
+   "puja-crowds-need-a-safety-plan-not-a-probe"
   ],
   "relatedBeside": [
-   "oil-110-nasdaq-slide-cautious-start-indian-markets-monday",
-   "egypt-sisi-seeks-parliament-nod-to-defend-saudi-arabia",
-   "nitin-nabin-patna-rally-rahul-gandhi-foreign-toolkit",
-   "france-protests-550000-limoges-city-hall-fire-macron",
-   "india-west-indies-fifth-t20i-washed-out-series-shared"
+   "st-petersburg-oil-terminal-ablaze-ukraine-1000-drones",
+   "four-day-week-dussehra-nifty-outlook-jio-ipo-infosys",
+   "jairam-ramesh-searchable-rolls-cec-must-go-sir-suspend",
+   "iran-parliament-approves-akhlaghi-defence-minister",
+   "ranji-round-two-day-one-priyansh-arya-century-deshpande"
   ]
  },
  "briefing": {
   "items": [
    {
-    "link": "kolkata-chorbagan-durga-puja-pandal-stampede",
+    "link": "gwalior-truck-sheetla-mata-temple-14-killed",
+    "lead": {
+     "en": "Gwalior:",
+     "hi": "ग्वालियर:"
+    },
+    "text": {
+     "en": "truck hits devotees outside a temple, 14 dead; eight police suspended.",
+     "hi": "मंदिर के बाहर ट्रक ने श्रद्धालुओं को कुचला, 14 की मौत; आठ पुलिसकर्मी निलंबित।"
+    }
+   },
+   {
+    "link": "kolkata-stampede-seven-arrested-sit-judge",
     "lead": {
      "en": "Kolkata:",
      "hi": "कोलकाता:"
     },
     "text": {
-     "en": "19 killed in a crowd surge at the Chorbagan Durga Puja pandal.",
-     "hi": "चोरबागान दुर्गा पूजा पंडाल में भगदड़, 19 की मौत।"
+     "en": "seven arrested over the Chorbagan stampede; judge to lead probe.",
+     "hi": "चोरबागान भगदड़ में सात गिरफ़्तार; जज करेंगे जांच।"
     }
    },
    {
-    "link": "oil-110-nasdaq-slide-cautious-start-indian-markets-monday",
+    "link": "jairam-ramesh-searchable-rolls-cec-must-go-sir-suspend",
+    "lead": {
+     "en": "Congress:",
+     "hi": "कांग्रेस:"
+    },
+    "text": {
+     "en": "says the CEC 'simply has to go' and wants SIR suspended.",
+     "hi": "कहा, मुख्य चुनाव आयुक्त को जाना ही होगा; एसआईआर रोकने की मांग।"
+    }
+   },
+   {
+    "link": "four-day-week-dussehra-nifty-outlook-jio-ipo-infosys",
     "lead": {
      "en": "Markets:",
      "hi": "बाज़ार:"
     },
     "text": {
-     "en": "Brent near $110 and a Nasdaq slide point to a cautious Monday.",
-     "hi": "ब्रेंट 110 डॉलर के पास, नैस्डैक में गिरावट; सोमवार को सतर्क शुरुआत के संकेत।"
+     "en": "a four-day week with Dussehra, the Jio IPO and Infosys results.",
+     "hi": "दशहरा, जियो आईपीओ और इंफ़ोसिस नतीजों वाला चार दिन का हफ़्ता।"
     }
    },
    {
-    "link": "yes-bank-q2-profit-rises-65-per-cent-at1-proforma-loss",
+    "link": "fpi-selling-reaches-52100-crore-october-friday-buying",
     "lead": {
-     "en": "YES Bank:",
-     "hi": "यस बैंक:"
+     "en": "FPIs:",
+     "hi": "एफ़पीआई:"
     },
     "text": {
-     "en": "Q2 profit up 65%, but the AT-1 ruling would mean a loss.",
-     "hi": "दूसरी तिमाही में मुनाफ़ा 65% बढ़ा, पर एटी-1 फ़ैसले से घाटा संभव।"
+     "en": "₹52,100 crore of shares sold in October, but selling slows.",
+     "hi": "अक्टूबर में ₹52,100 करोड़ के शेयर बेचे, बिकवाली धीमी।"
     }
    },
    {
-    "link": "nitin-nabin-patna-rally-rahul-gandhi-foreign-toolkit",
+    "link": "st-petersburg-oil-terminal-ablaze-ukraine-1000-drones",
     "lead": {
-     "en": "Bihar:",
-     "hi": "बिहार:"
+     "en": "Ukraine:",
+     "hi": "यूक्रेन:"
     },
     "text": {
-     "en": "Nitin Nabin attacks Rahul Gandhi at a Patna rally.",
-     "hi": "पटना रैली में नितिन नवीन का राहुल गांधी पर हमला।"
+     "en": "more than 1,000 drones fired at Russia; St Petersburg oil terminal ablaze.",
+     "hi": "रूस पर 1,000 से ज़्यादा ड्रोन; सेंट पीटर्सबर्ग का तेल टर्मिनल जला।"
     }
    },
    {
-    "link": "egypt-sisi-seeks-parliament-nod-to-defend-saudi-arabia",
+    "link": "iran-parliament-approves-akhlaghi-defence-minister",
     "lead": {
-     "en": "Gulf:",
-     "hi": "खाड़ी:"
+     "en": "Iran:",
+     "hi": "ईरान:"
     },
     "text": {
-     "en": "Sisi asks Egypt's parliament for power to help defend Saudi Arabia.",
-     "hi": "सीसी ने सऊदी अरब की रक्षा के लिए मिस्र की संसद से अनुमति मांगी।"
+     "en": "parliament confirms a new defence minister as tankers burn in Hormuz.",
+     "hi": "संसद ने नए रक्षा मंत्री को मंज़ूरी दी; होर्मुज़ में टैंकर जले।"
     }
    },
    {
-    "link": "france-protests-550000-limoges-city-hall-fire-macron",
+    "link": "ranji-round-two-day-one-priyansh-arya-century-deshpande",
     "lead": {
-     "en": "France:",
-     "hi": "फ़्रांस:"
+     "en": "Ranji:",
+     "hi": "रणजी:"
     },
     "text": {
-     "en": "About 550,000 march; Limoges city hall set on fire.",
-     "hi": "करीब 5.5 लाख लोग सड़कों पर; लिमोज़ में नगर भवन में आग।"
-    }
-   },
-   {
-    "link": "india-west-indies-fifth-t20i-washed-out-series-shared",
-    "lead": {
-     "en": "Cricket:",
-     "hi": "क्रिकेट:"
-    },
-    "text": {
-     "en": "Bengaluru decider washed out; series shared 2-2.",
-     "hi": "बेंगलुरु का निर्णायक मैच बारिश में धुला; सीरीज़ 2-2 से बराबर।"
-    }
-   },
-   {
-    "link": "ladakh-chief-secretary-mha-draft-rejection-article-371k",
-    "lead": {
-     "en": "Ladakh:",
-     "hi": "लद्दाख:"
-    },
-    "text": {
-     "en": "Chief Secretary calls the rejection of the MHA draft 'very unfortunate'.",
-     "hi": "मुख्य सचिव ने गृह मंत्रालय के मसौदे को ठुकराए जाने को \"बहुत दुर्भाग्यपूर्ण\" बताया।"
+     "en": "Priyansh Arya hits a century; Gill out for 1 on his return.",
+     "hi": "प्रियांश आर्य का शतक; वापसी पर गिल 1 रन पर आउट।"
     }
    }
   ]
@@ -233,27 +233,27 @@
  },
  "topStories": {
   "big": {
-   "id": "oil-110-nasdaq-slide-cautious-start-indian-markets-monday",
+   "id": "kolkata-stampede-seven-arrested-sit-judge",
    "also": [
-    "results-week-ahead-infosys-kotak-bajaj-finance-jio-ipo",
-    "brent-highest-close-since-may-yanbu-russian-refinery"
+    "puja-crowds-need-a-safety-plan-not-a-probe",
+    "durgapur-two-road-accidents-five-killed"
    ]
   },
   "list": [
-   "london-parliament-square-stop-vote-chori-protest-dhruv-rathee",
-   "politics-courts-week-ahead-speaker-tmc-anti-sir-protests",
-   "supreme-court-bail-sandip-ghosh-rg-kar-financial-case",
-   "fadnavis-5000-drought-aid-shinde-dombivli-farmers",
-   "settlers-attack-european-diplomats-taybeh-west-bank"
+   "jairam-ramesh-searchable-rolls-cec-must-go-sir-suspend",
+   "cjp-to-restrategise-dipke-vows-legal-battle-das-ranka",
+   "cisf-functional-reorganisation-november-1",
+   "sharifs-defend-kp-governors-rule-lawyers-strike",
+   "meloni-thugs-italy-belgium-cost-of-living-protests-violent"
   ]
  },
  "startHere": [
+  "article-371k-ladakh-explained-sixth-schedule",
+  "russia-sanctions-law-waiver-explained-india-oil",
+  "why-east-northeast-india-had-driest-monsoon-explained",
   "global-hunger-index-explained-india-score",
   "police-detention-powers-bnss-explained",
-  "current-account-deficit-explained-rupee",
-  "contempt-of-court-attorney-general-consent-explained",
-  "eu-russia-sanctions-indian-firms-explained",
-  "asian-para-games-classification-explained"
+  "current-account-deficit-explained-rupee"
  ],
  "trackers": [
   {
@@ -406,11 +406,11 @@
   }
  ],
  "opinion": [
+  "up-village-polls-cannot-wait-for-an-appeal",
+  "puja-crowds-need-a-safety-plan-not-a-probe",
   "infant-food-sugar-ban-should-cover-all-baby-foods",
   "punjab-drug-crisis-needs-data-not-denial",
-  "cert-in-ai-agents-warning-must-not-fade",
-  "protest-needs-more-than-one-designated-site",
-  "after-yes-bank-ruling-rbi-must-own-investor-protection"
+  "cert-in-ai-agents-warning-must-not-fade"
  ],
  "sections": [
   {
@@ -420,15 +420,15 @@
     "article": "bypoll-results-ruling-parties-win-all-six-seats"
    },
    "list": [
-    "uddhav-thackeray-backs-prashant-bhushan-regime-change",
-    "gehlot-asking-questions-not-anarchy-bjp",
-    "congress-ramlila-maidan-rally-november-1-police-noc"
+    "fadnavis-uddhav-regime-change-shiv-sena-retort",
+    "rahul-gandhi-uttarakhand-investors-summit-dhami",
+    "jagan-accuses-naidu-blocking-opposition-nominations"
    ],
-   "lead": "nitin-nabin-patna-rally-rahul-gandhi-foreign-toolkit"
+   "lead": "jairam-ramesh-searchable-rolls-cec-must-go-sir-suspend"
   },
   {
    "section": "economy",
-   "lead": "yes-bank-q2-profit-rises-65-per-cent-at1-proforma-loss",
+   "lead": "fpi-selling-reaches-52100-crore-october-friday-buying",
    "module": {
     "type": "markets",
     "indicators": [
@@ -439,29 +439,29 @@
     ]
    },
    "list": [
-    "india-crude-import-bill-90-6-billion-april-september",
-    "chip-stocks-longest-slide-since-2008-coreweave-ai-debt",
-    "gold-ends-week-near-4166-fed-hike-bets-ease-warsh",
+    "central-bank-of-india-q2-profit-rises-21-per-cent",
+    "top-10-firms-add-3-65-lakh-crore-tcs-leads",
+    "ixigo-q2-record-profit-freshbus-stake-sale-hotels",
     "bajaj-finance-ultratech-hindustan-zinc-results-monday"
    ]
   },
   {
    "section": "states",
-   "lead": "kolkata-police-shut-major-pandals-stampede-probe",
+   "lead": "gwalior-truck-sheetla-mata-temple-14-killed",
    "list": [
-    "delhi-aqi-159-moderate-cpcb-saturday-grap",
-    "jakhar-seeks-nia-ed-probe-punjab-prison-drug-network",
-    "himanta-sarma-30-infiltrators-stopped-assam-border"
+    "delhi-aqi-189-sunday-morning-moderate",
+    "durgapur-two-road-accidents-five-killed",
+    "kolkata-police-shut-major-pandals-stampede-probe"
    ]
   },
   {
    "section": "policy",
-   "lead": "ladakh-chief-secretary-mha-draft-rejection-article-371k",
+   "lead": "cisf-functional-reorganisation-november-1",
    "list": [
-    "brics-parliamentary-forum-delhi-special-session-talk",
-    "home-secretary-govind-mohan-ips-passing-out-security",
-    "modi-canada-visit-december-g20-florida-trip",
-    "ladakh-hill-council-regulation-amended-7-24-seats"
+    "rajnath-singh-sco-heads-of-government-dushanbe",
+    "amit-shah-punjab-visit-october-20-bittu",
+    "umrah-pilgrims-stranded-saudi-mansoor-ali-khan-jaishankar",
+    "ladakh-chief-secretary-mha-draft-rejection-article-371k"
    ]
   },
   {
@@ -479,47 +479,47 @@
  "desks": [
   {
    "section": "world",
-   "lead": "egypt-sisi-seeks-parliament-nod-to-defend-saudi-arabia",
+   "lead": "st-petersburg-oil-terminal-ablaze-ukraine-1000-drones",
    "list": [
-    "france-protests-550000-limoges-city-hall-fire-macron",
-    "kenya-ebola-cases-rise-to-seven-health-workers",
-    "trump-kentucky-rally-gallrein-midterms-massie"
+    "iran-parliament-approves-akhlaghi-defence-minister",
+    "israel-cabinet-defence-cuts-netanyahu-eisenkot-slur",
+    "un-secretary-general-straw-poll-all-seven-vetoed-sall-quits"
    ]
   },
   {
    "section": "science",
-   "lead": "isro-gaganyaan-crew-service-module-separation-tests",
+   "lead": "kerala-hc-bitchat-blocking-centre-apple-google-affidavits",
    "list": [
-    "east-northeast-india-driest-monsoon-since-1901",
-    "anthropic-report-fewer-junior-hires-more-meetings",
-    "meta-drops-terms-letting-it-train-ai-on-business-websites"
+    "meity-secretary-krishnan-ai-healthcare-access-stpi-varanasi",
+    "asean-haze-alert-level-3-malaysia-singapore",
+    "isro-gaganyaan-crew-service-module-separation-tests"
    ]
   },
   {
    "section": "sports",
-   "lead": "india-west-indies-fifth-t20i-washed-out-series-shared",
+   "lead": "ranji-round-two-day-one-priyansh-arya-century-deshpande",
    "list": [
-    "india-women-zimbabwe-second-t20i-raipur-top-order-preview",
-    "haaland-double-city-beat-ipswich-isak-liverpool-brentford",
-    "delhi-gujarat-ranji-trophy-palam-badoni-preview"
+    "shubman-gill-bowled-for-one-ranji-return-punjab",
+    "chacarra-63-five-shot-lead-india-championship-final-round",
+    "rain-delays-gqeberha-test-australia-bowl-boland"
    ]
   }
  ],
  "weekAhead": [
   {
-   "icon": "cricket",
+   "icon": "trophy",
    "date": {
     "en": "Sun 18 Oct",
     "hi": "रवि, 18 अक्टूबर"
    },
    "text": {
     "en": "India women go for the Zimbabwe series in Raipur, 7 pm.",
-    "hi": "रायपुर में भारतीय महिला टीम की नज़र सीरीज़ पर, शाम 7 बजे।"
+    "hi": "रायपुर में शाम 7 बजे सीरीज़ जीतने उतरेंगी भारतीय महिलाएं।"
    },
    "link": "india-women-zimbabwe-second-t20i-raipur-top-order-preview"
   },
   {
-   "icon": "chart-bar",
+   "icon": "bank",
    "date": {
     "en": "Mon 19 Oct",
     "hi": "सोम, 19 अक्टूबर"
@@ -533,29 +533,29 @@
   {
    "icon": "handshake",
    "date": {
+    "en": "Mon 19 Oct",
+    "hi": "सोम, 19 अक्टूबर"
+   },
+   "text": {
+    "en": "Rajnath Singh at the SCO heads of government meeting in Dushanbe.",
+    "hi": "दुशांबे में एससीओ शासनाध्यक्ष बैठक में राजनाथ सिंह।"
+   },
+   "link": "rajnath-singh-sco-heads-of-government-dushanbe"
+  },
+  {
+   "icon": "handshake",
+   "date": {
     "en": "Tue 20 Oct",
     "hi": "मंगल, 20 अक्टूबर"
    },
    "text": {
-    "en": "Jaishankar and Rubio meet in Mumbai; rebel TMC MPs' deadline.",
-    "hi": "मुंबई में जयशंकर-रुबियो वार्ता; बागी टीएमसी सांसदों की समय-सीमा।"
+    "en": "Jaishankar and Rubio meet in Mumbai; Amit Shah in Punjab.",
+    "hi": "मुंबई में जयशंकर-रुबियो वार्ता; अमित शाह पंजाब में।"
    },
    "link": "jaishankar-rubio-talks-mumbai-october-20-mea"
   },
   {
-   "icon": "bank",
-   "date": {
-    "en": "Wed 21 Oct",
-    "hi": "बुध, 21 अक्टूबर"
-   },
-   "text": {
-    "en": "Jio Platforms IPO opens; Tesla and Meta report.",
-    "hi": "जियो प्लेटफ़ॉर्म्स का आईपीओ खुलेगा; टेस्ला और मेटा के नतीजे।"
-   },
-   "link": "results-week-ahead-infosys-kotak-bajaj-finance-jio-ipo"
-  },
-  {
-   "icon": "users-three",
+   "icon": "megaphone",
    "date": {
     "en": "Thu 22 Oct",
     "hi": "गुरु, 22 अक्टूबर"
@@ -564,7 +564,7 @@
     "en": "Ladakh talks with the Centre resume.",
     "hi": "केंद्र के साथ लद्दाख वार्ता फिर शुरू।"
    },
-   "link": "ladakh-chief-secretary-mha-draft-rejection-article-371k"
+   "link": "article-371k-ladakh-explained-sixth-schedule"
   }
  ]
 }
