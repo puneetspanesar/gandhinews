@@ -1,15 +1,15 @@
 {
  "lead": {
-  "id": "trump-waives-russia-sanctions-law-india-tariff-threat",
+  "id": "kolkata-chorbagan-durga-puja-pandal-stampede",
   "chart": 1,
   "overlay": {
    "kicker": {
-    "en": "Washington, Friday",
-    "hi": "वॉशिंगटन, शुक्रवार"
+    "en": "North Kolkata, Saturday evening",
+    "hi": "उत्तर कोलकाता, शनिवार शाम"
    },
    "value": {
-    "en": "100% tariff threat on India lifted",
-    "hi": "भारत पर 100% टैरिफ़ का ख़तरा टला"
+    "en": "A rush in the rain, 19 dead",
+    "hi": "बारिश में भगदड़, 19 की मौत"
    },
    "text": {
     "en": "",
@@ -18,154 +18,154 @@
   },
   "dataBox": [
    {
-    "icon": "percent",
+    "icon": "warning",
     "color": "#cc0000",
     "value": {
-     "en": "100%",
-     "hi": "100%"
+     "en": "19",
+     "hi": "19"
     },
     "label": {
-     "en": "tariff the law threatened on top Russian oil buyers",
-     "hi": "टैरिफ़, जिसकी धमकी रूसी तेल के बड़े ख़रीदारों को थी"
+     "en": "people killed, the Chief Minister said",
+     "hi": "लोगों की मौत, मुख्यमंत्री ने बताया"
     }
    },
    {
-    "icon": "calendar-check",
+    "icon": "users-three",
     "color": "#8f0000",
     "value": {
-     "en": "18 Oct",
-     "hi": "18 अक्टूबर"
+     "en": "25",
+     "hi": "25"
     },
     "label": {
-     "en": "when the penalties were due",
-     "hi": "जब जुर्माने लागू होने थे"
+     "en": "injured in the crowd surge",
+     "hi": "भीड़ के दबाव में घायल"
     }
    },
    {
-    "icon": "handshake",
+    "icon": "currency-inr",
     "color": "#0d0d0d",
     "value": {
-     "en": "20 Oct",
-     "hi": "20 अक्टूबर"
+     "en": "₹2 lakh",
+     "hi": "₹2 लाख"
     },
     "label": {
-     "en": "Rubio meets Jaishankar in Mumbai",
-     "hi": "मुंबई में रुबियो-जयशंकर मुलाक़ात"
+     "en": "PM's ex gratia for each family of the dead",
+     "hi": "मृतकों के प्रत्येक परिवार को प्रधानमंत्री की अनुग्रह राशि"
     }
    },
    {
-    "icon": "gas-pump",
+    "icon": "barricade",
     "color": "#6e6e6e",
     "value": {
-     "en": "$110",
-     "hi": "110 डॉलर"
+     "en": "Shut",
+     "hi": "बंद"
     },
     "label": {
-     "en": "Brent crude as Hormuz stays shut",
-     "hi": "ब्रेंट कच्चा तेल, होर्मुज़ बंद रहने से"
+     "en": "big pandals closed for the night, probe opened",
+     "hi": "बड़े पंडाल रात भर बंद, जांच शुरू"
     }
    }
   ],
   "relatedBelow": [
-   "jaishankar-rubio-talks-mumbai-october-20-mea",
-   "us-lawmakers-urge-rubio-raise-cjp-protests-india"
+   "kolkata-police-shut-major-pandals-stampede-probe",
+   "hyderabad-dandiya-arch-collapse-student-killed"
   ],
   "relatedBeside": [
-   "irgc-supertanker-mine-fire-hormuz-closed",
-   "dipke-granted-bail-neha-bora-released-delhi-court",
-   "russia-largest-energy-attack-lutsk-rivne-vinnytsia-blackout",
-   "icici-bank-q2-profit-rises-20-per-cent-loans-30",
-   "india-west-indies-decider-rain-bengaluru-arshdeep-call"
+   "oil-110-nasdaq-slide-cautious-start-indian-markets-monday",
+   "egypt-sisi-seeks-parliament-nod-to-defend-saudi-arabia",
+   "nitin-nabin-patna-rally-rahul-gandhi-foreign-toolkit",
+   "france-protests-550000-limoges-city-hall-fire-macron",
+   "india-west-indies-fifth-t20i-washed-out-series-shared"
   ]
  },
  "briefing": {
   "items": [
    {
-    "link": "trump-waives-russia-sanctions-law-india-tariff-threat",
+    "link": "kolkata-chorbagan-durga-puja-pandal-stampede",
     "lead": {
-     "en": "US:",
-     "hi": "अमेरिका:"
+     "en": "Kolkata:",
+     "hi": "कोलकाता:"
     },
     "text": {
-     "en": "Trump waives the Russia sanctions law, lifting the 100% tariff threat on India.",
-     "hi": "ट्रंप ने रूस प्रतिबंध क़ानून से छूट दी, भारत पर 100% टैरिफ़ का ख़तरा टला।"
+     "en": "19 killed in a crowd surge at the Chorbagan Durga Puja pandal.",
+     "hi": "चोरबागान दुर्गा पूजा पंडाल में भगदड़, 19 की मौत।"
     }
    },
    {
-    "link": "irgc-supertanker-mine-fire-hormuz-closed",
+    "link": "oil-110-nasdaq-slide-cautious-start-indian-markets-monday",
     "lead": {
-     "en": "Hormuz:",
-     "hi": "होर्मुज़:"
+     "en": "Markets:",
+     "hi": "बाज़ार:"
     },
     "text": {
-     "en": "Iran says a supertanker hit a mine; 15 Indian seafarers safe.",
-     "hi": "ईरान का दावा, सुपरटैंकर बारूदी सुरंग से टकराया; 15 भारतीय नाविक सुरक्षित।"
+     "en": "Brent near $110 and a Nasdaq slide point to a cautious Monday.",
+     "hi": "ब्रेंट 110 डॉलर के पास, नैस्डैक में गिरावट; सोमवार को सतर्क शुरुआत के संकेत।"
     }
    },
    {
-    "link": "dipke-granted-bail-neha-bora-released-delhi-court",
+    "link": "yes-bank-q2-profit-rises-65-per-cent-at1-proforma-loss",
     "lead": {
-     "en": "Delhi:",
-     "hi": "दिल्ली:"
+     "en": "YES Bank:",
+     "hi": "यस बैंक:"
     },
     "text": {
-     "en": "Dipke freed on a peace bond; Neha Bora released overnight.",
-     "hi": "डिपके शांति बॉन्ड पर रिहा; नेहा बोरा रात में छोड़ी गईं।"
+     "en": "Q2 profit up 65%, but the AT-1 ruling would mean a loss.",
+     "hi": "दूसरी तिमाही में मुनाफ़ा 65% बढ़ा, पर एटी-1 फ़ैसले से घाटा संभव।"
     }
    },
    {
-    "link": "hdfc-bank-q2-profit-rises-4-7-per-cent-jagdishan-last",
+    "link": "nitin-nabin-patna-rally-rahul-gandhi-foreign-toolkit",
     "lead": {
-     "en": "Banks:",
-     "hi": "बैंक:"
+     "en": "Bihar:",
+     "hi": "बिहार:"
     },
     "text": {
-     "en": "HDFC profit up 4.7%, ICICI up 20%, Axis up 38%.",
-     "hi": "एचडीएफ़सी का मुनाफ़ा 4.7%, आईसीआईसीआई का 20%, एक्सिस का 38% बढ़ा।"
+     "en": "Nitin Nabin attacks Rahul Gandhi at a Patna rally.",
+     "hi": "पटना रैली में नितिन नवीन का राहुल गांधी पर हमला।"
     }
    },
    {
-    "link": "supreme-court-internet-access-fundamental-right-children",
+    "link": "egypt-sisi-seeks-parliament-nod-to-defend-saudi-arabia",
     "lead": {
-     "en": "Supreme Court:",
-     "hi": "सुप्रीम कोर्ट:"
+     "en": "Gulf:",
+     "hi": "खाड़ी:"
     },
     "text": {
-     "en": "internet access is a fundamental right for children too.",
-     "hi": "इंटरनेट तक पहुंच बच्चों का भी मौलिक अधिकार।"
+     "en": "Sisi asks Egypt's parliament for power to help defend Saudi Arabia.",
+     "hi": "सीसी ने सऊदी अरब की रक्षा के लिए मिस्र की संसद से अनुमति मांगी।"
     }
    },
    {
-    "link": "jhota-panel-gherao-aap-mlas-singla-heckled-mansa",
+    "link": "france-protests-550000-limoges-city-hall-fire-macron",
     "lead": {
-     "en": "Punjab:",
-     "hi": "पंजाब:"
+     "en": "France:",
+     "hi": "फ़्रांस:"
     },
     "text": {
-     "en": "protesters chase an AAP MLA from Mansa hospital; gherao on Monday.",
-     "hi": "प्रदर्शनकारियों ने आप विधायक को मानसा अस्पताल से खदेड़ा; सोमवार को घेराव।"
+     "en": "About 550,000 march; Limoges city hall set on fire.",
+     "hi": "करीब 5.5 लाख लोग सड़कों पर; लिमोज़ में नगर भवन में आग।"
     }
    },
    {
-    "link": "russia-largest-energy-attack-lutsk-rivne-vinnytsia-blackout",
-    "lead": {
-     "en": "Ukraine:",
-     "hi": "यूक्रेन:"
-    },
-    "text": {
-     "en": "Russia's 332-drone strike on the grid cuts power in seven cities.",
-     "hi": "332 ड्रोन से ग्रिड पर रूसी हमला, सात शहरों में बिजली गुल।"
-    }
-   },
-   {
-    "link": "india-west-indies-decider-rain-bengaluru-arshdeep-call",
+    "link": "india-west-indies-fifth-t20i-washed-out-series-shared",
     "lead": {
      "en": "Cricket:",
      "hi": "क्रिकेट:"
     },
     "text": {
-     "en": "rain delays the series decider in Bengaluru.",
-     "hi": "बारिश से बेंगलुरु में निर्णायक मैच में देरी।"
+     "en": "Bengaluru decider washed out; series shared 2-2.",
+     "hi": "बेंगलुरु का निर्णायक मैच बारिश में धुला; सीरीज़ 2-2 से बराबर।"
+    }
+   },
+   {
+    "link": "ladakh-chief-secretary-mha-draft-rejection-article-371k",
+    "lead": {
+     "en": "Ladakh:",
+     "hi": "लद्दाख:"
+    },
+    "text": {
+     "en": "Chief Secretary calls the rejection of the MHA draft 'very unfortunate'.",
+     "hi": "मुख्य सचिव ने गृह मंत्रालय के मसौदे को ठुकराए जाने को \"बहुत दुर्भाग्यपूर्ण\" बताया।"
     }
    }
   ]
@@ -233,27 +233,27 @@
  },
  "topStories": {
   "big": {
-   "id": "dipke-granted-bail-neha-bora-released-delhi-court",
+   "id": "oil-110-nasdaq-slide-cautious-start-indian-markets-monday",
    "also": [
-    "police-detention-powers-bnss-explained",
-    "india-rejects-un-rapporteur-romero-report-youth-cjp"
+    "results-week-ahead-infosys-kotak-bajaj-finance-jio-ipo",
+    "brent-highest-close-since-may-yanbu-russian-refinery"
    ]
   },
   "list": [
-   "dmk-seeks-cec-gyanesh-kumar-removal-ballot-papers",
-   "census-rules-amended-private-teachers-any-person-enumerators-congress",
-   "finance-ministry-idbi-2003-parliament-assurance-not-binding",
-   "pakistan-rejects-rajnath-remarks-afghan-talks-conditions",
-   "anant-singh-nine-murders-claim-nitish-kumar-row"
+   "london-parliament-square-stop-vote-chori-protest-dhruv-rathee",
+   "politics-courts-week-ahead-speaker-tmc-anti-sir-protests",
+   "supreme-court-bail-sandip-ghosh-rg-kar-financial-case",
+   "fadnavis-5000-drought-aid-shinde-dombivli-farmers",
+   "settlers-attack-european-diplomats-taybeh-west-bank"
   ]
  },
  "startHere": [
+  "global-hunger-index-explained-india-score",
   "police-detention-powers-bnss-explained",
   "current-account-deficit-explained-rupee",
   "contempt-of-court-attorney-general-consent-explained",
   "eu-russia-sanctions-indian-firms-explained",
-  "asian-para-games-classification-explained",
-  "bonus-issue-explained-tech-mahindra"
+  "asian-para-games-classification-explained"
  ],
  "trackers": [
   {
@@ -406,11 +406,11 @@
   }
  ],
  "opinion": [
+  "infant-food-sugar-ban-should-cover-all-baby-foods",
   "punjab-drug-crisis-needs-data-not-denial",
   "cert-in-ai-agents-warning-must-not-fade",
   "protest-needs-more-than-one-designated-site",
-  "after-yes-bank-ruling-rbi-must-own-investor-protection",
-  "school-buildings-need-safety-audits-before-the-next-roof-falls"
+  "after-yes-bank-ruling-rbi-must-own-investor-protection"
  ],
  "sections": [
   {
@@ -420,14 +420,15 @@
     "article": "bypoll-results-ruling-parties-win-all-six-seats"
    },
    "list": [
-    "dhruv-rathee-bailable-warrant-2018-defamation-case",
-    "yogi-adityanath-pda-parivaar-development-authority-ghaziabad",
-    "aiks-joins-october-23-nationwide-protests-against-sir"
-   ]
+    "uddhav-thackeray-backs-prashant-bhushan-regime-change",
+    "gehlot-asking-questions-not-anarchy-bjp",
+    "congress-ramlila-maidan-rally-november-1-police-noc"
+   ],
+   "lead": "nitin-nabin-patna-rally-rahul-gandhi-foreign-toolkit"
   },
   {
    "section": "economy",
-   "lead": "icici-bank-q2-profit-rises-20-per-cent-loans-30",
+   "lead": "yes-bank-q2-profit-rises-65-per-cent-at1-proforma-loss",
    "module": {
     "type": "markets",
     "indicators": [
@@ -438,29 +439,29 @@
     ]
    },
    "list": [
-    "hdfc-bank-q2-profit-rises-4-7-per-cent-jagdishan-last",
-    "axis-bank-q2-profit-rises-38-per-cent-misses-estimates",
-    "ipo-week-ahead-jio-platforms-paras-healthcare-open",
-    "urban-company-q2-revenue-rises-41-per-cent-instahelp"
+    "india-crude-import-bill-90-6-billion-april-september",
+    "chip-stocks-longest-slide-since-2008-coreweave-ai-debt",
+    "gold-ends-week-near-4166-fed-hike-bets-ease-warsh",
+    "bajaj-finance-ultratech-hindustan-zinc-results-monday"
    ]
   },
   {
    "section": "states",
-   "lead": "jhota-panel-gherao-aap-mlas-singla-heckled-mansa",
+   "lead": "kolkata-police-shut-major-pandals-stampede-probe",
    "list": [
-    "keralam-waqf-board-reconstituted-mayin-haji-chairman",
-    "manipur-chassad-firing-village-chief-among-four-injured",
-    "delhi-air-turns-poor-again-anand-vihar-dry-week"
+    "delhi-aqi-159-moderate-cpcb-saturday-grap",
+    "jakhar-seeks-nia-ed-probe-punjab-prison-drug-network",
+    "himanta-sarma-30-infiltrators-stopped-assam-border"
    ]
   },
   {
    "section": "policy",
-   "lead": "census-rules-amended-private-teachers-any-person-enumerators-congress",
+   "lead": "ladakh-chief-secretary-mha-draft-rejection-article-371k",
    "list": [
-    "fssai-draft-ban-added-sugar-infant-food-six-months",
-    "nmc-one-time-fifth-attempt-first-year-mbbs",
-    "hpec-portal-jantar-mantar-violence-complaints",
-    "chouhan-khet-bachao-abhiyan-october-22-november-30"
+    "brics-parliamentary-forum-delhi-special-session-talk",
+    "home-secretary-govind-mohan-ips-passing-out-security",
+    "modi-canada-visit-december-g20-florida-trip",
+    "ladakh-hill-council-regulation-amended-7-24-seats"
    ]
   },
   {
@@ -478,56 +479,56 @@
  "desks": [
   {
    "section": "world",
-   "lead": "irgc-supertanker-mine-fire-hormuz-closed",
+   "lead": "egypt-sisi-seeks-parliament-nod-to-defend-saudi-arabia",
    "list": [
-    "russia-largest-energy-attack-lutsk-rivne-vinnytsia-blackout",
-    "iran-rejects-saudi-houthi-claims-offers-mediation",
-    "global-hunger-index-2026-india-serious-south-asia"
+    "france-protests-550000-limoges-city-hall-fire-macron",
+    "kenya-ebola-cases-rise-to-seven-health-workers",
+    "trump-kentucky-rally-gallrein-midterms-massie"
    ]
   },
   {
    "section": "science",
-   "lead": "japan-h3-mmx-phobos-sample-return-launch",
+   "lead": "isro-gaganyaan-crew-service-module-separation-tests",
    "list": [
-    "starlink-says-india-infrastructure-ready-govt-approvals",
-    "raman-research-institute-black-hole-jets-heat-galaxy-gas",
-    "replit-ends-anthropic-partnership-ceo-amjad-masad"
+    "east-northeast-india-driest-monsoon-since-1901",
+    "anthropic-report-fewer-junior-hires-more-meetings",
+    "meta-drops-terms-letting-it-train-ai-on-business-websites"
    ]
   },
   {
    "section": "sports",
-   "lead": "india-west-indies-decider-rain-bengaluru-arshdeep-call",
+   "lead": "india-west-indies-fifth-t20i-washed-out-series-shared",
    "list": [
-    "india-women-beat-zimbabwe-niki-prasad-deepti-raipur",
-    "jayawardene-steps-down-mumbai-indians-coach",
-    "mohun-bagan-beat-sc-delhi-figueira-isl"
+    "india-women-zimbabwe-second-t20i-raipur-top-order-preview",
+    "haaland-double-city-beat-ipswich-isak-liverpool-brentford",
+    "delhi-gujarat-ranji-trophy-palam-badoni-preview"
    ]
   }
  ],
  "weekAhead": [
   {
-   "icon": "person-simple-run",
+   "icon": "cricket",
    "date": {
     "en": "Sun 18 Oct",
     "hi": "रवि, 18 अक्टूबर"
    },
    "text": {
-    "en": "Delhi Half Marathon: Legese goes for a third title.",
-    "hi": "दिल्ली हाफ़ मैराथन: लेगेसे तीसरे ख़िताब की तलाश में।"
+    "en": "India women go for the Zimbabwe series in Raipur, 7 pm.",
+    "hi": "रायपुर में भारतीय महिला टीम की नज़र सीरीज़ पर, शाम 7 बजे।"
    },
-   "link": "delhi-half-marathon-legese-third-title-preview"
+   "link": "india-women-zimbabwe-second-t20i-raipur-top-order-preview"
   },
   {
-   "icon": "megaphone",
+   "icon": "chart-bar",
    "date": {
     "en": "Mon 19 Oct",
     "hi": "सोम, 19 अक्टूबर"
    },
    "text": {
-    "en": "Jhota panel to gherao AAP MLAs and ministers in Punjab.",
-    "hi": "पंजाब में झोटा कमेटी का आप विधायकों और मंत्रियों का घेराव।"
+    "en": "Bajaj Finance, UltraTech and Hindustan Zinc report results.",
+    "hi": "बजाज फ़ाइनेंस, अल्ट्राटेक और हिंदुस्तान ज़िंक के नतीजे।"
    },
-   "link": "jhota-panel-gherao-aap-mlas-singla-heckled-mansa"
+   "link": "bajaj-finance-ultratech-hindustan-zinc-results-monday"
   },
   {
    "icon": "handshake",
@@ -542,28 +543,28 @@
    "link": "jaishankar-rubio-talks-mumbai-october-20-mea"
   },
   {
-   "icon": "rocket",
-   "date": {
-    "en": "Tue 20 Oct",
-    "hi": "मंगल, 20 अक्टूबर"
-   },
-   "text": {
-    "en": "Japan launches its MMX mission to Mars's moon Phobos.",
-    "hi": "जापान का एमएमएक्स मिशन मंगल के चंद्रमा फ़ोबोस की ओर।"
-   },
-   "link": "japan-h3-mmx-phobos-sample-return-launch"
-  },
-  {
    "icon": "bank",
    "date": {
     "en": "Wed 21 Oct",
     "hi": "बुध, 21 अक्टूबर"
    },
    "text": {
-    "en": "Jio Platforms and Paras Healthcare IPOs open.",
-    "hi": "जियो प्लेटफ़ॉर्म्स और पारस हेल्थकेयर के आईपीओ खुलेंगे।"
+    "en": "Jio Platforms IPO opens; Tesla and Meta report.",
+    "hi": "जियो प्लेटफ़ॉर्म्स का आईपीओ खुलेगा; टेस्ला और मेटा के नतीजे।"
    },
-   "link": "ipo-week-ahead-jio-platforms-paras-healthcare-open"
+   "link": "results-week-ahead-infosys-kotak-bajaj-finance-jio-ipo"
+  },
+  {
+   "icon": "users-three",
+   "date": {
+    "en": "Thu 22 Oct",
+    "hi": "गुरु, 22 अक्टूबर"
+   },
+   "text": {
+    "en": "Ladakh talks with the Centre resume.",
+    "hi": "केंद्र के साथ लद्दाख वार्ता फिर शुरू।"
+   },
+   "link": "ladakh-chief-secretary-mha-draft-rejection-article-371k"
   }
  ]
 }
