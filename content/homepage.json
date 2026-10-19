@@ -1,15 +1,15 @@
 {
  "lead": {
-  "id": "gwalior-truck-sheetla-mata-temple-14-killed",
+  "id": "araghchi-seven-day-hormuz-offer-stands-irgc-second-tanker-mine",
   "chart": 1,
   "overlay": {
    "kicker": {
-    "en": "Gwalior, early Sunday",
-    "hi": "ग्वालियर, रविवार तड़के"
+    "en": "Baghdad and the Strait of Hormuz, Sunday",
+    "hi": "बगदाद और होर्मुज़ जलडमरूमध्य, रविवार"
    },
    "value": {
-    "en": "14 dead outside temple",
-    "hi": "मंदिर के बाहर 14 की मौत"
+    "en": "Iran: Hormuz offer still on the table",
+    "hi": "ईरान: होर्मुज़ का प्रस्ताव अब भी कायम"
    },
    "text": {
     "en": "",
@@ -18,154 +18,154 @@
   },
   "dataBox": [
    {
-    "icon": "users-three",
+    "icon": "clock",
     "color": "#cc0000",
     "value": {
-     "en": "14",
-     "hi": "14"
+     "en": "6 days",
+     "hi": "6 दिन"
     },
     "label": {
-     "en": "devotees killed when the truck hit",
-     "hi": "श्रद्धालुओं की ट्रक की टक्कर से मौत"
+     "en": "to reopen the strait if the US accepts Iran's terms",
+     "hi": "में जलडमरूमध्य खुलेगा, अगर अमेरिका ईरान की शर्तें माने"
     }
    },
    {
-    "icon": "clock",
+    "icon": "boat",
     "color": "#8f0000",
     "value": {
-     "en": "28",
-     "hi": "28"
+     "en": "2 tankers",
+     "hi": "2 टैंकर"
     },
     "label": {
-     "en": "people injured, taken to hospital",
-     "hi": "लोग घायल, अस्पताल में भर्ती"
+     "en": "on fire after hitting mines, the Guards claim",
+     "hi": "बारूदी सुरंगों से टकराकर जले, गार्ड्स का दावा"
     }
    },
    {
-    "icon": "scales",
+    "icon": "gas-pump",
     "color": "#0d0d0d",
     "value": {
-     "en": "8",
-     "hi": "8"
+     "en": "2.9 mn bbl",
+     "hi": "29 लाख बैरल"
     },
     "label": {
-     "en": "police suspended; City SP removed",
-     "hi": "पुलिसकर्मी निलंबित; सीएसपी हटाए गए"
+     "en": "through Hormuz on 11 Oct, from 20.8 mn on 8 Oct",
+     "hi": "11 अक्टूबर को होर्मुज़ से, 8 अक्टूबर को 2.08 करोड़ थे"
     }
    },
    {
-    "icon": "bank",
+    "icon": "handshake",
     "color": "#6e6e6e",
     "value": {
-     "en": "₹4 lakh",
-     "hi": "₹4 लाख"
+     "en": "Mon",
+     "hi": "सोमवार"
     },
     "label": {
-     "en": "state aid per bereaved family",
-     "hi": "हर मृतक परिवार को राज्य की सहायता"
+     "en": "Lavrov in Tehran for talks",
+     "hi": "लावरोव बातचीत के लिए तेहरान में"
     }
    }
   ],
   "relatedBelow": [
-   "kolkata-stampede-seven-arrested-sit-judge",
-   "puja-crowds-need-a-safety-plan-not-a-probe"
+   "monday-open-gift-nifty-brent-108-iran-hormuz-offer",
+   "lavrov-tehran-visit-pezeshkian-araghchi-today"
   ],
   "relatedBeside": [
-   "st-petersburg-oil-terminal-ablaze-ukraine-1000-drones",
-   "four-day-week-dussehra-nifty-outlook-jio-ipo-infosys",
-   "jairam-ramesh-searchable-rolls-cec-must-go-sir-suspend",
-   "iran-parliament-approves-akhlaghi-defence-minister",
-   "ranji-round-two-day-one-priyansh-arya-century-deshpande"
+   "rahul-gandhi-goa-rally-modi-shah-cec-vote-chori",
+   "trump-endorses-netanyahu-eisenkot-says-voters-decide",
+   "pakistan-suspends-iran-trade-taftan-gabd-lpg",
+   "india-women-beat-zimbabwe-nine-wickets-seal-series-shafali-mandhana",
+   "indian-embassy-riyadh-advisory-shelter-indoors-drones"
   ]
  },
  "briefing": {
   "items": [
    {
-    "link": "gwalior-truck-sheetla-mata-temple-14-killed",
-    "lead": {
-     "en": "Gwalior:",
-     "hi": "ग्वालियर:"
-    },
-    "text": {
-     "en": "truck hits devotees outside a temple, 14 dead; eight police suspended.",
-     "hi": "मंदिर के बाहर ट्रक ने श्रद्धालुओं को कुचला, 14 की मौत; आठ पुलिसकर्मी निलंबित।"
-    }
-   },
-   {
-    "link": "kolkata-stampede-seven-arrested-sit-judge",
-    "lead": {
-     "en": "Kolkata:",
-     "hi": "कोलकाता:"
-    },
-    "text": {
-     "en": "seven arrested over the Chorbagan stampede; judge to lead probe.",
-     "hi": "चोरबागान भगदड़ में सात गिरफ़्तार; जज करेंगे जांच।"
-    }
-   },
-   {
-    "link": "jairam-ramesh-searchable-rolls-cec-must-go-sir-suspend",
-    "lead": {
-     "en": "Congress:",
-     "hi": "कांग्रेस:"
-    },
-    "text": {
-     "en": "says the CEC 'simply has to go' and wants SIR suspended.",
-     "hi": "कहा, मुख्य चुनाव आयुक्त को जाना ही होगा; एसआईआर रोकने की मांग।"
-    }
-   },
-   {
-    "link": "four-day-week-dussehra-nifty-outlook-jio-ipo-infosys",
-    "lead": {
-     "en": "Markets:",
-     "hi": "बाज़ार:"
-    },
-    "text": {
-     "en": "a four-day week with Dussehra, the Jio IPO and Infosys results.",
-     "hi": "दशहरा, जियो आईपीओ और इंफ़ोसिस नतीजों वाला चार दिन का हफ़्ता।"
-    }
-   },
-   {
-    "link": "fpi-selling-reaches-52100-crore-october-friday-buying",
-    "lead": {
-     "en": "FPIs:",
-     "hi": "एफ़पीआई:"
-    },
-    "text": {
-     "en": "₹52,100 crore of shares sold in October, but selling slows.",
-     "hi": "अक्टूबर में ₹52,100 करोड़ के शेयर बेचे, बिकवाली धीमी।"
-    }
-   },
-   {
-    "link": "st-petersburg-oil-terminal-ablaze-ukraine-1000-drones",
-    "lead": {
-     "en": "Ukraine:",
-     "hi": "यूक्रेन:"
-    },
-    "text": {
-     "en": "more than 1,000 drones fired at Russia; St Petersburg oil terminal ablaze.",
-     "hi": "रूस पर 1,000 से ज़्यादा ड्रोन; सेंट पीटर्सबर्ग का तेल टर्मिनल जला।"
-    }
-   },
-   {
-    "link": "iran-parliament-approves-akhlaghi-defence-minister",
+    "link": "araghchi-seven-day-hormuz-offer-stands-irgc-second-tanker-mine",
     "lead": {
      "en": "Iran:",
      "hi": "ईरान:"
     },
     "text": {
-     "en": "parliament confirms a new defence minister as tankers burn in Hormuz.",
-     "hi": "संसद ने नए रक्षा मंत्री को मंज़ूरी दी; होर्मुज़ में टैंकर जले।"
+     "en": "Araghchi says the Hormuz offer stands; Guards claim two tankers hit mines.",
+     "hi": "अराघची बोले, होर्मुज़ प्रस्ताव कायम; गार्ड्स का दावा, दो टैंकर सुरंगों से टकराए।"
     }
    },
    {
-    "link": "ranji-round-two-day-one-priyansh-arya-century-deshpande",
+    "link": "monday-open-gift-nifty-brent-108-iran-hormuz-offer",
     "lead": {
-     "en": "Ranji:",
-     "hi": "रणजी:"
+     "en": "Markets:",
+     "hi": "बाज़ार:"
     },
     "text": {
-     "en": "Priyansh Arya hits a century; Gill out for 1 on his return.",
-     "hi": "प्रियांश आर्य का शतक; वापसी पर गिल 1 रन पर आउट।"
+     "en": "Brent near $108 as trading reopens; markets shut Tuesday for Dussehra.",
+     "hi": "कारोबार शुरू होते ही ब्रेंट 108 डॉलर के पास; दशहरे पर मंगलवार को बाज़ार बंद।"
+    }
+   },
+   {
+    "link": "rahul-gandhi-goa-rally-modi-shah-cec-vote-chori",
+    "lead": {
+     "en": "Goa:",
+     "hi": "गोवा:"
+    },
+    "text": {
+     "en": "Rahul Gandhi ends his yatra in Margao with a 'vote chori' charge.",
+     "hi": "राहुल गांधी ने मडगांव में \"वोट चोरी\" के आरोप के साथ यात्रा समाप्त की।"
+    }
+   },
+   {
+    "link": "cji-surya-kant-inaugurates-ladakh-high-court-bench-leh",
+    "lead": {
+     "en": "Ladakh:",
+     "hi": "लद्दाख:"
+    },
+    "text": {
+     "en": "CJI Surya Kant opens the High Court's Ladakh Bench in Leh.",
+     "hi": "सीजेआई सूर्यकांत ने लेह में हाईकोर्ट की लद्दाख पीठ का उद्घाटन किया।"
+    }
+   },
+   {
+    "link": "chennai-rain-vijay-review-flood-prevention-yellow-alert",
+    "lead": {
+     "en": "Tamil Nadu:",
+     "hi": "तमिलनाडु:"
+    },
+    "text": {
+     "en": "Vijay reviews rain readiness; yellow alert in 17 districts.",
+     "hi": "विजय ने बारिश की तैयारी परखी; 17 ज़िलों में येलो अलर्ट।"
+    }
+   },
+   {
+    "link": "india-women-beat-zimbabwe-nine-wickets-seal-series-shafali-mandhana",
+    "lead": {
+     "en": "Cricket:",
+     "hi": "क्रिकेट:"
+    },
+    "text": {
+     "en": "India women beat Zimbabwe by nine wickets to take the series.",
+     "hi": "भारतीय महिलाओं ने ज़िम्बाब्वे को नौ विकेट से हराकर सीरीज़ जीती।"
+    }
+   },
+   {
+    "link": "trump-endorses-netanyahu-eisenkot-says-voters-decide",
+    "lead": {
+     "en": "Israel:",
+     "hi": "इज़राइल:"
+    },
+    "text": {
+     "en": "Trump endorses Netanyahu; Eisenkot says only Israelis decide.",
+     "hi": "ट्रंप ने नेतन्याहू का समर्थन किया; आइज़नकोट बोले, फ़ैसला इज़राइली करेंगे।"
+    }
+   },
+   {
+    "link": "macron-anger-shame-france-riots-2400-arrested",
+    "lead": {
+     "en": "France:",
+     "hi": "फ़्रांस:"
+    },
+    "text": {
+     "en": "Macron speaks of 'anger and shame' after riots; nearly 2,400 arrested.",
+     "hi": "दंगों के बाद मैक्रों ने \"गुस्से और शर्म\" की बात की; करीब 2,400 गिरफ़्तार।"
     }
    }
   ]
@@ -233,27 +233,27 @@
  },
  "topStories": {
   "big": {
-   "id": "kolkata-stampede-seven-arrested-sit-judge",
+   "id": "rahul-gandhi-goa-rally-modi-shah-cec-vote-chori",
    "also": [
-    "puja-crowds-need-a-safety-plan-not-a-probe",
-    "durgapur-two-road-accidents-five-killed"
+    "delhi-high-court-form-6-sir-deleted-voters-ec",
+    "jagan-meets-governor-central-forces-cctv-local-body-polls"
    ]
   },
   "list": [
-   "jairam-ramesh-searchable-rolls-cec-must-go-sir-suspend",
-   "cjp-to-restrategise-dipke-vows-legal-battle-das-ranka",
-   "cisf-functional-reorganisation-november-1",
-   "sharifs-defend-kp-governors-rule-lawyers-strike",
-   "meloni-thugs-italy-belgium-cost-of-living-protests-violent"
+   "cji-surya-kant-inaugurates-ladakh-high-court-bench-leh",
+   "kolkata-pandal-safety-audit-no-vip-entry-adhikari",
+   "diplomatic-week-uae-abdullah-bin-zayed-mumbai-rubio-rajnath-dushanbe",
+   "wainwright-base-fire-kills-four-soldiers-alberta-votes",
+   "pakistan-suspends-iran-trade-taftan-gabd-lpg"
   ]
  },
  "startHere": [
+  "how-un-secretary-general-is-chosen-straw-polls-veto-explained",
   "article-371k-ladakh-explained-sixth-schedule",
   "russia-sanctions-law-waiver-explained-india-oil",
   "why-east-northeast-india-had-driest-monsoon-explained",
   "global-hunger-index-explained-india-score",
-  "police-detention-powers-bnss-explained",
-  "current-account-deficit-explained-rupee"
+  "police-detention-powers-bnss-explained"
  ],
  "trackers": [
   {
@@ -406,11 +406,11 @@
   }
  ],
  "opinion": [
+  "blocking-orders-like-bitchat-must-not-stay-secret",
   "up-village-polls-cannot-wait-for-an-appeal",
   "puja-crowds-need-a-safety-plan-not-a-probe",
   "infant-food-sugar-ban-should-cover-all-baby-foods",
-  "punjab-drug-crisis-needs-data-not-denial",
-  "cert-in-ai-agents-warning-must-not-fade"
+  "punjab-drug-crisis-needs-data-not-denial"
  ],
  "sections": [
   {
@@ -420,15 +420,15 @@
     "article": "bypoll-results-ruling-parties-win-all-six-seats"
    },
    "list": [
-    "fadnavis-uddhav-regime-change-shiv-sena-retort",
-    "rahul-gandhi-uttarakhand-investors-summit-dhami",
-    "jagan-accuses-naidu-blocking-opposition-nominations"
+    "vijayendra-claims-congress-bid-to-oust-cm-shivakumar",
+    "chandy-oommen-pinarayi-vijayan-not-hounded-cmrl",
+    "madras-high-court-children-election-reels-salem-north-petition"
    ],
-   "lead": "jairam-ramesh-searchable-rolls-cec-must-go-sir-suspend"
+   "lead": "rahul-gandhi-goa-rally-modi-shah-cec-vote-chori"
   },
   {
    "section": "economy",
-   "lead": "fpi-selling-reaches-52100-crore-october-friday-buying",
+   "lead": "monday-open-gift-nifty-brent-108-iran-hormuz-offer",
    "module": {
     "type": "markets",
     "indicators": [
@@ -439,29 +439,29 @@
     ]
    },
    "list": [
-    "central-bank-of-india-q2-profit-rises-21-per-cent",
-    "top-10-firms-add-3-65-lakh-crore-tcs-leads",
-    "ixigo-q2-record-profit-freshbus-stake-sale-hotels",
+    "bajaj-finance-results-today-29-per-cent-profit-estimate",
+    "himadri-h1-profit-rises-29-per-cent-460-crore",
+    "amber-il-jin-buys-rest-of-ascent-circuits-share-swap",
     "bajaj-finance-ultratech-hindustan-zinc-results-monday"
    ]
   },
   {
    "section": "states",
-   "lead": "gwalior-truck-sheetla-mata-temple-14-killed",
+   "lead": "kolkata-pandal-safety-audit-no-vip-entry-adhikari",
    "list": [
-    "delhi-aqi-189-sunday-morning-moderate",
-    "durgapur-two-road-accidents-five-killed",
-    "kolkata-police-shut-major-pandals-stampede-probe"
+    "manipur-kamjong-sp-transferred-naga-women-protest",
+    "delhi-aqi-184-sunday-evening-moderate",
+    "satheesan-aroor-blue-economy-hub-vembanad-bridge"
    ]
   },
   {
    "section": "policy",
-   "lead": "cisf-functional-reorganisation-november-1",
+   "lead": "diplomatic-week-uae-abdullah-bin-zayed-mumbai-rubio-rajnath-dushanbe",
    "list": [
-    "rajnath-singh-sco-heads-of-government-dushanbe",
-    "amit-shah-punjab-visit-october-20-bittu",
-    "umrah-pilgrims-stranded-saudi-mansoor-ali-khan-jaishankar",
-    "ladakh-chief-secretary-mha-draft-rejection-article-371k"
+    "india-nz-fta-duty-concessions-take-effect-october-20",
+    "flydubai-captain-smit-machchhar-recounts-incident",
+    "iaf-c130j-night-casevac-leh-indra-exercise-ends",
+    "assam-to-challenge-zubeen-garg-accused-bail-supreme-court"
    ]
   },
   {
@@ -479,44 +479,44 @@
  "desks": [
   {
    "section": "world",
-   "lead": "st-petersburg-oil-terminal-ablaze-ukraine-1000-drones",
+   "lead": "trump-endorses-netanyahu-eisenkot-says-voters-decide",
    "list": [
-    "iran-parliament-approves-akhlaghi-defence-minister",
-    "israel-cabinet-defence-cuts-netanyahu-eisenkot-slur",
-    "un-secretary-general-straw-poll-all-seven-vetoed-sall-quits"
+    "zelenskyy-witkoff-kushner-call-war-must-end-starshield",
+    "saudi-strike-saada-nine-killed-najran-helicopter-crash",
+    "china-q3-gdp-data-due-today-asia-rates-week"
    ]
   },
   {
    "section": "science",
-   "lead": "kerala-hc-bitchat-blocking-centre-apple-google-affidavits",
+   "lead": "india-scores-2-of-32-healthy-ndc-scorecard-climate-health",
    "list": [
-    "meity-secretary-krishnan-ai-healthcare-access-stpi-varanasi",
-    "asean-haze-alert-level-3-malaysia-singapore",
-    "isro-gaganyaan-crew-service-module-separation-tests"
+    "junnar-leopards-immunocontraception-india-first-study",
+    "bandwagon-5-mmx-launch-week-falcon-9-h3-electron",
+    "pennsylvania-measles-outbreak-undercounted-offit"
    ]
   },
   {
    "section": "sports",
-   "lead": "ranji-round-two-day-one-priyansh-arya-century-deshpande",
+   "lead": "india-women-beat-zimbabwe-nine-wickets-seal-series-shafali-mandhana",
    "list": [
-    "shubman-gill-bowled-for-one-ranji-return-punjab",
-    "chacarra-63-five-shot-lead-india-championship-final-round",
-    "rain-delays-gqeberha-test-australia-bowl-boland"
+    "priyansh-arya-199-badoni-century-delhi-gujarat-ranji",
+    "chacarra-wins-dp-world-india-championship-race-to-dubai",
+    "east-bengal-thrash-churchill-brothers-isl-opener-bipin-singh"
    ]
   }
  ],
  "weekAhead": [
   {
-   "icon": "trophy",
+   "icon": "handshake",
    "date": {
-    "en": "Sun 18 Oct",
-    "hi": "रवि, 18 अक्टूबर"
+    "en": "Mon 19 Oct",
+    "hi": "सोम, 19 अक्टूबर"
    },
    "text": {
-    "en": "India women go for the Zimbabwe series in Raipur, 7 pm.",
-    "hi": "रायपुर में शाम 7 बजे सीरीज़ जीतने उतरेंगी भारतीय महिलाएं।"
+    "en": "Lavrov in Tehran; Abdullah bin Zayed in Mumbai; Rajnath in Dushanbe.",
+    "hi": "लावरोव तेहरान में; अब्दुल्ला बिन ज़ायद मुंबई में; राजनाथ दुशांबे में।"
    },
-   "link": "india-women-zimbabwe-second-t20i-raipur-top-order-preview"
+   "link": "diplomatic-week-uae-abdullah-bin-zayed-mumbai-rubio-rajnath-dushanbe"
   },
   {
    "icon": "bank",
@@ -525,22 +525,10 @@
     "hi": "सोम, 19 अक्टूबर"
    },
    "text": {
-    "en": "Bajaj Finance, UltraTech and Hindustan Zinc report results.",
-    "hi": "बजाज फ़ाइनेंस, अल्ट्राटेक और हिंदुस्तान ज़िंक के नतीजे।"
+    "en": "Bajaj Finance results; profit seen up about 29%.",
+    "hi": "बजाज फ़ाइनेंस के नतीजे; मुनाफ़ा करीब 29% बढ़ने का अनुमान।"
    },
-   "link": "bajaj-finance-ultratech-hindustan-zinc-results-monday"
-  },
-  {
-   "icon": "handshake",
-   "date": {
-    "en": "Mon 19 Oct",
-    "hi": "सोम, 19 अक्टूबर"
-   },
-   "text": {
-    "en": "Rajnath Singh at the SCO heads of government meeting in Dushanbe.",
-    "hi": "दुशांबे में एससीओ शासनाध्यक्ष बैठक में राजनाथ सिंह।"
-   },
-   "link": "rajnath-singh-sco-heads-of-government-dushanbe"
+   "link": "bajaj-finance-results-today-29-per-cent-profit-estimate"
   },
   {
    "icon": "handshake",
@@ -549,10 +537,10 @@
     "hi": "मंगल, 20 अक्टूबर"
    },
    "text": {
-    "en": "Jaishankar and Rubio meet in Mumbai; Amit Shah in Punjab.",
-    "hi": "मुंबई में जयशंकर-रुबियो वार्ता; अमित शाह पंजाब में।"
+    "en": "Jaishankar and Rubio meet in Mumbai; India-NZ FTA duty cuts begin.",
+    "hi": "मुंबई में जयशंकर-रुबियो वार्ता; भारत-न्यूज़ीलैंड एफ़टीए की शुल्क छूट शुरू।"
    },
-   "link": "jaishankar-rubio-talks-mumbai-october-20-mea"
+   "link": "india-nz-fta-duty-concessions-take-effect-october-20"
   },
   {
    "icon": "megaphone",
@@ -565,6 +553,18 @@
     "hi": "केंद्र के साथ लद्दाख वार्ता फिर शुरू।"
    },
    "link": "article-371k-ladakh-explained-sixth-schedule"
+  },
+  {
+   "icon": "users-three",
+   "date": {
+    "en": "Fri 23 Oct",
+    "hi": "शुक्र, 23 अक्टूबर"
+   },
+   "text": {
+    "en": "Karnataka legislative council polls.",
+    "hi": "कर्नाटक विधान परिषद चुनाव।"
+   },
+   "link": "vijayendra-claims-congress-bid-to-oust-cm-shivakumar"
   }
  ]
 }
