@@ -15236,5 +15236,1007 @@
    "cx-zelenskyy-witkoff-kushner-call-war-must-end-starshield-0",
    "cx-zelenskyy-witkoff-kushner-call-war-must-end-starshield-1"
   ]
+ },
+ {
+  "id": "cx-adaniconnex-vizag-data-centres-air-cooling-water-0",
+  "articleId": "part:adaniconnex-vizag-data-centres-air-cooling-water:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Mudasarlova_Reservoir_aerial_view.jpg/1600px-Mudasarlova_Reservoir_aerial_view.jpg",
+  "credit": "Saiphani02",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Mudasarlova_Reservoir_aerial_view.jpg"
+ },
+ {
+  "id": "cx-adaniconnex-vizag-data-centres-air-cooling-water-1",
+  "articleId": "part:adaniconnex-vizag-data-centres-air-cooling-water:1",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Visakhapatnam_%2816%29.jpg/1600px-Visakhapatnam_%2816%29.jpg",
+  "credit": "Jimmyreditfine",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Visakhapatnam_(16).jpg"
+ },
+ {
+  "id": "x-adaniconnex-vizag-data-centres-air-cooling-water",
+  "articleId": "adaniconnex-vizag-data-centres-air-cooling-water",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Mudasarlova_Reservoir_aerial_view.jpg/1600px-Mudasarlova_Reservoir_aerial_view.jpg",
+  "credit": "Photos: Saiphani02 / Wikimedia Commons; Jimmyreditfine / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Mudasarlova Reservoir in Visakhapatnam (file photo)",
+  "alt_hi": "विशाखापत्तनम का मुदसरलोवा जलाशय (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Mudasarlova_Reservoir_aerial_view.jpg",
+  "composite": [
+   "cx-adaniconnex-vizag-data-centres-air-cooling-water-0",
+   "cx-adaniconnex-vizag-data-centres-air-cooling-water-1"
+  ]
+ },
+ {
+  "id": "cx-albertans-vote-referendum-stay-in-canada-0",
+  "articleId": "part:albertans-vote-referendum-stay-in-canada:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Danielle_Smith_2014.jpg/1600px-Danielle_Smith_2014.jpg",
+  "credit": "Manning Centre c/o: Jake Wright",
+  "licence": "CC BY 2.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Danielle_Smith_2014.jpg"
+ },
+ {
+  "id": "cx-albertans-vote-referendum-stay-in-canada-1",
+  "articleId": "part:albertans-vote-referendum-stay-in-canada:1",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mark_Carney_neutral_background_%28blue%29.png/1600px-Mark_Carney_neutral_background_%28blue%29.png",
+  "credit": "Lea-Kim (talk · contribs)",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Mark_Carney_neutral_background_(blue).png"
+ },
+ {
+  "id": "x-albertans-vote-referendum-stay-in-canada",
+  "articleId": "albertans-vote-referendum-stay-in-canada",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Danielle_Smith_2014.jpg/1600px-Danielle_Smith_2014.jpg",
+  "credit": "Photos: Manning Centre c/o: Jake Wright / Wikimedia Commons; Lea-Kim (talk · contribs) / Wikimedia Commons",
+  "licence": "CC BY 2.0, CC BY-SA 4.0",
+  "alt": "Alberta Premier Danielle Smith and Canadian Prime Minister Mark Carney (file photos)",
+  "alt_hi": "अल्बर्टा की प्रीमियर डेनियल स्मिथ और कनाडा के प्रधानमंत्री मार्क कार्नी (फाइल फोटो) (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Danielle_Smith_2014.jpg",
+  "composite": [
+   "cx-albertans-vote-referendum-stay-in-canada-0",
+   "cx-albertans-vote-referendum-stay-in-canada-1"
+  ]
+ },
+ {
+  "id": "cx-andhra-local-polls-must-start-with-free-nominations-0",
+  "articleId": "part:andhra-local-polls-must-start-with-free-nominations:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Pulivendula-Kadapa_Road.jpg/1600px-Pulivendula-Kadapa_Road.jpg",
+  "credit": "Moulalisaheb.g",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Pulivendula-Kadapa_Road.jpg"
+ },
+ {
+  "id": "x-andhra-local-polls-must-start-with-free-nominations",
+  "articleId": "andhra-local-polls-must-start-with-free-nominations",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Pulivendula-Kadapa_Road.jpg/1600px-Pulivendula-Kadapa_Road.jpg",
+  "credit": "Photo: Moulalisaheb.g / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Pulivendula town in Andhra Pradesh (file photo)",
+  "alt_hi": "आंध्र प्रदेश का पुलिवेंदुला शहर (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Pulivendula-Kadapa_Road.jpg",
+  "composite": [
+   "cx-andhra-local-polls-must-start-with-free-nominations-0"
+  ]
+ },
+ {
+  "id": "cx-anthropic-public-benefit-fund-5-per-cent-shares-0",
+  "articleId": "part:anthropic-public-benefit-fund-5-per-cent-shares:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Dario_Amodei_at_TechCrunch_Disrupt_2023_02_%28cropped%29.jpg/1600px-Dario_Amodei_at_TechCrunch_Disrupt_2023_02_%28cropped%29.jpg",
+  "credit": "TechCrunch",
+  "licence": "CC BY 2.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Dario_Amodei_at_TechCrunch_Disrupt_2023_02_(cropped).jpg"
+ },
+ {
+  "id": "x-anthropic-public-benefit-fund-5-per-cent-shares",
+  "articleId": "anthropic-public-benefit-fund-5-per-cent-shares",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Dario_Amodei_at_TechCrunch_Disrupt_2023_02_%28cropped%29.jpg/1600px-Dario_Amodei_at_TechCrunch_Disrupt_2023_02_%28cropped%29.jpg",
+  "credit": "Photo: TechCrunch / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Anthropic chief executive Dario Amodei (file photo)",
+  "alt_hi": "एंथ्रोपिक के मुख्य कार्यकारी डारियो अमोदेई (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Dario_Amodei_at_TechCrunch_Disrupt_2023_02_(cropped).jpg",
+  "composite": [
+   "cx-anthropic-public-benefit-fund-5-per-cent-shares-0"
+  ]
+ },
+ {
+  "id": "cx-bandipur-tiger-reserve-63-per-cent-vacancies-ntca-0",
+  "articleId": "part:bandipur-tiger-reserve-63-per-cent-vacancies-ntca:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bandipur_Tiger_Reserve_Karnataka.jpg/1600px-Bandipur_Tiger_Reserve_Karnataka.jpg",
+  "credit": "Vinaysalimath",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Bandipur_Tiger_Reserve_Karnataka.jpg"
+ },
+ {
+  "id": "x-bandipur-tiger-reserve-63-per-cent-vacancies-ntca",
+  "articleId": "bandipur-tiger-reserve-63-per-cent-vacancies-ntca",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bandipur_Tiger_Reserve_Karnataka.jpg/1600px-Bandipur_Tiger_Reserve_Karnataka.jpg",
+  "credit": "Photo: Vinaysalimath / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Forest at Bandipur Tiger Reserve, Karnataka (file photo)",
+  "alt_hi": "कर्नाटक के बांदीपुर टाइगर रिजर्व का जंगल (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Bandipur_Tiger_Reserve_Karnataka.jpg",
+  "composite": [
+   "cx-bandipur-tiger-reserve-63-per-cent-vacancies-ntca-0"
+  ]
+ },
+ {
+  "id": "cx-childrens-right-to-internet-supreme-court-ruling-explaine-0",
+  "articleId": "part:childrens-right-to-internet-supreme-court-ruling-explained:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/CIET_NCERT_BUILDING_NEW_DELHI.jpg/1600px-CIET_NCERT_BUILDING_NEW_DELHI.jpg",
+  "credit": "anutoshkvsgr",
+  "licence": "CC0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:CIET_NCERT_BUILDING_NEW_DELHI.jpg"
+ },
+ {
+  "id": "x-childrens-right-to-internet-supreme-court-ruling-explained",
+  "articleId": "childrens-right-to-internet-supreme-court-ruling-explained",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/CIET_NCERT_BUILDING_NEW_DELHI.jpg/1600px-CIET_NCERT_BUILDING_NEW_DELHI.jpg",
+  "credit": "Photo: anutoshkvsgr / Wikimedia Commons",
+  "licence": "CC0",
+  "alt": "The National Council of Educational Research and Training (NCERT) in New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली में राष्ट्रीय शैक्षिक अनुसंधान और प्रशिक्षण परिषद (एनसीईआरटी) (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:CIET_NCERT_BUILDING_NEW_DELHI.jpg",
+  "composite": [
+   "cx-childrens-right-to-internet-supreme-court-ruling-explaine-0"
+  ]
+ },
+ {
+  "id": "cx-china-q3-gdp-grows-4-5-per-cent-beats-forecast-0",
+  "articleId": "part:china-q3-gdp-grows-4-5-per-cent-beats-forecast:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Skyline_of_Beijing_CBD_from_the_southeast_%2820210907094201%29.jpg/1600px-Skyline_of_Beijing_CBD_from_the_southeast_%2820210907094201%29.jpg",
+  "credit": "N509FZ",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Skyline_of_Beijing_CBD_from_the_southeast_(20210907094201).jpg"
+ },
+ {
+  "id": "x-china-q3-gdp-grows-4-5-per-cent-beats-forecast",
+  "articleId": "china-q3-gdp-grows-4-5-per-cent-beats-forecast",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Skyline_of_Beijing_CBD_from_the_southeast_%2820210907094201%29.jpg/1600px-Skyline_of_Beijing_CBD_from_the_southeast_%2820210907094201%29.jpg",
+  "credit": "Photo: N509FZ / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Beijing central business district skyline (file photo)",
+  "alt_hi": "बीजिंग के केंद्रीय व्यापारिक ज़िले का नज़ारा (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Skyline_of_Beijing_CBD_from_the_southeast_(20210907094201).jpg",
+  "composite": [
+   "cx-china-q3-gdp-grows-4-5-per-cent-beats-forecast-0"
+  ]
+ },
+ {
+  "id": "cx-dhal-singh-bisen-sworn-in-uttarakhand-governor-0",
+  "articleId": "part:dhal-singh-bisen-sworn-in-uttarakhand-governor:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Governor%E2%80%99s_House%2C_Nainital%2C_Uttarakhand%2C_India.jpg/1600px-Governor%E2%80%99s_House%2C_Nainital%2C_Uttarakhand%2C_India.jpg",
+  "credit": "Utkarsh saxena",
+  "licence": "CC BY-SA 3.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Governor%E2%80%99s_House,_Nainital,_Uttarakhand,_India.jpg"
+ },
+ {
+  "id": "x-dhal-singh-bisen-sworn-in-uttarakhand-governor",
+  "articleId": "dhal-singh-bisen-sworn-in-uttarakhand-governor",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Governor%E2%80%99s_House%2C_Nainital%2C_Uttarakhand%2C_India.jpg/1600px-Governor%E2%80%99s_House%2C_Nainital%2C_Uttarakhand%2C_India.jpg",
+  "credit": "Photo: Utkarsh saxena / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "The Governor's House in Nainital, Uttarakhand (file photo)",
+  "alt_hi": "उत्तराखंड के नैनीताल स्थित राजभवन (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Governor%E2%80%99s_House,_Nainital,_Uttarakhand,_India.jpg",
+  "composite": [
+   "cx-dhal-singh-bisen-sworn-in-uttarakhand-governor-0"
+  ]
+ },
+ {
+  "id": "cx-eisenkot-lapid-hollow-netanyahu-security-doctrine-araghch-0",
+  "articleId": "part:eisenkot-lapid-hollow-netanyahu-security-doctrine-araghchi:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Gadi_Eisenkot_2_%28cropped%29.jpg/1600px-Gadi_Eisenkot_2_%28cropped%29.jpg",
+  "credit": "יהב טרודלר (Yahav Trudler - Yahav Studio‬‏)",
+  "licence": "CC BY-SA 3.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Gadi_Eisenkot_2_(cropped).jpg"
+ },
+ {
+  "id": "cx-eisenkot-lapid-hollow-netanyahu-security-doctrine-araghch-1",
+  "articleId": "part:eisenkot-lapid-hollow-netanyahu-security-doctrine-araghchi:1",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Benjamin_Netanyahu_2019_%28cropped%29.jpg",
+  "credit": "Subur Martiana / U.S. Embassy Jerusalem",
+  "licence": "CC BY 2.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Benjamin_Netanyahu_2019_(cropped).jpg"
+ },
+ {
+  "id": "x-eisenkot-lapid-hollow-netanyahu-security-doctrine-araghchi",
+  "articleId": "eisenkot-lapid-hollow-netanyahu-security-doctrine-araghchi",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Gadi_Eisenkot_2_%28cropped%29.jpg/1600px-Gadi_Eisenkot_2_%28cropped%29.jpg",
+  "credit": "Photos: יהב טרודלר (Yahav Trudler - Yahav Studio‬‏) / Wikimedia Commons; Subur Martiana / U.S. Embassy Jerusalem / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0, CC BY 2.0",
+  "alt": "Gadi Eisenkot and Benjamin Netanyahu (file photo)",
+  "alt_hi": "गादी आइज़नकोट और बेंजामिन नेतन्याहू (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Gadi_Eisenkot_2_(cropped).jpg",
+  "composite": [
+   "cx-eisenkot-lapid-hollow-netanyahu-security-doctrine-araghch-0",
+   "cx-eisenkot-lapid-hollow-netanyahu-security-doctrine-araghch-1"
+  ]
+ },
+ {
+  "id": "cx-hfcl-q2-profit-jumps-448-per-cent-upper-circuit-0",
+  "articleId": "part:hfcl-q2-profit-jumps-448-per-cent-upper-circuit:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Hfcl-ftth-cables-new-facility-in-hyderabad-file-1119820.jpg",
+  "credit": "Nuttyprofessor2016",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Hfcl-ftth-cables-new-facility-in-hyderabad-file-1119820.jpg"
+ },
+ {
+  "id": "x-hfcl-q2-profit-jumps-448-per-cent-upper-circuit",
+  "articleId": "hfcl-q2-profit-jumps-448-per-cent-upper-circuit",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Hfcl-ftth-cables-new-facility-in-hyderabad-file-1119820.jpg",
+  "credit": "Photo: Nuttyprofessor2016 / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "HFCL's fibre cable plant in Hyderabad (file photo)",
+  "alt_hi": "हैदराबाद में एचएफ़सीएल का फ़ाइबर केबल संयंत्र (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Hfcl-ftth-cables-new-facility-in-hyderabad-file-1119820.jpg",
+  "composite": [
+   "cx-hfcl-q2-profit-jumps-448-per-cent-upper-circuit-0"
+  ]
+ },
+ {
+  "id": "cx-idbi-bank-employees-hunger-strike-fairfax-stake-sale-0",
+  "articleId": "part:idbi-bank-employees-hunger-strike-fairfax-stake-sale:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/IDBI_building%2Cvoltas_building_in_background_-_panoramio.jpg",
+  "credit": "devx",
+  "licence": "CC BY-SA 3.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:IDBI_building,voltas_building_in_background_-_panoramio.jpg"
+ },
+ {
+  "id": "x-idbi-bank-employees-hunger-strike-fairfax-stake-sale",
+  "articleId": "idbi-bank-employees-hunger-strike-fairfax-stake-sale",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/IDBI_building%2Cvoltas_building_in_background_-_panoramio.jpg",
+  "credit": "Photo: devx / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "An IDBI Bank building (file photo)",
+  "alt_hi": "आईडीबीआई बैंक की एक इमारत (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:IDBI_building,voltas_building_in_background_-_panoramio.jpg",
+  "composite": [
+   "cx-idbi-bank-employees-hunger-strike-fairfax-stake-sale-0"
+  ]
+ },
+ {
+  "id": "cx-india-to-host-ciml-legal-metrology-meeting-new-delhi-0",
+  "articleId": "part:india-to-host-ciml-legal-metrology-meeting-new-delhi:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Electronic_Weighing_Scale.jpg/1600px-Electronic_Weighing_Scale.jpg",
+  "credit": "Aliva Sahoo",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Electronic_Weighing_Scale.jpg"
+ },
+ {
+  "id": "x-india-to-host-ciml-legal-metrology-meeting-new-delhi",
+  "articleId": "india-to-host-ciml-legal-metrology-meeting-new-delhi",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Electronic_Weighing_Scale.jpg/1600px-Electronic_Weighing_Scale.jpg",
+  "credit": "Photo: Aliva Sahoo / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "An electronic weighing scale (file photo)",
+  "alt_hi": "एक इलेक्ट्रॉनिक तराज़ू (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Electronic_Weighing_Scale.jpg",
+  "composite": [
+   "cx-india-to-host-ciml-legal-metrology-meeting-new-delhi-0"
+  ]
+ },
+ {
+  "id": "cx-kapil-parmar-bronze-judo-asian-para-games-0",
+  "articleId": "part:kapil-parmar-bronze-judo-asian-para-games:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/81_ACPS_Atlanta_1996_Judo_Anthony_Clarke.jpg/1600px-81_ACPS_Atlanta_1996_Judo_Anthony_Clarke.jpg",
+  "credit": "John Sherwell",
+  "licence": "CC BY-SA 3.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:81_ACPS_Atlanta_1996_Judo_Anthony_Clarke.jpg"
+ },
+ {
+  "id": "x-kapil-parmar-bronze-judo-asian-para-games",
+  "articleId": "kapil-parmar-bronze-judo-asian-para-games",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/81_ACPS_Atlanta_1996_Judo_Anthony_Clarke.jpg/1600px-81_ACPS_Atlanta_1996_Judo_Anthony_Clarke.jpg",
+  "credit": "Photo: John Sherwell / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "A para judo bout (file photo)",
+  "alt_hi": "पैरा जूडो का एक मुकाबला (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:81_ACPS_Atlanta_1996_Judo_Anthony_Clarke.jpg",
+  "composite": [
+   "cx-kapil-parmar-bronze-judo-asian-para-games-0"
+  ]
+ },
+ {
+  "id": "cx-kashmir-buses-attacked-haryana-punjab-omar-abdullah-0",
+  "articleId": "part:kashmir-buses-attacked-haryana-punjab-omar-abdullah:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Jammu_Srinagar_Highway.jpg/1600px-Jammu_Srinagar_Highway.jpg",
+  "credit": "Akaravadra",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Jammu_Srinagar_Highway.jpg"
+ },
+ {
+  "id": "x-kashmir-buses-attacked-haryana-punjab-omar-abdullah",
+  "articleId": "kashmir-buses-attacked-haryana-punjab-omar-abdullah",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Jammu_Srinagar_Highway.jpg/1600px-Jammu_Srinagar_Highway.jpg",
+  "credit": "Photo: Akaravadra / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Jammu-Srinagar national highway (file photo)",
+  "alt_hi": "जम्मू-श्रीनगर राष्ट्रीय राजमार्ग (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Jammu_Srinagar_Highway.jpg",
+  "composite": [
+   "cx-kashmir-buses-attacked-haryana-punjab-omar-abdullah-0"
+  ]
+ },
+ {
+  "id": "cx-kenya-eighth-ebola-case-patient-attendant-0",
+  "articleId": "part:kenya-eighth-ebola-case-patient-attendant:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ebola_Virus_Particles_%287%29.jpg/1600px-Ebola_Virus_Particles_%287%29.jpg",
+  "credit": "NIAID",
+  "licence": "CC BY 2.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Ebola_Virus_Particles_(7).jpg"
+ },
+ {
+  "id": "x-kenya-eighth-ebola-case-patient-attendant",
+  "articleId": "kenya-eighth-ebola-case-patient-attendant",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ebola_Virus_Particles_%287%29.jpg/1600px-Ebola_Virus_Particles_%287%29.jpg",
+  "credit": "Photo: NIAID / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "An illustration of the Ebola virus (file photo)",
+  "alt_hi": "इबोला वायरस का चित्रण (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Ebola_Virus_Particles_(7).jpg",
+  "composite": [
+   "cx-kenya-eighth-ebola-case-patient-attendant-0"
+  ]
+ },
+ {
+  "id": "cx-kokila-beats-world-champion-judo-final-asian-para-games-0",
+  "articleId": "part:kokila-beats-world-champion-judo-final-asian-para-games:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Nagoya_Castle%28Larger%29.jpg/1600px-Nagoya_Castle%28Larger%29.jpg",
+  "credit": "Base64",
+  "licence": "CC BY-SA 3.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Nagoya_Castle(Larger).jpg"
+ },
+ {
+  "id": "x-kokila-beats-world-champion-judo-final-asian-para-games",
+  "articleId": "kokila-beats-world-champion-judo-final-asian-para-games",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Nagoya_Castle%28Larger%29.jpg/1600px-Nagoya_Castle%28Larger%29.jpg",
+  "credit": "Photo: Base64 / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Nagoya Castle in Aichi-Nagoya, host of the Asian Para Games (file photo)",
+  "alt_hi": "एशियाई पैरा खेलों के मेज़बान आइची-नागोया का नागोया कैसल (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Nagoya_Castle(Larger).jpg",
+  "composite": [
+   "cx-kokila-beats-world-champion-judo-final-asian-para-games-0"
+  ]
+ },
+ {
+  "id": "cx-lula-flavio-bolsonaro-trade-insults-first-runoff-debate-0",
+  "articleId": "part:lula-flavio-bolsonaro-trade-insults-first-runoff-debate:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Luiz_In%C3%A1cio_Lula_da_Silva_%28cropped%29.jpg",
+  "credit": "Ricardo Stuckert/Presidência da República",
+  "licence": "CC BY 3.0 br",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Luiz_In%C3%A1cio_Lula_da_Silva_(cropped).jpg"
+ },
+ {
+  "id": "cx-lula-flavio-bolsonaro-trade-insults-first-runoff-debate-1",
+  "articleId": "part:lula-flavio-bolsonaro-trade-insults-first-runoff-debate:1",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Fl%C3%A1vio_Bolsonaro.jpg",
+  "credit": "U.S. Consulate in Rio",
+  "licence": "Public domain",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Fl%C3%A1vio_Bolsonaro.jpg"
+ },
+ {
+  "id": "x-lula-flavio-bolsonaro-trade-insults-first-runoff-debate",
+  "articleId": "lula-flavio-bolsonaro-trade-insults-first-runoff-debate",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Luiz_In%C3%A1cio_Lula_da_Silva_%28cropped%29.jpg",
+  "credit": "Photos: Ricardo Stuckert/Presidência da República / Wikimedia Commons; U.S. Consulate in Rio / Wikimedia Commons",
+  "licence": "CC BY 3.0 br, Public domain",
+  "alt": "Brazilian President Luiz Inácio Lula da Silva and Senator Flávio Bolsonaro (file photos)",
+  "alt_hi": "ब्राज़ील के राष्ट्रपति लुइज़ इनासियो लूला दा सिल्वा और सीनेटर फ्लावियो बोल्सोनारो (फाइल फोटो) (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Luiz_In%C3%A1cio_Lula_da_Silva_(cropped).jpg",
+  "composite": [
+   "cx-lula-flavio-bolsonaro-trade-insults-first-runoff-debate-0",
+   "cx-lula-flavio-bolsonaro-trade-insults-first-runoff-debate-1"
+  ]
+ },
+ {
+  "id": "cx-macron-admits-failures-rejects-minister-resignation-0",
+  "articleId": "part:macron-admits-failures-rejects-minister-resignation:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Emmanuel_Macron_%28cropped%29.jpg",
+  "credit": "Arno Mikkor, EU2017EE Estonian Presidency",
+  "licence": "CC BY 2.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Emmanuel_Macron_(cropped).jpg"
+ },
+ {
+  "id": "cx-macron-admits-failures-rejects-minister-resignation-1",
+  "articleId": "part:macron-admits-failures-rejects-minister-resignation:1",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Laurent_Nu%C3%B1ez.jpg/1600px-Laurent_Nu%C3%B1ez.jpg",
+  "credit": "Arthur Empereur",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Laurent_Nu%C3%B1ez.jpg"
+ },
+ {
+  "id": "x-macron-admits-failures-rejects-minister-resignation",
+  "articleId": "macron-admits-failures-rejects-minister-resignation",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Emmanuel_Macron_%28cropped%29.jpg",
+  "credit": "Photos: Arno Mikkor, EU2017EE Estonian Presidency / Wikimedia Commons; Arthur Empereur / Wikimedia Commons",
+  "licence": "CC BY 2.0, CC BY-SA 4.0",
+  "alt": "Emmanuel Macron and Laurent Nuñez (file photo)",
+  "alt_hi": "इमैनुएल मैक्रों और लॉरां नुनेज़ (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Emmanuel_Macron_(cropped).jpg",
+  "composite": [
+   "cx-macron-admits-failures-rejects-minister-resignation-0",
+   "cx-macron-admits-failures-rejects-minister-resignation-1"
+  ]
+ },
+ {
+  "id": "cx-meity-advisory-meta-recommendations-public-events-0",
+  "articleId": "part:meity-advisory-meta-recommendations-public-events:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Meta_Platforms_Inc.png/1600px-Meta_Platforms_Inc.png",
+  "credit": "Ngmchdz",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Meta_Platforms_Inc.png"
+ },
+ {
+  "id": "x-meity-advisory-meta-recommendations-public-events",
+  "articleId": "meity-advisory-meta-recommendations-public-events",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Meta_Platforms_Inc.png/1600px-Meta_Platforms_Inc.png",
+  "credit": "Photo: Ngmchdz / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Meta Platforms logo (file photo)",
+  "alt_hi": "मेटा प्लेटफ़ॉर्म्स का लोगो (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Meta_Platforms_Inc.png",
+  "composite": [
+   "cx-meity-advisory-meta-recommendations-public-events-0"
+  ]
+ },
+ {
+  "id": "cx-meta-says-claude-tool-triggered-no-kings-instagram-suspen-0",
+  "articleId": "part:meta-says-claude-tool-triggered-no-kings-instagram-suspension:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/No_Kings_protest_in_NYC_%2840828%29.jpg/1600px-No_Kings_protest_in_NYC_%2840828%29.jpg",
+  "credit": "Rhododendrites",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:No_Kings_protest_in_NYC_(40828).jpg"
+ },
+ {
+  "id": "cx-meta-says-claude-tool-triggered-no-kings-instagram-suspen-1",
+  "articleId": "part:meta-says-claude-tool-triggered-no-kings-instagram-suspension:1",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Instagram_profile_followers_screenshot_in_24_August_2025.png",
+  "credit": "Instagram",
+  "licence": "Public domain",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Instagram_profile_followers_screenshot_in_24_August_2025.png"
+ },
+ {
+  "id": "x-meta-says-claude-tool-triggered-no-kings-instagram-suspensio",
+  "articleId": "meta-says-claude-tool-triggered-no-kings-instagram-suspension",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/No_Kings_protest_in_NYC_%2840828%29.jpg/1600px-No_Kings_protest_in_NYC_%2840828%29.jpg",
+  "credit": "Photos: Rhododendrites / Wikimedia Commons; Instagram / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0, Public domain",
+  "alt": "No Kings protesters in New York, and Instagram (file photo)",
+  "alt_hi": "न्यूयॉर्क में नो किंग्स प्रदर्शनकारी, और इंस्टाग्राम (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:No_Kings_protest_in_NYC_(40828).jpg",
+  "composite": [
+   "cx-meta-says-claude-tool-triggered-no-kings-instagram-suspen-0",
+   "cx-meta-says-claude-tool-triggered-no-kings-instagram-suspen-1"
+  ]
+ },
+ {
+  "id": "cx-mmx-phobos-probe-h3-launch-tonight-tanegashima-0",
+  "articleId": "part:mmx-phobos-probe-h3-launch-tonight-tanegashima:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/H3_rocket_launch.jpg",
+  "credit": "AF991",
+  "licence": "Public domain",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:H3_rocket_launch.jpg"
+ },
+ {
+  "id": "x-mmx-phobos-probe-h3-launch-tonight-tanegashima",
+  "articleId": "mmx-phobos-probe-h3-launch-tonight-tanegashima",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/H3_rocket_launch.jpg",
+  "credit": "Photo: AF991 / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "An H3 rocket lifts off from Tanegashima (file photo)",
+  "alt_hi": "तानेगाशिमा से उड़ान भरता एच3 रॉकेट (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:H3_rocket_launch.jpg",
+  "composite": [
+   "cx-mmx-phobos-probe-h3-launch-tonight-tanegashima-0"
+  ]
+ },
+ {
+  "id": "cx-moes-acsir-phd-earth-system-sciences-ten-institutes-0",
+  "articleId": "part:moes-acsir-phd-earth-system-sciences-ten-institutes:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Closeup_of_IITM%2C_Pune_main_building.jpg/1600px-Closeup_of_IITM%2C_Pune_main_building.jpg",
+  "credit": "DesiBoy101",
+  "licence": "CC BY 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Closeup_of_IITM,_Pune_main_building.jpg"
+ },
+ {
+  "id": "x-moes-acsir-phd-earth-system-sciences-ten-institutes",
+  "articleId": "moes-acsir-phd-earth-system-sciences-ten-institutes",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Closeup_of_IITM%2C_Pune_main_building.jpg/1600px-Closeup_of_IITM%2C_Pune_main_building.jpg",
+  "credit": "Photo: DesiBoy101 / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "The Indian Institute of Tropical Meteorology in Pune (file photo)",
+  "alt_hi": "पुणे स्थित भारतीय उष्णदेशीय मौसम विज्ञान संस्थान (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Closeup_of_IITM,_Pune_main_building.jpg",
+  "composite": [
+   "cx-moes-acsir-phd-earth-system-sciences-ten-institutes-0"
+  ]
+ },
+ {
+  "id": "cx-mona-agarwal-gold-avani-lekhara-silver-asian-para-games-0",
+  "articleId": "part:mona-agarwal-gold-avani-lekhara-silver-asian-para-games:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Defense.gov_photo_essay_110517-F-QE915-898.jpg/1600px-Defense.gov_photo_essay_110517-F-QE915-898.jpg",
+  "credit": "Staff Sgt. Desiree N. Palacios",
+  "licence": "Public domain",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Defense.gov_photo_essay_110517-F-QE915-898.jpg"
+ },
+ {
+  "id": "x-mona-agarwal-gold-avani-lekhara-silver-asian-para-games",
+  "articleId": "mona-agarwal-gold-avani-lekhara-silver-asian-para-games",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Defense.gov_photo_essay_110517-F-QE915-898.jpg/1600px-Defense.gov_photo_essay_110517-F-QE915-898.jpg",
+  "credit": "Photo: Staff Sgt. Desiree N. Palacios / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Para shooters on an air rifle range (file photo)",
+  "alt_hi": "एयर राइफ़ल रेंज पर पैरा निशानेबाज़ (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Defense.gov_photo_essay_110517-F-QE915-898.jpg",
+  "composite": [
+   "cx-mona-agarwal-gold-avani-lekhara-silver-asian-para-games-0"
+  ]
+ },
+ {
+  "id": "cx-musk-one-spacex-share-every-child-america-0",
+  "articleId": "part:musk-one-spacex-share-every-child-america:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/USAFA_Hosts_Elon_Musk_%28Image_1_of_17%29_%28cropped%29.jpg",
+  "credit": "Justin Pacheco",
+  "licence": "Public domain",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:USAFA_Hosts_Elon_Musk_(Image_1_of_17)_(cropped).jpg"
+ },
+ {
+  "id": "x-musk-one-spacex-share-every-child-america",
+  "articleId": "musk-one-spacex-share-every-child-america",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/USAFA_Hosts_Elon_Musk_%28Image_1_of_17%29_%28cropped%29.jpg",
+  "credit": "Photo: Justin Pacheco / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Elon Musk, chief executive of SpaceX and Tesla (file photo)",
+  "alt_hi": "स्पेसएक्स और टेस्ला के मुख्य कार्यकारी एलन मस्क (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:USAFA_Hosts_Elon_Musk_(Image_1_of_17)_(cropped).jpg",
+  "composite": [
+   "cx-musk-one-spacex-share-every-child-america-0"
+  ]
+ },
+ {
+  "id": "cx-muzaffarpur-mob-killing-and-arson-justice-is-not-a-crowd-0",
+  "articleId": "part:muzaffarpur-mob-killing-and-arson-justice-is-not-a-crowd:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Muzaffarpur_Junction_Railway_Station.jpg/1600px-Muzaffarpur_Junction_Railway_Station.jpg",
+  "credit": "VIVEK KUMAR121",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Muzaffarpur_Junction_Railway_Station.jpg"
+ },
+ {
+  "id": "x-muzaffarpur-mob-killing-and-arson-justice-is-not-a-crowd",
+  "articleId": "muzaffarpur-mob-killing-and-arson-justice-is-not-a-crowd",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Muzaffarpur_Junction_Railway_Station.jpg/1600px-Muzaffarpur_Junction_Railway_Station.jpg",
+  "credit": "Photo: VIVEK KUMAR121 / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Muzaffarpur Junction railway station in Bihar (file photo)",
+  "alt_hi": "बिहार का मुज़फ्फरपुर जंक्शन रेलवे स्टेशन (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Muzaffarpur_Junction_Railway_Station.jpg",
+  "composite": [
+   "cx-muzaffarpur-mob-killing-and-arson-justice-is-not-a-crowd-0"
+  ]
+ },
+ {
+  "id": "cx-narmadapuram-patwari-suicide-two-sons-found-dead-pipariya-0",
+  "articleId": "part:narmadapuram-patwari-suicide-two-sons-found-dead-pipariya:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hoshangabad_Railway_station_Sign_board_01.jpg/1600px-Hoshangabad_Railway_station_Sign_board_01.jpg",
+  "credit": "Suyash.dwivedi",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Hoshangabad_Railway_station_Sign_board_01.jpg"
+ },
+ {
+  "id": "x-narmadapuram-patwari-suicide-two-sons-found-dead-pipariya",
+  "articleId": "narmadapuram-patwari-suicide-two-sons-found-dead-pipariya",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hoshangabad_Railway_station_Sign_board_01.jpg/1600px-Hoshangabad_Railway_station_Sign_board_01.jpg",
+  "credit": "Photo: Suyash.dwivedi / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Pipariya railway station, Madhya Pradesh (file photo)",
+  "alt_hi": "मध्य प्रदेश का पिपरिया रेलवे स्टेशन (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Hoshangabad_Railway_station_Sign_board_01.jpg",
+  "composite": [
+   "cx-narmadapuram-patwari-suicide-two-sons-found-dead-pipariya-0"
+  ]
+ },
+ {
+  "id": "cx-pakistan-army-major-killed-gwadar-ied-kalat-operation-0",
+  "articleId": "part:pakistan-army-major-killed-gwadar-ied-kalat-operation:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Gwadar_Port.jpg/1600px-Gwadar_Port.jpg",
+  "credit": "Unknown",
+  "licence": "CC BY-SA 3.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Gwadar_Port.jpg"
+ },
+ {
+  "id": "x-pakistan-army-major-killed-gwadar-ied-kalat-operation",
+  "articleId": "pakistan-army-major-killed-gwadar-ied-kalat-operation",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Gwadar_Port.jpg/1600px-Gwadar_Port.jpg",
+  "credit": "Photo: Unknown / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Gwadar port in Balochistan (file photo)",
+  "alt_hi": "बलूचिस्तान का ग्वादर बंदरगाह (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Gwadar_Port.jpg",
+  "composite": [
+   "cx-pakistan-army-major-killed-gwadar-ied-kalat-operation-0"
+  ]
+ },
+ {
+  "id": "cx-pakistan-governors-rule-khyber-pakhtunkhwa-explained-0",
+  "articleId": "part:pakistan-governors-rule-khyber-pakhtunkhwa-explained:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bab-e-Khyber.jpg/1600px-Bab-e-Khyber.jpg",
+  "credit": "Muhammad Imran Saeed",
+  "licence": "CC BY 2.5",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Bab-e-Khyber.jpg"
+ },
+ {
+  "id": "x-pakistan-governors-rule-khyber-pakhtunkhwa-explained",
+  "articleId": "pakistan-governors-rule-khyber-pakhtunkhwa-explained",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bab-e-Khyber.jpg/1600px-Bab-e-Khyber.jpg",
+  "credit": "Photo: Muhammad Imran Saeed / Wikimedia Commons",
+  "licence": "CC BY 2.5",
+  "alt": "Bab-e-Khyber gate in Khyber Pakhtunkhwa (file photo)",
+  "alt_hi": "ख़ैबर पख़्तूनख़्वा में बाब-ए-ख़ैबर द्वार (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Bab-e-Khyber.jpg",
+  "composite": [
+   "cx-pakistan-governors-rule-khyber-pakhtunkhwa-explained-0"
+  ]
+ },
+ {
+  "id": "cx-psu-bank-shares-rally-pnb-canara-q2-0",
+  "articleId": "part:psu-bank-shares-rally-pnb-canara-q2:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/PNB_ATM_at_Moolchand_Metro_Station.jpg/1600px-PNB_ATM_at_Moolchand_Metro_Station.jpg",
+  "credit": "Deepak G Goswami",
+  "licence": "CC BY-SA 3.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:PNB_ATM_at_Moolchand_Metro_Station.jpg"
+ },
+ {
+  "id": "x-psu-bank-shares-rally-pnb-canara-q2",
+  "articleId": "psu-bank-shares-rally-pnb-canara-q2",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/PNB_ATM_at_Moolchand_Metro_Station.jpg/1600px-PNB_ATM_at_Moolchand_Metro_Station.jpg",
+  "credit": "Photo: Deepak G Goswami / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Punjab National Bank's head office in New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली में पंजाब नेशनल बैंक का मुख्यालय (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:PNB_ATM_at_Moolchand_Metro_Station.jpg",
+  "composite": [
+   "cx-psu-bank-shares-rally-pnb-canara-q2-0"
+  ]
+ },
+ {
+  "id": "cx-q2-movers-tejas-cyient-dlm-oberoi-kross-0",
+  "articleId": "part:q2-movers-tejas-cyient-dlm-oberoi-kross:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Tejas_Networks_exhibition_stall_at_ITU_WTSA_2024%2C_Delhi.jpg/1600px-Tejas_Networks_exhibition_stall_at_ITU_WTSA_2024%2C_Delhi.jpg",
+  "credit": "Dev Jadiya",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Tejas_Networks_exhibition_stall_at_ITU_WTSA_2024,_Delhi.jpg"
+ },
+ {
+  "id": "x-q2-movers-tejas-cyient-dlm-oberoi-kross",
+  "articleId": "q2-movers-tejas-cyient-dlm-oberoi-kross",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Tejas_Networks_exhibition_stall_at_ITU_WTSA_2024%2C_Delhi.jpg/1600px-Tejas_Networks_exhibition_stall_at_ITU_WTSA_2024%2C_Delhi.jpg",
+  "credit": "Photo: Dev Jadiya / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Tejas Networks in Bengaluru (file photo)",
+  "alt_hi": "बेंगलुरु में तेजस नेटवर्क्स (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Tejas_Networks_exhibition_stall_at_ITU_WTSA_2024,_Delhi.jpg",
+  "composite": [
+   "cx-q2-movers-tejas-cyient-dlm-oberoi-kross-0"
+  ]
+ },
+ {
+  "id": "cx-russian-strike-kyiv-kills-woman-metro-station-hit-0",
+  "articleId": "part:russian-strike-kyiv-kills-woman-metro-station-hit:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitali_Klitschko_July_2014.jpg/1600px-Vitali_Klitschko_July_2014.jpg",
+  "credit": "Embassy of the United States Kyiv, Ukraine",
+  "licence": "Public domain",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Vitali_Klitschko_July_2014.jpg"
+ },
+ {
+  "id": "x-russian-strike-kyiv-kills-woman-metro-station-hit",
+  "articleId": "russian-strike-kyiv-kills-woman-metro-station-hit",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitali_Klitschko_July_2014.jpg/1600px-Vitali_Klitschko_July_2014.jpg",
+  "credit": "Photo: Embassy of the United States Kyiv, Ukraine / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Kyiv Mayor Vitali Klitschko (file photo)",
+  "alt_hi": "कीव के मेयर विताली क्लिच्को (फाइल फोटो) (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Vitali_Klitschko_July_2014.jpg",
+  "composite": [
+   "cx-russian-strike-kyiv-kills-woman-metro-station-hit-0"
+  ]
+ },
+ {
+  "id": "cx-saptak-talwar-pgti-order-of-merit-dp-world-tour-card-0",
+  "articleId": "part:saptak-talwar-pgti-order-of-merit-dp-world-tour-card:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Dresden_und_das_Elbgel%C3%A4nde_124a.jpg",
+  "credit": "Verein zur Förderung Dresdens und des Fremdenverkehrs (Hrsg.)",
+  "licence": "Public domain",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Dresden_und_das_Elbgel%C3%A4nde_124a.jpg"
+ },
+ {
+  "id": "x-saptak-talwar-pgti-order-of-merit-dp-world-tour-card",
+  "articleId": "saptak-talwar-pgti-order-of-merit-dp-world-tour-card",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Dresden_und_das_Elbgel%C3%A4nde_124a.jpg",
+  "credit": "Photo: Verein zur Förderung Dresdens und des Fremdenverkehrs (Hrsg.) / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "A golfer mid-swing, illustration (file photo)",
+  "alt_hi": "गोल्फ़ शॉट लगाता खिलाड़ी, चित्रांकन (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Dresden_und_das_Elbgel%C3%A4nde_124a.jpg",
+  "composite": [
+   "cx-saptak-talwar-pgti-order-of-merit-dp-world-tour-card-0"
+  ]
+ },
+ {
+  "id": "cx-sensex-nifty-close-october-19-private-banks-axis-0",
+  "articleId": "part:sensex-nifty-close-october-19-private-banks-axis:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Phiroze_Jeejeebhoy_Towers_%28Bombay_Stock_Exchange%29.jpg",
+  "credit": "Appaiah",
+  "licence": "CC BY-SA 2.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Phiroze_Jeejeebhoy_Towers_(Bombay_Stock_Exchange).jpg"
+ },
+ {
+  "id": "x-sensex-nifty-close-october-19-private-banks-axis",
+  "articleId": "sensex-nifty-close-october-19-private-banks-axis",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Phiroze_Jeejeebhoy_Towers_%28Bombay_Stock_Exchange%29.jpg",
+  "credit": "Photo: Appaiah / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "The Bombay Stock Exchange building on Dalal Street (file photo)",
+  "alt_hi": "दलाल स्ट्रीट पर बॉम्बे स्टॉक एक्सचेंज की इमारत (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Phiroze_Jeejeebhoy_Towers_(Bombay_Stock_Exchange).jpg",
+  "composite": [
+   "cx-sensex-nifty-close-october-19-private-banks-axis-0"
+  ]
+ },
+ {
+  "id": "cx-sheetal-devi-toman-kumar-mixed-team-world-record-asian-pa-0",
+  "articleId": "part:sheetal-devi-toman-kumar-mixed-team-world-record-asian-para-games:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sheetal_Devi_%28Para-archer%29.png/1600px-Sheetal_Devi_%28Para-archer%29.png",
+  "credit": "Unknown author",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Sheetal_Devi_(Para-archer).png"
+ },
+ {
+  "id": "cx-sheetal-devi-toman-kumar-mixed-team-world-record-asian-pa-1",
+  "articleId": "part:sheetal-devi-toman-kumar-mixed-team-world-record-asian-para-games:1",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Para_Archery_at_the_2024_Summer_Paralympics_-_Mixed_Team_Compound_Open_Semifinal_match_India_vs_Iran_-_04.jpg/1600px-Para_Archery_at_the_2024_Summer_Paralympics_-_Mixed_Team_Compound_Open_Semifinal_match_India_vs_Iran_-_04.jpg",
+  "credit": "Daieuxetdailleurs",
+  "licence": "CC BY 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Para_Archery_at_the_2024_Summer_Paralympics_-_Mixed_Team_Compound_Open_Semifinal_match_India_vs_Iran_-_04.jpg"
+ },
+ {
+  "id": "x-sheetal-devi-toman-kumar-mixed-team-world-record-asian-para-",
+  "articleId": "sheetal-devi-toman-kumar-mixed-team-world-record-asian-para-games",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sheetal_Devi_%28Para-archer%29.png/1600px-Sheetal_Devi_%28Para-archer%29.png",
+  "credit": "Photos: Unknown author / Wikimedia Commons; Daieuxetdailleurs / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0, CC BY 4.0",
+  "alt": "Sheetal Devi, and India's compound para archers in action (file photo)",
+  "alt_hi": "शीतल देवी, और भारत के कंपाउंड पैरा तीरंदाज़ (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Sheetal_Devi_(Para-archer).png",
+  "composite": [
+   "cx-sheetal-devi-toman-kumar-mixed-team-world-record-asian-pa-0",
+   "cx-sheetal-devi-toman-kumar-mixed-team-world-record-asian-pa-1"
+  ]
+ },
+ {
+  "id": "cx-thoubal-khangabok-clashes-one-killed-curfew-0",
+  "articleId": "part:thoubal-khangabok-clashes-one-killed-curfew:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Pumlenpat_Lake_in_Thoubal_district_of_Kangleipak_%28Manipur%29.jpg",
+  "credit": "Herojit th",
+  "licence": "CC BY-SA 3.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Pumlenpat_Lake_in_Thoubal_district_of_Kangleipak_(Manipur).jpg"
+ },
+ {
+  "id": "x-thoubal-khangabok-clashes-one-killed-curfew",
+  "articleId": "thoubal-khangabok-clashes-one-killed-curfew",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Pumlenpat_Lake_in_Thoubal_district_of_Kangleipak_%28Manipur%29.jpg",
+  "credit": "Photo: Herojit th / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Thoubal district, Manipur (file photo)",
+  "alt_hi": "मणिपुर का थौबल जिला (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Pumlenpat_Lake_in_Thoubal_district_of_Kangleipak_(Manipur).jpg",
+  "composite": [
+   "cx-thoubal-khangabok-clashes-one-killed-curfew-0"
+  ]
+ },
+ {
+  "id": "cx-tiger-shroff-firing-three-suspects-held-kota-train-0",
+  "articleId": "part:tiger-shroff-firing-three-suspects-held-kota-train:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Tiger_Shroff_at_the_launch_of_%27Whistle_Baja%27_song_from_%27Heropanti%27.jpg",
+  "credit": "Bollywood Hungama",
+  "licence": "CC BY 3.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Tiger_Shroff_at_the_launch_of_%27Whistle_Baja%27_song_from_%27Heropanti%27.jpg"
+ },
+ {
+  "id": "cx-tiger-shroff-firing-three-suspects-held-kota-train-1",
+  "articleId": "part:tiger-shroff-firing-three-suspects-held-kota-train:1",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Kota_railway_station%2C_kota_rajasthan.jpg/1600px-Kota_railway_station%2C_kota_rajasthan.jpg",
+  "credit": "Ritukejai",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Kota_railway_station,_kota_rajasthan.jpg"
+ },
+ {
+  "id": "x-tiger-shroff-firing-three-suspects-held-kota-train",
+  "articleId": "tiger-shroff-firing-three-suspects-held-kota-train",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Tiger_Shroff_at_the_launch_of_%27Whistle_Baja%27_song_from_%27Heropanti%27.jpg",
+  "credit": "Photos: Bollywood Hungama / Wikimedia Commons; Ritukejai / Wikimedia Commons",
+  "licence": "CC BY 3.0, CC BY-SA 4.0",
+  "alt": "Actor Tiger Shroff (file photo)",
+  "alt_hi": "अभिनेता टाइगर श्रॉफ (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Tiger_Shroff_at_the_launch_of_%27Whistle_Baja%27_song_from_%27Heropanti%27.jpg",
+  "composite": [
+   "cx-tiger-shroff-firing-three-suspects-held-kota-train-0",
+   "cx-tiger-shroff-firing-three-suspects-held-kota-train-1"
+  ]
+ },
+ {
+  "id": "cx-trump-defends-russia-sanctions-waiver-attacks-zelenskyy-0",
+  "articleId": "part:trump-defends-russia-sanctions-waiver-attacks-zelenskyy:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Donald_Trump_by_Gage_Skidmore_12.jpg/1600px-Donald_Trump_by_Gage_Skidmore_12.jpg",
+  "credit": "Gage Skidmore",
+  "licence": "CC BY-SA 3.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Donald_Trump_by_Gage_Skidmore_12.jpg"
+ },
+ {
+  "id": "cx-trump-defends-russia-sanctions-waiver-attacks-zelenskyy-1",
+  "articleId": "part:trump-defends-russia-sanctions-waiver-attacks-zelenskyy:1",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Volodymyr_Zelenskyy_in_Manila%2C_Philippines.jpg/1600px-Volodymyr_Zelenskyy_in_Manila%2C_Philippines.jpg",
+  "credit": "Presidential Communications Office",
+  "licence": "Public domain",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelenskyy_in_Manila,_Philippines.jpg"
+ },
+ {
+  "id": "x-trump-defends-russia-sanctions-waiver-attacks-zelenskyy",
+  "articleId": "trump-defends-russia-sanctions-waiver-attacks-zelenskyy",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Donald_Trump_by_Gage_Skidmore_12.jpg/1600px-Donald_Trump_by_Gage_Skidmore_12.jpg",
+  "credit": "Photos: Gage Skidmore / Wikimedia Commons; Presidential Communications Office / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0, Public domain",
+  "alt": "US President Donald Trump and Ukrainian President Volodymyr Zelenskyy (file photos)",
+  "alt_hi": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और यूक्रेन के राष्ट्रपति वोलोदिमीर ज़ेलेंस्की (फाइल फोटो) (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Donald_Trump_by_Gage_Skidmore_12.jpg",
+  "composite": [
+   "cx-trump-defends-russia-sanctions-waiver-attacks-zelenskyy-0",
+   "cx-trump-defends-russia-sanctions-waiver-attacks-zelenskyy-1"
+  ]
+ },
+ {
+  "id": "cx-ultratech-cement-q2-profit-rises-21-per-cent-0",
+  "articleId": "part:ultratech-cement-q2-profit-rises-21-per-cent:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ultra_Tech_Cement_plant_Jafrabad.jpg/1600px-Ultra_Tech_Cement_plant_Jafrabad.jpg",
+  "credit": "Gazal world",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Ultra_Tech_Cement_plant_Jafrabad.jpg"
+ },
+ {
+  "id": "x-ultratech-cement-q2-profit-rises-21-per-cent",
+  "articleId": "ultratech-cement-q2-profit-rises-21-per-cent",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ultra_Tech_Cement_plant_Jafrabad.jpg/1600px-Ultra_Tech_Cement_plant_Jafrabad.jpg",
+  "credit": "Photo: Gazal world / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "UltraTech Cement's plant at Jafrabad, Gujarat (file photo)",
+  "alt_hi": "गुजरात के जाफ़राबाद में अल्ट्राटेक सीमेंट का संयंत्र (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Ultra_Tech_Cement_plant_Jafrabad.jpg",
+  "composite": [
+   "cx-ultratech-cement-q2-profit-rises-21-per-cent-0"
+  ]
+ },
+ {
+  "id": "cx-union-bank-of-india-q2-profit-rises-30-per-cent-0",
+  "articleId": "part:union-bank-of-india-q2-profit-rises-30-per-cent:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Union_Bank_of_India_Logo.jpg",
+  "credit": "Union Bank of India",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Union_Bank_of_India_Logo.jpg"
+ },
+ {
+  "id": "x-union-bank-of-india-q2-profit-rises-30-per-cent",
+  "articleId": "union-bank-of-india-q2-profit-rises-30-per-cent",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Union_Bank_of_India_Logo.jpg",
+  "credit": "Photo: Union Bank of India / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Union Bank of India logo (file photo)",
+  "alt_hi": "यूनियन बैंक ऑफ़ इंडिया का लोगो (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Union_Bank_of_India_Logo.jpg",
+  "composite": [
+   "cx-union-bank-of-india-q2-profit-rises-30-per-cent-0"
+  ]
+ },
+ {
+  "id": "cx-who-owns-trinamool-election-commission-symbol-dispute-exp-0",
+  "articleId": "part:who-owns-trinamool-election-commission-symbol-dispute-explained:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Ritabrata_Banerjee.png",
+  "credit": "Chatgpt",
+  "licence": "Public domain",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Ritabrata_Banerjee.png"
+ },
+ {
+  "id": "cx-who-owns-trinamool-election-commission-symbol-dispute-exp-1",
+  "articleId": "part:who-owns-trinamool-election-commission-symbol-dispute-explained:1",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Mamata_Banerjee_-_Kolkata_2011-12-08_7540_Cropped.JPG/1600px-Mamata_Banerjee_-_Kolkata_2011-12-08_7540_Cropped.JPG",
+  "credit": "Biswarup Ganguly",
+  "licence": "CC BY 3.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Mamata_Banerjee_-_Kolkata_2011-12-08_7540_Cropped.JPG"
+ },
+ {
+  "id": "x-who-owns-trinamool-election-commission-symbol-dispute-explai",
+  "articleId": "who-owns-trinamool-election-commission-symbol-dispute-explained",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Ritabrata_Banerjee.png",
+  "credit": "Photos: Chatgpt / Wikimedia Commons; Biswarup Ganguly / Wikimedia Commons",
+  "licence": "Public domain, CC BY 3.0",
+  "alt": "Ritabrata Banerjee and Mamata Banerjee (file photos)",
+  "alt_hi": "ऋतब्रत बनर्जी और ममता बनर्जी (फाइल फोटो) (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Ritabrata_Banerjee.png",
+  "composite": [
+   "cx-who-owns-trinamool-election-commission-symbol-dispute-exp-0",
+   "cx-who-owns-trinamool-election-commission-symbol-dispute-exp-1"
+  ]
+ },
+ {
+  "id": "cx-zetwerk-ipo-fully-subscribed-final-day-0",
+  "articleId": "part:zetwerk-ipo-fully-subscribed-final-day:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National_Stock_Exchange_NSE_India.jpg/1600px-National_Stock_Exchange_NSE_India.jpg",
+  "credit": "Ganesh Dhamodkar",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:National_Stock_Exchange_NSE_India.jpg"
+ },
+ {
+  "id": "x-zetwerk-ipo-fully-subscribed-final-day",
+  "articleId": "zetwerk-ipo-fully-subscribed-final-day",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National_Stock_Exchange_NSE_India.jpg/1600px-National_Stock_Exchange_NSE_India.jpg",
+  "credit": "Photo: Ganesh Dhamodkar / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The National Stock Exchange building in Mumbai (file photo)",
+  "alt_hi": "मुंबई में नेशनल स्टॉक एक्सचेंज की इमारत (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:National_Stock_Exchange_NSE_India.jpg",
+  "composite": [
+   "cx-zetwerk-ipo-fully-subscribed-final-day-0"
+  ]
  }
 ]
