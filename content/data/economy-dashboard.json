@@ -2,7 +2,7 @@
   "id": "economy-dashboard",
   "title": "India economy dashboard",
   "as_of": "2026-10-11",
-  "updated": "2026-10-18T05:30:00+05:30",
+  "updated": "2026-10-19T15:55:00+05:30",
   "notes": "Every value is taken from the source named in its row. verified_primary is true only when the figure was read in a primary release (RBI, MoSPI, PIB, Ministry of Finance). Values the research desk marked as derived are not included.",
   "indicators": [
     {
@@ -556,14 +556,14 @@
     {
       "id": "sensex",
       "name": "BSE Sensex (close)",
-      "latest_value": 74729.27,
+      "latest_value": 73852.9,
       "unit": "index points",
-      "period": "16 Oct 2026",
-      "release_date": "2026-10-16",
+      "period": "19 Oct 2026",
+      "release_date": "2026-10-19",
       "change_vs_previous": {
         "basis": "previous close",
-        "change": 413.66,
-        "change_pct": 0.56,
+        "change": -876.37,
+        "change_pct": -1.17,
         "change_unit": "points"
       },
       "history": [
@@ -594,15 +594,19 @@
         {
           "period": "16 Oct 2026",
           "value": 74729.27
+        },
+        {
+          "period": "19 Oct 2026",
+          "value": 73852.9
         }
       ],
       "source": {
-        "publisher": "PTI via ThePrint",
-        "url": "https://theprint.in/economy/rupee-rallies-for-6th-straight-session-ends-10-paise-higher-at-94-89-against-us-dollar/3074139/",
-        "date": "2026-10-16"
+        "publisher": "Business Standard (market close)",
+        "url": "https://www.business-standard.com/markets/news/stock-market-live-october-19-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bond-yields-q2-results-hind-zinc-share-price-today-ipo-today-126101900052_1.html",
+        "date": "2026-10-19"
       },
       "verified_primary": false,
-      "note": "27 May 2026 close from PTI via Deccan Herald. 16 Oct close from PTI, matching Liquide. Week 9-16 Oct: +2,256.94 points (3.11%).",
+      "note": "27 May 2026 close from PTI via Deccan Herald. 16 Oct close from PTI, matching Liquide. Week 9-16 Oct: +2,256.94 points (3.11%). 19 Oct close: fall of 876.37 points from Business Standard; level derived from Friday's 74,729.27.",
       "history_sources": [
         {
           "period": "27 May 2026",
@@ -615,14 +619,14 @@
     {
       "id": "nifty-50",
       "name": "NSE Nifty 50 (close)",
-      "latest_value": 23146.15,
+      "latest_value": 22889,
       "unit": "index points",
-      "period": "16 Oct 2026",
-      "release_date": "2026-10-16",
+      "period": "19 Oct 2026",
+      "release_date": "2026-10-19",
       "change_vs_previous": {
         "basis": "previous close",
-        "change": 148.8,
-        "change_pct": 0.65,
+        "change": -257.15,
+        "change_pct": -1.11,
         "change_unit": "points"
       },
       "history": [
@@ -653,15 +657,20 @@
         {
           "period": "16 Oct 2026",
           "value": 23146.15
+        },
+        {
+          "period": "19 Oct 2026",
+          "value": 22889,
+          "note": "rounded close"
         }
       ],
       "source": {
-        "publisher": "PTI via ThePrint",
-        "url": "https://theprint.in/economy/rupee-rallies-for-6th-straight-session-ends-10-paise-higher-at-94-89-against-us-dollar/3074139/",
-        "date": "2026-10-16"
+        "publisher": "Business Standard (market close)",
+        "url": "https://www.business-standard.com/markets/news/stock-market-live-october-19-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bond-yields-q2-results-hind-zinc-share-price-today-ipo-today-126101900052_1.html",
+        "date": "2026-10-19"
       },
       "verified_primary": false,
-      "note": "27 May 2026 close from PTI via Deccan Herald. 16 Oct close from PTI, matching Liquide. Week 9-16 Oct: +625.70 points (2.78%).",
+      "note": "27 May 2026 close from PTI via Deccan Herald. 16 Oct close from PTI, matching Liquide. Week 9-16 Oct: +625.70 points (2.78%). 19 Oct close reported as 22,889 (rounded); change is derived from Friday's 23,146.15.",
       "history_sources": [
         {
           "period": "27 May 2026",
