@@ -1,15 +1,15 @@
 {
  "lead": {
-  "id": "houthi-missiles-kill-53-recruits-shabwa-camp",
+  "id": "bhagwat-vijayadashami-svabodh-dhankhar-attends-nagpur",
   "chart": 1,
   "overlay": {
    "kicker": {
-    "en": "Shabwa, southern Yemen, Monday",
-    "hi": "शबवा, दक्षिणी यमन, सोमवार"
+    "en": "Reshimbagh, Nagpur, Vijayadashami",
+    "hi": "रेशिमबाग, नागपुर, विजयादशमी"
    },
    "value": {
-    "en": "53 recruits killed",
-    "hi": "53 रंगरूट मारे गए"
+    "en": "100 years of the Sangh, one warning",
+    "hi": "संघ के 100 साल, एक चेतावनी"
    },
    "text": {
     "en": "",
@@ -18,154 +18,154 @@
   },
   "dataBox": [
    {
-    "icon": "warning",
+    "icon": "flag-banner",
     "color": "#cc0000",
     "value": {
-     "en": "53",
-     "hi": "53"
+     "en": "100",
+     "hi": "100"
     },
     "label": {
-     "en": "recruits killed at the training camp",
-     "hi": "प्रशिक्षण शिविर में मारे गए रंगरूट"
+     "en": "years since the RSS was founded",
+     "hi": "साल, आरएसएस की स्थापना को"
     }
    },
    {
-    "icon": "users-three",
+    "icon": "quotes",
     "color": "#8f0000",
     "value": {
-     "en": "~200",
-     "hi": "करीब 200"
+     "en": "\"Never\"",
+     "hi": "\"कभी नहीं\""
     },
     "label": {
-     "en": "wounded, local authorities say",
-     "hi": "घायल, स्थानीय प्रशासन के मुताबिक"
+     "en": "Bhagwat on regime change in India",
+     "hi": "भारत में सत्ता परिवर्तन पर भागवत"
     }
    },
    {
-    "icon": "rocket",
+    "icon": "user-circle",
     "color": "#0d0d0d",
     "value": {
-     "en": "3",
-     "hi": "3"
+     "en": "Dhankhar",
+     "hi": "धनखड़"
     },
     "label": {
-     "en": "ballistic missiles fired at the camp",
-     "hi": "शिविर पर दागी गईं बैलिस्टिक मिसाइलें"
+     "en": "former V-P among the invited guests",
+     "hi": "पूर्व उपराष्ट्रपति आमंत्रित अतिथियों में"
     }
    },
    {
-    "icon": "gas-pump",
+    "icon": "megaphone",
     "color": "#6e6e6e",
     "value": {
-     "en": "$109.55",
-     "hi": "109.55 डॉलर"
+     "en": "Modi",
+     "hi": "मोदी"
     },
     "label": {
-     "en": "Brent settles as Gulf risk climbs",
-     "hi": "खाड़ी में जोखिम के बीच ब्रेंट का भाव"
+     "en": "called it a very motivating address",
+     "hi": "ने इसे बेहद प्रेरक भाषण बताया"
     }
    }
   ],
   "relatedBelow": [
-   "brent-109-houthi-yanbu-claims-hormuz-flows-russia-waiver",
-   "pakistan-munir-saudi-envoy-makkah-pact-collective-response"
+   "dipke-rejects-nepal-bangladesh-parallels-satyagraha",
+   "kharge-to-explain-sir-harm-to-modi-tomorrow-kalaburagi"
   ],
   "relatedBeside": [
-   "russia-hits-28-energy-sites-trump-says-fine",
-   "rijiju-writes-kharge-delimitation-bill-consultations",
-   "tiger-shroff-firing-anil-pandit-key-suspect-delhi-special-cell",
-   "bajaj-finance-q2-results-october-19",
-   "chinmay-sutar-400-mizoram-nagaland-ranji-record"
+   "jaishankar-rubio-mumbai-talks",
+   "rajnath-sco-dushanbe-no-double-standards-terrorism",
+   "jio-platforms-anchor-book-8110-crore-30-times-demand",
+   "witkoff-zelenskyy-oslo-before-putin-moscow",
+   "deepthi-jeevanji-400m-gold-games-record-asian-para-games"
   ]
  },
  "briefing": {
   "items": [
    {
-    "link": "houthi-missiles-kill-53-recruits-shabwa-camp",
+    "link": "bhagwat-vijayadashami-svabodh-dhankhar-attends-nagpur",
     "lead": {
-     "en": "Yemen:",
-     "hi": "यमन:"
+     "en": "Nagpur:",
+     "hi": "नागपुर:"
     },
     "text": {
-     "en": "Houthi missiles kill 53 recruits at a Shabwa camp; Saudi Arabia calls off its investment conference.",
-     "hi": "शबवा के शिविर पर हूती मिसाइलों से 53 रंगरूटों की मौत; सऊदी अरब ने निवेश सम्मेलन रद्द किया।"
+     "en": "Bhagwat says protests must stay within the Constitution.",
+     "hi": "भागवत बोले, विरोध संविधान के दायरे में रहे।"
     }
    },
    {
-    "link": "rijiju-writes-kharge-delimitation-bill-consultations",
+    "link": "jaishankar-rubio-mumbai-talks",
     "lead": {
-     "en": "Delimitation:",
-     "hi": "परिसीमन:"
+     "en": "Mumbai:",
+     "hi": "मुंबई:"
     },
     "text": {
-     "en": "Rijiju tells Kharge the Congress never gave dates for talks.",
-     "hi": "रिजिजू ने खड़गे से कहा, कांग्रेस ने बातचीत की तारीखें ही नहीं दीं।"
+     "en": "Rubio arrives for Jaishankar talks; trade deal 'very close'.",
+     "hi": "जयशंकर से वार्ता के लिए रुबियो पहुंचे; व्यापार समझौता \"बहुत क़रीब\"।"
     }
    },
    {
-    "link": "india-new-zealand-fta-explained-what-changes",
+    "link": "rajnath-sco-dushanbe-no-double-standards-terrorism",
+    "lead": {
+     "en": "SCO:",
+     "hi": "एससीओ:"
+    },
+    "text": {
+     "en": "Rajnath tells Dushanbe meeting: no double standards on terror.",
+     "hi": "दुशांबे में राजनाथ: आतंकवाद पर दोहरा मापदंड नहीं।"
+    }
+   },
+   {
+    "link": "india-new-zealand-fta-enters-into-force-vijayadashami",
     "lead": {
      "en": "Trade:",
      "hi": "व्यापार:"
     },
     "text": {
-     "en": "The India-New Zealand trade deal takes effect today; dairy stays out.",
-     "hi": "भारत-न्यूज़ीलैंड व्यापार समझौता आज से लागू; डेयरी बाहर।"
+     "en": "New Zealand pact in force; Indian goods enter duty free.",
+     "hi": "न्यूज़ीलैंड समझौता लागू; भारतीय सामान शुल्क-मुक्त।"
     }
    },
    {
-    "link": "markets-shut-dussehra-results-data-calendar-october-20",
+    "link": "jio-platforms-anchor-book-8110-crore-30-times-demand",
     "lead": {
      "en": "Markets:",
      "hi": "बाज़ार:"
     },
     "text": {
-     "en": "Stock markets shut for Dussehra; Monday night's results trade on Wednesday.",
-     "hi": "दशहरे पर शेयर बाज़ार बंद; सोमवार रात के नतीजों का असर बुधवार को।"
+     "en": "Jio Platforms raises ₹8,110 crore from anchors; bourses shut for Dussehra.",
+     "hi": "जियो प्लेटफ़ॉर्म्स ने एंकर निवेशकों से ₹8,110 करोड़ जुटाए; दशहरे पर बाज़ार बंद।"
     }
    },
    {
-    "link": "tiger-shroff-firing-anil-pandit-key-suspect-delhi-special-cell",
+    "link": "calcutta-hc-retired-judge-inquiry-chorbagan-stampede",
     "lead": {
-     "en": "Delhi:",
-     "hi": "दिल्ली:"
+     "en": "Kolkata:",
+     "hi": "कोलकाता:"
     },
     "text": {
-     "en": "US-based gangster Anil Pandit named key suspect in the Tiger Shroff firing.",
-     "hi": "टाइगर श्रॉफ़ फ़ायरिंग में अमेरिका में बैठा गैंगस्टर अनिल पंडित मुख्य संदिग्ध।"
+     "en": "High Court orders retired-judge inquiry into Chorbagan crush.",
+     "hi": "हाईकोर्ट ने चोरबागान भगदड़ की जांच सेवानिवृत्त जज को सौंपी।"
     }
    },
    {
-    "link": "russia-hits-28-energy-sites-trump-says-fine",
+    "link": "deepthi-jeevanji-400m-gold-games-record-asian-para-games",
+    "lead": {
+     "en": "Para Games:",
+     "hi": "पैरा खेल:"
+    },
+    "text": {
+     "en": "Deepthi Jeevanji wins 400m gold in a Games record.",
+     "hi": "दीप्ति जीवनजी ने खेलों के रिकॉर्ड के साथ 400 मीटर स्वर्ण जीता।"
+    }
+   },
+   {
+    "link": "witkoff-zelenskyy-oslo-before-putin-moscow",
     "lead": {
      "en": "Ukraine:",
      "hi": "यूक्रेन:"
     },
     "text": {
-     "en": "Russia hits 28 energy sites; Trump says Russia has been 'fine'.",
-     "hi": "रूस ने 28 ऊर्जा ठिकानों पर हमला किया; ट्रंप बोले, रूस का रवैया \"ठीक\" रहा।"
-    }
-   },
-   {
-    "link": "mmx-launch-h3-phobos-outcome",
-    "lead": {
-     "en": "Space:",
-     "hi": "अंतरिक्ष:"
-    },
-    "text": {
-     "en": "Japan's MMX probe lifts off to bring back pieces of Phobos.",
-     "hi": "जापान का एमएमएक्स यान फ़ोबोस के नमूने लाने के लिए रवाना।"
-    }
-   },
-   {
-    "link": "chinmay-sutar-400-mizoram-nagaland-ranji-record",
-    "lead": {
-     "en": "Cricket:",
-     "hi": "क्रिकेट:"
-    },
-    "text": {
-     "en": "Mizoram's Chinmay Sutar makes 400 not out, second-best in Ranji history.",
-     "hi": "मिज़ोरम के चिन्मय सुतार के नाबाद 400 रन, रणजी इतिहास का दूसरा सबसे बड़ा स्कोर।"
+     "en": "Witkoff meets Zelenskyy in Oslo before a Putin trip.",
+     "hi": "पुतिन से मिलने से पहले विटकॉफ़ की ओस्लो में ज़ेलेंस्की से मुलाक़ात।"
     }
    }
   ]
@@ -233,27 +233,27 @@
  },
  "topStories": {
   "big": {
-   "id": "rijiju-writes-kharge-delimitation-bill-consultations",
+   "id": "jaishankar-rubio-mumbai-talks",
    "also": [
-    "rebel-tmc-mps-disqualification-reply-deadline-today",
-    "indian-origin-scholars-spare-india-from-anarchy-statement"
+    "jaishankar-abdullah-bin-zayed-mumbai-talks-uae",
+    "india-new-zealand-fta-enters-into-force-vijayadashami"
    ]
   },
   "list": [
-   "cjp-das-ranka-custody-extended-till-october-21",
-   "dotasra-dharna-jaipur-commissionerate-ritu-barala-fir",
-   "supreme-court-pinarayi-vijayan-cmrl-plea-wednesday",
-   "iff-asks-meity-withdraw-meta-protest-advisory",
-   "jaishankar-rubio-talks-mumbai-october-20-mea"
+   "amit-shah-gurdaspur-bikramjit-family-aman-arora-questions",
+   "calcutta-hc-retired-judge-inquiry-chorbagan-stampede",
+   "saudi-postpones-fii-davos-in-desert-houthi-attacks",
+   "hegseth-netanyahu-desert-air-base-qatar-iran-us-talks",
+   "openai-seeks-30-billion-round-before-anthropic-ipo"
   ]
  },
  "startHere": [
+  "small-modular-reactors-explained-amazon-x-energy-india",
+  "mmx-phobos-sample-return-explained",
+  "alberta-independence-referendum-explained",
   "india-new-zealand-fta-explained-what-changes",
   "who-owns-trinamool-election-commission-symbol-dispute-explained",
-  "pakistan-governors-rule-khyber-pakhtunkhwa-explained",
-  "childrens-right-to-internet-supreme-court-ruling-explained",
-  "how-un-secretary-general-is-chosen-straw-polls-veto-explained",
-  "article-371k-ladakh-explained-sixth-schedule"
+  "pakistan-governors-rule-khyber-pakhtunkhwa-explained"
  ],
  "trackers": [
   {
@@ -406,11 +406,11 @@
   }
  ],
  "opinion": [
+  "kashmiris-travelling-home-must-be-protected",
+  "driest-monsoon-in-the-east-needs-drought-relief-now",
   "empty-forest-posts-leave-tigers-unguarded",
   "andhra-local-polls-must-start-with-free-nominations",
-  "muzaffarpur-mob-killing-and-arson-justice-is-not-a-crowd",
-  "blocking-orders-like-bitchat-must-not-stay-secret",
-  "up-village-polls-cannot-wait-for-an-appeal"
+  "muzaffarpur-mob-killing-and-arson-justice-is-not-a-crowd"
  ],
  "sections": [
   {
@@ -420,15 +420,15 @@
     "article": "bypoll-results-ruling-parties-win-all-six-seats"
    },
    "list": [
-    "cjp-das-ranka-custody-extended-till-october-21",
-    "rebel-tmc-mps-disqualification-reply-deadline-today",
-    "supreme-court-pinarayi-vijayan-cmrl-plea-wednesday"
+    "dipke-rejects-nepal-bangladesh-parallels-satyagraha",
+    "jhota-murder-case-cbi-transfer-bhagwant-mann",
+    "supreme-court-vacation-bench-ysrcp-nominations-plea-wednesday"
    ],
    "lead": "rijiju-writes-kharge-delimitation-bill-consultations"
   },
   {
    "section": "economy",
-   "lead": "global-cues-dussehra-holiday-wall-street-oil-october-20",
+   "lead": "jio-platforms-anchor-book-8110-crore-30-times-demand",
    "module": {
     "type": "markets",
     "indicators": [
@@ -439,29 +439,29 @@
     ]
    },
    "list": [
+    "gold-slips-dussehra-147170-mcx-shut",
+    "india-new-zealand-fta-enters-into-force-vijayadashami",
     "bajaj-finance-q2-results-october-19",
-    "hindustan-zinc-q2-profit-more-than-doubles-6412-crore",
-    "tonbo-imaging-ipo-subscribed-135-times-final-day",
-    "rupee-flat-94-92-importer-dollar-demand-october-19"
+    "hindustan-zinc-q2-profit-more-than-doubles-6412-crore"
    ]
   },
   {
    "section": "states",
-   "lead": "tiger-shroff-firing-anil-pandit-key-suspect-delhi-special-cell",
+   "lead": "calcutta-hc-retired-judge-inquiry-chorbagan-stampede",
    "list": [
-    "delhi-aqi-139-monday-coldest-october-night",
-    "dotasra-dharna-jaipur-commissionerate-ritu-barala-fir",
-    "gwalior-truck-toll-15-mohan-yadav-scindia-meet-families"
+    "delhi-aqi-161-dussehra-morning-moderate",
+    "assam-evictions-638-hectares-golaghat-hojai-nagaon",
+    "tamil-nadu-vetri-150-extra-25-days-rural-jobs"
    ]
   },
   {
    "section": "policy",
-   "lead": "jaishankar-rubio-talks-mumbai-october-20-mea",
+   "lead": "rajnath-sco-dushanbe-no-double-standards-terrorism",
    "list": [
-    "india-nz-fta-duty-concessions-take-effect-october-20",
-    "iff-asks-meity-withdraw-meta-protest-advisory",
-    "telangana-el-nino-cabinet-subcommittee-bhatti-vikramarka",
-    "idbi-bank-employees-hunger-strike-fairfax-stake-sale"
+    "india-un-first-committee-no-first-use-treaty-offer",
+    "tusk-india-visit-october-21-modi-bengaluru",
+    "jaishankar-abdullah-bin-zayed-mumbai-talks-uae",
+    "india-new-zealand-fta-enters-into-force-vijayadashami"
    ]
   },
   {
@@ -479,56 +479,44 @@
  "desks": [
   {
    "section": "world",
-   "lead": "russia-hits-28-energy-sites-trump-says-fine",
+   "lead": "witkoff-zelenskyy-oslo-before-putin-moscow",
    "list": [
-    "lavrov-tehran-backs-iran-hormuz-pre-war-terms",
-    "shakahola-mackenzie-28-others-guilty-191-murders",
-    "supreme-court-montgomery-magnet-schools-home-distilling"
+    "storm-adam-spain-floods-five-dead",
+    "saudi-postpones-fii-davos-in-desert-houthi-attacks",
+    "china-tracks-us-warship-charleston-sabina-shoal"
    ]
   },
   {
    "section": "science",
-   "lead": "mmx-launch-h3-phobos-outcome",
+   "lead": "indiaai-compute-subsidy-model-builders-researchers-10-crore",
    "list": [
-    "opencode-console-breach-api-keys-unauthorised-charges",
-    "amazon-x-energy-12-small-reactors-indiana-coal-site",
-    "tenstorrent-raises-1-5-billion-6-2-billion-valuation"
+    "openai-seeks-30-billion-round-before-anthropic-ipo",
+    "small-modular-reactors-explained-amazon-x-energy-india",
+    "mmx-phobos-sample-return-explained"
    ]
   },
   {
    "section": "sports",
-   "lead": "chinmay-sutar-400-mizoram-nagaland-ranji-record",
+   "lead": "deepthi-jeevanji-400m-gold-games-record-asian-para-games",
    "list": [
-    "badoni-217-sarfaraz-patidar-tons-ranji-day-two",
-    "india-women-zimbabwe-third-t20i-raipur-clean-sweep-preview",
-    "boland-four-south-africa-97-5-gqeberha-day-two"
+    "bavuma-jansen-counter-boland-gqeberha-day-three",
+    "tamil-nadu-thrash-uttarakhand-ranji-bengal-services-chase",
+    "manish-narwal-silver-air-pistol-ashok-powerlifting"
    ]
   }
  ],
  "weekAhead": [
   {
-   "icon": "handshake",
+   "icon": "soccer-ball",
    "date": {
     "en": "Tue 20 Oct",
     "hi": "मंगल, 20 अक्टूबर"
    },
    "text": {
-    "en": "Jaishankar and Rubio meet in Mumbai; India-NZ trade deal takes effect.",
-    "hi": "मुंबई में जयशंकर-रुबियो वार्ता; भारत-न्यूज़ीलैंड व्यापार समझौता लागू।"
+    "en": "PSG host Barcelona in the Champions League tonight (12:30 am IST).",
+    "hi": "चैंपियंस लीग में पीएसजी बनाम बार्सिलोना, रात 12:30 बजे।"
    },
-   "link": "jaishankar-rubio-talks-mumbai-october-20-mea"
-  },
-  {
-   "icon": "cricket",
-   "date": {
-    "en": "Tue 20 Oct",
-    "hi": "मंगल, 20 अक्टूबर"
-   },
-   "text": {
-    "en": "India women chase a 3-0 sweep of Zimbabwe in Raipur, 7 pm.",
-    "hi": "रायपुर में भारतीय महिला टीम की ज़िम्बाब्वे पर 3-0 की कोशिश, शाम 7 बजे।"
-   },
-   "link": "india-women-zimbabwe-third-t20i-raipur-clean-sweep-preview"
+   "link": "psg-barcelona-champions-league-matchday-three-preview"
   },
   {
    "icon": "scales",
@@ -537,10 +525,34 @@
     "hi": "बुध, 21 अक्टूबर"
    },
    "text": {
-    "en": "Supreme Court due to hear Pinarayi Vijayan's CMRL plea.",
-    "hi": "सुप्रीम कोर्ट में पिनराई विजयन की सीएमआरएल याचिका पर सुनवाई संभावित।"
+    "en": "Supreme Court vacation bench hears YSRCP and Vijayan pleas.",
+    "hi": "सुप्रीम कोर्ट की अवकाश पीठ में वाईएसआरसीपी और विजयन की याचिकाएं।"
    },
-   "link": "supreme-court-pinarayi-vijayan-cmrl-plea-wednesday"
+   "link": "supreme-court-vacation-bench-ysrcp-nominations-plea-wednesday"
+  },
+  {
+   "icon": "currency-inr",
+   "date": {
+    "en": "Wed 21 Oct",
+    "hi": "बुध, 21 अक्टूबर"
+   },
+   "text": {
+    "en": "Jio Platforms IPO opens; runs to 23 October.",
+    "hi": "जियो प्लेटफ़ॉर्म्स का आईपीओ खुलेगा; 23 अक्टूबर तक।"
+   },
+   "link": "jio-platforms-anchor-book-8110-crore-30-times-demand"
+  },
+  {
+   "icon": "handshake",
+   "date": {
+    "en": "Thu 22 Oct",
+    "hi": "गुरु, 22 अक्टूबर"
+   },
+   "text": {
+    "en": "Polish PM Donald Tusk holds talks with Modi.",
+    "hi": "पोलैंड के प्रधानमंत्री डोनाल्ड टस्क की मोदी से वार्ता।"
+   },
+   "link": "tusk-india-visit-october-21-modi-bengaluru"
   },
   {
    "icon": "megaphone",
@@ -553,18 +565,6 @@
     "hi": "केंद्र के साथ लद्दाख वार्ता फिर शुरू।"
    },
    "link": "article-371k-ladakh-explained-sixth-schedule"
-  },
-  {
-   "icon": "users-three",
-   "date": {
-    "en": "Fri 23 Oct",
-    "hi": "शुक्र, 23 अक्टूबर"
-   },
-   "text": {
-    "en": "Karnataka legislative council polls.",
-    "hi": "कर्नाटक विधान परिषद चुनाव।"
-   },
-   "link": "vijayendra-claims-congress-bid-to-oust-cm-shivakumar"
   }
  ]
 }
