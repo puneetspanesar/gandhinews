@@ -2,7 +2,7 @@
   "id": "economy-dashboard",
   "title": "India economy dashboard",
   "as_of": "2026-10-11",
-  "updated": "2026-10-19T15:55:00+05:30",
+  "updated": "2026-10-20T05:45:00+05:30",
   "notes": "Every value is taken from the source named in its row. verified_primary is true only when the figure was read in a primary release (RBI, MoSPI, PIB, Ministry of Finance). Values the research desk marked as derived are not included.",
   "indicators": [
     {
@@ -434,16 +434,16 @@
     {
       "id": "usd-inr",
       "name": "Rupee per US dollar (closing)",
-      "latest_value": 94.89,
+      "latest_value": 94.92,
       "unit": "₹ per $",
-      "period": "16 Oct 2026",
-      "release_date": "2026-10-16",
+      "period": "19 Oct 2026",
+      "release_date": "2026-10-19",
       "change_vs_previous": {
         "basis": "previous close",
-        "previous_value": 94.99,
-        "previous_period": "15 Oct 2026",
-        "change": -0.1,
-        "change_unit": "₹ (rupee gained 10 paise)"
+        "previous_value": 94.89,
+        "previous_period": "16 Oct 2026",
+        "change": 0.03,
+        "change_unit": "₹ (rupee fell 3 paise)"
       },
       "history": [
         {
@@ -484,12 +484,17 @@
         {
           "period": "16 Oct 2026",
           "value": 94.89
+        },
+        {
+          "period": "19 Oct 2026",
+          "value": 94.92,
+          "note": "provisional close"
         }
       ],
       "source": {
-        "publisher": "PTI via ThePrint",
-        "url": "https://theprint.in/economy/rupee-rallies-for-6th-straight-session-ends-10-paise-higher-at-94-89-against-us-dollar/3074139/",
-        "date": "2026-10-16"
+        "publisher": "PTI via DT Next",
+        "url": "https://www.dtnext.in/news/business/rupee-falls-3-paise-to-close-at-9492-against-us-dollar",
+        "date": "2026-10-19"
       },
       "history_sources": [
         {
@@ -506,7 +511,7 @@
         }
       ],
       "verified_primary": false,
-      "note": "16 Oct close 94.89 is PTI's final figure (provisional 94.92). PTI now gives 15 Oct close as 94.99 (first reported as 95.05). 14 Oct value (95.16) is Business Standard's. National Herald reported the 9 Oct close as 96.71. PTI describes 96.88 on 8 Oct as the record closing low. Six straight sessions of gains."
+      "note": "19 Oct close 94.92 is PTI's provisional figure (down 3 paise; Reuters gave 94.9250, nearly unchanged). Six-session winning run ended. Stock exchanges shut on 20 Oct for Dussehra. 16 Oct close 94.89 is PTI's final figure (provisional 94.92). PTI now gives 15 Oct close as 94.99 (first reported as 95.05). 14 Oct value (95.16) is Business Standard's. National Herald reported the 9 Oct close as 96.71. PTI describes 96.88 on 8 Oct as the record closing low. Six straight sessions of gains."
     },
     {
       "id": "forex-reserves",
