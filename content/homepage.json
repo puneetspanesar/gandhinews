@@ -1,15 +1,15 @@
 {
  "lead": {
-  "id": "sensex-nifty-close-october-19-private-banks-axis",
+  "id": "houthi-missiles-kill-53-recruits-shabwa-camp",
   "chart": 1,
   "overlay": {
    "kicker": {
-    "en": "Dalal Street, Monday close",
-    "hi": "दलाल स्ट्रीट, सोमवार का बंद"
+    "en": "Shabwa, southern Yemen, Monday",
+    "hi": "शबवा, दक्षिणी यमन, सोमवार"
    },
    "value": {
-    "en": "Sensex down 876 points",
-    "hi": "सेंसेक्स 876 अंक टूटा"
+    "en": "53 recruits killed",
+    "hi": "53 रंगरूट मारे गए"
    },
    "text": {
     "en": "",
@@ -18,154 +18,154 @@
   },
   "dataBox": [
    {
-    "icon": "trend-down",
+    "icon": "warning",
     "color": "#cc0000",
     "value": {
-     "en": "73,852.90",
-     "hi": "73,852.90"
+     "en": "53",
+     "hi": "53"
     },
     "label": {
-     "en": "Sensex close, down 1.17%",
-     "hi": "सेंसेक्स का बंद, 1.17% गिरावट"
+     "en": "recruits killed at the training camp",
+     "hi": "प्रशिक्षण शिविर में मारे गए रंगरूट"
     }
    },
    {
-    "icon": "bank",
+    "icon": "users-three",
     "color": "#8f0000",
     "value": {
-     "en": "Over half",
-     "hi": "आधे से ज़्यादा"
+     "en": "~200",
+     "hi": "करीब 200"
     },
     "label": {
-     "en": "of the fall came from HDFC, ICICI and Axis Bank",
-     "hi": "गिरावट एचडीएफसी, आईसीआईसीआई और एक्सिस बैंक से"
+     "en": "wounded, local authorities say",
+     "hi": "घायल, स्थानीय प्रशासन के मुताबिक"
     }
    },
    {
-    "icon": "currency-inr",
+    "icon": "rocket",
     "color": "#0d0d0d",
     "value": {
-     "en": "₹52,100 cr",
-     "hi": "₹52,100 करोड़"
+     "en": "3",
+     "hi": "3"
     },
     "label": {
-     "en": "sold by foreign investors in October",
-     "hi": "विदेशी निवेशकों की अक्टूबर में बिकवाली"
+     "en": "ballistic missiles fired at the camp",
+     "hi": "शिविर पर दागी गईं बैलिस्टिक मिसाइलें"
     }
    },
    {
-    "icon": "calendar-blank",
+    "icon": "gas-pump",
     "color": "#6e6e6e",
     "value": {
-     "en": "Tue",
-     "hi": "मंगलवार"
+     "en": "$109.55",
+     "hi": "109.55 डॉलर"
     },
     "label": {
-     "en": "markets shut for Dussehra",
-     "hi": "दशहरे पर बाज़ार बंद"
+     "en": "Brent settles as Gulf risk climbs",
+     "hi": "खाड़ी में जोखिम के बीच ब्रेंट का भाव"
     }
    }
   ],
   "relatedBelow": [
-   "union-bank-of-india-q2-profit-rises-30-per-cent",
-   "psu-bank-shares-rally-pnb-canara-q2"
+   "brent-109-houthi-yanbu-claims-hormuz-flows-russia-waiver",
+   "pakistan-munir-saudi-envoy-makkah-pact-collective-response"
   ],
   "relatedBeside": [
-   "kashmir-buses-attacked-haryana-punjab-omar-abdullah",
-   "tiger-shroff-firing-three-suspects-held-kota-train",
-   "mona-agarwal-gold-avani-lekhara-silver-asian-para-games",
-   "eisenkot-lapid-hollow-netanyahu-security-doctrine-araghchi",
-   "trump-defends-russia-sanctions-waiver-attacks-zelenskyy"
+   "russia-hits-28-energy-sites-trump-says-fine",
+   "rijiju-writes-kharge-delimitation-bill-consultations",
+   "tiger-shroff-firing-anil-pandit-key-suspect-delhi-special-cell",
+   "bajaj-finance-q2-results-october-19",
+   "chinmay-sutar-400-mizoram-nagaland-ranji-record"
   ]
  },
  "briefing": {
   "items": [
    {
-    "link": "sensex-nifty-close-october-19-private-banks-axis",
+    "link": "houthi-missiles-kill-53-recruits-shabwa-camp",
+    "lead": {
+     "en": "Yemen:",
+     "hi": "यमन:"
+    },
+    "text": {
+     "en": "Houthi missiles kill 53 recruits at a Shabwa camp; Saudi Arabia calls off its investment conference.",
+     "hi": "शबवा के शिविर पर हूती मिसाइलों से 53 रंगरूटों की मौत; सऊदी अरब ने निवेश सम्मेलन रद्द किया।"
+    }
+   },
+   {
+    "link": "rijiju-writes-kharge-delimitation-bill-consultations",
+    "lead": {
+     "en": "Delimitation:",
+     "hi": "परिसीमन:"
+    },
+    "text": {
+     "en": "Rijiju tells Kharge the Congress never gave dates for talks.",
+     "hi": "रिजिजू ने खड़गे से कहा, कांग्रेस ने बातचीत की तारीखें ही नहीं दीं।"
+    }
+   },
+   {
+    "link": "india-new-zealand-fta-explained-what-changes",
+    "lead": {
+     "en": "Trade:",
+     "hi": "व्यापार:"
+    },
+    "text": {
+     "en": "The India-New Zealand trade deal takes effect today; dairy stays out.",
+     "hi": "भारत-न्यूज़ीलैंड व्यापार समझौता आज से लागू; डेयरी बाहर।"
+    }
+   },
+   {
+    "link": "markets-shut-dussehra-results-data-calendar-october-20",
     "lead": {
      "en": "Markets:",
      "hi": "बाज़ार:"
     },
     "text": {
-     "en": "Sensex sheds 876 points as private banks slide before the Dussehra break.",
-     "hi": "दशहरे की छुट्टी से पहले निजी बैंकों की गिरावट से सेंसेक्स 876 अंक टूटा।"
+     "en": "Stock markets shut for Dussehra; Monday night's results trade on Wednesday.",
+     "hi": "दशहरे पर शेयर बाज़ार बंद; सोमवार रात के नतीजों का असर बुधवार को।"
     }
    },
    {
-    "link": "kashmir-buses-attacked-haryana-punjab-omar-abdullah",
+    "link": "tiger-shroff-firing-anil-pandit-key-suspect-delhi-special-cell",
     "lead": {
-     "en": "Punjab:",
-     "hi": "पंजाब:"
+     "en": "Delhi:",
+     "hi": "दिल्ली:"
     },
     "text": {
-     "en": "Second Srinagar-bound bus stoned in two nights, near Ludhiana.",
-     "hi": "दो रातों में श्रीनगर जा रही दूसरी बस पर पथराव, इस बार लुधियाना के पास।"
+     "en": "US-based gangster Anil Pandit named key suspect in the Tiger Shroff firing.",
+     "hi": "टाइगर श्रॉफ़ फ़ायरिंग में अमेरिका में बैठा गैंगस्टर अनिल पंडित मुख्य संदिग्ध।"
     }
    },
    {
-    "link": "tiger-shroff-firing-three-suspects-held-kota-train",
+    "link": "russia-hits-28-energy-sites-trump-says-fine",
     "lead": {
-     "en": "Mumbai:",
-     "hi": "मुंबई:"
+     "en": "Ukraine:",
+     "hi": "यूक्रेन:"
     },
     "text": {
-     "en": "Three suspects in the Tiger Shroff shooting held from a train at Kota.",
-     "hi": "टाइगर श्रॉफ़ फ़ायरिंग के तीन संदिग्ध कोटा में ट्रेन से पकड़े गए।"
+     "en": "Russia hits 28 energy sites; Trump says Russia has been 'fine'.",
+     "hi": "रूस ने 28 ऊर्जा ठिकानों पर हमला किया; ट्रंप बोले, रूस का रवैया \"ठीक\" रहा।"
     }
    },
    {
-    "link": "thoubal-khangabok-clashes-one-killed-curfew",
+    "link": "mmx-launch-h3-phobos-outcome",
     "lead": {
-     "en": "Manipur:",
-     "hi": "मणिपुर:"
+     "en": "Space:",
+     "hi": "अंतरिक्ष:"
     },
     "text": {
-     "en": "One shot dead in Thoubal clashes; two villages under curfew.",
-     "hi": "थौबल में झड़प में एक की गोली लगने से मौत; दो गांवों में कर्फ़्यू।"
+     "en": "Japan's MMX probe lifts off to bring back pieces of Phobos.",
+     "hi": "जापान का एमएमएक्स यान फ़ोबोस के नमूने लाने के लिए रवाना।"
     }
    },
    {
-    "link": "mona-agarwal-gold-avani-lekhara-silver-asian-para-games",
+    "link": "chinmay-sutar-400-mizoram-nagaland-ranji-record",
     "lead": {
-     "en": "Para Games:",
-     "hi": "पैरा खेल:"
+     "en": "Cricket:",
+     "hi": "क्रिकेट:"
     },
     "text": {
-     "en": "Mona Agarwal wins gold, Avani Lekhara silver in India's first medals.",
-     "hi": "मोना अग्रवाल को स्वर्ण, अवनि लेखरा को रजत; भारत का पदक खाता खुला।"
-    }
-   },
-   {
-    "link": "meity-advisory-meta-recommendations-public-events",
-    "lead": {
-     "en": "Tech:",
-     "hi": "तकनीक:"
-    },
-    "text": {
-     "en": "IT ministry tells Meta its feeds must not push limited narratives.",
-     "hi": "आईटी मंत्रालय ने मेटा से कहा, फ़ीड सीमित नैरेटिव न बढ़ाए।"
-    }
-   },
-   {
-    "link": "eisenkot-lapid-hollow-netanyahu-security-doctrine-araghchi",
-    "lead": {
-     "en": "Israel:",
-     "hi": "इज़राइल:"
-    },
-    "text": {
-     "en": "Eisenkot and Lapid call Netanyahu's security doctrine 'hollow'.",
-     "hi": "आइज़नकोट और लपिड ने नेतन्याहू की सुरक्षा नीति को \"खोखला\" कहा।"
-    }
-   },
-   {
-    "link": "china-q3-gdp-grows-4-5-per-cent-beats-forecast",
-    "lead": {
-     "en": "China:",
-     "hi": "चीन:"
-    },
-    "text": {
-     "en": "Economy grows 4.5% in the third quarter, a little above forecasts.",
-     "hi": "तीसरी तिमाही में अर्थव्यवस्था 4.5% बढ़ी, अनुमान से थोड़ा ज़्यादा।"
+     "en": "Mizoram's Chinmay Sutar makes 400 not out, second-best in Ranji history.",
+     "hi": "मिज़ोरम के चिन्मय सुतार के नाबाद 400 रन, रणजी इतिहास का दूसरा सबसे बड़ा स्कोर।"
     }
    }
   ]
@@ -233,27 +233,27 @@
  },
  "topStories": {
   "big": {
-   "id": "kashmir-buses-attacked-haryana-punjab-omar-abdullah",
+   "id": "rijiju-writes-kharge-delimitation-bill-consultations",
    "also": [
-    "tiger-shroff-firing-three-suspects-held-kota-train",
-    "thoubal-khangabok-clashes-one-killed-curfew"
+    "rebel-tmc-mps-disqualification-reply-deadline-today",
+    "indian-origin-scholars-spare-india-from-anarchy-statement"
    ]
   },
   "list": [
-   "dhal-singh-bisen-sworn-in-uttarakhand-governor",
-   "meity-advisory-meta-recommendations-public-events",
-   "idbi-bank-employees-hunger-strike-fairfax-stake-sale",
-   "rahul-gandhi-goa-rally-modi-shah-cec-vote-chori",
-   "diplomatic-week-uae-abdullah-bin-zayed-mumbai-rubio-rajnath-dushanbe"
+   "cjp-das-ranka-custody-extended-till-october-21",
+   "dotasra-dharna-jaipur-commissionerate-ritu-barala-fir",
+   "supreme-court-pinarayi-vijayan-cmrl-plea-wednesday",
+   "iff-asks-meity-withdraw-meta-protest-advisory",
+   "jaishankar-rubio-talks-mumbai-october-20-mea"
   ]
  },
  "startHere": [
+  "india-new-zealand-fta-explained-what-changes",
   "who-owns-trinamool-election-commission-symbol-dispute-explained",
   "pakistan-governors-rule-khyber-pakhtunkhwa-explained",
   "childrens-right-to-internet-supreme-court-ruling-explained",
   "how-un-secretary-general-is-chosen-straw-polls-veto-explained",
-  "article-371k-ladakh-explained-sixth-schedule",
-  "russia-sanctions-law-waiver-explained-india-oil"
+  "article-371k-ladakh-explained-sixth-schedule"
  ],
  "trackers": [
   {
@@ -406,11 +406,11 @@
   }
  ],
  "opinion": [
+  "empty-forest-posts-leave-tigers-unguarded",
   "andhra-local-polls-must-start-with-free-nominations",
   "muzaffarpur-mob-killing-and-arson-justice-is-not-a-crowd",
   "blocking-orders-like-bitchat-must-not-stay-secret",
-  "up-village-polls-cannot-wait-for-an-appeal",
-  "puja-crowds-need-a-safety-plan-not-a-probe"
+  "up-village-polls-cannot-wait-for-an-appeal"
  ],
  "sections": [
   {
@@ -420,15 +420,15 @@
     "article": "bypoll-results-ruling-parties-win-all-six-seats"
    },
    "list": [
-    "rahul-gandhi-goa-rally-modi-shah-cec-vote-chori",
-    "vijayendra-claims-congress-bid-to-oust-cm-shivakumar",
-    "chandy-oommen-pinarayi-vijayan-not-hounded-cmrl"
+    "cjp-das-ranka-custody-extended-till-october-21",
+    "rebel-tmc-mps-disqualification-reply-deadline-today",
+    "supreme-court-pinarayi-vijayan-cmrl-plea-wednesday"
    ],
-   "lead": "dhal-singh-bisen-sworn-in-uttarakhand-governor"
+   "lead": "rijiju-writes-kharge-delimitation-bill-consultations"
   },
   {
    "section": "economy",
-   "lead": "ultratech-cement-q2-profit-rises-21-per-cent",
+   "lead": "global-cues-dussehra-holiday-wall-street-oil-october-20",
    "module": {
     "type": "markets",
     "indicators": [
@@ -439,29 +439,29 @@
     ]
    },
    "list": [
-    "hfcl-q2-profit-jumps-448-per-cent-upper-circuit",
-    "zetwerk-ipo-fully-subscribed-final-day",
-    "q2-movers-tejas-cyient-dlm-oberoi-kross",
-    "union-bank-of-india-q2-profit-rises-30-per-cent"
+    "bajaj-finance-q2-results-october-19",
+    "hindustan-zinc-q2-profit-more-than-doubles-6412-crore",
+    "tonbo-imaging-ipo-subscribed-135-times-final-day",
+    "rupee-flat-94-92-importer-dollar-demand-october-19"
    ]
   },
   {
    "section": "states",
-   "lead": "tiger-shroff-firing-three-suspects-held-kota-train",
+   "lead": "tiger-shroff-firing-anil-pandit-key-suspect-delhi-special-cell",
    "list": [
-    "narmadapuram-patwari-suicide-two-sons-found-dead-pipariya",
-    "bandipur-tiger-reserve-63-per-cent-vacancies-ntca",
-    "kolkata-pandal-safety-audit-no-vip-entry-adhikari"
+    "delhi-aqi-139-monday-coldest-october-night",
+    "dotasra-dharna-jaipur-commissionerate-ritu-barala-fir",
+    "gwalior-truck-toll-15-mohan-yadav-scindia-meet-families"
    ]
   },
   {
    "section": "policy",
-   "lead": "idbi-bank-employees-hunger-strike-fairfax-stake-sale",
+   "lead": "jaishankar-rubio-talks-mumbai-october-20-mea",
    "list": [
-    "india-to-host-ciml-legal-metrology-meeting-new-delhi",
-    "diplomatic-week-uae-abdullah-bin-zayed-mumbai-rubio-rajnath-dushanbe",
     "india-nz-fta-duty-concessions-take-effect-october-20",
-    "flydubai-captain-smit-machchhar-recounts-incident"
+    "iff-asks-meity-withdraw-meta-protest-advisory",
+    "telangana-el-nino-cabinet-subcommittee-bhatti-vikramarka",
+    "idbi-bank-employees-hunger-strike-fairfax-stake-sale"
    ]
   },
   {
@@ -479,45 +479,33 @@
  "desks": [
   {
    "section": "world",
-   "lead": "trump-defends-russia-sanctions-waiver-attacks-zelenskyy",
+   "lead": "russia-hits-28-energy-sites-trump-says-fine",
    "list": [
-    "macron-admits-failures-rejects-minister-resignation",
-    "lula-flavio-bolsonaro-trade-insults-first-runoff-debate",
-    "pakistan-army-major-killed-gwadar-ied-kalat-operation"
+    "lavrov-tehran-backs-iran-hormuz-pre-war-terms",
+    "shakahola-mackenzie-28-others-guilty-191-murders",
+    "supreme-court-montgomery-magnet-schools-home-distilling"
    ]
   },
   {
    "section": "science",
-   "lead": "meta-says-claude-tool-triggered-no-kings-instagram-suspension",
+   "lead": "mmx-launch-h3-phobos-outcome",
    "list": [
-    "mmx-phobos-probe-h3-launch-tonight-tanegashima",
-    "adaniconnex-vizag-data-centres-air-cooling-water",
-    "moes-acsir-phd-earth-system-sciences-ten-institutes"
+    "opencode-console-breach-api-keys-unauthorised-charges",
+    "amazon-x-energy-12-small-reactors-indiana-coal-site",
+    "tenstorrent-raises-1-5-billion-6-2-billion-valuation"
    ]
   },
   {
    "section": "sports",
-   "lead": "sheetal-devi-toman-kumar-mixed-team-world-record-asian-para-games",
+   "lead": "chinmay-sutar-400-mizoram-nagaland-ranji-record",
    "list": [
-    "kokila-beats-world-champion-judo-final-asian-para-games",
-    "kapil-parmar-bronze-judo-asian-para-games",
-    "saptak-talwar-pgti-order-of-merit-dp-world-tour-card"
+    "badoni-217-sarfaraz-patidar-tons-ranji-day-two",
+    "india-women-zimbabwe-third-t20i-raipur-clean-sweep-preview",
+    "boland-four-south-africa-97-5-gqeberha-day-two"
    ]
   }
  ],
  "weekAhead": [
-  {
-   "icon": "rocket",
-   "date": {
-    "en": "Tue 20 Oct",
-    "hi": "मंगल, 20 अक्टूबर"
-   },
-   "text": {
-    "en": "Japan's MMX Phobos probe due to launch at 1:11 am IST.",
-    "hi": "जापान का एमएमएक्स फ़ोबोस यान रात 1:11 बजे (आईएसटी) लॉन्च होगा।"
-   },
-   "link": "mmx-phobos-probe-h3-launch-tonight-tanegashima"
-  },
   {
    "icon": "handshake",
    "date": {
@@ -525,22 +513,34 @@
     "hi": "मंगल, 20 अक्टूबर"
    },
    "text": {
-    "en": "Jaishankar and Rubio meet in Mumbai; India-NZ FTA duty cuts begin.",
-    "hi": "मुंबई में जयशंकर-रुबियो वार्ता; भारत-न्यूज़ीलैंड एफ़टीए की शुल्क छूट शुरू।"
+    "en": "Jaishankar and Rubio meet in Mumbai; India-NZ trade deal takes effect.",
+    "hi": "मुंबई में जयशंकर-रुबियो वार्ता; भारत-न्यूज़ीलैंड व्यापार समझौता लागू।"
    },
-   "link": "india-nz-fta-duty-concessions-take-effect-october-20"
+   "link": "jaishankar-rubio-talks-mumbai-october-20-mea"
   },
   {
-   "icon": "scales",
+   "icon": "cricket",
    "date": {
     "en": "Tue 20 Oct",
     "hi": "मंगल, 20 अक्टूबर"
    },
    "text": {
-    "en": "Peshawar High Court hears the Khyber Pakhtunkhwa governor's rule case.",
-    "hi": "पेशावर हाई कोर्ट में ख़ैबर पख़्तूनख़्वा गवर्नर शासन मामले की सुनवाई।"
+    "en": "India women chase a 3-0 sweep of Zimbabwe in Raipur, 7 pm.",
+    "hi": "रायपुर में भारतीय महिला टीम की ज़िम्बाब्वे पर 3-0 की कोशिश, शाम 7 बजे।"
    },
-   "link": "pakistan-governors-rule-khyber-pakhtunkhwa-explained"
+   "link": "india-women-zimbabwe-third-t20i-raipur-clean-sweep-preview"
+  },
+  {
+   "icon": "scales",
+   "date": {
+    "en": "Wed 21 Oct",
+    "hi": "बुध, 21 अक्टूबर"
+   },
+   "text": {
+    "en": "Supreme Court due to hear Pinarayi Vijayan's CMRL plea.",
+    "hi": "सुप्रीम कोर्ट में पिनराई विजयन की सीएमआरएल याचिका पर सुनवाई संभावित।"
+   },
+   "link": "supreme-court-pinarayi-vijayan-cmrl-plea-wednesday"
   },
   {
    "icon": "megaphone",
