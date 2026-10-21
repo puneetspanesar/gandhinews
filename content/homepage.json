@@ -1,15 +1,15 @@
 {
  "lead": {
-  "id": "rubio-jaishankar-mumbai-talks-close-to-trade-deal",
+  "id": "jio-platforms-ipo-fully-subscribed-day-one-record",
   "chart": 1,
   "overlay": {
    "kicker": {
-    "en": "Mumbai, Tuesday evening",
-    "hi": "मुंबई, मंगलवार शाम"
+    "en": "Jio IPO, day one",
+    "hi": "जियो आईपीओ, पहला दिन"
    },
    "value": {
-    "en": "'About as close as you can be'",
-    "hi": "'जितना करीब हो सकता है'"
+    "en": "Sold out in 100 minutes",
+    "hi": "100 मिनट में पूरा सब्सक्राइब"
    },
    "text": {
     "en": "",
@@ -18,154 +18,154 @@
   },
   "dataBox": [
    {
-    "icon": "handshake",
+    "icon": "currency-inr",
     "color": "#cc0000",
     "value": {
-     "en": "Trade deal",
-     "hi": "व्यापार समझौता"
+     "en": "₹30,213 cr",
+     "hi": "₹30,213 करोड़"
     },
     "label": {
-     "en": "only a few items left, says Rubio",
-     "hi": "रुबियो के मुताबिक कुछ ही मुद्दे बाकी"
+     "en": "size of the Jio Platforms offer",
+     "hi": "जियो प्लेटफॉर्म्स के इश्यू का आकार"
     }
    },
    {
-    "icon": "globe-hemisphere-east",
+    "icon": "clock",
     "color": "#8f0000",
     "value": {
-     "en": "4 areas",
-     "hi": "4 क्षेत्र"
+     "en": "100 min",
+     "hi": "100 मिनट"
     },
     "label": {
-     "en": "trade, energy, technology, defence",
-     "hi": "व्यापार, ऊर्जा, तकनीक, रक्षा"
+     "en": "to full subscription, fastest for an Indian IPO",
+     "hi": "में पूरा सब्सक्राइब, भारतीय आईपीओ में सबसे तेज़"
     }
    },
    {
-    "icon": "users-three",
+    "icon": "trend-up",
     "color": "#0d0d0d",
     "value": {
-     "en": "India-US-UAE",
-     "hi": "भारत-अमेरिका-यूएई"
+     "en": "2.22x",
+     "hi": "2.22 गुना"
     },
     "label": {
-     "en": "trilateral on energy security",
-     "hi": "ऊर्जा सुरक्षा पर त्रिपक्षीय बैठक"
+     "en": "overall subscription by 2:40 pm",
+     "hi": "दोपहर 2:40 बजे तक कुल सब्सक्रिप्शन"
     }
    },
    {
-    "icon": "factory",
+    "icon": "bank",
     "color": "#6e6e6e",
     "value": {
-     "en": "Jamnagar",
-     "hi": "जामनगर"
+     "en": "6.72x",
+     "hi": "6.72 गुना"
     },
     "label": {
-     "en": "Rubio visits Reliance refinery today",
-     "hi": "रुबियो आज रिलायंस रिफाइनरी में"
+     "en": "institutional (QIB) portion",
+     "hi": "संस्थागत (क्यूआईबी) हिस्सा"
     }
    }
   ],
   "relatedBelow": [
-   "rubio-jamnagar-reliance-visit-venezuelan-crude",
-   "jaishankar-abdullah-bin-zayed-mumbai-talks-uae"
+   "sensex-nifty-close-october-21-it-alone-gains-jio-ipo",
+   "anchor-investors-explained-jio-platforms-ipo"
   ],
   "relatedBeside": [
-   "jio-platforms-ipo-opens-today-what-bidders-need-to-know",
-   "global-cues-dow-rallies-netflix-slides-brent-108-october-21",
-   "harmanpreet-91-india-women-sweep-zimbabwe-92-runs",
-   "iran-tells-munir-no-us-talks-until-seven-conditions-met",
-   "lavrov-zelenskyy-fears-peace-deal-trump-pressure"
+   "supreme-court-andhra-sec-hold-candidate-list-ysrcp-nominations",
+   "amit-shah-police-martyrs-wall-of-valour-154-names",
+   "witkoff-putin-st-petersburg-talks-updated-peace-plan",
+   "delhi-aqi-233-poor-very-poor-forecast-thursday",
+   "sachin-khilari-leads-shot-put-sweep-asian-para-games"
   ]
  },
  "briefing": {
   "items": [
    {
-    "link": "rubio-jaishankar-mumbai-talks-close-to-trade-deal",
-    "lead": {
-     "en": "India-US:",
-     "hi": "भारत-अमेरिका:"
-    },
-    "text": {
-     "en": "Rubio says the trade deal is 'about as close as you can be'.",
-     "hi": "रुबियो बोले, व्यापार समझौता 'जितना करीब हो सकता है, उतना करीब'।"
-    }
-   },
-   {
-    "link": "jio-platforms-ipo-opens-today-what-bidders-need-to-know",
+    "link": "jio-platforms-ipo-fully-subscribed-day-one-record",
     "lead": {
      "en": "Markets:",
      "hi": "बाज़ार:"
     },
     "text": {
-     "en": "Jio Platforms IPO opens today as markets reopen after Dussehra.",
-     "hi": "दशहरे के बाद बाज़ार खुलते ही आज जियो प्लेटफ़ॉर्म्स का आईपीओ खुला।"
+     "en": "Jio IPO fully booked in 100 minutes, 2.22 times by mid-afternoon.",
+     "hi": "जियो आईपीओ 100 मिनट में पूरा भरा, दोपहर तक 2.22 गुना।"
     }
    },
    {
-    "link": "global-cues-dow-rallies-netflix-slides-brent-108-october-21",
+    "link": "sensex-nifty-close-october-21-it-alone-gains-jio-ipo",
     "lead": {
-     "en": "Global cues:",
-     "hi": "वैश्विक संकेत:"
+     "en": "Close:",
+     "hi": "क्लोज़िंग:"
     },
     "text": {
-     "en": "Dow up 530 points; Kospi fell 3.7%, Brent near $109.",
-     "hi": "डाओ 530 अंक चढ़ा; कोस्पी 3.7% गिरा, ब्रेंट करीब 109 डॉलर।"
+     "en": "Sensex gives up an 800-point rally to end 143 lower at 73,709.",
+     "hi": "सेंसेक्स 800 अंक की बढ़त गंवाकर 143 अंक नीचे 73,709 पर बंद।"
     }
    },
    {
-    "link": "police-commemoration-day-amit-shah-national-police-memorial",
+    "link": "supreme-court-andhra-sec-hold-candidate-list-ysrcp-nominations",
     "lead": {
-     "en": "Delhi:",
-     "hi": "दिल्ली:"
+     "en": "Supreme Court:",
+     "hi": "सुप्रीम कोर्ट:"
     },
     "text": {
-     "en": "Amit Shah leads the Police Commemoration Day tribute today.",
-     "hi": "आज पुलिस स्मृति दिवस पर अमित शाह देंगे श्रद्धांजलि।"
+     "en": "Andhra poll panel told to hold final candidate list till 25 October.",
+     "hi": "आंध्र चुनाव आयोग को 25 अक्टूबर तक अंतिम उम्मीदवार सूची रोकने को कहा।"
     }
    },
    {
-    "link": "delhi-air-set-to-turn-poor-stubble-fires-dry-week",
+    "link": "supreme-court-stays-vijayan-cmrl-probe-seven-days",
     "lead": {
-     "en": "Air:",
-     "hi": "हवा:"
+     "en": "Kerala:",
+     "hi": "केरल:"
     },
     "text": {
-     "en": "Delhi's air is forecast to turn 'poor' from today.",
-     "hi": "दिल्ली की हवा आज से 'खराब' होने का अनुमान।"
+     "en": "Vigilance probe against Pinarayi Vijayan paused for a week.",
+     "hi": "पिनराई विजयन के खिलाफ विजिलेंस जांच एक हफ्ते के लिए रुकी।"
     }
    },
    {
-    "link": "harmanpreet-91-india-women-sweep-zimbabwe-92-runs",
+    "link": "amit-shah-police-martyrs-wall-of-valour-154-names",
     "lead": {
-     "en": "Cricket:",
-     "hi": "क्रिकेट:"
+     "en": "Police Day:",
+     "hi": "पुलिस स्मृति दिवस:"
     },
     "text": {
-     "en": "Harmanpreet's 91* seals India women's 3-0 sweep of Zimbabwe.",
-     "hi": "हरमनप्रीत के नाबाद 91 से भारतीय महिला टीम ने ज़िम्बाब्वे को 3-0 से हराया।"
+     "en": "154 names added to the Wall of Valour as Shah salutes the fallen.",
+     "hi": "शाह ने शहीदों को नमन किया, शौर्य दीवार पर 154 नाम जुड़े।"
     }
    },
    {
-    "link": "iran-tells-munir-no-us-talks-until-seven-conditions-met",
+    "link": "cbi-takes-over-jhota-murder-probe-mansa",
     "lead": {
-     "en": "Iran:",
-     "hi": "ईरान:"
+     "en": "Punjab:",
+     "hi": "पंजाब:"
     },
     "text": {
-     "en": "Tehran tells Asim Munir there will be no US talks until its terms are met.",
-     "hi": "तेहरान ने आसिम मुनीर से कहा, शर्तें माने बिना अमेरिका से बात नहीं।"
+     "en": "CBI takes over the Jhota murder probe; team reaches Mansa.",
+     "hi": "सीबीआई ने झोटा हत्याकांड की जांच संभाली, टीम मानसा पहुंची।"
     }
    },
    {
-    "link": "lavrov-zelenskyy-fears-peace-deal-trump-pressure",
+    "link": "witkoff-putin-st-petersburg-talks-updated-peace-plan",
     "lead": {
-     "en": "Ukraine:",
-     "hi": "यूक्रेन:"
+     "en": "Russia:",
+     "hi": "रूस:"
     },
     "text": {
-     "en": "Trump says Zelenskyy 'has to want' a deal; Witkoff due in Russia.",
-     "hi": "ट्रंप बोले, ज़ेलेंस्की को समझौता 'चाहना होगा'; विटकॉफ़ रूस जाएंगे।"
+     "en": "Putin frees American Stephen Hubbard as Witkoff brings peace proposals.",
+     "hi": "विटकॉफ की शांति पेशकश के बीच पुतिन ने अमेरिकी स्टीफन हबर्ड को रिहा किया।"
+    }
+   },
+   {
+    "link": "sachin-khilari-leads-shot-put-sweep-asian-para-games",
+    "lead": {
+     "en": "Para Games:",
+     "hi": "पैरा खेल:"
+    },
+    "text": {
+     "en": "Sachin Khilari's Games record leads an Indian shot put sweep.",
+     "hi": "सचिन खिलारी के खेल रिकॉर्ड के साथ शॉट पुट में भारत का क्लीन स्वीप।"
     }
    }
   ]
@@ -233,25 +233,25 @@
  },
  "topStories": {
   "big": {
-   "id": "jio-platforms-ipo-opens-today-what-bidders-need-to-know",
+   "id": "supreme-court-andhra-sec-hold-candidate-list-ysrcp-nominations",
    "also": [
-    "anchor-investors-explained-jio-platforms-ipo",
-    "markets-reopen-jio-ipo-rbi-minutes-eternal-results-october-21"
+    "supreme-court-stays-vijayan-cmrl-probe-seven-days",
+    "cjp-leaders-withdraw-delhi-hc-custody-plea"
    ]
   },
   "list": [
-   "politics-courts-day-ahead-cjp-leaders-magistrate-vacation-bench",
-   "suvendu-adhikari-defends-private-hospital-referrals-stampede",
-   "race-course-mosque-eviction-notice-ldo-rijiju",
-   "macron-gulf-tour-diesel-deals-uae-bahrain",
-   "spacex-q3-revenue-14-6-billion-ai-half-income"
+   "amit-shah-police-martyrs-wall-of-valour-154-names",
+   "delhi-aqi-233-poor-very-poor-forecast-thursday",
+   "us-orders-agencies-remove-deepseek",
+   "tsmc-kaohsiung-fab-22-accident-four-workers-killed",
+   "vhp-bjp-hit-back-rahul-gandhi-rss-women-remark"
   ]
  },
  "startHere": [
+  "hot-springs-1959-police-commemoration-day-explained",
+  "bundibugyo-ebola-explained-nigeria-kenya-no-vaccine",
   "anchor-investors-explained-jio-platforms-ipo",
   "small-modular-reactors-explained-amazon-x-energy-india",
-  "mmx-phobos-sample-return-explained",
-  "alberta-independence-referendum-explained",
   "india-new-zealand-fta-explained-what-changes",
   "who-owns-trinamool-election-commission-symbol-dispute-explained"
  ],
@@ -406,11 +406,11 @@
   }
  ],
  "opinion": [
+  "stranded-umrah-pilgrims-need-rules-for-tour-operators",
+  "human-rights-council-seats-should-not-be-handed-out",
   "delhi-air-needs-year-round-plan-not-grap-reflex",
   "kashmiris-travelling-home-must-be-protected",
-  "driest-monsoon-in-the-east-needs-drought-relief-now",
-  "empty-forest-posts-leave-tigers-unguarded",
-  "andhra-local-polls-must-start-with-free-nominations"
+  "driest-monsoon-in-the-east-needs-drought-relief-now"
  ],
  "sections": [
   {
@@ -420,15 +420,15 @@
     "article": "bypoll-results-ruling-parties-win-all-six-seats"
    },
    "list": [
-    "politics-courts-day-ahead-cjp-leaders-magistrate-vacation-bench",
-    "dipke-rejects-nepal-bangladesh-parallels-satyagraha",
-    "jhota-murder-case-cbi-transfer-bhagwant-mann"
+    "vhp-bjp-hit-back-rahul-gandhi-rss-women-remark",
+    "cjp-leaders-withdraw-delhi-hc-custody-plea",
+    "rijiju-writes-kharge-delimitation-bill-consultations"
    ],
-   "lead": "rijiju-writes-kharge-delimitation-bill-consultations"
+   "lead": "supreme-court-stays-vijayan-cmrl-probe-seven-days"
   },
   {
    "section": "economy",
-   "lead": "global-cues-dow-rallies-netflix-slides-brent-108-october-21",
+   "lead": "sensex-nifty-close-october-21-it-alone-gains-jio-ipo",
    "module": {
     "type": "markets",
     "indicators": [
@@ -439,29 +439,29 @@
     ]
    },
    "list": [
-    "markets-reopen-jio-ipo-rbi-minutes-eternal-results-october-21",
+    "jio-platforms-ipo-fully-subscribed-day-one-record",
+    "goyal-fta-outreach-states-msme-farmers-exports",
     "brent-slips-108-79-after-touching-112-gold-eases",
-    "icici-prudential-amc-mrpl-elecon-ex-dividend-october-21",
     "netflix-q3-results-job-cuts-ad-forecast-shares-fall"
    ]
   },
   {
    "section": "states",
-   "lead": "manipur-kangpokpi-firewood-attack-three-arrested-arms-cache",
+   "lead": "delhi-aqi-233-poor-very-poor-forecast-thursday",
    "list": [
-    "delhi-air-set-to-turn-poor-stubble-fires-dry-week",
-    "shivakumar-sugarcane-meetings-farmers-factories-belagavi",
-    "shraddha-dubey-arrested-nagpur-shiva-sharma-death"
+    "cbi-takes-over-jhota-murder-probe-mansa",
+    "telangana-police-ex-gratia-revanth-reddy-commemoration",
+    "chennai-rain-schools-shut-four-districts-low-pressure"
    ]
   },
   {
    "section": "policy",
-   "lead": "police-commemoration-day-amit-shah-national-police-memorial",
+   "lead": "amit-shah-police-martyrs-wall-of-valour-154-names",
    "list": [
-    "rubio-jamnagar-reliance-visit-venezuelan-crude",
-    "race-course-mosque-eviction-notice-ldo-rijiju",
-    "rajnath-sco-dushanbe-no-double-standards-terrorism",
-    "tusk-india-visit-october-21-modi-bengaluru"
+    "national-unity-day-ekta-nagar-25000-lwe-districts-govind-mohan",
+    "india-un-third-committee-enforced-disappearances-political-pressure",
+    "sarang-helicopter-team-varanasi-air-show-namo-ghat",
+    "murmu-national-exhibition-of-art-rural-folk-artists"
    ]
   },
   {
@@ -479,57 +479,33 @@
  "desks": [
   {
    "section": "world",
-   "lead": "iran-tells-munir-no-us-talks-until-seven-conditions-met",
+   "lead": "witkoff-putin-st-petersburg-talks-updated-peace-plan",
    "list": [
-    "lavrov-zelenskyy-fears-peace-deal-trump-pressure",
-    "turkiye-parliament-mecca-defence-pact-pakistan-saudi",
-    "nigeria-first-ebola-case-kenya-ninth"
+    "tsmc-kaohsiung-fab-22-accident-four-workers-killed",
+    "park-sung-jae-sentence-cut-nine-years-appeal-insurrection",
+    "pakistan-rice-exporters-lose-buyers-freight-costs-india"
    ]
   },
   {
    "section": "science",
-   "lead": "spacex-q3-revenue-14-6-billion-ai-half-income",
+   "lead": "us-orders-agencies-remove-deepseek",
    "list": [
-    "eka-robotics-150-million-1-45-billion-gripper",
-    "google-torchtpu-open-source-pytorch-nvidia",
-    "indiaai-compute-subsidy-model-builders-researchers-10-crore"
+    "openai-buys-orchestra-bio-rosalind",
+    "wii-bear-population-estimate-four-species",
+    "spacex-q3-revenue-14-6-billion-ai-half-income"
    ]
   },
   {
    "section": "sports",
-   "lead": "harmanpreet-91-india-women-sweep-zimbabwe-92-runs",
+   "lead": "sachin-khilari-leads-shot-put-sweep-asian-para-games",
    "list": [
-    "bavuma-179-south-africa-declare-425-gqeberha",
-    "psg-beat-barcelona-4-2-vitinha-fabian-ruiz-late-goals",
-    "satwik-chirag-out-french-open-popov-brothers-tanvi-ashmita"
+    "amit-mishra-delhi-capitals-spin-bowling-coach",
+    "kimmich-out-bayern-arsenal-kompany-doubtful",
+    "harmanpreet-91-india-women-sweep-zimbabwe-92-runs"
    ]
   }
  ],
  "weekAhead": [
-  {
-   "icon": "bank",
-   "date": {
-    "en": "Wed 21 Oct",
-    "hi": "बुध, 21 अक्टूबर"
-   },
-   "text": {
-    "en": "Markets reopen: Jio IPO opens, RBI minutes, Eternal results.",
-    "hi": "बाज़ार खुले: जियो आईपीओ, आरबीआई मिनट्स, इटरनल के नतीजे।"
-   },
-   "link": "markets-reopen-jio-ipo-rbi-minutes-eternal-results-october-21"
-  },
-  {
-   "icon": "scales",
-   "date": {
-    "en": "Wed 21 Oct",
-    "hi": "बुध, 21 अक्टूबर"
-   },
-   "text": {
-    "en": "Supreme Court vacation bench hears YSRCP and Vijayan pleas.",
-    "hi": "सुप्रीम कोर्ट की अवकाश पीठ में वाईएसआरसीपी और विजयन की याचिकाएं।"
-   },
-   "link": "politics-courts-day-ahead-cjp-leaders-magistrate-vacation-bench"
-  },
   {
    "icon": "trophy",
    "date": {
@@ -537,10 +513,10 @@
     "hi": "बुध, 21 अक्टूबर"
    },
    "text": {
-    "en": "Bayern host Arsenal in the Champions League (12:30 am IST Thursday).",
-    "hi": "चैंपियंस लीग में बायर्न बनाम आर्सेनल (गुरुवार रात 12:30 बजे)।"
+    "en": "Bayern host Arsenal in the Champions League (12:30 am IST Thursday); Kimmich out.",
+    "hi": "चैंपियंस लीग में बायर्न बनाम आर्सेनल (गुरुवार रात 12:30 बजे); किमिच बाहर।"
    },
-   "link": "bayern-arsenal-champions-league-real-madrid-leipzig-preview"
+   "link": "kimmich-out-bayern-arsenal-kompany-doubtful"
   },
   {
    "icon": "handshake",
@@ -550,7 +526,7 @@
    },
    "text": {
     "en": "Polish PM Donald Tusk holds talks with Modi.",
-    "hi": "पोलैंड के प्रधानमंत्री डोनाल्ड टस्क की मोदी से बातचीत।"
+    "hi": "पोलैंड के प्रधानमंत्री डोनाल्ड टस्क की मोदी से वार्ता।"
    },
    "link": "tusk-india-visit-october-21-modi-bengaluru"
   },
@@ -565,6 +541,30 @@
     "hi": "केंद्र के साथ लद्दाख वार्ता फिर शुरू।"
    },
    "link": "article-371k-ladakh-explained-sixth-schedule"
+  },
+  {
+   "icon": "scales",
+   "date": {
+    "en": "Sat 25 Oct",
+    "hi": "शनि, 25 अक्टूबर"
+   },
+   "text": {
+    "en": "Andhra final candidate list on hold until today under Supreme Court order.",
+    "hi": "सुप्रीम कोर्ट के आदेश से आंध्र की अंतिम उम्मीदवार सूची आज तक रुकी।"
+   },
+   "link": "supreme-court-andhra-sec-hold-candidate-list-ysrcp-nominations"
+  },
+  {
+   "icon": "airplane-tilt",
+   "date": {
+    "en": "Sat 25 Oct",
+    "hi": "शनि, 25 अक्टूबर"
+   },
+   "text": {
+    "en": "IAF 'Wings Over Ganges' air show at Varanasi's Namo Ghat.",
+    "hi": "वाराणसी के नमो घाट पर वायुसेना का 'विंग्स ओवर गंगा' एयर शो।"
+   },
+   "link": "sarang-helicopter-team-varanasi-air-show-namo-ghat"
   }
  ]
 }
