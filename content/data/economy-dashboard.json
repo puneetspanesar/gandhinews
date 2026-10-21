@@ -2,7 +2,7 @@
   "id": "economy-dashboard",
   "title": "India economy dashboard",
   "as_of": "2026-10-11",
-  "updated": "2026-10-21T05:50:00+05:30",
+  "updated": "2026-10-21T16:20:00+05:30",
   "notes": "Every value is taken from the source named in its row. verified_primary is true only when the figure was read in a primary release (RBI, MoSPI, PIB, Ministry of Finance). Values the research desk marked as derived are not included.",
   "indicators": [
     {
@@ -561,14 +561,14 @@
     {
       "id": "sensex",
       "name": "BSE Sensex (close)",
-      "latest_value": 73852.9,
+      "latest_value": 73709.69,
       "unit": "index points",
-      "period": "19 Oct 2026",
-      "release_date": "2026-10-19",
+      "period": "21 Oct 2026",
+      "release_date": "2026-10-21",
       "change_vs_previous": {
         "basis": "previous close",
-        "change": -876.37,
-        "change_pct": -1.17,
+        "change": -143.21,
+        "change_pct": -0.19,
         "change_unit": "points"
       },
       "history": [
@@ -603,15 +603,19 @@
         {
           "period": "19 Oct 2026",
           "value": 73852.9
+        },
+        {
+          "period": "21 Oct 2026",
+          "value": 73709.69
         }
       ],
       "source": {
         "publisher": "Business Standard (market close)",
-        "url": "https://www.business-standard.com/markets/news/stock-market-live-october-19-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bond-yields-q2-results-hind-zinc-share-price-today-ipo-today-126101900052_1.html",
-        "date": "2026-10-19"
+        "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-october-21-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-jio-platforms-ipo-today-hd-fire-protect-share-price-126102100078_1.html",
+        "date": "2026-10-21"
       },
       "verified_primary": false,
-      "note": "27 May 2026 close from PTI via Deccan Herald. 16 Oct close from PTI, matching Liquide. Week 9-16 Oct: +2,256.94 points (3.11%). 19 Oct close: fall of 876.37 points from Business Standard; level derived from Friday's 74,729.27.",
+      "note": "27 May 2026 close from PTI via Deccan Herald. 16 Oct close from PTI, matching Liquide. Week 9-16 Oct: +2,256.94 points (3.11%). 19 Oct close: fall of 876.37 points from Business Standard; level derived from Friday's 74,729.27. 21 Oct close 73,709.69 (down 143.21, 0.19%) from Business Standard live blog, 3:37 pm; second straight fall.",
       "history_sources": [
         {
           "period": "27 May 2026",
@@ -624,14 +628,14 @@
     {
       "id": "nifty-50",
       "name": "NSE Nifty 50 (close)",
-      "latest_value": 22888.95,
+      "latest_value": 22811.35,
       "unit": "index points",
-      "period": "19 Oct 2026",
-      "release_date": "2026-10-19",
+      "period": "21 Oct 2026",
+      "release_date": "2026-10-21",
       "change_vs_previous": {
         "basis": "previous close",
-        "change": -257.2,
-        "change_pct": -1.11,
+        "change": -77.6,
+        "change_pct": -0.34,
         "change_unit": "points"
       },
       "history": [
@@ -666,15 +670,19 @@
         {
           "period": "19 Oct 2026",
           "value": 22888.95
+        },
+        {
+          "period": "21 Oct 2026",
+          "value": 22811.35
         }
       ],
       "source": {
         "publisher": "Business Standard (market close)",
-        "url": "https://www.business-standard.com/markets/news/stock-market-live-october-19-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bond-yields-q2-results-hind-zinc-share-price-today-ipo-today-126101900052_1.html",
-        "date": "2026-10-19"
+        "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-october-21-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-jio-platforms-ipo-today-hd-fire-protect-share-price-126102100078_1.html",
+        "date": "2026-10-21"
       },
       "verified_primary": false,
-      "note": "27 May 2026 close from PTI via Deccan Herald. 16 Oct close from PTI, matching Liquide. Week 9-16 Oct: +625.70 points (2.78%). 19 Oct close 22,888.95 (down 257.20, 1.11%) per Goodreturns and HDFC Sky. Markets shut 20 Oct for Dussehra.",
+      "note": "27 May 2026 close from PTI via Deccan Herald. 16 Oct close from PTI, matching Liquide. Week 9-16 Oct: +625.70 points (2.78%). 19 Oct close 22,888.95 (down 257.20, 1.11%) per Goodreturns and HDFC Sky. Markets shut 20 Oct for Dussehra. 21 Oct: fall of 77.60 points (0.34%) from Business Standard live blog; level 22,811.35 derived from 19 Oct close 22,888.95.",
       "history_sources": [
         {
           "period": "27 May 2026",
