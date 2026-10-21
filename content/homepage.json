@@ -1,15 +1,15 @@
 {
  "lead": {
-  "id": "bhagwat-vijayadashami-svabodh-dhankhar-attends-nagpur",
+  "id": "rubio-jaishankar-mumbai-talks-close-to-trade-deal",
   "chart": 1,
   "overlay": {
    "kicker": {
-    "en": "Reshimbagh, Nagpur, Vijayadashami",
-    "hi": "रेशिमबाग, नागपुर, विजयादशमी"
+    "en": "Mumbai, Tuesday evening",
+    "hi": "मुंबई, मंगलवार शाम"
    },
    "value": {
-    "en": "100 years of the Sangh, one warning",
-    "hi": "संघ के 100 साल, एक चेतावनी"
+    "en": "'About as close as you can be'",
+    "hi": "'जितना करीब हो सकता है'"
    },
    "text": {
     "en": "",
@@ -18,154 +18,154 @@
   },
   "dataBox": [
    {
-    "icon": "flag-banner",
+    "icon": "handshake",
     "color": "#cc0000",
     "value": {
-     "en": "100",
-     "hi": "100"
+     "en": "Trade deal",
+     "hi": "व्यापार समझौता"
     },
     "label": {
-     "en": "years since the RSS was founded",
-     "hi": "साल, आरएसएस की स्थापना को"
+     "en": "only a few items left, says Rubio",
+     "hi": "रुबियो के मुताबिक कुछ ही मुद्दे बाकी"
     }
    },
    {
-    "icon": "quotes",
+    "icon": "globe-hemisphere-east",
     "color": "#8f0000",
     "value": {
-     "en": "\"Never\"",
-     "hi": "\"कभी नहीं\""
+     "en": "4 areas",
+     "hi": "4 क्षेत्र"
     },
     "label": {
-     "en": "Bhagwat on regime change in India",
-     "hi": "भारत में सत्ता परिवर्तन पर भागवत"
+     "en": "trade, energy, technology, defence",
+     "hi": "व्यापार, ऊर्जा, तकनीक, रक्षा"
     }
    },
    {
-    "icon": "user-circle",
+    "icon": "users-three",
     "color": "#0d0d0d",
     "value": {
-     "en": "Dhankhar",
-     "hi": "धनखड़"
+     "en": "India-US-UAE",
+     "hi": "भारत-अमेरिका-यूएई"
     },
     "label": {
-     "en": "former V-P among the invited guests",
-     "hi": "पूर्व उपराष्ट्रपति आमंत्रित अतिथियों में"
+     "en": "trilateral on energy security",
+     "hi": "ऊर्जा सुरक्षा पर त्रिपक्षीय बैठक"
     }
    },
    {
-    "icon": "megaphone",
+    "icon": "factory",
     "color": "#6e6e6e",
     "value": {
-     "en": "Modi",
-     "hi": "मोदी"
+     "en": "Jamnagar",
+     "hi": "जामनगर"
     },
     "label": {
-     "en": "called it a very motivating address",
-     "hi": "ने इसे बेहद प्रेरक भाषण बताया"
+     "en": "Rubio visits Reliance refinery today",
+     "hi": "रुबियो आज रिलायंस रिफाइनरी में"
     }
    }
   ],
   "relatedBelow": [
-   "dipke-rejects-nepal-bangladesh-parallels-satyagraha",
-   "kharge-to-explain-sir-harm-to-modi-tomorrow-kalaburagi"
+   "rubio-jamnagar-reliance-visit-venezuelan-crude",
+   "jaishankar-abdullah-bin-zayed-mumbai-talks-uae"
   ],
   "relatedBeside": [
-   "jaishankar-rubio-mumbai-talks",
-   "rajnath-sco-dushanbe-no-double-standards-terrorism",
-   "jio-platforms-anchor-book-8110-crore-30-times-demand",
-   "witkoff-zelenskyy-oslo-before-putin-moscow",
-   "deepthi-jeevanji-400m-gold-games-record-asian-para-games"
+   "jio-platforms-ipo-opens-today-what-bidders-need-to-know",
+   "global-cues-dow-rallies-netflix-slides-brent-108-october-21",
+   "harmanpreet-91-india-women-sweep-zimbabwe-92-runs",
+   "iran-tells-munir-no-us-talks-until-seven-conditions-met",
+   "lavrov-zelenskyy-fears-peace-deal-trump-pressure"
   ]
  },
  "briefing": {
   "items": [
    {
-    "link": "bhagwat-vijayadashami-svabodh-dhankhar-attends-nagpur",
+    "link": "rubio-jaishankar-mumbai-talks-close-to-trade-deal",
     "lead": {
-     "en": "Nagpur:",
-     "hi": "नागपुर:"
+     "en": "India-US:",
+     "hi": "भारत-अमेरिका:"
     },
     "text": {
-     "en": "Bhagwat says protests must stay within the Constitution.",
-     "hi": "भागवत बोले, विरोध संविधान के दायरे में रहे।"
+     "en": "Rubio says the trade deal is 'about as close as you can be'.",
+     "hi": "रुबियो बोले, व्यापार समझौता 'जितना करीब हो सकता है, उतना करीब'।"
     }
    },
    {
-    "link": "jaishankar-rubio-mumbai-talks",
-    "lead": {
-     "en": "Mumbai:",
-     "hi": "मुंबई:"
-    },
-    "text": {
-     "en": "Rubio arrives for Jaishankar talks; trade deal 'very close'.",
-     "hi": "जयशंकर से वार्ता के लिए रुबियो पहुंचे; व्यापार समझौता \"बहुत क़रीब\"।"
-    }
-   },
-   {
-    "link": "rajnath-sco-dushanbe-no-double-standards-terrorism",
-    "lead": {
-     "en": "SCO:",
-     "hi": "एससीओ:"
-    },
-    "text": {
-     "en": "Rajnath tells Dushanbe meeting: no double standards on terror.",
-     "hi": "दुशांबे में राजनाथ: आतंकवाद पर दोहरा मापदंड नहीं।"
-    }
-   },
-   {
-    "link": "india-new-zealand-fta-enters-into-force-vijayadashami",
-    "lead": {
-     "en": "Trade:",
-     "hi": "व्यापार:"
-    },
-    "text": {
-     "en": "New Zealand pact in force; Indian goods enter duty free.",
-     "hi": "न्यूज़ीलैंड समझौता लागू; भारतीय सामान शुल्क-मुक्त।"
-    }
-   },
-   {
-    "link": "jio-platforms-anchor-book-8110-crore-30-times-demand",
+    "link": "jio-platforms-ipo-opens-today-what-bidders-need-to-know",
     "lead": {
      "en": "Markets:",
      "hi": "बाज़ार:"
     },
     "text": {
-     "en": "Jio Platforms raises ₹8,110 crore from anchors; bourses shut for Dussehra.",
-     "hi": "जियो प्लेटफ़ॉर्म्स ने एंकर निवेशकों से ₹8,110 करोड़ जुटाए; दशहरे पर बाज़ार बंद।"
+     "en": "Jio Platforms IPO opens today as markets reopen after Dussehra.",
+     "hi": "दशहरे के बाद बाज़ार खुलते ही आज जियो प्लेटफ़ॉर्म्स का आईपीओ खुला।"
     }
    },
    {
-    "link": "calcutta-hc-retired-judge-inquiry-chorbagan-stampede",
+    "link": "global-cues-dow-rallies-netflix-slides-brent-108-october-21",
     "lead": {
-     "en": "Kolkata:",
-     "hi": "कोलकाता:"
+     "en": "Global cues:",
+     "hi": "वैश्विक संकेत:"
     },
     "text": {
-     "en": "High Court orders retired-judge inquiry into Chorbagan crush.",
-     "hi": "हाईकोर्ट ने चोरबागान भगदड़ की जांच सेवानिवृत्त जज को सौंपी।"
+     "en": "Dow up 530 points; Kospi fell 3.7%, Brent near $109.",
+     "hi": "डाओ 530 अंक चढ़ा; कोस्पी 3.7% गिरा, ब्रेंट करीब 109 डॉलर।"
     }
    },
    {
-    "link": "deepthi-jeevanji-400m-gold-games-record-asian-para-games",
+    "link": "police-commemoration-day-amit-shah-national-police-memorial",
     "lead": {
-     "en": "Para Games:",
-     "hi": "पैरा खेल:"
+     "en": "Delhi:",
+     "hi": "दिल्ली:"
     },
     "text": {
-     "en": "Deepthi Jeevanji wins 400m gold in a Games record.",
-     "hi": "दीप्ति जीवनजी ने खेलों के रिकॉर्ड के साथ 400 मीटर स्वर्ण जीता।"
+     "en": "Amit Shah leads the Police Commemoration Day tribute today.",
+     "hi": "आज पुलिस स्मृति दिवस पर अमित शाह देंगे श्रद्धांजलि।"
     }
    },
    {
-    "link": "witkoff-zelenskyy-oslo-before-putin-moscow",
+    "link": "delhi-air-set-to-turn-poor-stubble-fires-dry-week",
+    "lead": {
+     "en": "Air:",
+     "hi": "हवा:"
+    },
+    "text": {
+     "en": "Delhi's air is forecast to turn 'poor' from today.",
+     "hi": "दिल्ली की हवा आज से 'खराब' होने का अनुमान।"
+    }
+   },
+   {
+    "link": "harmanpreet-91-india-women-sweep-zimbabwe-92-runs",
+    "lead": {
+     "en": "Cricket:",
+     "hi": "क्रिकेट:"
+    },
+    "text": {
+     "en": "Harmanpreet's 91* seals India women's 3-0 sweep of Zimbabwe.",
+     "hi": "हरमनप्रीत के नाबाद 91 से भारतीय महिला टीम ने ज़िम्बाब्वे को 3-0 से हराया।"
+    }
+   },
+   {
+    "link": "iran-tells-munir-no-us-talks-until-seven-conditions-met",
+    "lead": {
+     "en": "Iran:",
+     "hi": "ईरान:"
+    },
+    "text": {
+     "en": "Tehran tells Asim Munir there will be no US talks until its terms are met.",
+     "hi": "तेहरान ने आसिम मुनीर से कहा, शर्तें माने बिना अमेरिका से बात नहीं।"
+    }
+   },
+   {
+    "link": "lavrov-zelenskyy-fears-peace-deal-trump-pressure",
     "lead": {
      "en": "Ukraine:",
      "hi": "यूक्रेन:"
     },
     "text": {
-     "en": "Witkoff meets Zelenskyy in Oslo before a Putin trip.",
-     "hi": "पुतिन से मिलने से पहले विटकॉफ़ की ओस्लो में ज़ेलेंस्की से मुलाक़ात।"
+     "en": "Trump says Zelenskyy 'has to want' a deal; Witkoff due in Russia.",
+     "hi": "ट्रंप बोले, ज़ेलेंस्की को समझौता 'चाहना होगा'; विटकॉफ़ रूस जाएंगे।"
     }
    }
   ]
@@ -233,27 +233,27 @@
  },
  "topStories": {
   "big": {
-   "id": "jaishankar-rubio-mumbai-talks",
+   "id": "jio-platforms-ipo-opens-today-what-bidders-need-to-know",
    "also": [
-    "jaishankar-abdullah-bin-zayed-mumbai-talks-uae",
-    "india-new-zealand-fta-enters-into-force-vijayadashami"
+    "anchor-investors-explained-jio-platforms-ipo",
+    "markets-reopen-jio-ipo-rbi-minutes-eternal-results-october-21"
    ]
   },
   "list": [
-   "amit-shah-gurdaspur-bikramjit-family-aman-arora-questions",
-   "calcutta-hc-retired-judge-inquiry-chorbagan-stampede",
-   "saudi-postpones-fii-davos-in-desert-houthi-attacks",
-   "hegseth-netanyahu-desert-air-base-qatar-iran-us-talks",
-   "openai-seeks-30-billion-round-before-anthropic-ipo"
+   "politics-courts-day-ahead-cjp-leaders-magistrate-vacation-bench",
+   "suvendu-adhikari-defends-private-hospital-referrals-stampede",
+   "race-course-mosque-eviction-notice-ldo-rijiju",
+   "macron-gulf-tour-diesel-deals-uae-bahrain",
+   "spacex-q3-revenue-14-6-billion-ai-half-income"
   ]
  },
  "startHere": [
+  "anchor-investors-explained-jio-platforms-ipo",
   "small-modular-reactors-explained-amazon-x-energy-india",
   "mmx-phobos-sample-return-explained",
   "alberta-independence-referendum-explained",
   "india-new-zealand-fta-explained-what-changes",
-  "who-owns-trinamool-election-commission-symbol-dispute-explained",
-  "pakistan-governors-rule-khyber-pakhtunkhwa-explained"
+  "who-owns-trinamool-election-commission-symbol-dispute-explained"
  ],
  "trackers": [
   {
@@ -406,11 +406,11 @@
   }
  ],
  "opinion": [
+  "delhi-air-needs-year-round-plan-not-grap-reflex",
   "kashmiris-travelling-home-must-be-protected",
   "driest-monsoon-in-the-east-needs-drought-relief-now",
   "empty-forest-posts-leave-tigers-unguarded",
-  "andhra-local-polls-must-start-with-free-nominations",
-  "muzaffarpur-mob-killing-and-arson-justice-is-not-a-crowd"
+  "andhra-local-polls-must-start-with-free-nominations"
  ],
  "sections": [
   {
@@ -420,15 +420,15 @@
     "article": "bypoll-results-ruling-parties-win-all-six-seats"
    },
    "list": [
+    "politics-courts-day-ahead-cjp-leaders-magistrate-vacation-bench",
     "dipke-rejects-nepal-bangladesh-parallels-satyagraha",
-    "jhota-murder-case-cbi-transfer-bhagwant-mann",
-    "supreme-court-vacation-bench-ysrcp-nominations-plea-wednesday"
+    "jhota-murder-case-cbi-transfer-bhagwant-mann"
    ],
    "lead": "rijiju-writes-kharge-delimitation-bill-consultations"
   },
   {
    "section": "economy",
-   "lead": "jio-platforms-anchor-book-8110-crore-30-times-demand",
+   "lead": "global-cues-dow-rallies-netflix-slides-brent-108-october-21",
    "module": {
     "type": "markets",
     "indicators": [
@@ -439,29 +439,29 @@
     ]
    },
    "list": [
-    "gold-slips-dussehra-147170-mcx-shut",
-    "india-new-zealand-fta-enters-into-force-vijayadashami",
-    "bajaj-finance-q2-results-october-19",
-    "hindustan-zinc-q2-profit-more-than-doubles-6412-crore"
+    "markets-reopen-jio-ipo-rbi-minutes-eternal-results-october-21",
+    "brent-slips-108-79-after-touching-112-gold-eases",
+    "icici-prudential-amc-mrpl-elecon-ex-dividend-october-21",
+    "netflix-q3-results-job-cuts-ad-forecast-shares-fall"
    ]
   },
   {
    "section": "states",
-   "lead": "calcutta-hc-retired-judge-inquiry-chorbagan-stampede",
+   "lead": "manipur-kangpokpi-firewood-attack-three-arrested-arms-cache",
    "list": [
-    "delhi-aqi-161-dussehra-morning-moderate",
-    "assam-evictions-638-hectares-golaghat-hojai-nagaon",
-    "tamil-nadu-vetri-150-extra-25-days-rural-jobs"
+    "delhi-air-set-to-turn-poor-stubble-fires-dry-week",
+    "shivakumar-sugarcane-meetings-farmers-factories-belagavi",
+    "shraddha-dubey-arrested-nagpur-shiva-sharma-death"
    ]
   },
   {
    "section": "policy",
-   "lead": "rajnath-sco-dushanbe-no-double-standards-terrorism",
+   "lead": "police-commemoration-day-amit-shah-national-police-memorial",
    "list": [
-    "india-un-first-committee-no-first-use-treaty-offer",
-    "tusk-india-visit-october-21-modi-bengaluru",
-    "jaishankar-abdullah-bin-zayed-mumbai-talks-uae",
-    "india-new-zealand-fta-enters-into-force-vijayadashami"
+    "rubio-jamnagar-reliance-visit-venezuelan-crude",
+    "race-course-mosque-eviction-notice-ldo-rijiju",
+    "rajnath-sco-dushanbe-no-double-standards-terrorism",
+    "tusk-india-visit-october-21-modi-bengaluru"
    ]
   },
   {
@@ -479,44 +479,44 @@
  "desks": [
   {
    "section": "world",
-   "lead": "witkoff-zelenskyy-oslo-before-putin-moscow",
+   "lead": "iran-tells-munir-no-us-talks-until-seven-conditions-met",
    "list": [
-    "storm-adam-spain-floods-five-dead",
-    "saudi-postpones-fii-davos-in-desert-houthi-attacks",
-    "china-tracks-us-warship-charleston-sabina-shoal"
+    "lavrov-zelenskyy-fears-peace-deal-trump-pressure",
+    "turkiye-parliament-mecca-defence-pact-pakistan-saudi",
+    "nigeria-first-ebola-case-kenya-ninth"
    ]
   },
   {
    "section": "science",
-   "lead": "indiaai-compute-subsidy-model-builders-researchers-10-crore",
+   "lead": "spacex-q3-revenue-14-6-billion-ai-half-income",
    "list": [
-    "openai-seeks-30-billion-round-before-anthropic-ipo",
-    "small-modular-reactors-explained-amazon-x-energy-india",
-    "mmx-phobos-sample-return-explained"
+    "eka-robotics-150-million-1-45-billion-gripper",
+    "google-torchtpu-open-source-pytorch-nvidia",
+    "indiaai-compute-subsidy-model-builders-researchers-10-crore"
    ]
   },
   {
    "section": "sports",
-   "lead": "deepthi-jeevanji-400m-gold-games-record-asian-para-games",
+   "lead": "harmanpreet-91-india-women-sweep-zimbabwe-92-runs",
    "list": [
-    "bavuma-jansen-counter-boland-gqeberha-day-three",
-    "tamil-nadu-thrash-uttarakhand-ranji-bengal-services-chase",
-    "manish-narwal-silver-air-pistol-ashok-powerlifting"
+    "bavuma-179-south-africa-declare-425-gqeberha",
+    "psg-beat-barcelona-4-2-vitinha-fabian-ruiz-late-goals",
+    "satwik-chirag-out-french-open-popov-brothers-tanvi-ashmita"
    ]
   }
  ],
  "weekAhead": [
   {
-   "icon": "soccer-ball",
+   "icon": "bank",
    "date": {
-    "en": "Tue 20 Oct",
-    "hi": "मंगल, 20 अक्टूबर"
+    "en": "Wed 21 Oct",
+    "hi": "बुध, 21 अक्टूबर"
    },
    "text": {
-    "en": "PSG host Barcelona in the Champions League tonight (12:30 am IST).",
-    "hi": "चैंपियंस लीग में पीएसजी बनाम बार्सिलोना, रात 12:30 बजे।"
+    "en": "Markets reopen: Jio IPO opens, RBI minutes, Eternal results.",
+    "hi": "बाज़ार खुले: जियो आईपीओ, आरबीआई मिनट्स, इटरनल के नतीजे।"
    },
-   "link": "psg-barcelona-champions-league-matchday-three-preview"
+   "link": "markets-reopen-jio-ipo-rbi-minutes-eternal-results-october-21"
   },
   {
    "icon": "scales",
@@ -528,19 +528,19 @@
     "en": "Supreme Court vacation bench hears YSRCP and Vijayan pleas.",
     "hi": "सुप्रीम कोर्ट की अवकाश पीठ में वाईएसआरसीपी और विजयन की याचिकाएं।"
    },
-   "link": "supreme-court-vacation-bench-ysrcp-nominations-plea-wednesday"
+   "link": "politics-courts-day-ahead-cjp-leaders-magistrate-vacation-bench"
   },
   {
-   "icon": "currency-inr",
+   "icon": "trophy",
    "date": {
     "en": "Wed 21 Oct",
     "hi": "बुध, 21 अक्टूबर"
    },
    "text": {
-    "en": "Jio Platforms IPO opens; runs to 23 October.",
-    "hi": "जियो प्लेटफ़ॉर्म्स का आईपीओ खुलेगा; 23 अक्टूबर तक।"
+    "en": "Bayern host Arsenal in the Champions League (12:30 am IST Thursday).",
+    "hi": "चैंपियंस लीग में बायर्न बनाम आर्सेनल (गुरुवार रात 12:30 बजे)।"
    },
-   "link": "jio-platforms-anchor-book-8110-crore-30-times-demand"
+   "link": "bayern-arsenal-champions-league-real-madrid-leipzig-preview"
   },
   {
    "icon": "handshake",
@@ -550,12 +550,12 @@
    },
    "text": {
     "en": "Polish PM Donald Tusk holds talks with Modi.",
-    "hi": "पोलैंड के प्रधानमंत्री डोनाल्ड टस्क की मोदी से वार्ता।"
+    "hi": "पोलैंड के प्रधानमंत्री डोनाल्ड टस्क की मोदी से बातचीत।"
    },
    "link": "tusk-india-visit-october-21-modi-bengaluru"
   },
   {
-   "icon": "megaphone",
+   "icon": "users-three",
    "date": {
     "en": "Thu 22 Oct",
     "hi": "गुरु, 22 अक्टूबर"
