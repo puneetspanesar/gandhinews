@@ -11,7 +11,8 @@ jobs:
       - uses: actions/checkout@v4
       - run: |
           mkdir -p raw
-          jq -r '.[] | "\(.id)\t\(.sourceUrl)"' content/photos.json | sort -u | while IFS=$'\t' read -r id url; do
+          # Composite main entries (x-*) are built from their cx-* parts, so they are never downloaded.
+          jq -r '.[] | select(.composite == null) | "\(.id)\t\(.sourceUrl)"' content/photos.json | sort -u | while IFS=$'\t' read -r id url; do
             [ -f "raw/$id.jpg" ] && continue
             # composite parts are re-fetched only if the composite picture is missing
             case "$id" in cx-*) ls public/photos/v-* >/dev/null 2>&1 && [ -n "$(grep -l "\"$id\"" content/photos.json)" ] && [ -f "public/photos/v-$(jq -r --arg i "$id" '.[]|select(.composite and (.composite|index($i)))|.articleId[0:60]' content/photos.json)-1280.jpg" ] && continue;; esac
