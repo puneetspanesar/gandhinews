@@ -2,7 +2,7 @@
   "id": "economy-dashboard",
   "title": "India economy dashboard",
   "as_of": "2026-10-11",
-  "updated": "2026-10-21T16:20:00+05:30",
+  "updated": "2026-10-22T05:40:00+05:30",
   "notes": "Every value is taken from the source named in its row. verified_primary is true only when the figure was read in a primary release (RBI, MoSPI, PIB, Ministry of Finance). Values the research desk marked as derived are not included.",
   "indicators": [
     {
@@ -434,16 +434,16 @@
     {
       "id": "usd-inr",
       "name": "Rupee per US dollar (closing)",
-      "latest_value": 94.92,
+      "latest_value": 94.38,
       "unit": "₹ per $",
-      "period": "19 Oct 2026",
-      "release_date": "2026-10-19",
+      "period": "21 Oct 2026",
+      "release_date": "2026-10-21",
       "change_vs_previous": {
         "basis": "previous close",
-        "previous_value": 94.89,
-        "previous_period": "16 Oct 2026",
-        "change": 0.03,
-        "change_unit": "₹ (rupee fell 3 paise)"
+        "previous_value": 94.91,
+        "previous_period": "19 Oct 2026",
+        "change": -0.53,
+        "change_unit": "₹ (rupee rose 53 paise)"
       },
       "history": [
         {
@@ -487,14 +487,19 @@
         },
         {
           "period": "19 Oct 2026",
-          "value": 94.92,
-          "note": "provisional close"
+          "value": 94.91,
+          "note": "PTI's final close; first reported as 94.92"
+        },
+        {
+          "period": "21 Oct 2026",
+          "value": 94.38,
+          "note": "six-week high"
         }
       ],
       "source": {
-        "publisher": "PTI via DT Next",
-        "url": "https://www.dtnext.in/news/business/rupee-falls-3-paise-to-close-at-9492-against-us-dollar",
-        "date": "2026-10-19"
+        "publisher": "PTI via ThePrint",
+        "url": "https://theprint.in/economy/rupee-closes-at-six-week-high-of-94-38-driven-by-jio-ipo-rbi-intervention/3078122/",
+        "date": "2026-10-21"
       },
       "history_sources": [
         {
@@ -511,7 +516,7 @@
         }
       ],
       "verified_primary": false,
-      "note": "19 Oct close 94.92 is PTI's provisional figure (down 3 paise; Reuters gave 94.9250, nearly unchanged). Six-session winning run ended. Stock exchanges shut on 20 Oct for Dussehra. 16 Oct close 94.89 is PTI's final figure (provisional 94.92). PTI now gives 15 Oct close as 94.99 (first reported as 95.05). 14 Oct value (95.16) is Business Standard's. National Herald reported the 9 Oct close as 96.71. PTI describes 96.88 on 8 Oct as the record closing low. Six straight sessions of gains."
+      "note": "21 Oct close 94.38 (up 53 paise, strongest close since 4 Sep) is PTI's final figure via ThePrint, 8:46 pm; PTI's earlier provisional figure was 94.43 (up 48 paise). Opened 94.78, range 94.35-94.82. PTI gives the 19 Oct close as 94.91 (provisional 94.92). Forex market shut 20 Oct for Dussehra. 16 Oct close 94.89 is PTI's final figure (provisional 94.92). PTI now gives 15 Oct close as 94.99 (first reported as 95.05). 14 Oct value (95.16) is Business Standard's. National Herald reported the 9 Oct close as 96.71. PTI describes 96.88 on 8 Oct as the record closing low."
     },
     {
       "id": "forex-reserves",
@@ -682,7 +687,7 @@
         "date": "2026-10-21"
       },
       "verified_primary": false,
-      "note": "27 May 2026 close from PTI via Deccan Herald. 16 Oct close from PTI, matching Liquide. Week 9-16 Oct: +625.70 points (2.78%). 19 Oct close 22,888.95 (down 257.20, 1.11%) per Goodreturns and HDFC Sky. Markets shut 20 Oct for Dussehra. 21 Oct: fall of 77.60 points (0.34%) from Business Standard live blog; level 22,811.35 derived from 19 Oct close 22,888.95.",
+      "note": "27 May 2026 close from PTI via Deccan Herald. 16 Oct close from PTI, matching Liquide. Week 9-16 Oct: +625.70 points (2.78%). 19 Oct close 22,888.95 (down 257.20, 1.11%) per Goodreturns and HDFC Sky. Markets shut 20 Oct for Dussehra. 21 Oct: fall of 77.60 points (0.34%) from Business Standard live blog; level 22,811.35 derived from 19 Oct close 22,888.95. PTI (via ThePrint, 21 Oct 8:46 pm) also gives the 21 Oct close as 22,811.35.",
       "history_sources": [
         {
           "period": "27 May 2026",
