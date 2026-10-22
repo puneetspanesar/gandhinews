@@ -1,15 +1,15 @@
 {
  "lead": {
-  "id": "us-orders-staff-leave-saudi-arabia-dammam-airport-attack",
+  "id": "irgc-seven-tankers-hormuz-rezaei-warns-us-bases",
   "chart": 1,
   "overlay": {
    "kicker": {
-    "en": "Saudi Arabia, Wednesday night",
-    "hi": "सऊदी अरब, बुधवार रात"
+    "en": "Strait of Hormuz, Thursday",
+    "hi": "होर्मुज़ जलडमरूमध्य, गुरुवार"
    },
    "value": {
-    "en": "US families ordered out",
-    "hi": "अमेरिकी परिवारों को निकलने का आदेश"
+    "en": "7 tankers hit in one night",
+    "hi": "एक रात में 7 टैंकर निशाने पर"
    },
    "text": {
     "en": "",
@@ -18,154 +18,154 @@
   },
   "dataBox": [
    {
-    "icon": "airplane-tilt",
+    "icon": "boat",
     "color": "#cc0000",
     "value": {
-     "en": "1 dead, 8 hurt",
-     "hi": "1 मौत, 8 घायल"
+     "en": "4",
+     "hi": "4"
     },
     "label": {
-     "en": "in the attack on Dammam airport",
-     "hi": "दम्माम हवाई अड्डे पर हमले में"
-    }
-   },
-   {
-    "icon": "users-three",
-    "color": "#8f0000",
-    "value": {
-     "en": "Non-emergency",
-     "hi": "गैर-आपात"
-    },
-    "label": {
-     "en": "US staff and families told to leave",
-     "hi": "अमेरिकी कर्मचारियों और परिवारों को जाने को कहा"
-    }
-   },
-   {
-    "icon": "factory",
-    "color": "#0d0d0d",
-    "value": {
-     "en": "2 workers",
-     "hi": "2 कामगार"
-    },
-    "label": {
-     "en": "killed by drone debris at Shaybah oilfield",
-     "hi": "शायबा तेल क्षेत्र में ड्रोन मलबे से मारे गए"
+     "en": "tankers set ablaze, IRGC says",
+     "hi": "टैंकरों में आग, आईआरजीसी का दावा"
     }
    },
    {
     "icon": "warning",
-    "color": "#6e6e6e",
+    "color": "#8f0000",
     "value": {
-     "en": "\"We may\"",
-     "hi": "\"शायद\""
+     "en": "3",
+     "hi": "3"
     },
     "label": {
-     "en": "Trump on striking the Houthis",
-     "hi": "हूतियों पर हमले पर ट्रंप"
+     "en": "ships struck mines",
+     "hi": "जहाज़ बारूदी सुरंगों से टकराए"
+    }
+   },
+   {
+    "icon": "drop",
+    "color": "#0d0d0d",
+    "value": {
+     "en": "$110+",
+     "hi": "110 डॉलर से ऊपर"
+    },
+    "label": {
+     "en": "Brent crude a barrel",
+     "hi": "ब्रेंट कच्चा तेल प्रति बैरल"
+    }
+   },
+   {
+    "icon": "anchor",
+    "color": "#6e6e6e",
+    "value": {
+     "en": "3rd",
+     "hi": "तीसरा"
+    },
+    "label": {
+     "en": "US aircraft carrier heading to the region",
+     "hi": "अमेरिकी विमानवाहक पोत क्षेत्र की ओर"
     }
    }
   ],
   "relatedBelow": [
-   "iran-hormuz-shut-until-terms-met-irgc-threatens-cables",
-   "macron-surprise-riyadh-visit-solidarity-lebanon-conference"
+   "aramco-nasser-foreign-strategic-oil-storage-asia",
+   "sensex-nifty-close-october-22-crude-110-west-asia"
   ],
   "relatedBeside": [
-   "tusk-arrives-delhi-modi-talks-thursday",
-   "delhi-grap-stage-one-aqi-245-season-first-poor-day",
-   "global-cues-wall-street-gains-brent-109-yields-october-22",
-   "putin-zelenskyy-back-three-way-talks-freeze-front-line",
-   "jansen-five-australia-99-follow-on-head-87-gqeberha"
+   "modi-tusk-india-poland-defence-space-nuclear-trade-2030",
+   "andhra-sec-halts-urban-local-body-polls-supreme-court-nomination-clashes",
+   "kyiv-ballistic-missiles-after-talks-deal-zelenskyy-humanitarians",
+   "glenn-phillips-82-new-zealand-225-india-chase-christchurch",
+   "punjab-assembly-session-adjourned-ten-minutes-congress-effigy-mann"
   ]
  },
  "briefing": {
   "items": [
    {
-    "link": "us-orders-staff-leave-saudi-arabia-dammam-airport-attack",
+    "link": "irgc-seven-tankers-hormuz-rezaei-warns-us-bases",
     "lead": {
      "en": "Gulf:",
      "hi": "खाड़ी:"
     },
     "text": {
-     "en": "US orders non-emergency staff out of Saudi Arabia; Dammam airport attack kills one.",
-     "hi": "अमेरिका ने गैर-आपात कर्मचारियों को सऊदी अरब छोड़ने को कहा; दम्माम हवाई अड्डे पर हमले में एक की मौत।"
+     "en": "Iran says seven tankers were hit near Hormuz overnight, warns US bases.",
+     "hi": "ईरान का दावा, होर्मुज़ के पास रात में सात टैंकर निशाने पर; अमेरिकी ठिकानों को चेतावनी।"
     }
    },
    {
-    "link": "tusk-arrives-delhi-modi-talks-thursday",
-    "lead": {
-     "en": "Diplomacy:",
-     "hi": "कूटनीति:"
-    },
-    "text": {
-     "en": "Polish PM Tusk meets Modi at Hyderabad House today.",
-     "hi": "पोलैंड के प्रधानमंत्री टस्क की आज हैदराबाद हाउस में मोदी से वार्ता।"
-    }
-   },
-   {
-    "link": "delhi-grap-stage-one-aqi-245-season-first-poor-day",
-    "lead": {
-     "en": "Delhi:",
-     "hi": "दिल्ली:"
-    },
-    "text": {
-     "en": "AQI hits 245, GRAP Stage I curbs begin across NCR.",
-     "hi": "एक्यूआई 245 पर, पूरे एनसीआर में ग्रैप का पहला चरण लागू।"
-    }
-   },
-   {
-    "link": "global-cues-wall-street-gains-brent-109-yields-october-22",
+    "link": "sensex-nifty-close-october-22-crude-110-west-asia",
     "lead": {
      "en": "Markets:",
      "hi": "बाज़ार:"
     },
     "text": {
-     "en": "Wall Street gains and a firmer rupee; Brent near $109.",
-     "hi": "वॉल स्ट्रीट में बढ़त, रुपया मज़बूत; ब्रेंट 109 डॉलर के क़रीब।"
+     "en": "Sensex falls about 460 points as Brent crosses $110.",
+     "hi": "ब्रेंट के 110 डॉलर पार जाने से सेंसेक्स करीब 460 अंक गिरा।"
     }
    },
    {
-    "link": "rbi-mpc-minutes-rate-cuts-off-table-two-members-oppose-tightening",
+    "link": "modi-tusk-india-poland-defence-space-nuclear-trade-2030",
     "lead": {
-     "en": "RBI:",
-     "hi": "आरबीआई:"
+     "en": "Diplomacy:",
+     "hi": "कूटनीति:"
     },
     "text": {
-     "en": "MPC minutes show rate cuts are off the table.",
-     "hi": "एमपीसी के ब्योरे से साफ़, दरों में कटौती अभी नहीं।"
+     "en": "Modi and Tusk agree to deepen defence, space and nuclear ties.",
+     "hi": "मोदी और टस्क रक्षा, अंतरिक्ष और परमाणु सहयोग बढ़ाने पर सहमत।"
     }
    },
    {
-    "link": "cjp-das-ranka-released-tihar-undertaking-jantar-mantar",
+    "link": "andhra-sec-halts-urban-local-body-polls-supreme-court-nomination-clashes",
     "lead": {
-     "en": "CJP:",
-     "hi": "सीजेपी:"
+     "en": "Andhra:",
+     "hi": "आंध्र:"
     },
     "text": {
-     "en": "Saurav Das and Ashutosh Ranka walk out of Tihar on bail.",
-     "hi": "सौरव दास और आशुतोष रांका ज़मानत पर तिहाड़ से बाहर।"
+     "en": "Poll panel halts the process in all 100 urban local bodies.",
+     "hi": "राज्य चुनाव आयोग ने सभी 100 शहरी निकायों की प्रक्रिया रोकी।"
     }
    },
    {
-    "link": "putin-zelenskyy-back-three-way-talks-freeze-front-line",
+    "link": "delhi-aqi-226-second-poor-day-caqm-dust-review-mcd",
+    "lead": {
+     "en": "Delhi air:",
+     "hi": "दिल्ली की हवा:"
+    },
+    "text": {
+     "en": "AQI 226, a second 'poor' day; CAQM orders a dust crackdown.",
+     "hi": "एक्यूआई 226, लगातार दूसरा 'खराब' दिन; सीएक्यूएम की धूल पर सख्ती।"
+    }
+   },
+   {
+    "link": "jio-ipo-retail-quota-full-day-two-3-47-times",
+    "lead": {
+     "en": "IPO:",
+     "hi": "आईपीओ:"
+    },
+    "text": {
+     "en": "Retail investors fill their Jio quota within two hours on day two.",
+     "hi": "दूसरे दिन दो घंटे में भरा जियो आईपीओ का खुदरा कोटा।"
+    }
+   },
+   {
+    "link": "kyiv-ballistic-missiles-after-talks-deal-zelenskyy-humanitarians",
     "lead": {
      "en": "Ukraine:",
      "hi": "यूक्रेन:"
     },
     "text": {
-     "en": "Putin agrees in principle to three-way talks with the US and Kyiv.",
-     "hi": "पुतिन अमेरिका और कीव के साथ त्रिपक्षीय वार्ता पर सैद्धांतिक रूप से राज़ी।"
+     "en": "Russia fires ballistic missiles at Kyiv hours after agreeing to talks.",
+     "hi": "वार्ता पर सहमति के कुछ घंटे बाद रूस ने कीव पर बैलिस्टिक मिसाइलें दागीं।"
     }
    },
    {
-    "link": "india-new-zealand-first-t20i-christchurch-iyer-santner-preview",
+    "link": "glenn-phillips-82-new-zealand-225-india-chase-christchurch",
     "lead": {
      "en": "Cricket:",
      "hi": "क्रिकेट:"
     },
     "text": {
-     "en": "India open the New Zealand T20I series in Christchurch at 12:30 pm.",
-     "hi": "भारत आज दोपहर 12:30 बजे क्राइस्टचर्च में न्यूज़ीलैंड के ख़िलाफ़ टी20 सीरीज़ शुरू करेगा।"
+     "en": "Phillips 82 not out as New Zealand set India 226 in the first T20I.",
+     "hi": "पहले टी20 में फिलिप्स के नाबाद 82, न्यूज़ीलैंड ने भारत को 226 का लक्ष्य दिया।"
     }
    }
   ]
@@ -233,27 +233,27 @@
  },
  "topStories": {
   "big": {
-   "id": "tusk-arrives-delhi-modi-talks-thursday",
+   "id": "modi-tusk-india-poland-defence-space-nuclear-trade-2030",
    "also": [
-    "india-advisory-citizens-france-protests-embassy",
-    "goyal-scotland-chile-trade-investment-talks"
+    "telecom-regulatory-sandbox-rules-2026-notified-24-months",
+    "gst-return-forms-gstr-1-amended-consultation-november-1"
    ]
   },
   "list": [
-   "congress-puri-epstein-photo-rahul-blackmail",
-   "macron-surprise-riyadh-visit-solidarity-lebanon-conference",
-   "shehbaz-indus-treaty-violation-act-of-war-maldives",
-   "fssai-notice-nestle-lactogen-pro-digestibility-claim",
-   "eternal-q2-profit-doubles-125-crore-blinkit-3500-stores"
+   "andhra-sec-halts-urban-local-body-polls-supreme-court-nomination-clashes",
+   "wangchuk-ladakh-talks-called-off-centre-promises",
+   "japan-big-b-india-reinclusion-tarique-rahman-tokyo",
+   "russian-pacific-fleet-ships-kochi-marshal-shaposhnikov",
+   "anthropic-claude-duet-proactive-agent"
   ]
  },
  "startHere": [
+  "indus-waters-treaty-explained-shehbaz-act-of-war",
+  "grap-explained-delhi-air-stages-what-is-banned",
+  "emissions-gap-report-explained-1-5-overshoot-india",
   "mecca-defence-pact-explained-turkiye-pakistan-saudi-india",
   "hot-springs-1959-police-commemoration-day-explained",
-  "bundibugyo-ebola-explained-nigeria-kenya-no-vaccine",
-  "anchor-investors-explained-jio-platforms-ipo",
-  "small-modular-reactors-explained-amazon-x-energy-india",
-  "india-new-zealand-fta-explained-what-changes"
+  "bundibugyo-ebola-explained-nigeria-kenya-no-vaccine"
  ],
  "trackers": [
   {
@@ -406,11 +406,11 @@
   }
  ],
  "opinion": [
+  "telangana-roll-revision-must-not-erase-voters-quietly",
+  "mib-advisory-tv-channels-ai-editorial",
   "race-course-mosque-deserves-due-process-not-six-days",
   "stranded-umrah-pilgrims-need-rules-for-tour-operators",
-  "human-rights-council-seats-should-not-be-handed-out",
-  "delhi-air-needs-year-round-plan-not-grap-reflex",
-  "kashmiris-travelling-home-must-be-protected"
+  "human-rights-council-seats-should-not-be-handed-out"
  ],
  "sections": [
   {
@@ -420,15 +420,15 @@
     "article": "bypoll-results-ruling-parties-win-all-six-seats"
    },
    "list": [
+    "wangchuk-ladakh-talks-called-off-centre-promises",
     "smriti-irani-khera-rss-women-row-rahul",
-    "sirsa-rahul-november-1-rally-1984-sikhs",
     "telangana-sir-electorate-may-shrink-26-per-cent"
    ],
-   "lead": "cjp-das-ranka-released-tihar-undertaking-jantar-mantar"
+   "lead": "andhra-sec-halts-urban-local-body-polls-supreme-court-nomination-clashes"
   },
   {
    "section": "economy",
-   "lead": "rbi-mpc-minutes-rate-cuts-off-table-two-members-oppose-tightening",
+   "lead": "sensex-nifty-close-october-22-crude-110-west-asia",
    "module": {
     "type": "markets",
     "indicators": [
@@ -439,29 +439,29 @@
     ]
    },
    "list": [
-    "jio-platforms-ipo-three-times-subscribed-day-one-qib",
-    "rupee-six-week-high-94-38-jio-inflows-rbi",
-    "results-today-hpcl-swiggy-havells-colgate-october-22",
-    "ihcl-q2-profit-349-crore-700-hotels-fy27"
+    "jio-ipo-retail-quota-full-day-two-3-47-times",
+    "balkrishna-industries-pirelli-joint-venture-passenger-car-tyres",
+    "igi-q2-profit-43-per-cent-shares-upper-circuit",
+    "rbi-mpc-minutes-rate-cuts-off-table-two-members-oppose-tightening"
    ]
   },
   {
    "section": "states",
-   "lead": "bay-of-bengal-second-low-pressure-cyclone-watch-tamil-nadu-rain",
+   "lead": "punjab-assembly-session-adjourned-ten-minutes-congress-effigy-mann",
    "list": [
-    "andhra-mptc-zptc-nominations-ysrcp-alleges-attacks",
-    "rajasthan-panchayat-polls-first-phase-zila-parishad-today",
-    "gorakhpur-durga-immersion-trolley-high-tension-line-three-dead"
+    "delhi-aqi-226-second-poor-day-caqm-dust-review-mcd",
+    "kakinada-kattipudi-scorpio-hits-bhavani-devotees-four-dead",
+    "devaragattu-banni-stick-fight-one-dead-100-injured-kurnool"
    ]
   },
   {
    "section": "policy",
-   "lead": "army-commanders-conference-land-warfare-doctrine-rajnath",
+   "lead": "modi-tusk-india-poland-defence-space-nuclear-trade-2030",
    "list": [
-    "mib-warns-tv-channels-programme-code-ai-caution",
-    "meity-probe-emudhra-certificate-incident-cert-in-advisory",
-    "bank-camps-2-7-lakh-panchayats-financial-inclusion-drive",
-    "india-advisory-citizens-france-protests-embassy"
+    "telecom-regulatory-sandbox-rules-2026-notified-24-months",
+    "gst-return-forms-gstr-1-amended-consultation-november-1",
+    "army-commanders-conference-land-warfare-doctrine-rajnath",
+    "mib-warns-tv-channels-programme-code-ai-caution"
    ]
   },
   {
@@ -479,56 +479,44 @@
  "desks": [
   {
    "section": "world",
-   "lead": "putin-zelenskyy-back-three-way-talks-freeze-front-line",
+   "lead": "kyiv-ballistic-missiles-after-talks-deal-zelenskyy-humanitarians",
    "list": [
-    "iran-hormuz-shut-until-terms-met-irgc-threatens-cables",
-    "trump-approval-record-low-polls-two-weeks-before-midterms",
-    "uk-approves-jackdaw-gasfield-burnham-badenoch-pmqs"
+    "pakistan-afghanistan-trade-halt-exporters-torkham-losses",
+    "bukele-threatens-haiti-gangs-abducted-soldiers",
+    "typhoon-champi-taiwan-land-warning-flights-cancelled"
    ]
   },
   {
    "section": "science",
-   "lead": "meta-muse-agents-10-million-zuckerberg-superintelligence-scaling",
+   "lead": "anthropic-claude-duet-proactive-agent",
    "list": [
-    "tesla-cybercab-dallas-next-month-optimus-fremont-line",
-    "nvidia-gtc-berlin-openshell-agent-safety-dsx-pod",
-    "unep-emissions-gap-report-1-5-overshoot-guterres"
+    "webb-wise-0855-water-clouds-change-brown-dwarf",
+    "meta-muse-agents-10-million-zuckerberg-superintelligence-scaling",
+    "france-shamonda-virus-first-human-case-death"
    ]
   },
   {
    "section": "sports",
-   "lead": "jansen-five-australia-99-follow-on-head-87-gqeberha",
+   "lead": "glenn-phillips-82-new-zealand-225-india-chase-christchurch",
    "list": [
-    "india-new-zealand-first-t20i-christchurch-iyer-santner-preview",
-    "rice-late-equaliser-arsenal-draw-bayern-saka-injury",
+    "sheetal-devi-suvarna-raj-gold-asian-para-games-day-four",
+    "jansen-five-australia-99-follow-on-head-87-gqeberha",
     "mumbai-kerala-punjab-hyderabad-win-ranji-round-two-final-day"
    ]
   }
  ],
  "weekAhead": [
   {
-   "icon": "handshake",
+   "icon": "bank",
    "date": {
-    "en": "Thu 22 Oct",
-    "hi": "गुरु, 22 अक्टूबर"
+    "en": "Fri 23 Oct",
+    "hi": "शुक्र, 23 अक्टूबर"
    },
    "text": {
-    "en": "Polish PM Donald Tusk holds talks with Modi at Hyderabad House.",
-    "hi": "पोलैंड के प्रधानमंत्री डोनाल्ड टस्क की हैदराबाद हाउस में मोदी से वार्ता।"
+    "en": "GST Council notifications due on the amended GSTR-1 return forms.",
+    "hi": "संशोधित जीएसटीआर-1 फ़ॉर्म पर जीएसटी परिषद की अधिसूचनाएँ।"
    },
-   "link": "tusk-arrives-delhi-modi-talks-thursday"
-  },
-  {
-   "icon": "cricket",
-   "date": {
-    "en": "Thu 22 Oct",
-    "hi": "गुरु, 22 अक्टूबर"
-   },
-   "text": {
-    "en": "India v New Zealand, first T20I, Christchurch, 12:30 pm IST.",
-    "hi": "भारत बनाम न्यूज़ीलैंड, पहला टी20, क्राइस्टचर्च, दोपहर 12:30 बजे।"
-   },
-   "link": "india-new-zealand-first-t20i-christchurch-iyer-santner-preview"
+   "link": "gst-return-forms-gstr-1-amended-consultation-november-1"
   },
   {
    "icon": "scales",
@@ -565,6 +553,18 @@
     "hi": "वाराणसी के नमो घाट पर वायुसेना का 'विंग्स ओवर गंगा' एयर शो।"
    },
    "link": "sarang-helicopter-team-varanasi-air-show-namo-ghat"
+  },
+  {
+   "icon": "handshake",
+   "date": {
+    "en": "Mon 26 Oct",
+    "hi": "सोम, 26 अक्टूबर"
+   },
+   "text": {
+    "en": "Tarique Rahman begins a four-day visit to Tokyo.",
+    "hi": "तारिक़ रहमान की चार दिन की टोक्यो यात्रा शुरू।"
+   },
+   "link": "japan-big-b-india-reinclusion-tarique-rahman-tokyo"
   }
  ]
 }
