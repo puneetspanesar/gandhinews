@@ -6,13 +6,13 @@ section: economy
 format_label: "Economy / Markets"
 topics: [economy]
 title: "Sensex falls for a fourth day after a 1,279-point swing as small caps crash"
-standfirst: "An early rally led by IT shares gave way to heavy selling as Brent crude neared $114 a barrel. The benchmarks clawed back much of the damage late in the day, but smaller stocks fell more than 3% and the volatility index jumped 8%."
+standfirst: "An early rally led by IT shares gave way to heavy selling as Brent crude neared $114 a barrel. The benchmarks clawed back much of the damage late in the day, but smaller stocks fell nearly 3% and the volatility index jumped 8%."
 published: 2026-10-23T15:55:00+05:30
 location: Mumbai
 keyPoints:
-  - "The Sensex ended **about 126 points lower**, its fourth straight fall, with the Nifty 50 near 22,600."
+  - "The Sensex ended **125.56 points lower at 73,123.83**, its fourth straight fall, and the Nifty 50 settled at **22,600**, down 87.65."
   - "At its worst the Sensex was down **761.92 points at 72,487.47**, some 1,279 points below the day's high."
-  - "The Nifty Smallcap index fell about **3.45%** and the India VIX rose 8%."
+  - "The Nifty Smallcap 100 closed **2.94% lower** and the India VIX rose 8%."
 hero:
   need: "The BSE building, Phiroze Jeejeebhoy Towers, on Dalal Street, Mumbai, by day"
   suggested_source: "Phiroze Jeejeebhoy Towers Dalal Street daytime"
@@ -22,7 +22,7 @@ hero:
     value: "Four days in the red"
 related: [sensex-nifty-close-october-22-crude-110-west-asia, midcap-smallcap-indices-slide-4-per-cent-margin-calls, jio-platforms-ipo-closes-subscription-final-day, q2-movers-hatsun-sterlite-bluestone-shree-cement-october-23, global-cues-nasdaq-slumps-ai-fears-brent-113-october-23]
 seo:
-  description: "Stock market close 23 October 2026: Sensex falls about 126 points for a fourth straight day, Nifty near 22,600; small caps down 3.45%, metals and realty slide, IT gains; VIX up 8%, Brent near $114."
+  description: "Stock market close 23 October 2026: Sensex falls 125.56 points to 73,123.83 for a fourth straight day, Nifty at 22,600; small caps down 2.94%, metals and realty slide, IT gains; VIX up 8%, Brent near $114."
 sources:
   - title: "Stock Market Close: Sensex falls for 4th day, ends 126 pts lower; Nifty at 22,600; VIX rises 8%"
     publisher: "Business Standard"
@@ -57,16 +57,16 @@ sources:
 verification:
   status: approved
   notes:
-    - "CLOSE FIGURES ARE HEADLINE-LEVEL ONLY: 'ends 126 pts lower; Nifty at 22,600; VIX rises 8%' from the Business Standard live-blog headline seen in search results at about 3:35 pm. Page body could only be read to 3:24 pm (Sensex 72,894.95, down 354.44; Nifty 22,516.40, down 171.25), so exact closing levels were not read. Economy dashboard deliberately NOT updated. Please replace with exact closing figures when available."
+    - "Closing figures (Sensex 73,123.83, down 125.56, 0.17%; Nifty 22,600, down 87.65, 0.39%; Midcap 100 -2.21%, Smallcap 100 -2.94%) from the Business Standard live blog closing update at 3:38 pm, read by the run editor. Dashboard updated."
     - "Opening (73,665.64, up 416.25; Nifty 22,742.20, up 54.55), FII/DII data and Ponmudi R quote from India TV. 10:59 am figures, breadth, VIX at 17, Brent $113.50 from National Herald (PTI). Intraday lows from The Week. 1,279-point fall from high from IndiaIPO headline only. 1 pm, 3 pm and 3:24 pm figures, sector leaders and laggards from Business Standard live blog."
     - "Midcap/smallcap falls (2.54%/3.45%) are Business Standard afternoon figures; may differ slightly from closing."
 ---
 
 Indian shares fell for a fourth straight session on Friday after a wide swing, as an early rally in technology stocks collapsed under the weight of rising oil prices and a fresh rout in smaller companies.
 
-The Sensex ended about 126 points lower and the Nifty 50 settled near 22,600, according to closing figures. The headline losses hid how rough the day was. At its low the Sensex was down 761.92 points at 72,487.47, roughly 1,279 points below its morning peak, before buying in the last hour pulled it back. The India VIX, the market's gauge of expected volatility, rose about 8%.
+The Sensex ended 125.56 points, or 0.17%, lower at 73,123.83, and the Nifty 50 settled at 22,600, down 87.65 points or 0.39%. The headline losses hid how rough the day was. At its low the Sensex was down 761.92 points at 72,487.47, roughly 1,279 points below its morning peak, before buying in the last hour pulled it back. The India VIX, the market's gauge of expected volatility, rose about 8%.
 
-Smaller companies had no such recovery. The Nifty Midcap index fell about 2.5% and the Nifty Smallcap index about 3.45%, extending a week-long slide that analysts have blamed on margin calls forcing leveraged retail traders to sell.
+Smaller companies had no such recovery. The Nifty Midcap 100 closed 2.21% lower and the Nifty Smallcap 100 2.94% lower, having been down more than 3% in the afternoon, extending a week-long slide that analysts have blamed on margin calls forcing leveraged retail traders to sell.
 
 ## How the day turned
 
@@ -88,7 +88,7 @@ Foreign investors added to the strain. They sold shares worth ₹3,458.70 crore 
 
 Metal and real-estate stocks fell the most. Hindalco Industries, Adani Enterprises and Tata Steel were the biggest losers in the Nifty 50, and Mahindra & Mahindra and Titan were also weak. Information technology was the only sector to gain meaningfully, as investors treated large IT exporters as a relative hedge in a nervous market.
 
-Shrikant Chouhan, head of equity research at Kotak Neo, had warned that a sustained move below 22,550 on the Nifty or 73,000 on the Sensex could intensify selling. Both levels were breached during the day.
+Shrikant Chouhan, head of equity research at Kotak Neo, had warned that a sustained move below 22,550 on the Nifty or 73,000 on the Sensex could intensify selling. Both levels were breached during the day, though the indices closed just above them.
 
 ## What comes next
 
