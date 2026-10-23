@@ -20,7 +20,7 @@ hero:
   alt: "Gurdwara Bangla Sahib in New Delhi"
   overlay:
     value: "From Bangla Sahib to the poll body"
-related: [what-india-bloc-supreme-court-petition-on-sir-asks-for, jairam-ramesh-searchable-rolls-cec-must-go-sir-suspend, cjp-das-ranka-sem-court-sureties-crime-branch-friday, gaurav-gogoi-ec-hollowed-out-gyanesh-kumar-must-go]
+related: [what-india-bloc-supreme-court-petition-on-sir-asks-for, jairam-ramesh-searchable-rolls-cec-must-go-sir-suspend, gaurav-gogoi-ec-hollowed-out-gyanesh-kumar-must-go]
 seo:
   description: "Delhi Police detained several Left and student marchers heading to the Election Commission on 23 October, demanding SIR be scrapped and CEC Gyanesh Kumar resign."
 sources:

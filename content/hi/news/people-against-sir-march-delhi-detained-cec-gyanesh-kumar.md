@@ -21,7 +21,7 @@ hero:
   alt: "नई दिल्ली में गुरुद्वारा बंगला साहिब"
   overlay:
     value: "बंगला साहिब से चुनाव आयोग की ओर"
-related: [what-india-bloc-supreme-court-petition-on-sir-asks-for, jairam-ramesh-searchable-rolls-cec-must-go-sir-suspend, cjp-das-ranka-sem-court-sureties-crime-branch-friday, gaurav-gogoi-ec-hollowed-out-gyanesh-kumar-must-go]
+related: [what-india-bloc-supreme-court-petition-on-sir-asks-for, jairam-ramesh-searchable-rolls-cec-must-go-sir-suspend, gaurav-gogoi-ec-hollowed-out-gyanesh-kumar-must-go]
 seo:
   description: "23 अक्टूबर को दिल्ली में एसआईआर रद्द करने और सीईसी ज्ञानेश कुमार के इस्तीफे की मांग को लेकर चुनाव आयोग की ओर बढ़े वाम और छात्र प्रदर्शनकारी हिरासत में।"
 sources:

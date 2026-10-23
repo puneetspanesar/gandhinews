@@ -1,15 +1,15 @@
 {
  "lead": {
-  "id": "aramco-evacuates-dhahran-hq-drones-riyadh-madinah",
+  "id": "sensex-nifty-close-october-23-smallcaps-crash-metals",
   "chart": 1,
   "overlay": {
    "kicker": {
-    "en": "Saudi Arabia, Thursday night",
-    "hi": "सऊदी अरब, गुरुवार रात"
+    "en": "Dalal Street, Friday close",
+    "hi": "दलाल स्ट्रीट, शुक्रवार का बंद"
    },
    "value": {
-    "en": "Aramco empties Dhahran HQ",
-    "hi": "अरामको ने धहरान मुख्यालय खाली कराया"
+    "en": "Fourth day in the red",
+    "hi": "लगातार चौथे दिन गिरावट"
    },
    "text": {
     "en": "",
@@ -18,154 +18,154 @@
   },
   "dataBox": [
    {
-    "icon": "airplane-tilt",
+    "icon": "trend-down",
     "color": "#cc0000",
     "value": {
-     "en": "8 drones",
-     "hi": "8 ड्रोन"
+     "en": "73,123.83",
+     "hi": "73,123.83"
     },
     "label": {
-     "en": "downed over Riyadh, Madinah and the Eastern Province",
-     "hi": "रियाद, मदीना और पूर्वी प्रांत के ऊपर गिराए गए"
+     "en": "Sensex close, down 125.56 points",
+     "hi": "सेंसेक्स का बंद स्तर, 125.56 अंक नीचे"
     }
    },
    {
-    "icon": "users-three",
+    "icon": "chart-line",
     "color": "#8f0000",
     "value": {
-     "en": "1 Indian",
-     "hi": "1 भारतीय"
+     "en": "1,279 pts",
+     "hi": "1,279 अंक"
     },
     "label": {
-     "en": "killed in the Dammam airport strike",
-     "hi": "दम्माम हवाई अड्डे पर हमले में मारा गया"
+     "en": "Sensex fall from the day's high to its low",
+     "hi": "दिन के शिखर से निचले स्तर तक सेंसेक्स की गिरावट"
     }
    },
    {
-    "icon": "drop",
+    "icon": "chart-bar",
     "color": "#0d0d0d",
     "value": {
-     "en": "$113+",
-     "hi": "113 डॉलर से ऊपर"
+     "en": "-2.94%",
+     "hi": "-2.94%"
     },
     "label": {
-     "en": "Brent, highest since May",
-     "hi": "ब्रेंट, मई के बाद सबसे ऊँचा"
+     "en": "Nifty Smallcap 100 at the close",
+     "hi": "बंद पर निफ्टी स्मॉलकैप 100"
     }
    },
    {
-    "icon": "bank",
+    "icon": "gas-pump",
     "color": "#6e6e6e",
     "value": {
-     "en": "94.82",
-     "hi": "94.82"
+     "en": "~$114",
+     "hi": "करीब 114 डॉलर"
     },
     "label": {
-     "en": "rupee to the dollar, down 44 paise",
-     "hi": "रुपया प्रति डॉलर, 44 पैसे कमज़ोर"
+     "en": "Brent crude a barrel",
+     "hi": "ब्रेंट क्रूड प्रति बैरल"
     }
    }
   ],
   "relatedBelow": [
-   "india-condemns-dammam-shaybah-attacks-indian-killed",
-   "brent-highest-since-may-gold-two-month-low"
+   "midcap-smallcap-indices-slide-4-per-cent-margin-calls",
+   "jio-platforms-ipo-closes-subscription-final-day"
   ],
   "relatedBeside": [
-   "global-cues-nasdaq-slumps-ai-fears-brent-113-october-23",
-   "india-record-chase-beat-new-zealand-christchurch-naman-dhir",
-   "imf-middle-east-pakistan-economy-contract-gulf-recession",
-   "undersea-cables-explained-iran-hormuz-threat-india-internet",
-   "ecuador-luisa-gonzalez-arrested-campaign-finance-probe"
+   "people-against-sir-march-delhi-detained-cec-gyanesh-kumar",
+   "haryana-power-strike-day-two-vij-appeal-gurugram-outages",
+   "netanyahu-west-bank-lockdown-hebron-gunfight",
+   "istanbul-ministers-hormuz-talks-trump-iran-strikes",
+   "sandeep-haney-world-records-india-100-medals-para-games"
   ]
  },
  "briefing": {
   "items": [
    {
-    "link": "aramco-evacuates-dhahran-hq-drones-riyadh-madinah",
-    "lead": {
-     "en": "Gulf:",
-     "hi": "खाड़ी:"
-    },
-    "text": {
-     "en": "Aramco clears its Dhahran headquarters as drones are downed over Riyadh and Madinah.",
-     "hi": "रियाद और मदीना पर ड्रोन गिराए गए, अरामको ने धहरान मुख्यालय खाली कराया।"
-    }
-   },
-   {
-    "link": "india-condemns-dammam-shaybah-attacks-indian-killed",
-    "lead": {
-     "en": "MEA:",
-     "hi": "विदेश मंत्रालय:"
-    },
-    "text": {
-     "en": "India condemns the Saudi attacks after one Indian is killed in Dammam.",
-     "hi": "दम्माम में एक भारतीय की मौत के बाद भारत ने हमलों की निंदा की।"
-    }
-   },
-   {
-    "link": "global-cues-nasdaq-slumps-ai-fears-brent-113-october-23",
+    "link": "sensex-nifty-close-october-23-smallcaps-crash-metals",
     "lead": {
      "en": "Markets:",
      "hi": "बाज़ार:"
     },
     "text": {
-     "en": "Nasdaq falls 2.6% and Brent tops $113 ahead of Friday's open.",
-     "hi": "शुक्रवार की शुरुआत से पहले नैस्डैक 2.6% गिरा, ब्रेंट 113 डॉलर के पार।"
+     "en": "Sensex falls a fourth day to 73,123.83; small caps down 2.94%.",
+     "hi": "सेंसेक्स लगातार चौथे दिन गिरकर 73,123.83 पर; स्मॉलकैप 2.94% नीचे।"
     }
    },
    {
-    "link": "results-today-infosys-bpcl-indusind-jsw-steel-october-23",
+    "link": "jio-platforms-ipo-closes-subscription-final-day",
     "lead": {
-     "en": "Results:",
-     "hi": "नतीजे:"
+     "en": "Jio IPO:",
+     "hi": "जियो आईपीओ:"
     },
     "text": {
-     "en": "Infosys, BPCL, IndusInd Bank and JSW Steel report today.",
-     "hi": "इन्फोसिस, बीपीसीएल, इंडसइंड बैंक और जेएसडब्ल्यू स्टील के नतीजे आज।"
+     "en": "Record issue nearly 10 times subscribed by 2 pm on the last day; listing 28 Oct.",
+     "hi": "रिकॉर्ड इश्यू आखिरी दिन दोपहर 2 बजे तक करीब 10 गुना सब्सक्राइब; लिस्टिंग 28 अक्टूबर को।"
     }
    },
    {
-    "link": "india-record-chase-beat-new-zealand-christchurch-naman-dhir",
+    "link": "people-against-sir-march-delhi-detained-cec-gyanesh-kumar",
     "lead": {
-     "en": "Cricket:",
-     "hi": "क्रिकेट:"
+     "en": "Delhi:",
+     "hi": "दिल्ली:"
     },
     "text": {
-     "en": "India chase 226 to beat New Zealand in the first T20I.",
-     "hi": "भारत ने 226 का पीछा कर पहले टी20 में न्यूज़ीलैंड को हराया।"
+     "en": "Police detain Left and student marchers heading to the Election Commission.",
+     "hi": "चुनाव आयोग की ओर बढ़ रहे वाम दलों और छात्रों को पुलिस ने हिरासत में लिया।"
     }
    },
    {
-    "link": "delhi-aqi-223-thursday-jahangirpuri-very-poor",
+    "link": "tamil-nadu-parties-walk-out-archana-patnaik-ssr-meeting",
     "lead": {
-     "en": "Delhi air:",
-     "hi": "दिल्ली की हवा:"
+     "en": "Tamil Nadu:",
+     "hi": "तमिलनाडु:"
     },
     "text": {
-     "en": "AQI 223, poor for a second day; Jahangirpuri very poor.",
-     "hi": "एक्यूआई 223, लगातार दूसरे दिन खराब; जहांगीरपुरी बहुत खराब।"
+     "en": "Nine of 12 parties walk out of the CEO's roll revision meeting.",
+     "hi": "मतदाता सूची पुनरीक्षण बैठक से 12 में से 9 दल बाहर निकले।"
     }
    },
    {
-    "link": "amit-shah-8941-crore-yamuna-sewage-projects-najafgarh",
+    "link": "haryana-power-strike-day-two-vij-appeal-gurugram-outages",
     "lead": {
-     "en": "Yamuna:",
-     "hi": "यमुना:"
+     "en": "Haryana:",
+     "hi": "हरियाणा:"
     },
     "text": {
-     "en": "Shah launches ₹8,941 crore of Delhi sewage projects.",
-     "hi": "शाह ने दिल्ली में 8,941 करोड़ रुपये की सीवेज परियोजनाएँ शुरू कीं।"
+     "en": "Power strike enters day two; outages in Gurugram, Faridabad and Nuh.",
+     "hi": "बिजली हड़ताल दूसरे दिन; गुरुग्राम, फरीदाबाद और नूंह में कटौती।"
     }
    },
    {
-    "link": "icc-wins-sakharov-prize-us-sanctions",
+    "link": "netanyahu-west-bank-lockdown-hebron-gunfight",
     "lead": {
-     "en": "Europe:",
-     "hi": "यूरोप:"
+     "en": "West Bank:",
+     "hi": "वेस्ट बैंक:"
     },
     "text": {
-     "en": "The ICC wins the Sakharov Prize two weeks after US sanctions.",
-     "hi": "अमेरिकी प्रतिबंधों के दो हफ़्ते बाद आईसीसी को सखारोव पुरस्कार।"
+     "en": "Netanyahu orders a lockdown after a checkpoint gunfight near Hebron.",
+     "hi": "हेब्रोन के पास चौकी पर गोलीबारी के बाद नेतन्याहू ने लॉकडाउन का आदेश दिया।"
+    }
+   },
+   {
+    "link": "jaishankar-azerbaijan-visit-first-in-eight-years",
+    "lead": {
+     "en": "Baku:",
+     "hi": "बाकू:"
+    },
+    "text": {
+     "en": "Jaishankar meets Aliyev on the first such visit in eight years.",
+     "hi": "आठ साल में पहली ऐसी यात्रा पर जयशंकर ने अलीयेव से मुलाकात की।"
+    }
+   },
+   {
+    "link": "sandeep-haney-world-records-india-100-medals-para-games",
+    "lead": {
+     "en": "Para Games:",
+     "hi": "पैरा खेल:"
+    },
+    "text": {
+     "en": "Two world records as India pass 100 medals.",
+     "hi": "दो विश्व रिकॉर्ड, भारत के पदक 100 के पार।"
     }
    }
   ]
@@ -233,27 +233,27 @@
  },
  "topStories": {
   "big": {
-   "id": "global-cues-nasdaq-slumps-ai-fears-brent-113-october-23",
+   "id": "jio-platforms-ipo-closes-subscription-final-day",
    "also": [
-    "results-today-infosys-bpcl-indusind-jsw-steel-october-23",
-    "rupee-falls-44-paise-94-82-crude-houthi-attacks"
+    "anchor-investors-explained-jio-platforms-ipo",
+    "swiggy-shares-slump-new-low-q2-results"
    ]
   },
   "list": [
-   "delhi-hc-neha-bora-peace-bond-notice-judgment-tuesday",
-   "bay-of-bengal-depression-october-25-odisha-fishermen-warning",
-   "shehbaz-rs160-billion-kp-package-karak-police-killed",
-   "rajya-sabha-bypoll-madhya-pradesh-murugan-seat-november-12",
-   "php2shell-flaws-governments-take-websites-offline"
+   "people-against-sir-march-delhi-detained-cec-gyanesh-kumar",
+   "tamil-nadu-parties-walk-out-archana-patnaik-ssr-meeting",
+   "up-mlc-polls-11-council-seats-voting-ballot-papers",
+   "chorbagan-stampede-two-more-arrested-announcements",
+   "fourteen-indians-yacht-yemen-safe-hodeidah"
   ]
  },
  "startHere": [
+  "depression-cyclone-explained-how-imd-grades-bay-of-bengal-storms",
+  "no-first-use-explained-india-nuclear-doctrine-un-offer",
+  "telecom-regulatory-sandbox-explained-rules-2026",
   "undersea-cables-explained-iran-hormuz-threat-india-internet",
   "indus-waters-treaty-explained-shehbaz-act-of-war",
-  "grap-explained-delhi-air-stages-what-is-banned",
-  "emissions-gap-report-explained-1-5-overshoot-india",
-  "mecca-defence-pact-explained-turkiye-pakistan-saudi-india",
-  "hot-springs-1959-police-commemoration-day-explained"
+  "grap-explained-delhi-air-stages-what-is-banned"
  ],
  "trackers": [
   {
@@ -406,11 +406,11 @@
   }
  ],
  "opinion": [
+  "ladakh-talks-must-resume-with-a-date-not-a-silence",
+  "assam-evictions-need-a-rehabilitation-plan-not-just-bulldozers",
   "devaragattu-stick-fight-tradition-cannot-excuse-a-yearly-toll",
   "telangana-roll-revision-must-not-erase-voters-quietly",
-  "mib-advisory-tv-channels-ai-editorial",
-  "race-course-mosque-deserves-due-process-not-six-days",
-  "stranded-umrah-pilgrims-need-rules-for-tour-operators"
+  "mib-advisory-tv-channels-ai-editorial"
  ],
  "sections": [
   {
@@ -420,15 +420,14 @@
     "article": "bypoll-results-ruling-parties-win-all-six-seats"
    },
    "list": [
-    "dhami-bjp-save-democracy-campaign-sir-congress",
-    "satheesan-invites-raihan-vadra-exhibition-kerala-bikaner-house",
-    "rajya-sabha-bypoll-madhya-pradesh-murugan-seat-november-12"
+    "gaurav-gogoi-ec-hollowed-out-gyanesh-kumar-must-go",
+    "doosra-releases-ganguly-delhi-high-court-no-stay"
    ],
-   "lead": "delhi-hc-neha-bora-peace-bond-notice-judgment-tuesday"
+   "lead": "people-against-sir-march-delhi-detained-cec-gyanesh-kumar"
   },
   {
    "section": "economy",
-   "lead": "meta-shares-sink-chip-stocks-rout-ai-spending-fears",
+   "lead": "jio-platforms-ipo-closes-subscription-final-day",
    "module": {
     "type": "markets",
     "indicators": [
@@ -439,30 +438,30 @@
     ]
    },
    "list": [
-    "jio-ipo-5-51-times-day-two-close-final-day",
-    "us-10-year-yield-below-5-per-cent-biggest-drop-since-2023",
-    "us-jobless-claims-194000-three-month-low",
-    "blackstone-jumps-moderna-slumps-us-movers"
+    "swiggy-shares-slump-new-low-q2-results",
+    "godrej-properties-q2-profit-falls-62-per-cent",
+    "cyient-shares-jump-11-per-cent-q2-profit-dividend",
+    "sahajanand-medical-bonfiglioli-listing-debut"
    ]
   },
   {
    "section": "states",
-   "lead": "delhi-aqi-223-thursday-jahangirpuri-very-poor",
+   "lead": "haryana-power-strike-day-two-vij-appeal-gurugram-outages",
    "list": [
-    "manendragarh-bus-hits-tree-six-dead-chhattisgarh",
-    "manipur-loktak-day-state-festival-helicopter-services",
-    "dhami-daler-mehndi-row-closed-subodh-uniyal",
-    "mp-semiconductor-summit-indore-mohan-yadav-preview"
+    "delhi-aqi-222-friday-third-poor-day-greater-noida",
+    "om-prakash-mathur-sworn-in-keralam-governor",
+    "karnataka-mlc-polls-four-council-seats-voting",
+    "bombay-hc-5-lakh-compensation-illegal-arrest"
    ]
   },
   {
    "section": "policy",
-   "lead": "amit-shah-8941-crore-yamuna-sewage-projects-najafgarh",
+   "lead": "civil-defence-master-trainers-army-600-12-states",
    "list": [
-    "india-condemns-dammam-shaybah-attacks-indian-killed",
-    "rajya-sabha-bypoll-madhya-pradesh-murugan-seat-november-12",
-    "india-condemns-dammam-shaybah-attacks-indian-killed",
-    "rajya-sabha-bypoll-madhya-pradesh-murugan-seat-november-12"
+    "modi-chinmaya-amrit-mahotsav-bharat-mandapam-youth",
+    "fisheries-investors-conclave-bhopal-49-reservoirs-lalan-singh",
+    "cdac-bank-of-india-quantum-banking-mou",
+    "cdot-sixth-centre-of-excellence-iit-bhu-6g"
    ]
   },
   {
@@ -480,56 +479,44 @@
  "desks": [
   {
    "section": "world",
-   "lead": "icc-wins-sakharov-prize-us-sanctions",
+   "lead": "istanbul-ministers-hormuz-talks-trump-iran-strikes",
    "list": [
-    "ecuador-luisa-gonzalez-arrested-campaign-finance-probe",
-    "imf-middle-east-pakistan-economy-contract-gulf-recession",
-    "macron-defence-council-sedition-weekend-protests"
+    "eu-proposes-117-russia-sanctions-listings-after-trump-diesel-deal",
+    "venezuela-first-nationwide-protest-two-years-machado-elections",
+    "tibet-earthquake-baqen-16-dead-rescue"
    ]
   },
   {
    "section": "science",
-   "lead": "php2shell-flaws-governments-take-websites-offline",
+   "lead": "anthropic-claude-formal-proofs-123-open-source-libraries",
    "list": [
-    "iphone-duo-india-sale-begins-price-2-99-lakh",
-    "webb-wise-0855-water-clouds-change-brown-dwarf",
-    "meta-muse-agents-10-million-zuckerberg-superintelligence-scaling"
+    "nvs-03-navic-satellite-gslv-launch-october-30",
+    "deepseek-minimax-clear-china-ai-export-registration",
+    "agrivoltaics-world-conference-delhi-36-projects-potential"
    ]
   },
   {
    "section": "sports",
-   "lead": "india-record-chase-beat-new-zealand-christchurch-naman-dhir",
+   "lead": "ishan-kishan-ruled-out-second-t20i-christchurch",
    "list": [
-    "ashmita-chaliha-stuns-yamaguchi-sindhu-french-open-quarters",
-    "south-africa-beat-australia-innings-gqeberha-series-level",
-    "dilip-gavit-solairaj-gold-india-88-medals-asian-para-games"
+    "nitesh-beats-pramod-sl3-final-naveen-sivakumar-gold",
+    "mona-agarwal-world-record-second-gold-50m-rifle",
+    "commonwealth-kabaddi-championship-opens-ahmedabad-india-england"
    ]
   }
  ],
  "weekAhead": [
   {
-   "icon": "bank",
+   "icon": "cricket",
    "date": {
-    "en": "Fri 23 Oct",
-    "hi": "शुक्र, 23 अक्टूबर"
+    "en": "Sat 24 Oct",
+    "hi": "शनि, 24 अक्टूबर"
    },
    "text": {
-    "en": "Infosys results after market hours; Jio IPO closes.",
-    "hi": "बाज़ार बंद होने के बाद इन्फोसिस के नतीजे; जियो आईपीओ बंद।"
+    "en": "India play New Zealand in the second T20I in Christchurch, without Ishan Kishan.",
+    "hi": "क्राइस्टचर्च में न्यूज़ीलैंड के खिलाफ दूसरा टी20, ईशान किशन के बिना।"
    },
-   "link": "results-today-infosys-bpcl-indusind-jsw-steel-october-23"
-  },
-  {
-   "icon": "trophy",
-   "date": {
-    "en": "Fri 23 Oct",
-    "hi": "शुक्र, 23 अक्टूबर"
-   },
-   "text": {
-    "en": "Sindhu and Ashmita play French Open quarter-finals.",
-    "hi": "सिंधु और अश्मिता फ़्रेंच ओपन क्वार्टर फ़ाइनल में।"
-   },
-   "link": "french-open-quarter-finals-sindhu-ashmita-friday-sport-preview"
+   "link": "ishan-kishan-ruled-out-second-t20i-christchurch"
   },
   {
    "icon": "drop",
@@ -544,28 +531,40 @@
    "link": "bay-of-bengal-depression-october-25-odisha-fishermen-warning"
   },
   {
-   "icon": "airplane-tilt",
+   "icon": "flag-checkered",
    "date": {
     "en": "Sun 25 Oct",
     "hi": "रवि, 25 अक्टूबर"
    },
    "text": {
-    "en": "IAF 'Wings Over Ganges' air show at Varanasi's Namo Ghat.",
-    "hi": "वाराणसी के नमो घाट पर वायुसेना का 'विंग्स ओवर गंगा' एयर शो।"
+    "en": "Antonelli can clinch the F1 title at the US Grand Prix.",
+    "hi": "अमेरिकी ग्रां प्री में एंटोनेली एफ1 खिताब पक्का कर सकते हैं।"
    },
-   "link": "sarang-helicopter-team-varanasi-air-show-namo-ghat"
+   "link": "antonelli-can-clinch-f1-title-austin-us-grand-prix"
   },
   {
-   "icon": "handshake",
+   "icon": "check-square",
    "date": {
-    "en": "Mon 26 Oct",
-    "hi": "सोम, 26 अक्टूबर"
+    "en": "Tue 27 Oct",
+    "hi": "मंगल, 27 अक्टूबर"
    },
    "text": {
-    "en": "Tarique Rahman begins a four-day visit to Tokyo.",
-    "hi": "तारिक़ रहमान की चार दिन की टोक्यो यात्रा शुरू।"
+    "en": "Counting for UP and Karnataka council graduates' and teachers' seats.",
+    "hi": "यूपी और कर्नाटक की परिषद की स्नातक और शिक्षक सीटों की मतगणना।"
    },
-   "link": "japan-big-b-india-reinclusion-tarique-rahman-tokyo"
+   "link": "up-mlc-polls-11-council-seats-voting-ballot-papers"
+  },
+  {
+   "icon": "bank",
+   "date": {
+    "en": "Wed 28 Oct",
+    "hi": "बुध, 28 अक्टूबर"
+   },
+   "text": {
+    "en": "Jio Platforms shares list on the exchanges.",
+    "hi": "जियो प्लेटफॉर्म्स के शेयर बाज़ार में सूचीबद्ध होंगे।"
+   },
+   "link": "jio-platforms-ipo-closes-subscription-final-day"
   }
  ]
 }
