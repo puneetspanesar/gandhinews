@@ -1,15 +1,15 @@
 {
  "lead": {
-  "id": "sensex-nifty-close-october-23-smallcaps-crash-metals",
+  "id": "mea-chinese-patrol-deviations-lac-itbp-face-offs-arunachal",
   "chart": 1,
   "overlay": {
    "kicker": {
-    "en": "Dalal Street, Friday close",
-    "hi": "दलाल स्ट्रीट, शुक्रवार का बंद"
+    "en": "India-China border, Friday",
+    "hi": "भारत-चीन सीमा, शुक्रवार"
    },
    "value": {
-    "en": "Fourth day in the red",
-    "hi": "लगातार चौथे दिन गिरावट"
+    "en": "Face-offs continue in Arunachal",
+    "hi": "अरुणाचल में आमना-सामना जारी"
    },
    "text": {
     "en": "",
@@ -18,154 +18,154 @@
   },
   "dataBox": [
    {
-    "icon": "trend-down",
+    "icon": "map-pin",
     "color": "#cc0000",
     "value": {
-     "en": "73,123.83",
-     "hi": "73,123.83"
+     "en": "Arunachal",
+     "hi": "अरुणाचल"
     },
     "label": {
-     "en": "Sensex close, down 125.56 points",
-     "hi": "सेंसेक्स का बंद स्तर, 125.56 अंक नीचे"
+     "en": "face-offs at several locations, says ITBP chief",
+     "hi": "कई जगहों पर आमना-सामना, आईटीबीपी प्रमुख ने कहा"
     }
    },
    {
-    "icon": "chart-line",
+    "icon": "megaphone",
     "color": "#8f0000",
     "value": {
-     "en": "1,279 pts",
-     "hi": "1,279 अंक"
+     "en": "MEA",
+     "hi": "विदेश मंत्रालय"
     },
     "label": {
-     "en": "Sensex fall from the day's high to its low",
-     "hi": "दिन के शिखर से निचले स्तर तक सेंसेक्स की गिरावट"
+     "en": "blames Chinese patrol deviations",
+     "hi": "चीनी गश्त के तय पैटर्न से हटने को ज़िम्मेदार बताया"
     }
    },
    {
-    "icon": "chart-bar",
+    "icon": "users-three",
     "color": "#0d0d0d",
     "value": {
-     "en": "-2.94%",
-     "hi": "-2.94%"
+     "en": "23",
+     "hi": "23"
     },
     "label": {
-     "en": "Nifty Smallcap 100 at the close",
-     "hi": "बंद पर निफ्टी स्मॉलकैप 100"
+     "en": "Modi-Xi meetings cited by Kharge",
+     "hi": "खड़गे ने मोदी-शी की 23 मुलाकातें गिनाईं"
     }
    },
    {
-    "icon": "gas-pump",
+    "icon": "calendar-blank",
     "color": "#6e6e6e",
     "value": {
-     "en": "~$114",
-     "hi": "करीब 114 डॉलर"
+     "en": "May 2020",
+     "hi": "मई 2020"
     },
     "label": {
-     "en": "Brent crude a barrel",
-     "hi": "ब्रेंट क्रूड प्रति बैरल"
+     "en": "patrol rights Congress wants restored",
+     "hi": "कांग्रेस के मुताबिक जिस गश्त अधिकार की बहाली हो"
     }
    }
   ],
   "relatedBelow": [
-   "midcap-smallcap-indices-slide-4-per-cent-margin-calls",
-   "jio-platforms-ipo-closes-subscription-final-day"
+   "itbp-65th-raising-day-kapur-drones-shaurya-commandos",
+   "jaishankar-no-agreed-border-china-stable-boundary"
   ],
   "relatedBeside": [
-   "people-against-sir-march-delhi-detained-cec-gyanesh-kumar",
-   "haryana-power-strike-day-two-vij-appeal-gurugram-outages",
-   "netanyahu-west-bank-lockdown-hebron-gunfight",
-   "istanbul-ministers-hormuz-talks-trump-iran-strikes",
-   "sandeep-haney-world-records-india-100-medals-para-games"
+   "istanbul-ministers-reject-new-iran-attack-trump-epic-fury",
+   "infosys-cuts-fy27-guidance-1-2-per-cent-q2-profit-7823-crore",
+   "andhra-parishad-nominations-close-clashes-ysrcp-high-court",
+   "india-new-zealand-second-t20i-sooryavanshi-kishan-preview",
+   "trappes-shooting-one-dead-antiterror-prosecutors-macron"
   ]
  },
  "briefing": {
   "items": [
    {
-    "link": "sensex-nifty-close-october-23-smallcaps-crash-metals",
+    "link": "mea-chinese-patrol-deviations-lac-itbp-face-offs-arunachal",
     "lead": {
-     "en": "Markets:",
-     "hi": "बाज़ार:"
+     "en": "LAC:",
+     "hi": "एलएसी:"
     },
     "text": {
-     "en": "Sensex falls a fourth day to 73,123.83; small caps down 2.94%.",
-     "hi": "सेंसेक्स लगातार चौथे दिन गिरकर 73,123.83 पर; स्मॉलकैप 2.94% नीचे।"
+     "en": "MEA blames Chinese patrol deviations as Arunachal face-offs continue.",
+     "hi": "अरुणाचल में आमना-सामना जारी, विदेश मंत्रालय ने चीनी गश्त को ज़िम्मेदार ठहराया।"
     }
    },
    {
-    "link": "jio-platforms-ipo-closes-subscription-final-day",
+    "link": "istanbul-ministers-reject-new-iran-attack-trump-epic-fury",
     "lead": {
-     "en": "Jio IPO:",
-     "hi": "जियो आईपीओ:"
+     "en": "Iran:",
+     "hi": "ईरान:"
     },
     "text": {
-     "en": "Record issue nearly 10 times subscribed by 2 pm on the last day; listing 28 Oct.",
-     "hi": "रिकॉर्ड इश्यू आखिरी दिन दोपहर 2 बजे तक करीब 10 गुना सब्सक्राइब; लिस्टिंग 28 अक्टूबर को।"
+     "en": "Eight nations meeting in Istanbul say no to a new attack on Iran.",
+     "hi": "इस्तांबुल बैठक में आठ देशों ने ईरान पर नए हमले का विरोध किया।"
     }
    },
    {
-    "link": "people-against-sir-march-delhi-detained-cec-gyanesh-kumar",
+    "link": "infosys-cuts-fy27-guidance-1-2-per-cent-q2-profit-7823-crore",
     "lead": {
-     "en": "Delhi:",
-     "hi": "दिल्ली:"
+     "en": "Infosys:",
+     "hi": "इन्फोसिस:"
     },
     "text": {
-     "en": "Police detain Left and student marchers heading to the Election Commission.",
-     "hi": "चुनाव आयोग की ओर बढ़ रहे वाम दलों और छात्रों को पुलिस ने हिरासत में लिया।"
+     "en": "growth forecast cut to 1-2% despite $5.2 billion in large deals.",
+     "hi": "बड़े सौदों के बावजूद विकास अनुमान घटाकर 1-2%।"
     }
    },
    {
-    "link": "tamil-nadu-parties-walk-out-archana-patnaik-ssr-meeting",
+    "link": "andhra-parishad-nominations-close-clashes-ysrcp-high-court",
     "lead": {
-     "en": "Tamil Nadu:",
-     "hi": "तमिलनाडु:"
+     "en": "Andhra:",
+     "hi": "आंध्र:"
     },
     "text": {
-     "en": "Nine of 12 parties walk out of the CEO's roll revision meeting.",
-     "hi": "मतदाता सूची पुनरीक्षण बैठक से 12 में से 9 दल बाहर निकले।"
+     "en": "rural poll nominations close amid clashes; YSRCP goes to court.",
+     "hi": "झड़पों के बीच ग्रामीण चुनाव नामांकन बंद; वाईएसआरसीपी हाईकोर्ट पहुंची।"
     }
    },
    {
-    "link": "haryana-power-strike-day-two-vij-appeal-gurugram-outages",
+    "link": "siwan-firecracker-blast-five-dead-alampur-sho-suspended",
     "lead": {
-     "en": "Haryana:",
-     "hi": "हरियाणा:"
+     "en": "Bihar:",
+     "hi": "बिहार:"
     },
     "text": {
-     "en": "Power strike enters day two; outages in Gurugram, Faridabad and Nuh.",
-     "hi": "बिजली हड़ताल दूसरे दिन; गुरुग्राम, फरीदाबाद और नूंह में कटौती।"
+     "en": "five killed in a firecracker blast in a Siwan house.",
+     "hi": "सीवान में घर में पटाखा विस्फोट से पांच की मौत।"
     }
    },
    {
-    "link": "netanyahu-west-bank-lockdown-hebron-gunfight",
+    "link": "jordan-karak-church-funeral-shooting-seven-killed",
     "lead": {
-     "en": "West Bank:",
-     "hi": "वेस्ट बैंक:"
+     "en": "Jordan:",
+     "hi": "जॉर्डन:"
     },
     "text": {
-     "en": "Netanyahu orders a lockdown after a checkpoint gunfight near Hebron.",
-     "hi": "हेब्रोन के पास चौकी पर गोलीबारी के बाद नेतन्याहू ने लॉकडाउन का आदेश दिया।"
+     "en": "gunmen kill seven at a church funeral in Karak.",
+     "hi": "करक में चर्च में अंतिम संस्कार के दौरान गोलीबारी, सात की मौत।"
     }
    },
    {
-    "link": "jaishankar-azerbaijan-visit-first-in-eight-years",
-    "lead": {
-     "en": "Baku:",
-     "hi": "बाकू:"
-    },
-    "text": {
-     "en": "Jaishankar meets Aliyev on the first such visit in eight years.",
-     "hi": "आठ साल में पहली ऐसी यात्रा पर जयशंकर ने अलीयेव से मुलाकात की।"
-    }
-   },
-   {
-    "link": "sandeep-haney-world-records-india-100-medals-para-games",
+    "link": "india-record-114-medals-asian-para-games-antil-sweep",
     "lead": {
      "en": "Para Games:",
      "hi": "पैरा खेल:"
     },
     "text": {
-     "en": "Two world records as India pass 100 medals.",
-     "hi": "दो विश्व रिकॉर्ड, भारत के पदक 100 के पार।"
+     "en": "India finish with a record 114 medals.",
+     "hi": "भारत ने रिकॉर्ड 114 पदकों के साथ अभियान खत्म किया।"
+    }
+   },
+   {
+    "link": "india-new-zealand-second-t20i-sooryavanshi-kishan-preview",
+    "lead": {
+     "en": "Cricket:",
+     "hi": "क्रिकेट:"
+    },
+    "text": {
+     "en": "India chase a 2-0 lead in Christchurch today.",
+     "hi": "क्राइस्टचर्च में आज 2-0 की बढ़त पर भारत की नज़र।"
     }
    }
   ]
@@ -233,27 +233,27 @@
  },
  "topStories": {
   "big": {
-   "id": "jio-platforms-ipo-closes-subscription-final-day",
+   "id": "istanbul-ministers-reject-new-iran-attack-trump-epic-fury",
    "also": [
-    "anchor-investors-explained-jio-platforms-ipo",
-    "swiggy-shares-slump-new-low-q2-results"
+    "mea-3000-umrah-pilgrims-return-medicines-iran-flights",
+    "global-cues-week-ahead-wall-street-crude-dollar-october-26"
    ]
   },
   "list": [
-   "people-against-sir-march-delhi-detained-cec-gyanesh-kumar",
-   "tamil-nadu-parties-walk-out-archana-patnaik-ssr-meeting",
-   "up-mlc-polls-11-council-seats-voting-ballot-papers",
-   "chorbagan-stampede-two-more-arrested-announcements",
-   "fourteen-indians-yacht-yemen-safe-hodeidah"
+   "priyanka-chaturvedi-ec-silence-commissioners-dissent-cec-removal",
+   "trivedi-rahul-foreign-trips-priyank-kharge-raw-retort",
+   "imran-masood-detained-jamia-protest-student-union-polls",
+   "kerala-hc-declines-urgent-hearing-vijayan-cmrl-appeal-monday",
+   "supreme-court-dsssb-gender-wise-teacher-posts-transgender"
   ]
  },
  "startHere": [
+  "margin-calls-explained-why-small-caps-fell-so-fast",
   "depression-cyclone-explained-how-imd-grades-bay-of-bengal-storms",
   "no-first-use-explained-india-nuclear-doctrine-un-offer",
   "telecom-regulatory-sandbox-explained-rules-2026",
   "undersea-cables-explained-iran-hormuz-threat-india-internet",
-  "indus-waters-treaty-explained-shehbaz-act-of-war",
-  "grap-explained-delhi-air-stages-what-is-banned"
+  "indus-waters-treaty-explained-shehbaz-act-of-war"
  ],
  "trackers": [
   {
@@ -406,11 +406,11 @@
   }
  ],
  "opinion": [
+  "illegal-arrests-must-cost-the-officers-who-make-them",
   "ladakh-talks-must-resume-with-a-date-not-a-silence",
   "assam-evictions-need-a-rehabilitation-plan-not-just-bulldozers",
   "devaragattu-stick-fight-tradition-cannot-excuse-a-yearly-toll",
-  "telangana-roll-revision-must-not-erase-voters-quietly",
-  "mib-advisory-tv-channels-ai-editorial"
+  "telangana-roll-revision-must-not-erase-voters-quietly"
  ],
  "sections": [
   {
@@ -420,14 +420,15 @@
     "article": "bypoll-results-ruling-parties-win-all-six-seats"
    },
    "list": [
-    "gaurav-gogoi-ec-hollowed-out-gyanesh-kumar-must-go",
-    "doosra-releases-ganguly-delhi-high-court-no-stay"
+    "andhra-parishad-nominations-close-clashes-ysrcp-high-court",
+    "seeman-ntk-protests-collectorates-saturday-karthiga-arrest",
+    "kerala-hc-declines-urgent-hearing-vijayan-cmrl-appeal-monday"
    ],
    "lead": "people-against-sir-march-delhi-detained-cec-gyanesh-kumar"
   },
   {
    "section": "economy",
-   "lead": "jio-platforms-ipo-closes-subscription-final-day",
+   "lead": "infosys-cuts-fy27-guidance-1-2-per-cent-q2-profit-7823-crore",
    "module": {
     "type": "markets",
     "indicators": [
@@ -438,30 +439,29 @@
     ]
    },
    "list": [
-    "swiggy-shares-slump-new-low-q2-results",
-    "godrej-properties-q2-profit-falls-62-per-cent",
-    "cyient-shares-jump-11-per-cent-q2-profit-dividend",
-    "sahajanand-medical-bonfiglioli-listing-debut"
+    "week-ahead-results-data-calendar-october-26-30",
+    "indusind-bank-q2-profit-1242-crore-turnaround-rajiv-anand",
+    "jio-platforms-ipo-subscribed-22-times-listing-october-28",
+    "forex-reserves-fall-sixth-week-721-billion-october-16"
    ]
   },
   {
    "section": "states",
-   "lead": "haryana-power-strike-day-two-vij-appeal-gurugram-outages",
+   "lead": "siwan-firecracker-blast-five-dead-alampur-sho-suspended",
    "list": [
-    "delhi-aqi-222-friday-third-poor-day-greater-noida",
-    "om-prakash-mathur-sworn-in-keralam-governor",
-    "karnataka-mlc-polls-four-council-seats-voting",
-    "bombay-hc-5-lakh-compensation-illegal-arrest"
+    "delhi-aqi-230-friday-manesar-greater-noida-poor",
+    "sukhu-bjp-five-factions-16-mlas-will-not-win",
+    "cbi-arrests-ed-officials-lucknow-5-lakh-bribe"
    ]
   },
   {
    "section": "policy",
-   "lead": "civil-defence-master-trainers-army-600-12-states",
+   "lead": "mea-3000-umrah-pilgrims-return-medicines-iran-flights",
    "list": [
-    "modi-chinmaya-amrit-mahotsav-bharat-mandapam-youth",
-    "fisheries-investors-conclave-bhopal-49-reservoirs-lalan-singh",
-    "cdac-bank-of-india-quantum-banking-mou",
-    "cdot-sixth-centre-of-excellence-iit-bhu-6g"
+    "modi-varanasi-kedarnath-visit-october-24-25-preview",
+    "sonowal-opens-sagarmala-finance-office-60205-crore-target",
+    "nagastra-2-loitering-munition-delivered-indian-army",
+    "india-un-kargil-bodies-pakistan-funeral-rights-rapporteur"
    ]
   },
   {
@@ -479,11 +479,11 @@
  "desks": [
   {
    "section": "world",
-   "lead": "istanbul-ministers-hormuz-talks-trump-iran-strikes",
+   "lead": "trappes-shooting-one-dead-antiterror-prosecutors-macron",
    "list": [
-    "eu-proposes-117-russia-sanctions-listings-after-trump-diesel-deal",
-    "venezuela-first-nationwide-protest-two-years-machado-elections",
-    "tibet-earthquake-baqen-16-dead-rescue"
+    "melania-trump-oleshky-ceasefire-october-27-white-house",
+    "pakistan-saudi-ratify-makkah-pact-zardari-berlin",
+    "jordan-karak-church-funeral-shooting-seven-killed"
    ]
   },
   {
@@ -497,11 +497,11 @@
   },
   {
    "section": "sports",
-   "lead": "ishan-kishan-ruled-out-second-t20i-christchurch",
+   "lead": "india-new-zealand-second-t20i-sooryavanshi-kishan-preview",
    "list": [
-    "nitesh-beats-pramod-sl3-final-naveen-sivakumar-gold",
-    "mona-agarwal-world-record-second-gold-50m-rifle",
-    "commonwealth-kabaddi-championship-opens-ahmedabad-india-england"
+    "sindhu-beats-chiu-french-open-semis-akechi-ashmita-out",
+    "india-record-114-medals-asian-para-games-antil-sweep",
+    "leclerc-tops-austin-practice-antonelli-second"
    ]
   }
  ],
@@ -513,22 +513,22 @@
     "hi": "शनि, 24 अक्टूबर"
    },
    "text": {
-    "en": "India play New Zealand in the second T20I in Christchurch, without Ishan Kishan.",
-    "hi": "क्राइस्टचर्च में न्यूज़ीलैंड के खिलाफ दूसरा टी20, ईशान किशन के बिना।"
+    "en": "India play New Zealand in the second T20I in Christchurch, 12:30 pm IST.",
+    "hi": "क्राइस्टचर्च में न्यूज़ीलैंड से दूसरा टी20, दोपहर 12:30 बजे।"
    },
-   "link": "ishan-kishan-ruled-out-second-t20i-christchurch"
+   "link": "india-new-zealand-second-t20i-sooryavanshi-kishan-preview"
   },
   {
-   "icon": "drop",
+   "icon": "flag-banner",
    "date": {
-    "en": "Sun 25 Oct",
-    "hi": "रवि, 25 अक्टूबर"
+    "en": "Sat 24 Oct",
+    "hi": "शनि, 24 अक्टूबर"
    },
    "text": {
-    "en": "Bay of Bengal depression expected; fishermen told to stay ashore.",
-    "hi": "बंगाल की खाड़ी में अवदाब की आशंका; मछुआरों को समुद्र में न जाने की सलाह।"
+    "en": "Modi due in Varanasi; Kedarnath corridor review to follow.",
+    "hi": "मोदी वाराणसी पहुंचेंगे; फिर केदारनाथ कॉरिडोर की समीक्षा।"
    },
-   "link": "bay-of-bengal-depression-october-25-odisha-fishermen-warning"
+   "link": "modi-varanasi-kedarnath-visit-october-24-25-preview"
   },
   {
    "icon": "flag-checkered",
@@ -545,14 +545,14 @@
   {
    "icon": "check-square",
    "date": {
-    "en": "Tue 27 Oct",
-    "hi": "मंगल, 27 अक्टूबर"
+    "en": "Sun 25 Oct",
+    "hi": "रवि, 25 अक्टूबर"
    },
    "text": {
-    "en": "Counting for UP and Karnataka council graduates' and teachers' seats.",
-    "hi": "यूपी और कर्नाटक की परिषद की स्नातक और शिक्षक सीटों की मतगणना।"
+    "en": "Brazil votes in the Lula-Flávio Bolsonaro runoff.",
+    "hi": "ब्राज़ील में लूला और फ्लावियो बोलसोनारो के बीच निर्णायक मतदान।"
    },
-   "link": "up-mlc-polls-11-council-seats-voting-ballot-papers"
+   "link": "brazil-runoff-sunday-lula-flavio-final-globo-debate"
   },
   {
    "icon": "bank",
@@ -561,10 +561,10 @@
     "hi": "बुध, 28 अक्टूबर"
    },
    "text": {
-    "en": "Jio Platforms shares list on the exchanges.",
-    "hi": "जियो प्लेटफॉर्म्स के शेयर बाज़ार में सूचीबद्ध होंगे।"
+    "en": "Jio Platforms lists; the US Fed decides on rates.",
+    "hi": "जियो प्लेटफॉर्म्स की लिस्टिंग; अमेरिकी फेड का ब्याज दर फ़ैसला।"
    },
-   "link": "jio-platforms-ipo-closes-subscription-final-day"
+   "link": "week-ahead-results-data-calendar-october-26-30"
   }
  ]
 }
