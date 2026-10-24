@@ -1,15 +1,15 @@
 {
  "lead": {
-  "id": "mea-chinese-patrol-deviations-lac-itbp-face-offs-arunachal",
+  "id": "houthi-missiles-riyadh-taif-yanbu-saudi-alerts-makkah-jeddah",
   "chart": 1,
   "overlay": {
    "kicker": {
-    "en": "India-China border, Friday",
-    "hi": "भारत-चीन सीमा, शुक्रवार"
+    "en": "Saudi Arabia, Saturday",
+    "hi": "सऊदी अरब, शनिवार"
    },
    "value": {
-    "en": "Face-offs continue in Arunachal",
-    "hi": "अरुणाचल में आमना-सामना जारी"
+    "en": "Sirens from Riyadh to the Red Sea",
+    "hi": "रियाद से लाल सागर तक सायरन"
    },
    "text": {
     "en": "",
@@ -18,154 +18,154 @@
   },
   "dataBox": [
    {
-    "icon": "map-pin",
+    "icon": "rocket",
     "color": "#cc0000",
     "value": {
-     "en": "Arunachal",
-     "hi": "अरुणाचल"
+     "en": "3 cities",
+     "hi": "3 शहर"
     },
     "label": {
-     "en": "face-offs at several locations, says ITBP chief",
-     "hi": "कई जगहों पर आमना-सामना, आईटीबीपी प्रमुख ने कहा"
+     "en": "Riyadh, Taif and Yanbu targeted by Houthi missiles",
+     "hi": "रियाद, ताइफ़ और यानबू पर हूती मिसाइलें"
     }
    },
    {
-    "icon": "megaphone",
+    "icon": "warning",
     "color": "#8f0000",
     "value": {
-     "en": "MEA",
-     "hi": "विदेश मंत्रालय"
+     "en": "4 provinces",
+     "hi": "4 प्रांत"
     },
     "label": {
-     "en": "blames Chinese patrol deviations",
-     "hi": "चीनी गश्त के तय पैटर्न से हटने को ज़िम्मेदार बताया"
+     "en": "'potential danger' alerts, Makkah and Jeddah included",
+     "hi": "में \"संभावित ख़तरे\" की चेतावनी, मक्का और जेद्दा भी"
+    }
+   },
+   {
+    "icon": "clock",
+    "color": "#0d0d0d",
+    "value": {
+     "en": "4 am",
+     "hi": "सुबह 4 बजे"
+    },
+    "label": {
+     "en": "first alert over Riyadh, two blasts heard",
+     "hi": "रियाद में पहली चेतावनी, दो धमाके सुने गए"
     }
    },
    {
     "icon": "users-three",
-    "color": "#0d0d0d",
-    "value": {
-     "en": "23",
-     "hi": "23"
-    },
-    "label": {
-     "en": "Modi-Xi meetings cited by Kharge",
-     "hi": "खड़गे ने मोदी-शी की 23 मुलाकातें गिनाईं"
-    }
-   },
-   {
-    "icon": "calendar-blank",
     "color": "#6e6e6e",
     "value": {
-     "en": "May 2020",
-     "hi": "मई 2020"
+     "en": "Indians",
+     "hi": "भारतीय"
     },
     "label": {
-     "en": "patrol rights Congress wants restored",
-     "hi": "कांग्रेस के मुताबिक जिस गश्त अधिकार की बहाली हो"
+     "en": "embassy advice: shelter indoors during alerts",
+     "hi": "दूतावास की सलाह: चेतावनी के दौरान घर के अंदर रहें"
     }
    }
   ],
   "relatedBelow": [
-   "itbp-65th-raising-day-kapur-drones-shaurya-commandos",
-   "jaishankar-no-agreed-border-china-stable-boundary"
+   "iran-abdollahi-no-us-warships-gulf-pezeshkian-moscow",
+   "yemen-hiba-taiz-strike-family-killed-saada-migrant-shelter"
   ],
   "relatedBeside": [
-   "istanbul-ministers-reject-new-iran-attack-trump-epic-fury",
-   "infosys-cuts-fy27-guidance-1-2-per-cent-q2-profit-7823-crore",
-   "andhra-parishad-nominations-close-clashes-ysrcp-high-court",
-   "india-new-zealand-second-t20i-sooryavanshi-kishan-preview",
-   "trappes-shooting-one-dead-antiterror-prosecutors-macron"
+   "ravi-shankar-prasad-rahul-november-1-rally-sikh-traders",
+   "kotak-mahindra-bank-q2-profit-rises-26-per-cent-fcnr",
+   "crimea-blackout-russia-ukraine-strikes-oleshky-ceasefire",
+   "phillips-jacobs-lift-new-zealand-180-india-chase-christchurch",
+   "modi-varanasi-garment-unit-air-show-rbi-data-centre-sunday"
   ]
  },
  "briefing": {
   "items": [
    {
-    "link": "mea-chinese-patrol-deviations-lac-itbp-face-offs-arunachal",
+    "link": "houthi-missiles-riyadh-taif-yanbu-saudi-alerts-makkah-jeddah",
     "lead": {
-     "en": "LAC:",
-     "hi": "एलएसी:"
+     "en": "Gulf:",
+     "hi": "खाड़ी:"
     },
     "text": {
-     "en": "MEA blames Chinese patrol deviations as Arunachal face-offs continue.",
-     "hi": "अरुणाचल में आमना-सामना जारी, विदेश मंत्रालय ने चीनी गश्त को ज़िम्मेदार ठहराया।"
+     "en": "Houthi missiles at Riyadh, Taif and Yanbu; alerts sound over Makkah.",
+     "hi": "रियाद, ताइफ़ और यानबू पर हूती मिसाइलें; मक्का में भी चेतावनी।"
     }
    },
    {
-    "link": "istanbul-ministers-reject-new-iran-attack-trump-epic-fury",
+    "link": "ravi-shankar-prasad-rahul-november-1-rally-sikh-traders",
     "lead": {
-     "en": "Iran:",
-     "hi": "ईरान:"
+     "en": "Politics:",
+     "hi": "राजनीति:"
     },
     "text": {
-     "en": "Eight nations meeting in Istanbul say no to a new attack on Iran.",
-     "hi": "इस्तांबुल बैठक में आठ देशों ने ईरान पर नए हमले का विरोध किया।"
+     "en": "BJP says the 1 November INDIA bloc rally date hurts Sikh sentiment.",
+     "hi": "भाजपा बोली, इंडिया गठबंधन की 1 नवंबर रैली की तारीख से सिख भावनाएं आहत।"
     }
    },
    {
-    "link": "infosys-cuts-fy27-guidance-1-2-per-cent-q2-profit-7823-crore",
+    "link": "kotak-mahindra-bank-q2-profit-rises-26-per-cent-fcnr",
     "lead": {
-     "en": "Infosys:",
-     "hi": "इन्फोसिस:"
+     "en": "Results:",
+     "hi": "नतीजे:"
     },
     "text": {
-     "en": "growth forecast cut to 1-2% despite $5.2 billion in large deals.",
-     "hi": "बड़े सौदों के बावजूद विकास अनुमान घटाकर 1-2%।"
+     "en": "Kotak's Q2 profit up 26% to ₹5,645 crore.",
+     "hi": "कोटक का दूसरी तिमाही का मुनाफ़ा 26% बढ़कर ₹5,645 करोड़।"
     }
    },
    {
-    "link": "andhra-parishad-nominations-close-clashes-ysrcp-high-court",
+    "link": "delhi-aqi-185-moderate-saturday-farm-fires",
     "lead": {
-     "en": "Andhra:",
-     "hi": "आंध्र:"
+     "en": "Delhi:",
+     "hi": "दिल्ली:"
     },
     "text": {
-     "en": "rural poll nominations close amid clashes; YSRCP goes to court.",
-     "hi": "झड़पों के बीच ग्रामीण चुनाव नामांकन बंद; वाईएसआरसीपी हाईकोर्ट पहुंची।"
+     "en": "Air improves to AQI 185, moderate; farm fires climb.",
+     "hi": "हवा सुधरकर एक्यूआई 185, मध्यम; पराली की आग बढ़ी।"
     }
    },
    {
-    "link": "siwan-firecracker-blast-five-dead-alampur-sho-suspended",
+    "link": "omar-abdullah-cabinet-reshuffle-next-week-sajjan-singh-yadav-chief-secretary",
     "lead": {
-     "en": "Bihar:",
-     "hi": "बिहार:"
+     "en": "J&K:",
+     "hi": "जम्मू-कश्मीर:"
     },
     "text": {
-     "en": "five killed in a firecracker blast in a Siwan house.",
-     "hi": "सीवान में घर में पटाखा विस्फोट से पांच की मौत।"
+     "en": "Omar Abdullah to reshuffle his cabinet next week.",
+     "hi": "उमर अब्दुल्ला अगले हफ़्ते मंत्रिमंडल में फेरबदल करेंगे।"
     }
    },
    {
-    "link": "jordan-karak-church-funeral-shooting-seven-killed",
+    "link": "crimea-blackout-russia-ukraine-strikes-oleshky-ceasefire",
     "lead": {
-     "en": "Jordan:",
-     "hi": "जॉर्डन:"
+     "en": "Ukraine:",
+     "hi": "यूक्रेन:"
     },
     "text": {
-     "en": "gunmen kill seven at a church funeral in Karak.",
-     "hi": "करक में चर्च में अंतिम संस्कार के दौरान गोलीबारी, सात की मौत।"
+     "en": "All of occupied Crimea loses power after strikes.",
+     "hi": "हमलों के बाद पूरे कब्ज़े वाले क्रीमिया में बिजली गुल।"
     }
    },
    {
-    "link": "india-record-114-medals-asian-para-games-antil-sweep",
+    "link": "pollard-named-mumbai-indians-head-coach-replaces-jayawardene",
     "lead": {
-     "en": "Para Games:",
-     "hi": "पैरा खेल:"
+     "en": "IPL:",
+     "hi": "आईपीएल:"
     },
     "text": {
-     "en": "India finish with a record 114 medals.",
-     "hi": "भारत ने रिकॉर्ड 114 पदकों के साथ अभियान खत्म किया।"
+     "en": "Kieron Pollard named Mumbai Indians head coach.",
+     "hi": "कीरोन पोलार्ड मुंबई इंडियंस के मुख्य कोच बने।"
     }
    },
    {
-    "link": "india-new-zealand-second-t20i-sooryavanshi-kishan-preview",
+    "link": "sbi-says-funds-safe-suspected-data-breach",
     "lead": {
-     "en": "Cricket:",
-     "hi": "क्रिकेट:"
+     "en": "Banking:",
+     "hi": "बैंकिंग:"
     },
     "text": {
-     "en": "India chase a 2-0 lead in Christchurch today.",
-     "hi": "क्राइस्टचर्च में आज 2-0 की बढ़त पर भारत की नज़र।"
+     "en": "SBI says customers' funds are safe after a suspected data leak.",
+     "hi": "संदिग्ध डेटा लीक के बाद एसबीआई बोला, ग्राहकों का पैसा सुरक्षित।"
     }
    }
   ]
@@ -233,27 +233,27 @@
  },
  "topStories": {
   "big": {
-   "id": "istanbul-ministers-reject-new-iran-attack-trump-epic-fury",
+   "id": "ravi-shankar-prasad-rahul-november-1-rally-sikh-traders",
    "also": [
-    "mea-3000-umrah-pilgrims-return-medicines-iran-flights",
-    "global-cues-week-ahead-wall-street-crude-dollar-october-26"
+    "kapil-sibal-bhagwat-regime-change-democratic-means",
+    "venugopal-letter-christian-families-paschim-medinipur"
    ]
   },
   "list": [
-   "priyanka-chaturvedi-ec-silence-commissioners-dissent-cec-removal",
-   "trivedi-rahul-foreign-trips-priyank-kharge-raw-retort",
-   "imran-masood-detained-jamia-protest-student-union-polls",
-   "kerala-hc-declines-urgent-hearing-vijayan-cmrl-appeal-monday",
-   "supreme-court-dsssb-gender-wise-teacher-posts-transgender"
+   "jairam-ramesh-ec-software-ecinet-up-mlc-voter-list",
+   "pil-supreme-court-expert-panel-election-commission-vishal-tiwari",
+   "delhi-hc-rejects-neha-bora-peace-bond-plea-aisa-wont-sign",
+   "sp-seat-sharing-formula-finalised-rajbhar-congress-up-2027",
+   "gaurav-gogoi-manipur-still-burning-three-years"
   ]
  },
  "startHere": [
+  "navic-explained-why-nvs-03-launch-matters",
+  "how-rbi-defends-rupee-forex-reserves-explained",
+  "why-tibet-himalaya-earthquakes-explained-india-risk",
   "margin-calls-explained-why-small-caps-fell-so-fast",
   "depression-cyclone-explained-how-imd-grades-bay-of-bengal-storms",
-  "no-first-use-explained-india-nuclear-doctrine-un-offer",
-  "telecom-regulatory-sandbox-explained-rules-2026",
-  "undersea-cables-explained-iran-hormuz-threat-india-internet",
-  "indus-waters-treaty-explained-shehbaz-act-of-war"
+  "no-first-use-explained-india-nuclear-doctrine-un-offer"
  ],
  "trackers": [
   {
@@ -406,11 +406,11 @@
   }
  ],
  "opinion": [
+  "borrowed-money-small-caps-sebi-must-watch-margin-funding",
+  "illegal-firecracker-units-need-checks-before-diwali",
   "illegal-arrests-must-cost-the-officers-who-make-them",
   "ladakh-talks-must-resume-with-a-date-not-a-silence",
-  "assam-evictions-need-a-rehabilitation-plan-not-just-bulldozers",
-  "devaragattu-stick-fight-tradition-cannot-excuse-a-yearly-toll",
-  "telangana-roll-revision-must-not-erase-voters-quietly"
+  "assam-evictions-need-a-rehabilitation-plan-not-just-bulldozers"
  ],
  "sections": [
   {
@@ -420,15 +420,15 @@
     "article": "bypoll-results-ruling-parties-win-all-six-seats"
    },
    "list": [
-    "andhra-parishad-nominations-close-clashes-ysrcp-high-court",
-    "seeman-ntk-protests-collectorates-saturday-karthiga-arrest",
-    "kerala-hc-declines-urgent-hearing-vijayan-cmrl-appeal-monday"
+    "yogi-tech-sangam-lucknow-industry-refused-sp-summit",
+    "kapil-sibal-bhagwat-regime-change-democratic-means",
+    "jairam-ramesh-ec-software-ecinet-up-mlc-voter-list"
    ],
    "lead": "people-against-sir-march-delhi-detained-cec-gyanesh-kumar"
   },
   {
    "section": "economy",
-   "lead": "infosys-cuts-fy27-guidance-1-2-per-cent-q2-profit-7823-crore",
+   "lead": "kotak-mahindra-bank-q2-profit-rises-26-per-cent-fcnr",
    "module": {
     "type": "markets",
     "indicators": [
@@ -439,29 +439,29 @@
     ]
    },
    "list": [
-    "week-ahead-results-data-calendar-october-26-30",
-    "indusind-bank-q2-profit-1242-crore-turnaround-rajiv-anand",
-    "jio-platforms-ipo-subscribed-22-times-listing-october-28",
-    "forex-reserves-fall-sixth-week-721-billion-october-16"
+    "sebi-pandey-graded-compliance-stockbrokers-anmi",
+    "jsw-steel-q2-profit-5359-crore-utkal-jfe-expansion",
+    "au-small-finance-bank-q2-profit-rises-53-per-cent",
+    "adani-power-q2-profit-jumps-142-per-cent"
    ]
   },
   {
    "section": "states",
-   "lead": "siwan-firecracker-blast-five-dead-alampur-sho-suspended",
+   "lead": "omar-abdullah-cabinet-reshuffle-next-week-sajjan-singh-yadav-chief-secretary",
    "list": [
-    "delhi-aqi-230-friday-manesar-greater-noida-poor",
-    "imran-masood-detained-jamia-protest-student-union-polls",
-    "cbi-arrests-ed-officials-lucknow-5-lakh-bribe"
+    "delhi-aqi-185-moderate-saturday-farm-fires",
+    "saraka-laboratories-chloroform-leak-two-workers-dead-sangareddy",
+    "nilgiris-landslide-bus-driver-killed-passengers-escape"
    ]
   },
   {
    "section": "policy",
-   "lead": "mea-3000-umrah-pilgrims-return-medicines-iran-flights",
+   "lead": "modi-varanasi-garment-unit-air-show-rbi-data-centre-sunday",
    "list": [
-    "modi-varanasi-kedarnath-visit-october-24-25-preview",
-    "sonowal-opens-sagarmala-finance-office-60205-crore-target",
-    "nagastra-2-loitering-munition-delivered-indian-army",
-    "india-un-kargil-bodies-pakistan-funeral-rights-rapporteur"
+    "farmer-ids-11-crore-target-agristack",
+    "india-third-largest-arms-exporter-europe-defence-secretary",
+    "murmu-mayurbhanj-visit-postponed-cyclone-november-4",
+    "himachal-320-pg-medical-seats-nadda-415-crore"
    ]
   },
   {
@@ -479,68 +479,56 @@
  "desks": [
   {
    "section": "world",
-   "lead": "trappes-shooting-one-dead-antiterror-prosecutors-macron",
+   "lead": "crimea-blackout-russia-ukraine-strikes-oleshky-ceasefire",
    "list": [
-    "melania-trump-oleshky-ceasefire-october-27-white-house",
-    "pakistan-saudi-ratify-makkah-pact-zardari-berlin",
-    "jordan-karak-church-funeral-shooting-seven-killed"
+    "lula-flavio-final-globo-debate-clash-runoff-eve",
+    "hebron-closures-al-jalda-families-displaced",
+    "france-70000-police-saturday-protests-louvre-shut"
    ]
   },
   {
    "section": "science",
-   "lead": "anthropic-claude-formal-proofs-123-open-source-libraries",
+   "lead": "openai-trains-on-cached-web-no-live-internet",
    "list": [
-    "nvs-03-navic-satellite-gslv-launch-october-30",
-    "deepseek-minimax-clear-china-ai-export-registration",
-    "agrivoltaics-world-conference-delhi-36-projects-potential"
+    "sbi-says-funds-safe-suspected-data-breach",
+    "ashoke-sen-first-indian-oskar-klein-medal",
+    "amur-falcons-apapang-alang-return-manipur"
    ]
   },
   {
    "section": "sports",
-   "lead": "india-new-zealand-second-t20i-sooryavanshi-kishan-preview",
+   "lead": "phillips-jacobs-lift-new-zealand-180-india-chase-christchurch",
    "list": [
-    "sindhu-beats-chiu-french-open-semis-akechi-ashmita-out",
-    "india-record-114-medals-asian-para-games-antil-sweep",
-    "leclerc-tops-austin-practice-antonelli-second"
+    "pollard-named-mumbai-indians-head-coach-replaces-jayawardene",
+    "india-a-bowled-out-113-simon-keene-five-lincoln",
+    "india-para-games-114-medals-compared-hangzhou-2023"
    ]
   }
  ],
  "weekAhead": [
   {
-   "icon": "cricket",
-   "date": {
-    "en": "Sat 24 Oct",
-    "hi": "शनि, 24 अक्टूबर"
-   },
-   "text": {
-    "en": "India play New Zealand in the second T20I in Christchurch, 12:30 pm IST.",
-    "hi": "क्राइस्टचर्च में न्यूज़ीलैंड से दूसरा टी20, दोपहर 12:30 बजे।"
-   },
-   "link": "india-new-zealand-second-t20i-sooryavanshi-kishan-preview"
-  },
-  {
    "icon": "flag-banner",
-   "date": {
-    "en": "Sat 24 Oct",
-    "hi": "शनि, 24 अक्टूबर"
-   },
-   "text": {
-    "en": "Modi due in Varanasi; Kedarnath corridor review to follow.",
-    "hi": "मोदी वाराणसी पहुंचेंगे; फिर केदारनाथ कॉरिडोर की समीक्षा।"
-   },
-   "link": "modi-varanasi-kedarnath-visit-october-24-25-preview"
-  },
-  {
-   "icon": "flag-checkered",
    "date": {
     "en": "Sun 25 Oct",
     "hi": "रवि, 25 अक्टूबर"
    },
    "text": {
-    "en": "Antonelli can clinch the F1 title at the US Grand Prix.",
-    "hi": "अमेरिकी ग्रां प्री में एंटोनेली एफ1 खिताब पक्का कर सकते हैं।"
+    "en": "Modi in Varanasi for an air show, then Bhubaneswar for an RBI data centre.",
+    "hi": "मोदी वाराणसी में एयर शो देखेंगे, फिर भुवनेश्वर में आरबीआई डेटा सेंटर।"
    },
-   "link": "antonelli-can-clinch-f1-title-austin-us-grand-prix"
+   "link": "modi-varanasi-garment-unit-air-show-rbi-data-centre-sunday"
+  },
+  {
+   "icon": "cricket",
+   "date": {
+    "en": "Sun 25 Oct",
+    "hi": "रवि, 25 अक्टूबर"
+   },
+   "text": {
+    "en": "India women play Zimbabwe in the second ODI in Vadodara.",
+    "hi": "वडोदरा में भारतीय महिला टीम का ज़िम्बाब्वे से दूसरा वनडे।"
+   },
+   "link": "india-women-zimbabwe-second-odi-vadodara-rawal-preview"
   },
   {
    "icon": "check-square",
@@ -553,6 +541,18 @@
     "hi": "ब्राज़ील में लूला और फ्लावियो बोलसोनारो के बीच निर्णायक मतदान।"
    },
    "link": "brazil-runoff-sunday-lula-flavio-final-globo-debate"
+  },
+  {
+   "icon": "flag-checkered",
+   "date": {
+    "en": "Sun 25 Oct",
+    "hi": "रवि, 25 अक्टूबर"
+   },
+   "text": {
+    "en": "Antonelli can clinch the F1 title at the US Grand Prix.",
+    "hi": "अमेरिकी ग्रां प्री में एंटोनेली एफ1 खिताब पक्का कर सकते हैं।"
+   },
+   "link": "antonelli-can-clinch-f1-title-austin-us-grand-prix"
   },
   {
    "icon": "bank",

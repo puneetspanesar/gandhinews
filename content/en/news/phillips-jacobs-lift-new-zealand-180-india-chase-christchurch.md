@@ -6,13 +6,14 @@ section: sports
 format_label: "Sports / Cricket"
 topics: []
 title: "Phillips and Jacobs rescue New Zealand to 180 as India chase in Christchurch"
-standfirst: "From 41 for three, the pair added 116 to set India 181 in the second T20I at Hagley Oval. Mitchell Santner then struck twice as the visitors went after a 2-0 series lead."
+standfirst: "From 41 for three, the pair added 116 to set India 181 in the second T20I at Hagley Oval. Naman Dhir fought back for India before Mitchell Santner removed him for 31."
 published: 2026-10-24T15:40:00+05:30
+updated: 2026-10-24T15:55:00+05:30
 location: Christchurch
 keyPoints:
   - "Glenn Phillips made **70 off 43 balls** and Bevon Jacobs 58 as New Zealand recovered to 180 for five."
   - "Arshdeep Singh was India's best bowler with **two for 33**."
-  - "India lost Sanju Samson early, and **Santner removed Shreyas Iyer and Axar Patel** in the chase."
+  - "In the chase, **Naman Dhir made 31** before Santner, who also had Iyer and Axar, removed him."
 hero:
   need: "Glenn Phillips batting for New Zealand, or Hagley Oval in Christchurch"
   suggested_source: "Glenn Phillips"
@@ -54,6 +55,16 @@ sources:
     date: 2026-10-24
     url: "https://www.india.com/sports/cricket/india-vs-new-zealand-2026-live-score-2nd-t20i-match-24-oct-ind-vs-nz-squad-players-list-shreyas-iyer-mitchell-santner-vaibhav-sooryavanshi-hagley-oval-christchurch-8538764/"
     primary: false
+  - title: "India vs New Zealand, 2nd T20I match live score: Mitchell Santner strikes, Naman Dhir out for 31"
+    publisher: "India.com"
+    date: 2026-10-24
+    url: "https://www.india.com/sports/cricket/india-vs-new-zealand-2026-live-score-2nd-t20i-match-24-oct-ind-vs-nz-squad-players-list-shreyas-iyer-mitchell-santner-vaibhav-sooryavanshi-hagley-oval-christchurch-8538764/"
+    primary: false
+  - title: "NZ vs IND 2nd T20I live report - Naman Dhir brings India back in 181 chase"
+    publisher: "ESPNcricinfo"
+    date: 2026-10-24
+    url: "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-2nd-t20i-1539433/live-match-blog"
+    primary: false
   - title: "New Zealand v India, 2nd T20I match centre"
     publisher: "Wisden"
     date: 2026-10-24
@@ -62,6 +73,7 @@ sources:
 verification:
   status: approved
   notes:
+    - "Update about 3:55 pm IST: final result still not readable from any accessible source (cricinfo blocked, India.com/Outlook/BCCI pages served cached pre-chase content). Dhir 31 and Santner wicket from India.com and Outlook live-page titles; cricinfo title says Dhir brought India back. Outlook title says hosts stare at defeat but its framing of hosts is unclear; not used. Result still needs adding."
     - "Chase position as of about 3:30 pm IST rests only on search-result headlines: ESPNcricinfo live blog title ('Samson falls early in chase of 181') and India.com live page title ('Santner strikes twice, dismisses Shreyas and Axar'). Neither page body could be read (cricinfo blocked, India.com body served an older cached preview). No chase score, overs or Sooryavanshi score confirmed; result not known. Update needed when the match ends."
     - "NZ XI: NewsDrum and Sports Digest toss story say Jacob Duffy replaced Adam Milne; the Sports Digest innings story says NZ were unchanged. Went with Duffy for Milne (two reports)."
     - "Daryl Mitchell's score not reported; wicket credited to Bhuvneshwar in both sources. Bracewell 10 off 2 from NewsDrum only."
@@ -70,7 +82,7 @@ verification:
 
 Glenn Phillips and Bevon Jacobs dragged New Zealand out of trouble at Hagley Oval on Saturday, turning 41 for three into 180 for five and setting India 181 to win the second T20I and go 2-0 up in the five-match series.
 
-By mid-afternoon in India the chase was in the balance. Sanju Samson fell early, and New Zealand captain Mitchell Santner then struck twice, removing his opposite number Shreyas Iyer and Axar Patel. The match, which began at 12:30 pm IST, was still going at the time of writing.
+By mid-afternoon in India the chase was in the balance. Sanju Samson fell early, and New Zealand captain Mitchell Santner struck twice to remove his opposite number Shreyas Iyer and Axar Patel. Naman Dhir, the hero of Thursday's win, then dragged India back into the contest before Santner had him too, for 31. The match, which began at 12:30 pm IST, was still going at the time of writing.
 
 ## How New Zealand recovered
 

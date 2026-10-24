@@ -7,13 +7,14 @@ section: sports
 format_label: "खेल / क्रिकेट"
 topics: []
 title: "फिलिप्स और जैकब्स ने न्यूजीलैंड को 180 तक पहुंचाया, क्राइस्टचर्च में भारत का पीछा जारी"
-standfirst: "41 रन पर तीन विकेट गंवाने के बाद दोनों ने 116 रन जोड़े और हैगली ओवल में दूसरे टी20 में भारत को 181 का लक्ष्य दिया। इसके बाद मिचेल सैंटनर ने दो झटके दिए।"
+standfirst: "41 रन पर तीन विकेट गंवाने के बाद दोनों ने 116 रन जोड़े और हैगली ओवल में दूसरे टी20 में भारत को 181 का लक्ष्य दिया। भारत की ओर से नमन धीर ने वापसी कराई, लेकिन मिचेल सैंटनर ने उन्हें 31 रन पर आउट किया।"
 published: 2026-10-24T15:40:00+05:30
+updated: 2026-10-24T15:55:00+05:30
 location: क्राइस्टचर्च
 keyPoints:
   - "ग्लेन फिलिप्स ने **43 गेंदों पर 70 रन** और बेवन जैकब्स ने 58 रन बनाए, न्यूजीलैंड ने 5 विकेट पर 180 रन बनाए।"
   - "अर्शदीप सिंह **33 रन देकर 2 विकेट** के साथ भारत के सबसे सफल गेंदबाज रहे।"
-  - "भारत ने संजू सैमसन को जल्दी गंवाया और **सैंटनर ने श्रेयस अय्यर और अक्षर पटेल** को आउट किया।"
+  - "लक्ष्य का पीछा करते हुए **नमन धीर ने 31 रन** बनाए, फिर अय्यर और अक्षर को आउट करने वाले सैंटनर ने उन्हें भी चलता किया।"
 hero:
   need: "न्यूजीलैंड के लिए बल्लेबाजी करते ग्लेन फिलिप्स, या क्राइस्टचर्च का हैगली ओवल"
   suggested_source: "Glenn Phillips"
@@ -55,6 +56,16 @@ sources:
     date: 2026-10-24
     url: "https://www.india.com/sports/cricket/india-vs-new-zealand-2026-live-score-2nd-t20i-match-24-oct-ind-vs-nz-squad-players-list-shreyas-iyer-mitchell-santner-vaibhav-sooryavanshi-hagley-oval-christchurch-8538764/"
     primary: false
+  - title: "India vs New Zealand, 2nd T20I match live score: Mitchell Santner strikes, Naman Dhir out for 31"
+    publisher: "India.com"
+    date: 2026-10-24
+    url: "https://www.india.com/sports/cricket/india-vs-new-zealand-2026-live-score-2nd-t20i-match-24-oct-ind-vs-nz-squad-players-list-shreyas-iyer-mitchell-santner-vaibhav-sooryavanshi-hagley-oval-christchurch-8538764/"
+    primary: false
+  - title: "NZ vs IND 2nd T20I live report - Naman Dhir brings India back in 181 chase"
+    publisher: "ESPNcricinfo"
+    date: 2026-10-24
+    url: "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-2nd-t20i-1539433/live-match-blog"
+    primary: false
   - title: "New Zealand v India, 2nd T20I match centre"
     publisher: "Wisden"
     date: 2026-10-24
@@ -68,7 +79,7 @@ verification:
 
 हैगली ओवल में शनिवार को ग्लेन फिलिप्स और बेवन जैकब्स ने न्यूजीलैंड को मुश्किल से निकाला। 41 रन पर तीन विकेट से टीम 5 विकेट पर 180 रन तक पहुंची और भारत को दूसरा टी20 और पांच मैचों की सीरीज में 2-0 की बढ़त हासिल करने के लिए 181 रन का लक्ष्य मिला।
 
-दोपहर बाद तक मुकाबला बराबरी पर था। संजू सैमसन जल्दी आउट हो गए और फिर न्यूजीलैंड के कप्तान मिचेल सैंटनर ने दो विकेट लेकर भारतीय कप्तान श्रेयस अय्यर और अक्षर पटेल को पवेलियन भेजा। भारतीय समय के अनुसार दोपहर 12:30 बजे शुरू हुआ मैच यह खबर लिखे जाने तक जारी था।
+दोपहर बाद तक मुकाबला बराबरी पर था। संजू सैमसन जल्दी आउट हो गए और फिर न्यूजीलैंड के कप्तान मिचेल सैंटनर ने दो विकेट लेकर भारतीय कप्तान श्रेयस अय्यर और अक्षर पटेल को पवेलियन भेजा। गुरुवार की जीत के हीरो नमन धीर ने भारत को मुकाबले में वापस लाने की कोशिश की, लेकिन सैंटनर ने उन्हें भी 31 रन पर आउट कर दिया। भारतीय समय के अनुसार दोपहर 12:30 बजे शुरू हुआ मैच यह खबर लिखे जाने तक जारी था।
 
 ## न्यूजीलैंड ने कैसे वापसी की
 
