@@ -1,15 +1,15 @@
 {
  "lead": {
-  "id": "houthi-missiles-riyadh-taif-yanbu-saudi-alerts-makkah-jeddah",
+  "id": "cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-landfall",
   "chart": 1,
   "overlay": {
    "kicker": {
-    "en": "Saudi Arabia, Saturday",
-    "hi": "सऊदी अरब, शनिवार"
+    "en": "Bay of Bengal, Sunday morning",
+    "hi": "बंगाल की खाड़ी, रविवार सुबह"
    },
    "value": {
-    "en": "Sirens from Riyadh to the Red Sea",
-    "hi": "रियाद से लाल सागर तक सायरन"
+    "en": "Landfall due 28 Oct, gusts to 140 km/h",
+    "hi": "28 अक्टूबर को तट से टकराने का अनुमान, 140 किमी/घंटा तक झोंके"
    },
    "text": {
     "en": "",
@@ -18,154 +18,154 @@
   },
   "dataBox": [
    {
-    "icon": "rocket",
+    "icon": "warning",
     "color": "#cc0000",
     "value": {
-     "en": "3 cities",
-     "hi": "3 शहर"
+     "en": "140 km/h",
+     "hi": "140 किमी/घंटा"
     },
     "label": {
-     "en": "Riyadh, Taif and Yanbu targeted by Houthi missiles",
-     "hi": "रियाद, ताइफ़ और यानबू पर हूती मिसाइलें"
+     "en": "forecast gusts at landfall",
+     "hi": "तट पार करते समय झोंकों का अनुमान"
     }
    },
    {
-    "icon": "warning",
+    "icon": "map-pin",
     "color": "#8f0000",
     "value": {
-     "en": "4 provinces",
-     "hi": "4 प्रांत"
+     "en": "Bapatla to Vizag",
+     "hi": "बापटला से विशाखापत्तनम"
     },
     "label": {
-     "en": "'potential danger' alerts, Makkah and Jeddah included",
-     "hi": "में \"संभावित ख़तरे\" की चेतावनी, मक्का और जेद्दा भी"
+     "en": "stretch where it may cross the coast",
+     "hi": "तट का वह हिस्सा जहाँ से गुज़र सकता है"
     }
    },
    {
-    "icon": "clock",
+    "icon": "calendar-check",
     "color": "#0d0d0d",
     "value": {
-     "en": "4 am",
-     "hi": "सुबह 4 बजे"
+     "en": "28 Oct",
+     "hi": "28 अक्टूबर"
     },
     "label": {
-     "en": "first alert over Riyadh, two blasts heard",
-     "hi": "रियाद में पहली चेतावनी, दो धमाके सुने गए"
+     "en": "expected landfall, Wednesday forenoon",
+     "hi": "बुधवार दोपहर से पहले संभावित लैंडफॉल"
     }
    },
    {
-    "icon": "users-three",
+    "icon": "drop",
     "color": "#6e6e6e",
     "value": {
-     "en": "Indians",
-     "hi": "भारतीय"
+     "en": "5 districts",
+     "hi": "5 ज़िले"
     },
     "label": {
-     "en": "embassy advice: shelter indoors during alerts",
-     "hi": "दूतावास की सलाह: चेतावनी के दौरान घर के अंदर रहें"
+     "en": "of south Odisha on red rain warning",
+     "hi": "दक्षिण ओडिशा में भारी बारिश का रेड अलर्ट"
     }
    }
   ],
   "relatedBelow": [
-   "iran-abdollahi-no-us-warships-gulf-pezeshkian-moscow",
-   "yemen-hiba-taiz-strike-family-killed-saada-migrant-shelter"
+   "odisha-cancels-collectors-leave-schools-shut-cyclone-arnab",
+   "depression-cyclone-explained-how-imd-grades-bay-of-bengal-storms"
   ],
   "relatedBeside": [
-   "ravi-shankar-prasad-rahul-november-1-rally-sikh-traders",
-   "kotak-mahindra-bank-q2-profit-rises-26-per-cent-fcnr",
-   "crimea-blackout-russia-ukraine-strikes-oleshky-ceasefire",
-   "phillips-jacobs-lift-new-zealand-180-india-chase-christchurch",
-   "modi-varanasi-garment-unit-air-show-rbi-data-centre-sunday"
+   "india-bloc-public-impeachment-cec-october-30-dilli-chalo",
+   "tilak-nitish-india-beat-new-zealand-2-0-christchurch",
+   "saudi-says-houthis-aimed-missiles-makkah-madina-houthis-deny",
+   "week-ahead-cues-brent-116-fed-ecb-boj-gift-nifty-flat",
+   "pasighat-vandalism-siang-dam-bandh-khandu-khera"
   ]
  },
  "briefing": {
   "items": [
    {
-    "link": "houthi-missiles-riyadh-taif-yanbu-saudi-alerts-makkah-jeddah",
+    "link": "cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-landfall",
+    "lead": {
+     "en": "Cyclone:",
+     "hi": "चक्रवात:"
+    },
+    "text": {
+     "en": "Arnab set to hit the Andhra coast on 28 October; Odisha on red alert.",
+     "hi": "अर्णब 28 अक्टूबर को आंध्र तट से टकरा सकता है; ओडिशा में रेड अलर्ट।"
+    }
+   },
+   {
+    "link": "india-bloc-public-impeachment-cec-october-30-dilli-chalo",
+    "lead": {
+     "en": "Opposition:",
+     "hi": "विपक्ष:"
+    },
+    "text": {
+     "en": "INDIA bloc plans a 'public impeachment' of the CEC on 30 October.",
+     "hi": "इंडिया गठबंधन 30 अक्टूबर को सीईसी का \"जन महाभियोग\" करेगा।"
+    }
+   },
+   {
+    "link": "tilak-nitish-india-beat-new-zealand-2-0-christchurch",
+    "lead": {
+     "en": "Cricket:",
+     "hi": "क्रिकेट:"
+    },
+    "text": {
+     "en": "Tilak and Nitish take India from 70 for five to a 2-0 series lead.",
+     "hi": "तिलक और नीतीश ने 70 पर 5 से उबारकर भारत को 2-0 की बढ़त दिलाई।"
+    }
+   },
+   {
+    "link": "saudi-says-houthis-aimed-missiles-makkah-madina-houthis-deny",
     "lead": {
      "en": "Gulf:",
      "hi": "खाड़ी:"
     },
     "text": {
-     "en": "Houthi missiles at Riyadh, Taif and Yanbu; alerts sound over Makkah.",
-     "hi": "रियाद, ताइफ़ और यानबू पर हूती मिसाइलें; मक्का में भी चेतावनी।"
+     "en": "Saudi Arabia says it stopped Houthi missiles aimed at Makkah and Madina.",
+     "hi": "सऊदी अरब का दावा, मक्का-मदीना की ओर दागी हूती मिसाइलें रोकीं।"
     }
    },
    {
-    "link": "ravi-shankar-prasad-rahul-november-1-rally-sikh-traders",
+    "link": "pasighat-vandalism-siang-dam-bandh-khandu-khera",
     "lead": {
-     "en": "Politics:",
-     "hi": "राजनीति:"
+     "en": "Arunachal:",
+     "hi": "अरुणाचल:"
     },
     "text": {
-     "en": "BJP says the 1 November INDIA bloc rally date hurts Sikh sentiment.",
-     "hi": "भाजपा बोली, इंडिया गठबंधन की 1 नवंबर रैली की तारीख से सिख भावनाएं आहत।"
+     "en": "Homes of BJP chief and two MLAs ransacked after Siang dam bandh.",
+     "hi": "सियांग बांध बंद के बाद भाजपा प्रदेश अध्यक्ष और दो विधायकों के घरों में तोड़फोड़।"
     }
    },
    {
-    "link": "kotak-mahindra-bank-q2-profit-rises-26-per-cent-fcnr",
+    "link": "week-ahead-cues-brent-116-fed-ecb-boj-gift-nifty-flat",
     "lead": {
-     "en": "Results:",
-     "hi": "नतीजे:"
+     "en": "Markets:",
+     "hi": "बाज़ार:"
     },
     "text": {
-     "en": "Kotak's Q2 profit up 26% to ₹5,645 crore.",
-     "hi": "कोटक का दूसरी तिमाही का मुनाफ़ा 26% बढ़कर ₹5,645 करोड़।"
+     "en": "Brent at a six-month high as five central banks meet this week.",
+     "hi": "ब्रेंट छह महीने के ऊँचे स्तर पर; इस हफ़्ते पाँच केंद्रीय बैंकों के फ़ैसले।"
     }
    },
    {
-    "link": "delhi-aqi-185-moderate-saturday-farm-fires",
+    "link": "sindhu-beats-akechi-french-open-final-an-se-young",
     "lead": {
-     "en": "Delhi:",
-     "hi": "दिल्ली:"
+     "en": "Badminton:",
+     "hi": "बैडमिंटन:"
     },
     "text": {
-     "en": "Air improves to AQI 185, moderate; farm fires climb.",
-     "hi": "हवा सुधरकर एक्यूआई 185, मध्यम; पराली की आग बढ़ी।"
+     "en": "Sindhu reaches the French Open final against An Se-young.",
+     "hi": "सिंधु फ़्रेंच ओपन फ़ाइनल में, सामने एन से-यंग।"
     }
    },
    {
-    "link": "omar-abdullah-cabinet-reshuffle-next-week-sajjan-singh-yadav-chief-secretary",
+    "link": "france-410000-protest-nearly-1000-arrested-nunez",
     "lead": {
-     "en": "J&K:",
-     "hi": "जम्मू-कश्मीर:"
+     "en": "France:",
+     "hi": "फ़्रांस:"
     },
     "text": {
-     "en": "Omar Abdullah to reshuffle his cabinet next week.",
-     "hi": "उमर अब्दुल्ला अगले हफ़्ते मंत्रिमंडल में फेरबदल करेंगे।"
-    }
-   },
-   {
-    "link": "crimea-blackout-russia-ukraine-strikes-oleshky-ceasefire",
-    "lead": {
-     "en": "Ukraine:",
-     "hi": "यूक्रेन:"
-    },
-    "text": {
-     "en": "All of occupied Crimea loses power after strikes.",
-     "hi": "हमलों के बाद पूरे कब्ज़े वाले क्रीमिया में बिजली गुल।"
-    }
-   },
-   {
-    "link": "pollard-named-mumbai-indians-head-coach-replaces-jayawardene",
-    "lead": {
-     "en": "IPL:",
-     "hi": "आईपीएल:"
-    },
-    "text": {
-     "en": "Kieron Pollard named Mumbai Indians head coach.",
-     "hi": "कीरोन पोलार्ड मुंबई इंडियंस के मुख्य कोच बने।"
-    }
-   },
-   {
-    "link": "sbi-says-funds-safe-suspected-data-breach",
-    "lead": {
-     "en": "Banking:",
-     "hi": "बैंकिंग:"
-    },
-    "text": {
-     "en": "SBI says customers' funds are safe after a suspected data leak.",
-     "hi": "संदिग्ध डेटा लीक के बाद एसबीआई बोला, ग्राहकों का पैसा सुरक्षित।"
+     "en": "Nearly 1,000 arrested as 4.1 lakh march on a second protest weekend.",
+     "hi": "दूसरे सप्ताहांत के प्रदर्शनों में 4.1 लाख लोग सड़कों पर, करीब 1,000 गिरफ़्तार।"
     }
    }
   ]
@@ -233,27 +233,27 @@
  },
  "topStories": {
   "big": {
-   "id": "ravi-shankar-prasad-rahul-november-1-rally-sikh-traders",
+   "id": "india-bloc-public-impeachment-cec-october-30-dilli-chalo",
    "also": [
-    "kapil-sibal-bhagwat-regime-change-democratic-means",
-    "venugopal-letter-christian-families-paschim-medinipur"
+    "hyderabad-tank-bund-protest-sir-rollback-parakala-prabhakar",
+    "assam-congress-vote-rakshaks-polling-booths-roll-revision"
    ]
   },
   "list": [
-   "jairam-ramesh-ec-software-ecinet-up-mlc-voter-list",
-   "pil-supreme-court-expert-panel-election-commission-vishal-tiwari",
-   "delhi-hc-rejects-neha-bora-peace-bond-plea-aisa-wont-sign",
-   "sp-seat-sharing-formula-finalised-rajbhar-congress-up-2027",
-   "gaurav-gogoi-manipur-still-burning-three-years"
+   "saudi-says-houthis-aimed-missiles-makkah-madina-houthis-deny",
+   "air-india-suspends-riyadh-dammam-flights-november-7",
+   "iran-envoy-islamabad-hormuz-offer-pezeshkian-no-war-no-peace",
+   "india-pakistan-un-third-committee-vacate-occupied-kashmir",
+   "ed-supreme-court-newsclick-fir-quashed-delhi-hc"
   ]
  },
  "startHere": [
+  "farmer-id-explained-digital-agriculture-mission",
+  "depression-cyclone-explained-how-imd-grades-bay-of-bengal-storms",
   "navic-explained-why-nvs-03-launch-matters",
   "how-rbi-defends-rupee-forex-reserves-explained",
   "why-tibet-himalaya-earthquakes-explained-india-risk",
-  "margin-calls-explained-why-small-caps-fell-so-fast",
-  "depression-cyclone-explained-how-imd-grades-bay-of-bengal-storms",
-  "no-first-use-explained-india-nuclear-doctrine-un-offer"
+  "margin-calls-explained-why-small-caps-fell-so-fast"
  ],
  "trackers": [
   {
@@ -406,11 +406,11 @@
   }
  ],
  "opinion": [
+  "banks-must-tell-customers-about-data-breaches-now",
   "borrowed-money-small-caps-sebi-must-watch-margin-funding",
   "illegal-firecracker-units-need-checks-before-diwali",
   "illegal-arrests-must-cost-the-officers-who-make-them",
-  "ladakh-talks-must-resume-with-a-date-not-a-silence",
-  "assam-evictions-need-a-rehabilitation-plan-not-just-bulldozers"
+  "ladakh-talks-must-resume-with-a-date-not-a-silence"
  ],
  "sections": [
   {
@@ -420,15 +420,15 @@
     "article": "bypoll-results-ruling-parties-win-all-six-seats"
    },
    "list": [
-    "yogi-tech-sangam-lucknow-industry-refused-sp-summit",
-    "kapil-sibal-bhagwat-regime-change-democratic-means",
-    "jairam-ramesh-ec-software-ecinet-up-mlc-voter-list"
+    "siddaramaiah-sting-video-accused-ritesh-pandey-bail",
+    "dhami-akhilesh-uttarakhand-infiltrators-remark-congress",
+    "agra-teachers-seat-repoll-three-booths-october-26"
    ],
-   "lead": "people-against-sir-march-delhi-detained-cec-gyanesh-kumar"
+   "lead": "pasighat-vandalism-siang-dam-bandh-khandu-khera"
   },
   {
    "section": "economy",
-   "lead": "kotak-mahindra-bank-q2-profit-rises-26-per-cent-fcnr",
+   "lead": "week-ahead-cues-brent-116-fed-ecb-boj-gift-nifty-flat",
    "module": {
     "type": "markets",
     "indicators": [
@@ -439,29 +439,29 @@
     ]
    },
    "list": [
-    "sebi-pandey-graded-compliance-stockbrokers-anmi",
-    "jsw-steel-q2-profit-5359-crore-utkal-jfe-expansion",
-    "au-small-finance-bank-q2-profit-rises-53-per-cent",
-    "adani-power-q2-profit-jumps-142-per-cent"
+    "idfc-first-bank-q2-profit-triples-1045-crore-fcnr",
+    "central-bank-week-results-l-t-maruti-hul-us-gdp-iip",
+    "ipos-next-week-eaaa-sfc-bls-polymers-jio-listing",
+    "fii-net-sellers-2697-crore-week-dii-buy-10942-crore"
    ]
   },
   {
    "section": "states",
-   "lead": "omar-abdullah-cabinet-reshuffle-next-week-sajjan-singh-yadav-chief-secretary",
+   "lead": "delhi-aqi-191-saturday-best-october-24-decade-sirsa",
    "list": [
-    "delhi-aqi-185-moderate-saturday-farm-fires",
-    "saraka-laboratories-chloroform-leak-two-workers-dead-sangareddy",
-    "nilgiris-landslide-bus-driver-killed-passengers-escape"
+    "odisha-cancels-collectors-leave-schools-shut-cyclone-arnab",
+    "sapkal-thane-purnekar-murder-police-protecting-masterminds",
+    "srfti-students-naseeruddin-shah-payal-kapadia-solidarity"
    ]
   },
   {
    "section": "policy",
-   "lead": "modi-varanasi-garment-unit-air-show-rbi-data-centre-sunday",
+   "lead": "air-india-suspends-riyadh-dammam-flights-november-7",
    "list": [
-    "farmer-ids-11-crore-target-agristack",
-    "india-third-largest-arms-exporter-europe-defence-secretary",
-    "murmu-mayurbhanj-visit-postponed-cyclone-november-4",
-    "himachal-320-pg-medical-seats-nadda-415-crore"
+    "india-pakistan-un-third-committee-vacate-occupied-kashmir",
+    "amit-shah-delhi-police-hq-security-review-rekha-gupta",
+    "dghs-warns-hospitals-reuse-single-use-medical-devices",
+    "rajnath-varanasi-yogi-wings-over-ganga-air-show"
    ]
   },
   {
@@ -479,92 +479,92 @@
  "desks": [
   {
    "section": "world",
-   "lead": "crimea-blackout-russia-ukraine-strikes-oleshky-ceasefire",
+   "lead": "saudi-says-houthis-aimed-missiles-makkah-madina-houthis-deny",
    "list": [
-    "lula-flavio-final-globo-debate-clash-runoff-eve",
-    "hebron-closures-al-jalda-families-displaced",
-    "france-70000-police-saturday-protests-louvre-shut"
+    "ukraine-starshield-restored-musk-violated-terms",
+    "france-410000-protest-nearly-1000-arrested-nunez",
+    "iran-envoy-islamabad-hormuz-offer-pezeshkian-no-war-no-peace"
    ]
   },
   {
    "section": "science",
-   "lead": "openai-trains-on-cached-web-no-live-internet",
+   "lead": "intismeran-melanoma-vaccine-cuts-recurrence-42-per-cent-esmo",
    "list": [
-    "sbi-says-funds-safe-suspected-data-breach",
-    "ashoke-sen-first-indian-oskar-klein-medal",
-    "amur-falcons-apapang-alang-return-manipur"
+    "delhi-aatal-air-pollution-source-lab-iitm-jitendra-singh",
+    "isro-gaganyaan-g1-uncrewed-flight-two-months-narayanan",
+    "grok-republicans-gpt-democrats-midterm-vote-study"
    ]
   },
   {
    "section": "sports",
-   "lead": "phillips-jacobs-lift-new-zealand-180-india-chase-christchurch",
+   "lead": "tilak-nitish-india-beat-new-zealand-2-0-christchurch",
    "list": [
-    "pollard-named-mumbai-indians-head-coach-replaces-jayawardene",
-    "india-a-bowled-out-113-simon-keene-five-lincoln",
-    "india-para-games-114-medals-compared-hangzhou-2023"
+    "sindhu-beats-akechi-french-open-final-an-se-young",
+    "antonelli-pole-austin-title-verstappen-second",
+    "jackson-double-villa-end-city-perfect-start-arsenal-level"
    ]
   }
  ],
  "weekAhead": [
   {
+   "icon": "trophy",
+   "date": {
+    "en": "Sun 25 Oct",
+    "hi": "रवि, 25 अक्टूबर"
+   },
+   "text": {
+    "en": "Sindhu's French Open final; India women's 2nd ODI in Vadodara; US GP.",
+    "hi": "सिंधु का फ़्रेंच ओपन फ़ाइनल; वडोदरा में महिला टीम का दूसरा वनडे; यूएस ग्रांप्री।"
+   },
+   "link": "sindhu-an-se-young-final-vadodara-odi-sunday-sport-preview"
+  },
+  {
+   "icon": "airplane-tilt",
+   "date": {
+    "en": "Sun 25 Oct",
+    "hi": "रवि, 25 अक्टूबर"
+   },
+   "text": {
+    "en": "IAF's Wings over Ganga air show at Varanasi's Namo Ghat.",
+    "hi": "वाराणसी के नमो घाट पर वायुसेना का 'विंग्स ओवर गंगा' एयर शो।"
+   },
+   "link": "rajnath-varanasi-yogi-wings-over-ganga-air-show"
+  },
+  {
    "icon": "flag-banner",
    "date": {
-    "en": "Sun 25 Oct",
-    "hi": "रवि, 25 अक्टूबर"
+    "en": "Mon 26 Oct",
+    "hi": "सोम, 26 अक्टूबर"
    },
    "text": {
-    "en": "Modi in Varanasi for an air show, then Bhubaneswar for an RBI data centre.",
-    "hi": "मोदी वाराणसी में एयर शो देखेंगे, फिर भुवनेश्वर में आरबीआई डेटा सेंटर।"
+    "en": "Re-poll at three booths in Agra teachers' Council seat.",
+    "hi": "आगरा शिक्षक एमएलसी सीट के तीन बूथों पर दोबारा मतदान।"
    },
-   "link": "modi-varanasi-garment-unit-air-show-rbi-data-centre-sunday"
+   "link": "agra-teachers-seat-repoll-three-booths-october-26"
   },
   {
-   "icon": "cricket",
-   "date": {
-    "en": "Sun 25 Oct",
-    "hi": "रवि, 25 अक्टूबर"
-   },
-   "text": {
-    "en": "India women play Zimbabwe in the second ODI in Vadodara.",
-    "hi": "वडोदरा में भारतीय महिला टीम का ज़िम्बाब्वे से दूसरा वनडे।"
-   },
-   "link": "india-women-zimbabwe-second-odi-vadodara-rawal-preview"
-  },
-  {
-   "icon": "check-square",
-   "date": {
-    "en": "Sun 25 Oct",
-    "hi": "रवि, 25 अक्टूबर"
-   },
-   "text": {
-    "en": "Brazil votes in the Lula-Flávio Bolsonaro runoff.",
-    "hi": "ब्राज़ील में लूला और फ्लावियो बोलसोनारो के बीच निर्णायक मतदान।"
-   },
-   "link": "brazil-runoff-sunday-lula-flavio-final-globo-debate"
-  },
-  {
-   "icon": "flag-checkered",
-   "date": {
-    "en": "Sun 25 Oct",
-    "hi": "रवि, 25 अक्टूबर"
-   },
-   "text": {
-    "en": "Antonelli can clinch the F1 title at the US Grand Prix.",
-    "hi": "अमेरिकी ग्रां प्री में एंटोनेली एफ1 खिताब पक्का कर सकते हैं।"
-   },
-   "link": "antonelli-can-clinch-f1-title-austin-us-grand-prix"
-  },
-  {
-   "icon": "bank",
+   "icon": "warning",
    "date": {
     "en": "Wed 28 Oct",
     "hi": "बुध, 28 अक्टूबर"
    },
    "text": {
-    "en": "Jio Platforms lists; the US Fed decides on rates.",
-    "hi": "जियो प्लेटफॉर्म्स की लिस्टिंग; अमेरिकी फेड का ब्याज दर फ़ैसला।"
+    "en": "Cyclone Arnab due to cross the Andhra coast; Jio lists.",
+    "hi": "चक्रवात अर्णब के आंध्र तट पार करने का अनुमान; जियो की लिस्टिंग।"
    },
-   "link": "week-ahead-results-data-calendar-october-26-30"
+   "link": "cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-landfall"
+  },
+  {
+   "icon": "megaphone",
+   "date": {
+    "en": "Fri 30 Oct",
+    "hi": "शुक्र, 30 अक्टूबर"
+   },
+   "text": {
+    "en": "INDIA bloc's 'public impeachment' of the CEC.",
+    "hi": "इंडिया गठबंधन का सीईसी के ख़िलाफ़ \"जन महाभियोग\"।"
+   },
+   "link": "india-bloc-public-impeachment-cec-october-30-dilli-chalo"
   }
  ]
 }
