@@ -30500,5 +30500,27 @@
   "composite": [
    "cx-week-ahead-cues-brent-116-fed-ecb-boj-gift-nifty-flat-0"
   ]
+ },
+ {
+  "id": "cx-india-bloc-public-impeachment-cec-october-30-dilli-chalo-0",
+  "articleId": "part:india-bloc-public-impeachment-cec-october-30-dilli-chalo:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Ramlila_Maidan%2C_Janadesh_2007%2C_Delhi.jpg",
+  "credit": "Ekta Parishad",
+  "licence": "CC BY-SA 3.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Ramlila_Maidan,_Janadesh_2007,_Delhi.jpg"
+ },
+ {
+  "id": "x-india-bloc-public-impeachment-cec-october-30-dilli-chalo",
+  "articleId": "india-bloc-public-impeachment-cec-october-30-dilli-chalo",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Ramlila_Maidan%2C_Janadesh_2007%2C_Delhi.jpg",
+  "credit": "Photo: Ekta Parishad / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "A crowd at a rally on Delhi's Ramlila Maidan (file photo)",
+  "alt_hi": "दिल्ली के रामलीला मैदान में एक रैली में जुटी भीड़ (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Ramlila_Maidan,_Janadesh_2007,_Delhi.jpg",
+  "composite": [
+   "cx-india-bloc-public-impeachment-cec-october-30-dilli-chalo-0"
+  ]
  }
 ]
