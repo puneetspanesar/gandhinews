@@ -31770,38 +31770,6 @@
   ]
  },
  {
-  "id": "cx-deepti-sharma-record-hundred-number-six-harmanpreet-passe-0",
-  "articleId": "part:deepti-sharma-record-hundred-number-six-harmanpreet-passes-mithali:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/2020_ICC_W_T20_WC_I_v_B_02-24_Sharma_%2801%29.jpg",
-  "credit": "Bahnfrend",
-  "licence": "CC BY-SA 4.0",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:2020_ICC_W_T20_WC_I_v_B_02-24_Sharma_(01).jpg"
- },
- {
-  "id": "cx-deepti-sharma-record-hundred-number-six-harmanpreet-passe-1",
-  "articleId": "part:deepti-sharma-record-hundred-number-six-harmanpreet-passes-mithali:1",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Mithali_Raj.png",
-  "credit": "Sadhguru",
-  "licence": "CC BY 3.0",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Mithali_Raj.png"
- },
- {
-  "id": "x-deepti-sharma-record-hundred-number-six-harmanpreet-passes-m",
-  "articleId": "deepti-sharma-record-hundred-number-six-harmanpreet-passes-mithali",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/2020_ICC_W_T20_WC_I_v_B_02-24_Sharma_%2801%29.jpg",
-  "credit": "Photos: Bahnfrend / Wikimedia Commons; Sadhguru / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0, CC BY 3.0",
-  "alt": "India all-rounder Deepti Sharma (file photo)",
-  "alt_hi": "भारतीय ऑलराउंडर दीप्ति शर्मा (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:2020_ICC_W_T20_WC_I_v_B_02-24_Sharma_(01).jpg",
-  "composite": [
-   "cx-deepti-sharma-record-hundred-number-six-harmanpreet-passe-0",
-   "cx-deepti-sharma-record-hundred-number-six-harmanpreet-passe-1"
-  ]
- },
- {
   "id": "cx-delhi-rain-no-fix-pollution-experts-grap-stage-one-0",
   "articleId": "part:delhi-rain-no-fix-pollution-experts-grap-stage-one:0",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/View_from_14th_Floor%2C_Vikas_Minar%2C_ITO.jpg/1600px-View_from_14th_Floor%2C_Vikas_Minar%2C_ITO.jpg",
@@ -32997,6 +32965,28 @@
   "composite": [
    "cx-zverev-world-no-1-bid-vienna-alcaraz-erste-bank-open-0",
    "cx-zverev-world-no-1-bid-vienna-alcaraz-erste-bank-open-1"
+  ]
+ },
+ {
+  "id": "cx-deepti-sharma-record-hundred-number-six-harmanpreet-passe-0",
+  "articleId": "part:deepti-sharma-record-hundred-number-six-harmanpreet-passes-mithali:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Mithali_Raj.png",
+  "credit": "Sadhguru",
+  "licence": "CC BY 3.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Mithali_Raj.png"
+ },
+ {
+  "id": "x-deepti-sharma-record-hundred-number-six-harmanpreet-passes-m",
+  "articleId": "deepti-sharma-record-hundred-number-six-harmanpreet-passes-mithali",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Mithali_Raj.png",
+  "credit": "Photo: Sadhguru / Wikimedia Commons",
+  "licence": "CC BY 3.0",
+  "alt": "Mithali Raj, whose record Harmanpreet Kaur passed (file photo)",
+  "alt_hi": "मिताली राज, जिनका रिकॉर्ड हरमनप्रीत कौर ने तोड़ा (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Mithali_Raj.png",
+  "composite": [
+   "cx-deepti-sharma-record-hundred-number-six-harmanpreet-passe-0"
   ]
  }
 ]
