@@ -40,7 +40,7 @@ verification:
     - "¥1 trillion figure first reported by Nikkei Asia on Thursday, as carried by Prothom Alo (updated 23 Oct, 03:22). Nikkei itself not read. Not yet confirmed by either government, so attributed as expected."
     - "Siam quotes verbatim from BSS via Dhaka Tribune (9:27 pm, 23 Oct). Prothom Alo says Takaichi hosts a dinner; BSS says a luncheon. Meal omitted."
     - "Talks on Tuesday 27 October; departure Monday 26 October (both sources). MRT cost rises from BSS."
-    - "India paragraph rests on the existing LokVox stories of 21 and 22 October (Matarbari link to northeast India; BIG-B re-inclusion)."
+    - "India paragraph rests on the existing Gandhi News stories of 21 and 22 October (Matarbari link to northeast India; BIG-B re-inclusion)."
 ---
 
 Japan is preparing to commit one trillion yen, about $6.35 billion, to Bangladesh's private sector over five years, with the announcement expected when Prime Minister Tarique Rahman meets Sanae Takaichi in Tokyo next week.

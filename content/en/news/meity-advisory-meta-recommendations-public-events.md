@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: PTI copy carried by Business Standard on 18 Oct (Sunday), which says PTI had seen the advisory dated 10 Oct. Not yet on LokVox; published Monday morning as it came to light late Sunday."
+    - "Single source: PTI copy carried by Business Standard on 18 Oct (Sunday), which says PTI had seen the advisory dated 10 Oct. Not yet on Gandhi News; published Monday morning as it came to light late Sunday."
     - "Quoted phrases are from the advisory text as reported by PTI. Ministry 'sources' comment on algorithms favouring one kind of content is paraphrased and attributed to unnamed officials."
     - "No response from Meta or MeitY on the criticism was available."
 ---

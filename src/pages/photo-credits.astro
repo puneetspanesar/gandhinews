@@ -6,11 +6,11 @@ const seen = new Map<string, any>();
 for (const p of Object.values(PHOTOS as Record<string, any>)) if (!seen.has(p.id)) seen.set(p.id, p);
 const list = [...seen.values()];
 ---
-<Base lang="en" title="Photo credits" description="Credits and licences for the photographs used on LokVox." path="/photo-credits/" altPath={null}>
+<Base lang="en" title="Photo credits" description="Credits and licences for the photographs used on Gandhi News." path="/photo-credits/" altPath={null}>
   <div class="w">
     <div class="ph-page" style="max-width:860px">
       <h1>Photo credits</h1>
-      <p>We thank the photographers whose work appears on LokVox. Each photo below is used under the licence shown, and links to its original page.</p>
+      <p>We thank the photographers whose work appears on Gandhi News. Each photo below is used under the licence shown, and links to its original page.</p>
       <ul class="pc-list">
         {list.map((p) => (
           <li id={p.id}>

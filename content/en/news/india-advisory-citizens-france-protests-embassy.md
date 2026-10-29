@@ -33,7 +33,7 @@ verification:
   status: approved
   notes:
     - "Single source (IANS, 10:55 pm). Embassy's own post not read; helpline numbers taken from IANS copy, should match embassy advisory."
-    - "Background on riots of 17 Oct and Macron/Nunez statements from IANS, which cited Xinhua; matches earlier LokVox France coverage."
+    - "Background on riots of 17 Oct and Macron/Nunez statements from IANS, which cited Xinhua; matches earlier Gandhi News France coverage."
 ---
 
 The Embassy of India in Paris on Wednesday asked Indian nationals and travellers in France to remain vigilant, after protests over the cost of living turned violent in several parts of the country.

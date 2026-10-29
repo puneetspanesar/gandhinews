@@ -23,7 +23,7 @@ hero:
     value: "आदेश दिखाइए"
 related: [kerala-hc-bitchat-blocking-centre-apple-google-affidavits, supreme-court-orders-metro-internet-restored-after-cjp-protest-detentions]
 seo:
-  description: "लोकवॉक्स संपादकीय: केंद्र बिटचैट ब्लॉकिंग आदेश और उसके कारण सार्वजनिक करे। आईटी एक्ट की धारा 69ए और 2009 के नियमों के तहत ब्लॉकिंग आदेश स्वाभाविक रूप से सार्वजनिक हों।"
+  description: "गांधी न्यूज़ संपादकीय: केंद्र बिटचैट ब्लॉकिंग आदेश और उसके कारण सार्वजनिक करे। आईटी एक्ट की धारा 69ए और 2009 के नियमों के तहत ब्लॉकिंग आदेश स्वाभाविक रूप से सार्वजनिक हों।"
 sources:
   - title: "Blocking BitChat is unconstitutional: MeitY must publish and withdraw its secret order"
     publisher: "Internet Freedom Foundation"

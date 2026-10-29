@@ -21,7 +21,7 @@ hero:
     value: "Plan for the dry months now"
 related: [east-northeast-india-driest-monsoon-since-1901, fadnavis-5000-drought-aid-shinde-dombivli-farmers, gehlot-rajasthan-drought-cattle-deaths-relief, telangana-el-nino-cabinet-subcommittee-bhatti-vikramarka, chouhan-khet-bachao-abhiyan-october-22-november-30]
 seo:
-  description: "LokVox editorial: with India's weakest monsoon in a decade, the east's driest since 1901 and El Niño expected to last into 2027, the Centre should lead a national drought plan on relief, fodder, water and heat."
+  description: "Gandhi News editorial: with India's weakest monsoon in a decade, the east's driest since 1901 and El Niño expected to last into 2027, the Centre should lead a national drought plan on relief, fodder, water and heat."
 sources:
   - title: "Northeast and East India just recorded the driest monsoon since 1901"
     publisher: "EastMojo"

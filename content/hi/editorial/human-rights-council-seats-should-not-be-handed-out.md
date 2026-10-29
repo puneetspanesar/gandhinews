@@ -23,10 +23,10 @@ hero:
     value: "15 सीटें, कोई विकल्प नहीं"
 related: [un-human-rights-council-elects-15-members, un-secretary-general-straw-poll-all-seven-vetoed-sall-quits, how-un-secretary-general-is-chosen-straw-polls-veto-explained]
 seo:
-  description: "लोकवॉक्स संपादकीय: संयुक्त राष्ट्र ने फिर मानवाधिकार परिषद की 15 सीटें 15 उम्मीदवारों से भरीं। तय सूचियां वोट को बेमानी बनाती हैं; भारत को प्रतिस्पर्धी चुनाव का समर्थन करना चाहिए।"
+  description: "गांधी न्यूज़ संपादकीय: संयुक्त राष्ट्र ने फिर मानवाधिकार परिषद की 15 सीटें 15 उम्मीदवारों से भरीं। तय सूचियां वोट को बेमानी बनाती हैं; भारत को प्रतिस्पर्धी चुनाव का समर्थन करना चाहिए।"
 sources:
-  - title: "UN fills 15 Human Rights Council seats in a vote with no contests (LokVox, source: AP via Al Jazeera)"
-    publisher: "LokVox"
+  - title: "UN fills 15 Human Rights Council seats in a vote with no contests (Gandhi News, source: AP via Al Jazeera)"
+    publisher: "Gandhi News"
     date: 2026-10-14
     url: "https://lokvox.com/news/un-human-rights-council-elects-15-members"
     primary: false

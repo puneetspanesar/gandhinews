@@ -70,7 +70,7 @@ verification:
     - "Riyadh interception and Turki al-Malki quotes: Arab News (04:26, updated 11:30), AFP via The New Arab and Times of Israel. Two blasts heard: Arab News and AFP agree."
     - "Western-province alerts: AFP (MEE, ToI) and Anadolu. Anadolu/AFP text says 'on Friday', but Arab News and the ToI live blog (11:59 am Israel time) place them on Saturday; we follow Saturday."
     - "Taif and Yanbu missiles rest on Reuters via the ToI live blog (12:23 pm Israel time), so hedged as the coalition's statement. Khamis Mushait (Friday) from Asharq Al-Awsat."
-    - "Riyadh airport toll (13 killed) from Anadolu; Indian victim and embassy advisory from earlier LokVox stories and their sources."
+    - "Riyadh airport toll (13 killed) from Anadolu; Indian victim and embassy advisory from earlier Gandhi News stories and their sources."
 ---
 
 Yemen's Houthis fired ballistic missiles at three Saudi cities on Saturday, setting off air raid alerts from the capital to the Red Sea coast and, for a few minutes around midday, over the holy city of Makkah.

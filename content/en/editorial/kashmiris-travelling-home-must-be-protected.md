@@ -22,7 +22,7 @@ hero:
     value: "Every passenger home safely"
 related: [kashmir-buses-attacked-haryana-punjab-omar-abdullah]
 seo:
-  description: "LokVox editorial: after Srinagar-bound buses were stoned near Nilokheri in Haryana and Ludhiana in Punjab on consecutive nights, both states must investigate fully, publish findings and secure the highway."
+  description: "Gandhi News editorial: after Srinagar-bound buses were stoned near Nilokheri in Haryana and Ludhiana in Punjab on consecutive nights, both states must investigate fully, publish findings and secure the highway."
 sources:
   - title: "Kashmir bus operator alleges stone-pelting on Srinagar-bound bus near Ludhiana in Punjab"
     publisher: "The Tribune"

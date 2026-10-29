@@ -23,7 +23,7 @@ hero:
     value: "हर मुसाफिर सुरक्षित घर पहुंचे"
 related: [kashmir-buses-attacked-haryana-punjab-omar-abdullah]
 seo:
-  description: "लोकवॉक्स संपादकीय: हरियाणा के नीलोखेड़ी और पंजाब के लुधियाना के पास लगातार दो रातों में श्रीनगर जा रही बसों पर पथराव के बाद दोनों राज्य पूरी जांच करें, नतीजे बताएं और हाईवे सुरक्षित करें।"
+  description: "गांधी न्यूज़ संपादकीय: हरियाणा के नीलोखेड़ी और पंजाब के लुधियाना के पास लगातार दो रातों में श्रीनगर जा रही बसों पर पथराव के बाद दोनों राज्य पूरी जांच करें, नतीजे बताएं और हाईवे सुरक्षित करें।"
 sources:
   - title: "Kashmir bus operator alleges stone-pelting on Srinagar-bound bus near Ludhiana in Punjab"
     publisher: "The Tribune"

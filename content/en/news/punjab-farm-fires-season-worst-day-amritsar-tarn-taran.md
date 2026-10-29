@@ -44,7 +44,7 @@ verification:
     - "The 51-fire day, the 174 total by 13 October, the ~38% year-on-year rise and the drone monitoring rest on one outlet (NewsBytes summary page, 15 Oct). The exact date of the 51-fire day is not given there; copy says 'in a single day' without naming it."
     - "NewsBytes says 51 was 'nearly a 70% rise' over the previous week's tally; left out because the comparison base is unclear."
     - "Earlier figures (84 fires to 5 October, CAQM flying squads in 18 districts from 1 October to 30 November, Delhi AQI 187 on 6 October and 'most polluted start to October since 2020') from NewsDrum, citing CAQM data; single source."
-    - "Tuesday review details (districts named, 'do not relax' warning) taken from LokVox's earlier story on the PIB release of 13 Oct; PIB page not re-fetched in this run."
+    - "Tuesday review details (districts named, 'do not relax' warning) taken from Gandhi News's earlier story on the PIB release of 13 Oct; PIB page not re-fetched in this run."
     - "No Delhi AQI reading for 15 October could be sourced in this run; none given."
 ---
 

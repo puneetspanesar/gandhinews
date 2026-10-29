@@ -36,7 +36,7 @@ sources:
     url: "https://www.devdiscourse.com/article/headlines/3983261-ministrys-shram-samvad-awareness-campaign-on-labour-codes-to-cover-industrial-clusters-across-316-districts-in-90-days-min"
     primary: false
   - title: "Labour codes: Centre wants every state's rules in place by 31 October"
-    publisher: "LokVox"
+    publisher: "Gandhi News"
     date: 2026-10-11
     url: "https://lokvox.com/news/labour-codes-centre-wants-state-rules-by-october-31"
     primary: false

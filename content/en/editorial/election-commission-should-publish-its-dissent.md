@@ -16,7 +16,7 @@ hero:
     value: "Publish the dissent"
 related: [election-commission-dissent-report-move-to-remove-cec, how-chief-election-commissioner-is-appointed-removed, election-commission, sir-phase-three-draft-rolls-names-dropped-by-state]
 seo:
-  description: "LokVox editorial: the Election Commission should record and publish dissent notes on major decisions such as the SIR, as the RBI's rate panel does."
+  description: "Gandhi News editorial: the Election Commission should record and publish dissent notes on major decisions such as the SIR, as the RBI's rate panel does."
 sources:
   - title: "EC reacts to report on dissent in poll body: decisions unanimous, differing views part of deliberations"
     publisher: "ThePrint (ANI)"

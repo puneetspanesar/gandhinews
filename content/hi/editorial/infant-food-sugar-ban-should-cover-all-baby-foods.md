@@ -23,7 +23,7 @@ hero:
     value: "दो साल से पहले चीनी नहीं"
 related: [fssai-draft-ban-added-sugar-infant-food-six-months, global-hunger-index-explained-india-score]
 seo:
-  description: "लोकवॉक्स संपादकीय: छह महीने तक के शिशुओं के खाने में अतिरिक्त चीनी पर एफएसएसएआई का मसौदा स्वागतयोग्य है, पर इसे दो साल से कम उम्र के बच्चों के हर खाने पर लागू होना चाहिए।"
+  description: "गांधी न्यूज़ संपादकीय: छह महीने तक के शिशुओं के खाने में अतिरिक्त चीनी पर एफएसएसएआई का मसौदा स्वागतयोग्य है, पर इसे दो साल से कम उम्र के बच्चों के हर खाने पर लागू होना चाहिए।"
 sources:
   - title: "FSSAI Moves to Strengthen Infant Nutrition Standards by Restricting Addition of Sucrose and Fructose in Products for Infants Up to Six Months"
     publisher: "Press Information Bureau, Ministry of Health and Family Welfare"

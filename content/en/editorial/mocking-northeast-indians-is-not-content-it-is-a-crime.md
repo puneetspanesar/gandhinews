@@ -22,7 +22,7 @@ hero:
     value: "Citizens, not punchlines"
 related: [amir-shokeen-five-day-police-custody-racial-abuse-video]
 seo:
-  description: "LokVox editorial: after the Amir Shokeen video and Anjel Chakma's killing, India needs the anti-racism law the Bezbaruah committee sought in 2014, and police units beyond Delhi."
+  description: "Gandhi News editorial: after the Amir Shokeen video and Anjel Chakma's killing, India needs the anti-racism law the Bezbaruah committee sought in 2014, and police units beyond Delhi."
 sources:
   - title: "Tripura Leaders Condemn Alleged Racial Abuse Of Youth By Content Creator In Delhi"
     publisher: "Outlook India (PTI)"

@@ -39,7 +39,7 @@ verification:
   notes:
     - "Venue, dates, 9:30 am start, captains Badoni and Chintan Gaja, Badoni 85 off 134 and 5-43, Delhi 240 and 277 v Bengal 429, Gujarat 10-wicket win and Odisha 161 in second innings: Sportsdunia only."
     - "Gill playing for Punjab v Chhattisgarh: two Tribune headlines on its sports index; article not readable (fetch needed approval). Venue and date not confirmed, so copy says only that he is set to play in round two."
-    - "Group C leaders and other fixtures (Bengal v Services at Palam A, Mumbai v Himachal): earlier LokVox stories of 15 and 17 Oct."
+    - "Group C leaders and other fixtures (Bengal v Services at Palam A, Mumbai v Himachal): earlier Gandhi News stories of 15 and 17 Oct."
     - "No squads or quotes found."
 ---
 

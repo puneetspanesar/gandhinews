@@ -41,7 +41,7 @@ verification:
     - "Indian Opinion notes outlets differ: some describe a plain stay. Copy follows LiveLaw's detailed account."
     - "Rs 2.78 crore ED allegation and ED summons to Vijayan for 23 October per Indian Opinion only; summons hedged as 'has been summoned', amount attributed to ED."
     - "Justice Bagchi quote 'We are not against any investigation' per LiveLaw."
-    - "Riyas spelling follows earlier LokVox stories (P A Mohamed Riyas)."
+    - "Riyas spelling follows earlier Gandhi News stories (P A Mohamed Riyas)."
 ---
 
 The Supreme Court on Wednesday put a corruption investigation against former Keralam chief minister Pinarayi Vijayan, his daughter Veena T and his son-in-law P A Mohamed Riyas on hold for seven days, and ruled that they are entitled to challenge in the High Court the order that set the case in motion.

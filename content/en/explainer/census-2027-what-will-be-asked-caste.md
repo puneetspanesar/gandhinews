@@ -121,4 +121,4 @@ The field work needs a large workforce. In West Bengal alone, nearly 2 lakh enum
 
 ## When will the results come out?
 
-**No date has been announced.** LokVox could not find an official timetable for releasing population totals or caste tables. The count in most of India is due to end in early 2027. Until results are released, the 2011 census remains the latest official count of India's population.
+**No date has been announced.** Gandhi News could not find an official timetable for releasing population totals or caste tables. The count in most of India is due to end in early 2027. Until results are released, the 2011 census remains the latest official count of India's population.

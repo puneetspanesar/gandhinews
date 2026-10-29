@@ -40,7 +40,7 @@ verification:
     - "UN Press release (press.un.org sgsm23338) could not be fetched; not used."
     - "'Last message marking the day as head of the UN': UN News."
     - "Quotes from UN News and IANS (X post and video message)."
-    - "Straw poll context from LokVox story of 18 Oct; no newer poll found."
+    - "Straw poll context from Gandhi News story of 18 Oct; no newer poll found."
 ---
 
 The United Nations marked its 81st birthday on Saturday with a message from António Guterres that doubled as a farewell: it is the last UN Day he will mark as Secretary-General before his second term ends on 31 December.

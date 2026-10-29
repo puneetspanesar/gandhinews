@@ -2,20 +2,19 @@ import { abs, urlOf, SITE_URL } from './site';
 import PHOTOS from '../../content/photos.map.json';
 import { verdictKey, VERDICT_RATING, UI, SECTION_NAMES, type Lang } from './i18n';
 
-/** Ways people write the name: two words, lower case, and in Devanagari. ("LokVox News" is left out on purpose:
- *  an unrelated Mumbai channel uses that name, and we do not want Google to merge the two.) */
-export const NAME_VARIANTS = ['Lok Vox', 'Lokvox', 'lokvox.com', 'लोकवॉक्स', 'लोक वॉक्स'];
+/** Ways people write the name: one word, lower case, in Devanagari, and the site's former name Gandhi News. */
+export const NAME_VARIANTS = ['GandhiNews', 'gandhinews', 'गांधी न्यूज़', 'गांधी न्यूज', 'LokVox'];
 /** Official profiles elsewhere. Add each one here as it is created, so Google can tie them to this site. */
 export const SAME_AS: string[] = ['https://x.com/lokvoxcom', 'https://www.instagram.com/lokvoxcom'];
 
 export const PUBLISHER = {
   '@type': 'NewsMediaOrganization',
   '@id': `${SITE_URL}/#organization`,
-  name: 'LokVox',
+  name: 'Gandhi News',
   alternateName: NAME_VARIANTS,
   url: `${SITE_URL}/`,
   logo: { '@type': 'ImageObject', url: `${SITE_URL}/logo.png`, width: 512, height: 512 },
-  description: 'LokVox is an independent Indian news website (lokvox.com) publishing news from India and the world, covering politics, the economy, science and technology and sports, in English and Hindi.',
+  description: 'Gandhi News is an independent Indian news website publishing news from India and the world, covering politics, the economy, science and technology and sports, in English and Hindi.',
   slogan: 'The people’s newsroom',
   foundingDate: '2026',
   areaServed: { '@type': 'Country', name: 'India' },
@@ -28,8 +27,8 @@ export const PUBLISHER = {
   founder: { '@type': 'Person', name: 'Puneet Singh', url: `${SITE_URL}/editor/` },
   ...(SAME_AS.length ? { sameAs: SAME_AS } : {}),
 };
-export const AUTHOR = { '@type': 'Organization', name: 'LokVox Editorial Desk', url: `${SITE_URL}/` };
-export const EDITOR = { '@type': 'Person', name: 'Puneet Singh', jobTitle: 'Editor and Publisher', url: `${SITE_URL}/editor/`, worksFor: { '@type': 'NewsMediaOrganization', name: 'LokVox', url: `${SITE_URL}/` } };
+export const AUTHOR = { '@type': 'Organization', name: 'Gandhi News Editorial Desk', url: `${SITE_URL}/` };
+export const EDITOR = { '@type': 'Person', name: 'Puneet Singh', jobTitle: 'Editor and Publisher', url: `${SITE_URL}/editor/`, worksFor: { '@type': 'NewsMediaOrganization', name: 'Gandhi News', url: `${SITE_URL}/` } };
 const inLang = (l: Lang) => (l === 'hi' ? 'hi-IN' : 'en-IN');
 const img = () => ({ '@type': 'ImageObject', url: `${SITE_URL}/og-default.png`, width: 1200, height: 630 });
 /** The story's own photo (content/photos.map.json), for og:image and schema; null when it has none. */
@@ -152,7 +151,7 @@ export function collectionLd(name: string, description: string, path: string, la
     description,
     url: abs(path),
     inLanguage: inLang(lang),
-    isPartOf: { '@type': 'WebSite', name: 'LokVox', url: `${SITE_URL}/` },
+    isPartOf: { '@type': 'WebSite', name: 'Gandhi News', url: `${SITE_URL}/` },
     mainEntity: {
       '@type': 'ItemList',
       itemListElement: items.slice(0, 30).map((e, i) => ({ '@type': 'ListItem', position: i + 1, url: abs(urlOf(e.data)), name: e.data.title })),
@@ -163,7 +162,7 @@ export function collectionLd(name: string, description: string, path: string, la
 export function websiteLd(lang: Lang) {
   return [
     { '@context': 'https://schema.org', ...PUBLISHER },
-    { '@context': 'https://schema.org', '@type': 'WebSite', '@id': `${SITE_URL}/#website`, name: 'LokVox', alternateName: NAME_VARIANTS, url: `${SITE_URL}/`, inLanguage: ['en-IN', 'hi-IN'], publisher: { '@id': PUBLISHER['@id'] } },
+    { '@context': 'https://schema.org', '@type': 'WebSite', '@id': `${SITE_URL}/#website`, name: 'Gandhi News', alternateName: NAME_VARIANTS, url: `${SITE_URL}/`, inLanguage: ['en-IN', 'hi-IN'], publisher: { '@id': PUBLISHER['@id'] } },
     navLd(lang),
   ];
 }
@@ -184,7 +183,7 @@ export function navLd(lang: Lang) {
   return {
     '@context': 'https://schema.org',
     '@type': 'ItemList',
-    name: lang === 'hi' ? 'लोकवॉक्स सेक्शन' : 'LokVox sections',
+    name: lang === 'hi' ? 'गांधी न्यूज़ सेक्शन' : 'Gandhi News sections',
     itemListElement: items.map(([name, href], i) => ({
       '@type': 'SiteNavigationElement', position: i + 1, name, url: `${SITE_URL}${href}`,
     })),

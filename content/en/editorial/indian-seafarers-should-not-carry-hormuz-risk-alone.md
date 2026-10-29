@@ -21,7 +21,7 @@ hero:
     value: "Protect the crews, not just the cargo"
 related: [two-indian-seafarers-missing-after-tanker-attacks-off-oman, iran-guards-say-they-hit-supertanker-in-hormuz, iran-security-chief-rezaei-calls-doval-gulf-attacks, iran-calls-us-hormuz-response-insufficient, what-hormuz-attacks-mean-for-indian-fuel-prices]
 seo:
-  description: "LokVox editorial: after attacks on Indian-crewed tankers near Hormuz, why a consent rule is not enough and what India owes its seafarers."
+  description: "Gandhi News editorial: after attacks on Indian-crewed tankers near Hormuz, why a consent rule is not enough and what India owes its seafarers."
 sources:
   - title: "DGMA circular 47 of 2026: advisory on deployment of Indian seafarers through the Strait of Hormuz"
     publisher: "Directorate General of Maritime Administration"

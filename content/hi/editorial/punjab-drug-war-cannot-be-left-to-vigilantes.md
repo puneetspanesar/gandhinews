@@ -22,7 +22,7 @@ hero:
     value: "नशा बेचने वालों का जवाब कानून से"
 related: [mansa-anti-drug-activist-parvinder-jhota-shot-dead, supreme-court-bars-coercive-action-punjab-cm-osd-cbi-case]
 seo:
-  description: "लोकवॉक्स संपादकीय: मानसा में नशा विरोधी कार्यकर्ता परविंदर झोटा की हत्या के बाद पंजाब को हत्यारे को सज़ा दिलानी होगी, नशे की बिक्री पर कार्रवाई करनी होगी और कानून को भीड़ के भरोसे छोड़ना बंद करना होगा।"
+  description: "गांधी न्यूज़ संपादकीय: मानसा में नशा विरोधी कार्यकर्ता परविंदर झोटा की हत्या के बाद पंजाब को हत्यारे को सज़ा दिलानी होगी, नशे की बिक्री पर कार्रवाई करनी होगी और कानून को भीड़ के भरोसे छोड़ना बंद करना होगा।"
 sources:
   - title: "Anti-drug activist Jhota shot by chemist in Mansa"
     publisher: "The Tribune"

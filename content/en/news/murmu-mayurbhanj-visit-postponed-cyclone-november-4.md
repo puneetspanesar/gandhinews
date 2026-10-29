@@ -30,7 +30,7 @@ sources:
     url: "https://pragativadi.com/president-murmus-odisha-visit-postponed-due-to-impending-cyclone-threat/"
     primary: false
   - title: "IMD sees a depression in the Bay of Bengal by Sunday, with gales and rough seas from Monday"
-    publisher: "LokVox"
+    publisher: "Gandhi News"
     date: 2026-10-22
     url: "https://lokvox.com/news/bay-of-bengal-depression-october-25-odisha-fishermen-warning"
     primary: false
@@ -39,7 +39,7 @@ verification:
   notes:
     - "Single source for the postponement (Pragativadi, ~12:37 pm IST), attributing it to district authorities and the Mayurbhanj Collector; Collector not named. Hedged as 'district officials said'. No Rashtrapati Bhavan statement found."
     - "Pragativadi's 'Maa Kichakeswari Temple at Bahalda' kept as given; the well-known Kichakeswari temple is at Khiching, so copy says only 'the Maa Kichakeswari temple' plus Bahalda as given. Check."
-    - "Cyclone details (IMD depression by Sunday, Odisha rain from 27 Oct) from LokVox's own 22 Oct story; storm not named."
+    - "Cyclone details (IMD depression by Sunday, Odisha rain from 27 Oct) from Gandhi News's own 22 Oct story; storm not named."
     - "PM's 25 Oct Bhubaneswar programme: no change reported."
 ---
 

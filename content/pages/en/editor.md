@@ -3,19 +3,19 @@ id: editor
 lang: en
 path: editor
 title: "Puneet Singh, Editor"
-description: "Puneet Singh is the editor and publisher of LokVox. He decides what we cover and approves every story before it is published."
+description: "Puneet Singh is the editor and publisher of Gandhi News. He decides what we cover and approves every story before it is published."
 updated: 2026-10-11
 ---
 
-Puneet Singh is the editor and publisher of LokVox, and its owner.
+Puneet Singh is the editor and publisher of Gandhi News, and its owner.
 
 ## What the editor does
 
-- Decides what LokVox covers and how each story is framed.
+- Decides what Gandhi News covers and how each story is framed.
 - Reads and approves every story, explainer, fact check, chart and Hindi edition before it is published.
 - Signs off every correction, and answers complaints as our Grievance Officer.
 
-Stories on LokVox carry "From the editorial desk" because they are produced by the desk as a whole, with help from AI tools as described in [how we use AI](/ai-policy/). The editor is responsible for everything we publish.
+Stories on Gandhi News carry "From the editorial desk" because they are produced by the desk as a whole, with help from AI tools as described in [how we use AI](/ai-policy/). The editor is responsible for everything we publish.
 
 ## Contact
 

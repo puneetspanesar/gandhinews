@@ -23,7 +23,7 @@ hero:
     value: "पहले ग्राहक को बताइए"
 related: [sbi-says-funds-safe-suspected-data-breach, appoint-data-protection-board-before-rules-bite, your-rights-under-dpdp-act]
 seo:
-  description: "लोकवॉक्स संपादकीय: एसबीआई के डार्क वेब डेटा लीक के बाद आरबीआई बैंकों के लिए प्रभावित ग्राहकों को 72 घंटे में सूचना देना अनिवार्य करे, मई 2027 का इंतज़ार न करे।"
+  description: "गांधी न्यूज़ संपादकीय: एसबीआई के डार्क वेब डेटा लीक के बाद आरबीआई बैंकों के लिए प्रभावित ग्राहकों को 72 घंटे में सूचना देना अनिवार्य करे, मई 2027 का इंतज़ार न करे।"
 sources:
   - title: "3.75 lakh records, 3,897 customers: SBI says address, mobile numbers, email ID leaked in data breach"
     publisher: "Business Today"

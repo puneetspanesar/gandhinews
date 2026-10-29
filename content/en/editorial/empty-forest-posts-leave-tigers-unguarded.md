@@ -22,7 +22,7 @@ hero:
     value: "A tiger reserve needs people"
 related: [bandipur-tiger-reserve-63-per-cent-vacancies-ntca]
 seo:
-  description: "LokVox editorial: with 402 of 630 posts vacant at Bandipur Tiger Reserve, Karnataka and other states must fill frontline forest posts and pay and equip watchers and guards properly."
+  description: "Gandhi News editorial: with 402 of 630 posts vacant at Bandipur Tiger Reserve, Karnataka and other states must fill frontline forest posts and pay and equip watchers and guards properly."
 sources:
   - title: "Amid poaching concerns, apex tiger body flags 63.81% vacancies in Bandipur Tiger Reserve"
     publisher: "The Tribune"

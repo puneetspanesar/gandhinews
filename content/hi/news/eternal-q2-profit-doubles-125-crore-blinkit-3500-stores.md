@@ -47,7 +47,7 @@ verification:
     - "Adjusted EBITDA ₹666 crore (+197%) is Business Standard's; Kotak Neo gives reported EBITDA ₹752 crore vs ₹239 crore. Copy uses BS adjusted figure only."
     - "Blinkit June-quarter adjusted EBITDA ₹102 crore and 308 stores added: Kotak Neo. Food delivery adjusted EBITDA ₹627 crore (+25%): Kotak Neo."
     - "Quotes from Business Standard; Albinder Dhindsa described there as group CEO. A further 'growing faster than we expected' line not used because the speaker was unclear."
-    - "Share close ₹311.75 (-2.71%) on BSE from Kotak Neo; LokVox close story had an intraday ₹305.65 (-4.5%)."
+    - "Share close ₹311.75 (-2.71%) on BSE from Kotak Neo; Gandhi News close story had an intraday ₹305.65 (-4.5%)."
     - "A BS related headline said profit fell short of estimates; consensus figure not found, so not reported."
 ---
 

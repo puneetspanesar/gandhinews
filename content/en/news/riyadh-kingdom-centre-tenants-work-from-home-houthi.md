@@ -39,7 +39,7 @@ verification:
   notes:
     - "Kingdom Centre email and details: AFP via Times of Israel liveblog, 11:42 Israel time (about 2:12 pm IST). Single wire source."
     - "Drones downed near Riyadh: Al Jazeera liveblog title only; no details, so stated generally."
-    - "Context on airport closures, postponed events, FII hybrid format, Saudi response vow and Sisi request drawn from earlier LokVox stories linked in related (afc-asian-cup..., egypt-sisi..., saudi-arabia-vows...). No figure for Indians in Saudi Arabia used."
+    - "Context on airport closures, postponed events, FII hybrid format, Saudi response vow and Sisi request drawn from earlier Gandhi News stories linked in related (afc-asian-cup..., egypt-sisi..., saudi-arabia-vows...). No figure for Indians in Saudi Arabia used."
 ---
 
 The Kingdom Centre, the 99-storey tower that dominates the Riyadh skyline, has told its office tenants to work from home "until further notice" after repeated Houthi attacks on Saudi Arabia.

@@ -50,7 +50,7 @@ verification:
     - "Halt order and quote 'shall be stopped forthwith': PTI via ThePrint (12:45 pm) and ETV Bharat (2:45 pm); release issued late Wednesday. Hans India 9:51 am. Published time set to mid-morning."
     - "Naidu, Pawan Kalyan and Madhav joint line (will abide by SEC, YSRCP filed 59 petitions) and all nomination-day clashes, house arrests of Avinash Reddy, Dadisetti Raja, Gopireddy: ETV Bharat Telugu live blog only; hedged as 'said' with no direct quote. Bonda Uma remark also from live blog, paraphrased."
     - "SEC decision on extending nominations was due on 22 Oct; not reported by 3:30 pm. Polling date of the ULB polls not given in sources; live blog says polling may slip three to four days (reports), left out."
-    - "Rural MPTC/ZPTC polls on 3 November per earlier LokVox story; nominations continuing; these are separate from the halted ULB process."
+    - "Rural MPTC/ZPTC polls on 3 November per earlier Gandhi News story; nominations continuing; these are separate from the halted ULB process."
 ---
 
 Andhra Pradesh's State Election Commission has stopped the election process in all 100 of the state's urban local bodies, a day after the Supreme Court told it to hold back the final list of candidates and reconsider whether opposition candidates had been kept from filing their papers.

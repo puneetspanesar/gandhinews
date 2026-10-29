@@ -21,7 +21,7 @@ hero:
     value: "Answer drug sellers with the law"
 related: [mansa-anti-drug-activist-parvinder-jhota-shot-dead, supreme-court-bars-coercive-action-punjab-cm-osd-cbi-case]
 seo:
-  description: "LokVox editorial: after anti-drug activist Parvinder Jhota was shot dead in Mansa, Punjab must punish the killer, act on drug sales and stop leaving enforcement to vigilantes."
+  description: "Gandhi News editorial: after anti-drug activist Parvinder Jhota was shot dead in Mansa, Punjab must punish the killer, act on drug sales and stop leaving enforcement to vigilantes."
 sources:
   - title: "Anti-drug activist Jhota shot by chemist in Mansa"
     publisher: "The Tribune"

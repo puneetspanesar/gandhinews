@@ -23,7 +23,7 @@ hero:
     value: "पहले लड़ने की आज़ादी, फिर वोट की"
 related: [andhra-local-body-nominations-violence-punganur-mithun-reddy, jagan-accuses-naidu-blocking-opposition-nominations, jagan-meets-governor-central-forces-cctv-local-body-polls, andhra-high-court-strikes-down-bc-quota-local-bodies]
 seo:
-  description: "लोकवॉक्स संपादकीय: आंध्र प्रदेश के स्थानीय निकाय चुनावों में हिंसा और नामांकन पत्र छीने जाने के आरोपों के बाद राज्य निर्वाचन आयोग हर खारिज नामांकन की सूची जारी करे और निर्विरोध जीतों की जांच करे।"
+  description: "गांधी न्यूज़ संपादकीय: आंध्र प्रदेश के स्थानीय निकाय चुनावों में हिंसा और नामांकन पत्र छीने जाने के आरोपों के बाद राज्य निर्वाचन आयोग हर खारिज नामांकन की सूची जारी करे और निर्विरोध जीतों की जांच करे।"
 sources:
   - title: "TDP, YSRCP trade charges over violence during local body poll nominations in Andhra town"
     publisher: "The Federal"

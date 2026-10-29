@@ -22,7 +22,7 @@ hero:
     value: "No crowd is a court"
 related: [muzaffarpur-biker-beaten-to-death-mob-torches-nine-houses]
 seo:
-  description: "LokVox editorial: the beating to death of a biker in Muzaffarpur and the burning of nine Dalit homes show why Bihar must enforce the Supreme Court's 2018 lynching guidelines and act fast on mob violence."
+  description: "Gandhi News editorial: the beating to death of a biker in Muzaffarpur and the burning of nine Dalit homes show why Bihar must enforce the Supreme Court's 2018 lynching guidelines and act fast on mob violence."
 sources:
   - title: "Bihar biker beaten to death after two-wheeler hits child; mob torches nine houses (PTI)"
     publisher: "ThePrint"

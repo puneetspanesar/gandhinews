@@ -32,7 +32,7 @@ verification:
   status: approved
   notes:
     - "Single source (Statesman, 10:15 pm 13 Oct). Court record not seen. Facts are concrete court proceedings, stated plainly; arguments attributed."
-    - "'Former Chief Minister' for Pinarayi and 'former minister' for Riyas inferred from existing LokVox coverage (V D Satheesan is CM, LDF in opposition); the Statesman piece does not state titles. Riyas described only as Veena's husband in the body."
+    - "'Former Chief Minister' for Pinarayi and 'former minister' for Riyas inferred from existing Gandhi News coverage (V D Satheesan is CM, LDF in opposition); the Statesman piece does not state titles. Riyas described only as Veena's husband in the body."
     - "Single Bench judge not named in source. Single Bench order dated 'last Friday' = 9 October."
     - "Court name: source says 'Kerala High Court'; whether its name changes with the state's renaming is unconfirmed, so body says 'the High Court in Kochi'."
 ---

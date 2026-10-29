@@ -46,7 +46,7 @@ verification:
     - "Pezeshkian: 'no war, no peace' at an unnamed ceremony (ISNA via Dawn 4:53 pm); 'messed everything up' and 'I still think we should go and conclude it' from state TV (Reuters via Dawn 6:02 pm); food remark from speech on his website (AFP via Dawn 8:05 pm). Terms of the interim deal not described in source."
     - "Clayton memo dated 23 Oct, confirmed by a US official to ABC; quote as in ABC/Dawn."
     - "Ejei-Mojtaba Khamenei meeting: Mizan Online via Dawn, 12:00 am 25 Oct entry; time and place not disclosed."
-    - "India medicines angle: Tribune headline and LokVox 23 Oct MEA story."
+    - "India medicines angle: Tribune headline and Gandhi News 23 Oct MEA story."
 ---
 
 Iran told the United States, through Pakistan, that it was ready to reopen the Strait of Hormuz if Washington lifted its naval blockade of Iranian ports, Tehran's ambassador in Islamabad said on Saturday night. President Donald Trump, he said, said no.

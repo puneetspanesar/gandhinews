@@ -50,7 +50,7 @@ verification:
     - "Partnership: The Hawk and India.com give 153 (India.com: off 137 balls); NewsBytes gives 155. Used 153."
     - "Mandhana as captain and out for a duck, Shafali out for 8: India.com; CricTracker also calls Mandhana full-time ODI captain. Player of the match not named in any source; left out."
     - "Harmanpreet quotes from the innings break, India.com only."
-    - "Hawk spells Kranti 'Gaud'; earlier LokVox story uses 'Goud'. Kept Goud for consistency."
+    - "Hawk spells Kranti 'Gaud'; earlier Gandhi News story uses 'Goud'. Kept Goud for consistency."
 ---
 
 Harmanpreet Kaur and Deepti Sharma both made centuries at the Kotambi stadium in Vadodara on Sunday as India women beat Zimbabwe by 121 runs in the second one-day international and took the three-match series with a game to spare.

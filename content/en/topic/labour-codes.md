@@ -73,4 +73,4 @@ Appointment letters, a statutory minimum wage, timely pay, gratuity for fixed-te
 No. Gujarat's rules require five years of service for fixed-term gratuity, while several states require one, according to Shardul Amarchand Mangaldas. Conditions for women on night shifts also differ.
 
 **What is the Labour Stack?**
-A platform the Labour Ministry is building to link worker databases and welfare schemes, aimed at unorganised, gig and platform workers. Kumar said on 24 September that a pilot was expected within 15 days; LokVox has not confirmed whether it has started.
+A platform the Labour Ministry is building to link worker databases and welfare schemes, aimed at unorganised, gig and platform workers. Kumar said on 24 September that a pilot was expected within 15 days; Gandhi News has not confirmed whether it has started.

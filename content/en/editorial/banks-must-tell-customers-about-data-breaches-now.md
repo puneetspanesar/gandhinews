@@ -22,7 +22,7 @@ hero:
     value: "Tell the customer first"
 related: [sbi-says-funds-safe-suspected-data-breach, appoint-data-protection-board-before-rules-bite, your-rights-under-dpdp-act]
 seo:
-  description: "LokVox editorial: after SBI's dark web data leak, the RBI should make it binding for banks to tell affected customers within 72 hours, without waiting for May 2027."
+  description: "Gandhi News editorial: after SBI's dark web data leak, the RBI should make it binding for banks to tell affected customers within 72 hours, without waiting for May 2027."
 sources:
   - title: "3.75 lakh records, 3,897 customers: SBI says address, mobile numbers, email ID leaked in data breach"
     publisher: "Business Today"

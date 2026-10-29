@@ -23,7 +23,7 @@ hero:
     value: "धुंध नहीं, पूर्वानुमान पर कदम"
 related: [why-stubble-fires-rise-in-october-explained, delhi-aqi-139-monday-coldest-october-night, chouhan-yadav-review-stubble-burning-punjab-haryana, delhi-air-turns-poor-again-anand-vihar-dry-week, bhupender-yadav-startups-delhi-air-pollution-solutions]
 seo:
-  description: "लोकवॉक्स संपादकीय: दिल्ली की हवा हर अक्टूबर तय समय पर खराब होती है। मध्य प्रदेश और राजस्थान में पराली की आग, बेकार मशीनें और दोपहर 3 बजे के बाद उपग्रह की अंधी खिड़की पर धुंध से पहले कार्रवाई हो, बाद में नहीं।"
+  description: "गांधी न्यूज़ संपादकीय: दिल्ली की हवा हर अक्टूबर तय समय पर खराब होती है। मध्य प्रदेश और राजस्थान में पराली की आग, बेकार मशीनें और दोपहर 3 बजे के बाद उपग्रह की अंधी खिड़की पर धुंध से पहले कार्रवाई हो, बाद में नहीं।"
 sources:
   - title: "Delhi Gets Its Coldest October Night Yet, But Is Worse Air Quality Days Away?"
     publisher: "Asianet Newsable"

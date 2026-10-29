@@ -90,4 +90,4 @@ Linguist Pabitra Sarkar, a former vice-chancellor of Rabindra Bharati University
 
 Political scientist Biswanath Chakraborty said the BJP wanted to neutralise an issue that had helped the Trinamool. "So far, the TMC projected itself as the custodian of Bengali identity," he said, according to PTI. Assembly Speaker Rathindra Bose said efforts to increase the use of Bengali in the legislature had already begun.
 
-LokVox could not confirm from an official source how far the rule is being applied in government offices since 1 September.
+Gandhi News could not confirm from an official source how far the rule is being applied in government offices since 1 September.

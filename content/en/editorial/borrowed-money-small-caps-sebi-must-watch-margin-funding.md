@@ -22,7 +22,7 @@ hero:
     value: "Borrowed money, falling floors"
 related: [margin-calls-explained-why-small-caps-fell-so-fast, midcap-smallcap-indices-slide-4-per-cent-margin-calls, sensex-nifty-close-october-23-smallcaps-crash-metals]
 seo:
-  description: "LokVox editorial: margin calls deepened this week's small-cap fall. SEBI should tighten margin trading on illiquid stocks and publish data before letting brokers lend more."
+  description: "Gandhi News editorial: margin calls deepened this week's small-cap fall. SEBI should tighten margin trading on illiquid stocks and publish data before letting brokers lend more."
 sources:
   - title: "Consultation paper on review of Margin Trading Facility (MTF) framework"
     publisher: "Securities and Exchange Board of India"

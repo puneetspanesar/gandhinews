@@ -3,15 +3,15 @@ id: privacy
 lang: en
 path: privacy
 title: "Privacy policy"
-description: "What personal data LokVox collects, why, how long we keep it and your rights under India's Digital Personal Data Protection Act, 2023."
+description: "What personal data Gandhi News collects, why, how long we keep it and your rights under India's Digital Personal Data Protection Act, 2023."
 updated: 2026-10-11
 ---
 
-This policy explains what personal data we collect, why, how long we keep it and what you can do about it. It is written for India's Digital Personal Data Protection Act, 2023 (DPDP Act). Puneet Singh, the publisher of LokVox, is the Data Fiduciary for this website.
+This policy explains what personal data we collect, why, how long we keep it and what you can do about it. It is written for India's Digital Personal Data Protection Act, 2023 (DPDP Act). Puneet Singh, the publisher of Gandhi News, is the Data Fiduciary for this website.
 
 ## What we collect
 
-You can read LokVox without giving us any personal data.
+You can read Gandhi News without giving us any personal data.
 
 - **Newsletter:** if you sign up for the Morning Brief, we collect your email address and which edition you chose (English or Hindi).
 - **Messages:** if you write to us, by email or WhatsApp, we receive what you send and your contact details.

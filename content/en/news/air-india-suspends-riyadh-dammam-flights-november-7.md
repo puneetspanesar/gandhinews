@@ -44,7 +44,7 @@ verification:
   notes:
     - "Airline and consulate details from ANI (updated 10:52 pm IST, 24 Oct), which quotes the joint Air India / Air India Express advisory on X. Akasa dates (Jeddah 10 Nov, Riyadh 30 Nov) as given in the same ANI report; ANI's separate Akasa piece (8:08 am) seen only as a headline."
     - "No DGCA or MEA advisory reported in sources; copy does not claim one."
-    - "Number of stranded pilgrims not given in sources; the 3,000 returned figure is from the MEA as reported in the existing LokVox story of 23 Oct."
+    - "Number of stranded pilgrims not given in sources; the 3,000 returned figure is from the MEA as reported in the existing Gandhi News story of 23 Oct."
 ---
 
 Air India and its low-cost arm Air India Express have stopped flying to Riyadh and Dammam until 7 November, the latest Indian carriers to lengthen their suspensions as the security situation in Saudi Arabia shows no sign of easing.

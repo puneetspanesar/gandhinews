@@ -22,7 +22,7 @@ hero:
     value: "Act on the forecast, not the haze"
 related: [why-stubble-fires-rise-in-october-explained, delhi-aqi-139-monday-coldest-october-night, chouhan-yadav-review-stubble-burning-punjab-haryana, delhi-air-turns-poor-again-anand-vihar-dry-week, bhupender-yadav-startups-delhi-air-pollution-solutions]
 seo:
-  description: "LokVox editorial: Delhi's air turns poor every October on cue. Stubble fires in Madhya Pradesh and Rajasthan, idle machines and a satellite blind spot after 3 pm need action before the haze, not after."
+  description: "Gandhi News editorial: Delhi's air turns poor every October on cue. Stubble fires in Madhya Pradesh and Rajasthan, idle machines and a satellite blind spot after 3 pm need action before the haze, not after."
 sources:
   - title: "Delhi Gets Its Coldest October Night Yet, But Is Worse Air Quality Days Away?"
     publisher: "Asianet Newsable"

@@ -33,7 +33,7 @@ verification:
   status: approved
   notes:
     - "Single source: ANI, Nagpur, 2:40 pm IST. Fadnavis quotes verbatim from ANI; likely translated from Marathi/Hindi by ANI. Exact hour he spoke not given; published time set before the ANI report."
-    - "Uddhav's Saturday remarks: previous LokVox story (Marathi journalists' meet in Mumbai); ANI calls it an award ceremony. Copy says 'in Mumbai on Saturday' only."
+    - "Uddhav's Saturday remarks: previous Gandhi News story (Marathi journalists' meet in Mumbai); ANI calls it an award ceremony. Copy says 'in Mumbai on Saturday' only."
     - "Rajnath Singh quote from ANI, Lucknow press conference (date not specified; described as earlier)."
 ---
 

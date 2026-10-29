@@ -39,7 +39,7 @@ verification:
     - "Judgment details and quotes ('mere bystander', 'to put it mildly, questionable'), CET1 0.6%, 28 Dec 2016 Chennai email, 14 March 2020 write-down a day after the scheme, draft scheme clause dropped: Bar and Bench (S N Thyagarajan) only. Full judgment not read."
     - "Bar and Bench article quotes a ₹8,514 crore figure in one passage; ₹8,415 crore used, as in all other reporting."
     - "Judgment author not named in the source. No RBI or YES Bank response found by Friday morning."
-    - "17 October results date carried from the earlier LokVox story."
+    - "17 October results date carried from the earlier Gandhi News story."
 ---
 
 The Supreme Court has accused the Reserve Bank of India of standing by as a "mere bystander" while YES Bank was run in a clandestine manner, in a judgment that also found the bank had pushed risky Additional Tier-1 (AT-1) bonds on individual investors.

@@ -35,7 +35,7 @@ verification:
     - "Single source: PTI via ThePrint, 8:45 pm. Crowd size not reported; left out. No response from police, the Election Commission or the BJP in the source."
     - "Police restriction on the human chain is the organisers' claim (Kiran Vissa), attributed as such."
     - "Prabhakar quote reproduced exactly as in the PTI copy, including the missing question marks."
-    - "Delhi march background from LokVox's own 23 Oct story."
+    - "Delhi march background from Gandhi News's own 23 Oct story."
 ---
 
 Hyderabad's Tank Bund, the road that runs along Hussain Sagar lake, became a protest ground on Saturday as students and civil society groups demanded that the Special Intensive Revision (SIR) of electoral rolls be scrapped and that Chief Election Commissioner Gyanesh Kumar resign.

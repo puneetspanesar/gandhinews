@@ -21,7 +21,7 @@ hero:
     value: "Good sales, harder prices"
 related: [festive-ecommerce-sales-24000-crore-first-two-days, retail-inflation-september-2026-5-54, wpi-inflation-september-data-due-preview, rbi-right-to-move-fiscal-side-must-hold, why-retail-inflation-jumped-september-what-it-means-for-emi, inflation]
 seo:
-  description: "LokVox editorial: strong festive e-commerce sales are welcome, but with retail inflation at 5.54% and food at 7.74%, policy must focus on prices."
+  description: "Gandhi News editorial: strong festive e-commerce sales are welcome, but with retail inflation at 5.54% and food at 7.74%, policy must focus on prices."
 sources:
   - title: "E-commerce festive sales reach Rs 24,000 crore in first two days"
     publisher: "afaqs!"

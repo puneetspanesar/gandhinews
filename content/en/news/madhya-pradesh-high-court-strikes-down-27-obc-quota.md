@@ -111,7 +111,7 @@ verification:
     - "The court quote 'This case is not about grant of reservation but extent of reservation' appears in LawBeat, NewsDrum and The Wire (citing The Hindu)."
     - "Start of the protected-appointment window differs: most reports say March 2019, India TV says 2 September 2019. The story uses only the agreed end date, 29 September 2022."
     - "OBC data figures (33.87% of higher education enrolment, 28.16% of government jobs) from The Wire and Dainik Jagran English; neither clarifies the year or dataset."
-    - "Reservation split (SC 16%, ST 20%, EWS 10%) from NewsDrum and India TV. The 73% total under the 2019 law appears in NewsDrum and India TV (fact-check 12 Oct: not in Dainik Jagran English as first noted). The 60% total under 14% is LokVox arithmetic and is not stated in the text; LiveLaw reports the court itself put reserved seats at about 60%."
+    - "Reservation split (SC 16%, ST 20%, EWS 10%) from NewsDrum and India TV. The 73% total under the 2019 law appears in NewsDrum and India TV (fact-check 12 Oct: not in Dainik Jagran English as first noted). The 60% total under 14% is Gandhi News arithmetic and is not stated in the text; LiveLaw reports the court itself put reserved seats at about 60%."
     - "Hemant Khandelwal quote is from PTI (ThePrint), likely translated from Hindi by PTI."
     - "Mohan Yadav's and Kamal Nath's remarks are paraphrased in all sources (Amar Ujala, Mediawala, The Wire citing NDTV, Whispers in the Corridors); no direct quotes used."
     - "Minister Prahlad Patel's statement that the government will go to the Supreme Court rests on Mediawala (with Amar Ujala related coverage); hedged. No formal cabinet decision or petition filing was found as of 12 Oct morning."

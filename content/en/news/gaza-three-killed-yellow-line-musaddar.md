@@ -43,7 +43,7 @@ verification:
   status: approved
   notes:
     - "Details from ImArabic (20:00 UTC, 23 Oct), citing Palestinian medical sources. Haaretz headline (paywalled, robots-blocked; only the search-result title was seen) agrees on three killed. Yellow Line move at al-Musaddar rests on ImArabic only, so hedged."
-    - "No Israeli military comment found. Victims not named. Alakbarov quote from the existing LokVox story of 16 October (Dawn)."
+    - "No Israeli military comment found. Victims not named. Alakbarov quote from the existing Gandhi News story of 16 October (Dawn)."
 ---
 
 Israeli strikes killed three Palestinians in the Gaza Strip on Friday, Palestinian medical sources said, as Israeli troops were reported to have pushed the line that divides the territory further west in the centre of the Strip.

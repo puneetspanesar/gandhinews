@@ -38,7 +38,7 @@ verification:
   status: approved
   notes:
     - "Dipke quotes ('restrategize', 'neither be intimidated', 'long battle') from ANI 3:11 pm IST; 'deliberately using delaying tactics' from The Week 2:49 pm IST."
-    - "Release of Das and Ranka not confirmed by 3:15 pm IST in either source; copy says expected. Five-day custody from 14 Oct remand (earlier LokVox story)."
+    - "Release of Das and Ranka not confirmed by 3:15 pm IST in either source; copy says expected. Five-day custody from 14 Oct remand (earlier Gandhi News story)."
     - "NSUI march call (Le Meridien, 1 pm) and quote from The Week; outcome of the march not reported at time of writing, so not stated."
     - "Dipke booked under BNSS Sections 126 and 170 per ANI. ANI metadata misnames the group 'Citizens for Justice and Peace'; body uses Cockroach Janata Party."
     - "The Week highlights give a wrong bail date (24 Oct); body says Saturday. Saturday used."

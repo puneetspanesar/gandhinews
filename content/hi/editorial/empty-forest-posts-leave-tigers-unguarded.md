@@ -23,7 +23,7 @@ hero:
     value: "टाइगर रिज़र्व को लोग चाहिए"
 related: [bandipur-tiger-reserve-63-per-cent-vacancies-ntca]
 seo:
-  description: "लोकवॉक्स संपादकीय: बांदीपुर टाइगर रिज़र्व में 630 में से 402 पद खाली होने के बाद कर्नाटक और दूसरे राज्य अग्रिम पंक्ति के वन पद भरें और वॉचरों व गार्डों को सही वेतन और उपकरण दें।"
+  description: "गांधी न्यूज़ संपादकीय: बांदीपुर टाइगर रिज़र्व में 630 में से 402 पद खाली होने के बाद कर्नाटक और दूसरे राज्य अग्रिम पंक्ति के वन पद भरें और वॉचरों व गार्डों को सही वेतन और उपकरण दें।"
 sources:
   - title: "Amid poaching concerns, apex tiger body flags 63.81% vacancies in Bandipur Tiger Reserve"
     publisher: "The Tribune"

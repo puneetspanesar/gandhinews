@@ -40,7 +40,7 @@ verification:
   notes:
     - "Saturday death from Shifa hospital via AP; victim not named and the exact location in Gaza City not given. No Israeli military comment found."
     - "1,500 figure and 'nearly half' from the Hamas-run health ministry via AP, which notes the ministry does not separate civilians from fighters and that UN agencies regard its figures as generally reliable."
-    - "Alakbarov quote and Friday details from earlier LokVox stories (16 and 24 October)."
+    - "Alakbarov quote and Friday details from earlier Gandhi News stories (16 and 24 October)."
 ---
 
 शिफा अस्पताल के मुताबिक शनिवार को गाजा सिटी में इजराइली हमलों में कम से कम एक व्यक्ति की मौत हो गई। इसके साथ पिछले साल के संघर्षविराम के बाद से मरने वालों की संख्या 1,500 से ज्यादा हो चुकी है।

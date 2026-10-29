@@ -55,7 +55,7 @@ verification:
     - "Closures, Basma Radio, WAFA evictions, Reem Al Jiyawi account: AP (KSAT, Bastille Post update). IDF quote and 'several days': Times of Israel live blog (11:09 am Israel time)."
     - "'Up to 200 families' displaced from al-Jalda: Al Jazeera live blog summary only, so attributed to Palestinian sources and hedged."
     - "Khirbet Suba settler attack: WAFA via ToI; number of injured not reported. Netanyahu 'big surprise' remark via The New Arab."
-    - "Earlier LokVox story said five soldiers were wounded in Friday's gunfight; AP now says two soldiers were killed. We use AP's figure. Israeli election date (Tuesday 27 October) from earlier LokVox coverage."
+    - "Earlier Gandhi News story said five soldiers were wounded in Friday's gunfight; AP now says two soldiers were killed. We use AP's figure. Israeli election date (Tuesday 27 October) from earlier Gandhi News coverage."
 ---
 
 Israel closed off Hebron on Saturday, shutting every road gate into the largest city in the occupied West Bank and forcing families out of their homes, a day after Palestinian gunmen killed two Israeli soldiers nearby.

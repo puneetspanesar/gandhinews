@@ -81,7 +81,7 @@ Two search-cum-selection committees are handling the appointments, one chaired b
 >
 > Source: Raghvendra Kumar Chaudhary, assistant professor of law, CHRIST (Deemed to be University), writing in LiveLaw, 1 August 2026
 
-India Data Law, which checks the Board's status monthly, says it "cannot receive a complaint and it cannot pass an order." LokVox found no report of an appointment up to 11 October 2026.
+India Data Law, which checks the Board's status monthly, says it "cannot receive a complaint and it cannot pass an order." Gandhi News found no report of an appointment up to 11 October 2026.
 
 ```timeline
 {"title":"DPDP Rules: the phased timeline","items":[{"date":"Nov 2025","text":"Rules notified; provisions establishing the Data Protection Board take effect"},{"date":"6 May 2026","text":"MeitY invites applications for a chairperson and four members"},{"date":"6 Jun 2026","text":"Recruitment advertisement published"},{"date":"13 Nov 2026","text":"Consent manager framework begins"},{"date":"13 May 2027","text":"Most obligations on companies take effect, along with the Board's powers to inquire and penalise"}]}
@@ -94,9 +94,9 @@ From 13 May 2027, the Board's powers to inquire into breaches and impose penalti
 Companies must also report personal data breaches to the Board. Appeals against the Board's decisions go to the Telecom Disputes Settlement and Appellate Tribunal.
 
 ```facts
-{"title":"The Data Protection Board","items":[{"value":"1 + 4","label":"chairperson and members sought by MeitY in May 2026","source":"MeitY circular, 6 May 2026"},{"value":"0","label":"appointments announced as of 11 Oct 2026","source":"LiveLaw; India Data Law; LokVox check"},{"value":"₹250 crore","label":"maximum penalty, for failing to keep reasonable security safeguards","source":"PIB"}]}
+{"title":"The Data Protection Board","items":[{"value":"1 + 4","label":"chairperson and members sought by MeitY in May 2026","source":"MeitY circular, 6 May 2026"},{"value":"0","label":"appointments announced as of 11 Oct 2026","source":"LiveLaw; India Data Law; Gandhi News check"},{"value":"₹250 crore","label":"maximum penalty, for failing to keep reasonable security safeguards","source":"PIB"}]}
 ```
 
 ## What is still unknown
 
-LokVox found no public statement from MeitY on when the appointments will be made. The government has said the Board will work as a digital office, with complaints filed and tracked online through a portal and app; that system cannot hear cases until members are in place.
+Gandhi News found no public statement from MeitY on when the appointments will be made. The government has said the Board will work as a digital office, with complaints filed and tracked online through a portal and app; that system cannot hear cases until members are in place.

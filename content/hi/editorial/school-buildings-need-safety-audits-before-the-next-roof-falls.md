@@ -22,7 +22,7 @@ hero:
     value: "घंटी से पहले छत की जांच"
 related: [peshawar-school-roof-collapse-kills-students, after-raghopur-country-boats-need-rules-that-are-enforced]
 seo:
-  description: "लोकवॉक्स संपादकीय: पेशावर में स्कूल की छत गिरने और भारत के अपने झालावाड़ हादसे के बाद राज्य स्कूल भवनों की सुरक्षा जांच सार्वजनिक करें और असुरक्षित कमरों में कक्षाएं रोकें।"
+  description: "गांधी न्यूज़ संपादकीय: पेशावर में स्कूल की छत गिरने और भारत के अपने झालावाड़ हादसे के बाद राज्य स्कूल भवनों की सुरक्षा जांच सार्वजनिक करें और असुरक्षित कमरों में कक्षाएं रोकें।"
 sources:
   - title: "At least 29 killed, including 28 students, in Peshawar school roof collapse"
     publisher: "Dawn"

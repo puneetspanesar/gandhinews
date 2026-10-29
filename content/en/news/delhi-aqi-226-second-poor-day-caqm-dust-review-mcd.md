@@ -48,7 +48,7 @@ verification:
   status: approved
   notes:
     - "AQI 226 at 7 am (CPCB): NewsDrum 10:17 am; PTI via ThePrint 9:46 am gives 226 without hour. CPCB 4 pm daily bulletin for 22 Oct not out at time of writing."
-    - "Wednesday peak: PTI says 245 (100-day high), NewsDrum/ANI say 244 at 2 pm; used 245 as in earlier LokVox story and PTI. Jahangirpuri 309, Chandni Chowk 307 attributed to CPCB Wednesday readings (NewsDrum, ANI)."
+    - "Wednesday peak: PTI says 245 (100-day high), NewsDrum/ANI say 244 at 2 pm; used 245 as in earlier Gandhi News story and PTI. Jahangirpuri 309, Chandni Chowk 307 attributed to CPCB Wednesday readings (NewsDrum, ANI)."
     - "ANI also cited a 'government dashboard' 299 at 10:31 am and station values (Patparganj 298, ITO 280); source of these readings unclear, left out."
     - "CAQM chair Rajesh Verma review with Delhi Chief Secretary and MCD figures from NewsDrum only; date of the review meeting not stated, written without a day."
     - "Lucknow Lalbagh AQI 223 from ANI only. Rain on 24-25 Oct: IMD outlook as reported by DNA (21 Oct)."

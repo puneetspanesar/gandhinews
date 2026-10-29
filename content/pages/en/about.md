@@ -2,12 +2,12 @@
 id: about
 lang: en
 path: about
-title: "About LokVox"
-description: "LokVox (lokvox.com) is an independent news website from India: news from India and the world, politics, the economy, science and technology and sports, in English and Hindi."
+title: "About Gandhi News"
+description: "Gandhi News is an independent news website from India: news from India and the world, politics, the economy, science and technology and sports, in English and Hindi."
 updated: 2026-10-15
 ---
 
-LokVox (lokvox.com, also written Lok Vox) is an independent Indian news website. We publish news from India and the world: politics, the economy, the states, science and technology, sports, policy and Parliament, in English and Hindi. LokVox is not connected to any other outlet, channel or company with a similar name.
+Gandhi News is an independent Indian news website. We publish news from India and the world: politics, the economy, the states, science and technology, sports, policy and Parliament, in English and Hindi. Gandhi News is not connected to any other outlet, channel or company with a similar name.
 
 Our name joins two words. Lok is Hindi for people, as in Lok Sabha, and vox is Latin for voice. The red seal on every page carries ल, the first letter of लोक, because we write for the people of India, not for any party or government. We call ourselves "The people’s newsroom". We follow what governments, Parliament, parties and regulators decide, and explain what it means for the people it affects. We report what can be checked, show our evidence and correct our mistakes in public.
 
@@ -29,7 +29,7 @@ Our [editorial standards](/standards/) set out the rules we follow. When we get 
 
 ## Who we are
 
-LokVox is owned and published by Puneet Singh.
+Gandhi News is owned and published by Puneet Singh.
 
 Editor: Puneet Singh.
 

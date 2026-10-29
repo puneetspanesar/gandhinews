@@ -22,7 +22,7 @@ hero:
     value: "सूखे महीनों की तैयारी अभी"
 related: [east-northeast-india-driest-monsoon-since-1901, fadnavis-5000-drought-aid-shinde-dombivli-farmers, gehlot-rajasthan-drought-cattle-deaths-relief, telangana-el-nino-cabinet-subcommittee-bhatti-vikramarka, chouhan-khet-bachao-abhiyan-october-22-november-30]
 seo:
-  description: "लोकवॉक्स संपादकीय: दशक के सबसे कमज़ोर मानसून, पूर्वी भारत में 1901 के बाद सबसे कम बारिश और 2027 तक अल नीनो की आशंका के बीच केंद्र राहत, चारे, पानी और लू पर राष्ट्रीय सूखा योजना की अगुवाई करे।"
+  description: "गांधी न्यूज़ संपादकीय: दशक के सबसे कमज़ोर मानसून, पूर्वी भारत में 1901 के बाद सबसे कम बारिश और 2027 तक अल नीनो की आशंका के बीच केंद्र राहत, चारे, पानी और लू पर राष्ट्रीय सूखा योजना की अगुवाई करे।"
 sources:
   - title: "Northeast and East India just recorded the driest monsoon since 1901"
     publisher: "EastMojo"

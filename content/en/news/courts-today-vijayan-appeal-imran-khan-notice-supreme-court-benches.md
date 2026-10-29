@@ -57,8 +57,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Kerala HC: LiveLaw (24 Oct) says 'likely to be heard' on 26 Oct; names bench as Justices Satish Ninan and P Krishna Kumar, while LokVox's 23 Oct story (FPJ) named Justices K Natarajan and Johnson John. Bench not named in copy."
-    - "Length of SC stay: LokVox's 21 Oct story (LiveLaw report) says seven days; LiveLaw's 24 Oct piece and LawBeat say ten days. Copy says 'a short stay' and does not give a number."
+    - "Kerala HC: LiveLaw (24 Oct) says 'likely to be heard' on 26 Oct; names bench as Justices Satish Ninan and P Krishna Kumar, while Gandhi News's 23 Oct story (FPJ) named Justices K Natarajan and Johnson John. Bench not named in copy."
+    - "Length of SC stay: Gandhi News's 21 Oct story (LiveLaw report) says seven days; LiveLaw's 24 Oct piece and LawBeat say ten days. Copy says 'a short stay' and does not give a number."
     - "Imran Khan: LiveLaw 19 Oct (partly paywalled). No later report of any hearing or relief between 19 and 25 Oct found; copy says 'due to'. Bench CJ Mahesh Chandra Tripathi and Justice Advait Sethna. Quotes are LiveLaw's paraphrase of the petition and notice, used without quote marks except the FRRO wording."
     - "SC: cause list (supplementary/misc) lists 15 benches incl. CJI with Justices Bagchi and Mohana. Vacation: CJI's 16 Oct remark 'Will try to list in vacation' (LiveLaw alert). Chamber advance list of about 270 matters for 26-30 Oct per the 16 Oct notice. Traders' plea 'listed 26/27 October' from the 16 Oct alert; not found in the cause list pages read, so hedged."
 ---

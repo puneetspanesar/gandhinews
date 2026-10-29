@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "All draw and Race figures from the ATP Tour scouting report. Year-end No. 1 context from the earlier LokVox story (bergs-stuns-alcaraz-zverev-clinches-year-end-no-1)."
+    - "All draw and Race figures from the ATP Tour scouting report. Year-end No. 1 context from the earlier Gandhi News story (bergs-stuns-alcaraz-zverev-clinches-year-end-no-1)."
     - "ATP report puts Medvedev fifth in the Race on 2,670 points but Cobolli sixth on 3,640, which cannot both be right; Medvedev's Race figure left out."
     - "Opponents of Cobolli, Tiafoe and De Minaur not given; left out. Match days not released when checked."
 ---

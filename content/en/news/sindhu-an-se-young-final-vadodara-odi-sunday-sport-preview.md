@@ -52,8 +52,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Women's ODI start: Wisden match info table says 14:00 IST (header shows 08:30 AM, likely a different time zone); the earlier LokVox preview says the first ODI began at 2 pm IST at the same venue. First-ODI details from that earlier story."
-    - "Sindhu final and US GP race start times not found; left out. El Clasico time (1:30 am IST Monday) and team news from the earlier LokVox preview."
+    - "Women's ODI start: Wisden match info table says 14:00 IST (header shows 08:30 AM, likely a different time zone); the earlier Gandhi News preview says the first ODI began at 2 pm IST at the same venue. First-ODI details from that earlier story."
+    - "Sindhu final and US GP race start times not found; left out. El Clasico time (1:30 am IST Monday) and team news from the earlier Gandhi News preview."
     - "Men's kabaddi start differs (8 pm vs 8:30 pm IST); written as later in the evening."
 ---
 

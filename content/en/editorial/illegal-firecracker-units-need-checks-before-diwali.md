@@ -22,7 +22,7 @@ hero:
     value: "Check the house before it explodes"
 related: [siwan-firecracker-blast-five-dead-alampur-sho-suspended, bombay-high-court-street-firecracker-ban-all-festivals, supreme-court-firecrackers-religion-caqm-suggestions, puja-crowds-need-a-safety-plan-not-a-probe]
 seo:
-  description: "LokVox editorial: after the Siwan firecracker blast that killed three children, districts must inspect cracker units before Diwali and act on information about illegal manufacturing."
+  description: "Gandhi News editorial: after the Siwan firecracker blast that killed three children, districts must inspect cracker units before Diwali and act on information about illegal manufacturing."
 sources:
   - title: "Five killed, several injured after explosion in Bihar's Siwan as firecrackers catch fire"
     publisher: "WION"

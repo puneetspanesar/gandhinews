@@ -92,7 +92,7 @@ The Assembly's 2024 resolution linked the demand to the 1956 reorganisation of s
 
 From 25 August, "Keralam" replaces "Kerala" as the state's name in the Constitution. "The Bill provides that the State of Kerala will be known as the State of Keralam," Minister of State for Home Affairs Nityanand Rai told the Rajya Sabha, according to The News Minute.
 
-The Act also makes the consequential amendments the change requires, according to Onmanorama and The News Minute. The reports LokVox reviewed do not list those amendments or say whether the names of bodies such as the High Court, state universities or public corporations will change. The text of the Act will settle that.
+The Act also makes the consequential amendments the change requires, according to Onmanorama and The News Minute. The reports Gandhi News reviewed do not list those amendments or say whether the names of bodies such as the High Court, state universities or public corporations will change. The text of the Act will settle that.
 
 ## How Parliament handled it
 

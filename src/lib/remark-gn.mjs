@@ -1,4 +1,4 @@
-// remark plugin for LokVox Markdown.
+// remark plugin for Gandhi News Markdown.
 // - ```chart / ```facts / ```timeline JSON blocks -> designed HTML components
 // - blockquotes ending in "Source: ..." / "स्रोत: ..." -> pull quote with attribution
 // - fact checks: "### 1. ..." evidence sections -> numbered evidence items; "Source(s):" lines -> source chips

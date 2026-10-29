@@ -33,7 +33,7 @@ verification:
   status: approved
   notes:
     - "Single source: ANI 2:57 pm IST. Source does not say who used the phrase 'indentured servants'; copy deliberately does not name the speaker. Foreign Minister's statement not quoted in source and not read."
-    - "Rubio context: ANI says the remarks came amid discussion of Rubio's India engagement; Rubio in India until 22 Oct per earlier LokVox week-ahead story."
+    - "Rubio context: ANI says the remarks came amid discussion of Rubio's India engagement; Rubio in India until 22 Oct per earlier Gandhi News week-ahead story."
     - "Related story on US green card sponsorship suspension may be the backdrop but link not confirmed; kept only as related."
 ---
 

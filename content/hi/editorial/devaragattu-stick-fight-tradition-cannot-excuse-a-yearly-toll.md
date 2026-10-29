@@ -23,7 +23,7 @@ hero:
     value: "आस्था की कीमत जान न हो"
 related: [devaragattu-banni-stick-fight-one-dead-100-injured-kurnool, puja-crowds-need-a-safety-plan-not-a-probe, gorakhpur-durga-immersion-trolley-high-tension-line-three-dead]
 seo:
-  description: "लोकवॉक्स संपादकीय: कुरनूल में देवरगट्टू बन्नी लाठी लड़ाई में एक और मौत के बाद आंध्र प्रदेश नाकाम पाबंदियों के बजाय मंदिर और गांवों के साथ लागू करने योग्य सुरक्षा नियम बनाए।"
+  description: "गांधी न्यूज़ संपादकीय: कुरनूल में देवरगट्टू बन्नी लाठी लड़ाई में एक और मौत के बाद आंध्र प्रदेश नाकाम पाबंदियों के बजाय मंदिर और गांवों के साथ लागू करने योग्य सुरक्षा नियम बनाए।"
 sources:
   - title: "One killed, 100 injured in traditional stick fight in Andhra Kurnool"
     publisher: "Mumbai Press (IANS)"

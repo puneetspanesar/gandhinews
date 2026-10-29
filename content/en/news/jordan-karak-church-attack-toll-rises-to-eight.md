@@ -43,7 +43,7 @@ verification:
   status: approved
   notes:
     - "Toll of eight from Health Minister Ibrahim Badour via AP. Reuters (via ToI, 9:14 am) still had seven dead and 40 wounded, citing Jordanian authorities; that was before Badour's update."
-    - "No claim of responsibility as of Saturday morning. Village name not given in AP's update; the earlier LokVox story has the background."
+    - "No claim of responsibility as of Saturday morning. Village name not given in AP's update; the earlier Gandhi News story has the background."
 ---
 
 The death toll from Friday's shooting at a funeral in a Greek Orthodox church in southern Jordan rose to eight on Saturday, after one of the critically injured died in hospital.

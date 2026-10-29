@@ -33,7 +33,7 @@ verification:
   status: approved
   notes:
     - "Single source (ANI, 2:44 pm IST); all allegations attributed to Jagan. A second ANI piece (12:50 pm, 'alleges electoral irregularities, political violence') could not be opened."
-    - "Polling date and nomination deadline date not given in source; copy says the final day of nominations without a date. Earlier LokVox story (17 Oct) says nominations opened amid violence."
+    - "Polling date and nomination deadline date not given in source; copy says the final day of nominations without a date. Earlier Gandhi News story (17 Oct) says nominations opened amid violence."
     - "No TDP, government, police or State Election Commission response in source; copy says none was reported."
     - "46 lakh 'fake voters' figure is Jagan's claim about the SIR, attributed."
 ---

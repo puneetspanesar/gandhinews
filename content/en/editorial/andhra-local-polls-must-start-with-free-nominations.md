@@ -22,7 +22,7 @@ hero:
     value: "Free to stand, then free to vote"
 related: [andhra-local-body-nominations-violence-punganur-mithun-reddy, jagan-accuses-naidu-blocking-opposition-nominations, jagan-meets-governor-central-forces-cctv-local-body-polls, andhra-high-court-strikes-down-bc-quota-local-bodies]
 seo:
-  description: "LokVox editorial: after violence and allegations of seized nomination papers in Andhra Pradesh's local body polls, the State Election Commission must publish every rejected nomination and scrutinise unopposed wins."
+  description: "Gandhi News editorial: after violence and allegations of seized nomination papers in Andhra Pradesh's local body polls, the State Election Commission must publish every rejected nomination and scrutinise unopposed wins."
 sources:
   - title: "TDP, YSRCP trade charges over violence during local body poll nominations in Andhra town"
     publisher: "The Federal"

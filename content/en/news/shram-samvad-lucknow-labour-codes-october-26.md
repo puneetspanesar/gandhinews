@@ -35,7 +35,7 @@ sources:
     url: "https://www.devdiscourse.com/article/headlines/3983261-ministrys-shram-samvad-awareness-campaign-on-labour-codes-to-cover-industrial-clusters-across-316-districts-in-90-days-min"
     primary: false
   - title: "Labour codes: Centre wants every state's rules in place by 31 October"
-    publisher: "LokVox"
+    publisher: "Gandhi News"
     date: 2026-10-11
     url: "https://lokvox.com/news/labour-codes-centre-wants-state-rules-by-october-31"
     primary: false
@@ -44,7 +44,7 @@ verification:
   notes:
     - "PIB release (last updated 1:59 pm Saturday) would not render beyond headline and a truncated summary: Ministry of Labour & Employment 'in collaboration with the Government o...'. Partner inferred as UP government from the Lucknow venue; copy says the state government. Speakers, venue and agenda not available; not given."
     - "Campaign background (316 districts, all 36 States/UTs, 90 days, 28 Sept launch, Mandaviya quote) from Devdiscourse/ANI, 28 Sept."
-    - "31 Oct deadline and ten states with final rules: LokVox 11 Oct story (Labour Secretary)."
+    - "31 Oct deadline and ten states with final rules: Gandhi News 11 Oct story (Labour Secretary)."
 ---
 
 The Ministry of Labour and Employment will hold a two-day state-level "Shram Samvad" in Lucknow from Monday, 26 October, on the labour codes, labour welfare and social protection, the ministry said on Saturday.

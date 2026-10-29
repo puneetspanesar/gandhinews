@@ -22,7 +22,7 @@ hero:
     value: "Count first, then argue"
 related: [mann-phillaur-punjab-defamed-drugs-mha-seeks-reports, punjab-drug-war-cannot-be-left-to-vigilantes, mansa-anti-drug-activist-parvinder-jhota-shot-dead, amit-shah-punjab-drugs-gangsters-organised-crime]
 seo:
-  description: "LokVox editorial: after Bhagwant Mann said Punjab is 'defamed' over drugs, the state should publish its household drug survey and overdose data in full."
+  description: "Gandhi News editorial: after Bhagwant Mann said Punjab is 'defamed' over drugs, the state should publish its household drug survey and overdose data in full."
 sources:
   - title: "Highest overdose deaths in Punjab, has more peddlers than users: NCRB"
     publisher: "The Tribune"

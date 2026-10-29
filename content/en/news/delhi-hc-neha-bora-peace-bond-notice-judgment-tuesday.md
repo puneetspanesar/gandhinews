@@ -41,7 +41,7 @@ verification:
     - "Judgment timing unclear: judge said he would write it 'by Tuesday'; a later remark ('I have to give my judgement tomorrow no?') suggests possibly Friday. Copy says time needed and points to Tuesday, hedged."
     - "Next SEM date Saturday (24 Oct) per the court's note in the live blog."
     - "Date of filing Bar & Bench article not opened; date given approximately (from search result). LiveLaw live blog 555587 could not be fetched."
-    - "Detention at Mandi House on 16 Oct, notice 18 Oct, ₹10,000 bond: live blog; consistent with earlier LokVox coverage."
+    - "Detention at Mandi House on 16 Oct, notice 18 Oct, ₹10,000 bond: live blog; consistent with earlier Gandhi News coverage."
 ---
 
 The Delhi High Court on Thursday finished hearing AISA president Neha Bora's challenge to a police magistrate's notice asking her to sign a ₹10,000 bond to keep the peace. Justice Subramonium Prasad said he needed time to write his judgment and indicated it could come by Tuesday.

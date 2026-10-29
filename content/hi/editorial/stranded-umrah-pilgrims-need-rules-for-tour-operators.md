@@ -23,15 +23,15 @@ hero:
     value: "यात्रियों को घर लाइए"
 related: [umrah-pilgrims-stranded-saudi-mansoor-ali-khan-jaishankar, india-condemns-houthi-attacks-saudi-airports-riyadh, indian-embassy-riyadh-advisory-shelter-indoors-drones, saudi-arabia-vows-serious-response-riyadh-airport-stays-shut]
 seo:
-  description: "लोकवॉक्स संपादकीय: हूती हमलों के बाद सऊदी अरब में फंसे भारतीय उमरा यात्रियों को तुरंत दूतावास की मदद चाहिए, और उमरा टूर ऑपरेटरों के लिए पंजीकरण और वापसी की गारंटी ज़रूरी है।"
+  description: "गांधी न्यूज़ संपादकीय: हूती हमलों के बाद सऊदी अरब में फंसे भारतीय उमरा यात्रियों को तुरंत दूतावास की मदद चाहिए, और उमरा टूर ऑपरेटरों के लिए पंजीकरण और वापसी की गारंटी ज़रूरी है।"
 sources:
   - title: "India warns Umrah pilgrims as Saudi flight suspensions extend"
     publisher: "Siasat Daily"
     date: 2026-10-16
     url: "https://www.siasat.com/india-warns-umrah-pilgrims-as-saudi-flight-suspensions-extend-3559582/"
     primary: false
-  - title: "Rajya Sabha MP asks Jaishankar and Rijiju to bring home Umrah pilgrims stranded in Saudi Arabia (LokVox, source: ANI)"
-    publisher: "LokVox"
+  - title: "Rajya Sabha MP asks Jaishankar and Rijiju to bring home Umrah pilgrims stranded in Saudi Arabia (Gandhi News, source: ANI)"
+    publisher: "Gandhi News"
     date: 2026-10-18
     url: "https://lokvox.com/news/umrah-pilgrims-stranded-saudi-mansoor-ali-khan-jaishankar"
     primary: false

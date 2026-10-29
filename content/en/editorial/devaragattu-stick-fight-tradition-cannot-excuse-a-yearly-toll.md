@@ -22,7 +22,7 @@ hero:
     value: "A ritual should not need a body count"
 related: [devaragattu-banni-stick-fight-one-dead-100-injured-kurnool, puja-crowds-need-a-safety-plan-not-a-probe, gorakhpur-durga-immersion-trolley-high-tension-line-three-dead]
 seo:
-  description: "LokVox editorial: after another death at the Devaragattu Banni stick fight in Kurnool, Andhra Pradesh must agree enforceable safety rules with the temple and villages instead of relying on bans that fail."
+  description: "Gandhi News editorial: after another death at the Devaragattu Banni stick fight in Kurnool, Andhra Pradesh must agree enforceable safety rules with the temple and villages instead of relying on bans that fail."
 sources:
   - title: "One killed, 100 injured in traditional stick fight in Andhra Kurnool"
     publisher: "Mumbai Press (IANS)"

@@ -22,10 +22,10 @@ hero:
     value: "15 seats, no choice"
 related: [un-human-rights-council-elects-15-members, un-secretary-general-straw-poll-all-seven-vetoed-sall-quits, how-un-secretary-general-is-chosen-straw-polls-veto-explained]
 seo:
-  description: "LokVox editorial: the UN filled 15 Human Rights Council seats with 15 candidates again. Clean slates make the vote meaningless; India should back competitive elections."
+  description: "Gandhi News editorial: the UN filled 15 Human Rights Council seats with 15 candidates again. Clean slates make the vote meaningless; India should back competitive elections."
 sources:
-  - title: "UN fills 15 Human Rights Council seats in a vote with no contests (LokVox, source: AP via Al Jazeera)"
-    publisher: "LokVox"
+  - title: "UN fills 15 Human Rights Council seats in a vote with no contests (Gandhi News, source: AP via Al Jazeera)"
+    publisher: "Gandhi News"
     date: 2026-10-14
     url: "https://lokvox.com/news/un-human-rights-council-elects-15-members"
     primary: false

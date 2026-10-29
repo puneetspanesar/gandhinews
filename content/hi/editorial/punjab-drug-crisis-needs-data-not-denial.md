@@ -23,7 +23,7 @@ hero:
     value: "पहले गिनती, फिर बहस"
 related: [mann-phillaur-punjab-defamed-drugs-mha-seeks-reports, punjab-drug-war-cannot-be-left-to-vigilantes, mansa-anti-drug-activist-parvinder-jhota-shot-dead, amit-shah-punjab-drugs-gangsters-organised-crime]
 seo:
-  description: "लोकवॉक्स संपादकीय: भगवंत मान के 'बदनाम' वाले बयान के बाद पंजाब अपना घरेलू नशा सर्वे और ओवरडोज़ से मौतों के आंकड़े पूरी तरह जारी करे।"
+  description: "गांधी न्यूज़ संपादकीय: भगवंत मान के 'बदनाम' वाले बयान के बाद पंजाब अपना घरेलू नशा सर्वे और ओवरडोज़ से मौतों के आंकड़े पूरी तरह जारी करे।"
 sources:
   - title: "Highest overdose deaths in Punjab, has more peddlers than users: NCRB"
     publisher: "The Tribune"

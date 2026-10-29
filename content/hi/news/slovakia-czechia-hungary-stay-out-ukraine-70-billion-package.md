@@ -30,8 +30,8 @@ sources:
     date: 2026-10-17
     url: "https://kyivindependent.com/slovakia-hungary-wont-join-70-billion-euro-eu-package-sought-by-ukraine-fico-says/"
     primary: false
-  - title: "Zelenskyy asks EU leaders for €70 billion more as Trump calls him hard to deal with (LokVox, earlier report)"
-    publisher: "LokVox"
+  - title: "Zelenskyy asks EU leaders for €70 billion more as Trump calls him hard to deal with (Gandhi News, earlier report)"
+    publisher: "Gandhi News"
     date: 2026-10-16
     url: "https://lokvox.com/news/zelenskyy-asks-eu-70-billion-trump-disgrace-row"
     primary: false

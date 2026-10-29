@@ -33,7 +33,7 @@ verification:
   status: approved
   notes:
     - "Single wire report (AP via Taipei Times, Saturday print edition). The day of the announcement was not stated; written as 'has proposed'."
-    - "Pak Jong Chon and Kim Yo Jong remarks as carried in the same AP report; loudspeaker context from the LokVox story of 21 October."
+    - "Pak Jong Chon and Kim Yo Jong remarks as carried in the same AP report; loudspeaker context from the Gandhi News story of 21 October."
 ---
 
 South Korea has proposed military talks with North Korea to agree on exactly where the land border between them runs, as tension builds along a frontier where soldiers from the North have crossed into the South dozens of times this year.

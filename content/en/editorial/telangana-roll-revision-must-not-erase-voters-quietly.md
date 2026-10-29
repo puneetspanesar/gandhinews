@@ -22,7 +22,7 @@ hero:
     value: "88 lakh names need 88 lakh answers"
 related: [telangana-sir-electorate-may-shrink-26-per-cent, special-intensive-revision-how-to-check-your-name, what-india-bloc-supreme-court-petition-on-sir-asks-for, election-commission-should-publish-its-dissent]
 seo:
-  description: "LokVox editorial: Telangana's voter list may shrink 26% in the Special Intensive Revision. The Election Commission must publish deletions with reasons and give every voter a fair chance to return before 9 November."
+  description: "Gandhi News editorial: Telangana's voter list may shrink 26% in the Special Intensive Revision. The Election Commission must publish deletions with reasons and give every voter a fair chance to return before 9 November."
 sources:
   - title: "Telangana Vote Base May Shrink 26% After 83 Lakh Clear SIR Hurdle"
     publisher: "Deccan Chronicle"

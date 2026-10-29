@@ -6,6 +6,7 @@ import Icon from '../components/Icon.astro';
 import Seal from '../components/Seal.astro';
 import Photo from '../components/Photo.astro';
 import '../styles/home.css';
+import '../styles/home-gn.css';
 import { prefix, todayLine, emph } from '../lib/site';
 import { UI, SECTION_NAMES, type Lang } from '../lib/i18n';
 import { websiteLd } from '../lib/seo';
@@ -23,165 +24,136 @@ const L = m.lead;
 const desc = lang === 'hi'
   ? 'लोकवॉक्स (लोक वॉक्स): भारत और दुनिया की स्वतंत्र खबरें: राजनीति, अर्थव्यवस्था, विज्ञान-तकनीक और खेल, हिंदी और अंग्रेज़ी में।'
   : 'LokVox (Lok Vox): independent news from India and the world: politics, economy, science and tech, and sports, in English and Hindi.';
+const G = lang === 'hi' ? {
+  headlines: 'सुर्खियां', liveX: 'लगातार कवरेज', readLead: 'पूरी खबर पढ़ें', india: 'भारत', markets: 'बाज़ार और आंकड़े',
+  close: (d: string) => `${d} का बंद भाव`, ourView: 'हमारी राय', explainedX: 'खबरों के पीछे की बात', alt: 'In English', altX: 'हर खबर अंग्रेज़ी में भी',
+} : {
+  headlines: 'Headlines', liveX: 'Live coverage', readLead: 'Read the full story', india: 'India', markets: 'Markets and data',
+  close: (d: string) => `Close, ${d}`, ourView: 'Our view', explainedX: 'The stories behind the news', alt: 'हिंदी में', altX: 'Every story, in Hindi too',
+};
 const latestCorrection: any = (CORRECTIONS as any[])[0];
 ---
 <Base lang={lang} title={t.siteName} description={desc} path={route} active="home" jsonld={websiteLd(lang)}>
-<div class="home">
-  <div class="w">
-    <!-- LEAD -->
-    <section class="lead" aria-labelledby="lead-h">
-      <div>
-        <span class="tag">{L.k}</span>
-        <a href={L.href}><h1 id="lead-h">{L.d.title}</h1></a>
-        <p class="d">{L.d.standfirst}</p>
-        <div class="by"><Seal small /><span>{lang === 'hi' ? <><b>{h.desk}</b>{L.d.location && <> · {L.d.location}</>}</> : <>{h.fromDesk} <b>{h.desk}</b>{L.d.location && <> · {L.d.location}</>}</>}</span></div>
-        <div class="how">
-          {L.dataBox.map((x: any) => <div><Icon name={x.icon} style={`color:${x.color}`} /><span><b class="num">{x.value}</b>{x.label}</span></div>)}
-        </div>
-        {L.d.keyPoints?.length > 0 && (
-          <div class="kf"><h2>{h.keyPoints}</h2><ol>{L.d.keyPoints.map((k: string) => <li><span set:html={emph(k)} /></li>)}</ol></div>
-        )}
-        <div class="rel">
-          {L.below.map((x: any) => <a href={x.href}><div><span class="k">{x.k}</span><h3>{x.d.title}</h3></div><Photo id={x.id} src={x.d.hero?.src} /></a>)}
-        </div>
-      </div>
-      <div class={L.photo ? 'pic' : 'pic nopic'}>
-        {L.photo && <a class="lph" href={L.href} tabindex="-1" aria-hidden="true"><Photo id={L.id} src={L.d.hero?.src} alt={L.d.hero?.alt} size="lg" lang={lang} eager />
-          {L.overlay && <span class="ov"><span class="ok">{L.overlay.k}</span><span class="ovv num">{L.overlay.v}</span>{L.overlay.t && <span class="ot">{L.overlay.t}</span>}</span>}</a>}
-        {L.chart && <div class="chartbox" set:html={L.chart} />}
-        <div class="rel">
-          {L.beside.map((x: any) => <a href={x.href}><div><span class="k">{x.k}</span><h3>{x.d.title}</h3></div><Photo id={x.id} src={x.d.hero?.src} /></a>)}
-        </div>
-      </div>
-      <aside class="lt" aria-labelledby="brief-h">
-        <h2 id="brief-h">{h.briefing}</h2>
-        <p class="cad">{todayLine(lang)}</p>
-        <ol class="br">
-          {m.briefing.map((b: any) => <li><Icon name={b.icon} /><a href={b.href}><p><b>{b.lead}</b> {b.text}</p></a></li>)}
-        </ol>
-        <a class="ball" href="#newsletter">{h.morningBrief} <Icon name="caret-right" /></a>
-      </aside>
-    </section>
+<div class="home gn">
+  <!-- HEADLINES -->
+  <section class="w g-ct" aria-labelledby="hl-h">
+    <h2 id="hl-h">{G.headlines}</h2>
+    <div class="g-g">
+      <article class="g-c g-lead">
+        <a href={L.href} class="g-im g-im-lead" tabindex="-1" aria-hidden="true"><Photo id={L.id} src={L.d.hero?.src} alt={L.d.hero?.alt} size="lg" lang={lang} eager /></a>
+        <a href={L.href}><h1 id="lead-h"><span class="kk">{m.live.title}</span> {L.d.title}</h1></a>
+        <p class="sf">{L.d.standfirst}</p>
+        {m.live.points.length > 0 && <ul class="g-pts">{m.live.points.slice(0, 3).map((k: string) => <li>{k}</li>)}</ul>}
+      </article>
+      {m.headlines.slice(0, 2).map((x: any) => <article class="g-c"><a href={x.href} class="g-im" tabindex="-1" aria-hidden="true"><Photo id={x.id} src={x.d.hero?.src} lang={lang} /></a><a href={x.href}><h3><span class="kk">{x.kk}</span> {x.d.title}</h3></a></article>)}
+      {m.headlines.slice(2, 4).map((x: any, i: number) => <article class="g-c g-tr"><a href={x.href}><h3><span class="kk">{x.kk}</span> {x.d.title}</h3></a>{i === 0 && <p class="sf">{x.d.standfirst}</p>}</article>)}
+      {m.headlines.slice(4, 8).map((x: any) => <article class="g-c g-tr g-sm"><a href={x.href} class="g-im" tabindex="-1" aria-hidden="true"><Photo id={x.id} src={x.d.hero?.src} lang={lang} /></a><a href={x.href}><h3><span class="kk">{x.kk}</span> {x.d.title}</h3></a></article>)}
+    </div>
+  </section>
 
-    <!-- TOP STORIES + START HERE -->
-    <section class="sec nob" aria-label={h.topStories}>
-      <div class="two">
-        <div>
-          <div class="sh"><h2 id="top-stories">{h.topStories}</h2></div>
-          <div class="ts2">
-            <article class="big">
-              <a href={m.big.href} tabindex="-1" aria-hidden="true"><Photo id={m.big.id} src={m.big.d.hero?.src} alt={m.big.d.hero?.alt} size="lg" lang={lang} /></a>
-              <span class="k">{m.big.k}</span>
-              <a href={m.big.href}><h3>{m.big.d.title}</h3></a>
-              <p class="sd">{m.big.d.standfirst}</p>
-              <ul class="also">{m.bigAlso.map((x: any) => <li><a href={x.href}>{x.label}</a></li>)}</ul>
-            </article>
-            <div class="sm">
-              {m.top.map((x: any) => <article><a href={x.href}><div><span class="k">{x.k}</span><h3>{x.d.title}</h3></div><Photo id={x.id} src={x.d.hero?.src} /></a></article>)}
-            </div>
-          </div>
+  <!-- LIVE BAND -->
+  {m.live.feature && (
+    <section class="g-band g-red" aria-labelledby="live-h">
+      <div class="w g-live">
+        <div class="g-bt"><h2 id="live-h">{m.live.title}</h2><span>{G.liveX}</span></div>
+        <div class="g-lf">
+          <a href={m.live.feature.href} class="g-im" tabindex="-1" aria-hidden="true"><Photo id={m.live.feature.id} src={m.live.feature.d.hero?.src} lang={lang} size="lg" /></a>
+          <a href={m.live.feature.href}><h3>{m.live.feature.d.title}</h3></a>
+          <div class="g-facts">{m.live.facts.map((x: any) => <div><Icon name={x.icon} /><span><b>{x.value}</b>{x.label}</span></div>)}</div>
         </div>
-        <aside class="mr" aria-labelledby="start-h">
-          <div class="sh"><h2 id="start-h">{h.startHere}</h2><span class="x">{h.explainers}</span></div>
-          <ol>{m.start.map((x: any) => <li><Icon name={x.icon} /><a href={x.href}><h3>{x.d.title}</h3><p class="m">{x.meta}</p></a></li>)}</ol>
-        </aside>
+        <div class="g-ll">
+          {m.live.list.map((x: any) => <a href={x.href}><h3>{x.d.title}</h3></a>)}
+          {m.live.list.length < 2 && m.live.points.map((k: string) => <p>{k}</p>)}
+          <a class="g-more" href={L.href}>{G.readLead} <Icon name="caret-right" /></a>
+        </div>
       </div>
     </section>
-  </div>
+  )}
 
-  <!-- DESKS: WORLD, SCIENCE & TECH, SPORTS -->
-  <section class="band gry dk" aria-label={m.desks.map((d: any) => S[d.key]).join(', ')}>
-    <div class="w">
-      <div class="dk3">
-        {m.desks.map((dk: any) => (
-          <div>
-            <h2><a href={`${p}/${dk.key}/`}>{S[dk.key]}</a><a class="mo" href={`${p}/${dk.key}/`}>{h.more} <Icon name="caret-right" /></a></h2>
-            <article class="dlead">
-              <a href={dk.lead.href} tabindex="-1" aria-hidden="true"><Photo id={dk.lead.id} src={dk.lead.d.hero?.src} alt={dk.lead.d.hero?.alt} size="lg" lang={lang} /></a>
-              <span class="k">{dk.lead.k}</span>
-              <a href={dk.lead.href}><h3>{dk.lead.d.title}</h3></a>
-              <p class="sd">{dk.lead.d.standfirst}</p>
-            </article>
-            {dk.list.map((x: any) => <article class="ds"><a href={x.href}><h3>{x.d.title}</h3><Photo id={x.id} src={x.d.hero?.src} /></a></article>)}
-          </div>
+  <!-- INDIA -->
+  {m.india.length > 0 && (
+    <section class="w g-ct" aria-labelledby="in-h">
+      <h2 id="in-h"><a href={`${p}/states/`}>{G.india}</a></h2>
+      <div class="g-g">
+        {m.india.map((x: any, i: number) => <article class={i === 0 ? 'g-c g-s2' : 'g-c'}><a href={x.href} class={i === 0 ? 'g-im g-im-big' : 'g-im'} tabindex="-1" aria-hidden="true"><Photo id={x.id} src={x.d.hero?.src} lang={lang} size={i === 0 ? 'lg' : 'sm'} /></a><a href={x.href}><h3><span class="kk">{x.kk}</span> {x.d.title}</h3></a></article>)}
+      </div>
+    </section>
+  )}
+
+  <!-- MARKETS BAND -->
+  <section class="g-band g-blk" aria-labelledby="mk-h">
+    <div class="w g-split">
+      <div class="g-bt"><h2 id="mk-h">{G.markets}</h2><span>{G.close(m.markets.asOf)}</span></div>
+      <div class="g-g">
+        <figure class="g-c g-s2 g-ch"><b>{m.markets.sensexTitle}</b><Fragment set:html={m.markets.sensex} /></figure>
+        <figure class="g-c g-s2 g-ch"><b>{m.markets.cpiTitle}</b><Fragment set:html={m.markets.cpi} /></figure>
+        {m.markets.figs.map((f: any) => <div class="g-c g-tr g-fig"><span>{f.l}</span><b class="num">{f.v}</b></div>)}
+        {m.econ[0] && <article class="g-c g-tr"><a href={m.econ[0].href}><h3 class="g-h17"><span class="kk">{m.econ[0].kk}</span> {m.econ[0].d.title}</h3></a></article>}
+      </div>
+    </div>
+  </section>
+
+  <!-- OPINION -->
+  <section class="g-band g-tint" aria-labelledby="op-h">
+    <div class="w g-split">
+      <div class="g-bt"><h2 id="op-h"><a href={`${p}/opinion/`}>{h.opinion}</a></h2><span>{G.ourView}</span></div>
+      <div class="g-g">
+        {m.opinion.slice(0, 4).map((x: any) => <article class="g-c g-op"><Icon name="quotes" /><a href={x.href}><h3>{x.d.title}</h3></a></article>)}
+      </div>
+    </div>
+  </section>
+
+  <!-- WORLD, SCIENCE: desk containers -->
+  {m.desks.filter((d: any) => d.key !== 'sports').map((dk: any) => (
+    <section class="w g-ct" aria-label={S[dk.key]}>
+      <h2><a href={`${p}/${dk.key}/`}>{S[dk.key]}</a></h2>
+      <div class="g-g">
+        {[dk.lead, ...dk.list].slice(0, 4).map((x0: any) => { const x = m.kk(x0); return <article class="g-c"><a href={x.href} class="g-im" tabindex="-1" aria-hidden="true"><Photo id={x.id} src={x.d.hero?.src} lang={lang} /></a><a href={x.href}><h3><span class="kk">{x.kk}</span> {x.d.title}</h3></a></article>; })}
+      </div>
+    </section>
+  ))}
+
+  <!-- EXPLAINED BAND -->
+  <section class="g-band g-blk" aria-labelledby="ex-h">
+    <div class="w g-split">
+      <div class="g-bt"><h2 id="ex-h"><a href={`${p}/explained/`}>{h.explained}</a></h2><span>{G.explainedX}</span></div>
+      <div class="g-g">
+        {m.start.slice(0, 5).map((x: any, i: number) => (
+          <article class={i === 0 ? 'g-c g-s2 g-r2' : i < 3 ? 'g-c' : 'g-c g-tr'}>
+            {i < 3 && <a href={x.href} class={i === 0 ? 'g-im g-im-big' : 'g-im'} tabindex="-1" aria-hidden="true"><Photo id={x.id} src={x.d.hero?.src} lang={lang} size={i === 0 ? 'lg' : 'sm'} /></a>}
+            <a href={x.href}><h3 class={i === 0 ? 'g-h28' : 'g-h17'}>{x.d.title}</h3></a>
+            {i === 0 && <p class="sf">{x.d.standfirst}</p>}
+          </article>
         ))}
       </div>
     </div>
   </section>
 
-  <div class="w">
-    <!-- EXPLAINED + OPINION -->
-    <section class="sec" aria-label={`${h.explained}, ${h.opinion}`}>
-      <div class="two">
-        <div>
-          <div class="sh"><h2>{h.explained}</h2><a href={`${p}/explained/`}>{h.allExplainers} <Icon name="caret-right" /></a></div>
-          <div class="ex">
-            {m.explained.map((x: any) => (
-              <div>
-                <a class="pl" href={x.href} tabindex="-1" aria-hidden="true"><Photo id={x.id} src={x.d.hero?.src} /></a>
-                <span class="k">{x.topic}</span>
-                <a href={x.href}><h3>{x.d.title}</h3></a>
-                <p class="sd">{x.d.standfirst}</p>
-                <div class="kn">{x.kn.map((k: any) => <div><b class="num">{k.v}</b>{k.l}</div>)}</div>
-              </div>
-            ))}
-          </div>
-        </div>
-        <aside class="op">
-          <div class="sh"><h2>{h.opinion}</h2><span class="x">{h.opinionX}</span><a href={`${p}/opinion/`}>{h.allEditorials} <Icon name="caret-right" /></a></div>
-          {m.opinion.map((x: any) => <article><Icon name={x.icon} /><a href={x.href}><span class="k">{x.topic}</span><h3>{x.d.title}</h3></a></article>)}
-        </aside>
+  <!-- SPORT -->
+  {m.desks.filter((d: any) => d.key === 'sports').map((dk: any) => (
+    <section class="w g-ct" aria-label={S.sports}>
+      <h2><a href={`${p}/sports/`}>{S.sports}</a></h2>
+      <div class="g-g">
+        {[dk.lead, ...dk.list].slice(0, 3).map((x0: any, i: number) => { const x = m.kk(x0); return <article class={i === 0 ? 'g-c g-s2' : 'g-c'}><a href={x.href} class={i === 0 ? 'g-im g-im-big' : 'g-im'} tabindex="-1" aria-hidden="true"><Photo id={x.id} src={x.d.hero?.src} lang={lang} size={i === 0 ? 'lg' : 'sm'} /></a><a href={x.href}><h3 class={i === 0 ? 'g-h26' : undefined}><span class="kk">{x.kk}</span> {x.d.title}</h3></a></article>; })}
       </div>
     </section>
+  ))}
 
-    <!-- SECTION FRONTS -->
-    <section class="sec" aria-label={t.sections}>
-      <div class="fr">
-        {m.sections.map((s: any) => (
-          <div>
-            <h2><a href={`${p}/${s.key}/`} style="font:inherit;color:inherit">{S[s.key]}</a><a href={`${p}/${s.key}/`}>{h.more} <Icon name="caret-right" /></a></h2>
-            {s.module?.type === 'bypolls' && (
-              <div class="mini"><div class="mh"><a href={s.module.href}>{s.module.title}</a><b>{h.bypollSeats(s.module.n)}</b></div>
-                <table class="num"><tbody>{s.module.rows.map((r: any) => <tr><td>{r.seat}</td><td>{r.party} <span style="color:var(--mut);font-weight:400">· {r.margin}</span></td></tr>)}</tbody></table>
-              </div>
-            )}
-            {s.module?.type === 'session' && (
-              <div class="mini"><div class="mh"><span>{s.module.name}</span><b>{s.module.when}</b></div>
-                <table class="num"><tbody>{s.module.rows.map((r: any) => <tr><td>{r.l}</td><td>{r.v}</td></tr>)}</tbody></table>
-              </div>
-            )}
-            {s.lead && <a class="lead2" href={s.lead.href}><div><h3>{s.lead.d.title}</h3><p class="m">{s.lead.k}</p></div><Photo id={s.lead.id} src={s.lead.d.hero?.src} /></a>}
-            {s.module?.type === 'markets' && (
-              <table class="num"><tbody>{s.module.rows.map((r: any) => <tr><td>{r.l}</td><td>{r.v}{r.pct && <span class={r.up ? 'up' : 'dn'}>{r.pct}</span>}</td></tr>)}</tbody></table>
-            )}
-            {s.list.length > 0 && <ul>{s.list.map((x: any) => <li><a href={x.href}>{x.d.title}</a></li>)}</ul>}
-          </div>
-        ))}
-        <div class="lat">
-          <h2>{h.weekAhead}</h2>
-          <ol>{m.week.map((x: any) => <li><Icon name={x.icon} /><div><span class="dt">{x.date}</span>{x.href ? <a href={x.href}>{x.text}</a> : <span>{x.text}</span>}</div></li>)}</ol>
-        </div>
+  <!-- OTHER LANGUAGE + WEEK AHEAD -->
+  <section class="g-band g-red" aria-labelledby="ol-h">
+    <div class="w g-live">
+      <div class="g-bt"><h2 id="ol-h" lang={lang === 'en' ? 'hi' : 'en'} class={lang === 'en' ? 'dv' : undefined}>{G.alt}</h2><span>{G.altX}</span></div>
+      <div class="g-ll" lang={lang === 'en' ? 'hi' : 'en'}>
+        {m.altLang.map((x: any) => <a href={x.href} class={lang === 'en' ? 'dv' : undefined}><h3>{x.title}</h3></a>)}
       </div>
-    </section>
-
-    <!-- INDIA IN NUMBERS -->
-    <section class="sec" aria-labelledby="num-h">
-      <div class="sh"><h2 id="num-h">{h.numbers}</h2><span class="x">{h.numbersX}</span><a href={m.dashHref}>{h.dashboard} <Icon name="caret-right" /></a></div>
-      <div class="ind">
-        {m.numbers.map((x: any) => (
-          <div>
-            <div class="t"><Icon name={x.icon} />{x.label}</div>
-            <div class="v num">{x.value}</div>
-            <div class="c num">{x.change}</div>
-            <div class="sp"><Fragment set:html={x.spark} /><div class="sx"><span>{x.x0}</span><span>{x.x1}</span></div></div>
-            <div class="s">{x.src}</div>
-          </div>
-        ))}
+      <div class="g-wk">
+        <h3>{h.weekAhead}</h3>
+        <dl>{m.week.map((x: any) => <><dt>{x.date}</dt><dd>{x.href ? <a href={x.href}>{x.text}</a> : x.text}</dd></>)}</dl>
       </div>
-    </section>
+    </div>
+  </section>
 
-  </div>
-
+  <div class="g-rest">
   <!-- TRACKERS BAND -->
   <section class="band blk" aria-labelledby="trk-h">
     <div class="w">
@@ -311,6 +283,7 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
         {h.pillars.map((x: any) => <a class="pr" href={`${p}${x.href}`}><Icon name={x.icon} /><span><b>{x.b}</b><p>{x.p}</p></span></a>)}
       </div>
     </section>
+  </div>
   </div>
 </div>
 </Base>

@@ -23,7 +23,7 @@ hero:
     value: "भीड़ गिनिए, लाशें नहीं"
 related: [kolkata-chorbagan-durga-puja-pandal-stampede, kolkata-police-shut-major-pandals-stampede-probe, hyderabad-dandiya-arch-collapse-student-killed]
 seo:
-  description: "लोकवॉक्स संपादकीय: कोलकाता के चोरबागान दुर्गा पूजा पंडाल पर 19 मौतों के बाद बड़े त्योहारों और रैलियों के लिए सार्वजनिक भीड़ योजना, तय क्षमता और साफ जवाबदेही ज़रूरी।"
+  description: "गांधी न्यूज़ संपादकीय: कोलकाता के चोरबागान दुर्गा पूजा पंडाल पर 19 मौतों के बाद बड़े त्योहारों और रैलियों के लिए सार्वजनिक भीड़ योजना, तय क्षमता और साफ जवाबदेही ज़रूरी।"
 sources:
   - title: "Year Ender 2025: From Mahakumbh To Karur, Major Stampedes That Shook India"
     publisher: "Free Press Journal"

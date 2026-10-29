@@ -22,7 +22,7 @@ hero:
     value: "Rules for newsrooms belong in public"
 related: [mib-warns-tv-channels-programme-code-ai-caution, cert-in-ai-agents-warning-must-not-fade, blocking-orders-like-bitchat-must-not-stay-secret]
 seo:
-  description: "LokVox editorial: the I&B ministry's advisory to TV channels on the Programme Code and AI raises fair concerns, but rules for news should be public, precise and enforced through an open process."
+  description: "Gandhi News editorial: the I&B ministry's advisory to TV channels on the Programme Code and AI raises fair concerns, but rules for news should be public, precise and enforced through an open process."
 sources:
   - title: "Govt warns TV channels over Programme Code violations, urges caution in AI use (IANS)"
     publisher: "Punjab Kesari (English)"

@@ -23,7 +23,7 @@ hero:
     value: "88 लाख नाम, 88 लाख जवाब चाहिए"
 related: [telangana-sir-electorate-may-shrink-26-per-cent, special-intensive-revision-how-to-check-your-name, what-india-bloc-supreme-court-petition-on-sir-asks-for, election-commission-should-publish-its-dissent]
 seo:
-  description: "लोकवॉक्स संपादकीय: विशेष गहन पुनरीक्षण में तेलंगाना की मतदाता सूची 26% घट सकती है। चुनाव आयोग 9 नवंबर से पहले हटाए गए नाम वजह के साथ सार्वजनिक करे और हर मतदाता को लौटने का उचित मौका दे।"
+  description: "गांधी न्यूज़ संपादकीय: विशेष गहन पुनरीक्षण में तेलंगाना की मतदाता सूची 26% घट सकती है। चुनाव आयोग 9 नवंबर से पहले हटाए गए नाम वजह के साथ सार्वजनिक करे और हर मतदाता को लौटने का उचित मौका दे।"
 sources:
   - title: "Telangana Vote Base May Shrink 26% After 83 Lakh Clear SIR Hurdle"
     publisher: "Deccan Chronicle"

@@ -35,7 +35,7 @@ verification:
     - "Single source: PTI via ThePrint, published 1:45 am 18 Oct, event on 17 Oct in Imphal."
     - "Census deferral is the CM's statement as paraphrased by PTI; no Registrar General notification found or checked. Attributed to him, not stated as fact."
     - "Conflict toll (at least 306 dead, 49 missing) as given by PTI."
-    - "Kamjong attack detail consistent with the earlier LokVox Chassad story; PTI says one man was shot dead and four injured, which may include a later toll."
+    - "Kamjong attack detail consistent with the earlier Gandhi News Chassad story; PTI says one man was shot dead and four injured, which may include a later toll."
 ---
 
 Manipur Chief Minister Y Khemchand Singh said on Saturday that peace was the only way for the state to take part in India's growth, and told a gathering in Imphal that the Census had been deferred in Manipur.

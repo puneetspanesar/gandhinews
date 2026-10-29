@@ -21,7 +21,7 @@ export const H = {
     trackers: 'Trackers', trackersX: 'Where things stand, updated as the record changes', allTrackers: 'All trackers',
     dataDesk: 'Data desk', moreCharts: 'Election calendar', early: 'Early 2027', late: 'Late 2027', others: 'Others',
     state: 'State', termEnds: 'Term ends',
-    mapSource: (d: string) => `Source: LokVox election calendar, as of ${d}. Where a term-end date is not in our calendar, the month the poll is expected is shown.`,
+    mapSource: (d: string) => `Source: Gandhi News election calendar, as of ${d}. Where a term-end date is not in our calendar, the month the poll is expected is shown.`,
     parl: 'Parliament tracker', sittings: 'Sittings', lsProd: 'Lok Sabha productivity', billsPassed: 'Bills passed',
     bill: 'Bill', cols: ['Introduced', 'Committee', 'Lok Sabha', 'Rajya Sabha'],
     done: 'Done', cur: 'Current stage', not: 'Not yet', skip: 'Not referred', prs: 'Source: PRS Legislative Research',
@@ -34,7 +34,7 @@ export const H = {
       { icon: 'file-text', b: 'Sources on every story', p: 'Each report lists the documents, data and interviews behind it.', href: '/standards/' },
       { icon: 'pencil-simple-line', b: 'Corrections in public', p: 'Mistakes are fixed on the story and logged with the date.', href: '/corrections/' },
       { icon: 'scales', b: 'News and opinion kept apart', p: 'Opinion is always labelled and never mixed into reporting.', href: '/standards/' },
-      { icon: 'shield-check', b: 'Ownership declared', p: 'Who owns and funds LokVox, published in full.', href: '/ownership/' },
+      { icon: 'shield-check', b: 'Ownership declared', p: 'Who owns and funds Gandhi News, published in full.', href: '/ownership/' },
     ],
     bypollSeats: (n: number) => `${n} seats`, seat: 'Seat', winner: 'Winner', margin: 'Margin',
     lsProdPrs: 'Lok Sabha productivity (PRS)', rsProdPrs: 'Rajya Sabha productivity (PRS)', qh: 'Lok Sabha Question Hour, whole session', minister: 'Bills passed with only the minister speaking',
@@ -55,7 +55,7 @@ export const H = {
     trackers: 'ट्रैकर', trackersX: 'अभी क्या स्थिति है, रिकॉर्ड बदलते ही अपडेट', allTrackers: 'सभी ट्रैकर',
     dataDesk: 'डेटा डेस्क', moreCharts: 'चुनाव कैलेंडर', early: '2027 की शुरुआत', late: '2027 का आखिर', others: 'बाकी',
     state: 'राज्य', termEnds: 'कार्यकाल खत्म',
-    mapSource: (d: string) => `स्रोत: लोकवॉक्स चुनाव कैलेंडर, ${d} की स्थिति। जहां कार्यकाल खत्म होने की तारीख हमारे कैलेंडर में नहीं है, वहां चुनाव का संभावित महीना दिया गया है।`,
+    mapSource: (d: string) => `स्रोत: गांधी न्यूज़ चुनाव कैलेंडर, ${d} की स्थिति। जहां कार्यकाल खत्म होने की तारीख हमारे कैलेंडर में नहीं है, वहां चुनाव का संभावित महीना दिया गया है।`,
     parl: 'संसद ट्रैकर', sittings: 'बैठकें', lsProd: 'लोकसभा का कामकाज', billsPassed: 'विधेयक पास',
     bill: 'विधेयक', cols: ['पेश', 'समिति', 'लोकसभा', 'राज्यसभा'],
     done: 'पूरा', cur: 'अभी इस चरण में', not: 'अभी नहीं', skip: 'समिति को नहीं भेजा', prs: 'स्रोत: पीआरएस लेजिस्लेटिव रिसर्च',
@@ -68,7 +68,7 @@ export const H = {
       { icon: 'file-text', b: 'हर खबर के स्रोत', p: 'हर रिपोर्ट में उसके पीछे के दस्तावेज़, आंकड़े और बातचीत दर्ज हैं।', href: '/standards/' },
       { icon: 'pencil-simple-line', b: 'सुधार सबके सामने', p: 'गलतियां खबर पर ही सुधारी जाती हैं और तारीख के साथ दर्ज होती हैं।', href: '/corrections/' },
       { icon: 'scales', b: 'खबर और राय अलग', p: 'राय पर हमेशा लेबल होता है और वह रिपोर्टिंग में नहीं मिलाई जाती।', href: '/standards/' },
-      { icon: 'shield-check', b: 'स्वामित्व की घोषणा', p: 'लोकवॉक्स का मालिक और फंड देने वाले कौन हैं, पूरी जानकारी।', href: '/ownership/' },
+      { icon: 'shield-check', b: 'स्वामित्व की घोषणा', p: 'गांधी न्यूज़ का मालिक और फंड देने वाले कौन हैं, पूरी जानकारी।', href: '/ownership/' },
     ],
     bypollSeats: (n: number) => `${n} सीटें`, seat: 'सीट', winner: 'विजेता', margin: 'अंतर',
     lsProdPrs: 'लोकसभा का कामकाज (पीआरएस)', rsProdPrs: 'राज्यसभा का कामकाज (पीआरएस)', qh: 'लोकसभा में प्रश्नकाल, पूरे सत्र में', minister: 'सिर्फ मंत्री के बोलने पर पास हुए विधेयक',
@@ -462,7 +462,88 @@ export async function homeModel(lang: Lang) {
   // ---- Desks: world, science and tech, sports
   const desks = (HOME.desks ?? []).map((s: any) => ({ key: s.section, lead: card(s.lead), list: (s.list ?? []).map(card) }));
 
-  return { week, desks, lead, briefing, numbers, dashHref, big, bigAlso, top, start, trackers, billsCard, econCard, elCard, budgetCard, scCard, mapModel, parl, fcCards, fcStats, explained, opinion, sections };
+
+  // ---- 2026 front page (Gandhi News): headline grid, live band, India block, markets band, other-language links
+  const used = new Set<string>([lead.id, ...lead.below.map((x: any) => x.id)]);
+  const short = (x: any) => {
+    const k = labelParts(x.d.format_label).slice(-1)[0] ?? '';
+    return { ...x, kk: k && !String(x.d.title).toLowerCase().startsWith(k.toLowerCase()) ? k : '' };
+  };
+  const pick = (ids: (string | undefined)[], n: number) => {
+    const out: any[] = [];
+    for (const id of ids) {
+      if (!id || out.length >= n || used.has(id) || !c.all.get(id)) continue;
+      used.add(id); out.push(short(card(id)));
+    }
+    return out;
+  };
+  const sec = (k: string): any => HOME.sections.find((s: any) => s.section === k) ?? {};
+  const headlines = pick([...HOME.lead.relatedBeside, HOME.topStories.big.id, ...HOME.topStories.list, ...HOME.topStories.big.also], 8);
+  const india = pick([sec('states').lead, ...(sec('politics').list ?? []), ...(sec('states').list ?? []), ...(sec('policy').list ?? []), sec('policy').lead], 3);
+  const econ = pick([sec('economy').lead, ...(sec('economy').list ?? [])], 2);
+  const L0: any = HOME.lead;
+  const leadTopic = leadE.data.topics?.[0] ? (await topicLink(leadE.data.topics[0], lang)).label : '';
+  const live = {
+    title: L0.live?.title?.[lang] || leadTopic || lead.k,
+    feature: lead.below[0] ? short(lead.below[0]) : null,
+    list: lead.below.slice(1).map(short),
+    points: (lead.d.keyPoints ?? []).map((k: string) => String(k).replace(/\*\*/g, '')),
+    facts: lead.dataBox.slice(0, 3),
+  };
+  // Charts for the markets band
+  const hist = (id: string) => { const { en, loc } = indicatorPair(lang, id); return ((loc.history ?? en.history ?? []) as any[]).slice(-8); };
+  const W = 330, Ht = 160;
+  const lineChart = (id: string, label: string) => {
+    const h = hist(id); if (h.length < 2) return '';
+    const vs = h.map((x) => x.value as number);
+    const mn = Math.min(...vs), mx = Math.max(...vs);
+    const step = Math.pow(10, Math.floor(Math.log10(mx - mn || 1)));
+    const lo = Math.floor(mn / step) * step, hi2 = Math.ceil(mx / step) * step;
+    const X = (i: number) => 48 + (i * (W - 60)) / (vs.length - 1);
+    const Y = (v: number) => 130 - ((v - lo) / (hi2 - lo || 1)) * 118;
+    const ticks = [lo, hi2];
+    const pts = vs.map((v, i) => `${X(i).toFixed(1)},${Y(v).toFixed(1)}`).join(' ');
+    const last = vs.length - 1;
+    const f = (v: number) => fmtNum(v, step >= 1 ? 0 : 2);
+    return `<svg viewBox="0 0 ${W} ${Ht}" width="100%" role="img" aria-label="${esc(label)}">`
+      + ticks.map((t) => `<line x1="48" y1="${Y(t).toFixed(1)}" x2="${W - 6}" y2="${Y(t).toFixed(1)}" stroke="#3a3a3a"/><text x="0" y="${(Y(t) + 4).toFixed(1)}" font-size="10" fill="#fff">${f(t)}</text>`).join('')
+      + `<polyline points="${pts}" fill="none" stroke="#fff" stroke-width="2.5" stroke-linejoin="round"/>`
+      + `<circle cx="${X(last).toFixed(1)}" cy="${Y(vs[last]).toFixed(1)}" r="4.5" fill="#ff4d4d"/>`
+      + `<text x="48" y="152" font-size="10" fill="#fff">${esc(periodLabel(h[0].period, lang))}</text><text x="${W - 6}" y="152" font-size="10" fill="#fff" text-anchor="end">${esc(periodLabel(h[last].period, lang))}</text></svg>`;
+  };
+  const barChart = (id: string, label: string) => {
+    const h = hist(id); if (h.length < 2) return '';
+    const vs = h.map((x) => x.value as number);
+    const mx = Math.ceil(Math.max(...vs));
+    const bw = (W - 40) / vs.length;
+    const Y = (v: number) => 130 - (v / (mx || 1)) * 110;
+    const last = vs.length - 1;
+    return `<svg viewBox="0 0 ${W} ${Ht}" width="100%" role="img" aria-label="${esc(label)}">`
+      + [mx / 2, mx].map((t) => `<line x1="30" y1="${Y(t).toFixed(1)}" x2="${W - 4}" y2="${Y(t).toFixed(1)}" stroke="#3a3a3a"/><text x="0" y="${(Y(t) + 4).toFixed(1)}" font-size="10" fill="#fff">${fmtNum(t, 0)}%</text>`).join('')
+      + `<line x1="30" y1="130" x2="${W - 4}" y2="130" stroke="#fff"/>`
+      + vs.map((v, i) => `<rect x="${(34 + i * bw).toFixed(1)}" y="${Y(v).toFixed(1)}" width="${(bw - 9).toFixed(1)}" height="${(130 - Y(v)).toFixed(1)}" fill="${i === last ? '#ff4d4d' : '#fff'}"/>`).join('')
+      + `<text x="${(34 + last * bw + (bw - 9) / 2).toFixed(1)}" y="${(Y(vs[last]) - 6).toFixed(1)}" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">${fmtNum(vs[last], 2)}%</text>`
+      + `<text x="34" y="146" font-size="10" fill="#fff">${esc(periodLabel(h[0].period, lang))}</text><text x="${W - 4}" y="146" font-size="10" fill="#fff" text-anchor="end">${esc(periodLabel(h[last].period, lang))}</text></svg>`;
+  };
+  const sx = indicatorPair(lang, 'sensex'), cp = indicatorPair(lang, 'cpi-inflation');
+  const markets = {
+    asOf: fmtShort(sx.en.release_date, lang, false),
+    sensexTitle: lang === 'hi' ? 'सेंसेक्स, पिछले आठ कारोबारी दिन' : 'Sensex, last eight sessions',
+    sensex: lineChart('sensex', lang === 'hi' ? 'पिछले आठ कारोबारी दिनों में सेंसेक्स' : 'Sensex over the last eight sessions'),
+    cpiTitle: lang === 'hi' ? `खुदरा महंगाई, ${stripParen(cp.loc.period)}` : `Retail inflation to ${stripParen(cp.loc.period)}`,
+    cpi: barChart('cpi-inflation', lang === 'hi' ? 'आठ महीनों की खुदरा महंगाई' : 'Retail inflation over eight months'),
+    figs: [
+      { l: lang === 'hi' ? 'निफ्टी 50' : 'Nifty 50', v: fmtIndicator(lang, 'nifty-50', 2) },
+      { l: lang === 'hi' ? 'रुपया प्रति डॉलर' : 'Rupee per dollar', v: fmtIndicator(lang, 'usd-inr', 2) },
+      { l: lang === 'hi' ? 'रेपो रेट' : 'Repo rate', v: fmtIndicator(lang, 'repo-rate', 2) },
+    ],
+  };
+  // The same top stories in the other language
+  const oc = (await content())[lang === 'en' ? 'hi' : 'en'];
+  const altLang = [lead.id, ...headlines.map((x: any) => x.id)].map((id) => oc.all.get(id)).filter(Boolean).slice(0, 4)
+    .map((e: any) => ({ title: e.data.title, href: urlOf(e.data) }));
+
+  return { headlines, india, econ, live, markets, altLang, kk: short, week, desks, lead, briefing, numbers, dashHref, big, bigAlso, top, start, trackers, billsCard, econCard, elCard, budgetCard, scCard, mapModel, parl, fcCards, fcStats, explained, opinion, sections };
 }
 
 export { esc };

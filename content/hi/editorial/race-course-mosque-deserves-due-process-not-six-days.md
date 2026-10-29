@@ -22,7 +22,7 @@ hero:
     value: "बुलडोज़र से पहले सुनवाई"
 related: [race-course-mosque-eviction-notice-ldo-rijiju]
 seo:
-  description: "लोकवॉक्स संपादकीय: विरासत सूची में दर्ज और वक्फ बताई जाने वाली नई दिल्ली की रेस कोर्स मस्जिद को मालिकाना हक पर अदालत के फैसले से पहले छह दिन के नोटिस पर न गिराया जाए।"
+  description: "गांधी न्यूज़ संपादकीय: विरासत सूची में दर्ज और वक्फ बताई जाने वाली नई दिल्ली की रेस कोर्स मस्जिद को मालिकाना हक पर अदालत के फैसले से पहले छह दिन के नोटिस पर न गिराया जाए।"
 sources:
   - title: "Now 125-years-old Race Course mosque in Delhi faces demolition"
     publisher: "Ummid.com"

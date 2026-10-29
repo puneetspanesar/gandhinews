@@ -22,7 +22,7 @@ hero:
     value: "भीड़ का नहीं, सवाल का जवाब दीजिए"
 related: [supreme-court-orders-metro-internet-restored-after-cjp-protest-detentions, what-is-the-cockroach-janta-party, mea-rejects-un-rights-office-remarks-delhi-protest-detentions, election-commission-should-publish-its-dissent, sir-phase-three-draft-rolls-names-dropped-by-state]
 seo:
-  description: "सीजेपी प्रदर्शनों पर लोकवॉक्स का संपादकीय: मेट्रो स्टेशन बंद करना, इंटरनेट काटना और बड़े पैमाने पर हिरासत गलत जवाब क्यों था, और हर पक्ष की क्या ज़िम्मेदारी है।"
+  description: "सीजेपी प्रदर्शनों पर गांधी न्यूज़ का संपादकीय: मेट्रो स्टेशन बंद करना, इंटरनेट काटना और बड़े पैमाने पर हिरासत गलत जवाब क्यों था, और हर पक्ष की क्या ज़िम्मेदारी है।"
 sources:
   - title: "Supreme Court Sunday hearing against detentions and curbs during Delhi protests (live updates)"
     publisher: "LiveLaw"

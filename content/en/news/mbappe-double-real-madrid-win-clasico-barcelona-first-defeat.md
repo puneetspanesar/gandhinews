@@ -50,7 +50,7 @@ verification:
     - "Score 1-2 in ESPN and VAVEL search titles; goal minutes and match incidents from VAVEL live blog only. World Soccer Talk page (pre-match version) gave line-ups, absences and Mourinho as Madrid coach."
     - "Three-point gap is arithmetic: Barcelona 27 points from nine wins, Madrid six behind before kick-off (both from preview sources)."
     - "Premier League scores from CBS Sports results page; no scorers available, so only scores given. Sunderland v Leeds was in progress when checked; left out."
-    - "Mbappé's league tally of 11 is 9 (earlier LokVox preview) plus 2."
+    - "Mbappé's league tally of 11 is 9 (earlier Gandhi News preview) plus 2."
 ---
 
 Kylian Mbappé scored twice at Camp Nou on Sunday night, the second two minutes from time, as Real Madrid beat Barcelona 2-1 and ended the leaders' perfect start to the La Liga season.

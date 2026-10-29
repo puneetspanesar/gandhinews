@@ -22,7 +22,7 @@ hero:
     value: "नदी पार करना सुरक्षित बनाइए"
 related: [vaishali-boat-capsize-ganga-raghopur-children-killed]
 seo:
-  description: "लोकवॉक्स संपादकीय: राघोपुर में 13 बच्चों के डूबने के बाद बिहार को देसी नावों का पंजीकरण, क्षमता की सीमा, लाइफ जैकेट और पहले से मौजूद नियम लागू करने होंगे।"
+  description: "गांधी न्यूज़ संपादकीय: राघोपुर में 13 बच्चों के डूबने के बाद बिहार को देसी नावों का पंजीकरण, क्षमता की सीमा, लाइफ जैकेट और पहले से मौजूद नियम लागू करने होंगे।"
 sources:
   - title: "Bihar boat tragedy: 13 children die on their way to village feast as boat capsizes in Vaishali; 7 rescued"
     publisher: "The Statesman"

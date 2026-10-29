@@ -49,7 +49,7 @@ verification:
   notes:
     - "Friday mention: LiveLaw alert 11:15 am only (Luthra's '82-year-old man facing possible arrest' paraphrased; CJI quote verbatim; 26 October fallback). Bench composition beyond the CJI not stated."
     - "Division Bench dismissal of leave-to-appeal pleas on 15 Oct: The Statesman listing summary only; article body not opened."
-    - "FIR details (two FIRs registered 12 Oct by VACB SIU-1; Vijayan first accused in one, Riyas first accused in the other, Veena second in both; ED's Rs 2.78 crore allegation) from South First and Gulf News; consistent with LokVox 13 Oct story."
+    - "FIR details (two FIRs registered 12 Oct by VACB SIU-1; Vijayan first accused in one, Riyas first accused in the other, Veena second in both; ED's Rs 2.78 crore allegation) from South First and Gulf News; consistent with Gandhi News 13 Oct story."
     - "Whether Vijayan has been summoned or any arrest is imminent: not reported beyond counsel's submission."
 ---
 

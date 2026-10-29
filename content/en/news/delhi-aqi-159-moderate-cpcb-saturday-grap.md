@@ -43,9 +43,9 @@ verification:
   status: approved
   notes:
     - "AQI 159 at 4 pm Saturday and 90 on Friday: CPCB data via PTI (ThePrint 7:48 pm). CPCB bulletin page not fetched directly."
-    - "Earlier LokVox story (16:40) cited a morning AQI of 216 from a different, non-CPCB report; the CPCB 24-hour average is a different measure. Copy notes the morning spike without the 216 figure."
+    - "Earlier Gandhi News story (16:40) cited a morning AQI of 216 from a different, non-CPCB report; the CPCB 24-hour average is a different measure. Copy notes the morning spike without the 216 figure."
     - "GRAP: no report found of any CAQM order changing the GRAP stage on 17 or 18 October. Stage I threshold (201-300) from the revised 2026 schedule as described by Careerindia (1 Oct); CAQM order not read directly. Copy says no change was announced rather than stating the current stage."
-    - "Anand Vihar and IITM 'poor from 19 October' forecast carried from the earlier LokVox story (Bombay Samachar source), not re-read this run."
+    - "Anand Vihar and IITM 'poor from 19 October' forecast carried from the earlier Gandhi News story (Bombay Samachar source), not re-read this run."
     - "Temperature and forecast figures from PTI; IMD official unnamed in source."
 ---
 

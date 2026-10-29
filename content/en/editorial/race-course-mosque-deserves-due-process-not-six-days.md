@@ -21,7 +21,7 @@ hero:
     value: "A hearing before the bulldozer"
 related: [race-course-mosque-eviction-notice-ldo-rijiju]
 seo:
-  description: "LokVox editorial: the Race Course mosque in New Delhi, heritage-listed and gazetted as waqf, should not be demolished on six days' notice before a court rules on title."
+  description: "Gandhi News editorial: the Race Course mosque in New Delhi, heritage-listed and gazetted as waqf, should not be demolished on six days' notice before a court rules on title."
 sources:
   - title: "Now 125-years-old Race Course mosque in Delhi faces demolition"
     publisher: "Ummid.com"

@@ -31,7 +31,7 @@ sources:
     url: "https://newsonair.gov.in/sri-lanka-thanks-india-for-support-during-economic-crisis/"
     primary: false
   - title: "Sri Lanka keeps door open to a new IMF deal, says Dissanayake"
-    publisher: "LokVox"
+    publisher: "Gandhi News"
     date: 2026-10-13
     url: "https://lokvox.com/news/sri-lanka-weighs-new-imf-programme-dissanayake"
     primary: false

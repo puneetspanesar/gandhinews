@@ -84,8 +84,8 @@ verification:
     - "Pinarayi Vijayan's accepted verbal amendment ('lakhs' to 'crores') and Saji Cherian's amendment citing 24 lakh excluded voters and 'eci.net' are from ETV Bharat only. The outcome of Cherian's amendment is not reported; the copy does not say whether it was adopted."
     - "Satheesan's X quotes differ by outlet: Onmanorama has 'Our stand is unequivocal. The right to vote must be protected.'; The Pioneer has 'The right to vote is the foundation of our democracy.' The story uses only the Onmanorama line."
     - "Whether Muraleedharan's amendments were adopted is not reported. ETV says the government rejected BJP amendments by B. Gopakumar and V. Muraleedharan."
-    - "Removal procedure (Article 324(5), same as a Supreme Court judge, special majority in both Houses) is from Deccan Chronicle as used in LokVox's CEC explainer; Article text not opened today."
-    - "Background lines (Cabinet minister on the selection panel; April refusal of removal notices) rest on LokVox's CEC explainer and its sources (PRS, DT Next, The Statesman); the AIR URL was listed in search results but not opened today."
+    - "Removal procedure (Article 324(5), same as a Supreme Court judge, special majority in both Houses) is from Deccan Chronicle as used in Gandhi News's CEC explainer; Article text not opened today."
+    - "Background lines (Cabinet minister on the selection panel; April refusal of removal notices) rest on Gandhi News's CEC explainer and its sources (PRS, DT Next, The Statesman); the AIR URL was listed in search results but not opened today."
     - "No Election Commission response to the resolution was found as of 3 pm."
     - "Rajeev Chandrasekhar quote is from 9 October (Metro Vaartha, citing his X post), before the session."
 ---

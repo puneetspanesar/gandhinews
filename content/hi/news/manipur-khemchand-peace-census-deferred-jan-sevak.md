@@ -41,7 +41,7 @@ verification:
   - 'Single source: PTI via ThePrint, published 1:45 am 18 Oct, event on 17 Oct in Imphal.'
   - Census deferral is the CM's statement as paraphrased by PTI; no Registrar General notification found or checked. Attributed to him, not stated as fact.
   - Conflict toll (at least 306 dead, 49 missing) as given by PTI.
-  - Kamjong attack detail consistent with the earlier LokVox Chassad story; PTI says one man was shot dead and four injured, which may include a later toll.
+  - Kamjong attack detail consistent with the earlier Gandhi News Chassad story; PTI says one man was shot dead and four injured, which may include a later toll.
 ---
 
 मणिपुर के मुख्यमंत्री वाई खेमचंद सिंह ने शनिवार को कहा कि शांति ही राज्य के लिए भारत की विकास यात्रा में हिस्सा लेने का एकमात्र रास्ता है। इंफाल में एक सभा में उन्होंने बताया कि मणिपुर में जनगणना टाल दी गई है।

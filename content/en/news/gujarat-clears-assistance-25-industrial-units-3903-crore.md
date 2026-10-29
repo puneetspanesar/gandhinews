@@ -33,7 +33,7 @@ verification:
   notes:
     - "Single source (DeshGujarat, which appears to follow a state government release). The government release itself was not found."
     - "Meeting date not stated; the report is dated 12 Oct 2026, so the copy says 'has approved' without a day."
-    - "'More than half of the total investment' is LokVox arithmetic (2,271.40 of 3,903.30 crore, about 58%)."
+    - "'More than half of the total investment' is Gandhi News arithmetic (2,271.40 of 3,903.30 crore, about 58%)."
 ---
 
 Gujarat has approved financial assistance for 25 industrial units that plan to invest ₹3,903.30 crore in the state, in projects expected to create about 8,178 jobs.

@@ -77,7 +77,7 @@ verification:
     - "Corrected (outdated): all 12 October seats were filled unopposed on 9 October (DD News); standfirst, timeline and October section updated. Two Independent nominations were rejected (DD News), not one."
     - "Corrected: quota example arithmetic. With 400 votes x 100 points over 10 seats the quota is 3,637 points (about 36.4 votes), so 37 votes, not 38, secure a seat. Mallick was elected in early 2026 (IANS says February), not March."
     - "Quota formula and open-ballot rule are from Deccan Herald (2022), a secondary source. The legal basis (RP Act Section 59 and Conduct of Election Rules, Rule 39AA) and the 2006 Kuldip Nayar ruling were not opened and are not cited."
-    - "The worked quota example is LokVox arithmetic based on the Deccan Herald formula, labelled as such in the text."
+    - "The worked quota example is Gandhi News arithmetic based on the Deccan Herald formula, labelled as such in the text."
     - "Whether the UP and Uttarakhand candidates were declared elected unopposed after withdrawals closed on 9 October was not confirmed in any source read."
     - "Seats per state (Fourth Schedule figures) and the current total strength of the Rajya Sabha were not confirmed and are left out."
     - "The SP's second candidate is named 'Dhanraj Parimal Nathwani' by Business Today and 'Dhananjay' in other reports; we use Dhanraj."
@@ -99,7 +99,7 @@ The House can have at most 238 elected representatives of the states and Union T
 **Each MLA ranks the candidates in order of preference, and a candidate wins by reaching a fixed quota of votes.** Each first-preference vote is valued at 100 points, so fractions can be counted. A candidate needs one point more than the total value of valid votes divided by the number of seats plus one, as Deccan Herald explains the rule.
 
 ```facts
-{"title":"Working out the quota (illustration)","items":[{"value":"400","label":"MLAs casting valid votes (example)","source":"LokVox illustration"},{"value":"10","label":"seats being filled (example)","source":"LokVox illustration"},{"value":"3,637","label":"points needed to win: 40,000 points (400 votes x 100) divided by 11 is 3,636.36, plus one point. That is about 36.4 votes, so 37 first-preference votes secure a seat","source":"LokVox calculation using the rule reported by Deccan Herald"}]}
+{"title":"Working out the quota (illustration)","items":[{"value":"400","label":"MLAs casting valid votes (example)","source":"Gandhi News illustration"},{"value":"10","label":"seats being filled (example)","source":"Gandhi News illustration"},{"value":"3,637","label":"points needed to win: 40,000 points (400 votes x 100) divided by 11 is 3,636.36, plus one point. That is about 36.4 votes, so 37 first-preference votes secure a seat","source":"Gandhi News calculation using the rule reported by Deccan Herald"}]}
 ```
 
 If a candidate gets more votes than the quota, the surplus passes to the next preference on those ballots at a reduced value. If seats remain unfilled, counting moves to further rounds.

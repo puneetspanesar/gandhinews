@@ -21,7 +21,7 @@ hero:
     value: "Check the roof before the bell"
 related: [peshawar-school-roof-collapse-kills-students, after-raghopur-country-boats-need-rules-that-are-enforced]
 seo:
-  description: "LokVox editorial: after the Peshawar school roof collapse and India's own Jhalawar tragedy, states must publish school building safety audits and stop classes in unsafe rooms."
+  description: "Gandhi News editorial: after the Peshawar school roof collapse and India's own Jhalawar tragedy, states must publish school building safety audits and stop classes in unsafe rooms."
 sources:
   - title: "At least 29 killed, including 28 students, in Peshawar school roof collapse"
     publisher: "Dawn"

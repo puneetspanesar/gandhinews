@@ -38,7 +38,7 @@ verification:
   status: approved
   notes:
   - 'Single source: PTI via ThePrint, 8:46 pm, quoting Sarma''s social media post. Date and place of the attempt not given; no independent police statement.'
-  - Context on the 12 Oct drug operation and the demography panel portal taken from earlier LokVox stories (15 and 14 Oct).
+  - Context on the 12 Oct drug operation and the demography panel portal taken from earlier Gandhi News stories (15 and 14 Oct).
   - Country of origin not stated in the source; copy does not name it.
 ---
 

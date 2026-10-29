@@ -30,7 +30,7 @@ sources:
     url: "https://newsonair.gov.in/sri-lanka-thanks-india-for-support-during-economic-crisis/"
     primary: false
   - title: "Sri Lanka keeps door open to a new IMF deal, says Dissanayake"
-    publisher: "LokVox"
+    publisher: "Gandhi News"
     date: 2026-10-13
     url: "https://lokvox.com/news/sri-lanka-weighs-new-imf-programme-dissanayake"
     primary: false
@@ -39,7 +39,7 @@ verification:
   notes:
     - "Single source (AIR, 2:44 pm). Quoted fragments 'immense support to Sri Lanka during the economic crisis' and 'bilateral relations are strengthening' are as given by AIR. Purpose of his Delhi visit and whom he met not stated; not given."
     - "Day of remarks not stated by AIR (published Sat 2:44 pm); copy avoids saying 'on Saturday'."
-    - "IMF context from LokVox 13 Oct story (Dissanayake: about six months left on current programme)."
+    - "IMF context from Gandhi News 13 Oct story (Dissanayake: about six months left on current programme)."
 ---
 
 Sri Lanka's Deputy Minister of Industry and Entrepreneurship Development, Chathuranga Abeysinghe, thanked the Indian government and people for their "immense support to Sri Lanka during the economic crisis", and said the two countries' "bilateral relations are strengthening".

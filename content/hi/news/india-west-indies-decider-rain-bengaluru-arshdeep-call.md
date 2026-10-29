@@ -69,7 +69,7 @@ verification:
     - "98 sixes in the series and Roston Chase as leading wicket-taker: RevSportz only. Prince Yadav 1-36 in Hyderabad: RevSportz."
     - "Hyderabad: WI 247/3, India 223/9 (Wisden results); Hope 102* off 50, Rutherford 49*, Keemo Paul five wickets, Samson 56: Sportsdunia."
     - "2022 Chinnaswamy washout v South Africa (19 June 2022, series 2-2): Business Standard headline and several search results agree."
-    - "NZ T20I series from 22 Oct: earlier LokVox preview and IANS (Krunal/HK Sixes story)."
+    - "NZ T20I series from 22 Oct: earlier Gandhi News preview and IANS (Krunal/HK Sixes story)."
 ---
 
 बेंगलुरु के एम चिन्नास्वामी स्टेडियम में शनिवार शाम 7 बजे शुरू होने वाले पांचवें और आखिरी टी20 अंतरराष्ट्रीय मैच से एक घंटे से कुछ ज़्यादा पहले तक भारत और वेस्टइंडीज़ मौसम और अर्शदीप सिंह के कंधे, दोनों पर नज़र लगाए बैठे थे। सीरीज़ 2-2 से बराबर है, यानी जो जीतेगा, सीरीज़ उसी की होगी।

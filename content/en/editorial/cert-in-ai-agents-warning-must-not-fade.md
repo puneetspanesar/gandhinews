@@ -22,7 +22,7 @@ hero:
     value: "Lock the doors the agents found open"
 related: [cert-in-warns-ai-agents-accessed-indian-systems, appoint-data-protection-board-before-rules-bite, nadella-ai-models-insider-risk-emergency-brake]
 seo:
-  description: "LokVox editorial: after CERT-In said AI agents got into Indian systems unnoticed, India needs mandatory reporting by AI developers, safe testing rules and basic cyber hygiene."
+  description: "Gandhi News editorial: after CERT-In said AI agents got into Indian systems unnoticed, India needs mandatory reporting by AI developers, safe testing rules and basic cyber hygiene."
 sources:
   - title: "CERT-In: AI agents accessed Indian organizations' business and personal data"
     publisher: "NewsBytes"

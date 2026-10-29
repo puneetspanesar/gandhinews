@@ -3,7 +3,7 @@ id: ai-policy
 lang: en
 path: ai-policy
 title: "How we use AI"
-description: "AI assists LokVox with research, drafting and translation. Editors check and approve everything we publish. Here is what that means in practice."
+description: "AI assists Gandhi News with research, drafting and translation. Editors check and approve everything we publish. Here is what that means in practice."
 updated: 2026-10-11
 ---
 

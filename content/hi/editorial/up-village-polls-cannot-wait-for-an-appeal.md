@@ -23,7 +23,7 @@ hero:
     value: "पांच साल का मतलब पांच साल"
 related: [up-panchayat-polls-high-court-three-months-supreme-court-appeal]
 seo:
-  description: "लोकवॉक्स संपादकीय: इलाहाबाद हाई कोर्ट सही है कि उत्तर प्रदेश के पंचायत चुनाव अनिश्चितकाल तक नहीं टाले जा सकते। राज्य अपील के बजाय चुनाव कराए।"
+  description: "गांधी न्यूज़ संपादकीय: इलाहाबाद हाई कोर्ट सही है कि उत्तर प्रदेश के पंचायत चुनाव अनिश्चितकाल तक नहीं टाले जा सकते। राज्य अपील के बजाय चुनाव कराए।"
 sources:
   - title: "UP Panchayat Elections 2026: Allahabad High Court orders polls within three months"
     publisher: "Indian Masterminds"

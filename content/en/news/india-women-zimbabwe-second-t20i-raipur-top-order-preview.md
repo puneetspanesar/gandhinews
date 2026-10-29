@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "19 for 4, 82-run Prasad-Deepti stand, Gwanzura three powerplay wickets, four top-order batters in single figures, Deepti quotes, squads: Deccan Chronicle (PTI). Earlier LokVox story gave Gwanzura dismissing Mandhana."
+    - "19 for 4, 82-run Prasad-Deepti stand, Gwanzura three powerplay wickets, four top-order batters in single figures, Deepti quotes, squads: Deccan Chronicle (PTI). Earlier Gandhi News story gave Gwanzura dismissing Mandhana."
     - "Schedule (18 Oct and 20 Oct, 7 pm IST, Shaheed Veer Narayan Singh International Stadium), Jemimah Rodrigues out with hamstring injury, broadcast on Star Sports and JioHotstar: Yahoo Sports."
     - "No team news or XI changes reported for Sunday. Weather not checked beyond a Latestly headline; not used."
 ---

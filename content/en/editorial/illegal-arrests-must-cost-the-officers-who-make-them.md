@@ -22,7 +22,7 @@ hero:
     value: "Arrest first, case later"
 related: [bombay-hc-5-lakh-compensation-illegal-arrest, police-detention-powers-bnss-explained]
 seo:
-  description: "LokVox editorial: after the Bombay High Court's ₹5 lakh award for an illegal arrest, states must recover compensation from errant officers and magistrates must record reasons for remand."
+  description: "Gandhi News editorial: after the Bombay High Court's ₹5 lakh award for an illegal arrest, states must recover compensation from errant officers and magistrates must record reasons for remand."
 sources:
   - title: "Bombay High Court awards ₹5 lakh compensation to man for illegal arrest in extortion case"
     publisher: "Bar & Bench"

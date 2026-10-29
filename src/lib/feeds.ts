@@ -18,7 +18,7 @@ export async function feed(lang: Lang, key?: string) {
   const c = (await content())[lang];
   const pick = (e: any) =>
     !key ? true : FORMAT_TYPE[key] ? e.data.type === FORMAT_TYPE[key] : e.data.section === key && e.data.type !== 'editorial';
-  const name = lang === 'hi' ? 'LokVox (हिंदी)' : 'LokVox';
+  const name = lang === 'hi' ? 'Gandhi News (हिंदी)' : 'Gandhi News';
   return rss({
     title: key ? `${label(lang, key)} | ${name}` : name,
     description: lang === 'hi'
@@ -31,7 +31,7 @@ export async function feed(lang: Lang, key?: string) {
       pubDate: e.data.published,
       description: e.data.standfirst,
       categories: [e.data.format_label, ...e.data.topics],
-      author: 'LokVox Editorial Desk',
+      author: 'Gandhi News Editorial Desk',
     })),
     customData: `<language>${lang === 'hi' ? 'hi-in' : 'en-in'}</language>`,
   });

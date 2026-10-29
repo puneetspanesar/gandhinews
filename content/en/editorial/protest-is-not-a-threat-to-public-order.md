@@ -21,7 +21,7 @@ hero:
     value: "Answer the question, not the crowd"
 related: [supreme-court-orders-metro-internet-restored-after-cjp-protest-detentions, what-is-the-cockroach-janta-party, mea-rejects-un-rights-office-remarks-delhi-protest-detentions, election-commission-should-publish-its-dissent, sir-phase-three-draft-rolls-names-dropped-by-state]
 seo:
-  description: "LokVox editorial on the CJP protests: why closing Metro stations, cutting the internet and mass detentions were the wrong answer, and what each side owes."
+  description: "Gandhi News editorial on the CJP protests: why closing Metro stations, cutting the internet and mass detentions were the wrong answer, and what each side owes."
 sources:
   - title: "Supreme Court Sunday hearing against detentions and curbs during Delhi protests (live updates)"
     publisher: "LiveLaw"

@@ -43,7 +43,7 @@ sources:
     url: "https://www.pib.gov.in/PressReleseDetail.aspx?PRID=2319534"
     primary: true
   - title: "Data file: per-promise sources"
-    publisher: "LokVox"
+    publisher: "Gandhi News"
     date: 2026-10-11
     url: "/content/data/budget-promises.json"
     primary: false

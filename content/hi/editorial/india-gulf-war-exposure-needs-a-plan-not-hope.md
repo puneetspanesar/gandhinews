@@ -22,7 +22,7 @@ hero:
     value: "लंबे युद्ध की तैयारी कीजिए"
 related: [imf-gulf-economies-wont-return-to-pre-war-growth, us-oil-gas-supplies-to-india-fall-west-asia-imports-rebound, un-warns-food-crisis-hormuz-fertiliser-plan-stalls, two-ships-sink-near-hormuz-pezeshkian-surrender, indian-seafarers-should-not-carry-hormuz-risk-alone, what-hormuz-attacks-mean-for-indian-fuel-prices]
 seo:
-  description: "लोकवॉक्स संपादकीय: तेल, ढुलाई, उर्वरक और प्रवासी धन के ज़रिए खाड़ी युद्ध का भारत पर असर; ईंधन-उर्वरक भंडार, प्रवासियों के लिए योजना और होर्मुज़ पर संयुक्त राष्ट्र गलियारे की ज़रूरत।"
+  description: "गांधी न्यूज़ संपादकीय: तेल, ढुलाई, उर्वरक और प्रवासी धन के ज़रिए खाड़ी युद्ध का भारत पर असर; ईंधन-उर्वरक भंडार, प्रवासियों के लिए योजना और होर्मुज़ पर संयुक्त राष्ट्र गलियारे की ज़रूरत।"
 sources:
   - title: "India's Remittance Trends 2024 (RBI sixth round of India's Remittances Survey)"
     publisher: "Drishti IAS"

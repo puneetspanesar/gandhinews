@@ -39,7 +39,7 @@ verification:
   notes:
     - "Incident list rests on The Hans India's round-up (K Varaprasada Rao, 24 Oct 12:15 am). Most incidents attributed to YSRCP or described as reported; no police statement quoted in the source."
     - "TDP complaint: The Hans India (24 Oct 12:29 am). Ramaiah's allegations attributed throughout; no YSRCP reply found."
-    - "Hans sidebar headline says ZPTC/MPTC polls 'may be postponed to November 5'; body not seen, left out. Poll date of 3 November from LokVox's 21 Oct story."
+    - "Hans sidebar headline says ZPTC/MPTC polls 'may be postponed to November 5'; body not seen, left out. Poll date of 3 November from Gandhi News's 21 Oct story."
     - "No ruling on the YSRCP's High Court or SEC petitions reported by publication time."
 ---
 

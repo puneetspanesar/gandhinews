@@ -23,7 +23,7 @@ hero:
     value: "पहले गिरफ्तारी, फिर मुकदमा"
 related: [bombay-hc-5-lakh-compensation-illegal-arrest, police-detention-powers-bnss-explained]
 seo:
-  description: "लोकवॉक्स संपादकीय: गैरकानूनी गिरफ्तारी पर बॉम्बे हाईकोर्ट के ₹5 लाख मुआवज़े के बाद राज्य दोषी अफसरों से वसूली करें और मजिस्ट्रेट रिमांड की वजह दर्ज करें।"
+  description: "गांधी न्यूज़ संपादकीय: गैरकानूनी गिरफ्तारी पर बॉम्बे हाईकोर्ट के ₹5 लाख मुआवज़े के बाद राज्य दोषी अफसरों से वसूली करें और मजिस्ट्रेट रिमांड की वजह दर्ज करें।"
 sources:
   - title: "Bombay High Court awards ₹5 lakh compensation to man for illegal arrest in extortion case"
     publisher: "Bar & Bench"

@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Day four results rest mainly on one report (Dainik Jagran English), which spells the archer 'Tomar Kumar'; LokVox's earlier story and the ranking-round reports use Toman Kumar, used here."
+    - "Day four results rest mainly on one report (Dainik Jagran English), which spells the archer 'Tomar Kumar'; Gandhi News's earlier story and the ranking-round reports use Toman Kumar, used here."
     - "Swati Chaudhary's silver: Jagran gives the final score as 4-6 to Sen Mengcan; W1 finals are normally cumulative, so the score is left out."
     - "Tally of 71 (16 gold, 22 silver, 33 bronze, fourth place) quoted by Jagran is internally inconsistent with a 62-medal start of day (silver should be at least 23); written as 'past 70' and rank left out. Seven bronze winners not named in the source."
     - "Indonesian opponents' names not used (spelling uncertain)."

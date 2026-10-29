@@ -23,7 +23,7 @@ hero:
     value: "लोगों को वहां बोलने दें जहां सुना जाए"
 related: [protest-is-not-a-threat-to-public-order, cjp-lehra-do-tiranga-connaught-place-protest-preview, delhi-police-tells-high-court-will-act-against-dipke-cp-protest, cjp-members-scale-jantar-mantar-gate-detained, section-163-bnss-prohibitory-orders-explained]
 seo:
-  description: "लोकवॉक्स संपादकीय: जंतर-मंतर को सूची से हटाने और सीजेपी के कनॉट प्लेस प्रदर्शन से पहले सेंट्रल पार्क बंद करने के बाद दिल्ली को केंद्र में तय प्रदर्शन स्थल और साफ नियम चाहिए।"
+  description: "गांधी न्यूज़ संपादकीय: जंतर-मंतर को सूची से हटाने और सीजेपी के कनॉट प्लेस प्रदर्शन से पहले सेंट्रल पार्क बंद करने के बाद दिल्ली को केंद्र में तय प्रदर्शन स्थल और साफ नियम चाहिए।"
 sources:
   - title: "Delhi on alert for CJP's Tiranga protest: Central Park shut, traffic curbs from 3 pm, heavy security at CP"
     publisher: "The Statesman"

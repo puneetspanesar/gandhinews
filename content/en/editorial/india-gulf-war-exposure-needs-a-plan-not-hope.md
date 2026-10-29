@@ -21,7 +21,7 @@ hero:
     value: "Plan for a long war"
 related: [imf-gulf-economies-wont-return-to-pre-war-growth, us-oil-gas-supplies-to-india-fall-west-asia-imports-rebound, un-warns-food-crisis-hormuz-fertiliser-plan-stalls, two-ships-sink-near-hormuz-pezeshkian-surrender, indian-seafarers-should-not-carry-hormuz-risk-alone, what-hormuz-attacks-mean-for-indian-fuel-prices]
 seo:
-  description: "LokVox editorial: India's exposure to the Gulf war through oil, freight, fertiliser and remittances calls for fuel and fertiliser buffers, diaspora plans and a push for the UN Hormuz corridor."
+  description: "Gandhi News editorial: India's exposure to the Gulf war through oil, freight, fertiliser and remittances calls for fuel and fertiliser buffers, diaspora plans and a push for the UN Hormuz corridor."
 sources:
   - title: "India's Remittance Trends 2024 (RBI sixth round of India's Remittances Survey)"
     publisher: "Drishti IAS"

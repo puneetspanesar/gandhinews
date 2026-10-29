@@ -9,7 +9,7 @@ const c = (await content()).en;
 const latest = c.articles.filter((e: any) => e.data.type === 'news').slice(0, 4);
 const S = SECTION_NAMES.en;
 ---
-<Base lang="en" title="Page not found" description="We could not find that page on LokVox." path="/404.html" altPath={null} noindex>
+<Base lang="en" title="Page not found" description="We could not find that page on Gandhi News." path="/404.html" altPath={null} noindex>
   <div class="w">
     <div class="nf">
       <div class="nf-main">
@@ -19,7 +19,7 @@ const S = SECTION_NAMES.en;
         <form class="sbox" role="search" action="/search/" method="get">
           <label class="sr-only" for="nf-q">Search</label>
           <Icon name="magnifying-glass" />
-          <input id="nf-q" name="q" type="search" placeholder="Search LokVox" />
+          <input id="nf-q" name="q" type="search" placeholder="Search Gandhi News" />
           <button type="submit">Search</button>
         </form>
         <div class="nf-links">

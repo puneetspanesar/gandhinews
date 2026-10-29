@@ -52,7 +52,7 @@ verification:
     - "Tug off Khor Fakkan: New Arab roundup only, hedged."
     - "Kpler flow figures and Trump Newsmax remarks: Al Jazeera. Netanyahu-Rubio call: Israel's Channel 12 via CGTN, attributed to officials; framed carefully."
     - "Time 21:40 IST is a desk estimate; New Arab piece updated 22:27 local."
-    - "Indian crude import bill figure from LokVox story india-crude-import-bill-90-6-billion-april-september."
+    - "Indian crude import bill figure from Gandhi News story india-crude-import-bill-90-6-billion-april-september."
 ---
 
 Iran's offer to reopen the Strait of Hormuz within a week is still on the table, Foreign Minister Abbas Araghchi said on Sunday, even as the Revolutionary Guards claimed that two crude tankers trying to slip through the waterway had caught fire after hitting naval mines.

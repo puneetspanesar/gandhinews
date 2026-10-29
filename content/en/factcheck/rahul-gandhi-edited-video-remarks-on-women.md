@@ -87,6 +87,6 @@ Source: [BOOM, 26 August 2026](https://www.boomlive.in/fact-check/viral-video-ra
 
 The speech was covered by national outlets on the day. PTI reported that Gandhi used it to criticise the Manusmriti and urged girl students to challenge patriarchy, and The Week reported a packed venue. The desk has no sourced data on how widely the edited clip was shared or who first posted it.
 
-LokVox does not reproduce or link to the clip. Readers can see BOOM's full analysis at the link above.
+Gandhi News does not reproduce or link to the clip. Readers can see BOOM's full analysis at the link above.
 
 Sources: [PTI via ThePrint, 22 August 2026](https://theprint.in/india/rahul-slams-manusmriti-mindset-at-pune-event-asks-girl-students-to-smash-patriarchy/3022517/); [The Week, 22 August 2026](https://www.theweek.in/news/india/2026/08/22/chhatron-ki-goonj-but-with-a-twist-rahul-s-women-powerplay-in-pune-draws-huge-audience.html)

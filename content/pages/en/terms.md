@@ -3,7 +3,7 @@ id: terms
 lang: en
 path: terms
 title: "Terms of use"
-description: "The terms for using the LokVox website: reading and sharing our work, reusing our data, links to other sites and the law that applies."
+description: "The terms for using the Gandhi News website: reading and sharing our work, reusing our data, links to other sites and the law that applies."
 updated: 2026-10-11
 ---
 
@@ -15,9 +15,9 @@ You are welcome to read, link to and share our stories. Please link back to the 
 
 ## Reusing our work
 
-Our articles, charts and photos are protected by copyright. Unless a page says otherwise, you may quote short extracts with credit to LokVox and a link. To republish a whole story, write to puneet@thar.co.
+Our articles, charts and photos are protected by copyright. Unless a page says otherwise, you may quote short extracts with credit to Gandhi News and a link. To republish a whole story, write to puneet@thar.co.
 
-Data from our trackers, published as JSON files, may be reused with credit to LokVox and a link to the tracker. Tracker data is licensed under Creative Commons Attribution 4.0 (CC BY 4.0).
+Data from our trackers, published as JSON files, may be reused with credit to Gandhi News and a link to the tracker. Tracker data is licensed under Creative Commons Attribution 4.0 (CC BY 4.0).
 
 Photos may belong to others. Check the credit on each photo before reusing it.
 
@@ -43,6 +43,6 @@ These terms are governed by the laws of India. Courts at Mohali (SAS Nagar), Pun
 
 ## Contact
 
-Puneet Singh, publisher, LokVox. Email: puneet@thar.co.
+Puneet Singh, publisher, Gandhi News. Email: puneet@thar.co.
 
 We may update these terms. The date at the top shows when they last changed.

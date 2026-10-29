@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (Al Jazeera) for the 14 October medical note; the Holy See press office bulletin itself was not opened. Details match the earlier LokVox story (surgery 13 Oct, 90 minutes, adenocarcinoma, audiences cancelled to 20 Oct)."
+    - "Single source (Al Jazeera) for the 14 October medical note; the Holy See press office bulletin itself was not opened. Details match the earlier Gandhi News story (surgery 13 Oct, 90 minutes, adenocarcinoma, audiences cancelled to 20 Oct)."
     - "Breakfast and lunch detail and 'normal post-operative' wording are from the doctors' note as carried by Al Jazeera."
 ---
 

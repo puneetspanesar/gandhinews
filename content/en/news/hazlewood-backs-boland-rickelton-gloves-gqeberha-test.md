@@ -43,7 +43,7 @@ verification:
   status: approved
   notes:
     - "Quotes from ANI copies; only the short phrases quoted were confirmed verbatim. Van Wyk spoke originally to ESPNcricinfo (not fetched)."
-    - "Second Test start on Sunday 18 October carried from the earlier LokVox stories (Conrad/McDonald pressers)."
+    - "Second Test start on Sunday 18 October carried from the earlier Gandhi News stories (Conrad/McDonald pressers)."
     - "Boland Test average 18.58 as given by ANI."
 ---
 

@@ -22,7 +22,7 @@ hero:
     value: "Count the crowd before it counts the dead"
 related: [kolkata-chorbagan-durga-puja-pandal-stampede, kolkata-police-shut-major-pandals-stampede-probe, hyderabad-dandiya-arch-collapse-student-killed]
 seo:
-  description: "LokVox editorial: after 19 deaths at Kolkata's Chorbagan Durga Puja pandal, large festivals and rallies need published crowd plans, counted capacity and clear accountability."
+  description: "Gandhi News editorial: after 19 deaths at Kolkata's Chorbagan Durga Puja pandal, large festivals and rallies need published crowd plans, counted capacity and clear accountability."
 sources:
   - title: "Year Ender 2025: From Mahakumbh To Karur, Major Stampedes That Shook India"
     publisher: "Free Press Journal"

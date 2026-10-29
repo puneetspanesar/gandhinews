@@ -38,7 +38,7 @@ verification:
   status: approved
   notes:
     - "MEA statement text from ANI (updated 4:04 pm IST 24 Oct); News On AIR headline seen only. Published time set at 4:35 pm, just inside the window; statement itself issued around 4 pm."
-    - "Toll of eight and King Abdullah 'terrorist act' quote from existing LokVox story jordan-karak-church-attack-toll-rises-to-eight."
+    - "Toll of eight and King Abdullah 'terrorist act' quote from existing Gandhi News story jordan-karak-church-attack-toll-rises-to-eight."
     - "Jaishankar's X post described by ANI as 'similar'; its text not quoted."
 ---
 

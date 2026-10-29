@@ -23,7 +23,7 @@ hero:
     value: "निगरानी करने वाले को जवाब देना होगा"
 related: [supreme-court-yes-bank-at1-judgment-rbi-bystander, at1-bonds-explained-yes-bank-supreme-court-ruling, yes-bank-shares-crash-supreme-court-at1-bonds]
 seo:
-  description: "लोकवॉक्स संपादकीय: यस बैंक एटी-1 फैसले में सुप्रीम कोर्ट के आरबीआई को 'महज़ तमाशबीन' कहने के बाद नियामक को शाखाओं में बॉन्ड की गलत बिक्री की समीक्षा करनी चाहिए और जमाकर्ताओं की रक्षा करनी चाहिए।"
+  description: "गांधी न्यूज़ संपादकीय: यस बैंक एटी-1 फैसले में सुप्रीम कोर्ट के आरबीआई को 'महज़ तमाशबीन' कहने के बाद नियामक को शाखाओं में बॉन्ड की गलत बिक्री की समीक्षा करनी चाहिए और जमाकर्ताओं की रक्षा करनी चाहिए।"
 sources:
   - title: "Supreme Court raps RBI; says it stood as a bystander while YES Bank operated clandestinely"
     publisher: "Bar & Bench"

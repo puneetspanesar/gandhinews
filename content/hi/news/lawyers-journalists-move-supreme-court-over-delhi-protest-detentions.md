@@ -85,7 +85,7 @@ verification:
   - LiveLaw's report says 'Rahul Gandhi and nine INDIA bloc leaders' but names 11 petitioners in all; copy avoids a count.
   - 'CJI Surya Kant''s ''right to be a part of the peaceful protests'' quote: LiveLaw notes its transcript of his remarks is incomplete; only the clearly reported line is used.'
   - Gopal Sankaranarayanan's claims (Farasat dragged, Dwivedi and Babbar detained in buses, private hooligans) are his submissions, attributed as such.
-  - Over 7,000 detained on 10 Oct is from Business Standard; not used here since earlier LokVox story covers numbers.
+  - Over 7,000 detained on 10 Oct is from Business Standard; not used here since earlier Gandhi News story covers numbers.
   - No police or Union government response to these specific petitions found as of writing.
 ---
 

@@ -22,7 +22,7 @@ hero:
     value: "Five years means five years"
 related: [up-panchayat-polls-high-court-three-months-supreme-court-appeal]
 seo:
-  description: "LokVox editorial: the Allahabad High Court is right that Uttar Pradesh's panchayat elections cannot be delayed indefinitely. The state should hold them, not appeal."
+  description: "Gandhi News editorial: the Allahabad High Court is right that Uttar Pradesh's panchayat elections cannot be delayed indefinitely. The state should hold them, not appeal."
 sources:
   - title: "UP Panchayat Elections 2026: Allahabad High Court orders polls within three months"
     publisher: "Indian Masterminds"

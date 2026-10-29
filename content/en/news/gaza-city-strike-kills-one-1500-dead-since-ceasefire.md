@@ -39,7 +39,7 @@ verification:
   notes:
     - "Saturday death from Shifa hospital via AP; victim not named and the exact location in Gaza City not given. No Israeli military comment found."
     - "1,500 figure and 'nearly half' from the Hamas-run health ministry via AP, which notes the ministry does not separate civilians from fighters and that UN agencies regard its figures as generally reliable."
-    - "Alakbarov quote and Friday details from earlier LokVox stories (16 and 24 October)."
+    - "Alakbarov quote and Friday details from earlier Gandhi News stories (16 and 24 October)."
 ---
 
 Israeli strikes killed at least one person in Gaza City on Saturday, according to Shifa hospital, adding to a toll of more than 1,500 since last year's ceasefire.

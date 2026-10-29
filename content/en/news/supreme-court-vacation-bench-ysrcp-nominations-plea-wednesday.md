@@ -33,7 +33,7 @@ verification:
   status: approved
   notes:
     - "Single source: PTI-Bhasha via ThePrint Hindi, 05:48 UTC (11:18 am IST). Who mentioned the matters and the hearing time not reported."
-    - "Relief sought (police protection, extended deadline, more nomination centres) per Bhasha. YSRCP leadership named as Jagan from earlier LokVox stories."
+    - "Relief sought (police protection, extended deadline, more nomination centres) per Bhasha. YSRCP leadership named as Jagan from earlier Gandhi News stories."
     - "Vijayan plea details from the same report; ED figure ₹2.78 crore to Exalogic."
 ---
 

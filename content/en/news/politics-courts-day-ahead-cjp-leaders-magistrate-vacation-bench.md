@@ -52,7 +52,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Run of 21 Oct 5:30 am: web fetching was largely blocked by unanswered permission prompts and the search index was stale, so this preview rests on facts already in published LokVox stories (custody extension, vacation bench, Kharge), whose sources are carried over above."
+    - "Run of 21 Oct 5:30 am: web fetching was largely blocked by unanswered permission prompts and the search index was stale, so this preview rests on facts already in published Gandhi News stories (custody extension, vacation bench, Kharge), whose sources are carried over above."
     - "Delhi HC plea: known only from a LiveLaw headline (ID 555408, listed on top-stories page on 21 Oct early morning). Bench, listing date and grounds not known; copy says only that they have moved the High Court and that no hearing date has been announced in what we saw. Hedged."
     - "SEM: Ritu Raj, 2 pm on 21 Oct, per IANS (19 Oct)."
     - "Vacation bench composition (Bagchi, Mohana) per PTI-Bhasha via ThePrint Hindi, 20 Oct; hearing time not reported."

@@ -47,7 +47,7 @@ verification:
     - "Pezeshkian: 'no war, no peace' at an unnamed ceremony (ISNA via Dawn 4:53 pm); 'messed everything up' and 'I still think we should go and conclude it' from state TV (Reuters via Dawn 6:02 pm); food remark from speech on his website (AFP via Dawn 8:05 pm). Terms of the interim deal not described in source."
     - "Clayton memo dated 23 Oct, confirmed by a US official to ABC; quote as in ABC/Dawn."
     - "Ejei-Mojtaba Khamenei meeting: Mizan Online via Dawn, 12:00 am 25 Oct entry; time and place not disclosed."
-    - "India medicines angle: Tribune headline and LokVox 23 Oct MEA story."
+    - "India medicines angle: Tribune headline and Gandhi News 23 Oct MEA story."
 ---
 
 ईरान ने पाकिस्तान के जरिए अमेरिका को बताया था कि अगर वॉशिंगटन ईरानी बंदरगाहों की नौसैनिक नाकेबंदी हटा ले, तो वह होर्मुज़ जलडमरूमध्य खोलने को तैयार है। इस्लामाबाद में तेहरान के राजदूत ने शनिवार रात यह बात कही। उनके मुताबिक राष्ट्रपति डोनाल्ड ट्रंप ने इनकार कर दिया।

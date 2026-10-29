@@ -43,7 +43,7 @@ sources:
     url: "https://www.mospi.gov.in/uploads/latestReleases/latest_release_1790590696008_1b346687-0a5f-445a-83a2-28283c586094_IIP_Press_Release_August_2026.pdf"
     primary: true
   - title: "Data file: per-row sources for all indicators"
-    publisher: "LokVox"
+    publisher: "Gandhi News"
     date: 2026-10-11
     url: "/content/data/economy-dashboard.json"
     primary: false

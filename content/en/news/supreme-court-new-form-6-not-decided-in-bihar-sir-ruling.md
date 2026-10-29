@@ -33,7 +33,7 @@ verification:
   notes:
     - "Single source (LiveLaw). The court's remarks were oral; no written order text read."
     - "The '14 decisions over about 10 months' figure is the petition's allegation."
-    - "ECI's 26 September press release is described as LiveLaw characterised it ('suggesting' the court upheld the declaration). LokVox factcheck eci-form-6-press-note-taken-down-claim has PTI reporting ECI officials saying Form 6 itself was not changed and the declaration had the court's nod."
+    - "ECI's 26 September press release is described as LiveLaw characterised it ('suggesting' the court upheld the declaration). Gandhi News factcheck eci-form-6-press-note-taken-down-claim has PTI reporting ECI officials saying Form 6 itself was not changed and the declaration had the court's nod."
     - "No ECI response to Monday's hearing found."
 ---
 

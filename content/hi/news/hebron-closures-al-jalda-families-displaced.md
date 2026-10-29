@@ -56,7 +56,7 @@ verification:
     - "Closures, Basma Radio, WAFA evictions, Reem Al Jiyawi account: AP (KSAT, Bastille Post update). IDF quote and 'several days': Times of Israel live blog (11:09 am Israel time)."
     - "'Up to 200 families' displaced from al-Jalda: Al Jazeera live blog summary only, so attributed to Palestinian sources and hedged."
     - "Khirbet Suba settler attack: WAFA via ToI; number of injured not reported. Netanyahu 'big surprise' remark via The New Arab."
-    - "Earlier LokVox story said five soldiers were wounded in Friday's gunfight; AP now says two soldiers were killed. We use AP's figure. Israeli election date (Tuesday 27 October) from earlier LokVox coverage."
+    - "Earlier Gandhi News story said five soldiers were wounded in Friday's gunfight; AP now says two soldiers were killed. We use AP's figure. Israeli election date (Tuesday 27 October) from earlier Gandhi News coverage."
 ---
 
 इजराइल ने शनिवार को हेब्रोन की घेराबंदी कर दी। कब्जे वाले वेस्ट बैंक के इस सबसे बड़े शहर में आने-जाने वाले सभी सड़क गेट बंद कर दिए गए और परिवारों को घरों से निकाला गया। एक दिन पहले फलस्तीनी बंदूकधारियों ने पास में दो इजराइली सैनिकों को मार दिया था।

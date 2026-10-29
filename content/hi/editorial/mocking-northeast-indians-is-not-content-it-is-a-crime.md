@@ -23,7 +23,7 @@ hero:
     value: "नागरिक हैं, मज़ाक नहीं"
 related: [amir-shokeen-five-day-police-custody-racial-abuse-video]
 seo:
-  description: "लोकवॉक्स संपादकीय: आमिर शौकीन वीडियो और अंजेल चकमा की हत्या के बाद भारत को वह नस्लवाद-विरोधी कानून चाहिए जो बेज़बरुआ समिति ने 2014 में मांगा था, और दिल्ली से बाहर भी पुलिस इकाइयां।"
+  description: "गांधी न्यूज़ संपादकीय: आमिर शौकीन वीडियो और अंजेल चकमा की हत्या के बाद भारत को वह नस्लवाद-विरोधी कानून चाहिए जो बेज़बरुआ समिति ने 2014 में मांगा था, और दिल्ली से बाहर भी पुलिस इकाइयां।"
 sources:
   - title: "Tripura Leaders Condemn Alleged Racial Abuse Of Youth By Content Creator In Delhi"
     publisher: "Outlook India (PTI)"

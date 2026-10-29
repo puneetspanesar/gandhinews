@@ -34,7 +34,7 @@ verification:
   status: approved
   notes:
     - "Single wire report (AP via Taipei Times, Saturday print edition). The day of the announcement was not stated; written as 'has proposed'."
-    - "Pak Jong Chon and Kim Yo Jong remarks as carried in the same AP report; loudspeaker context from the LokVox story of 21 October."
+    - "Pak Jong Chon and Kim Yo Jong remarks as carried in the same AP report; loudspeaker context from the Gandhi News story of 21 October."
 ---
 
 दक्षिण कोरिया ने उत्तर कोरिया को सैन्य वार्ता का प्रस्ताव दिया है ताकि यह तय हो सके कि दोनों के बीच की जमीनी सीमा ठीक कहां से गुजरती है। इस सीमा पर तनाव बढ़ रहा है और इस साल उत्तर के सैनिक दर्जनों बार दक्षिण में घुस चुके हैं।

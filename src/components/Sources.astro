@@ -5,7 +5,7 @@ import { fmtDate } from '../lib/site';
 import { resolveHref } from '../lib/routes.mjs';
 interface Props { lang: Lang; sources: any[] }
 const { lang, sources: all } = Astro.props;
-// LokVox reports in its own voice: other outlets are not listed. Readers get the
+// Gandhi News reports in its own voice: other outlets are not listed. Readers get the
 // official documents behind a story (frontmatter sources marked primary: true).
 const sources = (all ?? []).filter((s: any) => s.primary);
 const t = UI[lang];

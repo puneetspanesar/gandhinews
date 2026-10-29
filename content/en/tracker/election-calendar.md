@@ -16,7 +16,7 @@ hero:
   alt: "A voter shows an inked finger after voting (file photo)"
 related: [elections-2027, five-states-head-for-2027-assembly-polls, bypoll-results-ruling-parties-win-all-six-seats, election-commission]
 seo:
-  description: "LokVox election calendar: bypoll results, Rajya Sabha elections and the 2027 assembly and presidential polls, with term-end dates and a source per row."
+  description: "Gandhi News election calendar: bypoll results, Rajya Sabha elections and the 2027 assembly and presidential polls, with term-end dates and a source per row."
 sources:
   - title: "Live blog: Bypolls 2026 results"
     publisher: "ETV Bharat"

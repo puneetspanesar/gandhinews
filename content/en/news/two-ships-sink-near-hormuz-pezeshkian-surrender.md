@@ -52,7 +52,7 @@ verification:
     - "Trump remarks in Montana via Dawn citing Anadolu; exact time not given. Oil prices as of 0625 GMT."
     - "Ten vessels since Sunday, two seafarers missing, Iran army statement, Medina interception, EU-GCC summit postponement: Dawn live roundup. Medina interception also on Al Jazeera, spokesperson Turki al-Maliki; Houthis denied attacks on Saudi Arabia 'today'."
     - "Dateline Dubai is a desk choice for a regional roundup."
-    - "Petro Dolphin and the two missing Indian seafarers taken from LokVox story two-indian-seafarers-missing-after-tanker-attacks-off-oman; whether they are the two missing seafarers in the Dawn roundup is not stated, so not linked."
+    - "Petro Dolphin and the two missing Indian seafarers taken from Gandhi News story two-indian-seafarers-missing-after-tanker-attacks-off-oman; whether they are the two missing seafarers in the Dawn roundup is not stated, so not linked."
 ---
 
 Two merchant ships have sunk near the Strait of Hormuz after being hit by projectiles, as Iran's army insisted the waterway remains closed and President Masoud Pezeshkian told his country that military pressure would not bring it to its knees.

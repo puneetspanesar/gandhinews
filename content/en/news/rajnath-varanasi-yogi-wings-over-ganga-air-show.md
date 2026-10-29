@@ -43,7 +43,7 @@ verification:
   status: approved
   notes:
     - "Content of the Rajnath-Yogi meeting not reported; copy does not describe it. Whether Rajnath attends Sunday's show not stated in sources; not claimed."
-    - "Air show line-up, theme and 94th anniversary from existing LokVox stories (sarang-helicopter-team..., modi-varanasi-garment-unit...). PET exam named only as 'PET (Preliminary Eligibility Test)'; conducting body not given."
+    - "Air show line-up, theme and 94th anniversary from existing Gandhi News stories (sarang-helicopter-team..., modi-varanasi-garment-unit...). PET exam named only as 'PET (Preliminary Eligibility Test)'; conducting body not given."
     - "Army Commanders' Conference quote from ANI (22:44 IST)."
 ---
 

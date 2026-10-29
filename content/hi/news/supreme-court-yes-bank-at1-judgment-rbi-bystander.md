@@ -40,7 +40,7 @@ verification:
     - "Judgment details and quotes ('mere bystander', 'to put it mildly, questionable'), CET1 0.6%, 28 Dec 2016 Chennai email, 14 March 2020 write-down a day after the scheme, draft scheme clause dropped: Bar and Bench (S N Thyagarajan) only. Full judgment not read."
     - "Bar and Bench article quotes a ₹8,514 crore figure in one passage; ₹8,415 crore used, as in all other reporting."
     - "Judgment author not named in the source. No RBI or YES Bank response found by Friday morning."
-    - "17 October results date carried from the earlier LokVox story."
+    - "17 October results date carried from the earlier Gandhi News story."
 ---
 
 सुप्रीम कोर्ट (सर्वोच्च न्यायालय) ने कहा है कि जब यस बैंक का कामकाज छिपे तौर पर चलाया जा रहा था, तब भारतीय रिज़र्व बैंक "महज मूकदर्शक" बना रहा। इसी फैसले में अदालत ने यह भी पाया कि बैंक ने जोखिम भरे एडिशनल टियर-1 (एटी-1) बॉन्ड आम निवेशकों को थमा दिए।

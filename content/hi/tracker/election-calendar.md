@@ -17,7 +17,7 @@ hero:
   alt: "मतदान के बाद स्याही लगी उंगली दिखाता एक मतदाता (फाइल फोटो)"
 related: [elections-2027, five-states-head-for-2027-assembly-polls, bypoll-results-ruling-parties-win-all-six-seats, election-commission]
 seo:
-  description: "लोकवॉक्स चुनाव कैलेंडर: उपचुनाव के नतीजे, राज्यसभा चुनाव, 2027 के विधानसभा और राष्ट्रपति चुनाव, कार्यकाल खत्म होने की तारीखें और हर पंक्ति का स्रोत।"
+  description: "गांधी न्यूज़ चुनाव कैलेंडर: उपचुनाव के नतीजे, राज्यसभा चुनाव, 2027 के विधानसभा और राष्ट्रपति चुनाव, कार्यकाल खत्म होने की तारीखें और हर पंक्ति का स्रोत।"
 sources:
   - title: "Live blog: Bypolls 2026 results"
     publisher: "ETV Bharat"

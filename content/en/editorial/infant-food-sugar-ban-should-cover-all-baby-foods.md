@@ -22,7 +22,7 @@ hero:
     value: "No sugar before two"
 related: [fssai-draft-ban-added-sugar-infant-food-six-months, global-hunger-index-explained-india-score]
 seo:
-  description: "LokVox editorial: FSSAI's draft ban on added sugar in food for babies under six months is welcome, but it should cover all foods for children under two."
+  description: "Gandhi News editorial: FSSAI's draft ban on added sugar in food for babies under six months is welcome, but it should cover all foods for children under two."
 sources:
   - title: "FSSAI Moves to Strengthen Infant Nutrition Standards by Restricting Addition of Sucrose and Fructose in Products for Infants Up to Six Months"
     publisher: "Press Information Bureau, Ministry of Health and Family Welfare"

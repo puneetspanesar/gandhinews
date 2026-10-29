@@ -23,7 +23,7 @@ hero:
     value: "धमाके से पहले घर की जांच"
 related: [siwan-firecracker-blast-five-dead-alampur-sho-suspended, bombay-high-court-street-firecracker-ban-all-festivals, supreme-court-firecrackers-religion-caqm-suggestions, puja-crowds-need-a-safety-plan-not-a-probe]
 seo:
-  description: "लोकवॉक्स संपादकीय: सीवान पटाखा विस्फोट में तीन बच्चों की मौत के बाद ज़िले दिवाली से पहले पटाखा इकाइयों की जांच करें और अवैध निर्माण की सूचना पर कार्रवाई करें।"
+  description: "गांधी न्यूज़ संपादकीय: सीवान पटाखा विस्फोट में तीन बच्चों की मौत के बाद ज़िले दिवाली से पहले पटाखा इकाइयों की जांच करें और अवैध निर्माण की सूचना पर कार्रवाई करें।"
 sources:
   - title: "Five killed, several injured after explosion in Bihar's Siwan as firecrackers catch fire"
     publisher: "WION"

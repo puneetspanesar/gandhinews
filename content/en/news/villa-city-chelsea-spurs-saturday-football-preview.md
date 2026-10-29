@@ -38,7 +38,7 @@ verification:
   status: approved
   notes:
     - "Fixtures and times from Live Soccer TV, which lists US Eastern time (EDT, UTC-4); converted at +9:30 to IST. Villa v City 7:30 am ET = 5 pm IST; 10 am ET = 7:30 pm; 12 pm = 9:30 pm; 12:30 pm = 10 pm; 3 pm = 12:30 am Sunday. Timezone of listing inferred from the 23 Oct page (Ipswich v Forest at 3 pm = 8 pm UK)."
-    - "League context (City seven straight wins, six-point lead before Arsenal's 1-0 win at Forest; Villa won at Newcastle; Chelsea fourth after win at Everton, Martinez hospital; Spurs first win v Coventry, 16th) from LokVox's own 17-20 October reports. Midweek European results not re-checked; lead 'three points' inferred from those reports, written carefully."
+    - "League context (City seven straight wins, six-point lead before Arsenal's 1-0 win at Forest; Villa won at Newcastle; Chelsea fourth after win at Everton, Martinez hospital; Spurs first win v Coventry, 16th) from Gandhi News's own 17-20 October reports. Midweek European results not re-checked; lead 'three points' inferred from those reports, written carefully."
     - "Martinez fitness for Spurs game not checked; not mentioned."
 ---
 

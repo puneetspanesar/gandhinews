@@ -46,7 +46,7 @@ verification:
     - "Standings (Kerala +2 top, East Bengal 0 played): ISL standings page, captured before the Inter Kashi v Odisha result was reflected."
     - "East Bengal as defending champions and 'title defence': Tribune headline only (article not readable)."
     - "Inter Kashi 'late leveller' by Thoi Singh v Odisha FC: Tribune headline only; score not confirmed, copy says draw and late equaliser only."
-    - "Churchill 2-1 v Mumbai City at Fatorda (Bora, Gutierrez), NEU 1-0 v Mohun Bagan in stoppage time, Kerala 2-0 v Inter Kashi in Pune, East Bengal 3-2 loss to Al Shorta in ACL Two: earlier LokVox stories."
+    - "Churchill 2-1 v Mumbai City at Fatorda (Bora, Gutierrez), NEU 1-0 v Mohun Bagan in stoppage time, Kerala 2-0 v Inter Kashi in Pune, East Bengal 3-2 loss to Al Shorta in ACL Two: earlier Gandhi News stories."
     - "No coach quotes read."
 ---
 

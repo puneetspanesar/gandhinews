@@ -41,7 +41,7 @@ verification:
     - "All Saudi/Houthi items from Dawn's live blog of 24 Oct, which credits Reuters (Makkah/Madina interception 9:26 pm PKT, US advisories), AFP (Sanaa, Asr, Aden, Saree's Aden quote) and Al-Masirah. Houthi denial 11:24 pm PKT; 'a great and huge lie' quoted as printed."
     - "Casualty figures in Sanaa are Houthi media claims, not independently confirmed; Saudi Arabia had not commented on them."
     - "Saree's seven-operations claim (9:16 pm PKT): Saudi Arabia had not commented at the time. Targets listed as given."
-    - "India angle drawn from LokVox's 23 Oct MEA story on stranded Umrah pilgrims; no new Indian statement on Saturday's attacks found."
+    - "India angle drawn from Gandhi News's 23 Oct MEA story on stranded Umrah pilgrims; no new Indian statement on Saturday's attacks found."
 ---
 
 सऊदी अरब ने शनिवार देर रात कहा कि उसने इस्लाम के दो सबसे पवित्र शहरों, मक्का और मदीना की ओर दागी गईं दो हूती बैलिस्टिक मिसाइलों को मार गिराया और उनका मलबा जेद्दा, ताइफ और राबिग में गिरा। दो घंटे के भीतर हूतियों ने इन शहरों को निशाना बनाने से साफ इनकार कर दिया।

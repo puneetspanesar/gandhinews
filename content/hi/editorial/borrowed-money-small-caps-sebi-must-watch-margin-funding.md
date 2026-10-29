@@ -23,7 +23,7 @@ hero:
     value: "उधार का पैसा, खिसकती ज़मीन"
 related: [margin-calls-explained-why-small-caps-fell-so-fast, midcap-smallcap-indices-slide-4-per-cent-margin-calls, sensex-nifty-close-october-23-smallcaps-crash-metals]
 seo:
-  description: "लोकवॉक्स संपादकीय: मार्जिन कॉल ने इस हफ्ते स्मॉल-कैप की गिरावट बढ़ाई। ब्रोकरों को और कर्ज़ की छूट से पहले सेबी कम तरल शेयरों पर मार्जिन ट्रेडिंग सख्त करे और आंकड़े जारी करे।"
+  description: "गांधी न्यूज़ संपादकीय: मार्जिन कॉल ने इस हफ्ते स्मॉल-कैप की गिरावट बढ़ाई। ब्रोकरों को और कर्ज़ की छूट से पहले सेबी कम तरल शेयरों पर मार्जिन ट्रेडिंग सख्त करे और आंकड़े जारी करे।"
 sources:
   - title: "Consultation paper on review of Margin Trading Facility (MTF) framework"
     publisher: "Securities and Exchange Board of India"

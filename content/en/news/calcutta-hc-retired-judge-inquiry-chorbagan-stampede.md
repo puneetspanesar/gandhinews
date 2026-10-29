@@ -33,7 +33,7 @@ verification:
   status: approved
   notes:
     - "Single source: Business Standard (PTI copy), 20 Oct, 3:12 pm IST. Only CJ Ghuge named on the bench; companion judge not named. No direct quote from the order available, so none used. Next hearing date not reported. Petitioner lawyer not named."
-    - "Background (7 arrests, culpable homicide case, CM's SIT-under-judge announcement) from LokVox's 18 Oct story."
+    - "Background (7 arrests, culpable homicide case, CM's SIT-under-judge announcement) from Gandhi News's 18 Oct story."
 ---
 
 The Calcutta High Court on Tuesday ordered the West Bengal government to set up a commission of inquiry headed by a retired High Court judge into the stampede at Kolkata's Chorbagan Durga Puja pandal, which killed 19 people on Saturday evening.

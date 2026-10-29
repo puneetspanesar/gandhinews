@@ -23,7 +23,7 @@ hero:
     value: "चेक नहीं, निरीक्षण गिनिए"
 related: [saraka-laboratories-chloroform-leak-two-workers-dead-sangareddy, illegal-firecracker-units-need-checks-before-diwali]
 seo:
-  description: "लोकवॉक्स संपादकीय: सरका लैबोरेटरीज़ क्लोरोफॉर्म रिसाव और 2025 के सिगाची धमाके के बाद तेलंगाना रसायन इकाइयों का निरीक्षण करे, नतीजे सार्वजनिक करे और प्रबंधन की जवाबदेही तय करे।"
+  description: "गांधी न्यूज़ संपादकीय: सरका लैबोरेटरीज़ क्लोरोफॉर्म रिसाव और 2025 के सिगाची धमाके के बाद तेलंगाना रसायन इकाइयों का निरीक्षण करे, नतीजे सार्वजनिक करे और प्रबंधन की जवाबदेही तय करे।"
 sources:
   - title: "Chloroform Leak at Telangana's Saraka Laboratories Leaves Two Workers Dead; Several Hospitalised"
     publisher: "ETV Bharat"

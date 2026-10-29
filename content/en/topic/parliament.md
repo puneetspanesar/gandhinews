@@ -67,7 +67,7 @@ Two big proposals wait in joint committees: the FCRA amendment and the One Natio
 ```
 
 ```facts
-{"title":"Key numbers","items":[{"value":"15%","label":"Lok Sabha productivity, Monsoon Session 2026","source":"PRS"},{"value":"21%","label":"Bills referred to committees in the 18th Lok Sabha so far","source":"PRS"},{"value":"9 min","label":"Lok Sabha Question Hour, whole Monsoon Session","source":"PRS"},{"value":"8","label":"Bills in our tracker now with committees","source":"LokVox Bills tracker"}]}
+{"title":"Key numbers","items":[{"value":"15%","label":"Lok Sabha productivity, Monsoon Session 2026","source":"PRS"},{"value":"21%","label":"Bills referred to committees in the 18th Lok Sabha so far","source":"PRS"},{"value":"9 min","label":"Lok Sabha Question Hour, whole Monsoon Session","source":"PRS"},{"value":"8","label":"Bills in our tracker now with committees","source":"Gandhi News Bills tracker"}]}
 ```
 
 ## Key questions

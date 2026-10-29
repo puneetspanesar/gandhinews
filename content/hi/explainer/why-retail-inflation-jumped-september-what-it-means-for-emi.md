@@ -52,7 +52,7 @@ verification:
     - "RBI quarterly projections (Q2 4.9%, Q3 6.0%, Q4 5.7%, FY27 5.2%) are from Business Today; matches the site's RBI story, which was checked against the MPC resolution. rbi.org.in pages could not be opened from this desk today."
     - "External benchmark rules (repo-linked floating retail loans since 1 Oct 2019, reset at least once every three months) rest on the site's verified explainer repo-rate-and-your-emi-explained, checked against circular RBI/2019-20/53. Not re-opened today (rbi.org.in fetch returned an index page)."
     - "MPC dates (2-4 December; minutes 21 October) from the site's RBI story, verified against the resolution on 11 Oct."
-    - "EMI illustration is LokVox's own arithmetic on assumed terms (₹50 lakh, 20 years, 8.00% to 8.25% to 8.50%). Not a quoted bank rate."
+    - "EMI illustration is Gandhi News's own arithmetic on assumed terms (₹50 lakh, 20 years, 8.00% to 8.25% to 8.50%). Not a quoted bank rate."
     - "Core inflation 4.3% is Bank of Baroda's estimate (ANI); no official core series."
 ---
 

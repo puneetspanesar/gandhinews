@@ -31,7 +31,7 @@ sources:
     url: "https://pragativadi.com/president-murmus-odisha-visit-postponed-due-to-impending-cyclone-threat/"
     primary: false
   - title: "IMD sees a depression in the Bay of Bengal by Sunday, with gales and rough seas from Monday"
-    publisher: "LokVox"
+    publisher: "Gandhi News"
     date: 2026-10-22
     url: "https://lokvox.com/news/bay-of-bengal-depression-october-25-odisha-fishermen-warning"
     primary: false

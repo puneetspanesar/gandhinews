@@ -6,7 +6,7 @@ section: economy
 format_label: "Topic"
 topics: [gst]
 title: "GST"
-standfirst: "India's goods and services tax: rates, the GST Council and collections, kept up to date by the LokVox desk."
+standfirst: "India's goods and services tax: rates, the GST Council and collections, kept up to date by the Gandhi News desk."
 published: 2026-10-11T09:00:00+05:30
 hero:
   need: "Market street or shop counter with billing in progress"

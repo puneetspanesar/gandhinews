@@ -23,7 +23,7 @@ hero:
     value: "एजेंटों को खुले मिले दरवाज़े बंद हों"
 related: [cert-in-warns-ai-agents-accessed-indian-systems, appoint-data-protection-board-before-rules-bite, nadella-ai-models-insider-risk-emergency-brake]
 seo:
-  description: "लोकवॉक्स संपादकीय: सर्ट-इन के मुताबिक एआई एजेंट बिना पकड़े भारतीय सिस्टम में घुसे; अब एआई डेवलपरों की अनिवार्य रिपोर्टिंग, सुरक्षित टेस्टिंग नियम और बुनियादी साइबर सुरक्षा ज़रूरी।"
+  description: "गांधी न्यूज़ संपादकीय: सर्ट-इन के मुताबिक एआई एजेंट बिना पकड़े भारतीय सिस्टम में घुसे; अब एआई डेवलपरों की अनिवार्य रिपोर्टिंग, सुरक्षित टेस्टिंग नियम और बुनियादी साइबर सुरक्षा ज़रूरी।"
 sources:
   - title: "CERT-In: AI agents accessed Indian organizations' business and personal data"
     publisher: "NewsBytes"

@@ -17,7 +17,7 @@ hero:
     value: "असहमति सार्वजनिक हो"
 related: [election-commission-dissent-report-move-to-remove-cec, how-chief-election-commissioner-is-appointed-removed, election-commission, sir-phase-three-draft-rolls-names-dropped-by-state]
 seo:
-  description: "लोकवॉक्स संपादकीय: चुनाव आयोग एसआईआर जैसे बड़े फैसलों पर असहमति नोट दर्ज करे और उन्हें सार्वजनिक करे, जैसा आरबीआई की मौद्रिक नीति समिति करती है।"
+  description: "गांधी न्यूज़ संपादकीय: चुनाव आयोग एसआईआर जैसे बड़े फैसलों पर असहमति नोट दर्ज करे और उन्हें सार्वजनिक करे, जैसा आरबीआई की मौद्रिक नीति समिति करती है।"
 sources:
   - title: "EC reacts to report on dissent in poll body: decisions unanimous, differing views part of deliberations"
     publisher: "ThePrint (ANI)"

@@ -4,7 +4,8 @@ import Icon from '../components/Icon.astro';
 import Seal from '../components/Seal.astro';
 import JsonLd from '../components/JsonLd.astro';
 import { UI, SECTION_NAMES, type Lang } from '../lib/i18n';
-import { SITE_LIVE, SITE_URL, abs, prefix, swapLangPath, todayLine, fmtShort } from '../lib/site';
+import { SITE_LIVE, SITE_URL, abs, prefix, swapLangPath, todayLine, fmtShort, content, urlOf } from '../lib/site';
+import HOME from '../../content/homepage.json';
 import { indicator } from '../lib/data';
 import { fmtNum } from '../lib/blocks.mjs';
 
@@ -33,7 +34,7 @@ const p = prefix(lang);
 const S = SECTION_NAMES[lang];
 const enPath = lang === 'en' ? path : altPath;
 const hiPath = lang === 'hi' ? path : altPath;
-const fullTitle = path === `${p}/` ? (lang === 'hi' ? 'लोकवॉक्स (LokVox): भारत और दुनिया की ख़बरें, हिंदी और अंग्रेज़ी में' : 'LokVox: India and world news in English and Hindi') : `${title} | ${t.siteName}`;
+const fullTitle = path === `${p}/` ? (lang === 'hi' ? 'गांधी न्यूज़ (Gandhi News): भारत और दुनिया की ख़बरें, हिंदी और अंग्रेज़ी में' : 'Gandhi News: India and world news in English and Hindi') : `${title} | ${t.siteName}`;
 const ogImage = image?.url ?? abs('/og-default.png');
 
 const EN_TRY = ['CJP protest', 'Repo rate', 'SIR electoral rolls', 'GST Council', 'Labour codes'];
@@ -77,6 +78,13 @@ const mkDate = fmtShort(sensex.release_date, lang, false);
 const repoDate = fmtShort(repo.release_date, lang, false);
 const pct = (v: number) => `${v > 0 ? '+' : v < 0 ? '−' : ''}${Math.abs(v).toFixed(2)}%`;
 
+// Running stories strip: the labels of the homepage briefing items, each linking to its story.
+const C = (await content())[lang];
+const trending = (HOME.briefing?.items ?? []).map((b: any) => {
+  const e: any = C.all.get(b.link);
+  return e ? { label: String(b.lead[lang]).replace(/[:：]\s*$/, ''), href: urlOf(e.data) } : null;
+}).filter(Boolean).slice(0, 7);
+
 const breadcrumbLd = crumbs.length
   ? {
       '@context': 'https://schema.org',
@@ -100,16 +108,16 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
   {(!SITE_LIVE || noindex) && <meta name="robots" content="noindex,nofollow" />}
   {SITE_LIVE && !noindex && <meta name="robots" content="max-image-preview:large, max-snippet:-1, max-video-preview:-1" />}
   <meta name="theme-color" content="#0d0d0d" />
-  <link rel="icon" href="/favicon.ico?v=lv2" sizes="48x48" />
-  <link rel="icon" href="/favicon.svg?v=lv2" type="image/svg+xml" />
-  <link rel="icon" href="/favicon.png?v=lv2" type="image/png" sizes="192x192" />
-  <link rel="apple-touch-icon" href="/apple-touch-icon.png?v=lv2" />
+  <link rel="icon" href="/favicon.ico?v=gn1" sizes="48x48" />
+  <link rel="icon" href="/favicon.svg?v=gn1" type="image/svg+xml" />
+  <link rel="icon" href="/favicon.png?v=gn1" type="image/png" sizes="192x192" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png?v=gn1" />
   <link rel="preload" href="/fonts/inter-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/fonts/google-sans-latin-600-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/fonts/noto-sans-devanagari-devanagari-600-normal.woff2" as="font" type="font/woff2" crossorigin />
   {lang === 'hi' && <link rel="preload" href="/fonts/noto-sans-devanagari-devanagari-500-normal.woff2" as="font" type="font/woff2" crossorigin />}
   <link rel="alternate" type="application/rss+xml" title={`${t.siteName} (${lang === 'hi' ? 'हिंदी' : 'English'})`} href={abs(`${p}/rss.xml`)} />
-  <meta property="og:site_name" content="LokVox" />
+  <meta property="og:site_name" content="Gandhi News" />
   <meta property="og:type" content={ogType} />
   <meta property="og:title" content={title} />
   <meta property="og:description" content={description} />
@@ -119,7 +127,7 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
   <meta property="og:image" content={ogImage} />
   <meta property="og:image:width" content={String(image?.width ?? 1200)} />
   <meta property="og:image:height" content={String(image?.height ?? 630)} />
-  <meta property="og:image:alt" content={image?.alt || 'LokVox'} />
+  <meta property="og:image:alt" content={image?.alt || 'Gandhi News'} />
   {article?.published && <meta property="article:published_time" content={article.published.toISOString()} />}
   {article?.modified && <meta property="article:modified_time" content={article.modified.toISOString()} />}
   {article?.section && <meta property="article:section" content={article.section} />}
@@ -148,44 +156,49 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
 </head>
 <body>
   <a class="skip" href="#main">{t.skip}</a>
-  <header class="nb" id="nb">
-    <div class="w">
-      <a class="brand" href={`${p}/`} aria-label={`${t.siteName}, ${t.home}`}><Seal /><span class="wm">LokVox</span></a>
-      <nav class="menu" aria-label={lang === 'hi' ? 'मुख्य' : 'Main'}>
-        {nav.map((n) => <a href={n.href} class={active === n.key ? 'on' : undefined} aria-current={active === n.key ? 'page' : undefined}>{n.label}</a>)}
-        <details class={moreActive ? 'on' : undefined}>
-          <summary>{t.more} <Icon name="caret-down" /></summary>
-          <div class="dd">
-            {more.map((m) => <a href={m.href} class={active === m.key ? 'on' : undefined}>{m.label}</a>)}
-          </div>
-        </details>
-      </nav>
-      <div class="act">
-        <a class="ib" href={`${p}/search/`} title={t.search} data-so-open><Icon name="magnifying-glass" label={t.search} /></a>
-        <div class="lang" role="group" aria-label={lang === 'hi' ? 'भाषा' : 'Language'}>
+  <header class="mh" id="nb">
+    <div class="w mh-top">
+      <span class="mh-date">{todayLine(lang)}</span>
+      <div class="mh-act">
+        <div class="mh-lang" role="group" aria-label={lang === 'hi' ? 'भाषा' : 'Language'}>
           {lang === 'en'
-            ? <><span class="on" aria-current="true">EN</span>{altPath ? <a class="hi" href={altPath} hreflang="hi" lang="hi" title={UI.en.switchLabel}>हिंदी</a> : <span class="hi" lang="hi">हिंदी</span>}</>
-            : <>{altPath ? <a href={altPath} hreflang="en" lang="en" title={UI.hi.switchLabel}>EN</a> : <span>EN</span>}<span class="on hi" aria-current="true">हिंदी</span></>}
+            ? <><span class="on" aria-current="true">English</span>{altPath ? <a class="hi" href={altPath} hreflang="hi" lang="hi" title={UI.en.switchLabel}>हिंदी</a> : <span class="hi off" lang="hi">हिंदी</span>}</>
+            : <>{altPath ? <a href={altPath} hreflang="en" lang="en" title={UI.hi.switchLabel}>English</a> : <span class="off">English</span>}<span class="on hi" aria-current="true">हिंदी</span></>}
         </div>
-        <span class="sep" aria-hidden="true"></span>
-        <a class="sub" href={`${p}/subscribe/`}>{t.subscribe}</a>
+        <a class="mh-ib" href={`${p}/search/`} title={t.search} data-so-open><Icon name="magnifying-glass" label={t.search} /></a>
+        <a class="mh-sub" href={`${p}/subscribe/`}>{lang === 'hi' ? 'सुबह 7 बजे की ब्रीफिंग पाएं' : 'Get the 7 am briefing'}</a>
       </div>
     </div>
+    <div class="w mh-brand">
+      <a class="mh-wm" href={`${p}/`} aria-label={`${t.siteName}, ${t.home}`}>{t.siteName}</a>
+      <span class="mh-tag">{lang === 'hi' ? <>भारत और दुनिया,<br />हिंदी और अंग्रेज़ी में</> : <>India and the world,<br />in English and Hindi</>}</span>
+    </div>
+    <nav class="w mh-nav menu" aria-label={lang === 'hi' ? 'मुख्य' : 'Main'}>
+      <a href={`${p}/`} class={active === 'home' ? 'on' : undefined} aria-current={active === 'home' ? 'page' : undefined}>{t.home}</a>
+      {nav.map((n) => <a href={n.href} class={active === n.key ? 'on' : undefined} aria-current={active === n.key ? 'page' : undefined}>{n.label}</a>)}
+      <details class={moreActive ? 'on' : undefined}>
+        <summary>{t.more} <Icon name="caret-down" /></summary>
+        <div class="dd">
+          {more.map((m) => <a href={m.href} class={active === m.key ? 'on' : undefined}>{m.label}</a>)}
+        </div>
+      </details>
+    </nav>
   </header>
   <nav class="mnav" aria-label={lang === 'hi' ? 'सेक्शन' : 'Sections'}>
     <ul class="w">
       {[...nav, ...more].map((n) => <li><a href={n.href} class={active === n.key ? 'on' : undefined}>{n.label}</a></li>)}
     </ul>
   </nav>
-  <div class="subnav">
+  <div class="tstrip">
     <div class="w">
-      <div class="date">{todayLine(lang)}</div>
-      <div class="q"><span class="l">{lang === 'hi' ? 'सेंसेक्स' : 'Sensex'}</span><b class="num">{fmtNum(sensex.latest_value, 2)}</b><span class={`num ${sensex.change_vs_previous.change_pct >= 0 ? 'up' : 'dn'}`}>{pct(sensex.change_vs_previous.change_pct)}</span></div>
-      <div class="q"><span class="l">{lang === 'hi' ? 'निफ्टी 50' : 'Nifty 50'}</span><b class="num">{fmtNum(nifty.latest_value, 2)}</b><span class={`num ${nifty.change_vs_previous.change_pct >= 0 ? 'up' : 'dn'}`}>{pct(nifty.change_vs_previous.change_pct)}</span></div>
-      <div class="q"><span class="l">₹ / $</span><b class="num">{fmtNum(usd.latest_value, 2)}</b><span class="l num">{fmtNum(usd.change_vs_previous.change, 2, true)}</span></div>
-      <div class="q"><span class="l">{t.repo}</span><b class="num">{fmtNum(repo.latest_value, 2)}%</b><span class="l num">{lang === 'hi' ? `${repoDate} को +${repo.change_vs_previous.change.toFixed(2)}` : `+${repo.change_vs_previous.change.toFixed(2)} on ${repoDate}`}</span></div>
-      <div class="q mk">{lang === 'hi' ? `${t.markets}: ${mkDate} का ${t.close}` : `${t.markets}: ${mkDate} ${t.close}`}</div>
-      <div class="motto">{t.motto}</div>
+      <div class="tt">
+        {trending.map((x: any, i: number) => <a href={x.href} class={i === 0 ? 'hot' : undefined}>{x.label}</a>)}
+      </div>
+      <div class="tq">
+        <span>{lang === 'hi' ? 'सेंसेक्स' : 'Sensex'} <b class="num">{fmtNum(sensex.latest_value, 2)}</b> <span class={`num ${sensex.change_vs_previous.change_pct >= 0 ? 'up' : 'dn'}`}>{pct(sensex.change_vs_previous.change_pct)}</span></span>
+        <span>{lang === 'hi' ? 'निफ्टी 50' : 'Nifty 50'} <b class="num">{fmtNum(nifty.latest_value, 2)}</b> <span class={`num ${nifty.change_vs_previous.change_pct >= 0 ? 'up' : 'dn'}`}>{pct(nifty.change_vs_previous.change_pct)}</span></span>
+        <span>₹ / $ <b class="num">{fmtNum(usd.latest_value, 2)}</b></span>
+      </div>
     </div>
   </div>
   {crumbs.length > 0 && (
@@ -215,7 +228,7 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
         </form>
       </div>
       <div class="g">
-        <div><a class="brand" href={`${p}/`}><Seal /><span class="wm" style="color:#fff">LokVox</span></a><p class="named">{t.named}</p></div>
+        <div><a class="fwm" href={`${p}/`}>{t.siteName}</a><p class="named">{t.named}</p></div>
         <div><h2 class="fh">{t.sections}</h2><ul>{['politics', 'world', 'economy', 'science', 'sports', 'states', 'policy', 'parliament'].map((k) => <li><a href={`${p}/${k}/`}>{S[k]}</a></li>)}</ul></div>
         <div><h2 class="fh">{t.features}</h2><ul>{more.map((m) => <li><a href={m.href}>{m.label}</a></li>)}</ul></div>
         <div><h2 class="fh">{t.trust}</h2><ul>{trust.map((x) => <li><a href={x.href}>{x.label}</a></li>)}</ul></div>

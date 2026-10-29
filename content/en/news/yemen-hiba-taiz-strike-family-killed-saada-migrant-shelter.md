@@ -43,7 +43,7 @@ verification:
   status: approved
   notes:
     - "Casualty figures rest on Houthi-run health authorities via AP; spokesperson Anees al-Asbahi blamed Saudi Arabia. No independent confirmation; attributed throughout."
-    - "UN displacement figure from the LokVox story of 22 October (OCHA). Names of the dead and nationality of the migrants were not given."
+    - "UN displacement figure from the Gandhi News story of 22 October (OCHA). Names of the dead and nationality of the migrants were not given."
 ---
 
 An air strike late on Friday night hit a house in Hiba, near the south-western Yemeni city of Taiz, killing four people from the same family, the Houthi-run health authorities said on Saturday. Five other people were wounded. Women and children were among the victims.

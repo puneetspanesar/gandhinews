@@ -25,8 +25,8 @@ sources:
     date: 2017-10-20
     url: "https://www.easternmirrornagaland.com/nation-to-pay-homage-to-policemen-killed-in-1959-chinese-firing"
     primary: false
-  - title: "Amit Shah leads Police Commemoration Day tribute at National Police Memorial today (LokVox, sources: MHA announcement via DD India, Kalinga TV)"
-    publisher: "LokVox"
+  - title: "Amit Shah leads Police Commemoration Day tribute at National Police Memorial today (Gandhi News, sources: MHA announcement via DD India, Kalinga TV)"
+    publisher: "Gandhi News"
     date: 2026-10-21
     url: "https://lokvox.com/news/police-commemoration-day-amit-shah-national-police-memorial"
     primary: false

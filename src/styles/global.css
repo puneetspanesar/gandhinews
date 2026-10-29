@@ -920,3 +920,46 @@ html.so-on{overflow:hidden}
 .elx .waf.big i{border-radius:1px}
 .elx .mgh{font-size:15px;font-weight:600;margin:22px 0 10px;display:flex;gap:8px;align-items:baseline}
 .elx .mgh .num{color:var(--ink2);font-weight:500;font-size:13px}
+
+/* ===== MASTHEAD (Gandhi News, 2026 redesign) ===== */
+.mh{background:var(--blk);color:#fff}
+.mh :focus-visible{outline-color:#fff}
+.mh-top{display:flex;justify-content:space-between;align-items:center;gap:12px;padding-top:8px;font-size:13px;font-weight:600}
+.mh-act{display:flex;align-items:center;gap:16px}
+.mh-lang{display:flex;gap:16px;align-items:center}
+.mh-lang a,.mh-lang span{color:#fff;font-weight:700;padding:3px 0;font-family:var(--f-head);font-size:14px}
+.mh-lang .on{border-bottom:2px solid var(--red)}
+.mh-lang .hi{font-family:var(--f-dv)}
+.mh-ib{display:grid;place-items:center;width:44px;height:44px;color:#fff}
+.mh-ib .ic{width:20px;height:20px}
+.mh-sub{background:var(--red);color:#fff;font-family:var(--f-head);font-weight:700;font-size:14px;padding:10px 16px}
+.mh-sub:hover{background:#a80000}
+.mh-brand{display:flex;justify-content:space-between;align-items:flex-end;gap:16px;padding-top:8px;padding-bottom:18px}
+.mh-wm{font-family:'Google Sans',var(--f-head);font-weight:700;font-size:58px;letter-spacing:-.035em;line-height:1;color:#fff}
+.mh-tag{font-family:var(--f-head);font-size:17px;font-weight:500;text-align:right;line-height:1.35}
+.menu.mh-nav{display:flex;align-items:stretch;border-top:1px solid #3a3a3a;gap:0;flex:none}
+.menu.mh-nav>a,.menu.mh-nav summary{font-family:'Google Sans',var(--f-head);font-weight:700;font-size:16px;color:#fff;padding:13px 18px;border-left:1px solid #3a3a3a;position:relative}
+.menu.mh-nav>a:first-child{padding-left:0;border-left:0}
+.menu.mh-nav>a.on::after,.menu.mh-nav details.on summary::after{content:"";position:absolute;left:0;right:0;bottom:0;height:4px;background:var(--red)}
+.menu.mh-nav>a:first-child.on::after{right:18px}
+.menu.mh-nav>a:hover,.menu.mh-nav summary:hover{color:#fff;text-decoration:underline;text-underline-offset:4px}
+.mh-nav .dd{top:100%}
+.tstrip{background:#fff;border-bottom:1px solid var(--line)}
+.tstrip .w{display:flex;justify-content:space-between;align-items:center;gap:20px;min-height:44px}
+.tt{display:flex;gap:22px;overflow-x:auto;scrollbar-width:none;white-space:nowrap;font-family:var(--f-head);font-size:14px;font-weight:700}
+.tt::-webkit-scrollbar{display:none}
+.tt a{color:var(--ink);padding:10px 0}
+.tt a.hot{color:var(--red)}
+.tt a:hover{text-decoration:underline}
+.tq{display:flex;gap:18px;white-space:nowrap;font-size:13px;color:var(--ink)}
+.tq b{font-weight:700}
+.tq .up{color:var(--up);font-weight:600}.tq .dn{color:var(--dn);font-weight:600}
+footer{color:#fff}
+footer .fwm{display:block;font-family:'Google Sans',var(--f-head);font-weight:700;font-size:40px;letter-spacing:-.035em;color:#fff;line-height:1}
+footer .named{color:#fff}
+footer li a{color:#fff}
+footer .b{color:#fff}
+footer input::placeholder{color:#bdbdbd}
+@media(max-width:1180px){.menu.mh-nav>a,.menu.mh-nav summary{font-size:15px;padding:12px 13px}}
+@media(max-width:980px){.menu.mh-nav{display:none}.mh-tag{display:none}.mh-wm{font-size:40px}.mh-brand{padding-bottom:14px}.tq{display:none}}
+@media(max-width:560px){.mh-sub{display:none}.mh-wm{font-size:32px}.mh-date{font-size:12px}.mh-act{gap:6px}}

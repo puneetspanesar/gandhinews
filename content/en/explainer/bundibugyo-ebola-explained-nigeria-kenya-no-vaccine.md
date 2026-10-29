@@ -30,8 +30,8 @@ sources:
     date: 2026-05-28
     url: "https://who.int/news/item/28-05-2026-experts-convened-by-who-advise-on-candidate-treatments-and-vaccines-for-ebola-disease-caused-by-bundibugyo-virus"
     primary: true
-  - title: "Nigeria confirms its first Ebola case, a woman who flew in from Uganda (LokVox)"
-    publisher: "LokVox"
+  - title: "Nigeria confirms its first Ebola case, a woman who flew in from Uganda (Gandhi News)"
+    publisher: "Gandhi News"
     date: 2026-10-21
     url: "https://lokvox.com/news/nigeria-first-ebola-case-kenya-ninth"
     primary: false

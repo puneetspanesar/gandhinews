@@ -44,7 +44,7 @@ verification:
   status: approved
   notes:
     - "Casualty figures rest on Houthi-run health authorities via AP; spokesperson Anees al-Asbahi blamed Saudi Arabia. No independent confirmation; attributed throughout."
-    - "UN displacement figure from the LokVox story of 22 October (OCHA). Names of the dead and nationality of the migrants were not given."
+    - "UN displacement figure from the Gandhi News story of 22 October (OCHA). Names of the dead and nationality of the migrants were not given."
 ---
 
 शुक्रवार देर रात यमन के दक्षिण-पश्चिमी शहर ताइज के पास हिबा में एक घर पर हवाई हमला हुआ, जिसमें एक ही परिवार के चार लोग मारे गए। हूती प्रशासन के स्वास्थ्य अधिकारियों ने शनिवार को यह जानकारी दी। पांच अन्य लोग घायल हुए। पीड़ितों में महिलाएं और बच्चे शामिल हैं।

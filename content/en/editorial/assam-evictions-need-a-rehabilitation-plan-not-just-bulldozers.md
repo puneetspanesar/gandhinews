@@ -22,7 +22,7 @@ hero:
     value: "Clear the forest, house the family"
 related: [assam-evictions-638-hectares-golaghat-hojai-nagaon, himanta-sarma-30-infiltrators-stopped-assam-border]
 seo:
-  description: "LokVox editorial: Assam's forest eviction drives in Golaghat, Hojai and Nagaon should come with notice, hearings and a public rehabilitation plan for families who lose homes."
+  description: "Gandhi News editorial: Assam's forest eviction drives in Golaghat, Hojai and Nagaon should come with notice, hearings and a public rehabilitation plan for families who lose homes."
 sources:
   - title: "Assam clears 638 hectares of encroached land in three districts, says CM"
     publisher: "Northeast News"

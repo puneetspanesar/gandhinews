@@ -21,7 +21,7 @@ hero:
     value: "Make the river crossing safe"
 related: [vaishali-boat-capsize-ganga-raghopur-children-killed]
 seo:
-  description: "LokVox editorial: after 13 children drowned at Raghopur, Bihar must register country boats, cap loads, provide life jackets and enforce the rules it already has."
+  description: "Gandhi News editorial: after 13 children drowned at Raghopur, Bihar must register country boats, cap loads, provide life jackets and enforce the rules it already has."
 sources:
   - title: "Bihar boat tragedy: 13 children die on their way to village feast as boat capsizes in Vaishali; 7 rescued"
     publisher: "The Statesman"

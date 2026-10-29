@@ -86,8 +86,8 @@ Read every out*.jpg. If a crop misses the face, add a focus entry `{"story-id": 
 
 ## 3. Homepage
 Update content/homepage.json (see newsroom/homepage-example.py for a full worked example; write a similar script for this run):
-- lead: the biggest story of the window, with an overlay kicker/value (EN and HI), a 4-item dataBox (icons from src/icons, colours #cc0000, #8f0000, #0d0d0d, #6e6e6e), relatedBelow (2) and relatedBeside (5).
-- briefing.items: 8 one-line items across sections, EN and HI.
+- lead: the biggest story of the window; set lead.live.title (EN and HI, e.g. "Cyclone Arnab") to the running story's short name, which labels the lead and the red live band. lead.relatedBelow feeds the live band (first item is its picture story); with an overlay kicker/value (EN and HI), a 4-item dataBox (icons from src/icons, colours #cc0000, #8f0000, #0d0d0d, #6e6e6e), relatedBelow (2) and relatedBeside (5).
+- briefing.items: 8 one-line items across sections, EN and HI. Their short leads ("Cyclone:", "Iran:") also become the running-stories strip under the masthead on every page, so keep them short.
 - topStories (big + 2 also + 5 list), startHere (6 explainers), opinion (newest editorials first), sections (politics, economy, states, policy leads/lists), desks (world, science, sports), weekAhead (5 dated items, nearest first, drop past ones).
 Every id must exist; the example script checks this.
 

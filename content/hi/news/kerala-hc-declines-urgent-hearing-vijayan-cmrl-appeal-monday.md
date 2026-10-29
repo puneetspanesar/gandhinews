@@ -35,8 +35,8 @@ verification:
   notes:
     - "Single source: Free Press Journal copy syndicated on The Arabian Post (24 Oct 00:03 +04:00, i.e. 1:33 am IST); FPJ original time not shown. Counsel who mentioned the matter not named; no verbatim words from the court."
     - "Arabian Post gives the VACB FIR date as 12 October; not used in copy."
-    - "Whether Vijayan appeared before the ED on 23 October (per LokVox's 21 Oct story) was not reported in this source; left out."
-    - "Seven-day stay and bench details from LokVox's 21 Oct story and this source agree."
+    - "Whether Vijayan appeared before the ED on 23 October (per Gandhi News's 21 Oct story) was not reported in this source; left out."
+    - "Seven-day stay and bench details from Gandhi News's 21 Oct story and this source agree."
 ---
 
 केरलम हाईकोर्ट (उच्च न्यायालय) ने शुक्रवार को पूर्व मुख्यमंत्री पिनराई विजयन के वकीलों की यह मांग ठुकरा दी कि सीएमआरएल-एक्सालॉजिक मामले में उनके परिवार की अपील उसी दिन सुनी जाए। अदालत ने इसे सोमवार, 26 अक्टूबर के लिए सूचीबद्ध कर दिया।

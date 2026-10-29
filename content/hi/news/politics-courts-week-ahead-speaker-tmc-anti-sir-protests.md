@@ -83,7 +83,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Preview built from the sourced reporting behind LokVox's earlier stories (sources listed) plus the Ramlila NOC report of 17 Oct."
+    - "Preview built from the sourced reporting behind Gandhi News's earlier stories (sources listed) plus the Ramlila NOC report of 17 Oct."
     - "Exact dates of the Supreme Court's Dussehra vacation not confirmed; copy says the court is on its break and that the Vijayan plea goes to 26 October if no vacation bench takes it (CJI, 16 Oct, LiveLaw)."
     - "Next date for Rahul Gandhi v ECI (SIR) not found; copy says it has not been announced."
     - "Vacation inferred from the Vijayan report: the plea was mentioned on 16 Oct before the court broke for Dussehra, with 26 October as the fallback date."

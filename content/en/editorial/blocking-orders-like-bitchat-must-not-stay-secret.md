@@ -22,7 +22,7 @@ hero:
     value: "Show the order"
 related: [kerala-hc-bitchat-blocking-centre-apple-google-affidavits, supreme-court-orders-metro-internet-restored-after-cjp-protest-detentions]
 seo:
-  description: "LokVox editorial: the Centre must publish the BitChat blocking order and its reasons. Section 69A blocking under the 2009 rules should be public by default."
+  description: "Gandhi News editorial: the Centre must publish the BitChat blocking order and its reasons. Section 69A blocking under the 2009 rules should be public by default."
 sources:
   - title: "Blocking BitChat is unconstitutional: MeitY must publish and withdraw its secret order"
     publisher: "Internet Freedom Foundation"

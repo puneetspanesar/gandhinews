@@ -23,7 +23,7 @@ hero:
     value: "न्यूज़रूम के नियम सबके सामने हों"
 related: [mib-warns-tv-channels-programme-code-ai-caution, cert-in-ai-agents-warning-must-not-fade, blocking-orders-like-bitchat-must-not-stay-secret]
 seo:
-  description: "लोकवॉक्स संपादकीय: प्रोग्राम कोड और एआई पर टीवी चैनलों को सूचना और प्रसारण मंत्रालय की एडवाइज़री जायज़ चिंताएं उठाती है, लेकिन समाचार के नियम सार्वजनिक, सटीक और खुली प्रक्रिया से लागू होने चाहिए।"
+  description: "गांधी न्यूज़ संपादकीय: प्रोग्राम कोड और एआई पर टीवी चैनलों को सूचना और प्रसारण मंत्रालय की एडवाइज़री जायज़ चिंताएं उठाती है, लेकिन समाचार के नियम सार्वजनिक, सटीक और खुली प्रक्रिया से लागू होने चाहिए।"
 sources:
   - title: "Govt warns TV channels over Programme Code violations, urges caution in AI use (IANS)"
     publisher: "Punjab Kesari (English)"

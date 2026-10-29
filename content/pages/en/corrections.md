@@ -3,7 +3,7 @@ id: corrections
 lang: en
 path: corrections
 title: "Corrections"
-description: "Every correction LokVox makes, with the date, the story and what changed. How to ask us to correct something."
+description: "Every correction Gandhi News makes, with the date, the story and what changed. How to ask us to correct something."
 updated: 2026-10-11
 ---
 

@@ -22,7 +22,7 @@ hero:
     value: "Ladakh needs a date, not silence"
 related: [wangchuk-ladakh-talks-called-off-centre-promises, ladakh-chief-secretary-mha-draft-rejection-article-371k, ladakh-hill-council-regulation-amended-7-24-seats, article-371k-ladakh-explained-sixth-schedule]
 seo:
-  description: "LokVox editorial: after Ladakh talks were called off on 22 October, the Centre should set a new date and table a draft that builds on the May understanding with Leh and Kargil."
+  description: "Gandhi News editorial: after Ladakh talks were called off on 22 October, the Centre should set a new date and table a draft that builds on the May understanding with Leh and Kargil."
 sources:
   - title: "'India not behaving well with us': Sonam Wangchuk accuses Centre of going back on Ladakh promises"
     publisher: "The Tribune"

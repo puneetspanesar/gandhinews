@@ -3,7 +3,7 @@ id: contact
 lang: en
 path: contact
 title: "Contact"
-description: "How to reach the LokVox editor, send a tip or a claim to fact check, ask for a correction or raise a complaint."
+description: "How to reach the Gandhi News editor, send a tip or a claim to fact check, ask for a correction or raise a complaint."
 updated: 2026-10-11
 ---
 
@@ -29,4 +29,4 @@ For questions about your personal data, see our [privacy policy](/privacy/) or w
 
 ## Post
 
-LokVox is published by Puneet Singh. Email: puneet@thar.co. Phone and WhatsApp: +91 77609 06195.
+Gandhi News is published by Puneet Singh. Email: puneet@thar.co. Phone and WhatsApp: +91 77609 06195.

@@ -32,7 +32,7 @@ verification:
   status: approved
   notes:
     - "Single source (The Statesman, 14 Oct, 9:11 pm). Case number RC 220/2026/E/0013, letter dated 12 October to the Chief Secretary, 1 pm deadline and nodal officer Gautam Jain all from that report."
-    - "No AAP or government comment on the letter found; Mann's earlier position taken from the existing LokVox story of 12 October."
+    - "No AAP or government comment on the letter found; Mann's earlier position taken from the existing Gandhi News story of 12 October."
 ---
 
 The CBI has asked the Punjab government for original files on transfers, appointments in the Chief Minister's Office and a string of other official decisions, as it investigates corruption allegations against Rajbir Singh Ghuman, officer on special duty to Chief Minister Bhagwant Mann.

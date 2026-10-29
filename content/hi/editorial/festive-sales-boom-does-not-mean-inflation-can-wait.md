@@ -22,7 +22,7 @@ hero:
     value: "बिक्री अच्छी, दाम भारी"
 related: [festive-ecommerce-sales-24000-crore-first-two-days, retail-inflation-september-2026-5-54, wpi-inflation-september-data-due-preview, rbi-right-to-move-fiscal-side-must-hold, why-retail-inflation-jumped-september-what-it-means-for-emi, inflation]
 seo:
-  description: "लोकवॉक्स संपादकीय: त्योहारी ई-कॉमर्स बिक्री की धूम स्वागत योग्य है, पर 5.54% खुदरा महंगाई और 7.74% खाद्य महंगाई के बीच नीति का ध्यान दामों पर होना चाहिए।"
+  description: "गांधी न्यूज़ संपादकीय: त्योहारी ई-कॉमर्स बिक्री की धूम स्वागत योग्य है, पर 5.54% खुदरा महंगाई और 7.74% खाद्य महंगाई के बीच नीति का ध्यान दामों पर होना चाहिए।"
 sources:
   - title: "E-commerce festive sales reach Rs 24,000 crore in first two days"
     publisher: "afaqs!"

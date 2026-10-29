@@ -46,7 +46,7 @@ verification:
     - "Birla-Shoukry meeting from AIR (9:56 pm), based on Birla's social media post. Quote 'stronger parliamentary ties will further enrich the longstanding partnership between the two countries' verbatim from AIR."
     - "Forum details from AIR (9:54 pm): 11 members and 10 partners invited, four sessions (Resilience, Innovation, Cooperation, Sustainability), IA committee chairs meeting, Modi to attend and meet delegation heads."
     - "Theme differs between sources: AIR gives 'Fostering Parliaments for People-Centric Development'; our 25 Oct story (IANS) gave 'Strengthening Parliaments...'. Theme left out."
-    - "Volodin arrival and Ghalibaf pull-out taken from LokVox story brics-parliamentary-forum-delhi-volodin-ghalibaf-joint-statement (TASS, Iranian embassy statement), not re-checked this run."
+    - "Volodin arrival and Ghalibaf pull-out taken from Gandhi News story brics-parliamentary-forum-delhi-volodin-ghalibaf-joint-statement (TASS, Iranian embassy statement), not re-checked this run."
     - "Shoukry's earlier roles not stated in source; left out. Modi's time of attendance not given."
 ---
 

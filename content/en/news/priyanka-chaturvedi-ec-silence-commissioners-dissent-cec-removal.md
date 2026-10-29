@@ -58,7 +58,7 @@ verification:
   status: approved
   notes:
     - "Chaturvedi remarks: IANS via The Hans India, 23 Oct 3:07 pm; single report, quotes as given in English. Published slot set just after the window opens; remarks were made Friday afternoon."
-    - "Birla remarks were made at a press briefing in New Delhi on Thursday 22 Oct (Deccan Chronicle 5:48 pm, PTI via Kashmir Reader, India TV agree on quote). Not previously on LokVox."
+    - "Birla remarks were made at a press briefing in New Delhi on Thursday 22 Oct (Deccan Chronicle 5:48 pm, PTI via Kashmir Reader, India TV agree on quote). Not previously on Gandhi News."
     - "Two earlier removal attempts (first rejected in both Houses, second pending in Rajya Sabha): PTI via Kashmir Reader and Deccan Chronicle."
     - "Goa Congress: Northeast News, 22 Oct 9:14 pm; 1,39,634 deletions (11.84%) is Chodankar's figure. Start date of the 10-day deadline not given. No ECI or Goa CEO response found."
     - "Sandhu/Joshi '14 objections over 10 months' rests on an Indian Express report, cited via PTI; attributed in copy as reported."

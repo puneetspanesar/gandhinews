@@ -45,7 +45,7 @@ verification:
     - "Year-earlier comparisons (Q3 2025: net profit NT$452.30bn, revenue NT$989.92bn, gross margin 59.5%, 3nm 23% of wafer revenue) from Focus Taiwan/CNA, Oct 2025. They match the growth rates in the 6-K."
     - "Wendell Huang quote is a single sentence from the 6-K. No earnings-call remarks from C.C. Wei on 15 Oct were found in any source read, so none are used. Not described as a 'record' quarter because no 2026 source read says so."
     - "Capex range of $60-64bn is the July 2026 guidance (Bits&Chips); whether it changed on 15 Oct was not found, so written as July guidance."
-    - "Q4 midpoint growth (about 14% over Q3) is LokVox's own arithmetic from the guidance."
+    - "Q4 midpoint growth (about 14% over Q3) is Gandhi News's own arithmetic from the guidance."
     - "Release time on 15 Oct not confirmed; published time set to Thursday afternoon IST."
 ---
 

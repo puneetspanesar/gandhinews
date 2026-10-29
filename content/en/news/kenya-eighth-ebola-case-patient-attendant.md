@@ -33,7 +33,7 @@ verification:
   status: approved
   notes:
     - "Amoth's remarks were made to Citizen TV, relayed by Al Jazeera; outlet not named in body."
-    - "Earlier LokVox story (kenya-ebola-cases-rise-to-seven-health-workers) covered Saturday's four new cases; figures consistent."
+    - "Earlier Gandhi News story (kenya-ebola-cases-rise-to-seven-health-workers) covered Saturday's four new cases; figures consistent."
 ---
 
 Kenya has confirmed its eighth case of Ebola, a 49-year-old man who worked as a patient attendant and is believed to have caught the virus from the country's first patient.

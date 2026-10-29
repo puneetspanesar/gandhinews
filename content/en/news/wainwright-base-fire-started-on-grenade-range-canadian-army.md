@@ -33,7 +33,7 @@ verification:
   status: approved
   notes:
     - "Single source: Al Jazeera with AFP and Reuters, 23 Oct. Brig-Gen Vanessa Hanrahan briefing on Thursday 22 Oct (Canada time). Quote fragment verbatim as given."
-    - "Fire date: 'Saturday' = 17 Oct, consistent with existing LokVox story of 19 Oct."
+    - "Fire date: 'Saturday' = 17 Oct, consistent with existing Gandhi News story of 19 Oct."
     - "Unit: about 84 soldiers, Charlie Company, 3rd Battalion PPCLI."
 ---
 

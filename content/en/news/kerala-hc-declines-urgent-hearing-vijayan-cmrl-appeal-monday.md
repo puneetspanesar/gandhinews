@@ -34,8 +34,8 @@ verification:
   notes:
     - "Single source: Free Press Journal copy syndicated on The Arabian Post (24 Oct 00:03 +04:00, i.e. 1:33 am IST); FPJ original time not shown. Counsel who mentioned the matter not named; no verbatim words from the court."
     - "Arabian Post gives the VACB FIR date as 12 October; not used in copy."
-    - "Whether Vijayan appeared before the ED on 23 October (per LokVox's 21 Oct story) was not reported in this source; left out."
-    - "Seven-day stay and bench details from LokVox's 21 Oct story and this source agree."
+    - "Whether Vijayan appeared before the ED on 23 October (per Gandhi News's 21 Oct story) was not reported in this source; left out."
+    - "Seven-day stay and bench details from Gandhi News's 21 Oct story and this source agree."
 ---
 
 The Keralam High Court on Friday turned down a request from former chief minister Pinarayi Vijayan's lawyers to hear his family's appeal in the CMRL-Exalogic case the same day, and posted it for Monday, 26 October.

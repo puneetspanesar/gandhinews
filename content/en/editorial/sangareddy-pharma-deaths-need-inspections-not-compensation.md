@@ -22,7 +22,7 @@ hero:
     value: "Count the inspections, not the cheques"
 related: [saraka-laboratories-chloroform-leak-two-workers-dead-sangareddy, illegal-firecracker-units-need-checks-before-diwali]
 seo:
-  description: "LokVox editorial: after the Saraka Laboratories chloroform leak and the 2025 Sigachi blast in Sangareddy, Telangana must inspect chemical units, publish results and hold managements to account."
+  description: "Gandhi News editorial: after the Saraka Laboratories chloroform leak and the 2025 Sigachi blast in Sangareddy, Telangana must inspect chemical units, publish results and hold managements to account."
 sources:
   - title: "Chloroform Leak at Telangana's Saraka Laboratories Leaves Two Workers Dead; Several Hospitalised"
     publisher: "ETV Bharat"

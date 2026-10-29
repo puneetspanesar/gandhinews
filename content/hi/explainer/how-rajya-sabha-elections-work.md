@@ -79,7 +79,7 @@ verification:
     - "Corrected (outdated): all 12 October seats were filled unopposed on 9 October (DD News); standfirst, timeline and October section updated. Two Independent nominations were rejected (DD News), not one."
     - "Corrected: quota example arithmetic. With 400 votes x 100 points over 10 seats the quota is 3,637 points (about 36.4 votes), so 37 votes, not 38, secure a seat. Mallick was elected in early 2026 (IANS says February), not March."
     - "Quota formula and open-ballot rule are from Deccan Herald (2022), a secondary source. The legal basis (RP Act Section 59 and Conduct of Election Rules, Rule 39AA) and the 2006 Kuldip Nayar ruling were not opened and are not cited."
-    - "The worked quota example is LokVox arithmetic based on the Deccan Herald formula, labelled as such in the text."
+    - "The worked quota example is Gandhi News arithmetic based on the Deccan Herald formula, labelled as such in the text."
     - "Whether the UP and Uttarakhand candidates were declared elected unopposed after withdrawals closed on 9 October was not confirmed in any source read."
     - "Seats per state (Fourth Schedule figures) and the current total strength of the Rajya Sabha were not confirmed and are left out."
     - "The SP's second candidate is named 'Dhanraj Parimal Nathwani' by Business Today and 'Dhananjay' in other reports; we use Dhanraj."
@@ -101,7 +101,7 @@ verification:
 **हर विधायक उम्मीदवारों को अपनी वरीयता के क्रम में रखता है, और कोई उम्मीदवार वोटों का एक तय कोटा हासिल करके जीतता है।** पहली वरीयता के हर वोट का मूल्य 100 अंक माना जाता है, ताकि भिन्नों की गिनती हो सके। Deccan Herald के बताए नियम के अनुसार, उम्मीदवार को वैध वोटों के कुल मूल्य को सीटों की संख्या में एक जोड़कर भाग देने से मिली संख्या से एक अंक ज़्यादा चाहिए।
 
 ```facts
-{"title":"कोटा कैसे निकलता है (उदाहरण)","items":[{"value":"400","label":"वैध वोट डालने वाले विधायक (उदाहरण)","source":"लोकवॉक्स का उदाहरण"},{"value":"10","label":"भरी जाने वाली सीटें (उदाहरण)","source":"लोकवॉक्स का उदाहरण"},{"value":"3,637","label":"जीत के लिए ज़रूरी अंक: 40,000 अंक (400 वोट x 100) को 11 से भाग देने पर 3,636.36, उसमें एक अंक जोड़कर। यह करीब 36.4 वोट है, इसलिए पहली वरीयता के 37 वोट से सीट पक्की हो जाती है","source":"Deccan Herald में बताए नियम के आधार पर लोकवॉक्स की गणना"}]}
+{"title":"कोटा कैसे निकलता है (उदाहरण)","items":[{"value":"400","label":"वैध वोट डालने वाले विधायक (उदाहरण)","source":"गांधी न्यूज़ का उदाहरण"},{"value":"10","label":"भरी जाने वाली सीटें (उदाहरण)","source":"गांधी न्यूज़ का उदाहरण"},{"value":"3,637","label":"जीत के लिए ज़रूरी अंक: 40,000 अंक (400 वोट x 100) को 11 से भाग देने पर 3,636.36, उसमें एक अंक जोड़कर। यह करीब 36.4 वोट है, इसलिए पहली वरीयता के 37 वोट से सीट पक्की हो जाती है","source":"Deccan Herald में बताए नियम के आधार पर गांधी न्यूज़ की गणना"}]}
 ```
 
 अगर किसी उम्मीदवार को कोटे से ज़्यादा वोट मिलते हैं, तो अतिरिक्त वोट उन मतपत्रों की अगली वरीयता को घटे हुए मूल्य पर चले जाते हैं। अगर सीटें फिर भी खाली रहें, तो गिनती अगले दौर में जाती है।

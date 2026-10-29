@@ -22,7 +22,7 @@ hero:
     value: "The watchdog owes an answer"
 related: [supreme-court-yes-bank-at1-judgment-rbi-bystander, at1-bonds-explained-yes-bank-supreme-court-ruling, yes-bank-shares-crash-supreme-court-at1-bonds]
 seo:
-  description: "LokVox editorial: after the Supreme Court's YES Bank AT-1 ruling called the RBI a 'mere bystander', the regulator must review bond mis-selling at branches and protect depositors."
+  description: "Gandhi News editorial: after the Supreme Court's YES Bank AT-1 ruling called the RBI a 'mere bystander', the regulator must review bond mis-selling at branches and protect depositors."
 sources:
   - title: "Supreme Court raps RBI; says it stood as a bystander while YES Bank operated clandestinely"
     publisher: "Bar & Bench"

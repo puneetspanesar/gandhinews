@@ -23,7 +23,7 @@ hero:
     value: "जंगल खाली हो, परिवार बेघर न हो"
 related: [assam-evictions-638-hectares-golaghat-hojai-nagaon, himanta-sarma-30-infiltrators-stopped-assam-border]
 seo:
-  description: "लोकवॉक्स संपादकीय: गोलाघाट, होजाई और नगांव में असम के वन बेदखली अभियानों के साथ नोटिस, सुनवाई और बेघर परिवारों के लिए सार्वजनिक पुनर्वास योजना हो।"
+  description: "गांधी न्यूज़ संपादकीय: गोलाघाट, होजाई और नगांव में असम के वन बेदखली अभियानों के साथ नोटिस, सुनवाई और बेघर परिवारों के लिए सार्वजनिक पुनर्वास योजना हो।"
 sources:
   - title: "Assam clears 638 hectares of encroached land in three districts, says CM"
     publisher: "Northeast News"

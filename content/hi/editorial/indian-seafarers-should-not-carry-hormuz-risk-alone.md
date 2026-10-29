@@ -22,7 +22,7 @@ hero:
     value: "माल ही नहीं, नाविकों की भी हिफाज़त"
 related: [two-indian-seafarers-missing-after-tanker-attacks-off-oman, iran-guards-say-they-hit-supertanker-in-hormuz, iran-security-chief-rezaei-calls-doval-gulf-attacks, iran-calls-us-hormuz-response-insufficient, what-hormuz-attacks-mean-for-indian-fuel-prices]
 seo:
-  description: "लोकवॉक्स संपादकीय: होर्मुज़ के पास भारतीय चालक दल वाले टैंकरों पर हमलों के बाद सहमति का नियम काफी क्यों नहीं, और सरकार अपने नाविकों के लिए क्या करे।"
+  description: "गांधी न्यूज़ संपादकीय: होर्मुज़ के पास भारतीय चालक दल वाले टैंकरों पर हमलों के बाद सहमति का नियम काफी क्यों नहीं, और सरकार अपने नाविकों के लिए क्या करे।"
 sources:
   - title: "DGMA circular 47 of 2026: advisory on deployment of Indian seafarers through the Strait of Hormuz"
     publisher: "Directorate General of Maritime Administration"

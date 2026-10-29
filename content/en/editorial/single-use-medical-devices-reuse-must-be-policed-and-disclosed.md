@@ -22,7 +22,7 @@ hero:
     value: "One use means one patient"
 related: [dghs-warns-hospitals-reuse-single-use-medical-devices]
 seo:
-  description: "LokVox editorial: after the DGHS warning on hospitals reusing single-use medical devices, states must inspect, penalise and require hospitals to show patients what was used on them."
+  description: "Gandhi News editorial: after the DGHS warning on hospitals reusing single-use medical devices, states must inspect, penalise and require hospitals to show patients what was used on them."
 sources:
   - title: "DGHS warns against reuse of single-use medical devices"
     publisher: "News On AIR"

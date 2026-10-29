@@ -34,7 +34,7 @@ verification:
   notes:
     - "Single detailed source (Al Jazeera, drawing on wire copy). Quotes are as given there; original remarks were in Portuguese."
     - "Federal police request to the Supreme Court over money laundering accusation is attributed to the same report; hedged as 'reported'."
-    - "Earlier LokVox preview (brazil-runoff-polls-flavio-edge-lula-first-debate) gave first-round figures; consistent at 47% vs 45%."
+    - "Earlier Gandhi News preview (brazil-runoff-polls-flavio-edge-lula-first-debate) gave first-round figures; consistent at 47% vs 45%."
 ---
 
 Brazil's presidential runoff turned openly personal on Sunday night as President Luiz Inácio Lula da Silva and right-wing Senator Flávio Bolsonaro used their first televised debate in São Paulo to call each other liars and accuse each other of corruption.

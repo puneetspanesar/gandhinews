@@ -42,7 +42,7 @@ verification:
     - "Judgment timing unclear: judge said he would write it 'by Tuesday'; a later remark ('I have to give my judgement tomorrow no?') suggests possibly Friday. Copy says time needed and points to Tuesday, hedged."
     - "Next SEM date Saturday (24 Oct) per the court's note in the live blog."
     - "Date of filing Bar & Bench article not opened; date given approximately (from search result). LiveLaw live blog 555587 could not be fetched."
-    - "Detention at Mandi House on 16 Oct, notice 18 Oct, ₹10,000 bond: live blog; consistent with earlier LokVox coverage."
+    - "Detention at Mandi House on 16 Oct, notice 18 Oct, ₹10,000 bond: live blog; consistent with earlier Gandhi News coverage."
 ---
 
 दिल्ली हाईकोर्ट (उच्च न्यायालय) ने गुरुवार को आइसा अध्यक्ष नेहा बोरा की उस याचिका पर सुनवाई पूरी की, जिसमें पुलिस मजिस्ट्रेट के नोटिस को चुनौती दी गई है। नोटिस में उनसे शांति बनाए रखने के लिए ₹10,000 का बॉन्ड भरने को कहा गया था। जस्टिस सुब्रमण्यम प्रसाद ने कहा कि फैसला लिखने के लिए उन्हें समय चाहिए और संकेत दिया कि यह मंगलवार तक आ सकता है।
