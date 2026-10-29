@@ -5,7 +5,7 @@ import PHOTOS from '../../content/photos.map.json';
 // @ts-ignore - plain JS module shared with the Markdown plugin
 import { routeFor, prefix, SECTIONS } from './routes.mjs';
 
-export const SITE_URL = (import.meta.env.SITE_URL || process.env.SITE_URL || 'https://lokvox.com').replace(/\/$/, '');
+export const SITE_URL = (import.meta.env.SITE_URL || process.env.SITE_URL || 'https://gandhinews.com').replace(/\/$/, '');
 // Live by default since launch (11 Oct 2026). Set SITE_LIVE=false to hide a build from search engines.
 export const SITE_LIVE = String(import.meta.env.SITE_LIVE ?? process.env.SITE_LIVE ?? 'true').toLowerCase() !== 'false';
 export { prefix, SECTIONS };

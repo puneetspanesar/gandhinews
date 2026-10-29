@@ -27,7 +27,7 @@ sources:
   - title: "UN fills 15 Human Rights Council seats in a vote with no contests (Gandhi News, source: AP via Al Jazeera)"
     publisher: "Gandhi News"
     date: 2026-10-14
-    url: "https://lokvox.com/news/un-human-rights-council-elects-15-members"
+    url: "https://gandhinews.com/news/un-human-rights-council-elects-15-members"
     primary: false
 verification:
   status: approved

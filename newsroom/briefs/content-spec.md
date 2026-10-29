@@ -1,4 +1,4 @@
-> OVERRIDES: read /home/claude/gn-work/desk-addendum-v2.md first. LokVox is a general news site (India, world, science and tech, sports) written in a newspaper style; it is not a fact-check or data site.
+> OVERRIDES: read /home/claude/gn-work/desk-addendum-v2.md first. Gandhi News is a general news site (India, world, science and tech, sports) written in a newspaper style; it is not a fact-check or data site.
 
 # Gandhi News content spec and style guide (V1)
 

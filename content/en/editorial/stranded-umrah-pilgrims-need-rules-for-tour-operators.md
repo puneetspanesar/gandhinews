@@ -32,7 +32,7 @@ sources:
   - title: "Rajya Sabha MP asks Jaishankar and Rijiju to bring home Umrah pilgrims stranded in Saudi Arabia (Gandhi News, source: ANI)"
     publisher: "Gandhi News"
     date: 2026-10-18
-    url: "https://lokvox.com/news/umrah-pilgrims-stranded-saudi-mansoor-ali-khan-jaishankar"
+    url: "https://gandhinews.com/news/umrah-pilgrims-stranded-saudi-mansoor-ali-khan-jaishankar"
     primary: false
 verification:
   status: approved

@@ -33,7 +33,7 @@ sources:
   - title: "IMD sees a depression in the Bay of Bengal by Sunday, with gales and rough seas from Monday"
     publisher: "Gandhi News"
     date: 2026-10-22
-    url: "https://lokvox.com/news/bay-of-bengal-depression-october-25-odisha-fishermen-warning"
+    url: "https://gandhinews.com/news/bay-of-bengal-depression-october-25-odisha-fishermen-warning"
     primary: false
 verification:
   status: approved

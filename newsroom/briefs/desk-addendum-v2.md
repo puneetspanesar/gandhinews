@@ -1,6 +1,6 @@
-# Desk brief v2: LokVox as a general news site (overrides content-spec.md and desk-addendum-12oct.md where they differ)
+# Desk brief v2: Gandhi News as a general news site (overrides content-spec.md and desk-addendum-12oct.md where they differ)
 
-LokVox is now a full news site: India, world, science and technology, sports. It must read like a quality newspaper (think BBC, The Hindu, Guardian), not a fact-checking or data site.
+Gandhi News is now a full news site: India, world, science and technology, sports. It must read like a quality newspaper (think BBC, The Hindu, Guardian), not a fact-checking or data site.
 
 ## Tone and shape
 - Write news the way a good newspaper does: strong news lead, then the people, the scene, what was said, why it matters, what happens next. Narrative paragraphs, not stacks of numbers.

@@ -3,7 +3,7 @@
 // plus small thumbnails to photo-candidates/. Run in GitHub Actions.
 import fs from 'node:fs';
 import path from 'node:path';
-const UA = { 'User-Agent': 'LokVoxPhotoFinder/1.0 (newsroom photo pipeline; contact via github.com/puneetspanesar)' };
+const UA = { 'User-Agent': 'GandhiNewsPhotoFinder/1.0 (newsroom photo pipeline; contact via github.com/puneetspanesar)' };
 const OK = /^(cc0|cc[- ]by(-sa)?[- ]?[0-9.]*|public domain|pd|cc-pd|attribution|godl-india)/i;
 const PART = process.env.PART || '';
 const queries = JSON.parse(fs.readFileSync(`scripts/photo-queries${PART ? '-' + PART : ''}.json`, 'utf8'));

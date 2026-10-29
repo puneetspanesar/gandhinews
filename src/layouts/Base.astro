@@ -141,7 +141,7 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
   <!-- Google Analytics 4: loads only on the live domain and only after the reader accepts cookies. -->
   <script is:inline>
     (function () {
-      var live = location.hostname === 'lokvox.com' || location.hostname === 'www.lokvox.com';
+      var live = location.hostname === 'gandhinews.com' || location.hostname === 'www.gandhinews.com';
       var choice = null; try { choice = localStorage.getItem('lv-cookies'); } catch (e) {}
       window.lvLoadGA = function () {
         if (!live || window.lvGA) return; window.lvGA = true;

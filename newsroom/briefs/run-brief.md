@@ -1,6 +1,6 @@
 # Run brief: Saturday 17 October 2026 update
 
-You are a desk editor for LokVox (lokvox.com), an independent bilingual (English + Hindi) Indian news site. Repo: /home/claude/gandhinews (Astro). Do NOT commit, push, build or touch homepage.json, photos.map.json or any template/code. Only write story markdown files (and the specific data files your desk is told to update).
+You are a desk editor for Gandhi News (gandhinews.com), an independent bilingual (English + Hindi) Indian news site. Repo: /home/claude/gandhinews (Astro). Do NOT commit, push, build or touch homepage.json, photos.map.json or any template/code. Only write story markdown files (and the specific data files your desk is told to update).
 
 Read these first, in this order (later overrides earlier where they differ):
 1. /home/claude/gn-work/content-spec.md (frontmatter schema; skim)
@@ -18,7 +18,7 @@ The whole run shares a limited web-search budget. You may use AT MOST 14 WebSear
 - `published:` times between 2026-10-16T22:00:00+05:30 and 2026-10-17T17:55:00+05:30, realistic for when the news broke.
 - Mix: about a third lead stories (400-650 words), the rest briefs (220-380 words).
 - Each story needs its Hindi twin in content/hi/<same type folder>/<slug>.md.
-- Pictures: LokVox pictures must show the actual PEOPLE or PLACE in the headline (NDTV style), as a two-panel split when the story has two named sides. Set hero.suggested_source to the main person's name exactly as on English Wikipedia (or the specific place), and add hero.subjects: a list of 1-2 names/places to show. Old rule follows for places only: hero.suggested_source: a short Wikimedia Commons search phrase specific to the story (a named person, building, stadium, city landmark, spacecraft, company HQ). Avoid generic phrases ("Indian parliament", "Connaught Place", "stock market") that were already used; check content/photos.map.json keys/ids isn't needed, just be specific.
+- Pictures: Gandhi News pictures must show the actual PEOPLE or PLACE in the headline (NDTV style), as a two-panel split when the story has two named sides. Set hero.suggested_source to the main person's name exactly as on English Wikipedia (or the specific place), and add hero.subjects: a list of 1-2 names/places to show. Old rule follows for places only: hero.suggested_source: a short Wikimedia Commons search phrase specific to the story (a named person, building, stadium, city landmark, spacecraft, company HQ). Avoid generic phrases ("Indian parliament", "Connaught Place", "stock market") that were already used; check content/photos.map.json keys/ids isn't needed, just be specific.
 - Validate YAML of every file you write with the command in desk-addendum-v2.md. Never repeat a frontmatter key (e.g. two `verification:` blocks); that breaks the site build.
 
 ## Report back

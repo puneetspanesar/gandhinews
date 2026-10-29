@@ -33,7 +33,7 @@ sources:
   - title: "Nigeria confirms its first Ebola case, a woman who flew in from Uganda (Gandhi News)"
     publisher: "Gandhi News"
     date: 2026-10-21
-    url: "https://lokvox.com/news/nigeria-first-ebola-case-kenya-ninth"
+    url: "https://gandhinews.com/news/nigeria-first-ebola-case-kenya-ninth"
     primary: false
 verification:
   status: approved

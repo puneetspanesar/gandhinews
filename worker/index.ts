@@ -1,4 +1,4 @@
-// LokVox API Worker. Pages are static assets; only /api/* runs here (see wrangler.jsonc).
+// Gandhi News API Worker. Pages are static assets; only /api/* runs here (see wrangler.jsonc).
 // Morning Brief subscriptions: signup -> confirmation email -> confirmed; one-click unsubscribe.
 // Subscribers live in our own D1 database (binding DB). Email is delivered through Amazon SES.
 import { AwsClient } from 'aws4fetch';
@@ -11,13 +11,13 @@ interface Env {
   AWS_ACCESS_KEY_ID?: string;
   AWS_SECRET_ACCESS_KEY?: string;
   AWS_REGION?: string; // e.g. ap-south-1
-  MAIL_FROM?: string; // e.g. "LokVox <brief@lokvox.com>"
+  MAIL_FROM?: string; // e.g. "Gandhi News <brief@lokvox.com>"
   ADMIN_TOKEN?: string;
   SITE_URL?: string;
 }
 type Lang = 'en' | 'hi';
 
-const SITE = (env: Env) => (env.SITE_URL || 'https://lokvox.com').replace(/\/$/, '');
+const SITE = (env: Env) => (env.SITE_URL || 'https://gandhinews.com').replace(/\/$/, '');
 const pfx = (lang: Lang) => (lang === 'hi' ? '/hi' : '');
 const json = (data: unknown, status = 200) =>
   new Response(JSON.stringify(data), { status, headers: { 'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-store' } });
@@ -61,37 +61,37 @@ async function ensureSchema(db: D1Database) {
 // ---------- email ----------
 const COPY = {
   en: {
-    subject: 'Confirm your LokVox Morning Brief',
+    subject: 'Confirm your Gandhi News Morning Brief',
     pre: 'One click and you are in. Here is what lands in your inbox every weekday.',
     kicker: 'The Morning Brief',
     h: 'One click and you are in',
-    p: 'Confirm your email and the LokVox Morning Brief will start arriving every weekday morning.',
+    p: 'Confirm your email and the Gandhi News Morning Brief will start arriving every weekday morning.',
     btn: 'Confirm my email',
     what: 'What you will get',
     items: [['newspaper', 'Five stories that matter', 'Politics, policy, the economy and Parliament, in short.'], ['chart-line', 'One chart a day', 'The number behind the news, drawn clearly.'], ['translate', 'In your language', 'English or हिंदी, whichever you chose.']],
-    latest: 'On LokVox today',
-    read: 'Read on lokvox.com',
-    ignore: 'You are receiving this because someone signed up for the Morning Brief with this address at lokvox.com. If it was not you, ignore this email and you will not hear from us again.',
+    latest: 'On Gandhi News today',
+    read: 'Read on gandhinews.com',
+    ignore: 'You are receiving this because someone signed up for the Morning Brief with this address at gandhinews.com. If it was not you, ignore this email and you will not hear from us again.',
     tag: 'The people’s newsroom',
   },
   hi: {
-    subject: 'लोकवॉक्स मॉर्निंग ब्रीफ की पुष्टि करें',
+    subject: 'गांधी न्यूज़ मॉर्निंग ब्रीफ की पुष्टि करें',
     pre: 'बस एक क्लिक बाकी है। हर कामकाजी दिन आपके इनबॉक्स में क्या आएगा, यहां देखें।',
     kicker: 'मॉर्निंग ब्रीफ',
     h: 'बस एक क्लिक बाकी है',
-    p: 'अपने ईमेल की पुष्टि करें, और लोकवॉक्स मॉर्निंग ब्रीफ हर कामकाजी दिन की सुबह आपके पास पहुंचने लगेगा।',
+    p: 'अपने ईमेल की पुष्टि करें, और गांधी न्यूज़ मॉर्निंग ब्रीफ हर कामकाजी दिन की सुबह आपके पास पहुंचने लगेगा।',
     btn: 'मेरा ईमेल पुष्ट करें',
     what: 'आपको क्या मिलेगा',
     items: [['newspaper', 'पांच ज़रूरी खबरें', 'राजनीति, नीति, अर्थव्यवस्था और संसद, संक्षेप में।'], ['chart-line', 'रोज़ एक चार्ट', 'खबर के पीछे का आंकड़ा, साफ-साफ।'], ['translate', 'आपकी भाषा में', 'हिंदी या English, जो आपने चुनी।']],
-    latest: 'आज लोकवॉक्स पर',
-    read: 'lokvox.com पर पढ़ें',
-    ignore: 'यह ईमेल आपको इसलिए मिला है क्योंकि lokvox.com पर इस पते से मॉर्निंग ब्रीफ के लिए साइन अप किया गया। अगर यह आपने नहीं किया, तो इसे अनदेखा करें। आपको हमसे आगे कोई ईमेल नहीं मिलेगा।',
+    latest: 'आज गांधी न्यूज़ पर',
+    read: 'gandhinews.com पर पढ़ें',
+    ignore: 'यह ईमेल आपको इसलिए मिला है क्योंकि gandhinews.com पर इस पते से मॉर्निंग ब्रीफ के लिए साइन अप किया गया। अगर यह आपने नहीं किया, तो इसे अनदेखा करें। आपको हमसे आगे कोई ईमेल नहीं मिलेगा।',
     tag: 'जनता का न्यूज़रूम',
   },
 };
 const escHtml = (x: string) => x.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 
-/** Latest three stories from the site's RSS feed, for the "On LokVox today" block. */
+/** Latest three stories from the site's RSS feed, for the "On Gandhi News today" block. */
 async function latestStories(env: Env, lang: Lang): Promise<{ title: string; link: string }[]> {
   try {
     const url = `${SITE(env)}${pfx(lang)}/rss.xml`;
@@ -115,7 +115,7 @@ function confirmEmail(lang: Lang, link: string, site: string, stories: { title: 
 <div style="display:none;max-height:0;overflow:hidden;opacity:0">${c.pre}</div>
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#f2f2f2"><tr><td align="center" style="padding:28px 12px">
 <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="max-width:600px;width:100%;background:#ffffff;border:1px solid #e4e4e4;border-radius:8px">
-<tr><td style="padding:22px 36px;border-bottom:1px solid #eeeeee"><table role="presentation" cellpadding="0" cellspacing="0"><tr><td><img src="${img('seal')}" width="36" height="36" alt="LokVox" style="display:block;border:0"></td><td style="padding-left:10px;font:700 21px ${h};color:#0d0d0d">LokVox</td></tr></table></td></tr>
+<tr><td style="padding:22px 36px;border-bottom:1px solid #eeeeee"><table role="presentation" cellpadding="0" cellspacing="0"><tr><td><img src="${img('seal')}" width="36" height="36" alt="Gandhi News" style="display:block;border:0"></td><td style="padding-left:10px;font:700 21px ${h};color:#0d0d0d">Gandhi News</td></tr></table></td></tr>
 <tr><td style="padding:34px 36px 8px">
 <div style="font:600 13px/1 ${h};color:#cc0000;letter-spacing:.02em">${c.kicker}</div>
 <h1 style="margin:10px 0 12px;font:700 28px/1.25 ${lang === 'hi' ? f : h};color:#0d0d0d">${c.h}</h1>
@@ -125,13 +125,13 @@ function confirmEmail(lang: Lang, link: string, site: string, stories: { title: 
 <tr><td style="padding:30px 36px 18px"><div style="font:600 13px/1 ${h};color:#cc0000;letter-spacing:.02em;margin:0 0 4px">${c.what}</div><table role="presentation" width="100%" cellpadding="0" cellspacing="0">${items}</table></td></tr>
 ${news}
 <tr><td style="background:#0d0d0d;padding:24px 36px;border-radius:0 0 8px 8px">
-<div style="font:600 15px ${h};color:#ffffff">LokVox <span style="color:#9a9a9a;font-weight:400">· ${c.tag}</span></div>
+<div style="font:600 15px ${h};color:#ffffff">Gandhi News <span style="color:#9a9a9a;font-weight:400">· ${c.tag}</span></div>
 <p style="margin:10px 0 0;font:12px/1.6 ${f};color:#9a9a9a">${c.ignore}</p>
 </td></tr>
 </table>
-<p style="margin:16px 0 0;font:12px ${f};color:#999999"><a href="${site}" style="color:#999999">lokvox.com</a></p>
+<p style="margin:16px 0 0;font:12px ${f};color:#999999"><a href="${site}" style="color:#999999">gandhinews.com</a></p>
 </td></tr></table></body></html>`;
-  const text = `${c.h}\n\n${c.p}\n\n${c.btn}: ${link}\n\n${c.what}:\n${c.items.map(([, t, d]) => `- ${t}: ${d}`).join('\n')}\n\n${stories.length ? `${c.latest}:\n${stories.map((s) => `- ${s.title}\n  ${s.link}`).join('\n')}\n\n` : ''}${c.ignore}\n\nLokVox · ${c.tag}`;
+  const text = `${c.h}\n\n${c.p}\n\n${c.btn}: ${link}\n\n${c.what}:\n${c.items.map(([, t, d]) => `- ${t}: ${d}`).join('\n')}\n\n${stories.length ? `${c.latest}:\n${stories.map((s) => `- ${s.title}\n  ${s.link}`).join('\n')}\n\n` : ''}${c.ignore}\n\nGandhi News · ${c.tag}`;
   return { subject: c.subject, html, text };
 }
 
@@ -140,7 +140,7 @@ async function sendEmail(env: Env, to: string, msg: { subject: string; html: str
   if (env.EMAIL && !unsubUrl) {
     const from = env.MAIL_FROM_ADDRESS || 'brief@lokvox.com';
     try {
-      const r = await env.EMAIL.send({ to, from: { email: from, name: 'LokVox' }, subject: msg.subject, html: msg.html, text: msg.text });
+      const r = await env.EMAIL.send({ to, from: { email: from, name: 'Gandhi News' }, subject: msg.subject, html: msg.html, text: msg.text });
       return { ok: true, info: `cf:${r?.messageId ?? 'sent'}` };
     } catch (e1: any) {
       try {

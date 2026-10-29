@@ -1,4 +1,4 @@
-"""Compose a LokVox story picture from 1-3 source images.
+"""Compose a Gandhi News story picture from 1-3 source images.
 
 Usage (from code): compose(paths, out_base, focus=None)
  - paths: list of image paths (1, 2 or 3)

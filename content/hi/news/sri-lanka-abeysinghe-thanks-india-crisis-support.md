@@ -33,7 +33,7 @@ sources:
   - title: "Sri Lanka keeps door open to a new IMF deal, says Dissanayake"
     publisher: "Gandhi News"
     date: 2026-10-13
-    url: "https://lokvox.com/news/sri-lanka-weighs-new-imf-programme-dissanayake"
+    url: "https://gandhinews.com/news/sri-lanka-weighs-new-imf-programme-dissanayake"
     primary: false
 verification:
   status: approved

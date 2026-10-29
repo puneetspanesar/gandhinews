@@ -1,6 +1,6 @@
-# Picture editor brief (LokVox)
+# Picture editor brief (Gandhi News)
 
-LokVox is redoing its story pictures the way NDTV does them: the picture must show the actual people or place in the headline, never a loosely related building. When a story has two sides (a minister vs an opponent, a court and a company, a leader and the person they met, two teams), use a two-panel split showing both.
+Gandhi News is redoing its story pictures the way NDTV does them: the picture must show the actual people or place in the headline, never a loosely related building. When a story has two sides (a minister vs an opponent, a court and a company, a leader and the person they met, two teams), use a two-panel split showing both.
 
 Input: a JSON list of stories (id, title, standfirst, section, type). For each story decide a picture plan and output JSON:
 

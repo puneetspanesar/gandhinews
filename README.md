@@ -1,4 +1,4 @@
-# LokVox
+# Gandhi News
 
 Static, bilingual (English and Hindi) news site built with [Astro](https://astro.build). No client framework: pages are plain HTML and CSS, with a few small scripts (compact header, share and save buttons, the budget tracker filter, the saved-stories page).
 
@@ -22,7 +22,7 @@ The build fails on: invalid frontmatter, invalid JSON in a chart/facts/timeline 
 
 | Variable    | Default                      | Purpose |
 |-------------|------------------------------|---------|
-| `SITE_URL`  | `https://lokvox.com` | Absolute site URL for canonical links, hreflang, sitemaps, RSS, Open Graph and JSON-LD. No trailing slash. |
+| `SITE_URL`  | `https://gandhinews.com` | Absolute site URL for canonical links, hreflang, sitemaps, RSS, Open Graph and JSON-LD. No trailing slash. |
 | `SITE_LIVE` | unset (preview mode)         | Until this is `true`, every page carries `<meta name="robots" content="noindex,nofollow">` and `robots.txt` disallows everything. Set `SITE_LIVE=true` only for the public launch. |
 
 ## Content
@@ -148,7 +148,7 @@ scripts/                 fetch-photos.mjs (photo pipeline), check-links.mjs (int
 - Build command: `npm run build`
 - Build output directory: `dist`
 - Node version: 22 (set `NODE_VERSION=22` in the environment variables; `.nvmrc` also says 22)
-- Environment variables: `SITE_URL` (for example `https://lokvox.com`) and, at launch only, `SITE_LIVE=true`.
+- Environment variables: `SITE_URL` (for example `https://gandhinews.com`) and, at launch only, `SITE_LIVE=true`.
 
 Use a separate preview environment without `SITE_LIVE` so preview deployments stay out of search engines.
 

@@ -1,6 +1,6 @@
 # Desk addendum (overrides content-spec.md where they differ)
 
-- The site is now **LokVox** (lokvox.com), "The people's newsroom". Ignore any "Gandhi News" wording in the spec.
+- The site is **Gandhi News** (gandhinews.com).
 - Today is **Monday 12 October 2026, about 7:00 am IST**. Write as of now. Events later today have NOT happened: write them as planned ("is due to", "will"), never as done.
 - **Own voice.** In the body text, do NOT attribute to media outlets ("PTI reported", "according to The Hindu", "told ANI"). Attribute claims to the people or bodies who made them ("the MEA said", "Congress general secretary K C Venugopal said on 10 October"). Facts that rest on media reports are stated plainly if two sources agree, or hedged ("police were reported to have...") if only one; record which outlet in `verification.notes`.
 - Fact boxes, charts, timelines: NO "source" field shown. Omit the `source` key in chart/facts JSON.

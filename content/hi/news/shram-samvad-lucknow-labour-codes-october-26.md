@@ -38,7 +38,7 @@ sources:
   - title: "Labour codes: Centre wants every state's rules in place by 31 October"
     publisher: "Gandhi News"
     date: 2026-10-11
-    url: "https://lokvox.com/news/labour-codes-centre-wants-state-rules-by-october-31"
+    url: "https://gandhinews.com/news/labour-codes-centre-wants-state-rules-by-october-31"
     primary: false
 verification:
   status: approved

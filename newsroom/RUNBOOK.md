@@ -1,6 +1,6 @@
-# LokVox scheduled news update: runbook
+# Gandhi News scheduled news update: runbook
 
-This is the full procedure for one news update of lokvox.com. It runs twice a day (about 5:30 am and 3:30 pm IST) so the site is fresh by 7 am and 5 pm. Work alone: nobody is watching, so never stop to ask a question. Decide, note the decision in the final report, and carry on.
+This is the full procedure for one news update of gandhinews.com. It runs twice a day (about 5:30 am and 3:30 pm IST) so the site is fresh by 7 am and 5 pm. Work alone: nobody is watching, so never stop to ask a question. Decide, note the decision in the final report, and carry on.
 
 The site is Astro in the private repo puneetspanesar/gandhinews. Cloudflare Workers Builds deploys every push to main. Work on main directly.
 

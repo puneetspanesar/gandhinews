@@ -5,7 +5,7 @@ Writes portrait-candidates/candidates.json and image crops for human review."""
 import json, os, subprocess, time, urllib.parse, urllib.request
 import cv2
 
-UA = {'User-Agent': 'LokVoxPortraitFinder/1.0 (newsroom; github.com/puneetspanesar)'}
+UA = {'User-Agent': 'GandhiNewsPortraitFinder/1.0 (newsroom; github.com/puneetspanesar)'}
 OUT = 'portrait-candidates'; os.makedirs(OUT + '/img', exist_ok=True)
 people = json.load(open('scripts/portrait-people.json'))
 OK = ('cc0', 'cc by', 'cc-by', 'public domain', 'pd', 'godl')

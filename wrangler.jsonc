@@ -10,7 +10,7 @@
     "run_worker_first": ["/api/*"]
   },
   "vars": {
-    "SITE_URL": "https://lokvox.com",
+    "SITE_URL": "https://gandhinews.com",
     "AWS_REGION": "ap-south-1",
     "MAIL_FROM_ADDRESS": "brief@lokvox.com"
   },

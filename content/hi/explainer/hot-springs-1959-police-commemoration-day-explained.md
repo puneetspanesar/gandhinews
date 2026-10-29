@@ -29,7 +29,7 @@ sources:
   - title: "Amit Shah leads Police Commemoration Day tribute at National Police Memorial today (Gandhi News, sources: MHA announcement via DD India, Kalinga TV)"
     publisher: "Gandhi News"
     date: 2026-10-21
-    url: "https://lokvox.com/news/police-commemoration-day-amit-shah-national-police-memorial"
+    url: "https://gandhinews.com/news/police-commemoration-day-amit-shah-national-police-memorial"
     primary: false
 verification:
   status: approved

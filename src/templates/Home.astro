@@ -22,8 +22,8 @@ const S = SECTION_NAMES[lang];
 const m = await homeModel(lang);
 const L = m.lead;
 const desc = lang === 'hi'
-  ? 'लोकवॉक्स (लोक वॉक्स): भारत और दुनिया की स्वतंत्र खबरें: राजनीति, अर्थव्यवस्था, विज्ञान-तकनीक और खेल, हिंदी और अंग्रेज़ी में।'
-  : 'LokVox (Lok Vox): independent news from India and the world: politics, economy, science and tech, and sports, in English and Hindi.';
+  ? 'गांधी न्यूज़: भारत और दुनिया की स्वतंत्र खबरें: राजनीति, अर्थव्यवस्था, विज्ञान-तकनीक और खेल, हिंदी और अंग्रेज़ी में।'
+  : 'Gandhi News: independent news from India and the world: politics, economy, science and tech, and sports, in English and Hindi.';
 const G = lang === 'hi' ? {
   headlines: 'सुर्खियां', liveX: 'लगातार कवरेज', readLead: 'पूरी खबर पढ़ें', india: 'भारत', markets: 'बाज़ार और आंकड़े',
   close: (d: string) => `${d} का बंद भाव`, ourView: 'हमारी राय', explainedX: 'खबरों के पीछे की बात', alt: 'In English', altX: 'हर खबर अंग्रेज़ी में भी',
