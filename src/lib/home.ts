@@ -506,10 +506,10 @@ export async function homeModel(lang: Lang) {
     const last = vs.length - 1;
     const f = (v: number) => fmtNum(v, step >= 1 ? 0 : 2);
     return `<svg viewBox="0 0 ${W} ${Ht}" width="100%" role="img" aria-label="${esc(label)}">`
-      + ticks.map((t) => `<line x1="48" y1="${Y(t).toFixed(1)}" x2="${W - 6}" y2="${Y(t).toFixed(1)}" stroke="#3a3a3a"/><text x="0" y="${(Y(t) + 4).toFixed(1)}" font-size="10" fill="#fff">${f(t)}</text>`).join('')
+      + ticks.map((t) => `<line x1="48" y1="${Y(t).toFixed(1)}" x2="${W - 6}" y2="${Y(t).toFixed(1)}" stroke="#3a3a3a"/><text x="0" y="${(Y(t) + 4).toFixed(1)}" font-size="9.5" fill="#fff">${f(t)}</text>`).join('')
       + `<polyline points="${pts}" fill="none" stroke="#fff" stroke-width="2.5" stroke-linejoin="round"/>`
       + `<circle cx="${X(last).toFixed(1)}" cy="${Y(vs[last]).toFixed(1)}" r="4.5" fill="#ff4d4d"/>`
-      + `<text x="48" y="152" font-size="10" fill="#fff">${esc(periodLabel(h[0].period, lang))}</text><text x="${W - 6}" y="152" font-size="10" fill="#fff" text-anchor="end">${esc(periodLabel(h[last].period, lang))}</text></svg>`;
+      + `<text x="48" y="152" font-size="9.5" fill="#fff">${esc(periodLabel(h[0].period, lang))}</text><text x="${W - 6}" y="152" font-size="9.5" fill="#fff" text-anchor="end">${esc(periodLabel(h[last].period, lang))}</text></svg>`;
   };
   const barChart = (id: string, label: string) => {
     const h = hist(id); if (h.length < 2) return '';
@@ -519,11 +519,11 @@ export async function homeModel(lang: Lang) {
     const Y = (v: number) => 130 - (v / (mx || 1)) * 110;
     const last = vs.length - 1;
     return `<svg viewBox="0 0 ${W} ${Ht}" width="100%" role="img" aria-label="${esc(label)}">`
-      + [mx / 2, mx].map((t) => `<line x1="30" y1="${Y(t).toFixed(1)}" x2="${W - 4}" y2="${Y(t).toFixed(1)}" stroke="#3a3a3a"/><text x="0" y="${(Y(t) + 4).toFixed(1)}" font-size="10" fill="#fff">${fmtNum(t, 0)}%</text>`).join('')
+      + [mx / 2, mx].map((t) => `<line x1="30" y1="${Y(t).toFixed(1)}" x2="${W - 4}" y2="${Y(t).toFixed(1)}" stroke="#3a3a3a"/><text x="0" y="${(Y(t) + 4).toFixed(1)}" font-size="9.5" fill="#fff">${fmtNum(t, 0)}%</text>`).join('')
       + `<line x1="30" y1="130" x2="${W - 4}" y2="130" stroke="#fff"/>`
       + vs.map((v, i) => `<rect x="${(34 + i * bw).toFixed(1)}" y="${Y(v).toFixed(1)}" width="${(bw - 9).toFixed(1)}" height="${(130 - Y(v)).toFixed(1)}" fill="${i === last ? '#ff4d4d' : '#fff'}"/>`).join('')
-      + `<text x="${(34 + last * bw + (bw - 9) / 2).toFixed(1)}" y="${(Y(vs[last]) - 6).toFixed(1)}" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">${fmtNum(vs[last], 2)}%</text>`
-      + `<text x="34" y="146" font-size="10" fill="#fff">${esc(periodLabel(h[0].period, lang))}</text><text x="${W - 4}" y="146" font-size="10" fill="#fff" text-anchor="end">${esc(periodLabel(h[last].period, lang))}</text></svg>`;
+      + `<text x="${(34 + last * bw + (bw - 9) / 2).toFixed(1)}" y="${(Y(vs[last]) - 6).toFixed(1)}" font-size="9.5" font-weight="700" fill="#fff" text-anchor="middle">${fmtNum(vs[last], 2)}%</text>`
+      + `<text x="34" y="146" font-size="9.5" fill="#fff">${esc(periodLabel(h[0].period, lang))}</text><text x="${W - 4}" y="146" font-size="9.5" fill="#fff" text-anchor="end">${esc(periodLabel(h[last].period, lang))}</text></svg>`;
   };
   const sx = indicatorPair(lang, 'sensex'), cp = indicatorPair(lang, 'cpi-inflation');
   const markets = {
