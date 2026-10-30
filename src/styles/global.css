@@ -963,3 +963,11 @@ footer input::placeholder{color:#bdbdbd}
 @media(max-width:1180px){.menu.mh-nav>a,.menu.mh-nav summary{font-size:16px;padding:12px 13px}}
 @media(max-width:980px){.menu.mh-nav{display:none}.mh-tag{display:none}.mh-wm{font-size:40px}.mh-brand{padding-bottom:14px}.tq{display:none}}
 @media(max-width:560px){.mh-sub{display:none}.mh-wm{font-size:32px}.mh-date{font-size:12px}.mh-act{gap:6px}}
+
+/* Wordmark (gandhinews with the red point), outlined SVG */
+.wmk{display:block;line-height:0;height:100%}.wmk svg{display:block;height:100%;width:auto;overflow:visible}
+.mh-wm{display:block;height:64px;color:#fff}
+footer .fwm{height:40px;color:#fff}
+@media(max-width:980px){.mh-wm{height:42px}}
+@media(max-width:560px){.mh-wm{height:32px}}
+.seal svg{border-radius:0}

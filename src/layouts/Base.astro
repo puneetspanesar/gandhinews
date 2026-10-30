@@ -2,6 +2,7 @@
 import '../styles/global.css';
 import Icon from '../components/Icon.astro';
 import Seal from '../components/Seal.astro';
+import Wordmark from '../components/Wordmark.astro';
 import JsonLd from '../components/JsonLd.astro';
 import { UI, SECTION_NAMES, type Lang } from '../lib/i18n';
 import { SITE_LIVE, SITE_URL, abs, prefix, swapLangPath, todayLine, fmtShort, content, urlOf } from '../lib/site';
@@ -108,10 +109,10 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
   {(!SITE_LIVE || noindex) && <meta name="robots" content="noindex,nofollow" />}
   {SITE_LIVE && !noindex && <meta name="robots" content="max-image-preview:large, max-snippet:-1, max-video-preview:-1" />}
   <meta name="theme-color" content="#0d0d0d" />
-  <link rel="icon" href="/favicon.ico?v=gn1" sizes="48x48" />
-  <link rel="icon" href="/favicon.svg?v=gn1" type="image/svg+xml" />
-  <link rel="icon" href="/favicon.png?v=gn1" type="image/png" sizes="192x192" />
-  <link rel="apple-touch-icon" href="/apple-touch-icon.png?v=gn1" />
+  <link rel="icon" href="/favicon.ico?v=gn2" sizes="48x48" />
+  <link rel="icon" href="/favicon.svg?v=gn2" type="image/svg+xml" />
+  <link rel="icon" href="/favicon.png?v=gn2" type="image/png" sizes="192x192" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png?v=gn2" />
   <link rel="preload" href="/fonts/inter-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/fonts/google-sans-latin-600-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/fonts/noto-sans-devanagari-devanagari-600-normal.woff2" as="font" type="font/woff2" crossorigin />
@@ -170,7 +171,7 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
       </div>
     </div>
     <div class="w mh-brand">
-      <a class="mh-wm" href={`${p}/`} aria-label={`${t.siteName}, ${t.home}`}>{t.siteName}</a>
+      <a class="mh-wm" href={`${p}/`} aria-label={`${t.siteName}, ${t.home}`}><Wordmark /></a>
       <span class="mh-tag">{lang === 'hi' ? <>भारत और दुनिया,<br />हिंदी और अंग्रेज़ी में</> : <>India and the world,<br />in English and Hindi</>}</span>
     </div>
     <nav class="w mh-nav menu" aria-label={lang === 'hi' ? 'मुख्य' : 'Main'}>
@@ -228,7 +229,7 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
         </form>
       </div>
       <div class="g">
-        <div><a class="fwm" href={`${p}/`}>{t.siteName}</a><p class="named">{t.named}</p></div>
+        <div><a class="fwm" href={`${p}/`} aria-label={t.siteName}><Wordmark /></a><p class="named">{t.named}</p></div>
         <div><h2 class="fh">{t.sections}</h2><ul>{['politics', 'world', 'economy', 'science', 'sports', 'states', 'policy', 'parliament'].map((k) => <li><a href={`${p}/${k}/`}>{S[k]}</a></li>)}</ul></div>
         <div><h2 class="fh">{t.features}</h2><ul>{more.map((m) => <li><a href={m.href}>{m.label}</a></li>)}</ul></div>
         <div><h2 class="fh">{t.trust}</h2><ul>{trust.map((x) => <li><a href={x.href}>{x.label}</a></li>)}</ul></div>

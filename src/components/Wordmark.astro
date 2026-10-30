@@ -1,0 +1,9 @@
+---
+// Gandhi News wordmark: "gandhinews" in Google Sans Bold outlines, the dot of the i a red square.
+// Letters take the current text colour; the square stays red.
+import fs from 'node:fs';
+import path from 'node:path';
+import { ROOT } from '../lib/routes.mjs';
+const svg = fs.readFileSync(path.join(ROOT, 'src/components/wordmark.svg.txt'), 'utf8');
+---
+<span class="wmk" set:html={svg} />
