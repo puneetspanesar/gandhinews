@@ -480,7 +480,7 @@ export async function homeModel(lang: Lang) {
   const sec = (k: string): any => HOME.sections.find((s: any) => s.section === k) ?? {};
   const headlines = pick([...HOME.lead.relatedBeside, HOME.topStories.big.id, ...HOME.topStories.list, ...HOME.topStories.big.also], 8);
   const india = pick([sec('states').lead, ...(sec('politics').list ?? []), ...(sec('states').list ?? []), ...(sec('policy').list ?? []), sec('policy').lead], 3);
-  const econ = pick([sec('economy').lead, ...(sec('economy').list ?? [])], 2);
+  const econ = pick([sec('economy').lead, ...(sec('economy').list ?? [])], 3);
   const L0: any = HOME.lead;
   const leadTopic = leadE.data.topics?.[0] ? (await topicLink(leadE.data.topics[0], lang)).label : '';
   const live = {

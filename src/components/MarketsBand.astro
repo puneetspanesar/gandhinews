@@ -1,0 +1,181 @@
+---
+// Markets and data band on the homepage. Reads content/data/markets.json (kept current by the hourly run)
+// and content/data/economy-dashboard.json (economy releases). Every number comes from those files.
+import MK from '../../content/data/markets.json';
+import { indicator } from '../lib/data';
+import { fmtNum } from '../lib/blocks.mjs';
+import type { Lang } from '../lib/i18n';
+interface Props { lang: Lang; dashHref: string; news: { href: string; title: string; kk?: string }[] }
+const { lang, dashHref, news = [] } = Astro.props;
+const hi = lang === 'hi';
+const M: any = MK;
+const MEN = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+const MHI = ['जनवरी','फ़रवरी','मार्च','अप्रैल','मई','जून','जुलाई','अगस्त','सितंबर','अक्टूबर','नवंबर','दिसंबर'];
+const mdy = (iso: string, year = true) => {
+  const m = String(iso || '').match(/^(\d{4})-(\d{2})-(\d{2})/); if (!m) return '';
+  return hi ? `${+m[3]} ${MHI[+m[2] - 1]}${year ? ' ' + m[1] : ''}` : `${MEN[+m[2] - 1]} ${+m[3]}${year ? ', ' + m[1] : ''}`;
+};
+const nm = (x: any) => (hi && x.name_hi) || x.name;
+const sgn = (v: number | null | undefined, d = 2) => (v == null ? '' : fmtNum(v, d, true));
+const dir = (v: number | null | undefined) => (v == null || v === 0 ? 'fl' : v > 0 ? 'u' : 'd');
+const time = String(M.as_of || '').match(/T(\d{2}):(\d{2})/);
+const hh = time ? +time[1] : 0, mm = time ? time[2] : '00';
+const clock = time ? `${((hh + 11) % 12) + 1}:${mm} ${hh < 12 ? 'am' : 'pm'}` : '';
+const status = M.status === 'open'
+  ? (hi ? `बाज़ार खुला है, ${clock} तक का हाल` : `Market open, as of ${clock}`)
+  : (hi ? `${mdy(M.session_date)} को बंद भाव` : `Close, ${mdy(M.session_date)}`);
+
+// Sparkline for an index tile
+const spark = (h: any[]) => {
+  const v = (h || []).map((x) => x.close).filter((x) => typeof x === 'number');
+  if (v.length < 3) return '';
+  const W = 160, H = 40, mn = Math.min(...v), mx = Math.max(...v);
+  const pts = v.map((y, i) => `${((i * W) / (v.length - 1)).toFixed(1)},${(H - 3 - ((y - mn) / (mx - mn || 1)) * (H - 6)).toFixed(1)}`).join(' ');
+  const c = v[v.length - 1] >= v[0] ? '#4ade80' : '#ff6b6b';
+  return `<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" aria-hidden="true"><polyline points="${pts}" fill="none" stroke="${c}" stroke-width="2" vector-effect="non-scaling-stroke" stroke-linejoin="round"/></svg>`;
+};
+const indices = (M.indices || []).map((x: any) => ({ ...x, n: nm(x), v: fmtNum(x.value, 2), c: sgn(x.change), p: x.pct == null ? '' : `${sgn(x.pct)}%`, d: dir(x.change), s: spark(x.history) }));
+
+// Big chart: the lead index over its history
+const big = (M.indices || []).find((x: any) => x.id === (M.chart || 'nifty-50')) || M.indices?.[0];
+const bh = (big?.history || []).filter((x: any) => typeof x.close === 'number');
+let chart = '', chartTitle = '', chartNote = '';
+if (bh.length >= 3) {
+  const W = 640, H = 260, L = 64, R = 12, T = 16, B = 34;
+  const v = bh.map((x: any) => x.close), mn = Math.min(...v), mx = Math.max(...v);
+  const step = Math.pow(10, Math.floor(Math.log10((mx - mn) || 1)));
+  const lo = Math.floor(mn / step) * step, top = Math.ceil(mx / step) * step;
+  const X = (i: number) => L + (i * (W - L - R)) / (v.length - 1);
+  const Y = (y: number) => T + (1 - (y - lo) / ((top - lo) || 1)) * (H - T - B);
+  const ticks = [lo, (lo + top) / 2, top];
+  const line = v.map((y: number, i: number) => `${X(i).toFixed(1)},${Y(y).toFixed(1)}`).join(' ');
+  const iMax = v.indexOf(mx), iMin = v.indexOf(mn), last = v.length - 1;
+  const lab = (i: number, txt: string, below = false) => `<text x="${Math.min(Math.max(X(i), L + 30), W - R - 30).toFixed(1)}" y="${(Y(v[i]) + (below ? 18 : -10)).toFixed(1)}" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">${txt}</text>`;
+  chart = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${hi ? `${nm(big)}, पिछले ${v.length} कारोबारी दिन` : `${nm(big)} over the last ${v.length} sessions`}">`
+    + ticks.map((t) => `<line x1="${L}" x2="${W - R}" y1="${Y(t).toFixed(1)}" y2="${Y(t).toFixed(1)}" stroke="#3a3a3a"/><text x="${L - 10}" y="${(Y(t) + 4).toFixed(1)}" font-size="12" fill="#fff" text-anchor="end">${fmtNum(t, 0)}</text>`).join('')
+    + `<polyline points="${line}" fill="none" stroke="#fff" stroke-width="2.5" stroke-linejoin="round"/>`
+    + `<circle cx="${X(last).toFixed(1)}" cy="${Y(v[last]).toFixed(1)}" r="5" fill="#ff4d4d"/>`
+    + (iMax !== last ? lab(iMax, fmtNum(mx, 0)) : '') + (iMin !== last ? lab(iMin, fmtNum(mn, 0), true) : '')
+    + `<text x="${L}" y="${H - 8}" font-size="12" fill="#fff">${mdy(bh[0].date, false)}</text><text x="${W - R}" y="${H - 8}" font-size="12" fill="#fff" text-anchor="end">${mdy(bh[last].date, false)}</text></svg>`;
+  const ret = ((v[last] - v[0]) / v[0]) * 100;
+  chartTitle = hi ? `${nm(big)}, पिछले ${v.length} कारोबारी दिन` : `${nm(big)}, last ${v.length} sessions`;
+  chartNote = hi ? `इस दौरान ${sgn(ret)}%, ऊंचा ${fmtNum(mx, 0)}, नीचा ${fmtNum(mn, 0)}` : `${sgn(ret)}% over the period. High ${fmtNum(mx, 0)}, low ${fmtNum(mn, 0)}`;
+}
+
+// Currencies, commodities, bonds
+const rates = (M.rates || []).map((x: any) => ({ n: nm(x), unit: (hi && x.unit_hi) || x.unit || '', v: fmtNum(x.value, x.decimals ?? 2), c: x.change == null ? '' : sgn(x.change, x.decimals ?? 2), p: x.pct == null ? '' : `${sgn(x.pct)}%`, d: dir(x.change) }));
+
+// Movers with bars
+const mv = M.movers || {};
+const mvMax = Math.max(1, ...[...(mv.gainers || []), ...(mv.losers || [])].map((x: any) => Math.abs(x.pct || 0)));
+const movers = (arr: any[]) => (arr || []).slice(0, 5).map((x: any) => ({ n: nm(x), p: `${sgn(x.pct)}%`, w: `${Math.round((Math.abs(x.pct) / mvMax) * 100)}%`, d: dir(x.pct) }));
+const gainers = movers(mv.gainers), losers = movers(mv.losers);
+
+// Sector heat strip: flat colour steps by % change
+const heat = (p: number) => p >= 2 ? '#15803d' : p >= 1 ? '#16a34a' : p > 0 ? '#1f5f3a' : p === 0 ? '#3a3a3a' : p > -1 ? '#7a1f1f' : p > -2 ? '#b91c1c' : '#dc2626';
+const sectors = (M.sectors || []).slice().sort((a: any, b: any) => b.pct - a.pct).map((x: any) => ({ n: nm(x), p: `${sgn(x.pct)}%`, bg: heat(x.pct) }));
+
+// Institutional flows
+const fl = M.flows || null;
+const flMax = fl ? Math.max(1, Math.abs(fl.fii || 0), Math.abs(fl.dii || 0)) : 1;
+const flows = fl && (fl.fii != null || fl.dii != null) ? [
+  { n: hi ? 'विदेशी निवेशक (FII)' : 'Foreign investors (FII)', v: fl.fii },
+  { n: hi ? 'घरेलू संस्थान (DII)' : 'Domestic institutions (DII)', v: fl.dii },
+].filter((x) => x.v != null).map((x) => ({ n: x.n, t: `${sgn(x.v, 0)} ${hi ? 'करोड़ ₹' : '₹ cr'}`, w: `${Math.round((Math.abs(x.v) / flMax) * 50)}%`, d: dir(x.v) })) : [];
+
+// Economy strip from the dashboard
+const ECON = [
+  ['gdp-growth', 'GDP growth', 'जीडीपी वृद्धि', 1, '%'], ['cpi-inflation', 'Retail inflation', 'खुदरा महंगाई', 2, '%'], ['repo-rate', 'Repo rate', 'रेपो रेट', 2, '%'],
+  ['iip-growth', 'Industrial output', 'औद्योगिक उत्पादन', 1, '%'], ['unemployment', 'Unemployment', 'बेरोज़गारी', 1, '%'], ['gst-gross', 'GST collections', 'जीएसटी संग्रह', 2, ''],
+  ['forex-reserves', 'Forex reserves', 'विदेशी मुद्रा भंडार', 1, ''], ['fiscal-deficit-pct-be', 'Fiscal deficit used', 'राजकोषीय घाटा', 1, '%'],
+] as const;
+const econ = ECON.map(([id, en, hn, dec, u]) => {
+  const x: any = indicator(lang, id as string) ?? indicator("en", id as string); if (!x) return null;
+  const h = (x.history || []).slice(-8).map((p: any) => p.value).filter((n: any) => typeof n === 'number');
+  const mx = Math.max(...h.map((n: number) => Math.abs(n)), 0.0001);
+  const val = id === 'gst-gross' ? (hi ? `₹${fmtNum(x.latest_value, dec)} लाख करोड़` : `₹${fmtNum(x.latest_value, dec)} lakh cr`)
+    : id === 'forex-reserves' ? (hi ? `$${fmtNum(x.latest_value, dec)} अरब` : `$${fmtNum(x.latest_value, dec)} bn`) : `${fmtNum(x.latest_value, dec)}${u}`;
+  const per = String(x.period || '').replace(/\s*\(.*?\)\s*/g, ' ').replace(/^week ended /, '').trim();
+  return { n: hi ? hn : en, v: val, per, bars: h.length >= 2 ? h.map((n: number, i: number) => ({ h: `${Math.max(8, Math.round((Math.abs(n) / mx) * 100))}%`, last: i === h.length - 1 })) : [] };
+}).filter(Boolean) as any[];
+
+const L = hi ? {
+  idx: 'सूचकांक', rates: 'मुद्रा, कमोडिटी और बॉन्ड', movers: 'निफ्टी 50 में सबसे ज़्यादा बदलाव', up: 'बढ़त', down: 'गिरावट', sectors: 'सेक्टर', flows: 'संस्थागत निवेश', econ: 'अर्थव्यवस्था', news: 'कारोबार की खबरें', all: 'पूरा डेटा देखें',
+} : {
+  idx: 'Indices', rates: 'Currencies, commodities and bonds', movers: 'Biggest moves in the Nifty 50', up: 'Gainers', down: 'Losers', sectors: 'Sectors', flows: 'Institutional money', econ: 'The economy', news: 'Business news', all: 'See all the data',
+};
+const flowDate = fl?.date ? mdy(fl.date, false) : '';
+---
+<section class="g-band g-blk mk" aria-labelledby="mk-h">
+  <div class="w g-split">
+    <div class="g-bt">
+      <h2 id="mk-h">{hi ? 'बाज़ार और आंकड़े' : 'Markets and data'}</h2>
+      <span class={M.status === 'open' ? 'mk-live' : ''}>{status}</span>
+      <a class="mk-all" href={dashHref}>{L.all}</a>
+    </div>
+    <div class="mk-body">
+      <ul class="mk-idx" aria-label={L.idx}>
+        {indices.map((x: any) => (
+          <li>
+            <span class="mk-n">{x.n}</span>
+            <b class="mk-v num">{x.v}</b>
+            <span class={`mk-c ${x.d}`}>{x.c} ({x.p})</span>
+            <i class="mk-sp" set:html={x.s} />
+          </li>
+        ))}
+      </ul>
+
+      <div class="mk-row">
+        {chart && <figure class="mk-chart"><figcaption><b>{chartTitle}</b><span>{chartNote}</span></figcaption><Fragment set:html={chart} /></figure>}
+        <div class="mk-side">
+          {rates.length > 0 && <div class="mk-box">
+            <h3>{L.rates}</h3>
+            <table class="mk-t">
+              <tbody>
+                {rates.map((r: any) => <tr><th scope="row">{r.n}{r.unit && <small> {r.unit}</small>}</th><td class="num">{r.v}</td><td class={`num ${r.d}`}>{r.p || r.c}</td></tr>)}
+              </tbody>
+            </table>
+          </div>}
+        </div>
+      </div>
+
+      <div class="mk-row mk-row3">
+        {(gainers.length > 0 || losers.length > 0) && <div class="mk-box">
+          <h3>{L.movers}</h3>
+          <div class="mk-mv">
+            {[{ t: L.up, a: gainers }, { t: L.down, a: losers }].map((g) => (
+              <div><h4>{g.t}</h4><ol>{g.a.map((x: any) => <li><span>{x.n}</span><i class={x.d} style={`width:${x.w}`}></i><b class={`num ${x.d}`}>{x.p}</b></li>)}</ol></div>
+            ))}
+          </div>
+        </div>}
+        {sectors.length > 0 && <div class="mk-box">
+          <h3>{L.sectors}</h3>
+          <ul class="mk-heat">{sectors.map((s: any) => <li style={`background:${s.bg}`}><span>{s.n}</span><b class="num">{s.p}</b></li>)}</ul>
+        </div>}
+        {flows.length > 0 && <div class="mk-box">
+          <h3>{L.flows}{flowDate && <small> {flowDate}</small>}</h3>
+          <ul class="mk-fl">{flows.map((f: any) => <li><span>{f.n}</span><div class="mk-bar"><i class={f.d} style={`width:${f.w}`}></i></div><b class={`num ${f.d}`}>{f.t}</b></li>)}</ul>
+        </div>}
+      </div>
+
+      <div class="mk-econ-wrap">
+        <h3>{L.econ}</h3>
+        <ul class="mk-econ">
+          {econ.map((e: any) => (
+            <li>
+              <span class="mk-n">{e.n}</span>
+              <b class="num">{e.v}</b>
+              <span class="mk-per">{e.per}</span>
+              {e.bars.length > 0 && <span class="mk-bars" aria-hidden="true">{e.bars.map((b: any) => <i class={b.last ? 'l' : ''} style={`height:${b.h}`}></i>)}</span>}
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      {news.length > 0 && <div class="mk-news">
+        <h3>{L.news}</h3>
+        <ul>{news.map((n) => <li><a href={n.href}><span class="kk">{n.kk}</span> {n.title}</a></li>)}</ul>
+      </div>}
+    </div>
+  </div>
+</section>

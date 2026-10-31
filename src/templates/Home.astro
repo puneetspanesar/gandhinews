@@ -1,4 +1,5 @@
 ---
+import MarketsBand from '../components/MarketsBand.astro';
 // Homepage, English and Hindi. Which stories appear where is set in content/homepage.json;
 // everything shown is read from the articles and the tracker data (see src/lib/home.ts).
 import Base from '../layouts/Base.astro';
@@ -81,17 +82,7 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
   )}
 
   <!-- MARKETS BAND -->
-  <section class="g-band g-blk" aria-labelledby="mk-h">
-    <div class="w g-split">
-      <div class="g-bt"><h2 id="mk-h">{G.markets}</h2><span>{G.close(m.markets.asOf)}</span></div>
-      <div class="g-g">
-        <figure class="g-c g-s2 g-ch"><b>{m.markets.sensexTitle}</b><Fragment set:html={m.markets.sensex} /></figure>
-        <figure class="g-c g-s2 g-ch"><b>{m.markets.cpiTitle}</b><Fragment set:html={m.markets.cpi} /></figure>
-        {m.markets.figs.map((f: any) => <div class="g-c g-tr g-fig"><span>{f.l}</span><b class="num">{f.v}</b></div>)}
-        {m.econ[0] && <article class="g-c g-tr"><a href={m.econ[0].href}><h3 class="g-h17"><span class="kk">{m.econ[0].kk}</span> {m.econ[0].d.title}</h3></a></article>}
-      </div>
-    </div>
-  </section>
+  <MarketsBand lang={lang} dashHref={m.dashHref} news={m.econ.map((x: any) => ({ href: x.href, title: x.d.title, kk: x.kk }))} />
 
   <!-- OPINION -->
   <section class="g-band g-tint" aria-labelledby="op-h">
