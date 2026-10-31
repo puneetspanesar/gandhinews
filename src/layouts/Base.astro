@@ -116,7 +116,7 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
   <link rel="apple-touch-icon" href="/apple-touch-icon.png?v=gn2" />
   <link rel="preload" href="/fonts/inter-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/fonts/google-sans-latin-600-normal.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="preload" href="/fonts/noto-sans-devanagari-devanagari-600-normal.woff2" as="font" type="font/woff2" crossorigin />
+  {lang === 'hi' && <link rel="preload" href="/fonts/noto-sans-devanagari-devanagari-600-normal.woff2" as="font" type="font/woff2" crossorigin />}
   {lang === 'hi' && <link rel="preload" href="/fonts/noto-sans-devanagari-devanagari-500-normal.woff2" as="font" type="font/woff2" crossorigin />}
   <link rel="alternate" type="application/rss+xml" title={`${t.siteName} (${lang === 'hi' ? 'हिंदी' : 'English'})`} href={abs(`${p}/rss.xml`)} />
   <meta property="og:site_name" content="Gandhi News" />
@@ -135,7 +135,6 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
   {article?.section && <meta property="article:section" content={article.section} />}
   {article?.tags?.map((tag) => <meta property="article:tag" content={tag} />)}
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:site" content="@lokvoxcom" />
   <meta name="twitter:title" content={title} />
   <meta name="twitter:description" content={description} />
   <meta name="twitter:image" content={ogImage} />

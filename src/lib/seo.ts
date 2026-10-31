@@ -15,7 +15,7 @@ export const PUBLISHER = {
   url: `${SITE_URL}/`,
   logo: { '@type': 'ImageObject', url: `${SITE_URL}/logo.png`, width: 512, height: 512 },
   description: 'Gandhi News is an independent Indian news website publishing news from India and the world, covering politics, the economy, science and technology and sports, in English and Hindi.',
-  slogan: 'The people’s newsroom',
+  slogan: 'India and the world, in English and Hindi',
   foundingDate: '2026',
   areaServed: { '@type': 'Country', name: 'India' },
   knowsLanguage: ['en-IN', 'hi-IN'],
@@ -24,10 +24,13 @@ export const PUBLISHER = {
   correctionsPolicy: `${SITE_URL}/corrections/`,
   ownershipFundingInfo: `${SITE_URL}/ownership/`,
   masthead: `${SITE_URL}/about/`,
+  verificationFactCheckingPolicy: `${SITE_URL}/fact-check/methodology/`,
+  noBylinesPolicy: `${SITE_URL}/ai-policy/`,
+  actionableFeedbackPolicy: `${SITE_URL}/contact/`,
   founder: { '@type': 'Person', name: 'Puneet Panesar', url: `${SITE_URL}/editor/` },
   ...(SAME_AS.length ? { sameAs: SAME_AS } : {}),
 };
-export const AUTHOR = { '@type': 'Organization', name: 'Gandhi News Editorial Desk', url: `${SITE_URL}/` };
+export const AUTHOR = { '@type': 'Organization', name: 'Gandhi News Editorial Desk', url: `${SITE_URL}/about/`, parentOrganization: { '@id': `${SITE_URL}/#organization` } };
 export const EDITOR = { '@type': 'Person', name: 'Puneet Panesar', jobTitle: 'Editor-in-Chief', url: `${SITE_URL}/editor/`, worksFor: { '@type': 'NewsMediaOrganization', name: 'Gandhi News', url: `${SITE_URL}/` } };
 const inLang = (l: Lang) => (l === 'hi' ? 'hi-IN' : 'en-IN');
 const img = () => ({ '@type': 'ImageObject', url: `${SITE_URL}/og-default.png`, width: 1200, height: 630 });
@@ -37,9 +40,23 @@ export function storyImage(d: any): { url: string; width: number; height: number
   if (!f?.src) return null;
   return { url: abs(f.src), width: f.width ?? 1280, height: f.height ?? 720, alt: (d.lang === 'hi' ? f.alt_hi ?? f.alt : f.alt) ?? '' };
 }
+/** Google asks for news images in 16:9, 4:3 and 1:1. The two extra crops are made at build time by scripts/schema-crops.mjs. */
 const imagesFor = (d: any) => {
   const s = storyImage(d);
-  return s ? [{ '@type': 'ImageObject', url: s.url, width: s.width, height: s.height }, img()] : [img()];
+  if (!s) return [img()];
+  const W = s.width, H = s.height;
+  let ww = W, wh = Math.round((W * 9) / 16);
+  if (wh > H) { wh = H; ww = Math.round((H * 16) / 9); }
+  const sq = Math.min(W, H, 800);
+  const base = s.url.replace(/\/photos\/([^/]+)\.jpg$/, '/photos/x/$1');
+  const out: any[] = [{ '@type': 'ImageObject', url: s.url, width: W, height: H, ...(s.alt ? { caption: s.alt } : {}) }];
+  if (base !== s.url) out.unshift({ '@type': 'ImageObject', url: `${base}-16x9.jpg`, width: ww, height: wh }), out.push({ '@type': 'ImageObject', url: `${base}-1x1.jpg`, width: sq, height: sq });
+  return out;
+};
+/** Keywords: the story's topics, else its format label and the people or places it is about. */
+const keywordsFor = (d: any) => {
+  const k = [...(d.topics ?? []), ...String(d.format_label ?? '').split('/').map((x: string) => x.trim()), ...(d.hero?.subjects ?? []), d.location].filter(Boolean);
+  return [...new Set(k)].join(', ');
 };
 
 export function newsArticleLd(d: any) {
@@ -57,10 +74,11 @@ export function newsArticleLd(d: any) {
     dateModified: (d.updated ?? d.published).toISOString(),
     inLanguage: inLang(d.lang),
     articleSection: d.format_label,
-    keywords: d.topics.join(', '),
+    keywords: keywordsFor(d),
     isAccessibleForFree: true,
     image: imagesFor(d),
     author: [AUTHOR],
+    editor: EDITOR,
     publisher: PUBLISHER,
     ...(d.location ? { contentLocation: { '@type': 'Place', name: d.location } } : {}),
     ...(d.translation_of ? { translationOfWork: { '@id': `${abs(urlOf({ ...d, lang: 'en' }))}#article` } } : {}),

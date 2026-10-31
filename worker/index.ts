@@ -7,7 +7,7 @@ interface Env {
   ASSETS?: { fetch: (r: Request) => Promise<Response> };
   DB?: D1Database;
   EMAIL?: { send: (m: any) => Promise<any> }; // Cloudflare Email Service binding (confirmation emails)
-  MAIL_FROM_ADDRESS?: string; // e.g. brief@lokvox.com
+  MAIL_FROM_ADDRESS?: string; // e.g. brief@gandhinews.com
   AWS_ACCESS_KEY_ID?: string;
   AWS_SECRET_ACCESS_KEY?: string;
   AWS_REGION?: string; // e.g. ap-south-1
@@ -72,7 +72,7 @@ const COPY = {
     latest: 'On Gandhi News today',
     read: 'Read on gandhinews.com',
     ignore: 'You are receiving this because someone signed up for the Morning Brief with this address at gandhinews.com. If it was not you, ignore this email and you will not hear from us again.',
-    tag: 'The people’s newsroom',
+    tag: 'India and the world, in English and Hindi',
   },
   hi: {
     subject: 'गांधी न्यूज़ मॉर्निंग ब्रीफ की पुष्टि करें',
@@ -86,7 +86,7 @@ const COPY = {
     latest: 'आज गांधी न्यूज़ पर',
     read: 'gandhinews.com पर पढ़ें',
     ignore: 'यह ईमेल आपको इसलिए मिला है क्योंकि gandhinews.com पर इस पते से मॉर्निंग ब्रीफ के लिए साइन अप किया गया। अगर यह आपने नहीं किया, तो इसे अनदेखा करें। आपको हमसे आगे कोई ईमेल नहीं मिलेगा।',
-    tag: 'जनता का न्यूज़रूम',
+    tag: 'भारत और दुनिया, हिंदी और अंग्रेज़ी में',
   },
 };
 const escHtml = (x: string) => x.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');

@@ -8,6 +8,8 @@ import { UI, type Lang } from '../lib/i18n';
 // @ts-ignore - plain JS module
 import { TRUST_PAGES } from '../lib/routes.mjs';
 import CORRECTIONS from '../../content/corrections.json';
+import { EDITOR, PUBLISHER } from '../lib/seo';
+import { abs } from '../lib/site';
 
 interface Props { lang: Lang; id: string; route: string }
 const { lang, id, route } = Astro.props;
@@ -21,6 +23,13 @@ const html: string = e.rendered?.html ?? '';
 const order = Object.keys(TRUST_PAGES);
 const nav = order.map((k) => all.find((x: any) => x.data.id === k)).filter(Boolean).map((x: any) => ({ id: x.data.id, title: x.data.title, href: `${p}/${x.data.path}/` }));
 const crumbs = [{ name: t.home, href: `${p}/` }, { name: d.title, href: route }];
+// Page-level structured data: the editor's profile, About, Contact.
+const pageType: Record<string, string> = { editor: 'ProfilePage', about: 'AboutPage', contact: 'ContactPage' };
+const jsonld = pageType[id] ? [{
+  '@context': 'https://schema.org', '@type': pageType[id], url: abs(route), name: d.title, description: d.description,
+  inLanguage: lang === 'hi' ? 'hi-IN' : 'en-IN', dateModified: d.updated ? new Date(d.updated).toISOString() : undefined,
+  ...(id === 'editor' ? { mainEntity: { ...EDITOR, '@id': `${abs('/editor/')}#person`, email: 'mailto:puneet@thar.co' } } : { about: { '@id': PUBLISHER['@id'] } }),
+}] : [];
 
 // Corrections log (content/corrections.json): newest first.
 // Entry: { "id", "date": "YYYY-MM-DD", "article": "<article id>", "correction": { "en": "...", "hi": "..." } }
@@ -36,7 +45,7 @@ const L = lang === 'hi'
   ? { updated: 'आखिरी बदलाव', trust: 'भरोसा और नीतियां', log: 'सुधारों का रिकॉर्ड', none: 'अभी तक कोई सुधार नहीं। जब हम कोई गलती सुधारेंगे, तो वह तारीख के साथ यहां और खबर पर दिखेगी।', date: 'तारीख', story: 'खबर', what: 'क्या सुधारा गया' }
   : { updated: 'Last updated', trust: 'Trust and policies', log: 'Corrections log', none: 'No corrections yet. When we correct a story, the correction and its date will appear here and on the story.', date: 'Date', story: 'Story', what: 'What we corrected' };
 ---
-<Base lang={lang} title={d.title} description={d.description} path={route} crumbs={crumbs} active="">
+<Base lang={lang} title={d.title} description={d.description} path={route} crumbs={crumbs} active="" jsonld={jsonld}>
   <div class="w">
     <div class="tp">
       <article class="tp-main">

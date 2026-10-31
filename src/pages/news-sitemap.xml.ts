@@ -1,11 +1,12 @@
-// Google News sitemap: news articles published in the last 48 hours (at build time).
+// Google News sitemap: every article (news, explainers, editorials, fact checks) published in the last 48 hours
+// at build time. Hourly builds keep it current.
 import { content, urlOf, abs } from '../lib/site';
 const esc = (s: string) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 export async function GET() {
   const c = await content();
   const since = Date.now() - 48 * 3600 * 1000;
   const items = (['en', 'hi'] as const).flatMap((lang) =>
-    c[lang].articles.filter((e: any) => e.data.type === 'news' && +e.data.published >= since).map((e: any) => ({ lang, d: e.data })),
+    c[lang].articles.filter((e: any) => !e.data.draft && e.data.status !== 'needs-editor-approval' && +e.data.published >= since && +e.data.published <= Date.now() + 3600e3).map((e: any) => ({ lang, d: e.data })),
   );
   const body = items
     .map(({ lang, d }) => `  <url>

@@ -4,7 +4,7 @@ export type Lang = 'en' | 'hi';
 export const UI = {
   en: {
     siteName: 'Gandhi News',
-    motto: 'The people’s newsroom',
+    motto: 'India and the world, in English and Hindi',
     skip: 'Skip to content',
     home: 'Home',
     more: 'More',
@@ -110,7 +110,7 @@ export const UI = {
   },
   hi: {
     siteName: 'गांधी न्यूज़',
-    motto: 'जनता का न्यूज़रूम',
+    motto: 'भारत और दुनिया, हिंदी और अंग्रेज़ी में',
     skip: 'सीधे लेख पर जाएं',
     home: 'होम',
     more: 'और',

@@ -1,0 +1,35 @@
+# Cache rules for Cloudflare Workers static assets.
+# Hashed build files never change: cache for a year.
+/_astro/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
+  Access-Control-Allow-Origin: *
+
+# Story photos: a wrong picture can be replaced under the same name, so keep this to a day.
+/photos/*
+  Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+
+/portraits/*
+  Cache-Control: public, max-age=2592000
+
+/maps/*
+  Cache-Control: public, max-age=604800
+
+/email/*
+  Cache-Control: public, max-age=604800
+
+# Pages: browsers always check, Cloudflare's edge may serve for a minute.
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+
+/sitemap-index.xml
+  Cache-Control: public, max-age=300
+
+/news-sitemap.xml
+  Cache-Control: public, max-age=300
+
+/rss.xml
+  Cache-Control: public, max-age=300

@@ -4,19 +4,19 @@ lang: en
 path: about
 title: "About Gandhi News"
 description: "Gandhi News is an independent news website from India: news from India and the world, politics, the economy, science and technology and sports, in English and Hindi."
-updated: 2026-10-15
+updated: 2026-10-31
 ---
 
 Gandhi News is an independent Indian news website. We publish news from India and the world: politics, the economy, the states, science and technology, sports, policy and Parliament, in English and Hindi. Gandhi News is not connected to any other outlet, channel or company with a similar name.
 
-Our name joins two words. Lok is Hindi for people, as in Lok Sabha, and vox is Latin for voice. The red seal on every page carries ल, the first letter of लोक, because we write for the people of India, not for any party or government. We call ourselves "The people’s newsroom". We follow what governments, Parliament, parties and regulators decide, and explain what it means for the people it affects. We report what can be checked, show our evidence and correct our mistakes in public.
+We are not linked to any political party, family or government, including any that shares our name. We follow what governments, Parliament, parties and regulators decide, and explain what it means for the people it affects. We report what can be checked, show our evidence and correct our mistakes in public.
 
 ## What we publish
 
 - **News:** what happened, with the documents and data behind it.
 - **Explained:** plain answers to the questions behind the news.
 - **Fact check:** viral claims checked against the record, rated on a [four-point scale](/fact-check/methodology/).
-- **Trackers:** data pages we keep up to date, such as [Bills in Parliament](/en/tracker/bills-in-parliament-tracker) and the [economy dashboard](/en/tracker/economy-dashboard). The data behind each one can be downloaded.
+- **Trackers:** data pages we keep up to date, such as [Bills in Parliament](/trackers/bills-in-parliament-tracker/) and the [economy dashboard](/trackers/economy-dashboard/). The data behind each one can be downloaded.
 - **Opinion:** the view of the editorial desk, always labelled and kept apart from our reporting.
 
 Every story appears in English and in Hindi. The Hindi version is adapted for Hindi readers and keeps every fact, figure and quote of the English one.

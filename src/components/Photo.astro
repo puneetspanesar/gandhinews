@@ -18,7 +18,9 @@ interface Props {
 const { id, alt = '', size = 'sm', lang = 'en', class: cls = '', eager = false, showCredit = false } = Astro.props;
 const fetched: any = id ? (PHOTOS as Record<string, any>)[id] : null;
 const src = fetched?.src ?? Astro.props.src;
-const srcset = undefined;
+// Two widths exist for every fetched photo (640 and 1280); the browser picks by slot width and screen density.
+const srcset = fetched?.src800 && fetched.src800 !== src ? `${fetched.src800} 640w, ${src} 1280w` : undefined;
+const sizes = size === 'lg' ? '(max-width: 700px) 100vw, 640px' : '(max-width: 600px) 100vw, 320px';
 const credit = fetched ? `${fetched.credit}, ${fetched.licence}` : Astro.props.credit;
 const altText = fetched ? ((lang === 'hi' ? fetched.alt_hi : fetched.alt) ?? alt) : alt;
 const t = UI[lang];
@@ -26,11 +28,11 @@ const t = UI[lang];
 {src ? (
   showCredit && credit ? (
     <span class={`photo ${cls}`}>
-      <img src={src} srcset={srcset} sizes={size === 'lg' ? '(max-width: 700px) 100vw, 640px' : '160px'} alt={altText} loading={eager ? 'eager' : 'lazy'} decoding="async" width={fetched?.width} height={fetched?.height} />
+      <img src={src} srcset={srcset} sizes={sizes} alt={altText} loading={eager ? 'eager' : 'lazy'} fetchpriority={eager ? 'high' : undefined} decoding={eager ? 'sync' : 'async'} width={fetched?.width} height={fetched?.height} />
       <span class="pcr">{credit}</span>
     </span>
   ) : (
-    <img class={cls} src={src} srcset={srcset} sizes={size === 'lg' ? '(max-width: 700px) 100vw, 640px' : '160px'} alt={altText} loading={eager ? 'eager' : 'lazy'} decoding="async" width={fetched?.width} height={fetched?.height} />
+    <img class={cls} src={src} srcset={srcset} sizes={sizes} alt={altText} loading={eager ? 'eager' : 'lazy'} fetchpriority={eager ? 'high' : undefined} decoding={eager ? 'sync' : 'async'} width={fetched?.width} height={fetched?.height} />
   )
 ) : size === 'lg' ? (
   <div class={`ph lg ${cls}`} role="img" aria-label={alt}>
