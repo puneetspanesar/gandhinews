@@ -17,4 +17,4 @@ Then validate and commit as RUNBOOK.md step 1 says.
 RUNBOOK.md step 2 with tag `l<day><m|e>`. Explainers and editorials take a picture of the place, institution or object the piece is about when there is no single person; never a wrong person. Pieces still without a correct picture move to newsroom/held/ and are named in the report.
 
 ## 3. Build, publish, report
-RUNBOOK.md step 4. Commit "Long-form update <morning|evening>: N pieces", push, then release the lock. Send one short SendUserMessage: what was written (titles), anything held or doubtful. No em dashes.
+RUNBOOK.md step 4. Commit "Long-form update <morning|evening>: N pieces", push, then release the lock. When the Cloudflare build has finished, run `node scripts/indexnow.mjs 13`. Send one short SendUserMessage: what was written (titles), anything held or doubtful. No em dashes.

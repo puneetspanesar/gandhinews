@@ -7,6 +7,7 @@ import JsonLd from '../components/JsonLd.astro';
 import { UI, SECTION_NAMES, type Lang } from '../lib/i18n';
 import { SITE_LIVE, SITE_URL, abs, prefix, swapLangPath, todayLine, fmtShort, content, urlOf } from '../lib/site';
 import HOME from '../../content/homepage.json';
+import MARKETS from '../../content/data/markets.json';
 import { indicator } from '../lib/data';
 import { fmtNum } from '../lib/blocks.mjs';
 
@@ -72,9 +73,16 @@ const tabs = [
 ];
 
 // Markets strip
-const sensex = indicator(lang, 'sensex');
-const nifty = indicator(lang, 'nifty-50');
-const usd = indicator(lang, 'usd-inr');
+// Live market numbers come from content/data/markets.json (refreshed every hour); the economy dashboard is the fallback.
+const MKX: any = MARKETS;
+const fromMk = (id: string, fallback: any) => {
+  const x = [...(MKX.indices ?? []), ...(MKX.rates ?? [])].find((r: any) => r.id === id);
+  if (!x || x.value == null || !MKX.session_date || String(MKX.session_date) < String(fallback?.release_date ?? '')) return fallback;
+  return { latest_value: x.value, release_date: MKX.session_date, change_vs_previous: { change_pct: x.pct ?? 0 } };
+};
+const sensex = fromMk('sensex', indicator(lang, 'sensex'));
+const nifty = fromMk('nifty-50', indicator(lang, 'nifty-50'));
+const usd = fromMk('usd-inr', indicator(lang, 'usd-inr'));
 const repo = indicator(lang, 'repo-rate');
 const mkDate = fmtShort(sensex.release_date, lang, false);
 const repoDate = fmtShort(repo.release_date, lang, false);

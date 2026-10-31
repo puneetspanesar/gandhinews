@@ -1,7 +1,7 @@
 ---
 // One router for every HTML page. English lives at the root, Hindi under /hi/.
 import type { GetStaticPaths } from 'astro';
-import { content, prefix, SECTIONS, urlOf } from '../lib/site';
+import { content, prefix, SECTIONS, urlOf, PER_PAGE } from '../lib/site';
 import { HUBS } from '../lib/i18n';
 import Article from '../templates/Article.astro';
 import Topic from '../templates/Topic.astro';
@@ -30,14 +30,19 @@ export const getStaticPaths = (async () => {
     for (const e of articles) add(urlOf(e.data), { kind: 'article', lang, id: e.data.id });
     for (const e of topics) add(urlOf(e.data), { kind: 'topic', lang, id: e.data.id });
     for (const e of trackers) add(urlOf(e.data), { kind: 'tracker', lang, id: e.data.id });
-    for (const s of SECTIONS) add(`${p}/${s}/`, { kind: 'section', lang, key: s });
-    for (const h of Object.keys(HUBS)) add(`${p}/${h}/`, { kind: 'hub', lang, key: h });
+    // Section and hub pages are paginated, PER_PAGE stories each: /politics/, /politics/page/2/, ...
+    const paged = (base: string, props: any, n: number) => {
+      const pages = Math.max(1, Math.ceil(n / PER_PAGE));
+      for (let i = 1; i <= pages; i++) add(i === 1 ? base : `${base}page/${i}/`, { ...props, page: i, pages });
+    };
+    for (const s of SECTIONS) paged(`${p}/${s}/`, { kind: 'section', lang, key: s }, articles.filter((e: any) => e.data.section === s && e.data.type === 'news').length);
+    for (const h of Object.keys(HUBS)) paged(`${p}/${h}/`, { kind: 'hub', lang, key: h }, articles.filter((e: any) => e.data.type === (HUBS as any)[h].type).length);
     add(`${p}/trackers/`, { kind: 'trackers', lang });
     add(`${p}/topics/`, { kind: 'topics', lang });
     add(`${p}/`, { kind: 'home', lang });
     add(`${p}/search/`, { kind: 'search', lang });
     add(`${p}/saved/`, { kind: 'saved', lang });
-    add(`${p}/latest/`, { kind: 'hub', lang, key: 'latest' });
+    paged(`${p}/latest/`, { kind: 'hub', lang, key: 'latest' }, articles.length);
     add(`${p}/elections/`, { kind: 'elections', lang });
     for (const [state, E] of Object.entries(ELECTIONS)) add(`${p}/elections/${E.slug}/`, { kind: 'election', lang, state });
     for (const e of await getCollection(`pages_${lang}`)) add(`${p}/${e.data.path}/`, { kind: 'page', lang, id: e.data.id });

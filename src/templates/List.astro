@@ -2,19 +2,19 @@
 import Base from '../layouts/Base.astro';
 import ListCard from '../components/ListCard.astro';
 import RailList from '../components/RailList.astro';
-import { content, prefix } from '../lib/site';
+import { content, prefix, PER_PAGE } from '../lib/site';
 import { UI, SECTION_NAMES, SECTION_DESCRIPTIONS, HUBS, type Lang } from '../lib/i18n';
 import { collectionLd } from '../lib/seo';
 
-interface Props { lang: Lang; key: string; kind: 'section' | 'hub'; route: string }
-const { lang, key, kind, route } = Astro.props;
+interface Props { lang: Lang; key: string; kind: 'section' | 'hub'; route: string; page?: number; pages?: number }
+const { lang, key, kind, route, page = 1, pages = 1 } = Astro.props;
 const c = (await content())[lang];
 const t = UI[lang];
 const p = prefix(lang);
 const latest = key === 'latest';
 const title = kind === 'section' ? SECTION_NAMES[lang][key] : latest ? t.latestTitle : (HUBS as any)[key][lang];
 const desc = latest ? t.latestDesc : SECTION_DESCRIPTIONS[lang][key];
-const items = kind === 'section'
+const allItems = kind === 'section'
   ? c.articles.filter((e: any) => e.data.section === key && e.data.type === 'news')
   : latest ? c.articles
   : c.articles.filter((e: any) => e.data.type === (HUBS as any)[key].type);
@@ -22,18 +22,30 @@ const items = kind === 'section'
 const formats = kind === 'section' ? c.articles.filter((e: any) => e.data.section === key && e.data.type !== 'news') : [];
 const trackers = kind === 'section' ? c.trackers.filter((e: any) => e.data.section === key) : c.trackers;
 const topics = c.topics.filter((e: any) => kind === 'hub' || e.data.section === key);
+const items = allItems.slice((page - 1) * PER_PAGE, page * PER_PAGE);
 const [lead, ...rest] = items;
-const crumbs = [{ name: t.home, href: `${p}/` }, { name: title, href: route }];
-const pageDesc = `${title}: ${desc}`;
+const base = `${p}/${key}/`;
+const pageHref = (n: number) => (n <= 1 ? base : `${base}page/${n}/`);
+const pageWord = lang === 'hi' ? 'पेज' : 'page';
+const crumbs = [{ name: t.home, href: `${p}/` }, { name: title, href: base }, ...(page > 1 ? [{ name: `${pageWord} ${page}`, href: route }] : [])];
+const pageTitle = page > 1 ? `${title}, ${pageWord} ${page}` : title;
+const pageDesc = page > 1 ? `${title}: ${lang === 'hi' ? `पुरानी खबरें, ${pageWord} ${page} / ${pages}` : `earlier stories, page ${page} of ${pages}`}. ${desc}` : `${title}: ${desc}`;
 ---
-<Base lang={lang} title={title} description={pageDesc} path={route} crumbs={crumbs} active={key}
+<Base lang={lang} title={pageTitle} description={pageDesc} path={route} crumbs={crumbs} active={key}
   jsonld={[collectionLd(title, desc, route, lang, items)]}>
   <div class="w">
-    <header class="page-h"><h1>{title}</h1><p>{desc}</p></header>
+    <header class="page-h"><h1>{pageTitle}</h1>{page === 1 && <p>{desc}</p>}</header>
     <div class="hub">
       <div>
         {lead && <ListCard entry={lead} lang={lang} lead />}
         {rest.map((e: any) => <ListCard entry={e} lang={lang} />)}
+        {pages > 1 && (
+          <nav class="pager" aria-label={lang === 'hi' ? 'और पेज' : 'More pages'}>
+            {page > 1 && <a href={pageHref(page - 1)} rel="prev">{lang === 'hi' ? 'नई खबरें' : 'Newer stories'}</a>}
+            <span>{lang === 'hi' ? `पेज ${page} / ${pages}` : `Page ${page} of ${pages}`}</span>
+            {page < pages && <a href={pageHref(page + 1)} rel="next">{lang === 'hi' ? 'पुरानी खबरें' : 'Older stories'}</a>}
+          </nav>
+        )}
         {!lead && <p class="m">{lang === 'hi' ? 'इस सेक्शन में अभी कोई खबर नहीं है।' : 'No stories in this section yet.'}</p>}
       </div>
       <aside class="rail">

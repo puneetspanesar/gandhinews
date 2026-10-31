@@ -52,4 +52,4 @@ Update content/homepage.json as RUNBOOK.md step 3 describes, with this run's sto
 Every id must exist (the example script checks this).
 
 ## 5. Build, publish, report
-RUNBOOK.md step 4 (check:photos, clean build with no errors). Commit with the message "Hourly update <HH>:00 IST: N stories", push, then release the lock. Send one short SendUserMessage only when something needs the owner: a story held for lack of a picture, a failed build, a doubtful story removed, or fewer than 5 stories. A normal run sends nothing.
+RUNBOOK.md step 4 (check:photos, clean build with no errors). Commit with the message "Hourly update <HH>:00 IST: N stories", push, then release the lock. When the Cloudflare build for that commit has finished (`gh api repos/puneetspanesar/gandhinews/commits/<sha>/check-runs`), tell other search engines about the new pages: `node scripts/indexnow.mjs 2`. Send one short SendUserMessage only when something needs the owner: a story held for lack of a picture, a failed build, a doubtful story removed, or fewer than 5 stories. A normal run sends nothing.

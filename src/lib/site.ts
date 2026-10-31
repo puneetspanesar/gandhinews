@@ -202,3 +202,6 @@ export function iconFor(d: any): string {
   for (const t of d.topics ?? []) if (ICON_BY_TOPIC[t]) return ICON_BY_TOPIC[t];
   return ICON_BY_SECTION[d.section] ?? 'newspaper';
 }
+
+/** Stories per page on section and hub listings (/politics/, /politics/page/2/, ...). */
+export const PER_PAGE = 40;
