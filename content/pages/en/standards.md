@@ -40,7 +40,7 @@ We use photos only with permission or under a licence that allows it, and we cre
 
 ## AI
 
-AI assists our research, drafting and translation. Editors check and approve everything we publish. Read [how we use AI](/ai-policy/).
+Our stories are produced by an AI-assisted editorial desk working to these standards. The Editor-in-Chief reviews published stories and corrects them where needed. Read [how we use AI](/ai-policy/).
 
 ## Corrections
 
