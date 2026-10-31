@@ -11,7 +11,7 @@ Gandhi News publishes news and current affairs content in India. Part III of the
 
 ## Grievance Officer
 
-- Name: Puneet Singh
+- Name: Puneet Panesar
 - Designation: Editor and Publisher
 - Email: puneet@thar.co
 - Phone: +91 77609 06195

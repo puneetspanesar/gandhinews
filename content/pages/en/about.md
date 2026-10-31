@@ -29,9 +29,9 @@ Our [editorial standards](/standards/) set out the rules we follow. When we get 
 
 ## Who we are
 
-Gandhi News is owned and published by Puneet Singh.
+Gandhi News is owned and published by Puneet Panesar.
 
-Editor: Puneet Singh.
+Editor-in-Chief: [Puneet Panesar](/editor/).
 
 ## Get in touch
 

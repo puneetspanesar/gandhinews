@@ -43,6 +43,6 @@ These terms are governed by the laws of India. Courts at Mohali (SAS Nagar), Pun
 
 ## Contact
 
-Puneet Singh, publisher, Gandhi News. Email: puneet@thar.co.
+Puneet Panesar, publisher, Gandhi News. Email: puneet@thar.co.
 
 We may update these terms. The date at the top shows when they last changed.

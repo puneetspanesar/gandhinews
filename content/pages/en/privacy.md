@@ -7,7 +7,7 @@ description: "What personal data Gandhi News collects, why, how long we keep it 
 updated: 2026-10-11
 ---
 
-This policy explains what personal data we collect, why, how long we keep it and what you can do about it. It is written for India's Digital Personal Data Protection Act, 2023 (DPDP Act). Puneet Singh, the publisher of Gandhi News, is the Data Fiduciary for this website.
+This policy explains what personal data we collect, why, how long we keep it and what you can do about it. It is written for India's Digital Personal Data Protection Act, 2023 (DPDP Act). Puneet Panesar, the publisher of Gandhi News, is the Data Fiduciary for this website.
 
 ## What we collect
 
@@ -55,7 +55,7 @@ Under the DPDP Act you can:
 
 ## Contact
 
-For any privacy question or request, write to Puneet Singh at puneet@thar.co. We will reply within 15 days.
+For any privacy question or request, write to Puneet Panesar at puneet@thar.co. We will reply within 15 days.
 
 ## Changes
 

@@ -24,11 +24,11 @@ export const PUBLISHER = {
   correctionsPolicy: `${SITE_URL}/corrections/`,
   ownershipFundingInfo: `${SITE_URL}/ownership/`,
   masthead: `${SITE_URL}/about/`,
-  founder: { '@type': 'Person', name: 'Puneet Singh', url: `${SITE_URL}/editor/` },
+  founder: { '@type': 'Person', name: 'Puneet Panesar', url: `${SITE_URL}/editor/` },
   ...(SAME_AS.length ? { sameAs: SAME_AS } : {}),
 };
 export const AUTHOR = { '@type': 'Organization', name: 'Gandhi News Editorial Desk', url: `${SITE_URL}/` };
-export const EDITOR = { '@type': 'Person', name: 'Puneet Singh', jobTitle: 'Editor and Publisher', url: `${SITE_URL}/editor/`, worksFor: { '@type': 'NewsMediaOrganization', name: 'Gandhi News', url: `${SITE_URL}/` } };
+export const EDITOR = { '@type': 'Person', name: 'Puneet Panesar', jobTitle: 'Editor-in-Chief', url: `${SITE_URL}/editor/`, worksFor: { '@type': 'NewsMediaOrganization', name: 'Gandhi News', url: `${SITE_URL}/` } };
 const inLang = (l: Lang) => (l === 'hi' ? 'hi-IN' : 'en-IN');
 const img = () => ({ '@type': 'ImageObject', url: `${SITE_URL}/og-default.png`, width: 1200, height: 630 });
 /** The story's own photo (content/photos.map.json), for og:image and schema; null when it has none. */

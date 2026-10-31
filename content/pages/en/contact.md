@@ -29,4 +29,4 @@ For questions about your personal data, see our [privacy policy](/privacy/) or w
 
 ## Post
 
-Gandhi News is published by Puneet Singh. Email: puneet@thar.co. Phone and WhatsApp: +91 77609 06195.
+Gandhi News is published by Puneet Panesar. Email: puneet@thar.co. Phone and WhatsApp: +91 77609 06195.

@@ -11,9 +11,9 @@ Readers should know who owns a news organisation and who pays for it. This page 
 
 ## Who owns Gandhi News
 
-Gandhi News is owned and published by Puneet Singh, an individual based in India. It is not part of any company, media group or political organisation.
+Gandhi News is owned and published by Puneet Panesar, an individual based in India. It is not part of any company, media group or political organisation.
 
-Owner: Puneet Singh (100%).
+Owner: Puneet Panesar (100%).
 
 ## Who funds us
 
