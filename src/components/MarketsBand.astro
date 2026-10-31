@@ -23,7 +23,7 @@ const hh = time ? +time[1] : 0, mm = time ? time[2] : '00';
 const clock = time ? `${((hh + 11) % 12) + 1}:${mm} ${hh < 12 ? 'am' : 'pm'}` : '';
 const status = M.status === 'open'
   ? (hi ? `बाज़ार खुला है, ${clock} तक का हाल` : `Market open, as of ${clock}`)
-  : (hi ? `${mdy(M.session_date)} को बंद भाव` : `Close, ${mdy(M.session_date)}`);
+  : (hi ? `बंद भाव, ${mdy(M.session_date)}` : `Close, ${mdy(M.session_date)}`);
 
 // Sparkline for an index tile
 const spark = (h: any[]) => {
@@ -34,7 +34,7 @@ const spark = (h: any[]) => {
   const c = v[v.length - 1] >= v[0] ? '#4ade80' : '#ff6b6b';
   return `<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" aria-hidden="true"><polyline points="${pts}" fill="none" stroke="${c}" stroke-width="2" vector-effect="non-scaling-stroke" stroke-linejoin="round"/></svg>`;
 };
-const indices = (M.indices || []).map((x: any) => ({ ...x, n: nm(x), v: fmtNum(x.value, 2), c: sgn(x.change), p: x.pct == null ? '' : `${sgn(x.pct)}%`, d: dir(x.change), s: spark(x.history) }));
+const indices = (M.indices || []).map((x: any) => ({ ...x, n: nm(x), v: fmtNum(x.value, 2), c: sgn(x.change), p: x.pct == null ? '' : `${sgn(x.pct)}%`, d: dir(x.change ?? x.pct), s: spark(x.history) })).map((x: any) => ({ ...x, cp: x.c && x.p ? `${x.c} (${x.p})` : x.c || x.p || (hi ? 'बदलाव उपलब्ध नहीं' : 'Change not available') }));
 
 // Big chart: the lead index over its history
 const big = (M.indices || []).find((x: any) => x.id === (M.chart || 'nifty-50')) || M.indices?.[0];
@@ -51,19 +51,19 @@ if (bh.length >= 3) {
   const line = v.map((y: number, i: number) => `${X(i).toFixed(1)},${Y(y).toFixed(1)}`).join(' ');
   const iMax = v.indexOf(mx), iMin = v.indexOf(mn), last = v.length - 1;
   const lab = (i: number, txt: string, below = false) => `<text x="${Math.min(Math.max(X(i), L + 30), W - R - 30).toFixed(1)}" y="${(Y(v[i]) + (below ? 18 : -10)).toFixed(1)}" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">${txt}</text>`;
-  chart = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${hi ? `${nm(big)}, पिछले ${v.length} कारोबारी दिन` : `${nm(big)} over the last ${v.length} sessions`}">`
+  chart = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${hi ? `${nm(big)} के बंद भाव` : `${nm(big)} daily closes`}">`
     + ticks.map((t) => `<line x1="${L}" x2="${W - R}" y1="${Y(t).toFixed(1)}" y2="${Y(t).toFixed(1)}" stroke="#3a3a3a"/><text x="${L - 10}" y="${(Y(t) + 4).toFixed(1)}" font-size="12" fill="#fff" text-anchor="end">${fmtNum(t, 0)}</text>`).join('')
     + `<polyline points="${line}" fill="none" stroke="#fff" stroke-width="2.5" stroke-linejoin="round"/>`
     + `<circle cx="${X(last).toFixed(1)}" cy="${Y(v[last]).toFixed(1)}" r="5" fill="#ff4d4d"/>`
     + (iMax !== last ? lab(iMax, fmtNum(mx, 0)) : '') + (iMin !== last ? lab(iMin, fmtNum(mn, 0), true) : '')
     + `<text x="${L}" y="${H - 8}" font-size="12" fill="#fff">${mdy(bh[0].date, false)}</text><text x="${W - R}" y="${H - 8}" font-size="12" fill="#fff" text-anchor="end">${mdy(bh[last].date, false)}</text></svg>`;
   const ret = ((v[last] - v[0]) / v[0]) * 100;
-  chartTitle = hi ? `${nm(big)}, पिछले ${v.length} कारोबारी दिन` : `${nm(big)}, last ${v.length} sessions`;
+  chartTitle = hi ? `${nm(big)}, ${mdy(bh[0].date, false)} से ${mdy(bh[last].date, false)}` : `${nm(big)}, ${mdy(bh[0].date, false)} to ${mdy(bh[last].date, false)}`;
   chartNote = hi ? `इस दौरान ${sgn(ret)}%, ऊंचा ${fmtNum(mx, 0)}, नीचा ${fmtNum(mn, 0)}` : `${sgn(ret)}% over the period. High ${fmtNum(mx, 0)}, low ${fmtNum(mn, 0)}`;
 }
 
 // Currencies, commodities, bonds
-const rates = (M.rates || []).map((x: any) => ({ n: nm(x), unit: (hi && x.unit_hi) || x.unit || '', v: fmtNum(x.value, x.decimals ?? 2), c: x.change == null ? '' : sgn(x.change, x.decimals ?? 2), p: x.pct == null ? '' : `${sgn(x.pct)}%`, d: dir(x.change) }));
+const rates = (M.rates || []).filter((x: any) => x.value != null).map((x: any) => ({ n: nm(x), unit: (hi && x.unit_hi) || x.unit || '', v: fmtNum(x.value, x.decimals ?? 2), c: x.change == null ? '' : sgn(x.change, x.decimals ?? 2), p: x.pct == null ? '' : `${sgn(x.pct)}%`, d: dir(x.change ?? x.pct) }));
 
 // Movers with bars
 const mv = M.movers || {};
@@ -81,7 +81,7 @@ const flMax = fl ? Math.max(1, Math.abs(fl.fii || 0), Math.abs(fl.dii || 0)) : 1
 const flows = fl && (fl.fii != null || fl.dii != null) ? [
   { n: hi ? 'विदेशी निवेशक (FII)' : 'Foreign investors (FII)', v: fl.fii },
   { n: hi ? 'घरेलू संस्थान (DII)' : 'Domestic institutions (DII)', v: fl.dii },
-].filter((x) => x.v != null).map((x) => ({ n: x.n, t: `${sgn(x.v, 0)} ${hi ? 'करोड़ ₹' : '₹ cr'}`, w: `${Math.round((Math.abs(x.v) / flMax) * 50)}%`, d: dir(x.v) })) : [];
+].filter((x) => x.v != null).map((x) => ({ n: x.n, t: `${sgn(x.v, 0)} ${hi ? 'करोड़ ₹' : '₹ cr'}`, w: `${Math.round((Math.abs(x.v) / flMax) * 100)}%`, d: dir(x.v) })) : [];
 
 // Economy strip from the dashboard
 const ECON = [
@@ -119,7 +119,7 @@ const flowDate = fl?.date ? mdy(fl.date, false) : '';
           <li>
             <span class="mk-n">{x.n}</span>
             <b class="mk-v num">{x.v}</b>
-            <span class={`mk-c ${x.d}`}>{x.c} ({x.p})</span>
+            <span class={`mk-c ${x.d}`}>{x.cp}</span>
             <i class="mk-sp" set:html={x.s} />
           </li>
         ))}

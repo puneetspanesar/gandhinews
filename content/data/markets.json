@@ -1,1 +1,360 @@
-{"as_of":"","status":"closed","session_date":"","indices":[],"rates":[],"movers":{},"sectors":[],"flows":null}
+{
+ "as_of": "2026-10-30T15:45:00+05:30",
+ "status": "closed",
+ "session_date": "2026-10-30",
+ "chart": "nifty-50",
+ "indices": [
+  {
+   "id": "sensex",
+   "name": "Sensex",
+   "name_hi": "सेंसेक्स",
+   "value": 74459.53,
+   "change": 308.49,
+   "pct": 0.42,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "close": 72480.29
+    },
+    {
+     "date": "2026-10-01",
+     "close": 71909.7
+    },
+    {
+     "date": "2026-10-05",
+     "close": 72382.47
+    },
+    {
+     "date": "2026-10-06",
+     "close": 73067.81
+    },
+    {
+     "date": "2026-10-07",
+     "close": 72638.7
+    },
+    {
+     "date": "2026-10-08",
+     "close": 71593.24
+    },
+    {
+     "date": "2026-10-09",
+     "close": 72472.33
+    },
+    {
+     "date": "2026-10-12",
+     "close": 71924.68
+    },
+    {
+     "date": "2026-10-13",
+     "close": 73003.78
+    },
+    {
+     "date": "2026-10-14",
+     "close": 72781.89
+    },
+    {
+     "date": "2026-10-15",
+     "close": 74315.61
+    },
+    {
+     "date": "2026-10-22",
+     "close": 73249.39
+    },
+    {
+     "date": "2026-10-23",
+     "close": 73123.83
+    },
+    {
+     "date": "2026-10-26",
+     "close": 73606.75
+    },
+    {
+     "date": "2026-10-27",
+     "close": 73598.67
+    },
+    {
+     "date": "2026-10-28",
+     "close": 73246.03
+    },
+    {
+     "date": "2026-10-29",
+     "close": 74151.04
+    },
+    {
+     "date": "2026-10-30",
+     "close": 74459.53
+    }
+   ],
+   "source": "https://www.5paisa.com/blog/post-market-update-sensex-nifty-rise-second-day-broader-markets-fall-october-30-2026"
+  },
+  {
+   "id": "nifty-50",
+   "name": "Nifty 50",
+   "name_hi": "निफ्टी 50",
+   "value": 23053.1,
+   "change": 116.35,
+   "pct": 0.51,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "close": 22620.45
+    },
+    {
+     "date": "2026-10-01",
+     "close": 22421.95
+    },
+    {
+     "date": "2026-10-05",
+     "close": 22555.75
+    },
+    {
+     "date": "2026-10-06",
+     "close": 22776.1
+    },
+    {
+     "date": "2026-10-07",
+     "close": 22603.05
+    },
+    {
+     "date": "2026-10-08",
+     "close": 22231.8
+    },
+    {
+     "date": "2026-10-09",
+     "close": 22520.45
+    },
+    {
+     "date": "2026-10-12",
+     "close": 22363.35
+    },
+    {
+     "date": "2026-10-13",
+     "close": 22721.95
+    },
+    {
+     "date": "2026-10-14",
+     "close": 22622.7
+    },
+    {
+     "date": "2026-10-15",
+     "close": 22997.35
+    },
+    {
+     "date": "2026-10-16",
+     "close": 23146.15
+    },
+    {
+     "date": "2026-10-22",
+     "close": 22687.65
+    },
+    {
+     "date": "2026-10-23",
+     "close": 22600.0
+    },
+    {
+     "date": "2026-10-26",
+     "close": 22753.2
+    },
+    {
+     "date": "2026-10-27",
+     "close": 22749.75
+    },
+    {
+     "date": "2026-10-28",
+     "close": 22698.85
+    },
+    {
+     "date": "2026-10-29",
+     "close": 22936.75
+    },
+    {
+     "date": "2026-10-30",
+     "close": 23053.1
+    }
+   ],
+   "source": "https://hdfcsky.com/news/market-close-report-today-october-30-2026-nifty-sensex-rise-for-second-straight-session"
+  },
+  {
+   "id": "nifty-it",
+   "name": "Nifty IT",
+   "name_hi": "निफ्टी आईटी",
+   "value": 32606.9,
+   "change": null,
+   "pct": 2.32,
+   "history": [],
+   "source": "https://hdfcsky.com/news/weekly-stock-market-review-october-26-30-2026-nifty-reclaims-23053-as-pharma-surges-6-1percent-jio-platforms-lists-at-21percent-premium-fiis-return-with-rs3599-crore"
+  },
+  {
+   "id": "nifty-midcap-150",
+   "name": "Nifty Midcap 150",
+   "name_hi": "निफ्टी मिडकैप 150",
+   "value": 21047.5,
+   "change": null,
+   "pct": null,
+   "history": [],
+   "source": "https://hdfcsky.com/news/weekly-stock-market-review-october-26-30-2026-nifty-reclaims-23053-as-pharma-surges-6-1percent-jio-platforms-lists-at-21percent-premium-fiis-return-with-rs3599-crore"
+  },
+  {
+   "id": "india-vix",
+   "name": "India VIX",
+   "name_hi": "इंडिया VIX",
+   "value": 15.28,
+   "change": null,
+   "pct": 1.19,
+   "history": [],
+   "source": "https://hdfcsky.com/news/weekly-stock-market-review-october-26-30-2026-nifty-reclaims-23053-as-pharma-surges-6-1percent-jio-platforms-lists-at-21percent-premium-fiis-return-with-rs3599-crore"
+  }
+ ],
+ "rates": [
+  {
+   "id": "usd-inr",
+   "name": "Rupee per dollar",
+   "name_hi": "रुपया प्रति डॉलर",
+   "value": 94.93,
+   "change": -0.33,
+   "pct": -0.35,
+   "decimals": 2,
+   "unit": "",
+   "source": "https://www.etvbharat.com/en/business/rupee-vs-usd-indian-currency-us-dollar-exchange-rate-today-enn26103000952"
+  },
+  {
+   "id": "brent",
+   "name": "Brent crude",
+   "name_hi": "ब्रेंट क्रूड",
+   "unit": "$/barrel",
+   "unit_hi": "$/बैरल",
+   "value": 113.43,
+   "change": 2.63,
+   "pct": 2.37,
+   "decimals": 2,
+   "source": "https://tradingeconomics.com/commodity/brent-crude-oil"
+  },
+  {
+   "id": "gold",
+   "name": "Gold",
+   "name_hi": "सोना",
+   "unit": "₹/10 g, MCX",
+   "unit_hi": "₹/10 ग्राम, MCX",
+   "value": 141658,
+   "change": null,
+   "pct": -0.66,
+   "decimals": 0,
+   "source": "https://www.kotakneo.com/news/market-news/sensex-and-nifty-50-close-higher-amid-global-headwinds/"
+  },
+  {
+   "id": "silver",
+   "name": "Silver",
+   "name_hi": "चांदी",
+   "unit": "₹/kg, MCX",
+   "unit_hi": "₹/किलो, MCX",
+   "value": 184624,
+   "change": null,
+   "pct": -2.55,
+   "decimals": 0,
+   "source": "https://www.kotakneo.com/news/market-news/sensex-and-nifty-50-close-higher-amid-global-headwinds/"
+  },
+  {
+   "id": "gsec-10y",
+   "name": "10-year bond yield",
+   "name_hi": "10 साल के बॉन्ड पर यील्ड",
+   "unit": "%",
+   "unit_hi": "%",
+   "value": 7.401,
+   "change": 0.011,
+   "pct": null,
+   "decimals": 3,
+   "source": "https://tradingeconomics.com/india/government-bond-yield"
+  }
+ ],
+ "movers": {
+  "gainers": [
+   {
+    "name": "Trent",
+    "pct": 5.44
+   },
+   {
+    "name": "InterGlobe Aviation",
+    "pct": 4.33
+   },
+   {
+    "name": "Infosys",
+    "pct": 3.36
+   },
+   {
+    "name": "Apollo Hospitals",
+    "pct": 3.02
+   }
+  ],
+  "losers": [
+   {
+    "name": "Shriram Finance",
+    "pct": -2.13
+   },
+   {
+    "name": "Nestle India",
+    "pct": -1.82
+   },
+   {
+    "name": "Mahindra & Mahindra",
+    "pct": -1.72
+   },
+   {
+    "name": "Jio Financial Services",
+    "pct": -1.21
+   },
+   {
+    "name": "Adani Ports & SEZ",
+    "pct": -1.18
+   }
+  ],
+  "source": "https://hdfcsky.com/news/market-close-report-today-october-30-2026-nifty-sensex-rise-for-second-straight-session (percentages); list order confirmed by https://www.kotakneo.com/news/market-news/sensex-and-nifty-50-close-higher-amid-global-headwinds/"
+ },
+ "sectors": [
+  {
+   "name": "IT",
+   "name_hi": "आईटी",
+   "pct": 2.32
+  },
+  {
+   "name": "Pharma",
+   "name_hi": "फार्मा",
+   "pct": 1.55
+  },
+  {
+   "name": "Auto",
+   "name_hi": "ऑटो",
+   "pct": -0.82
+  },
+  {
+   "name": "FMCG",
+   "name_hi": "एफएमसीजी",
+   "pct": -0.59
+  },
+  {
+   "name": "Energy",
+   "name_hi": "ऊर्जा",
+   "pct": -0.97
+  },
+  {
+   "name": "Media",
+   "name_hi": "मीडिया",
+   "pct": -1.58
+  },
+  {
+   "name": "Consumer Durables",
+   "name_hi": "कंज्यूमर ड्यूरेबल्स",
+   "pct": -1.78
+  }
+ ],
+ "sectors_source": "IT, Auto, FMCG, Energy, Media: https://hdfcsky.com/news/weekly-stock-market-review-october-26-30-2026-nifty-reclaims-23053-as-pharma-surges-6-1percent-jio-platforms-lists-at-21percent-premium-fiis-return-with-rs3599-crore ; Pharma: https://www.5paisa.com/blog/post-market-update-sensex-nifty-rise-second-day-broader-markets-fall-october-30-2026 ; Consumer Durables: https://www.kotakneo.com/news/market-news/sensex-and-nifty-50-close-higher-amid-global-headwinds/ . Bank, Metal, Realty only described as 'down about 0.5%' and PSU Bank as 'down over 1%' (HDFC Sky daily report), so left null.",
+ "flows": {
+  "date": "2026-10-30",
+  "fii": 3598.54,
+  "dii": -817.51,
+  "unit": "₹ crore",
+  "source": "https://www.kotakneo.com/share-market-today/fii-dii-data/"
+ },
+ "notes": [
+  "Seeded from research on October 31, 2026. Nifty Bank, euro, pound and some sector moves were not found in a reliable source and are left out."
+ ]
+}
