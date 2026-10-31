@@ -33078,28 +33078,6 @@
   ]
  },
  {
-  "id": "cx-india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar--p-0",
-  "articleId": "part:india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar--p1:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Smt_Meira_Kumar.jpg",
-  "credit": "Anish basheer",
-  "licence": "CC BY-SA 3.0",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Smt_Meira_Kumar.jpg"
- },
- {
-  "id": "x-india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar--p1",
-  "articleId": "india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar--p1",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Smt_Meira_Kumar.jpg",
-  "credit": "Photo: Anish basheer / Wikimedia Commons",
-  "licence": "CC BY-SA 3.0",
-  "alt": "Former Lok Sabha Speaker Meira Kumar (file photo)",
-  "alt_hi": "लोकसभा की पूर्व अध्यक्ष मीरा कुमार (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Smt_Meira_Kumar.jpg",
-  "composite": [
-   "cx-india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar--p-0"
-  ]
- },
- {
   "id": "cx-jio-platforms-lists-21-per-cent-premium-1358-0",
   "articleId": "part:jio-platforms-lists-21-per-cent-premium-1358:0",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Mukesh_Ambani_was_Awarded_the_Asia_Society_Leadership_Award.jpg",
@@ -33163,28 +33141,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:Jammu_and_Kashmir_legislative_assembly_building_Srinagar_summer_session.jpg",
   "composite": [
    "cx-nc-mlas-demand-omar-cabinet-rejig-15-day-ultimatum-0"
-  ]
- },
- {
-  "id": "cx-nc-mlas-demand-omar-cabinet-rejig-15-day-ultimatum--p2-0",
-  "articleId": "part:nc-mlas-demand-omar-cabinet-rejig-15-day-ultimatum--p2:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Haroon_Imtiaz_and_co-author_Zanbi_with_Lieutenant_Governor_of_Jammu_and_Kashmir%2C_Manoj_Sinha.jpg",
-  "credit": "Tango872005",
-  "licence": "CC0",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Haroon_Imtiaz_and_co-author_Zanbi_with_Lieutenant_Governor_of_Jammu_and_Kashmir,_Manoj_Sinha.jpg"
- },
- {
-  "id": "x-nc-mlas-demand-omar-cabinet-rejig-15-day-ultimatum--p2",
-  "articleId": "nc-mlas-demand-omar-cabinet-rejig-15-day-ultimatum--p2",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Haroon_Imtiaz_and_co-author_Zanbi_with_Lieutenant_Governor_of_Jammu_and_Kashmir%2C_Manoj_Sinha.jpg",
-  "credit": "Photo: Tango872005 / Wikimedia Commons",
-  "licence": "CC0",
-  "alt": "Jammu and Kashmir Lieutenant Governor Manoj Sinha (file photo)",
-  "alt_hi": "जम्मू-कश्मीर के उपराज्यपाल मनोज सिन्हा (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Haroon_Imtiaz_and_co-author_Zanbi_with_Lieutenant_Governor_of_Jammu_and_Kashmir,_Manoj_Sinha.jpg",
-  "composite": [
-   "cx-nc-mlas-demand-omar-cabinet-rejig-15-day-ultimatum--p2-0"
   ]
  },
  {

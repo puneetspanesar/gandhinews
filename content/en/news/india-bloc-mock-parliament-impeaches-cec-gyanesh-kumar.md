@@ -69,9 +69,6 @@ Opposition parties of the INDIA bloc staged a **symbolic impeachment of Chief El
 
 Former Lok Sabha Speaker Meira Kumar presided. Kharge, the Leader of the Opposition in the Rajya Sabha, moved the motion, and the 21 parties present adopted a **six-point resolution demanding Kumar's immediate removal**. "This assembly has been convened for the proceedings of the public impeachment against CEC Gyanesh Kumar," Meira Kumar said as she opened the sitting.
 
-```photo
-{"n":1,"subject":"Meira Kumar","caption":"Former Lok Sabha Speaker Meira Kumar presided over the opposition's mock Parliament on Saturday.","alt":"Former Lok Sabha Speaker Meira Kumar"}
-```
 
 ## The six charges
 

@@ -55,9 +55,6 @@ Nazir Gurezi will lead a **four-member delegation to Farooq Abdullah** with a me
 
 The unrest began on Tuesday, 27 October, when Lieutenant Governor Manoj Sinha swore in **four new ministers** at the Lok Bhavan Auditorium in Srinagar: Ali Mohammad Sagar, Mir Saifullah, Shameema Firdous and Altaf Kalo. Five sitting ministers had resigned before the reorganisation, which took the council of ministers to its maximum strength of nine.
 
-```photo
-{"n":2,"subject":"Manoj Sinha","caption":"Lieutenant Governor Manoj Sinha administered the oath to the four new ministers on 27 October.","alt":"Jammu and Kashmir Lieutenant Governor Manoj Sinha"}
-```
 
 Mubarak Gul, a **six-time MLA from Eidgah**, was left out. His supporters protested at the party headquarters at Nawa-i-Subh within hours of the ceremony, and Farooq Abdullah then made him the party's general secretary. Abdul Majeed Larmi, also passed over, was blunt. "This was not fair to me," he said. "I was dedicated, honest and loyal."
 
