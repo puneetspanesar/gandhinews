@@ -6,7 +6,8 @@ The site is Astro in the private repo puneetspanesar/gandhinews. Cloudflare Work
 
 ## Standing editorial rules (never break)
 - Byline is "From the editorial desk". Write in our own voice; never quote or credit media outlets to readers (sources stay in front matter only).
-- Key facts in keyPoints are wrapped in **bold** (they render bold red).
+- Key facts in keyPoints are wrapped in **bold** (they render bold red). In the body, most paragraphs bold the one phrase that carries the news (at most one per paragraph, never a whole sentence).
+- Besides the main photo, every story carries 2 or 3 visuals in the body (briefs 2, leads and explainers 3, editorials 1 or 2): mostly in-story photos (```photo blocks, each a different person or place from the story), with an infographic only when there is real data, a sequence or a comparison worth drawing. Never charts for the sake of it. Rules in newsroom/briefs/desk-addendum-v2.md.
 - No em dashes anywhere, English or Hindi.
 - Every story has its Hindi twin in content/hi/<same folder>/<same slug>.md.
 - Never repeat a photo file across stories (`npm run check:photos` must pass).
@@ -52,7 +53,7 @@ Fix any error (common: duplicate front matter keys, explainer compare block in t
 ```
 cd /home/claude/gandhinews/newsroom/scripts && python3 make_plan.py <tag>
 ```
-Use a fresh tag each run (e.g. `m17` for the morning of the 17th, `e17` for the evening). It writes plan.json and vq.json into gn-work and scripts/photo-queries-<tag>N.json, and prints the parts. Commit and push the query files, then trigger one finder run per part:
+Use a fresh tag each run (e.g. `m17` for the morning of the 17th, `e17` for the evening). The plan also holds every in-story ```photo block as its own single-panel entry `<story id>--p<n>`; they go through the same finding, picking, eye check, register and composite steps as main photos, and the same never-a-wrong-person rule applies. It writes plan.json and vq.json into gn-work and scripts/photo-queries-<tag>N.json, and prints the parts. Commit and push the query files, then trigger one finder run per part:
 ```
 gh api -X POST repos/puneetspanesar/gandhinews/actions/workflows/find-photos.yml/dispatches -f ref=main -f "inputs[part]=<part>"
 ```
@@ -65,6 +66,8 @@ $PY pick.py
 For panels still missing, write a second round of better queries (official forms like "Shri Rajnath Singh", plain city or building names, `||20` for big pools) into scripts/photo-queries-<tag>r.json with keys like `<tag>r0`, push, trigger, fetch into pcv<tag>r, and map each missing panel query to its new query texts in gn-work/extra.json: `{"Bhagwant Mann": ["Bhagwant Mann Punjab"]}`. Rerun `$PY pick.py`. One extra round is enough.
 
 Review: `$PY review_sheet.py picks`, then Read every ps*.jpg. For each story check every panel shows the named person or the actual place. Remove wrong panels by editing gn-work/picks.json (set the panel to null). Add the file name of every wrong-person or wrong-place pick (lower case, as in the URL, underscores) to newsroom/scripts/blocklist.txt so no later run picks it again. Common failures: a namesake (wrong person with the same surname), a group photo where the person is tiny, a signature or map instead of the person, a logo that is not the company, an unrelated building. When two or more people are in a photo and the crop could land on the wrong face, drop it unless a focus point fixes it. Then list every story still without a picture (no entry in content/photos.map.json and none in picks.json). For each, write two or three fallback queries (institution, place, concrete object, `||15`), run one more finder round, open the candidate sheets (`python3 sheet.py pcv<part> /home/claude/gn-work <tag>` then Read the jpgs), and choose by eye. Add choices by hand to picks.json using a candidate from the pools (fields q, dir, key, n, title, url (=url1600), page, licence, author, kind, what).
+
+In-story photos are different from main photos in one way: when one still has no correct picture after the fallback round, do NOT hold the story; delete that ```photo block from both language files instead (the story keeps its other visuals). If that leaves a story with no in-story visual at all, note it in the report.
 
 Alt text: `python3 register.py`. If it lists stories that need alt text (panels changed from the plan), write gn-work/alts-override.json `{"id": ["English alt", "Hindi alt"]}` naming who or what is actually shown, then run it again. Then:
 ```

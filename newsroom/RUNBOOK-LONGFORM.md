@@ -11,7 +11,7 @@ Same lock as RUNBOOK-HOURLY.md step 0, but if the lock is held, wait (check ever
 1. explained: 2 explainers (shape of content/en/explainer/at1-bonds-explained-yes-bank-supreme-court-ruling.md) on the biggest news of the window not yet explained. Check content/en/explainer first. Max 10 WebSearch calls.
 2. opinion: 2 editorials (shape of content/en/editorial/school-buildings-need-safety-audits-before-the-next-roof-falls.md) on issues of the window that have no editorial yet. Check content/en/editorial first. Max 8 WebSearch calls.
 3. data-and-fact-check: one fact check when a widely shared claim from the window can be checked against primary sources; update the trackers (content/data/bills.json, sc-cases.json, budget-promises.json, election-calendar.json, parliament-sessions.json and their Hindi twins) where the window changed them. Max 10 WebSearch calls.
-Then validate and commit as RUNBOOK.md step 1 says.
+Every piece bolds its key phrases and carries in-story visuals (explainers 3, editorials 1 or 2), as desk-addendum-v2.md says. Then validate and commit as RUNBOOK.md step 1 says.
 
 ## 2. Pictures
 RUNBOOK.md step 2 with tag `l<day><m|e>`. Explainers and editorials take a picture of the place, institution or object the piece is about when there is no single person; never a wrong person. Pieces still without a correct picture move to newsroom/held/ and are named in the report.

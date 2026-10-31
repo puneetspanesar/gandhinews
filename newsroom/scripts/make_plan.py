@@ -1,5 +1,6 @@
 """Build the picture plan for every story that has no photo yet.
-Reads hero.subjects / hero.suggested_source from each story's front matter.
+Reads hero.subjects / hero.suggested_source from each story's front matter, and every in-story
+```photo block (planned as "<story id>--p<n>", a single panel).
 Writes /home/claude/gn-work/plan.json, vq.json and scripts/photo-queries-<tag><n>.json (about 45 queries each).
 Usage: python3 make_plan.py <tag>      e.g. tag 'a' -> parts a0, a1, a2 ...
 Prints the part names to pass to find-photos.yml."""
@@ -12,9 +13,21 @@ PLACE = re.compile(r'\b(court|park|place|stadium|station|airport|port|building|h
 def fm(p):
     t = open(p).read().split('---')
     return yaml.safe_load(t[1]) if len(t) > 2 else {}
+BLOCK = re.compile(r"```photo\s*\n(.*?)\n```", re.S)
+def inline_photos(p):
+    """In-story ```photo blocks: [(n, subject)]."""
+    out = []
+    for m in BLOCK.finditer(open(p).read()):
+        try: d = json.loads(m.group(1))
+        except Exception: print('bad photo block in', os.path.basename(p)); continue
+        if d.get('n') and d.get('subject'): out.append((int(d['n']), d['subject']))
+    return out
 plan = {}
 for p in sorted(glob.glob(R + 'content/en/news/*.md') + glob.glob(R + 'content/en/explainer/*.md') + glob.glob(R + 'content/en/editorial/*.md')):
     sid = os.path.basename(p)[:-3]
+    for n, q in inline_photos(p):
+        if f'{sid}--p{n}' not in have:
+            plan[f'{sid}--p{n}'] = {'layout': 'single', 'panels': [{'q': q, 'what': q, 'kind': 'place' if PLACE.search(q) else 'person'}]}
     if sid in have: continue
     d = fm(p); h = d.get('hero') or {}
     subj = [s for s in (h.get('subjects') or []) if s][:2] or ([h['suggested_source']] if h.get('suggested_source') else [])

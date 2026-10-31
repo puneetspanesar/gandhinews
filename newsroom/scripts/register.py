@@ -6,6 +6,19 @@ import json, os, sys, yaml
 R = '/home/claude/gandhinews/'; W = '/home/claude/gn-work/'
 picks = json.load(open(W + 'picks.json')); plan = json.load(open(W + 'plan.json'))
 over = json.load(open(W + 'alts-override.json')) if os.path.exists(W + 'alts-override.json') else {}
+import re
+BLOCK = re.compile(r"```photo\s*\n(.*?)\n```", re.S)
+def inline_alt(lang, s):
+    """Alt text of in-story photo "<story>--p<n>" from that language's ```photo block."""
+    sid, n = s.rsplit('--p', 1)
+    for t in ['news', 'explainer', 'editorial']:
+        p = f'{R}content/{lang}/{t}/{sid}.md'
+        if not os.path.exists(p): continue
+        for m in BLOCK.finditer(open(p).read()):
+            try: d = json.loads(m.group(1))
+            except Exception: continue
+            if str(d.get('n')) == n: return d.get('alt')
+    return None
 def fm(lang, s):
     for t in ['news', 'explainer', 'editorial']:
         p = f'{R}content/{lang}/{t}/{s}.md'
@@ -17,6 +30,9 @@ for s, v in picks.items():
     v = [x for x in v if x]
     if not v or s in have: continue
     if s in over: en, hi = over[s]
+    elif '--p' in s and [x['q'] for x in v] == [p['q'] for p in plan[s]['panels']]:
+        en = inline_alt('en', s); hi = inline_alt('hi', s)
+        if not en or not hi: need.append(s); continue
     elif [x['q'] for x in v] == [p['q'] for p in plan[s]['panels']]:
         en = (fm('en', s).get('hero') or {}).get('alt'); hi = (fm('hi', s).get('hero') or {}).get('alt')
         if not en or not hi: need.append(s); continue

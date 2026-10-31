@@ -29,10 +29,10 @@ Launch THREE desk agents in ONE message (general-purpose, parallel), each prompt
 1. india: national politics, courts, states, policy, PIB, Parliament. 2 or 3 stories.
 2. world-business: world news with India angles, economy, markets, companies, RBI/SEBI. 2 or 3 stories. During market hours (9:15 to 15:30 IST, Monday to Friday, not NSE holidays) one of them is a market story when the market moved.
 3. sport-science: cricket first, other sport, science, tech, space, health, climate. 1 or 2 stories.
-Only genuinely new news from the window, or a real new development on an older story (new slug). Leads 400 to 650 words when the news deserves it; most hourly stories are briefs (220 to 380 words). Wait for all three, then validate and commit the stories exactly as RUNBOOK.md step 1 says. If fewer than 5 stories came back, launch one more agent for the gap before moving on.
+Only genuinely new news from the window, or a real new development on an older story (new slug). Leads 400 to 650 words when the news deserves it; most hourly stories are briefs (220 to 380 words). Every story bolds its key phrases in the body and carries its in-story visuals (briefs 2, leads 3), as desk-addendum-v2.md says. Wait for all three, then validate and commit the stories exactly as RUNBOOK.md step 1 says. If fewer than 5 stories came back, launch one more agent for the gap before moving on.
 
 ## 2. Pictures
-RUNBOOK.md step 2, with a fresh tag per run: `h<day><hour>` (e.g. `h0114` for 14:00 on the 1st). Small runs usually need one finder part plus one fallback round. A story still without a correct picture after the fallback round is NOT published: move both language files to newsroom/held/ (create it) and note it in the report; the next run tries again.
+RUNBOOK.md step 2, with a fresh tag per run: `h<day><hour>` (e.g. `h0114` for 14:00 on the 1st). Each story now brings 2 or 3 in-story photos as well as its main picture, so expect two or three finder parts. Check the in-story photos by eye exactly like main photos (right person, right place). Small runs usually need one fallback round. A story still without a correct picture after the fallback round is NOT published: move both language files to newsroom/held/ (create it) and note it in the report; the next run tries again.
 
 ## 3. Markets and data (content/data/markets.json)
 Format: newsroom/markets-format.md. Update every run:

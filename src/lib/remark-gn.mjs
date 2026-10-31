@@ -7,6 +7,22 @@ import { visit, SKIP } from 'unist-util-visit';
 import { renderChart, renderFacts, renderTimeline, renderInfographic, renderCompare } from './blocks.mjs';
 import { resolveHref } from './routes.mjs';
 import { iconSvg } from './icons.mjs';
+import fs from 'node:fs';
+import { esc } from './blocks.mjs';
+
+// In-story photos: ```photo {"n":1,"subject":"...","caption":"...","alt":"..."} looks up
+// content/photos.map.json under "<story id>--p<n>". A photo not found yet renders nothing.
+let PHOTO_MAP = null;
+const photoMap = () => (PHOTO_MAP ??= JSON.parse(fs.readFileSync(new URL('../../content/photos.map.json', import.meta.url), 'utf8')));
+function renderPhoto(d, id, lang) {
+  const f = photoMap()[`${id}--p${d.n}`];
+  if (!f) return '';
+  const alt = (lang === 'hi' ? f.alt_hi : f.alt) || d.alt || '';
+  const who = String(f.credit).replace(/^Photos?:\s*/, '').replace(/\s*\/\s*Wikimedia Commons$/, '');
+  const srcset = f.src800 && f.src800 !== f.src ? ` srcset="${f.src800} 640w, ${f.src} 1280w" sizes="(max-width: 700px) 100vw, 640px"` : '';
+  const cap = d.caption ? `<span>${esc(d.caption)}</span>` : '<span></span>';
+  return `<figure class="inph"><img src="${f.src}"${srcset} alt="${esc(alt)}" loading="lazy" decoding="async" width="${f.width}" height="${f.height}" /><figcaption>${cap}<a class="pcred" href="/photo-credits/#${f.id}">${esc(who)} / Wikimedia</a></figcaption></figure>`;
+}
 
 const SOURCE_RE = /^\s*(Sources?|स्रोत)\s*:\s*/;
 
@@ -33,7 +49,7 @@ export default function remarkGandhi() {
 
     // 1. Data blocks
     visit(tree, 'code', (node, index, parent) => {
-      if (!['chart', 'facts', 'timeline', 'infographic', 'compare'].includes(node.lang)) return;
+      if (!['chart', 'facts', 'timeline', 'infographic', 'compare', 'photo'].includes(node.lang)) return;
       let data;
       try {
         data = JSON.parse(node.value);
@@ -42,7 +58,7 @@ export default function remarkGandhi() {
       }
       let html;
       try {
-        html = node.lang === 'chart' ? renderChart(data, lang) : node.lang === 'facts' ? renderFacts(data, lang) : node.lang === 'infographic' ? renderInfographic(data, lang, (n) => iconSvg(n, 'i')) : node.lang === 'compare' ? renderCompare(data, lang, (n) => iconSvg(n, 'i')) : renderTimeline(data, lang);
+        html = node.lang === 'photo' ? renderPhoto(data, fm.id, lang) : node.lang === 'chart' ? renderChart(data, lang) : node.lang === 'facts' ? renderFacts(data, lang) : node.lang === 'infographic' ? renderInfographic(data, lang, (n) => iconSvg(n, 'i')) : node.lang === 'compare' ? renderCompare(data, lang, (n) => iconSvg(n, 'i')) : renderTimeline(data, lang);
       } catch (e) {
         throw new Error(`[gandhi] Could not render \`\`\`${node.lang} block in ${where}: ${e.message}`);
       }

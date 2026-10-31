@@ -15,7 +15,9 @@ for p in P:
         [Image.open(x).verify() for x in parts]
     except Exception:
         print('bad part', p['articleId']); continue
-    pid = 'v-' + p['articleId'][:60]
+    a = p['articleId']
+    # in-story photos '<story>--p<n>' keep their suffix so long slugs never collide
+    pid = 'v-' + (a[:60] if '--p' not in a else a.rsplit('--p', 1)[0][:55] + '-p' + a.rsplit('--p', 1)[1])
     f = FOCUS.get(p['articleId'])
     if isinstance(f, dict): compose(parts, f'public/photos/{pid}', f.get('focus'), f.get('weights'))
     else: compose(parts, f'public/photos/{pid}', f)

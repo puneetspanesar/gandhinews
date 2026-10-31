@@ -156,7 +156,7 @@ p,dd,li{text-wrap:pretty}
 .body ul{list-style:disc}.body ol{list-style:decimal}
 .body li{margin-bottom:6px}
 .body li::marker{color:var(--mut)}
-.body strong{font-weight:600;color:var(--ink)}
+.body strong{font-weight:700;color:var(--ink)}
 .body table:not(.sr-only){width:100%;border-collapse:collapse;margin:24px 0;font-size:14px}
 .body th{text-align:left;font-family:var(--f-head);font-weight:600;font-size:12px;color:var(--mut);padding:0 12px 8px 0;border-bottom:1px solid var(--ink)}
 .body td{padding:9px 12px 9px 0;border-bottom:1px solid var(--line);vertical-align:top}
@@ -975,3 +975,11 @@ footer .fwm{height:40px;color:#fff}
 .pager{display:flex;align-items:center;justify-content:space-between;gap:16px;margin:28px 0 8px;padding-top:16px;border-top:1px solid var(--ink);font-size:14px;font-weight:700}
 .pager a{font-family:var(--f-head);font-size:16px;color:var(--red);text-decoration:underline;text-underline-offset:3px}
 .pager span{color:var(--ink)}
+
+/* In-story photos */
+.body .inph{margin:28px 0}
+.body .inph img{display:block;width:100%;height:auto;aspect-ratio:3/2;object-fit:cover;border-radius:4px}
+.body .inph figcaption{display:flex;justify-content:space-between;gap:16px;font-size:12px;line-height:1.5;color:var(--ink);margin-top:6px}
+.body .inph figcaption>span{flex:1 1 auto;min-width:0}
+.body .inph .pcred{color:var(--ink);white-space:nowrap;text-decoration:none;flex:0 1 auto;min-width:0;overflow:hidden;text-overflow:ellipsis}
+@media(max-width:700px){.body .inph figcaption{flex-direction:column;gap:2px}.body .inph .pcred{white-space:normal;overflow-wrap:anywhere}}
