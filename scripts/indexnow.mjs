@@ -25,7 +25,7 @@ for (const lang of ['en', 'hi']) {
   }
 }
 const urlList = [...urls].slice(0, 10000);
-const r = await fetch('https://api.indexnow.org/indexnow', {
+const r = await fetch('https://www.bing.com/indexnow', {
   method: 'POST',
   headers: { 'content-type': 'application/json; charset=utf-8' },
   body: JSON.stringify({ host: HOST, key: KEY, keyLocation: `https://${HOST}/${KEY}.txt`, urlList }),

@@ -11,7 +11,8 @@
     "clean": "rm -rf .astro node_modules/.astro dist",
     "check:links": "node scripts/check-links.mjs",
     "photos": "node scripts/fetch-photos.mjs",
-    "check:photos": "node scripts/check-photos.mjs"
+    "check:photos": "node scripts/check-photos.mjs",
+    "indexnow": "NODE_USE_ENV_PROXY=1 NODE_EXTRA_CA_CERTS=${NODE_EXTRA_CA_CERTS:-/root/.ccr/ca-bundle.crt} node scripts/indexnow.mjs"
   },
   "dependencies": {
     "@astrojs/markdown-remark": "^7.3.2",
