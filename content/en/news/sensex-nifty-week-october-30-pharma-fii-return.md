@@ -87,7 +87,7 @@ The return came even as oil stayed expensive. Brent crude remained above $113 a 
 Not every stock joined in. Suzlon Energy **fell nearly 8% on Friday** to about ₹33.90 after cutting its guidance. Equitas Small Finance Bank shares dropped sharply after its managing director and chief executive resigned, and PSU bank and media shares were weak on the last day.
 
 ```photo
-{"n":3,"subject":"Suzlon Energy wind turbines","caption":"Suzlon Energy, the wind turbine maker, was among Friday's worst performers after it lowered its guidance.","alt":"Wind turbines built by Suzlon Energy"}
+{"n":3,"subject":"Suzlon Energy wind turbines","caption":"Suzlon Energy, the wind turbine maker, was among Friday's worst performers after it lowered its guidance.","alt":"Wind turbines in India"}
 ```
 
 ## What comes next

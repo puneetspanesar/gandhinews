@@ -58,9 +58,6 @@ Jio Platforms, the digital and telecom arm of Reliance Industries, made a strong
 
 At its high the stock was up about 27%. It closed near ₹1,418, close to the day's best level, valuing the company at **about ₹13 lakh crore**, or roughly $137 billion. That made Jio India's second most valuable listed company, behind its parent Reliance, and moved it past Bharti Airtel and HDFC Bank.
 
-```photo
-{"n":1,"subject":"Mukesh Ambani","caption":"Mukesh Ambani, Asia's richest person by Forbes's count, watched from the audience as Jio Platforms listed in Mumbai.","alt":"Mukesh Ambani"}
-```
 
 The listing caps India's **biggest share sale so far**. The ₹30,213 crore issue drew bids for 22.19 times the shares on offer. Jio plans to use up to $2.89 billion of the money raised to repay borrowings of its telecom unit, which serves more than 53 crore customers.
 

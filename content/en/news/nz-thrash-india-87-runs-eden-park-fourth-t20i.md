@@ -58,9 +58,6 @@ India never got close. They batted through their 20 overs but **finished on 172 
 
 The defeat does not change the outcome of the series. India sealed it in Wellington on Tuesday, when they **chased 199 in just 13.2 overs**, winning by six wickets with 40 balls to spare. That came after two close wins in Christchurch: a four-wicket chase of 226 with two balls left, and a four-wicket chase of 181 with one ball left.
 
-```photo
-{"n":1,"subject":"Mitchell Santner","caption":"Mitchell Santner, the New Zealand captain, whose side won for the first time in the series on Friday.","alt":"New Zealand captain Mitchell Santner"}
-```
 
 For Mitchell Santner's side, the win was a first of the series and a timely boost, with five one-day internationals against the same opponents still to come.
 

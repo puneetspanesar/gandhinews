@@ -50,9 +50,6 @@ The legislators want every minister who has completed two years in office replac
 
 Nazir Gurezi will lead a **four-member delegation to Farooq Abdullah** with a memorandum. He described Friday's gathering as a "friendly lunch".
 
-```photo
-{"n":1,"subject":"Farooq Abdullah","caption":"National Conference president Farooq Abdullah is due to receive the legislators' memorandum.","alt":"National Conference president Farooq Abdullah"}
-```
 
 ## An expansion that left seniors out
 

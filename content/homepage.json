@@ -1,15 +1,14 @@
 {
  "lead": {
-  "id": "cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam",
-  "chart": 1,
+  "id": "india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar",
   "overlay": {
    "kicker": {
-    "en": "Bay of Bengal, Monday morning",
-    "hi": "बंगाल की खाड़ी, सोमवार सुबह"
+    "en": "New Delhi, Saturday",
+    "hi": "नई दिल्ली, शनिवार"
    },
    "value": {
-    "en": "Arnab due ashore Wednesday",
-    "hi": "बुधवार को तट से टकराएगा अर्णब"
+    "en": "21 parties 'impeach' the CEC",
+    "hi": "21 दलों ने सीईसी पर चलाया 'महाभियोग'"
    },
    "text": {
     "en": "",
@@ -18,83 +17,138 @@
   },
   "dataBox": [
    {
-    "icon": "shield-warning",
+    "icon": "users-three",
     "color": "#cc0000",
     "value": {
-     "en": "140 km/h",
-     "hi": "140 किमी/घंटा"
+     "en": "21",
+     "hi": "21"
     },
     "label": {
-     "en": "gusts forecast at landfall",
-     "hi": "तट पार करते समय झोंकों का अनुमान"
+     "en": "INDIA bloc parties at the mock Parliament",
+     "hi": "नकली संसद में इंडिया गठबंधन के दल"
     }
    },
    {
-    "icon": "map-pin",
+    "icon": "scales",
     "color": "#8f0000",
     "value": {
-     "en": "28 Oct",
-     "hi": "28 अक्टूबर"
+     "en": "6 points",
+     "hi": "6 बिंदु"
     },
     "label": {
-     "en": "landfall between Bapatla and Visakhapatnam",
-     "hi": "बापटला और विशाखापत्तनम के बीच टकराव"
+     "en": "in the resolution seeking his removal",
+     "hi": "हटाने की मांग वाले प्रस्ताव में"
     }
    },
    {
-    "icon": "warning",
+    "icon": "megaphone",
     "color": "#0d0d0d",
     "value": {
-     "en": "5 districts",
-     "hi": "5 ज़िले"
+     "en": "Sun 1 Nov",
+     "hi": "रवि, 1 नवंबर"
     },
     "label": {
-     "en": "in south Odisha on red warning",
-     "hi": "दक्षिण ओडिशा में रेड वॉर्निंग पर"
+     "en": "bloc rally at Ramlila Maidan",
+     "hi": "रामलीला मैदान में गठबंधन की रैली"
     }
    },
    {
-    "icon": "users-three",
+    "icon": "bank",
     "color": "#6e6e6e",
     "value": {
-     "en": "26,768",
-     "hi": "26,768"
+     "en": "Special session",
+     "hi": "विशेष सत्र"
     },
     "label": {
-     "en": "expectant mothers tracked in Andhra",
-     "hi": "आंध्र में गर्भवती महिलाओं पर नज़र"
+     "en": "offered by Amit Shah on the charge",
+     "hi": "अमित शाह ने आरोप पर पेशकश की"
     }
    }
   ],
   "relatedBelow": [
-   "naidu-cyclone-arnab-review-zero-casualties-fishermen",
-   "puducherry-karaikal-dindigul-schools-shut-cyclone-signal"
+   "india-bloc-public-impeachment-cec-october-30-dilli-chalo",
+   "congress-ramlila-maidan-rally-november-1-police-noc"
   ],
   "relatedBeside": [
-   "trump-rules-out-iran-strike-today-qatar-mediators-tehran",
-   "lula-wins-fourth-term-brazil-runoff-flavio-bolsonaro",
-   "kharge-modi-father-remark-bjp-nationwide-protests",
-   "monday-open-brent-eases-us-futures-rise-infosys-test",
-   "harmanpreet-deepti-centuries-india-women-beat-zimbabwe-121-runs"
+   "sensex-nifty-week-october-30-pharma-fii-return",
+   "nc-mlas-demand-omar-cabinet-rejig-15-day-ultimatum",
+   "nz-thrash-india-87-runs-eden-park-fourth-t20i",
+   "jio-platforms-lists-21-per-cent-premium-1358",
+   "fed-holds-rates-3-75-4-two-dissent-hike"
   ],
   "live": {
    "title": {
-    "en": "Cyclone Arnab",
-    "hi": "चक्रवात अर्नब"
+    "en": "CEC row",
+    "hi": "सीईसी विवाद"
    }
   }
  },
  "briefing": {
   "items": [
    {
-    "link": "cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam",
+    "link": "india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar",
     "lead": {
-     "en": "Cyclone:",
-     "hi": "चक्रवात:"
+     "en": "CEC row:",
+     "hi": "सीईसी विवाद:"
     },
     "text": {
-     "en": "Bay system deepens; Arnab due to hit the Andhra coast on Wednesday.",
-     "hi": "खाड़ी का सिस्टम गहराया; अर्णब बुधवार को आंध्र तट से टकराएगा।"
+     "en": "21 INDIA bloc parties 'impeach' Gyanesh Kumar at a mock Parliament.",
+     "hi": "इंडिया गठबंधन के 21 दलों ने नकली संसद में ज्ञानेश कुमार पर 'महाभियोग' चलाया।"
+    }
+   },
+   {
+    "link": "nc-mlas-demand-omar-cabinet-rejig-15-day-ultimatum",
+    "lead": {
+     "en": "J&K:",
+     "hi": "जम्मू-कश्मीर:"
+    },
+    "text": {
+     "en": "NC legislators give a 15-day ultimatum for a fresh cabinet reshuffle.",
+     "hi": "एनसी विधायकों ने मंत्रिमंडल फेरबदल के लिए 15 दिन का अल्टीमेटम दिया।"
+    }
+   },
+   {
+    "link": "sensex-nifty-week-october-30-pharma-fii-return",
+    "lead": {
+     "en": "Markets:",
+     "hi": "बाज़ार:"
+    },
+    "text": {
+     "en": "Nifty back above 23,000; Sensex up 1.83% for the week.",
+     "hi": "निफ्टी फिर 23,000 के पार; सेंसेक्स हफ़्ते में 1.83% चढ़ा।"
+    }
+   },
+   {
+    "link": "nz-thrash-india-87-runs-eden-park-fourth-t20i",
+    "lead": {
+     "en": "Cricket:",
+     "hi": "क्रिकेट:"
+    },
+    "text": {
+     "en": "New Zealand beat India by 87 runs at Eden Park; India lead 3-1.",
+     "hi": "ईडन पार्क में न्यूजीलैंड ने भारत को 87 रन से हराया; भारत 3-1 से आगे।"
+    }
+   },
+   {
+    "link": "jio-platforms-lists-21-per-cent-premium-1358",
+    "lead": {
+     "en": "Jio:",
+     "hi": "जियो:"
+    },
+    "text": {
+     "en": "Jio Platforms lists 21% above issue price, now India's No. 2 by value.",
+     "hi": "जियो प्लेटफॉर्म्स 21% प्रीमियम पर लिस्ट, मूल्य में देश में दूसरे नंबर पर।"
+    }
+   },
+   {
+    "link": "fed-holds-rates-3-75-4-two-dissent-hike",
+    "lead": {
+     "en": "Fed:",
+     "hi": "फेड:"
+    },
+    "text": {
+     "en": "US Fed holds at 3.75% to 4%; two members vote for a hike.",
+     "hi": "अमेरिकी फेड ने दरें 3.75-4% पर रखीं; दो सदस्य बढ़ोतरी के पक्ष में।"
     }
    },
    {
@@ -117,61 +171,6 @@
     "text": {
      "en": "BJP plans protests across states over Kharge's Patna jibe at Modi.",
      "hi": "मोदी पर खड़गे की पटना टिप्पणी के ख़िलाफ़ भाजपा का देशभर में प्रदर्शन।"
-    }
-   },
-   {
-    "link": "lula-wins-fourth-term-brazil-runoff-flavio-bolsonaro",
-    "lead": {
-     "en": "Brazil:",
-     "hi": "ब्राज़ील:"
-    },
-    "text": {
-     "en": "Lula wins a record fourth term in a tight runoff.",
-     "hi": "कड़े मुक़ाबले में लूला ने रिकॉर्ड चौथा कार्यकाल जीता।"
-    }
-   },
-   {
-    "link": "vucic-concedes-serbia-student-list-wins-majority",
-    "lead": {
-     "en": "Serbia:",
-     "hi": "सर्बिया:"
-    },
-    "text": {
-     "en": "Vučić concedes as the student-led list heads for a majority.",
-     "hi": "छात्रों की सूची बहुमत की ओर, वुचिच ने हार मानी।"
-    }
-   },
-   {
-    "link": "monday-open-brent-eases-us-futures-rise-infosys-test",
-    "lead": {
-     "en": "Markets:",
-     "hi": "बाज़ार:"
-    },
-    "text": {
-     "en": "Brent eases and US futures rise before Monday's open.",
-     "hi": "सोमवार के कारोबार से पहले ब्रेंट नरम, अमेरिकी फ़्यूचर्स में बढ़त।"
-    }
-   },
-   {
-    "link": "harmanpreet-deepti-centuries-india-women-beat-zimbabwe-121-runs",
-    "lead": {
-     "en": "Cricket:",
-     "hi": "क्रिकेट:"
-    },
-    "text": {
-     "en": "Harmanpreet and Deepti hit hundreds as India women go 2-0 up.",
-     "hi": "हरमनप्रीत और दीप्ति के शतक, भारतीय महिला टीम 2-0 से आगे।"
-    }
-   },
-   {
-    "link": "sindhu-loses-french-open-final-an-se-young-three-games",
-    "lead": {
-     "en": "Badminton:",
-     "hi": "बैडमिंटन:"
-    },
-    "text": {
-     "en": "Sindhu loses the French Open final to An Se Young.",
-     "hi": "फ़्रेंच ओपन फ़ाइनल में सिंधु को आन से यंग ने हराया।"
     }
    }
   ]
@@ -239,18 +238,18 @@
  },
  "topStories": {
   "big": {
-   "id": "trump-rules-out-iran-strike-today-qatar-mediators-tehran",
+   "id": "sensex-nifty-week-october-30-pharma-fii-return",
    "also": [
-    "centcom-cooper-hormuz-3000-ships-mines-cleared",
-    "riyadh-airport-reopens-houthis-fire-again-us-embassy-curbs"
+    "jio-platforms-lists-21-per-cent-premium-1358",
+    "fed-holds-rates-3-75-4-two-dissent-hike"
    ]
   },
   "list": [
-   "kharge-modi-father-remark-bjp-nationwide-protests",
-   "kaul-memoir-chandrachud-pre-approval-collegium",
-   "lula-wins-fourth-term-brazil-runoff-flavio-bolsonaro",
-   "murmu-assent-frontier-nagaland-territorial-authority-bill",
-   "vucic-concedes-serbia-student-list-wins-majority"
+   "nc-mlas-demand-omar-cabinet-rejig-15-day-ultimatum",
+   "nz-thrash-india-87-runs-eden-park-fourth-t20i",
+   "trump-rules-out-iran-strike-today-qatar-mediators-tehran",
+   "centcom-cooper-hormuz-3000-ships-mines-cleared",
+   "riyadh-airport-reopens-houthis-fire-again-us-embassy-curbs"
   ]
  },
  "startHere": [
@@ -426,15 +425,15 @@
     "article": "bypoll-results-ruling-parties-win-all-six-seats"
    },
    "list": [
+    "india-bloc-public-impeachment-cec-october-30-dilli-chalo",
     "courts-today-vijayan-appeal-imran-khan-notice-supreme-court-benches",
-    "congress-mumbai-cp-joshi-gaikwad-sir-40-lakh-voters",
-    "ktr-telangana-atm-rahul-gandhi-420-promises"
+    "congress-mumbai-cp-joshi-gaikwad-sir-40-lakh-voters"
    ],
    "lead": "kaul-memoir-chandrachud-pre-approval-collegium"
   },
   {
    "section": "economy",
-   "lead": "monday-open-brent-eases-us-futures-rise-infosys-test",
+   "lead": "sensex-nifty-week-october-30-pharma-fii-return",
    "module": {
     "type": "markets",
     "indicators": [
@@ -445,19 +444,19 @@
     ]
    },
    "list": [
+    "jio-platforms-lists-21-per-cent-premium-1358",
+    "monday-open-brent-eases-us-futures-rise-infosys-test",
     "results-today-mankind-pharma-kfin-sona-blw-october-26",
-    "eaaa-india-alternatives-ipo-opens-360-crore-anchor-book",
-    "iob-rbi-inspection-risk-weights-capital-ratio-19-06",
-    "gold-below-4000-first-time-since-july-asia-monday"
+    "eaaa-india-alternatives-ipo-opens-360-crore-anchor-book"
    ]
   },
   {
    "section": "states",
-   "lead": "naidu-cyclone-arnab-review-zero-casualties-fishermen",
+   "lead": "nc-mlas-demand-omar-cabinet-rejig-15-day-ultimatum",
    "list": [
+    "naidu-cyclone-arnab-review-zero-casualties-fishermen",
     "delhi-rain-no-fix-pollution-experts-grap-stage-one",
-    "patna-chhath-ghats-19-crore-231-ghats-sita-sahu",
-    "gujarat-paatil-water-for-power-mp-maharashtra-rajasthan"
+    "patna-chhath-ghats-19-crore-231-ghats-sita-sahu"
    ]
   },
   {
@@ -485,11 +484,11 @@
  "desks": [
   {
    "section": "world",
-   "lead": "netanyahu-zamir-clash-report-iran-warning-election-eve",
+   "lead": "fed-holds-rates-3-75-4-two-dissent-hike",
    "list": [
+    "netanyahu-zamir-clash-report-iran-warning-election-eve",
     "machado-returns-venezuela-from-exile",
-    "nepal-acknowledges-india-border-encroachment-no-details",
-    "bangladesh-per-capita-gdp-overtakes-india-imf-2026"
+    "nepal-acknowledges-india-border-encroachment-no-details"
    ]
   },
   {
@@ -503,74 +502,38 @@
   },
   {
    "section": "sports",
-   "lead": "harmanpreet-deepti-centuries-india-women-beat-zimbabwe-121-runs",
+   "lead": "nz-thrash-india-87-runs-eden-park-fourth-t20i",
    "list": [
+    "harmanpreet-deepti-centuries-india-women-beat-zimbabwe-121-runs",
     "sindhu-loses-french-open-final-an-se-young-three-games",
-    "antonelli-wins-austin-grand-prix-brink-of-title-mexico",
-    "mbappe-double-real-madrid-win-clasico-barcelona-first-defeat"
+    "antonelli-wins-austin-grand-prix-brink-of-title-mexico"
    ]
   }
  ],
  "weekAhead": [
   {
-   "icon": "users-three",
-   "date": {
-    "en": "Mon 26 Oct",
-    "hi": "सोम, 26 अक्टूबर"
-   },
-   "text": {
-    "en": "BRICS Parliamentary Forum opens in Delhi; EAAA IPO opens.",
-    "hi": "दिल्ली में ब्रिक्स संसदीय मंच की शुरुआत; ईएएए का आईपीओ खुला।"
-   },
-   "link": "birla-sameh-shoukry-brics-parliamentary-forum-opens-monday"
-  },
-  {
-   "icon": "handshake",
-   "date": {
-    "en": "Tue 27 Oct",
-    "hi": "मंगल, 27 अक्टूबर"
-   },
-   "text": {
-    "en": "Modi holds talks with Liechtenstein's Hereditary Prince Alois.",
-    "hi": "मोदी की लिकटेंस्टाइन के वंशानुगत राजकुमार अलॉइस से वार्ता।"
-   },
-   "link": "liechtenstein-prince-alois-state-visit-india-mumbai-vadodara"
-  },
-  {
-   "icon": "warning",
-   "date": {
-    "en": "Wed 28 Oct",
-    "hi": "बुध, 28 अक्टूबर"
-   },
-   "text": {
-    "en": "Cyclone Arnab due to cross the Andhra coast.",
-    "hi": "चक्रवात अर्णब के आंध्र तट पार करने का अनुमान।"
-   },
-   "link": "cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam"
-  },
-  {
-   "icon": "rocket",
-   "date": {
-    "en": "Fri 30 Oct",
-    "hi": "शुक्र, 30 अक्टूबर"
-   },
-   "text": {
-    "en": "ISRO's GSLV to launch the NVS-03 navigation satellite.",
-    "hi": "इसरो का जीएसएलवी नेविगेशन उपग्रह एनवीएस-03 लॉन्च करेगा।"
-   },
-   "link": "china-long-march-8a-satnet-wenchang-nvs-03-launch-week"
-  },
-  {
    "icon": "megaphone",
    "date": {
-    "en": "Fri 30 Oct",
-    "hi": "शुक्र, 30 अक्टूबर"
+    "en": "Sun 1 Nov",
+    "hi": "रवि, 1 नवंबर"
    },
    "text": {
-    "en": "INDIA bloc's 'public impeachment' of the CEC.",
-    "hi": "इंडिया गठबंधन का सीईसी के ख़िलाफ़ \"जन महाभियोग\"।"
+    "en": "INDIA bloc rally at Ramlila Maidan on the CEC row.",
+    "hi": "सीईसी विवाद पर रामलीला मैदान में इंडिया गठबंधन की रैली।"
    },
-   "link": "india-bloc-public-impeachment-cec-october-30-dilli-chalo"
+   "link": "india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar"
+  },
+  {
+   "icon": "trophy",
+   "date": {
+    "en": "Sun 1 Nov",
+    "hi": "रवि, 1 नवंबर"
+   },
+   "text": {
+    "en": "Fifth and final T20I, New Zealand v India, in Hamilton.",
+    "hi": "हैमिल्टन में न्यूजीलैंड-भारत का पांचवां और आखिरी टी20 मैच।"
+   },
+   "link": "nz-thrash-india-87-runs-eden-park-fourth-t20i"
   }
  ]
 }

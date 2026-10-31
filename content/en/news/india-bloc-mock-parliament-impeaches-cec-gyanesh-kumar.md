@@ -85,9 +85,6 @@ Kharge said the right to vote under Article 326 was under threat. He recalled th
 
 Rahul Gandhi, the Leader of the Opposition in the Lok Sabha, gave the concluding remarks and said the bloc had been "left with no choice". He claimed 13.3 crore voters, about 15% of the electorate, had been deleted, more than the margins in the 2024 Lok Sabha election, and warned that those responsible would be punished.
 
-```photo
-{"n":2,"subject":"Rahul Gandhi","caption":"Rahul Gandhi, Leader of the Opposition in the Lok Sabha, gave the closing speech before the resolution was adopted.","alt":"Congress leader Rahul Gandhi"}
-```
 
 Sonia Gandhi, Priyanka Gandhi Vadra, Jharkhand Chief Minister Hemant Soren, Mehbooba Mufti and Trinamool Congress MPs Derek O'Brien and Mahua Moitra were among those present. Trinamool's Sagarika Ghose said the 2026 Bengal election had been "stolen". Shiv Sena (UBT) MP Arvind Sawant said Kumar had **not handed over CCTV footage**, and CPI(M) MP John Brittas said he had to attend two hearings to prove his own right to vote. IUML's E T Mohammed Basheer called Kumar a "manipulator". Voters whose names had been struck off also spoke.
 
@@ -97,9 +94,6 @@ The Election Commission had not publicly responded by Saturday evening. The even
 
 On the eve of the event, Amit Shah told the BJP's Uttar Pradesh working committee in Lucknow that he was **willing to convene a special session of Parliament** so the opposition could debate its vote theft charge there. "I am ready to call a special session... But Rahul Baba will never agree," he said, calling the allegations against the Commission baseless and accusing Rahul Gandhi and Akhilesh Yadav of wanting drama on the streets.
 
-```photo
-{"n":3,"subject":"Amit Shah","caption":"Home Minister Amit Shah offered on Friday to call a special session of Parliament on the opposition's charges.","alt":"Union Home Minister Amit Shah"}
-```
 
 The BJP said on Saturday the opposition was **making a mockery of Parliament**. "Kharge ji, by repeatedly telling lies, you cannot prove Rahul Gandhi's claims to be true," BJP MP Sambit Patra said. Party spokesperson Sudhanshu Trivedi pointed to a new World Bank poverty estimate. "The World Bank's hard statistics have in a way mocked their mock parliament," he said.
 
