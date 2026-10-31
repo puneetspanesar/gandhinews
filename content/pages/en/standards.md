@@ -40,7 +40,7 @@ We use photos only with permission or under a licence that allows it, and we cre
 
 ## AI
 
-Our stories are produced by an AI-assisted editorial desk working to these standards. The Editor-in-Chief reviews published stories and corrects them where needed. Read [how we use AI](/ai-policy/).
+We use AI tools for research, drafting and translation, and everything we publish is held to these standards. Read [how we use AI](/ai-policy/).
 
 ## Corrections
 
