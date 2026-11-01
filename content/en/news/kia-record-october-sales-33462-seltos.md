@@ -45,10 +45,6 @@ Kia India sold **33,462 vehicles in October**, the most it has ever dispatched t
 
 It is the carmaker's **second record month in a row**. September's 32,017 units had been the previous high, and October beat it by a further 1,445 cars as festive buying ran on after Dussehra.
 
-```photo
-{"n":1,"subject":"Kia Sonet","caption":"The Sonet compact SUV is, with the Seltos, one of the two models carrying most of Kia's volume in India.","alt":"A Kia Sonet compact SUV"}
-```
-
 ## The Seltos does the heavy lifting
 
 The new-generation Seltos, launched in January, **sold more than 13,000 units**, close to 40% of everything Kia sold in the month. It has averaged over 10,000 a month since its launch, making it the backbone of the brand's run this year.
