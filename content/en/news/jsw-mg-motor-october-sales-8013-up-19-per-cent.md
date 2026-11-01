@@ -17,7 +17,7 @@ hero:
   need: "The MG Windsor EV, JSW MG Motor India's electric crossover"
   suggested_source: "MG Windsor EV"
   subjects: ["MG Windsor EV"]
-  alt: "An MG Windsor electric car"
+  alt: "An MG Hector SUV"
   overlay:
     value: "MG up 19% in October"
 related: [kia-record-october-sales-33462-seltos, hyundai-record-october-sales-82299-venue, electric-two-wheeler-registrations-october-2026-tvs-leads-48-per-cent]

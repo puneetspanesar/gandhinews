@@ -52,10 +52,6 @@ Mamata Banerjee brought a nursery rhyme to Ramlila Maidan on Sunday afternoon. A
 
 "Vote-chori yes papa, loktantra chori yes papa," she said, casting the CEC as the obedient child of the ruling party. Vote theft and the theft of democracy, she said, were being carried out with the BJP's blessing.
 
-```photo
-{"n":1,"subject":"Gyanesh Kumar","caption":"Chief Election Commissioner Gyanesh Kumar, whose removal the INDIA bloc demanded from the Ramlila Maidan stage.","alt":"Chief Election Commissioner Gyanesh Kumar"}
-```
-
 ## 'Bengal is suffering'
 
 Banerjee kept her sharpest words for the Special Intensive Revision of voter lists. She said **the people of West Bengal were being treated unjustly** and were facing hardship because of the exercise, and that her party would not back down. She would not surrender under pressure, she said, whatever the personal cost.

@@ -65,8 +65,4 @@ Atul Sood, senior vice-president for sales and marketing at Kia India, put the r
 
 From January to October, Kia sold **2,86,470 vehicles**, up 21.3% on the same months of 2025. That is already 6,184 more than the 2,80,286 it sold in the whole of last year, with two months still to go.
 
-```photo
-{"n":3,"subject":"Kia Motors Anantapur plant","caption":"Kia's factory at Penukonda in Anantapur district, Andhra Pradesh, where its India cars are built.","alt":"Kia's car plant in Anantapur, Andhra Pradesh"}
-```
-
 The numbers come on a day when Hyundai, Maruti Suzuki and Mahindra also reported record October numbers, as festive demand kept showrooms busy across the industry.

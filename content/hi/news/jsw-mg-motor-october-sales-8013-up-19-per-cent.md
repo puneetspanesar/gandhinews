@@ -18,7 +18,7 @@ hero:
   need: "जेएसडब्ल्यू एमजी मोटर इंडिया की इलेक्ट्रिक कार एमजी विंडसर ईवी"
   suggested_source: "MG Windsor EV"
   subjects: ["MG Windsor EV"]
-  alt: "एमजी विंडसर इलेक्ट्रिक कार"
+  alt: "एमजी हेक्टर एसयूवी"
   overlay:
     value: "अक्टूबर में एमजी 19% ऊपर"
 related: [kia-record-october-sales-33462-seltos, hyundai-record-october-sales-82299-venue, electric-two-wheeler-registrations-october-2026-tvs-leads-48-per-cent]
