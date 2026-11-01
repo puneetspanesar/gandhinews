@@ -16,8 +16,8 @@ keyPoints:
 hero:
   need: "Two-panel split: New Zealand captain Mitchell Santner and India captain Shreyas Iyer"
   suggested_source: "Mitchell Santner"
-  subjects: ["Mitchell Santner", "Shreyas Iyer"]
-  alt: "New Zealand captain Mitchell Santner and India captain Shreyas Iyer"
+  subjects: ["Bhuvneshwar Kumar", "Shreyas Iyer"]
+  alt: "India pacer Bhuvneshwar Kumar and India captain Shreyas Iyer"
   overlay:
     value: "Santner wins toss, India bat first"
 related: [india-new-zealand-fifth-t20i-hamilton-preview, nz-thrash-india-87-runs-eden-park-fourth-t20i]

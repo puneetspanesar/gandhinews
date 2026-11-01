@@ -52,13 +52,17 @@ The INDIA bloc's march on Ramlila Maidan got under way around midday on Sunday a
 
 Congress president Mallikarjun Kharge, Lok Sabha Leader of the Opposition Rahul Gandhi, Priyanka Gandhi Vadra and Samajwadi Party chief Akhilesh Yadav travelled in open buses. West Bengal Chief Minister Mamata Banerjee, Jharkhand Chief Minister Hemant Soren, Telangana Chief Minister Revanth Reddy and RJD leader Tejashwi Yadav were among the leaders expected at the ground, where **thousands of supporters** had gathered under banners reading "Vote Bachao, Desh Bachao".
 
-```photo {"n":1,"subject":"Ramlila Maidan","caption":"Ramlila Maidan in central Delhi, where the INDIA bloc gathered to demand the Chief Election Commissioner's resignation.","alt":"Ramlila Maidan, New Delhi"}```
+```photo
+{"n":1,"subject":"Ramlila Maidan","caption":"Ramlila Maidan in central Delhi, where the INDIA bloc gathered to demand the Chief Election Commissioner's resignation.","alt":"Ramlila Maidan, New Delhi"}
+```
 
 Congress MP Imran Pratapgarhi asked the crowd: "Why is the BJP so worried about this rally?" He answered his own question: "The entire BJP is scared of this rally." He claimed there was **anger against Gyanesh Kumar** across the country.
 
 Punjab Congress chief and MP Amarinder Singh Raja Warring said: "The entire government is focused on shielding Gyanesh Kumar." He also took on the BJP's decision to mark the 1984 anti-Sikh riots with a march of its own on the same day, saying the party had been **in power for 12 years without delivering justice** and asking why it raised the issue only when the Congress held a rally.
 
-```photo {"n":2,"subject":"Tilak Nagar metro station","caption":"Tilak Nagar in west Delhi, where the BJP's march on the 1984 anti-Sikh riots was to end.","alt":"Tilak Nagar metro station, West Delhi"}```
+```photo
+{"n":2,"subject":"Tilak Nagar metro station","caption":"Tilak Nagar in west Delhi, where the BJP's march on the 1984 anti-Sikh riots was to end.","alt":"Tilak Nagar metro station, West Delhi"}
+```
 
 That counter-march, from the Hari Nagar bus depot to Tilak Nagar metro station, was organised with Union minister Hardeep Singh Puri and Delhi Chief Minister Rekha Gupta among the leaders named. The BJP has accused the Congress of **holding a political rally on the anniversary** of the violence.
 

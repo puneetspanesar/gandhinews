@@ -17,8 +17,8 @@ keyPoints:
 hero:
   need: "दो हिस्सों वाली तस्वीर: न्यूजीलैंड के कप्तान मिचेल सैंटनर और भारत के कप्तान श्रेयस अय्यर"
   suggested_source: "Mitchell Santner"
-  subjects: ["Mitchell Santner", "Shreyas Iyer"]
-  alt: "न्यूजीलैंड के कप्तान मिचेल सैंटनर और भारत के कप्तान श्रेयस अय्यर"
+  subjects: ["Bhuvneshwar Kumar", "Shreyas Iyer"]
+  alt: "भारत के तेज गेंदबाज भुवनेश्वर कुमार और भारत के कप्तान श्रेयस अय्यर"
   overlay:
     value: "सैंटनर ने जीता टॉस, भारत पहले बल्लेबाजी को"
 related: [india-new-zealand-fifth-t20i-hamilton-preview, nz-thrash-india-87-runs-eden-park-fourth-t20i]
