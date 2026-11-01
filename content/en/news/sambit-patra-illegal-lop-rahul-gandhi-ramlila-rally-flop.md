@@ -53,9 +53,6 @@ The BJP hit back at the INDIA bloc's Ramlila Maidan rally on Sunday evening, wit
 
 "If the 2024 election was illegal, then Rahul Gandhi is also an illegal Leader of Opposition, and all his MPs are illegal," said Patra, the Lok Sabha MP from Puri, at a press conference in New Delhi held soon after the opposition march ended.
 
-```photo
-{"n":1,"subject":"Ramlila Maidan","caption":"Ramlila Maidan in central Delhi, where the INDIA bloc held its rally against Chief Election Commissioner Gyanesh Kumar on Sunday.","alt":"Ramlila Maidan, New Delhi"}
-```
 
 At the rally, Rahul Gandhi had repeated his charge that elections, the 2024 Lok Sabha polls among them, had been manipulated. "Without Gyanesh Kumar, neither Narendra Modi would have become Prime Minister nor Amit Shah would have become Home Minister," he told the crowd.
 
@@ -67,9 +64,6 @@ He also pointed out that **Gyanesh Kumar was not Chief Election Commissioner** w
 
 Patra called the rally a flop show and "nothing but a spectacle of chaos". The Congress had spoken of 10 lakh people, he said, but by his count **5,000 to 7,000 of the 28,000 chairs** were empty between 3:30 and 4 pm, and about 40 per cent of the ground was vacant.
 
-```photo
-{"n":2,"subject":"Gyanesh Kumar","caption":"Chief Election Commissioner Gyanesh Kumar, whose removal the opposition demanded at the rally; Patra said he was not in office during the 2024 polls.","alt":"Chief Election Commissioner Gyanesh Kumar"}
-```
 
 He said the opposition had failed to draw the crowd it promised even after bringing many parties together, and ended on a line about the country's democracy. "This India belongs to the people of India," he said, adding that it was a democracy in which a tea seller can become Prime Minister.
 
