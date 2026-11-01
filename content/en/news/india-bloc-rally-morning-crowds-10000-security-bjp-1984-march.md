@@ -55,10 +55,6 @@ People from Punjab, Rajasthan, Himachal Pradesh and Uttarakhand gathered from ea
 
 Baljinder Singh, who came from Firozpur, said vehicles from Punjab had been stopped in Haryana and that many supporters were stuck overnight. He said the BJP had "no option other than to make Gyanesh Kumar resign." Madanpal Singh, secretary of the Uttarakhand Congress, said the crowd would leave **"only after the CEC resigns."**
 
-```photo
-{"n":1,"subject":"Himachal Bhawan, New Delhi","caption":"Himachal Bhawan in central Delhi, where supporters from the hill state gathered early on Sunday before walking to Ramlila Maidan.","alt":"Himachal Bhawan in New Delhi"}
-```
-
 ## What Congress leaders said
 
 Congress MP Sukhdeo Bhagat said the fight was about saving an institution, and that those responsible should resign on their own. "The credibility of our electoral process has been completely destroyed," he said, calling the rally **"the voice of the people."**
@@ -81,6 +77,3 @@ INDIA bloc MPs are due to meet at the Constitution Club at 11 am and march from 
 
 Across town, the BJP is preparing **a march on the 1984 anti-Sikh riots**, held with members of the Sikh community as a counter to the opposition's show of strength. It sets off at 11:30 am from Hari Nagar bus depot to Tilak Nagar metro station, led by Union minister Hardeep Singh Puri, Chief Minister Rekha Gupta, Manjinder Singh Sirsa and MP Bansuri Swaraj. Jail Road between Lajwanti Chowk and Tilak Nagar may be shut from 9 am to 3 pm.
 
-```photo
-{"n":3,"subject":"Hardeep Singh Puri","caption":"Union minister Hardeep Singh Puri, who is leading the BJP's march from Hari Nagar to Tilak Nagar.","alt":"Union minister Hardeep Singh Puri"}
-```

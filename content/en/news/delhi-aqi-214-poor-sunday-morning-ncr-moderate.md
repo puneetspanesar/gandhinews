@@ -49,8 +49,4 @@ The board's scale counts 201 to 300 as 'poor', a level that **can cause breathin
 
 Across the country, the worst air was in **Khanna in Punjab, at 320**, the only city in the 'very poor' range. Baghpat in Uttar Pradesh followed at 300, then Kaithal at 274 and Ambala at 257, both in Haryana, and Gajraula in Uttar Pradesh at 253. The cleanest air was in Gangtok, at 15, and Aizawl, at 17.
 
-```photo
-{"n":2,"subject":"Khanna, Punjab","caption":"Khanna in Punjab's Ludhiana district, which recorded the country's worst air at 7 am on Sunday.","alt":"The town of Khanna in Punjab"}
-```
-
 From Sunday, vehicles registered outside Delhi that meet **BS-IV standards or older** cannot enter the city until 31 January, offices work at half their physical strength and parking charges at authorised lots are doubled. The measures are meant to hold the line through the worst of the winter smog season.

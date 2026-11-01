@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "india-bloc-ramlila-maidan-rally-today-preview",
+    "id": "india-bloc-rally-morning-crowds-10000-security-bjp-1984-march",
     "overlay": {
       "kicker": {
         "en": "New Delhi, Sunday",
         "hi": "नई दिल्ली, रविवार"
       },
       "value": {
-        "en": "Chalo Dilli day",
-        "hi": "'चलो दिल्ली' का दिन"
+        "en": "Crowds gather",
+        "hi": "भीड़ जुटी"
       },
       "text": {
         "en": "",
@@ -29,52 +29,52 @@
         }
       },
       {
-        "icon": "person-simple-run",
+        "icon": "police-car",
         "color": "#8f0000",
+        "value": {
+          "en": "10,000",
+          "hi": "10,000"
+        },
+        "label": {
+          "en": "police and paramilitary on duty",
+          "hi": "पुलिस और अर्धसैनिक बल तैनात"
+        }
+      },
+      {
+        "icon": "megaphone",
+        "color": "#0d0d0d",
+        "value": {
+          "en": "11:30 am",
+          "hi": "सुबह 11:30"
+        },
+        "label": {
+          "en": "BJP 1984 march from Hari Nagar",
+          "hi": "हरि नगर से भाजपा का 1984 मार्च"
+        }
+      },
+      {
+        "icon": "person-simple-run",
+        "color": "#6e6e6e",
         "value": {
           "en": "Noon",
           "hi": "दोपहर 12 बजे"
         },
         "label": {
-          "en": "march from Minto Road, no application filed",
-          "hi": "मिंटो रोड से मार्च, कोई आवेदन नहीं"
-        }
-      },
-      {
-        "icon": "police-car",
-        "color": "#0d0d0d",
-        "value": {
-          "en": "4,000+",
-          "hi": "4,000+"
-        },
-        "label": {
-          "en": "police personnel on duty",
-          "hi": "पुलिसकर्मी तैनात"
-        }
-      },
-      {
-        "icon": "megaphone",
-        "color": "#6e6e6e",
-        "value": {
-          "en": "11 am",
-          "hi": "सुबह 11 बजे"
-        },
-        "label": {
-          "en": "BJP counter march in Hari Nagar",
-          "hi": "हरि नगर में भाजपा का जवाबी मार्च"
+          "en": "march from Minto Road, no police nod",
+          "hi": "मिंटो रोड से मार्च, पुलिस अनुमति नहीं"
         }
       }
     ],
     "relatedBelow": [
-      "india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar",
-      "delhi-pollution-curbs-bs-iv-ban-50-per-cent-office-from-today"
+      "india-bloc-ramlila-maidan-rally-today-preview",
+      "india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar"
     ],
     "relatedBeside": [
+      "delhi-aqi-214-poor-sunday-morning-ncr-moderate",
+      "vande-bharat-sleeper-bengaluru-mumbai-vaishnaw-flags-off-today",
+      "hyundai-record-october-sales-82299-venue",
       "modi-foundation-day-greetings-haryana-mp-kerala-cms-reply",
-      "haryana-60-murmu-kurukshetra-haryana-day",
-      "mp-71st-foundation-day-rajyotsav-bhopal-mohan-yadav",
-      "modi-chhattisgarh-foundation-day-naxalism-roots-sai-vajpayee",
-      "kerala-turns-70-festival-kerala-satheesan-nishagandhi"
+      "haryana-60-murmu-kurukshetra-haryana-day"
     ],
     "live": {
       "title": {
@@ -85,6 +85,61 @@
   },
   "briefing": {
     "items": [
+      {
+        "link": "india-bloc-rally-morning-crowds-10000-security-bjp-1984-march",
+        "lead": {
+          "en": "CEC row:",
+          "hi": "सीईसी विवाद:"
+        },
+        "text": {
+          "en": "Crowds fill Ramlila Maidan; 10,000 security personnel on duty.",
+          "hi": "रामलीला मैदान में भीड़ जुटी; 10,000 सुरक्षाकर्मी तैनात।"
+        }
+      },
+      {
+        "link": "delhi-aqi-214-poor-sunday-morning-ncr-moderate",
+        "lead": {
+          "en": "Delhi air:",
+          "hi": "दिल्ली की हवा:"
+        },
+        "text": {
+          "en": "AQI 214, 'poor', as winter curbs begin.",
+          "hi": "एक्यूआई 214, 'खराब', सर्दी की पाबंदियां शुरू।"
+        }
+      },
+      {
+        "link": "hyundai-record-october-sales-82299-venue",
+        "lead": {
+          "en": "Hyundai:",
+          "hi": "हुंडई:"
+        },
+        "text": {
+          "en": "Record 82,299 vehicles sold in October.",
+          "hi": "अक्टूबर में रिकॉर्ड 82,299 वाहन बिके।"
+        }
+      },
+      {
+        "link": "vande-bharat-sleeper-bengaluru-mumbai-vaishnaw-flags-off-today",
+        "lead": {
+          "en": "Vande Bharat:",
+          "hi": "वंदे भारत:"
+        },
+        "text": {
+          "en": "Bengaluru-Mumbai sleeper flagged off at 12:15 pm today.",
+          "hi": "बेंगलुरु-मुंबई स्लीपर को आज दोपहर 12:15 बजे हरी झंडी।"
+        }
+      },
+      {
+        "link": "miami-survive-north-carolina-38-35-stay-unbeaten",
+        "lead": {
+          "en": "Miami:",
+          "hi": "मियामी:"
+        },
+        "text": {
+          "en": "Top-ranked side edge North Carolina 38-35, stay unbeaten.",
+          "hi": "शीर्ष टीम ने नॉर्थ कैरोलाइना को 38-35 से हराया, अजेय।"
+        }
+      },
       {
         "link": "modi-foundation-day-greetings-haryana-mp-kerala-cms-reply",
         "lead": {
@@ -116,61 +171,6 @@
         "text": {
           "en": "Modi says the state is eradicating the roots of Naxalism.",
           "hi": "मोदी ने कहा, राज्य नक्सलवाद की जड़ें मिटा रहा है।"
-        }
-      },
-      {
-        "link": "rockets-rout-thunder-119-98-jabari-smith-30",
-        "lead": {
-          "en": "NBA:",
-          "hi": "एनबीए:"
-        },
-        "text": {
-          "en": "Jabari Smith Jr scores 30 as Rockets rout Thunder 119-98.",
-          "hi": "जबारी स्मिथ जूनियर के 30 अंक, रॉकेट्स ने थंडर को 119-98 से हराया।"
-        }
-      },
-      {
-        "link": "iran-araghchi-two-day-hormuz-plan-rezaei-vance-letter",
-        "lead": {
-          "en": "Iran:",
-          "hi": "ईरान:"
-        },
-        "text": {
-          "en": "Tehran says Hormuz could reopen in two days if the US accepts its terms.",
-          "hi": "तेहरान का कहना है कि अमेरिका शर्तें माने तो होर्मुज दो दिन में खुल सकता है।"
-        }
-      },
-      {
-        "link": "haryana-60-murmu-kurukshetra-haryana-day",
-        "lead": {
-          "en": "Haryana at 60:",
-          "hi": "हरियाणा 60 का:"
-        },
-        "text": {
-          "en": "President Murmu is chief guest at the Kurukshetra celebrations today.",
-          "hi": "राष्ट्रपति मुर्मु आज कुरुक्षेत्र समारोह की मुख्य अतिथि हैं।"
-        }
-      },
-      {
-        "link": "mp-71st-foundation-day-rajyotsav-bhopal-mohan-yadav",
-        "lead": {
-          "en": "MP at 71:",
-          "hi": "मप्र 71 का:"
-        },
-        "text": {
-          "en": "Mohan Yadav opens the three-day Rajyotsav in Bhopal today.",
-          "hi": "मोहन यादव आज भोपाल में तीन दिन का राज्योत्सव शुरू करेंगे।"
-        }
-      },
-      {
-        "link": "india-bloc-ramlila-maidan-rally-today-preview",
-        "lead": {
-          "en": "CEC row:",
-          "hi": "सीईसी विवाद:"
-        },
-        "text": {
-          "en": "INDIA bloc rallies at Ramlila Maidan today; noon march has no police nod.",
-          "hi": "इंडिया गठबंधन की आज रामलीला मैदान में रैली; दोपहर के मार्च की पुलिस अनुमति नहीं।"
         }
       }
     ]
@@ -238,22 +238,22 @@
   },
   "topStories": {
     "big": {
-      "id": "iran-araghchi-two-day-hormuz-plan-rezaei-vance-letter",
+      "id": "india-bloc-rally-morning-crowds-10000-security-bjp-1984-march",
       "also": [
-        "haryana-60-murmu-kurukshetra-haryana-day",
-        "delhi-pollution-curbs-bs-iv-ban-50-per-cent-office-from-today"
+        "delhi-aqi-214-poor-sunday-morning-ncr-moderate",
+        "hyundai-record-october-sales-82299-venue"
       ]
     },
     "list": [
+      "vande-bharat-sleeper-bengaluru-mumbai-vaishnaw-flags-off-today",
+      "miami-survive-north-carolina-38-35-stay-unbeaten",
+      "iran-araghchi-two-day-hormuz-plan-rezaei-vance-letter",
       "commercial-lpg-up-rs-10-delhi-2820-third-straight-hike",
-      "rockets-rout-thunder-119-98-jabari-smith-30",
-      "usc-stun-no-2-ohio-state-30-18-coliseum",
-      "modi-chhattisgarh-foundation-day-naxalism-roots-sai-vajpayee",
-      "delhi-pollution-curbs-bs-iv-ban-50-per-cent-office-from-today"
+      "rockets-rout-thunder-119-98-jabari-smith-30"
     ],
     "also": [
-      "modi-foundation-day-greetings-haryana-mp-kerala-cms-reply",
-      "haryana-60-murmu-kurukshetra-haryana-day"
+      "delhi-aqi-214-poor-sunday-morning-ncr-moderate",
+      "hyundai-record-october-sales-82299-venue"
     ]
   },
   "startHere": [
@@ -429,16 +429,16 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "kaul-memoir-chandrachud-pre-approval-collegium",
         "modi-foundation-day-greetings-haryana-mp-kerala-cms-reply",
         "india-bloc-ramlila-maidan-rally-today-preview",
-        "india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar",
-        "india-bloc-public-impeachment-cec-october-30-dilli-chalo"
+        "india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar"
       ],
-      "lead": "kaul-memoir-chandrachud-pre-approval-collegium"
+      "lead": "india-bloc-rally-morning-crowds-10000-security-bjp-1984-march"
     },
     {
       "section": "economy",
-      "lead": "sensex-nifty-week-october-30-pharma-fii-return",
+      "lead": "hyundai-record-october-sales-82299-venue",
       "module": {
         "type": "markets",
         "indicators": [
@@ -449,30 +449,30 @@
         ]
       },
       "list": [
+        "sensex-nifty-week-october-30-pharma-fii-return",
         "commercial-lpg-up-rs-10-delhi-2820-third-straight-hike",
         "jio-platforms-lists-21-per-cent-premium-1358",
-        "monday-open-brent-eases-us-futures-rise-infosys-test",
-        "results-today-mankind-pharma-kfin-sona-blw-october-26"
+        "monday-open-brent-eases-us-futures-rise-infosys-test"
       ]
     },
     {
       "section": "states",
-      "lead": "delhi-pollution-curbs-bs-iv-ban-50-per-cent-office-from-today",
+      "lead": "delhi-aqi-214-poor-sunday-morning-ncr-moderate",
       "list": [
+        "delhi-pollution-curbs-bs-iv-ban-50-per-cent-office-from-today",
         "modi-chhattisgarh-foundation-day-naxalism-roots-sai-vajpayee",
         "haryana-60-murmu-kurukshetra-haryana-day",
-        "mp-71st-foundation-day-rajyotsav-bhopal-mohan-yadav",
-        "karnataka-rajyotsava-70-siddaramaiah-kanteerava-schools"
+        "mp-71st-foundation-day-rajyotsav-bhopal-mohan-yadav"
       ]
     },
     {
       "section": "policy",
-      "lead": "liechtenstein-prince-alois-state-visit-india-mumbai-vadodara",
+      "lead": "vande-bharat-sleeper-bengaluru-mumbai-vaishnaw-flags-off-today",
       "list": [
+        "liechtenstein-prince-alois-state-visit-india-mumbai-vadodara",
         "murmu-assent-frontier-nagaland-territorial-authority-bill",
         "goyal-rotterdam-port-capacity-fourfold-2047",
-        "sonowal-busan-korea-visit-shipbuilding-indian-professionals",
-        "ccpa-walkie-talkie-listings-misleading-ads-action"
+        "sonowal-busan-korea-visit-shipbuilding-indian-professionals"
       ]
     },
     {
@@ -508,12 +508,12 @@
     },
     {
       "section": "sports",
-      "lead": "india-new-zealand-fifth-t20i-hamilton-preview",
+      "lead": "miami-survive-north-carolina-38-35-stay-unbeaten",
       "list": [
+        "india-new-zealand-fifth-t20i-hamilton-preview",
         "rockets-rout-thunder-119-98-jabari-smith-30",
         "usc-stun-no-2-ohio-state-30-18-coliseum",
-        "wembanyama-43-spurs-beat-timberwolves-121-111",
-        "maxey-38-sixers-beat-hornets-without-lebron-embiid"
+        "wembanyama-43-spurs-beat-timberwolves-121-111"
       ]
     }
   ],
