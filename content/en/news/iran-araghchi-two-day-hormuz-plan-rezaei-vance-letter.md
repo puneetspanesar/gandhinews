@@ -64,9 +64,6 @@ Iran says it can **reopen the Strait of Hormuz within two days** under a plan it
 
 Mohsen Rezaei, secretary of the Supreme National Security Council, said he had read a letter from US Vice President JD Vance and that Washington's **"tone has changed completely"**. He called it a "very positive sign". Earlier on Saturday he had said he had not yet replied to the letter, and that "no new decision has been made regarding changes to the nuclear doctrine", while warning that a fresh war could change that.
 
-```photo
-{"n":1,"subject":"Mohsen Rezaei","caption":"Mohsen Rezaei, secretary of Iran's Supreme National Security Council, says the US letter signals a change of tone.","alt":"Mohsen Rezaei"}
-```
 
 ## From seven days to two
 

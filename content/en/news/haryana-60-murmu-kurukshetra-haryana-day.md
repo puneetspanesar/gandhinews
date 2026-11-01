@@ -52,9 +52,6 @@ Haryana completes **60 years as a state** today, and President Droupadi Murmu is
 
 The function is at **Kurukshetra University**, with Chief Minister Nayab Singh Saini alongside the President. About 2,000 people have been invited, among them young people, women, elected representatives, farmers, beneficiaries of government schemes, sportspersons, entrepreneurs, artists and healthcare workers. The start time has not been announced.
 
-```photo
-{"n":1,"subject":"Nayab Singh Saini","caption":"Chief Minister Nayab Singh Saini, who joins the President at the Haryana Day function in Kurukshetra.","alt":"Haryana Chief Minister Nayab Singh Saini"}
-```
 
 ## Six decades on show
 

@@ -70,11 +70,11 @@
       "delhi-pollution-curbs-bs-iv-ban-50-per-cent-office-from-today"
     ],
     "relatedBeside": [
+      "haryana-60-murmu-kurukshetra-haryana-day",
       "mp-71st-foundation-day-rajyotsav-bhopal-mohan-yadav",
       "karnataka-rajyotsava-70-siddaramaiah-kanteerava-schools",
       "chhattisgarh-rajyotsav-26th-mandaviya-opens-shah-closing",
-      "kerala-turns-70-festival-kerala-satheesan-nishagandhi",
-      "india-new-zealand-fifth-t20i-hamilton-preview"
+      "kerala-turns-70-festival-kerala-satheesan-nishagandhi"
     ],
     "live": {
       "title": {
@@ -85,6 +85,39 @@
   },
   "briefing": {
     "items": [
+      {
+        "link": "wembanyama-43-spurs-beat-timberwolves-121-111",
+        "lead": {
+          "en": "NBA:",
+          "hi": "एनबीए:"
+        },
+        "text": {
+          "en": "Wembanyama scores 43 with six blocks as Spurs beat Timberwolves.",
+          "hi": "वेम्बान्यामा के 43 अंक और छह ब्लॉक, स्पर्स ने टिम्बरवुल्व्स को हराया।"
+        }
+      },
+      {
+        "link": "iran-araghchi-two-day-hormuz-plan-rezaei-vance-letter",
+        "lead": {
+          "en": "Iran:",
+          "hi": "ईरान:"
+        },
+        "text": {
+          "en": "Tehran says Hormuz could reopen in two days if the US accepts its terms.",
+          "hi": "तेहरान का कहना है कि अमेरिका शर्तें माने तो होर्मुज दो दिन में खुल सकता है।"
+        }
+      },
+      {
+        "link": "haryana-60-murmu-kurukshetra-haryana-day",
+        "lead": {
+          "en": "Haryana at 60:",
+          "hi": "हरियाणा 60 का:"
+        },
+        "text": {
+          "en": "President Murmu is chief guest at the Kurukshetra celebrations today.",
+          "hi": "राष्ट्रपति मुर्मु आज कुरुक्षेत्र समारोह की मुख्य अतिथि हैं।"
+        }
+      },
       {
         "link": "mp-71st-foundation-day-rajyotsav-bhopal-mohan-yadav",
         "lead": {
@@ -138,39 +171,6 @@
         "text": {
           "en": "The state turns 70; Festival Kerala opens at Nishagandhi at 4 pm.",
           "hi": "राज्य 70 साल का हुआ; शाम 4 बजे निशागंधी में फेस्टिवल केरल की शुरुआत।"
-        }
-      },
-      {
-        "link": "india-new-zealand-fifth-t20i-hamilton-preview",
-        "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
-        },
-        "text": {
-          "en": "India, 3-1 up, meet New Zealand in the fifth T20I in Hamilton.",
-          "hi": "3-1 से आगे भारत हैमिल्टन में न्यूजीलैंड से पांचवां टी20 खेलेगा।"
-        }
-      },
-      {
-        "link": "mexico-grand-prix-qualifying-hamilton-pole-antonelli-fourth",
-        "lead": {
-          "en": "F1:",
-          "hi": "एफ1:"
-        },
-        "text": {
-          "en": "Hamilton takes his first Ferrari pole in Mexico; Antonelli starts fourth.",
-          "hi": "हैमिल्टन को मेक्सिको में फ़ेरारी के साथ पहला पोल; एंटोनेली चौथे स्थान से।"
-        }
-      },
-      {
-        "link": "delhi-pollution-curbs-bs-iv-ban-50-per-cent-office-from-today",
-        "lead": {
-          "en": "Delhi air:",
-          "hi": "दिल्ली की हवा:"
-        },
-        "text": {
-          "en": "Winter curbs begin: outside BS-IV vehicles barred, offices at half strength.",
-          "hi": "सर्दियों की पाबंदियां शुरू: बाहरी बीएस-IV वाहनों पर रोक, दफ़्तरों में आधी हाज़िरी।"
         }
       }
     ]
@@ -238,18 +238,18 @@
   },
   "topStories": {
     "big": {
-      "id": "delhi-pollution-curbs-bs-iv-ban-50-per-cent-office-from-today",
+      "id": "iran-araghchi-two-day-hormuz-plan-rezaei-vance-letter",
       "also": [
-        "mexico-grand-prix-qualifying-hamilton-pole-antonelli-fourth",
-        "kerala-turns-70-festival-kerala-satheesan-nishagandhi"
+        "haryana-60-murmu-kurukshetra-haryana-day",
+        "delhi-pollution-curbs-bs-iv-ban-50-per-cent-office-from-today"
       ]
     },
     "list": [
+      "wembanyama-43-spurs-beat-timberwolves-121-111",
+      "mexico-grand-prix-qualifying-hamilton-pole-antonelli-fourth",
+      "kerala-turns-70-festival-kerala-satheesan-nishagandhi",
       "mp-71st-foundation-day-rajyotsav-bhopal-mohan-yadav",
-      "karnataka-rajyotsava-70-siddaramaiah-kanteerava-schools",
-      "chhattisgarh-rajyotsav-26th-mandaviya-opens-shah-closing",
-      "maxey-38-sixers-beat-hornets-without-lebron-embiid",
-      "india-new-zealand-fifth-t20i-hamilton-preview"
+      "karnataka-rajyotsava-70-siddaramaiah-kanteerava-schools"
     ]
   },
   "startHere": [
@@ -455,10 +455,10 @@
       "section": "states",
       "lead": "delhi-pollution-curbs-bs-iv-ban-50-per-cent-office-from-today",
       "list": [
+        "haryana-60-murmu-kurukshetra-haryana-day",
         "mp-71st-foundation-day-rajyotsav-bhopal-mohan-yadav",
         "karnataka-rajyotsava-70-siddaramaiah-kanteerava-schools",
-        "chhattisgarh-rajyotsav-26th-mandaviya-opens-shah-closing",
-        "kerala-turns-70-festival-kerala-satheesan-nishagandhi"
+        "chhattisgarh-rajyotsav-26th-mandaviya-opens-shah-closing"
       ]
     },
     {
@@ -486,11 +486,11 @@
   "desks": [
     {
       "section": "world",
-      "lead": "fed-holds-rates-3-75-4-two-dissent-hike",
+      "lead": "iran-araghchi-two-day-hormuz-plan-rezaei-vance-letter",
       "list": [
+        "fed-holds-rates-3-75-4-two-dissent-hike",
         "netanyahu-zamir-clash-report-iran-warning-election-eve",
-        "machado-returns-venezuela-from-exile",
-        "nepal-acknowledges-india-border-encroachment-no-details"
+        "machado-returns-venezuela-from-exile"
       ]
     },
     {
@@ -506,9 +506,9 @@
       "section": "sports",
       "lead": "india-new-zealand-fifth-t20i-hamilton-preview",
       "list": [
+        "wembanyama-43-spurs-beat-timberwolves-121-111",
         "maxey-38-sixers-beat-hornets-without-lebron-embiid",
-        "mexico-grand-prix-qualifying-hamilton-pole-antonelli-fourth",
-        "nz-thrash-india-87-runs-eden-park-fourth-t20i"
+        "mexico-grand-prix-qualifying-hamilton-pole-antonelli-fourth"
       ]
     }
   ],
