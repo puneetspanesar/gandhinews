@@ -53,10 +53,6 @@ Tejashwi Yadav turned Ramlila Maidan into a battlefield from the epics on Sunday
 
 He was reported to have likened the gathering to the Mahabharata, with the opposition standing at Kurukshetra, and to have invoked Shakuni and his loaded dice to question how elections are now being run. He then looked ahead, **urging people to vote the BJP out in Uttar Pradesh** when the state goes to the polls.
 
-```photo
-{"n":1,"subject":"Shakuni","caption":"Shakuni, the schemer of the Mahabharata whose rigged game of dice Tejashwi Yadav invoked to question the electoral process.","alt":"A depiction of Shakuni and the game of dice"}
-```
-
 Akhilesh Yadav, whose Samajwadi Party leads the opposition in Uttar Pradesh, kept the focus on his home state. The SP president repeated the charge of vote theft through the Election Commission's Special Intensive Revision of electoral rolls, raised Pilibhit as an example, and was reported to have **put the damage at about 31,000 votes per assembly seat**.
 
 ```photo

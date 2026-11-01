@@ -64,10 +64,6 @@ Rahul Gandhi reached for an old folk tale at Ramlila Maidan on Sunday afternoon.
 
 The opposition march from Minto Bridge **reached the ground at about 3 pm**, after a slow crawl through central Delhi with Rahul, Akhilesh Yadav, Mamata Banerjee, Tejashwi Yadav and Farooq Abdullah on an open bus. Priyanka Gandhi, Supriya Sule and K C Venugopal were also among the leaders at the rally.
 
-```photo
-{"n":1,"subject":"Gyanesh Kumar","caption":"Chief Election Commissioner Gyanesh Kumar, whose removal the INDIA bloc leaders demanded from the Ramlila Maidan stage.","alt":"Chief Election Commissioner Gyanesh Kumar"}
-```
-
 ## 'A government of theft'
 
 Congress president Mallikarjun Kharge made the same demand in harder terms. "We will not let **a government of theft** run," he said, accusing Narendra Modi and Amit Shah of shielding the CEC.
@@ -76,18 +72,10 @@ Congress president Mallikarjun Kharge made the same demand in harder terms. "We 
 
 He said the government had tried to take away the votes of young people, women and Dalits, and was reported to have told the crowd that the opposition would track the CEC down even if he hid in the netherworld. He closed with a call to remove Modi to save democracy.
 
-```photo
-{"n":2,"subject":"Amit Shah","caption":"Union Home Minister Amit Shah, whom Kharge accused, along with the Prime Minister, of protecting the Chief Election Commissioner.","alt":"Union Home Minister Amit Shah"}
-```
-
 ## Shutters down in Connaught Place
 
 Rahul also turned to Delhi's traders, whom he had urged in the run-up to the rally to welcome the crowds. "We told people that when you come for the mega rally, do some shopping," he said. "But while coming through Connaught Place, we found that **the BJP had forcibly shut the shops**." He asked who would make good the traders' losses.
 
 The BJP has called the rally an attempt to spread anarchy, and its leaders spent the day reminding the Congress that 1 November is the anniversary of the 1984 anti-Sikh violence. The Election Commission has denied acting with political bias, and had not responded to the speeches by late afternoon.
-
-```photo
-{"n":3,"subject":"Connaught Place, New Delhi Inner Circle","caption":"The Inner Circle of Connaught Place, where Rahul Gandhi said shops had been forced to close as the march passed.","alt":"Shops around the Inner Circle of Connaught Place"}
-```
 
 Delhi Police have told the organisers to wrap up by 5 pm.

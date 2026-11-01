@@ -63,10 +63,6 @@ Tim Seifert ended a lean series with the innings of it. The New Zealand wicketke
 
 The result left the series at **3-2 in India's favour**. India won the first three matches but lost the last two, at Eden Park on Friday by 87 runs and now in Hamilton, where a total that once looked like heading past 220 proved some way short.
 
-```photo
-{"n":1,"subject":"Seddon Park","caption":"Seddon Park in Hamilton, where New Zealand chased 192 with 12 balls to spare in the series finale.","alt":"Seddon Park cricket ground in Hamilton"}
-```
-
 ## How the chase was won
 
 India struck first. Arshdeep Singh had Finn Allen **caught by Ishan Kishan for 2** early in the chase, but that was the last time the Indian bowlers held the upper hand for long. Seifert and Daryl Mitchell took Prince Yadav and Bhuvneshwar Kumar apart in the fifth and sixth overs, and New Zealand were **59 for 1 at the end of the powerplay**.
@@ -75,10 +71,6 @@ Mitchell hit four sixes in a 16-ball 29 before he was caught by Abhishek Sharma.
 
 Phillips joined Seifert and the pair kept the boundaries coming. After 14.5 overs New Zealand were **162 for 2 needing 30 off 31 balls**, Seifert on 89 off 48 with ten fours and five sixes and Phillips on 37.
 
-```photo
-{"n":2,"subject":"Nitish Kumar Reddy","caption":"Nitish Kumar Reddy, who bowled Tim Seifert seven runs short of a hundred.","alt":"Indian all-rounder Nitish Kumar Reddy"}
-```
-
 The century never came. Nitish Kumar Reddy **bowled Seifert for 93**, the only real setback of the chase for the home side. Phillips, who made a hundred in the Auckland win two days ago, went on to **a second successive big score**, reaching his half-century as New Zealand got home in the 18th over.
 
 ## Where India fell short
@@ -86,9 +78,5 @@ The century never came. Nitish Kumar Reddy **bowled Seifert for 93**, the only r
 India's innings had promised more. Ishan Kishan's 61 and captain Shreyas Iyer's 23-ball 50 carried them to 111 for 2, before Adam Milne's **4 for 19** and a mid-innings collapse held them to 191 for 8. It was a good total, but not enough on the day.
 
 The bowlers found little help. Varun Chakaravarthy, recalled for this match along with Bhuvneshwar, had **one wicket for 44** after 3.5 overs, and Prince Yadav's first three overs cost 35.
-
-```photo
-{"n":3,"subject":"Glenn Phillips","caption":"Glenn Phillips, who followed his Auckland century with a match-winning half-century in Hamilton.","alt":"New Zealand batter Glenn Phillips"}
-```
 
 For India, the series win is the headline, but the manner of the last two defeats will sting. A side that swept the opening three games conceded 259 at Eden Park and could not defend 191 here. For New Zealand and their captain Mitchell Santner, who won his first toss of the series on Sunday, **back-to-back wins** brought some pride back after three straight defeats to open the series.
