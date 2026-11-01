@@ -16,8 +16,8 @@ keyPoints:
 hero:
   need: "Two-panel split: Union Law Minister Arjun Ram Meghwal and Chief Election Commissioner Gyanesh Kumar"
   suggested_source: "Arjun Ram Meghwal"
-  subjects: ["Arjun Ram Meghwal", "Gyanesh Kumar"]
-  alt: "Law Minister Arjun Ram Meghwal and Chief Election Commissioner Gyanesh Kumar (file photos)"
+  subjects: ["Arjun Ram Meghwal"]
+  alt: "Law Minister Arjun Ram Meghwal (file photo)"
   overlay:
     value: "'But they never gave that list'"
 related: [india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar, sambit-patra-illegal-lop-rahul-gandhi-ramlila-rally-flop, nadda-anarchy-model-india-bloc-rally-sood-chaos, rahul-parrot-gyanesh-kumar-kharge-chori-ki-sarkar-ramlila]
@@ -55,7 +55,7 @@ Speaking at a BJP debate on the Special Intensive Revision of electoral rolls in
 His remarks came hours after the INDIA bloc's rally at Ramlila Maidan in Delhi, where opposition leaders repeated their charge of "vote chori" and demanded the CEC's resignation.
 
 ```photo
-{"n":1,"subject":"Gyanesh Kumar","caption":"Chief Election Commissioner Gyanesh Kumar, who Meghwal said had offered to meet the protesters.","alt":"Chief Election Commissioner Gyanesh Kumar"}
+{"n":1,"subject":"Anti-CEC protest at Jantar Mantar","caption":"Protesters being detained at Jantar Mantar during this year's protests against the Chief Election Commissioner.","alt":"Police detain protesters at Jantar Mantar in New Delhi"}
 ```
 
 ## 'Mockery' of democracy
@@ -65,9 +65,5 @@ Meghwal turned on the opposition's **mock parliament**, held in Delhi on Saturda
 ## Bihar NDA joins in
 
 In Patna, leaders of Bihar's ruling NDA also went after the rally. Former minister and BJP leader Mangal Pandey said the Election Commission had carried out the SIR transparently. "The opposition is trying to manufacture controversies without any substantive basis," he said.
-
-```photo
-{"n":2,"subject":"Droupadi Murmu","caption":"President Droupadi Murmu, who Meghwal said had asked opposition leaders for proof of their charges.","alt":"President Droupadi Murmu"}
-```
 
 JD(U) national spokesperson Rajeev Ranjan Prasad said the opposition had offered **no evidence for the 'vote chori' charge** and claimed the turnout was poor. He asked why the Congress questioned only the results it lost, pointing to its wins in Karnataka, Telangana and Himachal Pradesh. He called the alliance "fragile and marked by internal contradictions" and said its members "have their daggers out against each other", citing reports of a seat-sharing dispute between the Congress and the Samajwadi Party before the Uttar Pradesh election.

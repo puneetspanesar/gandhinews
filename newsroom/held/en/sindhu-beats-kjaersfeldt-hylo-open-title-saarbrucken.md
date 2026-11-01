@@ -82,10 +82,6 @@ Sindhu came into the final with **a 6-1 head-to-head lead**. Kjaersfeldt's only 
 
 Sindhu **did not drop a game** all tournament. In the semi-final on Saturday she beat 19-year-old compatriot Anmol Kharb 21-13, 21-16.
 
-```photo
-{"n":2,"subject":"Anmol Kharb","caption":"Anmol Kharb, 19, lost to Sindhu in an all-Indian semi-final on Saturday.","alt":"Indian badminton player Anmol Kharb"}
-```
-
 The world No. 8 earned 9,200 ranking points, which **keep her on course for the World Tour Finals** at the end of the season. "This gives me a lot of boost and a lot of confidence," she said. "I'm happy that things are going according to plan."
 
 Asked whether she was back to her best, Sindhu replied: "Definitely yes." She added that there was still room to improve. "It's been an amazing week, and I think it's time to go back and celebrate now."
