@@ -70,11 +70,11 @@
       "delhi-pollution-curbs-bs-iv-ban-50-per-cent-office-from-today"
     ],
     "relatedBeside": [
+      "mp-71st-foundation-day-rajyotsav-bhopal-mohan-yadav",
+      "karnataka-rajyotsava-70-siddaramaiah-kanteerava-schools",
+      "chhattisgarh-rajyotsav-26th-mandaviya-opens-shah-closing",
       "kerala-turns-70-festival-kerala-satheesan-nishagandhi",
-      "india-new-zealand-fifth-t20i-hamilton-preview",
-      "mexico-grand-prix-qualifying-hamilton-pole-antonelli-fourth",
-      "nc-mlas-demand-omar-cabinet-rejig-15-day-ultimatum",
-      "sensex-nifty-week-october-30-pharma-fii-return"
+      "india-new-zealand-fifth-t20i-hamilton-preview"
     ],
     "live": {
       "title": {
@@ -86,6 +86,17 @@
   "briefing": {
     "items": [
       {
+        "link": "mp-71st-foundation-day-rajyotsav-bhopal-mohan-yadav",
+        "lead": {
+          "en": "MP at 71:",
+          "hi": "मप्र 71 का:"
+        },
+        "text": {
+          "en": "Mohan Yadav opens the three-day Rajyotsav in Bhopal today.",
+          "hi": "मोहन यादव आज भोपाल में तीन दिन का राज्योत्सव शुरू करेंगे।"
+        }
+      },
+      {
         "link": "india-bloc-ramlila-maidan-rally-today-preview",
         "lead": {
           "en": "CEC row:",
@@ -94,6 +105,28 @@
         "text": {
           "en": "INDIA bloc rallies at Ramlila Maidan today; noon march has no police nod.",
           "hi": "इंडिया गठबंधन की आज रामलीला मैदान में रैली; दोपहर के मार्च की पुलिस अनुमति नहीं।"
+        }
+      },
+      {
+        "link": "karnataka-rajyotsava-70-siddaramaiah-kanteerava-schools",
+        "lead": {
+          "en": "Karnataka:",
+          "hi": "कर्नाटक:"
+        },
+        "text": {
+          "en": "70th Rajyotsava; Siddaramaiah joins schoolchildren at Kanteerava.",
+          "hi": "70वां राज्योत्सव; कंठीरवा में स्कूली बच्चों के साथ सिद्धारमैया।"
+        }
+      },
+      {
+        "link": "chhattisgarh-rajyotsav-26th-mandaviya-opens-shah-closing",
+        "lead": {
+          "en": "Chhattisgarh:",
+          "hi": "छत्तीसगढ़:"
+        },
+        "text": {
+          "en": "State turns 26; Rajyotsav in Nava Raipur runs to 3 November.",
+          "hi": "राज्य 26 साल का; नवा रायपुर में राज्योत्सव 3 नवंबर तक।"
         }
       },
       {
@@ -138,39 +171,6 @@
         "text": {
           "en": "Winter curbs begin: outside BS-IV vehicles barred, offices at half strength.",
           "hi": "सर्दियों की पाबंदियां शुरू: बाहरी बीएस-IV वाहनों पर रोक, दफ़्तरों में आधी हाज़िरी।"
-        }
-      },
-      {
-        "link": "india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar",
-        "lead": {
-          "en": "CEC row:",
-          "hi": "सीईसी विवाद:"
-        },
-        "text": {
-          "en": "21 INDIA bloc parties 'impeach' Gyanesh Kumar at a mock Parliament.",
-          "hi": "इंडिया गठबंधन के 21 दलों ने नकली संसद में ज्ञानेश कुमार पर 'महाभियोग' चलाया।"
-        }
-      },
-      {
-        "link": "nc-mlas-demand-omar-cabinet-rejig-15-day-ultimatum",
-        "lead": {
-          "en": "J&K:",
-          "hi": "जम्मू-कश्मीर:"
-        },
-        "text": {
-          "en": "NC legislators give a 15-day ultimatum for a fresh cabinet reshuffle.",
-          "hi": "एनसी विधायकों ने मंत्रिमंडल फेरबदल के लिए 15 दिन का अल्टीमेटम दिया।"
-        }
-      },
-      {
-        "link": "sensex-nifty-week-october-30-pharma-fii-return",
-        "lead": {
-          "en": "Markets:",
-          "hi": "बाज़ार:"
-        },
-        "text": {
-          "en": "Nifty back above 23,000; Sensex up 1.83% for the week.",
-          "hi": "निफ्टी फिर 23,000 के पार; सेंसेक्स हफ़्ते में 1.83% चढ़ा।"
         }
       }
     ]
@@ -245,10 +245,11 @@
       ]
     },
     "list": [
-      "india-new-zealand-fifth-t20i-hamilton-preview",
-      "india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar",
-      "nc-mlas-demand-omar-cabinet-rejig-15-day-ultimatum",
-      "sensex-nifty-week-october-30-pharma-fii-return"
+      "mp-71st-foundation-day-rajyotsav-bhopal-mohan-yadav",
+      "karnataka-rajyotsava-70-siddaramaiah-kanteerava-schools",
+      "chhattisgarh-rajyotsav-26th-mandaviya-opens-shah-closing",
+      "maxey-38-sixers-beat-hornets-without-lebron-embiid",
+      "india-new-zealand-fifth-t20i-hamilton-preview"
     ]
   },
   "startHere": [
@@ -454,10 +455,10 @@
       "section": "states",
       "lead": "delhi-pollution-curbs-bs-iv-ban-50-per-cent-office-from-today",
       "list": [
-        "kerala-turns-70-festival-kerala-satheesan-nishagandhi",
-        "nc-mlas-demand-omar-cabinet-rejig-15-day-ultimatum",
-        "naidu-cyclone-arnab-review-zero-casualties-fishermen",
-        "delhi-rain-no-fix-pollution-experts-grap-stage-one"
+        "mp-71st-foundation-day-rajyotsav-bhopal-mohan-yadav",
+        "karnataka-rajyotsava-70-siddaramaiah-kanteerava-schools",
+        "chhattisgarh-rajyotsav-26th-mandaviya-opens-shah-closing",
+        "kerala-turns-70-festival-kerala-satheesan-nishagandhi"
       ]
     },
     {
@@ -505,9 +506,9 @@
       "section": "sports",
       "lead": "india-new-zealand-fifth-t20i-hamilton-preview",
       "list": [
+        "maxey-38-sixers-beat-hornets-without-lebron-embiid",
         "mexico-grand-prix-qualifying-hamilton-pole-antonelli-fourth",
-        "nz-thrash-india-87-runs-eden-park-fourth-t20i",
-        "harmanpreet-deepti-centuries-india-women-beat-zimbabwe-121-runs"
+        "nz-thrash-india-87-runs-eden-park-fourth-t20i"
       ]
     }
   ],

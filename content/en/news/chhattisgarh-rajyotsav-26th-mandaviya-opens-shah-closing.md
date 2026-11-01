@@ -58,9 +58,6 @@ Each evening follows the same pattern: local artists at 4 pm, state-level artist
 
 On Monday, **Governor Ramen Deka will preside** over the programmes, and celebrations will also be held at every district headquarters. The Indian Air Force's Sarang Helicopter Display Team will fly five indigenous Dhruv helicopters over **Sendh Lake at 11 am**, led by Group Captain Abhijit Kumar. The team includes two women pilots, Squadron Leaders Ankita and Akshayaa. Singer Swasti Mehul performs that night.
 
-```photo
-{"n":2,"subject":"Ramen Deka","caption":"Chhattisgarh Governor Ramen Deka, who presides over the second day of the festival.","alt":"Chhattisgarh Governor Ramen Deka"}
-```
 
 **Union Home Minister Amit Shah** will attend the closing ceremony on Tuesday, when Abhijeet Bhattacharya is due to sing.
 
