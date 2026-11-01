@@ -66,14 +66,14 @@
       }
     ],
     "relatedBelow": [
-      "bjp-rohtak-padyatra-nabin-counter-india-bloc-rally",
-      "india-bloc-ramlila-maidan-rally-today-preview"
+      "india-bloc-rally-venugopal-stern-warning-modi-shah",
+      "bjp-rohtak-padyatra-nabin-counter-india-bloc-rally"
     ],
     "relatedBeside": [
+      "mahindra-record-october-suv-sales-73338-tractors-fall",
       "indian-trekkers-missing-dolpa-nepal-army-search-shey-phoksundo",
       "delhi-aqi-214-poor-sunday-morning-ncr-moderate",
       "vande-bharat-sleeper-bengaluru-mumbai-vaishnaw-flags-off-today",
-      "hyundai-record-october-sales-82299-venue",
       "modi-foundation-day-greetings-haryana-mp-kerala-cms-reply"
     ],
     "live": {
@@ -85,6 +85,28 @@
   },
   "briefing": {
     "items": [
+      {
+        "link": "india-bloc-rally-venugopal-stern-warning-modi-shah",
+        "lead": {
+          "en": "CEC row:",
+          "hi": "सीईसी विवाद:"
+        },
+        "text": {
+          "en": "Venugopal calls rally a 'stern warning' to Modi and Shah.",
+          "hi": "वेणुगोपाल ने रैली को मोदी और शाह के लिए 'कड़ी चेतावनी' बताया।"
+        }
+      },
+      {
+        "link": "mahindra-record-october-suv-sales-73338-tractors-fall",
+        "lead": {
+          "en": "Autos:",
+          "hi": "ऑटो:"
+        },
+        "text": {
+          "en": "Mahindra sells a record 73,338 SUVs in October.",
+          "hi": "महिंद्रा ने अक्टूबर में रिकॉर्ड 73,338 एसयूवी बेचीं।"
+        }
+      },
       {
         "link": "indian-trekkers-missing-dolpa-nepal-army-search-shey-phoksundo",
         "lead": {
@@ -149,28 +171,6 @@
         "text": {
           "en": "Bengaluru-Mumbai sleeper flagged off at 12:15 pm today.",
           "hi": "बेंगलुरु-मुंबई स्लीपर को आज दोपहर 12:15 बजे हरी झंडी।"
-        }
-      },
-      {
-        "link": "miami-survive-north-carolina-38-35-stay-unbeaten",
-        "lead": {
-          "en": "Miami:",
-          "hi": "मियामी:"
-        },
-        "text": {
-          "en": "Top-ranked side edge North Carolina 38-35, stay unbeaten.",
-          "hi": "शीर्ष टीम ने नॉर्थ कैरोलाइना को 38-35 से हराया, अजेय।"
-        }
-      },
-      {
-        "link": "modi-foundation-day-greetings-haryana-mp-kerala-cms-reply",
-        "lead": {
-          "en": "States day:",
-          "hi": "स्थापना दिवस:"
-        },
-        "text": {
-          "en": "Modi greets Haryana, MP and Kerala; chief ministers reply.",
-          "hi": "मोदी ने हरियाणा, मप्र और केरल को बधाई दी; मुख्यमंत्रियों ने जवाब दिया।"
         }
       }
     ]
@@ -245,11 +245,11 @@
       ]
     },
     "list": [
+      "india-bloc-rally-venugopal-stern-warning-modi-shah",
+      "mahindra-record-october-suv-sales-73338-tractors-fall",
       "bjp-rohtak-padyatra-nabin-counter-india-bloc-rally",
       "indian-trekkers-missing-dolpa-nepal-army-search-shey-phoksundo",
-      "vande-bharat-sleeper-bengaluru-mumbai-vaishnaw-flags-off-today",
-      "miami-survive-north-carolina-38-35-stay-unbeaten",
-      "iran-araghchi-two-day-hormuz-plan-rezaei-vance-letter"
+      "vande-bharat-sleeper-bengaluru-mumbai-vaishnaw-flags-off-today"
     ],
     "also": [
       "delhi-aqi-214-poor-sunday-morning-ncr-moderate",
@@ -429,16 +429,16 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "india-bloc-rally-venugopal-stern-warning-modi-shah",
         "bjp-rohtak-padyatra-nabin-counter-india-bloc-rally",
         "kaul-memoir-chandrachud-pre-approval-collegium",
-        "modi-foundation-day-greetings-haryana-mp-kerala-cms-reply",
-        "india-bloc-ramlila-maidan-rally-today-preview"
+        "modi-foundation-day-greetings-haryana-mp-kerala-cms-reply"
       ],
       "lead": "india-bloc-rally-morning-crowds-10000-security-bjp-1984-march"
     },
     {
       "section": "economy",
-      "lead": "hyundai-record-october-sales-82299-venue",
+      "lead": "mahindra-record-october-suv-sales-73338-tractors-fall",
       "module": {
         "type": "markets",
         "indicators": [
@@ -449,10 +449,10 @@
         ]
       },
       "list": [
+        "hyundai-record-october-sales-82299-venue",
         "sensex-nifty-week-october-30-pharma-fii-return",
         "commercial-lpg-up-rs-10-delhi-2820-third-straight-hike",
-        "jio-platforms-lists-21-per-cent-premium-1358",
-        "monday-open-brent-eases-us-futures-rise-infosys-test"
+        "jio-platforms-lists-21-per-cent-premium-1358"
       ]
     },
     {
