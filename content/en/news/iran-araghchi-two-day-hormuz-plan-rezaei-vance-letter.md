@@ -64,7 +64,9 @@ Iran says it can **reopen the Strait of Hormuz within two days** under a plan it
 
 Mohsen Rezaei, secretary of the Supreme National Security Council, said he had read a letter from US Vice President JD Vance and that Washington's **"tone has changed completely"**. He called it a "very positive sign". Earlier on Saturday he had said he had not yet replied to the letter, and that "no new decision has been made regarding changes to the nuclear doctrine", while warning that a fresh war could change that.
 
-```photo {"n":1,"subject":"Mohsen Rezaei","caption":"Mohsen Rezaei, secretary of Iran's Supreme National Security Council, says the US letter signals a change of tone.","alt":"Mohsen Rezaei"}```
+```photo
+{"n":1,"subject":"Mohsen Rezaei","caption":"Mohsen Rezaei, secretary of Iran's Supreme National Security Council, says the US letter signals a change of tone.","alt":"Mohsen Rezaei"}
+```
 
 ## From seven days to two
 
@@ -76,7 +78,9 @@ Araghchi described a US offer of dialogue as "a positive step" but ruled out a m
 
 In Atlanta, where foreign ministers of major economies met for a G20 gathering, Secretary of State Marco Rubio said Trump had **not decided whether to resume strikes**. "He hasn't made a decision," Rubio said. "But we would prefer to do it peacefully." Trump has pledged no US strikes on Iran before the midterm elections on Tuesday, 3 November.
 
-```photo {"n":2,"subject":"Marco Rubio","caption":"US Secretary of State Marco Rubio said in Atlanta that President Trump has not decided whether to restart strikes on Iran.","alt":"Marco Rubio"}```
+```photo
+{"n":2,"subject":"Marco Rubio","caption":"US Secretary of State Marco Rubio said in Atlanta that President Trump has not decided whether to restart strikes on Iran.","alt":"Marco Rubio"}
+```
 
 The US blockade has turned back **144 vessels**, up from 138 two weeks ago, according to US Central Command. Treasury Secretary Scott Bessent said "transit levels are back to pre-conflict levels minus Iranian barrels." Iran's navy, for its part, said a tanker caught fire after striking sea mines in a prohibited area east of the strait, a claim that could not be checked.
 
@@ -84,7 +88,9 @@ The US blockade has turned back **144 vessels**, up from 138 two weeks ago, acco
 
 Supreme Leader Mojtaba Khamenei, who has not appeared in public since succeeding his father in February, met his senior commanders on Saturday. He ordered that "any level or type of threat must be met with an immediate, impactful and geographically unrestricted response." Iranian strikes earlier in the war hit more than two dozen US bases in the region; Ali Al Salem Air Base in Kuwait was struck at least 30 times.
 
-```photo {"n":3,"subject":"Ali Al Salem Air Base","caption":"Ali Al Salem Air Base in Kuwait, the US base hit most often by Iranian strikes during the war.","alt":"Ali Al Salem Air Base, Kuwait"}```
+```photo
+{"n":3,"subject":"Ali Al Salem Air Base","caption":"Ali Al Salem Air Base in Kuwait, the US base hit most often by Iranian strikes during the war.","alt":"Ali Al Salem Air Base, Kuwait"}
+```
 
 Arab governments are pressing for calm. Egypt's Foreign Minister Badr Abdelatty told the Manama Dialogue in Bahrain that "the second round will be more dangerous, more destructive, and it will lead to nowhere."
 
