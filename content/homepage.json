@@ -70,10 +70,10 @@
       "delhi-pollution-curbs-bs-iv-ban-50-per-cent-office-from-today"
     ],
     "relatedBeside": [
+      "modi-foundation-day-greetings-haryana-mp-kerala-cms-reply",
       "haryana-60-murmu-kurukshetra-haryana-day",
       "mp-71st-foundation-day-rajyotsav-bhopal-mohan-yadav",
-      "karnataka-rajyotsava-70-siddaramaiah-kanteerava-schools",
-      "chhattisgarh-rajyotsav-26th-mandaviya-opens-shah-closing",
+      "modi-chhattisgarh-foundation-day-naxalism-roots-sai-vajpayee",
       "kerala-turns-70-festival-kerala-satheesan-nishagandhi"
     ],
     "live": {
@@ -86,14 +86,47 @@
   "briefing": {
     "items": [
       {
-        "link": "wembanyama-43-spurs-beat-timberwolves-121-111",
+        "link": "modi-foundation-day-greetings-haryana-mp-kerala-cms-reply",
+        "lead": {
+          "en": "States day:",
+          "hi": "स्थापना दिवस:"
+        },
+        "text": {
+          "en": "Modi greets Haryana, MP and Kerala; chief ministers reply.",
+          "hi": "मोदी ने हरियाणा, मप्र और केरल को बधाई दी; मुख्यमंत्रियों ने जवाब दिया।"
+        }
+      },
+      {
+        "link": "commercial-lpg-up-rs-10-delhi-2820-third-straight-hike",
+        "lead": {
+          "en": "LPG:",
+          "hi": "एलपीजी:"
+        },
+        "text": {
+          "en": "Commercial cylinder up ₹10 to ₹2,820 in Delhi, third rise in a row.",
+          "hi": "कमर्शियल सिलेंडर दिल्ली में ₹10 महंगा होकर ₹2,820, लगातार तीसरी बढ़ोतरी।"
+        }
+      },
+      {
+        "link": "modi-chhattisgarh-foundation-day-naxalism-roots-sai-vajpayee",
+        "lead": {
+          "en": "Chhattisgarh:",
+          "hi": "छत्तीसगढ़:"
+        },
+        "text": {
+          "en": "Modi says the state is eradicating the roots of Naxalism.",
+          "hi": "मोदी ने कहा, राज्य नक्सलवाद की जड़ें मिटा रहा है।"
+        }
+      },
+      {
+        "link": "rockets-rout-thunder-119-98-jabari-smith-30",
         "lead": {
           "en": "NBA:",
           "hi": "एनबीए:"
         },
         "text": {
-          "en": "Wembanyama scores 43 with six blocks as Spurs beat Timberwolves.",
-          "hi": "वेम्बान्यामा के 43 अंक और छह ब्लॉक, स्पर्स ने टिम्बरवुल्व्स को हराया।"
+          "en": "Jabari Smith Jr scores 30 as Rockets rout Thunder 119-98.",
+          "hi": "जबारी स्मिथ जूनियर के 30 अंक, रॉकेट्स ने थंडर को 119-98 से हराया।"
         }
       },
       {
@@ -138,39 +171,6 @@
         "text": {
           "en": "INDIA bloc rallies at Ramlila Maidan today; noon march has no police nod.",
           "hi": "इंडिया गठबंधन की आज रामलीला मैदान में रैली; दोपहर के मार्च की पुलिस अनुमति नहीं।"
-        }
-      },
-      {
-        "link": "karnataka-rajyotsava-70-siddaramaiah-kanteerava-schools",
-        "lead": {
-          "en": "Karnataka:",
-          "hi": "कर्नाटक:"
-        },
-        "text": {
-          "en": "70th Rajyotsava; Siddaramaiah joins schoolchildren at Kanteerava.",
-          "hi": "70वां राज्योत्सव; कंठीरवा में स्कूली बच्चों के साथ सिद्धारमैया।"
-        }
-      },
-      {
-        "link": "chhattisgarh-rajyotsav-26th-mandaviya-opens-shah-closing",
-        "lead": {
-          "en": "Chhattisgarh:",
-          "hi": "छत्तीसगढ़:"
-        },
-        "text": {
-          "en": "State turns 26; Rajyotsav in Nava Raipur runs to 3 November.",
-          "hi": "राज्य 26 साल का; नवा रायपुर में राज्योत्सव 3 नवंबर तक।"
-        }
-      },
-      {
-        "link": "kerala-turns-70-festival-kerala-satheesan-nishagandhi",
-        "lead": {
-          "en": "Keralam:",
-          "hi": "केरलम:"
-        },
-        "text": {
-          "en": "The state turns 70; Festival Kerala opens at Nishagandhi at 4 pm.",
-          "hi": "राज्य 70 साल का हुआ; शाम 4 बजे निशागंधी में फेस्टिवल केरल की शुरुआत।"
         }
       }
     ]
@@ -245,11 +245,15 @@
       ]
     },
     "list": [
-      "wembanyama-43-spurs-beat-timberwolves-121-111",
-      "mexico-grand-prix-qualifying-hamilton-pole-antonelli-fourth",
-      "kerala-turns-70-festival-kerala-satheesan-nishagandhi",
-      "mp-71st-foundation-day-rajyotsav-bhopal-mohan-yadav",
-      "karnataka-rajyotsava-70-siddaramaiah-kanteerava-schools"
+      "commercial-lpg-up-rs-10-delhi-2820-third-straight-hike",
+      "rockets-rout-thunder-119-98-jabari-smith-30",
+      "usc-stun-no-2-ohio-state-30-18-coliseum",
+      "modi-chhattisgarh-foundation-day-naxalism-roots-sai-vajpayee",
+      "delhi-pollution-curbs-bs-iv-ban-50-per-cent-office-from-today"
+    ],
+    "also": [
+      "modi-foundation-day-greetings-haryana-mp-kerala-cms-reply",
+      "haryana-60-murmu-kurukshetra-haryana-day"
     ]
   },
   "startHere": [
@@ -425,10 +429,10 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "modi-foundation-day-greetings-haryana-mp-kerala-cms-reply",
         "india-bloc-ramlila-maidan-rally-today-preview",
         "india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar",
-        "india-bloc-public-impeachment-cec-october-30-dilli-chalo",
-        "courts-today-vijayan-appeal-imran-khan-notice-supreme-court-benches"
+        "india-bloc-public-impeachment-cec-october-30-dilli-chalo"
       ],
       "lead": "kaul-memoir-chandrachud-pre-approval-collegium"
     },
@@ -445,20 +449,20 @@
         ]
       },
       "list": [
+        "commercial-lpg-up-rs-10-delhi-2820-third-straight-hike",
         "jio-platforms-lists-21-per-cent-premium-1358",
         "monday-open-brent-eases-us-futures-rise-infosys-test",
-        "results-today-mankind-pharma-kfin-sona-blw-october-26",
-        "eaaa-india-alternatives-ipo-opens-360-crore-anchor-book"
+        "results-today-mankind-pharma-kfin-sona-blw-october-26"
       ]
     },
     {
       "section": "states",
       "lead": "delhi-pollution-curbs-bs-iv-ban-50-per-cent-office-from-today",
       "list": [
+        "modi-chhattisgarh-foundation-day-naxalism-roots-sai-vajpayee",
         "haryana-60-murmu-kurukshetra-haryana-day",
         "mp-71st-foundation-day-rajyotsav-bhopal-mohan-yadav",
-        "karnataka-rajyotsava-70-siddaramaiah-kanteerava-schools",
-        "chhattisgarh-rajyotsav-26th-mandaviya-opens-shah-closing"
+        "karnataka-rajyotsava-70-siddaramaiah-kanteerava-schools"
       ]
     },
     {
@@ -506,9 +510,10 @@
       "section": "sports",
       "lead": "india-new-zealand-fifth-t20i-hamilton-preview",
       "list": [
+        "rockets-rout-thunder-119-98-jabari-smith-30",
+        "usc-stun-no-2-ohio-state-30-18-coliseum",
         "wembanyama-43-spurs-beat-timberwolves-121-111",
-        "maxey-38-sixers-beat-hornets-without-lebron-embiid",
-        "mexico-grand-prix-qualifying-hamilton-pole-antonelli-fourth"
+        "maxey-38-sixers-beat-hornets-without-lebron-embiid"
       ]
     }
   ],
