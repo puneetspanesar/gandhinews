@@ -49,7 +49,9 @@ Government and private offices have been told to keep **physical attendance at 5
 
 Demolition and outdoor civil construction that raises dust are **banned until 31 January**. Essential public infrastructure is exempt, and indoor finishing, plumbing and electrical work can carry on if dust is kept in check. A separate, complete halt on construction and demolition is planned from 10 December to 20 January.
 
-```photo {"n":1,"subject":"Delhi Secretariat","caption":"The Delhi Secretariat, where government offices now open at 10 am and close at 6:30 pm under the winter timetable.","alt":"The Delhi Secretariat building in New Delhi"}```
+```photo
+{"n":1,"subject":"Delhi Secretariat","caption":"The Delhi Secretariat, where government offices now open at 10 am and close at 6:30 pm under the winter timetable.","alt":"The Delhi Secretariat building in New Delhi"}
+```
 
 Parking will cost more too. Fees at authorised lots are **doubled from 1 November to 28 February**, though lots run by the Delhi Metro Rail Corporation keep their old rates, a nudge towards the Metro.
 
@@ -57,6 +59,8 @@ Parking will cost more too. Fees at authorised lots are **doubled from 1 Novembe
 
 The Transport Department, Delhi Traffic Police, the Delhi Pollution Control Committee and the Municipal Corporation will enforce the rules. Number-plate recognition cameras and the AI-enabled Integrated Command and Control Centre will track vehicles, and those that break the ban will get **automatic e-challans** and may be impounded. Building sites caught flouting the order face stop-work notices, environmental compensation and possible sealing.
 
-```photo {"n":2,"subject":"Rajiv Chowk metro station","caption":"Rajiv Chowk, the busiest interchange on the Delhi Metro, whose parking lots are exempt from the doubled fees.","alt":"Rajiv Chowk metro station in Delhi"}```
+```photo
+{"n":2,"subject":"Rajiv Chowk metro station","caption":"Rajiv Chowk, the busiest interchange on the Delhi Metro, whose parking lots are exempt from the doubled fees.","alt":"Rajiv Chowk metro station in Delhi"}
+```
 
 Chief Minister Rekha Gupta asked residents to cooperate. "Do not bring restricted vehicles registered outside Delhi into the city," she said, and urged people to "reduce non-essential use of personal vehicles, prioritizing public transit and carpooling instead."

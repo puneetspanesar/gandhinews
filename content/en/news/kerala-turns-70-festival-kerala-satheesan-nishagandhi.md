@@ -59,7 +59,9 @@ Keralam turns 70 today. The state was formed on 1 November 1956, and this year's
 
 Chief Minister V D Satheesan will open the state-level celebration at **Nishagandhi Auditorium in Thiruvananthapuram at 4 pm**. Health Minister K Muraleedharan will preside, and Chief Secretary Biswanath Sinha will give the welcome address. Ministers, officials, artists, cultural figures and sportspersons have been invited. The government says the festival will showcase the state's cultural heritage, art traditions, sporting achievements and social progress.
 
-```photo {"n":1,"subject":"K. Muraleedharan","caption":"Health Minister K Muraleedharan, who will preside over the opening function in Thiruvananthapuram.","alt":"Keralam Health Minister K Muraleedharan"}```
+```photo
+{"n":1,"subject":"K. Muraleedharan","caption":"Health Minister K Muraleedharan, who will preside over the opening function in Thiruvananthapuram.","alt":"Keralam Health Minister K Muraleedharan"}
+```
 
 ## A festival on the road
 
@@ -67,6 +69,8 @@ Satheesan announced the plan in September. Under the name Festival Kerala, the g
 
 A cabinet sub-committee chaired by the Chief Minister is running the festival, with **Cultural Minister P C Vishnunadh as convener**. The name itself drew debate. Satheesan said the event was called Festival Kerala rather than Festival Keralam because some grammar experts objected to using "Keralam" in that form, even as the state now goes by its new name.
 
-```photo {"n":2,"subject":"P. C. Vishnunadh","caption":"Cultural Minister P C Vishnunadh, convener of the cabinet sub-committee organising the festival.","alt":"Keralam Cultural Minister P C Vishnunadh"}```
+```photo
+{"n":2,"subject":"P. C. Vishnunadh","caption":"Cultural Minister P C Vishnunadh, convener of the cabinet sub-committee organising the festival.","alt":"Keralam Cultural Minister P C Vishnunadh"}
+```
 
 Keralam is not alone in celebrating. Karnataka marks Rajyotsava today, and Madhya Pradesh, Chhattisgarh and Haryana also observe **their formation days on 1 November**.

@@ -69,7 +69,9 @@ The INDIA bloc brings its campaign against Chief Election Commissioner Gyanesh K
 
 Leaders are due to leave Congress president Mallikarjun Kharge's residence in open buses for the Minto Road junction near Connaught Place, where a "Chalo Dilli" march is set to **start at 12 noon** and head past Ajmeri Gate to the ground. "See you tomorrow, let's walk together!" Leader of the Opposition Rahul Gandhi posted on Saturday. Samajwadi Party chief Akhilesh Yadav and Trinamool Congress chief Mamata Banerjee are likely to attend.
 
-```photo {"n":1,"subject":"Ajmeri Gate, Delhi","caption":"Ajmeri Gate, on the route of the opposition's planned march from Connaught Place to Ramlila Maidan.","alt":"Ajmeri Gate in Delhi"}```
+```photo
+{"n":1,"subject":"Ajmeri Gate, Delhi","caption":"Ajmeri Gate, on the route of the opposition's planned march from Connaught Place to Ramlila Maidan.","alt":"Ajmeri Gate in Delhi"}
+```
 
 The march may test the police. Delhi Police have cleared the gathering at the ground, but police sources said **no application had been made for a march** from Connaught Place, and that leaders could travel by private vehicle instead. The permission for the rally bars any procession from the ground and requires the crowd to disperse by 5 pm, with no overnight stay.
 
@@ -79,6 +81,8 @@ The bloc says it expects up to 10 lakh people. Police put the figure at about 50
 
 Traffic will be diverted from 10 am to 5 pm at points including ITO, Delhi Gate, Rajghat, Ajmeri Gate and Turkman Gate. Commuters are advised to **avoid Minto Road and Bahadur Shah Zafar Marg**, along with Jawaharlal Nehru Marg and Desh Bandhu Gupta Road, and to take the Metro. Ambulance routes to LNJP and GB Pant hospitals will stay open.
 
-```photo {"n":2,"subject":"Hardeep Singh Puri","caption":"Union Minister Hardeep Singh Puri is to lead the BJP's counter march in Hari Nagar over the rally's date.","alt":"Union Minister Hardeep Singh Puri"}```
+```photo
+{"n":2,"subject":"Hardeep Singh Puri","caption":"Union Minister Hardeep Singh Puri is to lead the BJP's counter march in Hari Nagar over the rally's date.","alt":"Union Minister Hardeep Singh Puri"}
+```
 
 The BJP is answering with a **march in Hari Nagar, West Delhi, at 11 am**, led by Union Minister Hardeep Singh Puri and Delhi BJP president Harsh Malhotra, with families of victims of the 1984 anti-Sikh riots. The party says the Congress should apologise for 1984 before rallying on its anniversary.
