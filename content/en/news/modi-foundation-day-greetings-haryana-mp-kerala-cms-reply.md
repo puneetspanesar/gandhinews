@@ -59,9 +59,6 @@ The chief ministers answered within the hour, each folding the day into the lang
 
 Chief Minister Nayab Singh Saini thanked him. "From the very beginning, you have had a deep attachment to Haryana, the land of Karmaveers," Saini wrote, crediting the Centre's cooperation for progress in education, sports, infrastructure, farmer welfare and startups. He pledged, "on behalf of the 2.80 crore families of the state", to **work for Viksit Bharat @ 2047**.
 
-```photo
-{"n":1,"subject":"Nayab Singh Saini","caption":"Haryana Chief Minister Nayab Singh Saini, who replied to the Prime Minister's greeting with a pledge for 2047.","alt":"Nayab Singh Saini"}
-```
 
 ## Heritage and new milestones
 

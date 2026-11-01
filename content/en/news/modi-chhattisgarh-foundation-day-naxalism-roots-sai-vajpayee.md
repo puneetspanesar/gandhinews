@@ -43,9 +43,6 @@ Prime Minister Narendra Modi on Sunday linked Chhattisgarh's progress to the cam
 
 He described Chhattisgarh as "renowned for its tribal culture, natural wealth, and unique folk traditions", with archaeological heritage as **its special identity**. "I am confident that with the participation of my talented and hardworking family members, this state will continue to make significant contributions to the prosperity of the nation," he wrote.
 
-```photo
-{"n":1,"subject":"Atal Bihari Vajpayee","caption":"Former Prime Minister Atal Bihari Vajpayee, whom Chief Minister Sai credited today with turning the dream of a separate state into reality.","alt":"Atal Bihari Vajpayee"}
-```
 
 ## Sai looks back, and ahead
 
@@ -55,8 +52,5 @@ He called the state "the maternal home of Lord Shri Ram, the sacred land of Moth
 
 Sai asked people to come together "under the leadership of the Honourable Prime Minister Shri Narendra Modi Ji" to strengthen the resolve for the **Chhattisgarh Anjor Vision 2047**, the state's long-term development plan.
 
-```photo
-{"n":2,"subject":"Mata Kaushalya Temple, Chandkhuri","caption":"The Mata Kaushalya temple at Chandkhuri near Raipur, linked to the state's claim as the maternal home of Lord Ram that Sai invoked.","alt":"Mata Kaushalya Temple at Chandkhuri"}
-```
 
 The state's three-day Rajyotsav opens in Nava Raipur later today.
