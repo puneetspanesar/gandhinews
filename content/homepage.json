@@ -70,11 +70,11 @@
       "sambit-patra-illegal-lop-rahul-gandhi-ramlila-rally-flop"
     ],
     "relatedBeside": [
-      "mb-patil-rejects-kumaraswamy-honda-exit-claim-narasapura",
-      "shinde-murder-cases-lenders-farmer-suicides-nanded",
-      "nepal-dolpa-indian-trekkers-located-helicopter-turned-back-rescue-monday",
-      "honda-cars-october-sales-8082-exports-fall-88-per-cent",
-      "hero-motocorp-october-sales-734403-scooters-61-per-cent"
+      "gst-retail-e-invoicing-pilot-april-2027-b2c",
+      "lakshya-sen-hylo-open-title-indian-double-saarbrucken",
+      "harmanpreet-hat-trick-india-beat-malaysia-asian-champions-trophy",
+      "fc-goa-beat-inter-kashi-isl-pune-gouramangi-red",
+      "mb-patil-rejects-kumaraswamy-honda-exit-claim-narasapura"
     ],
     "live": {
       "title": {
@@ -85,6 +85,50 @@
   },
   "briefing": {
     "items": [
+      {
+        "link": "gst-retail-e-invoicing-pilot-april-2027-b2c",
+        "lead": {
+          "en": "GST:",
+          "hi": "जीएसटी:"
+        },
+        "text": {
+          "en": "Retail e-invoicing pilot planned from April 2027.",
+          "hi": "अप्रैल 2027 से खुदरा ई-इनवॉइसिंग पायलट की योजना।"
+        }
+      },
+      {
+        "link": "lakshya-sen-hylo-open-title-indian-double-saarbrucken",
+        "lead": {
+          "en": "Lakshya Sen:",
+          "hi": "लक्ष्य सेन:"
+        },
+        "text": {
+          "en": "Beats Christie for Hylo Open title, an Indian double.",
+          "hi": "क्रिस्टी को हराकर हायलो ओपन खिताब, भारत का दोहरा जश्न।"
+        }
+      },
+      {
+        "link": "harmanpreet-hat-trick-india-beat-malaysia-asian-champions-trophy",
+        "lead": {
+          "en": "Hockey:",
+          "hi": "हॉकी:"
+        },
+        "text": {
+          "en": "Harmanpreet hat-trick as India beat Malaysia 4-2.",
+          "hi": "हरमनप्रीत की हैट्रिक, भारत ने मलेशिया को 4-2 से हराया।"
+        }
+      },
+      {
+        "link": "fc-goa-beat-inter-kashi-isl-pune-gouramangi-red",
+        "lead": {
+          "en": "ISL:",
+          "hi": "आईएसएल:"
+        },
+        "text": {
+          "en": "FC Goa beat Inter Kashi 2-1 for first win.",
+          "hi": "एफसी गोवा ने इंटर काशी को 2-1 से हराकर पहली जीत दर्ज की।"
+        }
+      },
       {
         "link": "mb-patil-rejects-kumaraswamy-honda-exit-claim-narasapura",
         "lead": {
@@ -127,50 +171,6 @@
         "text": {
           "en": "October sales down 23% as exports collapse.",
           "hi": "निर्यात गिरने से अक्टूबर बिक्री 23% घटी।"
-        }
-      },
-      {
-        "link": "delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023",
-        "lead": {
-          "en": "Delhi air:",
-          "hi": "दिल्ली की हवा:"
-        },
-        "text": {
-          "en": "AQI climbs to 277 by evening; coldest 1 November since 2023.",
-          "hi": "शाम तक एक्यूआई 277; 2023 के बाद 1 नवंबर की सबसे ठंडी सुबह।"
-        }
-      },
-      {
-        "link": "meghwal-cec-offered-meet-protesters-no-list-kochi-bihar-nda",
-        "lead": {
-          "en": "Meghwal:",
-          "hi": "मेघवाल:"
-        },
-        "text": {
-          "en": "CEC offered to meet protesters, \"they never gave the list\".",
-          "hi": "सीईसी मिलने को तैयार थे, \"उन्होंने सूची ही नहीं दी\"।"
-        }
-      },
-      {
-        "link": "hero-motocorp-october-sales-734403-scooters-61-per-cent",
-        "lead": {
-          "en": "Hero:",
-          "hi": "हीरो:"
-        },
-        "text": {
-          "en": "7,34,403 two-wheelers in October; scooters up 61%.",
-          "hi": "अक्टूबर में 7,34,403 दोपहिया; स्कूटर 61% बढ़े।"
-        }
-      },
-      {
-        "link": "majhi-appointment-letters-2067-tribal-language-teachers",
-        "lead": {
-          "en": "Odisha:",
-          "hi": "ओडिशा:"
-        },
-        "text": {
-          "en": "Majhi hands jobs to 2,067 sevaks and tribal language teachers.",
-          "hi": "माझी ने 2,067 सेवकों और जनजातीय भाषा शिक्षकों को नियुक्ति पत्र दिए।"
         }
       }
     ]
@@ -238,22 +238,22 @@
   },
   "topStories": {
     "big": {
-      "id": "mb-patil-rejects-kumaraswamy-honda-exit-claim-narasapura",
+      "id": "gst-retail-e-invoicing-pilot-april-2027-b2c",
       "also": [
-        "shinde-murder-cases-lenders-farmer-suicides-nanded",
-        "nepal-dolpa-indian-trekkers-located-helicopter-turned-back-rescue-monday"
+        "lakshya-sen-hylo-open-title-indian-double-saarbrucken",
+        "harmanpreet-hat-trick-india-beat-malaysia-asian-champions-trophy"
       ]
     },
     "list": [
+      "mb-patil-rejects-kumaraswamy-honda-exit-claim-narasapura",
+      "shinde-murder-cases-lenders-farmer-suicides-nanded",
+      "nepal-dolpa-indian-trekkers-located-helicopter-turned-back-rescue-monday",
       "honda-cars-october-sales-8082-exports-fall-88-per-cent",
-      "meghwal-cec-offered-meet-protesters-no-list-kochi-bihar-nda",
-      "delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023",
-      "hero-motocorp-october-sales-734403-scooters-61-per-cent",
-      "seifert-93-new-zealand-beat-india-seven-wickets-hamilton-series-3-2"
+      "meghwal-cec-offered-meet-protesters-no-list-kochi-bihar-nda"
     ],
     "also": [
-      "shinde-murder-cases-lenders-farmer-suicides-nanded",
-      "nepal-dolpa-indian-trekkers-located-helicopter-turned-back-rescue-monday"
+      "lakshya-sen-hylo-open-title-indian-double-saarbrucken",
+      "harmanpreet-hat-trick-india-beat-malaysia-asian-champions-trophy"
     ]
   },
   "startHere": [
@@ -449,10 +449,10 @@
         ]
       },
       "list": [
+        "gst-retail-e-invoicing-pilot-april-2027-b2c",
         "honda-cars-october-sales-8082-exports-fall-88-per-cent",
         "hero-motocorp-october-sales-734403-scooters-61-per-cent",
-        "royal-enfield-october-sales-133442-exports-47-per-cent",
-        "toyota-october-sales-30360-domestic-down-27-per-cent"
+        "royal-enfield-october-sales-133442-exports-47-per-cent"
       ]
     },
     {
@@ -508,12 +508,12 @@
     },
     {
       "section": "sports",
-      "lead": "seifert-93-new-zealand-beat-india-seven-wickets-hamilton-series-3-2",
+      "lead": "lakshya-sen-hylo-open-title-indian-double-saarbrucken",
       "list": [
-        "milne-four-wickets-india-191-new-zealand-chase-hamilton",
-        "kishan-61-calendar-year-record-iyer-fifty-hamilton",
-        "santner-wins-toss-india-bat-hamilton-bhuvneshwar-varun-return",
-        "gambhir-my-job-not-to-make-everyone-happy-deep-squad"
+        "harmanpreet-hat-trick-india-beat-malaysia-asian-champions-trophy",
+        "fc-goa-beat-inter-kashi-isl-pune-gouramangi-red",
+        "seifert-93-new-zealand-beat-india-seven-wickets-hamilton-series-3-2",
+        "milne-four-wickets-india-191-new-zealand-chase-hamilton"
       ]
     }
   ],
