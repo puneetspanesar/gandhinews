@@ -53,18 +53,10 @@ That defeat broke a run of three Indian wins: two tight chases in Christchurch a
 
 New Zealand needed a Glenn Phillips century and a Michael Bracewell blitz to reach their total on Friday, and Mitchell Santner's side will want **a second straight win** to take into the ODIs.
 
-```photo
-{"n":1,"subject":"Michael Bracewell","caption":"New Zealand all-rounder Michael Bracewell, whose late hitting helped the hosts to 259 at Eden Park.","alt":"New Zealand cricketer Michael Bracewell"}
-```
-
 ## Selection questions
 
 The bowling is where India have most to settle. Bhuvneshwar Kumar was left out on Friday after taking **one wicket in three matches** at an economy of 11.58, and Mayank Yadav took three wickets in his place. Former India batter Ajinkya Rahane urged patience with the veteran. "For me, the biggest story is that he has made a comeback at this age," he said on his YouTube channel.
 
 Kuldeep Yadav is expected to return, with Varun Chakaravarthy also available, and there has been talk of resting Arshdeep Singh, India's best bowler on the tour, to fit in an extra spinner. At the top of the order, Vaibhav Sooryavanshi, who **made 45 off 19 balls** in the third match, could come back after sitting out on Friday when Ishan Kishan returned from injury.
-
-```photo
-{"n":2,"subject":"Kuldeep Yadav","caption":"Left-arm wrist spinner Kuldeep Yadav, expected to return for India in Hamilton.","alt":"India spinner Kuldeep Yadav"}
-```
 
 Seddon Park has hosted 23 men's and women's T20Is, with an average first-innings score of 168. Its highest total, **212 for four**, was made by New Zealand against India.

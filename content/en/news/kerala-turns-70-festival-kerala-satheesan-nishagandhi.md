@@ -69,8 +69,4 @@ Satheesan announced the plan in September. Under the name Festival Kerala, the g
 
 A cabinet sub-committee chaired by the Chief Minister is running the festival, with **Cultural Minister P C Vishnunadh as convener**. The name itself drew debate. Satheesan said the event was called Festival Kerala rather than Festival Keralam because some grammar experts objected to using "Keralam" in that form, even as the state now goes by its new name.
 
-```photo
-{"n":2,"subject":"P. C. Vishnunadh","caption":"Cultural Minister P C Vishnunadh, convener of the cabinet sub-committee organising the festival.","alt":"Keralam Cultural Minister P C Vishnunadh"}
-```
-
 Keralam is not alone in celebrating. Karnataka marks Rajyotsava today, and Madhya Pradesh, Chhattisgarh and Haryana also observe **their formation days on 1 November**.

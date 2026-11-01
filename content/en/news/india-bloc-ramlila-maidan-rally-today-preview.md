@@ -81,8 +81,4 @@ The bloc says it expects up to 10 lakh people. Police put the figure at about 50
 
 Traffic will be diverted from 10 am to 5 pm at points including ITO, Delhi Gate, Rajghat, Ajmeri Gate and Turkman Gate. Commuters are advised to **avoid Minto Road and Bahadur Shah Zafar Marg**, along with Jawaharlal Nehru Marg and Desh Bandhu Gupta Road, and to take the Metro. Ambulance routes to LNJP and GB Pant hospitals will stay open.
 
-```photo
-{"n":2,"subject":"Hardeep Singh Puri","caption":"Union Minister Hardeep Singh Puri is to lead the BJP's counter march in Hari Nagar over the rally's date.","alt":"Union Minister Hardeep Singh Puri"}
-```
-
 The BJP is answering with a **march in Hari Nagar, West Delhi, at 11 am**, led by Union Minister Hardeep Singh Puri and Delhi BJP president Harsh Malhotra, with families of victims of the 1984 anti-Sikh riots. The party says the Congress should apologise for 1984 before rallying on its anniversary.
