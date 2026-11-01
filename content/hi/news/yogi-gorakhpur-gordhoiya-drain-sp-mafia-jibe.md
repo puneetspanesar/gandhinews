@@ -32,7 +32,8 @@ sources:
     primary: false
 verification:
   status: approved
-  notes: "event: 1 Nov, Sunday programme in Gorakhpur; PTI copy time stamped 18:50 IST. Exact time of speech not stated in source. Single wire source."
+  notes:
+    - "event: 1 Nov, Sunday programme in Gorakhpur; PTI copy time stamped 18:50 IST. Exact time of speech not stated in source. Single wire source."
 ---
 
 उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ ने रविवार को गोरखपुर में **गोड़धोइया नाले के पहले चरण का लोकार्पण** किया। यह परियोजना 495 करोड़ रुपये से अधिक की लागत से बनी है। मुख्यमंत्री ने कहा कि उनका गृह नगर एक साथ दो पुरानी मुसीबतों से छूट गया है।

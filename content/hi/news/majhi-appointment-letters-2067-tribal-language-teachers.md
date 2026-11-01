@@ -32,7 +32,8 @@ sources:
     primary: false
 verification:
   status: approved
-  notes: "event: 1 Nov, Sunday ceremony in Bhubaneswar; PTI copy time stamped 19:47 IST. Exact time of the ceremony not stated in source. Single wire source."
+  notes:
+    - "event: 1 Nov, Sunday ceremony in Bhubaneswar; PTI copy time stamped 19:47 IST. Exact time of the ceremony not stated in source. Single wire source."
 ---
 
 ओडिशा के मुख्यमंत्री मोहन चरण माझी ने रविवार को **2,067 सेवकों, सेविकाओं और जनजातीय भाषा शिक्षकों को नियुक्ति पत्र** सौंपे और उनसे कहा कि वे कक्षा में बच्चों के साथ एक दोस्त की तरह खड़े रहें।
