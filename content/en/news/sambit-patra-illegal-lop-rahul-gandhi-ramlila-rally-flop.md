@@ -17,7 +17,7 @@ hero:
   need: "Two-panel split: BJP spokesperson Sambit Patra and Leader of Opposition Rahul Gandhi"
   suggested_source: "Sambit Patra"
   subjects: ["Sambit Patra", "Rahul Gandhi"]
-  alt: "BJP MP Sambit Patra and Leader of Opposition Rahul Gandhi (file photos)"
+  alt: "Leader of Opposition Rahul Gandhi (file photo)"
   overlay:
     value: "'Challenge it in court'"
 related: [rahul-parrot-gyanesh-kumar-kharge-chori-ki-sarkar-ramlila, nadda-anarchy-model-india-bloc-rally-sood-chaos, mamata-yes-papa-ramlila-gyanesh-kumar-bengal-sir, tejashwi-shakuni-akhilesh-31000-votes-ramlila-rally]

@@ -18,7 +18,7 @@ hero:
   need: "दो हिस्सों वाली तस्वीर: भाजपा प्रवक्ता संबित पात्रा और नेता प्रतिपक्ष राहुल गांधी"
   suggested_source: "Sambit Patra"
   subjects: ["Sambit Patra", "Rahul Gandhi"]
-  alt: "भाजपा सांसद संबित पात्रा और नेता प्रतिपक्ष राहुल गांधी (फाइल फोटो)"
+  alt: "लोकसभा में नेता प्रतिपक्ष राहुल गांधी (फ़ाइल फ़ोटो)"
   overlay:
     value: "'अदालत में चुनौती दीजिए'"
 related: [rahul-parrot-gyanesh-kumar-kharge-chori-ki-sarkar-ramlila, nadda-anarchy-model-india-bloc-rally-sood-chaos, mamata-yes-papa-ramlila-gyanesh-kumar-bengal-sir, tejashwi-shakuni-akhilesh-31000-votes-ramlila-rally]

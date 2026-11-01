@@ -66,8 +66,8 @@
    }
   ],
   "relatedBelow": [
-   "mamata-yes-papa-ramlila-gyanesh-kumar-bengal-sir",
-   "tejashwi-shakuni-akhilesh-31000-votes-ramlila-rally"
+   "sambit-patra-illegal-lop-rahul-gandhi-ramlila-rally-flop",
+   "mamata-yes-papa-ramlila-gyanesh-kumar-bengal-sir"
   ],
   "relatedBeside": [
    "kia-record-october-sales-33462-seltos",
@@ -85,6 +85,17 @@
  },
  "briefing": {
   "items": [
+   {
+    "link": "sambit-patra-illegal-lop-rahul-gandhi-ramlila-rally-flop",
+    "lead": {
+     "en": "BJP:",
+     "hi": "भाजपा:"
+    },
+    "text": {
+     "en": "Sambit Patra calls the INDIA bloc rally a flop: \"challenge it in court\".",
+     "hi": "संबित पात्रा ने इंडिया गठबंधन की रैली को फ्लॉप बताया: \"अदालत में चुनौती दें\"।"
+    }
+   },
    {
     "link": "royal-enfield-october-sales-133442-exports-47-per-cent",
     "lead": {
@@ -161,17 +172,6 @@
      "en": "Tejashwi calls it Kurukshetra; Akhilesh takes SIR fight to UP.",
      "hi": "तेजस्वी ने कहा कुरुक्षेत्र; अखिलेश ने एसआईआर की लड़ाई यूपी तक पहुंचाई।"
     }
-   },
-   {
-    "link": "electric-two-wheeler-registrations-october-2026-tvs-leads-48-per-cent",
-    "lead": {
-     "en": "EVs:",
-     "hi": "ईवी:"
-    },
-    "text": {
-     "en": "Electric two-wheeler registrations up 48% in October.",
-     "hi": "अक्टूबर में इलेक्ट्रिक दोपहिया पंजीकरण 48% बढ़े।"
-    }
    }
   ]
  },
@@ -245,11 +245,11 @@
    ]
   },
   "list": [
+   "sambit-patra-illegal-lop-rahul-gandhi-ramlila-rally-flop",
    "royal-enfield-october-sales-133442-exports-47-per-cent",
    "mamata-yes-papa-ramlila-gyanesh-kumar-bengal-sir",
    "kia-record-october-sales-33462-seltos",
-   "iran-designates-royal-navy-raf-terrorist-mi6-hostile",
-   "nadda-anarchy-model-india-bloc-rally-sood-chaos"
+   "iran-designates-royal-navy-raf-terrorist-mi6-hostile"
   ],
   "also": [
    "tejashwi-shakuni-akhilesh-31000-votes-ramlila-rally",
@@ -429,10 +429,10 @@
     "article": "bypoll-results-ruling-parties-win-all-six-seats"
    },
    "list": [
+    "sambit-patra-illegal-lop-rahul-gandhi-ramlila-rally-flop",
     "mamata-yes-papa-ramlila-gyanesh-kumar-bengal-sir",
     "tejashwi-shakuni-akhilesh-31000-votes-ramlila-rally",
-    "nadda-anarchy-model-india-bloc-rally-sood-chaos",
-    "khurshid-not-end-one-rally-shukla-gyanesh-kumar-resign"
+    "nadda-anarchy-model-india-bloc-rally-sood-chaos"
    ],
    "lead": "rahul-parrot-gyanesh-kumar-kharge-chori-ki-sarkar-ramlila"
   },
