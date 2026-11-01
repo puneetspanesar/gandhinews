@@ -53,7 +53,9 @@ Restaurants, hotels and sweet shops will pay more for cooking gas this month. Oi
 
 In Delhi the cylinder now costs **₹2,820, up ₹10** from ₹2,810. Mumbai buyers pay ₹10.50 more, at ₹2,775, and in Chennai the price rose by ₹11.50 to ₹2,994.50. Kolkata took the **biggest increase, ₹17**, taking its cylinder to ₹2,971.
 
-```photo {"n":1,"subject":"Chandni Chowk","caption":"Chandni Chowk in Old Delhi, where eateries and sweet shops run on commercial cylinders, a week before Diwali demand peaks.","alt":"Shops and crowds in Chandni Chowk, Delhi"}```
+```photo
+{"n":1,"subject":"Chandni Chowk","caption":"Chandni Chowk in Old Delhi, where eateries and sweet shops run on commercial cylinders, a week before Diwali demand peaks.","alt":"Shops and crowds in Chandni Chowk, Delhi"}
+```
 
 The small monthly steps add up. Across the three revisions since August, the Delhi cylinder has risen by ₹82 and the Kolkata one by ₹98.50. A year ago the same cylinder cost ₹1,590.50 in the capital, so businesses are now paying **about 77% more** than they did in November 2025.
 
@@ -63,6 +65,8 @@ Households are spared for now. The **14.2-kg domestic cylinder is unchanged**, a
 
 Commercial LPG is priced off international benchmarks, chiefly the contract price that Saudi Aramco sets each month. For November, **Aramco raised propane by $40** to $720 a tonne and butane by $50 to $780 a tonne. Algeria's Sonatrach made even sharper increases. With the Strait of Hormuz still shut and Brent crude above $113 a barrel, there is little sign of relief from the Gulf.
 
-```photo {"n":2,"subject":"Ras Tanura","caption":"Saudi Aramco's Ras Tanura terminal on the Gulf coast; the company's monthly LPG contract price sets the base for Indian commercial cylinders.","alt":"Oil and gas terminal at Ras Tanura, Saudi Arabia"}```
+```photo
+{"n":2,"subject":"Ras Tanura","caption":"Saudi Aramco's Ras Tanura terminal on the Gulf coast; the company's monthly LPG contract price sets the base for Indian commercial cylinders.","alt":"Oil and gas terminal at Ras Tanura, Saudi Arabia"}
+```
 
 Sweet makers in particular may pass the extra cost on to customers in the run-up to Diwali, when their gas use is at its highest.
