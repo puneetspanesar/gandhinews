@@ -36410,13 +36410,23 @@
   "id": "x-sambit-patra-illegal-lop-rahul-gandhi-ramlila-rally-flop",
   "articleId": "sambit-patra-illegal-lop-rahul-gandhi-ramlila-rally-flop",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Rahul_hd.jpg/1600px-Rahul_hd.jpg",
-  "credit": "Photo: Mrhitmam / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Leader of Opposition Rahul Gandhi (file photo)",
-  "alt_hi": "लोकसभा में नेता प्रतिपक्ष राहुल गांधी (फ़ाइल फ़ोटो)",
+  "credit": "Photos: Government of Odisha / Wikimedia Commons; Mrhitmam / Wikimedia Commons",
+  "licence": "CC BY 4.0, CC BY-SA 4.0",
+  "alt": "BJP MP Sambit Patra and Leader of the Opposition Rahul Gandhi (file photos)",
+  "alt_hi": "भाजपा सांसद संबित पात्रा और नेता प्रतिपक्ष राहुल गांधी (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Rahul_hd.jpg",
   "composite": [
+   "cx-sambit-patra-illegal-lop-rahul-gandhi-ramlila-rally-flop-s",
    "cx-sambit-patra-illegal-lop-rahul-gandhi-ramlila-rally-flop-0"
   ]
+ },
+ {
+  "id": "cx-sambit-patra-illegal-lop-rahul-gandhi-ramlila-rally-flop-s",
+  "articleId": "part:sambit-patra-illegal-lop-rahul-gandhi-ramlila-rally-flop:s",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Pratap_Sarangi%2C_Prabhati_Parida%2C_Mohan_Charan_Majhi_and_Sambit_Patra_at_Puri_Shree_Jagannath_Temple.jpg",
+  "credit": "Government of Odisha",
+  "licence": "CC BY 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Pratap_Sarangi,_Prabhati_Parida,_Mohan_Charan_Majhi_and_Sambit_Patra_at_Puri_Shree_Jagannath_Temple.jpg"
  }
 ]
