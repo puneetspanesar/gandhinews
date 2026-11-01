@@ -75,7 +75,7 @@ From Sunday the commercial cylinder costs **₹2,820 in Delhi**, ₹10 more than
 The main benchmark is the Saudi Contract Price, or CP, which Saudi Aramco announces at the start of each month for propane and butane, the two gases that make up LPG. India imports about 60% of its LPG, and its landed cost is tied to the CP. For November, **Aramco raised propane by $40** to $720 a tonne and butane by $50 to $780 a tonne. Public sector oil marketing companies, led by Indian Oil, Bharat Petroleum and Hindustan Petroleum, then reset the cylinder price on the first of the month.
 
 ```photo
-{"n":1,"subject":"Sonatrach headquarters","caption":"The headquarters of Sonatrach in Algiers. India has turned to Algeria, the US and Canada for more LPG, and Sonatrach also raised its prices for November.","alt":"The Sonatrach headquarters building in Algiers"}
+{"n":1,"subject":"Sonatrach","caption":"A Sonatrach office in Oran, Algeria. India has turned to Algeria, the US and Canada for more LPG, and Sonatrach also raised its prices for November.","alt":"A Sonatrach office building in Oran, Algeria"}
 ```
 
 ## Why has it been so volatile this year?
@@ -103,5 +103,5 @@ Prices then eased over the summer before turning up again. Across the three revi
 **Eating out may cost a little more.** Commercial gas is a direct cost for eateries and sweet makers, whose gas use peaks in the run-up to Diwali, and many may pass the rise on. Households are protected for now, but the gap between cost and price does not disappear. It sits on the books of the oil companies and, through compensation, the government. As long as Hormuz stays closed and Gulf prices stay high, that bill keeps growing, and the pressure for another household increase grows with it. The next commercial revision is due on 1 December.
 
 ```photo
-{"n":2,"subject":"Bengali Market","caption":"Bengali Market in central Delhi, known for its sweet shops and eateries, which run on commercial cylinders and use the most gas in the weeks before Diwali.","alt":"Shops and eateries at Bengali Market, New Delhi"}
+{"n":2,"subject":"LPG cylinder","caption":"An LPG cylinder. Sweet shops and eateries run on the 19-kg commercial cylinder and use the most gas in the weeks before Diwali.","alt":"A red LPG cylinder"}
 ```

@@ -10,10 +10,10 @@ standfirst: "Gross GST collections for October rose at their fastest pace in mon
 published: 2026-11-01T17:50:00+05:30
 shortAnswer: "October's gross GST of ₹2,31,290 crore, up 22.9% on a year ago, rests on three things. Domestic collections, up 15.8%, are being compared with October 2025, when growth was the weakest of that year because buyers had put off purchases until the GST rate cuts of 22 September 2025. Tax on imports, up 42.2% to ₹72,246 crore, has been running far ahead of domestic tax for months, helped by a weaker rupee and higher commodity prices that raise the rupee value of everything brought in. And refunds grew only 6.5%, so net revenue rose even faster, by 25.6%, to ₹2,03,356 crore."
 hero:
-  need: "Deendayal Port at Kandla, Gujarat, one of the ports where import GST is collected"
-  suggested_source: "Deendayal Port Kandla"
-  subjects: ["Deendayal Port Kandla"]
-  alt: "Ships and cranes at Deendayal Port, Kandla, in Gujarat"
+  need: "Chennai Port, Tamil Nadu, one of the ports where import GST is collected"
+  suggested_source: "Chennai Port containers"
+  subjects: ["Chennai Port"]
+  alt: "A container ship and cranes at the Chennai Container Terminal"
   overlay:
     value: "Imports drive the GST surge"
 related: [gst-collections-october-2026-2-31-lakh-crore-imports, gst-explained-slabs-council-revenue-sharing, gst-return-forms-gstr-1-amended-consultation-november-1]

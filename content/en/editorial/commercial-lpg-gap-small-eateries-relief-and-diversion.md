@@ -87,7 +87,7 @@ There is a fair case against any relief. Cutting tax for businesses means less m
 That is why the cut should be temporary and tied to the disruption, not open-ended. It is also why the money matters less than it seems: ₹300 a cylinder is a small sum for the exchequer and a large one for a family-run eatery buying several cylinders a month.
 
 ```photo
-{"n":1,"subject":"New Market, Kolkata","caption":"New Market in Kolkata, where the commercial cylinder rose most this month, by ₹17 to ₹2,971.","alt":"New Market, Kolkata"}
+{"n":1,"subject":"Kolkata food stall","caption":"A food stall kitchen in Kolkata, where the commercial cylinder rose most this month, by ₹17 to ₹2,971.","alt":"A cook at a food stall kitchen in Kolkata"}
 ```
 
 The government cannot control the price of propane in the Gulf. It does control the tax it adds on top, and whether household cylinders end up in commercial kitchens. It should act on both before the next monthly revision on 1 December.
