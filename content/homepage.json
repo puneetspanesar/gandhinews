@@ -86,6 +86,28 @@
  "briefing": {
   "items": [
    {
+    "link": "royal-enfield-october-sales-133442-exports-47-per-cent",
+    "lead": {
+     "en": "Royal Enfield:",
+     "hi": "रॉयल एनफील्ड:"
+    },
+    "text": {
+     "en": "1,33,442 bikes sold in October; exports up 47%.",
+     "hi": "अक्टूबर में 1,33,442 मोटरसाइकिलें बिकीं; निर्यात 47% बढ़ा।"
+    }
+   },
+   {
+    "link": "toyota-october-sales-30360-domestic-down-27-per-cent",
+    "lead": {
+     "en": "Toyota:",
+     "hi": "टोयोटा:"
+    },
+    "text": {
+     "en": "October sales fall 29% to 30,360.",
+     "hi": "अक्टूबर में बिक्री 29% घटकर 30,360।"
+    }
+   },
+   {
     "link": "mamata-yes-papa-ramlila-gyanesh-kumar-bengal-sir",
     "lead": {
      "en": "Mamata:",
@@ -105,17 +127,6 @@
     "text": {
      "en": "Record 33,462 cars sold in October, up 13%.",
      "hi": "अक्टूबर में रिकॉर्ड 33,462 कारें बिकीं, 13% बढ़त।"
-    }
-   },
-   {
-    "link": "jsw-mg-motor-october-sales-8013-up-19-per-cent",
-    "lead": {
-     "en": "MG:",
-     "hi": "एमजी:"
-    },
-    "text": {
-     "en": "JSW MG sales up 19% to 8,013 in October.",
-     "hi": "अक्टूबर में जेएसडब्ल्यू एमजी की बिक्री 19% बढ़कर 8,013।"
     }
    },
    {
@@ -160,17 +171,6 @@
     "text": {
      "en": "Electric two-wheeler registrations up 48% in October.",
      "hi": "अक्टूबर में इलेक्ट्रिक दोपहिया पंजीकरण 48% बढ़े।"
-    }
-   },
-   {
-    "link": "iran-designates-royal-navy-raf-terrorist-mi6-hostile",
-    "lead": {
-     "en": "Iran:",
-     "hi": "ईरान:"
-    },
-    "text": {
-     "en": "Tehran lists Royal Navy and RAF as terrorist groups.",
-     "hi": "तेहरान ने रॉयल नेवी और आरएएफ को आतंकी संगठन बताया।"
     }
    }
   ]
@@ -245,11 +245,11 @@
    ]
   },
   "list": [
+   "royal-enfield-october-sales-133442-exports-47-per-cent",
    "mamata-yes-papa-ramlila-gyanesh-kumar-bengal-sir",
    "kia-record-october-sales-33462-seltos",
    "iran-designates-royal-navy-raf-terrorist-mi6-hostile",
-   "nadda-anarchy-model-india-bloc-rally-sood-chaos",
-   "khurshid-not-end-one-rally-shukla-gyanesh-kumar-resign"
+   "nadda-anarchy-model-india-bloc-rally-sood-chaos"
   ],
   "also": [
    "tejashwi-shakuni-akhilesh-31000-votes-ramlila-rally",
@@ -449,10 +449,10 @@
     ]
    },
    "list": [
+    "royal-enfield-october-sales-133442-exports-47-per-cent",
+    "toyota-october-sales-30360-domestic-down-27-per-cent",
     "kia-record-october-sales-33462-seltos",
-    "jsw-mg-motor-october-sales-8013-up-19-per-cent",
-    "tvs-motor-october-sales-700134-record-evs-double",
-    "maruti-suzuki-record-october-sales-276120"
+    "jsw-mg-motor-october-sales-8013-up-19-per-cent"
    ]
   },
   {
