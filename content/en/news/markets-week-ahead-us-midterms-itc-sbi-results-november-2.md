@@ -88,15 +88,7 @@ The coming week will test that rebound from three directions at once: a heavy ru
 
 ITC and Wockhardt open the week with results on Monday. **State Bank of India reports on Tuesday**, alongside the National Stock Exchange and Solar Industries. BSE, Zydus Lifesciences and Premier Energies follow on Wednesday.
 
-```photo
-{"n":1,"subject":"United States Capitol","caption":"The US Capitol in Washington, control of which is at stake in Tuesday's midterm elections.","alt":"The United States Capitol building"}
-```
-
 Thursday brings two of the market's heavyweights, **Bharti Airtel and Titan Company**. Hindalco Industries reports on Friday, and Divi's Laboratories and Tata Steel close the week on Saturday. There is no scheduled trading holiday, so the week has five full sessions.
-
-```photo
-{"n":2,"subject":"Hindalco Industries Renukoot","caption":"Hindalco's aluminium plant at Renukoot in Uttar Pradesh; the company reports its quarterly results on Friday.","alt":"Hindalco's aluminium complex at Renukoot"}
-```
 
 ## Washington and Tehran
 
@@ -109,7 +101,7 @@ For India, which imports most of its oil, every dollar on Brent matters. The rup
 "Indian equities are expected to remain range-bound with bouts of volatility next week," said Siddhartha Khemka, head of research for wealth management at Motilal Oswal Financial Services.
 
 ```photo
-{"n":3,"subject":"Titan Company","caption":"Titan Company, the jewellery and watchmaker, reports its quarterly results on Thursday along with Bharti Airtel.","alt":"A Titan Company store"}
+{"n":3,"subject":"Titan Company","caption":"A Tanishq showroom. Titan Company, which owns the jewellery brand, reports its quarterly results on Thursday along with Bharti Airtel.","alt":"A Tanishq jewellery showroom of Titan Company"}
 ```
 
 Pabitro Mukherjee, deputy vice president for research at Bajaj Broking, said the index holding above Friday's low of 22,905 "will signal extension of the current pullback towards 23,150-23,200 levels". Ravi Singh, chief research officer at Master Capital Services, warned that a **break below 22,800** could drag the Nifty towards 22,500.
