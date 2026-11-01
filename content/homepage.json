@@ -1,535 +1,540 @@
 {
- "lead": {
-  "id": "india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar",
-  "overlay": {
-   "kicker": {
-    "en": "New Delhi, Saturday",
-    "hi": "नई दिल्ली, शनिवार"
-   },
-   "value": {
-    "en": "21 parties 'impeach' the CEC",
-    "hi": "21 दलों ने सीईसी पर चलाया 'महाभियोग'"
-   },
-   "text": {
-    "en": "",
-    "hi": ""
-   }
+  "lead": {
+    "id": "india-bloc-ramlila-maidan-rally-today-preview",
+    "overlay": {
+      "kicker": {
+        "en": "New Delhi, Sunday",
+        "hi": "नई दिल्ली, रविवार"
+      },
+      "value": {
+        "en": "Chalo Dilli day",
+        "hi": "'चलो दिल्ली' का दिन"
+      },
+      "text": {
+        "en": "",
+        "hi": ""
+      }
+    },
+    "dataBox": [
+      {
+        "icon": "clock",
+        "color": "#cc0000",
+        "value": {
+          "en": "10 am to 5 pm",
+          "hi": "सुबह 10 से शाम 5"
+        },
+        "label": {
+          "en": "rally permitted at Ramlila Maidan",
+          "hi": "रामलीला मैदान में रैली की अनुमति"
+        }
+      },
+      {
+        "icon": "person-simple-run",
+        "color": "#8f0000",
+        "value": {
+          "en": "Noon",
+          "hi": "दोपहर 12 बजे"
+        },
+        "label": {
+          "en": "march from Minto Road, no application filed",
+          "hi": "मिंटो रोड से मार्च, कोई आवेदन नहीं"
+        }
+      },
+      {
+        "icon": "police-car",
+        "color": "#0d0d0d",
+        "value": {
+          "en": "4,000+",
+          "hi": "4,000+"
+        },
+        "label": {
+          "en": "police personnel on duty",
+          "hi": "पुलिसकर्मी तैनात"
+        }
+      },
+      {
+        "icon": "megaphone",
+        "color": "#6e6e6e",
+        "value": {
+          "en": "11 am",
+          "hi": "सुबह 11 बजे"
+        },
+        "label": {
+          "en": "BJP counter march in Hari Nagar",
+          "hi": "हरि नगर में भाजपा का जवाबी मार्च"
+        }
+      }
+    ],
+    "relatedBelow": [
+      "india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar",
+      "delhi-pollution-curbs-bs-iv-ban-50-per-cent-office-from-today"
+    ],
+    "relatedBeside": [
+      "kerala-turns-70-festival-kerala-satheesan-nishagandhi",
+      "india-new-zealand-fifth-t20i-hamilton-preview",
+      "mexico-grand-prix-qualifying-hamilton-pole-antonelli-fourth",
+      "nc-mlas-demand-omar-cabinet-rejig-15-day-ultimatum",
+      "sensex-nifty-week-october-30-pharma-fii-return"
+    ],
+    "live": {
+      "title": {
+        "en": "CEC row",
+        "hi": "सीईसी विवाद"
+      }
+    }
   },
-  "dataBox": [
-   {
-    "icon": "users-three",
-    "color": "#cc0000",
-    "value": {
-     "en": "21",
-     "hi": "21"
-    },
-    "label": {
-     "en": "INDIA bloc parties at the mock Parliament",
-     "hi": "नकली संसद में इंडिया गठबंधन के दल"
-    }
-   },
-   {
-    "icon": "scales",
-    "color": "#8f0000",
-    "value": {
-     "en": "6 points",
-     "hi": "6 बिंदु"
-    },
-    "label": {
-     "en": "in the resolution seeking his removal",
-     "hi": "हटाने की मांग वाले प्रस्ताव में"
-    }
-   },
-   {
-    "icon": "megaphone",
-    "color": "#0d0d0d",
-    "value": {
-     "en": "Sun 1 Nov",
-     "hi": "रवि, 1 नवंबर"
-    },
-    "label": {
-     "en": "bloc rally at Ramlila Maidan",
-     "hi": "रामलीला मैदान में गठबंधन की रैली"
-    }
-   },
-   {
-    "icon": "bank",
-    "color": "#6e6e6e",
-    "value": {
-     "en": "Special session",
-     "hi": "विशेष सत्र"
-    },
-    "label": {
-     "en": "offered by Amit Shah on the charge",
-     "hi": "अमित शाह ने आरोप पर पेशकश की"
-    }
-   }
-  ],
-  "relatedBelow": [
-   "nc-mlas-demand-omar-cabinet-rejig-15-day-ultimatum",
-   "sensex-nifty-week-october-30-pharma-fii-return"
-  ],
-  "relatedBeside": [
-   "nz-thrash-india-87-runs-eden-park-fourth-t20i"
-  ],
-  "live": {
-   "title": {
-    "en": "CEC row",
-    "hi": "सीईसी विवाद"
-   }
-  }
- },
- "briefing": {
-  "items": [
-   {
-    "link": "india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar",
-    "lead": {
-     "en": "CEC row:",
-     "hi": "सीईसी विवाद:"
-    },
-    "text": {
-     "en": "21 INDIA bloc parties 'impeach' Gyanesh Kumar at a mock Parliament.",
-     "hi": "इंडिया गठबंधन के 21 दलों ने नकली संसद में ज्ञानेश कुमार पर 'महाभियोग' चलाया।"
-    }
-   },
-   {
-    "link": "nc-mlas-demand-omar-cabinet-rejig-15-day-ultimatum",
-    "lead": {
-     "en": "J&K:",
-     "hi": "जम्मू-कश्मीर:"
-    },
-    "text": {
-     "en": "NC legislators give a 15-day ultimatum for a fresh cabinet reshuffle.",
-     "hi": "एनसी विधायकों ने मंत्रिमंडल फेरबदल के लिए 15 दिन का अल्टीमेटम दिया।"
-    }
-   },
-   {
-    "link": "sensex-nifty-week-october-30-pharma-fii-return",
-    "lead": {
-     "en": "Markets:",
-     "hi": "बाज़ार:"
-    },
-    "text": {
-     "en": "Nifty back above 23,000; Sensex up 1.83% for the week.",
-     "hi": "निफ्टी फिर 23,000 के पार; सेंसेक्स हफ़्ते में 1.83% चढ़ा।"
-    }
-   },
-   {
-    "link": "nz-thrash-india-87-runs-eden-park-fourth-t20i",
-    "lead": {
-     "en": "Cricket:",
-     "hi": "क्रिकेट:"
-    },
-    "text": {
-     "en": "New Zealand beat India by 87 runs at Eden Park; India lead 3-1.",
-     "hi": "ईडन पार्क में न्यूजीलैंड ने भारत को 87 रन से हराया; भारत 3-1 से आगे।"
-    }
-   },
-   {
-    "link": "jio-platforms-lists-21-per-cent-premium-1358",
-    "lead": {
-     "en": "Jio:",
-     "hi": "जियो:"
-    },
-    "text": {
-     "en": "Jio Platforms lists 21% above issue price, now India's No. 2 by value.",
-     "hi": "जियो प्लेटफॉर्म्स 21% प्रीमियम पर लिस्ट, मूल्य में देश में दूसरे नंबर पर।"
-    }
-   },
-   {
-    "link": "fed-holds-rates-3-75-4-two-dissent-hike",
-    "lead": {
-     "en": "Fed:",
-     "hi": "फेड:"
-    },
-    "text": {
-     "en": "US Fed holds at 3.75% to 4%; two members vote for a hike.",
-     "hi": "अमेरिकी फेड ने दरें 3.75-4% पर रखीं; दो सदस्य बढ़ोतरी के पक्ष में।"
-    }
-   },
-   {
-    "link": "trump-rules-out-iran-strike-today-qatar-mediators-tehran",
-    "lead": {
-     "en": "Iran:",
-     "hi": "ईरान:"
-    },
-    "text": {
-     "en": "Trump says there will be no strike today as Qatari mediators reach Tehran.",
-     "hi": "ट्रंप बोले, आज हमला नहीं होगा; क़तर के मध्यस्थ तेहरान पहुँचे।"
-    }
-   },
-   {
-    "link": "kharge-modi-father-remark-bjp-nationwide-protests",
-    "lead": {
-     "en": "Politics:",
-     "hi": "राजनीति:"
-    },
-    "text": {
-     "en": "BJP plans protests across states over Kharge's Patna jibe at Modi.",
-     "hi": "मोदी पर खड़गे की पटना टिप्पणी के ख़िलाफ़ भाजपा का देशभर में प्रदर्शन।"
-    }
-   }
-  ]
- },
- "numbers": {
-  "tracker": "economy-dashboard",
-  "items": [
-   {
-    "indicator": "gdp-growth",
-    "icon": "trend-up",
-    "label": {
-     "en": "GDP growth",
-     "hi": "जीडीपी वृद्धि"
-    },
-    "decimals": 1
-   },
-   {
-    "indicator": "cpi-inflation",
-    "icon": "shopping-cart",
-    "highlight": true,
-    "label": {
-     "en": "CPI inflation",
-     "hi": "सीपीआई महंगाई"
-    },
-    "decimals": 2
-   },
-   {
-    "indicator": "unemployment",
-    "icon": "briefcase",
-    "label": {
-     "en": "Unemployment",
-     "hi": "बेरोज़गारी"
-    },
-    "decimals": 1
-   },
-   {
-    "indicator": "iip-growth",
-    "icon": "factory",
-    "label": {
-     "en": "IIP growth",
-     "hi": "आईआईपी वृद्धि"
-    },
-    "decimals": 1
-   },
-   {
-    "indicator": "repo-rate",
-    "icon": "bank",
-    "decimals": 2,
-    "label": {
-     "en": "Repo rate",
-     "hi": "रेपो रेट"
-    }
-   },
-   {
-    "indicator": "fiscal-deficit-pct-be",
-    "icon": "chart-bar",
-    "highlight": true,
-    "label": {
-     "en": "Fiscal deficit used",
-     "hi": "राजकोषीय घाटा (बजट का)"
-    },
-    "decimals": 1
-   }
-  ]
- },
- "topStories": {
-  "big": {
-   "id": "sensex-nifty-week-october-30-pharma-fii-return",
-   "also": [
-    "jio-platforms-lists-21-per-cent-premium-1358",
-    "fed-holds-rates-3-75-4-two-dissent-hike"
-   ]
-  },
-  "list": [
-   "nc-mlas-demand-omar-cabinet-rejig-15-day-ultimatum",
-   "nz-thrash-india-87-runs-eden-park-fourth-t20i",
-   "trump-rules-out-iran-strike-today-qatar-mediators-tehran",
-   "centcom-cooper-hormuz-3000-ships-mines-cleared",
-   "riyadh-airport-reopens-houthis-fire-again-us-embassy-curbs"
-  ]
- },
- "startHere": [
-  "why-france-is-protesting-parcoursup-cost-of-living-explained",
-  "starlink-starshield-explained-ukraine-speed-cap",
-  "siang-dam-explained-what-sump-is-why-adi-protest",
-  "gaganyaan-g1-explained-what-uncrewed-flight-will-test",
-  "personalised-cancer-vaccine-explained-how-intismeran-works",
-  "farmer-id-explained-digital-agriculture-mission"
- ],
- "trackers": [
-  {
-   "id": "bills-in-parliament-tracker",
-   "title": {
-    "en": "Bills in Parliament",
-    "hi": "संसद में विधेयक"
-   }
-  },
-  {
-   "id": "economy-dashboard",
-   "title": {
-    "en": "Economy dashboard",
-    "hi": "अर्थव्यवस्था डैशबोर्ड"
-   }
-  },
-  {
-   "id": "election-calendar",
-   "title": {
-    "en": "Election calendar",
-    "hi": "चुनाव कैलेंडर"
-   }
-  },
-  {
-   "id": "budget-2026-27-promise-tracker",
-   "title": {
-    "en": "Budget promises",
-    "hi": "बजट के वादे"
-   }
-  },
-  {
-   "id": "sc-cases-tracker",
-   "title": {
-    "en": "Big Supreme Court cases",
-    "hi": "सुप्रीम कोर्ट के बड़े मामले"
-   }
-  }
- ],
- "dataDesk": {
-  "map": {
-   "tracker": "election-calendar",
-   "topic": "elections-2027",
-   "kicker": {
-    "en": "Elections 2027",
-    "hi": "चुनाव 2027"
-   },
-   "title": {
-    "en": "{n} states vote in 2027",
-    "hi": "2027 में {n} राज्यों में चुनाव"
-   },
-   "text": {
-    "en": "Five assemblies are expected to vote in February and March, Himachal Pradesh and Gujarat late in the year. No schedule has been announced. The President's term ends in July 2027.",
-    "hi": "पांच विधानसभाओं के चुनाव फरवरी और मार्च में होने की उम्मीद है, हिमाचल प्रदेश और गुजरात के साल के आखिर में। अभी कोई कार्यक्रम घोषित नहीं हुआ है। राष्ट्रपति का कार्यकाल जुलाई 2027 में खत्म होता है।"
-   }
-  },
-  "parliament": {
-   "tracker": "bills-in-parliament-tracker",
-   "session": "monsoon-2026",
-   "bills": [
-    "fcra-amendment-2026",
-    "indian-statistical-institute-2026",
-    "supreme-court-number-of-judges-amendment-2026",
-    "mmdr-amendment-2026",
-    "kerala-alteration-of-name-2026"
-   ]
-  }
- },
- "factCheck": {
-  "cards": [
-   "jairam-ramesh-upi-charges-above-2000-claim",
-   "kejriwal-e20-trump-pressure-ethanol-claim",
-   "ai-brics-selfie-modi-putin-xi-raisi"
-  ]
- },
- "explained": [
-  {
-   "id": "imf-world-economic-outlook-explained-india-rbi",
-   "kn": [
-    {
-     "value": {
-      "en": "7%",
-      "hi": "7%"
-     },
-     "label": {
-      "en": "IMF forecast for India, this year",
-      "hi": "इस साल भारत के लिए आईएमएफ का अनुमान"
-     }
-    },
-    {
-     "value": {
-      "en": "7.1%",
-      "hi": "7.1%"
-     },
-     "label": {
-      "en": "RBI's own forecast",
-      "hi": "आरबीआई का अपना अनुमान"
-     }
-    }
-   ]
-  },
-  {
-   "id": "wpi-vs-cpi-explained-wholesale-retail-inflation",
-   "kn": [
-    {
-     "value": {
-      "en": "11.39%",
-      "hi": "11.39%"
-     },
-     "label": {
-      "en": "wholesale inflation, September",
-      "hi": "थोक महंगाई, सितंबर"
-     }
-    },
-    {
-     "value": {
-      "en": "5.54%",
-      "hi": "5.54%"
-     },
-     "label": {
-      "en": "retail inflation, September",
-      "hi": "खुदरा महंगाई, सितंबर"
-     }
-    }
-   ]
-  },
-  {
-   "id": "repo-rate-and-your-emi-explained",
-   "kn": [
-    {
-     "value": {
-      "en": "₹781",
-      "hi": "₹781"
-     },
-     "label": {
-      "en": "extra EMI a month, ₹50 lakh loan",
-      "hi": "₹50 लाख के लोन पर हर महीने ज़्यादा ईएमआई"
-     }
-    },
-    {
-     "value": {
-      "en": "₹1.87 lakh",
-      "hi": "₹1.87 लाख"
-     },
-     "label": {
-      "en": "extra over 20 years",
-      "hi": "20 साल में ज़्यादा भुगतान"
-     }
-    }
-   ]
-  }
- ],
- "opinion": [
-  "mocking-northeast-indians-is-not-content-it-is-a-crime",
-  "single-use-medical-devices-reuse-must-be-policed-and-disclosed",
-  "sangareddy-pharma-deaths-need-inspections-not-compensation",
-  "banks-must-tell-customers-about-data-breaches-now",
-  "borrowed-money-small-caps-sebi-must-watch-margin-funding"
- ],
- "sections": [
-  {
-   "section": "politics",
-   "module": {
-    "type": "bypolls",
-    "article": "bypoll-results-ruling-parties-win-all-six-seats"
-   },
-   "list": [
-    "india-bloc-public-impeachment-cec-october-30-dilli-chalo",
-    "courts-today-vijayan-appeal-imran-khan-notice-supreme-court-benches",
-    "congress-mumbai-cp-joshi-gaikwad-sir-40-lakh-voters"
-   ],
-   "lead": "kaul-memoir-chandrachud-pre-approval-collegium"
-  },
-  {
-   "section": "economy",
-   "lead": "sensex-nifty-week-october-30-pharma-fii-return",
-   "module": {
-    "type": "markets",
-    "indicators": [
-     "sensex",
-     "nifty-50",
-     "usd-inr",
-     "forex-reserves"
+  "briefing": {
+    "items": [
+      {
+        "link": "india-bloc-ramlila-maidan-rally-today-preview",
+        "lead": {
+          "en": "CEC row:",
+          "hi": "सीईसी विवाद:"
+        },
+        "text": {
+          "en": "INDIA bloc rallies at Ramlila Maidan today; noon march has no police nod.",
+          "hi": "इंडिया गठबंधन की आज रामलीला मैदान में रैली; दोपहर के मार्च की पुलिस अनुमति नहीं।"
+        }
+      },
+      {
+        "link": "kerala-turns-70-festival-kerala-satheesan-nishagandhi",
+        "lead": {
+          "en": "Keralam:",
+          "hi": "केरलम:"
+        },
+        "text": {
+          "en": "The state turns 70; Festival Kerala opens at Nishagandhi at 4 pm.",
+          "hi": "राज्य 70 साल का हुआ; शाम 4 बजे निशागंधी में फेस्टिवल केरल की शुरुआत।"
+        }
+      },
+      {
+        "link": "india-new-zealand-fifth-t20i-hamilton-preview",
+        "lead": {
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
+        },
+        "text": {
+          "en": "India, 3-1 up, meet New Zealand in the fifth T20I in Hamilton.",
+          "hi": "3-1 से आगे भारत हैमिल्टन में न्यूजीलैंड से पांचवां टी20 खेलेगा।"
+        }
+      },
+      {
+        "link": "mexico-grand-prix-qualifying-hamilton-pole-antonelli-fourth",
+        "lead": {
+          "en": "F1:",
+          "hi": "एफ1:"
+        },
+        "text": {
+          "en": "Hamilton takes his first Ferrari pole in Mexico; Antonelli starts fourth.",
+          "hi": "हैमिल्टन को मेक्सिको में फ़ेरारी के साथ पहला पोल; एंटोनेली चौथे स्थान से।"
+        }
+      },
+      {
+        "link": "delhi-pollution-curbs-bs-iv-ban-50-per-cent-office-from-today",
+        "lead": {
+          "en": "Delhi air:",
+          "hi": "दिल्ली की हवा:"
+        },
+        "text": {
+          "en": "Winter curbs begin: outside BS-IV vehicles barred, offices at half strength.",
+          "hi": "सर्दियों की पाबंदियां शुरू: बाहरी बीएस-IV वाहनों पर रोक, दफ़्तरों में आधी हाज़िरी।"
+        }
+      },
+      {
+        "link": "india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar",
+        "lead": {
+          "en": "CEC row:",
+          "hi": "सीईसी विवाद:"
+        },
+        "text": {
+          "en": "21 INDIA bloc parties 'impeach' Gyanesh Kumar at a mock Parliament.",
+          "hi": "इंडिया गठबंधन के 21 दलों ने नकली संसद में ज्ञानेश कुमार पर 'महाभियोग' चलाया।"
+        }
+      },
+      {
+        "link": "nc-mlas-demand-omar-cabinet-rejig-15-day-ultimatum",
+        "lead": {
+          "en": "J&K:",
+          "hi": "जम्मू-कश्मीर:"
+        },
+        "text": {
+          "en": "NC legislators give a 15-day ultimatum for a fresh cabinet reshuffle.",
+          "hi": "एनसी विधायकों ने मंत्रिमंडल फेरबदल के लिए 15 दिन का अल्टीमेटम दिया।"
+        }
+      },
+      {
+        "link": "sensex-nifty-week-october-30-pharma-fii-return",
+        "lead": {
+          "en": "Markets:",
+          "hi": "बाज़ार:"
+        },
+        "text": {
+          "en": "Nifty back above 23,000; Sensex up 1.83% for the week.",
+          "hi": "निफ्टी फिर 23,000 के पार; सेंसेक्स हफ़्ते में 1.83% चढ़ा।"
+        }
+      }
     ]
-   },
-   "list": [
-    "jio-platforms-lists-21-per-cent-premium-1358",
-    "monday-open-brent-eases-us-futures-rise-infosys-test",
-    "results-today-mankind-pharma-kfin-sona-blw-october-26",
-    "eaaa-india-alternatives-ipo-opens-360-crore-anchor-book"
-   ]
   },
-  {
-   "section": "states",
-   "lead": "nc-mlas-demand-omar-cabinet-rejig-15-day-ultimatum",
-   "list": [
-    "naidu-cyclone-arnab-review-zero-casualties-fishermen",
-    "delhi-rain-no-fix-pollution-experts-grap-stage-one",
-    "patna-chhath-ghats-19-crore-231-ghats-sita-sahu"
-   ]
+  "numbers": {
+    "tracker": "economy-dashboard",
+    "items": [
+      {
+        "indicator": "gdp-growth",
+        "icon": "trend-up",
+        "label": {
+          "en": "GDP growth",
+          "hi": "जीडीपी वृद्धि"
+        },
+        "decimals": 1
+      },
+      {
+        "indicator": "cpi-inflation",
+        "icon": "shopping-cart",
+        "highlight": true,
+        "label": {
+          "en": "CPI inflation",
+          "hi": "सीपीआई महंगाई"
+        },
+        "decimals": 2
+      },
+      {
+        "indicator": "unemployment",
+        "icon": "briefcase",
+        "label": {
+          "en": "Unemployment",
+          "hi": "बेरोज़गारी"
+        },
+        "decimals": 1
+      },
+      {
+        "indicator": "iip-growth",
+        "icon": "factory",
+        "label": {
+          "en": "IIP growth",
+          "hi": "आईआईपी वृद्धि"
+        },
+        "decimals": 1
+      },
+      {
+        "indicator": "repo-rate",
+        "icon": "bank",
+        "decimals": 2,
+        "label": {
+          "en": "Repo rate",
+          "hi": "रेपो रेट"
+        }
+      },
+      {
+        "indicator": "fiscal-deficit-pct-be",
+        "icon": "chart-bar",
+        "highlight": true,
+        "label": {
+          "en": "Fiscal deficit used",
+          "hi": "राजकोषीय घाटा (बजट का)"
+        },
+        "decimals": 1
+      }
+    ]
   },
-  {
-   "section": "policy",
-   "lead": "liechtenstein-prince-alois-state-visit-india-mumbai-vadodara",
-   "list": [
-    "murmu-assent-frontier-nagaland-territorial-authority-bill",
-    "goyal-rotterdam-port-capacity-fourfold-2047",
-    "sonowal-busan-korea-visit-shipbuilding-indian-professionals",
-    "ccpa-walkie-talkie-listings-misleading-ads-action"
-   ]
+  "topStories": {
+    "big": {
+      "id": "delhi-pollution-curbs-bs-iv-ban-50-per-cent-office-from-today",
+      "also": [
+        "mexico-grand-prix-qualifying-hamilton-pole-antonelli-fourth",
+        "kerala-turns-70-festival-kerala-satheesan-nishagandhi"
+      ]
+    },
+    "list": [
+      "india-new-zealand-fifth-t20i-hamilton-preview",
+      "india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar",
+      "nc-mlas-demand-omar-cabinet-rejig-15-day-ultimatum",
+      "sensex-nifty-week-october-30-pharma-fii-return"
+    ]
   },
-  {
-   "section": "parliament",
-   "module": {
-    "type": "session",
-    "session": "monsoon-2026"
-   },
-   "list": [
-    "birla-sameh-shoukry-brics-parliamentary-forum-opens-monday",
-    "finance-panel-hears-mospi-indian-statistical-institute-bill"
-   ]
-  }
- ],
- "desks": [
-  {
-   "section": "world",
-   "lead": "fed-holds-rates-3-75-4-two-dissent-hike",
-   "list": [
-    "netanyahu-zamir-clash-report-iran-warning-election-eve",
-    "machado-returns-venezuela-from-exile",
-    "nepal-acknowledges-india-border-encroachment-no-details"
-   ]
+  "startHere": [
+    "why-france-is-protesting-parcoursup-cost-of-living-explained",
+    "starlink-starshield-explained-ukraine-speed-cap",
+    "siang-dam-explained-what-sump-is-why-adi-protest",
+    "gaganyaan-g1-explained-what-uncrewed-flight-will-test",
+    "personalised-cancer-vaccine-explained-how-intismeran-works",
+    "farmer-id-explained-digital-agriculture-mission"
+  ],
+  "trackers": [
+    {
+      "id": "bills-in-parliament-tracker",
+      "title": {
+        "en": "Bills in Parliament",
+        "hi": "संसद में विधेयक"
+      }
+    },
+    {
+      "id": "economy-dashboard",
+      "title": {
+        "en": "Economy dashboard",
+        "hi": "अर्थव्यवस्था डैशबोर्ड"
+      }
+    },
+    {
+      "id": "election-calendar",
+      "title": {
+        "en": "Election calendar",
+        "hi": "चुनाव कैलेंडर"
+      }
+    },
+    {
+      "id": "budget-2026-27-promise-tracker",
+      "title": {
+        "en": "Budget promises",
+        "hi": "बजट के वादे"
+      }
+    },
+    {
+      "id": "sc-cases-tracker",
+      "title": {
+        "en": "Big Supreme Court cases",
+        "hi": "सुप्रीम कोर्ट के बड़े मामले"
+      }
+    }
+  ],
+  "dataDesk": {
+    "map": {
+      "tracker": "election-calendar",
+      "topic": "elections-2027",
+      "kicker": {
+        "en": "Elections 2027",
+        "hi": "चुनाव 2027"
+      },
+      "title": {
+        "en": "{n} states vote in 2027",
+        "hi": "2027 में {n} राज्यों में चुनाव"
+      },
+      "text": {
+        "en": "Five assemblies are expected to vote in February and March, Himachal Pradesh and Gujarat late in the year. No schedule has been announced. The President's term ends in July 2027.",
+        "hi": "पांच विधानसभाओं के चुनाव फरवरी और मार्च में होने की उम्मीद है, हिमाचल प्रदेश और गुजरात के साल के आखिर में। अभी कोई कार्यक्रम घोषित नहीं हुआ है। राष्ट्रपति का कार्यकाल जुलाई 2027 में खत्म होता है।"
+      }
+    },
+    "parliament": {
+      "tracker": "bills-in-parliament-tracker",
+      "session": "monsoon-2026",
+      "bills": [
+        "fcra-amendment-2026",
+        "indian-statistical-institute-2026",
+        "supreme-court-number-of-judges-amendment-2026",
+        "mmdr-amendment-2026",
+        "kerala-alteration-of-name-2026"
+      ]
+    }
   },
-  {
-   "section": "science",
-   "lead": "nasa-isaacman-moon-base-artemis-iii-summer-2027-landing-2028",
-   "list": [
-    "vaishnaw-ai-law-consultation-paper-risks-threshold",
-    "bhashini-10-billion-inferences-etd-2026-iit-delhi",
-    "china-long-march-8a-satnet-wenchang-nvs-03-launch-week"
-   ]
+  "factCheck": {
+    "cards": [
+      "jairam-ramesh-upi-charges-above-2000-claim",
+      "kejriwal-e20-trump-pressure-ethanol-claim",
+      "ai-brics-selfie-modi-putin-xi-raisi"
+    ]
   },
-  {
-   "section": "sports",
-   "lead": "nz-thrash-india-87-runs-eden-park-fourth-t20i",
-   "list": [
-    "harmanpreet-deepti-centuries-india-women-beat-zimbabwe-121-runs",
-    "sindhu-loses-french-open-final-an-se-young-three-games",
-    "antonelli-wins-austin-grand-prix-brink-of-title-mexico"
-   ]
-  }
- ],
- "weekAhead": [
-  {
-   "icon": "megaphone",
-   "date": {
-    "en": "Sun 1 Nov",
-    "hi": "रवि, 1 नवंबर"
-   },
-   "text": {
-    "en": "INDIA bloc rally at Ramlila Maidan on the CEC row.",
-    "hi": "सीईसी विवाद पर रामलीला मैदान में इंडिया गठबंधन की रैली।"
-   },
-   "link": "india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar"
-  },
-  {
-   "icon": "trophy",
-   "date": {
-    "en": "Sun 1 Nov",
-    "hi": "रवि, 1 नवंबर"
-   },
-   "text": {
-    "en": "Fifth and final T20I, New Zealand v India, in Hamilton.",
-    "hi": "हैमिल्टन में न्यूजीलैंड-भारत का पांचवां और आखिरी टी20 मैच।"
-   },
-   "link": "nz-thrash-india-87-runs-eden-park-fourth-t20i"
-  }
- ]
+  "explained": [
+    {
+      "id": "imf-world-economic-outlook-explained-india-rbi",
+      "kn": [
+        {
+          "value": {
+            "en": "7%",
+            "hi": "7%"
+          },
+          "label": {
+            "en": "IMF forecast for India, this year",
+            "hi": "इस साल भारत के लिए आईएमएफ का अनुमान"
+          }
+        },
+        {
+          "value": {
+            "en": "7.1%",
+            "hi": "7.1%"
+          },
+          "label": {
+            "en": "RBI's own forecast",
+            "hi": "आरबीआई का अपना अनुमान"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wpi-vs-cpi-explained-wholesale-retail-inflation",
+      "kn": [
+        {
+          "value": {
+            "en": "11.39%",
+            "hi": "11.39%"
+          },
+          "label": {
+            "en": "wholesale inflation, September",
+            "hi": "थोक महंगाई, सितंबर"
+          }
+        },
+        {
+          "value": {
+            "en": "5.54%",
+            "hi": "5.54%"
+          },
+          "label": {
+            "en": "retail inflation, September",
+            "hi": "खुदरा महंगाई, सितंबर"
+          }
+        }
+      ]
+    },
+    {
+      "id": "repo-rate-and-your-emi-explained",
+      "kn": [
+        {
+          "value": {
+            "en": "₹781",
+            "hi": "₹781"
+          },
+          "label": {
+            "en": "extra EMI a month, ₹50 lakh loan",
+            "hi": "₹50 लाख के लोन पर हर महीने ज़्यादा ईएमआई"
+          }
+        },
+        {
+          "value": {
+            "en": "₹1.87 lakh",
+            "hi": "₹1.87 लाख"
+          },
+          "label": {
+            "en": "extra over 20 years",
+            "hi": "20 साल में ज़्यादा भुगतान"
+          }
+        }
+      ]
+    }
+  ],
+  "opinion": [
+    "mocking-northeast-indians-is-not-content-it-is-a-crime",
+    "single-use-medical-devices-reuse-must-be-policed-and-disclosed",
+    "sangareddy-pharma-deaths-need-inspections-not-compensation",
+    "banks-must-tell-customers-about-data-breaches-now",
+    "borrowed-money-small-caps-sebi-must-watch-margin-funding"
+  ],
+  "sections": [
+    {
+      "section": "politics",
+      "module": {
+        "type": "bypolls",
+        "article": "bypoll-results-ruling-parties-win-all-six-seats"
+      },
+      "list": [
+        "india-bloc-ramlila-maidan-rally-today-preview",
+        "india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar",
+        "india-bloc-public-impeachment-cec-october-30-dilli-chalo",
+        "courts-today-vijayan-appeal-imran-khan-notice-supreme-court-benches"
+      ],
+      "lead": "kaul-memoir-chandrachud-pre-approval-collegium"
+    },
+    {
+      "section": "economy",
+      "lead": "sensex-nifty-week-october-30-pharma-fii-return",
+      "module": {
+        "type": "markets",
+        "indicators": [
+          "sensex",
+          "nifty-50",
+          "usd-inr",
+          "forex-reserves"
+        ]
+      },
+      "list": [
+        "jio-platforms-lists-21-per-cent-premium-1358",
+        "monday-open-brent-eases-us-futures-rise-infosys-test",
+        "results-today-mankind-pharma-kfin-sona-blw-october-26",
+        "eaaa-india-alternatives-ipo-opens-360-crore-anchor-book"
+      ]
+    },
+    {
+      "section": "states",
+      "lead": "delhi-pollution-curbs-bs-iv-ban-50-per-cent-office-from-today",
+      "list": [
+        "kerala-turns-70-festival-kerala-satheesan-nishagandhi",
+        "nc-mlas-demand-omar-cabinet-rejig-15-day-ultimatum",
+        "naidu-cyclone-arnab-review-zero-casualties-fishermen",
+        "delhi-rain-no-fix-pollution-experts-grap-stage-one"
+      ]
+    },
+    {
+      "section": "policy",
+      "lead": "liechtenstein-prince-alois-state-visit-india-mumbai-vadodara",
+      "list": [
+        "murmu-assent-frontier-nagaland-territorial-authority-bill",
+        "goyal-rotterdam-port-capacity-fourfold-2047",
+        "sonowal-busan-korea-visit-shipbuilding-indian-professionals",
+        "ccpa-walkie-talkie-listings-misleading-ads-action"
+      ]
+    },
+    {
+      "section": "parliament",
+      "module": {
+        "type": "session",
+        "session": "monsoon-2026"
+      },
+      "list": [
+        "birla-sameh-shoukry-brics-parliamentary-forum-opens-monday",
+        "finance-panel-hears-mospi-indian-statistical-institute-bill"
+      ]
+    }
+  ],
+  "desks": [
+    {
+      "section": "world",
+      "lead": "fed-holds-rates-3-75-4-two-dissent-hike",
+      "list": [
+        "netanyahu-zamir-clash-report-iran-warning-election-eve",
+        "machado-returns-venezuela-from-exile",
+        "nepal-acknowledges-india-border-encroachment-no-details"
+      ]
+    },
+    {
+      "section": "science",
+      "lead": "nasa-isaacman-moon-base-artemis-iii-summer-2027-landing-2028",
+      "list": [
+        "vaishnaw-ai-law-consultation-paper-risks-threshold",
+        "bhashini-10-billion-inferences-etd-2026-iit-delhi",
+        "china-long-march-8a-satnet-wenchang-nvs-03-launch-week"
+      ]
+    },
+    {
+      "section": "sports",
+      "lead": "india-new-zealand-fifth-t20i-hamilton-preview",
+      "list": [
+        "mexico-grand-prix-qualifying-hamilton-pole-antonelli-fourth",
+        "nz-thrash-india-87-runs-eden-park-fourth-t20i",
+        "harmanpreet-deepti-centuries-india-women-beat-zimbabwe-121-runs"
+      ]
+    }
+  ],
+  "weekAhead": [
+    {
+      "icon": "megaphone",
+      "date": {
+        "en": "Sun 1 Nov",
+        "hi": "रवि, 1 नवंबर"
+      },
+      "text": {
+        "en": "INDIA bloc rally at Ramlila Maidan on the CEC row.",
+        "hi": "सीईसी विवाद पर रामलीला मैदान में इंडिया गठबंधन की रैली।"
+      },
+      "link": "india-bloc-ramlila-maidan-rally-today-preview"
+    },
+    {
+      "icon": "trophy",
+      "date": {
+        "en": "Sun 1 Nov",
+        "hi": "रवि, 1 नवंबर"
+      },
+      "text": {
+        "en": "Fifth and final T20I, New Zealand v India, in Hamilton.",
+        "hi": "हैमिल्टन में न्यूजीलैंड-भारत का पांचवां और आखिरी टी20 मैच।"
+      },
+      "link": "india-new-zealand-fifth-t20i-hamilton-preview"
+    }
+  ]
 }
