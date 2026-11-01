@@ -53,8 +53,4 @@ The warning comes days after **a farmer's body was found inside a finance compan
 
 The state has declared drought in **304 of its 358 tehsils** where the two trigger stages used to judge drought were set off this kharif season. Shinde said farmers would get Rs 5,000 in immediate aid before Diwali, with more to follow once crop-loss surveys are done. "This Rs 5000 as an aid is immediate help," he said, adding that Prime Minister Narendra Modi and Union Home Minister Amit Shah had promised support. "Do not lose courage or take any extreme step," he told farmers.
 
-```photo
-{"n":2,"subject":"Ashok Chavan","caption":"Former chief minister and MP Ashok Chavan, who shared the stage in Nanded and said the new facilities would strengthen healthcare in the region.","alt":"Former Maharashtra chief minister Ashok Chavan"}
-```
-
 Shinde also said his party, the Shiv Sena, would take responsibility for the weddings of farmers' daughters, and asked Health Minister Prakash Abitkar to make sure the new hospital has CT scan and dialysis facilities. Abitkar said **cancer treatment would come to Nanded** under the Maha Care initiative with support from the Tata Memorial Trust, and a 500-bed building for the Shri Guru Gobind Singhji District Hospital will be built with Asian Development Bank help.

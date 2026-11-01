@@ -47,7 +47,7 @@ Karnataka's Large and Medium Industries Minister **M B Patil** on Sunday hit bac
 Kumaraswamy had asked the state government on Saturday to explain why Honda Motorcycle and Scooter India had, as he put it, decided to drop its proposed electric vehicle project at Narasapura in Kolar district. Patil, in a release from his office, warned that such "irresponsible remarks" could hurt the state's industrial growth.
 
 ```photo
-{"n":1,"subject":"Kolar","caption":"Kolar district, where Honda's two-wheeler plant at Narasapura is at the centre of the row.","alt":"A view of Kolar, Karnataka"}
+{"n":1,"subject":"Kolar","caption":"Kolar district, where Honda's two-wheeler plant at Narasapura is at the centre of the row.","alt":"A carved sculpture at the Someshwara Temple in Kolar, Karnataka"}
 ```
 
 He set out the company's footprint in the state. "Honda has been allotted 135 acres of land in phases at Narasapura in Kolar district since 2011," Patil said. The plant, making two-wheelers since 2013, turns out **10,000 vehicles a day** and employs more than 7,800 people, he said. Honda also runs a 35-acre spare parts warehousing and distribution centre at Adinarayana Hosahalli in Doddaballapura taluk that serves the whole southern region.
