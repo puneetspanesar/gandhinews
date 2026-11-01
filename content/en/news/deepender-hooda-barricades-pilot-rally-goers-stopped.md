@@ -47,10 +47,6 @@ Congress leaders from Haryana stepped up their complaints on Sunday afternoon th
 
 "Today, barricades are being put up everywhere to try to slow down traffic," Hooda said. He said he had **asked Haryana Police not to obstruct** people travelling to Ramlila Maidan, where opposition parties are demanding the resignation of Chief Election Commissioner Gyanesh Kumar over the revision of electoral rolls.
 
-```photo
-{"n":1,"subject":"Sachin Pilot","caption":"Congress leader Sachin Pilot, who accused the government of trying to stop people from voicing their views.","alt":"Congress leader Sachin Pilot"}
-```
-
 Senior Congress leader **Sachin Pilot widened the charge** to the government as a whole. "The government wants to stop people through pressure and prevent people from voicing their opinions," he said.
 
 Hooda also turned on the BJP's counter-programme in his home town. He accused BJP national president Nitin Nabin of staging a protest **outside the Hooda family residence in Rohtak**, and claimed it had forced a local Diwali market to close. The BJP had announced the Rohtak march as its answer to the Delhi rally.

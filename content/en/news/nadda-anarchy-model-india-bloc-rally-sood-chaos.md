@@ -57,10 +57,6 @@ Union Health Minister **J P Nadda called the INDIA bloc's Ramlila Maidan rally a
 
 "What is unfolding today at Ramlila Maidan is not an act of respect for democracy," the former BJP president said, **dismissing the gathering as a conspiracy**. He called it "a calculated conspiracy to plunge the nation into anarchy" in the name of democracy, and "a foolish, orchestrated drama staged by those who have been defeated and repeatedly rejected by the people".
 
-```photo
-{"n":1,"subject":"Ramlila Maidan","caption":"Ramlila Maidan in central Delhi, where the INDIA bloc is holding its rally against the Chief Election Commissioner.","alt":"Ramlila Maidan, New Delhi"}
-```
-
 ## A charge in four stages
 
 Addressing Rahul Gandhi directly, Nadda said he wanted "to explain to the nation today what your model of politics entails". He then set out **four stages** as he saw them: "the first stage is spreading lies and rumours", "the second is inciting anarchy and chaos on the streets", "the third is damaging the nation's economy" and "the fourth is attempting to destabilise an elected government at the behest of foreign powers".
