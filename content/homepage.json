@@ -70,11 +70,11 @@
       "sambit-patra-illegal-lop-rahul-gandhi-ramlila-rally-flop"
     ],
     "relatedBeside": [
-      "hero-motocorp-october-sales-734403-scooters-61-per-cent",
-      "delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023",
-      "kia-record-october-sales-33462-seltos",
-      "jsw-mg-motor-october-sales-8013-up-19-per-cent",
-      "seifert-93-new-zealand-beat-india-seven-wickets-hamilton-series-3-2"
+      "mb-patil-rejects-kumaraswamy-honda-exit-claim-narasapura",
+      "shinde-murder-cases-lenders-farmer-suicides-nanded",
+      "nepal-dolpa-indian-trekkers-located-helicopter-turned-back-rescue-monday",
+      "honda-cars-october-sales-8082-exports-fall-88-per-cent",
+      "hero-motocorp-october-sales-734403-scooters-61-per-cent"
     ],
     "live": {
       "title": {
@@ -85,6 +85,50 @@
   },
   "briefing": {
     "items": [
+      {
+        "link": "mb-patil-rejects-kumaraswamy-honda-exit-claim-narasapura",
+        "lead": {
+          "en": "M B Patil:",
+          "hi": "एम बी पाटिल:"
+        },
+        "text": {
+          "en": "Kumaraswamy's Honda exit claim is \"baseless\".",
+          "hi": "कुमारस्वामी का होंडा के जाने का दावा \"निराधार\"।"
+        }
+      },
+      {
+        "link": "shinde-murder-cases-lenders-farmer-suicides-nanded",
+        "lead": {
+          "en": "Shinde:",
+          "hi": "शिंदे:"
+        },
+        "text": {
+          "en": "Murder cases for lenders if harassed farmers die.",
+          "hi": "परेशान किसानों की मौत पर साहूकारों पर हत्या के मामले।"
+        }
+      },
+      {
+        "link": "nepal-dolpa-indian-trekkers-located-helicopter-turned-back-rescue-monday",
+        "lead": {
+          "en": "Dolpa:",
+          "hi": "डोल्पा:"
+        },
+        "text": {
+          "en": "Six Indian trekkers located; rescue moves to Monday.",
+          "hi": "छह भारतीय ट्रेकर्स का पता चला; बचाव सोमवार को।"
+        }
+      },
+      {
+        "link": "honda-cars-october-sales-8082-exports-fall-88-per-cent",
+        "lead": {
+          "en": "Honda Cars:",
+          "hi": "होंडा कार्स:"
+        },
+        "text": {
+          "en": "October sales down 23% as exports collapse.",
+          "hi": "निर्यात गिरने से अक्टूबर बिक्री 23% घटी।"
+        }
+      },
       {
         "link": "delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023",
         "lead": {
@@ -127,50 +171,6 @@
         "text": {
           "en": "Majhi hands jobs to 2,067 sevaks and tribal language teachers.",
           "hi": "माझी ने 2,067 सेवकों और जनजातीय भाषा शिक्षकों को नियुक्ति पत्र दिए।"
-        }
-      },
-      {
-        "link": "yogi-gorakhpur-gordhoiya-drain-sp-mafia-jibe",
-        "lead": {
-          "en": "Yogi:",
-          "hi": "योगी:"
-        },
-        "text": {
-          "en": "Opens Gorakhpur drain project, calls SP 'mafia-minded'.",
-          "hi": "गोरखपुर में नाला परियोजना का लोकार्पण, सपा को 'माफिया सोच' वाली बताया।"
-        }
-      },
-      {
-        "link": "iran-war-footing-jalali-power-grid-islanding-treasury-oil",
-        "lead": {
-          "en": "Iran:",
-          "hi": "ईरान:"
-        },
-        "text": {
-          "en": "Civil defence chief readies power grid for war.",
-          "hi": "नागरिक सुरक्षा प्रमुख ने युद्ध के लिए बिजली ग्रिड की तैयारी बताई।"
-        }
-      },
-      {
-        "link": "mandaviya-sai-open-chhattisgarh-rajyotsav-nava-raipur",
-        "lead": {
-          "en": "Chhattisgarh:",
-          "hi": "छत्तीसगढ़:"
-        },
-        "text": {
-          "en": "Rajyotsav opens in Nava Raipur.",
-          "hi": "नवा रायपुर में राज्योत्सव शुरू।"
-        }
-      },
-      {
-        "link": "sambit-patra-illegal-lop-rahul-gandhi-ramlila-rally-flop",
-        "lead": {
-          "en": "BJP:",
-          "hi": "भाजपा:"
-        },
-        "text": {
-          "en": "Sambit Patra calls the INDIA bloc rally a flop: \"challenge it in court\".",
-          "hi": "संबित पात्रा ने इंडिया गठबंधन की रैली को फ्लॉप बताया: \"अदालत में चुनौती दें\"।"
         }
       }
     ]
@@ -238,22 +238,22 @@
   },
   "topStories": {
     "big": {
-      "id": "meghwal-cec-offered-meet-protesters-no-list-kochi-bihar-nda",
+      "id": "mb-patil-rejects-kumaraswamy-honda-exit-claim-narasapura",
       "also": [
-        "delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023",
-        "hero-motocorp-october-sales-734403-scooters-61-per-cent"
+        "shinde-murder-cases-lenders-farmer-suicides-nanded",
+        "nepal-dolpa-indian-trekkers-located-helicopter-turned-back-rescue-monday"
       ]
     },
     "list": [
-      "seifert-93-new-zealand-beat-india-seven-wickets-hamilton-series-3-2",
-      "yogi-gorakhpur-gordhoiya-drain-sp-mafia-jibe",
-      "iran-war-footing-jalali-power-grid-islanding-treasury-oil",
-      "majhi-appointment-letters-2067-tribal-language-teachers",
-      "sambit-patra-illegal-lop-rahul-gandhi-ramlila-rally-flop"
+      "honda-cars-october-sales-8082-exports-fall-88-per-cent",
+      "meghwal-cec-offered-meet-protesters-no-list-kochi-bihar-nda",
+      "delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023",
+      "hero-motocorp-october-sales-734403-scooters-61-per-cent",
+      "seifert-93-new-zealand-beat-india-seven-wickets-hamilton-series-3-2"
     ],
     "also": [
-      "delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023",
-      "hero-motocorp-october-sales-734403-scooters-61-per-cent"
+      "shinde-murder-cases-lenders-farmer-suicides-nanded",
+      "nepal-dolpa-indian-trekkers-located-helicopter-turned-back-rescue-monday"
     ]
   },
   "startHere": [
@@ -429,10 +429,10 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "mb-patil-rejects-kumaraswamy-honda-exit-claim-narasapura",
         "meghwal-cec-offered-meet-protesters-no-list-kochi-bihar-nda",
         "sambit-patra-illegal-lop-rahul-gandhi-ramlila-rally-flop",
-        "mamata-yes-papa-ramlila-gyanesh-kumar-bengal-sir",
-        "tejashwi-shakuni-akhilesh-31000-votes-ramlila-rally"
+        "mamata-yes-papa-ramlila-gyanesh-kumar-bengal-sir"
       ],
       "lead": "rahul-parrot-gyanesh-kumar-kharge-chori-ki-sarkar-ramlila"
     },
@@ -449,20 +449,20 @@
         ]
       },
       "list": [
+        "honda-cars-october-sales-8082-exports-fall-88-per-cent",
         "hero-motocorp-october-sales-734403-scooters-61-per-cent",
         "royal-enfield-october-sales-133442-exports-47-per-cent",
-        "toyota-october-sales-30360-domestic-down-27-per-cent",
-        "kia-record-october-sales-33462-seltos"
+        "toyota-october-sales-30360-domestic-down-27-per-cent"
       ]
     },
     {
       "section": "states",
       "lead": "deepender-hooda-barricades-pilot-rally-goers-stopped",
       "list": [
+        "shinde-murder-cases-lenders-farmer-suicides-nanded",
         "delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023",
         "majhi-appointment-letters-2067-tribal-language-teachers",
-        "yogi-gorakhpur-gordhoiya-drain-sp-mafia-jibe",
-        "mandaviya-sai-open-chhattisgarh-rajyotsav-nava-raipur"
+        "yogi-gorakhpur-gordhoiya-drain-sp-mafia-jibe"
       ]
     },
     {
@@ -492,9 +492,9 @@
       "section": "world",
       "lead": "iran-war-footing-jalali-power-grid-islanding-treasury-oil",
       "list": [
+        "nepal-dolpa-indian-trekkers-located-helicopter-turned-back-rescue-monday",
         "iran-designates-royal-navy-raf-terrorist-mi6-hostile",
-        "indian-trekkers-missing-dolpa-nepal-army-search-shey-phoksundo",
-        "iran-araghchi-two-day-hormuz-plan-rezaei-vance-letter"
+        "indian-trekkers-missing-dolpa-nepal-army-search-shey-phoksundo"
       ]
     },
     {

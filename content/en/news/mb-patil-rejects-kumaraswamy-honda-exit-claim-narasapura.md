@@ -25,7 +25,7 @@ cover:
   label: "Honda row"
   headline: "'Baseless and politically motivated'"
   bg: "Vidhana Soudha"
-related: [kumaraswamy-aide-sting-probe-kushak-road-bengaluru-police, honda-cars-october-sales-8082-exports-fall-88-per-cent]
+related: [honda-cars-october-sales-8082-exports-fall-88-per-cent]
 seo:
   description: "Karnataka minister M B Patil rejected H D Kumaraswamy's claim that Honda is moving its EV project out of the state, saying the Narasapura plant makes 10,000 vehicles a day."
 sources:
@@ -53,10 +53,6 @@ Kumaraswamy had asked the state government on Saturday to explain why Honda Moto
 He set out the company's footprint in the state. "Honda has been allotted 135 acres of land in phases at Narasapura in Kolar district since 2011," Patil said. The plant, making two-wheelers since 2013, turns out **10,000 vehicles a day** and employs more than 7,800 people, he said. Honda also runs a 35-acre spare parts warehousing and distribution centre at Adinarayana Hosahalli in Doddaballapura taluk that serves the whole southern region.
 
 Far from leaving, Patil said, Honda plans to **begin electric two-wheeler production** at Narasapura in the coming days. "There have been no lapses on the part of the state government in its dealings with Honda," he said, adding that the company had not voiced any unhappiness with Karnataka.
-
-```photo
-{"n":2,"subject":"H. D. Kumaraswamy","caption":"Union Heavy Industries Minister H D Kumaraswamy, who said on Saturday that Honda had dropped its EV project in Karnataka.","alt":"Union minister H D Kumaraswamy"}
-```
 
 Patil also made it personal. "It is inappropriate for Kumaraswamy, who himself hails from Karnataka," he said, urging the JD(S) leader to bring more industry to the state instead. "Would he not be undermining the interests of his own state by creating a furore with unfounded claims," he asked, referring to talk of companies moving to Gujarat, Andhra Pradesh, Tamil Nadu, Telangana and Odisha.
 
