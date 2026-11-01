@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "india-bloc-rally-morning-crowds-10000-security-bjp-1984-march",
+    "id": "india-bloc-convoy-connaught-place-tejashwi-crush-democracy",
     "overlay": {
       "kicker": {
         "en": "New Delhi, Sunday",
         "hi": "नई दिल्ली, रविवार"
       },
       "value": {
-        "en": "March sets off",
-        "hi": "मार्च रवाना"
+        "en": "Leaders reach Connaught Place",
+        "hi": "नेता कनॉट प्लेस पहुंचे"
       },
       "text": {
         "en": "",
@@ -66,15 +66,15 @@
       }
     ],
     "relatedBelow": [
-      "india-bloc-march-sets-off-warring-pratapgarhi-bjp-scared",
-      "india-bloc-rally-venugopal-stern-warning-modi-shah"
+      "india-bloc-rally-vehicles-stuck-sarhaul-raut-buses-trains-held",
+      "india-bloc-rally-morning-crowds-10000-security-bjp-1984-march"
     ],
     "relatedBeside": [
+      "maruti-suzuki-record-october-sales-276120",
+      "kishan-61-calendar-year-record-iyer-fifty-hamilton",
       "gst-collections-october-2026-2-31-lakh-crore-imports",
       "santner-wins-toss-india-bat-hamilton-bhuvneshwar-varun-return",
-      "tata-motors-october-pv-sales-75426-edges-mahindra",
-      "indian-trekkers-missing-dolpa-nepal-army-search-shey-phoksundo",
-      "delhi-aqi-214-poor-sunday-morning-ncr-moderate"
+      "tata-motors-october-pv-sales-75426-edges-mahindra"
     ],
     "live": {
       "title": {
@@ -86,14 +86,36 @@
   "briefing": {
     "items": [
       {
-        "link": "india-bloc-march-sets-off-warring-pratapgarhi-bjp-scared",
+        "link": "india-bloc-convoy-connaught-place-tejashwi-crush-democracy",
         "lead": {
           "en": "CEC row:",
           "hi": "सीईसी विवाद:"
         },
         "text": {
-          "en": "INDIA bloc march sets off; \"BJP is scared,\" says Pratapgarhi.",
-          "hi": "इंडिया गठबंधन का मार्च रवाना; प्रतापगढ़ी बोले, \"भाजपा डरी हुई है\"।"
+          "en": "Opposition leaders reach Connaught Place on an open bus.",
+          "hi": "विपक्षी नेता खुली बस में कनॉट प्लेस पहुंचे।"
+        }
+      },
+      {
+        "link": "kishan-61-calendar-year-record-iyer-fifty-hamilton",
+        "lead": {
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
+        },
+        "text": {
+          "en": "Kishan's 61 sets Indian calendar-year T20I record.",
+          "hi": "किशन के 61 रन, एक साल में सबसे ज्यादा टी20 रन का भारतीय रिकॉर्ड।"
+        }
+      },
+      {
+        "link": "maruti-suzuki-record-october-sales-276120",
+        "lead": {
+          "en": "Maruti:",
+          "hi": "मारुति:"
+        },
+        "text": {
+          "en": "Record 276,120 vehicles sold in October.",
+          "hi": "अक्टूबर में रिकॉर्ड 2,76,120 वाहन बिके।"
         }
       },
       {
@@ -105,17 +127,6 @@
         "text": {
           "en": "October collections jump 22.9% to ₹2.31 lakh crore.",
           "hi": "अक्टूबर में संग्रह 22.9% बढ़कर ₹2.31 लाख करोड़।"
-        }
-      },
-      {
-        "link": "santner-wins-toss-india-bat-hamilton-bhuvneshwar-varun-return",
-        "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
-        },
-        "text": {
-          "en": "Santner wins toss, India bat in Hamilton decider.",
-          "hi": "सैंटनर ने टॉस जीता, हैमिल्टन में भारत की बल्लेबाजी।"
         }
       },
       {
@@ -160,17 +171,6 @@
         "text": {
           "en": "Six Indian trekkers missing in snow in Dolpa; army search on.",
           "hi": "डोल्पा में बर्फ में छह भारतीय ट्रेकर लापता; सेना की तलाश जारी।"
-        }
-      },
-      {
-        "link": "delhi-aqi-214-poor-sunday-morning-ncr-moderate",
-        "lead": {
-          "en": "Delhi air:",
-          "hi": "दिल्ली की हवा:"
-        },
-        "text": {
-          "en": "AQI 214, \"poor\", as winter curbs begin.",
-          "hi": "एक्यूआई 214, \"खराब\", सर्दी की पाबंदियां शुरू।"
         }
       }
     ]
@@ -238,22 +238,22 @@
   },
   "topStories": {
     "big": {
-      "id": "india-bloc-march-sets-off-warring-pratapgarhi-bjp-scared",
+      "id": "kishan-61-calendar-year-record-iyer-fifty-hamilton",
       "also": [
-        "gst-collections-october-2026-2-31-lakh-crore-imports",
-        "santner-wins-toss-india-bat-hamilton-bhuvneshwar-varun-return"
+        "maruti-suzuki-record-october-sales-276120",
+        "gst-collections-october-2026-2-31-lakh-crore-imports"
       ]
     },
     "list": [
+      "india-bloc-rally-vehicles-stuck-sarhaul-raut-buses-trains-held",
+      "india-bloc-march-sets-off-warring-pratapgarhi-bjp-scared",
+      "santner-wins-toss-india-bat-hamilton-bhuvneshwar-varun-return",
       "tata-motors-october-pv-sales-75426-edges-mahindra",
-      "gambhir-my-job-not-to-make-everyone-happy-deep-squad",
-      "tata-motors-october-cv-sales-47652-exports-triple",
-      "india-bloc-rally-venugopal-stern-warning-modi-shah",
-      "india-bloc-rally-morning-crowds-10000-security-bjp-1984-march"
+      "gambhir-my-job-not-to-make-everyone-happy-deep-squad"
     ],
     "also": [
-      "gst-collections-october-2026-2-31-lakh-crore-imports",
-      "santner-wins-toss-india-bat-hamilton-bhuvneshwar-varun-return"
+      "maruti-suzuki-record-october-sales-276120",
+      "gst-collections-october-2026-2-31-lakh-crore-imports"
     ]
   },
   "startHere": [
@@ -429,16 +429,16 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "india-bloc-rally-vehicles-stuck-sarhaul-raut-buses-trains-held",
+        "india-bloc-rally-morning-crowds-10000-security-bjp-1984-march",
         "india-bloc-march-sets-off-warring-pratapgarhi-bjp-scared",
-        "india-bloc-rally-venugopal-stern-warning-modi-shah",
-        "bjp-rohtak-padyatra-nabin-counter-india-bloc-rally",
-        "kaul-memoir-chandrachud-pre-approval-collegium"
+        "india-bloc-rally-venugopal-stern-warning-modi-shah"
       ],
-      "lead": "india-bloc-rally-morning-crowds-10000-security-bjp-1984-march"
+      "lead": "india-bloc-convoy-connaught-place-tejashwi-crush-democracy"
     },
     {
       "section": "economy",
-      "lead": "gst-collections-october-2026-2-31-lakh-crore-imports",
+      "lead": "maruti-suzuki-record-october-sales-276120",
       "module": {
         "type": "markets",
         "indicators": [
@@ -449,10 +449,10 @@
         ]
       },
       "list": [
+        "gst-collections-october-2026-2-31-lakh-crore-imports",
         "tata-motors-october-pv-sales-75426-edges-mahindra",
         "tata-motors-october-cv-sales-47652-exports-triple",
-        "mahindra-record-october-suv-sales-73338-tractors-fall",
-        "hyundai-record-october-sales-82299-venue"
+        "mahindra-record-october-suv-sales-73338-tractors-fall"
       ]
     },
     {
@@ -508,12 +508,12 @@
     },
     {
       "section": "sports",
-      "lead": "santner-wins-toss-india-bat-hamilton-bhuvneshwar-varun-return",
+      "lead": "kishan-61-calendar-year-record-iyer-fifty-hamilton",
       "list": [
+        "santner-wins-toss-india-bat-hamilton-bhuvneshwar-varun-return",
         "gambhir-my-job-not-to-make-everyone-happy-deep-squad",
         "india-new-zealand-fifth-t20i-hamilton-preview",
-        "miami-survive-north-carolina-38-35-stay-unbeaten",
-        "rockets-rout-thunder-119-98-jabari-smith-30"
+        "miami-survive-north-carolina-38-35-stay-unbeaten"
       ]
     }
   ],

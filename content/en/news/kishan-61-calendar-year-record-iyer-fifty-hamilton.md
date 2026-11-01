@@ -66,7 +66,7 @@ The innings came after a shaky start. Sent in by Santner, who won the toss for t
 Kishan and captain Shreyas Iyer then took the attack apart. Iyer struck four sixes in a 17-ball 41 not out, and the pair carried India to **111 for 2 after ten overs**.
 
 ```photo
-{"n":2,"subject":"Adam Milne","caption":"New Zealand fast bowler Adam Milne, who removed both Indian openers early in Hamilton.","alt":"New Zealand fast bowler Adam Milne"}
+{"n": 2, "subject": "Seddon Park", "caption": "Seddon Park in Hamilton, venue of the fifth and final T20I between New Zealand and India.", "alt": "Seddon Park cricket ground, Hamilton"}
 ```
 
 New Zealand struck back in the 11th over. Blair Tickner, brought in for Matt Fisher, had Kishan **caught by Nathan Smith at deep mid-wicket**, and India were 122 for 3 after 11.2 overs. Iyer also went past fifty before he fell, leaving Tilak Varma and Naman Dhir together at the crease.

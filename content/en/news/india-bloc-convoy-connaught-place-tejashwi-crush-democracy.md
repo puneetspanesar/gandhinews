@@ -58,7 +58,7 @@ The INDIA bloc's leaders took to the streets of central Delhi together on Sunday
 On board were Lok Sabha Leader of the Opposition Rahul Gandhi, Priyanka Gandhi Vadra, Trinamool Congress chief Mamata Banerjee, Samajwadi Party chief Akhilesh Yadav, RJD leader Tejashwi Yadav, National Conference leader Farooq Abdullah and NCP (SP) MP Supriya Sule. Shortly after noon, **Mamata Banerjee and TMC MP Abhishek Banerjee joined Rahul Gandhi** at Congress president Mallikarjun Kharge's residence before the leaders set out.
 
 ```photo
-{"n":1,"subject":"Supriya Sule","caption":"NCP (SP) MP Supriya Sule was among the leaders on the open bus that reached Connaught Place.","alt":"NCP (SP) MP Supriya Sule"}
+{"n": 1, "subject": "Connaught Place", "caption": "Connaught Place in central Delhi, where the open bus carrying the opposition leaders arrived at about 1:20 pm.", "alt": "Connaught Place, New Delhi"}
 ```
 
 Tejashwi Yadav, Leader of the Opposition in the Bihar Assembly, called it a "Save the Vote, Save the Nation" mega-rally and said: "Those who seek to crush democracy never endure." CPI general secretary D Raja said the turnout carried **a message beyond India**: "It is a huge message, not only to the govt but to the whole world."
@@ -66,9 +66,5 @@ Tejashwi Yadav, Leader of the Opposition in the Bihar Assembly, called it a "Sav
 The bloc is marching against Chief Election Commissioner Gyanesh Kumar and the Special Intensive Revision of the electoral rolls, and wants his resignation.
 
 The BJP answered from the sidelines. National spokesperson C R Kesavan said that "Rahul Gandhi and the INDI bloc holding this anarchic march and rally today", **on the anniversary of the 1984 anti-Sikh riots**, "has deeply hurt, pained and insulted the sentiments of the entire Sikh community." Party spokesperson Jaiveer Shergill **questioned the lack of evidence** for the "vote chori" allegations and dismissed the event as a "Rahul relaunch attempt".
-
-```photo
-{"n":2,"subject":"C. R. Kesavan","caption":"BJP national spokesperson C R Kesavan, who said the march on the 1984 riots anniversary insulted Sikhs.","alt":"BJP spokesperson C R Kesavan"}
-```
 
 The leaders are due to address the crowd at Ramlila Maidan, where Delhi Police have told organisers to finish by 5 pm.

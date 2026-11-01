@@ -64,8 +64,4 @@ Samajwadi Party MP **Rajeev Rai made a similar charge**. "Buses are being interc
 
 Congress MP Sukhdeo Bhagat made the same point, saying the event had become **a mobilisation of citizens** and was not limited to INDIA bloc parties.
 
-```photo
-{"n":2,"subject":"Iqra Choudhary","caption":"Samajwadi Party MP Iqra Hasan, who said attending the rally was a fundamental right.","alt":"Samajwadi Party MP Iqra Hasan"}
-```
-
 There was no immediate response from the police or the Railways to the allegations. Delhi Police had earlier put about 10,000 personnel on duty for the rally and had diverted traffic in central Delhi from 10 am to 5 pm. Organisers have projected a turnout of up to 10 lakh; police put the ground's capacity at around 50,000.
