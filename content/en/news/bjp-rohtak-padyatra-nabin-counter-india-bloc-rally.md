@@ -63,9 +63,6 @@ The BJP is answering the opposition's show of strength in Delhi with one of its 
 
 The march, called **"Loktantra Bachao, Arajakta Hatao"** (save democracy, remove anarchy), ends at D-Park in Model Town, where Nabin is to lay flowers at the statue of Mahatma Gandhi. Chief Minister Nayab Singh Saini and state BJP president Archana Gupta are expected to join him.
 
-```photo
-{"n":1,"subject":"Nayab Singh Saini","caption":"Haryana Chief Minister Nayab Singh Saini, who is expected to join the Rohtak march on Haryana Day.","alt":"Haryana Chief Minister Nayab Singh Saini"}
-```
 
 The party has framed the campaign as a reply to the opposition's charges over the Special Intensive Revision (SIR) of electoral rolls. It calls it a movement against **"falsehoods, conspiracies and unrest engineered by a desperate opposition"**, and says workers are "reaching every village and household" to set out its side. Gupta said the campaign "seeks to highlight democratic values, political accountability and issues concerning public interest."
 
