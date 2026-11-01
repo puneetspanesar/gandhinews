@@ -44,12 +44,16 @@ That is 48.4% more than the 1,50,894 registered in October 2025 and 7.3% more th
 
 **TVS Motor stayed on top** with 60,433 registrations, up 94.5% on a year earlier, and lifted its share of the market to 27%. Its lead over second-placed Bajaj Auto **nearly doubled to 11,365 units**, from 5,662 in September. Bajaj registered 49,068 electric two-wheelers, little changed from the month before, and its share slipped to 21.9%.
 
-```photo {"n":1,"subject":"Bajaj Chetak electric scooter","caption":"Bajaj's Chetak electric scooter; the company held second place in October but lost market share.","alt":"A Bajaj Chetak electric scooter"}```
+```photo
+{"n":1,"subject":"Bajaj Chetak electric scooter","caption":"Bajaj's Chetak electric scooter; the company held second place in October but lost market share.","alt":"A Bajaj Chetak electric scooter"}
+```
 
 Ather Energy was third with 31,795. Behind it, Hero MotoCorp's Vida brand had the strongest month-on-month gain among the leaders, **up 22.5% to 29,936**, which cut its gap to Ather from 6,504 to just 1,859 units.
 
 The slide continued at Ola Electric, once the market leader. It registered 12,096 vehicles, **down 26.4% from a year ago** and 10% from September, and its share fell to 5.4%. Greaves Electric Mobility, in sixth place with 10,838, is now only 1,258 units behind it.
 
-```photo {"n":2,"subject":"Ola S1 Pro","caption":"Ola Electric's S1 scooter; the company's registrations fell for another month and it is now fifth in the market.","alt":"An Ola S1 Pro electric scooter"}```
+```photo
+{"n":2,"subject":"Ola S1 Pro","caption":"Ola Electric's S1 scooter; the company's registrations fell for another month and it is now fifth in the market.","alt":"An Ola S1 Pro electric scooter"}
+```
 
 The market is concentrated at the top. The five biggest makers accounted for **almost 82% of registrations**, and the top ten for nearly 94%, leaving 13,544 vehicles for every other brand combined.

@@ -1,546 +1,534 @@
 {
-  "lead": {
-    "id": "india-bloc-convoy-connaught-place-tejashwi-crush-democracy",
-    "overlay": {
-      "kicker": {
-        "en": "New Delhi, Sunday",
-        "hi": "नई दिल्ली, रविवार"
-      },
-      "value": {
-        "en": "Leaders reach Connaught Place",
-        "hi": "नेता कनॉट प्लेस पहुंचे"
-      },
-      "text": {
-        "en": "",
-        "hi": ""
-      }
-    },
-    "dataBox": [
-      {
-        "icon": "clock",
-        "color": "#cc0000",
-        "value": {
-          "en": "10 am to 5 pm",
-          "hi": "सुबह 10 से शाम 5"
-        },
-        "label": {
-          "en": "rally permitted at Ramlila Maidan",
-          "hi": "रामलीला मैदान में रैली की अनुमति"
-        }
-      },
-      {
-        "icon": "police-car",
-        "color": "#8f0000",
-        "value": {
-          "en": "10,000",
-          "hi": "10,000"
-        },
-        "label": {
-          "en": "police and paramilitary on duty",
-          "hi": "पुलिस और अर्धसैनिक बल तैनात"
-        }
-      },
-      {
-        "icon": "megaphone",
-        "color": "#0d0d0d",
-        "value": {
-          "en": "Hari Nagar",
-          "hi": "हरि नगर"
-        },
-        "label": {
-          "en": "BJP 1984 counter-march",
-          "hi": "भाजपा का 1984 जवाबी मार्च"
-        }
-      },
-      {
-        "icon": "person-simple-run",
-        "color": "#6e6e6e",
-        "value": {
-          "en": "Minto Road",
-          "hi": "मिंटो रोड"
-        },
-        "label": {
-          "en": "leaders march to Ramlila Maidan",
-          "hi": "नेता रामलीला मैदान की ओर रवाना"
-        }
-      }
-    ],
-    "relatedBelow": [
-      "nadda-anarchy-model-india-bloc-rally-sood-chaos",
-      "khurshid-not-end-one-rally-shukla-gyanesh-kumar-resign"
-    ],
-    "relatedBeside": [
-      "milne-four-wickets-india-191-new-zealand-chase-hamilton",
-      "tvs-motor-october-sales-700134-record-evs-double",
-      "sibal-rally-more-trade-vote-chori-dasmunsi-message",
-      "deepender-hooda-barricades-pilot-rally-goers-stopped",
-      "kishan-61-calendar-year-record-iyer-fifty-hamilton"
-    ],
-    "live": {
-      "title": {
-        "en": "CEC row",
-        "hi": "सीईसी विवाद"
-      }
-    }
+ "lead": {
+  "id": "rahul-parrot-gyanesh-kumar-kharge-chori-ki-sarkar-ramlila",
+  "overlay": {
+   "kicker": {
+    "en": "Ramlila Maidan, Sunday",
+    "hi": "रामलीला मैदान, रविवार"
+   },
+   "value": {
+    "en": "Rahul, Kharge target the CEC",
+    "hi": "राहुल, खड़गे के निशाने पर सीईसी"
+   },
+   "text": {
+    "en": "",
+    "hi": ""
+   }
   },
-  "briefing": {
-    "items": [
-      {
-        "link": "milne-four-wickets-india-191-new-zealand-chase-hamilton",
-        "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
-        },
-        "text": {
-          "en": "Milne's 4 for 19 holds India to 191 in Hamilton.",
-          "hi": "मिल्ने के 19 रन पर 4 विकेट, भारत 191 पर रुका।"
-        }
-      },
-      {
-        "link": "tvs-motor-october-sales-700134-record-evs-double",
-        "lead": {
-          "en": "TVS:",
-          "hi": "टीवीएस:"
-        },
-        "text": {
-          "en": "7 lakh vehicles sold in October; EV sales more than double.",
-          "hi": "अक्टूबर में 7 लाख वाहन बिके; ईवी बिक्री दोगुनी से ज्यादा।"
-        }
-      },
-      {
-        "link": "deepender-hooda-barricades-pilot-rally-goers-stopped",
-        "lead": {
-          "en": "Rally:",
-          "hi": "रैली:"
-        },
-        "text": {
-          "en": "Deepender Hooda says barricades slow rally-goers.",
-          "hi": "दीपेंद्र हुड्डा बोले, बैरिकेड से रैली में आने वालों को रोका जा रहा।"
-        }
-      },
-      {
-        "link": "nadda-anarchy-model-india-bloc-rally-sood-chaos",
-        "lead": {
-          "en": "BJP:",
-          "hi": "भाजपा:"
-        },
-        "text": {
-          "en": "Nadda calls the INDIA bloc rally an \"anarchy model\".",
-          "hi": "नड्डा ने इंडिया गठबंधन की रैली को \"अराजकता मॉडल\" बताया।"
-        }
-      },
-      {
-        "link": "india-bloc-convoy-connaught-place-tejashwi-crush-democracy",
-        "lead": {
-          "en": "CEC row:",
-          "hi": "सीईसी विवाद:"
-        },
-        "text": {
-          "en": "Opposition leaders reach Connaught Place on an open bus.",
-          "hi": "विपक्षी नेता खुली बस में कनॉट प्लेस पहुंचे।"
-        }
-      },
-      {
-        "link": "maruti-suzuki-record-october-sales-276120",
-        "lead": {
-          "en": "Maruti:",
-          "hi": "मारुति:"
-        },
-        "text": {
-          "en": "Record 276,120 vehicles sold in October.",
-          "hi": "अक्टूबर में रिकॉर्ड 2,76,120 वाहन बिके।"
-        }
-      },
-      {
-        "link": "gst-collections-october-2026-2-31-lakh-crore-imports",
-        "lead": {
-          "en": "GST:",
-          "hi": "जीएसटी:"
-        },
-        "text": {
-          "en": "October collections jump 22.9% to ₹2.31 lakh crore.",
-          "hi": "अक्टूबर में संग्रह 22.9% बढ़कर ₹2.31 लाख करोड़।"
-        }
-      },
-      {
-        "link": "tata-motors-october-pv-sales-75426-edges-mahindra",
-        "lead": {
-          "en": "Autos:",
-          "hi": "ऑटो:"
-        },
-        "text": {
-          "en": "Tata sells 73,894 cars at home, just ahead of Mahindra.",
-          "hi": "टाटा ने देश में 73,894 कारें बेचीं, महिंद्रा से थोड़ा आगे।"
-        }
-      }
-    ]
-  },
-  "numbers": {
-    "tracker": "economy-dashboard",
-    "items": [
-      {
-        "indicator": "gdp-growth",
-        "icon": "trend-up",
-        "label": {
-          "en": "GDP growth",
-          "hi": "जीडीपी वृद्धि"
-        },
-        "decimals": 1
-      },
-      {
-        "indicator": "cpi-inflation",
-        "icon": "shopping-cart",
-        "highlight": true,
-        "label": {
-          "en": "CPI inflation",
-          "hi": "सीपीआई महंगाई"
-        },
-        "decimals": 2
-      },
-      {
-        "indicator": "unemployment",
-        "icon": "briefcase",
-        "label": {
-          "en": "Unemployment",
-          "hi": "बेरोज़गारी"
-        },
-        "decimals": 1
-      },
-      {
-        "indicator": "iip-growth",
-        "icon": "factory",
-        "label": {
-          "en": "IIP growth",
-          "hi": "आईआईपी वृद्धि"
-        },
-        "decimals": 1
-      },
-      {
-        "indicator": "repo-rate",
-        "icon": "bank",
-        "decimals": 2,
-        "label": {
-          "en": "Repo rate",
-          "hi": "रेपो रेट"
-        }
-      },
-      {
-        "indicator": "fiscal-deficit-pct-be",
-        "icon": "chart-bar",
-        "highlight": true,
-        "label": {
-          "en": "Fiscal deficit used",
-          "hi": "राजकोषीय घाटा (बजट का)"
-        },
-        "decimals": 1
-      }
-    ]
-  },
-  "topStories": {
-    "big": {
-      "id": "milne-four-wickets-india-191-new-zealand-chase-hamilton",
-      "also": [
-        "nadda-anarchy-model-india-bloc-rally-sood-chaos",
-        "tvs-motor-october-sales-700134-record-evs-double"
-      ]
+  "dataBox": [
+   {
+    "icon": "clock",
+    "color": "#cc0000",
+    "value": {
+     "en": "10 am to 5 pm",
+     "hi": "सुबह 10 से शाम 5"
     },
-    "list": [
-      "khurshid-not-end-one-rally-shukla-gyanesh-kumar-resign",
-      "sibal-rally-more-trade-vote-chori-dasmunsi-message",
-      "deepender-hooda-barricades-pilot-rally-goers-stopped",
-      "kishan-61-calendar-year-record-iyer-fifty-hamilton",
-      "maruti-suzuki-record-october-sales-276120"
-    ],
-    "also": [
-      "nadda-anarchy-model-india-bloc-rally-sood-chaos",
-      "tvs-motor-october-sales-700134-record-evs-double"
-    ]
-  },
-  "startHere": [
-    "why-france-is-protesting-parcoursup-cost-of-living-explained",
-    "starlink-starshield-explained-ukraine-speed-cap",
-    "siang-dam-explained-what-sump-is-why-adi-protest",
-    "gaganyaan-g1-explained-what-uncrewed-flight-will-test",
-    "personalised-cancer-vaccine-explained-how-intismeran-works",
-    "farmer-id-explained-digital-agriculture-mission"
-  ],
-  "trackers": [
-    {
-      "id": "bills-in-parliament-tracker",
-      "title": {
-        "en": "Bills in Parliament",
-        "hi": "संसद में विधेयक"
-      }
-    },
-    {
-      "id": "economy-dashboard",
-      "title": {
-        "en": "Economy dashboard",
-        "hi": "अर्थव्यवस्था डैशबोर्ड"
-      }
-    },
-    {
-      "id": "election-calendar",
-      "title": {
-        "en": "Election calendar",
-        "hi": "चुनाव कैलेंडर"
-      }
-    },
-    {
-      "id": "budget-2026-27-promise-tracker",
-      "title": {
-        "en": "Budget promises",
-        "hi": "बजट के वादे"
-      }
-    },
-    {
-      "id": "sc-cases-tracker",
-      "title": {
-        "en": "Big Supreme Court cases",
-        "hi": "सुप्रीम कोर्ट के बड़े मामले"
-      }
+    "label": {
+     "en": "rally permitted at Ramlila Maidan",
+     "hi": "रामलीला मैदान में रैली की अनुमति"
     }
-  ],
-  "dataDesk": {
-    "map": {
-      "tracker": "election-calendar",
-      "topic": "elections-2027",
-      "kicker": {
-        "en": "Elections 2027",
-        "hi": "चुनाव 2027"
-      },
-      "title": {
-        "en": "{n} states vote in 2027",
-        "hi": "2027 में {n} राज्यों में चुनाव"
-      },
-      "text": {
-        "en": "Five assemblies are expected to vote in February and March, Himachal Pradesh and Gujarat late in the year. No schedule has been announced. The President's term ends in July 2027.",
-        "hi": "पांच विधानसभाओं के चुनाव फरवरी और मार्च में होने की उम्मीद है, हिमाचल प्रदेश और गुजरात के साल के आखिर में। अभी कोई कार्यक्रम घोषित नहीं हुआ है। राष्ट्रपति का कार्यकाल जुलाई 2027 में खत्म होता है।"
-      }
+   },
+   {
+    "icon": "police-car",
+    "color": "#8f0000",
+    "value": {
+     "en": "10,000",
+     "hi": "10,000"
     },
-    "parliament": {
-      "tracker": "bills-in-parliament-tracker",
-      "session": "monsoon-2026",
-      "bills": [
-        "fcra-amendment-2026",
-        "indian-statistical-institute-2026",
-        "supreme-court-number-of-judges-amendment-2026",
-        "mmdr-amendment-2026",
-        "kerala-alteration-of-name-2026"
-      ]
+    "label": {
+     "en": "police and paramilitary on duty",
+     "hi": "पुलिस और अर्धसैनिक बल तैनात"
     }
-  },
-  "factCheck": {
-    "cards": [
-      "jairam-ramesh-upi-charges-above-2000-claim",
-      "kejriwal-e20-trump-pressure-ethanol-claim",
-      "ai-brics-selfie-modi-putin-xi-raisi"
-    ]
-  },
-  "explained": [
-    {
-      "id": "imf-world-economic-outlook-explained-india-rbi",
-      "kn": [
-        {
-          "value": {
-            "en": "7%",
-            "hi": "7%"
-          },
-          "label": {
-            "en": "IMF forecast for India, this year",
-            "hi": "इस साल भारत के लिए आईएमएफ का अनुमान"
-          }
-        },
-        {
-          "value": {
-            "en": "7.1%",
-            "hi": "7.1%"
-          },
-          "label": {
-            "en": "RBI's own forecast",
-            "hi": "आरबीआई का अपना अनुमान"
-          }
-        }
-      ]
+   },
+   {
+    "icon": "megaphone",
+    "color": "#0d0d0d",
+    "value": {
+     "en": "Hari Nagar",
+     "hi": "हरि नगर"
     },
-    {
-      "id": "wpi-vs-cpi-explained-wholesale-retail-inflation",
-      "kn": [
-        {
-          "value": {
-            "en": "11.39%",
-            "hi": "11.39%"
-          },
-          "label": {
-            "en": "wholesale inflation, September",
-            "hi": "थोक महंगाई, सितंबर"
-          }
-        },
-        {
-          "value": {
-            "en": "5.54%",
-            "hi": "5.54%"
-          },
-          "label": {
-            "en": "retail inflation, September",
-            "hi": "खुदरा महंगाई, सितंबर"
-          }
-        }
-      ]
-    },
-    {
-      "id": "repo-rate-and-your-emi-explained",
-      "kn": [
-        {
-          "value": {
-            "en": "₹781",
-            "hi": "₹781"
-          },
-          "label": {
-            "en": "extra EMI a month, ₹50 lakh loan",
-            "hi": "₹50 लाख के लोन पर हर महीने ज़्यादा ईएमआई"
-          }
-        },
-        {
-          "value": {
-            "en": "₹1.87 lakh",
-            "hi": "₹1.87 लाख"
-          },
-          "label": {
-            "en": "extra over 20 years",
-            "hi": "20 साल में ज़्यादा भुगतान"
-          }
-        }
-      ]
+    "label": {
+     "en": "BJP 1984 counter-march",
+     "hi": "भाजपा का 1984 जवाबी मार्च"
     }
-  ],
-  "opinion": [
-    "mocking-northeast-indians-is-not-content-it-is-a-crime",
-    "single-use-medical-devices-reuse-must-be-policed-and-disclosed",
-    "sangareddy-pharma-deaths-need-inspections-not-compensation",
-    "banks-must-tell-customers-about-data-breaches-now",
-    "borrowed-money-small-caps-sebi-must-watch-margin-funding"
-  ],
-  "sections": [
-    {
-      "section": "politics",
-      "module": {
-        "type": "bypolls",
-        "article": "bypoll-results-ruling-parties-win-all-six-seats"
-      },
-      "list": [
-        "khurshid-not-end-one-rally-shukla-gyanesh-kumar-resign",
-        "sibal-rally-more-trade-vote-chori-dasmunsi-message",
-        "india-bloc-convoy-connaught-place-tejashwi-crush-democracy",
-        "india-bloc-rally-vehicles-stuck-sarhaul-raut-buses-trains-held"
-      ],
-      "lead": "nadda-anarchy-model-india-bloc-rally-sood-chaos"
+   },
+   {
+    "icon": "megaphone",
+    "color": "#6e6e6e",
+    "value": {
+     "en": "Kharge",
+     "hi": "खड़गे"
     },
-    {
-      "section": "economy",
-      "lead": "tvs-motor-october-sales-700134-record-evs-double",
-      "module": {
-        "type": "markets",
-        "indicators": [
-          "sensex",
-          "nifty-50",
-          "usd-inr",
-          "forex-reserves"
-        ]
-      },
-      "list": [
-        "maruti-suzuki-record-october-sales-276120",
-        "gst-collections-october-2026-2-31-lakh-crore-imports",
-        "tata-motors-october-pv-sales-75426-edges-mahindra",
-        "tata-motors-october-cv-sales-47652-exports-triple"
-      ]
-    },
-    {
-      "section": "states",
-      "lead": "deepender-hooda-barricades-pilot-rally-goers-stopped",
-      "list": [
-        "delhi-aqi-214-poor-sunday-morning-ncr-moderate",
-        "delhi-pollution-curbs-bs-iv-ban-50-per-cent-office-from-today",
-        "modi-chhattisgarh-foundation-day-naxalism-roots-sai-vajpayee",
-        "haryana-60-murmu-kurukshetra-haryana-day"
-      ]
-    },
-    {
-      "section": "policy",
-      "lead": "liechtenstein-prince-alois-state-visit-india-mumbai-vadodara",
-      "list": [
-        "vande-bharat-sleeper-bengaluru-mumbai-vaishnaw-flags-off-today",
-        "murmu-assent-frontier-nagaland-territorial-authority-bill",
-        "goyal-rotterdam-port-capacity-fourfold-2047",
-        "sonowal-busan-korea-visit-shipbuilding-indian-professionals"
-      ]
-    },
-    {
-      "section": "parliament",
-      "module": {
-        "type": "session",
-        "session": "monsoon-2026"
-      },
-      "list": [
-        "birla-sameh-shoukry-brics-parliamentary-forum-opens-monday",
-        "finance-panel-hears-mospi-indian-statistical-institute-bill"
-      ]
+    "label": {
+     "en": "vows to fight until the CEC goes",
+     "hi": "सीईसी हटने तक लड़ाई का संकल्प"
     }
+   }
   ],
-  "desks": [
-    {
-      "section": "world",
-      "lead": "indian-trekkers-missing-dolpa-nepal-army-search-shey-phoksundo",
-      "list": [
-        "iran-araghchi-two-day-hormuz-plan-rezaei-vance-letter",
-        "fed-holds-rates-3-75-4-two-dissent-hike",
-        "netanyahu-zamir-clash-report-iran-warning-election-eve"
-      ]
-    },
-    {
-      "section": "science",
-      "lead": "nasa-isaacman-moon-base-artemis-iii-summer-2027-landing-2028",
-      "list": [
-        "vaishnaw-ai-law-consultation-paper-risks-threshold",
-        "bhashini-10-billion-inferences-etd-2026-iit-delhi",
-        "china-long-march-8a-satnet-wenchang-nvs-03-launch-week"
-      ]
-    },
-    {
-      "section": "sports",
-      "lead": "milne-four-wickets-india-191-new-zealand-chase-hamilton",
-      "list": [
-        "kishan-61-calendar-year-record-iyer-fifty-hamilton",
-        "santner-wins-toss-india-bat-hamilton-bhuvneshwar-varun-return",
-        "gambhir-my-job-not-to-make-everyone-happy-deep-squad",
-        "india-new-zealand-fifth-t20i-hamilton-preview"
-      ]
-    }
+  "relatedBelow": [
+   "tejashwi-shakuni-akhilesh-31000-votes-ramlila-rally",
+   "india-bloc-convoy-connaught-place-tejashwi-crush-democracy"
   ],
-  "weekAhead": [
-    {
-      "icon": "megaphone",
-      "date": {
-        "en": "Sun 1 Nov",
-        "hi": "रवि, 1 नवंबर"
-      },
-      "text": {
-        "en": "INDIA bloc rally at Ramlila Maidan on the CEC row.",
-        "hi": "सीईसी विवाद पर रामलीला मैदान में इंडिया गठबंधन की रैली।"
-      },
-      "link": "india-bloc-ramlila-maidan-rally-today-preview"
+  "relatedBeside": [
+   "seifert-93-new-zealand-beat-india-seven-wickets-hamilton-series-3-2",
+   "electric-two-wheeler-registrations-october-2026-tvs-leads-48-per-cent",
+   "iran-designates-royal-navy-raf-terrorist-mi6-hostile",
+   "tvs-motor-october-sales-700134-record-evs-double",
+   "sibal-rally-more-trade-vote-chori-dasmunsi-message"
+  ],
+  "live": {
+   "title": {
+    "en": "CEC row",
+    "hi": "सीईसी विवाद"
+   }
+  }
+ },
+ "briefing": {
+  "items": [
+   {
+    "link": "rahul-parrot-gyanesh-kumar-kharge-chori-ki-sarkar-ramlila",
+    "lead": {
+     "en": "CEC row:",
+     "hi": "सीईसी विवाद:"
     },
-    {
-      "icon": "trophy",
-      "date": {
-        "en": "Sun 1 Nov",
-        "hi": "रवि, 1 नवंबर"
-      },
-      "text": {
-        "en": "Fifth and final T20I, New Zealand v India, in Hamilton.",
-        "hi": "हैमिल्टन में न्यूजीलैंड-भारत का पांचवां और आखिरी टी20 मैच।"
-      },
-      "link": "india-new-zealand-fifth-t20i-hamilton-preview"
+    "text": {
+     "en": "Rahul and Kharge take aim at the CEC from Ramlila Maidan.",
+     "hi": "रामलीला मैदान से राहुल और खड़गे ने सीईसी पर निशाना साधा।"
     }
+   },
+   {
+    "link": "seifert-93-new-zealand-beat-india-seven-wickets-hamilton-series-3-2",
+    "lead": {
+     "en": "Cricket:",
+     "hi": "क्रिकेट:"
+    },
+    "text": {
+     "en": "Seifert 93 as NZ win in Hamilton; India take series 3-2.",
+     "hi": "सीफर्ट के 93 से हैमिल्टन में न्यूजीलैंड जीता; सीरीज भारत के नाम 3-2।"
+    }
+   },
+   {
+    "link": "tejashwi-shakuni-akhilesh-31000-votes-ramlila-rally",
+    "lead": {
+     "en": "Rally:",
+     "hi": "रैली:"
+    },
+    "text": {
+     "en": "Tejashwi calls it Kurukshetra; Akhilesh takes SIR fight to UP.",
+     "hi": "तेजस्वी ने कहा कुरुक्षेत्र; अखिलेश ने एसआईआर की लड़ाई यूपी तक पहुंचाई।"
+    }
+   },
+   {
+    "link": "electric-two-wheeler-registrations-october-2026-tvs-leads-48-per-cent",
+    "lead": {
+     "en": "EVs:",
+     "hi": "ईवी:"
+    },
+    "text": {
+     "en": "Electric two-wheeler registrations up 48% in October.",
+     "hi": "अक्टूबर में इलेक्ट्रिक दोपहिया पंजीकरण 48% बढ़े।"
+    }
+   },
+   {
+    "link": "iran-designates-royal-navy-raf-terrorist-mi6-hostile",
+    "lead": {
+     "en": "Iran:",
+     "hi": "ईरान:"
+    },
+    "text": {
+     "en": "Tehran lists Royal Navy and RAF as terrorist groups.",
+     "hi": "तेहरान ने रॉयल नेवी और आरएएफ को आतंकी संगठन बताया।"
+    }
+   },
+   {
+    "link": "tvs-motor-october-sales-700134-record-evs-double",
+    "lead": {
+     "en": "TVS:",
+     "hi": "टीवीएस:"
+    },
+    "text": {
+     "en": "7 lakh vehicles sold in October; EV sales more than double.",
+     "hi": "अक्टूबर में 7 लाख वाहन बिके; ईवी बिक्री दोगुनी से ज्यादा।"
+    }
+   },
+   {
+    "link": "nadda-anarchy-model-india-bloc-rally-sood-chaos",
+    "lead": {
+     "en": "BJP:",
+     "hi": "भाजपा:"
+    },
+    "text": {
+     "en": "Nadda calls the INDIA bloc rally an \"anarchy model\".",
+     "hi": "नड्डा ने इंडिया गठबंधन की रैली को \"अराजकता मॉडल\" बताया।"
+    }
+   },
+   {
+    "link": "maruti-suzuki-record-october-sales-276120",
+    "lead": {
+     "en": "Maruti:",
+     "hi": "मारुति:"
+    },
+    "text": {
+     "en": "Record 276,120 vehicles sold in October.",
+     "hi": "अक्टूबर में रिकॉर्ड 2,76,120 वाहन बिके।"
+    }
+   }
   ]
+ },
+ "numbers": {
+  "tracker": "economy-dashboard",
+  "items": [
+   {
+    "indicator": "gdp-growth",
+    "icon": "trend-up",
+    "label": {
+     "en": "GDP growth",
+     "hi": "जीडीपी वृद्धि"
+    },
+    "decimals": 1
+   },
+   {
+    "indicator": "cpi-inflation",
+    "icon": "shopping-cart",
+    "highlight": true,
+    "label": {
+     "en": "CPI inflation",
+     "hi": "सीपीआई महंगाई"
+    },
+    "decimals": 2
+   },
+   {
+    "indicator": "unemployment",
+    "icon": "briefcase",
+    "label": {
+     "en": "Unemployment",
+     "hi": "बेरोज़गारी"
+    },
+    "decimals": 1
+   },
+   {
+    "indicator": "iip-growth",
+    "icon": "factory",
+    "label": {
+     "en": "IIP growth",
+     "hi": "आईआईपी वृद्धि"
+    },
+    "decimals": 1
+   },
+   {
+    "indicator": "repo-rate",
+    "icon": "bank",
+    "decimals": 2,
+    "label": {
+     "en": "Repo rate",
+     "hi": "रेपो रेट"
+    }
+   },
+   {
+    "indicator": "fiscal-deficit-pct-be",
+    "icon": "chart-bar",
+    "highlight": true,
+    "label": {
+     "en": "Fiscal deficit used",
+     "hi": "राजकोषीय घाटा (बजट का)"
+    },
+    "decimals": 1
+   }
+  ]
+ },
+ "topStories": {
+  "big": {
+   "id": "seifert-93-new-zealand-beat-india-seven-wickets-hamilton-series-3-2",
+   "also": [
+    "tejashwi-shakuni-akhilesh-31000-votes-ramlila-rally",
+    "electric-two-wheeler-registrations-october-2026-tvs-leads-48-per-cent"
+   ]
+  },
+  "list": [
+   "iran-designates-royal-navy-raf-terrorist-mi6-hostile",
+   "nadda-anarchy-model-india-bloc-rally-sood-chaos",
+   "khurshid-not-end-one-rally-shukla-gyanesh-kumar-resign",
+   "sibal-rally-more-trade-vote-chori-dasmunsi-message",
+   "deepender-hooda-barricades-pilot-rally-goers-stopped"
+  ],
+  "also": [
+   "tejashwi-shakuni-akhilesh-31000-votes-ramlila-rally",
+   "electric-two-wheeler-registrations-october-2026-tvs-leads-48-per-cent"
+  ]
+ },
+ "startHere": [
+  "why-france-is-protesting-parcoursup-cost-of-living-explained",
+  "starlink-starshield-explained-ukraine-speed-cap",
+  "siang-dam-explained-what-sump-is-why-adi-protest",
+  "gaganyaan-g1-explained-what-uncrewed-flight-will-test",
+  "personalised-cancer-vaccine-explained-how-intismeran-works",
+  "farmer-id-explained-digital-agriculture-mission"
+ ],
+ "trackers": [
+  {
+   "id": "bills-in-parliament-tracker",
+   "title": {
+    "en": "Bills in Parliament",
+    "hi": "संसद में विधेयक"
+   }
+  },
+  {
+   "id": "economy-dashboard",
+   "title": {
+    "en": "Economy dashboard",
+    "hi": "अर्थव्यवस्था डैशबोर्ड"
+   }
+  },
+  {
+   "id": "election-calendar",
+   "title": {
+    "en": "Election calendar",
+    "hi": "चुनाव कैलेंडर"
+   }
+  },
+  {
+   "id": "budget-2026-27-promise-tracker",
+   "title": {
+    "en": "Budget promises",
+    "hi": "बजट के वादे"
+   }
+  },
+  {
+   "id": "sc-cases-tracker",
+   "title": {
+    "en": "Big Supreme Court cases",
+    "hi": "सुप्रीम कोर्ट के बड़े मामले"
+   }
+  }
+ ],
+ "dataDesk": {
+  "map": {
+   "tracker": "election-calendar",
+   "topic": "elections-2027",
+   "kicker": {
+    "en": "Elections 2027",
+    "hi": "चुनाव 2027"
+   },
+   "title": {
+    "en": "{n} states vote in 2027",
+    "hi": "2027 में {n} राज्यों में चुनाव"
+   },
+   "text": {
+    "en": "Five assemblies are expected to vote in February and March, Himachal Pradesh and Gujarat late in the year. No schedule has been announced. The President's term ends in July 2027.",
+    "hi": "पांच विधानसभाओं के चुनाव फरवरी और मार्च में होने की उम्मीद है, हिमाचल प्रदेश और गुजरात के साल के आखिर में। अभी कोई कार्यक्रम घोषित नहीं हुआ है। राष्ट्रपति का कार्यकाल जुलाई 2027 में खत्म होता है।"
+   }
+  },
+  "parliament": {
+   "tracker": "bills-in-parliament-tracker",
+   "session": "monsoon-2026",
+   "bills": [
+    "fcra-amendment-2026",
+    "indian-statistical-institute-2026",
+    "supreme-court-number-of-judges-amendment-2026",
+    "mmdr-amendment-2026",
+    "kerala-alteration-of-name-2026"
+   ]
+  }
+ },
+ "factCheck": {
+  "cards": [
+   "jairam-ramesh-upi-charges-above-2000-claim",
+   "kejriwal-e20-trump-pressure-ethanol-claim",
+   "ai-brics-selfie-modi-putin-xi-raisi"
+  ]
+ },
+ "explained": [
+  {
+   "id": "imf-world-economic-outlook-explained-india-rbi",
+   "kn": [
+    {
+     "value": {
+      "en": "7%",
+      "hi": "7%"
+     },
+     "label": {
+      "en": "IMF forecast for India, this year",
+      "hi": "इस साल भारत के लिए आईएमएफ का अनुमान"
+     }
+    },
+    {
+     "value": {
+      "en": "7.1%",
+      "hi": "7.1%"
+     },
+     "label": {
+      "en": "RBI's own forecast",
+      "hi": "आरबीआई का अपना अनुमान"
+     }
+    }
+   ]
+  },
+  {
+   "id": "wpi-vs-cpi-explained-wholesale-retail-inflation",
+   "kn": [
+    {
+     "value": {
+      "en": "11.39%",
+      "hi": "11.39%"
+     },
+     "label": {
+      "en": "wholesale inflation, September",
+      "hi": "थोक महंगाई, सितंबर"
+     }
+    },
+    {
+     "value": {
+      "en": "5.54%",
+      "hi": "5.54%"
+     },
+     "label": {
+      "en": "retail inflation, September",
+      "hi": "खुदरा महंगाई, सितंबर"
+     }
+    }
+   ]
+  },
+  {
+   "id": "repo-rate-and-your-emi-explained",
+   "kn": [
+    {
+     "value": {
+      "en": "₹781",
+      "hi": "₹781"
+     },
+     "label": {
+      "en": "extra EMI a month, ₹50 lakh loan",
+      "hi": "₹50 लाख के लोन पर हर महीने ज़्यादा ईएमआई"
+     }
+    },
+    {
+     "value": {
+      "en": "₹1.87 lakh",
+      "hi": "₹1.87 लाख"
+     },
+     "label": {
+      "en": "extra over 20 years",
+      "hi": "20 साल में ज़्यादा भुगतान"
+     }
+    }
+   ]
+  }
+ ],
+ "opinion": [
+  "mocking-northeast-indians-is-not-content-it-is-a-crime",
+  "single-use-medical-devices-reuse-must-be-policed-and-disclosed",
+  "sangareddy-pharma-deaths-need-inspections-not-compensation",
+  "banks-must-tell-customers-about-data-breaches-now",
+  "borrowed-money-small-caps-sebi-must-watch-margin-funding"
+ ],
+ "sections": [
+  {
+   "section": "politics",
+   "module": {
+    "type": "bypolls",
+    "article": "bypoll-results-ruling-parties-win-all-six-seats"
+   },
+   "list": [
+    "tejashwi-shakuni-akhilesh-31000-votes-ramlila-rally",
+    "nadda-anarchy-model-india-bloc-rally-sood-chaos",
+    "khurshid-not-end-one-rally-shukla-gyanesh-kumar-resign",
+    "sibal-rally-more-trade-vote-chori-dasmunsi-message"
+   ],
+   "lead": "rahul-parrot-gyanesh-kumar-kharge-chori-ki-sarkar-ramlila"
+  },
+  {
+   "section": "economy",
+   "lead": "electric-two-wheeler-registrations-october-2026-tvs-leads-48-per-cent",
+   "module": {
+    "type": "markets",
+    "indicators": [
+     "sensex",
+     "nifty-50",
+     "usd-inr",
+     "forex-reserves"
+    ]
+   },
+   "list": [
+    "tvs-motor-october-sales-700134-record-evs-double",
+    "maruti-suzuki-record-october-sales-276120",
+    "gst-collections-october-2026-2-31-lakh-crore-imports",
+    "tata-motors-october-pv-sales-75426-edges-mahindra"
+   ]
+  },
+  {
+   "section": "states",
+   "lead": "deepender-hooda-barricades-pilot-rally-goers-stopped",
+   "list": [
+    "delhi-aqi-214-poor-sunday-morning-ncr-moderate",
+    "delhi-pollution-curbs-bs-iv-ban-50-per-cent-office-from-today",
+    "modi-chhattisgarh-foundation-day-naxalism-roots-sai-vajpayee",
+    "haryana-60-murmu-kurukshetra-haryana-day"
+   ]
+  },
+  {
+   "section": "policy",
+   "lead": "liechtenstein-prince-alois-state-visit-india-mumbai-vadodara",
+   "list": [
+    "vande-bharat-sleeper-bengaluru-mumbai-vaishnaw-flags-off-today",
+    "murmu-assent-frontier-nagaland-territorial-authority-bill",
+    "goyal-rotterdam-port-capacity-fourfold-2047",
+    "sonowal-busan-korea-visit-shipbuilding-indian-professionals"
+   ]
+  },
+  {
+   "section": "parliament",
+   "module": {
+    "type": "session",
+    "session": "monsoon-2026"
+   },
+   "list": [
+    "birla-sameh-shoukry-brics-parliamentary-forum-opens-monday",
+    "finance-panel-hears-mospi-indian-statistical-institute-bill"
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "section": "world",
+   "lead": "iran-designates-royal-navy-raf-terrorist-mi6-hostile",
+   "list": [
+    "indian-trekkers-missing-dolpa-nepal-army-search-shey-phoksundo",
+    "iran-araghchi-two-day-hormuz-plan-rezaei-vance-letter",
+    "fed-holds-rates-3-75-4-two-dissent-hike"
+   ]
+  },
+  {
+   "section": "science",
+   "lead": "nasa-isaacman-moon-base-artemis-iii-summer-2027-landing-2028",
+   "list": [
+    "vaishnaw-ai-law-consultation-paper-risks-threshold",
+    "bhashini-10-billion-inferences-etd-2026-iit-delhi",
+    "china-long-march-8a-satnet-wenchang-nvs-03-launch-week"
+   ]
+  },
+  {
+   "section": "sports",
+   "lead": "seifert-93-new-zealand-beat-india-seven-wickets-hamilton-series-3-2",
+   "list": [
+    "milne-four-wickets-india-191-new-zealand-chase-hamilton",
+    "kishan-61-calendar-year-record-iyer-fifty-hamilton",
+    "santner-wins-toss-india-bat-hamilton-bhuvneshwar-varun-return",
+    "gambhir-my-job-not-to-make-everyone-happy-deep-squad"
+   ]
+  }
+ ],
+ "weekAhead": [
+  {
+   "icon": "megaphone",
+   "date": {
+    "en": "Sun 1 Nov",
+    "hi": "रवि, 1 नवंबर"
+   },
+   "text": {
+    "en": "INDIA bloc rally at Ramlila Maidan on the CEC row.",
+    "hi": "सीईसी विवाद पर रामलीला मैदान में इंडिया गठबंधन की रैली।"
+   },
+   "link": "india-bloc-ramlila-maidan-rally-today-preview"
+  }
+ ]
 }

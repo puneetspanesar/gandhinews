@@ -47,13 +47,17 @@ Iran on Sunday designated **Britain's Royal Navy and Royal Air Force as terroris
 
 The Iranian foreign ministry said the measures follow a resolution of the **Supreme National Security Council**. MI6 "shall be classified as a 'hostile group'", the ministry said, which brings the agency under Iran's espionage law. The two armed services will be treated under the Iranian law that answered Western moves against the Islamic Revolutionary Guard Corps (IRGC).
 
-```photo {"n":1,"subject":"SIS Building","caption":"The SIS Building at Vauxhall Cross in London, headquarters of MI6, which Iran now classifies as a hostile group.","alt":"The SIS Building, headquarters of MI6, on the Thames in London"}```
+```photo
+{"n":1,"subject":"SIS Building","caption":"The SIS Building at Vauxhall Cross in London, headquarters of MI6, which Iran now classifies as a hostile group.","alt":"The SIS Building, headquarters of MI6, on the Thames in London"}
+```
 
 Tehran accused Britain of aiding the US-Israeli war against Iran by **providing military and logistical bases** in British-controlled territories. It also pointed to London's decision of 13 July 2026 to place the IRGC under the State Threats Act 2026, a new law that lets the British government list foreign state bodies seen as a threat to national security. Supporting the IRGC in the UK can now carry a sentence of up to 14 years.
 
 The ministry described its step as lawful and reciprocal and said **Britain would bear responsibility** for the consequences. There was no immediate response from the British government.
 
-```photo {"n":2,"subject":"HMNB Portsmouth","caption":"Royal Navy warships at Portsmouth naval base; the Royal Navy is one of the two British services Iran has listed.","alt":"Royal Navy ships berthed at HMNB Portsmouth"}```
+```photo
+{"n":2,"subject":"HMNB Portsmouth","caption":"Royal Navy warships at Portsmouth naval base; the Royal Navy is one of the two British services Iran has listed.","alt":"Royal Navy ships berthed at HMNB Portsmouth"}
+```
 
 The announcement came as Iranian officials hardened their tone. Army spokesperson Brigadier General Mohammad Akraminia warned that any fresh US attack would bring an "immediate, crushing response" that would be "even more extensive than in the past", and that a new conflict would not stay within West Asia.
 
