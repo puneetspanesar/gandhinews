@@ -48,8 +48,4 @@ Ather Energy was third with 31,795. Behind it, Hero MotoCorp's Vida brand had th
 
 The slide continued at Ola Electric, once the market leader. It registered 12,096 vehicles, **down 26.4% from a year ago** and 10% from September, and its share fell to 5.4%. Greaves Electric Mobility, in sixth place with 10,838, is now only 1,258 units behind it.
 
-```photo
-{"n":2,"subject":"Ola S1 Pro","caption":"Ola Electric's S1 scooter; the company's registrations fell for another month and it is now fifth in the market.","alt":"An Ola S1 Pro electric scooter"}
-```
-
 The market is concentrated at the top. The five biggest makers accounted for **almost 82% of registrations**, and the top ten for nearly 94%, leaving 13,544 vehicles for every other brand combined.
