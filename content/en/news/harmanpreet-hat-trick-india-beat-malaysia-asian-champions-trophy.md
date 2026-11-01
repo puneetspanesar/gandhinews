@@ -35,12 +35,6 @@ verification:
     - "event: 1 Nov, match ended shortly before the IANS report posted at 22:52 IST (metadata 17:25 UTC = 22:55 IST); kickoff time not in source. Single source (IANS) for all match detail."
     - "Malaysian defender who got the late yellow card is spelt two ways in source (Aminul Azhar / Amirul Azahar); not named in copy. Marhan's full name not given; used as in source."
     - "Harmanpreet's eight-goal tournament tally, Player of the Match award and table (India 12 pts GD +21, Malaysia 9, Japan 7, South Korea 6; all four through to semis) from IANS. Quotes from IANS."
-cover:
-  template: sport
-  label: Asian Champions Trophy
-  headline: "Harmanpreet hat-trick sinks Malaysia"
-  bg: "Surjit Hockey Stadium Jalandhar"
-  score: ["IND 4", "MAS 2"]
 ---
 
 Harmanpreet Singh scored **a hat-trick against Malaysia** on Sunday night as India won 4-2 in Jalandhar to stay unbeaten in the Asian Champions Trophy and top the table going into the last round of league games.
@@ -53,17 +47,11 @@ Both sides came into the game at the Olympian Surjit Singh Hockey Stadium with t
 
 Harmanpreet put India ahead in the **third minute from a penalty corner**, finishing a variation with Jugraj Singh. Malaysia then pushed hard in the second quarter. Goalkeeper Krishan Bahadur Pathak and first rusher Amit Rohidas kept out several corners, but Akhimullah Anuar **levelled in the 25th minute** and it was 1-1 at half-time.
 
-```photo
-{"n":1,"subject":"Krishan Bahadur Pathak","caption":"India goalkeeper Krishan Bahadur Pathak made key saves during Malaysia's spell of penalty corners in the second quarter.","alt":"Indian hockey goalkeeper Krishan Bahadur Pathak"}
-```
 
 Harmanpreet restored the lead with another corner in the 33rd minute. Five minutes later Malaysia's Faiz Jali was shown **a 10-minute yellow card** for charging into Mandeep Singh, and India used the extra player. Hardik Singh found Sukhjeet Singh, whose backhand made it 3-1 in the 43rd minute.
 
 With two minutes left the ball struck a Malaysian defender's foot on the goal line, and Harmanpreet **drove the penalty stroke high** into the net to complete his treble. Shello Silverius pulled one back at the very end.
 
-```photo
-{"n":2,"subject":"Sukhjeet Singh (field hockey)","caption":"Forward Sukhjeet Singh scored India's third goal with a backhand finish.","alt":"Indian hockey forward Sukhjeet Singh"}
-```
 
 "We are here for gold... Our only target is to win at home," Harmanpreet said after the match. "The energy from the crowd is infectious."
 

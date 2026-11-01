@@ -65,8 +65,5 @@ Lakshya came out quickly and led 8-4. Christie fought back to 9-8, but a generou
 
 The second game was one-way traffic. Lakshya led 6-3 and was **four points clear at the interval**. Late on, a line call by Christie was overturned on video review, giving Lakshya 10 championship points at 20-10. He needed only the first, as Christie found the net again.
 
-```photo
-{"n":2,"subject":"P. V. Sindhu","caption":"PV Sindhu won the women's singles title at the Hylo Open earlier on Sunday, setting up the Indian double.","alt":"Indian badminton player PV Sindhu"}
-```
 
 The title adds to a career that includes **Commonwealth Games gold in 2022** and an Australian Open win. Lakshya had finished runner-up at the Hong Kong Open in 2025 and at the All England Championships earlier this year. This time there was **no stumble at the final hurdle**.

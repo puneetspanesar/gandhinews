@@ -20,13 +20,6 @@ hero:
   alt: "FC Goa forward Francisco Feuillassier"
   overlay:
     value: "Goa's first win of the season"
-cover:
-  template: sport
-  label: "ISL"
-  headline: "Goa beat Inter Kashi for first win"
-  bg: "Shree Shiv Chhatrapati Sports Complex"
-  people: ["Francisco Feuillassier", "Gouramangi Singh"]
-  score: ["Inter Kashi 1", "FC Goa 2"]
 related: [isl-returns-bengaluru-comeback-churchill-brothers-win-on-debut]
 seo:
   description: "ISL 2026-27: Franchu and Chiki score as FC Goa beat Inter Kashi 2-1 in Pune for their first win of the season; coach Gouramangi Singh sent off."
@@ -64,8 +57,5 @@ Inter Kashi were level five minutes after the restart. Rosenberg Gabriel crossed
 
 The winner came in the 66th minute. Franchu broke through the Inter Kashi lines and found substitute Muhammed Nemil, who squared the ball past the onrushing goalkeeper Albino Gomes. **Chiki finished from close range** despite Pratik Chaudhary's attempt to block.
 
-```photo
-{"n":2,"subject":"Gouramangi Singh","caption":"Gouramangi Singh, FC Goa's head coach, was sent off in the closing stages for kicking the ball away to delay a restart.","alt":"Former India defender and FC Goa head coach Gouramangi Singh"}
-```
 
 Inter Kashi pushed for a second equaliser in the closing stages, but Goa held firm. Their night ended on a sour note on the touchline, where **head coach Gouramangi Singh was sent off** for kicking the ball away to delay a restart.
