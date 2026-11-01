@@ -17,7 +17,7 @@ hero:
   need: "Two-panel split: Congress general secretary K C Venugopal and Prime Minister Narendra Modi, the leader he said the rally was a warning to"
   suggested_source: "K. C. Venugopal"
   subjects: ["K. C. Venugopal", "Narendra Modi"]
-  alt: "Congress general secretary K C Venugopal and Prime Minister Narendra Modi"
+  alt: "Connaught Place in central New Delhi, where the opposition march to Ramlila Maidan was due to begin"
   overlay:
     value: "'A stern warning' to Modi, Shah"
 related: [india-bloc-rally-morning-crowds-10000-security-bjp-1984-march, india-bloc-ramlila-maidan-rally-today-preview, bjp-rohtak-padyatra-nabin-counter-india-bloc-rally, india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar]
@@ -51,16 +51,10 @@ Congress general secretary K C Venugopal said on Sunday morning that the INDIA b
 
 Speaking to reporters in Delhi at about 10:40 am, Venugopal said the protest against Chief Election Commissioner Gyanesh Kumar would be one "like never before", and claimed it had already rattled the two leaders. "They have lost their composure seeing the magnitude of the public support for the protest," he said. "That is why they are making statements that the protestors are anarchists and the agitation was an insult to the Parliament."
 
-```photo
-{"n":1,"subject":"Amit Shah","caption":"Union Home Minister Amit Shah, who Venugopal said had lost his composure over the scale of the protest.","alt":"Union Home Minister Amit Shah"}
-```
 
 The remarks came as **workers of several parties kept streaming in** to the centre of the capital. Samajwadi Party workers gathered outside Akhilesh Yadav's residence, while Congress supporters assembled outside Himachal Bhawan before walking to the venue, where a large tricolour canopy now covers the stage area.
 
 The bloc says it expects **up to 10 lakh people**, while Delhi Police have planned for about 50,000. Alliance leaders are to travel in open buses from Congress president Mallikarjun Kharge's residence to the Minto Road and Connaught Place junction, from where the march to the ground is due to start at noon.
 
-```photo
-{"n":2,"subject":"Akhilesh Yadav","caption":"Samajwadi Party chief Akhilesh Yadav, outside whose residence party workers gathered on Sunday morning.","alt":"Samajwadi Party president Akhilesh Yadav"}
-```
 
 The rally's single demand is **the resignation of the CEC** over the Special Intensive Revision of electoral rolls. The BJP has called a march of its own in west Delhi on the 1984 anti-Sikh riots, due to start from Hari Nagar at 11:30 am.
