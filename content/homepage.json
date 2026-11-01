@@ -7,8 +7,8 @@
         "hi": "नई दिल्ली, रविवार"
       },
       "value": {
-        "en": "Crowds gather",
-        "hi": "भीड़ जुटी"
+        "en": "March sets off",
+        "hi": "मार्च रवाना"
       },
       "text": {
         "en": "",
@@ -44,37 +44,37 @@
         "icon": "megaphone",
         "color": "#0d0d0d",
         "value": {
-          "en": "11:30 am",
-          "hi": "सुबह 11:30"
+          "en": "Hari Nagar",
+          "hi": "हरि नगर"
         },
         "label": {
-          "en": "BJP 1984 march from Hari Nagar",
-          "hi": "हरि नगर से भाजपा का 1984 मार्च"
+          "en": "BJP 1984 counter-march",
+          "hi": "भाजपा का 1984 जवाबी मार्च"
         }
       },
       {
         "icon": "person-simple-run",
         "color": "#6e6e6e",
         "value": {
-          "en": "Noon",
-          "hi": "दोपहर 12 बजे"
+          "en": "Minto Road",
+          "hi": "मिंटो रोड"
         },
         "label": {
-          "en": "march from Minto Road, no police nod",
-          "hi": "मिंटो रोड से मार्च, पुलिस अनुमति नहीं"
+          "en": "leaders march to Ramlila Maidan",
+          "hi": "नेता रामलीला मैदान की ओर रवाना"
         }
       }
     ],
     "relatedBelow": [
-      "india-bloc-rally-venugopal-stern-warning-modi-shah",
-      "bjp-rohtak-padyatra-nabin-counter-india-bloc-rally"
+      "india-bloc-march-sets-off-warring-pratapgarhi-bjp-scared",
+      "india-bloc-rally-venugopal-stern-warning-modi-shah"
     ],
     "relatedBeside": [
-      "mahindra-record-october-suv-sales-73338-tractors-fall",
+      "gst-collections-october-2026-2-31-lakh-crore-imports",
+      "santner-wins-toss-india-bat-hamilton-bhuvneshwar-varun-return",
+      "tata-motors-october-pv-sales-75426-edges-mahindra",
       "indian-trekkers-missing-dolpa-nepal-army-search-shey-phoksundo",
-      "delhi-aqi-214-poor-sunday-morning-ncr-moderate",
-      "vande-bharat-sleeper-bengaluru-mumbai-vaishnaw-flags-off-today",
-      "modi-foundation-day-greetings-haryana-mp-kerala-cms-reply"
+      "delhi-aqi-214-poor-sunday-morning-ncr-moderate"
     ],
     "live": {
       "title": {
@@ -86,25 +86,69 @@
   "briefing": {
     "items": [
       {
-        "link": "india-bloc-rally-venugopal-stern-warning-modi-shah",
+        "link": "india-bloc-march-sets-off-warring-pratapgarhi-bjp-scared",
         "lead": {
           "en": "CEC row:",
           "hi": "सीईसी विवाद:"
         },
         "text": {
-          "en": "Venugopal calls rally a 'stern warning' to Modi and Shah.",
-          "hi": "वेणुगोपाल ने रैली को मोदी और शाह के लिए 'कड़ी चेतावनी' बताया।"
+          "en": "INDIA bloc march sets off; \"BJP is scared,\" says Pratapgarhi.",
+          "hi": "इंडिया गठबंधन का मार्च रवाना; प्रतापगढ़ी बोले, \"भाजपा डरी हुई है\"।"
         }
       },
       {
-        "link": "mahindra-record-october-suv-sales-73338-tractors-fall",
+        "link": "gst-collections-october-2026-2-31-lakh-crore-imports",
+        "lead": {
+          "en": "GST:",
+          "hi": "जीएसटी:"
+        },
+        "text": {
+          "en": "October collections jump 22.9% to ₹2.31 lakh crore.",
+          "hi": "अक्टूबर में संग्रह 22.9% बढ़कर ₹2.31 लाख करोड़।"
+        }
+      },
+      {
+        "link": "santner-wins-toss-india-bat-hamilton-bhuvneshwar-varun-return",
+        "lead": {
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
+        },
+        "text": {
+          "en": "Santner wins toss, India bat in Hamilton decider.",
+          "hi": "सैंटनर ने टॉस जीता, हैमिल्टन में भारत की बल्लेबाजी।"
+        }
+      },
+      {
+        "link": "tata-motors-october-pv-sales-75426-edges-mahindra",
         "lead": {
           "en": "Autos:",
           "hi": "ऑटो:"
         },
         "text": {
-          "en": "Mahindra sells a record 73,338 SUVs in October.",
-          "hi": "महिंद्रा ने अक्टूबर में रिकॉर्ड 73,338 एसयूवी बेचीं।"
+          "en": "Tata sells 73,894 cars at home, just ahead of Mahindra.",
+          "hi": "टाटा ने देश में 73,894 कारें बेचीं, महिंद्रा से थोड़ा आगे।"
+        }
+      },
+      {
+        "link": "tata-motors-october-cv-sales-47652-exports-triple",
+        "lead": {
+          "en": "Trucks:",
+          "hi": "ट्रक:"
+        },
+        "text": {
+          "en": "Tata truck and bus sales up 27%; exports triple.",
+          "hi": "टाटा के ट्रक और बस बिक्री 27% बढ़ी; निर्यात तिगुना।"
+        }
+      },
+      {
+        "link": "india-bloc-rally-venugopal-stern-warning-modi-shah",
+        "lead": {
+          "en": "Rally:",
+          "hi": "रैली:"
+        },
+        "text": {
+          "en": "Venugopal calls rally a \"stern warning\" to Modi and Shah.",
+          "hi": "वेणुगोपाल ने रैली को मोदी और शाह के लिए \"कड़ी चेतावनी\" बताया।"
         }
       },
       {
@@ -119,58 +163,14 @@
         }
       },
       {
-        "link": "bjp-rohtak-padyatra-nabin-counter-india-bloc-rally",
-        "lead": {
-          "en": "BJP march:",
-          "hi": "भाजपा मार्च:"
-        },
-        "text": {
-          "en": "Nabin leads Rohtak padyatra to counter INDIA bloc rally.",
-          "hi": "इंडिया गठबंधन रैली के जवाब में नबीन की रोहतक पदयात्रा।"
-        }
-      },
-      {
-        "link": "india-bloc-rally-morning-crowds-10000-security-bjp-1984-march",
-        "lead": {
-          "en": "CEC row:",
-          "hi": "सीईसी विवाद:"
-        },
-        "text": {
-          "en": "Crowds fill Ramlila Maidan; 10,000 security personnel on duty.",
-          "hi": "रामलीला मैदान में भीड़ जुटी; 10,000 सुरक्षाकर्मी तैनात।"
-        }
-      },
-      {
         "link": "delhi-aqi-214-poor-sunday-morning-ncr-moderate",
         "lead": {
           "en": "Delhi air:",
           "hi": "दिल्ली की हवा:"
         },
         "text": {
-          "en": "AQI 214, 'poor', as winter curbs begin.",
-          "hi": "एक्यूआई 214, 'खराब', सर्दी की पाबंदियां शुरू।"
-        }
-      },
-      {
-        "link": "hyundai-record-october-sales-82299-venue",
-        "lead": {
-          "en": "Hyundai:",
-          "hi": "हुंडई:"
-        },
-        "text": {
-          "en": "Record 82,299 vehicles sold in October.",
-          "hi": "अक्टूबर में रिकॉर्ड 82,299 वाहन बिके।"
-        }
-      },
-      {
-        "link": "vande-bharat-sleeper-bengaluru-mumbai-vaishnaw-flags-off-today",
-        "lead": {
-          "en": "Vande Bharat:",
-          "hi": "वंदे भारत:"
-        },
-        "text": {
-          "en": "Bengaluru-Mumbai sleeper flagged off at 12:15 pm today.",
-          "hi": "बेंगलुरु-मुंबई स्लीपर को आज दोपहर 12:15 बजे हरी झंडी।"
+          "en": "AQI 214, \"poor\", as winter curbs begin.",
+          "hi": "एक्यूआई 214, \"खराब\", सर्दी की पाबंदियां शुरू।"
         }
       }
     ]
@@ -238,22 +238,22 @@
   },
   "topStories": {
     "big": {
-      "id": "india-bloc-rally-morning-crowds-10000-security-bjp-1984-march",
+      "id": "india-bloc-march-sets-off-warring-pratapgarhi-bjp-scared",
       "also": [
-        "delhi-aqi-214-poor-sunday-morning-ncr-moderate",
-        "hyundai-record-october-sales-82299-venue"
+        "gst-collections-october-2026-2-31-lakh-crore-imports",
+        "santner-wins-toss-india-bat-hamilton-bhuvneshwar-varun-return"
       ]
     },
     "list": [
+      "tata-motors-october-pv-sales-75426-edges-mahindra",
+      "gambhir-my-job-not-to-make-everyone-happy-deep-squad",
+      "tata-motors-october-cv-sales-47652-exports-triple",
       "india-bloc-rally-venugopal-stern-warning-modi-shah",
-      "mahindra-record-october-suv-sales-73338-tractors-fall",
-      "bjp-rohtak-padyatra-nabin-counter-india-bloc-rally",
-      "indian-trekkers-missing-dolpa-nepal-army-search-shey-phoksundo",
-      "vande-bharat-sleeper-bengaluru-mumbai-vaishnaw-flags-off-today"
+      "india-bloc-rally-morning-crowds-10000-security-bjp-1984-march"
     ],
     "also": [
-      "delhi-aqi-214-poor-sunday-morning-ncr-moderate",
-      "hyundai-record-october-sales-82299-venue"
+      "gst-collections-october-2026-2-31-lakh-crore-imports",
+      "santner-wins-toss-india-bat-hamilton-bhuvneshwar-varun-return"
     ]
   },
   "startHere": [
@@ -429,16 +429,16 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "india-bloc-march-sets-off-warring-pratapgarhi-bjp-scared",
         "india-bloc-rally-venugopal-stern-warning-modi-shah",
         "bjp-rohtak-padyatra-nabin-counter-india-bloc-rally",
-        "kaul-memoir-chandrachud-pre-approval-collegium",
-        "modi-foundation-day-greetings-haryana-mp-kerala-cms-reply"
+        "kaul-memoir-chandrachud-pre-approval-collegium"
       ],
       "lead": "india-bloc-rally-morning-crowds-10000-security-bjp-1984-march"
     },
     {
       "section": "economy",
-      "lead": "mahindra-record-october-suv-sales-73338-tractors-fall",
+      "lead": "gst-collections-october-2026-2-31-lakh-crore-imports",
       "module": {
         "type": "markets",
         "indicators": [
@@ -449,10 +449,10 @@
         ]
       },
       "list": [
-        "hyundai-record-october-sales-82299-venue",
-        "sensex-nifty-week-october-30-pharma-fii-return",
-        "commercial-lpg-up-rs-10-delhi-2820-third-straight-hike",
-        "jio-platforms-lists-21-per-cent-premium-1358"
+        "tata-motors-october-pv-sales-75426-edges-mahindra",
+        "tata-motors-october-cv-sales-47652-exports-triple",
+        "mahindra-record-october-suv-sales-73338-tractors-fall",
+        "hyundai-record-october-sales-82299-venue"
       ]
     },
     {
@@ -467,9 +467,9 @@
     },
     {
       "section": "policy",
-      "lead": "vande-bharat-sleeper-bengaluru-mumbai-vaishnaw-flags-off-today",
+      "lead": "liechtenstein-prince-alois-state-visit-india-mumbai-vadodara",
       "list": [
-        "liechtenstein-prince-alois-state-visit-india-mumbai-vadodara",
+        "vande-bharat-sleeper-bengaluru-mumbai-vaishnaw-flags-off-today",
         "murmu-assent-frontier-nagaland-territorial-authority-bill",
         "goyal-rotterdam-port-capacity-fourfold-2047",
         "sonowal-busan-korea-visit-shipbuilding-indian-professionals"
@@ -508,12 +508,12 @@
     },
     {
       "section": "sports",
-      "lead": "miami-survive-north-carolina-38-35-stay-unbeaten",
+      "lead": "santner-wins-toss-india-bat-hamilton-bhuvneshwar-varun-return",
       "list": [
+        "gambhir-my-job-not-to-make-everyone-happy-deep-squad",
         "india-new-zealand-fifth-t20i-hamilton-preview",
-        "rockets-rout-thunder-119-98-jabari-smith-30",
-        "usc-stun-no-2-ohio-state-30-18-coliseum",
-        "wembanyama-43-spurs-beat-timberwolves-121-111"
+        "miami-survive-north-carolina-38-35-stay-unbeaten",
+        "rockets-rout-thunder-119-98-jabari-smith-30"
       ]
     }
   ],

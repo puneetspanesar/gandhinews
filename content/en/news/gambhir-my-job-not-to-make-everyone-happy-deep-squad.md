@@ -58,8 +58,4 @@ The depth he spoke of was on show at the toss. India left out Axar Patel and May
 
 He also praised the way the squad settled in New Zealand at short notice. India finished their previous series at home on 17 October and flew out a day later. "Obviously we had one practice session. Got to give it to the boys, the way they adapted to the conditions," he said, adding that many of them were in the country **for the first time**.
 
-```photo
-{"n":2,"subject":"Kuldeep Yadav","caption":"Spinner Kuldeep Yadav, who was not in India's XI on Sunday as the side picked from a crowded squad.","alt":"India spinner Kuldeep Yadav"}
-```
-
 With India already 3-1 up, Gambhir would not treat the last match as a formality. "I think there are **no dead rubbers in my philosophy**, in my ideology, and exactly the same is in the room as well," he said. "When you're playing for your country, there is no complacency."

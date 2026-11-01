@@ -66,7 +66,7 @@ Refunds to businesses rose a modest 6.5% to ₹27,934 crore. That left **net GST
 Maharashtra remained far ahead of the rest, with **₹35,150 crore, up 13%**. Karnataka collected ₹15,922 crore (up 18%), Gujarat ₹13,516 crore (up 16%) and Haryana ₹11,529 crore (up 17%). Uttar Pradesh and Bihar each grew 24%. The sharpest rise among the states named was in Assam, where collections climbed **47% to ₹1,934 crore**.
 
 ```photo
-{"n":2,"subject":"Janata Bhawan Dispur","caption":"Janata Bhawan, the Assam secretariat in Dispur. Assam's GST collections grew 47% in October, among the fastest of any state.","alt":"The Assam secretariat building at Dispur"}
+{"n":2,"subject":"Assam Legislative Assembly, Dispur","caption":"The Assam Legislative Assembly complex in Dispur. Assam's GST collections grew 47% in October, among the fastest of any state.","alt":"The Assam Legislative Assembly complex in Dispur"}
 ```
 
 ## The year so far

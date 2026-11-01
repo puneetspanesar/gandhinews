@@ -61,10 +61,6 @@ Shreyas Iyer said India would have batted anyway. "We were looking to bat, wante
 
 He also had warm words for the returning Bhuvneshwar. "He's been waiting for his opportunity and even in the huddle he **gave a beautiful speech today**," Iyer said.
 
-```photo
-{"n":2,"subject":"Varun Chakravarthy","caption":"Spinner Varun Chakravarthy, who returned to India's side for the last match of the series.","alt":"India spinner Varun Chakravarthy"}
-```
-
 ## The teams
 
 **New Zealand:** Tim Seifert (wk), Finn Allen, Daryl Mitchell, Glenn Phillips, Bevon Jacobs, Michael Bracewell, Mitchell Santner (capt), Nathan Smith, Adam Milne, Jacob Duffy, Blair Tickner.

@@ -2,7 +2,7 @@
   "id": "economy-dashboard",
   "title": "भारत की अर्थव्यवस्था का डैशबोर्ड",
   "as_of": "2026-10-11",
-  "updated": "2026-10-24T05:20:00+05:30",
+  "updated": "2026-11-01T13:25:00+05:30",
   "notes": "हर आंकड़ा अपनी पंक्ति में बताए गए स्रोत से लिया गया है। verified_primary सिर्फ तब true है जब आंकड़ा किसी प्राथमिक विज्ञप्ति (आरबीआई, सांख्यिकी मंत्रालय, पीआईबी, वित्त मंत्रालय) में पढ़ा गया हो। जिन आंकड़ों को रिसर्च डेस्क ने गणना से निकाला गया (व्युत्पन्न) बताया, वे शामिल नहीं हैं।",
   "indicators": [
     {
@@ -362,15 +362,15 @@
     {
       "id": "gst-gross",
       "name": "सकल जीएसटी संग्रह",
-      "latest_value": 2.04,
+      "latest_value": 2.31,
       "unit": "₹ लाख करोड़",
-      "period": "सितंबर 2026 (अनंतिम)",
-      "release_date": "2026-10-01",
+      "period": "अक्टूबर 2026 (अनंतिम)",
+      "release_date": "2026-11-01",
       "change_vs_previous": {
         "basis": "एक साल पहले का यही महीना",
-        "previous_value": 1.77,
-        "previous_period": "सितंबर 2025",
-        "change_pct": 14.7
+        "previous_value": 1.88,
+        "previous_period": "अक्टूबर 2025",
+        "change_pct": 22.9
       },
       "history": [
         {
@@ -395,12 +395,16 @@
         {
           "period": "सितंबर 2026",
           "value": 2.04
+        },
+        {
+          "period": "अक्टूबर 2026",
+          "value": 2.3129
         }
       ],
       "source": {
         "publisher": "Business Today",
-        "url": "https://businesstoday.in/latest/economy/story/september-gst-collections-rise-14-7-to-rs2-04-lakh-crore-558985-2026-10-01",
-        "date": "2026-10-01"
+        "url": "https://www.businesstoday.in/india/story/gross-gst-collections-hit-rs2-31-lakh-crore-in-october-marks-22-9-yoy-rise-on-robust-domestic-growth-564976-2026-11-01",
+        "date": "2026-11-01"
       },
       "history_sources": [
         {
