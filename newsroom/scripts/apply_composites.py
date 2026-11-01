@@ -7,8 +7,16 @@ raw = sys.argv[1]
 FOCUS = json.load(open(sys.argv[2])) if len(sys.argv) > 2 else {}
 os.chdir('/home/claude/gandhinews')
 P = json.load(open('content/photos.json')); M = json.load(open('content/photos.map.json'))
+def pid_of(a):
+    return 'v-' + (a[:60] if '--p' not in a else a.rsplit('--p', 1)[0][:55] + '-p' + a.rsplit('--p', 1)[1])
+def entry(p, pid):
+    return {'id': pid, 'src': f'/photos/{pid}-1280.jpg', 'src800': f'/photos/{pid}-640.jpg', 'width': 1280, 'height': 960,
+            'credit': p['credit'], 'licence': p['licence'], 'alt': p['alt'], 'alt_hi': p.get('alt_hi'), 'page': None}
 for p in P:
     if not p.get('composite'): continue
+    # Self-heal: a picture already built whose map entry was lost (e.g. overwritten by a parallel run) is re-added.
+    if p['articleId'] not in M and os.path.exists(f"public/photos/{pid_of(p['articleId'])}-1280.jpg"):
+        M[p['articleId']] = entry(p, pid_of(p['articleId'])); print('re-added', p['articleId'])
     parts = [f"{raw}/{i}.jpg" for i in p['composite']]
     if not all(os.path.exists(x) for x in parts): print('missing parts', p['articleId']); continue
     try:

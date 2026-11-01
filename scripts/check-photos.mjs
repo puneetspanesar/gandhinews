@@ -17,4 +17,16 @@ if (dups.length) {
   for (const [id, a] of dups) console.error(`  ${id}: ${a.join(', ')}`);
   process.exit(1);
 }
-console.log(`OK: ${Object.keys(map).length} stories, every photo unique.`);
+// Every published story, explainer and editorial must have its main picture in the map.
+const noPic = [];
+for (const t of ['news', 'explainer', 'editorial']) {
+  const dir = `content/en/${t}`;
+  if (!fs.existsSync(dir)) continue;
+  for (const f of fs.readdirSync(dir)) if (f.endsWith('.md') && !map[f.slice(0, -3)]) noPic.push(f.slice(0, -3));
+}
+if (noPic.length) {
+  console.error(`${noPic.length} stories have no main picture in content/photos.map.json:`);
+  for (const s of noPic) console.error(`  ${s}`);
+  process.exit(1);
+}
+console.log(`OK: ${Object.keys(map).length} pictures, every photo unique, every story has its main picture.`);
