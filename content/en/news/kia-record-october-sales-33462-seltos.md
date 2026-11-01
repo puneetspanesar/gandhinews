@@ -45,7 +45,9 @@ Kia India sold **33,462 vehicles in October**, the most it has ever dispatched t
 
 It is the carmaker's **second record month in a row**. September's 32,017 units had been the previous high, and October beat it by a further 1,445 cars as festive buying ran on after Dussehra.
 
-```photo {"n":1,"subject":"Kia Sonet","caption":"The Sonet compact SUV is, with the Seltos, one of the two models carrying most of Kia's volume in India.","alt":"A Kia Sonet compact SUV"}```
+```photo
+{"n":1,"subject":"Kia Sonet","caption":"The Sonet compact SUV is, with the Seltos, one of the two models carrying most of Kia's volume in India.","alt":"A Kia Sonet compact SUV"}
+```
 
 ## The Seltos does the heavy lifting
 
@@ -53,7 +55,9 @@ The new-generation Seltos, launched in January, **sold more than 13,000 units**,
 
 Cleaner fuels are also adding up. CNG versions of the Carens and Carens Clavis people movers made up **nearly a tenth of October sales**, and Kia said its electric cars had their best month yet, with volumes up 31% on September on the back of the Syros EV and the Carens Clavis EV.
 
-```photo {"n":2,"subject":"Kia Syros","caption":"The Syros, whose electric version helped Kia to its best month for EV sales in India.","alt":"A Kia Syros SUV"}```
+```photo
+{"n":2,"subject":"Kia Syros","caption":"The Syros, whose electric version helped Kia to its best month for EV sales in India.","alt":"A Kia Syros SUV"}
+```
 
 Atul Sood, senior vice-president for sales and marketing at Kia India, put the record down to festive demand, the pull of the company's established models and the response to newer ones. He singled out interest in the Sorento, which is offered with hybrid and diesel engines, along with the growing share of CNG and electric cars.
 
@@ -61,6 +65,8 @@ Atul Sood, senior vice-president for sales and marketing at Kia India, put the r
 
 From January to October, Kia sold **2,86,470 vehicles**, up 21.3% on the same months of 2025. That is already 6,184 more than the 2,80,286 it sold in the whole of last year, with two months still to go.
 
-```photo {"n":3,"subject":"Kia Motors Anantapur plant","caption":"Kia's factory at Penukonda in Anantapur district, Andhra Pradesh, where its India cars are built.","alt":"Kia's car plant in Anantapur, Andhra Pradesh"}```
+```photo
+{"n":3,"subject":"Kia Motors Anantapur plant","caption":"Kia's factory at Penukonda in Anantapur district, Andhra Pradesh, where its India cars are built.","alt":"Kia's car plant in Anantapur, Andhra Pradesh"}
+```
 
 The numbers come on a day when Hyundai, Maruti Suzuki and Mahindra also reported record October numbers, as festive demand kept showrooms busy across the industry.

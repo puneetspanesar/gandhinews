@@ -40,7 +40,9 @@ JSW MG Motor India sold **8,013 vehicles in October**, 19% more than in the same
 
 The rise came in a festive month in which several carmakers posted their best numbers on record. MG works from a much smaller base than the market leaders, but its growth kept pace with several of them.
 
-```photo {"n":1,"subject":"MG Hector","caption":"The Hector SUV, whose new electric sibling, the Hector Tomahawk EV, reached its first customers in October.","alt":"An MG Hector SUV"}```
+```photo
+{"n":1,"subject":"MG Hector","caption":"The Hector SUV, whose new electric sibling, the Hector Tomahawk EV, reached its first customers in October.","alt":"An MG Hector SUV"}
+```
 
 ## New electric models
 
@@ -48,7 +50,9 @@ October was the month **deliveries of the Hector Tomahawk EV began**, adding a l
 
 The company also brought out a special edition of that car. The **Windsor Indulge Edition** is priced at ₹17.99 lakh, ex-showroom, giving MG's best-known electric model a fresh variant for the festive season.
 
-```photo {"n":2,"subject":"MG Motor India Halol plant","caption":"MG's factory at Halol in Gujarat, where the company builds its cars for India.","alt":"The MG Motor car plant at Halol, Gujarat"}```
+```photo
+{"n":2,"subject":"MG Motor India Halol plant","caption":"MG's factory at Halol in Gujarat, where the company builds its cars for India.","alt":"The MG Motor car plant at Halol, Gujarat"}
+```
 
 The company did not give a breakdown between petrol, diesel and electric sales for the month.
 

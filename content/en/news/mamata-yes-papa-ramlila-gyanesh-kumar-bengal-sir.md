@@ -52,7 +52,9 @@ Mamata Banerjee brought a nursery rhyme to Ramlila Maidan on Sunday afternoon. A
 
 "Vote-chori yes papa, loktantra chori yes papa," she said, casting the CEC as the obedient child of the ruling party. Vote theft and the theft of democracy, she said, were being carried out with the BJP's blessing.
 
-```photo {"n":1,"subject":"Gyanesh Kumar","caption":"Chief Election Commissioner Gyanesh Kumar, whose removal the INDIA bloc demanded from the Ramlila Maidan stage.","alt":"Chief Election Commissioner Gyanesh Kumar"}```
+```photo
+{"n":1,"subject":"Gyanesh Kumar","caption":"Chief Election Commissioner Gyanesh Kumar, whose removal the INDIA bloc demanded from the Ramlila Maidan stage.","alt":"Chief Election Commissioner Gyanesh Kumar"}
+```
 
 ## 'Bengal is suffering'
 
@@ -62,7 +64,9 @@ She also accused the BJP of **lacking an organisation of its own** and leaning o
 
 The fight, she said, would be answered politically and through democratic means.
 
-```photo {"n":2,"subject":"Sonia Gandhi","caption":"Congress leader Sonia Gandhi, whom Mamata Banerjee hailed as 'leader' in her speech.","alt":"Congress leader Sonia Gandhi"}```
+```photo
+{"n":2,"subject":"Sonia Gandhi","caption":"Congress leader Sonia Gandhi, whom Mamata Banerjee hailed as 'leader' in her speech.","alt":"Congress leader Sonia Gandhi"}
+```
 
 In a gesture to her Congress allies, Banerjee **hailed Sonia Gandhi as "leader"** and Rahul Gandhi as the "young leader". Relations between the Trinamool and the Congress have often been strained, and her presence on the stage was one of the day's clearer signals of opposition unity.
 
