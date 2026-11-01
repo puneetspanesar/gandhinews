@@ -1,7 +1,7 @@
 {
   "id": "election-calendar",
   "title": "चुनाव कैलेंडर, अक्टूबर 2026 से दिसंबर 2027",
-  "updated": "2026-10-11T15:00:00+05:30",
+  "updated": "2026-11-01T07:00:00+05:30",
   "coverage": "1 अक्टूबर 2026 से 31 दिसंबर 2027 के बीच हुए, घोषित या संभावित लोकसभा और विधानसभा उपचुनाव, राज्यसभा चुनाव, राज्य विधानसभाओं के आम चुनाव और राष्ट्रपति चुनाव। सिर्फ वही चुनाव शामिल हैं जिनकी पुष्टि कम से कम एक प्रतिष्ठित स्रोत में हुई है।",
   "status_values": [
     "announced",
@@ -179,6 +179,25 @@
       "state_hi": "पश्चिम बंगाल",
       "house_hi": "राज्यसभा",
       "status_hi": "हो चुका"
+    },
+    {
+      "id": "rajya-sabha-madhya-pradesh-bypoll-2026",
+      "name": "राज्यसभा उपचुनाव, मध्य प्रदेश",
+      "state": "Madhya Pradesh",
+      "house": "Rajya Sabha",
+      "seats": 1,
+      "date": "2026-11-12",
+      "counting_date": "2026-11-12",
+      "expected_window": null,
+      "status": "announced",
+      "term_end": "2030-04-02",
+      "result": null,
+      "source_url": "https://www.etvbharat.com/en/bharat/election-commission-announces-bypoll-for-rajya-sabha-seat-in-madhya-pradesh-voting-on-november-12-enn26102202451",
+      "source_publisher": "ETV Bharat, citing the Election Commission schedule",
+      "notes": "सीट एल. मुरुगन के 14 अक्टूबर 2026 को राज्यसभा और केंद्रीय मंत्रिपरिषद से इस्तीफे से खाली हुई; term_end उनके कार्यकाल का अंत है, जिसकी बाकी अवधि विजेता पूरी करेगा। कार्यक्रम (ईसीआई, 22 अक्टूबर को घोषित): अधिसूचना 26 अक्टूबर, नामांकन की आखिरी तारीख 2 नवंबर, जांच 3 नवंबर, नाम वापसी 5 नवंबर तक, मुकाबला होने पर मतदान 12 नवंबर (सुबह 9 से शाम 4 बजे), उसी दिन शाम 5 बजे से मतगणना, पूरी प्रक्रिया 16 नवंबर तक। भाजपा ने 28 अक्टूबर को केंद्रीय पेट्रोलियम मंत्री हरदीप सिंह पुरी को उम्मीदवार बनाया (आउटलुक, https://www.outlookindia.com/national/after-up-omission-bjp-fields-hardeep-puri-for-madhya-pradesh-rajya-sabha-seat)। आउटलुक ने मतगणना की तारीख 16 नवंबर बताई; ईटीवी भारत के अनुसार ईसीआई कार्यक्रम में मतगणना 12 नवंबर को है और 16 नवंबर प्रक्रिया पूरी होने की तारीख है। पुरी निर्विरोध चुने जाएंगे या नहीं, यह 2 नवंबर को नामांकन बंद होने पर तय होगा।",
+      "state_hi": "मध्य प्रदेश",
+      "house_hi": "राज्यसभा",
+      "status_hi": "घोषित"
     },
     {
       "id": "manipur-assembly-2027",

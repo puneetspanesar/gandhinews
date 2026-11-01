@@ -1,7 +1,7 @@
 {
   "id": "election-calendar",
   "title": "Election calendar, October 2026 to December 2027",
-  "updated": "2026-10-11T15:00:00+05:30",
+  "updated": "2026-11-01T07:00:00+05:30",
   "coverage": "Lok Sabha and assembly bypolls, Rajya Sabha elections, state assembly general elections and the presidential election held, announced or expected between 1 October 2026 and 31 December 2027. Only items confirmed in at least one reputable source are listed.",
   "status_values": [
     "announced",
@@ -152,6 +152,22 @@
       "source_url": "https://www.thehansindia.com/news/national/bjp-wins-eight-sp-two-of-ups-10-rajya-sabha-seats-unopposed-1130701",
       "source_publisher": "The Hans India (IANS)",
       "notes": "Result confirmed by IANS (Hans India) and DD News (9 Oct 2026, https://ddindia.co.in/2026/10/bjp-wins-eight-sp-two-of-ups-10-rajya-sabha-seats-unopposed/). Vacancy caused by Mallick's own resignation on 16 Jul 2026 as a TMC member (IANS). Poll had been scheduled for 16 October."
+    },
+    {
+      "id": "rajya-sabha-madhya-pradesh-bypoll-2026",
+      "name": "Rajya Sabha bypoll, Madhya Pradesh",
+      "state": "Madhya Pradesh",
+      "house": "Rajya Sabha",
+      "seats": 1,
+      "date": "2026-11-12",
+      "counting_date": "2026-11-12",
+      "expected_window": null,
+      "status": "announced",
+      "term_end": "2030-04-02",
+      "result": null,
+      "source_url": "https://www.etvbharat.com/en/bharat/election-commission-announces-bypoll-for-rajya-sabha-seat-in-madhya-pradesh-voting-on-november-12-enn26102202451",
+      "source_publisher": "ETV Bharat, citing the Election Commission schedule",
+      "notes": "Seat vacated by L. Murugan, who resigned from the Rajya Sabha and the Union Council of Ministers on 14 Oct 2026; term_end is the end of his term, which the winner serves out. Schedule (ECI, announced 22 Oct): notification 26 Oct, last date for nominations 2 Nov, scrutiny 3 Nov, withdrawal by 5 Nov, poll 12 Nov (9 am to 4 pm) if contested, counting from 5 pm the same day, process to be completed by 16 Nov. BJP named Union Petroleum Minister Hardeep Singh Puri as its candidate on 28 Oct (Outlook, https://www.outlookindia.com/national/after-up-omission-bjp-fields-hardeep-puri-for-madhya-pradesh-rajya-sabha-seat). Outlook gave 16 Nov as the counting date; ETV Bharat's account of the ECI schedule says counting is on 12 Nov and 16 Nov is the completion date. Whether Puri is elected unopposed depends on nominations closing 2 Nov."
     },
     {
       "id": "manipur-assembly-2027",
