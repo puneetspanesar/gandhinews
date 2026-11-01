@@ -70,11 +70,11 @@
       "sambit-patra-illegal-lop-rahul-gandhi-ramlila-rally-flop"
     ],
     "relatedBeside": [
-      "gst-retail-e-invoicing-pilot-april-2027-b2c",
-      "lakshya-sen-hylo-open-title-indian-double-saarbrucken",
-      "harmanpreet-hat-trick-india-beat-malaysia-asian-champions-trophy",
-      "fc-goa-beat-inter-kashi-isl-pune-gouramangi-red",
-      "mb-patil-rejects-kumaraswamy-honda-exit-claim-narasapura"
+      "us-midterms-stevens-backs-rogers-alaska-sullivan-suit-dismissed",
+      "markets-week-ahead-us-midterms-itc-sbi-results-november-2",
+      "liverpool-0-1-arsenal-havertz-alisson-error-anfield",
+      "modi-inaugurate-bharat-renewable-energy-summit-bharat-mandapam-preview",
+      "gst-retail-e-invoicing-pilot-april-2027-b2c"
     ],
     "live": {
       "title": {
@@ -85,6 +85,72 @@
   },
   "briefing": {
     "items": [
+      {
+        "link": "naidu-cyclone-murasu-review-cancels-delhi-visit",
+        "lead": {
+          "en": "Cyclone:",
+          "hi": "चक्रवात:"
+        },
+        "text": {
+          "en": "Naidu cancels Delhi trip as Cyclone Murasu nears the Andhra coast.",
+          "hi": "चक्रवात मुरासु के करीब आते ही नायडू ने दिल्ली दौरा रद्द किया।"
+        }
+      },
+      {
+        "link": "liverpool-0-1-arsenal-havertz-alisson-error-anfield",
+        "lead": {
+          "en": "Football:",
+          "hi": "फुटबॉल:"
+        },
+        "text": {
+          "en": "Havertz goal gives Arsenal first win at Anfield in 14 attempts.",
+          "hi": "हैवर्ट्ज़ के गोल से आर्सेनल की 14 कोशिशों में एनफील्ड पर पहली जीत।"
+        }
+      },
+      {
+        "link": "us-midterms-stevens-backs-rogers-alaska-sullivan-suit-dismissed",
+        "lead": {
+          "en": "US vote:",
+          "hi": "अमेरिकी चुनाव:"
+        },
+        "text": {
+          "en": "Haley Stevens backs Republican Rogers; Alaska suit thrown out.",
+          "hi": "हेली स्टीवंस ने रिपब्लिकन रॉजर्स का समर्थन किया; अलास्का मुकदमा खारिज।"
+        }
+      },
+      {
+        "link": "modi-inaugurate-bharat-renewable-energy-summit-bharat-mandapam-preview",
+        "lead": {
+          "en": "Energy:",
+          "hi": "ऊर्जा:"
+        },
+        "text": {
+          "en": "Modi opens the renewable energy summit at Bharat Mandapam today.",
+          "hi": "मोदी आज भारत मंडपम में नवीकरणीय ऊर्जा सम्मेलन का उद्घाटन करेंगे।"
+        }
+      },
+      {
+        "link": "markets-week-ahead-us-midterms-itc-sbi-results-november-2",
+        "lead": {
+          "en": "Markets:",
+          "hi": "बाज़ार:"
+        },
+        "text": {
+          "en": "ITC, SBI, Airtel results and US midterms set the week's tone.",
+          "hi": "आईटीसी, एसबीआई, एयरटेल के नतीजे और अमेरिकी चुनाव तय करेंगे हफ़्ते का रुख।"
+        }
+      },
+      {
+        "link": "mexico-grand-prix-preview-antonelli-ninth-title-hamilton-pole",
+        "lead": {
+          "en": "F1:",
+          "hi": "एफ1:"
+        },
+        "text": {
+          "en": "Antonelli needs ninth in Mexico to clinch the world title.",
+          "hi": "मेक्सिको में नौवां स्थान पाकर एंटोनेली बन सकते हैं विश्व चैंपियन।"
+        }
+      },
       {
         "link": "gst-retail-e-invoicing-pilot-april-2027-b2c",
         "lead": {
@@ -105,72 +171,6 @@
         "text": {
           "en": "Beats Christie for Hylo Open title, an Indian double.",
           "hi": "क्रिस्टी को हराकर हायलो ओपन खिताब, भारत का दोहरा जश्न।"
-        }
-      },
-      {
-        "link": "harmanpreet-hat-trick-india-beat-malaysia-asian-champions-trophy",
-        "lead": {
-          "en": "Hockey:",
-          "hi": "हॉकी:"
-        },
-        "text": {
-          "en": "Harmanpreet hat-trick as India beat Malaysia 4-2.",
-          "hi": "हरमनप्रीत की हैट्रिक, भारत ने मलेशिया को 4-2 से हराया।"
-        }
-      },
-      {
-        "link": "fc-goa-beat-inter-kashi-isl-pune-gouramangi-red",
-        "lead": {
-          "en": "ISL:",
-          "hi": "आईएसएल:"
-        },
-        "text": {
-          "en": "FC Goa beat Inter Kashi 2-1 for first win.",
-          "hi": "एफसी गोवा ने इंटर काशी को 2-1 से हराकर पहली जीत दर्ज की।"
-        }
-      },
-      {
-        "link": "mb-patil-rejects-kumaraswamy-honda-exit-claim-narasapura",
-        "lead": {
-          "en": "M B Patil:",
-          "hi": "एम बी पाटिल:"
-        },
-        "text": {
-          "en": "Kumaraswamy's Honda exit claim is \"baseless\".",
-          "hi": "कुमारस्वामी का होंडा के जाने का दावा \"निराधार\"।"
-        }
-      },
-      {
-        "link": "shinde-murder-cases-lenders-farmer-suicides-nanded",
-        "lead": {
-          "en": "Shinde:",
-          "hi": "शिंदे:"
-        },
-        "text": {
-          "en": "Murder cases for lenders if harassed farmers die.",
-          "hi": "परेशान किसानों की मौत पर साहूकारों पर हत्या के मामले।"
-        }
-      },
-      {
-        "link": "nepal-dolpa-indian-trekkers-located-helicopter-turned-back-rescue-monday",
-        "lead": {
-          "en": "Dolpa:",
-          "hi": "डोल्पा:"
-        },
-        "text": {
-          "en": "Six Indian trekkers located; rescue moves to Monday.",
-          "hi": "छह भारतीय ट्रेकर्स का पता चला; बचाव सोमवार को।"
-        }
-      },
-      {
-        "link": "honda-cars-october-sales-8082-exports-fall-88-per-cent",
-        "lead": {
-          "en": "Honda Cars:",
-          "hi": "होंडा कार्स:"
-        },
-        "text": {
-          "en": "October sales down 23% as exports collapse.",
-          "hi": "निर्यात गिरने से अक्टूबर बिक्री 23% घटी।"
         }
       }
     ]
@@ -238,22 +238,18 @@
   },
   "topStories": {
     "big": {
-      "id": "gst-retail-e-invoicing-pilot-april-2027-b2c",
+      "id": "naidu-cyclone-murasu-review-cancels-delhi-visit",
       "also": [
-        "lakshya-sen-hylo-open-title-indian-double-saarbrucken",
-        "harmanpreet-hat-trick-india-beat-malaysia-asian-champions-trophy"
+        "us-midterms-stevens-backs-rogers-alaska-sullivan-suit-dismissed",
+        "liverpool-0-1-arsenal-havertz-alisson-error-anfield"
       ]
     },
     "list": [
-      "mb-patil-rejects-kumaraswamy-honda-exit-claim-narasapura",
-      "shinde-murder-cases-lenders-farmer-suicides-nanded",
-      "nepal-dolpa-indian-trekkers-located-helicopter-turned-back-rescue-monday",
-      "honda-cars-october-sales-8082-exports-fall-88-per-cent",
-      "meghwal-cec-offered-meet-protesters-no-list-kochi-bihar-nda"
-    ],
-    "also": [
-      "lakshya-sen-hylo-open-title-indian-double-saarbrucken",
-      "harmanpreet-hat-trick-india-beat-malaysia-asian-champions-trophy"
+      "modi-inaugurate-bharat-renewable-energy-summit-bharat-mandapam-preview",
+      "markets-week-ahead-us-midterms-itc-sbi-results-november-2",
+      "mexico-grand-prix-preview-antonelli-ninth-title-hamilton-pole",
+      "gst-retail-e-invoicing-pilot-april-2027-b2c",
+      "lakshya-sen-hylo-open-title-indian-double-saarbrucken"
     ]
   },
   "startHere": [
@@ -438,7 +434,7 @@
     },
     {
       "section": "economy",
-      "lead": "electric-two-wheeler-registrations-october-2026-tvs-leads-48-per-cent",
+      "lead": "markets-week-ahead-us-midterms-itc-sbi-results-november-2",
       "module": {
         "type": "markets",
         "indicators": [
@@ -449,30 +445,30 @@
         ]
       },
       "list": [
+        "electric-two-wheeler-registrations-october-2026-tvs-leads-48-per-cent",
         "gst-retail-e-invoicing-pilot-april-2027-b2c",
         "honda-cars-october-sales-8082-exports-fall-88-per-cent",
-        "hero-motocorp-october-sales-734403-scooters-61-per-cent",
-        "royal-enfield-october-sales-133442-exports-47-per-cent"
+        "hero-motocorp-october-sales-734403-scooters-61-per-cent"
       ]
     },
     {
       "section": "states",
-      "lead": "deepender-hooda-barricades-pilot-rally-goers-stopped",
+      "lead": "naidu-cyclone-murasu-review-cancels-delhi-visit",
       "list": [
+        "deepender-hooda-barricades-pilot-rally-goers-stopped",
         "shinde-murder-cases-lenders-farmer-suicides-nanded",
         "delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023",
-        "majhi-appointment-letters-2067-tribal-language-teachers",
-        "yogi-gorakhpur-gordhoiya-drain-sp-mafia-jibe"
+        "majhi-appointment-letters-2067-tribal-language-teachers"
       ]
     },
     {
       "section": "policy",
       "lead": "liechtenstein-prince-alois-state-visit-india-mumbai-vadodara",
       "list": [
+        "modi-inaugurate-bharat-renewable-energy-summit-bharat-mandapam-preview",
         "vande-bharat-sleeper-bengaluru-mumbai-vaishnaw-flags-off-today",
         "murmu-assent-frontier-nagaland-territorial-authority-bill",
-        "goyal-rotterdam-port-capacity-fourfold-2047",
-        "sonowal-busan-korea-visit-shipbuilding-indian-professionals"
+        "goyal-rotterdam-port-capacity-fourfold-2047"
       ]
     },
     {
@@ -490,11 +486,11 @@
   "desks": [
     {
       "section": "world",
-      "lead": "iran-war-footing-jalali-power-grid-islanding-treasury-oil",
+      "lead": "us-midterms-stevens-backs-rogers-alaska-sullivan-suit-dismissed",
       "list": [
+        "iran-war-footing-jalali-power-grid-islanding-treasury-oil",
         "nepal-dolpa-indian-trekkers-located-helicopter-turned-back-rescue-monday",
-        "iran-designates-royal-navy-raf-terrorist-mi6-hostile",
-        "indian-trekkers-missing-dolpa-nepal-army-search-shey-phoksundo"
+        "iran-designates-royal-navy-raf-terrorist-mi6-hostile"
       ]
     },
     {
@@ -508,12 +504,12 @@
     },
     {
       "section": "sports",
-      "lead": "lakshya-sen-hylo-open-title-indian-double-saarbrucken",
+      "lead": "liverpool-0-1-arsenal-havertz-alisson-error-anfield",
       "list": [
+        "mexico-grand-prix-preview-antonelli-ninth-title-hamilton-pole",
+        "lakshya-sen-hylo-open-title-indian-double-saarbrucken",
         "harmanpreet-hat-trick-india-beat-malaysia-asian-champions-trophy",
-        "fc-goa-beat-inter-kashi-isl-pune-gouramangi-red",
-        "seifert-93-new-zealand-beat-india-seven-wickets-hamilton-series-3-2",
-        "milne-four-wickets-india-191-new-zealand-chase-hamilton"
+        "fc-goa-beat-inter-kashi-isl-pune-gouramangi-red"
       ]
     }
   ],
