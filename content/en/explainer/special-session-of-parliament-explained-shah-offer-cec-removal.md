@@ -106,10 +106,6 @@ The President acts on the advice of the Council of Ministers. In practice, then,
 
 That means a notice signed by **at least 100 Lok Sabha or 50 Rajya Sabha members**. The Speaker or the Chairman may admit or refuse it. If admitted, a three-member committee of a Supreme Court judge, a High Court Chief Justice and a distinguished jurist examines the charges under the Judges (Inquiry) Act, 1968, and the CEC can defend himself. Only if the committee finds proved misbehaviour or incapacity does the motion go to a vote. It must then pass in both Houses in the same session by a majority of total membership and **two-thirds of members present and voting**, after which the President orders the removal.
 
-```photo
-{"n":2,"subject":"V. Ramaswami","caption":"Justice V Ramaswami, the Supreme Court judge whose removal motion failed in the Lok Sabha in 1993, the closest India has come to removing a judge of that court.","alt":"Former Supreme Court judge V Ramaswami"}
-```
-
 ## Has this ever worked?
 
 **Never for a CEC, and never fully for a judge.** The 1993 motion against Justice V Ramaswami failed to win the two-thirds majority in the Lok Sabha. In 2011 the Rajya Sabha passed a motion against Calcutta High Court judge Soumitra Sen, who then resigned. The opposition's own record this year is no better: notices against Gyanesh Kumar signed by **193 MPs in March were refused** by Speaker Om Birla and Chairman C P Radhakrishnan on 6 April, and a second notice signed by 73 Rajya Sabha members in April is still pending.
