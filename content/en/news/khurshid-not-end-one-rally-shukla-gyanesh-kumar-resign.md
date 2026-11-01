@@ -48,17 +48,9 @@ The INDIA bloc's rally at Ramlila Maidan is **the opening of a longer fight**, s
 
 "Our grievance is that **the names of fellow citizens have been excluded**," Khurshid said. "We do not want a single Indian to be left out." He added: "It is the people of India who decide who becomes Prime Minister."
 
-```photo
-{"n":1,"subject":"Gyanesh Kumar","caption":"Chief Election Commissioner Gyanesh Kumar, whose resignation the INDIA bloc is demanding.","alt":"Chief Election Commissioner Gyanesh Kumar"}
-```
-
 Congress Rajya Sabha MP **Rajeev Shukla aimed directly at the CEC**. "This Gyanesh Kumar has to answer: why is he not resigning? The public has lost faith in him," he said on the sidelines of the rally. "People believe that he is not an impartial Election Commissioner."
 
 There was no immediate response from the Election Commission to the remarks.
-
-```photo
-{"n":2,"subject":"K. C. Venugopal","caption":"Congress general secretary K C Venugopal, who said people had come from every corner of the country for the rally.","alt":"Congress general secretary K C Venugopal"}
-```
 
 Congress general secretary K C Venugopal said the turnout had gone beyond the ground itself. "Not only Ramlila Maidan, but **the entire Delhi is flooded with people**," he said. "People have come from every corner to stand united and send a resounding message."
 

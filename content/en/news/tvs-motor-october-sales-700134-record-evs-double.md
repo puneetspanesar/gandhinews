@@ -47,10 +47,6 @@ TVS Motor Company **sold 7,00,134 vehicles in October**, 29% more than the 5,43,
 
 Two-wheelers made up the bulk of the total at **6,70,679 units, up 28%**. Within that, domestic two-wheeler sales rose 22% to 5,14,764, a sharp step up from the 4,21,631 the company sold in Indian showrooms a year ago.
 
-```photo
-{"n":1,"subject":"TVS iQube","caption":"The TVS iQube electric scooter, part of the company's electric range, whose sales more than doubled in October.","alt":"A TVS iQube electric scooter"}
-```
-
 ## Electric and export growth
 
 The fastest growth came from electric vehicles. TVS **sold 71,382 electric vehicles**, up 120% from 32,387 last October, making EVs roughly one in ten of everything it sold in the month.

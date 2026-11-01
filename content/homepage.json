@@ -66,15 +66,15 @@
       }
     ],
     "relatedBelow": [
-      "india-bloc-rally-vehicles-stuck-sarhaul-raut-buses-trains-held",
-      "india-bloc-rally-morning-crowds-10000-security-bjp-1984-march"
+      "nadda-anarchy-model-india-bloc-rally-sood-chaos",
+      "khurshid-not-end-one-rally-shukla-gyanesh-kumar-resign"
     ],
     "relatedBeside": [
-      "maruti-suzuki-record-october-sales-276120",
-      "kishan-61-calendar-year-record-iyer-fifty-hamilton",
-      "gst-collections-october-2026-2-31-lakh-crore-imports",
-      "santner-wins-toss-india-bat-hamilton-bhuvneshwar-varun-return",
-      "tata-motors-october-pv-sales-75426-edges-mahindra"
+      "milne-four-wickets-india-191-new-zealand-chase-hamilton",
+      "tvs-motor-october-sales-700134-record-evs-double",
+      "sibal-rally-more-trade-vote-chori-dasmunsi-message",
+      "deepender-hooda-barricades-pilot-rally-goers-stopped",
+      "kishan-61-calendar-year-record-iyer-fifty-hamilton"
     ],
     "live": {
       "title": {
@@ -86,6 +86,50 @@
   "briefing": {
     "items": [
       {
+        "link": "milne-four-wickets-india-191-new-zealand-chase-hamilton",
+        "lead": {
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
+        },
+        "text": {
+          "en": "Milne's 4 for 19 holds India to 191 in Hamilton.",
+          "hi": "मिल्ने के 19 रन पर 4 विकेट, भारत 191 पर रुका।"
+        }
+      },
+      {
+        "link": "tvs-motor-october-sales-700134-record-evs-double",
+        "lead": {
+          "en": "TVS:",
+          "hi": "टीवीएस:"
+        },
+        "text": {
+          "en": "7 lakh vehicles sold in October; EV sales more than double.",
+          "hi": "अक्टूबर में 7 लाख वाहन बिके; ईवी बिक्री दोगुनी से ज्यादा।"
+        }
+      },
+      {
+        "link": "deepender-hooda-barricades-pilot-rally-goers-stopped",
+        "lead": {
+          "en": "Rally:",
+          "hi": "रैली:"
+        },
+        "text": {
+          "en": "Deepender Hooda says barricades slow rally-goers.",
+          "hi": "दीपेंद्र हुड्डा बोले, बैरिकेड से रैली में आने वालों को रोका जा रहा।"
+        }
+      },
+      {
+        "link": "nadda-anarchy-model-india-bloc-rally-sood-chaos",
+        "lead": {
+          "en": "BJP:",
+          "hi": "भाजपा:"
+        },
+        "text": {
+          "en": "Nadda calls the INDIA bloc rally an \"anarchy model\".",
+          "hi": "नड्डा ने इंडिया गठबंधन की रैली को \"अराजकता मॉडल\" बताया।"
+        }
+      },
+      {
         "link": "india-bloc-convoy-connaught-place-tejashwi-crush-democracy",
         "lead": {
           "en": "CEC row:",
@@ -94,17 +138,6 @@
         "text": {
           "en": "Opposition leaders reach Connaught Place on an open bus.",
           "hi": "विपक्षी नेता खुली बस में कनॉट प्लेस पहुंचे।"
-        }
-      },
-      {
-        "link": "kishan-61-calendar-year-record-iyer-fifty-hamilton",
-        "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
-        },
-        "text": {
-          "en": "Kishan's 61 sets Indian calendar-year T20I record.",
-          "hi": "किशन के 61 रन, एक साल में सबसे ज्यादा टी20 रन का भारतीय रिकॉर्ड।"
         }
       },
       {
@@ -138,39 +171,6 @@
         "text": {
           "en": "Tata sells 73,894 cars at home, just ahead of Mahindra.",
           "hi": "टाटा ने देश में 73,894 कारें बेचीं, महिंद्रा से थोड़ा आगे।"
-        }
-      },
-      {
-        "link": "tata-motors-october-cv-sales-47652-exports-triple",
-        "lead": {
-          "en": "Trucks:",
-          "hi": "ट्रक:"
-        },
-        "text": {
-          "en": "Tata truck and bus sales up 27%; exports triple.",
-          "hi": "टाटा के ट्रक और बस बिक्री 27% बढ़ी; निर्यात तिगुना।"
-        }
-      },
-      {
-        "link": "india-bloc-rally-venugopal-stern-warning-modi-shah",
-        "lead": {
-          "en": "Rally:",
-          "hi": "रैली:"
-        },
-        "text": {
-          "en": "Venugopal calls rally a \"stern warning\" to Modi and Shah.",
-          "hi": "वेणुगोपाल ने रैली को मोदी और शाह के लिए \"कड़ी चेतावनी\" बताया।"
-        }
-      },
-      {
-        "link": "indian-trekkers-missing-dolpa-nepal-army-search-shey-phoksundo",
-        "lead": {
-          "en": "Nepal:",
-          "hi": "नेपाल:"
-        },
-        "text": {
-          "en": "Six Indian trekkers missing in snow in Dolpa; army search on.",
-          "hi": "डोल्पा में बर्फ में छह भारतीय ट्रेकर लापता; सेना की तलाश जारी।"
         }
       }
     ]
@@ -238,22 +238,22 @@
   },
   "topStories": {
     "big": {
-      "id": "kishan-61-calendar-year-record-iyer-fifty-hamilton",
+      "id": "milne-four-wickets-india-191-new-zealand-chase-hamilton",
       "also": [
-        "maruti-suzuki-record-october-sales-276120",
-        "gst-collections-october-2026-2-31-lakh-crore-imports"
+        "nadda-anarchy-model-india-bloc-rally-sood-chaos",
+        "tvs-motor-october-sales-700134-record-evs-double"
       ]
     },
     "list": [
-      "india-bloc-rally-vehicles-stuck-sarhaul-raut-buses-trains-held",
-      "india-bloc-march-sets-off-warring-pratapgarhi-bjp-scared",
-      "santner-wins-toss-india-bat-hamilton-bhuvneshwar-varun-return",
-      "tata-motors-october-pv-sales-75426-edges-mahindra",
-      "gambhir-my-job-not-to-make-everyone-happy-deep-squad"
+      "khurshid-not-end-one-rally-shukla-gyanesh-kumar-resign",
+      "sibal-rally-more-trade-vote-chori-dasmunsi-message",
+      "deepender-hooda-barricades-pilot-rally-goers-stopped",
+      "kishan-61-calendar-year-record-iyer-fifty-hamilton",
+      "maruti-suzuki-record-october-sales-276120"
     ],
     "also": [
-      "maruti-suzuki-record-october-sales-276120",
-      "gst-collections-october-2026-2-31-lakh-crore-imports"
+      "nadda-anarchy-model-india-bloc-rally-sood-chaos",
+      "tvs-motor-october-sales-700134-record-evs-double"
     ]
   },
   "startHere": [
@@ -429,16 +429,16 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "india-bloc-rally-vehicles-stuck-sarhaul-raut-buses-trains-held",
-        "india-bloc-rally-morning-crowds-10000-security-bjp-1984-march",
-        "india-bloc-march-sets-off-warring-pratapgarhi-bjp-scared",
-        "india-bloc-rally-venugopal-stern-warning-modi-shah"
+        "khurshid-not-end-one-rally-shukla-gyanesh-kumar-resign",
+        "sibal-rally-more-trade-vote-chori-dasmunsi-message",
+        "india-bloc-convoy-connaught-place-tejashwi-crush-democracy",
+        "india-bloc-rally-vehicles-stuck-sarhaul-raut-buses-trains-held"
       ],
-      "lead": "india-bloc-convoy-connaught-place-tejashwi-crush-democracy"
+      "lead": "nadda-anarchy-model-india-bloc-rally-sood-chaos"
     },
     {
       "section": "economy",
-      "lead": "maruti-suzuki-record-october-sales-276120",
+      "lead": "tvs-motor-october-sales-700134-record-evs-double",
       "module": {
         "type": "markets",
         "indicators": [
@@ -449,20 +449,20 @@
         ]
       },
       "list": [
+        "maruti-suzuki-record-october-sales-276120",
         "gst-collections-october-2026-2-31-lakh-crore-imports",
         "tata-motors-october-pv-sales-75426-edges-mahindra",
-        "tata-motors-october-cv-sales-47652-exports-triple",
-        "mahindra-record-october-suv-sales-73338-tractors-fall"
+        "tata-motors-october-cv-sales-47652-exports-triple"
       ]
     },
     {
       "section": "states",
-      "lead": "delhi-aqi-214-poor-sunday-morning-ncr-moderate",
+      "lead": "deepender-hooda-barricades-pilot-rally-goers-stopped",
       "list": [
+        "delhi-aqi-214-poor-sunday-morning-ncr-moderate",
         "delhi-pollution-curbs-bs-iv-ban-50-per-cent-office-from-today",
         "modi-chhattisgarh-foundation-day-naxalism-roots-sai-vajpayee",
-        "haryana-60-murmu-kurukshetra-haryana-day",
-        "mp-71st-foundation-day-rajyotsav-bhopal-mohan-yadav"
+        "haryana-60-murmu-kurukshetra-haryana-day"
       ]
     },
     {
@@ -508,12 +508,12 @@
     },
     {
       "section": "sports",
-      "lead": "kishan-61-calendar-year-record-iyer-fifty-hamilton",
+      "lead": "milne-four-wickets-india-191-new-zealand-chase-hamilton",
       "list": [
+        "kishan-61-calendar-year-record-iyer-fifty-hamilton",
         "santner-wins-toss-india-bat-hamilton-bhuvneshwar-varun-return",
         "gambhir-my-job-not-to-make-everyone-happy-deep-squad",
-        "india-new-zealand-fifth-t20i-hamilton-preview",
-        "miami-survive-north-carolina-38-35-stay-unbeaten"
+        "india-new-zealand-fifth-t20i-hamilton-preview"
       ]
     }
   ],

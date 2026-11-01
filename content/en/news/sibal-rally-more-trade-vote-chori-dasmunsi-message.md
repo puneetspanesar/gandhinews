@@ -54,10 +54,6 @@ The senior advocate said the campaign would go on well beyond the day. "We will 
 
 The traders' question had been taken up a day earlier by Leader of the Opposition **Rahul Gandhi in a video message** on X. "Protest, march, hold rallies, and along with that, do a little shopping too," he told supporters. "I know the rally will not harm the traders. The BJP is scared, that's why it's spreading rumours."
 
-```photo
-{"n":2,"subject":"Deepa Dasmunsi","caption":"Congress leader Deepa Dasmunsi, who described the rally as a message to the Chief Election Commissioner.","alt":"Congress leader Deepa Dasmunsi"}
-```
-
 Congress leader Deepa Dasmunsi said the gathering was aimed squarely at the poll body's chief. "It's **a big message for Gyanesh Kumar**, a big message for the country," she said, "a big message to save democracy and to save the Constitution."
 
 Leaders attending the rally include Congress president Mallikarjun Kharge, Mamata Banerjee, Abhishek Banerjee, Revanth Reddy, Tejashwi Yadav, Akhilesh Yadav, Farooq Abdullah and D Raja. Police permission requires the event to end by 5 pm.

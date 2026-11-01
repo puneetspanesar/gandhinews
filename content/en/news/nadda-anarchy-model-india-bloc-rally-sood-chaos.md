@@ -77,8 +77,4 @@ Nadda also returned to the BJP's main line of attack of the day, the date. "Nove
 
 The attack widened after 2 pm. Delhi minister **Ashish Sood said the Congress was holding the rally to push the country into chaos**, and pointed to 1984 as an example of disorder engineered by a government. He said his side would hold rallies of its own to make young people aware, and criticised Rahul Gandhi for showing pictures of unrest in France, Nepal and Sri Lanka.
 
-```photo
-{"n":3,"subject":"Ashish Sood","caption":"Delhi minister Ashish Sood, who accused the Congress of trying to push the country into chaos.","alt":"Delhi minister Ashish Sood"}
-```
-
 The opposition has called the rally **"Vote Bachao, Desh Bachao"** and says the Special Intensive Revision of electoral rolls has struck genuine voters off the lists. Leaders including Rahul Gandhi, Mamata Banerjee, Akhilesh Yadav, Tejashwi Yadav and Farooq Abdullah marched to the ground from Minto Road. Delhi Police have told the organisers to wrap up by 5 pm.

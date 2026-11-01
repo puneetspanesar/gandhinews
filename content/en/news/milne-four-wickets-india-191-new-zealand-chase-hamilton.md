@@ -79,24 +79,12 @@ Milne set the tone early. Abhishek Sharma skied him to Mitchell in the second ov
 
 What came next was the best batting of the day. Ishan Kishan and captain Shreyas Iyer **added 93 for the third wicket** off 43 balls. Kishan survived a scare in the seventh over when Finn Allen held a catch at long-on, only for the third umpire to find his foot grounded beyond the rope and signal six. Bracewell's tenth over then **went for 27 runs**, with Blair Tickner putting down a simple chance in the middle of the carnage.
 
-```photo
-{"n":1,"subject":"Blair Tickner","caption":"Blair Tickner dropped a sitter in the tenth over but came back to remove both Ishan Kishan and Naman Dhir.","alt":"New Zealand fast bowler Blair Tickner"}
-```
-
 Kishan made 61, breaking Suryakumar Yadav's record for the most T20I runs by an Indian in a calendar year, before Tickner had him **caught by Nathan Smith** at 112 for 3. Iyer reached his fifty in 22 balls and fell for exactly 50 off 23, with three fours and four sixes, to a short ball from Smith. Tilak Varma, reprieved once by a Smith no-ball, was **caught and bowled by Smith** in the same over, and India had slipped from 111 for 2 to 133 for 5.
 
 Naman Dhir and Nitish Kumar Reddy rebuilt with a stand of 46 for the sixth wicket. Dhir, dropped by Milne at sweeper cover in the 16th over, hit 33 off 23 before Tickner had him caught by Bracewell at 179 for 6. Nitish made 22 off 17. Milne returned at the death to **strike twice in the final over**, and Bhuvneshwar Kumar's 6 off 4 was the last meaningful contribution.
 
-```photo
-{"n":2,"subject":"Naman Dhir","caption":"Naman Dhir's 33 off 23 balls, in a stand of 46 with Nitish Kumar Reddy, steadied India after a middle-overs slide.","alt":"India batter Naman Dhir"}
-```
-
 ## The chase
 
 New Zealand needed **192 to win**. Allen's early exit gave India a lift, but Seifert answered it in the powerplay. With Mitchell alongside him, New Zealand's run rate climbed quickly as the chase settled in.
-
-```photo
-{"n":3,"subject":"Tim Seifert","caption":"Tim Seifert, the New Zealand wicketkeeper-batter, led the reply with a burst that brought 20 runs from the sixth over.","alt":"New Zealand batter Tim Seifert"}
-```
 
 India already **lead the series 3-1** after winning the first three matches, and lost the fourth by 87 runs at Eden Park on Friday. A win in Hamilton would let them close a long T20I year with a 4-1 result. New Zealand, who chose to bowl after Mitchell Santner won his first toss of the series, are chasing a second straight win to make it 3-2.
