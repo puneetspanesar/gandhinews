@@ -40,6 +40,14 @@ export function storyImage(d: any): { url: string; width: number; height: number
   if (!f?.src) return null;
   return { url: abs(f.src), width: f.width ?? 1280, height: f.height ?? 720, alt: (d.lang === 'hi' ? f.alt_hi ?? f.alt : f.alt) ?? '' };
 }
+/** Social share image: the story's 16:9 cover when it has one (it carries the headline), else its photo.
+ *  Structured data keeps the plain photo (imagesFor), since Google prefers pictures without text on them. */
+export function shareImage(d: any): { url: string; width: number; height: number; alt: string } | null {
+  const f = (PHOTOS as Record<string, any>)[d?.id];
+  const cv = f?.cover ? (f.cover[d.lang] ?? f.cover.en) : null;
+  if (cv) return { url: abs(cv.src), width: f.cover.width, height: f.cover.height, alt: (d.lang === 'hi' ? f.alt_hi ?? f.alt : f.alt) ?? '' };
+  return storyImage(d);
+}
 /** Google asks for news images in 16:9, 4:3 and 1:1. The two extra crops are made at build time by scripts/schema-crops.mjs. */
 const imagesFor = (d: any) => {
   const s = storyImage(d);

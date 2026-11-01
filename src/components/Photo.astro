@@ -14,9 +14,14 @@ interface Props {
   size?: 'lg' | 'sm'; lang?: Lang; class?: string; eager?: boolean;
   /** Show the credit line over the image (large slots on the homepage). */
   showCredit?: boolean;
+  /** Use the story's 16:9 cover (people over the scene, headline) when it has one. Only for 16:9 slots. */
+  cover?: boolean;
 }
-const { id, alt = '', size = 'sm', lang = 'en', class: cls = '', eager = false, showCredit = false } = Astro.props;
-const fetched: any = id ? (PHOTOS as Record<string, any>)[id] : null;
+const { id, alt = '', size = 'sm', lang = 'en', class: cls = '', eager = false, showCredit = false, cover = false } = Astro.props;
+const base: any = id ? (PHOTOS as Record<string, any>)[id] : null;
+// A cover replaces the photo in 16:9 slots; it carries its own credit line through the base entry.
+const cv: any = cover && base?.cover ? (base.cover[lang] ?? base.cover.en) : null;
+const fetched: any = cv ? { ...base, src: cv.src, src800: cv.src800, width: base.cover.width, height: base.cover.height } : base;
 const src = fetched?.src ?? Astro.props.src;
 // Two widths exist for every fetched photo (640 and 1280); the browser picks by slot width and screen density.
 const srcset = fetched?.src800 && fetched.src800 !== src ? `${fetched.src800} 640w, ${src} 1280w` : undefined;

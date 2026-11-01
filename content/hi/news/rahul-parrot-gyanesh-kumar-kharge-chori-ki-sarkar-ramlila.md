@@ -58,6 +58,9 @@ verification:
     - "All quotes are from Hindi originals; English is our translation. Rahul parrot line: Patrika only. Connaught Place remark: Lalluram and NewsBytes agree. Kharge 'Gyanesh Kumar has to go' and 'Modi-Shah snatch votes' lines: Lalluram and Insider Live (embedded Congress post) agree; youth/women/Dalits line from an ANI post cited by Lalluram."
     - "Patrika does not say whether the parrot was real or a model; copy says only that he held up a parrot. Netherworld remark is Insider Live paraphrase only, hedged and not quoted. 'Modi hatao, loktantra bachao' slogan per Lalluram; Insider Live gives a different wording, so the slogan is paraphrased."
     - "No Election Commission response to the speeches found in the window; Patrika notes the EC has denied political bias in general."
+cover:
+  label: सीईसी विवाद
+  headline: '''मोदी जी की जान ज्ञानेश कुमार में है'''
 ---
 
 रविवार दोपहर रामलीला मैदान में राहुल गांधी ने एक पुरानी लोककथा का सहारा लिया। हाथ में तोता लेकर लोकसभा में नेता प्रतिपक्ष ने इंडिया गठबंधन की रैली में कहा कि **प्रधानमंत्री की जान मुख्य चुनाव आयुक्त में** है।

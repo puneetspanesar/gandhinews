@@ -35,6 +35,19 @@ verification:
   notes:
     - "event: 1 Nov 2026, Vahan October registration data reported at 3:32 pm IST (ElecTree)."
     - "Single media source; registrations, not dispatches."
+cover:
+  label: अक्टूबर की बिक्री
+  headline: इलेक्ट्रिक दोपहिया 48% उछले
+  data:
+  - icon: trend-up
+    value: 2.24 लाख
+    label: इलेक्ट्रिक दोपहिया रजिस्टर हुए
+  - icon: trophy
+    value: टीवीएस 60,433
+    label: सबसे आगे, पिछले अक्टूबर का लगभग दोगुना
+  - icon: trend-down
+    value: ओला 26.4% नीचे
+    label: पांचवें नंबर पर खिसकी
 ---
 
 अक्टूबर का त्योहारी महीना देश के इलेक्ट्रिक दोपहिया बाज़ार के लिए दमदार रहा। सरकार के वाहन पोर्टल के रविवार को जारी आंकड़ों के मुताबिक इस महीने **2,23,886 बैटरी वाले स्कूटर और मोटरसाइकिल रजिस्टर** हुए।

@@ -14,6 +14,21 @@ Gandhi News is now a full news site: India, world, science and technology, sport
 - Length: 400-650 words for news. Sections with H2 subheads are fine but keep them natural (e.g. "How the match turned", "What the mission will do").
 - `keyPoints`: 3 bullets, one short sentence each, one key phrase in `**bold**`.
 
+## Cover (every news story, leads and briefs)
+Every story gets a 16:9 cover: the people in the story placed over a picture of the scene, a red label, a short cover headline and our mark. It is used on the homepage, at the top of the story and when the story is shared. Add a `cover:` block to the front matter (English), and the same block in the Hindi twin with Hindi `label`, `headline` and data labels:
+```
+cover:
+  template: faceoff     # faceoff: one person against another (both in hero.subjects) | speaker: one person's words or act | breaking: big world or national news | sport: a match or player | business: numbers, sales, markets
+  label: "CEC row"      # 1 to 3 words: the running story, or BREAKING only when it truly broke in the last hours
+  headline: "'Modi's life is in Gyanesh Kumar'"   # about 40 characters, 2 lines at most: the strongest REAL line (an exact quote in single quotes, or the plain fact). No clickbait, no question, nothing not in the story
+  bg: "Ramlila Maidan"  # Wikimedia Commons search for the scene behind the people: the venue, the city, the court, the ship, the stadium. Specific, never generic ("crowd", "flag")
+  inset: "Iran Ministry of Foreign Affairs"   # breaking only, optional: a second place or object shown in a small circle
+  people: ["Abbas Araghchi"]   # only when the main picture is a place or object: the person(s) the story is about, for the cover
+  score: ["NZ 192/3", "IND 191/8"]            # sport only, when there is a result
+  data: [{icon: trend-up, value: "2.24 lakh", label: "e-two-wheelers registered in October"}]   # business only, 2 or 3 real figures from the story; icons from src/icons
+```
+The people are hero.subjects (speaker or actor first). Never invent a quote, a figure or a scene for the cover.
+
 ## Still required
 - Accuracy: every name, number, date and quote must come from a source you actually read (WebSearch / WebFetch). If you can't confirm it, leave it out. Note doubts in `verification.notes` (internal only).
 - Own voice: never attribute to media outlets in the body text ("Reuters reported", "told ANI"). Attribute to people and bodies.

@@ -40,6 +40,9 @@ verification:
   notes:
     - "event: 1 Nov 2026, Iranian MFA announcement on Sunday; first report (ANI via The Tribune) timestamped 2:52 pm IST."
     - "Single source chain (ANI/Tribune). No UK response reported."
+cover:
+  label: पश्चिम एशिया
+  headline: ईरान ने रॉयल नेवी और आरएएफ को आतंकी संगठन बताया
 ---
 
 ईरान ने रविवार को **ब्रिटेन की रॉयल नेवी और रॉयल एयर फोर्स को आतंकी संगठन** घोषित कर दिया और ब्रिटेन की विदेशी खुफिया एजेंसी एमआई6 को 'शत्रु समूह' की श्रेणी में डाल दिया। ऐसे समय में जब वॉशिंगटन से बातचीत अधर में लटकी है, इस कदम से लंदन के साथ तेहरान का टकराव और गहरा गया है।

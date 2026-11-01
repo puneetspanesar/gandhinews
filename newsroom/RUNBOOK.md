@@ -24,6 +24,7 @@ cd /home/claude/gandhinews && git pull -q && npm ci --silent
 mkdir -p /home/claude/gn-work && cp newsroom/briefs/*.md newsroom/scripts/*.py newsroom/scripts/blocklist.txt /home/claude/gn-work/
 [ -x /tmp/claude-0/cvenv/bin/python ] || (python3 -m venv /tmp/claude-0/cvenv && /tmp/claude-0/cvenv/bin/pip -q install "opencv-python-headless<5" pillow numpy pyyaml)
 : > /home/claude/gn-work/claims.txt
+python3 -c "import rembg, cairosvg" 2>/dev/null || pip install --break-system-packages -q "rembg[cpu]" "opencv-python-headless<5" cairosvg pyyaml
 ```
 Set `PY=/tmp/claude-0/cvenv/bin/python`. Work out the window: from the last news-run commit (`git log --format='%ci %s' -15`) to now (`TZ=Asia/Kolkata date`).
 
@@ -86,6 +87,12 @@ echo '{}' > /home/claude/gn-work/focus.json
 $PY /home/claude/gn-work/apply_composites.py /home/claude/gn-work/raw /home/claude/gn-work/focus.json | grep -v "^missing parts"
 $PY /home/claude/gn-work/review_sheet.py final
 ```
+Then the covers (system python3, which has rembg):
+```
+cd /home/claude/gandhinews && python3 newsroom/scripts/make_cover.py /home/claude/gn-work/raw
+```
+It makes a 16:9 cover (English and Hindi) for every story with a `cover:` block whose pictures are in. A clean single-person photo is cut out; a group photo or a close-up goes in a white frame using the checked crop; both people in a face-off are treated the same. Read every new public/photos/c-*-en-1280.jpg and c-*-hi-1280.jpg: right person, face clear of the headline, no ghosted or jagged cut-out, headline spelled right and true to the story. A bad cover is never published: fix the `cover:` block and rerun for that id (`make_cover.py <raw> <id>`), or delete the story's `cover` key from content/photos.map.json so it shows its plain picture, and note it in the report.
+
 Read every out*.jpg. If a crop misses the face, add a focus entry `{"story-id": [[fx, fy]]}` (0 to 1 per panel; a third value tightens) and rerun apply_composites. For a logo panel use "fit". If a picture is still wrong, remove the story's entries from content/photos.json and content/photos.map.json and delete its public/photos/v-<id>-*.jpg files.
 
 ## 3. Homepage

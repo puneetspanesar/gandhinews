@@ -28,8 +28,16 @@ for p in sorted(glob.glob(R + 'content/en/news/*.md') + glob.glob(R + 'content/e
     for n, q in inline_photos(p):
         if f'{sid}--p{n}' not in have:
             plan[f'{sid}--p{n}'] = {'layout': 'single', 'panels': [{'q': q, 'what': q, 'kind': 'place' if PLACE.search(q) else 'person'}]}
+    d0 = fm(p); cv = d0.get('cover') or {}
+    for suf, key in (('bg', 'bg'), ('in', 'inset')):
+        q = cv.get(key)
+        if q and f'{sid}--{suf}' not in have:
+            plan[f'{sid}--{suf}'] = {'layout': 'single', 'panels': [{'q': q, 'what': q, 'kind': 'place'}]}
+    if cv.get('people') and f'{sid}--c' not in have:   # cover people when the main picture is a place
+        ps = cv['people'][:2]
+        plan[f'{sid}--c'] = {'layout': 'split' if len(ps) > 1 else 'single', 'panels': [{'q': q, 'what': q, 'kind': 'person'} for q in ps]}
     if sid in have: continue
-    d = fm(p); h = d.get('hero') or {}
+    d = d0; h = d.get('hero') or {}
     subj = [s for s in (h.get('subjects') or []) if s][:2] or ([h['suggested_source']] if h.get('suggested_source') else [])
     if not subj: continue
     panels = [{'q': s, 'what': s, 'kind': 'place' if PLACE.search(s) else 'person'} for s in subj]

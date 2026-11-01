@@ -54,6 +54,9 @@ verification:
   status: approved
   notes:
     - "event: 1 Nov about 15:55 IST, New Zealand complete chase of 192 in 18 overs (ETV Bharat). See English file for full notes. Player of the match and series not confirmed in sources; not stated."
+cover:
+  label: पांचवां टी20, हैमिल्टन
+  headline: आखिरी मैच हारा भारत, सीरीज 3-2 से जीती
 ---
 
 टिम सीफर्ट ने खराब फॉर्म वाली सीरीज का अंत अपनी सबसे बेहतरीन पारी से किया। न्यूजीलैंड के विकेटकीपर-बल्लेबाज ने रविवार को **सेडन पार्क में 93 रन** बनाकर टीम को 192 के लक्ष्य के करीब पहुंचाया और ग्लेन फिलिप्स ने काम पूरा किया। पांचवें और आखिरी टी20 में न्यूजीलैंड ने दो ओवर बाकी रहते **भारत को सात विकेट से हराया**।

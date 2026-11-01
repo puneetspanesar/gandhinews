@@ -47,6 +47,10 @@ verification:
     - "Chair figures (5,000 to 7,000 of 28,000 empty at 3:30 to 4 pm; about 40% of ground vacant) are Patra's claims, not independently checked. Congress claim of 10 lakh attendees as cited by Patra."
     - "Rahul Gandhi quote from ThePrint live blog, 4:20 pm entry. 'Abbu Jaan' and 'Shiv Ji's baraat' remarks left out: exact wording uncertain in paraphrased reports."
     - "No Congress response to Patra found by the time of writing."
+cover:
+  template: speaker
+  label: BJP hits back
+  headline: '''Then Rahul Gandhi is an illegal LoP too'''
 ---
 
 The BJP hit back at the INDIA bloc's Ramlila Maidan rally on Sunday evening, with national spokesperson Sambit Patra telling reporters that the opposition's claim of a stolen 2024 election, if true, would make **Rahul Gandhi an illegal Leader of Opposition**.

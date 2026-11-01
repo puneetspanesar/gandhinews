@@ -11,7 +11,8 @@ import RailList from '../components/RailList.astro';
 import FollowCard from '../components/FollowCard.astro';
 import { content, urlOf, prefix, kicker, fmtDateTime, labelParts, heroOf, emph } from '../lib/site';
 import { UI, SECTION_NAMES, HUBS, TYPE_HUB, verdictKey, VERDICT_ORDER, type Lang } from '../lib/i18n';
-import { newsArticleLd, faqLd, claimReviewLd, storyImage } from '../lib/seo';
+import PHOTO_MAP from '../../content/photos.map.json';
+import { newsArticleLd, faqLd, claimReviewLd, storyImage, shareImage } from '../lib/seo';
 
 interface Props { lang: Lang; id: string; route: string }
 const { lang, id, route } = Astro.props;
@@ -52,6 +53,7 @@ const firstSeen = d.factcheck?.firstSeen instanceof Date ? d.factcheck.firstSeen
 const fmtD = (x: Date) => fmtDateTime(x, lang).split(',').slice(0, 1).join('');
 const active = d.type === 'news' ? d.section : hubKey;
 const hero = heroOf(d);
+const hasCover = !!(PHOTO_MAP as any)[d.id]?.cover;
 // Photo treatment: a bottom gradient carrying the story's key fact. Uses hero.overlay from the
 // story file if set, otherwise the highlighted phrase of the first key point.
 const firstKey = (d.keyPoints?.[0] ?? '').match(/\*\*(.+?)\*\*/)?.[1] ?? '';
@@ -68,7 +70,7 @@ const heroOv = {
   description={d.seo.description}
   path={route}
   ogType="article"
-  image={storyImage(d)}
+  image={shareImage(d)}
   jsonld={jsonld}
   crumbs={crumbs}
   active={active}
@@ -88,8 +90,8 @@ const heroOv = {
         {(d.type === 'news' || d.type === 'editorial') && (
           <figure class="hero">
             <div class="hero-ph">
-              <Photo id={d.id} src={d.hero?.src} alt={hero.alt} size="lg" lang={lang} eager />
-              {heroOv.value && <div class="hov" aria-hidden="true"><span class="ok">{heroOv.kicker}</span><span class="ov">{heroOv.value}</span></div>}
+              <Photo cover id={d.id} src={d.hero?.src} alt={hero.alt} size="lg" lang={lang} eager />
+              {heroOv.value && !hasCover && <div class="hov" aria-hidden="true"><span class="ok">{heroOv.kicker}</span><span class="ov">{heroOv.value}</span></div>}
             </div>
             {hero.src && (hero.caption || hero.credit) && <figcaption><span>{hero.caption}</span>{hero.page ? <a class="pcred" href={`/photo-credits/#${hero.photoId}`}>{hero.short}</a> : <span class="pcred">{hero.credit}</span>}</figcaption>}
           </figure>

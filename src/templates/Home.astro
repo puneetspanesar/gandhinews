@@ -41,14 +41,14 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
     <h2 id="hl-h">{G.headlines}</h2>
     <div class="g-g">
       <article class="g-c g-lead">
-        <a href={L.href} class="g-im g-im-lead" tabindex="-1" aria-hidden="true"><Photo id={L.id} src={L.d.hero?.src} alt={L.d.hero?.alt} size="lg" lang={lang} eager /></a>
+        <a href={L.href} class="g-im g-im-lead" tabindex="-1" aria-hidden="true"><Photo cover id={L.id} src={L.d.hero?.src} alt={L.d.hero?.alt} size="lg" lang={lang} eager /></a>
         <a href={L.href}><h1 id="lead-h"><span class="kk">{m.live.title}</span> {L.d.title}</h1></a>
         <p class="sf">{L.d.standfirst}</p>
         {m.live.points.length > 0 && <ul class="g-pts">{m.live.points.slice(0, 3).map((k: string) => <li>{k}</li>)}</ul>}
       </article>
-      {m.headlines.slice(0, 2).map((x: any) => <article class="g-c"><a href={x.href} class="g-im" tabindex="-1" aria-hidden="true"><Photo id={x.id} src={x.d.hero?.src} lang={lang} /></a><a href={x.href}><h3><span class="kk">{x.kk}</span> {x.d.title}</h3></a></article>)}
+      {m.headlines.slice(0, 2).map((x: any) => <article class="g-c"><a href={x.href} class="g-im" tabindex="-1" aria-hidden="true"><Photo cover id={x.id} src={x.d.hero?.src} lang={lang} /></a><a href={x.href}><h3><span class="kk">{x.kk}</span> {x.d.title}</h3></a></article>)}
       {m.headlines.slice(2, 4).map((x: any, i: number) => <article class="g-c g-tr"><a href={x.href}><h3><span class="kk">{x.kk}</span> {x.d.title}</h3></a>{i === 0 && <p class="sf">{x.d.standfirst}</p>}</article>)}
-      {m.headlines.slice(4, 8).map((x: any) => <article class="g-c g-tr g-sm"><a href={x.href} class="g-im" tabindex="-1" aria-hidden="true"><Photo id={x.id} src={x.d.hero?.src} lang={lang} /></a><a href={x.href}><h3><span class="kk">{x.kk}</span> {x.d.title}</h3></a></article>)}
+      {m.headlines.slice(4, 8).map((x: any) => <article class="g-c g-tr g-sm"><a href={x.href} class="g-im" tabindex="-1" aria-hidden="true"><Photo cover id={x.id} src={x.d.hero?.src} lang={lang} /></a><a href={x.href}><h3><span class="kk">{x.kk}</span> {x.d.title}</h3></a></article>)}
     </div>
   </section>
 
@@ -58,7 +58,7 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
       <div class="w g-live">
         <div class="g-bt"><h2 id="live-h">{m.live.title}</h2><span>{G.liveX}</span></div>
         <div class="g-lf">
-          <a href={m.live.feature.href} class="g-im" tabindex="-1" aria-hidden="true"><Photo id={m.live.feature.id} src={m.live.feature.d.hero?.src} lang={lang} size="lg" /></a>
+          <a href={m.live.feature.href} class="g-im" tabindex="-1" aria-hidden="true"><Photo cover id={m.live.feature.id} src={m.live.feature.d.hero?.src} lang={lang} size="lg" /></a>
           <a href={m.live.feature.href}><h3>{m.live.feature.d.title}</h3></a>
           <div class="g-facts">{m.live.facts.map((x: any) => <div><Icon name={x.icon} /><span><b>{x.value}</b>{x.label}</span></div>)}</div>
         </div>
@@ -76,7 +76,7 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
     <section class="w g-ct" aria-labelledby="in-h">
       <h2 id="in-h"><a href={`${p}/states/`}>{G.india}</a></h2>
       <div class="g-g">
-        {m.india.map((x: any, i: number) => <article class={i === 0 ? 'g-c g-s2' : 'g-c'}><a href={x.href} class={i === 0 ? 'g-im g-im-big' : 'g-im'} tabindex="-1" aria-hidden="true"><Photo id={x.id} src={x.d.hero?.src} lang={lang} size={i === 0 ? 'lg' : 'sm'} /></a><a href={x.href}><h3><span class="kk">{x.kk}</span> {x.d.title}</h3></a></article>)}
+        {m.india.map((x: any, i: number) => <article class={i === 0 ? 'g-c g-s2' : 'g-c'}><a href={x.href} class={i === 0 ? 'g-im g-im-big' : 'g-im'} tabindex="-1" aria-hidden="true"><Photo cover id={x.id} src={x.d.hero?.src} lang={lang} size={i === 0 ? 'lg' : 'sm'} /></a><a href={x.href}><h3><span class="kk">{x.kk}</span> {x.d.title}</h3></a></article>)}
       </div>
     </section>
   )}
@@ -99,7 +99,7 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
     <section class="w g-ct" aria-label={S[dk.key]}>
       <h2><a href={`${p}/${dk.key}/`}>{S[dk.key]}</a></h2>
       <div class="g-g">
-        {[dk.lead, ...dk.list].slice(0, 4).map((x0: any) => { const x = m.kk(x0); return <article class="g-c"><a href={x.href} class="g-im" tabindex="-1" aria-hidden="true"><Photo id={x.id} src={x.d.hero?.src} lang={lang} /></a><a href={x.href}><h3><span class="kk">{x.kk}</span> {x.d.title}</h3></a></article>; })}
+        {[dk.lead, ...dk.list].slice(0, 4).map((x0: any) => { const x = m.kk(x0); return <article class="g-c"><a href={x.href} class="g-im" tabindex="-1" aria-hidden="true"><Photo cover id={x.id} src={x.d.hero?.src} lang={lang} /></a><a href={x.href}><h3><span class="kk">{x.kk}</span> {x.d.title}</h3></a></article>; })}
       </div>
     </section>
   ))}
@@ -111,7 +111,7 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
       <div class="g-g">
         {m.start.slice(0, 5).map((x: any, i: number) => (
           <article class={i === 0 ? 'g-c g-s2 g-r2' : i < 3 ? 'g-c' : 'g-c g-tr'}>
-            {i < 3 && <a href={x.href} class={i === 0 ? 'g-im g-im-big' : 'g-im'} tabindex="-1" aria-hidden="true"><Photo id={x.id} src={x.d.hero?.src} lang={lang} size={i === 0 ? 'lg' : 'sm'} /></a>}
+            {i < 3 && <a href={x.href} class={i === 0 ? 'g-im g-im-big' : 'g-im'} tabindex="-1" aria-hidden="true"><Photo cover id={x.id} src={x.d.hero?.src} lang={lang} size={i === 0 ? 'lg' : 'sm'} /></a>}
             <a href={x.href}><h3 class={i === 0 ? 'g-h28' : 'g-h17'}>{x.d.title}</h3></a>
             {i === 0 && <p class="sf">{x.d.standfirst}</p>}
           </article>
@@ -125,7 +125,7 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
     <section class="w g-ct" aria-label={S.sports}>
       <h2><a href={`${p}/sports/`}>{S.sports}</a></h2>
       <div class="g-g">
-        {[dk.lead, ...dk.list].slice(0, 3).map((x0: any, i: number) => { const x = m.kk(x0); return <article class={i === 0 ? 'g-c g-s2' : 'g-c'}><a href={x.href} class={i === 0 ? 'g-im g-im-big' : 'g-im'} tabindex="-1" aria-hidden="true"><Photo id={x.id} src={x.d.hero?.src} lang={lang} size={i === 0 ? 'lg' : 'sm'} /></a><a href={x.href}><h3 class={i === 0 ? 'g-h26' : undefined}><span class="kk">{x.kk}</span> {x.d.title}</h3></a></article>; })}
+        {[dk.lead, ...dk.list].slice(0, 3).map((x0: any, i: number) => { const x = m.kk(x0); return <article class={i === 0 ? 'g-c g-s2' : 'g-c'}><a href={x.href} class={i === 0 ? 'g-im g-im-big' : 'g-im'} tabindex="-1" aria-hidden="true"><Photo cover id={x.id} src={x.d.hero?.src} lang={lang} size={i === 0 ? 'lg' : 'sm'} /></a><a href={x.href}><h3 class={i === 0 ? 'g-h26' : undefined}><span class="kk">{x.kk}</span> {x.d.title}</h3></a></article>; })}
       </div>
     </section>
   ))}

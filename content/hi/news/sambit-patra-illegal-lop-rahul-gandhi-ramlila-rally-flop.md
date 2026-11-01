@@ -48,6 +48,9 @@ verification:
     - "Chair figures (5,000 to 7,000 of 28,000 empty at 3:30 to 4 pm; about 40% of ground vacant) are Patra's claims, not independently checked. Congress claim of 10 lakh attendees as cited by Patra."
     - "Rahul Gandhi quote from ThePrint live blog, 4:20 pm entry. 'Abbu Jaan' and 'Shiv Ji's baraat' remarks left out: exact wording uncertain in paraphrased reports."
     - "No Congress response to Patra found by the time of writing."
+cover:
+  label: भाजपा का पलटवार
+  headline: '''तो राहुल गांधी भी अवैध नेता प्रतिपक्ष'''
 ---
 
 भाजपा ने रविवार शाम इंडिया गठबंधन की रामलीला मैदान रैली पर पलटवार किया। राष्ट्रीय प्रवक्ता संबित पात्रा ने पत्रकारों से कहा कि अगर 2024 का चुनाव चुराए जाने का विपक्ष का दावा सही है, तो **राहुल गांधी भी अवैध नेता प्रतिपक्ष** हैं।

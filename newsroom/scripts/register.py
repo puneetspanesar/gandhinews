@@ -30,6 +30,8 @@ for s, v in picks.items():
     v = [x for x in v if x]
     if not v or s in have: continue
     if s in over: en, hi = over[s]
+    elif s.endswith('--bg') or s.endswith('--in') or s.endswith('--c'):
+        en, hi = v[0]['what'], v[0]['what']   # cover background or inset: shown only inside the cover
     elif '--p' in s and [x['q'] for x in v] == [p['q'] for p in plan[s]['panels']]:
         en = inline_alt('en', s); hi = inline_alt('hi', s)
         if not en or not hi: need.append(s); continue

@@ -57,6 +57,13 @@ verification:
     - "Mitchell 29 off 16 with four sixes, caught by Abhishek Sharma (ETV, CREX); bowler not named, left out. Allen caught by Kishan for 2; Arshdeep as bowler from earlier ANI/India.com material used in the innings-break story."
     - "Player of the match and player of the series NOT confirmed in any source read (ESPNcricinfo match blog failed to fetch, tribuneindia sports index blocked). Deliberately not stated in copy. No post-match quotes found."
     - "Search budget for desk exhausted (6/6)."
+cover:
+  template: sport
+  label: 5th T20I, Hamilton
+  headline: India lose the last one, take the series 3-2
+  score:
+  - NZ 192/3
+  - IND 191/8
 ---
 
 Tim Seifert ended a lean series with the innings of it. The New Zealand wicketkeeper-batter hit **93 at Seddon Park on Sunday** to take his side most of the way to 192, and Glenn Phillips finished the job as New Zealand **beat India by seven wickets** with two overs to spare in the fifth and final T20I.

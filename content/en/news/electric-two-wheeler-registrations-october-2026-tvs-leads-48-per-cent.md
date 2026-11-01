@@ -36,6 +36,20 @@ verification:
     - "Single media source for the compilation; figures are registrations, not factory dispatches, and the copy says so. Vahan figures can be revised slightly as late registrations are added."
     - "Bajaj and Ather year-on-year changes not given in source; left out. No company quotes in source."
     - "TVS company-reported EV dispatches (71,382, includes three-wheelers) are in the earlier TVS story; different measure, not compared directly."
+cover:
+  template: business
+  label: October sales
+  headline: Electric two-wheelers jump 48%
+  data:
+  - icon: trend-up
+    value: 2.24 lakh
+    label: e-two-wheelers registered in October
+  - icon: trophy
+    value: TVS 60,433
+    label: top seller, almost double last October
+  - icon: trend-down
+    value: Ola down 26.4%
+    label: slips to fifth place
 ---
 
 India's electric two-wheeler market had a strong festive month in October, with **2,23,886 battery scooters and motorcycles registered**, according to data from the government's Vahan portal released on Sunday.

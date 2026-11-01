@@ -56,6 +56,10 @@ verification:
     - "All quotes are from Hindi originals; English is our translation. Rahul parrot line: Patrika only. Connaught Place remark: Lalluram and NewsBytes agree. Kharge 'Gyanesh Kumar has to go' and 'Modi-Shah snatch votes' lines: Lalluram and Insider Live (embedded Congress post) agree; youth/women/Dalits line from an ANI post cited by Lalluram."
     - "Patrika does not say whether the parrot was real or a model; copy says only that he held up a parrot. Netherworld remark is Insider Live paraphrase only, hedged and not quoted. 'Modi hatao, loktantra bachao' slogan per Lalluram; Insider Live gives a different wording, so the slogan is paraphrased."
     - "No Election Commission response to the speeches found in the window; Patrika notes the EC has denied political bias in general."
+cover:
+  template: speaker
+  label: CEC row
+  headline: '''Modi''s life is in Gyanesh Kumar'''
 ---
 
 Rahul Gandhi reached for an old folk tale at Ramlila Maidan on Sunday afternoon. Holding up a parrot, the Leader of Opposition in the Lok Sabha told the INDIA bloc rally that **the Prime Minister's life lies in the Chief Election Commissioner**.

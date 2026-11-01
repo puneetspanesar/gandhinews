@@ -8,6 +8,8 @@ FOCUS = json.load(open(sys.argv[2])) if len(sys.argv) > 2 else {}
 os.chdir('/home/claude/gandhinews')
 P = json.load(open('content/photos.json')); M = json.load(open('content/photos.map.json'))
 def pid_of(a):
+    for suf in ('--bg', '--in', '--c'):
+        if a.endswith(suf): return 'v-' + a[:-len(suf)][:55] + '-' + suf[2:]
     return 'v-' + (a[:60] if '--p' not in a else a.rsplit('--p', 1)[0][:55] + '-p' + a.rsplit('--p', 1)[1])
 def entry(p, pid):
     return {'id': pid, 'src': f'/photos/{pid}-1280.jpg', 'src800': f'/photos/{pid}-640.jpg', 'width': 1280, 'height': 960,
@@ -25,7 +27,7 @@ for p in P:
         print('bad part', p['articleId']); continue
     a = p['articleId']
     # in-story photos '<story>--p<n>' keep their suffix so long slugs never collide
-    pid = 'v-' + (a[:60] if '--p' not in a else a.rsplit('--p', 1)[0][:55] + '-p' + a.rsplit('--p', 1)[1])
+    pid = pid_of(a)
     f = FOCUS.get(p['articleId'])
     if isinstance(f, dict): compose(parts, f'public/photos/{pid}', f.get('focus'), f.get('weights'))
     else: compose(parts, f'public/photos/{pid}', f)

@@ -41,6 +41,13 @@ verification:
     - "Single source chain (ANI/Tribune). No UK government response reported at time of writing; copy says so."
     - "Akraminia quotes ('immediate, crushing response', 'even more extensive than in the past') verbatim from the same ANI piece. Up to 14 years sentence under State Threats Act cited by ANI from Al Jazeera."
     - "Trump remarks were Saturday 31 Oct at Mar-a-Lago (Tribune 8:42 am IST); used only as background."
+cover:
+  template: breaking
+  label: West Asia
+  headline: Iran brands Royal Navy and RAF 'terrorist'
+  bg: HMS Dragon
+  people:
+  - Abbas Araghchi
 ---
 
 Iran on Sunday designated **Britain's Royal Navy and Royal Air Force as terrorist organisations** and classified MI6, the UK's foreign intelligence service, as a hostile group, sharply widening its quarrel with London as talks with Washington hang in the balance.
