@@ -34,7 +34,7 @@ _session = None
 def font(lang, size, bold=True):
     if lang == 'hi':
         f = ImageFont.truetype(FONTS + 'NotoSansDevanagari.ttf', size, layout_engine=ImageFont.Layout.RAQM)
-        try: f.set_variation_by_axes([100, 700 if bold else 500])
+        try: f.set_variation_by_axes([700 if bold else 500, 100])  # axes: weight, width
         except Exception: pass
         return f
     return ImageFont.truetype(FONTS + ('GoogleSans-700.ttf' if bold else 'GoogleSans-500.ttf'), size)
@@ -189,6 +189,14 @@ def wrap(d, text, f, maxw):
         if d.textlength(t, font=f) <= maxw or not cur: cur = t
         else: lines.append(cur); cur = w_
     lines.append(cur)
+    if len(lines) == 2 and len(words) > 2:
+        # Balance the two lines so no word is left hanging on its own.
+        best = None
+        for i in range(1, len(words)):
+            a, b = ' '.join(words[:i]), ' '.join(words[i:])
+            wa, wb = d.textlength(a, font=f), d.textlength(b, font=f)
+            if max(wa, wb) <= maxw and (best is None or max(wa, wb) < best[0]): best = (max(wa, wb), [a, b])
+        if best: lines = best[1]
     return lines
 
 
@@ -276,21 +284,18 @@ def make(sid, raw, spec, lang, people, bgp, insetp, panels=None):
 
 
 def place_product(c, src):
-    from rembg import remove, new_session
-    s = new_session('isnet-general-use')
-    rgba = remove(ImageOps.exif_transpose(src).convert('RGB'), session=s)
-    a = np.array(rgba)[:, :, 3]; m = (a > 140).astype(np.uint8)
-    n, lab, st, _ = cv2.connectedComponentsWithStats(m)
-    if n > 1:
-        keep = 1 + int(np.argmax(st[1:, cv2.CC_STAT_AREA])); m = (lab == keep).astype(np.uint8)
-    m = cv2.morphologyEx(m, cv2.MORPH_OPEN, np.ones((7, 7), np.uint8))
-    a = cv2.GaussianBlur((m * 255).astype(np.uint8), (3, 3), 0)
-    rgba.putalpha(Image.fromarray(a)); rgba = rgba.crop(rgba.getbbox())
-    s_ = min(560 / rgba.width, 470 / rgba.height)
-    rgba = rgba.resize((int(rgba.width * s_), int(rgba.height * s_)), Image.LANCZOS)
-    img, pad = outlined(rgba)
-    c.alpha_composite(img, (W - 30 - rgba.width - pad, 90 - pad))
-    return 'cut'
+    """Business covers: the product or company picture in a white frame on the red side.
+    (Product cut-outs come out rough on shop-floor photos, so they are not used.)"""
+    bw, bh = 520, 390
+    crop = ImageOps.fit(ImageOps.exif_transpose(src).convert('RGB'), (bw, bh), Image.LANCZOS, centering=(0.5, 0.5))
+    b = 8
+    pnl = Image.new('RGBA', (bw + 2 * b, bh + 2 * b), (255, 255, 255, 255)); pnl.paste(crop, (b, b))
+    sh = Image.new('RGBA', (pnl.width + 60, pnl.height + 60), (0, 0, 0, 0))
+    m = Image.new('L', sh.size, 0); ImageDraw.Draw(m).rectangle((30, 42, 30 + pnl.width, 42 + pnl.height), fill=150)
+    sh.putalpha(m.filter(ImageFilter.GaussianBlur(16)))
+    x, y = W - 60 - pnl.width, 84
+    c.alpha_composite(sh, (x - 30, y - 30)); c.alpha_composite(pnl, (x, y))
+    return 'frame'
 
 
 def fm(lang, sid):
