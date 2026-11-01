@@ -42,7 +42,7 @@ verification:
     - "Song lyrics not reproduced in source summary; mentioned only that he sang. His claim about the President asking for proof is his own account; no Rashtrapati Bhavan statement found."
     - "Mangal Pandey described by PTI as former Bihar minister. Prasad quotes are fragments as reported."
 cover:
-  template: faceoff
+  template: speaker
   label: "Rally row"
   headline: "'But they never gave that list'"
   bg: "Kochi"

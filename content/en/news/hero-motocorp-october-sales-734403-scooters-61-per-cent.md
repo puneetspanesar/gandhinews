@@ -79,7 +79,7 @@ Overseas business went the other way. **Exports fell 5.4% to 29,319 units**, fro
 Hero's electric brand Vida dispatched 30,143 units, up 4.7% from September. The company said Vida's share of the electric two-wheeler market **rose to 13.6% from 11.1%**, and that its registrations on the government's Vahan portal grew 80% on a year earlier.
 
 ```photo
-{"n":1,"subject":"Hero MotoCorp dealership","caption":"A Hero dealership in Gujarat. Dispatches count bikes sent to dealers like this one, not sales to buyers.","alt":"A Hero MotoCorp two-wheeler dealership shopfront"}
+{"n":1,"subject":"Hero MotoCorp dealership","caption":"A Hero-branded parts shop in Gujarat. Dispatch figures count vehicles sent to dealers, not sales to buyers.","alt":"A Hero-branded two-wheeler parts shop in Gujarat"}
 ```
 
 The dispatch figure is not the same as what buyers took home. Vahan data show **5,89,665 Hero vehicles registered** in October, about 1.45 lakh fewer than the company sent to dealers. October was also softer than September, when Hero dispatched 7,66,348 units, a fall of 4.2% month on month.

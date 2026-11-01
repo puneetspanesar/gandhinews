@@ -40,7 +40,7 @@ verification:
   notes:
     - "event: 1 Nov evening, Kochi SIR debate, PTI 20:50 IST; Bihar NDA reactions PTI 20:48 IST. See English file."
 cover:
-  template: faceoff
+  template: speaker
   label: "रैली पर रार"
   headline: "'लेकिन उन्होंने सूची कभी नहीं दी'"
   bg: "Kochi"
