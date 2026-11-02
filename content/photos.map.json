@@ -24178,5 +24178,41 @@
   "alt": "India wicketkeeper Richa Ghosh (file photo)",
   "alt_hi": "भारत की विकेटकीपर ऋचा घोष (फ़ाइल फ़ोटो)",
   "page": null
+ },
+ "wall-street-midday-dow-1-per-cent-oracle-slides-gold-rebounds": {
+  "id": "v-wall-street-midday-dow-1-per-cent-oracle-slides-gold-rebound",
+  "src": "/photos/v-wall-street-midday-dow-1-per-cent-oracle-slides-gold-rebound-1280.jpg",
+  "src800": "/photos/v-wall-street-midday-dow-1-per-cent-oracle-slides-gold-rebound-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Carlos Delgado / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "The Wall Street sign outside the New York Stock Exchange (file photo)",
+  "alt_hi": "न्यूयॉर्क स्टॉक एक्सचेंज के बाहर वॉल स्ट्रीट का साइनबोर्ड (फ़ाइल फ़ोटो)",
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-wall-street-midday-dow-1-per-cent-oracle-slides-gold-rebound-en-1280.jpg",
+    "src800": "/photos/c-wall-street-midday-dow-1-per-cent-oracle-slides-gold-rebound-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-wall-street-midday-dow-1-per-cent-oracle-slides-gold-rebound-hi-1280.jpg",
+    "src800": "/photos/c-wall-street-midday-dow-1-per-cent-oracle-slides-gold-rebound-hi-640.jpg"
+   }
+  }
+ },
+ "wall-street-midday-dow-1-per-cent-oracle-slides-gold-rebounds--p1": {
+  "id": "v-wall-street-midday-dow-1-per-cent-oracle-slides-gold-re-p1",
+  "src": "/photos/v-wall-street-midday-dow-1-per-cent-oracle-slides-gold-re-p1-1280.jpg",
+  "src800": "/photos/v-wall-street-midday-dow-1-per-cent-oracle-slides-gold-re-p1-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Jeffrey Zeldman from Manhattan, USA / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "The New York Stock Exchange building (file photo)",
+  "alt_hi": "न्यूयॉर्क स्टॉक एक्सचेंज की इमारत (फाइल फोटो) (फ़ाइल फ़ोटो)",
+  "page": null
  }
 }
