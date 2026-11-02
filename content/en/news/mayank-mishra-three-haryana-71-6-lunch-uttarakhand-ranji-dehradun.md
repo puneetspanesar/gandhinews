@@ -47,17 +47,9 @@ Haryana chose to bat first against Uttarakhand in Dehradun on Monday and **went 
 
 Devendra Singh Bora struck early, **bowling Arsh Ranga for 5** in the fourth over. Ankit Kumar made 16 before Deepak Dhapola bowled him at the end of the 11th, and Himanshu Rana, who spent 34 balls over 11, was bowled by Mayank Mishra two overs later.
 
-```photo
-{"n":1,"subject":"Nishant Sindhu","caption":"Haryana's Nishant Sindhu batted 43 balls for 14 before Mayank Mishra bowled him in the 30th over.","alt":"Haryana cricketer Nishant Sindhu"}
-```
-
 Bora then bowled Dheeru Singh for 1 to leave Haryana four down inside 17 overs. Nishant Sindhu and Yashvardhan Dalal dug in, and the scoring slowed to a trickle. Sindhu took 43 balls for 14 before **Mishra bowled him** early in the 30th over.
 
 Dalal was the one Haryana batter to find any rhythm. He hit two fours and a six, the six coming off Jagadeesha Suchith, and reached 20 off 54 balls. But on the last ball of the session he was **caught by S Rawat off Mishra**, leaving the lower order exposed.
-
-```photo
-{"n":2,"subject":"Jagadeesha Suchith","caption":"Jagadeesha Suchith, part of Uttarakhand's attack, conceded the one six of the morning to Yashvardhan Dalal.","alt":"Cricketer Jagadeesha Suchith"}
-```
 
 Mishra finished the session with **3 for 16 from 11.5 overs**, five of them maidens. Bora had 2 for 19 from eight and Dhapola gave little away, with 1 for 26 from 11 overs.
 

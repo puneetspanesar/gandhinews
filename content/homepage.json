@@ -70,11 +70,11 @@
       "cyclone-murasu-severe-storm-ongole-landfall-tonight-imd"
     ],
     "relatedBeside": [
+      "sensex-holds-924-points-midday-nifty-23360-reliance-8-per-cent",
+      "azam-khan-supreme-court-ed-arrest-plea-cji-this-week",
       "sensex-1030-points-nifty-23330-day-high-reliance-quarter-of-gains",
       "india-manufacturing-pmi-october-final-54-7-export-orders",
-      "supreme-court-vikram-nath-airfare-plea-dont-travel-by-air",
-      "sensex-jumps-970-nifty-23313-oil-reliance-open-november-2",
-      "reliance-shares-jump-6-per-cent-q2-profit-o2c-jio"
+      "supreme-court-vikram-nath-airfare-plea-dont-travel-by-air"
     ],
     "live": {
       "title": {
@@ -86,6 +86,39 @@
   "briefing": {
     "items": [
       {
+        "link": "sensex-holds-924-points-midday-nifty-23360-reliance-8-per-cent",
+        "lead": {
+          "en": "Markets:",
+          "hi": "बाज़ार:"
+        },
+        "text": {
+          "en": "Sensex holds 924-point gain at midday, Nifty high 23,360.",
+          "hi": "दोपहर तक सेंसेक्स 924 अंक ऊपर, निफ्टी 23,360 के शिखर पर।"
+        }
+      },
+      {
+        "link": "azam-khan-supreme-court-ed-arrest-plea-cji-this-week",
+        "lead": {
+          "en": "Azam Khan:",
+          "hi": "आज़म ख़ान:"
+        },
+        "text": {
+          "en": "Plea against ED arrest to be heard this week, says CJI.",
+          "hi": "ईडी गिरफ़्तारी के ख़िलाफ़ याचिका पर इसी हफ़्ते सुनवाई, सीजेआई ने कहा।"
+        }
+      },
+      {
+        "link": "angkrish-raghuvanshi-fifty-mumbai-109-0-lunch-railways-ranji-cci",
+        "lead": {
+          "en": "Ranji:",
+          "hi": "रणजी:"
+        },
+        "text": {
+          "en": "Raghuvanshi fifty, Mumbai 109 for 0 at lunch vs Railways.",
+          "hi": "रघुवंशी का अर्धशतक, लंच तक मुंबई 109 पर 0।"
+        }
+      },
+      {
         "link": "chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation",
         "lead": {
           "en": "Chennai:",
@@ -94,17 +127,6 @@
         "text": {
           "en": "Parrys gets 149 mm as Murasu rain lashes the city.",
           "hi": "मुरासु की बारिश, पैरीज़ में 149 मिमी पानी गिरा।"
-        }
-      },
-      {
-        "link": "sensex-1030-points-nifty-23330-day-high-reliance-quarter-of-gains",
-        "lead": {
-          "en": "Markets:",
-          "hi": "बाज़ार:"
-        },
-        "text": {
-          "en": "Sensex up over 1,000 points at day's high, Nifty 23,330.",
-          "hi": "सेंसेक्स 1,000 अंक से ज़्यादा चढ़ा, निफ्टी 23,330 पर।"
         }
       },
       {
@@ -141,17 +163,6 @@
         }
       },
       {
-        "link": "bengal-collapse-maharashtra-ranji-eden-dadhe",
-        "lead": {
-          "en": "Ranji:",
-          "hi": "रणजी:"
-        },
-        "text": {
-          "en": "Bengal slump to 72 for 7 against Maharashtra at Eden.",
-          "hi": "ईडन में महाराष्ट्र के ख़िलाफ़ बंगाल 72 पर 7 विकेट गंवा बैठा।"
-        }
-      },
-      {
         "link": "cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight",
         "lead": {
           "en": "Cyclone:",
@@ -160,17 +171,6 @@
         "text": {
           "en": "Murasu 200 km off Chennai, schools shut in three states.",
           "hi": "मुरासु चेन्नई से 200 किमी दूर, तीन राज्यों में स्कूल बंद।"
-        }
-      },
-      {
-        "link": "reliance-shares-jump-6-per-cent-q2-profit-o2c-jio",
-        "lead": {
-          "en": "Reliance:",
-          "hi": "रिलायंस:"
-        },
-        "text": {
-          "en": "Shares jump over 6% after a 41% profit rise.",
-          "hi": "41% मुनाफ़ा बढ़ने के बाद शेयर 6% से ज़्यादा चढ़े।"
         }
       }
     ]
@@ -238,18 +238,18 @@
   },
   "topStories": {
     "big": {
-      "id": "sensex-1030-points-nifty-23330-day-high-reliance-quarter-of-gains",
+      "id": "sensex-holds-924-points-midday-nifty-23360-reliance-8-per-cent",
       "also": [
-        "muthoot-finance-rebounds-9-per-cent-52-week-low-q2-profit",
-        "reliance-shares-jump-6-per-cent-q2-profit-o2c-jio"
+        "reliance-shares-jump-6-per-cent-q2-profit-o2c-jio",
+        "sensex-1030-points-nifty-23330-day-high-reliance-quarter-of-gains"
       ]
     },
     "list": [
+      "azam-khan-supreme-court-ed-arrest-plea-cji-this-week",
+      "angkrish-raghuvanshi-fifty-mumbai-109-0-lunch-railways-ranji-cci",
       "india-manufacturing-pmi-october-final-54-7-export-orders",
       "supreme-court-vikram-nath-airfare-plea-dont-travel-by-air",
-      "bengal-collapse-maharashtra-ranji-eden-dadhe",
-      "amit-shah-hyderabad-padayatra-charminar-sir-congress",
-      "cji-surya-kant-deoghar-baidyanath-legal-services-camp-today"
+      "bengal-collapse-maharashtra-ranji-eden-dadhe"
     ]
   },
   "startHere": [
@@ -425,16 +425,16 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "azam-khan-supreme-court-ed-arrest-plea-cji-this-week",
         "supreme-court-vikram-nath-airfare-plea-dont-travel-by-air",
         "cji-surya-kant-deoghar-baidyanath-legal-services-camp-today",
-        "supreme-court-ram-temple-trust-funds-probe-hearing-today",
-        "justice-bhuyan-arbitrary-power-thrives-ignorance-fear-ustm"
+        "supreme-court-ram-temple-trust-funds-probe-hearing-today"
       ],
       "lead": "amit-shah-hyderabad-padayatra-charminar-sir-congress"
     },
     {
       "section": "economy",
-      "lead": "sensex-1030-points-nifty-23330-day-high-reliance-quarter-of-gains",
+      "lead": "sensex-holds-924-points-midday-nifty-23360-reliance-8-per-cent",
       "module": {
         "type": "markets",
         "indicators": [
@@ -445,10 +445,10 @@
         ]
       },
       "list": [
+        "sensex-1030-points-nifty-23330-day-high-reliance-quarter-of-gains",
         "sensex-jumps-970-nifty-23313-oil-reliance-open-november-2",
         "india-manufacturing-pmi-october-final-54-7-export-orders",
-        "muthoot-finance-rebounds-9-per-cent-52-week-low-q2-profit",
-        "reliance-shares-jump-6-per-cent-q2-profit-o2c-jio"
+        "muthoot-finance-rebounds-9-per-cent-52-week-low-q2-profit"
       ]
     },
     {
@@ -503,12 +503,12 @@
     },
     {
       "section": "sports",
-      "lead": "antonelli-youngest-champion-mexico-verstappen-wins-hamilton-second",
+      "lead": "angkrish-raghuvanshi-fifty-mumbai-109-0-lunch-railways-ranji-cci",
       "list": [
+        "saiteja-three-in-over-punjab-84-5-lunch-andhra-ranji-mohali",
+        "mayank-mishra-three-haryana-71-6-lunch-uttarakhand-ranji-dehradun",
         "bengal-collapse-maharashtra-ranji-eden-dadhe",
-        "india-south-korea-asian-champions-trophy-last-league-jalandhar-preview",
-        "railways-bowl-mumbai-ranji-round-four-cci-start",
-        "priyanshu-moliya-321-baroda-record-test-dream"
+        "india-south-korea-asian-champions-trophy-last-league-jalandhar-preview"
       ]
     }
   ],

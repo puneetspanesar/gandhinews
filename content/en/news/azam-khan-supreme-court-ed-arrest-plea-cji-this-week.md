@@ -66,19 +66,11 @@ His counsel, Nizam Pasha, mentioned the petition before a bench of Chief Justice
 
 The petition asks the court to quash the arrest and the remand order that followed, and to release Khan from custody in the meantime. According to his counsel, ED officers arrested him **about 40 minutes after he walked out of jail**.
 
-```photo
-{"n":1,"subject":"Surya Kant","caption":"Chief Justice of India Surya Kant, before whom Azam Khan's plea was mentioned on Monday.","alt":"Chief Justice of India Surya Kant"}
-```
-
 ## From one case to the next
 
 Khan, 78, and his son Abdullah Azam Khan had been granted bail by the Allahabad High Court in the **dual PAN card case**. The High Court suspended Khan's sentence but did not stay his conviction. Within hours of his release, the agency took him into custody, and on Sunday a special court in Ghaziabad sent him to **14 days of judicial custody**.
 
 The money laundering case concerns the **Mohammad Ali Jauhar University in Rampur**, linked to the Jauhar Trust. The ED has built it on dozens of FIRs that Uttar Pradesh Police filed against him and his associates, including complaints by farmers who say their land was forcibly taken for the campus. The agency also alleges that government money meant for public works was diverted to the private university while Khan was the state's urban development minister.
-
-```photo
-{"n":2,"subject":"Mohammad Ali Jauhar University","caption":"The Mohammad Ali Jauhar University campus in Rampur, at the centre of the ED's money laundering case against Azam Khan.","alt":"Mohammad Ali Jauhar University, Rampur"}
-```
 
 On 28 October the ED said it had **attached university land and buildings worth ₹1,170 crore**. Earlier, in July, the Rampur Development Authority ordered 38 buildings on the campus to be demolished; the university has appealed.
 

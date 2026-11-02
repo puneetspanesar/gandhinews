@@ -77,15 +77,7 @@ At 11:22 am the Sensex stood at 75,383.98, **up about 924 points, or 1.24%**, an
 
 Reliance Industries traded **nearly 8% higher**, near ₹1,254, as investors kept buying after its September-quarter profit rose about 41% from a year earlier. It remained the single biggest contributor to the index gain.
 
-```photo
-{"n":1,"subject":"Tata Steel Kalinganagar","caption":"Tata Steel's Kalinganagar plant in Odisha. Tata Steel rose more than 4% as metal stocks stayed among the morning's leaders.","alt":"Tata Steel Kalinganagar steel plant, Odisha (file photo)"}
-```
-
 Behind it, the morning's leaders were a mix of commodity and financial names. **Shriram Finance rose about 5%**, Coal India and Max Healthcare about 4.6% each and Tata Steel about 4.4%. On the other side, Adani Ports, Infosys, ICICI Bank and Sun Pharma were the main Nifty laggards, each down between about 0.7% and 1.3%.
-
-```photo
-{"n":2,"subject":"Max Super Speciality Hospital, Saket","caption":"Max Super Speciality Hospital in Saket, New Delhi. Max Healthcare was among the top Nifty gainers on Monday morning.","alt":"Max Super Speciality Hospital, Saket, New Delhi (file photo)"}
-```
 
 ## A nervous undertone
 

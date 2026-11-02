@@ -47,17 +47,9 @@ Punjab **lost five wickets before lunch** on the opening day of their Ranji Trop
 
 Andhra won the toss and chose to bowl at the IS Bindra Stadium, and Punjab began briskly. Opener **Prabhsimran Singh made 24 off 19 balls**, attacking from the start, before Kalidindi Raju removed him in the eighth over.
 
-```photo
-{"n":1,"subject":"Prabhsimran Singh","caption":"Punjab opener Prabhsimran Singh made a quick 24 off 19 balls before falling to Kalidindi Raju.","alt":"Punjab batter Prabhsimran Singh"}
-```
-
 The over that turned the morning was the 16th. Saiteja had Jashanpreet Singh Sidhu out for 1 off 23 balls with the third delivery, then **removed Uday Saharan and Ramandeep Singh** with the fifth and sixth, Ramandeep going first ball. A steady start had become a scramble.
 
 Vihaan Malhotra tried to rebuild and hit 30 off 64 balls, but Raju trapped him lbw at the start of the 23rd over. That gave him **2 for 20 from nine overs**, two of them maidens. KV Sasikanth, without a wicket, conceded only 22 from eight overs, keeping the pressure on from the other end.
-
-```photo
-{"n":2,"subject":"Uday Saharan","caption":"Punjab batter Uday Saharan was one of Saiteja's three victims in the 16th over.","alt":"Punjab batter Uday Saharan"}
-```
 
 Salil Arora, unbeaten on 21 off 40 balls, struck a boundary off Raju in the last over before the break and will resume with Sanvir Singh, who has 5. The pair had **added 13 for the sixth wicket**.
 

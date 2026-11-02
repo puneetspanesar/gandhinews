@@ -49,16 +49,8 @@ Railways had won the toss and chosen to bowl, hoping for early movement at Brabo
 
 Divyaansh Saxena played the anchor. He faced 91 balls for his 39, with four boundaries, and the pair added 109 off 186 balls in 31 overs, four of the runs coming as byes.
 
-```photo
-{"n":1,"subject":"Sarfaraz Khan","caption":"Sarfaraz Khan, one of the Mumbai batters still waiting for a turn after a wicketless first session.","alt":"Mumbai batter Sarfaraz Khan"}
-```
-
 Railways rotated their attack hard, and **seven bowlers were tried** before lunch. Adarsh Singh was the tightest, conceding 23 runs in seven overs with three maidens, while Himanshu Sangwan went for 19 in seven. Toufik Uddin Mondal was the most expensive, giving away 18 in two overs.
 
 For Mumbai, unbeaten in Elite Group D with three bonus-point wins, the morning sets up the chance of a big first-innings total. Behind the openers wait **Musheer Khan, Siddhesh Lad and Sarfaraz Khan**, with Shams Mulani and Tanush Kotian lower down.
-
-```photo
-{"n":2,"subject":"Musheer Khan","caption":"Musheer Khan, due in at number three for Mumbai.","alt":"Mumbai batter Musheer Khan"}
-```
 
 Railways need wickets quickly after the break. This is the last round before the Ranji Trophy pauses for the white-ball season, and a long day in the field would leave them chasing the game for the remaining three days.
