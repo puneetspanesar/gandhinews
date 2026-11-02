@@ -27432,28 +27432,6 @@
   ]
  },
  {
-  "id": "cx-crimea-blackout-russia-ukraine-strikes-oleshky-ceasefire-0",
-  "articleId": "part:crimea-blackout-russia-ukraine-strikes-oleshky-ceasefire:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/T-34-76_Sevastopol_2012_G2.jpg/1600px-T-34-76_Sevastopol_2012_G2.jpg",
-  "credit": "George Chernilevsky",
-  "licence": "Public domain",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:T-34-76_Sevastopol_2012_G2.jpg"
- },
- {
-  "id": "x-crimea-blackout-russia-ukraine-strikes-oleshky-ceasefire",
-  "articleId": "crimea-blackout-russia-ukraine-strikes-oleshky-ceasefire",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/T-34-76_Sevastopol_2012_G2.jpg/1600px-T-34-76_Sevastopol_2012_G2.jpg",
-  "credit": "Photo: George Chernilevsky / Wikimedia Commons",
-  "licence": "Public domain",
-  "alt": "Sevastopol in occupied Crimea (file photo)",
-  "alt_hi": "कब्जे वाले क्रीमिया का सेवस्तोपोल शहर (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:T-34-76_Sevastopol_2012_G2.jpg",
-  "composite": [
-   "cx-crimea-blackout-russia-ukraine-strikes-oleshky-ceasefire-0"
-  ]
- },
- {
   "id": "cx-delhi-aqi-185-moderate-saturday-farm-fires-0",
   "articleId": "part:delhi-aqi-185-moderate-saturday-farm-fires:0",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Lodhi_Garden_Tomb_2019.jpg/1600px-Lodhi_Garden_Tomb_2019.jpg",
@@ -27586,28 +27564,6 @@
   ]
  },
  {
-  "id": "cx-gaza-city-strike-kills-one-1500-dead-since-ceasefire-0",
-  "articleId": "part:gaza-city-strike-kills-one-1500-dead-since-ceasefire:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Al-Shifa_Medical_Complex_001.jpeg/1600px-Al-Shifa_Medical_Complex_001.jpeg",
-  "credit": "Physicians for Human Rights - Israel from Jaffa, Israel",
-  "licence": "CC BY 2.0",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Al-Shifa_Medical_Complex_001.jpeg"
- },
- {
-  "id": "x-gaza-city-strike-kills-one-1500-dead-since-ceasefire",
-  "articleId": "gaza-city-strike-kills-one-1500-dead-since-ceasefire",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Al-Shifa_Medical_Complex_001.jpeg/1600px-Al-Shifa_Medical_Complex_001.jpeg",
-  "credit": "Photo: Physicians for Human Rights - Israel from Jaffa, Israel / Wikimedia Commons",
-  "licence": "CC BY 2.0",
-  "alt": "Al-Shifa hospital in Gaza City (file photo)",
-  "alt_hi": "गाजा सिटी का अल-शिफा अस्पताल (फाइल फोटो) (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Al-Shifa_Medical_Complex_001.jpeg",
-  "composite": [
-   "cx-gaza-city-strike-kills-one-1500-dead-since-ceasefire-0"
-  ]
- },
- {
   "id": "cx-grp-chiefs-conference-railmadad-festive-crowd-plan-0",
   "articleId": "part:grp-chiefs-conference-railmadad-festive-crowd-plan:0",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/New_Delhi_railway_station_board%2C_India.jpg/1600px-New_Delhi_railway_station_board%2C_India.jpg",
@@ -27693,38 +27649,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:IGMC_Shimla_entrance.jpg",
   "composite": [
    "cx-himachal-320-pg-medical-seats-nadda-415-crore-0"
-  ]
- },
- {
-  "id": "cx-houthi-missiles-riyadh-taif-yanbu-saudi-alerts-makkah-jed-0",
-  "articleId": "part:houthi-missiles-riyadh-taif-yanbu-saudi-alerts-makkah-jeddah:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Riyadh_North_Skyline_.jpg",
-  "credit": "B.alotaby",
-  "licence": "CC BY-SA 4.0",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Riyadh_North_Skyline_.jpg"
- },
- {
-  "id": "cx-houthi-missiles-riyadh-taif-yanbu-saudi-alerts-makkah-jed-1",
-  "articleId": "part:houthi-missiles-riyadh-taif-yanbu-saudi-alerts-makkah-jeddah:1",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Jeddah_Corniche_37.jpg/1600px-Jeddah_Corniche_37.jpg",
-  "credit": "Tahir mq",
-  "licence": "CC BY-SA 4.0",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Jeddah_Corniche_37.jpg"
- },
- {
-  "id": "x-houthi-missiles-riyadh-taif-yanbu-saudi-alerts-makkah-jeddah",
-  "articleId": "houthi-missiles-riyadh-taif-yanbu-saudi-alerts-makkah-jeddah",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Riyadh_North_Skyline_.jpg",
-  "credit": "Photos: B.alotaby / Wikimedia Commons; Tahir mq / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "The Riyadh skyline and the Jeddah corniche in Saudi Arabia (file photos)",
-  "alt_hi": "सऊदी अरब में रियाद का नज़ारा और जेद्दा का समुद्र तट (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Riyadh_North_Skyline_.jpg",
-  "composite": [
-   "cx-houthi-missiles-riyadh-taif-yanbu-saudi-alerts-makkah-jed-0",
-   "cx-houthi-missiles-riyadh-taif-yanbu-saudi-alerts-makkah-jed-1"
   ]
  },
  {
@@ -28218,28 +28142,6 @@
   ]
  },
  {
-  "id": "cx-nairobi-16-storey-building-collapse-tear-gas-rescue-0",
-  "articleId": "part:nairobi-16-storey-building-collapse-tear-gas-rescue:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Garissa_Market%2C_Eastleigh_in_Nairobi.jpg/1600px-Garissa_Market%2C_Eastleigh_in_Nairobi.jpg",
-  "credit": "Dan Kori / korispective.de",
-  "licence": "CC BY-SA 2.0",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Garissa_Market,_Eastleigh_in_Nairobi.jpg"
- },
- {
-  "id": "x-nairobi-16-storey-building-collapse-tear-gas-rescue",
-  "articleId": "nairobi-16-storey-building-collapse-tear-gas-rescue",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Garissa_Market%2C_Eastleigh_in_Nairobi.jpg/1600px-Garissa_Market%2C_Eastleigh_in_Nairobi.jpg",
-  "credit": "Photo: Dan Kori / korispective.de / Wikimedia Commons",
-  "licence": "CC BY-SA 2.0",
-  "alt": "A street in Eastleigh, Nairobi (file photo)",
-  "alt_hi": "नैरोबी के ईस्टली की एक सड़क (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Garissa_Market,_Eastleigh_in_Nairobi.jpg",
-  "composite": [
-   "cx-nairobi-16-storey-building-collapse-tear-gas-rescue-0"
-  ]
- },
- {
   "id": "cx-navic-explained-why-nvs-03-launch-matters-0",
   "articleId": "part:navic-explained-why-nvs-03-launch-matters:0",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Chandrayaan_2_Module_on_GSLV_MK_III_at_Satish_Dhawan_Space_Centre_Second_Launch_Pad.jpg",
@@ -28281,28 +28183,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:1_Rupee_Indian_Coin_Mahatma_Gandhi.jpg",
   "composite": [
    "cx-ncaer-business-confidence-index-q2-107-8-0"
-  ]
- },
- {
-  "id": "cx-nilgiris-landslide-bus-driver-killed-passengers-escape-0",
-  "articleId": "part:nilgiris-landslide-bus-driver-killed-passengers-escape:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Info_Annai_Velankanni_Shops_NH-181_Burliar_Nilgiris_Feb24_A7C_09589.jpg/1600px-Info_Annai_Velankanni_Shops_NH-181_Burliar_Nilgiris_Feb24_A7C_09589.jpg",
-  "credit": "This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but please mention me as the author. I would m",
-  "licence": "CC BY-SA 4.0",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Info_Annai_Velankanni_Shops_NH-181_Burliar_Nilgiris_Feb24_A7C_09589.jpg"
- },
- {
-  "id": "x-nilgiris-landslide-bus-driver-killed-passengers-escape",
-  "articleId": "nilgiris-landslide-bus-driver-killed-passengers-escape",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Info_Annai_Velankanni_Shops_NH-181_Burliar_Nilgiris_Feb24_A7C_09589.jpg/1600px-Info_Annai_Velankanni_Shops_NH-181_Burliar_Nilgiris_Feb24_A7C_09589.jpg",
-  "credit": "Photo: This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but please mention me as the author. I would m / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "The hill road through Burliar in the Nilgiris, Tamil Nadu (file photo)",
-  "alt_hi": "तमिलनाडु के नीलगिरि में बर्लियार से गुजरती पहाड़ी सड़क (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Info_Annai_Velankanni_Shops_NH-181_Burliar_Nilgiris_Feb24_A7C_09589.jpg",
-  "composite": [
-   "cx-nilgiris-landslide-bus-driver-killed-passengers-escape-0"
   ]
  },
  {
@@ -29052,28 +28932,6 @@
   ]
  },
  {
-  "id": "cx-cyclone-arnab-depression-odisha-majhi-zero-casualties-and-0",
-  "articleId": "part:cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-landfall:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Ramakrishna_Beach_road_in_Visakhapatnam_%28June_2019%29.jpg/1600px-Ramakrishna_Beach_road_in_Visakhapatnam_%28June_2019%29.jpg",
-  "credit": "iMahesh",
-  "licence": "CC BY-SA 4.0",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Ramakrishna_Beach_road_in_Visakhapatnam_(June_2019).jpg"
- },
- {
-  "id": "x-cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra",
-  "articleId": "cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-landfall",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Ramakrishna_Beach_road_in_Visakhapatnam_%28June_2019%29.jpg/1600px-Ramakrishna_Beach_road_in_Visakhapatnam_%28June_2019%29.jpg",
-  "credit": "Photo: iMahesh / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "The seafront at Ramakrishna Beach in Visakhapatnam (file photo)",
-  "alt_hi": "विशाखापत्तनम में रामकृष्ण बीच का समुद्र तट (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Ramakrishna_Beach_road_in_Visakhapatnam_(June_2019).jpg",
-  "composite": [
-   "cx-cyclone-arnab-depression-odisha-majhi-zero-casualties-and-0"
-  ]
- },
- {
   "id": "cx-delhi-aatal-air-pollution-source-lab-iitm-jitendra-singh-0",
   "articleId": "part:delhi-aatal-air-pollution-source-lab-iitm-jitendra-singh:0",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Partial_view_of_IITM%2C_Pune_main_building.jpg/1600px-Partial_view_of_IITM%2C_Pune_main_building.jpg",
@@ -29289,28 +29147,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:Police_encounter_a_protester_during_the_Olympic_torch_relay_through_Paris.jpg",
   "composite": [
    "cx-france-410000-protest-nearly-1000-arrested-nunez-0"
-  ]
- },
- {
-  "id": "cx-gaza-five-killed-saturday-khan-younis-beit-lahia-0",
-  "articleId": "part:gaza-five-killed-saturday-khan-younis-beit-lahia:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Alaa_al-Din_Al-Batta%2C_Mayor_of_Khan_Younis%2C_2026.jpg/1600px-Alaa_al-Din_Al-Batta%2C_Mayor_of_Khan_Younis%2C_2026.jpg",
-  "credit": "Ibrahem.ahmad0",
-  "licence": "CC BY-SA 4.0",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Alaa_al-Din_Al-Batta,_Mayor_of_Khan_Younis,_2026.jpg"
- },
- {
-  "id": "x-gaza-five-killed-saturday-khan-younis-beit-lahia",
-  "articleId": "gaza-five-killed-saturday-khan-younis-beit-lahia",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Alaa_al-Din_Al-Batta%2C_Mayor_of_Khan_Younis%2C_2026.jpg/1600px-Alaa_al-Din_Al-Batta%2C_Mayor_of_Khan_Younis%2C_2026.jpg",
-  "credit": "Photo: Ibrahem.ahmad0 / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Khan Younis in the southern Gaza Strip (file photo)",
-  "alt_hi": "दक्षिणी ग़ज़ा पट्टी का ख़ान यूनिस (फाइल फोटो) (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Alaa_al-Din_Al-Batta,_Mayor_of_Khan_Younis,_2026.jpg",
-  "composite": [
-   "cx-gaza-five-killed-saturday-khan-younis-beit-lahia-0"
   ]
  },
  {
@@ -29870,28 +29706,6 @@
   ]
  },
  {
-  "id": "cx-odisha-cancels-collectors-leave-schools-shut-cyclone-arna-0",
-  "articleId": "part:odisha-cancels-collectors-leave-schools-shut-cyclone-arnab:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Mohan_Charan_Majhi_%28cropped%29.jpg",
-  "credit": "Odisha State Legislative Assembly",
-  "licence": "CC BY-SA 4.0",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Mohan_Charan_Majhi_(cropped).jpg"
- },
- {
-  "id": "x-odisha-cancels-collectors-leave-schools-shut-cyclone-arnab",
-  "articleId": "odisha-cancels-collectors-leave-schools-shut-cyclone-arnab",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Mohan_Charan_Majhi_%28cropped%29.jpg",
-  "credit": "Photo: Odisha State Legislative Assembly / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Odisha Chief Minister Mohan Charan Majhi (file photo)",
-  "alt_hi": "ओडिशा के मुख्यमंत्री मोहन चरण माझी (फाइल फोटो) (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Mohan_Charan_Majhi_(cropped).jpg",
-  "composite": [
-   "cx-odisha-cancels-collectors-leave-schools-shut-cyclone-arna-0"
-  ]
- },
- {
   "id": "cx-pakistan-rejects-khalilzad-claims-recruiting-afghans-0",
   "articleId": "part:pakistan-rejects-khalilzad-claims-recruiting-afghans:0",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Zalmay_Khalilzad_%285453167564%29.jpg/1600px-Zalmay_Khalilzad_%285453167564%29.jpg",
@@ -29965,28 +29779,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:European_Youth_Event_2025_-_54596787962.jpg",
   "composite": [
    "cx-picierno-ends-hunger-strike-oleshky-ceasefire-0"
-  ]
- },
- {
-  "id": "cx-qinghai-zadoi-earthquake-5-3-days-after-tibet-quake-0",
-  "articleId": "part:qinghai-zadoi-earthquake-5-3-days-after-tibet-quake:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Location_of_Zadoi_within_Qinghai_%28China%29.png",
-  "credit": "Croquant",
-  "licence": "CC BY 3.0",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Location_of_Zadoi_within_Qinghai_(China).png"
- },
- {
-  "id": "x-qinghai-zadoi-earthquake-5-3-days-after-tibet-quake",
-  "articleId": "qinghai-zadoi-earthquake-5-3-days-after-tibet-quake",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Location_of_Zadoi_within_Qinghai_%28China%29.png",
-  "credit": "Photo: Croquant / Wikimedia Commons",
-  "licence": "CC BY 3.0",
-  "alt": "Zadoi County in Qinghai, China (file photo)",
-  "alt_hi": "चीन के छिंगहाई का ज़ादोई काउंटी (फाइल फोटो) (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Location_of_Zadoi_within_Qinghai_(China).png",
-  "composite": [
-   "cx-qinghai-zadoi-earthquake-5-3-days-after-tibet-quake-0"
   ]
  },
  {
@@ -30590,28 +30382,6 @@
   ]
  },
  {
-  "id": "cx-delhi-aqi-167-rain-sunday-iit-delhi-245-0",
-  "articleId": "part:delhi-aqi-167-rain-sunday-iit-delhi-245:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/PXL_20231130_040034562_Safdarjung_Tomb%2C_Delhi_05.jpg/1600px-PXL_20231130_040034562_Safdarjung_Tomb%2C_Delhi_05.jpg",
-  "credit": "Sourabh.biswas003",
-  "licence": "CC BY-SA 4.0",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:PXL_20231130_040034562_Safdarjung_Tomb,_Delhi_05.jpg"
- },
- {
-  "id": "x-delhi-aqi-167-rain-sunday-iit-delhi-245",
-  "articleId": "delhi-aqi-167-rain-sunday-iit-delhi-245",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/PXL_20231130_040034562_Safdarjung_Tomb%2C_Delhi_05.jpg/1600px-PXL_20231130_040034562_Safdarjung_Tomb%2C_Delhi_05.jpg",
-  "credit": "Photo: Sourabh.biswas003 / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Safdarjung Tomb in New Delhi (file photo)",
-  "alt_hi": "नई दिल्ली में सफदरजंग का मकबरा (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:PXL_20231130_040034562_Safdarjung_Tomb,_Delhi_05.jpg",
-  "composite": [
-   "cx-delhi-aqi-167-rain-sunday-iit-delhi-245-0"
-  ]
- },
- {
   "id": "cx-fpi-selling-53337-crore-october-tenth-week-crude-0",
   "articleId": "part:fpi-selling-53337-crore-october-tenth-week-crude:0",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/BSE_%2813050422343%29.jpg/1600px-BSE_%2813050422343%29.jpg",
@@ -30805,28 +30575,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:Bharat_Mandapam_Delhi_2024.jpg",
   "composite": [
    "cx-jaishankar-terrorism-statecraft-chinmaya-sammelan-un-refo-0"
-  ]
- },
- {
-  "id": "cx-karnataka-heavy-rain-forecast-south-bengaluru-24-degrees-0",
-  "articleId": "part:karnataka-heavy-rain-forecast-south-bengaluru-24-degrees:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Chikkamagaluru.jpg/1600px-Chikkamagaluru.jpg",
-  "credit": "Jeevitha VM",
-  "licence": "CC BY-SA 4.0",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Chikkamagaluru.jpg"
- },
- {
-  "id": "x-karnataka-heavy-rain-forecast-south-bengaluru-24-degrees",
-  "articleId": "karnataka-heavy-rain-forecast-south-bengaluru-24-degrees",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Chikkamagaluru.jpg/1600px-Chikkamagaluru.jpg",
-  "credit": "Photo: Jeevitha VM / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Hills around Chikkamagaluru in Karnataka (file photo)",
-  "alt_hi": "कर्नाटक में चिक्कमगलुरु के आसपास की पहाड़ियां (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Chikkamagaluru.jpg",
-  "composite": [
-   "cx-karnataka-heavy-rain-forecast-south-bengaluru-24-degrees-0"
   ]
  },
  {
@@ -31070,28 +30818,6 @@
   ]
  },
  {
-  "id": "cx-punjab-farm-fires-574-tarn-taran-amritsar-cheema-sirsa-0",
-  "articleId": "part:punjab-farm-fires-574-tarn-taran-amritsar-cheema-sirsa:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Photograph_of_Gurdwara_Sri_Tarn_Taran_Sahib%2C_circa_1890.jpg",
-  "credit": "Unknown author",
-  "licence": "Public domain",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Photograph_of_Gurdwara_Sri_Tarn_Taran_Sahib,_circa_1890.jpg"
- },
- {
-  "id": "x-punjab-farm-fires-574-tarn-taran-amritsar-cheema-sirsa",
-  "articleId": "punjab-farm-fires-574-tarn-taran-amritsar-cheema-sirsa",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Photograph_of_Gurdwara_Sri_Tarn_Taran_Sahib%2C_circa_1890.jpg",
-  "credit": "Photo: Unknown author / Wikimedia Commons",
-  "licence": "Public domain",
-  "alt": "Gurdwara Sri Tarn Taran Sahib in Tarn Taran, Punjab (file photo)",
-  "alt_hi": "पंजाब के तरनतारन में गुरुद्वारा श्री तरनतारन साहिब (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Photograph_of_Gurdwara_Sri_Tarn_Taran_Sahib,_circa_1890.jpg",
-  "composite": [
-   "cx-punjab-farm-fires-574-tarn-taran-amritsar-cheema-sirsa-0"
-  ]
- },
- {
   "id": "cx-rahul-gandhi-thanks-bjp-promoting-november-1-rally-0",
   "articleId": "part:rahul-gandhi-thanks-bjp-promoting-november-1-rally:0",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kiran_Bedi_at_Ramlila_maidan.jpg/1600px-Kiran_Bedi_at_Ramlila_maidan.jpg",
@@ -31133,28 +30859,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:Kochi,_Fishing_nets_2,_Kerala,_India.jpg",
   "composite": [
    "cx-rajeev-chandrasekhar-satheesan-fort-kochi-cafe-row-0"
-  ]
- },
- {
-  "id": "cx-russia-ukraine-overnight-strikes-vinnytsia-belgorod-bryan-0",
-  "articleId": "part:russia-ukraine-overnight-strikes-vinnytsia-belgorod-bryansk-perm:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Graffiti_Vinnytsia_2022_G1.jpg/1600px-Graffiti_Vinnytsia_2022_G1.jpg",
-  "credit": "George Chernilevsky",
-  "licence": "Public domain",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Graffiti_Vinnytsia_2022_G1.jpg"
- },
- {
-  "id": "x-russia-ukraine-overnight-strikes-vinnytsia-belgorod-bryansk-",
-  "articleId": "russia-ukraine-overnight-strikes-vinnytsia-belgorod-bryansk-perm",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Graffiti_Vinnytsia_2022_G1.jpg/1600px-Graffiti_Vinnytsia_2022_G1.jpg",
-  "credit": "Photo: George Chernilevsky / Wikimedia Commons",
-  "licence": "Public domain",
-  "alt": "The city of Vinnytsia in central Ukraine (file photo)",
-  "alt_hi": "मध्य यूक्रेन का विन्नित्सिया शहर (फाइल फोटो) (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Graffiti_Vinnytsia_2022_G1.jpg",
-  "composite": [
-   "cx-russia-ukraine-overnight-strikes-vinnytsia-belgorod-bryan-0"
   ]
  },
  {
@@ -31275,28 +30979,6 @@
   "composite": [
    "cx-siniakova-thrashes-krueger-osaka-title-0",
    "cx-siniakova-thrashes-krueger-osaka-title-1"
-  ]
- },
- {
-  "id": "cx-tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depressio-0",
-  "articleId": "part:tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depression:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Marshal_Hall%2C_Thanjavur_%2815225%29.jpg/1600px-Marshal_Hall%2C_Thanjavur_%2815225%29.jpg",
-  "credit": "PJeganathan",
-  "licence": "CC BY-SA 3.0",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Marshal_Hall,_Thanjavur_(15225).jpg"
- },
- {
-  "id": "x-tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depression",
-  "articleId": "tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depression",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Marshal_Hall%2C_Thanjavur_%2815225%29.jpg/1600px-Marshal_Hall%2C_Thanjavur_%2815225%29.jpg",
-  "credit": "Photo: PJeganathan / Wikimedia Commons",
-  "licence": "CC BY-SA 3.0",
-  "alt": "Thanjavur in Tamil Nadu (file photo)",
-  "alt_hi": "तमिलनाडु का तंजावुर (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Marshal_Hall,_Thanjavur_(15225).jpg",
-  "composite": [
-   "cx-tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depressio-0"
   ]
  },
  {
@@ -31745,50 +31427,6 @@
   "composite": [
    "cx-courts-today-vijayan-appeal-imran-khan-notice-supreme-cou-0",
    "cx-courts-today-vijayan-appeal-imran-khan-notice-supreme-cou-1"
-  ]
- },
- {
-  "id": "cx-cyclone-arnab-deep-depression-imd-landfall-bapatla-visakh-0",
-  "articleId": "part:cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Satellite_kkd.jpg/1600px-Satellite_kkd.jpg",
-  "credit": "NASA",
-  "licence": "Public domain",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Satellite_kkd.jpg"
- },
- {
-  "id": "x-cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapa",
-  "articleId": "cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Satellite_kkd.jpg/1600px-Satellite_kkd.jpg",
-  "credit": "Photo: NASA / Wikimedia Commons",
-  "licence": "Public domain",
-  "alt": "The Kakinada coast in Andhra Pradesh, seen from space (file photo)",
-  "alt_hi": "अंतरिक्ष से दिखता आंध्र प्रदेश का काकीनाडा तट (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Satellite_kkd.jpg",
-  "composite": [
-   "cx-cyclone-arnab-deep-depression-imd-landfall-bapatla-visakh-0"
-  ]
- },
- {
-  "id": "cx-delhi-rain-no-fix-pollution-experts-grap-stage-one-0",
-  "articleId": "part:delhi-rain-no-fix-pollution-experts-grap-stage-one:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/View_from_14th_Floor%2C_Vikas_Minar%2C_ITO.jpg/1600px-View_from_14th_Floor%2C_Vikas_Minar%2C_ITO.jpg",
-  "credit": "Vishal.psd",
-  "licence": "CC BY-SA 4.0",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:View_from_14th_Floor,_Vikas_Minar,_ITO.jpg"
- },
- {
-  "id": "x-delhi-rain-no-fix-pollution-experts-grap-stage-one",
-  "articleId": "delhi-rain-no-fix-pollution-experts-grap-stage-one",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/View_from_14th_Floor%2C_Vikas_Minar%2C_ITO.jpg/1600px-View_from_14th_Floor%2C_Vikas_Minar%2C_ITO.jpg",
-  "credit": "Photo: Vishal.psd / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Traffic at ITO in New Delhi (file photo)",
-  "alt_hi": "नई दिल्ली में आईटीओ पर ट्रैफिक (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:View_from_14th_Floor,_Vikas_Minar,_ITO.jpg",
-  "composite": [
-   "cx-delhi-rain-no-fix-pollution-experts-grap-stage-one-0"
   ]
  },
  {
@@ -32561,28 +32199,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:Prague_Old_Town_Square,_Czech_Republic_-_Oct_2010.jpg",
   "composite": [
    "cx-prague-protest-babis-public-media-licence-fee-bill-0"
-  ]
- },
- {
-  "id": "cx-puducherry-karaikal-dindigul-schools-shut-cyclone-signal-0",
-  "articleId": "part:puducherry-karaikal-dindigul-schools-shut-cyclone-signal:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Promenade_Beach_Puducherry_IMG_20180609_084045244.jpg/1600px-Promenade_Beach_Puducherry_IMG_20180609_084045244.jpg",
-  "credit": "P Jeganathan",
-  "licence": "CC BY-SA 4.0",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Promenade_Beach_Puducherry_IMG_20180609_084045244.jpg"
- },
- {
-  "id": "x-puducherry-karaikal-dindigul-schools-shut-cyclone-signal",
-  "articleId": "puducherry-karaikal-dindigul-schools-shut-cyclone-signal",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Promenade_Beach_Puducherry_IMG_20180609_084045244.jpg/1600px-Promenade_Beach_Puducherry_IMG_20180609_084045244.jpg",
-  "credit": "Photo: P Jeganathan / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "The Promenade Beach in Puducherry (file photo)",
-  "alt_hi": "पुडुचेरी का प्रोमेनेड बीच (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Promenade_Beach_Puducherry_IMG_20180609_084045244.jpg",
-  "composite": [
-   "cx-puducherry-karaikal-dindigul-schools-shut-cyclone-signal-0"
   ]
  },
  {
@@ -34403,28 +34019,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:2025-0722_Jeremiah_Smith.jpg",
   "composite": [
    "cx-usc-stun-no-2-ohio-state-30-18-coliseum--p2-0"
-  ]
- },
- {
-  "id": "cx-delhi-aqi-214-poor-sunday-morning-ncr-moderate-0",
-  "articleId": "part:delhi-aqi-214-poor-sunday-morning-ncr-moderate:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20191205_Afsarwala_Tomb%2C_Delhi_1051_6789.jpg/1600px-20191205_Afsarwala_Tomb%2C_Delhi_1051_6789.jpg",
-  "credit": "Jakub Hałun",
-  "licence": "CC BY-SA 4.0",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:20191205_Afsarwala_Tomb,_Delhi_1051_6789.jpg"
- },
- {
-  "id": "x-delhi-aqi-214-poor-sunday-morning-ncr-moderate",
-  "articleId": "delhi-aqi-214-poor-sunday-morning-ncr-moderate",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20191205_Afsarwala_Tomb%2C_Delhi_1051_6789.jpg/1600px-20191205_Afsarwala_Tomb%2C_Delhi_1051_6789.jpg",
-  "credit": "Photo: Jakub Hałun / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Afsarwala Tomb in the Humayun's Tomb complex, Delhi (file photo)",
-  "alt_hi": "दिल्ली में हुमायूं के मकबरे के परिसर में अफसरवाला मकबरा (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:20191205_Afsarwala_Tomb,_Delhi_1051_6789.jpg",
-  "composite": [
-   "cx-delhi-aqi-214-poor-sunday-morning-ncr-moderate-0"
   ]
  },
  {
@@ -36738,28 +36332,6 @@
   ]
  },
  {
-  "id": "cx-delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-202-0",
-  "articleId": "part:delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kartavya_Path_in_the_evening_in_New_Delhi_05.jpg/1600px-Kartavya_Path_in_the_evening_in_New_Delhi_05.jpg",
-  "credit": "Pinakpani",
-  "licence": "CC BY-SA 4.0",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Kartavya_Path_in_the_evening_in_New_Delhi_05.jpg"
- },
- {
-  "id": "x-delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023",
-  "articleId": "delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kartavya_Path_in_the_evening_in_New_Delhi_05.jpg/1600px-Kartavya_Path_in_the_evening_in_New_Delhi_05.jpg",
-  "credit": "Photo: Pinakpani / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Kartavya Path in New Delhi (file photo)",
-  "alt_hi": "नई दिल्ली का कर्तव्य पथ (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Kartavya_Path_in_the_evening_in_New_Delhi_05.jpg",
-  "composite": [
-   "cx-delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-202-0"
-  ]
- },
- {
   "id": "cx-delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-202-0b",
   "articleId": "part:delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023--bg:0",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Kartavya_Path_in_the_evening_in_New_Delhi_09.jpg/1600px-Kartavya_Path_in_the_evening_in_New_Delhi_09.jpg",
@@ -38186,28 +37758,6 @@
   ]
  },
  {
-  "id": "cx-cyclone-murasu-severe-storm-ongole-landfall-tonight-imd-0",
-  "articleId": "part:cyclone-murasu-severe-storm-ongole-landfall-tonight-imd:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Ongole_town_view_from_Ongole_konda_%28hill%29.jpg/1600px-Ongole_town_view_from_Ongole_konda_%28hill%29.jpg",
-  "credit": "Serijarla",
-  "licence": "CC BY-SA 4.0",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Ongole_town_view_from_Ongole_konda_(hill).jpg"
- },
- {
-  "id": "x-cyclone-murasu-severe-storm-ongole-landfall-tonight-imd",
-  "articleId": "cyclone-murasu-severe-storm-ongole-landfall-tonight-imd",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Ongole_town_view_from_Ongole_konda_%28hill%29.jpg/1600px-Ongole_town_view_from_Ongole_konda_%28hill%29.jpg",
-  "credit": "Photo: Serijarla / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "A view of Ongole in Andhra Pradesh (file photo)",
-  "alt_hi": "आंध्र प्रदेश के ओंगोल का एक दृश्य (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Ongole_town_view_from_Ongole_konda_(hill).jpg",
-  "composite": [
-   "cx-cyclone-murasu-severe-storm-ongole-landfall-tonight-imd-0"
-  ]
- },
- {
   "id": "cx-cyclone-murasu-severe-storm-ongole-landfall-tonight-imd---0",
   "articleId": "part:cyclone-murasu-severe-storm-ongole-landfall-tonight-imd--bg:0",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/ABM_Junior_College_Ground_Ongole.jpg/1600px-ABM_Junior_College_Ground_Ongole.jpg",
@@ -38934,28 +38484,6 @@
   ]
  },
  {
-  "id": "cx-cyclone-murasu-200-km-chennai-schools-shut-landfall-tonig-0",
-  "articleId": "part:cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Kavali_Kalugolamma_Temple.JPG/1600px-Kavali_Kalugolamma_Temple.JPG",
-  "credit": "Malyadri",
-  "licence": "CC BY-SA 3.0",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Kavali_Kalugolamma_Temple.JPG"
- },
- {
-  "id": "x-cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight",
-  "articleId": "cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Kavali_Kalugolamma_Temple.JPG/1600px-Kavali_Kalugolamma_Temple.JPG",
-  "credit": "Photo: Malyadri / Wikimedia Commons",
-  "licence": "CC BY-SA 3.0",
-  "alt": "Kalugolamma temple in Kavali, Nellore district, Andhra Pradesh (file photo)",
-  "alt_hi": "आंध्र प्रदेश के नेल्लोर ज़िले के कावली में कलुगोलम्मा मंदिर (फाइल फोटो) (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Kavali_Kalugolamma_Temple.JPG",
-  "composite": [
-   "cx-cyclone-murasu-200-km-chennai-schools-shut-landfall-tonig-0"
-  ]
- },
- {
   "id": "cx-cyclone-murasu-200-km-chennai-schools-shut-landfall-tonig-0b",
   "articleId": "part:cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight--bg:0",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Jawahar_Bharathi_Gate.JPG/1600px-Jawahar_Bharathi_Gate.JPG",
@@ -39594,28 +39122,6 @@
   ]
  },
  {
-  "id": "cx-chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnati-0",
-  "articleId": "part:chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Parrys_Corner%2C_Chennai%2C_India.jpg/1600px-Parrys_Corner%2C_Chennai%2C_India.jpg",
-  "credit": "L.vivian.richard at English Wikipedia",
-  "licence": "CC BY-SA 3.0",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Parrys_Corner,_Chennai,_India.jpg"
- },
- {
-  "id": "x-chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation",
-  "articleId": "chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Parrys_Corner%2C_Chennai%2C_India.jpg/1600px-Parrys_Corner%2C_Chennai%2C_India.jpg",
-  "credit": "Photo: L.vivian.richard at English Wikipedia / Wikimedia Commons",
-  "licence": "CC BY-SA 3.0",
-  "alt": "Parrys Corner in north Chennai (file photo)",
-  "alt_hi": "उत्तर चेन्नई का पैरीज़ कॉर्नर (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Parrys_Corner,_Chennai,_India.jpg",
-  "composite": [
-   "cx-chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnati-0"
-  ]
- },
- {
   "id": "cx-india-manufacturing-pmi-october-final-54-7-export-orders-0",
   "articleId": "part:india-manufacturing-pmi-october-final-54-7-export-orders:0",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/StandardPoors_Headquarters.JPG/1600px-StandardPoors_Headquarters.JPG",
@@ -40229,6 +39735,490 @@
   "page": "https://commons.wikimedia.org/wiki/File:Illuminated_gateway_inside_Shri_Ram_Janmabhoomi_Mandir_complex,_Ayodhya.png",
   "composite": [
    "cx-supreme-court-closes-ram-mandir-donation-theft-pleas-char-0bbb"
+  ]
+ },
+ {
+  "id": "cx-chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnati-0",
+  "articleId": "part:chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Rain-Soaked-Anna_Salai-Chennai-Tamil-Nadu-India.jpg/1600px-Rain-Soaked-Anna_Salai-Chennai-Tamil-Nadu-India.jpg",
+  "credit": "N. Vivekananthamoorthy",
+  "licence": "CC BY 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Rain-Soaked-Anna_Salai-Chennai-Tamil-Nadu-India.jpg"
+ },
+ {
+  "id": "x-chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation",
+  "articleId": "chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Rain-Soaked-Anna_Salai-Chennai-Tamil-Nadu-India.jpg/1600px-Rain-Soaked-Anna_Salai-Chennai-Tamil-Nadu-India.jpg",
+  "credit": "Photo: N. Vivekananthamoorthy / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "A rain-soaked Anna Salai in Chennai (file photo)",
+  "alt_hi": "बारिश से भीगी चेन्नई की अन्ना सलाई (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Rain-Soaked-Anna_Salai-Chennai-Tamil-Nadu-India.jpg",
+  "composite": [
+   "cx-chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnati-0"
+  ]
+ },
+ {
+  "id": "cx-cyclone-murasu-200-km-chennai-schools-shut-landfall-tonig-0",
+  "articleId": "part:cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Chennai_flood_water_logging_near_ofice_nandanam6.jpg/1600px-Chennai_flood_water_logging_near_ofice_nandanam6.jpg",
+  "credit": "Vijayingarsal",
+  "licence": "CC0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Chennai_flood_water_logging_near_ofice_nandanam6.jpg"
+ },
+ {
+  "id": "x-cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight",
+  "articleId": "cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Chennai_flood_water_logging_near_ofice_nandanam6.jpg/1600px-Chennai_flood_water_logging_near_ofice_nandanam6.jpg",
+  "credit": "Photo: Vijayingarsal / Wikimedia Commons",
+  "licence": "CC0",
+  "alt": "People wade through a waterlogged street in Chennai during heavy rain (file photo)",
+  "alt_hi": "भारी बारिश के दौरान चेन्नई की जलमग्न सड़क से गुजरते लोग (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Chennai_flood_water_logging_near_ofice_nandanam6.jpg",
+  "composite": [
+   "cx-cyclone-murasu-200-km-chennai-schools-shut-landfall-tonig-0"
+  ]
+ },
+ {
+  "id": "cx-cyclone-murasu-severe-storm-ongole-landfall-tonight-imd-0",
+  "articleId": "part:cyclone-murasu-severe-storm-ongole-landfall-tonight-imd:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/An_old_House_after_Cyclone_Hudhud_at_Bheemunipatnam.jpg/1600px-An_old_House_after_Cyclone_Hudhud_at_Bheemunipatnam.jpg",
+  "credit": "Adityamadhav83",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:An_old_House_after_Cyclone_Hudhud_at_Bheemunipatnam.jpg"
+ },
+ {
+  "id": "x-cyclone-murasu-severe-storm-ongole-landfall-tonight-imd",
+  "articleId": "cyclone-murasu-severe-storm-ongole-landfall-tonight-imd",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/An_old_House_after_Cyclone_Hudhud_at_Bheemunipatnam.jpg/1600px-An_old_House_after_Cyclone_Hudhud_at_Bheemunipatnam.jpg",
+  "credit": "Photo: Adityamadhav83 / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "A house wrecked by Cyclone Hudhud in Andhra Pradesh (file photo)",
+  "alt_hi": "आंध्र प्रदेश में चक्रवात हुदहुद से तबाह एक मकान (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:An_old_House_after_Cyclone_Hudhud_at_Bheemunipatnam.jpg",
+  "composite": [
+   "cx-cyclone-murasu-severe-storm-ongole-landfall-tonight-imd-0"
+  ]
+ },
+ {
+  "id": "cx-delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-202-0",
+  "articleId": "part:delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Poulluted_killer_fog_in_Delhi.jpg/1600px-Poulluted_killer_fog_in_Delhi.jpg",
+  "credit": "Sumitmpsd",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Poulluted_killer_fog_in_Delhi.jpg"
+ },
+ {
+  "id": "x-delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023",
+  "articleId": "delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Poulluted_killer_fog_in_Delhi.jpg/1600px-Poulluted_killer_fog_in_Delhi.jpg",
+  "credit": "Photo: Sumitmpsd / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "A building wrapped in thick smog in Delhi (file photo)",
+  "alt_hi": "दिल्ली में घने स्मॉग में लिपटी एक इमारत (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Poulluted_killer_fog_in_Delhi.jpg",
+  "composite": [
+   "cx-delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-202-0"
+  ]
+ },
+ {
+  "id": "cx-delhi-aqi-214-poor-sunday-morning-ncr-moderate-0",
+  "articleId": "part:delhi-aqi-214-poor-sunday-morning-ncr-moderate:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Smog_in_Dehli_edited.jpg/1600px-Smog_in_Dehli_edited.jpg",
+  "credit": "wili hybrid",
+  "licence": "CC BY-SA 3.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Smog_in_Dehli_edited.jpg"
+ },
+ {
+  "id": "x-delhi-aqi-214-poor-sunday-morning-ncr-moderate",
+  "articleId": "delhi-aqi-214-poor-sunday-morning-ncr-moderate",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Smog_in_Dehli_edited.jpg/1600px-Smog_in_Dehli_edited.jpg",
+  "credit": "Photo: wili hybrid / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Smog over central Delhi (file photo)",
+  "alt_hi": "मध्य दिल्ली पर छाया स्मॉग (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Smog_in_Dehli_edited.jpg",
+  "composite": [
+   "cx-delhi-aqi-214-poor-sunday-morning-ncr-moderate-0"
+  ]
+ },
+ {
+  "id": "cx-delhi-aqi-167-rain-sunday-iit-delhi-245-0",
+  "articleId": "part:delhi-aqi-167-rain-sunday-iit-delhi-245:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Polluted_sunrise_in_Delhi.jpg/1600px-Polluted_sunrise_in_Delhi.jpg",
+  "credit": "Jay.Jarosz",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Polluted_sunrise_in_Delhi.jpg"
+ },
+ {
+  "id": "x-delhi-aqi-167-rain-sunday-iit-delhi-245",
+  "articleId": "delhi-aqi-167-rain-sunday-iit-delhi-245",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Polluted_sunrise_in_Delhi.jpg/1600px-Polluted_sunrise_in_Delhi.jpg",
+  "credit": "Photo: Jay.Jarosz / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The sun rises through polluted air in Delhi (file photo)",
+  "alt_hi": "दिल्ली में प्रदूषित हवा के बीच उगता सूरज (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Polluted_sunrise_in_Delhi.jpg",
+  "composite": [
+   "cx-delhi-aqi-167-rain-sunday-iit-delhi-245-0"
+  ]
+ },
+ {
+  "id": "cx-cyclone-arnab-deep-depression-imd-landfall-bapatla-visakh-0",
+  "articleId": "part:cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Tropical_Cyclone_Michaung_%28MODIS%29.jpg/1600px-Tropical_Cyclone_Michaung_%28MODIS%29.jpg",
+  "credit": "MODIS Land Rapid Response Team, NASA GSFC",
+  "licence": "Public domain",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Tropical_Cyclone_Michaung_(MODIS).jpg"
+ },
+ {
+  "id": "x-cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapa",
+  "articleId": "cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Tropical_Cyclone_Michaung_%28MODIS%29.jpg/1600px-Tropical_Cyclone_Michaung_%28MODIS%29.jpg",
+  "credit": "Photo: MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "A cyclone over the Bay of Bengal seen from space (file photo)",
+  "alt_hi": "अंतरिक्ष से दिखता बंगाल की खाड़ी पर एक चक्रवात (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Tropical_Cyclone_Michaung_(MODIS).jpg",
+  "composite": [
+   "cx-cyclone-arnab-deep-depression-imd-landfall-bapatla-visakh-0"
+  ]
+ },
+ {
+  "id": "cx-puducherry-karaikal-dindigul-schools-shut-cyclone-signal-0",
+  "articleId": "part:puducherry-karaikal-dindigul-schools-shut-cyclone-signal:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/India_-_Colours_of_India_-_Brightly_clad_SHG_marching_despite_the_rain_%282485978224%29.jpg/1600px-India_-_Colours_of_India_-_Brightly_clad_SHG_marching_despite_the_rain_%282485978224%29.jpg",
+  "credit": "McKay Savage from London, UK",
+  "licence": "CC BY 2.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:India_-_Colours_of_India_-_Brightly_clad_SHG_marching_despite_the_rain_(2485978224).jpg"
+ },
+ {
+  "id": "x-puducherry-karaikal-dindigul-schools-shut-cyclone-signal",
+  "articleId": "puducherry-karaikal-dindigul-schools-shut-cyclone-signal",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/India_-_Colours_of_India_-_Brightly_clad_SHG_marching_despite_the_rain_%282485978224%29.jpg/1600px-India_-_Colours_of_India_-_Brightly_clad_SHG_marching_despite_the_rain_%282485978224%29.jpg",
+  "credit": "Photo: McKay Savage from London, UK / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Women walk with umbrellas through rain in Tamil Nadu (file photo)",
+  "alt_hi": "तमिलनाडु में बारिश के बीच छाते लेकर चलती महिलाएं (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:India_-_Colours_of_India_-_Brightly_clad_SHG_marching_despite_the_rain_(2485978224).jpg",
+  "composite": [
+   "cx-puducherry-karaikal-dindigul-schools-shut-cyclone-signal-0"
+  ]
+ },
+ {
+  "id": "cx-delhi-rain-no-fix-pollution-experts-grap-stage-one-0",
+  "articleId": "part:delhi-rain-no-fix-pollution-experts-grap-stage-one:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Delhi%2C_India%2C_Rain%2C_Street_at_night.jpg/1600px-Delhi%2C_India%2C_Rain%2C_Street_at_night.jpg",
+  "credit": "Vyacheslav Argenberg",
+  "licence": "CC BY 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Delhi,_India,_Rain,_Street_at_night.jpg"
+ },
+ {
+  "id": "x-delhi-rain-no-fix-pollution-experts-grap-stage-one",
+  "articleId": "delhi-rain-no-fix-pollution-experts-grap-stage-one",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Delhi%2C_India%2C_Rain%2C_Street_at_night.jpg/1600px-Delhi%2C_India%2C_Rain%2C_Street_at_night.jpg",
+  "credit": "Photo: Vyacheslav Argenberg / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "A rain-washed street in Delhi at night (file photo)",
+  "alt_hi": "रात में बारिश से भीगी दिल्ली की एक सड़क (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Delhi,_India,_Rain,_Street_at_night.jpg",
+  "composite": [
+   "cx-delhi-rain-no-fix-pollution-experts-grap-stage-one-0"
+  ]
+ },
+ {
+  "id": "cx-tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depressio-0",
+  "articleId": "part:tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depression:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Chennai_floods_Dec_2005.jpg/1600px-Chennai_floods_Dec_2005.jpg",
+  "credit": "MPVK",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Chennai_floods_Dec_2005.jpg"
+ },
+ {
+  "id": "x-tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depression",
+  "articleId": "tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depression",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Chennai_floods_Dec_2005.jpg/1600px-Chennai_floods_Dec_2005.jpg",
+  "credit": "Photo: MPVK / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Vendors push a cart through floodwater in Chennai (file photo)",
+  "alt_hi": "चेन्नई में बाढ़ के पानी से ठेला निकालते लोग (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Chennai_floods_Dec_2005.jpg",
+  "composite": [
+   "cx-tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depressio-0"
+  ]
+ },
+ {
+  "id": "cx-punjab-farm-fires-574-tarn-taran-amritsar-cheema-sirsa-0",
+  "articleId": "part:punjab-farm-fires-574-tarn-taran-amritsar-cheema-sirsa:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/NP_India_burning_48_%286315309342%29.jpg",
+  "credit": "CIAT",
+  "licence": "CC BY-SA 2.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:NP_India_burning_48_(6315309342).jpg"
+ },
+ {
+  "id": "x-punjab-farm-fires-574-tarn-taran-amritsar-cheema-sirsa",
+  "articleId": "punjab-farm-fires-574-tarn-taran-amritsar-cheema-sirsa",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/NP_India_burning_48_%286315309342%29.jpg",
+  "credit": "Photo: CIAT / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "Farmers burn crop stubble in a field in north India (file photo)",
+  "alt_hi": "उत्तर भारत में खेत में पराली जलाते किसान (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:NP_India_burning_48_(6315309342).jpg",
+  "composite": [
+   "cx-punjab-farm-fires-574-tarn-taran-amritsar-cheema-sirsa-0"
+  ]
+ },
+ {
+  "id": "cx-karnataka-heavy-rain-forecast-south-bengaluru-24-degrees-0",
+  "articleId": "part:karnataka-heavy-rain-forecast-south-bengaluru-24-degrees:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Rain_in_RR_Nagar%2C_Bangalore_%282024%29.jpg/1600px-Rain_in_RR_Nagar%2C_Bangalore_%282024%29.jpg",
+  "credit": "Gpkp",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Rain_in_RR_Nagar,_Bangalore_(2024).jpg"
+ },
+ {
+  "id": "x-karnataka-heavy-rain-forecast-south-bengaluru-24-degrees",
+  "articleId": "karnataka-heavy-rain-forecast-south-bengaluru-24-degrees",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Rain_in_RR_Nagar%2C_Bangalore_%282024%29.jpg/1600px-Rain_in_RR_Nagar%2C_Bangalore_%282024%29.jpg",
+  "credit": "Photo: Gpkp / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Rain over RR Nagar in Bengaluru (file photo)",
+  "alt_hi": "बेंगलुरु के आरआर नगर में बारिश (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Rain_in_RR_Nagar,_Bangalore_(2024).jpg",
+  "composite": [
+   "cx-karnataka-heavy-rain-forecast-south-bengaluru-24-degrees-0"
+  ]
+ },
+ {
+  "id": "cx-nilgiris-landslide-bus-driver-killed-passengers-escape-0",
+  "articleId": "part:nilgiris-landslide-bus-driver-killed-passengers-escape:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Clearing_rocks_after_a_landslide_%283803035281%29.jpg/1600px-Clearing_rocks_after_a_landslide_%283803035281%29.jpg",
+  "credit": "Kiran Jonnalagadda from Bangalore, India",
+  "licence": "CC BY-SA 2.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Clearing_rocks_after_a_landslide_(3803035281).jpg"
+ },
+ {
+  "id": "x-nilgiris-landslide-bus-driver-killed-passengers-escape",
+  "articleId": "nilgiris-landslide-bus-driver-killed-passengers-escape",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Clearing_rocks_after_a_landslide_%283803035281%29.jpg/1600px-Clearing_rocks_after_a_landslide_%283803035281%29.jpg",
+  "credit": "Photo: Kiran Jonnalagadda from Bangalore, India / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "Workers clear rocks from a mountain road after a landslide (file photo)",
+  "alt_hi": "भूस्खलन के बाद पहाड़ी सड़क से पत्थर हटाते मज़दूर (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Clearing_rocks_after_a_landslide_(3803035281).jpg",
+  "composite": [
+   "cx-nilgiris-landslide-bus-driver-killed-passengers-escape-0"
+  ]
+ },
+ {
+  "id": "cx-nairobi-16-storey-building-collapse-tear-gas-rescue-0",
+  "articleId": "part:nairobi-16-storey-building-collapse-tear-gas-rescue:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Kenya_Army_rescue_dog.jpg",
+  "credit": "Alt.arm",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Kenya_Army_rescue_dog.jpg"
+ },
+ {
+  "id": "x-nairobi-16-storey-building-collapse-tear-gas-rescue",
+  "articleId": "nairobi-16-storey-building-collapse-tear-gas-rescue",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Kenya_Army_rescue_dog.jpg",
+  "credit": "Photo: Alt.arm / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Kenyan army rescuers and a sniffer dog at a collapsed building (file photo)",
+  "alt_hi": "ढही इमारत पर केन्या सेना के बचावकर्मी और खोजी कुत्ता (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Kenya_Army_rescue_dog.jpg",
+  "composite": [
+   "cx-nairobi-16-storey-building-collapse-tear-gas-rescue-0"
+  ]
+ },
+ {
+  "id": "cx-qinghai-zadoi-earthquake-5-3-days-after-tibet-quake-0",
+  "articleId": "part:qinghai-zadoi-earthquake-5-3-days-after-tibet-quake:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/2025_Tibet_earthquake_aftermath.png/1600px-2025_Tibet_earthquake_aftermath.png",
+  "credit": "China News Service",
+  "licence": "CC BY 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:2025_Tibet_earthquake_aftermath.png"
+ },
+ {
+  "id": "x-qinghai-zadoi-earthquake-5-3-days-after-tibet-quake",
+  "articleId": "qinghai-zadoi-earthquake-5-3-days-after-tibet-quake",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/2025_Tibet_earthquake_aftermath.png/1600px-2025_Tibet_earthquake_aftermath.png",
+  "credit": "Photo: China News Service / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "Buildings flattened by the 2025 Tibet earthquake (file photo)",
+  "alt_hi": "2025 के तिब्बत भूकंप में ढही इमारतें (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:2025_Tibet_earthquake_aftermath.png",
+  "composite": [
+   "cx-qinghai-zadoi-earthquake-5-3-days-after-tibet-quake-0"
+  ]
+ },
+ {
+  "id": "cx-russia-ukraine-overnight-strikes-vinnytsia-belgorod-bryan-0",
+  "articleId": "part:russia-ukraine-overnight-strikes-vinnytsia-belgorod-bryansk-perm:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Vinnytsia_after_Russian_shelling%2C_2022-07-14_%2802%29.jpg",
+  "credit": "State Emergency Service of Ukraine",
+  "licence": "CC BY 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Vinnytsia_after_Russian_shelling,_2022-07-14_(02).jpg"
+ },
+ {
+  "id": "x-russia-ukraine-overnight-strikes-vinnytsia-belgorod-bryansk-",
+  "articleId": "russia-ukraine-overnight-strikes-vinnytsia-belgorod-bryansk-perm",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Vinnytsia_after_Russian_shelling%2C_2022-07-14_%2802%29.jpg",
+  "credit": "Photo: State Emergency Service of Ukraine / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "Firefighters at burning cars after Russian shelling in Vinnytsia (file photo)",
+  "alt_hi": "विन्नित्सिया में रूसी हमले के बाद जलती कारों के पास दमकलकर्मी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Vinnytsia_after_Russian_shelling,_2022-07-14_(02).jpg",
+  "composite": [
+   "cx-russia-ukraine-overnight-strikes-vinnytsia-belgorod-bryan-0"
+  ]
+ },
+ {
+  "id": "cx-crimea-blackout-russia-ukraine-strikes-oleshky-ceasefire-0",
+  "articleId": "part:crimea-blackout-russia-ukraine-strikes-oleshky-ceasefire:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/No_light_in_houses_during_blackouts_in_Ukraine..jpg/1600px-No_light_in_houses_during_blackouts_in_Ukraine..jpg",
+  "credit": "Alex Blokha",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:No_light_in_houses_during_blackouts_in_Ukraine..jpg"
+ },
+ {
+  "id": "x-crimea-blackout-russia-ukraine-strikes-oleshky-ceasefire",
+  "articleId": "crimea-blackout-russia-ukraine-strikes-oleshky-ceasefire",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/No_light_in_houses_during_blackouts_in_Ukraine..jpg/1600px-No_light_in_houses_during_blackouts_in_Ukraine..jpg",
+  "credit": "Photo: Alex Blokha / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Houses without power during a blackout in Ukraine (file photo)",
+  "alt_hi": "यूक्रेन में ब्लैकआउट के दौरान बिना बिजली के मकान (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:No_light_in_houses_during_blackouts_in_Ukraine..jpg",
+  "composite": [
+   "cx-crimea-blackout-russia-ukraine-strikes-oleshky-ceasefire-0"
+  ]
+ },
+ {
+  "id": "cx-houthi-missiles-riyadh-taif-yanbu-saudi-alerts-makkah-jed-0",
+  "articleId": "part:houthi-missiles-riyadh-taif-yanbu-saudi-alerts-makkah-jeddah:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flickr_-_Government_Press_Office_%28GPO%29_-_Patriot_missiles_being_launched_to_intercept_an_Iraqi_Scud_missile.jpg/1600px-Flickr_-_Government_Press_Office_%28GPO%29_-_Patriot_missiles_being_launched_to_intercept_an_Iraqi_Scud_missile.jpg",
+  "credit": "https://www.flickr.com/people/69061470@N05",
+  "licence": "CC BY-SA 3.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Flickr_-_Government_Press_Office_(GPO)_-_Patriot_missiles_being_launched_to_intercept_an_Iraqi_Scud_missile.jpg"
+ },
+ {
+  "id": "x-houthi-missiles-riyadh-taif-yanbu-saudi-alerts-makkah-jeddah",
+  "articleId": "houthi-missiles-riyadh-taif-yanbu-saudi-alerts-makkah-jeddah",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flickr_-_Government_Press_Office_%28GPO%29_-_Patriot_missiles_being_launched_to_intercept_an_Iraqi_Scud_missile.jpg/1600px-Flickr_-_Government_Press_Office_%28GPO%29_-_Patriot_missiles_being_launched_to_intercept_an_Iraqi_Scud_missile.jpg",
+  "credit": "Photo: https://www.flickr.com/people/69061470@N05 / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Air defence interceptors streak across the night sky (file photo)",
+  "alt_hi": "रात के आसमान में दिखती एयर डिफेंस मिसाइलें (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Flickr_-_Government_Press_Office_(GPO)_-_Patriot_missiles_being_launched_to_intercept_an_Iraqi_Scud_missile.jpg",
+  "composite": [
+   "cx-houthi-missiles-riyadh-taif-yanbu-saudi-alerts-makkah-jed-0"
+  ]
+ },
+ {
+  "id": "cx-gaza-five-killed-saturday-khan-younis-beit-lahia-0",
+  "articleId": "part:gaza-five-killed-saturday-khan-younis-beit-lahia:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Women_weep_at_the_destruction_of_Khan_Younis_camp_in_Gaza_during_the_second_intifada.jpg",
+  "credit": "Adnan Abu Hasna",
+  "licence": "CC BY-SA 3.0 igo",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Women_weep_at_the_destruction_of_Khan_Younis_camp_in_Gaza_during_the_second_intifada.jpg"
+ },
+ {
+  "id": "x-gaza-five-killed-saturday-khan-younis-beit-lahia",
+  "articleId": "gaza-five-killed-saturday-khan-younis-beit-lahia",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Women_weep_at_the_destruction_of_Khan_Younis_camp_in_Gaza_during_the_second_intifada.jpg",
+  "credit": "Photo: Adnan Abu Hasna / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0 igo",
+  "alt": "Women weep amid the destruction in Khan Younis (file photo)",
+  "alt_hi": "खान यूनिस में तबाही के बीच रोती महिलाएं (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Women_weep_at_the_destruction_of_Khan_Younis_camp_in_Gaza_during_the_second_intifada.jpg",
+  "composite": [
+   "cx-gaza-five-killed-saturday-khan-younis-beit-lahia-0"
+  ]
+ },
+ {
+  "id": "cx-gaza-city-strike-kills-one-1500-dead-since-ceasefire-0",
+  "articleId": "part:gaza-city-strike-kills-one-1500-dead-since-ceasefire:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Damage_in_Gaza_Strip_during_the_October_2023_-_29.jpg/1600px-Damage_in_Gaza_Strip_during_the_October_2023_-_29.jpg",
+  "credit": "WAFA in contract with a local company (APAimages)‏‏",
+  "licence": "CC BY-SA 3.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Damage_in_Gaza_Strip_during_the_October_2023_-_29.jpg"
+ },
+ {
+  "id": "x-gaza-city-strike-kills-one-1500-dead-since-ceasefire",
+  "articleId": "gaza-city-strike-kills-one-1500-dead-since-ceasefire",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Damage_in_Gaza_Strip_during_the_October_2023_-_29.jpg/1600px-Damage_in_Gaza_Strip_during_the_October_2023_-_29.jpg",
+  "credit": "Photo: WAFA in contract with a local company (APAimages)‏‏ / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Destroyed buildings in the Gaza Strip (file photo)",
+  "alt_hi": "गाज़ा पट्टी में तबाह इमारतें (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Damage_in_Gaza_Strip_during_the_October_2023_-_29.jpg",
+  "composite": [
+   "cx-gaza-city-strike-kills-one-1500-dead-since-ceasefire-0"
+  ]
+ },
+ {
+  "id": "cx-odisha-cancels-collectors-leave-schools-shut-cyclone-arna-0",
+  "articleId": "part:odisha-cancels-collectors-leave-schools-shut-cyclone-arnab:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Damages_by_Cyclone_fani_2.jpg/1600px-Damages_by_Cyclone_fani_2.jpg",
+  "credit": "Bikash Ojha",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Damages_by_Cyclone_fani_2.jpg"
+ },
+ {
+  "id": "x-odisha-cancels-collectors-leave-schools-shut-cyclone-arnab",
+  "articleId": "odisha-cancels-collectors-leave-schools-shut-cyclone-arnab",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Damages_by_Cyclone_fani_2.jpg/1600px-Damages_by_Cyclone_fani_2.jpg",
+  "credit": "Photo: Bikash Ojha / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Trees uprooted by Cyclone Fani in Odisha (file photo)",
+  "alt_hi": "ओडिशा में चक्रवात फणि से उखड़े पेड़ (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Damages_by_Cyclone_fani_2.jpg",
+  "composite": [
+   "cx-odisha-cancels-collectors-leave-schools-shut-cyclone-arna-0"
+  ]
+ },
+ {
+  "id": "cx-cyclone-arnab-depression-odisha-majhi-zero-casualties-and-0",
+  "articleId": "part:cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-landfall:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Maltipatpur_Bus_stand_after_cyclone_Fani.jpg",
+  "credit": "Government of Odisha",
+  "licence": "CC BY 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Maltipatpur_Bus_stand_after_cyclone_Fani.jpg"
+ },
+ {
+  "id": "x-cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra",
+  "articleId": "cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-landfall",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Maltipatpur_Bus_stand_after_cyclone_Fani.jpg",
+  "credit": "Photo: Government of Odisha / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "Puri's Malatipatpur bus stand wrecked by Cyclone Fani (file photo)",
+  "alt_hi": "चक्रवात फणि से तबाह पुरी का मालतीपटपुर बस अड्डा (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Maltipatpur_Bus_stand_after_cyclone_Fani.jpg",
+  "composite": [
+   "cx-cyclone-arnab-depression-odisha-majhi-zero-casualties-and-0"
   ]
  }
 ]
