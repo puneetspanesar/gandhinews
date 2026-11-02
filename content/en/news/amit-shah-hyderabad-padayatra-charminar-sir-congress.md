@@ -20,7 +20,7 @@ hero:
   alt: "Union Home Minister Amit Shah and Congress leader Rahul Gandhi"
   overlay:
     value: "Shah takes the SIR fight to Hyderabad"
-related: [bjp-rohtak-padyatra-nabin-counter-india-bloc-rally, rahul-parrot-gyanesh-kumar-kharge-chori-ki-sarkar-ramlila, hyderabad-tank-bund-protest-sir-rollback-parakala-prabhakar, nabin-bjp-marches-bhagalpur-kolkata-arajakta-hatao]
+related: [bjp-rohtak-padyatra-nabin-counter-india-bloc-rally, rahul-parrot-gyanesh-kumar-kharge-chori-ki-sarkar-ramlila, hyderabad-tank-bund-protest-sir-rollback-parakala-prabhakar]
 seo:
   description: "Union Home Minister Amit Shah leads a BJP padayatra from Basheerbagh to Mozamjahi Market in Hyderabad on 2 November 2026 against what the party calls the Congress narrative on the SIR."
 sources:

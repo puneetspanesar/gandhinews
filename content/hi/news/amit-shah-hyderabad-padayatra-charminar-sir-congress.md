@@ -21,7 +21,7 @@ hero:
   alt: "केंद्रीय गृह मंत्री अमित शाह और कांग्रेस नेता राहुल गांधी"
   overlay:
     value: "एसआईआर की लड़ाई हैदराबाद की सड़कों पर"
-related: [bjp-rohtak-padyatra-nabin-counter-india-bloc-rally, rahul-parrot-gyanesh-kumar-kharge-chori-ki-sarkar-ramlila, hyderabad-tank-bund-protest-sir-rollback-parakala-prabhakar, nabin-bjp-marches-bhagalpur-kolkata-arajakta-hatao]
+related: [bjp-rohtak-padyatra-nabin-counter-india-bloc-rally, rahul-parrot-gyanesh-kumar-kharge-chori-ki-sarkar-ramlila, hyderabad-tank-bund-protest-sir-rollback-parakala-prabhakar]
 seo:
   description: "केंद्रीय गृह मंत्री अमित शाह 2 नवंबर 2026 को हैदराबाद में बशीरबाग से मोज़मजाही मार्केट तक भाजपा की पदयात्रा करेंगे, जिसे पार्टी एसआईआर पर कांग्रेस के नैरेटिव के खिलाफ अभियान बता रही है।"
 sources:
