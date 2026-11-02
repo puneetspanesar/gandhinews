@@ -73,10 +73,6 @@ Reliance runs **one of the world's biggest refining complexes**, at Jamnagar in 
 
 "Our O2C business delivered a particularly strong performance this quarter, led by tight fuel markets," **chairman Mukesh Ambani said**. The company also gained from higher chemical prices, with the polyester chain margin at a three-year high.
 
-```photo
-{"n":1,"subject":"Mukesh Ambani","caption":"Reliance chairman Mukesh Ambani credited tight fuel markets for the oil-to-chemicals surge.","alt":"Reliance Industries chairman Mukesh Ambani"}
-```
-
 That one division explains most of the group's jump. Group EBITDA rose 24% to ₹62,409 crore and **profit to shareholders rose 41%** to ₹25,548 crore, even as Reliance Retail's profit fell. On Monday, the first trading day after the results, the shares rose as much as 6.22% to ₹1,237.30.
 
 ```infographic

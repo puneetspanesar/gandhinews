@@ -70,10 +70,6 @@ On 15 October 2025, a bench led by the then Chief Justice B R Gavai allowed gree
 
 The morning after Diwali, the capital's air quality index stood at **about 350, deep in the "very poor" band**. Thirty-six of the city's 38 monitoring stations were in the red, and Bawana crossed 400. Crackers were burst late into the night, well outside the permitted hours.
 
-```photo
-{"n":1,"subject":"B. R. Gavai","caption":"Former Chief Justice B R Gavai, whose bench allowed green crackers in Delhi-NCR for Diwali 2025 under conditions much like this year's.","alt":"Former Chief Justice of India B R Gavai"}
-```
-
 At a hearing on 12 October this year, the court's own amicus, Senior Advocate Aparajita Singh, put it bluntly. Time limits, she said, "sound nice" but are not enforced. "Year after year, we see the same playbook getting repeated."
 
 ## The fair objection

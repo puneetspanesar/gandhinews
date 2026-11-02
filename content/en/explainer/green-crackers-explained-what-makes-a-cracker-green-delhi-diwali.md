@@ -61,10 +61,6 @@ It is a firecracker made to **a cleaner recipe developed by government scientist
 
 Ordinary crackers get their colour and bang from compounds of metals such as barium, strontium and copper, which end up in the air people breathe. Green crackers **leave out barium compounds altogether**, cut the use of aluminium and thermite, and use potassium nitrate instead. They also have smaller shells and carry dust suppressants.
 
-```photo
-{"n":1,"subject":"National Environmental Engineering Research Institute","caption":"CSIR-NEERI in Nagpur developed the green cracker formulas and certifies the products that can be sold.","alt":"The National Environmental Engineering Research Institute campus in Nagpur"}
-```
-
 ## How much cleaner are they?
 
 The design target is **at least 30% less pollution**: lower emissions of fine particles (PM), sulphur dioxide and nitrogen dioxide than a conventional cracker of the same kind. NEERI has three main families. SWAS releases water vapour to hold down dust and cuts particulate matter by 30 to 35%. STAR uses a modified thermite and cuts sulphur dioxide and nitrogen dioxide by 20 to 30%, with less noise. SAFAL swaps most of the aluminium for magnesium and cuts metal and particle emissions by 30 to 35%. Newer versions claim a 45 to 60% fall in PM10.
