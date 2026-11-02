@@ -60,8 +60,4 @@ The Tenth Schedule, the anti-defection law, covers independents as well as party
 
 The Saran teachers' seat was one of eight Council seats that went to the polls on 23 October. It was a messy contest for the ruling alliance. The NDA had fielded Anand Pushkar of the Janata Dal (United), while Ram Pukar Sinha of the Rashtriya Lok Morcha ran as an independent against him and was **suspended by his party for six years**.
 
-```photo
-{"n":2,"subject":"Constitution of India","caption":"The Constitution of India, whose Tenth Schedule on defection Alok Kumar Mehta cited.","alt":"The original manuscript of the Constitution of India"}
-```
-
 Neither Rahul Raj, Brajwasi nor the BJP had responded to Mehta's demand by Monday night.

@@ -86,6 +86,61 @@
   "briefing": {
     "items": [
       {
+        "link": "india-thrash-south-korea-8-0-asian-champions-trophy-jalandhar",
+        "lead": {
+          "en": "Hockey:",
+          "hi": "हॉकी:"
+        },
+        "text": {
+          "en": "India beat South Korea 8-0, stay unbeaten.",
+          "hi": "भारत ने दक्षिण कोरिया को 8-0 से हराया, अजेय रहा।"
+        }
+      },
+      {
+        "link": "alok-mehta-rjd-disqualify-bihar-mlcs-rahul-raj-brajwasi-bjp",
+        "lead": {
+          "en": "RJD:",
+          "hi": "राजद:"
+        },
+        "text": {
+          "en": "Alok Mehta wants two Bihar MLCs who joined BJP disqualified.",
+          "hi": "आलोक मेहता ने भाजपा में गए दो एमएलसी की सदस्यता रद्द करने की मांग की।"
+        }
+      },
+      {
+        "link": "wall-street-opens-higher-dow-403-oil-slides-midterms-eve",
+        "lead": {
+          "en": "Wall Street:",
+          "hi": "वॉल स्ट्रीट:"
+        },
+        "text": {
+          "en": "Dow opens 403 points higher on midterms eve.",
+          "hi": "मध्यावधि चुनाव से पहले डाउ 403 अंक ऊपर खुला।"
+        }
+      },
+      {
+        "link": "suvendu-sir-remove-infiltrators-esplanade-kolkata-howrah-polls",
+        "lead": {
+          "en": "Suvendu:",
+          "hi": "शुभेंदु:"
+        },
+        "text": {
+          "en": "SIR means \"remove infiltrators\", he tells Kolkata march.",
+          "hi": "कोलकाता मार्च में बोले, एसआईआर का मतलब \"घुसपैठिए हटाओ\"।"
+        }
+      },
+      {
+        "link": "oil-falls-4-per-cent-brent-108-iran-draft-proposal-qatar",
+        "lead": {
+          "en": "Oil:",
+          "hi": "तेल:"
+        },
+        "text": {
+          "en": "Brent falls over 4% on Iran draft deal hopes.",
+          "hi": "ईरान समझौते के मसौदे की उम्मीद में ब्रेंट 4% से ज़्यादा गिरा।"
+        }
+      },
+      {
         "link": "tata-investment-q2-profit-falls-22-per-cent",
         "lead": {
           "en": "Tata Investment:",
@@ -116,61 +171,6 @@
         "text": {
           "en": "Sharad Pawar admitted to Pune hospital, condition stable.",
           "hi": "शरद पवार पुणे के अस्पताल में भर्ती, हालत स्थिर।"
-        }
-      },
-      {
-        "link": "itc-q2-profit-falls-18-per-cent-revenue-44-per-cent",
-        "lead": {
-          "en": "ITC:",
-          "hi": "आईटीसी:"
-        },
-        "text": {
-          "en": "Quarterly profit falls 18% as revenue jumps 44%.",
-          "hi": "तिमाही मुनाफ़ा 18% घटा, आय 44% बढ़ी।"
-        }
-      },
-      {
-        "link": "vikram-misri-kathmandu-visit-november-4-5-balendra-shah",
-        "lead": {
-          "en": "Nepal:",
-          "hi": "नेपाल:"
-        },
-        "text": {
-          "en": "Foreign Secretary Misri to visit Kathmandu on 4 and 5 November.",
-          "hi": "विदेश सचिव मिस्री 4 और 5 नवंबर को काठमांडू जाएंगे।"
-        }
-      },
-      {
-        "link": "india-a-rising-stars-asia-cup-squad-tilak-varma-captain-doha",
-        "lead": {
-          "en": "India A:",
-          "hi": "इंडिया ए:"
-        },
-        "text": {
-          "en": "Tilak Varma to lead the Rising Stars Asia Cup squad.",
-          "hi": "राइजिंग स्टार्स एशिया कप में तिलक वर्मा कप्तान।"
-        }
-      },
-      {
-        "link": "mumbai-247-6-railways-ranji-day-one-sangwan-three-sarfaraz",
-        "lead": {
-          "en": "Ranji:",
-          "hi": "रणजी:"
-        },
-        "text": {
-          "en": "Mumbai 247 for 6 on day one against Railways.",
-          "hi": "रेलवे के ख़िलाफ़ पहले दिन मुंबई 247 पर 6।"
-        }
-      },
-      {
-        "link": "amit-shah-revanth-telangana-atm-congress-evm-hyderabad",
-        "lead": {
-          "en": "Telangana:",
-          "hi": "तेलंगाना:"
-        },
-        "text": {
-          "en": "Amit Shah says Revanth Reddy made the state an 'ATM' for Congress.",
-          "hi": "अमित शाह बोले, रेवंत रेड्डी ने राज्य को कांग्रेस का 'एटीएम' बना दिया।"
         }
       }
     ]
@@ -245,11 +245,11 @@
       ]
     },
     "list": [
+      "suvendu-sir-remove-infiltrators-esplanade-kolkata-howrah-polls",
+      "oil-falls-4-per-cent-brent-108-iran-draft-proposal-qatar",
+      "india-thrash-south-korea-8-0-asian-champions-trophy-jalandhar",
       "tata-investment-q2-profit-falls-22-per-cent",
-      "fii-net-buyers-3115-crore-dii-sell-reliance-rally-november-2",
-      "sharad-pawar-ruby-hall-clinic-pune-cough-chest-pain",
-      "itc-q2-profit-falls-18-per-cent-revenue-44-per-cent",
-      "vikram-misri-kathmandu-visit-november-4-5-balendra-shah"
+      "fii-net-buyers-3115-crore-dii-sell-reliance-rally-november-2"
     ],
     "also": [
       "reliance-shares-jump-6-per-cent-q2-profit-o2c-jio",
@@ -429,10 +429,10 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "suvendu-sir-remove-infiltrators-esplanade-kolkata-howrah-polls",
+        "alok-mehta-rjd-disqualify-bihar-mlcs-rahul-raj-brajwasi-bjp",
         "sharad-pawar-ruby-hall-clinic-pune-cough-chest-pain",
-        "amit-shah-special-session-sir-dares-rahul-mock-parliament",
-        "imran-khan-unconditional-apology-bombay-high-court-oci-sir-protest",
-        "sambit-patra-varanasi-sir-deletion-not-theft-13-crore"
+        "amit-shah-special-session-sir-dares-rahul-mock-parliament"
       ],
       "lead": "amit-shah-revanth-telangana-atm-congress-evm-hyderabad"
     },
@@ -449,10 +449,10 @@
         ]
       },
       "list": [
+        "oil-falls-4-per-cent-brent-108-iran-draft-proposal-qatar",
+        "wall-street-opens-higher-dow-403-oil-slides-midterms-eve",
         "tata-investment-q2-profit-falls-22-per-cent",
-        "fii-net-buyers-3115-crore-dii-sell-reliance-rally-november-2",
-        "itc-q2-profit-falls-18-per-cent-revenue-44-per-cent",
-        "concor-q2-profit-falls-7-per-cent-second-interim-dividend"
+        "fii-net-buyers-3115-crore-dii-sell-reliance-rally-november-2"
       ]
     },
     {
@@ -507,12 +507,12 @@
     },
     {
       "section": "sports",
-      "lead": "mumbai-247-6-railways-ranji-day-one-sangwan-three-sarfaraz",
+      "lead": "india-thrash-south-korea-8-0-asian-champions-trophy-jalandhar",
       "list": [
+        "mumbai-247-6-railways-ranji-day-one-sangwan-three-sarfaraz",
         "india-a-rising-stars-asia-cup-squad-tilak-varma-captain-doha",
         "harsh-dubey-9-53-vidarbha-record-madhya-pradesh-209-ranji-nagpur",
-        "mayank-agarwal-fifty-karnataka-lead-assam-stumps-ranji-guwahati",
-        "bengal-143-porel-shami-bad-light-maharashtra-eden"
+        "mayank-agarwal-fifty-karnataka-lead-assam-stumps-ranji-guwahati"
       ]
     }
   ],
