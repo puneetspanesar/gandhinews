@@ -32,7 +32,7 @@ _session = None
 
 
 def font(lang, size, bold=True):
-    if lang == 'hi':
+    if lang == 'hi' or lang == 'rs':
         f = ImageFont.truetype(FONTS + 'NotoSansDevanagari.ttf', size, layout_engine=ImageFont.Layout.RAQM)
         try: f.set_variation_by_axes([700 if bold else 500, 100])  # axes: weight, width
         except Exception: pass
@@ -205,7 +205,7 @@ def text_block(canvas, lang, label, headline):
     x, maxw = 248, W - 248 - 40
     up = (lambda s: s.upper()) if lang == 'en' else (lambda s: s)
     for size in (60, 54, 48, 44):
-        f = font(lang, size)
+        f = font('rs' if '₹' in headline and lang == 'en' else lang, size)
         lines = wrap(d, up(headline), f, maxw)
         if len(lines) <= 2: break
     lh = int(size * (1.05 if lang == 'en' else 1.25))
@@ -270,7 +270,7 @@ def make(sid, raw, spec, lang, people, bgp, insetp, panels=None):
         d = ImageDraw.Draw(c); y = 96
         for it in spec['data'][:3]:
             c.alpha_composite(icon(it.get('icon', 'trend-up'), 48), (48, y + 8))
-            d.text((112, y), it['value'], font=font(lang, 40), fill=(255, 255, 255, 255))
+            d.text((112, y), it['value'], font=font('rs' if '₹' in it['value'] else lang, 40), fill=(255, 255, 255, 255))
             d.text((112, y + 50), it['label'], font=font(lang, 22, bold=False), fill=(255, 255, 255, 255))
             y += 114
     mark(c)
@@ -329,8 +329,15 @@ def main():
         if os.path.exists(comp) and people and not own:
             ci = Image.open(comp).convert('RGB'); n = len(people); pw = (ci.width - 6 * (n - 1)) // n
             panels = [ci.crop((i * (pw + 6), 0, i * (pw + 6) + pw, ci.height)) for i in range(n)]
+        if not people and os.path.exists(f"{R}public{M[sid]['src']}"):
+            # Raw parts not downloaded in this session: use the story's checked picture, panel by panel.
+            ci = Image.open(f"{R}public{M[sid]['src']}").convert('RGB')
+            n = max(1, len([p for p in P if p['articleId'] == sid][0].get('composite') or [1]))
+            pw = (ci.width - 6 * (n - 1)) // n
+            people = [ci.crop((i * (pw + 6), 0, i * (pw + 6) + pw, ci.height)) for i in range(n)]
         if not people: print('no people parts in raw for', sid); continue
-        bg = raw_parts(P, f'{sid}--bg', raw); ins = raw_parts(P, f'{sid}--in', raw)
+        pub = lambda k: [f"{R}public{M[k]['src']}"] if k in M and os.path.exists(f"{R}public{M[k]['src']}") else []
+        bg = raw_parts(P, f'{sid}--bg', raw) or pub(f'{sid}--bg'); ins = raw_parts(P, f'{sid}--in', raw) or pub(f'{sid}--in')
         cov = {}
         for lang, spec in [('en', en), ('hi', {**en, **{k: v for k, v in hi.items() if v}})]:
             if lang == 'hi' and not hi.get('headline'): continue
