@@ -34962,28 +34962,6 @@
   ]
  },
  {
-  "id": "cx-milne-four-wickets-india-191-new-zealand-chase-hamilton-0",
-  "articleId": "part:milne-four-wickets-india-191-new-zealand-chase-hamilton:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/1_03_Blair_Tickner.jpg",
-  "credit": "Dave Morton",
-  "licence": "Public domain",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:1_03_Blair_Tickner.jpg"
- },
- {
-  "id": "x-milne-four-wickets-india-191-new-zealand-chase-hamilton",
-  "articleId": "milne-four-wickets-india-191-new-zealand-chase-hamilton",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/1_03_Blair_Tickner.jpg",
-  "credit": "Photo: Dave Morton / Wikimedia Commons",
-  "licence": "Public domain",
-  "alt": "New Zealand fast bowler Blair Tickner (file photo)",
-  "alt_hi": "न्यूजीलैंड के तेज गेंदबाज ब्लेयर टिकनर (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:1_03_Blair_Tickner.jpg",
-  "composite": [
-   "cx-milne-four-wickets-india-191-new-zealand-chase-hamilton-0"
-  ]
- },
- {
   "id": "cx-nadda-anarchy-model-india-bloc-rally-sood-chaos--p2-0",
   "articleId": "part:nadda-anarchy-model-india-bloc-rally-sood-chaos--p2:0",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Chandni_Chowk_Temple_and_Red_Fort.jpg/1600px-Chandni_Chowk_Temple_and_Red_Fort.jpg",
@@ -40087,6 +40065,28 @@
   "page": "https://commons.wikimedia.org/wiki/File:Flickr_-_World_Economic_Forum_-_Ambani.jpg",
   "composite": [
    "cx-reliance-shares-jump-6-per-cent-q2-profit-o2c-jio-0"
+  ]
+ },
+ {
+  "id": "cx-milne-four-wickets-india-191-new-zealand-chase-hamilton-0",
+  "articleId": "part:milne-four-wickets-india-191-new-zealand-chase-hamilton:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/New_Zealand_cricket_team%2C_Shoaib_Malik%2C_Dunedin%2C_NZ%2C_2009_%28cropped%29.jpg",
+  "credit": "Benchill",
+  "licence": "CC BY-SA 3.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:New_Zealand_cricket_team,_Shoaib_Malik,_Dunedin,_NZ,_2009_(cropped).jpg"
+ },
+ {
+  "id": "x-milne-four-wickets-india-191-new-zealand-chase-hamilton",
+  "articleId": "milne-four-wickets-india-191-new-zealand-chase-hamilton",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/New_Zealand_cricket_team%2C_Shoaib_Malik%2C_Dunedin%2C_NZ%2C_2009_%28cropped%29.jpg",
+  "credit": "Photo: Benchill / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "New Zealand players celebrate a wicket (file photo)",
+  "alt_hi": "विकेट का जश्न मनाते न्यूज़ीलैंड के खिलाड़ी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:New_Zealand_cricket_team,_Shoaib_Malik,_Dunedin,_NZ,_2009_(cropped).jpg",
+  "composite": [
+   "cx-milne-four-wickets-india-191-new-zealand-chase-hamilton-0"
   ]
  }
 ]
