@@ -70,11 +70,11 @@
       "naidu-cyclone-murasu-review-cancels-delhi-visit"
     ],
     "relatedBeside": [
+      "sensex-jumps-970-nifty-23313-oil-reliance-open-november-2",
+      "reliance-shares-jump-6-per-cent-q2-profit-o2c-jio",
+      "cji-surya-kant-deoghar-baidyanath-legal-services-camp-today",
       "gift-nifty-gap-up-205-points-brent-110-asia-pares-losses",
-      "amit-shah-hyderabad-padayatra-charminar-sir-congress",
-      "kospi-turns-higher-samsung-sk-hynix-recover-chip-rout",
-      "supreme-court-ram-temple-trust-funds-probe-hearing-today",
-      "oil-slips-monday-brent-111-iran-qatar-talks-november-2"
+      "amit-shah-hyderabad-padayatra-charminar-sir-congress"
     ],
     "live": {
       "title": {
@@ -97,14 +97,36 @@
         }
       },
       {
-        "link": "gift-nifty-gap-up-205-points-brent-110-asia-pares-losses",
+        "link": "sensex-jumps-970-nifty-23313-oil-reliance-open-november-2",
         "lead": {
           "en": "Markets:",
           "hi": "बाज़ार:"
         },
         "text": {
-          "en": "GIFT Nifty points to a 200-point gap-up as Brent slides.",
-          "hi": "ब्रेंट फिसला, गिफ्ट निफ्टी 200 अंक की तेज़ शुरुआत का संकेत दे रहा।"
+          "en": "Sensex jumps 970 points, Nifty tops 23,300 as oil eases.",
+          "hi": "तेल नरम, सेंसेक्स 970 अंक उछला, निफ्टी 23,300 के पार।"
+        }
+      },
+      {
+        "link": "reliance-shares-jump-6-per-cent-q2-profit-o2c-jio",
+        "lead": {
+          "en": "Reliance:",
+          "hi": "रिलायंस:"
+        },
+        "text": {
+          "en": "Shares jump over 6% after a 41% profit rise.",
+          "hi": "41% मुनाफ़ा बढ़ने के बाद शेयर 6% से ज़्यादा चढ़े।"
+        }
+      },
+      {
+        "link": "cji-surya-kant-deoghar-baidyanath-legal-services-camp-today",
+        "lead": {
+          "en": "CJI:",
+          "hi": "सीजेआई:"
+        },
+        "text": {
+          "en": "Surya Kant in Deoghar for a state legal services camp.",
+          "hi": "राज्य विधिक सेवा शिविर के लिए सूर्यकांत देवघर में।"
         }
       },
       {
@@ -119,17 +141,6 @@
         }
       },
       {
-        "link": "kospi-turns-higher-samsung-sk-hynix-recover-chip-rout",
-        "lead": {
-          "en": "Seoul:",
-          "hi": "सियोल:"
-        },
-        "text": {
-          "en": "Kospi turns higher on Samsung and SK Hynix.",
-          "hi": "सैमसंग और एसके हाइनिक्स के दम पर कोस्पी चढ़ा।"
-        }
-      },
-      {
         "link": "supreme-court-ram-temple-trust-funds-probe-hearing-today",
         "lead": {
           "en": "Ram Temple:",
@@ -138,28 +149,6 @@
         "text": {
           "en": "Supreme Court hears pleas over Trust donations today.",
           "hi": "ट्रस्ट के चढ़ावे पर याचिकाओं की आज सुप्रीम कोर्ट में सुनवाई।"
-        }
-      },
-      {
-        "link": "india-manufacturing-pmi-october-final-due-flash-54-9",
-        "lead": {
-          "en": "PMI:",
-          "hi": "पीएमआई:"
-        },
-        "text": {
-          "en": "October factory PMI due today; flash reading 54.9.",
-          "hi": "अक्टूबर का फैक्ट्री पीएमआई आज; शुरुआती आंकड़ा 54.9।"
-        }
-      },
-      {
-        "link": "oil-slips-monday-brent-111-iran-qatar-talks-november-2",
-        "lead": {
-          "en": "Oil:",
-          "hi": "तेल:"
-        },
-        "text": {
-          "en": "Brent slips 1.4% to $111.84 as Iran-Qatar talks continue.",
-          "hi": "ईरान-कतर वार्ता जारी, ब्रेंट 1.4% गिरकर 111.84 डॉलर पर।"
         }
       },
       {
@@ -238,18 +227,18 @@
   },
   "topStories": {
     "big": {
-      "id": "amit-shah-hyderabad-padayatra-charminar-sir-congress",
+      "id": "sensex-jumps-970-nifty-23313-oil-reliance-open-november-2",
       "also": [
-        "gift-nifty-gap-up-205-points-brent-110-asia-pares-losses",
-        "kospi-turns-higher-samsung-sk-hynix-recover-chip-rout"
+        "reliance-shares-jump-6-per-cent-q2-profit-o2c-jio",
+        "gift-nifty-gap-up-205-points-brent-110-asia-pares-losses"
       ]
     },
     "list": [
-      "asia-open-nikkei-seen-down-oil-dalal-street-november-2",
+      "amit-shah-hyderabad-padayatra-charminar-sir-congress",
+      "cji-surya-kant-deoghar-baidyanath-legal-services-camp-today",
       "supreme-court-ram-temple-trust-funds-probe-hearing-today",
-      "oil-slips-monday-brent-111-iran-qatar-talks-november-2",
-      "antonelli-youngest-champion-mexico-verstappen-wins-hamilton-second",
-      "priyanshu-moliya-321-baroda-record-test-dream"
+      "railways-bowl-mumbai-ranji-round-four-cci-start",
+      "antonelli-youngest-champion-mexico-verstappen-wins-hamilton-second"
     ]
   },
   "startHere": [
@@ -425,6 +414,7 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "cji-surya-kant-deoghar-baidyanath-legal-services-camp-today",
         "supreme-court-ram-temple-trust-funds-probe-hearing-today",
         "justice-bhuyan-arbitrary-power-thrives-ignorance-fear-ustm",
         "supreme-court-senior-counsel-oral-mentioning-bar-from-today"
@@ -433,7 +423,7 @@
     },
     {
       "section": "economy",
-      "lead": "gift-nifty-gap-up-205-points-brent-110-asia-pares-losses",
+      "lead": "sensex-jumps-970-nifty-23313-oil-reliance-open-november-2",
       "module": {
         "type": "markets",
         "indicators": [
@@ -444,10 +434,10 @@
         ]
       },
       "list": [
+        "reliance-shares-jump-6-per-cent-q2-profit-o2c-jio",
+        "gift-nifty-gap-up-205-points-brent-110-asia-pares-losses",
         "asia-open-nikkei-seen-down-oil-dalal-street-november-2",
-        "oil-slips-monday-brent-111-iran-qatar-talks-november-2",
-        "india-manufacturing-pmi-october-final-due-flash-54-9",
-        "markets-week-ahead-us-midterms-itc-sbi-results-november-2"
+        "oil-slips-monday-brent-111-iran-qatar-talks-november-2"
       ]
     },
     {
@@ -504,10 +494,10 @@
       "section": "sports",
       "lead": "antonelli-youngest-champion-mexico-verstappen-wins-hamilton-second",
       "list": [
+        "india-south-korea-asian-champions-trophy-last-league-jalandhar-preview",
+        "railways-bowl-mumbai-ranji-round-four-cci-start",
         "priyanshu-moliya-321-baroda-record-test-dream",
-        "mumbai-railways-ranji-round-four-brabourne-preview",
-        "steelers-27-6-browns-warren-143-yards-rodgers",
-        "liverpool-0-1-arsenal-havertz-alisson-error-anfield"
+        "steelers-27-6-browns-warren-143-yards-rodgers"
       ]
     }
   ],
