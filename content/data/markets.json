@@ -270,44 +270,48 @@
   "gainers": [
    {
     "name": "Reliance Industries",
-    "pct": 7.68
+    "pct": 7.8
    },
    {
     "name": "Shriram Finance",
-    "pct": 5.12
+    "pct": 4.86
    },
    {
     "name": "Max Healthcare",
-    "pct": 4.61
-   },
-   {
-    "name": "Coal India",
-    "pct": 4.6
+    "pct": 4.67
    },
    {
     "name": "Tata Steel",
-    "pct": 4.43
+    "pct": 4.64
+   },
+   {
+    "name": "Coal India",
+    "pct": 4.22
    }
   ],
   "losers": [
    {
     "name": "Adani Ports",
-    "pct": -1.32
-   },
-   {
-    "name": "Infosys",
-    "pct": -1.29
-   },
-   {
-    "name": "ICICI Bank",
-    "pct": -0.88
+    "pct": -1.16
    },
    {
     "name": "Sun Pharma",
-    "pct": -0.74
+    "pct": -0.86
+   },
+   {
+    "name": "ICICI Bank",
+    "pct": -0.85
+   },
+   {
+    "name": "Infosys",
+    "pct": -0.71
+   },
+   {
+    "name": "Axis Bank",
+    "pct": -0.62
    }
   ],
-  "source": "HDFC Sky market ticker, 2 Nov, about 10:30 to 11:00 IST (Sensex/Nifty 50 movers)"
+  "source": "HDFC Sky gainers and losers table, 2 Nov 12:00 IST (published 12:16 IST)"
  },
  "sectors": [],
  "sectors_source": "IT, Auto, FMCG, Energy, Media: https://hdfcsky.com/news/weekly-stock-market-review-october-26-30-2026-nifty-reclaims-23053-as-pharma-surges-6-1percent-jio-platforms-lists-at-21percent-premium-fiis-return-with-rs3599-crore ; Pharma: https://www.5paisa.com/blog/post-market-update-sensex-nifty-rise-second-day-broader-markets-fall-october-30-2026 ; Consumer Durables: https://www.kotakneo.com/news/market-news/sensex-and-nifty-50-close-higher-amid-global-headwinds/ . Bank, Metal, Realty only described as 'down about 0.5%' and PSU Bank as 'down over 1%' (HDFC Sky daily report), so left null.",
@@ -321,6 +325,7 @@
  "notes": [
   "Seeded from research on October 31, 2026. Nifty Bank, euro, pound and some sector moves were not found in a reliable source and are left out.",
   "2 Nov 10:00 IST: Sensex, Nifty 50 and rupee from Business Standard live blog (10:00 and 09:01 IST); India VIX from HDFC Sky open report (data as of 09:24 IST); movers from Upstox (09:32 IST). Nifty IT and Nifty Midcap 150 still show the 30 October values; sector moves for today were not found in exact form and are hidden; gold, silver and G-sec yield keep their older values.",
-  "2 Nov 12:00 IST run: Sensex and Nifty 50 from EquityPandit (11:22 IST); India VIX 10:05 IST and movers (about 10:30 to 11:00 IST, four losers only found) from HDFC Sky; rupee and Brent from PTI morning copy. PTI gives the rupee's Friday close as 94.76, which differs from the earlier source. Nifty IT, Midcap 150, gold, silver and G-sec yield keep older values; sectors not found."
+  "2 Nov 12:00 IST run: Sensex and Nifty 50 from EquityPandit (11:22 IST); India VIX 10:05 IST and movers (about 10:30 to 11:00 IST, four losers only found) from HDFC Sky; rupee and Brent from PTI morning copy. PTI gives the rupee's Friday close as 94.76, which differs from the earlier source. Nifty IT, Midcap 150, gold, silver and G-sec yield keep older values; sectors not found.",
+  "2 Nov 13:00 IST run: movers updated from HDFC Sky 12:00 IST table. No Sensex, Nifty, rupee or Brent print newer than 11:22 IST was found in a readable source, so index and rate values are kept as they were."
  ]
 }
