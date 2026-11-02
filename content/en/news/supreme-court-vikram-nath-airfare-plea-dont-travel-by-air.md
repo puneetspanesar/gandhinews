@@ -63,6 +63,3 @@ Elsewhere in the building, a bench of Chief Justice Surya Kant and Justices Joym
 
 The same bench was also listed to hear petitions seeking a CBI probe into alleged theft of donations to the Ram temple in Ayodhya. Other benches had a plea by former Tamil Nadu minister **K N Nehru** against a Madras High Court direction to register a corruption FIR against him, and the continuing hearing on petitions seeking changes to the NEET examination run by the National Testing Agency.
 
-```photo
-{"n":2,"subject":"K. N. Nehru","caption":"Former Tamil Nadu minister K N Nehru, who has challenged a Madras High Court direction to register a corruption FIR against him.","alt":"Former Tamil Nadu minister K N Nehru"}
-```

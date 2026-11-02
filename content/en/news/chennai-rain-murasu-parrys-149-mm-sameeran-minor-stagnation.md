@@ -71,10 +71,6 @@ Rough waves pounded the city's beaches. Corporation Commissioner G S Sameeran in
 
 Only **two of the city's 22 subways** saw minor waterlogging, which was cleared quickly, and all of them stayed open. Pumps were draining the worst-hit streets and field teams with backup motors were posted at vulnerable spots. Sameeran said he was working with the city police on traffic and on the risk of wave surges along the coast.
 
-```photo
-{"n":1,"subject":"Besant Road, Chennai","caption":"Besant Road in Triplicane, where Commissioner G S Sameeran inspected waterlogging on Monday morning.","alt":"Besant Road in Triplicane, Chennai"}
-```
-
 Schools and colleges in Chennai are shut for the day under an orange alert for very heavy rain. Chennai airport has cancelled **11 IndiGo flights** to and from Vijayawada, Rajahmundry, Kadapa and Tiruchirappalli for the day.
 
 Murasu, now a severe cyclonic storm, is expected to cross the Andhra Pradesh coast between Nellore and Narsapur, close to Ongole, around midnight, with winds of 100 to 110 km/h gusting to 120 km/h.

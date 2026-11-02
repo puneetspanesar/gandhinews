@@ -78,8 +78,4 @@ The results, announced over the weekend, were strong. **Standalone net profit ro
 
 "We are also revising our gold loan growth guidance for FY27 upward by an additional 10%," the company's management said, taking the target to **25% from 15%**. Muthoot added 262 branches in the first half and expects a similar number in the second.
 
-```photo
-{"n":2,"subject":"Muthoot Finance branch","caption":"A Muthoot Finance branch. The company opened 262 new branches in the first half of the year.","alt":"A Muthoot Finance branch office (file photo)"}
-```
-
 Brokerages were split. Equirus Securities **upgraded the stock to "Add"** from "Reduce" with a target of ₹2,920, citing valuation comfort after a steep fall over six months, though it raised its credit cost estimate and flagged rising delinquencies. Nuvama kept a "Hold" rating and cut its target to ₹2,675 from ₹3,100, naming asset quality as the thing to watch.

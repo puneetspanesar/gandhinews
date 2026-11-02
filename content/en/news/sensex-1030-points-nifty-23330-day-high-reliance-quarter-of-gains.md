@@ -68,10 +68,6 @@ Indian shares **kept climbing through the morning** on Monday, with the Sensex s
 
 The Sensex rose **as much as 1,030 points, or 1.38%, to 75,489.70**, its third straight day of gains, while the Nifty 50 climbed up to 278 points, or 1.20%, to 23,330.70. Both indices had opened higher at 9:15 am and added to the gains in the first hour. The Nifty Midcap 100 and Smallcap 100 each rose about 0.9%.
 
-```photo
-{"n":1,"subject":"Tata Steel Jamshedpur","caption":"Tata Steel's works in Jamshedpur. Tata Steel rose more than 3% in early trade as metal stocks led the market.","alt":"Tata Steel plant at Jamshedpur, Jharkhand (file photo)"}
-```
-
 ## Reliance does the heavy lifting
 
 Reliance Industries, **up nearly 7%** after better-than-expected quarterly results, accounted for about 400 points, or roughly a quarter, of the Sensex rise. Delhivery jumped about 9%, and Muthoot Finance recovered about 9% from a 52-week low.

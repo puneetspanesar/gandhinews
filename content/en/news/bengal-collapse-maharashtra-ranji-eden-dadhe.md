@@ -63,17 +63,9 @@ Bengal, the unbeaten leaders of their group, **lost seven wickets inside 22 over
 
 Maharashtra captain Prithvi Shaw won the toss and chose to bowl, and his seamers made it look the right call almost at once. Rajvardhan Hangargekar removed Bengal captain **Abhimanyu Easwaran for 10** in the fourth over, caught by Sachin Dhas, with the score on 12.
 
-```photo
-{"n":1,"subject":"Abhimanyu Easwaran","caption":"Bengal captain Abhimanyu Easwaran, caught for 10 in the fourth over.","alt":"Bengal captain Abhimanyu Easwaran"}
-```
-
 Pradeep Dadhe then struck twice in three balls. Ankur Paul edged to Hitesh Walunj for 1, and Suraj Jaiswal went for a two-ball duck, again caught by Dhas, leaving Bengal **18 for 3 after five overs**.
 
 Sudip Kumar Gharami and Sudip Chatterjee steadied things briefly, but Chatterjee fell at 37 in the 12th over. Gharami followed for 15 at 54, and Shahbaz Ahmed lasted only until 59. When Dadhe had Sumanta Gupta caught by Dhas for 7, it was his third wicket, and his figures read **8 overs, 4 maidens, 3 for 18**. Hangargekar and Tanay Sanghvi had two wickets each.
-
-```photo
-{"n":2,"subject":"Rajvardhan Hangargekar","caption":"Rajvardhan Hangargekar, who took the first wicket and had two by the 22nd over.","alt":"Maharashtra fast bowler Rajvardhan Hangargekar"}
-```
 
 It is a sharp turn for Bengal. They came into the round **top of their group with 18 points**, having beaten Delhi, Services and Kerala outright. Maharashtra had one win and two draws from their first three games.
 

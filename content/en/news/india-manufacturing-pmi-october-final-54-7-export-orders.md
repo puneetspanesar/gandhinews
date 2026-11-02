@@ -70,10 +70,6 @@ The HSBC India Manufacturing PMI, compiled by S&P Global, **slipped to 54.7 from
 
 "India's manufacturing PMI softened to 54.7 in October from 55.1 in the previous month," said Pranjul Bhandari, chief India economist at HSBC. "Strong international demand pushed growth of new export orders to a six-month high."
 
-```photo
-{"n":1,"subject":"Jawaharlal Nehru Port","caption":"Jawaharlal Nehru Port near Mumbai, India's busiest container gateway. Factories reported more orders from abroad in October.","alt":"Container cranes at Jawaharlal Nehru Port, Navi Mumbai (file photo)"}
-```
-
 ## Exports up, hiring flat
 
 Firms reported **more orders from at least ten countries**, including the US, the UK, the UAE, Saudi Arabia, Oman, Canada, Bangladesh, Indonesia, Nepal and Sri Lanka. Total new orders grew a shade more slowly than September's seven-month high but stayed sharp. Output growth moderated, mainly because makers of intermediate goods expanded more slowly.
@@ -83,9 +79,5 @@ Hiring rose for a second month, but only marginally, and capital goods producers
 ## Prices cool, stocks build up
 
 The softer side of the survey was on prices. Input cost inflation fell to **its lowest level since February**, and selling price rises were the weakest in nearly four years. Bhandari said overall "input and output price pressures eased slightly from the previous month."
-
-```photo
-{"n":2,"subject":"S&P Global headquarters 55 Water Street","caption":"55 Water Street in New York, headquarters of S&P Global, which compiles the HSBC India PMI.","alt":"The 55 Water Street tower in Manhattan, New York (file photo)"}
-```
 
 Companies also piled up stocks. Finished goods inventories rose at an unprecedented pace and input stocks at the fastest rate in eight months, as producers were "building precautionary buffers to mitigate potential shortages," Bhandari said.
