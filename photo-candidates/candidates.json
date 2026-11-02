@@ -1,0 +1,41 @@
+{
+  "h0222q45": {
+    "query": "Surya Kant",
+    "candidates": [
+      {
+        "n": 0,
+        "title": "File:Surya Kant January 14.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Surya_Kant_January_14.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Surya_Kant_January_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 606,
+        "height": 434,
+        "licence": "CC BY-SA 3.0",
+        "author": "Rogers49",
+        "credit": "Photo taken at a public event to award Distinguished Alumni by DCE/DTU Previously published: No",
+        "date": "2014-01-11",
+        "description": "Photo of Surya Kant",
+        "thumb": "h0222q45-0.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Surya_Kant_January_14.jpg"
+      },
+      {
+        "n": 1,
+        "title": "File:Suryakant Tripathi 'Nirala'.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Suryakant_Tripathi_%27Nirala%27.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Suryakant_Tripathi_%27Nirala%27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 726,
+        "height": 881,
+        "licence": "Public domain",
+        "author": "Unknown authorUnknown author",
+        "credit": "It was first published in Anamika (a Hindi poetry book) in 1923",
+        "date": "1923",
+        "description": "A portrait of the Hindi literary figure Suryakant Tripathi Nirala, first featured in his poetry anthology 'Anamika'.",
+        "thumb": "h0222q45-1.jpg",
+        "url1600": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Suryakant_Tripathi_%27Nirala%27.jpg"
+      }
+    ]
+  },
+  "h0222q46": {
+    "query": "Tushar Mehta",
+    "candidates": []
+  }
+}
