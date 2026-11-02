@@ -87,8 +87,4 @@ In Guwahati, Karnataka bowled Assam out for 135 and closed on 180 for 2, **alrea
 
 In Nagpur, Vidarbha begin day two with Madhya Pradesh already dismissed for 209 after left-arm spinner **Harsh Dubey took 9 for 53**, the best innings figures by a Vidarbha bowler in the Ranji Trophy. Their batters now have the job of turning that spell into a lead.
 
-```photo
-{"n":2,"subject":"Harsh Dubey","caption":"Vidarbha left-arm spinner Harsh Dubey, whose 9 for 53 bowled Madhya Pradesh out for 209 on day one.","alt":"Harsh Dubey"}
-```
-
 All four matches run until Thursday.

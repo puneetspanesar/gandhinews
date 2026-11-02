@@ -59,8 +59,4 @@ Kharge did not name the minister, but Congress sources said the remark was aimed
 
 "It is not necessary for me to take protection from the Prime Minister or Home Minister (Union)," he told reporters. "I have the capacity to fight this state government." Turning the charge around, he said: "The person responsible for all this is the state's Home Minister."
 
-```photo
-{"n":2,"subject":"Siddaramaiah","caption":"Former Chief Minister Siddaramaiah, the target of a disputed sting operation that has fed the wider feud between the Congress and the JD(S).","alt":"Former Karnataka Chief Minister Siddaramaiah"}
-```
-
 The exchange is the latest in a run of clashes between the two sides, which have traded charges for weeks over the **sting operation targeting former Chief Minister Siddaramaiah** and, more recently, over Kumaraswamy's claim that Honda was taking an electric vehicle project out of the state, which Industries Minister M B Patil called baseless.

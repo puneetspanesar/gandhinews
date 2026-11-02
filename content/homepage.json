@@ -70,11 +70,11 @@
       "cyclone-murasu-severe-storm-ongole-landfall-tonight-imd"
     ],
     "relatedBeside": [
+      "priyank-kharge-union-minister-ed-it-kumaraswamy-hits-back",
+      "ftse-100-closes-higher-bp-shell-fall-oil-castrol-sale-ibstock",
+      "apple-results-ternus-first-call-113-billion-preview",
       "oil-slump-deepens-brent-105-airlines-rally-iran-talks",
-      "keralam-satheesan-cancels-cliff-house-renovation-pwd-report",
-      "sharad-pawar-ruby-hall-clinic-pune-cough-chest-pain",
-      "itc-q2-profit-falls-18-per-cent-revenue-44-per-cent",
-      "vikram-misri-kathmandu-visit-november-4-5-balendra-shah"
+      "keralam-satheesan-cancels-cliff-house-renovation-pwd-report"
     ],
     "live": {
       "title": {
@@ -85,6 +85,50 @@
   },
   "briefing": {
     "items": [
+      {
+        "link": "priyank-kharge-union-minister-ed-it-kumaraswamy-hits-back",
+        "lead": {
+          "en": "Karnataka:",
+          "hi": "कर्नाटक:"
+        },
+        "text": {
+          "en": "Priyank Kharge alleges ED, IT push; Kumaraswamy hits back.",
+          "hi": "प्रियांक खड़गे का ईडी, आईटी दबाव का आरोप; कुमारस्वामी का पलटवार।"
+        }
+      },
+      {
+        "link": "ftse-100-closes-higher-bp-shell-fall-oil-castrol-sale-ibstock",
+        "lead": {
+          "en": "London:",
+          "hi": "लंदन:"
+        },
+        "text": {
+          "en": "FTSE 100 ends higher, BP slides 4% as oil sinks.",
+          "hi": "एफ़टीएसई 100 बढ़त पर बंद, तेल गिरने से बीपी 4% फिसला।"
+        }
+      },
+      {
+        "link": "apple-results-ternus-first-call-113-billion-preview",
+        "lead": {
+          "en": "Apple:",
+          "hi": "ऐपल:"
+        },
+        "text": {
+          "en": "Results overnight, Ternus's first call as chief executive.",
+          "hi": "नतीजे आज रात, सीईओ के तौर पर टर्नस की पहली कॉल।"
+        }
+      },
+      {
+        "link": "djokovic-vacherot-paris-masters-turin-race-jodar-ninth",
+        "lead": {
+          "en": "Djokovic:",
+          "hi": "जोकोविच:"
+        },
+        "text": {
+          "en": "Opens Paris Masters against Vacherot, Turin place at stake.",
+          "hi": "पेरिस मास्टर्स में वाशेरो से शुरुआत, ट्यूरिन का टिकट दांव पर।"
+        }
+      },
       {
         "link": "wall-street-midday-dow-1-per-cent-oracle-slides-gold-rebounds",
         "lead": {
@@ -127,50 +171,6 @@
         "text": {
           "en": "Satheesan cancels ₹1 crore repair order.",
           "hi": "सतीशन ने ₹1 करोड़ का मरम्मत आदेश रद्द किया।"
-        }
-      },
-      {
-        "link": "nalco-q2-profit-1835-crore-dividend-4-50",
-        "lead": {
-          "en": "NALCO:",
-          "hi": "नाल्को:"
-        },
-        "text": {
-          "en": "Q2 profit ₹1,835 crore, ₹4.50 dividend.",
-          "hi": "दूसरी तिमाही में ₹1,835 करोड़ मुनाफ़ा, ₹4.50 लाभांश।"
-        }
-      },
-      {
-        "link": "india-saff-camp-kolkata-15-players-moosa-dhaka-pakistan",
-        "lead": {
-          "en": "SAFF:",
-          "hi": "सैफ़:"
-        },
-        "text": {
-          "en": "India train with 15 players before Dhaka.",
-          "hi": "ढाका से पहले भारत ने 15 खिलाड़ियों के साथ अभ्यास किया।"
-        }
-      },
-      {
-        "link": "india-thrash-south-korea-8-0-asian-champions-trophy-jalandhar",
-        "lead": {
-          "en": "Hockey:",
-          "hi": "हॉकी:"
-        },
-        "text": {
-          "en": "India beat South Korea 8-0, stay unbeaten.",
-          "hi": "भारत ने दक्षिण कोरिया को 8-0 से हराया, अजेय रहा।"
-        }
-      },
-      {
-        "link": "alok-mehta-rjd-disqualify-bihar-mlcs-rahul-raj-brajwasi-bjp",
-        "lead": {
-          "en": "RJD:",
-          "hi": "राजद:"
-        },
-        "text": {
-          "en": "Alok Mehta wants two Bihar MLCs who joined BJP disqualified.",
-          "hi": "आलोक मेहता ने भाजपा में गए दो एमएलसी की सदस्यता रद्द करने की मांग की।"
         }
       }
     ]
@@ -245,11 +245,11 @@
       ]
     },
     "list": [
+      "priyank-kharge-union-minister-ed-it-kumaraswamy-hits-back",
+      "ftse-100-closes-higher-bp-shell-fall-oil-castrol-sale-ibstock",
+      "apple-results-ternus-first-call-113-billion-preview",
       "wall-street-midday-dow-1-per-cent-oracle-slides-gold-rebounds",
-      "oil-slump-deepens-brent-105-airlines-rally-iran-talks",
-      "keralam-satheesan-cancels-cliff-house-renovation-pwd-report",
-      "prema-rawat-14-ball-fifty-fastest-women-t20-uttarakhand-hyderabad",
-      "nalco-q2-profit-1835-crore-dividend-4-50"
+      "oil-slump-deepens-brent-105-airlines-rally-iran-talks"
     ],
     "also": [
       "reliance-shares-jump-6-per-cent-q2-profit-o2c-jio",
@@ -449,20 +449,19 @@
         ]
       },
       "list": [
+        "ftse-100-closes-higher-bp-shell-fall-oil-castrol-sale-ibstock",
+        "apple-results-ternus-first-call-113-billion-preview",
         "wall-street-midday-dow-1-per-cent-oracle-slides-gold-rebounds",
-        "oil-slump-deepens-brent-105-airlines-rally-iran-talks",
-        "nalco-q2-profit-1835-crore-dividend-4-50",
-        "oil-falls-4-per-cent-brent-108-iran-draft-proposal-qatar"
+        "oil-slump-deepens-brent-105-airlines-rally-iran-talks"
       ]
     },
     {
       "section": "states",
       "lead": "cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight",
       "list": [
+        "priyank-kharge-union-minister-ed-it-kumaraswamy-hits-back",
         "keralam-satheesan-cancels-cliff-house-renovation-pwd-report",
-        "chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation",
-        "cyclone-murasu-severe-storm-ongole-landfall-tonight-imd",
-        "naidu-cyclone-murasu-review-cancels-delhi-visit"
+        "chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation"
       ]
     },
     {
@@ -509,10 +508,10 @@
       "section": "sports",
       "lead": "india-thrash-south-korea-8-0-asian-champions-trophy-jalandhar",
       "list": [
+        "djokovic-vacherot-paris-masters-turin-race-jodar-ninth",
+        "ranji-round-four-day-two-preview-mumbai-railways-bengal-maharashtra",
         "prema-rawat-14-ball-fifty-fastest-women-t20-uttarakhand-hyderabad",
-        "india-saff-camp-kolkata-15-players-moosa-dhaka-pakistan",
-        "mumbai-247-6-railways-ranji-day-one-sangwan-three-sarfaraz",
-        "india-a-rising-stars-asia-cup-squad-tilak-varma-captain-doha"
+        "india-saff-camp-kolkata-15-players-moosa-dhaka-pakistan"
       ]
     }
   ],
