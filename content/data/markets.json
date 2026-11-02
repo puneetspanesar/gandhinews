@@ -223,11 +223,11 @@
    "name_hi": "ब्रेंट क्रूड",
    "unit": "$/barrel",
    "unit_hi": "$/बैरल",
-   "value": 113.43,
-   "change": 2.63,
-   "pct": 2.37,
+   "value": 110.37,
+   "change": -3.06,
+   "pct": -2.7,
    "decimals": 2,
-   "source": "https://tradingeconomics.com/commodity/brent-crude-oil"
+   "source": "https://hdfcsky.com/news/gift-nifty-points-to-positive-open-for-sensex-nifty-as-brent-eases-to-110"
   },
   {
    "id": "gold",
@@ -355,6 +355,7 @@
   "source": "https://www.kotakneo.com/share-market-today/fii-dii-data/"
  },
  "notes": [
-  "Seeded from research on October 31, 2026. Nifty Bank, euro, pound and some sector moves were not found in a reliable source and are left out."
+  "Seeded from research on October 31, 2026. Nifty Bank, euro, pound and some sector moves were not found in a reliable source and are left out.",
+  "2 Nov 09:30 IST: Brent updated from a pre-open read (08:53 IST). Monday opening index levels were not yet published in a source this run could read, so indices, rates and movers still show the 30 October close."
  ]
 }

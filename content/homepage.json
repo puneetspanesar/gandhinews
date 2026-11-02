@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "cyclone-murasu-severe-storm-ongole-landfall-tonight-imd",
+    "id": "cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight",
     "overlay": {
       "kicker": {
         "en": "Andhra coast, tonight",
         "hi": "आंध्र तट, आज रात"
       },
       "value": {
-        "en": "Severe storm due near Ongole",
-        "hi": "ओंगोल के पास पहुंचेगा तीव्र तूफ़ान"
+        "en": "Murasu 260 km from Ongole",
+        "hi": "मुरासु ओंगोल से 260 किमी दूर"
       },
       "text": {
         "en": "",
@@ -44,12 +44,12 @@
         "icon": "warning",
         "color": "#0d0d0d",
         "value": {
-          "en": "5 districts",
-          "hi": "5 ज़िले"
+          "en": "3 states",
+          "hi": "3 राज्य"
         },
         "label": {
-          "en": "under red warning on Monday",
-          "hi": "सोमवार को रेड चेतावनी में"
+          "en": "with schools shut on Monday",
+          "hi": "जहां सोमवार को स्कूल बंद"
         }
       },
       {
@@ -66,15 +66,15 @@
       }
     ],
     "relatedBelow": [
-      "naidu-cyclone-murasu-review-cancels-delhi-visit",
-      "supreme-court-senior-counsel-oral-mentioning-bar-from-today"
+      "cyclone-murasu-severe-storm-ongole-landfall-tonight-imd",
+      "naidu-cyclone-murasu-review-cancels-delhi-visit"
     ],
     "relatedBeside": [
+      "gift-nifty-gap-up-205-points-brent-110-asia-pares-losses",
+      "amit-shah-hyderabad-padayatra-charminar-sir-congress",
+      "kospi-turns-higher-samsung-sk-hynix-recover-chip-rout",
       "supreme-court-ram-temple-trust-funds-probe-hearing-today",
-      "oil-slips-monday-brent-111-iran-qatar-talks-november-2",
-      "antonelli-youngest-champion-mexico-verstappen-wins-hamilton-second",
-      "asia-open-nikkei-seen-down-oil-dalal-street-november-2",
-      "steelers-27-6-browns-warren-143-yards-rodgers"
+      "oil-slips-monday-brent-111-iran-qatar-talks-november-2"
     ],
     "live": {
       "title": {
@@ -86,14 +86,47 @@
   "briefing": {
     "items": [
       {
-        "link": "cyclone-murasu-severe-storm-ongole-landfall-tonight-imd",
+        "link": "cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight",
         "lead": {
           "en": "Cyclone:",
           "hi": "चक्रवात:"
         },
         "text": {
-          "en": "Murasu turns severe, due to cross near Ongole tonight.",
-          "hi": "मुरासु तीव्र हुआ, आज रात ओंगोल के पास तट पार करेगा।"
+          "en": "Murasu 200 km off Chennai, schools shut in three states.",
+          "hi": "मुरासु चेन्नई से 200 किमी दूर, तीन राज्यों में स्कूल बंद।"
+        }
+      },
+      {
+        "link": "gift-nifty-gap-up-205-points-brent-110-asia-pares-losses",
+        "lead": {
+          "en": "Markets:",
+          "hi": "बाज़ार:"
+        },
+        "text": {
+          "en": "GIFT Nifty points to a 200-point gap-up as Brent slides.",
+          "hi": "ब्रेंट फिसला, गिफ्ट निफ्टी 200 अंक की तेज़ शुरुआत का संकेत दे रहा।"
+        }
+      },
+      {
+        "link": "amit-shah-hyderabad-padayatra-charminar-sir-congress",
+        "lead": {
+          "en": "Shah:",
+          "hi": "शाह:"
+        },
+        "text": {
+          "en": "Amit Shah walks through old Hyderabad this afternoon.",
+          "hi": "अमित शाह आज दोपहर पुराने हैदराबाद में पदयात्रा करेंगे।"
+        }
+      },
+      {
+        "link": "kospi-turns-higher-samsung-sk-hynix-recover-chip-rout",
+        "lead": {
+          "en": "Seoul:",
+          "hi": "सियोल:"
+        },
+        "text": {
+          "en": "Kospi turns higher on Samsung and SK Hynix.",
+          "hi": "सैमसंग और एसके हाइनिक्स के दम पर कोस्पी चढ़ा।"
         }
       },
       {
@@ -108,17 +141,6 @@
         }
       },
       {
-        "link": "oil-slips-monday-brent-111-iran-qatar-talks-november-2",
-        "lead": {
-          "en": "Oil:",
-          "hi": "तेल:"
-        },
-        "text": {
-          "en": "Brent slips 1.4% to $111.84 as Iran-Qatar talks continue.",
-          "hi": "ईरान-कतर वार्ता जारी, ब्रेंट 1.4% गिरकर 111.84 डॉलर पर।"
-        }
-      },
-      {
         "link": "india-manufacturing-pmi-october-final-due-flash-54-9",
         "lead": {
           "en": "PMI:",
@@ -130,14 +152,14 @@
         }
       },
       {
-        "link": "priyanshu-moliya-321-baroda-record-test-dream",
+        "link": "oil-slips-monday-brent-111-iran-qatar-talks-november-2",
         "lead": {
-          "en": "Ranji:",
-          "hi": "रणजी:"
+          "en": "Oil:",
+          "hi": "तेल:"
         },
         "text": {
-          "en": "Baroda's Moliya, 321 not out, says he wants to play Tests.",
-          "hi": "321 नाबाद के बाद बड़ौदा के मोलिया बोले, टेस्ट खेलना है।"
+          "en": "Brent slips 1.4% to $111.84 as Iran-Qatar talks continue.",
+          "hi": "ईरान-कतर वार्ता जारी, ब्रेंट 1.4% गिरकर 111.84 डॉलर पर।"
         }
       },
       {
@@ -149,28 +171,6 @@
         "text": {
           "en": "Antonelli is the youngest world champion; Verstappen wins Mexico.",
           "hi": "एंटोनेली सबसे युवा विश्व चैंपियन; मेक्सिको में वेरस्टैपेन जीते।"
-        }
-      },
-      {
-        "link": "asia-open-nikkei-seen-down-oil-dalal-street-november-2",
-        "lead": {
-          "en": "Markets:",
-          "hi": "बाज़ार:"
-        },
-        "text": {
-          "en": "Tokyo seen 1.5% lower as oil stays above $113.",
-          "hi": "तेल 113 डॉलर से ऊपर, टोक्यो 1.5% नीचे खुलने के आसार।"
-        }
-      },
-      {
-        "link": "supreme-court-senior-counsel-oral-mentioning-bar-from-today",
-        "lead": {
-          "en": "Supreme Court:",
-          "hi": "सुप्रीम कोर्ट:"
-        },
-        "text": {
-          "en": "Senior advocates can no longer mention cases orally.",
-          "hi": "वरिष्ठ वकील अब मौखिक रूप से मामले नहीं उठा सकेंगे।"
         }
       }
     ]
@@ -238,18 +238,18 @@
   },
   "topStories": {
     "big": {
-      "id": "antonelli-youngest-champion-mexico-verstappen-wins-hamilton-second",
+      "id": "amit-shah-hyderabad-padayatra-charminar-sir-congress",
       "also": [
-        "supreme-court-senior-counsel-oral-mentioning-bar-from-today",
-        "asia-open-nikkei-seen-down-oil-dalal-street-november-2"
+        "gift-nifty-gap-up-205-points-brent-110-asia-pares-losses",
+        "kospi-turns-higher-samsung-sk-hynix-recover-chip-rout"
       ]
     },
     "list": [
+      "asia-open-nikkei-seen-down-oil-dalal-street-november-2",
       "supreme-court-ram-temple-trust-funds-probe-hearing-today",
       "oil-slips-monday-brent-111-iran-qatar-talks-november-2",
-      "steelers-27-6-browns-warren-143-yards-rodgers",
-      "liverpool-0-1-arsenal-havertz-alisson-error-anfield",
-      "us-midterms-stevens-backs-rogers-alaska-sullivan-suit-dismissed"
+      "antonelli-youngest-champion-mexico-verstappen-wins-hamilton-second",
+      "priyanshu-moliya-321-baroda-record-test-dream"
     ]
   },
   "startHere": [
@@ -427,14 +427,13 @@
       "list": [
         "supreme-court-ram-temple-trust-funds-probe-hearing-today",
         "justice-bhuyan-arbitrary-power-thrives-ignorance-fear-ustm",
-        "supreme-court-senior-counsel-oral-mentioning-bar-from-today",
-        "mb-patil-rejects-kumaraswamy-honda-exit-claim-narasapura"
+        "supreme-court-senior-counsel-oral-mentioning-bar-from-today"
       ],
-      "lead": "rahul-parrot-gyanesh-kumar-kharge-chori-ki-sarkar-ramlila"
+      "lead": "amit-shah-hyderabad-padayatra-charminar-sir-congress"
     },
     {
       "section": "economy",
-      "lead": "asia-open-nikkei-seen-down-oil-dalal-street-november-2",
+      "lead": "gift-nifty-gap-up-205-points-brent-110-asia-pares-losses",
       "module": {
         "type": "markets",
         "indicators": [
@@ -445,20 +444,20 @@
         ]
       },
       "list": [
+        "asia-open-nikkei-seen-down-oil-dalal-street-november-2",
         "oil-slips-monday-brent-111-iran-qatar-talks-november-2",
         "india-manufacturing-pmi-october-final-due-flash-54-9",
-        "markets-week-ahead-us-midterms-itc-sbi-results-november-2",
-        "electric-two-wheeler-registrations-october-2026-tvs-leads-48-per-cent"
+        "markets-week-ahead-us-midterms-itc-sbi-results-november-2"
       ]
     },
     {
       "section": "states",
-      "lead": "cyclone-murasu-severe-storm-ongole-landfall-tonight-imd",
+      "lead": "cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight",
       "list": [
+        "cyclone-murasu-severe-storm-ongole-landfall-tonight-imd",
         "naidu-cyclone-murasu-review-cancels-delhi-visit",
         "deepender-hooda-barricades-pilot-rally-goers-stopped",
-        "shinde-murder-cases-lenders-farmer-suicides-nanded",
-        "delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023"
+        "shinde-murder-cases-lenders-farmer-suicides-nanded"
       ]
     },
     {
@@ -485,11 +484,11 @@
   "desks": [
     {
       "section": "world",
-      "lead": "us-midterms-stevens-backs-rogers-alaska-sullivan-suit-dismissed",
+      "lead": "kospi-turns-higher-samsung-sk-hynix-recover-chip-rout",
       "list": [
+        "us-midterms-stevens-backs-rogers-alaska-sullivan-suit-dismissed",
         "iran-war-footing-jalali-power-grid-islanding-treasury-oil",
-        "nepal-dolpa-indian-trekkers-located-helicopter-turned-back-rescue-monday",
-        "iran-designates-royal-navy-raf-terrorist-mi6-hostile"
+        "nepal-dolpa-indian-trekkers-located-helicopter-turned-back-rescue-monday"
       ]
     },
     {

@@ -71,7 +71,7 @@ The IMD expects Murasu to **cross between Nellore and Narsapur, close to Ongole*
 Chennai Collector S Malathi Helan declared Monday **a holiday for schools and colleges**, and Tiruvallur district did the same under an orange alert for heavy to very heavy rain. In Andhra Pradesh, schools and colleges are shut in NTR district, which includes Vijayawada, and in Palnadu, Nellore and Gudur.
 
 ```photo
-{"n":1,"subject":"Malkangiri","caption":"Malkangiri in southern Odisha, where schools, colleges and anganwadi centres are shut from 2 to 4 November and may serve as cyclone shelters.","alt":"Malkangiri town, Odisha"}
+{"n":1,"subject":"Malkangiri","caption":"A Bonda woman at a market in Malkangiri district, southern Odisha, where schools, colleges and anganwadi centres are shut from 2 to 4 November and may serve as cyclone shelters.","alt":"A Bonda woman at a market in Malkangiri district, Odisha (file photo)"}
 ```
 
 In Odisha, the Malkangiri administration has closed all schools, colleges and anganwadi centres **from 2 to 4 November**, saying the buildings may be used as temporary cyclone shelters.

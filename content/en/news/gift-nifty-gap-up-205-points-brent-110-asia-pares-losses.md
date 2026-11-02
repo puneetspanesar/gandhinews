@@ -72,9 +72,6 @@ Indian shares look set for a **gap-up start on Monday**, as the gloom that hung 
 
 The change in mood comes mostly from oil. Brent crude was **down 2.7% at $110.4 a barrel** by about 8:45 am IST, and US crude was 2.9% lower at $101.1, as Iranian and Qatari officials kept talking about a way out of the conflict in the Gulf. Brent rose 13.6% in October, and every dollar off the price eases the import bill of a country that buys most of its crude abroad. Attacks on tankers near the Strait of Hormuz have not stopped, however, which keeps a floor under prices.
 
-```photo
-{"n":1,"subject":"Panipat Refinery","caption":"Indian Oil's Panipat refinery in Haryana. The state refiner is in focus on Monday after reporting its highest-ever quarterly profit.","alt":"Indian Oil Corporation's Panipat refinery (file photo)"}
-```
 
 ## Asia steadies after a rough start
 
