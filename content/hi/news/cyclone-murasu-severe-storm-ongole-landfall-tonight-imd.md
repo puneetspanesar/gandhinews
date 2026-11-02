@@ -25,7 +25,6 @@ cover:
   template: breaking
   label: "चक्रवात मुरासु"
   headline: "आज रात ओंगोल के पास तट पार करेगा मुरासु"
-  bg: "Ongole"
 related: [naidu-cyclone-murasu-review-cancels-delhi-visit, murmu-mayurbhanj-visit-postponed-cyclone-november-4, cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam]
 seo:
   description: "चक्रवात मुरासु गंभीर चक्रवाती तूफान बनकर सोमवार रात 11:30 बजे से मंगलवार सुबह 4 बजे के बीच ओंगोल के पास आंध्र प्रदेश तट पार करेगा: मौसम विभाग।"

@@ -27,7 +27,6 @@ cover:
   template: business
   label: "Crude oil"
   headline: "Brent slips 1.4% as Iran talks go on"
-  bg: "Jurong Island"
   data:
     - icon: trend-down
       value: "$111.84"

@@ -27,7 +27,6 @@ cover:
   template: business
   label: "Markets"
   headline: "Sensex holds 900-point gain at midday"
-  bg: "Coal Bhawan Kolkata"
   data:
     - icon: trend-up
       value: "75,383.98"

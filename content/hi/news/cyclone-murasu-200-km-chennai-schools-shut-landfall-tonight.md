@@ -25,7 +25,6 @@ cover:
   template: breaking
   label: "चक्रवात मुरासु"
   headline: "चेन्नई से 200 किमी दूर मुरासु, स्कूल बंद"
-  bg: "Kavali"
 related: [cyclone-murasu-severe-storm-ongole-landfall-tonight-imd, naidu-cyclone-murasu-review-cancels-delhi-visit]
 seo:
   description: "गंभीर चक्रवाती तूफान मुरासु 2 नवंबर सुबह 5:30 बजे चेन्नई से 200 किमी और ओंगोल से 260 किमी दूर था और तेज़ी से आंध्र तट की ओर बढ़ रहा है। तीन राज्यों में स्कूल बंद।"

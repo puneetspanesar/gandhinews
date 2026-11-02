@@ -44,7 +44,6 @@ cover:
   template: breaking
   label: "Delhi air"
   headline: "AQI 277: 25 stations 'very poor'"
-  bg: "Kartavya Path"
 ---
 
 Delhi's air **slid further into the 'poor' category** through Sunday, with the city's air quality index reaching 277 according to the Sameer app, up from 214 at 7 am. It was a chilly day too, with the capital recording its **coldest 1 November since 2023**.

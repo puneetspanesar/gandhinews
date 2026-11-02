@@ -19871,18 +19871,6 @@
   "alt_hi": "ईरान के विदेश मंत्री अब्बास अराघची (फ़ाइल फ़ोटो)",
   "page": null
  },
- "delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023--bg": {
-  "id": "v-delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2-bg",
-  "src": "/photos/v-delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2-bg-1280.jpg",
-  "src800": "/photos/v-delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2-bg-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Pinakpani / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Kartavya Path (file photo)",
-  "alt_hi": "Kartavya Path (फ़ाइल फ़ोटो)",
-  "page": null
- },
  "delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023--p1": {
   "id": "v-delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2-p1",
   "src": "/photos/v-delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2-p1-1280.jpg",
@@ -19966,18 +19954,6 @@
     "src800": "/photos/c-meghwal-cec-offered-meet-protesters-no-list-kochi-bihar-nda-hi-640.jpg"
    }
   }
- },
- "meghwal-cec-offered-meet-protesters-no-list-kochi-bihar-nda--bg": {
-  "id": "v-meghwal-cec-offered-meet-protesters-no-list-kochi-bihar-bg",
-  "src": "/photos/v-meghwal-cec-offered-meet-protesters-no-list-kochi-bihar-bg-1280.jpg",
-  "src800": "/photos/v-meghwal-cec-offered-meet-protesters-no-list-kochi-bihar-bg-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Manishontop02 / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Kochi (file photo)",
-  "alt_hi": "Kochi (फ़ाइल फ़ोटो)",
-  "page": null
  },
  "meghwal-cec-offered-meet-protesters-no-list-kochi-bihar-nda--p1": {
   "id": "v-meghwal-cec-offered-meet-protesters-no-list-kochi-bihar-p1",
@@ -20181,19 +20157,19 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Maharashtra Deputy Chief Minister Eknath Shinde (file photo)",
   "alt_hi": "महाराष्ट्र के उपमुख्यमंत्री एकनाथ शिंदे (फ़ाइल फ़ोटो)",
-  "page": null
- },
- "shinde-murder-cases-lenders-farmer-suicides-nanded--bg": {
-  "id": "v-shinde-murder-cases-lenders-farmer-suicides-nanded-bg",
-  "src": "/photos/v-shinde-murder-cases-lenders-farmer-suicides-nanded-bg-1280.jpg",
-  "src800": "/photos/v-shinde-murder-cases-lenders-farmer-suicides-nanded-bg-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Madhukar.alse / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Nanded (file photo)",
-  "alt_hi": "Nanded (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-shinde-murder-cases-lenders-farmer-suicides-nanded-en-1280.jpg",
+    "src800": "/photos/c-shinde-murder-cases-lenders-farmer-suicides-nanded-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-shinde-murder-cases-lenders-farmer-suicides-nanded-hi-1280.jpg",
+    "src800": "/photos/c-shinde-murder-cases-lenders-farmer-suicides-nanded-hi-640.jpg"
+   }
+  }
  },
  "shinde-murder-cases-lenders-farmer-suicides-nanded--p1": {
   "id": "v-shinde-murder-cases-lenders-farmer-suicides-nanded-p1",
@@ -20326,18 +20302,6 @@
     "src800": "/photos/c-lakshya-sen-hylo-open-title-indian-double-saarbrucken-hi-640.jpg"
    }
   }
- },
- "lakshya-sen-hylo-open-title-indian-double-saarbrucken--bg": {
-  "id": "v-lakshya-sen-hylo-open-title-indian-double-saarbrucken-bg",
-  "src": "/photos/v-lakshya-sen-hylo-open-title-indian-double-saarbrucken-bg-1280.jpg",
-  "src800": "/photos/v-lakshya-sen-hylo-open-title-indian-double-saarbrucken-bg-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: NorbertNagel / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Saarbrücken (file photo)",
-  "alt_hi": "Saarbrücken (फ़ाइल फ़ोटो)",
-  "page": null
  },
  "lakshya-sen-hylo-open-title-indian-double-saarbrucken--p1": {
   "id": "v-lakshya-sen-hylo-open-title-indian-double-saarbrucken-p1",
@@ -20591,18 +20555,6 @@
    }
   }
  },
- "naidu-cyclone-murasu-review-cancels-delhi-visit--bg": {
-  "id": "v-naidu-cyclone-murasu-review-cancels-delhi-visit-bg",
-  "src": "/photos/v-naidu-cyclone-murasu-review-cancels-delhi-visit-bg-1280.jpg",
-  "src800": "/photos/v-naidu-cyclone-murasu-review-cancels-delhi-visit-bg-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: IM3847 / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Nellore (file photo)",
-  "alt_hi": "Nellore (फ़ाइल फ़ोटो)",
-  "page": null
- },
  "naidu-cyclone-murasu-review-cancels-delhi-visit--p1": {
   "id": "v-naidu-cyclone-murasu-review-cancels-delhi-visit-p1",
   "src": "/photos/v-naidu-cyclone-murasu-review-cancels-delhi-visit-p1-1280.jpg",
@@ -20709,7 +20661,19 @@
   "licence": "CC BY 4.0",
   "alt": "Mercedes driver Kimi Antonelli (file photo)",
   "alt_hi": "मर्सिडीज ड्राइवर किमी एंटोनेली (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-antonelli-youngest-champion-mexico-verstappen-wins-hamilton--en-1280.jpg",
+    "src800": "/photos/c-antonelli-youngest-champion-mexico-verstappen-wins-hamilton--en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-antonelli-youngest-champion-mexico-verstappen-wins-hamilton--hi-1280.jpg",
+    "src800": "/photos/c-antonelli-youngest-champion-mexico-verstappen-wins-hamilton--hi-640.jpg"
+   }
+  }
  },
  "antonelli-youngest-champion-mexico-verstappen-wins-hamilton-second--bg": {
   "id": "v-antonelli-youngest-champion-mexico-verstappen-wins-hami-bg",
@@ -20757,19 +20721,19 @@
   "licence": "CC0",
   "alt": "The Tokyo Stock Exchange building in Tokyo (file photo)",
   "alt_hi": "टोक्यो स्टॉक एक्सचेंज की इमारत (फाइल फोटो) (फ़ाइल फ़ोटो)",
-  "page": null
- },
- "asia-open-nikkei-seen-down-oil-dalal-street-november-2--bg": {
-  "id": "v-asia-open-nikkei-seen-down-oil-dalal-street-november-2-bg",
-  "src": "/photos/v-asia-open-nikkei-seen-down-oil-dalal-street-november-2-bg-1280.jpg",
-  "src800": "/photos/v-asia-open-nikkei-seen-down-oil-dalal-street-november-2-bg-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Syced / Wikimedia Commons",
-  "licence": "CC0",
-  "alt": "Tokyo Stock Exchange (file photo)",
-  "alt_hi": "Tokyo Stock Exchange (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-asia-open-nikkei-seen-down-oil-dalal-street-november-2-en-1280.jpg",
+    "src800": "/photos/c-asia-open-nikkei-seen-down-oil-dalal-street-november-2-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-asia-open-nikkei-seen-down-oil-dalal-street-november-2-hi-1280.jpg",
+    "src800": "/photos/c-asia-open-nikkei-seen-down-oil-dalal-street-november-2-hi-640.jpg"
+   }
+  }
  },
  "asia-open-nikkei-seen-down-oil-dalal-street-november-2--p1": {
   "id": "v-asia-open-nikkei-seen-down-oil-dalal-street-november-2-p1",
@@ -20781,18 +20745,6 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Exchange Square towers in Central, Hong Kong (file photo)",
   "alt_hi": "हांगकांग के सेंट्रल इलाके में एक्सचेंज स्क्वायर की इमारतें (फाइल फोटो) (फ़ाइल फ़ोटो)",
-  "page": null
- },
- "cyclone-murasu-severe-storm-ongole-landfall-tonight-imd--bg": {
-  "id": "v-cyclone-murasu-severe-storm-ongole-landfall-tonight-imd-bg",
-  "src": "/photos/v-cyclone-murasu-severe-storm-ongole-landfall-tonight-imd-bg-1280.jpg",
-  "src800": "/photos/v-cyclone-murasu-severe-storm-ongole-landfall-tonight-imd-bg-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Ongolebull / Wikimedia Commons",
-  "licence": "CC BY-SA 3.0",
-  "alt": "Ongole (file photo)",
-  "alt_hi": "Ongole (फ़ाइल फ़ोटो)",
   "page": null
  },
  "cyclone-murasu-severe-storm-ongole-landfall-tonight-imd--p2": {
@@ -20817,7 +20769,19 @@
   "licence": "CC0",
   "alt": "Pittsburgh Steelers running back Jaylen Warren (file photo)",
   "alt_hi": "पिट्सबर्ग स्टीलर्स के रनिंग बैक जेलन वॉरेन (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-steelers-27-6-browns-warren-143-yards-rodgers-en-1280.jpg",
+    "src800": "/photos/c-steelers-27-6-browns-warren-143-yards-rodgers-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-steelers-27-6-browns-warren-143-yards-rodgers-hi-1280.jpg",
+    "src800": "/photos/c-steelers-27-6-browns-warren-143-yards-rodgers-hi-640.jpg"
+   }
+  }
  },
  "steelers-27-6-browns-warren-143-yards-rodgers--bg": {
   "id": "v-steelers-27-6-browns-warren-143-yards-rodgers-bg",
@@ -20997,7 +20961,19 @@
   "licence": "CC BY 2.0",
   "alt": "Containers and cranes at Mundra Port, Gujarat (file photo)",
   "alt_hi": "गुजरात के मुंद्रा बंदरगाह पर कंटेनर और क्रेन (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-india-manufacturing-pmi-october-final-due-flash-54-9-en-1280.jpg",
+    "src800": "/photos/c-india-manufacturing-pmi-october-final-due-flash-54-9-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-india-manufacturing-pmi-october-final-due-flash-54-9-hi-1280.jpg",
+    "src800": "/photos/c-india-manufacturing-pmi-october-final-due-flash-54-9-hi-640.jpg"
+   }
+  }
  },
  "justice-bhuyan-arbitrary-power-thrives-ignorance-fear-ustm": {
   "id": "v-justice-bhuyan-arbitrary-power-thrives-ignorance-fear-ustm",
@@ -21009,7 +20985,19 @@
   "licence": "CC BY-SA 4.0",
   "alt": "The Supreme Court of India, New Delhi (file photo)",
   "alt_hi": "नई दिल्ली में भारत का सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-justice-bhuyan-arbitrary-power-thrives-ignorance-fear-ustm-en-1280.jpg",
+    "src800": "/photos/c-justice-bhuyan-arbitrary-power-thrives-ignorance-fear-ustm-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-justice-bhuyan-arbitrary-power-thrives-ignorance-fear-ustm-hi-1280.jpg",
+    "src800": "/photos/c-justice-bhuyan-arbitrary-power-thrives-ignorance-fear-ustm-hi-640.jpg"
+   }
+  }
  },
  "justice-bhuyan-arbitrary-power-thrives-ignorance-fear-ustm--p2": {
   "id": "v-justice-bhuyan-arbitrary-power-thrives-ignorance-fear-u-p2",
@@ -21033,7 +21021,19 @@
   "licence": "CC BY 2.0",
   "alt": "Brabourne Stadium, home of the Cricket Club of India, Mumbai (file photo)",
   "alt_hi": "क्रिकेट क्लब ऑफ इंडिया का ब्रेबोर्न स्टेडियम, मुंबई (फाइल फोटो) (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-mumbai-railways-ranji-round-four-brabourne-preview-en-1280.jpg",
+    "src800": "/photos/c-mumbai-railways-ranji-round-four-brabourne-preview-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-mumbai-railways-ranji-round-four-brabourne-preview-hi-1280.jpg",
+    "src800": "/photos/c-mumbai-railways-ranji-round-four-brabourne-preview-hi-640.jpg"
+   }
+  }
  },
  "mumbai-railways-ranji-round-four-brabourne-preview--bg": {
   "id": "v-mumbai-railways-ranji-round-four-brabourne-preview-bg",
@@ -21057,19 +21057,19 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Refineries and storage tanks on Jurong Island, Singapore (file photo)",
   "alt_hi": "सिंगापुर के जुरोंग द्वीप पर रिफाइनरियां और भंडारण टैंक (फाइल फोटो) (फ़ाइल फ़ोटो)",
-  "page": null
- },
- "oil-slips-monday-brent-111-iran-qatar-talks-november-2--bg": {
-  "id": "v-oil-slips-monday-brent-111-iran-qatar-talks-november-2-bg",
-  "src": "/photos/v-oil-slips-monday-brent-111-iran-qatar-talks-november-2-bg-1280.jpg",
-  "src800": "/photos/v-oil-slips-monday-brent-111-iran-qatar-talks-november-2-bg-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Jacklee. / Wikimedia Commons",
-  "licence": "CC BY-SA 3.0",
-  "alt": "Jurong Island (file photo)",
-  "alt_hi": "Jurong Island (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-oil-slips-monday-brent-111-iran-qatar-talks-november-2-en-1280.jpg",
+    "src800": "/photos/c-oil-slips-monday-brent-111-iran-qatar-talks-november-2-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-oil-slips-monday-brent-111-iran-qatar-talks-november-2-hi-1280.jpg",
+    "src800": "/photos/c-oil-slips-monday-brent-111-iran-qatar-talks-november-2-hi-640.jpg"
+   }
+  }
  },
  "oil-slips-monday-brent-111-iran-qatar-talks-november-2--p2": {
   "id": "v-oil-slips-monday-brent-111-iran-qatar-talks-november-2-p2",
@@ -21093,7 +21093,19 @@
   "licence": "CC BY 2.0",
   "alt": "Laxmi Vilas Palace in Vadodara (Baroda) (file photo)",
   "alt_hi": "वडोदरा (बड़ौदा) का लक्ष्मी विलास पैलेस (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-priyanshu-moliya-321-baroda-record-test-dream-en-1280.jpg",
+    "src800": "/photos/c-priyanshu-moliya-321-baroda-record-test-dream-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-priyanshu-moliya-321-baroda-record-test-dream-hi-1280.jpg",
+    "src800": "/photos/c-priyanshu-moliya-321-baroda-record-test-dream-hi-640.jpg"
+   }
+  }
  },
  "supreme-court-ram-temple-trust-funds-probe-hearing-today": {
   "id": "v-supreme-court-ram-temple-trust-funds-probe-hearing-today",
@@ -21105,7 +21117,19 @@
   "licence": "CC BY 3.0",
   "alt": "The Ram Mandir in Ayodhya (file photo)",
   "alt_hi": "अयोध्या का राम मंदिर (फाइल फोटो) (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-supreme-court-ram-temple-trust-funds-probe-hearing-today-en-1280.jpg",
+    "src800": "/photos/c-supreme-court-ram-temple-trust-funds-probe-hearing-today-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-supreme-court-ram-temple-trust-funds-probe-hearing-today-hi-1280.jpg",
+    "src800": "/photos/c-supreme-court-ram-temple-trust-funds-probe-hearing-today-hi-640.jpg"
+   }
+  }
  },
  "supreme-court-ram-temple-trust-funds-probe-hearing-today--in": {
   "id": "v-supreme-court-ram-temple-trust-funds-probe-hearing-toda-in",
@@ -21129,7 +21153,19 @@
   "licence": "CC BY 4.0",
   "alt": "Union Home Minister Amit Shah at an Eastern Zonal Council meeting (file photo)",
   "alt_hi": "पूर्वी क्षेत्रीय परिषद की बैठक में केंद्रीय गृह मंत्री अमित शाह (फाइल फोटो) (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-amit-shah-hyderabad-padayatra-charminar-sir-congress-en-1280.jpg",
+    "src800": "/photos/c-amit-shah-hyderabad-padayatra-charminar-sir-congress-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-amit-shah-hyderabad-padayatra-charminar-sir-congress-hi-1280.jpg",
+    "src800": "/photos/c-amit-shah-hyderabad-padayatra-charminar-sir-congress-hi-640.jpg"
+   }
+  }
  },
  "amit-shah-hyderabad-padayatra-charminar-sir-congress--bg": {
   "id": "v-amit-shah-hyderabad-padayatra-charminar-sir-congress-bg",
@@ -21179,18 +21215,6 @@
   "alt_hi": "तेलंगाना भाजपा अध्यक्ष एन. रामचंदर राव (फ़ाइल फ़ोटो)",
   "page": null
  },
- "cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight--bg": {
-  "id": "v-cyclone-murasu-200-km-chennai-schools-shut-landfall-ton-bg",
-  "src": "/photos/v-cyclone-murasu-200-km-chennai-schools-shut-landfall-ton-bg-1280.jpg",
-  "src800": "/photos/v-cyclone-murasu-200-km-chennai-schools-shut-landfall-ton-bg-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Malyadri / Wikimedia Commons",
-  "licence": "CC BY-SA 3.0",
-  "alt": "Kavali (file photo)",
-  "alt_hi": "Kavali (फ़ाइल फ़ोटो)",
-  "page": null
- },
  "cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight--p1": {
   "id": "v-cyclone-murasu-200-km-chennai-schools-shut-landfall-ton-p1",
   "src": "/photos/v-cyclone-murasu-200-km-chennai-schools-shut-landfall-ton-p1-1280.jpg",
@@ -21225,19 +21249,19 @@
   "licence": "CC BY-SA 3.0",
   "alt": "Office towers at GIFT City, Gandhinagar (file photo)",
   "alt_hi": "गांधीनगर में गिफ्ट सिटी के दफ्तर टावर (फाइल फोटो) (फ़ाइल फ़ोटो)",
-  "page": null
- },
- "gift-nifty-gap-up-205-points-brent-110-asia-pares-losses--bg": {
-  "id": "v-gift-nifty-gap-up-205-points-brent-110-asia-pares-losse-bg",
-  "src": "/photos/v-gift-nifty-gap-up-205-points-brent-110-asia-pares-losse-bg-1280.jpg",
-  "src800": "/photos/v-gift-nifty-gap-up-205-points-brent-110-asia-pares-losse-bg-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Atul Tegar / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "GIFT City Gandhinagar (file photo)",
-  "alt_hi": "GIFT City Gandhinagar (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-gift-nifty-gap-up-205-points-brent-110-asia-pares-losses-en-1280.jpg",
+    "src800": "/photos/c-gift-nifty-gap-up-205-points-brent-110-asia-pares-losses-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-gift-nifty-gap-up-205-points-brent-110-asia-pares-losses-hi-1280.jpg",
+    "src800": "/photos/c-gift-nifty-gap-up-205-points-brent-110-asia-pares-losses-hi-640.jpg"
+   }
+  }
  },
  "gift-nifty-gap-up-205-points-brent-110-asia-pares-losses--p2": {
   "id": "v-gift-nifty-gap-up-205-points-brent-110-asia-pares-losse-p2",
@@ -21273,19 +21297,19 @@
   "licence": "CC BY-SA 2.0",
   "alt": "Samsung Electronics' Seocho office towers in Seoul (file photo)",
   "alt_hi": "सोल में सैमसंग इलेक्ट्रॉनिक्स के सोचो दफ्तर (फाइल फोटो) (फ़ाइल फ़ोटो)",
-  "page": null
- },
- "kospi-turns-higher-samsung-sk-hynix-recover-chip-rout--bg": {
-  "id": "v-kospi-turns-higher-samsung-sk-hynix-recover-chip-rout-bg",
-  "src": "/photos/v-kospi-turns-higher-samsung-sk-hynix-recover-chip-rout-bg-1280.jpg",
-  "src800": "/photos/v-kospi-turns-higher-samsung-sk-hynix-recover-chip-rout-bg-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: kallerna / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Yeouido Seoul (file photo)",
-  "alt_hi": "Yeouido Seoul (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-kospi-turns-higher-samsung-sk-hynix-recover-chip-rout-en-1280.jpg",
+    "src800": "/photos/c-kospi-turns-higher-samsung-sk-hynix-recover-chip-rout-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-kospi-turns-higher-samsung-sk-hynix-recover-chip-rout-hi-1280.jpg",
+    "src800": "/photos/c-kospi-turns-higher-samsung-sk-hynix-recover-chip-rout-hi-640.jpg"
+   }
+  }
  },
  "kospi-turns-higher-samsung-sk-hynix-recover-chip-rout--p1": {
   "id": "v-kospi-turns-higher-samsung-sk-hynix-recover-chip-rout-p1",
@@ -21477,7 +21501,19 @@
   "licence": "CC BY 3.0",
   "alt": "Reliance Industries chairman Mukesh Ambani (file photo)",
   "alt_hi": "रिलायंस इंडस्ट्रीज़ के चेयरमैन मुकेश अंबानी (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-reliance-shares-jump-6-per-cent-q2-profit-o2c-jio-en-1280.jpg",
+    "src800": "/photos/c-reliance-shares-jump-6-per-cent-q2-profit-o2c-jio-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-reliance-shares-jump-6-per-cent-q2-profit-o2c-jio-hi-1280.jpg",
+    "src800": "/photos/c-reliance-shares-jump-6-per-cent-q2-profit-o2c-jio-hi-640.jpg"
+   }
+  }
  },
  "reliance-shares-jump-6-per-cent-q2-profit-o2c-jio--bg": {
   "id": "v-reliance-shares-jump-6-per-cent-q2-profit-o2c-jio-bg",
@@ -21767,18 +21803,6 @@
    }
   }
  },
- "chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation--bg": {
-  "id": "v-chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagna-bg",
-  "src": "/photos/v-chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagna-bg-1280.jpg",
-  "src800": "/photos/v-chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagna-bg-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: N. Vivekananthamoorthy / Wikimedia Commons",
-  "licence": "CC BY 4.0",
-  "alt": "Parrys Corner (file photo)",
-  "alt_hi": "Parrys Corner (फ़ाइल फ़ोटो)",
-  "page": null
- },
  "mayank-mishra-three-haryana-71-6-lunch-uttarakhand-ranji-dehradun": {
   "id": "v-mayank-mishra-three-haryana-71-6-lunch-uttarakhand-ranji-deh",
   "src": "/photos/v-mayank-mishra-three-haryana-71-6-lunch-uttarakhand-ranji-deh-1280.jpg",
@@ -21863,18 +21887,6 @@
    }
   }
  },
- "sensex-holds-924-points-midday-nifty-23360-reliance-8-per-cent--bg": {
-  "id": "v-sensex-holds-924-points-midday-nifty-23360-reliance-8-p-bg",
-  "src": "/photos/v-sensex-holds-924-points-midday-nifty-23360-reliance-8-p-bg-1280.jpg",
-  "src800": "/photos/v-sensex-holds-924-points-midday-nifty-23360-reliance-8-p-bg-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Sanjibrc / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Coal Bhawan Kolkata (file photo)",
-  "alt_hi": "Coal Bhawan Kolkata (फ़ाइल फ़ोटो)",
-  "page": null
- },
  "sensex-holds-924-points-midday-nifty-23360-reliance-8-per-cent--p3": {
   "id": "v-sensex-holds-924-points-midday-nifty-23360-reliance-8-p-p3",
   "src": "/photos/v-sensex-holds-924-points-midday-nifty-23360-reliance-8-p-p3-1280.jpg",
@@ -21957,7 +21969,19 @@
   "licence": "CC BY-SA 3.0",
   "alt": "The Gevra opencast coal mine of South Eastern Coalfields in Korba district, Chhattisgarh (file photo)",
   "alt_hi": "छत्तीसगढ़ के कोरबा ज़िले में साउथ ईस्टर्न कोलफील्ड्स की गेवरा खुली कोयला खदान (फाइल फोटो) (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-coal-india-shares-4-per-cent-record-october-output-67-mt-en-1280.jpg",
+    "src800": "/photos/c-coal-india-shares-4-per-cent-record-october-output-67-mt-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-coal-india-shares-4-per-cent-record-october-output-67-mt-hi-1280.jpg",
+    "src800": "/photos/c-coal-india-shares-4-per-cent-record-october-output-67-mt-hi-640.jpg"
+   }
+  }
  },
  "justice-narasimha-recuses-lok-prahari-mop-judges-appointments-plea": {
   "id": "v-justice-narasimha-recuses-lok-prahari-mop-judges-appointment",
@@ -22029,7 +22053,19 @@
   "licence": "CC BY-SA 4.0",
   "alt": "The Supreme Court of India in New Delhi (file photo)",
   "alt_hi": "नई दिल्ली में भारत का सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-supreme-court-closes-ram-mandir-donation-theft-pleas-charges-en-1280.jpg",
+    "src800": "/photos/c-supreme-court-closes-ram-mandir-donation-theft-pleas-charges-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-supreme-court-closes-ram-mandir-donation-theft-pleas-charges-hi-1280.jpg",
+    "src800": "/photos/c-supreme-court-closes-ram-mandir-donation-theft-pleas-charges-hi-640.jpg"
+   }
+  }
  },
  "supreme-court-closes-ram-mandir-donation-theft-pleas-chargesheet--bg": {
   "id": "v-supreme-court-closes-ram-mandir-donation-theft-pleas-ch-bg",
@@ -22065,6 +22101,318 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Illuminated gateway inside the Shri Ram Janmabhoomi Mandir complex, Ayodhya (file photo)",
   "alt_hi": "अयोध्या में श्री राम जन्मभूमि मंदिर परिसर के अंदर रोशन द्वार (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation": {
+  "id": "v-chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation",
+  "src": "/photos/v-chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation-1280.jpg",
+  "src800": "/photos/v-chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: N. Vivekananthamoorthy / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "A rain-soaked Anna Salai in Chennai (file photo)",
+  "alt_hi": "बारिश से भीगी चेन्नई की अन्ना सलाई (फ़ाइल फ़ोटो)",
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation-en-1280.jpg",
+    "src800": "/photos/c-chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation-hi-1280.jpg",
+    "src800": "/photos/c-chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation-hi-640.jpg"
+   }
+  }
+ },
+ "cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight": {
+  "id": "v-cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight",
+  "src": "/photos/v-cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight-1280.jpg",
+  "src800": "/photos/v-cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Vijayingarsal / Wikimedia Commons",
+  "licence": "CC0",
+  "alt": "People wade through a waterlogged street in Chennai during heavy rain (file photo)",
+  "alt_hi": "भारी बारिश के दौरान चेन्नई की जलमग्न सड़क से गुजरते लोग (फ़ाइल फ़ोटो)",
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight-en-1280.jpg",
+    "src800": "/photos/c-cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight-hi-1280.jpg",
+    "src800": "/photos/c-cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight-hi-640.jpg"
+   }
+  }
+ },
+ "cyclone-murasu-severe-storm-ongole-landfall-tonight-imd": {
+  "id": "v-cyclone-murasu-severe-storm-ongole-landfall-tonight-imd",
+  "src": "/photos/v-cyclone-murasu-severe-storm-ongole-landfall-tonight-imd-1280.jpg",
+  "src800": "/photos/v-cyclone-murasu-severe-storm-ongole-landfall-tonight-imd-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Adityamadhav83 / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "A house wrecked by Cyclone Hudhud in Andhra Pradesh (file photo)",
+  "alt_hi": "आंध्र प्रदेश में चक्रवात हुदहुद से तबाह एक मकान (फ़ाइल फ़ोटो)",
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-cyclone-murasu-severe-storm-ongole-landfall-tonight-imd-en-1280.jpg",
+    "src800": "/photos/c-cyclone-murasu-severe-storm-ongole-landfall-tonight-imd-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-cyclone-murasu-severe-storm-ongole-landfall-tonight-imd-hi-1280.jpg",
+    "src800": "/photos/c-cyclone-murasu-severe-storm-ongole-landfall-tonight-imd-hi-640.jpg"
+   }
+  }
+ },
+ "delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023": {
+  "id": "v-delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023",
+  "src": "/photos/v-delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023-1280.jpg",
+  "src800": "/photos/v-delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Sumitmpsd / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "A building wrapped in thick smog in Delhi (file photo)",
+  "alt_hi": "दिल्ली में घने स्मॉग में लिपटी एक इमारत (फ़ाइल फ़ोटो)",
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023-en-1280.jpg",
+    "src800": "/photos/c-delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023-hi-1280.jpg",
+    "src800": "/photos/c-delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023-hi-640.jpg"
+   }
+  }
+ },
+ "delhi-aqi-214-poor-sunday-morning-ncr-moderate": {
+  "id": "v-delhi-aqi-214-poor-sunday-morning-ncr-moderate",
+  "src": "/photos/v-delhi-aqi-214-poor-sunday-morning-ncr-moderate-1280.jpg",
+  "src800": "/photos/v-delhi-aqi-214-poor-sunday-morning-ncr-moderate-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: wili hybrid / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Smog over central Delhi (file photo)",
+  "alt_hi": "मध्य दिल्ली पर छाया स्मॉग (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "delhi-aqi-167-rain-sunday-iit-delhi-245": {
+  "id": "v-delhi-aqi-167-rain-sunday-iit-delhi-245",
+  "src": "/photos/v-delhi-aqi-167-rain-sunday-iit-delhi-245-1280.jpg",
+  "src800": "/photos/v-delhi-aqi-167-rain-sunday-iit-delhi-245-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Jay.Jarosz / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The sun rises through polluted air in Delhi (file photo)",
+  "alt_hi": "दिल्ली में प्रदूषित हवा के बीच उगता सूरज (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam": {
+  "id": "v-cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapa",
+  "src": "/photos/v-cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapa-1280.jpg",
+  "src800": "/photos/v-cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapa-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "A cyclone over the Bay of Bengal seen from space (file photo)",
+  "alt_hi": "अंतरिक्ष से दिखता बंगाल की खाड़ी पर एक चक्रवात (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "puducherry-karaikal-dindigul-schools-shut-cyclone-signal": {
+  "id": "v-puducherry-karaikal-dindigul-schools-shut-cyclone-signal",
+  "src": "/photos/v-puducherry-karaikal-dindigul-schools-shut-cyclone-signal-1280.jpg",
+  "src800": "/photos/v-puducherry-karaikal-dindigul-schools-shut-cyclone-signal-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: McKay Savage from London, UK / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Women walk with umbrellas through rain in Tamil Nadu (file photo)",
+  "alt_hi": "तमिलनाडु में बारिश के बीच छाते लेकर चलती महिलाएं (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "delhi-rain-no-fix-pollution-experts-grap-stage-one": {
+  "id": "v-delhi-rain-no-fix-pollution-experts-grap-stage-one",
+  "src": "/photos/v-delhi-rain-no-fix-pollution-experts-grap-stage-one-1280.jpg",
+  "src800": "/photos/v-delhi-rain-no-fix-pollution-experts-grap-stage-one-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Vyacheslav Argenberg / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "A rain-washed street in Delhi at night (file photo)",
+  "alt_hi": "रात में बारिश से भीगी दिल्ली की एक सड़क (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depression": {
+  "id": "v-tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depression",
+  "src": "/photos/v-tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depression-1280.jpg",
+  "src800": "/photos/v-tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depression-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: MPVK / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Vendors push a cart through floodwater in Chennai (file photo)",
+  "alt_hi": "चेन्नई में बाढ़ के पानी से ठेला निकालते लोग (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "punjab-farm-fires-574-tarn-taran-amritsar-cheema-sirsa": {
+  "id": "v-punjab-farm-fires-574-tarn-taran-amritsar-cheema-sirsa",
+  "src": "/photos/v-punjab-farm-fires-574-tarn-taran-amritsar-cheema-sirsa-1280.jpg",
+  "src800": "/photos/v-punjab-farm-fires-574-tarn-taran-amritsar-cheema-sirsa-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: CIAT / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "Farmers burn crop stubble in a field in north India (file photo)",
+  "alt_hi": "उत्तर भारत में खेत में पराली जलाते किसान (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "karnataka-heavy-rain-forecast-south-bengaluru-24-degrees": {
+  "id": "v-karnataka-heavy-rain-forecast-south-bengaluru-24-degrees",
+  "src": "/photos/v-karnataka-heavy-rain-forecast-south-bengaluru-24-degrees-1280.jpg",
+  "src800": "/photos/v-karnataka-heavy-rain-forecast-south-bengaluru-24-degrees-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Gpkp / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Rain over RR Nagar in Bengaluru (file photo)",
+  "alt_hi": "बेंगलुरु के आरआर नगर में बारिश (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "nilgiris-landslide-bus-driver-killed-passengers-escape": {
+  "id": "v-nilgiris-landslide-bus-driver-killed-passengers-escape",
+  "src": "/photos/v-nilgiris-landslide-bus-driver-killed-passengers-escape-1280.jpg",
+  "src800": "/photos/v-nilgiris-landslide-bus-driver-killed-passengers-escape-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Kiran Jonnalagadda from Bangalore, India / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "Workers clear rocks from a mountain road after a landslide (file photo)",
+  "alt_hi": "भूस्खलन के बाद पहाड़ी सड़क से पत्थर हटाते मज़दूर (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "nairobi-16-storey-building-collapse-tear-gas-rescue": {
+  "id": "v-nairobi-16-storey-building-collapse-tear-gas-rescue",
+  "src": "/photos/v-nairobi-16-storey-building-collapse-tear-gas-rescue-1280.jpg",
+  "src800": "/photos/v-nairobi-16-storey-building-collapse-tear-gas-rescue-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Alt.arm / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Kenyan army rescuers and a sniffer dog at a collapsed building (file photo)",
+  "alt_hi": "ढही इमारत पर केन्या सेना के बचावकर्मी और खोजी कुत्ता (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "qinghai-zadoi-earthquake-5-3-days-after-tibet-quake": {
+  "id": "v-qinghai-zadoi-earthquake-5-3-days-after-tibet-quake",
+  "src": "/photos/v-qinghai-zadoi-earthquake-5-3-days-after-tibet-quake-1280.jpg",
+  "src800": "/photos/v-qinghai-zadoi-earthquake-5-3-days-after-tibet-quake-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: China News Service / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "Buildings flattened by the 2025 Tibet earthquake (file photo)",
+  "alt_hi": "2025 के तिब्बत भूकंप में ढही इमारतें (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "russia-ukraine-overnight-strikes-vinnytsia-belgorod-bryansk-perm": {
+  "id": "v-russia-ukraine-overnight-strikes-vinnytsia-belgorod-bryansk-",
+  "src": "/photos/v-russia-ukraine-overnight-strikes-vinnytsia-belgorod-bryansk--1280.jpg",
+  "src800": "/photos/v-russia-ukraine-overnight-strikes-vinnytsia-belgorod-bryansk--640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: State Emergency Service of Ukraine / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "Firefighters at burning cars after Russian shelling in Vinnytsia (file photo)",
+  "alt_hi": "विन्नित्सिया में रूसी हमले के बाद जलती कारों के पास दमकलकर्मी (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "crimea-blackout-russia-ukraine-strikes-oleshky-ceasefire": {
+  "id": "v-crimea-blackout-russia-ukraine-strikes-oleshky-ceasefire",
+  "src": "/photos/v-crimea-blackout-russia-ukraine-strikes-oleshky-ceasefire-1280.jpg",
+  "src800": "/photos/v-crimea-blackout-russia-ukraine-strikes-oleshky-ceasefire-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Alex Blokha / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Houses without power during a blackout in Ukraine (file photo)",
+  "alt_hi": "यूक्रेन में ब्लैकआउट के दौरान बिना बिजली के मकान (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "houthi-missiles-riyadh-taif-yanbu-saudi-alerts-makkah-jeddah": {
+  "id": "v-houthi-missiles-riyadh-taif-yanbu-saudi-alerts-makkah-jeddah",
+  "src": "/photos/v-houthi-missiles-riyadh-taif-yanbu-saudi-alerts-makkah-jeddah-1280.jpg",
+  "src800": "/photos/v-houthi-missiles-riyadh-taif-yanbu-saudi-alerts-makkah-jeddah-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: https://www.flickr.com/people/69061470@N05 / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Air defence interceptors streak across the night sky (file photo)",
+  "alt_hi": "रात के आसमान में दिखती एयर डिफेंस मिसाइलें (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "gaza-five-killed-saturday-khan-younis-beit-lahia": {
+  "id": "v-gaza-five-killed-saturday-khan-younis-beit-lahia",
+  "src": "/photos/v-gaza-five-killed-saturday-khan-younis-beit-lahia-1280.jpg",
+  "src800": "/photos/v-gaza-five-killed-saturday-khan-younis-beit-lahia-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Adnan Abu Hasna / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0 igo",
+  "alt": "Displaced families amid the destruction in Khan Younis (file photo)",
+  "alt_hi": "खान यूनिस में तबाही के बीच विस्थापित परिवार (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "gaza-city-strike-kills-one-1500-dead-since-ceasefire": {
+  "id": "v-gaza-city-strike-kills-one-1500-dead-since-ceasefire",
+  "src": "/photos/v-gaza-city-strike-kills-one-1500-dead-since-ceasefire-1280.jpg",
+  "src800": "/photos/v-gaza-city-strike-kills-one-1500-dead-since-ceasefire-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: WAFA in contract with a local company (APAimages)‏‏ / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Destroyed buildings in the Gaza Strip (file photo)",
+  "alt_hi": "गाज़ा पट्टी में तबाह इमारतें (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "odisha-cancels-collectors-leave-schools-shut-cyclone-arnab": {
+  "id": "v-odisha-cancels-collectors-leave-schools-shut-cyclone-arnab",
+  "src": "/photos/v-odisha-cancels-collectors-leave-schools-shut-cyclone-arnab-1280.jpg",
+  "src800": "/photos/v-odisha-cancels-collectors-leave-schools-shut-cyclone-arnab-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Bikash Ojha / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Trees uprooted by Cyclone Fani in Odisha (file photo)",
+  "alt_hi": "ओडिशा में चक्रवात फणि से उखड़े पेड़ (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-landfall": {
+  "id": "v-cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra",
+  "src": "/photos/v-cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-1280.jpg",
+  "src800": "/photos/v-cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Government of Odisha / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "Puri's Malatipatpur bus stand wrecked by Cyclone Fani (file photo)",
+  "alt_hi": "चक्रवात फणि से तबाह पुरी का मालतीपटपुर बस अड्डा (फ़ाइल फ़ोटो)",
   "page": null
  }
 }

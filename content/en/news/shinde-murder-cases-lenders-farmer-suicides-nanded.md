@@ -24,7 +24,6 @@ cover:
   template: speaker
   label: "Farm distress"
   headline: "'Murder cases will be registered'"
-  bg: "Nanded"
 related: [fadnavis-5000-drought-aid-shinde-dombivli-farmers, shinde-says-mahayuti-will-win-all-five-maharashtra-mlc-seats]
 seo:
   description: "Eknath Shinde warned microfinance firms, banks and moneylenders in Nanded that murder cases will be filed if harassed farmers die by suicide, with drought declared in 304 tehsils."

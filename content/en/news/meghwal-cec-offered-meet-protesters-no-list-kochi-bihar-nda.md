@@ -45,7 +45,6 @@ cover:
   template: speaker
   label: "Rally row"
   headline: "'But they never gave that list'"
-  bg: "Kochi"
 ---
 
 Union Law Minister Arjun Ram Meghwal said on Sunday that Chief Election Commissioner Gyanesh Kumar had **offered to meet the protesters** demanding his removal, but they had never taken him up on it.

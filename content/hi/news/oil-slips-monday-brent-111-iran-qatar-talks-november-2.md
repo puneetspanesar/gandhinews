@@ -28,7 +28,6 @@ cover:
   template: business
   label: "कच्चा तेल"
   headline: "ईरान वार्ता के बीच ब्रेंट 1.4% फिसला"
-  bg: "Jurong Island"
   data:
     - icon: trend-down
       value: "111.84 डॉलर"

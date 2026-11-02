@@ -27,7 +27,6 @@ cover:
   template: business
   label: "Asian markets"
   headline: "Kospi turns higher after chip-rout open"
-  bg: "Yeouido Seoul"
   data:
     - icon: trend-up
       value: "+1.4%"

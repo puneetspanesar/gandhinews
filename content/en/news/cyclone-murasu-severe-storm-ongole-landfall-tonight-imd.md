@@ -24,7 +24,6 @@ cover:
   template: breaking
   label: "Cyclone Murasu"
   headline: "Murasu to cross near Ongole tonight"
-  bg: "Ongole"
 related: [naidu-cyclone-murasu-review-cancels-delhi-visit, murmu-mayurbhanj-visit-postponed-cyclone-november-4, cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam]
 seo:
   description: "Cyclone Murasu is set to strengthen into a severe cyclonic storm and cross the Andhra Pradesh coast near Ongole between 11:30 pm Monday and 4 am Tuesday, IMD said."

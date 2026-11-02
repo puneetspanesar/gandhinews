@@ -25,7 +25,6 @@ cover:
   template: speaker
   label: "किसान संकट"
   headline: "'हत्या के मामले दर्ज होंगे'"
-  bg: "Nanded"
 related: [fadnavis-5000-drought-aid-shinde-dombivli-farmers, shinde-says-mahayuti-will-win-all-five-maharashtra-mlc-seats]
 seo:
   description: "एकनाथ शिंदे ने नांदेड़ में माइक्रोफाइनेंस कंपनियों, बैंकों और साहूकारों को चेताया कि उत्पीड़न से किसान ने खुदकुशी की तो हत्या का केस होगा; 304 तहसीलों में सूखा घोषित।"

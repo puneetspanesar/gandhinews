@@ -24,7 +24,6 @@ cover:
   template: breaking
   label: "Cyclone Murasu"
   headline: "Murasu 200 km off Chennai, schools shut"
-  bg: "Kavali"
 related: [cyclone-murasu-severe-storm-ongole-landfall-tonight-imd, naidu-cyclone-murasu-review-cancels-delhi-visit]
 seo:
   description: "Severe cyclonic storm Murasu was 200 km off Chennai and 260 km from Ongole at 5:30 am on 2 November, moving faster towards the Andhra coast. Schools are shut in three states."

@@ -24,7 +24,6 @@ cover:
   template: breaking
   label: "Cyclone Murasu"
   headline: "149 mm in Parrys as rain lashes Chennai"
-  bg: "Parrys Corner"
 related: [cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight, cyclone-murasu-severe-storm-ongole-landfall-tonight-imd, naidu-cyclone-murasu-review-cancels-delhi-visit]
 seo:
   description: "Chennai's Parrys recorded 149.2 mm of rain to 6 am on 2 November as Cyclone Murasu neared; GCC Commissioner G S Sameeran said waterlogging was minor and all subways were open."

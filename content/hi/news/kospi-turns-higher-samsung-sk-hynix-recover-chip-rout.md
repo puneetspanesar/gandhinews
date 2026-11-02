@@ -28,7 +28,6 @@ cover:
   template: business
   label: "एशियाई बाज़ार"
   headline: "चिप गिरावट के बाद कोस्पी बढ़त में"
-  bg: "Yeouido Seoul"
   data:
     - icon: trend-up
       value: "+1.4%"

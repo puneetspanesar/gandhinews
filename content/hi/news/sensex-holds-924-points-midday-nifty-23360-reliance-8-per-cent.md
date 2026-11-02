@@ -28,7 +28,6 @@ cover:
   template: business
   label: "बाज़ार"
   headline: "दोपहर तक सेंसेक्स 900 अंक ऊपर टिका"
-  bg: "Coal Bhawan Kolkata"
   data:
     - icon: trend-up
       value: "75,383.98"

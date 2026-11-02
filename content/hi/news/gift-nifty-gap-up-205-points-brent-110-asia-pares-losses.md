@@ -28,7 +28,6 @@ cover:
   template: business
   label: "बाज़ार की शुरुआत"
   headline: "गिफ्ट निफ्टी 200 अंक की बढ़त के संकेत में"
-  bg: "GIFT City Gandhinagar"
   data:
     - icon: chart-line
       value: "23,291"

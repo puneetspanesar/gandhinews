@@ -28,7 +28,6 @@ cover:
   template: business
   label: "वैश्विक संकेत"
   headline: "टोक्यो 1.5% नीचे, तेल 113 डॉलर से ऊपर"
-  bg: "Tokyo Stock Exchange"
   data:
     - icon: trend-down
       value: "62,330"

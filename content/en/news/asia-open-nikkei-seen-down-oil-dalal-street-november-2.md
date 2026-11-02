@@ -27,7 +27,6 @@ cover:
   template: business
   label: "Global cues"
   headline: "Tokyo seen 1.5% lower, oil above $113"
-  bg: "Tokyo Stock Exchange"
   data:
     - icon: trend-down
       value: "62,330"

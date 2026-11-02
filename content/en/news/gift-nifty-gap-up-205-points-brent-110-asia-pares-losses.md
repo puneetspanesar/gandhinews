@@ -27,7 +27,6 @@ cover:
   template: business
   label: "Market open"
   headline: "GIFT Nifty signals a 200-point gap-up"
-  bg: "GIFT City Gandhinagar"
   data:
     - icon: chart-line
       value: "23,291"

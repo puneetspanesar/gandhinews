@@ -24,7 +24,6 @@ cover:
   template: speaker
   label: "Cyclone Murasu"
   headline: "Naidu stays back as Murasu nears coast"
-  bg: "Nellore"
 related: [naidu-cyclone-arnab-review-zero-casualties-fishermen, cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam, cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-landfall, depression-cyclone-explained-how-imd-grades-bay-of-bengal-storms]
 seo:
   description: "Andhra Pradesh CM Chandrababu Naidu cancelled a Monday visit to Delhi and reviewed preparations as Cyclone Murasu heads for landfall between Nellore and Narsapur."

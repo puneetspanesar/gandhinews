@@ -271,7 +271,7 @@ def make(sid, raw, spec, lang, people, bgp, insetp, panels=None):
         for it in spec['data'][:3]:
             c.alpha_composite(icon(it.get('icon', 'trend-up'), 48), (48, y + 8))
             d.text((112, y), it['value'], font=font('rs' if '₹' in it['value'] else lang, 40), fill=(255, 255, 255, 255))
-            d.text((112, y + 50), it['label'], font=font(lang, 22, bold=False), fill=(255, 255, 255, 255))
+            d.text((112, y + 50), it['label'], font=font('rs' if '₹' in it['label'] else lang, 22, bold=False), fill=(255, 255, 255, 255))
             y += 114
     mark(c)
     text_block(c, lang, spec.get('label', ''), spec['headline'])

@@ -25,7 +25,6 @@ cover:
   template: breaking
   label: "चक्रवात मुरासु"
   headline: "चेन्नई में झमाझम, पैरीज़ में 149 मिमी"
-  bg: "Parrys Corner"
 related: [cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight, cyclone-murasu-severe-storm-ongole-landfall-tonight-imd, naidu-cyclone-murasu-review-cancels-delhi-visit]
 seo:
   description: "चक्रवात मुरासु के करीब आने पर 2 नवंबर सुबह 6 बजे तक चेन्नई के पैरीज़ में 149.2 मिमी बारिश हुई; आयुक्त जी एस समीरन ने कहा जलभराव मामूली है और सभी सबवे खुले हैं।"

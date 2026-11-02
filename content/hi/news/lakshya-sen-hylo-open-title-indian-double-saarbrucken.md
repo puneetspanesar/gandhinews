@@ -43,7 +43,6 @@ cover:
   template: sport
   label: हाइलो ओपन
   headline: "क्रिस्टी को हराकर लक्ष्य चैंपियन"
-  bg: "Saarbrücken"
   score: ["लक्ष्य 21-21", "क्रिस्टी 17-10"]
 ---
 

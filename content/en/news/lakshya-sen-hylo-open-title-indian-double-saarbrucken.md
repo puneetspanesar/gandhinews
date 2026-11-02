@@ -45,7 +45,6 @@ cover:
   template: sport
   label: Hylo Open
   headline: "Lakshya beats Christie for the title"
-  bg: "Saarbrücken"
   score: ["Lakshya 21-21", "Christie 17-10"]
 ---
 
