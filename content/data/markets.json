@@ -1,333 +1,324 @@
 {
- "as_of": "2026-11-02T14:00:00+05:30",
- "status": "closed",
- "session_date": "2026-11-02",
- "chart": "nifty-50",
- "indices": [
-  {
-   "id": "sensex",
-   "name": "Sensex",
-   "name_hi": "सेंसेक्स",
-   "value": 75111.79,
-   "change": 652.26,
-   "pct": 0.88,
-   "history": [
+  "as_of": "2026-11-02T16:10:00+05:30",
+  "status": "closed",
+  "session_date": "2026-11-02",
+  "chart": "nifty-50",
+  "indices": [
     {
-     "date": "2026-09-30",
-     "close": 72480.29
+      "id": "sensex",
+      "name": "Sensex",
+      "name_hi": "सेंसेक्स",
+      "value": 75692.78,
+      "change": 1233.25,
+      "pct": 1.66,
+      "history": [
+        {
+          "date": "2026-09-30",
+          "close": 72480.29
+        },
+        {
+          "date": "2026-10-01",
+          "close": 71909.7
+        },
+        {
+          "date": "2026-10-05",
+          "close": 72382.47
+        },
+        {
+          "date": "2026-10-06",
+          "close": 73067.81
+        },
+        {
+          "date": "2026-10-07",
+          "close": 72638.7
+        },
+        {
+          "date": "2026-10-08",
+          "close": 71593.24
+        },
+        {
+          "date": "2026-10-09",
+          "close": 72472.33
+        },
+        {
+          "date": "2026-10-12",
+          "close": 71924.68
+        },
+        {
+          "date": "2026-10-13",
+          "close": 73003.78
+        },
+        {
+          "date": "2026-10-14",
+          "close": 72781.89
+        },
+        {
+          "date": "2026-10-15",
+          "close": 74315.61
+        },
+        {
+          "date": "2026-10-22",
+          "close": 73249.39
+        },
+        {
+          "date": "2026-10-23",
+          "close": 73123.83
+        },
+        {
+          "date": "2026-10-26",
+          "close": 73606.75
+        },
+        {
+          "date": "2026-10-27",
+          "close": 73598.67
+        },
+        {
+          "date": "2026-10-28",
+          "close": 73246.03
+        },
+        {
+          "date": "2026-10-29",
+          "close": 74151.04
+        },
+        {
+          "date": "2026-10-30",
+          "close": 74459.53
+        },
+        {
+          "date": "2026-11-02",
+          "close": 75692.78
+        }
+      ],
+      "source": "https://upstox.com/news/market-news/stocks/market-wrap-nov-2-sensex-zooms-1-233-pts-nifty-50-ends-at-23-441-as-crude-oil-prices-ease-reliance-industries-soars-12/article-202833/"
     },
     {
-     "date": "2026-10-01",
-     "close": 71909.7
+      "id": "nifty-50",
+      "name": "Nifty 50",
+      "name_hi": "निफ्टी 50",
+      "value": 23440.8,
+      "change": 387.7,
+      "pct": 1.68,
+      "history": [
+        {
+          "date": "2026-09-30",
+          "close": 22620.45
+        },
+        {
+          "date": "2026-10-01",
+          "close": 22421.95
+        },
+        {
+          "date": "2026-10-05",
+          "close": 22555.75
+        },
+        {
+          "date": "2026-10-06",
+          "close": 22776.1
+        },
+        {
+          "date": "2026-10-07",
+          "close": 22603.05
+        },
+        {
+          "date": "2026-10-08",
+          "close": 22231.8
+        },
+        {
+          "date": "2026-10-09",
+          "close": 22520.45
+        },
+        {
+          "date": "2026-10-12",
+          "close": 22363.35
+        },
+        {
+          "date": "2026-10-13",
+          "close": 22721.95
+        },
+        {
+          "date": "2026-10-14",
+          "close": 22622.7
+        },
+        {
+          "date": "2026-10-15",
+          "close": 22997.35
+        },
+        {
+          "date": "2026-10-16",
+          "close": 23146.15
+        },
+        {
+          "date": "2026-10-22",
+          "close": 22687.65
+        },
+        {
+          "date": "2026-10-23",
+          "close": 22600.0
+        },
+        {
+          "date": "2026-10-26",
+          "close": 22753.2
+        },
+        {
+          "date": "2026-10-27",
+          "close": 22749.75
+        },
+        {
+          "date": "2026-10-28",
+          "close": 22698.85
+        },
+        {
+          "date": "2026-10-29",
+          "close": 22936.75
+        },
+        {
+          "date": "2026-10-30",
+          "close": 23053.1
+        },
+        {
+          "date": "2026-11-02",
+          "close": 23440.8
+        }
+      ],
+      "source": "https://www.angelone.in/news/market-updates/top-gainers-and-losers-on-november-2-2026-reliance-and-tata-steel-gain-while-infosys-drops-over-2 (published 15:47 IST, closing)"
     },
     {
-     "date": "2026-10-05",
-     "close": 72382.47
+      "id": "nifty-it",
+      "name": "Nifty IT",
+      "name_hi": "निफ्टी आईटी",
+      "value": 32606.9,
+      "change": null,
+      "pct": 2.32,
+      "history": [],
+      "source": "https://hdfcsky.com/news/weekly-stock-market-review-october-26-30-2026-nifty-reclaims-23053-as-pharma-surges-6-1percent-jio-platforms-lists-at-21percent-premium-fiis-return-with-rs3599-crore"
     },
     {
-     "date": "2026-10-06",
-     "close": 73067.81
+      "id": "nifty-midcap-150",
+      "name": "Nifty Midcap 150",
+      "name_hi": "निफ्टी मिडकैप 150",
+      "value": 21047.5,
+      "change": null,
+      "pct": null,
+      "history": [],
+      "source": "https://hdfcsky.com/news/weekly-stock-market-review-october-26-30-2026-nifty-reclaims-23053-as-pharma-surges-6-1percent-jio-platforms-lists-at-21percent-premium-fiis-return-with-rs3599-crore"
     },
     {
-     "date": "2026-10-07",
-     "close": 72638.7
-    },
-    {
-     "date": "2026-10-08",
-     "close": 71593.24
-    },
-    {
-     "date": "2026-10-09",
-     "close": 72472.33
-    },
-    {
-     "date": "2026-10-12",
-     "close": 71924.68
-    },
-    {
-     "date": "2026-10-13",
-     "close": 73003.78
-    },
-    {
-     "date": "2026-10-14",
-     "close": 72781.89
-    },
-    {
-     "date": "2026-10-15",
-     "close": 74315.61
-    },
-    {
-     "date": "2026-10-22",
-     "close": 73249.39
-    },
-    {
-     "date": "2026-10-23",
-     "close": 73123.83
-    },
-    {
-     "date": "2026-10-26",
-     "close": 73606.75
-    },
-    {
-     "date": "2026-10-27",
-     "close": 73598.67
-    },
-    {
-     "date": "2026-10-28",
-     "close": 73246.03
-    },
-    {
-     "date": "2026-10-29",
-     "close": 74151.04
-    },
-    {
-     "date": "2026-10-30",
-     "close": 74459.53
+      "id": "india-vix",
+      "name": "India VIX",
+      "name_hi": "इंडिया VIX",
+      "value": 15.66,
+      "change": 0.37,
+      "pct": 2.42,
+      "history": [],
+      "source": "https://hdfcsky.com (PTI copy and market ticker, 2 Nov, published 10:56 to 11:06 IST), VIX at 10:05 IST"
     }
-   ],
-   "source": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-2-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-jio-share-price-ipo-today-126110200053_1.html (14:00 IST)"
-  },
-  {
-   "id": "nifty-50",
-   "name": "Nifty 50",
-   "name_hi": "निफ्टी 50",
-   "value": 23247.4,
-   "change": 194.3,
-   "pct": 0.84,
-   "history": [
+  ],
+  "rates": [
     {
-     "date": "2026-09-30",
-     "close": 22620.45
+      "id": "usd-inr",
+      "name": "Rupee per dollar",
+      "name_hi": "रुपया प्रति डॉलर",
+      "value": 94.97,
+      "change": 0.21,
+      "pct": 0.22,
+      "decimals": 2,
+      "unit": "",
+      "source": "PTI via Free Press Journal and HDFC Sky, 2 Nov early trade (published 10:10 to 11:02 IST); previous close 94.76"
     },
     {
-     "date": "2026-10-01",
-     "close": 22421.95
+      "id": "brent",
+      "name": "Brent crude",
+      "name_hi": "ब्रेंट क्रूड",
+      "unit": "$/barrel",
+      "unit_hi": "$/बैरल",
+      "value": 109.95,
+      "change": -3.48,
+      "pct": -3.07,
+      "decimals": 2,
+      "source": "PTI via HDFC Sky and Free Press Journal, 2 Nov morning (published 10:10 to 11:02 IST)"
     },
     {
-     "date": "2026-10-05",
-     "close": 22555.75
+      "id": "gold",
+      "name": "Gold",
+      "name_hi": "सोना",
+      "unit": "₹/10 g, MCX",
+      "unit_hi": "₹/10 ग्राम, MCX",
+      "value": 141658,
+      "change": null,
+      "pct": -0.66,
+      "decimals": 0,
+      "source": "https://www.kotakneo.com/news/market-news/sensex-and-nifty-50-close-higher-amid-global-headwinds/"
     },
     {
-     "date": "2026-10-06",
-     "close": 22776.1
+      "id": "silver",
+      "name": "Silver",
+      "name_hi": "चांदी",
+      "unit": "₹/kg, MCX",
+      "unit_hi": "₹/किलो, MCX",
+      "value": 184624,
+      "change": null,
+      "pct": -2.55,
+      "decimals": 0,
+      "source": "https://www.kotakneo.com/news/market-news/sensex-and-nifty-50-close-higher-amid-global-headwinds/"
     },
     {
-     "date": "2026-10-07",
-     "close": 22603.05
-    },
-    {
-     "date": "2026-10-08",
-     "close": 22231.8
-    },
-    {
-     "date": "2026-10-09",
-     "close": 22520.45
-    },
-    {
-     "date": "2026-10-12",
-     "close": 22363.35
-    },
-    {
-     "date": "2026-10-13",
-     "close": 22721.95
-    },
-    {
-     "date": "2026-10-14",
-     "close": 22622.7
-    },
-    {
-     "date": "2026-10-15",
-     "close": 22997.35
-    },
-    {
-     "date": "2026-10-16",
-     "close": 23146.15
-    },
-    {
-     "date": "2026-10-22",
-     "close": 22687.65
-    },
-    {
-     "date": "2026-10-23",
-     "close": 22600.0
-    },
-    {
-     "date": "2026-10-26",
-     "close": 22753.2
-    },
-    {
-     "date": "2026-10-27",
-     "close": 22749.75
-    },
-    {
-     "date": "2026-10-28",
-     "close": 22698.85
-    },
-    {
-     "date": "2026-10-29",
-     "close": 22936.75
-    },
-    {
-     "date": "2026-10-30",
-     "close": 23053.1
+      "id": "gsec-10y",
+      "name": "10-year bond yield",
+      "name_hi": "10 साल के बॉन्ड पर यील्ड",
+      "unit": "%",
+      "unit_hi": "%",
+      "value": 7.401,
+      "change": 0.011,
+      "pct": null,
+      "decimals": 3,
+      "source": "https://tradingeconomics.com/india/government-bond-yield"
     }
-   ],
-   "source": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-2-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-jio-share-price-ipo-today-126110200053_1.html (14:00 IST)"
-  },
-  {
-   "id": "nifty-it",
-   "name": "Nifty IT",
-   "name_hi": "निफ्टी आईटी",
-   "value": 32606.9,
-   "change": null,
-   "pct": 2.32,
-   "history": [],
-   "source": "https://hdfcsky.com/news/weekly-stock-market-review-october-26-30-2026-nifty-reclaims-23053-as-pharma-surges-6-1percent-jio-platforms-lists-at-21percent-premium-fiis-return-with-rs3599-crore"
-  },
-  {
-   "id": "nifty-midcap-150",
-   "name": "Nifty Midcap 150",
-   "name_hi": "निफ्टी मिडकैप 150",
-   "value": 21047.5,
-   "change": null,
-   "pct": null,
-   "history": [],
-   "source": "https://hdfcsky.com/news/weekly-stock-market-review-october-26-30-2026-nifty-reclaims-23053-as-pharma-surges-6-1percent-jio-platforms-lists-at-21percent-premium-fiis-return-with-rs3599-crore"
-  },
-  {
-   "id": "india-vix",
-   "name": "India VIX",
-   "name_hi": "इंडिया VIX",
-   "value": 15.66,
-   "change": 0.37,
-   "pct": 2.42,
-   "history": [],
-   "source": "https://hdfcsky.com (PTI copy and market ticker, 2 Nov, published 10:56 to 11:06 IST), VIX at 10:05 IST"
-  }
- ],
- "rates": [
-  {
-   "id": "usd-inr",
-   "name": "Rupee per dollar",
-   "name_hi": "रुपया प्रति डॉलर",
-   "value": 94.97,
-   "change": 0.21,
-   "pct": 0.22,
-   "decimals": 2,
-   "unit": "",
-   "source": "PTI via Free Press Journal and HDFC Sky, 2 Nov early trade (published 10:10 to 11:02 IST); previous close 94.76"
-  },
-  {
-   "id": "brent",
-   "name": "Brent crude",
-   "name_hi": "ब्रेंट क्रूड",
-   "unit": "$/barrel",
-   "unit_hi": "$/बैरल",
-   "value": 109.95,
-   "change": -3.48,
-   "pct": -3.07,
-   "decimals": 2,
-   "source": "PTI via HDFC Sky and Free Press Journal, 2 Nov morning (published 10:10 to 11:02 IST)"
-  },
-  {
-   "id": "gold",
-   "name": "Gold",
-   "name_hi": "सोना",
-   "unit": "₹/10 g, MCX",
-   "unit_hi": "₹/10 ग्राम, MCX",
-   "value": 141658,
-   "change": null,
-   "pct": -0.66,
-   "decimals": 0,
-   "source": "https://www.kotakneo.com/news/market-news/sensex-and-nifty-50-close-higher-amid-global-headwinds/"
-  },
-  {
-   "id": "silver",
-   "name": "Silver",
-   "name_hi": "चांदी",
-   "unit": "₹/kg, MCX",
-   "unit_hi": "₹/किलो, MCX",
-   "value": 184624,
-   "change": null,
-   "pct": -2.55,
-   "decimals": 0,
-   "source": "https://www.kotakneo.com/news/market-news/sensex-and-nifty-50-close-higher-amid-global-headwinds/"
-  },
-  {
-   "id": "gsec-10y",
-   "name": "10-year bond yield",
-   "name_hi": "10 साल के बॉन्ड पर यील्ड",
-   "unit": "%",
-   "unit_hi": "%",
-   "value": 7.401,
-   "change": 0.011,
-   "pct": null,
-   "decimals": 3,
-   "source": "https://tradingeconomics.com/india/government-bond-yield"
-  }
- ],
- "movers": {
-  "gainers": [
-   {
-    "name": "Reliance Industries",
-    "pct": 7.8
-   },
-   {
-    "name": "Shriram Finance",
-    "pct": 4.86
-   },
-   {
-    "name": "Max Healthcare",
-    "pct": 4.67
-   },
-   {
-    "name": "Tata Steel",
-    "pct": 4.64
-   },
-   {
-    "name": "Coal India",
-    "pct": 4.22
-   }
   ],
-  "losers": [
-   {
-    "name": "Adani Ports",
-    "pct": -1.16
-   },
-   {
-    "name": "Sun Pharma",
-    "pct": -0.86
-   },
-   {
-    "name": "ICICI Bank",
-    "pct": -0.85
-   },
-   {
-    "name": "Infosys",
-    "pct": -0.71
-   },
-   {
-    "name": "Axis Bank",
-    "pct": -0.62
-   }
-  ],
-  "source": "HDFC Sky gainers and losers table, 2 Nov 12:00 IST (published 12:16 IST)"
- },
- "sectors": [],
- "sectors_source": "IT, Auto, FMCG, Energy, Media: https://hdfcsky.com/news/weekly-stock-market-review-october-26-30-2026-nifty-reclaims-23053-as-pharma-surges-6-1percent-jio-platforms-lists-at-21percent-premium-fiis-return-with-rs3599-crore ; Pharma: https://www.5paisa.com/blog/post-market-update-sensex-nifty-rise-second-day-broader-markets-fall-october-30-2026 ; Consumer Durables: https://www.kotakneo.com/news/market-news/sensex-and-nifty-50-close-higher-amid-global-headwinds/ . Bank, Metal, Realty only described as 'down about 0.5%' and PSU Bank as 'down over 1%' (HDFC Sky daily report), so left null.",
- "flows": {
-  "date": "2026-10-30",
-  "fii": 3598.54,
-  "dii": -817.51,
-  "unit": "₹ crore",
-  "source": "https://www.kotakneo.com/share-market-today/fii-dii-data/"
- },
- "notes": [
-  "Seeded from research on October 31, 2026. Nifty Bank, euro, pound and some sector moves were not found in a reliable source and are left out.",
-  "2 Nov 10:00 IST: Sensex, Nifty 50 and rupee from Business Standard live blog (10:00 and 09:01 IST); India VIX from HDFC Sky open report (data as of 09:24 IST); movers from Upstox (09:32 IST). Nifty IT and Nifty Midcap 150 still show the 30 October values; sector moves for today were not found in exact form and are hidden; gold, silver and G-sec yield keep their older values.",
-  "2 Nov 12:00 IST run: Sensex and Nifty 50 from EquityPandit (11:22 IST); India VIX 10:05 IST and movers (about 10:30 to 11:00 IST, four losers only found) from HDFC Sky; rupee and Brent from PTI morning copy. PTI gives the rupee's Friday close as 94.76, which differs from the earlier source. Nifty IT, Midcap 150, gold, silver and G-sec yield keep older values; sectors not found.",
-  "2 Nov 13:00 IST run: movers updated from HDFC Sky 12:00 IST table. No Sensex, Nifty, rupee or Brent print newer than 11:22 IST was found in a readable source, so index and rate values are kept as they were.",
-  "2 Nov 14:00 IST run: Sensex and Nifty 50 from Business Standard live blog (14:00 IST). Nifty Bank, Midcap, VIX, rupee, gold, Brent and movers keep their earlier readings; no newer time-stamped values were found in this run.",
-  "2 Nov 15:00 IST run: market closed at 15:30; no closing Sensex, Nifty or rate values could be read in a source during this run, so the 14:00 IST readings stay (as_of unchanged). The evening run should add the close and history row."
- ]
+  "movers": {
+    "gainers": [
+      {
+        "name": "Reliance Industries",
+        "pct": 11.6
+      },
+      {
+        "name": "Tata Steel",
+        "pct": 5.83
+      },
+      {
+        "name": "JSW Steel",
+        "pct": 5.13
+      }
+    ],
+    "losers": [
+      {
+        "name": "Infosys",
+        "pct": -2.03
+      },
+      {
+        "name": "ICICI Bank",
+        "pct": -0.76
+      },
+      {
+        "name": "Dr. Reddy's Laboratories",
+        "pct": -0.74
+      }
+    ],
+    "source": "https://www.angelone.in/news/market-updates/top-gainers-and-losers-on-november-2-2026-reliance-and-tata-steel-gain-while-infosys-drops-over-2 (closing, published 15:47 IST; only three each listed)"
+  },
+  "sectors": [],
+  "sectors_source": "IT, Auto, FMCG, Energy, Media: https://hdfcsky.com/news/weekly-stock-market-review-october-26-30-2026-nifty-reclaims-23053-as-pharma-surges-6-1percent-jio-platforms-lists-at-21percent-premium-fiis-return-with-rs3599-crore ; Pharma: https://www.5paisa.com/blog/post-market-update-sensex-nifty-rise-second-day-broader-markets-fall-october-30-2026 ; Consumer Durables: https://www.kotakneo.com/news/market-news/sensex-and-nifty-50-close-higher-amid-global-headwinds/ . Bank, Metal, Realty only described as 'down about 0.5%' and PSU Bank as 'down over 1%' (HDFC Sky daily report), so left null.",
+  "flows": {
+    "date": "2026-10-30",
+    "fii": 3598.54,
+    "dii": -817.51,
+    "unit": "₹ crore",
+    "source": "https://www.kotakneo.com/share-market-today/fii-dii-data/"
+  },
+  "notes": [
+    "Seeded from research on October 31, 2026. Nifty Bank, euro, pound and some sector moves were not found in a reliable source and are left out.",
+    "2 Nov 10:00 IST: Sensex, Nifty 50 and rupee from Business Standard live blog (10:00 and 09:01 IST); India VIX from HDFC Sky open report (data as of 09:24 IST); movers from Upstox (09:32 IST). Nifty IT and Nifty Midcap 150 still show the 30 October values; sector moves for today were not found in exact form and are hidden; gold, silver and G-sec yield keep their older values.",
+    "2 Nov 13:00 IST run: movers updated from HDFC Sky 12:00 IST table. No Sensex, Nifty, rupee or Brent print newer than 11:22 IST was found in a readable source, so index and rate values are kept as they were.",
+    "2 Nov 14:00 IST run: Sensex and Nifty 50 from Business Standard live blog (14:00 IST). Nifty Bank, Midcap, VIX, rupee, gold, Brent and movers keep their earlier readings; no newer time-stamped values were found in this run.",
+    "2 Nov 16:10 IST run (close): Sensex close from Upstox market wrap (16:00 IST); Nifty 50 close and movers (three each) from Angel One (15:47 IST). Nifty IT, Midcap 150, India VIX, rates and sectors keep earlier readings; 2 Nov FII/DII flows not yet found."
+  ]
 }
