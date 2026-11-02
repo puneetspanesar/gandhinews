@@ -55,10 +55,6 @@ A bench of Justices M M Sundresh and Prasanna B Varale said the relaxation was *
 
 The order came in the long-running Arjun Gopal case on air pollution in the capital, filed in 2015.
 
-```photo
-{"n":1,"subject":"M. M. Sundresh","caption":"Justice M M Sundresh, who sat on the bench that allowed the two-day relaxation.","alt":"Supreme Court judge Justice M M Sundresh"}
-```
-
 ## Who can sell, and where
 
 The bench **temporarily restored the licences** of traders whose licences had been cancelled, so they can sell approved green crackers between 4 and 6 November. Sales will be allowed only at places chosen by district collectors or commissioners together with district police chiefs. "The sale of firecrackers is prohibited at all other locations, including online platforms," the court said.
@@ -82,9 +78,5 @@ Manufacturers and traders must put up money as security, which will be forfeited
 The Central Pollution Control Board and state boards must file three air quality reports: one for 2 to 6 November, one for the two festival days, and one for **9 to 30 November**. The court also directed that the Winter Action Plan 2026, the Air Pollution Mitigation Plan 2026 and the annual action plan of the Commission for Air Quality Management be published in newspapers and on news channels.
 
 The judges said the aim was wider than one festival. "The endeavour is to bring about a holistic change for which the public perception has to change," the bench said, adding: "One must embrace the Precautionary Principle by being proactive to prevent issues."
-
-```photo
-{"n":3,"subject":"Prasanna B. Varale","caption":"Justice Prasanna B Varale, the other judge on the bench, which has asked for compliance reports by 14 December.","alt":"Supreme Court judge Justice Prasanna B Varale"}
-```
 
 Affidavits and reports are due by 14 December, and the case will be **listed for compliance on 16 December**.

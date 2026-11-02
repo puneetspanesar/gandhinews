@@ -58,10 +58,6 @@ KRBL, the company behind the India Gate basmati rice brand, on Monday reported a
 
 Consolidated net profit for the quarter ended 30 September came to ₹258.93 crore, against ₹172.11 crore a year earlier. Revenue from operations **rose 14.3% to ₹1,727.36 crore** from ₹1,511.08 crore. Profit before tax climbed to ₹349.04 crore from ₹232.52 crore, and earnings per share rose to ₹11.31 from ₹7.52.
 
-```photo
-{"n":1,"subject":"Basmati rice field","caption":"A basmati paddy field. KRBL processes, brands and exports basmati rice.","alt":"Basmati paddy growing in a field (file photo)"}
-```
-
 ## Flat on the previous quarter
 
 Against the April-June quarter, the picture was steadier. Revenue rose from ₹1,495.86 crore, while profit **edged down slightly** from ₹260.74 crore.

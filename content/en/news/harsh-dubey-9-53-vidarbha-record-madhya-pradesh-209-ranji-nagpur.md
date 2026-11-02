@@ -55,10 +55,6 @@ The one wicket that did not go to Dubey came early. **Nachiket Bhute removed Yas
 
 Madhya Pradesh never built the partnership they needed against him, and **209 was all they could manage**.
 
-```photo
-{"n":2,"subject":"Yash Dubey","caption":"Madhya Pradesh batter Yash Dubey, the only wicket of the innings that did not go to Harsh Dubey.","alt":"Madhya Pradesh batter Yash Dubey"}
-```
-
 The spell adds to an outstanding first-class record. Dubey took **69 wickets at an average of 16.99** in the 2024-25 season, and he made his India ODI debut in June this year and took four wickets in two matches. He is also on the books of Sunrisers Hyderabad in the IPL.
 
 Vidarbha now have three days to turn his effort into a first-innings lead. The four-day match runs until Thursday.

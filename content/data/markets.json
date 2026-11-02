@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-02T16:10:00+05:30",
+  "as_of": "2026-11-02T17:30:00+05:30",
   "status": "closed",
   "session_date": "2026-11-02",
   "chart": "nifty-50",
@@ -218,12 +218,12 @@
       "id": "usd-inr",
       "name": "Rupee per dollar",
       "name_hi": "रुपया प्रति डॉलर",
-      "value": 94.97,
-      "change": 0.21,
-      "pct": 0.22,
+      "value": 94.86,
+      "change": 0.1,
+      "pct": 0.11,
       "decimals": 2,
       "unit": "",
-      "source": "PTI via Free Press Journal and HDFC Sky, 2 Nov early trade (published 10:10 to 11:02 IST); previous close 94.76"
+      "source": "PTI via Deccan Herald and HDFC Sky, 2 Nov close (rupee down 10 paise at 94.86): https://www.deccanherald.com/business/markets/rupee-falls-10-paise-to-close-at-9486-against-us-dollar-4204287"
     },
     {
       "id": "brent",
@@ -319,6 +319,7 @@
     "2 Nov 10:00 IST: Sensex, Nifty 50 and rupee from Business Standard live blog (10:00 and 09:01 IST); India VIX from HDFC Sky open report (data as of 09:24 IST); movers from Upstox (09:32 IST). Nifty IT and Nifty Midcap 150 still show the 30 October values; sector moves for today were not found in exact form and are hidden; gold, silver and G-sec yield keep their older values.",
     "2 Nov 13:00 IST run: movers updated from HDFC Sky 12:00 IST table. No Sensex, Nifty, rupee or Brent print newer than 11:22 IST was found in a readable source, so index and rate values are kept as they were.",
     "2 Nov 14:00 IST run: Sensex and Nifty 50 from Business Standard live blog (14:00 IST). Nifty Bank, Midcap, VIX, rupee, gold, Brent and movers keep their earlier readings; no newer time-stamped values were found in this run.",
-    "2 Nov 16:10 IST run (close): Sensex close from Upstox market wrap (16:00 IST); Nifty 50 close and movers (three each) from Angel One (15:47 IST). Nifty IT, Midcap 150, India VIX, rates and sectors keep earlier readings; 2 Nov FII/DII flows not yet found."
+    "2 Nov 16:10 IST run (close): Sensex close from Upstox market wrap (16:00 IST); Nifty 50 close and movers (three each) from Angel One (15:47 IST). Nifty IT, Midcap 150, India VIX, rates and sectors keep earlier readings; 2 Nov FII/DII flows not yet found.",
+    "2 Nov 17:00 IST run: rupee close 94.86 (down 10 paise) from PTI via Deccan Herald and HDFC Sky. 2 Nov FII/DII flows not yet published in a readable source; other values unchanged."
   ]
 }

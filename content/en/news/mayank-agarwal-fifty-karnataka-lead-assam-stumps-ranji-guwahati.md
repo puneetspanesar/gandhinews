@@ -46,16 +46,8 @@ Karnataka took a firm grip on their Ranji Trophy match against Assam on Monday, 
 
 Assam had chosen to bat at Barsapara but lasted only 48.1 overs. Karnataka's reply was everything theirs was not. The openers, Mayank Agarwal and Rohan Patil, **put on 129 for the first wicket** at around five runs an over and took the sting out of the Assam attack.
 
-```photo
-{"n":1,"subject":"Rohan Patil (cricketer)","caption":"Karnataka opener Rohan Patil, who shared a stand of 129 with Mayank Agarwal before he fell in the 25th over.","alt":"Karnataka opener Rohan Patil"}
-```
-
 Patil fell in the 25th over, and **KL Shrijith was lbw to Amlanjyoti Das** for a brisk 19 off 16 balls four overs later, at 157. That was as good as it got for Assam. Agarwal and KV Aneesh saw Karnataka through to the close without further loss, though the scoring slowed sharply late in the day, with only seven runs coming from the last five overs.
 
 Agarwal finished **unbeaten on 57 off 95 balls**, with seven fours, and Aneesh was 7 not out. Assam's bowlers struggled for control: Mohit Thakur went for 39 in eight overs and Roshan Alam for 32 in six, both without a wicket.
-
-```photo
-{"n":2,"subject":"Amlanjyoti Das","caption":"Assam's Amlanjyoti Das, who trapped KL Shrijith lbw for one of the two Karnataka wickets on the day.","alt":"Assam bowler Amlanjyoti Das"}
-```
 
 With eight wickets in hand and three days left, Karnataka will look to **build a big first-innings lead** on Tuesday. The match runs until Thursday.
