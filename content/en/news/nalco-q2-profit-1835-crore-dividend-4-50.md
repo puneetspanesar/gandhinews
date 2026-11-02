@@ -72,8 +72,5 @@ The board declared an **interim dividend of ₹4.50 a share**, 90% of the ₹5 f
 
 The auditors again drew attention to **two wind power plants whose revenue is not recognised**, because power purchase agreements with the Rajasthan government are still pending. The dispute is before the Rajasthan High Court, and the auditors said it did not change their review conclusion.
 
-```photo
-{"n":1,"subject":"Rajasthan High Court Jodhpur","caption":"The Rajasthan High Court in Jodhpur, where NALCO's dispute over power purchase agreements for two wind plants is pending.","alt":"Rajasthan High Court building, Jodhpur (file photo)"}
-```
 
 The results came after the market closed. NALCO shares will **react when trading opens on Tuesday**.

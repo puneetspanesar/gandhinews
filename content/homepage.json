@@ -70,11 +70,11 @@
       "cyclone-murasu-severe-storm-ongole-landfall-tonight-imd"
     ],
     "relatedBeside": [
+      "oil-slump-deepens-brent-105-airlines-rally-iran-talks",
+      "keralam-satheesan-cancels-cliff-house-renovation-pwd-report",
       "sharad-pawar-ruby-hall-clinic-pune-cough-chest-pain",
       "itc-q2-profit-falls-18-per-cent-revenue-44-per-cent",
-      "vikram-misri-kathmandu-visit-november-4-5-balendra-shah",
-      "amit-shah-revanth-telangana-atm-congress-evm-hyderabad",
-      "modi-brese-44000-government-buildings-solar-700-crore"
+      "vikram-misri-kathmandu-visit-november-4-5-balendra-shah"
     ],
     "live": {
       "title": {
@@ -85,6 +85,61 @@
   },
   "briefing": {
     "items": [
+      {
+        "link": "oil-slump-deepens-brent-105-airlines-rally-iran-talks",
+        "lead": {
+          "en": "Oil:",
+          "hi": "तेल:"
+        },
+        "text": {
+          "en": "Brent sinks over 6% to near $105; airline shares soar.",
+          "hi": "ब्रेंट 6% से ज़्यादा गिरकर क़रीब 105 डॉलर पर, एयरलाइन शेयर उछले।"
+        }
+      },
+      {
+        "link": "prema-rawat-14-ball-fifty-fastest-women-t20-uttarakhand-hyderabad",
+        "lead": {
+          "en": "Prema Rawat:",
+          "hi": "प्रेमा रावत:"
+        },
+        "text": {
+          "en": "14-ball fifty, fastest in women's T20.",
+          "hi": "14 गेंदों में अर्धशतक, महिला टी20 में सबसे तेज़।"
+        }
+      },
+      {
+        "link": "keralam-satheesan-cancels-cliff-house-renovation-pwd-report",
+        "lead": {
+          "en": "Cliff House:",
+          "hi": "क्लिफ हाउस:"
+        },
+        "text": {
+          "en": "Satheesan cancels ₹1 crore repair order.",
+          "hi": "सतीशन ने ₹1 करोड़ का मरम्मत आदेश रद्द किया।"
+        }
+      },
+      {
+        "link": "nalco-q2-profit-1835-crore-dividend-4-50",
+        "lead": {
+          "en": "NALCO:",
+          "hi": "नाल्को:"
+        },
+        "text": {
+          "en": "Q2 profit ₹1,835 crore, ₹4.50 dividend.",
+          "hi": "दूसरी तिमाही में ₹1,835 करोड़ मुनाफ़ा, ₹4.50 लाभांश।"
+        }
+      },
+      {
+        "link": "india-saff-camp-kolkata-15-players-moosa-dhaka-pakistan",
+        "lead": {
+          "en": "SAFF:",
+          "hi": "सैफ़:"
+        },
+        "text": {
+          "en": "India train with 15 players before Dhaka.",
+          "hi": "ढाका से पहले भारत ने 15 खिलाड़ियों के साथ अभ्यास किया।"
+        }
+      },
       {
         "link": "india-thrash-south-korea-8-0-asian-champions-trophy-jalandhar",
         "lead": {
@@ -116,61 +171,6 @@
         "text": {
           "en": "Dow opens 403 points higher on midterms eve.",
           "hi": "मध्यावधि चुनाव से पहले डाउ 403 अंक ऊपर खुला।"
-        }
-      },
-      {
-        "link": "suvendu-sir-remove-infiltrators-esplanade-kolkata-howrah-polls",
-        "lead": {
-          "en": "Suvendu:",
-          "hi": "शुभेंदु:"
-        },
-        "text": {
-          "en": "SIR means \"remove infiltrators\", he tells Kolkata march.",
-          "hi": "कोलकाता मार्च में बोले, एसआईआर का मतलब \"घुसपैठिए हटाओ\"।"
-        }
-      },
-      {
-        "link": "oil-falls-4-per-cent-brent-108-iran-draft-proposal-qatar",
-        "lead": {
-          "en": "Oil:",
-          "hi": "तेल:"
-        },
-        "text": {
-          "en": "Brent falls over 4% on Iran draft deal hopes.",
-          "hi": "ईरान समझौते के मसौदे की उम्मीद में ब्रेंट 4% से ज़्यादा गिरा।"
-        }
-      },
-      {
-        "link": "tata-investment-q2-profit-falls-22-per-cent",
-        "lead": {
-          "en": "Tata Investment:",
-          "hi": "टाटा इन्वेस्टमेंट:"
-        },
-        "text": {
-          "en": "Quarterly profit falls about 22%.",
-          "hi": "तिमाही मुनाफ़ा क़रीब 22% घटा।"
-        }
-      },
-      {
-        "link": "fii-net-buyers-3115-crore-dii-sell-reliance-rally-november-2",
-        "lead": {
-          "en": "FIIs:",
-          "hi": "एफ़आईआई:"
-        },
-        "text": {
-          "en": "Foreign investors buy ₹3,115 crore of shares on rally day.",
-          "hi": "तेज़ी वाले दिन विदेशी निवेशकों ने ₹3,115 करोड़ के शेयर ख़रीदे।"
-        }
-      },
-      {
-        "link": "sharad-pawar-ruby-hall-clinic-pune-cough-chest-pain",
-        "lead": {
-          "en": "Pawar:",
-          "hi": "पवार:"
-        },
-        "text": {
-          "en": "Sharad Pawar admitted to Pune hospital, condition stable.",
-          "hi": "शरद पवार पुणे के अस्पताल में भर्ती, हालत स्थिर।"
         }
       }
     ]
@@ -245,11 +245,11 @@
       ]
     },
     "list": [
-      "suvendu-sir-remove-infiltrators-esplanade-kolkata-howrah-polls",
-      "oil-falls-4-per-cent-brent-108-iran-draft-proposal-qatar",
-      "india-thrash-south-korea-8-0-asian-champions-trophy-jalandhar",
-      "tata-investment-q2-profit-falls-22-per-cent",
-      "fii-net-buyers-3115-crore-dii-sell-reliance-rally-november-2"
+      "oil-slump-deepens-brent-105-airlines-rally-iran-talks",
+      "keralam-satheesan-cancels-cliff-house-renovation-pwd-report",
+      "prema-rawat-14-ball-fifty-fastest-women-t20-uttarakhand-hyderabad",
+      "nalco-q2-profit-1835-crore-dividend-4-50",
+      "india-saff-camp-kolkata-15-players-moosa-dhaka-pakistan"
     ],
     "also": [
       "reliance-shares-jump-6-per-cent-q2-profit-o2c-jio",
@@ -449,20 +449,20 @@
         ]
       },
       "list": [
+        "oil-slump-deepens-brent-105-airlines-rally-iran-talks",
+        "nalco-q2-profit-1835-crore-dividend-4-50",
         "oil-falls-4-per-cent-brent-108-iran-draft-proposal-qatar",
-        "wall-street-opens-higher-dow-403-oil-slides-midterms-eve",
-        "tata-investment-q2-profit-falls-22-per-cent",
-        "fii-net-buyers-3115-crore-dii-sell-reliance-rally-november-2"
+        "wall-street-opens-higher-dow-403-oil-slides-midterms-eve"
       ]
     },
     {
       "section": "states",
       "lead": "cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight",
       "list": [
+        "keralam-satheesan-cancels-cliff-house-renovation-pwd-report",
         "chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation",
         "cyclone-murasu-severe-storm-ongole-landfall-tonight-imd",
-        "naidu-cyclone-murasu-review-cancels-delhi-visit",
-        "deepender-hooda-barricades-pilot-rally-goers-stopped"
+        "naidu-cyclone-murasu-review-cancels-delhi-visit"
       ]
     },
     {
@@ -509,10 +509,10 @@
       "section": "sports",
       "lead": "india-thrash-south-korea-8-0-asian-champions-trophy-jalandhar",
       "list": [
+        "prema-rawat-14-ball-fifty-fastest-women-t20-uttarakhand-hyderabad",
+        "india-saff-camp-kolkata-15-players-moosa-dhaka-pakistan",
         "mumbai-247-6-railways-ranji-day-one-sangwan-three-sarfaraz",
-        "india-a-rising-stars-asia-cup-squad-tilak-varma-captain-doha",
-        "harsh-dubey-9-53-vidarbha-record-madhya-pradesh-209-ranji-nagpur",
-        "mayank-agarwal-fifty-karnataka-lead-assam-stumps-ranji-guwahati"
+        "india-a-rising-stars-asia-cup-squad-tilak-varma-captain-doha"
       ]
     }
   ],

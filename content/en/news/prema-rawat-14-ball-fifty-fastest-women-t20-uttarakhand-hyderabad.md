@@ -48,9 +48,6 @@ Prema Rawat needed just 14 balls in Pune on Monday to write her name into the re
 
 The 24-year-old India all-rounder came in at number four and finished **unbeaten on 50 off 14 balls**, a strike rate of 357. She and opener Raghvi Bist added an unbroken 58 in the last 2.5 overs as Uttarakhand, who chose to bat, piled up 187 for 2.
 
-```photo
-{"n":1,"subject":"Fatima Sana","caption":"Pakistan all-rounder Fatima Sana, whose 15-ball fifty against Zimbabwe earlier this year was the record until Monday.","alt":"Pakistan cricketer Fatima Sana"}
-```
 
 The innings beat the previous best of **15 balls by Pakistan's Fatima Sana**, set against Zimbabwe in 2026. Sweden's Anya Vaidya is next on the list with a 16-ball fifty, ahead of a group on 18 balls that includes Sophie Devine, Phoebe Litchfield and India wicketkeeper Richa Ghosh.
 

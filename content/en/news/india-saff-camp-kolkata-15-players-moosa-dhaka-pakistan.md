@@ -47,16 +47,13 @@ India began their SAFF Championship preparations in Kolkata on Monday with **onl
 
 Head coach Naushad Moosa and his assistant Bibiano Fernandes put the group through its paces at the National Centre of Excellence. Three more players were expected to arrive on Monday night, which would give Moosa **18 players for the Pakistan match**.
 
-```photo
-{"n":1,"subject":"Liston Colaco","caption":"Mohun Bagan winger Liston Colaco, who will join the India squad only after his club's ISL match against Odisha FC on 5 November.","alt":"India and Mohun Bagan winger Liston Colaco"}
-```
 
 The thin numbers are the cost of the calendar. The tournament starts before the FIFA window, so **players from clubs still busy in the ISL** will join only in Dhaka, after the league's fifth matchweek. Liston Colaco of Mohun Bagan Super Giant is due after his side's game against Odisha FC on 5 November, and East Bengal's Sandip Mandi and PV Vishnu after the trip to Chennaiyin FC two days later.
 
 Those in Kolkata included Mohun Bagan's Abhishek Suryavanshi, Priyansh Dubey and Suhail Bhat, FC Goa's Rony Wilson and Mohammedan SC's Adison Singh. Punjab FC's Nikhil Prabhu **completed the full session despite a limp** from Saturday's match against Mohun Bagan.
 
 ```photo
-{"n":2,"subject":"India national football team","caption":"The India national football team, the defending SAFF champions, who open in Dhaka against Pakistan.","alt":"India national football team (file photo)"}
+{"n":2,"subject":"India national football team","caption":"India's football squad before leaving for the 1962 Asian Games, which they won. Today's side are the defending SAFF champions (file photo).","alt":"India football team before the 1962 Asian Games (file photo)"}
 ```
 
 The team fly to Dhaka on Tuesday. India, the defending champions, play **Pakistan on 5 November** and the Maldives on 11 November in their second and final group match.

@@ -46,9 +46,6 @@ Keralam Chief Minister V D Satheesan on Monday ordered the **cancellation of rep
 
 The Public Works Department (PWD) had issued the order. In a statement, the Chief Minister's office said it was "issued in contravention" of his instructions, and that Satheesan has asked the **PWD Secretary for a report** on why the order went out without informing the Chief Minister or his office.
 
-```photo
-{"n":1,"subject":"Cliff House Thiruvananthapuram","caption":"Cliff House, the official residence of Keralam's Chief Minister, where the PWD had ordered repairs worth over ₹1 crore.","alt":"Cliff House, the Chief Minister's official residence in Thiruvananthapuram"}
-```
 
 ## A standing instruction
 
