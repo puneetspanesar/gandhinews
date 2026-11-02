@@ -30,10 +30,10 @@ cover:
   bg: "Muthoot Finance Kochi"
   data:
     - icon: trend-up
-      value: "₹2,508"
+      value: "Rs 2,508"
       label: "Day's high, about 8.8% above the low"
     - icon: currency-inr
-      value: "₹2,977 crore"
+      value: "Rs 2,977 crore"
       label: "Q2 standalone profit, up 27%"
     - icon: chart-line
       value: "46%"

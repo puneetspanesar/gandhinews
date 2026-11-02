@@ -66,15 +66,15 @@
       }
     ],
     "relatedBelow": [
-      "cyclone-murasu-severe-storm-ongole-landfall-tonight-imd",
-      "naidu-cyclone-murasu-review-cancels-delhi-visit"
+      "chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation",
+      "cyclone-murasu-severe-storm-ongole-landfall-tonight-imd"
     ],
     "relatedBeside": [
+      "sensex-1030-points-nifty-23330-day-high-reliance-quarter-of-gains",
+      "india-manufacturing-pmi-october-final-54-7-export-orders",
+      "supreme-court-vikram-nath-airfare-plea-dont-travel-by-air",
       "sensex-jumps-970-nifty-23313-oil-reliance-open-november-2",
-      "reliance-shares-jump-6-per-cent-q2-profit-o2c-jio",
-      "cji-surya-kant-deoghar-baidyanath-legal-services-camp-today",
-      "gift-nifty-gap-up-205-points-brent-110-asia-pares-losses",
-      "amit-shah-hyderabad-padayatra-charminar-sir-congress"
+      "reliance-shares-jump-6-per-cent-q2-profit-o2c-jio"
     ],
     "live": {
       "title": {
@@ -85,6 +85,72 @@
   },
   "briefing": {
     "items": [
+      {
+        "link": "chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation",
+        "lead": {
+          "en": "Chennai:",
+          "hi": "चेन्नई:"
+        },
+        "text": {
+          "en": "Parrys gets 149 mm as Murasu rain lashes the city.",
+          "hi": "मुरासु की बारिश, पैरीज़ में 149 मिमी पानी गिरा।"
+        }
+      },
+      {
+        "link": "sensex-1030-points-nifty-23330-day-high-reliance-quarter-of-gains",
+        "lead": {
+          "en": "Markets:",
+          "hi": "बाज़ार:"
+        },
+        "text": {
+          "en": "Sensex up over 1,000 points at day's high, Nifty 23,330.",
+          "hi": "सेंसेक्स 1,000 अंक से ज़्यादा चढ़ा, निफ्टी 23,330 पर।"
+        }
+      },
+      {
+        "link": "india-manufacturing-pmi-october-final-54-7-export-orders",
+        "lead": {
+          "en": "PMI:",
+          "hi": "पीएमआई:"
+        },
+        "text": {
+          "en": "October factory PMI 54.7, export orders at six-month high.",
+          "hi": "अक्टूबर का फ़ैक्टरी पीएमआई 54.7, निर्यात ऑर्डर छह महीने के शिखर पर।"
+        }
+      },
+      {
+        "link": "supreme-court-vikram-nath-airfare-plea-dont-travel-by-air",
+        "lead": {
+          "en": "Airfares:",
+          "hi": "हवाई किराया:"
+        },
+        "text": {
+          "en": "Supreme Court judge to petitioner: don't travel by air.",
+          "hi": "सुप्रीम कोर्ट के जज ने याचिकाकर्ता से कहा: हवाई यात्रा न करें।"
+        }
+      },
+      {
+        "link": "muthoot-finance-rebounds-9-per-cent-52-week-low-q2-profit",
+        "lead": {
+          "en": "Muthoot:",
+          "hi": "मुथूट:"
+        },
+        "text": {
+          "en": "Shares bounce 9% from a 52-week low after Q2.",
+          "hi": "दूसरी तिमाही के बाद शेयर 52 हफ़्ते के निचले स्तर से 9% उछले।"
+        }
+      },
+      {
+        "link": "bengal-collapse-maharashtra-ranji-eden-dadhe",
+        "lead": {
+          "en": "Ranji:",
+          "hi": "रणजी:"
+        },
+        "text": {
+          "en": "Bengal slump to 72 for 7 against Maharashtra at Eden.",
+          "hi": "ईडन में महाराष्ट्र के ख़िलाफ़ बंगाल 72 पर 7 विकेट गंवा बैठा।"
+        }
+      },
       {
         "link": "cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight",
         "lead": {
@@ -97,17 +163,6 @@
         }
       },
       {
-        "link": "sensex-jumps-970-nifty-23313-oil-reliance-open-november-2",
-        "lead": {
-          "en": "Markets:",
-          "hi": "बाज़ार:"
-        },
-        "text": {
-          "en": "Sensex jumps 970 points, Nifty tops 23,300 as oil eases.",
-          "hi": "तेल नरम, सेंसेक्स 970 अंक उछला, निफ्टी 23,300 के पार।"
-        }
-      },
-      {
         "link": "reliance-shares-jump-6-per-cent-q2-profit-o2c-jio",
         "lead": {
           "en": "Reliance:",
@@ -116,50 +171,6 @@
         "text": {
           "en": "Shares jump over 6% after a 41% profit rise.",
           "hi": "41% मुनाफ़ा बढ़ने के बाद शेयर 6% से ज़्यादा चढ़े।"
-        }
-      },
-      {
-        "link": "cji-surya-kant-deoghar-baidyanath-legal-services-camp-today",
-        "lead": {
-          "en": "CJI:",
-          "hi": "सीजेआई:"
-        },
-        "text": {
-          "en": "Surya Kant in Deoghar for a state legal services camp.",
-          "hi": "राज्य विधिक सेवा शिविर के लिए सूर्यकांत देवघर में।"
-        }
-      },
-      {
-        "link": "amit-shah-hyderabad-padayatra-charminar-sir-congress",
-        "lead": {
-          "en": "Shah:",
-          "hi": "शाह:"
-        },
-        "text": {
-          "en": "Amit Shah walks through old Hyderabad this afternoon.",
-          "hi": "अमित शाह आज दोपहर पुराने हैदराबाद में पदयात्रा करेंगे।"
-        }
-      },
-      {
-        "link": "supreme-court-ram-temple-trust-funds-probe-hearing-today",
-        "lead": {
-          "en": "Ram Temple:",
-          "hi": "राम मंदिर:"
-        },
-        "text": {
-          "en": "Supreme Court hears pleas over Trust donations today.",
-          "hi": "ट्रस्ट के चढ़ावे पर याचिकाओं की आज सुप्रीम कोर्ट में सुनवाई।"
-        }
-      },
-      {
-        "link": "antonelli-youngest-champion-mexico-verstappen-wins-hamilton-second",
-        "lead": {
-          "en": "F1:",
-          "hi": "एफ1:"
-        },
-        "text": {
-          "en": "Antonelli is the youngest world champion; Verstappen wins Mexico.",
-          "hi": "एंटोनेली सबसे युवा विश्व चैंपियन; मेक्सिको में वेरस्टैपेन जीते।"
         }
       }
     ]
@@ -227,18 +238,18 @@
   },
   "topStories": {
     "big": {
-      "id": "sensex-jumps-970-nifty-23313-oil-reliance-open-november-2",
+      "id": "sensex-1030-points-nifty-23330-day-high-reliance-quarter-of-gains",
       "also": [
-        "reliance-shares-jump-6-per-cent-q2-profit-o2c-jio",
-        "gift-nifty-gap-up-205-points-brent-110-asia-pares-losses"
+        "muthoot-finance-rebounds-9-per-cent-52-week-low-q2-profit",
+        "reliance-shares-jump-6-per-cent-q2-profit-o2c-jio"
       ]
     },
     "list": [
+      "india-manufacturing-pmi-october-final-54-7-export-orders",
+      "supreme-court-vikram-nath-airfare-plea-dont-travel-by-air",
+      "bengal-collapse-maharashtra-ranji-eden-dadhe",
       "amit-shah-hyderabad-padayatra-charminar-sir-congress",
-      "cji-surya-kant-deoghar-baidyanath-legal-services-camp-today",
-      "supreme-court-ram-temple-trust-funds-probe-hearing-today",
-      "railways-bowl-mumbai-ranji-round-four-cci-start",
-      "antonelli-youngest-champion-mexico-verstappen-wins-hamilton-second"
+      "cji-surya-kant-deoghar-baidyanath-legal-services-camp-today"
     ]
   },
   "startHere": [
@@ -414,16 +425,16 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "supreme-court-vikram-nath-airfare-plea-dont-travel-by-air",
         "cji-surya-kant-deoghar-baidyanath-legal-services-camp-today",
         "supreme-court-ram-temple-trust-funds-probe-hearing-today",
-        "justice-bhuyan-arbitrary-power-thrives-ignorance-fear-ustm",
-        "supreme-court-senior-counsel-oral-mentioning-bar-from-today"
+        "justice-bhuyan-arbitrary-power-thrives-ignorance-fear-ustm"
       ],
       "lead": "amit-shah-hyderabad-padayatra-charminar-sir-congress"
     },
     {
       "section": "economy",
-      "lead": "sensex-jumps-970-nifty-23313-oil-reliance-open-november-2",
+      "lead": "sensex-1030-points-nifty-23330-day-high-reliance-quarter-of-gains",
       "module": {
         "type": "markets",
         "indicators": [
@@ -434,20 +445,20 @@
         ]
       },
       "list": [
-        "reliance-shares-jump-6-per-cent-q2-profit-o2c-jio",
-        "gift-nifty-gap-up-205-points-brent-110-asia-pares-losses",
-        "asia-open-nikkei-seen-down-oil-dalal-street-november-2",
-        "oil-slips-monday-brent-111-iran-qatar-talks-november-2"
+        "sensex-jumps-970-nifty-23313-oil-reliance-open-november-2",
+        "india-manufacturing-pmi-october-final-54-7-export-orders",
+        "muthoot-finance-rebounds-9-per-cent-52-week-low-q2-profit",
+        "reliance-shares-jump-6-per-cent-q2-profit-o2c-jio"
       ]
     },
     {
       "section": "states",
       "lead": "cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight",
       "list": [
+        "chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation",
         "cyclone-murasu-severe-storm-ongole-landfall-tonight-imd",
         "naidu-cyclone-murasu-review-cancels-delhi-visit",
-        "deepender-hooda-barricades-pilot-rally-goers-stopped",
-        "shinde-murder-cases-lenders-farmer-suicides-nanded"
+        "deepender-hooda-barricades-pilot-rally-goers-stopped"
       ]
     },
     {
@@ -494,10 +505,10 @@
       "section": "sports",
       "lead": "antonelli-youngest-champion-mexico-verstappen-wins-hamilton-second",
       "list": [
+        "bengal-collapse-maharashtra-ranji-eden-dadhe",
         "india-south-korea-asian-champions-trophy-last-league-jalandhar-preview",
         "railways-bowl-mumbai-ranji-round-four-cci-start",
-        "priyanshu-moliya-321-baroda-record-test-dream",
-        "steelers-27-6-browns-warren-143-yards-rodgers"
+        "priyanshu-moliya-321-baroda-record-test-dream"
       ]
     }
   ],
