@@ -52,17 +52,9 @@ Navdeep Saini made the most of an early chance at Palam on Monday, taking **two 
 
 Services won the toss and chose to bat at the Airforce Complex Ground. It went wrong straight away. Saini had opener Shubham Rohilla caught by Yash Dhull off the second ball of the match, and later removed Ravi Chauhan, caught by Anuj Rawat for 7.
 
-```photo
-{"n":1,"subject":"Yash Dhull","caption":"Yash Dhull took the catch that gave Navdeep Saini his first wicket off the second ball of the match.","alt":"Delhi batter Yash Dhull"}
-```
-
 Off-spinner Hrithik Shokeen then had Vineet Dhankhar caught by Ayush Badoni for 4, and Aman Chaudhary ended Nitin Tanwar's patient 55-ball 22. That left Services at **44 for four in the 18th over**, with the scoring rate barely above two an over.
 
 Paliwal and Mohit Ahlawat dug in from there. By the 30th over the captain had made 31 off 57 balls and Ahlawat 20 off 35, including a six, and the pair had taken the score to 92 without further loss.
-
-```photo
-{"n":2,"subject":"Air Force Station Palam","caption":"The match is being played at the Airforce Complex Ground at Palam, the home of Services cricket in Delhi.","alt":"Air Force Station Palam in New Delhi"}
-```
 
 They kept going into the afternoon, and Services were **112 for four after 35 overs**, the fifth-wicket stand worth 68.
 

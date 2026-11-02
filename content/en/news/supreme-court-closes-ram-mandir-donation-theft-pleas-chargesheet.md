@@ -67,10 +67,6 @@ Mehta said some of the accused had invested the money or put it in bank accounts
 
 The 105 figure is the same count of thefts the Uttar Pradesh government had placed before the court in September, when it said an analysis of temple CCTV footage had picked up the incidents and promised a chargesheet within days.
 
-```photo
-{"n":2,"subject":"Ram Mandir Ayodhya Singh Dwar","caption":"The temple's main entrance in Ayodhya, where devotees make the offerings that the accused are alleged to have taken.","alt":"The main gate of the Ram Mandir in Ayodhya"}
-```
-
 ## What happens next
 
 Monday's order ends the Supreme Court's watch over the investigation. The case of the eight accused will now be tried in the trial court, and the SIT can file further reports there as its forensic audit of the money goes on.

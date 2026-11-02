@@ -72,18 +72,10 @@ The company said it **produced 67.2 million tonnes of coal** in October, its hig
 
 Supplies did even better. Coal India **shipped 70.3 million tonnes**, the first time its monthly dispatches have crossed 70 million tonnes, beating the 69.4 million tonnes it moved in March this year.
 
-```photo
-{"n":1,"subject":"Talcher Coalfield","caption":"The Talcher coalfield in Odisha, worked by Mahanadi Coalfields, which supplied more than 20 million tonnes in a single month for the first time in October.","alt":"Opencast mining at the Talcher coalfield in Odisha (file photo)"}
-```
-
 Much of that coal went to power stations. Supplies to the power sector reached a **record 57.1 million tonnes**, and the railways loaded an average of 310 rakes a day for power plants, up from the earlier best of 302.8 in March 2025. Mahanadi Coalfields, its Odisha arm, crossed 20 million tonnes of supplies in a month for the first time.
 
 ## Why it matters
 
 The numbers came as Coal India marked **its 51st foundation day** on Sunday. The company mined 768 million tonnes in 2025-26 and has set itself a target of 815 million tonnes this year, and a record October moves it closer to that goal.
-
-```photo
-{"n":2,"subject":"Korba Super Thermal Power Station","caption":"NTPC's Korba power station in Chhattisgarh, one of the coal-fired plants that took a record share of Coal India's supplies in October.","alt":"Korba Super Thermal Power Station in Chhattisgarh (file photo)"}
-```
 
 It is also spending faster. Capital expenditure in the first half of the year **rose 27% to ₹7,966 crore**, more than it had planned for the period.

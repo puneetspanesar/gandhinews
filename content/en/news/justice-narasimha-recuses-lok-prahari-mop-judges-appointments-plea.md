@@ -53,10 +53,6 @@ The petition, filed by the NGO Lok Prahari, was listed before Justices Narasimha
 
 The court did not give a fresh date, and it was not said which bench will now take up the plea.
 
-```photo
-{"n":1,"subject":"Alok Aradhe","caption":"Justice Alok Aradhe was the second judge on the bench before which Lok Prahari's petition was listed.","alt":"Justice Alok Aradhe"}
-```
-
 ## What the plea wants
 
 Lok Prahari says the revised MoP has remained **unfinished for nearly 11 years** despite repeated letters between the Union government and the Supreme Court. It also points to the absence of clear, public criteria for choosing judges for the constitutional courts.

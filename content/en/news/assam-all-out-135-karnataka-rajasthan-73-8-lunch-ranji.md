@@ -67,10 +67,6 @@ The collapse in Dharamsala was even steeper. Rajasthan, batting first against Hi
 
 In Agartala, Saurashtra chose to field and had Tripura 50 for five at lunch. Tripura crawled at barely one and a half runs an over and had moved only to **84 for five after 42 overs** by early afternoon.
 
-```photo
-{"n":2,"subject":"Maharaja Bir Bikram College Stadium","caption":"Saurashtra's bowlers kept Tripura to 84 for five in 42 overs at the Maharaja Bir Bikram College Stadium in Agartala.","alt":"Maharaja Bir Bikram College Stadium, Agartala"}
-```
-
 It was not all one way. In Ahmedabad, Gujarat's openers batted through the morning against Kerala, reaching **95 without loss** in 32 overs at lunch. Tamil Nadu were also comfortable at 116 for two in the 36th over against Chandigarh.
 
 This is the last round of four-day cricket before the Ranji Trophy breaks for the white-ball season, so first-innings leads won on these pitches could weigh heavily in the group tables.

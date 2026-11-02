@@ -70,11 +70,11 @@
       "cyclone-murasu-severe-storm-ongole-landfall-tonight-imd"
     ],
     "relatedBeside": [
+      "supreme-court-closes-ram-mandir-donation-theft-pleas-chargesheet",
+      "coal-india-shares-4-per-cent-record-october-output-67-mt",
       "sensex-holds-924-points-midday-nifty-23360-reliance-8-per-cent",
       "azam-khan-supreme-court-ed-arrest-plea-cji-this-week",
-      "sensex-1030-points-nifty-23330-day-high-reliance-quarter-of-gains",
-      "india-manufacturing-pmi-october-final-54-7-export-orders",
-      "supreme-court-vikram-nath-airfare-plea-dont-travel-by-air"
+      "sensex-1030-points-nifty-23330-day-high-reliance-quarter-of-gains"
     ],
     "live": {
       "title": {
@@ -85,6 +85,50 @@
   },
   "briefing": {
     "items": [
+      {
+        "link": "supreme-court-closes-ram-mandir-donation-theft-pleas-chargesheet",
+        "lead": {
+          "en": "Ram Mandir:",
+          "hi": "राम मंदिर:"
+        },
+        "text": {
+          "en": "Supreme Court closes donation theft pleas, no CBI probe.",
+          "hi": "सुप्रीम कोर्ट ने दान चोरी की याचिकाएं बंद कीं, सीबीआई जांच नहीं।"
+        }
+      },
+      {
+        "link": "justice-narasimha-recuses-lok-prahari-mop-judges-appointments-plea",
+        "lead": {
+          "en": "Judges:",
+          "hi": "जज:"
+        },
+        "text": {
+          "en": "Justice Narasimha recuses from plea on appointments rulebook.",
+          "hi": "जस्टिस नरसिम्हा नियुक्ति नियमावली वाली याचिका से अलग हुए।"
+        }
+      },
+      {
+        "link": "coal-india-shares-4-per-cent-record-october-output-67-mt",
+        "lead": {
+          "en": "Coal India:",
+          "hi": "कोल इंडिया:"
+        },
+        "text": {
+          "en": "Shares up 4% after record October output.",
+          "hi": "अक्टूबर में रिकॉर्ड उत्पादन के बाद शेयर 4% चढ़े।"
+        }
+      },
+      {
+        "link": "navdeep-saini-two-services-112-4-delhi-ranji-palam",
+        "lead": {
+          "en": "Ranji:",
+          "hi": "रणजी:"
+        },
+        "text": {
+          "en": "Saini takes two, Services recover to 112 for 4 vs Delhi.",
+          "hi": "सैनी के दो विकेट, दिल्ली के ख़िलाफ़ सर्विसेज़ 112 पर 4।"
+        }
+      },
       {
         "link": "sensex-holds-924-points-midday-nifty-23360-reliance-8-per-cent",
         "lead": {
@@ -108,17 +152,6 @@
         }
       },
       {
-        "link": "angkrish-raghuvanshi-fifty-mumbai-109-0-lunch-railways-ranji-cci",
-        "lead": {
-          "en": "Ranji:",
-          "hi": "रणजी:"
-        },
-        "text": {
-          "en": "Raghuvanshi fifty, Mumbai 109 for 0 at lunch vs Railways.",
-          "hi": "रघुवंशी का अर्धशतक, लंच तक मुंबई 109 पर 0।"
-        }
-      },
-      {
         "link": "chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation",
         "lead": {
           "en": "Chennai:",
@@ -138,39 +171,6 @@
         "text": {
           "en": "October factory PMI 54.7, export orders at six-month high.",
           "hi": "अक्टूबर का फ़ैक्टरी पीएमआई 54.7, निर्यात ऑर्डर छह महीने के शिखर पर।"
-        }
-      },
-      {
-        "link": "supreme-court-vikram-nath-airfare-plea-dont-travel-by-air",
-        "lead": {
-          "en": "Airfares:",
-          "hi": "हवाई किराया:"
-        },
-        "text": {
-          "en": "Supreme Court judge to petitioner: don't travel by air.",
-          "hi": "सुप्रीम कोर्ट के जज ने याचिकाकर्ता से कहा: हवाई यात्रा न करें।"
-        }
-      },
-      {
-        "link": "muthoot-finance-rebounds-9-per-cent-52-week-low-q2-profit",
-        "lead": {
-          "en": "Muthoot:",
-          "hi": "मुथूट:"
-        },
-        "text": {
-          "en": "Shares bounce 9% from a 52-week low after Q2.",
-          "hi": "दूसरी तिमाही के बाद शेयर 52 हफ़्ते के निचले स्तर से 9% उछले।"
-        }
-      },
-      {
-        "link": "cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight",
-        "lead": {
-          "en": "Cyclone:",
-          "hi": "चक्रवात:"
-        },
-        "text": {
-          "en": "Murasu 200 km off Chennai, schools shut in three states.",
-          "hi": "मुरासु चेन्नई से 200 किमी दूर, तीन राज्यों में स्कूल बंद।"
         }
       }
     ]
@@ -245,11 +245,11 @@
       ]
     },
     "list": [
-      "azam-khan-supreme-court-ed-arrest-plea-cji-this-week",
-      "angkrish-raghuvanshi-fifty-mumbai-109-0-lunch-railways-ranji-cci",
-      "india-manufacturing-pmi-october-final-54-7-export-orders",
-      "supreme-court-vikram-nath-airfare-plea-dont-travel-by-air",
-      "bengal-collapse-maharashtra-ranji-eden-dadhe"
+      "supreme-court-closes-ram-mandir-donation-theft-pleas-chargesheet",
+      "justice-narasimha-recuses-lok-prahari-mop-judges-appointments-plea",
+      "coal-india-shares-4-per-cent-record-october-output-67-mt",
+      "navdeep-saini-two-services-112-4-delhi-ranji-palam",
+      "assam-all-out-135-karnataka-rajasthan-73-8-lunch-ranji"
     ]
   },
   "startHere": [
@@ -425,10 +425,10 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "supreme-court-closes-ram-mandir-donation-theft-pleas-chargesheet",
+        "justice-narasimha-recuses-lok-prahari-mop-judges-appointments-plea",
         "azam-khan-supreme-court-ed-arrest-plea-cji-this-week",
-        "supreme-court-vikram-nath-airfare-plea-dont-travel-by-air",
-        "cji-surya-kant-deoghar-baidyanath-legal-services-camp-today",
-        "supreme-court-ram-temple-trust-funds-probe-hearing-today"
+        "supreme-court-vikram-nath-airfare-plea-dont-travel-by-air"
       ],
       "lead": "amit-shah-hyderabad-padayatra-charminar-sir-congress"
     },
@@ -445,10 +445,10 @@
         ]
       },
       "list": [
+        "coal-india-shares-4-per-cent-record-october-output-67-mt",
         "sensex-1030-points-nifty-23330-day-high-reliance-quarter-of-gains",
         "sensex-jumps-970-nifty-23313-oil-reliance-open-november-2",
-        "india-manufacturing-pmi-october-final-54-7-export-orders",
-        "muthoot-finance-rebounds-9-per-cent-52-week-low-q2-profit"
+        "india-manufacturing-pmi-october-final-54-7-export-orders"
       ]
     },
     {
@@ -503,12 +503,12 @@
     },
     {
       "section": "sports",
-      "lead": "angkrish-raghuvanshi-fifty-mumbai-109-0-lunch-railways-ranji-cci",
+      "lead": "navdeep-saini-two-services-112-4-delhi-ranji-palam",
       "list": [
+        "assam-all-out-135-karnataka-rajasthan-73-8-lunch-ranji",
+        "angkrish-raghuvanshi-fifty-mumbai-109-0-lunch-railways-ranji-cci",
         "saiteja-three-in-over-punjab-84-5-lunch-andhra-ranji-mohali",
-        "mayank-mishra-three-haryana-71-6-lunch-uttarakhand-ranji-dehradun",
-        "bengal-collapse-maharashtra-ranji-eden-dadhe",
-        "india-south-korea-asian-champions-trophy-last-league-jalandhar-preview"
+        "mayank-mishra-three-haryana-71-6-lunch-uttarakhand-ranji-dehradun"
       ]
     }
   ],
