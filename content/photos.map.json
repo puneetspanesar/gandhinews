@@ -22533,7 +22533,19 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Eden Gardens in Kolkata, venue of the Bengal v Maharashtra Ranji Trophy match (file photo)",
   "alt_hi": "कोलकाता का ईडन गार्डन्स, बंगाल और महाराष्ट्र के रणजी मैच का मैदान (फाइल फोटो) (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-bengal-143-porel-shami-bad-light-maharashtra-eden-en-1280.jpg",
+    "src800": "/photos/c-bengal-143-porel-shami-bad-light-maharashtra-eden-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-bengal-143-porel-shami-bad-light-maharashtra-eden-hi-1280.jpg",
+    "src800": "/photos/c-bengal-143-porel-shami-bad-light-maharashtra-eden-hi-640.jpg"
+   }
+  }
  },
  "bengal-143-porel-shami-bad-light-maharashtra-eden--p2": {
   "id": "v-bengal-143-porel-shami-bad-light-maharashtra-eden-p2",
@@ -22557,7 +22569,19 @@
   "licence": "CC BY-SA 4.0",
   "alt": "The Supreme Court of India in New Delhi (file photo)",
   "alt_hi": "नई दिल्ली में भारत का सुप्रीम कोर्ट (फाइल फोटो) (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-supreme-court-dismisses-sukesh-chandrashekhar-plea-stay-conv-en-1280.jpg",
+    "src800": "/photos/c-supreme-court-dismisses-sukesh-chandrashekhar-plea-stay-conv-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-supreme-court-dismisses-sukesh-chandrashekhar-plea-stay-conv-hi-1280.jpg",
+    "src800": "/photos/c-supreme-court-dismisses-sukesh-chandrashekhar-plea-stay-conv-hi-640.jpg"
+   }
+  }
  },
  "supreme-court-dismisses-sukesh-chandrashekhar-plea-stay-conviction-judge-impersonation--p2": {
   "id": "v-supreme-court-dismisses-sukesh-chandrashekhar-plea-stay-p2",
@@ -22581,7 +22605,19 @@
   "licence": "CC BY-SA 4.0",
   "alt": "The Supreme Court of India in New Delhi (file photo)",
   "alt_hi": "नई दिल्ली में भारत का सुप्रीम कोर्ट (फाइल फोटो) (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-supreme-court-nbems-neet-pg-questions-disclosure-transparenc-en-1280.jpg",
+    "src800": "/photos/c-supreme-court-nbems-neet-pg-questions-disclosure-transparenc-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-supreme-court-nbems-neet-pg-questions-disclosure-transparenc-hi-1280.jpg",
+    "src800": "/photos/c-supreme-court-nbems-neet-pg-questions-disclosure-transparenc-hi-640.jpg"
+   }
+  }
  },
  "supreme-court-nbems-neet-pg-questions-disclosure-transparency--p2": {
   "id": "v-supreme-court-nbems-neet-pg-questions-disclosure-transp-p2",
@@ -22605,7 +22641,19 @@
   "licence": "CC BY 3.0",
   "alt": "Jai Shroff, chairman and group CEO of UPL (file photo)",
   "alt_hi": "यूपीएल के चेयरमैन और ग्रुप सीईओ जय श्रॉफ (फाइल फोटो) (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-upl-escorts-kubota-q2-profit-falls-november-2-en-1280.jpg",
+    "src800": "/photos/c-upl-escorts-kubota-q2-profit-falls-november-2-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-upl-escorts-kubota-q2-profit-falls-november-2-hi-1280.jpg",
+    "src800": "/photos/c-upl-escorts-kubota-q2-profit-falls-november-2-hi-640.jpg"
+   }
+  }
  },
  "upl-escorts-kubota-q2-profit-falls-november-2--bg": {
   "id": "v-upl-escorts-kubota-q2-profit-falls-november-2-bg",
@@ -22629,6 +22677,318 @@
   "licence": "CC BY-SA 4.0",
   "alt": "A Farmtrac tractor in a field (file photo)",
   "alt_hi": "खेत में फार्मट्रैक ट्रैक्टर (फाइल फोटो) (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "azam-khan-supreme-court-ed-arrest-plea-cji-this-week--bg": {
+  "id": "v-azam-khan-supreme-court-ed-arrest-plea-cji-this-week-bg",
+  "src": "/photos/v-azam-khan-supreme-court-ed-arrest-plea-cji-this-week-bg-1280.jpg",
+  "src800": "/photos/v-azam-khan-supreme-court-ed-arrest-plea-cji-this-week-bg-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Subhashish Panigrahi / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Supreme Court of India (file photo)",
+  "alt_hi": "Supreme Court of India (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "bank-of-baroda-shares-5-per-cent-record-q2-profit--bg": {
+  "id": "v-bank-of-baroda-shares-5-per-cent-record-q2-profit-bg",
+  "src": "/photos/v-bank-of-baroda-shares-5-per-cent-record-q2-profit-bg-1280.jpg",
+  "src800": "/photos/v-bank-of-baroda-shares-5-per-cent-record-q2-profit-bg-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: No machine-readable author provided. Nichalp assumed (based on copyright claims). / Wikimedia Commons",
+  "licence": "CC BY 2.5",
+  "alt": "Baroda Bhavan Vadodara (file photo)",
+  "alt_hi": "Baroda Bhavan Vadodara (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "bengal-143-porel-shami-bad-light-maharashtra-eden--bg": {
+  "id": "v-bengal-143-porel-shami-bad-light-maharashtra-eden-bg",
+  "src": "/photos/v-bengal-143-porel-shami-bad-light-maharashtra-eden-bg-1280.jpg",
+  "src800": "/photos/v-bengal-143-porel-shami-bad-light-maharashtra-eden-bg-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: JokerDurden / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Eden Gardens (file photo)",
+  "alt_hi": "Eden Gardens (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "kharge-uttarakhand-review-bjp-betrayed-venugopal-2027": {
+  "id": "v-kharge-uttarakhand-review-bjp-betrayed-venugopal-2027",
+  "src": "/photos/v-kharge-uttarakhand-review-bjp-betrayed-venugopal-2027-1280.jpg",
+  "src800": "/photos/v-kharge-uttarakhand-review-bjp-betrayed-venugopal-2027-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Ajay Kumar Koli / Wikimedia Commons",
+  "licence": "CC BY 3.0",
+  "alt": "Congress president Mallikarjun Kharge (file photo)",
+  "alt_hi": "कांग्रेस अध्यक्ष मल्लिकार्जुन खड़गे (फाइल फोटो) (फ़ाइल फ़ोटो)",
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-kharge-uttarakhand-review-bjp-betrayed-venugopal-2027-en-1280.jpg",
+    "src800": "/photos/c-kharge-uttarakhand-review-bjp-betrayed-venugopal-2027-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-kharge-uttarakhand-review-bjp-betrayed-venugopal-2027-hi-1280.jpg",
+    "src800": "/photos/c-kharge-uttarakhand-review-bjp-betrayed-venugopal-2027-hi-640.jpg"
+   }
+  }
+ },
+ "kharge-uttarakhand-review-bjp-betrayed-venugopal-2027--p1": {
+  "id": "v-kharge-uttarakhand-review-bjp-betrayed-venugopal-2027-p1",
+  "src": "/photos/v-kharge-uttarakhand-review-bjp-betrayed-venugopal-2027-p1-1280.jpg",
+  "src800": "/photos/v-kharge-uttarakhand-review-bjp-betrayed-venugopal-2027-p1-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Vilakshan / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Congress leader Kumari Selja (file photo)",
+  "alt_hi": "कांग्रेस नेता कुमारी सैलजा (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "kharge-uttarakhand-review-bjp-betrayed-venugopal-2027--p2": {
+  "id": "v-kharge-uttarakhand-review-bjp-betrayed-venugopal-2027-p2",
+  "src": "/photos/v-kharge-uttarakhand-review-bjp-betrayed-venugopal-2027-p2-1280.jpg",
+  "src800": "/photos/v-kharge-uttarakhand-review-bjp-betrayed-venugopal-2027-p2-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: AS Sayyad / Wikimedia Commons",
+  "licence": "CC0",
+  "alt": "Uttarakhand Congress president Ganesh Godiyal (file photo)",
+  "alt_hi": "उत्तराखंड कांग्रेस अध्यक्ष गणेश गोदियाल (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "marico-q2-profit-31-per-cent-revenue-3897-crore": {
+  "id": "v-marico-q2-profit-31-per-cent-revenue-3897-crore",
+  "src": "/photos/v-marico-q2-profit-31-per-cent-revenue-3897-crore-1280.jpg",
+  "src800": "/photos/v-marico-q2-profit-31-per-cent-revenue-3897-crore-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Dineshkumar Nallaveerappan / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Bottles of Parachute coconut oil (file photo)",
+  "alt_hi": "पैराशूट नारियल तेल की बोतलें (फ़ाइल फ़ोटो)",
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-marico-q2-profit-31-per-cent-revenue-3897-crore-en-1280.jpg",
+    "src800": "/photos/c-marico-q2-profit-31-per-cent-revenue-3897-crore-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-marico-q2-profit-31-per-cent-revenue-3897-crore-hi-1280.jpg",
+    "src800": "/photos/c-marico-q2-profit-31-per-cent-revenue-3897-crore-hi-640.jpg"
+   }
+  }
+ },
+ "marico-q2-profit-31-per-cent-revenue-3897-crore--p2": {
+  "id": "v-marico-q2-profit-31-per-cent-revenue-3897-crore-p2",
+  "src": "/photos/v-marico-q2-profit-31-per-cent-revenue-3897-crore-p2-1280.jpg",
+  "src800": "/photos/v-marico-q2-profit-31-per-cent-revenue-3897-crore-p2-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Richter Frank-Jurgen / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "Rajan Bharti Mittal (file photo)",
+  "alt_hi": "राजन भारती मित्तल (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "petronet-lng-q2-profit-54-per-cent-interim-dividend": {
+  "id": "v-petronet-lng-q2-profit-54-per-cent-interim-dividend",
+  "src": "/photos/v-petronet-lng-q2-profit-54-per-cent-interim-dividend-1280.jpg",
+  "src800": "/photos/v-petronet-lng-q2-profit-54-per-cent-interim-dividend-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Drajay1976 / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Petronet LNG's terminal at Dahej, Gujarat (file photo)",
+  "alt_hi": "गुजरात के दाहेज में पेट्रोनेट एलएनजी का टर्मिनल (फ़ाइल फ़ोटो)",
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-petronet-lng-q2-profit-54-per-cent-interim-dividend-en-1280.jpg",
+    "src800": "/photos/c-petronet-lng-q2-profit-54-per-cent-interim-dividend-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-petronet-lng-q2-profit-54-per-cent-interim-dividend-hi-1280.jpg",
+    "src800": "/photos/c-petronet-lng-q2-profit-54-per-cent-interim-dividend-hi-640.jpg"
+   }
+  }
+ },
+ "petronet-lng-q2-profit-54-per-cent-interim-dividend--p1": {
+  "id": "v-petronet-lng-q2-profit-54-per-cent-interim-dividend-p1",
+  "src": "/photos/v-petronet-lng-q2-profit-54-per-cent-interim-dividend-p1-1280.jpg",
+  "src800": "/photos/v-petronet-lng-q2-profit-54-per-cent-interim-dividend-p1-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Lucky2916 / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Kochi LNG terminal, Puthuvype, Kerala (file photo)",
+  "alt_hi": "केरल के पुथुवाइप में कोच्चि एलएनजी टर्मिनल (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "petronet-lng-q2-profit-54-per-cent-interim-dividend--p2": {
+  "id": "v-petronet-lng-q2-profit-54-per-cent-interim-dividend-p2",
+  "src": "/photos/v-petronet-lng-q2-profit-54-per-cent-interim-dividend-p2-1280.jpg",
+  "src800": "/photos/v-petronet-lng-q2-profit-54-per-cent-interim-dividend-p2-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Encik Tekateki / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "A liquefied natural gas carrier (file photo)",
+  "alt_hi": "तरलीकृत प्राकृतिक गैस ले जाने वाला जहाज़ (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "sambit-patra-varanasi-sir-deletion-not-theft-13-crore": {
+  "id": "v-sambit-patra-varanasi-sir-deletion-not-theft-13-crore",
+  "src": "/photos/v-sambit-patra-varanasi-sir-deletion-not-theft-13-crore-1280.jpg",
+  "src800": "/photos/v-sambit-patra-varanasi-sir-deletion-not-theft-13-crore-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photos: Government of Odisha / Wikimedia Commons; https://www.youtube.com/@rahulgandhi / Wikimedia Commons",
+  "licence": "CC BY 4.0, CC BY 3.0",
+  "alt": "BJP spokesperson Sambit Patra and Congress leader Rahul Gandhi (file photos)",
+  "alt_hi": "भाजपा प्रवक्ता संबित पात्रा और कांग्रेस नेता राहुल गांधी (फाइल फोटो) (फ़ाइल फ़ोटो)",
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-sambit-patra-varanasi-sir-deletion-not-theft-13-crore-en-1280.jpg",
+    "src800": "/photos/c-sambit-patra-varanasi-sir-deletion-not-theft-13-crore-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-sambit-patra-varanasi-sir-deletion-not-theft-13-crore-hi-1280.jpg",
+    "src800": "/photos/c-sambit-patra-varanasi-sir-deletion-not-theft-13-crore-hi-640.jpg"
+   }
+  }
+ },
+ "sambit-patra-varanasi-sir-deletion-not-theft-13-crore--bg": {
+  "id": "v-sambit-patra-varanasi-sir-deletion-not-theft-13-crore-bg",
+  "src": "/photos/v-sambit-patra-varanasi-sir-deletion-not-theft-13-crore-bg-1280.jpg",
+  "src800": "/photos/v-sambit-patra-varanasi-sir-deletion-not-theft-13-crore-bg-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Marcin Białek / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Varanasi ghats (file photo)",
+  "alt_hi": "Varanasi ghats (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "sambit-patra-varanasi-sir-deletion-not-theft-13-crore--p1": {
+  "id": "v-sambit-patra-varanasi-sir-deletion-not-theft-13-crore-p1",
+  "src": "/photos/v-sambit-patra-varanasi-sir-deletion-not-theft-13-crore-p1-1280.jpg",
+  "src800": "/photos/v-sambit-patra-varanasi-sir-deletion-not-theft-13-crore-p1-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Ramesh Lalwani / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Nirvachan Sadan, Election Commission of India, New Delhi (file photo)",
+  "alt_hi": "निर्वाचन सदन, भारत निर्वाचन आयोग, नई दिल्ली (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "sambit-patra-varanasi-sir-deletion-not-theft-13-crore--p2": {
+  "id": "v-sambit-patra-varanasi-sir-deletion-not-theft-13-crore-p2",
+  "src": "/photos/v-sambit-patra-varanasi-sir-deletion-not-theft-13-crore-p2-1280.jpg",
+  "src800": "/photos/v-sambit-patra-varanasi-sir-deletion-not-theft-13-crore-p2-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Sharma Dhawan / Wikimedia Commons",
+  "licence": "CC0",
+  "alt": "Chief Election Commissioner Gyanesh Kumar (file photo)",
+  "alt_hi": "मुख्य चुनाव आयुक्त ज्ञानेश कुमार (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "sensex-jumps-970-nifty-23313-oil-reliance-open-november-2--bg": {
+  "id": "v-sensex-jumps-970-nifty-23313-oil-reliance-open-november-bg",
+  "src": "/photos/v-sensex-jumps-970-nifty-23313-oil-reliance-open-november-bg-1280.jpg",
+  "src800": "/photos/v-sensex-jumps-970-nifty-23313-oil-reliance-open-november-bg-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Appaiah / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "Phiroze Jeejeebhoy Towers (file photo)",
+  "alt_hi": "Phiroze Jeejeebhoy Towers (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "sensex-nifty-close-november-2": {
+  "id": "v-sensex-nifty-close-november-2",
+  "src": "/photos/v-sensex-nifty-close-november-2-1280.jpg",
+  "src800": "/photos/v-sensex-nifty-close-november-2-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Appaiah / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "Phiroze Jeejeebhoy Towers, home of the BSE, in Mumbai (file photo)",
+  "alt_hi": "मुंबई में बीएसई का भवन फिरोज़ जीजीभॉय टावर्स (फ़ाइल फ़ोटो)",
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-sensex-nifty-close-november-2-en-1280.jpg",
+    "src800": "/photos/c-sensex-nifty-close-november-2-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-sensex-nifty-close-november-2-hi-1280.jpg",
+    "src800": "/photos/c-sensex-nifty-close-november-2-hi-640.jpg"
+   }
+  }
+ },
+ "sensex-nifty-close-november-2--bg": {
+  "id": "v-sensex-nifty-close-november-2-bg",
+  "src": "/photos/v-sensex-nifty-close-november-2-bg-1280.jpg",
+  "src800": "/photos/v-sensex-nifty-close-november-2-bg-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: BSEINDIA / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "BSE building, Dalal Street (file photo)",
+  "alt_hi": "BSE building, Dalal Street (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "sensex-nifty-close-november-2--p2": {
+  "id": "v-sensex-nifty-close-november-2-p2",
+  "src": "/photos/v-sensex-nifty-close-november-2-p2-1280.jpg",
+  "src800": "/photos/v-sensex-nifty-close-november-2-p2-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Kharbaan Ghaltaan / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Tata Steel plant, Jamshedpur (file photo)",
+  "alt_hi": "जमशेदपुर में टाटा स्टील का संयंत्र (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "sensex-nifty-close-november-2--p3": {
+  "id": "v-sensex-nifty-close-november-2-p3",
+  "src": "/photos/v-sensex-nifty-close-november-2-p3-1280.jpg",
+  "src800": "/photos/v-sensex-nifty-close-november-2-p3-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Manishontop02 / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Infosys campus, Mysuru (file photo)",
+  "alt_hi": "मैसूरु में इंफोसिस का परिसर (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "supreme-court-dismisses-kn-nehru-plea-cash-for-jobs-fir--bg": {
+  "id": "v-supreme-court-dismisses-kn-nehru-plea-cash-for-jobs-fir-bg",
+  "src": "/photos/v-supreme-court-dismisses-kn-nehru-plea-cash-for-jobs-fir-bg-1280.jpg",
+  "src800": "/photos/v-supreme-court-dismisses-kn-nehru-plea-cash-for-jobs-fir-bg-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Pinakpani / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Supreme Court of India (file photo)",
+  "alt_hi": "Supreme Court of India (फ़ाइल फ़ोटो)",
   "page": null
  }
 }
