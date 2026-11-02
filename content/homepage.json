@@ -70,11 +70,11 @@
       "supreme-court-senior-counsel-oral-mentioning-bar-from-today"
     ],
     "relatedBeside": [
+      "supreme-court-ram-temple-trust-funds-probe-hearing-today",
+      "oil-slips-monday-brent-111-iran-qatar-talks-november-2",
       "antonelli-youngest-champion-mexico-verstappen-wins-hamilton-second",
       "asia-open-nikkei-seen-down-oil-dalal-street-november-2",
-      "steelers-27-6-browns-warren-143-yards-rodgers",
-      "liverpool-0-1-arsenal-havertz-alisson-error-anfield",
-      "rahul-parrot-gyanesh-kumar-kharge-chori-ki-sarkar-ramlila"
+      "steelers-27-6-browns-warren-143-yards-rodgers"
     ],
     "live": {
       "title": {
@@ -94,6 +94,50 @@
         "text": {
           "en": "Murasu turns severe, due to cross near Ongole tonight.",
           "hi": "मुरासु तीव्र हुआ, आज रात ओंगोल के पास तट पार करेगा।"
+        }
+      },
+      {
+        "link": "supreme-court-ram-temple-trust-funds-probe-hearing-today",
+        "lead": {
+          "en": "Ram Temple:",
+          "hi": "राम मंदिर:"
+        },
+        "text": {
+          "en": "Supreme Court hears pleas over Trust donations today.",
+          "hi": "ट्रस्ट के चढ़ावे पर याचिकाओं की आज सुप्रीम कोर्ट में सुनवाई।"
+        }
+      },
+      {
+        "link": "oil-slips-monday-brent-111-iran-qatar-talks-november-2",
+        "lead": {
+          "en": "Oil:",
+          "hi": "तेल:"
+        },
+        "text": {
+          "en": "Brent slips 1.4% to $111.84 as Iran-Qatar talks continue.",
+          "hi": "ईरान-कतर वार्ता जारी, ब्रेंट 1.4% गिरकर 111.84 डॉलर पर।"
+        }
+      },
+      {
+        "link": "india-manufacturing-pmi-october-final-due-flash-54-9",
+        "lead": {
+          "en": "PMI:",
+          "hi": "पीएमआई:"
+        },
+        "text": {
+          "en": "October factory PMI due today; flash reading 54.9.",
+          "hi": "अक्टूबर का फैक्ट्री पीएमआई आज; शुरुआती आंकड़ा 54.9।"
+        }
+      },
+      {
+        "link": "priyanshu-moliya-321-baroda-record-test-dream",
+        "lead": {
+          "en": "Ranji:",
+          "hi": "रणजी:"
+        },
+        "text": {
+          "en": "Baroda's Moliya, 321 not out, says he wants to play Tests.",
+          "hi": "321 नाबाद के बाद बड़ौदा के मोलिया बोले, टेस्ट खेलना है।"
         }
       },
       {
@@ -127,50 +171,6 @@
         "text": {
           "en": "Senior advocates can no longer mention cases orally.",
           "hi": "वरिष्ठ वकील अब मौखिक रूप से मामले नहीं उठा सकेंगे।"
-        }
-      },
-      {
-        "link": "steelers-27-6-browns-warren-143-yards-rodgers",
-        "lead": {
-          "en": "NFL:",
-          "hi": "एनएफएल:"
-        },
-        "text": {
-          "en": "Warren runs for 143 yards as Steelers beat Browns 27-6.",
-          "hi": "वॉरेन के 143 यार्ड, स्टीलर्स ने ब्राउन्स को 27-6 से हराया।"
-        }
-      },
-      {
-        "link": "liverpool-0-1-arsenal-havertz-alisson-error-anfield",
-        "lead": {
-          "en": "Football:",
-          "hi": "फुटबॉल:"
-        },
-        "text": {
-          "en": "Havertz goal gives Arsenal first win at Anfield in 14 attempts.",
-          "hi": "हैवर्ट्ज़ के गोल से आर्सेनल की 14 कोशिशों में एनफील्ड पर पहली जीत।"
-        }
-      },
-      {
-        "link": "us-midterms-stevens-backs-rogers-alaska-sullivan-suit-dismissed",
-        "lead": {
-          "en": "US vote:",
-          "hi": "अमेरिकी चुनाव:"
-        },
-        "text": {
-          "en": "Haley Stevens backs Republican Rogers; Alaska suit thrown out.",
-          "hi": "हेली स्टीवंस ने रिपब्लिकन रॉजर्स का समर्थन किया; अलास्का मुकदमा खारिज।"
-        }
-      },
-      {
-        "link": "modi-inaugurate-bharat-renewable-energy-summit-bharat-mandapam-preview",
-        "lead": {
-          "en": "Energy:",
-          "hi": "ऊर्जा:"
-        },
-        "text": {
-          "en": "Modi opens the renewable energy summit at Bharat Mandapam today.",
-          "hi": "मोदी आज भारत मंडपम में नवीकरणीय ऊर्जा सम्मेलन का उद्घाटन करेंगे।"
         }
       }
     ]
@@ -245,11 +245,11 @@
       ]
     },
     "list": [
+      "supreme-court-ram-temple-trust-funds-probe-hearing-today",
+      "oil-slips-monday-brent-111-iran-qatar-talks-november-2",
       "steelers-27-6-browns-warren-143-yards-rodgers",
       "liverpool-0-1-arsenal-havertz-alisson-error-anfield",
-      "us-midterms-stevens-backs-rogers-alaska-sullivan-suit-dismissed",
-      "naidu-cyclone-murasu-review-cancels-delhi-visit",
-      "modi-inaugurate-bharat-renewable-energy-summit-bharat-mandapam-preview"
+      "us-midterms-stevens-backs-rogers-alaska-sullivan-suit-dismissed"
     ]
   },
   "startHere": [
@@ -425,10 +425,10 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "supreme-court-ram-temple-trust-funds-probe-hearing-today",
+        "justice-bhuyan-arbitrary-power-thrives-ignorance-fear-ustm",
         "supreme-court-senior-counsel-oral-mentioning-bar-from-today",
-        "mb-patil-rejects-kumaraswamy-honda-exit-claim-narasapura",
-        "meghwal-cec-offered-meet-protesters-no-list-kochi-bihar-nda",
-        "sambit-patra-illegal-lop-rahul-gandhi-ramlila-rally-flop"
+        "mb-patil-rejects-kumaraswamy-honda-exit-claim-narasapura"
       ],
       "lead": "rahul-parrot-gyanesh-kumar-kharge-chori-ki-sarkar-ramlila"
     },
@@ -445,10 +445,10 @@
         ]
       },
       "list": [
+        "oil-slips-monday-brent-111-iran-qatar-talks-november-2",
+        "india-manufacturing-pmi-october-final-due-flash-54-9",
         "markets-week-ahead-us-midterms-itc-sbi-results-november-2",
-        "electric-two-wheeler-registrations-october-2026-tvs-leads-48-per-cent",
-        "gst-retail-e-invoicing-pilot-april-2027-b2c",
-        "honda-cars-october-sales-8082-exports-fall-88-per-cent"
+        "electric-two-wheeler-registrations-october-2026-tvs-leads-48-per-cent"
       ]
     },
     {
@@ -505,10 +505,10 @@
       "section": "sports",
       "lead": "antonelli-youngest-champion-mexico-verstappen-wins-hamilton-second",
       "list": [
+        "priyanshu-moliya-321-baroda-record-test-dream",
+        "mumbai-railways-ranji-round-four-brabourne-preview",
         "steelers-27-6-browns-warren-143-yards-rodgers",
-        "liverpool-0-1-arsenal-havertz-alisson-error-anfield",
-        "lakshya-sen-hylo-open-title-indian-double-saarbrucken",
-        "harmanpreet-hat-trick-india-beat-malaysia-asian-champions-trophy"
+        "liverpool-0-1-arsenal-havertz-alisson-error-anfield"
       ]
     }
   ],
