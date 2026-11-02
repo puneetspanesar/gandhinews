@@ -52,10 +52,6 @@ Rashtriya Janata Dal MLA and former Bihar minister Alok Kumar Mehta on Monday de
 
 Speaking to reporters in Samastipur, Mehta named Rahul Raj, elected from the Saran teachers' constituency, and Banshidhar Brajwasi, elected from the Tirhut graduates' constituency. Their move to the BJP, he said, "violates the anti-defection provisions of the Tenth Schedule of the Indian Constitution."
 
-```photo
-{"n":1,"subject":"Bihar Legislative Council","caption":"The Bihar Legislative Council in Patna, where Rahul Raj and Banshidhar Brajwasi hold the seats the RJD wants cancelled.","alt":"The Bihar Legislative Council building in Patna"}
-```
-
 He went further and called for **fresh elections in both constituencies**.
 
 ## What the law says

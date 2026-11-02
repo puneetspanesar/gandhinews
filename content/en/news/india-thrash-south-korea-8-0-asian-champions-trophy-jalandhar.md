@@ -55,17 +55,9 @@ India saved their best for last in Jalandhar. Harmanpreet Singh's side **beat So
 
 Dilpreet opened the scoring in the eighth minute with a reverse hit after Jarmanpreet Singh set him up. Three minutes later Jugraj Singh turned in the rebound when Dilpreet's shot was saved, and Harmanpreet **made it 3-0 with a drag-flick** into the corner in the 15th minute.
 
-```photo
-{"n":1,"subject":"Harmanpreet Singh","caption":"India captain Harmanpreet Singh, who scored the third goal with a drag-flick and was involved in two more.","alt":"India hockey captain Harmanpreet Singh"}
-```
-
 South Korea had their best spell in the second quarter and won several penalty corners, but goalkeeper **Krishan Bahadur Pathak kept them all out**. It stayed 3-0 at half-time.
 
 India then scored three times in four minutes after the break. Shilanand Lakra pounced on the rebound when Harmanpreet's penalty corner was blocked in the 33rd minute, Sukhjeet Singh deflected in from close range a minute later, and Sanjay finished another rebound in the 36th after Korean goalkeeper Kim Jaehyon had saved from Dilpreet.
-
-```photo
-{"n":2,"subject":"Krishan Bahadur Pathak","caption":"Goalkeeper Krishan Bahadur Pathak, who kept out South Korea's penalty corners to protect a clean sheet.","alt":"India goalkeeper Krishan Bahadur Pathak"}
-```
 
 Dilpreet added his second in the 40th minute, and Angadveer Singh **struck in the dying seconds** to complete the rout. South Korea won one last penalty corner but could not even claim a consolation goal. The Indian players raised their sticks towards the packed stands at the end, their last game at this venue.
 

@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-02T20:50:00+05:30",
+  "as_of": "2026-11-02T21:55:00+05:30",
   "status": "closed",
   "session_date": "2026-11-02",
   "chart": "nifty-50",
@@ -231,11 +231,11 @@
       "name_hi": "ब्रेंट क्रूड",
       "unit": "$/barrel",
       "unit_hi": "$/बैरल",
-      "value": 109.95,
-      "change": -3.48,
-      "pct": -3.07,
+      "value": 108.94,
+      "change": -4.49,
+      "pct": -3.96,
       "decimals": 2,
-      "source": "PTI via HDFC Sky and Free Press Journal, 2 Nov morning (published 10:10 to 11:02 IST)"
+      "source": "https://moneycheck.com/oil-prices-drop-over-3-today-iran-peace-talks-brent-and-wti-latest (14:26 UTC, 19:56 IST)"
     },
     {
       "id": "gold",
@@ -323,6 +323,7 @@
     "2 Nov 17:00 IST run: rupee close 94.86 (down 10 paise) from PTI via Deccan Herald and HDFC Sky. 2 Nov FII/DII flows not yet published in a readable source; other values unchanged.",
     "2 Nov 18:00 IST run: 2 Nov FII/DII provisional flows still not found in a readable, dated source; flows keep the 30 October figures. Other values unchanged since the close.",
     "2 Nov 19:00 IST run: 2 Nov FII/DII provisional flows still not found in a readable, dated source; flows keep the 30 October figures. Other values unchanged since the close.",
-    "2 Nov 20:00 IST run: 2 Nov NSE provisional FII/DII cash flows (FII +3,114.68 cr, DII -392.20 cr) from Trendlyne summary (gross figures not loaded). Other values unchanged since the close."
+    "2 Nov 20:00 IST run: 2 Nov NSE provisional FII/DII cash flows (FII +3,114.68 cr, DII -392.20 cr) from Trendlyne summary (gross figures not loaded). Other values unchanged since the close.",
+    "2 Nov 21:00 IST run: Brent refreshed to $108.94 (down 3.96%) from MoneyCheck at 19:56 IST; Reuters had $108.64 later in the session. Indian indices, rupee, flows unchanged since the close."
   ]
 }

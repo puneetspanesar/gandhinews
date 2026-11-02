@@ -84,10 +84,6 @@ Apple was **slightly lower ahead of its quarterly results**, due after the US ma
 
 "The debate over whether AI returns can ultimately justify the scale of investment may not be resolved anytime soon," said Emmanuel Cau, head of European equity strategy at Barclays. Europe was more cautious earlier in the day, with the Stoxx 600 index edging down 0.1%.
 
-```photo
-{"n":2,"subject":"United States Capitol","caption":"The US Capitol in Washington. Tuesday's midterms decide control of the House and the Senate.","alt":"The United States Capitol building (file photo)"}
-```
-
 The bigger test comes on Tuesday. Opinion polls favour the Democrats to **win the House of Representatives**, while the race for the Senate is too close to call.
 
 For Indian investors, the overnight mood in New York and the direction of oil will shape Tuesday's start on Dalal Street. On Monday the Sensex had already **jumped 1,233 points to 75,692**, helped by the earlier fall in crude.
