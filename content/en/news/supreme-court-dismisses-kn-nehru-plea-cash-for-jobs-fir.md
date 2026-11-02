@@ -48,10 +48,6 @@ The Supreme Court on Monday **dismissed a plea by K N Nehru**, the former Tamil 
 
 A bench of Justices Dipankar Datta and Sheel Nagu said it found no ground to interfere with the High Court's judgment of 20 February or with its order of 26 October rejecting Nehru's review petition. The State of Tamil Nadu had filed a caveat in the case.
 
-```photo
-{"n":1,"subject":"Dipankar Datta","caption":"Justice Dipankar Datta led the bench that refused to interfere with the High Court's direction.","alt":"Justice Dipankar Datta of the Supreme Court"}
-```
-
 ## What the bench said
 
 The bench made one concession. It said the High Court's remarks were made only to dispose of the petitions before it and **would not stop Nehru from raising his defence** at the proper stage. Justice Datta disagreed with the argument that the High Court had returned findings against the former minister, saying it had only recorded observations.

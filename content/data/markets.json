@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-02T11:22:00+05:30",
+ "as_of": "2026-11-02T14:00:00+05:30",
  "status": "open",
  "session_date": "2026-11-02",
  "chart": "nifty-50",
@@ -8,9 +8,9 @@
    "id": "sensex",
    "name": "Sensex",
    "name_hi": "सेंसेक्स",
-   "value": 75383.98,
-   "change": 924.45,
-   "pct": 1.24,
+   "value": 75111.79,
+   "change": 652.26,
+   "pct": 0.88,
    "history": [
     {
      "date": "2026-09-30",
@@ -85,15 +85,15 @@
      "close": 74459.53
     }
    ],
-   "source": "https://www.equitypandit.com (Sensex/Nifty midday update, 11:22 IST, published 11:29 IST)"
+   "source": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-2-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-jio-share-price-ipo-today-126110200053_1.html (14:00 IST)"
   },
   {
    "id": "nifty-50",
    "name": "Nifty 50",
    "name_hi": "निफ्टी 50",
-   "value": 23319.55,
-   "change": 266.45,
-   "pct": 1.16,
+   "value": 23247.4,
+   "change": 194.3,
+   "pct": 0.84,
    "history": [
     {
      "date": "2026-09-30",
@@ -172,7 +172,7 @@
      "close": 23053.1
     }
    ],
-   "source": "https://www.equitypandit.com (Sensex/Nifty midday update, 11:22 IST, published 11:29 IST)"
+   "source": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-2-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-jio-share-price-ipo-today-126110200053_1.html (14:00 IST)"
   },
   {
    "id": "nifty-it",
@@ -326,6 +326,7 @@
   "Seeded from research on October 31, 2026. Nifty Bank, euro, pound and some sector moves were not found in a reliable source and are left out.",
   "2 Nov 10:00 IST: Sensex, Nifty 50 and rupee from Business Standard live blog (10:00 and 09:01 IST); India VIX from HDFC Sky open report (data as of 09:24 IST); movers from Upstox (09:32 IST). Nifty IT and Nifty Midcap 150 still show the 30 October values; sector moves for today were not found in exact form and are hidden; gold, silver and G-sec yield keep their older values.",
   "2 Nov 12:00 IST run: Sensex and Nifty 50 from EquityPandit (11:22 IST); India VIX 10:05 IST and movers (about 10:30 to 11:00 IST, four losers only found) from HDFC Sky; rupee and Brent from PTI morning copy. PTI gives the rupee's Friday close as 94.76, which differs from the earlier source. Nifty IT, Midcap 150, gold, silver and G-sec yield keep older values; sectors not found.",
-  "2 Nov 13:00 IST run: movers updated from HDFC Sky 12:00 IST table. No Sensex, Nifty, rupee or Brent print newer than 11:22 IST was found in a readable source, so index and rate values are kept as they were."
+  "2 Nov 13:00 IST run: movers updated from HDFC Sky 12:00 IST table. No Sensex, Nifty, rupee or Brent print newer than 11:22 IST was found in a readable source, so index and rate values are kept as they were.",
+  "2 Nov 14:00 IST run: Sensex and Nifty 50 from Business Standard live blog (14:00 IST). Nifty Bank, Midcap, VIX, rupee, gold, Brent and movers keep their earlier readings; no newer time-stamped values were found in this run."
  ]
 }

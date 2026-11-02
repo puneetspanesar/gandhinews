@@ -85,18 +85,10 @@ Company earnings kept individual stocks moving. **Dixon Technologies rallied as 
 
 NTPC **rose 3.7% to ₹328** at about 1:20 pm after the power producer reported a profit rise of close to 40%. Bank of Baroda gained more than 5% after a record quarterly profit, and Eureka Forbes jumped about 9% to ₹342 on better earnings. State Bank of India rose 2.3% to ₹984 ahead of its results on Tuesday.
 
-```photo
-{"n":2,"subject":"Panipat Refinery","caption":"Indian Oil's refinery at Panipat in Haryana. Indian Oil shares rose nearly 5% as Brent crude fell.","alt":"Indian Oil Corporation's Panipat Refinery, Haryana (file photo)"}
-```
-
 Reliance Industries, up as much as 8.2% to ₹1,260 after a 41% rise in quarterly profit, remained the day's main support. Coal India **rose as much as 4.8%** after it said coal supplies crossed 70 million tonnes in October for the first time, at 70.3 million tonnes. Tata Steel, Shriram Finance and JSW Steel were also among the leading gainers.
 
 ## Oil eases, ITC slips
 
 Oil marketing companies gained as Brent crude fell as much as 3.6% to $109.40 a barrel. Indian Oil **climbed nearly 5% to ₹136.40**, helped also by a 174% jump in its quarterly profit. ITC slipped into the red ahead of its September-quarter results, and Marico also traded lower before its numbers.
-
-```photo
-{"n":3,"subject":"Dixon Technologies Noida","caption":"A Dixon Technologies factory in Noida. The electronics maker was the standout gainer of the afternoon despite a fall in profit.","alt":"Dixon Technologies plant in Noida, Uttar Pradesh (file photo)"}
-```
 
 Traders will watch whether the Nifty can hold above 23,200 into the 3:30 pm close.

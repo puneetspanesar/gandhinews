@@ -48,10 +48,6 @@ The Supreme Court on Monday **dismissed the Centre's appeal** against a Delhi Hi
 
 A bench of Justices J B Pardiwala and Manmohan held that the High Court had made no mistake. "No error, not to speak of any error of law, could be said to have been committed by the High Court," the bench said. The ruling leaves in place awards passed in **2004 and 2016**, and the High Court's order to release the companies' bank guarantees.
 
-```photo
-{"n":1,"subject":"Manmohan (judge)","caption":"Justice Manmohan sat with Justice Pardiwala on the bench that dismissed the government's appeal.","alt":"Justice Manmohan of the Supreme Court"}
-```
-
 ## Sharp words for the government
 
 During the hearing the bench questioned why the government kept fighting the awards at the stage of enforcement. "What are these arguments? You are frustrating an arbitral award like this? At the stage of enforcement of it?" it asked. The bench warned that such resistance would wear down faith in arbitration: **"Nobody will trust you."**
@@ -63,9 +59,5 @@ Additional Solicitor General Vikramjeet Banerjee appeared for the Centre.
 The quarrel goes back to a 1994 production sharing contract between the central government and a consortium for the Ravva field. Disputes went to arbitration in Kuala Lumpur. A partial award came in October 2004 and was upheld by Malaysia's Federal Court in 2011. A reconstituted tribunal passed the final award in October 2016.
 
 The government had issued show-cause notices in July 2014 seeking to recover **about $99 million** from the companies. In India it opposed enforcement on three grounds: that the claim was time-barred, that enforcement would go against public policy, and that the tribunal had already finished its work and could not act further.
-
-```photo
-{"n":2,"subject":"Mukul Rohatgi","caption":"Senior Advocate Mukul Rohatgi argued for Vedanta and Ravva Oil when the Delhi High Court heard the enforcement case.","alt":"Senior Advocate Mukul Rohatgi"}
-```
 
 Justice Jasmeet Singh of the Delhi High Court **rejected all three objections on 1 July 2026**. Senior Advocates Mukul Rohatgi and Akhil Sibal argued for the companies there. Monday's order ends the Centre's challenge to that ruling.

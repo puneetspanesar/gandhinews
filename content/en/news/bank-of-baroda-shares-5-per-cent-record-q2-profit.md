@@ -68,10 +68,6 @@ Shares of Bank of Baroda **rose as much as 5.15% to ₹250.89** on Monday aftern
 
 The stock hit its high at about 12:20 pm, even as the wider market was starting to give up some of its morning gains. It had closed 1.24% lower at ₹238.50 on Friday, the day the results came out.
 
-```photo
-{"n":1,"subject":"Debadatta Chand","caption":"Debadatta Chand, managing director and CEO of Bank of Baroda, who raised the bank's loan growth target after the results.","alt":"Bank of Baroda MD and CEO Debadatta Chand (file photo)"}
-```
-
 ## A record quarter, with help from the NSE
 
 The bank's standalone profit for the September quarter **rose 35.8% to ₹6,532 crore**, and operating profit climbed 50.9% to a record ₹11,430 crore. A large part of the lift came from outside lending. The bank booked a cash profit of ₹1,340 crore from selling part of its stake in the National Stock Exchange, and other income nearly doubled to ₹6,881 crore.
@@ -81,9 +77,5 @@ Core business was steadier. Net interest income rose 9% to ₹13,026 crore, whil
 ## Higher growth target
 
 Managing director and CEO Debadatta Chand said the bank had **raised its loan growth guidance** for 2026-27 to 13-15%, from 12-14%, after a strong first half. He said margins would stay within the guided band of 2.75% to 2.95% and should widen in the second half as recent RBI rate hikes pass through to loans.
-
-```photo
-{"n":2,"subject":"Baroda Corporate Centre Mumbai","caption":"Baroda Corporate Centre, Bank of Baroda's corporate office in Mumbai's Bandra Kurla Complex.","alt":"Bank of Baroda's corporate centre in Bandra Kurla Complex, Mumbai (file photo)"}
-```
 
 The bank also set aside ₹1,600 crore in extra provisions during the quarter. Chand said it would need about ₹12,500 crore for the move to expected credit loss accounting from April next year, and already holds about ₹2,500 crore in excess provisions.
