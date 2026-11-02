@@ -70,11 +70,11 @@
       "cyclone-murasu-severe-storm-ongole-landfall-tonight-imd"
     ],
     "relatedBeside": [
+      "sharad-pawar-ruby-hall-clinic-pune-cough-chest-pain",
+      "itc-q2-profit-falls-18-per-cent-revenue-44-per-cent",
+      "vikram-misri-kathmandu-visit-november-4-5-balendra-shah",
       "amit-shah-revanth-telangana-atm-congress-evm-hyderabad",
-      "modi-brese-44000-government-buildings-solar-700-crore",
-      "concor-q2-profit-falls-7-per-cent-second-interim-dividend",
-      "supreme-court-green-crackers-delhi-ncr-diwali-november-7-8",
-      "imran-khan-unconditional-apology-bombay-high-court-oci-sir-protest"
+      "modi-brese-44000-government-buildings-solar-700-crore"
     ],
     "live": {
       "title": {
@@ -85,6 +85,61 @@
   },
   "briefing": {
     "items": [
+      {
+        "link": "sharad-pawar-ruby-hall-clinic-pune-cough-chest-pain",
+        "lead": {
+          "en": "Pawar:",
+          "hi": "पवार:"
+        },
+        "text": {
+          "en": "Sharad Pawar admitted to Pune hospital, condition stable.",
+          "hi": "शरद पवार पुणे के अस्पताल में भर्ती, हालत स्थिर।"
+        }
+      },
+      {
+        "link": "itc-q2-profit-falls-18-per-cent-revenue-44-per-cent",
+        "lead": {
+          "en": "ITC:",
+          "hi": "आईटीसी:"
+        },
+        "text": {
+          "en": "Quarterly profit falls 18% as revenue jumps 44%.",
+          "hi": "तिमाही मुनाफ़ा 18% घटा, आय 44% बढ़ी।"
+        }
+      },
+      {
+        "link": "vikram-misri-kathmandu-visit-november-4-5-balendra-shah",
+        "lead": {
+          "en": "Nepal:",
+          "hi": "नेपाल:"
+        },
+        "text": {
+          "en": "Foreign Secretary Misri to visit Kathmandu on 4 and 5 November.",
+          "hi": "विदेश सचिव मिस्री 4 और 5 नवंबर को काठमांडू जाएंगे।"
+        }
+      },
+      {
+        "link": "india-a-rising-stars-asia-cup-squad-tilak-varma-captain-doha",
+        "lead": {
+          "en": "India A:",
+          "hi": "इंडिया ए:"
+        },
+        "text": {
+          "en": "Tilak Varma to lead the Rising Stars Asia Cup squad.",
+          "hi": "राइजिंग स्टार्स एशिया कप में तिलक वर्मा कप्तान।"
+        }
+      },
+      {
+        "link": "mumbai-247-6-railways-ranji-day-one-sangwan-three-sarfaraz",
+        "lead": {
+          "en": "Ranji:",
+          "hi": "रणजी:"
+        },
+        "text": {
+          "en": "Mumbai 247 for 6 on day one against Railways.",
+          "hi": "रेलवे के ख़िलाफ़ पहले दिन मुंबई 247 पर 6।"
+        }
+      },
       {
         "link": "amit-shah-revanth-telangana-atm-congress-evm-hyderabad",
         "lead": {
@@ -116,61 +171,6 @@
         "text": {
           "en": "Quarterly profit slips 6.8%, ₹1.90 dividend.",
           "hi": "तिमाही मुनाफ़ा 6.8% घटा, ₹1.90 का लाभांश।"
-        }
-      },
-      {
-        "link": "supreme-court-green-crackers-delhi-ncr-diwali-november-7-8",
-        "lead": {
-          "en": "Diwali:",
-          "hi": "दिवाली:"
-        },
-        "text": {
-          "en": "Supreme Court allows green crackers in Delhi-NCR on 7 and 8 November.",
-          "hi": "सुप्रीम कोर्ट ने दिल्ली-एनसीआर में 7 और 8 नवंबर को ग्रीन पटाखों की अनुमति दी।"
-        }
-      },
-      {
-        "link": "imran-khan-unconditional-apology-bombay-high-court-oci-sir-protest",
-        "lead": {
-          "en": "Imran Khan:",
-          "hi": "इमरान ख़ान:"
-        },
-        "text": {
-          "en": "Bombay High Court asks the actor for an unconditional apology.",
-          "hi": "बॉम्बे हाईकोर्ट ने अभिनेता से बिना शर्त माफ़ी मांगने को कहा।"
-        }
-      },
-      {
-        "link": "krbl-q2-profit-50-per-cent-india-gate-basmati",
-        "lead": {
-          "en": "KRBL:",
-          "hi": "केआरबीएल:"
-        },
-        "text": {
-          "en": "India Gate basmati maker's profit up 50%.",
-          "hi": "इंडिया गेट बासमती बनाने वाली कंपनी का मुनाफ़ा 50% बढ़ा।"
-        }
-      },
-      {
-        "link": "harsh-dubey-9-53-vidarbha-record-madhya-pradesh-209-ranji-nagpur",
-        "lead": {
-          "en": "Ranji:",
-          "hi": "रणजी:"
-        },
-        "text": {
-          "en": "Harsh Dubey takes 9 for 53 as MP fold for 209.",
-          "hi": "हर्ष दुबे के 53 रन पर 9 विकेट, मध्य प्रदेश 209 पर ढेर।"
-        }
-      },
-      {
-        "link": "petronet-lng-q2-profit-54-per-cent-interim-dividend",
-        "lead": {
-          "en": "Petronet:",
-          "hi": "पेट्रोनेट:"
-        },
-        "text": {
-          "en": "Quarterly profit jumps 54%, ₹7 dividend.",
-          "hi": "तिमाही मुनाफ़ा 54% उछला, ₹7 का लाभांश।"
         }
       }
     ]
@@ -245,11 +245,11 @@
       ]
     },
     "list": [
+      "sharad-pawar-ruby-hall-clinic-pune-cough-chest-pain",
+      "itc-q2-profit-falls-18-per-cent-revenue-44-per-cent",
+      "vikram-misri-kathmandu-visit-november-4-5-balendra-shah",
       "concor-q2-profit-falls-7-per-cent-second-interim-dividend",
-      "moil-q2-profit-falls-12-per-cent-interim-dividend",
-      "supreme-court-green-crackers-delhi-ncr-diwali-november-7-8",
-      "krbl-q2-profit-50-per-cent-india-gate-basmati",
-      "sambit-patra-varanasi-sir-deletion-not-theft-13-crore"
+      "moil-q2-profit-falls-12-per-cent-interim-dividend"
     ],
     "also": [
       "reliance-shares-jump-6-per-cent-q2-profit-o2c-jio",
@@ -429,10 +429,10 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "sharad-pawar-ruby-hall-clinic-pune-cough-chest-pain",
         "amit-shah-special-session-sir-dares-rahul-mock-parliament",
         "imran-khan-unconditional-apology-bombay-high-court-oci-sir-protest",
-        "sambit-patra-varanasi-sir-deletion-not-theft-13-crore",
-        "kharge-uttarakhand-review-bjp-betrayed-venugopal-2027"
+        "sambit-patra-varanasi-sir-deletion-not-theft-13-crore"
       ],
       "lead": "amit-shah-revanth-telangana-atm-congress-evm-hyderabad"
     },
@@ -449,10 +449,10 @@
         ]
       },
       "list": [
+        "itc-q2-profit-falls-18-per-cent-revenue-44-per-cent",
         "concor-q2-profit-falls-7-per-cent-second-interim-dividend",
         "moil-q2-profit-falls-12-per-cent-interim-dividend",
-        "krbl-q2-profit-50-per-cent-india-gate-basmati",
-        "petronet-lng-q2-profit-54-per-cent-interim-dividend"
+        "krbl-q2-profit-50-per-cent-india-gate-basmati"
       ]
     },
     {
@@ -469,9 +469,9 @@
       "section": "policy",
       "lead": "supreme-court-green-crackers-delhi-ncr-diwali-november-7-8",
       "list": [
+        "vikram-misri-kathmandu-visit-november-4-5-balendra-shah",
         "modi-brese-44000-government-buildings-solar-700-crore",
-        "liechtenstein-prince-alois-state-visit-india-mumbai-vadodara",
-        "murmu-assent-frontier-nagaland-territorial-authority-bill"
+        "liechtenstein-prince-alois-state-visit-india-mumbai-vadodara"
       ]
     },
     {
@@ -507,12 +507,12 @@
     },
     {
       "section": "sports",
-      "lead": "harsh-dubey-9-53-vidarbha-record-madhya-pradesh-209-ranji-nagpur",
+      "lead": "mumbai-247-6-railways-ranji-day-one-sangwan-three-sarfaraz",
       "list": [
+        "india-a-rising-stars-asia-cup-squad-tilak-varma-captain-doha",
+        "harsh-dubey-9-53-vidarbha-record-madhya-pradesh-209-ranji-nagpur",
         "mayank-agarwal-fifty-karnataka-lead-assam-stumps-ranji-guwahati",
-        "bengal-143-porel-shami-bad-light-maharashtra-eden",
-        "navdeep-saini-two-services-112-4-delhi-ranji-palam",
-        "assam-all-out-135-karnataka-rajasthan-73-8-lunch-ranji"
+        "bengal-143-porel-shami-bad-light-maharashtra-eden"
       ]
     }
   ],
