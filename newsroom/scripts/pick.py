@@ -16,7 +16,21 @@ for f in sorted(glob.glob(W + 'pcv*/photo-candidates/candidates.json')):
         pools.setdefault(q, []).append((d, k, v['candidates']))
 fileof = lambda u: urllib.parse.unquote(re.sub(r'/\d+px-[^/]+$', '', u.split('?')[0]).replace('/thumb/', '/')).split('/')[-1].lower()
 P = json.load(open('/home/claude/gandhinews/content/photos.json'))
-taken = {fileof(p['sourceUrl']) for p in P if not p.get('composite') and p['articleId'].split(':')[1 if p['articleId'].startswith('part:') else 0] not in plan}
+# Reuse rule: a photo is off limits only while another story that used it is less than 7 days old.
+import datetime as _dt, glob as _g
+_pub = {}
+for _f in _g.glob('/home/claude/gandhinews/content/en/*/*.md'):
+    _m = re.search(r'\npublished:\s*["\']?([0-9T:+\-.]+)', open(_f).read())
+    if _m:
+        try: _pub[os.path.basename(_f)[:-3]] = _dt.datetime.fromisoformat(_m.group(1))
+        except Exception: pass
+_now = _dt.datetime.now(_dt.timezone(_dt.timedelta(hours=5, minutes=30)))
+_story = lambda aid: re.sub(r'--(p\d+|bg|in|c)$', '', aid.split(':')[1] if aid.startswith('part:') else aid)
+def _recent(aid):
+    t = _pub.get(_story(aid))
+    return t is None or (_now - t).days < 7
+taken = {fileof(p['sourceUrl']) for p in P if not p.get('composite') and p['articleId'].split(':')[1 if p['articleId'].startswith('part:') else 0] not in plan and _recent(p['articleId'])}
+used_before = {fileof(p['sourceUrl']) for p in P if not p.get('composite')}   # older uses: allowed, but a fresh photo is preferred
 BLOCK = {l.strip().lower() for l in open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'blocklist.txt')) if l.strip() and not l.startswith('#')} if os.path.exists(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'blocklist.txt')) else set()
 taken |= BLOCK
 CASC = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
@@ -53,7 +67,7 @@ for sid in sorted(plan):
                         if qt and not hits: continue
                         if pn['kind'] == 'person' and hits < len(qt): continue  # a person's name used as a place: all words must match
                         score = hits
-                    score += min(c['width'], 3000) / 1000 - c['n'] * 0.2
+                    score += min(c['width'], 3000) / 1000 - c['n'] * 0.2 - (3 if f in used_before else 0)
                     if not best or score > best['score']:
                         best = dict(q=pn['q'], dir=d, key=k, n=c['n'], title=c['title'], url=c['url1600'], page=c['page'],
                                     licence=c['licence'], author=c['author'], score=round(score, 2), kind=pn['kind'], what=pn['what'])

@@ -1,4 +1,4 @@
-// Fails if any photo is used by more than one story. Every story gets its own image.
+// Fails if a photo is repeated too soon: the same source photo only in stories published 7+ days apart, never twice in the homepage top slots.
 import fs from 'node:fs';
 const map = JSON.parse(fs.readFileSync('content/photos.map.json', 'utf8'));
 const byPhoto = {};
@@ -10,10 +10,40 @@ const bySrc = {};
 const fileOf = (u) => decodeURIComponent(String(u).split('?')[0].replace(/\/\d+px-[^/]+$/, '').replace('/thumb/', '/')).split('/').pop().toLowerCase();
 // Composite pictures are checked through their parts (articleId 'part:...').
 for (const p of list) if (!String(p.articleId).startsWith('portrait:') && !p.composite) (bySrc[fileOf(p.sourceUrl)] ??= []).push(p.articleId);
-for (const [src, a] of Object.entries(bySrc)) if (a.length > 1) byPhoto[src] = a;
+// Reuse rule (owner's decision, November 2, 2026): the same source photo may appear in two stories only when
+// they were published at least 7 days apart, and never twice in the homepage's top slots at once.
+// (The map id check above stays strict: a reused source still gets its own new crop file.)
+const pubOf = {};
+for (const t of ['news', 'explainer', 'editorial']) for (const lang of ['en']) {
+  const dir = `content/${lang}/${t}`;
+  if (!fs.existsSync(dir)) continue;
+  for (const f of fs.readdirSync(dir)) {
+    if (!f.endsWith('.md')) continue;
+    const m = fs.readFileSync(`${dir}/${f}`, 'utf8').match(/\npublished:\s*["']?([0-9T:+\-.]+)/);
+    if (m) pubOf[f.slice(0, -3)] = Date.parse(m[1]);
+  }
+}
+const storyOf = (aid) => String(aid).replace(/^part:/, '').split(':')[0].replace(/--(p\d+|bg|in|c)$/, '');
+const DAY = 86400000;
+const tooClose = (ids) => {
+  const ts = [...new Set(ids.map(storyOf))].map((s) => [s, pubOf[s]]).filter(([, t]) => t);
+  for (let i = 0; i < ts.length; i++) for (let j = i + 1; j < ts.length; j++) if (Math.abs(ts[i][1] - ts[j][1]) < 7 * DAY) return true;
+  return new Set(ids.map(storyOf)).size < ids.length && ts.length < 2; // same story twice, or undated
+};
+for (const [src, a] of Object.entries(bySrc)) if (a.length > 1 && tooClose(a)) byPhoto[src] = a;
+// Never the same source twice among the homepage's top stories.
+try {
+  const home = JSON.parse(fs.readFileSync('content/homepage.json', 'utf8'));
+  const top = new Set([home.lead?.id, ...(home.lead?.relatedBelow ?? []), ...(home.lead?.relatedBeside ?? []), ...(home.topStories?.list ?? []).map((x) => x?.id ?? x), home.topStories?.big?.id].filter(Boolean));
+  const seenHome = {};
+  for (const [src, a] of Object.entries(bySrc)) {
+    const onHome = [...new Set(a.map(storyOf))].filter((s) => top.has(s));
+    if (onHome.length > 1) byPhoto['homepage:' + src] = onHome;
+  }
+} catch {}
 const dups = Object.entries(byPhoto).filter(([, a]) => a.length > 1);
 if (dups.length) {
-  console.error(`${dups.length} photos are used by more than one story:`);
+  console.error(`${dups.length} photos are repeated too soon (same photo needs 7 days between stories, and never twice at the top of the homepage):`);
   for (const [id, a] of dups) console.error(`  ${id}: ${a.join(', ')}`);
   process.exit(1);
 }
