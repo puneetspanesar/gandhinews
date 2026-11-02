@@ -70,11 +70,11 @@
       "cyclone-murasu-severe-storm-ongole-landfall-tonight-imd"
     ],
     "relatedBeside": [
+      "sensex-nifty-close-november-2",
+      "sambit-patra-varanasi-sir-deletion-not-theft-13-crore",
+      "kharge-uttarakhand-review-bjp-betrayed-venugopal-2027",
       "sensex-500-points-off-high-afternoon-it-drags-nifty-23247",
-      "supreme-court-dismisses-kn-nehru-plea-cash-for-jobs-fir",
-      "bank-of-baroda-shares-5-per-cent-record-q2-profit",
-      "supreme-court-closes-ram-mandir-donation-theft-pleas-chargesheet",
-      "coal-india-shares-4-per-cent-record-october-output-67-mt"
+      "supreme-court-dismisses-kn-nehru-plea-cash-for-jobs-fir"
     ],
     "live": {
       "title": {
@@ -85,6 +85,61 @@
   },
   "briefing": {
     "items": [
+      {
+        "link": "petronet-lng-q2-profit-54-per-cent-interim-dividend",
+        "lead": {
+          "en": "Petronet:",
+          "hi": "पेट्रोनेट:"
+        },
+        "text": {
+          "en": "Quarterly profit jumps 54%, ₹7 dividend.",
+          "hi": "तिमाही मुनाफ़ा 54% उछला, ₹7 का लाभांश।"
+        }
+      },
+      {
+        "link": "sambit-patra-varanasi-sir-deletion-not-theft-13-crore",
+        "lead": {
+          "en": "SIR:",
+          "hi": "एसआईआर:"
+        },
+        "text": {
+          "en": "Sambit Patra says deleting names is not vote theft.",
+          "hi": "संबित पात्रा बोले, नाम हटाना वोट चोरी नहीं।"
+        }
+      },
+      {
+        "link": "marico-q2-profit-31-per-cent-revenue-3897-crore",
+        "lead": {
+          "en": "Marico:",
+          "hi": "मैरिको:"
+        },
+        "text": {
+          "en": "Profit up 31% to ₹550 crore.",
+          "hi": "मुनाफ़ा 31% बढ़कर ₹550 करोड़।"
+        }
+      },
+      {
+        "link": "kharge-uttarakhand-review-bjp-betrayed-venugopal-2027",
+        "lead": {
+          "en": "Uttarakhand:",
+          "hi": "उत्तराखंड:"
+        },
+        "text": {
+          "en": "Kharge says BJP betrayed the state as Congress reviews plans.",
+          "hi": "खड़गे बोले, भाजपा ने राज्य से धोखा किया।"
+        }
+      },
+      {
+        "link": "sensex-nifty-close-november-2",
+        "lead": {
+          "en": "Markets:",
+          "hi": "बाज़ार:"
+        },
+        "text": {
+          "en": "Sensex closes up 1,233 points at 75,692.",
+          "hi": "सेंसेक्स 1,233 अंक चढ़कर 75,692 पर बंद।"
+        }
+      },
       {
         "link": "upl-escorts-kubota-q2-profit-falls-november-2",
         "lead": {
@@ -116,61 +171,6 @@
         "text": {
           "en": "Porel lifts Bengal to 143, bad light halts Maharashtra.",
           "hi": "पोरेल ने बंगाल को 143 तक पहुंचाया, खराब रोशनी से खेल रुका।"
-        }
-      },
-      {
-        "link": "supreme-court-dismisses-sukesh-chandrashekhar-plea-stay-conviction-judge-impersonation",
-        "lead": {
-          "en": "Sukesh:",
-          "hi": "सुकेश:"
-        },
-        "text": {
-          "en": "Supreme Court refuses to stay conviction for posing as judge.",
-          "hi": "जज बनकर फोन करने के मामले में सजा पर रोक से इनकार।"
-        }
-      },
-      {
-        "link": "sensex-500-points-off-high-afternoon-it-drags-nifty-23247",
-        "lead": {
-          "en": "Markets:",
-          "hi": "बाज़ार:"
-        },
-        "text": {
-          "en": "Sensex slips 500 points off high as IT drags, Nifty 23,247.",
-          "hi": "आईटी के दबाव में सेंसेक्स शिखर से 500 अंक फिसला, निफ्टी 23,247।"
-        }
-      },
-      {
-        "link": "supreme-court-dismisses-kn-nehru-plea-cash-for-jobs-fir",
-        "lead": {
-          "en": "K N Nehru:",
-          "hi": "के एन नेहरू:"
-        },
-        "text": {
-          "en": "Supreme Court rejects plea, cash-for-jobs FIR order stands.",
-          "hi": "सुप्रीम कोर्ट ने याचिका ख़ारिज की, नौकरी के बदले नकद मामले में एफआईआर आदेश कायम।"
-        }
-      },
-      {
-        "link": "bank-of-baroda-shares-5-per-cent-record-q2-profit",
-        "lead": {
-          "en": "BoB:",
-          "hi": "बैंक ऑफ़ बड़ौदा:"
-        },
-        "text": {
-          "en": "Shares jump 5% on record quarterly profit.",
-          "hi": "रिकॉर्ड तिमाही मुनाफ़े पर शेयर 5% उछले।"
-        }
-      },
-      {
-        "link": "supreme-court-closes-ram-mandir-donation-theft-pleas-chargesheet",
-        "lead": {
-          "en": "Ram Mandir:",
-          "hi": "राम मंदिर:"
-        },
-        "text": {
-          "en": "Supreme Court closes donation theft pleas, no CBI probe.",
-          "hi": "सुप्रीम कोर्ट ने दान चोरी की याचिकाएं बंद कीं, सीबीआई जांच नहीं।"
         }
       }
     ]
@@ -238,18 +238,18 @@
   },
   "topStories": {
     "big": {
-      "id": "sensex-500-points-off-high-afternoon-it-drags-nifty-23247",
+      "id": "sensex-nifty-close-november-2",
       "also": [
         "reliance-shares-jump-6-per-cent-q2-profit-o2c-jio",
-        "sensex-1030-points-nifty-23330-day-high-reliance-quarter-of-gains"
+        "petronet-lng-q2-profit-54-per-cent-interim-dividend"
       ]
     },
     "list": [
+      "sambit-patra-varanasi-sir-deletion-not-theft-13-crore",
+      "kharge-uttarakhand-review-bjp-betrayed-venugopal-2027",
+      "marico-q2-profit-31-per-cent-revenue-3897-crore",
       "supreme-court-nbems-neet-pg-questions-disclosure-transparency",
-      "upl-escorts-kubota-q2-profit-falls-november-2",
-      "supreme-court-dismisses-sukesh-chandrashekhar-plea-stay-conviction-judge-impersonation",
-      "supreme-court-dismisses-kn-nehru-plea-cash-for-jobs-fir",
-      "supreme-court-closes-ram-mandir-donation-theft-pleas-chargesheet"
+      "upl-escorts-kubota-q2-profit-falls-november-2"
     ],
     "also": [
       "bank-of-baroda-shares-5-per-cent-record-q2-profit",
@@ -429,16 +429,16 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "sambit-patra-varanasi-sir-deletion-not-theft-13-crore",
+        "kharge-uttarakhand-review-bjp-betrayed-venugopal-2027",
         "supreme-court-nbems-neet-pg-questions-disclosure-transparency",
-        "supreme-court-dismisses-sukesh-chandrashekhar-plea-stay-conviction-judge-impersonation",
-        "supreme-court-dismisses-kn-nehru-plea-cash-for-jobs-fir",
-        "supreme-court-closes-ram-mandir-donation-theft-pleas-chargesheet"
+        "supreme-court-dismisses-sukesh-chandrashekhar-plea-stay-conviction-judge-impersonation"
       ],
       "lead": "amit-shah-hyderabad-padayatra-charminar-sir-congress"
     },
     {
       "section": "economy",
-      "lead": "sensex-500-points-off-high-afternoon-it-drags-nifty-23247",
+      "lead": "sensex-nifty-close-november-2",
       "module": {
         "type": "markets",
         "indicators": [
@@ -449,9 +449,9 @@
         ]
       },
       "list": [
-        "upl-escorts-kubota-q2-profit-falls-november-2",
-        "bank-of-baroda-shares-5-per-cent-record-q2-profit",
-        "sensex-holds-924-points-midday-nifty-23360-reliance-8-per-cent"
+        "petronet-lng-q2-profit-54-per-cent-interim-dividend",
+        "marico-q2-profit-31-per-cent-revenue-3897-crore",
+        "upl-escorts-kubota-q2-profit-falls-november-2"
       ]
     },
     {

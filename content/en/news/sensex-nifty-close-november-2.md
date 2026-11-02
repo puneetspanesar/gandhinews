@@ -66,10 +66,6 @@ The Sensex ended at 75,692.78, **up 1,233.25 points, or 1.66%**. The Nifty 50 cl
 
 Reliance Industries **rose 11.6%**, the best performance on the Nifty 50 and the biggest single push behind the rally. The company's September-quarter profit attributable to owners rose 41% from a year earlier to ₹25,548 crore, led by its oil-to-chemicals business.
 
-```photo
-{"n":1,"subject":"Jamnagar Refinery","caption":"Reliance's refinery complex at Jamnagar in Gujarat. Gains in the oil-to-chemicals business behind it drove a 41% jump in quarterly profit.","alt":"Reliance Industries' Jamnagar refinery, Gujarat (file photo)"}
-```
-
 Its weight lifted the whole energy pack. The **Nifty Oil & Gas index gained 5.95%**, helped by crude trading at about $108 a barrel, down from last week's high of $117.
 
 ## Metals and autos join in

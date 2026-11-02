@@ -74,10 +74,6 @@ The India business brought in ₹2,916 crore, up 10%, on **10% underlying volume
 
 Parachute rigid packs grew volumes 13% and hold a 60% share of their market. Value-added hair oils grew 21% in value, while Saffola edible oils added 6% in revenue.
 
-```photo
-{"n":1,"subject":"Saffola","caption":"Saffola, Marico's edible oil brand, grew revenue 6% in the quarter.","alt":"Saffola edible oil packs (file photo)"}
-```
-
 The newer businesses grew fastest. The **foods portfolio grew 45%** and now runs at more than ₹1,500 crore a year. Premium personal care is above ₹500 crore a year, and the digital-first brands at about ₹1,150 crore.
 
 ## Margins widen
