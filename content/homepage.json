@@ -1,520 +1,520 @@
 {
- "lead": {
-  "id": "cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight",
-  "overlay": {
-   "kicker": {
-    "en": "Andhra coast, tonight",
-    "hi": "आंध्र तट, आज रात"
-   },
-   "value": {
-    "en": "Murasu 260 km from Ongole",
-    "hi": "मुरासु ओंगोल से 260 किमी दूर"
-   },
-   "text": {
-    "en": "",
-    "hi": ""
-   }
+  "lead": {
+    "id": "cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight",
+    "overlay": {
+      "kicker": {
+        "en": "Andhra coast, tonight",
+        "hi": "आंध्र तट, आज रात"
+      },
+      "value": {
+        "en": "Murasu 260 km from Ongole",
+        "hi": "मुरासु ओंगोल से 260 किमी दूर"
+      },
+      "text": {
+        "en": "",
+        "hi": ""
+      }
+    },
+    "dataBox": [
+      {
+        "icon": "clock",
+        "color": "#cc0000",
+        "value": {
+          "en": "11:30 pm to 4 am",
+          "hi": "रात 11:30 से सुबह 4"
+        },
+        "label": {
+          "en": "forecast crossing window",
+          "hi": "तट पार करने का अनुमानित समय"
+        }
+      },
+      {
+        "icon": "map-pin",
+        "color": "#8f0000",
+        "value": {
+          "en": "Ongole",
+          "hi": "ओंगोल"
+        },
+        "label": {
+          "en": "expected crossing point",
+          "hi": "तट पार करने का संभावित स्थान"
+        }
+      },
+      {
+        "icon": "warning",
+        "color": "#0d0d0d",
+        "value": {
+          "en": "3 states",
+          "hi": "3 राज्य"
+        },
+        "label": {
+          "en": "with schools shut on Monday",
+          "hi": "जहां सोमवार को स्कूल बंद"
+        }
+      },
+      {
+        "icon": "drop",
+        "color": "#6e6e6e",
+        "value": {
+          "en": "Up to 1.5 m",
+          "hi": "1.5 मीटर तक"
+        },
+        "label": {
+          "en": "storm surge on south coast",
+          "hi": "दक्षिणी तट पर समुद्री उछाल"
+        }
+      }
+    ],
+    "relatedBelow": [
+      "chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation",
+      "cyclone-murasu-severe-storm-ongole-landfall-tonight-imd"
+    ],
+    "relatedBeside": [
+      "amit-shah-revanth-telangana-atm-congress-evm-hyderabad",
+      "modi-brese-44000-government-buildings-solar-700-crore",
+      "concor-q2-profit-falls-7-per-cent-second-interim-dividend",
+      "supreme-court-green-crackers-delhi-ncr-diwali-november-7-8",
+      "imran-khan-unconditional-apology-bombay-high-court-oci-sir-protest"
+    ],
+    "live": {
+      "title": {
+        "en": "Cyclone Murasu",
+        "hi": "चक्रवात मुरासु"
+      }
+    }
   },
-  "dataBox": [
-   {
-    "icon": "clock",
-    "color": "#cc0000",
-    "value": {
-     "en": "11:30 pm to 4 am",
-     "hi": "रात 11:30 से सुबह 4"
-    },
-    "label": {
-     "en": "forecast crossing window",
-     "hi": "तट पार करने का अनुमानित समय"
-    }
-   },
-   {
-    "icon": "map-pin",
-    "color": "#8f0000",
-    "value": {
-     "en": "Ongole",
-     "hi": "ओंगोल"
-    },
-    "label": {
-     "en": "expected crossing point",
-     "hi": "तट पार करने का संभावित स्थान"
-    }
-   },
-   {
-    "icon": "warning",
-    "color": "#0d0d0d",
-    "value": {
-     "en": "3 states",
-     "hi": "3 राज्य"
-    },
-    "label": {
-     "en": "with schools shut on Monday",
-     "hi": "जहां सोमवार को स्कूल बंद"
-    }
-   },
-   {
-    "icon": "drop",
-    "color": "#6e6e6e",
-    "value": {
-     "en": "Up to 1.5 m",
-     "hi": "1.5 मीटर तक"
-    },
-    "label": {
-     "en": "storm surge on south coast",
-     "hi": "दक्षिणी तट पर समुद्री उछाल"
-    }
-   }
-  ],
-  "relatedBelow": [
-   "chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation",
-   "cyclone-murasu-severe-storm-ongole-landfall-tonight-imd"
-  ],
-  "relatedBeside": [
-   "supreme-court-green-crackers-delhi-ncr-diwali-november-7-8",
-   "imran-khan-unconditional-apology-bombay-high-court-oci-sir-protest",
-   "sensex-nifty-close-november-2",
-   "krbl-q2-profit-50-per-cent-india-gate-basmati",
-   "sambit-patra-varanasi-sir-deletion-not-theft-13-crore"
-  ],
-  "live": {
-   "title": {
-    "en": "Cyclone Murasu",
-    "hi": "चक्रवात मुरासु"
-   }
-  }
- },
- "briefing": {
-  "items": [
-   {
-    "link": "supreme-court-green-crackers-delhi-ncr-diwali-november-7-8",
-    "lead": {
-     "en": "Diwali:",
-     "hi": "दिवाली:"
-    },
-    "text": {
-     "en": "Supreme Court allows green crackers in Delhi-NCR on 7 and 8 November.",
-     "hi": "सुप्रीम कोर्ट ने दिल्ली-एनसीआर में 7 और 8 नवंबर को ग्रीन पटाखों की अनुमति दी।"
-    }
-   },
-   {
-    "link": "imran-khan-unconditional-apology-bombay-high-court-oci-sir-protest",
-    "lead": {
-     "en": "Imran Khan:",
-     "hi": "इमरान ख़ान:"
-    },
-    "text": {
-     "en": "Bombay High Court asks the actor for an unconditional apology.",
-     "hi": "बॉम्बे हाईकोर्ट ने अभिनेता से बिना शर्त माफ़ी मांगने को कहा।"
-    }
-   },
-   {
-    "link": "krbl-q2-profit-50-per-cent-india-gate-basmati",
-    "lead": {
-     "en": "KRBL:",
-     "hi": "केआरबीएल:"
-    },
-    "text": {
-     "en": "India Gate basmati maker's profit up 50%.",
-     "hi": "इंडिया गेट बासमती बनाने वाली कंपनी का मुनाफ़ा 50% बढ़ा।"
-    }
-   },
-   {
-    "link": "harsh-dubey-9-53-vidarbha-record-madhya-pradesh-209-ranji-nagpur",
-    "lead": {
-     "en": "Ranji:",
-     "hi": "रणजी:"
-    },
-    "text": {
-     "en": "Harsh Dubey takes 9 for 53 as MP fold for 209.",
-     "hi": "हर्ष दुबे के 53 रन पर 9 विकेट, मध्य प्रदेश 209 पर ढेर।"
-    }
-   },
-   {
-    "link": "petronet-lng-q2-profit-54-per-cent-interim-dividend",
-    "lead": {
-     "en": "Petronet:",
-     "hi": "पेट्रोनेट:"
-    },
-    "text": {
-     "en": "Quarterly profit jumps 54%, ₹7 dividend.",
-     "hi": "तिमाही मुनाफ़ा 54% उछला, ₹7 का लाभांश।"
-    }
-   },
-   {
-    "link": "sambit-patra-varanasi-sir-deletion-not-theft-13-crore",
-    "lead": {
-     "en": "SIR:",
-     "hi": "एसआईआर:"
-    },
-    "text": {
-     "en": "Sambit Patra says deleting names is not vote theft.",
-     "hi": "संबित पात्रा बोले, नाम हटाना वोट चोरी नहीं।"
-    }
-   },
-   {
-    "link": "marico-q2-profit-31-per-cent-revenue-3897-crore",
-    "lead": {
-     "en": "Marico:",
-     "hi": "मैरिको:"
-    },
-    "text": {
-     "en": "Profit up 31% to ₹550 crore.",
-     "hi": "मुनाफ़ा 31% बढ़कर ₹550 करोड़।"
-    }
-   },
-   {
-    "link": "kharge-uttarakhand-review-bjp-betrayed-venugopal-2027",
-    "lead": {
-     "en": "Uttarakhand:",
-     "hi": "उत्तराखंड:"
-    },
-    "text": {
-     "en": "Kharge says BJP betrayed the state as Congress reviews plans.",
-     "hi": "खड़गे बोले, भाजपा ने राज्य से धोखा किया।"
-    }
-   }
-  ]
- },
- "numbers": {
-  "tracker": "economy-dashboard",
-  "items": [
-   {
-    "indicator": "gdp-growth",
-    "icon": "trend-up",
-    "label": {
-     "en": "GDP growth",
-     "hi": "जीडीपी वृद्धि"
-    },
-    "decimals": 1
-   },
-   {
-    "indicator": "cpi-inflation",
-    "icon": "shopping-cart",
-    "highlight": true,
-    "label": {
-     "en": "CPI inflation",
-     "hi": "सीपीआई महंगाई"
-    },
-    "decimals": 2
-   },
-   {
-    "indicator": "unemployment",
-    "icon": "briefcase",
-    "label": {
-     "en": "Unemployment",
-     "hi": "बेरोज़गारी"
-    },
-    "decimals": 1
-   },
-   {
-    "indicator": "iip-growth",
-    "icon": "factory",
-    "label": {
-     "en": "IIP growth",
-     "hi": "आईआईपी वृद्धि"
-    },
-    "decimals": 1
-   },
-   {
-    "indicator": "repo-rate",
-    "icon": "bank",
-    "decimals": 2,
-    "label": {
-     "en": "Repo rate",
-     "hi": "रेपो रेट"
-    }
-   },
-   {
-    "indicator": "fiscal-deficit-pct-be",
-    "icon": "chart-bar",
-    "highlight": true,
-    "label": {
-     "en": "Fiscal deficit used",
-     "hi": "राजकोषीय घाटा (बजट का)"
-    },
-    "decimals": 1
-   }
-  ]
- },
- "topStories": {
-  "big": {
-   "id": "supreme-court-green-crackers-delhi-ncr-diwali-november-7-8",
-   "also": [
-    "sensex-nifty-close-november-2",
-    "imran-khan-unconditional-apology-bombay-high-court-oci-sir-protest"
-   ]
-  },
-  "list": [
-   "krbl-q2-profit-50-per-cent-india-gate-basmati",
-   "sambit-patra-varanasi-sir-deletion-not-theft-13-crore",
-   "kharge-uttarakhand-review-bjp-betrayed-venugopal-2027",
-   "petronet-lng-q2-profit-54-per-cent-interim-dividend",
-   "marico-q2-profit-31-per-cent-revenue-3897-crore"
-  ],
-  "also": [
-   "reliance-shares-jump-6-per-cent-q2-profit-o2c-jio",
-   "supreme-court-nbems-neet-pg-questions-disclosure-transparency"
-  ]
- },
- "startHere": [
-  "why-france-is-protesting-parcoursup-cost-of-living-explained",
-  "starlink-starshield-explained-ukraine-speed-cap",
-  "siang-dam-explained-what-sump-is-why-adi-protest",
-  "gaganyaan-g1-explained-what-uncrewed-flight-will-test",
-  "personalised-cancer-vaccine-explained-how-intismeran-works",
-  "farmer-id-explained-digital-agriculture-mission"
- ],
- "trackers": [
-  {
-   "id": "bills-in-parliament-tracker",
-   "title": {
-    "en": "Bills in Parliament",
-    "hi": "संसद में विधेयक"
-   }
-  },
-  {
-   "id": "economy-dashboard",
-   "title": {
-    "en": "Economy dashboard",
-    "hi": "अर्थव्यवस्था डैशबोर्ड"
-   }
-  },
-  {
-   "id": "election-calendar",
-   "title": {
-    "en": "Election calendar",
-    "hi": "चुनाव कैलेंडर"
-   }
-  },
-  {
-   "id": "budget-2026-27-promise-tracker",
-   "title": {
-    "en": "Budget promises",
-    "hi": "बजट के वादे"
-   }
-  },
-  {
-   "id": "sc-cases-tracker",
-   "title": {
-    "en": "Big Supreme Court cases",
-    "hi": "सुप्रीम कोर्ट के बड़े मामले"
-   }
-  }
- ],
- "dataDesk": {
-  "map": {
-   "tracker": "election-calendar",
-   "topic": "elections-2027",
-   "kicker": {
-    "en": "Elections 2027",
-    "hi": "चुनाव 2027"
-   },
-   "title": {
-    "en": "{n} states vote in 2027",
-    "hi": "2027 में {n} राज्यों में चुनाव"
-   },
-   "text": {
-    "en": "Five assemblies are expected to vote in February and March, Himachal Pradesh and Gujarat late in the year. No schedule has been announced. The President's term ends in July 2027.",
-    "hi": "पांच विधानसभाओं के चुनाव फरवरी और मार्च में होने की उम्मीद है, हिमाचल प्रदेश और गुजरात के साल के आखिर में। अभी कोई कार्यक्रम घोषित नहीं हुआ है। राष्ट्रपति का कार्यकाल जुलाई 2027 में खत्म होता है।"
-   }
-  },
-  "parliament": {
-   "tracker": "bills-in-parliament-tracker",
-   "session": "monsoon-2026",
-   "bills": [
-    "fcra-amendment-2026",
-    "indian-statistical-institute-2026",
-    "supreme-court-number-of-judges-amendment-2026",
-    "mmdr-amendment-2026",
-    "kerala-alteration-of-name-2026"
-   ]
-  }
- },
- "factCheck": {
-  "cards": [
-   "jairam-ramesh-upi-charges-above-2000-claim",
-   "kejriwal-e20-trump-pressure-ethanol-claim",
-   "ai-brics-selfie-modi-putin-xi-raisi"
-  ]
- },
- "explained": [
-  {
-   "id": "imf-world-economic-outlook-explained-india-rbi",
-   "kn": [
-    {
-     "value": {
-      "en": "7%",
-      "hi": "7%"
-     },
-     "label": {
-      "en": "IMF forecast for India, this year",
-      "hi": "इस साल भारत के लिए आईएमएफ का अनुमान"
-     }
-    },
-    {
-     "value": {
-      "en": "7.1%",
-      "hi": "7.1%"
-     },
-     "label": {
-      "en": "RBI's own forecast",
-      "hi": "आरबीआई का अपना अनुमान"
-     }
-    }
-   ]
-  },
-  {
-   "id": "wpi-vs-cpi-explained-wholesale-retail-inflation",
-   "kn": [
-    {
-     "value": {
-      "en": "11.39%",
-      "hi": "11.39%"
-     },
-     "label": {
-      "en": "wholesale inflation, September",
-      "hi": "थोक महंगाई, सितंबर"
-     }
-    },
-    {
-     "value": {
-      "en": "5.54%",
-      "hi": "5.54%"
-     },
-     "label": {
-      "en": "retail inflation, September",
-      "hi": "खुदरा महंगाई, सितंबर"
-     }
-    }
-   ]
-  },
-  {
-   "id": "repo-rate-and-your-emi-explained",
-   "kn": [
-    {
-     "value": {
-      "en": "₹781",
-      "hi": "₹781"
-     },
-     "label": {
-      "en": "extra EMI a month, ₹50 lakh loan",
-      "hi": "₹50 लाख के लोन पर हर महीने ज़्यादा ईएमआई"
-     }
-    },
-    {
-     "value": {
-      "en": "₹1.87 lakh",
-      "hi": "₹1.87 लाख"
-     },
-     "label": {
-      "en": "extra over 20 years",
-      "hi": "20 साल में ज़्यादा भुगतान"
-     }
-    }
-   ]
-  }
- ],
- "opinion": [
-  "mocking-northeast-indians-is-not-content-it-is-a-crime",
-  "single-use-medical-devices-reuse-must-be-policed-and-disclosed",
-  "sangareddy-pharma-deaths-need-inspections-not-compensation",
-  "banks-must-tell-customers-about-data-breaches-now",
-  "borrowed-money-small-caps-sebi-must-watch-margin-funding"
- ],
- "sections": [
-  {
-   "section": "politics",
-   "module": {
-    "type": "bypolls",
-    "article": "bypoll-results-ruling-parties-win-all-six-seats"
-   },
-   "list": [
-    "imran-khan-unconditional-apology-bombay-high-court-oci-sir-protest",
-    "sambit-patra-varanasi-sir-deletion-not-theft-13-crore",
-    "kharge-uttarakhand-review-bjp-betrayed-venugopal-2027",
-    "supreme-court-nbems-neet-pg-questions-disclosure-transparency"
-   ],
-   "lead": "amit-shah-hyderabad-padayatra-charminar-sir-congress"
-  },
-  {
-   "section": "economy",
-   "lead": "sensex-nifty-close-november-2",
-   "module": {
-    "type": "markets",
-    "indicators": [
-     "sensex",
-     "nifty-50",
-     "usd-inr",
-     "forex-reserves"
+  "briefing": {
+    "items": [
+      {
+        "link": "amit-shah-revanth-telangana-atm-congress-evm-hyderabad",
+        "lead": {
+          "en": "Telangana:",
+          "hi": "तेलंगाना:"
+        },
+        "text": {
+          "en": "Amit Shah says Revanth Reddy made the state an 'ATM' for Congress.",
+          "hi": "अमित शाह बोले, रेवंत रेड्डी ने राज्य को कांग्रेस का 'एटीएम' बना दिया।"
+        }
+      },
+      {
+        "link": "modi-brese-44000-government-buildings-solar-700-crore",
+        "lead": {
+          "en": "Solar:",
+          "hi": "सौर ऊर्जा:"
+        },
+        "text": {
+          "en": "Modi says 44,000 government buildings now run on solar.",
+          "hi": "मोदी बोले, 44,000 सरकारी इमारतें अब सौर ऊर्जा से चल रही हैं।"
+        }
+      },
+      {
+        "link": "concor-q2-profit-falls-7-per-cent-second-interim-dividend",
+        "lead": {
+          "en": "CONCOR:",
+          "hi": "कॉनकॉर:"
+        },
+        "text": {
+          "en": "Quarterly profit slips 6.8%, ₹1.90 dividend.",
+          "hi": "तिमाही मुनाफ़ा 6.8% घटा, ₹1.90 का लाभांश।"
+        }
+      },
+      {
+        "link": "supreme-court-green-crackers-delhi-ncr-diwali-november-7-8",
+        "lead": {
+          "en": "Diwali:",
+          "hi": "दिवाली:"
+        },
+        "text": {
+          "en": "Supreme Court allows green crackers in Delhi-NCR on 7 and 8 November.",
+          "hi": "सुप्रीम कोर्ट ने दिल्ली-एनसीआर में 7 और 8 नवंबर को ग्रीन पटाखों की अनुमति दी।"
+        }
+      },
+      {
+        "link": "imran-khan-unconditional-apology-bombay-high-court-oci-sir-protest",
+        "lead": {
+          "en": "Imran Khan:",
+          "hi": "इमरान ख़ान:"
+        },
+        "text": {
+          "en": "Bombay High Court asks the actor for an unconditional apology.",
+          "hi": "बॉम्बे हाईकोर्ट ने अभिनेता से बिना शर्त माफ़ी मांगने को कहा।"
+        }
+      },
+      {
+        "link": "krbl-q2-profit-50-per-cent-india-gate-basmati",
+        "lead": {
+          "en": "KRBL:",
+          "hi": "केआरबीएल:"
+        },
+        "text": {
+          "en": "India Gate basmati maker's profit up 50%.",
+          "hi": "इंडिया गेट बासमती बनाने वाली कंपनी का मुनाफ़ा 50% बढ़ा।"
+        }
+      },
+      {
+        "link": "harsh-dubey-9-53-vidarbha-record-madhya-pradesh-209-ranji-nagpur",
+        "lead": {
+          "en": "Ranji:",
+          "hi": "रणजी:"
+        },
+        "text": {
+          "en": "Harsh Dubey takes 9 for 53 as MP fold for 209.",
+          "hi": "हर्ष दुबे के 53 रन पर 9 विकेट, मध्य प्रदेश 209 पर ढेर।"
+        }
+      },
+      {
+        "link": "petronet-lng-q2-profit-54-per-cent-interim-dividend",
+        "lead": {
+          "en": "Petronet:",
+          "hi": "पेट्रोनेट:"
+        },
+        "text": {
+          "en": "Quarterly profit jumps 54%, ₹7 dividend.",
+          "hi": "तिमाही मुनाफ़ा 54% उछला, ₹7 का लाभांश।"
+        }
+      }
     ]
-   },
-   "list": [
-    "krbl-q2-profit-50-per-cent-india-gate-basmati",
-    "petronet-lng-q2-profit-54-per-cent-interim-dividend",
-    "marico-q2-profit-31-per-cent-revenue-3897-crore",
-    "upl-escorts-kubota-q2-profit-falls-november-2"
-   ]
   },
-  {
-   "section": "states",
-   "lead": "cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight",
-   "list": [
-    "chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation",
-    "cyclone-murasu-severe-storm-ongole-landfall-tonight-imd",
-    "naidu-cyclone-murasu-review-cancels-delhi-visit",
-    "deepender-hooda-barricades-pilot-rally-goers-stopped"
-   ]
+  "numbers": {
+    "tracker": "economy-dashboard",
+    "items": [
+      {
+        "indicator": "gdp-growth",
+        "icon": "trend-up",
+        "label": {
+          "en": "GDP growth",
+          "hi": "जीडीपी वृद्धि"
+        },
+        "decimals": 1
+      },
+      {
+        "indicator": "cpi-inflation",
+        "icon": "shopping-cart",
+        "highlight": true,
+        "label": {
+          "en": "CPI inflation",
+          "hi": "सीपीआई महंगाई"
+        },
+        "decimals": 2
+      },
+      {
+        "indicator": "unemployment",
+        "icon": "briefcase",
+        "label": {
+          "en": "Unemployment",
+          "hi": "बेरोज़गारी"
+        },
+        "decimals": 1
+      },
+      {
+        "indicator": "iip-growth",
+        "icon": "factory",
+        "label": {
+          "en": "IIP growth",
+          "hi": "आईआईपी वृद्धि"
+        },
+        "decimals": 1
+      },
+      {
+        "indicator": "repo-rate",
+        "icon": "bank",
+        "decimals": 2,
+        "label": {
+          "en": "Repo rate",
+          "hi": "रेपो रेट"
+        }
+      },
+      {
+        "indicator": "fiscal-deficit-pct-be",
+        "icon": "chart-bar",
+        "highlight": true,
+        "label": {
+          "en": "Fiscal deficit used",
+          "hi": "राजकोषीय घाटा (बजट का)"
+        },
+        "decimals": 1
+      }
+    ]
   },
-  {
-   "section": "policy",
-   "lead": "supreme-court-green-crackers-delhi-ncr-diwali-november-7-8",
-   "list": [
-    "liechtenstein-prince-alois-state-visit-india-mumbai-vadodara",
-    "modi-inaugurate-bharat-renewable-energy-summit-bharat-mandapam-preview",
-    "murmu-assent-frontier-nagaland-territorial-authority-bill"
-   ]
+  "topStories": {
+    "big": {
+      "id": "amit-shah-revanth-telangana-atm-congress-evm-hyderabad",
+      "also": [
+        "modi-brese-44000-government-buildings-solar-700-crore",
+        "amit-shah-special-session-sir-dares-rahul-mock-parliament"
+      ]
+    },
+    "list": [
+      "concor-q2-profit-falls-7-per-cent-second-interim-dividend",
+      "moil-q2-profit-falls-12-per-cent-interim-dividend",
+      "supreme-court-green-crackers-delhi-ncr-diwali-november-7-8",
+      "krbl-q2-profit-50-per-cent-india-gate-basmati",
+      "sambit-patra-varanasi-sir-deletion-not-theft-13-crore"
+    ],
+    "also": [
+      "reliance-shares-jump-6-per-cent-q2-profit-o2c-jio",
+      "supreme-court-nbems-neet-pg-questions-disclosure-transparency"
+    ]
   },
-  {
-   "section": "parliament",
-   "module": {
-    "type": "session",
-    "session": "monsoon-2026"
-   },
-   "list": [
-    "birla-sameh-shoukry-brics-parliamentary-forum-opens-monday",
-    "finance-panel-hears-mospi-indian-statistical-institute-bill"
-   ]
-  }
- ],
- "desks": [
-  {
-   "section": "world",
-   "lead": "kospi-turns-higher-samsung-sk-hynix-recover-chip-rout",
-   "list": [
-    "us-midterms-stevens-backs-rogers-alaska-sullivan-suit-dismissed",
-    "iran-war-footing-jalali-power-grid-islanding-treasury-oil",
-    "nepal-dolpa-indian-trekkers-located-helicopter-turned-back-rescue-monday"
-   ]
+  "startHere": [
+    "why-france-is-protesting-parcoursup-cost-of-living-explained",
+    "starlink-starshield-explained-ukraine-speed-cap",
+    "siang-dam-explained-what-sump-is-why-adi-protest",
+    "gaganyaan-g1-explained-what-uncrewed-flight-will-test",
+    "personalised-cancer-vaccine-explained-how-intismeran-works",
+    "farmer-id-explained-digital-agriculture-mission"
+  ],
+  "trackers": [
+    {
+      "id": "bills-in-parliament-tracker",
+      "title": {
+        "en": "Bills in Parliament",
+        "hi": "संसद में विधेयक"
+      }
+    },
+    {
+      "id": "economy-dashboard",
+      "title": {
+        "en": "Economy dashboard",
+        "hi": "अर्थव्यवस्था डैशबोर्ड"
+      }
+    },
+    {
+      "id": "election-calendar",
+      "title": {
+        "en": "Election calendar",
+        "hi": "चुनाव कैलेंडर"
+      }
+    },
+    {
+      "id": "budget-2026-27-promise-tracker",
+      "title": {
+        "en": "Budget promises",
+        "hi": "बजट के वादे"
+      }
+    },
+    {
+      "id": "sc-cases-tracker",
+      "title": {
+        "en": "Big Supreme Court cases",
+        "hi": "सुप्रीम कोर्ट के बड़े मामले"
+      }
+    }
+  ],
+  "dataDesk": {
+    "map": {
+      "tracker": "election-calendar",
+      "topic": "elections-2027",
+      "kicker": {
+        "en": "Elections 2027",
+        "hi": "चुनाव 2027"
+      },
+      "title": {
+        "en": "{n} states vote in 2027",
+        "hi": "2027 में {n} राज्यों में चुनाव"
+      },
+      "text": {
+        "en": "Five assemblies are expected to vote in February and March, Himachal Pradesh and Gujarat late in the year. No schedule has been announced. The President's term ends in July 2027.",
+        "hi": "पांच विधानसभाओं के चुनाव फरवरी और मार्च में होने की उम्मीद है, हिमाचल प्रदेश और गुजरात के साल के आखिर में। अभी कोई कार्यक्रम घोषित नहीं हुआ है। राष्ट्रपति का कार्यकाल जुलाई 2027 में खत्म होता है।"
+      }
+    },
+    "parliament": {
+      "tracker": "bills-in-parliament-tracker",
+      "session": "monsoon-2026",
+      "bills": [
+        "fcra-amendment-2026",
+        "indian-statistical-institute-2026",
+        "supreme-court-number-of-judges-amendment-2026",
+        "mmdr-amendment-2026",
+        "kerala-alteration-of-name-2026"
+      ]
+    }
   },
-  {
-   "section": "science",
-   "lead": "nasa-isaacman-moon-base-artemis-iii-summer-2027-landing-2028",
-   "list": [
-    "vaishnaw-ai-law-consultation-paper-risks-threshold",
-    "bhashini-10-billion-inferences-etd-2026-iit-delhi",
-    "china-long-march-8a-satnet-wenchang-nvs-03-launch-week"
-   ]
+  "factCheck": {
+    "cards": [
+      "jairam-ramesh-upi-charges-above-2000-claim",
+      "kejriwal-e20-trump-pressure-ethanol-claim",
+      "ai-brics-selfie-modi-putin-xi-raisi"
+    ]
   },
-  {
-   "section": "sports",
-   "lead": "harsh-dubey-9-53-vidarbha-record-madhya-pradesh-209-ranji-nagpur",
-   "list": [
-    "mayank-agarwal-fifty-karnataka-lead-assam-stumps-ranji-guwahati",
-    "bengal-143-porel-shami-bad-light-maharashtra-eden",
-    "navdeep-saini-two-services-112-4-delhi-ranji-palam",
-    "assam-all-out-135-karnataka-rajasthan-73-8-lunch-ranji"
-   ]
-  }
- ],
- "weekAhead": []
+  "explained": [
+    {
+      "id": "imf-world-economic-outlook-explained-india-rbi",
+      "kn": [
+        {
+          "value": {
+            "en": "7%",
+            "hi": "7%"
+          },
+          "label": {
+            "en": "IMF forecast for India, this year",
+            "hi": "इस साल भारत के लिए आईएमएफ का अनुमान"
+          }
+        },
+        {
+          "value": {
+            "en": "7.1%",
+            "hi": "7.1%"
+          },
+          "label": {
+            "en": "RBI's own forecast",
+            "hi": "आरबीआई का अपना अनुमान"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wpi-vs-cpi-explained-wholesale-retail-inflation",
+      "kn": [
+        {
+          "value": {
+            "en": "11.39%",
+            "hi": "11.39%"
+          },
+          "label": {
+            "en": "wholesale inflation, September",
+            "hi": "थोक महंगाई, सितंबर"
+          }
+        },
+        {
+          "value": {
+            "en": "5.54%",
+            "hi": "5.54%"
+          },
+          "label": {
+            "en": "retail inflation, September",
+            "hi": "खुदरा महंगाई, सितंबर"
+          }
+        }
+      ]
+    },
+    {
+      "id": "repo-rate-and-your-emi-explained",
+      "kn": [
+        {
+          "value": {
+            "en": "₹781",
+            "hi": "₹781"
+          },
+          "label": {
+            "en": "extra EMI a month, ₹50 lakh loan",
+            "hi": "₹50 लाख के लोन पर हर महीने ज़्यादा ईएमआई"
+          }
+        },
+        {
+          "value": {
+            "en": "₹1.87 lakh",
+            "hi": "₹1.87 लाख"
+          },
+          "label": {
+            "en": "extra over 20 years",
+            "hi": "20 साल में ज़्यादा भुगतान"
+          }
+        }
+      ]
+    }
+  ],
+  "opinion": [
+    "mocking-northeast-indians-is-not-content-it-is-a-crime",
+    "single-use-medical-devices-reuse-must-be-policed-and-disclosed",
+    "sangareddy-pharma-deaths-need-inspections-not-compensation",
+    "banks-must-tell-customers-about-data-breaches-now",
+    "borrowed-money-small-caps-sebi-must-watch-margin-funding"
+  ],
+  "sections": [
+    {
+      "section": "politics",
+      "module": {
+        "type": "bypolls",
+        "article": "bypoll-results-ruling-parties-win-all-six-seats"
+      },
+      "list": [
+        "amit-shah-special-session-sir-dares-rahul-mock-parliament",
+        "imran-khan-unconditional-apology-bombay-high-court-oci-sir-protest",
+        "sambit-patra-varanasi-sir-deletion-not-theft-13-crore",
+        "kharge-uttarakhand-review-bjp-betrayed-venugopal-2027"
+      ],
+      "lead": "amit-shah-revanth-telangana-atm-congress-evm-hyderabad"
+    },
+    {
+      "section": "economy",
+      "lead": "sensex-nifty-close-november-2",
+      "module": {
+        "type": "markets",
+        "indicators": [
+          "sensex",
+          "nifty-50",
+          "usd-inr",
+          "forex-reserves"
+        ]
+      },
+      "list": [
+        "concor-q2-profit-falls-7-per-cent-second-interim-dividend",
+        "moil-q2-profit-falls-12-per-cent-interim-dividend",
+        "krbl-q2-profit-50-per-cent-india-gate-basmati",
+        "petronet-lng-q2-profit-54-per-cent-interim-dividend"
+      ]
+    },
+    {
+      "section": "states",
+      "lead": "cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight",
+      "list": [
+        "chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation",
+        "cyclone-murasu-severe-storm-ongole-landfall-tonight-imd",
+        "naidu-cyclone-murasu-review-cancels-delhi-visit",
+        "deepender-hooda-barricades-pilot-rally-goers-stopped"
+      ]
+    },
+    {
+      "section": "policy",
+      "lead": "supreme-court-green-crackers-delhi-ncr-diwali-november-7-8",
+      "list": [
+        "modi-brese-44000-government-buildings-solar-700-crore",
+        "liechtenstein-prince-alois-state-visit-india-mumbai-vadodara",
+        "murmu-assent-frontier-nagaland-territorial-authority-bill"
+      ]
+    },
+    {
+      "section": "parliament",
+      "module": {
+        "type": "session",
+        "session": "monsoon-2026"
+      },
+      "list": [
+        "birla-sameh-shoukry-brics-parliamentary-forum-opens-monday",
+        "finance-panel-hears-mospi-indian-statistical-institute-bill"
+      ]
+    }
+  ],
+  "desks": [
+    {
+      "section": "world",
+      "lead": "kospi-turns-higher-samsung-sk-hynix-recover-chip-rout",
+      "list": [
+        "us-midterms-stevens-backs-rogers-alaska-sullivan-suit-dismissed",
+        "iran-war-footing-jalali-power-grid-islanding-treasury-oil",
+        "nepal-dolpa-indian-trekkers-located-helicopter-turned-back-rescue-monday"
+      ]
+    },
+    {
+      "section": "science",
+      "lead": "nasa-isaacman-moon-base-artemis-iii-summer-2027-landing-2028",
+      "list": [
+        "vaishnaw-ai-law-consultation-paper-risks-threshold",
+        "bhashini-10-billion-inferences-etd-2026-iit-delhi",
+        "china-long-march-8a-satnet-wenchang-nvs-03-launch-week"
+      ]
+    },
+    {
+      "section": "sports",
+      "lead": "harsh-dubey-9-53-vidarbha-record-madhya-pradesh-209-ranji-nagpur",
+      "list": [
+        "mayank-agarwal-fifty-karnataka-lead-assam-stumps-ranji-guwahati",
+        "bengal-143-porel-shami-bad-light-maharashtra-eden",
+        "navdeep-saini-two-services-112-4-delhi-ranji-palam",
+        "assam-all-out-135-karnataka-rajasthan-73-8-lunch-ranji"
+      ]
+    }
+  ],
+  "weekAhead": []
 }
