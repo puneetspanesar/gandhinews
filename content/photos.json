@@ -38342,28 +38342,6 @@
  {
   "id": "cx-supreme-court-senior-counsel-oral-mentioning-bar-from-tod-0",
   "articleId": "part:supreme-court-senior-counsel-oral-mentioning-bar-from-today:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Supreme_Court_of_India_front_view_12.jpg/1600px-Supreme_Court_of_India_front_view_12.jpg",
-  "credit": "Pinakpani",
-  "licence": "CC BY-SA 4.0",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_front_view_12.jpg"
- },
- {
-  "id": "x-supreme-court-senior-counsel-oral-mentioning-bar-from-today",
-  "articleId": "supreme-court-senior-counsel-oral-mentioning-bar-from-today",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Supreme_Court_of_India_front_view_12.jpg/1600px-Supreme_Court_of_India_front_view_12.jpg",
-  "credit": "Photo: Pinakpani / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "The Supreme Court of India, New Delhi (file photo)",
-  "alt_hi": "नई दिल्ली में सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_front_view_12.jpg",
-  "composite": [
-   "cx-supreme-court-senior-counsel-oral-mentioning-bar-from-tod-0"
-  ]
- },
- {
-  "id": "cx-supreme-court-senior-counsel-oral-mentioning-bar-from-tod-0b",
-  "articleId": "part:supreme-court-senior-counsel-oral-mentioning-bar-from-today--bg:0",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Supreme_Court_of_India_front_view_05.jpg/1600px-Supreme_Court_of_India_front_view_05.jpg",
   "credit": "Pinakpani",
   "licence": "CC BY-SA 4.0",
@@ -38371,14 +38349,36 @@
   "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_front_view_05.jpg"
  },
  {
+  "id": "x-supreme-court-senior-counsel-oral-mentioning-bar-from-today",
+  "articleId": "supreme-court-senior-counsel-oral-mentioning-bar-from-today",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Supreme_Court_of_India_front_view_05.jpg/1600px-Supreme_Court_of_India_front_view_05.jpg",
+  "credit": "Photo: Pinakpani / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Supreme Court of India, New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली में सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_front_view_05.jpg",
+  "composite": [
+   "cx-supreme-court-senior-counsel-oral-mentioning-bar-from-tod-0"
+  ]
+ },
+ {
+  "id": "cx-supreme-court-senior-counsel-oral-mentioning-bar-from-tod-0b",
+  "articleId": "part:supreme-court-senior-counsel-oral-mentioning-bar-from-today--bg:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Supreme_Court_of_India_front_view_12.jpg/1600px-Supreme_Court_of_India_front_view_12.jpg",
+  "credit": "Pinakpani",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_front_view_12.jpg"
+ },
+ {
   "id": "x-supreme-court-senior-counsel-oral-mentioning-bar-from-today-",
   "articleId": "supreme-court-senior-counsel-oral-mentioning-bar-from-today--bg",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Supreme_Court_of_India_front_view_05.jpg/1600px-Supreme_Court_of_India_front_view_05.jpg",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Supreme_Court_of_India_front_view_12.jpg/1600px-Supreme_Court_of_India_front_view_12.jpg",
   "credit": "Photo: Pinakpani / Wikimedia Commons",
   "licence": "CC BY-SA 4.0",
   "alt": "Supreme Court of India, Tilak Marg (file photo)",
   "alt_hi": "Supreme Court of India, Tilak Marg (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_front_view_05.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_front_view_12.jpg",
   "composite": [
    "cx-supreme-court-senior-counsel-oral-mentioning-bar-from-tod-0b"
   ]
