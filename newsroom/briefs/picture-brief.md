@@ -15,5 +15,6 @@ Rules:
 - World stories: leaders by name ("Masoud Pezeshkian", "Shehbaz Sharif", "Mark Rutte").
 - Sports: the player in the headline ("Smriti Mandhana", "Iga Świątek"), or the two captains/players for a match preview.
 - Explainers/editorials: the most concrete subject (person or object), single.
+- EVENTS (rain, cyclone, flood, smog, fire, farm fires, landslide, quake, accident, collapse, strike, protest): show the event itself with a file photo of the same kind of event in that city or region ("Chennai floods 2015", "Delhi smog", "Stubble burning Punjab", "Cyclone Hudhud"). Never a landmark, temple, monument, building or city view.
 - Max 2 panels. Never more.
 - Output only valid JSON to the file you are told, covering EVERY id in the input.
