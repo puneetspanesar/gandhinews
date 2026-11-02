@@ -42734,5 +42734,49 @@
   "composite": [
    "cx-prema-rawat-14-ball-fifty-fastest-women-t20-uttarakhand-h-0b"
   ]
+ },
+ {
+  "id": "cx-wall-street-midday-dow-1-per-cent-oracle-slides-gold-rebo-0",
+  "articleId": "part:wall-street-midday-dow-1-per-cent-oracle-slides-gold-rebounds:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wall_Street_-_New_York_Stock_Exchange.jpg/1600px-Wall_Street_-_New_York_Stock_Exchange.jpg",
+  "credit": "Carlos Delgado",
+  "licence": "CC BY-SA 3.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Wall_Street_-_New_York_Stock_Exchange.jpg"
+ },
+ {
+  "id": "x-wall-street-midday-dow-1-per-cent-oracle-slides-gold-rebound",
+  "articleId": "wall-street-midday-dow-1-per-cent-oracle-slides-gold-rebounds",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wall_Street_-_New_York_Stock_Exchange.jpg/1600px-Wall_Street_-_New_York_Stock_Exchange.jpg",
+  "credit": "Photo: Carlos Delgado / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "The Wall Street sign outside the New York Stock Exchange (file photo)",
+  "alt_hi": "न्यूयॉर्क स्टॉक एक्सचेंज के बाहर वॉल स्ट्रीट का साइनबोर्ड (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Wall_Street_-_New_York_Stock_Exchange.jpg",
+  "composite": [
+   "cx-wall-street-midday-dow-1-per-cent-oracle-slides-gold-rebo-0"
+  ]
+ },
+ {
+  "id": "cx-wall-street-midday-dow-1-per-cent-oracle-slides-gold-rebo-0b",
+  "articleId": "part:wall-street-midday-dow-1-per-cent-oracle-slides-gold-rebounds--p1:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/1600px-New_York_Stock_Exchange_Facade_2015.jpg",
+  "credit": "Jeffrey Zeldman from Manhattan, USA",
+  "licence": "CC BY 2.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_Facade_2015.jpg"
+ },
+ {
+  "id": "x-wall-street-midday-dow-1-per-cent-oracle-slides-gold-reboundb",
+  "articleId": "wall-street-midday-dow-1-per-cent-oracle-slides-gold-rebounds--p1",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/1600px-New_York_Stock_Exchange_Facade_2015.jpg",
+  "credit": "Photo: Jeffrey Zeldman from Manhattan, USA / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "The New York Stock Exchange building (file photo)",
+  "alt_hi": "न्यूयॉर्क स्टॉक एक्सचेंज की इमारत (फाइल फोटो) (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_Facade_2015.jpg",
+  "composite": [
+   "cx-wall-street-midday-dow-1-per-cent-oracle-slides-gold-rebo-0b"
+  ]
  }
 ]

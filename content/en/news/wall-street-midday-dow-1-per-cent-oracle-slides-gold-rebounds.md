@@ -82,10 +82,6 @@ Oil set the tone. US crude for December was **down 7.24% at $96.58** a barrel, a
 
 Gold bounced back after its fall below $4,000 in Asian trade, **climbing 1.86% to about $3,971** an ounce.
 
-```photo
-{"n":2,"subject":"Torsten Sløk","caption":"Torsten Sløk, chief economist at Apollo Global Management, warned on Monday that the Fed may have far more work to do on inflation.","alt":"Torsten Sløk (file photo)"}
-```
-
 Interest rates are the other worry. Futures traders now see **a 76% chance of a Fed rate rise** in December, from the current range of 3.75% to 4%. Torsten Sløk, chief economist at Apollo Global Management, said one model suggests "the Fed would need to raise the Fed funds rate by about 275 basis points."
 
 For India, a big fall in crude is good news for the import bill and the rupee. Dalal Street will take its cue on Tuesday from how New York closes and where oil settles.

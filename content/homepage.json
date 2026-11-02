@@ -86,6 +86,17 @@
   "briefing": {
     "items": [
       {
+        "link": "wall-street-midday-dow-1-per-cent-oracle-slides-gold-rebounds",
+        "lead": {
+          "en": "Wall Street:",
+          "hi": "वॉल स्ट्रीट:"
+        },
+        "text": {
+          "en": "Dow up 1% at midday, Oracle slides 6%, gold climbs back.",
+          "hi": "दोपहर तक डाउ 1% ऊपर, ओरेकल 6% लुढ़का, सोने में फिर तेज़ी।"
+        }
+      },
+      {
         "link": "oil-slump-deepens-brent-105-airlines-rally-iran-talks",
         "lead": {
           "en": "Oil:",
@@ -161,17 +172,6 @@
           "en": "Alok Mehta wants two Bihar MLCs who joined BJP disqualified.",
           "hi": "आलोक मेहता ने भाजपा में गए दो एमएलसी की सदस्यता रद्द करने की मांग की।"
         }
-      },
-      {
-        "link": "wall-street-opens-higher-dow-403-oil-slides-midterms-eve",
-        "lead": {
-          "en": "Wall Street:",
-          "hi": "वॉल स्ट्रीट:"
-        },
-        "text": {
-          "en": "Dow opens 403 points higher on midterms eve.",
-          "hi": "मध्यावधि चुनाव से पहले डाउ 403 अंक ऊपर खुला।"
-        }
       }
     ]
   },
@@ -245,11 +245,11 @@
       ]
     },
     "list": [
+      "wall-street-midday-dow-1-per-cent-oracle-slides-gold-rebounds",
       "oil-slump-deepens-brent-105-airlines-rally-iran-talks",
       "keralam-satheesan-cancels-cliff-house-renovation-pwd-report",
       "prema-rawat-14-ball-fifty-fastest-women-t20-uttarakhand-hyderabad",
-      "nalco-q2-profit-1835-crore-dividend-4-50",
-      "india-saff-camp-kolkata-15-players-moosa-dhaka-pakistan"
+      "nalco-q2-profit-1835-crore-dividend-4-50"
     ],
     "also": [
       "reliance-shares-jump-6-per-cent-q2-profit-o2c-jio",
@@ -449,10 +449,10 @@
         ]
       },
       "list": [
+        "wall-street-midday-dow-1-per-cent-oracle-slides-gold-rebounds",
         "oil-slump-deepens-brent-105-airlines-rally-iran-talks",
         "nalco-q2-profit-1835-crore-dividend-4-50",
-        "oil-falls-4-per-cent-brent-108-iran-draft-proposal-qatar",
-        "wall-street-opens-higher-dow-403-oil-slides-midterms-eve"
+        "oil-falls-4-per-cent-brent-108-iran-draft-proposal-qatar"
       ]
     },
     {
