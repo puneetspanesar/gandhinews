@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-02T11:01:00+05:30",
+ "as_of": "2026-11-02T11:22:00+05:30",
  "status": "open",
  "session_date": "2026-11-02",
  "chart": "nifty-50",
@@ -8,9 +8,9 @@
    "id": "sensex",
    "name": "Sensex",
    "name_hi": "सेंसेक्स",
-   "value": 75439.94,
-   "change": 980.41,
-   "pct": 1.32,
+   "value": 75383.98,
+   "change": 924.45,
+   "pct": 1.24,
    "history": [
     {
      "date": "2026-09-30",
@@ -85,15 +85,15 @@
      "close": 74459.53
     }
    ],
-   "source": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-2-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-jio-share-price-ipo-today-126110200053_1.html"
+   "source": "https://www.equitypandit.com (Sensex/Nifty midday update, 11:22 IST, published 11:29 IST)"
   },
   {
    "id": "nifty-50",
    "name": "Nifty 50",
    "name_hi": "निफ्टी 50",
-   "value": 23329.45,
-   "change": 276.35,
-   "pct": 1.2,
+   "value": 23319.55,
+   "change": 266.45,
+   "pct": 1.16,
    "history": [
     {
      "date": "2026-09-30",
@@ -172,7 +172,7 @@
      "close": 23053.1
     }
    ],
-   "source": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-2-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-jio-share-price-ipo-today-126110200053_1.html"
+   "source": "https://www.equitypandit.com (Sensex/Nifty midday update, 11:22 IST, published 11:29 IST)"
   },
   {
    "id": "nifty-it",
@@ -198,11 +198,11 @@
    "id": "india-vix",
    "name": "India VIX",
    "name_hi": "इंडिया VIX",
-   "value": 15.52,
-   "change": 0.24,
-   "pct": 1.4,
+   "value": 15.66,
+   "change": 0.37,
+   "pct": 2.42,
    "history": [],
-   "source": "https://hdfcsky.com/news/bse-nse-sensex-november-2-2026-open-report-sensex-jumps-over-760-pts-nifty-above-23250-as-oil-eases-reliance-jio-earnings-lift-mood"
+   "source": "https://hdfcsky.com (PTI copy and market ticker, 2 Nov, published 10:56 to 11:06 IST), VIX at 10:05 IST"
   }
  ],
  "rates": [
@@ -210,12 +210,12 @@
    "id": "usd-inr",
    "name": "Rupee per dollar",
    "name_hi": "रुपया प्रति डॉलर",
-   "value": 94.89,
-   "change": -0.07,
-   "pct": -0.07,
+   "value": 94.97,
+   "change": 0.21,
+   "pct": 0.22,
    "decimals": 2,
    "unit": "",
-   "source": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-2-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-jio-share-price-ipo-today-126110200053_1.html"
+   "source": "PTI via Free Press Journal and HDFC Sky, 2 Nov early trade (published 10:10 to 11:02 IST); previous close 94.76"
   },
   {
    "id": "brent",
@@ -223,11 +223,11 @@
    "name_hi": "ब्रेंट क्रूड",
    "unit": "$/barrel",
    "unit_hi": "$/बैरल",
-   "value": 110.37,
-   "change": -3.06,
-   "pct": -2.7,
+   "value": 109.95,
+   "change": -3.48,
+   "pct": -3.07,
    "decimals": 2,
-   "source": "https://hdfcsky.com/news/gift-nifty-points-to-positive-open-for-sensex-nifty-as-brent-eases-to-110"
+   "source": "PTI via HDFC Sky and Free Press Journal, 2 Nov morning (published 10:10 to 11:02 IST)"
   },
   {
    "id": "gold",
@@ -270,48 +270,44 @@
   "gainers": [
    {
     "name": "Reliance Industries",
-    "pct": 5.5
+    "pct": 7.68
    },
    {
-    "name": "NTPC",
-    "pct": 3.3
-   },
-   {
-    "name": "Tata Steel",
-    "pct": 3.3
+    "name": "Shriram Finance",
+    "pct": 5.12
    },
    {
     "name": "Max Healthcare",
-    "pct": 3.1
+    "pct": 4.61
    },
    {
-    "name": "Maruti Suzuki",
-    "pct": 2.2
+    "name": "Coal India",
+    "pct": 4.6
+   },
+   {
+    "name": "Tata Steel",
+    "pct": 4.43
    }
   ],
   "losers": [
    {
-    "name": "Apollo Hospitals",
-    "pct": -1.4
+    "name": "Adani Ports",
+    "pct": -1.32
+   },
+   {
+    "name": "Infosys",
+    "pct": -1.29
+   },
+   {
+    "name": "ICICI Bank",
+    "pct": -0.88
    },
    {
     "name": "Sun Pharma",
-    "pct": -1.3
-   },
-   {
-    "name": "Bajaj Auto",
-    "pct": -0.7
-   },
-   {
-    "name": "Tech Mahindra",
-    "pct": -0.7
-   },
-   {
-    "name": "Eicher Motors",
-    "pct": -0.4
+    "pct": -0.74
    }
   ],
-  "source": "https://upstox.com/news/market-news/stocks/sensex-nifty-50-rally-over-1-amid-crude-oil-pullback-reliance-tata-steel-maruti-lead-pack-of-gainers/article-202787/ (as of 9:32 am IST)"
+  "source": "HDFC Sky market ticker, 2 Nov, about 10:30 to 11:00 IST (Sensex/Nifty 50 movers)"
  },
  "sectors": [],
  "sectors_source": "IT, Auto, FMCG, Energy, Media: https://hdfcsky.com/news/weekly-stock-market-review-october-26-30-2026-nifty-reclaims-23053-as-pharma-surges-6-1percent-jio-platforms-lists-at-21percent-premium-fiis-return-with-rs3599-crore ; Pharma: https://www.5paisa.com/blog/post-market-update-sensex-nifty-rise-second-day-broader-markets-fall-october-30-2026 ; Consumer Durables: https://www.kotakneo.com/news/market-news/sensex-and-nifty-50-close-higher-amid-global-headwinds/ . Bank, Metal, Realty only described as 'down about 0.5%' and PSU Bank as 'down over 1%' (HDFC Sky daily report), so left null.",
@@ -324,6 +320,7 @@
  },
  "notes": [
   "Seeded from research on October 31, 2026. Nifty Bank, euro, pound and some sector moves were not found in a reliable source and are left out.",
-  "2 Nov 10:00 IST: Sensex, Nifty 50 and rupee from Business Standard live blog (10:00 and 09:01 IST); India VIX from HDFC Sky open report (data as of 09:24 IST); movers from Upstox (09:32 IST). Nifty IT and Nifty Midcap 150 still show the 30 October values; sector moves for today were not found in exact form and are hidden; gold, silver and G-sec yield keep their older values."
+  "2 Nov 10:00 IST: Sensex, Nifty 50 and rupee from Business Standard live blog (10:00 and 09:01 IST); India VIX from HDFC Sky open report (data as of 09:24 IST); movers from Upstox (09:32 IST). Nifty IT and Nifty Midcap 150 still show the 30 October values; sector moves for today were not found in exact form and are hidden; gold, silver and G-sec yield keep their older values.",
+  "2 Nov 12:00 IST run: Sensex and Nifty 50 from EquityPandit (11:22 IST); India VIX 10:05 IST and movers (about 10:30 to 11:00 IST, four losers only found) from HDFC Sky; rupee and Brent from PTI morning copy. PTI gives the rupee's Friday close as 94.76, which differs from the earlier source. Nifty IT, Midcap 150, gold, silver and G-sec yield keep older values; sectors not found."
  ]
 }
