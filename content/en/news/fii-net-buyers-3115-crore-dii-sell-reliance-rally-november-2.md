@@ -63,10 +63,6 @@ Domestic institutional investors, the mutual funds, insurers and pension funds t
 
 The flows matched the mood on the trading floor. The Sensex closed **up 1,233.25 points at 75,692.78** and the Nifty 50 at 23,440.80, a third straight session of gains, as Reliance Industries jumped 11.6% after a 41% rise in its quarterly profit and crude eased to about $108 a barrel.
 
-```photo
-{"n":1,"subject":"Reliance Corporate Park","caption":"Reliance Corporate Park in Navi Mumbai. Reliance Industries' 11.6% jump led Monday's rally.","alt":"Reliance Corporate Park, Navi Mumbai (file photo)"}
-```
-
 ## A turn in foreign money
 
 Monday's purchase extends a change of direction. Overseas investors had bought **about ₹6,300 crore last week**, after a long run of selling that has left their net outflow from Indian equities in 2026 at ₹2.95 lakh crore. Even with Monday's purchase, the money that has come back is **small against that year-long outflow**.
