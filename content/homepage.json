@@ -86,6 +86,61 @@
   "briefing": {
     "items": [
       {
+        "link": "upl-escorts-kubota-q2-profit-falls-november-2",
+        "lead": {
+          "en": "UPL:",
+          "hi": "यूपीएल:"
+        },
+        "text": {
+          "en": "Profit falls 24%, Escorts Kubota's down 21%.",
+          "hi": "मुनाफा 24% घटा, एस्कॉर्ट्स कुबोटा का 21% कम।"
+        }
+      },
+      {
+        "link": "mobikwik-q2-profit-sanghvi-movers-november-2",
+        "lead": {
+          "en": "Mobikwik:",
+          "hi": "मोबिक्विक:"
+        },
+        "text": {
+          "en": "Swings to ₹11.83 crore quarterly profit.",
+          "hi": "₹11.83 करोड़ के तिमाही मुनाफे में लौटी।"
+        }
+      },
+      {
+        "link": "supreme-court-nbems-neet-pg-questions-disclosure-transparency",
+        "lead": {
+          "en": "NEET-PG:",
+          "hi": "नीट-पीजी:"
+        },
+        "text": {
+          "en": "Supreme Court asks NBEMS why questions stay secret.",
+          "hi": "सुप्रीम कोर्ट ने एनबीईएमएस से पूछा, सवाल गोपनीय क्यों।"
+        }
+      },
+      {
+        "link": "bengal-143-porel-shami-bad-light-maharashtra-eden",
+        "lead": {
+          "en": "Ranji:",
+          "hi": "रणजी:"
+        },
+        "text": {
+          "en": "Porel lifts Bengal to 143, bad light halts Maharashtra.",
+          "hi": "पोरेल ने बंगाल को 143 तक पहुंचाया, खराब रोशनी से खेल रुका।"
+        }
+      },
+      {
+        "link": "supreme-court-dismisses-sukesh-chandrashekhar-plea-stay-conviction-judge-impersonation",
+        "lead": {
+          "en": "Sukesh:",
+          "hi": "सुकेश:"
+        },
+        "text": {
+          "en": "Supreme Court refuses to stay conviction for posing as judge.",
+          "hi": "जज बनकर फोन करने के मामले में सजा पर रोक से इनकार।"
+        }
+      },
+      {
         "link": "sensex-500-points-off-high-afternoon-it-drags-nifty-23247",
         "lead": {
           "en": "Markets:",
@@ -116,61 +171,6 @@
         "text": {
           "en": "Shares jump 5% on record quarterly profit.",
           "hi": "रिकॉर्ड तिमाही मुनाफ़े पर शेयर 5% उछले।"
-        }
-      },
-      {
-        "link": "supreme-court-closes-ram-mandir-donation-theft-pleas-chargesheet",
-        "lead": {
-          "en": "Ram Mandir:",
-          "hi": "राम मंदिर:"
-        },
-        "text": {
-          "en": "Supreme Court closes donation theft pleas, no CBI probe.",
-          "hi": "सुप्रीम कोर्ट ने दान चोरी की याचिकाएं बंद कीं, सीबीआई जांच नहीं।"
-        }
-      },
-      {
-        "link": "justice-narasimha-recuses-lok-prahari-mop-judges-appointments-plea",
-        "lead": {
-          "en": "Judges:",
-          "hi": "जज:"
-        },
-        "text": {
-          "en": "Justice Narasimha recuses from plea on appointments rulebook.",
-          "hi": "जस्टिस नरसिम्हा नियुक्ति नियमावली वाली याचिका से अलग हुए।"
-        }
-      },
-      {
-        "link": "coal-india-shares-4-per-cent-record-october-output-67-mt",
-        "lead": {
-          "en": "Coal India:",
-          "hi": "कोल इंडिया:"
-        },
-        "text": {
-          "en": "Shares up 4% after record October output.",
-          "hi": "अक्टूबर में रिकॉर्ड उत्पादन के बाद शेयर 4% चढ़े।"
-        }
-      },
-      {
-        "link": "navdeep-saini-two-services-112-4-delhi-ranji-palam",
-        "lead": {
-          "en": "Ranji:",
-          "hi": "रणजी:"
-        },
-        "text": {
-          "en": "Saini takes two, Services recover to 112 for 4 vs Delhi.",
-          "hi": "सैनी के दो विकेट, दिल्ली के ख़िलाफ़ सर्विसेज़ 112 पर 4।"
-        }
-      },
-      {
-        "link": "azam-khan-supreme-court-ed-arrest-plea-cji-this-week",
-        "lead": {
-          "en": "Azam Khan:",
-          "hi": "आज़म ख़ान:"
-        },
-        "text": {
-          "en": "Plea against ED arrest to be heard this week, says CJI.",
-          "hi": "ईडी गिरफ़्तारी के ख़िलाफ़ याचिका पर इसी हफ़्ते सुनवाई, सीजेआई ने कहा।"
         }
       }
     ]
@@ -245,11 +245,11 @@
       ]
     },
     "list": [
-      "supreme-court-dismisses-kn-nehru-plea-cash-for-jobs-fir",
-      "reliance-shares-jump-6-per-cent-q2-profit-o2c-jio",
-      "supreme-court-closes-ram-mandir-donation-theft-pleas-chargesheet",
-      "justice-narasimha-recuses-lok-prahari-mop-judges-appointments-plea",
-      "coal-india-shares-4-per-cent-record-october-output-67-mt"
+      "supreme-court-nbems-neet-pg-questions-disclosure-transparency",
+      "upl-escorts-kubota-q2-profit-falls-november-2",
+      "supreme-court-dismisses-sukesh-chandrashekhar-plea-stay-conviction-judge-impersonation",
+      "mobikwik-q2-profit-sanghvi-movers-november-2",
+      "supreme-court-dismisses-kn-nehru-plea-cash-for-jobs-fir"
     ],
     "also": [
       "bank-of-baroda-shares-5-per-cent-record-q2-profit",
@@ -429,10 +429,10 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "supreme-court-nbems-neet-pg-questions-disclosure-transparency",
+        "supreme-court-dismisses-sukesh-chandrashekhar-plea-stay-conviction-judge-impersonation",
         "supreme-court-dismisses-kn-nehru-plea-cash-for-jobs-fir",
-        "supreme-court-closes-ram-mandir-donation-theft-pleas-chargesheet",
-        "justice-narasimha-recuses-lok-prahari-mop-judges-appointments-plea",
-        "azam-khan-supreme-court-ed-arrest-plea-cji-this-week"
+        "supreme-court-closes-ram-mandir-donation-theft-pleas-chargesheet"
       ],
       "lead": "amit-shah-hyderabad-padayatra-charminar-sir-congress"
     },
@@ -449,10 +449,10 @@
         ]
       },
       "list": [
+        "upl-escorts-kubota-q2-profit-falls-november-2",
+        "mobikwik-q2-profit-sanghvi-movers-november-2",
         "bank-of-baroda-shares-5-per-cent-record-q2-profit",
-        "sensex-holds-924-points-midday-nifty-23360-reliance-8-per-cent",
-        "coal-india-shares-4-per-cent-record-october-output-67-mt",
-        "sensex-1030-points-nifty-23330-day-high-reliance-quarter-of-gains"
+        "sensex-holds-924-points-midday-nifty-23360-reliance-8-per-cent"
       ]
     },
     {
@@ -507,12 +507,12 @@
     },
     {
       "section": "sports",
-      "lead": "navdeep-saini-two-services-112-4-delhi-ranji-palam",
+      "lead": "bengal-143-porel-shami-bad-light-maharashtra-eden",
       "list": [
+        "navdeep-saini-two-services-112-4-delhi-ranji-palam",
         "assam-all-out-135-karnataka-rajasthan-73-8-lunch-ranji",
         "angkrish-raghuvanshi-fifty-mumbai-109-0-lunch-railways-ranji-cci",
-        "saiteja-three-in-over-punjab-84-5-lunch-andhra-ranji-mohali",
-        "mayank-mishra-three-haryana-71-6-lunch-uttarakhand-ranji-dehradun"
+        "saiteja-three-in-over-punjab-84-5-lunch-andhra-ranji-mohali"
       ]
     }
   ],

@@ -28,6 +28,7 @@ _now = _dt.datetime.now(_dt.timezone(_dt.timedelta(hours=5, minutes=30)))
 _story = lambda aid: re.sub(r'--(p\d+|bg|in|c)$', '', aid.split(':')[1] if aid.startswith('part:') else aid)
 def _recent(aid):
     t = _pub.get(_story(aid))
+    if t is not None and t.tzinfo is None: t = t.replace(tzinfo=_now.tzinfo)
     return t is None or (_now - t).days < 7
 taken = {fileof(p['sourceUrl']) for p in P if not p.get('composite') and p['articleId'].split(':')[1 if p['articleId'].startswith('part:') else 0] not in plan and _recent(p['articleId'])}
 used_before = {fileof(p['sourceUrl']) for p in P if not p.get('composite')}   # older uses: allowed, but a fresh photo is preferred
