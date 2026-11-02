@@ -82,10 +82,6 @@ On Friday the Nasdaq **dropped 2.9% to 25,437**, the S&P 500 lost 1.8% and the D
 
 Oil is the bigger worry for India. Brent **ended Friday above $113 a barrel**, up more than 2% on the day. "Traders will remain focused on oil flows out of the Middle East and the likely escalation by US and allied forces," said Dennis Kissler of BOK Financial. Qatari officials held more than 12 hours of talks in Tehran over the weekend, while the US administration has warned allies in the region to prepare for possible further action against Iran after the midterms.
 
-```photo
-{"n":2,"subject":"Kazuo Ueda","caption":"Bank of Japan Governor Kazuo Ueda, whose bank held its policy rate at 1.25% on Friday as the yen traded near 157.50 to the dollar.","alt":"Bank of Japan Governor Kazuo Ueda (file photo)"}
-```
-
 In Japan, the central bank **held its rate at 1.25%** by an 8-1 vote on Friday and raised its inflation forecast. China's official manufacturing purchasing managers' index slipped to 49.3 in October from 50.1, back below the line that separates growth from contraction.
 
 At home, the Nifty 50 closed Friday at 23,053.10, up 0.51%, and the Sensex at 74,459.53. Analysts put **first support for the Nifty at 22,844** and resistance near 23,262. ITC reports its results on Monday.

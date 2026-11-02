@@ -449,3 +449,5 @@ julia_jackson_de_face_stella,_2593.jpg
 julia_jackson_de_profil,_2592.jpg
 bremerhaven,_kronos_titan_--_2024_--_2160.jpg
 paisley_plaque,_paisley_gateway,_anfield.jpg
+autodromo_hermanos_rodriguez_(national_circuit_with_foro_sol).png
+kazuo_ueda_yoshimasa_hayashi_yoshitaka_shindo_and_fumio_kishida_20240604.jpg

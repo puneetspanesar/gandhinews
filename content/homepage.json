@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "rahul-parrot-gyanesh-kumar-kharge-chori-ki-sarkar-ramlila",
+    "id": "cyclone-murasu-severe-storm-ongole-landfall-tonight-imd",
     "overlay": {
       "kicker": {
-        "en": "Ramlila Maidan, Sunday",
-        "hi": "रामलीला मैदान, रविवार"
+        "en": "Andhra coast, tonight",
+        "hi": "आंध्र तट, आज रात"
       },
       "value": {
-        "en": "Rahul, Kharge target the CEC",
-        "hi": "राहुल, खड़गे के निशाने पर सीईसी"
+        "en": "Severe storm due near Ongole",
+        "hi": "ओंगोल के पास पहुंचेगा तीव्र तूफ़ान"
       },
       "text": {
         "en": "",
@@ -20,80 +20,124 @@
         "icon": "clock",
         "color": "#cc0000",
         "value": {
-          "en": "10 am to 5 pm",
-          "hi": "सुबह 10 से शाम 5"
+          "en": "11:30 pm to 4 am",
+          "hi": "रात 11:30 से सुबह 4"
         },
         "label": {
-          "en": "rally permitted at Ramlila Maidan",
-          "hi": "रामलीला मैदान में रैली की अनुमति"
+          "en": "forecast crossing window",
+          "hi": "तट पार करने का अनुमानित समय"
         }
       },
       {
-        "icon": "police-car",
+        "icon": "map-pin",
         "color": "#8f0000",
         "value": {
-          "en": "10,000",
-          "hi": "10,000"
+          "en": "Ongole",
+          "hi": "ओंगोल"
         },
         "label": {
-          "en": "police and paramilitary on duty",
-          "hi": "पुलिस और अर्धसैनिक बल तैनात"
+          "en": "expected crossing point",
+          "hi": "तट पार करने का संभावित स्थान"
         }
       },
       {
-        "icon": "megaphone",
+        "icon": "warning",
         "color": "#0d0d0d",
         "value": {
-          "en": "Hari Nagar",
-          "hi": "हरि नगर"
+          "en": "5 districts",
+          "hi": "5 ज़िले"
         },
         "label": {
-          "en": "BJP 1984 counter-march",
-          "hi": "भाजपा का 1984 जवाबी मार्च"
+          "en": "under red warning on Monday",
+          "hi": "सोमवार को रेड चेतावनी में"
         }
       },
       {
-        "icon": "megaphone",
+        "icon": "drop",
         "color": "#6e6e6e",
         "value": {
-          "en": "Kharge",
-          "hi": "खड़गे"
+          "en": "Up to 1.5 m",
+          "hi": "1.5 मीटर तक"
         },
         "label": {
-          "en": "vows to fight until the CEC goes",
-          "hi": "सीईसी हटने तक लड़ाई का संकल्प"
+          "en": "storm surge on south coast",
+          "hi": "दक्षिणी तट पर समुद्री उछाल"
         }
       }
     ],
     "relatedBelow": [
-      "meghwal-cec-offered-meet-protesters-no-list-kochi-bihar-nda",
-      "sambit-patra-illegal-lop-rahul-gandhi-ramlila-rally-flop"
+      "naidu-cyclone-murasu-review-cancels-delhi-visit",
+      "supreme-court-senior-counsel-oral-mentioning-bar-from-today"
     ],
     "relatedBeside": [
-      "us-midterms-stevens-backs-rogers-alaska-sullivan-suit-dismissed",
-      "markets-week-ahead-us-midterms-itc-sbi-results-november-2",
+      "antonelli-youngest-champion-mexico-verstappen-wins-hamilton-second",
+      "asia-open-nikkei-seen-down-oil-dalal-street-november-2",
+      "steelers-27-6-browns-warren-143-yards-rodgers",
       "liverpool-0-1-arsenal-havertz-alisson-error-anfield",
-      "modi-inaugurate-bharat-renewable-energy-summit-bharat-mandapam-preview",
-      "gst-retail-e-invoicing-pilot-april-2027-b2c"
+      "rahul-parrot-gyanesh-kumar-kharge-chori-ki-sarkar-ramlila"
     ],
     "live": {
       "title": {
-        "en": "CEC row",
-        "hi": "सीईसी विवाद"
+        "en": "Cyclone Murasu",
+        "hi": "चक्रवात मुरासु"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "naidu-cyclone-murasu-review-cancels-delhi-visit",
+        "link": "cyclone-murasu-severe-storm-ongole-landfall-tonight-imd",
         "lead": {
           "en": "Cyclone:",
           "hi": "चक्रवात:"
         },
         "text": {
-          "en": "Naidu cancels Delhi trip as Cyclone Murasu nears the Andhra coast.",
-          "hi": "चक्रवात मुरासु के करीब आते ही नायडू ने दिल्ली दौरा रद्द किया।"
+          "en": "Murasu turns severe, due to cross near Ongole tonight.",
+          "hi": "मुरासु तीव्र हुआ, आज रात ओंगोल के पास तट पार करेगा।"
+        }
+      },
+      {
+        "link": "antonelli-youngest-champion-mexico-verstappen-wins-hamilton-second",
+        "lead": {
+          "en": "F1:",
+          "hi": "एफ1:"
+        },
+        "text": {
+          "en": "Antonelli is the youngest world champion; Verstappen wins Mexico.",
+          "hi": "एंटोनेली सबसे युवा विश्व चैंपियन; मेक्सिको में वेरस्टैपेन जीते।"
+        }
+      },
+      {
+        "link": "asia-open-nikkei-seen-down-oil-dalal-street-november-2",
+        "lead": {
+          "en": "Markets:",
+          "hi": "बाज़ार:"
+        },
+        "text": {
+          "en": "Tokyo seen 1.5% lower as oil stays above $113.",
+          "hi": "तेल 113 डॉलर से ऊपर, टोक्यो 1.5% नीचे खुलने के आसार।"
+        }
+      },
+      {
+        "link": "supreme-court-senior-counsel-oral-mentioning-bar-from-today",
+        "lead": {
+          "en": "Supreme Court:",
+          "hi": "सुप्रीम कोर्ट:"
+        },
+        "text": {
+          "en": "Senior advocates can no longer mention cases orally.",
+          "hi": "वरिष्ठ वकील अब मौखिक रूप से मामले नहीं उठा सकेंगे।"
+        }
+      },
+      {
+        "link": "steelers-27-6-browns-warren-143-yards-rodgers",
+        "lead": {
+          "en": "NFL:",
+          "hi": "एनएफएल:"
+        },
+        "text": {
+          "en": "Warren runs for 143 yards as Steelers beat Browns 27-6.",
+          "hi": "वॉरेन के 143 यार्ड, स्टीलर्स ने ब्राउन्स को 27-6 से हराया।"
         }
       },
       {
@@ -127,50 +171,6 @@
         "text": {
           "en": "Modi opens the renewable energy summit at Bharat Mandapam today.",
           "hi": "मोदी आज भारत मंडपम में नवीकरणीय ऊर्जा सम्मेलन का उद्घाटन करेंगे।"
-        }
-      },
-      {
-        "link": "markets-week-ahead-us-midterms-itc-sbi-results-november-2",
-        "lead": {
-          "en": "Markets:",
-          "hi": "बाज़ार:"
-        },
-        "text": {
-          "en": "ITC, SBI, Airtel results and US midterms set the week's tone.",
-          "hi": "आईटीसी, एसबीआई, एयरटेल के नतीजे और अमेरिकी चुनाव तय करेंगे हफ़्ते का रुख।"
-        }
-      },
-      {
-        "link": "mexico-grand-prix-preview-antonelli-ninth-title-hamilton-pole",
-        "lead": {
-          "en": "F1:",
-          "hi": "एफ1:"
-        },
-        "text": {
-          "en": "Antonelli needs ninth in Mexico to clinch the world title.",
-          "hi": "मेक्सिको में नौवां स्थान पाकर एंटोनेली बन सकते हैं विश्व चैंपियन।"
-        }
-      },
-      {
-        "link": "gst-retail-e-invoicing-pilot-april-2027-b2c",
-        "lead": {
-          "en": "GST:",
-          "hi": "जीएसटी:"
-        },
-        "text": {
-          "en": "Retail e-invoicing pilot planned from April 2027.",
-          "hi": "अप्रैल 2027 से खुदरा ई-इनवॉइसिंग पायलट की योजना।"
-        }
-      },
-      {
-        "link": "lakshya-sen-hylo-open-title-indian-double-saarbrucken",
-        "lead": {
-          "en": "Lakshya Sen:",
-          "hi": "लक्ष्य सेन:"
-        },
-        "text": {
-          "en": "Beats Christie for Hylo Open title, an Indian double.",
-          "hi": "क्रिस्टी को हराकर हायलो ओपन खिताब, भारत का दोहरा जश्न।"
         }
       }
     ]
@@ -238,18 +238,18 @@
   },
   "topStories": {
     "big": {
-      "id": "naidu-cyclone-murasu-review-cancels-delhi-visit",
+      "id": "antonelli-youngest-champion-mexico-verstappen-wins-hamilton-second",
       "also": [
-        "us-midterms-stevens-backs-rogers-alaska-sullivan-suit-dismissed",
-        "liverpool-0-1-arsenal-havertz-alisson-error-anfield"
+        "supreme-court-senior-counsel-oral-mentioning-bar-from-today",
+        "asia-open-nikkei-seen-down-oil-dalal-street-november-2"
       ]
     },
     "list": [
-      "modi-inaugurate-bharat-renewable-energy-summit-bharat-mandapam-preview",
-      "markets-week-ahead-us-midterms-itc-sbi-results-november-2",
-      "mexico-grand-prix-preview-antonelli-ninth-title-hamilton-pole",
-      "gst-retail-e-invoicing-pilot-april-2027-b2c",
-      "lakshya-sen-hylo-open-title-indian-double-saarbrucken"
+      "steelers-27-6-browns-warren-143-yards-rodgers",
+      "liverpool-0-1-arsenal-havertz-alisson-error-anfield",
+      "us-midterms-stevens-backs-rogers-alaska-sullivan-suit-dismissed",
+      "naidu-cyclone-murasu-review-cancels-delhi-visit",
+      "modi-inaugurate-bharat-renewable-energy-summit-bharat-mandapam-preview"
     ]
   },
   "startHere": [
@@ -425,16 +425,16 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "supreme-court-senior-counsel-oral-mentioning-bar-from-today",
         "mb-patil-rejects-kumaraswamy-honda-exit-claim-narasapura",
         "meghwal-cec-offered-meet-protesters-no-list-kochi-bihar-nda",
-        "sambit-patra-illegal-lop-rahul-gandhi-ramlila-rally-flop",
-        "mamata-yes-papa-ramlila-gyanesh-kumar-bengal-sir"
+        "sambit-patra-illegal-lop-rahul-gandhi-ramlila-rally-flop"
       ],
       "lead": "rahul-parrot-gyanesh-kumar-kharge-chori-ki-sarkar-ramlila"
     },
     {
       "section": "economy",
-      "lead": "markets-week-ahead-us-midterms-itc-sbi-results-november-2",
+      "lead": "asia-open-nikkei-seen-down-oil-dalal-street-november-2",
       "module": {
         "type": "markets",
         "indicators": [
@@ -445,20 +445,20 @@
         ]
       },
       "list": [
+        "markets-week-ahead-us-midterms-itc-sbi-results-november-2",
         "electric-two-wheeler-registrations-october-2026-tvs-leads-48-per-cent",
         "gst-retail-e-invoicing-pilot-april-2027-b2c",
-        "honda-cars-october-sales-8082-exports-fall-88-per-cent",
-        "hero-motocorp-october-sales-734403-scooters-61-per-cent"
+        "honda-cars-october-sales-8082-exports-fall-88-per-cent"
       ]
     },
     {
       "section": "states",
-      "lead": "naidu-cyclone-murasu-review-cancels-delhi-visit",
+      "lead": "cyclone-murasu-severe-storm-ongole-landfall-tonight-imd",
       "list": [
+        "naidu-cyclone-murasu-review-cancels-delhi-visit",
         "deepender-hooda-barricades-pilot-rally-goers-stopped",
         "shinde-murder-cases-lenders-farmer-suicides-nanded",
-        "delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023",
-        "majhi-appointment-letters-2067-tribal-language-teachers"
+        "delhi-aqi-277-poor-sunday-evening-coldest-nov-1-since-2023"
       ]
     },
     {
@@ -466,7 +466,6 @@
       "lead": "liechtenstein-prince-alois-state-visit-india-mumbai-vadodara",
       "list": [
         "modi-inaugurate-bharat-renewable-energy-summit-bharat-mandapam-preview",
-        "vande-bharat-sleeper-bengaluru-mumbai-vaishnaw-flags-off-today",
         "murmu-assent-frontier-nagaland-territorial-authority-bill",
         "goyal-rotterdam-port-capacity-fourfold-2047"
       ]
@@ -504,12 +503,12 @@
     },
     {
       "section": "sports",
-      "lead": "liverpool-0-1-arsenal-havertz-alisson-error-anfield",
+      "lead": "antonelli-youngest-champion-mexico-verstappen-wins-hamilton-second",
       "list": [
-        "mexico-grand-prix-preview-antonelli-ninth-title-hamilton-pole",
+        "steelers-27-6-browns-warren-143-yards-rodgers",
+        "liverpool-0-1-arsenal-havertz-alisson-error-anfield",
         "lakshya-sen-hylo-open-title-indian-double-saarbrucken",
-        "harmanpreet-hat-trick-india-beat-malaysia-asian-champions-trophy",
-        "fc-goa-beat-inter-kashi-isl-pune-gouramangi-red"
+        "harmanpreet-hat-trick-india-beat-malaysia-asian-champions-trophy"
       ]
     }
   ],

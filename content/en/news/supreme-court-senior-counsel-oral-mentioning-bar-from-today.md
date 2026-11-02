@@ -25,7 +25,6 @@ cover:
   label: "Supreme Court"
   headline: "Senior counsel barred from oral mentions"
   bg: "Supreme Court of India, Tilak Marg"
-  people: ["Surya Kant"]
 related: [courts-today-vijayan-appeal-imran-khan-notice-supreme-court-benches, cji-surya-kant-inaugurates-ladakh-high-court-bench-leh]
 seo:
   description: "From 2 November 2026, senior advocates cannot orally mention cases before any Supreme Court bench under a 27 October registry circular; junior counsel are to mention instead."
@@ -65,10 +64,6 @@ Senior advocates **can no longer orally mention cases** before any bench of the 
 The circular, dated 27 October and signed by three Registrars, says that with effect from 2 November "no Senior Counsel shall be permitted to make oral mentioning before any Court". Mentioning is the morning practice in which a lawyer stands up at the start of the day to ask a bench for an urgent listing or early hearing.
 
 The court wants the slot to go to younger members of the bar. Young and junior counsel, the circular says, "may, instead, be encouraged to make oral mentioning before the Courts." Copies have gone to the **Supreme Court Bar Association** and the Supreme Court Advocates-on-Record Association to put up on their notice boards.
-
-```photo
-{"n":1,"subject":"Surya Kant","caption":"Chief Justice of India Surya Kant, whose instructions the registry seeks on the daily mentioning lists.","alt":"Chief Justice of India Surya Kant"}
-```
 
 ## How mentioning works now
 

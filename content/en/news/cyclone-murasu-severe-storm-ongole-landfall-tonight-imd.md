@@ -59,10 +59,6 @@ In its 2 am bulletin, the India Meteorological Department (IMD) said that at 11:
 
 Murasu is forecast to **cross the coast close to Ongole**, between Nellore and Narsapur, **between 11:30 pm on Monday and 4 am on Tuesday**, with sustained winds of 100 to 110 km/h gusting to 120 km/h.
 
-```photo
-{"n":1,"subject":"Bapatla","caption":"Bapatla, one of the coastal districts where the storm surge is expected to be highest.","alt":"The coast at Bapatla, Andhra Pradesh"}
-```
-
 ## Surge and red warnings
 
 The IMD has warned of a **storm surge of 1 to 1.5 metres** above the tide, enough to flood low-lying parts of the south coast. The surge is expected to be highest in Bapatla, Krishna and Prakasam districts. Red warnings for Monday cover Nellore, Prakasam, Bapatla, Guntur and Krishna, and fishermen have been told to stay off the sea until Wednesday afternoon. The IMD has asked people living in thatched and kutcha homes on the coast to move to safer places.
