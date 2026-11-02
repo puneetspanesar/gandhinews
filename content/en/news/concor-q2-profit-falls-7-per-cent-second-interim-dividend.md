@@ -56,10 +56,6 @@ Container Corporation of India (CONCOR), the state-run operator of container tra
 
 Profit came in at ₹353.10 crore, down from ₹378.70 crore in the same quarter last year. **Revenue barely moved**, rising 1.02% to ₹2,378.57 crore from ₹2,354.53 crore.
 
-```photo
-{"n":1,"subject":"Tughlakabad Inland Container Depot","caption":"The inland container depot at Tughlakabad in Delhi, one of the dry ports that handle CONCOR's rail container traffic.","alt":"Containers stacked at Tughlakabad ICD, New Delhi (file photo)"}
-```
-
 ## A second payout this year
 
 The board declared a **second interim dividend of ₹1.90 a share** on a face value of ₹5, which adds up to ₹144.71 crore. Shareholders on the register on **11 November** will be paid on or after 20 November.
