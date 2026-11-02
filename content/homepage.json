@@ -86,6 +86,28 @@
   "briefing": {
     "items": [
       {
+        "link": "tata-investment-q2-profit-falls-22-per-cent",
+        "lead": {
+          "en": "Tata Investment:",
+          "hi": "टाटा इन्वेस्टमेंट:"
+        },
+        "text": {
+          "en": "Quarterly profit falls about 22%.",
+          "hi": "तिमाही मुनाफ़ा क़रीब 22% घटा।"
+        }
+      },
+      {
+        "link": "fii-net-buyers-3115-crore-dii-sell-reliance-rally-november-2",
+        "lead": {
+          "en": "FIIs:",
+          "hi": "एफ़आईआई:"
+        },
+        "text": {
+          "en": "Foreign investors buy ₹3,115 crore of shares on rally day.",
+          "hi": "तेज़ी वाले दिन विदेशी निवेशकों ने ₹3,115 करोड़ के शेयर ख़रीदे।"
+        }
+      },
+      {
         "link": "sharad-pawar-ruby-hall-clinic-pune-cough-chest-pain",
         "lead": {
           "en": "Pawar:",
@@ -149,28 +171,6 @@
         "text": {
           "en": "Amit Shah says Revanth Reddy made the state an 'ATM' for Congress.",
           "hi": "अमित शाह बोले, रेवंत रेड्डी ने राज्य को कांग्रेस का 'एटीएम' बना दिया।"
-        }
-      },
-      {
-        "link": "modi-brese-44000-government-buildings-solar-700-crore",
-        "lead": {
-          "en": "Solar:",
-          "hi": "सौर ऊर्जा:"
-        },
-        "text": {
-          "en": "Modi says 44,000 government buildings now run on solar.",
-          "hi": "मोदी बोले, 44,000 सरकारी इमारतें अब सौर ऊर्जा से चल रही हैं।"
-        }
-      },
-      {
-        "link": "concor-q2-profit-falls-7-per-cent-second-interim-dividend",
-        "lead": {
-          "en": "CONCOR:",
-          "hi": "कॉनकॉर:"
-        },
-        "text": {
-          "en": "Quarterly profit slips 6.8%, ₹1.90 dividend.",
-          "hi": "तिमाही मुनाफ़ा 6.8% घटा, ₹1.90 का लाभांश।"
         }
       }
     ]
@@ -245,11 +245,11 @@
       ]
     },
     "list": [
+      "tata-investment-q2-profit-falls-22-per-cent",
+      "fii-net-buyers-3115-crore-dii-sell-reliance-rally-november-2",
       "sharad-pawar-ruby-hall-clinic-pune-cough-chest-pain",
       "itc-q2-profit-falls-18-per-cent-revenue-44-per-cent",
-      "vikram-misri-kathmandu-visit-november-4-5-balendra-shah",
-      "concor-q2-profit-falls-7-per-cent-second-interim-dividend",
-      "moil-q2-profit-falls-12-per-cent-interim-dividend"
+      "vikram-misri-kathmandu-visit-november-4-5-balendra-shah"
     ],
     "also": [
       "reliance-shares-jump-6-per-cent-q2-profit-o2c-jio",
@@ -449,10 +449,10 @@
         ]
       },
       "list": [
+        "tata-investment-q2-profit-falls-22-per-cent",
+        "fii-net-buyers-3115-crore-dii-sell-reliance-rally-november-2",
         "itc-q2-profit-falls-18-per-cent-revenue-44-per-cent",
-        "concor-q2-profit-falls-7-per-cent-second-interim-dividend",
-        "moil-q2-profit-falls-12-per-cent-interim-dividend",
-        "krbl-q2-profit-50-per-cent-india-gate-basmati"
+        "concor-q2-profit-falls-7-per-cent-second-interim-dividend"
       ]
     },
     {
