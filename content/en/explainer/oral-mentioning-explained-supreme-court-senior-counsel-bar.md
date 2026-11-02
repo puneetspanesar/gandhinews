@@ -69,9 +69,6 @@ The bench, or in the Chief Justice's court the Chief Justice, then decides wheth
 
 Senior advocates are lawyers whom the Supreme Court or a High Court has designated for their standing and experience. They argue cases, but they work alongside advocates-on-record, the lawyers entitled to file cases in the Supreme Court, and usually with juniors. The rule leaves the arguing to seniors and the asking to juniors.
 
-```photo
-{"n":1,"subject":"B. R. Gavai","caption":"Former Chief Justice B R Gavai, who first kept senior advocates from mentioning cases in his court in August 2025.","alt":"Former Chief Justice of India B R Gavai"}
-```
 
 ## Why keep seniors out?
 
@@ -79,9 +76,6 @@ Senior advocates are lawyers whom the Supreme Court or a High Court has designat
 
 When he announced the first version of the rule in August 2025, Chief Justice Gavai said: "There is a strong demand that senior counsel should not mention matters." Senior advocate Abhishek Singhvi welcomed the change, provided it applied equally to all senior lawyers.
 
-```photo
-{"n":2,"subject":"Abhishek Manu Singhvi","caption":"Senior advocate Abhishek Singhvi, who welcomed the bar on seniors mentioning cases as long as it applied to every senior lawyer alike.","alt":"Senior advocate Abhishek Manu Singhvi"}
-```
 
 ## Is this a new rule?
 

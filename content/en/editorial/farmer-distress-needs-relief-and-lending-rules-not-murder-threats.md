@@ -73,9 +73,6 @@ The police have registered a case of murder and kidnapping, **arrested four men*
 
 On Sunday, at a hospital inauguration in the same district, Deputy Chief Minister Eknath Shinde turned the case into a warning to every lender in the state. "Microfinance companies, banks and moneylenders should not harass the farmers who are in distress," he said. "If any farmer dies by suicide due to harassment, **murder cases will be registered**."
 
-```photo
-{"n":1,"subject":"Chandrashekhar Bawankule","caption":"Revenue Minister Chandrashekhar Bawankule, who said after the Nanded death that police cases would be filed against recovery agents who harass farmers during the drought.","alt":"Maharashtra Revenue Minister Chandrashekhar Bawankule"}
-```
 
 The anger is right. Maharashtra has declared drought in **304 of its 358 tehsils** this kharif season. In Marathwada alone, the divisional commissioner's office counted 465 farmer suicides in the first six months of this year, 61 of them in Nanded, after 1,131 in 2025. Families who have lost a crop do not need a recovery agent at the door.
 
