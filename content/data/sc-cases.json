@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Big Supreme Court cases tracker",
-    "as_of": "2026-10-11",
+    "as_of": "2026-11-02",
     "compiled_by": "Gandhi News editorial desk",
     "status_values": [
       "pending",
@@ -310,6 +310,33 @@
         }
       ],
       "notes": "Case caption for the 2026 order not given by SCO; the 2002 All India Judges' Association ruling is cited as background."
+    },
+    {
+      "id": "delhi-firecracker-ban",
+      "case": "Arjun Gopal v. Union of India (WP(C) 728/2015)",
+      "issue": "Whether and how firecrackers may be sold and burst in Delhi-NCR, as part of the long-running case on the capital's air pollution.",
+      "bench_size": 2,
+      "bench": "Justices M M Sundresh and Prasanna B Varale",
+      "status": "pending",
+      "status_text": "Diwali 2026 relaxation ordered; compliance hearing due",
+      "last_date": "2026-11-02",
+      "last_event": "Allowed certified green crackers in Delhi-NCR on 7 and 8 Nov 2026, only from 6 to 7 am and 8 to 10 pm, with sales from 4 to 6 Nov at notified sites (no online sales), QR-coded CSIR-NEERI certified boxes and no-cracker zones within 300 metres of hospitals, schools and silence zones. The year-round ban returns on 9 Nov. CPCB and state boards to file air quality reports for 2 to 6 Nov, the festival days and 9 to 30 Nov.",
+      "next_step": "Affidavits and reports due by 14 Dec 2026; listed for compliance on 16 Dec 2026.",
+      "sources": [
+        {
+          "title": "Supreme Court Allows Certified Green Crackers In Delhi-NCR For Diwali On Nov 7-8; Year-Round Ban To Resume On Nov 9",
+          "publisher": "LiveLaw",
+          "date": "2026-11-02",
+          "url": "https://www.livelaw.in/top-stories/supreme-court-allows-certified-green-crackers-in-delhi-ncr-for-diwali-on-nov-7-8-year-round-ban-to-resume-on-nov-9-556915"
+        },
+        {
+          "title": "Supreme Court allows bursting of green firecrackers in Delhi-NCR from 6-7 am, 8-10 pm on Nov 7 and 8",
+          "publisher": "Deccan Herald",
+          "date": "2026-11-02",
+          "url": "https://www.deccanherald.com/india/delhi/supreme-court-allows-bursting-of-green-firecrackers-in-delhi-ncr-from-6-7-am-8-10-pm-on-nov-7-and-8-4204232"
+        }
+      ],
+      "notes": "Judgment reported as 2026 LiveLaw (SC) 1115. Bursting windows taken from Deccan Herald; the LiveLaw text as read was garbled on the hours. Judgment author not named in sources."
     }
   ]
 }

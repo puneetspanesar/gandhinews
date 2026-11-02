@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "सुप्रीम कोर्ट के बड़े मामलों का ट्रैकर",
-    "as_of": "2026-10-11",
+    "as_of": "2026-11-02",
     "compiled_by": "गांधी न्यूज़ संपादकीय डेस्क",
     "status_values": [
       "pending",
@@ -341,6 +341,35 @@
       "notes": "एससीओ ने 2026 के आदेश का मामला-शीर्षक नहीं दिया; 2002 के ऑल इंडिया जजेज़ एसोसिएशन फैसले का हवाला पृष्ठभूमि के तौर पर दिया गया है।",
       "case_hi": "ज़िला जजों की सेवानिवृत्ति की उम्र (ऑल इंडिया जजेज़ एसोसिएशन से जुड़े मामले)",
       "status_hi": "तय"
+    },
+    {
+      "id": "delhi-firecracker-ban",
+      "case": "Arjun Gopal v. Union of India (WP(C) 728/2015)",
+      "issue": "दिल्ली-एनसीआर में पटाखे बेचने और फोड़ने की अनुमति हो या नहीं और किन शर्तों पर; राजधानी के वायु प्रदूषण पर लंबे समय से चल रहे मामले का हिस्सा।",
+      "bench_size": 2,
+      "bench": "जस्टिस एम एम सुंदरेश और जस्टिस प्रसन्ना बी वराले",
+      "status": "pending",
+      "status_text": "दिवाली 2026 के लिए छूट का आदेश; अनुपालन सुनवाई बाकी",
+      "last_date": "2026-11-02",
+      "last_event": "दिल्ली-एनसीआर में 7 और 8 नवंबर 2026 को सिर्फ सुबह 6 से 7 बजे और रात 8 से 10 बजे प्रमाणित ग्रीन पटाखे फोड़ने की अनुमति दी गई। बिक्री 4 से 6 नवंबर तक तय जगहों पर ही होगी (ऑनलाइन बिक्री नहीं), डिब्बों पर सीएसआईआर-नीरी प्रमाणन वाला क्यूआर कोड ज़रूरी है, और अस्पतालों, स्कूलों और साइलेंस ज़ोन के 300 मीटर के भीतर पटाखे नहीं चलेंगे। साल भर का प्रतिबंध 9 नवंबर से फिर लागू होगा। सीपीसीबी और राज्य बोर्ड 2 से 6 नवंबर, त्योहार के दो दिनों और 9 से 30 नवंबर की वायु गुणवत्ता रिपोर्ट देंगे।",
+      "next_step": "हलफनामे और रिपोर्ट 14 दिसंबर 2026 तक; 16 दिसंबर 2026 को अनुपालन के लिए सूचीबद्ध।",
+      "sources": [
+        {
+          "title": "Supreme Court Allows Certified Green Crackers In Delhi-NCR For Diwali On Nov 7-8; Year-Round Ban To Resume On Nov 9",
+          "publisher": "LiveLaw",
+          "date": "2026-11-02",
+          "url": "https://www.livelaw.in/top-stories/supreme-court-allows-certified-green-crackers-in-delhi-ncr-for-diwali-on-nov-7-8-year-round-ban-to-resume-on-nov-9-556915"
+        },
+        {
+          "title": "Supreme Court allows bursting of green firecrackers in Delhi-NCR from 6-7 am, 8-10 pm on Nov 7 and 8",
+          "publisher": "Deccan Herald",
+          "date": "2026-11-02",
+          "url": "https://www.deccanherald.com/india/delhi/supreme-court-allows-bursting-of-green-firecrackers-in-delhi-ncr-from-6-7-am-8-10-pm-on-nov-7-and-8-4204232"
+        }
+      ],
+      "notes": "फैसला 2026 LiveLaw (SC) 1115 के रूप में दर्ज। पटाखे फोड़ने का समय डेक्कन हेराल्ड से लिया गया; लाइवलॉ के पाठ में घंटे स्पष्ट नहीं थे। फैसला लिखने वाले जज का नाम स्रोतों में नहीं।",
+      "case_hi": "अर्जुन गोपाल बनाम भारत संघ (दिल्ली-एनसीआर में पटाखों पर प्रतिबंध)",
+      "status_hi": "लंबित"
     }
   ]
 }
