@@ -52,10 +52,6 @@ Nationalist Congress Party (Sharadchandra Pawar) president **Sharad Pawar was ad
 
 His daughter, Baramati MP and party working president Supriya Sule, broke the news on X. "Baba has been admitted to Ruby Hall Clinic, Pune, following a bout of cough," she wrote, adding: "He is undergoing medical tests and all his health parameters are stable." Doctors expect **his condition to settle down**.
 
-```photo
-{"n":1,"subject":"Supriya Sule","caption":"Supriya Sule, Baramati MP and Pawar's daughter, gave the first word on his health on Monday.","alt":"Supriya Sule, NCP (SP) working president"}
-```
-
 Dr Parvez Grant, the hospital's chief cardiologist and managing trustee, said the former Union minister had been brought in for a general check-up and medical observation after the chest pain. "He is expected to recover well, and he has been kept under medical supervision as a precaution," he said. Doctors are keeping him **under observation as a precaution** while the tests are completed.
 
 The 85-year-old Rajya Sabha member had spent the past few days **touring drought-hit parts of Maharashtra** and began to feel unwell during the trip. He was taken to the hospital for what was meant to be a routine check, and doctors chose to admit him.

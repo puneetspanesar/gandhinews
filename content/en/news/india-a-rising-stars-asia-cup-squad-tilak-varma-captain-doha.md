@@ -52,17 +52,9 @@ Tilak Varma will **captain India A at the Rising Stars Asia Cup** in Doha, the B
 
 Rajat Patidar is vice-captain. The squad mixes players fresh from the senior side with names from the domestic season, and the headline pick is **opener Vaibhav Sooryavanshi**, who made 45 off 19 balls in his only game of the T20 series against New Zealand. Abhishek Sharma comes in after a strong series against the same opponents, and Harshit Rana is also back in the frame.
 
-```photo
-{"n":1,"subject":"Vaibhav Sooryavanshi","caption":"Vaibhav Sooryavanshi, who played one match in the New Zealand series, is in the India A squad.","alt":"Batter Vaibhav Sooryavanshi"}
-```
-
 Several of those picked were in Ranji Trophy action on Monday. Vidarbha spinner **Harsh Dubey took 9 for 53** against Madhya Pradesh in Nagpur, while Tanush Kotian and Suryansh Shedge were in the Mumbai side playing Railways in Mumbai.
 
 The full squad: Abhishek Sharma, Vaibhav Sooryavanshi, Prabhsimran Singh (wicketkeeper), Tilak Varma (captain), Rajat Patidar (vice-captain), Rinku Singh, Kumar Kushagra (wicketkeeper), Suryansh Shedge, Shahbaz Ahmed, Vipraj Nigam, Harsh Dubey, Tanush Kotian, Harshit Rana, Prince Yadav and Arshad Khan.
-
-```photo
-{"n":2,"subject":"Harsh Dubey","caption":"Vidarbha spinner Harsh Dubey, picked for India A on the day he took nine wickets in an innings.","alt":"Spinner Harsh Dubey"}
-```
 
 India A are in **Group B with Pakistan A**, Nepal and the UAE. They open against Nepal on 20 November and meet Pakistan A on 22 November, both at the West End Park International Stadium, before playing the UAE at the University of Doha for Science & Technology on 24 November.
 

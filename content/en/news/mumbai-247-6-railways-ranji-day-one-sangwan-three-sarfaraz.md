@@ -52,17 +52,9 @@ Railways clawed their way back into their Ranji Trophy match at the Cricket Club
 
 The morning had belonged to Mumbai. Angkrish Raghuvanshi and Divyaansh Saxena batted through the first session for 109 without loss after Railways chose to bowl. Raghuvanshi went on to **78 off 122 balls**, with 11 fours and two sixes, the top score of the day. Saxena made 39 off 96 balls.
 
-```photo
-{"n":1,"subject":"Brabourne Stadium","caption":"The Brabourne Stadium at the Cricket Club of India, where Mumbai are hosting Railways in round four.","alt":"Brabourne Stadium, Mumbai"}
-```
-
 Once the opening stand was broken, the innings changed shape. Captain Siddhesh Lad ground out 47 off 125 balls, and Sarfaraz Khan made **55 off 100 balls** with seven fours, but Railways kept taking wickets at the other end.
 
 Himanshu Sangwan, wicketless in his seven overs before lunch, was the man who turned it. The seamer finished with **3 for 32**, and Adarsh Singh, the tightest bowler of the morning, took 2 for 60. Between them they reduced Mumbai from a dominant start to a total that leaves the match open.
-
-```photo
-{"n":2,"subject":"Sarfaraz Khan","caption":"Sarfaraz Khan made 55 for Mumbai on the first day against Railways.","alt":"Mumbai batter Sarfaraz Khan"}
-```
 
 Mumbai, unbeaten in Elite Group D, still have the lower order to add runs on Tuesday, with Shams Mulani and Tanush Kotian among those to come. Kotian and Suryansh Shedge were both named in the India A squad for the Rising Stars Asia Cup on Monday evening.
 

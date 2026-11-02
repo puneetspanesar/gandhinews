@@ -85,10 +85,6 @@ Cigarettes brought in ₹15,536.13 crore of standalone revenue, and the FMCG-Oth
 
 The company reported "robust growth across all Non-Cigarette Business segments". It pointed to "strong recovery momentum" in paper, and said the agri business held up despite trade disruptions linked to the conflict in West Asia.
 
-```photo
-{"n":2,"subject":"ITC Bhadrachalam paperboard mill","caption":"ITC's paperboard mill at Bhadrachalam in Telangana; the company said its paper business is recovering.","alt":"ITC's paperboard mill at Bhadrachalam"}
-```
-
 ITC described the quarter as one of "heightened uncertainty amidst renewed geopolitical tensions and trade disruptions". "Crude oil and crude-linked input prices remained elevated, while supply chain disruptions and higher freight costs persisted," it said.
 
 The results came after the close. ITC shares had **ended at ₹266 on the BSE**, up 0.15%, and will trade on the numbers on Tuesday.
