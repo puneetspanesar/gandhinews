@@ -1,16 +1,16 @@
 {
- "as_of": "2026-10-30T15:45:00+05:30",
- "status": "closed",
- "session_date": "2026-10-30",
+ "as_of": "2026-11-02T10:00:00+05:30",
+ "status": "open",
+ "session_date": "2026-11-02",
  "chart": "nifty-50",
  "indices": [
   {
    "id": "sensex",
    "name": "Sensex",
    "name_hi": "सेंसेक्स",
-   "value": 74459.53,
-   "change": 308.49,
-   "pct": 0.42,
+   "value": 75429.53,
+   "change": 970.0,
+   "pct": 1.3,
    "history": [
     {
      "date": "2026-09-30",
@@ -85,15 +85,15 @@
      "close": 74459.53
     }
    ],
-   "source": "https://www.5paisa.com/blog/post-market-update-sensex-nifty-rise-second-day-broader-markets-fall-october-30-2026"
+   "source": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-2-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-jio-share-price-ipo-today-126110200053_1.html"
   },
   {
    "id": "nifty-50",
    "name": "Nifty 50",
    "name_hi": "निफ्टी 50",
-   "value": 23053.1,
-   "change": 116.35,
-   "pct": 0.51,
+   "value": 23313.2,
+   "change": 260.1,
+   "pct": 1.13,
    "history": [
     {
      "date": "2026-09-30",
@@ -172,7 +172,7 @@
      "close": 23053.1
     }
    ],
-   "source": "https://hdfcsky.com/news/market-close-report-today-october-30-2026-nifty-sensex-rise-for-second-straight-session"
+   "source": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-2-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-jio-share-price-ipo-today-126110200053_1.html"
   },
   {
    "id": "nifty-it",
@@ -198,11 +198,11 @@
    "id": "india-vix",
    "name": "India VIX",
    "name_hi": "इंडिया VIX",
-   "value": 15.28,
-   "change": null,
-   "pct": 1.19,
+   "value": 15.52,
+   "change": 0.24,
+   "pct": 1.4,
    "history": [],
-   "source": "https://hdfcsky.com/news/weekly-stock-market-review-october-26-30-2026-nifty-reclaims-23053-as-pharma-surges-6-1percent-jio-platforms-lists-at-21percent-premium-fiis-return-with-rs3599-crore"
+   "source": "https://hdfcsky.com/news/bse-nse-sensex-november-2-2026-open-report-sensex-jumps-over-760-pts-nifty-above-23250-as-oil-eases-reliance-jio-earnings-lift-mood"
   }
  ],
  "rates": [
@@ -210,12 +210,12 @@
    "id": "usd-inr",
    "name": "Rupee per dollar",
    "name_hi": "रुपया प्रति डॉलर",
-   "value": 94.93,
-   "change": -0.33,
-   "pct": -0.35,
+   "value": 94.89,
+   "change": -0.07,
+   "pct": -0.07,
    "decimals": 2,
    "unit": "",
-   "source": "https://www.etvbharat.com/en/business/rupee-vs-usd-indian-currency-us-dollar-exchange-rate-today-enn26103000952"
+   "source": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-2-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-jio-share-price-ipo-today-126110200053_1.html"
   },
   {
    "id": "brent",
@@ -269,83 +269,51 @@
  "movers": {
   "gainers": [
    {
-    "name": "Trent",
-    "pct": 5.44
+    "name": "Reliance Industries",
+    "pct": 5.5
    },
    {
-    "name": "InterGlobe Aviation",
-    "pct": 4.33
+    "name": "NTPC",
+    "pct": 3.3
    },
    {
-    "name": "Infosys",
-    "pct": 3.36
+    "name": "Tata Steel",
+    "pct": 3.3
    },
    {
-    "name": "Apollo Hospitals",
-    "pct": 3.02
+    "name": "Max Healthcare",
+    "pct": 3.1
+   },
+   {
+    "name": "Maruti Suzuki",
+    "pct": 2.2
    }
   ],
   "losers": [
    {
-    "name": "Shriram Finance",
-    "pct": -2.13
+    "name": "Apollo Hospitals",
+    "pct": -1.4
    },
    {
-    "name": "Nestle India",
-    "pct": -1.82
+    "name": "Sun Pharma",
+    "pct": -1.3
    },
    {
-    "name": "Mahindra & Mahindra",
-    "pct": -1.72
+    "name": "Bajaj Auto",
+    "pct": -0.7
    },
    {
-    "name": "Jio Financial Services",
-    "pct": -1.21
+    "name": "Tech Mahindra",
+    "pct": -0.7
    },
    {
-    "name": "Adani Ports & SEZ",
-    "pct": -1.18
+    "name": "Eicher Motors",
+    "pct": -0.4
    }
   ],
-  "source": "https://hdfcsky.com/news/market-close-report-today-october-30-2026-nifty-sensex-rise-for-second-straight-session (percentages); list order confirmed by https://www.kotakneo.com/news/market-news/sensex-and-nifty-50-close-higher-amid-global-headwinds/"
+  "source": "https://upstox.com/news/market-news/stocks/sensex-nifty-50-rally-over-1-amid-crude-oil-pullback-reliance-tata-steel-maruti-lead-pack-of-gainers/article-202787/ (as of 9:32 am IST)"
  },
- "sectors": [
-  {
-   "name": "IT",
-   "name_hi": "आईटी",
-   "pct": 2.32
-  },
-  {
-   "name": "Pharma",
-   "name_hi": "फार्मा",
-   "pct": 1.55
-  },
-  {
-   "name": "Auto",
-   "name_hi": "ऑटो",
-   "pct": -0.82
-  },
-  {
-   "name": "FMCG",
-   "name_hi": "एफएमसीजी",
-   "pct": -0.59
-  },
-  {
-   "name": "Energy",
-   "name_hi": "ऊर्जा",
-   "pct": -0.97
-  },
-  {
-   "name": "Media",
-   "name_hi": "मीडिया",
-   "pct": -1.58
-  },
-  {
-   "name": "Consumer Durables",
-   "name_hi": "कंज्यूमर ड्यूरेबल्स",
-   "pct": -1.78
-  }
- ],
+ "sectors": [],
  "sectors_source": "IT, Auto, FMCG, Energy, Media: https://hdfcsky.com/news/weekly-stock-market-review-october-26-30-2026-nifty-reclaims-23053-as-pharma-surges-6-1percent-jio-platforms-lists-at-21percent-premium-fiis-return-with-rs3599-crore ; Pharma: https://www.5paisa.com/blog/post-market-update-sensex-nifty-rise-second-day-broader-markets-fall-october-30-2026 ; Consumer Durables: https://www.kotakneo.com/news/market-news/sensex-and-nifty-50-close-higher-amid-global-headwinds/ . Bank, Metal, Realty only described as 'down about 0.5%' and PSU Bank as 'down over 1%' (HDFC Sky daily report), so left null.",
  "flows": {
   "date": "2026-10-30",
@@ -356,6 +324,6 @@
  },
  "notes": [
   "Seeded from research on October 31, 2026. Nifty Bank, euro, pound and some sector moves were not found in a reliable source and are left out.",
-  "2 Nov 09:30 IST: Brent updated from a pre-open read (08:53 IST). Monday opening index levels were not yet published in a source this run could read, so indices, rates and movers still show the 30 October close."
+  "2 Nov 10:00 IST: Sensex, Nifty 50 and rupee from Business Standard live blog (10:00 and 09:01 IST); India VIX from HDFC Sky open report (data as of 09:24 IST); movers from Upstox (09:32 IST). Nifty IT and Nifty Midcap 150 still show the 30 October values; sector moves for today were not found in exact form and are hidden; gold, silver and G-sec yield keep their older values."
  ]
 }

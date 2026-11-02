@@ -64,9 +64,6 @@ Railways **won the toss and chose to bowl** against Mumbai on Monday morning, op
 
 Mumbai's openers, Angkrish Raghuvanshi and Divyaansh Saxena, took no risks against the new ball. Adarsh Singh and Himanshu Sangwan kept a tight line, and Mumbai had **10 without loss after four overs**. Each opener had hit one four and had five to his name at that stage, Raghuvanshi's boundary coming off Adarsh.
 
-```photo
-{"n":1,"subject":"Himanshu Sangwan","caption":"Railways pacer Himanshu Sangwan, who shared the new ball against Mumbai on Monday.","alt":"Railways fast bowler Himanshu Sangwan"}
-```
 
 Mumbai arrive in their best form of the season. Siddhesh Lad's side have **three bonus-point wins in a row**, by an innings and 155 runs against Chandigarh, by an innings and 97 runs against Himachal Pradesh and by 10 wickets against Haryana, and they lead Elite Group D.
 

@@ -73,9 +73,6 @@ Shares of Reliance Industries **jumped more than 6% on Monday morning**, the fir
 
 The stock touched **a day's high of ₹1,237.30 on the NSE at 9:41 am, up 6.22%**. It was the top gainer on the Sensex from the opening minutes and did much of the work in lifting the index nearly 1,000 points. The shares had fallen about 24% this year before the results.
 
-```photo
-{"n":1,"subject":"Jamnagar Refinery","caption":"Reliance's refinery complex at Jamnagar in Gujarat, the heart of the oil-to-chemicals business that drove the quarter's profit.","alt":"The Reliance refinery at Jamnagar, Gujarat (file photo)"}
-```
 
 Profit attributable to shareholders **rose 41% to ₹25,548 crore**, from ₹18,165 crore a year earlier and ₹20,946 crore in the June quarter. EBITDA, or operating profit before depreciation, grew 24% to ₹62,409 crore.
 

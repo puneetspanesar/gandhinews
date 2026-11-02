@@ -91,9 +91,6 @@ Sun Pharmaceutical Industries fell about 1.5% after reporting a 36% drop in quar
 
 The rally was broad. The Nifty Next 50 rose 1.16% and the Nifty Midcap 100 0.78% at the open, while the smallcap indices made smaller gains. India VIX, the market's fear gauge, edged up 1.4% to 15.52.
 
-```photo
-{"n":3,"subject":"Tata Steel Kalinganagar","caption":"Tata Steel's Kalinganagar plant in Odisha. The steelmaker was among the top gainers, up more than 3%.","alt":"Tata Steel's Kalinganagar steel plant in Odisha (file photo)"}
-```
 
 ## What traders are watching
 

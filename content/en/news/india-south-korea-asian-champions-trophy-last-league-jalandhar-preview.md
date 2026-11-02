@@ -46,17 +46,11 @@ India close the league stage of the men's Asian Champions Trophy against South K
 
 Harmanpreet Singh's side have won all four of their games and are **already through to the semi-finals**. Their 4-2 win over Malaysia on Sunday night, with the captain scoring a hat-trick, left them on 12 points with a goal difference of plus 21.
 
-```photo
-{"n":1,"subject":"Sukhjeet Singh (field hockey)","caption":"Forward Sukhjeet Singh, who scored India's third goal against Malaysia on Sunday.","alt":"India hockey forward Sukhjeet Singh"}
-```
 
 The semi-final line-up is settled. Malaysia have nine points, Japan seven and South Korea six, and **all four have qualified** for the knockouts, with China on one point and Bangladesh yet to score one. Monday's games decide only the final order.
 
 For India, that makes the Korea game a useful run-out before the semis. Harmanpreet has been the tournament's sharpest finisher, with **eight goals in four matches**, two of them from penalty corners and one from a stroke against Malaysia alone. Malaysia's two goals on Sunday, one from a corner and one in the final minute, were a reminder that the defence can still be tested.
 
-```photo
-{"n":2,"subject":"Krishan Bahadur Pathak","caption":"Goalkeeper Krishan Bahadur Pathak, who kept out several Malaysian penalty corners on Sunday.","alt":"India hockey goalkeeper Krishan Bahadur Pathak"}
-```
 
 The captain was clear about what the team wants from a home tournament. "We are here for gold... Our only target is to win at home," Harmanpreet said after the Malaysia game. "All the youngsters coming in are doing well."
 
