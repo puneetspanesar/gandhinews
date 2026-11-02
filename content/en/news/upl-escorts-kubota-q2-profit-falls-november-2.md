@@ -17,10 +17,10 @@ hero:
   need: "UPL Limited, the Mumbai-based crop protection company that reported a lower quarterly profit"
   suggested_source: "UPL Limited"
   subjects: ["UPL Limited"]
-  alt: "UPL Limited (file photo)"
+  alt: "Jai Shroff, chairman and group CEO of UPL (file photo)"
   overlay:
     value: "UPL profit down 24%"
-related: [mobikwik-q2-profit-sanghvi-movers-november-2, sensex-500-points-off-high-afternoon-it-drags-nifty-23247, muthoot-finance-rebounds-9-per-cent-52-week-low-q2-profit, markets-week-ahead-us-midterms-itc-sbi-results-november-2]
+related: [sensex-500-points-off-high-afternoon-it-drags-nifty-23247, muthoot-finance-rebounds-9-per-cent-52-week-low-q2-profit, markets-week-ahead-us-midterms-itc-sbi-results-november-2]
 seo:
   description: "UPL Q2 FY27 results: consolidated net profit falls 24% to ₹421 crore, revenue ₹11,860 crore. Escorts Kubota profit down 21.35% to ₹250 crore on income of ₹3,367 crore, 2 November 2026."
 cover:
@@ -61,7 +61,7 @@ verification:
 
 Two companies that sell to India's farmers, **UPL and Escorts Kubota, reported lower profits** on Monday afternoon, adding a weak note to a day on which strong numbers from Reliance Industries had lifted the market.
 
-UPL, the Mumbai-based maker of crop protection chemicals and seeds, said its consolidated **net profit fell 24% to ₹421 crore** in the September quarter, against ₹553 crore a year earlier. Revenue from operations slipped 1.32% to ₹11,860 crore. The company did not immediately break down where the pressure came from.
+UPL, the Mumbai-based maker of crop protection chemicals and seeds, said its consolidated **net profit fell 24% to ₹421 crore** in the September quarter, against ₹553 crore a year earlier. Revenue from operations slipped 1.32% to ₹11,860 crore. The company did not immediately break down where the pressure came from. UPL is led by its chairman and group CEO, Jai Shroff.
 
 ```photo
 {"n":1,"subject":"Farmtrac tractor","caption":"A Farmtrac tractor, one of Escorts Kubota's brands. The tractor maker's quarterly profit fell even as its income grew.","alt":"A Farmtrac tractor in a field (file photo)"}
@@ -74,9 +74,5 @@ The two sets of numbers arrived while the wider market was holding on to part of
 ## ITC still to come
 
 The day's biggest remaining result is from ITC, the cigarettes-to-hotels group. Analysts expect its **profit to fall 8% to 11%** from a year earlier, to between ₹4,550 crore and ₹4,700 crore, against ₹5,126 crore in the same quarter last year. ITC shares traded 0.40% lower at ₹264.55 shortly before 1 pm as investors waited for the numbers.
-
-```photo
-{"n":2,"subject":"Virginia House Kolkata","caption":"Virginia House in Kolkata, ITC's headquarters. The company is due to report its September-quarter results later on Monday.","alt":"Virginia House, ITC's head office in Kolkata (file photo)"}
-```
 
 Marico and National Aluminium are also among the companies due to report on Monday.

@@ -48,10 +48,6 @@ A bench of Justices JB Pardiwala and Manmohan dismissed his plea against a Delhi
 
 Chandrashekhar was accused of using a constable's phone while in police custody in a 2017 corruption case to call the judicial officer presiding over that case, first posing as the judge's secretary and then as the judge himself. A Chief Judicial Magistrate **convicted him on 20 August** under Indian Penal Code sections for personating a public servant, threatening injury to a public servant and criminal intimidation by anonymous communication. He was sentenced on 29 August.
 
-```photo
-{"n":1,"subject":"Manmohan (judge)","caption":"Justice Manmohan sat with Justice Pardiwala on the bench that dismissed the plea.","alt":"Justice Manmohan of the Supreme Court (file photo)"}
-```
-
 He sought a stay of the conviction and sentence first from an Additional Sessions Judge and then from the Delhi High Court. **Both turned him down.** The High Court said the trial court's strong remarks about his conduct were for the appellate court to examine.
 
 ## Why he wanted a stay

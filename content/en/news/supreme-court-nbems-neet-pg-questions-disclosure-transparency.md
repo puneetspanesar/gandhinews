@@ -57,10 +57,6 @@ For the petitioners, senior counsel said NBEMS releases the master set and its a
 
 Counsel for NBEMS said the bank of postgraduate questions is small and should be treated as **a national asset**. Candidates get differently shuffled papers, she said, and the board publishes question IDs, the status of each answer and the correct answers, but not the questions themselves. "What we are disclosing now on the portal is not the master question paper," she told the bench.
 
-```photo
-{"n":1,"subject":"Alok Aradhe","caption":"Justice Alok Aradhe sat with Justice Narasimha on the bench hearing the NEET-PG disclosure petition.","alt":"Justice Alok Aradhe (file photo)"}
-```
-
 She argued that releasing the questions every year would let them be quoted and reused, that the bank is built by experts from across the country, and that many countries and AIIMS follow the same practice of not disclosing questions. Another lawyer for the petitioners pointed out that **past NEET-PG papers had been sold on Amazon**, and asked what secrecy was achieving.
 
 "What happens to transparency?" Justice Narasimha asked. He said foreign practice was no model for India and wanted NBEMS to set out why its position differs from exams that do release their questions.

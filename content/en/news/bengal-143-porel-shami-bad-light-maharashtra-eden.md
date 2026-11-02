@@ -57,10 +57,6 @@ Abishek Porel spared Bengal a far worse first day at Eden Gardens on Monday. The
 
 Porel had come in with Bengal in trouble and found a steady partner in Pradipta Pramanik. The pair took the score from 72 to 133 without being parted, an **eighth-wicket stand of at least 61**, with Porel on 49 off 58 balls and Pramanik on 30 off 41 at that point.
 
-```photo
-{"n":1,"subject":"Pradeep Dadhe","caption":"Maharashtra seamer Pradeep Dadhe, whose three wickets in the morning set up Bengal's collapse.","alt":"Maharashtra seam bowler Pradeep Dadhe"}
-```
-
 Once the stand was broken, the tail went quickly. Bengal's **last three wickets added just 10 runs**, leaving Mohammed Shami and Mohammed Kaif little time with the bat. Pradeep Dadhe, who had done the early damage, was the pick of the Maharashtra attack, with 3 for 45 from 14 overs by the time Bengal reached 133. Rajvardhan Hangargekar and Tanay Sanghvi took two wickets each.
 
 Captain Prithvi Shaw then opened Maharashtra's reply with Siddhesh Veer. Shami, back in the Bengal side, bowled a tight new-ball spell of **three overs for four runs**, including a maiden, but could not break through. Shaw hit two fours in his 12 not out, and Veer was on 6.

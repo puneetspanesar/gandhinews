@@ -1,6 +1,6 @@
 {
  "as_of": "2026-11-02T14:00:00+05:30",
- "status": "open",
+ "status": "closed",
  "session_date": "2026-11-02",
  "chart": "nifty-50",
  "indices": [
@@ -327,6 +327,7 @@
   "2 Nov 10:00 IST: Sensex, Nifty 50 and rupee from Business Standard live blog (10:00 and 09:01 IST); India VIX from HDFC Sky open report (data as of 09:24 IST); movers from Upstox (09:32 IST). Nifty IT and Nifty Midcap 150 still show the 30 October values; sector moves for today were not found in exact form and are hidden; gold, silver and G-sec yield keep their older values.",
   "2 Nov 12:00 IST run: Sensex and Nifty 50 from EquityPandit (11:22 IST); India VIX 10:05 IST and movers (about 10:30 to 11:00 IST, four losers only found) from HDFC Sky; rupee and Brent from PTI morning copy. PTI gives the rupee's Friday close as 94.76, which differs from the earlier source. Nifty IT, Midcap 150, gold, silver and G-sec yield keep older values; sectors not found.",
   "2 Nov 13:00 IST run: movers updated from HDFC Sky 12:00 IST table. No Sensex, Nifty, rupee or Brent print newer than 11:22 IST was found in a readable source, so index and rate values are kept as they were.",
-  "2 Nov 14:00 IST run: Sensex and Nifty 50 from Business Standard live blog (14:00 IST). Nifty Bank, Midcap, VIX, rupee, gold, Brent and movers keep their earlier readings; no newer time-stamped values were found in this run."
+  "2 Nov 14:00 IST run: Sensex and Nifty 50 from Business Standard live blog (14:00 IST). Nifty Bank, Midcap, VIX, rupee, gold, Brent and movers keep their earlier readings; no newer time-stamped values were found in this run.",
+  "2 Nov 15:00 IST run: market closed at 15:30; no closing Sensex, Nifty or rate values could be read in a source during this run, so the 14:00 IST readings stay (as_of unchanged). The evening run should add the close and history row."
  ]
 }

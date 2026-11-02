@@ -97,17 +97,6 @@
         }
       },
       {
-        "link": "mobikwik-q2-profit-sanghvi-movers-november-2",
-        "lead": {
-          "en": "Mobikwik:",
-          "hi": "मोबिक्विक:"
-        },
-        "text": {
-          "en": "Swings to ₹11.83 crore quarterly profit.",
-          "hi": "₹11.83 करोड़ के तिमाही मुनाफे में लौटी।"
-        }
-      },
-      {
         "link": "supreme-court-nbems-neet-pg-questions-disclosure-transparency",
         "lead": {
           "en": "NEET-PG:",
@@ -171,6 +160,17 @@
         "text": {
           "en": "Shares jump 5% on record quarterly profit.",
           "hi": "रिकॉर्ड तिमाही मुनाफ़े पर शेयर 5% उछले।"
+        }
+      },
+      {
+        "link": "supreme-court-closes-ram-mandir-donation-theft-pleas-chargesheet",
+        "lead": {
+          "en": "Ram Mandir:",
+          "hi": "राम मंदिर:"
+        },
+        "text": {
+          "en": "Supreme Court closes donation theft pleas, no CBI probe.",
+          "hi": "सुप्रीम कोर्ट ने दान चोरी की याचिकाएं बंद कीं, सीबीआई जांच नहीं।"
         }
       }
     ]
@@ -248,8 +248,8 @@
       "supreme-court-nbems-neet-pg-questions-disclosure-transparency",
       "upl-escorts-kubota-q2-profit-falls-november-2",
       "supreme-court-dismisses-sukesh-chandrashekhar-plea-stay-conviction-judge-impersonation",
-      "mobikwik-q2-profit-sanghvi-movers-november-2",
-      "supreme-court-dismisses-kn-nehru-plea-cash-for-jobs-fir"
+      "supreme-court-dismisses-kn-nehru-plea-cash-for-jobs-fir",
+      "supreme-court-closes-ram-mandir-donation-theft-pleas-chargesheet"
     ],
     "also": [
       "bank-of-baroda-shares-5-per-cent-record-q2-profit",
@@ -450,7 +450,6 @@
       },
       "list": [
         "upl-escorts-kubota-q2-profit-falls-november-2",
-        "mobikwik-q2-profit-sanghvi-movers-november-2",
         "bank-of-baroda-shares-5-per-cent-record-q2-profit",
         "sensex-holds-924-points-midday-nifty-23360-reliance-8-per-cent"
       ]
