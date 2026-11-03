@@ -16,5 +16,14 @@ Every piece bolds its key phrases and carries in-story visuals (explainers 3, ed
 ## 2. Pictures
 RUNBOOK.md step 2 with tag `l<day><m|e>`. Explainers and editorials take a picture of the place, institution or object the piece is about when there is no single person; never a wrong person. Pieces still without a correct picture move to newsroom/held/ and are named in the report.
 
+## 2b. Editor's check (never skip; nothing is published until it passes)
+After the clean build, and BEFORE the final commit and push:
+1. Save the front-page list from step 0b (other sites' top stories, one per line) to /home/claude/gn-work/frontpages.txt.
+2. `python3 newsroom/scripts/review_pack.py <ids of this run's pieces>` (it screenshots the built homepage and makes one sheet per story).
+3. Launch ONE separate agent (Agent tool, general-purpose, a fresh agent that did none of this run's work) with the prompt: `Read /home/claude/gandhinews/newsroom/briefs/editor-check.md and follow it exactly.` Wait for its reply.
+4. If it says FAIL, fix every FIX line (find a correct picture, recrop, rebuild a cover, change the lead or the headline mix), rebuild, rerun review_pack and ask a NEW editor agent again. At most two fix rounds.
+5. Anything still failing after two rounds: take that story off the homepage and out of this push (move its files to newsroom/held/), or revert the homepage to the last good homepage.json. Never publish a FAIL.
+6. Note the editor's final verdict in the commit message ("editor: PASS" or "editor: PASS after fixes: ...").
+
 ## 3. Build, publish, report
-RUNBOOK.md step 4. Commit "Long-form update <morning|evening>: N pieces", push, then release the lock. When the Cloudflare build has finished, run `npm run -s indexnow -- 13`. Send one short SendUserMessage: what was written (titles), anything held or doubtful. No em dashes.
+RUNBOOK.md step 4, then step 2b, the editor's check, until it passes. Commit "Long-form update <morning|evening>: N pieces", push, then release the lock. When the Cloudflare build has finished, run `npm run -s indexnow -- 13`. Send one short SendUserMessage: what was written (titles), anything held or doubtful. No em dashes.

@@ -107,7 +107,7 @@ Every id must exist; the example script checks this.
 ```
 cd /home/claude/gandhinews && npm run -s check:photos && rm -rf node_modules/.astro .astro/data-store.json && npm run build 2>&1 | grep -iE "error|Indexed [0-9]+ pages"
 ```
-Must build with no errors. If a push is rejected because another run pushed first, `git pull --rebase`; if content/photos.json or content/photos.map.json conflict, keep BOTH sides' entries (merge the JSON, never take one side), then rerun `npm run -s check:photos` before pushing. A lost map entry blanks a story's picture on the live site. Optionally screenshot the homepage with Playwright (Chromium is preinstalled) and Read it. Commit (`git add -A content public/photos scripts`), push. Check the deploy went out: the push triggers Cloudflare; nothing else to do.
+Must build with no errors. Then the editor's check (RUNBOOK-HOURLY.md step 4b) before any push. If a push is rejected because another run pushed first, `git pull --rebase`; if content/photos.json or content/photos.map.json conflict, keep BOTH sides' entries (merge the JSON, never take one side), then rerun `npm run -s check:photos` before pushing. A lost map entry blanks a story's picture on the live site. Optionally screenshot the homepage with Playwright (Chromium is preinstalled) and Read it. Commit (`git add -A content public/photos scripts`), push. Check the deploy went out: the push triggers Cloudflare; nothing else to do.
 
 ## 5. Report
 Send one short message (SendUserMessage) to the user: how many stories, the lead, anything dropped or doubtful, and pictures still missing. Plain words, no em dashes.
