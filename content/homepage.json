@@ -18,11 +18,11 @@
   "dataBox": [],
   "relatedBelow": [],
   "relatedBeside": [
+   "nse-q2-profit-23-per-cent-2578-crore-coal-exchange-stake",
+   "sudhakar-dalela-arrives-kathmandu-india-ambassador-nepal",
    "urvil-patel-210-pradosh-paul-208-ranji-round-four-day-two",
    "sc-uk-divorce-decree-no-shield-bigamy-andhra-husband",
-   "sensex-1225-points-nifty-23811-fourth-day-rally-november-3",
-   "goa-supreme-court-st-seat-reservation-hc-stay-sawaikar",
-   "hpcl-visakhapatnam-refinery-blast-fire-doused-no-casualties"
+   "goa-supreme-court-st-seat-reservation-hc-stay-sawaikar"
   ],
   "live": {
    "title": {
@@ -33,6 +33,28 @@
  },
  "briefing": {
   "items": [
+   {
+    "link": "nse-q2-profit-23-per-cent-2578-crore-coal-exchange-stake",
+    "lead": {
+     "en": "Companies:",
+     "hi": "कंपनियां:"
+    },
+    "text": {
+     "en": "NSE profit rises 23% to ₹2,578 crore in first results since listing",
+     "hi": "लिस्टिंग के बाद पहले नतीजे: NSE का मुनाफा 23% बढ़कर ₹2,578 करोड़"
+    }
+   },
+   {
+    "link": "sudhakar-dalela-arrives-kathmandu-india-ambassador-nepal",
+    "lead": {
+     "en": "Nepal:",
+     "hi": "नेपाल:"
+    },
+    "text": {
+     "en": "New Indian ambassador Sudhakar Dalela lands in Kathmandu a day before Misri's visit",
+     "hi": "मिसरी के दौरे से एक दिन पहले नए भारतीय राजदूत सुधाकर दलेला काठमांडू पहुंचे"
+    }
+   },
    {
     "link": "urvil-patel-210-pradosh-paul-208-ranji-round-four-day-two",
     "lead": {
@@ -56,17 +78,6 @@
     }
    },
    {
-    "link": "sensex-1225-points-nifty-23811-fourth-day-rally-november-3",
-    "lead": {
-     "en": "Markets:",
-     "hi": "बाज़ार:"
-    },
-    "text": {
-     "en": "Sensex jumps 1,225 points to 76,918 as FMCG shares lead fourth day of gains",
-     "hi": "सेंसेक्स 1,225 अंक उछलकर 76,918 पर, एफएमसीजी शेयरों के दम पर लगातार चौथे दिन तेज़ी"
-    }
-   },
-   {
     "link": "goa-supreme-court-st-seat-reservation-hc-stay-sawaikar",
     "lead": {
      "en": "Goa:",
@@ -86,17 +97,6 @@
     "text": {
      "en": "Moving Beant Singh's killer to Punjab would sway polls, IB tells Supreme Court",
      "hi": "बेअंत सिंह के हत्यारे को पंजाब भेजने से चुनाव पर असर, आईबी ने सुप्रीम कोर्ट से कहा"
-    }
-   },
-   {
-    "link": "food-inflation-weak-monsoon-sugar-poultry-milk-prices",
-    "lead": {
-     "en": "Inflation:",
-     "hi": "महंगाई:"
-    },
-    "text": {
-     "en": "Weak monsoon sets India up for a long spell of costly food, economists warn",
-     "hi": "कमज़ोर मानसून से लंबे समय तक महंगा रहेगा खाना, अर्थशास्त्रियों की चेतावनी"
     }
    },
    {
@@ -186,19 +186,19 @@
  },
  "topStories": {
   "big": {
-   "id": "navy-marcos-free-hijacked-fishing-vessel-azini-somalia-20-crew",
+   "id": "supreme-court-hawara-transfer-punjab-ib-elections-february",
    "also": []
   },
   "list": [
-   "komyshuvakha-aid-centre-strike-26-killed-zelenskyy-us-pressure",
    "aditya-l1-velc-asymmetric-cme-expansion-iia",
    "sindhu-lakshya-withdraw-korea-open-sindhu-japan-masters",
    "glenn-maxwell-retires-international-cricket-38",
-   "sri-lotus-developers-promoter-ofs-opens-floor-240-sebi-waiver"
+   "navy-marcos-free-hijacked-fishing-vessel-azini-somalia-20-crew",
+   "delhi-aqi-331-jahangirpuri-499-grap-stage-two"
   ],
   "also": [
-   "rba-hikes-cash-rate-4-85-per-cent-fifth-rise-2026",
-   "delhi-aqi-331-jahangirpuri-499-grap-stage-two"
+   "brothers-arrested-cheetah-shot-dead-madhya-pradesh",
+   "villarreal-psg-atletico-bayern-champions-league-tuesday-preview"
   ]
  },
  "startHere": [
@@ -382,7 +382,7 @@
   },
   {
    "section": "economy",
-   "lead": "sensex-1225-points-nifty-23811-fourth-day-rally-november-3",
+   "lead": "mcx-q2-profit-454-crore-revenue-doubles",
    "module": {
     "type": "markets",
     "indicators": [
@@ -393,10 +393,10 @@
     ]
    },
    "list": [
+    "nse-q2-profit-23-per-cent-2578-crore-coal-exchange-stake",
+    "sensex-1225-points-nifty-23811-fourth-day-rally-november-3",
     "food-inflation-weak-monsoon-sugar-poultry-milk-prices",
-    "bpcl-buys-us-wti-crude-1-million-barrels-mumbai-december",
-    "bajaj-finserv-q2-profit-23-per-cent-2758-crore",
-    "zydus-wellness-q2-revenue-73-per-cent-profit-shares-9-per-cent"
+    "bpcl-buys-us-wti-crude-1-million-barrels-mumbai-december"
    ]
   },
   {
@@ -435,12 +435,12 @@
  "desks": [
   {
    "section": "world",
-   "lead": "navy-marcos-free-hijacked-fishing-vessel-azini-somalia-20-crew",
+   "lead": "sudhakar-dalela-arrives-kathmandu-india-ambassador-nepal",
    "list": [
+    "navy-marcos-free-hijacked-fishing-vessel-azini-somalia-20-crew",
     "us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve",
     "komyshuvakha-aid-centre-strike-26-killed-zelenskyy-us-pressure",
-    "supreme-court-rejects-trump-california-ballots-midterms-eve",
-    "kospi-turns-higher-samsung-sk-hynix-recover-chip-rout"
+    "supreme-court-rejects-trump-california-ballots-midterms-eve"
    ]
   },
   {
