@@ -467,7 +467,8 @@ export async function homeModel(lang: Lang) {
   const week = (HOME.weekAhead ?? []).map((x: any) => ({ icon: x.icon, date: x.date[lang], text: x.text[lang], href: x.link ? urlOf(get(x.link).data) : null }));
 
   // ---- Desks: world, science and tech, sports
-  const desks = (HOME.desks ?? []).map((s: any) => { const ok = [s.lead, ...(s.list ?? [])].filter((x: string) => x && hasPic(x)); return ok.length ? { key: s.section, lead: card(ok[0]), list: ok.slice(1).map(card) } : null; }).filter(Boolean);
+  const deskFill = (sec: string) => [...c.articles].filter((x: any) => x.data.type === 'news' && x.data.section === sec && hasPic(x.data.id)).sort((a: any, b: any) => +new Date(b.data.published) - +new Date(a.data.published)).slice(0, 8).map((x: any) => x.data.id);
+  const desks = (HOME.desks ?? []).map((s: any) => { const ok = [...new Set([s.lead, ...(s.list ?? []), ...deskFill(s.section)])].filter((x: string) => x && hasPic(x)).slice(0, 5); return ok.length ? { key: s.section, lead: card(ok[0]), list: ok.slice(1).map(card) } : null; }).filter(Boolean);
 
 
   // ---- 2026 front page (Gandhi News): headline grid, live band, India block, markets band, other-language links
@@ -485,16 +486,33 @@ export async function homeModel(lang: Lang) {
     return out;
   };
   const sec = (k: string): any => HOME.sections.find((s: any) => s.section === k) ?? {};
-  const headlines = pick([...HOME.lead.relatedBeside, HOME.topStories.big.id, ...HOME.topStories.list, ...HOME.topStories.big.also], 8);
-  const india = pick([sec('states').lead, ...(sec('politics').list ?? []), ...(sec('states').list ?? []), ...(sec('policy').list ?? []), sec('policy').lead], 3);
-  const econ = pick([sec('economy').lead, ...(sec('economy').list ?? [])], 3);
+  // Backfill: when a chosen story is held back (no picture yet), the newest pictured stories fill the gap, so no slot is ever empty.
+  const freshIds = (secs?: string[]) => [...c.articles].filter((x: any) => x.data.type === 'news' && hasPic(x.data.id) && (!secs || secs.includes(x.data.section)))
+    .sort((a: any, b: any) => +new Date(b.data.published) - +new Date(a.data.published)).slice(0, 40).map((x: any) => x.data.id);
+  const chosen = pick([...HOME.lead.relatedBeside, HOME.topStories.big.id, ...HOME.topStories.list, ...HOME.topStories.big.also], 8);
+  // Backfill never repeats a subject already in the headlines (same distinctive word in the slug: murasu, qeshm...)
+  // and never puts a third story from one section in.
+  const words = (id: string) => id.split('-').filter((w) => w.length >= 6 && !/^(points|crore|percent|record|october|november|december|supreme|minister|series|tonight|monday|tuesday|wednesday|thursday|friday|saturday|sunday)$/.test(w));
+  const taken = new Set([lead.id, ...chosen.map((x: any) => x.id)].flatMap(words));
+  const secCount = (sec: string) => chosen.filter((x: any) => x.d.section === sec).length;
+  for (const id of freshIds()) {
+    if (chosen.length >= 8) break;
+    if (used.has(id) || words(id).some((w) => taken.has(w))) continue;
+    const e: any = c.all.get(id); if (!e || secCount(e.data.section) >= 2) continue;
+    used.add(id); chosen.push(short(card(id))); words(id).forEach((w) => taken.add(w));
+  }
+  const headlines = chosen;
+  const india = pick([sec('states').lead, ...(sec('politics').list ?? []), ...(sec('states').list ?? []), ...(sec('policy').list ?? []), sec('policy').lead, ...freshIds(['states', 'politics', 'policy'])], 3);
+  const econ = pick([sec('economy').lead, ...(sec('economy').list ?? []), ...freshIds(['economy'])], 3);
   const L0: any = HOME.lead;
   const leadTopic = leadE.data.topics?.[0] ? (await topicLink(leadE.data.topics[0], lang)).label : '';
   const live = {
     title: L0.live?.title?.[lang] || leadTopic || lead.k,
     feature: lead.below[0] ? short(lead.below[0]) : null,
-    list: lead.below.slice(1).map(short),
-    points: [] as string[],  // the lead's key points already sit under the lead; never repeat them in the band
+    // Never an empty column: when the running story has fewer than two follow-ups, fill with the newest pictured stories from the lead's section.
+    filler: lead.below.length <= 1,
+    list: (lead.below.length > 1 ? lead.below.slice(1) : c.articles.filter((x: any) => x.data.type === 'news' && x.data.section === lead.d.section && x.data.id !== lead.id && !lead.below.some((b: any) => b.id === x.data.id) && hasPic(x.data.id)).slice(0, 3).map((x: any) => card(x.data.id))).map(short),
+    points: (lead.d.keyPoints ?? []).map((k: string) => String(k).replace(/\*\*/g, '')),
     facts: lead.dataBox.slice(0, 3),
   };
   // Charts for the markets band

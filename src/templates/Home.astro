@@ -63,8 +63,8 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
           <div class="g-facts">{m.live.facts.map((x: any) => <div><Icon name={x.icon} /><span><b>{x.value}</b>{x.label}</span></div>)}</div>
         </div>
         <div class="g-ll">
+          {m.live.filler && m.live.list.length > 0 && <p class="g-ft">{lang === 'hi' ? 'दुनिया से और' : 'More world news'}</p>}
           {m.live.list.map((x: any) => <a href={x.href}><h3>{x.d.title}</h3></a>)}
-          {m.live.list.length < 2 && m.live.points.map((k: string) => <p>{k}</p>)}
           <a class="g-more" href={L.href}>{G.readLead} <Icon name="caret-right" /></a>
         </div>
       </div>
@@ -137,10 +137,10 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
       <div class="g-ll" lang={lang === 'en' ? 'hi' : 'en'}>
         {m.altLang.map((x: any) => <a href={x.href} class={lang === 'en' ? 'dv' : undefined}><h3>{x.title}</h3></a>)}
       </div>
-      <div class="g-wk">
+      {m.week.length > 0 && <div class="g-wk">
         <h3>{h.weekAhead}</h3>
         <dl>{m.week.map((x: any) => <><dt>{x.date}</dt><dd>{x.href ? <a href={x.href}>{x.text}</a> : x.text}</dd></>)}</dl>
-      </div>
+      </div>}
     </div>
   </section>
 

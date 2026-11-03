@@ -703,7 +703,7 @@ footer .legal a:hover{color:#fff}
 .ckb{display:flex;gap:8px;justify-content:flex-end;margin-top:12px}
 .ckb button{font-family:var(--f-head);font-weight:500;font-size:14px;padding:8px 16px;border-radius:20px;border:1px solid var(--ink);background:#fff;color:var(--ink);cursor:pointer}
 .ckb button.ok{background:var(--red);border-color:var(--red);color:#fff}
-@media (max-width:720px){.ck{left:12px;right:12px;bottom:76px;max-width:none}}
+@media (max-width:720px){.ck{left:0;right:0;bottom:60px;max-width:none;border-radius:0;border-left:0;border-right:0;padding:10px 14px;font-size:12px;display:flex;gap:10px;align-items:center}.ck p{flex:1}.ck .ckb,.ck>div{margin:0!important;flex:none}}
 
 .hp{position:absolute;left:-9999px;width:1px;height:1px;opacity:0}
 /* subscribe pages */
