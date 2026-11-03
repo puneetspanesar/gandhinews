@@ -13,6 +13,30 @@ keyPoints:
   - "Urvil Patel struck a **maiden first-class double hundred**, 210 not out, as Gujarat declared on 534 for nine."
   - "Pradosh Paul (208) and Sanvir Singh (205) took Tamil Nadu and Punjab past **570 and 590**."
   - "Mumbai were all out for **396 against Railways**, who closed on 116 for two."
+infographic:
+  kicker: Ranji Trophy, day two
+  headline: Three double hundreds in one day
+  dek: Round four, 3 November 2026
+  stats:
+  - icon: medal
+    value: "210*"
+    label: Urvil Patel, maiden first-class double hundred
+  - icon: trophy
+    value: "534/9 d"
+    label: Gujarat against Kerala
+  - icon: flag
+    value: "396"
+    label: Mumbai all out against Railways
+  chart:
+    type: bars
+    title: Day two double hundreds, runs
+    unit: ""
+    highlight: 0
+    items:
+    - {label: "Urvil Patel (Gujarat)", value: 210, display: "210*"}
+    - {label: "Pradosh Paul (Tamil Nadu)", value: 208, display: "208"}
+    - {label: "Sanvir Singh (Punjab)", value: 205, display: "205"}
+  source: Day two scores, Ranji Trophy round four, November 3, 2026
 hero:
   need: "Gujarat wicketkeeper-batter Urvil Patel"
   suggested_source: "Urvil Patel"
@@ -55,10 +79,6 @@ In New Chandigarh, Sanvir Singh's 205 carried Punjab to **592 for nine declared*
 ## Mumbai held in check
 
 At the Cricket Club of India, Mumbai added 149 to their overnight 247 for six before they were **all out for 396**. Shams Mulani top-scored on the day with 71, and Himanshu Sangwan, the destroyer on day one, finished with four for 88. Railways replied with 116 for two, Mohammad Saif unbeaten on 29, and trail by 280.
-
-```photo
-{"n":1,"subject":"Eden Gardens","caption":"Eden Gardens in Kolkata, where Bengal and Maharashtra are locked in a low-scoring Ranji Trophy contest.","alt":"Eden Gardens cricket ground, Kolkata"}
-```
 
 At Eden Gardens, the bowlers stayed on top. Only 186 runs came for seven wickets on the day, and Maharashtra closed on **207 for nine** in reply to Bengal's 143. Tanay Sanghavi held the innings together with 57 not out, while Mohammed Shami took three for 36.
 

@@ -59,10 +59,6 @@ Consumer goods makers did most of the lifting. The **Nifty FMCG index rose 3.65%
 
 BSE Ltd was the top gainer on the Nifty 50, **up 5.03%**, and Bharti Airtel added 3.77%.
 
-```photo
-{"n":1,"subject":"Bharti Crescent","caption":"Bharti Crescent in New Delhi, headquarters of Bharti Airtel, whose shares rose 3.77% on Tuesday.","alt":"Bharti Crescent, the Bharti Airtel headquarters in New Delhi (file photo)"}
-```
-
 Government-owned names went the other way. Power Grid fell 3.04%, the biggest loss on the index, State Bank of India dropped 1.7% and ONGC lost 1.13%. The **Nifty PSU Bank index fell 1.27%**, and metals slipped 0.14%.
 
 Smaller companies trailed the leaders. The Nifty Midcap 100 rose 1.06% and the Smallcap 100 only 0.31%. Among stocks outside the index, Marico jumped about 10% and KRBL 10.6% after their September-quarter results, and VRL Logistics gained 6%.
@@ -72,10 +68,6 @@ Smaller companies trailed the leaders. The Nifty Midcap 100 rose 1.06% and the S
 Foreign money and cheaper oil have helped drive the run. Foreign investors are buying again: they were **net buyers of ₹3,115 crore** on Monday, by provisional NSE data, and have bought in four of the last five sessions, while domestic institutions sold ₹392 crore.
 
 Crude has also come off its highs. Brent fell about 7% on Monday to around $105 a barrel on hopes that talks involving Iran and Qatari mediators could end the US-Israeli war with Iran. Reports of fresh US strikes on Iran's Qeshm Island near the Strait of Hormuz kept the risk alive, and Brent recovered about 1%. For India, which imports most of its oil, every dollar off the price eases pressure on the rupee and on inflation.
-
-```photo
-{"n":2,"subject":"Qeshm Island","caption":"Qeshm Island in the Strait of Hormuz, where US strikes were reported on Monday evening, keeping oil prices in focus.","alt":"Qeshm Island, Iran (file photo)"}
-```
 
 The rupee shared in the mood. It closed **16 paise stronger at 94.74** against the US dollar, from 94.90 on Monday.
 

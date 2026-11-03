@@ -1,6 +1,6 @@
 {
-  "as_of": "2026-11-03T14:20:00+05:30",
-  "status": "open",
+  "as_of": "2026-11-03T19:25:00+05:30",
+  "status": "closed",
   "session_date": "2026-11-03",
   "chart": "nifty-50",
   "indices": [
@@ -8,9 +8,9 @@
       "id": "sensex",
       "name": "Sensex",
       "name_hi": "सेंसेक्स",
-      "value": 76588.3,
-      "change": 895.52,
-      "pct": 1.18,
+      "value": 76917.85,
+      "change": 1225.07,
+      "pct": 1.62,
       "history": [
         {
           "date": "2026-09-30",
@@ -87,17 +87,21 @@
         {
           "date": "2026-11-02",
           "close": 75692.78
+        },
+        {
+          "date": "2026-11-03",
+          "close": 76917.85
         }
       ],
-      "source": "https://www.newsbytesapp.com/news/business/indian-stocks-rally-as-nifty-tops-23600-and-sensex-surges/tldr"
+      "source": "https://upstox.com/news/market-news/stocks/market-wrap-nov-3-sensex-jumps-1-225-pts-nifty-50-ends-at-23-810-nse-listed-firms-add-5-lakh-crore-mcap/article-202904/"
     },
     {
       "id": "nifty-50",
       "name": "Nifty 50",
       "name_hi": "निफ्टी 50",
-      "value": 23689.85,
-      "change": 249.05,
-      "pct": 1.06,
+      "value": 23810.85,
+      "change": 370.05,
+      "pct": 1.58,
       "history": [
         {
           "date": "2026-09-30",
@@ -178,9 +182,13 @@
         {
           "date": "2026-11-02",
           "close": 23440.8
+        },
+        {
+          "date": "2026-11-03",
+          "close": 23810.85
         }
       ],
-      "source": "https://www.newsbytesapp.com/news/business/indian-stocks-rally-as-nifty-tops-23600-and-sensex-surges/tldr"
+      "source": "https://upstox.com/news/market-news/stocks/market-wrap-nov-3-sensex-jumps-1-225-pts-nifty-50-ends-at-23-810-nse-listed-firms-add-5-lakh-crore-mcap/article-202904/"
     },
     {
       "id": "nifty-it",
@@ -206,11 +214,11 @@
       "id": "india-vix",
       "name": "India VIX",
       "name_hi": "इंडिया VIX",
-      "value": 15.66,
-      "change": 0.37,
-      "pct": 2.42,
+      "value": 15.67,
+      "change": null,
+      "pct": 1.09,
       "history": [],
-      "source": "https://hdfcsky.com (PTI copy and market ticker, 2 Nov, published 10:56 to 11:06 IST), VIX at 10:05 IST"
+      "source": "https://upstox.com/news/market-news/stocks/market-wrap-nov-3-sensex-jumps-1-225-pts-nifty-50-ends-at-23-810-nse-listed-firms-add-5-lakh-crore-mcap/article-202904/"
     }
   ],
   "rates": [
@@ -218,12 +226,12 @@
       "id": "usd-inr",
       "name": "Rupee per dollar",
       "name_hi": "रुपया प्रति डॉलर",
-      "value": 94.69,
-      "change": -0.21,
-      "pct": -0.22,
+      "value": 94.74,
+      "change": -0.16,
+      "pct": -0.17,
       "decimals": 2,
       "unit": "",
-      "source": "Business Standard live blog, 3 Nov 09:02 IST (Bloomberg): rupee opened 21 paise stronger at 94.69 vs Monday's close of 94.90; change is against that 94.90 reference: https://www.business-standard.com/markets/news/stock-market-live-november-3-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126110300101_1.html"
+      "source": "https://hdfcsky.com/news/market-close-report-today-november-3-2026-diwali-party-continues-as-benchmarks-extend-mega-rally"
     },
     {
       "id": "brent",
@@ -277,51 +285,74 @@
   "movers": {
     "gainers": [
       {
-        "name": "InterGlobe Aviation (IndiGo)",
-        "pct": 3.0
+        "name": "BSE Ltd",
+        "pct": 5.03
       },
       {
-        "name": "Shriram Finance",
-        "pct": 2.4
+        "name": "Nestle India",
+        "pct": 4.47
+      },
+      {
+        "name": "Tata Consumer Products",
+        "pct": 4.29
       },
       {
         "name": "Asian Paints",
-        "pct": 1.8
+        "pct": 3.99
       },
       {
-        "name": "Tata Consumer",
-        "pct": 1.6
-      },
-      {
-        "name": "HDFC Bank",
-        "pct": 1.5
+        "name": "Bharti Airtel",
+        "pct": 3.77
       }
     ],
     "losers": [
       {
-        "name": "ONGC",
-        "pct": -2.0
-      },
-      {
         "name": "Power Grid",
-        "pct": -1.3
+        "pct": -3.04
       },
       {
-        "name": "Apollo Hospitals",
-        "pct": -1.3
+        "name": "SBI",
+        "pct": -1.7
       },
       {
-        "name": "NTPC",
-        "pct": -1.0
-      },
-      {
-        "name": "Sun Pharma",
-        "pct": -0.95
+        "name": "ONGC",
+        "pct": -1.13
       }
     ],
-    "source": "https://upstox.com/news/market-news/stocks/sensex-gains-600-points-nifty-50-opens-at-23-582-level-indi-go-shriram-finance-asian-paints-lead-pack-of-gainers/article-202861/ (morning trade, 3 Nov)"
+    "source": "https://upstox.com/news/market-news/stocks/market-wrap-nov-3-sensex-jumps-1-225-pts-nifty-50-ends-at-23-810-nse-listed-firms-add-5-lakh-crore-mcap/article-202904/"
   },
-  "sectors": [],
+  "sectors": [
+    {
+      "name": "FMCG",
+      "name_hi": "एफएमसीजी",
+      "pct": 3.65
+    },
+    {
+      "name": "Realty",
+      "name_hi": "रियल्टी",
+      "pct": 2.33
+    },
+    {
+      "name": "Private Bank",
+      "name_hi": "निजी बैंक",
+      "pct": 1.98
+    },
+    {
+      "name": "Auto",
+      "name_hi": "ऑटो",
+      "pct": 1.71
+    },
+    {
+      "name": "Metal",
+      "name_hi": "मेटल",
+      "pct": -0.14
+    },
+    {
+      "name": "PSU Bank",
+      "name_hi": "सरकारी बैंक",
+      "pct": -1.27
+    }
+  ],
   "sectors_source": "IT, Auto, FMCG, Energy, Media: https://hdfcsky.com/news/weekly-stock-market-review-october-26-30-2026-nifty-reclaims-23053-as-pharma-surges-6-1percent-jio-platforms-lists-at-21percent-premium-fiis-return-with-rs3599-crore ; Pharma: https://www.5paisa.com/blog/post-market-update-sensex-nifty-rise-second-day-broader-markets-fall-october-30-2026 ; Consumer Durables: https://www.kotakneo.com/news/market-news/sensex-and-nifty-50-close-higher-amid-global-headwinds/ . Bank, Metal, Realty only described as 'down about 0.5%' and PSU Bank as 'down over 1%' (HDFC Sky daily report), so left null.",
   "flows": {
     "date": "2026-11-02",
@@ -347,6 +378,7 @@
     "3 Nov 08:00 IST run: before the open. No newer settle for Brent or gold (Brent traded near $104.4 in Asia at 08:00 IST per Business Standard, not a settle). GIFT Nifty at 23,537 (+134) at about 07:56 IST points to a higher open. All values unchanged since the 2 Nov close.",
     "3 Nov 09:12 IST run (pre-open): rupee opened at 94.69, 21 paise stronger vs a 94.90 Monday close (Bloomberg via Business Standard, 09:02 IST; PTI had the close at 94.86). Pre-open indications only, not trading values: Sensex 76,287 (+594, +0.79%) at 09:07 and Nifty 50 23,579 (+142, +0.60%) at 09:08; GIFT Nifty 23,525.50 (+123, +0.53%) at 08:36 (all Business Standard). Indices stay at the 2 Nov close with status closed until the 09:15 open. Brent keeps the 2 Nov settle $104.77 (Asia quotes: $104.41 at 08:24 IST per Business Standard; Trading Economics CFD $104.74, neither a settle). Gold and silver keep earlier MCX levels (only % moves, no prices, were found); 10-year G-sec yield not refreshed (source page could not be read).",
     "3 Nov opening prints for Sensex and Nifty (09:15 IST, read 09:50); other indices, rates and sectors keep their earlier values and dates.",
-    "3 Nov 13:00 IST run: Sensex 76,358 from a Free Press Journal midday report (headline level; change worked out against the 2 Nov close 75,692.78). Nifty 50 was reported above 23,600 with no exact level, so it keeps the opening print. Other values unchanged."
+    "3 Nov 13:00 IST run: Sensex 76,358 from a Free Press Journal midday report (headline level; change worked out against the 2 Nov close 75,692.78). Nifty 50 was reported above 23,600 with no exact level, so it keeps the opening print. Other values unchanged.",
+    "3 Nov 19:00 IST run (close): Sensex 76,917.85 (+1,225.07, +1.62%), Nifty 50 23,810.85 (+370.05, +1.58%), India VIX 15.67 (+1.09%), movers and sectors from the Upstox market wrap (16:00 IST); rupee close 94.74 (16 paise stronger than 94.90) from HDFC Sky (16:25 IST). 3 Nov closes appended to Sensex and Nifty history. Nifty IT, Midcap, Brent, gold, silver, G-sec keep earlier readings. 3 Nov FII/DII provisional flows not yet found in this run; flows keep 2 Nov figures."
   ]
 }

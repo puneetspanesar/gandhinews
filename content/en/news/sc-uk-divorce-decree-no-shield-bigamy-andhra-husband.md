@@ -43,10 +43,6 @@ A bench of Justices Prashant Kumar Mishra and Sree Chandrashekhar dismissed the 
 
 Reddy's first marriage was solemnised in India under Hindu rites. After he became a UK citizen, a British court granted him a divorce on the ground of irretrievable breakdown of the marriage, and he married a second time in the UK. His first wife then went to court in India.
 
-```photo
-{"n":1,"subject":"Supreme Court of India","caption":"The Supreme Court of India in New Delhi, where a two-judge bench dismissed the husband's appeal on Tuesday.","alt":"The Supreme Court of India building in New Delhi"}
-```
-
 ## Why the UK decree failed
 
 The bench held that the foreign decree **was not enforceable in India** under Section 13 of the Code of Civil Procedure. Irretrievable breakdown is not a ground for divorce under the Hindu Marriage Act, 1955, and the wife had never submitted to the jurisdiction of the British court. In the court's words, "the foreign divorce decree was passed in contravention of the existing matrimonial law in India".
