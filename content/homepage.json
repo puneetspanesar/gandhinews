@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "bjp-gaurav-bhatia-opposition-anarchic-model-sting-rahul",
+    "id": "smriti-irani-rahul-prince-perpetual-waiting-56-polls-sir",
     "overlay": {
       "kicker": {
-        "en": "Politics / BJP",
-        "hi": "राजनीति / भाजपा"
+        "en": "Politics / BJP vs Congress",
+        "hi": "राजनीति / भाजपा बनाम कांग्रेस"
       },
       "value": {
-        "en": "'People call him Bhasmasur'",
-        "hi": "'लोग उन्हें भस्मासुर कहते हैं'"
+        "en": "'Prince in perpetual waiting'",
+        "hi": "'हमेशा इंतजार में बैठे युवराज'"
       },
       "text": {
         "en": "",
@@ -16,13 +16,15 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "bjp-gaurav-bhatia-opposition-anarchic-model-sting-rahul"
+    ],
     "relatedBeside": [
+      "sanjay-shirsat-dia-mirza-loudspeakers-video-row",
+      "apple-app-store-18-plus-dating-ai-companion-apps",
       "ncp-devgiri-meeting-bhujbal-288-seats-sunetra-finance-shah",
       "mcx-q2-profit-454-crore-revenue-doubles",
-      "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip",
-      "sudhakar-dalela-arrives-kathmandu-india-ambassador-nepal",
-      "urvil-patel-210-pradosh-paul-208-ranji-round-four-day-two"
+      "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip"
     ],
     "live": {
       "title": {
@@ -33,6 +35,28 @@
   },
   "briefing": {
     "items": [
+      {
+        "link": "sanjay-shirsat-dia-mirza-loudspeakers-video-row",
+        "lead": {
+          "en": "States:",
+          "hi": "राज्य:"
+        },
+        "text": {
+          "en": "Dia Mirza should make a video on loudspeakers too, says Maharashtra minister Sanjay Shirsat",
+          "hi": "दीया मिर्जा लाउडस्पीकर पर भी वीडियो बनाएं: महाराष्ट्र के मंत्री संजय शिरसाट"
+        }
+      },
+      {
+        "link": "apple-app-store-18-plus-dating-ai-companion-apps",
+        "lead": {
+          "en": "Apps:",
+          "hi": "ऐप:"
+        },
+        "text": {
+          "en": "Apple makes dating apps 18+ on the App Store, tightens rules for AI companions",
+          "hi": "ऐप्पल ने ऐप स्टोर पर डेटिंग ऐप 18+ किए, एआई साथी ऐप पर भी सख्ती"
+        }
+      },
       {
         "link": "ncp-devgiri-meeting-bhujbal-288-seats-sunetra-finance-shah",
         "lead": {
@@ -89,17 +113,6 @@
         }
       },
       {
-        "link": "sc-uk-divorce-decree-no-shield-bigamy-andhra-husband",
-        "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
-        },
-        "text": {
-          "en": "UK divorce and British citizenship no shield from bigamy case, Supreme Court rules",
-          "hi": "ब्रिटेन का तलाक और नागरिकता बहुविवाह के मुकदमे से नहीं बचा सकते: सुप्रीम कोर्ट"
-        }
-      },
-      {
         "link": "navy-marcos-free-hijacked-fishing-vessel-azini-somalia-20-crew",
         "lead": {
           "en": "Navy:",
@@ -108,17 +121,6 @@
         "text": {
           "en": "Navy commandos free hijacked fishing vessel off Somalia, all 20 crew safe",
           "hi": "सोमालिया के पास नौसेना कमांडो ने अगवा जहाज़ छुड़ाया, सभी 20 क्रू सुरक्षित"
-        }
-      },
-      {
-        "link": "goa-supreme-court-st-seat-reservation-hc-stay-sawaikar",
-        "lead": {
-          "en": "Goa:",
-          "hi": "गोवा:"
-        },
-        "text": {
-          "en": "Goa to move Supreme Court against High Court stay on tribal seat reservation",
-          "hi": "आदिवासी सीटों के आरक्षण पर हाईकोर्ट की रोक के खिलाफ सुप्रीम कोर्ट जाएगा गोवा"
         }
       }
     ]
@@ -186,19 +188,19 @@
   },
   "topStories": {
     "big": {
-      "id": "goa-supreme-court-st-seat-reservation-hc-stay-sawaikar",
+      "id": "sudhakar-dalela-arrives-kathmandu-india-ambassador-nepal",
       "also": []
     },
     "list": [
+      "urvil-patel-210-pradosh-paul-208-ranji-round-four-day-two",
       "navy-marcos-free-hijacked-fishing-vessel-azini-somalia-20-crew",
-      "aditya-l1-velc-asymmetric-cme-expansion-iia",
-      "krv-it-parks-bengaluru-kannadiga-jobs-data-shivakumar-appeal",
-      "supreme-court-hawara-transfer-punjab-ib-elections-february",
-      "sc-uk-divorce-decree-no-shield-bigamy-andhra-husband"
+      "sc-uk-divorce-decree-no-shield-bigamy-andhra-husband",
+      "goa-supreme-court-st-seat-reservation-hc-stay-sawaikar",
+      "supreme-court-hawara-transfer-punjab-ib-elections-february"
     ],
     "also": [
-      "bombay-hc-bmc-restore-dia-mirza-video-secular-country",
-      "glenn-maxwell-retires-international-cricket-38"
+      "bjp-gaurav-bhatia-opposition-anarchic-model-sting-rahul",
+      "priyank-kharge-union-minister-ed-it-kumaraswamy-hits-back"
     ]
   },
   "startHere": [
@@ -374,11 +376,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "sc-uk-divorce-decree-no-shield-bigamy-andhra-husband",
-        "bjp-gaurav-bhatia-opposition-anarchic-model-sting-rahul",
-        "supreme-court-hawara-transfer-punjab-ib-elections-february"
+        "ncp-devgiri-meeting-bhujbal-288-seats-sunetra-finance-shah",
+        "smriti-irani-rahul-prince-perpetual-waiting-56-polls-sir",
+        "sc-uk-divorce-decree-no-shield-bigamy-andhra-husband"
       ],
-      "lead": "ncp-devgiri-meeting-bhujbal-288-seats-sunetra-finance-shah"
+      "lead": "sanjay-shirsat-dia-mirza-loudspeakers-video-row"
     },
     {
       "section": "economy",
@@ -445,11 +447,11 @@
     },
     {
       "section": "science",
-      "lead": "aditya-l1-velc-asymmetric-cme-expansion-iia",
+      "lead": "apple-app-store-18-plus-dating-ai-companion-apps",
       "list": [
+        "aditya-l1-velc-asymmetric-cme-expansion-iia",
         "apollo-slok-ai-zero-financial-payoff-sp-493",
-        "cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam",
-        "nasa-isaacman-moon-base-artemis-iii-summer-2027-landing-2028"
+        "cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam"
       ]
     },
     {
