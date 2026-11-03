@@ -6,7 +6,7 @@ With no ids it makes covers for every story whose English front matter has a `co
 
 Front matter (English; the Hindi twin repeats `cover:` with Hindi label/headline/data labels):
   cover:
-    template: faceoff | speaker | breaking | sport | business
+    template: faceoff | speaker | breaking | sport | business | event
     label: "CEC row"                       # red tag, 1-3 words
     headline: "'Modi's life is in Gyanesh Kumar'"   # 2 lines max, about 40 characters
     bg: "Ramlila Maidan"                   # Commons search for the scene behind the people (planned as <id>--bg)
@@ -240,6 +240,9 @@ def make(sid, raw, spec, lang, people, bgp, insetp, panels=None):
     if t == 'business':
         ImageDraw.Draw(c).rectangle((W - 560, 0, W, H), fill=RED + (255,))
         if bgp: bg_layer(c, bgp)  # a business story may still give a scene
+    elif t == 'event' and people:   # weather, disaster, fire, strike damage: the event photo fills the cover
+        im = ImageOps.fit(ImageOps.exif_transpose(people[0]).convert('RGB'), (W, H), Image.LANCZOS, centering=(0.5, 0.4))
+        c.alpha_composite(Image.eval(im, lambda v: int(v * 0.85)).convert('RGBA'))
     elif bgp: bg_layer(c, bgp)
     elif people:   # no scene photo: the story's own picture, blurred and darkened, so no photo is reused elsewhere
         im = ImageOps.fit(ImageOps.exif_transpose(people[0]).convert('RGB'), (W, H), Image.LANCZOS, centering=(0.5, 0.35))
@@ -251,7 +254,7 @@ def make(sid, raw, spec, lang, people, bgp, insetp, panels=None):
         same = not (would_cut(people[0]) and would_cut(people[1]))   # both cut out, or both framed: never mixed
         modes.append(place_person(c, people[0], 330, 200, panels[0], force_frame=same))
         modes.append(place_person(c, people[1], 950, 200, panels[1], force_frame=same))
-    elif people:
+    elif people and t != 'event':
         cx = {'speaker': 900, 'breaking': 330, 'sport': 930, 'business': 960}.get(t, 900)
         modes.append(place_person(c, people[0], cx, 220, panels[0]) if t != 'business' else place_product(c, people[0]))
     if t == 'breaking' and insetp:
@@ -275,7 +278,7 @@ def make(sid, raw, spec, lang, people, bgp, insetp, panels=None):
             y += 114
     mark(c)
     text_block(c, lang, spec.get('label', ''), spec['headline'])
-    if bgp or any(m == 'frame' for m in modes): tag(c, lang, 'File photos' if lang == 'en' else 'फ़ाइल फ़ोटो')
+    if bgp or t == 'event' or any(m == 'frame' for m in modes): tag(c, lang, 'File photos' if lang == 'en' else 'फ़ाइल फ़ोटो')
     out = c.convert('RGB')
     base = f'{R}public/photos/c-{sid[:60]}-{lang}'
     out.save(base + '-1280.jpg', quality=86, optimize=True, progressive=True)

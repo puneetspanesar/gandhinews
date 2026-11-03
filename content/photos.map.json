@@ -25013,10 +25013,10 @@
   "src800": "/photos/v-murasu-crosses-andhra-coast-naguluppalapadu-198-mm-trees-dow-640.jpg",
   "width": 1280,
   "height": 960,
-  "credit": "Photos: NOAA / Wikimedia Commons; Th3Snehasish / Wikimedia Commons",
-  "licence": "Public domain, CC BY 4.0",
-  "alt": "File photos: an earlier cyclone over the Bay of Bengal seen from space, and trees uprooted by Cyclone Fani in Puri (file photo)",
-  "alt_hi": "फाइल फोटो: बंगाल की खाड़ी में पहले आए चक्रवात की उपग्रह तस्वीर, और पुरी में चक्रवात फानी से उखड़े पेड़ (फ़ाइल फ़ोटो)",
+  "credit": "Photo: Adityamadhav83 / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Damage left by Cyclone Hudhud in Visakhapatnam, Andhra Pradesh (file photo)",
+  "alt_hi": "आंध्र प्रदेश के विशाखापत्तनम में चक्रवात हुदहुद से हुई तबाही (फ़ाइल फ़ोटो)",
   "page": null,
   "cover": {
    "width": 1280,
@@ -25030,42 +25030,6 @@
     "src800": "/photos/c-murasu-crosses-andhra-coast-naguluppalapadu-198-mm-trees-dow-hi-640.jpg"
    }
   }
- },
- "murasu-crosses-andhra-coast-naguluppalapadu-198-mm-trees-down--bg": {
-  "id": "v-murasu-crosses-andhra-coast-naguluppalapadu-198-mm-tree-bg",
-  "src": "/photos/v-murasu-crosses-andhra-coast-naguluppalapadu-198-mm-tree-bg-1280.jpg",
-  "src800": "/photos/v-murasu-crosses-andhra-coast-naguluppalapadu-198-mm-tree-bg-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: BlueHypercane761 / Wikimedia Commons",
-  "licence": "Public domain",
-  "alt": "Cyclone Murasu (file photo)",
-  "alt_hi": "Cyclone Murasu (फ़ाइल फ़ोटो)",
-  "page": null
- },
- "murasu-crosses-andhra-coast-naguluppalapadu-198-mm-trees-down--p1": {
-  "id": "v-murasu-crosses-andhra-coast-naguluppalapadu-198-mm-tree-p1",
-  "src": "/photos/v-murasu-crosses-andhra-coast-naguluppalapadu-198-mm-tree-p1-1280.jpg",
-  "src800": "/photos/v-murasu-crosses-andhra-coast-naguluppalapadu-198-mm-tree-p1-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Subas Chandra Rout / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "A tree brought down by Cyclone Fani in Odisha in 2019 (file photo)",
-  "alt_hi": "2019 में ओडिशा में चक्रवात फानी से गिरा पेड़ (फाइल फोटो) (फ़ाइल फ़ोटो)",
-  "page": null
- },
- "murasu-crosses-andhra-coast-naguluppalapadu-198-mm-trees-down--p2": {
-  "id": "v-murasu-crosses-andhra-coast-naguluppalapadu-198-mm-tree-p2",
-  "src": "/photos/v-murasu-crosses-andhra-coast-naguluppalapadu-198-mm-tree-p2-1280.jpg",
-  "src800": "/photos/v-murasu-crosses-andhra-coast-naguluppalapadu-198-mm-tree-p2-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Kumarrakajee / Wikimedia Commons",
-  "licence": "CC BY-SA 3.0",
-  "alt": "NDRF rescuers during floods in Karnataka (file photo)",
-  "alt_hi": "कर्नाटक की बाढ़ में बचाव करते एनडीआरएफ कर्मी (फाइल फोटो) (फ़ाइल फ़ोटो)",
-  "page": null
  },
  "murasu-nine-trains-cancelled-vijayawada-families-relief-camps": {
   "id": "v-murasu-nine-trains-cancelled-vijayawada-families-relief-camp",
@@ -25149,30 +25113,6 @@
   "licence": "CC BY-SA 2.5",
   "alt": "Donald Trump (file photo)",
   "alt_hi": "Donald Trump (फ़ाइल फ़ोटो)",
-  "page": null
- },
- "us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve--p1": {
-  "id": "v-us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve-p1",
-  "src": "/photos/v-us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve-p1-1280.jpg",
-  "src800": "/photos/v-us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve-p1-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Shealeah Craighead / Wikimedia Commons",
-  "licence": "Public domain",
-  "alt": "Donald Trump (file photo)",
-  "alt_hi": "डोनाल्ड ट्रंप (फाइल फोटो) (फ़ाइल फ़ोटो)",
-  "page": null
- },
- "us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve--p2": {
-  "id": "v-us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve-p2",
-  "src": "/photos/v-us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve-p2-1280.jpg",
-  "src800": "/photos/v-us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve-p2-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons",
-  "licence": "Public domain",
-  "alt": "The Strait of Hormuz (file photo)",
-  "alt_hi": "होर्मुज जलडमरूमध्य (फाइल फोटो) (फ़ाइल फ़ोटो)",
   "page": null
  },
  "villarreal-psg-atletico-bayern-champions-league-tuesday-preview": {

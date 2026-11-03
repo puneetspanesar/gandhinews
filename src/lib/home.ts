@@ -494,7 +494,7 @@ export async function homeModel(lang: Lang) {
     title: L0.live?.title?.[lang] || leadTopic || lead.k,
     feature: lead.below[0] ? short(lead.below[0]) : null,
     list: lead.below.slice(1).map(short),
-    points: (lead.d.keyPoints ?? []).map((k: string) => String(k).replace(/\*\*/g, '')),
+    points: [] as string[],  // the lead's key points already sit under the lead; never repeat them in the band
     facts: lead.dataBox.slice(0, 3),
   };
   // Charts for the markets band

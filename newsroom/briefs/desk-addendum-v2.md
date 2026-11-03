@@ -18,7 +18,7 @@ Gandhi News is now a full news site: India, world, science and technology, sport
 Every story gets a 16:9 cover: the people in the story placed over a picture of the scene, a red label, a short cover headline and our mark. It is used on the homepage, at the top of the story and when the story is shared. Add a `cover:` block to the front matter (English), and the same block in the Hindi twin with Hindi `label`, `headline` and data labels:
 ```
 cover:
-  template: faceoff     # faceoff: one person against another (both in hero.subjects) | speaker: one person's words or act | breaking: big world or national news | sport: a match or player | business: numbers, sales, markets
+  template: faceoff     # faceoff: one person against another (both in hero.subjects) | speaker: one person's words or act | breaking: big world or national news | sport: a match or player | business: numbers, sales, markets | event: weather, cyclone, flood, smog, fire, accident, strike damage (the event photo fills the whole cover; no person)
   label: "CEC row"      # 1 to 3 words: the running story, or BREAKING only when it truly broke in the last hours
   headline: "'Modi's life is in Gyanesh Kumar'"   # about 40 characters, 2 lines at most: the strongest REAL line (an exact quote in single quotes, or the plain fact). No clickbait, no question, nothing not in the story
   bg: "Ramlila Maidan"  # Wikimedia Commons search for the scene behind the people: the venue, the court, the ship, the stadium; for an event, the event itself ("Chennai floods", "Delhi smog"). Never a landmark or city view, never generic ("crowd", "flag")

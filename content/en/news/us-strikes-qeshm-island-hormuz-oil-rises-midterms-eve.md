@@ -78,9 +78,6 @@ Iran's state news agency IRNA reported **five explosions in rapid succession** o
 
 One US official said the targets were "Iranians using surface to air missiles against US assets". Officials said Monday's raid was the latest in a **series of limited strikes kept quiet** in recent weeks, so as not to signal a return to full-scale war. Washington has not announced them, and US Central Command did not respond to requests for comment.
 
-```photo
-{"n":1,"subject":"Donald Trump","caption":"US President Donald Trump, who said on Monday that a deal with Tehran could still happen, hours before the strike was reported.","alt":"Donald Trump (file photo)"}
-```
 
 The strike came on the **eve of Tuesday's US midterm elections**, after Donald Trump had said there would be no attack on Iran before Americans voted. On Monday the President said a deal with Tehran "could happen" and played down the conflict. "We had a war with Iran. We won," he said, adding: "I don't know if you even call it a war because we haven't been doing any fighting for months." Asked whether he was weighing strikes after the elections, he replied "no".
 
@@ -90,8 +87,5 @@ Qatari mediators have held two rounds of talks with Iranian officials on a frame
 
 Oil, which had **fallen more than 7% on Monday** on hopes of a deal, turned higher in early Asian trade. Brent rose 0.5% to $105.25 a barrel before settling near $104.4 by about 8 am IST.
 
-```photo
-{"n":2,"subject":"Strait of Hormuz","caption":"The Strait of Hormuz, the narrow sea lane between Iran and Oman, has been largely blocked since the war began in late February.","alt":"The Strait of Hormuz (file photo)"}
-```
 
 India buys most of its crude abroad, so any sign that the fighting could flare again feeds straight into fuel costs and the rupee, and traders on Dalal Street will be watching oil closely when markets open at 9:15 am.
