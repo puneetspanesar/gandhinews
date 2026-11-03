@@ -42,10 +42,6 @@ The BJP on Tuesday evening accused the Congress and its INDIA bloc allies of run
 
 Addressing reporters at the party headquarters in New Delhi, BJP spokesperson Gaurav Bhatia cited a sting operation aired by a television channel and statements he said were caught on camera backing "Nepal, Bangladesh and France-like" protests in India. "Leaders like Rahul Gandhi believe in anarchy and destruction, which is why people call him Bhasmasur," he said, using the name of the mythological demon who destroys whatever he touches.
 
-```photo
-{"n":1,"subject":"Sanjay Raut","caption":"Shiv Sena (UBT) MP Sanjay Raut, whom Bhatia accused of wanting to turn India into Albania.","alt":"Shiv Sena (UBT) leader Sanjay Raut"}
-```
-
 ## 'Women at the forefront'
 
 Bhatia alleged that the opposition's plan was to **put women in front as shields** at protests and that demonstrations were being paid for at ₹5 lakh a day. "The idea of putting women at the forefront of protests is extremely shameful," he said. He demanded **an investigation into foreign links** behind the protests. The four people seen in the sting were not named.

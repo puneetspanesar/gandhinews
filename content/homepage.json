@@ -1,79 +1,28 @@
 {
  "lead": {
-  "id": "us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve",
+  "id": "bjp-gaurav-bhatia-opposition-anarchic-model-sting-rahul",
   "overlay": {
    "kicker": {
-    "en": "Strait of Hormuz, overnight",
-    "hi": "होर्मुज़ जलडमरूमध्य, रात में"
+    "en": "Politics / BJP",
+    "hi": "राजनीति / भाजपा"
    },
    "value": {
-    "en": "US strikes Qeshm Island",
-    "hi": "अमेरिका का केश्म द्वीप पर हमला"
+    "en": "'People call him Bhasmasur'",
+    "hi": "'लोग उन्हें भस्मासुर कहते हैं'"
    },
    "text": {
     "en": "",
     "hi": ""
    }
   },
-  "dataBox": [
-   {
-    "icon": "warning",
-    "color": "#cc0000",
-    "value": {
-     "en": "5 blasts",
-     "hi": "5 धमाके"
-    },
-    "label": {
-     "en": "reported on Qeshm by Iranian state media",
-     "hi": "केश्म पर, ईरानी सरकारी मीडिया के अनुसार"
-    }
-   },
-   {
-    "icon": "shield-check",
-    "color": "#8f0000",
-    "value": {
-     "en": "\"Defensive\"",
-     "hi": "\"रक्षात्मक\""
-    },
-    "label": {
-     "en": "how US officials described the strikes",
-     "hi": "अमेरिकी अधिकारियों ने हमलों को बताया"
-    }
-   },
-   {
-    "icon": "gas-pump",
-    "color": "#0d0d0d",
-    "value": {
-     "en": "Brent up",
-     "hi": "ब्रेंट चढ़ा"
-    },
-    "label": {
-     "en": "in Asia after a 7% fall on Monday",
-     "hi": "सोमवार की 7% गिरावट के बाद एशिया में"
-    }
-   },
-   {
-    "icon": "calendar-blank",
-    "color": "#6e6e6e",
-    "value": {
-     "en": "Nov 3",
-     "hi": "3 नवंबर"
-    },
-    "label": {
-     "en": "US midterm elections, today",
-     "hi": "अमेरिकी मध्यावधि चुनाव, आज"
-    }
-   }
-  ],
-  "relatedBelow": [
-   "iran-qatar-draft-proposal-explained-oil-prices-india-import-bill"
-  ],
+  "dataBox": [],
+  "relatedBelow": [],
   "relatedBeside": [
+   "urvil-patel-210-pradosh-paul-208-ranji-round-four-day-two",
+   "sc-uk-divorce-decree-no-shield-bigamy-andhra-husband",
+   "sensex-1225-points-nifty-23811-fourth-day-rally-november-3",
    "goa-supreme-court-st-seat-reservation-hc-stay-sawaikar",
-   "brothers-arrested-cheetah-shot-dead-madhya-pradesh",
-   "supreme-court-hawara-transfer-punjab-ib-elections-february",
-   "food-inflation-weak-monsoon-sugar-poultry-milk-prices",
-   "bpcl-buys-us-wti-crude-1-million-barrels-mumbai-december"
+   "supreme-court-hawara-transfer-punjab-ib-elections-february"
   ],
   "live": {
    "title": {
@@ -85,6 +34,39 @@
  "briefing": {
   "items": [
    {
+    "link": "urvil-patel-210-pradosh-paul-208-ranji-round-four-day-two",
+    "lead": {
+     "en": "Cricket:",
+     "hi": "क्रिकेट:"
+    },
+    "text": {
+     "en": "Urvil Patel's maiden double hundred leads a day of 200s in the Ranji Trophy",
+     "hi": "उर्विल पटेल का पहला दोहरा शतक, रणजी ट्रॉफी में दोहरे शतकों का दिन"
+    }
+   },
+   {
+    "link": "sc-uk-divorce-decree-no-shield-bigamy-andhra-husband",
+    "lead": {
+     "en": "Courts:",
+     "hi": "अदालत:"
+    },
+    "text": {
+     "en": "UK divorce and British citizenship no shield from bigamy case, Supreme Court rules",
+     "hi": "ब्रिटेन का तलाक और नागरिकता बहुविवाह के मुकदमे से नहीं बचा सकते: सुप्रीम कोर्ट"
+    }
+   },
+   {
+    "link": "sensex-1225-points-nifty-23811-fourth-day-rally-november-3",
+    "lead": {
+     "en": "Markets:",
+     "hi": "बाज़ार:"
+    },
+    "text": {
+     "en": "Sensex jumps 1,225 points to 76,918 as FMCG shares lead fourth day of gains",
+     "hi": "सेंसेक्स 1,225 अंक उछलकर 76,918 पर, एफएमसीजी शेयरों के दम पर लगातार चौथे दिन तेज़ी"
+    }
+   },
+   {
     "link": "goa-supreme-court-st-seat-reservation-hc-stay-sawaikar",
     "lead": {
      "en": "Goa:",
@@ -93,17 +75,6 @@
     "text": {
      "en": "Goa to move Supreme Court against High Court stay on tribal seat reservation",
      "hi": "आदिवासी सीटों के आरक्षण पर हाईकोर्ट की रोक के खिलाफ सुप्रीम कोर्ट जाएगा गोवा"
-    }
-   },
-   {
-    "link": "brothers-arrested-cheetah-shot-dead-madhya-pradesh",
-    "lead": {
-     "en": "Madhya Pradesh:",
-     "hi": "मध्य प्रदेश:"
-    },
-    "text": {
-     "en": "Two brothers arrested for shooting Kuno cheetah KNG-22, licensed gun recovered",
-     "hi": "कूनो के चीते KNG-22 को गोली मारने के आरोप में दो भाई गिरफ्तार, लाइसेंसी बंदूक बरामद"
     }
    },
    {
@@ -126,28 +97,6 @@
     "text": {
      "en": "Weak monsoon sets India up for a long spell of costly food, economists warn",
      "hi": "कमज़ोर मानसून से लंबे समय तक महंगा रहेगा खाना, अर्थशास्त्रियों की चेतावनी"
-    }
-   },
-   {
-    "link": "bpcl-buys-us-wti-crude-1-million-barrels-mumbai-december",
-    "lead": {
-     "en": "Energy:",
-     "hi": "ऊर्जा:"
-    },
-    "text": {
-     "en": "BPCL buys 1 million barrels of US crude for Mumbai at a steep premium",
-     "hi": "बीपीसीएल ने मुंबई के लिए 10 लाख बैरल अमेरिकी कच्चा तेल ऊंचे प्रीमियम पर खरीदा"
-    }
-   },
-   {
-    "link": "bombay-hc-bmc-restore-dia-mirza-video-secular-country",
-    "lead": {
-     "en": "Courts:",
-     "hi": "अदालत:"
-    },
-    "text": {
-     "en": "Restore Dia Mirza's anti-cracker video, Bombay High Court tells BMC; raps leaders for 'petty-mindedness'",
-     "hi": "दीया मिर्जा का पटाखा-विरोधी वीडियो बहाल करे बीएमसी: बॉम्बे हाईकोर्ट, नेताओं की 'संकीर्ण सोच' पर फटकार"
     }
    },
    {
@@ -237,7 +186,7 @@
  },
  "topStories": {
   "big": {
-   "id": "bombay-hc-bmc-restore-dia-mirza-video-secular-country",
+   "id": "food-inflation-weak-monsoon-sugar-poultry-milk-prices",
    "also": []
   },
   "list": [
@@ -253,12 +202,12 @@
   ]
  },
  "startHere": [
+  "goa-st-seat-reservation-explained-supreme-court",
+  "qeshm-island-explained-why-us-strike-hormuz-matters-india",
   "iran-qatar-draft-proposal-explained-oil-prices-india-import-bill",
   "why-bay-of-bengal-back-to-back-cyclones-murasu-arnab-explained",
   "refining-margins-explained-why-reliance-profit-jumped-hormuz",
-  "green-crackers-explained-what-makes-a-cracker-green-delhi-diwali",
-  "oral-mentioning-explained-supreme-court-senior-counsel-bar",
-  "us-midterms-2026-explained-what-is-at-stake"
+  "green-crackers-explained-what-makes-a-cracker-green-delhi-diwali"
  ],
  "trackers": [
   {
@@ -425,15 +374,15 @@
     "article": "bypoll-results-ruling-parties-win-all-six-seats"
    },
    "list": [
-    "bombay-hc-bmc-restore-dia-mirza-video-secular-country",
-    "krv-it-parks-bengaluru-kannadiga-jobs-data-shivakumar-appeal",
-    "three-rebel-aap-mlas-join-bjp-punjab-kunwar-vijay-pratap"
+    "bjp-gaurav-bhatia-opposition-anarchic-model-sting-rahul",
+    "supreme-court-hawara-transfer-punjab-ib-elections-february",
+    "bombay-hc-bmc-restore-dia-mirza-video-secular-country"
    ],
-   "lead": "supreme-court-hawara-transfer-punjab-ib-elections-february"
+   "lead": "sc-uk-divorce-decree-no-shield-bigamy-andhra-husband"
   },
   {
    "section": "economy",
-   "lead": "food-inflation-weak-monsoon-sugar-poultry-milk-prices",
+   "lead": "sensex-1225-points-nifty-23811-fourth-day-rally-november-3",
    "module": {
     "type": "markets",
     "indicators": [
@@ -444,10 +393,10 @@
     ]
    },
    "list": [
+    "food-inflation-weak-monsoon-sugar-poultry-milk-prices",
     "bpcl-buys-us-wti-crude-1-million-barrels-mumbai-december",
     "bajaj-finserv-q2-profit-23-per-cent-2758-crore",
-    "sri-lotus-developers-promoter-ofs-opens-floor-240-sebi-waiver",
-    "rba-hikes-cash-rate-4-85-per-cent-fifth-rise-2026"
+    "zydus-wellness-q2-revenue-73-per-cent-profit-shares-9-per-cent"
    ]
   },
   {
@@ -505,12 +454,12 @@
   },
   {
    "section": "sports",
-   "lead": "sindhu-lakshya-withdraw-korea-open-sindhu-japan-masters",
+   "lead": "urvil-patel-210-pradosh-paul-208-ranji-round-four-day-two",
    "list": [
+    "sindhu-lakshya-withdraw-korea-open-sindhu-japan-masters",
     "glenn-maxwell-retires-international-cricket-38",
     "villarreal-psg-atletico-bayern-champions-league-tuesday-preview",
-    "ashwin-chapter-closed-bhuvneshwar-backs-shami",
-    "barry-everton-beat-newcastle-again-st-james-park"
+    "ashwin-chapter-closed-bhuvneshwar-backs-shami"
    ]
   }
  ],
