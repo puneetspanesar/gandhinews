@@ -19,13 +19,14 @@ Pictures (each story sheet):
 5. Covers: the face is clear of the headline, the cut-out has clean edges (no ghosting, no halo, no bits of other people), the cover headline is true to the story and spelled right, and the Hindi cover reads correctly.
 6. In-story photos each show a different, relevant person, place or thing, and the caption matches what is shown.
 7. "NO PICTURE" anywhere is a FAIL.
+8. An infographic cover (dark Gandhi News graphic with stats and a chart, timeline, steps or comparison) is an accepted main picture. Check it like a photo: headline true to the story, numbers match the story, no text cut off or wrapping badly, Hindi reads correctly.
 
 The homepage (screenshots):
-8. No grey camera boxes, no broken images, no empty slots.
-9. The lead is the biggest story in India right now (compare frontpages.txt if present). A minor or hours-old story leading while a bigger one sits lower is a FAIL.
-10. Balance: at most one markets or business story in the top headlines, at most two from any one section, never two stories on the same subject next to each other. A running story (cyclone, war) gets the lead or one slot, not three.
-11. Nothing stale at the top: nothing older than about 24 hours in the top headlines, no previews of things that already happened.
-12. It looks like a serious national news site: no repeated pictures side by side, no obviously mismatched picture and headline, nothing that looks machine-made or lazy.
+9. No grey camera boxes, no broken images, no empty slots.
+10. The lead is the biggest story in India right now (compare frontpages.txt if present). A minor or hours-old story leading while a bigger one sits lower is a FAIL.
+11. Balance: at most one markets or business story in the top headlines, at most two from any one section, never two stories on the same subject next to each other. A running story (cyclone, war) gets the lead or one slot, not three.
+12. Nothing stale at the top: nothing older than about 24 hours in the top headlines, no previews of things that already happened.
+13. It looks like a serious national news site: no repeated pictures side by side, no obviously mismatched picture and headline, nothing that looks machine-made or lazy.
 
 ## Reply format (nothing else)
 First line: PASS or FAIL.

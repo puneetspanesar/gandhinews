@@ -140,6 +140,7 @@ export function heroOf(d: any): { src?: string | null; credit?: string | null; c
   if (f) {
     const alt = d.lang === 'hi' ? (f.alt_hi ?? f.alt) : f.alt;
     const who = String(f.credit).replace(/^Photo:\s*/, '').replace(/\s*\/\s*Wikimedia Commons$/, '');
+    if (f.graphic) { const g = d.lang === 'hi' && f.byLang?.hi ? f.byLang.hi : f; return { src: g.src, credit: f.credit, short: 'Gandhi News', photoId: f.id, caption: alt, alt, page: null }; }
     return { src: f.src, credit: `${f.credit}, ${f.licence}`, short: `${who} / Wikimedia`, photoId: f.id, caption: alt, alt, page: f.page ?? null };
   }
   return { src: d.hero?.src, credit: d.hero?.credit, caption: d.hero?.caption, alt: d.hero?.alt };

@@ -21,12 +21,14 @@ const { id, alt = '', size = 'sm', lang = 'en', class: cls = '', eager = false, 
 const base: any = id ? (PHOTOS as Record<string, any>)[id] : null;
 // A cover replaces the photo in 16:9 slots; it carries its own credit line through the base entry.
 const cv: any = cover && base?.cover ? (base.cover[lang] ?? base.cover.en) : null;
-const fetched: any = cv ? { ...base, src: cv.src, src800: cv.src800, width: base.cover.width, height: base.cover.height } : base;
+// Infographics carry a Hindi version of the card image too (base.byLang.hi).
+const bl: any = !cv && base?.byLang?.[lang] ? { ...base, ...base.byLang[lang] } : null;
+const fetched: any = cv ? { ...base, src: cv.src, src800: cv.src800, width: base.cover.width, height: base.cover.height } : (bl ?? base);
 const src = fetched?.src ?? Astro.props.src;
 // Two widths exist for every fetched photo (640 and 1280); the browser picks by slot width and screen density.
 const srcset = fetched?.src800 && fetched.src800 !== src ? `${fetched.src800} 640w, ${src} 1280w` : undefined;
 const sizes = size === 'lg' ? '(max-width: 700px) 100vw, 640px' : '(max-width: 600px) 100vw, 320px';
-const credit = fetched ? `${fetched.credit}, ${fetched.licence}` : Astro.props.credit;
+const credit = fetched ? [fetched.credit, fetched.licence].filter(Boolean).join(', ') : Astro.props.credit;
 const altText = fetched ? ((lang === 'hi' ? fetched.alt_hi : fetched.alt) ?? alt) : alt;
 const t = UI[lang];
 ---

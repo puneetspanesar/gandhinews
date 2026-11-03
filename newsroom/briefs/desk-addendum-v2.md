@@ -14,6 +14,22 @@ Gandhi News is now a full news site: India, world, science and technology, sport
 - Length: 400-650 words for news. Sections with H2 subheads are fine but keep them natural (e.g. "How the match turned", "What the mission will do").
 - `keyPoints`: 3 bullets, one short sentence each, one key phrase in `**bold**`.
 
+## Infographic block (EVERY story, explainer and editorial, both language files)
+Every piece carries an `infographic:` block in its frontmatter, in its own language. It becomes the cover when no correct, current photo is found (newsroom/scripts/make_infographic.py), so the piece is never held for a picture. Full format is at the top of that script. In short:
+```yaml
+infographic:
+  kicker: "September quarter results"          # short label
+  headline: "Zydus Wellness back in profit"     # about 8 words, true to the story
+  dek: "Revenue jumps 73% and the shares rise 9% on the day"   # optional
+  motif: chart-bar                              # one Phosphor icon name for the faint background mark
+  stats:                                        # 2 or 3, never more
+    - {icon: currency-inr, value: "₹5.1 cr", label: "net profit, against a ₹52.8 crore loss a year ago"}
+  chart: {type: columns, title: "Revenue from operations, ₹ crore", highlight: -1, items: [{label: "Jul-Sep 2025", value: 650.5, display: "650.5"}]}
+  # or instead of chart: timeline (3 to 5 points with date, text, icon), steps (3 or 4 with title, text), compare (left/right with title, value, text)
+  source: "Company results, November 3, 2026"
+```
+Every number and date comes from the piece itself and its sources; nothing estimated. Icons are Phosphor duotone names that exist in newsroom/phosphor/ (`ls newsroom/phosphor | grep <word>`); never robot or sparkle icons. Pick the visual that explains the story best: numbers over time are a chart, a sequence of events is a timeline, a process is steps, two sides are compare. Keep labels short so nothing wraps into three lines.
+
 ## Cover (every news story, leads and briefs)
 Every story gets a 16:9 cover: the people in the story placed over a picture of the scene, a red label, a short cover headline and our mark. It is used on the homepage, at the top of the story and when the story is shared. Add a `cover:` block to the front matter (English), and the same block in the Hindi twin with Hindi `label`, `headline` and data labels:
 ```

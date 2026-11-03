@@ -26050,5 +26050,98 @@
   "alt": "The gate of Tihar Jail in Delhi, where Hawara is held (file photo)",
   "alt_hi": "दिल्ली की तिहाड़ जेल का गेट, जहाँ हवारा बंद है (फ़ाइल फ़ोटो)",
   "page": null
+ },
+ "zydus-wellness-q2-revenue-73-per-cent-profit-shares-9-per-cent": {
+  "id": "i-zydus-wellness-q2-revenue-73-per-cent-profit-shares-9-per-cent",
+  "src": "/photos/i-zydus-wellness-q2-revenue-73-per-cent-profit-shares-9-per-cent-en-3x2-1280.jpg",
+  "src800": "/photos/i-zydus-wellness-q2-revenue-73-per-cent-profit-shares-9-per-cent-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Zydus Wellness back in profit",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: ज़ाइडस वेलनेस फिर मुनाफ़े में",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-zydus-wellness-q2-revenue-73-per-cent-profit-shares-9-per-cent-hi-3x2-1280.jpg",
+    "src800": "/photos/i-zydus-wellness-q2-revenue-73-per-cent-profit-shares-9-per-cent-hi-3x2-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-zydus-wellness-q2-revenue-73-per-cent-profit-shares-9-per-cent-en-1280.jpg",
+    "src800": "/photos/i-zydus-wellness-q2-revenue-73-per-cent-profit-shares-9-per-cent-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-zydus-wellness-q2-revenue-73-per-cent-profit-shares-9-per-cent-hi-1280.jpg",
+    "src800": "/photos/i-zydus-wellness-q2-revenue-73-per-cent-profit-shares-9-per-cent-hi-640.jpg"
+   }
+  }
+ },
+ "goa-st-seat-reservation-explained-supreme-court": {
+  "id": "i-goa-st-seat-reservation-explained-supreme-court",
+  "src": "/photos/i-goa-st-seat-reservation-explained-supreme-court-en-3x2-1280.jpg",
+  "src800": "/photos/i-goa-st-seat-reservation-explained-supreme-court-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Goa's tribal seats, from 2001 to the Supreme Court",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: गोवा की आदिवासी सीटें: 2001 से सुप्रीम कोर्ट तक",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-goa-st-seat-reservation-explained-supreme-court-hi-3x2-1280.jpg",
+    "src800": "/photos/i-goa-st-seat-reservation-explained-supreme-court-hi-3x2-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-goa-st-seat-reservation-explained-supreme-court-en-1280.jpg",
+    "src800": "/photos/i-goa-st-seat-reservation-explained-supreme-court-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-goa-st-seat-reservation-explained-supreme-court-hi-1280.jpg",
+    "src800": "/photos/i-goa-st-seat-reservation-explained-supreme-court-hi-640.jpg"
+   }
+  }
+ },
+ "qeshm-island-explained-why-us-strike-hormuz-matters-india": {
+  "id": "i-qeshm-island-explained-why-us-strike-hormuz-matters-india",
+  "src": "/photos/i-qeshm-island-explained-why-us-strike-hormuz-matters-india-en-3x2-1280.jpg",
+  "src800": "/photos/i-qeshm-island-explained-why-us-strike-hormuz-matters-india-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Qeshm, Iran's island fortress in Hormuz",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: केश्म: होर्मुज़ में ईरान का द्वीप-किला",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-qeshm-island-explained-why-us-strike-hormuz-matters-india-hi-3x2-1280.jpg",
+    "src800": "/photos/i-qeshm-island-explained-why-us-strike-hormuz-matters-india-hi-3x2-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-qeshm-island-explained-why-us-strike-hormuz-matters-india-en-1280.jpg",
+    "src800": "/photos/i-qeshm-island-explained-why-us-strike-hormuz-matters-india-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-qeshm-island-explained-why-us-strike-hormuz-matters-india-hi-1280.jpg",
+    "src800": "/photos/i-qeshm-island-explained-why-us-strike-hormuz-matters-india-hi-640.jpg"
+   }
+  }
  }
 }

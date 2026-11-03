@@ -14,7 +14,7 @@ Same lock as RUNBOOK-HOURLY.md step 0, but if an hourly run holds it, wait (chec
 Every piece bolds its key phrases and carries in-story visuals (explainers 3, editorials 1 or 2), as desk-addendum-v2.md says. Then validate and commit as RUNBOOK.md step 1 says.
 
 ## 2. Pictures
-RUNBOOK.md step 2 with tag `l<day><m|e>`. Explainers and editorials take a picture of the place, institution or object the piece is about when there is no single person; never a wrong person. Pieces still without a correct picture move to newsroom/held/ and are named in the report.
+RUNBOOK.md step 2 with tag `l<day><m|e>`. Explainers and editorials take a picture of the place, institution or object the piece is about when there is no single person; never a wrong person. Pieces still without a correct picture get an infographic cover from their `infographic:` block (`python3 newsroom/scripts/make_infographic.py <id> ...`), never a wrong photo and never a hold for lack of a picture.
 
 ## 2b. Editor's check (never skip; nothing is published until it passes)
 After the clean build, and BEFORE the final commit and push:

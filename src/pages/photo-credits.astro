@@ -3,7 +3,7 @@
 import Base from '../layouts/Base.astro';
 import PHOTOS from '../../content/photos.map.json';
 const seen = new Map<string, any>();
-for (const p of Object.values(PHOTOS as Record<string, any>)) if (!seen.has(p.id)) seen.set(p.id, p);
+for (const p of Object.values(PHOTOS as Record<string, any>)) if (!p.graphic && !seen.has(p.id)) seen.set(p.id, p);
 const list = [...seen.values()];
 ---
 <Base lang="en" title="Photo credits" description="Credits and licences for the photographs used on Gandhi News." path="/photo-credits/" altPath={null}>
