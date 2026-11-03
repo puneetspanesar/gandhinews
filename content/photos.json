@@ -45679,5 +45679,37 @@
   "composite": [
    "cx-sensex-1225-points-nifty-23811-fourth-day-rally-november--0"
   ]
+ },
+ {
+  "id": "cx-nse-q2-profit-23-per-cent-2578-crore-coal-exchange-stake-0",
+  "articleId": "part:nse-q2-profit-23-per-cent-2578-crore-coal-exchange-stake:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Ashish_Chauhan_at_the_World_Economic_Forum_on_India_2012_%28cropped%29.jpg/1600px-Ashish_Chauhan_at_the_World_Economic_Forum_on_India_2012_%28cropped%29.jpg",
+  "credit": "World Economic Forum from Cologny, Switzerland",
+  "licence": "CC BY-SA 2.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Ashish_Chauhan_at_the_World_Economic_Forum_on_India_2012_(cropped).jpg"
+ },
+ {
+  "id": "cx-nse-q2-profit-23-per-cent-2578-crore-coal-exchange-stake-1",
+  "articleId": "part:nse-q2-profit-23-per-cent-2578-crore-coal-exchange-stake:1",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/National_Stock_Exchange_of_India_8.jpg",
+  "credit": "zadeus",
+  "licence": "CC BY-SA 2.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:National_Stock_Exchange_of_India_8.jpg"
+ },
+ {
+  "id": "x-nse-q2-profit-23-per-cent-2578-crore-coal-exchange-stake",
+  "articleId": "nse-q2-profit-23-per-cent-2578-crore-coal-exchange-stake",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Ashish_Chauhan_at_the_World_Economic_Forum_on_India_2012_%28cropped%29.jpg/1600px-Ashish_Chauhan_at_the_World_Economic_Forum_on_India_2012_%28cropped%29.jpg",
+  "credit": "Photos: World Economic Forum from Cologny, Switzerland / Wikimedia Commons; zadeus / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "Ashishkumar Chauhan, managing director and CEO of NSE (file photo)",
+  "alt_hi": "NSE के प्रबंध निदेशक और सीईओ आशीषकुमार चौहान (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Ashish_Chauhan_at_the_World_Economic_Forum_on_India_2012_(cropped).jpg",
+  "composite": [
+   "cx-nse-q2-profit-23-per-cent-2578-crore-coal-exchange-stake-0",
+   "cx-nse-q2-profit-23-per-cent-2578-crore-coal-exchange-stake-1"
+  ]
  }
 ]
