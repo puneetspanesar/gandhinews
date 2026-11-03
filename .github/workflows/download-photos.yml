@@ -9,6 +9,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      # Use the newest main: a run may trigger this a moment before its photos.json commit lands.
+      - run: sleep 20 && git fetch -q origin main && git checkout -q origin/main -- content/photos.json public/photos 2>/dev/null || true
       - run: |
           mkdir -p raw
           # Composite main entries (x-*) are built from their cx-* parts, so they are never downloaded.

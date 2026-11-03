@@ -18,10 +18,24 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+      # A run can trigger this a moment before its query file reaches main: wait for it (up to 3 minutes)
+      # instead of failing, using the newest main each time.
+      - name: Wait for the query file
+        run: |
+          F=scripts/photo-queries${{ inputs.part && format('-{0}', inputs.part) || '' }}.json
+          for i in $(seq 1 12); do
+            [ -f "$F" ] && exit 0
+            sleep 15
+            git fetch -q origin main && git checkout -q origin/main -- scripts/ 2>/dev/null || true
+          done
+          echo "::warning::$F never arrived on main; nothing to search"
+          echo "SKIP=1" >> "$GITHUB_ENV"
       - run: node scripts/find-photo-candidates.mjs
+        if: env.SKIP != '1'
         env:
           PART: ${{ inputs.part }}
       - name: Push candidates branch
+        if: env.SKIP != '1'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
