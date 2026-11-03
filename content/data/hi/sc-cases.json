@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "सुप्रीम कोर्ट के बड़े मामलों का ट्रैकर",
-    "as_of": "2026-11-02",
+    "as_of": "2026-11-03",
     "compiled_by": "गांधी न्यूज़ संपादकीय डेस्क",
     "status_values": [
       "pending",
@@ -369,6 +369,64 @@
       ],
       "notes": "फैसला 2026 LiveLaw (SC) 1115 के रूप में दर्ज। पटाखे फोड़ने का समय डेक्कन हेराल्ड से लिया गया; लाइवलॉ के पाठ में घंटे स्पष्ट नहीं थे। फैसला लिखने वाले जज का नाम स्रोतों में नहीं।",
       "case_hi": "अर्जुन गोपाल बनाम भारत संघ (दिल्ली-एनसीआर में पटाखों पर प्रतिबंध)",
+      "status_hi": "लंबित"
+    },
+    {
+      "id": "ram-temple-donations-probe",
+      "case": "Petitions on alleged theft and misuse of donations to the Shri Ram Janmabhoomi Teerth Kshetra Trust (Narendra Kumar Goswami, Ajay Kumar Rai, Sudhakar Singh and Hindu Dharma Parishad)",
+      "issue": "क्या अयोध्या के राम मंदिर में दान की कथित चोरी की जांच सीबीआई या कोर्ट की निगरानी में होनी चाहिए और ट्रस्ट के वित्त का फॉरेंसिक ऑडिट होना चाहिए।",
+      "bench_size": 3,
+      "bench": "मुख्य न्यायाधीश सूर्यकांत और जस्टिस जॉयमाल्य बागची व जस्टिस वी मोहना",
+      "status": "disposed",
+      "status_text": "पुलिस के आरोपपत्र के बाद मामला बंद; सीबीआई जांच से इनकार",
+      "last_date": "2026-11-02",
+      "last_event": "पुलिस द्वारा आठ आरोपियों के खिलाफ आरोपपत्र दाखिल किए जाने की जानकारी मिलने पर याचिकाएं बंद कीं। जांच सीबीआई को सौंपने से इनकार किया और उत्तर प्रदेश पुलिस की एसआईटी को, जिसमें अब एक फॉरेंसिक ऑडिटर भी है, जांच जारी रखने दी। एसआईटी को नकदी अनधिकृत रूप से निकालने के 105 मामले मिले। याचिकाकर्ता पीड़ितों को मिली छूट के तहत ट्रायल कोर्ट की मदद कर सकते हैं।",
+      "next_step": "ट्रायल कोर्ट में सुनवाई; फॉरेंसिक ऑडिट जारी रहने पर एसआईटी वहां आगे की रिपोर्ट दे सकती है।",
+      "sources": [
+        {
+          "title": "Ram Mandir donation theft probe: Supreme Court ends monitoring after police files chargesheet",
+          "publisher": "Bar & Bench",
+          "date": "2026-11-02",
+          "url": "https://www.barandbench.com/news/ram-mandir-donation-theft-probe-supreme-court-ends-monitoring-after-police-files-chargesheet"
+        },
+        {
+          "title": "Supreme Court to hear pleas seeking probe into Ram Temple Trust funds (IANS)",
+          "publisher": "Telangana Today",
+          "date": "2026-11-01",
+          "url": "https://telanganatoday.com/supreme-court-to-hear-pleas-seeking-probe-into-ram-temple-trust-funds"
+        },
+        {
+          "title": "LiveLaw Breaking News Alerts: 02 November 2026",
+          "publisher": "LiveLaw",
+          "date": "2026-11-02",
+          "url": "https://www.livelaw.in/top-stories/livelaw-breaking-news-alerts-02-november-2026-556838"
+        }
+      ],
+      "notes": "नतीजे का मुख्य स्रोत बार एंड बेंच; आदेश का मूल पाठ नहीं पढ़ा गया। ट्रायल कोर्ट का स्थान स्रोतों में नहीं।",
+      "case_hi": "श्री राम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट के दान की कथित चोरी और दुरुपयोग पर याचिकाएं",
+      "status_hi": "निपटाया गया"
+    },
+    {
+      "id": "neet-pg-question-disclosure",
+      "case": "Democratic Medical Association v. National Board of Examinations in Medical Sciences (heard with FAIMA and United Doctors Front petitions on entrance exams)",
+      "issue": "क्या एनबीईएमएस को नीट-पीजी के हर उम्मीदवार को परीक्षा के बाद सिर्फ प्रश्न आईडी के बजाय प्रश्नपत्र, ओएमआर शीट और उत्तर कुंजी देनी चाहिए।",
+      "bench_size": 2,
+      "bench": "जस्टिस पी एस नरसिम्हा और जस्टिस आलोक अराधे",
+      "status": "pending",
+      "status_text": "एनबीईएमएस से लिखित दलीलें मांगी गईं",
+      "last_date": "2026-11-02",
+      "last_event": "कोर्ट ने एनबीईएमएस से पूछा कि परीक्षा के बाद नीट-पीजी के प्रश्न सार्वजनिक क्यों न किए जाएं ('पारदर्शिता का क्या होगा?')। एनबीईएमएस ने कहा कि उसका प्रश्न बैंक छोटा है और एक राष्ट्रीय संपत्ति है। कोर्ट ने एनबीईएमएस को लिखित में बताने को कहा कि प्रश्न सार्वजनिक करने से परीक्षा की शुचिता पर कैसे असर पड़ेगा। याचिका पर नोटिस 15 अक्टूबर 2026 को जारी हुआ था।",
+      "next_step": "एनबीईएमएस की लिखित दलीलें; अगली तारीख की जानकारी नहीं।",
+      "sources": [
+        {
+          "title": "Why NEET-PG Questions Shouldn't Be Disclosed After Exam? Supreme Court Asks NBEMS To File Statement",
+          "publisher": "LiveLaw",
+          "date": "2026-11-02",
+          "url": "https://www.livelaw.in/top-stories/why-neet-pg-questions-shouldnt-be-disclosed-after-exam-supreme-court-asks-nbems-to-file-statement-556888"
+        }
+      ],
+      "notes": "एक ही स्रोत (लाइवलॉ)। स्रोतों में अगली सुनवाई की तारीख नहीं।",
+      "case_hi": "डेमोक्रेटिक मेडिकल एसोसिएशन बनाम राष्ट्रीय चिकित्सा विज्ञान परीक्षा बोर्ड (नीट-पीजी प्रश्नों का खुलासा)",
       "status_hi": "लंबित"
     }
   ]

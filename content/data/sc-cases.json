@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Big Supreme Court cases tracker",
-    "as_of": "2026-11-02",
+    "as_of": "2026-11-03",
     "compiled_by": "Gandhi News editorial desk",
     "status_values": [
       "pending",
@@ -337,6 +337,60 @@
         }
       ],
       "notes": "Judgment reported as 2026 LiveLaw (SC) 1115. Bursting windows taken from Deccan Herald; the LiveLaw text as read was garbled on the hours. Judgment author not named in sources."
+    },
+    {
+      "id": "ram-temple-donations-probe",
+      "case": "Petitions on alleged theft and misuse of donations to the Shri Ram Janmabhoomi Teerth Kshetra Trust (Narendra Kumar Goswami, Ajay Kumar Rai, Sudhakar Singh and Hindu Dharma Parishad)",
+      "issue": "Whether the alleged theft of donations at the Ram temple in Ayodhya needed a CBI or court-monitored probe and a forensic audit of the trust's finances.",
+      "bench_size": 3,
+      "bench": "CJI Surya Kant and Justices Joymalya Bagchi and V Mohana",
+      "status": "disposed",
+      "status_text": "Closed after police chargesheet; CBI probe refused",
+      "last_date": "2026-11-02",
+      "last_event": "Closed the petitions after being told the police had filed a chargesheet against eight accused. Refused to transfer the probe to the CBI and let the Uttar Pradesh police SIT, which now includes a forensic auditor, continue. The SIT found 105 instances of unauthorised removal of cash. Petitioners may assist the trial court as victims are allowed to.",
+      "next_step": "Trial in the trial court; the SIT may file further reports there as its forensic audit continues.",
+      "sources": [
+        {
+          "title": "Ram Mandir donation theft probe: Supreme Court ends monitoring after police files chargesheet",
+          "publisher": "Bar & Bench",
+          "date": "2026-11-02",
+          "url": "https://www.barandbench.com/news/ram-mandir-donation-theft-probe-supreme-court-ends-monitoring-after-police-files-chargesheet"
+        },
+        {
+          "title": "Supreme Court to hear pleas seeking probe into Ram Temple Trust funds (IANS)",
+          "publisher": "Telangana Today",
+          "date": "2026-11-01",
+          "url": "https://telanganatoday.com/supreme-court-to-hear-pleas-seeking-probe-into-ram-temple-trust-funds"
+        },
+        {
+          "title": "LiveLaw Breaking News Alerts: 02 November 2026",
+          "publisher": "LiveLaw",
+          "date": "2026-11-02",
+          "url": "https://www.livelaw.in/top-stories/livelaw-breaking-news-alerts-02-november-2026-556838"
+        }
+      ],
+      "notes": "Bar & Bench is the main source for the outcome; no verbatim order text read. Trial court location not given in sources."
+    },
+    {
+      "id": "neet-pg-question-disclosure",
+      "case": "Democratic Medical Association v. National Board of Examinations in Medical Sciences (heard with FAIMA and United Doctors Front petitions on entrance exams)",
+      "issue": "Whether NBEMS must give each NEET-PG candidate the question paper, OMR sheet and answer key after the exam, instead of question IDs only.",
+      "bench_size": 2,
+      "bench": "Justices PS Narasimha and Alok Aradhe",
+      "status": "pending",
+      "status_text": "NBEMS told to file written submissions",
+      "last_date": "2026-11-02",
+      "last_event": "Asked NBEMS why NEET-PG questions should not be disclosed after the exam ('What happens to transparency?'). NBEMS argued its question bank is small and a national asset. The court directed NBEMS to file written submissions on how disclosure could compromise the exam. Notice in the petition was issued on 15 Oct 2026.",
+      "next_step": "Written submissions by NBEMS; no next date reported.",
+      "sources": [
+        {
+          "title": "Why NEET-PG Questions Shouldn't Be Disclosed After Exam? Supreme Court Asks NBEMS To File Statement",
+          "publisher": "LiveLaw",
+          "date": "2026-11-02",
+          "url": "https://www.livelaw.in/top-stories/why-neet-pg-questions-shouldnt-be-disclosed-after-exam-supreme-court-asks-nbems-to-file-statement-556888"
+        }
+      ],
+      "notes": "Single source (LiveLaw). No next hearing date in sources."
     }
   ]
 }
