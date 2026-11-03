@@ -73,8 +73,5 @@ The Centre sent a high-level team to Morena to inspect the site, and the state f
 
 Officials say the killing does not appear to be the work of traffickers. "Based on the initial probe, we do not think this was a case of an organised poaching network. But we are not completely ruling out that possibility," a senior forest department official said. "We are continuing our investigation and will submit our final report soon."
 
-```photo
-{"n":2,"subject":"Sheopur","caption":"Sheopur district, where the Vijaypur court sent the two brothers to jail on Monday.","alt":"Sheopur, Madhya Pradesh"}
-```
 
 The Chief Conservator of Forests in Gwalior has **suspended four forest staff**, two rangers, a deputy ranger and a beat guard, for lapses in monitoring and security.

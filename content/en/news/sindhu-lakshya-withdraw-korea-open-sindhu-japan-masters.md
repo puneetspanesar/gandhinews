@@ -56,9 +56,6 @@ PV Sindhu and Lakshya Sen have **withdrawn from the Korea Open**, two days after
 
 Sindhu has also **pulled out of the Japan Masters**, the next stop on the Asian swing. Her withdrawal is not down to injury. The 31-year-old wants some downtime to **manage her physical workload** after a demanding few weeks that took her to the French Open final in Paris and then to a title in Germany.
 
-```photo
-{"n":1,"subject":"Saarlandhalle","caption":"The Saarlandhalle in Saarbrücken, where Sindhu and Lakshya won the Hylo Open singles titles on Sunday.","alt":"Saarlandhalle arena in Saarbrücken"}
-```
 
 The decision makes sense for a player who has been playing deep into tournaments again. In Paris, Sindhu **took the first game against An Se Young** before the world number one came back to win the final. A week later she was celebrating in Saarbrücken, joking that "31 is the new 21".
 

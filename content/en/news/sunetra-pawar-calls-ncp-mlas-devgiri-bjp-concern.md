@@ -52,9 +52,6 @@ NCP president and Maharashtra Deputy Chief Minister Sunetra Pawar has called all
 
 The call came a day after six senior NCP leaders, Praful Patel, Sunil Tatkare, Dilip Walse Patil, Hassan Mushrif, Chhagan Bhujbal and Dhananjay Munde, **met Union Home Minister Amit Shah** in New Delhi on Monday. They are reported to have discussed the party's internal troubles and what they could mean for the Mahayuti government.
 
-```photo
-{"n":1,"subject":"Amit Shah","caption":"Union Home Minister Amit Shah, whom six senior NCP leaders met in New Delhi on Monday.","alt":"Union Home Minister Amit Shah"}
-```
 
 The BJP leadership is reported to be concerned about the way the NCP is being run and to have urged its leaders to settle their differences. Shah is also said to have suggested that the two NCP factions merge while staying in the NDA, an idea the NCP leaders did not warm to. Some MLAs are reported to be unhappy with Parth Pawar's style of functioning.
 
@@ -64,8 +61,5 @@ State NCP president Sunil Tatkare played down the trouble. "There is no disconte
 
 On a merger with Sharad Pawar's NCP (SP), Tatkare was blunt: "Discussions regarding a merger have already ended." A core committee meeting chaired by Sunetra Pawar after the Delhi visit is reported to have **ruled out a merger**.
 
-```photo
-{"n":2,"subject":"Sunil Tatkare","caption":"NCP state president Sunil Tatkare, who said the party is united and merger talks are over.","alt":"NCP leader Sunil Tatkare"}
-```
 
 The party is also unhappy that the **finance portfolio**, which Ajit Pawar held before his death and which has since gone to Chief Minister Devendra Fadnavis, has not been returned to it. Turnout at Devgiri tonight will show how firmly the MLAs stand behind Sunetra Pawar.

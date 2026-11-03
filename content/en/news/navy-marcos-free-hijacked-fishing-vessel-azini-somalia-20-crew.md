@@ -49,9 +49,6 @@ The vessel, the Azini, had been seized **off Somalia's north-eastern coast** las
 
 The hunt was led by the guided-missile destroyer **INS Kolkata**, backed by a P-8I long-range maritime reconnaissance aircraft and a Sea Guardian drone. Through constant surveillance the three located the Azini, kept track of it and used non-kinetic measures to **stop it from slipping away**.
 
-```photo
-{"n":1,"subject":"Boeing P-8I Neptune","caption":"An Indian Navy P-8I reconnaissance aircraft, the type that helped track the hijacked Azini.","alt":"Indian Navy Boeing P-8I maritime patrol aircraft"}
-```
 
 The final step came from the air. Navy commandos, the MARCOS, were **airdropped from an Indian Air Force C-17** close to the vessel and took control of it.
 
