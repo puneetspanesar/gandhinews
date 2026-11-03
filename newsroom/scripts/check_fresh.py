@@ -23,8 +23,22 @@ for name, part in [('live band', h['lead'].get('relatedBelow')), ('beside lead',
                    ('briefing', h.get('briefing')), ('top stories', h.get('topStories'))]:
     for i in ids(part):
         if P[i]['type'] == 'news' and age(i) > 24: bad.append((name, i, age(i)))
+# Balance in the headlines: at most one markets story, at most two per section, lead not a markets story.
+import re as _re
+MKT = _re.compile(r'(sensex|nifty|wall-street|dow-|nasdaq|ftse|kospi|nikkei|^oil-|^brent|markets?-|-shares-|stocks?-|-sales-\d)')
+heads = []
+ts = h.get('topStories') or {}
+for part in [h['lead'].get('relatedBeside'), (ts.get('big') or {}).get('id'), ts.get('list'), h.get('briefing')]:
+    for i in ids(part):
+        if i not in heads: heads.append(i)
+mk = [i for i in heads if MKT.search(i)]
+if len(mk) > 1: bad.append(('too many market stories in the headlines (max 1)', ', '.join(mk), 0))
+from collections import Counter as _C
+for sec, n in _C(P[i].get('section') for i in heads[:8]).items():
+    if n > 2: bad.append((f'more than two {sec} stories in the top eight', sec, n))
+if MKT.search(lead): bad.append(('markets story as the lead', lead, 0))
 if bad:
-    print('STALE on the homepage (hours old):')
-    for n, i, a in bad: print(f'  {n}: {i} ({a:.0f} h)')
+    print('HOMEPAGE PROBLEMS:')
+    for n, i, a in bad: print(f'  {n}: {i} ({a:.0f})')
     sys.exit(1)
 print('OK: the top of the homepage is all from the last 24 hours.')
