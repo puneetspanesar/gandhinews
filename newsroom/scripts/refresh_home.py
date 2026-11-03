@@ -53,8 +53,8 @@ if a.lead:
         L['dataBox'] = []
         L['relatedBelow'] = []
 lead = L['id']
-if A[lead]['type'] == 'news' and age(lead) > 12:
-    print(f'WARNING: the lead is {age(lead):.0f} hours old. Pick a newer lead with --lead <id> unless it still leads other front pages.')
+if A[lead]['type'] == 'news' and age(lead) > 8:
+    print(f'WARNING: the lead is {age(lead):.0f} hours old (limit 8). Pick a newer lead with --lead <id> unless it still leads other front pages.')
 
 # ---- live band: still-fresh items, topped up with the newest stories sharing a topic or subject words with the lead
 lt, lw = set(A[lead].get('topics') or []), words(lead)
