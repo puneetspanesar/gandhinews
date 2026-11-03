@@ -69,9 +69,6 @@ Apple **reported record sales for the July-September quarter** after Wall Street
 
 The iPhone did the heavy lifting. Sales of the phone came to about **$57.6 billion, above the $56.6 billion forecast**, helped by the first eight days of iPhone 18 Pro sales, and grew 17.5% from a year earlier. The Mac had an even better quarter, with sales up 23.7%, and services such as the App Store, iCloud and Apple Music grew 9.8% to an all-time high. iPad sales fell 10.4% and wearables, home and accessories dropped 7.9%.
 
-```photo
-{"n":1,"subject":"Kevan Parekh","caption":"Apple's chief financial officer Kevan Parekh, who said the company set September-quarter records for net income and earnings per share.","alt":"Kevan Parekh (file photo)"}
-```
 
 Earnings per share **rose 14% to $2.10**, well above the $1.99 expected. Gross margin was 47.9%, which Apple said included about one percentage point from tariff refunds.
 

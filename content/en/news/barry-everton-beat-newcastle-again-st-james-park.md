@@ -64,9 +64,6 @@ Everton **won 1-0 at St James' Park** on Monday night, beating Newcastle United 
 
 The only goal came **four minutes into the second half** and it was one the Newcastle goalkeeper will want to forget. James Garner slid Tyrique George in down the left, George's shot went through the hands of Lukas Hornicek on a slick surface, and Thierno Barry **tapped into an empty net** from a yard out.
 
-```photo
-{"n":1,"subject":"St James' Park","caption":"St James' Park, Newcastle, where the home fans booed at half-time and at full time on Monday night.","alt":"St James' Park stadium in Newcastle"}
-```
 
 It was Barry's **eighth goal of the season** in all competitions. He is Everton's only recognised striker this season, and he had a chance to score earlier, failing to connect from seven yards in a first half in which Merlin Rohl also shot narrowly over.
 

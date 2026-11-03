@@ -59,9 +59,6 @@ The storm is coming ashore near Kothapatnam, close to Ongole in Prakasam distric
 
 Heavy rain and strong winds lashed Kothapatnam beach in the early hours. Ongole had moderate rain, while Nellore to the south had only light drizzle.
 
-```photo
-{"n":1,"subject":"Andhra Pradesh cyclone rain","caption":"Heavy rain and wind on the Andhra coast, the kind lashing Kothapatnam and Ongole as Murasu comes ashore.","alt":"Cyclone rain and wind on the Andhra Pradesh coast"}
-```
 
 ## Storm surge warning
 
@@ -85,6 +82,3 @@ The National Disaster Response Force has **13 of the 37 teams** it sent to five 
 
 No deaths or damage had been reported by about 5:50 am.
 
-```photo
-{"n":3,"subject":"National Disaster Response Force","caption":"NDRF rescuers, 13 of whose teams are deployed in Andhra Pradesh for the cyclone.","alt":"National Disaster Response Force personnel during a rescue operation"}
-```

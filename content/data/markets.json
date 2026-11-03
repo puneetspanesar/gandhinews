@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-03T00:35:00+05:30",
+  "as_of": "2026-11-03T06:30:00+05:30",
   "status": "closed",
   "session_date": "2026-11-02",
   "chart": "nifty-50",
@@ -231,11 +231,11 @@
       "name_hi": "ब्रेंट क्रूड",
       "unit": "$/barrel",
       "unit_hi": "$/बैरल",
-      "value": 105.09,
-      "change": -8.34,
-      "pct": -7.35,
+      "value": 104.77,
+      "change": -8.66,
+      "pct": -7.63,
       "decimals": 2,
-      "source": "https://www.marketscreener.com/news/stocks-boosted-by-lower-oil-price-and-tech-rally-ce785fd9d88ef423 (Alliance News London close report, 22:34 IST)"
+      "source": "https://www.stl.news/stock-market-today-monday-november-2-2026/ (Brent January settle $104.77, down 7.6% on 2 Nov; also Peter Lewis Asian business briefing)"
     },
     {
       "id": "gold",
@@ -326,6 +326,7 @@
     "2 Nov 20:00 IST run: 2 Nov NSE provisional FII/DII cash flows (FII +3,114.68 cr, DII -392.20 cr) from Trendlyne summary (gross figures not loaded). Other values unchanged since the close.",
     "2 Nov 21:00 IST run: Brent refreshed to $108.94 (down 3.96%) from MoneyCheck at 19:56 IST; Reuters had $108.64 later in the session. Indian indices, rupee, flows unchanged since the close.",
     "2 Nov 22:00 IST run: Brent was reported more than 6% lower near $105 in New York trade, but no exact time-stamped settle or print was found in a readable source, so Brent keeps the 19:56 IST reading. Other values unchanged since the close.",
-    "3 Nov 00:00 IST run: Brent refreshed to $105.09 from the Alliance News London close report (22:34 IST); change is against the same previous reference the file used ($113.43). Not a settle. Indian indices, rupee, flows unchanged since the 2 Nov close."
+    "3 Nov 00:00 IST run: Brent refreshed to $105.09 from the Alliance News London close report (22:34 IST); change is against the same previous reference the file used ($113.43). Not a settle. Indian indices, rupee, flows unchanged since the 2 Nov close.",
+    "3 Nov 06:00 IST run: Brent updated to the 2 Nov settle $104.77 (-7.6%, STL.News); change against the file's previous reference ($113.43). Indian markets closed overnight; Indian indices, rupee, gold, silver, flows unchanged since the 2 Nov close."
   ]
 }
