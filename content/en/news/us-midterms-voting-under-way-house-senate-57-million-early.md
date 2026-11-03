@@ -59,8 +59,4 @@ Republicans go in holding 218 House seats, plus an independent who usually votes
 
 Trump, closing his campaign in Washington on Monday, admitted the history was against him. "For some reason, the sitting president doesn't win the midterms," he said, while casting the vote as a choice over whether "these extremists will be given power or not power".
 
-```photo
-{"n":1,"subject":"Donald Trump","caption":"President Donald Trump, whose second term faces its biggest test at the ballot box.","alt":"Donald Trump"}
-```
-
 The first major polls close at 7 pm Eastern time, **5:30 am in India on Wednesday**, and the picture in the House may take until later in the day to settle. For New Delhi, the result will shape how much room Trump has on trade, tariffs and his Iran policy over the next two years.

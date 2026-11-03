@@ -58,10 +58,6 @@ Shubman Gill has set the tone for India's one-day series in New Zealand with a c
 
 India arrive after **losing the last two T20Is**, though they still took that series 3-2. The one-day squad brings back Rohit Sharma and Virat Kohli, with Shreyas Iyer as Gill's deputy for the first three games. Jasprit Bumrah is not part of the ODI squads.
 
-```photo
-{"n":1,"subject":"Eden Park","caption":"Eden Park in Auckland, where India and New Zealand open the five-match ODI series on Wednesday.","alt":"Eden Park cricket ground in Auckland"}
-```
-
 India have one setback already. **Prasidh Krishna has been ruled out** with a hamstring injury, and left-arm seamer Auqib Nabi has joined the squad for the first three matches. Nitish Kumar Reddy is set to play the opener before he leaves to join India A.
 
 New Zealand are hit harder. Rachin Ravindra and Mark Chapman are **out of the series with injuries**, with Henry Nicholls and Tim Seifert called in. Devon Conway misses the opener after a concussion in training, and Matt Henry needs a fitness check. Mitchell Santner leads the side.

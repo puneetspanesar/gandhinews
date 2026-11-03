@@ -57,10 +57,6 @@ The minister said the Paradip Port Authority and the Odisha government would dev
 
 Two schemes carry the push. The Coastal Cargo Promotion Scheme, announced in the 2026-27 Budget, offers incentives to cargo owners, coastal vessel operators and multimodal transport operators. The Cruise Bharat Mission, launched in September 2024, aims for **one million sea cruise passengers** and 4 lakh jobs by March 2029.
 
-```photo
-{"n":1,"subject":"Paradip Port","caption":"Paradip Port, whose port authority will build the planned cruise terminal at Puri with the Odisha government.","alt":"Paradip Port in Odisha"}
-```
-
 ## The numbers so far
 
 Coastal cargo at Indian ports has grown from 74 million tonnes to **177 million tonnes in 12 years**, about 140%, the ministry said. In 2025-26 India recorded 4,62,661 ocean cruise passengers and 212 cruise ship calls. Twenty river cruise circuits run on 16 national waterways, with 51 more identified.

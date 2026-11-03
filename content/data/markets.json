@@ -362,7 +362,6 @@
     "source": "https://trendlyne.com/macro-data/fii-dii/latest/cash-pastmonth/"
   },
   "notes": [
-    "Seeded from research on October 31, 2026. Nifty Bank, euro, pound and some sector moves were not found in a reliable source and are left out.",
     "2 Nov 10:00 IST: Sensex, Nifty 50 and rupee from Business Standard live blog (10:00 and 09:01 IST); India VIX from HDFC Sky open report (data as of 09:24 IST); movers from Upstox (09:32 IST). Nifty IT and Nifty Midcap 150 still show the 30 October values; sector moves for today were not found in exact form and are hidden; gold, silver and G-sec yield keep their older values.",
     "2 Nov 13:00 IST run: movers updated from HDFC Sky 12:00 IST table. No Sensex, Nifty, rupee or Brent print newer than 11:22 IST was found in a readable source, so index and rate values are kept as they were.",
     "2 Nov 14:00 IST run: Sensex and Nifty 50 from Business Standard live blog (14:00 IST). Nifty Bank, Midcap, VIX, rupee, gold, Brent and movers keep their earlier readings; no newer time-stamped values were found in this run.",
@@ -381,6 +380,7 @@
     "3 Nov 13:00 IST run: Sensex 76,358 from a Free Press Journal midday report (headline level; change worked out against the 2 Nov close 75,692.78). Nifty 50 was reported above 23,600 with no exact level, so it keeps the opening print. Other values unchanged.",
     "3 Nov 19:00 IST run (close): Sensex 76,917.85 (+1,225.07, +1.62%), Nifty 50 23,810.85 (+370.05, +1.58%), India VIX 15.67 (+1.09%), movers and sectors from the Upstox market wrap (16:00 IST); rupee close 94.74 (16 paise stronger than 94.90) from HDFC Sky (16:25 IST). 3 Nov closes appended to Sensex and Nifty history. Nifty IT, Midcap, Brent, gold, silver, G-sec keep earlier readings. 3 Nov FII/DII provisional flows not yet found in this run; flows keep 2 Nov figures.",
     "3 Nov 21:00 IST run: 3 Nov FII/DII provisional flows not found in a readable, dated source; flows keep 2 Nov figures. No newer Brent settle or Indian rate print found; all values unchanged since the close.",
-    "3 Nov 22:00 IST run: Brent refreshed to $101.32 (Reuters via GV Wire, 13:50 GMT / 19:20 IST print, not a settle); change against the 2 Nov settle $104.77. 3 Nov FII/DII provisional flows still not found in a readable, dated source; flows keep 2 Nov figures. Indian indices and rupee unchanged since the close."
+    "3 Nov 22:00 IST run: Brent refreshed to $101.32 (Reuters via GV Wire, 13:50 GMT / 19:20 IST print, not a settle); change against the 2 Nov settle $104.77. 3 Nov FII/DII provisional flows still not found in a readable, dated source; flows keep 2 Nov figures. Indian indices and rupee unchanged since the close.",
+    "4 Nov 00:00 IST run: no 3 Nov Brent settle and no 3 Nov FII/DII provisional flows found in a readable, dated source (two searches); all values unchanged since the 3 Nov close and the 22:00 IST Brent print."
   ]
 }

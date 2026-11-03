@@ -60,10 +60,6 @@ Iran and the United States are **still far from a deal** to end their war, a sen
 
 Qatar's foreign ministry spokesperson Majed al-Ansari said Washington and Tehran were **reviewing the mediators' proposals** and that talks were continuing. "We cannot lose hope," he said. Qatari mediators flew to Tehran on Monday night to discuss a version of a draft deal, and an official said feedback from both capitals was expected within 36 hours. The Iranian official said there was no deadline for exchanging messages.
 
-```photo
-{"n":1,"subject":"Mohsen Rezaei","caption":"Mohsen Rezaei, secretary of Iran's Supreme National Security Council, called the US response to Tehran's demands not convincing.","alt":"Mohsen Rezaei"}
-```
-
 ## What Tehran wants
 
 Iran says the **Strait of Hormuz stays shut** until the US meets its demands: a waiver of oil sanctions, an end to the American naval blockade and the release of frozen Iranian funds. Mohsen Rezaei, secretary of the Supreme National Security Council, said the US response so far was "not convincing". Parliament Speaker Mohammad Baqer Qalibaf said Iran would not submit, and armed forces chief Ali Abdollahi said target lists were being updated.

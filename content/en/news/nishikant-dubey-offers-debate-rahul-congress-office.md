@@ -64,10 +64,6 @@ Rahul had earlier on Tuesday **renewed his challenge to the Prime Minister**, sa
 
 He also **dared Modi to file a defamation case** over the "foreign connections" charge. "Go ahead, file one," he said.
 
-```photo
-{"n":1,"subject":"Kiren Rijiju","caption":"Union minister Kiren Rijiju, who mocked Rahul Gandhi's debate challenge on Tuesday.","alt":"Union minister Kiren Rijiju"}
-```
-
 ## BJP hits back
 
 Union minister Kiren Rijiju had already dismissed the challenge on X. He compared it to "Islamic fundamentalists talking about secularism" and wrote: "Pushing agendas of India's enemies yet accusing others of foreign support is self-ridiculing." He added that top-level debates were **only for mature people**: "Top level debates are done between matured people."
