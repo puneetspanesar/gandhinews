@@ -96,9 +96,6 @@ He also said small notes have not traditionally been dispensed through ATMs, and
 
 Sources: [Free Press Journal, 10 March 2026](https://www.freepressjournal.in/business/no-shortage-of-10-20-50-notes-in-india-minister-of-finance); [Eastern Mirror (IANS)](https://www.easternmirrornagaland.com/no-shortage-of-inr-10-inr-20-and-inr-50-bank-notes-in-country-minister-pankaj-chaudhary); [Navbharat Live, 10 March 2026](https://navbharatlive.com/business/no-shortage-of-10-20-50-rupee-notes-central-government-clarification-1601780.html)
 
-```photo
-{"n":1,"subject":"Pankaj Chaudhary","caption":"Minister of State for Finance Pankaj Chaudhary told the Rajya Sabha in March that there is no shortage of ₹10, ₹20 and ₹50 notes.","alt":"Pankaj Chaudhary, Minister of State for Finance"}
-```
 
 ## Why this claim spread
 

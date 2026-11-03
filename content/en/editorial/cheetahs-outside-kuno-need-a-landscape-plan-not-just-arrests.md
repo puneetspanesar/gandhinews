@@ -74,7 +74,7 @@ Project Cheetah began in September 2022 with eight animals from Namibia, then tw
 The point of the project is a wild population, and a wild population moves. Young cheetahs separate from their mothers at about 18 months, roughly KNG-22's age, and go looking for space of their own. Kuno alone cannot hold that. Some of the country's leading wildlife biologists, Ravi Chellam among them, have long argued that **the park is too small** for animals that range so widely.
 
 ```photo
-{"n":1,"subject":"Gandhi Sagar Wildlife Sanctuary","caption":"Gandhi Sagar Wildlife Sanctuary in Madhya Pradesh, the second home of the cheetahs, where four now live.","alt":"Gandhi Sagar Wildlife Sanctuary, Madhya Pradesh"}
+{"n":1,"subject":"Gandhi Sagar Wildlife Sanctuary","caption":"The Gandhi Sagar reservoir in Mandsaur. The wildlife sanctuary around it is the second home of the cheetahs, where four now live.","alt":"Gandhi Sagar Wildlife Sanctuary, Madhya Pradesh"}
 ```
 
 So the forests of Sheopur and Morena, the fields between them and the highways that cut through them are not the edge of the project. They are where it is being tested. Last December a cub that had strayed out of Kuno was **killed by a vehicle on the Agra-Mumbai highway** near Gwalior. Now one has been shot.
@@ -91,9 +91,6 @@ First, the Centre's committee, which includes officials of the National Tiger Co
 
 Second, Madhya Pradesh should treat the territorial forests around Kuno as part of the project, with staff, vehicles and response teams to match, not leave them to divisions already stretched thin.
 
-```photo
-{"n":2,"subject":"Bhupender Yadav","caption":"Union Environment Minister Bhupender Yadav, whose ministry set up the high-level committee into KNG-22's death.","alt":"Union Environment Minister Bhupender Yadav"}
-```
 
 Third, villages within the cheetahs' range need **compensation paid within days**, not months, for livestock lost to the cats, and a phone number that brings a team when a cheetah turns up. People who report an animal should be thanked, not questioned.
 

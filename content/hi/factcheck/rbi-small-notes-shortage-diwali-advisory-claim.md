@@ -95,9 +95,6 @@ verification:
 
 स्रोत: [Free Press Journal, 10 मार्च 2026](https://www.freepressjournal.in/business/no-shortage-of-10-20-50-notes-in-india-minister-of-finance); [Eastern Mirror (IANS)](https://www.easternmirrornagaland.com/no-shortage-of-inr-10-inr-20-and-inr-50-bank-notes-in-country-minister-pankaj-chaudhary); [Navbharat Live, 10 मार्च 2026](https://navbharatlive.com/business/no-shortage-of-10-20-50-rupee-notes-central-government-clarification-1601780.html)
 
-```photo
-{"n":1,"subject":"Pankaj Chaudhary","caption":"वित्त राज्य मंत्री पंकज चौधरी ने मार्च में राज्यसभा को बताया था कि ₹10, ₹20 और ₹50 के नोटों की कोई कमी नहीं है।","alt":"वित्त राज्य मंत्री पंकज चौधरी"}
-```
 
 ## यह दावा क्यों फैला
 
