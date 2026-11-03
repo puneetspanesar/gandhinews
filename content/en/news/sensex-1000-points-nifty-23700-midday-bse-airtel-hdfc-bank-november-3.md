@@ -23,20 +23,6 @@ hero:
 related: [sensex-nifty-close-november-2, gift-nifty-gap-up-134-points-kospi-slides-sbi-results-november-3, sensex-holds-924-points-midday-nifty-23360-reliance-8-per-cent, us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve]
 seo:
   description: "Stock market today, 3 November 2026: Sensex up 895 points at 76,588.30 at midday and later about 1,000 points higher, Nifty back above 23,700, led by BSE, Bharti Airtel and HDFC Bank."
-cover:
-  template: business
-  label: "Markets"
-  headline: "Sensex up about 1,000 points, Nifty at 23,700"
-  data:
-    - icon: trend-up
-      value: "76,588.30"
-      label: "Sensex at midday, up 895.52 points"
-    - icon: chart-line
-      value: "23,689.85"
-      label: "Nifty 50 at midday, up 1.06%"
-    - icon: percent
-      value: "4.87%"
-      label: "Rise in BSE shares, the top gainer"
 sources:
   - title: "Indian stocks rally as Nifty tops 23,600 and Sensex surges"
     publisher: "NewsBytes"
@@ -59,10 +45,6 @@ verification:
 Indian shares **extended their rally for a fourth day** on Tuesday, with the Sensex climbing about 1,000 points by early afternoon as banks and telecom stocks drew steady buying.
 
 At midday the Sensex stood at 76,588.30, **up 895.52 points or about 1.2%** from Monday's close of 75,692.78. The Nifty 50 was up 1.06% at 23,689.85, and soon afterwards the gains widened: the Sensex pushed about 1,000 points higher and the **Nifty climbed back above 23,700**, with FMCG and realty stocks joining the move.
-
-```photo
-{"n":1,"subject":"HDFC Bank House Mumbai","caption":"HDFC Bank's head office in Mumbai. The country's largest private lender rose about 3% and was among the biggest gainers.","alt":"HDFC Bank House, the bank's headquarters in Mumbai (file photo)"}
-```
 
 ## Who led the gains
 

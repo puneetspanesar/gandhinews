@@ -24,20 +24,6 @@ hero:
 related: [retail-inflation-september-2026-5-54, rbi-raises-repo-rate-to-5-50, rbi-mpc-minutes-rate-cuts-off-table-two-members-oppose-tightening, east-northeast-india-driest-monsoon-since-1901, centre-sets-up-committee-sugarcane-farmers-sugar-sector]
 seo:
   description: "दस साल से ज़्यादा में सबसे कमज़ोर मानसून के बाद भारत में लंबी खाद्य महंगाई: सितंबर में 7.74% रही खाद्य महंगाई इस तिमाही 10% तक जा सकती है, चीनी 30% महंगी, चिकन-दूध की लागत बढ़ी, आरबीआई से और दर वृद्धि की उम्मीद।"
-cover:
-  template: business
-  label: "खाने के दाम"
-  headline: "इस तिमाही खाद्य महंगाई 10% तक संभव"
-  data:
-    - icon: percent
-      value: "7.74%"
-      label: "सितंबर में खुदरा खाद्य महंगाई"
-    - icon: trend-up
-      value: "~10%"
-      label: "अक्टूबर-दिसंबर में खाद्य महंगाई का अनुमान"
-    - icon: plant
-      value: "30%"
-      label: "एक साल में चीनी के दाम में बढ़ोतरी"
 sources:
   - title: "From grains to chicken and milk, India faces prolonged food inflation"
     publisher: "Business Standard (Reuters)"
@@ -53,10 +39,6 @@ verification:
 अर्थशास्त्रियों ने मंगलवार को कहा कि भारतीय परिवारों को **लंबे समय तक महंगे खाने** के लिए तैयार रहना चाहिए, क्योंकि दस साल से ज़्यादा में सबसे कमज़ोर मानसून एक साथ फ़सलों, पशु चारे और चीनी उत्पादन पर चोट कर रहा है।
 
 महाराष्ट्र के जालना ज़िले के राजेवाड़ी गांव में इस साल बारिश **औसत से करीब 48% कम** हुई है। 78 साल के किसान अमरसिंह गुशिंगे रबी में गेहूं या चना नहीं बो पा रहे। उन्होंने कहा, "अगली फ़सल बोने के लिए मिट्टी में नमी नहीं है, और बोने के लिए पैसे भी नहीं बचे।"
-
-```photo
-{"n":1,"subject":"Sugarcane harvest Maharashtra","caption":"महाराष्ट्र में गन्ने की कटाई। मांग उत्पादन से आगे निकलने से चीनी के दाम एक साल में करीब 30% बढ़े हैं।","alt":"महाराष्ट्र के एक खेत में गन्ना काटते मज़दूर (फाइल फोटो)"}
-```
 
 ## अनाज से प्रोटीन तक
 

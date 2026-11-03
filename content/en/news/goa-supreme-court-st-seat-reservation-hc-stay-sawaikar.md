@@ -20,12 +20,6 @@ hero:
   alt: "Goa NRI Commissioner Narendra Sawaikar (file photo)"
   overlay:
     value: "Goa heads to Supreme Court over ST seats"
-cover:
-  template: speaker
-  label: "ST seats row"
-  headline: "Goa to seek Supreme Court relief by Wednesday"
-  bg: "High Court of Bombay at Goa"
-  people: ["Narendra Keshav Sawaikar"]
 related: []
 seo:
   description: "Goa will file a special leave petition in the Supreme Court by 4 November 2026 against a Bombay High Court stay on notifying Scheduled Tribe population figures needed to reserve assembly seats."
@@ -58,10 +52,6 @@ Last week a division bench of Justices Valmiki Menezes and Amit S Jamsandekar at
 The bench was hearing a challenge to the Readjustment of Representation of Scheduled Tribes in Assembly Constituencies of the State of Goa Act, 2025, which Parliament passed in August 2025 and which came into force in August 2026.
 
 The judges questioned the Census Commissioner's assumption that tribals make up **9.9 per cent of Goa's population**, a figure drawn from the 2001 Census. The Kunbi, Gauda and Velip communities were added to the ST list only in January 2003, and the 2001 count had recorded just 566 tribal people in the state.
-
-```photo
-{"n":2,"subject":"Ganesh Gaonkar","caption":"Goa Assembly Speaker Ganesh Gaonkar travelled to New Delhi with the state's delegation on Monday.","alt":"Goa Assembly Speaker Ganesh Gaonkar"}
-```
 
 ## Why it matters
 

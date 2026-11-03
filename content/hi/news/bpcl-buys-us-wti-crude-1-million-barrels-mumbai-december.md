@@ -24,17 +24,6 @@ hero:
 related: [bpcl-q2-profit-falls-21-per-cent-marketing-margins-lpg, us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve, oil-falls-4-per-cent-brent-108-iran-draft-proposal-qatar, oil-slump-deepens-brent-105-airlines-rally-iran-talks]
 seo:
   description: "भारत पेट्रोलियम (बीपीसीएल) ने डेटेड ब्रेंट से करीब 18 डॉलर प्रति बैरल प्रीमियम पर 10 लाख बैरल अमेरिकी डब्ल्यूटीआई क्रूड खरीदा, दिसंबर के आख़िर से जनवरी 2027 की शुरुआत में मुंबई पहुंचेगा।"
-cover:
-  template: business
-  label: "कच्चे तेल का आयात"
-  headline: "बीपीसीएल ने खरीदा 10 लाख बैरल अमेरिकी क्रूड"
-  data:
-    - icon: gas-pump
-      value: "10 लाख"
-      label: "बैरल अमेरिकी डब्ल्यूटीआई क्रूड खरीदा"
-    - icon: trend-up
-      value: "$18"
-      label: "डेटेड ब्रेंट पर प्रति बैरल प्रीमियम"
 sources:
   - title: "BPCL buys 1 million barrels of US WTI crude for delivery in late December"
     publisher: "Business Standard (Reuters)"

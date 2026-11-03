@@ -23,20 +23,6 @@ hero:
 related: [retail-inflation-september-2026-5-54, rbi-raises-repo-rate-to-5-50, rbi-mpc-minutes-rate-cuts-off-table-two-members-oppose-tightening, east-northeast-india-driest-monsoon-since-1901, centre-sets-up-committee-sugarcane-farmers-sugar-sector]
 seo:
   description: "India faces prolonged food inflation after the weakest monsoon in over a decade: food inflation at 7.74% in September may reach 10% this quarter, sugar up 30%, poultry and milk costs rising, more RBI rate hikes seen."
-cover:
-  template: business
-  label: "Food prices"
-  headline: "Food inflation may touch 10% this quarter"
-  data:
-    - icon: percent
-      value: "7.74%"
-      label: "Retail food inflation in September"
-    - icon: trend-up
-      value: "~10%"
-      label: "Food inflation expected in Oct-Dec"
-    - icon: plant
-      value: "30%"
-      label: "Rise in sugar prices in a year"
 sources:
   - title: "From grains to chicken and milk, India faces prolonged food inflation"
     publisher: "Business Standard (Reuters)"
@@ -53,10 +39,6 @@ verification:
 Indian households should brace for **a long spell of expensive food**, economists said on Tuesday, as the weakest monsoon in more than a decade hits crops, animal feed and sugar output at the same time.
 
 In Rajewadi village in Maharashtra's Jalna district, where rain has been **about 48% below average** this year, 78-year-old farmer Amarsingh Gushinge cannot sow wheat or chickpeas for the winter. "There's not enough moisture in the soil to sow the next crop, and no money left to do so either," he said.
-
-```photo
-{"n":1,"subject":"Sugarcane harvest Maharashtra","caption":"Sugarcane being harvested in Maharashtra. Sugar prices have risen nearly 30% in a year as demand outruns output.","alt":"Workers harvesting sugarcane in a Maharashtra field (file photo)"}
-```
 
 ## From grain to protein
 

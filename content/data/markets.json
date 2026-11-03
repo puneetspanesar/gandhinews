@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-03T13:25:00+05:30",
+  "as_of": "2026-11-03T14:20:00+05:30",
   "status": "open",
   "session_date": "2026-11-03",
   "chart": "nifty-50",
@@ -8,9 +8,9 @@
       "id": "sensex",
       "name": "Sensex",
       "name_hi": "सेंसेक्स",
-      "value": 76358.0,
-      "change": 665.22,
-      "pct": 0.88,
+      "value": 76588.3,
+      "change": 895.52,
+      "pct": 1.18,
       "history": [
         {
           "date": "2026-09-30",
@@ -89,15 +89,15 @@
           "close": 75692.78
         }
       ],
-      "source": "https://www.freepressjournal.in/business/bulls-tighten-their-grip-on-d-street-sensex-zooms-over-600-points-to-76358-and-nifty-crosses-23600-as-strong-q2-earnings-and-cheaper-crude-lift-markets"
+      "source": "https://www.newsbytesapp.com/news/business/indian-stocks-rally-as-nifty-tops-23600-and-sensex-surges/tldr"
     },
     {
       "id": "nifty-50",
       "name": "Nifty 50",
       "name_hi": "निफ्टी 50",
-      "value": 23582.25,
-      "change": 141.45,
-      "pct": 0.6,
+      "value": 23689.85,
+      "change": 249.05,
+      "pct": 1.06,
       "history": [
         {
           "date": "2026-09-30",
@@ -180,7 +180,7 @@
           "close": 23440.8
         }
       ],
-      "source": "https://upstox.com/news/market-news/stocks/sensex-gains-600-points-nifty-50-opens-at-23-582-level-indi-go-shriram-finance-asian-paints-lead-pack-of-gainers/article-202861/ (opening print)"
+      "source": "https://www.newsbytesapp.com/news/business/indian-stocks-rally-as-nifty-tops-23600-and-sensex-surges/tldr"
     },
     {
       "id": "nifty-it",

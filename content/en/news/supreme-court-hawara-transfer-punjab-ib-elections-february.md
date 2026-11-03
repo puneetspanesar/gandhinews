@@ -20,12 +20,6 @@ hero:
   alt: "Jagtar Singh Hawara (file photo)"
   overlay:
     value: "Hawara stays in Tihar till February"
-cover:
-  template: speaker
-  label: "Beant Singh case"
-  headline: "IB report on Hawara 'very damning': SC"
-  bg: "Supreme Court of India"
-  people: ["Jagtar Singh Hawara"]
 related: []
 seo:
   description: "The Intelligence Bureau told the Supreme Court on 3 November 2026 that moving Beant Singh murder convict Jagtar Singh Hawara from Tihar to Punjab would affect the state elections; the plea was posted to February."
@@ -51,10 +45,6 @@ A bench of Justices M M Sundresh and P B Varale, which had earlier asked the Del
 
 Additional Solicitor General Aishwarya Bhati, for the Delhi government, argued that a transfer could **raise the risk of escape**, citing a Home Ministry advisory on high-risk prisoners. Punjab's own affidavit warned of trouble for law and order. Bhati reminded the court that Hawara had been convicted for digging a tunnel out of a Chandigarh jail.
 
-```photo
-{"n":1,"subject":"Beant Singh","caption":"Punjab chief minister Beant Singh was killed with 16 others in a blast at the Chandigarh civil secretariat in August 1995.","alt":"Former Punjab chief minister Beant Singh"}
-```
-
 Senior Advocate S Muralidhar, for Hawara, said his client's prison record had been without blemish apart from the 2004 jailbreak, that no case was pending against him in Delhi, and that a co-convict had already been moved from Tihar to Chandigarh. Hawara is from Fatehgarh Sahib district and his daughter lives in Punjab.
 
 > "If elections are a concern, this may be taken up after three months."
@@ -62,10 +52,6 @@ Senior Advocate S Muralidhar, for Hawara, said his client's prison record had be
 > Source: S Muralidhar, Senior Advocate for Jagtar Singh Hawara, Supreme Court, 3 November 2026
 
 The bench did not rule on the transfer and **posted the matter to February**.
-
-```photo
-{"n":2,"subject":"S. Muralidhar","caption":"Senior Advocate S Muralidhar argued that Hawara's record since the 2004 jailbreak justified a move to Punjab.","alt":"Senior Advocate S Muralidhar"}
-```
 
 ## The long road from Burail
 

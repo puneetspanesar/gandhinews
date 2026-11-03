@@ -23,17 +23,6 @@ hero:
 related: [bpcl-q2-profit-falls-21-per-cent-marketing-margins-lpg, us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve, oil-falls-4-per-cent-brent-108-iran-draft-proposal-qatar, oil-slump-deepens-brent-105-airlines-rally-iran-talks]
 seo:
   description: "Bharat Petroleum (BPCL) buys 1 million barrels of US WTI crude at about $18 a barrel over dated Brent, for discharge at Mumbai in late December to early January 2027."
-cover:
-  template: business
-  label: "Crude imports"
-  headline: "BPCL buys 1 million barrels of US crude"
-  data:
-    - icon: gas-pump
-      value: "1 million"
-      label: "Barrels of US WTI crude bought"
-    - icon: trend-up
-      value: "$18"
-      label: "Premium per barrel over dated Brent"
 sources:
   - title: "BPCL buys 1 million barrels of US WTI crude for delivery in late December"
     publisher: "Business Standard (Reuters)"

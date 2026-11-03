@@ -39,12 +39,6 @@ verification:
   status: approved
   notes:
     - "event: 3 Nov 12:17 IST, पीआईबी विज्ञप्ति। पूरे नोट अंग्रेजी फाइल में।"
-cover:
-  template: breaking
-  label: आदित्य-एल1
-  headline: "'सीएमई एक समान नहीं फैला'"
-  bg: "Coronal mass ejection"
-  inset: "Indian Institute of Astrophysics"
 ---
 
 भारत की पहली सौर वेधशाला ने दिखाया है कि सूर्य से निकलने वाला विस्फोट **एक तरफ दूसरी तरफ से ज्यादा फूल सकता है**। वैज्ञानिकों का कहना है कि इससे यह अनुमान लगाना आसान होगा कि ऐसे तूफान पृथ्वी तक कब पहुंचेंगे।

@@ -40,12 +40,6 @@ verification:
     - "event: 3 Nov 12:17 IST, PIB Delhi release on the IIA study (timestamp as carried by Technology For You republication). pib.gov.in original not fetched."
     - "Paper: The Astrophysical Journal Letters, DOI 10.3847/2041-8213/aea295. Authors Saurabh Tripathi (PhD student, lead), Tanmoy Samanta (corresponding), Jayant Joshi, all IIA. CME 5 Aug 2024 near west limb. VELC 530.3 nm Fe XIV line, ~1.8 million K, 1.05 to 1.5 solar radii; combined with NASA SDO/AIA."
     - "The two quotes appear in the release without a named speaker, so copy attributes them to the team."
-cover:
-  template: breaking
-  label: Aditya-L1
-  headline: "'The CME did not expand uniformly'"
-  bg: "Coronal mass ejection"
-  inset: "Indian Institute of Astrophysics"
 ---
 
 India's first solar observatory has shown that an eruption from the Sun can **swell more on one side than the other**, a result its scientists say could help forecasters judge when such storms will hit Earth.
