@@ -20,11 +20,6 @@ hero:
   alt: "BJP general secretary Smriti Irani and Congress leader Rahul Gandhi"
   overlay:
     value: "'Prince in perpetual waiting'"
-cover:
-  template: faceoff
-  label: "SIR row"
-  headline: "'Prince in perpetual waiting'"
-  bg: "Kolkata Press Club"
 infographic:
   kicker: "SIR row"
   headline: "Irani says Congress lost 56 polls before SIR"
@@ -64,18 +59,10 @@ The BJP turned its fire on Rahul Gandhi from Kolkata on Tuesday evening, with na
 
 Irani said the Congress had **lost 56 Assembly elections** between 2014 and 2025, long before the Special Intensive Revision (SIR) of the electoral rolls began. The party, she argued, was blaming the Election Commission instead of asking hard questions of its own leadership.
 
-```photo
-{"n":1,"subject":"Rahul Gandhi","caption":"Congress leader Rahul Gandhi, whose 'vote chori' campaign against the Election Commission Irani attacked.","alt":"Rahul Gandhi"}
-```
-
 She defended the revision itself. By her count, **about 13 crore names** were left off the draft rolls: roughly 3 crore of dead voters, 1 crore duplicates, about 3 crore people not found at their addresses and nearly 6 crore who had moved. Verification, she said, was 90% complete for about 90 crore voters. She asked why the Congress, and the Trinamool Congress in West Bengal, objected to removing duplicate and ineligible names, and accused the TMC of shielding "infiltrators".
 
 ## Protests and London
 
 Irani said more than 118 police personnel had been injured during opposition protests, and that nearly 20 lakh booth-level agents from opposition parties had taken part in the exercise. She also accused Gandhi of speaking against India abroad. "Rahul Gandhi goes to London and says he wants to defeat Modi," she said.
-
-```photo
-{"n":2,"subject":"Election Commission of India","caption":"The Election Commission, whose revision of the rolls is at the centre of the row.","alt":"Nirvachan Sadan, the Election Commission of India building in New Delhi"}
-```
 
 The attack comes two days after the INDIA bloc's rally at Ramlila Maidan in Delhi, where Gandhi and Congress president Mallikarjun Kharge accused the Commission of helping the BJP.

@@ -20,11 +20,6 @@ hero:
   alt: "Maharashtra minister Sanjay Shirsat and actor Dia Mirza"
   overlay:
     value: "'Do you have the courage?'"
-cover:
-  template: faceoff
-  label: "Dia Mirza row"
-  headline: "'Loudspeakers that blare 365 days should stop'"
-  bg: "Bombay High Court"
 infographic:
   kicker: "Dia Mirza video row"
   headline: "Shirsat says Mirza should take on loudspeakers"
@@ -59,18 +54,10 @@ Maharashtra's Social Justice Minister Sanjay Shirsat waded into the row over Dia
 
 "People know that they should not burst crackers, so why give 'gyan' on the issue?" the Shiv Sena minister told reporters in Mumbai. "Loudspeakers that blare all 365 days should stop. Do you have the courage to do so? Doesn't it cause noise pollution?"
 
-```photo
-{"n":1,"subject":"Dia Mirza","caption":"Actor Dia Mirza, whose eco-friendly Diwali clip for the BMC was taken down and then ordered restored.","alt":"Dia Mirza"}
-```
-
 Shirsat said Mirza **deserved credit for trying to reform society**, but should be alert to the issues around her. Anyone who made such suggestions was labelled communal, he complained, adding that all religions must follow the Constitution. "The law which applies to us applies to all," he said. Asked about Aaditya Thackeray's criticism, he shot back: "What does Aaditya know?"
 
 ## The court steps in
 
 His remarks came hours after the Bombay High Court took up the matter on its own. A bench of Justices Girish Kulkarni and Neela Gokhale expressed **"deep pain and displeasure"** at the political objections to the clip, called the colouring of the video "most unfortunate" and directed the Brihanmumbai Municipal Corporation to re-upload it.
-
-```photo
-{"n":2,"subject":"Bombay High Court","caption":"The Bombay High Court, which ordered the BMC to put Mirza's video back online.","alt":"The Bombay High Court building in Mumbai"}
-```
 
 The BMC had removed the clip after Mumbai BJP chief Ameet Satam objected and Mayor Ritu Tawde called the actor "anti-Hindu". Campaign videos featuring Madhuri Dixit, Nishigandha Wad and Ajinkya Rahane stayed online throughout. Shirsat's comments suggest the ruling alliance is in no mood to let the row die down after the court's rebuke.

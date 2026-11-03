@@ -20,11 +20,6 @@ hero:
   alt: "Apple Park, the company's headquarters in Cupertino"
   overlay:
     value: "Dating apps now adults only"
-cover:
-  template: speaker
-  label: "App Store"
-  headline: "Apple makes dating apps 18+"
-  bg: "Apple Park"
 infographic:
   kicker: "App Store age ratings"
   headline: "Apple puts dating and AI romance apps behind 18+"
@@ -56,10 +51,6 @@ Apple has moved to keep minors off dating apps and romance-minded AI chatbots, r
 
 The company set out the change in a notice to developers on Monday. It is aimed at apps that offer what Apple calls "sexual or romantic content", a category that now takes in AI companion apps alongside the familiar dating services.
 
-```photo
-{"n":1,"subject":"Apple Park Visitor Center","caption":"The visitor centre at Apple Park in Cupertino, where the company sets the rules every App Store developer must follow.","alt":"Apple Park Visitor Center in Cupertino, California"}
-```
-
 ## What changes for developers
 
 From 16 November, developers must **fill in new content descriptors** so that an app's age rating reflects what it actually does. One of them asks whether an app shares a user's real-world location with another person or a group, a feature that raises privacy worries when users do not realise their whereabouts are being passed on.
@@ -71,9 +62,5 @@ In Brazil, family apps that share location can ask the Ministry of Justice and P
 Most big dating services already bar under-18s, so the sharper effect may fall on **AI companion apps** such as Character.AI and Replika, which let users create friends, girlfriends, boyfriends and other characters to chat with. Apple has not said which named apps will move to the adult rating. Apps in which romance is one feature among many will also have to declare it.
 
 The sector is large. By the summer of 2025, the leading AI companion apps on the App Store and Google Play had been **downloaded 220 million times** worldwide, and xAI last year launched animated companions with unlockable adult modes.
-
-```photo
-{"n":2,"subject":"Apple Infinite Loop campus","caption":"Apple's older Infinite Loop campus in Cupertino; the company has spent the past year adding parental controls and child safety features.","alt":"Apple's Infinite Loop campus in Cupertino"}
-```
 
 The move follows Apple's global rollout earlier this year of its age assurance technology, which lets apps check whether a user is an adult, and a run of new parental controls.
