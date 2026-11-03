@@ -56,10 +56,6 @@ Multi Commodity Exchange of India **more than doubled its quarterly profit** on 
 
 Consolidated net profit for the September quarter came in at **₹454.57 crore, against ₹197.47 crore** a year earlier, a rise of about 130%. Revenue from operations climbed to ₹799.66 crore from ₹374.23 crore, the exchange said in results filed with the BSE after its board met on Tuesday evening.
 
-```photo
-{"n":1,"subject":"Multi Commodity Exchange of India","caption":"MCX, India's largest commodity derivatives exchange, reported its September-quarter results on Tuesday evening.","alt":"Multi Commodity Exchange of India"}
-```
-
 Earnings per share **rose to ₹17.83 from ₹7.74**. On a standalone basis, profit was ₹405.35 crore, up from ₹156.43 crore. Profit was also about 10% higher than the ₹413.44 crore of the June quarter, taking first-half profit to ₹868.01 crore.
 
 The exchange kept costs in check: total expenses were ₹211.36 crore against total income of ₹851.28 crore, leaving a **profit before tax of ₹639.92 crore**.
@@ -69,7 +65,3 @@ The exchange kept costs in check: total expenses were ₹211.36 crore against to
 MCX **put ₹51.5 crore into MCX Coal Exchange of India** during the quarter, taking its total investment in the new subsidiary to ₹52.5 crore. Its core settlement guarantee fund stood at ₹1,472.16 crore, and the exchange said no further contribution was needed under current SEBI rules.
 
 The figures came on the same evening that the National Stock Exchange's board cleared the sale of up to 40% of its own coal exchange, as India's exchanges position themselves for coal trading.
-
-```photo
-{"n":2,"subject":"Securities and Exchange Board of India","caption":"SEBI, the markets regulator whose norms set how much exchanges must add to their settlement guarantee funds.","alt":"SEBI headquarters in Mumbai"}
-```

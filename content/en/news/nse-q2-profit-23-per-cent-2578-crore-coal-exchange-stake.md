@@ -56,10 +56,6 @@ The National Stock Exchange **earned ₹2,578 crore in the September quarter**, 
 
 The consolidated net profit for the three months to 30 September compared with ₹2,098 crore in the same quarter of 2025. Revenue from operations **rose 11% to ₹4,067 crore**, from ₹3,677 crore, as trading volumes kept the exchange's main business growing.
 
-```photo
-{"n":1,"subject":"National Stock Exchange of India","caption":"The National Stock Exchange in Mumbai, which reported its first quarterly results as a listed company on Tuesday.","alt":"National Stock Exchange of India building in Mumbai"}
-```
-
 ## A softer quarter than June
 
 The picture was less bright against the previous three months. Profit **fell 17.4% from ₹3,120 crore** in the June quarter, and revenue was 10.8% lower than the ₹4,560 crore of April to June.
@@ -69,10 +65,6 @@ Operating profit, or EBITDA, came in at ₹3,079 crore, down 13.3% from ₹3,551
 ## Coal exchange stake on the block
 
 Alongside the numbers, the board **approved selling up to 40% of National Coal Exchange of India**, a wholly owned subsidiary. The stake can be sold in one or more tranches, the exchange said. It did not name buyers or a price.
-
-```photo
-{"n":2,"subject":"Ashishkumar Chauhan","caption":"Ashishkumar Chauhan, managing director and chief executive of NSE, leads a board chaired by Srinivas Injeti.","alt":"Ashishkumar Chauhan"}
-```
 
 The results came after the close of trading. NSE shares had **ended 1.31% higher at ₹1,803** on the BSE on Tuesday, a little above the ₹1,785 issue price at which they were sold to investors. At midday the exchange was valued at about ₹4.44 lakh crore.
 

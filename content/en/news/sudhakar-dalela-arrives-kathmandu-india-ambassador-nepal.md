@@ -60,18 +60,10 @@ India's new ambassador to Nepal, **Sudhakar Dalela, arrived in Kathmandu** on Tu
 
 Dalela comes to Kathmandu from New Delhi, where he served as **secretary for economic relations** in the Ministry of External Affairs. Before that he was India's ambassador to Bhutan for three years. He joined the Indian Foreign Service in 1993.
 
-```photo
-{"n":1,"subject":"Tribhuvan International Airport","caption":"Tribhuvan International Airport in Kathmandu, where Sudhakar Dalela landed on Tuesday to take up his post.","alt":"Tribhuvan International Airport, Kathmandu"}
-```
-
 ## Misri due on Wednesday
 
 His timing puts him at the centre of a busy week. **Vikram Misri begins a two-day visit to Nepal** on Wednesday, and the new ambassador will be in post for the foreign secretary's meetings.
 
 Nepal matters to New Delhi as a close neighbour with an open border, deep trade links and a large flow of Indian pilgrims and tourists. Indian visitors to Muktinath Temple have driven a **near doubling of SAARC arrivals in Mustang** this year, according to the local conservation office.
-
-```photo
-{"n":2,"subject":"Vikram Misri","caption":"Foreign Secretary Vikram Misri, who begins a two-day visit to Nepal on Wednesday.","alt":"Indian Foreign Secretary Vikram Misri"}
-```
 
 Dalela now moves from one Himalayan neighbour to another, after his three years in Thimphu.
