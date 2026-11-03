@@ -5,7 +5,7 @@ Runs twice a day (morning and evening, IST). It writes editorials, explainers an
 Everything in RUNBOOK.md "Standing editorial rules" applies.
 
 ## 0. Lock and set up
-Same lock as RUNBOOK-HOURLY.md step 0, but if the lock is held, wait (check every 2 minutes, up to 25 minutes) instead of stopping; take it with `lock "busy <time> longform"`. Then RUNBOOK.md step 0. Window: since the last "Long-form update" commit.
+Same lock as RUNBOOK-HOURLY.md step 0, but if an hourly run holds it, wait (check every 2 minutes, up to 25 minutes) instead of stopping; take it with `lock "busy <time> longform"`. Hourly runs do not wait for a longform lock and may push while you work: always `git pull --no-rebase` before pushing and merge photo JSON conflicts (RUNBOOK.md). Never reuse a photo that a live or held news story already uses (check:photos catches this). Then RUNBOOK.md step 0. Window: since the last "Long-form update" commit.
 
 ## 1. Desks (in parallel, ONE message)
 1. explained: 2 explainers (shape of content/en/explainer/at1-bonds-explained-yes-bank-supreme-court-ruling.md) on the biggest news of the window not yet explained. Check content/en/explainer first. Max 10 WebSearch calls.

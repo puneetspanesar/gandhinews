@@ -1,6 +1,14 @@
 # Gandhi News hourly update: runbook
 
-One run every hour. Each run publishes AT LEAST 5 new news stories (aim for 6 to 8), refreshes the headlines and the homepage, and keeps the markets band current. Editorials, explainers and other long forms are NOT written here; the twice-daily long-form run (RUNBOOK-LONGFORM.md) does those. Work alone: nobody is watching, so never stop to ask a question. Decide, note the decision in the report, and carry on. The whole run must finish inside 45 minutes; cut volume (never pictures or checks) if time runs short.
+One run every hour. Each run publishes 3 to 6 new news stories, refreshes the homepage, and keeps the markets band current. Editorials, explainers and other long forms are NOT written here; the twice-daily long-form run (RUNBOOK-LONGFORM.md) does those. Work alone: nobody is watching, so never stop to ask a question. Decide, note the decision in the report, and carry on.
+
+## THE FIRST RULE: THE SITE MUST CHANGE EVERY HOUR
+On November 3, 2026 the site sat still from 3 pm to 7 pm because runs wrote stories but held them all while covers, extra photos and editor rounds ran out of time, and runs then blocked each other. The owner noticed. Never again:
+- Note the start time. Hard checkpoints (minutes from the start): desks done by 15, main pictures done by 30, PUSH by 40, whatever is ready. Anything not ready at 40 is held, never the whole run.
+- A story goes live once its text is checked and its MAIN picture is checked by eye. Covers and in-story photos are extras: add them only if time allows, and drop them (never hold a story) when they are not ready or not right.
+- The editor check judges each story on its own. A failing story is held or fixed; the others go live. One fix round only.
+- Every run ends with a push that changes the homepage (step 4 refresh_home.py), even when no new story was written.
+- Held stories: at the start of every run, look in newsroom/held/. Republish any held story under 12 hours old that now has a correct main picture (step 2); delete held stories older than 12 hours (both languages): that news is gone.
 
 Everything in RUNBOOK.md "Standing editorial rules" applies here unchanged (byline, own voice, bold key facts, no em dashes, Hindi twin, unique photos, EVERY story with a correct picture, fact-check/trackers/data/Parliament/standards at the bottom of the homepage).
 
@@ -13,7 +21,7 @@ Lock (kept on its own branch so it never triggers a site build):
 ```
 git fetch -q origin run-lock 2>/dev/null && git show origin/run-lock:lock.txt 2>/dev/null
 ```
-If that prints a line `busy <ISO time>` less than 55 minutes old, another run is still working: check again every 2 minutes for up to 20 minutes; if it is still busy, stop (no message), the next hour picks up the gap. Otherwise take the lock:
+If that prints a line `busy <ISO time> hourly` less than 50 minutes old, another hourly run is still working: check every 2 minutes for up to 10 minutes; if it is still busy, take the lock anyway (that run is overdue) and go on. A `longform` lock does NOT stop an hourly run: go on and take the lock (the long-form run re-takes it when it pushes; both runs merge on push conflicts as RUNBOOK.md says). An hourly run never skips its hour because of the lock. Take the lock:
 ```
 lock() { d=$(mktemp -d); git -C "$d" init -q; printf '%s\n' "$1" > "$d/lock.txt"; git -C "$d" add lock.txt; git -C "$d" -c user.name=desk -c user.email=desk@gandhinews.com commit -qm lock; git -C "$d" push -qf "$(git remote get-url origin)" HEAD:refs/heads/run-lock; rm -rf "$d"; }
 lock "busy $(TZ=Asia/Kolkata date -Iseconds) hourly"
@@ -24,7 +32,7 @@ Then do RUNBOOK.md step 0 (npm ci, gn-work copy, Python venv, empty claims.txt).
 
 ## 0b. Front-page check (every run, before the desks: this decides what we cover)
 First read newsroom/editor-notes.md (the owner's current priorities and known gaps) and treat its items as BIG STORIES; delete each item from that file once published.
-We are a general news site and must cover what India is talking about, not what is easiest to source. Fetch the homepages of at least four of: ndtv.com, indianexpress.com, hindustantimes.com, thehindu.com, timesofindia.indiatimes.com, republicworld.com, indiatoday.in, bbc.com/news, reuters.com (if a site blocks automated reading, move on; never get around it). List their top 10 stories each. A story that leads or sits in the top 5 of two or more of them is a BIG STORY.
+We are a general news site and must cover what India is talking about, not what is easiest to source. Most big Indian news homepages block automated reading (never get around that), so spend at most 5 minutes here: try newsonair.gov.in, republicworld.com, timesofindia.indiatimes.com and reuters.com, and run 2 WebSearch calls (mode extended) for India's top news of the last few hours. A story leading two or more of these is a BIG STORY.
 - Every BIG STORY we have not covered gets written this run, first, before anything else. The 2-hour window does not apply to a BIG STORY that broke in the last 24 hours and that we have missed; write it with the latest facts.
 - Every BIG STORY we already have but whose latest development is missing gets a new development story.
 - Put the list (BIG STORIES, ours or missing) at the top of gn-work/run-brief.md so the desks write them first.
@@ -38,10 +46,10 @@ Launch THREE desk agents in ONE message (general-purpose, parallel), each prompt
 1. india: national politics, courts, states, policy, PIB, Parliament. 2 or 3 stories.
 2. world-business: world news with India angles, economy, companies, RBI/SEBI. 2 or 3 stories. At most ONE market story per run (and only when the market really moved: Sensex or Nifty over 0.5%, or a big single stock), at most one Wall Street or global markets story per day (the morning one), and monthly sales figures as ONE roundup story per day, never a story per company.
 3. sport-science: cricket first, other sport, science, tech, space, health, climate. 1 or 2 stories.
-Desks write the BIG STORIES from step 0b first. Then only news whose event happened inside the 2-hour window (check the time in the source), or a real new development on an older story (new slug). Desks must put the event time in `verification.notes`, e.g. "event: 31 Oct 21:40 IST, statement on X". Any story whose event is older than the window is deleted before commit. Leads 400 to 650 words when the news deserves it; most hourly stories are briefs (220 to 380 words). Every story bolds its key phrases in the body and carries its in-story visuals (briefs 2, leads 3), as desk-addendum-v2.md says. Wait for all three, then validate and commit the stories exactly as RUNBOOK.md step 1 says. If fewer than 5 stories came back, launch one more agent for the gap before moving on.
+Desks write the BIG STORIES from step 0b first. Then only news whose event happened inside the 2-hour window (check the time in the source), or a real new development on an older story (new slug). Desks must put the event time in `verification.notes`, e.g. "event: 31 Oct 21:40 IST, statement on X". Any story whose event is older than the window is deleted before commit. Leads 400 to 650 words when the news deserves it; most hourly stories are briefs (220 to 380 words). Every story bolds its key phrases in the body. In-story visuals in hourly runs: at most 1 per brief and 2 per lead, only where a photo really adds something (a second person in the story, the place); no cover block except for the lead story. Wait for all three, then validate and commit the stories exactly as RUNBOOK.md step 1 says. If fewer than 5 stories came back, launch one more agent for the gap before moving on.
 
 ## 2. Pictures
-RUNBOOK.md step 2, with a fresh tag per run: `h<day><hour>` (e.g. `h0114` for 14:00 on the 1st). Each story now brings 2 or 3 in-story photos as well as its main picture, so expect two or three finder parts. Check the in-story photos by eye exactly like main photos (right person, right place). Small runs usually need one fallback round. A story still without a correct picture after the fallback round is NOT published: move both language files to newsroom/held/ (create it) and note it in the report; the next run tries again.
+RUNBOOK.md step 2, with a fresh tag per run: `h<day><hour>` (e.g. `h0114` for 14:00 on the 1st). MAIN PICTURES FIRST: the first finder part carries only the main pictures, so they arrive fast; in-story photos go in a second part only if it is not yet minute 20. Check every picture by eye (right person, right place, event stories show the event). One fallback round for main pictures, at most. A story still without a correct main picture at minute 30 is held (both language files to newsroom/held/); every other story goes ahead. In-story photo blocks whose photo did not arrive or is wrong are deleted from the text, never a reason to wait. Covers (make_cover.py) only for the lead story and only if done by minute 35; a story without a cover simply shows its main picture.
 
 ## 3. Markets and data (content/data/markets.json)
 Format: newsroom/markets-format.md. Update every run:
@@ -53,7 +61,7 @@ Format: newsroom/markets-format.md. Update every run:
 Max 6 WebSearch calls for this step.
 
 ## 4. Homepage (every run)
-Update content/homepage.json as RUNBOOK.md step 3 describes, with this run's stories in mind:
+Run `python3 newsroom/scripts/refresh_home.py` (add `--lead <id>` when a bigger or newer story should lead, `--pin <id> ...` for BIG STORIES that must sit at the top). It fills the headlines, live band, section lists, explainers and opinion with the newest pictured stories under the balance rules below. Then read what it printed and fix by hand anything the rules below still need (news judgement is yours, the script only does the mechanics):
 - News judgement first. The lead is the biggest story in India right now (step 0b), and changes when the front pages change. No story stays the lead for more than 8 hours unless it is still leading the other front pages.
 - Balance: in the headlines (lead.relatedBeside, topStories, briefing) at most ONE markets or business story (indices, Wall Street, oil, results, sales figures), at most TWO from any one section, and never two stories on the same subject. A running story (a cyclone, a war) gets the lead or the live band, plus at most one more slot.
 - Mix: aim for national politics, a state, world, business, sport and courts or policy in the top eight.
@@ -68,8 +76,8 @@ After the clean build, and BEFORE the final commit and push:
 1. Save the front-page list from step 0b (other sites' top stories, one per line) to /home/claude/gn-work/frontpages.txt.
 2. `python3 newsroom/scripts/review_pack.py <ids of this run's stories>` (it screenshots the built homepage and makes one sheet per story).
 3. Launch ONE separate agent (Agent tool, general-purpose, a fresh agent that did none of this run's work) with the prompt: `Read /home/claude/gandhinews/newsroom/briefs/editor-check.md and follow it exactly.` Wait for its reply.
-4. If it says FAIL, fix every FIX line (find a correct picture, recrop, rebuild a cover, change the lead or the headline mix), rebuild, rerun review_pack and ask a NEW editor agent again. At most two fix rounds.
-5. Anything still failing after two rounds: take that story off the homepage and out of this push (move its files to newsroom/held/), or revert the homepage to the last good homepage.json. Never publish a FAIL.
+4. If it says FAIL, look at each FIX line. Quick fixes (drop an in-story photo, drop a cover, change the lead or headline mix with refresh_home.py, a wording fix) you do at once. A story whose MAIN picture is wrong and cannot be replaced within 5 minutes is held (both files to newsroom/held/). One fix round, then rebuild and push without asking the editor again, unless the homepage itself failed (then one more editor check of the homepage only).
+5. The FAIL of one story never holds the others. Never publish the specific thing that failed; publish everything else.
 6. Note the editor's final verdict in the commit message ("editor: PASS" or "editor: PASS after fixes: ...").
 
 ## 5. Build, publish, report
