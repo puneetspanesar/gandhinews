@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert",
+    "id": "murasu-crosses-andhra-coast-naguluppalapadu-198-mm-trees-down",
     "overlay": {
       "kicker": {
         "en": "Andhra coast, now",
         "hi": "आंध्र तट, अभी"
       },
       "value": {
-        "en": "Landfall near Ongole",
-        "hi": "ओंगोल के पास लैंडफॉल"
+        "en": "Murasu crosses coast",
+        "hi": "मुरासु ने तट पार किया"
       },
       "text": {
         "en": "",
@@ -20,60 +20,62 @@
         "icon": "clock",
         "color": "#cc0000",
         "value": {
-          "en": "About 5 am",
-          "hi": "सुबह क़रीब 5 बजे"
+          "en": "3:30 to 5:30 am",
+          "hi": "सुबह 3:30 से 5:30"
         },
         "label": {
-          "en": "eye reached the coast",
-          "hi": "आंख तट पर पहुंची"
+          "en": "crossed near Ongole",
+          "hi": "ओंगोल के पास तट पार"
         }
       },
       {
-        "icon": "map-pin",
+        "icon": "drop",
         "color": "#8f0000",
         "value": {
-          "en": "Kothapatnam",
-          "hi": "कोथापट्टनम"
+          "en": "198 mm",
+          "hi": "198 मिमी"
         },
         "label": {
-          "en": "near Ongole, Prakasam",
-          "hi": "ओंगोल के पास, प्रकाशम"
+          "en": "rain at Naguluppalapadu",
+          "hi": "नागुलुप्पलपाडु में बारिश"
         }
       },
       {
         "icon": "warning",
         "color": "#0d0d0d",
         "value": {
-          "en": "Up to 120 km/h",
-          "hi": "120 किमी/घंटा तक"
+          "en": "6 districts",
+          "hi": "6 ज़िले"
         },
         "label": {
-          "en": "gusts along the coast",
-          "hi": "तट पर हवा के झोंके"
+          "en": "under IMD red warning",
+          "hi": "आईएमडी का रेड अलर्ट"
         }
       },
       {
-        "icon": "drop",
+        "icon": "map-pin",
         "color": "#6e6e6e",
         "value": {
-          "en": "Up to 1.5 m",
-          "hi": "1.5 मीटर तक"
+          "en": "9 trains",
+          "hi": "9 ट्रेनें"
         },
         "label": {
-          "en": "storm surge",
-          "hi": "समुद्री उछाल"
+          "en": "cancelled by railways",
+          "hi": "रेलवे ने रद्द कीं"
         }
       }
     ],
     "relatedBelow": [
+      "murasu-nine-trains-cancelled-vijayawada-families-relief-camps",
+      "cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert",
       "chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation"
     ],
     "relatedBeside": [
+      "us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve",
+      "gift-nifty-gap-up-134-points-kospi-slides-sbi-results-november-3",
       "wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle",
       "apple-record-september-quarter-114-5-billion-ternus",
-      "priyank-kharge-union-minister-ed-it-kumaraswamy-hits-back",
-      "ftse-100-closes-higher-bp-shell-fall-oil-castrol-sale-ibstock",
-      "oil-slump-deepens-brent-105-airlines-rally-iran-talks"
+      "priyank-kharge-union-minister-ed-it-kumaraswamy-hits-back"
     ],
     "live": {
       "title": {
@@ -85,14 +87,58 @@
   "briefing": {
     "items": [
       {
-        "link": "cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert",
+        "link": "murasu-crosses-andhra-coast-naguluppalapadu-198-mm-trees-down",
         "lead": {
           "en": "Cyclone:",
           "hi": "चक्रवात:"
         },
         "text": {
-          "en": "Murasu crossing Andhra coast near Ongole.",
-          "hi": "मुरासु ओंगोल के पास आंध्र तट पार कर रहा है।"
+          "en": "Murasu crosses Andhra coast, 198 mm rain.",
+          "hi": "मुरासु ने आंध्र तट पार किया, 198 मिमी बारिश।"
+        }
+      },
+      {
+        "link": "us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve",
+        "lead": {
+          "en": "Iran:",
+          "hi": "ईरान:"
+        },
+        "text": {
+          "en": "US strikes Qeshm Island; oil edges up.",
+          "hi": "अमेरिका का केश्म द्वीप पर हमला; तेल चढ़ा।"
+        }
+      },
+      {
+        "link": "gift-nifty-gap-up-134-points-kospi-slides-sbi-results-november-3",
+        "lead": {
+          "en": "Markets:",
+          "hi": "बाज़ार:"
+        },
+        "text": {
+          "en": "GIFT Nifty points to a higher open.",
+          "hi": "गिफ्ट निफ्टी से ऊंची शुरुआत के संकेत।"
+        }
+      },
+      {
+        "link": "murasu-nine-trains-cancelled-vijayawada-families-relief-camps",
+        "lead": {
+          "en": "Rail:",
+          "hi": "रेल:"
+        },
+        "text": {
+          "en": "Nine trains cancelled as Murasu hits Andhra.",
+          "hi": "मुरासु से आंध्र में नौ ट्रेनें रद्द।"
+        }
+      },
+      {
+        "link": "villarreal-psg-atletico-bayern-champions-league-tuesday-preview",
+        "lead": {
+          "en": "Football:",
+          "hi": "फ़ुटबॉल:"
+        },
+        "text": {
+          "en": "PSG at Villarreal heads Champions League night.",
+          "hi": "चैंपियंस लीग में पीएसजी का विलारियल से मुकाबला।"
         }
       },
       {
@@ -126,50 +172,6 @@
         "text": {
           "en": "Shapovalov retires, Khachanov goes through.",
           "hi": "शापोवालोव हटे, खाचानोव आगे।"
-        }
-      },
-      {
-        "link": "barry-everton-beat-newcastle-again-st-james-park",
-        "lead": {
-          "en": "Everton:",
-          "hi": "एवर्टन:"
-        },
-        "text": {
-          "en": "Win at Newcastle, second time in four days.",
-          "hi": "न्यूकैसल को चार दिन में दूसरी बार हराया।"
-        }
-      },
-      {
-        "link": "priyank-kharge-union-minister-ed-it-kumaraswamy-hits-back",
-        "lead": {
-          "en": "Karnataka:",
-          "hi": "कर्नाटक:"
-        },
-        "text": {
-          "en": "Priyank Kharge alleges ED, IT push; Kumaraswamy hits back.",
-          "hi": "प्रियांक खड़गे का ईडी, आईटी दबाव का आरोप; कुमारस्वामी का पलटवार।"
-        }
-      },
-      {
-        "link": "ftse-100-closes-higher-bp-shell-fall-oil-castrol-sale-ibstock",
-        "lead": {
-          "en": "London:",
-          "hi": "लंदन:"
-        },
-        "text": {
-          "en": "FTSE 100 ends higher, BP slides 4% as oil sinks.",
-          "hi": "एफ़टीएसई 100 बढ़त पर बंद, तेल गिरने से बीपी 4% फिसला।"
-        }
-      },
-      {
-        "link": "oil-slump-deepens-brent-105-airlines-rally-iran-talks",
-        "lead": {
-          "en": "Oil:",
-          "hi": "तेल:"
-        },
-        "text": {
-          "en": "Brent sinks over 6% to near $105; airline shares soar.",
-          "hi": "ब्रेंट 6% से ज़्यादा गिरकर क़रीब 105 डॉलर पर, एयरलाइन शेयर उछले।"
         }
       }
     ]
@@ -244,11 +246,11 @@
       ]
     },
     "list": [
-      "wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle",
-      "apple-record-september-quarter-114-5-billion-ternus",
-      "cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert",
-      "shapovalov-retires-khachanov-paris-masters-leading-4-1",
-      "priyank-kharge-union-minister-ed-it-kumaraswamy-hits-back"
+      "us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve",
+      "gift-nifty-gap-up-134-points-kospi-slides-sbi-results-november-3",
+      "murasu-nine-trains-cancelled-vijayawada-families-relief-camps",
+      "villarreal-psg-atletico-bayern-champions-league-tuesday-preview",
+      "wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle"
     ],
     "also": [
       "reliance-shares-jump-6-per-cent-q2-profit-o2c-jio",
@@ -448,19 +450,19 @@
         ]
       },
       "list": [
+        "gift-nifty-gap-up-134-points-kospi-slides-sbi-results-november-3",
         "wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle",
         "apple-record-september-quarter-114-5-billion-ternus",
-        "ftse-100-closes-higher-bp-shell-fall-oil-castrol-sale-ibstock",
-        "oil-slump-deepens-brent-105-airlines-rally-iran-talks"
+        "ftse-100-closes-higher-bp-shell-fall-oil-castrol-sale-ibstock"
       ]
     },
     {
       "section": "states",
-      "lead": "cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert",
+      "lead": "murasu-nine-trains-cancelled-vijayawada-families-relief-camps",
       "list": [
+        "cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert",
         "naidu-cyclone-murasu-review-cancels-delhi-visit",
-        "priyank-kharge-union-minister-ed-it-kumaraswamy-hits-back",
-        "keralam-satheesan-cancels-cliff-house-renovation-pwd-report"
+        "priyank-kharge-union-minister-ed-it-kumaraswamy-hits-back"
       ]
     },
     {
@@ -487,11 +489,11 @@
   "desks": [
     {
       "section": "world",
-      "lead": "kospi-turns-higher-samsung-sk-hynix-recover-chip-rout",
+      "lead": "us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve",
       "list": [
+        "kospi-turns-higher-samsung-sk-hynix-recover-chip-rout",
         "us-midterms-stevens-backs-rogers-alaska-sullivan-suit-dismissed",
-        "iran-war-footing-jalali-power-grid-islanding-treasury-oil",
-        "nepal-dolpa-indian-trekkers-located-helicopter-turned-back-rescue-monday"
+        "iran-war-footing-jalali-power-grid-islanding-treasury-oil"
       ]
     },
     {
@@ -507,10 +509,10 @@
       "section": "sports",
       "lead": "india-thrash-south-korea-8-0-asian-champions-trophy-jalandhar",
       "list": [
+        "villarreal-psg-atletico-bayern-champions-league-tuesday-preview",
         "shapovalov-retires-khachanov-paris-masters-leading-4-1",
         "barry-everton-beat-newcastle-again-st-james-park",
-        "ranji-round-four-day-two-preview-mumbai-railways-bengal-maharashtra",
-        "prema-rawat-14-ball-fifty-fastest-women-t20-uttarakhand-hyderabad"
+        "ranji-round-four-day-two-preview-mumbai-railways-bengal-maharashtra"
       ]
     }
   ],

@@ -82,7 +82,7 @@ That would extend Monday's rally, when the Sensex **jumped 1,233.25 points to 75
 The rest of Asia is in a gloomier mood. Seoul's Kospi **fell as much as 3.8%** in morning trade as selling in chip stocks, driven by worries over heavy spending on artificial intelligence, returned a day after the index rose 2.24%. Hong Kong's Hang Seng edged up 0.3% and Australian shares were slightly higher. Tokyo is closed for a public holiday.
 
 ```photo
-{"n":1,"subject":"Korea Exchange","caption":"The Korea Exchange in Seoul, where the Kospi slid in early trade on Tuesday as chipmakers were sold again.","alt":"The Korea Exchange building in Seoul (file photo)"}
+{"n":1,"subject":"Korea Exchange","caption":"The Korea Exchange, which runs the Kospi, at its Busan headquarters. The index slid in early trade on Tuesday as chipmakers were sold again.","alt":"The Korea Exchange headquarters in Busan (file photo)"}
 ```
 
 Overnight, Wall Street was split. The Dow closed 213.67 points higher at 51,983.98, while the Nasdaq **fell 1.07% to 25,164.32** as semiconductor shares slumped. Apple slipped about 3% in after-hours trade after forecasting lower gross margins for the holiday quarter because of rising memory-chip costs. Weakness in US technology shares may weigh on Indian IT companies.

@@ -56,16 +56,12 @@ verification:
 
 The cancellations cover short-haul passenger services that thousands of daily commuters depend on. Trains from Vijayawada to Gudur, Guntur to Tenali and Tenali to Repalle that were due to leave on Monday were called off, along with Tuesday's services from Gudur to Vijayawada, Tenali to Guntur, Repalle to Markapur and Markapur to Tenali. The **Vijayawada-Gudur Express pair**, 12744 and 12743, is cancelled in both directions.
 
-```photo
-{"n":1,"subject":"Waterlogged railway track Andhra Pradesh rain","caption":"Heavy rain over railway lines in central Andhra Pradesh, where South Coast Railway cancelled nine services for Cyclone Murasu.","alt":"Rain-soaked railway track in Andhra Pradesh"}
-```
-
 In Vijayawada, the NTR district administration moved several families living on the slopes of Mogalrajapuram **to relief camps** in case the rain sets off landslides. Collector Lakshmisha said there were no major problems in the district from the storm so far, and asked residents to stay indoors given the forecast of heavy to very heavy rain.
 
 The worry is well founded. "Red warnings have been issued to Krishna, Guntur, Bapatla, Palnadu, NTR, and Prakasam," said K Nagaratna, Director of the IMD in Andhra Pradesh. Fishermen have been told to **stay off the sea until Wednesday morning**.
 
 ```photo
-{"n":2,"subject":"Cyclone Murasu","caption":"Cyclone Murasu, which crossed the coast near Ongole between 3:30 am and 5:30 am and is moving inland.","alt":"Cyclone Murasu over Andhra Pradesh"}
+{"n":2,"subject":"Cyclone Murasu","caption":"A severe cyclone over the Bay of Bengal seen from space. Murasu crossed the coast near Ongole between 3:30 am and 5:30 am and is moving inland. File photo: Cyclone Mocha, 2023.","alt":"Cyclone Mocha over the Bay of Bengal in 2023, seen from space (file photo)"}
 ```
 
 Air travel is hit too. At least 19 domestic flights were cancelled at Vijayawada, Tirupati and Visakhapatnam airports, and Eluru district has shut schools, colleges and anganwadis for the day because of continuous rain.

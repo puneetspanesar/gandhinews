@@ -72,7 +72,7 @@ Further north, Mogalthur in West Godavari and Malikipuram in Konaseema each rece
 The damage visible so far is mostly **fallen trees and blocked roads**. In Prakasam, large trees came down across the Kondapi-Tanguturu road and on the Nidamanuru-Uppalapadu and Ongole-Nidamanuru roads. Trees were also uprooted in and around Chirala in Bapatla district. The Kollam-Visakhapatnam Express was reported to have been held at Singarayakonda station.
 
 ```photo
-{"n":1,"subject":"Cyclone uprooted trees Andhra Pradesh","caption":"Uprooted trees, the most common damage reported in Prakasam and Bapatla districts as Murasu crossed the coast.","alt":"Trees uprooted by a cyclone on a road in coastal Andhra Pradesh"}
+{"n":1,"subject":"Cyclone uprooted trees Andhra Pradesh","caption":"Uprooted trees were the most common damage reported in Prakasam and Bapatla districts as Murasu crossed the coast. File photo: a tree felled by Cyclone Fani in Odisha in 2019.","alt":"A tree brought down by Cyclone Fani in Odisha in 2019 (file photo)"}
 ```
 
 **No deaths had been reported** by early morning. That will be some relief to Chief Minister N Chandrababu Naidu, who had told officials to make sure "there is no loss of life", mindful of the lives lost when Cyclone Arnab hit the state days earlier. He asked people in the worst-hit areas to stay indoors until the storm had fully passed and told power staff to be ready to restore supply quickly.
@@ -82,7 +82,7 @@ The damage visible so far is mostly **fallen trees and blocked roads**. In Praka
 Fishermen have been told not to go to sea until Wednesday morning. Eluru district declared a holiday for schools, colleges and anganwadis on Tuesday because of the continuous rain, joining districts that had already shut schools. Over 2 lakh people were moved to safer places across Andhra Pradesh and Odisha before the storm arrived.
 
 ```photo
-{"n":2,"subject":"NDRF rescue Andhra Pradesh","caption":"National Disaster Response Force teams, 13 of which are posted in Andhra Pradesh for Cyclone Murasu.","alt":"NDRF personnel during cyclone relief work in Andhra Pradesh"}
+{"n":2,"subject":"NDRF rescue Andhra Pradesh","caption":"National Disaster Response Force teams, 13 of which are posted in Andhra Pradesh for Cyclone Murasu. File photo from earlier floods in Karnataka.","alt":"NDRF rescuers during floods in Karnataka (file photo)"}
 ```
 
 Residents have been asked to keep off waterlogged roads and away from fallen poles and trees. The state's helpline, 9552300009, and its Mana Mitra WhatsApp service are taking calls for help.
