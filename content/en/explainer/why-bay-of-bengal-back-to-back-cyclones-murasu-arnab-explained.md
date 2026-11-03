@@ -91,7 +91,7 @@ A cyclone does cool the sea behind it. Titli cooled the water along its track by
 **Not for this sea.** Of the roughly 80 tropical cyclones that form around the world each year, about five form in the north Indian Ocean, and most of those come from the Bay. Back-to-back storms in the same season are a familiar pattern for coastal Andhra Pradesh, Odisha and Tamil Nadu. What makes this fortnight hard is that Murasu struck a state still clearing up after Arnab, with fields already flooded and power lines already down.
 
 ```photo
-{"n":2,"subject":"NDRF rescue Andhra Pradesh cyclone","caption":"National Disaster Response Force teams, 13 of which were posted in Andhra Pradesh as Murasu came ashore.","alt":"NDRF rescue workers during a cyclone in Andhra Pradesh"}
+{"n":2,"subject":"NDRF rescue Andhra Pradesh cyclone","caption":"File photo: NDRF rescuers moving people by boat during floods in Bihar. Thirteen NDRF teams were posted in Andhra Pradesh as Murasu came ashore.","alt":"NDRF rescuers with a rescue boat during floods in Bihar (file photo)"}
 ```
 
 ## Could there be more?

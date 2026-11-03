@@ -88,10 +88,6 @@ In August 2013, a cooling tower being built at the same refinery exploded after 
 
 The belt around the refinery has a harder record still. In May 2020, styrene vapour escaped from an old storage tank at LG Polymers and **killed 12 people** in the villages nearby. The committee that investigated found that the company had ignored warning signs for a month and treated a rising chemical reading as a quality problem rather than a safety one. In August 2024, an explosion at the Escientia pharmaceutical plant at Atchutapuram, in neighbouring Anakapalli district, killed at least 17 workers.
 
-```photo
-{"n":1,"subject":"LG Polymers Visakhapatnam","caption":"The LG Polymers plant at Venkatapuram in Visakhapatnam, where a styrene leak killed 12 people in May 2020 after warning signs were ignored.","alt":"The LG Polymers plant in Visakhapatnam"}
-```
-
 Each disaster was followed by an inquiry. What people living next to these plants seldom get is a plain account of what went wrong and what was changed.
 
 ## The fair objection

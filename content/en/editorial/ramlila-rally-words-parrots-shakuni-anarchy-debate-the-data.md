@@ -93,10 +93,6 @@ The opposition's grievance is real in its shape, whatever one thinks of its size
 
 The BJP's sharpest reply was also its fairest. Patra pointed out that if the 2024 election was stolen, the place to say so is a court, and asked whether anyone had filed a single petition. He noted, correctly, that **Gyanesh Kumar was not CEC in 2024**; he took charge in 2025. Rahul Gandhi's claim that without Kumar "neither Narendra Modi would have become Prime Minister nor Amit Shah would have become Home Minister" does not survive that date.
 
-```photo
-{"n":1,"subject":"Sambit Patra","caption":"BJP spokesperson Sambit Patra, who asked the opposition on Sunday evening to take its charge of a stolen election to court.","alt":"BJP national spokesperson Sambit Patra"}
-```
-
 ## Where both go too far
 
 Calling an elected government a "government of theft", and an election commissioner a puppet, before showing a single wrongful deletion in a named booth, asks voters to take a very large claim on trust. Calling the country's main opposition parties agents of **unnamed "foreign powers"**, with no evidence offered, is worse: it turns a disagreement about voter lists into a question of loyalty. Neither helps a woman in Pilibhit or in Bengal find out whether she can vote.
