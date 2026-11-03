@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-03T06:30:00+05:30",
+  "as_of": "2026-11-03T09:12:00+05:30",
   "status": "closed",
   "session_date": "2026-11-02",
   "chart": "nifty-50",
@@ -218,12 +218,12 @@
       "id": "usd-inr",
       "name": "Rupee per dollar",
       "name_hi": "रुपया प्रति डॉलर",
-      "value": 94.86,
-      "change": 0.1,
-      "pct": 0.11,
+      "value": 94.69,
+      "change": -0.21,
+      "pct": -0.22,
       "decimals": 2,
       "unit": "",
-      "source": "PTI via Deccan Herald and HDFC Sky, 2 Nov close (rupee down 10 paise at 94.86): https://www.deccanherald.com/business/markets/rupee-falls-10-paise-to-close-at-9486-against-us-dollar-4204287"
+      "source": "Business Standard live blog, 3 Nov 09:02 IST (Bloomberg): rupee opened 21 paise stronger at 94.69 vs Monday's close of 94.90; change is against that 94.90 reference: https://www.business-standard.com/markets/news/stock-market-live-november-3-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126110300101_1.html"
     },
     {
       "id": "brent",
@@ -328,6 +328,7 @@
     "2 Nov 22:00 IST run: Brent was reported more than 6% lower near $105 in New York trade, but no exact time-stamped settle or print was found in a readable source, so Brent keeps the 19:56 IST reading. Other values unchanged since the close.",
     "3 Nov 00:00 IST run: Brent refreshed to $105.09 from the Alliance News London close report (22:34 IST); change is against the same previous reference the file used ($113.43). Not a settle. Indian indices, rupee, flows unchanged since the 2 Nov close.",
     "3 Nov 06:00 IST run: Brent updated to the 2 Nov settle $104.77 (-7.6%, STL.News); change against the file's previous reference ($113.43). Indian markets closed overnight; Indian indices, rupee, gold, silver, flows unchanged since the 2 Nov close.",
-    "3 Nov 08:00 IST run: before the open. No newer settle for Brent or gold (Brent traded near $104.4 in Asia at 08:00 IST per Business Standard, not a settle). GIFT Nifty at 23,537 (+134) at about 07:56 IST points to a higher open. All values unchanged since the 2 Nov close."
+    "3 Nov 08:00 IST run: before the open. No newer settle for Brent or gold (Brent traded near $104.4 in Asia at 08:00 IST per Business Standard, not a settle). GIFT Nifty at 23,537 (+134) at about 07:56 IST points to a higher open. All values unchanged since the 2 Nov close.",
+    "3 Nov 09:12 IST run (pre-open): rupee opened at 94.69, 21 paise stronger vs a 94.90 Monday close (Bloomberg via Business Standard, 09:02 IST; PTI had the close at 94.86). Pre-open indications only, not trading values: Sensex 76,287 (+594, +0.79%) at 09:07 and Nifty 50 23,579 (+142, +0.60%) at 09:08; GIFT Nifty 23,525.50 (+123, +0.53%) at 08:36 (all Business Standard). Indices stay at the 2 Nov close with status closed until the 09:15 open. Brent keeps the 2 Nov settle $104.77 (Asia quotes: $104.41 at 08:24 IST per Business Standard; Trading Economics CFD $104.74, neither a settle). Gold and silver keep earlier MCX levels (only % moves, no prices, were found); 10-year G-sec yield not refreshed (source page could not be read)."
   ]
 }
