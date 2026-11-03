@@ -29,7 +29,6 @@ cover:
   label: "ईरान युद्ध"
   headline: "अमेरिका ने ईरान के केश्म द्वीप पर हमला किया"
   bg: "Qeshm Island"
-  inset: "Strait of Hormuz"
   people: ["Donald Trump"]
 sources:
   - title: "U.S. struck Iran's Qeshm island, WSJ reports"

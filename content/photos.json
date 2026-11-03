@@ -44037,26 +44037,26 @@
   "page": "https://commons.wikimedia.org/wiki/File:QeshmIsland_NASA.jpg"
  },
  {
-  "id": "cx-us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve-1",
+  "id": "cx-us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve-t",
   "articleId": "part:us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve:1",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Locatie_Straat_van_Hormuz_%282026%29.png",
-  "credit": "Michiel1972",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg/1600px-January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg",
+  "credit": "Daniel Torok",
   "licence": "Public domain",
   "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Locatie_Straat_van_Hormuz_(2026).png"
+  "page": "https://commons.wikimedia.org/wiki/File:January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg"
  },
  {
   "id": "x-us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve",
   "articleId": "us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/QeshmIsland_NASA.jpg/1600px-QeshmIsland_NASA.jpg",
-  "credit": "Photos: NASA image using data provided courtesy of the University of Maryland’s Global Land Cover Facility / Wikimedia Commons; Michiel1972 / Wikimedia Commons",
+  "credit": "Photos: Daniel Torok / Wikimedia Commons; NASA / Wikimedia Commons",
   "licence": "Public domain",
-  "alt": "Qeshm Island in the Strait of Hormuz (file photo)",
-  "alt_hi": "होर्मुज जलडमरूमध्य में केश्म द्वीप (फाइल फोटो) (फ़ाइल फ़ोटो)",
+  "alt": "US President Donald Trump and Iran's Qeshm Island in the Strait of Hormuz (file photos)",
+  "alt_hi": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और होर्मुज़ जलडमरूमध्य में ईरान का केश्म द्वीप (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:QeshmIsland_NASA.jpg",
   "composite": [
-   "cx-us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve-0",
-   "cx-us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve-1"
+   "cx-us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve-t",
+   "cx-us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve-0"
   ]
  },
  {
@@ -44101,28 +44101,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:Donald_Trump_(53299882370)_cropped.png",
   "composite": [
    "cx-us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve--c-0"
-  ]
- },
- {
-  "id": "cx-us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve--in-0",
-  "articleId": "part:us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve--in:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Strait_of_Hormuz_ARZ.png/1600px-Strait_of_Hormuz_ARZ.png",
-  "credit": "Almajidy",
-  "licence": "CC BY-SA 4.0",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Strait_of_Hormuz_ARZ.png"
- },
- {
-  "id": "x-us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve--in",
-  "articleId": "us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve--in",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Strait_of_Hormuz_ARZ.png/1600px-Strait_of_Hormuz_ARZ.png",
-  "credit": "Photo: Almajidy / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Strait of Hormuz (file photo)",
-  "alt_hi": "Strait of Hormuz (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Strait_of_Hormuz_ARZ.png",
-  "composite": [
-   "cx-us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve--in-0"
   ]
  },
  {

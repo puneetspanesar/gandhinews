@@ -28,7 +28,6 @@ cover:
   label: "Iran war"
   headline: "US strikes Iran's Qeshm Island"
   bg: "Qeshm Island"
-  inset: "Strait of Hormuz"
   people: ["Donald Trump"]
 sources:
   - title: "U.S. struck Iran's Qeshm island, WSJ reports"
