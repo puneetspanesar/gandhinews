@@ -1,469 +1,472 @@
 {
-  "lead": {
-    "id": "smriti-irani-rahul-prince-perpetual-waiting-56-polls-sir",
-    "overlay": {
-      "kicker": {
-        "en": "Politics / BJP vs Congress",
-        "hi": "राजनीति / भाजपा बनाम कांग्रेस"
-      },
-      "value": {
-        "en": "'Prince in perpetual waiting'",
-        "hi": "'हमेशा इंतजार में बैठे युवराज'"
-      },
-      "text": {
-        "en": "",
-        "hi": ""
-      }
-    },
-    "dataBox": [],
-    "relatedBelow": [
-      "bjp-gaurav-bhatia-opposition-anarchic-model-sting-rahul"
-    ],
-    "relatedBeside": [
-      "sanjay-shirsat-dia-mirza-loudspeakers-video-row",
-      "apple-app-store-18-plus-dating-ai-companion-apps",
-      "ncp-devgiri-meeting-bhujbal-288-seats-sunetra-finance-shah",
-      "mcx-q2-profit-454-crore-revenue-doubles",
-      "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip"
-    ],
-    "live": {
-      "title": {
-        "en": "Politics",
-        "hi": "राजनीति"
-      }
-    }
+ "lead": {
+  "id": "smriti-irani-rahul-prince-perpetual-waiting-56-polls-sir",
+  "overlay": {
+   "kicker": {
+    "en": "Politics / BJP vs Congress",
+    "hi": "राजनीति / भाजपा बनाम कांग्रेस"
+   },
+   "value": {
+    "en": "'Prince in perpetual waiting'",
+    "hi": "'हमेशा इंतजार में बैठे युवराज'"
+   },
+   "text": {
+    "en": "",
+    "hi": ""
+   }
   },
-  "briefing": {
-    "items": [
-      {
-        "link": "sanjay-shirsat-dia-mirza-loudspeakers-video-row",
-        "lead": {
-          "en": "States:",
-          "hi": "राज्य:"
-        },
-        "text": {
-          "en": "Dia Mirza should make a video on loudspeakers too, says Maharashtra minister Sanjay Shirsat",
-          "hi": "दीया मिर्जा लाउडस्पीकर पर भी वीडियो बनाएं: महाराष्ट्र के मंत्री संजय शिरसाट"
-        }
-      },
-      {
-        "link": "apple-app-store-18-plus-dating-ai-companion-apps",
-        "lead": {
-          "en": "Apps:",
-          "hi": "ऐप:"
-        },
-        "text": {
-          "en": "Apple makes dating apps 18+ on the App Store, tightens rules for AI companions",
-          "hi": "ऐप्पल ने ऐप स्टोर पर डेटिंग ऐप 18+ किए, एआई साथी ऐप पर भी सख्ती"
-        }
-      },
-      {
-        "link": "ncp-devgiri-meeting-bhujbal-288-seats-sunetra-finance-shah",
-        "lead": {
-          "en": "Maharashtra:",
-          "hi": "महाराष्ट्र:"
-        },
-        "text": {
-          "en": "NCP meeting turns on BJP as Bhujbal says prepare for all 288 seats",
-          "hi": "राकांपा बैठक में भाजपा पर निशाना, भुजबल बोले: सभी 288 सीटों की तैयारी करें"
-        }
-      },
-      {
-        "link": "mcx-q2-profit-454-crore-revenue-doubles",
-        "lead": {
-          "en": "Companies:",
-          "hi": "कंपनियां:"
-        },
-        "text": {
-          "en": "MCX profit more than doubles to ₹454.6 crore as revenue jumps",
-          "hi": "MCX का मुनाफा दोगुने से ज्यादा, ₹454.6 करोड़ पहुंचा"
-        }
-      },
-      {
-        "link": "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip",
-        "lead": {
-          "en": "Education:",
-          "hi": "शिक्षा:"
-        },
-        "text": {
-          "en": "QS Asia rankings: IIT Delhi stays India's best at 66th as most Indian universities slip",
-          "hi": "क्यूएस एशिया रैंकिंग: आईआईटी दिल्ली 66वें स्थान पर भी देश में अव्वल, ज़्यादातर भारतीय विश्वविद्यालय फिसले"
-        }
-      },
-      {
-        "link": "sudhakar-dalela-arrives-kathmandu-india-ambassador-nepal",
-        "lead": {
-          "en": "Nepal:",
-          "hi": "नेपाल:"
-        },
-        "text": {
-          "en": "New Indian ambassador Sudhakar Dalela lands in Kathmandu a day before Misri's visit",
-          "hi": "मिसरी के दौरे से एक दिन पहले नए भारतीय राजदूत सुधाकर दलेला काठमांडू पहुंचे"
-        }
-      },
-      {
-        "link": "urvil-patel-210-pradosh-paul-208-ranji-round-four-day-two",
-        "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
-        },
-        "text": {
-          "en": "Urvil Patel's maiden double hundred leads a day of 200s in the Ranji Trophy",
-          "hi": "उर्विल पटेल का पहला दोहरा शतक, रणजी ट्रॉफी में दोहरे शतकों का दिन"
-        }
-      },
-      {
-        "link": "navy-marcos-free-hijacked-fishing-vessel-azini-somalia-20-crew",
-        "lead": {
-          "en": "Navy:",
-          "hi": "नौसेना:"
-        },
-        "text": {
-          "en": "Navy commandos free hijacked fishing vessel off Somalia, all 20 crew safe",
-          "hi": "सोमालिया के पास नौसेना कमांडो ने अगवा जहाज़ छुड़ाया, सभी 20 क्रू सुरक्षित"
-        }
-      }
+  "dataBox": [],
+  "relatedBelow": [
+   "sc-uk-divorce-decree-no-shield-bigamy-andhra-husband",
+   "telangana-roll-revision-must-not-erase-voters-quietly",
+   "what-india-bloc-supreme-court-petition-on-sir-asks-for",
+   "bjp-gaurav-bhatia-opposition-anarchic-model-sting-rahul"
+  ],
+  "relatedBeside": [
+   "navy-marcos-free-hijacked-fishing-vessel-azini-somalia-20-crew",
+   "apple-app-store-18-plus-dating-ai-companion-apps",
+   "ncp-devgiri-meeting-bhujbal-288-seats-sunetra-finance-shah",
+   "mcx-q2-profit-454-crore-revenue-doubles",
+   "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip"
+  ],
+  "live": {
+   "title": {
+    "en": "Politics",
+    "hi": "राजनीति"
+   }
+  }
+ },
+ "briefing": {
+  "items": [
+   {
+    "link": "sanjay-shirsat-dia-mirza-loudspeakers-video-row",
+    "lead": {
+     "en": "States:",
+     "hi": "राज्य:"
+    },
+    "text": {
+     "en": "Dia Mirza should make a video on loudspeakers too, says Maharashtra minister Sanjay Shirsat",
+     "hi": "दीया मिर्जा लाउडस्पीकर पर भी वीडियो बनाएं: महाराष्ट्र के मंत्री संजय शिरसाट"
+    }
+   },
+   {
+    "link": "apple-app-store-18-plus-dating-ai-companion-apps",
+    "lead": {
+     "en": "Apps:",
+     "hi": "ऐप:"
+    },
+    "text": {
+     "en": "Apple makes dating apps 18+ on the App Store, tightens rules for AI companions",
+     "hi": "ऐप्पल ने ऐप स्टोर पर डेटिंग ऐप 18+ किए, एआई साथी ऐप पर भी सख्ती"
+    }
+   },
+   {
+    "link": "ncp-devgiri-meeting-bhujbal-288-seats-sunetra-finance-shah",
+    "lead": {
+     "en": "Maharashtra:",
+     "hi": "महाराष्ट्र:"
+    },
+    "text": {
+     "en": "NCP meeting turns on BJP as Bhujbal says prepare for all 288 seats",
+     "hi": "राकांपा बैठक में भाजपा पर निशाना, भुजबल बोले: सभी 288 सीटों की तैयारी करें"
+    }
+   },
+   {
+    "link": "mcx-q2-profit-454-crore-revenue-doubles",
+    "lead": {
+     "en": "Companies:",
+     "hi": "कंपनियां:"
+    },
+    "text": {
+     "en": "MCX profit more than doubles to ₹454.6 crore as revenue jumps",
+     "hi": "MCX का मुनाफा दोगुने से ज्यादा, ₹454.6 करोड़ पहुंचा"
+    }
+   },
+   {
+    "link": "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip",
+    "lead": {
+     "en": "Education:",
+     "hi": "शिक्षा:"
+    },
+    "text": {
+     "en": "QS Asia rankings: IIT Delhi stays India's best at 66th as most Indian universities slip",
+     "hi": "क्यूएस एशिया रैंकिंग: आईआईटी दिल्ली 66वें स्थान पर भी देश में अव्वल, ज़्यादातर भारतीय विश्वविद्यालय फिसले"
+    }
+   },
+   {
+    "link": "sudhakar-dalela-arrives-kathmandu-india-ambassador-nepal",
+    "lead": {
+     "en": "Nepal:",
+     "hi": "नेपाल:"
+    },
+    "text": {
+     "en": "New Indian ambassador Sudhakar Dalela lands in Kathmandu a day before Misri's visit",
+     "hi": "मिसरी के दौरे से एक दिन पहले नए भारतीय राजदूत सुधाकर दलेला काठमांडू पहुंचे"
+    }
+   },
+   {
+    "link": "urvil-patel-210-pradosh-paul-208-ranji-round-four-day-two",
+    "lead": {
+     "en": "Cricket:",
+     "hi": "क्रिकेट:"
+    },
+    "text": {
+     "en": "Urvil Patel's maiden double hundred leads a day of 200s in the Ranji Trophy",
+     "hi": "उर्विल पटेल का पहला दोहरा शतक, रणजी ट्रॉफी में दोहरे शतकों का दिन"
+    }
+   },
+   {
+    "link": "sc-uk-divorce-decree-no-shield-bigamy-andhra-husband",
+    "lead": {
+     "en": "Courts:",
+     "hi": "अदालत:"
+    },
+    "text": {
+     "en": "UK divorce and British citizenship no shield from bigamy case, Supreme Court rules",
+     "hi": "ब्रिटेन का तलाक और नागरिकता बहुविवाह के मुकदमे से नहीं बचा सकते: सुप्रीम कोर्ट"
+    }
+   }
+  ]
+ },
+ "numbers": {
+  "tracker": "economy-dashboard",
+  "items": [
+   {
+    "indicator": "gdp-growth",
+    "icon": "trend-up",
+    "label": {
+     "en": "GDP growth",
+     "hi": "जीडीपी वृद्धि"
+    },
+    "decimals": 1
+   },
+   {
+    "indicator": "cpi-inflation",
+    "icon": "shopping-cart",
+    "highlight": true,
+    "label": {
+     "en": "CPI inflation",
+     "hi": "सीपीआई महंगाई"
+    },
+    "decimals": 2
+   },
+   {
+    "indicator": "unemployment",
+    "icon": "briefcase",
+    "label": {
+     "en": "Unemployment",
+     "hi": "बेरोज़गारी"
+    },
+    "decimals": 1
+   },
+   {
+    "indicator": "iip-growth",
+    "icon": "factory",
+    "label": {
+     "en": "IIP growth",
+     "hi": "आईआईपी वृद्धि"
+    },
+    "decimals": 1
+   },
+   {
+    "indicator": "repo-rate",
+    "icon": "bank",
+    "decimals": 2,
+    "label": {
+     "en": "Repo rate",
+     "hi": "रेपो रेट"
+    }
+   },
+   {
+    "indicator": "fiscal-deficit-pct-be",
+    "icon": "chart-bar",
+    "highlight": true,
+    "label": {
+     "en": "Fiscal deficit used",
+     "hi": "राजकोषीय घाटा (बजट का)"
+    },
+    "decimals": 1
+   }
+  ]
+ },
+ "topStories": {
+  "big": {
+   "id": "sudhakar-dalela-arrives-kathmandu-india-ambassador-nepal",
+   "also": []
+  },
+  "list": [
+   "urvil-patel-210-pradosh-paul-208-ranji-round-four-day-two",
+   "aditya-l1-velc-asymmetric-cme-expansion-iia",
+   "sanjay-shirsat-dia-mirza-loudspeakers-video-row",
+   "goa-supreme-court-st-seat-reservation-hc-stay-sawaikar",
+   "supreme-court-hawara-transfer-punjab-ib-elections-february"
+  ],
+  "also": [
+   "food-inflation-weak-monsoon-sugar-poultry-milk-prices",
+   "bpcl-buys-us-wti-crude-1-million-barrels-mumbai-december"
+  ]
+ },
+ "startHere": [
+  "goa-st-seat-reservation-explained-supreme-court",
+  "qeshm-island-explained-why-us-strike-hormuz-matters-india",
+  "iran-qatar-draft-proposal-explained-oil-prices-india-import-bill",
+  "why-bay-of-bengal-back-to-back-cyclones-murasu-arnab-explained",
+  "refining-margins-explained-why-reliance-profit-jumped-hormuz",
+  "green-crackers-explained-what-makes-a-cracker-green-delhi-diwali"
+ ],
+ "trackers": [
+  {
+   "id": "bills-in-parliament-tracker",
+   "title": {
+    "en": "Bills in Parliament",
+    "hi": "संसद में विधेयक"
+   }
+  },
+  {
+   "id": "economy-dashboard",
+   "title": {
+    "en": "Economy dashboard",
+    "hi": "अर्थव्यवस्था डैशबोर्ड"
+   }
+  },
+  {
+   "id": "election-calendar",
+   "title": {
+    "en": "Election calendar",
+    "hi": "चुनाव कैलेंडर"
+   }
+  },
+  {
+   "id": "budget-2026-27-promise-tracker",
+   "title": {
+    "en": "Budget promises",
+    "hi": "बजट के वादे"
+   }
+  },
+  {
+   "id": "sc-cases-tracker",
+   "title": {
+    "en": "Big Supreme Court cases",
+    "hi": "सुप्रीम कोर्ट के बड़े मामले"
+   }
+  }
+ ],
+ "dataDesk": {
+  "map": {
+   "tracker": "election-calendar",
+   "topic": "elections-2027",
+   "kicker": {
+    "en": "Elections 2027",
+    "hi": "चुनाव 2027"
+   },
+   "title": {
+    "en": "{n} states vote in 2027",
+    "hi": "2027 में {n} राज्यों में चुनाव"
+   },
+   "text": {
+    "en": "Five assemblies are expected to vote in February and March, Himachal Pradesh and Gujarat late in the year. No schedule has been announced. The President's term ends in July 2027.",
+    "hi": "पांच विधानसभाओं के चुनाव फरवरी और मार्च में होने की उम्मीद है, हिमाचल प्रदेश और गुजरात के साल के आखिर में। अभी कोई कार्यक्रम घोषित नहीं हुआ है। राष्ट्रपति का कार्यकाल जुलाई 2027 में खत्म होता है।"
+   }
+  },
+  "parliament": {
+   "tracker": "bills-in-parliament-tracker",
+   "session": "monsoon-2026",
+   "bills": [
+    "fcra-amendment-2026",
+    "indian-statistical-institute-2026",
+    "supreme-court-number-of-judges-amendment-2026",
+    "mmdr-amendment-2026",
+    "kerala-alteration-of-name-2026"
+   ]
+  }
+ },
+ "factCheck": {
+  "cards": [
+   "jairam-ramesh-upi-charges-above-2000-claim",
+   "kejriwal-e20-trump-pressure-ethanol-claim",
+   "ai-brics-selfie-modi-putin-xi-raisi"
+  ]
+ },
+ "explained": [
+  {
+   "id": "imf-world-economic-outlook-explained-india-rbi",
+   "kn": [
+    {
+     "value": {
+      "en": "7%",
+      "hi": "7%"
+     },
+     "label": {
+      "en": "IMF forecast for India, this year",
+      "hi": "इस साल भारत के लिए आईएमएफ का अनुमान"
+     }
+    },
+    {
+     "value": {
+      "en": "7.1%",
+      "hi": "7.1%"
+     },
+     "label": {
+      "en": "RBI's own forecast",
+      "hi": "आरबीआई का अपना अनुमान"
+     }
+    }
+   ]
+  },
+  {
+   "id": "wpi-vs-cpi-explained-wholesale-retail-inflation",
+   "kn": [
+    {
+     "value": {
+      "en": "11.39%",
+      "hi": "11.39%"
+     },
+     "label": {
+      "en": "wholesale inflation, September",
+      "hi": "थोक महंगाई, सितंबर"
+     }
+    },
+    {
+     "value": {
+      "en": "5.54%",
+      "hi": "5.54%"
+     },
+     "label": {
+      "en": "retail inflation, September",
+      "hi": "खुदरा महंगाई, सितंबर"
+     }
+    }
+   ]
+  },
+  {
+   "id": "repo-rate-and-your-emi-explained",
+   "kn": [
+    {
+     "value": {
+      "en": "₹781",
+      "hi": "₹781"
+     },
+     "label": {
+      "en": "extra EMI a month, ₹50 lakh loan",
+      "hi": "₹50 लाख के लोन पर हर महीने ज़्यादा ईएमआई"
+     }
+    },
+    {
+     "value": {
+      "en": "₹1.87 lakh",
+      "hi": "₹1.87 लाख"
+     },
+     "label": {
+      "en": "extra over 20 years",
+      "hi": "20 साल में ज़्यादा भुगतान"
+     }
+    }
+   ]
+  }
+ ],
+ "opinion": [
+  "ramlila-rally-words-parrots-shakuni-anarchy-debate-the-data",
+  "vizag-refinery-fire-was-contained-the-belt-needs-public-safety-audits",
+  "neet-pg-candidates-deserve-to-see-their-question-papers",
+  "green-crackers-order-needs-enforcement-not-another-diwali-gamble",
+  "two-cyclones-in-a-week-andhra-odisha-need-relief-that-keeps-pace"
+ ],
+ "sections": [
+  {
+   "section": "politics",
+   "module": {
+    "type": "bypolls",
+    "article": "bypoll-results-ruling-parties-win-all-six-seats"
+   },
+   "list": [
+    "ncp-devgiri-meeting-bhujbal-288-seats-sunetra-finance-shah",
+    "smriti-irani-rahul-prince-perpetual-waiting-56-polls-sir",
+    "sc-uk-divorce-decree-no-shield-bigamy-andhra-husband"
+   ],
+   "lead": "sanjay-shirsat-dia-mirza-loudspeakers-video-row"
+  },
+  {
+   "section": "economy",
+   "lead": "mcx-q2-profit-454-crore-revenue-doubles",
+   "module": {
+    "type": "markets",
+    "indicators": [
+     "sensex",
+     "nifty-50",
+     "usd-inr",
+     "forex-reserves"
     ]
+   },
+   "list": [
+    "nse-q2-profit-23-per-cent-2578-crore-coal-exchange-stake",
+    "sensex-1225-points-nifty-23811-fourth-day-rally-november-3",
+    "food-inflation-weak-monsoon-sugar-poultry-milk-prices",
+    "bpcl-buys-us-wti-crude-1-million-barrels-mumbai-december"
+   ]
   },
-  "numbers": {
-    "tracker": "economy-dashboard",
-    "items": [
-      {
-        "indicator": "gdp-growth",
-        "icon": "trend-up",
-        "label": {
-          "en": "GDP growth",
-          "hi": "जीडीपी वृद्धि"
-        },
-        "decimals": 1
-      },
-      {
-        "indicator": "cpi-inflation",
-        "icon": "shopping-cart",
-        "highlight": true,
-        "label": {
-          "en": "CPI inflation",
-          "hi": "सीपीआई महंगाई"
-        },
-        "decimals": 2
-      },
-      {
-        "indicator": "unemployment",
-        "icon": "briefcase",
-        "label": {
-          "en": "Unemployment",
-          "hi": "बेरोज़गारी"
-        },
-        "decimals": 1
-      },
-      {
-        "indicator": "iip-growth",
-        "icon": "factory",
-        "label": {
-          "en": "IIP growth",
-          "hi": "आईआईपी वृद्धि"
-        },
-        "decimals": 1
-      },
-      {
-        "indicator": "repo-rate",
-        "icon": "bank",
-        "decimals": 2,
-        "label": {
-          "en": "Repo rate",
-          "hi": "रेपो रेट"
-        }
-      },
-      {
-        "indicator": "fiscal-deficit-pct-be",
-        "icon": "chart-bar",
-        "highlight": true,
-        "label": {
-          "en": "Fiscal deficit used",
-          "hi": "राजकोषीय घाटा (बजट का)"
-        },
-        "decimals": 1
-      }
-    ]
+  {
+   "section": "states",
+   "lead": "goa-supreme-court-st-seat-reservation-hc-stay-sawaikar",
+   "list": [
+    "delhi-aqi-331-jahangirpuri-499-grap-stage-two",
+    "brothers-arrested-cheetah-shot-dead-madhya-pradesh",
+    "murasu-nine-trains-cancelled-vijayawada-families-relief-camps",
+    "murasu-crosses-andhra-coast-naguluppalapadu-198-mm-trees-down"
+   ]
   },
-  "topStories": {
-    "big": {
-      "id": "sudhakar-dalela-arrives-kathmandu-india-ambassador-nepal",
-      "also": []
-    },
-    "list": [
-      "urvil-patel-210-pradosh-paul-208-ranji-round-four-day-two",
-      "navy-marcos-free-hijacked-fishing-vessel-azini-somalia-20-crew",
-      "sc-uk-divorce-decree-no-shield-bigamy-andhra-husband",
-      "goa-supreme-court-st-seat-reservation-hc-stay-sawaikar",
-      "supreme-court-hawara-transfer-punjab-ib-elections-february"
-    ],
-    "also": [
-      "bjp-gaurav-bhatia-opposition-anarchic-model-sting-rahul",
-      "priyank-kharge-union-minister-ed-it-kumaraswamy-hits-back"
-    ]
+  {
+   "section": "policy",
+   "lead": "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip",
+   "list": [
+    "sitharaman-tata-critical-component-settle-amicably-investors",
+    "supreme-court-green-crackers-delhi-ncr-diwali-november-7-8",
+    "modi-inaugurate-bharat-renewable-energy-summit-bharat-mandapam-preview",
+    "vande-bharat-sleeper-bengaluru-mumbai-vaishnaw-flags-off-today"
+   ]
   },
-  "startHere": [
-    "goa-st-seat-reservation-explained-supreme-court",
-    "qeshm-island-explained-why-us-strike-hormuz-matters-india",
-    "iran-qatar-draft-proposal-explained-oil-prices-india-import-bill",
-    "why-bay-of-bengal-back-to-back-cyclones-murasu-arnab-explained",
-    "refining-margins-explained-why-reliance-profit-jumped-hormuz",
-    "green-crackers-explained-what-makes-a-cracker-green-delhi-diwali"
-  ],
-  "trackers": [
-    {
-      "id": "bills-in-parliament-tracker",
-      "title": {
-        "en": "Bills in Parliament",
-        "hi": "संसद में विधेयक"
-      }
-    },
-    {
-      "id": "economy-dashboard",
-      "title": {
-        "en": "Economy dashboard",
-        "hi": "अर्थव्यवस्था डैशबोर्ड"
-      }
-    },
-    {
-      "id": "election-calendar",
-      "title": {
-        "en": "Election calendar",
-        "hi": "चुनाव कैलेंडर"
-      }
-    },
-    {
-      "id": "budget-2026-27-promise-tracker",
-      "title": {
-        "en": "Budget promises",
-        "hi": "बजट के वादे"
-      }
-    },
-    {
-      "id": "sc-cases-tracker",
-      "title": {
-        "en": "Big Supreme Court cases",
-        "hi": "सुप्रीम कोर्ट के बड़े मामले"
-      }
-    }
-  ],
-  "dataDesk": {
-    "map": {
-      "tracker": "election-calendar",
-      "topic": "elections-2027",
-      "kicker": {
-        "en": "Elections 2027",
-        "hi": "चुनाव 2027"
-      },
-      "title": {
-        "en": "{n} states vote in 2027",
-        "hi": "2027 में {n} राज्यों में चुनाव"
-      },
-      "text": {
-        "en": "Five assemblies are expected to vote in February and March, Himachal Pradesh and Gujarat late in the year. No schedule has been announced. The President's term ends in July 2027.",
-        "hi": "पांच विधानसभाओं के चुनाव फरवरी और मार्च में होने की उम्मीद है, हिमाचल प्रदेश और गुजरात के साल के आखिर में। अभी कोई कार्यक्रम घोषित नहीं हुआ है। राष्ट्रपति का कार्यकाल जुलाई 2027 में खत्म होता है।"
-      }
-    },
-    "parliament": {
-      "tracker": "bills-in-parliament-tracker",
-      "session": "monsoon-2026",
-      "bills": [
-        "fcra-amendment-2026",
-        "indian-statistical-institute-2026",
-        "supreme-court-number-of-judges-amendment-2026",
-        "mmdr-amendment-2026",
-        "kerala-alteration-of-name-2026"
-      ]
-    }
+  {
+   "section": "parliament",
+   "module": {
+    "type": "session",
+    "session": "monsoon-2026"
+   },
+   "list": [
+    "birla-sameh-shoukry-brics-parliamentary-forum-opens-monday",
+    "brics-parliamentary-forum-delhi-special-session-talk",
+    "finance-ministry-idbi-2003-parliament-assurance-not-binding"
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "section": "world",
+   "lead": "sudhakar-dalela-arrives-kathmandu-india-ambassador-nepal",
+   "list": [
+    "navy-marcos-free-hijacked-fishing-vessel-azini-somalia-20-crew",
+    "us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve",
+    "komyshuvakha-aid-centre-strike-26-killed-zelenskyy-us-pressure",
+    "supreme-court-rejects-trump-california-ballots-midterms-eve"
+   ]
   },
-  "factCheck": {
-    "cards": [
-      "jairam-ramesh-upi-charges-above-2000-claim",
-      "kejriwal-e20-trump-pressure-ethanol-claim",
-      "ai-brics-selfie-modi-putin-xi-raisi"
-    ]
+  {
+   "section": "science",
+   "lead": "apple-app-store-18-plus-dating-ai-companion-apps",
+   "list": [
+    "aditya-l1-velc-asymmetric-cme-expansion-iia",
+    "apollo-slok-ai-zero-financial-payoff-sp-493",
+    "cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam"
+   ]
   },
-  "explained": [
-    {
-      "id": "imf-world-economic-outlook-explained-india-rbi",
-      "kn": [
-        {
-          "value": {
-            "en": "7%",
-            "hi": "7%"
-          },
-          "label": {
-            "en": "IMF forecast for India, this year",
-            "hi": "इस साल भारत के लिए आईएमएफ का अनुमान"
-          }
-        },
-        {
-          "value": {
-            "en": "7.1%",
-            "hi": "7.1%"
-          },
-          "label": {
-            "en": "RBI's own forecast",
-            "hi": "आरबीआई का अपना अनुमान"
-          }
-        }
-      ]
-    },
-    {
-      "id": "wpi-vs-cpi-explained-wholesale-retail-inflation",
-      "kn": [
-        {
-          "value": {
-            "en": "11.39%",
-            "hi": "11.39%"
-          },
-          "label": {
-            "en": "wholesale inflation, September",
-            "hi": "थोक महंगाई, सितंबर"
-          }
-        },
-        {
-          "value": {
-            "en": "5.54%",
-            "hi": "5.54%"
-          },
-          "label": {
-            "en": "retail inflation, September",
-            "hi": "खुदरा महंगाई, सितंबर"
-          }
-        }
-      ]
-    },
-    {
-      "id": "repo-rate-and-your-emi-explained",
-      "kn": [
-        {
-          "value": {
-            "en": "₹781",
-            "hi": "₹781"
-          },
-          "label": {
-            "en": "extra EMI a month, ₹50 lakh loan",
-            "hi": "₹50 लाख के लोन पर हर महीने ज़्यादा ईएमआई"
-          }
-        },
-        {
-          "value": {
-            "en": "₹1.87 lakh",
-            "hi": "₹1.87 लाख"
-          },
-          "label": {
-            "en": "extra over 20 years",
-            "hi": "20 साल में ज़्यादा भुगतान"
-          }
-        }
-      ]
-    }
-  ],
-  "opinion": [
-    "ramlila-rally-words-parrots-shakuni-anarchy-debate-the-data",
-    "vizag-refinery-fire-was-contained-the-belt-needs-public-safety-audits",
-    "neet-pg-candidates-deserve-to-see-their-question-papers",
-    "green-crackers-order-needs-enforcement-not-another-diwali-gamble",
-    "two-cyclones-in-a-week-andhra-odisha-need-relief-that-keeps-pace"
-  ],
-  "sections": [
-    {
-      "section": "politics",
-      "module": {
-        "type": "bypolls",
-        "article": "bypoll-results-ruling-parties-win-all-six-seats"
-      },
-      "list": [
-        "sharad-pawar-ruby-hall-clinic-pune-cough-chest-pain",
-        "sambit-patra-varanasi-sir-deletion-not-theft-13-crore",
-        "priyank-kharge-union-minister-ed-it-kumaraswamy-hits-back"
-      ],
-      "lead": "bjp-gaurav-bhatia-opposition-anarchic-model-sting-rahul"
-    },
-    {
-      "section": "economy",
-      "lead": "mcx-q2-profit-454-crore-revenue-doubles",
-      "module": {
-        "type": "markets",
-        "indicators": [
-          "sensex",
-          "nifty-50",
-          "usd-inr",
-          "forex-reserves"
-        ]
-      },
-      "list": [
-        "nse-q2-profit-23-per-cent-2578-crore-coal-exchange-stake",
-        "sensex-1225-points-nifty-23811-fourth-day-rally-november-3",
-        "food-inflation-weak-monsoon-sugar-poultry-milk-prices",
-        "bpcl-buys-us-wti-crude-1-million-barrels-mumbai-december"
-      ]
-    },
-    {
-      "section": "states",
-      "lead": "goa-supreme-court-st-seat-reservation-hc-stay-sawaikar",
-      "list": [
-        "delhi-aqi-331-jahangirpuri-499-grap-stage-two",
-        "brothers-arrested-cheetah-shot-dead-madhya-pradesh",
-        "murasu-nine-trains-cancelled-vijayawada-families-relief-camps",
-        "murasu-crosses-andhra-coast-naguluppalapadu-198-mm-trees-down"
-      ]
-    },
-    {
-      "section": "policy",
-      "lead": "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip",
-      "list": [
-        "sitharaman-tata-critical-component-settle-amicably-investors",
-        "supreme-court-green-crackers-delhi-ncr-diwali-november-7-8",
-        "modi-inaugurate-bharat-renewable-energy-summit-bharat-mandapam-preview",
-        "vande-bharat-sleeper-bengaluru-mumbai-vaishnaw-flags-off-today"
-      ]
-    },
-    {
-      "section": "parliament",
-      "module": {
-        "type": "session",
-        "session": "monsoon-2026"
-      },
-      "list": [
-        "birla-sameh-shoukry-brics-parliamentary-forum-opens-monday",
-        "brics-parliamentary-forum-delhi-special-session-talk",
-        "finance-ministry-idbi-2003-parliament-assurance-not-binding"
-      ]
-    }
-  ],
-  "desks": [
-    {
-      "section": "world",
-      "lead": "sudhakar-dalela-arrives-kathmandu-india-ambassador-nepal",
-      "list": [
-        "navy-marcos-free-hijacked-fishing-vessel-azini-somalia-20-crew",
-        "us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve",
-        "komyshuvakha-aid-centre-strike-26-killed-zelenskyy-us-pressure",
-        "supreme-court-rejects-trump-california-ballots-midterms-eve"
-      ]
-    },
-    {
-      "section": "science",
-      "lead": "apple-app-store-18-plus-dating-ai-companion-apps",
-      "list": [
-        "aditya-l1-velc-asymmetric-cme-expansion-iia",
-        "apollo-slok-ai-zero-financial-payoff-sp-493",
-        "cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam"
-      ]
-    },
-    {
-      "section": "sports",
-      "lead": "urvil-patel-210-pradosh-paul-208-ranji-round-four-day-two",
-      "list": [
-        "sindhu-lakshya-withdraw-korea-open-sindhu-japan-masters",
-        "glenn-maxwell-retires-international-cricket-38",
-        "villarreal-psg-atletico-bayern-champions-league-tuesday-preview",
-        "ashwin-chapter-closed-bhuvneshwar-backs-shami"
-      ]
-    }
-  ],
-  "weekAhead": []
+  {
+   "section": "sports",
+   "lead": "urvil-patel-210-pradosh-paul-208-ranji-round-four-day-two",
+   "list": [
+    "sindhu-lakshya-withdraw-korea-open-sindhu-japan-masters",
+    "glenn-maxwell-retires-international-cricket-38",
+    "villarreal-psg-atletico-bayern-champions-league-tuesday-preview",
+    "ashwin-chapter-closed-bhuvneshwar-backs-shami"
+   ]
+  }
+ ],
+ "weekAhead": []
 }
