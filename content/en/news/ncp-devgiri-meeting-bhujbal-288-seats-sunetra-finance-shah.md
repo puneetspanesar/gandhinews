@@ -50,10 +50,6 @@ The Nationalist Congress Party led by Deputy Chief Minister Sunetra Pawar turned
 
 According to party sources, the BJP, the senior partner in the Devendra Fadnavis-led Mahayuti government, has told Sunetra Pawar that she must **go to Delhi and meet Union Home Minister Amit Shah** if she wants the finance department. The portfolio was held by her late husband, Ajit Pawar, and now sits with Chief Minister Fadnavis. Sunetra Pawar told the meeting she had raised it with Fadnavis and got no positive response.
 
-```photo
-{"n":1,"subject":"Sunetra Pawar","caption":"Deputy Chief Minister Sunetra Pawar, who leads the NCP, has sought the finance portfolio once held by her late husband.","alt":"Sunetra Pawar"}
-```
-
 ## 'Contest all 288 seats'
 
 Food and Civil Supplies Minister Chhagan Bhujbal went further. "There is no certainty about what the BJP will do in the 2029 elections," he said, and urged the party to **prepare to contest all 288 seats** on its own. He also attacked the ongoing Special In-depth Revision of Maharashtra's electoral roll. "SIR being implemented at present is in the interest of only a particular party," he said, meaning the BJP.

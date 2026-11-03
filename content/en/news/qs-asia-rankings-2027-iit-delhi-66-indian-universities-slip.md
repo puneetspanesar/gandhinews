@@ -58,10 +58,6 @@ According to QS, **71% of returning Indian universities fell**, 18% rose and 11%
 
 IIT Delhi remains India's best-placed university, but it **slipped from 59th to 66th**. The Indian Institute of Science in Bengaluru fell from 64th to 79th, IIT Bombay from 71st to 83rd and IIT Madras from 70th to 85th. IIT Kharagpur dropped to 90th and IIT Kanpur to 97th.
 
-```photo
-{"n":1,"subject":"Indian Institute of Science","caption":"The Indian Institute of Science in Bengaluru fell from 64th to 79th in the Asian list.","alt":"The main building of the Indian Institute of Science, Bengaluru"}
-```
-
 The **University of Delhi left the Asian top 100**, moving from 95th to 106th. Further down the list, IIT Hyderabad climbed to 251st. IIT Bombay was placed seventh in Asia on employer reputation, one of the measures QS uses.
 
 ## 'Moved down', not worse

@@ -26339,5 +26339,67 @@
     "src800": "/photos/i-nse-q2-profit-23-per-cent-2578-crore-coal-exchange-stake-hi-640.jpg"
    }
   }
+ },
+ "ncp-devgiri-meeting-bhujbal-288-seats-sunetra-finance-shah": {
+  "id": "i-ncp-devgiri-meeting-bhujbal-288-seats-sunetra-finance-shah",
+  "src": "/photos/i-ncp-devgiri-meeting-bhujbal-288-seats-sunetra-finance-shah-en-3x2-1280.jpg",
+  "src800": "/photos/i-ncp-devgiri-meeting-bhujbal-288-seats-sunetra-finance-shah-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: NCP meeting airs anger at the BJP",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: राकांपा बैठक में भाजपा पर नाराज़गी",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-ncp-devgiri-meeting-bhujbal-288-seats-sunetra-finance-shah-hi-3x2-1280.jpg",
+    "src800": "/photos/i-ncp-devgiri-meeting-bhujbal-288-seats-sunetra-finance-shah-hi-3x2-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-ncp-devgiri-meeting-bhujbal-288-seats-sunetra-finance-shah-en-1280.jpg",
+    "src800": "/photos/i-ncp-devgiri-meeting-bhujbal-288-seats-sunetra-finance-shah-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-ncp-devgiri-meeting-bhujbal-288-seats-sunetra-finance-shah-hi-1280.jpg",
+    "src800": "/photos/i-ncp-devgiri-meeting-bhujbal-288-seats-sunetra-finance-shah-hi-640.jpg"
+   }
+  }
+ },
+ "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip": {
+  "id": "i-qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip",
+  "src": "/photos/i-qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip-en-3x2-1280.jpg",
+  "src800": "/photos/i-qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: India's top institutions lose ground in Asia",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: एशिया में भारत के शीर्ष संस्थान पिछड़े",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip-hi-3x2-1280.jpg",
+    "src800": "/photos/i-qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip-hi-3x2-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip-en-1280.jpg",
+    "src800": "/photos/i-qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip-hi-1280.jpg",
+    "src800": "/photos/i-qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip-hi-640.jpg"
+   }
+  }
  }
 }
