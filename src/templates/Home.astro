@@ -63,7 +63,7 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
           <div class="g-facts">{m.live.facts.map((x: any) => <div><Icon name={x.icon} /><span><b>{x.value}</b>{x.label}</span></div>)}</div>
         </div>
         <div class="g-ll">
-          {m.live.filler && m.live.list.length > 0 && <p class="g-ft">{lang === 'hi' ? 'दुनिया से और' : 'More world news'}</p>}
+          {m.live.filler && m.live.list.length > 0 && <p class="g-ft">{lang === 'hi' ? 'और खबरें' : 'More news'}</p>}
           {m.live.list.map((x: any) => <a href={x.href}><h3>{x.d.title}</h3></a>)}
           <a class="g-more" href={L.href}>{G.readLead} <Icon name="caret-right" /></a>
         </div>

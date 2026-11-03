@@ -45820,26 +45820,16 @@
   "page": "https://commons.wikimedia.org/wiki/File:Smriti_Irani_-_October_2019.jpg"
  },
  {
-  "id": "cx-smriti-irani-rahul-prince-perpetual-waiting-56-polls-sir-1",
-  "articleId": "part:smriti-irani-rahul-prince-perpetual-waiting-56-polls-sir:1",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Rahul_Gandhi_%28cropped%29_2008.jpg",
-  "credit": "Original: Indian National Congress.",
-  "licence": "CC BY-SA 3.0",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi_(cropped)_2008.jpg"
- },
- {
   "id": "x-smriti-irani-rahul-prince-perpetual-waiting-56-polls-sir",
   "articleId": "smriti-irani-rahul-prince-perpetual-waiting-56-polls-sir",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Smriti_Irani_-_October_2019.jpg/1600px-Smriti_Irani_-_October_2019.jpg",
-  "credit": "Photos: World Trade Organization / Wikimedia Commons; Original: Indian National Congress. / Wikimedia Commons",
-  "licence": "CC BY-SA 2.0, CC BY-SA 3.0",
-  "alt": "BJP general secretary Smriti Irani and Congress leader Rahul Gandhi (file photo)",
-  "alt_hi": "भाजपा महासचिव स्मृति ईरानी और कांग्रेस नेता राहुल गांधी (फ़ाइल फ़ोटो)",
+  "credit": "Photo: World Trade Organization / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "BJP general secretary Smriti Irani speaking at a podium (file photo)",
+  "alt_hi": "भाजपा महासचिव स्मृति ईरानी मंच से बोलती हुईं (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Smriti_Irani_-_October_2019.jpg",
   "composite": [
-   "cx-smriti-irani-rahul-prince-perpetual-waiting-56-polls-sir-0",
-   "cx-smriti-irani-rahul-prince-perpetual-waiting-56-polls-sir-1"
+   "cx-smriti-irani-rahul-prince-perpetual-waiting-56-polls-sir-0"
   ]
  }
 ]
