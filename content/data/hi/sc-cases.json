@@ -428,6 +428,64 @@
       "notes": "एक ही स्रोत (लाइवलॉ)। स्रोतों में अगली सुनवाई की तारीख नहीं।",
       "case_hi": "डेमोक्रेटिक मेडिकल एसोसिएशन बनाम राष्ट्रीय चिकित्सा विज्ञान परीक्षा बोर्ड (नीट-पीजी प्रश्नों का खुलासा)",
       "status_hi": "लंबित"
+    },
+    {
+      "id": "hawara-jail-transfer",
+      "case": "Jagtar Singh Hawara's plea for transfer from Tihar Jail, Delhi, to a prison in Punjab",
+      "issue": "क्या 1995 में पंजाब के पूर्व मुख्यमंत्री बेअंत सिंह की हत्या के दोषी हवारा को पंजाब की जेल भेजा जाए, मुख्य रूप से ताकि वह अपनी बुज़ुर्ग मां से मिल सकें।",
+      "bench_size": 2,
+      "bench": "जस्टिस एम एम सुंदरेश और जस्टिस पी बी वराले",
+      "status": "pending",
+      "status_text": "पंजाब विधानसभा चुनाव के बाद तक टला",
+      "last_date": "2026-11-03",
+      "last_event": "अतिरिक्त सॉलिसिटर जनरल ऐश्वर्या भाटी ने इंटेलिजेंस ब्यूरो की रिपोर्ट का हवाला दिया, जो पंजाब सरकार की कानून-व्यवस्था संबंधी चिंता के बाद कोर्ट ने मांगी थी। रिपोर्ट में कहा गया कि तबादले का आने वाले राज्य चुनावों पर 'भारी असर' होगा और हवारा को उच्च जोखिम श्रेणी में रखा गया। जस्टिस सुंदरेश ने रिपोर्ट को 'बहुत गंभीर' बताया। गृह मंत्रालय ने कहा कि उच्च सुरक्षा वाले कैदियों के लिए तिहाड़ ज़्यादा सुरक्षित है। हवारा के वकील वरिष्ठ अधिवक्ता एस मुरलीधर ने बताया कि पंजाब और हरियाणा हाईकोर्ट में पैरोल याचिका लंबित है और सुझाव दिया कि मामला चुनाव के बाद लिया जाए; कोर्ट सहमत हुआ।",
+      "next_step": "पंजाब विधानसभा चुनाव (2027 की शुरुआत में संभावित) के बाद सुनवाई: पीटीआई के मुताबिक फरवरी 2027; लाइवलॉ के मुताबिक चुनाव के तीन महीने बाद।",
+      "sources": [
+        {
+          "title": "As IB Says Jagtar Singh Hawara's Transfer To Punjab Jail May Impact Polls, Supreme Court Defers Plea",
+          "publisher": "LiveLaw",
+          "date": "2026-11-03",
+          "url": "https://www.livelaw.in/top-stories/as-ib-says-jagtar-singh-hawaras-transfer-to-punjab-jail-may-impact-polls-supreme-court-defers-plea-557089"
+        },
+        {
+          "title": "Transferring Beant Singh murder convict to Punjab will have huge impact on elections: IB tells SC",
+          "publisher": "ThePrint (PTI)",
+          "date": "2026-11-03",
+          "url": "https://theprint.in/india/transferring-beant-singh-murder-convict-to-punjab-will-have-huge-impact-on-elections-ib-tells-sc/3089068/"
+        }
+      ],
+      "notes": "स्रोतों में केस नंबर नहीं। अगली तारीख के बारे में लाइवलॉ और पीटीआई का ब्योरा अलग; दोनों दर्ज।",
+      "case_hi": "जगतार सिंह हवारा की तिहाड़ जेल, दिल्ली से पंजाब की जेल में तबादले की याचिका",
+      "status_hi": "लंबित"
+    },
+    {
+      "id": "goa-st-assembly-reservation",
+      "case": "Goa government's planned Special Leave Petition against the Bombay High Court (Goa bench) interim stay on notifying Goa's ST population estimates (challenge to the Readjustment of Representation of Scheduled Tribes in Assembly Constituencies of the State of Goa Act, 2025)",
+      "issue": "क्या जनगणना आयुक्त गोवा की अनुसूचित जनजाति (एसटी) आबादी का अनुमान अधिसूचित कर सकते हैं, जो 2027 के चुनाव से पहले विधानसभा सीटें एसटी के लिए आरक्षित करने के लिए ज़रूरी कदम है।",
+      "bench_size": null,
+      "bench": "हाईकोर्ट: जस्टिस वाल्मीकि मेनेज़ेस और जस्टिस अमित एस जामसंडेकर; सुप्रीम कोर्ट की पीठ अभी तय नहीं",
+      "status": "challenge_announced",
+      "status_text": "हाईकोर्ट की रोक के खिलाफ एसएलपी की घोषणा; दाखिल होने की पुष्टि नहीं",
+      "last_date": "2026-11-03",
+      "last_event": "गोवा के एनआरआई आयुक्त नरेंद्र सवाईकर ने कहा कि राज्य हाईकोर्ट की रोक हटवाने की कोशिश करेगा और बुधवार तक सुप्रीम कोर्ट में विशेष अनुमति याचिका (एसएलपी) दाखिल करेगा। एक प्रतिनिधिमंडल 2 नवंबर को नई दिल्ली में सॉलिसिटर जनरल तुषार मेहता से मिला; केंद्र और एसटी समुदाय भी कोर्ट जाने की तैयारी में हैं। अक्टूबर के आखिर में आए हाईकोर्ट के अंतरिम आदेश ने जनगणना आयुक्त की इस धारणा पर सवाल उठाया कि 2001 की जनगणना के आधार पर गोवा की आबादी में एसटी 9.9% हैं, और कहा कि कुनबी, गावड़ा और वेलिप समुदाय जनवरी 2003 में एसटी सूची में जोड़े गए। इस आदेश से चार विधानसभा सीटों के प्रस्तावित आरक्षण पर अनिश्चितता बन गई है।",
+      "next_step": "एसएलपी दाखिल होना, 4 नवंबर 2026 तक संभावित।",
+      "sources": [
+        {
+          "title": "Goa to move Supreme Court against HC order stalling ST seat reservation process",
+          "publisher": "ThePrint (PTI)",
+          "date": "2026-11-03",
+          "url": "https://theprint.in/india/goa-to-move-supreme-court-against-hc-order-stalling-st-seat-reservation-process/3089079/"
+        },
+        {
+          "title": "Goa Govt, Centre and ST community to move Supreme Court over stay on reservation process: Sawaikar",
+          "publisher": "digitalgoa",
+          "date": "2026-11-02",
+          "url": "https://digitalgoa.com/goa-govt-centre-and-st-community-to-move-supreme-court-over-stay-on-reservation-process-sawaikar/"
+        }
+      ],
+      "notes": "हाईकोर्ट के आदेश की सटीक तारीख और याचिकाकर्ता का नाम पढ़े गए स्रोतों में नहीं। एसटी एसोसिएशन के गोविंद शिरोडकर ने कहा कि याचिका 'अगले हफ्ते तक' दाखिल होगी (digitalgoa, 2 नवंबर)।",
+      "case_hi": "गोवा विधानसभा में एसटी आरक्षण: एसटी आबादी के अनुमान पर बॉम्बे हाईकोर्ट (गोवा पीठ) की रोक के खिलाफ गोवा सरकार की प्रस्तावित एसएलपी",
+      "status_hi": "चुनौती की घोषणा"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "election-calendar",
   "title": "Election calendar, October 2026 to December 2027",
-  "updated": "2026-11-01T07:00:00+05:30",
+  "updated": "2026-11-03T18:00:00+05:30",
   "coverage": "Lok Sabha and assembly bypolls, Rajya Sabha elections, state assembly general elections and the presidential election held, announced or expected between 1 October 2026 and 31 December 2027. Only items confirmed in at least one reputable source are listed.",
   "status_values": [
     "announced",
@@ -199,7 +199,7 @@
       "result": null,
       "source_url": "https://news24online.com/india/assembly-elections-2027-big-update-polls-in-five-states-including-uttar-pradesh-punjab-uttarakhand-may-be-held-in-february-march-next-year-what-we-know-so-far/917402",
       "source_publisher": "News24",
-      "notes": "BOOM's tracker gives an approximate term end of about 14 February 2027 (polling date plus five years). Conflict unresolved; ECI Terms of Houses page could not be opened."
+      "notes": "BOOM's tracker gives an approximate term end of about 14 February 2027 (polling date plus five years). Conflict unresolved; ECI Terms of Houses page could not be opened. Update 3 Nov 2026: a Bombay High Court (Goa bench) interim stay of late October on notifying Goa's ST population estimates has put the proposed reservation of four assembly seats for Scheduled Tribes before the 2027 polls in doubt; the state said it would file an SLP in the Supreme Court by 4 Nov (ThePrint/PTI, https://theprint.in/india/goa-to-move-supreme-court-against-hc-order-stalling-st-seat-reservation-process/3089079/)."
     },
     {
       "id": "punjab-assembly-2027",
@@ -215,7 +215,7 @@
       "result": null,
       "source_url": "https://news24online.com/india/assembly-elections-2027-big-update-polls-in-five-states-including-uttar-pradesh-punjab-uttarakhand-may-be-held-in-february-march-next-year-what-we-know-so-far/917402",
       "source_publisher": "News24",
-      "notes": "Seat count per ThePrint (7 Aug 2026). No schedule announced."
+      "notes": "Seat count per ThePrint (7 Aug 2026). No schedule announced. On 3 Nov 2026 the Supreme Court deferred Jagtar Singh Hawara's jail-transfer plea until after the polls, after an Intelligence Bureau report said the move would have a 'huge impact on the upcoming state elections'; PTI reported the polls are due early next year (ThePrint/PTI, https://theprint.in/india/transferring-beant-singh-murder-convict-to-punjab-will-have-huge-impact-on-elections-ib-tells-sc/3089068/)."
     },
     {
       "id": "uttarakhand-assembly-2027",

@@ -1,7 +1,7 @@
 {
   "id": "election-calendar",
   "title": "चुनाव कैलेंडर, अक्टूबर 2026 से दिसंबर 2027",
-  "updated": "2026-11-01T07:00:00+05:30",
+  "updated": "2026-11-03T18:00:00+05:30",
   "coverage": "1 अक्टूबर 2026 से 31 दिसंबर 2027 के बीच हुए, घोषित या संभावित लोकसभा और विधानसभा उपचुनाव, राज्यसभा चुनाव, राज्य विधानसभाओं के आम चुनाव और राष्ट्रपति चुनाव। सिर्फ वही चुनाव शामिल हैं जिनकी पुष्टि कम से कम एक प्रतिष्ठित स्रोत में हुई है।",
   "status_values": [
     "announced",
@@ -232,7 +232,7 @@
       "result": null,
       "source_url": "https://news24online.com/india/assembly-elections-2027-big-update-polls-in-five-states-including-uttar-pradesh-punjab-uttarakhand-may-be-held-in-february-march-next-year-what-we-know-so-far/917402",
       "source_publisher": "News24",
-      "notes": "बूम का ट्रैकर कार्यकाल खत्म होने की अनुमानित तारीख करीब 14 फरवरी 2027 बताता है (मतदान की तारीख में पांच साल जोड़कर)। यह विरोधाभास अनसुलझा है; ईसीआई का 'टर्म्स ऑफ हाउसेज़' पेज नहीं खुल सका।",
+      "notes": "बूम का ट्रैकर कार्यकाल खत्म होने की अनुमानित तारीख करीब 14 फरवरी 2027 बताता है (मतदान की तारीख में पांच साल जोड़कर)। यह विरोधाभास अनसुलझा है; ईसीआई का 'टर्म्स ऑफ हाउसेज़' पेज नहीं खुल सका। अपडेट 3 नवंबर 2026: गोवा की एसटी आबादी के अनुमान की अधिसूचना पर अक्टूबर के आखिर में बॉम्बे हाईकोर्ट (गोवा पीठ) की अंतरिम रोक से 2027 के चुनाव से पहले चार विधानसभा सीटों के प्रस्तावित एसटी आरक्षण पर अनिश्चितता है; राज्य ने 4 नवंबर तक सुप्रीम कोर्ट में एसएलपी दाखिल करने की बात कही (द प्रिंट/पीटीआई, https://theprint.in/india/goa-to-move-supreme-court-against-hc-order-stalling-st-seat-reservation-process/3089079/)।",
       "state_hi": "गोवा",
       "house_hi": "विधानसभा",
       "status_hi": "संभावित"
@@ -251,7 +251,7 @@
       "result": null,
       "source_url": "https://news24online.com/india/assembly-elections-2027-big-update-polls-in-five-states-including-uttar-pradesh-punjab-uttarakhand-may-be-held-in-february-march-next-year-what-we-know-so-far/917402",
       "source_publisher": "News24",
-      "notes": "सीटों की संख्या द प्रिंट (7 अगस्त 2026) के मुताबिक। कोई कार्यक्रम घोषित नहीं हुआ है।",
+      "notes": "सीटों की संख्या द प्रिंट (7 अगस्त 2026) के मुताबिक। कोई कार्यक्रम घोषित नहीं हुआ है। 3 नवंबर 2026 को सुप्रीम कोर्ट ने जगतार सिंह हवारा की जेल तबादले की याचिका चुनाव के बाद तक टाल दी, जब इंटेलिजेंस ब्यूरो की रिपोर्ट में कहा गया कि इसका आने वाले राज्य चुनावों पर 'भारी असर' होगा; पीटीआई के मुताबिक चुनाव अगले साल की शुरुआत में होने हैं (द प्रिंट/पीटीआई, https://theprint.in/india/transferring-beant-singh-murder-convict-to-punjab-will-have-huge-impact-on-elections-ib-tells-sc/3089068/)।",
       "state_hi": "पंजाब",
       "house_hi": "विधानसभा",
       "status_hi": "संभावित"

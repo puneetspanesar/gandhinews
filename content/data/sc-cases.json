@@ -391,6 +391,60 @@
         }
       ],
       "notes": "Single source (LiveLaw). No next hearing date in sources."
+    },
+    {
+      "id": "hawara-jail-transfer",
+      "case": "Jagtar Singh Hawara's plea for transfer from Tihar Jail, Delhi, to a prison in Punjab",
+      "issue": "Whether Hawara, convicted in the 1995 assassination of former Punjab Chief Minister Beant Singh, should be moved to a Punjab jail, mainly so he can meet his elderly mother.",
+      "bench_size": 2,
+      "bench": "Justices M M Sundresh and P B Varale",
+      "status": "pending",
+      "status_text": "Deferred until after the Punjab Assembly elections",
+      "last_date": "2026-11-03",
+      "last_event": "Additional Solicitor General Aishwarya Bhati cited an Intelligence Bureau report, sought by the court after the Punjab government raised law-and-order concerns, which said a transfer would have a 'huge impact' on the upcoming state elections and placed Hawara in the high-risk category. Justice Sundresh called the report 'very damning'. The Home Ministry said Tihar is more secure for high-security prisoners. Senior Advocate S Muralidhar, for Hawara, said a parole plea is pending in the Punjab and Haryana High Court and suggested the matter be taken up after the elections; the court agreed.",
+      "next_step": "Hearing after the Punjab Assembly elections, due early 2027: PTI says February 2027; LiveLaw says three months after the elections.",
+      "sources": [
+        {
+          "title": "As IB Says Jagtar Singh Hawara's Transfer To Punjab Jail May Impact Polls, Supreme Court Defers Plea",
+          "publisher": "LiveLaw",
+          "date": "2026-11-03",
+          "url": "https://www.livelaw.in/top-stories/as-ib-says-jagtar-singh-hawaras-transfer-to-punjab-jail-may-impact-polls-supreme-court-defers-plea-557089"
+        },
+        {
+          "title": "Transferring Beant Singh murder convict to Punjab will have huge impact on elections: IB tells SC",
+          "publisher": "ThePrint (PTI)",
+          "date": "2026-11-03",
+          "url": "https://theprint.in/india/transferring-beant-singh-murder-convict-to-punjab-will-have-huge-impact-on-elections-ib-tells-sc/3089068/"
+        }
+      ],
+      "notes": "Case number not given in sources. Next-date wording differs between LiveLaw and PTI; both recorded."
+    },
+    {
+      "id": "goa-st-assembly-reservation",
+      "case": "Goa government's planned Special Leave Petition against the Bombay High Court (Goa bench) interim stay on notifying Goa's ST population estimates (challenge to the Readjustment of Representation of Scheduled Tribes in Assembly Constituencies of the State of Goa Act, 2025)",
+      "issue": "Whether the Census Commissioner can notify an estimated Scheduled Tribe population for Goa, a step needed to reserve assembly seats for STs before the 2027 election.",
+      "bench_size": null,
+      "bench": "High Court: Justices Valmiki Menezes and Amit S. Jamsandekar; Supreme Court bench not yet assigned",
+      "status": "challenge_announced",
+      "status_text": "SLP against High Court stay announced; filing not confirmed",
+      "last_date": "2026-11-03",
+      "last_event": "Goa NRI Commissioner Narendra Sawaikar said the state would seek to vacate the High Court stay and file a Special Leave Petition in the Supreme Court by Wednesday. A delegation met Solicitor General Tushar Mehta in New Delhi on 2 Nov; the Centre and the ST community also plan to approach the Court. The High Court's interim order of late October questioned the Census Commissioner's presumption that STs are 9.9% of Goa's population, based on the 2001 Census, noting the Kunbi, Gauda and Velip communities were added to the ST list in January 2003. The order has put the proposed reservation of four assembly constituencies in doubt.",
+      "next_step": "Filing of the SLP, expected by 4 Nov 2026.",
+      "sources": [
+        {
+          "title": "Goa to move Supreme Court against HC order stalling ST seat reservation process",
+          "publisher": "ThePrint (PTI)",
+          "date": "2026-11-03",
+          "url": "https://theprint.in/india/goa-to-move-supreme-court-against-hc-order-stalling-st-seat-reservation-process/3089079/"
+        },
+        {
+          "title": "Goa Govt, Centre and ST community to move Supreme Court over stay on reservation process: Sawaikar",
+          "publisher": "digitalgoa",
+          "date": "2026-11-02",
+          "url": "https://digitalgoa.com/goa-govt-centre-and-st-community-to-move-supreme-court-over-stay-on-reservation-process-sawaikar/"
+        }
+      ],
+      "notes": "Exact date of the High Court order and the petitioner's name not given in sources read. Govind Shirodkar of the ST Association said the petition would be filed 'by next week' (digitalgoa, 2 Nov)."
     }
   ]
 }
