@@ -45596,28 +45596,6 @@
   ]
  },
  {
-  "id": "cx-cheetahs-outside-kuno-need-a-landscape-plan-not-just-arre-0",
-  "articleId": "part:cheetahs-outside-kuno-need-a-landscape-plan-not-just-arrests:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Cheetah_In_India_2.jpg",
-  "credit": "PMO India",
-  "licence": "CC BY 3.0",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Cheetah_In_India_2.jpg"
- },
- {
-  "id": "x-cheetahs-outside-kuno-need-a-landscape-plan-not-just-arrests",
-  "articleId": "cheetahs-outside-kuno-need-a-landscape-plan-not-just-arrests",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Cheetah_In_India_2.jpg",
-  "credit": "Photo: PMO India / Wikimedia Commons",
-  "licence": "CC BY 3.0",
-  "alt": "A cheetah in Kuno National Park, Madhya Pradesh (file photo)",
-  "alt_hi": "मध्य प्रदेश के कूनो राष्ट्रीय उद्यान में एक चीता (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Cheetah_In_India_2.jpg",
-  "composite": [
-   "cx-cheetahs-outside-kuno-need-a-landscape-plan-not-just-arre-0"
-  ]
- },
- {
   "id": "cx-cheetahs-outside-kuno-need-a-landscape-plan-not-just-arre-0b",
   "articleId": "part:cheetahs-outside-kuno-need-a-landscape-plan-not-just-arrests--p1:0",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Gandhi_Sagar_Mandsaur.JPG/1600px-Gandhi_Sagar_Mandsaur.JPG",
@@ -45640,28 +45618,6 @@
   ]
  },
  {
-  "id": "cx-goa-st-seat-reservation-explained-supreme-court-0",
-  "articleId": "part:goa-st-seat-reservation-explained-supreme-court:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Goa_Legislative_Assembly_Complex%2C_one_view.jpg/1600px-Goa_Legislative_Assembly_Complex%2C_one_view.jpg",
-  "credit": "Fredericknoronha",
-  "licence": "CC BY-SA 4.0",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Goa_Legislative_Assembly_Complex,_one_view.jpg"
- },
- {
-  "id": "x-goa-st-seat-reservation-explained-supreme-court",
-  "articleId": "goa-st-seat-reservation-explained-supreme-court",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Goa_Legislative_Assembly_Complex%2C_one_view.jpg/1600px-Goa_Legislative_Assembly_Complex%2C_one_view.jpg",
-  "credit": "Photo: Fredericknoronha / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "The Goa Legislative Assembly complex at Porvorim (file photo)",
-  "alt_hi": "पोर्वोरिम में गोवा विधानसभा परिसर (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Goa_Legislative_Assembly_Complex,_one_view.jpg",
-  "composite": [
-   "cx-goa-st-seat-reservation-explained-supreme-court-0"
-  ]
- },
- {
   "id": "cx-goa-st-seat-reservation-explained-supreme-court--p1-0",
   "articleId": "part:goa-st-seat-reservation-explained-supreme-court--p1:0",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Goa%27s_high_court_bench_%28100409182%29.jpg",
@@ -45681,50 +45637,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:Goa%27s_high_court_bench_(100409182).jpg",
   "composite": [
    "cx-goa-st-seat-reservation-explained-supreme-court--p1-0"
-  ]
- },
- {
-  "id": "cx-goa-st-seat-reservation-explained-supreme-court--p2-0",
-  "articleId": "part:goa-st-seat-reservation-explained-supreme-court--p2:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Pramod_Sawant.jpg",
-  "credit": "Joegoauk Tiatr",
-  "licence": "CC BY-SA 2.0",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Pramod_Sawant.jpg"
- },
- {
-  "id": "x-goa-st-seat-reservation-explained-supreme-court--p2",
-  "articleId": "goa-st-seat-reservation-explained-supreme-court--p2",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Pramod_Sawant.jpg",
-  "credit": "Photo: Joegoauk Tiatr / Wikimedia Commons",
-  "licence": "CC BY-SA 2.0",
-  "alt": "Goa Chief Minister Pramod Sawant (file photo)",
-  "alt_hi": "गोवा के मुख्यमंत्री प्रमोद सावंत (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Pramod_Sawant.jpg",
-  "composite": [
-   "cx-goa-st-seat-reservation-explained-supreme-court--p2-0"
-  ]
- },
- {
-  "id": "cx-kannadiga-jobs-need-skills-and-data-not-office-visits-0",
-  "articleId": "part:kannadiga-jobs-need-skills-and-data-not-office-visits:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bagmane_Tech_Park%2C_Bangalore_%282024%29_172.jpg/1600px-Bagmane_Tech_Park%2C_Bangalore_%282024%29_172.jpg",
-  "credit": "Gpkp",
-  "licence": "CC BY-SA 4.0",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Bagmane_Tech_Park,_Bangalore_(2024)_172.jpg"
- },
- {
-  "id": "x-kannadiga-jobs-need-skills-and-data-not-office-visits",
-  "articleId": "kannadiga-jobs-need-skills-and-data-not-office-visits",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bagmane_Tech_Park%2C_Bangalore_%282024%29_172.jpg/1600px-Bagmane_Tech_Park%2C_Bangalore_%282024%29_172.jpg",
-  "credit": "Photo: Gpkp / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Bagmane Tech Park in Bengaluru (file photo)",
-  "alt_hi": "बेंगलुरु में बागमने टेक पार्क (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Bagmane_Tech_Park,_Bangalore_(2024)_172.jpg",
-  "composite": [
-   "cx-kannadiga-jobs-need-skills-and-data-not-office-visits-0"
   ]
  },
  {
@@ -45769,28 +45681,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:Vidhana_Soudha_LE.jpg",
   "composite": [
    "cx-kannadiga-jobs-need-skills-and-data-not-office-visits--p2-0"
-  ]
- },
- {
-  "id": "cx-qeshm-island-explained-why-us-strike-hormuz-matters-india-0",
-  "articleId": "part:qeshm-island-explained-why-us-strike-hormuz-matters-india:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Qeshm_Island%2C_Persian_Gulf.JPG/1600px-Qeshm_Island%2C_Persian_Gulf.JPG",
-  "credit": "Qeshmnil",
-  "licence": "CC BY-SA 4.0",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Qeshm_Island,_Persian_Gulf.JPG"
- },
- {
-  "id": "x-qeshm-island-explained-why-us-strike-hormuz-matters-india",
-  "articleId": "qeshm-island-explained-why-us-strike-hormuz-matters-india",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Qeshm_Island%2C_Persian_Gulf.JPG/1600px-Qeshm_Island%2C_Persian_Gulf.JPG",
-  "credit": "Photo: Qeshmnil / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "A beach and cliffs on Qeshm Island in the Strait of Hormuz (file photo)",
-  "alt_hi": "होर्मुज जलडमरूमध्य में केश्म द्वीप का समुद्र तट और चट्टानें (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Qeshm_Island,_Persian_Gulf.JPG",
-  "composite": [
-   "cx-qeshm-island-explained-why-us-strike-hormuz-matters-india-0"
   ]
  },
  {
@@ -45857,6 +45747,116 @@
   "page": "https://commons.wikimedia.org/wiki/File:RBI-Tower.jpg",
   "composite": [
    "cx-rbi-small-notes-shortage-diwali-advisory-claim-0"
+  ]
+ },
+ {
+  "id": "cx-cheetahs-outside-kuno-need-a-landscape-plan-not-just-arre-0",
+  "articleId": "part:cheetahs-outside-kuno-need-a-landscape-plan-not-just-arrests:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/YV_Jhala_%26_Cheetah.jpg/1600px-YV_Jhala_%26_Cheetah.jpg",
+  "credit": "Ujjwalwii",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:YV_Jhala_%26_Cheetah.jpg"
+ },
+ {
+  "id": "x-cheetahs-outside-kuno-need-a-landscape-plan-not-just-arrests",
+  "articleId": "cheetahs-outside-kuno-need-a-landscape-plan-not-just-arrests",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/YV_Jhala_%26_Cheetah.jpg/1600px-YV_Jhala_%26_Cheetah.jpg",
+  "credit": "Photo: Ujjwalwii / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Wildlife scientist Y. V. Jhala with a radio-collared cheetah in Kuno National Park (file photo)",
+  "alt_hi": "कूनो राष्ट्रीय उद्यान में रेडियो कॉलर वाले चीते के साथ वन्यजीव वैज्ञानिक वाई. वी. झाला (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:YV_Jhala_%26_Cheetah.jpg",
+  "composite": [
+   "cx-cheetahs-outside-kuno-need-a-landscape-plan-not-just-arre-0"
+  ]
+ },
+ {
+  "id": "cx-goa-st-seat-reservation-explained-supreme-court-0",
+  "articleId": "part:goa-st-seat-reservation-explained-supreme-court:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Goa_Legislative_assembly_Complex.jpg",
+  "credit": "Ramchandra9",
+  "licence": "CC BY 3.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Goa_Legislative_assembly_Complex.jpg"
+ },
+ {
+  "id": "x-goa-st-seat-reservation-explained-supreme-court",
+  "articleId": "goa-st-seat-reservation-explained-supreme-court",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Goa_Legislative_assembly_Complex.jpg",
+  "credit": "Photo: Ramchandra9 / Wikimedia Commons",
+  "licence": "CC BY 3.0",
+  "alt": "The Goa Legislative Assembly complex at Porvorim, seen from above (file photo)",
+  "alt_hi": "ऊपर से दिखता पोरवोरिम में गोवा विधानसभा परिसर (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Goa_Legislative_assembly_Complex.jpg",
+  "composite": [
+   "cx-goa-st-seat-reservation-explained-supreme-court-0"
+  ]
+ },
+ {
+  "id": "cx-goa-st-seat-reservation-explained-supreme-court--p2-0",
+  "articleId": "part:goa-st-seat-reservation-explained-supreme-court--p2:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Pramod_Sawant_at_the_inauguration_of_the_Chhatrapati_Shivaji_Maharaj_Chair_in_Goa_University_%28cropped%29.jpg/1600px-Pramod_Sawant_at_the_inauguration_of_the_Chhatrapati_Shivaji_Maharaj_Chair_in_Goa_University_%28cropped%29.jpg",
+  "credit": "Goa University",
+  "licence": "CC BY 2.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Pramod_Sawant_at_the_inauguration_of_the_Chhatrapati_Shivaji_Maharaj_Chair_in_Goa_University_(cropped).jpg"
+ },
+ {
+  "id": "x-goa-st-seat-reservation-explained-supreme-court--p2",
+  "articleId": "goa-st-seat-reservation-explained-supreme-court--p2",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Pramod_Sawant_at_the_inauguration_of_the_Chhatrapati_Shivaji_Maharaj_Chair_in_Goa_University_%28cropped%29.jpg/1600px-Pramod_Sawant_at_the_inauguration_of_the_Chhatrapati_Shivaji_Maharaj_Chair_in_Goa_University_%28cropped%29.jpg",
+  "credit": "Photo: Goa University / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Goa Chief Minister Pramod Sawant (file photo)",
+  "alt_hi": "गोवा के मुख्यमंत्री प्रमोद सावंत (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Pramod_Sawant_at_the_inauguration_of_the_Chhatrapati_Shivaji_Maharaj_Chair_in_Goa_University_(cropped).jpg",
+  "composite": [
+   "cx-goa-st-seat-reservation-explained-supreme-court--p2-0"
+  ]
+ },
+ {
+  "id": "cx-kannadiga-jobs-need-skills-and-data-not-office-visits-0",
+  "articleId": "part:kannadiga-jobs-need-skills-and-data-not-office-visits:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bagmane_Tech_Park%2C_Bangalore_%282024%29_186.jpg/1600px-Bagmane_Tech_Park%2C_Bangalore_%282024%29_186.jpg",
+  "credit": "Gpkp",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Bagmane_Tech_Park,_Bangalore_(2024)_186.jpg"
+ },
+ {
+  "id": "x-kannadiga-jobs-need-skills-and-data-not-office-visits",
+  "articleId": "kannadiga-jobs-need-skills-and-data-not-office-visits",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bagmane_Tech_Park%2C_Bangalore_%282024%29_186.jpg/1600px-Bagmane_Tech_Park%2C_Bangalore_%282024%29_186.jpg",
+  "credit": "Photo: Gpkp / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The entrance of Bagmane Tech Park in Bengaluru (file photo)",
+  "alt_hi": "बेंगलुरु में बागमने टेक पार्क का प्रवेश द्वार (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Bagmane_Tech_Park,_Bangalore_(2024)_186.jpg",
+  "composite": [
+   "cx-kannadiga-jobs-need-skills-and-data-not-office-visits-0"
+  ]
+ },
+ {
+  "id": "cx-qeshm-island-explained-why-us-strike-hormuz-matters-india-0",
+  "articleId": "part:qeshm-island-explained-why-us-strike-hormuz-matters-india:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Qeshm_Island_Iran.jpg/1600px-Qeshm_Island_Iran.jpg",
+  "credit": "Envisat satellite",
+  "licence": "CC BY-SA 3.0 igo",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Qeshm_Island_Iran.jpg"
+ },
+ {
+  "id": "x-qeshm-island-explained-why-us-strike-hormuz-matters-india",
+  "articleId": "qeshm-island-explained-why-us-strike-hormuz-matters-india",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Qeshm_Island_Iran.jpg/1600px-Qeshm_Island_Iran.jpg",
+  "credit": "Photo: Envisat satellite / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0 igo",
+  "alt": "Qeshm Island in the Strait of Hormuz, seen from space (file photo)",
+  "alt_hi": "अंतरिक्ष से दिखता होर्मुज जलडमरूमध्य का केश्म द्वीप (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Qeshm_Island_Iran.jpg",
+  "composite": [
+   "cx-qeshm-island-explained-why-us-strike-hormuz-matters-india-0"
   ]
  }
 ]
