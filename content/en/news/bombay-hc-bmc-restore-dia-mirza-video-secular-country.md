@@ -65,9 +65,6 @@ A bench of Justices Girish Kulkarni and Neela Gokhale was hearing the case it be
 
 They also expressed great displeasure at attempts to give the court's pollution orders a political colour, and reminded those involved that India is a secular country. "Our paramount concern is the environment. When we say 'we', we mean 'we the people', concerned citizens of all castes, creeds and religion," the bench said. When someone shows concern for society, it added, "you reprimand that person with **petty-mindedness**". The balance, it said, "ought not to be disturbed by any loose comments".
 
-```photo
-{"n":2,"subject":"Ameet Satam","caption":"Mumbai BJP president Ameet Satam, whose objections led the BMC to pull the video.","alt":"Mumbai BJP president Ameet Satam"}
-```
 
 The row had grown after Mumbai Mayor Ritu Tawde criticised the appeal, saying Hindus did not need lessons on how to celebrate Diwali and suggesting the actor's stand was aimed at Hindutva. Mirza said on Monday that she recorded the clip on the High Court's directions. "Air pollution is a matter of public health," she said.
 

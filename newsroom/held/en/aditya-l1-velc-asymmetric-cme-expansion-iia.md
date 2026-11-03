@@ -58,8 +58,5 @@ The researchers, led by PhD student Saurabh Tripathi with solar astronomer Tanmo
 
 That matters beyond the telescope. How a cloud of solar plasma spreads affects the drag it feels in space, and so its speed and **arrival time at Earth**, where strong storms can disturb satellites, radio links and power grids.
 
-```photo
-{"n":2,"subject":"Indian Institute of Astrophysics","caption":"The Indian Institute of Astrophysics in Bengaluru, whose scientists built VELC and led the study.","alt":"Indian Institute of Astrophysics campus, Bengaluru"}
-```
 
 VELC was built at IIA's MGK Menon Lab for Space Sciences in Hosakote with ISRO's support. Aditya-L1, launched in September 2023, watches the Sun from the L1 point between the Sun and Earth with seven instruments.

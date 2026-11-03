@@ -17,7 +17,7 @@ hero:
   need: "T A Narayana Gowda, state president of the Karnataka Rakshana Vedike"
   suggested_source: "T. A. Narayana Gowda"
   subjects: ["T. A. Narayana Gowda", "D. K. Shivakumar"]
-  alt: "Karnataka Rakshana Vedike president T A Narayana Gowda"
+  alt: "Karnataka Rakshana Vedike president T A Narayana Gowda (left) and Deputy Chief Minister D K Shivakumar (right)"
   overlay:
     value: "KRV takes jobs drive into IT parks"
 cover:

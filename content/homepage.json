@@ -151,17 +151,6 @@
     }
    },
    {
-    "link": "hpcl-visakhapatnam-refinery-blast-fire-doused-no-casualties",
-    "lead": {
-     "en": "Vizag:",
-     "hi": "विशाखापत्तनम:"
-    },
-    "text": {
-     "en": "Blast and fire at HPCL refinery; no one hurt.",
-     "hi": "एचपीसीएल रिफ़ाइनरी में धमाका और आग; कोई घायल नहीं।"
-    }
-   },
-   {
     "link": "three-rebel-aap-mlas-join-bjp-punjab-kunwar-vijay-pratap",
     "lead": {
      "en": "Punjab:",
@@ -243,13 +232,13 @@
   "list": [
    "komyshuvakha-aid-centre-strike-26-killed-zelenskyy-us-pressure",
    "supreme-court-rejects-trump-california-ballots-midterms-eve",
-   "hpcl-visakhapatnam-refinery-blast-fire-doused-no-casualties",
+   "three-rebel-aap-mlas-join-bjp-punjab-kunwar-vijay-pratap",
    "india-thrash-south-korea-8-0-asian-champions-trophy-jalandhar",
    "alok-mehta-rjd-disqualify-bihar-mlcs-rahul-raj-brajwasi-bjp"
   ],
   "also": [
    "sri-lotus-developers-promoter-ofs-opens-floor-240-sebi-waiver",
-   "supreme-court-nbems-neet-pg-questions-disclosure-transparency"
+   "bombay-hc-bmc-restore-dia-mirza-video-secular-country"
   ]
  },
  "startHere": [
@@ -427,8 +416,7 @@
    "list": [
     "amit-shah-revanth-telangana-atm-congress-evm-hyderabad",
     "suvendu-sir-remove-infiltrators-esplanade-kolkata-howrah-polls",
-    "alok-mehta-rjd-disqualify-bihar-mlcs-rahul-raj-brajwasi-bjp",
-    "sharad-pawar-ruby-hall-clinic-pune-cough-chest-pain"
+    "alok-mehta-rjd-disqualify-bihar-mlcs-rahul-raj-brajwasi-bjp"
    ],
    "lead": "three-rebel-aap-mlas-join-bjp-punjab-kunwar-vijay-pratap"
   },
@@ -445,10 +433,10 @@
     ]
    },
    "list": [
+    "bajaj-finserv-q2-profit-23-per-cent-2758-crore",
     "rba-hikes-cash-rate-4-85-per-cent-fifth-rise-2026",
     "gift-nifty-gap-up-134-points-kospi-slides-sbi-results-november-3",
-    "wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle",
-    "apple-record-september-quarter-114-5-billion-ternus"
+    "wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle"
    ]
   },
   {
@@ -488,10 +476,10 @@
    "section": "world",
    "lead": "komyshuvakha-aid-centre-strike-26-killed-zelenskyy-us-pressure",
    "list": [
+    "navy-marcos-free-hijacked-fishing-vessel-azini-somalia-20-crew",
     "supreme-court-rejects-trump-california-ballots-midterms-eve",
     "us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve",
-    "kospi-turns-higher-samsung-sk-hynix-recover-chip-rout",
-    "us-midterms-stevens-backs-rogers-alaska-sullivan-suit-dismissed"
+    "kospi-turns-higher-samsung-sk-hynix-recover-chip-rout"
    ]
   },
   {

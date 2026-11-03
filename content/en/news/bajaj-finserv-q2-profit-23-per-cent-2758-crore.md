@@ -5,7 +5,7 @@ type: news
 section: economy
 format_label: "Economy / Companies"
 topics: []
-title: "Bajaj Finserv profit rises 23% to ₹2,758 crore as lending arm powers quarter"
+title: "Bajaj Finserv profit rises 23% to Rs 2,758 crore as lending arm powers quarter"
 standfirst: "The Pune-based financial services group reported a 17% rise in revenue for the September quarter, with net interest income up nearly a quarter."
 published: 2026-11-03T13:05:00+05:30
 location: Pune

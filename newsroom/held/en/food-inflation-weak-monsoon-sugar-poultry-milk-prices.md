@@ -46,8 +46,5 @@ Retail food inflation **rose to 7.74% in September**, while headline inflation r
 
 Protein is the hardest part to tame. Corn and soybean feed make up 60% to 70% of the cost of raising poultry, said Uday Singh Bayas, president of IPEMA-Poultry India, and producers have not yet passed on all of it. "Prolonged protein inflation could hurt lower-income households and force them to alter their diets," said Madan Sabnavis, chief economist at Bank of Baroda.
 
-```photo
-{"n":2,"subject":"Poultry farm India","caption":"A poultry farm in India. Feed makes up most of the cost of raising broilers, and producers expect chicken prices to rise from January.","alt":"Broiler chickens in a poultry shed in India (file photo)"}
-```
 
 Sugar is the sharpest pinch, **up nearly 30% over the past year**. Consumption is expected to top 29 million tonnes against output below 27.5 million, even after the government allowed 1 million tonnes of duty-free imports. With world prices above India's and a weak rupee, imports offer little relief.
