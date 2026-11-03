@@ -60,10 +60,6 @@ Authorities said the fire started at the refinery's **Residue Upgradation Facili
 
 "A fire broke out in Vizag HPCL facility and there were no casualties," Visakhapatnam Police Commissioner Shankhabrata Bagchi said.
 
-```photo
-{"n":1,"subject":"Oil refinery fire","caption":"A refinery blaze; the Visakhapatnam fire sent flames and black smoke over the city's industrial belt.","alt":"Flames and smoke at an oil refinery"}
-```
-
 Commuters on nearby roads filmed the flames on their phones, and the videos spread quickly on social media. People living close by moved away in fear.
 
 ## Fire out, inquiry ordered
@@ -71,9 +67,5 @@ Commuters on nearby roads filmed the flames on their phones, and the videos spre
 Revenue Divisional Officer Dileep Chakravarthy, who visited the site, described **a small blast followed by fire**. He said it was put out using the plant's own firefighting equipment and engines from the Andhra Pradesh Fire Department. "There is no cause for worry, and no injuries or casualties have been reported," he said. "People are requested not to panic about the incident."
 
 He said an **inquiry under industrial safety norms** would find the cause. Officials said the smoke was unlikely to be hazardous. HPCL had not issued a statement by early Tuesday.
-
-```photo
-{"n":2,"subject":"Oil refinery fire firefighting","caption":"Firefighters tackling a refinery blaze; in Visakhapatnam, HPCL crews and the state fire department put out the fire overnight.","alt":"Firefighters spraying water on a refinery fire"}
-```
 
 The refinery has had serious accidents before. In 2013, a blast at its cooling tower **killed two people and injured 37**. In September this year, an explosion at MRPL's refinery in Mangaluru killed one person and injured eight.

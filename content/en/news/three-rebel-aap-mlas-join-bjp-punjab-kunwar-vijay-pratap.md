@@ -70,10 +70,6 @@ None of the three left on good terms. AAP had suspended Kunwar Vijay Pratap on 2
 
 The defections come two days after AAP released **its first list of 40 candidates**, which has Chief Minister Bhagwant Mann contesting from Dhuri and Speaker Sandhwan from Kotkapura. AAP swept Punjab in 2022, winning 92 of the 117 seats.
 
-```photo
-{"n":2,"subject":"Bhagwant Mann","caption":"Chief Minister Bhagwant Mann, whom the defectors blamed for AAP's decline in Punjab.","alt":"Punjab Chief Minister Bhagwant Mann"}
-```
-
 ## 'AAP has pushed Punjab into a quagmire'
 
 The three turned on their old party at the event. "In Punjab, the Aam Aadmi Party is finished; Arvind Kejriwal and Bhagwant Mann themselves have brought about its end," Kunwar Vijay Pratap said. Pathanmajra said "AAP has pushed Punjab into a quagmire", accusing it of **abandoning its original vision** and worsening the state's finances and drug problem. Jouramajra pointed to drugs, gangs and street crime.

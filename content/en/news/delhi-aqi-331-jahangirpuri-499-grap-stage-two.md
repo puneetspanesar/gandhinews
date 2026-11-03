@@ -68,10 +68,6 @@ The Commission for Air Quality Management invoked **stage II of the Graded Respo
 
 Under stage II, the use of coal and firewood is banned, diesel generator sets are restricted and parking fees go up to keep private cars off the road. Civic bodies must step up mechanical road sweeping, water sprinkling and the use of anti-smog guns. These sit on top of the stage I rules already in force.
 
-```photo
-{"n":2,"subject":"Anti-smog gun Delhi","caption":"An anti-smog gun spraying water mist in Delhi, one of the dust-control steps civic bodies must step up under GRAP stage II.","alt":"An anti-smog gun spraying mist on a Delhi road"}
-```
-
 ## No relief in sight
 
 The India Meteorological Department expects mainly clear skies with **morning mist on Tuesday and Wednesday** and no rain for the next few days, with maximum temperatures of 28 to 29 degrees Celsius. The early warning system run by the Indian Institute of Tropical Meteorology expects the air to stay very poor until at least Thursday, 5 November.

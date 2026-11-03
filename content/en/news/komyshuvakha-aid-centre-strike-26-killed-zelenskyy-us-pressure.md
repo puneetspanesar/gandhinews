@@ -64,10 +64,6 @@ Russian glide bombs **killed at least 26 people** at a school used as an aid cen
 
 Ukraine's State Emergency Service said two rescue workers and four police officers were among the dead and five people were injured. Twenty-seven people were still missing on Monday night. Pictures released by the service showed the building reduced to rubble and a burned-out bus outside.
 
-```photo
-{"n":1,"subject":"State Emergency Service of Ukraine","caption":"Rescuers of Ukraine's State Emergency Service, two of whom were among the dead at Komyshuvakha.","alt":"Ukrainian emergency service rescuers at work (file photo)"}
-```
-
 ## A second strike on the shelter
 
 People in the village came to the school every week to collect food and other aid. Zelenskyy said Russia could not have been unaware of that. After the first bombs fell, he said, "there was a repeat strike with nine more bombs" on the shelter where survivors had gathered. The regional governor said Russian forces dropped **at least nine KAB-3000 bombs** on the settlement during the day.

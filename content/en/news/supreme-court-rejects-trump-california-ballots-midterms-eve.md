@@ -56,10 +56,6 @@ The US Supreme Court on Monday **refused the Trump administration's request** to
 
 The court issued a **one-line, unsigned order** with no dissents noted. It ruled on the Justice Department's emergency application without asking California officials to respond first.
 
-```photo
-{"n":1,"subject":"David O. Carter","caption":"US District Judge David Carter, who last week refused to order the disputed California ballots segregated.","alt":"US District Judge David O. Carter"}
-```
-
 The administration said last month that about 20,000 noncitizens were on California's voter rolls. It sent letters with lists of names to **all 58 California counties** and demanded that their ballots be kept apart. When state and county officials refused, the Justice Department sued them, along with Dean Logan, the Los Angeles County registrar-recorder.
 
 State and local officials questioned whether the list was accurate and warned that **US citizens could lose their votes** if they complied. US District Judge David Carter turned down a temporary restraining order last week, saying the federal process for identifying alleged noncitizens was "rife with uncertainty and errors". A divided Ninth Circuit appeals court also declined to step in, which sent the Justice Department to the Supreme Court.

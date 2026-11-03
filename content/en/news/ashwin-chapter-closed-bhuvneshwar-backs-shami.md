@@ -65,10 +65,6 @@ R Ashwin has written off Bhuvneshwar Kumar's second coming as an India bowler al
 
 Bhuvneshwar was recalled after nearly four years away on the strength of a strong IPL season with Royal Challengers Bengaluru. In New Zealand he struggled to find the swing that made his name. In his first three matches he **conceded 139 runs for a single wicket**, going at 11.58 an over, before being left out and then brought back for the final game in Hamilton, which New Zealand won by seven wickets. India took the series 3-2.
 
-```photo
-{"n":1,"subject":"Bhuvneshwar Kumar","caption":"Bhuvneshwar Kumar returned to India's T20I side in October after nearly four years, but managed one wicket in his first three games in New Zealand.","alt":"India seamer Bhuvneshwar Kumar"}
-```
-
 ## 'A difference of sky and earth'
 
 Ashwin was blunt about the gap between the seamer's league form and what he showed for India. "Bhuvneshwar Kumar, he hasn't bowled that well; he didn't prove his form," he said. "IPL and here, there was **a difference of sky and earth**."

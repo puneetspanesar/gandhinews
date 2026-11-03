@@ -58,10 +58,6 @@ Speaking at the Financial Express Leadership Awards in Mumbai on Monday evening,
 
 She called the matter sensitive and would not say whether the government would try to bring the two camps together. She also acknowledged the role of the Parsi community in making Tata a global brand.
 
-```photo
-{"n":1,"subject":"Bombay House","caption":"Bombay House in Mumbai, the headquarters of Tata Sons, the holding company at the centre of the dispute.","alt":"Bombay House, the Tata Sons headquarters in Mumbai"}
-```
-
 ## A rift that went public in September
 
 The split between Tata Sons, led by chairman N Chandrasekaran, and Tata Trusts, led by Noel Tata, came into the open at a **Tata Sons board meeting on 17 September**. That meeting came within a week of a Reserve Bank of India letter rejecting Tata Sons' request to de-register as a core investment company. The board decided to pursue a listing, as the central bank required, and reappointed Chandrasekaran as chairman.
@@ -79,9 +75,5 @@ The row has also turned political. On 28 October Congress leader Rahul Gandhi wr
 Sitharaman used the same evening to speak to investors, who have pulled money out of Indian markets. She said she had heard the "louder" voices of concern and **recognised the anxiety among retail investors** and market participants.
 
 "We need capital and equity, particularly now," she said. She **declined to promise tax cuts**, which market players have sought. She said the tax structure was much the same in 2023-24, when India drew its highest foreign investment inflows, but that circumstances had changed. Inflows had started to come back, she said, and the government would consider the concerns raised.
-
-```photo
-{"n":3,"subject":"Bombay Stock Exchange","caption":"The Bombay Stock Exchange building on Dalal Street, where foreign selling has weighed on shares.","alt":"The Bombay Stock Exchange building in Mumbai"}
-```
 
 She **held to her growth forecast**, speaking of "sustained seven-plus growth" for the economy.

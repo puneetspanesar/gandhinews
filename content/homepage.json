@@ -70,11 +70,11 @@
    "oil-slump-deepens-brent-105-airlines-rally-iran-talks"
   ],
   "relatedBeside": [
-   "murasu-crosses-andhra-coast-naguluppalapadu-198-mm-trees-down",
-   "priyank-kharge-union-minister-ed-it-kumaraswamy-hits-back",
-   "gift-nifty-gap-up-134-points-kospi-slides-sbi-results-november-3",
-   "villarreal-psg-atletico-bayern-champions-league-tuesday-preview",
-   "apple-record-september-quarter-114-5-billion-ternus"
+   "sitharaman-tata-critical-component-settle-amicably-investors",
+   "three-rebel-aap-mlas-join-bjp-punjab-kunwar-vijay-pratap",
+   "delhi-aqi-331-jahangirpuri-499-grap-stage-two",
+   "ashwin-chapter-closed-bhuvneshwar-backs-shami",
+   "murasu-crosses-andhra-coast-naguluppalapadu-198-mm-trees-down"
   ],
   "live": {
    "title": {
@@ -85,6 +85,39 @@
  },
  "briefing": {
   "items": [
+   {
+    "link": "sitharaman-tata-critical-component-settle-amicably-investors",
+    "lead": {
+     "en": "Tata:",
+     "hi": "टाटा:"
+    },
+    "text": {
+     "en": "Sitharaman says the Tata rift must not spill into public.",
+     "hi": "सीतारमण बोलीं, टाटा का विवाद सार्वजनिक नहीं होना चाहिए।"
+    }
+   },
+   {
+    "link": "delhi-aqi-331-jahangirpuri-499-grap-stage-two",
+    "lead": {
+     "en": "Delhi air:",
+     "hi": "दिल्ली की हवा:"
+    },
+    "text": {
+     "en": "AQI 331, Jahangirpuri at 499; GRAP stage II in force.",
+     "hi": "एक्यूआई 331, जहांगीरपुरी में 499; ग्रैप का दूसरा चरण लागू।"
+    }
+   },
+   {
+    "link": "komyshuvakha-aid-centre-strike-26-killed-zelenskyy-us-pressure",
+    "lead": {
+     "en": "Ukraine:",
+     "hi": "यूक्रेन:"
+    },
+    "text": {
+     "en": "Russian strike on an aid centre kills at least 26.",
+     "hi": "राहत केंद्र पर रूसी हमले में कम से कम 26 की मौत।"
+    }
+   },
    {
     "link": "us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve",
     "lead": {
@@ -97,80 +130,47 @@
     }
    },
    {
-    "link": "murasu-crosses-andhra-coast-naguluppalapadu-198-mm-trees-down",
+    "link": "ashwin-chapter-closed-bhuvneshwar-backs-shami",
     "lead": {
-     "en": "Cyclone:",
-     "hi": "चक्रवात:"
+     "en": "Cricket:",
+     "hi": "क्रिकेट:"
     },
     "text": {
-     "en": "Murasu crosses Andhra coast, 198 mm rain.",
-     "hi": "मुरासु ने आंध्र तट पार किया, 198 मिमी बारिश।"
+     "en": "Ashwin says Bhuvneshwar's chapter may be closed, backs Shami.",
+     "hi": "अश्विन बोले, भुवनेश्वर का अध्याय शायद बंद; शमी का समर्थन।"
     }
    },
    {
-    "link": "priyank-kharge-union-minister-ed-it-kumaraswamy-hits-back",
+    "link": "supreme-court-rejects-trump-california-ballots-midterms-eve",
     "lead": {
-     "en": "Karnataka:",
-     "hi": "कर्नाटक:"
+     "en": "US:",
+     "hi": "अमेरिका:"
     },
     "text": {
-     "en": "Priyank Kharge accuses Union minister over ED, IT.",
-     "hi": "प्रियांक खड़गे का केंद्रीय मंत्री पर ईडी, आईटी का आरोप।"
+     "en": "Supreme Court turns down Trump's California ballot demand.",
+     "hi": "सुप्रीम कोर्ट ने कैलिफ़ोर्निया मतपत्रों पर ट्रंप की मांग ठुकराई।"
     }
    },
    {
-    "link": "gift-nifty-gap-up-134-points-kospi-slides-sbi-results-november-3",
+    "link": "hpcl-visakhapatnam-refinery-blast-fire-doused-no-casualties",
     "lead": {
-     "en": "Markets:",
-     "hi": "बाज़ार:"
+     "en": "Vizag:",
+     "hi": "विशाखापत्तनम:"
     },
     "text": {
-     "en": "GIFT Nifty points to a higher open.",
-     "hi": "गिफ्ट निफ्टी से ऊंची शुरुआत के संकेत।"
+     "en": "Blast and fire at HPCL refinery; no one hurt.",
+     "hi": "एचपीसीएल रिफ़ाइनरी में धमाका और आग; कोई घायल नहीं।"
     }
    },
    {
-    "link": "alok-mehta-rjd-disqualify-bihar-mlcs-rahul-raj-brajwasi-bjp",
+    "link": "three-rebel-aap-mlas-join-bjp-punjab-kunwar-vijay-pratap",
     "lead": {
-     "en": "Bihar:",
-     "hi": "बिहार:"
+     "en": "Punjab:",
+     "hi": "पंजाब:"
     },
     "text": {
-     "en": "RJD wants two defectors out of Council.",
-     "hi": "राजद ने भाजपा में गए दो एमएलसी की सदस्यता रद्द करने की मांग की।"
-    }
-   },
-   {
-    "link": "villarreal-psg-atletico-bayern-champions-league-tuesday-preview",
-    "lead": {
-     "en": "Football:",
-     "hi": "फ़ुटबॉल:"
-    },
-    "text": {
-     "en": "PSG at Villarreal heads Champions League night.",
-     "hi": "चैंपियंस लीग में पीएसजी का विलारियल से मुकाबला।"
-    }
-   },
-   {
-    "link": "djokovic-vacherot-paris-masters-turin-race-jodar-ninth",
-    "lead": {
-     "en": "Tennis:",
-     "hi": "टेनिस:"
-    },
-    "text": {
-     "en": "Djokovic opens Paris Masters, Turin at stake.",
-     "hi": "जोकोविच की पेरिस मास्टर्स में शुरुआत, ट्यूरिन दांव पर।"
-    }
-   },
-   {
-    "link": "apple-record-september-quarter-114-5-billion-ternus",
-    "lead": {
-     "en": "Apple:",
-     "hi": "एप्पल:"
-    },
-    "text": {
-     "en": "Record $114.5 billion quarter.",
-     "hi": "रिकॉर्ड 114.5 अरब डॉलर की तिमाही।"
+     "en": "Three rebel AAP MLAs join the BJP.",
+     "hi": "आप के तीन बागी विधायक भाजपा में शामिल।"
     }
    }
   ]
@@ -245,11 +245,11 @@
    ]
   },
   "list": [
+   "komyshuvakha-aid-centre-strike-26-killed-zelenskyy-us-pressure",
+   "supreme-court-rejects-trump-california-ballots-midterms-eve",
+   "hpcl-visakhapatnam-refinery-blast-fire-doused-no-casualties",
    "india-thrash-south-korea-8-0-asian-champions-trophy-jalandhar",
-   "alok-mehta-rjd-disqualify-bihar-mlcs-rahul-raj-brajwasi-bjp",
-   "suvendu-sir-remove-infiltrators-esplanade-kolkata-howrah-polls",
-   "djokovic-vacherot-paris-masters-turin-race-jodar-ninth",
-   "apple-record-september-quarter-114-5-billion-ternus"
+   "alok-mehta-rjd-disqualify-bihar-mlcs-rahul-raj-brajwasi-bjp"
   ],
   "also": [
    "reliance-shares-jump-6-per-cent-q2-profit-o2c-jio",
@@ -429,12 +429,12 @@
     "article": "bypoll-results-ruling-parties-win-all-six-seats"
    },
    "list": [
+    "amit-shah-revanth-telangana-atm-congress-evm-hyderabad",
     "suvendu-sir-remove-infiltrators-esplanade-kolkata-howrah-polls",
     "alok-mehta-rjd-disqualify-bihar-mlcs-rahul-raj-brajwasi-bjp",
-    "sharad-pawar-ruby-hall-clinic-pune-cough-chest-pain",
-    "amit-shah-special-session-sir-dares-rahul-mock-parliament"
+    "sharad-pawar-ruby-hall-clinic-pune-cough-chest-pain"
    ],
-   "lead": "amit-shah-revanth-telangana-atm-congress-evm-hyderabad"
+   "lead": "three-rebel-aap-mlas-join-bjp-punjab-kunwar-vijay-pratap"
   },
   {
    "section": "economy",
@@ -449,25 +449,27 @@
     ]
    },
    "list": [
+    "rba-hikes-cash-rate-4-85-per-cent-fifth-rise-2026",
     "gift-nifty-gap-up-134-points-kospi-slides-sbi-results-november-3",
     "wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle",
-    "apple-record-september-quarter-114-5-billion-ternus",
-    "ftse-100-closes-higher-bp-shell-fall-oil-castrol-sale-ibstock"
+    "apple-record-september-quarter-114-5-billion-ternus"
    ]
   },
   {
    "section": "states",
-   "lead": "murasu-nine-trains-cancelled-vijayawada-families-relief-camps",
+   "lead": "delhi-aqi-331-jahangirpuri-499-grap-stage-two",
    "list": [
+    "hpcl-visakhapatnam-refinery-blast-fire-doused-no-casualties",
+    "murasu-nine-trains-cancelled-vijayawada-families-relief-camps",
     "cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert",
-    "naidu-cyclone-murasu-review-cancels-delhi-visit",
-    "priyank-kharge-union-minister-ed-it-kumaraswamy-hits-back"
+    "naidu-cyclone-murasu-review-cancels-delhi-visit"
    ]
   },
   {
    "section": "policy",
-   "lead": "supreme-court-green-crackers-delhi-ncr-diwali-november-7-8",
+   "lead": "sitharaman-tata-critical-component-settle-amicably-investors",
    "list": [
+    "supreme-court-green-crackers-delhi-ncr-diwali-november-7-8",
     "vikram-misri-kathmandu-visit-november-4-5-balendra-shah",
     "modi-brese-44000-government-buildings-solar-700-crore",
     "liechtenstein-prince-alois-state-visit-india-mumbai-vadodara"
@@ -488,11 +490,12 @@
  "desks": [
   {
    "section": "world",
-   "lead": "us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve",
+   "lead": "komyshuvakha-aid-centre-strike-26-killed-zelenskyy-us-pressure",
    "list": [
+    "supreme-court-rejects-trump-california-ballots-midterms-eve",
+    "us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve",
     "kospi-turns-higher-samsung-sk-hynix-recover-chip-rout",
-    "us-midterms-stevens-backs-rogers-alaska-sullivan-suit-dismissed",
-    "iran-war-footing-jalali-power-grid-islanding-treasury-oil"
+    "us-midterms-stevens-backs-rogers-alaska-sullivan-suit-dismissed"
    ]
   },
   {
@@ -506,12 +509,12 @@
   },
   {
    "section": "sports",
-   "lead": "india-thrash-south-korea-8-0-asian-champions-trophy-jalandhar",
+   "lead": "ashwin-chapter-closed-bhuvneshwar-backs-shami",
    "list": [
+    "india-thrash-south-korea-8-0-asian-champions-trophy-jalandhar",
     "villarreal-psg-atletico-bayern-champions-league-tuesday-preview",
     "shapovalov-retires-khachanov-paris-masters-leading-4-1",
-    "barry-everton-beat-newcastle-again-st-james-park",
-    "ranji-round-four-day-two-preview-mumbai-railways-bengal-maharashtra"
+    "barry-everton-beat-newcastle-again-st-james-park"
    ]
   }
  ],
