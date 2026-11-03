@@ -16,26 +16,17 @@ keyPoints:
 infographic:
   kicker: Ranji Trophy, day two
   headline: Three double hundreds in one day
-  dek: Round four, 3 November 2026
+  dek: Round four, 3 November 2026. Gujarat declare on 534 for nine
   stats:
   - icon: medal
     value: "210*"
-    label: Urvil Patel, maiden first-class double hundred
-  - icon: trophy
-    value: "534/9 d"
-    label: Gujarat against Kerala
-  - icon: flag
-    value: "396"
-    label: Mumbai all out against Railways
-  chart:
-    type: bars
-    title: Day two double hundreds, runs
-    unit: ""
-    highlight: 0
-    items:
-    - {label: "Urvil Patel (Gujarat)", value: 210, display: "210*"}
-    - {label: "Pradosh Paul (Tamil Nadu)", value: 208, display: "208"}
-    - {label: "Sanvir Singh (Punjab)", value: 205, display: "205"}
+    label: Urvil Patel, Gujarat v Kerala, maiden double hundred
+  - icon: medal
+    value: "208"
+    label: Pradosh Paul, Tamil Nadu v Chandigarh
+  - icon: medal
+    value: "205"
+    label: Sanvir Singh, Punjab v Andhra
   source: Day two scores, Ranji Trophy round four, November 3, 2026
 hero:
   need: "Gujarat wicketkeeper-batter Urvil Patel"

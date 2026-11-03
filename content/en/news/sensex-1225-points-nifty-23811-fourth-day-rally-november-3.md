@@ -13,6 +13,31 @@ keyPoints:
   - "The Sensex rose **1,225.07 points, or 1.62%**, to close at 76,917.85."
   - "Nifty FMCG gained the most among sectors, with **Nestle India up 4.47%**."
   - "The rupee closed **16 paise higher at 94.74** to the dollar."
+infographic:
+  kicker: Market close, November 3
+  headline: Sensex jumps 1,225 points
+  dek: Fourth straight day of gains, led by consumer goods shares
+  stats:
+  - icon: trend-up
+    value: "76,917.85"
+    label: Sensex, up 1,225.07 points (1.62%)
+  - icon: chart-line-up
+    value: "23,810.85"
+    label: Nifty 50, up 370.05 points (1.58%)
+  - icon: currency-inr
+    value: "94.74"
+    label: rupee per dollar, 16 paise stronger
+  chart:
+    type: bars
+    title: Best sectors on the day, % change
+    unit: "%"
+    highlight: 0
+    items:
+    - {label: "FMCG", value: 3.65, display: "+3.65%"}
+    - {label: "Realty", value: 2.33, display: "+2.33%"}
+    - {label: "Private banks", value: 1.98, display: "+1.98%"}
+    - {label: "Autos", value: 1.71, display: "+1.71%"}
+  source: Exchange data at the close, November 3, 2026
 hero:
   need: "Exchange Plaza, the National Stock Exchange headquarters in Bandra Kurla Complex, Mumbai"
   suggested_source: "Exchange Plaza Mumbai"
