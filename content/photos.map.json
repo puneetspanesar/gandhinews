@@ -23001,7 +23001,19 @@
   "licence": "CC BY-SA 4.0",
   "alt": "The Vidarbha Cricket Association Stadium in Nagpur (file photo)",
   "alt_hi": "नागपुर का विदर्भ क्रिकेट एसोसिएशन स्टेडियम (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-harsh-dubey-9-53-vidarbha-record-madhya-pradesh-209-ranji-na-en-1280.jpg",
+    "src800": "/photos/c-harsh-dubey-9-53-vidarbha-record-madhya-pradesh-209-ranji-na-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-harsh-dubey-9-53-vidarbha-record-madhya-pradesh-209-ranji-na-hi-1280.jpg",
+    "src800": "/photos/c-harsh-dubey-9-53-vidarbha-record-madhya-pradesh-209-ranji-na-hi-640.jpg"
+   }
+  }
  },
  "harsh-dubey-9-53-vidarbha-record-madhya-pradesh-209-ranji-nagpur--p1": {
   "id": "v-harsh-dubey-9-53-vidarbha-record-madhya-pradesh-209-ran-p1",
@@ -23025,7 +23037,19 @@
   "licence": "CC BY 3.0, CC BY 4.0",
   "alt": "Actor Imran Khan (file photo) and the Bombay High Court",
   "alt_hi": "अभिनेता इमरान खान (फाइल फोटो) और बॉम्बे हाईकोर्ट (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-imran-khan-unconditional-apology-bombay-high-court-oci-sir-p-en-1280.jpg",
+    "src800": "/photos/c-imran-khan-unconditional-apology-bombay-high-court-oci-sir-p-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-imran-khan-unconditional-apology-bombay-high-court-oci-sir-p-hi-1280.jpg",
+    "src800": "/photos/c-imran-khan-unconditional-apology-bombay-high-court-oci-sir-p-hi-640.jpg"
+   }
+  }
  },
  "imran-khan-unconditional-apology-bombay-high-court-oci-sir-protest--bg": {
   "id": "v-imran-khan-unconditional-apology-bombay-high-court-oci--bg",
@@ -23073,7 +23097,19 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Grains of basmati rice (file photo)",
   "alt_hi": "बासमती चावल के दाने (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-krbl-q2-profit-50-per-cent-india-gate-basmati-en-1280.jpg",
+    "src800": "/photos/c-krbl-q2-profit-50-per-cent-india-gate-basmati-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-krbl-q2-profit-50-per-cent-india-gate-basmati-hi-1280.jpg",
+    "src800": "/photos/c-krbl-q2-profit-50-per-cent-india-gate-basmati-hi-640.jpg"
+   }
+  }
  },
  "krbl-q2-profit-50-per-cent-india-gate-basmati--bg": {
   "id": "v-krbl-q2-profit-50-per-cent-india-gate-basmati-bg",
@@ -23109,7 +23145,19 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Karnataka batter Mayank Agarwal (file photo)",
   "alt_hi": "कर्नाटक के बल्लेबाज मयंक अग्रवाल (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-mayank-agarwal-fifty-karnataka-lead-assam-stumps-ranji-guwah-en-1280.jpg",
+    "src800": "/photos/c-mayank-agarwal-fifty-karnataka-lead-assam-stumps-ranji-guwah-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-mayank-agarwal-fifty-karnataka-lead-assam-stumps-ranji-guwah-hi-1280.jpg",
+    "src800": "/photos/c-mayank-agarwal-fifty-karnataka-lead-assam-stumps-ranji-guwah-hi-640.jpg"
+   }
+  }
  },
  "supreme-court-green-crackers-delhi-ncr-diwali-november-7-8": {
   "id": "v-supreme-court-green-crackers-delhi-ncr-diwali-november-7-8",
@@ -23121,7 +23169,19 @@
   "licence": "CC BY 2.0, CC BY-SA 4.0",
   "alt": "Diwali fireworks in the night sky over Delhi (file photo)",
   "alt_hi": "दिवाली पर दिल्ली के आसमान में आतिशबाजी (फाइल फोटो) (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-supreme-court-green-crackers-delhi-ncr-diwali-november-7-8-en-1280.jpg",
+    "src800": "/photos/c-supreme-court-green-crackers-delhi-ncr-diwali-november-7-8-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-supreme-court-green-crackers-delhi-ncr-diwali-november-7-8-hi-1280.jpg",
+    "src800": "/photos/c-supreme-court-green-crackers-delhi-ncr-diwali-november-7-8-hi-640.jpg"
+   }
+  }
  },
  "supreme-court-green-crackers-delhi-ncr-diwali-november-7-8--bg": {
   "id": "v-supreme-court-green-crackers-delhi-ncr-diwali-november--bg",
@@ -23745,7 +23805,19 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Exchange Plaza, headquarters of the National Stock Exchange, in Bandra Kurla Complex, Mumbai (file photo)",
   "alt_hi": "मुंबई के बांद्रा कुर्ला कॉम्प्लेक्स में नेशनल स्टॉक एक्सचेंज का मुख्यालय एक्सचेंज प्लाज़ा (फाइल फोटो) (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-fii-net-buyers-3115-crore-dii-sell-reliance-rally-november-2-en-1280.jpg",
+    "src800": "/photos/c-fii-net-buyers-3115-crore-dii-sell-reliance-rally-november-2-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-fii-net-buyers-3115-crore-dii-sell-reliance-rally-november-2-hi-1280.jpg",
+    "src800": "/photos/c-fii-net-buyers-3115-crore-dii-sell-reliance-rally-november-2-hi-640.jpg"
+   }
+  }
  },
  "fii-net-buyers-3115-crore-dii-sell-reliance-rally-november-2--bg": {
   "id": "v-fii-net-buyers-3115-crore-dii-sell-reliance-rally-novem-bg",
@@ -23769,7 +23841,19 @@
   "licence": "CC BY-SA 3.0",
   "alt": "Bombay House, headquarters of the Tata group, in Mumbai (file photo)",
   "alt_hi": "मुंबई में टाटा समूह का मुख्यालय बॉम्बे हाउस (फाइल फोटो) (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-tata-investment-q2-profit-falls-22-per-cent-en-1280.jpg",
+    "src800": "/photos/c-tata-investment-q2-profit-falls-22-per-cent-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-tata-investment-q2-profit-falls-22-per-cent-hi-1280.jpg",
+    "src800": "/photos/c-tata-investment-q2-profit-falls-22-per-cent-hi-640.jpg"
+   }
+  }
  },
  "tata-investment-q2-profit-falls-22-per-cent--bg": {
   "id": "v-tata-investment-q2-profit-falls-22-per-cent-bg",
@@ -23829,7 +23913,19 @@
   "licence": "CC BY 4.0",
   "alt": "India men's hockey team lined up before a match (file photo)",
   "alt_hi": "मैच से पहले कतार में खड़ी भारतीय पुरुष हॉकी टीम (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-india-thrash-south-korea-8-0-asian-champions-trophy-jalandha-en-1280.jpg",
+    "src800": "/photos/c-india-thrash-south-korea-8-0-asian-champions-trophy-jalandha-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-india-thrash-south-korea-8-0-asian-champions-trophy-jalandha-hi-1280.jpg",
+    "src800": "/photos/c-india-thrash-south-korea-8-0-asian-champions-trophy-jalandha-hi-640.jpg"
+   }
+  }
  },
  "oil-falls-4-per-cent-brent-108-iran-draft-proposal-qatar": {
   "id": "v-oil-falls-4-per-cent-brent-108-iran-draft-proposal-qatar",
@@ -23997,7 +24093,19 @@
   "licence": "CC BY 4.0",
   "alt": "India national football team line-up at the 2019 AFC Asian Cup (file photo)",
   "alt_hi": "2019 एएफसी एशियन कप में भारतीय फुटबॉल टीम (फाइल फोटो) (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-india-saff-camp-kolkata-15-players-moosa-dhaka-pakistan-en-1280.jpg",
+    "src800": "/photos/c-india-saff-camp-kolkata-15-players-moosa-dhaka-pakistan-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-india-saff-camp-kolkata-15-players-moosa-dhaka-pakistan-hi-1280.jpg",
+    "src800": "/photos/c-india-saff-camp-kolkata-15-players-moosa-dhaka-pakistan-hi-640.jpg"
+   }
+  }
  },
  "india-saff-camp-kolkata-15-players-moosa-dhaka-pakistan--p2": {
   "id": "v-india-saff-camp-kolkata-15-players-moosa-dhaka-pakistan-p2",
@@ -24021,7 +24129,19 @@
   "licence": "CC BY-SA 3.0",
   "alt": "Government Secretariat, Thiruvananthapuram (file photo)",
   "alt_hi": "सरकारी सचिवालय, तिरुवनंतपुरम (फाइल फोटो) (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-keralam-satheesan-cancels-cliff-house-renovation-pwd-report-en-1280.jpg",
+    "src800": "/photos/c-keralam-satheesan-cancels-cliff-house-renovation-pwd-report-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-keralam-satheesan-cancels-cliff-house-renovation-pwd-report-hi-1280.jpg",
+    "src800": "/photos/c-keralam-satheesan-cancels-cliff-house-renovation-pwd-report-hi-640.jpg"
+   }
+  }
  },
  "keralam-satheesan-cancels-cliff-house-renovation-pwd-report--bg": {
   "id": "v-keralam-satheesan-cancels-cliff-house-renovation-pwd-re-bg",
@@ -24069,7 +24189,19 @@
   "licence": "CC BY-SA 2.0",
   "alt": "Stacked aluminium ingots (file photo)",
   "alt_hi": "एल्युमिनियम की सिल्लियों का ढेर (फाइल फोटो) (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-nalco-q2-profit-1835-crore-dividend-4-50-en-1280.jpg",
+    "src800": "/photos/c-nalco-q2-profit-1835-crore-dividend-4-50-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-nalco-q2-profit-1835-crore-dividend-4-50-hi-1280.jpg",
+    "src800": "/photos/c-nalco-q2-profit-1835-crore-dividend-4-50-hi-640.jpg"
+   }
+  }
  },
  "nalco-q2-profit-1835-crore-dividend-4-50--bg": {
   "id": "v-nalco-q2-profit-1835-crore-dividend-4-50-bg",
@@ -24165,7 +24297,19 @@
   "licence": "CC BY-SA 3.0",
   "alt": "Maharashtra Cricket Association Stadium, Pune (file photo)",
   "alt_hi": "महाराष्ट्र क्रिकेट एसोसिएशन स्टेडियम, पुणे (फाइल फोटो) (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-prema-rawat-14-ball-fifty-fastest-women-t20-uttarakhand-hyde-en-1280.jpg",
+    "src800": "/photos/c-prema-rawat-14-ball-fifty-fastest-women-t20-uttarakhand-hyde-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-prema-rawat-14-ball-fifty-fastest-women-t20-uttarakhand-hyde-hi-1280.jpg",
+    "src800": "/photos/c-prema-rawat-14-ball-fifty-fastest-women-t20-uttarakhand-hyde-hi-640.jpg"
+   }
+  }
  },
  "prema-rawat-14-ball-fifty-fastest-women-t20-uttarakhand-hyderabad--p2": {
   "id": "v-prema-rawat-14-ball-fifty-fastest-women-t20-uttarakhand-p2",
@@ -24478,5 +24622,221 @@
   "alt": "Brabourne Stadium, Mumbai (file photo)",
   "alt_hi": "मुंबई का ब्रेबॉर्न स्टेडियम (फ़ाइल फ़ोटो)",
   "page": null
+ },
+ "apple-record-september-quarter-114-5-billion-ternus": {
+  "id": "v-apple-record-september-quarter-114-5-billion-ternus",
+  "src": "/photos/v-apple-record-september-quarter-114-5-billion-ternus-1280.jpg",
+  "src800": "/photos/v-apple-record-september-quarter-114-5-billion-ternus-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Tessa Bury / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "Apple chief executive John Ternus (file photo)",
+  "alt_hi": "एप्पल के मुख्य कार्यकारी जॉन टर्नस (फाइल फोटो) (फ़ाइल फ़ोटो)",
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-apple-record-september-quarter-114-5-billion-ternus-en-1280.jpg",
+    "src800": "/photos/c-apple-record-september-quarter-114-5-billion-ternus-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-apple-record-september-quarter-114-5-billion-ternus-hi-1280.jpg",
+    "src800": "/photos/c-apple-record-september-quarter-114-5-billion-ternus-hi-640.jpg"
+   }
+  }
+ },
+ "apple-record-september-quarter-114-5-billion-ternus--p2": {
+  "id": "v-apple-record-september-quarter-114-5-billion-ternus-p2",
+  "src": "/photos/v-apple-record-september-quarter-114-5-billion-ternus-p2-1280.jpg",
+  "src800": "/photos/v-apple-record-september-quarter-114-5-billion-ternus-p2-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: IPhone01 / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Apple Park, Cupertino (file photo)",
+  "alt_hi": "एप्पल पार्क, क्यूपर्टिनो (फाइल फोटो) (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "barry-everton-beat-newcastle-again-st-james-park": {
+  "id": "v-barry-everton-beat-newcastle-again-st-james-park",
+  "src": "/photos/v-barry-everton-beat-newcastle-again-st-james-park-1280.jpg",
+  "src800": "/photos/v-barry-everton-beat-newcastle-again-st-james-park-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Arne Müseler / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0 de",
+  "alt": "St James' Park, Newcastle United's stadium, from the air (file photo)",
+  "alt_hi": "हवा से न्यूकैसल यूनाइटेड का स्टेडियम सेंट जेम्स पार्क (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "barry-everton-beat-newcastle-again-st-james-park--p2": {
+  "id": "v-barry-everton-beat-newcastle-again-st-james-park-p2",
+  "src": "/photos/v-barry-everton-beat-newcastle-again-st-james-park-p2-1280.jpg",
+  "src800": "/photos/v-barry-everton-beat-newcastle-again-st-james-park-p2-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Mattythewhite / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Everton defender James Tarkowski (file photo)",
+  "alt_hi": "एवर्टन के डिफेंडर जेम्स टारकोव्स्की (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert--bg": {
+  "id": "v-cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert-bg",
+  "src": "/photos/v-cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert-bg-1280.jpg",
+  "src800": "/photos/v-cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert-bg-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: VIIRS Imagery from NOAA’s Suomi-NPP Satellite / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Cyclone Murasu (file photo)",
+  "alt_hi": "Cyclone Murasu (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert--p2": {
+  "id": "v-cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert-p2",
+  "src": "/photos/v-cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert-p2-1280.jpg",
+  "src800": "/photos/v-cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert-p2-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Hemshah171095 / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Andhra Pradesh Chief Minister N Chandrababu Naidu (file photo)",
+  "alt_hi": "आंध्र प्रदेश के मुख्यमंत्री एन चंद्रबाबू नायडू (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "shapovalov-retires-khachanov-paris-masters-leading-4-1": {
+  "id": "v-shapovalov-retires-khachanov-paris-masters-leading-4-1",
+  "src": "/photos/v-shapovalov-retires-khachanov-paris-masters-leading-4-1-1280.jpg",
+  "src800": "/photos/v-shapovalov-retires-khachanov-paris-masters-leading-4-1-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Hameltion / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Karen Khachanov (file photo)",
+  "alt_hi": "करेन खाचानोव (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "shapovalov-retires-khachanov-paris-masters-leading-4-1--bg": {
+  "id": "v-shapovalov-retires-khachanov-paris-masters-leading-4-1-bg",
+  "src": "/photos/v-shapovalov-retires-khachanov-paris-masters-leading-4-1-bg-1280.jpg",
+  "src800": "/photos/v-shapovalov-retires-khachanov-paris-masters-leading-4-1-bg-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Chabe01 / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Paris La Défense Arena (file photo)",
+  "alt_hi": "Paris La Défense Arena (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "shapovalov-retires-khachanov-paris-masters-leading-4-1--p1": {
+  "id": "v-shapovalov-retires-khachanov-paris-masters-leading-4-1-p1",
+  "src": "/photos/v-shapovalov-retires-khachanov-paris-masters-leading-4-1-p1-1280.jpg",
+  "src800": "/photos/v-shapovalov-retires-khachanov-paris-masters-leading-4-1-p1-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: JC / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Canadian tennis player Denis Shapovalov (file photo)",
+  "alt_hi": "कनाडाई टेनिस खिलाड़ी डेनिस शापोवालोव (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "shapovalov-retires-khachanov-paris-masters-leading-4-1--p2": {
+  "id": "v-shapovalov-retires-khachanov-paris-masters-leading-4-1-p2",
+  "src": "/photos/v-shapovalov-retires-khachanov-paris-masters-leading-4-1-p2-1280.jpg",
+  "src800": "/photos/v-shapovalov-retires-khachanov-paris-masters-leading-4-1-p2-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: si.robi / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "Italian tennis player Lorenzo Musetti (file photo)",
+  "alt_hi": "इतालवी टेनिस खिलाड़ी लोरेंजो मुसेटी (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle": {
+  "id": "v-wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle",
+  "src": "/photos/v-wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle-1280.jpg",
+  "src800": "/photos/v-wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Thomas J. O'Halloran / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Traders on the floor of the New York Stock Exchange (file photo)",
+  "alt_hi": "न्यूयॉर्क स्टॉक एक्सचेंज के फ्लोर पर कारोबारी (फाइल फोटो) (फ़ाइल फ़ोटो)",
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle-en-1280.jpg",
+    "src800": "/photos/c-wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle-hi-1280.jpg",
+    "src800": "/photos/c-wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle-hi-640.jpg"
+   }
+  }
+ },
+ "wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle--p1": {
+  "id": "v-wall-street-close-dow-214-nasdaq-1-per-cent-marvell-ora-p1",
+  "src": "/photos/v-wall-street-close-dow-214-nasdaq-1-per-cent-marvell-ora-p1-1280.jpg",
+  "src800": "/photos/v-wall-street-close-dow-214-nasdaq-1-per-cent-marvell-ora-p1-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: King of Hearts / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Marvell Technology headquarters (file photo)",
+  "alt_hi": "मार्वेल टेक्नोलॉजी का मुख्यालय (फाइल फोटो) (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle--p2": {
+  "id": "v-wall-street-close-dow-214-nasdaq-1-per-cent-marvell-ora-p2",
+  "src": "/photos/v-wall-street-close-dow-214-nasdaq-1-per-cent-marvell-ora-p2-1280.jpg",
+  "src800": "/photos/v-wall-street-close-dow-214-nasdaq-1-per-cent-marvell-ora-p2-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: khamenei.ir / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "Masoud Pezeshkian (file photo)",
+  "alt_hi": "मसूद पेज़ेशकियान (फाइल फोटो) (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle--p3": {
+  "id": "v-wall-street-close-dow-214-nasdaq-1-per-cent-marvell-ora-p3",
+  "src": "/photos/v-wall-street-close-dow-214-nasdaq-1-per-cent-marvell-ora-p3-1280.jpg",
+  "src800": "/photos/v-wall-street-close-dow-214-nasdaq-1-per-cent-marvell-ora-p3-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Bill Abbott / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "A United Airlines aircraft (file photo)",
+  "alt_hi": "यूनाइटेड एयरलाइंस का विमान (फाइल फोटो) (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert": {
+  "id": "v-cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert",
+  "src": "/photos/v-cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert-1280.jpg",
+  "src800": "/photos/v-cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Joint Typhoon Warning Center / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Satellite image of Cyclone Murasu over the Bay of Bengal (file photo)",
+  "alt_hi": "बंगाल की खाड़ी के ऊपर चक्रवात मुरासु की उपग्रह तस्वीर (फ़ाइल फ़ोटो)",
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert-en-1280.jpg",
+    "src800": "/photos/c-cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert-hi-1280.jpg",
+    "src800": "/photos/c-cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert-hi-640.jpg"
+   }
+  }
  }
 }

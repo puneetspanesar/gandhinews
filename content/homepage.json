@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight",
+    "id": "cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert",
     "overlay": {
       "kicker": {
-        "en": "Andhra coast, tonight",
-        "hi": "आंध्र तट, आज रात"
+        "en": "Andhra coast, now",
+        "hi": "आंध्र तट, अभी"
       },
       "value": {
-        "en": "Murasu 260 km from Ongole",
-        "hi": "मुरासु ओंगोल से 260 किमी दूर"
+        "en": "Landfall near Ongole",
+        "hi": "ओंगोल के पास लैंडफॉल"
       },
       "text": {
         "en": "",
@@ -20,36 +20,36 @@
         "icon": "clock",
         "color": "#cc0000",
         "value": {
-          "en": "11:30 pm to 4 am",
-          "hi": "रात 11:30 से सुबह 4"
+          "en": "About 5 am",
+          "hi": "सुबह क़रीब 5 बजे"
         },
         "label": {
-          "en": "forecast crossing window",
-          "hi": "तट पार करने का अनुमानित समय"
+          "en": "eye reached the coast",
+          "hi": "आंख तट पर पहुंची"
         }
       },
       {
         "icon": "map-pin",
         "color": "#8f0000",
         "value": {
-          "en": "Ongole",
-          "hi": "ओंगोल"
+          "en": "Kothapatnam",
+          "hi": "कोथापट्टनम"
         },
         "label": {
-          "en": "expected crossing point",
-          "hi": "तट पार करने का संभावित स्थान"
+          "en": "near Ongole, Prakasam",
+          "hi": "ओंगोल के पास, प्रकाशम"
         }
       },
       {
         "icon": "warning",
         "color": "#0d0d0d",
         "value": {
-          "en": "3 states",
-          "hi": "3 राज्य"
+          "en": "Up to 120 km/h",
+          "hi": "120 किमी/घंटा तक"
         },
         "label": {
-          "en": "with schools shut on Monday",
-          "hi": "जहां सोमवार को स्कूल बंद"
+          "en": "gusts along the coast",
+          "hi": "तट पर हवा के झोंके"
         }
       },
       {
@@ -60,21 +60,20 @@
           "hi": "1.5 मीटर तक"
         },
         "label": {
-          "en": "storm surge on south coast",
-          "hi": "दक्षिणी तट पर समुद्री उछाल"
+          "en": "storm surge",
+          "hi": "समुद्री उछाल"
         }
       }
     ],
     "relatedBelow": [
-      "chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation",
-      "cyclone-murasu-severe-storm-ongole-landfall-tonight-imd"
+      "chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation"
     ],
     "relatedBeside": [
+      "wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle",
+      "apple-record-september-quarter-114-5-billion-ternus",
       "priyank-kharge-union-minister-ed-it-kumaraswamy-hits-back",
       "ftse-100-closes-higher-bp-shell-fall-oil-castrol-sale-ibstock",
-      "apple-results-ternus-first-call-113-billion-preview",
-      "oil-slump-deepens-brent-105-airlines-rally-iran-talks",
-      "keralam-satheesan-cancels-cliff-house-renovation-pwd-report"
+      "oil-slump-deepens-brent-105-airlines-rally-iran-talks"
     ],
     "live": {
       "title": {
@@ -85,6 +84,61 @@
   },
   "briefing": {
     "items": [
+      {
+        "link": "cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert",
+        "lead": {
+          "en": "Cyclone:",
+          "hi": "चक्रवात:"
+        },
+        "text": {
+          "en": "Murasu crossing Andhra coast near Ongole.",
+          "hi": "मुरासु ओंगोल के पास आंध्र तट पार कर रहा है।"
+        }
+      },
+      {
+        "link": "wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle",
+        "lead": {
+          "en": "Wall Street:",
+          "hi": "वॉल स्ट्रीट:"
+        },
+        "text": {
+          "en": "Dow up 214, Nasdaq down 1% as chips slide.",
+          "hi": "डाउ 214 अंक ऊपर, चिप शेयरों से नैस्डैक 1% टूटा।"
+        }
+      },
+      {
+        "link": "apple-record-september-quarter-114-5-billion-ternus",
+        "lead": {
+          "en": "Apple:",
+          "hi": "एप्पल:"
+        },
+        "text": {
+          "en": "Record $114.5 billion quarter in Ternus's first results.",
+          "hi": "टर्नस के पहले नतीजों में रिकॉर्ड 114.5 अरब डॉलर।"
+        }
+      },
+      {
+        "link": "shapovalov-retires-khachanov-paris-masters-leading-4-1",
+        "lead": {
+          "en": "Paris:",
+          "hi": "पेरिस:"
+        },
+        "text": {
+          "en": "Shapovalov retires, Khachanov goes through.",
+          "hi": "शापोवालोव हटे, खाचानोव आगे।"
+        }
+      },
+      {
+        "link": "barry-everton-beat-newcastle-again-st-james-park",
+        "lead": {
+          "en": "Everton:",
+          "hi": "एवर्टन:"
+        },
+        "text": {
+          "en": "Win at Newcastle, second time in four days.",
+          "hi": "न्यूकैसल को चार दिन में दूसरी बार हराया।"
+        }
+      },
       {
         "link": "priyank-kharge-union-minister-ed-it-kumaraswamy-hits-back",
         "lead": {
@@ -108,39 +162,6 @@
         }
       },
       {
-        "link": "apple-results-ternus-first-call-113-billion-preview",
-        "lead": {
-          "en": "Apple:",
-          "hi": "ऐपल:"
-        },
-        "text": {
-          "en": "Results overnight, Ternus's first call as chief executive.",
-          "hi": "नतीजे आज रात, सीईओ के तौर पर टर्नस की पहली कॉल।"
-        }
-      },
-      {
-        "link": "djokovic-vacherot-paris-masters-turin-race-jodar-ninth",
-        "lead": {
-          "en": "Djokovic:",
-          "hi": "जोकोविच:"
-        },
-        "text": {
-          "en": "Opens Paris Masters against Vacherot, Turin place at stake.",
-          "hi": "पेरिस मास्टर्स में वाशेरो से शुरुआत, ट्यूरिन का टिकट दांव पर।"
-        }
-      },
-      {
-        "link": "wall-street-midday-dow-1-per-cent-oracle-slides-gold-rebounds",
-        "lead": {
-          "en": "Wall Street:",
-          "hi": "वॉल स्ट्रीट:"
-        },
-        "text": {
-          "en": "Dow up 1% at midday, Oracle slides 6%, gold climbs back.",
-          "hi": "दोपहर तक डाउ 1% ऊपर, ओरेकल 6% लुढ़का, सोने में फिर तेज़ी।"
-        }
-      },
-      {
         "link": "oil-slump-deepens-brent-105-airlines-rally-iran-talks",
         "lead": {
           "en": "Oil:",
@@ -149,28 +170,6 @@
         "text": {
           "en": "Brent sinks over 6% to near $105; airline shares soar.",
           "hi": "ब्रेंट 6% से ज़्यादा गिरकर क़रीब 105 डॉलर पर, एयरलाइन शेयर उछले।"
-        }
-      },
-      {
-        "link": "prema-rawat-14-ball-fifty-fastest-women-t20-uttarakhand-hyderabad",
-        "lead": {
-          "en": "Prema Rawat:",
-          "hi": "प्रेमा रावत:"
-        },
-        "text": {
-          "en": "14-ball fifty, fastest in women's T20.",
-          "hi": "14 गेंदों में अर्धशतक, महिला टी20 में सबसे तेज़।"
-        }
-      },
-      {
-        "link": "keralam-satheesan-cancels-cliff-house-renovation-pwd-report",
-        "lead": {
-          "en": "Cliff House:",
-          "hi": "क्लिफ हाउस:"
-        },
-        "text": {
-          "en": "Satheesan cancels ₹1 crore repair order.",
-          "hi": "सतीशन ने ₹1 करोड़ का मरम्मत आदेश रद्द किया।"
         }
       }
     ]
@@ -245,11 +244,11 @@
       ]
     },
     "list": [
-      "priyank-kharge-union-minister-ed-it-kumaraswamy-hits-back",
-      "ftse-100-closes-higher-bp-shell-fall-oil-castrol-sale-ibstock",
-      "apple-results-ternus-first-call-113-billion-preview",
-      "wall-street-midday-dow-1-per-cent-oracle-slides-gold-rebounds",
-      "oil-slump-deepens-brent-105-airlines-rally-iran-talks"
+      "wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle",
+      "apple-record-september-quarter-114-5-billion-ternus",
+      "cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert",
+      "shapovalov-retires-khachanov-paris-masters-leading-4-1",
+      "priyank-kharge-union-minister-ed-it-kumaraswamy-hits-back"
     ],
     "also": [
       "reliance-shares-jump-6-per-cent-q2-profit-o2c-jio",
@@ -449,19 +448,19 @@
         ]
       },
       "list": [
+        "wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle",
+        "apple-record-september-quarter-114-5-billion-ternus",
         "ftse-100-closes-higher-bp-shell-fall-oil-castrol-sale-ibstock",
-        "apple-results-ternus-first-call-113-billion-preview",
-        "wall-street-midday-dow-1-per-cent-oracle-slides-gold-rebounds",
         "oil-slump-deepens-brent-105-airlines-rally-iran-talks"
       ]
     },
     {
       "section": "states",
-      "lead": "cyclone-murasu-200-km-chennai-schools-shut-landfall-tonight",
+      "lead": "cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert",
       "list": [
+        "naidu-cyclone-murasu-review-cancels-delhi-visit",
         "priyank-kharge-union-minister-ed-it-kumaraswamy-hits-back",
-        "keralam-satheesan-cancels-cliff-house-renovation-pwd-report",
-        "chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation"
+        "keralam-satheesan-cancels-cliff-house-renovation-pwd-report"
       ]
     },
     {
@@ -508,10 +507,10 @@
       "section": "sports",
       "lead": "india-thrash-south-korea-8-0-asian-champions-trophy-jalandhar",
       "list": [
-        "djokovic-vacherot-paris-masters-turin-race-jodar-ninth",
+        "shapovalov-retires-khachanov-paris-masters-leading-4-1",
+        "barry-everton-beat-newcastle-again-st-james-park",
         "ranji-round-four-day-two-preview-mumbai-railways-bengal-maharashtra",
-        "prema-rawat-14-ball-fifty-fastest-women-t20-uttarakhand-hyderabad",
-        "india-saff-camp-kolkata-15-players-moosa-dhaka-pakistan"
+        "prema-rawat-14-ball-fifty-fastest-women-t20-uttarakhand-hyderabad"
       ]
     }
   ],

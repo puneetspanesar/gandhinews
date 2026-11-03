@@ -43284,38 +43284,6 @@
   ]
  },
  {
-  "id": "cx-cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert-0",
-  "articleId": "part:cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/2026_JTWC_04B_IR_satellite_imagery.jpg",
-  "credit": "Joint Typhoon Warning Center",
-  "licence": "Public domain",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:2026_JTWC_04B_IR_satellite_imagery.jpg"
- },
- {
-  "id": "cx-cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert-1",
-  "articleId": "part:cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert:1",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Pawan_Kalyan_surveys_damage_after_Cyclone_Montha.png/1600px-Pawan_Kalyan_surveys_damage_after_Cyclone_Montha.png",
-  "credit": "https://www.youtube.com/@mangonews",
-  "licence": "CC BY 3.0",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Pawan_Kalyan_surveys_damage_after_Cyclone_Montha.png"
- },
- {
-  "id": "x-cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert",
-  "articleId": "cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/2026_JTWC_04B_IR_satellite_imagery.jpg",
-  "credit": "Photos: Joint Typhoon Warning Center / Wikimedia Commons; https://www.youtube.com/@mangonews / Wikimedia Commons",
-  "licence": "Public domain, CC BY 3.0",
-  "alt": "Cyclone Murasu over the Andhra Pradesh coast (file photo)",
-  "alt_hi": "आंध्र प्रदेश के तट पर चक्रवात मुरासु (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:2026_JTWC_04B_IR_satellite_imagery.jpg",
-  "composite": [
-   "cx-cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert-0",
-   "cx-cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert-1"
-  ]
- },
- {
   "id": "cx-cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert--b-0",
   "articleId": "part:cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert--bg:0",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Murasu_2026-11-02_0830Z.jpg/1600px-Murasu_2026-11-02_0830Z.jpg",
@@ -43533,6 +43501,28 @@
   "page": "https://commons.wikimedia.org/wiki/File:United_Airlines_Boeing_787-9_Dreamliner_(33047122154).jpg",
   "composite": [
    "cx-wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracl-0bbb"
+  ]
+ },
+ {
+  "id": "cx-cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert-0",
+  "articleId": "part:cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/2026_JTWC_04B_IR_satellite_imagery.jpg",
+  "credit": "Joint Typhoon Warning Center",
+  "licence": "Public domain",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:2026_JTWC_04B_IR_satellite_imagery.jpg"
+ },
+ {
+  "id": "x-cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert",
+  "articleId": "cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/2026_JTWC_04B_IR_satellite_imagery.jpg",
+  "credit": "Photo: Joint Typhoon Warning Center / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Satellite image of Cyclone Murasu over the Bay of Bengal (file photo)",
+  "alt_hi": "बंगाल की खाड़ी के ऊपर चक्रवात मुरासु की उपग्रह तस्वीर (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:2026_JTWC_04B_IR_satellite_imagery.jpg",
+  "composite": [
+   "cx-cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert-0"
   ]
  }
 ]
