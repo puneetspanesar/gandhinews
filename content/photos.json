@@ -45711,5 +45711,49 @@
    "cx-nse-q2-profit-23-per-cent-2578-crore-coal-exchange-stake-0",
    "cx-nse-q2-profit-23-per-cent-2578-crore-coal-exchange-stake-1"
   ]
+ },
+ {
+  "id": "cx-qs-asia-rankings-2027-iit-delhi-66-indian-universities-sl-0",
+  "articleId": "part:qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Vindhyachal_House%2C_Indian_Institute_of_Technology%2C_Delhi.JPG/1600px-Vindhyachal_House%2C_Indian_Institute_of_Technology%2C_Delhi.JPG",
+  "credit": "User:Tanksingh",
+  "licence": "Public domain",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Vindhyachal_House,_Indian_Institute_of_Technology,_Delhi.JPG"
+ },
+ {
+  "id": "x-qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip",
+  "articleId": "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Vindhyachal_House%2C_Indian_Institute_of_Technology%2C_Delhi.JPG/1600px-Vindhyachal_House%2C_Indian_Institute_of_Technology%2C_Delhi.JPG",
+  "credit": "Photo: User:Tanksingh / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "The campus of IIT Delhi (file photo)",
+  "alt_hi": "आईआईटी दिल्ली का परिसर (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Vindhyachal_House,_Indian_Institute_of_Technology,_Delhi.JPG",
+  "composite": [
+   "cx-qs-asia-rankings-2027-iit-delhi-66-indian-universities-sl-0"
+  ]
+ },
+ {
+  "id": "cx-qs-asia-rankings-2027-iit-delhi-66-indian-universities-sl-0b",
+  "articleId": "part:qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip--p1:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Indian_Institute_of_Science_-_Electrical_Engineering_Department.jpg/1600px-Indian_Institute_of_Science_-_Electrical_Engineering_Department.jpg",
+  "credit": "en:User:Mohammadulhaque.",
+  "licence": "CC BY-SA 3.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Indian_Institute_of_Science_-_Electrical_Engineering_Department.jpg"
+ },
+ {
+  "id": "x-qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip-",
+  "articleId": "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip--p1",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Indian_Institute_of_Science_-_Electrical_Engineering_Department.jpg/1600px-Indian_Institute_of_Science_-_Electrical_Engineering_Department.jpg",
+  "credit": "Photo: en:User:Mohammadulhaque. / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "The main building of the Indian Institute of Science, Bengaluru (file photo)",
+  "alt_hi": "बेंगलुरु में भारतीय विज्ञान संस्थान का मुख्य भवन (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Indian_Institute_of_Science_-_Electrical_Engineering_Department.jpg",
+  "composite": [
+   "cx-qs-asia-rankings-2027-iit-delhi-66-indian-universities-sl-0b"
+  ]
  }
 ]

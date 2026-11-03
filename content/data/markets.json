@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-03T19:25:00+05:30",
+  "as_of": "2026-11-03T21:26:00+05:30",
   "status": "closed",
   "session_date": "2026-11-03",
   "chart": "nifty-50",
@@ -379,6 +379,7 @@
     "3 Nov 09:12 IST run (pre-open): rupee opened at 94.69, 21 paise stronger vs a 94.90 Monday close (Bloomberg via Business Standard, 09:02 IST; PTI had the close at 94.86). Pre-open indications only, not trading values: Sensex 76,287 (+594, +0.79%) at 09:07 and Nifty 50 23,579 (+142, +0.60%) at 09:08; GIFT Nifty 23,525.50 (+123, +0.53%) at 08:36 (all Business Standard). Indices stay at the 2 Nov close with status closed until the 09:15 open. Brent keeps the 2 Nov settle $104.77 (Asia quotes: $104.41 at 08:24 IST per Business Standard; Trading Economics CFD $104.74, neither a settle). Gold and silver keep earlier MCX levels (only % moves, no prices, were found); 10-year G-sec yield not refreshed (source page could not be read).",
     "3 Nov opening prints for Sensex and Nifty (09:15 IST, read 09:50); other indices, rates and sectors keep their earlier values and dates.",
     "3 Nov 13:00 IST run: Sensex 76,358 from a Free Press Journal midday report (headline level; change worked out against the 2 Nov close 75,692.78). Nifty 50 was reported above 23,600 with no exact level, so it keeps the opening print. Other values unchanged.",
-    "3 Nov 19:00 IST run (close): Sensex 76,917.85 (+1,225.07, +1.62%), Nifty 50 23,810.85 (+370.05, +1.58%), India VIX 15.67 (+1.09%), movers and sectors from the Upstox market wrap (16:00 IST); rupee close 94.74 (16 paise stronger than 94.90) from HDFC Sky (16:25 IST). 3 Nov closes appended to Sensex and Nifty history. Nifty IT, Midcap, Brent, gold, silver, G-sec keep earlier readings. 3 Nov FII/DII provisional flows not yet found in this run; flows keep 2 Nov figures."
+    "3 Nov 19:00 IST run (close): Sensex 76,917.85 (+1,225.07, +1.62%), Nifty 50 23,810.85 (+370.05, +1.58%), India VIX 15.67 (+1.09%), movers and sectors from the Upstox market wrap (16:00 IST); rupee close 94.74 (16 paise stronger than 94.90) from HDFC Sky (16:25 IST). 3 Nov closes appended to Sensex and Nifty history. Nifty IT, Midcap, Brent, gold, silver, G-sec keep earlier readings. 3 Nov FII/DII provisional flows not yet found in this run; flows keep 2 Nov figures.",
+    "3 Nov 21:00 IST run: 3 Nov FII/DII provisional flows not found in a readable, dated source; flows keep 2 Nov figures. No newer Brent settle or Indian rate print found; all values unchanged since the close."
   ]
 }
