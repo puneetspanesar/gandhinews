@@ -37,6 +37,9 @@ from collections import Counter as _C
 for sec, n in _C(P[i].get('section') for i in heads[:8]).items():
     if n > 2: bad.append((f'more than two {sec} stories in the top eight', sec, n))
 if MKT.search(lead): bad.append(('markets story as the lead', lead, 0))
+_M = json.load(open('content/photos.map.json'))
+for i in [lead] + heads + ids(h['lead'].get('relatedBelow')):
+    if i not in _M: bad.append(('no picture yet (never put an unpictured story on the homepage)', i, 0))
 if bad:
     print('HOMEPAGE PROBLEMS:')
     for n, i, a in bad: print(f'  {n}: {i} ({a:.0f})')

@@ -3,6 +3,9 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import HOME from '../../content/homepage.json';
+import PHOTO_MAP from '../../content/photos.map.json';
+// A story whose picture is not ready yet never goes on the homepage (no grey camera boxes).
+const hasPic = (id?: string) => !!id && !!(PHOTO_MAP as Record<string, any>)[id];
 import { content, urlOf, kicker, fmtShort, labelParts, topicLink, iconFor, type Entry } from './site';
 import { DATA, tr } from './data';
 import { verdictKey, VERDICT_ORDER, type Lang } from './i18n';
@@ -199,17 +202,20 @@ export async function homeModel(lang: Lang) {
   };
 
   // ---- Lead
-  const leadE = get(HOME.lead.id);
+  // If the chosen lead has no picture yet, the next pictured headline leads (without the lead's own data strip).
+  const leadId = [HOME.lead.id, ...HOME.lead.relatedBeside, ...HOME.topStories.list].find((x: string) => hasPic(x) && c.all.get(x)) ?? HOME.lead.id;
+  const leadSwapped = leadId !== HOME.lead.id;
+  const leadE = get(leadId);
   const lead = {
-    ...card(HOME.lead.id),
+    ...card(leadId),
     // Lead photo with a news strip over its lower part (lead.overlay). "photo": false hides it.
     photo: HOME.lead.photo !== false,
-    overlay: HOME.lead.overlay ? { k: HOME.lead.overlay.kicker[lang], v: HOME.lead.overlay.value[lang], t: HOME.lead.overlay.text[lang] } : null,
+    overlay: HOME.lead.overlay && !leadSwapped ? { k: HOME.lead.overlay.kicker[lang], v: HOME.lead.overlay.value[lang], t: HOME.lead.overlay.text[lang] } : null,
     chart: chartFromBody(leadE, HOME.lead.chart ?? 1, lang),
     // Each box is either a tracker indicator or a fixed value from the story (value: {en, hi}).
-    dataBox: HOME.lead.dataBox.map((x: any) => ({ ...x, value: x.value ? x.value[lang] : fmtIndicator(lang, x.indicator, x.decimals), label: x.label[lang] })),
-    below: HOME.lead.relatedBelow.map(card),
-    beside: HOME.lead.relatedBeside.map(card),
+    dataBox: (leadSwapped ? [] : HOME.lead.dataBox).map((x: any) => ({ ...x, value: x.value ? x.value[lang] : fmtIndicator(lang, x.indicator, x.decimals), label: x.label[lang] })),
+    below: HOME.lead.relatedBelow.filter((x: string) => hasPic(x) && x !== leadId).map(card),
+    beside: HOME.lead.relatedBeside.filter((x: string) => hasPic(x) && x !== leadId).map(card),
   };
 
   // ---- Briefing
@@ -420,7 +426,8 @@ export async function homeModel(lang: Lang) {
 
   // ---- Section blocks
   const sections = HOME.sections.map((s: any) => {
-    const out: any = { key: s.section, lead: s.lead ? card(s.lead) : null, list: (s.list ?? []).map(card), module: null };
+    const ok = [s.lead, ...(s.list ?? [])].filter((x: string) => x && hasPic(x));
+    const out: any = { key: s.section, lead: ok[0] ? card(ok[0]) : null, list: ok.slice(1).map(card), module: null };
     const m = s.module;
     if (m?.type === 'bypolls') {
       const art = get(m.article);
@@ -460,7 +467,7 @@ export async function homeModel(lang: Lang) {
   const week = (HOME.weekAhead ?? []).map((x: any) => ({ icon: x.icon, date: x.date[lang], text: x.text[lang], href: x.link ? urlOf(get(x.link).data) : null }));
 
   // ---- Desks: world, science and tech, sports
-  const desks = (HOME.desks ?? []).map((s: any) => ({ key: s.section, lead: card(s.lead), list: (s.list ?? []).map(card) }));
+  const desks = (HOME.desks ?? []).map((s: any) => { const ok = [s.lead, ...(s.list ?? [])].filter((x: string) => x && hasPic(x)); return ok.length ? { key: s.section, lead: card(ok[0]), list: ok.slice(1).map(card) } : null; }).filter(Boolean);
 
 
   // ---- 2026 front page (Gandhi News): headline grid, live band, India block, markets band, other-language links
@@ -472,7 +479,7 @@ export async function homeModel(lang: Lang) {
   const pick = (ids: (string | undefined)[], n: number) => {
     const out: any[] = [];
     for (const id of ids) {
-      if (!id || out.length >= n || used.has(id) || !c.all.get(id)) continue;
+      if (!id || out.length >= n || used.has(id) || !c.all.get(id) || !hasPic(id)) continue;
       used.add(id); out.push(short(card(id)));
     }
     return out;
