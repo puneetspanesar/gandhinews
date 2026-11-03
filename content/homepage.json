@@ -1,520 +1,519 @@
 {
-  "lead": {
-    "id": "murasu-crosses-andhra-coast-naguluppalapadu-198-mm-trees-down",
-    "overlay": {
-      "kicker": {
-        "en": "Andhra coast, now",
-        "hi": "आंध्र तट, अभी"
-      },
-      "value": {
-        "en": "Murasu crosses coast",
-        "hi": "मुरासु ने तट पार किया"
-      },
-      "text": {
-        "en": "",
-        "hi": ""
-      }
-    },
-    "dataBox": [
-      {
-        "icon": "clock",
-        "color": "#cc0000",
-        "value": {
-          "en": "3:30 to 5:30 am",
-          "hi": "सुबह 3:30 से 5:30"
-        },
-        "label": {
-          "en": "crossed near Ongole",
-          "hi": "ओंगोल के पास तट पार"
-        }
-      },
-      {
-        "icon": "drop",
-        "color": "#8f0000",
-        "value": {
-          "en": "198 mm",
-          "hi": "198 मिमी"
-        },
-        "label": {
-          "en": "rain at Naguluppalapadu",
-          "hi": "नागुलुप्पलपाडु में बारिश"
-        }
-      },
-      {
-        "icon": "warning",
-        "color": "#0d0d0d",
-        "value": {
-          "en": "6 districts",
-          "hi": "6 ज़िले"
-        },
-        "label": {
-          "en": "under IMD red warning",
-          "hi": "आईएमडी का रेड अलर्ट"
-        }
-      },
-      {
-        "icon": "map-pin",
-        "color": "#6e6e6e",
-        "value": {
-          "en": "9 trains",
-          "hi": "9 ट्रेनें"
-        },
-        "label": {
-          "en": "cancelled by railways",
-          "hi": "रेलवे ने रद्द कीं"
-        }
-      }
-    ],
-    "relatedBelow": [
-      "murasu-nine-trains-cancelled-vijayawada-families-relief-camps",
-      "cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert",
-      "chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation"
-    ],
-    "relatedBeside": [
-      "us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve",
-      "gift-nifty-gap-up-134-points-kospi-slides-sbi-results-november-3",
-      "wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle",
-      "apple-record-september-quarter-114-5-billion-ternus",
-      "priyank-kharge-union-minister-ed-it-kumaraswamy-hits-back"
-    ],
-    "live": {
-      "title": {
-        "en": "Cyclone Murasu",
-        "hi": "चक्रवात मुरासु"
-      }
-    }
+ "lead": {
+  "id": "us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve",
+  "overlay": {
+   "kicker": {
+    "en": "Strait of Hormuz, overnight",
+    "hi": "होर्मुज़ जलडमरूमध्य, रात में"
+   },
+   "value": {
+    "en": "US strikes Qeshm Island",
+    "hi": "अमेरिका का केश्म द्वीप पर हमला"
+   },
+   "text": {
+    "en": "",
+    "hi": ""
+   }
   },
-  "briefing": {
-    "items": [
-      {
-        "link": "murasu-crosses-andhra-coast-naguluppalapadu-198-mm-trees-down",
-        "lead": {
-          "en": "Cyclone:",
-          "hi": "चक्रवात:"
-        },
-        "text": {
-          "en": "Murasu crosses Andhra coast, 198 mm rain.",
-          "hi": "मुरासु ने आंध्र तट पार किया, 198 मिमी बारिश।"
-        }
-      },
-      {
-        "link": "us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve",
-        "lead": {
-          "en": "Iran:",
-          "hi": "ईरान:"
-        },
-        "text": {
-          "en": "US strikes Qeshm Island; oil edges up.",
-          "hi": "अमेरिका का केश्म द्वीप पर हमला; तेल चढ़ा।"
-        }
-      },
-      {
-        "link": "gift-nifty-gap-up-134-points-kospi-slides-sbi-results-november-3",
-        "lead": {
-          "en": "Markets:",
-          "hi": "बाज़ार:"
-        },
-        "text": {
-          "en": "GIFT Nifty points to a higher open.",
-          "hi": "गिफ्ट निफ्टी से ऊंची शुरुआत के संकेत।"
-        }
-      },
-      {
-        "link": "murasu-nine-trains-cancelled-vijayawada-families-relief-camps",
-        "lead": {
-          "en": "Rail:",
-          "hi": "रेल:"
-        },
-        "text": {
-          "en": "Nine trains cancelled as Murasu hits Andhra.",
-          "hi": "मुरासु से आंध्र में नौ ट्रेनें रद्द।"
-        }
-      },
-      {
-        "link": "villarreal-psg-atletico-bayern-champions-league-tuesday-preview",
-        "lead": {
-          "en": "Football:",
-          "hi": "फ़ुटबॉल:"
-        },
-        "text": {
-          "en": "PSG at Villarreal heads Champions League night.",
-          "hi": "चैंपियंस लीग में पीएसजी का विलारियल से मुकाबला।"
-        }
-      },
-      {
-        "link": "wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle",
-        "lead": {
-          "en": "Wall Street:",
-          "hi": "वॉल स्ट्रीट:"
-        },
-        "text": {
-          "en": "Dow up 214, Nasdaq down 1% as chips slide.",
-          "hi": "डाउ 214 अंक ऊपर, चिप शेयरों से नैस्डैक 1% टूटा।"
-        }
-      },
-      {
-        "link": "apple-record-september-quarter-114-5-billion-ternus",
-        "lead": {
-          "en": "Apple:",
-          "hi": "एप्पल:"
-        },
-        "text": {
-          "en": "Record $114.5 billion quarter in Ternus's first results.",
-          "hi": "टर्नस के पहले नतीजों में रिकॉर्ड 114.5 अरब डॉलर।"
-        }
-      },
-      {
-        "link": "shapovalov-retires-khachanov-paris-masters-leading-4-1",
-        "lead": {
-          "en": "Paris:",
-          "hi": "पेरिस:"
-        },
-        "text": {
-          "en": "Shapovalov retires, Khachanov goes through.",
-          "hi": "शापोवालोव हटे, खाचानोव आगे।"
-        }
-      }
+  "dataBox": [
+   {
+    "icon": "warning",
+    "color": "#cc0000",
+    "value": {
+     "en": "5 blasts",
+     "hi": "5 धमाके"
+    },
+    "label": {
+     "en": "reported on Qeshm by Iranian state media",
+     "hi": "केश्म पर, ईरानी सरकारी मीडिया के अनुसार"
+    }
+   },
+   {
+    "icon": "shield-check",
+    "color": "#8f0000",
+    "value": {
+     "en": "\"Defensive\"",
+     "hi": "\"रक्षात्मक\""
+    },
+    "label": {
+     "en": "how US officials described the strikes",
+     "hi": "अमेरिकी अधिकारियों ने हमलों को बताया"
+    }
+   },
+   {
+    "icon": "gas-pump",
+    "color": "#0d0d0d",
+    "value": {
+     "en": "Brent up",
+     "hi": "ब्रेंट चढ़ा"
+    },
+    "label": {
+     "en": "in Asia after a 7% fall on Monday",
+     "hi": "सोमवार की 7% गिरावट के बाद एशिया में"
+    }
+   },
+   {
+    "icon": "calendar-blank",
+    "color": "#6e6e6e",
+    "value": {
+     "en": "Nov 3",
+     "hi": "3 नवंबर"
+    },
+    "label": {
+     "en": "US midterm elections, today",
+     "hi": "अमेरिकी मध्यावधि चुनाव, आज"
+    }
+   }
+  ],
+  "relatedBelow": [
+   "iran-qatar-draft-proposal-explained-oil-prices-india-import-bill",
+   "oil-slump-deepens-brent-105-airlines-rally-iran-talks"
+  ],
+  "relatedBeside": [
+   "murasu-crosses-andhra-coast-naguluppalapadu-198-mm-trees-down",
+   "priyank-kharge-union-minister-ed-it-kumaraswamy-hits-back",
+   "gift-nifty-gap-up-134-points-kospi-slides-sbi-results-november-3",
+   "villarreal-psg-atletico-bayern-champions-league-tuesday-preview",
+   "ramlila-rally-words-parrots-shakuni-anarchy-debate-the-data"
+  ],
+  "live": {
+   "title": {
+    "en": "US strikes Iran",
+    "hi": "ईरान पर अमेरिकी हमला"
+   }
+  }
+ },
+ "briefing": {
+  "items": [
+   {
+    "link": "us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve",
+    "lead": {
+     "en": "Iran:",
+     "hi": "ईरान:"
+    },
+    "text": {
+     "en": "US strikes Qeshm Island on midterms eve.",
+     "hi": "मध्यावधि चुनाव से पहले अमेरिका का केश्म पर हमला।"
+    }
+   },
+   {
+    "link": "murasu-crosses-andhra-coast-naguluppalapadu-198-mm-trees-down",
+    "lead": {
+     "en": "Cyclone:",
+     "hi": "चक्रवात:"
+    },
+    "text": {
+     "en": "Murasu crosses Andhra coast, 198 mm rain.",
+     "hi": "मुरासु ने आंध्र तट पार किया, 198 मिमी बारिश।"
+    }
+   },
+   {
+    "link": "priyank-kharge-union-minister-ed-it-kumaraswamy-hits-back",
+    "lead": {
+     "en": "Karnataka:",
+     "hi": "कर्नाटक:"
+    },
+    "text": {
+     "en": "Priyank Kharge accuses Union minister over ED, IT.",
+     "hi": "प्रियांक खड़गे का केंद्रीय मंत्री पर ईडी, आईटी का आरोप।"
+    }
+   },
+   {
+    "link": "gift-nifty-gap-up-134-points-kospi-slides-sbi-results-november-3",
+    "lead": {
+     "en": "Markets:",
+     "hi": "बाज़ार:"
+    },
+    "text": {
+     "en": "GIFT Nifty points to a higher open.",
+     "hi": "गिफ्ट निफ्टी से ऊंची शुरुआत के संकेत।"
+    }
+   },
+   {
+    "link": "alok-mehta-rjd-disqualify-bihar-mlcs-rahul-raj-brajwasi-bjp",
+    "lead": {
+     "en": "Bihar:",
+     "hi": "बिहार:"
+    },
+    "text": {
+     "en": "RJD wants two defectors out of Council.",
+     "hi": "राजद ने भाजपा में गए दो एमएलसी की सदस्यता रद्द करने की मांग की।"
+    }
+   },
+   {
+    "link": "villarreal-psg-atletico-bayern-champions-league-tuesday-preview",
+    "lead": {
+     "en": "Football:",
+     "hi": "फ़ुटबॉल:"
+    },
+    "text": {
+     "en": "PSG at Villarreal heads Champions League night.",
+     "hi": "चैंपियंस लीग में पीएसजी का विलारियल से मुकाबला।"
+    }
+   },
+   {
+    "link": "djokovic-vacherot-paris-masters-turin-race-jodar-ninth",
+    "lead": {
+     "en": "Tennis:",
+     "hi": "टेनिस:"
+    },
+    "text": {
+     "en": "Djokovic opens Paris Masters, Turin at stake.",
+     "hi": "जोकोविच की पेरिस मास्टर्स में शुरुआत, ट्यूरिन दांव पर।"
+    }
+   },
+   {
+    "link": "apple-record-september-quarter-114-5-billion-ternus",
+    "lead": {
+     "en": "Apple:",
+     "hi": "एप्पल:"
+    },
+    "text": {
+     "en": "Record $114.5 billion quarter.",
+     "hi": "रिकॉर्ड 114.5 अरब डॉलर की तिमाही।"
+    }
+   }
+  ]
+ },
+ "numbers": {
+  "tracker": "economy-dashboard",
+  "items": [
+   {
+    "indicator": "gdp-growth",
+    "icon": "trend-up",
+    "label": {
+     "en": "GDP growth",
+     "hi": "जीडीपी वृद्धि"
+    },
+    "decimals": 1
+   },
+   {
+    "indicator": "cpi-inflation",
+    "icon": "shopping-cart",
+    "highlight": true,
+    "label": {
+     "en": "CPI inflation",
+     "hi": "सीपीआई महंगाई"
+    },
+    "decimals": 2
+   },
+   {
+    "indicator": "unemployment",
+    "icon": "briefcase",
+    "label": {
+     "en": "Unemployment",
+     "hi": "बेरोज़गारी"
+    },
+    "decimals": 1
+   },
+   {
+    "indicator": "iip-growth",
+    "icon": "factory",
+    "label": {
+     "en": "IIP growth",
+     "hi": "आईआईपी वृद्धि"
+    },
+    "decimals": 1
+   },
+   {
+    "indicator": "repo-rate",
+    "icon": "bank",
+    "decimals": 2,
+    "label": {
+     "en": "Repo rate",
+     "hi": "रेपो रेट"
+    }
+   },
+   {
+    "indicator": "fiscal-deficit-pct-be",
+    "icon": "chart-bar",
+    "highlight": true,
+    "label": {
+     "en": "Fiscal deficit used",
+     "hi": "राजकोषीय घाटा (बजट का)"
+    },
+    "decimals": 1
+   }
+  ]
+ },
+ "topStories": {
+  "big": {
+   "id": "murasu-nine-trains-cancelled-vijayawada-families-relief-camps",
+   "also": [
+    "why-bay-of-bengal-back-to-back-cyclones-murasu-arnab-explained",
+    "vizag-refinery-fire-was-contained-the-belt-needs-public-safety-audits"
+   ]
+  },
+  "list": [
+   "suvendu-sir-remove-infiltrators-esplanade-kolkata-howrah-polls",
+   "alok-mehta-rjd-disqualify-bihar-mlcs-rahul-raj-brajwasi-bjp",
+   "india-thrash-south-korea-8-0-asian-champions-trophy-jalandhar",
+   "djokovic-vacherot-paris-masters-turin-race-jodar-ninth",
+   "apple-record-september-quarter-114-5-billion-ternus"
+  ],
+  "also": [
+   "reliance-shares-jump-6-per-cent-q2-profit-o2c-jio",
+   "supreme-court-nbems-neet-pg-questions-disclosure-transparency"
+  ]
+ },
+ "startHere": [
+  "why-france-is-protesting-parcoursup-cost-of-living-explained",
+  "starlink-starshield-explained-ukraine-speed-cap",
+  "siang-dam-explained-what-sump-is-why-adi-protest",
+  "gaganyaan-g1-explained-what-uncrewed-flight-will-test",
+  "personalised-cancer-vaccine-explained-how-intismeran-works",
+  "farmer-id-explained-digital-agriculture-mission"
+ ],
+ "trackers": [
+  {
+   "id": "bills-in-parliament-tracker",
+   "title": {
+    "en": "Bills in Parliament",
+    "hi": "संसद में विधेयक"
+   }
+  },
+  {
+   "id": "economy-dashboard",
+   "title": {
+    "en": "Economy dashboard",
+    "hi": "अर्थव्यवस्था डैशबोर्ड"
+   }
+  },
+  {
+   "id": "election-calendar",
+   "title": {
+    "en": "Election calendar",
+    "hi": "चुनाव कैलेंडर"
+   }
+  },
+  {
+   "id": "budget-2026-27-promise-tracker",
+   "title": {
+    "en": "Budget promises",
+    "hi": "बजट के वादे"
+   }
+  },
+  {
+   "id": "sc-cases-tracker",
+   "title": {
+    "en": "Big Supreme Court cases",
+    "hi": "सुप्रीम कोर्ट के बड़े मामले"
+   }
+  }
+ ],
+ "dataDesk": {
+  "map": {
+   "tracker": "election-calendar",
+   "topic": "elections-2027",
+   "kicker": {
+    "en": "Elections 2027",
+    "hi": "चुनाव 2027"
+   },
+   "title": {
+    "en": "{n} states vote in 2027",
+    "hi": "2027 में {n} राज्यों में चुनाव"
+   },
+   "text": {
+    "en": "Five assemblies are expected to vote in February and March, Himachal Pradesh and Gujarat late in the year. No schedule has been announced. The President's term ends in July 2027.",
+    "hi": "पांच विधानसभाओं के चुनाव फरवरी और मार्च में होने की उम्मीद है, हिमाचल प्रदेश और गुजरात के साल के आखिर में। अभी कोई कार्यक्रम घोषित नहीं हुआ है। राष्ट्रपति का कार्यकाल जुलाई 2027 में खत्म होता है।"
+   }
+  },
+  "parliament": {
+   "tracker": "bills-in-parliament-tracker",
+   "session": "monsoon-2026",
+   "bills": [
+    "fcra-amendment-2026",
+    "indian-statistical-institute-2026",
+    "supreme-court-number-of-judges-amendment-2026",
+    "mmdr-amendment-2026",
+    "kerala-alteration-of-name-2026"
+   ]
+  }
+ },
+ "factCheck": {
+  "cards": [
+   "jairam-ramesh-upi-charges-above-2000-claim",
+   "kejriwal-e20-trump-pressure-ethanol-claim",
+   "ai-brics-selfie-modi-putin-xi-raisi"
+  ]
+ },
+ "explained": [
+  {
+   "id": "imf-world-economic-outlook-explained-india-rbi",
+   "kn": [
+    {
+     "value": {
+      "en": "7%",
+      "hi": "7%"
+     },
+     "label": {
+      "en": "IMF forecast for India, this year",
+      "hi": "इस साल भारत के लिए आईएमएफ का अनुमान"
+     }
+    },
+    {
+     "value": {
+      "en": "7.1%",
+      "hi": "7.1%"
+     },
+     "label": {
+      "en": "RBI's own forecast",
+      "hi": "आरबीआई का अपना अनुमान"
+     }
+    }
+   ]
+  },
+  {
+   "id": "wpi-vs-cpi-explained-wholesale-retail-inflation",
+   "kn": [
+    {
+     "value": {
+      "en": "11.39%",
+      "hi": "11.39%"
+     },
+     "label": {
+      "en": "wholesale inflation, September",
+      "hi": "थोक महंगाई, सितंबर"
+     }
+    },
+    {
+     "value": {
+      "en": "5.54%",
+      "hi": "5.54%"
+     },
+     "label": {
+      "en": "retail inflation, September",
+      "hi": "खुदरा महंगाई, सितंबर"
+     }
+    }
+   ]
+  },
+  {
+   "id": "repo-rate-and-your-emi-explained",
+   "kn": [
+    {
+     "value": {
+      "en": "₹781",
+      "hi": "₹781"
+     },
+     "label": {
+      "en": "extra EMI a month, ₹50 lakh loan",
+      "hi": "₹50 लाख के लोन पर हर महीने ज़्यादा ईएमआई"
+     }
+    },
+    {
+     "value": {
+      "en": "₹1.87 lakh",
+      "hi": "₹1.87 लाख"
+     },
+     "label": {
+      "en": "extra over 20 years",
+      "hi": "20 साल में ज़्यादा भुगतान"
+     }
+    }
+   ]
+  }
+ ],
+ "opinion": [
+  "mocking-northeast-indians-is-not-content-it-is-a-crime",
+  "single-use-medical-devices-reuse-must-be-policed-and-disclosed",
+  "sangareddy-pharma-deaths-need-inspections-not-compensation",
+  "banks-must-tell-customers-about-data-breaches-now",
+  "borrowed-money-small-caps-sebi-must-watch-margin-funding"
+ ],
+ "sections": [
+  {
+   "section": "politics",
+   "module": {
+    "type": "bypolls",
+    "article": "bypoll-results-ruling-parties-win-all-six-seats"
+   },
+   "list": [
+    "suvendu-sir-remove-infiltrators-esplanade-kolkata-howrah-polls",
+    "alok-mehta-rjd-disqualify-bihar-mlcs-rahul-raj-brajwasi-bjp",
+    "sharad-pawar-ruby-hall-clinic-pune-cough-chest-pain",
+    "amit-shah-special-session-sir-dares-rahul-mock-parliament"
+   ],
+   "lead": "amit-shah-revanth-telangana-atm-congress-evm-hyderabad"
+  },
+  {
+   "section": "economy",
+   "lead": "sensex-nifty-close-november-2",
+   "module": {
+    "type": "markets",
+    "indicators": [
+     "sensex",
+     "nifty-50",
+     "usd-inr",
+     "forex-reserves"
     ]
+   },
+   "list": [
+    "gift-nifty-gap-up-134-points-kospi-slides-sbi-results-november-3",
+    "wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle",
+    "apple-record-september-quarter-114-5-billion-ternus",
+    "ftse-100-closes-higher-bp-shell-fall-oil-castrol-sale-ibstock"
+   ]
   },
-  "numbers": {
-    "tracker": "economy-dashboard",
-    "items": [
-      {
-        "indicator": "gdp-growth",
-        "icon": "trend-up",
-        "label": {
-          "en": "GDP growth",
-          "hi": "जीडीपी वृद्धि"
-        },
-        "decimals": 1
-      },
-      {
-        "indicator": "cpi-inflation",
-        "icon": "shopping-cart",
-        "highlight": true,
-        "label": {
-          "en": "CPI inflation",
-          "hi": "सीपीआई महंगाई"
-        },
-        "decimals": 2
-      },
-      {
-        "indicator": "unemployment",
-        "icon": "briefcase",
-        "label": {
-          "en": "Unemployment",
-          "hi": "बेरोज़गारी"
-        },
-        "decimals": 1
-      },
-      {
-        "indicator": "iip-growth",
-        "icon": "factory",
-        "label": {
-          "en": "IIP growth",
-          "hi": "आईआईपी वृद्धि"
-        },
-        "decimals": 1
-      },
-      {
-        "indicator": "repo-rate",
-        "icon": "bank",
-        "decimals": 2,
-        "label": {
-          "en": "Repo rate",
-          "hi": "रेपो रेट"
-        }
-      },
-      {
-        "indicator": "fiscal-deficit-pct-be",
-        "icon": "chart-bar",
-        "highlight": true,
-        "label": {
-          "en": "Fiscal deficit used",
-          "hi": "राजकोषीय घाटा (बजट का)"
-        },
-        "decimals": 1
-      }
-    ]
+  {
+   "section": "states",
+   "lead": "murasu-nine-trains-cancelled-vijayawada-families-relief-camps",
+   "list": [
+    "cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert",
+    "naidu-cyclone-murasu-review-cancels-delhi-visit",
+    "priyank-kharge-union-minister-ed-it-kumaraswamy-hits-back"
+   ]
   },
-  "topStories": {
-    "big": {
-      "id": "amit-shah-revanth-telangana-atm-congress-evm-hyderabad",
-      "also": [
-        "modi-brese-44000-government-buildings-solar-700-crore",
-        "amit-shah-special-session-sir-dares-rahul-mock-parliament"
-      ]
-    },
-    "list": [
-      "us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve",
-      "gift-nifty-gap-up-134-points-kospi-slides-sbi-results-november-3",
-      "murasu-nine-trains-cancelled-vijayawada-families-relief-camps",
-      "villarreal-psg-atletico-bayern-champions-league-tuesday-preview",
-      "wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle"
-    ],
-    "also": [
-      "reliance-shares-jump-6-per-cent-q2-profit-o2c-jio",
-      "supreme-court-nbems-neet-pg-questions-disclosure-transparency"
-    ]
+  {
+   "section": "policy",
+   "lead": "supreme-court-green-crackers-delhi-ncr-diwali-november-7-8",
+   "list": [
+    "vikram-misri-kathmandu-visit-november-4-5-balendra-shah",
+    "modi-brese-44000-government-buildings-solar-700-crore",
+    "liechtenstein-prince-alois-state-visit-india-mumbai-vadodara"
+   ]
   },
-  "startHere": [
-    "why-france-is-protesting-parcoursup-cost-of-living-explained",
-    "starlink-starshield-explained-ukraine-speed-cap",
-    "siang-dam-explained-what-sump-is-why-adi-protest",
-    "gaganyaan-g1-explained-what-uncrewed-flight-will-test",
-    "personalised-cancer-vaccine-explained-how-intismeran-works",
-    "farmer-id-explained-digital-agriculture-mission"
-  ],
-  "trackers": [
-    {
-      "id": "bills-in-parliament-tracker",
-      "title": {
-        "en": "Bills in Parliament",
-        "hi": "संसद में विधेयक"
-      }
-    },
-    {
-      "id": "economy-dashboard",
-      "title": {
-        "en": "Economy dashboard",
-        "hi": "अर्थव्यवस्था डैशबोर्ड"
-      }
-    },
-    {
-      "id": "election-calendar",
-      "title": {
-        "en": "Election calendar",
-        "hi": "चुनाव कैलेंडर"
-      }
-    },
-    {
-      "id": "budget-2026-27-promise-tracker",
-      "title": {
-        "en": "Budget promises",
-        "hi": "बजट के वादे"
-      }
-    },
-    {
-      "id": "sc-cases-tracker",
-      "title": {
-        "en": "Big Supreme Court cases",
-        "hi": "सुप्रीम कोर्ट के बड़े मामले"
-      }
-    }
-  ],
-  "dataDesk": {
-    "map": {
-      "tracker": "election-calendar",
-      "topic": "elections-2027",
-      "kicker": {
-        "en": "Elections 2027",
-        "hi": "चुनाव 2027"
-      },
-      "title": {
-        "en": "{n} states vote in 2027",
-        "hi": "2027 में {n} राज्यों में चुनाव"
-      },
-      "text": {
-        "en": "Five assemblies are expected to vote in February and March, Himachal Pradesh and Gujarat late in the year. No schedule has been announced. The President's term ends in July 2027.",
-        "hi": "पांच विधानसभाओं के चुनाव फरवरी और मार्च में होने की उम्मीद है, हिमाचल प्रदेश और गुजरात के साल के आखिर में। अभी कोई कार्यक्रम घोषित नहीं हुआ है। राष्ट्रपति का कार्यकाल जुलाई 2027 में खत्म होता है।"
-      }
-    },
-    "parliament": {
-      "tracker": "bills-in-parliament-tracker",
-      "session": "monsoon-2026",
-      "bills": [
-        "fcra-amendment-2026",
-        "indian-statistical-institute-2026",
-        "supreme-court-number-of-judges-amendment-2026",
-        "mmdr-amendment-2026",
-        "kerala-alteration-of-name-2026"
-      ]
-    }
+  {
+   "section": "parliament",
+   "module": {
+    "type": "session",
+    "session": "monsoon-2026"
+   },
+   "list": [
+    "birla-sameh-shoukry-brics-parliamentary-forum-opens-monday",
+    "finance-panel-hears-mospi-indian-statistical-institute-bill"
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "section": "world",
+   "lead": "us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve",
+   "list": [
+    "kospi-turns-higher-samsung-sk-hynix-recover-chip-rout",
+    "us-midterms-stevens-backs-rogers-alaska-sullivan-suit-dismissed",
+    "iran-war-footing-jalali-power-grid-islanding-treasury-oil"
+   ]
   },
-  "factCheck": {
-    "cards": [
-      "jairam-ramesh-upi-charges-above-2000-claim",
-      "kejriwal-e20-trump-pressure-ethanol-claim",
-      "ai-brics-selfie-modi-putin-xi-raisi"
-    ]
+  {
+   "section": "science",
+   "lead": "nasa-isaacman-moon-base-artemis-iii-summer-2027-landing-2028",
+   "list": [
+    "vaishnaw-ai-law-consultation-paper-risks-threshold",
+    "bhashini-10-billion-inferences-etd-2026-iit-delhi",
+    "china-long-march-8a-satnet-wenchang-nvs-03-launch-week"
+   ]
   },
-  "explained": [
-    {
-      "id": "imf-world-economic-outlook-explained-india-rbi",
-      "kn": [
-        {
-          "value": {
-            "en": "7%",
-            "hi": "7%"
-          },
-          "label": {
-            "en": "IMF forecast for India, this year",
-            "hi": "इस साल भारत के लिए आईएमएफ का अनुमान"
-          }
-        },
-        {
-          "value": {
-            "en": "7.1%",
-            "hi": "7.1%"
-          },
-          "label": {
-            "en": "RBI's own forecast",
-            "hi": "आरबीआई का अपना अनुमान"
-          }
-        }
-      ]
-    },
-    {
-      "id": "wpi-vs-cpi-explained-wholesale-retail-inflation",
-      "kn": [
-        {
-          "value": {
-            "en": "11.39%",
-            "hi": "11.39%"
-          },
-          "label": {
-            "en": "wholesale inflation, September",
-            "hi": "थोक महंगाई, सितंबर"
-          }
-        },
-        {
-          "value": {
-            "en": "5.54%",
-            "hi": "5.54%"
-          },
-          "label": {
-            "en": "retail inflation, September",
-            "hi": "खुदरा महंगाई, सितंबर"
-          }
-        }
-      ]
-    },
-    {
-      "id": "repo-rate-and-your-emi-explained",
-      "kn": [
-        {
-          "value": {
-            "en": "₹781",
-            "hi": "₹781"
-          },
-          "label": {
-            "en": "extra EMI a month, ₹50 lakh loan",
-            "hi": "₹50 लाख के लोन पर हर महीने ज़्यादा ईएमआई"
-          }
-        },
-        {
-          "value": {
-            "en": "₹1.87 lakh",
-            "hi": "₹1.87 लाख"
-          },
-          "label": {
-            "en": "extra over 20 years",
-            "hi": "20 साल में ज़्यादा भुगतान"
-          }
-        }
-      ]
-    }
-  ],
-  "opinion": [
-    "mocking-northeast-indians-is-not-content-it-is-a-crime",
-    "single-use-medical-devices-reuse-must-be-policed-and-disclosed",
-    "sangareddy-pharma-deaths-need-inspections-not-compensation",
-    "banks-must-tell-customers-about-data-breaches-now",
-    "borrowed-money-small-caps-sebi-must-watch-margin-funding"
-  ],
-  "sections": [
-    {
-      "section": "politics",
-      "module": {
-        "type": "bypolls",
-        "article": "bypoll-results-ruling-parties-win-all-six-seats"
-      },
-      "list": [
-        "suvendu-sir-remove-infiltrators-esplanade-kolkata-howrah-polls",
-        "alok-mehta-rjd-disqualify-bihar-mlcs-rahul-raj-brajwasi-bjp",
-        "sharad-pawar-ruby-hall-clinic-pune-cough-chest-pain",
-        "amit-shah-special-session-sir-dares-rahul-mock-parliament"
-      ],
-      "lead": "amit-shah-revanth-telangana-atm-congress-evm-hyderabad"
-    },
-    {
-      "section": "economy",
-      "lead": "sensex-nifty-close-november-2",
-      "module": {
-        "type": "markets",
-        "indicators": [
-          "sensex",
-          "nifty-50",
-          "usd-inr",
-          "forex-reserves"
-        ]
-      },
-      "list": [
-        "gift-nifty-gap-up-134-points-kospi-slides-sbi-results-november-3",
-        "wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle",
-        "apple-record-september-quarter-114-5-billion-ternus",
-        "ftse-100-closes-higher-bp-shell-fall-oil-castrol-sale-ibstock"
-      ]
-    },
-    {
-      "section": "states",
-      "lead": "murasu-nine-trains-cancelled-vijayawada-families-relief-camps",
-      "list": [
-        "cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert",
-        "naidu-cyclone-murasu-review-cancels-delhi-visit",
-        "priyank-kharge-union-minister-ed-it-kumaraswamy-hits-back"
-      ]
-    },
-    {
-      "section": "policy",
-      "lead": "supreme-court-green-crackers-delhi-ncr-diwali-november-7-8",
-      "list": [
-        "vikram-misri-kathmandu-visit-november-4-5-balendra-shah",
-        "modi-brese-44000-government-buildings-solar-700-crore",
-        "liechtenstein-prince-alois-state-visit-india-mumbai-vadodara"
-      ]
-    },
-    {
-      "section": "parliament",
-      "module": {
-        "type": "session",
-        "session": "monsoon-2026"
-      },
-      "list": [
-        "birla-sameh-shoukry-brics-parliamentary-forum-opens-monday",
-        "finance-panel-hears-mospi-indian-statistical-institute-bill"
-      ]
-    }
-  ],
-  "desks": [
-    {
-      "section": "world",
-      "lead": "us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve",
-      "list": [
-        "kospi-turns-higher-samsung-sk-hynix-recover-chip-rout",
-        "us-midterms-stevens-backs-rogers-alaska-sullivan-suit-dismissed",
-        "iran-war-footing-jalali-power-grid-islanding-treasury-oil"
-      ]
-    },
-    {
-      "section": "science",
-      "lead": "nasa-isaacman-moon-base-artemis-iii-summer-2027-landing-2028",
-      "list": [
-        "vaishnaw-ai-law-consultation-paper-risks-threshold",
-        "bhashini-10-billion-inferences-etd-2026-iit-delhi",
-        "china-long-march-8a-satnet-wenchang-nvs-03-launch-week"
-      ]
-    },
-    {
-      "section": "sports",
-      "lead": "india-thrash-south-korea-8-0-asian-champions-trophy-jalandhar",
-      "list": [
-        "villarreal-psg-atletico-bayern-champions-league-tuesday-preview",
-        "shapovalov-retires-khachanov-paris-masters-leading-4-1",
-        "barry-everton-beat-newcastle-again-st-james-park",
-        "ranji-round-four-day-two-preview-mumbai-railways-bengal-maharashtra"
-      ]
-    }
-  ],
-  "weekAhead": []
+  {
+   "section": "sports",
+   "lead": "india-thrash-south-korea-8-0-asian-champions-trophy-jalandhar",
+   "list": [
+    "villarreal-psg-atletico-bayern-champions-league-tuesday-preview",
+    "shapovalov-retires-khachanov-paris-masters-leading-4-1",
+    "barry-everton-beat-newcastle-again-st-james-park",
+    "ranji-round-four-day-two-preview-mumbai-railways-bengal-maharashtra"
+   ]
+  }
+ ],
+ "weekAhead": []
 }
