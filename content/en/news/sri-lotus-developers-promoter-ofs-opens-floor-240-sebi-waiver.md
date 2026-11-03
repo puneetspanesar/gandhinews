@@ -5,7 +5,7 @@ type: news
 section: economy
 format_label: "Economy / Companies"
 topics: []
-title: "Sri Lotus Developers promoter Anand Pandit opens 5.89% stake sale at ₹240 floor"
+title: "Sri Lotus Developers promoter Anand Pandit opens 5.89% stake sale at Rs 240 floor"
 standfirst: "The offer for sale opened to institutions on Tuesday and comes to retail investors on Wednesday, after SEBI waived the usual 12-week gap since his last share sale."
 published: 2026-11-03T09:20:00+05:30
 location: Mumbai

@@ -24669,7 +24669,19 @@
   "licence": "CC BY-SA 3.0 de",
   "alt": "St James' Park, Newcastle United's stadium, from the air (file photo)",
   "alt_hi": "हवा से न्यूकैसल यूनाइटेड का स्टेडियम सेंट जेम्स पार्क (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-barry-everton-beat-newcastle-again-st-james-park-en-1280.jpg",
+    "src800": "/photos/c-barry-everton-beat-newcastle-again-st-james-park-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-barry-everton-beat-newcastle-again-st-james-park-hi-1280.jpg",
+    "src800": "/photos/c-barry-everton-beat-newcastle-again-st-james-park-hi-640.jpg"
+   }
+  }
  },
  "barry-everton-beat-newcastle-again-st-james-park--p2": {
   "id": "v-barry-everton-beat-newcastle-again-st-james-park-p2",
@@ -24717,7 +24729,19 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Karen Khachanov (file photo)",
   "alt_hi": "करेन खाचानोव (फ़ाइल फ़ोटो)",
-  "page": null
+  "page": null,
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/c-shapovalov-retires-khachanov-paris-masters-leading-4-1-en-1280.jpg",
+    "src800": "/photos/c-shapovalov-retires-khachanov-paris-masters-leading-4-1-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/c-shapovalov-retires-khachanov-paris-masters-leading-4-1-hi-1280.jpg",
+    "src800": "/photos/c-shapovalov-retires-khachanov-paris-masters-leading-4-1-hi-640.jpg"
+   }
+  }
  },
  "shapovalov-retires-khachanov-paris-masters-leading-4-1--bg": {
   "id": "v-shapovalov-retires-khachanov-paris-masters-leading-4-1-bg",
@@ -25593,6 +25617,210 @@
   "licence": "CC BY-SA 4.0",
   "alt": "Punjab BJP president Kewal Singh Dhillon (file photo)",
   "alt_hi": "पंजाब भाजपा अध्यक्ष केवल सिंह ढिल्लों (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "brothers-arrested-cheetah-shot-dead-madhya-pradesh": {
+  "id": "v-brothers-arrested-cheetah-shot-dead-madhya-pradesh",
+  "src": "/photos/v-brothers-arrested-cheetah-shot-dead-madhya-pradesh-1280.jpg",
+  "src800": "/photos/v-brothers-arrested-cheetah-shot-dead-madhya-pradesh-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Ujjwalwii / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "A cheetah in Kuno National Park, Madhya Pradesh (file photo)",
+  "alt_hi": "मध्य प्रदेश के कूनो नेशनल पार्क में एक चीता (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "brothers-arrested-cheetah-shot-dead-madhya-pradesh--bg": {
+  "id": "v-brothers-arrested-cheetah-shot-dead-madhya-pradesh-bg",
+  "src": "/photos/v-brothers-arrested-cheetah-shot-dead-madhya-pradesh-bg-1280.jpg",
+  "src800": "/photos/v-brothers-arrested-cheetah-shot-dead-madhya-pradesh-bg-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: PMO India / Wikimedia Commons",
+  "licence": "CC BY 3.0",
+  "alt": "Cheetah Kuno National Park (file photo)",
+  "alt_hi": "Cheetah Kuno National Park (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "brothers-arrested-cheetah-shot-dead-madhya-pradesh--p1": {
+  "id": "v-brothers-arrested-cheetah-shot-dead-madhya-pradesh-p1",
+  "src": "/photos/v-brothers-arrested-cheetah-shot-dead-madhya-pradesh-p1-1280.jpg",
+  "src800": "/photos/v-brothers-arrested-cheetah-shot-dead-madhya-pradesh-p1-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: M G Chandrasekr / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Grassland and forest in Kuno National Park (file photo)",
+  "alt_hi": "कूनो नेशनल पार्क के घास के मैदान और जंगल (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "glenn-maxwell-retires-international-cricket-38": {
+  "id": "v-glenn-maxwell-retires-international-cricket-38",
+  "src": "/photos/v-glenn-maxwell-retires-international-cricket-38-1280.jpg",
+  "src800": "/photos/v-glenn-maxwell-retires-international-cricket-38-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: www.davidmolloyphotography.com from Sydney, Australia / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Australian cricketer Glenn Maxwell (file photo)",
+  "alt_hi": "ऑस्ट्रेलियाई क्रिकेटर ग्लेन मैक्सवेल (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "glenn-maxwell-retires-international-cricket-38--bg": {
+  "id": "v-glenn-maxwell-retires-international-cricket-38-bg",
+  "src": "/photos/v-glenn-maxwell-retires-international-cricket-38-bg-1280.jpg",
+  "src800": "/photos/v-glenn-maxwell-retires-international-cricket-38-bg-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Anand Desai / Wikimedia Commons",
+  "licence": "CC BY 3.0",
+  "alt": "Wankhede Stadium (file photo)",
+  "alt_hi": "Wankhede Stadium (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "glenn-maxwell-retires-international-cricket-38--p1": {
+  "id": "v-glenn-maxwell-retires-international-cricket-38-p1",
+  "src": "/photos/v-glenn-maxwell-retires-international-cricket-38-p1-1280.jpg",
+  "src800": "/photos/v-glenn-maxwell-retires-international-cricket-38-p1-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Manas46951 / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Wankhede Stadium, Mumbai (file photo)",
+  "alt_hi": "वानखेड़े स्टेडियम, मुंबई (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "glenn-maxwell-retires-international-cricket-38--p2": {
+  "id": "v-glenn-maxwell-retires-international-cricket-38-p2",
+  "src": "/photos/v-glenn-maxwell-retires-international-cricket-38-p2-1280.jpg",
+  "src800": "/photos/v-glenn-maxwell-retires-international-cricket-38-p2-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Brihaspati / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Narendra Modi Stadium, Ahmedabad (file photo)",
+  "alt_hi": "नरेंद्र मोदी स्टेडियम, अहमदाबाद (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "navy-marcos-free-hijacked-fishing-vessel-azini-somalia-20-crew": {
+  "id": "v-navy-marcos-free-hijacked-fishing-vessel-azini-somalia-20-cr",
+  "src": "/photos/v-navy-marcos-free-hijacked-fishing-vessel-azini-somalia-20-cr-1280.jpg",
+  "src800": "/photos/v-navy-marcos-free-hijacked-fishing-vessel-azini-somalia-20-cr-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: U.S. Navy photo by Mass Communication Specialist Seaman Drace Wilson / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Indian Navy destroyer INS Kolkata (file photo)",
+  "alt_hi": "भारतीय नौसेना का विध्वंसक आईएनएस कोलकाता (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "navy-marcos-free-hijacked-fishing-vessel-azini-somalia-20-crew--bg": {
+  "id": "v-navy-marcos-free-hijacked-fishing-vessel-azini-somalia--bg",
+  "src": "/photos/v-navy-marcos-free-hijacked-fishing-vessel-azini-somalia--bg-1280.jpg",
+  "src800": "/photos/v-navy-marcos-free-hijacked-fishing-vessel-azini-somalia--bg-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: U.S. Navy photo by Mass Communication Specialist Seaman Drace Wilson / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "INS Kolkata (D63) (file photo)",
+  "alt_hi": "INS Kolkata (D63) (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "navy-marcos-free-hijacked-fishing-vessel-azini-somalia-20-crew--in": {
+  "id": "v-navy-marcos-free-hijacked-fishing-vessel-azini-somalia--in",
+  "src": "/photos/v-navy-marcos-free-hijacked-fishing-vessel-azini-somalia--in-1280.jpg",
+  "src800": "/photos/v-navy-marcos-free-hijacked-fishing-vessel-azini-somalia--in-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Akshay Daniel / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Boeing P-8I Neptune (file photo)",
+  "alt_hi": "Boeing P-8I Neptune (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "navy-marcos-free-hijacked-fishing-vessel-azini-somalia-20-crew--p2": {
+  "id": "v-navy-marcos-free-hijacked-fishing-vessel-azini-somalia--p2",
+  "src": "/photos/v-navy-marcos-free-hijacked-fishing-vessel-azini-somalia--p2-1280.jpg",
+  "src800": "/photos/v-navy-marcos-free-hijacked-fishing-vessel-azini-somalia--p2-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Colin Cooke Photo / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "Indian Air Force C-17 Globemaster III transport aircraft (file photo)",
+  "alt_hi": "भारतीय वायुसेना का सी-17 ग्लोबमास्टर III परिवहन विमान (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "sindhu-lakshya-withdraw-korea-open-sindhu-japan-masters": {
+  "id": "v-sindhu-lakshya-withdraw-korea-open-sindhu-japan-masters",
+  "src": "/photos/v-sindhu-lakshya-withdraw-korea-open-sindhu-japan-masters-1280.jpg",
+  "src800": "/photos/v-sindhu-lakshya-withdraw-korea-open-sindhu-japan-masters-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photos: BBC World Service India Pvt. Ltd. / Wikimedia Commons; BugWarp / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Indian badminton players PV Sindhu and Lakshya Sen (file photo)",
+  "alt_hi": "भारतीय बैडमिंटन खिलाड़ी पीवी सिंधु और लक्ष्य सेन (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "sindhu-lakshya-withdraw-korea-open-sindhu-japan-masters--p2": {
+  "id": "v-sindhu-lakshya-withdraw-korea-open-sindhu-japan-masters-p2",
+  "src": "/photos/v-sindhu-lakshya-withdraw-korea-open-sindhu-japan-masters-p2-1280.jpg",
+  "src800": "/photos/v-sindhu-lakshya-withdraw-korea-open-sindhu-japan-masters-p2-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Nardisoero / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "South Korean badminton player An Se-young (file photo)",
+  "alt_hi": "दक्षिण कोरिया की बैडमिंटन खिलाड़ी आन से-यंग (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "sri-lotus-developers-promoter-ofs-opens-floor-240-sebi-waiver": {
+  "id": "v-sri-lotus-developers-promoter-ofs-opens-floor-240-sebi-waive",
+  "src": "/photos/v-sri-lotus-developers-promoter-ofs-opens-floor-240-sebi-waive-1280.jpg",
+  "src800": "/photos/v-sri-lotus-developers-promoter-ofs-opens-floor-240-sebi-waive-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: DollyBNB / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Sri Lotus Developers promoter Anand Pandit (file photo)",
+  "alt_hi": "श्री लोटस डेवलपर्स के प्रमोटर आनंद पंडित (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "sri-lotus-developers-promoter-ofs-opens-floor-240-sebi-waiver--p1": {
+  "id": "v-sri-lotus-developers-promoter-ofs-opens-floor-240-sebi--p1",
+  "src": "/photos/v-sri-lotus-developers-promoter-ofs-opens-floor-240-sebi--p1-1280.jpg",
+  "src800": "/photos/v-sri-lotus-developers-promoter-ofs-opens-floor-240-sebi--p1-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: AroundTheGlobe / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "BSE building in Mumbai (file photo)",
+  "alt_hi": "मुंबई में बीएसई की इमारत (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "sri-lotus-developers-promoter-ofs-opens-floor-240-sebi-waiver--p2": {
+  "id": "v-sri-lotus-developers-promoter-ofs-opens-floor-240-sebi--p2",
+  "src": "/photos/v-sri-lotus-developers-promoter-ofs-opens-floor-240-sebi--p2-1280.jpg",
+  "src800": "/photos/v-sri-lotus-developers-promoter-ofs-opens-floor-240-sebi--p2-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Jimmy vikas / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "SEBI Bhavan, headquarters of the Securities and Exchange Board of India (file photo)",
+  "alt_hi": "भारतीय प्रतिभूति और विनिमय बोर्ड का मुख्यालय सेबी भवन (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "sunetra-pawar-calls-ncp-mlas-devgiri-bjp-concern": {
+  "id": "v-sunetra-pawar-calls-ncp-mlas-devgiri-bjp-concern",
+  "src": "/photos/v-sunetra-pawar-calls-ncp-mlas-devgiri-bjp-concern-1280.jpg",
+  "src800": "/photos/v-sunetra-pawar-calls-ncp-mlas-devgiri-bjp-concern-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Pinakpani / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Mantralaya, the Maharashtra government headquarters in Mumbai (file photo)",
+  "alt_hi": "मुंबई में महाराष्ट्र सरकार का मुख्यालय मंत्रालय (फ़ाइल फ़ोटो)",
   "page": null
  }
 }
