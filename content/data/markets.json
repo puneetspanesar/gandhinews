@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-03T09:50:00+05:30",
+  "as_of": "2026-11-03T13:25:00+05:30",
   "status": "open",
   "session_date": "2026-11-03",
   "chart": "nifty-50",
@@ -8,9 +8,9 @@
       "id": "sensex",
       "name": "Sensex",
       "name_hi": "सेंसेक्स",
-      "value": 76288.65,
-      "change": 595.87,
-      "pct": 0.79,
+      "value": 76358.0,
+      "change": 665.22,
+      "pct": 0.88,
       "history": [
         {
           "date": "2026-09-30",
@@ -89,7 +89,7 @@
           "close": 75692.78
         }
       ],
-      "source": "https://upstox.com/news/market-news/stocks/sensex-gains-600-points-nifty-50-opens-at-23-582-level-indi-go-shriram-finance-asian-paints-lead-pack-of-gainers/article-202861/ (opening print)"
+      "source": "https://www.freepressjournal.in/business/bulls-tighten-their-grip-on-d-street-sensex-zooms-over-600-points-to-76358-and-nifty-crosses-23600-as-strong-q2-earnings-and-cheaper-crude-lift-markets"
     },
     {
       "id": "nifty-50",
@@ -346,6 +346,7 @@
     "3 Nov 06:00 IST run: Brent updated to the 2 Nov settle $104.77 (-7.6%, STL.News); change against the file's previous reference ($113.43). Indian markets closed overnight; Indian indices, rupee, gold, silver, flows unchanged since the 2 Nov close.",
     "3 Nov 08:00 IST run: before the open. No newer settle for Brent or gold (Brent traded near $104.4 in Asia at 08:00 IST per Business Standard, not a settle). GIFT Nifty at 23,537 (+134) at about 07:56 IST points to a higher open. All values unchanged since the 2 Nov close.",
     "3 Nov 09:12 IST run (pre-open): rupee opened at 94.69, 21 paise stronger vs a 94.90 Monday close (Bloomberg via Business Standard, 09:02 IST; PTI had the close at 94.86). Pre-open indications only, not trading values: Sensex 76,287 (+594, +0.79%) at 09:07 and Nifty 50 23,579 (+142, +0.60%) at 09:08; GIFT Nifty 23,525.50 (+123, +0.53%) at 08:36 (all Business Standard). Indices stay at the 2 Nov close with status closed until the 09:15 open. Brent keeps the 2 Nov settle $104.77 (Asia quotes: $104.41 at 08:24 IST per Business Standard; Trading Economics CFD $104.74, neither a settle). Gold and silver keep earlier MCX levels (only % moves, no prices, were found); 10-year G-sec yield not refreshed (source page could not be read).",
-    "3 Nov opening prints for Sensex and Nifty (09:15 IST, read 09:50); other indices, rates and sectors keep their earlier values and dates."
+    "3 Nov opening prints for Sensex and Nifty (09:15 IST, read 09:50); other indices, rates and sectors keep their earlier values and dates.",
+    "3 Nov 13:00 IST run: Sensex 76,358 from a Free Press Journal midday report (headline level; change worked out against the 2 Nov close 75,692.78). Nifty 50 was reported above 23,600 with no exact level, so it keeps the opening print. Other values unchanged."
   ]
 }

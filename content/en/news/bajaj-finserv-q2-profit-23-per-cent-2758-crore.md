@@ -58,10 +58,6 @@ Bajaj Finserv, the holding company for Bajaj Finance and the group's insurance b
 
 Consolidated profit after tax for the July to September quarter came to ₹2,757.66 crore, against ₹2,244.1 crore a year earlier. **Revenue from operations rose 16.7%** to ₹43,415.65 crore, from ₹37,214.56 crore in the same quarter of 2025.
 
-```photo
-{"n":1,"subject":"Bajaj Finance","caption":"Bajaj Finance, the consumer lender that is the largest contributor to Bajaj Finserv's earnings.","alt":"Bajaj Finance branding"}
-```
-
 Net interest income, the gap between what the group earns on loans and pays on borrowings, grew **23.6% to ₹13,335 crore**, from ₹10,785 crore a year ago.
 
 ## The lender does the heavy lifting
@@ -69,9 +65,5 @@ Net interest income, the gap between what the group earns on loans and pays on b
 Much of the gain traces back to Bajaj Finance, India's largest consumer lender, which reported its own numbers on 19 October. That company's profit **rose 29% to ₹6,367 crore** in the quarter, and it raised its loan growth forecast for the year, though it warned that further interest rate rises could squeeze its margins.
 
 The Reserve Bank of India raised the repo rate by 25 basis points in October, pushing up borrowing costs for non-bank lenders. Bajaj Finserv's results suggest the group has so far grown its loan book fast enough to stay ahead of that pressure.
-
-```photo
-{"n":2,"subject":"Reserve Bank of India headquarters Mumbai","caption":"The Reserve Bank of India, whose October rate rise has raised funding costs for lenders such as Bajaj Finance.","alt":"Reserve Bank of India headquarters in Mumbai"}
-```
 
 The results came in the middle of a busy earnings day, with State Bank of India, Lupin and the National Stock Exchange also due to report their September quarter numbers. Investors will now look for the breakdown of the group's general and life insurance businesses, which were **not detailed in the first figures** released on Tuesday.

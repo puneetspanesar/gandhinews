@@ -75,10 +75,6 @@ The memorandums ask each firm for its total workforce, the **share of employees 
 
 D K Shivakumar had appealed to pro-Kannada groups to stay out of company premises. "I appeal to all organisations not to visit IT-BT companies directly or take matters into their own hands," he said. "Such issues must be resolved through dialogue and within the framework of the law." He added that the government "remains firmly committed to protecting the rights and interests of Kannadigas".
 
-```photo
-{"n":2,"subject":"Vidhana Soudha","caption":"Vidhana Soudha, seat of the Karnataka government, which has asked the groups to take their grievances to it instead of to companies.","alt":"Vidhana Soudha, Bengaluru"}
-```
-
 The Vedike has **rejected the appeal and pressed on**, saying it will take what it collects to the companies and the state government. On 25 October Shivakumar had warned that the government would act if private institutions were found deliberately sidelining Kannadigas.
 
 The campaign revives a fight from 2024, when Karnataka's proposed law reserving private-sector jobs for locals was **put on hold after strong opposition from industry**. No company has commented publicly on the visits.
