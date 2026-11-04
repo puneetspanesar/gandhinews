@@ -1,16 +1,16 @@
 {
-  "as_of": "2026-11-03T22:25:00+05:30",
-  "status": "closed",
-  "session_date": "2026-11-03",
+  "as_of": "2026-11-04T09:56:00+05:30",
+  "status": "open",
+  "session_date": "2026-11-04",
   "chart": "nifty-50",
   "indices": [
     {
       "id": "sensex",
       "name": "Sensex",
       "name_hi": "सेंसेक्स",
-      "value": 76917.85,
-      "change": 1225.07,
-      "pct": 1.62,
+      "value": 77352.95,
+      "change": 435.1,
+      "pct": 0.57,
       "history": [
         {
           "date": "2026-09-30",
@@ -93,15 +93,15 @@
           "close": 76917.85
         }
       ],
-      "source": "https://upstox.com/news/market-news/stocks/market-wrap-nov-3-sensex-jumps-1-225-pts-nifty-50-ends-at-23-810-nse-listed-firms-add-5-lakh-crore-mcap/article-202904/"
+      "source": "https://www.etvbharat.com/en/business/rupee-us-dollar-exchange-rat-eon-november-4-2026-enn26110401065"
     },
     {
       "id": "nifty-50",
       "name": "Nifty 50",
       "name_hi": "निफ्टी 50",
-      "value": 23810.85,
-      "change": 370.05,
-      "pct": 1.58,
+      "value": 23925.1,
+      "change": 115.9,
+      "pct": 0.49,
       "history": [
         {
           "date": "2026-09-30",
@@ -188,7 +188,7 @@
           "close": 23810.85
         }
       ],
-      "source": "https://upstox.com/news/market-news/stocks/market-wrap-nov-3-sensex-jumps-1-225-pts-nifty-50-ends-at-23-810-nse-listed-firms-add-5-lakh-crore-mcap/article-202904/"
+      "source": "https://www.etvbharat.com/en/business/rupee-us-dollar-exchange-rat-eon-november-4-2026-enn26110401065"
     },
     {
       "id": "nifty-it",
@@ -226,12 +226,12 @@
       "id": "usd-inr",
       "name": "Rupee per dollar",
       "name_hi": "रुपया प्रति डॉलर",
-      "value": 94.74,
-      "change": -0.16,
-      "pct": -0.17,
+      "value": 94.61,
+      "change": -0.14,
+      "pct": -0.15,
       "decimals": 2,
       "unit": "",
-      "source": "https://hdfcsky.com/news/market-close-report-today-november-3-2026-diwali-party-continues-as-benchmarks-extend-mega-rally"
+      "source": "https://www.etvbharat.com/en/business/rupee-us-dollar-exchange-rat-eon-november-4-2026-enn26110401065"
     },
     {
       "id": "brent",
@@ -239,11 +239,11 @@
       "name_hi": "ब्रेंट क्रूड",
       "unit": "$/barrel",
       "unit_hi": "$/बैरल",
-      "value": 101.32,
-      "change": -3.45,
-      "pct": -3.29,
+      "value": 103.09,
+      "change": -0.51,
+      "pct": -0.49,
       "decimals": 2,
-      "source": "https://gvwire.com/2026/11/03/oil-prices-slide-after-trump-comment-on-stopping-israel-aid/"
+      "source": "https://www.etvbharat.com/en/business/rupee-us-dollar-exchange-rat-eon-november-4-2026-enn26110401065"
     },
     {
       "id": "gold",
@@ -355,32 +355,13 @@
   ],
   "sectors_source": "IT, Auto, FMCG, Energy, Media: https://hdfcsky.com/news/weekly-stock-market-review-october-26-30-2026-nifty-reclaims-23053-as-pharma-surges-6-1percent-jio-platforms-lists-at-21percent-premium-fiis-return-with-rs3599-crore ; Pharma: https://www.5paisa.com/blog/post-market-update-sensex-nifty-rise-second-day-broader-markets-fall-october-30-2026 ; Consumer Durables: https://www.kotakneo.com/news/market-news/sensex-and-nifty-50-close-higher-amid-global-headwinds/ . Bank, Metal, Realty only described as 'down about 0.5%' and PSU Bank as 'down over 1%' (HDFC Sky daily report), so left null.",
   "flows": {
-    "date": "2026-11-02",
-    "fii": 3114.68,
-    "dii": -392.2,
+    "date": "2026-11-03",
+    "fii": 6836.81,
+    "dii": -3678,
     "unit": "₹ crore",
-    "source": "https://trendlyne.com/macro-data/fii-dii/latest/cash-pastmonth/"
+    "source": "https://www.freepressjournal.in/business/stock-market-opens-on-a-cautious-note-as-global-technology-worries-weigh-on-dalal-street-sensex-dips-65-points-and-nifty-slides-below-23750-despite-strong-fii-comeback"
   },
   "notes": [
-    "2 Nov 13:00 IST run: movers updated from HDFC Sky 12:00 IST table. No Sensex, Nifty, rupee or Brent print newer than 11:22 IST was found in a readable source, so index and rate values are kept as they were.",
-    "2 Nov 14:00 IST run: Sensex and Nifty 50 from Business Standard live blog (14:00 IST). Nifty Bank, Midcap, VIX, rupee, gold, Brent and movers keep their earlier readings; no newer time-stamped values were found in this run.",
-    "2 Nov 16:10 IST run (close): Sensex close from Upstox market wrap (16:00 IST); Nifty 50 close and movers (three each) from Angel One (15:47 IST). Nifty IT, Midcap 150, India VIX, rates and sectors keep earlier readings; 2 Nov FII/DII flows not yet found.",
-    "2 Nov 17:00 IST run: rupee close 94.86 (down 10 paise) from PTI via Deccan Herald and HDFC Sky. 2 Nov FII/DII flows not yet published in a readable source; other values unchanged.",
-    "2 Nov 18:00 IST run: 2 Nov FII/DII provisional flows still not found in a readable, dated source; flows keep the 30 October figures. Other values unchanged since the close.",
-    "2 Nov 19:00 IST run: 2 Nov FII/DII provisional flows still not found in a readable, dated source; flows keep the 30 October figures. Other values unchanged since the close.",
-    "2 Nov 20:00 IST run: 2 Nov NSE provisional FII/DII cash flows (FII +3,114.68 cr, DII -392.20 cr) from Trendlyne summary (gross figures not loaded). Other values unchanged since the close.",
-    "2 Nov 21:00 IST run: Brent refreshed to $108.94 (down 3.96%) from MoneyCheck at 19:56 IST; Reuters had $108.64 later in the session. Indian indices, rupee, flows unchanged since the close.",
-    "2 Nov 22:00 IST run: Brent was reported more than 6% lower near $105 in New York trade, but no exact time-stamped settle or print was found in a readable source, so Brent keeps the 19:56 IST reading. Other values unchanged since the close.",
-    "3 Nov 00:00 IST run: Brent refreshed to $105.09 from the Alliance News London close report (22:34 IST); change is against the same previous reference the file used ($113.43). Not a settle. Indian indices, rupee, flows unchanged since the 2 Nov close.",
-    "3 Nov 06:00 IST run: Brent updated to the 2 Nov settle $104.77 (-7.6%, STL.News); change against the file's previous reference ($113.43). Indian markets closed overnight; Indian indices, rupee, gold, silver, flows unchanged since the 2 Nov close.",
-    "3 Nov 08:00 IST run: before the open. No newer settle for Brent or gold (Brent traded near $104.4 in Asia at 08:00 IST per Business Standard, not a settle). GIFT Nifty at 23,537 (+134) at about 07:56 IST points to a higher open. All values unchanged since the 2 Nov close.",
-    "3 Nov 09:12 IST run (pre-open): rupee opened at 94.69, 21 paise stronger vs a 94.90 Monday close (Bloomberg via Business Standard, 09:02 IST; PTI had the close at 94.86). Pre-open indications only, not trading values: Sensex 76,287 (+594, +0.79%) at 09:07 and Nifty 50 23,579 (+142, +0.60%) at 09:08; GIFT Nifty 23,525.50 (+123, +0.53%) at 08:36 (all Business Standard). Indices stay at the 2 Nov close with status closed until the 09:15 open. Brent keeps the 2 Nov settle $104.77 (Asia quotes: $104.41 at 08:24 IST per Business Standard; Trading Economics CFD $104.74, neither a settle). Gold and silver keep earlier MCX levels (only % moves, no prices, were found); 10-year G-sec yield not refreshed (source page could not be read).",
-    "3 Nov opening prints for Sensex and Nifty (09:15 IST, read 09:50); other indices, rates and sectors keep their earlier values and dates.",
-    "3 Nov 13:00 IST run: Sensex 76,358 from a Free Press Journal midday report (headline level; change worked out against the 2 Nov close 75,692.78). Nifty 50 was reported above 23,600 with no exact level, so it keeps the opening print. Other values unchanged.",
-    "3 Nov 19:00 IST run (close): Sensex 76,917.85 (+1,225.07, +1.62%), Nifty 50 23,810.85 (+370.05, +1.58%), India VIX 15.67 (+1.09%), movers and sectors from the Upstox market wrap (16:00 IST); rupee close 94.74 (16 paise stronger than 94.90) from HDFC Sky (16:25 IST). 3 Nov closes appended to Sensex and Nifty history. Nifty IT, Midcap, Brent, gold, silver, G-sec keep earlier readings. 3 Nov FII/DII provisional flows not yet found in this run; flows keep 2 Nov figures.",
-    "3 Nov 21:00 IST run: 3 Nov FII/DII provisional flows not found in a readable, dated source; flows keep 2 Nov figures. No newer Brent settle or Indian rate print found; all values unchanged since the close.",
-    "3 Nov 22:00 IST run: Brent refreshed to $101.32 (Reuters via GV Wire, 13:50 GMT / 19:20 IST print, not a settle); change against the 2 Nov settle $104.77. 3 Nov FII/DII provisional flows still not found in a readable, dated source; flows keep 2 Nov figures. Indian indices and rupee unchanged since the close.",
-    "4 Nov 00:00 IST run: no 3 Nov Brent settle and no 3 Nov FII/DII provisional flows found in a readable, dated source (two searches); all values unchanged since the 3 Nov close and the 22:00 IST Brent print.",
-    "4 Nov 07:00 IST run: before the open. No 3 Nov Brent settle and no 3 Nov FII/DII provisional flows found in a readable, dated source (two searches); all values unchanged since the 3 Nov close and the 22:00 IST Brent print."
+    "4 Nov early trade (09:56 IST): Sensex, Nifty 50, rupee, Brent updated. Other indices, movers and sectors still show the 3 Nov close."
   ]
 }
