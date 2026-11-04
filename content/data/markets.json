@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-04T17:13:00+05:30",
+  "as_of": "2026-11-04T22:25:00+05:30",
   "status": "closed",
   "session_date": "2026-11-04",
   "chart": "nifty-50",
@@ -407,15 +407,16 @@
   ],
   "sectors_source": "https://www.5paisa.com/blog/post-market-update-nifty-gains-5th-day-two-month-high-smallcap-jumps-november-4-2026 (Media, Realty, Metal, Energy, FMCG, Auto, IT); https://blog.liquide.life/share-market-today-nifty-reclaims-23-950-sensex-gains-383-points-as-metal-realty-and-energy-stocks-lead-rally/ (Consumer Durables, Financial Services, Bank, Pharma)",
   "flows": {
-    "date": "2026-11-03",
-    "fii": 6836.81,
-    "dii": -3678.85,
+    "date": "2026-11-04",
+    "fii": 7284.03,
+    "dii": -3712.23,
     "unit": "₹ crore",
-    "source": "https://upstox.com/news/market-news/stocks/market-wrap-nov-4-sensex-rises-383-pts-nifty-50-ends-at-23-960-nifty-smallcap-100-jumps-2-bel-top-gainer/article-202977/"
+    "source": "https://trendlyne.com/macro-data/fii-dii/latest/cash-pastmonth/"
   },
   "notes": [
     "4 Nov, read 13:20 IST: Sensex and Nifty 50 at about 11:44 IST from Kotak Neo midday report (newest found). Other indices, rates, movers and sectors kept from the early-trade read (ETV Bharat, HDFC Sky, Goodreturns, 09:36 to 10:25); midday report gave no figures for them.",
     "Nov 4 close, read 17:13 IST: Sensex/Nifty 50 from Upstox wrap. Nifty Bank from Liquide (page calls it a market snapshot, published 16:44 IST). Nifty Midcap 100 level and pct from 5paisa (no point change given); tile switched from Midcap 150 and Nifty IT tile replaced by Nifty Bank per format. India VIX 15.23 is HDFC Sky's 15:44 IST reading, not labelled official close. Rupee close 94.64 (prev 94.74) from 5paisa. Brent ($102.55, Jan futures) and MCX gold/silver are Kotak Neo intraday reads at about 15:35 IST; Brent pct not given. Movers from HDFC Sky close report. FII/DII flows still Nov 3: no Nov 4 NSE provisional figures found; 10-year G-sec not refreshed.",
-    "4 Nov, read 19:28 IST (hourly 19:00): no Nov 4 FII/DII provisional figure found in a source read; Nov 3 flows kept. Closing values unchanged."
+    "4 Nov, read 19:28 IST (hourly 19:00): no Nov 4 FII/DII provisional figure found in a source read; Nov 3 flows kept. Closing values unchanged.",
+    "4 Nov 22:25 IST: Nov 4 provisional FII/DII cash flows from Trendlyne (matches 5paisa to within Rs 0.03 crore). Other values unchanged."
   ]
 }

@@ -73,10 +73,6 @@ Wall Street **rallied hard at the open on Wednesday**, a day after Democrats won
 
 Half an hour into trading, the Dow Jones Industrial Average was **up 1,131 points, or 2.2%**. The S&P 500 gained 1.6% and the technology-heavy Nasdaq Composite rose 2%. Treasury yields fell. President Donald Trump's acceptance of the results added to the relief.
 
-```photo
-{"n":1,"subject":"United States Capitol","caption":"The US Capitol in Washington, where Democrats will now control both chambers of Congress for the last two years of Donald Trump's term.","alt":"The United States Capitol building in Washington (file photo)"}
-```
-
 The biggest companies did the heavy lifting. Amazon **rose more than 8%**, Microsoft gained 6.7% and Apple 6.3%, while Alphabet added 5%. Nvidia was the odd one out, slipping half a per cent.
 
 Results drove the sharpest single moves. Duolingo **jumped about 31%** after strong quarterly numbers and a raised forecast. Telecom software company Amdocs fell about 30% after a weak outlook tied to a legal dispute with T-Mobile, and payments firm FIS lost 22% after cutting its full-year forecast.

@@ -68,17 +68,9 @@ India are in the final of the men's Asian Champions Trophy. Harmanpreet Singh's 
 
 The match was effectively settled by half-time, when **India led 6-1**. Shilanand Lakra opened the scoring in the fourth minute, and Harmanpreet added a penalty-corner goal in the ninth. South Korea pulled one back the same minute through Han Sangjun, but that was as close as they came.
 
-```photo
-{"n":1,"subject":"Harmanpreet Singh","caption":"India captain Harmanpreet Singh scored from a penalty corner in the ninth minute of the semi-final.","alt":"India hockey captain Harmanpreet Singh"}
-```
-
 Lakra **struck again in the 13th minute**. Sukhjeet Singh and Dilpreet Singh both scored in the 21st, and Dilpreet got his second four minutes later. He had also scored twice in the 8-0 league win on Monday.
 
 India kept pressing after the break. Angad Bir Singh made it 7-1 in the 36th minute, and Vivek Sagar Prasad **completed the scoring in the 54th**.
-
-```photo
-{"n":2,"subject":"Vivek Sagar Prasad","caption":"Vivek Sagar Prasad scored India's eighth goal in the 54th minute.","alt":"India hockey midfielder Vivek Sagar Prasad"}
-```
 
 The win takes India into the final **for a record seventh time**. The five-time champions have now won all six of their games in the tournament.
 

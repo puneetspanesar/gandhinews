@@ -28379,5 +28379,46 @@
     "src800": "/photos/i-us-midterms-alaska-sullivan-peltola-too-close-to-call-hi-640.jpg"
    }
   }
+ },
+ "india-beat-south-korea-8-1-asian-champions-trophy-semi-final-mohali": {
+  "id": "i-india-beat-south-korea-8-1-asian-champions-trophy-semi-final-mohali",
+  "src": "/photos/i-india-beat-south-korea-8-1-asian-champions-trophy-semi-final-mohali-en-3x2-1280.jpg",
+  "src800": "/photos/i-india-beat-south-korea-8-1-asian-champions-trophy-semi-final-mohali-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: India hit eight again to reach the final",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: फिर आठ गोल, भारत फाइनल में",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-india-beat-south-korea-8-1-asian-champions-trophy-semi-final-mohali-hi-3x2-1280.jpg",
+    "src800": "/photos/i-india-beat-south-korea-8-1-asian-champions-trophy-semi-final-mohali-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-india-beat-south-korea-8-1-asian-champions-trophy-semi-final-mohali-en-t-1280.jpg",
+    "src800": "/photos/i-india-beat-south-korea-8-1-asian-champions-trophy-semi-final-mohali-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-india-beat-south-korea-8-1-asian-champions-trophy-semi-final-mohali-hi-t-1280.jpg",
+    "src800": "/photos/i-india-beat-south-korea-8-1-asian-champions-trophy-semi-final-mohali-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-india-beat-south-korea-8-1-asian-champions-trophy-semi-final-mohali-en-1280.jpg",
+    "src800": "/photos/i-india-beat-south-korea-8-1-asian-champions-trophy-semi-final-mohali-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-india-beat-south-korea-8-1-asian-champions-trophy-semi-final-mohali-hi-1280.jpg",
+    "src800": "/photos/i-india-beat-south-korea-8-1-asian-champions-trophy-semi-final-mohali-hi-640.jpg"
+   }
+  }
  }
 }
