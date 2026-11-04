@@ -28094,5 +28094,87 @@
     "src800": "/photos/i-two-child-norm-explained-javed-ruling-larger-bench-hi-640.jpg"
    }
   }
+ },
+ "dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend": {
+  "id": "i-dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend",
+  "src": "/photos/i-dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend-en-3x2-1280.jpg",
+  "src800": "/photos/i-dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Dabur profit up 12% on steady demand",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: स्थिर मांग से डाबर का मुनाफा 12% बढ़ा",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend-hi-3x2-1280.jpg",
+    "src800": "/photos/i-dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend-en-t-1280.jpg",
+    "src800": "/photos/i-dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend-hi-t-1280.jpg",
+    "src800": "/photos/i-dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend-en-1280.jpg",
+    "src800": "/photos/i-dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend-hi-1280.jpg",
+    "src800": "/photos/i-dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend-hi-640.jpg"
+   }
+  }
+ },
+ "supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board": {
+  "id": "i-supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board",
+  "src": "/photos/i-supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board-en-3x2-1280.jpg",
+  "src800": "/photos/i-supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Chidambaram temple board order stayed",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: चिदंबरम मंदिर बोर्ड के आदेश पर रोक",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board-hi-3x2-1280.jpg",
+    "src800": "/photos/i-supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board-en-t-1280.jpg",
+    "src800": "/photos/i-supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board-hi-t-1280.jpg",
+    "src800": "/photos/i-supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board-en-1280.jpg",
+    "src800": "/photos/i-supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board-hi-1280.jpg",
+    "src800": "/photos/i-supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board-hi-640.jpg"
+   }
+  }
  }
 }
