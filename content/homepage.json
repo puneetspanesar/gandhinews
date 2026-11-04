@@ -3,12 +3,12 @@
     "id": "us-midterms-democrats-win-senate-talarico-brown-flip",
     "overlay": {
       "kicker": {
-        "en": "World / US midterms",
-        "hi": "दुनिया / अमेरिकी मध्यावधि चुनाव"
+        "en": "Economy / Policy",
+        "hi": "अर्थव्यवस्था / नीति"
       },
       "value": {
-        "en": "Democrats take both chambers",
-        "hi": "दोनों सदनों पर डेमोक्रेट्स का कब्ज़ा"
+        "en": "₹14,500 cr for energy storage",
+        "hi": "ऊर्जा भंडारण को ₹14,500 करोड़"
       },
       "text": {
         "en": "",
@@ -22,9 +22,11 @@
       "us-midterms-hamilton-flips-kansas-senate-marshall"
     ],
     "relatedBeside": [
+      "cabinet-energy-storage-vgf-14500-crore-critical-minerals-2814",
+      "himanta-purnea-rally-rahul-bangladesh-seemanchal-sir",
+      "india-beat-new-zealand-five-wickets-dls-eden-park-first-odi",
       "rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs",
-      "sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4",
-      "india-beat-new-zealand-five-wickets-dls-eden-park-first-odi"
+      "dewas-inspector-dilip-puri-accused-shot-leg-custody"
     ],
     "live": {
       "title": {
@@ -36,6 +38,39 @@
   "briefing": {
     "items": [
       {
+        "link": "us-midterms-democrats-win-senate-talarico-brown-flip",
+        "lead": {
+          "en": "US midterms:",
+          "hi": "अमेरिकी चुनाव:"
+        },
+        "text": {
+          "en": "Democrats win the Senate, taking both chambers of Congress from Trump",
+          "hi": "सीनेट भी डेमोक्रेट्स के हाथ, ट्रंप से छिना कांग्रेस के दोनों सदनों का नियंत्रण"
+        }
+      },
+      {
+        "link": "cabinet-energy-storage-vgf-14500-crore-critical-minerals-2814",
+        "lead": {
+          "en": "Energy:",
+          "hi": "ऊर्जा:"
+        },
+        "text": {
+          "en": "Cabinet clears ₹14,500 crore to build 92 GWh of energy storage and ₹2,814 crore for lithium, nickel plants",
+          "hi": "कैबिनेट ने 92 GWh ऊर्जा भंडारण के लिए ₹14,500 करोड़ और लिथियम-निकल संयंत्रों के लिए ₹2,814 करोड़ मंजूर किए"
+        }
+      },
+      {
+        "link": "himanta-purnea-rally-rahul-bangladesh-seemanchal-sir",
+        "lead": {
+          "en": "Bihar:",
+          "hi": "बिहार:"
+        },
+        "text": {
+          "en": "Himanta says he will 'send Rahul Gandhi to Bangladesh', demands fresh SIR in Seemanchal",
+          "hi": "हिमंत बोले, 'राहुल गांधी को बांग्लादेश भेजेंगे', सीमांचल में नए SIR की मांग"
+        }
+      },
+      {
         "link": "rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs",
         "lead": {
           "en": "Punjab:",
@@ -44,17 +79,6 @@
         "text": {
           "en": "Rahul Gandhi brings Moosewala's father on stage in Sangrur, says killers' mindset roams Punjab",
           "hi": "संगरूर में राहुल गांधी ने मूसेवाला के पिता को मंच पर बुलाया, बोले, पंजाब में घूम रही है हत्यारों की सोच"
-        }
-      },
-      {
-        "link": "sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4",
-        "lead": {
-          "en": "Markets:",
-          "hi": "बाज़ार:"
-        },
-        "text": {
-          "en": "Sensex rises 383 points for a fifth straight gain as BEL leads and smallcaps jump 2%",
-          "hi": "सेंसेक्स 383 अंक चढ़ा, लगातार पांचवें दिन बढ़त; बीईएल सबसे आगे, स्मॉलकैप 2% उछले"
         }
       },
       {
@@ -69,58 +93,36 @@
         }
       },
       {
-        "link": "us-midterms-democrats-win-senate-talarico-brown-flip",
+        "link": "jitin-prasada-warsaw-wb-group-creotech-india-poland-ties",
         "lead": {
-          "en": "US midterms:",
-          "hi": "अमेरिकी मध्यावधि चुनाव:"
+          "en": "Poland:",
+          "hi": "पोलैंड:"
         },
         "text": {
-          "en": "Democrats take the Senate as Talarico and Brown flip seats",
-          "hi": "टैलारिको और ब्राउन की जीत से सीनेट डेमोक्रेट्स के हाथ"
-        }
-      },
-      {
-        "link": "supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification",
-        "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
-        },
-        "text": {
-          "en": "Supreme Court gives Madhya Pradesh Speaker two months to decide on Nirmala Sapre's disqualification",
-          "hi": "निर्मला सप्रे की सदस्यता पर सुप्रीम कोर्ट ने मध्य प्रदेश के स्पीकर को दो महीने में फैसला करने को कहा"
-        }
-      },
-      {
-        "link": "psg-six-villarreal-record-bayern-win-madrid-cunha-united",
-        "lead": {
-          "en": "Football:",
-          "hi": "फ़ुटबॉल:"
-        },
-        "text": {
-          "en": "PSG hit Villarreal for six as Bayern win in Madrid",
-          "hi": "पीएसजी ने विय्यारियाल को 6-0 से रौंदा, बायर्न की मैड्रिड में जीत"
-        }
-      },
-      {
-        "link": "jaishankar-chogm-antigua-dpi-ftas-executive-session",
-        "lead": {
-          "en": "Jaishankar:",
-          "hi": "जयशंकर:"
-        },
-        "text": {
-          "en": "Jaishankar pitches digital public infrastructure and FTAs at CHOGM in Antigua",
-          "hi": "जयशंकर ने एंटीगुआ में राष्ट्रमंडल बैठक में डिजिटल ढांचे और मुक्त व्यापार समझौतों की बात रखी"
+          "en": "Jitin Prasada meets Polish defence, space and IT bosses in Warsaw",
+          "hi": "जितिन प्रसाद ने वारसॉ में पोलैंड की रक्षा, अंतरिक्ष और आईटी कंपनियों के प्रमुखों से मुलाकात की"
         }
       },
       {
         "link": "dewas-inspector-dilip-puri-accused-shot-leg-custody",
         "lead": {
-          "en": "Madhya Pradesh:",
-          "hi": "मध्य प्रदेश:"
+          "en": "Dewas:",
+          "hi": "देवास:"
         },
         "text": {
           "en": "Accused in Dewas inspector's killing shot in leg, police say he tried to flee custody",
           "hi": "देवास में इंस्पेक्टर की मौत का आरोपी पैर में गोली लगने से घायल, पुलिस बोली हिरासत से भागने की कोशिश की"
+        }
+      },
+      {
+        "link": "jaishankar-chogm-antigua-dpi-ftas-executive-session",
+        "lead": {
+          "en": "CHOGM:",
+          "hi": "चोगम:"
+        },
+        "text": {
+          "en": "Jaishankar pitches India's digital public infrastructure and trade deals to Commonwealth leaders in Antigua",
+          "hi": "एंटीगा में जयशंकर ने राष्ट्रमंडल नेताओं के सामने रखा भारत का डिजिटल ढांचा और व्यापार समझौते"
         }
       }
     ]
@@ -188,17 +190,16 @@
   },
   "topStories": {
     "big": {
-      "id": "dewas-inspector-dilip-puri-accused-shot-leg-custody",
+      "id": "jitin-prasada-warsaw-wb-group-creotech-india-poland-ties",
       "also": []
     },
     "list": [
-      "supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification",
       "jaishankar-chogm-antigua-dpi-ftas-executive-session",
-      "psg-six-villarreal-record-bayern-win-madrid-cunha-united"
+      "psg-six-villarreal-record-bayern-win-madrid-cunha-united",
+      "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip",
+      "apple-app-store-18-plus-dating-ai-companion-apps"
     ],
-    "also": [
-      "misri-lands-kathmandu-today-three-post-diwali-dates-shah"
-    ]
+    "also": []
   },
   "startHere": [
     "us-midterms-explained-congress-tariffs-what-it-means-for-india",
@@ -373,15 +374,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification",
-        "supreme-court-child-labour-special-cell-centre",
-        "supreme-court-two-child-norm-javed-larger-bench"
+        "himanta-purnea-rally-rahul-bangladesh-seemanchal-sir",
+        "rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs",
+        "supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification"
       ],
-      "lead": "rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs"
+      "lead": "nadda-bhopal-loktantra-bachao-march-emergency-rahul"
     },
     {
       "section": "economy",
-      "lead": "sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4",
+      "lead": "lenskart-q2-profit-doubles-jyothy-labs-buyback",
       "module": {
         "type": "markets",
         "indicators": [
@@ -392,10 +393,10 @@
         ]
       },
       "list": [
+        "sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4",
+        "cabinet-energy-storage-vgf-14500-crore-critical-minerals-2814",
         "rbi-financial-markets-consultative-committee-rohit-jain",
-        "mcx-q2-profit-454-crore-revenue-doubles",
-        "nse-q2-profit-23-per-cent-2578-crore-coal-exchange-stake",
-        "sensex-1225-points-nifty-23811-fourth-day-rally-november-3"
+        "mcx-q2-profit-454-crore-revenue-doubles"
       ]
     },
     {
