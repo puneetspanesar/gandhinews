@@ -28220,5 +28220,46 @@
   "alt": "The Madras High Court building in Chennai (file photo)",
   "alt_hi": "चेन्नई में मद्रास हाईकोर्ट की इमारत (फ़ाइल फ़ोटो)",
   "page": null
+ },
+ "naveen-patnaik-writes-majhi-kotia-andhra-elections": {
+  "id": "i-naveen-patnaik-writes-majhi-kotia-andhra-elections",
+  "src": "/photos/i-naveen-patnaik-writes-majhi-kotia-andhra-elections-en-3x2-1280.jpg",
+  "src800": "/photos/i-naveen-patnaik-writes-majhi-kotia-andhra-elections-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Naveen writes again to Majhi on Kotia",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: नवीन ने कोटिया पर माझी को फिर लिखा",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-naveen-patnaik-writes-majhi-kotia-andhra-elections-hi-3x2-1280.jpg",
+    "src800": "/photos/i-naveen-patnaik-writes-majhi-kotia-andhra-elections-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-naveen-patnaik-writes-majhi-kotia-andhra-elections-en-t-1280.jpg",
+    "src800": "/photos/i-naveen-patnaik-writes-majhi-kotia-andhra-elections-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-naveen-patnaik-writes-majhi-kotia-andhra-elections-hi-t-1280.jpg",
+    "src800": "/photos/i-naveen-patnaik-writes-majhi-kotia-andhra-elections-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-naveen-patnaik-writes-majhi-kotia-andhra-elections-en-1280.jpg",
+    "src800": "/photos/i-naveen-patnaik-writes-majhi-kotia-andhra-elections-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-naveen-patnaik-writes-majhi-kotia-andhra-elections-hi-1280.jpg",
+    "src800": "/photos/i-naveen-patnaik-writes-majhi-kotia-andhra-elections-hi-640.jpg"
+   }
+  }
  }
 }
