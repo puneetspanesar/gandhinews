@@ -22,9 +22,9 @@
       "us-midterms-hamilton-flips-kansas-senate-marshall"
     ],
     "relatedBeside": [
-      "india-beat-new-zealand-five-wickets-dls-eden-park-first-odi",
-      "supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification",
-      "jaishankar-chogm-antigua-dpi-ftas-executive-session"
+      "rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs",
+      "sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4",
+      "india-beat-new-zealand-five-wickets-dls-eden-park-first-odi"
     ],
     "live": {
       "title": {
@@ -36,6 +36,28 @@
   "briefing": {
     "items": [
       {
+        "link": "rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs",
+        "lead": {
+          "en": "Punjab:",
+          "hi": "पंजाब:"
+        },
+        "text": {
+          "en": "Rahul Gandhi brings Moosewala's father on stage in Sangrur, says killers' mindset roams Punjab",
+          "hi": "संगरूर में राहुल गांधी ने मूसेवाला के पिता को मंच पर बुलाया, बोले, पंजाब में घूम रही है हत्यारों की सोच"
+        }
+      },
+      {
+        "link": "sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4",
+        "lead": {
+          "en": "Markets:",
+          "hi": "बाज़ार:"
+        },
+        "text": {
+          "en": "Sensex rises 383 points for a fifth straight gain as BEL leads and smallcaps jump 2%",
+          "hi": "सेंसेक्स 383 अंक चढ़ा, लगातार पांचवें दिन बढ़त; बीईएल सबसे आगे, स्मॉलकैप 2% उछले"
+        }
+      },
+      {
         "link": "india-beat-new-zealand-five-wickets-dls-eden-park-first-odi",
         "lead": {
           "en": "Cricket:",
@@ -44,6 +66,17 @@
         "text": {
           "en": "India beat New Zealand by five wickets in rain-hit Eden Park ODI",
           "hi": "बारिश से प्रभावित ईडन पार्क वनडे में भारत ने न्यूज़ीलैंड को पांच विकेट से हराया"
+        }
+      },
+      {
+        "link": "us-midterms-democrats-win-senate-talarico-brown-flip",
+        "lead": {
+          "en": "US midterms:",
+          "hi": "अमेरिकी मध्यावधि चुनाव:"
+        },
+        "text": {
+          "en": "Democrats take the Senate as Talarico and Brown flip seats",
+          "hi": "टैलारिको और ब्राउन की जीत से सीनेट डेमोक्रेट्स के हाथ"
         }
       },
       {
@@ -58,58 +91,25 @@
         }
       },
       {
+        "link": "psg-six-villarreal-record-bayern-win-madrid-cunha-united",
+        "lead": {
+          "en": "Football:",
+          "hi": "फ़ुटबॉल:"
+        },
+        "text": {
+          "en": "PSG hit Villarreal for six as Bayern win in Madrid",
+          "hi": "पीएसजी ने विय्यारियाल को 6-0 से रौंदा, बायर्न की मैड्रिड में जीत"
+        }
+      },
+      {
         "link": "jaishankar-chogm-antigua-dpi-ftas-executive-session",
         "lead": {
           "en": "Jaishankar:",
           "hi": "जयशंकर:"
         },
         "text": {
-          "en": "Jaishankar pitches India's digital infrastructure and trade deals to Commonwealth leaders",
-          "hi": "जयशंकर ने राष्ट्रमंडल नेताओं के सामने भारत का डिजिटल ढांचा और व्यापार समझौते रखे"
-        }
-      },
-      {
-        "link": "supreme-court-child-labour-special-cell-centre",
-        "lead": {
-          "en": "Child labour:",
-          "hi": "बाल श्रम:"
-        },
-        "text": {
-          "en": "Supreme Court tells Centre to set up special cell to enforce child labour ban",
-          "hi": "बाल श्रम पर रोक लागू कराने के लिए विशेष प्रकोष्ठ बनाए केंद्र: सुप्रीम कोर्ट"
-        }
-      },
-      {
-        "link": "rbi-financial-markets-consultative-committee-rohit-jain",
-        "lead": {
-          "en": "RBI:",
-          "hi": "RBI:"
-        },
-        "text": {
-          "en": "RBI sets up market panel under Deputy Governor Rohit Jain, with bankers and ex-Sebi member Ananth Narayan",
-          "hi": "RBI ने डिप्टी गवर्नर रोहित जैन की अध्यक्षता में बाज़ार समिति बनाई, बैंकर और पूर्व सेबी सदस्य अनंत नारायण शामिल"
-        }
-      },
-      {
-        "link": "qatar-iran-us-far-apart-36-hours-feedback-hormuz",
-        "lead": {
-          "en": "Iran:",
-          "hi": "ईरान:"
-        },
-        "text": {
-          "en": "Iran and US still far apart, Qatar says both are studying its proposals",
-          "hi": "ईरान और अमेरिका अब भी दूर, क़तर ने कहा दोनों उसके प्रस्तावों पर विचार कर रहे हैं"
-        }
-      },
-      {
-        "link": "us-midterms-democrats-230-house-seats-economy-hegseth-blame",
-        "lead": {
-          "en": "US midterms:",
-          "hi": "अमेरिकी मध्यावधि चुनाव:"
-        },
-        "text": {
-          "en": "Democrats head for 230-plus House seats",
-          "hi": "डेमोक्रेट्स 230 से ज़्यादा हाउस सीटों की ओर"
+          "en": "Jaishankar pitches digital public infrastructure and FTAs at CHOGM in Antigua",
+          "hi": "जयशंकर ने एंटीगुआ में राष्ट्रमंडल बैठक में डिजिटल ढांचे और मुक्त व्यापार समझौतों की बात रखी"
         }
       },
       {
@@ -192,15 +192,12 @@
       "also": []
     },
     "list": [
-      "rbi-financial-markets-consultative-committee-rohit-jain",
-      "qatar-iran-us-far-apart-36-hours-feedback-hormuz",
-      "psg-six-villarreal-record-bayern-win-madrid-cunha-united",
-      "apple-app-store-18-plus-dating-ai-companion-apps",
-      "supreme-court-child-labour-special-cell-centre"
+      "supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification",
+      "jaishankar-chogm-antigua-dpi-ftas-executive-session",
+      "psg-six-villarreal-record-bayern-win-madrid-cunha-united"
     ],
     "also": [
-      "misri-lands-kathmandu-today-three-post-diwali-dates-shah",
-      "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip"
+      "misri-lands-kathmandu-today-three-post-diwali-dates-shah"
     ]
   },
   "startHere": [
@@ -376,15 +373,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification",
         "supreme-court-child-labour-special-cell-centre",
-        "supreme-court-two-child-norm-javed-larger-bench",
-        "supreme-court-delhi-sir-form-6-ec-clarification-cji-mention"
+        "supreme-court-two-child-norm-javed-larger-bench"
       ],
-      "lead": "supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification"
+      "lead": "rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs"
     },
     {
       "section": "economy",
-      "lead": "rbi-financial-markets-consultative-committee-rohit-jain",
+      "lead": "sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4",
       "module": {
         "type": "markets",
         "indicators": [
@@ -395,10 +392,10 @@
         ]
       },
       "list": [
+        "rbi-financial-markets-consultative-committee-rohit-jain",
         "mcx-q2-profit-454-crore-revenue-doubles",
         "nse-q2-profit-23-per-cent-2578-crore-coal-exchange-stake",
-        "sensex-1225-points-nifty-23811-fourth-day-rally-november-3",
-        "food-inflation-weak-monsoon-sugar-poultry-milk-prices"
+        "sensex-1225-points-nifty-23811-fourth-day-rally-november-3"
       ]
     },
     {
@@ -458,9 +455,9 @@
       "section": "sports",
       "lead": "india-beat-new-zealand-five-wickets-dls-eden-park-first-odi",
       "list": [
-        "india-beat-new-zealand-five-wickets-dls-eden-park-first-odi",
         "india-65-one-down-32-over-chase-eden-park-odi",
-        "india-54-one-down-rain-stops-play-eden-park-odi"
+        "india-54-one-down-rain-stops-play-eden-park-odi",
+        "india-41-one-down-kohli-chase-186-eden-park-odi"
       ]
     }
   ],

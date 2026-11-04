@@ -1,6 +1,6 @@
 {
-  "as_of": "2026-11-04T15:30:00+05:30",
-  "status": "open",
+  "as_of": "2026-11-04T15:55:00+05:30",
+  "status": "closed",
   "session_date": "2026-11-04",
   "chart": "nifty-50",
   "indices": [
@@ -8,9 +8,9 @@
       "id": "sensex",
       "name": "Sensex",
       "name_hi": "सेंसेक्स",
-      "value": 77219.85,
-      "change": 302.0,
-      "pct": 0.39,
+      "value": 77301.4,
+      "change": 383.55,
+      "pct": 0.5,
       "history": [
         {
           "date": "2026-09-30",
@@ -91,17 +91,21 @@
         {
           "date": "2026-11-03",
           "close": 76917.85
+        },
+        {
+          "date": "2026-11-04",
+          "close": 77301.4
         }
       ],
-      "source": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-4-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126110400107_1.html"
+      "source": "https://upstox.com/news/market-news/stocks/market-wrap-nov-4-sensex-rises-383-pts-nifty-50-ends-at-23-960-nifty-smallcap-100-jumps-2-bel-top-gainer/article-202977/"
     },
     {
       "id": "nifty-50",
       "name": "Nifty 50",
       "name_hi": "निफ्टी 50",
-      "value": 23912.0,
-      "change": 101.15,
-      "pct": 0.42,
+      "value": 23960.6,
+      "change": 149.7,
+      "pct": 0.63,
       "history": [
         {
           "date": "2026-09-30",
@@ -186,9 +190,13 @@
         {
           "date": "2026-11-03",
           "close": 23810.85
+        },
+        {
+          "date": "2026-11-04",
+          "close": 23960.6
         }
       ],
-      "source": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-4-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126110400107_1.html"
+      "source": "https://upstox.com/news/market-news/stocks/market-wrap-nov-4-sensex-rises-383-pts-nifty-50-ends-at-23-960-nifty-smallcap-100-jumps-2-bel-top-gainer/article-202977/"
     },
     {
       "id": "nifty-it",
@@ -285,49 +293,28 @@
   "movers": {
     "gainers": [
       {
-        "name": "ITC",
-        "pct": 3.3
+        "name": "BEL",
+        "pct": 4.71
+      },
+      {
+        "name": "Adani Enterprises",
+        "pct": 4.47
+      },
+      {
+        "name": "Titan",
+        "pct": 4.22
+      },
+      {
+        "name": "Jio Financial",
+        "pct": 3.73
       },
       {
         "name": "Max Healthcare",
-        "pct": 2.76
-      },
-      {
-        "name": "Nestle India",
-        "pct": 1.55
-      },
-      {
-        "name": "Apollo Hospitals",
-        "pct": 1.42
-      },
-      {
-        "name": "Sun Pharma",
-        "pct": 1.39
+        "pct": 3.53
       }
     ],
-    "losers": [
-      {
-        "name": "Power Grid",
-        "pct": -0.96
-      },
-      {
-        "name": "TCS",
-        "pct": -0.92
-      },
-      {
-        "name": "Infosys",
-        "pct": -0.91
-      },
-      {
-        "name": "HCL Tech",
-        "pct": -0.88
-      },
-      {
-        "name": "NTPC",
-        "pct": -0.73
-      }
-    ],
-    "source": "https://subkuz.com/news/english/details/indian-stock-market-extends-gains-for-fifth-session-sensex-rises-140-points-itc-leads-gainers/228316"
+    "losers": [],
+    "source": "https://upstox.com/news/market-news/stocks/market-wrap-nov-4-sensex-rises-383-pts-nifty-50-ends-at-23-960-nifty-smallcap-100-jumps-2-bel-top-gainer/article-202977/"
   },
   "sectors": [
     {
@@ -360,11 +347,12 @@
   "flows": {
     "date": "2026-11-03",
     "fii": 6836.81,
-    "dii": -3678,
+    "dii": -3678.85,
     "unit": "₹ crore",
-    "source": "https://www.freepressjournal.in/business/stock-market-opens-on-a-cautious-note-as-global-technology-worries-weigh-on-dalal-street-sensex-dips-65-points-and-nifty-slides-below-23750-despite-strong-fii-comeback"
+    "source": "https://upstox.com/news/market-news/stocks/market-wrap-nov-4-sensex-rises-383-pts-nifty-50-ends-at-23-960-nifty-smallcap-100-jumps-2-bel-top-gainer/article-202977/"
   },
   "notes": [
-    "4 Nov, read 13:20 IST: Sensex and Nifty 50 at about 11:44 IST from Kotak Neo midday report (newest found). Other indices, rates, movers and sectors kept from the early-trade read (ETV Bharat, HDFC Sky, Goodreturns, 09:36 to 10:25); midday report gave no figures for them."
+    "4 Nov, read 13:20 IST: Sensex and Nifty 50 at about 11:44 IST from Kotak Neo midday report (newest found). Other indices, rates, movers and sectors kept from the early-trade read (ETV Bharat, HDFC Sky, Goodreturns, 09:36 to 10:25); midday report gave no figures for them.",
+    "Nov 4 close: Sensex and Nifty 50 from Upstox market wrap; Bank Nifty, midcap, VIX, rates and sectors not refreshed (no source read). Flows are Nov 3 provisional."
   ]
 }

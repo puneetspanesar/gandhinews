@@ -55,3 +55,9 @@ Owner's note: too many market and sales stories, not enough of the day's real ne
 - Editor FAIL items not fixed this run: lead photo (Schumer + Trump 2020 Bible) still weak, replace with a current election-night photo; midterms take both the lead and the live band (merge or give the band to an India story); too many infographic tiles in the top grid (get real photos for ODI, Dewas, RBI/Rohit Jain); mobile grey slot for the Sapre card (likely lazy-load in the screenshot).
 - No new US midterms facts found (NBC/NPR refuse fetches, CBS/Yahoo stale). World-business desk found nothing confirmable; the photo finder was not run this hour (time).
 - Markets: Sensex +302 and Nifty 23,912 from a Business Standard closing-auction headline; Sensex level is previous close plus 302. Write the full close (all indices, history, FII/DII) next run.
+
+## November 4, 2026, 4:30 pm (from the 16:00 run)
+- Published: Rahul Gandhi Sangrur Insaaf rally (Moosewala's father on stage, attack on Mann over drugs; ANI 15:24 IST and Jagran; Kharge presence one source) and the Nov 4 market close (Sensex +383.55 to 77,301.4, Nifty 23,960.6, Upstox wrap). Both run with infographic pictures; the photo finder was not run (time). In-story photo blocks were dropped. The old Sangrur preview story is now stale.
+- Editor FAIL not fixed: Sangrur infographic has empty lower half (only 3 stats shown); get a real Rahul Gandhi Sangrur rally photo. Too many infographic tiles in the top grid. Lead (Senate, Schumer + Trump 2020 photo) still weak.
+- Markets: Sensex and Nifty closes written with Nov 4 history; Bank Nifty, midcap, IT, VIX, rupee, Brent, sectors and losers not refreshed (no source read). FII/DII shown are Nov 3 provisional; add Nov 4 flows once NSE publishes.
+- Sport-science and world desks found nothing confirmable in the window; wisden.com, thebridge.in, tribuneindia, theprint and business-standard index fetches timed out.

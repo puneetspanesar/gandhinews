@@ -27528,5 +27528,67 @@
     "src800": "/photos/i-supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification-hi-640.jpg"
    }
   }
+ },
+ "sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4": {
+  "id": "i-sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4",
+  "src": "/photos/i-sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4-en-3x2-1280.jpg",
+  "src800": "/photos/i-sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Sensex extends its rally to a fifth day",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: सेंसेक्स की तेज़ी पांचवें दिन भी जारी",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4-hi-3x2-1280.jpg",
+    "src800": "/photos/i-sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4-hi-3x2-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4-en-1280.jpg",
+    "src800": "/photos/i-sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4-hi-1280.jpg",
+    "src800": "/photos/i-sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4-hi-640.jpg"
+   }
+  }
+ },
+ "rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs": {
+  "id": "i-rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs",
+  "src": "/photos/i-rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs-en-3x2-1280.jpg",
+  "src800": "/photos/i-rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Rahul Gandhi takes on Mann in Sangrur",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: संगरूर में राहुल गांधी का मान पर हमला",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs-hi-3x2-1280.jpg",
+    "src800": "/photos/i-rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs-hi-3x2-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs-en-1280.jpg",
+    "src800": "/photos/i-rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs-hi-1280.jpg",
+    "src800": "/photos/i-rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs-hi-640.jpg"
+   }
+  }
  }
 }
