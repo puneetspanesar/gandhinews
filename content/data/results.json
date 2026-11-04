@@ -1,0 +1,239 @@
+{
+ "active": true,
+ "id": "us-midterms-2026",
+ "link": "us-midterms-democrats-win-senate-talarico-brown-flip",
+ "title": {
+  "en": "US midterms 2026: results",
+  "hi": "अमेरिकी मध्यावधि चुनाव 2026: नतीजे"
+ },
+ "as_of": "2026-11-04T17:30:00+05:30",
+ "source": {
+  "en": "Race calls by the Associated Press and US networks. Counting continues in Alaska and Mississippi.",
+  "hi": "एसोसिएटेड प्रेस और अमेरिकी नेटवर्कों के नतीजे। अलास्का और मिसिसिपी में गिनती जारी।"
+ },
+ "chambers": [
+  {
+   "key": "senate",
+   "name": {
+    "en": "Senate",
+    "hi": "सीनेट"
+   },
+   "total": 100,
+   "majority": 51,
+   "left": {
+    "party": "D",
+    "name": {
+     "en": "Democrats",
+     "hi": "डेमोक्रेट"
+    },
+    "seats": 54,
+    "label": {
+     "en": "54",
+     "hi": "54"
+    }
+   },
+   "right": {
+    "party": "R",
+    "name": {
+     "en": "Republicans",
+     "hi": "रिपब्लिकन"
+    },
+    "seats": 44,
+    "label": {
+     "en": "44",
+     "hi": "44"
+    }
+   },
+   "note": {
+    "en": "7 seats flipped to the Democrats; 2 still counting",
+    "hi": "7 सीटें डेमोक्रेट के खाते में पलटीं; 2 पर गिनती जारी"
+   }
+  },
+  {
+   "key": "house",
+   "name": {
+    "en": "House",
+    "hi": "प्रतिनिधि सभा"
+   },
+   "total": 435,
+   "majority": 218,
+   "left": {
+    "party": "D",
+    "name": {
+     "en": "Democrats",
+     "hi": "डेमोक्रेट"
+    },
+    "seats": 230,
+    "label": {
+     "en": "230+",
+     "hi": "230+"
+    },
+    "projected": true
+   },
+   "right": {
+    "party": "R",
+    "name": {
+     "en": "Republicans",
+     "hi": "रिपब्लिकन"
+    },
+    "seats": 0,
+    "label": {
+     "en": "",
+     "hi": ""
+    }
+   },
+   "note": {
+    "en": "Democrats win control; more than 230 seats projected",
+    "hi": "डेमोक्रेट को बहुमत; 230 से ज़्यादा सीटों का अनुमान"
+   }
+  }
+ ],
+ "races": [
+  {
+   "state": {
+    "en": "Texas",
+    "hi": "टेक्सस"
+   },
+   "who": {
+    "en": "James Talarico",
+    "hi": "जेम्स तालारिको"
+   },
+   "party": "D",
+   "flip": true
+  },
+  {
+   "state": {
+    "en": "Ohio",
+    "hi": "ओहायो"
+   },
+   "who": {
+    "en": "Sherrod Brown",
+    "hi": "शेरड ब्राउन"
+   },
+   "party": "D",
+   "flip": true
+  },
+  {
+   "state": {
+    "en": "N.C.",
+    "hi": "नॉर्थ कैरोलाइना"
+   },
+   "who": {
+    "en": "Roy Cooper",
+    "hi": "रॉय कूपर"
+   },
+   "party": "D",
+   "flip": true
+  },
+  {
+   "state": {
+    "en": "S.C.",
+    "hi": "साउथ कैरोलाइना"
+   },
+   "who": {
+    "en": "Annie Andrews",
+    "hi": "एनी एंड्रयूज़"
+   },
+   "party": "D",
+   "flip": true
+  },
+  {
+   "state": {
+    "en": "Iowa",
+    "hi": "आयोवा"
+   },
+   "who": {
+    "en": "Josh Turek",
+    "hi": "जोश ट्यूरेक"
+   },
+   "party": "D",
+   "flip": true
+  },
+  {
+   "state": {
+    "en": "Kan.",
+    "hi": "कैनसस"
+   },
+   "who": {
+    "en": "Adam Hamilton",
+    "hi": "एडम हैमिल्टन"
+   },
+   "party": "D",
+   "flip": true
+  },
+  {
+   "state": {
+    "en": "Maine",
+    "hi": "मेन"
+   },
+   "who": {
+    "en": "Troy Jackson",
+    "hi": "ट्रॉय जैक्सन"
+   },
+   "party": "D",
+   "flip": true
+  },
+  {
+   "state": {
+    "en": "Mich.",
+    "hi": "मिशिगन"
+   },
+   "who": {
+    "en": "Abdul El-Sayed",
+    "hi": "अब्दुल अल-सैयद"
+   },
+   "party": "D",
+   "flip": false
+  },
+  {
+   "state": {
+    "en": "Ga.",
+    "hi": "जॉर्जिया"
+   },
+   "who": {
+    "en": "Jon Ossoff",
+    "hi": "जॉन ओसॉफ़"
+   },
+   "party": "D",
+   "flip": false
+  },
+  {
+   "state": {
+    "en": "N.H.",
+    "hi": "न्यू हैम्पशायर"
+   },
+   "who": {
+    "en": "Chris Pappas",
+    "hi": "क्रिस पपास"
+   },
+   "party": "D",
+   "flip": false
+  },
+  {
+   "state": {
+    "en": "Miss.",
+    "hi": "मिसिसिपी"
+   },
+   "who": {
+    "en": "Colom +28 votes",
+    "hi": "कोलम +28 वोट"
+   },
+   "party": "",
+   "flip": false,
+   "open": true
+  },
+  {
+   "state": {
+    "en": "Alaska",
+    "hi": "अलास्का"
+   },
+   "who": {
+    "en": "Counting",
+    "hi": "गिनती जारी"
+   },
+   "party": "",
+   "flip": false,
+   "open": true
+  }
+ ]
+}

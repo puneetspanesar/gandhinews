@@ -19,7 +19,7 @@ Pictures (each story sheet):
 5. Covers: the face is clear of the headline, the cut-out has clean edges (no ghosting, no halo, no bits of other people), the cover headline is true to the story and spelled right, and the Hindi cover reads correctly.
 6. In-story photos each show a different, relevant person, place or thing, and the caption matches what is shown.
 7. "NO PICTURE" anywhere is a FAIL.
-8. An infographic cover (dark Gandhi News graphic with stats and a chart, timeline, steps or comparison) is an accepted main picture. Check it like a photo: headline true to the story, numbers match the story, no text cut off or wrapping badly, Hindi reads correctly.
+8. An infographic cover (dark Gandhi News graphic with stats and a chart, timeline, steps or comparison) is accepted ONLY for a story with no person or place to show, or when the run's photo finder truly found nothing. A story about a named, well-known person (a politician, player, CEO) or a known place with an infographic instead of their photo is a FAIL: FIX it with that person's photo (quick_photo.py or the finder). More than a third of the homepage top with infographics is a FAIL. Check it like a photo: headline true to the story, numbers match the story, no text cut off or wrapping badly, Hindi reads correctly.
 
 The homepage (screenshots):
 9. No grey camera boxes, no broken images, no empty slots.

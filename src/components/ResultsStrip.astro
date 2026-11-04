@@ -1,0 +1,73 @@
+---
+// Election results strip above the homepage headlines (content/data/results.json, active: true).
+import R from '../../content/data/results.json';
+import type { Lang } from '../lib/i18n';
+interface Props { lang: Lang; href?: string }
+const { lang, href } = Astro.props;
+const r: any = R;
+const tx = (o: any) => (o ? o[lang] ?? o.en : '');
+const asOf = new Date(r.as_of);
+const time = asOf.toLocaleString(lang === 'hi' ? 'hi-IN' : 'en-US', { timeZone: 'Asia/Kolkata', month: 'long', day: 'numeric', hour: 'numeric', minute: '2-digit' }).replace(' at ', ', ').replace(/\b(AM|PM)\b/, (x) => x.toLowerCase());
+const W = lang === 'hi' ? { maj: (n: number) => `बहुमत ${n}`, flip: 'पलटी', hold: 'बरकरार', lead: 'प्रमुख सीनेट मुकाबले', upd: 'अपडेट', all: 'पूरी खबर' }
+  : { maj: (n: number) => `${n} for majority`, flip: 'Flip', hold: 'Hold', lead: 'Key Senate races', upd: 'Updated', all: 'Full story' };
+---
+{r.active && (
+<section class="w rs" aria-labelledby="rs-h">
+  <div class="rs-l"><h2 id="rs-h">{tx(r.title)}</h2><p>{W.upd} {time} IST</p>{href && <a href={href}>{W.all} &rsaquo;</a>}</div>
+  <div class="rs-m">
+    <div class="rs-ch">
+      {r.chambers.map((c: any) => (
+        <div class="rs-c">
+          <div class="rs-t">
+            <span class="d"><b>{tx(c.left.label)}</b> {tx(c.left.name)}</span>
+            <strong>{tx(c.name)}</strong>
+            <span class="r">{c.right.seats > 0 && <>{tx(c.right.name)} <b>{tx(c.right.label)}</b></>}</span>
+          </div>
+          <div class="rs-bar" role="img" aria-label={`${tx(c.name)}: ${tx(c.left.name)} ${tx(c.left.label)}${c.right.seats ? `, ${tx(c.right.name)} ${tx(c.right.label)}` : ''}`}>
+            <i class={`d${c.left.projected ? ' p' : ''}`} style={`width:${(c.left.seats / c.total) * 100}%`}></i>
+            {c.right.seats > 0 && <i class="r" style={`width:${(c.right.seats / c.total) * 100}%`}></i>}
+            <em style={`left:${(c.majority / c.total) * 100}%`}></em>
+          </div>
+          <div class="rs-n"><span>{tx(c.note)}</span><span>{W.maj(c.majority)}</span></div>
+        </div>
+      ))}
+    </div>
+    <h3>{W.lead}</h3>
+    <ul class="rs-races">
+      {r.races.map((x: any) => (
+        <li><span class="st">{tx(x.state)}</span><span class={x.open ? 'wo' : x.party === 'D' ? 'wd' : 'wr'}>{tx(x.who)}</span><span class={x.flip ? 'fl' : 'ho'}>{x.open ? '' : x.flip ? W.flip : W.hold}</span></li>
+      ))}
+    </ul>
+    <p class="rs-src">{tx(r.source)}</p>
+  </div>
+</section>
+)}
+<style>
+.rs{display:grid;grid-template-columns:180px minmax(0,1fr);border-top:3px solid #0d0d0d;padding-top:14px;margin-top:28px;--dem:#1f5fbf;--rep:#cc0000}
+.rs-l h2{font-size:24px;line-height:1.15;font-weight:700;letter-spacing:-.01em;padding-right:20px}
+.rs-l p{font-size:13px;font-weight:600;margin-top:8px}
+.rs-l a{display:inline-block;margin-top:10px;font-size:14px;font-weight:700;color:#cc0000}
+.rs-ch{display:grid;grid-template-columns:1fr 1fr;gap:36px}
+.rs-t{display:flex;justify-content:space-between;align-items:baseline;gap:10px;font-size:15px;font-weight:600}
+.rs-t b{font-size:26px;font-weight:700;letter-spacing:-.01em}
+.rs-t .d{color:var(--dem)}.rs-t .r{color:var(--rep);text-align:right}
+.rs-t strong{font-size:15px;font-weight:700;color:#0d0d0d}
+.rs-bar{position:relative;height:16px;background:#e4e4e4;margin-top:8px;display:flex;justify-content:space-between}
+.rs-bar i{display:block;height:100%}
+.rs-bar i.d{background:var(--dem)}.rs-bar i.r{background:var(--rep)}
+.rs-bar i.p{background:#5b8ad6}
+.rs-bar em{position:absolute;top:-5px;bottom:-5px;width:2px;background:#0d0d0d;transform:translateX(-1px)}
+.rs-n{display:flex;justify-content:space-between;gap:12px;}
+.rs-n span:last-child{white-space:nowrap}
+.rs-n{font-size:13px;font-weight:600;margin-top:8px;color:#0d0d0d}
+.rs-m h3{font-size:15px;font-weight:700;margin:22px 0 4px}
+.rs-races{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));column-gap:28px}
+.rs-races li{display:grid;grid-template-columns:minmax(0,.7fr) minmax(0,1.6fr) auto;gap:8px;align-items:baseline;border-top:1px solid #e4e4e4;padding:7px 0;font-size:14px}
+.rs-races .st{font-weight:600;color:#0d0d0d}
+.rs-races .wd{font-weight:700;color:var(--dem);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.rs-races .wr{font-weight:700;color:var(--rep)}.rs-races .wo{font-weight:600;color:#0d0d0d}
+.rs-races .fl{font-size:12px;font-weight:700;color:var(--dem);text-transform:uppercase;letter-spacing:.03em}
+.rs-races .ho{font-size:12px;font-weight:600;color:#0d0d0d;text-transform:uppercase;letter-spacing:.03em}
+.rs-src{font-size:12px;font-weight:500;margin-top:10px;color:#0d0d0d}
+@media (max-width:1000px){.rs-races{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:760px){.rs{grid-template-columns:1fr;margin-top:18px}.rs-l{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 12px;margin-bottom:12px}.rs-l h2{font-size:21px;width:100%}.rs-l p,.rs-l a{margin-top:0}.rs-ch{grid-template-columns:1fr;gap:20px}.rs-t b{font-size:22px}.rs-races{grid-template-columns:1fr}}
+</style>

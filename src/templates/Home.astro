@@ -1,5 +1,7 @@
 ---
 import MarketsBand from '../components/MarketsBand.astro';
+import ResultsStrip from '../components/ResultsStrip.astro';
+import RESULTS from '../../content/data/results.json';
 // Homepage, English and Hindi. Which stories appear where is set in content/homepage.json;
 // everything shown is read from the articles and the tracker data (see src/lib/home.ts).
 import Base from '../layouts/Base.astro';
@@ -36,13 +38,14 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
 ---
 <Base lang={lang} title={t.siteName} description={desc} path={route} active="home" jsonld={websiteLd(lang)}>
 <div class="home gn">
+  {(RESULTS as any).active && <ResultsStrip lang={lang} />}
   <!-- HEADLINES -->
   <section class="w g-ct" aria-labelledby="hl-h">
     <h2 id="hl-h">{G.headlines}</h2>
     <div class="g-g">
       <article class="g-c g-lead">
         <a href={L.href} class="g-im g-im-lead" tabindex="-1" aria-hidden="true"><Photo cover id={L.id} src={L.d.hero?.src} alt={L.d.hero?.alt} size="lg" lang={lang} eager /></a>
-        <a href={L.href}><h1 id="lead-h"><span class="kk">{m.live.title}</span> {L.d.title}</h1></a>
+        <a href={L.href}><h1 id="lead-h"><span class="kk">{L.swapped ? (L.d.format_label ?? '').split('/').pop().trim() : m.live.title}</span> {L.d.title}</h1></a>
         <p class="sf">{L.d.standfirst}</p>
         {m.live.points.length > 0 && <ul class="g-pts">{m.live.points.slice(0, 3).map((k: string) => <li>{k}</li>)}</ul>}
       </article>
