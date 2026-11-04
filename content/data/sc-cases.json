@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Big Supreme Court cases tracker",
-    "as_of": "2026-11-03",
+    "as_of": "2026-11-04",
     "compiled_by": "Gandhi News editorial desk",
     "status_values": [
       "pending",
@@ -28,7 +28,7 @@
       "status_text": "Referred to a Constitution Bench",
       "last_date": "2026-09-23",
       "last_event": "The two judges split on whether a larger bench was needed, then unanimously sent the papers to the CJI so a Constitution Bench can be constituted. Decision had been reserved on 30 Jul 2026.",
-      "next_step": "Constitution Bench to be constituted; no hearing date announced. Separately, on 5 Oct 2026 a bench of CJI Surya Kant and Justices Joymalya Bagchi and V. Mohana issued notice to the Centre and the ECI on a plea asking whether CEC Gyanesh Kumar can individually exercise powers vested in the full Commission, and said 'Any modification to Form 6 has not been approved by us' (IANS; PTI).",
+      "next_step": "Constitution Bench to be constituted; no hearing date announced. Separately, on 5 Oct 2026 a bench of CJI Surya Kant and Justices Joymalya Bagchi and V. Mohana issued notice to the Centre and the ECI on a plea asking whether CEC Gyanesh Kumar can individually exercise powers vested in the full Commission, and said 'Any modification to Form 6 has not been approved by us' (IANS; PTI). On 27 Oct 2026 the same bench heard Rakesh Kumar Singh v. Union of India (W.P.(C) No. 1246/2026) and connected pleas alleging the CEC took SIR decisions without the concurrence of Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi, gave the petitioners two weeks to file a rejoinder to the Commission's counter-affidavit, passed no interim order and listed the matter for 17 Nov 2026 (LawChakra).",
       "sources": [
         {
           "title": "SCO case page: Jaya Thakur v Union of India",
@@ -47,8 +47,15 @@
           "publisher": "SocialNews.XYZ (IANS)",
           "date": "2026-10-05",
           "url": "https://www.socialnews.xyz/2026/10/05/ecis-sep-26-sir-press-note-never-taken-down-from-website-pib-fact-check-lead/"
+        },
+        {
+          "title": "Supreme Court Issues Notice On Pleas Over ECI Functioning, Lists Matter For November 17 After Rejoinder",
+          "publisher": "LawChakra",
+          "date": "2026-10-27",
+          "url": "https://lawchakra.in/supreme-court/eci-functioning-notice-sc/"
         }
-      ]
+      ],
+      "notes": "27 Oct hearing rests on a single source (LawChakra); the 17 Nov listing should be checked on the Supreme Court cause list."
     },
     {
       "id": "definition-of-industry",
@@ -428,7 +435,7 @@
       "status": "challenge_announced",
       "status_text": "SLP against High Court stay announced; filing not confirmed",
       "last_date": "2026-11-03",
-      "last_event": "Goa NRI Commissioner Narendra Sawaikar said the state would seek to vacate the High Court stay and file a Special Leave Petition in the Supreme Court by Wednesday. A delegation met Solicitor General Tushar Mehta in New Delhi on 2 Nov; the Centre and the ST community also plan to approach the Court. The High Court's interim order of late October questioned the Census Commissioner's presumption that STs are 9.9% of Goa's population, based on the 2001 Census, noting the Kunbi, Gauda and Velip communities were added to the ST list in January 2003. The order has put the proposed reservation of four assembly constituencies in doubt.",
+      "last_event": "Goa NRI Commissioner Narendra Sawaikar said the state would seek to vacate the High Court stay and file a Special Leave Petition in the Supreme Court by Wednesday. A delegation met Solicitor General Tushar Mehta in New Delhi on 2 Nov; the Centre and the ST community also plan to approach the Court. The High Court's interim order of 29 Oct 2026 in Edwin Lucio Fernandes v. Union of India (Writ Petition No. 1415 of 2026), which restrained the Census Commissioner from notifying the estimated ST figures pending the petition, questioned the Census Commissioner's presumption that STs are 9.9% of Goa's population, based on the 2001 Census, noting the Kunbi, Gauda and Velip communities were added to the ST list in January 2003. The order has put the proposed reservation of four assembly constituencies in doubt.",
       "next_step": "Filing of the SLP, expected by 4 Nov 2026.",
       "sources": [
         {
@@ -442,9 +449,15 @@
           "publisher": "digitalgoa",
           "date": "2026-11-02",
           "url": "https://digitalgoa.com/goa-govt-centre-and-st-community-to-move-supreme-court-over-stay-on-reservation-process-sawaikar/"
+        },
+        {
+          "title": "Bombay High Court Prohibits Census Commissioner From Notifying Estimated ST Population In Goa",
+          "publisher": "Verdictum",
+          "date": "2026-10-30",
+          "url": "https://www.verdictum.in/bombay-high-court/edwin-lucio-fernandes-v-union-of-india-census-commissioner-notifying-estimated-st-population-goa-1624823"
         }
       ],
-      "notes": "Exact date of the High Court order and the petitioner's name not given in sources read. Govind Shirodkar of the ST Association said the petition would be filed 'by next week' (digitalgoa, 2 Nov)."
+      "notes": "High Court order date (29 Oct 2026), petitioner and writ number from Verdictum (30 Oct). No report of the SLP being filed was found as of early 4 Nov 2026. Govind Shirodkar of the ST Association said the petition would be filed 'by next week' (digitalgoa, 2 Nov)."
     }
   ]
 }
