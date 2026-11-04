@@ -61,3 +61,9 @@ Owner's note: too many market and sales stories, not enough of the day's real ne
 - Editor FAIL not fixed: Sangrur infographic has empty lower half (only 3 stats shown); get a real Rahul Gandhi Sangrur rally photo. Too many infographic tiles in the top grid. Lead (Senate, Schumer + Trump 2020 photo) still weak.
 - Markets: Sensex and Nifty closes written with Nov 4 history; Bank Nifty, midcap, IT, VIX, rupee, Brent, sectors and losers not refreshed (no source read). FII/DII shown are Nov 3 provisional; add Nov 4 flows once NSE publishes.
 - Sport-science and world desks found nothing confirmable in the window; wisden.com, thebridge.in, tribuneindia, theprint and business-standard index fetches timed out.
+
+## November 4, 2026, 5:30 pm (from the 17:00 run)
+- Published: Cabinet Rs 14,500 crore energy storage VGF and Rs 2,814 crore critical minerals (IANS only, 15:36/15:48 IST); Himanta Purnea rally "send Rahul to Bangladesh" (IANS only); Nadda Bhopal Loktantra Bachao march (IANS only); Lenskart and Jyothy Labs Q2. All four run with infographic pictures; photo finder not run (time). In-story photo blocks dropped. Real photos wanted: Himanta Biswa Sarma, J P Nadda with Mohan Yadav.
+- Editor FAIL not fixed: lead photo (Schumer + Trump 2020 Bible) still weak; Sangrur story needs a real rally photo (graphic now has a seat chart). Midterms still lead (still leading Indian front pages); world desk list is all midterms.
+- Markets: Bank Nifty from blog.liquide.life (unconfirmed snapshot), Midcap tile is now Nifty Midcap 100 (one history row), gold and silver are intraday MCX readings, Brent change unknown. Nov 4 FII/DII and G-sec yield not refreshed. Confirm from NSE next run.
+- Desks hit permission timeouts on many fetches (wisden, tribune, statesman, pib, upstox, business-standard). Sport-science desk found nothing.
