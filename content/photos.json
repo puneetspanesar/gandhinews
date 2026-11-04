@@ -46291,38 +46291,6 @@
   ]
  },
  {
-  "id": "cx-us-midterms-democrats-win-senate-talarico-brown-flip-0",
-  "articleId": "part:us-midterms-democrats-win-senate-talarico-brown-flip:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Chuck_Schumer_113th_Congress.jpg",
-  "credit": "US Congress",
-  "licence": "Public domain",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Chuck_Schumer_113th_Congress.jpg"
- },
- {
-  "id": "cx-us-midterms-democrats-win-senate-talarico-brown-flip-1",
-  "articleId": "part:us-midterms-democrats-win-senate-talarico-brown-flip:1",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/President_Trump_Visits_St._John%27s_Episcopal_Church_%2849963649028%29.jpg/1600px-President_Trump_Visits_St._John%27s_Episcopal_Church_%2849963649028%29.jpg",
-  "credit": "The White House from Washington, DC",
-  "licence": "Public domain",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:President_Trump_Visits_St._John%27s_Episcopal_Church_(49963649028).jpg"
- },
- {
-  "id": "x-us-midterms-democrats-win-senate-talarico-brown-flip",
-  "articleId": "us-midterms-democrats-win-senate-talarico-brown-flip",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Chuck_Schumer_113th_Congress.jpg",
-  "credit": "Photos: US Congress / Wikimedia Commons; The White House from Washington, DC / Wikimedia Commons",
-  "licence": "Public domain",
-  "alt": "Senate Democratic leader Chuck Schumer and President Donald Trump (file photo)",
-  "alt_hi": "सीनेट में डेमोक्रेटिक नेता चक शूमर और राष्ट्रपति डोनाल्ड ट्रंप (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Chuck_Schumer_113th_Congress.jpg",
-  "composite": [
-   "cx-us-midterms-democrats-win-senate-talarico-brown-flip-0",
-   "cx-us-midterms-democrats-win-senate-talarico-brown-flip-1"
-  ]
- },
- {
   "id": "cx-us-midterms-collins-concedes-troy-jackson-maine-senate-fl-0",
   "articleId": "part:us-midterms-collins-concedes-troy-jackson-maine-senate-flip:0",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Troy_Jackson_in_the_Senate_Chamber_%28cropped%29.jpg",
@@ -46472,6 +46440,82 @@
   "page": "https://commons.wikimedia.org/wiki/File:Jon_Ossoff_2020_2_(cropped_2).jpg",
   "composite": [
    "cx-us-midterms-democrats-230-house-seats-economy-hegseth-bla-0b"
+  ]
+ },
+ {
+  "id": "cx-us-midterms-democrats-win-senate-talarico-brown-flip-0",
+  "articleId": "part:us-midterms-democrats-win-senate-talarico-brown-flip:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/James_Talarico_Press_Conference_%28cropped%29.jpg",
+  "credit": "Antonioaesparza",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:James_Talarico_Press_Conference_(cropped).jpg"
+ },
+ {
+  "id": "cx-us-midterms-democrats-win-senate-talarico-brown-flip-1",
+  "articleId": "part:us-midterms-democrats-win-senate-talarico-brown-flip:1",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Sherrod_Brown_113th_Congress.jpg",
+  "credit": "US Congress",
+  "licence": "Public domain",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Sherrod_Brown_113th_Congress.jpg"
+ },
+ {
+  "id": "x-us-midterms-democrats-win-senate-talarico-brown-flip",
+  "articleId": "us-midterms-democrats-win-senate-talarico-brown-flip",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/James_Talarico_Press_Conference_%28cropped%29.jpg",
+  "credit": "Photos: Antonioaesparza / Wikimedia Commons; US Congress / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0, Public domain",
+  "alt": "Democrats James Talarico and Sherrod Brown, who won Senate seats in Texas and Ohio (file photo)",
+  "alt_hi": "डेमोक्रेट जेम्स तालारिको और शेरड ब्राउन, जिन्होंने टेक्सस और ओहायो की सीनेट सीटें जीतीं (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:James_Talarico_Press_Conference_(cropped).jpg",
+  "composite": [
+   "cx-us-midterms-democrats-win-senate-talarico-brown-flip-0",
+   "cx-us-midterms-democrats-win-senate-talarico-brown-flip-1"
+  ]
+ },
+ {
+  "id": "cx-rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs-0",
+  "articleId": "part:rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Rahul_Gandhi%28cropped%29.jpg",
+  "credit": "https://www.youtube.com/@rahulgandhi",
+  "licence": "CC BY 3.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi(cropped).jpg"
+ },
+ {
+  "id": "x-rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs",
+  "articleId": "rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Rahul_Gandhi%28cropped%29.jpg",
+  "credit": "Photo: https://www.youtube.com/@rahulgandhi / Wikimedia Commons",
+  "licence": "CC BY 3.0",
+  "alt": "Congress leader Rahul Gandhi (file photo)",
+  "alt_hi": "कांग्रेस नेता राहुल गांधी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi(cropped).jpg",
+  "composite": [
+   "cx-rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs-0"
+  ]
+ },
+ {
+  "id": "cx-sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-nov-0",
+  "articleId": "part:sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BSE_-_Bombay_Stock_Exchange_Building.jpg/1600px-BSE_-_Bombay_Stock_Exchange_Building.jpg",
+  "credit": "Niyantha Shekhar",
+  "licence": "CC BY 2.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:BSE_-_Bombay_Stock_Exchange_Building.jpg"
+ },
+ {
+  "id": "x-sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-novemb",
+  "articleId": "sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BSE_-_Bombay_Stock_Exchange_Building.jpg/1600px-BSE_-_Bombay_Stock_Exchange_Building.jpg",
+  "credit": "Photo: Niyantha Shekhar / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "The Bombay Stock Exchange building on Dalal Street, Mumbai (file photo)",
+  "alt_hi": "मुंबई के दलाल स्ट्रीट पर बॉम्बे स्टॉक एक्सचेंज की इमारत (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:BSE_-_Bombay_Stock_Exchange_Building.jpg",
+  "composite": [
+   "cx-sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-nov-0"
   ]
  }
 ]
