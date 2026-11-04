@@ -30,7 +30,7 @@ infographic:
     - {icon: cricket, value: "65/1", label: "12.2 ओवर के बाद भारत"}
     - {icon: target, value: "78", label: "19.4 ओवर में चाहिए रन"}
     - {icon: timer, value: "32 ओवर", label: "भारत की घटी हुई पारी"}
-  chart: {type: columns, title: "भारत का पीछा: बने रन बनाम बाकी रन", highlight: 1, items: [{label: "बने", value: 65, display: "65"}, {label: "बाकी", value: 78, display: "78"}]}
+  chart: {type: columns, title: "भारत का पीछा: बनाए रन बनाम बाकी रन", highlight: 1, items: [{label: "बनाए", value: 65, display: "65"}, {label: "बाकी", value: 78, display: "78"}]}
   source: "विज़डन लाइव स्कोरकार्ड, 4 नवंबर 2026"
 related: [india-54-one-down-rain-stops-play-eden-park-odi, india-41-one-down-kohli-chase-186-eden-park-odi, rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-eden-park]
 seo:
@@ -57,7 +57,7 @@ verification:
 न्यूज़ीलैंड 40.2 ओवर में 185 पर आउट हुआ था, जिससे भारत को 50 ओवर में 186 बनाने थे। जब बारिश आई तब भारत 1 विकेट पर 54 था। अब 65 रन बन चुके हैं और 78 बाकी हैं, यानी 32 ओवर में 143 का पीछा बनता है, हालांकि स्कोरकार्ड संशोधित लक्ष्य या उसका तरीका नहीं बताता।
 
 ```chart
-{"type":"vbar","title":"बारिश के बाद भारत का पीछा","unit":"रन","data":[{"label":"बने","value":65},{"label":"बाकी","value":78}]}
+{"type":"vbar","title":"बारिश के बाद भारत का पीछा","unit":"रन","data":[{"label":"बनाए","value":65},{"label":"बाकी","value":78}]}
 ```
 
 खेल शुरू होने के बाद भारत ने 1.3 ओवर में 11 रन जोड़े। भारत अब भी जीत का प्रबल दावेदार है, पर छोटे मैच में दो-तीन जल्दी विकेट पूछने वाली दर को काफी भारी बना सकते हैं।

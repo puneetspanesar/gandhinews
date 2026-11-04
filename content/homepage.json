@@ -17,15 +17,14 @@
     },
     "dataBox": [],
     "relatedBelow": [
+      "us-midterms-democrats-230-house-seats-economy-hegseth-blame",
       "us-midterms-democrats-oust-spartz-van-orden-steil-house-jeffries",
-      "us-midterms-hamilton-flips-kansas-senate-marshall",
-      "us-midterms-collins-concedes-troy-jackson-maine-senate-flip"
+      "us-midterms-hamilton-flips-kansas-senate-marshall"
     ],
     "relatedBeside": [
-      "supreme-court-child-labour-special-cell-centre",
-      "india-54-one-down-rain-stops-play-eden-park-odi",
-      "supreme-court-delhi-sir-form-6-ec-clarification-cji-mention",
-      "jitin-prasada-warsaw-wb-group-creotech-india-poland-ties"
+      "india-65-one-down-32-over-chase-eden-park-odi",
+      "dewas-inspector-dilip-puri-accused-shot-leg-custody",
+      "supreme-court-two-child-norm-javed-larger-bench"
     ],
     "live": {
       "title": {
@@ -37,14 +36,14 @@
   "briefing": {
     "items": [
       {
-        "link": "us-midterms-democrats-oust-spartz-van-orden-steil-house-jeffries",
+        "link": "india-65-one-down-32-over-chase-eden-park-odi",
         "lead": {
-          "en": "US House:",
-          "hi": "अमेरिकी सदन:"
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Democrats oust Republicans Steil, Van Orden and Max Miller as House lead widens",
-          "hi": "डेमोक्रेट्स ने रिपब्लिकन स्टाइल, वैन ऑर्डन और मैक्स मिलर को हराया, सदन में बढ़त बढ़ी"
+          "en": "India 65 for 1 as rain cuts Eden Park chase to 32 overs",
+          "hi": "बारिश के बाद ईडन पार्क में भारत का पीछा 32 ओवर का, स्कोर 1 विकेट पर 65"
         }
       },
       {
@@ -59,25 +58,36 @@
         }
       },
       {
-        "link": "india-54-one-down-rain-stops-play-eden-park-odi",
+        "link": "us-midterms-democrats-230-house-seats-economy-hegseth-blame",
         "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
+          "en": "US:",
+          "hi": "अमेरिका:"
         },
         "text": {
-          "en": "Rain stops play at Eden Park with India 54 for 1 in chase of 186",
-          "hi": "ईडन पार्क में बारिश ने रोका खेल, 186 के पीछा में भारत 1 विकेट पर 54"
+          "en": "Democrats head for more than 230 House seats as prices drive the vote",
+          "hi": "प्रतिनिधि सभा में 230 से ज़्यादा सीटों की ओर डेमोक्रेट्स"
         }
       },
       {
-        "link": "supreme-court-delhi-sir-form-6-ec-clarification-cji-mention",
+        "link": "supreme-court-two-child-norm-javed-larger-bench",
         "lead": {
-          "en": "Delhi SIR:",
-          "hi": "दिल्ली एसआईआर:"
+          "en": "Two-child norm:",
+          "hi": "दो-संतान नियम:"
         },
         "text": {
-          "en": "Delhi SIR: Bhushan flags EC's Form 6 advice in Supreme Court, CJI says voters 'need not be apprehensive'",
-          "hi": "दिल्ली एसआईआर: फॉर्म 6 पर चुनाव आयोग की सलाह के खिलाफ सुप्रीम कोर्ट पहुंचे भूषण, सीजेआई बोले, लोग आशंकित न हों"
+          "en": "Two-child norm has lost relevance, says Supreme Court, sends 2003 Javed ruling to larger bench",
+          "hi": "दो बच्चों का नियम अब प्रासंगिक नहीं: सुप्रीम कोर्ट ने 2003 का जावेद फैसला बड़ी पीठ को भेजा"
+        }
+      },
+      {
+        "link": "rbi-financial-markets-consultative-committee-rohit-jain",
+        "lead": {
+          "en": "RBI:",
+          "hi": "RBI:"
+        },
+        "text": {
+          "en": "RBI sets up market panel under Deputy Governor Rohit Jain, with bankers and ex-Sebi member Ananth Narayan",
+          "hi": "RBI ने डिप्टी गवर्नर रोहित जैन की अध्यक्षता में बाज़ार समिति बनाई, बैंकर और पूर्व सेबी सदस्य अनंत नारायण शामिल"
         }
       },
       {
@@ -92,6 +102,17 @@
         }
       },
       {
+        "link": "qatar-iran-us-far-apart-36-hours-feedback-hormuz",
+        "lead": {
+          "en": "Iran:",
+          "hi": "ईरान:"
+        },
+        "text": {
+          "en": "Qatar says Iran and US still far apart",
+          "hi": "क़तर: ईरान और अमेरिका में अब भी बड़ा फ़ासला"
+        }
+      },
+      {
         "link": "dewas-inspector-dilip-puri-accused-shot-leg-custody",
         "lead": {
           "en": "Madhya Pradesh:",
@@ -100,28 +121,6 @@
         "text": {
           "en": "Accused in Dewas inspector's killing shot in leg, police say he tried to flee custody",
           "hi": "देवास में इंस्पेक्टर की मौत का आरोपी पैर में गोली लगने से घायल, पुलिस बोली हिरासत से भागने की कोशिश की"
-        }
-      },
-      {
-        "link": "jaishankar-chogm-antigua-dpi-ftas-executive-session",
-        "lead": {
-          "en": "Diplomacy:",
-          "hi": "कूटनीति:"
-        },
-        "text": {
-          "en": "Jaishankar pitches India's digital public infrastructure and trade deals to Commonwealth leaders in Antigua",
-          "hi": "एंटीगा में जयशंकर ने राष्ट्रमंडल नेताओं के सामने रखा भारत का डिजिटल ढांचा और व्यापार समझौते"
-        }
-      },
-      {
-        "link": "psg-six-villarreal-record-bayern-win-madrid-cunha-united",
-        "lead": {
-          "en": "Football:",
-          "hi": "फुटबॉल:"
-        },
-        "text": {
-          "en": "PSG hit Villarreal for six, Bayern win in Madrid and Cunha rescues United",
-          "hi": "पीएसजी ने विलारियल पर छह गोल दागे, बायर्न मैड्रिड में जीता और कुन्हा ने यूनाइटेड को बचाया"
         }
       }
     ]
@@ -189,18 +188,19 @@
   },
   "topStories": {
     "big": {
-      "id": "dewas-inspector-dilip-puri-accused-shot-leg-custody",
+      "id": "rbi-financial-markets-consultative-committee-rohit-jain",
       "also": []
     },
     "list": [
-      "jaishankar-chogm-antigua-dpi-ftas-executive-session",
-      "psg-six-villarreal-record-bayern-win-madrid-cunha-united",
       "qatar-iran-us-far-apart-36-hours-feedback-hormuz",
-      "misri-lands-kathmandu-today-three-post-diwali-dates-shah"
+      "jaishankar-chogm-antigua-dpi-ftas-executive-session",
+      "misri-lands-kathmandu-today-three-post-diwali-dates-shah",
+      "psg-six-villarreal-record-bayern-win-madrid-cunha-united",
+      "urvil-patel-210-pradosh-paul-208-ranji-round-four-day-two"
     ],
     "also": [
-      "nishikant-dubey-offers-debate-rahul-congress-office",
-      "sonowal-puri-coastal-freight-12-per-cent-2047-cruise-terminal"
+      "pawan-khera-modi-parliament-press-conference-debate-dare",
+      "supreme-court-child-labour-special-cell-centre"
     ]
   },
   "startHere": [
@@ -376,15 +376,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "supreme-court-two-child-norm-javed-larger-bench",
         "supreme-court-delhi-sir-form-6-ec-clarification-cji-mention",
-        "pawan-khera-modi-parliament-press-conference-debate-dare",
-        "nitin-nabin-gorakhpur-loktantra-bachao-padyatra-yogi"
+        "pawan-khera-modi-parliament-press-conference-debate-dare"
       ],
       "lead": "supreme-court-child-labour-special-cell-centre"
     },
     {
       "section": "economy",
-      "lead": "mcx-q2-profit-454-crore-revenue-doubles",
+      "lead": "rbi-financial-markets-consultative-committee-rohit-jain",
       "module": {
         "type": "markets",
         "indicators": [
@@ -395,10 +395,10 @@
         ]
       },
       "list": [
+        "mcx-q2-profit-454-crore-revenue-doubles",
         "nse-q2-profit-23-per-cent-2578-crore-coal-exchange-stake",
         "sensex-1225-points-nifty-23811-fourth-day-rally-november-3",
-        "food-inflation-weak-monsoon-sugar-poultry-milk-prices",
-        "bpcl-buys-us-wti-crude-1-million-barrels-mumbai-december"
+        "food-inflation-weak-monsoon-sugar-poultry-milk-prices"
       ]
     },
     {
@@ -437,12 +437,12 @@
   "desks": [
     {
       "section": "world",
-      "lead": "us-midterms-democrats-oust-spartz-van-orden-steil-house-jeffries",
+      "lead": "us-midterms-democrats-230-house-seats-economy-hegseth-blame",
       "list": [
+        "us-midterms-democrats-oust-spartz-van-orden-steil-house-jeffries",
         "us-midterms-collins-concedes-troy-jackson-maine-senate-flip",
         "us-midterms-hamilton-flips-kansas-senate-marshall",
-        "us-midterms-turek-flips-iowa-senate-hinson",
-        "us-midterms-democrats-win-senate-talarico-brown-flip"
+        "us-midterms-turek-flips-iowa-senate-hinson"
       ]
     },
     {
@@ -456,11 +456,11 @@
     },
     {
       "section": "sports",
-      "lead": "india-54-one-down-rain-stops-play-eden-park-odi",
+      "lead": "india-65-one-down-32-over-chase-eden-park-odi",
       "list": [
+        "india-54-one-down-rain-stops-play-eden-park-odi",
         "india-41-one-down-kohli-chase-186-eden-park-odi",
-        "rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-eden-park",
-        "brar-latham-kohli-catch-new-zealand-124-seven-down-eden-park-odi"
+        "rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-eden-park"
       ]
     }
   ],
