@@ -3,12 +3,12 @@
     "id": "us-midterms-democrats-win-senate-talarico-brown-flip",
     "overlay": {
       "kicker": {
-        "en": "Economy / Policy",
-        "hi": "अर्थव्यवस्था / नीति"
+        "en": "World / US midterms",
+        "hi": "दुनिया / अमेरिकी मध्यावधि चुनाव"
       },
       "value": {
-        "en": "₹14,500 cr for energy storage",
-        "hi": "ऊर्जा भंडारण को ₹14,500 करोड़"
+        "en": "Democrats take both chambers",
+        "hi": "दोनों सदनों पर डेमोक्रेट्स का कब्ज़ा"
       },
       "text": {
         "en": "",
@@ -25,8 +25,8 @@
       "cabinet-energy-storage-vgf-14500-crore-critical-minerals-2814",
       "himanta-purnea-rally-rahul-bangladesh-seemanchal-sir",
       "india-beat-new-zealand-five-wickets-dls-eden-park-first-odi",
-      "rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs",
-      "dewas-inspector-dilip-puri-accused-shot-leg-custody"
+      "dewas-inspector-dilip-puri-accused-shot-leg-custody",
+      "rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs"
     ],
     "live": {
       "title": {
@@ -415,8 +415,7 @@
       "list": [
         "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip",
         "sitharaman-tata-critical-component-settle-amicably-investors",
-        "supreme-court-green-crackers-delhi-ncr-diwali-november-7-8",
-        "modi-inaugurate-bharat-renewable-energy-summit-bharat-mandapam-preview"
+        "supreme-court-green-crackers-delhi-ncr-diwali-november-7-8"
       ]
     },
     {
@@ -426,7 +425,6 @@
         "session": "monsoon-2026"
       },
       "list": [
-        "birla-sameh-shoukry-brics-parliamentary-forum-opens-monday",
         "brics-parliamentary-forum-delhi-special-session-talk",
         "finance-ministry-idbi-2003-parliament-assurance-not-binding"
       ]
@@ -449,16 +447,18 @@
       "list": [
         "aditya-l1-velc-asymmetric-cme-expansion-iia",
         "apollo-slok-ai-zero-financial-payoff-sp-493",
-        "cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam"
+        "nasa-isaacman-moon-base-artemis-iii-summer-2027-landing-2028",
+        "bhashini-10-billion-inferences-etd-2026-iit-delhi"
       ]
     },
     {
       "section": "sports",
       "lead": "india-beat-new-zealand-five-wickets-dls-eden-park-first-odi",
       "list": [
-        "india-65-one-down-32-over-chase-eden-park-odi",
-        "india-54-one-down-rain-stops-play-eden-park-odi",
-        "india-41-one-down-kohli-chase-186-eden-park-odi"
+        "urvil-patel-210-pradosh-paul-208-ranji-round-four-day-two",
+        "sindhu-lakshya-withdraw-korea-open-sindhu-japan-masters",
+        "glenn-maxwell-retires-international-cricket-38",
+        "ashwin-chapter-closed-bhuvneshwar-backs-shami"
       ]
     }
   ],
