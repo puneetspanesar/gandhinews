@@ -27021,18 +27021,6 @@
    }
   }
  },
- "pawan-khera-modi-parliament-press-conference-debate-dare": {
-  "id": "v-pawan-khera-modi-parliament-press-conference-debate-dare",
-  "src": "/photos/v-pawan-khera-modi-parliament-press-conference-debate-dare-1280.jpg",
-  "src800": "/photos/v-pawan-khera-modi-parliament-press-conference-debate-dare-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Adityanag2002 / Wikimedia Commons",
-  "licence": "CC BY 4.0",
-  "alt": "Congress leader Pawan Khera (file photo)",
-  "alt_hi": "कांग्रेस नेता पवन खेड़ा (फ़ाइल फ़ोटो)",
-  "page": null
- },
  "us-midterms-democrats-win-senate-talarico-brown-flip": {
   "id": "v-us-midterms-democrats-win-senate-talarico-brown-flip",
   "src": "/photos/v-us-midterms-democrats-win-senate-talarico-brown-flip-1280.jpg",
@@ -27044,5 +27032,36 @@
   "alt": "Senate Democratic leader Chuck Schumer and President Donald Trump (file photo)",
   "alt_hi": "सीनेट में डेमोक्रेटिक नेता चक शूमर और राष्ट्रपति डोनाल्ड ट्रंप (फ़ाइल फ़ोटो)",
   "page": null
+ },
+ "pawan-khera-modi-parliament-press-conference-debate-dare": {
+  "id": "i-pawan-khera-modi-parliament-press-conference-debate-dare",
+  "src": "/photos/i-pawan-khera-modi-parliament-press-conference-debate-dare-en-3x2-1280.jpg",
+  "src800": "/photos/i-pawan-khera-modi-parliament-press-conference-debate-dare-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Congress presses Modi to take up Rahul's challenge",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: कांग्रेस का मोदी पर राहुल की चुनौती मानने का दबाव",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-pawan-khera-modi-parliament-press-conference-debate-dare-hi-3x2-1280.jpg",
+    "src800": "/photos/i-pawan-khera-modi-parliament-press-conference-debate-dare-hi-3x2-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-pawan-khera-modi-parliament-press-conference-debate-dare-en-1280.jpg",
+    "src800": "/photos/i-pawan-khera-modi-parliament-press-conference-debate-dare-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-pawan-khera-modi-parliament-press-conference-debate-dare-hi-1280.jpg",
+    "src800": "/photos/i-pawan-khera-modi-parliament-press-conference-debate-dare-hi-640.jpg"
+   }
+  }
  }
 }

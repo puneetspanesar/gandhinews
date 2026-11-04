@@ -62,18 +62,10 @@ Minister of State for Commerce and Industry Jitin Prasada has **held a round of 
 
 His first meeting was with Piotr Wojciechowski, president of the Polish defence and technology group **WB Group**. They discussed next-generation defence electronics, **unmanned aerial systems**, advanced communications, autonomous systems and tactical electronics.
 
-```photo
-{"n":1,"subject":"Embassy of India, Warsaw","caption":"The Indian Embassy in Warsaw, where Prasada met the Boryszew Group's Adam Holewa.","alt":"The Embassy of India in Warsaw"}
-```
-
 With Gaweł Łopiński, chief executive of IT and cloud services company **Billennium**, which has a presence in Pune, Prasada talked about investment, digital talent, cloud transformation and artificial intelligence.
 
 At space technology company **Creotech Instruments**, he met co-founder Grzegorz Brona and deputy chief executive Grzegorz Wrochna. The talks covered **micro-satellites, space hardware** and quantum technologies, and the scope for joint research and development.
 
 At the Indian Embassy, he met Adam Holewa, a board member of the **Boryszew Group** and chief executive of Maflow and BAP Group, to discuss technical cooperation, joint ventures and investment in India under the Make in India and production-linked incentive schemes, with a focus on supply chains.
-
-```photo
-{"n":2,"subject":"Donald Tusk","caption":"Polish Prime Minister Donald Tusk, who agreed with Narendra Modi in New Delhi on 22 October to deepen defence and space ties.","alt":"Polish Prime Minister Donald Tusk"}
-```
 
 The visit follows Polish Prime Minister Donald Tusk's talks with Narendra Modi in New Delhi on 22 October, when the two leaders agreed to **deepen cooperation in defence, space and nuclear energy**.

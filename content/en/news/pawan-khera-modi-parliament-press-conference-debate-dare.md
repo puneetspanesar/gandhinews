@@ -60,10 +60,6 @@ Congress leader Pawan Khera on Wednesday morning **backed Rahul Gandhi's dare to
 
 "You don't show up in Parliament," Khera said. "You are the Prime Minister in a democracy; questions will be asked, and you will have to provide answers." He added that Modi had **not held a single press conference in "12-13 years"**, and said: "You are afraid to enter Parliament."
 
-```photo
-{"n":1,"subject":"Rahul Gandhi","caption":"Leader of Opposition Rahul Gandhi, whose challenge to the Prime Minister Khera was backing.","alt":"Leader of Opposition Rahul Gandhi"}
-```
-
 Khera said the government spoke of religion rather than governance. Its focus, he said, had nothing to do with "fixing the economy, addressing the concerns of the youth, tackling unemployment, dealing with exam paper leaks, or ensuring the safety of women". "If you ask them a question related to jobs, they start talking about 'Islamic extremism'," he said, before ending with a challenge of his own: **"come, let's have a debate."**
 
 ## Rahul's poll
@@ -73,9 +69,5 @@ Rahul Gandhi has taken the dare to social media. In a poll on X he asked: "Youth
 ## BJP's reply
 
 BJP leader Zafar Islam dismissed the challenge. "Anyone who understands Rahul Gandhi knows that his **only expertise lies in making allegations**," he said. "He makes all sorts of accusations, but leaves the responsibility of proving them to someone else."
-
-```photo
-{"n":2,"subject":"Syed Zafar Islam","caption":"BJP leader Zafar Islam, who said Rahul Gandhi had not taken up the Home Minister's challenge to debate.","alt":"BJP leader Syed Zafar Islam"}
-```
 
 He said Rahul had not accepted the Home Minister's own challenge to debate, and claimed he was "going to America again in two days" to speak against the country. He also said the opposition's recent rally had drawn **only 10,000 people** against a promised 10 lakh, and asked the Congress: "Did you let Priyanka Gandhi speak?"

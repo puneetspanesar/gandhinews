@@ -76,15 +76,7 @@ Arshdeep set the tone with the new ball, removing Will Young and Henry Nicholls 
 
 Off the last ball of the 17th over, Brar held **a one-handed return catch** off his own bowling to remove Tom Latham. The New Zealand wicketkeeper went for 3 off 11 balls, and New Zealand were four down inside 17 overs.
 
-```photo
-{"n":1,"subject":"Tom Latham","caption":"Tom Latham, New Zealand's wicketkeeper-batter, fell for 3 to Gurnoor Brar's return catch.","alt":"New Zealand batter Tom Latham"}
-```
-
 The wickets kept coming through the middle overs. Nathan Smith was the next to go to a moment of fielding brilliance, when **Virat Kohli flew to take a diving catch**. New Zealand lost their seventh wicket in the 29th over with 115 on the board.
-
-```photo
-{"n":2,"subject":"Virat Kohli","caption":"Virat Kohli took a diving catch to send back Nathan Smith.","alt":"India batter Virat Kohli"}
-```
 
 ## What comes next
 

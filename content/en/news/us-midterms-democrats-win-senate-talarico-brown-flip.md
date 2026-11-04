@@ -76,10 +76,6 @@ Democrats are **projected to win control of the Senate**, US networks said on We
 
 Republicans went into Tuesday's vote with a **53-47 Senate majority**. Democrats needed a net gain of four seats, and they got it in states that Trump won comfortably two years ago. Once all votes are counted they will have at least 51 of the 100 seats. Chuck Schumer, who led the Senate from 2021 to 2025, is set to return as majority leader.
 
-```photo
-{"n":1,"subject":"James Talarico","caption":"James Talarico, the Democrat who beat Ken Paxton for the Senate seat in Texas.","alt":"Texas Democrat James Talarico"}
-```
-
 ## Four flips in Trump country
 
 The two biggest upsets came late. In Texas, **James Talarico defeated Ken Paxton**, the state's Republican attorney general, despite heavy outside spending for Paxton. In Ohio, former senator **Sherrod Brown beat Jon Husted**, the Republican who held the seat. Trump carried both states by double digits in 2024.
@@ -87,10 +83,6 @@ The two biggest upsets came late. In Texas, **James Talarico defeated Ken Paxton
 They joined two flips called earlier in the night. In South Carolina, paediatrician Annie Andrews defeated Darline Graham, who was appointed after the death of her brother, Senator Lindsey Graham, in a state Trump won by nearly 18 points. In North Carolina, former governor Roy Cooper won the open seat.
 
 Democrats also held Georgia, where Jon Ossoff beat Mike Collins, and New Hampshire. Their majority rests on keeping their own seats in Michigan and Minnesota. In Florida, Republican Ashley Moody led Democrat Angie Nixon by about 3 points in the count.
-
-```photo
-{"n":2,"subject":"Sherrod Brown","caption":"Sherrod Brown, who won back a Senate seat in Ohio by defeating Republican Jon Husted.","alt":"Ohio Democrat Sherrod Brown"}
-```
 
 ## 'Wasn't on the Ballot'
 
@@ -103,10 +95,6 @@ Before the polls closed, Schumer had called himself "nauseously optimistic". "Th
 ## Why voters turned
 
 Exit polls found that **half of voters saw the election as a rebuke** of the president, and three in four were angry or dissatisfied with the direction of the country. Seventy per cent said they wanted Congress to act as more of a check on the administration. The cost of living and corruption topped voters' worries, along with higher fuel prices after Trump launched the war against Iran in February.
-
-```photo
-{"n":3,"subject":"Ken Paxton","caption":"Ken Paxton, the Texas attorney general, lost the Senate race to Talarico.","alt":"Texas Attorney General Ken Paxton"}
-```
 
 ## What changes now
 

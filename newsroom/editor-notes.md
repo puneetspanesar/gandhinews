@@ -14,3 +14,9 @@ Owner's note: too many market and sales stories, not enough of the day's real ne
 - India desk found no confirmable India news in the 07:00 to 09:00 window; pib.gov.in and newsonair article pages were not readable. Leads to check: DRDO Pralay test from Chandipur (newsonair, about 08:40 IST), defence production target of Rs 3 lakh crore by 2029, three IndiaAI foundation models launched.
 - Rahul Gandhi Sangrur rally and Nitin Nabin Gorakhpur padyatra are previews; write what was said once the events happen.
 - Older photo items still open: real photos for Keisha Lance Bottoms, Rahul Gandhi (Punjab), Nitin Nabin, Eden Park; Cooper/Whatley and Jaishankar picks are on photo-raw (apply_composites crashed earlier on a truncated raw image).
+
+## November 4, 2026, 10:45 am (from the 10:00 run)
+- US midterms: Senate call published (us-midterms-democrats-win-senate-talarico-brown-flip, now the lead). Main picture is file photos of Schumer and Trump; a current Talarico or Brown election-night photo would be better. Still needed: final seat tally, Maine/Iowa/Alaska results, post-result reactions.
+- India v NZ first ODI: latest is brar-latham-kohli-catch-new-zealand-124-seven-down-eden-park-odi (NZ 124/7 after 30 overs, infographic picture). Write the innings break and the result; take this story out of the headlines each time. Gurnoor Brar has no Commons photo; Tom Latham queries return the US congressman (blocklisted).
+- Pawan Khera: File:Pawan_Khera_at_Bhubaneswar.jpg is NOT Pawan Khera (blocklisted). The real Khera is in File:Pawan_khera_1.jpg and File:Pawan_Khera.jpg. Older story smriti-irani-khera-rss-women-row-rahul still uses the wrong photo as a panel: replace it. pawan-khera-modi-parliament-press-conference-debate-dare runs with an infographic until a correct photo is downloaded.
+- Jitin Prasada has no Commons photo found; his Warsaw story runs with an infographic.
