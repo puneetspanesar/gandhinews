@@ -2,7 +2,8 @@
 import json, sys, os
 sys.path.insert(0, '/home/claude/gn-work')
 from compose import compose
-from PIL import Image
+from PIL import Image, ImageFile
+ImageFile.LOAD_TRUNCATED_IMAGES = True
 raw = sys.argv[1]
 FOCUS = json.load(open(sys.argv[2])) if len(sys.argv) > 2 else {}
 os.chdir('/home/claude/gandhinews')

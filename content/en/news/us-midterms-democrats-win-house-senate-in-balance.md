@@ -83,15 +83,7 @@ Many of the tightest House races had not been called, and no final seat count wa
 
 The bigger surprise came in the Senate, where Republicans went in with a 53-47 majority. In South Carolina, a state Trump won by nearly 18 points in 2024, paediatrician **Annie Andrews beat Darline Graham**, the Republican Trump had backed. Graham had been appointed to the seat after the death of her brother, Senator Lindsey Graham. Andrews is the first Democrat to win a Senate seat in South Carolina since 1998.
 
-```photo
-{"n":1,"subject":"Annie Andrews","caption":"Annie Andrews, who won South Carolina's Senate seat for the Democrats.","alt":"Annie Andrews"}
-```
-
 In North Carolina, former governor Roy Cooper defeated Michael Whatley. With the two flips, Democrats have **two of the four net gains** they need to control the Senate. They also held Georgia, where Jon Ossoff beat Republican Mike Collins, and New Hampshire, where Chris Pappas defeated John Sununu for an open seat.
-
-```photo
-{"n":2,"subject":"Roy Cooper","caption":"Roy Cooper, the former North Carolina governor, flipped a Republican Senate seat.","alt":"Roy Cooper"}
-```
 
 Ossoff told supporters that "the American people have rebuked the depravity, corruption and incompetence of the man named President Donald J. Trump."
 
@@ -100,10 +92,6 @@ In Florida, Republican Senator Ashley Moody led Democrat Angie Nixon by about 3 
 ## A verdict on Trump
 
 Trump had told supporters to "pretend I'm on the ballot". On the eve of the vote he admitted that the party in the White House often loses midterms: "But we gave this a very strong shot." He had not reacted to the House projection at the time of writing. Exit polls found that **half of voters saw the election as a chance to rebuke the president**, with his approval near career lows amid the war with Iran and higher fuel prices.
-
-```photo
-{"n":3,"subject":"Jon Ossoff","caption":"Senator Jon Ossoff held Georgia for the Democrats.","alt":"Jon Ossoff"}
-```
 
 A Democratic House gives the party the power to block Trump's bills, open investigations and shape spending for the last two years of his term.
 
