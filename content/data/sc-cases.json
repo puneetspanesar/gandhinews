@@ -149,10 +149,16 @@
       "bench": "CJI Surya Kant and Justice Joymalya Bagchi (Bihar ruling)",
       "status": "partly_decided",
       "status_text": "Bihar SIR upheld; later-phase challenges pending",
-      "last_date": "2026-09",
-      "last_event": "Notice issued on a Delhi petition alleging SIR notices were issued mechanically. In August the Court directed the ECI to disclose pending appeals in West Bengal. Bihar SIR upheld unanimously on 27 May 2026.",
-      "next_step": "Hearings on Delhi and West Bengal matters; no dates in sources found.",
+      "last_date": "2026-11-04",
+      "last_event": "On 4 Nov 2026 Prashant Bhushan, for Delhi petitioners Anjali Bhardwaj and Amrita Johri, mentioned before CJI Surya Kant that the ECI's 3 Nov clarification (that electors left out of the draft roll may file Form 6, with no action under Section 31 of the RP Act, 1950, on that ground alone) runs against the Court's 28 Oct observation that such voters cannot be compelled to use Form 6 and should be allowed Form 8 or the enumeration form. The CJI said people 'need not be apprehensive', asked for an application and indicated the Court could ask the ECI to extend the deadline. About 47.56 lakh Delhi electors were left out of the draft roll. Earlier: notice on a Delhi petition in September; ECI told in August to disclose pending West Bengal appeals; Bihar SIR upheld unanimously on 27 May 2026.",
+      "next_step": "Delhi Form 6 issue to be heard on 19 Nov 2026; West Bengal matters pending.",
       "sources": [
+        {
+          "title": "Delhi SIR : Petitioners Flag Before Supreme Court ECI's Statement Asking Deleted Voters To File Form 6",
+          "publisher": "LiveLaw",
+          "date": "2026-11-04",
+          "url": "https://www.livelaw.in/top-stories/delhi-sir-petitioners-flag-before-supreme-court-ecis-statement-asking-deleted-voters-to-file-form-6-557246"
+        },
         {
           "title": "Supreme Court Observer, 2026 | Summer session review",
           "publisher": "Supreme Court Observer",
@@ -172,7 +178,7 @@
           "url": "https://www.scobserver.in/journal/monthly-review-september-2026/amp/"
         }
       ],
-      "notes": "Exact date of the September notice not given by SCO."
+      "notes": "4 Nov 2026 Delhi mention rests on a single source (LiveLaw); bench beyond the CJI not named in the report. Exact date of the September notice not given by SCO."
     },
     {
       "id": "neet-protest-firs",
@@ -458,6 +464,99 @@
         }
       ],
       "notes": "High Court order date (29 Oct 2026), petitioner and writ number from Verdictum (30 Oct). No report of the SLP being filed was found as of early 4 Nov 2026. Govind Shirodkar of the ST Association said the petition would be filed 'by next week' (digitalgoa, 2 Nov)."
+    },
+    {
+      "id": "two-child-norm-reference",
+      "case": "Mangala Bhimrao Ingle v. State of Maharashtra (SLP(C) No. 30772/2025), reconsideration of Javed v. State of Haryana (2003)",
+      "issue": "Whether laws that disqualify people with more than two children from panchayat posts remain valid, and whether the three-judge ruling in Javed v. State of Haryana (2003), which upheld such a bar, should be reconsidered.",
+      "bench_size": 2,
+      "bench": "Justices PS Narasimha and Alok Aradhe",
+      "status": "referred_to_larger_bench",
+      "status_text": "Javed ruling referred to a larger bench",
+      "last_date": "2026-11-04",
+      "last_event": "The bench said laws penalising having more than two children 'have lost their relevance', noting that India's total fertility rate has fallen to 1.9, below the replacement rate of 2.1, from 3 when Javed was decided. As a two-judge bench cannot overrule a three-judge ruling, it stayed the proceedings and referred Javed to a larger bench. The petitioner, a former sarpanch of Kakoda gram panchayat in Maharashtra, was disqualified under Section 14(1)(j-1) of the Maharashtra Village Panchayats Act, 1959, after her third child; the Court had stayed the High Court order in November 2025 and reserved judgment on 4 Aug 2026.",
+      "next_step": "Larger bench to be constituted by the CJI; no date set. The two-child norm stays in force in the states that have it until then.",
+      "sources": [
+        {
+          "title": "Laws Penalising Having More Than 2 Children Have Lost Relevance Due To India's Falling Fertility Rate : Supreme Court",
+          "publisher": "LiveLaw",
+          "date": "2026-11-04",
+          "url": "https://www.livelaw.in/top-stories/laws-penalising-having-more-than-2-children-have-lost-relevance-due-to-indias-falling-fertility-rate-supreme-court-557233"
+        },
+        {
+          "title": "SC Flags Population Decline, Says Two-Child Norm Laws Have Lost Relevance",
+          "publisher": "ETV Bharat",
+          "date": "2026-11-04",
+          "url": "https://www.etvbharat.com/en/bharat/supreme-court-flags-population-decline-says-two-child-norm-laws-have-lost-relevance-enn26110402368"
+        },
+        {
+          "title": "Two-Child Norm Laws Have Lost Relevance, Supreme Court Refers Javed To Larger Bench",
+          "publisher": "LawChakra",
+          "date": "2026-11-04",
+          "url": "https://lawchakra.in/supreme-court/two-child-norm-laws/"
+        },
+        {
+          "title": "Does 2-Child Policy Require Reconsideration? Supreme Court Reserves Judgment",
+          "publisher": "LiveLaw",
+          "date": "2026-08-04",
+          "url": "https://www.livelaw.in/top-stories/does-2-child-policy-require-reconsideration-supreme-court-reserves-judgment-544268"
+        }
+      ],
+      "notes": "Questions framed for the larger bench not reported. LawChakra says the disqualification was set aside; ETV Bharat does not, so it is left out. State count (7 repealed, 15 never had, 6 retain) is from the amicus compilation at the August hearing."
+    },
+    {
+      "id": "child-labour-enforcement-cell",
+      "case": "Health for Millions v. Union of India (W.P.(C) No. 501/2009)",
+      "issue": "Challenge to the Child Labour (Prohibition and Regulation) Act, 1986, especially Section 3, which then barred children only from listed hazardous occupations; and enforcement of the 2016 amendment.",
+      "bench_size": 2,
+      "bench": "Justices SVN Bhatti and NV Anjaria",
+      "status": "disposed",
+      "status_text": "Disposed with directions for a special enforcement cell",
+      "last_date": "2026-11-04",
+      "last_event": "In an order made public on 4 Nov 2026, the Court held that the original prayers no longer survived after the 2016 amendment (Act No. 35 of 2016) brought a blanket ban on employing children under 14, and directed the Secretary, Ministry of Women and Child Development, to create a special cell to monitor enforcement of the Child and Adolescent Labour (Prohibition and Regulation) Act, with instructions to enforcement agencies through the states' Chief Secretaries.",
+      "next_step": "Centre to set up the cell; no deadline or further hearing reported.",
+      "sources": [
+        {
+          "title": "Supreme Court Asks Centre To Create Special Cell To Monitor Enforcement Of Child Labour Prohibition Act",
+          "publisher": "LiveLaw",
+          "date": "2026-11-04",
+          "url": "https://www.livelaw.in/top-stories/supreme-court-asks-centre-to-create-special-cell-to-monitor-enforcement-of-child-labour-prohibition-act-557256"
+        },
+        {
+          "title": "2026 LiveLaw (SC) 1127: Health for Millions vs Union of India",
+          "publisher": "LiveLaw",
+          "date": "2026-11-04",
+          "url": "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-1127-health-for-millions-vs-union-of-india-557257"
+        }
+      ],
+      "notes": "Single source (LiveLaw). The order may be dated 29 Oct 2026 (per the PDF filename cited by LiveLaw); 4 Nov is the date it was made public."
+    },
+    {
+      "id": "nirmala-sapre-disqualification",
+      "case": "Umang Singhar v. State of Madhya Pradesh (Diary No. 60436/2026)",
+      "issue": "Whether the Madhya Pradesh Speaker must decide within a fixed time the Tenth Schedule petition seeking disqualification of Bina MLA Nirmala Sapre, elected on a Congress ticket in 2023, who is accused of joining the BJP in May 2024.",
+      "bench_size": 3,
+      "bench": "CJI Surya Kant and Justices Joymalya Bagchi and V Mohana",
+      "status": "decided",
+      "status_text": "Speaker told to decide within two months",
+      "last_date": "2026-11-04",
+      "last_event": "The Court directed the Speaker of the Madhya Pradesh Legislative Assembly to decide Singhar's disqualification petition, pending since July 2024, within two months. It disagreed with the Madhya Pradesh High Court, which had refused a time-bound direction, and relied on its Padi Kaushik Reddy ruling that Tenth Schedule petitions must be decided quickly. It did not rule on whether Sapre is disqualified; she denies leaving the Congress.",
+      "next_step": "Speaker's decision due within two months of 4 Nov 2026, i.e. by early January 2027.",
+      "sources": [
+        {
+          "title": "Supreme Court Asks MP Speaker To Decide Congress Leader's Disqualification Petition Against Nirmala Sapre MLA In 2 Months",
+          "publisher": "LiveLaw",
+          "date": "2026-11-04",
+          "url": "https://www.livelaw.in/top-stories/supreme-court-asks-mp-speaker-to-decide-congress-leaders-disqualification-petition-against-nirmala-sapre-mla-in-2-months-557266"
+        },
+        {
+          "title": "Disqualification Petition Against Nirmala Sapre: SC Gives MP Speaker Two Months",
+          "publisher": "LawChakra",
+          "date": "2026-11-04",
+          "url": "https://lawchakra.in/supreme-court/nirmala-sapre-disqualification/"
+        }
+      ],
+      "notes": "Speaker not named in sources. Whether the SLP was formally disposed is not stated; 'decided' reflects the final direction reported."
     }
   ]
 }

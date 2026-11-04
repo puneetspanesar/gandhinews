@@ -166,10 +166,16 @@
       "bench": "मुख्य न्यायाधीश सूर्यकांत और जस्टिस जॉयमाल्य बागची (बिहार पर फैसला)",
       "status": "partly_decided",
       "status_text": "बिहार एसआईआर सही ठहराया गया; बाद के चरणों की चुनौतियां लंबित",
-      "last_date": "2026-09",
-      "last_event": "दिल्ली की एक याचिका पर नोटिस जारी हुआ, जिसमें आरोप है कि एसआईआर के नोटिस यांत्रिक तरीके से जारी किए गए। अगस्त में कोर्ट ने ईसीआई को पश्चिम बंगाल में लंबित अपीलों का ब्योरा देने का निर्देश दिया। 27 मई 2026 को बिहार एसआईआर को सर्वसम्मति से सही ठहराया गया।",
-      "next_step": "दिल्ली और पश्चिम बंगाल के मामलों पर सुनवाई; मिले स्रोतों में कोई तारीख नहीं।",
+      "last_date": "2026-11-04",
+      "last_event": "4 नवंबर 2026 को दिल्ली के याचिकाकर्ताओं अंजलि भारद्वाज और अमृता जौहरी की ओर से प्रशांत भूषण ने मुख्य न्यायाधीश सूर्यकांत के सामने उल्लेख किया कि ईसीआई का 3 नवंबर का स्पष्टीकरण (मसौदा सूची से छूटे मतदाता फॉर्म 6 भर सकते हैं, और सिर्फ इस आधार पर जनप्रतिनिधित्व अधिनियम, 1950 की धारा 31 के तहत कार्रवाई नहीं होगी) कोर्ट की 28 अक्टूबर की उस टिप्पणी के उलट है कि ऐसे मतदाताओं को फॉर्म 6 के लिए मजबूर नहीं किया जा सकता और उन्हें फॉर्म 8 या गणना फॉर्म इस्तेमाल करने दिया जाए। मुख्य न्यायाधीश ने कहा कि लोगों को 'आशंकित होने की जरूरत नहीं', अर्जी दाखिल करने को कहा और संकेत दिया कि कोर्ट आयोग से समय सीमा बढ़ाने को कह सकता है। दिल्ली की मसौदा सूची से करीब 47.56 लाख मतदाता बाहर रहे। इससे पहले: सितंबर में दिल्ली की एक याचिका पर नोटिस; अगस्त में ईसीआई को पश्चिम बंगाल की लंबित अपीलों का ब्योरा देने का निर्देश; 27 मई 2026 को बिहार एसआईआर सर्वसम्मति से सही ठहराया गया।",
+      "next_step": "दिल्ली के फॉर्म 6 मुद्दे पर 19 नवंबर 2026 को सुनवाई; पश्चिम बंगाल के मामले लंबित।",
       "sources": [
+        {
+          "title": "Delhi SIR : Petitioners Flag Before Supreme Court ECI's Statement Asking Deleted Voters To File Form 6",
+          "publisher": "LiveLaw",
+          "date": "2026-11-04",
+          "url": "https://www.livelaw.in/top-stories/delhi-sir-petitioners-flag-before-supreme-court-ecis-statement-asking-deleted-voters-to-file-form-6-557246"
+        },
         {
           "title": "Supreme Court Observer, 2026 | Summer session review",
           "publisher": "Supreme Court Observer",
@@ -189,7 +195,7 @@
           "url": "https://www.scobserver.in/journal/monthly-review-september-2026/amp/"
         }
       ],
-      "notes": "एससीओ ने सितंबर के नोटिस की सटीक तारीख नहीं बताई।",
+      "notes": "4 नवंबर 2026 का दिल्ली वाला उल्लेख एक ही स्रोत (LiveLaw) पर आधारित; रिपोर्ट में मुख्य न्यायाधीश के अलावा पीठ के बाकी जजों के नाम नहीं। एससीओ ने सितंबर के नोटिस की सटीक तारीख नहीं बताई।",
       "case_hi": "एसोसिएशन फॉर डेमोक्रेटिक रिफॉर्म्स बनाम भारत निर्वाचन आयोग और एसआईआर से जुड़ी अन्य याचिकाएं",
       "status_hi": "आंशिक रूप से तय"
     },
@@ -499,6 +505,105 @@
       "notes": "हाईकोर्ट के आदेश की तारीख (29 अक्टूबर 2026), याचिकाकर्ता और रिट संख्या Verdictum (30 अक्टूबर) से। 4 नवंबर 2026 की सुबह तक एसएलपी दाखिल होने की कोई खबर नहीं मिली। एसटी एसोसिएशन के गोविंद शिरोडकर ने कहा कि याचिका 'अगले हफ्ते तक' दाखिल होगी (digitalgoa, 2 नवंबर)।",
       "case_hi": "गोवा विधानसभा में एसटी आरक्षण: एसटी आबादी के अनुमान पर बॉम्बे हाईकोर्ट (गोवा पीठ) की रोक के खिलाफ गोवा सरकार की प्रस्तावित एसएलपी",
       "status_hi": "चुनौती की घोषणा"
+    },
+    {
+      "id": "two-child-norm-reference",
+      "case": "Mangala Bhimrao Ingle v. State of Maharashtra (SLP(C) No. 30772/2025), reconsideration of Javed v. State of Haryana (2003)",
+      "issue": "क्या दो से ज्यादा बच्चों वालों को पंचायत पदों के अयोग्य ठहराने वाले कानून अब भी वैध हैं, और क्या ऐसे नियम को सही ठहराने वाले तीन जजों के 2003 के जावेद बनाम हरियाणा राज्य फैसले पर फिर से विचार होना चाहिए।",
+      "bench_size": 2,
+      "bench": "जस्टिस पीएस नरसिम्हा और जस्टिस आलोक अराधे",
+      "status": "referred_to_larger_bench",
+      "status_text": "जावेद फैसला बड़ी पीठ को भेजा गया",
+      "last_date": "2026-11-04",
+      "last_event": "पीठ ने कहा कि दो से ज्यादा बच्चे होने पर सजा देने वाले कानून 'अपनी प्रासंगिकता खो चुके हैं', क्योंकि देश की कुल प्रजनन दर जावेद फैसले के समय के 3 से घटकर अब 1.9 रह गई है, जो 2.1 की प्रतिस्थापन दर से कम है। दो जजों की पीठ तीन जजों के फैसले को पलट नहीं सकती, इसलिए उसने कार्यवाही रोककर जावेद फैसला बड़ी पीठ को भेज दिया। याचिकाकर्ता महाराष्ट्र की काकोडा ग्राम पंचायत की पूर्व सरपंच हैं, जिन्हें तीसरे बच्चे के बाद महाराष्ट्र ग्राम पंचायत अधिनियम, 1959 की धारा 14(1)(j-1) के तहत अयोग्य ठहराया गया था; कोर्ट ने नवंबर 2025 में हाईकोर्ट के आदेश पर रोक लगाई थी और 4 अगस्त 2026 को फैसला सुरक्षित रखा था।",
+      "next_step": "मुख्य न्यायाधीश बड़ी पीठ गठित करेंगे; कोई तारीख तय नहीं। तब तक जिन राज्यों में दो बच्चों का नियम है, वहां वह लागू रहेगा।",
+      "sources": [
+        {
+          "title": "Laws Penalising Having More Than 2 Children Have Lost Relevance Due To India's Falling Fertility Rate : Supreme Court",
+          "publisher": "LiveLaw",
+          "date": "2026-11-04",
+          "url": "https://www.livelaw.in/top-stories/laws-penalising-having-more-than-2-children-have-lost-relevance-due-to-indias-falling-fertility-rate-supreme-court-557233"
+        },
+        {
+          "title": "SC Flags Population Decline, Says Two-Child Norm Laws Have Lost Relevance",
+          "publisher": "ETV Bharat",
+          "date": "2026-11-04",
+          "url": "https://www.etvbharat.com/en/bharat/supreme-court-flags-population-decline-says-two-child-norm-laws-have-lost-relevance-enn26110402368"
+        },
+        {
+          "title": "Two-Child Norm Laws Have Lost Relevance, Supreme Court Refers Javed To Larger Bench",
+          "publisher": "LawChakra",
+          "date": "2026-11-04",
+          "url": "https://lawchakra.in/supreme-court/two-child-norm-laws/"
+        },
+        {
+          "title": "Does 2-Child Policy Require Reconsideration? Supreme Court Reserves Judgment",
+          "publisher": "LiveLaw",
+          "date": "2026-08-04",
+          "url": "https://www.livelaw.in/top-stories/does-2-child-policy-require-reconsideration-supreme-court-reserves-judgment-544268"
+        }
+      ],
+      "notes": "बड़ी पीठ के लिए तय किए गए सवालों की जानकारी नहीं मिली। LawChakra के मुताबिक अयोग्यता रद्द की गई, ETV Bharat यह नहीं कहता, इसलिए इसे शामिल नहीं किया। राज्यों की गिनती (7 ने हटाया, 15 में कभी नहीं था, 6 में लागू) अगस्त की सुनवाई में न्यायमित्र के संकलन से।",
+      "case_hi": "मंगला भीमराव इंगले बनाम महाराष्ट्र राज्य (एसएलपी (सी) संख्या 30772/2025), जावेद बनाम हरियाणा राज्य (2003) पर पुनर्विचार",
+      "status_hi": "बड़ी पीठ को भेजा गया"
+    },
+    {
+      "id": "child-labour-enforcement-cell",
+      "case": "Health for Millions v. Union of India (W.P.(C) No. 501/2009)",
+      "issue": "बाल श्रम (निषेध और विनियमन) अधिनियम, 1986, खासकर उसकी धारा 3 को चुनौती, जो तब बच्चों को केवल सूचीबद्ध खतरनाक पेशों में काम से रोकती थी; और 2016 के संशोधन को लागू कराना।",
+      "bench_size": 2,
+      "bench": "जस्टिस एसवीएन भट्टी और जस्टिस एनवी अंजारिया",
+      "status": "disposed",
+      "status_text": "विशेष प्रवर्तन प्रकोष्ठ के निर्देश के साथ निपटाया गया",
+      "last_date": "2026-11-04",
+      "last_event": "4 नवंबर 2026 को सामने आए आदेश में कोर्ट ने कहा कि 2016 के संशोधन (अधिनियम संख्या 35/2016) से 14 साल से कम उम्र के बच्चों से हर पेशे में काम पर पूरी रोक लगने के बाद याचिका की मूल मांगें नहीं बचतीं। उसने महिला एवं बाल विकास मंत्रालय के सचिव को बाल एवं किशोर श्रम (निषेध और विनियमन) अधिनियम के पालन की निगरानी के लिए विशेष प्रकोष्ठ बनाने और राज्यों के मुख्य सचिवों के जरिए प्रवर्तन एजेंसियों को निर्देश भेजने को कहा।",
+      "next_step": "केंद्र प्रकोष्ठ बनाएगा; कोई समय सीमा या अगली सुनवाई की जानकारी नहीं।",
+      "sources": [
+        {
+          "title": "Supreme Court Asks Centre To Create Special Cell To Monitor Enforcement Of Child Labour Prohibition Act",
+          "publisher": "LiveLaw",
+          "date": "2026-11-04",
+          "url": "https://www.livelaw.in/top-stories/supreme-court-asks-centre-to-create-special-cell-to-monitor-enforcement-of-child-labour-prohibition-act-557256"
+        },
+        {
+          "title": "2026 LiveLaw (SC) 1127: Health for Millions vs Union of India",
+          "publisher": "LiveLaw",
+          "date": "2026-11-04",
+          "url": "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-1127-health-for-millions-vs-union-of-india-557257"
+        }
+      ],
+      "notes": "एक ही स्रोत (LiveLaw)। आदेश की तारीख 29 अक्टूबर 2026 हो सकती है (LiveLaw के बताए पीडीएफ फाइल नाम के मुताबिक); 4 नवंबर वह तारीख है जब यह सामने आया।",
+      "case_hi": "हेल्थ फॉर मिलियंस बनाम भारत संघ (रिट याचिका (सी) संख्या 501/2009)",
+      "status_hi": "निपटाया गया"
+    },
+    {
+      "id": "nirmala-sapre-disqualification",
+      "case": "Umang Singhar v. State of Madhya Pradesh (Diary No. 60436/2026)",
+      "issue": "क्या मध्य प्रदेश विधानसभा अध्यक्ष को बीना की विधायक निर्मला सप्रे की अयोग्यता वाली दसवीं अनुसूची की याचिका पर तय समय में फैसला करना होगा। सप्रे 2023 में कांग्रेस के टिकट पर जीती थीं और उन पर मई 2024 में भाजपा में शामिल होने का आरोप है।",
+      "bench_size": 3,
+      "bench": "मुख्य न्यायाधीश सूर्यकांत, जस्टिस जॉयमाल्य बागची और जस्टिस वी. मोहना",
+      "status": "decided",
+      "status_text": "स्पीकर को दो महीने में फैसला करने को कहा",
+      "last_date": "2026-11-04",
+      "last_event": "कोर्ट ने मध्य प्रदेश विधानसभा अध्यक्ष को जुलाई 2024 से लंबित सिंघार की अयोग्यता याचिका पर दो महीने के भीतर फैसला करने का निर्देश दिया। उसने मध्य प्रदेश हाईकोर्ट से असहमति जताई, जिसने समयबद्ध निर्देश देने से इनकार किया था, और पाडी कौशिक रेड्डी फैसले का सहारा लिया कि दसवीं अनुसूची की याचिकाएं जल्दी तय होनी चाहिए। सप्रे अयोग्य हैं या नहीं, इस पर कोर्ट ने कुछ तय नहीं किया; सप्रे कांग्रेस छोड़ने से इनकार करती हैं।",
+      "next_step": "स्पीकर का फैसला 4 नवंबर 2026 से दो महीने में, यानी जनवरी 2027 की शुरुआत तक।",
+      "sources": [
+        {
+          "title": "Supreme Court Asks MP Speaker To Decide Congress Leader's Disqualification Petition Against Nirmala Sapre MLA In 2 Months",
+          "publisher": "LiveLaw",
+          "date": "2026-11-04",
+          "url": "https://www.livelaw.in/top-stories/supreme-court-asks-mp-speaker-to-decide-congress-leaders-disqualification-petition-against-nirmala-sapre-mla-in-2-months-557266"
+        },
+        {
+          "title": "Disqualification Petition Against Nirmala Sapre: SC Gives MP Speaker Two Months",
+          "publisher": "LawChakra",
+          "date": "2026-11-04",
+          "url": "https://lawchakra.in/supreme-court/nirmala-sapre-disqualification/"
+        }
+      ],
+      "notes": "स्रोतों में स्पीकर का नाम नहीं। याचिका औपचारिक रूप से निपटाई गई या नहीं, यह नहीं बताया गया; 'तय' अंतिम निर्देश के आधार पर।",
+      "case_hi": "उमंग सिंघार बनाम मध्य प्रदेश राज्य (डायरी संख्या 60436/2026)",
+      "status_hi": "तय"
     }
   ]
 }
