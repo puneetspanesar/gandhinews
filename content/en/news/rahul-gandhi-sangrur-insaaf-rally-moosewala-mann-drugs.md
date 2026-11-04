@@ -30,6 +30,14 @@ infographic:
     - {icon: flag-banner, value: "18", label: "seats Congress won in 2022"}
     - {icon: calendar-blank, value: "2027", label: "next Punjab Assembly election"}
     - {icon: shield-warning, value: "Drugs", label: "Rahul Gandhi's main charge against the Mann government"}
+  chart:
+    type: columns
+    title: "Punjab Assembly seats won in 2022"
+    highlight: 1
+    items:
+    - {label: "AAP", value: 92, display: "92"}
+    - {label: "Congress", value: 18, display: "18"}
+    - {label: "Others", value: 7, display: "7"}
   source: "Insaaf Rally, Sangrur, November 4, 2026; 2022 Assembly results"
 related: [rahul-gandhi-insaaf-rally-sangrur-phaguwala-punjab-campaign, three-rebel-aap-mlas-join-bjp-punjab-kunwar-vijay-pratap]
 seo:

@@ -76,10 +76,6 @@ The Union Cabinet on Wednesday **approved ₹14,500 crore in viability gap fundi
 
 The storage money will be spent between 2026-27 and 2030-31. It is meant to bring in **92 GWh of storage capacity** that has not yet been commissioned, equal to 170% of the grid-scale storage the country has today. The government estimates India will need 411 GWh of such storage by 2031-32.
 
-```photo
-{"n":1,"subject":"Battery storage power station","caption":"A grid-scale battery storage plant; the scheme backs 30 GWh of battery storage.","alt":"Rows of battery storage containers at a power station"}
-```
-
 ## How the storage will be split
 
 Most of the new capacity, **60 GWh, will come from pumped hydro storage**, which pumps water uphill when power is cheap and releases it through turbines when demand peaks. Battery energy storage systems will add 30 GWh, and 2 GWh is set aside for other technologies.
@@ -93,9 +89,5 @@ Battery projects must meet a minimum 40% domestic content requirement. The offic
 The second decision, the Capex Support Scheme to Promote Critical Mineral Processing, runs for five years from 2026-27. It will pay a **capital subsidy of 30% of eligible investment** for four plants: two lithium processing units of at least 30 kilotonnes each and two nickel processing units of at least 50 kilotonnes each.
 
 Support is capped at ₹500 crore for each lithium plant and ₹900 crore for each nickel plant. Bidders will first be screened on technical grounds and then compete on price, with **the two seeking the least support** for each mineral selected. The money will be released in three instalments tied to milestones.
-
-```photo
-{"n":2,"subject":"Lithium carbonate","caption":"Lithium carbonate, a refined lithium product India now largely imports; the new plants are meant to make such material at home.","alt":"White lithium carbonate powder"}
-```
 
 India still relies heavily on imports for refined, high-purity lithium, nickel and cobalt, the materials that go into electric vehicle and grid batteries, because it has little processing capacity of its own. Together, the two schemes aim to build the battery supply chain from the mine to the grid.

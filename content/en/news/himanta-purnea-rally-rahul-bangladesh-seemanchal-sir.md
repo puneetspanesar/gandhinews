@@ -49,6 +49,10 @@ infographic:
   - icon: flag-banner
     value: "3 regions"
     label: Seemanchal, Assam and Bengal, where he wants a fresh SIR
+  timeline:
+    - {date: "This week", text: "Campaign starts in Bhagalpur", icon: flag}
+    - {date: "4 Nov", text: "Sarma speaks at Purnea rally", icon: map-pin}
+    - {date: "Demand", text: "Fresh SIR in Seemanchal, Assam, Bengal", icon: flag-banner}
   source: Purnea rally, November 4, 2026
 ---
 
@@ -56,17 +60,9 @@ Assam Chief Minister Himanta Biswa Sarma on Wednesday said he would **send Rahul
 
 Sarma said he, Bihar Chief Minister Samrat Choudhary and West Bengal Chief Minister Suvendu Adhikari would together send Gandhi to Bangladesh, where he "could perhaps win an election". The remark set off a fresh political row on a day when both sides were trading charges over the voter roll revision.
 
-```photo
-{"n":1,"subject":"Samrat Choudhary","caption":"Bihar Chief Minister Samrat Choudhary, whom Sarma named in his Bangladesh remark.","alt":"Samrat Choudhary"}
-```
-
 The rally was part of the BJP's **Loktantra Bachao, Arajakta Hatao campaign**, which began in Bhagalpur earlier this week. Sarma defended the revision of electoral rolls and the removal of names such as Babar and Aurangzeb from voter lists, and accused Gandhi of raising needless fears about it.
 
 He mocked the Congress leader's "vote theft" campaign, saying the BJP's wins were really about **"stealing hearts"**. Pointing to the Ram Mandir in Ayodhya, he asked whether that too could be called stealing hearts.
-
-```photo
-{"n":2,"subject":"Suvendu Adhikari","caption":"West Bengal Chief Minister Suvendu Adhikari, the third leader Sarma named.","alt":"Suvendu Adhikari"}
-```
 
 Sarma then demanded a **fresh Special Intensive Revision** of electoral rolls in Bihar's Seemanchal region, Assam and West Bengal.
 

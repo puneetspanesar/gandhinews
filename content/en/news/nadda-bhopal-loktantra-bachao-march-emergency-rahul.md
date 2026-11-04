@@ -57,10 +57,6 @@ Union Health Minister **J P Nadda led the BJP's "Loktantra Bachao, Arajakta Hata
 
 Chief Minister Mohan Yadav and state BJP president Hemant Khandelwal walked with him as the foot march wound from Atal Path near Platinum Plaza, through New Market, to Roshanpura. Thousands of party workers, traders, professionals and members of social organisations joined in.
 
-```photo
-{"n":1,"subject":"Mohan Yadav","caption":"Madhya Pradesh Chief Minister Mohan Yadav joined Nadda on the march through Bhopal.","alt":"Madhya Pradesh Chief Minister Mohan Yadav"}
-```
-
 Nadda turned the Congress's charge back on the party. "Today, Rahul Gandhi and the Congress are pretending to be protectors of democracy," he said, accusing the opposition of **attacking the Election Commission and EVMs** each time it loses an election instead of looking at its own failings.
 
 ## The Emergency, again
@@ -68,9 +64,5 @@ Nadda turned the Congress's charge back on the party. "Today, Rahul Gandhi and t
 He reached back to 1975, when Prime Minister Indira Gandhi imposed the Emergency. "During the Emergency, 1.3 lakh people were put in jail without being given an opportunity to defend themselves," he said. Nadda told the crowd he had himself been **taken from his classroom to a police station twice** in that period, and said whole families had been arrested.
 
 The Bhopal walk was the BJP's **third such march in the state**, after Indore on 30 October and Jabalpur on 2 November. The party has been staging them across states in reply to the INDIA bloc's campaign over alleged irregularities in voter lists and the Special Intensive Revision (SIR) of electoral rolls.
-
-```photo
-{"n":2,"subject":"Rahul Gandhi","caption":"Congress leader Rahul Gandhi, whose 'vote chori' charge the BJP marches are meant to answer.","alt":"Congress leader Rahul Gandhi"}
-```
 
 The Congress has alleged irregularities in the voter lists. The BJP says the opposition is **doubting democratic institutions without proof**.

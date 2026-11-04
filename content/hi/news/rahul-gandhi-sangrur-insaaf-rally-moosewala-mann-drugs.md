@@ -31,6 +31,14 @@ infographic:
     - {icon: flag-banner, value: "18", label: "2022 में कांग्रेस की सीटें"}
     - {icon: calendar-blank, value: "2027", label: "पंजाब का अगला विधानसभा चुनाव"}
     - {icon: shield-warning, value: "नशा", label: "मान सरकार पर राहुल गांधी का मुख्य आरोप"}
+  chart:
+    type: columns
+    title: "2022 में पंजाब विधानसभा की सीटें"
+    highlight: 1
+    items:
+    - {label: "आप", value: 92, display: "92"}
+    - {label: "कांग्रेस", value: 18, display: "18"}
+    - {label: "अन्य", value: 7, display: "7"}
   source: "इंसाफ़ रैली, संगरूर, 4 नवंबर 2026; 2022 विधानसभा नतीजे"
 related: [rahul-gandhi-insaaf-rally-sangrur-phaguwala-punjab-campaign, three-rebel-aap-mlas-join-bjp-punjab-kunwar-vijay-pratap]
 seo:

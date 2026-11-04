@@ -76,10 +76,6 @@ Eyewear retailer Lenskart **more than doubled its quarterly profit** on Wednesda
 
 Lenskart posted consolidated profit after tax of ₹232.45 crore for the July to September quarter, up 124.7% from ₹103.45 crore a year earlier. Revenue from operations **climbed 35.7% to ₹2,845.03 crore**, from ₹2,096.14 crore. Profit before tax more than doubled to ₹304.48 crore.
 
-```photo
-{"n":1,"subject":"Lenskart store","caption":"A Lenskart store; the eyewear chain's September quarter revenue rose to ₹2,845 crore.","alt":"A Lenskart eyewear store"}
-```
-
 The company also grew on the previous quarter, when it earned ₹228.43 crore on revenue of ₹2,714.18 crore. For the first half of the year, its profit stood at **₹460.88 crore, against ₹164.62 crore**. The board approved the allotment of 4,60,934 shares under its employee stock option scheme, and the company moved its registered office to Delhi's Aerocity from 4 November.
 
 ## Jyothy Labs squeezed
@@ -87,10 +83,6 @@ The company also grew on the previous quarter, when it earned ₹228.43 crore on
 Jyothy Labs, the maker of Ujala, had a much harder quarter. Its consolidated net profit **fell 87.9% to ₹10.6 crore** from ₹87.8 crore, even though revenue rose 3.3% to ₹760 crore. Operating profit (EBITDA) dropped 83.9% to ₹19 crore, and the margin **shrank to 2.5% from 16%**.
 
 Leaving out its Pril and Fa businesses, revenue grew 12.4% and volumes 8.1%, the company said. It did not explain the fall in profit in its filing.
-
-```photo
-{"n":2,"subject":"Bombay Stock Exchange","caption":"The BSE, where Jyothy Labs shares closed at ₹189 on Wednesday.","alt":"The Bombay Stock Exchange building in Mumbai"}
-```
 
 The board approved a **buyback of up to 68.37 lakh shares** at ₹215 each, about 1.86% of its equity, through the tender route. The ₹147 crore offer is priced about 15% above the market. Promoters will not take part, and a committee will set the record date.
 
