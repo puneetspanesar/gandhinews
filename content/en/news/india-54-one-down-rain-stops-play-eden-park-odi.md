@@ -64,10 +64,6 @@ Rain has put India's chase on hold at Eden Park. Chasing 186 in the first ODI ag
 
 India had moved on briskly from 41 for 1, keeping well ahead of the asking rate. At the break they needed **132 more runs from 39.1 overs**, a little over three an over, with nine wickets in hand.
 
-```photo
-{"n":1,"subject":"Eden Park","caption":"Eden Park in Auckland, where rain stopped India's chase in the first ODI.","alt":"Eden Park cricket ground, Auckland"}
-```
-
 ## What the rain could mean
 
 The weather was a worry from the start. Light rain had already **delayed the toss by about 20 minutes**, and Gill chose to bowl partly so India would know their target if overs were cut. That call looks sound now.

@@ -34,6 +34,11 @@ infographic:
     - {icon: baby, value: "Under 14", label: "children barred from all work by the 2016 amendment"}
     - {icon: buildings, value: "Special cell", label: "to be set up by the Women and Child Development Secretary"}
     - {icon: clipboard-text, value: "States", label: "to get instructions through their Chief Secretaries"}
+  timeline:
+    - {date: "1986", text: "Child Labour Act bars children only from listed hazardous jobs"}
+    - {date: "2009", text: "Health for Millions challenges Section 3 of the law"}
+    - {date: "2016", text: "Amendment bans work by children under 14 in all occupations"}
+    - {date: "Nov 4", text: "Order made public: petition closed, special cell ordered"}
   source: "Supreme Court order in Health for Millions v Union of India, reported November 4, 2026"
 related: []
 seo:
@@ -61,18 +66,10 @@ The Supreme Court has directed the Centre to **create a special cell to monitor 
 
 A bench of Justices SVN Bhatti and NV Anjaria asked the Secretary of the Ministry of Women and Child Development to set up the cell to watch over the Child and Adolescent Labour (Prohibition and Regulation) Act and ensure it is strictly followed. The Centre must also **issue instructions to enforcement agencies through the Chief Secretaries** of the states.
 
-```photo
-{"n":1,"subject":"Prashant Bhushan","caption":"Advocate Prashant Bhushan appeared for Health for Millions, the petitioner in the case filed in 2009.","alt":"Advocate Prashant Bhushan"}
-```
-
 The order closes a writ petition by Health for Millions, filed in 2009, which challenged the 1986 law and in particular its Section 3. At the time that section barred children only from listed hazardous occupations and processes.
 
 Parliament changed that in 2016. The amendment brought a **blanket ban on employing children under 14** in all occupations and processes, with limited exceptions. Children may still help in a non-hazardous family enterprise after school hours or during vacations, subject to the conditions in the law.
 
 The bench held that the petition's original prayers no longer survived after the change in the law. What remained, it said, was "giving complete and full effect to the changes introduced by way of amendment Act No. 35 of 2016".
-
-```photo
-{"n":2,"subject":"Aishwarya Bhati","caption":"Additional Solicitor General Aishwarya Bhati appeared for the Union government.","alt":"Additional Solicitor General Aishwarya Bhati"}
-```
 
 Additional Solicitor General Aishwarya Bhati appeared for the Union government. The court did not set a deadline for the cell to be formed in the order as reported, nor did it list the matter for a further hearing.

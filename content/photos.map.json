@@ -27218,5 +27218,129 @@
     "src800": "/photos/i-us-midterms-hamilton-flips-kansas-senate-marshall-hi-640.jpg"
    }
   }
+ },
+ "india-54-one-down-rain-stops-play-eden-park-odi": {
+  "id": "i-india-54-one-down-rain-stops-play-eden-park-odi",
+  "src": "/photos/i-india-54-one-down-rain-stops-play-eden-park-odi-en-3x2-1280.jpg",
+  "src800": "/photos/i-india-54-one-down-rain-stops-play-eden-park-odi-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Rain halts India at 54 for 1",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: बारिश से भारत 1 विकेट पर 54 पर रुका",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-india-54-one-down-rain-stops-play-eden-park-odi-hi-3x2-1280.jpg",
+    "src800": "/photos/i-india-54-one-down-rain-stops-play-eden-park-odi-hi-3x2-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-india-54-one-down-rain-stops-play-eden-park-odi-en-1280.jpg",
+    "src800": "/photos/i-india-54-one-down-rain-stops-play-eden-park-odi-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-india-54-one-down-rain-stops-play-eden-park-odi-hi-1280.jpg",
+    "src800": "/photos/i-india-54-one-down-rain-stops-play-eden-park-odi-hi-640.jpg"
+   }
+  }
+ },
+ "supreme-court-child-labour-special-cell-centre": {
+  "id": "i-supreme-court-child-labour-special-cell-centre",
+  "src": "/photos/i-supreme-court-child-labour-special-cell-centre-en-3x2-1280.jpg",
+  "src800": "/photos/i-supreme-court-child-labour-special-cell-centre-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Centre told to set up a cell to enforce the ban",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: रोक लागू कराने के लिए केंद्र बनाए प्रकोष्ठ",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-supreme-court-child-labour-special-cell-centre-hi-3x2-1280.jpg",
+    "src800": "/photos/i-supreme-court-child-labour-special-cell-centre-hi-3x2-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-supreme-court-child-labour-special-cell-centre-en-1280.jpg",
+    "src800": "/photos/i-supreme-court-child-labour-special-cell-centre-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-supreme-court-child-labour-special-cell-centre-hi-1280.jpg",
+    "src800": "/photos/i-supreme-court-child-labour-special-cell-centre-hi-640.jpg"
+   }
+  }
+ },
+ "supreme-court-delhi-sir-form-6-ec-clarification-cji-mention": {
+  "id": "i-supreme-court-delhi-sir-form-6-ec-clarification-cji-mention",
+  "src": "/photos/i-supreme-court-delhi-sir-form-6-ec-clarification-cji-mention-en-3x2-1280.jpg",
+  "src800": "/photos/i-supreme-court-delhi-sir-form-6-ec-clarification-cji-mention-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Petitioners object to EC's Form 6 route for deleted voters",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: कटे मतदाताओं के लिए फॉर्म 6 पर याचिकाकर्ताओं की आपत्ति",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-supreme-court-delhi-sir-form-6-ec-clarification-cji-mention-hi-3x2-1280.jpg",
+    "src800": "/photos/i-supreme-court-delhi-sir-form-6-ec-clarification-cji-mention-hi-3x2-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-supreme-court-delhi-sir-form-6-ec-clarification-cji-mention-en-1280.jpg",
+    "src800": "/photos/i-supreme-court-delhi-sir-form-6-ec-clarification-cji-mention-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-supreme-court-delhi-sir-form-6-ec-clarification-cji-mention-hi-1280.jpg",
+    "src800": "/photos/i-supreme-court-delhi-sir-form-6-ec-clarification-cji-mention-hi-640.jpg"
+   }
+  }
+ },
+ "us-midterms-democrats-oust-spartz-van-orden-steil-house-jeffries": {
+  "id": "i-us-midterms-democrats-oust-spartz-van-orden-steil-house-jeffries",
+  "src": "/photos/i-us-midterms-democrats-oust-spartz-van-orden-steil-house-jeffries-en-3x2-1280.jpg",
+  "src800": "/photos/i-us-midterms-democrats-oust-spartz-van-orden-steil-house-jeffries-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Republican incumbents fall as Democrats widen House win",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: रिपब्लिकन सांसद हारे, सदन में डेमोक्रेट्स की बढ़त बढ़ी",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-us-midterms-democrats-oust-spartz-van-orden-steil-house-jeffries-hi-3x2-1280.jpg",
+    "src800": "/photos/i-us-midterms-democrats-oust-spartz-van-orden-steil-house-jeffries-hi-3x2-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-us-midterms-democrats-oust-spartz-van-orden-steil-house-jeffries-en-1280.jpg",
+    "src800": "/photos/i-us-midterms-democrats-oust-spartz-van-orden-steil-house-jeffries-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-us-midterms-democrats-oust-spartz-van-orden-steil-house-jeffries-hi-1280.jpg",
+    "src800": "/photos/i-us-midterms-democrats-oust-spartz-van-orden-steil-house-jeffries-hi-640.jpg"
+   }
+  }
  }
 }

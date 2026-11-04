@@ -69,10 +69,6 @@ Advocate Prashant Bhushan, mentioning the matter for petitioners Anjali Bhardwaj
 
 The Chief Justice said the matter was pending before the court and that **people need not be apprehensive**. He asked the petitioners to file an application setting out the Commission's clarification and indicated that the court could ask the Commission to extend the deadline further if needed. The issue will be heard on 19 November.
 
-```photo
-{"n":1,"subject":"Supreme Court of India","caption":"The Supreme Court, where the Delhi SIR petitions are pending and will be heard again on 19 November.","alt":"The Supreme Court of India building in New Delhi"}
-```
-
 ## What the Commission said
 
 In its 3 November clarification to Chief Electoral Officers of all states and Union Territories, the Commission said electors missing from the draft roll **may submit Form 6** for inclusion in the final roll even if they were enrolled before. Such a declaration is "not, by itself, false merely because the elector was previously enrolled," it said, and no action will be taken under Section 31 of the Representation of the People Act, 1950, on that ground alone, so long as the person is not enrolled elsewhere.
@@ -82,9 +78,5 @@ The Commission relied on the Delhi High Court's 14 October ruling in Nilotpal Da
 ## How many voters
 
 About **47.56 lakh Delhi electors** were left out of the draft roll under the absent, shifted, dead or duplicate category. The petitioners say about 31.59 lakh of them were marked permanently shifted and 11.73 lakh absent or untraceable.
-
-```photo
-{"n":2,"subject":"Nirvachan Sadan","caption":"Nirvachan Sadan, the Election Commission's headquarters in New Delhi, which issued the 3 November clarification on Form 6.","alt":"Nirvachan Sadan, headquarters of the Election Commission of India"}
-```
 
 In a letter to the Chief Election Commissioner on Tuesday, the petitioners asked that Form 8 and enumeration forms be accepted from these voters without insisting on Form 6, that the list of deleted names be made available at booth or block level, and that the process be publicised in Hindi and other languages.

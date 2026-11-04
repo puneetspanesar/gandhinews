@@ -5,7 +5,7 @@ type: news
 section: world
 format_label: "World / US midterms"
 topics: []
-title: "Democrats oust Van Orden, Steil and Spartz as House gains grow; Jeffries says 'America is back'"
+title: "Democrats oust Steil, Van Orden and Max Miller as House gains grow; Jeffries says 'America is back'"
 standfirst: "Overnight counting in the US kept adding to the Democratic win in the House, with Republican incumbents falling in Wisconsin, Ohio, Indiana and California. Alaska's Senate race has still not been called."
 published: 2026-11-04T12:50:00+05:30
 location: Washington, DC
@@ -63,19 +63,11 @@ Democrats kept adding to their House win through the night in the US, **defeatin
 
 In Wisconsin, two Republicans fell within minutes of each other. Democrat Mitchell Berman **defeated Representative Bryan Steil** in the state's 1st District, and Rebecca Cooke ousted Representative Derrick Van Orden in the 3rd, CBS News projected shortly after 11:30 am India time.
 
-```photo
-{"n":1,"subject":"Bryan Steil","caption":"Republican Representative Bryan Steil, who lost Wisconsin's 1st District to Democrat Mitchell Berman.","alt":"Bryan Steil"}
-```
-
 ## More seats change hands
 
 In Ohio, Democrat Brian Poindexter beat Representative Max Miller in the 7th District. In Texas, Democrat Johnny Garcia won the 35th District against Republican Carlos De La Cruz. Later in the morning, Indiana Representative **Victoria Spartz lost to Democrat J.D. Ford** in the 5th District, and in California Democrat Mike McGuire defeated Representative James Gallagher in the 1st.
 
 Going into the vote, Republicans held 218 House seats, with one independent who caucuses with them, against 214 for the Democrats, with two seats vacant.
-
-```photo
-{"n":2,"subject":"Victoria Spartz","caption":"Indiana Republican Victoria Spartz, defeated by Democrat J.D. Ford in the 5th District.","alt":"Victoria Spartz"}
-```
 
 ## 'A change election'
 
