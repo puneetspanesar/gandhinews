@@ -173,6 +173,32 @@ h1{{text-wrap:balance;font-weight:700;font-size:{hsize}px;line-height:{1.22 if h
 </div></body></html>"""
 
 
+def thumb(g, lang, W, H):
+    """Card and small-slot version: one number or the headline, big enough to read at 200px wide."""
+    hi = lang == 'hi'
+    fam = "ND, GS, sans-serif" if hi else "GS, ND, sans-serif"
+    up = '' if hi else 'text-transform:uppercase;'
+    st = (g.get('thumb') or (g.get('stats') or [None])[0]) if not g.get('thumb_headline') else None
+    motif = g.get('motif') or (st or {}).get('icon') or 'newspaper'
+    if st:
+        core = f'<div class="v">{e(st.get("value"))}</div><div class="l">{e(st.get("label"))}</div>'
+    else:
+        core = f'<div class="h">{e(g.get("headline"))}</div>'
+    return f"""<!doctype html><html><head><meta charset="utf-8"><style>{FONTS}
+*{{box-sizing:border-box;margin:0;padding:0}}
+body{{width:{W}px;height:{H}px;background:{INK};color:#fff;font-family:{fam};overflow:hidden;position:relative}}
+.ic{{position:absolute;right:70px;top:50%;transform:translateY(-50%)}}
+.tx{{position:absolute;left:84px;right:520px;top:50%;transform:translateY(-50%)}}
+.k{{display:inline-block;background:{RED};font-weight:700;font-size:{40 if hi else 42}px;padding:10px 22px;{up}line-height:1.15}}
+.v{{font-weight:700;font-size:{118 if len(str((st or {}).get('value', ''))) < 9 else 96}px;line-height:1;margin-top:34px;letter-spacing:-.01em;white-space:nowrap}}
+.l{{font-weight:500;font-size:46px;line-height:1.22;margin-top:22px;text-wrap:balance}}
+.h{{font-weight:700;font-size:{70 if hi else 74}px;line-height:{1.2 if hi else 1.04};margin-top:30px;{up}text-wrap:balance}}
+.sl{{position:absolute;left:84px;bottom:56px;width:84px;height:84px;outline:4px solid #fff}}
+.sl svg{{width:84px;height:84px;display:block}}
+</style></head><body><div class="ic">{ico(motif, 380)}</div>
+<div class="tx"><span class="k">{e(g.get('kicker'))}</span>{core}</div></body></html>"""
+
+
 def render(jobs):
     from playwright.sync_api import sync_playwright
     with sync_playwright() as p:
@@ -201,13 +227,15 @@ def main():
         jobs, base = [], {}
         for lang, g in gs.items():
             jobs.append((page(g, lang, 1280, 720), 1280, 720, f'{outdir}i-{sid}-{lang}'))
-            jobs.append((page(g, lang, 1280, 853), 1280, 853, f'{outdir}i-{sid}-{lang}-3x2'))
+            jobs.append((thumb(g, lang, 1280, 853), 1280, 853, f'{outdir}i-{sid}-{lang}-3x2'))
+            jobs.append((thumb(g, lang, 1280, 720), 1280, 720, f'{outdir}i-{sid}-{lang}-t'))
         render(jobs)
         if preview: print('preview:', f'{outdir}i-{sid}-*'); continue
         u = lambda lang, s='': (f'/photos/i-{sid}-{lang}{s}-1280.jpg', f'/photos/i-{sid}-{lang}{s}-640.jpg')
         M[sid] = {'id': f'i-{sid}', 'src': u('en', '-3x2')[0], 'src800': u('en', '-3x2')[1], 'width': 1280, 'height': 853,
                   'credit': 'Graphic: Gandhi News', 'licence': '', 'graphic': True, 'alt': f"Gandhi News graphic: {gs['en'].get('headline', '')}", 'alt_hi': f"गांधी न्यूज़ ग्राफ़िक: {gs['hi'].get('headline', '')}",
                   'page': None, 'byLang': {'hi': {'src': u('hi', '-3x2')[0], 'src800': u('hi', '-3x2')[1]}},
+                  'thumb': {'en': dict(zip(('src', 'src800'), u('en', '-t'))), 'hi': dict(zip(('src', 'src800'), u('hi', '-t')))},
                   'cover': {'width': 1280, 'height': 720, 'en': dict(zip(('src', 'src800'), u('en'))), 'hi': dict(zip(('src', 'src800'), u('hi')))}}
         print(f'{sid}: infographic cover registered')
     if not preview:

@@ -20,7 +20,9 @@ interface Props {
 const { id, alt = '', size = 'sm', lang = 'en', class: cls = '', eager = false, showCredit = false, cover = false } = Astro.props;
 const base: any = id ? (PHOTOS as Record<string, any>)[id] : null;
 // A cover replaces the photo in 16:9 slots; it carries its own credit line through the base entry.
-const cv: any = cover && base?.cover ? (base.cover[lang] ?? base.cover.en) : null;
+// Infographics: the detailed graphic only in large slots; small 16:9 slots get the readable thumb version.
+const th: any = cover && base?.graphic && base?.thumb && size !== 'lg' ? (base.thumb[lang] ?? base.thumb.en) : null;
+const cv: any = th ?? (cover && base?.cover ? (base.cover[lang] ?? base.cover.en) : null);
 // Infographics carry a Hindi version of the card image too (base.byLang.hi).
 const bl: any = !cv && base?.byLang?.[lang] ? { ...base, ...base.byLang[lang] } : null;
 const fetched: any = cv ? { ...base, src: cv.src, src800: cv.src800, width: base.cover.width, height: base.cover.height } : (bl ?? base);

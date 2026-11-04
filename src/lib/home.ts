@@ -209,6 +209,7 @@ export async function homeModel(lang: Lang) {
   const lead = {
     ...card(leadId),
     // Lead photo with a news strip over its lower part (lead.overlay). "photo": false hides it.
+    swapped: leadSwapped,
     photo: HOME.lead.photo !== false,
     overlay: HOME.lead.overlay && !leadSwapped ? { k: HOME.lead.overlay.kicker[lang], v: HOME.lead.overlay.value[lang], t: HOME.lead.overlay.text[lang] } : null,
     chart: chartFromBody(leadE, HOME.lead.chart ?? 1, lang),

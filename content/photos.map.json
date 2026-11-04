@@ -26069,6 +26069,16 @@
     "src800": "/photos/i-zydus-wellness-q2-revenue-73-per-cent-profit-shares-9-per-cent-hi-3x2-640.jpg"
    }
   },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-zydus-wellness-q2-revenue-73-per-cent-profit-shares-9-per-cent-en-t-1280.jpg",
+    "src800": "/photos/i-zydus-wellness-q2-revenue-73-per-cent-profit-shares-9-per-cent-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-zydus-wellness-q2-revenue-73-per-cent-profit-shares-9-per-cent-hi-t-1280.jpg",
+    "src800": "/photos/i-zydus-wellness-q2-revenue-73-per-cent-profit-shares-9-per-cent-hi-t-640.jpg"
+   }
+  },
   "cover": {
    "width": 1280,
    "height": 720,
@@ -26098,6 +26108,16 @@
    "hi": {
     "src": "/photos/i-goa-st-seat-reservation-explained-supreme-court-hi-3x2-1280.jpg",
     "src800": "/photos/i-goa-st-seat-reservation-explained-supreme-court-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-goa-st-seat-reservation-explained-supreme-court-en-t-1280.jpg",
+    "src800": "/photos/i-goa-st-seat-reservation-explained-supreme-court-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-goa-st-seat-reservation-explained-supreme-court-hi-t-1280.jpg",
+    "src800": "/photos/i-goa-st-seat-reservation-explained-supreme-court-hi-t-640.jpg"
    }
   },
   "cover": {
@@ -26131,6 +26151,16 @@
     "src800": "/photos/i-qeshm-island-explained-why-us-strike-hormuz-matters-india-hi-3x2-640.jpg"
    }
   },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-qeshm-island-explained-why-us-strike-hormuz-matters-india-en-t-1280.jpg",
+    "src800": "/photos/i-qeshm-island-explained-why-us-strike-hormuz-matters-india-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-qeshm-island-explained-why-us-strike-hormuz-matters-india-hi-t-1280.jpg",
+    "src800": "/photos/i-qeshm-island-explained-why-us-strike-hormuz-matters-india-hi-t-640.jpg"
+   }
+  },
   "cover": {
    "width": 1280,
    "height": 720,
@@ -26160,6 +26190,16 @@
    "hi": {
     "src": "/photos/i-urvil-patel-210-pradosh-paul-208-ranji-round-four-day-two-hi-3x2-1280.jpg",
     "src800": "/photos/i-urvil-patel-210-pradosh-paul-208-ranji-round-four-day-two-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-urvil-patel-210-pradosh-paul-208-ranji-round-four-day-two-en-t-1280.jpg",
+    "src800": "/photos/i-urvil-patel-210-pradosh-paul-208-ranji-round-four-day-two-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-urvil-patel-210-pradosh-paul-208-ranji-round-four-day-two-hi-t-1280.jpg",
+    "src800": "/photos/i-urvil-patel-210-pradosh-paul-208-ranji-round-four-day-two-hi-t-640.jpg"
    }
   },
   "cover": {
@@ -26265,6 +26305,16 @@
     "src800": "/photos/i-mcx-q2-profit-454-crore-revenue-doubles-hi-3x2-640.jpg"
    }
   },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-mcx-q2-profit-454-crore-revenue-doubles-en-t-1280.jpg",
+    "src800": "/photos/i-mcx-q2-profit-454-crore-revenue-doubles-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-mcx-q2-profit-454-crore-revenue-doubles-hi-t-1280.jpg",
+    "src800": "/photos/i-mcx-q2-profit-454-crore-revenue-doubles-hi-t-640.jpg"
+   }
+  },
   "cover": {
    "width": 1280,
    "height": 720,
@@ -26296,6 +26346,16 @@
     "src800": "/photos/i-sudhakar-dalela-arrives-kathmandu-india-ambassador-nepal-hi-3x2-640.jpg"
    }
   },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-sudhakar-dalela-arrives-kathmandu-india-ambassador-nepal-en-t-1280.jpg",
+    "src800": "/photos/i-sudhakar-dalela-arrives-kathmandu-india-ambassador-nepal-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-sudhakar-dalela-arrives-kathmandu-india-ambassador-nepal-hi-t-1280.jpg",
+    "src800": "/photos/i-sudhakar-dalela-arrives-kathmandu-india-ambassador-nepal-hi-t-640.jpg"
+   }
+  },
   "cover": {
    "width": 1280,
    "height": 720,
@@ -26310,35 +26370,16 @@
   }
  },
  "nse-q2-profit-23-per-cent-2578-crore-coal-exchange-stake": {
-  "id": "i-nse-q2-profit-23-per-cent-2578-crore-coal-exchange-stake",
-  "src": "/photos/i-nse-q2-profit-23-per-cent-2578-crore-coal-exchange-stake-en-3x2-1280.jpg",
-  "src800": "/photos/i-nse-q2-profit-23-per-cent-2578-crore-coal-exchange-stake-en-3x2-640.jpg",
+  "id": "v-nse-q2-profit-23-per-cent-2578-crore-coal-exchange-stake",
+  "src": "/photos/v-nse-q2-profit-23-per-cent-2578-crore-coal-exchange-stake-1280.jpg",
+  "src800": "/photos/v-nse-q2-profit-23-per-cent-2578-crore-coal-exchange-stake-640.jpg",
   "width": 1280,
-  "height": 853,
-  "credit": "Graphic: Gandhi News",
-  "licence": "",
-  "graphic": true,
-  "alt": "Gandhi News graphic: NSE profit up 23% in first listed quarter",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: लिस्टिंग के बाद पहली तिमाही में NSE का मुनाफा 23% बढ़ा",
-  "page": null,
-  "byLang": {
-   "hi": {
-    "src": "/photos/i-nse-q2-profit-23-per-cent-2578-crore-coal-exchange-stake-hi-3x2-1280.jpg",
-    "src800": "/photos/i-nse-q2-profit-23-per-cent-2578-crore-coal-exchange-stake-hi-3x2-640.jpg"
-   }
-  },
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/i-nse-q2-profit-23-per-cent-2578-crore-coal-exchange-stake-en-1280.jpg",
-    "src800": "/photos/i-nse-q2-profit-23-per-cent-2578-crore-coal-exchange-stake-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-nse-q2-profit-23-per-cent-2578-crore-coal-exchange-stake-hi-1280.jpg",
-    "src800": "/photos/i-nse-q2-profit-23-per-cent-2578-crore-coal-exchange-stake-hi-640.jpg"
-   }
-  }
+  "height": 960,
+  "credit": "Photos: World Economic Forum from Cologny, Switzerland / Wikimedia Commons; zadeus / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "Ashishkumar Chauhan, managing director and CEO of NSE (file photo)",
+  "alt_hi": "NSE के प्रबंध निदेशक और सीईओ आशीषकुमार चौहान (फ़ाइल फ़ोटो)",
+  "page": null
  },
  "ncp-devgiri-meeting-bhujbal-288-seats-sunetra-finance-shah": {
   "id": "i-ncp-devgiri-meeting-bhujbal-288-seats-sunetra-finance-shah",
@@ -26358,6 +26399,16 @@
     "src800": "/photos/i-ncp-devgiri-meeting-bhujbal-288-seats-sunetra-finance-shah-hi-3x2-640.jpg"
    }
   },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-ncp-devgiri-meeting-bhujbal-288-seats-sunetra-finance-shah-en-t-1280.jpg",
+    "src800": "/photos/i-ncp-devgiri-meeting-bhujbal-288-seats-sunetra-finance-shah-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-ncp-devgiri-meeting-bhujbal-288-seats-sunetra-finance-shah-hi-t-1280.jpg",
+    "src800": "/photos/i-ncp-devgiri-meeting-bhujbal-288-seats-sunetra-finance-shah-hi-t-640.jpg"
+   }
+  },
   "cover": {
    "width": 1280,
    "height": 720,
@@ -26372,35 +26423,16 @@
   }
  },
  "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip": {
-  "id": "i-qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip",
-  "src": "/photos/i-qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip-en-3x2-1280.jpg",
-  "src800": "/photos/i-qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip-en-3x2-640.jpg",
+  "id": "v-qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip",
+  "src": "/photos/v-qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip-1280.jpg",
+  "src800": "/photos/v-qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip-640.jpg",
   "width": 1280,
-  "height": 853,
-  "credit": "Graphic: Gandhi News",
-  "licence": "",
-  "graphic": true,
-  "alt": "Gandhi News graphic: India's top institutions lose ground in Asia",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: एशिया में भारत के शीर्ष संस्थान पिछड़े",
-  "page": null,
-  "byLang": {
-   "hi": {
-    "src": "/photos/i-qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip-hi-3x2-1280.jpg",
-    "src800": "/photos/i-qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip-hi-3x2-640.jpg"
-   }
-  },
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/i-qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip-en-1280.jpg",
-    "src800": "/photos/i-qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip-hi-1280.jpg",
-    "src800": "/photos/i-qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip-hi-640.jpg"
-   }
-  }
+  "height": 960,
+  "credit": "Photo: User:Tanksingh / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "The campus of IIT Delhi (file photo)",
+  "alt_hi": "आईआईटी दिल्ली का परिसर (फ़ाइल फ़ोटो)",
+  "page": null
  },
  "apple-app-store-18-plus-dating-ai-companion-apps": {
   "id": "i-apple-app-store-18-plus-dating-ai-companion-apps",
@@ -26418,6 +26450,16 @@
    "hi": {
     "src": "/photos/i-apple-app-store-18-plus-dating-ai-companion-apps-hi-3x2-1280.jpg",
     "src800": "/photos/i-apple-app-store-18-plus-dating-ai-companion-apps-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-apple-app-store-18-plus-dating-ai-companion-apps-en-t-1280.jpg",
+    "src800": "/photos/i-apple-app-store-18-plus-dating-ai-companion-apps-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-apple-app-store-18-plus-dating-ai-companion-apps-hi-t-1280.jpg",
+    "src800": "/photos/i-apple-app-store-18-plus-dating-ai-companion-apps-hi-t-640.jpg"
    }
   },
   "cover": {
@@ -26499,6 +26541,16 @@
     "src800": "/photos/i-qatar-iran-us-far-apart-36-hours-feedback-hormuz-hi-3x2-640.jpg"
    }
   },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-qatar-iran-us-far-apart-36-hours-feedback-hormuz-en-t-1280.jpg",
+    "src800": "/photos/i-qatar-iran-us-far-apart-36-hours-feedback-hormuz-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-qatar-iran-us-far-apart-36-hours-feedback-hormuz-hi-t-1280.jpg",
+    "src800": "/photos/i-qatar-iran-us-far-apart-36-hours-feedback-hormuz-hi-t-640.jpg"
+   }
+  },
   "cover": {
    "width": 1280,
    "height": 720,
@@ -26540,6 +26592,16 @@
    "hi": {
     "src": "/photos/i-us-midterms-voting-under-way-house-senate-57-million-early-hi-3x2-1280.jpg",
     "src800": "/photos/i-us-midterms-voting-under-way-house-senate-57-million-early-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-us-midterms-voting-under-way-house-senate-57-million-early-en-t-1280.jpg",
+    "src800": "/photos/i-us-midterms-voting-under-way-house-senate-57-million-early-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-us-midterms-voting-under-way-house-senate-57-million-early-hi-t-1280.jpg",
+    "src800": "/photos/i-us-midterms-voting-under-way-house-senate-57-million-early-hi-t-640.jpg"
    }
   },
   "cover": {
@@ -26609,6 +26671,16 @@
     "src800": "/photos/i-us-midterms-explained-congress-tariffs-what-it-means-for-india-hi-3x2-640.jpg"
    }
   },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-us-midterms-explained-congress-tariffs-what-it-means-for-india-en-t-1280.jpg",
+    "src800": "/photos/i-us-midterms-explained-congress-tariffs-what-it-means-for-india-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-us-midterms-explained-congress-tariffs-what-it-means-for-india-hi-t-1280.jpg",
+    "src800": "/photos/i-us-midterms-explained-congress-tariffs-what-it-means-for-india-hi-t-640.jpg"
+   }
+  },
   "cover": {
    "width": 1280,
    "height": 720,
@@ -26638,6 +26710,16 @@
    "hi": {
     "src": "/photos/i-qs-asia-slide-india-universities-must-open-to-the-world-hi-3x2-1280.jpg",
     "src800": "/photos/i-qs-asia-slide-india-universities-must-open-to-the-world-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-qs-asia-slide-india-universities-must-open-to-the-world-en-t-1280.jpg",
+    "src800": "/photos/i-qs-asia-slide-india-universities-must-open-to-the-world-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-qs-asia-slide-india-universities-must-open-to-the-world-hi-t-1280.jpg",
+    "src800": "/photos/i-qs-asia-slide-india-universities-must-open-to-the-world-hi-t-640.jpg"
    }
   },
   "cover": {
@@ -26774,6 +26856,16 @@
     "src800": "/photos/i-dewas-inspector-dilip-puri-accused-shot-leg-custody-hi-3x2-640.jpg"
    }
   },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-dewas-inspector-dilip-puri-accused-shot-leg-custody-en-t-1280.jpg",
+    "src800": "/photos/i-dewas-inspector-dilip-puri-accused-shot-leg-custody-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-dewas-inspector-dilip-puri-accused-shot-leg-custody-hi-t-1280.jpg",
+    "src800": "/photos/i-dewas-inspector-dilip-puri-accused-shot-leg-custody-hi-t-640.jpg"
+   }
+  },
   "cover": {
    "width": 1280,
    "height": 720,
@@ -26829,6 +26921,16 @@
     "src800": "/photos/i-us-midterms-bottoms-flips-georgia-governor-congress-undecided-hi-3x2-640.jpg"
    }
   },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-us-midterms-bottoms-flips-georgia-governor-congress-undecided-en-t-1280.jpg",
+    "src800": "/photos/i-us-midterms-bottoms-flips-georgia-governor-congress-undecided-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-us-midterms-bottoms-flips-georgia-governor-congress-undecided-hi-t-1280.jpg",
+    "src800": "/photos/i-us-midterms-bottoms-flips-georgia-governor-congress-undecided-hi-t-640.jpg"
+   }
+  },
   "cover": {
    "width": 1280,
    "height": 720,
@@ -26858,6 +26960,16 @@
    "hi": {
     "src": "/photos/i-india-elect-to-field-new-zealand-one-down-eden-park-first-odi-hi-3x2-1280.jpg",
     "src800": "/photos/i-india-elect-to-field-new-zealand-one-down-eden-park-first-odi-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-india-elect-to-field-new-zealand-one-down-eden-park-first-odi-en-t-1280.jpg",
+    "src800": "/photos/i-india-elect-to-field-new-zealand-one-down-eden-park-first-odi-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-india-elect-to-field-new-zealand-one-down-eden-park-first-odi-hi-t-1280.jpg",
+    "src800": "/photos/i-india-elect-to-field-new-zealand-one-down-eden-park-first-odi-hi-t-640.jpg"
    }
   },
   "cover": {
@@ -26891,6 +27003,16 @@
     "src800": "/photos/i-rahul-gandhi-insaaf-rally-sangrur-phaguwala-punjab-campaign-hi-3x2-640.jpg"
    }
   },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-rahul-gandhi-insaaf-rally-sangrur-phaguwala-punjab-campaign-en-t-1280.jpg",
+    "src800": "/photos/i-rahul-gandhi-insaaf-rally-sangrur-phaguwala-punjab-campaign-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-rahul-gandhi-insaaf-rally-sangrur-phaguwala-punjab-campaign-hi-t-1280.jpg",
+    "src800": "/photos/i-rahul-gandhi-insaaf-rally-sangrur-phaguwala-punjab-campaign-hi-t-640.jpg"
+   }
+  },
   "cover": {
    "width": 1280,
    "height": 720,
@@ -26920,6 +27042,16 @@
    "hi": {
     "src": "/photos/i-nitin-nabin-gorakhpur-loktantra-bachao-padyatra-yogi-hi-3x2-1280.jpg",
     "src800": "/photos/i-nitin-nabin-gorakhpur-loktantra-bachao-padyatra-yogi-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-nitin-nabin-gorakhpur-loktantra-bachao-padyatra-yogi-en-t-1280.jpg",
+    "src800": "/photos/i-nitin-nabin-gorakhpur-loktantra-bachao-padyatra-yogi-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-nitin-nabin-gorakhpur-loktantra-bachao-padyatra-yogi-hi-t-1280.jpg",
+    "src800": "/photos/i-nitin-nabin-gorakhpur-loktantra-bachao-padyatra-yogi-hi-t-640.jpg"
    }
   },
   "cover": {
@@ -26977,6 +27109,16 @@
     "src800": "/photos/i-brar-latham-kohli-catch-new-zealand-124-seven-down-eden-park-odi-hi-3x2-640.jpg"
    }
   },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-brar-latham-kohli-catch-new-zealand-124-seven-down-eden-park-odi-en-t-1280.jpg",
+    "src800": "/photos/i-brar-latham-kohli-catch-new-zealand-124-seven-down-eden-park-odi-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-brar-latham-kohli-catch-new-zealand-124-seven-down-eden-park-odi-hi-t-1280.jpg",
+    "src800": "/photos/i-brar-latham-kohli-catch-new-zealand-124-seven-down-eden-park-odi-hi-t-640.jpg"
+   }
+  },
   "cover": {
    "width": 1280,
    "height": 720,
@@ -27008,6 +27150,16 @@
     "src800": "/photos/i-jitin-prasada-warsaw-wb-group-creotech-india-poland-ties-hi-3x2-640.jpg"
    }
   },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-jitin-prasada-warsaw-wb-group-creotech-india-poland-ties-en-t-1280.jpg",
+    "src800": "/photos/i-jitin-prasada-warsaw-wb-group-creotech-india-poland-ties-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-jitin-prasada-warsaw-wb-group-creotech-india-poland-ties-hi-t-1280.jpg",
+    "src800": "/photos/i-jitin-prasada-warsaw-wb-group-creotech-india-poland-ties-hi-t-640.jpg"
+   }
+  },
   "cover": {
    "width": 1280,
    "height": 720,
@@ -27020,18 +27172,6 @@
     "src800": "/photos/i-jitin-prasada-warsaw-wb-group-creotech-india-poland-ties-hi-640.jpg"
    }
   }
- },
- "us-midterms-democrats-win-senate-talarico-brown-flip": {
-  "id": "v-us-midterms-democrats-win-senate-talarico-brown-flip",
-  "src": "/photos/v-us-midterms-democrats-win-senate-talarico-brown-flip-1280.jpg",
-  "src800": "/photos/v-us-midterms-democrats-win-senate-talarico-brown-flip-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photos: US Congress / Wikimedia Commons; The White House from Washington, DC / Wikimedia Commons",
-  "licence": "Public domain",
-  "alt": "Senate Democratic leader Chuck Schumer and President Donald Trump (file photo)",
-  "alt_hi": "सीनेट में डेमोक्रेटिक नेता चक शूमर और राष्ट्रपति डोनाल्ड ट्रंप (फ़ाइल फ़ोटो)",
-  "page": null
  },
  "pawan-khera-modi-parliament-press-conference-debate-dare": {
   "id": "i-pawan-khera-modi-parliament-press-conference-debate-dare",
@@ -27049,6 +27189,16 @@
    "hi": {
     "src": "/photos/i-pawan-khera-modi-parliament-press-conference-debate-dare-hi-3x2-1280.jpg",
     "src800": "/photos/i-pawan-khera-modi-parliament-press-conference-debate-dare-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-pawan-khera-modi-parliament-press-conference-debate-dare-en-t-1280.jpg",
+    "src800": "/photos/i-pawan-khera-modi-parliament-press-conference-debate-dare-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-pawan-khera-modi-parliament-press-conference-debate-dare-hi-t-1280.jpg",
+    "src800": "/photos/i-pawan-khera-modi-parliament-press-conference-debate-dare-hi-t-640.jpg"
    }
   },
   "cover": {
@@ -27082,6 +27232,16 @@
     "src800": "/photos/i-rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-eden-park-hi-3x2-640.jpg"
    }
   },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-eden-park-en-t-1280.jpg",
+    "src800": "/photos/i-rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-eden-park-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-eden-park-hi-t-1280.jpg",
+    "src800": "/photos/i-rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-eden-park-hi-t-640.jpg"
+   }
+  },
   "cover": {
    "width": 1280,
    "height": 720,
@@ -27113,6 +27273,16 @@
     "src800": "/photos/i-us-midterms-turek-flips-iowa-senate-hinson-hi-3x2-640.jpg"
    }
   },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-us-midterms-turek-flips-iowa-senate-hinson-en-t-1280.jpg",
+    "src800": "/photos/i-us-midterms-turek-flips-iowa-senate-hinson-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-us-midterms-turek-flips-iowa-senate-hinson-hi-t-1280.jpg",
+    "src800": "/photos/i-us-midterms-turek-flips-iowa-senate-hinson-hi-t-640.jpg"
+   }
+  },
   "cover": {
    "width": 1280,
    "height": 720,
@@ -27127,35 +27297,16 @@
   }
  },
  "us-midterms-collins-concedes-troy-jackson-maine-senate-flip": {
-  "id": "i-us-midterms-collins-concedes-troy-jackson-maine-senate-flip",
-  "src": "/photos/i-us-midterms-collins-concedes-troy-jackson-maine-senate-flip-en-3x2-1280.jpg",
-  "src800": "/photos/i-us-midterms-collins-concedes-troy-jackson-maine-senate-flip-en-3x2-640.jpg",
+  "id": "v-us-midterms-collins-concedes-troy-jackson-maine-senate-flip",
+  "src": "/photos/v-us-midterms-collins-concedes-troy-jackson-maine-senate-flip-1280.jpg",
+  "src800": "/photos/v-us-midterms-collins-concedes-troy-jackson-maine-senate-flip-640.jpg",
   "width": 1280,
-  "height": 853,
-  "credit": "Graphic: Gandhi News",
-  "licence": "",
-  "graphic": true,
-  "alt": "Gandhi News graphic: Troy Jackson unseats Susan Collins",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: ट्रॉय जैक्सन ने सूज़न कॉलिन्स को हराया",
-  "page": null,
-  "byLang": {
-   "hi": {
-    "src": "/photos/i-us-midterms-collins-concedes-troy-jackson-maine-senate-flip-hi-3x2-1280.jpg",
-    "src800": "/photos/i-us-midterms-collins-concedes-troy-jackson-maine-senate-flip-hi-3x2-640.jpg"
-   }
-  },
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/i-us-midterms-collins-concedes-troy-jackson-maine-senate-flip-en-1280.jpg",
-    "src800": "/photos/i-us-midterms-collins-concedes-troy-jackson-maine-senate-flip-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-us-midterms-collins-concedes-troy-jackson-maine-senate-flip-hi-1280.jpg",
-    "src800": "/photos/i-us-midterms-collins-concedes-troy-jackson-maine-senate-flip-hi-640.jpg"
-   }
-  }
+  "height": 960,
+  "credit": "Photos: ArenLeBrun / Wikimedia Commons; Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons",
+  "licence": "CC0, CC BY-SA 2.0",
+  "alt": "Maine Democrat Troy Jackson and Republican Senator Susan Collins (file photo)",
+  "alt_hi": "मेन के डेमोक्रेट ट्रॉय जैक्सन और रिपब्लिकन सीनेटर सूज़न कॉलिन्स (फ़ाइल फ़ोटो)",
+  "page": null
  },
  "india-41-one-down-kohli-chase-186-eden-park-odi": {
   "id": "i-india-41-one-down-kohli-chase-186-eden-park-odi",
@@ -27173,6 +27324,16 @@
    "hi": {
     "src": "/photos/i-india-41-one-down-kohli-chase-186-eden-park-odi-hi-3x2-1280.jpg",
     "src800": "/photos/i-india-41-one-down-kohli-chase-186-eden-park-odi-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-india-41-one-down-kohli-chase-186-eden-park-odi-en-t-1280.jpg",
+    "src800": "/photos/i-india-41-one-down-kohli-chase-186-eden-park-odi-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-india-41-one-down-kohli-chase-186-eden-park-odi-hi-t-1280.jpg",
+    "src800": "/photos/i-india-41-one-down-kohli-chase-186-eden-park-odi-hi-t-640.jpg"
    }
   },
   "cover": {
@@ -27206,6 +27367,16 @@
     "src800": "/photos/i-us-midterms-hamilton-flips-kansas-senate-marshall-hi-3x2-640.jpg"
    }
   },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-us-midterms-hamilton-flips-kansas-senate-marshall-en-t-1280.jpg",
+    "src800": "/photos/i-us-midterms-hamilton-flips-kansas-senate-marshall-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-us-midterms-hamilton-flips-kansas-senate-marshall-hi-t-1280.jpg",
+    "src800": "/photos/i-us-midterms-hamilton-flips-kansas-senate-marshall-hi-t-640.jpg"
+   }
+  },
   "cover": {
    "width": 1280,
    "height": 720,
@@ -27235,6 +27406,16 @@
    "hi": {
     "src": "/photos/i-india-54-one-down-rain-stops-play-eden-park-odi-hi-3x2-1280.jpg",
     "src800": "/photos/i-india-54-one-down-rain-stops-play-eden-park-odi-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-india-54-one-down-rain-stops-play-eden-park-odi-en-t-1280.jpg",
+    "src800": "/photos/i-india-54-one-down-rain-stops-play-eden-park-odi-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-india-54-one-down-rain-stops-play-eden-park-odi-hi-t-1280.jpg",
+    "src800": "/photos/i-india-54-one-down-rain-stops-play-eden-park-odi-hi-t-640.jpg"
    }
   },
   "cover": {
@@ -27268,6 +27449,16 @@
     "src800": "/photos/i-supreme-court-child-labour-special-cell-centre-hi-3x2-640.jpg"
    }
   },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-supreme-court-child-labour-special-cell-centre-en-t-1280.jpg",
+    "src800": "/photos/i-supreme-court-child-labour-special-cell-centre-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-supreme-court-child-labour-special-cell-centre-hi-t-1280.jpg",
+    "src800": "/photos/i-supreme-court-child-labour-special-cell-centre-hi-t-640.jpg"
+   }
+  },
   "cover": {
    "width": 1280,
    "height": 720,
@@ -27297,6 +27488,16 @@
    "hi": {
     "src": "/photos/i-supreme-court-delhi-sir-form-6-ec-clarification-cji-mention-hi-3x2-1280.jpg",
     "src800": "/photos/i-supreme-court-delhi-sir-form-6-ec-clarification-cji-mention-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-supreme-court-delhi-sir-form-6-ec-clarification-cji-mention-en-t-1280.jpg",
+    "src800": "/photos/i-supreme-court-delhi-sir-form-6-ec-clarification-cji-mention-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-supreme-court-delhi-sir-form-6-ec-clarification-cji-mention-hi-t-1280.jpg",
+    "src800": "/photos/i-supreme-court-delhi-sir-form-6-ec-clarification-cji-mention-hi-t-640.jpg"
    }
   },
   "cover": {
@@ -27330,6 +27531,16 @@
     "src800": "/photos/i-us-midterms-democrats-oust-spartz-van-orden-steil-house-jeffries-hi-3x2-640.jpg"
    }
   },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-us-midterms-democrats-oust-spartz-van-orden-steil-house-jeffries-en-t-1280.jpg",
+    "src800": "/photos/i-us-midterms-democrats-oust-spartz-van-orden-steil-house-jeffries-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-us-midterms-democrats-oust-spartz-van-orden-steil-house-jeffries-hi-t-1280.jpg",
+    "src800": "/photos/i-us-midterms-democrats-oust-spartz-van-orden-steil-house-jeffries-hi-t-640.jpg"
+   }
+  },
   "cover": {
    "width": 1280,
    "height": 720,
@@ -27361,6 +27572,16 @@
     "src800": "/photos/i-supreme-court-two-child-norm-javed-larger-bench-hi-3x2-640.jpg"
    }
   },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-supreme-court-two-child-norm-javed-larger-bench-en-t-1280.jpg",
+    "src800": "/photos/i-supreme-court-two-child-norm-javed-larger-bench-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-supreme-court-two-child-norm-javed-larger-bench-hi-t-1280.jpg",
+    "src800": "/photos/i-supreme-court-two-child-norm-javed-larger-bench-hi-t-640.jpg"
+   }
+  },
   "cover": {
    "width": 1280,
    "height": 720,
@@ -27375,97 +27596,40 @@
   }
  },
  "india-65-one-down-32-over-chase-eden-park-odi": {
-  "id": "i-india-65-one-down-32-over-chase-eden-park-odi",
-  "src": "/photos/i-india-65-one-down-32-over-chase-eden-park-odi-en-3x2-1280.jpg",
-  "src800": "/photos/i-india-65-one-down-32-over-chase-eden-park-odi-en-3x2-640.jpg",
+  "id": "v-india-65-one-down-32-over-chase-eden-park-odi",
+  "src": "/photos/v-india-65-one-down-32-over-chase-eden-park-odi-1280.jpg",
+  "src800": "/photos/v-india-65-one-down-32-over-chase-eden-park-odi-640.jpg",
   "width": 1280,
-  "height": 853,
-  "credit": "Graphic: Gandhi News",
-  "licence": "",
-  "graphic": true,
-  "alt": "Gandhi News graphic: India need 78 from 19.4 overs",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: भारत को 19.4 ओवर में 78 रन चाहिए",
-  "page": null,
-  "byLang": {
-   "hi": {
-    "src": "/photos/i-india-65-one-down-32-over-chase-eden-park-odi-hi-3x2-1280.jpg",
-    "src800": "/photos/i-india-65-one-down-32-over-chase-eden-park-odi-hi-3x2-640.jpg"
-   }
-  },
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/i-india-65-one-down-32-over-chase-eden-park-odi-en-1280.jpg",
-    "src800": "/photos/i-india-65-one-down-32-over-chase-eden-park-odi-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-india-65-one-down-32-over-chase-eden-park-odi-hi-1280.jpg",
-    "src800": "/photos/i-india-65-one-down-32-over-chase-eden-park-odi-hi-640.jpg"
-   }
-  }
+  "height": 960,
+  "credit": "Photo: Anand Anil / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Virat Kohli, India batter (file photo)",
+  "alt_hi": "भारतीय बल्लेबाज़ विराट कोहली (फ़ाइल फ़ोटो)",
+  "page": null
  },
  "rbi-financial-markets-consultative-committee-rohit-jain": {
-  "id": "i-rbi-financial-markets-consultative-committee-rohit-jain",
-  "src": "/photos/i-rbi-financial-markets-consultative-committee-rohit-jain-en-3x2-1280.jpg",
-  "src800": "/photos/i-rbi-financial-markets-consultative-committee-rohit-jain-en-3x2-640.jpg",
+  "id": "v-rbi-financial-markets-consultative-committee-rohit-jain",
+  "src": "/photos/v-rbi-financial-markets-consultative-committee-rohit-jain-1280.jpg",
+  "src800": "/photos/v-rbi-financial-markets-consultative-committee-rohit-jain-640.jpg",
   "width": 1280,
-  "height": 853,
-  "credit": "Graphic: Gandhi News",
-  "licence": "",
-  "graphic": true,
-  "alt": "Gandhi News graphic: RBI forms a new panel for financial markets",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: वित्तीय बाज़ारों के लिए RBI की नई समिति",
-  "page": null,
-  "byLang": {
-   "hi": {
-    "src": "/photos/i-rbi-financial-markets-consultative-committee-rohit-jain-hi-3x2-1280.jpg",
-    "src800": "/photos/i-rbi-financial-markets-consultative-committee-rohit-jain-hi-3x2-640.jpg"
-   }
-  },
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/i-rbi-financial-markets-consultative-committee-rohit-jain-en-1280.jpg",
-    "src800": "/photos/i-rbi-financial-markets-consultative-committee-rohit-jain-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-rbi-financial-markets-consultative-committee-rohit-jain-hi-1280.jpg",
-    "src800": "/photos/i-rbi-financial-markets-consultative-committee-rohit-jain-hi-640.jpg"
-   }
-  }
+  "height": 960,
+  "credit": "Photo: Anurag Vijay 03 / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Reserve Bank of India headquarters in Mumbai (file photo)",
+  "alt_hi": "मुंबई में भारतीय रिज़र्व बैंक का मुख्यालय (फ़ाइल फ़ोटो)",
+  "page": null
  },
  "us-midterms-democrats-230-house-seats-economy-hegseth-blame": {
-  "id": "i-us-midterms-democrats-230-house-seats-economy-hegseth-blame",
-  "src": "/photos/i-us-midterms-democrats-230-house-seats-economy-hegseth-blame-en-3x2-1280.jpg",
-  "src800": "/photos/i-us-midterms-democrats-230-house-seats-economy-hegseth-blame-en-3x2-640.jpg",
+  "id": "v-us-midterms-democrats-230-house-seats-economy-hegseth-blame",
+  "src": "/photos/v-us-midterms-democrats-230-house-seats-economy-hegseth-blame-1280.jpg",
+  "src800": "/photos/v-us-midterms-democrats-230-house-seats-economy-hegseth-blame-640.jpg",
   "width": 1280,
-  "height": 853,
-  "credit": "Graphic: Gandhi News",
-  "licence": "",
-  "graphic": true,
-  "alt": "Gandhi News graphic: Democrats on course for more than 230 House seats",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: प्रतिनिधि सभा में 230 से ज़्यादा सीटों की ओर डेमोक्रेट्स",
-  "page": null,
-  "byLang": {
-   "hi": {
-    "src": "/photos/i-us-midterms-democrats-230-house-seats-economy-hegseth-blame-hi-3x2-1280.jpg",
-    "src800": "/photos/i-us-midterms-democrats-230-house-seats-economy-hegseth-blame-hi-3x2-640.jpg"
-   }
-  },
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/i-us-midterms-democrats-230-house-seats-economy-hegseth-blame-en-1280.jpg",
-    "src800": "/photos/i-us-midterms-democrats-230-house-seats-economy-hegseth-blame-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-us-midterms-democrats-230-house-seats-economy-hegseth-blame-hi-1280.jpg",
-    "src800": "/photos/i-us-midterms-democrats-230-house-seats-economy-hegseth-blame-hi-640.jpg"
-   }
-  }
+  "height": 960,
+  "credit": "Photos: US Congress / Wikimedia Commons; Gage Skidmore / Wikimedia Commons",
+  "licence": "Public domain, CC BY-SA 3.0",
+  "alt": "House Democratic leader Hakeem Jeffries and US Defence Secretary Pete Hegseth (file photo)",
+  "alt_hi": "हाउस में डेमोक्रेटिक नेता हकीम जेफ्रीज़ और अमेरिकी रक्षा मंत्री पीट हेगसेथ (फ़ाइल फ़ोटो)",
+  "page": null
  },
  "india-beat-new-zealand-five-wickets-dls-eden-park-first-odi": {
   "id": "i-india-beat-new-zealand-five-wickets-dls-eden-park-first-odi",
@@ -27483,6 +27647,16 @@
    "hi": {
     "src": "/photos/i-india-beat-new-zealand-five-wickets-dls-eden-park-first-odi-hi-3x2-1280.jpg",
     "src800": "/photos/i-india-beat-new-zealand-five-wickets-dls-eden-park-first-odi-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-india-beat-new-zealand-five-wickets-dls-eden-park-first-odi-en-t-1280.jpg",
+    "src800": "/photos/i-india-beat-new-zealand-five-wickets-dls-eden-park-first-odi-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-india-beat-new-zealand-five-wickets-dls-eden-park-first-odi-hi-t-1280.jpg",
+    "src800": "/photos/i-india-beat-new-zealand-five-wickets-dls-eden-park-first-odi-hi-t-640.jpg"
    }
   },
   "cover": {
@@ -27516,6 +27690,16 @@
     "src800": "/photos/i-supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification-hi-3x2-640.jpg"
    }
   },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification-en-t-1280.jpg",
+    "src800": "/photos/i-supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification-hi-t-1280.jpg",
+    "src800": "/photos/i-supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification-hi-t-640.jpg"
+   }
+  },
   "cover": {
    "width": 1280,
    "height": 720,
@@ -27526,68 +27710,6 @@
    "hi": {
     "src": "/photos/i-supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification-hi-1280.jpg",
     "src800": "/photos/i-supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification-hi-640.jpg"
-   }
-  }
- },
- "sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4": {
-  "id": "i-sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4",
-  "src": "/photos/i-sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4-en-3x2-1280.jpg",
-  "src800": "/photos/i-sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4-en-3x2-640.jpg",
-  "width": 1280,
-  "height": 853,
-  "credit": "Graphic: Gandhi News",
-  "licence": "",
-  "graphic": true,
-  "alt": "Gandhi News graphic: Sensex extends its rally to a fifth day",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: सेंसेक्स की तेज़ी पांचवें दिन भी जारी",
-  "page": null,
-  "byLang": {
-   "hi": {
-    "src": "/photos/i-sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4-hi-3x2-1280.jpg",
-    "src800": "/photos/i-sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4-hi-3x2-640.jpg"
-   }
-  },
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/i-sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4-en-1280.jpg",
-    "src800": "/photos/i-sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4-hi-1280.jpg",
-    "src800": "/photos/i-sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4-hi-640.jpg"
-   }
-  }
- },
- "rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs": {
-  "id": "i-rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs",
-  "src": "/photos/i-rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs-en-3x2-1280.jpg",
-  "src800": "/photos/i-rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs-en-3x2-640.jpg",
-  "width": 1280,
-  "height": 853,
-  "credit": "Graphic: Gandhi News",
-  "licence": "",
-  "graphic": true,
-  "alt": "Gandhi News graphic: Rahul Gandhi takes on Mann in Sangrur",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: संगरूर में राहुल गांधी का मान पर हमला",
-  "page": null,
-  "byLang": {
-   "hi": {
-    "src": "/photos/i-rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs-hi-3x2-1280.jpg",
-    "src800": "/photos/i-rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs-hi-3x2-640.jpg"
-   }
-  },
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/i-rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs-en-1280.jpg",
-    "src800": "/photos/i-rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs-hi-1280.jpg",
-    "src800": "/photos/i-rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs-hi-640.jpg"
    }
   }
  },
@@ -27607,6 +27729,16 @@
    "hi": {
     "src": "/photos/i-cabinet-energy-storage-vgf-14500-crore-critical-minerals-2814-hi-3x2-1280.jpg",
     "src800": "/photos/i-cabinet-energy-storage-vgf-14500-crore-critical-minerals-2814-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-cabinet-energy-storage-vgf-14500-crore-critical-minerals-2814-en-t-1280.jpg",
+    "src800": "/photos/i-cabinet-energy-storage-vgf-14500-crore-critical-minerals-2814-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-cabinet-energy-storage-vgf-14500-crore-critical-minerals-2814-hi-t-1280.jpg",
+    "src800": "/photos/i-cabinet-energy-storage-vgf-14500-crore-critical-minerals-2814-hi-t-640.jpg"
    }
   },
   "cover": {
@@ -27640,6 +27772,16 @@
     "src800": "/photos/i-himanta-purnea-rally-rahul-bangladesh-seemanchal-sir-hi-3x2-640.jpg"
    }
   },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-himanta-purnea-rally-rahul-bangladesh-seemanchal-sir-en-t-1280.jpg",
+    "src800": "/photos/i-himanta-purnea-rally-rahul-bangladesh-seemanchal-sir-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-himanta-purnea-rally-rahul-bangladesh-seemanchal-sir-hi-t-1280.jpg",
+    "src800": "/photos/i-himanta-purnea-rally-rahul-bangladesh-seemanchal-sir-hi-t-640.jpg"
+   }
+  },
   "cover": {
    "width": 1280,
    "height": 720,
@@ -27669,6 +27811,16 @@
    "hi": {
     "src": "/photos/i-nadda-bhopal-loktantra-bachao-march-emergency-rahul-hi-3x2-1280.jpg",
     "src800": "/photos/i-nadda-bhopal-loktantra-bachao-march-emergency-rahul-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-nadda-bhopal-loktantra-bachao-march-emergency-rahul-en-t-1280.jpg",
+    "src800": "/photos/i-nadda-bhopal-loktantra-bachao-march-emergency-rahul-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-nadda-bhopal-loktantra-bachao-march-emergency-rahul-hi-t-1280.jpg",
+    "src800": "/photos/i-nadda-bhopal-loktantra-bachao-march-emergency-rahul-hi-t-640.jpg"
    }
   },
   "cover": {
@@ -27702,6 +27854,16 @@
     "src800": "/photos/i-lenskart-q2-profit-doubles-jyothy-labs-buyback-hi-3x2-640.jpg"
    }
   },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-lenskart-q2-profit-doubles-jyothy-labs-buyback-en-t-1280.jpg",
+    "src800": "/photos/i-lenskart-q2-profit-doubles-jyothy-labs-buyback-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-lenskart-q2-profit-doubles-jyothy-labs-buyback-hi-t-1280.jpg",
+    "src800": "/photos/i-lenskart-q2-profit-doubles-jyothy-labs-buyback-hi-t-640.jpg"
+   }
+  },
   "cover": {
    "width": 1280,
    "height": 720,
@@ -27714,5 +27876,89 @@
     "src800": "/photos/i-lenskart-q2-profit-doubles-jyothy-labs-buyback-hi-640.jpg"
    }
   }
+ },
+ "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip--p1": {
+  "id": "v-qs-asia-rankings-2027-iit-delhi-66-indian-universities--p1",
+  "src": "/photos/v-qs-asia-rankings-2027-iit-delhi-66-indian-universities--p1-1280.jpg",
+  "src800": "/photos/v-qs-asia-rankings-2027-iit-delhi-66-indian-universities--p1-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: en:User:Mohammadulhaque. / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "The main building of the Indian Institute of Science, Bengaluru (file photo)",
+  "alt_hi": "बेंगलुरु में भारतीय विज्ञान संस्थान का मुख्य भवन (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "us-midterms-explained-congress-tariffs-what-it-means-for-india--p2": {
+  "id": "v-us-midterms-explained-congress-tariffs-what-it-means-fo-p2",
+  "src": "/photos/v-us-midterms-explained-congress-tariffs-what-it-means-fo-p2-1280.jpg",
+  "src800": "/photos/v-us-midterms-explained-congress-tariffs-what-it-means-fo-p2-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: U.S. Department of State from United States / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Piyush Goyal, India's Commerce Minister (file photo)",
+  "alt_hi": "भारत के वाणिज्य मंत्री पीयूष गोयल (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "us-midterms-turek-flips-iowa-senate-hinson--p1": {
+  "id": "v-us-midterms-turek-flips-iowa-senate-hinson-p1",
+  "src": "/photos/v-us-midterms-turek-flips-iowa-senate-hinson-p1-1280.jpg",
+  "src800": "/photos/v-us-midterms-turek-flips-iowa-senate-hinson-p1-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Office of Congresswoman Ashley Hinson / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "US Representative Ashley Hinson of Iowa (file photo)",
+  "alt_hi": "आयोवा की अमेरिकी सांसद ऐश्ली हिन्सन (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "us-midterms-democrats-230-house-seats-economy-hegseth-blame--p1": {
+  "id": "v-us-midterms-democrats-230-house-seats-economy-hegseth-b-p1",
+  "src": "/photos/v-us-midterms-democrats-230-house-seats-economy-hegseth-b-p1-1280.jpg",
+  "src800": "/photos/v-us-midterms-democrats-230-house-seats-economy-hegseth-b-p1-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: John Ramspott / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "US Senator Jon Ossoff (file photo)",
+  "alt_hi": "अमेरिकी सीनेटर जॉन ऑसॉफ़ (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "us-midterms-democrats-win-senate-talarico-brown-flip": {
+  "id": "v-us-midterms-democrats-win-senate-talarico-brown-flip",
+  "src": "/photos/v-us-midterms-democrats-win-senate-talarico-brown-flip-1280.jpg",
+  "src800": "/photos/v-us-midterms-democrats-win-senate-talarico-brown-flip-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photos: Antonioaesparza / Wikimedia Commons; US Congress / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0, Public domain",
+  "alt": "Democrats James Talarico and Sherrod Brown, who won Senate seats in Texas and Ohio (file photo)",
+  "alt_hi": "डेमोक्रेट जेम्स तालारिको और शेरड ब्राउन, जिन्होंने टेक्सस और ओहायो की सीनेट सीटें जीतीं (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs": {
+  "id": "v-rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs",
+  "src": "/photos/v-rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs-1280.jpg",
+  "src800": "/photos/v-rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Sidheeq / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Congress leader Rahul Gandhi (file photo)",
+  "alt_hi": "कांग्रेस नेता राहुल गांधी (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4": {
+  "id": "v-sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-novemb",
+  "src": "/photos/v-sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-novemb-1280.jpg",
+  "src800": "/photos/v-sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-novemb-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Elroy Serrao / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "The Bombay Stock Exchange building on Dalal Street, Mumbai (file photo)",
+  "alt_hi": "मुंबई के दलाल स्ट्रीट पर बॉम्बे स्टॉक एक्सचेंज की इमारत (फ़ाइल फ़ोटो)",
+  "page": null
  }
 }
