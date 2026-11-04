@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "us-midterms-democrats-win-house-senate-in-balance",
+    "id": "us-midterms-democrats-win-senate-talarico-brown-flip",
     "overlay": {
       "kicker": {
         "en": "World / US midterms",
         "hi": "दुनिया / अमेरिकी मध्यावधि चुनाव"
       },
       "value": {
-        "en": "Democrats take the House",
-        "hi": "हाउस डेमोक्रेट्स के हाथ"
+        "en": "Democrats take the Senate",
+        "hi": "सीनेट भी डेमोक्रेट्स की"
       },
       "text": {
         "en": "",
@@ -17,14 +17,15 @@
     },
     "dataBox": [],
     "relatedBelow": [
+      "us-midterms-democrats-win-house-senate-in-balance",
       "us-midterms-results-cooper-flips-north-carolina-senate"
     ],
     "relatedBeside": [
-      "arshdeep-two-brar-seifert-new-zealand-three-down-eden-park-odi",
-      "nitin-nabin-gorakhpur-loktantra-bachao-padyatra-yogi",
-      "rahul-gandhi-insaaf-rally-sangrur-phaguwala-punjab-campaign",
-      "dewas-inspector-dilip-puri-accused-shot-leg-custody",
-      "jaishankar-chogm-antigua-dpi-ftas-executive-session"
+      "brar-latham-kohli-catch-new-zealand-124-seven-down-eden-park-odi",
+      "pawan-khera-modi-parliament-press-conference-debate-dare",
+      "jitin-prasada-warsaw-wb-group-creotech-india-poland-ties",
+      "qatar-iran-us-far-apart-36-hours-feedback-hormuz",
+      "us-midterms-bottoms-flips-georgia-governor-congress-undecided"
     ],
     "live": {
       "title": {
@@ -36,25 +37,58 @@
   "briefing": {
     "items": [
       {
-        "link": "arshdeep-two-brar-seifert-new-zealand-three-down-eden-park-odi",
+        "link": "brar-latham-kohli-catch-new-zealand-124-seven-down-eden-park-odi",
         "lead": {
           "en": "Cricket:",
           "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "Live: Arshdeep strikes twice, Brar removes Seifert as New Zealand lose three at Eden Park",
-          "hi": "लाइव: अर्शदीप के दो विकेट, बराड़ ने सीफ़र्ट को लौटाया, ईडन पार्क में न्यूज़ीलैंड के तीन विकेट गिरे"
+          "en": "Live: Brar's return catch, Kohli's dive leave New Zealand 124 for 7 at Eden Park",
+          "hi": "लाइव: बराड़ का रिटर्न कैच, कोहली की छलांग, ईडन पार्क में न्यूज़ीलैंड 7 विकेट पर 124"
         }
       },
       {
-        "link": "us-midterms-democrats-win-house-senate-in-balance",
+        "link": "pawan-khera-modi-parliament-press-conference-debate-dare",
+        "lead": {
+          "en": "Opposition:",
+          "hi": "विपक्ष:"
+        },
+        "text": {
+          "en": "'You don't show up in Parliament': Pawan Khera backs Rahul Gandhi's debate dare to Modi",
+          "hi": "'आप संसद में आते नहीं': पवन खेड़ा ने मोदी को राहुल गांधी की बहस की चुनौती का समर्थन किया"
+        }
+      },
+      {
+        "link": "jitin-prasada-warsaw-wb-group-creotech-india-poland-ties",
+        "lead": {
+          "en": "Trade:",
+          "hi": "व्यापार:"
+        },
+        "text": {
+          "en": "Jitin Prasada meets Polish defence, space and IT bosses in Warsaw",
+          "hi": "जितिन प्रसाद ने वारसॉ में पोलैंड की रक्षा, अंतरिक्ष और आईटी कंपनियों के प्रमुखों से मुलाकात की"
+        }
+      },
+      {
+        "link": "qatar-iran-us-far-apart-36-hours-feedback-hormuz",
+        "lead": {
+          "en": "Iran:",
+          "hi": "ईरान:"
+        },
+        "text": {
+          "en": "Iran and US still far apart, Qatar says both are studying its proposals",
+          "hi": "ईरान और अमेरिका अब भी दूर, कतर बोला: दोनों उसके प्रस्तावों पर विचार कर रहे"
+        }
+      },
+      {
+        "link": "us-midterms-bottoms-flips-georgia-governor-congress-undecided",
         "lead": {
           "en": "US midterms:",
           "hi": "अमेरिकी मध्यावधि चुनाव:"
         },
         "text": {
-          "en": "Democrats projected to win the House; Senate rests on six races",
-          "hi": "हाउस में डेमोक्रेट्स के बहुमत का अनुमान, सीनेट छह सीटों पर टिकी"
+          "en": "Keisha Lance Bottoms flips Georgia as Congress hangs in the balance",
+          "hi": "कीशा लांस बॉटम्स ने जॉर्जिया पलटा, कांग्रेस पर फैसला अब भी बाकी"
         }
       },
       {
@@ -69,17 +103,6 @@
         }
       },
       {
-        "link": "rahul-gandhi-insaaf-rally-sangrur-phaguwala-punjab-campaign",
-        "lead": {
-          "en": "Punjab:",
-          "hi": "पंजाब:"
-        },
-        "text": {
-          "en": "Rahul Gandhi to open Congress's Punjab campaign with Insaaf Rally in Mann's home district",
-          "hi": "मान के गृह ज़िले से राहुल गांधी का पंजाब अभियान, संगरूर में 'इंसाफ़ रैली'"
-        }
-      },
-      {
         "link": "dewas-inspector-dilip-puri-accused-shot-leg-custody",
         "lead": {
           "en": "Madhya Pradesh:",
@@ -91,17 +114,6 @@
         }
       },
       {
-        "link": "misri-lands-kathmandu-today-three-post-diwali-dates-shah",
-        "lead": {
-          "en": "Nepal:",
-          "hi": "नेपाल:"
-        },
-        "text": {
-          "en": "Foreign Secretary Misri in Kathmandu for talks with the new government",
-          "hi": "विदेश सचिव मिस्री नई सरकार से बातचीत के लिए काठमांडू में"
-        }
-      },
-      {
         "link": "jaishankar-chogm-antigua-dpi-ftas-executive-session",
         "lead": {
           "en": "Diplomacy:",
@@ -110,17 +122,6 @@
         "text": {
           "en": "Jaishankar pitches India's digital public infrastructure and trade deals to Commonwealth leaders in Antigua",
           "hi": "एंटीगा में जयशंकर ने राष्ट्रमंडल नेताओं के सामने रखा भारत का डिजिटल ढांचा और व्यापार समझौते"
-        }
-      },
-      {
-        "link": "apple-app-store-18-plus-dating-ai-companion-apps",
-        "lead": {
-          "en": "Apps:",
-          "hi": "ऐप:"
-        },
-        "text": {
-          "en": "Apple makes dating apps 18+ on the App Store, tightens rules for AI companions",
-          "hi": "ऐप्पल ने ऐप स्टोर पर डेटिंग ऐप 18+ किए, एआई साथी ऐप पर भी सख्ती"
         }
       }
     ]
@@ -188,17 +189,17 @@
   },
   "topStories": {
     "big": {
-      "id": "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip",
+      "id": "dewas-inspector-dilip-puri-accused-shot-leg-custody",
       "also": []
     },
     "list": [
-      "apple-app-store-18-plus-dating-ai-companion-apps",
-      "sudhakar-dalela-arrives-kathmandu-india-ambassador-nepal",
       "misri-lands-kathmandu-today-three-post-diwali-dates-shah",
-      "ncp-devgiri-meeting-bhujbal-288-seats-sunetra-finance-shah",
-      "smriti-irani-rahul-prince-perpetual-waiting-56-polls-sir"
+      "psg-six-villarreal-record-bayern-win-madrid-cunha-united"
     ],
-    "also": []
+    "also": [
+      "sonowal-puri-coastal-freight-12-per-cent-2047-cruise-terminal",
+      "jaishankar-chogm-antigua-dpi-ftas-executive-session"
+    ]
   },
   "startHere": [
     "us-midterms-explained-congress-tariffs-what-it-means-for-india",
@@ -373,11 +374,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "nitin-nabin-gorakhpur-loktantra-bachao-padyatra-yogi",
         "rahul-gandhi-insaaf-rally-sangrur-phaguwala-punjab-campaign",
-        "misri-lands-kathmandu-today-three-post-diwali-dates-shah",
-        "nishikant-dubey-offers-debate-rahul-congress-office"
+        "misri-lands-kathmandu-today-three-post-diwali-dates-shah"
       ],
-      "lead": "nitin-nabin-gorakhpur-loktantra-bachao-padyatra-yogi"
+      "lead": "pawan-khera-modi-parliament-press-conference-debate-dare"
     },
     {
       "section": "economy",
@@ -410,12 +411,12 @@
     },
     {
       "section": "policy",
-      "lead": "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip",
+      "lead": "jitin-prasada-warsaw-wb-group-creotech-india-poland-ties",
       "list": [
+        "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip",
         "sitharaman-tata-critical-component-settle-amicably-investors",
         "supreme-court-green-crackers-delhi-ncr-diwali-november-7-8",
-        "modi-inaugurate-bharat-renewable-energy-summit-bharat-mandapam-preview",
-        "vande-bharat-sleeper-bengaluru-mumbai-vaishnaw-flags-off-today"
+        "modi-inaugurate-bharat-renewable-energy-summit-bharat-mandapam-preview"
       ]
     },
     {
@@ -434,12 +435,12 @@
   "desks": [
     {
       "section": "world",
-      "lead": "us-midterms-democrats-win-house-senate-in-balance",
+      "lead": "us-midterms-democrats-win-senate-talarico-brown-flip",
       "list": [
+        "us-midterms-democrats-win-house-senate-in-balance",
         "us-midterms-bottoms-flips-georgia-governor-congress-undecided",
         "us-midterms-results-cooper-flips-north-carolina-senate",
-        "jaishankar-chogm-antigua-dpi-ftas-executive-session",
-        "us-midterms-ossoff-holds-georgia-first-results"
+        "jaishankar-chogm-antigua-dpi-ftas-executive-session"
       ]
     },
     {
@@ -453,12 +454,11 @@
     },
     {
       "section": "sports",
-      "lead": "arshdeep-two-brar-seifert-new-zealand-three-down-eden-park-odi",
+      "lead": "brar-latham-kohli-catch-new-zealand-124-seven-down-eden-park-odi",
       "list": [
         "india-elect-to-field-new-zealand-one-down-eden-park-first-odi",
         "psg-six-villarreal-record-bayern-win-madrid-cunha-united",
-        "gill-any-indian-team-can-beat-anyone-eden-park-first-odi-preview",
-        "urvil-patel-210-pradosh-paul-208-ranji-round-four-day-two"
+        "gill-any-indian-team-can-beat-anyone-eden-park-first-odi-preview"
       ]
     }
   ],

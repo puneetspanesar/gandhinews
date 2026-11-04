@@ -34,7 +34,7 @@ infographic:
     - {icon: cricket, value: "124/7", label: "New Zealand after 30 overs"}
     - {icon: target, value: "2", label: "Gurnoor Brar wickets: Seifert, Latham"}
     - {icon: hand, value: "2", label: "Arshdeep Singh wickets: Young, Nicholls"}
-  source: "CricTracker, VAVEL and Outlook live listings, November 4, 2026"
+  source: "Match scoring, November 4, 2026"
 related: [arshdeep-two-brar-seifert-new-zealand-three-down-eden-park-odi, india-elect-to-field-new-zealand-one-down-eden-park-first-odi, gill-any-indian-team-can-beat-anyone-eden-park-first-odi-preview]
 seo:
   description: "New Zealand v India first ODI live at Eden Park: Gurnoor Brar's return catch removes Tom Latham, Virat Kohli's diving catch dismisses Nathan Smith and New Zealand are 124 for 7 after 30 overs on 4 November 2026."

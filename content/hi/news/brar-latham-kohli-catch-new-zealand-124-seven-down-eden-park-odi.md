@@ -35,7 +35,7 @@ infographic:
     - {icon: cricket, value: "124/7", label: "30 ओवर के बाद न्यूज़ीलैंड"}
     - {icon: target, value: "2", label: "गुरनूर बराड़ के विकेट: सीफ़र्ट, लैथम"}
     - {icon: hand, value: "2", label: "अर्शदीप सिंह के विकेट: यंग, निकोल्स"}
-  source: "CricTracker, VAVEL और Outlook लाइव सूची, 4 नवंबर 2026"
+  source: "मैच स्कोरिंग, 4 नवंबर 2026"
 related: [arshdeep-two-brar-seifert-new-zealand-three-down-eden-park-odi, india-elect-to-field-new-zealand-one-down-eden-park-first-odi, gill-any-indian-team-can-beat-anyone-eden-park-first-odi-preview]
 seo:
   description: "ईडन पार्क में न्यूज़ीलैंड बनाम भारत पहला वनडे लाइव: गुरनूर बराड़ के रिटर्न कैच पर टॉम लैथम आउट, विराट कोहली के डाइविंग कैच पर नाथन स्मिथ आउट, 30 ओवर में न्यूज़ीलैंड 7 विकेट पर 124।"
