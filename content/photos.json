@@ -46375,5 +46375,103 @@
   "composite": [
    "cx-us-midterms-turek-flips-iowa-senate-hinson--p1-0"
   ]
+ },
+ {
+  "id": "cx-india-65-one-down-32-over-chase-eden-park-odi-0",
+  "articleId": "part:india-65-one-down-32-over-chase-eden-park-odi:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Virat_Kohli_portrait.jpg/1600px-Virat_Kohli_portrait.jpg",
+  "credit": "Anand Anil",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Virat_Kohli_portrait.jpg"
+ },
+ {
+  "id": "x-india-65-one-down-32-over-chase-eden-park-odi",
+  "articleId": "india-65-one-down-32-over-chase-eden-park-odi",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Virat_Kohli_portrait.jpg/1600px-Virat_Kohli_portrait.jpg",
+  "credit": "Photo: Anand Anil / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Virat Kohli, India batter (file photo)",
+  "alt_hi": "भारतीय बल्लेबाज़ विराट कोहली (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Virat_Kohli_portrait.jpg",
+  "composite": [
+   "cx-india-65-one-down-32-over-chase-eden-park-odi-0"
+  ]
+ },
+ {
+  "id": "cx-rbi-financial-markets-consultative-committee-rohit-jain-0",
+  "articleId": "part:rbi-financial-markets-consultative-committee-rohit-jain:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Reserve_Bank_Of_India_-_RBI_Mumbai.jpg/1600px-Reserve_Bank_Of_India_-_RBI_Mumbai.jpg",
+  "credit": "Anurag Vijay 03",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Reserve_Bank_Of_India_-_RBI_Mumbai.jpg"
+ },
+ {
+  "id": "x-rbi-financial-markets-consultative-committee-rohit-jain",
+  "articleId": "rbi-financial-markets-consultative-committee-rohit-jain",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Reserve_Bank_Of_India_-_RBI_Mumbai.jpg/1600px-Reserve_Bank_Of_India_-_RBI_Mumbai.jpg",
+  "credit": "Photo: Anurag Vijay 03 / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Reserve Bank of India headquarters in Mumbai (file photo)",
+  "alt_hi": "मुंबई में भारतीय रिज़र्व बैंक का मुख्यालय (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Reserve_Bank_Of_India_-_RBI_Mumbai.jpg",
+  "composite": [
+   "cx-rbi-financial-markets-consultative-committee-rohit-jain-0"
+  ]
+ },
+ {
+  "id": "cx-us-midterms-democrats-230-house-seats-economy-hegseth-bla-0",
+  "articleId": "part:us-midterms-democrats-230-house-seats-economy-hegseth-blame:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Hakeem_Jeffries_Bio_Shot_-_In_House_%28crop%29.jpg",
+  "credit": "US Congress",
+  "licence": "Public domain",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Hakeem_Jeffries_Bio_Shot_-_In_House_(crop).jpg"
+ },
+ {
+  "id": "cx-us-midterms-democrats-230-house-seats-economy-hegseth-bla-1",
+  "articleId": "part:us-midterms-democrats-230-house-seats-economy-hegseth-blame:1",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Pete_Hegseth_by_Gage_Skidmore.jpg/1600px-Pete_Hegseth_by_Gage_Skidmore.jpg",
+  "credit": "Gage Skidmore",
+  "licence": "CC BY-SA 3.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Pete_Hegseth_by_Gage_Skidmore.jpg"
+ },
+ {
+  "id": "x-us-midterms-democrats-230-house-seats-economy-hegseth-blame",
+  "articleId": "us-midterms-democrats-230-house-seats-economy-hegseth-blame",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Hakeem_Jeffries_Bio_Shot_-_In_House_%28crop%29.jpg",
+  "credit": "Photos: US Congress / Wikimedia Commons; Gage Skidmore / Wikimedia Commons",
+  "licence": "Public domain, CC BY-SA 3.0",
+  "alt": "House Democratic leader Hakeem Jeffries and US Defence Secretary Pete Hegseth (file photo)",
+  "alt_hi": "हाउस में डेमोक्रेटिक नेता हकीम जेफ्रीज़ और अमेरिकी रक्षा मंत्री पीट हेगसेथ (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Hakeem_Jeffries_Bio_Shot_-_In_House_(crop).jpg",
+  "composite": [
+   "cx-us-midterms-democrats-230-house-seats-economy-hegseth-bla-0",
+   "cx-us-midterms-democrats-230-house-seats-economy-hegseth-bla-1"
+  ]
+ },
+ {
+  "id": "cx-us-midterms-democrats-230-house-seats-economy-hegseth-bla-0b",
+  "articleId": "part:us-midterms-democrats-230-house-seats-economy-hegseth-blame--p1:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Jon_Ossoff_2020_2_%28cropped_2%29.jpg",
+  "credit": "John Ramspott",
+  "licence": "CC BY 2.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Jon_Ossoff_2020_2_(cropped_2).jpg"
+ },
+ {
+  "id": "x-us-midterms-democrats-230-house-seats-economy-hegseth-blame-",
+  "articleId": "us-midterms-democrats-230-house-seats-economy-hegseth-blame--p1",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Jon_Ossoff_2020_2_%28cropped_2%29.jpg",
+  "credit": "Photo: John Ramspott / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "US Senator Jon Ossoff (file photo)",
+  "alt_hi": "अमेरिकी सीनेटर जॉन ऑसॉफ़ (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Jon_Ossoff_2020_2_(cropped_2).jpg",
+  "composite": [
+   "cx-us-midterms-democrats-230-house-seats-economy-hegseth-bla-0b"
+  ]
  }
 ]
