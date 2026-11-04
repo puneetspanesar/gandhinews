@@ -61,8 +61,4 @@ Naveen had written to Majhi on the same subject on 19 October and received a rep
 
 He pointed out that both Odisha and Andhra Pradesh are now ruled by parties of the BJP-led National Democratic Alliance. "Urgent steps must be taken to protect Odisha's territorial integrity, as promised in the BJP's 2024 election manifesto," he wrote, adding that the Chief Minister "has a moral responsibility to protect the state's legitimate interests and ensure that the situation does not escalate further."
 
-```photo
-{"n":2,"subject":"Koraput district","caption":"Kotia, a cluster of villages claimed by both states, lies in Odisha's Koraput district on the Andhra Pradesh border.","alt":"Hills of Koraput district, Odisha"}
-```
-
 Neither the Chief Minister's office nor the Andhra Pradesh government had responded to the letter by Wednesday evening.

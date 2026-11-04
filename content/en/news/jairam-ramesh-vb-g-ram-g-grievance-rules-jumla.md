@@ -71,8 +71,4 @@ Escalation of complaints after 15 days stays mandatory, but **no longer explicit
 
 Ramesh also said millions of workers are unable to mark attendance on the National Mobile Monitoring System or receive wages through the Aadhaar-Based Payment System. The VB-G RAM G Act **replaced MGNREGA on 1 July**, and the Congress has opposed the overhaul from the start.
 
-```photo
-{"n":2,"subject":"MGNREGA workers","caption":"Rural job scheme workers at a worksite; the VB-G RAM G Act replaced MGNREGA on 1 July.","alt":"Rural job scheme workers at a worksite"}
-```
-
 The government had not responded to his criticism by Wednesday evening.

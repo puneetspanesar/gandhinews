@@ -87,3 +87,11 @@ Owner's note: too many market and sales stories, not enough of the day's real ne
 - Editor FAIL not fixed this run: rupee sign shows as a box in story sheet headline font; Rahul Sangrur photo tone (smiling) wrong for the Moosewala story; Himanta Purnea card is still an infographic; Supreme Court stories want building or courtroom photos; RBI committee story picture is a generic building.
 - Markets: no Nov 4 FII/DII found; closes unchanged.
 - India desk found nothing in 17:00 to 19:15; theprint and uniindia index fetches timed out.
+
+## November 4, 2026, 8:40 pm (from the 20:00 run)
+- Published: Jairam Ramesh calls the VB-G RAM G grievance rules "yet another jumla" (ThePrint/PTI 18:46 IST; real photo) and Naveen Patnaik's second letter to Majhi on Kotia before Andhra's 5 Nov polls (enewsinsight only, single source; infographic). Checked photos of Naveen Patnaik (File:Naveen Patnaik 2013.jpg) and Mohan Charan Majhi (File:Mohan Charan Majhi (cropped).jpg) are registered for the Patnaik story (h0420, download run 41852901647 still running at the push deadline): run apply_composites and switch it off its infographic. MGNREGA workers and Koraput hills in-story photos were dropped for time.
+- Siraj and Chidambaram temple stories now have real photos (composited this run).
+- Not written (before the window): Cabinet extends fast-track courts to 2031 with 850 courts, Rs 3,788 crore (Vaishnaw briefing about 16:49 IST); Vijay's letter on a Supreme Court bench in Chennai (16:53 IST); PFC and Dr Lal PathLabs Q2. Fast-track courts is on other front pages: write it next run if a source is readable.
+- Editor FAIL not fixed this run: lead picture pairs Jeffries with Hegseth (use an election-night photo); Jitin Prasada and India v NZ ODI result still infographics in the top grid. Fixed: live band title (was "Supreme Court", now "US midterms"), band cut to two items, Sangrur rally back in the headlines.
+- Markets: no newer source found; Nov 4 FII/DII still not published on upstox (latest shown 2 Nov). markets.json unchanged.
+- Sport-science and world-business desks found nothing confirmable in 18:00 to 20:10.
