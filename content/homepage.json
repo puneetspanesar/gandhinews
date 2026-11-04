@@ -71,8 +71,8 @@
       {
         "link": "supreme-court-child-labour-special-cell-centre",
         "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
+          "en": "Child labour:",
+          "hi": "बाल श्रम:"
         },
         "text": {
           "en": "Supreme Court tells Centre to set up special cell to enforce child labour ban",
@@ -91,14 +91,14 @@
         }
       },
       {
-        "link": "jitin-prasada-warsaw-wb-group-creotech-india-poland-ties",
+        "link": "qatar-iran-us-far-apart-36-hours-feedback-hormuz",
         "lead": {
-          "en": "Trade:",
-          "hi": "व्यापार:"
+          "en": "Iran:",
+          "hi": "ईरान:"
         },
         "text": {
-          "en": "Jitin Prasada meets Polish defence, space and IT bosses in Warsaw",
-          "hi": "जितिन प्रसाद ने वारसॉ में पोलैंड की रक्षा, अंतरिक्ष और आईटी कंपनियों के प्रमुखों से मुलाकात की"
+          "en": "Iran and US still far apart, Qatar says both are studying its proposals",
+          "hi": "ईरान और अमेरिका अब भी दूर, क़तर ने कहा दोनों उसके प्रस्तावों पर विचार कर रहे हैं"
         }
       },
       {
@@ -188,19 +188,19 @@
   },
   "topStories": {
     "big": {
-      "id": "supreme-court-child-labour-special-cell-centre",
+      "id": "dewas-inspector-dilip-puri-accused-shot-leg-custody",
       "also": []
     },
     "list": [
       "rbi-financial-markets-consultative-committee-rohit-jain",
-      "jitin-prasada-warsaw-wb-group-creotech-india-poland-ties",
-      "dewas-inspector-dilip-puri-accused-shot-leg-custody",
+      "qatar-iran-us-far-apart-36-hours-feedback-hormuz",
       "psg-six-villarreal-record-bayern-win-madrid-cunha-united",
-      "supreme-court-two-child-norm-javed-larger-bench"
+      "apple-app-store-18-plus-dating-ai-companion-apps",
+      "supreme-court-child-labour-special-cell-centre"
     ],
     "also": [
       "misri-lands-kathmandu-today-three-post-diwali-dates-shah",
-      "sonowal-puri-coastal-freight-12-per-cent-2047-cruise-terminal"
+      "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip"
     ]
   },
   "startHere": [
