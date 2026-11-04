@@ -77,10 +77,6 @@ The biggest companies did the heavy lifting. Amazon **rose more than 8%**, Micro
 
 Results drove the sharpest single moves. Duolingo **jumped about 31%** after strong quarterly numbers and a raised forecast. Telecom software company Amdocs fell about 30% after a weak outlook tied to a legal dispute with T-Mobile, and payments firm FIS lost 22% after cutting its full-year forecast.
 
-```photo
-{"n":2,"subject":"Amazon Spheres","caption":"Amazon's Spheres at its Seattle headquarters. The company's shares rose more than 8% in early trade, leading the big technology gainers.","alt":"The Amazon Spheres in Seattle (file photo)"}
-```
-
 Investors also bought safe assets earlier in the day. Gold **climbed nearly 3% to $4,052.90** an ounce before the open, and Brent crude traded around $102 a barrel, lower on signs of easing tension between the US and Iran.
 
 Analysts cautioned against reading too much into the political shift. "A change in congressional control does not necessarily translate into an immediate change in economic policy," said Daniela Hathorn, senior market analyst at Capital.com.

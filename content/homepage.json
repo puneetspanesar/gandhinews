@@ -18,11 +18,11 @@
     "dataBox": [],
     "relatedBelow": [],
     "relatedBeside": [
+      "india-beat-south-korea-8-1-asian-champions-trophy-semi-final-mohali",
+      "wall-street-jumps-dow-1131-democrats-win-congress",
       "modi-meet-asian-para-games-contingent-thursday",
-      "us-midterms-democrats-win-senate-talarico-brown-flip",
-      "naveen-patnaik-writes-majhi-kotia-andhra-elections",
-      "jairam-ramesh-vb-g-ram-g-grievance-rules-jumla",
-      "jaishankar-chogm-antigua-dpi-ftas-executive-session"
+      "us-midterms-alaska-sullivan-peltola-too-close-to-call",
+      "naveen-patnaik-writes-majhi-kotia-andhra-elections"
     ],
     "live": {
       "title": {
@@ -34,14 +34,25 @@
   "briefing": {
     "items": [
       {
-        "link": "cabinet-fast-track-special-courts-2031-850-courts",
+        "link": "india-beat-south-korea-8-1-asian-champions-trophy-semi-final-mohali",
         "lead": {
-          "en": "Courts:",
-          "hi": "अदालतें:"
+          "en": "Hockey:",
+          "hi": "हॉकी:"
         },
         "text": {
-          "en": "Cabinet extends fast-track courts for rape and POCSO trials till 2031, network to grow to 850",
-          "hi": "दुष्कर्म और पॉक्सो मामलों की फास्ट ट्रैक अदालतें 2031 तक जारी रहेंगी, संख्या बढ़कर 850 होगी"
+          "en": "India rout South Korea 8-1 in Mohali to set up Asian Champions Trophy final against Japan",
+          "hi": "मोहाली में भारत ने दक्षिण कोरिया को 8-1 से रौंदा, एशियन चैंपियंस ट्रॉफी फाइनल में जापान से भिड़ंत"
+        }
+      },
+      {
+        "link": "wall-street-jumps-dow-1131-democrats-win-congress",
+        "lead": {
+          "en": "Global markets:",
+          "hi": "वैश्विक बाज़ार:"
+        },
+        "text": {
+          "en": "Wall Street jumps as Dow gains 1,131 points after Democrats win Congress",
+          "hi": "डेमोक्रेट्स के कांग्रेस जीतने के बाद वॉल स्ट्रीट में उछाल, डाउ 1,131 अंक चढ़ा"
         }
       },
       {
@@ -78,28 +89,6 @@
         }
       },
       {
-        "link": "jairam-ramesh-vb-g-ram-g-grievance-rules-jumla",
-        "lead": {
-          "en": "Rural jobs:",
-          "hi": "ग्रामीण रोजगार:"
-        },
-        "text": {
-          "en": "'Yet another jumla': Jairam Ramesh says final VB-G RAM G grievance rules gut the draft",
-          "hi": "'एक और जुमला': जयराम रमेश बोले, वीबी-जी राम जी शिकायत नियमों से मसौदे के प्रावधान गायब"
-        }
-      },
-      {
-        "link": "nykaa-physicswallah-q2-profit-nearly-triples-doubles",
-        "lead": {
-          "en": "Companies:",
-          "hi": "कंपनियां:"
-        },
-        "text": {
-          "en": "Nykaa's profit nearly triples and PhysicsWallah's doubles in the September quarter",
-          "hi": "सितंबर तिमाही में नायका का मुनाफा करीब तिगुना, फिजिक्सवाला का दोगुना"
-        }
-      },
-      {
         "link": "supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board",
         "lead": {
           "en": "Supreme Court:",
@@ -108,6 +97,17 @@
         "text": {
           "en": "Supreme Court stays Madras HC order handing Chidambaram Nataraja temple to a five-member board",
           "hi": "चिदंबरम नटराज मंदिर पांच सदस्यीय बोर्ड को सौंपने के मद्रास हाईकोर्ट के आदेश पर सुप्रीम कोर्ट की रोक"
+        }
+      },
+      {
+        "link": "jairam-ramesh-vb-g-ram-g-grievance-rules-jumla",
+        "lead": {
+          "en": "Rural jobs:",
+          "hi": "ग्रामीण रोजगार:"
+        },
+        "text": {
+          "en": "'Yet another jumla': Jairam Ramesh says final VB-G RAM G grievance rules gut the draft",
+          "hi": "'एक और जुमला': जयराम रमेश बोले, वीबी-जी राम जी शिकायत नियमों से मसौदे के प्रावधान गायब"
         }
       },
       {
@@ -186,19 +186,17 @@
   },
   "topStories": {
     "big": {
-      "id": "india-beat-new-zealand-five-wickets-dls-eden-park-first-odi",
+      "id": "cabinet-energy-storage-vgf-14500-crore-critical-minerals-2814",
       "also": []
     },
     "list": [
-      "dewas-inspector-dilip-puri-accused-shot-leg-custody",
-      "jitin-prasada-warsaw-wb-group-creotech-india-poland-ties",
+      "jairam-ramesh-vb-g-ram-g-grievance-rules-jumla",
       "supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board",
-      "siraj-to-join-india-odi-squad-wellington-missed-auckland",
-      "himanta-purnea-rally-rahul-bangladesh-seemanchal-sir"
+      "himanta-purnea-rally-rahul-bangladesh-seemanchal-sir",
+      "siraj-to-join-india-odi-squad-wellington-missed-auckland"
     ],
     "also": [
-      "rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs",
-      "supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification"
+      "india-beat-new-zealand-five-wickets-dls-eden-park-first-odi"
     ]
   },
   "startHere": [
@@ -382,7 +380,7 @@
     },
     {
       "section": "economy",
-      "lead": "nykaa-physicswallah-q2-profit-nearly-triples-doubles",
+      "lead": "wall-street-jumps-dow-1131-democrats-win-congress",
       "module": {
         "type": "markets",
         "indicators": [
@@ -393,10 +391,10 @@
         ]
       },
       "list": [
+        "nykaa-physicswallah-q2-profit-nearly-triples-doubles",
         "bse-q2-profit-45-per-cent-809-crore-bkc-plot-mmrda",
         "dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend",
-        "lenskart-q2-profit-doubles-jyothy-labs-buyback",
-        "sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4"
+        "lenskart-q2-profit-doubles-jyothy-labs-buyback"
       ]
     },
     {
@@ -454,12 +452,12 @@
     },
     {
       "section": "sports",
-      "lead": "modi-meet-asian-para-games-contingent-thursday",
+      "lead": "india-beat-south-korea-8-1-asian-champions-trophy-semi-final-mohali",
       "list": [
+        "modi-meet-asian-para-games-contingent-thursday",
         "siraj-to-join-india-odi-squad-wellington-missed-auckland",
         "india-beat-new-zealand-five-wickets-dls-eden-park-first-odi",
-        "india-65-one-down-32-over-chase-eden-park-odi",
-        "india-54-one-down-rain-stops-play-eden-park-odi"
+        "india-65-one-down-32-over-chase-eden-park-odi"
       ]
     }
   ],
