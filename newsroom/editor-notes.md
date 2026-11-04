@@ -8,5 +8,5 @@ Write these first in the 9 am and 10 am runs (latest facts, own voice, correct p
 
 Owner's note: too many market and sales stories, not enough of the day's real news. One market story per run at most.
 
-## November 4, 2026, 1:25 am (from the 00:00 run)
-Photos for three stories are picked and registered in content/photos.json but the composites were not built because the photo download was still running: gill-any-indian-team-can-beat-anyone-eden-park-first-odi-preview (Shubman Gill), nishikant-dubey-offers-debate-rahul-congress-office (Nishikant Dubey), sonowal-puri-coastal-freight-12-per-cent-2047-cruise-terminal (Sarbananda Sonowal). They show infographic covers now. Next run: fetch photo-raw, run apply_composites for these ids, check by eye, and swap the infographics out. Delete this item when done.
+## November 4, 2026, 6:45 am (from the 06:00 run)
+US midterm results: at 6:15 am IST only Georgia (Ossoff over Mike Collins) had been called. Next runs: write the latest calls as a new lead (House and Senate control, key races) from pages you actually read, and give the US midterms live band fresh items. Delete this item when done.
