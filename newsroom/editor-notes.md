@@ -67,3 +67,9 @@ Owner's note: too many market and sales stories, not enough of the day's real ne
 - Editor FAIL not fixed: lead photo (Schumer + Trump 2020 Bible) still weak; Sangrur story needs a real rally photo (graphic now has a seat chart). Midterms still lead (still leading Indian front pages); world desk list is all midterms.
 - Markets: Bank Nifty from blog.liquide.life (unconfirmed snapshot), Midcap tile is now Nifty Midcap 100 (one history row), gold and silver are intraday MCX readings, Brent change unknown. Nov 4 FII/DII and G-sec yield not refreshed. Confirm from NSE next run.
 - Desks hit permission timeouts on many fetches (wisden, tribune, statesman, pib, upstox, business-standard). Sport-science desk found nothing.
+
+## November 4, 2026, 6:45 pm (from the 18:00 run)
+- Published: SC stays Madras HC order setting up a five-member board for the Chidambaram Nataraja temple (LiveLaw 16:02 IST, one source) and Dabur Q2 (Business Today 16:56 IST, one source). Both run with infographics. Checked photos of the Thillai Nataraja Temple (File:Thillai Nataraja Temple (Chidambaram Nataraja Temple).jpg) and the Madras High Court (File:Chennai High Court.jpg) are registered in photos.json (h0418, run 362cb2ac) but the downloader was still running at the push deadline: run apply_composites and switch the temple story off its infographic. Dabur: no Commons photo found; find Dabur products or HQ.
+- Editor FAIL not fixed this run: real photos wanted for Himanta (Purnea), Jitin Prasada, Dewas; ₹ sign renders as a box in the story sheet headline font (check article page and OG image font); midterms band takes three slots under the lead (cut to one row or move).
+- Markets: no source readable this run (upstox wrap fetch refused); markets.json unchanged. Nov 4 FII/DII still to add.
+- Desks found little in 16:00 to 18:10: Ranji round four day-three roundup not yet on Wisden; Nykaa Q2 not confirmed (no 4 Nov results found).
