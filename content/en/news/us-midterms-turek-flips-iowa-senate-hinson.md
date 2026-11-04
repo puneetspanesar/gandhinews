@@ -56,10 +56,6 @@ The seat was open after Republican Senator **Joni Ernst decided not to seek re-e
 
 Turek, 47, is a state representative and a **former Paralympic wheelchair basketball player**. He campaigned on working across party lines and gained ground as polls tightened and both sides poured money into the race.
 
-```photo
-{"n":1,"subject":"Ashley Hinson","caption":"Ashley Hinson, the Republican congresswoman who lost the Iowa Senate race.","alt":"US Representative Ashley Hinson of Iowa"}
-```
-
 Hinson, 43, a former local television news anchor who has represented Iowa in the House since 2021, had first promised to be Trump's "top ally" in the Senate. As the campaign wore on she **moved some distance from the president**, calling for the war with Iran to be brought to a "successful and immediate end" and pledging in an October debate to "push back on him".
 
 Iowa was one of **seven Republican-held Senate seats** Democrats won on the night, along with North Carolina, South Carolina, Kansas, Texas, Ohio and Maine. Turek will take his seat when the new Congress meets in January.

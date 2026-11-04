@@ -69,10 +69,6 @@ Collins telephoned Jackson to concede early on Wednesday morning US time, a spok
 
 Collins first entered the Senate in 1997 and was seeking a sixth term. Over nearly **30 years in the chamber** she built a reputation as a moderate who sometimes broke with her party, and she ran this time on her seniority and her place on the Senate Appropriations Committee, arguing that her relationships in Washington brought money home to Maine.
 
-```photo
-{"n":1,"subject":"Susan Collins","caption":"Susan Collins, Maine's Republican senator since 1997, lost her bid for a sixth term.","alt":"US Senator Susan Collins of Maine"}
-```
-
 It was not enough. Maine voters have **not removed a sitting senator since 1978**.
 
 ## Who is Troy Jackson
@@ -80,10 +76,6 @@ It was not enough. Maine voters have **not removed a sitting senator since 1978*
 Jackson, a former president of the Maine Senate, campaigned on the cost of living, health care and workers' rights. He argued that Collins had grown **too close to President Donald Trump's administration**, particularly on issues that hit working families, and his platform included ending the war with Iran and moving towards Medicare for All.
 
 He was not the Democrats' first choice. Graham Platner, an oyster farmer who won the party's primary in June, withdrew after allegations of sexual assault, which he denied, leaving Jackson to take on Collins.
-
-```photo
-{"n":2,"subject":"Maine State House","caption":"The Maine State House in Augusta, where Jackson led the state Senate before running for Congress.","alt":"The Maine State House in Augusta"}
-```
 
 ## A seventh flip
 

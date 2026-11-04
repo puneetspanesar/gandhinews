@@ -46321,5 +46321,59 @@
    "cx-us-midterms-democrats-win-senate-talarico-brown-flip-0",
    "cx-us-midterms-democrats-win-senate-talarico-brown-flip-1"
   ]
+ },
+ {
+  "id": "cx-us-midterms-collins-concedes-troy-jackson-maine-senate-fl-0",
+  "articleId": "part:us-midterms-collins-concedes-troy-jackson-maine-senate-flip:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Troy_Jackson_in_the_Senate_Chamber_%28cropped%29.jpg",
+  "credit": "ArenLeBrun",
+  "licence": "CC0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Troy_Jackson_in_the_Senate_Chamber_(cropped).jpg"
+ },
+ {
+  "id": "cx-us-midterms-collins-concedes-troy-jackson-maine-senate-fl-1",
+  "articleId": "part:us-midterms-collins-concedes-troy-jackson-maine-senate-flip:1",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Susan_Collins_%2845656264351%29.jpg/1600px-Susan_Collins_%2845656264351%29.jpg",
+  "credit": "Gage Skidmore from Peoria, AZ, United States of America",
+  "licence": "CC BY-SA 2.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Susan_Collins_(45656264351).jpg"
+ },
+ {
+  "id": "x-us-midterms-collins-concedes-troy-jackson-maine-senate-flip",
+  "articleId": "us-midterms-collins-concedes-troy-jackson-maine-senate-flip",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Troy_Jackson_in_the_Senate_Chamber_%28cropped%29.jpg",
+  "credit": "Photos: ArenLeBrun / Wikimedia Commons; Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons",
+  "licence": "CC0, CC BY-SA 2.0",
+  "alt": "Maine Democrat Troy Jackson and Republican Senator Susan Collins (file photo)",
+  "alt_hi": "मेन के डेमोक्रेट ट्रॉय जैक्सन और रिपब्लिकन सीनेटर सूज़न कॉलिन्स (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Troy_Jackson_in_the_Senate_Chamber_(cropped).jpg",
+  "composite": [
+   "cx-us-midterms-collins-concedes-troy-jackson-maine-senate-fl-0",
+   "cx-us-midterms-collins-concedes-troy-jackson-maine-senate-fl-1"
+  ]
+ },
+ {
+  "id": "cx-us-midterms-turek-flips-iowa-senate-hinson--p1-0",
+  "articleId": "part:us-midterms-turek-flips-iowa-senate-hinson--p1:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Ashley_Hinson%2C_official_portrait%2C_117th_Congress_%28cropped%29.jpg",
+  "credit": "Office of Congresswoman Ashley Hinson",
+  "licence": "Public domain",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Ashley_Hinson,_official_portrait,_117th_Congress_(cropped).jpg"
+ },
+ {
+  "id": "x-us-midterms-turek-flips-iowa-senate-hinson--p1",
+  "articleId": "us-midterms-turek-flips-iowa-senate-hinson--p1",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Ashley_Hinson%2C_official_portrait%2C_117th_Congress_%28cropped%29.jpg",
+  "credit": "Photo: Office of Congresswoman Ashley Hinson / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "US Representative Ashley Hinson of Iowa (file photo)",
+  "alt_hi": "आयोवा की अमेरिकी सांसद ऐश्ली हिन्सन (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Ashley_Hinson,_official_portrait,_117th_Congress_(cropped).jpg",
+  "composite": [
+   "cx-us-midterms-turek-flips-iowa-senate-hinson--p1-0"
+  ]
  }
 ]

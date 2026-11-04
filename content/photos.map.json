@@ -27063,5 +27063,98 @@
     "src800": "/photos/i-pawan-khera-modi-parliament-press-conference-debate-dare-hi-640.jpg"
    }
   }
+ },
+ "rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-eden-park": {
+  "id": "i-rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-eden-park",
+  "src": "/photos/i-rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-eden-park-en-3x2-1280.jpg",
+  "src800": "/photos/i-rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-eden-park-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: New Zealand all out for 185",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: न्यूज़ीलैंड 185 पर ऑल आउट",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-eden-park-hi-3x2-1280.jpg",
+    "src800": "/photos/i-rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-eden-park-hi-3x2-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-eden-park-en-1280.jpg",
+    "src800": "/photos/i-rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-eden-park-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-eden-park-hi-1280.jpg",
+    "src800": "/photos/i-rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-eden-park-hi-640.jpg"
+   }
+  }
+ },
+ "us-midterms-turek-flips-iowa-senate-hinson": {
+  "id": "i-us-midterms-turek-flips-iowa-senate-hinson",
+  "src": "/photos/i-us-midterms-turek-flips-iowa-senate-hinson-en-3x2-1280.jpg",
+  "src800": "/photos/i-us-midterms-turek-flips-iowa-senate-hinson-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Josh Turek flips Iowa's Senate seat",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: जोश ट्यूरेक ने आयोवा की सीनेट सीट छीनी",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-us-midterms-turek-flips-iowa-senate-hinson-hi-3x2-1280.jpg",
+    "src800": "/photos/i-us-midterms-turek-flips-iowa-senate-hinson-hi-3x2-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-us-midterms-turek-flips-iowa-senate-hinson-en-1280.jpg",
+    "src800": "/photos/i-us-midterms-turek-flips-iowa-senate-hinson-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-us-midterms-turek-flips-iowa-senate-hinson-hi-1280.jpg",
+    "src800": "/photos/i-us-midterms-turek-flips-iowa-senate-hinson-hi-640.jpg"
+   }
+  }
+ },
+ "us-midterms-collins-concedes-troy-jackson-maine-senate-flip": {
+  "id": "i-us-midterms-collins-concedes-troy-jackson-maine-senate-flip",
+  "src": "/photos/i-us-midterms-collins-concedes-troy-jackson-maine-senate-flip-en-3x2-1280.jpg",
+  "src800": "/photos/i-us-midterms-collins-concedes-troy-jackson-maine-senate-flip-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Troy Jackson unseats Susan Collins",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: ट्रॉय जैक्सन ने सूज़न कॉलिन्स को हराया",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-us-midterms-collins-concedes-troy-jackson-maine-senate-flip-hi-3x2-1280.jpg",
+    "src800": "/photos/i-us-midterms-collins-concedes-troy-jackson-maine-senate-flip-hi-3x2-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-us-midterms-collins-concedes-troy-jackson-maine-senate-flip-en-1280.jpg",
+    "src800": "/photos/i-us-midterms-collins-concedes-troy-jackson-maine-senate-flip-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-us-midterms-collins-concedes-troy-jackson-maine-senate-flip-hi-1280.jpg",
+    "src800": "/photos/i-us-midterms-collins-concedes-troy-jackson-maine-senate-flip-hi-640.jpg"
+   }
+  }
  }
 }
