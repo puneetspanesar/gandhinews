@@ -18,7 +18,7 @@ hero:
     value: "Who controls the tariff switch?"
 infographic:
   kicker: "Explained"
-  headline: "Trump's tariffs on India, and what Congress can do"
+  headline: "Trump's tariffs on India, and what the US Congress can do"
   dek: "Indian goods face a 10% US duty under a law that needs no new vote"
   motif: flag-banner
   stats:
@@ -127,9 +127,6 @@ The same goes for the $100,000 fee on new H-1B visa petitions, which falls heavi
 
 **By slowing the trade talks until the result.** Officials were reported in April to want clarity on the shape of Congress before making tariff commitments. Commerce Minister Piyush Goyal said on 29 July that the first part of the deal was finalised but would come into operation "as soon as the United States is able to ensure that India gets a comparative advantage over its competitors". On 5 October Finance Minister Nirmala Sitharaman said the talks had reached a plateau where more concessions would be "very, very difficult" for both sides.
 
-```photo
-{"n":2,"subject":"Piyush Goyal","caption":"Commerce Minister Piyush Goyal, who has said India's deal with the US will take effect only when India gets an edge over its competitors.","alt":"Piyush Goyal, India's Commerce Minister"}
-```
 
 ## What should Indian exporters watch next?
 

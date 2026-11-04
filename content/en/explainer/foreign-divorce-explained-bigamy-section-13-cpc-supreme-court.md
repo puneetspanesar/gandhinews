@@ -79,9 +79,6 @@ For most commercial disputes the tests are rarely a hurdle. For divorces they of
 
 In a judgment written by Justice P B Sawant on 9 July 1991, the Supreme Court held that a foreign matrimonial decree is recognised only if **both the jurisdiction and the ground match the law under which the couple married**. A short stay abroad does not do: "residence does not mean a temporary residence for the purpose of obtaining a divorce," the court said. Appearing only to object to jurisdiction is not a contest on the merits, and natural justice means more than serving papers; the court must ask whether the other spouse could actually defend the case, including whether they could afford to travel and fight it.
 
-```photo
-{"n":2,"subject":"Tirupati","caption":"Tirupati, where Y Narasimha Rao and Y Venkata Lakshmi married in 1975, the couple whose case set the rule on foreign divorces.","alt":"A view of Tirupati in Andhra Pradesh"}
-```
 
 ## So when will a foreign divorce be accepted?
 

@@ -26600,8 +26600,8 @@
   "credit": "Graphic: Gandhi News",
   "licence": "",
   "graphic": true,
-  "alt": "Gandhi News graphic: Trump's tariffs on India, and what Congress can do",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: भारत पर ट्रंप के टैरिफ, और कांग्रेस क्या कर सकती है",
+  "alt": "Gandhi News graphic: Trump's tariffs on India, and what the US Congress can do",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: भारत पर ट्रंप के टैरिफ, और अमेरिकी कांग्रेस क्या कर सकती है",
   "page": null,
   "byLang": {
    "hi": {
@@ -26650,6 +26650,109 @@
    "hi": {
     "src": "/photos/i-qs-asia-slide-india-universities-must-open-to-the-world-hi-1280.jpg",
     "src800": "/photos/i-qs-asia-slide-india-universities-must-open-to-the-world-hi-640.jpg"
+   }
+  }
+ },
+ "foreign-divorce-explained-bigamy-section-13-cpc-supreme-court": {
+  "id": "v-foreign-divorce-explained-bigamy-section-13-cpc-supreme-cour",
+  "src": "/photos/v-foreign-divorce-explained-bigamy-section-13-cpc-supreme-cour-1280.jpg",
+  "src800": "/photos/v-foreign-divorce-explained-bigamy-section-13-cpc-supreme-cour-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Pinakpani / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Supreme Court of India in New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली में भारत का सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "goa-st-seat-reservation-explained-supreme-court--p1": {
+  "id": "v-goa-st-seat-reservation-explained-supreme-court-p1",
+  "src": "/photos/v-goa-st-seat-reservation-explained-supreme-court-p1-1280.jpg",
+  "src800": "/photos/v-goa-st-seat-reservation-explained-supreme-court-p1-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Frederick Noronha fredericknoronha1@gmail.com from Goa, India, India / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "The building of the Bombay High Court bench at Goa (file photo)",
+  "alt_hi": "गोवा में बॉम्बे हाई कोर्ट पीठ की इमारत (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "goa-st-seat-reservation-explained-supreme-court--p2": {
+  "id": "v-goa-st-seat-reservation-explained-supreme-court-p2",
+  "src": "/photos/v-goa-st-seat-reservation-explained-supreme-court-p2-1280.jpg",
+  "src800": "/photos/v-goa-st-seat-reservation-explained-supreme-court-p2-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Joegoauk Tiatr / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "Goa Chief Minister Pramod Sawant (file photo)",
+  "alt_hi": "गोवा के मुख्यमंत्री प्रमोद सावंत (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "qeshm-island-explained-why-us-strike-hormuz-matters-india--p2": {
+  "id": "v-qeshm-island-explained-why-us-strike-hormuz-matters-ind-p2",
+  "src": "/photos/v-qeshm-island-explained-why-us-strike-hormuz-matters-ind-p2-1280.jpg",
+  "src800": "/photos/v-qeshm-island-explained-why-us-strike-hormuz-matters-ind-p2-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Mahmoud Rahimi / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "Mohammad Bagher Ghalibaf, Speaker of Iran's parliament (file photo)",
+  "alt_hi": "ईरान की संसद के अध्यक्ष मोहम्मद बाक़र ग़ालिबाफ़ (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "qs-asia-slide-india-universities-must-open-to-the-world--p1": {
+  "id": "v-qs-asia-slide-india-universities-must-open-to-the-world-p1",
+  "src": "/photos/v-qs-asia-slide-india-universities-must-open-to-the-world-p1-1280.jpg",
+  "src800": "/photos/v-qs-asia-slide-india-universities-must-open-to-the-world-p1-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Subhransu Panda / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Union Education Minister Dharmendra Pradhan (file photo)",
+  "alt_hi": "केंद्रीय शिक्षा मंत्री धर्मेंद्र प्रधान (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "us-midterms-explained-congress-tariffs-what-it-means-for-india--p1": {
+  "id": "v-us-midterms-explained-congress-tariffs-what-it-means-fo-p1",
+  "src": "/photos/v-us-midterms-explained-congress-tariffs-what-it-means-fo-p1-1280.jpg",
+  "src800": "/photos/v-us-midterms-explained-congress-tariffs-what-it-means-fo-p1-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Office of Representative Hakeem Jeffries / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Hakeem Jeffries, US House Democratic leader (file photo)",
+  "alt_hi": "अमेरिकी हाउस में डेमोक्रेटिक नेता हकीम जेफ्रीज़ (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "coastal-freight-goal-for-2047-needs-milestones-this-decade": {
+  "id": "i-coastal-freight-goal-for-2047-needs-milestones-this-decade",
+  "src": "/photos/i-coastal-freight-goal-for-2047-needs-milestones-this-decade-en-3x2-1280.jpg",
+  "src800": "/photos/i-coastal-freight-goal-for-2047-needs-milestones-this-decade-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Coastal freight goal needs nearer deadlines",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: तटीय माल ढुलाई लक्ष्य को नज़दीकी समय-सीमा चाहिए",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-coastal-freight-goal-for-2047-needs-milestones-this-decade-hi-3x2-1280.jpg",
+    "src800": "/photos/i-coastal-freight-goal-for-2047-needs-milestones-this-decade-hi-3x2-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-coastal-freight-goal-for-2047-needs-milestones-this-decade-en-1280.jpg",
+    "src800": "/photos/i-coastal-freight-goal-for-2047-needs-milestones-this-decade-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-coastal-freight-goal-for-2047-needs-milestones-this-decade-hi-1280.jpg",
+    "src800": "/photos/i-coastal-freight-goal-for-2047-needs-milestones-this-decade-hi-640.jpg"
    }
   }
  }
