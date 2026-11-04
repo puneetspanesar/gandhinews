@@ -45897,5 +45897,91 @@
   "composite": [
    "cx-sonowal-puri-coastal-freight-12-per-cent-2047-cruise-term-0"
   ]
+ },
+ {
+  "id": "cx-misri-lands-kathmandu-today-three-post-diwali-dates-shah-0",
+  "articleId": "part:misri-lands-kathmandu-today-three-post-diwali-dates-shah:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/United_States_Deputy_Secretary_of_Defense_Kathleen_Hicks_meets_with_India_Foreign_Secretary_Vikram_Misri_at_the_Pentagon%2C_USA_on_September_25%2C_2024_-_3.jpg/1600px-United_States_Deputy_Secretary_of_Defense_Kathleen_Hicks_meets_with_India_Foreign_Secretary_Vikram_Misri_at_the_Pentagon%2C_USA_on_September_25%2C_2024_-_3.jpg",
+  "credit": "U.S. Deputy Secretary of Defense Kathleen H. Hicks",
+  "licence": "Public domain",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:United_States_Deputy_Secretary_of_Defense_Kathleen_Hicks_meets_with_India_Foreign_Secretary_Vikram_Misri_at_the_Pentagon,_USA_on_September_25,_2024_-_3.jpg"
+ },
+ {
+  "id": "cx-misri-lands-kathmandu-today-three-post-diwali-dates-shah-1",
+  "articleId": "part:misri-lands-kathmandu-today-three-post-diwali-dates-shah:1",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Balen_Shah_in_May_2024_02.jpg/1600px-Balen_Shah_in_May_2024_02.jpg",
+  "credit": "Metro News",
+  "licence": "CC BY 3.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Balen_Shah_in_May_2024_02.jpg"
+ },
+ {
+  "id": "x-misri-lands-kathmandu-today-three-post-diwali-dates-shah",
+  "articleId": "misri-lands-kathmandu-today-three-post-diwali-dates-shah",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/United_States_Deputy_Secretary_of_Defense_Kathleen_Hicks_meets_with_India_Foreign_Secretary_Vikram_Misri_at_the_Pentagon%2C_USA_on_September_25%2C_2024_-_3.jpg/1600px-United_States_Deputy_Secretary_of_Defense_Kathleen_Hicks_meets_with_India_Foreign_Secretary_Vikram_Misri_at_the_Pentagon%2C_USA_on_September_25%2C_2024_-_3.jpg",
+  "credit": "Photos: U.S. Deputy Secretary of Defense Kathleen H. Hicks / Wikimedia Commons; Metro News / Wikimedia Commons",
+  "licence": "Public domain, CC BY 3.0",
+  "alt": "Foreign Secretary Vikram Misri (file photo)",
+  "alt_hi": "विदेश सचिव विक्रम मिस्री (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:United_States_Deputy_Secretary_of_Defense_Kathleen_Hicks_meets_with_India_Foreign_Secretary_Vikram_Misri_at_the_Pentagon,_USA_on_September_25,_2024_-_3.jpg",
+  "composite": [
+   "cx-misri-lands-kathmandu-today-three-post-diwali-dates-shah-0",
+   "cx-misri-lands-kathmandu-today-three-post-diwali-dates-shah-1"
+  ]
+ },
+ {
+  "id": "cx-psg-six-villarreal-record-bayern-win-madrid-cunha-united-0",
+  "articleId": "part:psg-six-villarreal-record-bayern-win-madrid-cunha-united:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/FABIAN_RUIZ_-_SWE_v_ESP_-_2019.10.15.jpg",
+  "credit": "Rolandhino1",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:FABIAN_RUIZ_-_SWE_v_ESP_-_2019.10.15.jpg"
+ },
+ {
+  "id": "x-psg-six-villarreal-record-bayern-win-madrid-cunha-united",
+  "articleId": "psg-six-villarreal-record-bayern-win-madrid-cunha-united",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/FABIAN_RUIZ_-_SWE_v_ESP_-_2019.10.15.jpg",
+  "credit": "Photo: Rolandhino1 / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Paris Saint-Germain midfielder Fabian Ruiz (file photo)",
+  "alt_hi": "पेरिस सेंट-जर्मेन के मिडफील्डर फाबियान रुइज़ (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:FABIAN_RUIZ_-_SWE_v_ESP_-_2019.10.15.jpg",
+  "composite": [
+   "cx-psg-six-villarreal-record-bayern-win-madrid-cunha-united-0"
+  ]
+ },
+ {
+  "id": "cx-us-midterms-ossoff-holds-georgia-first-results-0",
+  "articleId": "part:us-midterms-ossoff-holds-georgia-first-results:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Senator_Jon_Ossoff_visits_USFK_%28cropped%29.png",
+  "credit": "UNC - CFC - USFK",
+  "licence": "CC BY 2.5",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Senator_Jon_Ossoff_visits_USFK_(cropped).png"
+ },
+ {
+  "id": "cx-us-midterms-ossoff-holds-georgia-first-results-1",
+  "articleId": "part:us-midterms-ossoff-holds-georgia-first-results:1",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg",
+  "credit": "Shealeah Craighead",
+  "licence": "Public domain",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Donald_Trump_official_portrait_(cropped).jpg"
+ },
+ {
+  "id": "x-us-midterms-ossoff-holds-georgia-first-results",
+  "articleId": "us-midterms-ossoff-holds-georgia-first-results",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Senator_Jon_Ossoff_visits_USFK_%28cropped%29.png",
+  "credit": "Photos: UNC - CFC - USFK / Wikimedia Commons; Shealeah Craighead / Wikimedia Commons",
+  "licence": "CC BY 2.5, Public domain",
+  "alt": "US Senator Jon Ossoff of Georgia (file photo)",
+  "alt_hi": "जॉर्जिया के अमेरिकी सीनेटर जॉन ऑसॉफ (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Senator_Jon_Ossoff_visits_USFK_(cropped).png",
+  "composite": [
+   "cx-us-midterms-ossoff-holds-georgia-first-results-0",
+   "cx-us-midterms-ossoff-holds-georgia-first-results-1"
+  ]
  }
 ]
