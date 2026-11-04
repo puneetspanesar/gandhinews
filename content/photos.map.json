@@ -27714,5 +27714,139 @@
     "src800": "/photos/i-lenskart-q2-profit-doubles-jyothy-labs-buyback-hi-640.jpg"
    }
   }
+ },
+ "two-child-norm-explained-javed-ruling-larger-bench": {
+  "id": "i-two-child-norm-explained-javed-ruling-larger-bench",
+  "src": "/photos/i-two-child-norm-explained-javed-ruling-larger-bench-en-3x2-1280.jpg",
+  "src800": "/photos/i-two-child-norm-explained-javed-ruling-larger-bench-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Supreme Court asks a larger bench to revisit Javed",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: जावेद फैसले पर अब बड़ी पीठ करेगी विचार",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-two-child-norm-explained-javed-ruling-larger-bench-hi-3x2-1280.jpg",
+    "src800": "/photos/i-two-child-norm-explained-javed-ruling-larger-bench-hi-3x2-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-two-child-norm-explained-javed-ruling-larger-bench-en-1280.jpg",
+    "src800": "/photos/i-two-child-norm-explained-javed-ruling-larger-bench-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-two-child-norm-explained-javed-ruling-larger-bench-hi-1280.jpg",
+    "src800": "/photos/i-two-child-norm-explained-javed-ruling-larger-bench-hi-640.jpg"
+   }
+  }
+ },
+ "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro--p2": {
+  "id": "v-energy-storage-vgf-explained-why-india-needs-batteries--p2",
+  "src": "/photos/v-energy-storage-vgf-explained-why-india-needs-batteries--p2-1280.jpg",
+  "src800": "/photos/v-energy-storage-vgf-explained-why-india-needs-batteries--p2-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Aariuser I / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0",
+  "alt": "White powder of lithium carbonate (file photo)",
+  "alt_hi": "लिथियम कार्बोनेट का सफ़ेद पाउडर (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell--p1": {
+  "id": "v-child-labour-ban-needs-inspectors-and-rescue-not-just-a-p1",
+  "src": "/photos/v-child-labour-ban-needs-inspectors-and-rescue-not-just-a-p1-1280.jpg",
+  "src800": "/photos/v-child-labour-ban-needs-inspectors-and-rescue-not-just-a-p1-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Prasanta Kr Dutta / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "A child working at a food stall in India (file photo)",
+  "alt_hi": "भारत में खाने के ठेले पर काम करता एक बच्चा (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell": {
+  "id": "v-child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
+  "src": "/photos/v-child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell-1280.jpg",
+  "src800": "/photos/v-child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Sumaira Abdulali / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "A boy mining sand by hand in India (file photo)",
+  "alt_hi": "भारत में हाथ से रेत निकालता एक लड़का (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth--p1": {
+  "id": "v-delhi-voters-struck-off-need-one-clear-form-and-their-n-p1",
+  "src": "/photos/v-delhi-voters-struck-off-need-one-clear-form-and-their-n-p1-1280.jpg",
+  "src800": "/photos/v-delhi-voters-struck-off-need-one-clear-form-and-their-n-p1-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Rogers49 / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Chief Justice of India Surya Kant (file photo)",
+  "alt_hi": "भारत के प्रधान न्यायाधीश सूर्यकांत (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro": {
+  "id": "v-energy-storage-vgf-explained-why-india-needs-batteries-pumpe",
+  "src": "/photos/v-energy-storage-vgf-explained-why-india-needs-batteries-pumpe-1280.jpg",
+  "src800": "/photos/v-energy-storage-vgf-explained-why-india-needs-batteries-pumpe-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Kecko from Eastern Switzerland / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "Battery energy storage containers at a grid site (file photo)",
+  "alt_hi": "ग्रिड स्थल पर बैटरी ऊर्जा भंडारण कंटेनर (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth": {
+  "id": "i-delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth",
+  "src": "/photos/i-delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth-en-3x2-1280.jpg",
+  "src800": "/photos/i-delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Delhi's dropped voters need a simple way back",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: दिल्ली के कटे मतदाताओं को आसान वापसी चाहिए",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth-hi-3x2-1280.jpg",
+    "src800": "/photos/i-delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth-hi-3x2-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth-en-1280.jpg",
+    "src800": "/photos/i-delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth-hi-1280.jpg",
+    "src800": "/photos/i-delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth-hi-640.jpg"
+   }
+  }
+ },
+ "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro--p1": {
+  "id": "v-energy-storage-vgf-explained-why-india-needs-batteries--p1",
+  "src": "/photos/v-energy-storage-vgf-explained-why-india-needs-batteries--p1-1280.jpg",
+  "src800": "/photos/v-energy-storage-vgf-explained-why-india-needs-batteries--p1-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Copernicus Sentinel-2, ESA / Wikimedia Commons",
+  "licence": "Attribution",
+  "alt": "Satellite view of Bhadla Solar Park in Rajasthan (file photo)",
+  "alt_hi": "राजस्थान के भडला सोलर पार्क का उपग्रह चित्र (फ़ाइल फ़ोटो)",
+  "page": null
  }
 }
