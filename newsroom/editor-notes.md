@@ -115,3 +115,10 @@ Owner's note: too many market and sales stories, not enough of the day's real ne
 - Dropped: BJP Zakhm-84 conclave in Chandigarh (day-long event before the window).
 - Editor check NOT run this hour (push deadline). Homepage top eight has two midterms items (Schumer, Alaska) and two economy items; rebalance next run.
 - Markets: nothing new after the close; markets.json unchanged.
+
+## November 5, 2026, 12:25 am (from the 00:00 run)
+- No new stories: all four desks found nothing confirmable after 22:00 IST 4 Nov. Ready for the next run: Alcaraz v Michelsen (Paris Masters, began about 23:30 IST), Fils v Machac (01:00 IST), Champions League AEK v Real Madrid and Fenerbahce v Liverpool (full time about 01:05 IST) and the 01:30 IST games; NLC India Q2 filing; Tarun Tejpal appeal and Bimol Akoijam bail hearings on 5 Nov are previews.
+- Switched off infographics onto real photos: Hijikata/Djokovic, Priyank Kharge, Schumer, Wall Street (NYSE floor).
+- Lead moved to India v NZ first ODI win (still on other front pages); midterms cut to the results strip plus the Schumer slot; Wall Street, Alaska, Jitin Prasada and Delhi SIR graphics moved out of the headlines.
+- Editor FAIL not fixed: Schumer main picture is an old official portrait (quick_photo found no other unused Schumer photo; finder needed for a recent podium photo); ODI lead is an infographic, wants a Kohli batting photo; real photos still wanted for Jitin Prasada, Prashant Bhushan or the Supreme Court (SIR story), J.P. Nadda, Modi (Para Games), Vaishnaw (fast-track courts), Sullivan/Peltola.
+- Markets: nothing new after the close (no readable Brent settle); markets.json unchanged.

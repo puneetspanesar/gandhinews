@@ -1,14 +1,14 @@
 {
  "lead": {
-  "id": "cabinet-fast-track-special-courts-2031-850-courts",
+  "id": "india-beat-new-zealand-five-wickets-dls-eden-park-first-odi",
   "overlay": {
    "kicker": {
-    "en": "India / Courts",
-    "hi": "भारत / अदालतें"
+    "en": "Sports / Cricket",
+    "hi": "खेल / क्रिकेट"
    },
    "value": {
-    "en": "850 fast-track courts, till 2031",
-    "hi": "2031 तक 850 फास्ट ट्रैक अदालतें"
+    "en": "India win by 5 wickets (DLS)",
+    "hi": "भारत 5 विकेट से जीता (DLS)"
    },
    "text": {
     "en": "",
@@ -21,13 +21,13 @@
    "us-midterms-schumer-lower-costs-with-or-without-trump",
    "hijikata-stuns-djokovic-paris-masters-turin-hopes-end",
    "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action",
-   "india-beat-south-korea-8-1-asian-champions-trophy-semi-final-mohali",
-   "wall-street-jumps-dow-1131-democrats-win-congress"
+   "cabinet-fast-track-special-courts-2031-850-courts",
+   "naveen-patnaik-writes-majhi-kotia-andhra-elections"
   ],
   "live": {
    "title": {
-    "en": "Fast-track courts",
-    "hi": "फास्ट ट्रैक अदालतें"
+    "en": "India v New Zealand",
+    "hi": "भारत बनाम न्यूज़ीलैंड"
    }
   }
  },
@@ -78,25 +78,36 @@
     }
    },
    {
-    "link": "wall-street-jumps-dow-1131-democrats-win-congress",
+    "link": "bse-q2-profit-45-per-cent-809-crore-bkc-plot-mmrda",
     "lead": {
-     "en": "Global markets:",
-     "hi": "वैश्विक बाज़ार:"
+     "en": "Markets:",
+     "hi": "बाज़ार:"
     },
     "text": {
-     "en": "Wall Street jumps as Dow gains 1,131 points after Democrats win Congress",
-     "hi": "डेमोक्रेट्स के कांग्रेस जीतने के बाद वॉल स्ट्रीट में उछाल, डाउ 1,131 अंक चढ़ा"
+     "en": "BSE profit jumps 44.9% to Rs 809.15 crore in the September quarter",
+     "hi": "सितंबर तिमाही में बीएसई का मुनाफ़ा 44.9% बढ़कर 809.15 करोड़ रुपये"
     }
    },
    {
-    "link": "us-midterms-alaska-sullivan-peltola-too-close-to-call",
+    "link": "cabinet-fast-track-special-courts-2031-850-courts",
     "lead": {
-     "en": "US midterms:",
-     "hi": "अमेरिकी मध्यावधि चुनाव:"
+     "en": "Courts:",
+     "hi": "अदालतें:"
     },
     "text": {
-     "en": "Dan Sullivan edges ahead of Mary Peltola as Alaska's Senate race stays too close to call",
-     "hi": "अलास्का सीनेट सीट पर कांटे की टक्कर, डैन सुलिवन मैरी पेल्टोला से मामूली अंतर से आगे"
+     "en": "Cabinet extends fast-track courts for rape and POCSO trials till 2031, network to grow to 850",
+     "hi": "दुष्कर्म और पॉक्सो मामलों की फास्ट ट्रैक अदालतें 2031 तक जारी रहेंगी, संख्या बढ़कर 850 होगी"
+    }
+   },
+   {
+    "link": "india-beat-new-zealand-five-wickets-dls-eden-park-first-odi",
+    "lead": {
+     "en": "Cricket:",
+     "hi": "क्रिकेट:"
+    },
+    "text": {
+     "en": "India chase down a revised 143 to beat New Zealand by five wickets (DLS) in the first ODI",
+     "hi": "संशोधित 143 का लक्ष्य हासिल कर भारत ने पहले वनडे में न्यूज़ीलैंड को 5 विकेट (DLS) से हराया"
     }
    },
    {
@@ -108,17 +119,6 @@
     "text": {
      "en": "Naveen Patnaik urges Majhi to take up Kotia at 'highest level' before Andhra polls",
      "hi": "आंध्र के चुनाव से पहले नवीन पटनायक ने माझी से कहा, कोटिया का मुद्दा 'सर्वोच्च स्तर' पर उठाएं"
-    }
-   },
-   {
-    "link": "nykaa-physicswallah-q2-profit-nearly-triples-doubles",
-    "lead": {
-     "en": "Companies:",
-     "hi": "कंपनियां:"
-    },
-    "text": {
-     "en": "Nykaa's profit nearly triples and PhysicsWallah's doubles in the September quarter",
-     "hi": "सितंबर तिमाही में नायका का मुनाफा करीब तिगुना, फिजिक्सवाला का दोगुना"
     }
    }
   ]
@@ -186,19 +186,19 @@
  },
  "topStories": {
   "big": {
-   "id": "us-midterms-alaska-sullivan-peltola-too-close-to-call",
+   "id": "bse-q2-profit-45-per-cent-809-crore-bkc-plot-mmrda",
    "also": []
   },
   "list": [
-   "naveen-patnaik-writes-majhi-kotia-andhra-elections",
-   "nykaa-physicswallah-q2-profit-nearly-triples-doubles",
-   "jairam-ramesh-vb-g-ram-g-grievance-rules-jumla",
-   "bse-q2-profit-45-per-cent-809-crore-bkc-plot-mmrda",
-   "siraj-to-join-india-odi-squad-wellington-missed-auckland"
+   "india-beat-south-korea-8-1-asian-champions-trophy-semi-final-mohali",
+   "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth",
+   "supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board",
+   "rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs",
+   "two-child-norm-explained-javed-ruling-larger-bench"
   ],
   "also": [
-   "dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend",
-   "nadda-bhopal-loktantra-bachao-march-emergency-rahul"
+   "jairam-ramesh-vb-g-ram-g-grievance-rules-jumla",
+   "rbi-financial-markets-consultative-committee-rohit-jain"
   ]
  },
  "startHere": [
