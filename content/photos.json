@@ -46181,5 +46181,81 @@
   "composite": [
    "cx-us-midterms-explained-congress-tariffs-what-it-means-for--0b"
   ]
+ },
+ {
+  "id": "cx-us-midterms-results-cooper-flips-north-carolina-senate-0",
+  "articleId": "part:us-midterms-results-cooper-flips-north-carolina-senate:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Roy_Cooper_at_Roy_Cooper_Rally_April_2026-2_%28cropped%29.jpg/1600px-Roy_Cooper_at_Roy_Cooper_Rally_April_2026-2_%28cropped%29.jpg",
+  "credit": "NetwonsBucket",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Roy_Cooper_at_Roy_Cooper_Rally_April_2026-2_(cropped).jpg"
+ },
+ {
+  "id": "cx-us-midterms-results-cooper-flips-north-carolina-senate-1",
+  "articleId": "part:us-midterms-results-cooper-flips-north-carolina-senate:1",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Michael_Whatley_%2853809322795%29_%28cropped%29.jpg/1600px-Michael_Whatley_%2853809322795%29_%28cropped%29.jpg",
+  "credit": "Gage Skidmore from Surprise, AZ, United States of America",
+  "licence": "CC BY-SA 2.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Michael_Whatley_(53809322795)_(cropped).jpg"
+ },
+ {
+  "id": "x-us-midterms-results-cooper-flips-north-carolina-senate",
+  "articleId": "us-midterms-results-cooper-flips-north-carolina-senate",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Roy_Cooper_at_Roy_Cooper_Rally_April_2026-2_%28cropped%29.jpg/1600px-Roy_Cooper_at_Roy_Cooper_Rally_April_2026-2_%28cropped%29.jpg",
+  "credit": "Photos: NetwonsBucket / Wikimedia Commons; Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0, CC BY-SA 2.0",
+  "alt": "Roy Cooper, former governor of North Carolina (file photo)",
+  "alt_hi": "नॉर्थ कैरोलाइना के पूर्व गवर्नर रॉय कूपर (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Roy_Cooper_at_Roy_Cooper_Rally_April_2026-2_(cropped).jpg",
+  "composite": [
+   "cx-us-midterms-results-cooper-flips-north-carolina-senate-0",
+   "cx-us-midterms-results-cooper-flips-north-carolina-senate-1"
+  ]
+ },
+ {
+  "id": "cx-jaishankar-chogm-antigua-dpi-ftas-executive-session-0",
+  "articleId": "part:jaishankar-chogm-antigua-dpi-ftas-executive-session:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Indian_Foreign_Minister_Subrahmanyam_Jaishankar_at_The_Pentagon_on_September_29%2C_2023_-_%28cropped%29.jpg",
+  "credit": "U.S. Secretary of Defense",
+  "licence": "CC BY 2.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Indian_Foreign_Minister_Subrahmanyam_Jaishankar_at_The_Pentagon_on_September_29,_2023_-_(cropped).jpg"
+ },
+ {
+  "id": "x-jaishankar-chogm-antigua-dpi-ftas-executive-session",
+  "articleId": "jaishankar-chogm-antigua-dpi-ftas-executive-session",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Indian_Foreign_Minister_Subrahmanyam_Jaishankar_at_The_Pentagon_on_September_29%2C_2023_-_%28cropped%29.jpg",
+  "credit": "Photo: U.S. Secretary of Defense / Wikimedia Commons",
+  "licence": "CC BY 2.0",
+  "alt": "External Affairs Minister S. Jaishankar (file photo)",
+  "alt_hi": "विदेश मंत्री एस. जयशंकर (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Indian_Foreign_Minister_Subrahmanyam_Jaishankar_at_The_Pentagon_on_September_29,_2023_-_(cropped).jpg",
+  "composite": [
+   "cx-jaishankar-chogm-antigua-dpi-ftas-executive-session-0"
+  ]
+ },
+ {
+  "id": "cx-india-nz-first-odi-eden-park-ranji-day-three-preview-0",
+  "articleId": "part:india-nz-first-odi-eden-park-ranji-day-three-preview:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Shubman_Gill_2023.jpg",
+  "credit": "Bollywood Hungama",
+  "licence": "CC BY 3.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Shubman_Gill_2023.jpg"
+ },
+ {
+  "id": "x-india-nz-first-odi-eden-park-ranji-day-three-preview",
+  "articleId": "india-nz-first-odi-eden-park-ranji-day-three-preview",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Shubman_Gill_2023.jpg",
+  "credit": "Photo: Bollywood Hungama / Wikimedia Commons",
+  "licence": "CC BY 3.0",
+  "alt": "India captain Shubman Gill (file photo)",
+  "alt_hi": "भारत के कप्तान शुभमन गिल (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Shubman_Gill_2023.jpg",
+  "composite": [
+   "cx-india-nz-first-odi-eden-park-ranji-day-three-preview-0"
+  ]
  }
 ]
