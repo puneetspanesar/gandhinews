@@ -46800,5 +46800,81 @@
   "composite": [
    "cx-wall-street-jumps-dow-1131-democrats-win-congress--p2-0"
   ]
+ },
+ {
+  "id": "cx-hijikata-stuns-djokovic-paris-masters-turin-hopes-end-0",
+  "articleId": "part:hijikata-stuns-djokovic-paris-masters-turin-hopes-end:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rinky_Hijikata_%282023_Cary%29_01a_%28cropped%29.jpg/1600px-Rinky_Hijikata_%282023_Cary%29_01a_%28cropped%29.jpg",
+  "credit": "Hameltion",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Rinky_Hijikata_(2023_Cary)_01a_(cropped).jpg"
+ },
+ {
+  "id": "cx-hijikata-stuns-djokovic-paris-masters-turin-hopes-end-1",
+  "articleId": "part:hijikata-stuns-djokovic-paris-masters-turin-hopes-end:1",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Novak_Djokovic_at_ATP_2015.jpg",
+  "credit": "Iman Farzin",
+  "licence": "CC BY 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Novak_Djokovic_at_ATP_2015.jpg"
+ },
+ {
+  "id": "x-hijikata-stuns-djokovic-paris-masters-turin-hopes-end",
+  "articleId": "hijikata-stuns-djokovic-paris-masters-turin-hopes-end",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rinky_Hijikata_%282023_Cary%29_01a_%28cropped%29.jpg/1600px-Rinky_Hijikata_%282023_Cary%29_01a_%28cropped%29.jpg",
+  "credit": "Photos: Hameltion / Wikimedia Commons; Iman Farzin / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0, CC BY 4.0",
+  "alt": "Rinky Hijikata and Novak Djokovic (file photo)",
+  "alt_hi": "रिंकी हिजिकाटा और नोवाक जोकोविच (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Rinky_Hijikata_(2023_Cary)_01a_(cropped).jpg",
+  "composite": [
+   "cx-hijikata-stuns-djokovic-paris-masters-turin-hopes-end-0",
+   "cx-hijikata-stuns-djokovic-paris-masters-turin-hopes-end-1"
+  ]
+ },
+ {
+  "id": "cx-priyank-kharge-warns-vijayendra-narayanaswamy-legal-actio-0",
+  "articleId": "part:priyank-kharge-warns-vijayendra-narayanaswamy-legal-action:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Priyank_Kharge_%282026%29_01.jpg",
+  "credit": "VISHWAVANI TV",
+  "licence": "CC BY 3.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Priyank_Kharge_(2026)_01.jpg"
+ },
+ {
+  "id": "x-priyank-kharge-warns-vijayendra-narayanaswamy-legal-action",
+  "articleId": "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Priyank_Kharge_%282026%29_01.jpg",
+  "credit": "Photo: VISHWAVANI TV / Wikimedia Commons",
+  "licence": "CC BY 3.0",
+  "alt": "Karnataka minister Priyank Kharge (file photo)",
+  "alt_hi": "कर्नाटक के मंत्री प्रियांक खड़गे (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Priyank_Kharge_(2026)_01.jpg",
+  "composite": [
+   "cx-priyank-kharge-warns-vijayendra-narayanaswamy-legal-actio-0"
+  ]
+ },
+ {
+  "id": "cx-us-midterms-schumer-lower-costs-with-or-without-trump-0",
+  "articleId": "part:us-midterms-schumer-lower-costs-with-or-without-trump:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Chuck_Schumer_113th_Congress.jpg",
+  "credit": "US Congress",
+  "licence": "Public domain",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Chuck_Schumer_113th_Congress.jpg"
+ },
+ {
+  "id": "x-us-midterms-schumer-lower-costs-with-or-without-trump",
+  "articleId": "us-midterms-schumer-lower-costs-with-or-without-trump",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Chuck_Schumer_113th_Congress.jpg",
+  "credit": "Photo: US Congress / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "Senate Democratic leader Chuck Schumer (file photo)",
+  "alt_hi": "सीनेट में डेमोक्रेटिक नेता चक शूमर (फाइल फोटो) (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Chuck_Schumer_113th_Congress.jpg",
+  "composite": [
+   "cx-us-midterms-schumer-lower-costs-with-or-without-trump-0"
+  ]
  }
 ]
