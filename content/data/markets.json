@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-04T15:55:00+05:30",
+  "as_of": "2026-11-04T17:13:00+05:30",
   "status": "closed",
   "session_date": "2026-11-04",
   "chart": "nifty-50",
@@ -199,34 +199,49 @@
       "source": "https://upstox.com/news/market-news/stocks/market-wrap-nov-4-sensex-rises-383-pts-nifty-50-ends-at-23-960-nifty-smallcap-100-jumps-2-bel-top-gainer/article-202977/"
     },
     {
-      "id": "nifty-it",
-      "name": "Nifty IT",
-      "name_hi": "निफ्टी आईटी",
-      "value": 32340,
-      "change": null,
-      "pct": -0.65,
-      "history": [],
-      "source": "https://hdfcsky.com/news/bse-nse-sensex-november-4-2026-open-report-bulls-continue-rampage-as-sensex-nifty-rise-on-cooling-oil-amid-us-elections-fpi-inflows"
+      "id": "nifty-bank",
+      "name": "Nifty Bank",
+      "name_hi": "निफ्टी बैंक",
+      "value": 55913.6,
+      "change": 373.55,
+      "pct": 0.67,
+      "history": [
+        {
+          "date": "2026-11-04",
+          "close": 55913.6
+        }
+      ],
+      "source": "https://blog.liquide.life/share-market-today-nifty-reclaims-23-950-sensex-gains-383-points-as-metal-realty-and-energy-stocks-lead-rally/"
     },
     {
-      "id": "nifty-midcap-150",
-      "name": "Nifty Midcap 150",
-      "name_hi": "निफ्टी मिडकैप 150",
-      "value": 21047.5,
+      "id": "nifty-midcap-100",
+      "name": "Nifty Midcap 100",
+      "name_hi": "निफ्टी मिडकैप 100",
+      "value": 59505.5,
       "change": null,
-      "pct": null,
-      "history": [],
-      "source": "https://hdfcsky.com/news/weekly-stock-market-review-october-26-30-2026-nifty-reclaims-23053-as-pharma-surges-6-1percent-jio-platforms-lists-at-21percent-premium-fiis-return-with-rs3599-crore"
+      "pct": 1.55,
+      "history": [
+        {
+          "date": "2026-11-04",
+          "close": 59505.5
+        }
+      ],
+      "source": "https://www.5paisa.com/blog/post-market-update-nifty-gains-5th-day-two-month-high-smallcap-jumps-november-4-2026"
     },
     {
       "id": "india-vix",
       "name": "India VIX",
       "name_hi": "इंडिया VIX",
-      "value": 16.06,
-      "change": null,
-      "pct": 2.14,
-      "history": [],
-      "source": "https://hdfcsky.com/news/bse-nse-sensex-november-4-2026-open-report-bulls-continue-rampage-as-sensex-nifty-rise-on-cooling-oil-amid-us-elections-fpi-inflows"
+      "value": 15.23,
+      "change": -0.54,
+      "pct": -3.44,
+      "history": [
+        {
+          "date": "2026-11-04",
+          "close": 15.23
+        }
+      ],
+      "source": "https://hdfcsky.com/news/india-vix-slips-3-44percent-to-15-23-as-volatility-eases-post-month-end-derivatives-expiry-november-4-2026"
     }
   ],
   "rates": [
@@ -234,12 +249,12 @@
       "id": "usd-inr",
       "name": "Rupee per dollar",
       "name_hi": "रुपया प्रति डॉलर",
-      "value": 94.61,
-      "change": -0.14,
-      "pct": -0.15,
+      "value": 94.64,
+      "change": -0.1,
+      "pct": -0.11,
       "decimals": 2,
       "unit": "",
-      "source": "https://www.etvbharat.com/en/business/rupee-us-dollar-exchange-rat-eon-november-4-2026-enn26110401065"
+      "source": "https://www.5paisa.com/blog/post-market-update-nifty-gains-5th-day-two-month-high-smallcap-jumps-november-4-2026"
     },
     {
       "id": "brent",
@@ -247,11 +262,11 @@
       "name_hi": "ब्रेंट क्रूड",
       "unit": "$/barrel",
       "unit_hi": "$/बैरल",
-      "value": 102.71,
-      "change": -0.89,
-      "pct": -0.86,
+      "value": 102.55,
+      "change": null,
+      "pct": null,
       "decimals": 2,
-      "source": "https://hdfcsky.com/news/bse-nse-sensex-november-4-2026-open-report-bulls-continue-rampage-as-sensex-nifty-rise-on-cooling-oil-amid-us-elections-fpi-inflows"
+      "source": "https://www.kotakneo.com/news/market-news/markets-end-higher-after-range-bound-session/"
     },
     {
       "id": "gold",
@@ -259,11 +274,11 @@
       "name_hi": "सोना",
       "unit": "₹/10 g, MCX",
       "unit_hi": "₹/10 ग्राम, MCX",
-      "value": 139284,
-      "change": -168,
-      "pct": -0.12,
+      "value": 142695,
+      "change": null,
+      "pct": 2.33,
       "decimals": 0,
-      "source": "https://www.goodreturns.in/news/gold-rates-silver-rates-today-4-11-2026-live-spot-gold-mcx-gold-silver-price-24k-22k-18k-gold-prices-1545099.html"
+      "source": "https://www.kotakneo.com/news/market-news/markets-end-higher-after-range-bound-session/"
     },
     {
       "id": "silver",
@@ -271,11 +286,11 @@
       "name_hi": "चांदी",
       "unit": "₹/kg, MCX",
       "unit_hi": "₹/किलो, MCX",
-      "value": 177803,
+      "value": 186800,
       "change": null,
-      "pct": null,
+      "pct": 3.95,
       "decimals": 0,
-      "source": "https://www.goodreturns.in/news/gold-rates-silver-rates-today-4-11-2026-live-spot-gold-mcx-gold-silver-price-24k-22k-18k-gold-prices-1545099.html"
+      "source": "https://www.kotakneo.com/news/market-news/markets-end-higher-after-range-bound-session/"
     },
     {
       "id": "gsec-10y",
@@ -313,37 +328,84 @@
         "pct": 3.53
       }
     ],
-    "losers": [],
-    "source": "https://upstox.com/news/market-news/stocks/market-wrap-nov-4-sensex-rises-383-pts-nifty-50-ends-at-23-960-nifty-smallcap-100-jumps-2-bel-top-gainer/article-202977/"
+    "losers": [
+      {
+        "name": "TCS",
+        "pct": -2.52
+      },
+      {
+        "name": "HCL Tech",
+        "pct": -2.37
+      },
+      {
+        "name": "Coal India",
+        "pct": -2.05
+      },
+      {
+        "name": "Infosys",
+        "pct": -1.73
+      }
+    ],
+    "source": "https://hdfcsky.com/news/market-close-report-today-november-4-2026-diwali-party-continues-as-democrats-seize-congress-in-blow-for-trump"
   },
   "sectors": [
     {
+      "name": "Media",
+      "name_hi": "मीडिया",
+      "pct": 5.15
+    },
+    {
+      "name": "Realty",
+      "name_hi": "रियल्टी",
+      "pct": 2.85
+    },
+    {
+      "name": "Metal",
+      "name_hi": "मेटल",
+      "pct": 2.8
+    },
+    {
+      "name": "Energy",
+      "name_hi": "एनर्जी",
+      "pct": 2.17
+    },
+    {
+      "name": "Consumer Durables",
+      "name_hi": "कंज्यूमर ड्यूरेबल्स",
+      "pct": 2.04
+    },
+    {
       "name": "FMCG",
       "name_hi": "एफएमसीजी",
-      "pct": 1.09
+      "pct": 1.5
     },
     {
-      "name": "Cement",
-      "name_hi": "सीमेंट",
-      "pct": 0.99
+      "name": "Auto",
+      "name_hi": "ऑटो",
+      "pct": 1.16
     },
     {
-      "name": "Financial Services 25/50",
-      "name_hi": "वित्तीय सेवाएं 25/50",
-      "pct": 0.6
+      "name": "Financial Services",
+      "name_hi": "वित्तीय सेवाएं",
+      "pct": 0.88
     },
     {
-      "name": "India Defence",
-      "name_hi": "इंडिया डिफेंस",
-      "pct": -0.4
+      "name": "Bank",
+      "name_hi": "बैंक",
+      "pct": 0.67
     },
     {
-      "name": "Capital Markets",
-      "name_hi": "कैपिटल मार्केट्स",
-      "pct": -0.86
+      "name": "Pharma",
+      "name_hi": "फार्मा",
+      "pct": 0.42
+    },
+    {
+      "name": "IT",
+      "name_hi": "आईटी",
+      "pct": -1.5
     }
   ],
-  "sectors_source": "https://hdfcsky.com/news/bse-nse-sensex-november-4-2026-open-report-bulls-continue-rampage-as-sensex-nifty-rise-on-cooling-oil-amid-us-elections-fpi-inflows (early-trade figures, article published 10:25 IST, no exact time given)",
+  "sectors_source": "https://www.5paisa.com/blog/post-market-update-nifty-gains-5th-day-two-month-high-smallcap-jumps-november-4-2026 (Media, Realty, Metal, Energy, FMCG, Auto, IT); https://blog.liquide.life/share-market-today-nifty-reclaims-23-950-sensex-gains-383-points-as-metal-realty-and-energy-stocks-lead-rally/ (Consumer Durables, Financial Services, Bank, Pharma)",
   "flows": {
     "date": "2026-11-03",
     "fii": 6836.81,
@@ -353,6 +415,6 @@
   },
   "notes": [
     "4 Nov, read 13:20 IST: Sensex and Nifty 50 at about 11:44 IST from Kotak Neo midday report (newest found). Other indices, rates, movers and sectors kept from the early-trade read (ETV Bharat, HDFC Sky, Goodreturns, 09:36 to 10:25); midday report gave no figures for them.",
-    "Nov 4 close: Sensex and Nifty 50 from Upstox market wrap; Bank Nifty, midcap, VIX, rates and sectors not refreshed (no source read). Flows are Nov 3 provisional."
+    "Nov 4 close, read 17:13 IST: Sensex/Nifty 50 from Upstox wrap. Nifty Bank from Liquide (page calls it a market snapshot, published 16:44 IST). Nifty Midcap 100 level and pct from 5paisa (no point change given); tile switched from Midcap 150 and Nifty IT tile replaced by Nifty Bank per format. India VIX 15.23 is HDFC Sky's 15:44 IST reading, not labelled official close. Rupee close 94.64 (prev 94.74) from 5paisa. Brent ($102.55, Jan futures) and MCX gold/silver are Kotak Neo intraday reads at about 15:35 IST; Brent pct not given. Movers from HDFC Sky close report. FII/DII flows still Nov 3: no Nov 4 NSE provisional figures found; 10-year G-sec not refreshed."
   ]
 }
