@@ -28162,45 +28162,16 @@
   }
  },
  "bse-q2-profit-45-per-cent-809-crore-bkc-plot-mmrda": {
-  "id": "i-bse-q2-profit-45-per-cent-809-crore-bkc-plot-mmrda",
-  "src": "/photos/i-bse-q2-profit-45-per-cent-809-crore-bkc-plot-mmrda-en-3x2-1280.jpg",
-  "src800": "/photos/i-bse-q2-profit-45-per-cent-809-crore-bkc-plot-mmrda-en-3x2-640.jpg",
+  "id": "r-bse-q2-profit-45-per-cent-809-crore-bkc-plot-mmrda",
+  "src": "/photos/r-bse-q2-profit-45-per-cent-809-crore-bkc-plot-mmrda-1280.jpg",
+  "src800": "/photos/r-bse-q2-profit-45-per-cent-809-crore-bkc-plot-mmrda-640.jpg",
   "width": 1280,
-  "height": 853,
-  "credit": "Graphic: Gandhi News",
-  "licence": "",
-  "graphic": true,
-  "alt": "Gandhi News graphic: BSE profit rises 45% from a year ago",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: बीएसई का मुनाफा सालाना 45% बढ़ा",
-  "page": null,
-  "byLang": {
-   "hi": {
-    "src": "/photos/i-bse-q2-profit-45-per-cent-809-crore-bkc-plot-mmrda-hi-3x2-1280.jpg",
-    "src800": "/photos/i-bse-q2-profit-45-per-cent-809-crore-bkc-plot-mmrda-hi-3x2-640.jpg"
-   }
-  },
-  "thumb": {
-   "en": {
-    "src": "/photos/i-bse-q2-profit-45-per-cent-809-crore-bkc-plot-mmrda-en-t-1280.jpg",
-    "src800": "/photos/i-bse-q2-profit-45-per-cent-809-crore-bkc-plot-mmrda-en-t-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-bse-q2-profit-45-per-cent-809-crore-bkc-plot-mmrda-hi-t-1280.jpg",
-    "src800": "/photos/i-bse-q2-profit-45-per-cent-809-crore-bkc-plot-mmrda-hi-t-640.jpg"
-   }
-  },
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/i-bse-q2-profit-45-per-cent-809-crore-bkc-plot-mmrda-en-1280.jpg",
-    "src800": "/photos/i-bse-q2-profit-45-per-cent-809-crore-bkc-plot-mmrda-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-bse-q2-profit-45-per-cent-809-crore-bkc-plot-mmrda-hi-1280.jpg",
-    "src800": "/photos/i-bse-q2-profit-45-per-cent-809-crore-bkc-plot-mmrda-hi-640.jpg"
-   }
-  }
+  "height": 960,
+  "credit": "Photo: Wikimedia commons / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Bombay Stock Exchange on Dalal Street, Mumbai",
+  "alt_hi": "मुंबई के दलाल स्ट्रीट पर बॉम्बे स्टॉक एक्सचेंज",
+  "page": "https://commons.wikimedia.org/wiki/File:Dalal_street_of_India.jpg"
  },
  "nykaa-physicswallah-q2-profit-nearly-triples-doubles": {
   "id": "i-nykaa-physicswallah-q2-profit-nearly-triples-doubles",
@@ -28240,6 +28211,47 @@
    "hi": {
     "src": "/photos/i-nykaa-physicswallah-q2-profit-nearly-triples-doubles-hi-1280.jpg",
     "src800": "/photos/i-nykaa-physicswallah-q2-profit-nearly-triples-doubles-hi-640.jpg"
+   }
+  }
+ },
+ "siraj-to-join-india-odi-squad-wellington-missed-auckland": {
+  "id": "i-siraj-to-join-india-odi-squad-wellington-missed-auckland",
+  "src": "/photos/i-siraj-to-join-india-odi-squad-wellington-missed-auckland-en-3x2-1280.jpg",
+  "src800": "/photos/i-siraj-to-join-india-odi-squad-wellington-missed-auckland-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Siraj joins ODI squad for Wellington",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: वेलिंगटन में वनडे टीम से जुड़ेंगे सिराज",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-siraj-to-join-india-odi-squad-wellington-missed-auckland-hi-3x2-1280.jpg",
+    "src800": "/photos/i-siraj-to-join-india-odi-squad-wellington-missed-auckland-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-siraj-to-join-india-odi-squad-wellington-missed-auckland-en-t-1280.jpg",
+    "src800": "/photos/i-siraj-to-join-india-odi-squad-wellington-missed-auckland-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-siraj-to-join-india-odi-squad-wellington-missed-auckland-hi-t-1280.jpg",
+    "src800": "/photos/i-siraj-to-join-india-odi-squad-wellington-missed-auckland-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-siraj-to-join-india-odi-squad-wellington-missed-auckland-en-1280.jpg",
+    "src800": "/photos/i-siraj-to-join-india-odi-squad-wellington-missed-auckland-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-siraj-to-join-india-odi-squad-wellington-missed-auckland-hi-1280.jpg",
+    "src800": "/photos/i-siraj-to-join-india-odi-squad-wellington-missed-auckland-hi-640.jpg"
    }
   }
  }

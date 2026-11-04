@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "supreme-court-two-child-norm-javed-larger-bench",
+    "id": "us-midterms-democrats-230-house-seats-economy-hegseth-blame",
     "overlay": {
       "kicker": {
-        "en": "Politics / Courts",
-        "hi": "राजनीति / अदालत"
+        "en": "World / US midterms",
+        "hi": "दुनिया / अमेरिकी मध्यावधि चुनाव"
       },
       "value": {
-        "en": "Two-child rule sent to a larger bench",
-        "hi": "दो बच्चों का नियम बड़ी पीठ के पास"
+        "en": "Democrats head past 230 House seats",
+        "hi": "डेमोक्रेट्स 230 सीटों के पार की ओर"
       },
       "text": {
         "en": "",
@@ -17,16 +17,16 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "two-child-norm-explained-javed-ruling-larger-bench",
-      "supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board",
-      "supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification"
+      "us-midterms-democrats-oust-spartz-van-orden-steil-house-jeffries",
+      "us-midterms-democrats-win-senate-talarico-brown-flip",
+      "us-midterms-democrats-win-house-senate-in-balance"
     ],
     "relatedBeside": [
-      "nadda-bhopal-loktantra-bachao-march-emergency-rahul",
-      "cabinet-energy-storage-vgf-14500-crore-critical-minerals-2814",
+      "himanta-purnea-rally-rahul-bangladesh-seemanchal-sir",
       "india-beat-new-zealand-five-wickets-dls-eden-park-first-odi",
-      "us-midterms-democrats-230-house-seats-economy-hegseth-blame",
-      "himanta-purnea-rally-rahul-bangladesh-seemanchal-sir"
+      "nykaa-physicswallah-q2-profit-nearly-triples-doubles",
+      "dewas-inspector-dilip-puri-accused-shot-leg-custody",
+      "siraj-to-join-india-odi-squad-wellington-missed-auckland"
     ],
     "live": {
       "title": {
@@ -37,6 +37,28 @@
   },
   "briefing": {
     "items": [
+      {
+        "link": "siraj-to-join-india-odi-squad-wellington-missed-auckland",
+        "lead": {
+          "en": "Cricket:",
+          "hi": "क्रिकेट:"
+        },
+        "text": {
+          "en": "Mohammed Siraj to join India's ODI squad in Wellington before the second match on November 7",
+          "hi": "दूसरे वनडे से पहले मोहम्मद सिराज वेलिंगटन में भारतीय टीम से जुड़ेंगे"
+        }
+      },
+      {
+        "link": "nykaa-physicswallah-q2-profit-nearly-triples-doubles",
+        "lead": {
+          "en": "Companies:",
+          "hi": "कंपनियां:"
+        },
+        "text": {
+          "en": "Nykaa's profit nearly triples and PhysicsWallah's doubles in the September quarter",
+          "hi": "सितंबर तिमाही में नायका का मुनाफा करीब तिगुना, फिजिक्सवाला का दोगुना"
+        }
+      },
       {
         "link": "nadda-bhopal-loktantra-bachao-march-emergency-rahul",
         "lead": {
@@ -49,14 +71,25 @@
         }
       },
       {
-        "link": "cabinet-energy-storage-vgf-14500-crore-critical-minerals-2814",
+        "link": "himanta-purnea-rally-rahul-bangladesh-seemanchal-sir",
         "lead": {
-          "en": "Policy:",
-          "hi": "नीति:"
+          "en": "Bihar:",
+          "hi": "बिहार:"
         },
         "text": {
-          "en": "Cabinet clears ₹14,500 crore to build 92 GWh of energy storage and ₹2,814 crore for lithium, nickel plants",
-          "hi": "कैबिनेट ने 92 GWh ऊर्जा भंडारण के लिए ₹14,500 करोड़ और लिथियम-निकल संयंत्रों के लिए ₹2,814 करोड़ मंजूर किए"
+          "en": "Himanta says he will 'send Rahul Gandhi to Bangladesh', demands fresh SIR in Seemanchal",
+          "hi": "हिमंत बोले, 'राहुल गांधी को बांग्लादेश भेजेंगे', सीमांचल में नए SIR की मांग"
+        }
+      },
+      {
+        "link": "rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs",
+        "lead": {
+          "en": "Punjab:",
+          "hi": "पंजाब:"
+        },
+        "text": {
+          "en": "Rahul Gandhi attacks Bhagwant Mann over drugs at the Sangrur Insaaf rally",
+          "hi": "संगरूर इंसाफ रैली में राहुल गांधी का नशे पर भगवंत मान पर हमला"
         }
       },
       {
@@ -82,47 +115,14 @@
         }
       },
       {
-        "link": "himanta-purnea-rally-rahul-bangladesh-seemanchal-sir",
+        "link": "supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification",
         "lead": {
-          "en": "Bihar:",
-          "hi": "बिहार:"
+          "en": "Supreme Court:",
+          "hi": "सुप्रीम कोर्ट:"
         },
         "text": {
-          "en": "Himanta says he will 'send Rahul Gandhi to Bangladesh', demands fresh SIR in Seemanchal",
-          "hi": "हिमंत बोले, 'राहुल गांधी को बांग्लादेश भेजेंगे', सीमांचल में नए SIR की मांग"
-        }
-      },
-      {
-        "link": "jitin-prasada-warsaw-wb-group-creotech-india-poland-ties",
-        "lead": {
-          "en": "Trade:",
-          "hi": "व्यापार:"
-        },
-        "text": {
-          "en": "Jitin Prasada meets Polish defence, space and IT bosses in Warsaw",
-          "hi": "जितिन प्रसाद ने वारसॉ में पोलैंड की रक्षा, अंतरिक्ष और आईटी कंपनियों के प्रमुखों से मुलाकात की"
-        }
-      },
-      {
-        "link": "dewas-inspector-dilip-puri-accused-shot-leg-custody",
-        "lead": {
-          "en": "Madhya Pradesh:",
-          "hi": "मध्य प्रदेश:"
-        },
-        "text": {
-          "en": "Accused in Dewas inspector's killing shot in leg, police say he tried to flee custody",
-          "hi": "देवास में इंस्पेक्टर की मौत का आरोपी पैर में गोली लगने से घायल, पुलिस बोली हिरासत से भागने की कोशिश की"
-        }
-      },
-      {
-        "link": "jaishankar-chogm-antigua-dpi-ftas-executive-session",
-        "lead": {
-          "en": "Diplomacy:",
-          "hi": "कूटनीति:"
-        },
-        "text": {
-          "en": "Jaishankar pitches India's digital public infrastructure and trade deals to Commonwealth leaders in Antigua",
-          "hi": "एंटीगा में जयशंकर ने राष्ट्रमंडल नेताओं के सामने रखा भारत का डिजिटल ढांचा और व्यापार समझौते"
+          "en": "MP Speaker gets two months to decide on Nirmala Sapre's disqualification",
+          "hi": "निर्मला सप्रे की अयोग्यता पर फैसले के लिए मध्य प्रदेश स्पीकर को दो महीने"
         }
       }
     ]
@@ -190,19 +190,19 @@
   },
   "topStories": {
     "big": {
-      "id": "jitin-prasada-warsaw-wb-group-creotech-india-poland-ties",
+      "id": "rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs",
       "also": []
     },
-    "list": [
-      "dewas-inspector-dilip-puri-accused-shot-leg-custody",
-      "jaishankar-chogm-antigua-dpi-ftas-executive-session",
-      "dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend",
-      "rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs",
-      "supreme-court-child-labour-special-cell-centre"
-    ],
     "also": [
-      "rbi-financial-markets-consultative-committee-rohit-jain",
-      "supreme-court-delhi-sir-form-6-ec-clarification-cji-mention"
+      "jaishankar-chogm-antigua-dpi-ftas-executive-session",
+      "supreme-court-two-child-norm-javed-larger-bench"
+    ],
+    "list": [
+      "jitin-prasada-warsaw-wb-group-creotech-india-poland-ties",
+      "qatar-iran-us-far-apart-36-hours-feedback-hormuz",
+      "nadda-bhopal-loktantra-bachao-march-emergency-rahul",
+      "supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification",
+      "supreme-court-child-labour-special-cell-centre"
     ]
   },
   "startHere": [
@@ -386,7 +386,7 @@
     },
     {
       "section": "economy",
-      "lead": "dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend",
+      "lead": "nykaa-physicswallah-q2-profit-nearly-triples-doubles",
       "module": {
         "type": "markets",
         "indicators": [
@@ -397,10 +397,10 @@
         ]
       },
       "list": [
+        "bse-q2-profit-45-per-cent-809-crore-bkc-plot-mmrda",
+        "dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend",
         "lenskart-q2-profit-doubles-jyothy-labs-buyback",
-        "sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4",
-        "cabinet-energy-storage-vgf-14500-crore-critical-minerals-2814",
-        "rbi-financial-markets-consultative-committee-rohit-jain"
+        "sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4"
       ]
     },
     {
@@ -458,12 +458,12 @@
     },
     {
       "section": "sports",
-      "lead": "india-beat-new-zealand-five-wickets-dls-eden-park-first-odi",
+      "lead": "siraj-to-join-india-odi-squad-wellington-missed-auckland",
       "list": [
+        "india-beat-new-zealand-five-wickets-dls-eden-park-first-odi",
         "india-65-one-down-32-over-chase-eden-park-odi",
         "india-54-one-down-rain-stops-play-eden-park-odi",
-        "india-41-one-down-kohli-chase-186-eden-park-odi",
-        "rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-eden-park"
+        "india-41-one-down-kohli-chase-186-eden-park-odi"
       ]
     }
   ],

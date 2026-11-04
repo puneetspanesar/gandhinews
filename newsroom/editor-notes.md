@@ -78,3 +78,12 @@ Owner's note: too many market and sales stories, not enough of the day's real ne
 - Editor FAIL not fixed this run: real photos wanted for Himanta (Purnea), Jitin Prasada, Dewas; ₹ sign renders as a box in the story sheet headline font (check article page and OG image font); midterms band takes three slots under the lead (cut to one row or move).
 - Markets: no source readable this run (upstox wrap fetch refused); markets.json unchanged. Nov 4 FII/DII still to add.
 - Desks found little in 16:00 to 18:10: Ranji round four day-three roundup not yet on Wisden; Nykaa Q2 not confirmed (no 4 Nov results found).
+
+## November 4, 2026, 7:45 pm (from the 19:00 run)
+- Published: BSE Q2 (profit up 44.9% to Rs 809.15 crore, BKC plot from MMRDA; BSE tower photo), Nykaa and PhysicsWallah Q2 (infographic), Siraj to join ODI squad in Wellington (infographic). All one source each. In-story photo blocks dropped for time.
+- Checked photo of Mohammed Siraj (File:Mohammed Siraj.jpg, India kit) is registered in photos.json (h0419); the downloader was still running at the push deadline. Run apply_composites and switch the Siraj story off its infographic. Nykaa story wants a Falguni Nayar / Alakh Pandey split (finder found neither in h0419).
+- Lead moved back to US midterms (us-midterms-democrats-230-house-seats-economy-hegseth-blame) because the midterms still lead other front pages; two-child norm story in top stories.
+- Not written (event before the window, but not on the site): Trump's midterms reaction (Tribune 10:52 IST) and Calcutta HC barring KMC poll notification until Nov 6 (LiveLaw 16:21 IST). Worth a development story if new facts come.
+- Editor FAIL not fixed this run: rupee sign shows as a box in story sheet headline font; Rahul Sangrur photo tone (smiling) wrong for the Moosewala story; Himanta Purnea card is still an infographic; Supreme Court stories want building or courtroom photos; RBI committee story picture is a generic building.
+- Markets: no Nov 4 FII/DII found; closes unchanged.
+- India desk found nothing in 17:00 to 19:15; theprint and uniindia index fetches timed out.
