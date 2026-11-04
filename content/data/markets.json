@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-04T11:44:00+05:30",
+  "as_of": "2026-11-04T15:30:00+05:30",
   "status": "open",
   "session_date": "2026-11-04",
   "chart": "nifty-50",
@@ -8,9 +8,9 @@
       "id": "sensex",
       "name": "Sensex",
       "name_hi": "सेंसेक्स",
-      "value": 76864.55,
-      "change": -53.3,
-      "pct": -0.07,
+      "value": 77219.85,
+      "change": 302.0,
+      "pct": 0.39,
       "history": [
         {
           "date": "2026-09-30",
@@ -93,15 +93,15 @@
           "close": 76917.85
         }
       ],
-      "source": "https://www.kotakneo.com/news/market-news/sensex-and-nifty-trade-lower-by-afternoon/"
+      "source": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-4-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126110400107_1.html"
     },
     {
       "id": "nifty-50",
       "name": "Nifty 50",
       "name_hi": "निफ्टी 50",
-      "value": 23794.0,
-      "change": -16.85,
-      "pct": -0.07,
+      "value": 23912.0,
+      "change": 101.15,
+      "pct": 0.42,
       "history": [
         {
           "date": "2026-09-30",
@@ -188,7 +188,7 @@
           "close": 23810.85
         }
       ],
-      "source": "https://www.kotakneo.com/news/market-news/sensex-and-nifty-trade-lower-by-afternoon/"
+      "source": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-4-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126110400107_1.html"
     },
     {
       "id": "nifty-it",

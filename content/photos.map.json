@@ -27466,5 +27466,67 @@
     "src800": "/photos/i-us-midterms-democrats-230-house-seats-economy-hegseth-blame-hi-640.jpg"
    }
   }
+ },
+ "india-beat-new-zealand-five-wickets-dls-eden-park-first-odi": {
+  "id": "i-india-beat-new-zealand-five-wickets-dls-eden-park-first-odi",
+  "src": "/photos/i-india-beat-new-zealand-five-wickets-dls-eden-park-first-odi-en-3x2-1280.jpg",
+  "src800": "/photos/i-india-beat-new-zealand-five-wickets-dls-eden-park-first-odi-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: India win rain-cut opener by five wickets",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: बारिश वाले पहले मैच में भारत 5 विकेट से जीता",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-india-beat-new-zealand-five-wickets-dls-eden-park-first-odi-hi-3x2-1280.jpg",
+    "src800": "/photos/i-india-beat-new-zealand-five-wickets-dls-eden-park-first-odi-hi-3x2-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-india-beat-new-zealand-five-wickets-dls-eden-park-first-odi-en-1280.jpg",
+    "src800": "/photos/i-india-beat-new-zealand-five-wickets-dls-eden-park-first-odi-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-india-beat-new-zealand-five-wickets-dls-eden-park-first-odi-hi-1280.jpg",
+    "src800": "/photos/i-india-beat-new-zealand-five-wickets-dls-eden-park-first-odi-hi-640.jpg"
+   }
+  }
+ },
+ "supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification": {
+  "id": "i-supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification",
+  "src": "/photos/i-supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification-en-3x2-1280.jpg",
+  "src800": "/photos/i-supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Speaker gets two months on Sapre petition",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: सप्रे की याचिका पर स्पीकर को दो महीने",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification-hi-3x2-1280.jpg",
+    "src800": "/photos/i-supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification-hi-3x2-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification-en-1280.jpg",
+    "src800": "/photos/i-supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification-hi-1280.jpg",
+    "src800": "/photos/i-supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification-hi-640.jpg"
+   }
+  }
  }
 }

@@ -22,9 +22,9 @@
       "us-midterms-hamilton-flips-kansas-senate-marshall"
     ],
     "relatedBeside": [
-      "india-65-one-down-32-over-chase-eden-park-odi",
-      "dewas-inspector-dilip-puri-accused-shot-leg-custody",
-      "supreme-court-two-child-norm-javed-larger-bench"
+      "india-beat-new-zealand-five-wickets-dls-eden-park-first-odi",
+      "supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification",
+      "jaishankar-chogm-antigua-dpi-ftas-executive-session"
     ],
     "live": {
       "title": {
@@ -36,14 +36,36 @@
   "briefing": {
     "items": [
       {
-        "link": "india-65-one-down-32-over-chase-eden-park-odi",
+        "link": "india-beat-new-zealand-five-wickets-dls-eden-park-first-odi",
         "lead": {
           "en": "Cricket:",
           "hi": "क्रिकेट:"
         },
         "text": {
-          "en": "India 65 for 1 as rain cuts Eden Park chase to 32 overs",
-          "hi": "बारिश के बाद ईडन पार्क में भारत का पीछा 32 ओवर का, स्कोर 1 विकेट पर 65"
+          "en": "India beat New Zealand by five wickets in rain-hit Eden Park ODI",
+          "hi": "बारिश से प्रभावित ईडन पार्क वनडे में भारत ने न्यूज़ीलैंड को पांच विकेट से हराया"
+        }
+      },
+      {
+        "link": "supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification",
+        "lead": {
+          "en": "Courts:",
+          "hi": "अदालत:"
+        },
+        "text": {
+          "en": "Supreme Court gives Madhya Pradesh Speaker two months to decide on Nirmala Sapre's disqualification",
+          "hi": "निर्मला सप्रे की सदस्यता पर सुप्रीम कोर्ट ने मध्य प्रदेश के स्पीकर को दो महीने में फैसला करने को कहा"
+        }
+      },
+      {
+        "link": "jaishankar-chogm-antigua-dpi-ftas-executive-session",
+        "lead": {
+          "en": "Jaishankar:",
+          "hi": "जयशंकर:"
+        },
+        "text": {
+          "en": "Jaishankar pitches India's digital infrastructure and trade deals to Commonwealth leaders",
+          "hi": "जयशंकर ने राष्ट्रमंडल नेताओं के सामने भारत का डिजिटल ढांचा और व्यापार समझौते रखे"
         }
       },
       {
@@ -55,28 +77,6 @@
         "text": {
           "en": "Supreme Court tells Centre to set up special cell to enforce child labour ban",
           "hi": "बाल श्रम पर रोक लागू कराने के लिए विशेष प्रकोष्ठ बनाए केंद्र: सुप्रीम कोर्ट"
-        }
-      },
-      {
-        "link": "us-midterms-democrats-230-house-seats-economy-hegseth-blame",
-        "lead": {
-          "en": "US:",
-          "hi": "अमेरिका:"
-        },
-        "text": {
-          "en": "Democrats head for more than 230 House seats as prices drive the vote",
-          "hi": "प्रतिनिधि सभा में 230 से ज़्यादा सीटों की ओर डेमोक्रेट्स"
-        }
-      },
-      {
-        "link": "supreme-court-two-child-norm-javed-larger-bench",
-        "lead": {
-          "en": "Two-child norm:",
-          "hi": "दो-संतान नियम:"
-        },
-        "text": {
-          "en": "Two-child norm has lost relevance, says Supreme Court, sends 2003 Javed ruling to larger bench",
-          "hi": "दो बच्चों का नियम अब प्रासंगिक नहीं: सुप्रीम कोर्ट ने 2003 का जावेद फैसला बड़ी पीठ को भेजा"
         }
       },
       {
@@ -102,14 +102,14 @@
         }
       },
       {
-        "link": "qatar-iran-us-far-apart-36-hours-feedback-hormuz",
+        "link": "us-midterms-democrats-230-house-seats-economy-hegseth-blame",
         "lead": {
-          "en": "Iran:",
-          "hi": "ईरान:"
+          "en": "US midterms:",
+          "hi": "अमेरिकी मध्यावधि चुनाव:"
         },
         "text": {
-          "en": "Qatar says Iran and US still far apart",
-          "hi": "क़तर: ईरान और अमेरिका में अब भी बड़ा फ़ासला"
+          "en": "Democrats head for 230-plus House seats",
+          "hi": "डेमोक्रेट्स 230 से ज़्यादा हाउस सीटों की ओर"
         }
       },
       {
@@ -188,19 +188,19 @@
   },
   "topStories": {
     "big": {
-      "id": "rbi-financial-markets-consultative-committee-rohit-jain",
+      "id": "supreme-court-child-labour-special-cell-centre",
       "also": []
     },
     "list": [
-      "qatar-iran-us-far-apart-36-hours-feedback-hormuz",
-      "jaishankar-chogm-antigua-dpi-ftas-executive-session",
-      "misri-lands-kathmandu-today-three-post-diwali-dates-shah",
+      "rbi-financial-markets-consultative-committee-rohit-jain",
+      "jitin-prasada-warsaw-wb-group-creotech-india-poland-ties",
+      "dewas-inspector-dilip-puri-accused-shot-leg-custody",
       "psg-six-villarreal-record-bayern-win-madrid-cunha-united",
-      "urvil-patel-210-pradosh-paul-208-ranji-round-four-day-two"
+      "supreme-court-two-child-norm-javed-larger-bench"
     ],
     "also": [
-      "pawan-khera-modi-parliament-press-conference-debate-dare",
-      "supreme-court-child-labour-special-cell-centre"
+      "misri-lands-kathmandu-today-three-post-diwali-dates-shah",
+      "sonowal-puri-coastal-freight-12-per-cent-2047-cruise-terminal"
     ]
   },
   "startHere": [
@@ -376,11 +376,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "supreme-court-child-labour-special-cell-centre",
         "supreme-court-two-child-norm-javed-larger-bench",
-        "supreme-court-delhi-sir-form-6-ec-clarification-cji-mention",
-        "pawan-khera-modi-parliament-press-conference-debate-dare"
+        "supreme-court-delhi-sir-form-6-ec-clarification-cji-mention"
       ],
-      "lead": "supreme-court-child-labour-special-cell-centre"
+      "lead": "supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification"
     },
     {
       "section": "economy",
@@ -456,11 +456,11 @@
     },
     {
       "section": "sports",
-      "lead": "india-65-one-down-32-over-chase-eden-park-odi",
+      "lead": "india-beat-new-zealand-five-wickets-dls-eden-park-first-odi",
       "list": [
-        "india-54-one-down-rain-stops-play-eden-park-odi",
-        "india-41-one-down-kohli-chase-186-eden-park-odi",
-        "rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-eden-park"
+        "india-beat-new-zealand-five-wickets-dls-eden-park-first-odi",
+        "india-65-one-down-32-over-chase-eden-park-odi",
+        "india-54-one-down-rain-stops-play-eden-park-odi"
       ]
     }
   ],
