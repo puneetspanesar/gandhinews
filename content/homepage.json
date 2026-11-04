@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "us-midterms-ossoff-holds-georgia-first-results",
+    "id": "us-midterms-results-cooper-flips-north-carolina-senate",
     "overlay": {
       "kicker": {
         "en": "World / US midterms",
         "hi": "दुनिया / अमेरिकी मध्यावधि चुनाव"
       },
       "value": {
-        "en": "Ossoff holds Georgia",
-        "hi": "जॉर्जिया में ऑसॉफ की जीत"
+        "en": "Cooper flips North Carolina",
+        "hi": "कूपर ने नॉर्थ कैरोलाइना जीता"
       },
       "text": {
         "en": "",
@@ -16,13 +16,15 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [],
+    "relatedBelow": [
+      "us-midterms-ossoff-holds-georgia-first-results"
+    ],
     "relatedBeside": [
+      "dewas-inspector-dilip-puri-accused-shot-leg-custody",
+      "jaishankar-chogm-antigua-dpi-ftas-executive-session",
       "misri-lands-kathmandu-today-three-post-diwali-dates-shah",
       "psg-six-villarreal-record-bayern-win-madrid-cunha-united",
-      "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip",
-      "qatar-iran-us-far-apart-36-hours-feedback-hormuz",
-      "nishikant-dubey-offers-debate-rahul-congress-office"
+      "qatar-iran-us-far-apart-36-hours-feedback-hormuz"
     ],
     "live": {
       "title": {
@@ -34,10 +36,32 @@
   "briefing": {
     "items": [
       {
-        "link": "misri-lands-kathmandu-today-three-post-diwali-dates-shah",
+        "link": "dewas-inspector-dilip-puri-accused-shot-leg-custody",
+        "lead": {
+          "en": "Madhya Pradesh:",
+          "hi": "मध्य प्रदेश:"
+        },
+        "text": {
+          "en": "Accused in Dewas inspector's killing shot in leg, police say he tried to flee custody",
+          "hi": "देवास में इंस्पेक्टर की मौत का आरोपी पैर में गोली लगने से घायल, पुलिस बोली हिरासत से भागने की कोशिश की"
+        }
+      },
+      {
+        "link": "jaishankar-chogm-antigua-dpi-ftas-executive-session",
         "lead": {
           "en": "Diplomacy:",
           "hi": "कूटनीति:"
+        },
+        "text": {
+          "en": "Jaishankar pitches India's digital public infrastructure and trade deals to Commonwealth leaders in Antigua",
+          "hi": "एंटीगा में जयशंकर ने राष्ट्रमंडल नेताओं के सामने रखा भारत का डिजिटल ढांचा और व्यापार समझौते"
+        }
+      },
+      {
+        "link": "misri-lands-kathmandu-today-three-post-diwali-dates-shah",
+        "lead": {
+          "en": "Nepal:",
+          "hi": "नेपाल:"
         },
         "text": {
           "en": "Misri heads to Kathmandu today as India offers Balendra Shah three dates after Diwali",
@@ -97,28 +121,6 @@
         "text": {
           "en": "Apple makes dating apps 18+ on the App Store, tightens rules for AI companions",
           "hi": "ऐप्पल ने ऐप स्टोर पर डेटिंग ऐप 18+ किए, एआई साथी ऐप पर भी सख्ती"
-        }
-      },
-      {
-        "link": "mcx-q2-profit-454-crore-revenue-doubles",
-        "lead": {
-          "en": "Companies:",
-          "hi": "कंपनियां:"
-        },
-        "text": {
-          "en": "MCX profit more than doubles to ₹454.6 crore as revenue jumps",
-          "hi": "MCX का मुनाफा दोगुने से ज्यादा, ₹454.6 करोड़ पहुंचा"
-        }
-      },
-      {
-        "link": "sc-uk-divorce-decree-no-shield-bigamy-andhra-husband",
-        "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
-        },
-        "text": {
-          "en": "UK divorce and British citizenship no shield from bigamy case, Supreme Court rules",
-          "hi": "ब्रिटेन का तलाक और नागरिकता बहुविवाह के मुकदमे से नहीं बचा सकते: सुप्रीम कोर्ट"
         }
       }
     ]
@@ -186,28 +188,28 @@
   },
   "topStories": {
     "big": {
-      "id": "gill-any-indian-team-can-beat-anyone-eden-park-first-odi-preview",
+      "id": "nishikant-dubey-offers-debate-rahul-congress-office",
       "also": []
     },
     "list": [
+      "gill-any-indian-team-can-beat-anyone-eden-park-first-odi-preview",
       "apple-app-store-18-plus-dating-ai-companion-apps",
-      "mcx-q2-profit-454-crore-revenue-doubles",
-      "sanjay-shirsat-dia-mirza-loudspeakers-video-row",
       "ncp-devgiri-meeting-bhujbal-288-seats-sunetra-finance-shah",
-      "urvil-patel-210-pradosh-paul-208-ranji-round-four-day-two"
+      "smriti-irani-rahul-prince-perpetual-waiting-56-polls-sir",
+      "mcx-q2-profit-454-crore-revenue-doubles"
     ],
     "also": [
-      "sc-uk-divorce-decree-no-shield-bigamy-andhra-husband",
-      "bjp-gaurav-bhatia-opposition-anarchic-model-sting-rahul"
+      "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip",
+      "sudhakar-dalela-arrives-kathmandu-india-ambassador-nepal"
     ]
   },
   "startHere": [
+    "us-midterms-explained-congress-tariffs-what-it-means-for-india",
     "goa-st-seat-reservation-explained-supreme-court",
     "qeshm-island-explained-why-us-strike-hormuz-matters-india",
     "iran-qatar-draft-proposal-explained-oil-prices-india-import-bill",
     "why-bay-of-bengal-back-to-back-cyclones-murasu-arnab-explained",
-    "refining-margins-explained-why-reliance-profit-jumped-hormuz",
-    "green-crackers-explained-what-makes-a-cracker-green-delhi-diwali"
+    "refining-margins-explained-why-reliance-profit-jumped-hormuz"
   ],
   "trackers": [
     {
@@ -360,11 +362,11 @@
     }
   ],
   "opinion": [
+    "qs-asia-slide-india-universities-must-open-to-the-world",
     "ramlila-rally-words-parrots-shakuni-anarchy-debate-the-data",
     "vizag-refinery-fire-was-contained-the-belt-needs-public-safety-audits",
     "neet-pg-candidates-deserve-to-see-their-question-papers",
-    "green-crackers-order-needs-enforcement-not-another-diwali-gamble",
-    "two-cyclones-in-a-week-andhra-odisha-need-relief-that-keeps-pace"
+    "green-crackers-order-needs-enforcement-not-another-diwali-gamble"
   ],
   "sections": [
     {
@@ -401,12 +403,12 @@
     },
     {
       "section": "states",
-      "lead": "goa-supreme-court-st-seat-reservation-hc-stay-sawaikar",
+      "lead": "dewas-inspector-dilip-puri-accused-shot-leg-custody",
       "list": [
+        "goa-supreme-court-st-seat-reservation-hc-stay-sawaikar",
         "delhi-aqi-331-jahangirpuri-499-grap-stage-two",
         "brothers-arrested-cheetah-shot-dead-madhya-pradesh",
-        "murasu-nine-trains-cancelled-vijayawada-families-relief-camps",
-        "murasu-crosses-andhra-coast-naguluppalapadu-198-mm-trees-down"
+        "murasu-nine-trains-cancelled-vijayawada-families-relief-camps"
       ]
     },
     {
@@ -435,12 +437,12 @@
   "desks": [
     {
       "section": "world",
-      "lead": "us-midterms-ossoff-holds-georgia-first-results",
+      "lead": "us-midterms-results-cooper-flips-north-carolina-senate",
       "list": [
+        "jaishankar-chogm-antigua-dpi-ftas-executive-session",
+        "us-midterms-ossoff-holds-georgia-first-results",
         "us-midterms-voting-under-way-house-senate-57-million-early",
-        "qatar-iran-us-far-apart-36-hours-feedback-hormuz",
-        "sudhakar-dalela-arrives-kathmandu-india-ambassador-nepal",
-        "navy-marcos-free-hijacked-fishing-vessel-azini-somalia-20-crew"
+        "qatar-iran-us-far-apart-36-hours-feedback-hormuz"
       ]
     },
     {

@@ -57,16 +57,8 @@ External Affairs Minister **S. Jaishankar** has told Commonwealth leaders that I
 
 He also pointed to India's recent free trade agreements and the negotiations still under way, saying they would **support predictable trade and resilient supply chains**.
 
-```photo
-{"n":1,"subject":"Chet Greene","caption":"Antigua and Barbuda's Foreign Affairs Minister Chet Greene received Jaishankar at the airport.","alt":"Antigua and Barbuda Foreign Affairs Minister Chet Greene"}
-```
-
 The summit, held from November 1 to 4, runs under the theme "Accelerating Partnerships and Investment for a Prosperous Commonwealth". Jaishankar was received at the airport by Foreign Affairs Minister Everly Chet Greene and Tourism and Civil Aviation Minister Charles Fernandes.
 
 On Tuesday, Sibi George, Secretary (West) in the Ministry of External Affairs, addressed the **pre-CHOGM meeting of Commonwealth foreign ministers**. He spoke of people-centred outcomes, including making technology work for development, climate action and disaster resilience, and reformed multilateralism.
-
-```photo
-{"n":2,"subject":"Sibi George","caption":"Sibi George, Secretary (West) in the Ministry of External Affairs, addressed the Commonwealth foreign ministers.","alt":"Indian diplomat Sibi George"}
-```
 
 Antigua is the last stop of a long Americas trip for the minister. Before the summit, he attended the **G20 Foreign Ministers' Meeting in Atlanta** on October 30 and 31, and a Quad foreign ministers' meeting in the United States, where he also held bilateral talks.

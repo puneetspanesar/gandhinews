@@ -76,18 +76,10 @@ Shubman Gill's one-day side begin their tour of New Zealand this morning. The fi
 
 On the eve of the game Gill said India would travel well. "I feel that any Indian team playing on the ground is capable of beating any other team," he said. "If we win the series here, it will be a big confidence booster for us."
 
-```photo
-{"n":1,"subject":"Mitchell Santner","caption":"Mitchell Santner leads a New Zealand side missing Rachin Ravindra, Mark Chapman and the concussed Devon Conway.","alt":"New Zealand captain Mitchell Santner"}
-```
-
 India are **without Prasidh Krishna**, ruled out with a hamstring injury, while New Zealand, under Mitchell Santner, have lost Rachin Ravindra and Mark Chapman for the series and Devon Conway for the opener. The ground's short straight boundaries and its record suggest the toss could count: chasing sides have won **47 of the 86 men's ODIs** played there, against 34 for teams batting first. The second match is in Wellington on 7 November.
 
 ## Ranji Trophy: a big third day
 
 At home, round four of the Ranji Trophy moves into day three later this morning, with two games finely poised. At Eden Gardens, Maharashtra are 207 for nine in reply to Bengal's 143, **a lead of 64 with one wicket left**, and Mohammed Shami, who has three for 36, will want to finish the innings quickly.
-
-```photo
-{"n":2,"subject":"Cricket Club of India","caption":"Railways resume at the Cricket Club of India in Mumbai on 116 for two, trailing Mumbai by 280.","alt":"The Brabourne Stadium at the Cricket Club of India, Mumbai"}
-```
 
 At the Cricket Club of India, Railways resume on 116 for two, **trailing Mumbai's 396 by 280**. Gujarat, who declared on 534 for nine after Urvil Patel's unbeaten 210, have Kerala at 74 for three, and Karnataka already lead Assam by 361.

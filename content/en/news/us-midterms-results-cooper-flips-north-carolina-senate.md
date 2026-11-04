@@ -73,10 +73,6 @@ Democrat **Roy Cooper has won North Carolina's Senate seat**, taking it from the
 
 Cooper, a former two-term governor of the state, beat Republican Michael Whatley in a race called just before 8:30 pm Eastern time, around 7 am in India. Minutes earlier, **Chris Pappas held New Hampshire's open seat** for the Democrats, defeating Republican John Sununu in one of the few Democratic-held races Republicans thought they could win.
 
-```photo
-{"n":1,"subject":"Chris Pappas","caption":"Chris Pappas, who won New Hampshire's open Senate seat for the Democrats against John Sununu.","alt":"Chris Pappas, Democratic congressman from New Hampshire"}
-```
-
 ## A clean early run for Democrats
 
 The early Senate calls have gone almost entirely one way. Jon Ossoff **held Georgia against Republican congressman Mike Collins**, the first big call of the night. Mark Warner kept Virginia, and Juliana Stratton won the open seat in Illinois. Cory Booker in New Jersey, Chris Coons in Delaware, Jack Reed in Rhode Island and Ed Markey in Massachusetts were all returned.
@@ -84,10 +80,6 @@ The early Senate calls have gone almost entirely one way. Jon Ossoff **held Geor
 Republicans held West Virginia, where Shelley Moore Capito beat Democrat Rachel Fetty Anderson. Most of those results were expected. North Carolina was not a given, and it was one of eight Republican-held seats Democrats had targeted, along with Alaska, Iowa, Kansas, Maine, Ohio, South Carolina and Texas.
 
 Republicans went into the night with **a 53 to 47 Senate majority**. Democrats need a net gain of four seats to take control, because Vice President JD Vance breaks a 50-50 tie in the Republicans' favour. Cooper's win is one of the four. Michigan, the third Democratic seat Republicans were targeting, had not been called.
-
-```photo
-{"n":2,"subject":"Jon Ossoff","caption":"Jon Ossoff, who held Georgia's Senate seat for the Democrats against Republican Mike Collins.","alt":"US Senator Jon Ossoff of Georgia"}
-```
 
 ## The House still open
 
@@ -98,10 +90,6 @@ Forecasters had leaned towards the Democrats. Before the polls closed, the Decis
 In the governors' races, Democrats Wes Moore in Maryland, JB Pritzker in Illinois and **Josh Shapiro in Pennsylvania won re-election**.
 
 Trump had warned on Monday that history was against him. "For some reason, the sitting president doesn't win the midterms," he said. "But we gave this a very strong shot."
-
-```photo
-{"n":3,"subject":"Josh Shapiro","caption":"Pennsylvania governor Josh Shapiro, one of three Democratic governors re-elected in the early calls.","alt":"Josh Shapiro, governor of Pennsylvania"}
-```
 
 ## Why India is watching
 

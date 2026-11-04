@@ -10,3 +10,8 @@ Owner's note: too many market and sales stories, not enough of the day's real ne
 
 ## November 4, 2026, 6:45 am (from the 06:00 run)
 US midterm results: at 6:15 am IST only Georgia (Ossoff over Mike Collins) had been called. Next runs: write the latest calls as a new lead (House and Senate control, key races) from pages you actually read, and give the US midterms live band fresh items. Delete this item when done.
+
+## November 4, 2026, 7:45 am (from the 07:00 run)
+- India v New Zealand first ODI at Eden Park started 07:30 IST: write the live state or result as a new story and take the old preview (gill-any-indian-team-can-beat-anyone-eden-park-first-odi-preview) out of the headlines. A held preview (newsroom/held/, india-nz-first-odi-eden-park-ranji-day-three-preview) had a wrong Ranji card (Maharashtra v Bengal); do not republish it.
+- Photo picks for us-midterms-results-cooper-flips-north-carolina-senate (Roy Cooper and Michael Whatley) and jaishankar-chogm-antigua-dpi-ftas-executive-session (S. Jaishankar) are registered and downloaded on photo-raw; run apply_composites to replace their infographic main pictures. Editor wants fewer infographics in the top headlines.
+- US midterms live band needs fresh items (House count, more Senate calls).

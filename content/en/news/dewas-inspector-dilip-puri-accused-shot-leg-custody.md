@@ -62,16 +62,8 @@ Gajendra alias Akku Rawat, the truck's driver, was being brought back from Alira
 
 Rawat was taken to the district hospital in Dewas and **admitted to the intensive care unit**. "He had sustained a gunshot wound to his leg," said Dr Ajay Patel, Resident Medical Officer at Mahatma Gandhi District Hospital. He has since been referred to a higher medical centre.
 
-```photo
-{"n":1,"subject":"Mohan Yadav","caption":"Chief Minister Mohan Yadav ordered a thorough investigation into the inspector's death.","alt":"Madhya Pradesh Chief Minister Mohan Yadav"}
-```
-
 Inspector Dilip Puri, posted at Khategaon police station, was leading a team acting on a tip-off about an illegal liquor shipment on the night of November 1 and 2. When the truck was signalled to stop on the Harda-Nemawar highway, it sped up and **its rear wheel ran over Puri**, the police said.
 
 The vehicle was later seized and the police recovered **more than 1,800 litres of liquor** from it. Chief Minister Mohan Yadav ordered a thorough investigation and strict legal action, and teams across several districts launched searches for the suspects.
-
-```photo
-{"n":2,"subject":"Khategaon","caption":"Inspector Dilip Puri was posted at the police station in Khategaon, in Dewas district.","alt":"Khategaon town in Dewas district"}
-```
 
 The police have not said whether anyone else has been arrested in the case.
