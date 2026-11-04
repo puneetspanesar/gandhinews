@@ -60,18 +60,10 @@ Mohammed Siraj will **join India's one-day squad in Wellington** ahead of the se
 
 The fast bowler was not with the ODI group at Eden Park on Wednesday, where India won the rain-hit first match by five wickets. He was instead **playing the second four-day game for India A** against New Zealand A in Lincoln, which ended on Tuesday. That left him no way to attend the senior squad's nets on the eve of the opener, and the team management asked him to meet up with the group in Wellington instead.
 
-```photo
-{"n":1,"subject":"Prasidh Krishna","caption":"Prasidh Krishna, whose hamstring injury ruled him out of the ODI series and led to Siraj's move to the India A squad.","alt":"Prasidh Krishna"}
-```
-
 Siraj's route to Lincoln began with an injury to Prasidh Krishna. The BCCI's medical team at the Centre of Excellence in Bengaluru decided Prasidh needed more time to recover from a hamstring problem. In a release on 30 October, the board said Prasidh "is ruled out of the ODI series" and "will need additional time to build up the workload required to be ready for matches". It added that Siraj "will join the India A squad for the second four-day game, starting October 31, 2026, against New Zealand A."
 
 Prasidh is now set to play India A's **third and final four-day game**, subject to clearing a return-to-play assessment, so he gets match time before the Test series.
 
 Siraj's absence from Auckland drew criticism. Former India fast bowler Dodda Ganesh wrote on X: "This complete sidelining of Siraj from the ODIs is inexplicable."
-
-```photo
-{"n":2,"subject":"Dodda Ganesh","caption":"Former India fast bowler Dodda Ganesh, who criticised Siraj's absence from the first ODI.","alt":"Dodda Ganesh"}
-```
 
 India lead the five-match series **1-0**. The two Tests that follow carry more weight, with India needing to win them to stay in the race for the World Test Championship final.

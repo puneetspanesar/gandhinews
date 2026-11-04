@@ -46638,5 +46638,27 @@
   "page": "https://commons.wikimedia.org/wiki/File:Queues_of_Indian_voters_-_Flickr_-_Al_Jazeera_English.jpg",
   "id": "r-delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth",
   "articleId": "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth"
+ },
+ {
+  "id": "cx-siraj-to-join-india-odi-squad-wellington-missed-auckland-0",
+  "articleId": "part:siraj-to-join-india-odi-squad-wellington-missed-auckland:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mohammed_Siraj.jpg/1600px-Mohammed_Siraj.jpg",
+  "credit": "Anand Anil",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Mohammed_Siraj.jpg"
+ },
+ {
+  "id": "x-siraj-to-join-india-odi-squad-wellington-missed-auckland",
+  "articleId": "siraj-to-join-india-odi-squad-wellington-missed-auckland",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mohammed_Siraj.jpg/1600px-Mohammed_Siraj.jpg",
+  "credit": "Photo: Anand Anil / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Mohammed Siraj (file photo)",
+  "alt_hi": "मोहम्मद सिराज (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Mohammed_Siraj.jpg",
+  "composite": [
+   "cx-siraj-to-join-india-odi-squad-wellington-missed-auckland-0"
+  ]
  }
 ]

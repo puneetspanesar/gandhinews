@@ -87,10 +87,6 @@ The picture is softer against the June quarter. Profit was **7.4% lower than the
 
 The board approved a proposal to **accept an offer from the Mumbai Metropolitan Region Development Authority** (MMRDA) for a plot in BKC, the business district that is already home to the National Stock Exchange. BSE said the land would house additional premises and infrastructure facilities.
 
-```photo
-{"n":1,"subject":"Bandra Kurla Complex","caption":"Bandra Kurla Complex in Mumbai, where BSE has accepted an offer of a plot from the MMRDA for new premises.","alt":"Office towers in Mumbai's Bandra Kurla Complex"}
-```
-
 The deal is at an early stage. It depends on completing the paperwork, meeting the conditions attached and signing final agreements with the authority. BSE **did not disclose the size or the price** of the plot and said it would give the terms once the agreements are signed.
 
 The board also approved the appointment of Ashutosh Singh as Executive Director, Business (Vertical 3), from 30 November, for five years subject to shareholders' approval.

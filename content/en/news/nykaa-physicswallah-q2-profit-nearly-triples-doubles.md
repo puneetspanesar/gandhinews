@@ -71,10 +71,6 @@ Beauty, its core business, sold goods worth ₹4,454 crore, up 25%, while the fa
 
 The company also agreed to **buy an 82% stake in Simply Nam**, a professional makeup brand set up in 2022 with a turnover of ₹16.99 crore last year. The deal should close by 31 December.
 
-```photo
-{"n":1,"subject":"Alakh Pandey","caption":"Alakh Pandey, founder and chief executive of PhysicsWallah, whose company swung back to profit in the September quarter.","alt":"PhysicsWallah founder Alakh Pandey"}
-```
-
 ## PhysicsWallah back in the black
 
 PhysicsWallah posted a net profit of ₹142.29 crore, up from ₹69.72 crore, after **a loss of ₹87.04 crore in the June quarter**. Revenue grew 18% to ₹1,242.26 crore. Online revenue rose 26.4% to ₹694 crore and its offline centres brought in ₹541 crore, up 9%.
