@@ -1,465 +1,467 @@
 {
-  "lead": {
-    "id": "cabinet-fast-track-special-courts-2031-850-courts",
-    "overlay": {
-      "kicker": {
-        "en": "India / Courts",
-        "hi": "भारत / अदालतें"
-      },
-      "value": {
-        "en": "850 fast-track courts, till 2031",
-        "hi": "2031 तक 850 फास्ट ट्रैक अदालतें"
-      },
-      "text": {
-        "en": "",
-        "hi": ""
-      }
-    },
-    "dataBox": [],
-    "relatedBelow": [],
-    "relatedBeside": [
-      "india-beat-south-korea-8-1-asian-champions-trophy-semi-final-mohali",
-      "wall-street-jumps-dow-1131-democrats-win-congress",
-      "modi-meet-asian-para-games-contingent-thursday",
-      "us-midterms-alaska-sullivan-peltola-too-close-to-call",
-      "naveen-patnaik-writes-majhi-kotia-andhra-elections"
-    ],
-    "live": {
-      "title": {
-        "en": "Fast-track courts",
-        "hi": "फास्ट ट्रैक अदालतें"
-      }
-    }
+ "lead": {
+  "id": "cabinet-fast-track-special-courts-2031-850-courts",
+  "overlay": {
+   "kicker": {
+    "en": "India / Courts",
+    "hi": "भारत / अदालतें"
+   },
+   "value": {
+    "en": "850 fast-track courts, till 2031",
+    "hi": "2031 तक 850 फास्ट ट्रैक अदालतें"
+   },
+   "text": {
+    "en": "",
+    "hi": ""
+   }
   },
-  "briefing": {
-    "items": [
-      {
-        "link": "india-beat-south-korea-8-1-asian-champions-trophy-semi-final-mohali",
-        "lead": {
-          "en": "Hockey:",
-          "hi": "हॉकी:"
-        },
-        "text": {
-          "en": "India rout South Korea 8-1 in Mohali to set up Asian Champions Trophy final against Japan",
-          "hi": "मोहाली में भारत ने दक्षिण कोरिया को 8-1 से रौंदा, एशियन चैंपियंस ट्रॉफी फाइनल में जापान से भिड़ंत"
-        }
-      },
-      {
-        "link": "wall-street-jumps-dow-1131-democrats-win-congress",
-        "lead": {
-          "en": "Global markets:",
-          "hi": "वैश्विक बाज़ार:"
-        },
-        "text": {
-          "en": "Wall Street jumps as Dow gains 1,131 points after Democrats win Congress",
-          "hi": "डेमोक्रेट्स के कांग्रेस जीतने के बाद वॉल स्ट्रीट में उछाल, डाउ 1,131 अंक चढ़ा"
-        }
-      },
-      {
-        "link": "modi-meet-asian-para-games-contingent-thursday",
-        "lead": {
-          "en": "Para sport:",
-          "hi": "पैरा खेल:"
-        },
-        "text": {
-          "en": "Modi to meet India's record Asian Para Games contingent in Delhi on Thursday",
-          "hi": "एशियाई पैरा खेलों में रिकॉर्ड बनाने वाले भारतीय दल से गुरुवार को दिल्ली में मिलेंगे मोदी"
-        }
-      },
-      {
-        "link": "us-midterms-alaska-sullivan-peltola-too-close-to-call",
-        "lead": {
-          "en": "US midterms:",
-          "hi": "अमेरिकी मध्यावधि चुनाव:"
-        },
-        "text": {
-          "en": "Dan Sullivan edges ahead of Mary Peltola as Alaska's Senate race stays too close to call",
-          "hi": "अलास्का सीनेट सीट पर कांटे की टक्कर, डैन सुलिवन मैरी पेल्टोला से मामूली अंतर से आगे"
-        }
-      },
-      {
-        "link": "naveen-patnaik-writes-majhi-kotia-andhra-elections",
-        "lead": {
-          "en": "Odisha:",
-          "hi": "ओडिशा:"
-        },
-        "text": {
-          "en": "Naveen Patnaik urges Majhi to take up Kotia at 'highest level' before Andhra polls",
-          "hi": "आंध्र के चुनाव से पहले नवीन पटनायक ने माझी से कहा, कोटिया का मुद्दा 'सर्वोच्च स्तर' पर उठाएं"
-        }
-      },
-      {
-        "link": "supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board",
-        "lead": {
-          "en": "Supreme Court:",
-          "hi": "सुप्रीम कोर्ट:"
-        },
-        "text": {
-          "en": "Supreme Court stays Madras HC order handing Chidambaram Nataraja temple to a five-member board",
-          "hi": "चिदंबरम नटराज मंदिर पांच सदस्यीय बोर्ड को सौंपने के मद्रास हाईकोर्ट के आदेश पर सुप्रीम कोर्ट की रोक"
-        }
-      },
-      {
-        "link": "jairam-ramesh-vb-g-ram-g-grievance-rules-jumla",
-        "lead": {
-          "en": "Rural jobs:",
-          "hi": "ग्रामीण रोजगार:"
-        },
-        "text": {
-          "en": "'Yet another jumla': Jairam Ramesh says final VB-G RAM G grievance rules gut the draft",
-          "hi": "'एक और जुमला': जयराम रमेश बोले, वीबी-जी राम जी शिकायत नियमों से मसौदे के प्रावधान गायब"
-        }
-      },
-      {
-        "link": "rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs",
-        "lead": {
-          "en": "Punjab:",
-          "hi": "पंजाब:"
-        },
-        "text": {
-          "en": "Rahul Gandhi brings Moosewala's father on stage in Sangrur, says killers' mindset roams Punjab",
-          "hi": "संगरूर में राहुल गांधी ने मूसेवाला के पिता को मंच पर बुलाया, बोले, पंजाब में घूम रही है हत्यारों की सोच"
-        }
-      }
+  "dataBox": [],
+  "relatedBelow": [],
+  "relatedBeside": [
+   "us-midterms-schumer-lower-costs-with-or-without-trump",
+   "hijikata-stuns-djokovic-paris-masters-turin-hopes-end",
+   "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action",
+   "india-beat-south-korea-8-1-asian-champions-trophy-semi-final-mohali",
+   "wall-street-jumps-dow-1131-democrats-win-congress"
+  ],
+  "live": {
+   "title": {
+    "en": "Fast-track courts",
+    "hi": "फास्ट ट्रैक अदालतें"
+   }
+  }
+ },
+ "briefing": {
+  "items": [
+   {
+    "link": "us-midterms-schumer-lower-costs-with-or-without-trump",
+    "lead": {
+     "en": "US midterms:",
+     "hi": "अमेरिकी मध्यावधि चुनाव:"
+    },
+    "text": {
+     "en": "Schumer says Democrats will drive costs down 'with the president or without him'",
+     "hi": "शूमर बोले, डेमोक्रेट्स 'राष्ट्रपति के साथ या उनके बिना' महंगाई घटाएंगे"
+    }
+   },
+   {
+    "link": "hijikata-stuns-djokovic-paris-masters-turin-hopes-end",
+    "lead": {
+     "en": "Tennis:",
+     "hi": "टेनिस:"
+    },
+    "text": {
+     "en": "Qualifier Hijikata knocks Djokovic out of Paris and ends his hopes of Turin",
+     "hi": "क्वालीफायर हिजिकाटा ने जोकोविच को पेरिस से बाहर किया, ट्यूरिन की उम्मीद भी खत्म"
+    }
+   },
+   {
+    "link": "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action",
+    "lead": {
+     "en": "Karnataka:",
+     "hi": "कर्नाटक:"
+    },
+    "text": {
+     "en": "Priyank Kharge warns Vijayendra and Narayanaswamy of legal action over remarks on Congress workers",
+     "hi": "प्रियांक खड़गे की विजयेंद्र और नारायणस्वामी को चेतावनी, कांग्रेस कार्यकर्ताओं पर टिप्पणी जारी रही तो कानूनी कार्रवाई"
+    }
+   },
+   {
+    "link": "india-beat-south-korea-8-1-asian-champions-trophy-semi-final-mohali",
+    "lead": {
+     "en": "Hockey:",
+     "hi": "हॉकी:"
+    },
+    "text": {
+     "en": "India rout South Korea 8-1 in Mohali to set up Asian Champions Trophy final against Japan",
+     "hi": "मोहाली में भारत ने दक्षिण कोरिया को 8-1 से रौंदा, एशियन चैंपियंस ट्रॉफी फाइनल में जापान से भिड़ंत"
+    }
+   },
+   {
+    "link": "wall-street-jumps-dow-1131-democrats-win-congress",
+    "lead": {
+     "en": "Global markets:",
+     "hi": "वैश्विक बाज़ार:"
+    },
+    "text": {
+     "en": "Wall Street jumps as Dow gains 1,131 points after Democrats win Congress",
+     "hi": "डेमोक्रेट्स के कांग्रेस जीतने के बाद वॉल स्ट्रीट में उछाल, डाउ 1,131 अंक चढ़ा"
+    }
+   },
+   {
+    "link": "us-midterms-alaska-sullivan-peltola-too-close-to-call",
+    "lead": {
+     "en": "US midterms:",
+     "hi": "अमेरिकी मध्यावधि चुनाव:"
+    },
+    "text": {
+     "en": "Dan Sullivan edges ahead of Mary Peltola as Alaska's Senate race stays too close to call",
+     "hi": "अलास्का सीनेट सीट पर कांटे की टक्कर, डैन सुलिवन मैरी पेल्टोला से मामूली अंतर से आगे"
+    }
+   },
+   {
+    "link": "naveen-patnaik-writes-majhi-kotia-andhra-elections",
+    "lead": {
+     "en": "Odisha:",
+     "hi": "ओडिशा:"
+    },
+    "text": {
+     "en": "Naveen Patnaik urges Majhi to take up Kotia at 'highest level' before Andhra polls",
+     "hi": "आंध्र के चुनाव से पहले नवीन पटनायक ने माझी से कहा, कोटिया का मुद्दा 'सर्वोच्च स्तर' पर उठाएं"
+    }
+   },
+   {
+    "link": "nykaa-physicswallah-q2-profit-nearly-triples-doubles",
+    "lead": {
+     "en": "Companies:",
+     "hi": "कंपनियां:"
+    },
+    "text": {
+     "en": "Nykaa's profit nearly triples and PhysicsWallah's doubles in the September quarter",
+     "hi": "सितंबर तिमाही में नायका का मुनाफा करीब तिगुना, फिजिक्सवाला का दोगुना"
+    }
+   }
+  ]
+ },
+ "numbers": {
+  "tracker": "economy-dashboard",
+  "items": [
+   {
+    "indicator": "gdp-growth",
+    "icon": "trend-up",
+    "label": {
+     "en": "GDP growth",
+     "hi": "जीडीपी वृद्धि"
+    },
+    "decimals": 1
+   },
+   {
+    "indicator": "cpi-inflation",
+    "icon": "shopping-cart",
+    "highlight": true,
+    "label": {
+     "en": "CPI inflation",
+     "hi": "सीपीआई महंगाई"
+    },
+    "decimals": 2
+   },
+   {
+    "indicator": "unemployment",
+    "icon": "briefcase",
+    "label": {
+     "en": "Unemployment",
+     "hi": "बेरोज़गारी"
+    },
+    "decimals": 1
+   },
+   {
+    "indicator": "iip-growth",
+    "icon": "factory",
+    "label": {
+     "en": "IIP growth",
+     "hi": "आईआईपी वृद्धि"
+    },
+    "decimals": 1
+   },
+   {
+    "indicator": "repo-rate",
+    "icon": "bank",
+    "decimals": 2,
+    "label": {
+     "en": "Repo rate",
+     "hi": "रेपो रेट"
+    }
+   },
+   {
+    "indicator": "fiscal-deficit-pct-be",
+    "icon": "chart-bar",
+    "highlight": true,
+    "label": {
+     "en": "Fiscal deficit used",
+     "hi": "राजकोषीय घाटा (बजट का)"
+    },
+    "decimals": 1
+   }
+  ]
+ },
+ "topStories": {
+  "big": {
+   "id": "us-midterms-alaska-sullivan-peltola-too-close-to-call",
+   "also": []
+  },
+  "list": [
+   "naveen-patnaik-writes-majhi-kotia-andhra-elections",
+   "nykaa-physicswallah-q2-profit-nearly-triples-doubles",
+   "jairam-ramesh-vb-g-ram-g-grievance-rules-jumla",
+   "bse-q2-profit-45-per-cent-809-crore-bkc-plot-mmrda",
+   "siraj-to-join-india-odi-squad-wellington-missed-auckland"
+  ],
+  "also": [
+   "dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend",
+   "nadda-bhopal-loktantra-bachao-march-emergency-rahul"
+  ]
+ },
+ "startHere": [
+  "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
+  "two-child-norm-explained-javed-ruling-larger-bench",
+  "us-midterms-explained-congress-tariffs-what-it-means-for-india",
+  "foreign-divorce-explained-bigamy-section-13-cpc-supreme-court",
+  "goa-st-seat-reservation-explained-supreme-court",
+  "qeshm-island-explained-why-us-strike-hormuz-matters-india"
+ ],
+ "trackers": [
+  {
+   "id": "bills-in-parliament-tracker",
+   "title": {
+    "en": "Bills in Parliament",
+    "hi": "संसद में विधेयक"
+   }
+  },
+  {
+   "id": "economy-dashboard",
+   "title": {
+    "en": "Economy dashboard",
+    "hi": "अर्थव्यवस्था डैशबोर्ड"
+   }
+  },
+  {
+   "id": "election-calendar",
+   "title": {
+    "en": "Election calendar",
+    "hi": "चुनाव कैलेंडर"
+   }
+  },
+  {
+   "id": "budget-2026-27-promise-tracker",
+   "title": {
+    "en": "Budget promises",
+    "hi": "बजट के वादे"
+   }
+  },
+  {
+   "id": "sc-cases-tracker",
+   "title": {
+    "en": "Big Supreme Court cases",
+    "hi": "सुप्रीम कोर्ट के बड़े मामले"
+   }
+  }
+ ],
+ "dataDesk": {
+  "map": {
+   "tracker": "election-calendar",
+   "topic": "elections-2027",
+   "kicker": {
+    "en": "Elections 2027",
+    "hi": "चुनाव 2027"
+   },
+   "title": {
+    "en": "{n} states vote in 2027",
+    "hi": "2027 में {n} राज्यों में चुनाव"
+   },
+   "text": {
+    "en": "Five assemblies are expected to vote in February and March, Himachal Pradesh and Gujarat late in the year. No schedule has been announced. The President's term ends in July 2027.",
+    "hi": "पांच विधानसभाओं के चुनाव फरवरी और मार्च में होने की उम्मीद है, हिमाचल प्रदेश और गुजरात के साल के आखिर में। अभी कोई कार्यक्रम घोषित नहीं हुआ है। राष्ट्रपति का कार्यकाल जुलाई 2027 में खत्म होता है।"
+   }
+  },
+  "parliament": {
+   "tracker": "bills-in-parliament-tracker",
+   "session": "monsoon-2026",
+   "bills": [
+    "fcra-amendment-2026",
+    "indian-statistical-institute-2026",
+    "supreme-court-number-of-judges-amendment-2026",
+    "mmdr-amendment-2026",
+    "kerala-alteration-of-name-2026"
+   ]
+  }
+ },
+ "factCheck": {
+  "cards": [
+   "jairam-ramesh-upi-charges-above-2000-claim",
+   "kejriwal-e20-trump-pressure-ethanol-claim",
+   "ai-brics-selfie-modi-putin-xi-raisi"
+  ]
+ },
+ "explained": [
+  {
+   "id": "imf-world-economic-outlook-explained-india-rbi",
+   "kn": [
+    {
+     "value": {
+      "en": "7%",
+      "hi": "7%"
+     },
+     "label": {
+      "en": "IMF forecast for India, this year",
+      "hi": "इस साल भारत के लिए आईएमएफ का अनुमान"
+     }
+    },
+    {
+     "value": {
+      "en": "7.1%",
+      "hi": "7.1%"
+     },
+     "label": {
+      "en": "RBI's own forecast",
+      "hi": "आरबीआई का अपना अनुमान"
+     }
+    }
+   ]
+  },
+  {
+   "id": "wpi-vs-cpi-explained-wholesale-retail-inflation",
+   "kn": [
+    {
+     "value": {
+      "en": "11.39%",
+      "hi": "11.39%"
+     },
+     "label": {
+      "en": "wholesale inflation, September",
+      "hi": "थोक महंगाई, सितंबर"
+     }
+    },
+    {
+     "value": {
+      "en": "5.54%",
+      "hi": "5.54%"
+     },
+     "label": {
+      "en": "retail inflation, September",
+      "hi": "खुदरा महंगाई, सितंबर"
+     }
+    }
+   ]
+  },
+  {
+   "id": "repo-rate-and-your-emi-explained",
+   "kn": [
+    {
+     "value": {
+      "en": "₹781",
+      "hi": "₹781"
+     },
+     "label": {
+      "en": "extra EMI a month, ₹50 lakh loan",
+      "hi": "₹50 लाख के लोन पर हर महीने ज़्यादा ईएमआई"
+     }
+    },
+    {
+     "value": {
+      "en": "₹1.87 lakh",
+      "hi": "₹1.87 लाख"
+     },
+     "label": {
+      "en": "extra over 20 years",
+      "hi": "20 साल में ज़्यादा भुगतान"
+     }
+    }
+   ]
+  }
+ ],
+ "opinion": [
+  "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth",
+  "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
+  "coastal-freight-goal-for-2047-needs-milestones-this-decade",
+  "qs-asia-slide-india-universities-must-open-to-the-world",
+  "ramlila-rally-words-parrots-shakuni-anarchy-debate-the-data"
+ ],
+ "sections": [
+  {
+   "section": "politics",
+   "module": {
+    "type": "bypolls",
+    "article": "bypoll-results-ruling-parties-win-all-six-seats"
+   },
+   "list": [
+    "cabinet-fast-track-special-courts-2031-850-courts",
+    "jairam-ramesh-vb-g-ram-g-grievance-rules-jumla",
+    "nadda-bhopal-loktantra-bachao-march-emergency-rahul"
+   ],
+   "lead": "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action"
+  },
+  {
+   "section": "economy",
+   "lead": "wall-street-jumps-dow-1131-democrats-win-congress",
+   "module": {
+    "type": "markets",
+    "indicators": [
+     "sensex",
+     "nifty-50",
+     "usd-inr",
+     "forex-reserves"
     ]
+   },
+   "list": [
+    "nykaa-physicswallah-q2-profit-nearly-triples-doubles",
+    "bse-q2-profit-45-per-cent-809-crore-bkc-plot-mmrda",
+    "dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend",
+    "lenskart-q2-profit-doubles-jyothy-labs-buyback"
+   ]
   },
-  "numbers": {
-    "tracker": "economy-dashboard",
-    "items": [
-      {
-        "indicator": "gdp-growth",
-        "icon": "trend-up",
-        "label": {
-          "en": "GDP growth",
-          "hi": "जीडीपी वृद्धि"
-        },
-        "decimals": 1
-      },
-      {
-        "indicator": "cpi-inflation",
-        "icon": "shopping-cart",
-        "highlight": true,
-        "label": {
-          "en": "CPI inflation",
-          "hi": "सीपीआई महंगाई"
-        },
-        "decimals": 2
-      },
-      {
-        "indicator": "unemployment",
-        "icon": "briefcase",
-        "label": {
-          "en": "Unemployment",
-          "hi": "बेरोज़गारी"
-        },
-        "decimals": 1
-      },
-      {
-        "indicator": "iip-growth",
-        "icon": "factory",
-        "label": {
-          "en": "IIP growth",
-          "hi": "आईआईपी वृद्धि"
-        },
-        "decimals": 1
-      },
-      {
-        "indicator": "repo-rate",
-        "icon": "bank",
-        "decimals": 2,
-        "label": {
-          "en": "Repo rate",
-          "hi": "रेपो रेट"
-        }
-      },
-      {
-        "indicator": "fiscal-deficit-pct-be",
-        "icon": "chart-bar",
-        "highlight": true,
-        "label": {
-          "en": "Fiscal deficit used",
-          "hi": "राजकोषीय घाटा (बजट का)"
-        },
-        "decimals": 1
-      }
-    ]
+  {
+   "section": "states",
+   "lead": "naveen-patnaik-writes-majhi-kotia-andhra-elections",
+   "list": [
+    "dewas-inspector-dilip-puri-accused-shot-leg-custody",
+    "goa-supreme-court-st-seat-reservation-hc-stay-sawaikar",
+    "delhi-aqi-331-jahangirpuri-499-grap-stage-two",
+    "brothers-arrested-cheetah-shot-dead-madhya-pradesh"
+   ]
   },
-  "topStories": {
-    "big": {
-      "id": "cabinet-energy-storage-vgf-14500-crore-critical-minerals-2814",
-      "also": []
-    },
-    "list": [
-      "jairam-ramesh-vb-g-ram-g-grievance-rules-jumla",
-      "supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board",
-      "himanta-purnea-rally-rahul-bangladesh-seemanchal-sir",
-      "siraj-to-join-india-odi-squad-wellington-missed-auckland"
-    ],
-    "also": [
-      "india-beat-new-zealand-five-wickets-dls-eden-park-first-odi"
-    ]
+  {
+   "section": "policy",
+   "lead": "jitin-prasada-warsaw-wb-group-creotech-india-poland-ties",
+   "list": [
+    "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip",
+    "sitharaman-tata-critical-component-settle-amicably-investors",
+    "supreme-court-green-crackers-delhi-ncr-diwali-november-7-8"
+   ]
   },
-  "startHere": [
-    "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
-    "two-child-norm-explained-javed-ruling-larger-bench",
-    "us-midterms-explained-congress-tariffs-what-it-means-for-india",
-    "foreign-divorce-explained-bigamy-section-13-cpc-supreme-court",
-    "goa-st-seat-reservation-explained-supreme-court",
-    "qeshm-island-explained-why-us-strike-hormuz-matters-india"
-  ],
-  "trackers": [
-    {
-      "id": "bills-in-parliament-tracker",
-      "title": {
-        "en": "Bills in Parliament",
-        "hi": "संसद में विधेयक"
-      }
-    },
-    {
-      "id": "economy-dashboard",
-      "title": {
-        "en": "Economy dashboard",
-        "hi": "अर्थव्यवस्था डैशबोर्ड"
-      }
-    },
-    {
-      "id": "election-calendar",
-      "title": {
-        "en": "Election calendar",
-        "hi": "चुनाव कैलेंडर"
-      }
-    },
-    {
-      "id": "budget-2026-27-promise-tracker",
-      "title": {
-        "en": "Budget promises",
-        "hi": "बजट के वादे"
-      }
-    },
-    {
-      "id": "sc-cases-tracker",
-      "title": {
-        "en": "Big Supreme Court cases",
-        "hi": "सुप्रीम कोर्ट के बड़े मामले"
-      }
-    }
-  ],
-  "dataDesk": {
-    "map": {
-      "tracker": "election-calendar",
-      "topic": "elections-2027",
-      "kicker": {
-        "en": "Elections 2027",
-        "hi": "चुनाव 2027"
-      },
-      "title": {
-        "en": "{n} states vote in 2027",
-        "hi": "2027 में {n} राज्यों में चुनाव"
-      },
-      "text": {
-        "en": "Five assemblies are expected to vote in February and March, Himachal Pradesh and Gujarat late in the year. No schedule has been announced. The President's term ends in July 2027.",
-        "hi": "पांच विधानसभाओं के चुनाव फरवरी और मार्च में होने की उम्मीद है, हिमाचल प्रदेश और गुजरात के साल के आखिर में। अभी कोई कार्यक्रम घोषित नहीं हुआ है। राष्ट्रपति का कार्यकाल जुलाई 2027 में खत्म होता है।"
-      }
-    },
-    "parliament": {
-      "tracker": "bills-in-parliament-tracker",
-      "session": "monsoon-2026",
-      "bills": [
-        "fcra-amendment-2026",
-        "indian-statistical-institute-2026",
-        "supreme-court-number-of-judges-amendment-2026",
-        "mmdr-amendment-2026",
-        "kerala-alteration-of-name-2026"
-      ]
-    }
+  {
+   "section": "parliament",
+   "module": {
+    "type": "session",
+    "session": "monsoon-2026"
+   },
+   "list": [
+    "birla-sameh-shoukry-brics-parliamentary-forum-opens-monday",
+    "brics-parliamentary-forum-delhi-special-session-talk",
+    "finance-ministry-idbi-2003-parliament-assurance-not-binding"
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "section": "world",
+   "lead": "us-midterms-schumer-lower-costs-with-or-without-trump",
+   "list": [
+    "us-midterms-alaska-sullivan-peltola-too-close-to-call",
+    "us-midterms-democrats-230-house-seats-economy-hegseth-blame",
+    "us-midterms-democrats-oust-spartz-van-orden-steil-house-jeffries",
+    "us-midterms-collins-concedes-troy-jackson-maine-senate-flip"
+   ]
   },
-  "factCheck": {
-    "cards": [
-      "jairam-ramesh-upi-charges-above-2000-claim",
-      "kejriwal-e20-trump-pressure-ethanol-claim",
-      "ai-brics-selfie-modi-putin-xi-raisi"
-    ]
+  {
+   "section": "science",
+   "lead": "apple-app-store-18-plus-dating-ai-companion-apps",
+   "list": [
+    "aditya-l1-velc-asymmetric-cme-expansion-iia",
+    "apollo-slok-ai-zero-financial-payoff-sp-493",
+    "cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam",
+    "nasa-isaacman-moon-base-artemis-iii-summer-2027-landing-2028"
+   ]
   },
-  "explained": [
-    {
-      "id": "imf-world-economic-outlook-explained-india-rbi",
-      "kn": [
-        {
-          "value": {
-            "en": "7%",
-            "hi": "7%"
-          },
-          "label": {
-            "en": "IMF forecast for India, this year",
-            "hi": "इस साल भारत के लिए आईएमएफ का अनुमान"
-          }
-        },
-        {
-          "value": {
-            "en": "7.1%",
-            "hi": "7.1%"
-          },
-          "label": {
-            "en": "RBI's own forecast",
-            "hi": "आरबीआई का अपना अनुमान"
-          }
-        }
-      ]
-    },
-    {
-      "id": "wpi-vs-cpi-explained-wholesale-retail-inflation",
-      "kn": [
-        {
-          "value": {
-            "en": "11.39%",
-            "hi": "11.39%"
-          },
-          "label": {
-            "en": "wholesale inflation, September",
-            "hi": "थोक महंगाई, सितंबर"
-          }
-        },
-        {
-          "value": {
-            "en": "5.54%",
-            "hi": "5.54%"
-          },
-          "label": {
-            "en": "retail inflation, September",
-            "hi": "खुदरा महंगाई, सितंबर"
-          }
-        }
-      ]
-    },
-    {
-      "id": "repo-rate-and-your-emi-explained",
-      "kn": [
-        {
-          "value": {
-            "en": "₹781",
-            "hi": "₹781"
-          },
-          "label": {
-            "en": "extra EMI a month, ₹50 lakh loan",
-            "hi": "₹50 लाख के लोन पर हर महीने ज़्यादा ईएमआई"
-          }
-        },
-        {
-          "value": {
-            "en": "₹1.87 lakh",
-            "hi": "₹1.87 लाख"
-          },
-          "label": {
-            "en": "extra over 20 years",
-            "hi": "20 साल में ज़्यादा भुगतान"
-          }
-        }
-      ]
-    }
-  ],
-  "opinion": [
-    "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth",
-    "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
-    "coastal-freight-goal-for-2047-needs-milestones-this-decade",
-    "qs-asia-slide-india-universities-must-open-to-the-world",
-    "ramlila-rally-words-parrots-shakuni-anarchy-debate-the-data"
-  ],
-  "sections": [
-    {
-      "section": "politics",
-      "module": {
-        "type": "bypolls",
-        "article": "bypoll-results-ruling-parties-win-all-six-seats"
-      },
-      "list": [
-        "jairam-ramesh-vb-g-ram-g-grievance-rules-jumla",
-        "nadda-bhopal-loktantra-bachao-march-emergency-rahul",
-        "supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board"
-      ],
-      "lead": "cabinet-fast-track-special-courts-2031-850-courts"
-    },
-    {
-      "section": "economy",
-      "lead": "wall-street-jumps-dow-1131-democrats-win-congress",
-      "module": {
-        "type": "markets",
-        "indicators": [
-          "sensex",
-          "nifty-50",
-          "usd-inr",
-          "forex-reserves"
-        ]
-      },
-      "list": [
-        "nykaa-physicswallah-q2-profit-nearly-triples-doubles",
-        "bse-q2-profit-45-per-cent-809-crore-bkc-plot-mmrda",
-        "dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend",
-        "lenskart-q2-profit-doubles-jyothy-labs-buyback"
-      ]
-    },
-    {
-      "section": "states",
-      "lead": "naveen-patnaik-writes-majhi-kotia-andhra-elections",
-      "list": [
-        "dewas-inspector-dilip-puri-accused-shot-leg-custody",
-        "goa-supreme-court-st-seat-reservation-hc-stay-sawaikar",
-        "delhi-aqi-331-jahangirpuri-499-grap-stage-two",
-        "brothers-arrested-cheetah-shot-dead-madhya-pradesh"
-      ]
-    },
-    {
-      "section": "policy",
-      "lead": "jitin-prasada-warsaw-wb-group-creotech-india-poland-ties",
-      "list": [
-        "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip",
-        "sitharaman-tata-critical-component-settle-amicably-investors",
-        "supreme-court-green-crackers-delhi-ncr-diwali-november-7-8"
-      ]
-    },
-    {
-      "section": "parliament",
-      "module": {
-        "type": "session",
-        "session": "monsoon-2026"
-      },
-      "list": [
-        "birla-sameh-shoukry-brics-parliamentary-forum-opens-monday",
-        "brics-parliamentary-forum-delhi-special-session-talk",
-        "finance-ministry-idbi-2003-parliament-assurance-not-binding"
-      ]
-    }
-  ],
-  "desks": [
-    {
-      "section": "world",
-      "lead": "us-midterms-alaska-sullivan-peltola-too-close-to-call",
-      "list": [
-        "us-midterms-democrats-230-house-seats-economy-hegseth-blame",
-        "us-midterms-democrats-oust-spartz-van-orden-steil-house-jeffries",
-        "us-midterms-collins-concedes-troy-jackson-maine-senate-flip",
-        "us-midterms-hamilton-flips-kansas-senate-marshall"
-      ]
-    },
-    {
-      "section": "science",
-      "lead": "apple-app-store-18-plus-dating-ai-companion-apps",
-      "list": [
-        "aditya-l1-velc-asymmetric-cme-expansion-iia",
-        "apollo-slok-ai-zero-financial-payoff-sp-493",
-        "cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam",
-        "nasa-isaacman-moon-base-artemis-iii-summer-2027-landing-2028"
-      ]
-    },
-    {
-      "section": "sports",
-      "lead": "india-beat-south-korea-8-1-asian-champions-trophy-semi-final-mohali",
-      "list": [
-        "modi-meet-asian-para-games-contingent-thursday",
-        "siraj-to-join-india-odi-squad-wellington-missed-auckland",
-        "india-beat-new-zealand-five-wickets-dls-eden-park-first-odi",
-        "india-65-one-down-32-over-chase-eden-park-odi"
-      ]
-    }
-  ],
-  "weekAhead": []
+  {
+   "section": "sports",
+   "lead": "hijikata-stuns-djokovic-paris-masters-turin-hopes-end",
+   "list": [
+    "india-beat-south-korea-8-1-asian-champions-trophy-semi-final-mohali",
+    "modi-meet-asian-para-games-contingent-thursday",
+    "siraj-to-join-india-odi-squad-wellington-missed-auckland",
+    "india-beat-new-zealand-five-wickets-dls-eden-park-first-odi"
+   ]
+  }
+ ],
+ "weekAhead": []
 }

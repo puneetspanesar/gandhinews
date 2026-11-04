@@ -109,3 +109,9 @@ Owner's note: too many market and sales stories, not enough of the day's real ne
 - Editor FAIL not fixed: too many infographics in the top headlines (courts lead, hockey, Wall Street, energy storage); Modi Para Games slot has no photo; Nadda graphic moved out of headlines. Next run: real photos for Modi, Vaishnaw, Sullivan/Peltola, Nadda.
 - Desks found little in 20:00 to 22:15. Unconfirmed (single source TNI, no time): Agniveer tenure four to six years; Sharad Pawar discharge with Modi call (may be recycled February items); Kotia booth moved to Sarika. Nepal Pheriche helicopter collision that killed an Indian was 3 Nov morning, not written.
 - Markets: Nov 4 FII +7,284.03 crore, DII -3,712.23 crore (Trendlyne) added.
+
+## November 4, 2026, 11:40 pm (from the 23:00 run)
+- Published: Hijikata beats Djokovic at the Paris Masters (Turin hopes end, about 22:20 IST); Priyank Kharge warns Vijayendra and Narayanaswamy of legal action (IANS only, 21:48 IST); Schumer says Democrats will lower costs "with or without" Trump (AP via Fox10, 22:37 IST). All three on infographics because download run (h0423 photos) was still running at the push deadline. Checked photos registered in photos.json: Rinky Hijikata (2023 Cary) + Novak Djokovic at ATP 2015, Priyank Kharge (2026), Chuck Schumer 113th Congress. Next run: apply_composites and switch all three off their infographics (delete the graphic map entries first).
+- Dropped: BJP Zakhm-84 conclave in Chandigarh (day-long event before the window).
+- Editor check NOT run this hour (push deadline). Homepage top eight has two midterms items (Schumer, Alaska) and two economy items; rebalance next run.
+- Markets: nothing new after the close; markets.json unchanged.
