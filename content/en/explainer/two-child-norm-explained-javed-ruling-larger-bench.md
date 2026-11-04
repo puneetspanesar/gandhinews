@@ -102,10 +102,6 @@ The idea behind it was population control: those who lead villages and towns wer
 
 The petitioners argued that the bar was arbitrary and broke the right to equality under Article 14, the right to life and personal liberty under Article 21, and the freedom of religion under Article 25, since Muslim personal law allows a man more than one wife. The court rejected all three. It held that separating candidates with two children from those with more was a **reasonable classification** linked to the law's aim of controlling population.
 
-```photo
-{"n":1,"subject":"R. C. Lahoti","caption":"Justice R C Lahoti, later Chief Justice of India, sat on the three-judge bench that upheld Haryana's two-child rule in Javed in 2003.","alt":"Former Chief Justice of India R C Lahoti"}
-```
-
 The court also said the right to contest a panchayat election is not a fundamental right but a right given by statute, so the legislature can set conditions on it. On religion, it held that Article 25 protects only practices integral to a faith, and that having more than one wife was not one of them. Javed has since been followed, including in 2024 when another three-judge bench upheld Rajasthan's police recruitment rule.
 
 ## Which states still have it?
@@ -127,10 +123,6 @@ Justices PS Narasimha and Alok Aradhe used her case to question the rule itself.
 ## What does a reference to a larger bench mean?
 
 **That only a bigger bench can overturn Javed.** In the Supreme Court a smaller bench is bound by the ruling of a larger one. Javed was decided by three judges, so a bench of two cannot set it aside however strongly it disagrees. What it can do, and did, is record its doubts and send the question up.
-
-```photo
-{"n":2,"subject":"P. S. Narasimha","caption":"Justice PS Narasimha pronounced Wednesday's ruling saying two-child laws have lost their relevance.","alt":"Justice PS Narasimha of the Supreme Court"}
-```
 
 The papers now go to the Chief Justice of India, who decides when a bench of more than three judges will be set up to hear it. That bench could overrule Javed, uphold it, or settle the matter on narrower grounds. The two judges said their view had **compelled them to stay the proceedings** in Ingle's case until then.
 
