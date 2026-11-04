@@ -27961,29 +27961,46 @@
   "alt_hi": "मुंबई के दलाल स्ट्रीट पर बॉम्बे स्टॉक एक्सचेंज की इमारत (फ़ाइल फ़ोटो)",
   "page": null
  },
- "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro--p1": {
-  "id": "v-energy-storage-vgf-explained-why-india-needs-batteries--p1",
-  "src": "/photos/v-energy-storage-vgf-explained-why-india-needs-batteries--p1-1280.jpg",
-  "src800": "/photos/v-energy-storage-vgf-explained-why-india-needs-batteries--p1-640.jpg",
+ "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell": {
+  "id": "i-child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
+  "src": "/photos/i-child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell-en-3x2-1280.jpg",
+  "src800": "/photos/i-child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell-en-3x2-640.jpg",
   "width": 1280,
-  "height": 960,
-  "credit": "Photo: Copernicus Sentinel-2, ESA / Wikimedia Commons",
-  "licence": "Attribution",
-  "alt": "Satellite view of Bhadla Solar Park in Rajasthan (file photo)",
-  "alt_hi": "राजस्थान के भडला सोलर पार्क का उपग्रह चित्र (फ़ाइल फ़ोटो)",
-  "page": null
- },
- "two-child-norm-explained-javed-ruling-larger-bench": {
-  "id": "v-two-child-norm-explained-javed-ruling-larger-bench",
-  "src": "/photos/v-two-child-norm-explained-javed-ruling-larger-bench-1280.jpg",
-  "src800": "/photos/v-two-child-norm-explained-javed-ruling-larger-bench-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: Pinakpani / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "The Supreme Court of India in New Delhi (file photo)",
-  "alt_hi": "नई दिल्ली में भारत का सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
-  "page": null
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: A ban on paper since 2016, a cell ordered now",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: 2016 से कागज़ पर रोक, अब प्रकोष्ठ का आदेश",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell-hi-3x2-1280.jpg",
+    "src800": "/photos/i-child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell-en-t-1280.jpg",
+    "src800": "/photos/i-child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell-hi-t-1280.jpg",
+    "src800": "/photos/i-child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell-en-1280.jpg",
+    "src800": "/photos/i-child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell-hi-1280.jpg",
+    "src800": "/photos/i-child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell-hi-640.jpg"
+   }
+  }
  },
  "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro": {
   "id": "i-energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
@@ -28026,47 +28043,6 @@
    }
   }
  },
- "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell": {
-  "id": "i-child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
-  "src": "/photos/i-child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell-en-3x2-1280.jpg",
-  "src800": "/photos/i-child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell-en-3x2-640.jpg",
-  "width": 1280,
-  "height": 853,
-  "credit": "Graphic: Gandhi News",
-  "licence": "",
-  "graphic": true,
-  "alt": "Gandhi News graphic: A ban on paper since 2016, a cell ordered now",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: 2016 से कागज़ पर रोक, अब प्रकोष्ठ का आदेश",
-  "page": null,
-  "byLang": {
-   "hi": {
-    "src": "/photos/i-child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell-hi-3x2-1280.jpg",
-    "src800": "/photos/i-child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell-hi-3x2-640.jpg"
-   }
-  },
-  "thumb": {
-   "en": {
-    "src": "/photos/i-child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell-en-t-1280.jpg",
-    "src800": "/photos/i-child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell-en-t-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell-hi-t-1280.jpg",
-    "src800": "/photos/i-child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell-hi-t-640.jpg"
-   }
-  },
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/i-child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell-en-1280.jpg",
-    "src800": "/photos/i-child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell-hi-1280.jpg",
-    "src800": "/photos/i-child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell-hi-640.jpg"
-   }
-  }
- },
  "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth": {
   "id": "r-delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth",
   "src": "/photos/r-delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth-1280.jpg",
@@ -28078,5 +28054,111 @@
   "alt": "Voters queue with their identity cards to vote (file photo)",
   "alt_hi": "पहचान पत्र लेकर मतदान के लिए कतार में खड़े मतदाता (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Queues_of_Indian_voters_-_Flickr_-_Al_Jazeera_English.jpg"
+ },
+ "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro--p1": {
+  "id": "v-energy-storage-vgf-explained-why-india-needs-batteries--p1",
+  "src": "/photos/v-energy-storage-vgf-explained-why-india-needs-batteries--p1-1280.jpg",
+  "src800": "/photos/v-energy-storage-vgf-explained-why-india-needs-batteries--p1-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Copernicus Sentinel-2, ESA / Wikimedia Commons",
+  "licence": "Attribution",
+  "alt": "Satellite view of Bhadla Solar Park in Rajasthan (file photo)",
+  "alt_hi": "राजस्थान के भडला सोलर पार्क का उपग्रह चित्र (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "two-child-norm-explained-javed-ruling-larger-bench": {
+  "id": "v-two-child-norm-explained-javed-ruling-larger-bench",
+  "src": "/photos/v-two-child-norm-explained-javed-ruling-larger-bench-1280.jpg",
+  "src800": "/photos/v-two-child-norm-explained-javed-ruling-larger-bench-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Pinakpani / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Supreme Court of India in New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली में भारत का सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend": {
+  "id": "i-dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend",
+  "src": "/photos/i-dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend-en-3x2-1280.jpg",
+  "src800": "/photos/i-dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Dabur profit up 12% on steady demand",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: स्थिर मांग से डाबर का मुनाफा 12% बढ़ा",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend-hi-3x2-1280.jpg",
+    "src800": "/photos/i-dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend-en-t-1280.jpg",
+    "src800": "/photos/i-dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend-hi-t-1280.jpg",
+    "src800": "/photos/i-dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend-en-1280.jpg",
+    "src800": "/photos/i-dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend-hi-1280.jpg",
+    "src800": "/photos/i-dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend-hi-640.jpg"
+   }
+  }
+ },
+ "supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board": {
+  "id": "i-supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board",
+  "src": "/photos/i-supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board-en-3x2-1280.jpg",
+  "src800": "/photos/i-supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Chidambaram temple board order stayed",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: चिदंबरम मंदिर बोर्ड के आदेश पर रोक",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board-hi-3x2-1280.jpg",
+    "src800": "/photos/i-supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board-en-t-1280.jpg",
+    "src800": "/photos/i-supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board-hi-t-1280.jpg",
+    "src800": "/photos/i-supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board-en-1280.jpg",
+    "src800": "/photos/i-supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board-hi-1280.jpg",
+    "src800": "/photos/i-supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board-hi-640.jpg"
+   }
+  }
  }
 }

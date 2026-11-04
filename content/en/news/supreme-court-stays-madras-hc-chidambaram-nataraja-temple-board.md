@@ -56,10 +56,6 @@ The Supreme Court on Wednesday **stayed a Madras High Court order** that had set
 
 A bench of Justices Aravind Kumar and Vipul Pancholi passed the interim order on a challenge by the Podhu Dikshitars, the hereditary priests who have long run the temple. They argued that the High Court's direction **interfered with their right under Article 26** of the Constitution, which lets religious denominations manage their own affairs in matters of religion.
 
-```photo
-{"n":1,"subject":"Supreme Court of India","caption":"The Supreme Court of India, where a two-judge bench stayed the High Court's order on Wednesday.","alt":"The Supreme Court of India building in New Delhi"}
-```
-
 ## What the High Court had ordered
 
 On 30 October, a Division Bench of Justices G Jayachandran and E Manoharan disposed of a batch of writ petitions on the temple's affairs. Holding that judicial intervention was needed to deal with alleged maladministration, it constituted a **five-member Board of Management** to run the temple "till the ill is cured".
@@ -67,10 +63,6 @@ On 30 October, a Division Bench of Justices G Jayachandran and E Manoharan dispo
 The board was to be chaired by retired Madras High Court judge Justice V Bharathidasan, with retired judge Justice R Suresh Kumar as co-chairman and retired IAS officer C Rajendran as a member. The Secretaries of the Podhu Dikshitars and of the state's Hindu Religious and Charitable Endowments (HR&CE) Department were to sit as ex-officio members.
 
 The High Court had made clear that daily rituals and periodical festivals would **stay with the Podhu Dikshitars** alone, in keeping with established customs and practice.
-
-```photo
-{"n":2,"subject":"Madras High Court","caption":"The Madras High Court, whose Division Bench set up the temple board on 30 October.","alt":"The Madras High Court building in Chennai"}
-```
 
 ## What happens now
 

@@ -62,19 +62,11 @@ Costs ate into some of the gain. Operating profit rose 7.5% to ₹633 crore, slo
 
 "We delivered profitable growth despite operating in a challenging external environment," said Herjit S. Bhalla, Dabur India's chief executive.
 
-```photo
-{"n":1,"subject":"Dabur Vatika","caption":"Vatika hair care products; hair oils and shampoos grew at high double digits in the quarter.","alt":"Dabur Vatika hair care products"}
-```
-
 ## Where the growth came from
 
 The India FMCG business grew 10.7%, with **underlying volumes up 5.5%**, while the international business rose 20% in rupee terms. Food and beverages was the fastest-growing segment at 17.4%. Home and personal care grew 10.9%, and healthcare 6.9%, helped by strong double-digit growth in digestives, over-the-counter products and ethicals.
 
 Premium brands grew four times faster than regular ones and now make up a fifth of the domestic business.
-
-```photo
-{"n":2,"subject":"Hajmola","caption":"Hajmola, one of Dabur's digestive brands; digestives grew at strong double digits in the quarter.","alt":"Hajmola digestive tablets"}
-```
 
 The board declared an **interim dividend of ₹3.50 a share** for 2026-27. The record date is November 10, and payments begin on November 25.
 

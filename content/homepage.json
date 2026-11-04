@@ -22,11 +22,11 @@
       "us-midterms-hamilton-flips-kansas-senate-marshall"
     ],
     "relatedBeside": [
-      "cabinet-energy-storage-vgf-14500-crore-critical-minerals-2814",
-      "himanta-purnea-rally-rahul-bangladesh-seemanchal-sir",
+      "supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board",
+      "dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend",
       "india-beat-new-zealand-five-wickets-dls-eden-park-first-odi",
-      "dewas-inspector-dilip-puri-accused-shot-leg-custody",
-      "rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs"
+      "jaishankar-chogm-antigua-dpi-ftas-executive-session",
+      "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip"
     ],
     "live": {
       "title": {
@@ -38,25 +38,36 @@
   "briefing": {
     "items": [
       {
-        "link": "us-midterms-democrats-win-senate-talarico-brown-flip",
+        "link": "supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board",
         "lead": {
-          "en": "US midterms:",
-          "hi": "अमेरिकी चुनाव:"
+          "en": "Courts:",
+          "hi": "अदालत:"
         },
         "text": {
-          "en": "Democrats win the Senate, taking both chambers of Congress from Trump",
-          "hi": "सीनेट भी डेमोक्रेट्स के हाथ, ट्रंप से छिना कांग्रेस के दोनों सदनों का नियंत्रण"
+          "en": "Supreme Court stays Madras HC order handing Chidambaram Nataraja temple to a five-member board",
+          "hi": "चिदंबरम नटराज मंदिर पांच सदस्यीय बोर्ड को सौंपने के मद्रास हाईकोर्ट के आदेश पर सुप्रीम कोर्ट की रोक"
         }
       },
       {
-        "link": "cabinet-energy-storage-vgf-14500-crore-critical-minerals-2814",
+        "link": "dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend",
         "lead": {
-          "en": "Energy:",
-          "hi": "ऊर्जा:"
+          "en": "Companies:",
+          "hi": "कंपनियां:"
         },
         "text": {
-          "en": "Cabinet clears ₹14,500 crore to build 92 GWh of energy storage and ₹2,814 crore for lithium, nickel plants",
-          "hi": "कैबिनेट ने 92 GWh ऊर्जा भंडारण के लिए ₹14,500 करोड़ और लिथियम-निकल संयंत्रों के लिए ₹2,814 करोड़ मंजूर किए"
+          "en": "Dabur profit rises 12% to ₹505.5 crore, declares ₹3.50 interim dividend",
+          "hi": "डाबर का मुनाफा 12% बढ़कर ₹505.5 करोड़, ₹3.50 का अंतरिम लाभांश"
+        }
+      },
+      {
+        "link": "nadda-bhopal-loktantra-bachao-march-emergency-rahul",
+        "lead": {
+          "en": "Madhya Pradesh:",
+          "hi": "मध्य प्रदेश:"
+        },
+        "text": {
+          "en": "Nadda leads BJP march in Bhopal, says Rahul is 'pretending' to protect democracy",
+          "hi": "भोपाल में नड्डा की पदयात्रा, बोले: राहुल लोकतंत्र के रक्षक होने का 'दिखावा' कर रहे"
         }
       },
       {
@@ -71,17 +82,6 @@
         }
       },
       {
-        "link": "rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs",
-        "lead": {
-          "en": "Punjab:",
-          "hi": "पंजाब:"
-        },
-        "text": {
-          "en": "Rahul Gandhi brings Moosewala's father on stage in Sangrur, says killers' mindset roams Punjab",
-          "hi": "संगरूर में राहुल गांधी ने मूसेवाला के पिता को मंच पर बुलाया, बोले, पंजाब में घूम रही है हत्यारों की सोच"
-        }
-      },
-      {
         "link": "india-beat-new-zealand-five-wickets-dls-eden-park-first-odi",
         "lead": {
           "en": "Cricket:",
@@ -93,10 +93,21 @@
         }
       },
       {
+        "link": "supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification",
+        "lead": {
+          "en": "MP:",
+          "hi": "मप्र:"
+        },
+        "text": {
+          "en": "Supreme Court gives Madhya Pradesh Speaker two months to decide on Nirmala Sapre's disqualification",
+          "hi": "निर्मला सप्रे की सदस्यता पर सुप्रीम कोर्ट ने मध्य प्रदेश के स्पीकर को दो महीने में फैसला करने को कहा"
+        }
+      },
+      {
         "link": "jitin-prasada-warsaw-wb-group-creotech-india-poland-ties",
         "lead": {
-          "en": "Poland:",
-          "hi": "पोलैंड:"
+          "en": "Trade:",
+          "hi": "व्यापार:"
         },
         "text": {
           "en": "Jitin Prasada meets Polish defence, space and IT bosses in Warsaw",
@@ -112,17 +123,6 @@
         "text": {
           "en": "Accused in Dewas inspector's killing shot in leg, police say he tried to flee custody",
           "hi": "देवास में इंस्पेक्टर की मौत का आरोपी पैर में गोली लगने से घायल, पुलिस बोली हिरासत से भागने की कोशिश की"
-        }
-      },
-      {
-        "link": "jaishankar-chogm-antigua-dpi-ftas-executive-session",
-        "lead": {
-          "en": "CHOGM:",
-          "hi": "चोगम:"
-        },
-        "text": {
-          "en": "Jaishankar pitches India's digital public infrastructure and trade deals to Commonwealth leaders in Antigua",
-          "hi": "एंटीगा में जयशंकर ने राष्ट्रमंडल नेताओं के सामने रखा भारत का डिजिटल ढांचा और व्यापार समझौते"
         }
       }
     ]
@@ -190,24 +190,27 @@
   },
   "topStories": {
     "big": {
-      "id": "jitin-prasada-warsaw-wb-group-creotech-india-poland-ties",
+      "id": "rahul-gandhi-insaaf-rally-sangrur-phaguwala-punjab-campaign",
       "also": []
     },
     "list": [
-      "jaishankar-chogm-antigua-dpi-ftas-executive-session",
+      "dewas-inspector-dilip-puri-accused-shot-leg-custody",
       "psg-six-villarreal-record-bayern-win-madrid-cunha-united",
-      "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip",
-      "apple-app-store-18-plus-dating-ai-companion-apps"
+      "himanta-purnea-rally-rahul-bangladesh-seemanchal-sir",
+      "nadda-bhopal-loktantra-bachao-march-emergency-rahul",
+      "supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification"
     ],
-    "also": []
+    "also": [
+      "misri-lands-kathmandu-today-three-post-diwali-dates-shah"
+    ]
   },
   "startHere": [
+    "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
+    "two-child-norm-explained-javed-ruling-larger-bench",
     "us-midterms-explained-congress-tariffs-what-it-means-for-india",
     "foreign-divorce-explained-bigamy-section-13-cpc-supreme-court",
     "goa-st-seat-reservation-explained-supreme-court",
-    "qeshm-island-explained-why-us-strike-hormuz-matters-india",
-    "iran-qatar-draft-proposal-explained-oil-prices-india-import-bill",
-    "why-bay-of-bengal-back-to-back-cyclones-murasu-arnab-explained"
+    "qeshm-island-explained-why-us-strike-hormuz-matters-india"
   ],
   "trackers": [
     {
@@ -360,11 +363,11 @@
     }
   ],
   "opinion": [
+    "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth",
+    "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
     "coastal-freight-goal-for-2047-needs-milestones-this-decade",
     "qs-asia-slide-india-universities-must-open-to-the-world",
-    "ramlila-rally-words-parrots-shakuni-anarchy-debate-the-data",
-    "vizag-refinery-fire-was-contained-the-belt-needs-public-safety-audits",
-    "neet-pg-candidates-deserve-to-see-their-question-papers"
+    "ramlila-rally-words-parrots-shakuni-anarchy-debate-the-data"
   ],
   "sections": [
     {
@@ -374,15 +377,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board",
         "himanta-purnea-rally-rahul-bangladesh-seemanchal-sir",
-        "rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs",
-        "supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification"
+        "rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs"
       ],
       "lead": "nadda-bhopal-loktantra-bachao-march-emergency-rahul"
     },
     {
       "section": "economy",
-      "lead": "lenskart-q2-profit-doubles-jyothy-labs-buyback",
+      "lead": "dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend",
       "module": {
         "type": "markets",
         "indicators": [
@@ -393,10 +396,10 @@
         ]
       },
       "list": [
+        "lenskart-q2-profit-doubles-jyothy-labs-buyback",
         "sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4",
         "cabinet-energy-storage-vgf-14500-crore-critical-minerals-2814",
-        "rbi-financial-markets-consultative-committee-rohit-jain",
-        "mcx-q2-profit-454-crore-revenue-doubles"
+        "rbi-financial-markets-consultative-committee-rohit-jain"
       ]
     },
     {
@@ -425,6 +428,7 @@
         "session": "monsoon-2026"
       },
       "list": [
+        "birla-sameh-shoukry-brics-parliamentary-forum-opens-monday",
         "brics-parliamentary-forum-delhi-special-session-talk",
         "finance-ministry-idbi-2003-parliament-assurance-not-binding"
       ]
@@ -447,18 +451,18 @@
       "list": [
         "aditya-l1-velc-asymmetric-cme-expansion-iia",
         "apollo-slok-ai-zero-financial-payoff-sp-493",
-        "nasa-isaacman-moon-base-artemis-iii-summer-2027-landing-2028",
-        "bhashini-10-billion-inferences-etd-2026-iit-delhi"
+        "cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam",
+        "nasa-isaacman-moon-base-artemis-iii-summer-2027-landing-2028"
       ]
     },
     {
       "section": "sports",
       "lead": "india-beat-new-zealand-five-wickets-dls-eden-park-first-odi",
       "list": [
-        "urvil-patel-210-pradosh-paul-208-ranji-round-four-day-two",
-        "sindhu-lakshya-withdraw-korea-open-sindhu-japan-masters",
-        "glenn-maxwell-retires-international-cricket-38",
-        "ashwin-chapter-closed-bhuvneshwar-backs-shami"
+        "india-65-one-down-32-over-chase-eden-park-odi",
+        "india-54-one-down-rain-stops-play-eden-park-odi",
+        "india-41-one-down-kohli-chase-186-eden-park-odi",
+        "rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-eden-park"
       ]
     }
   ],
