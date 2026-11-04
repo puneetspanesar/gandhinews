@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "us-midterms-democrats-win-senate-talarico-brown-flip",
+    "id": "supreme-court-two-child-norm-javed-larger-bench",
     "overlay": {
       "kicker": {
-        "en": "World / US midterms",
-        "hi": "दुनिया / अमेरिकी मध्यावधि चुनाव"
+        "en": "Politics / Courts",
+        "hi": "राजनीति / अदालत"
       },
       "value": {
-        "en": "Democrats take both chambers",
-        "hi": "दोनों सदनों पर डेमोक्रेट्स का कब्ज़ा"
+        "en": "Two-child rule sent to a larger bench",
+        "hi": "दो बच्चों का नियम बड़ी पीठ के पास"
       },
       "text": {
         "en": "",
@@ -17,48 +17,26 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "us-midterms-democrats-230-house-seats-economy-hegseth-blame",
-      "us-midterms-democrats-oust-spartz-van-orden-steil-house-jeffries",
-      "us-midterms-hamilton-flips-kansas-senate-marshall"
+      "two-child-norm-explained-javed-ruling-larger-bench",
+      "supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board",
+      "supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification"
     ],
     "relatedBeside": [
-      "supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board",
-      "dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend",
+      "nadda-bhopal-loktantra-bachao-march-emergency-rahul",
+      "cabinet-energy-storage-vgf-14500-crore-critical-minerals-2814",
       "india-beat-new-zealand-five-wickets-dls-eden-park-first-odi",
-      "jaishankar-chogm-antigua-dpi-ftas-executive-session",
-      "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip"
+      "us-midterms-democrats-230-house-seats-economy-hegseth-blame",
+      "himanta-purnea-rally-rahul-bangladesh-seemanchal-sir"
     ],
     "live": {
       "title": {
-        "en": "US midterms",
-        "hi": "अमेरिकी मध्यावधि चुनाव"
+        "en": "Supreme Court",
+        "hi": "सुप्रीम कोर्ट"
       }
     }
   },
   "briefing": {
     "items": [
-      {
-        "link": "supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board",
-        "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
-        },
-        "text": {
-          "en": "Supreme Court stays Madras HC order handing Chidambaram Nataraja temple to a five-member board",
-          "hi": "चिदंबरम नटराज मंदिर पांच सदस्यीय बोर्ड को सौंपने के मद्रास हाईकोर्ट के आदेश पर सुप्रीम कोर्ट की रोक"
-        }
-      },
-      {
-        "link": "dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend",
-        "lead": {
-          "en": "Companies:",
-          "hi": "कंपनियां:"
-        },
-        "text": {
-          "en": "Dabur profit rises 12% to ₹505.5 crore, declares ₹3.50 interim dividend",
-          "hi": "डाबर का मुनाफा 12% बढ़कर ₹505.5 करोड़, ₹3.50 का अंतरिम लाभांश"
-        }
-      },
       {
         "link": "nadda-bhopal-loktantra-bachao-march-emergency-rahul",
         "lead": {
@@ -71,14 +49,14 @@
         }
       },
       {
-        "link": "himanta-purnea-rally-rahul-bangladesh-seemanchal-sir",
+        "link": "cabinet-energy-storage-vgf-14500-crore-critical-minerals-2814",
         "lead": {
-          "en": "Bihar:",
-          "hi": "बिहार:"
+          "en": "Policy:",
+          "hi": "नीति:"
         },
         "text": {
-          "en": "Himanta says he will 'send Rahul Gandhi to Bangladesh', demands fresh SIR in Seemanchal",
-          "hi": "हिमंत बोले, 'राहुल गांधी को बांग्लादेश भेजेंगे', सीमांचल में नए SIR की मांग"
+          "en": "Cabinet clears ₹14,500 crore to build 92 GWh of energy storage and ₹2,814 crore for lithium, nickel plants",
+          "hi": "कैबिनेट ने 92 GWh ऊर्जा भंडारण के लिए ₹14,500 करोड़ और लिथियम-निकल संयंत्रों के लिए ₹2,814 करोड़ मंजूर किए"
         }
       },
       {
@@ -93,14 +71,25 @@
         }
       },
       {
-        "link": "supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification",
+        "link": "us-midterms-democrats-230-house-seats-economy-hegseth-blame",
         "lead": {
-          "en": "MP:",
-          "hi": "मप्र:"
+          "en": "US midterms:",
+          "hi": "अमेरिकी मध्यावधि चुनाव:"
         },
         "text": {
-          "en": "Supreme Court gives Madhya Pradesh Speaker two months to decide on Nirmala Sapre's disqualification",
-          "hi": "निर्मला सप्रे की सदस्यता पर सुप्रीम कोर्ट ने मध्य प्रदेश के स्पीकर को दो महीने में फैसला करने को कहा"
+          "en": "Democrats head for more than 230 House seats as prices drive the vote",
+          "hi": "प्रतिनिधि सभा में 230 से ज़्यादा सीटों की ओर डेमोक्रेट्स, महंगाई बनी बड़ा मुद्दा"
+        }
+      },
+      {
+        "link": "himanta-purnea-rally-rahul-bangladesh-seemanchal-sir",
+        "lead": {
+          "en": "Bihar:",
+          "hi": "बिहार:"
+        },
+        "text": {
+          "en": "Himanta says he will 'send Rahul Gandhi to Bangladesh', demands fresh SIR in Seemanchal",
+          "hi": "हिमंत बोले, 'राहुल गांधी को बांग्लादेश भेजेंगे', सीमांचल में नए SIR की मांग"
         }
       },
       {
@@ -117,12 +106,23 @@
       {
         "link": "dewas-inspector-dilip-puri-accused-shot-leg-custody",
         "lead": {
-          "en": "Dewas:",
-          "hi": "देवास:"
+          "en": "Madhya Pradesh:",
+          "hi": "मध्य प्रदेश:"
         },
         "text": {
           "en": "Accused in Dewas inspector's killing shot in leg, police say he tried to flee custody",
           "hi": "देवास में इंस्पेक्टर की मौत का आरोपी पैर में गोली लगने से घायल, पुलिस बोली हिरासत से भागने की कोशिश की"
+        }
+      },
+      {
+        "link": "jaishankar-chogm-antigua-dpi-ftas-executive-session",
+        "lead": {
+          "en": "Diplomacy:",
+          "hi": "कूटनीति:"
+        },
+        "text": {
+          "en": "Jaishankar pitches India's digital public infrastructure and trade deals to Commonwealth leaders in Antigua",
+          "hi": "एंटीगा में जयशंकर ने राष्ट्रमंडल नेताओं के सामने रखा भारत का डिजिटल ढांचा और व्यापार समझौते"
         }
       }
     ]
@@ -190,18 +190,19 @@
   },
   "topStories": {
     "big": {
-      "id": "rahul-gandhi-insaaf-rally-sangrur-phaguwala-punjab-campaign",
+      "id": "jitin-prasada-warsaw-wb-group-creotech-india-poland-ties",
       "also": []
     },
     "list": [
       "dewas-inspector-dilip-puri-accused-shot-leg-custody",
-      "psg-six-villarreal-record-bayern-win-madrid-cunha-united",
-      "himanta-purnea-rally-rahul-bangladesh-seemanchal-sir",
-      "nadda-bhopal-loktantra-bachao-march-emergency-rahul",
-      "supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification"
+      "jaishankar-chogm-antigua-dpi-ftas-executive-session",
+      "dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend",
+      "rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs",
+      "supreme-court-child-labour-special-cell-centre"
     ],
     "also": [
-      "misri-lands-kathmandu-today-three-post-diwali-dates-shah"
+      "rbi-financial-markets-consultative-committee-rohit-jain",
+      "supreme-court-delhi-sir-form-6-ec-clarification-cji-mention"
     ]
   },
   "startHere": [
