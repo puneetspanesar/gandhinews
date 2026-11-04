@@ -28222,43 +28222,161 @@
   "page": null
  },
  "naveen-patnaik-writes-majhi-kotia-andhra-elections": {
-  "id": "i-naveen-patnaik-writes-majhi-kotia-andhra-elections",
-  "src": "/photos/i-naveen-patnaik-writes-majhi-kotia-andhra-elections-en-3x2-1280.jpg",
-  "src800": "/photos/i-naveen-patnaik-writes-majhi-kotia-andhra-elections-en-3x2-640.jpg",
+  "id": "v-naveen-patnaik-writes-majhi-kotia-andhra-elections",
+  "src": "/photos/v-naveen-patnaik-writes-majhi-kotia-andhra-elections-1280.jpg",
+  "src800": "/photos/v-naveen-patnaik-writes-majhi-kotia-andhra-elections-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photos: TeachAIDS / Wikimedia Commons; Odisha State Legislative Assembly / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0, CC BY-SA 4.0",
+  "alt": "Naveen Patnaik and Mohan Charan Majhi (file photo)",
+  "alt_hi": "नवीन पटनायक और मोहन चरण माझी (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "jairam-ramesh-vb-g-ram-g-grievance-rules-jumla--p2": {
+  "id": "v-jairam-ramesh-vb-g-ram-g-grievance-rules-jumla-p2",
+  "src": "/photos/v-jairam-ramesh-vb-g-ram-g-grievance-rules-jumla-p2-1280.jpg",
+  "src800": "/photos/v-jairam-ramesh-vb-g-ram-g-grievance-rules-jumla-p2-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Mulkh Singh / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Rural job scheme workers at a worksite (file photo)",
+  "alt_hi": "ग्रामीण रोजगार योजना के कार्यस्थल पर मजदूर (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "naveen-patnaik-writes-majhi-kotia-andhra-elections--p2": {
+  "id": "v-naveen-patnaik-writes-majhi-kotia-andhra-elections-p2",
+  "src": "/photos/v-naveen-patnaik-writes-majhi-kotia-andhra-elections-p2-1280.jpg",
+  "src800": "/photos/v-naveen-patnaik-writes-majhi-kotia-andhra-elections-p2-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Kkmishra1960 / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Hills of Koraput district, Odisha (file photo)",
+  "alt_hi": "ओडिशा के कोरापुट जिले की पहाड़ियां (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "cabinet-fast-track-special-courts-2031-850-courts": {
+  "id": "i-cabinet-fast-track-special-courts-2031-850-courts",
+  "src": "/photos/i-cabinet-fast-track-special-courts-2031-850-courts-en-3x2-1280.jpg",
+  "src800": "/photos/i-cabinet-fast-track-special-courts-2031-850-courts-en-3x2-640.jpg",
   "width": 1280,
   "height": 853,
   "credit": "Graphic: Gandhi News",
   "licence": "",
   "graphic": true,
-  "alt": "Gandhi News graphic: Naveen writes again to Majhi on Kotia",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: नवीन ने कोटिया पर माझी को फिर लिखा",
+  "alt": "Gandhi News graphic: Fast-track courts for rape and POCSO cases extended",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: दुष्कर्म और पॉक्सो की फास्ट ट्रैक अदालतों का विस्तार",
   "page": null,
   "byLang": {
    "hi": {
-    "src": "/photos/i-naveen-patnaik-writes-majhi-kotia-andhra-elections-hi-3x2-1280.jpg",
-    "src800": "/photos/i-naveen-patnaik-writes-majhi-kotia-andhra-elections-hi-3x2-640.jpg"
+    "src": "/photos/i-cabinet-fast-track-special-courts-2031-850-courts-hi-3x2-1280.jpg",
+    "src800": "/photos/i-cabinet-fast-track-special-courts-2031-850-courts-hi-3x2-640.jpg"
    }
   },
   "thumb": {
    "en": {
-    "src": "/photos/i-naveen-patnaik-writes-majhi-kotia-andhra-elections-en-t-1280.jpg",
-    "src800": "/photos/i-naveen-patnaik-writes-majhi-kotia-andhra-elections-en-t-640.jpg"
+    "src": "/photos/i-cabinet-fast-track-special-courts-2031-850-courts-en-t-1280.jpg",
+    "src800": "/photos/i-cabinet-fast-track-special-courts-2031-850-courts-en-t-640.jpg"
    },
    "hi": {
-    "src": "/photos/i-naveen-patnaik-writes-majhi-kotia-andhra-elections-hi-t-1280.jpg",
-    "src800": "/photos/i-naveen-patnaik-writes-majhi-kotia-andhra-elections-hi-t-640.jpg"
+    "src": "/photos/i-cabinet-fast-track-special-courts-2031-850-courts-hi-t-1280.jpg",
+    "src800": "/photos/i-cabinet-fast-track-special-courts-2031-850-courts-hi-t-640.jpg"
    }
   },
   "cover": {
    "width": 1280,
    "height": 720,
    "en": {
-    "src": "/photos/i-naveen-patnaik-writes-majhi-kotia-andhra-elections-en-1280.jpg",
-    "src800": "/photos/i-naveen-patnaik-writes-majhi-kotia-andhra-elections-en-640.jpg"
+    "src": "/photos/i-cabinet-fast-track-special-courts-2031-850-courts-en-1280.jpg",
+    "src800": "/photos/i-cabinet-fast-track-special-courts-2031-850-courts-en-640.jpg"
    },
    "hi": {
-    "src": "/photos/i-naveen-patnaik-writes-majhi-kotia-andhra-elections-hi-1280.jpg",
-    "src800": "/photos/i-naveen-patnaik-writes-majhi-kotia-andhra-elections-hi-640.jpg"
+    "src": "/photos/i-cabinet-fast-track-special-courts-2031-850-courts-hi-1280.jpg",
+    "src800": "/photos/i-cabinet-fast-track-special-courts-2031-850-courts-hi-640.jpg"
+   }
+  }
+ },
+ "modi-meet-asian-para-games-contingent-thursday": {
+  "id": "i-modi-meet-asian-para-games-contingent-thursday",
+  "src": "/photos/i-modi-meet-asian-para-games-contingent-thursday-en-3x2-1280.jpg",
+  "src800": "/photos/i-modi-meet-asian-para-games-contingent-thursday-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Modi to meet India's record para contingent",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: रिकॉर्ड पैरा दल से मिलेंगे मोदी",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-modi-meet-asian-para-games-contingent-thursday-hi-3x2-1280.jpg",
+    "src800": "/photos/i-modi-meet-asian-para-games-contingent-thursday-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-modi-meet-asian-para-games-contingent-thursday-en-t-1280.jpg",
+    "src800": "/photos/i-modi-meet-asian-para-games-contingent-thursday-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-modi-meet-asian-para-games-contingent-thursday-hi-t-1280.jpg",
+    "src800": "/photos/i-modi-meet-asian-para-games-contingent-thursday-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-modi-meet-asian-para-games-contingent-thursday-en-1280.jpg",
+    "src800": "/photos/i-modi-meet-asian-para-games-contingent-thursday-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-modi-meet-asian-para-games-contingent-thursday-hi-1280.jpg",
+    "src800": "/photos/i-modi-meet-asian-para-games-contingent-thursday-hi-640.jpg"
+   }
+  }
+ },
+ "us-midterms-alaska-sullivan-peltola-too-close-to-call": {
+  "id": "i-us-midterms-alaska-sullivan-peltola-too-close-to-call",
+  "src": "/photos/i-us-midterms-alaska-sullivan-peltola-too-close-to-call-en-3x2-1280.jpg",
+  "src800": "/photos/i-us-midterms-alaska-sullivan-peltola-too-close-to-call-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Sullivan narrowly ahead of Peltola in Alaska",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: अलास्का में सुलिवन, पेल्टोला से मामूली बढ़त पर",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-us-midterms-alaska-sullivan-peltola-too-close-to-call-hi-3x2-1280.jpg",
+    "src800": "/photos/i-us-midterms-alaska-sullivan-peltola-too-close-to-call-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-us-midterms-alaska-sullivan-peltola-too-close-to-call-en-t-1280.jpg",
+    "src800": "/photos/i-us-midterms-alaska-sullivan-peltola-too-close-to-call-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-us-midterms-alaska-sullivan-peltola-too-close-to-call-hi-t-1280.jpg",
+    "src800": "/photos/i-us-midterms-alaska-sullivan-peltola-too-close-to-call-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-us-midterms-alaska-sullivan-peltola-too-close-to-call-en-1280.jpg",
+    "src800": "/photos/i-us-midterms-alaska-sullivan-peltola-too-close-to-call-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-us-midterms-alaska-sullivan-peltola-too-close-to-call-hi-1280.jpg",
+    "src800": "/photos/i-us-midterms-alaska-sullivan-peltola-too-close-to-call-hi-640.jpg"
    }
   }
  }

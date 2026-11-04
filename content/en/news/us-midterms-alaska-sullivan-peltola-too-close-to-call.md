@@ -64,10 +64,6 @@ Republican Senator **Dan Sullivan has moved narrowly ahead** of Democrat Mary Pe
 
 With counting continuing on Wednesday morning in Alaska, Sullivan had 48.5% of first-choice votes to Peltola's 47.7%, **a lead of 1,677 votes**. The lead had changed hands overnight: Peltola was a few hundred votes ahead in early returns before Sullivan pulled in front as more precincts reported. Republican Gerald Heikes was third with 2.2%, and a second candidate named Dan Sullivan, a retired teacher from Petersburg, had 1.7%.
 
-```photo
-{"n":1,"subject":"Alaska Division of Elections","caption":"Alaska's Division of Elections, which will release further counts on 10, 13 and 18 November.","alt":"Alaska Division of Elections"}
-```
-
 ## Why it could take weeks
 
 Alaska accepts mailed ballots for 10 days after polling day, and for 15 days from overseas. The state has scheduled further count updates for 10, 13 and 18 November. If neither main candidate passes 50% of first-choice votes, the ranked-choice count is **set for 18 November**, when votes for the trailing candidates are redistributed. The state aims to certify results by 25 November.
@@ -77,9 +73,5 @@ Both candidates sounded confident on election night. "We are winning our state b
 ## A fight over certification
 
 The race has been bitter. President Donald Trump has called on the Justice Department to **block certification if Sullivan loses** and to investigate what he called possible voter confusion caused by the second Sullivan on the ballot. A federal judge dismissed the administration's suit, and the department has appealed. Peltola has denied any involvement with the second Sullivan's candidacy.
-
-```photo
-{"n":2,"subject":"Donald Trump","caption":"President Donald Trump, who has asked the Justice Department to stop Alaska certifying a Sullivan defeat.","alt":"US President Donald Trump"}
-```
 
 Democrats already hold a Senate majority, so Alaska will not decide control of the chamber. A Peltola win would widen that majority for the last two years of Trump's term.

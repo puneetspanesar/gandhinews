@@ -62,10 +62,6 @@ Prime Minister Narendra Modi will meet India's Asian Para Games contingent on Th
 
 The meeting is set for about 4:30 pm at the **Indira Gandhi Sports Complex** in New Delhi, where Modi will interact with the para-athletes. "He will also address the gathering on the occasion," the Prime Minister's Office said on Wednesday.
 
-```photo
-{"n":1,"subject":"Indira Gandhi Arena","caption":"The Indira Gandhi Sports Complex in New Delhi, where the Prime Minister will meet the para-athletes on Thursday.","alt":"The Indira Gandhi Arena at the sports complex in New Delhi"}
-```
-
 At Aichi-Nagoya last month, **97 Indian para-athletes won 114 medals**: 30 gold, 35 silver and 49 bronze. No Indian team has won more at the Asian Para Games. India finished fourth in the medal table, behind China, Japan and Uzbekistan, with para athletics alone bringing in 65 medals.
 
 Modi had sent the squad off in October, saying India was "immensely proud of our phenomenal para-athletes." When the Games ended he hailed "an extraordinary achievement," writing that "with a record 114 medals, this marks India's best-ever performance at the Games."

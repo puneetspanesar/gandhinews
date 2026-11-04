@@ -74,10 +74,6 @@ The Centre will put in **₹2,353.15 crore from the Nirbhaya Fund**, while state
 
 Each court is staffed by a judicial officer, a special public prosecutor and six support personnel. The scheme also pays for vulnerable witness deposition centres and child-friendly court facilities.
 
-```photo
-{"n":1,"subject":"Supreme Court of India","caption":"The Supreme Court of India, whose directions on rape and POCSO trials led to the scheme in 2019.","alt":"The Supreme Court of India building in New Delhi"}
-```
-
 ## Six years of fast-track trials
 
 The scheme was launched on 2 October 2019, after the Criminal Law (Amendment) Act, 2018 and a Supreme Court directive on speeding up such trials. It now runs in 29 states and Union Territories, and its courts have **disposed of more than 4.02 lakh cases** of rape and offences under the POCSO Act since it began.

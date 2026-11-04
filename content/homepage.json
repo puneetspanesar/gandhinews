@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "us-midterms-democrats-230-house-seats-economy-hegseth-blame",
+    "id": "cabinet-fast-track-special-courts-2031-850-courts",
     "overlay": {
       "kicker": {
-        "en": "World / US midterms",
-        "hi": "दुनिया / अमेरिकी मध्यावधि चुनाव"
+        "en": "India / Courts",
+        "hi": "भारत / अदालतें"
       },
       "value": {
-        "en": "Democrats head past 230 House seats",
-        "hi": "डेमोक्रेट्स 230 सीटों के पार की ओर"
+        "en": "850 fast-track courts, till 2031",
+        "hi": "2031 तक 850 फास्ट ट्रैक अदालतें"
       },
       "text": {
         "en": "",
@@ -16,26 +16,56 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "us-midterms-democrats-oust-spartz-van-orden-steil-house-jeffries",
-      "us-midterms-democrats-win-senate-talarico-brown-flip"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
-      "jairam-ramesh-vb-g-ram-g-grievance-rules-jumla",
-      "nykaa-physicswallah-q2-profit-nearly-triples-doubles",
-      "rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs",
+      "modi-meet-asian-para-games-contingent-thursday",
+      "us-midterms-democrats-win-senate-talarico-brown-flip",
       "naveen-patnaik-writes-majhi-kotia-andhra-elections",
-      "siraj-to-join-india-odi-squad-wellington-missed-auckland"
+      "jairam-ramesh-vb-g-ram-g-grievance-rules-jumla",
+      "jaishankar-chogm-antigua-dpi-ftas-executive-session"
     ],
     "live": {
       "title": {
-        "en": "US midterms",
-        "hi": "अमेरिकी मध्यावधि चुनाव"
+        "en": "Fast-track courts",
+        "hi": "फास्ट ट्रैक अदालतें"
       }
     }
   },
   "briefing": {
     "items": [
+      {
+        "link": "cabinet-fast-track-special-courts-2031-850-courts",
+        "lead": {
+          "en": "Courts:",
+          "hi": "अदालतें:"
+        },
+        "text": {
+          "en": "Cabinet extends fast-track courts for rape and POCSO trials till 2031, network to grow to 850",
+          "hi": "दुष्कर्म और पॉक्सो मामलों की फास्ट ट्रैक अदालतें 2031 तक जारी रहेंगी, संख्या बढ़कर 850 होगी"
+        }
+      },
+      {
+        "link": "modi-meet-asian-para-games-contingent-thursday",
+        "lead": {
+          "en": "Para sport:",
+          "hi": "पैरा खेल:"
+        },
+        "text": {
+          "en": "Modi to meet India's record Asian Para Games contingent in Delhi on Thursday",
+          "hi": "एशियाई पैरा खेलों में रिकॉर्ड बनाने वाले भारतीय दल से गुरुवार को दिल्ली में मिलेंगे मोदी"
+        }
+      },
+      {
+        "link": "us-midterms-alaska-sullivan-peltola-too-close-to-call",
+        "lead": {
+          "en": "US midterms:",
+          "hi": "अमेरिकी मध्यावधि चुनाव:"
+        },
+        "text": {
+          "en": "Dan Sullivan edges ahead of Mary Peltola as Alaska's Senate race stays too close to call",
+          "hi": "अलास्का सीनेट सीट पर कांटे की टक्कर, डैन सुलिवन मैरी पेल्टोला से मामूली अंतर से आगे"
+        }
+      },
       {
         "link": "naveen-patnaik-writes-majhi-kotia-andhra-elections",
         "lead": {
@@ -45,17 +75,6 @@
         "text": {
           "en": "Naveen Patnaik urges Majhi to take up Kotia at 'highest level' before Andhra polls",
           "hi": "आंध्र के चुनाव से पहले नवीन पटनायक ने माझी से कहा, कोटिया का मुद्दा 'सर्वोच्च स्तर' पर उठाएं"
-        }
-      },
-      {
-        "link": "nykaa-physicswallah-q2-profit-nearly-triples-doubles",
-        "lead": {
-          "en": "Companies:",
-          "hi": "कंपनियां:"
-        },
-        "text": {
-          "en": "Nykaa's profit nearly triples and PhysicsWallah's doubles in the September quarter",
-          "hi": "सितंबर तिमाही में नायका का मुनाफा करीब तिगुना, फिजिक्सवाला का दोगुना"
         }
       },
       {
@@ -70,58 +89,36 @@
         }
       },
       {
+        "link": "nykaa-physicswallah-q2-profit-nearly-triples-doubles",
+        "lead": {
+          "en": "Companies:",
+          "hi": "कंपनियां:"
+        },
+        "text": {
+          "en": "Nykaa's profit nearly triples and PhysicsWallah's doubles in the September quarter",
+          "hi": "सितंबर तिमाही में नायका का मुनाफा करीब तिगुना, फिजिक्सवाला का दोगुना"
+        }
+      },
+      {
         "link": "supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board",
         "lead": {
           "en": "Supreme Court:",
           "hi": "सुप्रीम कोर्ट:"
         },
         "text": {
-          "en": "Supreme Court stays Madras High Court order on a board for the Chidambaram Nataraja temple",
-          "hi": "चिदंबरम नटराज मंदिर के लिए बोर्ड पर मद्रास हाईकोर्ट के आदेश पर सुप्रीम कोर्ट की रोक"
+          "en": "Supreme Court stays Madras HC order handing Chidambaram Nataraja temple to a five-member board",
+          "hi": "चिदंबरम नटराज मंदिर पांच सदस्यीय बोर्ड को सौंपने के मद्रास हाईकोर्ट के आदेश पर सुप्रीम कोर्ट की रोक"
         }
       },
       {
-        "link": "siraj-to-join-india-odi-squad-wellington-missed-auckland",
+        "link": "rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs",
         "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
+          "en": "Punjab:",
+          "hi": "पंजाब:"
         },
         "text": {
-          "en": "Siraj to join India's ODI squad in Wellington after India A duty in Lincoln",
-          "hi": "इंडिया ए के लिए लिंकन में खेलने के बाद वेलिंगटन में वनडे टीम से जुड़ेंगे सिराज"
-        }
-      },
-      {
-        "link": "nadda-bhopal-loktantra-bachao-march-emergency-rahul",
-        "lead": {
-          "en": "Madhya Pradesh:",
-          "hi": "मध्य प्रदेश:"
-        },
-        "text": {
-          "en": "Nadda leads BJP march in Bhopal, says Rahul is 'pretending' to protect democracy",
-          "hi": "भोपाल में नड्डा की पदयात्रा, बोले: राहुल लोकतंत्र के रक्षक होने का 'दिखावा' कर रहे"
-        }
-      },
-      {
-        "link": "india-beat-new-zealand-five-wickets-dls-eden-park-first-odi",
-        "lead": {
-          "en": "Cricket:",
-          "hi": "क्रिकेट:"
-        },
-        "text": {
-          "en": "India beat New Zealand by five wickets in rain-hit Eden Park ODI",
-          "hi": "बारिश से प्रभावित ईडन पार्क वनडे में भारत ने न्यूज़ीलैंड को पांच विकेट से हराया"
-        }
-      },
-      {
-        "link": "us-midterms-collins-concedes-troy-jackson-maine-senate-flip",
-        "lead": {
-          "en": "US midterms:",
-          "hi": "अमेरिकी मध्यावधि चुनाव:"
-        },
-        "text": {
-          "en": "Susan Collins concedes Maine to Troy Jackson, ending 30 years in the Senate",
-          "hi": "मेन में सूज़न कॉलिन्स ने मानी हार, ट्रॉय जैक्सन से हारकर 30 साल का सीनेट सफ़र ख़त्म"
+          "en": "Rahul Gandhi brings Moosewala's father on stage in Sangrur, says killers' mindset roams Punjab",
+          "hi": "संगरूर में राहुल गांधी ने मूसेवाला के पिता को मंच पर बुलाया, बोले, पंजाब में घूम रही है हत्यारों की सोच"
         }
       }
     ]
@@ -193,13 +190,16 @@
       "also": []
     },
     "list": [
+      "dewas-inspector-dilip-puri-accused-shot-leg-custody",
       "jitin-prasada-warsaw-wb-group-creotech-india-poland-ties",
-      "jaishankar-chogm-antigua-dpi-ftas-executive-session",
       "supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board",
-      "supreme-court-two-child-norm-javed-larger-bench",
+      "siraj-to-join-india-odi-squad-wellington-missed-auckland",
       "himanta-purnea-rally-rahul-bangladesh-seemanchal-sir"
     ],
-    "also": []
+    "also": [
+      "rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs",
+      "supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification"
+    ]
   },
   "startHere": [
     "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
@@ -374,11 +374,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "jairam-ramesh-vb-g-ram-g-grievance-rules-jumla",
         "nadda-bhopal-loktantra-bachao-march-emergency-rahul",
-        "supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board",
-        "himanta-purnea-rally-rahul-bangladesh-seemanchal-sir"
+        "supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board"
       ],
-      "lead": "jairam-ramesh-vb-g-ram-g-grievance-rules-jumla"
+      "lead": "cabinet-fast-track-special-courts-2031-850-courts"
     },
     {
       "section": "economy",
@@ -401,12 +401,12 @@
     },
     {
       "section": "states",
-      "lead": "dewas-inspector-dilip-puri-accused-shot-leg-custody",
+      "lead": "naveen-patnaik-writes-majhi-kotia-andhra-elections",
       "list": [
+        "dewas-inspector-dilip-puri-accused-shot-leg-custody",
         "goa-supreme-court-st-seat-reservation-hc-stay-sawaikar",
         "delhi-aqi-331-jahangirpuri-499-grap-stage-two",
-        "brothers-arrested-cheetah-shot-dead-madhya-pradesh",
-        "murasu-nine-trains-cancelled-vijayawada-families-relief-camps"
+        "brothers-arrested-cheetah-shot-dead-madhya-pradesh"
       ]
     },
     {
@@ -434,12 +434,12 @@
   "desks": [
     {
       "section": "world",
-      "lead": "us-midterms-democrats-230-house-seats-economy-hegseth-blame",
+      "lead": "us-midterms-alaska-sullivan-peltola-too-close-to-call",
       "list": [
+        "us-midterms-democrats-230-house-seats-economy-hegseth-blame",
         "us-midterms-democrats-oust-spartz-van-orden-steil-house-jeffries",
         "us-midterms-collins-concedes-troy-jackson-maine-senate-flip",
-        "us-midterms-hamilton-flips-kansas-senate-marshall",
-        "us-midterms-turek-flips-iowa-senate-hinson"
+        "us-midterms-hamilton-flips-kansas-senate-marshall"
       ]
     },
     {
@@ -454,12 +454,12 @@
     },
     {
       "section": "sports",
-      "lead": "siraj-to-join-india-odi-squad-wellington-missed-auckland",
+      "lead": "modi-meet-asian-para-games-contingent-thursday",
       "list": [
+        "siraj-to-join-india-odi-squad-wellington-missed-auckland",
         "india-beat-new-zealand-five-wickets-dls-eden-park-first-odi",
         "india-65-one-down-32-over-chase-eden-park-odi",
-        "india-54-one-down-rain-stops-play-eden-park-odi",
-        "india-41-one-down-kohli-chase-186-eden-park-odi"
+        "india-54-one-down-rain-stops-play-eden-park-odi"
       ]
     }
   ],
