@@ -17,16 +17,16 @@
   },
   "dataBox": [],
   "relatedBelow": [
+   "us-midterms-hamilton-flips-kansas-senate-marshall",
    "us-midterms-collins-concedes-troy-jackson-maine-senate-flip",
-   "us-midterms-turek-flips-iowa-senate-hinson",
-   "us-midterms-bottoms-flips-georgia-governor-congress-undecided"
+   "us-midterms-turek-flips-iowa-senate-hinson"
   ],
   "relatedBeside": [
-   "rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-eden-park",
-   "jitin-prasada-warsaw-wb-group-creotech-india-poland-ties",
+   "india-41-one-down-kohli-chase-186-eden-park-odi",
    "dewas-inspector-dilip-puri-accused-shot-leg-custody",
+   "jitin-prasada-warsaw-wb-group-creotech-india-poland-ties",
    "pawan-khera-modi-parliament-press-conference-debate-dare",
-   "jaishankar-chogm-antigua-dpi-ftas-executive-session"
+   "qatar-iran-us-far-apart-36-hours-feedback-hormuz"
   ],
   "live": {
    "title": {
@@ -38,14 +38,25 @@
  "briefing": {
   "items": [
    {
-    "link": "rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-eden-park",
+    "link": "india-41-one-down-kohli-chase-186-eden-park-odi",
     "lead": {
      "en": "Cricket:",
      "hi": "क्रिकेट:"
     },
     "text": {
-     "en": "Live: Rohit's diving run-out of Mitchell, New Zealand 185 for 9 after 40 overs at Eden Park",
-     "hi": "लाइव: रोहित के डाइविंग रन-आउट से मिचेल लौटे, ईडन पार्क में 40 ओवर के बाद न्यूज़ीलैंड 9 विकेट पर 185"
+     "en": "India 41 for 1 in chase of 186 at Eden Park as Kohli gets going",
+     "hi": "ईडन पार्क में 186 रनों का पीछा करते हुए भारत 1 विकेट पर 41, कोहली ने संभाला मोर्चा"
+    }
+   },
+   {
+    "link": "us-midterms-hamilton-flips-kansas-senate-marshall",
+    "lead": {
+     "en": "US midterms:",
+     "hi": "अमेरिकी मध्यावधि चुनाव:"
+    },
+    "text": {
+     "en": "Democrat Adam Hamilton unseats Roger Marshall in Kansas, as Trump says 'we'll probably work something out'",
+     "hi": "कंसास में डेमोक्रेट एडम हैमिल्टन ने सीनेटर रॉजर मार्शल को हराया, ट्रंप बोले 'शायद कोई रास्ता निकाल लेंगे'"
     }
    },
    {
@@ -60,17 +71,6 @@
     }
    },
    {
-    "link": "misri-lands-kathmandu-today-three-post-diwali-dates-shah",
-    "lead": {
-     "en": "Nepal:",
-     "hi": "नेपाल:"
-    },
-    "text": {
-     "en": "Misri heads to Kathmandu today as India offers Balendra Shah three dates after Diwali",
-     "hi": "मिस्री आज काठमांडू जाएंगे, भारत ने बालेन्द्र शाह के दौरे के लिए दिवाली बाद की तीन तारीखें सुझाईं"
-    }
-   },
-   {
     "link": "pawan-khera-modi-parliament-press-conference-debate-dare",
     "lead": {
      "en": "Opposition:",
@@ -79,17 +79,6 @@
     "text": {
      "en": "'You don't show up in Parliament': Pawan Khera backs Rahul Gandhi's debate dare to Modi",
      "hi": "'आप संसद में आते नहीं': पवन खेड़ा ने मोदी को राहुल गांधी की बहस की चुनौती का समर्थन किया"
-    }
-   },
-   {
-    "link": "qatar-iran-us-far-apart-36-hours-feedback-hormuz",
-    "lead": {
-     "en": "Iran:",
-     "hi": "ईरान:"
-    },
-    "text": {
-     "en": "Iran and US still far apart, Qatar says both are studying its proposals",
-     "hi": "ईरान और अमेरिका अब भी दूर, कतर बोला: दोनों उसके प्रस्तावों पर विचार कर रहे"
     }
    },
    {
@@ -123,6 +112,17 @@
     "text": {
      "en": "Jaishankar pitches India's digital public infrastructure and trade deals to Commonwealth leaders in Antigua",
      "hi": "एंटीगा में जयशंकर ने राष्ट्रमंडल नेताओं के सामने रखा भारत का डिजिटल ढांचा और व्यापार समझौते"
+    }
+   },
+   {
+    "link": "dewas-inspector-dilip-puri-accused-shot-leg-custody",
+    "lead": {
+     "en": "Madhya Pradesh:",
+     "hi": "मध्य प्रदेश:"
+    },
+    "text": {
+     "en": "Accused in Dewas inspector's killing shot in leg, police say he tried to flee custody",
+     "hi": "देवास में इंस्पेक्टर की मौत का आरोपी पैर में गोली लगने से घायल, पुलिस बोली हिरासत से भागने की कोशिश की"
     }
    }
   ]
@@ -190,18 +190,16 @@
  },
  "topStories": {
   "big": {
-   "id": "nitin-nabin-gorakhpur-loktantra-bachao-padyatra-yogi",
+   "id": "jaishankar-chogm-antigua-dpi-ftas-executive-session",
    "also": []
   },
   "list": [
-   "psg-six-villarreal-record-bayern-win-madrid-cunha-united",
-   "qatar-iran-us-far-apart-36-hours-feedback-hormuz",
    "misri-lands-kathmandu-today-three-post-diwali-dates-shah",
-   "urvil-patel-210-pradosh-paul-208-ranji-round-four-day-two"
+   "psg-six-villarreal-record-bayern-win-madrid-cunha-united",
+   "nitin-nabin-gorakhpur-loktantra-bachao-padyatra-yogi"
   ],
   "also": [
-   "sonowal-puri-coastal-freight-12-per-cent-2047-cruise-terminal",
-   "gill-any-indian-team-can-beat-anyone-eden-park-first-odi-preview"
+   "sonowal-puri-coastal-freight-12-per-cent-2047-cruise-terminal"
   ]
  },
  "startHere": [
@@ -440,10 +438,10 @@
    "section": "world",
    "lead": "us-midterms-collins-concedes-troy-jackson-maine-senate-flip",
    "list": [
+    "us-midterms-hamilton-flips-kansas-senate-marshall",
     "us-midterms-turek-flips-iowa-senate-hinson",
     "us-midterms-democrats-win-senate-talarico-brown-flip",
-    "us-midterms-democrats-win-house-senate-in-balance",
-    "us-midterms-bottoms-flips-georgia-governor-congress-undecided"
+    "us-midterms-democrats-win-house-senate-in-balance"
    ]
   },
   {
@@ -457,11 +455,11 @@
   },
   {
    "section": "sports",
-   "lead": "rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-eden-park",
+   "lead": "india-41-one-down-kohli-chase-186-eden-park-odi",
    "list": [
     "rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-eden-park",
-    "arshdeep-two-brar-seifert-new-zealand-three-down-eden-park-odi",
-    "india-elect-to-field-new-zealand-one-down-eden-park-first-odi"
+    "brar-latham-kohli-catch-new-zealand-124-seven-down-eden-park-odi",
+    "arshdeep-two-brar-seifert-new-zealand-three-down-eden-park-odi"
    ]
   }
  ],

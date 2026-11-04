@@ -1,370 +1,370 @@
 {
-  "as_of": "2026-11-04T10:25:00+05:30",
-  "status": "open",
-  "session_date": "2026-11-04",
-  "chart": "nifty-50",
-  "indices": [
+ "as_of": "2026-11-04T11:04:00+05:30",
+ "status": "open",
+ "session_date": "2026-11-04",
+ "chart": "nifty-50",
+ "indices": [
+  {
+   "id": "sensex",
+   "name": "Sensex",
+   "name_hi": "सेंसेक्स",
+   "value": 77057.8,
+   "change": 139.95,
+   "pct": 0.18,
+   "history": [
     {
-      "id": "sensex",
-      "name": "Sensex",
-      "name_hi": "सेंसेक्स",
-      "value": 77352.95,
-      "change": 435.1,
-      "pct": 0.57,
-      "history": [
-        {
-          "date": "2026-09-30",
-          "close": 72480.29
-        },
-        {
-          "date": "2026-10-01",
-          "close": 71909.7
-        },
-        {
-          "date": "2026-10-05",
-          "close": 72382.47
-        },
-        {
-          "date": "2026-10-06",
-          "close": 73067.81
-        },
-        {
-          "date": "2026-10-07",
-          "close": 72638.7
-        },
-        {
-          "date": "2026-10-08",
-          "close": 71593.24
-        },
-        {
-          "date": "2026-10-09",
-          "close": 72472.33
-        },
-        {
-          "date": "2026-10-12",
-          "close": 71924.68
-        },
-        {
-          "date": "2026-10-13",
-          "close": 73003.78
-        },
-        {
-          "date": "2026-10-14",
-          "close": 72781.89
-        },
-        {
-          "date": "2026-10-15",
-          "close": 74315.61
-        },
-        {
-          "date": "2026-10-22",
-          "close": 73249.39
-        },
-        {
-          "date": "2026-10-23",
-          "close": 73123.83
-        },
-        {
-          "date": "2026-10-26",
-          "close": 73606.75
-        },
-        {
-          "date": "2026-10-27",
-          "close": 73598.67
-        },
-        {
-          "date": "2026-10-28",
-          "close": 73246.03
-        },
-        {
-          "date": "2026-10-29",
-          "close": 74151.04
-        },
-        {
-          "date": "2026-10-30",
-          "close": 74459.53
-        },
-        {
-          "date": "2026-11-02",
-          "close": 75692.78
-        },
-        {
-          "date": "2026-11-03",
-          "close": 76917.85
-        }
-      ],
-      "source": "https://www.etvbharat.com/en/business/rupee-us-dollar-exchange-rat-eon-november-4-2026-enn26110401065"
+     "date": "2026-09-30",
+     "close": 72480.29
     },
     {
-      "id": "nifty-50",
-      "name": "Nifty 50",
-      "name_hi": "निफ्टी 50",
-      "value": 23925.1,
-      "change": 115.9,
-      "pct": 0.49,
-      "history": [
-        {
-          "date": "2026-09-30",
-          "close": 22620.45
-        },
-        {
-          "date": "2026-10-01",
-          "close": 22421.95
-        },
-        {
-          "date": "2026-10-05",
-          "close": 22555.75
-        },
-        {
-          "date": "2026-10-06",
-          "close": 22776.1
-        },
-        {
-          "date": "2026-10-07",
-          "close": 22603.05
-        },
-        {
-          "date": "2026-10-08",
-          "close": 22231.8
-        },
-        {
-          "date": "2026-10-09",
-          "close": 22520.45
-        },
-        {
-          "date": "2026-10-12",
-          "close": 22363.35
-        },
-        {
-          "date": "2026-10-13",
-          "close": 22721.95
-        },
-        {
-          "date": "2026-10-14",
-          "close": 22622.7
-        },
-        {
-          "date": "2026-10-15",
-          "close": 22997.35
-        },
-        {
-          "date": "2026-10-16",
-          "close": 23146.15
-        },
-        {
-          "date": "2026-10-22",
-          "close": 22687.65
-        },
-        {
-          "date": "2026-10-23",
-          "close": 22600.0
-        },
-        {
-          "date": "2026-10-26",
-          "close": 22753.2
-        },
-        {
-          "date": "2026-10-27",
-          "close": 22749.75
-        },
-        {
-          "date": "2026-10-28",
-          "close": 22698.85
-        },
-        {
-          "date": "2026-10-29",
-          "close": 22936.75
-        },
-        {
-          "date": "2026-10-30",
-          "close": 23053.1
-        },
-        {
-          "date": "2026-11-02",
-          "close": 23440.8
-        },
-        {
-          "date": "2026-11-03",
-          "close": 23810.85
-        }
-      ],
-      "source": "https://www.etvbharat.com/en/business/rupee-us-dollar-exchange-rat-eon-november-4-2026-enn26110401065"
+     "date": "2026-10-01",
+     "close": 71909.7
     },
     {
-      "id": "nifty-it",
-      "name": "Nifty IT",
-      "name_hi": "निफ्टी आईटी",
-      "value": 32340,
-      "change": null,
-      "pct": -0.65,
-      "history": [],
-      "source": "https://hdfcsky.com/news/bse-nse-sensex-november-4-2026-open-report-bulls-continue-rampage-as-sensex-nifty-rise-on-cooling-oil-amid-us-elections-fpi-inflows"
+     "date": "2026-10-05",
+     "close": 72382.47
     },
     {
-      "id": "nifty-midcap-150",
-      "name": "Nifty Midcap 150",
-      "name_hi": "निफ्टी मिडकैप 150",
-      "value": 21047.5,
-      "change": null,
-      "pct": null,
-      "history": [],
-      "source": "https://hdfcsky.com/news/weekly-stock-market-review-october-26-30-2026-nifty-reclaims-23053-as-pharma-surges-6-1percent-jio-platforms-lists-at-21percent-premium-fiis-return-with-rs3599-crore"
+     "date": "2026-10-06",
+     "close": 73067.81
     },
     {
-      "id": "india-vix",
-      "name": "India VIX",
-      "name_hi": "इंडिया VIX",
-      "value": 16.06,
-      "change": null,
-      "pct": 2.14,
-      "history": [],
-      "source": "https://hdfcsky.com/news/bse-nse-sensex-november-4-2026-open-report-bulls-continue-rampage-as-sensex-nifty-rise-on-cooling-oil-amid-us-elections-fpi-inflows"
+     "date": "2026-10-07",
+     "close": 72638.7
+    },
+    {
+     "date": "2026-10-08",
+     "close": 71593.24
+    },
+    {
+     "date": "2026-10-09",
+     "close": 72472.33
+    },
+    {
+     "date": "2026-10-12",
+     "close": 71924.68
+    },
+    {
+     "date": "2026-10-13",
+     "close": 73003.78
+    },
+    {
+     "date": "2026-10-14",
+     "close": 72781.89
+    },
+    {
+     "date": "2026-10-15",
+     "close": 74315.61
+    },
+    {
+     "date": "2026-10-22",
+     "close": 73249.39
+    },
+    {
+     "date": "2026-10-23",
+     "close": 73123.83
+    },
+    {
+     "date": "2026-10-26",
+     "close": 73606.75
+    },
+    {
+     "date": "2026-10-27",
+     "close": 73598.67
+    },
+    {
+     "date": "2026-10-28",
+     "close": 73246.03
+    },
+    {
+     "date": "2026-10-29",
+     "close": 74151.04
+    },
+    {
+     "date": "2026-10-30",
+     "close": 74459.53
+    },
+    {
+     "date": "2026-11-02",
+     "close": 75692.78
+    },
+    {
+     "date": "2026-11-03",
+     "close": 76917.85
     }
-  ],
-  "rates": [
-    {
-      "id": "usd-inr",
-      "name": "Rupee per dollar",
-      "name_hi": "रुपया प्रति डॉलर",
-      "value": 94.61,
-      "change": -0.14,
-      "pct": -0.15,
-      "decimals": 2,
-      "unit": "",
-      "source": "https://www.etvbharat.com/en/business/rupee-us-dollar-exchange-rat-eon-november-4-2026-enn26110401065"
-    },
-    {
-      "id": "brent",
-      "name": "Brent crude",
-      "name_hi": "ब्रेंट क्रूड",
-      "unit": "$/barrel",
-      "unit_hi": "$/बैरल",
-      "value": 102.71,
-      "change": -0.89,
-      "pct": -0.86,
-      "decimals": 2,
-      "source": "https://hdfcsky.com/news/bse-nse-sensex-november-4-2026-open-report-bulls-continue-rampage-as-sensex-nifty-rise-on-cooling-oil-amid-us-elections-fpi-inflows"
-    },
-    {
-      "id": "gold",
-      "name": "Gold",
-      "name_hi": "सोना",
-      "unit": "₹/10 g, MCX",
-      "unit_hi": "₹/10 ग्राम, MCX",
-      "value": 139284,
-      "change": -168,
-      "pct": -0.12,
-      "decimals": 0,
-      "source": "https://www.goodreturns.in/news/gold-rates-silver-rates-today-4-11-2026-live-spot-gold-mcx-gold-silver-price-24k-22k-18k-gold-prices-1545099.html"
-    },
-    {
-      "id": "silver",
-      "name": "Silver",
-      "name_hi": "चांदी",
-      "unit": "₹/kg, MCX",
-      "unit_hi": "₹/किलो, MCX",
-      "value": 177803,
-      "change": null,
-      "pct": null,
-      "decimals": 0,
-      "source": "https://www.goodreturns.in/news/gold-rates-silver-rates-today-4-11-2026-live-spot-gold-mcx-gold-silver-price-24k-22k-18k-gold-prices-1545099.html"
-    },
-    {
-      "id": "gsec-10y",
-      "name": "10-year bond yield",
-      "name_hi": "10 साल के बॉन्ड पर यील्ड",
-      "unit": "%",
-      "unit_hi": "%",
-      "value": 7.401,
-      "change": 0.011,
-      "pct": null,
-      "decimals": 3,
-      "source": "https://tradingeconomics.com/india/government-bond-yield"
-    }
-  ],
-  "movers": {
-    "gainers": [
-      {
-        "name": "Max Healthcare",
-        "pct": 3.07
-      },
-      {
-        "name": "ITC",
-        "pct": 2.81
-      },
-      {
-        "name": "Shriram Finance",
-        "pct": 1.56
-      },
-      {
-        "name": "HDFC Bank",
-        "pct": 1.41
-      },
-      {
-        "name": "Apollo Hospitals",
-        "pct": 1.39
-      }
-    ],
-    "losers": [
-      {
-        "name": "BSE Ltd",
-        "pct": -1.76
-      },
-      {
-        "name": "Power Grid",
-        "pct": -0.98
-      },
-      {
-        "name": "Infosys",
-        "pct": -0.96
-      },
-      {
-        "name": "HCL Technologies",
-        "pct": -0.89
-      },
-      {
-        "name": "TCS",
-        "pct": -0.8
-      }
-    ],
-    "source": "https://hdfcsky.com/news/bse-nse-sensex-november-4-2026-open-report-bulls-continue-rampage-as-sensex-nifty-rise-on-cooling-oil-amid-us-elections-fpi-inflows"
+   ],
+   "source": "https://subkuz.com/news/english/details/indian-stock-market-extends-gains-for-fifth-session-sensex-rises-140-points-itc-leads-gainers/228316"
   },
-  "sectors": [
+  {
+   "id": "nifty-50",
+   "name": "Nifty 50",
+   "name_hi": "निफ्टी 50",
+   "value": 23832.05,
+   "change": 21.2,
+   "pct": 0.09,
+   "history": [
     {
-      "name": "FMCG",
-      "name_hi": "एफएमसीजी",
-      "pct": 1.42
+     "date": "2026-09-30",
+     "close": 22620.45
     },
     {
-      "name": "Cement",
-      "name_hi": "सीमेंट",
-      "pct": 0.99
+     "date": "2026-10-01",
+     "close": 22421.95
     },
     {
-      "name": "Financial Services 25/50",
-      "name_hi": "वित्तीय सेवाएं 25/50",
-      "pct": 0.6
+     "date": "2026-10-05",
+     "close": 22555.75
     },
     {
-      "name": "India Defence",
-      "name_hi": "इंडिया डिफेंस",
-      "pct": -0.4
+     "date": "2026-10-06",
+     "close": 22776.1
     },
     {
-      "name": "Capital Markets",
-      "name_hi": "कैपिटल मार्केट्स",
-      "pct": -0.86
+     "date": "2026-10-07",
+     "close": 22603.05
+    },
+    {
+     "date": "2026-10-08",
+     "close": 22231.8
+    },
+    {
+     "date": "2026-10-09",
+     "close": 22520.45
+    },
+    {
+     "date": "2026-10-12",
+     "close": 22363.35
+    },
+    {
+     "date": "2026-10-13",
+     "close": 22721.95
+    },
+    {
+     "date": "2026-10-14",
+     "close": 22622.7
+    },
+    {
+     "date": "2026-10-15",
+     "close": 22997.35
+    },
+    {
+     "date": "2026-10-16",
+     "close": 23146.15
+    },
+    {
+     "date": "2026-10-22",
+     "close": 22687.65
+    },
+    {
+     "date": "2026-10-23",
+     "close": 22600.0
+    },
+    {
+     "date": "2026-10-26",
+     "close": 22753.2
+    },
+    {
+     "date": "2026-10-27",
+     "close": 22749.75
+    },
+    {
+     "date": "2026-10-28",
+     "close": 22698.85
+    },
+    {
+     "date": "2026-10-29",
+     "close": 22936.75
+    },
+    {
+     "date": "2026-10-30",
+     "close": 23053.1
+    },
+    {
+     "date": "2026-11-02",
+     "close": 23440.8
+    },
+    {
+     "date": "2026-11-03",
+     "close": 23810.85
     }
-  ],
-  "sectors_source": "https://hdfcsky.com/news/bse-nse-sensex-november-4-2026-open-report-bulls-continue-rampage-as-sensex-nifty-rise-on-cooling-oil-amid-us-elections-fpi-inflows (early-trade figures, article published 10:25 IST, no exact time given)",
-  "flows": {
-    "date": "2026-11-03",
-    "fii": 6836.81,
-    "dii": -3678,
-    "unit": "₹ crore",
-    "source": "https://www.freepressjournal.in/business/stock-market-opens-on-a-cautious-note-as-global-technology-worries-weigh-on-dalal-street-sensex-dips-65-points-and-nifty-slides-below-23750-despite-strong-fii-comeback"
+   ],
+   "source": "https://subkuz.com/news/english/details/indian-stock-market-extends-gains-for-fifth-session-sensex-rises-140-points-itc-leads-gainers/228316"
   },
-  "notes": [
-    "4 Nov, read 11:15 IST, but the newest figures found are from early trade: Sensex and Nifty 50 from ETV Bharat at about 09:40 to 09:56; Nifty IT, India VIX, Brent, movers and sectors from HDFC Sky's opening report (published 10:25); MCX gold and silver from Goodreturns as of 09:36. Silver change was given only as 'nearly Rs 1,900 or 1%' so left null. Rupee, 10-year G-sec yield, Nifty Midcap 150 and flows not updated (no fresh source found). Business Standard live blog could not be fetched."
-  ]
+  {
+   "id": "nifty-it",
+   "name": "Nifty IT",
+   "name_hi": "निफ्टी आईटी",
+   "value": 32340,
+   "change": null,
+   "pct": -0.65,
+   "history": [],
+   "source": "https://hdfcsky.com/news/bse-nse-sensex-november-4-2026-open-report-bulls-continue-rampage-as-sensex-nifty-rise-on-cooling-oil-amid-us-elections-fpi-inflows"
+  },
+  {
+   "id": "nifty-midcap-150",
+   "name": "Nifty Midcap 150",
+   "name_hi": "निफ्टी मिडकैप 150",
+   "value": 21047.5,
+   "change": null,
+   "pct": null,
+   "history": [],
+   "source": "https://hdfcsky.com/news/weekly-stock-market-review-october-26-30-2026-nifty-reclaims-23053-as-pharma-surges-6-1percent-jio-platforms-lists-at-21percent-premium-fiis-return-with-rs3599-crore"
+  },
+  {
+   "id": "india-vix",
+   "name": "India VIX",
+   "name_hi": "इंडिया VIX",
+   "value": 16.06,
+   "change": null,
+   "pct": 2.14,
+   "history": [],
+   "source": "https://hdfcsky.com/news/bse-nse-sensex-november-4-2026-open-report-bulls-continue-rampage-as-sensex-nifty-rise-on-cooling-oil-amid-us-elections-fpi-inflows"
+  }
+ ],
+ "rates": [
+  {
+   "id": "usd-inr",
+   "name": "Rupee per dollar",
+   "name_hi": "रुपया प्रति डॉलर",
+   "value": 94.61,
+   "change": -0.14,
+   "pct": -0.15,
+   "decimals": 2,
+   "unit": "",
+   "source": "https://www.etvbharat.com/en/business/rupee-us-dollar-exchange-rat-eon-november-4-2026-enn26110401065"
+  },
+  {
+   "id": "brent",
+   "name": "Brent crude",
+   "name_hi": "ब्रेंट क्रूड",
+   "unit": "$/barrel",
+   "unit_hi": "$/बैरल",
+   "value": 102.71,
+   "change": -0.89,
+   "pct": -0.86,
+   "decimals": 2,
+   "source": "https://hdfcsky.com/news/bse-nse-sensex-november-4-2026-open-report-bulls-continue-rampage-as-sensex-nifty-rise-on-cooling-oil-amid-us-elections-fpi-inflows"
+  },
+  {
+   "id": "gold",
+   "name": "Gold",
+   "name_hi": "सोना",
+   "unit": "₹/10 g, MCX",
+   "unit_hi": "₹/10 ग्राम, MCX",
+   "value": 139284,
+   "change": -168,
+   "pct": -0.12,
+   "decimals": 0,
+   "source": "https://www.goodreturns.in/news/gold-rates-silver-rates-today-4-11-2026-live-spot-gold-mcx-gold-silver-price-24k-22k-18k-gold-prices-1545099.html"
+  },
+  {
+   "id": "silver",
+   "name": "Silver",
+   "name_hi": "चांदी",
+   "unit": "₹/kg, MCX",
+   "unit_hi": "₹/किलो, MCX",
+   "value": 177803,
+   "change": null,
+   "pct": null,
+   "decimals": 0,
+   "source": "https://www.goodreturns.in/news/gold-rates-silver-rates-today-4-11-2026-live-spot-gold-mcx-gold-silver-price-24k-22k-18k-gold-prices-1545099.html"
+  },
+  {
+   "id": "gsec-10y",
+   "name": "10-year bond yield",
+   "name_hi": "10 साल के बॉन्ड पर यील्ड",
+   "unit": "%",
+   "unit_hi": "%",
+   "value": 7.401,
+   "change": 0.011,
+   "pct": null,
+   "decimals": 3,
+   "source": "https://tradingeconomics.com/india/government-bond-yield"
+  }
+ ],
+ "movers": {
+  "gainers": [
+   {
+    "name": "ITC",
+    "pct": 3.3
+   },
+   {
+    "name": "Max Healthcare",
+    "pct": 2.76
+   },
+   {
+    "name": "Nestle India",
+    "pct": 1.55
+   },
+   {
+    "name": "Apollo Hospitals",
+    "pct": 1.42
+   },
+   {
+    "name": "Sun Pharma",
+    "pct": 1.39
+   }
+  ],
+  "losers": [
+   {
+    "name": "Power Grid",
+    "pct": -0.96
+   },
+   {
+    "name": "TCS",
+    "pct": -0.92
+   },
+   {
+    "name": "Infosys",
+    "pct": -0.91
+   },
+   {
+    "name": "HCL Tech",
+    "pct": -0.88
+   },
+   {
+    "name": "NTPC",
+    "pct": -0.73
+   }
+  ],
+  "source": "https://subkuz.com/news/english/details/indian-stock-market-extends-gains-for-fifth-session-sensex-rises-140-points-itc-leads-gainers/228316"
+ },
+ "sectors": [
+  {
+   "name": "FMCG",
+   "name_hi": "एफएमसीजी",
+   "pct": 1.09
+  },
+  {
+   "name": "Cement",
+   "name_hi": "सीमेंट",
+   "pct": 0.99
+  },
+  {
+   "name": "Financial Services 25/50",
+   "name_hi": "वित्तीय सेवाएं 25/50",
+   "pct": 0.6
+  },
+  {
+   "name": "India Defence",
+   "name_hi": "इंडिया डिफेंस",
+   "pct": -0.4
+  },
+  {
+   "name": "Capital Markets",
+   "name_hi": "कैपिटल मार्केट्स",
+   "pct": -0.86
+  }
+ ],
+ "sectors_source": "https://hdfcsky.com/news/bse-nse-sensex-november-4-2026-open-report-bulls-continue-rampage-as-sensex-nifty-rise-on-cooling-oil-amid-us-elections-fpi-inflows (early-trade figures, article published 10:25 IST, no exact time given)",
+ "flows": {
+  "date": "2026-11-03",
+  "fii": 6836.81,
+  "dii": -3678,
+  "unit": "₹ crore",
+  "source": "https://www.freepressjournal.in/business/stock-market-opens-on-a-cautious-note-as-global-technology-worries-weigh-on-dalal-street-sensex-dips-65-points-and-nifty-slides-below-23750-despite-strong-fii-comeback"
+ },
+ "notes": [
+  "4 Nov, read 11:15 IST, but the newest figures found are from early trade: Sensex and Nifty 50 from ETV Bharat at about 09:40 to 09:56; Nifty IT, India VIX, Brent, movers and sectors from HDFC Sky's opening report (published 10:25); MCX gold and silver from Goodreturns as of 09:36. Silver change was given only as 'nearly Rs 1,900 or 1%' so left null. Rupee, 10-year G-sec yield, Nifty Midcap 150 and flows not updated (no fresh source found). Business Standard live blog could not be fetched."
+ ]
 }

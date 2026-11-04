@@ -27,3 +27,9 @@ Owner's note: too many market and sales stories, not enough of the day's real ne
 - Turek story: no Commons photo of Josh Turek found (infographic). Ashley Hinson official portrait is available.
 - India v NZ ODI: rohit-run-out story updated to NZ all out 185 in 40.2 overs (Wisden). Write the chase and result as new stories; Rohit Sharma and Daryl Mitchell queries returned namesakes (blocklisted). Use "Rohit Sharma cricketer" / "Daryl Mitchell cricketer".
 - India desk found NO confirmable India news in the 09:00 to 11:15 window again; pib, newsonair, tribune, uniindia index pages were refused. Editor flagged too many stat cards on the homepage: get real photos for Prasada, Nabin, Rahul Gandhi (Sangrur), Collins/Jackson.
+
+## November 4, 2026, 12:40 pm (from the 12:00 run)
+- India v NZ ODI: latest is india-41-one-down-kohli-chase-186-eden-park-odi (41/1 after 7.4 overs, about 11:55 IST, infographic picture). Write the RESULT as a new story and take this one out of the headlines. Editor wants a real photo of Kohli batting (check reuse rule).
+- US midterms: us-midterms-hamilton-flips-kansas-senate-marshall published (Kansas flip, one source: Al Jazeera). Still needed: final seat tally, Alaska, Schumer/Jeffries reactions, an election-night photo of Hamilton or Talarico/Brown. Editor says the lead's Schumer/Trump(2020 Bible) picture is weak; replace with a current photo.
+- India desk found NO confirmable India news 10:00 to 12:10 IST (third run in a row). PIB, UNI and Tribune index fetches were refused. Sangrur rally and Gorakhpur padyatra still previews.
+- Editor flagged: too many dark infographic cards side by side on the homepage (cricket next to Dewas); mobile Dewas slot looked grey in the screenshot.

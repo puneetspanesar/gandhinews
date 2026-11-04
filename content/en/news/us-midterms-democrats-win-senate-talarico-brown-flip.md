@@ -10,7 +10,7 @@ standfirst: "Wins for James Talarico in Texas and Sherrod Brown in Ohio give Dem
 published: 2026-11-04T10:10:00+05:30
 location: Washington
 keyPoints:
-  - "Democrats are projected to **win control of the Senate**, ending a 53-47 Republican majority."
+  - "Democrats have **won control of the Senate**, ending a 53-47 Republican majority."
   - "They flipped **Texas, Ohio, North Carolina and South Carolina**, all states Trump carried in 2024."
   - "Trump said he **was not on the ballot** and would have won if he had been."
 hero:
