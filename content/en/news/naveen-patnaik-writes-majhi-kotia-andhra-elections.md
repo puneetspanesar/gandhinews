@@ -55,10 +55,6 @@ Leader of Opposition Naveen Patnaik on Wednesday urged Odisha Chief Minister Moh
 
 In a letter dated 4 November, the Biju Janata Dal chief said he was concerned about "the growing tension between officials of Odisha and Andhra Pradesh". Andhra's decision to go ahead with **elections in Kotia on 5 November** was "a matter of serious concern" for Odisha, he wrote.
 
-```photo
-{"n":1,"subject":"Mohan Charan Majhi","caption":"Chief Minister Mohan Charan Majhi, to whom Naveen Patnaik addressed the letter.","alt":"Odisha Chief Minister Mohan Charan Majhi"}
-```
-
 ## A second letter
 
 Naveen had written to Majhi on the same subject on 19 October and received a reply on 27 October. Since then, he said, the situation had **"further deteriorated"**, with reports of rising tension and confrontation between officials of the two states.

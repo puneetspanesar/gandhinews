@@ -46670,5 +46670,91 @@
   "page": "https://commons.wikimedia.org/wiki/File:Dalal_street_of_India.jpg",
   "id": "r-bse-q2-profit-45-per-cent-809-crore-bkc-plot-mmrda",
   "articleId": "bse-q2-profit-45-per-cent-809-crore-bkc-plot-mmrda"
+ },
+ {
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Jairam_Ramesh%2C_New_Delhi%2C_09-2012.jpg/1280px-Jairam_Ramesh%2C_New_Delhi%2C_09-2012.jpg",
+  "credit": "Photo: Yann (talk) / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Congress leader Jairam Ramesh in New Delhi (file photo, 2012)",
+  "alt_hi": "नई दिल्ली में कांग्रेस नेता जयराम रमेश (फाइल फोटो, 2012)",
+  "page": "https://commons.wikimedia.org/wiki/File:Jairam_Ramesh,_New_Delhi,_09-2012.jpg",
+  "id": "r-jairam-ramesh-vb-g-ram-g-grievance-rules-jumla",
+  "articleId": "jairam-ramesh-vb-g-ram-g-grievance-rules-jumla"
+ },
+ {
+  "id": "cx-jairam-ramesh-vb-g-ram-g-grievance-rules-jumla--p2-0",
+  "articleId": "part:jairam-ramesh-vb-g-ram-g-grievance-rules-jumla--p2:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/MGNREGA_workers_removing_mud_from_a_dry_pond.jpg/1600px-MGNREGA_workers_removing_mud_from_a_dry_pond.jpg",
+  "credit": "Mulkh Singh",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:MGNREGA_workers_removing_mud_from_a_dry_pond.jpg"
+ },
+ {
+  "id": "x-jairam-ramesh-vb-g-ram-g-grievance-rules-jumla--p2",
+  "articleId": "jairam-ramesh-vb-g-ram-g-grievance-rules-jumla--p2",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/MGNREGA_workers_removing_mud_from_a_dry_pond.jpg/1600px-MGNREGA_workers_removing_mud_from_a_dry_pond.jpg",
+  "credit": "Photo: Mulkh Singh / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Rural job scheme workers at a worksite (file photo)",
+  "alt_hi": "ग्रामीण रोजगार योजना के कार्यस्थल पर मजदूर (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:MGNREGA_workers_removing_mud_from_a_dry_pond.jpg",
+  "composite": [
+   "cx-jairam-ramesh-vb-g-ram-g-grievance-rules-jumla--p2-0"
+  ]
+ },
+ {
+  "id": "cx-naveen-patnaik-writes-majhi-kotia-andhra-elections-0",
+  "articleId": "part:naveen-patnaik-writes-majhi-kotia-andhra-elections:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Naveen_Patnaik_2013.jpg",
+  "credit": "TeachAIDS",
+  "licence": "CC BY-SA 2.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Naveen_Patnaik_2013.jpg"
+ },
+ {
+  "id": "cx-naveen-patnaik-writes-majhi-kotia-andhra-elections-1",
+  "articleId": "part:naveen-patnaik-writes-majhi-kotia-andhra-elections:1",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Mohan_Charan_Majhi_%28cropped%29.jpg",
+  "credit": "Odisha State Legislative Assembly",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Mohan_Charan_Majhi_(cropped).jpg"
+ },
+ {
+  "id": "x-naveen-patnaik-writes-majhi-kotia-andhra-elections",
+  "articleId": "naveen-patnaik-writes-majhi-kotia-andhra-elections",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Naveen_Patnaik_2013.jpg",
+  "credit": "Photos: TeachAIDS / Wikimedia Commons; Odisha State Legislative Assembly / Wikimedia Commons",
+  "licence": "CC BY-SA 2.0, CC BY-SA 4.0",
+  "alt": "Naveen Patnaik and Mohan Charan Majhi (file photo)",
+  "alt_hi": "नवीन पटनायक और मोहन चरण माझी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Naveen_Patnaik_2013.jpg",
+  "composite": [
+   "cx-naveen-patnaik-writes-majhi-kotia-andhra-elections-0",
+   "cx-naveen-patnaik-writes-majhi-kotia-andhra-elections-1"
+  ]
+ },
+ {
+  "id": "cx-naveen-patnaik-writes-majhi-kotia-andhra-elections--p2-0",
+  "articleId": "part:naveen-patnaik-writes-majhi-kotia-andhra-elections--p2:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hilly_Terrain_in_Koraput%2C_Odisha.jpg/1600px-Hilly_Terrain_in_Koraput%2C_Odisha.jpg",
+  "credit": "Kkmishra1960",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Hilly_Terrain_in_Koraput,_Odisha.jpg"
+ },
+ {
+  "id": "x-naveen-patnaik-writes-majhi-kotia-andhra-elections--p2",
+  "articleId": "naveen-patnaik-writes-majhi-kotia-andhra-elections--p2",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hilly_Terrain_in_Koraput%2C_Odisha.jpg/1600px-Hilly_Terrain_in_Koraput%2C_Odisha.jpg",
+  "credit": "Photo: Kkmishra1960 / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Hills of Koraput district, Odisha (file photo)",
+  "alt_hi": "ओडिशा के कोरापुट जिले की पहाड़ियां (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Hilly_Terrain_in_Koraput,_Odisha.jpg",
+  "composite": [
+   "cx-naveen-patnaik-writes-majhi-kotia-andhra-elections--p2-0"
+  ]
  }
 ]

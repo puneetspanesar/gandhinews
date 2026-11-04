@@ -59,10 +59,6 @@ The Congress on Wednesday accused the Centre of hollowing out the complaint syst
 
 The Union Ministry of Rural Development **notified the grievance redressal rules on 2 November**. Ramesh, who is in charge of communications for the party, said in a post on X that the final version had quietly dropped many of the protections promised in the draft rules published in May. Workers' rights, he said, "will remain on paper/in the cloud."
 
-```photo
-{"n":1,"subject":"Krishi Bhawan","caption":"Krishi Bhawan in New Delhi houses the Ministry of Rural Development, which notified the rules on 2 November.","alt":"Krishi Bhawan, New Delhi"}
-```
-
 ## What he says went missing
 
 The draft had said that failing to settle a grievance within seven working days would count as a breach of the Act and "attract action under Section 27". Ramesh said **that penalty was deleted**, even though the timelines stay. A clause asking the District Programme Coordinator to make sure an FIR was lodged wherever there was prima facie evidence of financial irregularities had also gone, he said.
