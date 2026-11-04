@@ -100,9 +100,6 @@ infographic:
 
 At its closest point the island is only about 2 km from the Iranian mainland, separated by a channel known as the Clarence or Khuran Strait. Its main town, also called Qeshm, sits on the eastern tip, about 22 km from Bandar Abbas, Iran's biggest port. Oman's Khasab, on the other side of the strait, is about 60 km away.
 
-```photo
-{"n":1,"subject":"Bandar Abbas","caption":"Bandar Abbas, Iran's main port on the mainland facing Qeshm, where residents reported explosions and tremors on Monday night.","alt":"The port city of Bandar Abbas on Iran's southern coast"}
-```
 
 ## Who lives there?
 

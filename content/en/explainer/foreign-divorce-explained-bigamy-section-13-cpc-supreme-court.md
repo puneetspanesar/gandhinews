@@ -66,9 +66,6 @@ verification:
 
 A bench of Justices Prashant Kumar Mishra and Sree Chandrashekhar dismissed his appeal on 3 November, so the case against him **will now go to trial**. The UK decree, the bench held, "was passed in contravention of the existing matrimonial law in India". And on his change of passport: the "legal consequences flowing from the subsisting marriage cannot be defeated by a subsequent change in the nationality".
 
-```photo
-{"n":1,"subject":"Prashant Kumar Mishra","caption":"Justice Prashant Kumar Mishra, who wrote Tuesday's judgment holding that a UK divorce did not protect the husband from a bigamy case.","alt":"Justice Prashant Kumar Mishra of the Supreme Court of India"}
-```
 
 ## Is a foreign court's judgment binding in India at all?
 

@@ -26590,5 +26590,67 @@
   "alt": "US Senator Jon Ossoff of Georgia (file photo)",
   "alt_hi": "जॉर्जिया के अमेरिकी सीनेटर जॉन ऑसॉफ (फ़ाइल फ़ोटो)",
   "page": null
+ },
+ "us-midterms-explained-congress-tariffs-what-it-means-for-india": {
+  "id": "i-us-midterms-explained-congress-tariffs-what-it-means-for-india",
+  "src": "/photos/i-us-midterms-explained-congress-tariffs-what-it-means-for-india-en-3x2-1280.jpg",
+  "src800": "/photos/i-us-midterms-explained-congress-tariffs-what-it-means-for-india-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Trump's tariffs on India, and what Congress can do",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: भारत पर ट्रंप के टैरिफ, और कांग्रेस क्या कर सकती है",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-us-midterms-explained-congress-tariffs-what-it-means-for-india-hi-3x2-1280.jpg",
+    "src800": "/photos/i-us-midterms-explained-congress-tariffs-what-it-means-for-india-hi-3x2-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-us-midterms-explained-congress-tariffs-what-it-means-for-india-en-1280.jpg",
+    "src800": "/photos/i-us-midterms-explained-congress-tariffs-what-it-means-for-india-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-us-midterms-explained-congress-tariffs-what-it-means-for-india-hi-1280.jpg",
+    "src800": "/photos/i-us-midterms-explained-congress-tariffs-what-it-means-for-india-hi-640.jpg"
+   }
+  }
+ },
+ "qs-asia-slide-india-universities-must-open-to-the-world": {
+  "id": "i-qs-asia-slide-india-universities-must-open-to-the-world",
+  "src": "/photos/i-qs-asia-slide-india-universities-must-open-to-the-world-en-3x2-1280.jpg",
+  "src800": "/photos/i-qs-asia-slide-india-universities-must-open-to-the-world-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: More Indian universities ranked, fewer near the top",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: रैंक वाली यूनिवर्सिटियां बढ़ीं, शीर्ष के पास घटीं",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-qs-asia-slide-india-universities-must-open-to-the-world-hi-3x2-1280.jpg",
+    "src800": "/photos/i-qs-asia-slide-india-universities-must-open-to-the-world-hi-3x2-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-qs-asia-slide-india-universities-must-open-to-the-world-en-1280.jpg",
+    "src800": "/photos/i-qs-asia-slide-india-universities-must-open-to-the-world-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-qs-asia-slide-india-universities-must-open-to-the-world-hi-1280.jpg",
+    "src800": "/photos/i-qs-asia-slide-india-universities-must-open-to-the-world-hi-640.jpg"
+   }
+  }
  }
 }

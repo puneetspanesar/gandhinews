@@ -65,9 +65,6 @@ On Tuesday, at a meeting of MPs in Puri, Union Shipping Minister Sarbananda Sono
 
 He is right that they should be. A country with a long coastline, a ring of ports and big rivers still sends most of its bulk cargo by road and rail. Ships and barges are cheaper per tonne over long distances and burn less fuel. The ministry says its two schemes could save 16 million tonnes of carbon dioxide emissions.
 
-```photo
-{"n":1,"subject":"Sarbananda Sonowal","caption":"Union Ports, Shipping and Waterways Minister Sarbananda Sonowal, who set the 12% target at a consultative committee meeting in Puri on Tuesday.","alt":"Union Shipping Minister Sarbananda Sonowal"}
-```
 
 ## A target set for 21 years away
 
