@@ -16,7 +16,7 @@ hero:
   need: "Nirvachan Sadan, the Election Commission of India headquarters in New Delhi, which issued the 3 November clarification"
   suggested_source: "Nirvachan Sadan"
   subjects: ["Nirvachan Sadan"]
-  alt: "Nirvachan Sadan, headquarters of the Election Commission of India, New Delhi"
+  alt: "Voters queue with their identity cards to vote (file photo)"
   overlay:
     kicker: "Our view"
     value: "Reach the voter, don't wait for her"
@@ -85,8 +85,8 @@ What came instead, on 3 November, was a letter to state electoral officers. It s
 
 On Wednesday the petitioners told the Chief Justice this runs against what the court had suggested. He said the matter was pending and that people need not be apprehensive, and the issue will be heard on 19 November.
 
-```photo
-{"n":1,"subject":"Surya Kant","caption":"Chief Justice of India Surya Kant, who asked the Election Commission on 28 October to reach out to deleted voters rather than wait for them.","alt":"Chief Justice of India Surya Kant"}
+```timeline
+{"title":"Getting Delhi's deleted voters back on the roll","items":[{"date":"31 August","text":"Draft roll leaves out 47.56 lakh Delhi voters"},{"date":"28 October","text":"Supreme Court suggests Form 8 or the enumeration form for voters already on the rolls"},{"date":"3 November","text":"Election Commission letter says missing electors may file Form 6"},{"date":"4 November","text":"Petitioners raise the letter before the Chief Justice"},{"date":"19 November","text":"Supreme Court to hear the issue"},{"date":"25 November","text":"Last date for claims and objections"},{"date":"22 December","text":"Final roll due"}]}
 ```
 
 ## The fair objection

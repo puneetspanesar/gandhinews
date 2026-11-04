@@ -129,8 +129,4 @@ Batteries are quicker to set up and can respond in fractions of a second, which 
 
 **Batteries need them, and India refines very little of either.** India still relies heavily on imports for refined, high-purity lithium, nickel and cobalt. The new processing scheme will pay a **capital subsidy of 30%** for two lithium plants of at least 30 kilotonnes each and two nickel plants of at least 50 kilotonnes each, capped at ₹500 crore and ₹900 crore a plant.
 
-```photo
-{"n":2,"subject":"Lithium carbonate","caption":"Battery-grade lithium compounds such as lithium carbonate are among the materials India now imports and wants to process at home.","alt":"White powder of lithium carbonate"}
-```
-
 As with storage, the bidders who ask for the least support will win, and the money will be released in three instalments as milestones are met. Read together, the two decisions aim to build the chain from refined metal to battery cell to a grid that can keep solar power flowing after dark.

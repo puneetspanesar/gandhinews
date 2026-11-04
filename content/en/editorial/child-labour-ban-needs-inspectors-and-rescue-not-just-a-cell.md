@@ -84,10 +84,6 @@ The last full count, from the 2011 Census, found **about 1.01 crore children age
 
 The work has not vanished. It has gone unrecorded. A 2025 study by Enfold and CivicDataLab, which went through court records in six states, found **roughly eight times as many child labour cases** in the courts as in the police figures for the states it studied. When the official numbers are this far from what courts and families see, the problem is not the absence of a law but the absence of anyone counting.
 
-```photo
-{"n":1,"subject":"Child labour in India","caption":"Children at work in India, where the 2011 Census counted about 1.01 crore working children aged five to 14.","alt":"A child at work in India"}
-```
-
 ## Thirty years of cells
 
 This is not the first time the court has asked for machinery. In 1996, in M C Mehta v State of Tamil Nadu, it ordered employers to pay **₹20,000 for every child employed illegally** into a welfare fund, and asked each state to set up a separate cell in its labour department, with district collectors overseeing inspectors. A new cell in Delhi will meet the same fate as those orders unless it is given teeth.
