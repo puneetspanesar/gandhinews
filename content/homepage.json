@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "smriti-irani-rahul-prince-perpetual-waiting-56-polls-sir",
+    "id": "us-midterms-ossoff-holds-georgia-first-results",
     "overlay": {
       "kicker": {
-        "en": "Politics / BJP vs Congress",
-        "hi": "राजनीति / भाजपा बनाम कांग्रेस"
+        "en": "World / US midterms",
+        "hi": "दुनिया / अमेरिकी मध्यावधि चुनाव"
       },
       "value": {
-        "en": "'Prince in perpetual waiting'",
-        "hi": "'हमेशा इंतजार में बैठे युवराज'"
+        "en": "Ossoff holds Georgia",
+        "hi": "जॉर्जिया में ऑसॉफ की जीत"
       },
       "text": {
         "en": "",
@@ -16,36 +16,43 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "nishikant-dubey-offers-debate-rahul-congress-office",
-      "bjp-gaurav-bhatia-opposition-anarchic-model-sting-rahul",
-      "what-india-bloc-supreme-court-petition-on-sir-asks-for"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
-      "us-midterms-voting-under-way-house-senate-57-million-early",
+      "misri-lands-kathmandu-today-three-post-diwali-dates-shah",
+      "psg-six-villarreal-record-bayern-win-madrid-cunha-united",
+      "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip",
       "qatar-iran-us-far-apart-36-hours-feedback-hormuz",
-      "gill-any-indian-team-can-beat-anyone-eden-park-first-odi-preview",
-      "sc-uk-divorce-decree-no-shield-bigamy-andhra-husband",
-      "sonowal-puri-coastal-freight-12-per-cent-2047-cruise-terminal"
+      "nishikant-dubey-offers-debate-rahul-congress-office"
     ],
     "live": {
       "title": {
-        "en": "BJP vs Rahul",
-        "hi": "भाजपा बनाम राहुल"
+        "en": "US midterms",
+        "hi": "अमेरिकी मध्यावधि चुनाव"
       }
     }
   },
   "briefing": {
     "items": [
       {
-        "link": "us-midterms-voting-under-way-house-senate-57-million-early",
+        "link": "misri-lands-kathmandu-today-three-post-diwali-dates-shah",
         "lead": {
-          "en": "US midterms:",
-          "hi": "अमेरिकी मध्यावधि चुनाव:"
+          "en": "Diplomacy:",
+          "hi": "कूटनीति:"
         },
         "text": {
-          "en": "Americans vote in midterms with House and Senate control at stake",
-          "hi": "अमेरिका में मध्यावधि चुनाव के लिए मतदान, हाउस और सीनेट का नियंत्रण दांव पर"
+          "en": "Misri heads to Kathmandu today as India offers Balendra Shah three dates after Diwali",
+          "hi": "मिस्री आज काठमांडू जाएंगे, भारत ने बालेन्द्र शाह के दौरे के लिए दिवाली बाद की तीन तारीखें सुझाईं"
+        }
+      },
+      {
+        "link": "psg-six-villarreal-record-bayern-win-madrid-cunha-united",
+        "lead": {
+          "en": "Football:",
+          "hi": "फुटबॉल:"
+        },
+        "text": {
+          "en": "PSG hit Villarreal for six with record start as Bayern win in Madrid and Cunha rescues United",
+          "hi": "रिकॉर्ड शुरुआत के साथ पीएसजी ने विय्यारियाल को 6-0 से रौंदा, बायर्न की मैड्रिड में जीत, कुन्या ने यूनाइटेड को बचाया"
         }
       },
       {
@@ -68,17 +75,6 @@
         "text": {
           "en": "'Get satisfied with me first': Nishikant Dubey offers to debate Rahul Gandhi at Congress office",
           "hi": "'पहले मुझसे संतुष्ट हो जाइए': निशिकांत दुबे ने राहुल गांधी को कांग्रेस दफ्तर में बहस की पेशकश की"
-        }
-      },
-      {
-        "link": "sonowal-puri-coastal-freight-12-per-cent-2047-cruise-terminal",
-        "lead": {
-          "en": "Shipping:",
-          "hi": "जहाज़रानी:"
-        },
-        "text": {
-          "en": "Sonowal sets 2047 goal to double coastal and waterway share of freight to 12%",
-          "hi": "सोनोवाल का लक्ष्य: 2047 तक माल ढुलाई में तटीय और जलमार्गों की हिस्सेदारी दोगुनी होकर 12%"
         }
       },
       {
@@ -115,14 +111,14 @@
         }
       },
       {
-        "link": "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip",
+        "link": "sc-uk-divorce-decree-no-shield-bigamy-andhra-husband",
         "lead": {
-          "en": "Education:",
-          "hi": "शिक्षा:"
+          "en": "Courts:",
+          "hi": "अदालत:"
         },
         "text": {
-          "en": "QS Asia rankings: IIT Delhi stays India's best at 66th as most Indian universities slip",
-          "hi": "क्यूएस एशिया रैंकिंग: आईआईटी दिल्ली 66वें स्थान पर भी देश में अव्वल, ज़्यादातर भारतीय विश्वविद्यालय फिसले"
+          "en": "UK divorce and British citizenship no shield from bigamy case, Supreme Court rules",
+          "hi": "ब्रिटेन का तलाक और नागरिकता बहुविवाह के मुकदमे से नहीं बचा सकते: सुप्रीम कोर्ट"
         }
       }
     ]
@@ -190,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "apple-app-store-18-plus-dating-ai-companion-apps",
+      "id": "gill-any-indian-team-can-beat-anyone-eden-park-first-odi-preview",
       "also": []
     },
     "list": [
+      "apple-app-store-18-plus-dating-ai-companion-apps",
       "mcx-q2-profit-454-crore-revenue-doubles",
-      "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip",
-      "sudhakar-dalela-arrives-kathmandu-india-ambassador-nepal",
-      "urvil-patel-210-pradosh-paul-208-ranji-round-four-day-two",
-      "nse-q2-profit-23-per-cent-2578-crore-coal-exchange-stake"
+      "sanjay-shirsat-dia-mirza-loudspeakers-video-row",
+      "ncp-devgiri-meeting-bhujbal-288-seats-sunetra-finance-shah",
+      "urvil-patel-210-pradosh-paul-208-ranji-round-four-day-two"
     ],
     "also": [
-      "sensex-1225-points-nifty-23811-fourth-day-rally-november-3",
-      "goa-supreme-court-st-seat-reservation-hc-stay-sawaikar"
+      "sc-uk-divorce-decree-no-shield-bigamy-andhra-husband",
+      "bjp-gaurav-bhatia-opposition-anarchic-model-sting-rahul"
     ]
   },
   "startHere": [
@@ -378,11 +374,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "nishikant-dubey-offers-debate-rahul-congress-office",
         "sonowal-puri-coastal-freight-12-per-cent-2047-cruise-terminal",
-        "sanjay-shirsat-dia-mirza-loudspeakers-video-row",
-        "ncp-devgiri-meeting-bhujbal-288-seats-sunetra-finance-shah"
+        "sanjay-shirsat-dia-mirza-loudspeakers-video-row"
       ],
-      "lead": "nishikant-dubey-offers-debate-rahul-congress-office"
+      "lead": "misri-lands-kathmandu-today-three-post-diwali-dates-shah"
     },
     {
       "section": "economy",
@@ -439,12 +435,12 @@
   "desks": [
     {
       "section": "world",
-      "lead": "us-midterms-voting-under-way-house-senate-57-million-early",
+      "lead": "us-midterms-ossoff-holds-georgia-first-results",
       "list": [
+        "us-midterms-voting-under-way-house-senate-57-million-early",
         "qatar-iran-us-far-apart-36-hours-feedback-hormuz",
         "sudhakar-dalela-arrives-kathmandu-india-ambassador-nepal",
-        "navy-marcos-free-hijacked-fishing-vessel-azini-somalia-20-crew",
-        "us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve"
+        "navy-marcos-free-hijacked-fishing-vessel-azini-somalia-20-crew"
       ]
     },
     {
@@ -458,12 +454,12 @@
     },
     {
       "section": "sports",
-      "lead": "gill-any-indian-team-can-beat-anyone-eden-park-first-odi-preview",
+      "lead": "psg-six-villarreal-record-bayern-win-madrid-cunha-united",
       "list": [
+        "gill-any-indian-team-can-beat-anyone-eden-park-first-odi-preview",
         "urvil-patel-210-pradosh-paul-208-ranji-round-four-day-two",
         "sindhu-lakshya-withdraw-korea-open-sindhu-japan-masters",
-        "glenn-maxwell-retires-international-cricket-38",
-        "villarreal-psg-atletico-bayern-champions-league-tuesday-preview"
+        "glenn-maxwell-retires-international-cricket-38"
       ]
     }
   ],

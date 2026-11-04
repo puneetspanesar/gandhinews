@@ -10,7 +10,7 @@ standfirst: "Democrat Jon Ossoff keeps his Senate seat, the first big call of th
 published: 2026-11-04T06:10:00+05:30
 location: Washington
 keyPoints:
-  - "Democrat **Jon Ossoff has won in Georgia**, holding one of three Democratic seats Republicans targeted."
+  - "Ossoff beat **Republican Mike Collins**, a sitting congressman, to keep the seat."
   - "Early counts show **Democrats leading in Republican-held districts**, with most of the country still counting."
   - "Republicans went in holding the Senate **53 to 47** and the House 218 to 214."
 hero:
@@ -39,6 +39,10 @@ related: [us-midterms-voting-under-way-house-senate-57-million-early, supreme-co
 seo:
   description: "Democrat Jon Ossoff wins Georgia's Senate race in the first big call of the 2026 US midterms; early counts show Democrats ahead in Republican-held House seats."
 sources:
+  - title: "Georgia Senate election results 2026"
+    publisher: "NewsNation"
+    date: 2026-11-04
+    url: "https://newsnationnow.com/politics/2026-midterm-elections/georgia-senate-election-results-2026/amp"
   - title: "Live election results for the 2026 midterms as Ossoff wins in Georgia"
     publisher: "CBS News"
     date: 2026-11-03
@@ -61,17 +65,9 @@ Democratic senator **Jon Ossoff has won re-election in Georgia**, the first majo
 
 Georgia was one of only three Democratic-held Senate seats that Republicans saw as open to a challenge, along with Michigan and New Hampshire. Holding it means Democrats have kept one of the seats they needed before they can think about gains elsewhere.
 
-```photo
-{"n":1,"subject":"Jon Ossoff","caption":"Jon Ossoff, Georgia's Democratic senator, has kept his seat in the first big race called on Tuesday night.","alt":"Jon Ossoff"}
-```
-
 The early House count also brought **Democrats leading in Republican-held districts**, though only a small share of the vote had been counted when the first polls closed in the eastern states. Most of the country, including the West Coast, was still voting.
 
 Republicans went into the night holding the Senate **53 to 47** and the House by 218 seats to 214, with two vacancies. The Senate seats to watch on the Republican side are Alaska, Iowa, Kansas, Maine, North Carolina, Ohio, South Carolina and Texas, where Democrat James Talarico is up against Republican Ken Paxton. Alaska uses ranked-choice voting and may not have a winner for days.
-
-```photo
-{"n":2,"subject":"Donald Trump","caption":"President Donald Trump, whose party went into the vote holding both houses of Congress.","alt":"Donald Trump"}
-```
 
 Trump had warned his supporters on Monday that history was against him. "For some reason, the sitting president doesn't win the midterms," he said. "But we gave this a very strong shot."
 

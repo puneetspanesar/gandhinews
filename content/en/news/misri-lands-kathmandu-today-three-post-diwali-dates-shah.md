@@ -66,19 +66,11 @@ Foreign Secretary **Vikram Misri travels to Kathmandu on Wednesday** for a two-d
 
 Ahead of the visit, India is understood to have **offered three dates in November, all after Diwali**, for Shah to come to New Delhi. The dates have not been made public, and settling on one is expected to be high on Misri's list.
 
-```photo
-{"n":1,"subject":"Balendra Shah","caption":"Nepal's Prime Minister Balendra Shah, whose visit to New Delhi Misri's talks are meant to prepare.","alt":"Nepal Prime Minister Balendra Shah"}
-```
-
 In Kathmandu, Misri will hold **talks with Nepal's Foreign Secretary Amrit Bahadur Rai** and call on senior Nepali leaders. Nepali officials have said he is also expected to meet the President and Prime Minister Shah, with trade, energy, the border and joint projects on the table.
 
 The Ministry of External Affairs has framed the trip as routine diplomacy between close neighbours. "India and Nepal share strong and friendly ties which have seen substantial progress across diverse areas of cooperation," it said, adding that the visit "continues the tradition of regular high-level exchanges between the two countries and will help further enhance the comprehensive bilateral partnership."
 
 The ground has been prepared on both sides. India's new ambassador, **Sudhakar Dalela, arrived in Kathmandu on Tuesday**, a day before the Foreign Secretary.
-
-```photo
-{"n":2,"subject":"Sudhakar Dalela","caption":"Sudhakar Dalela, India's new ambassador to Nepal, who reached Kathmandu a day ahead of Misri.","alt":"Indian diplomat Sudhakar Dalela"}
-```
 
 The visit has been a long time coming. Misri was first due in Kathmandu in May to meet the new government, but **the trip was put off over protocol issues**. Shah's visit is expected to cover energy, security, connectivity and the border, and Nepal is expected to seek help with rebuilding after the August floods and with investment in hydropower.
 

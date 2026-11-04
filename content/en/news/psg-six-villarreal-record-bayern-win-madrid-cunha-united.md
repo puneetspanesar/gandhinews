@@ -88,29 +88,17 @@ Ruiz scored again five minutes after half-time and David Boly, on for his Champi
 
 The big game in Madrid went Bayern's way. After a goalless first half, **Lennart Karl struck in the 54th minute**, winning the ball from Robin Le Normand in the box and lifting it over Jan Oblak. Konrad Laimer doubled the lead in the 74th minute from a Harry Kane pass in front of 70,813 fans.
 
-```photo
-{"n":1,"subject":"Lennart Karl","caption":"Bayern's Lennart Karl, who opened the scoring at the Metropolitano.","alt":"Bayern Munich forward Lennart Karl"}
-```
-
 Oblak tipped a deflected Dayot Upamecano shot onto the bar and Upamecano had a goal ruled out. Bayern, unbeaten in Europe this season, **move up to eighth on eight points**. Atletico, with one win from four, sit 22nd.
 
 ## Cunha turns Old Trafford around
 
 Manchester United were booed off at half-time, 2-0 down to goals from Matias Soule and a Donyell Malen penalty. Bruno Fernandes had his first spot-kick saved, but it was ordered to be retaken for encroachment and he scored at the second attempt in the 58th minute.
 
-```photo
-{"n":2,"subject":"Matheus Cunha","caption":"Matheus Cunha scored twice in the last 10 minutes to give Manchester United victory over Roma.","alt":"Manchester United forward Matheus Cunha"}
-```
-
 **Matheus Cunha then scored twice** in the last 10 minutes, the winner from a Shea Lacey pass, to give United their first win since September. Cunha was booked for celebrating with the fans and sent off for a second yellow card for a late foul in stoppage time.
 
 ## Barcelona end Villa's perfect run
 
 At Camp Nou, Lamine Yamal struck early and **Raphinha scored twice after the break** as Barcelona beat Aston Villa 3-0, ending Villa's perfect start and lifting Hansi Flick's side after two defeats in three games.
-
-```photo
-{"n":3,"subject":"Raphinha","caption":"Raphinha, who scored twice in the second half against Aston Villa.","alt":"Barcelona forward Raphinha"}
-```
 
 Elsewhere, Inter won 3-0 at Feyenoord through Yann Bisseck, Francesco Pio Esposito and Piotr Zielinski. Aleksey Batrakov scored twice in the first 15 minutes as Galatasaray beat Stuttgart 2-0, LASK thrashed Slovan Bratislava 4-0, Sporting won 1-0 at Shakhtar Donetsk a day after sacking coach Rui Borges, and Bodo/Glimt and Lille drew 0-0.
 
