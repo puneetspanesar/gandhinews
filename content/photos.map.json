@@ -19,8 +19,8 @@
   "height": 688,
   "credit": "Photo: Subhrasingh / Wikimedia Commons",
   "licence": "CC BY-SA 4.0",
-  "alt": "Reserve Bank of India headquarters in Mumbai",
-  "alt_hi": "मुंबई में भारतीय रिज़र्व बैंक का मुख्यालय",
+  "alt": "The Reserve Bank of India office in Bhubaneswar",
+  "alt_hi": "भुवनेश्वर में भारतीय रिज़र्व बैंक का कार्यालय",
   "page": "https://commons.wikimedia.org/wiki/File:RBI_Bhubaneswar.jpg"
  },
  "fiscal-deficit-reaches-41-9-of-target-by-august": {
@@ -28938,6 +28938,59 @@
    "hi": {
     "src": "/photos/i-ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent-hi-1280.jpg",
     "src800": "/photos/i-ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent-hi-640.jpg"
+   }
+  }
+ },
+ "rupee-opens-29-paise-94-35-fifth-gain-brent-93": {
+  "id": "r-rupee-opens-29-paise-94-35-fifth-gain-brent-93",
+  "src": "/photos/r-rupee-opens-29-paise-94-35-fifth-gain-brent-93-1280.jpg",
+  "src800": "/photos/r-rupee-opens-29-paise-94-35-fifth-gain-brent-93-640.jpg",
+  "width": 1280,
+  "height": 688,
+  "credit": "Photo: Subhrasingh / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Reserve Bank of India office in Bhubaneswar",
+  "alt_hi": "भुवनेश्वर में भारतीय रिज़र्व बैंक का कार्यालय",
+  "page": "https://commons.wikimedia.org/wiki/File:RBI_Bhubaneswar.jpg"
+ },
+ "andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead": {
+  "id": "i-andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead",
+  "src": "/photos/i-andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead-en-3x2-1280.jpg",
+  "src800": "/photos/i-andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Turnout 4.8% statewide by 9 am",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: सुबह 9 बजे तक राज्य में 4.8% मतदान",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead-hi-3x2-1280.jpg",
+    "src800": "/photos/i-andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead-en-t-1280.jpg",
+    "src800": "/photos/i-andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead-hi-t-1280.jpg",
+    "src800": "/photos/i-andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead-en-1280.jpg",
+    "src800": "/photos/i-andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead-hi-1280.jpg",
+    "src800": "/photos/i-andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead-hi-640.jpg"
    }
   }
  }

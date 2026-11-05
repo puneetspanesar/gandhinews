@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6",
+    "id": "andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead",
     "overlay": {
       "kicker": {
-        "en": "States / Andhra Pradesh",
-        "hi": "राज्य / आंध्र प्रदेश"
+        "en": "Andhra Pradesh",
+        "hi": "आंध्र प्रदेश"
       },
       "value": {
-        "en": "Polls open, four mandals wait a day",
-        "hi": "मतदान शुरू, चार मंडल एक दिन बाद"
+        "en": "4.8% by 9 am",
+        "hi": "सुबह 9 बजे तक 4.8%"
       },
       "text": {
         "en": "",
@@ -18,15 +18,14 @@
     "dataBox": [],
     "relatedBelow": [
       "ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent",
-      "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
-      "andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous"
+      "andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6"
     ],
     "relatedBeside": [
       "sensex-1553-points-bse-market-cap-500-lakh-crore-10am",
       "india-japan-asian-champions-trophy-final-mohali-preview",
-      "us-midterms-schumer-lower-costs-with-or-without-trump",
       "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action",
-      "naveen-patnaik-writes-majhi-kotia-andhra-elections"
+      "us-midterms-schumer-lower-costs-with-or-without-trump",
+      "cabinet-fast-track-special-courts-2031-850-courts"
     ],
     "live": {
       "title": {
@@ -37,6 +36,17 @@
   },
   "briefing": {
     "items": [
+      {
+        "link": "andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead",
+        "lead": {
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
+        },
+        "text": {
+          "en": "Andhra parishad polls: 4.8% statewide by 9 am, NTR and Krishna cross 14% as queues build",
+          "hi": "आंध्र परिषद चुनाव: सुबह 9 बजे तक राज्य में 4.8% मतदान, एनटीआर और कृष्णा 14% के पार"
+        }
+      },
       {
         "link": "sensex-1553-points-bse-market-cap-500-lakh-crore-10am",
         "lead": {
@@ -49,17 +59,6 @@
         }
       },
       {
-        "link": "ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent",
-        "lead": {
-          "en": "Andhra Pradesh:",
-          "hi": "आंध्र प्रदेश:"
-        },
-        "text": {
-          "en": "YSRCP alleges agents blocked and voters stopped in Pulivendula as Palnadu logs 12% by 9 am",
-          "hi": "वाईएसआरसीपी का आरोप, पुलिवेंदुला में एजेंट रोके गए और मतदाता लौटाए गए; पलनाडु में 9 बजे तक 12% मतदान"
-        }
-      },
-      {
         "link": "india-japan-asian-champions-trophy-final-mohali-preview",
         "lead": {
           "en": "Hockey:",
@@ -68,6 +67,17 @@
         "text": {
           "en": "India chase sixth Asian Champions Trophy title against Japan in Mohali final tonight",
           "hi": "एशियन चैंपियंस ट्रॉफी: छठे खिताब के लिए आज रात मोहाली में जापान से भिड़ेगा भारत"
+        }
+      },
+      {
+        "link": "us-midterms-alaska-sullivan-peltola-too-close-to-call",
+        "lead": {
+          "en": "Alaska:",
+          "hi": "अलास्का:"
+        },
+        "text": {
+          "en": "Sullivan edges ahead of Peltola as Senate race stays too close to call",
+          "hi": "सुलिवन पेल्टोला से थोड़ा आगे, सीनेट मुकाबला अब भी बेहद करीबी"
         }
       },
       {
@@ -110,19 +120,8 @@
           "hi": "अदालतें:"
         },
         "text": {
-          "en": "Cabinet extends fast-track courts for rape and POCSO trials till 2031, network to grow to 850",
-          "hi": "दुष्कर्म और पॉक्सो मामलों की फास्ट ट्रैक अदालतें 2031 तक जारी रहेंगी, संख्या बढ़कर 850 होगी"
-        }
-      },
-      {
-        "link": "us-midterms-alaska-sullivan-peltola-too-close-to-call",
-        "lead": {
-          "en": "US midterms:",
-          "hi": "अमेरिकी मध्यावधि चुनाव:"
-        },
-        "text": {
-          "en": "Dan Sullivan edges ahead of Mary Peltola as Alaska's Senate race stays too close to call",
-          "hi": "अलास्का सीनेट सीट पर कांटे की टक्कर, डैन सुलिवन मैरी पेल्टोला से मामूली अंतर से आगे"
+          "en": "Fast-track courts for rape and POCSO trials extended till 2031, to grow to 850",
+          "hi": "दुष्कर्म और पॉक्सो की फास्ट ट्रैक अदालतें 2031 तक, संख्या 850 होगी"
         }
       }
     ]
@@ -190,20 +189,11 @@
   },
   "topStories": {
     "big": {
-      "id": "cabinet-fast-track-special-courts-2031-850-courts",
+      "id": "alcaraz-beats-michelsen-fils-machac-paris-masters-last-16",
       "also": []
     },
-    "also": [
-      "fenerbahce-3-2-liverpool-muriqi-valverde-real-madrid-aek",
-      "siraj-to-join-india-odi-squad-wellington-missed-auckland"
-    ],
-    "list": [
-      "india-beat-new-zealand-five-wickets-dls-eden-park-first-odi",
-      "us-midterms-alaska-sullivan-peltola-too-close-to-call",
-      "supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification",
-      "alcaraz-beats-michelsen-fils-machac-paris-masters-last-16",
-      "jairam-ramesh-vb-g-ram-g-grievance-rules-jumla"
-    ]
+    "list": [],
+    "also": []
   },
   "startHere": [
     "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
@@ -386,7 +376,7 @@
     },
     {
       "section": "economy",
-      "lead": "sensex-1553-points-bse-market-cap-500-lakh-crore-10am",
+      "lead": "rupee-opens-29-paise-94-35-fifth-gain-brent-93",
       "module": {
         "type": "markets",
         "indicators": [
@@ -397,19 +387,19 @@
         ]
       },
       "list": [
+        "sensex-1553-points-bse-market-cap-500-lakh-crore-10am",
         "sensex-1623-points-pre-open-nifty-24378-brent-below-100",
         "gift-nifty-gap-up-kospi-circuit-breaker-chips-november-5",
-        "wall-street-dow-1569-best-day-since-april-2025-democrats-congress-oil",
-        "wall-street-jumps-dow-1131-democrats-win-congress"
+        "wall-street-dow-1569-best-day-since-april-2025-democrats-congress-oil"
       ]
     },
     {
       "section": "states",
-      "lead": "ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent",
+      "lead": "andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead",
       "list": [
+        "ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent",
         "andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6",
-        "andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous",
-        "andhra-mptc-zptc-polling-today-2-81-crore-voters"
+        "andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous"
       ]
     },
     {

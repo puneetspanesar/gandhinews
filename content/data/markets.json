@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-05T10:00:00+05:30",
+  "as_of": "2026-11-05T10:10:00+05:30",
   "status": "open",
   "session_date": "2026-11-05",
   "chart": "nifty-50",
@@ -249,12 +249,12 @@
       "id": "usd-inr",
       "name": "Rupee per dollar",
       "name_hi": "रुपया प्रति डॉलर",
-      "value": 94.36,
+      "value": 94.35,
       "change": -0.29,
       "pct": -0.31,
       "decimals": 2,
       "unit": "",
-      "source": "https://www.business-standard.com/markets/news/stock-market-live-november-5-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-126110500085_1.html"
+      "source": "https://english.punjabkesari.com/business/rupee-opens-29-paise-higher-brent-crude-falls-1-pc-on-hopes-of-iran-war-exit"
     },
     {
       "id": "brent",
@@ -262,11 +262,11 @@
       "name_hi": "ब्रेंट क्रूड",
       "unit": "$/barrel",
       "unit_hi": "$/बैरल",
-      "value": 102.55,
-      "change": null,
-      "pct": null,
+      "value": 93.46,
+      "change": -1.16,
+      "pct": -1.23,
       "decimals": 2,
-      "source": "https://www.kotakneo.com/news/market-news/markets-end-higher-after-range-bound-session/"
+      "source": "https://english.punjabkesari.com/business/rupee-opens-29-paise-higher-brent-crude-falls-1-pc-on-hopes-of-iran-war-exit"
     },
     {
       "id": "gold",
