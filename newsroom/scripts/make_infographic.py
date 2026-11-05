@@ -111,6 +111,10 @@ def page(g, lang, W, H):
     elif g.get('steps'): body = steps_html(g['steps'])
     elif g.get('compare'): body = compare_html(g['compare'])
     else: body = ''
+    if not body and stats:
+        # No chart, timeline, steps or comparison: the numbers fill the panel instead of leaving it empty.
+        body = '<div class="bigst">' + ''.join(f'<div class="b1">{ico(x.get("icon", "info"), 76)}<div class="bv">{e(x.get("value"))}</div><div class="bl">{e(x.get("label"))}</div></div>' for x in stats) + '</div>'
+        st = ''
     tall = H > 760
     hl = e(g.get('headline'))
     hsize = (54 if len(g.get('headline', '')) < 40 else 46) - (4 if hi else 0)
@@ -163,6 +167,11 @@ h1{{text-wrap:balance;font-weight:700;font-size:{hsize}px;line-height:{1.22 if h
 .cst{{font-weight:700;font-size:20px;{up}}}
 .csv{{font-weight:700;font-size:44px;margin-top:8px}}
 .csx{{font-weight:500;font-size:19px;line-height:1.32;margin-top:8px}}
+.bigst{{display:grid;grid-template-columns:repeat(auto-fit,minmax(0,1fr));gap:0;border-top:3px solid #fff}}
+.b1{{padding:28px 26px 10px 0}}
+.b1+.b1{{border-left:1px solid #4a4a4a;padding-left:26px}}
+.bv{{font-weight:700;font-size:{48 if hi else 54}px;line-height:1.05;margin-top:18px;white-space:nowrap}}
+.bl{{font-weight:500;font-size:22px;line-height:1.3;margin-top:10px;text-wrap:pretty}}
 .foot{{display:flex;justify-content:space-between;align-items:baseline;border-top:1px solid #4a4a4a;padding-top:12px;font-size:15px;font-weight:500}}
 .foot b{{color:#ff5a5a;font-weight:700}}
 </style></head><body><div class="wm">{ico(g.get('motif') or (stats[0].get('icon') if stats else 'newspaper'), 460, '#ffffff')}</div><div class="wrap">

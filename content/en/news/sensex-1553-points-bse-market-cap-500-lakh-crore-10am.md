@@ -5,12 +5,13 @@ type: news
 section: economy
 format_label: "Economy / Markets"
 topics: []
-title: "Sensex up 1,553 points by 10 am as BSE market value crosses ₹500 lakh crore"
+title: "Sensex holds a 1,644-point gain in afternoon trade after BSE market value crosses ₹500 lakh crore"
 standfirst: "Investors added about ₹6.4 lakh crore in the first 40 minutes of trade on Thursday, with every Sensex stock but Bharti Airtel in the green and Lenskart hitting a 52-week high."
 published: 2026-11-05T10:05:00+05:30
+updated: 2026-11-05T14:55:00+05:30
 location: Mumbai
 keyPoints:
-  - "The Sensex was **up 1,552.83 points at 78,854.23** at 10 am."
+  - "In afternoon trade the Sensex was **up 1,644 points at 78,945**, and the Nifty 50 **up 467 points at 24,428**."
   - "The value of BSE-listed companies **crossed ₹500 lakh crore**, a gain of about ₹6.4 lakh crore."
   - "Lenskart shares **jumped 10.6% to a 52-week high** after its profit more than doubled."
 hero:
@@ -30,19 +31,24 @@ cover:
     - {icon: trend-up, value: "24,388", label: "Nifty 50 at 10 am, up 428 points"}
     - {icon: currency-inr, value: "₹500.82 lakh cr", label: "value of BSE-listed companies"}
 infographic:
-  kicker: "Thursday morning, 5 November"
+  kicker: "Thursday, November 5"
   headline: "BSE market value crosses ₹500 lakh crore"
-  dek: "Sensex and Nifty hold gains of about 2% an hour into trade"
+  dek: "Sensex and Nifty hold gains of about 2% into the afternoon"
   motif: chart-line-up
   stats:
-    - {icon: trend-up, value: "+1,553", label: "Sensex points at 10 am, to 78,854.23"}
-    - {icon: trend-up, value: "+428", label: "Nifty 50 points at 10 am, to 24,388.40"}
+    - {icon: trend-up, value: "+1,644", label: "Sensex points in afternoon trade, to 78,945"}
+    - {icon: trend-up, value: "+467", label: "Nifty 50 points in afternoon trade, to 24,428"}
     - {icon: currency-inr, value: "₹500.82 lakh cr", label: "BSE market value, from ₹494.42 lakh crore"}
   source: "BSE and NSE data, 5 November 2026"
 related: [sensex-1623-points-pre-open-nifty-24378-brent-below-100, lenskart-q2-profit-doubles-jyothy-labs-buyback, nykaa-physicswallah-q2-profit-nearly-triples-doubles, wall-street-dow-1569-best-day-since-april-2025-democrats-congress-oil]
 seo:
   description: "Stock market today, 5 November 2026: Sensex rises 1,553 points to 78,854 and Nifty 428 points to 24,388 by 10 am; BSE market capitalisation crosses ₹500 lakh crore; Lenskart jumps 10.6%."
 sources:
+  - title: "Sensex surges 1,644 points, Nifty advances 467 points in afternoon trade"
+    publisher: "All India Radio News"
+    date: 2026-11-05
+    url: "https://newsonair.gov.in/sensex-surges-1644-points-nifty-advances-467-points-in-afternoon-trade/"
+    primary: false
   - title: "Stock Market LIVE: Sensex surges 1,500, Nifty tops 24,400; market-cap increases ₹6.4 trillion"
     publisher: "Business Standard"
     date: 2026-11-05
@@ -61,7 +67,9 @@ verification:
     - "BS 9:21 entry lists IndiGo as top performer 'after a 5% decline', contradictory; left out. Oil 'below $95' at 9:17 without benchmark; not used. Rupee 94.36 (BS 9:01) already in pre-open story."
 ---
 
-The rally on Dalal Street **gathered pace in the first hour** of trade on Thursday. By 10 am the Sensex was up 1,552.83 points, or 2.01%, at 78,854.23, and the Nifty 50 had gained 427.80 points, or 1.79%, to 24,388.40.
+The rally on Dalal Street **held into the afternoon** on Thursday. In afternoon trade the **Sensex was up 1,644 points at 78,945** and the Nifty 50 up 467 points at 24,428, both about 2% higher, according to market reports.
+
+The gains had come early. By 10 am the Sensex was up 1,552.83 points, or 2.01%, at 78,854.23, and the Nifty 50 had gained 427.80 points, or 1.79%, to 24,388.40.
 
 The Sensex opened 1,329 points higher at 78,630 and kept climbing, on course for a sixth straight day of gains. Buying came from almost every corner. Every Sensex stock except Bharti Airtel traded higher in the opening minutes, with **Maruti, Asian Paints, Bajaj Finance and M&M up 3 to 4%**. Airtel slipped slightly ahead of its September-quarter results, due later on Thursday.
 

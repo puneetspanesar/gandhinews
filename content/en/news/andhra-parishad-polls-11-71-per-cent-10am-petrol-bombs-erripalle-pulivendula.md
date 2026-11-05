@@ -5,12 +5,13 @@ type: news
 section: states
 format_label: "States / Andhra Pradesh"
 topics: []
-title: "Andhra parishad polls reach 11.71% by 10 am; petrol bombs allegedly hurled near Erripalle booth"
-standfirst: "Chittoor led the state's turnout three hours into the mandal and zilla parishad polls, while Pulivendula and Gurajala saw clashes over YSRCP polling agents."
+title: "Andhra parishad polls: petrol bombs allegedly hurled near Erripalle booth as turnout passes 21%"
+standfirst: "Turnout nearly doubled in an hour as Visakhapatnam pulled ahead, while Pulivendula and Gurajala saw clashes over YSRCP polling agents. Polling closes at 5 pm."
 published: 2026-11-05T12:10:00+05:30
+updated: 2026-11-05T14:50:00+05:30
 location: Vijayawada
 keyPoints:
-  - "Statewide turnout in the MPTC and ZPTC polls stood at **11.71% by 10 am**."
+  - "Statewide turnout in the MPTC and ZPTC polls reached **21.12% by 11 am**, up from 11.71% at 10 am."
   - "Petrol bombs were allegedly **hurled near a polling booth in Erripalle**, Pulivendula, setting off panic and clashes."
   - "In Gurajala, **YSRCP activists clashed with police** over polling agents being kept out."
 hero:
@@ -19,21 +20,27 @@ hero:
   subjects: ["Pulivendula", "Polling station Andhra Pradesh"]
   alt: "Pulivendula in Kadapa district, Andhra Pradesh"
   overlay:
-    value: "11.71% by 10 am, trouble in Pulivendula"
+    value: "21.12% by 11 am, trouble in Pulivendula"
 infographic:
   kicker: "Andhra parishad polls"
-  headline: "Turnout at 11.71% by 10 am"
-  dek: "Chittoor leads, Bapatla trails; petrol bombs alleged near an Erripalle booth"
+  headline: "Turnout crosses 21% by 11 am"
+  dek: "Petrol bombs alleged near an Erripalle booth; clashes in Gurajala"
   motif: percent
   stats:
-    - {icon: percent, value: "11.71%", label: "statewide turnout by 10 am"}
-    - {icon: map-pin, value: "15.12%", label: "Chittoor, the highest district"}
-    - {icon: map-pin, value: "7.34%", label: "Bapatla, the lowest district"}
+    - {icon: percent, value: "21.12%", label: "statewide turnout by 11 am"}
+    - {icon: map-pin, value: "35.4%", label: "Visakhapatnam at 11 am"}
+    - {icon: users-three, value: "2.61 crore", label: "voters, 7,767 MPTC and 582 ZPTC seats"}
+  chart: {type: columns, title: "Statewide turnout through the morning, %", highlight: -1, items: [{label: "9 am", value: 4.8, display: "4.8%"}, {label: "10 am", value: 11.71, display: "11.71%"}, {label: "11 am", value: 21.12, display: "21.12%"}]}
   source: "Andhra Pradesh parishad poll turnout, 5 November 2026"
 related: [ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent, andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead, andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6, andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous]
 seo:
-  description: "Andhra Pradesh MPTC-ZPTC polls recorded 11.71% turnout by 10 am on 5 November 2026; petrol bombs were allegedly hurled near a booth in Erripalle, Pulivendula, and YSRCP workers clashed with police in Gurajala."
+  description: "Andhra Pradesh MPTC-ZPTC polls recorded 21.12% turnout by 11 am on November 5, 2026, up from 11.71% at 10 am; petrol bombs were allegedly hurled near a booth in Erripalle, Pulivendula, and YSRCP workers clashed with police in Gurajala."
 sources:
+  - title: "AP MPTC ZPTC election turnout reaches 21.12% by 11 am"
+    publisher: "The Hans India"
+    date: 2026-11-05
+    url: "https://www.thehansindia.com/andhra-pradesh/ap-mptc-zptc-election-turnout-reaches-2112-by-11-am-1139487"
+    primary: false
   - title: "Andhra Pradesh MPTC, ZPTC Elections: Polling Underway, Petrol Bomb Attack In Pulivendula; Security Tightened"
     publisher: "The Daily Jagran"
     date: 2026-11-05
@@ -62,9 +69,9 @@ verification:
     - "Seat and security numbers: Telangana Today 10:03 am IST."
 ---
 
-Turnout in Andhra Pradesh's mandal and zilla parishad elections reached **11.71% by 10 am** on Thursday, three hours after polling opened, as trouble flared in Pulivendula and Palnadu district.
+Turnout in Andhra Pradesh's mandal and zilla parishad elections reached **21.12% by 11 am** on Thursday, four hours after polling opened, nearly double the 11.71% recorded at 10 am. That was the latest official figure by mid-afternoon; polling closes at 5 pm. Trouble flared in Pulivendula and Palnadu district.
 
-Chittoor district was ahead of the rest of the state with **15.12% at 10 am**. Bapatla was the slowest at 7.34%. Earlier in the morning, NTR and Krishna districts had crossed 14% and 15% respectively, with women voters queuing at several booths.
+Among the districts reporting at 11 am, **Visakhapatnam led with 35.4%**, followed by Palnadu at 32.02% and Kadapa at 29.31%; Guntur was at 23%. At 10 am, Chittoor had been ahead with 15.12% and Bapatla the slowest at 7.34%. In Yadavolu village in East Godavari's Devarapalli mandal, rainwater flooded the polling premises and voting began three hours late. Earlier in the morning, NTR and Krishna districts had crossed 14% and 15% respectively, with women voters queuing at several booths.
 
 ## Panic in Erripalle
 

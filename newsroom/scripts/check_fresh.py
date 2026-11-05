@@ -40,6 +40,27 @@ if MKT.search(lead): bad.append(('markets story as the lead', lead, 0))
 _M = json.load(open('content/photos.map.json'))
 for i in [lead] + heads + ids(h['lead'].get('relatedBelow')):
     if i not in _M: bad.append(('no picture yet (never put an unpictured story on the homepage)', i, 0))
+
+# Snapshot figures go stale fast: a headline or standfirst that pins a figure to a clock time ("by 10 am", "at 11:30 am")
+# must be updated within 2 hours, or the story taken off the top. Same for the markets band while the market is open.
+CLOCK = _re.compile(r'\b(?:by|at|till|until|as of)\s+(\d{1,2})(?::(\d{2}))?\s*(am|pm)\b', _re.I)
+_HI_CLOCK = _re.compile(r'(सुबह|दोपहर|शाम)?\s*(\d{1,2})\s*बजे\s*तक')
+for i in [lead] + heads[:8]:
+    d = P[i]
+    when = d.get('updated') or d['published']
+    if (now - when).total_seconds() > 12 * 3600: continue
+    for txt in (str(d.get('title', '')),):
+        for m in CLOCK.finditer(txt):
+            hh = int(m.group(1)) % 12 + (12 if m.group(3).lower() == 'pm' else 0)
+            t = when.replace(hour=hh, minute=int(m.group(2) or 0), second=0)
+            if (now - t).total_seconds() > 2 * 3600:
+                bad.append((f'snapshot figure is out of date ("{m.group(0)}" at {now:%H:%M}); update the story with the latest figure or move it off the top', i, (now - t).total_seconds() / 3600))
+_mk = json.load(open('content/data/markets.json'))
+try:
+    _asof = dt.datetime.fromisoformat(_mk.get('as_of'))
+    if _mk.get('status') == 'open' and (now - _asof).total_seconds() > 2 * 3600 and now.weekday() < 5 and 9 <= now.hour < 16:
+        bad.append(('markets band shows the market open but its figures are more than 2 hours old', _mk.get('as_of'), (now - _asof).total_seconds() / 3600))
+except Exception: pass
 if bad:
     print('HOMEPAGE PROBLEMS:')
     for n, i, a in bad: print(f'  {n}: {i} ({a:.0f})')

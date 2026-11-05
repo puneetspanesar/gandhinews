@@ -168,3 +168,5 @@
 .gn .mk-mv li{height:24px}.gn .mk-mv li b{line-height:1}
 
 .gn .g-ft{margin:0 0 4px;font-size:14px;font-weight:700;color:#fff;text-transform:uppercase;letter-spacing:.04em}
+
+.gn .g-clamp{display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}

@@ -246,7 +246,7 @@ export async function homeModel(lang: Lang) {
     return { ...x, label: `${pre}: ${x.d.title}` };
   });
   const top = HOME.topStories.list.map(card);
-  const start = HOME.startHere.map((id: string) => { const x = card(id); return { ...x, icon: iconFor(x.d), meta: labelParts(x.d.format_label).slice(-1)[0] }; });
+  const start = HOME.startHere.filter((id: string) => hasPic(id)).map((id: string) => { const x = card(id); return { ...x, icon: iconFor(x.d), meta: labelParts(x.d.format_label).slice(-1)[0] }; });
 
   // ---- Trackers band
   const trackers = HOME.trackers.map((tk: any) => {
@@ -511,8 +511,9 @@ export async function homeModel(lang: Lang) {
     title: L0.live?.title?.[lang] || leadTopic || lead.k,
     feature: lead.below[0] ? short(lead.below[0]) : null,
     // Never an empty column: when the running story has fewer than two follow-ups, fill with the newest pictured stories from the lead's section.
-    filler: lead.below.length <= 1,
-    list: (lead.below.length > 1 ? lead.below.slice(1) : c.articles.filter((x: any) => x.data.type === 'news' && x.data.section === lead.d.section && x.data.id !== lead.id && !lead.below.some((b: any) => b.id === x.data.id) && hasPic(x.data.id)).slice(0, 3).map((x: any) => card(x.data.id))).map(short),
+    filler: lead.below.length < 3,
+    // Always three follow-ups in the right column: the running story's own updates first, then the newest pictured stories from the lead's section that are not already in the headlines.
+    list: [...lead.below.slice(1), ...c.articles.filter((x: any) => x.data.type === 'news' && x.data.section === lead.d.section && x.data.id !== lead.id && !lead.below.some((b: any) => b.id === x.data.id) && !chosen.some((h: any) => h.id === x.data.id) && hasPic(x.data.id)).slice(0, 3).map((x: any) => card(x.data.id))].slice(0, 3).map(short),
     points: (lead.d.keyPoints ?? []).map((k: string) => String(k).replace(/\*\*/g, '')),
     facts: lead.dataBox.slice(0, 3),
   };

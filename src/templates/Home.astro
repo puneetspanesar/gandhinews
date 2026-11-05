@@ -49,8 +49,8 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
         <p class="sf">{L.d.standfirst}</p>
         {m.live.points.length > 0 && <ul class="g-pts">{m.live.points.slice(0, 3).map((k: string) => <li>{k}</li>)}</ul>}
       </article>
-      {m.headlines.slice(0, 2).map((x: any) => <article class="g-c"><a href={x.href} class="g-im" tabindex="-1" aria-hidden="true"><Photo cover id={x.id} src={x.d.hero?.src} lang={lang} /></a><a href={x.href}><h3><span class="kk">{x.kk}</span> {x.d.title}</h3></a></article>)}
-      {m.headlines.slice(2, 4).map((x: any, i: number) => <article class="g-c g-tr"><a href={x.href}><h3><span class="kk">{x.kk}</span> {x.d.title}</h3></a>{i === 0 && <p class="sf">{x.d.standfirst}</p>}</article>)}
+      {m.headlines.slice(0, 2).map((x: any) => <article class="g-c"><a href={x.href} class="g-im" tabindex="-1" aria-hidden="true"><Photo cover id={x.id} src={x.d.hero?.src} lang={lang} /></a><a href={x.href}><h3><span class="kk">{x.kk}</span> {x.d.title}</h3></a><p class="sf g-clamp">{x.d.standfirst}</p></article>)}
+      {m.headlines.slice(2, 4).map((x: any) => <article class="g-c g-tr"><a href={x.href}><h3><span class="kk">{x.kk}</span> {x.d.title}</h3></a><p class="sf g-clamp">{x.d.standfirst}</p></article>)}
       {m.headlines.slice(4, 8).map((x: any) => <article class="g-c g-tr g-sm"><a href={x.href} class="g-im" tabindex="-1" aria-hidden="true"><Photo cover id={x.id} src={x.d.hero?.src} lang={lang} /></a><a href={x.href}><h3><span class="kk">{x.kk}</span> {x.d.title}</h3></a></article>)}
     </div>
   </section>
@@ -113,8 +113,8 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
       <div class="g-bt"><h2 id="ex-h"><a href={`${p}/explained/`}>{h.explained}</a></h2><span>{G.explainedX}</span></div>
       <div class="g-g">
         {m.start.slice(0, 5).map((x: any, i: number) => (
-          <article class={i === 0 ? 'g-c g-s2 g-r2' : i < 3 ? 'g-c' : 'g-c g-tr'}>
-            {i < 3 && <a href={x.href} class={i === 0 ? 'g-im g-im-big' : 'g-im'} tabindex="-1" aria-hidden="true"><Photo cover id={x.id} src={x.d.hero?.src} lang={lang} size={i === 0 ? 'lg' : 'sm'} /></a>}
+          <article class={i === 0 ? 'g-c g-s2 g-r2' : 'g-c'}>
+            {<a href={x.href} class={i === 0 ? 'g-im g-im-big' : 'g-im'} tabindex="-1" aria-hidden="true"><Photo cover id={x.id} src={x.d.hero?.src} lang={lang} size={i === 0 ? 'lg' : 'sm'} /></a>}
             <a href={x.href}><h3 class={i === 0 ? 'g-h28' : 'g-h17'}>{x.d.title}</h3></a>
             {i === 0 && <p class="sf">{x.d.standfirst}</p>}
           </article>
