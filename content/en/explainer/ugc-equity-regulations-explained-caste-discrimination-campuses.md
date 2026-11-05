@@ -82,10 +82,6 @@ They replaced the UGC's 2012 equity rules. They grew out of a public interest ca
 
 Through the centre works an **Equity Committee** chaired by the head of the institution, with seats for members of the Scheduled Castes, Scheduled Tribes, Other Backward Classes, persons with disabilities and women. Campuses must also run a 24-hour Equity Helpline, name Equity Ambassadors in departments and hostels, and deploy mobile Equity Squads to keep watch on places where students are vulnerable.
 
-```photo
-{"n":1,"subject":"Rohith Vemula","caption":"Rohith Vemula, whose mother Radhika Vemula is one of the two petitioners in the 2019 case from which the regulations grew.","alt":"Rohith Vemula (file photo)"}
-```
-
 ## How is a complaint handled?
 
 **On a tight clock.** A complaint can be made online, in writing, by email or through the helpline, and the complainant's identity can be kept confidential. The Equity Committee must **meet within 24 hours** of a report and give its findings within 15 working days. The head of the institution then has seven working days to act. Cases that look criminal go straight to the police.
