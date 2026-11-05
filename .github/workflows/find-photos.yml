@@ -5,14 +5,22 @@ on:
   workflow_dispatch:
     inputs:
       part:
-        description: 'Optional part name: reads scripts/photo-queries-PART.json, pushes photo-candidates-PART'
+        description: 'Part name: pushes photo-candidates-PART (and reads scripts/photo-queries-PART.json when no queries are given)'
+        required: false
+        default: ''
+      queries:
+        description: 'The queries as JSON ({"key": "search||N"}); when given, nothing needs to be on main'
         required: false
         default: ''
 permissions:
   contents: write
+concurrency:
+  group: find-photos-${{ inputs.part }}
+  cancel-in-progress: false
 jobs:
   find:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -20,7 +28,15 @@ jobs:
           node-version: 22
       # A run can trigger this a moment before its query file reaches main: wait for it (up to 3 minutes)
       # instead of failing, using the newest main each time.
+      - name: Queries from the dispatch input
+        if: inputs.queries != ''
+        env:
+          Q: ${{ inputs.queries }}
+        run: |
+          F=scripts/photo-queries${{ inputs.part && format('-{0}', inputs.part) || '' }}.json
+          printf '%s' "$Q" > "$F" && jq -e 'type == "object" and length > 0' "$F" > /dev/null || { echo "::error::queries input is not a JSON object"; exit 1; }
       - name: Wait for the query file
+        if: inputs.queries == ''
         run: |
           F=scripts/photo-queries${{ inputs.part && format('-{0}', inputs.part) || '' }}.json
           for i in $(seq 1 12); do
@@ -30,7 +46,7 @@ jobs:
           done
           echo "::warning::$F never arrived on main; nothing to search"
           echo "SKIP=1" >> "$GITHUB_ENV"
-      - run: node scripts/find-photo-candidates.mjs
+      - run: node scripts/find-photo-candidates.mjs && node scripts/summarize-candidates.mjs
         if: env.SKIP != '1'
         env:
           PART: ${{ inputs.part }}

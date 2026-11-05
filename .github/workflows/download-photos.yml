@@ -1,33 +1,74 @@
-# Downloads each photo in content/photos.json (1280px rendition) with curl and pushes
-# them to the photo-raw branch. Resizing and the photo map are done in the repo afterwards.
+# Downloads photos (1280px renditions) and pushes them to a photo-raw branch for the run to resize and register.
+# Runs pass exactly what to fetch: -f part=<tag> -f entries='[{"id":"...","url":"..."}]'. Nothing needs to be on main.
+# Without entries it falls back to the old behaviour: every content/photos.json entry not yet in public/photos.
 name: Download photos
-on: workflow_dispatch
+on:
+  workflow_dispatch:
+    inputs:
+      part:
+        description: 'Run tag; results go to the photo-raw-PART branch (photo-raw when empty)'
+        required: false
+        default: ''
+      entries:
+        description: 'JSON array of {"id","url"} to download'
+        required: false
+        default: ''
 permissions:
   contents: write
+concurrency:
+  group: download-photos-${{ inputs.part }}
+  cancel-in-progress: false
 jobs:
   download:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
-      # Use the newest main: a run may trigger this a moment before its photos.json commit lands.
-      - run: sleep 20 && git fetch -q origin main && git checkout -q origin/main -- content/photos.json public/photos 2>/dev/null || true
-      - run: |
+        with:
+          sparse-checkout: |
+            content/photos.json
+          sparse-checkout-cone-mode: false
+      - name: List what to fetch
+        env:
+          E: ${{ inputs.entries }}
+        run: |
           mkdir -p raw
-          # Composite main entries (x-*) are built from their cx-* parts, so they are never downloaded.
-          jq -r '.[] | select(.composite == null) | "\(.id)\t\(.sourceUrl)"' content/photos.json | sort -u | while IFS=$'\t' read -r id url; do
-            [ -f "raw/$id.jpg" ] && continue
-            # composite parts are re-fetched only if the composite picture is missing
-            case "$id" in cx-*) ls public/photos/v-* >/dev/null 2>&1 && [ -n "$(grep -l "\"$id\"" content/photos.json)" ] && [ -f "public/photos/v-$(jq -r --arg i "$id" '.[]|select(.composite and (.composite|index($i)))|.articleId[0:60]' content/photos.json)-1280.jpg" ] && continue;; esac
-            # Already processed into the site: skip, so each run only fetches new photos.
-            [ -f "public/photos/$id-1280.jpg" ] && continue
-            case "$id" in pt-*) [ -f "public/portraits/${id#pt-}.jpg" ] && continue;; esac
-            code=$(curl -s -L --retry 3 --retry-delay 5 -A 'GandhiNewsPhotoFetcher/1.0 (https://github.com/puneetspanesar/gandhinews; puneet.panesar24@gmail.com)' -o "raw/$id.jpg" -w '%{http_code}' "$url")
+          if [ -n "$E" ]; then
+            printf '%s' "$E" | jq -er '.[] | "\(.id)\t\(.url)"' > want.tsv || { echo "::error::entries input is not a JSON array of {id,url}"; exit 1; }
+            echo "EXPLICIT=1" >> "$GITHUB_ENV"
+          else
+            git fetch -q --depth 1 origin main && git checkout -q origin/main -- content/photos.json
+            git ls-tree -r --name-only origin/main public/photos | sed 's#public/photos/##' > have.txt || true
+            jq -r '.[] | select(.composite == null) | "\(.id)\t\(.sourceUrl)"' content/photos.json | sort -u | while IFS=$'\t' read -r id url; do
+              grep -q "^$id-1280.jpg$" have.txt && continue
+              case "$id" in cx-*|pt-*) continue;; esac
+              printf '%s\t%s\n' "$id" "$url"
+            done > want.tsv
+          fi
+          echo "$(wc -l < want.tsv) photos to fetch"
+      - name: Download
+        run: |
+          UA='GandhiNewsPhotoFetcher/1.1 (https://github.com/puneetspanesar/gandhinews)'
+          fails=0
+          while IFS=$'\t' read -r id url; do
+            code=$(curl -s -L --retry 4 --retry-delay 8 --retry-all-errors -A "$UA" -o "raw/$id.jpg" -w '%{http_code}' "$url")
             # A 1600px thumbnail fails when the original is smaller; fall back to the original file.
             if { [ "$code" != "200" ] || ! file -b --mime-type "raw/$id.jpg" | grep -q "^image/"; } && echo "$url" | grep -q '/thumb/'; then
-              orig=$(echo "$url" | sed -E 's#thumb\.wikimedia\.org#upload.wikimedia.org#; s#/thumb/#/#; s#/[0-9]+px-[^/]+$##')
-              code=$(curl -s -L --retry 3 --retry-delay 5 -A 'GandhiNewsPhotoFetcher/1.0 (https://github.com/puneetspanesar/gandhinews; puneet.panesar24@gmail.com)' -o "raw/$id.jpg" -w '%{http_code}' "$orig")
+              orig=$(echo "$url" | sed -E 's#/thumb/#/#; s#/[0-9]+px-[^/]+$##')
+              code=$(curl -s -L --retry 4 --retry-delay 8 --retry-all-errors -A "$UA" -o "raw/$id.jpg" -w '%{http_code}' "$orig")
             fi
-            echo "$code $id" | tee -a raw/log.txt
+            if [ "$code" != "200" ] || ! file -b --mime-type "raw/$id.jpg" | grep -q "^image/"; then
+              echo "FAILED $code $id" | tee -a raw/log.txt; rm -f "raw/$id.jpg"; fails=$((fails+1))
+            else
+              echo "200 $id" | tee -a raw/log.txt
+            fi
             sleep 1
-          done
-          cd raw && git init -q && git checkout -q -b photo-raw && git add . && git -c user.name=bot -c user.email=bot@x commit -qm raw && git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" photo-raw
+          done < want.tsv
+          echo "FAILS=$fails" >> "$GITHUB_ENV"
+      - name: Push the photo-raw branch
+        run: |
+          B=photo-raw${{ inputs.part && format('-{0}', inputs.part) || '' }}
+          cd raw && git init -q && git checkout -q -b "$B" && touch log.txt && git add . && git -c user.name=github-actions -c user.email=41898282+github-actions[bot]@users.noreply.github.com commit -qm raw && git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" "$B"
+      - name: Fail when a requested photo could not be fetched
+        if: env.EXPLICIT == '1' && env.FAILS != '0'
+        run: echo "::error::$FAILS requested photos failed (see log.txt on the branch)" && exit 1

@@ -34,7 +34,7 @@ for (const [key, raw] of Object.entries(queries)) {
     const ii = p.imageinfo?.[0]; if (!ii) continue;
     const m = ii.extmetadata || {};
     const lic = strip(m.LicenseShortName?.value);
-    if (!OK.test(lic) || /nc|nd/i.test(lic.replace(/and/i, ''))) continue;
+    if (!OK.test(lic) || /\b(nc|nd)\b/i.test(lic.replace(/godl-india/i, ''))) continue;
     if (!/image\/(jpeg|png)/.test(ii.mime) || Math.max(ii.width, ii.height) < 400) continue;
     const n = cands.length;
     const thumb = `${key}-${n}.jpg`;
