@@ -22,6 +22,7 @@ The site is Astro in the private repo puneetspanesar/gandhinews. Cloudflare Work
 ```
 [ -d /home/claude/gandhinews/.git ] || gh repo clone puneetspanesar/gandhinews /home/claude/gandhinews
 cd /home/claude/gandhinews && git pull -q && npm ci --silent
+git config user.name Claude && git config user.email noreply@anthropic.com   # every commit must show as Claude, never desk@
 mkdir -p /home/claude/gn-work && cp newsroom/briefs/*.md newsroom/scripts/*.py newsroom/scripts/blocklist.txt /home/claude/gn-work/
 [ -x /tmp/claude-0/cvenv/bin/python ] || (python3 -m venv /tmp/claude-0/cvenv && /tmp/claude-0/cvenv/bin/pip -q install "opencv-python-headless<5" pillow numpy pyyaml)
 : > /home/claude/gn-work/claims.txt

@@ -23,7 +23,7 @@ git fetch -q origin run-lock 2>/dev/null && git show origin/run-lock:lock.txt 2>
 ```
 If that prints a line `busy <ISO time> hourly` less than 50 minutes old, another hourly run is still working: check every 2 minutes for up to 10 minutes; if it is still busy, take the lock anyway (that run is overdue) and go on. A `longform` lock does NOT stop an hourly run: go on and take the lock (the long-form run re-takes it when it pushes; both runs merge on push conflicts as RUNBOOK.md says). An hourly run never skips its hour because of the lock. Take the lock:
 ```
-lock() { d=$(mktemp -d); git -C "$d" init -q; printf '%s\n' "$1" > "$d/lock.txt"; git -C "$d" add lock.txt; git -C "$d" -c user.name=desk -c user.email=desk@gandhinews.com commit -qm lock; git -C "$d" push -qf "$(git remote get-url origin)" HEAD:refs/heads/run-lock; rm -rf "$d"; }
+lock() { d=$(mktemp -d); git -C "$d" init -q; printf '%s\n' "$1" > "$d/lock.txt"; git -C "$d" add lock.txt; git -C "$d" -c user.name=Claude -c user.email=noreply@anthropic.com commit -qm lock; git -C "$d" push -qf "$(git remote get-url origin)" HEAD:refs/heads/run-lock; rm -rf "$d"; }
 lock "busy $(TZ=Asia/Kolkata date -Iseconds) hourly"
 ```
 Release it at the very end, also when the run fails part-way: `lock "free"`.
