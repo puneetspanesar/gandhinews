@@ -22,11 +22,11 @@
       "andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula"
     ],
     "relatedBeside": [
+      "bharti-airtel-q2-profit-31-per-cent-8888-crore-arpu-271",
       "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
       "sensex-nifty-close-november-5-rally",
       "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
-      "siraj-to-join-india-odi-squad-wellington-missed-auckland",
-      "us-midterms-schumer-lower-costs-with-or-without-trump"
+      "us-midterms-alaska-sullivan-peltola-too-close-to-call"
     ],
     "live": {
       "title": {
@@ -37,6 +37,17 @@
   },
   "briefing": {
     "items": [
+      {
+        "link": "bharti-airtel-q2-profit-31-per-cent-8888-crore-arpu-271",
+        "lead": {
+          "en": "Companies:",
+          "hi": "कंपनियां:"
+        },
+        "text": {
+          "en": "Bharti Airtel profit rises 31% to ₹8,888 crore as ARPU climbs to ₹271",
+          "hi": "भारती एयरटेल का मुनाफा 31% बढ़कर ₹8,888 करोड़, ARPU ₹271 पर पहुंचा"
+        }
+      },
       {
         "link": "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
         "lead": {
@@ -67,29 +78,18 @@
         },
         "text": {
           "en": "Supreme Court refuses to move Tirupati laddu ghee trial out of Andhra Pradesh",
-          "hi": "तिरुपति लड्डू घी मामले का मुकदमा आंध्र से बाहर ले जाने से सुप्रीम कोर्ट का इनकार"
+          "hi": "तिरुपति लड्डू घी मामले का मुकदमा आंध्र से बाहर नहीं जाएगा, सुप्रीम कोर्ट ने याचिका खारिज की"
         }
       },
       {
-        "link": "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears",
+        "link": "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action",
         "lead": {
-          "en": "Punjab:",
-          "hi": "पंजाब:"
+          "en": "Karnataka:",
+          "hi": "कर्नाटक:"
         },
         "text": {
-          "en": "Supreme Court halts criminal contempt case against Punjab Chief Secretary over DA arrears",
-          "hi": "डीए बकाया मामले में पंजाब के मुख्य सचिव के खिलाफ आपराधिक अवमानना पर सुप्रीम कोर्ट की रोक"
-        }
-      },
-      {
-        "link": "ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent",
-        "lead": {
-          "en": "Andhra Pradesh:",
-          "hi": "आंध्र प्रदेश:"
-        },
-        "text": {
-          "en": "YSRCP alleges agents blocked and voters stopped in Pulivendula as Palnadu logs 12% by 9 am",
-          "hi": "वाईएसआरसीपी का आरोप, पुलिवेंदुला में एजेंट रोके गए और मतदाता लौटाए गए; पलनाडु में 9 बजे तक 12% मतदान"
+          "en": "Priyank Kharge warns Vijayendra and Narayanaswamy of legal action over remarks on Congress workers",
+          "hi": "प्रियांक खड़गे की विजयेंद्र और नारायणस्वामी को चेतावनी, कांग्रेस कार्यकर्ताओं पर टिप्पणी जारी रही तो कानूनी कार्रवाई"
         }
       },
       {
@@ -194,16 +194,13 @@
       "also": []
     },
     "list": [
-      "mahindra-q2-profit-rises-13-per-cent-revenue-27-suv",
-      "naveen-patnaik-writes-majhi-kotia-andhra-elections",
       "alcaraz-beats-michelsen-fils-machac-paris-masters-last-16",
-      "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears",
-      "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action"
-    ],
-    "also": [
+      "naveen-patnaik-writes-majhi-kotia-andhra-elections",
       "cabinet-fast-track-special-courts-2031-850-courts",
+      "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action",
       "hijikata-stuns-djokovic-paris-masters-turin-hopes-end"
-    ]
+    ],
+    "also": []
   },
   "startHere": [
     "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
@@ -378,15 +375,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
         "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears",
-        "supreme-court-sends-azam-khan-ed-arrest-plea-allahabad-hc-november-16",
-        "supreme-court-24-hour-production-runs-from-detention-not-arrest"
+        "supreme-court-sends-azam-khan-ed-arrest-plea-allahabad-hc-november-16"
       ],
       "lead": "supreme-court-ugc-equity-regulations-centre-mulls-review-panel"
     },
     {
       "section": "economy",
-      "lead": "sensex-nifty-close-november-5-rally",
+      "lead": "bharti-airtel-q2-profit-31-per-cent-8888-crore-arpu-271",
       "module": {
         "type": "markets",
         "indicators": [
@@ -397,10 +394,10 @@
         ]
       },
       "list": [
+        "sensex-nifty-close-november-5-rally",
         "irb-infrastructure-q2-profit-rises-85-per-cent-260-crore",
         "sensex-nifty-afternoon-rally-november-5",
-        "mahindra-q2-profit-rises-13-per-cent-revenue-27-suv",
-        "rupee-opens-29-paise-94-35-fifth-gain-brent-93"
+        "mahindra-q2-profit-rises-13-per-cent-revenue-27-suv"
       ]
     },
     {
