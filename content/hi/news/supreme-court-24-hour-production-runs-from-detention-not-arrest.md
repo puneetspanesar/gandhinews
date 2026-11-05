@@ -18,7 +18,7 @@ hero:
   need: "जस्टिस उज्ज्वल भुइयां, जो जस्टिस अतुल एस चंदुरकर के साथ पीठ में थे"
   suggested_source: "Ujjal Bhuyan"
   subjects: ["Ujjal Bhuyan", "Supreme Court of India"]
-  alt: "सुप्रीम कोर्ट के न्यायाधीश जस्टिस उज्ज्वल भुइयां"
+  alt: "सुप्रीम कोर्ट, नई दिल्ली"
   overlay:
     value: "घड़ी हिरासत से चलती है"
 infographic:

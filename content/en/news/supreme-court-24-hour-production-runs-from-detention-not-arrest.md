@@ -17,7 +17,7 @@ hero:
   need: "Justice Ujjal Bhuyan, who sat on the bench with Justice Atul S Chandurkar"
   suggested_source: "Ujjal Bhuyan"
   subjects: ["Ujjal Bhuyan", "Supreme Court of India"]
-  alt: "Supreme Court judge Justice Ujjal Bhuyan"
+  alt: "The Supreme Court of India, New Delhi"
   overlay:
     value: "The clock starts at detention"
 infographic:
