@@ -73,10 +73,6 @@ The benchmark had touched an intraday high of 79,378.05 earlier in the session, 
 
 Two things overseas set the tone. The Democrats' win in the US midterm elections lifted hopes of an earlier end to the West Asia conflict, and crude oil fell sharply. "Brent has fallen almost 10 per cent to around USD 94.50," said Hariselvan Radhakrishnan, founder and CEO of HST Wealth. Brent was trading near $94 a barrel in the afternoon, **its lowest level since late August**.
 
-```photo
-{"n":1,"subject":"IndiGo Airbus A320neo","caption":"An IndiGo aircraft. The airline's shares were among the biggest Sensex gainers as crude fell.","alt":"An IndiGo Airbus A320neo aircraft"}
-```
-
 ## Crude-sensitive stocks lead
 
 Companies that gain most from cheaper oil led the charge. **InterGlobe Aviation, which runs IndiGo**, was among the top Sensex gainers, along with Asian Paints, Bajaj Finance, Maruti, Mahindra and Mahindra, and UltraTech Cement. Tyre makers and paint companies rose up to 4%. Oil marketing companies BPCL, HPCL and Indian Oil also traded higher, while upstream producers ONGC and Oil India slipped, since a lower crude price cuts what they earn.
@@ -94,9 +90,5 @@ Gains were broad. Cement, realty, financial services, private banks and IT were 
 Foreign investors have been buying again. They bought shares worth a net ₹7,284 crore on Wednesday, according to provisional exchange data, and **about ₹17,235 crore over three November sessions**. Domestic institutions sold for a fourth straight day, offloading ₹3,712 crore.
 
 "The sharp advance reflects improving global risk sentiment, supported by lower crude prices and renewed institutional buying," said Ponmudi R, CEO of Enrich Money.
-
-```photo
-{"n":2,"subject":"Phiroze Jeejeebhoy Towers","caption":"The BSE building on Dalal Street, where the Sensex is headed for a sixth straight gain.","alt":"Phiroze Jeejeebhoy Towers, home of the BSE, in Mumbai"}
-```
 
 Analysts had flagged 24,000, near the Nifty's 200-day average, as the level to hold. With the index now well above it, traders will watch whether the gains survive the last hour of trade before the 3.30 pm close.

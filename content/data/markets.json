@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-05T10:10:00+05:30",
+  "as_of": "2026-11-05T13:30:00+05:30",
   "status": "open",
   "session_date": "2026-11-05",
   "chart": "nifty-50",
@@ -8,9 +8,9 @@
       "id": "sensex",
       "name": "Sensex",
       "name_hi": "सेंसेक्स",
-      "value": 78854.23,
-      "change": 1552.83,
-      "pct": 2.01,
+      "value": 79156.24,
+      "change": 1854.94,
+      "pct": 2.4,
       "history": [
         {
           "date": "2026-09-30",
@@ -97,15 +97,15 @@
           "close": 77301.4
         }
       ],
-      "source": "https://www.business-standard.com/markets/news/stock-market-live-november-5-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-126110500085_1.html"
+      "source": "https://www.etvbharat.com/en/business/stock-market-on-november-5-2026-bse-sensex-nse-nifty-crude-oil-price-fii-enn26110501035"
     },
     {
       "id": "nifty-50",
       "name": "Nifty 50",
       "name_hi": "निफ्टी 50",
-      "value": 24388.4,
-      "change": 427.8,
-      "pct": 1.79,
+      "value": 24489.3,
+      "change": 528.7,
+      "pct": 2.21,
       "history": [
         {
           "date": "2026-09-30",
@@ -196,7 +196,7 @@
           "close": 23960.6
         }
       ],
-      "source": "https://www.business-standard.com/markets/news/stock-market-live-november-5-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-126110500085_1.html"
+      "source": "https://www.etvbharat.com/en/business/stock-market-on-november-5-2026-bse-sensex-nse-nifty-crude-oil-price-fii-enn26110501035"
     },
     {
       "id": "nifty-bank",
@@ -422,6 +422,7 @@
     "5 Nov 09:10 IST (hourly 09:00): Sensex 78,925 (+1,623, 2.10%), Nifty 50 24,378 (+417, 1.74%) and rupee 94.36 (from 94.65) are pre-open readings from the Business Standard live blog; 9:15 open not yet read. Brent below $100 per the same blog but no level, so the Brent tile keeps its 4 Nov reading. Other values unchanged.",
     "5 Nov 12:20 IST (hourly 12:00): no midday index, rupee or Brent figure dated after 10:10 IST found in a source read this run; values kept from the 10:00 to 10:10 IST reads.",
     "5 Nov 13:20 IST (hourly 13:00): no index, rupee, Brent or gold figure dated after 10:10 IST found in a source read this run (Business Standard and ETV Bharat fetches refused); values kept from the 10:00 to 10:10 IST reads.",
-    "5 Nov 14:30 IST (hourly 14:00): no index, rupee, Brent or gold figure dated after 10:10 IST found in a source read this run (Business Standard fetch not answered; search returned only older pages); values kept from the 10:00 to 10:10 IST reads."
+    "5 Nov 14:30 IST (hourly 14:00): no index, rupee, Brent or gold figure dated after 10:10 IST found in a source read this run (Business Standard fetch not answered; search returned only older pages); values kept from the 10:00 to 10:10 IST reads.",
+    "5 Nov 15:20 IST (hourly 15:00): Sensex 79,156.24 (+1,854.94) and Nifty 50 24,489.30 (+528.70) from ETV Bharat/PTI page last updated 13:30 IST (pct worked out against the Nov 4 close). Other indices, rupee, Brent and gold kept from the 10:00 to 10:10 IST reads (no newer dated figure found). Close not yet read."
   ]
 }

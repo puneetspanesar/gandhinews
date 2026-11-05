@@ -29287,5 +29287,87 @@
   "alt": "The Punjab and Haryana High Court in Chandigarh's Capitol Complex, which had started the contempt case (file photo)",
   "alt_hi": "चंडीगढ़ के कैपिटल कॉम्प्लेक्स में पंजाब और हरियाणा हाई कोर्ट, जिसने अवमानना का मामला शुरू किया था (फ़ाइल फ़ोटो)",
   "page": null
+ },
+ "sensex-nifty-afternoon-rally-november-5": {
+  "id": "i-sensex-nifty-afternoon-rally-november-5",
+  "src": "/photos/i-sensex-nifty-afternoon-rally-november-5-en-3x2-1280.jpg",
+  "src800": "/photos/i-sensex-nifty-afternoon-rally-november-5-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Sensex adds 1,855 points as crude slides",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: कच्चा तेल फिसला, सेंसेक्स 1,855 अंक चढ़ा",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-sensex-nifty-afternoon-rally-november-5-hi-3x2-1280.jpg",
+    "src800": "/photos/i-sensex-nifty-afternoon-rally-november-5-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-sensex-nifty-afternoon-rally-november-5-en-t-1280.jpg",
+    "src800": "/photos/i-sensex-nifty-afternoon-rally-november-5-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-sensex-nifty-afternoon-rally-november-5-hi-t-1280.jpg",
+    "src800": "/photos/i-sensex-nifty-afternoon-rally-november-5-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-sensex-nifty-afternoon-rally-november-5-en-1280.jpg",
+    "src800": "/photos/i-sensex-nifty-afternoon-rally-november-5-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-sensex-nifty-afternoon-rally-november-5-hi-1280.jpg",
+    "src800": "/photos/i-sensex-nifty-afternoon-rally-november-5-hi-640.jpg"
+   }
+  }
+ },
+ "andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri": {
+  "id": "i-andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri",
+  "src": "/photos/i-andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri-en-3x2-1280.jpg",
+  "src800": "/photos/i-andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: SEC upbeat as booth clashes and boycotts spread",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: आयोग आश्वस्त, पर बूथों पर झड़प और बहिष्कार",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri-hi-3x2-1280.jpg",
+    "src800": "/photos/i-andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri-en-t-1280.jpg",
+    "src800": "/photos/i-andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri-hi-t-1280.jpg",
+    "src800": "/photos/i-andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri-en-1280.jpg",
+    "src800": "/photos/i-andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri-hi-1280.jpg",
+    "src800": "/photos/i-andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri-hi-640.jpg"
+   }
+  }
  }
 }

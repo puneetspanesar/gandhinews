@@ -56,10 +56,6 @@ Polling in Andhra Pradesh's mandal and zilla parishad elections was **proceeding
 
 Mr Punetha said **all necessary arrangements had been made** to prevent untoward incidents and appealed to eligible voters to turn out in large numbers before polling closes at 5 pm.
 
-```photo
-{"n":1,"subject":"Polling station Andhra Pradesh","caption":"A polling station in Andhra Pradesh, where 2.61 crore voters are choosing MPTC and ZPTC members.","alt":"Voters at a polling station in Andhra Pradesh"}
-```
-
 ## Clashes and boycotts
 
 The worst trouble came from Marutla in Anantapur district, where **YSRCP and TDP cadres clashed inside a booth** and ballot boxes were thrown to the ground. In Kalasapadu in Kadapa, the YSRCP accused a woman TDP leader of trying to rig votes at the ZP Boys High School; Mydukur DSP Rajendra Prasad reached the village with a police team and brought the situation under control.
@@ -67,10 +63,6 @@ The worst trouble came from Marutla in Anantapur district, where **YSRCP and TDP
 In Prakasam district, disputes broke out in Darsi, Chimakurthy, Tangutur and Tallur mandals. Villagers in Gonugunta **announced a boycott**, alleging YSRCP agents had been detained the previous night, and YSRCP leaders and booth agents walked out in Konijedu, where the party alleged about 150 bouncers had been brought from Ongole to keep its supporters away.
 
 In Chandragiri, TDP leader Pulivarthi Sudha Reddy said she **would shadow Chevireddy Bhaskar Reddy** wherever he went and urged the police to restrain the former YSRCP MLA. In Nandalur, district SP Nachiketh Vishwanath promised action against a constable accused of snatching a camera.
-
-```photo
-{"n":2,"subject":"Anantapur","caption":"Anantapur district, where a booth clash in Marutla saw ballot boxes thrown down.","alt":"Anantapur, Andhra Pradesh"}
-```
 
 Byreddy Siddharth Reddy, the YSRCP youth wing president, questioned the legal basis for arresting the party's booth agents in Nandikotkur.
 
