@@ -29116,5 +29116,58 @@
     "src800": "/photos/i-fast-track-special-courts-explained-rape-pocso-backlog-hi-640.jpg"
    }
   }
+ },
+ "andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula": {
+  "id": "i-andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula",
+  "src": "/photos/i-andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula-en-3x2-1280.jpg",
+  "src800": "/photos/i-andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Turnout at 11.71% by 10 am",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: सुबह 10 बजे तक 11.71% मतदान",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula-hi-3x2-1280.jpg",
+    "src800": "/photos/i-andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula-en-t-1280.jpg",
+    "src800": "/photos/i-andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula-hi-t-1280.jpg",
+    "src800": "/photos/i-andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula-en-1280.jpg",
+    "src800": "/photos/i-andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula-hi-1280.jpg",
+    "src800": "/photos/i-andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula-hi-640.jpg"
+   }
+  }
+ },
+ "supreme-court-24-hour-production-runs-from-detention-not-arrest": {
+  "id": "v-supreme-court-24-hour-production-runs-from-detention-not-arr",
+  "src": "/photos/v-supreme-court-24-hour-production-runs-from-detention-not-arr-1280.jpg",
+  "src800": "/photos/v-supreme-court-24-hour-production-runs-from-detention-not-arr-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Pinakpani / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Supreme Court judge Justice Ujjal Bhuyan (file photo)",
+  "alt_hi": "सुप्रीम कोर्ट के न्यायाधीश जस्टिस उज्ज्वल भुइयां (फ़ाइल फ़ोटो)",
+  "page": null
  }
 }

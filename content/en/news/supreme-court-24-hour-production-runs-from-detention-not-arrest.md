@@ -2,8 +2,8 @@
 id: supreme-court-24-hour-production-runs-from-detention-not-arrest
 lang: en
 type: news
-section: india
-format_label: "India / Courts"
+section: politics
+format_label: "Politics / Courts"
 topics: [supreme-court]
 title: "Supreme Court: 24-hour clock to produce an accused before a magistrate starts at detention, not formal arrest"
 standfirst: "Ruling on four men held in a Tripura drugs case, the court said police cannot delay the constitutional deadline by recording the arrest hours after they first take someone into custody."

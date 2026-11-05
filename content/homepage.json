@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead",
+    "id": "andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula",
     "overlay": {
       "kicker": {
-        "en": "Andhra Pradesh",
-        "hi": "आंध्र प्रदेश"
+        "en": "States / Andhra Pradesh",
+        "hi": "राज्य / आंध्र प्रदेश"
       },
       "value": {
-        "en": "4.8% by 9 am",
-        "hi": "सुबह 9 बजे तक 4.8%"
+        "en": "11.71% by 10 am, trouble in Pulivendula",
+        "hi": "10 बजे तक 11.71%, पुलिवेंदुला में तनाव"
       },
       "text": {
         "en": "",
@@ -18,14 +18,16 @@
     "dataBox": [],
     "relatedBelow": [
       "ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent",
-      "andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6"
+      "andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead",
+      "andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6",
+      "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc"
     ],
     "relatedBeside": [
+      "supreme-court-24-hour-production-runs-from-detention-not-arrest",
       "sensex-1553-points-bse-market-cap-500-lakh-crore-10am",
       "india-japan-asian-champions-trophy-final-mohali-preview",
-      "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action",
       "us-midterms-schumer-lower-costs-with-or-without-trump",
-      "cabinet-fast-track-special-courts-2031-850-courts"
+      "naveen-patnaik-writes-majhi-kotia-andhra-elections"
     ],
     "live": {
       "title": {
@@ -37,14 +39,25 @@
   "briefing": {
     "items": [
       {
-        "link": "andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead",
+        "link": "supreme-court-24-hour-production-runs-from-detention-not-arrest",
         "lead": {
-          "en": "Andhra Pradesh:",
-          "hi": "आंध्र प्रदेश:"
+          "en": "Courts:",
+          "hi": "अदालत:"
         },
         "text": {
-          "en": "Andhra parishad polls: 4.8% statewide by 9 am, NTR and Krishna cross 14% as queues build",
-          "hi": "आंध्र परिषद चुनाव: सुबह 9 बजे तक राज्य में 4.8% मतदान, एनटीआर और कृष्णा 14% के पार"
+          "en": "Supreme Court: 24-hour clock to produce an accused before a magistrate starts at detention, not formal arrest",
+          "hi": "सुप्रीम कोर्ट: आरोपी को मजिस्ट्रेट के सामने पेश करने की 24 घंटे की मियाद हिरासत से शुरू, औपचारिक गिरफ्तारी से नहीं"
+        }
+      },
+      {
+        "link": "rupee-opens-29-paise-94-35-fifth-gain-brent-93",
+        "lead": {
+          "en": "Rupee:",
+          "hi": "रुपया:"
+        },
+        "text": {
+          "en": "Rupee opens 29 paise stronger at 94.35 as Brent slips to $93",
+          "hi": "रुपया 29 पैसे मज़बूत होकर 94.35 पर खुला, ब्रेंट 93 डॉलर पर"
         }
       },
       {
@@ -59,6 +72,17 @@
         }
       },
       {
+        "link": "ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent",
+        "lead": {
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
+        },
+        "text": {
+          "en": "YSRCP alleges agents blocked and voters stopped in Pulivendula as Palnadu logs 12% by 9 am",
+          "hi": "वाईएसआरसीपी का आरोप, पुलिवेंदुला में एजेंट रोके गए और मतदाता लौटाए गए; पलनाडु में 9 बजे तक 12% मतदान"
+        }
+      },
+      {
         "link": "india-japan-asian-champions-trophy-final-mohali-preview",
         "lead": {
           "en": "Hockey:",
@@ -67,17 +91,6 @@
         "text": {
           "en": "India chase sixth Asian Champions Trophy title against Japan in Mohali final tonight",
           "hi": "एशियन चैंपियंस ट्रॉफी: छठे खिताब के लिए आज रात मोहाली में जापान से भिड़ेगा भारत"
-        }
-      },
-      {
-        "link": "us-midterms-alaska-sullivan-peltola-too-close-to-call",
-        "lead": {
-          "en": "Alaska:",
-          "hi": "अलास्का:"
-        },
-        "text": {
-          "en": "Sullivan edges ahead of Peltola as Senate race stays too close to call",
-          "hi": "सुलिवन पेल्टोला से थोड़ा आगे, सीनेट मुकाबला अब भी बेहद करीबी"
         }
       },
       {
@@ -111,17 +124,6 @@
         "text": {
           "en": "Priyank Kharge warns Vijayendra and Narayanaswamy of legal action over remarks on Congress workers",
           "hi": "प्रियांक खड़गे की विजयेंद्र और नारायणस्वामी को चेतावनी, कांग्रेस कार्यकर्ताओं पर टिप्पणी जारी रही तो कानूनी कार्रवाई"
-        }
-      },
-      {
-        "link": "cabinet-fast-track-special-courts-2031-850-courts",
-        "lead": {
-          "en": "Courts:",
-          "hi": "अदालतें:"
-        },
-        "text": {
-          "en": "Fast-track courts for rape and POCSO trials extended till 2031, to grow to 850",
-          "hi": "दुष्कर्म और पॉक्सो की फास्ट ट्रैक अदालतें 2031 तक, संख्या 850 होगी"
         }
       }
     ]
@@ -192,7 +194,13 @@
       "id": "alcaraz-beats-michelsen-fils-machac-paris-masters-last-16",
       "also": []
     },
-    "list": [],
+    "list": [
+      "cabinet-fast-track-special-courts-2031-850-courts",
+      "cabinet-energy-storage-vgf-14500-crore-critical-minerals-2814",
+      "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action",
+      "modi-meet-asian-para-games-contingent-thursday",
+      "jairam-ramesh-vb-g-ram-g-grievance-rules-jumla"
+    ],
     "also": []
   },
   "startHere": [
@@ -368,11 +376,11 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action",
         "cabinet-fast-track-special-courts-2031-850-courts",
-        "jairam-ramesh-vb-g-ram-g-grievance-rules-jumla",
-        "nadda-bhopal-loktantra-bachao-march-emergency-rahul"
+        "jairam-ramesh-vb-g-ram-g-grievance-rules-jumla"
       ],
-      "lead": "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action"
+      "lead": "supreme-court-24-hour-production-runs-from-detention-not-arrest"
     },
     {
       "section": "economy",
@@ -395,11 +403,11 @@
     },
     {
       "section": "states",
-      "lead": "andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead",
+      "lead": "andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula",
       "list": [
+        "andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead",
         "ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent",
-        "andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6",
-        "andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous"
+        "andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6"
       ]
     },
     {

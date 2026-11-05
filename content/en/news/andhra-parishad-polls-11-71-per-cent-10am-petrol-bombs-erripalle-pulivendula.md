@@ -23,7 +23,7 @@ hero:
 infographic:
   kicker: "Andhra parishad polls"
   headline: "Turnout at 11.71% by 10 am"
-  dek: "Chittoor leads, Bapatla trails; petrol bombs near an Erripalle booth"
+  dek: "Chittoor leads, Bapatla trails; petrol bombs alleged near an Erripalle booth"
   motif: percent
   stats:
     - {icon: percent, value: "11.71%", label: "statewide turnout by 10 am"}
@@ -72,9 +72,6 @@ In Erripalle, in Pulivendula, **petrol bombs were allegedly hurled near a pollin
 
 Pulivendula is the home turf of former chief minister Y.S. Jagan Mohan Reddy, and the YSRCP had already accused TDP workers and the police in the first hours of polling of keeping its agents out of booths there.
 
-```photo
-{"n":1,"subject":"Gurazala","caption":"Gurajala in Palnadu district, where YSRCP activists clashed with police over polling agents on Thursday.","alt":"Gurajala town in Palnadu district, Andhra Pradesh"}
-```
 
 In Gurajala, **YSRCP activists clashed with police**, saying their authorised polling agents were being turned away. Police told them agents could not enter in groups and warned the protesters that they would be arrested for breaking election rules.
 

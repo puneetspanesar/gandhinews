@@ -3,8 +3,8 @@ id: supreme-court-24-hour-production-runs-from-detention-not-arrest
 lang: hi
 translation_of: supreme-court-24-hour-production-runs-from-detention-not-arrest
 type: news
-section: india
-format_label: "देश / अदालत"
+section: politics
+format_label: "राजनीति / अदालत"
 topics: [supreme-court]
 title: "सुप्रीम कोर्ट: आरोपी को मजिस्ट्रेट के सामने पेश करने की 24 घंटे की मियाद हिरासत से शुरू, औपचारिक गिरफ्तारी से नहीं"
 standfirst: "त्रिपुरा के ड्रग्स मामले में पकड़े गए चार लोगों पर फैसला देते हुए अदालत ने कहा कि पुलिस हिरासत में लेने के घंटों बाद गिरफ्तारी दर्ज करके संवैधानिक समय-सीमा नहीं टाल सकती।"
