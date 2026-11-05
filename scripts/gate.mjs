@@ -20,6 +20,16 @@ const fm = (src) => {
   const get = (k) => (m?.[1].match(new RegExp(`^${k}:\\s*["']?(.*?)["']?\\s*$`, 'm')) ?? [])[1];
   return { id: get('id'), section: get('section'), type: get('type'), published: get('published'), title: get('title'), standfirst: get('standfirst'), body: src.slice(m ? m[0].length : 0) };
 };
+function readerText(src) {
+  const out = []; let skip = false;
+  for (const l of src.split('\n')) {
+    if (/^(sources|verification|seo|photo_notes):/.test(l)) { skip = true; continue; }
+    if (skip && (/^\s/.test(l) || l === '')) continue;
+    skip = false;
+    out.push(l.replace(/"subject"\s*:\s*"[^"]*"/g, '').replace(/^\s*(suggested_source|need|subjects):.*$/, ''));
+  }
+  return out.join('\n');
+}
 const MAP = JSON.parse(read('content/photos.map.json'));
 const urlOf = (d, lang) => routeFor({ ...d, lang }).slice(1) + 'index.html';
 const now = Date.now();
@@ -46,9 +56,12 @@ for (const type of ['news', 'explainer', 'editorial', 'factcheck']) {
       else for (const k of ['src', 'src800']) if (p[k] && !fs.existsSync(path.join('public', p[k]))) fail('picture file missing', `${id} ${p[k]}`);
     }
     const t = Date.parse(en.published);
-    if (t && now - t < 48 * 3600e3) for (const [lang, d] of [['en', en], ['hi', hi]]) {
-      const text = `${d.title}\n${d.standfirst}\n${d.body.replace(/^sources:[\s\S]*$/m, '')}`;
-      if (text.includes('—')) fail(`em dash in a new ${lang} story`, id);
+    if (t && now - t < 48 * 3600e3) for (const [lang, src] of [['en', read(`${dir}/${f}`)], ['hi', hiSrc]]) {
+      // everything a reader sees: front matter (title, standfirst, key points, overlay, cover, infographic) and body,
+      // minus the sources and verification blocks and photo-block subject keys
+      const text = readerText(src);
+      if (text.includes('\u2014')) fail(`em dash in a new ${lang} story`, id);
+      if (lang === 'en') { const m = text.match(/\b(\d{1,2}) (January|February|March|April|May|June|July|August|September|October|November|December)\b(?! (?:apply|be|have|not))/); if (m) fail(`day-month date "${m[0]}" in a new story (write "${m[2]} ${m[1]}"; newsroom/scripts/fix_dates.py fixes it)`, id); }
     }
   }
 }

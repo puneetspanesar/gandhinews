@@ -14,7 +14,7 @@ for (const p of list) if (!String(p.articleId).startsWith('portrait:') && !p.com
 // they were published at least 7 days apart, and never twice in the homepage's top slots at once.
 // (The map id check above stays strict: a reused source still gets its own new crop file.)
 const pubOf = {};
-for (const t of ['news', 'explainer', 'editorial']) for (const lang of ['en']) {
+for (const t of ['news', 'explainer', 'editorial', 'factcheck']) for (const lang of ['en']) {
   const dir = `content/${lang}/${t}`;
   if (!fs.existsSync(dir)) continue;
   for (const f of fs.readdirSync(dir)) {

@@ -128,7 +128,7 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
     <section class="w g-ct" aria-label={S.sports}>
       <h2><a href={`${p}/sports/`}>{S.sports}</a></h2>
       <div class="g-g">
-        {[dk.lead, ...dk.list].slice(0, 3).map((x0: any, i: number) => { const x = m.kk(x0); return <article class={i === 0 ? 'g-c g-s2' : 'g-c'}><a href={x.href} class={i === 0 ? 'g-im g-im-big' : 'g-im'} tabindex="-1" aria-hidden="true"><Photo cover id={x.id} src={x.d.hero?.src} lang={lang} size={i === 0 ? 'lg' : 'sm'} /></a><a href={x.href}><h3 class={i === 0 ? 'g-h26' : undefined}><span class="kk">{x.kk}</span> {x.d.title}</h3></a></article>; })}
+        {[dk.lead, ...dk.list].slice(0, 3).map((x0: any, i: number) => { const x = m.kk(x0); return <article class={i === 0 ? 'g-c g-s2' : 'g-c'}><a href={x.href} class={i === 0 ? 'g-im g-im-big' : 'g-im'} tabindex="-1" aria-hidden="true"><Photo cover id={x.id} src={x.d.hero?.src} lang={lang} size={i === 0 ? 'lg' : 'sm'} /></a><a href={x.href}><h3 class={i === 0 ? 'g-h26' : undefined}><span class="kk">{x.kk}</span> {x.d.title}</h3></a>{i > 0 && <p class="sf g-clamp">{x.d.standfirst}</p>}</article>; })}
       </div>
     </section>
   ))}

@@ -416,7 +416,7 @@ export async function homeModel(lang: Lang) {
 
   // ---- Fact check
   const fcAll = c.articles.filter((e: any) => e.data.type === 'factcheck');
-  const fcCards = HOME.factCheck.cards.map((id: string) => {
+  const fcCards = HOME.factCheck.cards.filter((id: string) => has(id) && c.all.get(id)?.data.factcheck).map((id: string) => {
     const x = card(id);
     const f = need(x.d.factcheck, `factcheck block for "${id}"`);
     const pubs: string[] = [];
@@ -433,8 +433,8 @@ export async function homeModel(lang: Lang) {
   const fcStats = { total: fcAll.length, counts };
 
   // ---- Explained, opinion
-  const explained = HOME.explained.map((x: any) => ({ ...card(x.id), topic: labelParts(get(x.id).data.format_label).slice(-1)[0], kn: x.kn.map((k: any) => ({ v: k.value[lang], l: k.label[lang] })) }));
-  const opinion = await Promise.all(HOME.opinion.map(async (id: string) => {
+  const explained = HOME.explained.filter((x: any) => has(x.id)).map((x: any) => ({ ...card(x.id), topic: labelParts(get(x.id).data.format_label).slice(-1)[0], kn: x.kn.map((k: any) => ({ v: k.value[lang], l: k.label[lang] })) }));
+  const opinion = await Promise.all(HOME.opinion.filter((id: string) => has(id)).map(async (id: string) => {
     const x = card(id);
     const tp = x.d.topics[0] ? (await topicLink(x.d.topics[0], lang)).label : '';
     return { ...x, topic: tp, icon: iconFor(x.d) };
@@ -442,10 +442,10 @@ export async function homeModel(lang: Lang) {
 
   // ---- Section blocks
   const sections = HOME.sections.map((s: any) => {
-    const ok = [s.lead, ...(s.list ?? [])].filter((x: string) => x && hasPic(x));
+    const ok = [s.lead, ...(s.list ?? [])].filter((x: string) => has(x) && hasPic(x));
     const out: any = { key: s.section, lead: ok[0] ? card(ok[0]) : null, list: ok.slice(1).map(card), module: null };
     const m = s.module;
-    if (m?.type === 'bypolls') {
+    if (m?.type === 'bypolls' && has(m.article)) {
       const art = get(m.article);
       const blk = String((art as any).body).match(/```chart\n([\s\S]*?)\n```/);
       const chart = JSON.parse(need(blk?.[1], `chart in "${m.article}"`));
@@ -524,7 +524,9 @@ export async function homeModel(lang: Lang) {
     const pool = [...new Set([s.lead, ...(s.list ?? []), ...deskFill(s.section)])].filter((x: string) => has(x) && hasPic(x) && !shownIds.has(x));
     const fresh = pool.filter((x) => ageH(x) <= 72), older = pool.filter((x) => ageH(x) > 72);
     const ok: string[] = []; const src = new Set(shownSrc);
-    for (const x of [...fresh, ...older]) { const p = (PHOTO_MAP as any)[x]?.alt; if (p && src.has(p)) continue; if (p) src.add(p); ok.push(x); if (ok.length >= 5) break; }
+    // Same alt text can mean the same photo reused: check:photos already keeps a source photo out of two stories within 7 days,
+    // so the alt test is only needed for older stories (two Kohli photos from this week share an alt but are different pictures).
+    for (const x of [...fresh, ...older]) { const p = (PHOTO_MAP as any)[x]?.alt; if (p && src.has(p) && ageH(x) > 168) continue; if (p) src.add(p); ok.push(x); if (ok.length >= 5) break; }
     return ok.length ? { key: s.section, lead: card(ok[0]), list: ok.slice(1).map(card) } : null;
   }).filter(Boolean);
 

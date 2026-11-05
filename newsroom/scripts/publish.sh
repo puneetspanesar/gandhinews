@@ -10,7 +10,7 @@ RUN=${1:?usage: publish.sh <run-name> "<summary>"}; SUM=${2:-}
 W=${GN_WORK:-/home/claude/gn-work/}
 [ -s "$W/commit.txt" ] || { echo "write $W/commit.txt first"; exit 1; }
 python3 newsroom/scripts/run_record.py write "$RUN" "$SUM" || exit 1
-git add -A content public/photos newsroom && git commit -q -F "$W/commit.txt" || echo "(nothing new to commit)"
+git add -A content public/photos newsroom scripts src && git commit -q -F "$W/commit.txt" || echo "(nothing new to commit)"
 bash newsroom/scripts/lock.sh wait "$RUN" 15 10; lk=$?
 [ $lk -eq 0 ] || echo "lock not free after 15 minutes (exit $lk): publishing anyway; the pull and merge below keep both runs' work"
 before=$(git rev-parse HEAD)
