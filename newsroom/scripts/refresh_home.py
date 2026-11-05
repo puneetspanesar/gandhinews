@@ -1,7 +1,8 @@
 """Refresh content/homepage.json from the newest published stories. Run EVERY hourly run, even with zero new stories.
 
 Usage (repo root):
-  python3 newsroom/scripts/refresh_home.py                 keep the current lead (warns if it is over 12 hours old)
+  python3 newsroom/scripts/refresh_home.py                 keep the current lead; if it is held, over 8 hours old or a markets story,
+                                                           the newest fresh non-markets news story with a real photo takes over
   python3 newsroom/scripts/refresh_home.py --lead <id>     make <id> the lead (overlay from its hero, data box cleared)
   python3 newsroom/scripts/refresh_home.py --pin <id> ...  put these ids first in the headlines (BIG STORIES)
 
@@ -13,7 +14,9 @@ What it does, mechanically, with the owner's balance rules:
 Then run check_fresh.py and the build as usual.
 """
 import json, glob, re, sys, argparse, datetime as dt
-import yaml
+import yaml, os
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from gnrules import MKT, words, stale_clock
 
 IST = dt.timezone(dt.timedelta(hours=5, minutes=30))
 now = dt.datetime.now(IST)
@@ -33,43 +36,61 @@ for lang in ('en', 'hi'):
             A.setdefault('_hi', {})[d['id']] = d
 HI = A.pop('_hi', {})
 ok = lambda i: i in A and i in PIC and i in HI
+def clocked(i):
+    for lang, d in (('en', A.get(i)), ('hi', HI.get(i))):
+        if not d: continue
+        when = d.get('updated') or d.get('published')
+        if not isinstance(when, dt.datetime): continue
+        when = when if when.tzinfo else when.replace(tzinfo=IST)
+        if any(stale_clock(str(d.get(f) or ''), lang, when, now) for f in ('title', 'standfirst')): return True
+    return False
 age = lambda i: (now - A[i]['_t']).total_seconds() / 3600
 newest = lambda pred: sorted([i for i in A if ok(i) and pred(A[i])], key=lambda i: A[i]['_t'], reverse=True)
-MKT = re.compile(r'(sensex|nifty|wall-street|dow-|nasdaq|ftse|kospi|nikkei|^oil-|^brent|markets?-|-shares-|stocks?-|-sales-\d)')
-STOP = {'supreme', 'minister', 'government', 'november', 'october', 'december', 'police', 'india', 'indian', 'explained', 'crore', 'says'}
-words = lambda i: {w for w in i.split('-') if len(w) >= 6 and w not in STOP}
 
 h = json.load(open('content/homepage.json'))
 L = h['lead']
+_pending_lead = False
 
 # ---- lead
 if a.lead:
     assert ok(a.lead), f'{a.lead}: not published, or no picture, or no Hindi twin'
     if a.lead != L['id']:
-        L['id'] = a.lead
-        ov = lambda d: ((d.get('hero') or {}).get('overlay') or {}).get('value', '')
-        L['overlay'] = {'kicker': {'en': A[a.lead].get('format_label', ''), 'hi': HI[a.lead].get('format_label', '')},
-                        'value': {'en': ov(A[a.lead]), 'hi': ov(HI[a.lead])}, 'text': {'en': '', 'hi': ''}}
-        L['dataBox'] = []
-        L['relatedBelow'] = []
+        assert not MKT.search(a.lead), f'{a.lead}: a markets story never leads'
+        L['id'] = a.lead; L['dataBox'] = []; L['relatedBelow'] = []
+        _pending_lead = True
+def set_lead(i):
+    ov = lambda d: ((d.get('hero') or {}).get('overlay') or {}).get('value', '')
+    L['id'] = i
+    L['overlay'] = {'kicker': {'en': A[i].get('format_label', ''), 'hi': HI[i].get('format_label', '')},
+                    'value': {'en': ov(A[i]), 'hi': ov(HI[i])}, 'text': {'en': '', 'hi': ''}}
+    L['dataBox'] = []; L['relatedBelow'] = []
+if _pending_lead: set_lead(a.lead)
 lead = L['id']
-if A[lead]['type'] == 'news' and age(lead) > 8:
-    print(f'WARNING: the lead is {age(lead):.0f} hours old (limit 8). Pick a newer lead with --lead <id> unless it still leads other front pages.')
+fresh_photo = lambda d: d['type'] == 'news' and (now - d['_t']).total_seconds() < 8 * 3600 and not MKT.search(d['id']) and not PIC[d['id']].get('graphic') and not clocked(d['id'])
+bad = (not ok(lead)) and 'held or unpublished' or (MKT.search(lead) and 'a markets story') or (clocked(lead) and 'pinned to a stale clock figure') or (A[lead]['type'] == 'news' and age(lead) > 8 and f'{age(lead):.0f} hours old')
+if bad and not a.lead:
+    # Owner's rule: the lead is under 8 hours old and never a markets story. Pick the replacement mechanically.
+    cand = newest(fresh_photo)
+    if cand:
+        print(f'lead {lead} replaced ({bad}) by {cand[0]}'); set_lead(cand[0]); lead = cand[0]
+    else:
+        print(f'WARNING: the lead {lead} is {bad} and no fresh non-markets story with a real photo exists; publish one and re-run.')
+        if not ok(lead): sys.exit(3)
 
 # ---- live band: still-fresh items, topped up with the newest stories sharing a topic or subject words with the lead
 lt, lw = set(A[lead].get('topics') or []), words(lead)
-rel = [i for i in (L.get('relatedBelow') or []) if ok(i) and not MKT.search(i) and (A[i]['type'] != 'news' or age(i) <= 24)]
+rel = [i for i in (L.get('relatedBelow') or []) if ok(i) and not MKT.search(i) and not clocked(i) and (A[i]['type'] != 'news' or age(i) <= 24)]
 for i in newest(lambda d: d['id'] != lead and (d['type'] != 'news' or (now - d['_t']).total_seconds() < 86400)):
     if len(rel) >= 3: break
-    if i in rel or MKT.search(i): continue
+    if i in rel or MKT.search(i) or clocked(i): continue
     if len(lw & words(i)) >= 2 or (lt & set(A[i].get('topics') or []) and A[i]['section'] == A[lead]['section']): rel.append(i)
 L['relatedBelow'] = rel[:3]
 
 # ---- headlines
-pool = [i for i in a.pin if ok(i)] + newest(lambda d: d['type'] == 'news' and (now - d['_t']).total_seconds() < 86400)
+pool = [i for i in a.pin if ok(i) and age(i) < 24] + newest(lambda d: d['type'] == 'news' and (now - d['_t']).total_seconds() < 86400)
 taken, secs, mk, used_words = [], {}, 0, set(words(lead))
 for i in pool:
-    if i == lead or i in taken or i in rel: continue
+    if i == lead or i in taken or i in rel or clocked(i): continue
     if MKT.search(i) and mk >= 1: continue
     s = A[i]['section']
     if len(taken) < 8 and secs.get(s, 0) >= 2: continue
@@ -99,7 +120,7 @@ for key, typ in (('startHere', 'explainer'), ('opinion', 'editorial')):
     fresh = newest(lambda d, t=typ: d['type'] == t)
     if fresh: h[key] = fresh[:n]
 
-json.dump(h, open('content/homepage.json', 'w'), ensure_ascii=False, indent=1)
+json.dump(h, open('content/homepage.json', 'w'), ensure_ascii=False, indent=2)
 open('content/homepage.json', 'a').write('\n')
 print('lead:', lead, f'({age(lead):.0f}h)')
 print('live band:', rel[:3])
