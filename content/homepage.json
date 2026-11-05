@@ -1,470 +1,470 @@
 {
- "lead": {
-  "id": "andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula",
-  "overlay": {
-   "kicker": {
-    "en": "States / Andhra Pradesh",
-    "hi": "राज्य / आंध्र प्रदेश"
-   },
-   "value": {
-    "en": "11.71% by 10 am, trouble in Pulivendula",
-    "hi": "10 बजे तक 11.71%, पुलिवेंदुला में तनाव"
-   },
-   "text": {
-    "en": "",
-    "hi": ""
-   }
+  "lead": {
+    "id": "andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula",
+    "overlay": {
+      "kicker": {
+        "en": "States / Andhra Pradesh",
+        "hi": "राज्य / आंध्र प्रदेश"
+      },
+      "value": {
+        "en": "11.71% by 10 am, trouble in Pulivendula",
+        "hi": "10 बजे तक 11.71%, पुलिवेंदुला में तनाव"
+      },
+      "text": {
+        "en": "",
+        "hi": ""
+      }
+    },
+    "dataBox": [],
+    "relatedBelow": [
+      "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest",
+      "ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent",
+      "andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead"
+    ],
+    "relatedBeside": [
+      "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears",
+      "mahindra-q2-profit-rises-13-per-cent-revenue-27-suv",
+      "us-midterms-schumer-lower-costs-with-or-without-trump",
+      "india-japan-asian-champions-trophy-final-mohali-preview",
+      "naveen-patnaik-writes-majhi-kotia-andhra-elections"
+    ],
+    "live": {
+      "title": {
+        "en": "Andhra local polls",
+        "hi": "आंध्र स्थानीय चुनाव"
+      }
+    }
   },
-  "dataBox": [],
-  "relatedBelow": [
-   "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest",
-   "ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent",
-   "andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead"
-  ],
-  "relatedBeside": [
-   "irb-infrastructure-q2-profit-rises-85-per-cent-260-crore",
-   "supreme-court-24-hour-production-runs-from-detention-not-arrest",
-   "rupee-opens-29-paise-94-35-fifth-gain-brent-93",
-   "india-japan-asian-champions-trophy-final-mohali-preview",
-   "andhra-mptc-zptc-polling-today-2-81-crore-voters"
-  ],
-  "live": {
-   "title": {
-    "en": "Andhra local polls",
-    "hi": "आंध्र स्थानीय चुनाव"
-   }
-  }
- },
- "briefing": {
-  "items": [
-   {
-    "link": "irb-infrastructure-q2-profit-rises-85-per-cent-260-crore",
-    "lead": {
-     "en": "Companies:",
-     "hi": "कंपनियां:"
-    },
-    "text": {
-     "en": "IRB Infrastructure Q2 profit nearly doubles to ₹260 crore",
-     "hi": "आईआरबी इन्फ्रास्ट्रक्चर का दूसरी तिमाही में मुनाफा लगभग दोगुना होकर ₹260 करोड़"
-    }
-   },
-   {
-    "link": "supreme-court-24-hour-production-runs-from-detention-not-arrest",
-    "lead": {
-     "en": "Courts:",
-     "hi": "अदालत:"
-    },
-    "text": {
-     "en": "Supreme Court: 24-hour clock to produce an accused before a magistrate starts at detention, not formal arrest",
-     "hi": "सुप्रीम कोर्ट: आरोपी को मजिस्ट्रेट के सामने पेश करने की 24 घंटे की मियाद हिरासत से शुरू, औपचारिक गिरफ्तारी से नहीं"
-    }
-   },
-   {
-    "link": "rupee-opens-29-paise-94-35-fifth-gain-brent-93",
-    "lead": {
-     "en": "Rupee:",
-     "hi": "रुपया:"
-    },
-    "text": {
-     "en": "Rupee opens 29 paise stronger at 94.35 as Brent slips to $93",
-     "hi": "रुपया 29 पैसे मज़बूत होकर 94.35 पर खुला, ब्रेंट 93 डॉलर पर"
-    }
-   },
-   {
-    "link": "india-japan-asian-champions-trophy-final-mohali-preview",
-    "lead": {
-     "en": "Hockey:",
-     "hi": "हॉकी:"
-    },
-    "text": {
-     "en": "India chase sixth Asian Champions Trophy title against Japan in Mohali final tonight",
-     "hi": "एशियन चैंपियंस ट्रॉफी: छठे खिताब के लिए आज रात मोहाली में जापान से भिड़ेगा भारत"
-    }
-   },
-   {
-    "link": "andhra-mptc-zptc-polling-today-2-81-crore-voters",
-    "lead": {
-     "en": "Andhra Pradesh:",
-     "hi": "आंध्र प्रदेश:"
-    },
-    "text": {
-     "en": "Andhra Pradesh votes today for mandal and zilla parishads after a two-day delay",
-     "hi": "आंध्र प्रदेश में आज मंडल और जिला परिषद चुनाव, दो दिन की देरी से हो रहा मतदान"
-    }
-   },
-   {
-    "link": "alcaraz-beats-michelsen-fils-machac-paris-masters-last-16",
-    "lead": {
-     "en": "Tennis:",
-     "hi": "टेनिस:"
-    },
-    "text": {
-     "en": "Alcaraz survives the day of upsets in Paris as Fils celebrates his Turin place with a win",
-     "hi": "उलटफेर भरे दिन पेरिस में अल्कराज डटे रहे, ट्यूरिन का टिकट पाने वाले फिल्स भी जीते"
-    }
-   },
-   {
-    "link": "us-midterms-schumer-lower-costs-with-or-without-trump",
-    "lead": {
-     "en": "US midterms:",
-     "hi": "अमेरिकी मध्यावधि चुनाव:"
-    },
-    "text": {
-     "en": "Schumer says Democrats will drive costs down 'with the president or without him'",
-     "hi": "शूमर बोले, डेमोक्रेट्स 'राष्ट्रपति के साथ या उनके बिना' महंगाई घटाएंगे"
-    }
-   },
-   {
-    "link": "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action",
-    "lead": {
-     "en": "Karnataka:",
-     "hi": "कर्नाटक:"
-    },
-    "text": {
-     "en": "Priyank Kharge warns Vijayendra and Narayanaswamy of legal action over remarks on Congress workers",
-     "hi": "प्रियांक खड़गे की विजयेंद्र और नारायणस्वामी को चेतावनी, कांग्रेस कार्यकर्ताओं पर टिप्पणी जारी रही तो कानूनी कार्रवाई"
-    }
-   }
-  ]
- },
- "numbers": {
-  "tracker": "economy-dashboard",
-  "items": [
-   {
-    "indicator": "gdp-growth",
-    "icon": "trend-up",
-    "label": {
-     "en": "GDP growth",
-     "hi": "जीडीपी वृद्धि"
-    },
-    "decimals": 1
-   },
-   {
-    "indicator": "cpi-inflation",
-    "icon": "shopping-cart",
-    "highlight": true,
-    "label": {
-     "en": "CPI inflation",
-     "hi": "सीपीआई महंगाई"
-    },
-    "decimals": 2
-   },
-   {
-    "indicator": "unemployment",
-    "icon": "briefcase",
-    "label": {
-     "en": "Unemployment",
-     "hi": "बेरोज़गारी"
-    },
-    "decimals": 1
-   },
-   {
-    "indicator": "iip-growth",
-    "icon": "factory",
-    "label": {
-     "en": "IIP growth",
-     "hi": "आईआईपी वृद्धि"
-    },
-    "decimals": 1
-   },
-   {
-    "indicator": "repo-rate",
-    "icon": "bank",
-    "decimals": 2,
-    "label": {
-     "en": "Repo rate",
-     "hi": "रेपो रेट"
-    }
-   },
-   {
-    "indicator": "fiscal-deficit-pct-be",
-    "icon": "chart-bar",
-    "highlight": true,
-    "label": {
-     "en": "Fiscal deficit used",
-     "hi": "राजकोषीय घाटा (बजट का)"
-    },
-    "decimals": 1
-   }
-  ]
- },
- "topStories": {
-  "big": {
-   "id": "alcaraz-beats-michelsen-fils-machac-paris-masters-last-16",
-   "also": []
-  },
-  "list": [
-   "us-midterms-schumer-lower-costs-with-or-without-trump",
-   "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action",
-   "wall-street-jumps-dow-1131-democrats-win-congress",
-   "cabinet-fast-track-special-courts-2031-850-courts",
-   "modi-meet-asian-para-games-contingent-thursday"
-  ],
-  "also": [
-   "us-midterms-alaska-sullivan-peltola-too-close-to-call",
-   "naveen-patnaik-writes-majhi-kotia-andhra-elections"
-  ]
- },
- "startHere": [
-  "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
-  "fast-track-special-courts-explained-rape-pocso-backlog",
-  "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
-  "two-child-norm-explained-javed-ruling-larger-bench",
-  "us-midterms-explained-congress-tariffs-what-it-means-for-india",
-  "foreign-divorce-explained-bigamy-section-13-cpc-supreme-court"
- ],
- "trackers": [
-  {
-   "id": "bills-in-parliament-tracker",
-   "title": {
-    "en": "Bills in Parliament",
-    "hi": "संसद में विधेयक"
-   }
-  },
-  {
-   "id": "economy-dashboard",
-   "title": {
-    "en": "Economy dashboard",
-    "hi": "अर्थव्यवस्था डैशबोर्ड"
-   }
-  },
-  {
-   "id": "election-calendar",
-   "title": {
-    "en": "Election calendar",
-    "hi": "चुनाव कैलेंडर"
-   }
-  },
-  {
-   "id": "budget-2026-27-promise-tracker",
-   "title": {
-    "en": "Budget promises",
-    "hi": "बजट के वादे"
-   }
-  },
-  {
-   "id": "sc-cases-tracker",
-   "title": {
-    "en": "Big Supreme Court cases",
-    "hi": "सुप्रीम कोर्ट के बड़े मामले"
-   }
-  }
- ],
- "dataDesk": {
-  "map": {
-   "tracker": "election-calendar",
-   "topic": "elections-2027",
-   "kicker": {
-    "en": "Elections 2027",
-    "hi": "चुनाव 2027"
-   },
-   "title": {
-    "en": "{n} states vote in 2027",
-    "hi": "2027 में {n} राज्यों में चुनाव"
-   },
-   "text": {
-    "en": "Five assemblies are expected to vote in February and March, Himachal Pradesh and Gujarat late in the year. No schedule has been announced. The President's term ends in July 2027.",
-    "hi": "पांच विधानसभाओं के चुनाव फरवरी और मार्च में होने की उम्मीद है, हिमाचल प्रदेश और गुजरात के साल के आखिर में। अभी कोई कार्यक्रम घोषित नहीं हुआ है। राष्ट्रपति का कार्यकाल जुलाई 2027 में खत्म होता है।"
-   }
-  },
-  "parliament": {
-   "tracker": "bills-in-parliament-tracker",
-   "session": "monsoon-2026",
-   "bills": [
-    "fcra-amendment-2026",
-    "indian-statistical-institute-2026",
-    "supreme-court-number-of-judges-amendment-2026",
-    "mmdr-amendment-2026",
-    "kerala-alteration-of-name-2026"
-   ]
-  }
- },
- "factCheck": {
-  "cards": [
-   "jairam-ramesh-upi-charges-above-2000-claim",
-   "kejriwal-e20-trump-pressure-ethanol-claim",
-   "ai-brics-selfie-modi-putin-xi-raisi"
-  ]
- },
- "explained": [
-  {
-   "id": "imf-world-economic-outlook-explained-india-rbi",
-   "kn": [
-    {
-     "value": {
-      "en": "7%",
-      "hi": "7%"
-     },
-     "label": {
-      "en": "IMF forecast for India, this year",
-      "hi": "इस साल भारत के लिए आईएमएफ का अनुमान"
-     }
-    },
-    {
-     "value": {
-      "en": "7.1%",
-      "hi": "7.1%"
-     },
-     "label": {
-      "en": "RBI's own forecast",
-      "hi": "आरबीआई का अपना अनुमान"
-     }
-    }
-   ]
-  },
-  {
-   "id": "wpi-vs-cpi-explained-wholesale-retail-inflation",
-   "kn": [
-    {
-     "value": {
-      "en": "11.39%",
-      "hi": "11.39%"
-     },
-     "label": {
-      "en": "wholesale inflation, September",
-      "hi": "थोक महंगाई, सितंबर"
-     }
-    },
-    {
-     "value": {
-      "en": "5.54%",
-      "hi": "5.54%"
-     },
-     "label": {
-      "en": "retail inflation, September",
-      "hi": "खुदरा महंगाई, सितंबर"
-     }
-    }
-   ]
-  },
-  {
-   "id": "repo-rate-and-your-emi-explained",
-   "kn": [
-    {
-     "value": {
-      "en": "₹781",
-      "hi": "₹781"
-     },
-     "label": {
-      "en": "extra EMI a month, ₹50 lakh loan",
-      "hi": "₹50 लाख के लोन पर हर महीने ज़्यादा ईएमआई"
-     }
-    },
-    {
-     "value": {
-      "en": "₹1.87 lakh",
-      "hi": "₹1.87 लाख"
-     },
-     "label": {
-      "en": "extra over 20 years",
-      "hi": "20 साल में ज़्यादा भुगतान"
-     }
-    }
-   ]
-  }
- ],
- "opinion": [
-  "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
-  "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
-  "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth",
-  "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
-  "coastal-freight-goal-for-2047-needs-milestones-this-decade"
- ],
- "sections": [
-  {
-   "section": "politics",
-   "module": {
-    "type": "bypolls",
-    "article": "bypoll-results-ruling-parties-win-all-six-seats"
-   },
-   "list": [
-    "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action",
-    "cabinet-fast-track-special-courts-2031-850-courts",
-    "jairam-ramesh-vb-g-ram-g-grievance-rules-jumla"
-   ],
-   "lead": "supreme-court-24-hour-production-runs-from-detention-not-arrest"
-  },
-  {
-   "section": "economy",
-   "lead": "irb-infrastructure-q2-profit-rises-85-per-cent-260-crore",
-   "module": {
-    "type": "markets",
-    "indicators": [
-     "sensex",
-     "nifty-50",
-     "usd-inr",
-     "forex-reserves"
+  "briefing": {
+    "items": [
+      {
+        "link": "irb-infrastructure-q2-profit-rises-85-per-cent-260-crore",
+        "lead": {
+          "en": "Companies:",
+          "hi": "कंपनियां:"
+        },
+        "text": {
+          "en": "IRB Infrastructure Q2 profit nearly doubles to ₹260 crore",
+          "hi": "आईआरबी इन्फ्रास्ट्रक्चर का दूसरी तिमाही में मुनाफा लगभग दोगुना होकर ₹260 करोड़"
+        }
+      },
+      {
+        "link": "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears",
+        "lead": {
+          "en": "Courts:",
+          "hi": "अदालत:"
+        },
+        "text": {
+          "en": "Supreme Court halts criminal contempt case against Punjab Chief Secretary over DA arrears",
+          "hi": "डीए बकाया मामले में पंजाब के मुख्य सचिव के खिलाफ आपराधिक अवमानना पर सुप्रीम कोर्ट की रोक"
+        }
+      },
+      {
+        "link": "mahindra-q2-profit-rises-13-per-cent-revenue-27-suv",
+        "lead": {
+          "en": "Companies:",
+          "hi": "कंपनियां:"
+        },
+        "text": {
+          "en": "Mahindra & Mahindra Q2 profit rises 13% to ₹5,102 crore as revenue jumps 27%",
+          "hi": "महिंद्रा एंड महिंद्रा का दूसरी तिमाही में मुनाफा 13% बढ़कर ₹5,102 करोड़, आय 27% उछली"
+        }
+      },
+      {
+        "link": "supreme-court-sends-azam-khan-ed-arrest-plea-allahabad-hc-november-16",
+        "lead": {
+          "en": "Courts:",
+          "hi": "अदालत:"
+        },
+        "text": {
+          "en": "Supreme Court sends Azam Khan's plea against ED arrest to Allahabad High Court",
+          "hi": "ईडी की गिरफ्तारी के खिलाफ आजम खान की याचिका सुप्रीम कोर्ट ने इलाहाबाद हाईकोर्ट भेजी"
+        }
+      },
+      {
+        "link": "india-japan-asian-champions-trophy-final-mohali-preview",
+        "lead": {
+          "en": "Hockey:",
+          "hi": "हॉकी:"
+        },
+        "text": {
+          "en": "India chase sixth Asian Champions Trophy title against Japan in Mohali final tonight",
+          "hi": "एशियन चैंपियंस ट्रॉफी: छठे खिताब के लिए आज रात मोहाली में जापान से भिड़ेगा भारत"
+        }
+      },
+      {
+        "link": "andhra-mptc-zptc-polling-today-2-81-crore-voters",
+        "lead": {
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
+        },
+        "text": {
+          "en": "Andhra Pradesh votes today for mandal and zilla parishads after a two-day delay",
+          "hi": "आंध्र प्रदेश में आज मंडल और जिला परिषद चुनाव, दो दिन की देरी से हो रहा मतदान"
+        }
+      },
+      {
+        "link": "alcaraz-beats-michelsen-fils-machac-paris-masters-last-16",
+        "lead": {
+          "en": "Tennis:",
+          "hi": "टेनिस:"
+        },
+        "text": {
+          "en": "Alcaraz survives the day of upsets in Paris as Fils celebrates his Turin place with a win",
+          "hi": "उलटफेर भरे दिन पेरिस में अल्कराज डटे रहे, ट्यूरिन का टिकट पाने वाले फिल्स भी जीते"
+        }
+      },
+      {
+        "link": "us-midterms-schumer-lower-costs-with-or-without-trump",
+        "lead": {
+          "en": "US midterms:",
+          "hi": "अमेरिकी मध्यावधि चुनाव:"
+        },
+        "text": {
+          "en": "Schumer says Democrats will drive costs down 'with the president or without him'",
+          "hi": "शूमर बोले, डेमोक्रेट्स 'राष्ट्रपति के साथ या उनके बिना' महंगाई घटाएंगे"
+        }
+      }
     ]
-   },
-   "list": [
-    "rupee-opens-29-paise-94-35-fifth-gain-brent-93",
-    "sensex-1553-points-bse-market-cap-500-lakh-crore-10am",
-    "sensex-1623-points-pre-open-nifty-24378-brent-below-100",
-    "gift-nifty-gap-up-kospi-circuit-breaker-chips-november-5"
-   ]
   },
-  {
-   "section": "states",
-   "lead": "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest",
-   "list": [
-    "andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula",
-    "andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead",
-    "ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent"
-   ]
+  "numbers": {
+    "tracker": "economy-dashboard",
+    "items": [
+      {
+        "indicator": "gdp-growth",
+        "icon": "trend-up",
+        "label": {
+          "en": "GDP growth",
+          "hi": "जीडीपी वृद्धि"
+        },
+        "decimals": 1
+      },
+      {
+        "indicator": "cpi-inflation",
+        "icon": "shopping-cart",
+        "highlight": true,
+        "label": {
+          "en": "CPI inflation",
+          "hi": "सीपीआई महंगाई"
+        },
+        "decimals": 2
+      },
+      {
+        "indicator": "unemployment",
+        "icon": "briefcase",
+        "label": {
+          "en": "Unemployment",
+          "hi": "बेरोज़गारी"
+        },
+        "decimals": 1
+      },
+      {
+        "indicator": "iip-growth",
+        "icon": "factory",
+        "label": {
+          "en": "IIP growth",
+          "hi": "आईआईपी वृद्धि"
+        },
+        "decimals": 1
+      },
+      {
+        "indicator": "repo-rate",
+        "icon": "bank",
+        "decimals": 2,
+        "label": {
+          "en": "Repo rate",
+          "hi": "रेपो रेट"
+        }
+      },
+      {
+        "indicator": "fiscal-deficit-pct-be",
+        "icon": "chart-bar",
+        "highlight": true,
+        "label": {
+          "en": "Fiscal deficit used",
+          "hi": "राजकोषीय घाटा (बजट का)"
+        },
+        "decimals": 1
+      }
+    ]
   },
-  {
-   "section": "policy",
-   "lead": "jitin-prasada-warsaw-wb-group-creotech-india-poland-ties",
-   "list": [
-    "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip",
-    "sitharaman-tata-critical-component-settle-amicably-investors",
-    "supreme-court-green-crackers-delhi-ncr-diwali-november-7-8"
-   ]
+  "topStories": {
+    "big": {
+      "id": "supreme-court-sends-azam-khan-ed-arrest-plea-allahabad-hc-november-16",
+      "also": []
+    },
+    "list": [
+      "alcaraz-beats-michelsen-fils-machac-paris-masters-last-16",
+      "cabinet-energy-storage-vgf-14500-crore-critical-minerals-2814",
+      "supreme-court-24-hour-production-runs-from-detention-not-arrest",
+      "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action",
+      "irb-infrastructure-q2-profit-rises-85-per-cent-260-crore"
+    ],
+    "also": [
+      "cabinet-fast-track-special-courts-2031-850-courts",
+      "modi-meet-asian-para-games-contingent-thursday"
+    ]
   },
-  {
-   "section": "parliament",
-   "module": {
-    "type": "session",
-    "session": "monsoon-2026"
-   },
-   "list": [
-    "birla-sameh-shoukry-brics-parliamentary-forum-opens-monday",
-    "brics-parliamentary-forum-delhi-special-session-talk",
-    "finance-ministry-idbi-2003-parliament-assurance-not-binding"
-   ]
-  }
- ],
- "desks": [
-  {
-   "section": "world",
-   "lead": "us-midterms-schumer-lower-costs-with-or-without-trump",
-   "list": [
-    "us-midterms-alaska-sullivan-peltola-too-close-to-call",
-    "us-midterms-democrats-230-house-seats-economy-hegseth-blame",
-    "us-midterms-democrats-oust-spartz-van-orden-steil-house-jeffries",
-    "us-midterms-collins-concedes-troy-jackson-maine-senate-flip"
-   ]
+  "startHere": [
+    "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
+    "fast-track-special-courts-explained-rape-pocso-backlog",
+    "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
+    "two-child-norm-explained-javed-ruling-larger-bench",
+    "us-midterms-explained-congress-tariffs-what-it-means-for-india",
+    "foreign-divorce-explained-bigamy-section-13-cpc-supreme-court"
+  ],
+  "trackers": [
+    {
+      "id": "bills-in-parliament-tracker",
+      "title": {
+        "en": "Bills in Parliament",
+        "hi": "संसद में विधेयक"
+      }
+    },
+    {
+      "id": "economy-dashboard",
+      "title": {
+        "en": "Economy dashboard",
+        "hi": "अर्थव्यवस्था डैशबोर्ड"
+      }
+    },
+    {
+      "id": "election-calendar",
+      "title": {
+        "en": "Election calendar",
+        "hi": "चुनाव कैलेंडर"
+      }
+    },
+    {
+      "id": "budget-2026-27-promise-tracker",
+      "title": {
+        "en": "Budget promises",
+        "hi": "बजट के वादे"
+      }
+    },
+    {
+      "id": "sc-cases-tracker",
+      "title": {
+        "en": "Big Supreme Court cases",
+        "hi": "सुप्रीम कोर्ट के बड़े मामले"
+      }
+    }
+  ],
+  "dataDesk": {
+    "map": {
+      "tracker": "election-calendar",
+      "topic": "elections-2027",
+      "kicker": {
+        "en": "Elections 2027",
+        "hi": "चुनाव 2027"
+      },
+      "title": {
+        "en": "{n} states vote in 2027",
+        "hi": "2027 में {n} राज्यों में चुनाव"
+      },
+      "text": {
+        "en": "Five assemblies are expected to vote in February and March, Himachal Pradesh and Gujarat late in the year. No schedule has been announced. The President's term ends in July 2027.",
+        "hi": "पांच विधानसभाओं के चुनाव फरवरी और मार्च में होने की उम्मीद है, हिमाचल प्रदेश और गुजरात के साल के आखिर में। अभी कोई कार्यक्रम घोषित नहीं हुआ है। राष्ट्रपति का कार्यकाल जुलाई 2027 में खत्म होता है।"
+      }
+    },
+    "parliament": {
+      "tracker": "bills-in-parliament-tracker",
+      "session": "monsoon-2026",
+      "bills": [
+        "fcra-amendment-2026",
+        "indian-statistical-institute-2026",
+        "supreme-court-number-of-judges-amendment-2026",
+        "mmdr-amendment-2026",
+        "kerala-alteration-of-name-2026"
+      ]
+    }
   },
-  {
-   "section": "science",
-   "lead": "apple-app-store-18-plus-dating-ai-companion-apps",
-   "list": [
-    "aditya-l1-velc-asymmetric-cme-expansion-iia",
-    "apollo-slok-ai-zero-financial-payoff-sp-493",
-    "cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam",
-    "nasa-isaacman-moon-base-artemis-iii-summer-2027-landing-2028"
-   ]
+  "factCheck": {
+    "cards": [
+      "jairam-ramesh-upi-charges-above-2000-claim",
+      "kejriwal-e20-trump-pressure-ethanol-claim",
+      "ai-brics-selfie-modi-putin-xi-raisi"
+    ]
   },
-  {
-   "section": "sports",
-   "lead": "india-japan-asian-champions-trophy-final-mohali-preview",
-   "list": [
-    "alcaraz-beats-michelsen-fils-machac-paris-masters-last-16",
-    "como-nine-at-lens-city-arsenal-win-champions-league",
-    "fenerbahce-3-2-liverpool-muriqi-valverde-real-madrid-aek",
-    "hijikata-stuns-djokovic-paris-masters-turin-hopes-end"
-   ]
-  }
- ],
- "weekAhead": []
+  "explained": [
+    {
+      "id": "imf-world-economic-outlook-explained-india-rbi",
+      "kn": [
+        {
+          "value": {
+            "en": "7%",
+            "hi": "7%"
+          },
+          "label": {
+            "en": "IMF forecast for India, this year",
+            "hi": "इस साल भारत के लिए आईएमएफ का अनुमान"
+          }
+        },
+        {
+          "value": {
+            "en": "7.1%",
+            "hi": "7.1%"
+          },
+          "label": {
+            "en": "RBI's own forecast",
+            "hi": "आरबीआई का अपना अनुमान"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wpi-vs-cpi-explained-wholesale-retail-inflation",
+      "kn": [
+        {
+          "value": {
+            "en": "11.39%",
+            "hi": "11.39%"
+          },
+          "label": {
+            "en": "wholesale inflation, September",
+            "hi": "थोक महंगाई, सितंबर"
+          }
+        },
+        {
+          "value": {
+            "en": "5.54%",
+            "hi": "5.54%"
+          },
+          "label": {
+            "en": "retail inflation, September",
+            "hi": "खुदरा महंगाई, सितंबर"
+          }
+        }
+      ]
+    },
+    {
+      "id": "repo-rate-and-your-emi-explained",
+      "kn": [
+        {
+          "value": {
+            "en": "₹781",
+            "hi": "₹781"
+          },
+          "label": {
+            "en": "extra EMI a month, ₹50 lakh loan",
+            "hi": "₹50 लाख के लोन पर हर महीने ज़्यादा ईएमआई"
+          }
+        },
+        {
+          "value": {
+            "en": "₹1.87 lakh",
+            "hi": "₹1.87 लाख"
+          },
+          "label": {
+            "en": "extra over 20 years",
+            "hi": "20 साल में ज़्यादा भुगतान"
+          }
+        }
+      ]
+    }
+  ],
+  "opinion": [
+    "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
+    "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
+    "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth",
+    "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
+    "coastal-freight-goal-for-2047-needs-milestones-this-decade"
+  ],
+  "sections": [
+    {
+      "section": "politics",
+      "module": {
+        "type": "bypolls",
+        "article": "bypoll-results-ruling-parties-win-all-six-seats"
+      },
+      "list": [
+        "supreme-court-sends-azam-khan-ed-arrest-plea-allahabad-hc-november-16",
+        "supreme-court-24-hour-production-runs-from-detention-not-arrest",
+        "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action"
+      ],
+      "lead": "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears"
+    },
+    {
+      "section": "economy",
+      "lead": "irb-infrastructure-q2-profit-rises-85-per-cent-260-crore",
+      "module": {
+        "type": "markets",
+        "indicators": [
+          "sensex",
+          "nifty-50",
+          "usd-inr",
+          "forex-reserves"
+        ]
+      },
+      "list": [
+        "mahindra-q2-profit-rises-13-per-cent-revenue-27-suv",
+        "rupee-opens-29-paise-94-35-fifth-gain-brent-93",
+        "sensex-1553-points-bse-market-cap-500-lakh-crore-10am",
+        "sensex-1623-points-pre-open-nifty-24378-brent-below-100"
+      ]
+    },
+    {
+      "section": "states",
+      "lead": "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest",
+      "list": [
+        "andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula",
+        "andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead",
+        "ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent"
+      ]
+    },
+    {
+      "section": "policy",
+      "lead": "jitin-prasada-warsaw-wb-group-creotech-india-poland-ties",
+      "list": [
+        "qs-asia-rankings-2027-iit-delhi-66-indian-universities-slip",
+        "sitharaman-tata-critical-component-settle-amicably-investors",
+        "supreme-court-green-crackers-delhi-ncr-diwali-november-7-8"
+      ]
+    },
+    {
+      "section": "parliament",
+      "module": {
+        "type": "session",
+        "session": "monsoon-2026"
+      },
+      "list": [
+        "birla-sameh-shoukry-brics-parliamentary-forum-opens-monday",
+        "brics-parliamentary-forum-delhi-special-session-talk",
+        "finance-ministry-idbi-2003-parliament-assurance-not-binding"
+      ]
+    }
+  ],
+  "desks": [
+    {
+      "section": "world",
+      "lead": "us-midterms-schumer-lower-costs-with-or-without-trump",
+      "list": [
+        "us-midterms-alaska-sullivan-peltola-too-close-to-call",
+        "us-midterms-democrats-230-house-seats-economy-hegseth-blame",
+        "us-midterms-democrats-oust-spartz-van-orden-steil-house-jeffries",
+        "us-midterms-collins-concedes-troy-jackson-maine-senate-flip"
+      ]
+    },
+    {
+      "section": "science",
+      "lead": "apple-app-store-18-plus-dating-ai-companion-apps",
+      "list": [
+        "aditya-l1-velc-asymmetric-cme-expansion-iia",
+        "apollo-slok-ai-zero-financial-payoff-sp-493",
+        "cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam",
+        "nasa-isaacman-moon-base-artemis-iii-summer-2027-landing-2028"
+      ]
+    },
+    {
+      "section": "sports",
+      "lead": "india-japan-asian-champions-trophy-final-mohali-preview",
+      "list": [
+        "alcaraz-beats-michelsen-fils-machac-paris-masters-last-16",
+        "como-nine-at-lens-city-arsenal-win-champions-league",
+        "fenerbahce-3-2-liverpool-muriqi-valverde-real-madrid-aek",
+        "hijikata-stuns-djokovic-paris-masters-turin-hopes-end"
+      ]
+    }
+  ],
+  "weekAhead": []
 }
