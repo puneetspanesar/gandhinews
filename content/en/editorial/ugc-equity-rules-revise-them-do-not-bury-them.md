@@ -106,6 +106,3 @@ Third, it should address the weakness the former UGC chairman Sukhdeo Thorat has
 
 The bench said the younger generation must be looked after. The students these rules were written for are part of that generation too.
 
-```photo
-{"n":2,"subject":"Supreme Court of India","caption":"The Supreme Court of India, which kept the equity rules in abeyance in January and heard the Centre's offer of a review panel on Thursday.","alt":"The Supreme Court of India in New Delhi"}
-```
