@@ -11,11 +11,12 @@ Writes /home/claude/gn-work/review/:
                                            cover (English and Hindi) and every in-story photo with its caption
   list.txt                                 the sheets and the story ids, in order
 """
+import os as _gn_os; GN_ROOT = _gn_os.environ.get('GN_ROOT') or _gn_os.path.dirname(_gn_os.path.dirname(_gn_os.path.dirname(_gn_os.path.abspath(__file__)))) + '/'  # repo root (works in any clone)
 import json, os, re, sys, glob, subprocess, time, socket, datetime as dt
 import yaml
 from PIL import Image, ImageDraw, ImageFont
 
-R = '/home/claude/gandhinews/'
+R = GN_ROOT + ''
 OUT = '/home/claude/gn-work/review/'
 FONT = R + 'newsroom/fonts/GoogleSans-700.ttf'
 FONT_R = R + 'newsroom/fonts/GoogleSans-500.ttf'

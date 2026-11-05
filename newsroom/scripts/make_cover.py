@@ -17,11 +17,12 @@ People are the story's main picture panels (hero.subjects, in order). A clean si
 a group photo or a small photo goes in a white-framed panel instead, so a cut-out never looks ghosted.
 Writes public/photos/c-<id>-<lang>-1280.jpg / -640.jpg and adds "cover" to the story's entry in photos.map.json.
 """
+import os as _gn_os; GN_ROOT = _gn_os.environ.get('GN_ROOT') or _gn_os.path.dirname(_gn_os.path.dirname(_gn_os.path.dirname(_gn_os.path.abspath(__file__)))) + '/'  # repo root (works in any clone)
 import json, os, re, sys, io
 import numpy as np, cv2, yaml
 from PIL import Image, ImageDraw, ImageFont, ImageFilter, ImageOps
 
-R = '/home/claude/gandhinews/'
+R = GN_ROOT + ''
 FONTS = R + 'newsroom/fonts/'
 W, H = 1280, 720
 BAND = 330            # dark band at the bottom that carries the text

@@ -1,4 +1,5 @@
 """Build composite story pictures from downloaded parts and register them in photos.map.json."""
+import os as _gn_os; GN_ROOT = _gn_os.environ.get('GN_ROOT') or _gn_os.path.dirname(_gn_os.path.dirname(_gn_os.path.dirname(_gn_os.path.abspath(__file__)))) + '/'  # repo root (works in any clone)
 import json, sys, os
 sys.path.insert(0, '/home/claude/gn-work')
 from compose import compose
@@ -6,7 +7,7 @@ from PIL import Image, ImageFile
 ImageFile.LOAD_TRUNCATED_IMAGES = True
 raw = sys.argv[1]
 FOCUS = json.load(open(sys.argv[2])) if len(sys.argv) > 2 else {}
-os.chdir('/home/claude/gandhinews')
+os.chdir(GN_ROOT)
 P = json.load(open('content/photos.json')); M = json.load(open('content/photos.map.json'))
 def pid_of(a):
     for suf in ('--bg', '--in', '--c'):

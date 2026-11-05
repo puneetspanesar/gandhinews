@@ -9,11 +9,12 @@ Usage (repo root):
 The picture gets its own file (r-<story-id>-1280/640.jpg) and entries in content/photos.json and photos.map.json,
 so check:photos and the photo credits page treat it like any other photo.
 """
+import os as _gn_os; GN_ROOT = _gn_os.environ.get('GN_ROOT') or _gn_os.path.dirname(_gn_os.path.dirname(_gn_os.path.dirname(_gn_os.path.abspath(__file__)))) + '/'  # repo root (works in any clone)
 import json, re, sys, shutil, glob, os, datetime as dt
 from urllib.parse import unquote
 import yaml
 
-R = '/home/claude/gandhinews/'
+R = GN_ROOT + ''
 IST = dt.timezone(dt.timedelta(hours=5, minutes=30))
 now = dt.datetime.now(IST)
 args = [a for a in sys.argv[1:] if not a.startswith('--')]

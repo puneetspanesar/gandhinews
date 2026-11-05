@@ -2,9 +2,10 @@
   python3 review_sheet.py picks   -> gn-work/ps<N>.jpg: the picked candidate thumbs per story (index, id, file title)
   python3 review_sheet.py final   -> gn-work/out<N>.jpg: the finished 640px composites for every story in picks.json
 Open each image with the Read tool and check every panel shows the right person or place."""
+import os as _gn_os; GN_ROOT = _gn_os.environ.get('GN_ROOT') or _gn_os.path.dirname(_gn_os.path.dirname(_gn_os.path.dirname(_gn_os.path.abspath(__file__)))) + '/'  # repo root (works in any clone)
 import json, glob, sys
 from PIL import Image, ImageDraw, ImageFont
-W = '/home/claude/gn-work/'; R = '/home/claude/gandhinews/'
+W = (_gn_os.environ.get('GN_WORK') or '/home/claude/gn-work/'); R = GN_ROOT + ''
 F = ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf', 13)
 picks = json.load(open(W + 'picks.json')); ids = [s for s, v in picks.items() if any(v)]
 if sys.argv[1] == 'picks':

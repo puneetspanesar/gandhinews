@@ -23,11 +23,12 @@ The `infographic:` block (both language files, each in its own language):
 Icons are Phosphor duotone names (newsroom/phosphor/<name>-duotone.svg). Never robot or sparkle icons.
 Every number must come from the story itself.
 """
+import os as _gn_os; GN_ROOT = _gn_os.environ.get('GN_ROOT') or _gn_os.path.dirname(_gn_os.path.dirname(_gn_os.path.dirname(_gn_os.path.abspath(__file__)))) + '/'  # repo root (works in any clone)
 import sys, os, re, json, html, glob, io
 import yaml
 from PIL import Image
 
-R = '/home/claude/gandhinews/'
+R = GN_ROOT + ''
 PH = R + 'newsroom/phosphor/'
 SEAL = open(R + 'src/components/seal.svg.txt').read()
 RED, INK = '#cc0000', '#0d0d0d'
