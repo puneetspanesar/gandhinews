@@ -20,16 +20,13 @@ os.chdir(GN_ROOT)
 moved = []
 for f in v.get('fail') or []:
     sid, why = f.get('id'), f.get('why', '')
+    if not sid or sid == 'homepage': continue
     kind = f.get('kind') if f.get('kind') in ('picture', 'facts', 'other') else 'picture' if any(w in why.lower() for w in ('picture', 'photo', 'image', 'graphic', 'cover')) else 'facts' if any(w in why.lower() for w in ('fact', 'figure', 'number', 'wrong', 'false', 'stale', 'date')) else 'other'
-    for lang in ('en', 'hi'):
-        for p in glob.glob(f'content/{lang}/*/{sid}.md'):
-            os.makedirs(f'newsroom/held/{lang}', exist_ok=True)
-            subprocess.run(['git', 'mv', '-f', p, f'newsroom/held/{lang}/{sid}.md'], check=False) if subprocess.run(['git', 'ls-files', '--error-unmatch', p], capture_output=True).returncode == 0 else shutil.move(p, f'newsroom/held/{lang}/{sid}.md')
-    json.dump({'why': why, 'kind': kind, 'held_at': dt.datetime.now(IST).isoformat(timespec='minutes')}, open(f'newsroom/held/{sid}.json', 'w'), ensure_ascii=False, indent=1)
+    subprocess.run([sys.executable, 'newsroom/scripts/held.py', 'hold', sid, kind, why], check=True)
     moved.append(f'{sid} ({kind}: {why})')
 if moved:
     print('held:'); [print('  ' + m) for m in moved]
-    subprocess.run([sys.executable, 'newsroom/scripts/refresh_home.py', '--keep'], check=False)
+    subprocess.run([sys.executable, 'newsroom/scripts/refresh_home.py'], check=False)
 hp = v.get('homepage', 'ok')
 if hp not in ('ok', 'OK', '', None):
     print(f'homepage failed the editor check: {hp}'); sys.exit(1)

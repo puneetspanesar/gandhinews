@@ -577,7 +577,7 @@ def main():
     ap.add_argument('--root', default='.'); ap.add_argument('--dist', default=None)
     ap.add_argument('--hours', type=float, default=48); ap.add_argument('--all', action='store_true')
     ap.add_argument('--changed', action='store_true', help='lint only stories this run changed (git diff against origin/main) + the homepage')
-    ap.add_argument('--skip', action='append', default=[], choices=['content', 'photos', 'home', 'site', 'style'])
+    ap.add_argument('--skip', action='append', default=[], help='groups to skip, comma separated: content,photos,home,site,style')
     ap.add_argument('--max', type=int, default=60, help='failures printed per group')
     a = ap.parse_args()
     root = os.path.abspath(a.root); dist = os.path.abspath(a.dist or f'{root}/dist')
@@ -601,6 +601,8 @@ def main():
     for lang in ('en', 'hi'):
         for sid in on_home:
             if sid not in S[lang]: fail('content', 'content/homepage.json', f'homepage id "{sid}" has no {lang} story file')
+    a.skip = [g.strip() for x in a.skip for g in x.split(',') if g.strip()]
+    assert set(a.skip) <= {'content', 'photos', 'home', 'site', 'style'}, f'unknown --skip group: {a.skip}'
     if 'content' not in a.skip:
         for lang in ('en', 'hi'):
             other = S['hi' if lang == 'en' else 'en']

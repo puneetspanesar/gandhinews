@@ -25,7 +25,7 @@ Today's date and time: take them from `TZ=Asia/Kolkata date` at the start of the
 
 ## 3. Formats and lengths
 - news: 450-750 words. keyPoints (3-4 bullets, each one sentence) in frontmatter. At least one chart or fact box when data exists. Sections with H2 subheads.
-- explainer: 700-1,100 words. `shortAnswer` (2-3 sentences) in frontmatter. Body is a series of H2 QUESTIONS (5-8), each answered with a direct first sentence in bold, then detail. Include at least one chart, timeline or fact box. These are evergreen: write so they stay true for months, and note "as of October 2026" where figures will change.
+- explainer: 700-1,100 words. `shortAnswer` (2-3 sentences) in frontmatter. Body is a series of H2 QUESTIONS (5-8), each answered with a direct first sentence in bold, then detail. Include at least one chart, timeline or fact box. These are evergreen: write so they stay true for months, and note "as of <month> <year>" where figures will change.
 - factcheck: 450-700 words. Frontmatter `factcheck` block. Body: "What we found" paragraph, then numbered evidence H3 sections each citing a source, then "Why this claim spread" (only sourced context). Verdict scale: True / Mostly true / Misleading / False.
 - editorial: 500-700 words, the desk's argued view, evidence-based, fair to the other side's best argument, ends with a concrete recommendation. Include a "The reporting behind this view" facts block (3 numbers with sources). Frontmatter `verification.status: needs-editor-approval`.
 - topic: 300-500 words. A living summary of the subject as of today: what it is, where things stand, key dates (timeline block), key numbers (facts block), "Key questions" (3-5 Q&A, short), and `related` list of article ids.

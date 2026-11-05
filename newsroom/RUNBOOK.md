@@ -1,114 +1,74 @@
-# Gandhi News scheduled news update: runbook
+# Gandhi News: the rules and the shared procedures
 
-This is the full procedure for one news update of gandhinews.com. It runs twice a day (about 5:30 am and 3:30 pm IST) so the site is fresh by 7 am and 5 pm. Work alone: nobody is watching, so never stop to ask a question. Decide, note the decision in the final report, and carry on.
+Every scheduled run (hourly, long-form, stall check) follows this file plus its own runbook. Work alone: nobody is watching, so never stop to ask a question. Decide, write the decision in the run record, carry on. Where anything else (an old brief, editor-notes.md, a memory of "how it was done before") disagrees with this file, this file wins.
 
-The site is Astro in the private repo puneetspanesar/gandhinews. Cloudflare Workers Builds deploys every push to main. Work on main directly.
+The site is Astro in the private repo puneetspanesar/gandhinews. Cloudflare deploys every push to main, but only if `npm run build` passes: the build ends with scripts/check-links.mjs and scripts/gate.mjs, so a build that breaks a hard rule is never deployed and the last good site stays live.
 
-## Standing editorial rules (never break)
-- Byline is "From the editorial desk". Write in our own voice; never quote or credit media outlets to readers (sources stay in front matter only).
-- Key facts in keyPoints are wrapped in **bold** (they render bold red). In the body, most paragraphs bold the one phrase that carries the news (at most one per paragraph, never a whole sentence).
-- Besides the main photo, every story carries 2 or 3 visuals in the body (briefs 2, leads and explainers 3, editorials 1 or 2): mostly in-story photos (```photo blocks, each a different person or place from the story), with an infographic only when there is real data, a sequence or a comparison worth drawing. Never charts for the sake of it. Rules in newsroom/briefs/desk-addendum-v2.md.
-- No em dashes anywhere, English or Hindi.
-- Every story has its Hindi twin in content/hi/<same folder>/<same slug>.md.
-- Photo reuse (owner's rule, November 2, 2026): the right person always beats a fresh photo. A photo may be used again only if every other story using it is at least 7 days old, it gets a different crop, and it never appears twice among the homepage's top stories at once (`npm run check:photos` enforces this and must pass). pick.py prefers a photo never used before and only falls back to an older one. Never use a building, venue, landmark or another person because the right person's photos were "used up".
-- Pictures show the actual people or place in the headline (NDTV style), two panels when the story has two sides. EVERY story must go live with a picture (the owner checks). A wrong person is never acceptable, so when the exact person has no usable photo, fall back in this order: another person named in the story; the institution or place (the court, ministry, bank HQ, stadium, city); a concrete object of the story (a crop field, an oil tanker, a satellite). Never publish a run with stories still missing pictures.
-- EVENT stories (rain, cyclone, flood, heat, cold, fog, smog and air quality, fire, farm fires, landslide, earthquake, accident, collapse, blast, strike or shelling, protest, stampede, outage) must show THE EVENT: rain on the streets, flooded roads, a storm sea or a cyclone from space, smog, flames, the burning field, the damage, the rescue, the crowd. File photos of an earlier event of the same kind in the same city or region are right (Chennai floods 2015, Cyclone Michaung, Delhi smog of an earlier winter), always captioned as file photos. NEVER a landmark, temple, monument, tomb, office building, skyline, tourist view or a calm street for an event story: that is the single most common picture mistake and it is not acceptable. A minister or official goes in only when the story is about what they said or did, never as the main picture of the event itself.
-- The picture must show who the story is ABOUT. The person who spoke or acted always comes first: a story about Sambit Patra attacking Rahul Gandhi shows Sambit Patra (with Rahul Gandhi as the second panel), never Rahul Gandhi alone. A story about a row with a named official (the CEC Gyanesh Kumar) shows that official alongside the speaker. A picture of only the target, a bystander or a generic place, when the speaker exists on Commons, is wrong: find the speaker (group photos cropped to the person are fine), and if the speaker truly has no photo, hold the story as with any missing picture. When reviewing picks, check every panel against the headline: whose words or actions is it about, and for an event, does the picture show the event happening (rain, smog, fire, damage)? A picture that would fit any story about the city is wrong.
-- Prefer official government photos (PIB) where Commons has them.
-- No "Latest" timestamp section on the homepage. Fact-check, trackers, data desk, Parliament table, standards box stay at the bottom.
-- Volume: about 70 to 80 stories per run, two thirds briefs (220 to 380 words), one third leads (400 to 650 words).
+## A. The owner's rules (never break)
+Writing
+1. Byline "From the editorial desk". Our own voice. Never name or credit a media outlet to readers; sources live in the front matter `sources:` only.
+2. No em dashes anywhere, English or Hindi (the gate fails new stories that have one). En dashes only in number ranges written as "to".
+3. Dates: English "November 5, 2026" (month day, year); Hindi "5 नवंबर 2026". Times "4:30 pm IST".
+4. Every story has its Hindi twin at content/hi/<same folder>/<same id>.md, following newsroom/briefs/hindi-glossary.md.
+5. Bold: every key point carries one **bold** phrase; most body paragraphs bold the one phrase that carries the news (never a whole sentence).
+6. A figure tied to a clock time ("30.5% by 1 pm") is stale 2 hours after that time: update the story (title, standfirst, first key point, first paragraph, `updated:`) or move it off the top. Never just reword the time away.
 
-## 0. Set up the workspace (fresh session)
-```
-[ -d /home/claude/gandhinews/.git ] || gh repo clone puneetspanesar/gandhinews /home/claude/gandhinews
-cd /home/claude/gandhinews && git pull -q && npm ci --silent
-git config user.name Claude && git config user.email noreply@anthropic.com   # every commit must show as Claude, never desk@
-mkdir -p /home/claude/gn-work && cp newsroom/briefs/*.md newsroom/scripts/*.py newsroom/scripts/blocklist.txt /home/claude/gn-work/
-[ -x /tmp/claude-0/cvenv/bin/python ] || (python3 -m venv /tmp/claude-0/cvenv && /tmp/claude-0/cvenv/bin/pip -q install "opencv-python-headless<5" pillow numpy pyyaml)
-: > /home/claude/gn-work/claims.txt
-python3 -c "import rembg, cairosvg" 2>/dev/null || pip install --break-system-packages -q "rembg[cpu]" "opencv-python-headless<5" cairosvg pyyaml
-```
-Set `PY=/tmp/claude-0/cvenv/bin/python`. Work out the window: from the last news-run commit (`git log --format='%ci %s' -15`) to now (`TZ=Asia/Kolkata date`).
+Pictures
+7. Every story goes live with a correct main picture, or does not go live (the gate enforces "a picture", the editor and you enforce "correct").
+8. The picture shows who the story is ABOUT: the person who spoke or acted first, the person they answered second. A well-known person always gets a PHOTO, never an infographic.
+9. Event stories (rain, flood, cyclone, smog, fire, crash, collapse, strike, protest, polling) show the event: a file photo of the same kind of event in the same region is right, labelled "(file photo)". Never a landmark, temple, office building or calm street.
+10. No source photo is used again within 7 days (`npm run -s check:photos`), and never twice at the top of the homepage.
+11. Infographics only for stories with no person or place to show (index levels, results tables, a policy with numbers), or when the finder truly found nothing. Numbers on a graphic must match the story; re-render it whenever the story's figures change.
+12. Credits come from the photo's page, cleaned (gnrules.clean_credit). No "{{", "&amp;", licence boilerplate or uploader phrases.
 
-## 1. Brief the desks
-Edit three lines in /home/claude/gn-work:
-- desk-addendum-v2.md, the line starting `- Today is`: the day, date and time now, what period to cover (since the last run), and that later events are previews.
-- run-brief.md line 1 (title) and the `- News from ...` volume rule: the same window; tell desks to `ls -t content/en/news | head -150` to avoid repeats.
-- run-brief.md `published:` rule: ISO times inside the window (+05:30).
+Homepage (refresh_home.py does the mechanics, check_fresh.py is the counter check)
+13. The lead is the biggest story in India right now, under 8 hours old, never a markets story, with a real photo.
+14. Top headlines: news from the last 24 hours, at most ONE markets story, at most TWO per section in the top eight, never two stories on the same subject side by side, no photo twice.
+15. The site visibly changes every hour: new stories, a refreshed homepage, current markets figures during market hours.
+16. No empty space, empty slot, camera placeholder, grey text, pill, gradient or shadow anywhere (check_layout.cjs).
 
-Then launch nine desk agents in ONE message (Agent tool, general-purpose, run in parallel). Each prompt starts `Read /home/claude/gn-work/run-brief.md and follow it. DESK = <desk>. Section: <section>.` then two or three lines of what to cover for this window, then a target:
-1. politics-courts (politics/policy): national politics, EC/SIR, parties, Supreme Court and High Court orders. 9 stories (3 leads).
-2. states: at least 6 different states, Delhi air quality with CPCB AQI. 10 (3 leads).
-3. economy: market close on weekdays as a lead AND update content/data/economy-dashboard.json and content/data/hi/economy-dashboard.json (read first, keep structure, add history rows, set "updated"); results, IPOs, RBI/SEBI. Morning runs: overnight global cues and the day's results calendar instead of a close. 9 (3 leads). Report dashboard values.
-4. policy (policy/parliament): PIB releases, ministries, MEA, defence, regulators. 8 (2 leads).
-5. world-asia (world): Gulf/Iran, Israel/Gaza, Pakistan, Bangladesh, Nepal, China, East and Southeast Asia. India angles. 9 (3 leads).
-6. world-west (world): Europe, Russia-Ukraine, US, Latin America, Africa, UN. 8 (2 leads).
-7. science: AI and tech, Indian tech policy, space, health, climate. At least 3 India angles. 7 (2 leads).
-8. sports: cricket first (India men and women, domestic), then other Indian interest, then global. 10 (3 leads).
-9. explained-opinion: 3 explainers (copy the shape of content/en/explainer/at1-bonds-explained-yes-bank-supreme-court-ruling.md) on this week's news not yet explained, and 2 editorials (shape of content/en/editorial/school-buildings-need-safety-audits-before-the-next-roof-falls.md) on issues without one. Check the folders first. Limit WebSearch to 10. Morning runs may do 1 explainer and 1 editorial.
+Run discipline
+17. Nothing reaches main before the gate (section D). No pushes mid-run.
+18. Never get around a site that blocks automated reading. Never paste keys. Never force-push main or rewrite its history. Commits are by Claude <noreply@anthropic.com> and end with the attribution lines from the session's system reminder.
+19. The owner hears only about problems a run could not fix (a held story, a broken build it could not repair). A normal run sends nothing.
 
-Wait for all nine. Then validate:
+## B. Setup (first thing in every run)
 ```
-cd /home/claude/gandhinews && rm -rf node_modules/.astro .astro/data-store.json && npm run build 2>&1 | grep -iE "error|Indexed [0-9]+ pages"
+cd /home/claude/gandhinews 2>/dev/null || cd /home/claude
+[ -f /home/claude/gandhinews/newsroom/scripts/setup.sh ] || gh repo clone puneetspanesar/gandhinews /home/claude/gandhinews
+source /home/claude/gandhinews/newsroom/scripts/setup.sh <run-name>     # hourly-HH, longform-m, longform-e
+bash newsroom/scripts/lock.sh take <run-name> <minutes>                  # hourly 50, long-form 80
 ```
-Fix any error (common: duplicate front matter keys, explainer compare block in the old left/right shape, unknown icon names; see src/icons for valid ones). Skim the headlines of the new stories for anything unsourced or doubtful and fix or delete it (delete both language files). Commit and push the stories now (`git add content && git commit`), so a later failure never loses them. End every commit message with the attribution lines given in the session's system reminder.
+lock.sh exit 3 means another run holds the lock: `bash newsroom/scripts/lock.sh wait <run-name> <minutes>` waits until it is free or stale (a hold past its time is stale and is taken over). Release it at the very end, also after a failure: `bash newsroom/scripts/lock.sh release <run-name>`.
+Then the held stories: `python3 newsroom/scripts/held.py expire`, `python3 newsroom/scripts/held.py list`, and `held.py republish <id>` for each picture hold whose picture now exists (then set its `published:` to now only if the news is still current; otherwise leave the time and let it sit below the top).
 
-## 2. Pictures
-```
-cd /home/claude/gandhinews/newsroom/scripts && python3 make_plan.py <tag>
-```
-Use a fresh tag each run (e.g. `m17` for the morning of the 17th, `e17` for the evening). The plan also holds every in-story ```photo block as its own single-panel entry `<story id>--p<n>`; they go through the same finding, picking, eye check, register and composite steps as main photos, and the same never-a-wrong-person rule applies. It writes plan.json and vq.json into gn-work and scripts/photo-queries-<tag>N.json, and prints the parts. Commit and push the query files, then trigger one finder run per part:
-```
-gh api -X POST repos/puneetspanesar/gandhinews/actions/workflows/find-photos.yml/dispatches -f ref=main -f "inputs[part]=<part>"
-```
-Poll `gh run list --workflow find-photos.yml -L <n> --json status,conclusion` every 30 s until all complete (about 6 to 8 minutes). Fetch the candidates (delete old pcv* folders first):
-```
-cd /home/claude/gn-work && rm -rf pcv*
-for p in <parts>; do git -C /home/claude/gandhinews fetch -q origin +photo-candidates-$p:refs/remotes/origin/photo-candidates-$p && mkdir -p pcv$p && git -C /home/claude/gandhinews archive origin/photo-candidates-$p photo-candidates | tar -x -C pcv$p; done
-$PY pick.py
-```
-The part name you trigger must match a query file that is already pushed (`scripts/photo-queries-<part>.json`, check with `ls scripts/photo-queries-<part>.json && git log origin/main -1 -- scripts/photo-queries-<part>.json`); a wrong or unpushed name fails the finder run and emails the owner. For panels still missing, write a second round of better queries (official forms like "Shri Rajnath Singh", plain city or building names, `||20` for big pools) into scripts/photo-queries-<tag>r.json with keys like `<tag>r0`, push, trigger, fetch into pcv<tag>r, and map each missing panel query to its new query texts in gn-work/extra.json: `{"Bhagwant Mann": ["Bhagwant Mann Punjab"]}`. Rerun `$PY pick.py`. One extra round is enough.
+## C. Pictures (in this order, for every new story)
+1. INSTANT, photos we already have: `python3 newsroom/scripts/quick_photo.py <id> "<subject>" --list`, look at the candidates, then `--pick <photo-id>`. Subject = the person as Wikipedia names them, or the place. Seconds.
+2. FINDER for every story still without a correct picture, all in ONE call per run: write queries to $GN_WORK/q-<tag>.json (`{"k1": "Rahul Gandhi||8", "k2": "Chennai floods||8"}`), then `python3 newsroom/scripts/photos_gh.py find <tag> $GN_WORK/q-<tag>.json` (about 2 minutes). Look at the thumbnails (make one contact sheet and Read it), pick by eye, then for each pick `python3 newsroom/scripts/one_photo.py <id> $GN_WORK/pcv<tag> <key> <n> "<English alt>" "<Hindi alt>"` (downloads, crops, registers; about 1 minute). Alt text names what is shown; "(file photo)" when it is not from this event.
+   Two-person splits and covers: the long procedure in newsroom/PHOTOS-COMPOSITE.md, only when there is time.
+3. INFOGRAPHIC, last resort, only under rule 11: `python3 newsroom/scripts/make_infographic.py <id> ...`.
+4. No correct picture by the picture deadline: `python3 newsroom/scripts/held.py hold <id> picture "no correct photo of <subject>"`. Never a wrong or generic photo.
+In-story ```photo blocks whose photo did not arrive are deleted from both language files; the story still goes.
+Wrong picks go into newsroom/scripts/blocklist.txt (file name, lower case) so no later run picks them again.
 
-Review: `$PY review_sheet.py picks`, then Read every ps*.jpg. For each story check every panel shows the named person or the actual place. Remove wrong panels by editing gn-work/picks.json (set the panel to null). Add the file name of every wrong-person or wrong-place pick (lower case, as in the URL, underscores) to newsroom/scripts/blocklist.txt so no later run picks it again. Common failures: a namesake (wrong person with the same surname), a group photo where the person is tiny, a signature or map instead of the person, a logo that is not the company, an unrelated building. When two or more people are in a photo and the crop could land on the wrong face, drop it unless a focus point fixes it. Then list every story still without a picture (no entry in content/photos.map.json and none in picks.json). For each, write two or three fallback queries (institution, place, concrete object, `||15`), run one more finder round, open the candidate sheets (`python3 sheet.py pcv<part> /home/claude/gn-work <tag>` then Read the jpgs), and choose by eye. Add choices by hand to picks.json using a candidate from the pools (fields q, dir, key, n, title, url (=url1600), page, licence, author, kind, what).
+## D. The gate (every run, in this order, nothing skipped)
+```
+python3 newsroom/scripts/refresh_home.py [--lead <id>] [--pin <id> ...]
+python3 newsroom/scripts/check_fresh.py              # must print OK
+npm run -s check:photos                               # must print OK
+npm run build > $GN_WORK/build.log 2>&1; echo build=$?   # must be 0: it includes check-links and the build gate
+python3 newsroom/scripts/audit.py --changed           # content, photos, home, site, style on what this run changed
+node newsroom/scripts/check_layout.cjs                # desktop, phone, Hindi: no empty space, no unloaded pictures
+```
+Never pipe the build into grep or tail before reading its exit code. Fix every failure at its cause (the story, the picture, homepage.json), then run the whole gate again from the top. A story that cannot be fixed in 5 minutes is held with held.py and the gate is run again.
+Then the editor's check: `python3 newsroom/scripts/review_pack.py <ids of this run's stories>`, then ONE fresh agent (general-purpose, it did none of this run's work) with the prompt `Read /home/claude/gandhinews/newsroom/briefs/editor-check.md and follow it exactly.` It writes $GN_WORK/editor.json. A FIX you can make in 5 minutes without new research (drop an in-story photo, swap in a photo already checked, fix a word or a figure the editor quoted) you may make first: then move that entry from `fail` to a `fixed` list in editor.json with what you did (`{"id", "why", "done"}`), so the record shows it. Then `python3 newsroom/scripts/apply_verdict.py`: it holds every failed story (with its reason) and refreshes the homepage. Exit 1 means the homepage itself failed: fix it and ask a NEW editor agent once more. After apply_verdict, run the gate's first four lines again (refresh_home, check_fresh, check:photos, build).
 
-In-story photos are different from main photos in one way: when one still has no correct picture after the fallback round, do NOT hold the story; delete that ```photo block from both language files instead (the story keeps its other visuals). If that leaves a story with no in-story visual at all, note it in the report.
-
-Alt text: `python3 register.py`. If it lists stories that need alt text (panels changed from the plan), write gn-work/alts-override.json `{"id": ["English alt", "Hindi alt"]}` naming who or what is actually shown, then run it again. Then:
+## E. Publish (only after D passes)
 ```
-cd /home/claude/gandhinews && npm run -s check:photos
+python3 newsroom/scripts/run_record.py write <run-name> "<one-line summary>"   # newsroom/runs/<date>-<run>.json
+git add -A content public/photos newsroom && git commit -q -F $GN_WORK/commit.txt
+git pull -q origin main && npm run build > $GN_WORK/build.log 2>&1 && git push -q origin HEAD:main; echo push=$?
+bash newsroom/scripts/lock.sh release <run-name>
 ```
-It must pass; if it reports a photo repeated too soon, null that panel in picks.json, restore content/photos.json with `git checkout content/photos.json`, and register again. Commit, push, and trigger the downloader:
-```
-gh api -X POST repos/puneetspanesar/gandhinews/actions/workflows/download-photos.yml/dispatches -f ref=main
-```
-Wait for it to finish, then build the composites:
-```
-git fetch -q origin +photo-raw:refs/remotes/origin/photo-raw
-rm -rf /home/claude/gn-work/raw && mkdir -p /home/claude/gn-work/raw && git archive origin/photo-raw | tar -x -C /home/claude/gn-work/raw
-echo '{}' > /home/claude/gn-work/focus.json
-$PY /home/claude/gn-work/apply_composites.py /home/claude/gn-work/raw /home/claude/gn-work/focus.json | grep -v "^missing parts"
-$PY /home/claude/gn-work/review_sheet.py final
-```
-Then the covers (system python3, which has rembg):
-```
-cd /home/claude/gandhinews && python3 newsroom/scripts/make_cover.py /home/claude/gn-work/raw
-```
-It makes a 16:9 cover (English and Hindi) for every story with a `cover:` block whose pictures are in. A clean single-person photo is cut out; a group photo or a close-up goes in a white frame using the checked crop; both people in a face-off are treated the same. Read every new public/photos/c-*-en-1280.jpg and c-*-hi-1280.jpg: right person, face clear of the headline, no ghosted or jagged cut-out, headline spelled right and true to the story. A bad cover is never published: fix the `cover:` block and rerun for that id (`make_cover.py <raw> <id>`), or delete the story's `cover` key from content/photos.map.json so it shows its plain picture, and note it in the report.
-
-Read every out*.jpg. If a crop misses the face, add a focus entry `{"story-id": [[fx, fy]]}` (0 to 1 per panel; a third value tightens) and rerun apply_composites. For a logo panel use "fit". If a picture is still wrong, remove the story's entries from content/photos.json and content/photos.map.json and delete its public/photos/v-<id>-*.jpg files.
-
-## 3. Homepage
-Update content/homepage.json (see newsroom/homepage-example.py for a full worked example; write a similar script for this run):
-- lead: the biggest story of the window; set lead.live.title (EN and HI, e.g. "Cyclone Arnab") to the running story's short name, which labels the lead and the red live band. lead.relatedBelow feeds the live band (first item is its picture story); with an overlay kicker/value (EN and HI), a 4-item dataBox (icons from src/icons, colours #cc0000, #8f0000, #0d0d0d, #6e6e6e), relatedBelow (2) and relatedBeside (5).
-- briefing.items: 8 one-line items across sections, EN and HI. Their short leads ("Cyclone:", "Iran:") also become the running-stories strip under the masthead on every page, so keep them short.
-- topStories (big + 2 also + 5 list), startHere (6 explainers), opinion (newest editorials first), sections (politics, economy, states, policy leads/lists), desks (world, science, sports), weekAhead (5 dated items, nearest first, drop past ones).
-Every id must exist; the example script checks this.
-
-## 4. Build, check, publish
-```
-cd /home/claude/gandhinews && npm run -s check:photos && rm -rf node_modules/.astro .astro/data-store.json && npm run build 2>&1 | grep -iE "error|Indexed [0-9]+ pages"
-```
-Must build with no errors. Then the editor's check (RUNBOOK-HOURLY.md step 4b) before any push. If a push is rejected because another run pushed first, `git pull --rebase`; if content/photos.json or content/photos.map.json conflict, keep BOTH sides' entries (merge the JSON, never take one side), then rerun `npm run -s check:photos` before pushing. A lost map entry blanks a story's picture on the live site. Optionally screenshot the homepage with Playwright (Chromium is preinstalled) and Read it. Commit (`git add -A content public/photos scripts`), push. Check the deploy went out: the push triggers Cloudflare; nothing else to do.
-
-## 5. Report
-Send one short message (SendUserMessage) to the user: how many stories, the lead, anything dropped or doubtful, and pictures still missing. Plain words, no em dashes.
+The commit message starts "Hourly HH:00 IST:" or "Long-form morning|evening:", lists the stories, holds and the editor verdict, and ends with the attribution lines. If the pull merged anything, the rebuild after it is the gate on the merged result; a failure there is fixed before pushing.
+Then wait for the deploy: `python3 newsroom/scripts/verify_live.py` (poll every minute for up to 10 minutes until the deploy line clears). If it still fails, fix what it says now; whatever is left goes in the run record for the stall check. Then `npm run -s indexnow -- 2`.
