@@ -18,14 +18,15 @@
     "dataBox": [],
     "relatedBelow": [
       "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest",
-      "ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent"
+      "ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent",
+      "andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead"
     ],
     "relatedBeside": [
-      "supreme-court-24-hour-production-runs-from-detention-not-arrest",
-      "sensex-1553-points-bse-market-cap-500-lakh-crore-10am",
-      "india-japan-asian-champions-trophy-final-mohali-preview",
+      "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears",
+      "mahindra-q2-profit-rises-13-per-cent-revenue-27-suv",
       "us-midterms-schumer-lower-costs-with-or-without-trump",
-      "rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs"
+      "india-japan-asian-champions-trophy-final-mohali-preview",
+      "naveen-patnaik-writes-majhi-kotia-andhra-elections"
     ],
     "live": {
       "title": {
@@ -37,47 +38,47 @@
   "briefing": {
     "items": [
       {
-        "link": "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest",
+        "link": "irb-infrastructure-q2-profit-rises-85-per-cent-260-crore",
         "lead": {
-          "en": "Andhra:",
-          "hi": "आंध्र:"
+          "en": "Companies:",
+          "hi": "कंपनियां:"
         },
         "text": {
-          "en": "YSRCP alleges booth capturing at Dhulipalla in Palnadu; Byreddy Siddharth kept under house arrest",
-          "hi": "वाईएसआरसीपी का आरोप, पलनाडु के धुलिपल्ला में बूथ कब्जा; बायरेड्डी सिद्धार्थ नजरबंद"
+          "en": "IRB Infrastructure Q2 profit nearly doubles to ₹260 crore",
+          "hi": "आईआरबी इन्फ्रास्ट्रक्चर का दूसरी तिमाही में मुनाफा लगभग दोगुना होकर ₹260 करोड़"
         }
       },
       {
-        "link": "supreme-court-24-hour-production-runs-from-detention-not-arrest",
+        "link": "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears",
         "lead": {
           "en": "Courts:",
           "hi": "अदालत:"
         },
         "text": {
-          "en": "Supreme Court: 24-hour clock to produce an accused before a magistrate starts at detention, not formal arrest",
-          "hi": "सुप्रीम कोर्ट: आरोपी को मजिस्ट्रेट के सामने पेश करने की 24 घंटे की मियाद हिरासत से शुरू, औपचारिक गिरफ्तारी से नहीं"
+          "en": "Supreme Court halts criminal contempt case against Punjab Chief Secretary over DA arrears",
+          "hi": "डीए बकाया मामले में पंजाब के मुख्य सचिव के खिलाफ आपराधिक अवमानना पर सुप्रीम कोर्ट की रोक"
         }
       },
       {
-        "link": "cabinet-fast-track-special-courts-2031-850-courts",
+        "link": "mahindra-q2-profit-rises-13-per-cent-revenue-27-suv",
         "lead": {
-          "en": "Cabinet:",
-          "hi": "कैबिनेट:"
+          "en": "Companies:",
+          "hi": "कंपनियां:"
         },
         "text": {
-          "en": "Cabinet extends 850 fast-track special courts to 2031 at a cost of Rs 3,788 crore",
-          "hi": "कैबिनेट ने 850 फास्ट-ट्रैक विशेष अदालतें 2031 तक बढ़ाईं, लागत 3,788 करोड़ रुपये"
+          "en": "Mahindra & Mahindra Q2 profit rises 13% to ₹5,102 crore as revenue jumps 27%",
+          "hi": "महिंद्रा एंड महिंद्रा का दूसरी तिमाही में मुनाफा 13% बढ़कर ₹5,102 करोड़, आय 27% उछली"
         }
       },
       {
-        "link": "sensex-1553-points-bse-market-cap-500-lakh-crore-10am",
+        "link": "supreme-court-sends-azam-khan-ed-arrest-plea-allahabad-hc-november-16",
         "lead": {
-          "en": "Markets:",
-          "hi": "बाजार:"
+          "en": "Courts:",
+          "hi": "अदालत:"
         },
         "text": {
-          "en": "Sensex up 1,553 points by 10 am as BSE market value crosses ₹500 lakh crore",
-          "hi": "सुबह 10 बजे तक सेंसेक्स 1,553 अंक ऊपर, बीएसई का बाजार मूल्य 500 लाख करोड़ रुपये के पार"
+          "en": "Supreme Court sends Azam Khan's plea against ED arrest to Allahabad High Court",
+          "hi": "ईडी की गिरफ्तारी के खिलाफ आजम खान की याचिका सुप्रीम कोर्ट ने इलाहाबाद हाईकोर्ट भेजी"
         }
       },
       {
@@ -89,6 +90,17 @@
         "text": {
           "en": "India chase sixth Asian Champions Trophy title against Japan in Mohali final tonight",
           "hi": "एशियन चैंपियंस ट्रॉफी: छठे खिताब के लिए आज रात मोहाली में जापान से भिड़ेगा भारत"
+        }
+      },
+      {
+        "link": "andhra-mptc-zptc-polling-today-2-81-crore-voters",
+        "lead": {
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
+        },
+        "text": {
+          "en": "Andhra Pradesh votes today for mandal and zilla parishads after a two-day delay",
+          "hi": "आंध्र प्रदेश में आज मंडल और जिला परिषद चुनाव, दो दिन की देरी से हो रहा मतदान"
         }
       },
       {
@@ -111,17 +123,6 @@
         "text": {
           "en": "Schumer says Democrats will drive costs down 'with the president or without him'",
           "hi": "शूमर बोले, डेमोक्रेट्स 'राष्ट्रपति के साथ या उनके बिना' महंगाई घटाएंगे"
-        }
-      },
-      {
-        "link": "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action",
-        "lead": {
-          "en": "Karnataka:",
-          "hi": "कर्नाटक:"
-        },
-        "text": {
-          "en": "Priyank Kharge warns Vijayendra and Narayanaswamy of legal action over remarks on Congress workers",
-          "hi": "प्रियांक खड़गे की विजयेंद्र और नारायणस्वामी को चेतावनी, कांग्रेस कार्यकर्ताओं पर टिप्पणी जारी रही तो कानूनी कार्रवाई"
         }
       }
     ]
@@ -189,17 +190,20 @@
   },
   "topStories": {
     "big": {
-      "id": "alcaraz-beats-michelsen-fils-machac-paris-masters-last-16",
+      "id": "supreme-court-sends-azam-khan-ed-arrest-plea-allahabad-hc-november-16",
       "also": []
     },
     "list": [
-      "naveen-patnaik-writes-majhi-kotia-andhra-elections",
+      "alcaraz-beats-michelsen-fils-machac-paris-masters-last-16",
       "cabinet-energy-storage-vgf-14500-crore-critical-minerals-2814",
-      "siraj-to-join-india-odi-squad-wellington-missed-auckland",
+      "supreme-court-24-hour-production-runs-from-detention-not-arrest",
       "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action",
-      "modi-meet-asian-para-games-contingent-thursday"
+      "irb-infrastructure-q2-profit-rises-85-per-cent-260-crore"
     ],
-    "also": []
+    "also": [
+      "cabinet-fast-track-special-courts-2031-850-courts",
+      "modi-meet-asian-para-games-contingent-thursday"
+    ]
   },
   "startHere": [
     "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
@@ -374,15 +378,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
-        "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action",
-        "cabinet-fast-track-special-courts-2031-850-courts",
-        "jairam-ramesh-vb-g-ram-g-grievance-rules-jumla"
+        "supreme-court-sends-azam-khan-ed-arrest-plea-allahabad-hc-november-16",
+        "supreme-court-24-hour-production-runs-from-detention-not-arrest",
+        "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action"
       ],
-      "lead": "supreme-court-24-hour-production-runs-from-detention-not-arrest"
+      "lead": "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears"
     },
     {
       "section": "economy",
-      "lead": "rupee-opens-29-paise-94-35-fifth-gain-brent-93",
+      "lead": "irb-infrastructure-q2-profit-rises-85-per-cent-260-crore",
       "module": {
         "type": "markets",
         "indicators": [
@@ -393,10 +397,10 @@
         ]
       },
       "list": [
+        "mahindra-q2-profit-rises-13-per-cent-revenue-27-suv",
+        "rupee-opens-29-paise-94-35-fifth-gain-brent-93",
         "sensex-1553-points-bse-market-cap-500-lakh-crore-10am",
-        "sensex-1623-points-pre-open-nifty-24378-brent-below-100",
-        "gift-nifty-gap-up-kospi-circuit-breaker-chips-november-5",
-        "wall-street-dow-1569-best-day-since-april-2025-democrats-congress-oil"
+        "sensex-1623-points-pre-open-nifty-24378-brent-below-100"
       ]
     },
     {
