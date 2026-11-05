@@ -57,10 +57,6 @@ Andhra Pradesh's mandal and zilla parishad elections had drawn **30.50% of voter
 
 The district picture split along the weather. **YSR Kadapa led at 36.35%**, the highest in the state, despite the clashes and petrol bomb attacks reported from its villages in the morning. Visakhapatnam followed with 35.11%, Krishna with 34.85% and Chittoor with 34.26%.
 
-```photo
-{"n":1,"subject":"Kadapa","caption":"YSR Kadapa district, home of opposition leader Y S Jagan Mohan Reddy, recorded the highest turnout at 1 pm.","alt":"Kadapa town in Andhra Pradesh"}
-```
-
 At the other end, **Bapatla trailed at 23.89%**, with Eluru at 26.36% and Konaseema at 27.60%. These coastal districts took the heaviest rain this week, and voters in Kakinada and Eluru complained in the morning of muddy, slippery paths to their booths. Polling has been put off entirely in five mandals of Eluru and East Godavari, and at two stations in another mandal, because of the weather.
 
 Most other districts sat close to the state average, from Srikakulam at 28.40% to Anantapur at 33.98%. Guntur recorded 33.78% and NTR district 33.32%.
@@ -68,9 +64,5 @@ Most other districts sat close to the state average, from Srikakulam at 28.40% t
 ## What is at stake
 
 The vote covers **582 ZPTC and 7,767 MPTC seats**, with 21,012 candidates in the fray: 18,843 for mandal seats and 2,169 for zilla seats. About 2.61 crore people are eligible to vote at 31,460 polling stations, staffed by more than two lakh officials. Another 2,128 seats were decided unopposed before polling day.
-
-```photo
-{"n":2,"subject":"Bapatla","caption":"Bapatla, on the rain-hit coast, had the lowest turnout of any district by 1 pm.","alt":"Bapatla in Andhra Pradesh"}
-```
 
 Polling closes at 5 pm. The commission will release later figures through the afternoon, and the final count of voters will come after booths close. Votes will be counted on 7 November.

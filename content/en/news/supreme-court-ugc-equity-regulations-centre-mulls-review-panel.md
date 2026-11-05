@@ -56,10 +56,6 @@ The Centre told the Supreme Court on Thursday that it is **considering a committ
 
 A bench of Chief Justice of India Surya Kant and Justice Joymalya Bagchi was hearing a clutch of pleas against the UGC (Promotion of Equity in Higher Education Institutions) Regulations, 2026. "Why don't you revisit the UGC Regulations?" the bench asked, adding that it was essential to protect the interest of every student and to make sure the younger generation was looked after.
 
-```photo
-{"n":1,"subject":"Surya Kant","caption":"Chief Justice of India Surya Kant, who led the bench hearing the challenge to the UGC regulations.","alt":"Chief Justice of India Surya Kant"}
-```
-
 Solicitor General Tushar Mehta said the government was examining the issue so that **no section feels dissatisfied** or apprehensive. "The government has taken a decision that every student should be taken care of," he told the court. The bench noted his submission and deferred the hearing.
 
 ## What the rules say
@@ -67,9 +63,5 @@ Solicitor General Tushar Mehta said the government was examining the issue so th
 The regulations were notified on 13 January and apply to every higher education institution in the country. They require colleges and universities to set up **Equal Opportunity Centres and Equity Committees** and to inquire into complaints of discrimination.
 
 The petitioners object that the grievance mechanism leaves out "General Category" students, denying protection to those who are not from the Scheduled Castes, Scheduled Tribes or Other Backward Classes. Earlier this year the Supreme Court **ordered the regulations kept in abeyance** while it heard the challenge.
-
-```photo
-{"n":2,"subject":"University Grants Commission (India)","caption":"The University Grants Commission, which framed the equity regulations now under challenge.","alt":"University Grants Commission headquarters, New Delhi"}
-```
 
 A review committee, if the government sets one up, would give the Centre a way to rework the rules before the court rules on them.

@@ -60,10 +60,6 @@ The Supreme Court on Thursday **refused to move the trial** in the Tirupati ladd
 
 A bench of Chief Justice of India Surya Kant and Justice Joymalya Bagchi was hearing a criminal transfer petition filed by Machindra Shantaram Lanke and M/s Malganga Milk and Agro Products. "We are not inclined to transfer the trial. Dismissed," the bench said.
 
-```photo
-{"n":1,"subject":"Tirupati laddu","caption":"The Tirupati laddu, the temple offering at the centre of the ghee adulteration case.","alt":"Tirupati laddu prasadam"}
-```
-
 Senior advocate Siddharth Dave, for the petitioners, asked for the trial to be shifted to a neighbouring state. He argued that **statements by Chief Minister Chandrababu Naidu** and Deputy Chief Minister Pawan Kalyan had created a hostile environment and undermined fair prosecution. Most of the accused, he said, were from north India, and a forensic report had ruled out animal fat in the ghee.
 
 The bench was not persuaded. It said **no case was made out** for shifting the proceedings at this stage, pointing out that "there are a number of witnesses who are from the state" and that the investigation had been carried out by a special investigation team the Supreme Court itself had set up. The court had already "silenced them all with our order", it observed, and said the petitioners could return if a similar problem arose.
