@@ -9,13 +9,15 @@ Rules checked, mechanically:
     stale 2 hours after that clock time
   markets band: while the market is open its figures are under 2 hours old
   the site moves: between 8 am and midnight the newest news story is under 3 hours old
+  headlines change every hour: nothing in the headlines was in the previous hour's headlines (git), unless marked
+    critical and updated since
 Exit 0: all rules hold. Exit 1: problems to fix before publishing. Exit 2: only rule breaches that cannot be fixed
 this run (an infographic lead when no fresh story has a photo, no new story in 3 hours): publish, they go in the run record.
 Usage: python3 newsroom/scripts/check_fresh.py   (run from the repo root)"""
 import json, glob, yaml, sys, os, re, datetime as dt
 from collections import Counter
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from gnrules import MKT, words, stale_clock, is_markets, same_subject
+from gnrules import MKT, words, stale_clock, is_markets, same_subject, headline_ids, prev_hour_homepage
 
 IST = dt.timezone(dt.timedelta(hours=5, minutes=30))
 now = dt.datetime.now(IST)
@@ -33,7 +35,7 @@ h = json.load(open('content/homepage.json'))
 bad, warn, soft = [], [], []
 flag = lambda what, i, n=0: bad.append((what, i, n))
 
-SKIP = {'overlay', 'text', 'kicker', 'value', 'title', 'label', 'indicator', 'icon', 'tracker', 'topic', 'type', 'kn', 'numbers', 'dataDesk', 'trackers', 'live', 'dataBox', 'indicators', 'section', 'map', 'parliament'}
+SKIP = {'overlay', 'text', 'kicker', 'value', 'title', 'label', 'indicator', 'icon', 'tracker', 'topic', 'type', 'kn', 'numbers', 'dataDesk', 'trackers', 'live', 'dataBox', 'indicators', 'section', 'map', 'parliament', 'headlineHistory', 'critical'}
 def ids(x, strict=False):
     """Every story id referenced in x. Strings that look like ids but are not published are reported."""
     if isinstance(x, str):
@@ -98,6 +100,20 @@ if lead:
     for lang in ('en', 'hi'):
         when = P[lead].get('updated') or P[lead]['published']
         for part in ('value', 'text'): clock_check(lead, f'{lang} lead overlay', str((ov.get(part) or {}).get(lang, '')), lang, when)
+
+# The owner's first homepage rule: every headline changes every hour. Compared with main's homepage of the previous
+# hour (from git, not from anything this run wrote). A story marked critical in homepage.json may stay only if it was
+# updated after that homepage went up; a new development story (its own id) is a new headline.
+pt, ph = prev_hour_homepage(now)
+if ph:
+    crit = set(h.get('critical') or [])
+    for i in set(headline_ids(h)) & set(headline_ids(ph)):
+        if i not in P: continue
+        u = P[i].get('updated')
+        if i in crit and u and u > pt: continue
+        flag(f'already in the headlines at {pt:%H:%M}: every headline changes every hour (run refresh_home.py; critical news only as an update with --critical)', i)
+
+if len(h.get('weekAhead') or []) < 2: flag('the week ahead band has fewer than 2 items (refresh_home.py builds it; add `upcoming:` blocks to previews)', 'weekAhead')
 
 mk_open = now.weekday() < 5 and (9, 15) <= (now.hour, now.minute) <= (15, 30)
 try:

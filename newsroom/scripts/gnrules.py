@@ -66,3 +66,21 @@ def same_subject(a, b, fa=None, fb=None):
     if len(words(a) & words(b)) >= 2: return True
     fa, fb = fa or {}, fb or {}
     return bool(set(fa.get('topics') or []) & set(fb.get('topics') or [])) and fa.get('section') == fb.get('section')
+def headline_ids(h):
+    """Every story id in the headlines of a homepage.json: lead, live band, beside the lead, top stories, briefing."""
+    L = h.get('lead') or {}; ts = h.get('topStories') or {}
+    ids = [L.get('id')] + list(L.get('relatedBelow') or []) + list(L.get('relatedBeside') or []) + [(ts.get('big') or {}).get('id')] + list(ts.get('list') or []) + list(ts.get('also') or []) + [i.get('link') for i in (h.get('briefing') or {}).get('items') or []]
+    return [i for i in dict.fromkeys(ids) if i]
+def prev_hour_homepage(now, root='.', minutes=40):
+    """(time, homepage dict) of main's homepage.json as it was in the newest commit at least `minutes` old, read from git,
+    so the check does not depend on what a run wrote into homepage.json."""
+    import subprocess as sp
+    log = sp.run(['git', '-C', root, 'log', '-40', '--format=%H %ct', 'origin/main', '--', 'content/homepage.json'], capture_output=True, text=True).stdout.split('\n')
+    for l in log:
+        if not l.strip(): continue
+        sha, ct = l.split()
+        t = _dt.datetime.fromtimestamp(int(ct), now.tzinfo)
+        if (now - t).total_seconds() >= minutes * 60:
+            try: return t, _json.loads(sp.run(['git', '-C', root, 'show', f'{sha}:content/homepage.json'], capture_output=True, text=True).stdout)
+            except ValueError: return None, None
+    return None, None

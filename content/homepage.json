@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7",
+    "id": "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8",
     "overlay": {
       "kicker": {
-        "en": "States / Andhra Pradesh",
-        "hi": "राज्य / आंध्र प्रदेश"
+        "en": "Economy / Companies",
+        "hi": "अर्थव्यवस्था / कंपनियां"
       },
       "value": {
-        "en": "65% to 68% estimated, count on Nov 7",
-        "hi": "65% से 68% का अनुमान, गिनती 7 नवंबर"
+        "en": "Profit up 57% to ₹15,489 crore",
+        "hi": "मुनाफ़ा 57% बढ़कर ₹15,489 करोड़"
       },
       "text": {
         "en": "",
@@ -16,17 +16,13 @@
       }
     },
     "dataBox": [],
-    "relatedBelow": [
-      "andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri",
-      "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
-      "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest"
-    ],
+    "relatedBelow": [],
     "relatedBeside": [
-      "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears",
-      "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
-      "fii-buy-14975-crore-november-5-dii-sell-10445",
-      "jagan-parishad-polls-selections-naidu-hijacked",
-      "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore"
+      "glenmark-pharma-q2-profit-falls-57-per-cent-264-crore",
+      "titan-q2-standalone-profit-doubles-2393-crore",
+      "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
+      "supreme-court-sends-azam-khan-ed-arrest-plea-allahabad-hc-november-16",
+      "ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent"
     ],
     "live": {
       "title": {
@@ -38,91 +34,91 @@
   "briefing": {
     "items": [
       {
-        "link": "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears",
-        "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
-        },
-        "text": {
-          "en": "Supreme Court halts contempt case against Punjab Chief Secretary, asks for DA payment plan",
-          "hi": "पंजाब के मुख्य सचिव पर अवमानना केस रुका, सुप्रीम कोर्ट ने डीए भुगतान की योजना मांगी"
-        }
-      },
-      {
-        "link": "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
-        "lead": {
-          "en": "Tamil Nadu:",
-          "hi": "तमिलनाडु:"
-        },
-        "text": {
-          "en": "Bodies of missing Kasimedu fishermen found on Andhra coast, Vijay announces ₹7 lakh aid",
-          "hi": "लापता कासिमेडु मछुआरों के शव आंध्र तट पर मिले, विजय ने ₹7 लाख मदद का ऐलान किया"
-        }
-      },
-      {
-        "link": "fii-buy-14975-crore-november-5-dii-sell-10445",
-        "lead": {
-          "en": "Markets:",
-          "hi": "बाज़ार:"
-        },
-        "text": {
-          "en": "Foreign investors buy ₹14,975 crore of Indian shares on Sensex's 2,009-point day",
-          "hi": "सेंसेक्स की 2,009 अंकों की छलांग वाले दिन विदेशी निवेशकों ने ₹14,975 करोड़ के शेयर खरीदे"
-        }
-      },
-      {
-        "link": "jagan-parishad-polls-selections-naidu-hijacked",
-        "lead": {
-          "en": "Andhra Pradesh:",
-          "hi": "आंध्र प्रदेश:"
-        },
-        "text": {
-          "en": "Jagan says parishad polls were 'neither free nor fair', accuses Naidu government of hijacking vote",
-          "hi": "जगन बोले, परिषद चुनाव 'न स्वतंत्र थे न निष्पक्ष'; नायडू सरकार पर चुनाव हथियाने का आरोप"
-        }
-      },
-      {
-        "link": "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
+        "link": "glenmark-pharma-q2-profit-falls-57-per-cent-264-crore",
         "lead": {
           "en": "Companies:",
           "hi": "कंपनियां:"
         },
         "text": {
-          "en": "Fortis Healthcare's Q2 revenue rises 17% to ₹2,735 crore, profit steady at ₹320 crore",
-          "hi": "फ़ोर्टिस हेल्थकेयर की दूसरी तिमाही की आय 17% बढ़कर ₹2,735 करोड़, मुनाफ़ा ₹320 करोड़ पर स्थिर"
+          "en": "Glenmark Pharma's Q2 profit falls 57% to ₹264 crore as revenue drops 30%",
+          "hi": "ग्लेनमार्क फार्मा का दूसरी तिमाही का मुनाफा 57% घटकर ₹264 करोड़, आय 30% गिरी"
         }
       },
       {
-        "link": "modi-meets-asian-para-games-medallists-delhi",
+        "link": "titan-q2-standalone-profit-doubles-2393-crore",
         "lead": {
-          "en": "Para sport:",
-          "hi": "पैरा खेल:"
+          "en": "Companies:",
+          "hi": "कंपनियां:"
         },
         "text": {
-          "en": "Modi tells record Asian Para Games team they 'filled the entire nation with immense pride'",
-          "hi": "रिकॉर्ड पैरा दल से मोदी बोले, 'आपने पूरे देश को गर्व से भर दिया'"
+          "en": "Titan's Q2 standalone profit more than doubles to ₹2,393 crore",
+          "hi": "टाइटन का दूसरी तिमाही का स्टैंडअलोन मुनाफ़ा दोगुने से ज़्यादा, ₹2,393 करोड़"
         }
       },
       {
-        "link": "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
+        "link": "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
         "lead": {
           "en": "Courts:",
           "hi": "अदालत:"
         },
         "text": {
-          "en": "Centre tells Supreme Court it may set up panel to revisit UGC caste discrimination rules",
-          "hi": "यूजीसी के जातिगत भेदभाव नियमों की समीक्षा के लिए समिति बना सकती है सरकार, केंद्र ने सुप्रीम कोर्ट से कहा"
+          "en": "Supreme Court refuses to move Tirupati laddu ghee trial out of Andhra Pradesh",
+          "hi": "तिरुपति लड्डू घी मामले का मुकदमा आंध्र से बाहर नहीं जाएगा, सुप्रीम कोर्ट ने याचिका खारिज की"
         }
       },
       {
-        "link": "india-japan-asian-champions-trophy-final-mohali-preview",
+        "link": "supreme-court-sends-azam-khan-ed-arrest-plea-allahabad-hc-november-16",
         "lead": {
-          "en": "Hockey:",
-          "hi": "हॉकी:"
+          "en": "Courts:",
+          "hi": "अदालत:"
         },
         "text": {
-          "en": "India chase sixth Asian Champions Trophy title against Japan in Mohali final tonight",
-          "hi": "एशियन चैंपियंस ट्रॉफी: छठे खिताब के लिए आज रात मोहाली में जापान से भिड़ेगा भारत"
+          "en": "Supreme Court sends Azam Khan's plea against ED arrest to Allahabad High Court",
+          "hi": "ईडी की गिरफ्तारी के खिलाफ आजम खान की याचिका सुप्रीम कोर्ट ने इलाहाबाद हाईकोर्ट भेजी"
+        }
+      },
+      {
+        "link": "ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent",
+        "lead": {
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
+        },
+        "text": {
+          "en": "YSRCP alleges agents blocked and voters stopped in Pulivendula as Palnadu logs 12% in the first two hours",
+          "hi": "वाईएसआरसीपी का आरोप, पुलिवेंदुला में एजेंट रोके गए और मतदाता लौटाए गए; पलनाडु में पहले दो घंटों में 12% मतदान"
+        }
+      },
+      {
+        "link": "andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous",
+        "lead": {
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
+        },
+        "text": {
+          "en": "Andhra parishad polls: 7,767 MPTC and 582 ZPTC seats in contest after 2,128 go unopposed",
+          "hi": "आंध्र परिषद चुनाव: 2,128 सीटें निर्विरोध, अब 7,767 एमपीटीसी और 582 जेडपीटीसी सीटों पर मुकाबला"
+        }
+      },
+      {
+        "link": "ugc-equity-rules-revise-them-do-not-bury-them",
+        "lead": {
+          "en": "Editorial:",
+          "hi": "संपादकीय:"
+        },
+        "text": {
+          "en": "Fix the UGC's caste discrimination rules if they must be fixed. Do not let a committee bury them",
+          "hi": "यूजीसी के जातिगत भेदभाव विरोधी नियम सुधारने हों तो सुधारें, पर किसी समिति में दफ़न न होने दें"
+        }
+      },
+      {
+        "link": "24-hour-rule-explained-article-22-detention-arrest",
+        "lead": {
+          "en": "Law:",
+          "hi": "कानून:"
+        },
+        "text": {
+          "en": "The 24-hour rule explained: why the Supreme Court says the clock starts at detention",
+          "hi": "24 घंटे का नियम: सुप्रीम कोर्ट क्यों कहता है कि घड़ी हिरासत से चलती है"
         }
       }
     ]
@@ -190,19 +186,19 @@
   },
   "topStories": {
     "big": {
-      "id": "modi-meets-asian-para-games-medallists-delhi",
+      "id": "andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous",
       "also": []
     },
     "list": [
-      "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
-      "india-japan-asian-champions-trophy-final-mohali-preview",
-      "alcaraz-beats-michelsen-fils-machac-paris-masters-last-16",
-      "como-nine-at-lens-city-arsenal-win-champions-league",
-      "fenerbahce-3-2-liverpool-muriqi-valverde-real-madrid-aek"
+      "ugc-equity-rules-revise-them-do-not-bury-them",
+      "24-hour-rule-explained-article-22-detention-arrest",
+      "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
+      "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
+      "fast-track-special-courts-explained-rape-pocso-backlog"
     ],
     "also": [
-      "us-midterms-schumer-lower-costs-with-or-without-trump",
-      "hijikata-stuns-djokovic-paris-masters-turin-hopes-end"
+      "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
+      "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth"
     ]
   },
   "startHere": [
@@ -466,5 +462,67 @@
       ]
     }
   ],
-  "weekAhead": []
+  "weekAhead": [
+    {
+      "icon": "bank",
+      "date": {
+        "en": "Tomorrow",
+        "hi": "कल"
+      },
+      "text": {
+        "en": "RBI's weekly forex reserves figures",
+        "hi": "आरबीआई के साप्ताहिक विदेशी मुद्रा भंडार के आंकड़े"
+      }
+    },
+    {
+      "icon": "calendar-check",
+      "date": {
+        "en": "Nov 7",
+        "hi": "7 नवंबर"
+      },
+      "text": {
+        "en": "Counting: Andhra Pradesh Mandal and Zilla Parishad (MPTC and ZPTC) elections",
+        "hi": "मतगणना: आंध्र प्रदेश मंडल और जिला परिषद (एमपीटीसी और जेडपीटीसी) चुनाव"
+      }
+    },
+    {
+      "icon": "calendar-check",
+      "date": {
+        "en": "Nov 12",
+        "hi": "12 नवंबर"
+      },
+      "text": {
+        "en": "Polling and counting: Rajya Sabha bypoll, Madhya Pradesh",
+        "hi": "मतदान और मतगणना: राज्यसभा उपचुनाव, मध्य प्रदेश"
+      }
+    },
+    {
+      "icon": "chart-line",
+      "date": {
+        "en": "Nov 12",
+        "hi": "12 नवंबर"
+      },
+      "text": {
+        "en": "Retail inflation (CPI) for October, 4 pm",
+        "hi": "अक्टूबर की खुदरा महंगाई (सीपीआई), शाम 4 बजे"
+      }
+    }
+  ],
+  "headlineHistory": [
+    {
+      "at": "2026-11-05T22:47:11+05:30",
+      "ids": [
+        "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8",
+        "glenmark-pharma-q2-profit-falls-57-per-cent-264-crore",
+        "titan-q2-standalone-profit-doubles-2393-crore",
+        "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
+        "supreme-court-sends-azam-khan-ed-arrest-plea-allahabad-hc-november-16",
+        "ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent",
+        "andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous",
+        "ugc-equity-rules-revise-them-do-not-bury-them",
+        "24-hour-rule-explained-article-22-detention-arrest"
+      ]
+    }
+  ],
+  "critical": []
 }

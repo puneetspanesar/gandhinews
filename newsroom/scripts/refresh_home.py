@@ -5,6 +5,14 @@ Usage (repo root):
                                                            the newest fresh non-markets news story with a real photo takes over
   python3 newsroom/scripts/refresh_home.py --lead <id>     make <id> the lead (overlay from its hero, data box cleared)
   python3 newsroom/scripts/refresh_home.py --pin <id> ...  put these ids first in the headlines (BIG STORIES)
+  python3 newsroom/scripts/refresh_home.py --critical <id> ...  a nation- or world-changing story that may stay in the
+                                                           headlines another hour, ONLY if it was updated (`updated:`) since
+                                                           the last hour's homepage; otherwise write the development as a new story
+
+THE OWNER'S FIRST HOMEPAGE RULE: every headline changes every hour. The lead and every story in the headlines (beside the
+lead, top stories, briefing, live band) must be different from the homepage of the previous hour (the newest one at
+least 40 minutes old, kept in homepage.json headlineHistory and checked independently by check_fresh.py from git).
+A new story on the same running subject (a development, with its own id) is a new headline and is fine.
 
 What it does, mechanically, with the owner's balance rules:
   headlines (beside the lead, top stories, briefing): pictured news from the last 24 hours, newest first,
@@ -16,11 +24,11 @@ Then run check_fresh.py and the build as usual.
 import json, glob, re, sys, argparse, datetime as dt
 import yaml, os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from gnrules import MKT, words, stale_clock, is_markets, same_subject
+from gnrules import MKT, words, stale_clock, is_markets, same_subject, headline_ids, prev_hour_homepage
 
 IST = dt.timezone(dt.timedelta(hours=5, minutes=30))
 now = dt.datetime.now(IST)
-ap = argparse.ArgumentParser(); ap.add_argument('--lead'); ap.add_argument('--pin', nargs='*', default=[])
+ap = argparse.ArgumentParser(); ap.add_argument('--lead'); ap.add_argument('--pin', nargs='*', default=[]); ap.add_argument('--critical', nargs='*', default=[])
 a = ap.parse_args()
 import os as _o
 if sys.argv[1:]: open((_o.environ.get('GN_WORK') or '/home/claude/gn-work/') + 'home_args', 'w').write(' '.join(sys.argv[1:]))  # publish.sh re-applies these after a merge
@@ -54,6 +62,22 @@ h = json.load(open('content/homepage.json'))
 L = h['lead']
 _pending_lead = False
 
+# ---- the previous hour's headlines: nothing in them may appear in this hour's headlines (critical + updated excepted)
+hist = h.setdefault('headlineHistory', [])
+_at = lambda e: dt.datetime.fromisoformat(e['at'])
+prev = next((e for e in reversed(hist) if (now - _at(e)).total_seconds() >= 40 * 60), None)
+_gt, _gh = prev_hour_homepage(now)
+if _gh and (not prev or _gt > _at(prev)): prev = {'at': _gt.isoformat(timespec='seconds'), 'ids': headline_ids(_gh)}   # main's own history wins
+blocked = set(prev['ids']) if prev else set()
+def upd(i):
+    t = A[i].get('updated')
+    return (t if t.tzinfo else t.replace(tzinfo=IST)) if isinstance(t, dt.datetime) else None
+def allowed(i):
+    if i not in blocked: return True
+    return i in a.critical and upd(i) is not None and upd(i) > _at(prev)
+for i in a.critical:
+    if i in blocked and not allowed(i): print(f'{i}: --critical needs an update since {_at(prev):%H:%M} (set `updated:` and add the new facts), or a new development story')
+
 # ---- lead
 if a.lead:
     assert ok(a.lead), f'{a.lead}: not published, or no picture, or no Hindi twin'
@@ -67,17 +91,20 @@ def set_lead(i):
     L['overlay'] = {'kicker': {'en': A[i].get('format_label', ''), 'hi': HI[i].get('format_label', '')},
                     'value': {'en': ov(A[i]), 'hi': ov(HI[i])}, 'text': {'en': '', 'hi': ''}}
     L['dataBox'] = []; L['relatedBelow'] = []
-if _pending_lead: set_lead(a.lead)
+if _pending_lead:
+    if not allowed(a.lead): sys.exit(f'{a.lead} led or was in the headlines at {_at(prev):%H:%M}: headlines change every hour (update it and pass --critical, or lead with a new story)')
+    set_lead(a.lead)
 lead = L['id']
-fresh_photo = lambda d: d['type'] == 'news' and (now - d['_t']).total_seconds() < 8 * 3600 and not is_markets(d['id'], d) and not PIC[d['id']].get('graphic') and not clocked(d['id'])
-bad = (not ok(lead)) and 'held or unpublished' or (is_markets(lead, A.get(lead)) and 'a markets story') or (clocked(lead) and 'pinned to a stale clock figure') or (A[lead]['type'] == 'news' and age(lead) > 8 and f'{age(lead):.0f} hours old')
+fresh_photo = lambda d: d['type'] == 'news' and (now - d['_t']).total_seconds() < 7 * 3600  # 7, so it is still under 8 an hour later and not is_markets(d['id'], d) and not PIC[d['id']].get('graphic') and not clocked(d['id'])
+bad = (not ok(lead)) and 'held or unpublished' or (not allowed(lead) and not a.lead and f'already in the headlines at {_at(prev):%H:%M}') or (is_markets(lead, A.get(lead)) and 'a markets story') or (clocked(lead) and 'pinned to a stale clock figure') or (A[lead]['type'] == 'news' and age(lead) > 8 and f'{age(lead):.0f} hours old')
 if not bad and not a.lead and PIC.get(lead, {}).get('graphic'):
     # Rule 13: the lead has a real photo. Swap to the newest fresh story of the SAME running story that has one.
-    same = [i for i in newest(fresh_photo) if i != lead and (len(words(i) & words(lead)) >= 2 or (set(A[i].get('topics') or []) & set(A[lead].get('topics') or []) and A[i]['section'] == A[lead]['section']))]
+    same = [i for i in newest(fresh_photo) if i != lead and allowed(i) and (len(words(i) & words(lead)) >= 2 or (set(A[i].get('topics') or []) & set(A[lead].get('topics') or []) and A[i]['section'] == A[lead]['section']))]
     if same: print(f'lead {lead} is an infographic; {same[0]} (same story, real photo) leads instead'); set_lead(same[0]); lead = same[0]
 if bad and not a.lead:
     # Owner's rule: the lead is under 8 hours old and never a markets story. Pick the replacement mechanically.
-    cand = newest(fresh_photo)
+    PRIO = {'politics': 0, 'national': 0, 'states': 0, 'india': 0, 'world': 1, 'sports': 2, 'science': 2, 'tech': 2, 'economy': 3}
+    cand = sorted([i for i in newest(fresh_photo) if allowed(i)], key=lambda i: (PRIO.get(A[i].get('section'), 1), -A[i]['_t'].timestamp())) or [i for i in newest(lambda d: d['type'] == 'news' and (now - d['_t']).total_seconds() < 7 * 3600 and not is_markets(d['id'], d) and not clocked(d['id'])) if allowed(i)]
     if cand:
         print(f'lead {lead} replaced ({bad}) by {cand[0]}'); set_lead(cand[0]); lead = cand[0]
     else:
@@ -86,20 +113,22 @@ if bad and not a.lead:
 
 # ---- live band: still-fresh items, topped up with the newest stories sharing a topic or subject words with the lead
 lt, lw = set(A[lead].get('topics') or []), words(lead)
-rel = [i for i in (L.get('relatedBelow') or []) if ok(i) and not is_markets(i, A.get(i)) and not clocked(i) and (A[i]['type'] != 'news' or age(i) <= 24)]
+rel = [i for i in (L.get('relatedBelow') or []) if ok(i) and allowed(i) and not is_markets(i, A.get(i)) and not clocked(i) and (A[i]['type'] != 'news' or age(i) <= 24)]
 for i in newest(lambda d: d['id'] != lead and (d['type'] != 'news' or (now - d['_t']).total_seconds() < 86400)):
     if len(rel) >= 3: break
-    if i in rel or is_markets(i, A.get(i)) or clocked(i): continue
+    if i in rel or is_markets(i, A.get(i)) or clocked(i) or not allowed(i): continue
     if len(lw & words(i)) >= 2 or (lt & set(A[i].get('topics') or []) and A[i]['section'] == A[lead]['section']): rel.append(i)
 L['relatedBelow'] = rel[:3]
 
 # ---- headlines
 pool = [i for i in a.pin if ok(i) and age(i) < 24] + newest(lambda d: d['type'] == 'news' and (now - d['_t']).total_seconds() < 86400)
+# Explainers, editorials and fact checks of the last 48 hours fill what news cannot, so every headline slot changes every hour
+pool += newest(lambda d: d['type'] in ('explainer', 'editorial', 'factcheck') and (now - d['_t']).total_seconds() < 48 * 3600)
 taken, secs, mk, used_words = [], {}, 0, set(words(lead))
 for i in pool:
-    if i == lead or i in taken or i in rel or clocked(i): continue
+    if i == lead or i in taken or i in rel or clocked(i) or not allowed(i): continue
     if is_markets(i, A.get(i)) and mk >= 1: continue
-    s = A[i]['section']
+    s = A[i].get('section') or A[i]['type']
     if len(taken) < 8 and secs.get(s, 0) >= 2: continue
     if len(words(i) & used_words) >= 2 or (taken and same_subject(i, taken[-1], A.get(i), A.get(taken[-1]))) or (not taken and same_subject(i, lead, A.get(i), A.get(lead))): continue
     taken.append(i); secs[s] = secs.get(s, 0) + 1; used_words |= words(i); mk += bool(is_markets(i, A.get(i)))
@@ -127,8 +156,21 @@ for key, typ in (('startHere', 'explainer'), ('opinion', 'editorial')):
     fresh = newest(lambda d, t=typ: d['type'] == t)
     if fresh: h[key] = fresh[:n]
 
+# ---- the week ahead: built from dated sources every refresh, never hand-kept (week_ahead.py)
+import week_ahead
+h['weekAhead'] = week_ahead.build(now)
+if len(h['weekAhead']) < 3: print(f"WARNING: only {len(h['weekAhead'])} dated items for the week ahead: add an `upcoming:` block to previews")
+
+# ---- remember this hour's headlines (a re-run inside the same hour replaces its own entry)
+entry = {'at': now.isoformat(timespec='seconds'), 'ids': [lead] + rel[:3] + taken[:8]}
+if hist and (now - _at(hist[-1])).total_seconds() < 40 * 60: hist[-1] = entry
+else: hist.append(entry)
+h['headlineHistory'] = hist[-8:]
+h['critical'] = [i for i in a.critical if allowed(i)]
+if len(taken) < 8: print(f'WARNING: only {len(taken)} fresh headlines not shown last hour: publish more stories this run')
+
 json.dump(h, open('content/homepage.json', 'w'), ensure_ascii=False, indent=2)
 open('content/homepage.json', 'a').write('\n')
 print('lead:', lead, f'({age(lead):.0f}h)')
 print('live band:', rel[:3])
-for n, i in enumerate(taken[:8], 1): print(f'  {n}. [{A[i]["section"]}] {age(i):.0f}h {i}')
+for n, i in enumerate(taken[:12], 1): print(f'  {n}. [{A[i].get("section") or A[i]["type"]}] {age(i):.0f}h {i}')
