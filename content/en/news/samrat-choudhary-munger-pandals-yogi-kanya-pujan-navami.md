@@ -48,11 +48,11 @@ verification:
 
 Chief ministers across India spent Navami, the ninth night of Navratri, at temples and puja pandals on Monday, as the country headed into Vijayadashami on Tuesday.
 
-In Bihar, Chief Minister Samrat Choudhary toured several Durga Puja pandals in Munger and offered prayers, after performing Kanya Pujan, the ritual worship of young girls as forms of the goddess, at his official residence, Lok Sevak Awas, in Patna. "I pray to the Maa that Bihar may progress even further," he said, adding that he had sought the goddess's blessing for the state's prosperity and for a developed India.
+Bihar Chief Minister Samrat Choudhary toured several Durga Puja pandals in Munger and offered prayers, after performing Kanya Pujan, the ritual worship of young girls as forms of the goddess, at his official residence, Lok Sevak Awas, in Patna. "I pray to the Maa that Bihar may progress even further," he said, adding that he had sought the goddess's blessing for the state's prosperity and for a developed India.
 
-In Gorakhpur, Uttar Pradesh Chief Minister Yogi Adityanath performed Kanya Pujan at the Gorakhnath temple, where he is the head priest, washing the feet of the girls and offering them clothes, prasad and dakshina. He asked people to celebrate Vijayadashami with care, saying "safety must not be overlooked in the festive atmosphere", a message that carried extra weight after the crush at a Kolkata pandal and the truck crash outside a Gwalior temple over the weekend.
+Uttar Pradesh Chief Minister Yogi Adityanath performed Kanya Pujan at the Gorakhnath temple in Gorakhpur, where he is the head priest, washing the feet of the girls and offering them clothes, prasad and dakshina. He asked people to celebrate Vijayadashami with care, saying "safety must not be overlooked in the festive atmosphere", a message that carried extra weight after the crush at a Kolkata pandal and the truck crash outside a Gwalior temple over the weekend.
 
-In Ahmedabad, Gujarat Chief Minister Bhupendra Patel joined the aarti at the 89th Kalibari Durga Puja Mahotsav on Sindhu Bhavan Road, organised by the Bengal Cultural Association, and greeted the city's Bengali community. His office said he "prayed for the happiness, peace, and prosperity of the people of the state."
+Gujarat Chief Minister Bhupendra Patel joined the aarti in Ahmedabad at the 89th Kalibari Durga Puja Mahotsav on Sindhu Bhavan Road, organised by the Bengal Cultural Association, and greeted the city's Bengali community. His office said he "prayed for the happiness, peace, and prosperity of the people of the state."
 
 In Bengaluru, Governor Sudha Yadav marked Ayudha Puja at Lok Bhavan. "Vijaya Dashami is not merely a festival; it is an auspicious occasion that reminds us to follow the path of truth," she said.
 

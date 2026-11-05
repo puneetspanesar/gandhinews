@@ -21,7 +21,7 @@ hero:
     value: "India and UAE, ten years of adapting"
 related: [india-condemns-houthi-attacks-saudi-airports-riyadh, hyderabad-man-killed-riyadh-airport-strike-envoy-attends-funeral, houthis-strike-aramco-building-dhahran-coalition-hits-sanaa, iran-security-chief-rezaei-calls-doval-gulf-attacks]
 seo:
-  description: "S Jaishankar met UAE Foreign Minister Abdullah bin Zayed in Abu Dhabi and spoke at the Raisina Middle East forum on a fast-changing global order amid Gulf attacks."
+  description: "S Jaishankar met UAE Foreign Minister Abdullah bin Zayed in Abu Dhabi and spoke at the Raisina Middle East forum on a fast-changing global order as attacks continue in the Gulf."
 sources:
   - title: "EAM Jaishankar meets UAE Deputy PM Al-Nahyan, discusses bilateral and global issues"
     publisher: "The Tribune (ANI)"

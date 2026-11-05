@@ -50,6 +50,6 @@ A survey the charity ran with the Institute for Peruvian Studies, a Lima think t
 
 "Economic inequality in Peru has remained stubbornly high for decades," said Alejandra Alayza, Oxfam's executive director in Peru. Many people had come to accept it, she suggested, calling that "a dangerous kind of fatalism, and we must tear it down." "Inequality is not a force of nature; it is made by political choices," she said.
 
-The findings land in a country worn down by political churn. Peru has had nine presidents in the past ten years, amid investigations, scandals and impeachments under a constitutional clause that lets Congress remove a president for "moral incapacity". Right-wing President Keiko Fujimori was sworn in in July after a narrow election marked by voting delays and bitter recriminations.
+The findings land in a country worn down by political churn. Peru has had nine presidents in the past ten years, through investigations, scandals and impeachments under a constitutional clause that lets Congress remove a president for "moral incapacity". Right-wing President Keiko Fujimori was sworn in in July after a narrow election marked by voting delays and bitter recriminations.
 
 Will Freeman, a fellow at the Council on Foreign Relations in the United States, described a narrow political, criminal and business elite that keeps its grip on power even as presidents come and go. Freedom House, which downgraded Peru from "free" to "partly free" in 2023, said in its 2026 report that "high-profile corruption scandals have eroded public trust in government."

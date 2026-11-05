@@ -84,7 +84,7 @@ The group has told airlines to keep out of Saudi airspace, calling any aircraft 
 
 ## Why now?
 
-**A 2022 truce between Saudi Arabia and the Houthis broke down this summer, and the fighting has escalated since.** After the truce fell apart, the Houthis seized the Bab el-Mandeb, the narrow strait at the mouth of the Red Sea, from Saudi-backed government forces. The fighting in Yemen has flared again in the wake of the US-Israeli war on Iran that began in February.
+**A 2022 truce between Saudi Arabia and the Houthis broke down this summer, and the fighting has escalated since.** After the truce fell apart, the Houthis seized the Bab el-Mandeb, the narrow strait at the mouth of the Red Sea, from Saudi-backed government forces. The fighting in Yemen has flared again since the US-Israeli war on Iran that began in February.
 
 The Houthis say the airport strikes are retaliation for Saudi attacks on the airports in Sanaa and Hodeidah. Saudi Arabia and Yemen's government have carried out hundreds of strikes on Houthi-held territory, and the Houthis say these have killed civilians. Saudi Arabia first entered Yemen's war in 2015 to drive the Houthis out of Sanaa.
 

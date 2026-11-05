@@ -48,4 +48,4 @@ The projects span automobiles, textiles, plastics, paper, chemicals, ceramics an
 
 ## What the units get
 
-Units that qualify receive assistance against the net state GST they pay, interest subsidies and reimbursement of Employees' Provident Fund payments. The committee's approval paves the way for that assistance to be released to the 25 units.
+Units that qualify receive assistance against the net state GST they pay, interest subsidies and reimbursement of Employees' Provident Fund payments. The committee's approval clears that assistance for release to the 25 units.

@@ -22,7 +22,7 @@ hero:
     value: "Kick-off January 7, or 2028?"
 related: [six-kings-slam-postponed-december-riyadh, saudi-houthi-war-crimes-us-tightens-iran-sanctions, why-riyadh-airport-is-shut-houthi-saudi-strikes-explained]
 seo:
-  description: "Saudi organisers say the 2027 AFC Asian Cup is on schedule for January 7, but AFC president Sheikh Salman says it could move to 2028 amid Houthi attacks."
+  description: "Saudi organisers say the 2027 AFC Asian Cup is on schedule for January 7, but AFC president Sheikh Salman says it could move to 2028 because of Houthi attacks."
 sources:
   - title: "Trump says ground troops unlikely in Iran; Saudi downs drone (Al Jazeera live blog, mirrored)"
     publisher: "Al Jazeera via KpNews"

@@ -53,7 +53,7 @@ verification:
     - "Seat, candidate, station and staff figures from Namasthe Telangana; seat and unanimous figures match earlier stories."
 ---
 
-Andhra Pradesh's mandal and zilla parishad elections had drawn **30.50% of voters by 1 pm** on Thursday, the State Election Commission said, six hours after polling opened at 7 am, in the wake of Cyclone Murasu.
+Andhra Pradesh's mandal and zilla parishad elections had drawn **30.50% of voters by 1 pm** on Thursday, the State Election Commission said, six hours after polling opened at 7 am, days after Cyclone Murasu.
 
 The district picture split along the weather. **YSR Kadapa led at 36.35%**, the highest in the state, despite the clashes and petrol bomb attacks reported from its villages in the morning. Visakhapatnam followed with 35.11%, Krishna with 34.85% and Chittoor with 34.26%.
 

@@ -58,4 +58,4 @@ His colleagues rushed him to the Bhagwan Mahavir Institute of Medical Sciences i
 
 Nitish Kumar, the excise station in-charge, said the operation was led by the special bureau team from Patna. "Blockades have been put up across the district to catch the attackers," he said. Excise and police teams are raiding places where the gang might be hiding and have set up checks on the highway and nearby roads.
 
-The killing has raised fresh questions about how Bihar enforces its ban on liquor. No arrests had been reported by Thursday.
+The killing puts the spotlight back on how Bihar enforces its ban on liquor. No arrests had been reported by Thursday.

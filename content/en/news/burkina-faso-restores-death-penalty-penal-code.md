@@ -41,7 +41,7 @@ The junta-appointed parliament unanimously adopted a new penal code that makes h
 
 Justice Minister Edasso Rodrigue Bayala defended the change as necessary to combat terrorism. He argued that armed groups had exploited the leniency of the old law, telling recruits they faced nothing worse than life in prison.
 
-Human Rights Watch, which opposes capital punishment in all cases, said the move came amid a broad crackdown on critics. Since seizing power in a September 2022 coup, the junta has banned media outlets, suspended unions and civil society groups and abolished multiparty politics. The group accuses the authorities of arbitrary detention, enforced disappearances, forced conscription of critics and torture.
+Human Rights Watch, which opposes capital punishment in all cases, said the move was part of a broad crackdown on critics. Since seizing power in a September 2022 coup, the junta has banned media outlets, suspended unions and civil society groups and abolished multiparty politics. The group accuses the authorities of arbitrary detention, enforced disappearances, forced conscription of critics and torture.
 
 The rights group also pointed to weaknesses in the courts that would hear the cases. All terrorism cases go to a specialised judicial unit set up in 2017, where it documented slow investigations and serious procedural failures earlier this year. A former judge of that court told the group that judges sometimes kept suspects in custody despite thin evidence, fearing they would be summarily executed if released. It was, he said, "better to violate the right to liberty in order to preserve the right to life."
 

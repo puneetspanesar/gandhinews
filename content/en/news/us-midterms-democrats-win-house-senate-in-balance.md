@@ -91,7 +91,7 @@ In Florida, Republican Senator Ashley Moody led Democrat Angie Nixon by about 3 
 
 ## A verdict on Trump
 
-Trump had told supporters to "pretend I'm on the ballot". On the eve of the vote he admitted that the party in the White House often loses midterms: "But we gave this a very strong shot." He had not reacted to the House projection at the time of writing. Exit polls found that **half of voters saw the election as a chance to rebuke the president**, with his approval near career lows amid the war with Iran and higher fuel prices.
+Trump had told supporters to "pretend I'm on the ballot". On the eve of the vote he admitted that the party in the White House often loses midterms: "But we gave this a very strong shot." He had not reacted to the House projection at the time of writing. Exit polls found that **half of voters saw the election as a chance to rebuke the president**, with his approval near career lows over the war with Iran and higher fuel prices.
 
 A Democratic House gives the party the power to block Trump's bills, open investigations and shape spending for the last two years of his term.
 

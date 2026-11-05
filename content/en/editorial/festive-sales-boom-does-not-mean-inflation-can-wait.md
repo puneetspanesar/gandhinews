@@ -69,7 +69,7 @@ Online sales are also only part of the picture. Most Indians still buy food, clo
 
 ## The other side's best case
 
-Those who see a robust economy have a fair point. Growth was 7.8% in April-June. The spread of buyers into smaller towns suggests demand is wider than a few metros. Strong sales give companies the confidence to invest and hire, and a pessimistic reading can become self-fulfilling.
+Those who see a strong economy have a fair point. Growth was 7.8% in April-June. The spread of buyers into smaller towns suggests demand is wider than a few metros. Strong sales give companies the confidence to invest and hire, and a pessimistic reading can become self-fulfilling.
 
 We agree the news is good. Our worry is what follows from it. If strong festive numbers are taken as a sign that households can absorb higher prices, the pressure to act on inflation will fade at exactly the wrong moment. Wholesale prices were up 9.92% in August, with fuel and power up nearly 23%, and those costs are still working their way to shop shelves. The Reserve Bank already expects retail inflation to touch 6% in October-December, and several economists expect another rate increase in December.
 

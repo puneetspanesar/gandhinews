@@ -48,7 +48,7 @@ verification:
 
 Kabaddi's first Commonwealth Championship got under way in Ahmedabad on Friday, and hosts India begin their campaign under lights on Friday night, October 23, with the men taking on England at 8:30 pm IST.
 
-Thirteen nations are taking part in the inaugural edition at the Veer Savarkar Sports Complex, with 23 squads playing 62 matches over nine days under the slogan "One Breath. One Raid. One Commonwealth." Pakistan were among the nations first announced but withdrew amid tensions between the two countries.
+Thirteen nations are taking part in the inaugural edition at the Veer Savarkar Sports Complex, with 23 squads playing 62 matches over nine days under the slogan "One Breath. One Raid. One Commonwealth." Pakistan were among the nations first announced but withdrew because of tensions between the two countries.
 
 India's women go first, against Malaysia at 6:45 pm. They are led by Nidhi Sharma with Ritu as vice-captain. The men's side is captained by Surjeet Singh, with Naveen Kumar as his deputy, and includes Sachin Tanwar, Pankaj Mohite, Neeraj Narwal and Bharat Hooda.
 

@@ -45,7 +45,7 @@ The expansion of Chief Minister Omar Abdullah's council of ministers in Jammu an
 
 "The Lieutenant Governor was not well. He was sick," Abdullah told reporters in Budgam district, near Srinagar. "When the Lieutenant Governor comes, there will be an expansion of the government."
 
-The remarks come amid speculation over the long-awaited move to fill the remaining places in his cabinet. The National Conference-led government took office in October 2024 after the first Assembly election since the former state was split and made a Union Territory, and it completed two years on October 16.
+The remarks add to speculation over the long-awaited move to fill the remaining places in his cabinet. The National Conference-led government took office in October 2024 after the first Assembly election since the former state was split and made a Union Territory, and it completed two years on October 16.
 
 Under the Union Territory arrangement, ministers are appointed by the Lieutenant Governor on the advice of the Chief Minister, which is why the timing depends on Sinha.
 

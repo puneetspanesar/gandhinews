@@ -6,7 +6,7 @@ section: policy
 format_label: "Policy / Judiciary"
 topics: [supreme-court]
 title: "At the NLSIU convocation students once refused, CJI Surya Kant tells graduates to hear before judging"
-standfirst: "The ceremony went ahead in Bengaluru on Saturday, five weeks after the university called off its September date amid student objections to the Chief Justice's presence."
+standfirst: "The ceremony went ahead in Bengaluru on Saturday, five weeks after the university called off its September date after student objections to the Chief Justice's presence."
 published: 2026-10-17T14:30:00+05:30
 location: Bengaluru
 keyPoints:

@@ -44,4 +44,4 @@ The Agartala Municipal Corporation, which covers the state capital, accounts for
 
 The commission has said the elections will be held next month. No polling date was given with the figures.
 
-The figures come as several states head into local body elections this autumn, from panchayat polls in Rajasthan and Uttar Pradesh to municipal and rural polls in Andhra Pradesh, where nominations opened on Friday amid violence.
+The figures come as several states head into local body elections this autumn, from panchayat polls in Rajasthan and Uttar Pradesh to municipal and rural polls in Andhra Pradesh, where nominations opened on Friday with violence.

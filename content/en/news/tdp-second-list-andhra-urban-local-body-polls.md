@@ -6,7 +6,7 @@ section: states
 format_label: "States / Andhra Pradesh"
 topics: [states]
 title: "TDP names Machilipatnam mayor pick and 21 chairpersons in second list"
-standfirst: "Women make up 18 of the 22 names in the ruling party's new list for Andhra Pradesh's urban local body polls, a day after nominations opened amid violence."
+standfirst: "Women make up 18 of the 22 names in the ruling party's new list for Andhra Pradesh's urban local body polls, a day after nominations opened with violence."
 published: 2026-10-17T17:45:00+05:30
 location: Amaravati
 keyPoints:

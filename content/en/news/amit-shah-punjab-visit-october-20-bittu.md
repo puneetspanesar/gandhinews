@@ -12,7 +12,7 @@ location: Chandigarh
 keyPoints:
   - "Union Home Minister Amit Shah will visit Punjab on **October 20**, BJP leader Ravneet Singh Bittu said."
   - "It is Shah's **second visit in a month** after a Jalandhar rally on September 30."
-  - "The trip comes amid protests over the **killing of anti-drug activist Parvinder Singh Jhota** in Mansa."
+  - "The trip comes as protests continue over the **killing of anti-drug activist Parvinder Singh Jhota** in Mansa."
 hero:
   need: "Amit Shah, with Ravneet Singh Bittu as a second panel"
   suggested_source: "Amit Shah"
@@ -22,7 +22,7 @@ hero:
     value: "Shah back in Punjab on October 20"
 related: [mansa-anti-drug-activist-parvinder-jhota-shot-dead, jhota-panel-gherao-aap-mlas-singla-heckled-mansa, jhota-accused-police-remand-wife-held-mann-phillaur-review, punjab-bandh-jhota-mansa-shutdown-response, jakhar-seeks-nia-ed-probe-punjab-prison-drug-network]
 seo:
-  description: "Amit Shah will visit Punjab on October 20, 2026, Ravneet Singh Bittu said, his second trip in a month amid protests over anti-drug activist Parvinder Singh Jhota's killing in Mansa."
+  description: "Amit Shah will visit Punjab on October 20, 2026, Ravneet Singh Bittu said, his second trip in a month, with protests continuing over anti-drug activist Parvinder Singh Jhota's killing in Mansa."
 sources:
   - title: "Amit Shah to visit Punjab on Oct 20, says BJP leader Ravneet Bittu"
     publisher: "ThePrint (PTI)"

@@ -5,7 +5,7 @@ type: news
 section: politics
 format_label: "Politics / Andhra Pradesh"
 topics: [states]
-title: "Andhra rural poll nominations close amid stone-pelting and fasts, YSRCP turns to High Court"
+title: "Andhra rural poll nominations close after stone-pelting and fasts; YSRCP turns to High Court"
 standfirst: "Filing for the mandal and district council polls ended on Friday with clashes in Palnadu, Anantapur and Tirupati. The YSRCP wants more time; the TDP has asked the poll panel to act against Jagan Mohan Reddy's party."
 published: 2026-10-23T23:50:00+05:30
 location: Vijayawada
@@ -22,7 +22,7 @@ hero:
     value: "Last day of filing, stones and fasts"
 related: [andhra-mptc-zptc-nominations-ysrcp-alleges-attacks, jagan-meets-governor-central-forces-cctv-local-body-polls, andhra-sec-halts-urban-local-body-polls-supreme-court-nomination-clashes, supreme-court-andhra-sec-hold-candidate-list-ysrcp-nominations]
 seo:
-  description: "Nominations for Andhra Pradesh's MPTC and ZPTC polls closed on October 23 amid clashes; the YSRCP moved the High Court and the TDP sought SEC action."
+  description: "Nominations for Andhra Pradesh's MPTC and ZPTC polls closed on October 23 after clashes; the YSRCP moved the High Court and the TDP sought SEC action."
 sources:
   - title: "Parishad nominations end amid violence"
     publisher: "The Hans India"

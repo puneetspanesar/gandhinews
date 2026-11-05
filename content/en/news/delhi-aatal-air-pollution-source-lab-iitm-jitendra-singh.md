@@ -56,7 +56,7 @@ verification:
     - "Hero: Wikipedia title for the minister assumed to be 'Jitendra Singh Rana'; IITM building photo already used elsewhere."
 ---
 
-Delhi has a new laboratory meant to answer the question that comes up every winter: where is the smog actually coming from?
+Delhi has a new laboratory meant to find out where the city's winter smog comes from.
 
 Union Minister Jitendra Singh on Saturday opened the Integrated Atmospheric Chemistry and Aerosol Toxicity Analysis Laboratory (AATAL) at the Delhi branch of the Indian Institute of Tropical Meteorology (IITM). The Ministry of Earth Sciences built it at a cost of ₹80 crore under Mission Mausam, and describes it as the first integrated facility of its kind in the world.
 

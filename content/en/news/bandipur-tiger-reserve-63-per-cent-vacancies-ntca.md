@@ -6,7 +6,7 @@ section: states
 format_label: "States / Karnataka"
 topics: []
 title: "Bandipur tiger reserve runs with nearly two in three posts empty, NTCA warns"
-standfirst: "A National Tiger Conservation Authority review finds 402 of 630 sanctioned posts vacant at the Karnataka reserve, with its special protection force at about a sixth of its strength amid poaching concerns."
+standfirst: "A National Tiger Conservation Authority review finds 402 of 630 sanctioned posts vacant at the Karnataka reserve, with its special protection force at about a sixth of its strength while poaching remains a worry."
 published: 2026-10-19T10:15:00+05:30
 location: Bengaluru
 keyPoints:
@@ -36,7 +36,7 @@ verification:
     - "Quoted recommendation is verbatim as reported. No Karnataka forest department response found."
 ---
 
-Nearly two in every three sanctioned posts at Karnataka's Bandipur Tiger Reserve are lying empty, the National Tiger Conservation Authority has told the state, warning that the shortfall is weakening protection at one of India's best-known tiger habitats amid concerns over poaching.
+Nearly two in every three sanctioned posts at Karnataka's Bandipur Tiger Reserve are lying empty, the National Tiger Conservation Authority has told the state, warning that the shortfall is weakening protection at one of India's best-known tiger habitats at a time of concerns over poaching.
 
 A supervisory report prepared by Shivakumar C.M., Inspector General of Forests at the NTCA's regional office in Bengaluru, found that only 228 of the reserve's 630 sanctioned posts were filled. The 402 vacancies amount to 63.81%.
 

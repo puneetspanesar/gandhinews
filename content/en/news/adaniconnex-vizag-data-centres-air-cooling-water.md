@@ -22,7 +22,7 @@ hero:
     value: "AI campuses beside a city reservoir"
 related: []
 seo:
-  description: "AdaniConneX's Vizag data centres for Google's AI hub will use air cooling and limit freshwater use, amid concerns over the Mudasarlova Reservoir and Kambalakonda sanctuary."
+  description: "AdaniConneX's Vizag data centres for Google's AI hub will use air cooling and limit freshwater use, after concerns were raised over the Mudasarlova Reservoir and Kambalakonda sanctuary."
 sources:
   - title: "AdaniConneX's Vizag data centres to use air cooling, limit freshwater use"
     publisher: "Business Standard (PTI)"

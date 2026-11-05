@@ -10,7 +10,7 @@ standfirst: "Cabinet was told 197,294 people have come home since vigilante grou
 published: 2026-10-22T11:20:00+05:30
 location: Harare
 keyPoints:
-  - "Zimbabwe says **197,294** of its citizens have returned from South Africa amid attacks on migrants."
+  - "Zimbabwe says **197,294** of its citizens have returned from South Africa after attacks on migrants."
   - "Of them, **42,553** came home through government arrangements; the rest made their own way."
   - "Groups such as **Operation Dudula** have targeted Zimbabweans, Somalis, Nigerians and others."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "1.97 lakh return home"
 related: []
 seo:
-  description: "Zimbabwe's Cabinet was told on October 20 that 197,294 Zimbabweans have returned from South Africa amid anti-migrant protests and vigilante attacks."
+  description: "Zimbabwe's Cabinet was told on October 20 that 197,294 Zimbabweans have returned from South Africa after anti-migrant protests and vigilante attacks."
 sources:
   - title: "Nearly 200,000 Zimbabweans returned from South Africa"
     publisher: "New Zimbabwe (via AllAfrica)"

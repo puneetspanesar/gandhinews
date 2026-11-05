@@ -60,4 +60,4 @@ No response from the TDP-led government, the police or the State Election Commis
 
 ## The contest
 
-Nominations opened amid reports of violence, and the TDP has been releasing its candidate lists, with women making up 18 of the 22 names in its second list on Saturday.
+Nominations opened with reports of violence, and the TDP has been releasing its candidate lists, with women making up 18 of the 22 names in its second list on Saturday.
