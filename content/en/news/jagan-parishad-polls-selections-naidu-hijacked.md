@@ -65,19 +65,11 @@ YSRCP president and former Chief Minister **YS Jagan Mohan Reddy** on Thursday t
 
 "Such an exercise does not merit being called an election, as it was neither free nor fair," he told reporters at the party's central office, as polling for **582 ZPTC and 7,767 MPTC seats** drew to a close at 5 pm. "Such an election is a scar on the face of democracy."
 
-```photo
-{"n":1,"subject":"N. Chandrababu Naidu","caption":"Chief Minister N. Chandrababu Naidu, whose coalition government Jagan accused of taking over the election machinery.","alt":"Andhra Pradesh Chief Minister N. Chandrababu Naidu"}
-```
-
 ## Nominations to polling day
 
 Jagan accused Chief Minister **N. Chandrababu Naidu's coalition government** of taking over the process "from nominations to counting". He alleged that police and ruling-party workers stopped opposition candidates from filing papers, and that they were kept out of **84 ZPTC and 2,109 MPTC seats**.
 
 He said the State Election Commission, the government and police ignored Supreme Court directions on surveillance, with CCTV installed at **only 16,064 of 31,460 polling stations**. On polling day, he alleged, YSRCP agents were dragged out or detained, voters were attacked and bogus votes were cast in places including Marutla, Chandragiri, Sunkesula, Veligandla and the Vemula and Lingala mandals of his own Pulivendula constituency.
-
-```photo
-{"n":2,"subject":"Pulivendula","caption":"Pulivendula, Jagan's home constituency in Kadapa district, where he said party workers were attacked during polling.","alt":"Pulivendula town in Kadapa district"}
-```
 
 He also questioned turnout in last Sunday's urban local body polls, saying figures in towns such as **Addanki rose from 19% to 56.7%** after voting hours.
 

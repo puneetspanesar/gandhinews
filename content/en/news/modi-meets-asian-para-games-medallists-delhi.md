@@ -67,10 +67,6 @@ Prime Minister Narendra Modi on Thursday told India's Asian Para Games contingen
 
 The meeting was held at the **Indira Gandhi Sports Complex** in New Delhi on November 5, 2026. Sports Minister Mansukh Mandaviya and Minister of State for Youth Affairs and Sports Raksha Khadse joined the Prime Minister.
 
-```photo
-{"n":1,"subject":"Mansukh Mandaviya","caption":"Sports Minister Mansukh Mandaviya joined the Prime Minister at the meeting with the para-athletes.","alt":"Union Sports Minister Mansukh Mandaviya"}
-```
-
 Modi said he had been "eagerly waiting to meet" the athletes and that their results showed India was "emerging as a big power in the world of sports." He linked **the leap from 14 medals at the 2010 Games to 114** this year to the athletes' own effort and to a stronger support system, and recalled that before 2014 many parents were wary of sending children into sport because resources, support and transparency were lacking.
 
 He also spoke of **javelin thrower Rinku**, who lifted a photograph of his mother after winning gold. She had died two months before the Games. Modi said the moment "moved every citizen of the country to tears."
@@ -78,10 +74,6 @@ He also spoke of **javelin thrower Rinku**, who lifted a photograph of his mothe
 ## A record haul
 
 India won **30 gold, 35 silver and 49 bronze** in Japan, ahead of the 108 medals from Hangzhou, a tally cut from 111 after three medals were stripped over doping cases. The 168-strong squad was far smaller than the 309 sent to Hangzhou, yet it set five world records and nine Asian records and swept the podium in four events.
-
-```photo
-{"n":2,"subject":"Sumit Antil","caption":"Sumit Antil led an Indian podium sweep in the javelin at Aichi-Nagoya.","alt":"Indian para javelin thrower Sumit Antil"}
-```
 
 Women played a big part: **34 of India's 56 women athletes** came home with medals. India won nine golds on the final day alone.
 

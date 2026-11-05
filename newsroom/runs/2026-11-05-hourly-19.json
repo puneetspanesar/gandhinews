@@ -1,0 +1,15 @@
+{
+ "run": "hourly-19",
+ "start": "2026-11-05T19:06:57+05:30",
+ "end": "2026-11-05T19:34:55+05:30",
+ "summary": "3 stories (Jagan parishad polls lead, Fortis Q2, Modi Para Games), 0 held; editor picture fails fixed by recrop; homepage: stale Andhra cards off the top, hockey preview kept as 8th slot; 24-hour-rule explainer photo hash duplicate (from long-form run) not fixed; 2.61 vs 2.81 crore voters unverified; no second editor pass (time)",
+ "new": [
+  "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
+  "jagan-parishad-polls-selections-naidu-hijacked",
+  "modi-meets-asian-para-games-medallists-delhi"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "lead": "jagan-parishad-polls-selections-naidu-hijacked"
+}

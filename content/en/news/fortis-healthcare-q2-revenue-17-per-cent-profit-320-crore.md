@@ -77,10 +77,6 @@ The company, one of India's largest private hospital chains, filed the results w
 
 The quarter's profit margin worked out to 11.7%.
 
-```photo
-{"n":1,"subject":"Fortis Escorts Heart Institute","caption":"Fortis Escorts Heart Institute in New Delhi, one of the hospitals in the group's network, which supplied most of the quarter's growth.","alt":"Fortis Escorts Heart Institute, New Delhi"}
-```
-
 ## Hospitals carry the growth
 
 The hospital business did the heavy lifting. Its revenue **rose 18.6% to ₹2,340 crore**, with a profit margin of 12.1%. The diagnostics arm, which runs pathology labs across the country, grew more slowly: gross revenue rose 12.2% to ₹448 crore, though its profit margin improved to 15.2%.
@@ -88,10 +84,6 @@ The hospital business did the heavy lifting. Its revenue **rose 18.6% to ₹2,34
 For the first half of the financial year, consolidated revenue rose to ₹5,279.86 crore from ₹4,498.16 crore a year earlier.
 
 The balance sheet stayed light. Fortis ended September with **net debt of ₹2,188 crore**, or 0.87 times its operating profit, and a net debt to equity ratio of 0.20.
-
-```photo
-{"n":2,"subject":"Fortis Hospital Mulund","caption":"Fortis Hospital in Mulund, Mumbai, part of the chain whose hospital revenue grew 18.6% in the quarter.","alt":"Fortis Hospital, Mulund, Mumbai"}
-```
 
 The company also said investigations by agencies into matters linked to its erstwhile promoters are still going on, and that it is **fully cooperating with all agencies**. Management believes the impact of these matters is not material, it said in its filing.
 

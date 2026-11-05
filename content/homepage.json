@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri",
+    "id": "jagan-parishad-polls-selections-naidu-hijacked",
     "overlay": {
       "kicker": {
         "en": "States / Andhra Pradesh",
         "hi": "राज्य / आंध्र प्रदेश"
       },
       "value": {
-        "en": "SEC says smooth, Marutla booth clash",
-        "hi": "आयुक्त बोले सुचारु, मारुतला में झड़प"
+        "en": "'A scar on the face of democracy'",
+        "hi": "'लोकतंत्र के चेहरे पर दाग'"
       },
       "text": {
         "en": "",
@@ -17,16 +17,15 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest",
-      "andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula",
-      "andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6"
+      "andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri",
+      "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest"
     ],
     "relatedBeside": [
-      "sensex-nifty-close-november-5-rally",
-      "us-midterms-schumer-lower-costs-with-or-without-trump",
+      "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
+      "modi-meets-asian-para-games-medallists-delhi",
       "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
-      "naveen-patnaik-writes-majhi-kotia-andhra-elections",
-      "india-japan-asian-champions-trophy-final-mohali-preview"
+      "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8",
+      "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra"
     ],
     "live": {
       "title": {
@@ -38,25 +37,36 @@
   "briefing": {
     "items": [
       {
-        "link": "sensex-nifty-close-november-5-rally",
+        "link": "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
         "lead": {
-          "en": "Markets:",
-          "hi": "बाज़ार:"
+          "en": "Companies:",
+          "hi": "कंपनियां:"
         },
         "text": {
-          "en": "Sensex soars 2,009 points to 79,310, Nifty ends at 24,537 as banks and autos power sixth straight gain",
-          "hi": "सेंसेक्स 2,009 अंक उछलकर 79,310 पर बंद, निफ्टी 24,537 पर; बैंक और ऑटो शेयरों से लगातार छठे दिन तेजी"
+          "en": "Fortis Healthcare's Q2 revenue rises 17% to ₹2,735 crore, profit steady at ₹320 crore",
+          "hi": "फ़ोर्टिस हेल्थकेयर की दूसरी तिमाही की आय 17% बढ़कर ₹2,735 करोड़, मुनाफ़ा ₹320 करोड़ पर स्थिर"
         }
       },
       {
-        "link": "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action",
+        "link": "modi-meets-asian-para-games-medallists-delhi",
         "lead": {
-          "en": "Karnataka:",
-          "hi": "कर्नाटक:"
+          "en": "Para sport:",
+          "hi": "पैरा खेल:"
         },
         "text": {
-          "en": "Priyank Kharge warns Vijayendra and Narayanaswamy of legal action over remarks on Congress workers",
-          "hi": "प्रियांक खड़गे की विजयेंद्र और नारायणस्वामी को चेतावनी, कांग्रेस कार्यकर्ताओं पर टिप्पणी जारी रही तो कानूनी कार्रवाई"
+          "en": "Modi tells record Asian Para Games team they 'filled the entire nation with immense pride'",
+          "hi": "रिकॉर्ड पैरा दल से मोदी बोले, 'आपने पूरे देश को गर्व से भर दिया'"
+        }
+      },
+      {
+        "link": "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8",
+        "lead": {
+          "en": "Oil and gas:",
+          "hi": "तेल और गैस:"
+        },
+        "text": {
+          "en": "ONGC Q2 profit jumps 57% to ₹15,489 crore, ₹8 interim dividend declared",
+          "hi": "ONGC का दूसरी तिमाही का मुनाफ़ा 57% बढ़कर ₹15,489 करोड़, ₹8 का अंतरिम लाभांश"
         }
       },
       {
@@ -90,28 +100,6 @@
         "text": {
           "en": "India chase sixth Asian Champions Trophy title against Japan in Mohali final tonight",
           "hi": "एशियन चैंपियंस ट्रॉफी: छठे खिताब के लिए आज रात मोहाली में जापान से भिड़ेगा भारत"
-        }
-      },
-      {
-        "link": "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears",
-        "lead": {
-          "en": "Punjab:",
-          "hi": "पंजाब:"
-        },
-        "text": {
-          "en": "Supreme Court halts criminal contempt case against Punjab Chief Secretary over DA arrears",
-          "hi": "डीए बकाया मामले में पंजाब के मुख्य सचिव के खिलाफ आपराधिक अवमानना पर सुप्रीम कोर्ट की रोक"
-        }
-      },
-      {
-        "link": "alcaraz-beats-michelsen-fils-machac-paris-masters-last-16",
-        "lead": {
-          "en": "Tennis:",
-          "hi": "टेनिस:"
-        },
-        "text": {
-          "en": "Alcaraz survives the day of upsets in Paris as Fils celebrates his Turin place with a win",
-          "hi": "उलटफेर भरे दिन पेरिस में अल्कराज डटे रहे, ट्यूरिन का टिकट पाने वाले फिल्स भी जीते"
         }
       },
       {
@@ -190,28 +178,21 @@
   },
   "topStories": {
     "big": {
-      "id": "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action",
+      "id": "india-japan-asian-champions-trophy-final-mohali-preview",
       "also": []
     },
     "list": [
-      "alcaraz-beats-michelsen-fils-machac-paris-masters-last-16",
-      "us-midterms-alaska-sullivan-peltola-too-close-to-call",
-      "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
-      "supreme-court-24-hour-production-runs-from-detention-not-arrest",
-      "hijikata-stuns-djokovic-paris-masters-turin-hopes-end"
+      "us-midterms-schumer-lower-costs-with-or-without-trump"
     ],
-    "also": [
-      "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears",
-      "supreme-court-sends-azam-khan-ed-arrest-plea-allahabad-hc-november-16"
-    ]
+    "also": []
   },
   "startHere": [
+    "24-hour-rule-explained-article-22-detention-arrest",
+    "ugc-equity-regulations-explained-caste-discrimination-campuses",
     "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
     "fast-track-special-courts-explained-rape-pocso-backlog",
     "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
-    "two-child-norm-explained-javed-ruling-larger-bench",
-    "us-midterms-explained-congress-tariffs-what-it-means-for-india",
-    "foreign-divorce-explained-bigamy-section-13-cpc-supreme-court"
+    "two-child-norm-explained-javed-ruling-larger-bench"
   ],
   "trackers": [
     {
@@ -364,11 +345,11 @@
     }
   ],
   "opinion": [
+    "ugc-equity-rules-revise-them-do-not-bury-them",
+    "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
     "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
     "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
-    "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth",
-    "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
-    "coastal-freight-goal-for-2047-needs-milestones-this-decade"
+    "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth"
   ],
   "sections": [
     {
@@ -386,7 +367,7 @@
     },
     {
       "section": "economy",
-      "lead": "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8",
+      "lead": "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
       "module": {
         "type": "markets",
         "indicators": [
@@ -397,19 +378,19 @@
         ]
       },
       "list": [
+        "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8",
         "glenmark-pharma-q2-profit-falls-57-per-cent-264-crore",
         "titan-q2-standalone-profit-doubles-2393-crore",
-        "bharti-airtel-q2-profit-31-per-cent-8888-crore-arpu-271",
-        "sensex-nifty-close-november-5-rally"
+        "bharti-airtel-q2-profit-31-per-cent-8888-crore-arpu-271"
       ]
     },
     {
       "section": "states",
-      "lead": "andhra-parishad-polls-30-50-per-cent-1pm-kadapa-highest-bapatla-lowest",
+      "lead": "jagan-parishad-polls-selections-naidu-hijacked",
       "list": [
         "andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri",
         "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest",
-        "andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula"
+        "ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent"
       ]
     },
     {
@@ -457,10 +438,10 @@
     },
     {
       "section": "sports",
-      "lead": "india-japan-asian-champions-trophy-final-mohali-preview",
+      "lead": "modi-meets-asian-para-games-medallists-delhi",
       "list": [
+        "india-japan-asian-champions-trophy-final-mohali-preview",
         "alcaraz-beats-michelsen-fils-machac-paris-masters-last-16",
-        "india-beat-south-korea-8-1-asian-champions-trophy-semi-final-mohali",
         "como-nine-at-lens-city-arsenal-win-champions-league",
         "fenerbahce-3-2-liverpool-muriqi-valverde-real-madrid-aek"
       ]
