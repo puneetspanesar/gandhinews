@@ -118,10 +118,6 @@ Thursday's ruling, given in an NDPS case, takes the broader view that **time bef
 
 The bench placed the check on magistrates. They are "duty-bound to record the actual date and time when the person's liberty was curtailed" and must count from that point. Meeting the deadline is not the end of it: under Section 58, custody must also be reasonable, and a magistrate **may refuse further remand** if it is not.
 
-```photo
-{"n":2,"subject":"Atul S. Chandurkar","caption":"Justice Atul S Chandurkar, the second judge on the bench, which has also ruled this year on what follows a breach of Article 22.","alt":"Supreme Court judge Justice Atul S Chandurkar (file photo)"}
-```
-
 ## What if police break the rule?
 
 **The arrest itself becomes unlawful.** In September the same two judges held, in Jaskaran Jeet Singh Deol v State of Punjab, that an arrest made in breach of Article 22(1) or 22(2) is unconstitutional. Police **cannot simply re-arrest** a person released for that reason: they must apply to a magistrate, explain the earlier failure and carry a senior officer's endorsement. For blatant violations, such as prolonged detention without production, courts may order the state to pay compensation.
