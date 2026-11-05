@@ -28,7 +28,7 @@ infographic:
   compare:
     left: {title: "Bombay High Court", value: "Restore", text: "Told the BMC to re-upload Mirza's deleted Diwali clip"}
     right: {title: "Sanjay Shirsat", value: "Loudspeakers", text: "Says she should make a video on year-round noise"}
-  source: "PTI, Bombay High Court, November 3, 2026"
+  source: "Bombay High Court, November 3, 2026"
 related: [bombay-hc-bmc-restore-dia-mirza-video-secular-country, bombay-high-court-street-firecracker-ban-all-festivals]
 seo:
   description: "Maharashtra minister Sanjay Shirsat said on November 3 that Dia Mirza should make a video on loudspeaker noise, after the Bombay HC ordered her Diwali clip restored."

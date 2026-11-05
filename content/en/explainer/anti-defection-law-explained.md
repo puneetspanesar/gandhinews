@@ -96,18 +96,18 @@ The Court used that deadline in July 2025. On July 31, 2025, in *Padi Kaushik Re
 **Three switches in Parliament, all using the merger route.**
 
 ```timeline
-{"title":"Anti-defection cases in Parliament, 2026","items":[{"date":"Apr 2026","text":"Seven of AAP's 10 Rajya Sabha MPs apply to the Chairman to recognise their 'merger' with the BJP. Bar & Bench reports the Chairman has accepted it."},{"date":"Jun 22, 2026","text":"Six of Shiv Sena (UBT)'s nine Lok Sabha MPs move to Eknath Shinde's Shiv Sena. Their party seeks their disqualification."},{"date":"Jul 18, 2026","text":"Speaker Om Birla approves the Shiv Sena merger and lets 20 rebel Trinamool MPs, who declared a merger with the NCPI, sit separately."},{"date":"Sep 1, 2026","text":"The Tribune reports the NCPI's recognition is still pending with the Speaker."}]}
+{"title":"Anti-defection cases in Parliament, 2026","items":[{"date":"Apr 2026","text":"Seven of AAP's 10 Rajya Sabha MPs apply to the Chairman to recognise their 'merger' with the BJP. The Chairman is reported to have accepted it."},{"date":"Jun 22, 2026","text":"Six of Shiv Sena (UBT)'s nine Lok Sabha MPs move to Eknath Shinde's Shiv Sena. Their party seeks their disqualification."},{"date":"Jul 18, 2026","text":"Speaker Om Birla approves the Shiv Sena merger and lets 20 rebel Trinamool MPs, who declared a merger with the NCPI, sit separately."},{"date":"Sep 1, 2026","text":"The NCPI's recognition was reported to be still pending with the Speaker."}]}
 ```
 
 The Shiv Sena merger took the Shinde-led party to 13 Lok Sabha MPs. The 20 Trinamool rebels were among the 29 MPs the party won in 2024.
 
-Both parties that lost MPs have sought their disqualification. "Any group of a legislature party cannot merge into some other party on its own, even if they have a two-thirds majority," Shiv Sena (UBT) MP Anil Desai said. Trinamool's Abhishek Banerjee filed 20 disqualification petitions, arguing that legislators cannot claim a valid merger without two-thirds of the full party, the same report said.
+Both parties that lost MPs have sought their disqualification. "Any group of a legislature party cannot merge into some other party on its own, even if they have a two-thirds majority," Shiv Sena (UBT) MP Anil Desai said. Trinamool's Abhishek Banerjee filed 20 disqualification petitions, arguing that legislators cannot claim a valid merger without two-thirds of the full party, the same account said.
 
 ## What do critics say?
 
-**That the merger exception has become a door for defection, and that Speakers can delay decisions.** Writing in Bar & Bench, advocate Narasimhan Vijayaraghavan argued that the AAP move met the two-thirds number but not the law. In his reading, paragraph 4 is about a merger of the original political party, and AAP still exists as a party.
+**That the merger exception has become a door for defection, and that Speakers can delay decisions.** Advocate Narasimhan Vijayaraghavan has argued that the AAP move met the two-thirds number but not the law. In his reading, paragraph 4 is about a merger of the original political party, and AAP still exists as a party.
 
-In LiveLaw, Dhruva Upadhye argued that delays by Speakers had undermined the law, citing the Telangana case. Both are commentators' views. We found no Supreme Court ruling on the 2026 Parliament cases as of October 11, 2026.
+Dhruva Upadhye, writing on the law, argued that delays by Speakers had undermined the law, citing the Telangana case. Both are commentators' views. We found no Supreme Court ruling on the 2026 Parliament cases as of October 11, 2026.
 
 ## Does the law apply to state legislatures too?
 

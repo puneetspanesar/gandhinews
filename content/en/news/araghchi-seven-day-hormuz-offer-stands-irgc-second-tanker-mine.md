@@ -63,7 +63,7 @@ Under the plan, he said, the strait would open within six days if the United Sta
 
 ## Two tankers, two fires
 
-The Islamic Revolutionary Guard Corps said one tanker struck a mine and was hit by a "fierce fire", and a second was engulfed in a "massive blaze" that began in its engine room and left the vessel stranded. Each was carrying about two million barrels of crude, the Guards said, according to the state news agency IRNA.
+The Islamic Revolutionary Guard Corps said one tanker struck a mine and was hit by a "fierce fire", and a second was engulfed in a "massive blaze" that began in its engine room and left the vessel stranded. Each was carrying about two million barrels of crude, the Guards said.
 
 The IRGC said both ships had switched off their positioning and radar systems and taken a route Iran had not authorised, and that one had tried to cross "with US support". Neither ship has been named, and no maritime authority has confirmed the incidents. This week the IRGC's naval commander, Rear Admiral Ali Azmaei, warned that any vessel turning off its navigation systems would be treated as "hostile".
 

@@ -49,9 +49,9 @@ The Code on Wages, the Industrial Relations Code, the Code on Social Security an
 
 The Centre notified its rules under all four codes on May 8, 2026. Because labour is on the concurrent list and states are the appropriate government in most cases, much depends on state rules. On September 24, 2026, Labour Secretary Chandra Bhushan Kumar said ten states had published final rules and the rest had drafts, and that the Centre hoped all would be done by October 31.
 
-The government has not named the ten. Gujarat, Arunachal Pradesh and Bihar are reported by more than one reliable source to have final rules under all four codes. In July, The Tribune reported that Kerala had sought more time and West Bengal had not published draft rules.
+The government has not named the ten. Gujarat, Arunachal Pradesh and Bihar are reported by more than one reliable source to have final rules under all four codes. In July, Kerala was reported to have sought more time, and West Bengal had not published draft rules.
 
-Rules already notified differ between states, for example on gratuity for fixed-term staff and on conditions for women working night shifts. A Grant Thornton Bharat report, cited by Business Standard, says the codes cut the number of rules from 1,436 to 351 and returns from 31 to one.
+Rules already notified differ between states, for example on gratuity for fixed-term staff and on conditions for women working night shifts. A Grant Thornton Bharat report says the codes cut the number of rules from 1,436 to 351 and returns from 31 to one.
 
 ```timeline
 {"title":"Key dates","items":[{"date":"Nov 21, 2025","text":"Four codes come into force"},{"date":"Feb 2026","text":"Parliament amends the Industrial Relations Code"},{"date":"May 8, 2026","text":"Central rules notified"},{"date":"Sep 24, 2026","text":"Ten states have final rules, says Labour Secretary"},{"date":"Oct 31, 2026","text":"Centre's target for all state rules"}]}

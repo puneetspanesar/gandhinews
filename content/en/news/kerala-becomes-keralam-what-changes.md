@@ -74,7 +74,7 @@ verification:
     - "Hindi-language usage of the new name was not covered by any source read."
 ---
 
-Kerala's official name is now Keralam. The Union Home Ministry issued a gazette notification on August 25, 2026, appointing that day as the date the Kerala (Alteration of Name) Act, 2026 came into force, The News Minute and Onmanorama reported. The notification came just before Onam.
+Kerala's official name is now Keralam. The Union Home Ministry issued a gazette notification on August 25, 2026, appointing that day as the date the Kerala (Alteration of Name) Act, 2026 came into force. The notification came just before Onam.
 
 The Act changes the state's name in the First Schedule of the Constitution, according to PRS Legislative Research. Keralam is the state's name in Malayalam.
 
@@ -92,7 +92,7 @@ The Assembly's 2024 resolution linked the demand to the 1956 reorganisation of s
 
 From August 25, "Keralam" replaces "Kerala" as the state's name in the Constitution. "The Bill provides that the State of Kerala will be known as the State of Keralam," Minister of State for Home Affairs Nityanand Rai told the Rajya Sabha.
 
-The Act also makes the consequential amendments the change requires, according to Onmanorama and The News Minute. The reports Gandhi News reviewed do not list those amendments or say whether the names of bodies such as the High Court, state universities or public corporations will change. The text of the Act will settle that.
+The Act also makes the consequential amendments the change requires. The reports Gandhi News reviewed do not list those amendments or say whether the names of bodies such as the High Court, state universities or public corporations will change. The text of the Act will settle that.
 
 ## How Parliament handled it
 

@@ -55,7 +55,7 @@ verification:
     - "This is the desk's view. It takes no position on the substance of the opposition's allegations or on the removal notices."
 ---
 
-The Election Commission of India has made a fair point about itself. Responding on September 23 to an Indian Express report that two Election Commissioners objected at least 14 times in 10 months to decisions and orders issued without their knowledge, including on the Special Intensive Revision (SIR), the Commission said that "Written notes, observations, technical suggestions and internal checks-and-balances are standard, ongoing practices". Disagreement, in other words, is how a multi-member body is meant to work.
+The Election Commission of India has made a fair point about itself. Responding on September 23 to a newspaper report that two Election Commissioners had objected at least 14 times in 10 months to decisions and orders issued without their knowledge, including on the Special Intensive Revision (SIR), the Commission said that "Written notes, observations, technical suggestions and internal checks-and-balances are standard, ongoing practices". Disagreement, in other words, is how a multi-member body is meant to work.
 
 We agree. That is exactly why those notes should be published.
 
@@ -78,5 +78,5 @@ The stakes justify the change. SIR phase three draft rolls in 17 states and Unio
 We recommend that the Commission adopt a simple rule. For every decision taken by the full Commission on the conduct of elections or the preparation of rolls, it should record each member's position and publish any dissenting or concurring note with the order, or within two weeks of it. Internal staff notes and routine administrative matters can stay internal. If the Commission does not act on its own, Parliament can write the requirement into the 2023 law on the Commission. A Commission that publishes its disagreements has less to fear from leaks.
 
 ```facts
-{"title":"The reporting behind this view","items":[{"value":"14","label":"objections recorded by two Election Commissioners in 10 months, as reported by the Indian Express","source":"ANI via ThePrint, Sep 23, 2026"},{"value":"4-2","label":"RBI Monetary Policy Committee vote on stance on Oct 7, 2026, with dissenters named; minutes due Oct 21","source":"RBI"},{"value":"6.15 crore","label":"names left out of SIR phase III draft rolls in 17 states and UTs","source":"Deccan Herald, Sep 1, 2026"}]}
+{"title":"The reporting behind this view","items":[{"value":"14","label":"objections reported to have been recorded by two Election Commissioners in 10 months","source":"ANI via ThePrint, Sep 23, 2026"},{"value":"4-2","label":"RBI Monetary Policy Committee vote on stance on Oct 7, 2026, with dissenters named; minutes due Oct 21","source":"RBI"},{"value":"6.15 crore","label":"names left out of SIR phase III draft rolls in 17 states and UTs","source":"Deccan Herald, Sep 1, 2026"}]}
 ```

@@ -100,7 +100,7 @@ The protests turned violent on July 20, when police stopped a march to Parliamen
 
 **The CJP blames CEC Gyanesh Kumar for the Special Intensive Revision (SIR) of electoral rolls, which it says has wrongly struck voters off the lists.** Media counts put the names removed from voter lists so far at more than 130 million.
 
-The movement stepped up in late September. Around the same time, the Indian Express reported that the CEC's two fellow commissioners had objected to SIR decisions at least 14 times in 10 months. The Election Commission denies the allegations and says the revision removes duplicate, deceased or ineligible voters.
+The movement stepped up in late September. Around the same time, the CEC's two fellow commissioners were reported to have objected to SIR decisions at least 14 times in 10 months. The Election Commission denies the allegations and says the revision removes duplicate, deceased or ineligible voters.
 
 "We will ultimately end it only when Gyanesh Kumar resigns. He has to go," CJP convener Saurav Das said on October 2.
 

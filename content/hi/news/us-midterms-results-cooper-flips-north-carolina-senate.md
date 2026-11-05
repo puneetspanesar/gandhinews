@@ -40,7 +40,7 @@ infographic:
     - {date: "सुबह 6:25", text: "जॉर्जिया में जॉन ऑसॉफ जीते", icon: check-circle}
     - {date: "सुबह 6:50", text: "न्यू हैम्पशायर में क्रिस पपास जीते", icon: check-circle}
     - {date: "सुबह 7:00", text: "नॉर्थ कैरोलाइना में रॉय कूपर ने सीट छीनी", icon: flag-banner}
-  source: "एपी के नतीजे (वॉशिंगटन एग्ज़ामिनर लाइव अपडेट); न्यूज़नेशन और डिसीज़न डेस्क एचक्यू, 3-4 नवंबर 2026"
+  source: "नतीजों के अनुमान और डिसीज़न डेस्क एचक्यू मॉडल, 3-4 नवंबर 2026"
 related: [us-midterms-ossoff-holds-georgia-first-results, us-midterms-voting-under-way-house-senate-57-million-early, us-midterms-stevens-backs-rogers-alaska-sullivan-suit-dismissed]
 seo:
   description: "2026 अमेरिकी मध्यावधि चुनाव: डेमोक्रेट रॉय कूपर ने नॉर्थ कैरोलाइना की सीनेट सीट रिपब्लिकन से छीनी, क्रिस पपास ने न्यू हैम्पशायर बचाया; हाउस और सीनेट का फैसला बाकी।"

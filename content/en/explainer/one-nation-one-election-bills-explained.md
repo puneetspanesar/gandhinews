@@ -95,13 +95,13 @@ The idea was examined by a High-Level Committee chaired by former President Ram 
 
 ## Where does the joint committee stand?
 
-**Its deadline has been extended, most recently on July 29, 2026, and it now has until the Winter Session 2026.** The committee has 41 members, the Sunday Guardian reported, and is chaired by P.P. Chaudhary.
+**Its deadline has been extended, most recently on July 29, 2026, and it now has until the Winter Session 2026.** The committee has 41 members and is chaired by P.P. Chaudhary.
 
 ```timeline
-{"title":"One Nation One Election Bills","items":[{"date":"Sep 2023","text":"Government sets up the High-Level Committee chaired by Ram Nath Kovind."},{"date":"Mar 2024","text":"Kovind committee report recommends simultaneous Lok Sabha and assembly polls, with local body polls within 100 days."},{"date":"Dec 17, 2024","text":"Both Bills introduced in the Lok Sabha."},{"date":"Dec 19, 2024","text":"Bills referred to a Joint Parliamentary Committee chaired by P.P. Chaudhary."},{"date":"Mar 2026","text":"Lok Sabha extends the committee's deadline to the Monsoon Session 2026."},{"date":"Jul 2026","text":"Committee has visited 10 states and seeks views from all states (Sunday Guardian)."},{"date":"Jul 29, 2026","text":"Deadline extended again, to the first day of the last week of the Winter Session 2026."}]}
+{"title":"One Nation One Election Bills","items":[{"date":"Sep 2023","text":"Government sets up the High-Level Committee chaired by Ram Nath Kovind."},{"date":"Mar 2024","text":"Kovind committee report recommends simultaneous Lok Sabha and assembly polls, with local body polls within 100 days."},{"date":"Dec 17, 2024","text":"Both Bills introduced in the Lok Sabha."},{"date":"Dec 19, 2024","text":"Bills referred to a Joint Parliamentary Committee chaired by P.P. Chaudhary."},{"date":"Mar 2026","text":"Lok Sabha extends the committee's deadline to the Monsoon Session 2026."},{"date":"Jul 2026","text":"Committee has visited 10 states and seeks views from all states."},{"date":"Jul 29, 2026","text":"Deadline extended again, to the first day of the last week of the Winter Session 2026."}]}
 ```
 
-By mid-July 2026 the committee had visited 10 states, and it wants to hear from all of them. The Election Commission has told the committee it could hold simultaneous elections within six months of the law being enacted, according to the same report.
+By mid-July 2026 the committee had visited 10 states, and it wants to hear from all of them. The Election Commission has told the committee it could hold simultaneous elections within six months of the law being enacted, it was reported.
 
 ## When could it take effect?
 

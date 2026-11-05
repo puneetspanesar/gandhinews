@@ -71,7 +71,7 @@ Items are grouped into 12 divisions, 43 groups, 92 classes and 162 subclasses un
 
 **Food and beverages make up 36.75% of the new basket.** Measured on the same classification, that is a clear drop. On the old 2012 grouping, food and beverages had a weight of 45.86%; the 2024 basket, regrouped the old way, gives them 40.10%.
 
-The weight of transport rose from 6.39% to 8.80%, and that of housing, water, electricity and fuels from 16.89% to 17.67%, on the new classification. A smaller food weight means a bad harvest or a vegetable price spike moves the headline number less than before. Outlook Business reported in January that the change was expected to smooth inflation readings.
+The weight of transport rose from 6.39% to 8.80%, and that of housing, water, electricity and fuels from 16.89% to 17.67%, on the new classification. A smaller food weight means a bad harvest or a vegetable price spike moves the headline number less than before. In January the change was reported to be expected to smooth inflation readings.
 
 ```facts
 {"title":"Old and new CPI at a glance","items":[{"value":"2024=100","label":"new base year (was 2012=100)","source":"MoSPI"},{"value":"358","label":"items in the basket (was 299)","source":"MoSPI"},{"value":"36.75%","label":"weight of food and beverages, new classification","source":"MoSPI"},{"value":"12","label":"spending divisions (was 6 groups)","source":"MoSPI"}]}

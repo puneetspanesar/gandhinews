@@ -59,7 +59,7 @@ That only works if the numbers come out. Partial tables, or totals for broad cat
 
 ## The coding problem
 
-The notification did not come with a pre-set list of castes; Telangana Today, citing unnamed sources, reported that caste will be recorded as people state it. Congress general secretary Jairam Ramesh criticised this, pointing to the lists used in the Bihar and Telangana caste surveys. He said the absence raised "serious doubts on intent".
+The notification did not come with a pre-set list of castes; caste was reported, on the word of unnamed officials, to be recorded as people state it. Congress general secretary Jairam Ramesh criticised this, pointing to the lists used in the Bihar and Telangana caste surveys. He said the absence raised "serious doubts on intent".
 
 There is a reasonable case on the other side. A fixed list can leave out communities or lock in contested classifications, and letting people state their own caste respects how they see themselves. But it shifts the hard work to later. Millions of written answers, in many languages and spellings, will have to be grouped into categories. Whoever designs that grouping will shape the results as much as the enumerators.
 

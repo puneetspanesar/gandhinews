@@ -29,7 +29,7 @@ infographic:
   compare:
     left: {title: "बॉम्बे हाईकोर्ट", value: "बहाल करें", text: "बीएमसी से मिर्जा का हटाया गया दिवाली वीडियो फिर अपलोड करने को कहा"}
     right: {title: "संजय शिरसाट", value: "लाउडस्पीकर", text: "बोले, सालभर के शोर पर भी वीडियो बनाएं"}
-  source: "पीटीआई, बॉम्बे हाईकोर्ट, 3 नवंबर 2026"
+  source: "बॉम्बे हाईकोर्ट, 3 नवंबर 2026"
 related: [bombay-hc-bmc-restore-dia-mirza-video-secular-country, bombay-high-court-street-firecracker-ban-all-festivals]
 seo:
   description: "महाराष्ट्र के मंत्री संजय शिरसाट ने 3 नवंबर को कहा कि दीया मिर्जा को लाउडस्पीकर के शोर पर वीडियो बनाना चाहिए। बॉम्बे हाईकोर्ट ने उनका दिवाली वीडियो बहाल करने को कहा था।"

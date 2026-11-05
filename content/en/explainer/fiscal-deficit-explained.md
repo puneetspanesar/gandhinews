@@ -94,7 +94,7 @@ Interest on past borrowing is a fixed claim on the budget, so a wider deficit th
 
 ## What is the government aiming for?
 
-**A deficit of 4.3% of GDP this year and a lower debt burden over five years.** The 2026-27 target is down from 4.4% in 2025-26, which the government met: the deficit for that year was ₹15,19,169 crore, according to provisional accounts reported in June 2026.
+**A deficit of 4.3% of GDP this year and a lower debt burden over five years.** The 2026-27 target is down from 4.4% in 2025-26, which the government met: the deficit for that year was ₹15,19,169 crore, according to provisional accounts released in June 2026.
 
 The Budget speech set a goal of bringing central government debt to "50±1 percent" of GDP by 2030-31. PIB put debt at 55.6% of GDP in the 2026-27 Budget Estimate, down from 56.1% in 2025-26.
 

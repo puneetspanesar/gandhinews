@@ -102,7 +102,7 @@ The repo rate stayed at 6.50% through 2024. The MPC then cut it three times in 2
 
 ## The new projections
 
-The RBI raised its inflation forecast and still expects growth above 7%. Real GDP grew 7.8% in April-June, which the resolution says "was higher than expected". At the end of August, ANI reported the RBI's full-year growth forecast at 6.7%.
+The RBI raised its inflation forecast and still expects growth above 7%. Real GDP grew 7.8% in April-June, which the resolution says "was higher than expected". At the end of August, the RBI's full-year growth forecast was reported at 6.7%.
 
 ```facts
 {"title":"RBI projections, October 2026","items":[{"value":"5.2%","label":"CPI inflation, 2026-27","source":"RBI"},{"value":"6.0%","label":"CPI inflation, Q3 (Oct-Dec 2026)","source":"RBI"},{"value":"4.4%","label":"core inflation, 2026-27","source":"RBI"},{"value":"7.1%","label":"real GDP growth, 2026-27","source":"RBI"}]}

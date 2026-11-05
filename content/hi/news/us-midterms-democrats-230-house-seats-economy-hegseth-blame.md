@@ -30,7 +30,7 @@ infographic:
     - {icon: flag-banner, value: "230+", label: "प्रतिनिधि सभा सीटें, जिनकी ओर डेमोक्रेट्स बढ़ रहे"}
     - {icon: users-three, value: "6+", label: "सीनेट सीटें जो डेमोक्रेट्स ने छीनीं"}
     - {icon: gas-pump, value: "10 में 4", label: "मतदाता जिन्होंने अर्थव्यवस्था को सबसे बड़ा मुद्दा बताया"}
-  source: "मतगणना और AP मतदाता सर्वे, 4 नवंबर 2026"
+  source: "मतगणना और मतदाता सर्वे, 4 नवंबर 2026"
 related: [us-midterms-democrats-oust-spartz-van-orden-steil-house-jeffries, us-midterms-democrats-win-senate-talarico-brown-flip, us-midterms-democrats-win-house-senate-in-balance]
 seo:
   description: "अमेरिकी मध्यावधि चुनाव 2026: डेमोक्रेट्स प्रतिनिधि सभा में 230 से ज़्यादा सीटों की ओर, सीनेट में कम से कम छह सीटें छीनीं; महंगाई सबसे बड़ा मुद्दा; एक रिपब्लिकन ने पीट हेगसेथ को ज़िम्मेदार ठहराया।"

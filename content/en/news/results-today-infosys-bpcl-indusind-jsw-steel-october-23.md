@@ -55,7 +55,7 @@ verification:
 
 Friday is one of the heaviest days of the September-quarter results season, and the market will spend it waiting for one name in particular. Infosys, India's second-largest software exporter, reports after the close, a day after a slump in US technology shares and with investors already wary of what clients are spending.
 
-Infosys is due to release its numbers around 3:45 pm, with a leadership press conference at 4:30 pm and a call with analysts at 6 pm. The board will also consider an interim dividend. The consensus compiled by Bloomberg points to net profit of about ₹7,904 crore on revenue of about ₹49,108 crore, with an operating margin of 21.2%.
+Infosys is due to release its numbers around 3:45 pm, with a leadership press conference at 4:30 pm and a call with analysts at 6 pm. The board will also consider an interim dividend. Analysts' consensus points to net profit of about ₹7,904 crore on revenue of about ₹49,108 crore, with an operating margin of 21.2%.
 
 ## What analysts expect
 

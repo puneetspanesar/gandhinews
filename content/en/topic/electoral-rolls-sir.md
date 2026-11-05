@@ -73,7 +73,7 @@ The Special Intensive Revision (SIR) is the Election Commission of India's (ECI)
 
 ## Where things stand
 
-Draft rolls in phase III have left out names on a scale that has made the SIR the year's central election dispute. Drafts in 17 states and Union Territories omitted more than 6.15 crore names by September 1, Deccan Herald reported, with Maharashtra losing the most (2.07 crore) and Delhi the largest share (32.78%). The ECI says these are not final deletions. Opposition parties allege eligible voters are being disenfranchised; the ECI calls the "vote chori" charge part of a misleading narrative. Final rolls are now being published state by state.
+Draft rolls in phase III have left out names on a scale that has made the SIR the year's central election dispute. Drafts in 17 states and Union Territories omitted more than 6.15 crore names by September 1, with Maharashtra losing the most (2.07 crore) and Delhi the largest share (32.78%). The ECI says these are not final deletions. Opposition parties allege eligible voters are being disenfranchised; the ECI calls the "vote chori" charge part of a misleading narrative. Final rolls are now being published state by state.
 
 Court challenges continue. In August the Supreme Court directed the ECI to disclose pending appeals in West Bengal, and in September it issued notice on a Delhi plea arguing that voters served "logical discrepancy" notices were not told clearly what they had to do, Supreme Court Observer reported. Protests have also moved to the street: on October 8 Bihar's Leader of the Opposition Tejashwi Yadav was among those detained in Patna during a march against the SIR.
 

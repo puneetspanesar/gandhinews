@@ -60,7 +60,7 @@ Erling Haaland pulled City level early in the second half, and for a spell the l
 
 City pressed for the rest of the game but could not find a way through. Maresca put it down to a lack of edge in front of goal. "We lost because we were not being clinical enough in their box," he said.
 
-Jackson, who has made a fast start at Villa, credited the whole club. "The players, the manager, the team, everything is incredible," he told BBC's Match of the Day. "It's my work, so I'm very happy to do it every time," he said in another interview.
+Jackson, who has made a fast start at Villa, credited the whole club. "The players, the manager, the team, everything is incredible," he said after the match. "It's my work, so I'm very happy to do it every time," he said in another interview.
 
 Former England goalkeeper Joe Hart summed up City's afternoon: "City huffed and puffed but ultimately they didn't have the answers and Nicholas Jackson was ruthless."
 

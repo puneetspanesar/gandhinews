@@ -71,7 +71,7 @@ The house listing phase was scheduled between April and September 2026. Each sta
 
 ## What will I be asked?
 
-**Forty questions about each person, notified by the Registrar General on August 14, 2026.** The full list was published in a gazette notification under the Census Act, 1948, which directs enumerators to "ask all such questions of all persons residing within such limits". Reports by Business Standard and PTI name these among them:
+**Forty questions about each person, notified by the Registrar General on August 14, 2026.** The full list was published in a gazette notification under the Census Act, 1948, which directs enumerators to "ask all such questions of all persons residing within such limits". They include these:
 
 - Age, religion, mother tongue, migration, work and fertility, largely carried over from 2011
 - Whether you belong to a Scheduled Caste or Scheduled Tribe, and your caste
@@ -99,13 +99,13 @@ How the Registrar General will group millions of written answers into categories
 {"title":"Population count schedule","items":[{"date":"Sep 2026","text":"Ladakh and snow-bound areas of J&K, Himachal Pradesh and Uttarakhand; reference date Oct 1, 2026"},{"date":"Nov 16-30, 2026","text":"Self-enumeration in Uttar Pradesh, Punjab, Goa and non-snow-bound Uttarakhand"},{"date":"Dec 1, 2026 to Jan 4, 2027","text":"Door-to-door count in those four states; revisional round Jan 5-9; reference date Jan 5, 2027"},{"date":"Feb 2027","text":"Rest of India; reference date Mar 1, 2027"}]}
 ```
 
-The four states counted early all have assembly terms ending between March and May 2027. Business Standard linked the earlier schedule to those polls; the notification itself gives no reason.
+The four states counted early all have assembly terms ending between March and May 2027. The earlier schedule has been linked to those polls, though the notification itself gives no reason.
 
 In the four early states, the population is counted as it stood at midnight on January 5, 2027, two months before the national reference date of March 1, 2027.
 
 ## How does self-enumeration work?
 
-**You can enter your own household's details online during a window just before the enumerator's visit.** In the four poll-bound states, that window is November 16 to 30, 2026. In the snow-bound areas it ran from August 17 to 31, 2026. Business Standard describes this option as one of the features of the first census to be conducted digitally.
+**You can enter your own household's details online during a window just before the enumerator's visit.** In the four poll-bound states, that window is November 16 to 30, 2026. In the snow-bound areas it ran from August 17 to 31, 2026. This option is one of the features of the first census to be conducted digitally.
 
 ```facts
 {"title":"Census 2027 in numbers","items":[{"value":"40","label":"questions in the population count","source":"Business Standard; PTI"},{"value":"33","label":"questions in the house listing phase","source":"Telangana Today"},{"value":"1931","label":"last census to record caste for all groups","source":"Business Standard"},{"value":"Mar 1, 2027","label":"reference date for most of India","source":"Business Standard"}]}

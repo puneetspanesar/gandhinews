@@ -74,7 +74,7 @@ A day later, on Saturday, the Reserve Bank of India announced two sets of measur
 
 The RBI will sell dollars to meet "the entire daily dollar requirements" of three state-run oil marketing companies: Indian Oil Corporation, Hindustan Petroleum and Bharat Petroleum. The sales will go through one or more designated banks, starting Monday, October 12.
 
-The facility "will remain in place until further notice". The RBI said the decision was based on its assessment of current market conditions. The window takes the oil companies' import demand out of the spot market, National Herald reported.
+The facility "will remain in place until further notice". The RBI said the decision was based on its assessment of current market conditions. The window takes the oil companies' import demand out of the spot market.
 
 ## Tighter rules on hedging
 
@@ -90,7 +90,7 @@ Banks must also keep a new Foreign Exchange Risk Reserve with the RBI in cash. I
 
 ## The oil link
 
-Business Standard has tied the rupee's slide this year to oil prices and foreign investor selling. On April 30, when Brent touched $126 a barrel, its highest since June 2022, the rupee hit a then-record low of 95.32. Foreign investors had pulled more than $20 billion out of Indian markets in 2026 by then.
+The rupee's slide this year has been tied to oil prices and foreign investor selling. On April 30, when Brent touched $126 a barrel, its highest since June 2022, the rupee hit a then-record low of 95.32. Foreign investors had pulled more than $20 billion out of Indian markets in 2026 by then.
 
 Higher oil prices raise India's import bill, widen the current account deficit and add to importers' demand for dollars. The rupee has lost 1.62% against the dollar since early September. Foreign institutional investors sold equities worth ₹12,943.58 crore on October 8 alone.
 

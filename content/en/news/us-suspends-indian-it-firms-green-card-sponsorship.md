@@ -11,7 +11,7 @@ published: 2026-10-11T10:30:00+05:30
 location: New Delhi
 keyPoints:
   - "The US Labor Department said on October 8 it would **not accept or process PERM labour certifications** involving eight companies, including TCS, Infosys, Wipro and HCL."
-  - "PERM is required for most employment-based green cards; Reuters reported the freeze does **not appear to directly affect current H-1B holders**."
+  - "PERM is required for most employment-based green cards; the freeze does **not appear to directly affect current H-1B holders**."
   - "The MEA said on October 9 that Vice President JD Vance's 'indentured servants' remark was **unwarranted and deeply offensive**."
   - "TCS said its PERM applications were in single digits over the last two years and it **did not expect an impact** on its US workforce plans."
 hero:
@@ -81,7 +81,7 @@ The freeze does not appear to directly affect current H-1B visa holders. It coul
 
 ## Vance's remarks
 
-At a White House news conference on October 8, Vance singled out Microsoft. "You're a great American company, but you've got to hire great American workers," he said. He alleged that Microsoft laid off 6,000 American workers last year while obtaining 6,300 H-1B visas and nearly 3,000 green cards, Gulf News reported, citing Reuters and AP. He also claimed that H-1B workers brought in by outsourcing firms earn $48,000 less than American citizens. These are Vance's allegations, not findings.
+At a White House news conference on October 8, Vance singled out Microsoft. "You're a great American company, but you've got to hire great American workers," he said. He alleged that Microsoft laid off 6,000 American workers last year while obtaining 6,300 H-1B visas and nearly 3,000 green cards. He also claimed that H-1B workers brought in by outsourcing firms earn $48,000 less than American citizens. These are Vance's allegations, not findings.
 
 Vance said nine universities, including Harvard, Yale and Stanford, would be investigated over what the administration called "misuse of exchange-visitor visas".
 
@@ -91,15 +91,15 @@ The MEA said in a statement on October 9 that the US steps "do not advance the s
 
 > Resorting to terminology that carries painful historical and colonial legacy connotations is deeply offensive.
 >
-> Source: Ministry of External Affairs, statement, October 9, 2026 (as reported by ThePrint and Business Today)
+> Source: Ministry of External Affairs, statement, October 9, 2026
 
-The ministry said Indian professionals in the US are "highly educated and skilled contributors to its economy and innovation ecosystem" and that talent mobility "adds value to both economies". Business Today reported that India remains in communication with US authorities on the matter.
+The ministry said Indian professionals in the US are "highly educated and skilled contributors to its economy and innovation ecosystem" and that talent mobility "adds value to both economies". India was reported to remain in communication with US authorities on the matter.
 
 ## What the companies said
 
 TCS said it would comply with any Labor Department directive. "Our PERM applications were in single digits in the last two years and hence we do not expect the suspension of the program to impact our workforce strategy and customer engagements," the company said on October 9. It repeated a plan to hire 15,000 more people in the US over five years.
 
-Microsoft, Adobe, Cognizant, Infosys, HCL Technologies, Wipro and Capgemini did not immediately respond to Reuters' requests for comment. Indian IT shares rose on October 9, with TCS up about 5% and the Nifty IT index up 2%.
+Microsoft, Adobe, Cognizant, Infosys, HCL Technologies, Wipro and Capgemini did not immediately respond to requests for comment. Indian IT shares rose on October 9, with TCS up about 5% and the Nifty IT index up 2%.
 
 ## What else is pending
 

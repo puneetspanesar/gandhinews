@@ -87,7 +87,7 @@ A report that two of the three Election Commissioners repeatedly objected to dec
 
 ## What the Indian Express reported
 
-On September 23, the Indian Express reported that Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi objected on record at least 14 times over 10 months to decisions and orders they said were issued without their knowledge during the national rollout of the SIR. According to summaries of the report by ANI and The Week, the objections covered changes to Form 6, the statutory form for registering as a voter, additions to and deletions from rolls, and centralised control of the electoral roll database.
+On September 23, the Indian Express reported that Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi objected on record at least 14 times over 10 months to decisions and orders they said were issued without their knowledge during the national rollout of the SIR. According to published summaries of the report, the objections covered changes to Form 6, the statutory form for registering as a voter, additions to and deletions from rolls, and centralised control of the electoral roll database.
 
 ## The Commission's response
 
@@ -95,24 +95,24 @@ The ECI responded the same day. "The Commission operates as a multi-member const
 
 > All these decisions are an outcome of the unanimous decisions of the full Commission in the past one year.
 >
-> Source: Election Commission of India, statement, September 23, 2026 (ANI)
+> Source: Election Commission of India, statement, September 23, 2026
 
 The ECI also said every officer, not only the three Commissioners, is authorised to make suggestions, and that it "remains fully committed to executing its constitutional duties with complete integrity."
 
 ## The opposition's steps
 
-Rahul Gandhi, Leader of the Opposition in the Lok Sabha, wrote on X on September 23: "Vote chori is a crime against the Indian people and a direct attack on our constitution." Arvind Kejriwal, Uddhav Thackeray, Akhilesh Yadav, Abhishek Banerjee and John Brittas also criticised the Commission, ANI reported.
+Rahul Gandhi, Leader of the Opposition in the Lok Sabha, wrote on X on September 23: "Vote chori is a crime against the Indian people and a direct attack on our constitution." Arvind Kejriwal, Uddhav Thackeray, Akhilesh Yadav, Abhishek Banerjee and John Brittas also criticised the Commission.
 
-On September 24, The Week, citing PTI, reported that INDIA bloc parties were drafting a fresh notice to remove the CEC in both Houses, to be filed after legal vetting. No report found by this desk as of October 11 says it has been submitted.
+On September 24, INDIA bloc parties were reported to be drafting a fresh notice to remove the CEC in both Houses, to be filed after legal vetting. No report found by this desk as of October 11 says it has been submitted.
 
 ```timeline
 {"title":"Opposition moves against the CEC","items":[{"date":"Mar 12, 2026","text":"Notices signed by 130 Lok Sabha and 63 Rajya Sabha MPs seek CEC Gyanesh Kumar's removal under Article 324(5)."},{"date":"Apr 6, 2026","text":"Speaker Om Birla and Chairman C.P. Radhakrishnan refuse to admit both notices."},{"date":"Apr 24, 2026","text":"73 MPs file a second notice in the Rajya Sabha with nine charges; it remains pending."},{"date":"Sep 23, 2026","text":"Indian Express reports dissent by two Election Commissioners; ECI says decisions were unanimous."},{"date":"Sep 24, 2026","text":"INDIA bloc parties say a third notice is being drafted for both Houses."},{"date":"Oct 6-7, 2026","text":"Opposition protests in Delhi seeking the CEC's resignation; Delhi Police register FIRs."}]}
 ```
 
-The March notices alleged "partisan and discriminatory conduct in office" and "mass disenfranchisement", PTI reported. The Speaker and the Chairman refused to admit them under Section 3 of the Judges (Inquiry) Act, 1968, after what the Rajya Sabha notification called "a careful and objective assessment". The CEC can be removed only in the manner of a Supreme Court judge, on grounds of proven misbehaviour or incapacity.
+The March notices alleged "partisan and discriminatory conduct in office" and "mass disenfranchisement". The Speaker and the Chairman refused to admit them under Section 3 of the Judges (Inquiry) Act, 1968, after what the Rajya Sabha notification called "a careful and objective assessment". The CEC can be removed only in the manner of a Supreme Court judge, on grounds of proven misbehaviour or incapacity.
 
 ## Protests, FIRs and the courts
 
-Opposition leaders protested in central Delhi on October 6 and 7 demanding the CEC's resignation. Delhi Police registered at least four FIRs naming Rahul Gandhi, Priyanka Gandhi Vadra and others, alleging assault, obstruction of public servants and violation of prohibitory orders under Section 163 of the BNSS, PTI reported. A separate FIR alleges forced entry into Akashvani Bhawan. Police said 91 people, including several MPs, were detained. These are police cases; no court has ruled on them. Congress leader Jairam Ramesh, in remarks aimed at Prime Minister Narendra Modi and Home Minister Amit Shah, said: "The diabolical duo is nervous, rattled and desperate," UNI reported.
+Opposition leaders protested in central Delhi on October 6 and 7 demanding the CEC's resignation. Delhi Police registered at least four FIRs naming Rahul Gandhi, Priyanka Gandhi Vadra and others, alleging assault, obstruction of public servants and violation of prohibitory orders under Section 163 of the BNSS. A separate FIR alleges forced entry into Akashvani Bhawan. Police said 91 people, including several MPs, were detained. These are police cases; no court has ruled on them. Congress leader Jairam Ramesh, in remarks aimed at Prime Minister Narendra Modi and Home Minister Amit Shah, said: "The diabolical duo is nervous, rattled and desperate."
 
-The Supreme Court is also involved. On October 5 a bench led by Chief Justice Surya Kant said "Any modification to Form 6 has not been approved by us", PTI reported, and issued notice on a petition asking whether the CEC can individually exercise powers vested in the full Commission, IANS reported. Rahul Gandhi said on X that it was "now established beyond doubt that Gyanesh Kumar changed Form 6 illegally and unilaterally"; the ECI called his claims misleading and said the Form 6 declaration had been upheld by the court, PTI reported. Separately, on September 23, a two-judge bench split on whether the challenge to the 2023 law on appointing Election Commissioners needed a larger bench, then unanimously sent the papers to the Chief Justice to set up a Constitution Bench, Supreme Court Observer reported.
+The Supreme Court is also involved. On October 5 a bench led by Chief Justice Surya Kant said "Any modification to Form 6 has not been approved by us", and issued notice on a petition asking whether the CEC can individually exercise powers vested in the full Commission, IANS reported. Rahul Gandhi said on X that it was "now established beyond doubt that Gyanesh Kumar changed Form 6 illegally and unilaterally"; the ECI called his claims misleading and said the Form 6 declaration had been upheld by the court. Separately, on September 23, a two-judge bench split on whether the challenge to the 2023 law on appointing Election Commissioners needed a larger bench, then unanimously sent the papers to the Chief Justice to set up a Constitution Bench, Supreme Court Observer reported.

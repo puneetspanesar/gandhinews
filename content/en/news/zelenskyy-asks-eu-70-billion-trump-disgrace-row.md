@@ -68,7 +68,7 @@ EU leaders lined up to say there would be no softening towards Moscow. "This is 
 
 ## Trump's attack
 
-The meetings came hours after Trump, in an interview with Newsmax, turned on the Ukrainian leader again. "Zelensky is not a good guy for us to deal with," he said. "I think I find Zelensky to be more difficult to deal with than Putin." He also called Ukraine's drone strikes on Russian oil refineries a "disgrace", and has said Ukraine should get a new president.
+The meetings came hours after Trump, in a television interview, turned on the Ukrainian leader again. "Zelensky is not a good guy for us to deal with," he said. "I think I find Zelensky to be more difficult to deal with than Putin." He also called Ukraine's drone strikes on Russian oil refineries a "disgrace", and has said Ukraine should get a new president.
 
 Zelenskyy, who ended Kyiv's pause on refinery strikes this week, pushed back on the diesel supply arrangement Washington struck with Moscow. He called it "an arrangement we were unaware of" and said: "we cannot accept these diesel deals, these agreements, because gas deals will follow."
 

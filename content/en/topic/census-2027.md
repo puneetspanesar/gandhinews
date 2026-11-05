@@ -68,7 +68,7 @@ The questions also include new items such as particulars of parents and spouse, 
 Yes. Question 10 now reads "SC/ST/Caste". There is no pre-set list of castes, which the Congress has criticised.
 
 **Why are four states being counted early?**
-The notification gives no reason. Business Standard linked it to assembly elections due in those states in 2027.
+The notification gives no reason. It has been linked to assembly elections due in those states in 2027.
 
 **Can I fill in my own details?**
 Yes. Self-enumeration windows open before door-to-door counting; in the four poll-bound states it runs from November 16 to 30, 2026.

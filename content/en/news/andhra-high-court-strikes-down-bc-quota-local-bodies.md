@@ -84,7 +84,7 @@ The state had relied on that survey, which put the BC population at about 50.42%
 
 The court directed the government and the State Election Commission to start the election process within six weeks. The terms of gram panchayats, municipalities and municipal corporations ended in March and April. It held that the Election Commission of India's Special Intensive Revision of electoral rolls was no bar to the polls.
 
-It dismissed other petitions, including a PIL by AP BC Welfare Union president Kesana Sankara Rao seeking to defer polls until a BC census, Deccan Chronicle reported, and a YSR Congress Party petition seeking polls only after the revision of rolls.
+It dismissed other petitions, including a PIL by AP BC Welfare Union president Kesana Sankara Rao seeking to defer polls until a BC census, and a YSR Congress Party petition seeking polls only after the revision of rolls.
 
 ```facts
 {"title":"The quota and the ceiling","items":[{"value":"34%","label":"BC quota in rural local bodies, struck down","source":"The South First"},{"value":"33.33%","label":"BC quota in urban local bodies, struck down","source":"The South First"},{"value":"50%","label":"ceiling on total reservation the court applied","source":"Deccan Chronicle"},{"value":"6 weeks","label":"deadline to start the local body election process","source":"Deccan Chronicle"}]}
@@ -92,7 +92,7 @@ It dismissed other petitions, including a PIL by AP BC Welfare Union president K
 
 ## Supreme Court dismisses the appeal
 
-The state filed a special leave petition on October 3. On October 9 a bench of Justices Dipankar Datta and Sheel Nagu dismissed it, PTI reported, saying the High Court had "passed a reasonable order".
+The state filed a special leave petition on October 3. On October 9 a bench of Justices Dipankar Datta and Sheel Nagu dismissed it, saying the High Court had "passed a reasonable order".
 
 "Under what law is this being made?" Justice Datta asked during the hearing, before saying "Dismissed". He described the High Court's ruling as a "very reasonable approach by the High Court".
 

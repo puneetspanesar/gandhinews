@@ -30,7 +30,7 @@ infographic:
     - {icon: target, value: "78", label: "runs needed from 19.4 overs"}
     - {icon: timer, value: "32 overs", label: "India's reduced innings"}
   chart: {type: columns, title: "India's chase: runs scored v still needed", highlight: 1, items: [{label: "Scored", value: 65, display: "65"}, {label: "Needed", value: 78, display: "78"}]}
-  source: "Wisden live scorecard, November 4, 2026"
+  source: "Match scorecard, November 4, 2026"
 related: [india-54-one-down-rain-stops-play-eden-park-odi, india-41-one-down-kohli-chase-186-eden-park-odi, rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-eden-park]
 seo:
   description: "New Zealand v India first ODI at Eden Park, November 4, 2026: after rain, India's chase is cut to 32 overs; India 65 for 1 after 12.2 overs, needing 78 from 19.4 overs."

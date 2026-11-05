@@ -83,7 +83,7 @@ The Budget for 2026-27 targets a deficit of ₹16,95,768 crore, or 4.3% of GDP, 
 
 Until July the deficit was broadly in line with, or behind, last year's pace. It was 18.2% of the BE at the end of June (17.9% a year earlier) and 26.8% at the end of July (29.9% a year earlier).
 
-August changed that. The cumulative deficit went from ₹4,55,144 crore at the end of July to ₹7,10,249 crore at the end of August. Deccan Chronicle, reporting ICRA's analysis, says the jump was driven by an extra instalment of tax devolution to states.
+August changed that. The cumulative deficit went from ₹4,55,144 crore at the end of July to ₹7,10,249 crore at the end of August. ICRA's analysis says the jump was driven by an extra instalment of tax devolution to states.
 
 ```chart
 {"type":"vbar","title":"Fiscal deficit as share of the 2026-27 target","subtitle":"Cumulative from April, % of Budget Estimate","unit":"%","data":[{"label":"Apr-Jun","value":18.2},{"label":"Apr-Jul","value":26.8},{"label":"Apr-Aug","value":41.9,"highlight":true}],"source":"CGA data via PTI, Daily Excelsior, UNI"}

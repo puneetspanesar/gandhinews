@@ -35,7 +35,7 @@ infographic:
     - {icon: bank, value: "53-47", label: "चुनाव से पहले सीनेट में रिपब्लिकन बढ़त"}
     - {icon: bank, value: "218-214", label: "चुनाव से पहले हाउस में रिपब्लिकन बढ़त"}
     - {icon: users, value: "5.7 करोड़+", label: "चुनाव के दिन से पहले पड़े वोट"}
-  source: "सीबीएस न्यूज़, सीएनएन, यूनिवर्सिटी ऑफ फ्लोरिडा वोटिंग लैब, 3-4 नवंबर 2026"
+  source: "नेटवर्क अनुमान और यूनिवर्सिटी ऑफ फ्लोरिडा वोटिंग लैब, 3-4 नवंबर 2026"
 related: [us-midterms-voting-under-way-house-senate-57-million-early, supreme-court-rejects-trump-california-ballots-midterms-eve, us-midterms-stevens-backs-rogers-alaska-sullivan-suit-dismissed]
 seo:
   description: "2026 अमेरिकी मध्यावधि चुनाव के पहले बड़े नतीजे में डेमोक्रेट जॉन ऑसॉफ ने जॉर्जिया की सीनेट सीट जीती; शुरुआती गिनती में रिपब्लिकन सीटों पर डेमोक्रेट आगे।"

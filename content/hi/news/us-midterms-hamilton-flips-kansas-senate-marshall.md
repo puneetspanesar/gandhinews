@@ -29,7 +29,7 @@ infographic:
   stats:
     - {icon: flag-banner, value: "51+", label: "अब तक डेमोक्रेट्स की पक्की सीनेट सीटें"}
     - {icon: bank, value: "Alaska", label: "सीनेट सीट की गिनती अभी जारी"}
-  source: "अल जज़ीरा, बिज़नेस स्टैंडर्ड, 4 नवंबर 2026"
+  source: "नतीजों के अनुमान और वोटों की गिनती, 4 नवंबर 2026"
 related: [us-midterms-democrats-win-senate-talarico-brown-flip, us-midterms-turek-flips-iowa-senate-hinson, us-midterms-collins-concedes-troy-jackson-maine-senate-flip, us-midterms-stevens-backs-rogers-alaska-sullivan-suit-dismissed]
 seo:
   description: "अमेरिकी मध्यावधि चुनाव 2026: डेमोक्रेट एडम हैमिल्टन ने कंसास में रिपब्लिकन सीनेटर रॉजर मार्शल को हराया, सीनेट में डेमोक्रेट्स कम से कम 51 सीटों पर; ट्रंप बोले, डेमोक्रेट्स के साथ काम करेंगे।"

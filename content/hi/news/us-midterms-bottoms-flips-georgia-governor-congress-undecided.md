@@ -40,7 +40,7 @@ infographic:
     - {date: "सुबह 6:25 बजे", text: "जॉन ओसॉफ ने जॉर्जिया सीट बचाई", icon: check-circle}
     - {date: "सुबह 7:00 बजे", text: "रॉय कूपर ने नॉर्थ कैरोलाइना सीट छीनी", icon: flag-banner}
     - {date: "सुबह 7:43 बजे", text: "कीशा लांस बॉटम्स ने जॉर्जिया गवर्नर पद जीता", icon: flag-banner}
-  source: "एनबीसी न्यूज़ और एपी के अनुमान, 3-4 नवंबर 2026"
+  source: "नेटवर्क अनुमान और वोटों की गिनती, 3-4 नवंबर 2026"
 related: [us-midterms-results-cooper-flips-north-carolina-senate, us-midterms-ossoff-holds-georgia-first-results, us-midterms-voting-under-way-house-senate-57-million-early]
 seo:
   description: "अमेरिकी मध्यावधि चुनाव 2026: डेमोक्रेट कीशा लांस बॉटम्स ने जॉर्जिया का गवर्नर चुनाव जीता, 24 साल बाद राज्य पलटा; सीनेट और प्रतिनिधि सभा का नियंत्रण अभी तय नहीं।"

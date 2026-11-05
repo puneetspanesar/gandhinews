@@ -65,7 +65,7 @@ Tech Mahindra's profit rose by a third in the July to September quarter, and its
 
 Net profit came to ₹1,586 crore, up 32.7% from ₹1,195 crore a year earlier and 8.2% higher than in the June quarter, the Pune-based IT company said on Thursday evening. Revenue rose 15.6% to ₹16,180 crore and was up 3% on the previous quarter. In constant currency, which strips out exchange rate swings, revenue grew 7.2% from a year earlier.
 
-Revenue beat the Bloomberg consensus estimate of ₹16,027 crore. Profit fell short of the ₹1,642 crore analysts had expected on that measure, though it was ahead of some brokers' forecasts made before the results.
+Revenue beat analysts' consensus estimate of ₹16,027 crore. Profit fell short of the ₹1,642 crore analysts had expected on that measure, though it was ahead of some brokers' forecasts made before the results.
 
 ## Bonus shares and a dividend
 

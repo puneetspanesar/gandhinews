@@ -10,7 +10,7 @@ standfirst: "Sitharaman says more concessions will be hard for both sides. A new
 published: 2026-10-11T10:00:00+05:30
 location: New Delhi
 keyPoints:
-  - "Finance Minister Nirmala Sitharaman said on October 5 that trade talks with the US had **reached a plateau**, Reuters reported."
+  - "Finance Minister Nirmala Sitharaman said on October 5 that trade talks with the US had **reached a plateau**."
   - "The 18% US tariff rate in the February 2026 framework **never took effect**, and the first tranche of the deal is not in force."
   - "Indian goods have faced **a 10% US Section 301 duty** since July 24, 2026, on top of normal duties, with exclusions."
   - "A US law signed on September 18 allows **tariffs of up to 100%** on the five biggest buyers of Russian oil and gas, but it does not impose them."
@@ -92,7 +92,7 @@ verification:
     - "Dropped from research: Upstox figure of about $141 billion bilateral trade in 2025 (broker site, not official); India Briefing's 'committed' vs 'intends' wording change on the $500 billion pledge (not confirmed against the official text); Indian Express analysts' waiver expectations (article not opened)."
 ---
 
-Finance Minister Nirmala Sitharaman said on October 5 that trade talks with the United States had reached a plateau, where further concessions would be "very, very difficult" for both sides, Reuters reported. The two countries have been working on a deal since February 2025.
+Finance Minister Nirmala Sitharaman said on October 5 that trade talks with the United States had reached a plateau, where further concessions would be "very, very difficult" for both sides. The two countries have been working on a deal since February 2025.
 
 Her remarks followed US Trade Representative Jamieson Greer's statement the previous week that an agreement was not imminent. They also came 17 days after President Donald Trump signed a law that lets him impose tariffs of up to 100% on the largest buyers of Russian oil and gas, a group that includes India.
 
@@ -100,11 +100,11 @@ Her remarks followed US Trade Representative Jamieson Greer's statement the prev
 
 India and the US announced a framework in February 2026. A US fact sheet dated February 10 said the US would cut its reciprocal tariff on India from 25% to 18% and that the President had removed an additional 25% tariff linked to India's purchases of Russian oil. The fact sheet said India "intends to buy more American products and purchase over $500 billion of U.S. energy, information and communication technology, coal, and other products".
 
-The 18% rate never took effect. On February 20, the US Supreme Court struck down the reciprocal tariffs imposed under the International Emergency Economic Powers Act, Business Today reported. Washington replaced them with a temporary 10% duty under Section 122 of the Trade Act of 1974, which applied from February 24.
+The 18% rate never took effect. On February 20, the US Supreme Court struck down the reciprocal tariffs imposed under the International Emergency Economic Powers Act. Washington replaced them with a temporary 10% duty under Section 122 of the Trade Act of 1974, which applied from February 24.
 
-On July 29, Commerce Minister Piyush Goyal said the first tranche of the deal had been finalised but would come into operation "as soon as the United States is able to ensure that India gets a comparative advantage over its competitors", PTI reported. He referred to countries in India's neighbourhood and in ASEAN.
+On July 29, Commerce Minister Piyush Goyal said the first tranche of the deal had been finalised but would come into operation "as soon as the United States is able to ensure that India gets a comparative advantage over its competitors". He referred to countries in India's neighbourhood and in ASEAN.
 
-Sitharaman said the trade balance favours India and criticised the growing use of tariffs to correct trade imbalances, Reuters reported. Ajay Srivastava of the Global Trade Research Initiative urged India to stop making concessions while the deal remains unfinished.
+Sitharaman said the trade balance favours India and criticised the growing use of tariffs to correct trade imbalances. Ajay Srivastava of the Global Trade Research Initiative urged India to stop making concessions while the deal remains unfinished.
 
 ## What is in force and what is not
 
@@ -112,16 +112,16 @@ Sitharaman said the trade balance favours India and criticised the growing use o
 {"title":"US tariffs on Indian goods: status as of October 11, 2026","items":[{"value":"10%","label":"Section 301 duty on Indian goods since July 24, 2026, on top of normal duties, with exclusions (in force)","source":"USTR notice, via ELP and Outlook Business"},{"value":"18%","label":"reciprocal rate in the February 2026 framework (never took effect)","source":"Business Today, Feb 21, 2026"},{"value":"Up to 100%","label":"tariff the Russia sanctions law allows on top Russian oil buyers (authorised, not imposed)","source":"Outlook India; Reuters"},{"value":"$42.79 bn","label":"Indian goods exports to the US, April-August 2026, up from $40.39 bn a year earlier","source":"Reuters, Oct 5, 2026"}]}
 ```
 
-The 10% Section 301 duty came out of a US investigation into forced labour. The US Trade Representative had proposed 12.5% for India in June, then set it at 10% after India amended its foreign trade policy on June 14 to bar imports made with forced labour, Outlook Business reported. Goods already under Section 232 duties, such as steel, aluminium and some auto parts, are exempt from the Section 301 duty, according to the ELP law firm's summary of the US notice. Business Today reported in February that the Section 232 rates were 50% on steel and aluminium and 25% on certain auto parts.
+The 10% Section 301 duty came out of a US investigation into forced labour. The US Trade Representative had proposed 12.5% for India in June, then set it at 10% after India amended its foreign trade policy on June 14 to bar imports made with forced labour. Goods already under Section 232 duties, such as steel, aluminium and some auto parts, are exempt from the Section 301 duty, according to the ELP law firm's summary of the US notice. In February the Section 232 rates were 50% on steel and aluminium and 25% on certain auto parts.
 
 ## What the Russia oil law does
 
-The Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 (H.R. 5334) was signed on September 18, according to a White House statement quoted by Outlook India. It allows the President to impose tariffs of up to 100% on imports from the five largest buyers of Russian crude and gas, a list reassessed every 180 days. The President decides the rate, and the law does not apply a tariff on its own. The Act also sanctions Russian banks, Russia's energy and defence sectors and the "shadow fleet" of tankers, Al Jazeera reported.
+The Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 (H.R. 5334) was signed on September 18, according to a White House statement. It allows the President to impose tariffs of up to 100% on imports from the five largest buyers of Russian crude and gas, a list reassessed every 180 days. The President decides the rate, and the law does not apply a tariff on its own. The Act also sanctions Russian banks, Russia's energy and defence sectors and the "shadow fleet" of tankers.
 
-Democratic Senator Richard Blumenthal, a co-author, said after the House passed the bill on September 16: "To China and India: you better clean up your act. Buy your oil and gas somewhere else," The Pioneer reported. House Minority Leader Hakeem Jeffries opposed the bill, warning its tariff powers would raise costs for American households, according to Al Jazeera.
+Democratic Senator Richard Blumenthal, a co-author, said after the House passed the bill on September 16: "To China and India: you better clean up your act. Buy your oil and gas somewhere else." House Minority Leader Hakeem Jeffries opposed the bill, warning its tariff powers would raise costs for American households.
 
-India's Russian crude imports fell to about 2.08 million barrels a day in August (about 45% of crude imports) from about 2.82 million in July (nearly 56%), Kpler data cited by Outlook India show.
+India's Russian crude imports fell to about 2.08 million barrels a day in August (about 45% of crude imports) from about 2.82 million in July (nearly 56%), Kpler data show.
 
-The Ministry of External Affairs said on September 17 that India remains "firmly committed to ensuring energy security for its 1.4 billion people" and "will continue to do so through diversified sourcing and on the basis of evolving market dynamics", PTI reported. It said India would take necessary measures to protect its trade and economic interests. External Affairs Minister S. Jaishankar raised the law with US Secretary of State Marco Rubio in New York on September 23, writing on X: "Reiterated India's interests and concerns with regard to SRIA (Sanctioning Russia and Iran Act)."
+The Ministry of External Affairs said on September 17 that India remains "firmly committed to ensuring energy security for its 1.4 billion people" and "will continue to do so through diversified sourcing and on the basis of evolving market dynamics". It said India would take necessary measures to protect its trade and economic interests. External Affairs Minister S. Jaishankar raised the law with US Secretary of State Marco Rubio in New York on September 23, writing on X: "Reiterated India's interests and concerns with regard to SRIA (Sanctioning Russia and Iran Act)."
 
-Reuters noted the bind for New Delhi: cutting Russian purchases could raise fuel prices or strain public finances, while continuing them could hurt exports to the US, India's largest market.
+That leaves New Delhi in a bind: cutting Russian purchases could raise fuel prices or strain public finances, while continuing them could hurt exports to the US, India's largest market.

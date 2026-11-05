@@ -89,6 +89,6 @@ Those figures show how much of the rabi MSP system rests on wheat. Of the 3,921 
 
 ## What the cost adds up to
 
-Outlook India puts the estimated financial implication of the rabi MSPs at ₹90,962 crore; the PIB release does not give a figure. The MSP decision was one of three Cabinet approvals on September 30 that Outlook says total ₹2,79,157 crore, alongside a transmission and storage scheme and a Delhi traffic management system.
+The estimated financial implication of the rabi MSPs has been put at ₹90,962 crore; the PIB release does not give a figure. The MSP decision was one of three Cabinet approvals on September 30 that Outlook says total ₹2,79,157 crore, alongside a transmission and storage scheme and a Delhi traffic management system.
 
-The new rates apply to procurement in the 2027-28 rabi marketing season. The kharif MSPs for 2026-27, approved in May, set common paddy at ₹2,441 a quintal, according to a PTI report carried by DT Next.
+The new rates apply to procurement in the 2027-28 rabi marketing season. The kharif MSPs for 2026-27, approved in May, set common paddy at ₹2,441 a quintal.

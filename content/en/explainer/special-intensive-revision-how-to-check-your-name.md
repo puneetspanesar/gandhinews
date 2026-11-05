@@ -103,7 +103,7 @@ You can also use the "Book a Call with BLO" option, according to the Delhi FAQ.
 
 **File Form 6, with the declaration form and supporting documents, during your state's claims and objections period.** You can submit online through voters.eci.gov.in or the ECINET app, or on paper to your BLO, Assistant Electoral Registration Officer or Electoral Registration Officer. If you have moved permanently, Form 6 at your new address transfers your name.
 
-Two other forms matter. Form 7 is used to object to an entry, for example a dead voter still listed, and Form 8 is used to correct details such as name or address, PTI reported in its explainer on Maharashtra's draft.
+Two other forms matter. Form 7 is used to object to an entry, for example a dead voter still listed, and Form 8 is used to correct details such as name or address.
 
 ## What if my name is still missing from the final roll?
 

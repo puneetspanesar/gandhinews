@@ -12,7 +12,7 @@ location: Washington
 keyPoints:
   - "Trump said he would not drive Moscow **\"foolishly\" away from the bargaining table**."
   - "He accused Zelenskyy of not wanting peace, citing **Ukrainian strikes on Russian diesel refineries**."
-  - "Zelenskyy told NBC the waiver would be a **\"historic mistake\"** for Washington."
+  - "Zelenskyy said in a US television interview that the waiver would be a **\"historic mistake\"** for Washington."
 hero:
   need: "Two-panel split: Donald Trump and Volodymyr Zelenskyy"
   suggested_source: "Donald Trump"
@@ -47,7 +47,7 @@ In a post on Truth Social, Trump said he was negotiating peace and did not want 
 
 The waivers, announced on Friday, followed Trump's October 9 announcement that Russia would supply more than 300,000 tonnes of diesel to US and world markets. Fuel prices have spiked since the US and Israel went to war with Iran in late February and Iran effectively closed the Strait of Hormuz.
 
-Zelenskyy hit back on NBC's Meet the Press, saying the waiver "will hurt Ukraine" and would strengthen Vladimir Putin's war effort. Waiving sanctions, he said, would be a "historic mistake" for Washington, and Putin remained the aggressor.
+Zelenskyy hit back in a US television interview, saying the waiver "will hurt Ukraine" and would strengthen Vladimir Putin's war effort. Waiving sanctions, he said, would be a "historic mistake" for Washington, and Putin remained the aggressor.
 
 He also said he had spoken to US envoys Steve Witkoff and Jared Kushner about the next steps in diplomacy, and that intelligence sharing between Washington and Kyiv had resumed after being "blocked for some period of time".
 

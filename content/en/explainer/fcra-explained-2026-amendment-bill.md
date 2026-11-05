@@ -88,7 +88,7 @@ Under the current law, when a certificate is cancelled or surrendered, the forei
 
 ## What do the parties say?
 
-**The Congress and the Samajwadi Party have asked for the Bill to be withdrawn; the government says it does not target minorities.** Congress MP K.C. Venugopal sought its withdrawal when it was referred to the committee, and SP chief Akhilesh Yadav also opposed it. Parliamentary Affairs Minister Kiren Rijiju said nothing in the Bill targets minority institutions, according to the same report.
+**The Congress and the Samajwadi Party have asked for the Bill to be withdrawn; the government says it does not target minorities.** Congress MP K.C. Venugopal sought its withdrawal when it was referred to the committee, and SP chief Akhilesh Yadav also opposed it. Parliamentary Affairs Minister Kiren Rijiju said nothing in the Bill targets minority institutions.
 
 ## Where does the Bill stand?
 

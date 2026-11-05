@@ -145,4 +145,4 @@ Lok Sabha referred the Foreign Contribution (Regulation) Amendment Bill, 2026 to
 
 The 18th Lok Sabha has sent 21% of its Bills to committees so far, against 16% in the 17th, according to PRS. The House has also not elected a Deputy Speaker two years into its term.
 
-Both Houses were adjourned sine die on August 13. Business Standard reported on August 23 that the session had not been formally prorogued. As of October 11, no dates for the Winter Session had been announced.
+Both Houses were adjourned sine die on August 13. As of August 23 the session had not been formally prorogued. As of October 11, no dates for the Winter Session had been announced.

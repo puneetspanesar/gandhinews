@@ -60,7 +60,7 @@ The Union government wants every state and Union Territory to have rules under t
 
 > we are hoping we will have the rules at the state level by October 31.
 >
-> Source: Chandra Bhushan Kumar, Union Labour Secretary, at a PHDCCI and Grant Thornton Bharat seminar in New Delhi, September 24, 2026, as reported by Business Standard
+> Source: Chandra Bhushan Kumar, Union Labour Secretary, at a PHDCCI and Grant Thornton Bharat seminar in New Delhi, September 24, 2026
 
 Kumar called state rule-making "a major, major exercise", because state governments are the appropriate government in most cases.
 
@@ -72,9 +72,9 @@ Labour is on the concurrent list, so both Parliament and state legislatures can 
 
 ## Where the states stand
 
-Neither the Labour Ministry nor Business Standard has named the ten states with final rules. Gujarat, Arunachal Pradesh and Bihar are reported to have final rules under all four codes by both The Tribune, in July, and the Shardul Amarchand Mangaldas employment law newsletter for October 2026.
+The Labour Ministry has not named the ten states with final rules. Gujarat, Arunachal Pradesh and Bihar are reported to have final rules under all four codes, both in July reports and in the Shardul Amarchand Mangaldas employment law newsletter for October 2026.
 
-The Tribune reported in July that Kerala had sought more time to study the codes and that West Bengal had not published draft rules. Gandhi News could not confirm whether either state has moved since.
+In July, Kerala was reported to have sought more time to study the codes, and West Bengal had not published draft rules. Gandhi News could not confirm whether either state has moved since.
 
 ```facts
 {"title":"Labour codes in numbers","items":[{"value":"29","label":"central labour laws replaced by four codes","source":"Business Standard"},{"value":"10","label":"states with final rules, per the Labour Secretary on Sep 24, 2026","source":"Business Standard"},{"value":"1,436 to 351","label":"cut in the number of rules, per a Grant Thornton Bharat report","source":"Business Standard"},{"value":"Oct 31, 2026","label":"date by which the Centre hopes all states will have rules","source":"Business Standard"}]}
@@ -87,7 +87,7 @@ Rules notified so far differ from state to state. Several state social security 
 The Grant Thornton Bharat report launched at the same seminar also flagged unresolved questions. These include the rule on paying wages within two working days after a worker leaves, and the lack of definitions for managerial, administrative and supervisory roles.
 
 ```timeline
-{"title":"Labour codes: from law to rules","items":[{"date":"Nov 21, 2025","text":"The four labour codes come into force, replacing 29 central laws"},{"date":"May 8, 2026","text":"Centre notifies rules under all four codes and Model Standing Orders"},{"date":"Jul 10, 2026","text":"The Tribune reports four states with final rules under all four codes; Kerala seeks more time"},{"date":"Sep 24, 2026","text":"Labour Secretary says ten states have final rules, sets October 31 target"},{"date":"Oct 31, 2026","text":"Centre's target for rules in every state and Union Territory"}]}
+{"title":"Labour codes: from law to rules","items":[{"date":"Nov 21, 2025","text":"The four labour codes come into force, replacing 29 central laws"},{"date":"May 8, 2026","text":"Centre notifies rules under all four codes and Model Standing Orders"},{"date":"Jul 10, 2026","text":"Four states reported to have final rules under all four codes; Kerala seeks more time"},{"date":"Sep 24, 2026","text":"Labour Secretary says ten states have final rules, sets October 31 target"},{"date":"Oct 31, 2026","text":"Centre's target for rules in every state and Union Territory"}]}
 ```
 
 ## A data platform for workers

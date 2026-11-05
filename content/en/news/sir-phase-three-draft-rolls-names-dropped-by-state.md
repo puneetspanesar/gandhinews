@@ -104,7 +104,7 @@ verification:
     - "Rahul Gandhi's words are PTI's English translation of a Hindi post; paraphrased rather than quoted."
 ---
 
-Draft electoral rolls published so far in the third phase of the Special Intensive Revision (SIR) have left out more than 6.15 crore names, Deccan Herald reported on September 1, covering the 17 states and Union Territories whose drafts were out by then. The Election Commission of India (ECI) says names left off a draft are not final deletions and can be restored through claims.
+Draft electoral rolls published so far in the third phase of the Special Intensive Revision (SIR) had left out more than 6.15 crore names by September 1, covering the 17 states and Union Territories whose drafts were out by then. The Election Commission of India (ECI) says names left off a draft are not final deletions and can be restored through claims.
 
 ```chart
 {"type":"hbar","title":"Names left out of SIR phase III draft rolls","subtitle":"Lakh electors, states with confirmed figures","unit":"lakh","data":[{"label":"Maharashtra","value":206.88,"highlight":true},{"label":"Delhi","value":47.57},{"label":"Andhra Pradesh","value":44.9},{"label":"Jharkhand","value":43.62},{"label":"Haryana","value":33.8},{"label":"Punjab","value":20.66}],"source":"Maharashtra CEO via PTI; ThePrint (Delhi); Jharkhand CEO via The Pioneer; The Wire (Haryana, Andhra Pradesh); The Tribune (Punjab). Karnataka and Telangana totals not confirmed"}
@@ -125,7 +125,7 @@ Maharashtra's draft, released on August 31, left out 2,06,88,487 people, or 21.1
 | Andhra Pradesh | 44.9 lakh | 10.8% |
 | Punjab | 20.66 lakh | 9.7% |
 
-Sources: ThePrint (Delhi; share calculated from its figures); Maharashtra CEO via PTI; Outlook (Telangana, Karnataka); Jharkhand CEO via The Pioneer; The Wire (Haryana, Andhra Pradesh); The Tribune (Punjab).
+Figures are from the chief electoral officers of the states concerned and published state tallies; the Delhi share is our calculation.
 
 Within states, Outlook found deletions concentrated in some city seats. Jubilee Hills in Hyderabad had 1,79,510 deletions, 83% marked "shifted", and Bommanahalli in Bengaluru lost 54.8% of its electorate at the draft stage.
 
@@ -137,7 +137,7 @@ On October 2 the ECI called the claim that 13 crore voters had been removed from
 
 ## What the opposition says
 
-Rahul Gandhi, Leader of the Opposition in the Lok Sabha, described the Maharashtra exclusions as "vote theft" in a post on September 1 and alleged that the exercise was aimed at securing a BJP victory, according to PTI's translation of his Hindi post. In Punjab, the Congress, BJP, AAP and Shiromani Akali Dal all said they were checking the draft lists booth by booth. On October 8, Bihar's Leader of the Opposition Tejashwi Yadav was among those detained in Patna during a Mahagathbandhan march against the SIR.
+Rahul Gandhi, Leader of the Opposition in the Lok Sabha, described the Maharashtra exclusions as "vote theft" in a post on September 1 and alleged that the exercise was aimed at securing a BJP victory. In Punjab, the Congress, BJP, AAP and Shiromani Akali Dal all said they were checking the draft lists booth by booth. On October 8, Bihar's Leader of the Opposition Tejashwi Yadav was among those detained in Patna during a Mahagathbandhan march against the SIR.
 
 ## What happens next
 

@@ -57,7 +57,7 @@ Oil prices jumped on Thursday, with Brent crude rising above $113 a barrel for t
 
 US West Texas Intermediate crude climbed to about $100 a barrel, also its highest since May. Brent has now risen by more than half since the war with Iran began in late February.
 
-Two developments drove the move. Saudi Arabia reported attacks on the airport at Dammam and on an Aramco oil field, the latest in a series of strikes by Yemen's Houthi rebels on the kingdom. A New York Times report that the United States and Israel had drawn up plans for renewed strikes on Iran after the November 3 US midterm elections added to fears of a longer disruption. President Donald Trump also denied that Washington was in talks with Tehran.
+Two developments drove the move. Saudi Arabia reported attacks on the airport at Dammam and on an Aramco oil field, the latest in a series of strikes by Yemen's Houthi rebels on the kingdom. A report that the United States and Israel had drawn up plans for renewed strikes on Iran after the November 3 US midterm elections added to fears of a longer disruption. President Donald Trump also denied that Washington was in talks with Tehran.
 
 "Brent crude surged 3 per cent following attacks on Saudi Aramco's oilfield," said Sunny Aggrawal, head of fundamental research at SBI Securities.
 

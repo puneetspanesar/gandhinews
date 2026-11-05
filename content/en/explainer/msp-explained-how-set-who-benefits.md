@@ -79,7 +79,7 @@ Because the formula sets only a floor, actual margins vary widely by crop.
 
 **For the 2027-28 rabi season, wheat is ₹2,610 a quintal, and for the 2026-27 kharif season, common paddy is ₹2,441.** The rabi MSPs were approved on September 30, 2026. Wheat rose by ₹25, while safflower rose by ₹675, rapeseed-mustard by ₹413 and masoor by ₹390.
 
-The kharif MSPs for 2026-27 were approved in May 2026 for 14 crops. Paddy rose by ₹72, and sunflower seed got the largest increase, ₹622 to ₹8,343 a quintal, according to a PTI report.
+The kharif MSPs for 2026-27 were approved in May 2026 for 14 crops. Paddy rose by ₹72, and sunflower seed got the largest increase, ₹622 to ₹8,343 a quintal.
 
 ```facts
 {"title":"Selected MSPs (₹ per quintal)","items":[{"value":"₹2,610","label":"wheat, rabi 2027-28","source":"PIB"},{"value":"₹2,441","label":"common paddy, kharif 2026-27","source":"PTI via DT Next"},{"value":"₹6,613","label":"rapeseed and mustard, rabi 2027-28","source":"PIB"},{"value":"₹8,450","label":"tur (arhar), kharif 2026-27","source":"PTI via DT Next"}]}
@@ -91,7 +91,7 @@ The kharif MSPs for 2026-27 were approved in May 2026 for 14 crops. Paddy rose b
 
 Procurement volumes rose too. The government bought 3,921 lakh tonnes of the six rabi crops in 2014-15 to 2025-26, against 2,302 lakh tonnes in the earlier decade.
 
-For the 2027-28 rabi season alone, Outlook India puts the estimated financial implication of the new MSPs at ₹90,962 crore. The PIB release does not give a figure.
+For the 2027-28 rabi season alone, the estimated financial implication of the new MSPs has been put at ₹90,962 crore. The PIB release does not give a figure.
 
 ## Does the government buy every crop at MSP?
 

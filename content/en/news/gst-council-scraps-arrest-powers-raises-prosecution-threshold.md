@@ -74,7 +74,7 @@ Prosecution is narrowed as well as made rarer. Apart from the higher ₹5 crore 
 
 > Business has to be trusted. Taxpayers have to be trusted.
 >
-> Source: Nirmala Sitharaman, Union Finance Minister, at the post-meeting briefing on October 8, 2026, as reported by Deccan Chronicle
+> Source: Nirmala Sitharaman, Union Finance Minister, at the post-meeting briefing on October 8, 2026
 
 Taxscan reported the Finance Minister as saying that prosecution would continue where there is criminality.
 
@@ -100,10 +100,10 @@ The Council also recommended removing restrictions on input tax credit for healt
 
 The release says process reform was the focus. The few rate decisions were item-specific: psyllium seeds move to NIL, passenger transport and rental by electric vehicles with operators gets an optional 5% rate with restricted credit, and delivery services through e-commerce operators are taxed at 5% without credit.
 
-Prime Minister Narendra Modi welcomed the recommendations in a post on X: "The focus is clear: faster decisions, lower compliance costs, automated refunds and trust-based administration," as quoted by Deccan Chronicle.
+Prime Minister Narendra Modi welcomed the recommendations in a post on X: "The focus is clear: faster decisions, lower compliance costs, automated refunds and trust-based administration."
 
 ## What happens next
 
-The release states that the recommendations "would be given effect through the relevant circulars/ notifications/ law amendments", and that only those carry the force of law. According to Deccan Chronicle and Taxscan, Sitharaman said the agenda items would be implemented from April 1, 2027.
+The release states that the recommendations "would be given effect through the relevant circulars/ notifications/ law amendments", and that only those carry the force of law. Sitharaman said the agenda items would be implemented from April 1, 2027.
 
 The meeting came as collections stayed strong. Gross GST revenue in September 2026 was about ₹2.04 lakh crore, up 14.7% on a year earlier, according to provisional data.

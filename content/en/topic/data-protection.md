@@ -68,7 +68,7 @@ Two search-cum-selection committees are handling the Board appointments, one cha
 You can ask for a copy of your data, have it corrected or updated, ask for it to be erased, nominate someone to act for you, and complain to the organisation and to the Board.
 
 **Can I complain to the Board today?**
-In practice, no. A board without members cannot hear complaints or pass orders, as LiveLaw and India Data Law note.
+In practice, no. A board without members cannot hear complaints or pass orders, as India Data Law notes.
 
 **What is a consent manager?**
 An India-based company that runs one platform for people to give, review and withdraw consent across services, under the Board's oversight.

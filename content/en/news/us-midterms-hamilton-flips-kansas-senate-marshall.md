@@ -28,7 +28,7 @@ infographic:
   stats:
     - {icon: flag-banner, value: "51+", label: "Senate seats Democrats have secured so far"}
     - {icon: bank, value: "Alaska", label: "Senate race still being counted"}
-  source: "Al Jazeera, Business Standard, November 4, 2026"
+  source: "Race calls and vote count, November 4, 2026"
 related: [us-midterms-democrats-win-senate-talarico-brown-flip, us-midterms-turek-flips-iowa-senate-hinson, us-midterms-collins-concedes-troy-jackson-maine-senate-flip, us-midterms-stevens-backs-rogers-alaska-sullivan-suit-dismissed]
 seo:
   description: "US midterms 2026: Democrat Adam Hamilton defeats Republican Senator Roger Marshall in Kansas as Democrats secure at least 51 Senate seats; Trump says he will work with Democrats."

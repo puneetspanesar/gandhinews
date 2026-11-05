@@ -34,7 +34,7 @@ infographic:
     - {icon: cricket, value: "44/2", label: "9 ओवर के बाद न्यूज़ीलैंड"}
     - {icon: target, value: "2", label: "अर्शदीप के विकेट: यंग, निकोल्स"}
     - {icon: hand, value: "1/19", label: "गुरनूर बराड़, सीफ़र्ट कै. गायकवाड़"}
-  source: "बॉम्बे समाचार, ESPNcricinfo लाइव सूची, 4 नवंबर 2026"
+  source: "मैच स्कोरकार्ड, 4 नवंबर 2026"
 related: [india-elect-to-field-new-zealand-one-down-eden-park-first-odi, gill-any-indian-team-can-beat-anyone-eden-park-first-odi-preview, gill-iyer-split-odi-captaincy-new-zealand-bumrah-jadeja-out]
 seo:
   description: "ईडन पार्क में न्यूज़ीलैंड बनाम भारत पहला वनडे लाइव: अर्शदीप सिंह के पावरप्ले में दो विकेट, गुरनूर बराड़ ने टिम सीफ़र्ट को गायकवाड़ के हाथों कैच कराया।"
