@@ -3,9 +3,10 @@ import PHOTOS from '../../content/photos.map.json';
 import { verdictKey, VERDICT_RATING, UI, SECTION_NAMES, type Lang } from './i18n';
 
 /** Ways people write the name: one word, lower case, in Devanagari, and the site's former name Gandhi News. */
-export const NAME_VARIANTS = ['GandhiNews', 'gandhinews', 'गांधी न्यूज़', 'गांधी न्यूज', 'LokVox'];
+export const NAME_VARIANTS = ['GandhiNews', 'gandhinews', 'गांधी न्यूज़', 'गांधी न्यूज'];
 /** Official profiles elsewhere. Add each one here as it is created, so Google can tie them to this site. */
-export const SAME_AS: string[] = ['https://x.com/lokvoxcom', 'https://www.instagram.com/lokvoxcom'];
+// Add the Gandhi News social profiles here once they exist.
+export const SAME_AS: string[] = [];
 
 export const PUBLISHER = {
   '@type': 'NewsMediaOrganization',

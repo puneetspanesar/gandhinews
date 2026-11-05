@@ -11,7 +11,7 @@ const t = UI[lang];
   <div class="who">
     <Seal small />
     <span>
-      <b>{t.fromDesk}{location ? <span style="font-weight:400;color:var(--mut)"> · {location}</span> : null}</b>
+      <b>{t.fromDesk}{location ? <span style="font-weight:400;color:var(--ink)"> · {location}</span> : null}</b>
       {t.published} <time datetime={published.toISOString()}>{fmtDateTime(published, lang)}</time>
       {updated && <><br />{t.updated} <time datetime={updated.toISOString()}>{fmtDateTime(updated, lang)}</time></>}
     </span>

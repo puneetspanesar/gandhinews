@@ -34,7 +34,7 @@ const maxShare = Math.max(...shares.map((x: any) => x.vote_share_pct));
 const now = el.current_house_position;
 const nowRows = Object.entries(now.effective as Record<string, number>).map(([k, v]) => ({
   k, v, label: k === 'INC_suspended_listed_independent' ? L('Suspended Congress MLAs', 'निलंबित कांग्रेस विधायक') : k === 'SP_expelled_backing_NDA' ? L('Expelled SP MLAs backing the NDA', 'सपा से निकाले गए विधायक, एनडीए के साथ') : k === 'Vacant' ? L('Vacant seats', 'खाली सीटें') : k === 'Akali Dal (Waris Punjab De)' ? tr(k) : pn(k),
-  color: k.startsWith('INC_') ? '#9ccfee' : k.startsWith('SP_') ? '#f0a3a8' : k === 'Vacant' ? '#d9d9d6' : k.startsWith('Akali Dal (W') ? '#6a7bb5' : partyOf(k).color,
+  color:k.startsWith('INC_') ? '#9ccfee' : k.startsWith('SP_') ? '#f0a3a8' : k === 'Vacant' ? '#d9d9d6' : k.startsWith('Akali Dal (W') ? '#6a7bb5' : partyOf(k).color,
 }));
 const waffle = seats22.flatMap((x: any) => Array.from({ length: x.seats }, () => partyOf(x.party).color));
 
@@ -94,7 +94,7 @@ const card = (o: any, role: string, id?: string) => ({ o, role, ph: id ? pt(id) 
       <div class="offs">
         {[card(gov.governor, L('Governor', 'राज्यपाल'), 'governor'), card(gov.speaker, L('Speaker', 'विधानसभा अध्यक्ष'), 'speaker'), card(gov.leader_of_opposition, L('Leader of Opposition', 'नेता प्रतिपक्ष'), 'lop')].map((x) => (
           <div class="off">
-            {x.ph ? <img class="pt" src={x.ph.src} alt={nameOf(x.o)} loading="lazy" /> : <span class="pt ini" style={`background:${x.o.party ? partyOf(x.o.party).color : '#6e6e6e'}`}>{initials(x.o.name)}</span>}
+            {x.ph ? <img class="pt" src={x.ph.src} alt={nameOf(x.o)} loading="lazy" /> : <span class="pt ini" style={`background:${x.o.party ? partyOf(x.o.party).color:'var(--ink)'}`}>{initials(x.o.name)}</span>}
             <div><span class="role">{x.role}</span><b>{nameOf(x.o)}</b>{x.o.party && <span class="pty sm" style={`--pc:${partyOf(x.o.party).color}`}>{partyOf(x.o.party).icon && <Icon name={partyOf(x.o.party).icon!} />}{pn(x.o.party)}</span>}</div>
           </div>
         ))}

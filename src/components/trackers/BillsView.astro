@@ -73,12 +73,6 @@ if (unknown.length) throw new Error(`Bills tracker: unknown stage ${unknown.map(
               <span class="bn"><a href={b.source_url} target="_blank" rel="noopener">{tr(b, 'name', lang)}</a></span>
               <span class="bm">{tr(b, 'ministry', lang)} · {tr(b, 'house_introduced', lang)}{b.stages.committee ? ` · ${tr(b.stages.committee, 'name', lang)}` : ''}</span>
               <span class="bs">{b.summary}</span>
-              {(b.notes || b.other_sources?.length) && (
-                <details class="bnote"><summary>{L.notes}</summary>
-                  {b.notes && <p>{b.notes}</p>}
-                  <p><a href={b.source_url} target="_blank" rel="noopener">{L.prs}</a>{b.other_sources?.map((o: any) => <>{' · '}<a href={o.url} target="_blank" rel="noopener">{o.title}</a></>)}</p>
-                </details>
-              )}
             </td>
             {cells(b).map((c, i) => (
               <td class={`st ${c.cur ? 'cur' : ''} ${c.unc ? 'unc' : ''}`} data-l={L.stages[i]}>
@@ -92,4 +86,4 @@ if (unknown.length) throw new Error(`Bills tracker: unknown stage ${unknown.map(
     </table>
   </section>
 ))}
-{data.meta.notes?.length > 0 && <ul class="trk-notes">{data.meta.notes.map((n: string) => <li>{n}</li>)}</ul>}
+{/* meta.notes are internal desk notes (sources, nulls): not shown to readers */}

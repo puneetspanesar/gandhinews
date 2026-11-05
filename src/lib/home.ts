@@ -34,7 +34,7 @@ export const H = {
     weekAhead: 'The week ahead', explained: 'Explained', allExplainers: 'All explainers', opinion: 'Opinion', opinionX: 'From the editorial desk', allEditorials: 'All editorials',
     more: 'More', corrections: 'Corrections', correctionsNone: 'None yet. When we get something wrong, the correction and the date will appear here, and on the story.', correctionsLog: 'Corrections log',
     pillars: [
-      { icon: 'file-text', b: 'Sources on every story', p: 'Each report lists the documents, data and interviews behind it.', href: '/standards/' },
+      { icon: 'file-text', b: 'Checked against the record', p: 'Every report is built from documents, data and on-record statements, with the official papers linked where they exist.', href: '/standards/' },
       { icon: 'pencil-simple-line', b: 'Corrections in public', p: 'Mistakes are fixed on the story and logged with the date.', href: '/corrections/' },
       { icon: 'scales', b: 'News and opinion kept apart', p: 'Opinion is always labelled and never mixed into reporting.', href: '/standards/' },
       { icon: 'shield-check', b: 'Ownership declared', p: 'Who owns and funds Gandhi News, published in full.', href: '/ownership/' },
@@ -68,7 +68,7 @@ export const H = {
     weekAhead: 'इस हफ़्ते', explained: 'समझिए', allExplainers: 'सभी लेख', opinion: 'राय', opinionX: 'संपादकीय डेस्क से', allEditorials: 'सभी संपादकीय',
     more: 'और', corrections: 'सुधार', correctionsNone: 'अभी कोई नहीं। जब हमसे कोई गलती होगी, तो सुधार और उसकी तारीख यहां और खबर पर दिखेगी।', correctionsLog: 'सुधारों का रिकॉर्ड',
     pillars: [
-      { icon: 'file-text', b: 'हर खबर के स्रोत', p: 'हर रिपोर्ट में उसके पीछे के दस्तावेज़, आंकड़े और बातचीत दर्ज हैं।', href: '/standards/' },
+      { icon: 'file-text', b: 'रिकॉर्ड से जांची गई', p: 'हर रिपोर्ट दस्तावेज़ों, आंकड़ों और आधिकारिक बयानों पर आधारित है, और जहां मूल दस्तावेज़ उपलब्ध हैं वहां उनका लिंक दिया गया है।', href: '/standards/' },
       { icon: 'pencil-simple-line', b: 'सुधार सबके सामने', p: 'गलतियां खबर पर ही सुधारी जाती हैं और तारीख के साथ दर्ज होती हैं।', href: '/corrections/' },
       { icon: 'scales', b: 'खबर और राय अलग', p: 'राय पर हमेशा लेबल होता है और वह रिपोर्टिंग में नहीं मिलाई जाती।', href: '/standards/' },
       { icon: 'shield-check', b: 'स्वामित्व की घोषणा', p: 'गांधी न्यूज़ का मालिक और फंड देने वाले कौन हैं, पूरी जानकारी।', href: '/ownership/' },
@@ -109,6 +109,18 @@ const MONTHS_SHORT_RE = /\b(January|February|March|April|June|July|August|Septem
 const abbrMonths = (s: string, lang: Lang) => (lang === 'en' ? String(s).replace(MONTHS_SHORT_RE, (m) => m.slice(0, 3)) : String(s));
 /** Drop the year from a period label: "Apr-Jun 2026" -> "Apr-Jun", "week ended 2 Oct 2026" -> "week ended 2 Oct". */
 const noYear = (s: string) => stripParen(s).replace(/,?\s+\d{4}\b/g, '').trim();
+
+
+/** A headline that pins a figure to a clock time ("30.5% by 1 pm") more than 2 hours ago is stale on the front page. */
+function staleClock(d: any) {
+  const m = String(d?.title ?? '').match(/\b(?:by|at|till|until|as of)\s+(\d{1,2})(?::(\d{2}))?\s*(am|pm)\b/i);
+  if (!m) return false;
+  const pub = new Date(d.updated ?? d.published);
+  const ist = new Date(pub.getTime() + 330 * 60000);
+  const h = (+m[1] % 12) + (m[3].toLowerCase() === 'pm' ? 12 : 0);
+  const at = Date.UTC(ist.getUTCFullYear(), ist.getUTCMonth(), ist.getUTCDate(), h, +(m[2] ?? 0)) - 330 * 60000;
+  return Date.now() - at > 2 * 3.6e6;
+}
 
 function need<T>(v: T | undefined, what: string): T {
   if (v === undefined || v === null) throw new Error(`[homepage.json] ${what} not found`);
@@ -196,6 +208,8 @@ export async function homeModel(lang: Lang) {
   const D: any = DATA[lang];
   const DE: any = DATA.en;
   const get = (id: string) => need(c.all.get(id), `id "${id}" (${lang})`);
+  // A story listed in homepage.json can disappear (held, renamed): skip it instead of failing the whole build.
+  const has = (id: string | undefined) => !!id && c.all.has(id);
   const card = (id: string) => {
     const e = get(id);
     return { id, d: e.data as any, href: urlOf(e.data), k: kicker(e.data) };
@@ -215,12 +229,12 @@ export async function homeModel(lang: Lang) {
     chart: chartFromBody(leadE, HOME.lead.chart ?? 1, lang),
     // Each box is either a tracker indicator or a fixed value from the story (value: {en, hi}).
     dataBox: (leadSwapped ? [] : HOME.lead.dataBox).map((x: any) => ({ ...x, value: x.value ? x.value[lang] : fmtIndicator(lang, x.indicator, x.decimals), label: x.label[lang] })),
-    below: HOME.lead.relatedBelow.filter((x: string) => hasPic(x) && x !== leadId).map(card),
-    beside: HOME.lead.relatedBeside.filter((x: string) => hasPic(x) && x !== leadId).map(card),
+    below: HOME.lead.relatedBelow.filter((x: string) => has(x) && hasPic(x) && x !== leadId).map(card),
+    beside: HOME.lead.relatedBeside.filter((x: string) => has(x) && hasPic(x) && x !== leadId).map(card),
   };
 
   // ---- Briefing
-  const briefing = HOME.briefing.items.map((b: any) => ({ lead: b.lead[lang], text: b.text[lang], href: urlOf(get(b.link).data), icon: b.icon ?? iconFor(get(b.link).data) }));
+  const briefing = HOME.briefing.items.filter((b: any) => has(b.link)).map((b: any) => ({ lead: b.lead[lang], text: b.text[lang], href: urlOf(get(b.link).data), icon: b.icon ?? iconFor(get(b.link).data) }));
 
   // ---- India in numbers
   const numbers = HOME.numbers.items.map((x: any) => {
@@ -239,17 +253,18 @@ export async function homeModel(lang: Lang) {
   const dashHref = urlOf(get(HOME.numbers.tracker).data);
 
   // ---- Top stories, start here
-  const big = card(HOME.topStories.big.id);
-  const bigAlso = HOME.topStories.big.also.map((id: string) => {
+  const bigId = has(HOME.topStories.big.id) ? HOME.topStories.big.id : [...HOME.topStories.list, ...HOME.lead.relatedBeside].find((x: string) => has(x) && x !== leadId);
+  const big = card(bigId);
+  const bigAlso = HOME.topStories.big.also.filter(has).map((id: string) => {
     const x = card(id);
     const pre = x.d.type === 'topic' ? (lang === 'hi' ? 'विषय' : 'Topic') : x.d.type === 'explainer' ? t.explained : labelParts(x.d.format_label)[0];
     return { ...x, label: `${pre}: ${x.d.title}` };
   });
-  const top = HOME.topStories.list.map(card);
-  const start = HOME.startHere.filter((id: string) => hasPic(id)).map((id: string) => { const x = card(id); return { ...x, icon: iconFor(x.d), meta: labelParts(x.d.format_label).slice(-1)[0] }; });
+  const top = HOME.topStories.list.filter(has).map(card);
+  const start = HOME.startHere.filter((id: string) => has(id) && hasPic(id)).map((id: string) => { const x = card(id); return { ...x, icon: iconFor(x.d), meta: labelParts(x.d.format_label).slice(-1)[0] }; });
 
   // ---- Trackers band
-  const trackers = HOME.trackers.map((tk: any) => {
+  const trackers = HOME.trackers.filter((tk: any) => has(tk.id)).map((tk: any) => {
     const x = card(tk.id);
     return { ...x, short: tk.title?.[lang] ?? x.d.title.split(':')[0].trim(), area: labelParts(x.d.format_label).slice(-1)[0], line: firstSentence(x.d.standfirst) };
   });
@@ -465,12 +480,7 @@ export async function homeModel(lang: Lang) {
   });
 
   // ---- The week ahead (editor's diary in homepage.json)
-  const week = (HOME.weekAhead ?? []).map((x: any) => ({ icon: x.icon, date: x.date[lang], text: x.text[lang], href: x.link ? urlOf(get(x.link).data) : null }));
-
-  // ---- Desks: world, science and tech, sports
-  const deskFill = (sec: string) => [...c.articles].filter((x: any) => x.data.type === 'news' && x.data.section === sec && hasPic(x.data.id)).sort((a: any, b: any) => +new Date(b.data.published) - +new Date(a.data.published)).slice(0, 8).map((x: any) => x.data.id);
-  const desks = (HOME.desks ?? []).map((s: any) => { const ok = [...new Set([s.lead, ...(s.list ?? []), ...deskFill(s.section)])].filter((x: string) => x && hasPic(x)).slice(0, 5); return ok.length ? { key: s.section, lead: card(ok[0]), list: ok.slice(1).map(card) } : null; }).filter(Boolean);
-
+  const week = (HOME.weekAhead ?? []).map((x: any) => ({ icon: x.icon, date: x.date[lang], text: x.text[lang], href: has(x.link) ? urlOf(get(x.link).data) : null }));
 
   // ---- 2026 front page (Gandhi News): headline grid, live band, India block, markets band, other-language links
   const used = new Set<string>([lead.id, ...lead.below.map((x: any) => x.id)]);
@@ -503,6 +513,21 @@ export async function homeModel(lang: Lang) {
     used.add(id); chosen.push(short(card(id))); words(id).forEach((w) => taken.add(w));
   }
   const headlines = chosen;
+  // ---- Desks: world, science and tech, sports. Never repeat a story or a photo already shown above, and never show
+  // week-old news when the desk has anything recent: stories from the last 72 hours first, older only to fill.
+  const shownSrc = new Set<string>(  // same alt text = same photo (reused photos get new file names)
+    [lead.id, ...headlines.map((x: any) => x.id), ...lead.below.map((x: any) => x.id)].map((id) => (PHOTO_MAP as any)[id]?.alt).filter(Boolean));
+  const shownIds = new Set<string>([lead.id, ...headlines.map((x: any) => x.id), ...lead.below.map((x: any) => x.id)]);
+  const ageH = (id: string) => (Date.now() - +new Date((c.all.get(id) as any)?.data.published)) / 3.6e6;
+  const deskFill = (sec: string) => [...c.articles].filter((x: any) => x.data.type === 'news' && x.data.section === sec && hasPic(x.data.id)).sort((a: any, b: any) => +new Date(b.data.published) - +new Date(a.data.published)).slice(0, 12).map((x: any) => x.data.id);
+  const desks = (HOME.desks ?? []).map((s: any) => {
+    const pool = [...new Set([s.lead, ...(s.list ?? []), ...deskFill(s.section)])].filter((x: string) => has(x) && hasPic(x) && !shownIds.has(x));
+    const fresh = pool.filter((x) => ageH(x) <= 72), older = pool.filter((x) => ageH(x) > 72);
+    const ok: string[] = []; const src = new Set(shownSrc);
+    for (const x of [...fresh, ...older]) { const p = (PHOTO_MAP as any)[x]?.alt; if (p && src.has(p)) continue; if (p) src.add(p); ok.push(x); if (ok.length >= 5) break; }
+    return ok.length ? { key: s.section, lead: card(ok[0]), list: ok.slice(1).map(card) } : null;
+  }).filter(Boolean);
+
   const india = pick([sec('states').lead, ...(sec('politics').list ?? []), ...(sec('states').list ?? []), ...(sec('policy').list ?? []), sec('policy').lead, ...freshIds(['states', 'politics', 'policy'])], 3);
   const econ = pick([sec('economy').lead, ...(sec('economy').list ?? []), ...freshIds(['economy'])], 3);
   const L0: any = HOME.lead;
@@ -513,7 +538,7 @@ export async function homeModel(lang: Lang) {
     // Never an empty column: when the running story has fewer than two follow-ups, fill with the newest pictured stories from the lead's section.
     filler: lead.below.length < 3,
     // Always three follow-ups in the right column: the running story's own updates first, then the newest pictured stories from the lead's section that are not already in the headlines.
-    list: [...lead.below.slice(1), ...c.articles.filter((x: any) => x.data.type === 'news' && x.data.section === lead.d.section && x.data.id !== lead.id && !lead.below.some((b: any) => b.id === x.data.id) && !chosen.some((h: any) => h.id === x.data.id) && hasPic(x.data.id)).slice(0, 3).map((x: any) => card(x.data.id))].slice(0, 3).map(short),
+    list: [...lead.below.slice(1).filter((x: any) => !staleClock(x.d)), ...c.articles.filter((x: any) => x.data.type === 'news' && x.data.section === lead.d.section && x.data.id !== lead.id && !lead.below.some((b: any) => b.id === x.data.id) && !chosen.some((h: any) => h.id === x.data.id) && hasPic(x.data.id)).slice(0, 3).map((x: any) => card(x.data.id))].slice(0, 3).map(short),
     points: (lead.d.keyPoints ?? []).map((k: string) => String(k).replace(/\*\*/g, '')),
     facts: lead.dataBox.slice(0, 3),
   };

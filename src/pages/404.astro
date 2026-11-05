@@ -26,6 +26,7 @@ const S = SECTION_NAMES.en;
           <a class="fbtn" href="/"><Icon name="house" />Go to the homepage</a>
           <a class="fbtn ol" href="/hi/" lang="hi" hreflang="hi">हिंदी होमपेज पर जाएं</a>
         </div>
+        <div lang="hi" class="nf-hi"><h2>यह पेज नहीं मिला</h2><p class="nf-d">लिंक पुराना हो सकता है या पते में कोई गलती हो सकती है। <a href="/hi/">हिंदी होमपेज</a> पर जाएं या <a href="/hi/search/">खोजें</a>।</p></div>
         <nav class="ph-links" aria-label="Sections">{Object.entries(S).map(([k, v]) => <a href={`/${k}/`}>{v}</a>)}<a href="/trackers/">Trackers</a><a href="/fact-check/">Fact check</a></nav>
       </div>
       <aside class="nf-side">

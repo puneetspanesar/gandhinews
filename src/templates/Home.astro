@@ -39,7 +39,7 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
 <Base lang={lang} title={t.siteName} description={desc} path={route} active="home" jsonld={websiteLd(lang)}>
 <div class="home gn">
   {(RESULTS as any).active && <ResultsStrip lang={lang} />}
-  <!-- HEADLINES -->
+  {/* HEADLINES */}
   <section class="w g-ct" aria-labelledby="hl-h">
     <h2 id="hl-h">{G.headlines}</h2>
     <div class="g-g">
@@ -55,7 +55,7 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
     </div>
   </section>
 
-  <!-- LIVE BAND -->
+  {/* LIVE BAND */}
   {m.live.feature && (
     <section class="g-band g-red" aria-labelledby="live-h">
       <div class="w g-live">
@@ -74,7 +74,7 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
     </section>
   )}
 
-  <!-- INDIA -->
+  {/* INDIA */}
   {m.india.length > 0 && (
     <section class="w g-ct" aria-labelledby="in-h">
       <h2 id="in-h"><a href={`${p}/states/`}>{G.india}</a></h2>
@@ -84,10 +84,10 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
     </section>
   )}
 
-  <!-- MARKETS BAND -->
+  {/* MARKETS BAND */}
   <MarketsBand lang={lang} dashHref={m.dashHref} news={m.econ.map((x: any) => ({ href: x.href, title: x.d.title, kk: x.kk }))} />
 
-  <!-- OPINION -->
+  {/* OPINION */}
   <section class="g-band g-tint" aria-labelledby="op-h">
     <div class="w g-split">
       <div class="g-bt"><h2 id="op-h"><a href={`${p}/opinion/`}>{h.opinion}</a></h2><span>{G.ourView}</span></div>
@@ -97,7 +97,7 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
     </div>
   </section>
 
-  <!-- WORLD, SCIENCE: desk containers -->
+  {/* WORLD, SCIENCE: desk containers */}
   {m.desks.filter((d: any) => d.key !== 'sports').map((dk: any) => (
     <section class="w g-ct" aria-label={S[dk.key]}>
       <h2><a href={`${p}/${dk.key}/`}>{S[dk.key]}</a></h2>
@@ -107,7 +107,7 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
     </section>
   ))}
 
-  <!-- EXPLAINED BAND -->
+  {/* EXPLAINED BAND */}
   <section class="g-band g-blk" aria-labelledby="ex-h">
     <div class="w g-split">
       <div class="g-bt"><h2 id="ex-h"><a href={`${p}/explained/`}>{h.explained}</a></h2><span>{G.explainedX}</span></div>
@@ -123,7 +123,7 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
     </div>
   </section>
 
-  <!-- SPORT -->
+  {/* SPORT */}
   {m.desks.filter((d: any) => d.key === 'sports').map((dk: any) => (
     <section class="w g-ct" aria-label={S.sports}>
       <h2><a href={`${p}/sports/`}>{S.sports}</a></h2>
@@ -133,7 +133,7 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
     </section>
   ))}
 
-  <!-- OTHER LANGUAGE + WEEK AHEAD -->
+  {/* OTHER LANGUAGE + WEEK AHEAD */}
   <section class="g-band g-red" aria-labelledby="ol-h">
     <div class="w g-live">
       <div class="g-bt"><h2 id="ol-h" lang={lang === 'en' ? 'hi' : 'en'} class={lang === 'en' ? 'dv' : undefined}>{G.alt}</h2><span>{G.altX}</span></div>
@@ -148,7 +148,7 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
   </section>
 
   <div class="g-rest">
-  <!-- TRACKERS BAND -->
+  {/* TRACKERS BAND */}
   <section class="band blk" aria-labelledby="trk-h">
     <div class="w">
       <div class="sh"><h2 id="trk-h">{h.trackers}</h2><span class="x">{h.trackersX}</span><a href={`${p}/trackers/`}>{h.allTrackers} <Icon name="caret-right" /></a></div>
@@ -194,7 +194,7 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
   </section>
 
   <div class="w">
-    <!-- DATA DESK + PARLIAMENT -->
+    {/* DATA DESK + PARLIAMENT */}
     <section class="sec" aria-labelledby="dd-h">
       <div class="mapw">
         <div>
@@ -234,7 +234,7 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
     </section>
   </div>
 
-  <!-- FACT CHECK BAND -->
+  {/* FACT CHECK BAND */}
   <section class="band red" aria-labelledby="fc-h">
     <div class="w">
       <div class="sh"><h2 id="fc-h">{h.fc}</h2><span class="x">{h.fcX}</span><a href={`${p}/fact-check/`}>{h.allFc} <Icon name="caret-right" /></a></div>
@@ -255,7 +255,7 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
             {(['true', 'mostly', 'misleading', 'false'] as const).map((v) => <p><b>{t.verdicts[v]}</b>{t.rate[v]}</p>)}
             <a href={`${p}/fact-check/methodology/`}>{h.method}</a>
           </div>
-          <!-- TODO(launch): point this at the WhatsApp tip line (wa.me/<number>) once the number exists. Until then it opens the contact page, which shows the placeholder. -->
+          {/* Point this at the WhatsApp tip line once the number exists; until then it opens the contact page. */}
           <a class="btn" href="https://wa.me/917760906195" rel="noopener" target="_blank"><Icon name="whatsapp-logo" />{h.wa}</a>
         </div>
       </div>
@@ -264,7 +264,7 @@ const latestCorrection: any = (CORRECTIONS as any[])[0];
   </section>
 
   <div class="w">
-    <!-- STANDARDS -->
+    {/* STANDARDS */}
     <section class="std2" aria-label={t.trust}>
       <div class="cor">
         <span class="k">{h.corrections}</span>

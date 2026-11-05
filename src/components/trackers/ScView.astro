@@ -30,4 +30,4 @@ const counts = [...new Set(cases.map((c) => c.status))].map((s) => ({ s, n: case
     </article>
   ))}
 </div>
-{data.meta.notes?.length > 0 && <ul class="trk-notes">{data.meta.notes.map((n: string) => <li>{n}</li>)}</ul>}
+{/* meta.notes are internal desk notes (sources, nulls): not shown to readers */}

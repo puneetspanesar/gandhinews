@@ -40,7 +40,7 @@ const counts = ['held', 'announced', 'expected'].map((s) => ({ s, n: data.rows.f
           <h4>{r.name}</h4>
           <p class="meta2">{[tr(r, 'state', lang), tr(r, 'house', lang), r.seats ? L.seats(r.seats) : null].filter(Boolean).join(' · ')}</p>
           {r.result && <p>{r.result}</p>}
-          {r.notes && <details class="nt"><summary>{L.notes}</summary><p>{r.notes}</p></details>}
+          
           {r.source_url && <p class="src">{L.source}: <a href={r.source_url} target="_blank" rel="noopener">{r.source_publisher}</a></p>}
         </div>
         <span class={`chip s-${r.status}`}><i></i>{status(r)}</span>

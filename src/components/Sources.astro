@@ -20,7 +20,7 @@ const dateText = (d: any) => (d instanceof Date ? fmtDate(d, lang) : d ? fmtDate
         <li>
           <Icon name={iconFor(s)} />
           <div>
-            {s.url && /^https?:/.test(s.url) ? <a href={s.url} rel="noopener" target="_blank">{s.title}</a> : s.url ? <a href={resolveHref(s.url, lang) ?? (() => { throw new Error(`Broken source link ${s.url}`); })()}>{s.title}</a> : s.title}
+            {s.url && /^https?:/.test(s.url) ? <a href={s.url} rel="noopener" target="_blank">{s.title}</a> : s.url && resolveHref(s.url, lang) ? <a href={resolveHref(s.url, lang)}>{s.title}</a> : s.title}
             <span>{[s.publisher, dateText(s.date)].filter(Boolean).join(', ')}</span>
           </div>
         </li>
