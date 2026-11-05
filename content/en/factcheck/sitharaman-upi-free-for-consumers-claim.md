@@ -88,30 +88,20 @@ Two caveats apply. The legal bar on charging users now covers only UPI payments 
 
 ### 1. What Sitharaman said
 
-Replying to Jairam Ramesh on August 6, 2026, the Finance Minister said: "Merchant Discount Rate (MDR) applies only on the merchants and not on the end users/customers." Business Today reported that she also said the NPCI-led steering committee had not yet decided on MDR. Moneylife reported that she assured the Rajya Sabha that the legislation does not impose any tax or transaction charge on consumers using UPI.
-
-Sources: [Business Today, August 6, 2026](https://www.businesstoday.in/amp/latest/economy/story/mdr-applies-only-to-merchants-not-end-users-fm-sitharaman-hits-back-at-jairam-ramesh-on-upi-charge-547786-2026-08-06); [Moneylife](https://www.moneylife.in/article/upi-will-remain-free-for-consumers-fm-sitharaman-clarifies-as-parliament-passes-tax-bill/81309.html)
+Replying to Jairam Ramesh on August 6, 2026, the Finance Minister said: "Merchant Discount Rate (MDR) applies only on the merchants and not on the end users/customers." She also said the NPCI-led steering committee had not yet decided on MDR. Moneylife reported that she assured the Rajya Sabha that the legislation does not impose any tax or transaction charge on consumers using UPI.
 
 ### 2. NPCI's framework puts the fee on merchants
 
-ANI reported NPCI as saying "consumers will continue to transact free of cost using UPI". The 0.4% fee, capped at ₹300, applies to person-to-merchant payments above ₹2,000 from October 15, and P2P transfers are outside its scope. SCC Online's summary of NPCI's FAQ says merchants "will not be permitted to pass MDR charges on to customers" and that UPI apps may not add platform fees.
-
-Sources: [ANI via Khaleej Times, September 16, 2026](https://www.khaleejtimes.com/world/asia/india-charge-some-merchants-up-to-rs300-upi-transactions-over-rs2000); [SCC Online, September 16, 2026](https://www.scconline.com/blog/post/2026/09/16/npci-released-upi-mdr-faqs-explained/)
+NPCI said "consumers will continue to transact free of cost using UPI". The 0.4% fee, capped at ₹300, applies to person-to-merchant payments above ₹2,000 from October 15, and P2P transfers are outside its scope. NPCI's FAQ says merchants "will not be permitted to pass MDR charges on to customers" and that UPI apps may not add platform fees.
 
 ### 3. The legal bar on charging users stops at ₹2,000
 
 The September 14 notification (S.O. 5067(E)) bars banks and system providers from imposing any charge, "whether directly or indirectly", on UPI payments up to ₹2,000 and on RuPay debit cards. Payments above ₹2,000 are not on that list, so the bar on user charges there comes from NPCI's framework rather than the notification.
 
-Source: [LiveLaw, September 15, 2026](https://www.livelaw.in/top-stories/centre-prohibits-charges-on-upi-transactions-up-to-rs-2000-rupay-debit-card-550015)
-
 ### 4. Prices could still carry the cost
 
 Whether large merchants will pass the cost on through higher retail prices is not yet known. A ban on surcharges does not prevent that.
 
-Source: [Deccan Chronicle, September 15, 2026](https://www.deccanchronicle.com/business/npci-announces-04-merchant-charge-on-upi-payments-above-2000-1987634)
-
 ## Why this claim spread
 
 The statement was a direct public reply to Jairam Ramesh, tagging him and the Congress. Two days later the Finance Ministry said UPI transactions would remain completely free for citizens, and called suggestions that "external influences" were driving policy "unfounded, completely false and misleading". The desk has no sourced data on how widely the Minister's statement was shared.
-
-Source: [Business Today, August 8, 2026](https://www.businesstoday.in/india/story/no-your-upi-transactions-arent-getting-charged-government-refutes-fee-rumors-claims-548149-2026-08-08)

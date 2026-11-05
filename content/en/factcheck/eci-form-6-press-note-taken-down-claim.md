@@ -80,22 +80,14 @@ The rating covers only the removal claim. It does not address the separate dispu
 
 Ashutosh Ranka of the Cockroach Janta Party posted on X that the court's observation contradicted the ECI's September 26 statement and that the press note was later taken down. The post followed the Supreme Court's remarks on October 5.
 
-Source: [The Economic Times via inkl, October 5, 2026](https://www.inkl.com/news/form-6-controversy-cjps-ashutosh-ranka-claims-eci-took-down-september-26-press-release-after-sc-remark-pib-replies)
-
 ### 2. The ECI says the note was never removed
 
 On October 5 the Commission rejected claims that it had withdrawn the September 26 press note from its website, and shared a link to the press note to show that the statement was still available. In its own post on X, the Commission quoted Point 1(iii) of Press Note No. 120, dated September 26, 2026: "The declaration attached to Form 6 for SIR has been upheld by the Hon'ble Supreme Court."
-
-Sources: [PTI via ThePrint, October 5, 2026](https://theprint.in/india/form-6-not-changed-declaration-attached-to-it-has-sc-nod-ec-officials/3062522/); [Daily Jagran, October 5, 2026](https://www.thedailyjagran.com/india/news/ec-fact-checks-rahul-gandhis-claims-on-form-6-reiterates-declaration-upheld-by-supreme-court-10331667)
 
 ### 3. PIB Fact Check shared the live link
 
 PIB Fact Check issued a fake news alert saying the ECI had not removed the note and shared the official ECI link to it. It advised: "Do not share unverified videos or claims."
 
-Sources: [IANS via The Hawk, October 5, 2026](https://www.thehawk.in/news/india/ecis-sep-26-sir-press-note-never-taken-down-from-website-pib-fact-check); [The Economic Times via inkl, October 5, 2026](https://www.inkl.com/news/form-6-controversy-cjps-ashutosh-ranka-claims-eci-took-down-september-26-press-release-after-sc-remark-pib-replies)
-
 ## Why this claim spread
 
 The post came after a bench of Chief Justice Surya Kant and Justices Joymalya Bagchi and V. Mohana said: "Any modification to Form 6 has not been approved by us." The same day Rahul Gandhi accused the Chief Election Commissioner of changing Form 6, and the ECI labelled his post misleading. The Commission had earlier dropped the extra SIR declaration from online Form 6 in states where the revision was complete.
-
-Sources: [Daily Jagran, October 5, 2026](https://www.thedailyjagran.com/india/news/ec-fact-checks-rahul-gandhis-claims-on-form-6-reiterates-declaration-upheld-by-supreme-court-10331667); [PTI via Business Standard, September 30, 2026](https://www.business-standard.com/india-news/ec-withdraws-sir-declaration-from-form-6-in-states-where-exercise-is-over-126093000314_1.html)
