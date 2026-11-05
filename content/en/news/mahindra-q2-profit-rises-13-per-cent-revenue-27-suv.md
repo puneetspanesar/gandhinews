@@ -5,7 +5,7 @@ type: news
 section: economy
 format_label: "Economy / Companies"
 topics: []
-title: "Mahindra & Mahindra Q2 profit rises 13% to ₹5,102 crore as revenue jumps 27%"
+title: "Mahindra & Mahindra Q2 standalone profit rises 13% to ₹5,102 crore as revenue jumps 27%"
 standfirst: "The carmaker and tractor maker said on Thursday that SUV volumes grew 26% in the July-September quarter, and group chief Anish Shah pointed to a 25% rise in consolidated profit."
 published: 2026-11-05T13:24:00+05:30
 location: Mumbai
