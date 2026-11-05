@@ -28480,5 +28480,46 @@
   "alt": "The Amazon Spheres in Seattle (file photo)",
   "alt_hi": "सिएटल में एमेज़ॉन स्फ़ीयर्स (फाइल फोटो) (फ़ाइल फ़ोटो)",
   "page": null
+ },
+ "andhra-mptc-zptc-polling-today-2-81-crore-voters": {
+  "id": "i-andhra-mptc-zptc-polling-today-2-81-crore-voters",
+  "src": "/photos/i-andhra-mptc-zptc-polling-today-2-81-crore-voters-en-3x2-1280.jpg",
+  "src800": "/photos/i-andhra-mptc-zptc-polling-today-2-81-crore-voters-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Mandal and zilla parishads go to the polls",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: मंडल और जिला परिषदों के लिए मतदान",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-andhra-mptc-zptc-polling-today-2-81-crore-voters-hi-3x2-1280.jpg",
+    "src800": "/photos/i-andhra-mptc-zptc-polling-today-2-81-crore-voters-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-andhra-mptc-zptc-polling-today-2-81-crore-voters-en-t-1280.jpg",
+    "src800": "/photos/i-andhra-mptc-zptc-polling-today-2-81-crore-voters-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-andhra-mptc-zptc-polling-today-2-81-crore-voters-hi-t-1280.jpg",
+    "src800": "/photos/i-andhra-mptc-zptc-polling-today-2-81-crore-voters-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-andhra-mptc-zptc-polling-today-2-81-crore-voters-en-1280.jpg",
+    "src800": "/photos/i-andhra-mptc-zptc-polling-today-2-81-crore-voters-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-andhra-mptc-zptc-polling-today-2-81-crore-voters-hi-1280.jpg",
+    "src800": "/photos/i-andhra-mptc-zptc-polling-today-2-81-crore-voters-hi-640.jpg"
+   }
+  }
  }
 }

@@ -86,10 +86,6 @@ The lead lasted four minutes. Mason Greenwood's free-kick **deflected in off Jer
 
 Isak came on in the second half and **headed Liverpool back in front** with his first touch on 69 minutes, meeting a cross from Cody Gakpo. Again it did not last. Four minutes later a mix-up between Gakpo and Alisson let Archie Brown equalise, and on 79 minutes Muriqi climbed above Virgil van Dijk to meet a high cross and **win it for Fenerbahce**, their first victory of this Champions League campaign. Their coach is Dirk Kuyt, the former Liverpool forward.
 
-```photo
-{"n":1,"subject":"Şükrü Saracoğlu Stadium","caption":"Fenerbahce's home ground in Istanbul, where Liverpool's unbeaten Champions League run ended.","alt":"Sukru Saracoglu Stadium in Istanbul"}
-```
-
 "Cheap goals. Messy goals," Iraola said afterwards. "We have to do better. It is frustrating because it is a difficult place to play."
 
 ## Valverde saves Madrid again
