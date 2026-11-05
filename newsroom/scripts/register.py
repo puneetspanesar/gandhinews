@@ -44,7 +44,8 @@ for s, v in picks.items():
 if need:
     print('NEED alt text in alts-override.json for:'); [print(' ', s, [x['what'] for x in picks[s] if x]) for s in need]; sys.exit(1)
 fp = lambda e, h: (e if '(file' in e else e + ' (file photo)', h if ('फ़ाइल' in h or 'फाइल' in h) else h + ' (फ़ाइल फ़ोटो)')
-au = lambda p: ((p.get('author') or 'Unknown').strip().replace('Unknown authorUnknown author', 'Unknown author'))
+import sys as _s, os as _o; _s.path.insert(0, _o.path.dirname(_o.path.abspath(__file__))); from gnrules import clean_credit
+au = lambda p: clean_credit((p.get('author') or 'Unknown').strip().replace('Unknown authorUnknown author', 'Unknown author')) or 'Wikimedia Commons contributor'
 for s, v, en, hi in todo:
     en, hi = fp(en, hi); parts = []
     for i, p in enumerate(v):
