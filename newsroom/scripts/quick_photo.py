@@ -63,6 +63,9 @@ if listing or not cands:
 c = next((x for x in cands if x[2]['id'] == pick), None) if pick else cands[0]
 if not c: sys.exit(f'{pick}: not a usable candidate')
 _, _, p, e = c
+fa = lambda a: a if '(file' in a else a.rstrip() + ' (file photo)'
+fh = lambda a: a if ('फ़ाइल' in a or 'फाइल' in a) else a.rstrip() + ' (फ़ाइल फ़ोटो)'
+p = dict(p, alt=fa(str(p.get('alt') or '')), alt_hi=fh(str(p.get('alt_hi') or '')))
 nid = f'r-{sid}'[:90]
 for sz, key in (('1280', 'src'), ('640', 'src800')):
     shutil.copyfile(R + 'public' + e[key], f'{R}public/photos/{nid}-{sz}.jpg')

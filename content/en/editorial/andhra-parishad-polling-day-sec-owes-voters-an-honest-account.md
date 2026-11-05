@@ -83,10 +83,6 @@ By the State Election Commission's own account, polling in Andhra Pradesh's mand
 
 It was not true everywhere. In Erripalle, in Pulivendula, **petrol bombs were allegedly hurled near a booth**. In Marutla, in Anantapur, YSRCP and TDP workers clashed inside a polling station and ballot boxes were thrown to the floor. The YSRCP accused TDP cadres of capturing a booth at Dhulipalla in Palnadu, and villagers in Gonugunta, in Prakasam, announced a boycott after alleging that the party's agents had been detained overnight. YSRCP leader Byreddy Siddharth was kept under house arrest while voting went on.
 
-```photo
-{"n":1,"subject":"Pulivendula","caption":"Pulivendula in YSR Kadapa district, where petrol bombs were allegedly thrown near a polling booth at Erripalle on Thursday.","alt":"Pulivendula town in Andhra Pradesh"}
-```
-
 Some of these charges may prove exaggerated; parties in Andhra have a long habit of crying foul on polling day. That is exactly why the commission cannot answer them with a reassuring word. **Smooth is a finding**, and a finding needs evidence.
 
 ## The commission has done this before
