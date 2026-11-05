@@ -22,7 +22,8 @@ Pictures (each story sheet):
 8. An infographic cover (dark Gandhi News graphic with stats and a chart, timeline, steps or comparison) is accepted ONLY for a story with no person or place to show, or when the run's photo finder truly found nothing. A story about a named, well-known person (a politician, player, CEO) or a known place with an infographic instead of their photo is a FAIL: FIX it with that person's photo (quick_photo.py or the finder). More than a third of the homepage top with infographics is a FAIL. Check it like a photo: headline true to the story, numbers match the story, no text cut off or wrapping badly, Hindi reads correctly.
 
 The homepage (screenshots):
-9. No grey camera boxes, no broken images, no empty slots.
+9. No grey camera boxes, no broken images, no empty slots, and no big empty space under any card or column (a column of white or red with nothing in it is a FAIL).
+9b. Nothing at the top shows a figure that is hours old: a headline or graphic saying "by 10 am" at 2 pm is a FAIL; the story must carry the latest figure.
 10. The lead is the biggest story in India right now (compare frontpages.txt if present). A minor or hours-old story leading while a bigger one sits lower is a FAIL.
 11. Balance: at most one markets or business story in the top headlines, at most two from any one section, never two stories on the same subject next to each other. A running story (cyclone, war) gets the lead or one slot, not three.
 12. Nothing stale at the top: nothing older than about 24 hours in the top headlines, no previews of things that already happened.
