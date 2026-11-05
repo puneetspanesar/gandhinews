@@ -29370,18 +29370,6 @@
    }
   }
  },
- "supreme-court-ugc-equity-regulations-centre-mulls-review-panel": {
-  "id": "r-supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
-  "src": "/photos/r-supreme-court-ugc-equity-regulations-centre-mulls-review-panel-1280.jpg",
-  "src800": "/photos/r-supreme-court-ugc-equity-regulations-centre-mulls-review-panel-640.jpg",
-  "width": 1280,
-  "height": 722,
-  "credit": "Photo: Biswarup Ganguly / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "The Supreme Court of India building in New Delhi",
-  "alt_hi": "नई दिल्ली में भारत के सुप्रीम कोर्ट की इमारत",
-  "page": "https://commons.wikimedia.org/wiki/File:Polling_Personnel_Training_-_West_Bengal_Panchayat_Election_2018_-_Bidhannagar_College_-_Kolkata_20180412145321.jpg"
- },
  "sensex-nifty-close-november-5-rally": {
   "id": "i-sensex-nifty-close-november-5-rally",
   "src": "/photos/i-sensex-nifty-close-november-5-rally-en-3x2-1280.jpg",
@@ -29472,8 +29460,8 @@
   "height": 960,
   "credit": "Photo: V Bhavya / Wikimedia Commons",
   "licence": "CC BY-SA 4.0",
-  "alt": "A Tirupati laddu held up in front of the illuminated temple gopuram (file photo)",
-  "alt_hi": "रोशनी से सजे मंदिर गोपुरम के सामने हाथ में तिरुपति लड्डू (फ़ाइल फ़ोटो)",
+  "alt": "A Tirupati laddu, the temple offering, file photo",
+  "alt_hi": "तिरुपति लड्डू, मंदिर का प्रसाद, फाइल फोटो",
   "page": null
  },
  "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra--p2": {
@@ -29511,5 +29499,46 @@
   "alt": "An IndiGo Airbus A320neo aircraft (file photo)",
   "alt_hi": "इंडिगो का एयरबस ए320नियो विमान (फ़ाइल फ़ोटो)",
   "page": null
+ },
+ "supreme-court-ugc-equity-regulations-centre-mulls-review-panel": {
+  "id": "i-supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
+  "src": "/photos/i-supreme-court-ugc-equity-regulations-centre-mulls-review-panel-en-3x2-1280.jpg",
+  "src800": "/photos/i-supreme-court-ugc-equity-regulations-centre-mulls-review-panel-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Centre weighs review panel for UGC caste rules",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: यूजीसी जाति नियमों पर समीक्षा समिति की तैयारी",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-supreme-court-ugc-equity-regulations-centre-mulls-review-panel-hi-3x2-1280.jpg",
+    "src800": "/photos/i-supreme-court-ugc-equity-regulations-centre-mulls-review-panel-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-supreme-court-ugc-equity-regulations-centre-mulls-review-panel-en-t-1280.jpg",
+    "src800": "/photos/i-supreme-court-ugc-equity-regulations-centre-mulls-review-panel-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-supreme-court-ugc-equity-regulations-centre-mulls-review-panel-hi-t-1280.jpg",
+    "src800": "/photos/i-supreme-court-ugc-equity-regulations-centre-mulls-review-panel-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-supreme-court-ugc-equity-regulations-centre-mulls-review-panel-en-1280.jpg",
+    "src800": "/photos/i-supreme-court-ugc-equity-regulations-centre-mulls-review-panel-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-supreme-court-ugc-equity-regulations-centre-mulls-review-panel-hi-1280.jpg",
+    "src800": "/photos/i-supreme-court-ugc-equity-regulations-centre-mulls-review-panel-hi-640.jpg"
+   }
+  }
  }
 }
