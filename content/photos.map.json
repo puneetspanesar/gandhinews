@@ -28727,87 +28727,87 @@
   "page": "https://commons.wikimedia.org/wiki/File:CHENNAI_SEA_.jpg"
  },
  "india-beat-japan-4-1-asian-champions-trophy-final": {
-  "id": "i-india-beat-japan-4-1-asian-champions-trophy-final",
-  "src": "/photos/i-india-beat-japan-4-1-asian-champions-trophy-final-en-3x2-1280.jpg",
-  "src800": "/photos/i-india-beat-japan-4-1-asian-champions-trophy-final-en-3x2-640.jpg",
+  "id": "o-india-beat-japan-4-1-asian-champions-trophy-final",
+  "src": "/photos/o-india-beat-japan-4-1-asian-champions-trophy-final-1280.jpg",
+  "src800": "/photos/o-india-beat-japan-4-1-asian-champions-trophy-final-640.jpg",
   "width": 1280,
-  "height": 853,
-  "credit": "Graphic: Gandhi News",
-  "licence": "",
-  "graphic": true,
-  "alt": "Gandhi News graphic: India fight back to beat Japan 4-1",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: पिछड़ने के बाद भारत ने जापान को 4-1 से हराया",
-  "page": null,
-  "ihash": "79d5f35ae56e",
-  "byLang": {
-   "hi": {
-    "src": "/photos/i-india-beat-japan-4-1-asian-champions-trophy-final-hi-3x2-1280.jpg",
-    "src800": "/photos/i-india-beat-japan-4-1-asian-champions-trophy-final-hi-3x2-640.jpg"
-   }
-  },
-  "thumb": {
-   "en": {
-    "src": "/photos/i-india-beat-japan-4-1-asian-champions-trophy-final-en-t-1280.jpg",
-    "src800": "/photos/i-india-beat-japan-4-1-asian-champions-trophy-final-en-t-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-india-beat-japan-4-1-asian-champions-trophy-final-hi-t-1280.jpg",
-    "src800": "/photos/i-india-beat-japan-4-1-asian-champions-trophy-final-hi-t-640.jpg"
-   }
-  },
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/i-india-beat-japan-4-1-asian-champions-trophy-final-en-1280.jpg",
-    "src800": "/photos/i-india-beat-japan-4-1-asian-champions-trophy-final-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-india-beat-japan-4-1-asian-champions-trophy-final-hi-1280.jpg",
-    "src800": "/photos/i-india-beat-japan-4-1-asian-champions-trophy-final-hi-640.jpg"
-   }
-  }
+  "height": 691,
+  "credit": "Photo: Ministry of Youth Affairs and Sports / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "An India men's hockey team after a medal win (file photo)",
+  "alt_hi": "पदक जीत के बाद भारतीय पुरुष हॉकी टीम (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Team_India_won_Silver_Medal_in_the_Men%E2%80%99s_Hockey,_at_the_12th_South_Asian_Games-2016,_in_Guwahati_on_February_12,_2016.jpg"
  },
  "india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat": {
-  "id": "i-india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat",
-  "src": "/photos/i-india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat-en-3x2-1280.jpg",
-  "src800": "/photos/i-india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat-en-3x2-640.jpg",
+  "id": "o-india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat",
+  "src": "/photos/o-india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat-1280.jpg",
+  "src800": "/photos/o-india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat-640.jpg",
+  "width": 1280,
+  "height": 854,
+  "credit": "Photo: Ministry of Youth Affairs and Sports (SAI) / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "The India men's football team lines up before a match (file photo)",
+  "alt_hi": "मैच से पहले कतार में खड़ी भारतीय पुरुष फुटबॉल टीम (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:India_starting_XI_vs_Puerto_Rico_2016.jpg"
+ },
+ "shelton-beats-rinderknech-paul-quarter-final-paris-masters": {
+  "id": "o-shelton-beats-rinderknech-paul-quarter-final-paris-masters",
+  "src": "/photos/o-shelton-beats-rinderknech-paul-quarter-final-paris-masters-1280.jpg",
+  "src800": "/photos/o-shelton-beats-rinderknech-paul-quarter-final-paris-masters-640.jpg",
+  "width": 1280,
+  "height": 720,
+  "credit": "Photo: Skyscraper2010 / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Ben Shelton at a press conference in Basel in 2025 (file photo)",
+  "alt_hi": "2025 में बासेल में प्रेस कॉन्फ्रेंस में बेन शेल्टन (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Ben_Shelton,_ATP_500_Basel_2025.jpg"
+ },
+ "ganjam-landslide-toll-seven-odisha-seeks-2526-crore": {
+  "id": "o-ganjam-landslide-toll-seven-odisha-seeks-2526-crore",
+  "src": "/photos/o-ganjam-landslide-toll-seven-odisha-seeks-2526-crore-1280.jpg",
+  "src800": "/photos/o-ganjam-landslide-toll-seven-odisha-seeks-2526-crore-640.jpg",
+  "width": 1280,
+  "height": 818,
+  "credit": "Photo: Ministry of Home Affairs / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Rescue workers clear debris at a landslide site in India (file photo)",
+  "alt_hi": "भारत में भूस्खलन स्थल पर मलबा हटाते बचावकर्मी (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Rescue_workers_clear_the_debris_at_the_site_of_a_landslide_in_Maalin_village,_in_Pune,_Maharashtra_on_July_31,_2014.jpg"
+ },
+ "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh": {
+  "id": "o-hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
+  "src": "/photos/o-hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh-1280.jpg",
+  "src800": "/photos/o-hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh-640.jpg",
+  "width": 1280,
+  "height": 685,
+  "credit": "Photo: Ministry of Housing and Urban Poverty Alleviation / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Hardeep Singh Puri delivers an address in New Delhi (file photo)",
+  "alt_hi": "नई दिल्ली में संबोधन देते हरदीप सिंह पुरी (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Hardeep_Singh_Puri_delivering_the_inaugural_address_at_the_International_Conference_on_Plastics_Recycling_%26_Waste_Management_Opportunities_%26_Challenges,_in_New_Delhi_(1).JPG"
+ },
+ "cristiano-ronaldo-retires-international-football-portugal": {
+  "id": "o-cristiano-ronaldo-retires-international-football-portugal",
+  "src": "/photos/o-cristiano-ronaldo-retires-international-football-portugal-1280.jpg",
+  "src800": "/photos/o-cristiano-ronaldo-retires-international-football-portugal-640.jpg",
   "width": 1280,
   "height": 853,
-  "credit": "Graphic: Gandhi News",
-  "licence": "",
-  "graphic": true,
-  "alt": "Gandhi News graphic: India beat Pakistan 3-2 in Dhaka",
-  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: ढाका में भारत ने पाकिस्तान को 3-2 से हराया",
-  "page": null,
-  "ihash": "92a4778927d6",
-  "byLang": {
-   "hi": {
-    "src": "/photos/i-india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat-hi-3x2-1280.jpg",
-    "src800": "/photos/i-india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat-hi-3x2-640.jpg"
-   }
-  },
-  "thumb": {
-   "en": {
-    "src": "/photos/i-india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat-en-t-1280.jpg",
-    "src800": "/photos/i-india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat-en-t-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat-hi-t-1280.jpg",
-    "src800": "/photos/i-india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat-hi-t-640.jpg"
-   }
-  },
-  "cover": {
-   "width": 1280,
-   "height": 720,
-   "en": {
-    "src": "/photos/i-india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat-en-1280.jpg",
-    "src800": "/photos/i-india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat-en-640.jpg"
-   },
-   "hi": {
-    "src": "/photos/i-india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat-hi-1280.jpg",
-    "src800": "/photos/i-india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat-hi-640.jpg"
-   }
-  }
+  "credit": "Photo: Ludovic Péron / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0",
+  "alt": "Cristiano Ronaldo playing for Portugal (file photo)",
+  "alt_hi": "पुर्तगाल के लिए खेलते क्रिस्टियानो रोनाल्डो (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Argentine_-_Portugal_-_Cristiano_Ronaldo.jpg"
+ },
+ "misri-meets-balendra-shah-kathmandu-india-visit-preparations": {
+  "id": "o-misri-meets-balendra-shah-kathmandu-india-visit-preparations",
+  "src": "/photos/o-misri-meets-balendra-shah-kathmandu-india-visit-preparations-1280.jpg",
+  "src800": "/photos/o-misri-meets-balendra-shah-kathmandu-india-visit-preparations-640.jpg",
+  "width": 1280,
+  "height": 998,
+  "credit": "Photo: Ministry of Defence / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Foreign Secretary Vikram Misri at a briefing (file photo)",
+  "alt_hi": "एक ब्रीफिंग में विदेश सचिव विक्रम मिस्री (फाइल फोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Shri_Vikram_Misri.jpg"
  }
 }

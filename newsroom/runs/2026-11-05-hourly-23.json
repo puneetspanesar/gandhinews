@@ -1,0 +1,25 @@
+{
+ "run": "hourly-23",
+ "start": "2026-11-05T23:05:39+05:30",
+ "end": "2026-11-05T23:48:04+05:30",
+ "summary": "Shelton, Ronaldo, Misri published; hockey final, Ganjam, Puri, SAFF held for pictures",
+ "new": [
+  "shelton-beats-rinderknech-paul-quarter-final-paris-masters"
+ ],
+ "held": [
+  "ganjam-landslide-toll-seven-odisha-seeks-2526-crore",
+  "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "hardeep-puri-elected-unopposed-rajya-sabha-madhya-pradesh",
+   "kind": "picture",
+   "why": "The replacement main picture, now the homepage lead, is still a stand-in. It is a 2018 file photo of Puri speaking at a plastics recycling and waste management conference. The banner reading 'International Conference on Plastics Recycling & Waste Management, 28th September 2018' takes up most of the frame, Puri is a small figure at the left edge and four unrelated panellists fill the rest. It does not match a Rajya Sabha election story and looks lazy for the lead.",
+   "fix": "Use a clear, recent, tightly cropped portrait of Hardeep Singh Puri (quick_photo.py 'Hardeep Singh Puri'), as hero.need asks, or a photo of him filing his nomination in Bhopal on October 31 with CM Mohan Yadav. No conference banners, maps or panels."
+  }
+ ],
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "misri-meets-balendra-shah-kathmandu-india-visit-preparations"
+}
