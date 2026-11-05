@@ -584,6 +584,135 @@
         }
       ],
       "notes": "Case number not given by PTI; LiveLaw's listing (not opened by the desk this run, link from search) is reported in an earlier Gandhi News story as T.R. Ramesh v State of Tamil Nadu, SLP(C) 39005/2026, which does not match the Dikshitars as petitioners, so the case title is descriptive. Party to whom notice issued not stated."
+    },
+    {
+      "id": "production-clock-from-detention",
+      "case": "Appeals by four accused against the Tripura High Court's refusal of bail in an NDPS Act case (case title not reported)",
+      "issue": "Whether the 24-hour limit under Article 22(2) of the Constitution to produce an arrested person before a magistrate runs from the moment of actual detention or only from the time police formally record the arrest.",
+      "bench_size": 2,
+      "bench": "Justices Ujjal Bhuyan and Atul S. Chandurkar",
+      "status": "decided",
+      "status_text": "24 hours run from detention; bail granted",
+      "last_date": "2026-11-05",
+      "last_event": "The Court held that the 24-hour deadline runs from actual detention and that \"any attempt to draw an artificial distinction between detention and arrest is constitutionally unsustainable.\" Only the time needed for the journey to the magistrate can be excluded. The four men had been detained at 2 pm on 29 Sep 2025 but shown as arrested at 11 am the next day. The bench set aside the Tripura High Court's judgment and ordered their release on bail, and said magistrates must record when liberty was actually curtailed and may refuse remand under Section 58 of the BNSS if custody is unreasonable.",
+      "next_step": "Bail conditions to be set by the Special Court. The ruling applies to magistrates across the country.",
+      "sources": [
+        {
+          "title": "No Difference Between Arrest And Detention: SC Says 24-Hour Clock Starts When Liberty Is Curtailed",
+          "publisher": "ETV Bharat",
+          "date": "2026-11-05",
+          "url": "https://www.etvbharat.com/en/bharat/no-difference-between-arrest-detention-sc-says-24-hour-clock-starts-when-liberty-is-curtailed-enn26110502192"
+        },
+        {
+          "title": "24-hour deadline to produce accused before Magistrate runs from actual detention, not formal arrest: SC",
+          "publisher": "Punjab Kesari (IANS)",
+          "date": "2026-11-05",
+          "url": "https://english.punjabkesari.com/india/24-hour-deadline-to-produce-accused-before-magistrate-runs-from-actual-detention-not-formal-arrest-sc"
+        }
+      ],
+      "notes": "Appellants and case number not given in sources. Quotes from ETV Bharat and IANS."
+    },
+    {
+      "id": "azam-khan-ed-arrest",
+      "case": "Mohd Azam Khan v. Directorate of Enforcement",
+      "issue": "Samajwadi Party leader Azam Khan's challenge to his arrest by the ED in a money laundering case linked to the Mohammad Ali Jauhar Trust, and to the 1 Nov 2026 special court order sending him to judicial custody.",
+      "bench_size": null,
+      "bench": "Bench led by CJI Surya Kant",
+      "status": "disposed",
+      "status_text": "Sent to the Allahabad High Court",
+      "last_date": "2026-11-05",
+      "last_event": "The Court declined to hear the petition itself and transferred it to the Allahabad High Court, directing the Registrar to place it before the High Court's Chief Justice for listing on 16 Nov 2026, when the High Court is to decide his plea for interim relief. Senior advocate Kapil Sibal argued that the PMLA had been wrongly invoked: \"They are saying goats, cows are proceeds of crime, how can that be?\"",
+      "next_step": "Allahabad High Court to take up interim relief on 16 Nov 2026. Khan remains in judicial custody in the ED case.",
+      "sources": [
+        {
+          "title": "LiveLaw Breaking News Alerts: 05 November 2026",
+          "publisher": "LiveLaw",
+          "date": "2026-11-05",
+          "url": "https://www.livelaw.in/top-stories/livelaw-breaking-news-alerts-05-november-2026-557408"
+        },
+        {
+          "title": "Supreme Court Refuses Azam Khan's Plea Against ED Arrest; Transfers Petition To Allahabad High Court",
+          "publisher": "LawBeat",
+          "date": "2026-11-05",
+          "url": "https://lawbeat.in/top-stories/supreme-court-refuses-azam-khans-plea-against-ed-arrest-transfers-petition-to-allahabad-high-court-1649222"
+        }
+      ],
+      "notes": "Second bench member not confirmed in copy. Arrest date conflicts between sources (29 Oct vs 31 Oct), so not given."
+    },
+    {
+      "id": "tirupati-laddu-trial-transfer",
+      "case": "Machindra Shantaram Lanke and M/s Malganga Milk and Agro Products v. State of Andhra Pradesh (criminal transfer petition)",
+      "issue": "Whether the trial in the Tirupati laddu ghee adulteration case should be moved out of Andhra Pradesh because statements by Chief Minister Chandrababu Naidu and Deputy Chief Minister Pawan Kalyan had allegedly prejudiced a fair trial.",
+      "bench_size": 2,
+      "bench": "CJI Surya Kant and Justice Joymalya Bagchi",
+      "status": "disposed",
+      "status_text": "Transfer plea dismissed",
+      "last_date": "2026-11-05",
+      "last_event": "\"We are not inclined to transfer the trial. Dismissed,\" the bench said. It noted that many witnesses are from the state and that the probe was done by a special investigation team the Supreme Court itself set up (two CBI officers, two Andhra Pradesh police officers and an FSSAI official under the CBI director's supervision). Petitioners were left free to return if a similar problem arose.",
+      "next_step": "Trial continues in Andhra Pradesh.",
+      "sources": [
+        {
+          "title": "Supreme Court Refuses to Transfer Tirupati Laddu Case Outside AP",
+          "publisher": "The Hans India",
+          "date": "2026-11-05",
+          "url": "https://www.thehansindia.com/news/cities/tirupathi/supreme-court-refuses-to-transfer-tirupati-laddu-case-outside-ap-1139512"
+        },
+        {
+          "title": "SC rejects plea to shift Tirupati laddu ghee case trial out of Andhra Pradesh",
+          "publisher": "IBTimes India",
+          "date": "2026-11-05",
+          "url": "https://www.ibtimes.co.in/sc-rejects-plea-shift-tirupati-laddu-ghee-case-trial-out-andhra-pradesh-908129"
+        }
+      ],
+      "notes": "Respondent named descriptively; details from The Hans India (fetched by the news desk), outcome confirmed by IBTimes headline."
+    },
+    {
+      "id": "punjab-da-arrears-contempt",
+      "case": "State of Punjab's challenge to the Punjab and Haryana High Court's criminal contempt proceedings against Chief Secretary KAP Sinha (DA arrears)",
+      "issue": "Whether the High Court could start criminal contempt against Punjab's Chief Secretary over an alleged misstatement in a state affidavit, in a dispute over the state's delay in paying dearness allowance and dearness relief arrears ordered on 3 Aug 2026.",
+      "bench_size": 2,
+      "bench": "Justices B.V. Nagarathna and R. Mahadevan",
+      "status": "pending",
+      "status_text": "Criminal contempt stayed",
+      "last_date": "2026-11-05",
+      "last_event": "The Court stayed the High Court's 12 Oct 2026 show-cause order on criminal contempt and all further proceedings in that case \"till further orders\". Senior advocate Vikas Singh said Punjab had already paid about ₹5,000 crore under a plan to clear the dues. A separate civil contempt petition on the arrears remains pending in the High Court.",
+      "next_step": "Next Supreme Court date not reported. The High Court had asked Sinha to file a compliance affidavit by 13 Nov and appear on 17 Nov; how the stay affects these dates is not reported.",
+      "sources": [
+        {
+          "title": "Supreme Court Stays Criminal Contempt Case Against Punjab Chief Secretary Over DA Arrears",
+          "publisher": "LawBeat",
+          "date": "2026-11-05",
+          "url": "https://lawbeat.in/top-stories/supreme-court-stays-criminal-contempt-case-against-punjab-chief-secretary-over-da-arrears-1649260"
+        }
+      ],
+      "notes": "Single detailed source (LawBeat). Case number not reported."
+    },
+    {
+      "id": "ugc-equity-regulations",
+      "case": "Challenges to the UGC (Promotion of Equity in Higher Education Institutions) Regulations, 2026",
+      "issue": "Whether the UGC's 2026 anti-discrimination regulations, notified on 13 Jan 2026, are invalid because their grievance mechanism protects only SC, ST and OBC students and leaves out General Category students.",
+      "bench_size": 2,
+      "bench": "CJI Surya Kant and Justice Joymalya Bagchi",
+      "status": "pending",
+      "status_text": "Centre considering a review panel; rules in abeyance",
+      "last_date": "2026-11-05",
+      "last_event": "\"Why don't you revisit the UGC Regulations?\" the bench asked. Solicitor General Tushar Mehta said the government was considering a committee to review the rules so that no section feels dissatisfied, adding: \"The government has taken a decision that every student should be taken care of.\" The bench recorded his submission and deferred the hearing. The regulations have been kept in abeyance by the Court since earlier in 2026.",
+      "next_step": "Next hearing date not reported; Centre to say whether it sets up a review committee.",
+      "sources": [
+        {
+          "title": "Centre Mulls Panel To Revisit UGC Regulations On Caste Discrimination, Tells SC",
+          "publisher": "ETV Bharat",
+          "date": "2026-11-05",
+          "url": "https://www.etvbharat.com/en/bharat/centre-mulls-panel-to-revisit-ugc-regulations-on-caste-discrimination-tells-sc-enn26110503788"
+        },
+        {
+          "title": "Supreme Court Flags Concerns Over UGC Caste Rules, Asks Centre To Consider Expert Panel",
+          "publisher": "Oneindia",
+          "date": "2026-11-05",
+          "url": "https://www.oneindia.com/india/supreme-court-flags-concerns-over-ugc-caste-rules-asks-centre-to-consider-expert-panel-8251757.html"
+        }
+      ],
+      "notes": "Lead case title not named in sources. Date of the abeyance order not given."
     }
   ]
 }
