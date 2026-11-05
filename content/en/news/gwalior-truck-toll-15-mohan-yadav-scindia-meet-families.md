@@ -42,7 +42,7 @@ verification:
 
 The number of people killed when a paddy-laden truck ploughed into devotees outside Gwalior's Sheetla Mata temple has risen to 15, and Chief Minister Mohan Yadav travelled to the city on Monday to meet the bereaved families.
 
-Yadav and Union Minister Jyotiraditya Scindia, the city's most prominent political figure, went from home to home, laying flowers before portraits of the dead and sitting with relatives. Several of the injured are still being treated in hospital.
+Yadav and Union Minister **Jyotiraditya Scindia**, the city's most prominent political figure, went from home to home, laying flowers before portraits of the dead and sitting with relatives. Several of the injured are still being treated in hospital.
 
 "The government stands completely with the affected families in this hour of grief," Yadav said. "We are getting the entire incident investigated, and further action will be taken against everyone found responsible."
 
@@ -50,6 +50,6 @@ The truck, coming down a steep slope from the Chinor side at about 1:30 am on Su
 
 Within hours the Chief Minister had removed Gwalior's City Superintendent of Police and suspended eight police personnel for negligence. "We have taken action wherever prima facie negligence was found," he said on Monday. Ministers Aidal Singh Kansana and Rakesh Singh had visited the families and the hospital on Sunday.
 
-The state has announced ₹4 lakh for the family of each person killed, with a further ₹2 lakh from the Prime Minister's National Relief Fund. The driver and the truck's owner were reported to have been arrested on Sunday.
+The state has announced **₹4 lakh** for the family of each person killed, with a further ₹2 lakh from the Prime Minister's National Relief Fund. The driver and the truck's owner were reported to have been arrested on Sunday.
 
 "I hope such an accident does not happen again," Yadav said. The detailed inquiry he ordered will look at how a loaded truck reached a lane closed to heavy vehicles.

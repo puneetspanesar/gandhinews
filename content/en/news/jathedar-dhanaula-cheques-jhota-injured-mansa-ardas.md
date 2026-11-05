@@ -40,10 +40,10 @@ The jathedar of Takht Sri Damdama Sahib, Giani Tek Singh Dhanaula, on Thursday h
 
 "The Ardas will be performed at all gurdwaras across the state," he said, adding that the date would be announced soon.
 
-Jhota, 42, was shot dead on October 13. Four people were injured in the attack. The Shiromani Gurdwara Parbandhak Committee president, Harjinder Singh Dhami, announced on October 17 that each of them would get ₹5 lakh, half for medical costs and half as financial assistance.
+Jhota, 42, was shot dead on October 13. Four people were injured in the attack. The Shiromani Gurdwara Parbandhak Committee president, Harjinder Singh Dhami, announced on October 17 that each of them would get **₹5 lakh**, half for medical costs and half as financial assistance.
 
 The jathedar called the killing a serious blow to the Sikh community and praised Jhota's family for standing firm. He asked people to keep party politics out of it, describing it as a Panthic issue, and said those responsible must be punished. "The sacrifice must not go in vain," he said.
 
-Jhota's father, Bhim Singh, said the state government would also help the injured with their expenses. On October 20, Mansa Deputy Commissioner Navjot Kaur gave cheques of ₹2.5 lakh and ₹90,000 to the families of two of the injured through the District Red Cross Society, and said the state was paying for the treatment of all four.
+Jhota's father, Bhim Singh, said the state government would also help the injured with their expenses. On October 20, Mansa Deputy Commissioner Navjot Kaur gave cheques of **₹2.5 lakh** and ₹90,000 to the families of two of the injured through the District Red Cross Society, and said the state was paying for the treatment of all four.
 
 The Akal Takht's acting jathedar, Giani Kuldeep Singh Gargaj, declared Jhota a Quami Shaheed, a martyr of the community, on October 16, and Dhami has said his portrait will be put up in the Central Sikh Museum at the Golden Temple complex. Protests demanding justice have continued in Mansa, and the killing is expected to dominate the Punjab Assembly session that opened on Thursday.

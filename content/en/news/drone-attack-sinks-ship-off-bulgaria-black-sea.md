@@ -57,7 +57,7 @@ Drones sank a cargo ship off Bulgaria's Black Sea coast overnight into Tuesday a
 
 The ship went down off the village of Krapets, close to the Romanian border. Five of its crew were rescued and a search for the others was still going on, Bulgarian officials said.
 
-The second ship, the Ukrainian-owned Chelsea 3, which sails under the Maltese flag, was struck by three drones at about 1:30 am on Tuesday, roughly 18 nautical miles (33 km) off the coast. It was damaged but stayed afloat. All 15 people on board, seven Ukrainians and eight Azerbaijanis, were rescued, and none was seriously hurt.
+The second ship, the Ukrainian-owned Chelsea 3, which sails under the Maltese flag, was struck by three drones at about 1:30 am on Tuesday, roughly 18 nautical miles (**33 km**) off the coast. It was damaged but stayed afloat. All 15 people on board, seven Ukrainians and eight Azerbaijanis, were rescued, and none was seriously hurt.
 
 ## "The outcome benefits" Russia
 

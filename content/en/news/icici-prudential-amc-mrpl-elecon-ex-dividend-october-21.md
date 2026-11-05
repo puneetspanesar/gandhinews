@@ -48,10 +48,10 @@ verification:
 
 Shares of ICICI Prudential Asset Management Company, Mangalore Refinery and Petrochemicals (MRPL) and Elecon Engineering trade without their interim dividends from Wednesday, the first session after the Dussehra holiday.
 
-ICICI Prudential AMC will pay ₹30 a share. MRPL, the Mangaluru-based refiner, will pay ₹3 a share, and Elecon Engineering 50 paise. For all three, October 21 is both the ex-dividend date and the record date.
+ICICI Prudential AMC will pay **₹30 a share**. MRPL, the Mangaluru-based refiner, will pay ₹3 a share, and Elecon Engineering 50 paise. For all three, October 21 is both the ex-dividend date and the record date.
 
 Because Indian shares settle the next working day, only investors who bought the stocks by the close on Monday, October 19, will be on the companies' books on the record date and receive the payout. Buyers from Wednesday will not, and the share prices usually open lower by roughly the amount of the dividend.
 
-ICICI Prudential AMC announced its dividend with its July-September results earlier this month. Its net profit rose 6.1% from a year earlier to ₹889 crore, as revenue from operations grew 16.3% to ₹1,674 crore on a larger pool of fund assets. Its quarterly average mutual fund assets rose 14.4% to ₹11.61 lakh crore. For April-September its profit rose 14.3% to ₹1,854 crore. The shares had closed at ₹2,969.40 on October 12, the day of the results.
+ICICI Prudential AMC announced its dividend with its July-September results earlier this month. Its net profit rose **6.1%** from a year earlier to ₹889 crore, as revenue from operations grew 16.3% to ₹1,674 crore on a larger pool of fund assets. Its quarterly average mutual fund assets rose 14.4% to ₹11.61 lakh crore. For April-September its profit rose 14.3% to ₹1,854 crore. The shares had closed at ₹2,969.40 on October 12, the day of the results.
 
 The adjustment comes on a crowded day for the market, with about 40 companies reporting results and the Jio Platforms offer opening for bids.

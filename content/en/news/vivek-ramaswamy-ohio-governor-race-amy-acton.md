@@ -43,12 +43,12 @@ verification:
 
 Vivek Ramaswamy, the Indian-American entrepreneur bidding to become Ohio's governor, is outspending his Democratic rival by more than three to one, yet the latest independent poll has him behind with two weeks to go.
 
-A Bowling Green State University/YouGov survey released on Friday put Amy Acton, Ohio's former health director, on 50% and Ramaswamy, the Republican nominee, on 44%. The six-point gap is within the margin of error, and other recent polls have been closer, with two showing Ramaswamy narrowly ahead. Libertarian Don Kissick is also on the ballot.
+A Bowling Green State University/YouGov survey released on Friday put Amy Acton, Ohio's former health director, on **50% and Ramaswamy**, the Republican nominee, on 44%. The six-point gap is within the margin of error, and other recent polls have been closer, with two showing Ramaswamy narrowly ahead. Libertarian Don Kissick is also on the ballot.
 
 Ramaswamy and outside groups backing him had spent or reserved more than $97 million on television and radio as of last week, more than triple Democratic spending, with the overall race approaching nine figures.
 
 The Cincinnati biotech entrepreneur and former presidential candidate has promised to be "the most conservative Governor in Ohio's history", campaigning on deregulation and conservative changes to schools. Republican advertisements go after Acton's decisions during the pandemic, including closing businesses and schools.
 
-Acton is running on affordability, public education and health care, and Democrats paint Ramaswamy as a wealthy outsider whose plans favour billionaires and corporations over working Ohioans. She has refused to debate him; the two have appeared only in separate interviews with Ideastream Public Media.
+Acton is running on affordability, public education and health care, and Democrats paint Ramaswamy as a wealthy outsider whose plans favour billionaires and corporations over working Ohioans. She has **refused to debate** him; the two have appeared only in separate interviews with Ideastream Public Media.
 
 The stakes are high for both parties. An Acton win would make her Ohio's first woman governor and the first Democrat to hold the office since Ted Strickland, elected in 2006, though she would probably face a Republican-controlled Statehouse. A Ramaswamy victory would put a prominent ally of Donald Trump in charge, which could speed up conservative changes to education and government spending. Voters decide on November 3.

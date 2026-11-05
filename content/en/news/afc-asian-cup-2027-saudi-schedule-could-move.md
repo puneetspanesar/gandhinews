@@ -22,7 +22,7 @@ hero:
     value: "Kick-off January 7, or 2028?"
 related: [six-kings-slam-postponed-december-riyadh, saudi-houthi-war-crimes-us-tightens-iran-sanctions, why-riyadh-airport-is-shut-houthi-saudi-strikes-explained]
 seo:
-  description: "Saudi organisers say the 2027 AFC Asian Cup is on schedule for January 7, but AFC president Sheikh Salman says it could move to 2028 amid Houthi attacks."
+  description: "Saudi organisers say the 2027 AFC Asian Cup is on schedule for January 7, but AFC president Sheikh Salman says it could move to 2028 because of Houthi attacks."
 sources:
   - title: "Trump says ground troops unlikely in Iran; Saudi downs drone (Al Jazeera live blog, mirrored)"
     publisher: "Al Jazeera via KpNews"
@@ -53,11 +53,11 @@ verification:
     - "India's participation in the 2027 Asian Cup not checked; not mentioned."
 ---
 
-Saudi Arabia's organising committee said on Friday that preparations for the 2027 AFC Asian Cup were on schedule, even as Houthi missiles and drones keep hitting the kingdom's airports.
+Saudi Arabia's organising committee said on Friday that preparations for the **2027 AFC Asian Cup** were on schedule, even as Houthi missiles and drones keep hitting the kingdom's airports.
 
 The tournament is due to start on January 7, with matches in Riyadh, Jeddah and Al Khobar. But Sheikh Salman bin Ebrahim Al Khalifa, president of the Asian Football Confederation, said a final decision on whether it goes ahead as planned could wait until the end of November, and that the event could be moved to 2028.
 
-The uncertainty reflects how far the Yemen war has spilled into Saudi life. King Khalid International Airport in Riyadh has been attacked 20 times since October 1, according to the Saudi-led coalition, which says Houthi strikes on Saudi airports have killed 19 people.
+The uncertainty reflects how far the Yemen war has spilled into Saudi life. King Khalid International Airport in Riyadh has been attacked 20 times since October 1, according to the Saudi-led coalition, which says Houthi strikes on Saudi airports have killed **19 people**.
 
 Other events have already been pushed back. The Six Kings Slam tennis exhibition in Riyadh has been moved to December 27 for what organisers called "logistical reasons". The Asian Tour postponed the Saudi International golf tournament, which had been set for November 18 to 21, citing "logistical challenges".
 

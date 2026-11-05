@@ -49,7 +49,7 @@ verification:
     - "The UK PM is Andy Burnham and Foreign Secretary Ed Miliband per our Oct 12 story; not repeated here."
 ---
 
-Iran has summoned Britain's ambassador in Tehran, Hugo Shorter, and demanded that London produce evidence for its claim that Iran was probably behind a suspected plot near RAF Fairford, the air base in England used by American bombers.
+Iran has summoned Britain's ambassador in Tehran, **Hugo Shorter**, and demanded that London produce evidence for its claim that Iran was probably behind a suspected plot near RAF Fairford, the air base in England used by American bombers.
 
 The Iranian foreign ministry called the British accusation a "clumsy false flag operation". Its spokesman, Esmaeil Baghaei, accused Britain of playing a "destructive role" in the region.
 
@@ -57,6 +57,6 @@ Britain had earlier summoned Iran's ambassador in London and sanctioned two Iran
 
 Britain's security service has warned of wider Iranian activity. In his annual threat update this week, MI5's director general, Sir Ken McCallum, described Iran and Russia as "attempting to expand their hybrid campaign", with more than 50 arrests in the past year.
 
-On Thursday a court in Hamburg sentenced two men for plotting attacks on pro-Israel figures on behalf of Iranian intelligence. Ali S., a Danish national, was jailed for eight and a half years and Tawab M., an Afghan, for four and a half years.
+On Thursday a court in Hamburg sentenced two men for plotting attacks on pro-Israel figures on behalf of Iranian intelligence. Ali S., a Danish national, was jailed for **eight and a half years** and Tawab M., an Afghan, for four and a half years.
 
 The row comes as Washington announced fresh sanctions on 16 individuals and 10 entities linked to Iran's finances.

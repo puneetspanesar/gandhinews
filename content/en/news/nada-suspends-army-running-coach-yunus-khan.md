@@ -39,9 +39,9 @@ verification:
 
 The National Anti-Doping Agency (NADA) has provisionally suspended Mohd Yunus Khan, a long and middle-distance running coach at the Army Sports Institute in Pune.
 
-Khan appears on NADA's list of provisionally suspended people under Article 2.9 of the National Anti-Doping Rules, which deals with "complicity or attempted complicity". The charge does not concern a failed test. It relates to an alleged role in an anti-doping violation by someone else.
+Khan appears on NADA's list of provisionally suspended people **under Article 2.9** of the National Anti-Doping Rules, which deals with "complicity or attempted complicity". The charge does not concern a failed test. It relates to an alleged role in an anti-doping violation by someone else.
 
-Article 2.9 covers assisting, encouraging, aiding, abetting, conspiring in or covering up another person's violation. If the charge is proved, the penalty ranges from two years' ineligibility to a lifetime ban, depending on how serious the case is.
+**Article 2.9** covers assisting, encouraging, aiding, abetting, conspiring in or covering up another person's violation. If the charge is proved, the penalty ranges from two years' ineligibility to a lifetime ban, depending on how serious the case is.
 
 The case now goes through NADA's hearing process, and the provisional suspension keeps Khan out of any coaching role in sport until it is decided. It has not been made public which athlete's case the charge is linked to.
 

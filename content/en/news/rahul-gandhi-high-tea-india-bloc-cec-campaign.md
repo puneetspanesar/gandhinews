@@ -51,7 +51,7 @@ verification:
     - "Rahul Gandhi's 'spoil the surprise' quote is from The News Mill and truncated there; only the clause shown is quoted."
 ---
 
-Leaders of the INDIA bloc met over tea at Rahul Gandhi's official residence in New Delhi on Tuesday and agreed to keep up their campaign for the resignation of Chief Election Commissioner Gyanesh Kumar, a day after their march towards the Supreme Court was stopped by police.
+Leaders of the INDIA bloc met over tea at Rahul Gandhi's **official residence** in New Delhi on Tuesday and agreed to keep up their campaign for the resignation of Chief Election Commissioner Gyanesh Kumar, a day after their march towards the Supreme Court was stopped by police.
 
 Gandhi, the Leader of the Opposition in the Lok Sabha, invited the alliance's parties along with student groups and civil society organisations.
 

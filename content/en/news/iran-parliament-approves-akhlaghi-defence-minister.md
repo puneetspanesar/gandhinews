@@ -53,7 +53,7 @@ verification:
     - "Tugboat hit by two projectiles and gunmen firing on LNG tanker off Yemen: Al Jazeera liveblog summary only (UKMTO cited); no locations or times."
 ---
 
-Iran's parliament on Sunday approved Mehrdad Akhlaghi Ketabchi as the country's defence minister, filling a post left vacant since his predecessor was killed in US-Israeli strikes on the first day of the war in February.
+Iran's parliament on Sunday approved **Mehrdad Akhlaghi** Ketabchi as the country's defence minister, filling a post left vacant since his predecessor was killed in US-Israeli strikes on the first day of the war in February.
 
 "Members of the Islamic Consultative Assembly today gave vote of confidence to Mehrdad Akhlaghi," state television said. President Masoud Pezeshkian had put him forward this month, nearly eight months after the strikes that opened the conflict.
 
@@ -73,7 +73,7 @@ The trouble was not confined to Hormuz. The UK Maritime Trade Operations agency 
 
 Iran took control of the strait after the war began and now demands that ships seek its permission before passing. Washington has answered with a naval blockade of Iranian oil exports. Attacks on shipping have surged over the past fortnight: last Sunday six vessels were attacked in or near the strait, the most in a single day since the war started.
 
-The effect on oil flows has been stark. About 20.8 million barrels passed through the strait on October 8, according to the analytics firm Kpler. By October 11 the figure had fallen to 2.9 million. Before the war, roughly a fifth of the world's oil consumption moved through the waterway.
+The effect on oil flows has been stark. About 20.8 **million barrels** passed through the strait on October 8, according to the analytics firm Kpler. By October 11 the figure had fallen to 2.9 million. Before the war, roughly a fifth of the world's oil consumption moved through the waterway.
 
 For India, which buys most of its crude from abroad and has seafarers on many of the ships that use the route, every new attack raises freight costs and risks for crews.
 

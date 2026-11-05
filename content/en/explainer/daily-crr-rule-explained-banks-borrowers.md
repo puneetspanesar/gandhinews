@@ -5,7 +5,7 @@ type: explainer
 section: economy
 format_label: "Explained / Banking"
 topics: [rbi-interest-rates]
-title: "The RBI's new daily CRR rule: what changes for banks today, and what it means for your loan"
+title: "The RBI's new daily CRR rule: what changes for banks from October 16, and what it means for your loan"
 standfirst: "From Friday, banks must keep at least 99% of their required cash reserve with the RBI every single day, up from 90%. It sounds technical. It is one of the ways the central bank is trying to make its rate rise bite."
 published: 2026-10-16T06:50:00+05:30
 shortAnswer: "Every bank must keep 3% of its deposits and similar liabilities as cash with the RBI, measured as an average over a fortnight. Until now a bank could let its balance drop to 90% of that requirement on any day; from the fortnight beginning October 16, 2026, the floor is 99%, which leaves banks almost no room to dip into the reserve. The aim is to soak up surplus cash and push overnight interest rates up towards the 5.50% repo rate, which over time keeps loans dearer and supports deposit rates."

@@ -43,12 +43,12 @@ verification:
 
 Shares of state-run banks rallied on Monday morning, defying a weak market, after a run of September-quarter results that came in ahead of expectations.
 
-The Nifty PSU Bank index rose as much as 3% and was up 2.6% at 9:49 am, the best of all sector indices, while the Nifty 50 was flat. Punjab National Bank led the move with a gain of about 8%. Canara Bank, Punjab & Sind Bank, Union Bank of India, Bank of India, Indian Bank and State Bank of India rose between 2% and 4%.
+The Nifty PSU Bank index rose as much as **3%** and was up 2.6% at 9:49 am, the best of all sector indices, while the Nifty 50 was flat. Punjab National Bank led the move with a gain of about 8%. Canara Bank, Punjab & Sind Bank, Union Bank of India, Bank of India, Indian Bank and State Bank of India rose between 2% and 4%.
 
-PNB's profit after tax rose 13% from a year earlier to about ₹5,500 crore, ahead of analysts' estimates. Jefferies said better net interest income, higher treasury gains and lower provisions had more than made up for higher operating costs. "Asset quality trends are stable with high coverage; the impact of expected credit loss (ECL) is in our estimates," the brokerage said, keeping a buy rating with a target of ₹140.
+PNB's profit after tax rose **13%** from a year earlier to about ₹5,500 crore, ahead of analysts' estimates. Jefferies said better net interest income, higher treasury gains and lower provisions had more than made up for higher operating costs. "Asset quality trends are stable with high coverage; the impact of expected credit loss (ECL) is in our estimates," the brokerage said, keeping a buy rating with a target of ₹140.
 
-At Canara Bank, core operating profit before provisions rose 13.3% and loans grew 6.5% from the previous quarter. PL Capital raised its target price to ₹160 from ₹150, saying margins should hold up with help from festive-season retail demand and a low loan-to-deposit ratio of 80%.
+At Canara Bank, core operating profit before provisions rose 13.3% and loans grew 6.5% from the previous quarter. PL Capital raised its target price to **₹160 from ₹150**, saying margins should hold up with help from festive-season retail demand and a low loan-to-deposit ratio of 80%.
 
-Indian Bank's numbers were in line with forecasts, with its margin up 2 basis points to 3.31%. Motilal Oswal Financial Services, which praised its "best-in-class PCR", or provision coverage ratio, kept a buy rating with a ₹1,025 target.
+Indian Bank's numbers were in line with forecasts, with its margin up 2 basis points to **3.31%**. Motilal Oswal Financial Services, which praised its "best-in-class PCR", or provision coverage ratio, kept a buy rating with a ₹1,025 target.
 
-The state banks held on to their lead through the day. By the close the PSU Bank index was still the top sector, even as private lenders such as Axis Bank and HDFC Bank pulled the Sensex down 876 points.
+The state banks held on to their lead through the day. By the close the PSU Bank index was still the top sector, even as private lenders such as Axis Bank and HDFC Bank pulled the Sensex down **876 points**.

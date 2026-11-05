@@ -43,7 +43,7 @@ verification:
     - "No quotes from Sutar were found."
 ---
 
-Chinmay Sutar walked off the Nagaland Cricket Stadium in Sovima on Monday with 400 runs to his name and his place in the record books secure. Batting for Mizoram against Nagaland in the Ranji Trophy Plate group, the 400 not out he made off 517 balls is the second-highest score in the competition's history.
+Chinmay Sutar walked off the Nagaland Cricket Stadium in Sovima on Monday with 400 runs to his name and his place in the record books secure. Batting for Mizoram against Nagaland in the Ranji Trophy Plate group, the **400 not out** he made off 517 balls is the second-highest score in the competition's history.
 
 Only Bhausaheb Nimbalkar has gone further. His unbeaten 443 for Maharashtra against Kathiawar in Pune in 1948-49 has been the Ranji record since then. Sutar went past Prithvi Shaw's 379 on his way and became only the second Indian, after Nimbalkar, to make a quadruple century in first-class cricket.
 
@@ -63,7 +63,7 @@ The most remarkable part of the story is how new Sutar is to this level. This wa
 
 He showed his form straight away, scoring 35 and 99 in that game before being run out one short of a hundred in the second innings. Mizoram, who trailed by 68 on first innings, lost by three wickets.
 
-Sutar came through Mumbai's local leagues and had played for Mumbai in the Vijay Hazare Trophy. In June he helped MSC Maratha Royals defend their Mumbai T20 League title, scoring back-to-back half-centuries and finishing with 212 runs from six innings.
+Sutar came through Mumbai's local leagues and had played for Mumbai in the Vijay Hazare Trophy. In June he helped MSC Maratha Royals defend their Mumbai T20 League title, scoring back-to-back half-centuries and finishing with **212 runs** from six innings.
 
 On Monday he gave Mizoram a total that should put them in control of the match, with Nagaland now needing to bat for a long time to save it.
 

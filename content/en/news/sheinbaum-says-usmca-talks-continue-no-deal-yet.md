@@ -56,10 +56,10 @@ At a rally in Clarksville, Tennessee, on Saturday, Trump said the US did not nee
 
 Sheinbaum confirmed that, for now, Washington has chosen to negotiate with Mexico and Canada separately. "For now, what the United States decided is to negotiate separately with Canada and Mexico; we are having conversations," she said.
 
-Under the treaty, the three countries decide at the six-year review whether to extend it. Mexico and Canada asked for a 16-year extension; the US proposed 10 years with annual reviews. Sheinbaum said a longer extension could still be agreed at a later consultation. "That possibility is not closed," she said.
+Under the treaty, the three countries decide at the six-year review whether to extend it. Mexico and Canada asked for a 16-year extension; the US proposed **10 years** with annual reviews. Sheinbaum said a longer extension could still be agreed at a later consultation. "That possibility is not closed," she said.
 
 ## Tariffs the main sticking point
 
-Mexico's priority is tariffs. "What we want is a reduction of those tariffs and no more tariffs during the review period," Sheinbaum said, referring to US duties on cars, steel and aluminium. In June she said cutting the 50% tariff on steel and aluminium and the 25% tariff on car exports would count as a success.
+Mexico's priority is tariffs. "What we want is a reduction of those tariffs and no more tariffs during the review period," Sheinbaum said, referring to US duties on cars, steel and aluminium. In June she said cutting the **50%** tariff on steel and aluminium and the 25% tariff on car exports would count as a success.
 
 The agreement took effect on July 1, 2020, replacing NAFTA, and remains in force while the talks go on.

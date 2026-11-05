@@ -57,7 +57,7 @@ verification:
 
 Two merchant ships have sunk near the Strait of Hormuz after being hit by projectiles, as Iran's army insisted the waterway remains closed and President Masoud Pezeshkian told his country that military pressure would not bring it to its knees.
 
-The Maritime and Port Authority of Singapore said the GFS Pride, a small Singapore-flagged container ship that can carry 2,824 containers, was crossing the strait on Tuesday when it was struck. It "sustained damage and a fire on board, and has since sunk," the authority said. All 21 crew were taken off safely and nobody was hurt.
+The Maritime and Port Authority of Singapore said the **GFS Pride**, a small Singapore-flagged container ship that can carry 2,824 containers, was crossing the strait on Tuesday when it was struck. It "sustained damage and a fire on board, and has since sunk," the authority said. All 21 crew were taken off safely and nobody was hurt.
 
 The second vessel, the Antigua and Barbuda-flagged bulk carrier Cape Dao, went down close to the strait weeks after it was hit on September 23. One crew member was killed in that strike and the rest were evacuated at once, maritime sources said. Its manager, the UAE-based Peonies Shipmanagement, could not be reached.
 
@@ -65,7 +65,7 @@ The two are the second and third ships to sink since the US-Iran war began on Fe
 
 ## The busiest week of attacks
 
-At least ten vessels have been attacked around the strait since Sunday, the highest count since the fighting started, and two seafarers are missing. Iran's army said on Thursday that Hormuz stays closed and that any ship wanting to pass must coordinate with Iranian forces.
+At least **ten vessels** have been attacked around the strait since Sunday, the highest count since the fighting started, and two seafarers are missing. Iran's army said on Thursday that Hormuz stays closed and that any ship wanting to pass must coordinate with Iranian forces.
 
 Maritime risk firm MARISKS said the sinkings showed the danger was no longer limited to tankers, with container ships and bulk carriers also taking serious damage.
 

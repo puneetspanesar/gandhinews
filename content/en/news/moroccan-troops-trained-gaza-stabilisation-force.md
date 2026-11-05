@@ -43,11 +43,11 @@ verification:
   - Single outlet (Times of Israel), unnamed Board of Peace official; claims attributed to 'an official'. Official could not confirm training was complete, so phrased as 'trained'. WFP cut to 500,000 people from same liveblog (WFP country director Shaun Hughes). Posted 7:30 pm Israel time.
 ---
 
-Up to 500 Moroccan soldiers and police have trained for the International Stabilization Force planned for Gaza, an official with the US-backed Board of Peace said on Monday, but their deployment, and much of the reconstruction work meant to go with it, is still waiting on approvals from Israel.
+Up to **500 Moroccan** soldiers and police have trained for the International Stabilization Force planned for Gaza, an official with the US-backed Board of Peace said on Monday, but their deployment, and much of the reconstruction work meant to go with it, is still waiting on approvals from Israel.
 
 The official said training began in Morocco around late August with officers and instructors, followed by the wider contingent, and was run by the US-led force. The official could not confirm that it was fully complete. Morocco committed in February to sending personnel, the first Arab country to do so publicly, and is expected to be the first to deploy. Albania, Kazakhstan and Kosovo have also agreed to contribute troops.
 
-No date has been set. Construction of a proposed base near the Yellow Line for about 150 personnel is delayed pending Israeli sign-off. Water and sanitation projects have also not moved as hoped despite Israel's support in principle, and the official warned of health and environmental risks, including spread into southern Israel.
+No date has been set. Construction of a proposed base near the Yellow Line for **about 150 personnel** is delayed pending Israeli sign-off. Water and sanitation projects have also not moved as hoped despite Israel's support in principle, and the official warned of health and environmental risks, including spread into southern Israel.
 
 "We need to move beyond constructive conversations to constructive implementation," the official said. "We're still advancing the plan. We're moving forward."
 

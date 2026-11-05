@@ -58,14 +58,14 @@ verification:
 
 Asian stock markets fell hard on Tuesday as investors sold the chipmakers that have led the region's gains this year, worried about how much the artificial intelligence boom is costing and who is paying for it.
 
-South Korea's Kospi dropped 3.7% to 5,553, wiping out Monday's 1.76% rise and more. By mid-morning SK Hynix had fallen more than 4% and Samsung Electronics nearly 2%, and the losses deepened through the day.
+South Korea's Kospi dropped **3.7% to 5,553**, wiping out Monday's 1.76% rise and more. By mid-morning SK Hynix had fallen more than 4% and Samsung Electronics nearly 2%, and the losses deepened through the day.
 
-Japan's Nikkei 225 fell 1.3% to about 64,075, its lowest in a month, as technology shares slid and the cost of insuring SoftBank Group's debt against default rose to its highest in nearly four years. Resonac Holdings dropped more than 11%. Bank of Japan Governor Kazuo Ueda said underlying inflation was nearing the central bank's 2% target, which strengthened expectations of higher interest rates.
+Japan's Nikkei 225 fell **1.3% to about 64,075**, its lowest in a month, as technology shares slid and the cost of insuring SoftBank Group's debt against default rose to its highest in nearly four years. Resonac Holdings dropped more than 11%. Bank of Japan Governor Kazuo Ueda said underlying inflation was nearing the central bank's 2% target, which strengthened expectations of higher interest rates.
 
-Hong Kong's Hang Seng lost 319 points, or 1.3%, to 23,868, China's CSI 300 slipped 0.5% and Australia's ASX 200 fell 0.3%.
+Hong Kong's Hang Seng lost 319 points, or **1.3%**, to 23,868, China's CSI 300 slipped 0.5% and Australia's ASX 200 fell 0.3%.
 
-Indonesia went the other way. The Jakarta Composite jumped 5.7% after falling about 15% over two days on fears that MSCI could cut the market's standing. Foreign investors have pulled a net $5.1 billion out of Indonesian shares this year.
+Indonesia went the other way. The Jakarta Composite jumped **5.7%** after falling about 15% over two days on fears that MSCI could cut the market's standing. Foreign investors have pulled a net $5.1 billion out of Indonesian shares this year.
 
-In Seoul, the AI software company Elice fell 32% on its first day of trading despite retail investors bidding for 400 times the shares on offer in its 201.1 billion won share sale.
+In Seoul, the AI software company Elice fell **32%** on its first day of trading despite retail investors bidding for 400 times the shares on offer in its 201.1 billion won share sale.
 
 Indian markets were shut on Tuesday for Dussehra. Futures pointed to a rebound in Tokyo on Wednesday morning after the Dow's 1% rise overnight.

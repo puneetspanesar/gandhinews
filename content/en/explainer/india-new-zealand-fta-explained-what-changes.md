@@ -5,7 +5,7 @@ type: explainer
 section: economy
 format_label: "Explained / Trade"
 topics: [economy]
-title: "India-New Zealand trade deal explained: what changes from today, and what was kept out"
+title: "India-New Zealand trade deal explained: what changes from October 20, and what was kept out"
 standfirst: "The free trade agreement signed by Piyush Goyal and Todd McClay in April comes into force on Tuesday. What each side has opened up, why dairy stayed out, and what it means for shoppers, farmers and exporters."
 published: 2026-10-20T05:40:00+05:30
 shortAnswer: "The India-New Zealand free trade agreement, signed in New Delhi on April 27, 2026, takes effect on October 20. New Zealand removes duties on all Indian exports from day one. India cuts or phases out duties on about 70% of its tariff lines, covering 95% of the value of trade between the two, with immediate removal on 30% of lines such as sheep meat, wool and wood. Milk, cheese, butter and other core dairy products, sugar, onions, chana and almonds are excluded, while apples, kiwi fruit and manuka honey come in only under quotas. The deal also offers Indian professionals 5,000 temporary work visas and carries a New Zealand commitment to facilitate $20 billion of investment."

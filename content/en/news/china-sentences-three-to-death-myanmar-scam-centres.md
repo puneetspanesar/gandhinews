@@ -44,10 +44,10 @@ verification:
 
 A court in southeastern China has sentenced Myanmar crime boss Wei Huairen and two members of his family's gang to death for running scam compounds across the border, in the latest case in Beijing's crackdown on the fraud networks of Southeast Asia.
 
-The Quanzhou Intermediate People's Court in Fujian province said on Tuesday that Wei, Chen Dawei and Liao Jingfang would face the death penalty. Wei, a leader of what the court called the "Wei family criminal gang", was convicted of several crimes including murder. Three other members were given life sentences, and 55 more received prison terms of between three years and three months and 24 years.
+The Quanzhou Intermediate People's Court in Fujian province said on Tuesday that Wei, **Chen Dawei and Liao Jingfang** would face the death penalty. Wei, a leader of what the court called the "Wei family criminal gang", was convicted of several crimes including murder. Three other members were given life sentences, and 55 more received prison terms of between three years and three months and 24 years.
 
-The court said the gang dealt in drugs, organised prostitution, ran illegal casinos and carried out telecom fraud, and that its members killed at least two Chinese nationals. Its operations brought in more than $1.8 billion. The group is reported to have run 14 large compounds and lured thousands of Chinese citizens to Myanmar with promises of high pay.
+The court said the gang dealt in drugs, organised prostitution, ran illegal casinos and carried out telecom fraud, and that its members killed at least two Chinese nationals. Its operations brought in **more than $1.8 billion**. The group is reported to have run 14 large compounds and lured thousands of Chinese citizens to Myanmar with promises of high pay.
 
-The Weis are one of the "four families" that dominated Myanmar's Kokang region on the Chinese border. Wei Huairen was arrested in January 2024. At his trial in May, prosecutors alleged that from 2019 the family used its military and political influence in Kokang to run compounds that cheated victims in China of more than 24 billion yuan ($3.5 billion).
+The Weis are one of the "four families" that dominated Myanmar's Kokang region on the Chinese border. Wei Huairen was arrested in January 2024. At his trial in May, prosecutors alleged that from 2019 the family used its military and political influence in Kokang to run compounds that cheated victims in China of more than **24 billion** yuan ($3.5 billion).
 
 China has been pressing hard on the scam centres, where many workers are trafficked foreigners held in prison-like conditions. In July the International Organization for Migration warned that such centres in the region employ as many as 300,000 people.

@@ -38,7 +38,7 @@ verification:
 
 Ethiopia's federal government has taken direct charge of Tigray, installing an interim administration in the northern region weeks after the army beat back an uprising by the Tigray People's Liberation Front (TPLF).
 
-Prime Minister Abiy Ahmed announced the six-month administration in a statement on Friday and pledged that free elections would follow. The government said the interim body would create "a stable political situation" so that a vote could be held.
+Prime Minister Abiy Ahmed announced the six-month administration in a statement on Friday and pledged that **free elections** would follow. The government said the interim body would create "a stable political situation" so that a vote could be held.
 
 Five officials have been appointed to run the region, among them the mayor of the regional capital, Mekelle. They will carry out "directives and instructions" sent directly from the federal government. The TPLF has not yet responded.
 
@@ -52,4 +52,4 @@ On Wednesday, US Secretary of State Marco Rubio urged both sides to de-escalate 
 
 ## A scarred region
 
-The TPLF ran Ethiopia for nearly 30 years until Abiy's party came to power in 2018. Tigray still bears the wounds of the 2020-2022 war between federal forces, then backed by Eritrea, and the TPLF, in which almost 600,000 people were killed. The peace deal that ended that war left key promises unmet, including the return of displaced people and the disarmament of the TPLF.
+The TPLF ran Ethiopia for nearly **30 years** until Abiy's party came to power in 2018. Tigray still bears the wounds of the 2020-2022 war between federal forces, then backed by Eritrea, and the TPLF, in which almost 600,000 people were killed. The peace deal that ended that war left key promises unmet, including the return of displaced people and the disarmament of the TPLF.

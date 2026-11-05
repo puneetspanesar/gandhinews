@@ -39,7 +39,7 @@ verification:
 
 German federal police have arrested a Ukrainian man suspected of spying for Russian intelligence on Europe's arms industry and on military sites along NATO's eastern flank, the Federal Prosecutor's Office said on Thursday.
 
-The suspect, named only as Vadym Y. under German privacy rules, was detained in the Oder-Spree district of Brandenburg, the state that surrounds Berlin. An investigating judge had issued a warrant for him on October 15.
+The suspect, named only as **Vadym Y**. under German privacy rules, was detained in the Oder-Spree district of Brandenburg, the state that surrounds Berlin. An investigating judge had issued a warrant for him on October 15.
 
 Prosecutors say he had been in touch with a Russian intelligence service through a go-between since at least July 2025. He is accused of gathering information linked to Russia's war against Ukraine, including the production of armoured vehicles, ammunition and explosives, and details of military personnel and installations on NATO's eastern flank.
 

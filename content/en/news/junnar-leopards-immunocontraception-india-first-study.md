@@ -41,7 +41,7 @@ The forest department said in a statement that the two leopards had received the
 
 ## Why Junnar
 
-The Junnar forest division, in Pune district, has a long record of human-leopard conflict. Between 2000 and 2025, leopard attacks killed 56 people there. The issue became a prominent one in Maharashtra's 2024 assembly election, especially in Pune's sugarcane-growing talukas.
+The Junnar forest division, in Pune district, has a long record of human-leopard conflict. Between 2000 and 2025, leopard attacks killed **56 people** there. The issue became a prominent one in Maharashtra's 2024 assembly election, especially in Pune's sugarcane-growing talukas.
 
 In August 2025, Sudhir Mungantiwar, then the state's forest minister, asked the department to draw up an action plan for leopard sterilisation. In April this year, the department picked five female leopards for observation. The Union Ministry of Environment, Forest and Climate Change approved the study under the Wild Life (Protection) Act, 1972.
 

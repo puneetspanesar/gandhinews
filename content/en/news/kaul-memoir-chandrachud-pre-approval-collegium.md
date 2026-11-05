@@ -63,7 +63,7 @@ verification:
 
 Justice Sanjay Kishan Kaul, who retired from the Supreme Court in December 2023, has accused former Chief Justice D Y Chandrachud of seeking the government's approval for judges' names before the collegium had finished deciding on them.
 
-Kaul makes the charge in a forthcoming memoir, *Without Fear or Favour*, and repeated it in a television interview with journalist Karan Thapar for The Wire, excerpts of which circulated on Sunday. By evening the account had become a political story, with the Congress saying it raised questions about the independence of the courts.
+Kaul makes the charge in a forthcoming memoir, *Without Fear or Favour*, and repeated it in a television interview with journalist Karan Thapar, excerpts of which circulated on Sunday. By evening the account had become a political story, with the Congress saying it raised questions about the independence of the courts.
 
 ## The sixth name
 

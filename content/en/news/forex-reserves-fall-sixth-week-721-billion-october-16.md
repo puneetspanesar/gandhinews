@@ -47,13 +47,13 @@ verification:
     - "Gap to record: 785.706 - 721.016 = 64.69, written as 'about $65 billion'."
 ---
 
-India's foreign exchange reserves fell for a sixth straight week, dropping by $5.011 billion to $721.016 billion in the week ended October 16, data released by the Reserve Bank of India on Friday showed.
+India's foreign exchange reserves fell for a sixth straight week, dropping by **$5.011 billion to $721.016 billion** in the week ended October 16, data released by the Reserve Bank of India on Friday showed.
 
-The decline followed a fall of $8.578 billion the week before, which took reserves to $726.027 billion. They are now about $65 billion below the record $785.706 billion reached in the week ended September 4, when a special concessional swap window for diaspora deposits brought banks nearly $133 billion.
+The decline followed a fall of $8.578 billion the week before, which took reserves to $726.027 billion. They are now about $65 billion below the record **$785.706 billion** reached in the week ended September 4, when a special concessional swap window for diaspora deposits brought banks nearly $133 billion.
 
-Foreign currency assets, the biggest part of the reserves, fell $5.758 billion to $591.847 billion. These are held in several currencies, so their dollar value also moves with exchange rates.
+Foreign currency assets, the biggest part of the reserves, fell **$5.758 billion** to $591.847 billion. These are held in several currencies, so their dollar value also moves with exchange rates.
 
-The other parts rose. Gold holdings went up by $706 million to $105.8 billion, special drawing rights by $30 million to $18.578 billion, and India's reserve position with the International Monetary Fund by $11 million to $4.791 billion.
+The other parts rose. Gold holdings went up by $706 million to **$105.8 billion**, special drawing rights by $30 million to $18.578 billion, and India's reserve position with the International Monetary Fund by $11 million to $4.791 billion.
 
 Market experts tied the fall to the use of resources raised through FCNR(B) deposits and to the central bank selling dollars to support the rupee, which has been under pressure from crude oil above $110 a barrel and foreign investors pulling money out of Indian shares.
 

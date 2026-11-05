@@ -39,7 +39,7 @@ verification:
 
 Pakistani security forces killed three militants who attacked an unoccupied construction company camp in the port city of Gwadar, officials in Balochistan said.
 
-The camp was empty and no one else was hurt, officials said, but the attackers set fire to several trucks parked along a nearby road. Security sources said forces had also surrounded several other suspected militants near a hotel in the city and were working to stop another attempted attack. No further details of that operation had been released by Friday morning.
+The camp was empty and no one else was hurt, officials said, but the attackers **set fire to several trucks** parked along a nearby road. Security sources said forces had also surrounded several other suspected militants near a hotel in the city and were working to stop another attempted attack. No further details of that operation had been released by Friday morning.
 
 The Gwadar district administration and police said in a joint statement that law and order in the BP-250 area and its surroundings was under control. They rejected social media reports of attacks on security forces, intelligence agencies and their camps as baseless, and urged residents to rely only on official information.
 

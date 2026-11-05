@@ -35,7 +35,7 @@ verification:
     - "Single source (ANI via NewKerala, 14:18 on Oct 21). Venue and award winners not given in source; none named. Lalit Kala Akademi praised by Murmu; not stated as organiser."
 ---
 
-President Droupadi Murmu on Wednesday called for artists in rural and remote parts of India to be given economic support, training and access to wider markets, as she presented the awards of the 65th National Exhibition of Art in New Delhi.
+President Droupadi Murmu on Wednesday called for artists in rural and remote parts of India to be given economic support, training and access to wider markets, as she presented the awards of the **65th National Exhibition of Art** in New Delhi.
 
 "Art is not just limited to shapes drawn on canvas or figures sculpted in stone; it is a mirror of our culture," the President said.
 
@@ -45,4 +45,4 @@ Talent alone, she suggested, was not enough to sustain a living. "Creative oppor
 
 Murmu praised the Lalit Kala Akademi and the Ministry of Culture for creating platforms where artists can meet collectors, and commended the international participation in the third Print Biennale India.
 
-Union Culture and Tourism Minister Gajendra Singh Shekhawat and Culture Secretary Vivek Aggarwal were present at the ceremony.
+Union Culture and Tourism Minister **Gajendra Singh Shekhawat** and Culture Secretary Vivek Aggarwal were present at the ceremony.

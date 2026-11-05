@@ -44,7 +44,7 @@ verification:
 
 Ukraine accused Elon Musk's SpaceX on Wednesday of slowing its Starlink satellite internet without warning, saying the change crippled the drones its forces rely on just as Russian ballistic missiles pounded Kyiv for a second night running.
 
-An adviser to President Volodymyr Zelenskyy said service was limited overnight for terminals travelling faster than 100 miles an hour. Ukrainian officials said the cap restricted their ability to launch drones, which are piloted over satellite links.
+An adviser to President Volodymyr Zelenskyy said service was limited overnight for terminals travelling **faster than 100** miles an hour. Ukrainian officials said the cap restricted their ability to launch drones, which are piloted over satellite links.
 
 Musk replied on X that he does not make that call. Limits on speed or usage for Starshield, the military version of Starlink, are set by the US military and ultimately by the US president, he wrote. The White House would neither confirm nor deny his account, and the Pentagon did not immediately comment.
 
@@ -58,7 +58,7 @@ Criticism also came from Ukraine's allies. US Senator Jeanne Shaheen said the re
 
 ## Missiles over Kyiv
 
-The row broke as Russia struck Kyiv with ballistic missiles for a second consecutive night, killing at least nine people and damaging electricity and heating infrastructure as winter approaches. Zelenskyy said Ukraine had not received its usual warnings from Western partners for a second day, without naming them.
+The row broke as Russia struck Kyiv with ballistic missiles for a second consecutive night, **killing at least nine people** and damaging electricity and heating infrastructure as winter approaches. Zelenskyy said Ukraine had not received its usual warnings from Western partners for a second day, without naming them.
 
 People familiar with the matter have said Washington threatened to withhold the intelligence Ukraine uses for early warning of missile launches, to press Kyiv into halting its drone strikes on Russian oil refineries. Trump said on Tuesday that the US had not stopped sharing intelligence.
 

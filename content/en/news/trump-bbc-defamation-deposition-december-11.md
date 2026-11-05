@@ -35,7 +35,7 @@ verification:
     - "Single source (Euronews, 18:33 CEST). Court not named in the source, so left out. Documentary named as 'Trump: A Second Chance' per Euronews."
 ---
 
-A federal judge in the United States on Thursday ordered President Donald Trump to sit for a deposition by December 11 in his $10 billion defamation lawsuit against the BBC, after the broadcaster's lawyers accused him of putting off his appearance.
+A federal judge in the United States on Thursday ordered President Donald Trump to sit for a deposition by December 11 in his **$10 billion** defamation lawsuit against the BBC, after the broadcaster's lawyers accused him of putting off his appearance.
 
 US Magistrate Judge Enjoliqué Lett set the deadline. Unless the discovery period, now due to close on December 18, is extended, Trump could face sanctions if he does not comply, including the possible dismissal of his case.
 

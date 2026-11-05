@@ -42,13 +42,13 @@ verification:
 
 Foreign investors have pulled more money out of Indian shares this year than in any year before, and the selling has not let up in October.
 
-Foreign portfolio investors (FPIs) sold a net ₹3.08 lakh crore of Indian equities in the first nine months of 2026, nearly double the ₹1.66 lakh crore they withdrew in the whole of 2025. Counting only the secondary market, net sales up to October 12 reached ₹3.64 lakh crore, partly offset by ₹56,485 crore of net buying in share sales and IPOs. FPIs sold ₹35,861 crore in September and another ₹47,417 crore in the first 12 days of October.
+Foreign portfolio investors (FPIs) sold a net **₹3.08 lakh crore** of Indian equities in the first nine months of 2026, nearly double the ₹1.66 lakh crore they withdrew in the whole of 2025. Counting only the secondary market, net sales up to October 12 reached ₹3.64 lakh crore, partly offset by ₹56,485 crore of net buying in share sales and IPOs. FPIs sold ₹35,861 crore in September and another ₹47,417 crore in the first 12 days of October.
 
-Domestic institutions have absorbed much of the selling, investing a net ₹6.83 lakh crore this year. Even so, the Sensex was down about 15.6% for the year before Tuesday's rally.
+Domestic institutions have absorbed much of the selling, investing a net **₹6.83 lakh crore** this year. Even so, the Sensex was down about 15.6% for the year before Tuesday's rally.
 
 ## Why the money is leaving
 
-Market analysts point to US government bond yields above 5.2%, the global rush into artificial intelligence and chip stocks in the US, Taiwan and South Korea, oil prices driven up by the war in West Asia, and a weak rupee that eats into dollar returns.
+Market analysts point to US government bond yields above **5.2%**, the global rush into artificial intelligence and chip stocks in the US, Taiwan and South Korea, oil prices driven up by the war in West Asia, and a weak rupee that eats into dollar returns.
 
 "So long as the US bond yields remain elevated, FPIs will continue to sell," said V K Vijayakumar, chief investment strategist at Geojit Investments.
 

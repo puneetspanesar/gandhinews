@@ -54,13 +54,13 @@ verification:
 
 India's para table tennis players made a clean start at the Asian Para Games in Nagoya on Friday, winning all four of their singles group matches two days before the Games are formally opened.
 
-Bhavina Patel, the Tokyo Paralympics silver medallist who will carry India's flag at Sunday's opening ceremony with Pramod Bhagat, beat Kuwait's Ahad Alrasheedi 11-6, 11-3, 11-6 in women's singles Class 4-5 Group A.
+Bhavina Patel, the Tokyo Paralympics silver medallist who will carry India's flag at Sunday's opening ceremony with Pramod Bhagat, beat Kuwait's Ahad Alrasheedi **11-6, 11-3, 11-6** in women's singles Class 4-5 Group A.
 
 Baby Sahana Ravi was just as quick in women's Class 9 Group B, beating Vietnam's Thi Hoa Phuong Nguyen 11-6, 11-5, 11-4. Shubham Wadhwa beat Nepal's Keshav Thapa 11-6, 11-4, 11-9 in men's Class 3. In men's Class 1, the class for players with the most severe impairments who compete seated, Jehan Madan beat fellow Indian Sandeep Dangi 11-8, 12-10, 10-12, 11-6.
 
 ## Suhas starts in control
 
-On the badminton court, Suhas Yathiraj, a two-time Paralympic silver medallist and the champion at the last Asian Para Games, needed only two games to beat Bangladesh's Joytu Dhar 21-8, 21-11 in men's singles SL4 Group E.
+On the badminton court, Suhas Yathiraj, a two-time Paralympic silver medallist and the champion at the last Asian Para Games, needed only two games to beat Bangladesh's Joytu Dhar **21-8, 21-11** in men's singles SL4 Group E.
 
 Abhijeet Sakhuja also won his SL4 opener, beating Chinese Taipei's En-chuan Yeh 21-17, 21-12. Krishna Nagar, the Tokyo Paralympics champion, began his men's singles SH6 Group C campaign with a win, taking the first game 21-5.
 

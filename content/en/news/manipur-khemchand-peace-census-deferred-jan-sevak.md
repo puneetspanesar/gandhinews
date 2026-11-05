@@ -48,10 +48,10 @@ The Chief Minister said the Centre had been told of public concern over updating
 
 He also spoke of the Manipuri language as a bridge between communities, and said it should be cherished and used more widely. State Home Minister Govindas Konthoujam said restoring peace needed mutual trust and understanding among all communities.
 
-The event closed the Seva Sankalp Abhiyan, held in every district from September 17 to October 17 to mark 25 years of Narendra Modi in public office as Gujarat Chief Minister and then Prime Minister. "The successful month-long campaign witnessed the participation of more than 4 lakh people in 6,122 venues across the state," Singh said.
+The event closed the Seva Sankalp Abhiyan, held in every district from September 17 to October 17 to mark **25 years** of Narendra Modi in public office as Gujarat Chief Minister and then Prime Minister. "The successful month-long campaign witnessed the participation of more than 4 lakh people in 6,122 venues across the state," Singh said.
 
 ## Violence goes on
 
 The call for peace came on a day of fresh violence. In Kamjong district, a man was shot dead and four others were wounded in a gun attack by suspected militants.
 
-The ethnic conflict that broke out in May 2023 between the Meitei community of the Imphal valley and the Kuki community of the hills has killed at least 306 people. Forty-nine people are still missing and thousands remain homeless. Clashes between Kuki and Naga communities have also been reported in recent months.
+The ethnic conflict that broke out in May 2023 between the Meitei community of the Imphal valley and the Kuki community of the hills has killed at least **306 people**. Forty-nine people are still missing and thousands remain homeless. Clashes between Kuki and Naga communities have also been reported in recent months.

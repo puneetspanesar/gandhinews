@@ -52,7 +52,7 @@ The FIR registered by the Vigilance and Anti-Corruption Bureau has not been quas
 
 ## How the case reached Delhi
 
-The case grew out of a writ petition by K M Shajahan. On October 9 a single judge of the High Court, acting on material shared by the Enforcement Directorate, directed the vigilance bureau to register an FIR under the Prevention of Corruption Act. The ED alleges that Cochin Minerals and Rutile Ltd made payments of ₹2.78 crore to Exalogic Solutions, Veena's now-defunct IT firm, and calls them fraudulent.
+The case grew out of a writ petition by K M Shajahan. On October 9 a single judge of the High Court, acting on material shared by the Enforcement Directorate, directed the vigilance bureau to register an FIR under the Prevention of Corruption Act. The ED alleges that Cochin Minerals and Rutile Ltd made payments of **₹2.78 crore** to Exalogic Solutions, Veena's now-defunct IT firm, and calls them fraudulent.
 
 When the family tried to appeal, the division bench said they had no standing. The matter was mentioned before the Chief Justice on October 16 and listed before the vacation bench during the Dussehra break.
 

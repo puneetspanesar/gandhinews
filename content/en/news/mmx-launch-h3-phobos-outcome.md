@@ -58,11 +58,11 @@ The Japan Aerospace Exploration Agency (JAXA) later confirmed that MMX had separ
 
 ## What the mission will do
 
-MMX is due to reach Mars in 2027 and spend about three years around its two small moons, Phobos and Deimos. Phobos, about 22 km across, is the main target. The spacecraft will map it, measure its gravity and composition, and then touch down twice to collect at least 10 grams of surface material.
+MMX is due to reach Mars in 2027 and spend about three years around its two small moons, Phobos and Deimos. Phobos, about 22 km across, is the main target. The spacecraft will map it, measure its gravity and composition, and then touch down twice to collect at least **10 grams** of surface material.
 
 Two tools will do the sampling. A corer on a robotic arm will dig material from about 2 cm below the surface, while a pneumatic sampler built by Honeybee Robotics, a company owned by Blue Origin, will use bursts of pure nitrogen gas to blow loose soil into a container.
 
-Before that, MMX will drop IDEFIX, a four-wheeled French-German rover, which is expected to spend about 100 days exploring the surface of Phobos. Engineers designed it to cope with bouncing on landing and to right itself if it ends up upside down.
+Before that, MMX will drop IDEFIX, a four-wheeled French-German rover, which is expected to spend about **100 days** exploring the surface of Phobos. Engineers designed it to cope with bouncing on landing and to right itself if it ends up upside down.
 
 ## Why Phobos matters
 

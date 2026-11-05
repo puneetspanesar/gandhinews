@@ -44,7 +44,7 @@ Speaking to reporters in Kottayam, he said those who had hounded his father "are
 
 His remarks come as the UDF government faces criticism from within the Congress over its handling of the alleged Cochin Minerals and Rutile Limited (CMRL) payment case. The state ordered a preliminary inquiry instead of registering an FIR against Mr Vijayan and his family, though the Enforcement Directorate had recommended one. After the Keralam High Court stepped in, two FIRs were registered.
 
-Congress MLA Mathew Kuzhalnadan, backed by Kannur MP K Sudhakaran and Jinto John, has voiced concern over that decision. He said he had raised his concerns within the party, where leaders "listened patiently". He called that a democratic privilege the Congress offers and the CPI(M) does not.
+Congress MLA **Mathew Kuzhalnadan**, backed by Kannur MP K Sudhakaran and Jinto John, has voiced concern over that decision. He said he had raised his concerns within the party, where leaders "listened patiently". He called that a democratic privilege the Congress offers and the CPI(M) does not.
 
 After the LDF came to power in 2016, a sexual assault case was registered against Oommen Chandy, which Congress leaders say was part of a politically motivated campaign. The CBI later gave him a clean chit shortly before his death.
 

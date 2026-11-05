@@ -68,7 +68,7 @@ verification:
     - "Race start time in IST not given in any source read; left out."
 ---
 
-Max Verstappen had never won at Marina Bay. On Sunday, at his 10th attempt and in his 250th Grand Prix, he put that right. The Red Bull driver led from pole to beat Ferrari's Charles Leclerc by 7.3 seconds, with championship leader Kimi Antonelli third for Mercedes.
+Max Verstappen had never won at Marina Bay. On Sunday, at his 10th attempt and in his 250th Grand Prix, he put that right. The Red Bull driver led from pole to beat Ferrari's Charles Leclerc by **7.3 seconds**, with championship leader Kimi Antonelli third for Mercedes.
 
 It completed a clean sweep of the weekend for Verstappen, who also won the rain-hit Sprint and took his first Singapore pole with a lap of 1:31.373.
 

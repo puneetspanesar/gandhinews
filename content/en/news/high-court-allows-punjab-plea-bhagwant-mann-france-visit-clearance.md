@@ -50,14 +50,14 @@ verification:
 
 The Punjab and Haryana High Court on Friday set aside the Centre's refusal to grant political clearance for Chief Minister Bhagwant Mann's visit to France, siding with the state government in a dispute over who decides when a chief minister may travel abroad.
 
-Justice Tribhuvan Dahiya allowed the Punjab government's petition after a long hearing. The detailed order is awaited.
+Justice Tribhuvan Dahiya **allowed the Punjab** government's petition after a long hearing. The detailed order is awaited.
 
-Mann was to lead a delegation, including the Chief Secretary and his Principal Secretary, to SIAL Paris 2026, an international food exhibition at Paris Nord Villepinte from October 17 to 21. The state's cooperative marketing federation, Markfed, has a stall in the India Pavilion run by APEDA, which comes under the Union Commerce Ministry, and was to bear the full cost. The itinerary included meetings with trade bodies, investors and the Punjabi diaspora, and with the Indian Ambassador to France.
+Mann was to lead a delegation, including the Chief Secretary and his Principal Secretary, to **SIAL Paris 2026**, an international food exhibition at Paris Nord Villepinte from October 17 to 21. The state's cooperative marketing federation, Markfed, has a stall in the India Pavilion run by APEDA, which comes under the Union Commerce Ministry, and was to bear the full cost. The itinerary included meetings with trade bodies, investors and the Punjabi diaspora, and with the Indian Ambassador to France.
 
-Punjab applied for clearance on September 9, 36 days before the planned departure on October 15. The Ministry of External Affairs did not reply to the state's letters and marked the application "DENIED" on its online portal.
+Punjab applied for clearance on September 9, **36 days** before the planned departure on October 15. The Ministry of External Affairs did not reply to the state's letters and marked the application "DENIED" on its online portal.
 
 In court, Additional Solicitor General Satya Pal Jain said the Centre had inputs about threats to the Chief Minister, and that without a formal invitation the host country could not arrange his security. "We don't want anything happens to CM abroad," he said.
 
-Additional Advocate General Chanchal Singla argued that the refusal came without reasons or a hearing, and that the Centre had turned a coordination mechanism into "a veto over the executive functions of the State". He said a BJP chief minister of Haryana had recently been allowed to travel abroad, and that Mann's Japan visit had brought in ₹2,000 crore of investment.
+Additional Advocate General Chanchal Singla argued that the refusal came without reasons or a hearing, and that the Centre had turned a coordination mechanism into "a veto over the executive functions of the State". He said a BJP chief minister of Haryana had recently been allowed to travel abroad, and that Mann's Japan visit had brought in **₹2,000 crore** of investment.
 
 The state government has not yet said when Mann will leave for Paris.

@@ -36,17 +36,17 @@ verification:
     - "Pakistan's position that trade will not resume without Taliban action against militants, and Kabul's denial, as summarised by CNA."
 ---
 
-At the Fedro Pharmaceuticals factory in Hayatabad, on the western edge of Peshawar, the machines are still running. What has changed is where the medicines go. About 70 per cent of what was packed here was meant for Afghanistan and Central Asia, until Pakistan suspended trade with its western neighbour in October 2025 after deadly clashes along the border.
+At the Fedro Pharmaceuticals factory in Hayatabad, on the western edge of Peshawar, the machines are still running. What has changed is where the medicines go. About **70 per cent** of what was packed here was meant for Afghanistan and Central Asia, until Pakistan suspended trade with its western neighbour in October 2025 after deadly clashes along the border.
 
 A year on, there is no sign of the crossings reopening, and exporters in Khyber Pakhtunkhwa say the halt has cost them dearly.
 
 "When the border got closed, we already had orders. Some of the stock was ready, and some was still in process," said Junaid Altaf, Fedro's chief executive. "(Some) packaging was in Persian, in the Afghan language. For Russia and Uzbekistan, the packaging was in Russian. All that packaging got dumped."
 
-The factory sits about 60 km from Torkham, the main crossing into Afghanistan's Nangarhar province and the gateway for goods heading on to Central Asia. Afghanistan is the largest export market for Pakistan's pharmaceutical industry.
+The factory sits about **60 km** from Torkham, the main crossing into Afghanistan's Nangarhar province and the gateway for goods heading on to Central Asia. Afghanistan is the largest export market for Pakistan's pharmaceutical industry.
 
 ## From 80 per cent to 5
 
-Food and farm exporters have been hit just as hard. Manzoor Ellahi, chief executive of MM Ellahi Traders, which sells rice, meat, citrus fruit and potatoes, said Afghanistan and Central Asia once brought in 80 per cent of his company's revenue. Today the figure is 5 per cent.
+Food and farm exporters have been hit just as hard. Manzoor Ellahi, chief executive of MM Ellahi Traders, which sells rice, meat, citrus fruit and potatoes, said Afghanistan and Central Asia once brought in **80 per cent** of his company's revenue. Today the figure is 5 per cent.
 
 "It was shocking, not (only) for me but for everybody who was involved in the Afghanistan and Uzbekistan business, the Peshawar community, labour, customs clearance agents," he said.
 

@@ -43,7 +43,7 @@ The team, led from the Leibniz Institute for Food Systems Biology at the Technic
 
 Carbon dioxide in the atmosphere has risen from about 340 ppm in 1980 to about 425 ppm in 2024, and could reach about 600 ppm by 2050 depending on how economies develop, the institute said.
 
-Under higher CO2, a group of proteins called amylase/trypsin inhibitors (ATIs) generally increased, while gluten proteins, puroindolines and some peptides linked to coeliac disease generally fell. Lower gluten was tied to poorer baking quality. Total grain protein dropped by between 1.9% and 10.3% in nine varieties and rose by 2.7% in one, Hyvega.
+Under higher CO2, a group of proteins called amylase/trypsin inhibitors (ATIs) generally increased, while gluten proteins, puroindolines and some peptides linked to coeliac disease generally fell. Lower gluten was tied to poorer baking quality. Total grain protein dropped by between **1.9%** and 10.3% in nine varieties and rose by 2.7% in one, Hyvega.
 
 "However, the extent of these changes depended largely on the specific wheat cultivar," said Sabrina Geisslitz, the study's principal investigator. Asory, Campesino, LG Initial and Moschus were sensitive on every measure, while Apostel and KWS Emerick held up comparatively well.
 

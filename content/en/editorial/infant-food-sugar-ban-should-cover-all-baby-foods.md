@@ -44,7 +44,7 @@ sources:
     date: 2024-04-19
     url: "https://thesouthfirst.com/health/ccpa-asks-fssai-to-probe-into-reports-on-cerelac-reduced-sugar-by-30-in-baby-foods-claims-nestle/"
     primary: false
-  - title: "WHO guideline for complementary feeding of infants and young children 6–23 months of age"
+  - title: "WHO guideline for complementary feeding of infants and young children 6-23 months of age"
     publisher: "Emergency Nutrition Network"
     date: 2024-04-11
     url: "https://ennonline.net/fex/72/who-guideline-for-complementary-feeding-of-infants-and-young-children"
@@ -65,13 +65,13 @@ verification:
     - "Recommendations are the desk's own."
 ---
 
-There is no good reason to add sugar to food meant for a baby. The Food Safety and Standards Authority of India (FSSAI) has now said as much, at least for the very youngest. Its draft amendment to the infant nutrition rules, published on Friday, says sucrose and fructose "shall not be added" to products for infants up to six months old.
+There is no good reason to add sugar to food meant for a baby. The Food Safety and Standards Authority of India (FSSAI) has now said as much, at least for the very youngest. Its draft amendment to the infant nutrition rules, published on Friday, says sucrose and fructose "shall not be added" to products for **infants up to six months** old.
 
 That is a welcome step, and the regulator's reasons are sound. It speaks of the first six months as a critical period of growth, of early exposure to sugar as a risk factor for childhood obesity, and of the advice that babies be exclusively breastfed in that time. But the line it has drawn is in the wrong place.
 
 ## Where the sugar actually is
 
-The rules being amended cover foods for children from birth to 24 months. Under them, sucrose or fructose may be added as a carbohydrate source, within limits. The draft removes that option for the first six months only. For a baby of seven months or 18 months, nothing changes.
+The rules being amended cover foods for children from birth to **24 months**. Under them, sucrose or fructose may be added as a carbohydrate source, within limits. The draft removes that option for the first six months only. For a baby of seven months or 18 months, nothing changes.
 
 Yet it is in that older group that the sugar argument began. In April 2024 the Swiss group Public Eye and the International Baby Food Action Network reported that all 15 Cerelac baby cereals Nestle sold in India contained added sugar, about 3 grams per serving. The same products sold in the UK, France and Germany had none. Cerelac, a cereal for infants and children up to two years, is the kind of food babies move on to after six months, which the new draft would not touch.
 
@@ -81,11 +81,11 @@ The response then followed a familiar pattern. Nestle India said it had "reduced
 
 Manufacturers will say that sugar in small, permitted amounts is safe, that it makes cereals acceptable to babies who are starting solid food, and that Indian rules allow it. They will point out that they have already cut sugar levels, and that a sudden ban leaves them reformulating whole product lines.
 
-Those are reasonable points about timing. They are not a case for sweetening food for babies. The World Health Organization's 2023 guideline on feeding children aged six to 23 months advises avoiding foods high in sugar, salt, trans fats and non-sugar sweeteners. Its European office warned in 2019 that sweetened baby foods risk creating "a lifelong preference for sweet foods". And when the same company sells the same cereal without added sugar in Europe, it plainly can be done.
+Those are reasonable points about timing. They are not a case for sweetening food for babies. The World Health Organization's 2023 guideline on feeding children aged six to **23 months** advises avoiding foods high in sugar, salt, trans fats and non-sugar sweeteners. Its European office warned in 2019 that sweetened baby foods risk creating "a lifelong preference for sweet foods". And when the same company sells the same cereal without added sugar in Europe, it plainly can be done.
 
 ## What FSSAI should do
 
-The draft is open for comment for 60 days. FSSAI should use that time to widen it.
+The draft is open for comment for **60 days**. FSSAI should use that time to widen it.
 
 First, the final rule should bar added sucrose, fructose and other free sugars, such as honey and fruit juice concentrates, in all foods marketed for children under two, not only those for the first six months.
 

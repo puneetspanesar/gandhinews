@@ -5,7 +5,7 @@ type: news
 section: politics
 format_label: "Politics / Courts"
 topics: [supreme-court]
-title: "Supreme Court vacation bench to hear YSRCP plea on Andhra civic poll nominations on Wednesday"
+title: "Supreme Court vacation bench to hear YSRCP plea on Andhra civic poll nominations on October 21"
 standfirst: "The party is challenging the Andhra Pradesh High Court's refusal to extend the nomination deadline. Pinarayi Vijayan's plea against the CMRL FIR order is listed before the same bench."
 published: 2026-10-20T11:20:00+05:30
 location: New Delhi
@@ -39,10 +39,10 @@ verification:
 
 A special bench of the Supreme Court will hear the YSR Congress Party's plea for more time to file nominations in Andhra Pradesh's urban local body elections on Wednesday, October 21, during the court's Dussehra break.
 
-Justices Joymalya Bagchi and V Mohana will take up the party's challenge to an Andhra Pradesh High Court order of October 18, which refused to extend the deadline for filing nominations by even a day. The YSRCP says violence across the state kept its candidates from reaching nomination centres. It wants police protection for candidates, an extended deadline and more centres where papers can be filed.
+**Justices Joymalya Bagchi and V Mohana** will take up the party's challenge to an Andhra Pradesh High Court order of October 18, which refused to extend the deadline for filing nominations by even a day. The YSRCP says violence across the state kept its candidates from reaching nomination centres. It wants police protection for candidates, an extended deadline and more centres where papers can be filed.
 
 The party's chief, former chief minister Y S Jagan Mohan Reddy, has accused the Telugu Desam Party-led government of N Chandrababu Naidu of blocking opposition candidates, and met the Governor to ask for central forces and CCTV coverage for the polls. Clashes were reported at Punganur and Rayachoti when nominations opened last week.
 
-The same bench will hear former Keralam chief minister Pinarayi Vijayan's petition, along with those of his daughter Veena T and son-in-law P A Mohammed Riyas, against a Keralam High Court order that refused to entertain their appeals against a single judge's direction to register an FIR in the CMRL case. On October 9, the High Court told the Vigilance and Anti-Corruption Bureau to register a case on the basis of an Enforcement Directorate report, and two FIRs followed. The ED alleges that CMRL paid ₹2.78 crore to Exalogic Solutions, a now-defunct firm linked to Veena, for IT consultancy services.
+The same bench will hear former Keralam chief minister Pinarayi Vijayan's petition, along with those of his daughter Veena T and son-in-law P A Mohammed Riyas, against a Keralam High Court order that refused to entertain their appeals against a single judge's direction to register an FIR in the CMRL case. On October 9, the High Court told the Vigilance and Anti-Corruption Bureau to register a case on the basis of an Enforcement Directorate report, and two FIRs followed. The ED alleges that CMRL paid **₹2.78 crore** to Exalogic Solutions, a now-defunct firm linked to Veena, for IT consultancy services.
 
 Regular benches of the Supreme Court return after the break on October 26.

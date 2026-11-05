@@ -43,9 +43,9 @@ verification:
     - "Ganguly as head coach and Yuvraj appointed 'earlier this week' as assistant and batting coach: RevSportz; exact date of Yuvraj appointment not given."
 ---
 
-Mahela Jayawardene has stepped down as head coach of Mumbai Indians, ending his second spell in charge after a season in which they finished ninth with only four wins. A few hours later on Saturday, another great of Sri Lankan cricket, Chaminda Vaas, was given his first IPL coaching job by Delhi Capitals.
+Mahela Jayawardene has stepped down as head coach of Mumbai Indians, ending his second spell in charge after a season in which they finished ninth with only four wins. A few hours later on Saturday, another great of Sri Lankan cricket, **Chaminda Vaas**, was given his first IPL coaching job by Delhi Capitals.
 
-Mumbai and Jayawardene said they had mutually agreed to part ways ahead of the 2027 season, with the franchise wanting a fresh approach after a disappointing campaign. No successor has been named.
+Mumbai and Jayawardene said they had **mutually agreed to part ways** ahead of the 2027 season, with the franchise wanting a fresh approach after a disappointing campaign. No successor has been named.
 
 ## 'A very special part of my journey'
 
@@ -59,9 +59,9 @@ Jayawardene first took charge in 2017 and guided Mumbai to three IPL titles befo
 
 Delhi Capitals confirmed Vaas's appointment as fast-bowling coach in an Instagram post. "World Cup winner and Sri Lanka's best ever. Welcome to Tiger Territory, coach," the franchise wrote.
 
-Vaas took 355 wickets in 111 Tests and 400 in 322 ODIs, and scored 5,147 international runs. He has coached with Sri Lanka, New Zealand and Ireland, and played three IPL seasons for Deccan Chargers from 2008 to 2010, taking 18 wickets in 13 matches.
+Vaas took 355 wickets in 111 Tests and 400 in 322 ODIs, and scored 5,147 international runs. He has coached with Sri Lanka, New Zealand and Ireland, and played three IPL seasons for Deccan Chargers from 2008 to 2010, taking **18 wickets** in 13 matches.
 
-He replaces Munaf Patel, the former India seamer who had been Delhi's bowling coach for the past two seasons. Vaas joins a staff that has been rebuilt around head coach Sourav Ganguly. Earlier this week Delhi named Yuvraj Singh as assistant and batting coach.
+He replaces **Munaf Patel**, the former India seamer who had been Delhi's bowling coach for the past two seasons. Vaas joins a staff that has been rebuilt around head coach Sourav Ganguly. Earlier this week Delhi named Yuvraj Singh as assistant and batting coach.
 
 ## What comes next
 

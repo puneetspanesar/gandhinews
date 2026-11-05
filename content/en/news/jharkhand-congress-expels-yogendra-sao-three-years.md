@@ -46,9 +46,9 @@ verification:
     - "March 2026 expulsion over Facebook Live remarks (News Arena tag page summary); revocation per UNI Sept 20. CM Hemant Soren named only in News Arena image caption (March), so CM left unnamed in copy."
 ---
 
-The Jharkhand Congress has expelled former state minister Yogendra Sao from the party's primary membership for three years, accusing him of repeatedly breaking party discipline. It is the second time in seven months that the party has shown him the door.
+The Jharkhand Congress has expelled former state minister Yogendra Sao from the party's **primary membership for three years**, accusing him of repeatedly breaking party discipline. It is the second time in seven months that the party has shown him the door.
 
-The decision was taken by state Congress president Keshav Mahto Kamlesh and announced on Tuesday by Rakesh Sinha, the party's media in-charge in the state.
+The decision was taken by state Congress president **Keshav Mahto Kamlesh** and announced on Tuesday by Rakesh Sinha, the party's media in-charge in the state.
 
 Sinha said Sao had been making objectionable, insulting and personal remarks through the media against the coalition government and the Chief Minister. The Congress is part of the ruling alliance in Jharkhand, and the party treated the attacks as indiscipline.
 

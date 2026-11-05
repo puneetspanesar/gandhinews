@@ -61,11 +61,11 @@ In a video statement on Sunday, the Prime Minister repeated, citing intelligence
 
 ## The row over a directive
 
-Israel's Channel 12 reported that Mr Netanyahu and the military chief of staff, Eyal Zamir, had clashed over a political directive related to Iran shortly before the vote. The report did not say what the directive was.
+Israel's Channel 12 reported that Mr Netanyahu and the military chief of staff, **Eyal Zamir**, had clashed over a political directive related to Iran shortly before the vote. The report did not say what the directive was.
 
 Mr Netanyahu dismissed it as "nonsense" in an interview with Channel 14. The Israeli military did not comment.
 
-His main challenger, the former army chief Gadi Eisenkot, took the army's side. Writing on X, he said he backed Zamir.
+His main challenger, the former army chief **Gadi Eisenkot**, took the army's side. Writing on X, he said he backed Zamir.
 
 The dispute goes to the centre of the campaign. Mr Netanyahu, Israel's longest-serving prime minister, is in a close race that he could lose, and he has made Iran his main argument. He has said recently that Iran's leadership must be "toppled", and has called the overthrow of its government Israel's "primary objective". He is also reported to have pushed Washington for a new attack as his support in the polls has slipped.
 

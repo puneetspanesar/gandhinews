@@ -50,7 +50,7 @@ verification:
 
 Brazil's presidential candidates used their last televised meeting on Friday night to mix promises on wages and roads with some of the sharpest personal attacks of the campaign, two days before a runoff that polls say is too close to call.
 
-President Luiz Inácio Lula da Silva and Senator Flávio Bolsonaro faced each other for nearly two and a half hours at Estúdios Globo in Rio de Janeiro, with the journalist César Tralli moderating. The broadcast ended around midnight Brasília time, in the early hours of Saturday in India.
+President Luiz Inácio Lula da Silva and Senator Flávio Bolsonaro faced each other for **nearly two and a half hours** at Estúdios Globo in Rio de Janeiro, with the journalist César Tralli moderating. The broadcast ended around midnight Brasília time, in the early hours of Saturday in India.
 
 ## Nine fingers
 
@@ -72,6 +72,6 @@ Globo tried to keep the evening civil with what it called an anti-mockery rule: 
 
 ## Too close to call
 
-Flávio led the first round with 47.03% of valid votes to Lula's 45.16%. Datafolha's final survey, released on Thursday, had Flávio on 47% and Lula on 46%, a statistical tie within its two-point margin of error. Another poll released on Friday by Alfa Inteligência gave Flávio 52% of valid votes to Lula's 48%.
+Flávio led the first round with **47.03%** of valid votes to Lula's 45.16%. Datafolha's final survey, released on Thursday, had Flávio on 47% and Lula on 46%, a statistical tie within its two-point margin of error. Another poll released on Friday by Alfa Inteligência gave Flávio 52% of valid votes to Lula's 48%.
 
 Brazilians go to the polls on Sunday to settle it.

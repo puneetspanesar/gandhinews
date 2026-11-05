@@ -35,9 +35,9 @@ verification:
     - "Single source (PTI via Deccan Chronicle, Oct 20 noon). RD-PRD commissioner not named. Exact date of the government order not given; reported Tuesday."
 ---
 
-Tamil Nadu will pay from its own funds for 25 extra days of work for rural households that use up the 125 days guaranteed under the Centre's VB-G RAM G scheme, taking the total possible to 150 days a year.
+Tamil Nadu will pay from its own funds for 25 extra days of work for rural households that use up the **125 days** guaranteed under the Centre's VB-G RAM G scheme, taking the total possible to 150 days a year.
 
-The state's Rural Development and Panchayat Raj Department issued the order on the direction of Chief Minister C Joseph Vijay, who asked officials to extend support up to 150 days a year. The government has set aside ₹100 crore from the revised budget estimate for 2026-27, booked under a new head of account named "VETRI 150", a nod to the ruling party's name.
+The state's Rural Development and Panchayat Raj Department issued the order on the direction of Chief Minister C Joseph Vijay, who asked officials to extend support up to 150 days a year. The government has set aside **₹100 crore** from the revised budget estimate for 2026-27, booked under a new head of account named "VETRI 150", a nod to the ruling party's name.
 
 Priority will go to women-headed households, single women, households with differently-abled members, Scheduled Caste and Scheduled Tribe families, and beneficiaries under the Forest Rights Act, 2006. The department's commissioner has been authorised to release the money to every district except Chennai.
 

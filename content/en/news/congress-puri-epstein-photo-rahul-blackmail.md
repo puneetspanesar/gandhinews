@@ -54,7 +54,7 @@ verification:
     - "Sambit Patra's Bhubaneswar remarks on Rahul's Vietnam trip and Soros: IANS via Telangana Today, paraphrased."
 ---
 
-The Congress on Wednesday opened a fresh attack on Union Petroleum Minister Hardeep Singh Puri over an undated photograph that party leaders say was released by the US Department of Justice and shows him seated across a table from the late Jeffrey Epstein, the convicted sex offender.
+The Congress on Wednesday opened a fresh attack on Union Petroleum Minister Hardeep Singh Puri over an **undated photograph** that party leaders say was released by the US Department of Justice and shows him seated across a table from the late Jeffrey Epstein, the convicted sex offender.
 
 Rahul Gandhi, Leader of the Opposition in the Lok Sabha, tied the picture's appearance to US Secretary of State Marco Rubio's visit to India this week, during which both sides said a trade deal was close. "Rubio goes to Mumbai. The US DOJ releases a picture of Epstein and Puri," he wrote on X. In a second post he asked: "Dear BJP and RSS workers, which anti-national traitor do you think they're blackmailing?"
 
@@ -70,7 +70,7 @@ Supriya Shrinate, who runs the party's social media, asked: "Didn't Hardeep Puri
 
 ## Puri's earlier stand
 
-Puri had not responded to the new picture by late Wednesday, and neither the BJP nor the US government had commented on it. Earlier this year, after Rahul Gandhi first raised the Epstein files, the minister accused him of innuendo and said he had met Epstein on a few occasions, as part of a delegation, and that those meetings had nothing to do with Epstein's crimes.
+Puri had not responded to the new picture by late Wednesday, and neither the BJP nor the US government had commented on it. Earlier this year, after Rahul Gandhi first raised the Epstein files, the minister accused him of innuendo and said he had met Epstein on a few occasions, as part of a delegation, and that those meetings had **nothing to do** with Epstein's crimes.
 
 The BJP spent Wednesday on a different line of attack. In Bhubaneswar, party spokesperson Sambit Patra accused Rahul Gandhi of seeking regime change and claimed he had been coached by George Soros on a four-day private trip to Vietnam, made while protests over the Special Intensive Revision of electoral rolls were under way.
 

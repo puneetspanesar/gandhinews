@@ -22,7 +22,7 @@ hero:
     value: "Sensex up 924 points at midday"
 related: [sensex-1030-points-nifty-23330-day-high-reliance-quarter-of-gains, sensex-jumps-970-nifty-23313-oil-reliance-open-november-2, reliance-shares-jump-6-per-cent-q2-profit-o2c-jio, oil-slips-monday-brent-111-iran-qatar-talks-november-2, muthoot-finance-rebounds-9-per-cent-52-week-low-q2-profit]
 seo:
-  description: "Stock market today at midday, November 2, 2026: Sensex up 924 points at 75,383.98 and Nifty at 23,319.55 after a new high of 23,360.50, with Reliance up nearly 8%, India VIX higher and the rupee near 94.97 per dollar."
+  description: "Stock market at midday, November 2, 2026: Sensex up 924 points at 75,383.98 and Nifty at 23,319.55 after a new high of 23,360.50, with Reliance up nearly 8%, India VIX higher and the rupee near 94.97 per dollar."
 cover:
   template: business
   label: "Markets"
@@ -90,6 +90,6 @@ The currency market was also cautious. The rupee **slipped 21 paise to 94.97 per
 {"n":3,"subject":"Infosys Mysore campus","caption":"The Infosys training campus in Mysuru. Infosys, down about 1.3%, was among the few Nifty stocks trading lower.","alt":"Infosys campus in Mysuru, Karnataka (file photo)"}
 ```
 
-## What to watch this afternoon
+## What traders were watching into the afternoon
 
 Cheaper oil and the return of foreign buyers, who **bought about ₹3,600 crore of shares on Friday**, remain the main props for the market. Traders will watch whether the Nifty can hold above 23,300 into the close and how oil moves as talks to end the US-Iran conflict continue.

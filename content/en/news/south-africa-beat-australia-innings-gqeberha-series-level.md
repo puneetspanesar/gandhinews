@@ -43,9 +43,9 @@ verification:
     - "ABC says first session washed out on day five."
 ---
 
-South Africa completed a remarkable turnaround at St George's Park on Thursday, bowling Australia out for 295 in their follow-on to win the second Test by an innings and 31 runs and level the three-match series at 1-1.
+South Africa completed a remarkable turnaround at St George's Park on Thursday, bowling Australia out for 295 in their follow-on to win the second Test by an **innings and 31 runs** and level the three-match series at 1-1.
 
-Australia, who won the first Test in Durban by 214 runs, had hoped to bat out a rain-hit final day. Travis Head gave them a chance with 121 off 190 balls, his 13th Test century, but once he was bowled by Wiaan Mulder the innings came apart. Marco Jansen ended it when Josh Hazlewood edged to Aiden Markram at slip for a duck, at about 7:30 pm IST.
+Australia, who won the first Test in Durban by **214 runs**, had hoped to bat out a rain-hit final day. Travis Head gave them a chance with 121 off 190 balls, his 13th Test century, but once he was bowled by Wiaan Mulder the innings came apart. Marco Jansen ended it when Josh Hazlewood edged to Aiden Markram at slip for a duck, at about 7:30 pm IST.
 
 ## Mulder's day
 

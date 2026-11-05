@@ -43,6 +43,6 @@ As they were leaving, the attackers ran into Satnam Singh and shot him in the ch
 
 The quarrel had begun about four days earlier, after Kuldeep Singh was assaulted or threatened. Satnam Singh stepped in, which angered Kuldeep Singh and his group.
 
-Superintendent of Police (City) Pramod Kumar said a case had been registered on a complaint by the dead man's brother against eight named people and several unidentified others. Police teams were carrying out raids to find them, and the body was sent for a post-mortem.
+Superintendent of Police (City) Pramod Kumar said a case had been registered on a complaint by the dead man's brother against **eight named people** and several unidentified others. Police teams were carrying out raids to find them, and the body was sent for a post-mortem.
 
-The family said it had earlier told police about death threats, but that "no effective action was taken in time". The village was in a state of panic on Sunday.
+The family said it had earlier told police about **death threats**, but that "no effective action was taken in time". The village was in a state of panic on Sunday.

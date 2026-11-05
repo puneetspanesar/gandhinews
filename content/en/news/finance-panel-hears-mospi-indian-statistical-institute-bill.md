@@ -51,11 +51,11 @@ verification:
     - "Mahtab quotes verbatim from ANI, Sep 9."
 ---
 
-Parliament's Standing Committee on Finance was scheduled on Thursday to hear officials of the Ministry of Statistics and Programme Implementation on the Indian Statistical Institute Bill, 2026, the government's plan to rewrite the law that governs one of India's best-known research institutes.
+Parliament's Standing Committee on Finance was scheduled on Thursday to hear officials of the Ministry of Statistics and Programme Implementation on the **Indian Statistical Institute** Bill, 2026, the government's plan to rewrite the law that governs one of India's best-known research institutes.
 
-The bill, introduced in the Lok Sabha on August 3 and then sent to the committee, would repeal the Indian Statistical Institute Act, 1959, which declared the Kolkata institute an institution of national importance. The government says the old law says too little about governance, administration, finance and accountability.
+The bill, introduced in the Lok Sabha on August 3 and then sent to the committee, would repeal the **Indian Statistical Institute Act, 1959**, which declared the Kolkata institute an institution of national importance. The government says the old law says too little about governance, administration, finance and accountability.
 
-Under the bill, the institute would become a body corporate with the President of India as its Visitor. A Board of Governors, chaired by an eminent person from academia, industry, education, public policy or statistical sciences, would be the main policy-making body and would answer to the Centre. An Academic Council headed by the director would run teaching and research matters.
+Under the bill, the institute would become a body corporate with the President of India as its Visitor. A **Board of Governors**, chaired by an eminent person from academia, industry, education, public policy or statistical sciences, would be the main policy-making body and would answer to the Centre. An Academic Council headed by the director would run teaching and research matters.
 
 The committee, chaired by Bhartruhari Mahtab, first heard the ministry on September 9 and invited views from experts and organisations earlier this month.
 

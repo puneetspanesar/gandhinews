@@ -42,14 +42,14 @@ verification:
     - "Release time not given; estimated 8 pm IST. Share close ₹1,948.70 (-0.08%) on NSE before results."
 ---
 
-Piramal Finance reported a 67% rise in quarterly profit on Monday, driven by fast growth in its retail lending, and said it had raised ₹3,850 crore of fresh capital to keep expanding.
+Piramal Finance reported a 67% rise in quarterly profit on Monday, driven by fast growth in its retail lending, and said it had raised **₹3,850 crore** of fresh capital to keep expanding.
 
-Profit after tax for July-September rose to ₹545 crore from ₹327 crore a year earlier. For the first half of the year it reached ₹1,006 crore, also up 67%. Net interest income grew 35% to ₹1,530 crore, and pre-provision operating profit rose 64% to ₹846 crore as costs grew more slowly than income. The cost-to-income ratio fell to 52.1% from 61.2%.
+Profit after tax for July-September rose to **₹545 crore** from ₹327 crore a year earlier. For the first half of the year it reached ₹1,006 crore, also up 67%. Net interest income grew 35% to ₹1,530 crore, and pre-provision operating profit rose 64% to ₹846 crore as costs grew more slowly than income. The cost-to-income ratio fell to 52.1% from 61.2%.
 
-Total assets under management rose 24% to ₹1,13,112 crore. Retail loans, such as home, business and personal loans, grew 30% to ₹97,462 crore and now make up most of the book, while wholesale loans to builders and companies stood at ₹13,978 crore. Retail disbursements rose 34% to ₹14,646 crore in the quarter.
+Total assets under management rose 24% to ₹1,13,112 crore. Retail loans, such as home, business and personal loans, grew **30% to ₹97,462 crore** and now make up most of the book, while wholesale loans to builders and companies stood at ₹13,978 crore. Retail disbursements rose 34% to ₹14,646 crore in the quarter.
 
-The new capital came in two parts: ₹2,100 crore through a qualified institutional placement and ₹1,750 crore through warrants issued to the promoter group. The company has 65 lakh customers and 838 branches in 621 cities across 25 states.
+The new capital came in two parts: **₹2,100 crore** through a qualified institutional placement and ₹1,750 crore through warrants issued to the promoter group. The company has 65 lakh customers and 838 branches in 621 cities across 25 states.
 
 The board also appointed Dinesh Kumar Khara, the former chairman of State Bank of India, as an independent director for five years.
 
-The shares closed almost flat at ₹1,948.70 on the NSE on Monday, before the results. They next trade on Wednesday, after the Dussehra holiday.
+The shares closed almost flat at **₹1,948.70** on the NSE on Monday, before the results. They next trade on Wednesday, after the Dussehra holiday.

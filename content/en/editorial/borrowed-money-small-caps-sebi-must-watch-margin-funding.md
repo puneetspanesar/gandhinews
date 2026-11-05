@@ -65,13 +65,13 @@ verification:
     - "Recommendations are the desk's own."
 ---
 
-On Friday the Nifty Smallcap 100 fell as much as 3.8%, capping a week that took 7.4% off the index. The Sensex and Nifty 50 fell less than 1%. The independent market expert Ambareesh Baliga put his finger on why: the sell-off "is not about the valuations, and more about margin calls, which have been hitting retail investors."
+On Friday the Nifty Smallcap 100 fell as much as **3.8%**, capping a week that took 7.4% off the index. The Sensex and Nifty 50 fell less than 1%. The independent market expert Ambareesh Baliga put his finger on why: the sell-off "is not about the valuations, and more about margin calls, which have been hitting retail investors."
 
 That is a warning worth taking seriously, because the amount of borrowed money in Indian shares has grown much faster than the rules meant to contain it.
 
 ## How big the borrowing has become
 
-Leveraged equity positions stood close to a record ₹1.6 lakh crore on September 30. The NSE's margin trading book alone was ₹1,22,151 crore in May, several times what the industry's book was in early 2022. About half of that NSE book sat in shares outside the futures and options segment, which tend to be smaller and less easily traded. Brokers have funded the boom partly with short-term borrowing: they raised about ₹3.2 lakh crore through commercial paper this year, around 21% of all such issuance, up from about 4% in 2021. Clients pay roughly 9% to 20% on the loans.
+Leveraged equity positions stood close to a **record ₹1.6 lakh crore** on September 30. The NSE's margin trading book alone was ₹1,22,151 crore in May, several times what the industry's book was in early 2022. About half of that NSE book sat in shares outside the futures and options segment, which tend to be smaller and less easily traded. Brokers have funded the boom partly with short-term borrowing: they raised about ₹3.2 lakh crore through commercial paper this year, around 21% of all such issuance, up from about 4% in 2021. Clients pay roughly 9% to 20% on the loans.
 
 The people running this business have said openly that it worries them. Nithin Kamath, co-founder of Zerodha, warned in May that "if markets crash, brokers could end up holding losses from MTF positions they can't exit."
 
@@ -85,7 +85,7 @@ All true. The case for caution rests on something narrower: matching the rules t
 
 ## What SEBI should do
 
-SEBI's consultation paper of June 18 was mostly about plumbing. It would raise the minimum net worth for brokers offering the facility to ₹5 crore, but it would also let them lend up to 5.5 times their net worth and fund the book by issuing bonds. To its credit, SEBI refused calls to cut the extra margin that guards against the risk of a stock serving as security for its own purchase. Before it finalises anything that lets brokers lend more, it should do four things.
+SEBI's consultation paper of June 18 was mostly about plumbing. It would raise the minimum net worth for brokers offering the facility to **₹5 crore**, but it would also let them lend up to 5.5 times their net worth and fund the book by issuing bonds. To its credit, SEBI refused calls to cut the extra margin that guards against the risk of a stock serving as security for its own purchase. Before it finalises anything that lets brokers lend more, it should do four things.
 
 First, publish the data. Exchanges should release, every week, the size of the margin book by stock and by category, so investors and analysts can see where leverage is piled up.
 

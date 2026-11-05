@@ -41,7 +41,7 @@ Designs will be examined by empanelled Indian Institutes of Technology, reputed 
 
 ## Which structures are covered
 
-The policy applies to major bridges and viaducts, including river bridges with a design discharge of 3,000 cubic metres per second or more and any bridge or structure with an individual effective span of 40 metres or more. NHAI can add other special or complex structures to the list.
+The policy applies to major bridges and viaducts, including river bridges with a design discharge of **3,000 cubic metres** per second or more and any bridge or structure with an individual effective span of 40 metres or more. NHAI can add other special or complex structures to the list.
 
 The checks will cover structural design calculations, structural analysis, drawings and, where relevant, hydrological and hydraulic studies. These look at water flow, flood levels, whether openings are wide enough for water to pass, and whether foundations are safe from river-bed erosion.
 

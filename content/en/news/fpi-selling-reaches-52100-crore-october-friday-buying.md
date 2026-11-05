@@ -54,13 +54,13 @@ verification:
     - "Free Press Journal 'Read also' headline gives a different September figure (Rs 14,474 cr); body text and PTI give Rs 35,861 cr, used here."
 ---
 
-Foreign investors have sold a net ₹52,100 crore of Indian shares so far in October, depository data showed on Sunday, taking their withdrawals this year to ₹3.12 lakh crore. That is close to double the ₹1.66 lakh crore they pulled out in the whole of 2025.
+Foreign investors have sold a net ₹52,100 crore of Indian shares so far in October, depository data showed on Sunday, taking their withdrawals this year to **₹3.12 lakh crore**. That is close to double the ₹1.66 lakh crore they pulled out in the whole of 2025.
 
-The pace of selling has slowed, however. On October 11 the October figure stood at ₹44,166 crore, so the past week added about ₹8,000 crore, well below the heavy outflows of the first ten days of the month. On Friday, October 16, foreign funds turned marginal net buyers.
+The pace of selling has slowed, however. On October 11 the October figure stood at **₹44,166 crore**, so the past week added about ₹8,000 crore, well below the heavy outflows of the first ten days of the month. On Friday, October 16, foreign funds turned marginal net buyers.
 
 ## Why the money is leaving
 
-The reasons have not changed much since September, when foreign investors sold ₹35,861 crore after modest buying in July and August. US bond yields are high, the dollar is strong, and crude oil is near $110 a barrel because of the war in West Asia. Sticky US inflation has also revived talk of another rate increase by the Federal Reserve, which makes American assets more attractive.
+The reasons have not changed much since September, when foreign investors sold **₹35,861 crore** after modest buying in July and August. US bond yields are high, the dollar is strong, and crude oil is near $110 a barrel because of the war in West Asia. Sticky US inflation has also revived talk of another rate increase by the Federal Reserve, which makes American assets more attractive.
 
 "FPIs continued to sell Indian equities amid elevated US bond yields, a stronger dollar and rising crude oil prices," said Dheeraj Gaur, chief investment strategy officer at Choice Wealth. He said expensive crude was adding to the strain on the Indian economy.
 
@@ -74,8 +74,8 @@ He said foreign investors were still selling financial services and oil-related 
 
 Pabitro Mukherjee, deputy vice president of research at Bajaj Broking, said the sharp slowdown in selling and Friday's reversal suggested sentiment was steadying. He warned that high crude prices remained the main threat to any recovery. Analysts broadly see the Friday buying as tactical rather than a lasting change of mind.
 
-Exchange data for the week to October 16 showed foreign institutional investors as net sellers of ₹15,440 crore, almost all of it matched by ₹14,792 crore of buying by domestic institutions such as mutual funds and insurers. That domestic support is a big reason the Sensex still managed a 3.1% gain for the week.
+Exchange data for the week to October 16 showed foreign institutional investors as net sellers of **₹15,440 crore**, almost all of it matched by ₹14,792 crore of buying by domestic institutions such as mutual funds and insurers. That domestic support is a big reason the Sensex still managed a 3.1% gain for the week.
 
 ## What to watch
 
-Brent crude, the course of US-Iran tensions and September-quarter earnings are the main signposts for foreign money in the coming days. The ₹30,200 crore Jio Platforms share sale, which opens on October 21, will be a test of how much appetite overseas funds still have for large Indian offerings.
+Brent crude, the course of US-Iran tensions and September-quarter earnings are the main signposts for foreign money in the coming days. The **₹30,200 crore** Jio Platforms share sale, which opens on October 21, will be a test of how much appetite overseas funds still have for large Indian offerings.

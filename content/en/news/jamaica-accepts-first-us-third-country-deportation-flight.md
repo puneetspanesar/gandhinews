@@ -36,7 +36,7 @@ verification:
     - "Fitz Jackson quote is a fragment as given in the source."
 ---
 
-Jamaica received its first flight of third-country deportees from the United States on Tuesday, when 22 people landed at Norman Manley International Airport in Kingston. They were reported to have been put on a bus and taken to an undisclosed location.
+Jamaica received its first flight of third-country deportees from the United States on Tuesday, when **22 people** landed at Norman Manley International Airport in Kingston. They were reported to have been put on a bus and taken to an undisclosed location.
 
 Jamaica signed a memorandum of understanding with Washington in June to take in deportees who are not Jamaican. Under the plan it will send them on to their home countries or other destinations. The government says it will not accept anyone with a criminal record, and that the International Organization for Migration, the UN agency, will help look after them.
 

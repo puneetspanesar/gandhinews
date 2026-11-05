@@ -63,7 +63,7 @@ At an election rally in Georgia earlier, he repeated that he had "terminated" th
 
 ## Signs of preparation
 
-The remarks came as sailors aboard the USS George Washington carrier strike group were reported on Saturday to be loading munitions and readying aircraft. Separately, US Central Command was said to have follow-up plans for renewed strikes ready, pending White House approval, with several options put before Defence Secretary Pete Hegseth, some of them for after the November 3 midterm elections.
+The remarks came as sailors aboard the **USS George Washington** carrier strike group were reported on Saturday to be loading munitions and readying aircraft. Separately, US Central Command was said to have follow-up plans for renewed strikes ready, pending White House approval, with several options put before Defence Secretary Pete Hegseth, some of them for after the November 3 midterm elections.
 
 A Pentagon official said the department's job was to develop and present options to the president, and that it does not speculate about hypothetical or future operations.
 

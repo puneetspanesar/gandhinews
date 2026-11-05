@@ -48,7 +48,7 @@ verification:
 
 Attackers broke into an older system at OpenCode, the open-source AI coding agent, and exposed the AI provider keys of some of its users, leaving developers with unauthorised bills that in a few cases ran past $1,000.
 
-The company said on Monday that the intrusion happened overnight and affected 1.4% of users of OpenCode Console, the platform where some customers store keys for services such as those from Anthropic, OpenAI and Google. It described the incident as "a large-scale distillation attack", a term for harvesting large volumes of a model's output, usually to train another model, but did not explain how the attackers got in.
+The company said on Monday that the intrusion happened overnight and affected **1.4%** of users of OpenCode Console, the platform where some customers store keys for services such as those from Anthropic, OpenAI and Google. It described the incident as "a large-scale distillation attack", a term for harvesting large volumes of a model's output, usually to train another model, but did not explain how the attackers got in.
 
 ## Who was hit
 
@@ -56,7 +56,7 @@ OpenCode emailed affected users and said anyone who had not received a message w
 
 The AI companies moved quickly. Anthropic and Google blocked the exposed keys, while OpenAI worked with OpenCode to restore access and refund credits used in the attack. OpenCode said refunds were under way.
 
-Dax Raad, OpenCode's co-founder, said the leaked keys were limited to Console, and that the open-source app and command-line tool were not touched. He said attackers had been trying to break in nonstop for 48 hours.
+Dax Raad, OpenCode's co-founder, said the leaked keys were limited to Console, and that the open-source app and command-line tool were not touched. He said attackers had been trying to break in nonstop for **48 hours**.
 
 ## When the guardrails got in the way
 

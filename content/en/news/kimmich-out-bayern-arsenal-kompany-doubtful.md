@@ -43,7 +43,7 @@ The club said on Wednesday that the midfielder had been affected by a death in h
 
 ## Olise and Musiala out too
 
-Kimmich's absence adds to a difficult week for Bayern. Michael Olise is suspended after being sent off in the 3-3 draw with Viking FK in Stavanger, and Jamal Musiala is out with a torn muscle fibre.
+Kimmich's absence adds to a difficult week for Bayern. **Michael Olise** is suspended after being sent off in the 3-3 draw with Viking FK in Stavanger, and Jamal Musiala is out with a torn muscle fibre.
 
 There is doubt on the touchline as well. Head coach Vincent Kompany has a viral infection and may miss the game. His assistant Aaron Danks said Kompany needed rest and was being monitored.
 

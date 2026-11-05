@@ -38,14 +38,14 @@ verification:
 
 Shreyas Iyer has reached a career-best fourth place in the latest ICC men's T20I batting rankings after a strong start to the home series against West Indies.
 
-Iyer moved up three places from seventh and is on 798 points. His rating had climbed as high as 829 earlier in the series before slipping when he made one in Indore. The update covers matches up to that third T20I and does not include Wednesday night's defeat in Hyderabad.
+Iyer moved up three places from seventh and is on **798 points**. His rating had climbed as high as 829 earlier in the series before slipping when he made one in Indore. The update covers matches up to that third T20I and does not include Wednesday night's defeat in Hyderabad.
 
-India hold the top two places. Ishan Kishan leads the list with 904 points and Abhishek Sharma is second on 891. Pakistan's Sahibzada Farhan is third on a career-best 883, with England's Harry Brook fifth. Tilak Varma is ninth.
+India hold the top two places. Ishan Kishan leads the list with **904 points** and Abhishek Sharma is second on 891. Pakistan's Sahibzada Farhan is third on a career-best 883, with England's Harry Brook fifth. Tilak Varma is ninth.
 
-In the bowling list, Afghanistan's Rashid Khan stays on top with 720 points. Adam Zampa and Adil Rashid each moved up one place to second and joint third, and Axar Patel is ninth. West Indies all-rounder Roston Chase climbed two places to third among all-rounders, behind Zimbabwe's Sikandar Raza and Pakistan's Saim Ayub.
+In the bowling list, Afghanistan's Rashid Khan stays on top with **720 points**. Adam Zampa and Adil Rashid each moved up one place to second and joint third, and Axar Patel is ninth. West Indies all-rounder Roston Chase climbed two places to third among all-rounders, behind Zimbabwe's Sikandar Raza and Pakistan's Saim Ayub.
 
 ## Renshaw's leap
 
-The biggest move came in the Test rankings. Matt Renshaw jumped 147 places to 49th in the batting list after making 190 and 82 in Australia's 214-run win over South Africa in Durban, where he was player of the match. South Africa's Aiden Markram climbed four places to 10th after his second-innings 75.
+The biggest move came in the Test rankings. Matt Renshaw jumped **147 places** to 49th in the batting list after making 190 and 82 in Australia's 214-run win over South Africa in Durban, where he was player of the match. South Africa's Aiden Markram climbed four places to 10th after his second-innings 75.
 
 The second Test starts in Gqeberha on Sunday.

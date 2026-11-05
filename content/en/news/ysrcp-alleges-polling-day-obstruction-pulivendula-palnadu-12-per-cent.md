@@ -5,7 +5,7 @@ type: news
 section: states
 format_label: "States / Andhra Pradesh"
 topics: []
-title: "YSRCP alleges agents blocked and voters stopped in Pulivendula as Palnadu logs 12% by 9 am"
+title: "YSRCP alleges agents blocked and voters stopped in Pulivendula as Palnadu logs 12% in the first two hours"
 standfirst: "Two hours into Andhra Pradesh's mandal and zilla parishad polls, the opposition party accused TDP workers and the police of keeping its polling agents out of booths, while Palnadu district reported a slow, peaceful start."
 published: 2026-11-05T09:40:00+05:30
 location: Vijayawada
@@ -27,7 +27,7 @@ cover:
   bg: "Polling station Andhra Pradesh"
 infographic:
   kicker: "Andhra parishad polls"
-  headline: "Palnadu at 12% by 9 am as YSRCP cries foul"
+  headline: "Palnadu at 12% in two hours as YSRCP cries foul"
   dek: "Opposition alleges booths blocked in Pulivendula and Ramagiri"
   motif: map-pin
   stats:

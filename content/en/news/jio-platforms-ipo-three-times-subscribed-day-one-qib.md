@@ -45,20 +45,20 @@ verification:
 
 The Jio Platforms share sale ended its first day with bids for three times the shares on offer, as big institutions piled in and ordinary investors held back.
 
-By 5 pm on Wednesday the ₹30,213 crore issue had drawn bids for 59.44 crore shares against 19.75 crore available, or 3.01 times, according to exchange data. At the top of the ₹1,065 to ₹1,119 price band the bids were worth more than ₹65,000 crore.
+By 5 pm on Wednesday the **₹30,213 crore** issue had drawn bids for 59.44 crore shares against 19.75 crore available, or 3.01 times, according to exchange data. At the top of the ₹1,065 to ₹1,119 price band the bids were worth more than ₹65,000 crore.
 
-The offer, the largest in Indian history, was fully covered within 100 minutes of opening, the fastest any Indian IPO has managed. It is set to overtake Hyundai Motor India's ₹27,870 crore listing in 2024 as the biggest ever, and values the Reliance Industries unit at about $108 billion at the upper end of the band.
+The offer, the largest in Indian history, was fully covered within 100 minutes of opening, the fastest any Indian IPO has managed. It is set to overtake Hyundai Motor India's **₹27,870 crore** listing in 2024 as the biggest ever, and values the Reliance Industries unit at about $108 billion at the upper end of the band.
 
 ## Who is bidding
 
-Qualified institutional buyers bid for 44.22 crore shares against 4.90 crore set aside for them, or 9.02 times. Domestic institutions such as banks and insurers accounted for 25.02 crore shares, foreign institutions 15.14 crore and mutual funds 3.19 crore.
+Qualified institutional buyers bid for **44.22 crore shares** against 4.90 crore set aside for them, or 9.02 times. Domestic institutions such as banks and insurers accounted for 25.02 crore shares, foreign institutions 15.14 crore and mutual funds 3.19 crore.
 
 Non-institutional investors, mostly wealthy individuals, subscribed 1.58 times their quota. The employee portion was taken up 1.30 times and the portion for Reliance shareholders 1.38 times.
 
-Retail investors were slower. They bid for 5.78 crore shares out of 8.50 crore reserved for them, a subscription of 0.68 times.
+Retail investors were slower. They bid for **5.78 crore shares** out of 8.50 crore reserved for them, a subscription of 0.68 times.
 
 ## What comes next
 
 Bidding closes on Friday, October 23. Shares are due to be allotted on October 26 and to list on October 28.
 
-Before the issue opened, Jio Platforms raised ₹8,110 crore from 212 anchor investors at ₹1,119 a share. The dollars foreign investors brought in to bid helped the rupee to a six-week high on Wednesday.
+Before the issue opened, Jio Platforms raised **₹8,110 crore** from 212 anchor investors at ₹1,119 a share. The dollars foreign investors brought in to bid helped the rupee to a six-week high on Wednesday.

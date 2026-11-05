@@ -55,17 +55,17 @@ verification:
     - "Results filed in the afternoon; Business Standard first published 3:40 pm IST."
 ---
 
-ICICI Bank's net profit rose 20.1% to ₹14,843 crore in the July-September quarter, comfortably ahead of what analysts had expected, as provisions fell and its loan book expanded by nearly a third.
+ICICI Bank's net profit rose **20.1% to ₹14,843 crore** in the July-September quarter, comfortably ahead of what analysts had expected, as provisions fell and its loan book expanded by nearly a third.
 
-Brokerages had looked for profit growth of 8-14%. The bank beat market estimates by about 3.9%. On a consolidated basis, including its insurance, asset management and broking arms, profit rose 22.3% to ₹16,333 crore.
+Brokerages had looked for profit growth of 8-14%. The bank beat market estimates by about **3.9%**. On a consolidated basis, including its insurance, asset management and broking arms, profit rose 22.3% to ₹16,333 crore.
 
 ## Growth, with help from abroad
 
-Net interest income rose 17.7% to ₹25,339 crore. Loans grew 30% from a year earlier and 12.3% from June, to ₹18.32 lakh crore. A large part of the jump came from lending by the bank's international branches against foreign currency non-resident (FCNR-B) deposits. Without those loans, growth was 24.1%.
+Net interest income rose **17.7%** to ₹25,339 crore. Loans grew 30% from a year earlier and 12.3% from June, to ₹18.32 lakh crore. A large part of the jump came from lending by the bank's international branches against foreign currency non-resident (FCNR-B) deposits. Without those loans, growth was 24.1%.
 
-Deposits followed the same pattern. They rose 27.1% to ₹20.50 lakh crore, or 17% if FCNR-B deposits are left out. The average current and savings account ratio was 35.8%.
+Deposits followed the same pattern. They rose **27.1%** to ₹20.50 lakh crore, or 17% if FCNR-B deposits are left out. The average current and savings account ratio was 35.8%.
 
-Fee income grew 20.1% to ₹7,795 crore, with retail, rural and business banking customers bringing in about three-quarters of it.
+Fee income grew **20.1%** to ₹7,795 crore, with retail, rural and business banking customers bringing in about three-quarters of it.
 
 ## Margin narrows
 

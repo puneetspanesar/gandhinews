@@ -46,6 +46,6 @@ Fellow workers and passers-by called the police and rushed the three to a privat
 
 A police team visited the spot and sent the bodies to the Civil Hospital for post-mortem examinations. They were handed over to the families on Sunday.
 
-Acting on a complaint from Sanjay, a resident of Jaurasi, police registered a case of negligent driving and culpable homicide against the unidentified driver at Bilaspur police station. Investigators are going through footage from CCTV cameras at the site and along the road to identify the vehicle, a senior police officer said.
+Acting on a complaint from Sanjay, a resident of Jaurasi, police registered a case of **negligent driving and culpable homicide** against the unidentified driver at Bilaspur police station. Investigators are going through footage from CCTV cameras at the site and along the road to identify the vehicle, a senior police officer said.
 
 Police have not said what kind of vehicle was involved, and no arrest had been reported by Sunday night. All three men worked at the same warehouse and came from the same village.

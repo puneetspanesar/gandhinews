@@ -54,19 +54,19 @@ verification:
     - "Results list from Business Standard live blog; 'LTM' in that list not identified, left out."
 ---
 
-Indian shares look set to open higher on Friday after a rebound across Asian markets, with GIFT Nifty futures trading about 100 points up, near 23,090, shortly after 8 am. The Nifty 50 closed at 22,997.35 on Thursday after its best day of the week.
+Indian shares look set to open higher on Friday after a rebound across Asian markets, with GIFT Nifty futures trading **about 100 points** up, near 23,090, shortly after 8 am. The Nifty 50 closed at 22,997.35 on Thursday after its best day of the week.
 
-Chip stocks led the recovery in Asia after days of selling linked to worries about artificial intelligence valuations. South Korea's Kospi was up close to 3% and Japan's Nikkei 225 about 1.8%. Hong Kong's Hang Seng and the Shanghai Composite were both up more than half a per cent.
+Chip stocks led the recovery in Asia after days of selling linked to worries about artificial intelligence valuations. South Korea's Kospi was up **close to 3%** and Japan's Nikkei 225 about 1.8%. Hong Kong's Hang Seng and the Shanghai Composite were both up more than half a per cent.
 
 ## Wall Street ends losing streak
 
-US stocks ended a three-day losing run on Thursday as investors moved money out of technology and into the rest of the market. The Dow Jones Industrial Average rose 1.08% to 52,177.69, the S&P 500 gained 0.33% to 7,744.06 and the Nasdaq Composite edged up 0.08% to 26,713.02. The small-company Russell 2000 rose 1.38%.
+US stocks ended a three-day losing run on Thursday as investors moved money out of technology and into the rest of the market. The Dow Jones Industrial Average rose **1.08%** to 52,177.69, the S&P 500 gained 0.33% to 7,744.06 and the Nasdaq Composite edged up 0.08% to 26,713.02. The small-company Russell 2000 rose 1.38%.
 
-Technology shares fell 0.65% and energy 1.58%, while health care led the gainers. Nvidia lost 1.84%. A sharp fall in Treasury yields helped markets shrug off a hot inflation reading: US producer prices rose 1.3% in September from August and 6.3% from a year earlier. The 10-year yield fell 9 basis points to 5.10%. US stock futures were slightly higher in Asian trade.
+Technology shares fell **0.65%** and energy 1.58%, while health care led the gainers. Nvidia lost 1.84%. A sharp fall in Treasury yields helped markets shrug off a hot inflation reading: US producer prices rose 1.3% in September from August and 6.3% from a year earlier. The 10-year yield fell 9 basis points to 5.10%. US stock futures were slightly higher in Asian trade.
 
 ## Oil steady
 
-Brent crude for December delivery slipped 0.32% to $105.59 a barrel in Asia, as traders weighed a possible easing of US restrictions on the shadow fleet of tankers. US crude had jumped 3.1% to $98.07 on Thursday after government data showed commercial stockpiles fell by 8.6 million barrels.
+Brent crude for December delivery slipped **0.32%** to $105.59 a barrel in Asia, as traders weighed a possible easing of US restrictions on the shadow fleet of tankers. US crude had jumped 3.1% to $98.07 on Thursday after government data showed commercial stockpiles fell by 8.6 million barrels.
 
 ## Foreign selling and results
 

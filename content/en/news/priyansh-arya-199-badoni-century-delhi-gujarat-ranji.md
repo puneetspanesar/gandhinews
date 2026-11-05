@@ -42,9 +42,9 @@ verification:
     - "Arya's 199 record: Wisden list of Indian batters out for 199 (16th), first since KL Rahul 2016/17."
 ---
 
-Priyansh Arya came within one run of a maiden first-class double hundred at Palam on Sunday, falling for 199 off 221 balls as Delhi piled up 381 for 4 against Gujarat on the opening day of their Ranji Trophy match.
+Priyansh Arya came within one run of a maiden first-class double hundred at Palam on Sunday, falling for **199 off 221 balls** as Delhi piled up 381 for 4 against Gujarat on the opening day of their Ranji Trophy match.
 
-The 25-year-old opener, playing only his third first-class game, was dismissed by Manan Hingrajia in the 77th over. By then he and captain Ayush Badoni had put on 234 for the fourth wicket, and Badoni went on to close the day unbeaten on 115.
+The 25-year-old opener, playing only his third first-class game, was dismissed by Manan Hingrajia in the 77th over. By then he and captain Ayush Badoni had put on **234 for the fourth wicket**, and Badoni went on to close the day unbeaten on 115.
 
 Arya is the 16th Indian batter to be out for 199 in first-class cricket, a list that includes Sachin Tendulkar and Mohammad Azharuddin. He is the first Indian to fall on that score in red-ball cricket since KL Rahul did so in 2016.
 
@@ -52,9 +52,9 @@ Arya is the 16th Indian batter to be out for 199 in first-class cricket, a list 
 
 Arya reached his hundred off 126 balls, then scored the next 99 off just 95. He hit 24 fours and six sixes, finishing with a strike rate of a little over 90, the kind of tempo that made his name in the IPL.
 
-For Punjab Kings he has 839 runs over two seasons at a strike rate of almost 192. In IPL 2026 only Vaibhav Sooryavanshi scored at a faster rate among batters with more than 300 runs, and Arya's 39-ball century is the fourth-fastest by an Indian in the tournament.
+For Punjab Kings he has **839 runs** over two seasons at a strike rate of almost 192. In IPL 2026 only Vaibhav Sooryavanshi scored at a faster rate among batters with more than 300 runs, and Arya's 39-ball century is the fourth-fastest by an Indian in the tournament.
 
-His red-ball record is short but striking. Arya made his Ranji debut last season and now has 330 runs in the competition at an average of 82.50, with one fifty and this 199.
+His red-ball record is short but striking. Arya made his Ranji debut last season and now has **330 runs** in the competition at an average of 82.50, with one fifty and this 199.
 
 ## Badoni keeps Delhi going
 

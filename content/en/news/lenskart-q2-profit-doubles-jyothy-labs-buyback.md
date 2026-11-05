@@ -6,11 +6,11 @@ section: economy
 format_label: "Economy / Companies"
 topics: []
 title: "Lenskart's profit more than doubles as Jyothy Labs slumps 88% and plans ₹147 crore buyback"
-standfirst: "The eyewear retailer earned ₹232.45 crore in the September quarter on 36% higher revenue, while the Ujala maker's profit fell to ₹10.6 crore even as sales grew."
+standfirst: "The eyewear retailer earned a consolidated ₹232.45 crore in the September quarter on 36% higher revenue, while the Ujala maker's profit fell to ₹10.6 crore even as sales grew."
 published: 2026-11-04T16:55:00+05:30
 location: Mumbai
 keyPoints:
-  - "Lenskart's quarterly profit **rose 124.7% to ₹232.45 crore**."
+  - "Lenskart's consolidated quarterly profit **rose 124.7% to ₹232.45 crore**."
   - "Jyothy Labs' net profit **fell 87.9% to ₹10.6 crore** on a sharp margin squeeze."
   - "Jyothy Labs will **buy back shares at ₹215 each**, a total of ₹147 crore."
 hero:
@@ -22,12 +22,17 @@ hero:
     value: "Lenskart doubles, Jyothy slumps"
 related: [zydus-wellness-q2-revenue-73-per-cent-profit-shares-9-per-cent]
 seo:
-  description: "Lenskart's Q2 FY27 profit rose 124.7% to ₹232.45 crore on revenue of ₹2,845 crore; Jyothy Labs' profit fell 87.9% to ₹10.6 crore and it announced a ₹147 crore buyback at ₹215 a share."
+  description: "Lenskart's Q2 FY27 consolidated profit rose 124.7% to ₹232.45 crore on revenue of ₹2,845 crore; Jyothy Labs' profit fell 87.9% to ₹10.6 crore and it announced a ₹147 crore buyback at ₹215 a share."
 sources:
   - title: "Lenskart Q2 FY27 Profit Surges 125% To ₹232.45 Crore, Revenue Climbs 36% To ₹2,845 Crore"
     publisher: "Free Press Journal"
     date: 2026-11-04
     url: "https://www.freepressjournal.in/business/lenskart-q2-fy27-profit-surges-125-to-23245-crore-revenue-climbs-36-to-2845-crore"
+    primary: false
+  - title: "Lenskart Solutions Share Price in Focus; Q2FY27 Profit More Than Doubles as Revenue Rises 36%"
+    publisher: "Angel One"
+    date: 2026-11-04
+    url: "https://www.angelone.in/news/stocks/lenskart-solutions-share-price-in-focus-q2fy27-profit-more-than-doubles-as-revenue-rises-36"
     primary: false
   - title: "Jyothy Labs Q2 net profit tanks 87.9 pc to Rs 10.6 crore, revenue up"
     publisher: "IANS"
@@ -38,6 +43,7 @@ verification:
   status: approved
   notes:
     - "event: Nov 4 afternoon IST, results filed; IANS Jyothy story 4:41-4:46 pm IST, FPJ Lenskart story 4:58 pm IST."
+    - "Lenskart profit lines checked Nov 5 against Angel One results report: consolidated PAT 232.45 cr (+124.7%); consolidated profit attributable to owners 227.08 cr (+122.1%, the figure used in the Nov 5 Sensex story); standalone PAT 167.85 vs 99.11 cr on standalone revenue 1,663.52 vs 1,229.04 cr."
     - "Lenskart: PAT 232.45 vs 103.45 cr; revenue 2,845.03 vs 2,096.14 cr; Q1 PAT 228.43, revenue 2,714.18; H1 PAT 460.88 vs 164.62; office moved to Delhi Aerocity. No share move or executive quotes in source. Peyush Bansal as CEO from general knowledge, used only in hero."
     - "Jyothy: profit 10.6 vs 87.8 cr; revenue 760 vs 736 cr; EBITDA 19 vs 118 cr; margin 2.5% vs 16%; ex-Pril/Fa revenue +12.4%, volume +8.1%; buyback 68.37 lakh shares at 215, 147 cr, tender, promoters out; stock closed 189, +0.32%. No reason for the fall given in source; not stated. Pril and Fa called brands without detail."
 infographic:
@@ -74,7 +80,7 @@ infographic:
 
 Eyewear retailer Lenskart **more than doubled its quarterly profit** on Wednesday, while household products maker Jyothy Labs reported a steep fall in earnings and announced a share buyback.
 
-Lenskart posted consolidated profit after tax of ₹232.45 crore for the July to September quarter, up 124.7% from ₹103.45 crore a year earlier. Revenue from operations **climbed 35.7% to ₹2,845.03 crore**, from ₹2,096.14 crore. Profit before tax more than doubled to ₹304.48 crore.
+Lenskart posted consolidated profit after tax of ₹232.45 crore for the July to September quarter, up 124.7% from ₹103.45 crore a year earlier. Revenue from operations **climbed 35.7% to ₹2,845.03 crore**, from ₹2,096.14 crore. Profit attributable to the company's own shareholders, which leaves out the share of minority partners in subsidiaries, was ₹227.08 crore, up 122.1%. Profit before tax more than doubled to ₹304.48 crore. On a standalone basis, without its subsidiaries, Lenskart earned ₹167.85 crore, against ₹99.11 crore a year earlier.
 
 The company also grew on the previous quarter, when it earned ₹228.43 crore on revenue of ₹2,714.18 crore. For the first half of the year, its profit stood at **₹460.88 crore, against ₹164.62 crore**. The board approved the allotment of 4,60,934 shares under its employee stock option scheme, and the company moved its registered office to Delhi's Aerocity from November 4.
 

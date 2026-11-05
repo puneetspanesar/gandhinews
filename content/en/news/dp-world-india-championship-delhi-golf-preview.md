@@ -42,7 +42,7 @@ verification:
     - "Lahiri's presence inferred from Jaglan's comment in Tribune; not mentioned in copy."
 ---
 
-Rory McIlroy and the defending champion Tommy Fleetwood headline the field as the $4 million India Championship gets under way at Delhi Golf Club on Thursday morning. For five young Indians, the more remarkable thing is simply being on the same tee sheet.
+Rory McIlroy and the **defending champion** Tommy Fleetwood headline the field as the $4 million India Championship gets under way at Delhi Golf Club on Thursday morning. For five young Indians, the more remarkable thing is simply being on the same tee sheet.
 
 The season-ending event will also settle the DP World PGTI Order of Merit, the Indian tour's money list, and with it a pathway to the DP World Tour. Saptak Talwar leads that list going into the week, ahead of Khalin Joshi and Veer Ahlawat, and the three head the home challenge along with players such as Rashid Khan.
 

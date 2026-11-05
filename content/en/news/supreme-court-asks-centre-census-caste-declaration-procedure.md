@@ -38,7 +38,7 @@ verification:
 
 The Supreme Court on Monday asked the Centre to explain how caste will be recorded and checked in Census 2027, on a petition that says the count relies on whatever people write on the form.
 
-The bench of Chief Justice Surya Kant, Justice Joymalya Bagchi and Justice V. Mohana asked Solicitor General Tushar Mehta to place on record the standard operating procedure being followed for the census, along with a note on how caste is declared. It did not issue formal notice on the petition.
+The bench of Chief Justice Surya Kant, Justice Joymalya Bagchi and Justice V. Mohana asked Solicitor General Tushar Mehta to place on record the standard operating procedure being followed for the census, along with a note on how caste is declared. It did **not issue formal notice** on the petition.
 
 ## The petition
 

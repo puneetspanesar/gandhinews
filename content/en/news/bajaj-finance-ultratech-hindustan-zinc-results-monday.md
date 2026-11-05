@@ -53,11 +53,11 @@ verification:
     - "Bajaj Housing Finance, PNB, ICICI figures from the site's own earlier stories. Group affiliations (Aditya Birla, Vedanta) are standard descriptions, not separately sourced this run."
 ---
 
-Monday brings the first big batch of results in what is shaping up to be a crowded week, with about two dozen companies due to report their July-September numbers on October 19.
+Monday brings the first big batch of results in what is shaping up to be a crowded week, with about **two dozen companies** due to report their July-September numbers on October 19.
 
-The best-known names are Bajaj Finance, the consumer and business lender, and UltraTech Cement, the Aditya Birla group's cement maker. Bajaj Finance has scheduled an earnings call with analysts for the same day. Its mortgage arm, Bajaj Housing Finance, reported on Friday that its profit rose 18% as its home loan book grew 25%.
+The best-known names are Bajaj Finance, the consumer and business lender, and UltraTech Cement, the Aditya Birla group's cement maker. Bajaj Finance has scheduled an earnings call with analysts for the same day. Its mortgage arm, Bajaj Housing Finance, reported on Friday that its profit rose **18%** as its home loan book grew 25%.
 
-Hindustan Zinc, the Vedanta group's zinc and silver miner, also reports, as does Union Bank of India, one of the larger state-run lenders. Union Bank's numbers will be compared with those of Punjab National Bank, which posted a record profit on Friday, and with a strong set from private banks on Saturday, when ICICI Bank's profit rose 20% and Axis Bank's 38%.
+Hindustan Zinc, the Vedanta group's zinc and silver miner, also reports, as does Union Bank of India, one of the larger state-run lenders. Union Bank's numbers will be compared with those of Punjab National Bank, which posted a record profit on Friday, and with a strong set from private banks on Saturday, when ICICI Bank's profit rose **20%** and Axis Bank's 38%.
 
 ## The rest of the list
 

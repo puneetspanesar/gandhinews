@@ -5,7 +5,7 @@ type: news
 section: states
 format_label: "States / Uttar Pradesh"
 topics: [states, elections-2027]
-title: "Yogi Adityanath to lay foundation for flats for the poor on land freed from Atiq Ahmed"
+title: "Yogi Adityanath to lay foundation on October 15 for flats for the poor on land freed from Atiq Ahmed"
 standfirst: "In Prayagraj on Thursday, the Chief Minister will begin work on the Padmalok housing scheme at Kasari-Masari and hand keys to 556 families under PM Awas Yojana."
 published: 2026-10-15T06:30:00+05:30
 location: Prayagraj
@@ -38,7 +38,7 @@ verification:
 
 Uttar Pradesh Chief Minister Yogi Adityanath is due in Prayagraj on Thursday to begin work on a housing scheme for poor families on land that was once occupied by former MLA Atiq Ahmed.
 
-He will perform the bhoomi pujan for the Padmalok residential scheme at Kasari-Masari. Reports differ on its size, from 76 flats to about 600. On the same trip he is to hand over keys to 556 families who have been allotted flats under the Pradhan Mantri Awas Yojana in Pipalgaon.
+He will perform the bhoomi pujan for the Padmalok residential scheme at Kasari-Masari. Reports differ on its size, from **76 flats** to about 600. On the same trip he is to hand over keys to 556 families who have been allotted flats under the Pradhan Mantri Awas Yojana in Pipalgaon.
 
 Prayagraj Development Authority secretary Vineet Kumar Singh said more than 2,000 people had registered for the Pipalgaon flats, and the beneficiaries were chosen by lottery in April 2025.
 

@@ -50,7 +50,7 @@ The Trump administration is reported to be considering sanctions relief for the 
 
 The talks, described by a US official, began a few days after President Donald Trump temporarily lifted sanctions on Russian diesel. They centre on letting previously sanctioned ships carry "legal oil", meaning cargo that is not itself under US sanctions. Russian and Iranian oil would remain off limits, and the aim is to get more crude and fuel moving out of the Gulf. Companies wanting to use the vessels would have to apply to the Treasury Department.
 
-Energy Secretary Chris Wright made the case in a video address to the World Petroleum Congress in Riyadh, saying that easing the curbs would cut freight rates, which have dampened demand for American oil. The Department of Energy says the move would not help Russia ship its own oil.
+Energy Secretary **Chris Wright** made the case in a video address to the World Petroleum Congress in Riyadh, saying that easing the curbs would cut freight rates, which have dampened demand for American oil. The Department of Energy says the move would not help Russia ship its own oil.
 
 High fuel prices are a political worry for Trump before the November 3 midterm elections, when Republicans are trying to hold both houses of Congress.
 

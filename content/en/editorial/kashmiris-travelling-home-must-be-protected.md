@@ -61,7 +61,7 @@ Chief Minister Omar Abdullah put it simply: "This unfortunate incident should ne
 
 ## What the states should do
 
-First, Punjab Police should register a case over the Ludhiana stoning, if they have not already, identify those responsible and say what they find. Escorting the bus for a few kilometres was the right immediate response. It is not an investigation.
+First, Punjab Police should **register a case** over the Ludhiana stoning, if they have not already, identify those responsible and say what they find. Escorting the bus for a few kilometres was the right immediate response. It is not an investigation.
 
 Second, Haryana Police should record statements from the passengers and crew of the Nilokheri bus, including the driver's account of what was said, and examine any footage from the dhaba and the highway. The final charge sheet should reflect everything that happened, whatever the motive turns out to be.
 

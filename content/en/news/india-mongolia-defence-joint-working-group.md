@@ -56,8 +56,8 @@ The two sides took stock of existing programmes, discussed new areas of collabor
 
 ## Exercises and training
 
-Both delegations praised the successful conduct of Nomadic Elephant, the annual platoon-level exercise between the two armies that alternates between the countries. The 18th edition was held at the Foreign Training Node in Pithoragarh, Uttarakhand, from September 21 to October 3, with 45 soldiers from each side.
+Both delegations praised the successful conduct of **Nomadic Elephant**, the annual platoon-level exercise between the two armies that alternates between the countries. The 18th edition was held at the Foreign Training Node in Pithoragarh, Uttarakhand, from September 21 to October 3, with 45 soldiers from each side.
 
-The Indian team visited the National Defence University of Mongolia to review the Cyber Security Training Centre set up there with Indian assistance. Mongolia acknowledged India's support in building the capacity of its armed forces, including training of personnel, language courses and cyber security.
+The Indian team visited the National Defence University of Mongolia to review the Cyber Security Training Centre set up there with Indian assistance. Mongolia acknowledged India's support in building the capacity of its armed forces, including training of personnel, language courses and **cyber security**.
 
 Tripathy also called on Major General Usukhbayar J, Deputy Chief of the General Staff of the Mongolian Armed Forces.

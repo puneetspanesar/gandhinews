@@ -40,17 +40,17 @@ verification:
 
 Telangana's electoral roll is on course to come out of the Special Intensive Revision about a quarter smaller than it went in, according to figures compiled by election officials as of Wednesday.
 
-Before the revision began, the state had 3,38,26,448 voters. After the enumeration stage and most of the notice hearings, 2,49,85,204 people are now counted as eligible, a drop of 88,41,244, or 26.14%.
+Before the revision began, the state had 3,38,26,448 voters. After the enumeration stage and most of the notice hearings, 2,49,85,204 people are now counted as eligible, a drop of 88,41,244, or **26.14%**.
 
-The figure is not final. About 9.6 lakh voters who were sent notices are still to be verified, and if they are cleared the electorate would rise to about 2.60 crore. That would still leave Telangana with roughly 78 lakh fewer voters than before the exercise.
+The figure is not final. About **9.6 lakh voters** who were sent notices are still to be verified, and if they are cleared the electorate would rise to about 2.60 crore. That would still leave Telangana with roughly 78 lakh fewer voters than before the exercise.
 
 ## Who cleared the hurdle
 
-Officials distributed 2,64,87,213 enumeration forms. The draft roll that followed listed 1,66,81,849 voters. The rest were sent notices, either because their records showed anomalies or because they could not be mapped to earlier rolls.
+Officials distributed 2,64,87,213 enumeration forms. The draft roll that followed listed **1,66,81,849 voters**. The rest were sent notices, either because their records showed anomalies or because they could not be mapped to earlier rolls.
 
-Of the 92,88,188 notices issued, all but 22,457 were delivered. A total of 89,75,562 people turned up for hearings, while 3,02,925 did not appear and 9,699 stayed away even after their hearings were rescheduled.
+Of the 92,88,188 notices issued, all but 22,457 were delivered. A total of **89,75,562 people** turned up for hearings, while 3,02,925 did not appear and 9,699 stayed away even after their hearings were rescheduled.
 
-So far 83,03,355 people have been cleared at the notice stage: 56,86,890 from the anomalies category and 26,16,465 who had been unmapped. Another 30,407 were found ineligible. Rangareddy district had the most people declared ineligible, 8,208, followed by Peddapalli with 4,424. Adilabad had the fewest, 71.
+So far **83,03,355 people** have been cleared at the notice stage: 56,86,890 from the anomalies category and 26,16,465 who had been unmapped. Another 30,407 were found ineligible. Rangareddy district had the most people declared ineligible, 8,208, followed by Peddapalli with 4,424. Adilabad had the fewest, 71.
 
 ```facts
 {"title":"Telangana's SIR in numbers","items":[{"value":"3.38 crore","label":"voters before the revision"},{"value":"2.50 crore","label":"counted as eligible now"},{"value":"9.6 lakh","label":"cases still to be verified"},{"value":"November 9","label":"final roll due"}]}

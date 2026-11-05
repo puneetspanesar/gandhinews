@@ -48,11 +48,11 @@ Ukrainian drones set a Russian oil refinery on fire early on Thursday, after Pre
 
 Russia's Defence Ministry said Ukraine had attempted a "large-scale attack" on the refinery in the Ryazan region, south-east of Moscow, and that falling drone debris started a fire. Ryazan Governor Pavel Malkov also confirmed the blaze. There was no word on casualties or the extent of the damage.
 
-Trump announced the pause on attacks on energy sites on Sunday. Ukraine held off for several days, but Russian strikes on Ukraine's power network kept coming. Zelenskyy told the Financial Times that the refinery strikes would resume. "We're done," he said. He would pause again, he added, only if the United States supplied Patriot air defence interceptors.
+Trump announced the pause on attacks on energy sites on Sunday. Ukraine held off for several days, but Russian strikes on Ukraine's power network kept coming. Zelenskyy said that the refinery strikes would resume. "We're done," he said. He would pause again, he added, only if the United States supplied Patriot air defence interceptors.
 
 ## 850 drones in one night
 
-Russia launched more than 850 drones at Ukraine between midnight and Thursday morning, hitting 15 regions, Zelenskyy said. Ukraine's Air Force said 536 were shot down, but strikes were recorded at 31 locations. In the Kirovohrad region, an attack that lasted more than ten hours killed three people and injured six, the State Emergency Service said.
+Russia launched **more than 850 drones** at Ukraine between midnight and Thursday morning, hitting 15 regions, Zelenskyy said. Ukraine's Air Force said 536 were shot down, but strikes were recorded at 31 locations. In the Kirovohrad region, an attack that lasted more than ten hours killed three people and injured six, the State Emergency Service said.
 
 Russia's Defence Ministry said its air defences downed 166 Ukrainian drones overnight.
 

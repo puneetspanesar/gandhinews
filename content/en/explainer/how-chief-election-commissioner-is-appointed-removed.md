@@ -87,11 +87,11 @@ verification:
 
 **The President appoints the CEC and Election Commissioners on the recommendation of a three-member selection committee.** Under the Chief Election Commissioner and Other Election Commissioners (Appointment, Conditions of Service and Term of Office) Act, 2023, the committee is the Prime Minister, the Leader of the Opposition in the Lok Sabha (or the leader of the largest opposition party) and a Union Cabinet minister nominated by the Prime Minister. Candidates must be, or have been, Secretary-level officers with experience of managing elections, according to PRS Legislative Research. The committee may consider names not shortlisted for it, and its recommendation stays valid even if a seat on the committee is vacant.
 
-Gyanesh Kumar was chosen in February 2025 by Prime Minister Narendra Modi, Home Minister Amit Shah and Leader of the Opposition Rahul Gandhi. Gandhi submitted a dissent note and asked the government to defer the appointment until the Supreme Court decided the challenge to the law, Scroll reported.
+Gyanesh Kumar was chosen in February 2025 by Prime Minister Narendra Modi, Home Minister Amit Shah and Leader of the Opposition Rahul Gandhi. Gandhi submitted a dissent note and asked the government to defer the appointment until the Supreme Court decided the challenge to the law.
 
 ## How long does a CEC serve?
 
-**Six years or until the age of 65, whichever comes first, with no reappointment.** If an Election Commissioner is elevated to CEC, the total term still cannot exceed six years, PRS notes. Scroll reported Gyanesh Kumar's tenure runs until January 26, 2029.
+**Six years or until the age of 65, whichever comes first, with no reappointment.** If an Election Commissioner is elevated to CEC, the total term still cannot exceed six years, PRS notes. Gyanesh Kumar's tenure runs until January 26, 2029.
 
 ## Why is the appointment law in the Supreme Court?
 
@@ -101,7 +101,7 @@ On September 23, 2026, a two-judge bench split on whether to refer the case to a
 
 ## How can a CEC be removed?
 
-**Only in the same manner and on the same grounds as a Supreme Court judge: proven misbehaviour or incapacity.** This protection comes from Article 324(5) of the Constitution, read with Article 124(4). A notice of motion needs the signatures of at least 100 Lok Sabha members or 50 Rajya Sabha members, Deccan Chronicle reported. The Speaker or Chairman decides whether to admit it under the Judges (Inquiry) Act, 1968; if admitted, a committee investigates the charges. The motion must then pass in each House by a majority of its total membership and two-thirds of members present and voting.
+**Only in the same manner and on the same grounds as a Supreme Court judge: proven misbehaviour or incapacity.** This protection comes from Article 324(5) of the Constitution, read with Article 124(4). A notice of motion needs the signatures of at least 100 Lok Sabha members or 50 Rajya Sabha members. The Speaker or Chairman decides whether to admit it under the Judges (Inquiry) Act, 1968; if admitted, a committee investigates the charges. The motion must then pass in each House by a majority of its total membership and two-thirds of members present and voting.
 
 Election Commissioners have a different safeguard: they can be removed only on the recommendation of the CEC, PRS notes.
 
@@ -111,7 +111,7 @@ Election Commissioners have a different safeguard: they can be removed only on t
 
 ## Can the CEC act without the other two Commissioners?
 
-**That question is now before the Supreme Court.** On October 5, 2026, the court issued notice on a petition asking whether the CEC can individually exercise powers that are vested in the multi-member Commission, IANS reported. Separately, the Indian Express reported on September 23 that Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi had objected on record at least 14 times in 10 months to decisions on the Special Intensive Revision of electoral rolls, including orders they said were issued without their knowledge, according to ANI's summary of the report. The ECI's response was that written notes and differing views are a normal part of deliberation and that "All these decisions are an outcome of the unanimous decisions of the full Commission in the past one year."
+**That question is now before the Supreme Court.** On October 5, 2026, the court issued notice on a petition asking whether the CEC can individually exercise powers that are vested in the multi-member Commission. Separately, a newspaper report on September 23 said that Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi had objected on record at least 14 times in 10 months to decisions on the Special Intensive Revision of electoral rolls, including orders they said were issued without their knowledge. The ECI's response was that written notes and differing views are a normal part of deliberation and that "All these decisions are an outcome of the unanimous decisions of the full Commission in the past one year."
 
 ## Has anyone tried to remove Gyanesh Kumar?
 
@@ -121,4 +121,4 @@ Election Commissioners have a different safeguard: they can be removed only on t
 {"title":"Removal notices against CEC Gyanesh Kumar","items":[{"date":"Mar 12, 2026","text":"Notices signed by 130 Lok Sabha and 63 Rajya Sabha MPs, alleging 'partisan and discriminatory conduct in office' and 'mass disenfranchisement'."},{"date":"Apr 6, 2026","text":"Speaker Om Birla and Chairman C.P. Radhakrishnan refuse to admit both notices."},{"date":"Apr 24, 2026","text":"Second notice, signed by 73 MPs with nine charges, filed in the Rajya Sabha; still pending."},{"date":"Sep 24, 2026","text":"INDIA bloc parties say a third notice is being drafted for both Houses."}]}
 ```
 
-The ECI has called the "vote chori" allegation "part of a misleading narrative", and after an Indian Express report in September of dissent by the two Election Commissioners, it said its decisions over the past year were unanimous. Our [news report](/en/news/election-commission-dissent-report-move-to-remove-cec) covers both sides.
+The ECI has called the "vote chori" allegation "part of a misleading narrative", and after a newspaper report in September of dissent by the two Election Commissioners, it said its decisions over the past year were unanimous. Our [news report](/en/news/election-commission-dissent-report-move-to-remove-cec) covers both sides.

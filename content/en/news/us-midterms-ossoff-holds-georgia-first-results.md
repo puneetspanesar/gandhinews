@@ -34,7 +34,7 @@ infographic:
     - {icon: bank, value: "53-47", label: "Republican lead in the Senate going in"}
     - {icon: bank, value: "218-214", label: "Republican lead in the House going in"}
     - {icon: users, value: "57 million+", label: "votes cast before election day"}
-  source: "CBS News, CNN, University of Florida Voting Lab, November 3-4, 2026"
+  source: "Network projections and University of Florida Voting Lab, November 3-4, 2026"
 related: [us-midterms-voting-under-way-house-senate-57-million-early, supreme-court-rejects-trump-california-ballots-midterms-eve, us-midterms-stevens-backs-rogers-alaska-sullivan-suit-dismissed]
 seo:
   description: "Democrat Jon Ossoff wins Georgia's Senate race in the first big call of the 2026 US midterms; early counts show Democrats ahead in Republican-held House seats."

@@ -40,7 +40,7 @@ verification:
 
 Gunmen opened fire on mourners inside a Greek Orthodox church in southern Jordan on Friday, killing at least seven people and wounding 34.
 
-The shooting took place during a funeral in the village of Hamoud, in Karak governorate, about 120 km south of Amman. Survivors said they heard an explosion as the funeral procession began. Masked attackers then forced their way into the church and fired for several minutes.
+The shooting took place during a funeral in the village of Hamoud, in Karak governorate, about **120 km** south of Amman. Survivors said they heard an explosion as the funeral procession began. Masked attackers then forced their way into the church and fired for several minutes.
 
 A man who was at the funeral, Khaled Burqan, told the state broadcaster Al-Mamlaka that dozens of people were in the procession, and that one attacker carried a pistol and the other a rifle. Twenty-seven of the wounded were being treated in hospital on Friday night.
 
@@ -62,6 +62,6 @@ UN Secretary-General Antonio Guterres strongly condemned the killings. His spoke
 
 Attacks of this kind are extremely rare in Jordan, where Christians number about 300,000 in a population of roughly 11.5 million. Karak has a long history of Christian and Muslim families living side by side.
 
-The town was last hit by militant violence in 2016, when ISIL fighters holed up in its Crusader-era castle killed 10 people, among them security officers and a Canadian tourist, before Jordanian forces killed them.
+The town was last hit by militant violence in 2016, when ISIL fighters holed up in its Crusader-era castle killed **10 people**, among them security officers and a Canadian tourist, before Jordanian forces killed them.
 
 The attack lands on a country already squeezed by the regional war. Jordan borders the occupied West Bank, where Israel imposed a lockdown on Friday after two soldiers were shot dead near Hebron. King Abdullah, whose family is custodian of Muslim and Christian holy sites in Jerusalem, has long presented Jordan as a haven of interfaith calm. Political analyst Xavier Abu Eid said the attack "goes totally against the message that Jordan wants to give to the world".

@@ -40,11 +40,11 @@ verification:
     - "Company warning on West Asia and commodity prices is from Maruti's FY26 annual report as cited by Business Standard. Brokerage quotes are from Equirus Securities and Systematix reports, no individual analyst named."
 ---
 
-Shares of Maruti Suzuki fell to their lowest level in 18 months on Tuesday, extending a slide that has wiped a third off the carmaker's value this year, as investors fretted about rising raw material costs.
+Shares of Maruti Suzuki fell to their lowest level in **18 months** on Tuesday, extending a slide that has wiped a third off the carmaker's value this year, as investors fretted about rising raw material costs.
 
-The stock dropped 2% to ₹11,126.05 on the BSE during the day, its weakest since April 2025, and it ended among the Nifty's biggest losers on a day the index rose 1.6%. It is down 33% so far in 2026, far worse than the Sensex's 15% fall and the BSE Auto index's 12% drop.
+The stock dropped **2%** to ₹11,126.05 on the BSE during the day, its weakest since April 2025, and it ended among the Nifty's biggest losers on a day the index rose 1.6%. It is down 33% so far in 2026, far worse than the Sensex's 15% fall and the BSE Auto index's 12% drop.
 
-In its annual report for 2025-26, the company warned that "geopolitical tensions in West Asia may exert pressure on profitability through higher commodity prices". It also said supply chains for specialised materials and critical components are concentrated in a few countries, a risk it expects to persist. Maruti has said it aims to win back a 50% share of the passenger car market, in part by building up its range of SUVs while continuing to serve buyers of small cars.
+In its annual report for 2025-26, the company warned that "geopolitical tensions in West Asia may exert pressure on profitability through higher commodity prices". It also said supply chains for specialised materials and critical components are concentrated in a few countries, a risk it expects to persist. Maruti has said it aims to win back a **50%** share of the passenger car market, in part by building up its range of SUVs while continuing to serve buyers of small cars.
 
 Brokers say the whole sector is under pressure. Systematix Institutional Research said carmakers are "entering a phase of earnings normalization in FY27", as the demand boost from GST cuts fades and costlier raw materials start to hurt margins. It expects commodity inflation to widen the gap between companies with tight cost control and a richer product mix and those without.
 

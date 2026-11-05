@@ -41,7 +41,7 @@ verification:
     - "Arrest date not given in source; omitted."
 ---
 
-A former gang leader was sentenced in Las Vegas on Tuesday to 40 years to life in prison for the 1996 murder of rapper Tupac Shakur, in a case that went unsolved for almost 30 years.
+A former gang leader was sentenced in Las Vegas on Tuesday to **40 years to life** in prison for the 1996 murder of rapper Tupac Shakur, in a case that went unsolved for almost 30 years.
 
 Duane "Keffe D" Davis, 63, once a leader of the South Side Compton Crips, is the only person ever charged in Shakur's death. He had been found guilty of first-degree murder with the use of a deadly weapon.
 

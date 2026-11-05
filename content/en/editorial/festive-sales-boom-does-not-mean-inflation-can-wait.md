@@ -57,9 +57,9 @@ verification:
     - "The recommendations (food stock releases where the government holds stocks, EMI cost disclosure, offline retail data) are the desk's own. No claim is made about specific buffer stock levels."
 ---
 
-The first two days of this year's online festive sales were remarkable. Shoppers spent about ₹24,000 crore, by Redseer Strategy Consultants' estimate, across 8 to 9 crore orders. First-time buyers doubled. About two-thirds of opening-day shoppers came from Tier 2 towns and rural India. In a year of war in the Gulf, costly oil and a weak rupee, that is a genuinely encouraging sign.
+The first two days of this year's online festive sales were remarkable. Shoppers spent about **₹24,000 crore**, by Redseer Strategy Consultants' estimate, across 8 to 9 crore orders. First-time buyers doubled. About two-thirds of opening-day shoppers came from Tier 2 towns and rural India. In a year of war in the Gulf, costly oil and a weak rupee, that is a genuinely encouraging sign.
 
-It would be a mistake, though, to read it as proof that households are comfortable. The same day those numbers came out, retail inflation for September was released at 5.54%, the highest since the new consumer price series began. Food inflation was 7.74%. Onions cost more than twice what they did a year ago.
+It would be a mistake, though, to read it as proof that households are comfortable. The same day those numbers came out, retail inflation for September was released at **5.54%**, the highest since the new consumer price series began. Food inflation was 7.74%. Onions cost more than twice what they did a year ago.
 
 ## What the sales do and do not tell us
 
@@ -69,9 +69,9 @@ Online sales are also only part of the picture. Most Indians still buy food, clo
 
 ## The other side's best case
 
-Those who see a robust economy have a fair point. Growth was 7.8% in April-June. The spread of buyers into smaller towns suggests demand is wider than a few metros. Strong sales give companies the confidence to invest and hire, and a pessimistic reading can become self-fulfilling.
+Those who see a strong economy have a fair point. Growth was **7.8%** in April-June. The spread of buyers into smaller towns suggests demand is wider than a few metros. Strong sales give companies the confidence to invest and hire, and a pessimistic reading can become self-fulfilling.
 
-We agree the news is good. Our worry is what follows from it. If strong festive numbers are taken as a sign that households can absorb higher prices, the pressure to act on inflation will fade at exactly the wrong moment. Wholesale prices were up 9.92% in August, with fuel and power up nearly 23%, and those costs are still working their way to shop shelves. The Reserve Bank already expects retail inflation to touch 6% in October-December, and several economists expect another rate increase in December.
+We agree the news is good. Our worry is what follows from it. If strong festive numbers are taken as a sign that households can absorb higher prices, the pressure to act on inflation will fade at exactly the wrong moment. Wholesale prices were up **9.92%** in August, with fuel and power up nearly 23%, and those costs are still working their way to shop shelves. The Reserve Bank already expects retail inflation to touch 6% in October-December, and several economists expect another rate increase in December.
 
 ## What should be done
 

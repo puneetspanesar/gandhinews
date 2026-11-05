@@ -11,7 +11,7 @@ published: 2026-10-17T11:30:00+05:30
 location: Washington
 keyPoints:
   - "Trump waived the sanctions and tariffs in the Graham Act **two days before they were due on October 18**."
-  - "The law had threatened a **100% tariff on the top five buyers of Russian oil and gas**, a group that includes India."
+  - "The law had threatened a **100% tariff** on the top five buyers of Russian oil and gas, a group that includes India."
   - "Co-author Richard Blumenthal said the waivers had **nothing to do with national security**."
 hero:
   need: "President Donald Trump at the White House, ideally speaking to reporters on the South Lawn"
@@ -70,13 +70,13 @@ verification:
     - "Blumenthal 'craven, cowardly' and Beyer quote: Axios, from posts on X. Dmitriev quote: Kyiv Independent."
 ---
 
-President Donald Trump has set aside almost all of the sanctions and tariffs in a new US law meant to punish Russia and the countries that buy its oil, sparing India and China a threatened 100% tariff two days before it could have applied.
+President Donald Trump has set aside almost all of the sanctions and tariffs in a new US law meant to punish Russia and the countries that buy its oil, sparing India and China a threatened **100% tariff** two days before it could have applied.
 
 In an executive order dated October 16 and released late on Friday night in Washington, Trump said he had certified to Congress that the waiver "is in the national interests of the United States". The penalties under the Lindsey O. Graham Sanctioning Russia and Iran Act, which he signed on September 18, were due to kick in on October 18.
 
 ## What the order does
 
-The order first spells out the duties the law calls for: a 500% increase on goods from Russia, and a 100% increase on goods from the five largest importers of Russian crude oil and natural gas if they make new purchases on or after October 18. A further 100% would fall on the five biggest facilitators of Russian sanctions evasion.
+The order first spells out the duties the law calls for: a **500%** increase on goods from Russia, and a 100% increase on goods from the five largest importers of Russian crude oil and natural gas if they make new purchases on or after October 18. A further 100% would fall on the five biggest facilitators of Russian sanctions evasion.
 
 It then waives those duties, along with the law's main sanctions provisions. The waivers stay in force until the President or the Secretary of State decides otherwise. Sanctions already in place under the existing Russia-related national emergency are untouched, and the US Trade Representative must still monitor and report on who is buying Russian oil.
 

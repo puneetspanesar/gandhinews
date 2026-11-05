@@ -59,9 +59,9 @@ verification:
     - "IDBI share price on Oct 14 not found; left out."
 ---
 
-The Union Cabinet on Wednesday approved the sale of a controlling 60.72% stake in IDBI Bank to a Canadian company owned by Prem Watsa's Fairfax Financial Holdings, closing a privatisation that the government first cleared in principle five years ago.
+The Union Cabinet on Wednesday approved the sale of a controlling **60.72%** stake in IDBI Bank to a Canadian company owned by Prem Watsa's Fairfax Financial Holdings, closing a privatisation that the government first cleared in principle five years ago.
 
-The Cabinet Committee on Economic Affairs, chaired by Prime Minister Narendra Modi, named 10955230 Canada Inc, whose parent is Fairfax Financial Holdings, as the strategic buyer. It will pay about ₹52,878 crore at ₹81 a share. The government is selling 30.48% and the Life Insurance Corporation of India (LIC) 30.24%.
+The Cabinet Committee on Economic Affairs, chaired by Prime Minister Narendra Modi, named 10955230 Canada Inc, whose parent is Fairfax Financial Holdings, as the strategic buyer. It will pay about ₹52,878 crore at **₹81 a share**. The government is selling 30.48% and the Life Insurance Corporation of India (LIC) 30.24%.
 
 "Once completed, this will be the largest FDI in the financial sector of our economy so far," the government said in its statement.
 
@@ -77,7 +77,7 @@ Briefing reporters after the meeting, Information and Broadcasting Minister Ashw
 
 IDBI Bank was placed under the Reserve Bank of India's Prompt Corrective Action framework in May 2017 because of high bad loans and losses. The RBI lifted those restrictions in March 2021, with conditions and continued monitoring. Two months later, in May 2021, the CCEA gave in-principle approval for strategic disinvestment along with a transfer of management control, and LIC's board agreed to sell alongside the government.
 
-After the deal, the government will keep 15% and LIC 19%, a combined 34%. An empowered group of ministers will sell the government's remaining stake in the open market, while LIC will manage its holding under the direction of its regulators.
+After the deal, the government will keep **15%** and LIC 19%, a combined 34%. An empowered group of ministers will sell the government's remaining stake in the open market, while LIC will manage its holding under the direction of its regulators.
 
 ## What happens next
 

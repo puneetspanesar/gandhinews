@@ -60,9 +60,9 @@ verification:
 
 Israel closed off Hebron on Saturday, shutting every road gate into the largest city in the occupied West Bank and forcing families out of their homes, a day after Palestinian gunmen killed two Israeli soldiers nearby.
 
-Basma Radio, a Telegram channel that tracks checkpoints, said all gates into and out of the city were impassable by car. The Palestinian news agency WAFA said troops had ordered dozens of residents to leave their homes in several neighbourhoods. In al-Jalda, up to 200 families were "forcibly displaced", according to Palestinian accounts.
+Basma Radio, a Telegram channel that tracks checkpoints, said all gates into and out of the city were impassable by car. The Palestinian news agency WAFA said troops had ordered dozens of residents to leave their homes in several neighbourhoods. In al-Jalda, up to **200 families** were "forcibly displaced", according to Palestinian accounts.
 
-The Israeli army said its forces were "conducting precise, targeted and thorough searches" in the area. It said the operation was "focused and limited to the area from which the terrorists operated" and would last several days. It did not answer questions about the evictions.
+The Israeli army said its forces were "conducting precise, targeted and thorough searches" in the area. It said the operation was "focused and limited to the area from which the terrorists operated" and would **last several days**. It did not answer questions about the evictions.
 
 The operation began after gunmen opened fire near Hebron on Friday, killing two Israeli soldiers and wounding others. Prime Minister Benjamin Netanyahu ordered a major military operation in response.
 

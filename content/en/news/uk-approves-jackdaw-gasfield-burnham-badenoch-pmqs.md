@@ -39,7 +39,7 @@ verification:
     - "Timing: PMQs at noon BST (4:30 pm IST), statement after."
 ---
 
-The British government has approved the Jackdaw gas field in the North Sea, ending a long legal and political fight over the project. Prime Minister Andy Burnham told the House of Commons on Wednesday that it would "release gas into British homes and British industries, starting in the next few weeks".
+The British government has approved the **Jackdaw gas field** in the North Sea, ending a long legal and political fight over the project. Prime Minister Andy Burnham told the House of Commons on Wednesday that it would "release gas into British homes and British industries, starting in the next few weeks".
 
 The original consent, granted in 2022 under the Conservatives, was quashed by the courts because it had not considered the emissions from burning the gas the field would produce. Energy minister Michael Shanks told MPs the Energy Secretary had now looked at that question, and that "her assessment is that the decision does not prevent the UK from meeting legally binding limits on carbon emissions". The North Sea Transition Authority has granted consent for production.
 
@@ -57,4 +57,4 @@ The Commons Speaker rebuked ministers because the decision had been briefed to j
 
 ## How much gas
 
-Shanks said Jackdaw would provide about 5% of UK gas production, 6% at its peak, with 27 direct jobs and 273 existing jobs safeguarded. He conceded the decision would not lower electricity bills. The shadow energy secretary, Andrew Bowie, said the field could heat 1.4 million homes and asked ministers to approve the Rosebank field next; Shanks said Rosebank was a separate process. The Green Party's Ellie Chowns accused the government of "pouring more fuel on the fire of climate breakdown".
+Shanks said Jackdaw would provide about **5% of UK gas production**, 6% at its peak, with 27 direct jobs and 273 existing jobs safeguarded. He conceded the decision would not lower electricity bills. The shadow energy secretary, Andrew Bowie, said the field could heat 1.4 million homes and asked ministers to approve the Rosebank field next; Shanks said Rosebank was a separate process. The Green Party's Ellie Chowns accused the government of "pouring more fuel on the fire of climate breakdown".

@@ -38,7 +38,7 @@ verification:
 
 US Representative Ilhan Omar says she will move out of her home in Washington DC after federal agents searched it last week, because the raid has left her feeling unsafe there.
 
-In a television interview, her first public comments on the search, the Minnesota Democrat said agents arrived at about 6 am and spent four or five hours inside. They left with 17 items, she said, including phones, notebooks and a vintage camera her husband had been given as a present. She described the agents as "intrusive but polite".
+In a television interview, her first public comments on the search, the Minnesota Democrat said agents arrived at about 6 am and spent four or five hours inside. They left with **17 items**, she said, including phones, notebooks and a vintage camera her husband had been given as a present. She described the agents as "intrusive but polite".
 
 A Justice Department spokesperson said the agents were executing a "judicially authorised search warrant" as part of an "ongoing federal criminal investigation". The department has not said what the investigation is about. Possible charges could include conspiracy and making false statements on immigration paperwork, according to one person familiar with the matter.
 

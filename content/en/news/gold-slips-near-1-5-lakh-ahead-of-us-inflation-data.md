@@ -21,7 +21,7 @@ hero:
     value: "Gold near ₹1.5 lakh per 10 g"
 related: [oil-jumps-after-saudi-airport-attacks-wall-street-mixed, rupee-near-97-as-crude-stays-above-100, festive-ecommerce-sales-24000-crore-first-two-days]
 seo:
-  description: "Gold prices today: MCX gold slipped towards ₹1.5 lakh per 10 grams on October 12, 2026, ahead of US inflation data; 24K gold ₹1,50,700 in Delhi."
+  description: "Gold prices: MCX gold slipped towards ₹1.5 lakh per 10 grams on October 12, 2026, ahead of US inflation data; 24K gold ₹1,50,700 in Delhi."
 sources:
   - title: "Gold, silver gain globally on easing inflation fears, trade lower on MCX"
     publisher: "Business Standard"
@@ -50,18 +50,18 @@ verification:
     - "Year highs (MCX gold Rs 1,80,779, Comex $5,586.20) from Business Standard only."
 ---
 
-Gold prices in India slipped on Monday as traders trimmed positions ahead of US inflation figures due this week, leaving the metal close to ₹1.5 lakh per 10 grams and well below the record it set earlier this year.
+Gold prices in India slipped on Monday as traders trimmed positions ahead of US inflation figures due this week, leaving the metal close to ₹1.5 lakh **per 10 grams** and well below the record it set earlier this year.
 
-December gold on the Multi Commodity Exchange traded near ₹1,50,845 per 10 grams in the afternoon, down ₹654 from the previous close. Silver fell ₹451 to about ₹2,25,300 a kilogram. In the physical market, 24-carat gold sold for ₹1,50,700 per 10 grams in Delhi, ₹1,50,960 in Mumbai and ₹1,51,400 in Chennai.
+December gold on the Multi Commodity Exchange traded near **₹1,50,845** per 10 grams in the afternoon, down ₹654 from the previous close. Silver fell ₹451 to about ₹2,25,300 a kilogram. In the physical market, 24-carat gold sold for ₹1,50,700 per 10 grams in Delhi, ₹1,50,960 in Mumbai and ₹1,51,400 in Chennai.
 
 ## Below the peak
 
-MCX gold is about 17% below the high of ₹1,80,779 it touched earlier in 2026, and silver is down by nearly half from its peak of ₹4,20,048.
+MCX gold is about **17%** below the high of ₹1,80,779 it touched earlier in 2026, and silver is down by nearly half from its peak of ₹4,20,048.
 
 Overseas prices had firmed early in the day after President Donald Trump said Russia had agreed to supply large quantities of diesel, which eased worries about fuel shortages and inflation. Ajay Kedia, director at Kedia Advisory, put the moves down to technical short covering. Open interest in both metals fell during the session.
 
-In global markets, spot gold later fell 0.42% to $4,177 an ounce as the dollar stayed firm and US bond yields held near their highest in more than two decades.
+In global markets, spot gold later fell **0.42%** to $4,177 an ounce as the dollar stayed firm and US bond yields held near their highest in more than two decades.
 
 ## Funds keep buying
 
-Demand from investment funds remains strong. Global holdings in gold-backed exchange-traded funds reached a record 4,256 tonnes, according to World Gold Council figures, after funds added 67.3 tonnes in September. Inflows for July-September totalled a record $31 billion. China's central bank added to its gold reserves in September for the 23rd month in a row.
+Demand from investment funds remains strong. Global holdings in gold-backed exchange-traded funds reached a **record 4,256 tonnes**, according to World Gold Council figures, after funds added 67.3 tonnes in September. Inflows for July-September totalled a record $31 billion. China's central bank added to its gold reserves in September for the 23rd month in a row.

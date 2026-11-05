@@ -42,7 +42,7 @@ verification:
     - "Haryana player credited with 92 and 6-27 named only as 'Sindhu' in the source, so not named here."
 ---
 
-Ayush Badoni had already made Gujarat suffer on Sunday. On Monday he kept going, turning his overnight hundred into 217 off 246 balls as Delhi piled up 648 for 6 declared in their Ranji Trophy Elite match at Palam.
+Ayush Badoni had already made Gujarat suffer on Sunday. On Monday he kept going, turning his overnight hundred into **217 off 246 balls** as Delhi piled up 648 for 6 declared in their Ranji Trophy Elite match at Palam.
 
 The Delhi captain's double century came a day after Priyansh Arya fell one short of 200, and it left Gujarat, unbeaten after the first round, with a mountain to climb. They closed on 98 for 2, still 550 behind, with two days left to save the match.
 
@@ -64,9 +64,9 @@ It was not all one-way traffic for batters. Harpreet Brar took 5 for 21 as Chhat
 
 Assam bowled Tripura out for 62 and enforced the follow-on. Tripura were 143 for 5 at stumps in their second innings, still 129 behind.
 
-Vidarbha also have a match in their grip. Ravikumar Samarth's 143 helped them past Jammu and Kashmir's 260, and J&K were 7 for 4 in their second innings, 38 runs short of making Vidarbha bat again.
+Vidarbha also have a match in their grip. Ravikumar Samarth's 143 helped them past Jammu and Kashmir's 260, and J&K were 7 for 4 in their second innings, **38 runs** short of making Vidarbha bat again.
 
-Haryana were the first side to finish. They beat Chandigarh by an innings and 24 runs in Rohtak with two days to spare.
+Haryana were the first side to finish. They beat Chandigarh by an **innings and 24 runs** in Rohtak with two days to spare.
 
 ## What to watch on day three
 

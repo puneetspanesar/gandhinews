@@ -39,12 +39,12 @@ verification:
     - "Nepali amounts given as NRs to avoid confusion with Indian rupees."
 ---
 
-More than 3,48,000 people have poured out of the Kathmandu Valley for the Bada Dashain festival, even as the government scrambles to help thousands of families whose homes were wrecked by this year's floods.
+More than **3,48,000 people** have poured out of the Kathmandu Valley for the Bada Dashain festival, even as the government scrambles to help thousands of families whose homes were wrecked by this year's floods.
 
 Deputy Superintendent Rabindra Khanal of the Kathmandu Valley Traffic Police said that many passengers left the valley between October 11 and 16. Daily departures climbed from 52,827 to 85,561 on October 15, and advance bookings had reached 1,53,732. Rajendra Acharya of the Federation of Nepal Transport Entrepreneurs said a highway cave-in at Galaudi in Dhading on October 9 had caused delays.
 
-The cabinet has approved temporary housing aid for flood and landslide victims in Gorkha, Dhading and Baglung: NRs 15,000 a month for a family of up to four, plus NRs 2,000 for each additional member, for up to six months. Prime Minister Balendra Shah said floods on August 26 and October 11 had damaged 7,570 private homes in Rasuwa, Nuwakot, Dhading, Gorkha and Chitwan, causing losses of about NRs 6,388 crore. A Building (Second Amendment) Bill registered on October 2 proposes model designs, safety checks on buildings at 50 and 65 years, and grants for poor families.
+The cabinet has approved temporary housing aid for flood and landslide victims in Gorkha, Dhading and Baglung: **NRs 15,000 a month** for a family of up to four, plus NRs 2,000 for each additional member, for up to six months. Prime Minister Balendra Shah said floods on August 26 and October 11 had damaged 7,570 private homes in Rasuwa, Nuwakot, Dhading, Gorkha and Chitwan, causing losses of about NRs 6,388 crore. A Building (Second Amendment) Bill registered on October 2 proposes model designs, safety checks on buildings at 50 and 65 years, and grants for poor families.
 
-Nepal Oil Corporation kept retail fuel prices unchanged despite cost adjustments by Indian Oil Corporation on October 15. Petrol and diesel stay at NRs 197.50 a litre and cooking gas at NRs 2,060 a cylinder, leaving the corporation with an estimated loss of NRs 345.8 crore a fortnight.
+Nepal Oil Corporation kept retail fuel prices unchanged despite cost adjustments by Indian Oil Corporation on October 15. Petrol and diesel stay at **NRs 197.50 a litre** and cooking gas at NRs 2,060 a cylinder, leaving the corporation with an estimated loss of NRs 345.8 crore a fortnight.
 
 For the festival season, Nepal Rastra Bank has raised the daily limit on deposit transactions for digital wallets such as eSewa and Khalti from 10 to 50, from October 17 to 25 and again from November 7 to 15 for Tihar and Chhath.

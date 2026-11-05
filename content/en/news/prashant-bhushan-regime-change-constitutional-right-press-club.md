@@ -44,6 +44,6 @@ BJP spokesperson Pradeep Bhandari had accused Rahul Gandhi earlier in the day of
 
 Bora, who was on the same platform, said journalists covering the protests against Chief Election Commissioner Gyanesh Kumar had their cameras snatched. She said a woman journalist who complained of sexual harassment by a police officer was then named in a counter-FIR. When ordinary people seek justice, she said, the police "support a particular political party and crack down on the public itself."
 
-Actor Prakash Raj turned to the Special Intensive Revision of electoral rolls. He alleged that Form 7, which is used to object to a name on the rolls, is being used for the "silent erasure" of Muslim voters, and said people in 23 districts of Karnataka who could not travel to Delhi had in effect been silenced.
+Actor Prakash Raj turned to the Special Intensive Revision of electoral rolls. He alleged that Form 7, which is used to object to a name on the rolls, is being used for the "silent erasure" of Muslim voters, and said people in **23 districts** of Karnataka who could not travel to Delhi had in effect been silenced.
 
 Rajya Sabha MP Kapil Sibal, SFI leader Aishe Ghosh and Telangana gig workers' union president Sheikh Salauddin also attended. The Election Commission has said that names left off the draft rolls are not final deletions.

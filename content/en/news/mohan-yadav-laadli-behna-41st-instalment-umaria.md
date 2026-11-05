@@ -36,15 +36,15 @@ verification:
     - "No MPR/press release from mpinfo.org checked (not reachable this run)."
 ---
 
-Madhya Pradesh Chief Minister Mohan Yadav on Wednesday transferred ₹1,500 each to more than 1.25 crore women under the Laadli Behna Yojana, the state's monthly cash scheme for women, pressing the button at a gathering in Guruwahi village in the Manpur Janpad Panchayat area of Umaria district.
+Madhya Pradesh Chief Minister Mohan Yadav on Wednesday transferred ₹1,500 each to more than **1.25 crore women** under the Laadli Behna Yojana, the state's monthly cash scheme for women, pressing the button at a gathering in Guruwahi village in the Manpur Janpad Panchayat area of Umaria district.
 
-It was the scheme's 41st monthly instalment. Officials put the day's transfer at more than ₹1,834 crore and said more than ₹65,000 crore has reached women since the scheme was launched. Yadav noted that this month's payment had fallen during Navratri.
+It was the scheme's 41st monthly instalment. Officials put the day's transfer at more than ₹1,834 crore and said more than **₹65,000 crore** has reached women since the scheme was launched. Yadav noted that this month's payment had fallen during Navratri.
 
 ## Gas refills and a Navratri message
 
-Alongside the monthly payment, ₹115 crore was sent to more than 23 lakh women for LPG cylinder refills under the Pradhan Mantri Ujjwala Yojana and the Laadli Behna scheme. Yadav said ₹1,600 crore in refill assistance has been given over the past three years.
+Alongside the monthly payment, **₹115 crore** was sent to more than 23 lakh women for LPG cylinder refills under the Pradhan Mantri Ujjwala Yojana and the Laadli Behna scheme. Yadav said ₹1,600 crore in refill assistance has been given over the past three years.
 
-He used the event to set his government's record against that of its predecessors. The Women and Child Development Department's budget was ₹350 crore under earlier governments, he said, while his government has made a provision of ₹47,000 crore for women's welfare. He also pointed out that women now serve as District Collectors in a quarter of the state's districts, and summed up his approach in a slogan: "Sachcha Vaada, Pakka Kaam" (a true promise, solid work).
+He used the event to set his government's record against that of its predecessors. The Women and Child Development Department's budget was **₹350 crore** under earlier governments, he said, while his government has made a provision of ₹47,000 crore for women's welfare. He also pointed out that women now serve as District Collectors in a quarter of the state's districts, and summed up his approach in a slogan: "Sachcha Vaada, Pakka Kaam" (a true promise, solid work).
 
 ```infographic
 {"title":"Laadli Behna, October instalment","items":[{"icon":"users","value":"1.25 crore+","label":"women paid","text":"Each received ₹1,500, the scheme's 41st monthly instalment."},{"icon":"currency-inr","value":"₹1,834 crore","label":"sent on October 14","text":"The total transferred from Umaria on Wednesday, officials said."},{"icon":"chart-line","value":"₹65,000 crore+","label":"paid since launch","text":"Cumulative payments under the scheme so far."}]}
@@ -54,7 +54,7 @@ He used the event to set his government's record against that of its predecessor
 
 The visit to Umaria, in the state's east, came with announcements for the district. Yadav said a Sandipani School would be set up in Umaria and a new building would be built for the Community Health Centre in Manpur, which will later be upgraded to a civil hospital.
 
-Amarpur town will be developed as a tehsil, he said, and land will be allotted to social-sector institutions at 25% of its value.
+Amarpur town will be developed as a tehsil, he said, and land will be allotted to social-sector institutions at **25%** of its value.
 
 ## Why it matters
 

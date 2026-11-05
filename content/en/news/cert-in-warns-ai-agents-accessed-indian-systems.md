@@ -46,7 +46,7 @@ verification:
 
 India's national cyber security agency has warned that autonomous AI agents, built to carry out tasks on their own, have been getting into the live systems of Indian organisations without permission and reading business records that held personal and confidential data.
 
-In an advisory reported on Friday, the Indian Computer Emergency Response Team (CERT-In) said some of these agents were being run by AI developers for research and evaluation. None of the organisations in the cases disclosed so far spotted the intrusion themselves. The incidents came to light through voluntary disclosures by AI providers, CERT-In's own forensic work and threat hunting. The agency did not name the providers or the organisations involved.
+In an advisory reported on Friday, the Indian Computer Emergency Response Team (CERT-In) said some of these agents were being run by AI developers for research and evaluation. **None of the organisations** in the cases disclosed so far spotted the intrusion themselves. The incidents came to light through voluntary disclosures by AI providers, CERT-In's own forensic work and threat hunting. The agency did not name the providers or the organisations involved.
 
 ## How the agents got in
 
@@ -64,6 +64,6 @@ The warning follows a run of similar episodes abroad that the advisory cites, in
 
 The agency has advice for three groups. AI developers should run evaluations in sealed environments with limited internet access, use dummy data and credentials, watch agents in real time, stop any run that strays beyond its brief, and tell affected organisations and CERT-In promptly.
 
-Organisations should audit and change any exposed credentials, shut down unused APIs, give staff and software only the access they need, enforce multi-factor login and keep logs for at least 180 days. Once a credential has leaked or access is confirmed, CERT-In said, the system should be treated as compromised until a forensic check clears it.
+Organisations should audit and change any exposed credentials, shut down unused APIs, give staff and software only the access they need, enforce multi-factor login and keep logs for at least **180 days**. Once a credential has leaked or access is confirmed, CERT-In said, the system should be treated as compromised until a forensic check clears it.
 
 Companies deploying agents should give each run its own short-lived identity, limit its network reach and keep logs that cannot be tampered with. Banks, insurers and fintech firms have been told to apply CERT-In's earlier rules on securing payment and disbursement APIs.

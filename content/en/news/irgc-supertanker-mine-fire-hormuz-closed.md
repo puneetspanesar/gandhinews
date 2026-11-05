@@ -50,7 +50,7 @@ verification:
     - "Al Jazeera also says three tankers reported hit since Friday; we list the ones we could describe."
 ---
 
-Iran's Revolutionary Guards said on Saturday that a supertanker carrying more than two million barrels of crude struck a naval mine in the Strait of Hormuz and burst into flames, and they repeated their warning that the waterway is closed to ships that do not follow Tehran's rules.
+Iran's Revolutionary Guards said on Saturday that a supertanker carrying **more than two million barrels of crude** struck a naval mine in the Strait of Hormuz and burst into flames, and they repeated their warning that the waterway is closed to ships that do not follow Tehran's rules.
 
 The Guards said the tanker had been trying to pass "illegally" along a route they had not authorised. Their statement said the ship "struck a mine, triggering an explosion and a fierce fire". It did not name the vessel, its flag or where in the strait it was hit, and there was no word on the crew. Iranian state media released footage of the fire.
 
@@ -58,7 +58,7 @@ Hours earlier, a tanker was attacked off the Saudi coast, deep inside the Gulf. 
 
 ## Indian crew safe
 
-Late on Friday, Shipping Minister Sarbananda Sonowal said 15 Indian seafarers aboard a crude oil tanker that was struck by a projectile in the Strait of Hormuz earlier that day were safe. The ship was not named.
+Late on Friday, Shipping Minister Sarbananda Sonowal said **15 Indian seafarers** aboard a crude oil tanker that was struck by a projectile in the Strait of Hormuz earlier that day were safe. The ship was not named.
 
 ## A week of attacks
 
@@ -70,6 +70,6 @@ Brent crude touched $110 a barrel on Friday, the first time since May. Crude flo
 
 Both sides insist they hold the strait. Brad Cooper, the head of US Central Command, said in a video message: "The Strait of Hormuz is controlled by the United States and our regional partners, not Iran." Washington says it has cleared the channel of mines and that ships are being hit by projectiles, not mines. The Guards say the strait is unsafe for any ship that does not coordinate with their Persian Gulf Strait Authority, a body set up during the war.
 
-Iran's acting defence minister, Majid Ibn Reza, said on Saturday that Iranian missiles, not American bombs, would decide how the war ends. Addressing Washington, he said: "Your bombs will explode elsewhere: in your global reputation, the US economy, and even your electoral calculations!" On Friday night, the army spokesman, Brigadier General Mohammad Akraminia, claimed US warships had been forced to stay more than 500 km from Iran's shores.
+Iran's acting defence minister, Majid Ibn Reza, said on Saturday that Iranian missiles, not American bombs, would decide how the war ends. Addressing Washington, he said: "Your bombs will explode elsewhere: in your global reputation, the US economy, and even your electoral calculations!" On Friday night, the army spokesman, Brigadier General Mohammad Akraminia, claimed US warships had been forced to stay more than **500 km** from Iran's shores.
 
 Pakistan and Qatar are still carrying messages between the two sides, but no breakthrough is in sight.

@@ -35,15 +35,15 @@ verification:
     - "Single source (TBS/UNB wire, 3:45 pm +06:00). Exact crash site not stated; Makueni County Commissioner Abdullahi Khalif cited (paraphrased: toll could rise). 'Through which a long stretch of the highway runs' is general background."
     - "Funeral detail hedged as 'reported'. No direct quotes in source."
 ---
-At least 22 people were killed on Sunday when a bus collided with a truck on the highway linking Nairobi with the port city of Mombasa, Kenya's main road artery, police said.
+At least **22 people were killed** on Sunday when a bus collided with a truck on the highway linking Nairobi with the port city of Mombasa, Kenya's main road artery, police said.
 
-Several others were injured and are being treated in hospital. The passengers were reported to have been returning from a funeral when the crash happened.
+Several others were injured and are being treated in hospital. The passengers were reported to have been **returning from a funeral** when the crash happened.
 
 Abdullahi Khalif, the commissioner of Makueni County, through which a long stretch of the highway runs, warned that the death toll could rise. Police did not give the cause of the collision, and no victims have been named.
 
 Kenya's National Transport and Safety Authority said the section of road where the crash took place is designated an "accident black spot", and that recommendations had already been made to deal with the safety problems there.
 
-The crash came three weeks after another on the same highway killed 17 people.
+The crash came three weeks after another on the same highway killed **17 people**.
 
 Speeding and poor road conditions have often been blamed for crashes on Kenyan roads, though officials have not said whether either played a part on Sunday.
 

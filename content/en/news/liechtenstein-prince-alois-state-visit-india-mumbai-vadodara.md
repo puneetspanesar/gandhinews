@@ -5,7 +5,7 @@ type: news
 section: policy
 format_label: "Policy / Diplomacy"
 topics: []
-title: "Liechtenstein's Hereditary Prince Alois begins state visit, with Vadodara today and Modi talks on Tuesday"
+title: "Liechtenstein's Hereditary Prince Alois begins state visit, with Vadodara on October 26 and Modi talks on October 27"
 standfirst: "Liechtenstein's acting head of state was due in Mumbai on Sunday night for a four-day visit that the MEA links to the India-EFTA trade pact now in force."
 published: 2026-10-25T20:00:00+05:30
 updated: 2026-10-26T05:20:00+05:30
@@ -56,7 +56,7 @@ verification:
     - "MEA website not checked (fetch budget); PIB pages could not be fetched."
 ---
 
-Hereditary Prince Alois of Liechtenstein, the principality's acting head of state, was due in Mumbai late on Sunday night at the start of a four-day state visit to India, his second trip to the country this year.
+Hereditary Prince Alois of Liechtenstein, the principality's acting head of state, was due in Mumbai late on Sunday night at the start of a **four-day state visit** to India, his second trip to the country this year.
 
 He is accompanied by his wife, Hereditary Princess Sophie, and by an official and business delegation that includes several industry leaders. The visit, from October 25 to 28, is at the invitation of Prime Minister Narendra Modi.
 
@@ -74,10 +74,10 @@ The MEA tied the visit squarely to the India-EFTA Trade and Economic Partnership
 
 "The visit is expected to provide further impetus to the growing engagement between India and Liechtenstein, particularly since the operationalisation of India-EFTA Trade and Economic Partnership Agreement in 2025," the ministry said. It added that the trip would "further deepen the friendly ties" between the two countries and help "build partnerships in new areas of mutual interest."
 
-TEPA was signed in March 2024 after close to 16 years of negotiation and came into force in October 2025. Under it, the EFTA states have held out the prospect of US$100 billion of investment in India over 15 years.
+TEPA was signed in March 2024 after close to 16 years of negotiation and came into force in October 2025. Under it, the EFTA states have held out the prospect of **US$100 billion** of investment in India over 15 years.
 
 ## A familiar visitor
 
-India and Liechtenstein set up diplomatic relations in 1993, and marked 30 years of ties in 2023. India's ambassador to Switzerland is also accredited to Liechtenstein.
+India and Liechtenstein set up diplomatic relations in 1993, and marked **30 years** of ties in 2023. India's ambassador to Switzerland is also accredited to Liechtenstein.
 
 The prince knows the country. He came to New Delhi in February for the AI Impact Summit, where he met Modi on the sidelines, and had visited India in 2010 and 2018.

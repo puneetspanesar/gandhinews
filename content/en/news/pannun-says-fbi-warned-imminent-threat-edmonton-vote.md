@@ -47,7 +47,7 @@ Pannun used the warning to question Canada's renewed engagement with India under
 
 ## The Gupta case
 
-Pannun has been a target before. In February, Nikhil Gupta, a 54-year-old Indian national, pleaded guilty in a US federal court to plotting to have him killed in New York. Gupta admitted to murder-for-hire, conspiracy to commit murder-for-hire and conspiracy to commit money laundering.
+Pannun has been a target before. In February, Nikhil Gupta, a 54-year-old Indian national, **pleaded guilty** in a US federal court to plotting to have him killed in New York. Gupta admitted to murder-for-hire, conspiracy to commit murder-for-hire and conspiracy to commit money laundering.
 
 US prosecutors say he acted on the instructions of Vikash Yadav, whom they describe as an Indian government employee. The man Gupta approached to arrange the killing was working with US law enforcement, and the plot was stopped before anyone was hurt. India has denied any involvement in violence against Sikh activists abroad.
 

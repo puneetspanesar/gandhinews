@@ -52,7 +52,7 @@ He said India could learn from Rotterdam's experience in running world-class por
 
 Goyal pointed to Sagarmala, the government's programme for upgrading ports and maritime connectivity, as the main vehicle for the expansion, and said he had full confidence in India's maritime plans under Prime Minister Narendra Modi.
 
-He also announced a maritime institute of excellence in his Mumbai constituency, which he described as a university to train seafarers for global shipping. He gave no date or cost for it.
+He also announced a **maritime institute of excellence** in his Mumbai constituency, which he described as a university to train seafarers for global shipping. He gave no date or cost for it.
 
 Describing India as the world's fastest-growing large economy, he said the country met high standards of quality, efficiency and productivity, but should always aim for more.
 

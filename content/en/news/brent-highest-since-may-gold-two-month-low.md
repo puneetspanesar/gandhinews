@@ -53,18 +53,18 @@ verification:
     - "Brent up more than 50% since war began in late February: Yahoo."
 ---
 
-Oil prices jumped on Thursday, with Brent crude rising above $113 a barrel for the first time since May, as attacks on Saudi Arabia and fresh signs of a wider conflict with Iran rattled a market already short of supply.
+Oil prices jumped on Thursday, with Brent crude rising above **$113 a barrel** for the first time since May, as attacks on Saudi Arabia and fresh signs of a wider conflict with Iran rattled a market already short of supply.
 
 US West Texas Intermediate crude climbed to about $100 a barrel, also its highest since May. Brent has now risen by more than half since the war with Iran began in late February.
 
-Two developments drove the move. Saudi Arabia reported attacks on the airport at Dammam and on an Aramco oil field, the latest in a series of strikes by Yemen's Houthi rebels on the kingdom. A New York Times report that the United States and Israel had drawn up plans for renewed strikes on Iran after the November 3 US midterm elections added to fears of a longer disruption. President Donald Trump also denied that Washington was in talks with Tehran.
+Two developments drove the move. Saudi Arabia reported attacks on the airport at Dammam and on an Aramco oil field, the latest in a series of strikes by Yemen's Houthi rebels on the kingdom. A report that the United States and Israel had drawn up plans for renewed strikes on Iran after the November 3 US midterm elections added to fears of a longer disruption. President Donald Trump also denied that Washington was in talks with Tehran.
 
 "Brent crude surged 3 per cent following attacks on Saudi Aramco's oilfield," said Sunny Aggrawal, head of fundamental research at SBI Securities.
 
 ## Gold loses its shine
 
-Precious metals moved the other way. Gold fell about 2.1% to around $4,061 an ounce, its lowest in more than two months, and silver dropped about 4.5% to near $55. Traders reasoned that a lasting oil shock would push up inflation and keep central banks from cutting interest rates, which hurts metals that pay no interest.
+Precious metals moved the other way. Gold fell about **2.1%** to around $4,061 an ounce, its lowest in more than two months, and silver dropped about 4.5% to near $55. Traders reasoned that a lasting oil shock would push up inflation and keep central banks from cutting interest rates, which hurts metals that pay no interest.
 
 ## The cost for India
 
-India imports most of its crude, and each rise in Brent widens its import bill and adds to inflation, which reached 5.54% in September. The rupee fell 44 paise to 94.82 to the dollar on Thursday, and dealers warned that a move in crude towards $120 could push it lower still.
+India imports most of its crude, and each rise in Brent widens its import bill and adds to inflation, which reached **5.54%** in September. The rupee fell 44 paise to 94.82 to the dollar on Thursday, and dealers warned that a move in crude towards $120 could push it lower still.

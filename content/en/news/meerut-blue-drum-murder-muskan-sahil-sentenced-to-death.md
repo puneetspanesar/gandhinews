@@ -49,13 +49,13 @@ verification:
 
 A court in Meerut on Wednesday sentenced Muskan Rastogi and Sahil Shukla to death for the murder of her husband, merchant navy officer Saurabh Rajput, in a case that shocked Uttar Pradesh and became known across the country as the "blue drum" murder.
 
-District Judge Arvind Kumar Mishra, who had convicted the pair on September 30, handed down the sentence after a trial that ran to 126 hearings and heard 22 witnesses. Both were found guilty of murder and of hiding the body. The court also fined them ₹50,000 on the murder charge and ₹20,000 on the second count.
+District Judge Arvind Kumar Mishra, who had convicted the pair on September 30, handed down the sentence after a trial that ran to 126 hearings and heard 22 witnesses. Both were found guilty of murder and of hiding the body. The court also fined them **₹50,000** on the murder charge and ₹20,000 on the second count.
 
 ## What happened in March 2025
 
 The prosecution's case was that on March 3, 2025, Rastogi laced her husband's food with a sedative. Shukla then came to the house, and the two stabbed Rajput, cut up his body and sealed the parts in a blue plastic drum which they filled with wet cement.
 
-A case was registered on March 17, 2025, and both were sent to Meerut jail two days later. The trial moved to the district judge's court in July 2025, and arguments went on for about 13 months.
+A case was registered on March 17, 2025, and both were sent to Meerut jail two days later. The trial moved to the district judge's court in July 2025, and arguments went on for about **13 months**.
 
 ## How the case was proved
 

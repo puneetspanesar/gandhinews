@@ -37,9 +37,9 @@ verification:
     - "Article 16(4) public employment context per source."
 ---
 
-The Supreme Court on Thursday dismissed the Tamil Nadu government's appeal against a Madras High Court ruling that struck down a 2024 order allowing people who convert to Islam to obtain Backward Class Muslim community certificates.
+The Supreme Court on Thursday dismissed the Tamil Nadu government's appeal against a Madras High Court ruling that struck down a 2024 order allowing people who convert to Islam to obtain **Backward Class Muslim** community certificates.
 
-A bench of Justices Prashant Kumar Mishra and Shree Chandrashekhar held that religious conversion does not, on its own, make a person eligible to be counted in a different notified backward class community. A convert "doesn't become a member of one of the seven notified backward class social communities in the State", the court said, simply by changing religion.
+A bench of Justices Prashant Kumar Mishra and Shree Chandrashekhar held that religious conversion **does not**, on its own, make a person eligible to be counted in a different notified backward class community. A convert "doesn't become a member of one of the seven notified backward class social communities in the State", the court said, simply by changing religion.
 
 The state's order of March 2024 covered converts from the Backward Classes, Most Backward Classes, Denotified Communities and Scheduled Castes, and let them obtain certificates under the seven Muslim communities recognised as backward in Tamil Nadu.
 

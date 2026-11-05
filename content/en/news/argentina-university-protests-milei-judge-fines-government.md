@@ -38,7 +38,7 @@ verification:
 
 Students at Argentina's biggest public university have taken over one of its faculties, as a mass march in Buenos Aires against President Javier Milei's spending cuts ended in clashes with police.
 
-Thousands of people filled the centre of the capital on Thursday to demand that the government carry out a law raising funding for public universities, and called for a general strike. The protest was meant to be peaceful but turned violent: police fired tear gas and rubber bullets as protesters threw rocks, and the square in front of Congress became a battleground. At least 25 people were detained and several were injured, including members of the security forces.
+Thousands of people filled the centre of the capital on Thursday to demand that the government carry out a law raising funding for public universities, and called for a general strike. The protest was meant to be peaceful but turned violent: police fired tear gas and rubber bullets as protesters threw rocks, and the square in front of Congress became a battleground. At least **25 people were detained** and several were injured, including members of the security forces.
 
 ## A law not followed
 
@@ -52,4 +52,4 @@ At the University of Buenos Aires faculty of exact and natural sciences, student
 
 "Our best professors are leaving en masse. With salaries that cannot cover their basic needs, they are leaving for private universities," said Emiliano Gato, a physics student. Chemistry professor Maria Teresa de Jesus, who said she earns about $700 a month, joined Thursday's march. "I have come to this protest as a last resort. I am professor. I love teaching, doing research. I shouldn't be here," she said.
 
-Milei, in office since 2023, says his austerity plan is working. Monthly inflation has fallen to around 2%. "Argentina is growing at a remarkable pace. We have now recorded 27 consecutive months of sustained growth," he said on a recent visit to Washington.
+Milei, in office since 2023, says his austerity plan is working. Monthly inflation has fallen to around **2%**. "Argentina is growing at a remarkable pace. We have now recorded 27 consecutive months of sustained growth," he said on a recent visit to Washington.

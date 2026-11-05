@@ -10,7 +10,7 @@ standfirst: "Her 83-ball century against Zimbabwe was the fifth fastest by an In
 published: 2026-10-25T22:30:00+05:30
 location: Vadodara
 keyPoints:
-  - "Deepti Sharma's unbeaten 106 was the **first ODI hundred by an Indian woman batting at six or lower**."
+  - "Deepti Sharma's unbeaten 106 was the **first ODI hundred by an Indian woman** batting at six or lower."
   - "Harmanpreet Kaur's 126 was her **eighth ODI century**, one more than Mithali Raj."
   - "Vaishnavi Sharma took **four wickets in her second ODI**."
 hero:
@@ -47,15 +47,15 @@ verification:
     - "Partnership 153 (Hawk, India.com) vs 155 (NewsBytes); used 153."
 ---
 
-Deepti Sharma's unbeaten 106 against Zimbabwe in Vadodara on Sunday was the first one-day international hundred by an Indian woman batting at No. 6 or lower, on a day when India's batters rewrote several of their own records.
+Deepti Sharma's unbeaten 106 against Zimbabwe in Vadodara on Sunday was the first one-day international **hundred by an Indian woman** batting at No. 6 or lower, on a day when India's batters rewrote several of their own records.
 
 The previous best from that position was Richa Ghosh's 94. Deepti reached her century in 83 balls, the fifth fastest by an Indian woman in ODIs, and finished on 106 off 86 balls with 15 fours. It was only her second ODI hundred and her first at home.
 
-She also took 3 for 32 as India won by 121 runs. She now has 2,877 ODI runs and 171 wickets.
+She also took 3 for 32 as India won by **121 runs**. She now has 2,877 ODI runs and 171 wickets.
 
 ## Harmanpreet moves ahead of Mithali
 
-Harmanpreet Kaur's 126 off 121 balls was her eighth ODI hundred, taking her past the seven scored by Mithali Raj. She has 4,667 ODI runs at an average of 37.94, with 24 fifties, and four of her hundreds have come in India.
+Harmanpreet Kaur's 126 off 121 balls was her **eighth ODI** hundred, taking her past the seven scored by Mithali Raj. She has 4,667 ODI runs at an average of 37.94, with 24 fifties, and four of her hundreds have come in India.
 
 Together, Harmanpreet and Deepti added 153 for the fifth wicket, India's highest stand for the fifth wicket or lower in women's ODIs. The previous mark was 122 by Sneh Rana and Pooja Vastrakar against Pakistan at the 2022 World Cup.
 

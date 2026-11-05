@@ -46,7 +46,7 @@ Keralam Chief Minister V D Satheesan and former Finance Minister K N Balagopal h
 
 ## What the Chief Minister said
 
-Speaking in the Assembly, Satheesan said the previous Left Democratic Front (LDF) government had left behind DA and DR arrears of about ₹36,000 crore. He said the LDF did not constitute a pay commission during its 2021-2026 term, delaying the revision by two years, and issued the order for the 12th Pay Revision Commission only in February, just before the Assembly elections.
+Speaking in the Assembly, Satheesan said the previous Left Democratic Front (LDF) government had left behind DA and DR arrears of about **₹36,000 crore**. He said the LDF did not constitute a pay commission during its 2021-2026 term, delaying the revision by two years, and issued the order for the 12th Pay Revision Commission only in February, just before the Assembly elections.
 
 He also accused the earlier government of repeatedly postponing leave surrender payments since 2021.
 
@@ -58,7 +58,7 @@ He also accused the earlier government of repeatedly postponing leave surrender 
 
 Balagopal, a CPI(M) leader who was Finance Minister in the LDF government, answered in a Facebook post. He said the LDF had started the process well before its term ended and had made provisions to pay the arrears.
 
-He set out the steps: an order on February 23, 2026, appointing the 12th Pay Revision Commission, terms of reference on March 5 that fixed July 1, 2024, as the effective date of the revision, appointment of the commission's staff on March 24, and a questionnaire to employees in early May. He said the 2026 Budget had set aside an additional ₹12,000 crore for the pay revision and the first instalments of DA arrears, to be paid in eight instalments.
+He set out the steps: an order on February 23, 2026, appointing the 12th Pay Revision Commission, terms of reference on March 5 that fixed July 1, 2024, as the effective date of the revision, appointment of the commission's staff on March 24, and a questionnaire to employees in early May. He said the 2026 Budget had set aside an additional **₹12,000 crore** for the pay revision and the first instalments of DA arrears, to be paid in eight instalments.
 
 Balagopal accused the new government of putting the process at risk by not extending the commission's deadline. He defended the LDF's handling of leave surrender, under which low-paid employees were paid in cash while the benefit for higher-paid staff was credited to their Provident Fund accounts. He called the government's attempt to shift blame "an act of political bankruptcy."
 
@@ -66,6 +66,6 @@ Balagopal accused the new government of putting the process at risk by not exten
 
 The exchange comes as the Congress-led United Democratic Front (UDF) government, in office since May 18, promotes its record under the banner "A Government with the People, Transforming Keralam", organised around 12 themes.
 
-Among the dues it says it has started to clear are ₹310 crore in pending scholarships for backward-class students, ₹200 crore towards old liabilities of the Health Department and ₹32 crore to settle welfare pension arrears for expatriates. It has also announced a health insurance scheme with cover of up to ₹25 lakh, alongside free KSRTC bus travel for women and payments owed to paddy farmers.
+Among the dues it says it has started to clear are **₹310 crore** in pending scholarships for backward-class students, ₹200 crore towards old liabilities of the Health Department and ₹32 crore to settle welfare pension arrears for expatriates. It has also announced a health insurance scheme with cover of up to ₹25 lakh, alongside free KSRTC bus travel for women and payments owed to paddy farmers.
 
 Salary and pension dues are among the heaviest calls on the state's finances, and the pay commission's work will decide how much more the government must find. Neither side has given a date for the commission's report.

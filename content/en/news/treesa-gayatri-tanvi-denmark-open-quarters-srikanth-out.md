@@ -58,7 +58,7 @@ verification:
 
 Treesa Jolly and Gayatri Gopichand knocked out Indonesia's fifth seeds and Tanvi Sharma beat the player who ended PV Sindhu's tournament, giving India two quarter-finalists at the Denmark Open in Odense on Thursday.
 
-On a day that began with India's best-known names already gone, the women's doubles pair produced the result of the week. Treesa and Gayatri, ranked 18th in the world, beat Rachel Allessya Rose and Febi Setianingrum 21-16, 21-17 in 45 minutes. They trailed 9-11 at the first-game interval before pulling away, and held their nerve through a tight second game.
+On a day that began with India's best-known names already gone, the women's doubles pair produced the result of the week. Treesa and Gayatri, ranked 18th in the world, beat Rachel Allessya Rose and Febi Setianingrum **21-16, 21-17** in 45 minutes. They trailed 9-11 at the first-game interval before pulling away, and held their nerve through a tight second game.
 
 It was their second comeback of the tournament. On Wednesday they had been 11-15 down in the opening game against Chinese Taipei's Yan Fei Chen and Hsieh Pei Shan before winning 22-20, 21-14. Hsieh is ranked 12th in the world in doubles.
 
@@ -68,7 +68,7 @@ Next they meet Malaysia's Pearly Tan and Thinaah Muralitharan for a place in the
 
 Tanvi beat Germany's Yvonne Li 21-17, 21-19 in women's singles. Li had beaten Sindhu 13-21, 25-23, 21-19 in the opening round on Tuesday, and Tanvi, who also had the better of their only previous meeting, kept her calm when the second game tightened.
 
-Her reward is the hardest draw in the sport: a quarter-final against South Korea's world No. 1, An Se Young.
+Her reward is the hardest draw in the sport: a quarter-final against South Korea's **world No. 1**, An Se Young.
 
 ## Srikanth lets it slip
 

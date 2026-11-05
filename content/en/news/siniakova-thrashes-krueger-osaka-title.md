@@ -35,9 +35,9 @@ verification:
     - "Single source (Tennis Majors). Rankings (Siniakova 86 singles, Krueger 55), 205 weeks at doubles No. 1, 15-18 record, route to final all from it. No quotes available."
 ---
 
-Katerina Siniakova lost just one game on Sunday as she beat Ashlyn Krueger 6-1, 6-0 in the final of the Japan Open in Osaka, winning a tournament where she had finished runner-up a decade ago.
+Katerina Siniakova lost just one game on Sunday as she beat Ashlyn Krueger **6-1, 6-0** in the final of the Japan Open in Osaka, winning a tournament where she had finished runner-up a decade ago.
 
-The 68-minute win gave the Czech her sixth singles title and her first since Nanchang in 2023. She is also the first player from the Czech Republic to win the WTA 250 event. In 2016 she reached the Osaka final and lost to Christina McHale 3-6, 6-4, 6-4.
+The 68-minute win gave the Czech her **sixth singles title** and her first since Nanchang in 2023. She is also the first player from the Czech Republic to win the WTA 250 event. In 2016 she reached the Osaka final and lost to Christina McHale 3-6, 6-4, 6-4.
 
 Siniakova is far better known for her doubles. She is the world No. 1 in that format and has spent 205 weeks at the top of the doubles rankings, a total bettered only by Martina Navratilova's 237. In singles she is ranked 86th, and she arrived in Osaka with a losing record of 15 wins and 18 defeats this season.
 

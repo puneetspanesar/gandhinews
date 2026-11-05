@@ -62,27 +62,27 @@ verification:
     - "Deccan Chronicle's report that rate changes will now be made once a year is single-source and not in the release; left out."
 ---
 
-The GST Council has recommended taking away the power of GST officers to arrest taxpayers and raising the threshold for criminal prosecution from ₹1 crore to ₹5 crore. The 57th meeting, held on October 8, 2026, at Bharat Mandapam in New Delhi and chaired by Finance Minister Nirmala Sitharaman, kept the tax slabs unchanged and concentrated on enforcement and compliance.
+The GST Council has recommended taking away the power of GST officers to arrest taxpayers and raising the threshold for criminal prosecution from **₹1 crore** to ₹5 crore. The 57th meeting, held on October 8, 2026, at Bharat Mandapam in New Delhi and chaired by Finance Minister Nirmala Sitharaman, kept the tax slabs unchanged and concentrated on enforcement and compliance.
 
-The meeting was the Council's first since the 56th meeting in September 2025, which approved the move to a two-rate structure of 5% and 18%.
+The meeting was the Council's first since the 56th meeting in September 2025, which approved the move to a two-rate structure of **5%** and 18%.
 
 ## What the Council recommended on enforcement
 
 The official release says the Council recommended "complete withdrawal of arrest powers under GST by omission of section 69 of CGST Act, 2017". Because this means deleting a section of the law, it needs Parliament and state legislatures to amend their GST Acts before it takes effect.
 
-Prosecution is narrowed as well as made rarer. Apart from the higher ₹5 crore threshold, the release proposes dropping some offences from section 132(1) of the CGST Act and limiting the fake-credit offence to cases where input tax credit is taken without receiving goods, services or an invoice.
+Prosecution is narrowed as well as made rarer. Apart from the higher **₹5 crore** threshold, the release proposes dropping some offences from section 132(1) of the CGST Act and limiting the fake-credit offence to cases where input tax credit is taken without receiving goods, services or an invoice.
 
 > Business has to be trusted. Taxpayers have to be trusted.
 >
-> Source: Nirmala Sitharaman, Union Finance Minister, at the post-meeting briefing on October 8, 2026, as reported by Deccan Chronicle
+> Source: Nirmala Sitharaman, Union Finance Minister, at the post-meeting briefing on October 8, 2026
 
 Taxscan reported the Finance Minister as saying that prosecution would continue where there is criminality.
 
 ## Smaller demands, smaller penalties
 
-No show cause notice would be issued where the total tax at stake (central, state and integrated GST plus cess) is below ₹10,000. Pending notices under that amount would be decided as if the threshold had applied when they were issued.
+No show cause notice would be issued where the total tax at stake (central, state and integrated GST plus cess) is below **₹10,000**. Pending notices under that amount would be decided as if the threshold had applied when they were issued.
 
-The general penalty under section 125, which applies where no specific penalty is set, would fall from ₹25,000 to ₹10,000. In cases without fraud, the penalty would drop to 5% if tax and interest are paid within 30 or 60 days of the order, depending on the section.
+The general penalty under section 125, which applies where no specific penalty is set, would **fall from ₹25,000 to ₹10,000**. In cases without fraud, the penalty would drop to 5% if tax and interest are paid within 30 or 60 days of the order, depending on the section.
 
 ```facts
 {"title":"57th GST Council: key thresholds","items":[{"value":"₹5 crore","label":"proposed prosecution threshold, up from ₹1 crore","source":"GST Council release, Oct 8, 2026"},{"value":"₹10,000","label":"minimum tax at stake before a show cause notice","source":"GST Council release"},{"value":"90%","label":"of zero-rated and inverted-duty refund claims to be sanctioned automatically and provisionally","source":"GST Council release"},{"value":"Nov 1, 2026","label":"input services credit becomes refundable under the inverted duty structure","source":"GST Council release"}]}
@@ -100,10 +100,10 @@ The Council also recommended removing restrictions on input tax credit for healt
 
 The release says process reform was the focus. The few rate decisions were item-specific: psyllium seeds move to NIL, passenger transport and rental by electric vehicles with operators gets an optional 5% rate with restricted credit, and delivery services through e-commerce operators are taxed at 5% without credit.
 
-Prime Minister Narendra Modi welcomed the recommendations in a post on X: "The focus is clear: faster decisions, lower compliance costs, automated refunds and trust-based administration," as quoted by Deccan Chronicle.
+Prime Minister Narendra Modi welcomed the recommendations in a post on X: "The focus is clear: faster decisions, lower compliance costs, automated refunds and trust-based administration."
 
 ## What happens next
 
-The release states that the recommendations "would be given effect through the relevant circulars/ notifications/ law amendments", and that only those carry the force of law. According to Deccan Chronicle and Taxscan, Sitharaman said the agenda items would be implemented from April 1, 2027.
+The release states that the recommendations "would be given effect through the relevant circulars/ notifications/ law amendments", and that only those carry the force of law. Sitharaman said the agenda items would be implemented from April 1, 2027.
 
-The meeting came as collections stayed strong. Gross GST revenue in September 2026 was about ₹2.04 lakh crore, up 14.7% on a year earlier, according to provisional data reported by Business Today.
+The meeting came as collections stayed strong. Gross GST revenue in September 2026 was about ₹2.04 lakh crore, up 14.7% on a year earlier, according to provisional data.

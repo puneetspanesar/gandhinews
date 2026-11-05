@@ -35,13 +35,13 @@ verification:
     - "Single source: PTI via ThePrint, 7:50 pm. No motive, suspects or injuries reported; none implied."
 ---
 
-Police in Himachal Pradesh have launched a manhunt after unidentified gunmen fired about four shots outside a house in Buta Palasi village in Solan district on the night of October 23.
+Police in Himachal Pradesh have launched a manhunt after unidentified gunmen fired about **four shots** outside a house in Buta Palasi village in Solan district on the night of October 23.
 
 Manpreet Singh, who lives in the house, told police he was indoors when he heard the shots. He said two of the bullets struck his vehicle, which was parked outside, and the other two were fired into the air. Police recovered four empty cartridge cases from the spot.
 
 Nobody was reported hurt, and police have not said who might have fired the shots or why.
 
-Baddi Superintendent of Police Vinod Dhiman said a case had been registered under the Arms Act and that officers were checking footage from CCTV cameras at the house and in the surrounding area.
+Baddi Superintendent of Police Vinod Dhiman said a case had been registered under the **Arms Act** and that officers were checking footage from CCTV cameras at the house and in the surrounding area.
 
 "Police teams have also been formed to trace the possible whereabouts of the accused and make arrests," he said.
 

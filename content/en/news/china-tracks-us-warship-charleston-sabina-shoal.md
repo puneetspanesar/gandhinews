@@ -35,7 +35,7 @@ verification:
     - "Single source (Reuters via ThePrint, 11:30 am IST). Hull type/designation of Charleston not given; not stated. US Navy had not responded. 'More than a year' since last known US FONOP in SCS from Reuters."
 ---
 
-China's military said on Tuesday that a US warship had "illegally intruded" into waters next to Sabina Shoal in the South China Sea, and that it had sent naval forces to track and monitor the ship.
+China's military said on Tuesday that a US warship had "illegally intruded" into waters next to **Sabina Shoal** in the South China Sea, and that it had sent naval forces to track and monitor the ship.
 
 The People's Liberation Army's Southern Theatre Command said the Charleston entered the waters in the Spratly Islands in the early hours of Tuesday without the approval of the Chinese government. The US action "infringes upon China's sovereign rights and interests" and endangers maritime security, the command said, adding that Washington "should immediately cease such activities".
 
@@ -43,7 +43,7 @@ The US Navy did not immediately respond. Washington usually describes such passa
 
 ## A flashpoint with Manila
 
-Sabina Shoal is claimed by both China and the Philippines, a US treaty ally, and has become one of the tensest spots in the sea. Last month a China Coast Guard vessel rammed a Philippine boat on a refuelling mission near the shoal.
+Sabina Shoal is claimed by both China and the Philippines, a US treaty ally, and has become one of the tensest spots in the sea. Last month a China Coast Guard vessel **rammed a Philippine boat** on a refuelling mission near the shoal.
 
 China claims almost all of the South China Sea. Brunei, Malaysia, the Philippines, Taiwan and Vietnam have overlapping claims.
 

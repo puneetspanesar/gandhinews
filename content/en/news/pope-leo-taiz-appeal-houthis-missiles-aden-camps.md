@@ -61,10 +61,10 @@ Pope Leo XIV has appealed for an end to the fighting in Yemen, drawing attention
 
 "The population is suffering from a lack of food, water and medical care," the pope wrote on social media on Sunday.
 
-Taiz, Yemen's third-largest city, is surrounded by Houthi forces. Families have started rationing water, and shortages of groceries have driven prices sharply higher. The UN said last week that nearly 260,000 people had been displaced by the fighting around Taiz since August, as government forces backed by the Saudi-led coalition push a counteroffensive against the Houthis.
+Taiz, Yemen's third-largest city, is surrounded by Houthi forces. Families have started **rationing water**, and shortages of groceries have driven prices sharply higher. The UN said last week that nearly 260,000 people had been displaced by the fighting around Taiz since August, as government forces backed by the Saudi-led coalition push a counteroffensive against the Houthis.
 
 On the same day, Yemen's Saudi-backed government said the Houthis had fired three ballistic missiles at camps for displaced people in Ras Imran, on the outskirts of the southern port city of Aden. No casualties were reported, and the Houthis did not immediately comment.
 
 The attacks inside Yemen came alongside a fresh Houthi barrage on Saudi Arabia. Saudi forces said they shot down a ballistic missile and a drone aimed at Riyadh and 10 ballistic missiles fired at the south of the kingdom on Sunday, as the capital's airport reopened after two weeks. The Houthis, who are backed by Iran, say they are responding to Saudi attacks on Sanaa.
 
-The US embassy in Riyadh, meanwhile, barred American government staff from going within 20 miles (32 km) of the Yemen border, and told them to seek special clearance to travel to the border provinces of Jizan and Najran.
+The US embassy in Riyadh, meanwhile, barred American government staff from going within 20 miles (**32 km**) of the Yemen border, and told them to seek special clearance to travel to the border provinces of Jizan and Najran.

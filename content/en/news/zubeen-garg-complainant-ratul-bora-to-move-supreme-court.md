@@ -41,7 +41,7 @@ verification:
     - "Accused list and Shyamkanu Mahanta as prime accused/festival organiser from site's earlier story. Source says Garg died on September 19 'last year' (2025) in Singapore while swimming; English spelling Sandipan follows the site's earlier story. Bhasha copy's relationship wording is ambiguous; earlier story (Sandipan = cousin, Amritprabha bail Oct 9) followed."
 ---
 
-Ratul Bora, the lawyer who filed the first police complaint after singer Zubeen Garg's death, said on Saturday that he would go to the Supreme Court against the Gauhati High Court's decision to grant bail to two of the seven accused.
+Ratul Bora, the lawyer who filed the first police complaint after singer Zubeen Garg's death, said on Saturday that he would go to the Supreme Court against the Gauhati High Court's decision to grant bail to **two of the seven accused**.
 
 Speaking to reporters in Morigaon, Bora blamed the state police's charge sheet. "Because of flaws in the police charge sheet, the accused in this case are getting bail one after another," he said.
 

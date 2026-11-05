@@ -22,7 +22,7 @@ hero:
     value: "AI campuses beside a city reservoir"
 related: []
 seo:
-  description: "AdaniConneX's Vizag data centres for Google's AI hub will use air cooling and limit freshwater use, amid concerns over the Mudasarlova Reservoir and Kambalakonda sanctuary."
+  description: "AdaniConneX's Vizag data centres for Google's AI hub will use air cooling and limit freshwater use, after concerns were raised over the Mudasarlova Reservoir and Kambalakonda sanctuary."
 sources:
   - title: "AdaniConneX's Vizag data centres to use air cooling, limit freshwater use"
     publisher: "Business Standard (PTI)"
@@ -42,8 +42,8 @@ AdaniConneX, a joint venture of Adani Enterprises and the US firm EdgeConneX, is
 
 The campuses will use "air-cooled systems to eliminate the need for water-based evaporative cooling", doing away with the cooling towers that make many data centres heavy water users. Google has said it "plans to use advanced air-cooling technology" at the site.
 
-People with knowledge of the plans say freshwater consumption across three sites will be less than the volume of an Olympic-sized swimming pool, with about 80% of it going to landscaping, kitchens and facilities for workers. The campuses will draw from dedicated industrial water connections rather than municipal supply. Domestic wastewater will be treated and reused on site for irrigation and flushing, and none will be released into the Mudasarlova Reservoir.
+People with knowledge of the plans say freshwater consumption across three sites will be less than the volume of an Olympic-sized swimming pool, with about **80%** of it going to landscaping, kitchens and facilities for workers. The campuses will draw from dedicated industrial water connections rather than municipal supply. Domestic wastewater will be treated and reused on site for irrigation and flushing, and none will be released into the Mudasarlova Reservoir.
 
 The reservoir is a source of drinking water for the city, and environmental activists have questioned building so close to it and to the Kambalakonda Wildlife Sanctuary. Critics have also raised doubts about the environmental assessments and how much water the projects really need.
 
-The government has said that if the wider data centre ecosystem grows to 6.5 GW, it could need about 3 TMC of water a year. State IT minister Nara Lokesh has dismissed claims about the project's resource needs as misinformation.
+The government has said that if the wider data centre ecosystem grows to 6.5 GW, it could need about **3 TMC of water a year**. State IT minister Nara Lokesh has dismissed claims about the project's resource needs as misinformation.

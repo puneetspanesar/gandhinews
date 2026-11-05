@@ -47,16 +47,16 @@ verification:
     - "Grey market premium figures seen (₹253/254) left out as unofficial. 2:10 pm figure 9.81x and day-two 5.51x from earlier desk stories."
 ---
 
-Jio Platforms' share sale, the largest ever in India, closed on Friday with bids for 22.19 times the shares on offer, after big institutions piled in during the final hours.
+Jio Platforms' share sale, the largest ever in India, closed on Friday with bids for **22.19 times** the shares on offer, after big institutions piled in during the final hours.
 
-Qualified institutional buyers, such as mutual funds, insurers and foreign funds, bid for 70.55 times the portion reserved for them. Non-institutional investors subscribed 14 times, with bids above ₹10 lakh at 15.89 times and smaller bids of ₹2 lakh to ₹10 lakh at 10.22 times. Retail investors, who could apply for up to ₹2 lakh, subscribed 2.72 times. The employee portion was taken up 2.93 times and the quota for Reliance Industries shareholders 7.6 times.
+Qualified institutional buyers, such as mutual funds, insurers and foreign funds, bid for **70.55 times** the portion reserved for them. Non-institutional investors subscribed 14 times, with bids above ₹10 lakh at 15.89 times and smaller bids of ₹2 lakh to ₹10 lakh at 10.22 times. Retail investors, who could apply for up to ₹2 lakh, subscribed 2.72 times. The employee portion was taken up 2.93 times and the quota for Reliance Industries shareholders 7.6 times.
 
 Demand rose sharply through the last day. The issue had been subscribed 5.51 times at the end of Thursday and 9.81 times by early Friday afternoon.
 
 ## What happens next
 
-The company is selling only new shares, at ₹1,065 to ₹1,119 each, to raise about ₹30,213 crore. Retail investors had to bid for at least 12 shares, or ₹13,428 at the top of the price band. The money is meant to prepay borrowings of its telecom arm, Reliance Jio Infocomm, and for general corporate purposes.
+The company is selling only new shares, at **₹1,065** to ₹1,119 each, to raise about ₹30,213 crore. Retail investors had to bid for at least 12 shares, or ₹13,428 at the top of the price band. The money is meant to prepay borrowings of its telecom arm, Reliance Jio Infocomm, and for general corporate purposes.
 
 Shares are due to be allotted on Monday, October 26, with refunds and credits to demat accounts on Tuesday. KFin Technologies is the registrar. Trading on BSE and NSE is expected to begin on Wednesday, October 28.
 
-With retail demand under three times the shares available, a fair number of small applicants can expect to receive shares. Before the issue opened, Jio Platforms had raised about ₹8,110 crore from anchor investors, who were allotted 7,24,74,066 shares at ₹1,119.
+With retail demand under three times the shares available, a fair number of small applicants can expect to receive shares. Before the issue opened, Jio Platforms had raised about **₹8,110 crore** from anchor investors, who were allotted 7,24,74,066 shares at ₹1,119.

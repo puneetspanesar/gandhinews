@@ -56,7 +56,7 @@ verification:
 
 The United States and Iran traded flatly contradictory claims on Friday over who controls the Strait of Hormuz, as attacks on merchant ships kept traffic far below its pre-war level.
 
-US Central Command rejected assertions by Iran's Revolutionary Guards that Tehran holds the strait, that a Singapore-registered container ship sank after hitting a mine, and that hundreds of American service members had been killed in Jordan. "The United States and regional partners control the strait," it said. Shipping was continuing, it added, and US forces and partners had helped move more than 19 million barrels of crude through Hormuz in a single day, with more than 40 merchant ships passing in 24 hours.
+US Central Command rejected assertions by Iran's Revolutionary Guards that Tehran holds the strait, that a Singapore-registered container ship sank after hitting a mine, and that hundreds of American service members had been killed in Jordan. "The United States and regional partners control the strait," it said. Shipping was continuing, it added, and US forces and partners had helped move more than 19 million barrels of crude through Hormuz in a single day, with more than 40 merchant ships passing in **24 hours**.
 
 Iran's army chief, Major General Amir Hatami, said the opposite. The strait "will remain closed until the enemy respects the rights of the Iranian people," he said, claiming "full surveillance" of the waters by the army and the Guards.
 

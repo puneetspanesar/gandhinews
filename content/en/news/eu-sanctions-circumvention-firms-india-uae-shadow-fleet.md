@@ -46,7 +46,7 @@ verification:
     - "No reaction from India's MEA to the EU listings was found; the MEA remark quoted is from October 14 and concerns the US law, not the EU move."
 ---
 
-The European Union on Thursday added three people and nine companies to its Russia sanctions list for helping Moscow get round existing curbs on trade, oil and payments. Four of the companies are based in the United Arab Emirates, India and the Seychelles, and one is described as a middleman selling Russian-origin crude to India.
+The European Union on Thursday added three people and nine companies to its Russia sanctions list for helping Moscow get round existing curbs on trade, oil and payments. Four of the companies are based in the United Arab Emirates, India and the Seychelles, and one is described as a middleman selling **Russian-origin crude to India**.
 
 "Circumventing EU sanctions is akin to aiding and abetting Russia's illegal war of aggression," said Kaja Kallas, the EU's foreign policy chief.
 
@@ -56,8 +56,8 @@ Three of the targets are Russian companies and the people behind them. They are 
 
 Two trading companies in Türkiye, Begler Tekstil Insaat Elektronik ve Dis Ticaret Ltd and Medse Group LLC, were listed for moving sanctioned goods into Russia through a global network.
 
-The oil listings take in four firms from the UAE, India and the Seychelles. The EU described DIS Logistics DMCC, Vigor Marine Services LLP and Shiva Shipping Ltd as part of Russia's "shadow fleet" of tankers. Hurus Trade FZE was listed as a trading intermediary supplying Russian-origin crude oil to India.
+The oil listings take in four firms from the UAE, India and the Seychelles. The EU described DIS Logistics DMCC, Vigor Marine Services LLP and Shiva Shipping Ltd as part of Russia's "shadow fleet" of tankers. Hurus Trade FZE was listed as a trading intermediary **supplying Russian-origin crude** oil to India.
 
 ## Why it matters for India
 
-The listing lands as India's purchases of Russian oil face pressure from Washington too. A new US law, the Sanctioning Russia and Iran Act, allows tariffs of up to 100% on countries that keep buying Russian energy if the president chooses to use it. On Wednesday, the Ministry of External Affairs said India had "conveyed to the US side our concerns" about the legislation.
+The listing lands as India's purchases of Russian oil face pressure from Washington too. A new US law, the Sanctioning Russia and Iran Act, allows tariffs of up to **100%** on countries that keep buying Russian energy if the president chooses to use it. On Wednesday, the Ministry of External Affairs said India had "conveyed to the US side our concerns" about the legislation.

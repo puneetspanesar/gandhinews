@@ -36,7 +36,7 @@ verification:
     - "Victim and accused are named in the police account as carried by PTI; no minors involved."
 ---
 
-Police in Jharkhand's Ramgarh district have arrested four people, among them the victim's wife and mother-in-law, for the murder of a 38-year-old man whose body was found beside a bridge earlier this week.
+Police in Jharkhand's Ramgarh district have arrested **four people**, among them the victim's wife and mother-in-law, for the murder of a 38-year-old man whose body was found beside a bridge earlier this week.
 
 Rohit Kumar, from Katua Beda village in Mandu block, lived in a rented house in Ramgarh town. His body, with several injury marks, was found on the morning of October 21 near a bridge over the Parsa Nala on the Giddi-Naisarai road.
 
@@ -46,6 +46,6 @@ A special investigation team led by SDPO Alok Ranjan made the arrests on Saturda
 
 Besides Anju Devi, police arrested Kumar's mother-in-law Sundari Devi, 51, his brother-in-law Dineshwar Prajapati, 26, and Md Shoukat Ansari, 35.
 
-Police say all four confessed during questioning. Officers seized a blood-stained wooden plank and a dupatta that they believe were used in the killing. The accused have been sent to judicial custody.
+Police say all four confessed during questioning. Officers seized a **blood-stained wooden plank** and a dupatta that they believe were used in the killing. The accused have been sent to judicial custody.
 
 Investigators suspect the murder followed frequent quarrels between the couple over Anju Devi's alleged extramarital affair. She had also filed a police complaint linked to the dispute, police said.

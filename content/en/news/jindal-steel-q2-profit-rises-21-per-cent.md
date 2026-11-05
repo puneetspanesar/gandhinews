@@ -42,15 +42,15 @@ verification:
     - "Angul plant location used for the photo is general knowledge, not in the copy."
 ---
 
-Jindal Steel's profit rose 21% in the July-September quarter on much higher sales, but the steelmaker kept less of each rupee it earned as its operating margin narrowed.
+Jindal Steel's profit rose **21%** in the July-September quarter on much higher sales, but the steelmaker kept less of each rupee it earned as its operating margin narrowed.
 
-Net profit rose to ₹774 crore from ₹638 crore a year earlier, according to results released on Friday. Revenue grew 43% to ₹16,679 crore from ₹11,686 crore.
+Net profit rose to **₹774 crore** from ₹638 crore a year earlier, according to results released on Friday. Revenue grew 43% to ₹16,679 crore from ₹11,686 crore.
 
-EBITDA, or operating profit, increased 24% to ₹2,573 crore from ₹2,081 crore. Because operating profit grew more slowly than sales, the EBITDA margin fell 240 basis points to 15.4% from 17.8%.
+EBITDA, or operating profit, increased **24%** to ₹2,573 crore from ₹2,081 crore. Because operating profit grew more slowly than sales, the EBITDA margin fell 240 basis points to 15.4% from 17.8%.
 
-That set Jindal Steel apart from JSW Steel, which reported the same day and widened its margin by 280 basis points to 18.6% on record volumes.
+That set Jindal Steel apart from JSW Steel, which reported the same day and widened its margin by 280 basis points to **18.6%** on record volumes.
 
-The two steelmakers moved in opposite directions on almost every line. Jindal Steel grew its sales more than twice as fast as JSW, whose revenue rose 20.7% to ₹54,486 crore, but JSW's profit more than tripled to ₹5,359 crore while Jindal's rose by about a fifth. JSW put its gains down to record volumes, partly offset by higher coking coal prices and lower realisations.
+The two steelmakers moved in opposite directions on almost every line. Jindal Steel grew its sales more than twice as fast as JSW, whose revenue rose **20.7%** to ₹54,486 crore, but JSW's profit more than tripled to ₹5,359 crore while Jindal's rose by about a fifth. JSW put its gains down to record volumes, partly offset by higher coking coal prices and lower realisations.
 
 The company said its average selling price "improved sequentially, supported by a higher share of flat steel products." Domestic customers accounted for 92% of its sales, up from 91% in the June quarter.
 

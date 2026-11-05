@@ -36,7 +36,7 @@ verification:
     - "No figures for seats or funding in the release; none given. Publication time estimated."
 ---
 
-Students will be able to earn doctorates in weather, ocean and polar science at all ten research institutes of the Ministry of Earth Sciences, under a partnership with the Academy of Scientific and Innovative Research (AcSIR), the government said on Monday.
+Students will be able to earn doctorates in weather, ocean and polar science at all ten research institutes of the **Ministry of Earth Sciences**, under a partnership with the Academy of Scientific and Innovative Research (AcSIR), the government said on Monday.
 
 The memorandum of understanding was signed on August 21 and formally launched at a ceremony at Prithvi Bhavan, the ministry's headquarters in New Delhi, on October 13. Praveen Kumar D, Scientist-G and mission director of Mission Mausam, signed for the ministry, and Prof Manoj Kumar Dhar, director of AcSIR, for the academy.
 
@@ -44,6 +44,6 @@ Under the arrangement, all ten MoES institutes become AcSIR-affiliated research 
 
 The research areas range from weather forecasting, climate services and numerical weather prediction to polar and cryosphere studies, ocean observation and marine robotics, deep-sea mining and desalination, seismology and seismic hazard assessment, coastal processes, marine living resources and the use of AI and machine learning in Earth sciences.
 
-All ten institutes are already part of AcSIR's latest PhD admission cycle, with a nodal coordinator at each and a central coordinator at the ministry. Students will be credited as inventors on any intellectual property that comes out of their work, with joint rights shared between the partners.
+All ten institutes are already part of AcSIR's **latest PhD admission cycle**, with a nodal coordinator at each and a central coordinator at the ministry. Students will be credited as inventors on any intellectual property that comes out of their work, with joint rights shared between the partners.
 
 Ministry secretary Srinivas Kumar Tummala stressed the value of collaborative research and academic partnership, and said he was confident the tie-up would benefit the institutes, their scientists and students alike.

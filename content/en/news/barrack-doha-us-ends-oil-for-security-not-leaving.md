@@ -41,10 +41,10 @@ The United States is moving away from its decades-old bargain of security for oi
 
 He said regional governments were drawing their own conclusions. "Everybody is saying: OK, I can't rely on America to solve all my problems," he said.
 
-Barrack was unusually frank about the record of US intervention, saying Washington had been involved in 23 regime changes across the wider Middle East. "Every time we try and intervene, change the person or the regime, it seems to have been a mistake," he said.
+Barrack was unusually frank about the record of US intervention, saying Washington had been involved in **23 regime changes** across the wider Middle East. "Every time we try and intervene, change the person or the regime, it seems to have been a mistake," he said.
 
 Luciano Zaccara, a political analyst, called Barrack "probably" the most realistic of President Donald Trump's allies, and said the envoy had implicitly conceded that regime change in Iran, a stated aim of the war, was unlikely to succeed.
 
 The remarks came with the Strait of Hormuz still shut. Before the US-Israeli war on Iran, about a fifth of the world's oil and gas passed through it. Iran's seven-day proposal to reopen the strait and resume nuclear talks, in return for the US lifting its naval blockade and easing sanctions, remains on the table without a US response.
 
-The Gulf is also dealing with Yemen's Houthis, whose strikes on Riyadh's King Khalid International Airport this month killed at least 14 people and wounded hundreds.
+The Gulf is also dealing with Yemen's Houthis, whose strikes on Riyadh's King Khalid International Airport this month killed at least **14 people** and wounded hundreds.

@@ -42,7 +42,7 @@ verification:
     - "Context on airport closures, postponed events, FII hybrid format, Saudi response vow and Sisi request drawn from earlier Gandhi News stories linked in related (afc-asian-cup..., egypt-sisi..., saudi-arabia-vows...). No figure for Indians in Saudi Arabia used."
 ---
 
-The Kingdom Centre, the 99-storey tower that dominates the Riyadh skyline, has told its office tenants to work from home "until further notice" after repeated Houthi attacks on Saudi Arabia.
+The Kingdom Centre, the 99-storey tower that dominates the Riyadh skyline, has told its office tenants to work from home "until further notice" after **repeated Houthi attacks** on Saudi Arabia.
 
 "Kindly refrain from attending the offices during this period," the building's management said in an email to tenants. The shopping mall at the base of the tower, one of the Saudi capital's busiest, remains open.
 

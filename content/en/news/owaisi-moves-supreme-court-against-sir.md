@@ -59,7 +59,7 @@ verification:
 
 AIMIM president Asaduddin Owaisi has asked the Supreme Court to reconsider its judgment upholding the Special Intensive Revision (SIR) of Bihar's electoral rolls, arguing that objections raised inside the Election Commission were never put before the judges.
 
-The Hyderabad MP filed a review petition and, separately, a fresh challenge to the way the SIR is being carried out. Advocate Nizamuddin Pasha mentioned the second plea before Chief Justice Surya Kant on Wednesday and asked for it to be heard with similar cases. The Chief Justice said he would check and list it with the connected matters.
+The Hyderabad MP filed a **review petition** and, separately, a fresh challenge to the way the SIR is being carried out. Advocate Nizamuddin Pasha mentioned the second plea before Chief Justice Surya Kant on Wednesday and asked for it to be heard with similar cases. The Chief Justice said he would check and list it with the connected matters.
 
 ## The review
 

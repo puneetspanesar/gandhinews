@@ -50,7 +50,7 @@ verification:
 
 An excise constable was shot dead in Bihar's Nalanda district after a team chasing a van loaded with illicit liquor came under fire on the highway near Pawapuri.
 
-Constable Ajit Kumar was part of a joint team from the Excise Intelligence Bureau in Patna, the Rajgir excise office and local officers. Excise Superintendent Sanjay Kumar Chaudhary said the bureau had received a tip-off that a pickup van carrying a large consignment of liquor was heading into Nalanda through the Kharat turn.
+Constable **Ajit Kumar** was part of a joint team from the Excise Intelligence Bureau in Patna, the Rajgir excise office and local officers. Excise Superintendent Sanjay Kumar Chaudhary said the bureau had received a tip-off that a pickup van carrying a large consignment of liquor was heading into Nalanda through the Kharat turn.
 
 The team tried to box the van in near a flyover in the Pawapuri-Silao stretch late on Wednesday night. A lookout, driving ahead of the smugglers to watch the road, opened fire. One bullet hit Ajit Kumar, and he fell where he stood. In the confusion, the lookout and the smugglers got away with the van.
 
@@ -58,4 +58,4 @@ His colleagues rushed him to the Bhagwan Mahavir Institute of Medical Sciences i
 
 Nitish Kumar, the excise station in-charge, said the operation was led by the special bureau team from Patna. "Blockades have been put up across the district to catch the attackers," he said. Excise and police teams are raiding places where the gang might be hiding and have set up checks on the highway and nearby roads.
 
-The killing has raised fresh questions about how Bihar enforces its ban on liquor. No arrests had been reported by Thursday.
+The killing puts the spotlight back on how Bihar enforces its ban on liquor. No arrests had been reported by Thursday.

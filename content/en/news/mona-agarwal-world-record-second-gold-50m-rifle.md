@@ -42,7 +42,7 @@ verification:
 
 Mona Agarwal won her second gold of the Asian Para Games on Friday, and she did it with a world record.
 
-The Indian shooter scored 357.5 in the final of the women's 50m rifle 3 positions SH1 at Aichi-Nagoya, finishing 3.8 points ahead of China's Zhang Cuiping, who took silver.
+The Indian shooter scored 357.5 in the final of the women's 50m rifle 3 positions SH1 at Aichi-Nagoya, finishing **3.8 points** ahead of China's Zhang Cuiping, who took silver.
 
 The event, which tests shooters kneeling, prone and standing, turned in the standing series. That was where Avani Lekhara, India's other finalist and one of the country's most decorated para shooters, lost ground. She finished fourth, just off the podium.
 

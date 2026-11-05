@@ -68,7 +68,7 @@ verification:
     - "Prize money not found in sources read; left out."
 ---
 
-Zheng Qinwen fell to the court in tears after an ace on her first match point. The Olympic champion, playing her home event as a wildcard, beat French Open champion Mirra Andreeva 7-5, 6-4 in the China Open final in Beijing on Sunday to become the first Chinese woman to win the title.
+Zheng Qinwen fell to the court in tears after an ace on her first match point. The Olympic champion, playing her home event as a wildcard, beat French Open champion Mirra Andreeva **7-5, 6-4** in the China Open final in Beijing on Sunday to become the first Chinese woman to win the title.
 
 It was Zheng's first trophy since Tokyo in October 2024, her first at WTA 1000 level and the sixth of her career. The final lasted one hour and 43 minutes.
 

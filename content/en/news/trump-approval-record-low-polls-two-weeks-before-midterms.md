@@ -57,17 +57,17 @@ verification:
 
 Donald Trump's approval rating hit record lows in two polls released on Wednesday, with voters turning against him less than two weeks before the midterm elections on November 3.
 
-The final New York Times/Siena College national poll before the vote found that 36% of likely voters approve of the way Trump is doing his job and 59% disapprove. It is his lowest rating in that survey, two points down from September. A CNN/SSRS poll published the same day put his approval at 32%, also a record low for that series, and a Reuters/Ipsos survey released on Monday had it at 31%.
+The final New York Times/Siena College national poll before the vote found that **36%** of likely voters approve of the way Trump is doing his job and 59% disapprove. It is his lowest rating in that survey, two points down from September. A CNN/SSRS poll published the same day put his approval at 32%, also a record low for that series, and a Reuters/Ipsos survey released on Monday had it at 31%.
 
 ## A lead for Democrats
 
-The numbers matter most for the fight over Congress. In the Times/Siena poll, 52% of likely voters said they would back the Democrat in their district and 41% the Republican, an 11-point gap that is slightly wider than last month. CNN found Democrats ahead by 49% to 39%. The Times/Siena survey interviewed 3,494 likely voters between October 12 and 19 and has a margin of error of 1.9 points.
+The numbers matter most for the fight over Congress. In the Times/Siena poll, **52%** of likely voters said they would back the Democrat in their district and 41% the Republican, an 11-point gap that is slightly wider than last month. CNN found Democrats ahead by 49% to 39%. The Times/Siena survey interviewed 3,494 likely voters between October 12 and 19 and has a margin of error of 1.9 points.
 
 Independents have swung hard against the president: more than two-thirds disapprove of him. The poll also suggests Democrats have won back ground over the past year among men, young voters and Hispanic voters.
 
 ## Prices and the war
 
-The anger is about money and the war with Iran, now nearly eight months old. Among registered voters, 69% disapprove of Trump's handling of the cost of living, 64% of his handling of the economy and 73% of his record on petrol prices, which stood above $4.25 a gallon on Wednesday. About 65% disapprove of the Iran war. Consumer prices rose 3.7% in the year to September.
+The anger is about money and the war with Iran, now nearly eight months old. Among registered voters, **69%** disapprove of Trump's handling of the cost of living, 64% of his handling of the economy and 73% of his record on petrol prices, which stood above $4.25 a gallon on Wednesday. About 65% disapprove of the Iran war. Consumer prices rose 3.7% in the year to September.
 
 There was no immediate comment from the White House.
 

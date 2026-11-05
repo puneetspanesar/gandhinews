@@ -70,13 +70,13 @@ Hall and Woodford helped rescue it. Instead of relying on past statistical links
 
 ## What each of them found
 
-Hall's key paper came in 1978. He argued that households spend according to what they expect to earn over time, not just what they earn today. If people use all the information they have, he reasoned, changes in their spending should be almost impossible to predict, because only genuinely new information moves them. In 1982, working with Fredric Mishkin on household data, he found that about 80% of families behaved this way. The rest lived hand to mouth, unable to save or borrow much.
+Hall's key paper came in 1978. He argued that households spend according to what they expect to earn over time, not just what they earn today. If people use all the information they have, he reasoned, changes in their spending should be almost impossible to predict, because only genuinely new information moves them. In 1982, working with Fredric Mishkin on household data, he found that about **80%** of families behaved this way. The rest lived hand to mouth, unable to save or borrow much.
 
 Woodford built on that idea. In 2003 he set out a complete "New Keynesian" model linking household spending, business pricing and central bank decisions. Prices in it are sticky: firms cannot change them instantly, so a fall in demand can cut output and jobs. Expectations matter too. If people believe inflation will stay low, it is easier to keep it low, which is why a central bank's credibility and the way it talks are part of policy.
 
 ## Why central banks care
 
-The model gave central banks a way to steer the economy through interest rates rather than the money supply, and a reason to say clearly where rates are heading. That practice, known as forward guidance, became vital during the 2008–09 financial crisis, when rates were already near zero.
+The model gave central banks a way to steer the economy through interest rates rather than the money supply, and a reason to say clearly where rates are heading. That practice, known as forward guidance, became vital during the 2008-09 financial crisis, when rates were already near zero.
 
 "With them, we are better equipped to deal with shocks in the economy, such as energy crises or sudden changes in how much households consume," said John Hassler, who chairs the prize committee. He said the laureates had given "a stable theoretical foundation for the models that are now used by central banks and governments around the world".
 
@@ -86,4 +86,4 @@ The prize arrives as central banks face another energy shock, this time tied to 
 
 ## The prize
 
-The award is worth 12 million Swedish kronor, about $1.2 million, split equally. It was set up by Sweden's central bank in 1969 and was not part of Alfred Nobel's will. Last year's winners were Joel Mokyr, Philippe Aghion and Peter Howitt, for their work on growth driven by innovation.
+The award is worth 12 million Swedish kronor, about **$1.2 million**, split equally. It was set up by Sweden's central bank in 1969 and was not part of Alfred Nobel's will. Last year's winners were Joel Mokyr, Philippe Aghion and Peter Howitt, for their work on growth driven by innovation.

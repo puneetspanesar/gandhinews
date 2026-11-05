@@ -48,15 +48,15 @@ In a report released on Friday, the San Francisco company said the trends at a b
 
 ## Fewer juniors
 
-The sharpest change is at the bottom of the ladder. Junior employees made up 21% of Anthropic's technical departments in early 2025 and 14% now. Among new technical hires, the junior share has dropped from 27% to 9%.
+The sharpest change is at the bottom of the ladder. Junior employees made up **21%** of Anthropic's technical departments in early 2025 and 14% now. Among new technical hires, the junior share has dropped from 27% to 9%.
 
-Technical teams have also shrunk as a share of the company, from 61% to 56% of staff. Anthropic put this down to the "natural expansion of business functions as the company scales" and to coding tools that let non-technical employees build software themselves.
+Technical teams have also shrunk as a share of the company, from **61%** to 56% of staff. Anthropic put this down to the "natural expansion of business functions as the company scales" and to coding tools that let non-technical employees build software themselves.
 
-In a survey in April, 27% of employees said Claude had made them more productive, and 20% said their job had shifted from doing the work themselves to managing Claude instances.
+In a survey in April, **27%** of employees said Claude had made them more productive, and 20% said their job had shifted from doing the work themselves to managing Claude instances.
 
 ## More meetings
 
-Calendar data show meeting time per employee rising 20% year on year, and 16% for technical staff. Anthropic said the increase reflected the need for human trust and accountability, and that employees described face-to-face coordination as indispensable.
+Calendar data show meeting time per employee rising **20%** year on year, and 16% for technical staff. Anthropic said the increase reflected the need for human trust and accountability, and that employees described face-to-face coordination as indispensable.
 
 The company said AI had lifted output, with more code written per person, more deals closed per sales representative and more contracts processed. It added a caveat: "more code does not necessarily mean better code or business impact." It said it had seen no sign of falling code quality.
 

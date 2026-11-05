@@ -56,7 +56,7 @@ Maha bint Mishari Al Saud, chief executive of the FII Institute, said the decisi
 
 ## A capital under fire
 
-The postponement follows weeks of escalating war between the Saudi-led coalition, which backs Yemen's internationally recognised government, and the Iran-aligned Houthis. The Houthis have struck military, energy and civilian targets across Saudi Arabia, including King Khalid International Airport in Riyadh, which the Houthis said they struck on October 8 and has been attacked again since. The attacks have killed at least 18 people and injured hundreds.
+The postponement follows weeks of escalating war between the Saudi-led coalition, which backs Yemen's internationally recognised government, and the Iran-aligned Houthis. The Houthis have struck military, energy and civilian targets across Saudi Arabia, including King Khalid International Airport in Riyadh, which the Houthis said they struck on October 8 and has been attacked again since. The attacks have killed at **least 18 people** and injured hundreds.
 
 On Tuesday the coalition's spokesperson, Colonel Turki al-Maliki, said another Houthi ballistic missile aimed at Riyadh had been intercepted and destroyed.
 

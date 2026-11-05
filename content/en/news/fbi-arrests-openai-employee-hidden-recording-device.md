@@ -40,13 +40,13 @@ verification:
 
 A member of OpenAI's product team has been charged in the United States with secretly planting a recording device in an executive conference room at the company's San Francisco office.
 
-Federal prosecutors named the employee as Abdulrahman Alfozan, a Saudi national who joined OpenAI in July 2025. He is charged with using an electronic device to intercept oral communications, which means recording people's conversations without their permission. The offence carries a sentence of up to five years in prison.
+Federal prosecutors named the employee as **Abdulrahman Alfozan**, a Saudi national who joined OpenAI in July 2025. He is charged with using an electronic device to intercept oral communications, which means recording people's conversations without their permission. The offence carries a sentence of up to five years in prison.
 
 OpenAI fired Alfozan and he was arrested on October 9, about a week after the company found the device and alerted the FBI. The case was made public on Tuesday.
 
 ## Behind the television
 
-According to prosecutors, the device had been pushed into a USB port on the back of a television in the conference room. A camera that OpenAI then put in place allegedly caught Alfozan looking behind the screen where it had been hidden.
+According to prosecutors, the device had been pushed into a USB port on the **back of a television** in the conference room. A camera that OpenAI then put in place allegedly caught Alfozan looking behind the screen where it had been hidden.
 
 OpenAI said the device contained "advanced encryption, audio monitoring capabilities, and a mechanism for transferring data designed to evade monitoring." The company said it had used its own AI models to examine it. It has not said what, if anything, was recorded.
 

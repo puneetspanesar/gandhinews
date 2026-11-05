@@ -5,7 +5,7 @@ type: news
 section: states
 format_label: "States / Delhi"
 topics: []
-title: "Delhi breathes easier on Monday with AQI 139, but forecasters see 'poor' air from Wednesday"
+title: "Delhi breathes easier on October 19 with AQI 139, but forecasters see 'poor' air from October 21"
 standfirst: "The capital's daily air quality average improved to 139 as the city logged its coldest October night yet at 17.1 degrees Celsius. The early warning system expects the air to slip into the 'poor' band on October 21."
 published: 2026-10-19T21:20:00+05:30
 location: New Delhi
@@ -19,7 +19,7 @@ hero:
   subjects: ["Pusa, New Delhi"]
   alt: "The Pusa campus in New Delhi, home to the monitoring station that logged the city's highest AQI on Monday"
   overlay:
-    value: "AQI 139 now, 'poor' by Wednesday"
+    value: "AQI 139, 'poor' due by October 21"
 related: [delhi-aqi-184-sunday-evening-moderate, delhi-aqi-189-sunday-morning-moderate, delhi-aqi-159-moderate-cpcb-saturday-grap]
 seo:
   description: "Delhi's 24-hour AQI was 139 ('moderate') at 4 pm on October 19 per CPCB; the minimum fell to 17.1°C, and the air is forecast to turn 'poor' from October 21."
@@ -48,9 +48,9 @@ The reading kept the city in the 'moderate' band, a clear step back from the 184
 
 ## The chill arrives
 
-The India Meteorological Department said the minimum at Safdarjung, the city's main weather station, fell to 17.1 degrees Celsius, 1.3 degrees below the seasonal average. An IMD official said it was the coldest night in the capital this month, a full degree and a half lower than the 18.6 degrees logged the night before.
+The India Meteorological Department said the minimum at Safdarjung, the city's main weather station, fell to **17.1 degrees Celsius**, 1.3 degrees below the seasonal average. An IMD official said it was the coldest night in the capital this month, a full degree and a half lower than the 18.6 degrees logged the night before.
 
-The weather office expects mainly clear and dry days over the coming week, with minimums of 18 to 20 degrees and afternoons still warm at 31 to 35 degrees.
+The weather office expects mainly clear and dry days over the coming week, with minimums of 18 to **20 degrees** and afternoons still warm at 31 to 35 degrees.
 
 ## Worse days ahead
 

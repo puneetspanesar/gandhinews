@@ -35,7 +35,7 @@ infographic:
     - {icon: check-circle, value: "52.5%", label: "जैक्सन को मिले वोट, कॉलिन्स को 46.3%"}
     - {icon: calendar-blank, value: "1997", label: "जिस साल कॉलिन्स पहली बार सीनेट पहुंचीं"}
     - {icon: flag-banner, value: "7", label: "रिपब्लिकन सीटें जो डेमोक्रेट्स ने छीनीं"}
-  source: "बैंगर डेली न्यूज़ और स्क्रिप्स न्यूज़, 4 नवंबर 2026"
+  source: "नतीजों के अनुमान और वोटों की गिनती, 4 नवंबर 2026"
 related: [us-midterms-democrats-win-senate-talarico-brown-flip, us-midterms-democrats-win-house-senate-in-balance, us-midterms-results-cooper-flips-north-carolina-senate]
 seo:
   description: "अमेरिकी मध्यावधि चुनाव 2026: मेन में रिपब्लिकन सीनेटर सूज़न कॉलिन्स ने डेमोक्रेट ट्रॉय जैक्सन से हार मानी, 30 साल का कार्यकाल ख़त्म, डेमोक्रेट्स की सातवीं सीनेट जीत।"

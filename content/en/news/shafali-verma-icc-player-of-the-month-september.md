@@ -43,9 +43,9 @@ verification:
 
 Shafali Verma has been named the ICC women's Player of the Month for September after a month in which India won two titles and she was the batter at the centre of both. The ICC announced the award on Tuesday. She was up against her team-mate Sree Charani and Sri Lanka captain Chamari Athapaththu.
 
-At the Asia Cup in the UAE, Shafali was the leading run-scorer with 236 runs in five innings, including 64 against Bangladesh in the semi-final and 68 against Sri Lanka in the final as India took their eighth title. She carried that form to the Asian Games in Japan, where she struck a maiden T20I century, 100 off 49 balls, against Bangladesh in the semi-final. In the gold-medal match against Sri Lanka, she made 48 and took two wickets.
+At the Asia Cup in the UAE, Shafali was the leading run-scorer with 236 runs in five innings, including 64 against Bangladesh in the semi-final and 68 against Sri Lanka in the final as India took their eighth title. She carried that form to the Asian Games in Japan, where she struck a maiden T20I century, **100 off 49 balls**, against Bangladesh in the semi-final. In the gold-medal match against Sri Lanka, she made 48 and took two wickets.
 
-Across seven T20Is in the month she scored 360 runs at an average of 72 and a strike rate of 184.61, and took six wickets at an economy rate of 4.33. She has also moved into the top four of the ICC women's T20I batting rankings.
+Across seven T20Is in the month she scored **360 runs** at an average of 72 and a strike rate of 184.61, and took six wickets at an economy rate of 4.33. She has also moved into the top four of the ICC women's T20I batting rankings.
 
 It is her second Player of the Month award. The first came in November 2025, after India won the Women's World Cup at home.
 

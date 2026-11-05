@@ -35,7 +35,7 @@ infographic:
     - {date: "28 अक्टूबर", text: "मतदान 5 नवंबर तक टला", icon: clock}
     - {date: "5 नवंबर", text: "मतदान, सुबह 7 से शाम 5 बजे", icon: check-square}
     - {date: "7 नवंबर", text: "सुबह 8 बजे से मतगणना", icon: checks}
-  source: "आंध्र प्रदेश राज्य निर्वाचन आयोग, अक्टूबर 2026"
+  source: "आंध्र प्रदेश राज्य चुनाव आयोग, अक्टूबर 2026"
 related: [naveen-patnaik-writes-majhi-kotia-andhra-elections, andhra-mptc-zptc-nominations-ysrcp-alleges-attacks, andhra-parishad-nominations-close-clashes-ysrcp-high-court, supreme-court-andhra-sec-hold-candidate-list-ysrcp-nominations]
 seo:
   description: "आंध्र प्रदेश में 5 नवंबर 2026 को सुबह 7 से शाम 5 बजे तक एमपीटीसी और जेडपीटीसी चुनाव, करीब 2.61 करोड़ मतदाता, मतगणना 7 नवंबर को।"

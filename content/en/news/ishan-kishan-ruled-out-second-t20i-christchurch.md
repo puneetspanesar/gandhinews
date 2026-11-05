@@ -68,7 +68,7 @@ Iyer was full of praise for Dhir, the young Punjab batter who sealed the chase. 
 
 ## What Kishan's absence means
 
-Kishan, who has 1,955 runs in 67 T20Is at an average of 31.03 and a strike rate of 148.55, is also in India's one-day squad for the tour, so the medical team will be keen not to rush him. His absence takes one option out of a middle order that Iyer has been shuffling around his openers.
+Kishan, who has **1,955 runs** in 67 T20Is at an average of 31.03 and a strike rate of 148.55, is also in India's one-day squad for the tour, so the medical team will be keen not to rush him. His absence takes one option out of a middle order that Iyer has been shuffling around his openers.
 
 ## What comes next
 

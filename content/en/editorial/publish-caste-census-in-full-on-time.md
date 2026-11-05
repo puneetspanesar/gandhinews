@@ -55,11 +55,11 @@ Collecting the data is the easier part. The harder test is whether the results a
 
 Caste shapes reservation, welfare targeting, and political argument in almost every state. For nine decades, those debates have run on estimates, state surveys and old numbers. A national count, done by the same enumerators under the same law as the rest of the census, can settle questions that surveys cannot.
 
-That only works if the numbers come out. Partial tables, or totals for broad categories without the underlying castes, would leave room for every side to claim the data supports it and no one to check. The Union Cabinet approved ₹11,718 crore for this census, as reported by Telangana Today and The Arunachal Times. Its users are owed the results.
+That only works if the numbers come out. Partial tables, or totals for broad categories without the underlying castes, would leave room for every side to claim the data supports it and no one to check. The Union Cabinet approved **₹11,718 crore** for this census. Its users are owed the results.
 
 ## The coding problem
 
-The notification did not come with a pre-set list of castes; Telangana Today, citing unnamed sources, reported that caste will be recorded as people state it. Congress general secretary Jairam Ramesh criticised this, pointing to the lists used in the Bihar and Telangana caste surveys. He said the absence raised "serious doubts on intent".
+The notification did not come with a pre-set list of castes; caste was reported, on the word of unnamed officials, to be recorded as people state it. Congress general secretary Jairam Ramesh criticised this, pointing to the lists used in the Bihar and Telangana caste surveys. He said the absence raised "serious doubts on intent".
 
 There is a reasonable case on the other side. A fixed list can leave out communities or lock in contested classifications, and letting people state their own caste respects how they see themselves. But it shifts the hard work to later. Millions of written answers, in many languages and spellings, will have to be grouped into categories. Whoever designs that grouping will shape the results as much as the enumerators.
 

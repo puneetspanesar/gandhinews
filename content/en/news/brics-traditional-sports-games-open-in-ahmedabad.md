@@ -52,7 +52,7 @@ verification:
     - "Dollar figure (nearly $3.76 billion for Khelo India) is as quoted by Mandaviya."
 ---
 
-Mallakhamb performers from India, capoeira players and log racers from Brazil and wushu artists from China shared one arena in Ahmedabad on Monday, as the BRICS Traditional and Indigenous Sports Demonstration Games were held at the Veer Savarkar Sports Complex.
+Mallakhamb performers from India, capoeira players and log racers from Brazil and wushu artists from China shared one arena in Ahmedabad on Monday, as the **BRICS Traditional and Indigenous Sports Demonstration Games** were held at the Veer Savarkar Sports Complex.
 
 The day-long event, organised by the Union Ministry of Youth Affairs and Sports with the Gujarat government under India's BRICS chairship, was not a competition. Delegations from BRICS member and partner countries came to show how their games are played, and to talk about keeping them alive.
 
@@ -78,9 +78,9 @@ Sanghavi offered his own list of five suggestions, among them a joint multilingu
 
 ## India's pitch
 
-Mandaviya also spoke about India's wider sports programme. "India is placing sport at the centre of nation-building," he said, adding that the government had committed nearly $3.76 billion through its Khelo India initiative to infrastructure, grassroots participation, coaching, sports science and athlete welfare.
+Mandaviya also spoke about India's wider sports programme. "India is placing sport at the centre of nation-building," he said, adding that the government had committed nearly **$3.76 billion** through its Khelo India initiative to infrastructure, grassroots participation, coaching, sports science and athlete welfare.
 
-"Through the Fit India Movement, we are promoting fitness as a way of life," he said, pointing to the Sundays on Cycle campaign, which he said draws more than 5 million people at more than 3 lakh locations. The campaign has run for 94 editions.
+"Through the Fit India Movement, we are promoting fitness as a way of life," he said, pointing to the Sundays on Cycle campaign, which he said draws more than 5 million people at more than **3 lakh** locations. The campaign has run for 94 editions.
 
 ## What happens next
 

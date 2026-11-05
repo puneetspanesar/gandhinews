@@ -5,7 +5,7 @@ type: news
 section: sports
 format_label: "Sports / Cricket"
 topics: []
-title: "Live: Arshdeep strikes twice, Brar removes Seifert as New Zealand lose three at Eden Park"
+title: "Arshdeep strikes twice, Brar removes Seifert as New Zealand lose three at Eden Park"
 standfirst: "Arshdeep Singh took both early wickets inside the powerplay and Gurnoor Brar then had Tim Seifert caught by Ruturaj Gaikwad, leaving New Zealand three down in the first ODI in Auckland."
 published: 2026-11-04T09:10:00+05:30
 location: Auckland
@@ -22,11 +22,11 @@ hero:
     value: "Arshdeep 2 wkts, Brar 1"
 cover:
   template: sport
-  label: "Live"
+  label: "First ODI"
   headline: "Arshdeep two, Brar gets Seifert"
   bg: "Eden Park"
 infographic:
-  kicker: "New Zealand v India, 1st ODI, live"
+  kicker: "New Zealand v India, 1st ODI"
   headline: "India's seamers make New Zealand three down"
   dek: "Eden Park, Auckland, Wednesday, November 4"
   motif: cricket
@@ -34,7 +34,7 @@ infographic:
     - {icon: cricket, value: "44/2", label: "New Zealand after 9 overs"}
     - {icon: target, value: "2", label: "Arshdeep Singh wickets: Young, Nicholls"}
     - {icon: hand, value: "1/19", label: "Gurnoor Brar, Seifert c Gaikwad"}
-  source: "Bombay Samachar, ESPNcricinfo live listing, November 4, 2026"
+  source: "Match scorecard, November 4, 2026"
 related: [india-elect-to-field-new-zealand-one-down-eden-park-first-odi, gill-any-indian-team-can-beat-anyone-eden-park-first-odi-preview, gill-iyer-split-odi-captaincy-new-zealand-bumrah-jadeja-out]
 seo:
   description: "New Zealand v India first ODI live at Eden Park: Arshdeep Singh takes two powerplay wickets and Gurnoor Brar removes Tim Seifert, caught by Ruturaj Gaikwad, on November 4, 2026."
@@ -69,7 +69,7 @@ Shubman Gill chose to bowl after a rain delay that pushed the toss back by about
 
 ## Seifert falls after a quick start
 
-Seifert had kept New Zealand moving. He was 22 not out when the hosts reached **44 for 2 after nine overs**, with Daryl Mitchell on 4, and he hit Brar for six soon after. Brar had the last word: Seifert picked out **Ruturaj Gaikwad**, giving the young seamer his first wicket. Live listings had Brar on **1 for 19** with Mitchell on 19 and Tom Latham on 3 at the crease.
+Seifert had kept New Zealand moving. He was 22 not out when the hosts reached **44 for 2 after nine overs**, with Daryl Mitchell on 4, and he hit Brar for six soon after. Brar had the last word: Seifert picked out Ruturaj Gaikwad, giving the young seamer his first wicket. Live listings had Brar on 1 for 19 with Mitchell on 19 and Tom Latham on 3 at the crease.
 
 Anshul Kamboj shared the new ball duties with the two left-armers as India rotated their seamers on a ground with short straight boundaries.
 

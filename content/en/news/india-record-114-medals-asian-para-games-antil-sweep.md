@@ -55,9 +55,9 @@ verification:
     - "Para-athletics 65 medals, 12 more than 2023: UNI only."
 ---
 
-Sumit Antil did what he came to Japan to do. The defending champion retained his Asian Para Games javelin title on Friday afternoon, with Mahendra Gurjar taking silver and Sandip Sanjay Sargar bronze for an all-Indian podium, and the sweep helped close India's campaign in Aichi-Nagoya with a record 114 medals.
+Sumit Antil did what he came to Japan to do. The defending champion retained his Asian Para Games javelin title on Friday afternoon, with Mahendra Gurjar taking silver and Sandip Sanjay Sargar bronze for an all-Indian podium, and the sweep helped close India's campaign in Aichi-Nagoya with a record **114 medals**.
 
-India finished with 30 gold, 35 silver and 49 bronze. They won 26 medals on Friday, nine of them gold, and leave the Games fourth in the table behind China, Japan and Uzbekistan, two golds clear of South Korea and four ahead of Iran. No Indian team has won more medals at the Asian Para Games.
+India finished with 30 gold, 35 silver and 49 bronze. They won 26 medals on Friday, **nine of them gold**, and leave the Games fourth in the table behind China, Japan and Uzbekistan, two golds clear of South Korea and four ahead of Iran. No Indian team has won more medals at the Asian Para Games.
 
 There are a few events left on Saturday's final day, but India have no entries in them, so the only thing still to decide is whether the table changes around them.
 

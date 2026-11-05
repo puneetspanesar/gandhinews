@@ -6,17 +6,17 @@ section: policy
 format_label: "Editorial"
 topics: []
 title: "Delhi has finally acted before the smog. Now the curbs must be fair, enforced and backed by buses"
-standfirst: "From today older vehicles from outside the city are barred, offices run at half strength and parking costs double. Acting on the calendar is the right instinct. But a ban that reads the number plate rather than the exhaust, and asks commuters to give up their cars without saying what replaces them, will not last the winter."
+standfirst: "From November 1 older vehicles from outside the city are barred, offices run at half strength and parking costs double. Acting on the calendar is the right instinct. But a ban that reads the number plate rather than the exhaust, and asks commuters to give up their cars without saying what replaces them, will not last the winter."
 published: 2026-11-01T07:05:00+05:30
 keyPoints:
   - "Vehicles from outside Delhi **below BS-VI are barred until January 31**, while Delhi's own older vehicles keep running."
   - "The plan promises more electric buses and Metro links but **gives no numbers or dates**."
   - "The government should publish **a monthly enforcement report** alongside air quality readings."
 hero:
-  need: "Morning traffic on the Delhi–Gurgaon Expressway at the Delhi border, the main commuter route affected by the ban on outside vehicles"
+  need: "Morning traffic on the Delhi-Gurgaon Expressway at the Delhi border, the main commuter route affected by the ban on outside vehicles"
   suggested_source: "Delhi Gurgaon Expressway"
   subjects: ["Delhi–Gurgaon Expressway"]
-  alt: "Traffic on the Delhi–Gurgaon Expressway"
+  alt: "Traffic on the Delhi-Gurgaon Expressway"
   overlay:
     kicker: "Our view"
     value: "Ban the smoke, not the address"

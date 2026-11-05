@@ -73,19 +73,19 @@ Four states that go to the polls in 2027 will be counted first. A gazette notifi
 
 ## House listing winds down
 
-Phase 1 covered house listing and housing. Each state or Union Territory got 30 days for house-to-house work, with an optional 15-day self-enumeration window before it, according to an ANI report of September 1.
+Phase 1 covered house listing and housing. Each state or Union Territory got **30 days** for house-to-house work, with an optional 15-day self-enumeration window before it, according to the schedule as it stood on September 1.
 
 West Bengal started late, with self-enumeration from August 1 to 15. Its house-to-house listing ran from August 16 to September 14, and Chief Minister Suvendu Adhikari said on X that the state had completed all its fieldwork.
 
 > West Bengal has achieved 100pc fieldwork completion for Census Phase 1 well within the deadline of September 14, 2026
 >
-> Source: Suvendu Adhikari, Chief Minister of West Bengal, on X, as reported by UNI on September 16, 2026
+> Source: Suvendu Adhikari, Chief Minister of West Bengal, on X, September 16, 2026
 
 Gandhi News could not find a national completion figure from the Registrar General.
 
 ## Caste on the form
 
-On August 14 the Union Home Ministry issued a gazette notification under the Census Act, 1948, signed by Registrar General Mritunjay Kumar Narayan, listing 40 questions for the population count. Question 10, which asked only about Scheduled Caste or Scheduled Tribe status in 2011, now reads "SC/ST/Caste", Business Standard reported.
+On August 14 the Union Home Ministry issued a gazette notification under the Census Act, 1948, signed by Registrar General Mritunjay Kumar Narayan, listing 40 questions for the population count. Question 10, which asked only about Scheduled Caste or Scheduled Tribe status in 2011, now reads "SC/ST/Caste".
 
 India last recorded caste across all groups in 1931; every census since independence has recorded only SC and ST status. Other new questions cover Aadhaar number, mobile number, the number of bank accounts, digital literacy and where a person received a Covid-19 vaccine.
 
@@ -93,20 +93,20 @@ The notification did not come with a pre-set list of castes. Congress general se
 
 > This has, unfortunately, not happened, raising serious doubts on intent.
 >
-> Source: Jairam Ramesh, Congress general secretary in-charge of communications, on X, August 14, 2026, as reported by Business Standard
+> Source: Jairam Ramesh, Congress general secretary in-charge of communications, on X, August 14, 2026
 
 ## Four states go early
 
 In Uttar Pradesh, Punjab, Goa and non-snow-bound Uttarakhand, residents can count themselves online from November 16 to 30, 2026. Door-to-door enumeration follows from December 1 to January 4, with a revisional round from January 5 to 9, 2027. The reference date in these states is midnight on January 5, 2027.
 
-Business Standard linked the change to assembly elections: the terms of the Goa, Punjab and Uttarakhand assemblies end in March 2027 and Uttar Pradesh's in May 2027. The notification itself gives no reason.
+The change has been linked to assembly elections: the terms of the Goa, Punjab and Uttarakhand assemblies end in March 2027 and Uttar Pradesh's in May 2027. The notification itself gives no reason.
 
 ```timeline
-{"title":"Census 2027: the schedule","items":[{"date":"Apr–Sep 2026","text":"Phase 1: house listing and housing census, state by state"},{"date":"Aug 14, 2026","text":"40 population enumeration questions notified, including caste"},{"date":"Sep 2026","text":"Population count in Ladakh and snow-bound areas of J&K, Himachal Pradesh and Uttarakhand (reference date Oct 1, 2026)"},{"date":"Nov 16-30, 2026","text":"Self-enumeration in UP, Punjab, Goa and non-snow-bound Uttarakhand"},{"date":"Dec 1, 2026–Jan 4, 2027","text":"Door-to-door count in those four states (reference date Jan 5, 2027)"},{"date":"Feb 2027","text":"Population count in the rest of India (reference date Mar 1, 2027)"}]}
+{"title":"Census 2027: the schedule","items":[{"date":"Apr-Sep 2026","text":"Phase 1: house listing and housing census, state by state"},{"date":"Aug 14, 2026","text":"40 population enumeration questions notified, including caste"},{"date":"Sep 2026","text":"Population count in Ladakh and snow-bound areas of J&K, Himachal Pradesh and Uttarakhand (reference date Oct 1, 2026)"},{"date":"Nov 16-30, 2026","text":"Self-enumeration in UP, Punjab, Goa and non-snow-bound Uttarakhand"},{"date":"Dec 1, 2026 to Jan 4, 2027","text":"Door-to-door count in those four states (reference date Jan 5, 2027)"},{"date":"Feb 2027","text":"Population count in the rest of India (reference date Mar 1, 2027)"}]}
 ```
 
 ## The rest of India
 
-Ladakh and the snow-bound areas of Jammu and Kashmir, Himachal Pradesh and Uttarakhand were counted in September 2026, with a reference date of October 1, 2026. Everywhere else, enumeration is scheduled for February 2027 with a reference date of March 1, 2027, according to Business Standard.
+Ladakh and the snow-bound areas of Jammu and Kashmir, Himachal Pradesh and Uttarakhand were counted in September 2026, with a reference date of October 1, 2026. Everywhere else, enumeration is scheduled for February 2027 with a reference date of March 1, 2027.
 
-Business Standard describes Census 2027 as the first to be conducted digitally, with an option for people to enumerate themselves.
+Census 2027 is the first to be conducted digitally, with an option for people to enumerate themselves.

@@ -42,9 +42,9 @@ verification:
 
 Police in Tamil Nadu have arrested a retired Army captain on suspicion of passing confidential military information to a woman he met on WhatsApp, after Army officials and central intelligence agencies grew suspicious of his activities.
 
-The man, identified as Babu, 52, served 28 years in various Army divisions and retired last year as a captain from the equipment division. He settled in his native village of Keezhvallam, near Kaniyambadi in Vellore district.
+The man, identified as Babu, 52, served **28 years** in various Army divisions and retired last year as a captain from the equipment division. He settled in his native village of Keezhvallam, near Kaniyambadi in Vellore district.
 
-According to investigators, a woman contacted him on WhatsApp about a year ago and built up the relationship through what they called inappropriate conversations, before gradually asking about the Army. Babu is alleged to have sent her details of Army equipment and other confidential information over the past year. When he did not know something, investigators say, he phoned Army offices to find out and then passed it on.
+According to investigators, a woman contacted him on WhatsApp about a year ago and built up the relationship through what they called inappropriate conversations, before gradually asking about the Army. Babu is alleged to have sent her details of **Army equipment** and other confidential information over the past year. When he did not know something, investigators say, he phoned Army offices to find out and then passed it on.
 
 Army officials questioned him in person with help from central intelligence agencies. Intelligence officials then detained him and handed him over to the Vellore Rural police, who have registered a case.
 

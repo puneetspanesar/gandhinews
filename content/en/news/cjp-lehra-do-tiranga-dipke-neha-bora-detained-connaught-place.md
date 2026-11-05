@@ -83,15 +83,15 @@ verification:
     - "Bengaluru refusal and Damania quote from ETV Bharat live blog only. Sandosh Kumar quote ETV Bharat only."
 ---
 
-Delhi Police detained Cockroach Janta Party (CJP) founder Abhijeet Dipke minutes before 5 pm on Friday, as he set out for Connaught Place to lead the "Lehra Do Tiranga" protest he had called. By evening about 150 people had been held across central Delhi, and the lawns of Central Park, where the flag gathering was meant to take place, stayed empty behind a line of police.
+Delhi Police detained Cockroach Janta Party (CJP) founder Abhijeet Dipke minutes before 5 pm on Friday, as he set out for Connaught Place to lead the "Lehra Do Tiranga" protest he had called. By evening about **150 people** had been held across central Delhi, and the lawns of Central Park, where the flag gathering was meant to take place, stayed empty behind a line of police.
 
-AISA president Neha Bora was detained at Mandi House as students and Left workers began a Tiranga march from there. AISA said she had been taken to an "unknown location".
+AISA president Neha Bora was detained at **Mandi House** as students and Left workers began a Tiranga march from there. AISA said she had been taken to an "unknown location".
 
-"Those attempting to disrupt law and order are being detained," a police officer said, putting the number held at around 150. A senior officer later said: "We have detained Dipke and Bora. The situation is very peaceful."
+"Those attempting to disrupt law and order are being detained," a police officer said, putting the number held at **around 150**. A senior officer later said: "We have detained Dipke and Bora. The situation is very peaceful."
 
 ## A notice, then a police van
 
-More than 20 police personnel went to the place where Dipke was staying in Jhandewalan during the day and served him a notice barring any protest at Connaught Place. It said a gathering there could "hamper emergency access" and disrupt more than 15 lakh traders and employees, and invoked prohibitory orders under Section 163 of the Bharatiya Nagarik Suraksha Sanhita. A second notice reminded him of a court direction, issued after an earlier incident at the airport, to keep the peace for a year.
+More than 20 police personnel went to the place where Dipke was staying in Jhandewalan during the day and served him a notice barring any protest at Connaught Place. It said a gathering there could "hamper emergency access" and disrupt more than **15 lakh** traders and employees, and invoked prohibitory orders under Section 163 of the Bharatiya Nagarik Suraksha Sanhita. A second notice reminded him of a court direction, issued after an earlier incident at the airport, to keep the peace for a year.
 
 In a livestreamed exchange, Dipke told officers the party had not said it would protest. "We will just wave the Tricolour," he said. When he tried to leave, an officer told him: "Aap New Delhi nahi jaa sakte. Hum aapko detain kar rahe hain." Dipke asked: "Maine kaunsa kanoon toda hai?" He was driven to Jafarpur Kalan police station.
 

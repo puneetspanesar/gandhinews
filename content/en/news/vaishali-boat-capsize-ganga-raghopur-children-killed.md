@@ -52,13 +52,13 @@ verification:
 
 Thirteen children drowned on Tuesday evening when a boat overturned in the Ganga near Rampur Shyamchand village in Bihar's Vaishali district. Seven people were pulled out alive.
 
-The boat was carrying villagers from Raghopur, a riverine island in the Ganga, across the river for a feast in another village. It went over at about 8:30 pm under the Raghopur police station area. Vaishali District Magistrate Varsha Singh confirmed that 13 bodies had been recovered. All of the dead were children aged 15 or younger.
+The boat was carrying villagers from Raghopur, a riverine island in the Ganga, across the river for a feast in another village. It went over at about 8:30 pm under the Raghopur police station area. Vaishali District Magistrate Varsha Singh confirmed that **13 bodies** had been recovered. All of the dead were children aged 15 or younger.
 
 ## A swollen river at night
 
 The Ganga has been running high after recent rain and floodwater from the Gandak, its tributary. Many of the children on board could not swim.
 
-How many people were on the boat is still not clear, which means officials could not say on Wednesday morning whether anyone was missing. Local accounts put the number at 15 to 20. Tejashwi Yadav, the Leader of the Opposition in the Bihar Assembly and the MLA for Raghopur, said about 30 people had boarded and that 14 bodies had been recovered, most of them children.
+How many people were on the boat is still not clear, which means officials could not say on Wednesday morning whether anyone was missing. Local accounts put the number at 15 to 20. Tejashwi Yadav, the Leader of the Opposition in the Bihar Assembly and the MLA for Raghopur, said about **30 people** had boarded and that 14 bodies had been recovered, most of them children.
 
 "Only seven to eight people could swim to safety," said Mukesh Raushan, the former MLA from Mahua.
 
@@ -66,9 +66,9 @@ As word spread, people from nearby villages ran to the riverbank. Singh and Supe
 
 ## Aid for families
 
-Chief Minister Samrat Choudhary called the accident "extremely heartbreaking and soul-wrenching". He announced ₹4 lakh for the family of each person who died and told officials to speed up the search and make sure the injured were properly treated.
+Chief Minister Samrat Choudhary called the accident "extremely heartbreaking and soul-wrenching". He announced **₹4 lakh** for the family of each person who died and told officials to speed up the search and make sure the injured were properly treated.
 
-Prime Minister Narendra Modi said the loss of life was "deeply painful". He announced ₹2 lakh from the Prime Minister's National Relief Fund for the next of kin of each of the dead and ₹50,000 for each injured person.
+Prime Minister Narendra Modi said the loss of life was "deeply painful". He announced **₹2 lakh** from the Prime Minister's National Relief Fund for the next of kin of each of the dead and ₹50,000 for each injured person.
 
 Tejashwi Yadav was in Delhi on Tuesday for the opposition protest against the Special Intensive Revision of electoral rolls. In a post on X he said he was deeply saddened by the accident, and that he had spoken to the district magistrate and asked for more National and State Disaster Response Force personnel to be sent. He is due back in Patna on Wednesday and plans to go to Raghopur to meet the families.
 

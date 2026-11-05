@@ -37,9 +37,9 @@ verification:
     - "No mention of India or regional availability."
 ---
 
-OpenAI's newest models are now on sale through one of its biggest rivals. Google Cloud said on Wednesday it had added three OpenAI models, GPT-6 Astra, GPT-6.1 Sol and GPT-6 Luna, to Model Garden, its catalogue of AI models for business customers.
+OpenAI's newest models are now on sale through one of its biggest rivals. Google Cloud said on Wednesday it had added **three OpenAI models**, GPT-6 Astra, GPT-6.1 Sol and GPT-6 Luna, to Model Garden, its catalogue of AI models for business customers.
 
-The models began rolling out in a private preview to selected enterprise customers on Wednesday, and others can apply for access through an interest form. Developers can build with them through Google Cloud's programming interfaces, and can connect OpenAI's Codex coding tools to Google's platform to run them. Google said support in Gemini for business and its Antigravity coding tool, along with zero data retention and confidential computing options, was "coming soon".
+The models began rolling out in a private preview to selected enterprise customers on Wednesday, and others can apply for access through an interest form. Developers can build with them through **Google Cloud**'s programming interfaces, and can connect OpenAI's Codex coding tools to Google's platform to run them. Google said support in Gemini for business and its Antigravity coding tool, along with zero data retention and confidential computing options, was "coming soon".
 
 The announcement was written by Michael Gerstenhaber, vice-president of product management for Gemini at Google Cloud. Google described Sol as offering close to Astra's intelligence at a lower cost, but did not publish prices.
 

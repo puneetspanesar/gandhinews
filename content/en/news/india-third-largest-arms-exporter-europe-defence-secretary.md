@@ -45,7 +45,7 @@ verification:
 
 India has become the third-largest exporter of arms to Europe, Defence Secretary Rajesh Kumar Singh has said, as European governments rearm and turn to Indian factories for ammunition and artillery shells.
 
-Speaking to reporters on Friday, Singh put India's defence exports at an all-time high of ₹38,424 crore, about 3.6 billion euros. He linked the growth in sales to Europe to demand created by the European Union's "ReArm Europe" initiative and to the expansion of manufacturing at home.
+Speaking to reporters on Friday, Singh put India's defence exports at an all-time high of **₹38,424 crore**, about 3.6 billion euros. He linked the growth in sales to Europe to demand created by the European Union's "ReArm Europe" initiative and to the expansion of manufacturing at home.
 
 The growth in sales to Europe has come mainly from standard ammunition, artillery shells, and large and small-calibre rounds. Overall, India now sells defence equipment to more than 80 countries, from artillery and small arms to helmets, bulletproof jackets and tactical gear. Singh said Indian makers were also drawing interest from buyers in Southeast Asia.
 
@@ -53,8 +53,8 @@ The growth in sales to Europe has come mainly from standard ammunition, artiller
 
 The industry behind those exports has grown to 16 major public sector companies, about 840 large and medium private firms and nearly 17,000 small enterprises, including start-ups, Singh said.
 
-The government wants 75% of the annual defence capital budget, which he estimated at 20 to 25 billion dollars, to be spent in India, with priority for weapons designed and made in the country. In Europe, the plan is to go beyond selling finished goods, through joint ventures and by encouraging European companies to set up production in India under Make in India.
+The government wants **75%** of the annual defence capital budget, which he estimated at 20 to 25 billion dollars, to be spent in India, with priority for weapons designed and made in the country. In Europe, the plan is to go beyond selling finished goods, through joint ventures and by encouraging European companies to set up production in India under Make in India.
 
-Defence Minister Rajnath Singh told the Army Commanders' Conference in New Delhi this week that defence production touched a record ₹1,78,000 crore in 2025-26, with exports of about ₹38,000 crore.
+Defence Minister Rajnath Singh told the Army Commanders' Conference in New Delhi this week that defence production touched a record **₹1,78,000 crore** in 2025-26, with exports of about ₹38,000 crore.
 
 The Defence Secretary did not say which European countries were the largest buyers or which two countries rank ahead of India.

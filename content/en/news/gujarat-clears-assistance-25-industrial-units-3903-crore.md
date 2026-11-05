@@ -36,16 +36,16 @@ verification:
     - "'More than half of the total investment' is Gandhi News arithmetic (2,271.40 of 3,903.30 crore, about 58%)."
 ---
 
-Gujarat has approved financial assistance for 25 industrial units that plan to invest ₹3,903.30 crore in the state, in projects expected to create about 8,178 jobs.
+Gujarat has approved financial assistance for 25 industrial units that plan to invest ₹3,903.30 crore in the state, in projects expected to create **about 8,178 jobs**.
 
-A high-level committee chaired by Deputy Chief Minister Harsh Sanghavi approved the issue of final eligibility certificates to the units, which clears the way for them to draw incentives under two state schemes.
+A high-level committee chaired by Deputy Chief Minister Harsh Sanghavi approved the issue of **final eligibility certificates** to the units, which clears the way for them to draw incentives under two state schemes.
 
 ## Two schemes, eight districts
 
-Twenty-two of the units, with investments of ₹1,631.90 crore, were approved under the Industrial Policy-2015. Three large units, investing ₹2,271.40 crore between them, received final approval under the Aatmanirbhar Gujarat Scheme-2022. Those three projects alone account for more than half of the total investment cleared.
+Twenty-two of the units, with investments of **₹1,631.90 crore**, were approved under the Industrial Policy-2015. Three large units, investing ₹2,271.40 crore between them, received final approval under the Aatmanirbhar Gujarat Scheme-2022. Those three projects alone account for more than half of the total investment cleared.
 
 The projects span automobiles, textiles, plastics, paper, chemicals, ceramics and metals. They are located in Ahmedabad, Morbi, Bharuch, Kutch, Vadodara, Mehsana, Kheda and Surendranagar districts.
 
 ## What the units get
 
-Units that qualify receive assistance against the net state GST they pay, interest subsidies and reimbursement of Employees' Provident Fund payments. The committee's approval paves the way for that assistance to be released to the 25 units.
+Units that qualify receive assistance against the net state GST they pay, interest subsidies and reimbursement of Employees' Provident Fund payments. The committee's approval clears that assistance for release to the 25 units.

@@ -37,13 +37,13 @@ verification:
     - "HQ Kolkata from general knowledge of the company; BS dateline was Bhubaneswar (reporter's base)."
 ---
 
-Himadri Speciality Chemical, which makes carbon black, coal tar pitch and materials for electric-vehicle batteries, said on Sunday that its profit rose 31% in the September quarter as sales of its speciality products grew.
+Himadri Speciality Chemical, which makes carbon black, coal tar pitch and materials for electric-vehicle batteries, said on Sunday that its profit rose **31%** in the September quarter as sales of its speciality products grew.
 
-Consolidated profit after tax for July-September came to ₹231 crore, up from ₹176 crore a year earlier. Revenue from operations rose about 58% to ₹1,691 crore from ₹1,071 crore, and earnings before interest, tax, depreciation and amortisation (EBITDA) grew 27% to ₹303 crore.
+Consolidated profit after tax for July-September came to **₹231 crore**, up from ₹176 crore a year earlier. Revenue from operations rose about 58% to ₹1,691 crore from ₹1,071 crore, and earnings before interest, tax, depreciation and amortisation (EBITDA) grew 27% to ₹303 crore.
 
-Because operating profit grew more slowly than sales, the quarter's operating margin narrowed to about 18% from about 22% a year earlier.
+Because operating profit grew more slowly than sales, the quarter's operating margin narrowed to about **18%** from about 22% a year earlier.
 
-For the first half of the financial year, April to September, profit rose 29% to ₹460 crore on revenue of ₹3,123 crore, which was 43% higher. EBITDA for the half grew 30% to ₹616 crore.
+For the first half of the financial year, April to September, profit rose **29%** to ₹460 crore on revenue of ₹3,123 crore, which was 43% higher. EBITDA for the half grew 30% to ₹616 crore.
 
 "Our sustainable growth in profitability is driven by an optimised product mix," said Anurag Choudhary, the company's chairman, managing director and chief executive. He said the company's focus "remains on sustaining the growth momentum, accelerating the commercialisation of advanced materials".
 

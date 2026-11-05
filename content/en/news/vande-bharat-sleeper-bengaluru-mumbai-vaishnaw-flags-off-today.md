@@ -5,14 +5,14 @@ type: news
 section: policy
 format_label: "Policy / Railways"
 topics: []
-title: "Vaishnaw to flag off Bengaluru-Mumbai Vande Bharat sleeper train today"
+title: "Vaishnaw to flag off Bengaluru-Mumbai Vande Bharat sleeper train on November 1"
 standfirst: "The overnight service from Bengaluru's SMVT terminal to Mumbai CSMT will take a little over 16 hours, with stops in Andhra Pradesh, Karnataka and Maharashtra. The inaugural run leaves at 12:15 pm."
 published: 2026-11-01T09:15:00+05:30
 location: Bengaluru
 keyPoints:
   - "Railway Minister Ashwini Vaishnaw will **inaugurate the train in Bengaluru** on Sunday."
   - "The regular service leaves SMVT at 7:45 pm and **reaches CSMT at 11:55 am** the next day."
-  - "It will run **six days a week, every day except Monday**."
+  - "It will run **six days a week**, every day except Monday."
 hero:
   need: "Two-panel split: Railway Minister Ashwini Vaishnaw and Sir M. Visvesvaraya Terminal in Bengaluru, where he flags off the train"
   suggested_source: "Ashwini Vaishnaw"

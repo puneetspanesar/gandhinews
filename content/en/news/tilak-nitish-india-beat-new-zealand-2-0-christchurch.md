@@ -68,7 +68,7 @@ Sanju Samson and Abhishek put on 40 for the first wicket before Samson, on 14, w
 
 Naman Dhir, the hero of Thursday's record chase, struck 31 off 17 balls to keep India in touch, before Santner had him as well. That left Tilak and Nitish to find nearly 70 with the pressure on.
 
-They did it without fuss. Tilak, who came in at No. 6, reached an unbeaten 51 off 26 balls, and Nitish made 26 not out off 13. Nitish hit the winning runs off the penultimate ball of the match.
+They did it without fuss. Tilak, who came in at No. 6, reached an unbeaten 51 off 26 balls, and Nitish made 26 **not out off** 13. Nitish hit the winning runs off the penultimate ball of the match.
 
 Their stand is India's highest for the seventh wicket in T20Is, beating the 63 that Dinesh Karthik and Krunal Pandya added against New Zealand in 2019.
 

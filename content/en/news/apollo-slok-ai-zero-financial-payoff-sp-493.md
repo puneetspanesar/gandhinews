@@ -37,7 +37,7 @@ verification:
 
 Artificial intelligence has so far brought "zero financial payoff to corporate America outside of tech", according to Torsten Slok, chief economist at the investment firm Apollo Global Management.
 
-In a note published by Apollo, Slok looked at what he calls the S&P 493: the S&P 500 index of large American companies without its seven biggest technology names, Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia and Tesla. Across that group, he found, profit margins and revenue per worker have stayed flat. He saw no sign in the numbers that AI is making these companies more productive.
+In a note published by Apollo, Slok looked at what he calls the **S&P 493**: the S&P 500 index of large American companies without its seven biggest technology names, Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia and Tesla. Across that group, he found, profit margins and revenue per worker have stayed flat. He saw no sign in the numbers that AI is making these companies more productive.
 
 Slok does not buy the argument that ordinary firms are simply a few years behind the tech giants and will catch up. Turning cheap AI into higher revenue and wider margins will be hard, he argued, because most business decisions rest on qualities the software lacks.
 

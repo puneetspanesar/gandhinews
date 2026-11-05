@@ -45,7 +45,7 @@ The economies of the Gulf will not return to the growth they were on before the 
 
 "We will not go back to the pre-war trajectory in the medium term," Jihad Azour, director of the IMF's Middle East and Central Asia Department, told reporters. He said the shock would leave lasting damage across several sectors, disrupt infrastructure and force governments to spend more on making their economies resilient.
 
-The fund's latest forecasts, released on Tuesday, show the Middle East and Central Asia region, which is directly exposed to the war, shrinking 0.3% in 2026. Saudi Arabia is among the worst hit, with its economy expected to contract 3.3%, a rare recession for the kingdom.
+The fund's latest forecasts, released on Tuesday, show the Middle East and Central Asia region, which is directly exposed to the war, shrinking 0.3% in 2026. Saudi Arabia is among the worst hit, with its economy expected to **contract 3.3%**, a rare recession for the kingdom.
 
 IMF Managing Director Kristalina Georgieva warned on Wednesday that the continuing attacks on Saudi Arabia could hurt people "everywhere".
 

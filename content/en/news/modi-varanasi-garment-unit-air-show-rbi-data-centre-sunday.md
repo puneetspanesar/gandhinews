@@ -5,7 +5,7 @@ type: news
 section: policy
 format_label: "Policy / Prime Minister"
 topics: []
-title: "Modi to open Arvind garment unit in Varanasi and RBI data centre in Bhubaneswar on Sunday"
+title: "Modi to open Arvind garment unit in Varanasi and RBI data centre in Bhubaneswar on October 25"
 standfirst: "The Prime Minister's Office has set out a one-day, two-state itinerary: a women-led factory in his constituency, the IAF's display over the Ganga, then the central bank's new computing hub in Odisha."
 published: 2026-10-24T08:30:00+05:30
 location: New Delhi

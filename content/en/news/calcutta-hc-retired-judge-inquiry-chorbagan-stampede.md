@@ -36,7 +36,7 @@ verification:
     - "Background (7 arrests, culpable homicide case, CM's SIT-under-judge announcement) from Gandhi News's Oct 18 story."
 ---
 
-The Calcutta High Court on Tuesday ordered the West Bengal government to set up a commission of inquiry headed by a retired High Court judge into the stampede at Kolkata's Chorbagan Durga Puja pandal, which killed 19 people on Saturday evening.
+The Calcutta High Court on Tuesday ordered the West Bengal government to set up a commission of inquiry headed by a retired High Court judge into the stampede at Kolkata's Chorbagan Durga Puja pandal, which **killed 19 people** on Saturday evening.
 
 A division bench presided over by Chief Justice Ravindra V Ghuge said the commission should look into what caused the crush and who was responsible for it. The court turned down the state's request for a sitting High Court judge to lead the probe, saying a Supreme Court directive stood in the way of such an appointment.
 
@@ -50,7 +50,7 @@ Police have already registered a culpable homicide case over the crush, and seve
 
 ## The night at Chorbagan
 
-The crowd waiting outside the north Kolkata pandal surged forward as rain began on October 17. An exit gate gave way under the weight of people pressing against it, and 19 people were killed in the crush that followed. It was the deadliest incident of the festival season in the city in years, and it led the government to call off all its own Puja events.
+The crowd waiting outside the north Kolkata pandal surged forward as rain began on October 17. An exit gate gave way under the weight of people pressing against it, and **19 people** were killed in the crush that followed. It was the deadliest incident of the festival season in the city in years, and it led the government to call off all its own Puja events.
 
 ## What happens next
 

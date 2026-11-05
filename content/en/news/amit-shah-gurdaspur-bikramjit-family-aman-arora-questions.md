@@ -53,11 +53,11 @@ verification:
     - "Mansa and Sangrur legs: scheduled; not confirmed as completed by publication."
 ---
 
-Union Home Minister Amit Shah sat with the family of Bikramjit Singh in a Gurdaspur village on Tuesday, the first stop on a Dussehra tour of Punjab homes where people were allegedly killed for speaking out against drug dealers. Before he landed, the state's Aam Aadmi Party government had a set of pointed questions waiting for him.
+Union Home Minister Amit Shah sat with the family of **Bikramjit Singh** in a Gurdaspur village on Tuesday, the first stop on a Dussehra tour of Punjab homes where people were allegedly killed for speaking out against drug dealers. Before he landed, the state's Aam Aadmi Party government had a set of pointed questions waiting for him.
 
 Bikramjit Singh was killed in Mari Panwan village, under Sri Hargobindpur police station in Batala, in an attack that also left Nishan Singh and Gurmukh Singh injured. Shah told the family their pain was beyond words, and said attempts to silence those who speak against drugs would not succeed. The Centre, he said, was committed to finding traffickers and putting them in prison.
 
-He is due to meet other bereaved families in Mansa and Sangrur during the day. Director General of Police MF Farooqui said about 1,200 to 1,300 personnel had been deployed. "We have made very comprehensive arrangements. Full security measures are in place here," he said in Gurdaspur.
+He is due to meet other bereaved families in **Mansa and Sangrur** during the day. Director General of Police MF Farooqui said about 1,200 to 1,300 personnel had been deployed. "We have made very comprehensive arrangements. Full security measures are in place here," he said in Gurdaspur.
 
 ## A political tour
 

@@ -50,13 +50,13 @@ verification:
 
 Anthropic has opened a research preview of Claude Duet, a new app in which its Claude model acts as a standing assistant that looks for work on its own, rather than waiting to be asked.
 
-"Claude Duet is a new app where Claude works as a proactive agent," the company said in its announcement on Wednesday, US time. It is aimed at professionals and small business owners who, in Anthropic's words, have more tasks than they can track. The app is available through a waitlist, starting with Pro and Max subscribers in the United States, and is included in those plans at no extra charge.
+"Claude Duet is a new app where Claude works as a proactive agent," the company said in its announcement on Wednesday, US time. It is aimed at professionals and small business owners who, in Anthropic's words, have more tasks than they can track. The app is available through a waitlist, starting with **Pro and Max subscribers** in the United States, and is included in those plans at no extra charge.
 
 ## What it does
 
 Each morning Duet sends a short brief on the most important items across a user's connected apps, such as email and calendars. Through the day it checks those apps periodically and messages the user only when something needs attention. Users can hand it tasks by typing or speaking in one running conversation, from scheduling meetings to building dashboards, sales forecasts, prototypes and simple web apps.
 
-The agent runs in its own virtual machine in the cloud, with its own browser, so the user's laptop or phone does not need to stay on. It carries over memory, skills and connected apps from the person's Claude account, and works with more than 6,000 connectors and plugins from the Claude Marketplace, among them Gmail, Slack, QuickBooks, Stripe, Gusto, LinkedIn, Docusign, HubSpot, Canva and Shopify. Anthropic's examples include chasing unpaid invoices and drafting job posts. It can also buy things for a business through Stripe's Link wallet, which uses a virtual card, or check out with Shop Pay.
+The agent runs in its own virtual machine in the cloud, with its own browser, so the user's laptop or phone does not need to stay on. It carries over memory, skills and connected apps from the person's Claude account, and works with **more than 6,000** connectors and plugins from the Claude Marketplace, among them Gmail, Slack, QuickBooks, Stripe, Gusto, LinkedIn, Docusign, HubSpot, Canva and Shopify. Anthropic's examples include chasing unpaid invoices and drafting job posts. It can also buy things for a business through Stripe's Link wallet, which uses a virtual card, or check out with Shop Pay.
 
 ## Guard rails
 

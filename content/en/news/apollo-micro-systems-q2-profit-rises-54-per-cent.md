@@ -44,14 +44,14 @@ verification:
     - "No management quotes or order book figure found."
 ---
 
-Apollo Micro Systems, a Hyderabad supplier of electronics to the defence sector, reported a 53.7% rise in consolidated profit after tax for the July-September quarter to ₹46.15 crore, from ₹30.03 crore a year earlier.
+Apollo Micro Systems, a Hyderabad supplier of electronics to the defence sector, reported a 53.7% rise in consolidated profit after tax for the July-September quarter to **₹46.15 crore**, from ₹30.03 crore a year earlier.
 
-Revenue from operations rose 72.3% to ₹388.15 crore, from ₹225.26 crore, according to results its board approved on Saturday. Total income, including other income, was ₹391.69 crore, and total expenses rose to ₹299.21 crore from ₹183.42 crore. Earnings per share were ₹1.32.
+Revenue from operations rose **72.3% to ₹388.15 crore**, from ₹225.26 crore, according to results its board approved on Saturday. Total income, including other income, was ₹391.69 crore, and total expenses rose to ₹299.21 crore from ₹183.42 crore. Earnings per share were ₹1.32.
 
-The parent company's own business grew even faster from the previous quarter. Standalone revenue was ₹306.29 crore, almost double the ₹155.89 crore of April-June, and standalone profit was ₹47.73 crore, against ₹27.83 crore in the previous quarter and ₹33.05 crore a year earlier.
+The parent company's own business grew even faster from the previous quarter. Standalone revenue was **₹306.29 crore**, almost double the ₹155.89 crore of April-June, and standalone profit was ₹47.73 crore, against ₹27.83 crore in the previous quarter and ₹33.05 crore a year earlier.
 
-For the six months to September, consolidated profit was ₹71.37 crore, up 49.6% from ₹47.71 crore, on revenue of ₹639.44 crore against ₹358.85 crore a year earlier. On a standalone basis the company earned ₹75.56 crore in the half on revenue of ₹462.18 crore.
+For the six months to September, consolidated profit was **₹71.37 crore**, up 49.6% from ₹47.71 crore, on revenue of ₹639.44 crore against ₹358.85 crore a year earlier. On a standalone basis the company earned ₹75.56 crore in the half on revenue of ₹462.18 crore.
 
-The group figures include two subsidiaries in which Apollo Micro Systems holds 51% each, Ananya SIP RF Technologies and Apollo Defence Industries. Minority shareholders in those units took a ₹2.28 crore share of losses, so profit attributable to the company's own shareholders was ₹48.43 crore, higher than the headline figure.
+The group figures include two subsidiaries in which Apollo Micro Systems holds 51% each, Ananya SIP RF Technologies and Apollo Defence Industries. Minority shareholders in those units took a **₹2.28 crore** share of losses, so profit attributable to the company's own shareholders was ₹48.43 crore, higher than the headline figure.
 
 The results were reviewed by the audit committee and given a limited review by the statutory auditors.

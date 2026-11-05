@@ -47,7 +47,7 @@ verification:
     - "'Deserved to win' taken from the myKhel headline of Dilmperis's post-match remarks."
 ---
 
-Mohun Bagan Super Giant travel to Delhi for Friday's Indian Super League match against Sporting Club Delhi still looking for their first point of the season, and without the suspended midfielder Deepak Tangri.
+Mohun Bagan Super Giant travel to Delhi for Friday's Indian Super League match against Sporting Club Delhi still looking for their first point of the season, and without the suspended midfielder **Deepak Tangri**.
 
 Both teams lost late on the opening weekend, and the meeting at the Jawaharlal Nehru Stadium gives one of them the chance to put that right.
 

@@ -56,10 +56,10 @@ The deaths came to light later that night, when Jinnaram police registered a cas
 
 The Telangana Pollution Control Board has ordered Saraka Laboratories to shut the plant. Madhuri, the board's executive engineer at Ramachandrapuram, confirmed the closure order.
 
-Gudem Mahipal Reddy, the local MLA, went to the factory after news of the deaths spread. He was angered when police at first stopped him from entering the premises. After talks with him, the company's management agreed to pay ₹70 lakh to the family of each worker who died.
+Gudem Mahipal Reddy, the local MLA, went to the factory after news of the deaths spread. He was angered when police at first stopped him from entering the premises. After talks with him, the company's management agreed to pay **₹70 lakh** to the family of each worker who died.
 
 ## Demand for a full inquiry
 
-Former minister and Siddipet MLA T Harish Rao called the deaths a "profound tragedy". He demanded a comprehensive investigation into the leak and strict action against the company's management. He also asked for proper medical care for the injured workers and ex gratia of ₹1 crore for each of the two families.
+Former minister and Siddipet MLA T Harish Rao called the deaths a "profound tragedy". He demanded a comprehensive investigation into the leak and strict action against the company's management. He also asked for proper medical care for the injured workers and ex gratia of **₹1 crore** for each of the two families.
 
 The company has not made a public statement on what caused the leak or why it was not noticed sooner. Police have not said whether any company official will be named in the case, and the Pollution Control Board has not said when, or on what conditions, the unit may be allowed to reopen.

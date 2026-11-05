@@ -60,13 +60,13 @@ verification:
     - "Share close Rs 417.70 (-0.07%) from 10bmnews; investing.com shows the same figure with a $ sign."
 ---
 
-RBL Bank's net profit nearly tripled to ₹482 crore in July-September from ₹179 crore a year earlier, in its first full quarter since Dubai's Emirates NBD took a 60% stake, results released on Monday showed.
+RBL Bank's net profit nearly tripled to **₹482 crore** in July-September from ₹179 crore a year earlier, in its first full quarter since Dubai's Emirates NBD took a 60% stake, results released on Monday showed.
 
-Net interest income, the gap between what the bank earns on loans and pays on deposits, rose 37% to ₹2,131 crore. The net interest margin widened to 4.61%. Operating profit jumped 92% to ₹1,396 crore as expenses rose only 3%, bringing the cost-to-income ratio down to 56.5% from 70.7% a year ago.
+Net interest income, the gap between what the bank earns on loans and pays on deposits, rose **37%** to ₹2,131 crore. The net interest margin widened to 4.61%. Operating profit jumped 92% to ₹1,396 crore as expenses rose only 3%, bringing the cost-to-income ratio down to 56.5% from 70.7% a year ago.
 
 ## Loans grow, bad loans shrink
 
-Net advances rose 42% to ₹1,42,314 crore and deposits 34% to ₹1,56,272 crore, with a large part of the deposit growth coming from foreign currency (FCNR) deposits. Gross bad loans fell to 1.02% of loans from 1.30% in the June quarter, and net bad loans to 0.29% from 0.37%. Provisions were ₹767 crore, against ₹599 crore in the previous quarter.
+Net advances rose **42% to ₹1,42,314 crore** and deposits 34% to ₹1,56,272 crore, with a large part of the deposit growth coming from foreign currency (FCNR) deposits. Gross bad loans fell to 1.02% of loans from 1.30% in the June quarter, and net bad loans to 0.29% from 0.37%. Provisions were ₹767 crore, against ₹599 crore in the previous quarter.
 
 > The quarter demonstrated the strength and resilience of our franchise, with excellent growth across assets and liabilities.
 >
@@ -76,8 +76,8 @@ On a call with analysts, Mr Subramaniakumar said the bank had "generated large a
 
 ## The Emirates NBD effect
 
-Emirates NBD completed its purchase of a 60% stake on June 18 through a preferential issue of about $2.75 billion (roughly ₹26,000 crore), the largest foreign investment in an Indian bank. The bank says it expects loans to grow 22-25% a year and plans to open 30 to 50 branches a quarter, taking the count to about 1,000 in roughly three years. It has 628 branches now.
+Emirates NBD completed its purchase of a **60%** stake on June 18 through a preferential issue of about $2.75 billion (roughly ₹26,000 crore), the largest foreign investment in an Indian bank. The bank says it expects loans to grow 22-25% a year and plans to open 30 to 50 branches a quarter, taking the count to about 1,000 in roughly three years. It has 628 branches now.
 
 The bank has applied to the RBI to take over Emirates NBD's India business and expects to complete it this financial year, subject to approval.
 
-RBL Bank's shares closed 0.07% lower at ₹417.70 on Monday.
+RBL Bank's shares closed **0.07%** lower at ₹417.70 on Monday.

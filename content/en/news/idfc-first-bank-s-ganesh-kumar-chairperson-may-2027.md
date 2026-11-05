@@ -41,7 +41,7 @@ IDFC First Bank's board has chosen S Ganesh Kumar, a former executive director o
 
 Ganesh Kumar, now an independent director on the board, will become part-time non-executive chairperson from May 10, 2027, and serve until April 29, 2029, when his current term as an independent director ends. The present chairperson, Sanjeeb Chaudhuri, completes his term on May 9, 2027. The appointment is "subject to the approval of the Reserve Bank of India and other regulatory approvals," the bank said.
 
-The board made the decision on Saturday on the recommendation of its nomination and remuneration committee, the same day the bank reported that its September-quarter profit had nearly tripled to ₹1,045 crore.
+The board made the decision on Saturday on the recommendation of its nomination and remuneration committee, the same day the bank reported that its September-quarter profit had nearly tripled to **₹1,045 crore**.
 
 ## Three decades at the central bank
 

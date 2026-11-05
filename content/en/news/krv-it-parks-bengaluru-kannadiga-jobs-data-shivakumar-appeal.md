@@ -59,7 +59,7 @@ verification:
     - "Delegation leaders (Abbigere Vinod, Syed Tanzeer, Mohammed Ali, T A Dharmaraj Gowda, Veerabhadra, Manjunath) from India Blooms."
 ---
 
-Activists of the **Karnataka Rakshana Vedike have walked into Bengaluru's technology offices** with a blunt question for employers: how many of your staff are Kannadigas? The drive went on into Tuesday, with the group shrugging off an appeal from the state government to keep away from the companies.
+Activists of the **Karnataka Rakshana Vedike have walked into Bengaluru's technology offices**, asking employers how many of their staff are Kannadigas. The drive went on into Tuesday, with the group shrugging off an appeal from the state government to keep away from the companies.
 
 The group, led by state president T A Narayana Gowda, launched a **month-long statewide campaign on November 1**, Kannada Rajyotsava, to press for fairer hiring of qualified local candidates in private firms. On Monday its delegations handed memorandums at Bagmane Tech Park in C V Raman Nagar, Hewlett Packard Enterprise in B Narayanapura near KR Puram, Executive Centre India at Safina Tower on Ali Asker Road and Quality Evaluations on Magadi Road.
 

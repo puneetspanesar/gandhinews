@@ -43,7 +43,7 @@ verification:
     - "India's position in the medal table not stated in ANI; omitted."
 ---
 
-Dilip Gavit completed a sprint double at the Asian Para Games on Thursday, winning the men's 400m T47 in 48.27 seconds to go with his 100m title, as India's medal count in Aichi-Nagoya climbed to 88.
+Dilip Gavit completed a sprint double at the Asian Para Games on Thursday, winning the men's 400m T47 in **48.27 seconds** to go with his 100m title, as India's medal count in Aichi-Nagoya climbed to 88.
 
 Gavit, who was defending the title he won in Hangzhou in 2023, was one of four Indian gold medallists in the athletics stadium on a day when Sheetal Devi's archery golds had already set the mood.
 

@@ -50,7 +50,7 @@ verification:
 
 Prime Minister Narendra Modi is due in Odisha next Sunday, October 25, to inaugurate the Reserve Bank of India's new greenfield data centre and training institute in Khordha district, and President Droupadi Murmu will follow with a two-day visit to her home area of Rairangpur from October 28.
 
-Chief Secretary Anu Garg chaired a high-level meeting at Lok Seva Bhawan in Bhubaneswar on Saturday morning to go over security, logistics and coordination between departments for both visits, according to officials.
+Chief Secretary **Anu Garg** chaired a high-level meeting at Lok Seva Bhawan in Bhubaneswar on Saturday morning to go over security, logistics and coordination between departments for both visits, according to officials.
 
 The Prime Minister is expected to fly into Bhubaneswar and hold official programmes in Bhubaneswar and Khordha. The RBI facility is a greenfield project, built from scratch, that will house both a data centre and a training institute for the central bank. Officials have not given its cost or exact location, or said what else is on the Prime Minister's schedule.
 

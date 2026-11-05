@@ -39,11 +39,11 @@ verification:
 
 Meta has blamed an artificial intelligence tool built on Anthropic's Claude for the suspension of the No Kings coalition's Instagram account on Saturday, at the height of nationwide demonstrations against President Donald Trump.
 
-The anti-Trump group's account went dark for about 90 minutes as its supporters gathered at events across the United States ahead of the November 3 midterm elections. The coalition says it held nearly 3,000 events in all 50 states and Washington, with millions taking part.
+The anti-Trump group's account went dark for **about 90 minutes** as its supporters gathered at events across the United States ahead of the November 3 midterm elections. The coalition says it held nearly 3,000 events in all 50 states and Washington, with millions taking part.
 
 ## What Meta says happened
 
-Andy Stone, Meta's vice-president of communications, said on Sunday that the company's Instagram engineers had traced the suspension to the account's "reading" activity. A Claude tool, he said, had been accessing profiles, posts and hashtags at about four times the normal rate, in intense bursts.
+Andy Stone, Meta's vice-president of communications, said on Sunday that the company's Instagram engineers had traced the suspension to the account's "reading" activity. A Claude tool, he said, had been accessing profiles, posts and hashtags at **about four times the normal rate**, in intense bursts.
 
 The pattern "resembled automated bot traffic rather than an ordinary human browsing our systems", Stone said, and the company's automated security system shut the account down.
 

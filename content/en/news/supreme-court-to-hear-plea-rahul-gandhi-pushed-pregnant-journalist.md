@@ -49,7 +49,7 @@ verification:
     - "No Congress response found by 9:30 pm. Whether notice was issued on Friday is not reported."
 ---
 
-The Supreme Court on Friday agreed to hear an application alleging that Leader of Opposition Rahul Gandhi pushed a pregnant woman journalist inside the court's premises during the opposition march on October 12.
+The Supreme Court on Friday agreed to hear an application alleging that Leader of Opposition Rahul Gandhi **pushed a pregnant woman journalist** inside the court's premises during the opposition march on October 12.
 
 Senior advocate Gaurav Bhatia mentioned the application before a bench of Chief Justice Surya Kant and Justice Joymalya Bagchi. "A lady journalist was pushed by Rahul Gandhi in the Supreme Court precincts," he said, adding that she had to be taken to hospital. These are allegations made in the application; the court has made no finding.
 

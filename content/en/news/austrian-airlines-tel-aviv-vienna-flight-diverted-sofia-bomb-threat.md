@@ -42,9 +42,9 @@ verification:
     - "Short brief by design; outcome of security checks not known at time of writing."
 ---
 
-An Austrian Airlines flight from Tel Aviv to Vienna made an emergency landing in Sofia, the Bulgarian capital, on Sunday night after a bomb threat.
+An Austrian Airlines flight from **Tel Aviv to Vienna** made an emergency landing in Sofia, the Bulgarian capital, on Sunday night after a bomb threat.
 
-The aircraft was carrying 51 passengers and six crew when it was diverted over what was described as a suspected security threat. No injuries were reported. The airline and the Bulgarian authorities had not given details of the threat or of the checks carried out on the plane by early Monday.
+The aircraft was carrying **51 passengers and six crew** when it was diverted over what was described as a suspected security threat. No injuries were reported. The airline and the Bulgarian authorities had not given details of the threat or of the checks carried out on the plane by early Monday.
 
 The scare comes at a nervous moment for air travel to and from Israel. The country is nine days from a bitterly fought general election, and the wider region is on edge over the Iran war, with Houthi missiles and drones fired at Saudi cities and attacks on shipping around the Strait of Hormuz at their highest level since the fighting began in February.
 

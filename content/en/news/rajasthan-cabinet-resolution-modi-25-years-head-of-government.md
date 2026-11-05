@@ -52,12 +52,12 @@ verification:
     - "Union Cabinet resolution: News On AIR, Oct 7; Vaishnaw quote verbatim from there."
 ---
 
-Rajasthan's council of ministers passed a resolution on Wednesday evening congratulating Prime Minister Narendra Modi on completing 25 years as a head of government, joining a run of BJP-led states that have marked the milestone in the past week.
+Rajasthan's council of ministers passed a resolution on Wednesday evening congratulating Prime Minister Narendra Modi on completing **25 years** as a head of government, joining a run of BJP-led states that have marked the milestone in the past week.
 
 The resolution was adopted at a special meeting chaired by Chief Minister Bhajan Lal Sharma in Jaipur. It describes Modi as the "longest-serving head of government in the country", counting his years as Chief Minister of Gujarat from October 7, 2001, to May 22, 2014, and his three terms as Prime Minister.
 
-The ministers credited the work culture of "reform, perform and transform" and the goal of a developed India by 2047 "under the vision of Viksit Bharat". The resolution listed the abrogation of Article 370, the surgical strikes and air strikes, Operation Sindoor and India's hosting of the G20 and BRICS summits as moments that raised the country's standing, and cited an IMF assessment of growth at about 7%.
+The ministers credited the work culture of "reform, perform and transform" and the goal of a developed India by 2047 "under the vision of Viksit Bharat". The resolution listed the abrogation of Article 370, the surgical strikes and air strikes, Operation Sindoor and India's hosting of the G20 and BRICS summits as moments that raised the country's standing, and cited an IMF assessment of growth at about **7%**.
 
 Closer to home, it credited the Prime Minister's guidance for progress on Rajasthan's water crisis, its push for self-reliance in power, especially renewable energy, and new industrial investment and tourism.
 
-The Union Cabinet passed its own resolution on October 7, the day Modi completed 25 years. Information and Broadcasting Minister Ashwini Vaishnaw said then that Modi "has created history that is unique in any democratic country". Cabinets in states including Andhra Pradesh and Madhya Pradesh have since followed.
+The Union Cabinet passed its own resolution on October 7, the day Modi **completed 25 years**. Information and Broadcasting Minister Ashwini Vaishnaw said then that Modi "has created history that is unique in any democratic country". Cabinets in states including Andhra Pradesh and Madhya Pradesh have since followed.

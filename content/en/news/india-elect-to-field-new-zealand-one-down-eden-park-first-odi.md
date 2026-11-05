@@ -5,7 +5,7 @@ type: news
 section: sports
 format_label: "Sports / Cricket"
 topics: []
-title: "Live: India bowl first and strike early as New Zealand reach 31 for 1 at Eden Park"
+title: "India bowl first and strike early as New Zealand reach 31 for 1 at Eden Park"
 standfirst: "India won the toss and chose to field in the first of five ODIs in Auckland. New Zealand had lost one wicket inside the first six overs, with the match still in its opening hour."
 published: 2026-11-04T08:15:00+05:30
 location: Auckland
@@ -22,13 +22,13 @@ hero:
     value: "NZ 31/1 after 5.4 overs"
 cover:
   template: sport
-  label: "Live"
+  label: "First ODI"
   headline: "India bowl first, New Zealand 31 for 1"
   bg: "Eden Park"
 infographic:
-  kicker: "New Zealand v India, 1st ODI, live"
+  kicker: "New Zealand v India, 1st ODI"
   headline: "India bowl first, strike early at Eden Park"
-  dek: "In progress, Wednesday, November 4"
+  dek: "Wednesday, November 4"
   motif: cricket
   stats:
     - {icon: cricket, value: "31/1", label: "New Zealand after 5.4 overs"}

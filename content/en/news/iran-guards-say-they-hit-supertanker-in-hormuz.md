@@ -10,7 +10,7 @@ standfirst: "The Guards said the ship had switched off its transponders and igno
 published: 2026-10-13T04:00:00+05:30
 location: Tehran
 keyPoints:
-  - "The IRGC Navy said **a supertanker was hit in the Strait of Hormuz and caught fire** on Monday."
+  - "The IRGC Navy said **a supertanker was hit** in the Strait of Hormuz and caught fire on Monday."
   - "Britain's maritime agency UKMTO is investigating a separate report of a **container ship struck by a projectile**."
   - "Brent crude rose about **2% to $106.76 a barrel** as tensions grew."
 hero:
@@ -48,6 +48,6 @@ Iran's deputy navy commander, Rear Admiral Faramarz Bemani, told state televisio
 
 Deputy Foreign Minister Kazem Gharibabadi said Tehran was "finalising its response to US considerations on a proposal submitted by Iran during the UN General Assembly", and remained ready for both diplomacy and military confrontation.
 
-Oil prices rose. Brent crude climbed about 2% to $106.76 a barrel on Monday.
+Oil prices rose. Brent crude climbed about **2%** to $106.76 a barrel on Monday.
 
 The strike comes a day after two tankers with Indian crew were hit off Oman and in the strait, leaving two Indian seafarers missing.

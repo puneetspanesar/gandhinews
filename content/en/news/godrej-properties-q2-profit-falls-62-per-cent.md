@@ -41,12 +41,12 @@ verification:
     - "Q1 FY27 figures (PAT down 42% to ₹350 crore, revenue up 16%) from Kotak Neo headline seen in search results only."
 ---
 
-Shares of Godrej Properties fell more than 6% on Friday after the developer reported a 62% drop in September-quarter profit, adding to a rough day for real-estate stocks.
+Shares of Godrej Properties fell more than **6%** on Friday after the developer reported a 62% drop in September-quarter profit, adding to a rough day for real-estate stocks.
 
-The company's consolidated net profit for July to September came in at ₹154.15 crore, against ₹405.08 crore in the same quarter last year. The fall came despite a strong rise in income: total income grew about 32% to ₹2,571.73 crore from ₹1,950.05 crore. The company said the drop in profit came from higher expenses.
+The company's consolidated net profit for July to September came in at **₹154.15 crore**, against ₹405.08 crore in the same quarter last year. The fall came despite a strong rise in income: total income grew about 32% to ₹2,571.73 crore from ₹1,950.05 crore. The company said the drop in profit came from higher expenses.
 
-The stock slid 6.2% to ₹1,468.40 in intraday trade on the BSE after the numbers came out in the early afternoon.
+The stock slid **6.2%** to ₹1,468.40 in intraday trade on the BSE after the numbers came out in the early afternoon.
 
-Property developers book revenue as projects are completed and handed over, so quarterly profits can swing sharply from one period to the next even when sales are healthy. Investors had little patience for that on Friday. The Nifty Realty index was among the two weakest sectoral gauges through the afternoon alongside metals, and the broader market was under heavy pressure, with the Nifty Smallcap index down more than 3%.
+Property developers book revenue as projects are completed and handed over, so quarterly profits can swing sharply from one period to the next even when sales are healthy. Investors had little patience for that on Friday. The Nifty Realty index was among the two weakest sectoral gauges through the afternoon alongside metals, and the broader market was under heavy pressure, with the Nifty Smallcap index down more than **3%**.
 
-Godrej Properties' profit had also fallen in the April to June quarter, when it dropped 42% to ₹350 crore even as revenue rose 16%. Two weak quarters in a row will put the spotlight on the company's sales bookings and project handovers in the second half of the year, which usually carry the bulk of a developer's annual deliveries.
+Godrej Properties' profit had also fallen in the April to June quarter, when it dropped **42%** to ₹350 crore even as revenue rose 16%. Two weak quarters in a row will put the spotlight on the company's sales bookings and project handovers in the second half of the year, which usually carry the bulk of a developer's annual deliveries.

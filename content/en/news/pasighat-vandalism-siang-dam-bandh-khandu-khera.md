@@ -46,7 +46,7 @@ verification:
 
 Arunachal Pradesh Chief Minister Pema Khandu on Saturday condemned a night of vandalism in Pasighat in which a police station, a power company office and the homes of the state BJP president and two MLAs were attacked, and invited opponents of the proposed Siang dam to talks.
 
-The violence followed a 12-hour bandh on Friday in Siang, Upper Siang and East Siang districts called by groups opposed to the Siang Upper Multipurpose Project (SUMP), a project of more than 11,000 MW. Khandu said the shutdown was largely peaceful in Siang and Upper Siang, and in Pasighat during the day.
+The violence followed a **12-hour bandh** on Friday in Siang, Upper Siang and East Siang districts called by groups opposed to the Siang Upper Multipurpose Project (SUMP), a project of more than 11,000 MW. Khandu said the shutdown was largely peaceful in Siang and Upper Siang, and in Pasighat during the day.
 
 Trouble began after it ended. The Chief Minister said incidents were reported "continuing into the early hours of October 24, until around 3.30 am."
 

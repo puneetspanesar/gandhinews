@@ -5,7 +5,7 @@ type: news
 section: policy
 format_label: "Policy / Energy"
 topics: []
-title: "Modi to open four-day renewable energy summit at Bharat Mandapam today"
+title: "Modi to open four-day renewable energy summit at Bharat Mandapam on November 2"
 standfirst: "The first Bharat Renewable Energy Summit and Expo brings together delegates from more than 130 countries, the International Solar Alliance Assembly and a green hydrogen conference."
 published: 2026-11-01T23:40:00+05:30
 location: New Delhi
@@ -23,7 +23,7 @@ hero:
 cover:
   template: speaker
   label: "Clean energy"
-  headline: "Modi opens renewable energy summit today"
+  headline: "Modi opens renewable energy summit on November 2"
   bg: "Bharat Mandapam"
 related: [agrivoltaics-world-conference-delhi-36-projects-potential]
 seo:

@@ -72,7 +72,7 @@ verification:
 
 Indian investors face one of the busiest weeks of the results season, with more than 30 large companies due to report between Monday and Saturday while what could be India's biggest IPO takes bids.
 
-The week starts with finance and materials. Bajaj Finance, UltraTech Cement, Hindustan Zinc and Union Bank of India are scheduled to report on Monday, October 19, along with IREDA, Piramal Finance, L&T Technology Services and Just Dial. Their numbers will land on a market that rose 3.1% last week on the back of strong IT results.
+The week starts with finance and materials. Bajaj Finance, UltraTech Cement, Hindustan Zinc and Union Bank of India are scheduled to report on Monday, October 19, along with IREDA, Piramal Finance, L&T Technology Services and Just Dial. Their numbers will land on a market that rose **3.1%** last week on the back of strong IT results.
 
 ## Midweek: food delivery and fuel
 
@@ -84,19 +84,19 @@ Thursday brings its rival Swiggy, the state-run refiner Hindustan Petroleum and 
 
 The heaviest day is Friday, October 23. Infosys is on the list after peers TCS, Wipro and Tech Mahindra drove last week's rally in technology shares. Dr Reddy's Laboratories, Torrent Pharmaceuticals, JSW Steel, Jindal Steel, IndusInd Bank, Shriram Finance, Bharat Petroleum, Adani Power, Coforge, Shree Cement, Godrej Properties and Bank of India are also scheduled.
 
-On Saturday, October 24, Kotak Mahindra Bank, AU Small Finance Bank and IDFC First Bank close the week. Kotak will be compared with the large private banks that reported this Saturday, when ICICI Bank's profit grew 20% and HDFC Bank's 4.7%.
+On Saturday, October 24, Kotak Mahindra Bank, AU Small Finance Bank and IDFC First Bank close the week. Kotak will be compared with the large private banks that reported this Saturday, when ICICI Bank's profit grew **20%** and HDFC Bank's 4.7%.
 
 Dates on exchange calendars can shift, and companies confirm the timing in their own filings.
 
 ## Jio and the money question
 
-The other big event is the Jio Platforms initial public offering, which opens on Wednesday and closes on Friday. At ₹1,065-1,119 a share, it is worth about ₹30,200 crore at the top of the band. Market watchers will see whether it draws money away from other shares. Paras Healthcare opens its ₹1,450 crore issue the same day.
+The other big event is the Jio Platforms initial public offering, which opens on Wednesday and closes on Friday. At ₹1,065-1,119 a share, it is worth about **₹30,200 crore** at the top of the band. Market watchers will see whether it draws money away from other shares. Paras Healthcare opens its ₹1,450 crore issue the same day.
 
 Before that, four offers take their last bids on Monday: Zetwerk, Tonbo Imaging, Bonfiglioli Transmissions and Sahajanand Medical Technologies. HD Fire Protect lists on Wednesday and Fusion CX on Thursday.
 
 ## Data and global events
 
-The Reserve Bank of India will publish its weekly foreign exchange reserves on Friday, after five straight weekly falls left them at $726.03 billion on October 9. US Secretary of State Marco Rubio meets External Affairs Minister S Jaishankar in Mumbai on Tuesday, with energy on the agenda.
+The Reserve Bank of India will publish its weekly foreign exchange reserves on Friday, after five straight weekly falls left them at **$726.03 billion** on October 9. US Secretary of State Marco Rubio meets External Affairs Minister S Jaishankar in Mumbai on Tuesday, with energy on the agenda.
 
 Abroad, oil traders will watch the US government's weekly petroleum inventory report on Wednesday. The US Federal Reserve is in its quiet period before its October 27-28 meeting, so no policymakers are due to speak. The main US data point is the preliminary S&P Global purchasing managers' indexes for October, due on Friday. Netflix, Tesla and Meta report their results in the middle of the week.
 

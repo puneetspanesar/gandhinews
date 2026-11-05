@@ -80,7 +80,7 @@ On the same day, the same bench agreed to consider a plea to fast-track appeals 
 
 A bench of Chief Justice Surya Kant and Justices Joymalya Bagchi and V. Mohana heard a petition by Paka Suresh against the Andhra Pradesh High Court's order of October 1. The High Court had directed the State Election Commission (SEC) and the state government to begin the process for rural and urban local body polls, preferably within six weeks, using electoral rolls as of January 1, 2026.
 
-Senior Advocate C. Aryama Sundaram, for the petitioner, argued that the six-week direction could not stand if the SIR was completed in the meantime. He told the court that about 44 lakh voters had been removed on the ground that they did not exist, and that new voters had been added.
+Senior Advocate C. Aryama Sundaram, for the petitioner, argued that the six-week direction could not stand if the SIR was completed in the meantime. He told the court that about **44 lakh voters** had been removed on the ground that they did not exist, and that new voters had been added.
 
 Senior Advocate K. Parameshwar, for the SEC, said the elections had not yet been notified and that the rolls in force would apply until the Election Commission of India (ECI) published a fresh list. The SEC told the court it was ready to issue the notification within the High Court's six weeks.
 
@@ -102,7 +102,7 @@ The terms of the state's urban local bodies ended on March 17, 2026, and those o
 
 In West Bengal, Senior Advocate Gopal Sankaranarayanan and advocate Prashant Bhushan sought urgent listing of a plea to prioritise appeals by voters deleted from the rolls during the SIR. Municipal elections in Kolkata and Howrah are due in November, and Sankaranarayanan said they were likely to be notified in mid-November.
 
-Bhushan told the bench that nearly 1.70 lakh appeals from the two municipal areas were pending before the SIR appellate tribunals, and that over 90% of decided appeals had gone in favour of voters. He asked for an interim order allowing pending appellants to vote. Sankaranarayanan said nearly 1 lakh appeals had been decided so far, 93% of them restoring voters to the rolls.
+Bhushan told the bench that **nearly 1.70 lakh appeals** from the two municipal areas were pending before the SIR appellate tribunals, and that over 90% of decided appeals had gone in favour of voters. He asked for an interim order allowing pending appellants to vote. Sankaranarayanan said nearly 1 lakh appeals had been decided so far, 93% of them restoring voters to the rolls.
 
 > We have already missed the by-elections; now will miss the municipal elections also.
 >
@@ -114,4 +114,4 @@ Justice Bagchi said the court was "fully conscious of the problem". The Chief Ju
 
 The Chief Justice said he would see whether the Bengal matter could be listed on October 16, and that October 29 was otherwise the best date. Sankaranarayanan said the main West Bengal SIR case had earlier been pushed to October 30.
 
-In Andhra Pradesh, the date of notification will decide which roll is used. On October 9 the Supreme Court also dismissed the state's appeal against the High Court ruling that struck down a 34% quota for Backward Classes in local bodies.
+In Andhra Pradesh, the date of notification will decide which roll is used. On October 9 the Supreme Court also dismissed the state's appeal against the High Court ruling that struck down a **34%** quota for Backward Classes in local bodies.

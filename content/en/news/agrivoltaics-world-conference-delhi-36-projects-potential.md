@@ -39,14 +39,14 @@ verification:
 
 India has just 36 working farms where solar panels and crops share the same land, the government said on Friday, as the 7th Agrivoltaics World Conference wrapped up in New Delhi with the theme "Powering the Global South".
 
-In a backgrounder released on the closing day, the government put installed agrivoltaic capacity at 37.54 MW across those 36 projects as of August 2025, with 10 more pilots in development. Set against that is an estimated national potential of roughly 3,000 GW to 14,000 GW.
+In a backgrounder released on the closing day, the government put installed agrivoltaic capacity at 37.54 MW across those 36 projects as of August 2025, with 10 more pilots in development. Set against that is an estimated national potential of roughly **3,000 GW to 14,000 GW**.
 
-The idea is simple. Solar panels are mounted on raised frames high enough for tractors to pass beneath, and the crops below get partial shade. That shade can ease heat stress and cut the water lost to evaporation. Land can also be used for livestock, and surplus power can be sold to the grid. In some cases, the government says, a farmer's yearly earnings could rise from about ₹60,000 an acre to more than ₹1 lakh. Fruits, vegetables, spices and medicinal plants are seen as the best fit.
+The idea is simple. Solar panels are mounted on raised frames high enough for tractors to pass beneath, and the crops below get partial shade. That shade can ease heat stress and cut the water lost to evaporation. Land can also be used for livestock, and surplus power can be sold to the grid. In some cases, the government says, a farmer's yearly earnings could rise from about **₹60,000** an acre to more than ₹1 lakh. Fruits, vegetables, spices and medicinal plants are seen as the best fit.
 
 ## Where the potential lies
 
 Six states, Maharashtra, Rajasthan, Andhra Pradesh, Madhya Pradesh, Karnataka and Uttar Pradesh, could together account for about half the generation potential. Screening with mapping tools found 47.35 million hectares of "restricted agricultural land" suitable for the panels.
 
-Several states already run schemes that point the same way. Maharashtra's Mukhyamantri Saur Krushi Vahini Yojana 2.0 aims for 16,000 MW of solar on about 35,000 acres to supply farm consumers, and Karnataka's Surya Raitha Yojana lets farmers sell surplus power from solar pumps. Nationally, PM-KUSUM, launched in 2019, carries about ₹34,422 crore of central support for solar in agriculture.
+Several states already run schemes that point the same way. Maharashtra's Mukhyamantri Saur Krushi Vahini Yojana 2.0 aims for 16,000 MW of solar on about 35,000 acres to supply farm consumers, and Karnataka's Surya Raitha Yojana lets farmers sell surplus power from solar pumps. Nationally, PM-KUSUM, launched in 2019, carries about **₹34,422 crore** of central support for solar in agriculture.
 
 Research is being led by an Agrivoltaics Centre of Excellence set up by the National Solar Energy Institute with ICAR-IARI, which has a 100 kW test system in Delhi. The India Agrivoltaics Alliance, launched by the solar industry federation in 2023, now has more than 40 members.

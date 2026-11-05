@@ -70,13 +70,13 @@ He ended with a pointed line: "I also hope that the Congress Party will play a c
 
 Kharge had also objected that Parliament has not been prorogued since the House was adjourned sine die on August 13, more than two months ago. A House that is adjourned but not prorogued can be recalled at short notice, which has fed talk of a special session.
 
-Rijiju said there was "no constitutional requirement prescribing a specific period" for prorogation. He cited earlier years in which Houses stayed unprorogued for long stretches, including 76 days in 1987 and 54 days in 1989. In 2008, he noted, the Lok Sabha sat on July 21 and 22, met again on October 17 and once more on December 10 without being prorogued in between.
+Rijiju said there was "no constitutional requirement prescribing a specific period" for prorogation. He cited earlier years in which Houses stayed unprorogued for long stretches, including **76 days** in 1987 and 54 days in 1989. In 2008, he noted, the Lok Sabha sat on July 21 and 22, met again on October 17 and once more on December 10 without being prorogued in between.
 
 The government has not announced a session.
 
 ## Why the numbers matter
 
-The Constitution (131st Amendment) Bill, which would have expanded the Lok Sabha to 850 seats to put women's reservation into effect, was introduced on April 16 and defeated the next day. It was the Modi government's first defeat on a constitutional amendment, which needs a two-thirds majority of members present and voting.
+The Constitution (131st Amendment) Bill, which would have expanded the Lok Sabha to **850 seats** to put women's reservation into effect, was introduced on April 16 and defeated the next day. It was the Modi government's first defeat on a constitutional amendment, which needs a two-thirds majority of members present and voting.
 
 Several of the parties Rijiju named have been sharply critical of the Election Commission in recent days. On Sunday, YSR Congress Party chief Jagan Mohan Reddy said his party had been wrong to back the 2023 law on appointing election commissioners. "We regret committing that mistake," he said. The DMK, which has left the INDIA bloc, on Saturday demanded the Chief Election Commissioner's resignation and said it "will not align with the BJP just because we walked out of the INDIA bloc".
 

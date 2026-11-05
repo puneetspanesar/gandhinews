@@ -81,7 +81,7 @@ About 2.61 crore people are eligible to vote, among them roughly 1.32 crore wome
 
 ## Long walks and crowded buses
 
-In the Paderu agency area of Alluri Sitarama Raju district, about 30 families of Moolapeta gram panchayat used the morning to demand a proper road. They said they were **"forced to carry elderly people on palanquins for nearly 20 km"** to reach their polling station.
+In the Paderu agency area of Alluri Sitarama Raju district, about 30 families of Moolapeta gram panchayat used the morning to demand a proper road. They said they were "forced to carry elderly people on palanquins for nearly 20 km" to reach their polling station.
 
 Many voters had a long journey of a different kind. On Wednesday night the MGBS and LB Nagar bus stations in Hyderabad were packed with people from Andhra heading home to vote, some of them **waiting till midnight for a bus** in the rush of Diwali travel.
 

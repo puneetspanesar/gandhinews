@@ -49,7 +49,7 @@ verification:
 
 Robert Kabera, an exiled former Rwandan soldier who became an outspoken critic of President Paul Kagame, has been found beheaded on the outskirts of Kampala, the Ugandan capital.
 
-Residents found the 50-year-old's body over the weekend. Kituuma Rusoke, the Ugandan police spokesperson, said on Monday that his head had not yet been recovered. Police have not named any suspect or announced an arrest. His family said he had gone to inspect a construction site about 45 km outside Kampala.
+Residents found the 50-year-old's body over the weekend. Kituuma Rusoke, the Ugandan police spokesperson, said on Monday that his head had not yet been recovered. Police have not named any suspect or announced an arrest. His family said he had gone to inspect a construction site about **45 km** outside Kampala.
 
 Kabera, a former sergeant major in the Rwandan army, was not known as a dissident while in uniform. He fled Rwanda after being accused of sexual assault, which he denied, and sought asylum in Uganda, saying he faced political persecution. In exile he built a following as a musician and YouTuber. His channel, Major Robert TV, has about 144,000 subscribers and more than 800 videos, many attacking Kagame's government, including a song praising the opposition figure Victoire Ingabire.
 

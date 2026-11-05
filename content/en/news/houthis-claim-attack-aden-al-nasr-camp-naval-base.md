@@ -44,7 +44,7 @@ verification:
 
 Three explosions were heard in Aden on Saturday evening, a police official in the southern Yemeni city said, as the Houthis claimed an attack on a military camp and a naval base there.
 
-A second police source said the Houthis had targeted a position of the Saudi-led coalition near Aden airport, which had also come under attack the week before, as well as the coast guard. Blasts were also heard by journalists in the city.
+A second police source said the Houthis had targeted a position of the Saudi-led coalition **near Aden airport**, which had also come under attack the week before, as well as the coast guard. Blasts were also heard by journalists in the city.
 
 Yahya Saree, the Houthi military spokesman, later claimed the strike. "Our armed forces targeted Saudi enemy concentrations at the so-called Al-Nasr camp and the naval base in Aden," he said. He described both sites as overseen by Saudi forces.
 
@@ -52,6 +52,6 @@ There was no word on casualties, and the coalition did not immediately comment.
 
 Aden is the interim seat of Yemen's internationally recognised government, which is backed by Saudi Arabia. The city has been hit repeatedly this month as fighting between the Iran-backed Houthis and Saudi forces has spread. Earlier in October, attacks on the government palace compound in Aden killed at least five people, and two missiles struck the city's airport.
 
-Saturday's attack came on a day when Saudi Arabia reported missiles fired towards Riyadh, Makkah and Madina, and Houthi media said Saudi strikes on Sanaa governorate had killed 11 people. Saree claimed seven operations against Saudi Arabia in 24 hours.
+Saturday's attack came on a day when Saudi Arabia reported missiles fired towards Riyadh, Makkah and Madina, and Houthi media said Saudi strikes on Sanaa governorate had killed **11 people**. Saree claimed seven operations against Saudi Arabia in 24 hours.
 
 The fighting in Yemen has become a second front in the wider US-Israeli war with Iran. Tehran has denied any role in the Houthi attacks on Saudi Arabia and has offered to mediate.

@@ -36,7 +36,7 @@ verification:
     - "No date or final agreement on the evacuation announced as of the report."
 ---
 
-Pope Leo XIV told Ukrainian President Volodymyr Zelenskyy on Monday about his contacts with Russia over the fate of civilians trapped in Oleshky, an occupied town in the Kherson region where about 2,000 people are left with little food, water, electricity or medicine.
+**Pope Leo XIV** told Ukrainian President Volodymyr Zelenskyy on Monday about his contacts with Russia over the fate of civilians trapped in Oleshky, an occupied town in the Kherson region where about 2,000 people are left with little food, water, electricity or medicine.
 
 "His Holiness informed me about his contacts with the Russian side regarding this issue," Zelenskyy wrote after the call. "We are working to help our people there and are preparing solutions."
 

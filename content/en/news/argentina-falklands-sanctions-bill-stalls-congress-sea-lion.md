@@ -42,9 +42,9 @@ verification:
     - "Sea Lion operators not named in sources read; left out."
 ---
 
-A bill that would let Argentina jail people involved in exploiting resources around the Falkland Islands for up to 20 years has stalled in Congress, after opposition deputies refused to accept it in one piece.
+A bill that would let Argentina jail people involved in exploiting resources around the Falkland Islands for **up to 20 years** has stalled in Congress, after opposition deputies refused to accept it in one piece.
 
-The fourth joint meeting of the Chamber of Deputies' defence, criminal law and foreign affairs committees ended on Wednesday without agreement on President Javier Milei's National Sovereignty Defence bill. The text will not reach a special session set for October 21.
+The fourth joint meeting of the Chamber of Deputies' defence, criminal law and foreign affairs committees ended on Wednesday **without agreement** on President Javier Milei's National Sovereignty Defence bill. The text will not reach a special session set for October 21.
 
 The 133-article bill was sent to Congress in September. Its first 40 articles would replace a 2011 law against unauthorised oil exploration with a wider regime of fines, bans, a public register of offenders and prison terms, aimed at those behind the Sea Lion oil project in Falklands waters. The sanctions could reach affiliates, financiers, shareholders and suppliers, and possibly the islands' fishing industry.
 

@@ -61,13 +61,13 @@ The arrest is right, and the reaction from Tripura was swift and cross-party. Ti
 
 ## Dehradun, ten months on
 
-Last December Anjel Chakma, a 24-year-old MBA student from Tripura, was attacked at Selaqui near Dehradun after he and his brother were taunted with slurs. He reportedly told his attackers, "We are not Chinese, we are Indians." He died after 17 days in hospital. Five people were arrested. Uttarakhand Police said the clash was not racially motivated, and his father said officers had at first refused to file an FIR, calling it a minor matter.
+Last December Anjel Chakma, a 24-year-old MBA student from Tripura, was attacked at Selaqui near Dehradun after he and his brother were taunted with slurs. He reportedly told his attackers, "We are not Chinese, we are Indians." He died after **17 days** in hospital. Five people were arrested. Uttarakhand Police said the clash was not racially motivated, and his father said officers had at first refused to file an FIR, calling it a minor matter.
 
 That is the pattern people from the Northeast describe again and again: the abuse, the delay, and then an argument about whether the abuse counts.
 
 ## A report gathering dust
 
-After Nido Taniam, a student from Arunachal Pradesh, was killed in Delhi in 2014, the Bezbaruah committee asked for a specific law against racial abuse or, failing that, an amendment making racial discrimination a distinct offence. It wanted such offences investigated within 60 days and tried within 90, by special police squads and designated courts.
+After Nido Taniam, a student from Arunachal Pradesh, was killed in Delhi in 2014, the Bezbaruah committee asked for a specific law against racial abuse or, failing that, an amendment making racial discrimination a distinct offence. It wanted such offences investigated within **60 days** and tried within 90, by special police squads and designated courts.
 
 Neither the law nor the amendment came. The new Bharatiya Nyaya Sanhita, activists say, does not fill the gap. "If someone is spat on and called 'corona', what do you invoke? There is nothing," said the activist Alana Golmei. Delhi got a special police unit for the North Eastern Region and a helpline, 1093. Bengaluru, Pune, Hyderabad and Dehradun, where many young people from the Northeast study and work, have nothing similar.
 

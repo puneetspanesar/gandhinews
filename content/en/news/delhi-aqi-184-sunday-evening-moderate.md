@@ -42,12 +42,12 @@ The evening reading was a few points better than the 189 logged at 9 am, but wel
 
 ## A cooler night
 
-The India Meteorological Department said the city's minimum temperature fell to 18.6 degrees Celsius, the lowest of October and 0.2 degrees above the seasonal average. The Ridge was the coldest spot at 18.1 degrees, followed by Ayanagar at 18.2, Lodhi Road at 18.3 and Palam at 18.4.
+The India Meteorological Department said the city's minimum temperature fell to **18.6 degrees Celsius**, the lowest of October and 0.2 degrees above the seasonal average. The Ridge was the coldest spot at 18.1 degrees, followed by Ayanagar at 18.2, Lodhi Road at 18.3 and Palam at 18.4.
 
-The maximum settled at 31.7 degrees, 0.9 degrees below normal. Relative humidity was 63% at 6:30 pm.
+The maximum settled at 31.7 degrees, 0.9 degrees below normal. Relative humidity was **63%** at 6:30 pm.
 
 ## What to expect on Monday
 
-The IMD has forecast mainly clear skies on Monday, with the maximum around 32 degrees and the minimum around 19 degrees.
+The IMD has forecast mainly clear skies on Monday, with the maximum around **32 degrees** and the minimum around 19 degrees.
 
 Falling night temperatures matter for the air as much as for comfort. Cooler, calmer nights trap pollutants closer to the ground, which is why Delhi's air usually worsens as October goes on. The board's next daily bulletin, due at 4 pm on Monday, will show whether the 'moderate' run holds.

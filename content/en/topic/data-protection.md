@@ -52,7 +52,7 @@ The provisions setting up the Data Protection Board of India took effect when th
 
 The consent manager framework, which lets people manage their consent across services through a single platform, begins on November 13, 2026. Most duties on organisations, and the Board's power to inquire and impose penalties, start on May 13, 2027.
 
-Two search-cum-selection committees are handling the Board appointments, one chaired by the Cabinet Secretary, LiveLaw reported. The law requires at least one member with legal expertise. Until members are named, the Board cannot hear a complaint or pass an order. Appeals against its decisions, once it starts work, will go to the Telecom Disputes Settlement and Appellate Tribunal.
+Two search-cum-selection committees are handling the Board appointments, one chaired by the Cabinet Secretary. The law requires at least one member with legal expertise. Until members are named, the Board cannot hear a complaint or pass an order. Appeals against its decisions, once it starts work, will go to the Telecom Disputes Settlement and Appellate Tribunal.
 
 ```timeline
 {"title":"Key dates","items":[{"date":"2023","text":"DPDP Act passed"},{"date":"Nov 2025","text":"Rules notified; Board established in law"},{"date":"May 6, 2026","text":"MeitY invites applications for Board posts"},{"date":"Nov 13, 2026","text":"Consent manager framework begins"},{"date":"May 13, 2027","text":"Most obligations and Board's penalty powers take effect"}]}
@@ -68,7 +68,7 @@ Two search-cum-selection committees are handling the Board appointments, one cha
 You can ask for a copy of your data, have it corrected or updated, ask for it to be erased, nominate someone to act for you, and complain to the organisation and to the Board.
 
 **Can I complain to the Board today?**
-In practice, no. A board without members cannot hear complaints or pass orders, as LiveLaw and India Data Law note.
+In practice, no. A board without members cannot hear complaints or pass orders, as India Data Law notes.
 
 **What is a consent manager?**
 An India-based company that runs one platform for people to give, review and withdraw consent across services, under the Board's oversight.

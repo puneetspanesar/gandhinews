@@ -42,13 +42,13 @@ verification:
     - "Visakhapatnam photo term chosen because Kochi/Cochin terms already used."
 ---
 
-India will become a full member of the Southern Indian Ocean Fisheries Agreement (SIOFA) after the Centre approved its accession, opening the way for Indian boats to fish legally in the high seas of the southern Indian Ocean.
+India will become a full member of the **Southern Indian Ocean Fisheries Agreement** (SIOFA) after the Centre approved its accession, opening the way for Indian boats to fish legally in the high seas of the southern Indian Ocean.
 
-The Ministry of Fisheries, Animal Husbandry and Dairying announced the decision late on Wednesday. India has taken part in the agreement since 2022 as a cooperating non-contracting party, a status that gave it a seat at the table but no full say in decisions.
+The Ministry of Fisheries, Animal Husbandry and Dairying announced the decision late on Wednesday. India has taken part in the agreement since 2022 as a **cooperating non-contracting party**, a status that gave it a seat at the table but no full say in decisions.
 
 As a contracting party, Indian-flagged vessels and companies will be able to carry out authorised fishing for squid, toothfish, alfonsino and other stocks that do not migrate across oceans. Tuna is managed separately by the Indian Ocean Tuna Commission, of which India has been a member since 1996.
 
-The ministry said the high seas make up about 65% of the world's ocean, and that fishing there is dominated by China (21%), Taiwan (13%), Japan (11%), South Korea (11%) and Spain (8%). Indian vessels, by contrast, mostly work within 60 to 80 nautical miles of the country's Exclusive Economic Zone.
+The ministry said the high seas make up about **65%** of the world's ocean, and that fishing there is dominated by China (21%), Taiwan (13%), Japan (11%), South Korea (11%) and Spain (8%). Indian vessels, by contrast, mostly work within 60 to 80 nautical miles of the country's Exclusive Economic Zone.
 
 Membership also brings India into the agreement's scientific stock assessments and its work against illegal, unreported and unregulated fishing. India will be able to join SIOFA's high seas boarding and inspection scheme, which the ministry linked to coastal security. It described the move as giving India a "recognised presence on the high seas".
 

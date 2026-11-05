@@ -62,7 +62,7 @@ Both companies kept shipping. DeepSeek, based in Hangzhou, updated its V4.1 Flas
 
 ## What Beijing is controlling
 
-On October 16 the Ministry of Commerce and the Ministry of Science and Technology put out for comment a revised Catalogue of Technologies Prohibited or Restricted from Export, a list first drawn up in 2001 and revised several times since. The new draft adds 23 AI-related technologies, among them large models, AI agents, computing power clusters and information processing, as well as AI chip design and high-speed interconnects.
+On October 16 the Ministry of Commerce and the Ministry of Science and Technology put out for comment a revised Catalogue of Technologies Prohibited or Restricted from Export, a list first drawn up in 2001 and revised several times since. The new draft adds **23 AI-related technologies**, among them large models, AI agents, computing power clusters and information processing, as well as AI chip design and high-speed interconnects.
 
 The catalogue singles out large models trained on core or important data and offered as services abroad. The tests for what counts include the amount of computing used, parameter counts above 2 trillion and whether a model ranks in the global top ten for capability. Some uses in sensitive sectors move from restricted to prohibited.
 
@@ -70,7 +70,7 @@ The registration step took effect at once. Companies must file with the Ministry
 
 ## What stays open
 
-The ministry has gone to some lengths to say what is not covered. A spokesperson said overseas access to Chinese models through APIs, websites and mobile apps falls outside the controls, as do software-as-a-service products and light on-device deployments. Open-source releases can qualify for fast-track automatic licensing, which may allow a model to be exported as soon as it is reported.
+The ministry has gone to some lengths to say what is not covered. A spokesperson said overseas access to Chinese models through **APIs, websites** and mobile apps falls outside the controls, as do software-as-a-service products and light on-device deployments. Open-source releases can qualify for fast-track automatic licensing, which may allow a model to be exported as soon as it is reported.
 
 Yuyuan Tantian said the aim was to clarify where the limits lie rather than to stop Chinese AI technology going abroad, and that most AI technologies would remain freely exportable once the rules are final. Liu Hongmei, a lawyer at Beijing Dacheng Law Offices, noted that technologies on the prohibited list will not be exportable at all once the catalogue takes effect. No date has been set for that.
 

@@ -37,12 +37,12 @@ verification:
 
 The United States says its naval blockade and military strikes have squeezed Iran so hard that the Revolutionary Guards are running short of money. Iran says the claim is wishful thinking.
 
-Admiral Brad Cooper, head of US Central Command, said the attacks and the blockade of Iran's southern ports had "dealt severe blows" to the country. "The financial strain on Iran's military has become so significant" that allied militias may be holding back their fighters' pay to send money to the Islamic Revolutionary Guard Corps, which he said was itself not paying its troops.
+Admiral **Brad Cooper**, head of US Central Command, said the attacks and the blockade of Iran's southern ports had "dealt severe blows" to the country. "The financial strain on Iran's military has become so significant" that allied militias may be holding back their fighters' pay to send money to the Islamic Revolutionary Guard Corps, which he said was itself not paying its troops.
 
-Washington says it has stopped at least $25 billion of Iranian crude exports and helped freeze about $350 million in cryptocurrency. The World Bank expects Iran's economy, home to about 90 million people, to shrink by 7.7% in 2026–27.
+Washington says it has stopped at least **$25 billion** of Iranian crude exports and helped freeze about $350 million in cryptocurrency. The World Bank expects Iran's economy, home to about 90 million people, to shrink by 7.7% in 2026-27.
 
-Tehran rejects the picture of a state near breaking point. Abdolnaser Hemmati, the central bank governor, said the economy "has demonstrated very good resilience" and that talk of collapse was "nothing more than an illusion".
+Tehran rejects the picture of a state near breaking point. **Abdolnaser Hemmati**, the central bank governor, said the economy "has demonstrated very good resilience" and that talk of collapse was "nothing more than an illusion".
 
-President Masoud Pezeshkian was more candid on Sunday, acknowledging "substantial problems" caused by the attacks and the blockade. He said managing consumption had removed the need for petrol imports that would have cost $12 billion, and promised slightly larger electronic food vouchers funded by fuel price revenue.
+President Masoud Pezeshkian was more candid on Sunday, acknowledging "substantial problems" caused by the attacks and the blockade. He said managing consumption had removed the need for petrol imports that would have cost **$12 billion**, and promised slightly larger electronic food vouchers funded by fuel price revenue.
 
 Analysts doubt the squeeze will change Iran's course. Negar Mortazavi of the Center for International Policy said economic pressure "is certainly constraining Iran's military resources" but would not force Tehran to surrender. The US State Department, for its part, said Hezbollah was "trying to save face with fake stories about cash influxes from Iran".

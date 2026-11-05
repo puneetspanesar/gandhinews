@@ -46,7 +46,7 @@ verification:
     - "No Israeli military comment found. Victims not named. Alakbarov quote from the existing Gandhi News story of October 16 (Dawn)."
 ---
 
-Israeli strikes killed three Palestinians in the Gaza Strip on Friday, Palestinian medical sources said, as Israeli troops were reported to have pushed the line that divides the territory further west in the centre of the Strip.
+Israeli strikes killed **three Palestinians** in the Gaza Strip on Friday, Palestinian medical sources said, as Israeli troops were reported to have pushed the line that divides the territory further west in the centre of the Strip.
 
 Two people were killed and others wounded when a strike hit an electric bicycle in the al-Nasr neighbourhood, west of Gaza City. Earlier in the day, another Palestinian was killed in a strike in al-Mawasi, west of Khan Younis in the south.
 

@@ -77,7 +77,7 @@ First, every state should commission a structural check of every school building
 
 Second, the list should be renewed every year before the monsoon, when old roofs and walls soaked by rain are most likely to fail. Both Jhalawar and many of Pakistan's recent collapses came after heavy rain or added construction.
 
-Third, any room marked unsafe should be closed to classes at once, with the district bound to arrange temporary space within a fixed period. Repairs on such buildings should come first in the school budget, ahead of new projects.
+Third, any **room marked unsafe** should be closed to classes at once, with the district bound to arrange temporary space within a fixed period. Repairs on such buildings should come first in the school budget, ahead of new projects.
 
 Fourth, villagers' complaints about a school building should be logged and answered in writing. In Piplodi the warnings existed. Nobody was obliged to act on them.
 

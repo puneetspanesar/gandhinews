@@ -63,13 +63,13 @@ The win, worth six points, was built over the first three days by Abishek Porel'
 
 Karnataka had trailed Andhra by 144 on first innings and were only 32 ahead overnight. Karun Nair batted the danger away. He finished unbeaten on 155 as Karnataka declared on 337 for 9, setting Andhra 194, and Andhra were 104 for 4 when play ended in fading light. Andhra take three points for the first-innings lead and Karnataka one.
 
-There was a closer escape in Srinagar. Defending champions Jammu and Kashmir, set 326 by Madhya Pradesh, collapsed to 12 for 5 and were seven down when the match ended, with bad weather reported to have cut the last session short. Madhya Pradesh take the first-innings points.
+There was a closer escape in Srinagar. Defending champions Jammu and Kashmir, set 326 by Madhya Pradesh, collapsed to **12 for 5** and were seven down when the match ended, with bad weather reported to have cut the last session short. Madhya Pradesh take the first-innings points.
 
 ## The other finishes
 
 Haryana needed 45 more on the last morning against Himachal Pradesh and got them for no further loss, winning by seven wickets in 18.1 overs, with Himanshu Rana making 37 and Dheeru Singh an unbeaten 24.
 
-Maharashtra beat Services by 127 runs after bowling them out for 120 in a chase of 248. Vicky Ostwal took five wickets in an innings for Maharashtra. Gujarat beat Odisha by 10 wickets after bowling them out for 161 in their second innings; Siddharth Desai's 5 for 36 was the best return of their game. Vidarbha beat Puducherry by 160 runs, Harsh Dubey taking 4 for 29.
+Maharashtra beat Services by **127 runs** after bowling them out for 120 in a chase of 248. Vicky Ostwal took five wickets in an innings for Maharashtra. Gujarat beat Odisha by 10 wickets after bowling them out for 161 in their second innings; Siddharth Desai's 5 for 36 was the best return of their game. Vidarbha beat Puducherry by 160 runs, Harsh Dubey taking 4 for 29.
 
 Baroda completed an innings-and-135-run win over Goa, bowling them out for 138 a second time with Bhargav Bhatt leading the way. In the Plate group, Manipur recovered from 52 for 5 to beat Mizoram by three wickets, Pheiroijam Jotin making an unbeaten 105.
 

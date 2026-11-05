@@ -76,9 +76,9 @@ verification:
 ---
 Indian shares closed lower on Monday even as the rupee posted its biggest one-day gain in six months, as rising bond yields and steady foreign selling outweighed relief from the Reserve Bank of India's weekend steps to defend the currency.
 
-The Sensex ended 547.65 points, or 0.76%, lower at 71,924.68, and the Nifty 50 fell 157.10 points, or 0.70%, to 22,363.35. The day began on a firm note: the Sensex opened nearly 300 points higher and touched 72,884 before sellers took over, dragging it to a low of 71,845.
+The Sensex ended 547.65 points, or **0.76%**, lower at 71,924.68, and the Nifty 50 fell 157.10 points, or 0.70%, to 22,363.35. The day began on a firm note: the Sensex opened nearly 300 points higher and touched 72,884 before sellers took over, dragging it to a low of 71,845.
 
-Smaller companies bucked the trend. The Nifty Smallcap 100 rose 1.42% and the Midcap 100 ended flat.
+Smaller companies bucked the trend. The Nifty Smallcap 100 rose **1.42%** and the Midcap 100 ended flat.
 
 ## The rupee bounces
 
@@ -88,13 +88,13 @@ The RBI announced on Saturday that it would meet the full daily dollar needs of 
 
 Madhavi Arora, lead economist at Emkay Global Financial Services, called the measures "tactical fixes, not structural solutions", saying they should curb speculation and offer the rupee some near-term support.
 
-Defending the currency has been costly. Foreign exchange reserves fell by $12.95 billion to $734.61 billion in the week to October 2.
+Defending the currency has been costly. Foreign exchange reserves fell by **$12.95 billion** to $734.61 billion in the week to October 2.
 
 ## Why stocks fell anyway
 
-Bond markets told a different story. India's 10-year government bond yield rose 8 basis points to 7.38% during the day, its fourth straight daily rise, after the RBI raised the repo rate to 5.50% last week and said banks must hold 99% of their required cash reserve every day from October 16.
+Bond markets told a different story. India's 10-year government bond yield rose 8 basis points to **7.38%** during the day, its fourth straight daily rise, after the RBI raised the repo rate to 5.50% last week and said banks must hold 99% of their required cash reserve every day from October 16.
 
-FMCG, bank and IT stocks led the losses. ITC, Hindustan Unilever and Tech Mahindra were among the biggest drags, with Hindustan Unilever touching a 52-week low during the session. Larsen & Toubro and Apollo Hospitals also fell, and the Nifty PSU Bank index lost 1.18%. Dr Reddy's, Bajaj Auto and Bharat Electronics gained, and media stocks jumped 4.60%. The India VIX, a gauge of expected volatility, rose as much as 8.1%.
+FMCG, bank and IT stocks led the losses. ITC, Hindustan Unilever and Tech Mahindra were among the biggest drags, with Hindustan Unilever touching a 52-week low during the session. Larsen & Toubro and Apollo Hospitals also fell, and the Nifty PSU Bank index lost **1.18%**. Dr Reddy's, Bajaj Auto and Bharat Electronics gained, and media stocks jumped 4.60%. The India VIX, a gauge of expected volatility, rose as much as 8.1%.
 
 Foreign investors sold shares worth a net ₹1,708.48 crore on Monday, according to provisional exchange data, after net sales of ₹3,568.90 crore on Friday.
 

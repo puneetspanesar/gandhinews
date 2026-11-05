@@ -38,9 +38,9 @@ verification:
 
 A civil engineer from Delhi and his elderly father were killed on Saturday when their car crashed on the Purvanchal Expressway in Uttar Pradesh's Azamgarh district, as the family drove home for a relative's wedding.
 
-Shadab, 52, who lived in Delhi's Jamia Nagar, was at the wheel. He was travelling with his father Khurshid Ahmed, 83, his wife Asma Bano, 45, and their children Mayra, 15, and Adnan Ahmed, 9. The family is from Sultanpur village in the Ghosi area of Mau district.
+Shadab, 52, who lived in Delhi's Jamia Nagar, was at the wheel. He was travelling with his father **Khurshid Ahmed, 83**, his wife Asma Bano, 45, and their children Mayra, 15, and Adnan Ahmed, 9. The family is from Sultanpur village in the Ghosi area of Mau district.
 
-Near Ohni village, at the 216.2 km mark of the expressway in the Tahbarpur area, the car struck the divider on the right, veered to the left and overturned, police said.
+Near Ohni village, at the **216.2 km** mark of the expressway in the Tahbarpur area, the car struck the divider on the right, veered to the left and overturned, police said.
 
 A rescue team from the Uttar Pradesh Expressways Industrial Development Authority (UPEIDA) took all five to hospital, where doctors declared Shadab and his father dead. Asma Bano and the two children were admitted to a private hospital. The bodies have been sent for post-mortem.
 

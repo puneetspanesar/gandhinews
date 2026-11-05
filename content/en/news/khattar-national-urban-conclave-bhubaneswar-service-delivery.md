@@ -52,11 +52,11 @@ The Union government wants India's cities judged by the services they deliver ra
 
 "Strong emphasis was placed on moving beyond mere infrastructure creation," Khattar told reporters after the two-day meeting, which his ministry organised with the Odisha government. He thanked Chief Minister Mohan Charan Majhi and the state government for hosting it.
 
-The second edition of the conclave ran on October 24 and 25 under the theme "Urban Rising: Rethinking Urban Systems, Solutions and Delivery". About 1,200 delegates came from across India and abroad, and more than 200 experts, policymakers, planners and administrators worked through eight thematic groups.
+The second edition of the conclave ran on October 24 and 25 under the theme "Urban Rising: Rethinking Urban Systems, Solutions and Delivery". About **1,200 delegates** came from across India and abroad, and more than 200 experts, policymakers, planners and administrators worked through eight thematic groups.
 
 ## What the cities were told
 
-Khattar listed the priorities that came out of the sessions: performance-based service delivery, operational efficiency, reliable water supply, the reuse and recycling of wastewater, and proper operation and maintenance of what has already been built. Participants also called for stronger municipal finances, more professional capacity in urban local bodies and better coordination between the many agencies that run a city.
+Khattar listed the priorities that came out of the sessions: **performance-based service delivery**, operational efficiency, reliable water supply, the reuse and recycling of wastewater, and proper operation and maintenance of what has already been built. Participants also called for stronger municipal finances, more professional capacity in urban local bodies and better coordination between the many agencies that run a city.
 
 He tied all of it to "ease of living" for people in cities, and presented the conclave as a search for practical answers to urban problems on the way to the government's Viksit Bharat 2047 goal.
 

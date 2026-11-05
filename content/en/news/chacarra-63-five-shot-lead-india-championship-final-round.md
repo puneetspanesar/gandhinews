@@ -54,7 +54,7 @@ verification:
 
 Eugenio Chacarra came back to Delhi Golf Club at dawn on Sunday with seven holes of his third round to play and left them with a five-shot lead in the DP World India Championship.
 
-The Spaniard picked up three birdies and finished with an eagle to complete a nine-under 63, matching the lowest round of the week set by Laurie Canter in the second round. At 19 under par after rounds of 67, 67 and 63, he takes a commanding lead into the final 18 holes, which began soon after the third round was completed.
+The Spaniard picked up three birdies and finished with an eagle to complete a **nine-under 63**, matching the lowest round of the week set by Laurie Canter in the second round. At 19 under par after rounds of 67, 67 and 63, he takes a commanding lead into the final 18 holes, which began soon after the third round was completed.
 
 Play resumed at 6:35 am after fading light halted the third round for a second evening running on Saturday. Chacarra had been two shots clear at that point, at 14 under with seven holes left.
 
@@ -72,4 +72,4 @@ A win in the $4 million event would be his third on the DP World Tour this seaso
 
 ## The Indians
 
-Six Indians made the cut. Om Prakash Chouhan is the best of them, tied 31st on five under after rounds of 68, 72 and 71. Anirban Lahiri, after a 69 on Saturday, is tied 41st on four under. Yuvraj Sandhu is tied 54th, Karandeep Kochhar and Saptak Talwar are level par in a tie for 63rd, and Shiv Kapur is one over.
+Six Indians made the cut. Om Prakash Chouhan is the best of them, **tied 31st** on five under after rounds of 68, 72 and 71. Anirban Lahiri, after a 69 on Saturday, is tied 41st on four under. Yuvraj Sandhu is tied 54th, Karandeep Kochhar and Saptak Talwar are level par in a tie for 63rd, and Shiv Kapur is one over.

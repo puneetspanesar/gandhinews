@@ -43,7 +43,7 @@ verification:
 
 French President Emmanuel Macron has lined up fresh diesel supplies from the Gulf on a three-day tour of the region, as fuel shortages and street protests pile pressure on his government at home.
 
-The United Arab Emirates committed on Tuesday to supply France with 100,000 tonnes of diesel a month for an unspecified period. Bahrain, where Macron landed at Sakhir air base later in the day, agreed to the same amount. Saudi Arabia is already providing 95,000 tonnes in each of October and November, delivered through TotalEnergies.
+The United Arab Emirates committed on Tuesday to supply France with 100,000 tonnes of diesel a month for an unspecified period. Bahrain, where Macron landed at Sakhir air base later in the day, agreed to the same amount. Saudi Arabia is already providing **95,000 tonnes** in each of October and November, delivered through TotalEnergies.
 
 Together the deals raise Gulf commitments to France to about 295,000 tonnes a month, just over a tenth of French consumption. A hundred thousand tonnes of diesel is roughly 746,000 barrels.
 
@@ -51,11 +51,11 @@ Together the deals raise Gulf commitments to France to about 295,000 tonnes a mo
 
 Macron began the trip in Kuwait, where the two countries signed eight agreements and cooperation documents covering defence, artificial intelligence and investment. In Abu Dhabi on Monday he met UAE President Sheikh Mohamed bin Zayed Al Nahyan, and the two reaffirmed cooperation in energy, advanced technology and AI. Qatar is his last stop. Senior executives from TotalEnergies and Engie are travelling with him.
 
-Trade between France and the UAE reached €10.8 billion in 2025. France supplied 18% of the UAE's arms and defence imports that year, second only to the United States at 42%.
+Trade between France and the UAE reached €**10.8 billion** in 2025. France supplied 18% of the UAE's arms and defence imports that year, second only to the United States at 42%.
 
 ## Pressure at home
 
-The war on Iran and the closure of the Strait of Hormuz have pushed oil above $100 a barrel. Up to 20% of French petrol stations have run out of petrol and diesel at various points since the conflict began. More than 500,000 people protested across France on Saturday, and over 2,500 have been arrested in weeks of unrest over the budget and the cost of living.
+The war on Iran and the closure of the Strait of Hormuz have pushed oil above $100 a barrel. Up to **20%** of French petrol stations have run out of petrol and diesel at various points since the conflict began. More than 500,000 people protested across France on Saturday, and over 2,500 have been arrested in weeks of unrest over the budget and the cost of living.
 
 France has also deepened its security role in the Gulf. In late September Macron said France would send "soldiers, radars, defence systems" to help protect Saudi Arabia's Yanbu oil terminal on the Red Sea, and the Foreign Ministry later said "operational elements" had been deployed. Foreign Minister Jean-Noël Barrot met his Saudi counterpart, Prince Faisal bin Farhan, on Monday.
 

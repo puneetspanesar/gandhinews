@@ -65,7 +65,7 @@ Sindhu reached her first final at the event by beating Japan's Hina Akechi 21-10
 
 India's women play Zimbabwe in the second one-day international at the BCA Stadium in Kotambi, near Vadodara, from 2 pm IST. A win would give them the series with a match to spare. They won Friday's opener by nine wickets, with Pratika Rawal making an unbeaten 100 and Shree Charani taking four for 23.
 
-In New Zealand, India A are in the field at Lincoln on day two of the first unofficial Test, with New Zealand A 22 runs ahead on 135 for three overnight. The senior men's team, 2-0 up in the T20I series, play the third match in Wellington on Tuesday.
+In New Zealand, India A are in the field at Lincoln on day two of the first unofficial Test, with New Zealand A **22 runs** ahead on 135 for three overnight. The senior men's team, 2-0 up in the T20I series, play the third match in Wellington on Tuesday.
 
 ## Kabaddi
 

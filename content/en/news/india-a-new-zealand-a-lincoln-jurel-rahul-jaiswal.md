@@ -35,14 +35,14 @@ verification:
     - "Single PTI report (Tribune). New Zealand A list as given in that report; the extended 19-player squad was not fully listed, so only captain Rhys Mariu is named."
 ---
 
-India's Test hopefuls get their first taste of New Zealand conditions on Saturday, when India A begin a four-day match against New Zealand A at the Bert Sutcliffe Oval in Lincoln.
+India's Test hopefuls get their first taste of New Zealand conditions on Saturday, when India A begin a four-day match against New Zealand A at the **Bert Sutcliffe Oval** in Lincoln.
 
-The side is led by wicketkeeper Dhruv Jurel and carries plenty of senior experience. KL Rahul and Yashasvi Jaiswal head a batting group that also includes Devdutt Padikkal, Sai Sudarsan and Ravichandran Smaran, while Washington Sundar, Akash Deep, Anshul Kamboj, Mukesh Kumar and Manav Suthar give the selectors a look at the bowling options.
+The side is led by wicketkeeper **Dhruv Jurel** and carries plenty of senior experience. KL Rahul and Yashasvi Jaiswal head a batting group that also includes Devdutt Padikkal, Sai Sudarsan and Ravichandran Smaran, while Washington Sundar, Akash Deep, Anshul Kamboj, Mukesh Kumar and Manav Suthar give the selectors a look at the bowling options.
 
 It is the first of three unofficial Tests. The second is in Christchurch from October 31 to November 3 and the third back in Lincoln from November 7 to 10. The senior side's World Test Championship assignment begins in Wellington on November 19.
 
 India's batting coach Sitanshu Kotak said the series had real value for both the fringe players and the senior men. "There is a lot of importance of India A series," he said, adding that for those heading into the Tests "the match practice of the red ball is very important".
 
-One notable name is missing. Rishabh Pant is recovering at the BCCI Centre of Excellence from a left side strain he picked up while captaining Rest of India in the Irani Cup. Kumar Kushagra has replaced him for the first two matches, and a call on Pant for the third will be made later.
+One notable name is missing. Rishabh Pant is recovering at the BCCI Centre of Excellence from a **left side strain** he picked up while captaining Rest of India in the Irani Cup. Kumar Kushagra has replaced him for the first two matches, and a call on Pant for the third will be made later.
 
 New Zealand A will be captained by Rhys Mariu for the first two games. The one-day series, which starts on November 4, may limit how many senior players stay with the A side throughout.

@@ -43,7 +43,7 @@ verification:
     - "Jaiswal remark on trade deal is paraphrased (Tribune); no verbatim quote."
 ---
 
-Prime Minister Narendra Modi will visit Canada on December 11 and 12, India's High Commission in Ottawa has said, in what is shaping up as a three-nation tour that is also expected to take him to the United States for the G20 summit and to Brussels.
+Prime Minister Narendra Modi will visit Canada on December 11 and 12, India's High Commission in Ottawa has said, in what is shaping up as a three-nation tour that is also expected to take him to the United States for the **G20 summit** and to Brussels.
 
 The Canada dates follow a phone call between Modi and Canadian Prime Minister Mark Carney. Writing on X after the call, Modi said the two leaders had agreed to build on the positive momentum in ties across trade, energy, technology, security and people-to-people links. Canadian Foreign Minister Anita Anand was in New Delhi last week, where she met External Affairs Minister S Jaishankar and Modi, and a Canadian trade mission led by International Trade Minister Maninder Sidhu has also visited.
 
@@ -55,6 +55,6 @@ Ties have been strained since then, with Washington objecting to India's purchas
 
 ## A stop in Brussels
 
-The tour is also expected to include a stop in Brussels, where India and the European Union could sign their long-pending free trade agreement.
+The tour is also expected to include a stop in Brussels, where India and the European Union could sign their long-pending **free trade agreement**.
 
 Before then, Jaishankar is due to hold talks with US Secretary of State Marco Rubio in Mumbai on Tuesday, October 20.

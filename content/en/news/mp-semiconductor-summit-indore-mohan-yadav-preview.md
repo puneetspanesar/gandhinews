@@ -5,7 +5,7 @@ type: news
 section: states
 format_label: "States / Madhya Pradesh"
 topics: [states]
-title: "Mohan Yadav opens Madhya Pradesh's semiconductor summit in Indore today"
+title: "Mohan Yadav opens Madhya Pradesh's semiconductor summit in Indore on October 23"
 standfirst: "More than 50 companies will exhibit at the two-day event, where the Chief Minister is due to pitch the state as a hub for chip packaging, testing and design."
 published: 2026-10-22T22:10:00+05:30
 location: Indore
@@ -39,10 +39,10 @@ Madhya Pradesh Chief Minister Mohan Yadav is due to open the state's two-day Sem
 
 After the inauguration, Yadav is scheduled to tour an exhibition and hold one-to-one meetings with investors and industry representatives. Delegates from Indian and foreign semiconductor companies, investors, industry experts, academics and start-ups are expected to attend.
 
-More than 50 companies will exhibit work across chip design, packaging and testing, equipment, materials, electronics manufacturing and newer technologies. The programme has eight panel discussions, five roundtables and four keynote talks.
+**More than 50 companies** will exhibit work across chip design, packaging and testing, equipment, materials, electronics manufacturing and newer technologies. The programme has eight panel discussions, five roundtables and four keynote talks.
 
 The first day will look at Madhya Pradesh as a centre for advanced packaging and testing, at building a fabless design industry, and at manufacturing and supply chains. Roundtables are planned on AI infrastructure, on fabless product and intellectual property companies, and with directors and vice-chancellors of academic institutions.
 
 The second day turns to chip technology, AI, electronics manufacturing, design services, research and talent. Sessions on photonics, quantum technology and small businesses are also on the agenda, and the winners of the Madhya Pradesh Semicon Startup Competition will be honoured at the close.
 
-The summit builds on the Madhya Pradesh Semiconductor Policy-2025, which the state government approved to draw investment and industry into the sector. No investment figures or company names were announced ahead of the event.
+The summit builds on the **Madhya Pradesh Semiconductor** Policy-2025, which the state government approved to draw investment and industry into the sector. No investment figures or company names were announced ahead of the event.

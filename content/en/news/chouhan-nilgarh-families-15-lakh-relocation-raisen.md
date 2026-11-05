@@ -40,9 +40,9 @@ verification:
     - "ANI only (1:15 pm IST); Daily Prabhat is a syndicated copy, not independently read. Number of families, the protected area involved and the date of the final gathering not reported, so left out. ANI's wording is 'displaced'/'relocated'; whether relocation is voluntary not stated. Package said to have been decided during Chouhan's tenure as MP Chief Minister."
 ---
 
-Union Agriculture Minister Shivraj Singh Chouhan on Sunday announced a rehabilitation package of ₹15 lakh for every family moving out of Nilgarh, a village in Madhya Pradesh's Raisen district that is being vacated to protect the surrounding forest and its wildlife.
+Union Agriculture Minister Shivraj Singh Chouhan on Sunday announced a rehabilitation package of **₹15 lakh** for every family moving out of Nilgarh, a village in Madhya Pradesh's Raisen district that is being vacated to protect the surrounding forest and its wildlife.
 
-Of that sum, ₹5 lakh is meant for building a new house. Each family will also get five acres of farmland along the highway at the new settlement, Naya Nilgarh.
+Of that sum, ₹5 lakh is meant for building a new house. Each family will also get **five acres of farmland** along the highway at the new settlement, Naya Nilgarh.
 
 "I first pay my respects to their sacrifice," Chouhan said. "It is a sacrifice to leave one's home and village for the sake of forests and wildlife."
 

@@ -37,14 +37,14 @@ verification:
     - "Ethanol tender detail is thin (which ethanol types excluded not given), so kept general."
 ---
 
-The September-quarter results season produced some sharp swings among mid-sized companies on Monday, on a day when the Sensex itself fell more than 1%.
+The September-quarter results season produced some sharp swings among mid-sized companies on Monday, on a day when the Sensex itself fell more than **1%**.
 
-Tejas Networks, the Tata group's telecom equipment maker, fell 4.5% to ₹453.20 on the NSE by early afternoon after it reported a net loss of ₹207 crore for the July-September quarter.
+Tejas Networks, the Tata group's telecom equipment maker, fell **4.5% to ₹453.20** on the NSE by early afternoon after it reported a net loss of ₹207 crore for the July-September quarter.
 
-Cyient DLM, the electronics manufacturing services company, extended its slide. Its shares were down 24% over two sessions by 1:10 pm after its operating margin narrowed by 130 basis points to 8.7%.
+Cyient DLM, the electronics manufacturing services company, extended its slide. Its shares were down **24%** over two sessions by 1:10 pm after its operating margin narrowed by 130 basis points to 8.7%.
 
-Oberoi Realty dropped 2.13% to an intraday low of ₹1,666.80 after its net profit grew only 0.3% from a year earlier.
+Oberoi Realty dropped **2.13%** to an intraday low of ₹1,666.80 after its net profit grew only 0.3% from a year earlier.
 
-At the other end, Kross, which makes components for trucks and trailers, rose as much as 20% to ₹326.80 after its profit after tax more than doubled to ₹19.69 crore. Natco Pharma gained more than 2% after it launched the cancer drug carboplatin in the United States.
+At the other end, Kross, which makes components for trucks and trailers, rose as much as **20%** to ₹326.80 after its profit after tax more than doubled to ₹19.69 crore. Natco Pharma gained more than 2% after it launched the cancer drug carboplatin in the United States.
 
 Outside the results, sugar makers including Shree Renuka Sugars and Balrampur Chini Mills fell by up to 6% around midday. The selling followed the Centre's decision to leave certain types of ethanol out of its tender for petrol blending in 2026-27, a move that could reduce demand from a business that has become an important source of income for mills.

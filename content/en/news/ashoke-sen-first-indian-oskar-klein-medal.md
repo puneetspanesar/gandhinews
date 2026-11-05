@@ -45,11 +45,11 @@ verification:
   - ICTS announcement dated Oct 22 seen only as a listing headline (full page not fetchable). Medal details from News On AIR, Oct 24. Earlier honours from ICTS April 2026 page. Date and venue of the medal lecture not found; left out.
 ---
 
-Ashoke Sen, one of the world's leading string theorists, has been awarded the Oskar Klein Medal for 2026, becoming the first Indian physicist to receive one of theoretical physics' most distinguished honours.
+Ashoke Sen, one of the world's leading string theorists, has been awarded the **Oskar Klein Medal for 2026**, becoming the first Indian physicist to receive one of theoretical physics' most distinguished honours.
 
-The medal is awarded every year by Stockholm University and the Nobel Committee for Physics of the Royal Swedish Academy of Sciences. It was set up in 1988 and is named after the Swedish theoretical physicist Oskar Klein. Its past winners include Stephen Hawking, Peter Higgs, Chen-Ning Yang, Steven Weinberg and Hans Bethe.
+The medal is awarded every year by Stockholm **University and the Nobel Committee for Physics** of the Royal Swedish Academy of Sciences. It was set up in 1988 and is named after the Swedish theoretical physicist Oskar Klein. Its past winners include Stephen Hawking, Peter Higgs, Chen-Ning Yang, Steven Weinberg and Hans Bethe.
 
-Sen is being honoured for his work on string theory, black hole entropy and string field theory. The International Centre for Theoretical Sciences (ICTS) in Bengaluru, where he holds the Infosys-Madhava Chair, announced the award on Thursday.
+Sen is being honoured for his work on **string theory, black hole entropy and string** field theory. The International Centre for Theoretical Sciences (ICTS) in Bengaluru, where he holds the Infosys-Madhava Chair, announced the award on Thursday.
 
 ## A long list of honours
 

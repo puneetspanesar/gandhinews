@@ -42,14 +42,14 @@ verification:
     - "SpaceX after-hours move (+4.8%, revenue up 161% to $14.6 billion) from Capp Notes only; mentioned briefly."
 ---
 
-Super Micro Computer, which builds servers for artificial intelligence data centres, was the standout of a crowded evening of US company results on Tuesday, jumping about 12.7% in after-hours trading after it raised its sales estimate.
+Super Micro Computer, which builds servers for artificial intelligence data centres, was the standout of a crowded evening of US company results on Tuesday, jumping about **12.7%** in after-hours trading after it raised its sales estimate.
 
-In a preliminary update, the company said it expects revenue of $18.5 billion to $19.5 billion for the first quarter of its 2027 financial year, above its earlier guidance, and a gross margin of 12% to 12.5%, against guidance of 10.4% to 10.8%. The update came at a sensitive time for AI stocks, which have been sold off over worries about the cost of the spending boom.
+In a preliminary update, the company said it expects revenue of **$18.5 billion** to $19.5 billion for the first quarter of its 2027 financial year, above its earlier guidance, and a gross margin of 12% to 12.5%, against guidance of 10.4% to 10.8%. The update came at a sensitive time for AI stocks, which have been sold off over worries about the cost of the spending boom.
 
-Capital One rose about 4.5% after reporting third-quarter net income of $3.5 billion, or $5.61 a diluted share, on revenue of $16.34 billion. Its net interest margin widened 40 basis points to 8.41%. SpaceX also gained about 4.8% after reporting a 161% jump in revenue to $14.6 billion.
+Capital One rose about **4.5%** after reporting third-quarter net income of $3.5 billion, or $5.61 a diluted share, on revenue of $16.34 billion. Its net interest margin widened 40 basis points to 8.41%. SpaceX also gained about 4.8% after reporting a 161% jump in revenue to $14.6 billion.
 
-United Airlines posted record third-quarter operating revenue of $17.9 billion and net income of $1.03 billion, or $3.14 a share, and said it expects fourth-quarter revenue to grow more than 20%. Its shares still fell about 2.2% after hours, as investors focused on the weaker parts of its outlook.
+United Airlines posted record third-quarter operating **revenue of $17.9 billion** and net income of $1.03 billion, or $3.14 a share, and said it expects fourth-quarter revenue to grow more than 20%. Its shares still fell about 2.2% after hours, as investors focused on the weaker parts of its outlook.
 
-Intuitive Surgical, the maker of the da Vinci surgical robot, slid about 7.1% even though revenue rose 22% to $3.05 billion and surgical procedures using its systems grew about 15% worldwide.
+Intuitive Surgical, the maker of the da Vinci surgical robot, slid about **7.1%** even though revenue rose 22% to $3.05 billion and surgical procedures using its systems grew about 15% worldwide.
 
 Earlier, in the regular session, General Motors fell 6.84% despite beating forecasts, while 3M rose 5.78% and was the biggest contributor to the Dow's 530-point gain. Tesla and Meta report on Wednesday.

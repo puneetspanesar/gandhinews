@@ -63,7 +63,7 @@ verification:
     - "Knicks-76ers and Thunder-Spurs games were still to finish at time of writing (7 pm and 9:30 pm ET tip-offs)."
 ---
 
-The Detroit Pistons opened the NBA season with a comeback to remember on Tuesday. Trailing the Boston Celtics by 22 points at Little Caesars Arena, they put together a 23-0 run in the fourth quarter and won 121-113.
+The Detroit Pistons opened the NBA season with a comeback to remember on Tuesday. Trailing the Boston Celtics by **22 points** at Little Caesars Arena, they put together a 23-0 run in the fourth quarter and won 121-113.
 
 The comeback was described by NBA Communications as the largest on an opening day in the play-by-play era. It spoiled Paul George's first game for Boston after his move from Philadelphia, in a Celtics line-up that no longer includes Jaylen Brown for the first time since the 2015-16 season.
 
@@ -71,7 +71,7 @@ The comeback was described by NBA Communications as the largest on an opening da
 
 Cade Cunningham scored 22 points with eight assists, and Jalen Duren matched him with 22 points, nine rebounds and two steals. Duncan Robinson finished with 21, 15 of them in the fourth quarter, and Javonte Green added 19 after sitting out the first half, 11 of them in the third quarter.
 
-The turnaround came from long range. Detroit made only 4 of 18 three-point attempts in the first half, and 11 of 22 after the break. Boston, by contrast, shot 38.5% in the second half.
+The turnaround came from long range. Detroit made only 4 of 18 three-point attempts in the first half, and 11 of 22 after the break. Boston, by contrast, shot **38.5%** in the second half.
 
 Pistons coach JB Bickerstaff praised Ausar Thompson's defensive work, saying what he wanted to see was "a willingness to continue to be assertive no matter the circumstances".
 

@@ -61,7 +61,7 @@ State Election Commissioner Anil Chandra Punetha's order, issued late on Wednesd
 
 The halt follows a special leave petition by the YSR Congress Party against the Andhra Pradesh High Court's refusal to extend the nomination deadline, which closed on October 19. The party said its candidates were attacked, threatened and stopped from reaching nomination centres in Punganur, Rayachoti, Kadapa and Tirupati, and asked for police protection so they could file "without fear."
 
-The Supreme Court directed the commission not to publish the final candidate list before October 25, to hear representations from the YSRCP and its candidates, and to examine evidence, including electronic evidence, on whether people were unable to file because of the law and order situation. Punetha said the commission would decide on Thursday whether to extend the deadline. Any extension must run for at least 48 hours from the time the decision is published, through an amendment to the election notification.
+The Supreme Court directed the commission not to publish the final candidate list before October 25, to hear representations from the YSRCP and its candidates, and to examine evidence, including electronic evidence, on whether people were unable to file because of the law and order situation. Punetha said the commission would decide on Thursday whether to extend the deadline. Any extension must run for at least **48 hours** from the time the decision is published, through an amendment to the election notification.
 
 The notification was issued on October 14, nominations ran from October 16 to 18 and scrutiny was held on October 19.
 
@@ -71,7 +71,7 @@ Chief Minister N Chandrababu Naidu, Deputy Chief Minister Pawan Kalyan and BJP s
 
 ## Tension at rural nomination centres
 
-The halt does not cover the separate polls to mandal and zilla parishads, for which nominations continued on Thursday amid more clashes. At the Anantapur Rural mandal office, where candidates were filing for the Kodimi and Itukalapalli seats, supporters of the YSRCP and the TDP threw stones at each other. Nomination papers were torn up at Narasaraopet, and at Kasapuram unidentified men snatched and tore an MPTC candidate's papers before police used lathis to separate the two sides. Scuffles were also reported at Guntakal, Puttur and Adoni.
+The halt does not cover the separate polls to mandal and zilla parishads, for which nominations continued on Thursday despite more clashes. At the Anantapur Rural mandal office, where candidates were filing for the Kodimi and Itukalapalli seats, supporters of the YSRCP and the TDP threw stones at each other. Nomination papers were torn up at Narasaraopet, and at Kasapuram unidentified men snatched and tore an MPTC candidate's papers before police used lathis to separate the two sides. Scuffles were also reported at Guntakal, Puttur and Adoni.
 
 Police placed YSRCP Kadapa MP YS Avinash Reddy and other party leaders under house arrest in Pulivendula after stone-pelting there on Wednesday. Former minister Dadisetti Raja was held at home in Thondangi in Kakinada district, and former Narasaraopet MLA Gopireddy Srinivasa Reddy was also confined to his house after planning to bring supporters by bus to file papers.
 

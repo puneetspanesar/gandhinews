@@ -38,10 +38,10 @@ verification:
 
 The United States has lifted sanctions on Jorge Rodríguez, the president of Venezuela's National Assembly and brother of the country's acting president, Delcy Rodríguez.
 
-The Treasury removed him on Wednesday from its Specially Designated Nationals list, which freezes assets in the US, bars entry to the country and forbids dealings with American citizens and companies. It gave no reason.
+The Treasury removed him on Wednesday from its **Specially Designated Nationals list**, which freezes assets in the US, bars entry to the country and forbids dealings with American citizens and companies. It gave no reason.
 
 Rodríguez, who has led the assembly since 2021, was sanctioned in September 2018 along with others close to Nicolás Maduro, including the then defence minister, Vladimir Padrino. The Treasury said at the time that Maduro had given them high-ranking posts to help him "remain in power."
 
 The move follows a steady thaw. Delcy Rodríguez took over after Maduro and his wife, Cilia Flores, were seized in a US military operation in Caracas in January. Both face charges in New York. Her own sanctions were lifted in April, and in September she met President Donald Trump while attending the UN General Assembly in New York. In August her government announced an oil agreement with Washington. The brother and sister have also pushed through legal changes to open Venezuela's energy and mining sectors to foreign companies.
 
-The political transition remains unsettled. No date has been set for a presidential election. Last week US Secretary of State Marco Rubio met Dinorah Figuera, who heads the opposition delegation in talks with the government, but nothing was announced afterwards. Opposition leader María Corina Machado is not part of those talks and has not been able to return to Venezuela.
+The political transition remains unsettled. **No date has been set** for a presidential election. Last week US Secretary of State Marco Rubio met Dinorah Figuera, who heads the opposition delegation in talks with the government, but nothing was announced afterwards. Opposition leader María Corina Machado is not part of those talks and has not been able to return to Venezuela.

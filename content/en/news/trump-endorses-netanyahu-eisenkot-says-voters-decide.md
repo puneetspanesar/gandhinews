@@ -57,7 +57,7 @@ Donald Trump has thrown his weight behind Benjamin Netanyahu nine days before Is
 
 In a post on Truth Social addressed to "the Great People of Israel" on Sunday, the US President called Netanyahu "a Great Warrior Prime Minister, and an even greater Partner for Peace in combating the Islamic Republic of Iran." He wrote in capitals: "BIBI NETANYAHU WILL NEVER LET YOU DOWN!" If Israel chose a different leader, he said, "America will have to do this work ourselves," adding that he was "not inclined to do so."
 
-The election on October 27 is Israel's first since the Hamas-led attack of October 7, 2023. Polls show a tight race, with neither Netanyahu's bloc nor the one led by former army chief Gadi Eisenkot able to reach the 61 seats needed for a majority in the 120-member Knesset. About seven million Israelis are eligible to vote.
+The election on October 27 is Israel's first since the Hamas-led attack of October 7, 2023. Polls show a tight race, with neither Netanyahu's bloc nor the one led by former army chief Gadi Eisenkot able to reach the **61 seats** needed for a majority in the 120-member Knesset. About seven million Israelis are eligible to vote.
 
 ## Netanyahu's camp seizes on it
 

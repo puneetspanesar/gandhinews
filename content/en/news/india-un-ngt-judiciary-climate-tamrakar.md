@@ -43,8 +43,8 @@ Barkha Tamrakar, a Deputy Secretary in the Ministry of External Affairs, was spe
 
 "India recognises climate change as a serious global challenge that impacts development, livelihoods, and human rights," Tamrakar said. India's approach, she said, was "firmly grounded in equity, climate justice, sustainable development" and the principle of common but differentiated responsibilities and respective capabilities, which holds that richer countries should carry more of the burden.
 
-She said "environmental protection in India is strongly supported by the Constitution", by comprehensive laws, by an independent judiciary and by the National Green Tribunal, which she named as one of the pillars of the system.
+She said "environmental protection in India is strongly supported by the Constitution", by comprehensive laws, by an independent judiciary and by the **National Green Tribunal**, which she named as one of the pillars of the system.
 
 On the report's concerns about judges, Tamrakar pointed to "transparent, institutionally supervised judicial training", including at the National Judicial Academy, "aimed at strengthening impartiality and preserving judicial independence".
 
-Separately, India held the ninth annual event of the India-UN Development Partnership Fund at the General Assembly on October 22, where partner countries praised its support for sustainable development. The $150 million fund was set up in 2017.
+Separately, India held the ninth annual event of the **India-UN Development Partnership Fund** at the General Assembly on October 22, where partner countries praised its support for sustainable development. The $150 million fund was set up in 2017.

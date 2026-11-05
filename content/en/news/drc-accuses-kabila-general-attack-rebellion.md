@@ -42,7 +42,7 @@ sources:
 
 The government of the Democratic Republic of Congo has accused former president Joseph Kabila of planning a "general attack" on the country after he took command of a new rebel front alongside the Rwandan-backed M23 movement.
 
-Kabila, 55, who ruled from 2001 to 2019, was unveiled in the rebel-held eastern city of Goma on Monday as head of the Front for the Refoundation of the Nation (FRN). The group calls itself a "politico-military" movement whose goal is "putting an end to tyranny by any means, including force". M23 leaders serve as his deputies.
+Kabila, 55, who ruled from 2001 to 2019, was unveiled in the rebel-held eastern city of Goma on Monday as head of the **Front for the Refoundation of the Nation** (FRN). The group calls itself a "politico-military" movement whose goal is "putting an end to tyranny by any means, including force". M23 leaders serve as his deputies.
 
 Government spokesman Patrick Muyaya said Kabila "has decided to formalise his widespread attack against the Republic". "The choice to take up arms means killing Congolese in order to try to conquer territories," he said, dismissing the FRN as a new face on an old campaign. "The players remain the same, the nature of the movement remains the same."
 

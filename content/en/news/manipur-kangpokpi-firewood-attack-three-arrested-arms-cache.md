@@ -36,7 +36,7 @@ verification:
     - "Kangpokpi attack (Oct 19) and Thoubal clashes (Oct 18) as background only; Thoubal covered in our earlier story."
 ---
 
-Manipur Police have arrested three suspected militants over Monday's attack on a group of villagers collecting firewood in Kangpokpi district, and recovered a large haul of weapons from the hills on the strength of what the suspects told interrogators.
+Manipur Police have arrested **three suspected militants** over Monday's attack on a group of villagers collecting firewood in Kangpokpi district, and recovered a large haul of weapons from the hills on the strength of what the suspects told interrogators.
 
 Lhari Dorje, Additional Director General of Police (Law and Order and Intelligence), said on Tuesday that two of the three had admitted to being part of the assault team. "Further investigation is underway to identify other persons involved in the Monday incident," he said.
 
@@ -44,16 +44,16 @@ Suspected armed militants opened fire on about 14 villagers who had gone to coll
 
 ## The arms haul
 
-Acting on the disclosures, police and central security forces recovered what Dorje called a "huge cache of arms and ammunition" from the mountainous area. It included an INSAS rifle, an M16, an AK-47-type rifle, a 7.62 mm sniper rifle, a Heckler and Koch 5.56 mm rifle, three 12-bore single-barrel guns and a handmade rocket launcher.
+Acting on the disclosures, police and central security forces recovered what Dorje called a "huge cache of arms and ammunition" from the mountainous area. It included an INSAS rifle, an M16, an AK-47-type rifle, a **7.62 mm** sniper rifle, a Heckler and Koch 5.56 mm rifle, three 12-bore single-barrel guns and a handmade rocket launcher.
 
 In all, the police counted 12 firearms, 1,095 live rounds, explosives and other material. Security forces are also looking into reports of missing ammunition and magazines. Senior officers of Manipur Police and the combined security forces carried out helicopter surveillance over the area, and operations are continuing.
 
 ## Detentions at Sinai Camp
 
-On Tuesday, 17 people were detained for verification at Sinai Camp, a designated camp under the Suspension of Operations agreement. Police said their identities did not match the listed cadres of the Kuki National Organisation (KNO) and the Kuki Liberation Army (KLA) attached to the camp.
+On Tuesday, **17 people** were detained for verification at Sinai Camp, a designated camp under the Suspension of Operations agreement. Police said their identities did not match the listed cadres of the Kuki National Organisation (KNO) and the Kuki Liberation Army (KLA) attached to the camp.
 ## Thoubal search
 
-Police also gave an update on the clashes between two communities at Khangabok-Sangaiyumpham in Thoubal district on Sunday, in which one person was killed and several were injured. A joint team of Thoubal police and central forces searched about 146 houses and verified more than 300 people in the Sangaiyumpham-Cherapur area. Four people were detained, two of whom have been formally arrested. A double-barrel gun was seized and sent for forensic examination.
+Police also gave an update on the clashes between two communities at Khangabok-Sangaiyumpham in Thoubal district on Sunday, in which one person was killed and several were injured. A joint team of Thoubal police and central forces searched about **146 houses** and verified more than 300 people in the Sangaiyumpham-Cherapur area. Four people were detained, two of whom have been formally arrested. A double-barrel gun was seized and sent for forensic examination.
 
 Prohibitory orders remain in the two affected areas of Thoubal.
 

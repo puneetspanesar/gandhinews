@@ -61,7 +61,7 @@ MMX is designed to answer an old question: where Phobos and its sister moon Deim
 
 "Phobos and Deimos may be the remains of a massive impact on Mars," said Tom Statler, NASA's programme scientist for the mission.
 
-The spacecraft will enter what JAXA calls a quasi-satellite orbit around Phobos, study it in detail and then make two soft landings to collect material. JAXA's goal is to bring back more than 10 grams of regolith, the loose rock and dust on the surface. Deimos will be observed in the final phase before MMX leaves for home in 2030.
+The spacecraft will enter what JAXA calls a quasi-satellite orbit around Phobos, study it in detail and then make two soft landings to collect material. JAXA's goal is to bring back **more than 10 grams** of regolith, the loose rock and dust on the surface. Deimos will be observed in the final phase before MMX leaves for home in 2030.
 
 Its payload list runs to about 14 items, including a lidar, a rover and two sampling systems. JAXA's own C-Sampler will pull cores from a few inches below the surface.
 
@@ -69,7 +69,7 @@ Its payload list runs to about 14 items, including a lidar, a rover and two samp
 
 NASA has contributed two pieces of hardware. MEGANE, a spectrometer built by the Johns Hopkins Applied Physics Laboratory, will measure gamma rays and neutrons coming off Phobos to work out what elements its surface is made of. The P-Sampler, built by Honeybee Robotics, a Blue Origin company, is fixed to one of the landing legs and uses bursts of high-pressure nitrogen to collect surface material.
 
-NASA's Deep Space Network will help track and talk to the spacecraft. NASA will receive about 15% of the returned sample, to be curated at the Johnson Space Center in Houston.
+NASA's Deep Space Network will help track and talk to the spacecraft. NASA will receive **about 15%** of the returned sample, to be curated at the Johnson Space Center in Houston.
 
 "The samples from MMX will bring forth paradigm-shifting science on the Mars system for generations to come," said Nicky Fox, who heads NASA's Science Mission Directorate.
 

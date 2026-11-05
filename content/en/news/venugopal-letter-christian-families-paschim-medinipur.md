@@ -49,7 +49,7 @@ On October 19, the letter says, the families were taken to a Durga Puja pandal i
 
 ## 'A silent bystander'
 
-Venugopal accuses the police of failing the families. A complaint made on the first day led to no effective action, he says, and an FIR naming 13 people was registered only on October 20, after a lawyer stepped in. The offences listed include attempt to murder, criminal trespass, assault with intent to disrobe, criminal intimidation, outraging the modesty of women, and theft.
+Venugopal accuses the police of failing the families. A complaint made on the first day led to no effective action, he says, and an FIR naming **13 people** was registered only on October 20, after a lawyer stepped in. The offences listed include attempt to murder, criminal trespass, assault with intent to disrobe, criminal intimidation, outraging the modesty of women, and theft.
 
 He described the police as a "silent bystander" and said attacks by "Sanghi goons" had been given "license".
 
@@ -59,7 +59,7 @@ Writing on X, he called the treatment of the families "heart-wrenching" and said
 
 The letter places the ritual at a pandal at the centre of the complaint. "Forcing any person, under threat of violence, to perform the rituals of another faith is an assault not only on the victims," Venugopal wrote, treating the case as a constitutional question and not only a crime. "Those who did this represent neither the Hindu faith nor the culture of Bengal; they bring shame to both."
 
-He cited civil society records of at least 60 incidents targeting Christians across 13 districts of West Bengal between May 13 and September 20 this year.
+He cited civil society records of at least 60 incidents targeting Christians across **13 districts** of West Bengal between May 13 and September 20 this year.
 
 ## What he wants
 

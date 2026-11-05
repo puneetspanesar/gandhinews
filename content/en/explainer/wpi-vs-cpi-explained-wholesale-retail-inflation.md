@@ -6,7 +6,7 @@ section: economy
 format_label: "Explained / Inflation"
 topics: [inflation, rbi-interest-rates]
 title: "WPI and CPI: why India has two inflation numbers, and why they are so far apart"
-standfirst: "Retail inflation is 5.54%. Wholesale inflation was 9.92% in August and is expected to cross 10% when the September figure comes out at noon today. What each index measures, why the gap is so wide and who should care."
+standfirst: "Retail inflation is 5.54%. Wholesale inflation was 9.92% in August and is expected to cross 10% when the September figure comes out at noon on October 14. What each index measures, why the gap is so wide and who should care."
 published: 2026-10-14T07:30:00+05:30
 shortAnswer: "The Consumer Price Index (CPI) tracks what households pay for goods and services in shops, and it is the number the Reserve Bank of India targets. The Wholesale Price Index (WPI) tracks the prices producers and traders charge for goods in bulk, leaves out services and gives fuel and factory goods a bigger say. That is why a fuel shock, like the one India faces now, shows up first and harder in the WPI."
 hero:
@@ -104,6 +104,6 @@ The WPI still matters to it, because a sustained rise in producer costs is one o
 
 Many long-term supply and construction contracts include price escalation clauses linked to wholesale indices. Statisticians use wholesale prices to strip out inflation from parts of the GDP estimates. Companies use it to benchmark what they pay for raw materials.
 
-## What to watch at noon today
+## What to watch in the September data
 
 **Whether September wholesale inflation crosses 10%.** India Ratings has forecast 10.2%. A reading in double digits would confirm that cost pressure in the pipeline is still building, even before the festive season and the winter months that the RBI already expects to be the peak for retail prices.

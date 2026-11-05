@@ -56,6 +56,6 @@ King Abdullah II has called the shooting a "terrorist act". No group has said it
 
 The US embassy in Amman said on Saturday that security had been stepped up across the country after the attack in Karak governorate.
 
-Karak, south of the capital, has a minority Christian population. The area has been hit before: in 2016 gunmen killed 10 people, seven of them officers, in attacks in Karak.
+Karak, south of the capital, has a minority Christian population. The area has been hit before: in 2016 gunmen killed **10 people**, seven of them officers, in attacks in Karak.
 
 Jordan's interior minister said on Friday that it was a terrorist attack unlike anything the country had seen. Jordanian authorities had earlier put the number of wounded at around 40.

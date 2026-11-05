@@ -44,7 +44,7 @@ verification:
     - "Museum closures (Louvre, Orsay, Picasso) and Art Basel weekend cancellation: AP via Tribune, 3:51 pm IST."
 ---
 
-A gunman killed one person and wounded five others in two towns west of Paris on Friday, firing at a children's playground, a fuel station and a medical centre in a rampage that lasted less than 15 minutes. France's national anti-terrorism prosecutors have taken over the case.
+A gunman killed one person and wounded five others in two towns west of Paris on Friday, firing at a children's playground, a fuel station and a medical centre in a rampage that lasted less than 15 minutes. France's **national anti-terrorism prosecutors** have taken over the case.
 
 The shooting hit Trappes and neighbouring La Verrière in the Yvelines department. Interior Minister Laurent Nuñez said three of the wounded, among them a 12-year-old girl, had life-threatening injuries. A 39-year-old man was arrested shortly afterwards. He has not been named.
 
@@ -62,7 +62,7 @@ President Emmanuel Macron wrote on X: "Our thoughts go out to the victims, their
 
 The attack came on the eve of fresh nationwide protests over the cost of living, after last weekend's demonstrations brought fires, looting, the storming of public buildings and clashes with police.
 
-Nuñez said 70,000 officers would be deployed on Saturday, backed by helicopters, armoured vehicles and water cannon. Elite units will guard public buildings such as city halls. Many demonstrations have been banned. Students, the CGT trade union and "yellow vest" activists are expected to join those that go ahead.
+Nuñez said **70,000 officers** would be deployed on Saturday, backed by helicopters, armoured vehicles and water cannon. Elite units will guard public buildings such as city halls. Many demonstrations have been banned. Students, the CGT trade union and "yellow vest" activists are expected to join those that go ahead.
 
 The security plan has drawn fire from both ends of politics. Far-right politicians say the government has not cracked down hard enough, while left-wing groups say the measures violate basic rights.
 

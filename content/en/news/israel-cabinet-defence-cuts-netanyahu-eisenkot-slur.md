@@ -37,11 +37,11 @@ verification:
     - "Galia Albin: source notes she appears not to have made the comments Netanyahu cited; copy says so."
 ---
 
-Israel's government on Sunday approved NIS 2.6 billion (about $840 million) in across-the-board cuts to ministry budgets to pay for urgent defence purchases, nine days before the country votes on October 27.
+Israel's government on Sunday approved **NIS 2.6 billion** (about $840 million) in across-the-board cuts to ministry budgets to pay for urgent defence purchases, nine days before the country votes on October 27.
 
-Every ministry will lose 4.9% of its budget, with education, health, welfare and transport among those hit. The discretionary funds that coalition parties use for their own priorities were left untouched.
+Every ministry will lose **4.9%** of its budget, with education, health, welfare and transport among those hit. The discretionary funds that coalition parties use for their own priorities were left untouched.
 
-The cuts follow an earlier approval of NIS 1 billion for Apache helicopters, which takes the total moved to defence to more than NIS 3.6 billion ($1.1 billion). Defence officials had warned that waiting for a new government to pass a budget could weaken Israel's security response. Dudi Koppel, the finance ministry's legal adviser, pointed to other sources of money that would do less damage to public services, though legal opinions found no bar to the move.
+The cuts follow an earlier approval of NIS **1 billion** for Apache helicopters, which takes the total moved to defence to more than NIS 3.6 billion ($1.1 billion). Defence officials had warned that waiting for a new government to pass a budget could weaken Israel's security response. Dudi Koppel, the finance ministry's legal adviser, pointed to other sources of money that would do less damage to public services, though legal opinions found no bar to the move.
 
 The opposition seized on the timing. "Billions of shekels are sitting in coalition funds," said Yair Lapid, the opposition leader. Oded Forer, who chairs the Yisrael Beytenu faction, said the government preferred "to slash NIS 2.6 billion from government ministries across the board", and Gilad Kariv of the Democrats called the coalition "a government of thieves".
 
@@ -49,7 +49,7 @@ The opposition seized on the timing. "Billions of shekels are sitting in coaliti
 
 The campaign was also consumed by a remark from the right-wing broadcaster Yinon Magal, who called Gadi Eisenkot, the former army chief who now leads the Yashar party, a "monkey".
 
-Yashar said on Sunday morning that more than 12 hours had passed with no condemnation. A Likud activist, Rami Ben-Yehuda, then posted a video replacing Mr Eisenkot's face with a monkey's.
+Yashar said on Sunday morning that more than **12 hours** had passed with no condemnation. A Likud activist, Rami Ben-Yehuda, then posted a video replacing Mr Eisenkot's face with a monkey's.
 
 Prime Minister Benjamin Netanyahu eventually spoke up. "That is a highly inappropriate remark, and I condemn it," he told Radio North 104.5FM. But he turned the charge on his rival, demanding that Mr Eisenkot condemn remarks mocking Sephardic Likud voters that he attributed to the businesswoman Galia Albin. "Not only does Gadi Eisenkot fail to condemn it, he personally uses it against me," Mr Netanyahu said. Ms Albin appears not to have made the comments Mr Netanyahu cited.
 

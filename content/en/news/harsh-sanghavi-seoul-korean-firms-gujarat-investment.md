@@ -43,4 +43,4 @@ The list covers a wide spread of industries. Sanghavi is due to meet Huh Sung, p
 
 There are roundtables with the chief executives of biotech firms UMTR, Plantner and Bereum, and with Korean law firms on regulation and the ease of investing in the state, as well as a meeting with start-ups. The day ends with a business seminar and dinner with Korean entrepreneurs organised by the Indian Chamber of Commerce in Korea.
 
-The department has not given any investment figures, and no agreements have been announced so far.
+The department has not given any **investment figures**, and no agreements have been announced so far.

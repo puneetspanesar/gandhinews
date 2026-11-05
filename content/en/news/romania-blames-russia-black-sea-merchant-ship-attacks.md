@@ -46,7 +46,7 @@ verification:
     - "Ship names and crew nationalities were not available. Whether any Indian seafarers were aboard is not known."
 ---
 
-Romania's foreign minister on Thursday blamed Russia for a wave of attacks on merchant ships in the Black Sea, after four vessels were struck in the space of 24 hours, some of them inside Romania's territorial waters and exclusive economic zone.
+Romania's foreign minister on Thursday blamed Russia for a wave of attacks on merchant ships in the Black Sea, after four vessels were struck in the space of **24 hours**, some of them inside Romania's territorial waters and exclusive economic zone.
 
 "Russia bears full responsibility for these developments," Oana Toiu wrote on X. "These are callous and murderous attacks against civilians."
 

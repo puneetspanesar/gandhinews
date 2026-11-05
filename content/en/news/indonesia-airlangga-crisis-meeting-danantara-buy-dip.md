@@ -52,11 +52,11 @@ Indonesia's government moved on Friday evening to steady its battered stock mark
 
 Airlangga Hartarto, the Coordinating Minister for Economic Affairs, said the lesson was that "reforms must be implemented, and the progress must be visible", both to domestic and foreign investors. He announced a high-level meeting of the government, the Financial System Stability Committee, the Financial Services Authority (OJK), Bank Indonesia and the Indonesia Stock Exchange, and urged investors to separate short-term sentiment from the economy's fundamentals.
 
-Earlier in the day the index had dropped 8.01%, or 469.86 points, to 5,393.92, setting off an automatic 30-minute halt in trading.
+Earlier in the day the index had dropped **8.01%**, or 469.86 points, to 5,393.92, setting off an automatic 30-minute halt in trading.
 
 ## The wealth fund steps in
 
-At a press conference at the stock exchange building, Rosan Roeslani, chief executive of Danantara, Indonesia's investment management agency, said the fund was ready to enter the market. Many listed companies, including state-owned firms, were trading at prices that made them attractive, he said, pointing to banks valued below their book value and to infrastructure and telecom stocks.
+At a press conference at the stock exchange building, Rosan Roeslani, chief executive of Danantara, Indonesia's investment management agency, said the fund was **ready to enter the market**. Many listed companies, including state-owned firms, were trading at prices that made them attractive, he said, pointing to banks valued below their book value and to infrastructure and telecom stocks.
 
 "Danantara always views investment as a long-term commitment," Rosan said. "We must continue to see this as an opportunity. We are optimistic, we believe in it." He blamed the fall mainly on technical factors, rumours and sentiment rather than weak company balance sheets.
 

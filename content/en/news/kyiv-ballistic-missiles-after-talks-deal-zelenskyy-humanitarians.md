@@ -42,9 +42,9 @@ verification:
     - "Drone count not given in sources; left out."
 ---
 
-Russia fired three waves of ballistic missiles at Kyiv overnight into Thursday, killing at least two people, only hours after the Kremlin said it was ready to return to US-brokered peace talks.
+Russia fired three waves of **ballistic missiles** at Kyiv overnight into Thursday, killing at least two people, only hours after the Kremlin said it was ready to return to US-brokered peace talks.
 
-President Volodymyr Zelenskyy said 21 ballistic missiles were launched at the capital, and that 34 people were injured, five of them children. Ukraine's State Emergency Service said homes, transport infrastructure and other civilian sites were damaged in several districts. In Dniprovskyi district, on the eastern bank of the Dnipro, one person was killed and six were wounded, a child among them, and fires broke out. Russia also carried out what Ukrainian officials called "massive strikes" on port facilities in the Odesa region.
+President Volodymyr Zelenskyy said **21 ballistic missiles** were launched at the capital, and that 34 people were injured, five of them children. Ukraine's State Emergency Service said homes, transport infrastructure and other civilian sites were damaged in several districts. In Dniprovskyi district, on the eastern bank of the Dnipro, one person was killed and six were wounded, a child among them, and fires broke out. Russia also carried out what Ukrainian officials called "massive strikes" on port facilities in the Odesa region.
 
 ## A jab at Washington's envoy
 

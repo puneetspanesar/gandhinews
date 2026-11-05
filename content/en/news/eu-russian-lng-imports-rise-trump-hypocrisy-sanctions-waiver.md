@@ -40,13 +40,13 @@ verification:
 
 Europe is still buying large quantities of Russian gas even as it criticises Washington for easing pressure on Moscow, figures compiled by energy researchers show.
 
-More than 12 million tonnes of liquefied natural gas from Russia's Arctic reached EU ports between January and September this year, 9.5% more than a year earlier, according to the campaign group Urgewald. In September alone the EU imported €817 million of Russian pipeline gas and €615 million of Russian LNG, the Centre for Research on Energy and Clean Air (CREA) said.
+More than 12 million tonnes of liquefied natural gas from Russia's Arctic reached EU ports between January and September this year, **9.5%** more than a year earlier, according to the campaign group Urgewald. In September alone the EU imported €817 million of Russian pipeline gas and €615 million of Russian LNG, the Centre for Research on Energy and Clean Air (CREA) said.
 
 France was the biggest LNG buyer that month, at €446 million, more than double its August purchases, followed by the Netherlands at €116 million. Hungary led pipeline imports at €414 million, ahead of Slovakia and Bulgaria. The EU plans to phase out Russian gas imports next year.
 
 ## A war of words
 
-The numbers come after President Donald Trump waived almost all of a new US law that would have penalised buyers of Russian oil and gas, including tariffs of up to 100% on the five biggest importers. Trump has accused European countries of "hypocrisy". Earlier this month the US also eased sanctions on Russian diesel sales until April 2027.
+The numbers come after President Donald Trump waived almost all of a new US law that would have penalised buyers of Russian oil and gas, including tariffs of up to **100%** on the five biggest importers. Trump has accused European countries of "hypocrisy". Earlier this month the US also eased sanctions on Russian diesel sales until April 2027.
 
 French President Emmanuel Macron said the diesel deal "sends a negative message". EU economy chief Valdis Dombrovskis said the diesel volumes were "not of any macroeconomic significance".
 
@@ -54,4 +54,4 @@ Vasily Astrov, an economist at the Vienna Institute for International Economic S
 
 ## Where India stands
 
-India was Russia's second-largest crude customer in September, buying €3.6 billion worth against China's €6 billion, CREA said. It also bought €161 million of Russian oil products. The US waiver lifts the most immediate threat of secondary tariffs on both countries, though Washington can reinstate the penalties at any time.
+India was Russia's second-largest crude customer in September, buying **€3.6 billion** worth against China's €6 billion, CREA said. It also bought €161 million of Russian oil products. The US waiver lifts the most immediate threat of secondary tariffs on both countries, though Washington can reinstate the penalties at any time.

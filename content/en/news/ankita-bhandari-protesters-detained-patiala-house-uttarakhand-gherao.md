@@ -47,9 +47,9 @@ verification:
     - "Nothing incriminating has been established against Dushyant Gautam; stated."
 ---
 
-Delhi Police detained several protesters, among them Congress workers, outside the Patiala House Court on Sunday as they demanded a transparent, court-monitored investigation into the 2022 murder of 19-year-old Ankita Bhandari in Uttarakhand.
+Delhi Police detained several protesters, among them Congress workers, outside the **Patiala House Court** on Sunday as they demanded a transparent, court-monitored investigation into the 2022 murder of 19-year-old Ankita Bhandari in Uttarakhand.
 
-Laxman Rawat, a Delhi Congress member, said about 50 people were detained, several of whom were taken to Jaffarpur police station. Between 100 and 150 people were reported to have taken part, including Congress functionaries from Uttarakhand and members of the Aam Aadmi Party and Left parties.
+Laxman Rawat, a Delhi Congress member, said about **50 people** were detained, several of whom were taken to Jaffarpur police station. Between 100 and 150 people were reported to have taken part, including Congress functionaries from Uttarakhand and members of the Aam Aadmi Party and Left parties.
 
 "Ankita Bhandari deserves justice, and her family deserves answers," Mr Rawat said, adding that no one should be above the law. "We demand that Dushyant Gautam's appointment as Sikkim governor be revoked," one protester said.
 

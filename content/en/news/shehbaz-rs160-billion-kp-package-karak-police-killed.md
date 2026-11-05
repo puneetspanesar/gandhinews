@@ -52,7 +52,7 @@ verification:
     - "Gwadar: 'security sources' only, no ISPR statement found; second operation at a hotel near Gwadar highway with four militants surrounded, outcome unknown. Hedged. 'Fitna al-Hindustan' is Pakistan's official label for Baloch militant groups it says India backs; not repeated as fact."
 ---
 
-Prime Minister Shehbaz Sharif on Thursday announced a Rs160 billion package for Khyber Pakhtunkhwa and defended the emergency and governor's rule his government imposed on the province, telling a security meeting in Peshawar that the previous administration had let the fight against militancy slide.
+Prime Minister Shehbaz Sharif on Thursday announced a **Rs160 billion package** for Khyber Pakhtunkhwa and defended the emergency and governor's rule his government imposed on the province, telling a security meeting in Peshawar that the previous administration had let the fight against militancy slide.
 
 Within hours, the cost of that fight was laid bare again. Four police personnel, including a deputy superintendent of the Counter Terrorism Department, were killed in a gun battle with militants in Karak district.
 
@@ -62,7 +62,7 @@ Shehbaz chaired the apex committee of the National Action Plan, Pakistan's count
 
 The prime minister blamed the Pakistan Tehreek-e-Insaf (PTI), which governed the province until the federal takeover, for allowing militants to return. He said about 5,000 police posts had been left vacant, Safe City projects delayed and the CTD left weak, and that the federal government had offered the last two PTI chief ministers full support that was never taken up. "The people-related issues, including education and the protection of citizens, were sidelined," he said.
 
-Samar Bilour, the provincial information adviser, said 70% of the new money would go to the merged districts, the former tribal areas, and the rest to other districts. Problems faced by the police and the CTD would be dealt with on priority, Bilour said.
+Samar Bilour, the provincial information adviser, said **70%** of the new money would go to the merged districts, the former tribal areas, and the rest to other districts. Problems faced by the police and the CTD would be dealt with on priority, Bilour said.
 
 The takeover came as the PTI prepared a long march on Islamabad. The Khyber Pakhtunkhwa Bar Council has called it unconstitutional and undemocratic, and called a province-wide lawyers' strike against it for Monday.
 

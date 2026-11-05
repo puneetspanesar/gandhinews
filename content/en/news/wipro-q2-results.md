@@ -55,18 +55,18 @@ verification:
 
 Wipro's profit fell in the July to September quarter even as revenue rose, the Bengaluru IT company said in a stock exchange filing on Thursday.
 
-Net profit came to about ₹3,200 crore, down from ₹3,262.4 crore a year earlier, a drop of roughly 2%. Compared with the June quarter, profit was down about 4.5%. Revenue from operations rose 9.1% from a year ago to ₹24,753 crore, and was up 1.1% from the previous quarter. Almost all of it, ₹24,667 crore, came from the IT services business.
+Net profit came to about **₹3,200 crore**, down from ₹3,262.4 crore a year earlier, a drop of roughly 2%. Compared with the June quarter, profit was down about 4.5%. Revenue from operations rose 9.1% from a year ago to ₹24,753 crore, and was up 1.1% from the previous quarter. Almost all of it, ₹24,667 crore, came from the IT services business.
 
-For the first half of the financial year, revenue was ₹49,231.3 crore against ₹44,831.9 crore a year earlier, while profit was nearly flat at ₹6,556 crore.
+For the first half of the financial year, revenue was **₹49,231.3 crore** against ₹44,831.9 crore a year earlier, while profit was nearly flat at ₹6,556 crore.
 
 ## Close on revenue, short on profit
 
-The revenue figure was broadly in line with forecasts. Brokers had on average expected growth of about 9% from a year earlier, helped by acquisitions, and Axis Direct had pencilled in ₹24,601 crore. They had also expected profit to rise about 2%, so the fall in earnings was a disappointment. Higher operating costs ate into the gains.
+The revenue figure was broadly in line with forecasts. Brokers had on average expected growth of about **9%** from a year earlier, helped by acquisitions, and Axis Direct had pencilled in ₹24,601 crore. They had also expected profit to rise about 2%, so the fall in earnings was a disappointment. Higher operating costs ate into the gains.
 
 Brokers had warned before the results that the core business faced weak discretionary spending by clients, pressure on prices and loss of market share, and that clients in the US and Europe were focused on cutting costs.
 
 ## The number to watch
 
-Wipro gives a forecast each quarter for revenue growth in its IT services business, and that outlook for October to December is what investors will focus on. Emkay and Nuvama had expected a range of minus 2% to zero, citing seasonal furloughs, weak discretionary spending and lower prices as clients adopt artificial intelligence.
+Wipro gives a forecast each quarter for revenue growth in its IT services business, and that outlook for October to December is what investors will focus on. Emkay and Nuvama had expected a range of minus **2%** to zero, citing seasonal furloughs, weak discretionary spending and lower prices as clients adopt artificial intelligence.
 
-Wipro's shares traded at about ₹170 on Wednesday. Tech Mahindra, whose board is also considering a bonus issue, is due to report its results on Thursday as well.
+Wipro's shares traded at about **₹170** on Wednesday. Tech Mahindra, whose board is also considering a bonus issue, is due to report its results on Thursday as well.

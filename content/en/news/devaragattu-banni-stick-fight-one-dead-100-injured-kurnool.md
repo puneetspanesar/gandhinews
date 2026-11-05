@@ -48,7 +48,7 @@ The dead man was identified as Potaraju of Alur. About 10 of the injured are in 
 
 The clash is the centrepiece of the Banni Utsav, held every year during Dussehra at the Mala Malleswara Swamy temple at Devaragattu in Holagonda mandal. The sticks came out after midnight as the festival procession moved. Villagers regard the fight as a tradition and went ahead with it in defiance of police orders.
 
-Thousands of spectators came from across Kurnool, neighbouring districts and nearby states. More than 1,000 police personnel were deployed, but they could not prevent the fight. Tension remained in the area on Thursday morning and extra police were sent in.
+Thousands of spectators came from across Kurnool, neighbouring districts and nearby states. More than **1,000 police personnel** were deployed, but they could not prevent the fight. Tension remained in the area on Thursday morning and extra police were sent in.
 
 The festival night has added to the load on Kurnool police, who are also managing tense nominations for the rural local body polls. On Thursday, TDP and YSRCP leaders argued at the Adoni mandal office on the second day of filing for mandal parishad seats until police stepped in and dispersed both groups.
 

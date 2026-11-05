@@ -44,6 +44,6 @@ Speaking at the GCC CSR Leadership Forum, organised by SoulAce at The Oberoi, Kh
 
 Kharge asked the centres to tell the government which areas and communities they want to support, so it could arrange targeted partnerships. He listed education, skilling, livelihoods, water management, nutrition and community development, along with energy efficiency, renewable energy, urban wastewater, public infrastructure and arts and culture. He urged companies to pilot solutions from start-ups and industry and scale up the ones that work, and to build safeguards for data privacy and cybersecurity into any technology projects.
 
-Examples raised at the forum included about 1,000 refurbished computers redistributed to grassroots offices and hostels, and an eye-testing drive that reached more than 2 lakh people. SoulAce also released its report, State of CSR in India's GCCs 2025-26.
+Examples raised at the forum included about 1,000 refurbished computers redistributed to grassroots offices and hostels, and an eye-testing drive that reached more than **2 lakh people**. SoulAce also released its report, State of CSR in India's GCCs 2025-26.
 
 No budget or start date for the framework was announced.

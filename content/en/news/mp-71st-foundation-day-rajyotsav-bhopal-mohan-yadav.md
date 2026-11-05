@@ -6,7 +6,7 @@ section: states
 format_label: "States / Madhya Pradesh"
 topics: [states]
 title: "Madhya Pradesh turns 71; Mohan Yadav to open three-day Rajyotsav in Bhopal"
-standfirst: "The Chief Minister opens the festival at Lal Parade Ground this morning, with farmers' quiz winners getting tractors and 102 students getting ₹1 lakh each."
+standfirst: "The Chief Minister opens the festival at Lal Parade Ground on the morning of November 1, with farmers' quiz winners getting tractors and 102 students getting ₹1 lakh each."
 published: 2026-11-01T07:15:00+05:30
 location: Bhopal
 keyPoints:
@@ -48,7 +48,7 @@ verification:
     - "PM / President greetings for 2026 not found in sources read (search results returned 2025 posts); left out."
 ---
 
-Madhya Pradesh marks its **71st foundation day** today, and Bhopal is the centre of the celebrations. Chief Minister Mohan Yadav opens a **three-day Rajyotsav** at Lal Parade Ground at about 11 am, touring an agriculture exhibition, a development gallery, a women's entrepreneurship pavilion and an indigenous food fair.
+Madhya Pradesh marks its **71st foundation day** on November 1, and Bhopal is the centre of the celebrations. Chief Minister Mohan Yadav opens a **three-day Rajyotsav** at Lal Parade Ground at about 11 am, touring an agriculture exhibition, a development gallery, a women's entrepreneurship pavilion and an indigenous food fair.
 
 The state was formed on November 1, 1956. This year's theme is "State Moving Forward on the Path from Heritage to Development". Dharmendra Singh Lodhi, Minister of State for Culture and Tourism, said the festival "is being organised to showcase Madhya Pradesh's seven-decade development journey".
 

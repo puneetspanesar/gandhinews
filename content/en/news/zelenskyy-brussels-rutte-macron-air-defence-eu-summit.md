@@ -90,11 +90,11 @@ While he was meeting French President Emmanuel Macron in the evening, Russian dr
 
 He said France would provide new packages for Ukraine's combat aviation this month, and that work on a European anti-ballistic shield would speed up. "FREYJA needs to become operational by the end of the year," he said. He also thanked Macron for weapons production licences France had promised and Ukraine has now received.
 
-With Belgian Prime Minister Bart De Wever, the talk was of fighter jets. Zelenskyy said almost 15,000 people in Volyn region had lost power that evening and parts of Kyiv were partly without electricity, with repair crews in some places unable to start work for fear of follow-up "double-tap" strikes. "Right now, F-16s are helping significantly in repelling attacks by jet-powered 'shaheds'," he said. "We are working with Belgium to receive additional fighter jets as soon as possible."
+With Belgian Prime Minister Bart De Wever, the talk was of fighter jets. Zelenskyy said almost **15,000 people** in Volyn region had lost power that evening and parts of Kyiv were partly without electricity, with repair crews in some places unable to start work for fear of follow-up "double-tap" strikes. "Right now, F-16s are helping significantly in repelling attacks by jet-powered 'shaheds'," he said. "We are working with Belgium to receive additional fighter jets as soon as possible."
 
 ## Sanctions and money
 
-Polish Prime Minister Donald Tusk offered condolences and promised continued help. Zelenskyy said 52 people had been injured across Ukraine that day alone, and thanked Tusk for his position on sanctions: "there must be no steps that help Russia continue this war."
+Polish Prime Minister Donald Tusk offered condolences and promised continued help. Zelenskyy said **52 people** had been injured across Ukraine that day alone, and thanked Tusk for his position on sanctions: "there must be no steps that help Russia continue this war."
 
 The last meeting of the night, with Danish Prime Minister Mette Frederiksen, turned to how Denmark can help pay for Ukraine's resilience through the winter. Zelenskyy said Moscow had read talk of easing sanctions as a green light to keep hitting homes and substations, and that it was "critically important for everyone in Europe to mobilize". He said Ukraine "can always count on Denmark." He also had an audience with King Philippe of the Belgians.
 

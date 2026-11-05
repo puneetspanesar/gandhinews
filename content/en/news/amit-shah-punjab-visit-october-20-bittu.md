@@ -5,24 +5,24 @@ type: news
 section: policy
 format_label: "Policy / Home Affairs"
 topics: []
-title: "Amit Shah to visit Punjab on Tuesday as anger over Jhota killing simmers"
+title: "Amit Shah to visit Punjab on October 20 as anger over Jhota killing simmers"
 standfirst: "Ravneet Singh Bittu announced the Home Minister's second trip to the state in a month, framing it around the BJP's push for a drug-free Punjab."
 published: 2026-10-18T12:45:00+05:30
 location: Chandigarh
 keyPoints:
   - "Union Home Minister Amit Shah will visit Punjab on **October 20**, BJP leader Ravneet Singh Bittu said."
   - "It is Shah's **second visit in a month** after a Jalandhar rally on September 30."
-  - "The trip comes amid protests over the **killing of anti-drug activist Parvinder Singh Jhota** in Mansa."
+  - "The trip comes as protests continue over the **killing of anti-drug activist Parvinder Singh Jhota** in Mansa."
 hero:
   need: "Amit Shah, with Ravneet Singh Bittu as a second panel"
   suggested_source: "Amit Shah"
   subjects: ["Amit Shah", "Ravneet Singh Bittu"]
   alt: "Union Home Minister Amit Shah and BJP leader Ravneet Singh Bittu"
   overlay:
-    value: "Shah back in Punjab on Tuesday"
+    value: "Shah back in Punjab on October 20"
 related: [mansa-anti-drug-activist-parvinder-jhota-shot-dead, jhota-panel-gherao-aap-mlas-singla-heckled-mansa, jhota-accused-police-remand-wife-held-mann-phillaur-review, punjab-bandh-jhota-mansa-shutdown-response, jakhar-seeks-nia-ed-probe-punjab-prison-drug-network]
 seo:
-  description: "Amit Shah will visit Punjab on October 20, 2026, Ravneet Singh Bittu said, his second trip in a month amid protests over anti-drug activist Parvinder Singh Jhota's killing in Mansa."
+  description: "Amit Shah will visit Punjab on October 20, 2026, Ravneet Singh Bittu said, his second trip in a month, with protests continuing over anti-drug activist Parvinder Singh Jhota's killing in Mansa."
 sources:
   - title: "Amit Shah to visit Punjab on Oct 20, says BJP leader Ravneet Bittu"
     publisher: "ThePrint (PTI)"
@@ -46,6 +46,6 @@ Shah was last in the state on September 30, when he addressed a rally in Jalandh
 
 ## Mansa in the background
 
-The visit comes as protests continue in Mansa over the killing of anti-drug activist Parvinder Singh Jhota, who was shot dead in broad daylight on October 13 inside a medical store in a crowded market. Jhota had objected to chemists selling addictive substances. The store owner, Ashwani Kumar, is accused of opening fire after Jhota confronted him for selling such drugs to an elderly man. Police arrested him in Salasar, Rajasthan.
+The visit comes as protests continue in Mansa over the **killing of anti-drug activist Parvinder Singh Jhota**, who was shot dead in broad daylight on October 13 inside a medical store in a crowded market. Jhota had objected to chemists selling addictive substances. The store owner, Ashwani Kumar, is accused of opening fire after Jhota confronted him for selling such drugs to an elderly man. Police arrested him in Salasar, Rajasthan.
 
 On Friday, Shah said the Centre would seek the Punjab government's response on Jhota's killing and on a separate case in Dirba, where a father allegedly took poison under pressure.

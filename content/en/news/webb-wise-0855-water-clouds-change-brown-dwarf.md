@@ -45,10 +45,10 @@ A team led by the University of Arizona says it is the first time variable water
 
 ## Eleven hours of weather
 
-Webb pointed its Near-Infrared Spectrograph at the object for 11 hours on December 2, 2023, recording a spectrum every 15 minutes, 44 in all. The changes are best explained by a layer of patchy, high-altitude water clouds whose thickness shifts across the surface.
+Webb pointed its Near-Infrared Spectrograph at the object for **11 hours** on December 2, 2023, recording a spectrum every 15 minutes, 44 in all. The changes are best explained by a layer of patchy, high-altitude water clouds whose thickness shifts across the surface.
 
-WISE 0855 sits about 7.5 light-years from the Sun. At roughly 265 kelvin, about minus 8°C, it is colder than many winter days on Earth. Its mass is put at about twice that of Jupiter or a few times more, which places it near the line between brown dwarfs, sometimes called failed stars, and giant planets.
+WISE 0855 sits about **7.5 light-years** from the Sun. At roughly 265 kelvin, about minus 8°C, it is colder than many winter days on Earth. Its mass is put at about twice that of Jupiter or a few times more, which places it near the line between brown dwarfs, sometimes called failed stars, and giant planets.
 
-Carbon monoxide showed the biggest swings, of about 10% at some wavelengths, driven by temperature differences of only about one kelvin. The team also saw signs of convection, with gases such as carbon monoxide and phosphine rising from deeper layers and sinking as they cool. A signal repeating every 9.33 hours turned up, but the researchers are not yet sure it is the object's rotation.
+Carbon monoxide showed the biggest swings, of about **10%** at some wavelengths, driven by temperature differences of only about one kelvin. The team also saw signs of convection, with gases such as carbon monoxide and phosphine rising from deeper layers and sinking as they cool. A signal repeating every 9.33 hours turned up, but the researchers are not yet sure it is the object's rotation.
 
 "Before JWST, we only had photometry, which mixed up the effects of clouds, chemistry, and temperature all together," Miles said. Mark Marley, director of the university's Lunar and Planetary Laboratory and a co-author, compared studying such atmospheres to "looking at the world through a screen door."

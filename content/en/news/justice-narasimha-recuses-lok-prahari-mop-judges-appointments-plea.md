@@ -65,4 +65,4 @@ The NGO wants the Chief Justice of India, on the administrative side, to amend t
 
 ## A long wait
 
-The MoP was first drawn up in June 1999. After striking down the NJAC on October 16, 2015, the court in December that year left the redrafting to the Centre, and the talks stalled amid disagreements with the Collegium. In 2017 a bench of Justices AK Goel and UU Lalit said the issue "cannot linger on for indefinite period", but that order was later recalled.
+The MoP was first drawn up in June 1999. After striking down the NJAC on October 16, 2015, the court in December that year left the redrafting to the Centre, and the talks stalled over disagreements with the Collegium. In 2017 a bench of Justices AK Goel and UU Lalit said the issue "cannot linger on for indefinite period", but that order was later recalled.

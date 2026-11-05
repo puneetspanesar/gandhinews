@@ -43,20 +43,20 @@ verification:
     - "Net banking capital inflow $64.7bn: no explanation given in the source; copy does not speculate on the cause."
 ---
 
-India's current account deficit narrowed to $5.2 billion in August from $6.1 billion a year earlier, as exports of goods and services grew faster than imports, according to preliminary Reserve Bank of India data released on Thursday evening.
+India's current account deficit narrowed to **$5.2 billion in August** from $6.1 billion a year earlier, as exports of goods and services grew faster than imports, according to preliminary Reserve Bank of India data released on Thursday evening.
 
 The current account measures the country's trade in goods and services along with income and money sent home by Indians abroad. A smaller deficit means India needs less foreign money to pay its way, which matters at a time when the rupee has been under heavy pressure.
 
 ## Exports pick up
 
-Merchandise exports rose to $44.7 billion in August from $35.1 billion a year earlier, while imports climbed to $71.3 billion from $62.7 billion. That left a goods trade deficit of $26.6 billion, slightly smaller than last year's $27.6 billion.
+Merchandise exports rose to $44.7 **billion in August** from $35.1 billion a year earlier, while imports climbed to $71.3 billion from $62.7 billion. That left a goods trade deficit of $26.6 billion, slightly smaller than last year's $27.6 billion.
 
-Services did their usual job of cushioning the gap. Services exports were $35.5 billion and imports $18.9 billion, giving a net surplus of $16.5 billion, up from $15.6 billion. Remittances and other transfers brought in a net $12.8 billion, while the income account, which includes interest and dividends paid abroad, showed a net outflow of $8 billion.
+Services did their usual job of cushioning the gap. Services exports were **$35.5 billion** and imports $18.9 billion, giving a net surplus of $16.5 billion, up from $15.6 billion. Remittances and other transfers brought in a net $12.8 billion, while the income account, which includes interest and dividends paid abroad, showed a net outflow of $8 billion.
 
-The picture for the financial year so far is weaker. Between April and August, the current account deficit was $18.3 billion, compared with $12.8 billion in the same months of 2025, as the goods trade deficit widened to $146 billion from $124.7 billion.
+The picture for the financial year so far is weaker. Between April and August, the current account deficit was **$18.3 billion**, compared with $12.8 billion in the same months of 2025, as the goods trade deficit widened to $146 billion from $124.7 billion.
 
 ## Money flows in
 
 On the capital side, August brought a large swing. Net foreign direct investment was an inflow of $3.3 billion against a small outflow a year ago, and portfolio investors put in a net $1.7 billion after pulling out $2.6 billion in August 2025. Net banking capital inflows were $64.7 billion.
 
-As a result, the overall balance of payments showed a surplus of $45.4 billion in August, against a deficit of $5.6 billion a year earlier. For April to August the surplus was $58 billion.
+As a result, the overall balance of payments showed a surplus of **$45.4 billion** in August, against a deficit of $5.6 billion a year earlier. For April to August the surplus was $58 billion.

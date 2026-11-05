@@ -46,7 +46,7 @@ verification:
     - "Match days for individual Indians not published; times listed as TBA."
 ---
 
-India's shuttlers return to court in Paris on Tuesday hoping the French Open goes better than last week's Denmark Open. The draw has not been kind. PV Sindhu opens against South Korea's An Se-young, the world No. 1, top seed and defending champion.
+India's shuttlers return to court in Paris on Tuesday hoping the French Open goes better than last week's Denmark Open. The draw has not been kind. PV Sindhu opens against South Korea's An Se-young, the world No. 1, **top seed** and defending champion.
 
 The Super 750 tournament, worth $950,000 in prize money, is being played at the Arena Grand Paris in Tremblay-en-France. First-round matches are spread over Tuesday and Wednesday, October 20 and 21, and the finals are on Sunday, October 25.
 

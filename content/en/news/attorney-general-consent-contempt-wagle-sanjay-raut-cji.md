@@ -36,7 +36,7 @@ verification:
     - "Raut's Oct 12 remarks as carried by IANS, per the petition summary in Bar and Bench. No response from Raut found; listing date in Supreme Court not known."
 ---
 
-Attorney General R Venkataramani has allowed the Supreme Court Bar Association (SCBA) to pursue criminal contempt proceedings against Shiv Sena (UBT) Rajya Sabha MP Sanjay Raut and journalist Nikhil Wagle over their remarks about Chief Justice of India Surya Kant.
+Attorney General R Venkataramani has allowed the Supreme Court Bar Association (SCBA) to pursue **criminal contempt** proceedings against Shiv Sena (UBT) Rajya Sabha MP Sanjay Raut and journalist Nikhil Wagle over their remarks about Chief Justice of India Surya Kant.
 
 The SCBA filed its petition on Thursday, October 15, and the Attorney General gave his consent the same day. Under the Contempt of Courts Act, 1971, a private party needs the Attorney General's consent before it can ask the Supreme Court to begin criminal contempt proceedings. The petition has yet to be listed for hearing.
 
@@ -48,7 +48,7 @@ Wagle responded on X to a report on the CJI's decision with an abusive post aime
 
 ## The Attorney General's view
 
-In his consent letter, Venkataramani called the posts "prima-facie scandalous" and said they were meant to lower the standing of the Supreme Court. He described Wagle's post as abusive and of a low level. On Raut, he said the claims about judges and dinners were not based on facts, and pointed out that the High Court order on the photographs came before the MP's statement.
+In his consent letter, Venkataramani called the posts "prima-facie scandalous" and said they were meant to lower the standing of the Supreme Court. He described Wagle's post as abusive and of a low level. On Raut, he said the claims about judges and dinners were **not based on facts**, and pointed out that the High Court order on the photographs came before the MP's statement.
 
 "It is important that the Hon'ble Member of Parliament should have verified the facts," the Attorney General wrote.
 
@@ -56,6 +56,6 @@ The SCBA has asked the court to act against both men for criminal contempt, to d
 
 ## An apology, and silence
 
-Wagle moved quickly. On Thursday he posted on X a letter to the Attorney General in which he apologised unconditionally to the Chief Justice and the Supreme Court, said he had deleted the post, and asked that the matter not be pursued. There was no response from Raut by Friday morning.
+Wagle moved quickly. On Thursday he posted on X a letter to the Attorney General in which he **apologised unconditionally** to the Chief Justice and the Supreme Court, said he had deleted the post, and asked that the matter not be pursued. There was no response from Raut by Friday morning.
 
 The case lands in a tense week for relations between the court and the opposition. On Thursday the Supreme Court issued notice on a plea against the October 12 march by opposition leaders, and the Bar Council of Delhi has separately condemned personal attacks on judges.

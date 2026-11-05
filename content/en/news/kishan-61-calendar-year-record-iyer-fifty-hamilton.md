@@ -11,7 +11,7 @@ published: 2026-11-01T13:45:00+05:30
 location: Hamilton
 keyPoints:
   - "Ishan Kishan made **61 off 32 balls** with five fours and five sixes at Seddon Park."
-  - "He passed Suryakumar Yadav's 1,164 runs from 2022 for **the most T20I runs by an Indian in a calendar year**."
+  - "He passed Suryakumar Yadav's 1,164 runs from 2022 for the **most T20I runs by an Indian** in a calendar year."
   - "India were **111 for 2 after ten overs** before New Zealand pulled things back."
 hero:
   need: "India wicketkeeper-batter Ishan Kishan batting"

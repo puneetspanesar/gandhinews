@@ -38,7 +38,7 @@ verification:
 
 Keralam BJP president Rajeev Chandrasekhar on Sunday accused Chief Minister V D Satheesan of practising a "selective" brand of communal harmony, widening a row over a cafe in Fort Kochi into a broader attack on the state's two main political fronts.
 
-The dispute began with a video by a controversial YouTuber that targeted the Kashi Art Cafe in Fort Kochi, which serves beef and displays a historic joint artwork of Mahatma Gandhi and Muhammad Ali Jinnah. Mr Satheesan responded by warning against communal provocation.
+The dispute began with a video by a controversial YouTuber that targeted the **Kashi Art Cafe in Fort Kochi**, which serves beef and displays a historic joint artwork of Mahatma Gandhi and Muhammad Ali Jinnah. Mr Satheesan responded by warning against communal provocation.
 
 Speaking to reporters in Thiruvananthapuram, Mr Chandrasekhar said the cafe was within its rights to serve beef. But he said the Chief Minister's stand was shaped by politics rather than principle. "Communal harmony and respecting the sentiments of faiths and religions must work both ways," he said. "This sentiment and respect cannot be decided by your political expediency and your political opportunism."
 

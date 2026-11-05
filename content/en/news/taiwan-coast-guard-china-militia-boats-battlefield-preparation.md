@@ -40,12 +40,12 @@ Taiwan's coast guard says China is using fishing boats from its maritime militia
 
 In a statement, the Coast Guard Administration (CGA) said the operations "increase the maritime surveillance and response burden on Taiwan" and were also putting pressure on Japan and the Philippines. It noted that Taiwan's east coast is a key route for shipping and supplies.
 
-The statement followed a report earlier this month of the first known sighting of a Chinese militia boat off Taiwan's Pacific coast. In mid-August, the CGA sent a patrol boat to drive off the vessel, which was operating with a Chinese coast guard ship and a research vessel. On August 16 the boat, the Minfudingyu 07902, came within about 2.7 nautical miles of Taiwan's restricted waters.
+The statement followed a report earlier this month of the first known sighting of a Chinese militia boat off Taiwan's Pacific coast. In mid-August, the CGA sent a patrol boat to drive off the vessel, which was operating with a Chinese coast guard ship and a research vessel. On August 16 the boat, the **Minfudingyu 07902**, came within about 2.7 nautical miles of Taiwan's restricted waters.
 
 The CGA said the boat showed "characteristics" of militia activity. It has placed it on a priority watchlist and will keep tracking it.
 
 Taiwanese officials believe Beijing is rehearsing a possible blockade of the island, drawing on military, paramilitary and civilian ships. Since June, China has also increased activity in waters where the economic zones of Taiwan, Japan and the Philippines overlap, after Tokyo and Manila announced talks on drawing their maritime boundary.
 
-China says its operations off Taiwan's east coast are "legitimate and lawful" because they take place in Chinese waters, a claim Taipei rejects. Beijing's maritime militia, which dates back to the 1950s, uses fishing boats with trained, state-backed crews, often working beside coast guard ships around flashpoints in the South China Sea.
+China says its operations off Taiwan's east coast are "legitimate and lawful" because they take place in Chinese waters, a claim Taipei rejects. Beijing's maritime militia, which dates back to the 1950s, uses fishing boats with trained, state-backed crews, often working beside **coast guard ships** around flashpoints in the South China Sea.
 
 China's defence ministry did not immediately comment on the statement.

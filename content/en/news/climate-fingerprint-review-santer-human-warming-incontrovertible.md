@@ -42,7 +42,7 @@ verification:
 
 Five leading climate scientists say the evidence that humans are warming the planet is now stronger than ever, and that a US government report used to unwind America's main climate rule got the science wrong.
 
-In a review published on Monday in *Earth's Future*, a journal of the American Geophysical Union, the team led by Benjamin Santer of the University of East Anglia looks back at more than 30 years of "fingerprint" research. These studies search climate records for patterns that only greenhouse gases can produce, and separate them from natural swings.
+In a review published on Monday in *Earth's Future*, a journal of the American Geophysical Union, the team led by **Benjamin Santer** of the University of East Anglia looks back at more than 30 years of "fingerprint" research. These studies search climate records for patterns that only greenhouse gases can produce, and separate them from natural swings.
 
 Santer said "the evidence is incontrovertible". Human fingerprints on the climate, he said in an interview, "are now ubiquitous, identifiable from the top of the atmosphere".
 
@@ -50,7 +50,7 @@ Santer said "the evidence is incontrovertible". Human fingerprints on the climat
 
 The paper, titled "Fingerprint Evidence for Human Effects on Climate: Advances after the 2009 Endangerment Finding", is a direct reply to a July 2025 report by the US Department of Energy, which the authors call "deeply flawed". The Environmental Protection Agency leaned on that report when it reversed its 2009 finding that greenhouse gases endanger public health, the legal basis for US climate regulation, in February this year.
 
-The authors argue the case was already strong in 2009 and has grown since. The 10 warmest years in the instrumental surface temperature record have all come after 2009. Scientists have since found the human signal in ocean saltiness, snow cover in the northern hemisphere, cloud cover, drought, the timing of river flows and the seasons themselves, and now track it 25 to 50 km up into the atmosphere.
+The authors argue the case was already strong in 2009 and has grown since. The 10 warmest years in the instrumental surface temperature record have all come after 2009. Scientists have since found the human signal in ocean saltiness, snow cover in the northern hemisphere, cloud cover, drought, the timing of river flows and the seasons themselves, and now track it 25 to **50 km** up into the atmosphere.
 
 Susan Solomon of the Massachusetts Institute of Technology said the findings give "enhanced confidence in the reality and seriousness of human-caused climate change", with different parts of the system changing in "physically consistent ways, just as we expect". Gabi Hegerl of the University of Edinburgh pointed to new work showing "how a weather event we observe today has been changed due to greenhouse gas emissions".
 

@@ -70,7 +70,7 @@ Ukrenergo, the national grid operator, ordered emergency power cuts in several r
 
 ## Deaths across the country
 
-At least eight people were killed across Ukraine over the past day, according to regional officials. Two died in the Kharkiv region, two in Kramatorsk, and two in the Dnipropetrovsk region, including a man killed when an industrial site in Dnipro was hit.
+At least **eight people were killed** across Ukraine over the past day, according to regional officials. Two died in the Kharkiv region, two in Kramatorsk, and two in the Dnipropetrovsk region, including a man killed when an industrial site in Dnipro was hit.
 
 In Kherson, a Russian air strike on the Korabelnyi district killed a 64-year-old ambulance driver, said Yaroslav Shanko, who heads the military administration there. In Slovyansk, Russian forces dropped FAB-250 aerial bombs on a residential area, hitting two apartment blocks. One person was killed and 10 were wounded, and rescuers searched the rubble for anyone trapped.
 

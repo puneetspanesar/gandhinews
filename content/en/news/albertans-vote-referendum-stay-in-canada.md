@@ -5,7 +5,7 @@ type: news
 section: world
 format_label: "World / Americas"
 topics: []
-title: "Alberta votes on Monday on whether to stay in Canada or move towards separation"
+title: "Alberta votes on October 19 on whether to stay in Canada or move towards separation"
 standfirst: "Albertans will choose between remaining a province and starting the legal process towards a binding separation referendum, alongside nine questions on immigration and the Constitution."
 published: 2026-10-19T15:10:00+05:30
 location: Edmonton
@@ -51,7 +51,7 @@ Albertans go to the polls on Monday in the first referendum in the province's hi
 
 The vote is nonbinding. Voters will choose whether Alberta should remain a province of Canada or whether the provincial government should start the legal process towards a second, binding referendum on separation. Canada's Constitution has no provision for a province to leave on its own, so any break would need a constitutional amendment.
 
-Interest has been high. Elections Alberta spokesperson Michelle Gurney said more than 174,000 people voted on the first day of advance polling and more than 180,000 on the second. A September poll by Abacus Data put support for remaining in Canada at 64%, with 24% backing a separation referendum and 9% undecided.
+Interest has been high. Elections Alberta spokesperson Michelle Gurney said more than 174,000 people voted on the first day of advance polling and more than 180,000 on the second. A September poll by Abacus Data put support for remaining in Canada at **64%**, with 24% backing a separation referendum and 9% undecided.
 
 Prime Minister Mark Carney has spent the past week in the province urging people to vote to stay. "What we need is a decisive result on Monday to settle this question," he told a Forever Canadian rally in Calgary on Thursday. "Don't let anyone tell you this is already decided. Turnout will determine the outcome."
 

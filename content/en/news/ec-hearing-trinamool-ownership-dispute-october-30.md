@@ -11,7 +11,7 @@ published: 2026-10-16T20:35:00+05:30
 location: New Delhi
 keyPoints:
   - "The Election Commission will hear the **Trinamool ownership dispute on October 30** in New Delhi."
-  - "The fight is between **Mamata Banerjee's group and Leader of Opposition Ritabrata Banerjee's**."
+  - "The fight is between **Mamata Banerjee's group** and Leader of Opposition Ritabrata Banerjee's."
   - "For the bypolls, the factions fought as **'Mamata All Trinamool Congress' and 'Democratic Trinamool Congress'**."
 hero:
   need: "Mamata Banerjee; split with Ritabrata Banerjee if two panels are used"

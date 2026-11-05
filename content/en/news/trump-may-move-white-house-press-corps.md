@@ -42,7 +42,7 @@ President Donald Trump has said he may move the reporters who cover the White Ho
 
 In a post on Truth Social, Trump dismissed those reports as "Fake News". "I NEVER even thought to do such a stupid thing!" he wrote. In the same post he raised the idea of relocating the press corps, without saying where it might go.
 
-The James S. Brady Press Briefing Room was built in the 1970s under Richard Nixon on a floor laid over an indoor pool installed in 1933 for Franklin D. Roosevelt. The pool is still there. A report this week said Trump had pitched moving journalists out of the room to Karoline Leavitt while she was press secretary, a post she left on August 27.
+The James S. Brady Press Briefing Room was built in the 1970s under Richard Nixon on a floor laid over an **indoor pool** installed in 1933 for Franklin D. Roosevelt. The pool is still there. A report this week said Trump had pitched moving journalists out of the room to Karoline Leavitt while she was press secretary, a post she left on August 27.
 
 Leavitt, appearing on HBO's "Real Time with Bill Maher" on Friday, said Trump was "flirting" with the idea. "He just, maybe, wants to restore it to all of its glory," she said. "I don't know if he'll do it."
 

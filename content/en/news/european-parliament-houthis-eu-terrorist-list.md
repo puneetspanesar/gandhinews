@@ -45,4 +45,4 @@ The resolution condemns the Houthi naval blockade of Saudi Arabia and the group'
 
 The Houthis launched an offensive along Yemen's Red Sea coast in July. A Saudi-led counter-offensive reversed much of their gains, but the group still threatens ships passing through the strait. Britain has pledged defensive missions to protect Riyadh.
 
-MEPs also stressed the role of Aspides, the EU's naval mission in the Red Sea, and urged member states to send more ships and aircraft. The mission now has three ships, from Italy and Greece, with two more pledged by Belgium and the Netherlands. The EU's foreign policy chief, Kaja Kallas, has said at least 10 are needed.
+MEPs also stressed the role of Aspides, the EU's naval mission in the Red Sea, and urged member states to send more ships and aircraft. The mission now has **three ships**, from Italy and Greece, with two more pledged by Belgium and the Netherlands. The EU's foreign policy chief, Kaja Kallas, has said at least 10 are needed.

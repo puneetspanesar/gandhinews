@@ -41,8 +41,8 @@ Yadav laid out specific problem statements covering nine areas of air pollution 
 
 The minister described the meeting as a new, proactive attempt to bridge the gap between policymakers and technology innovators. He said that linking data from online continuous emission monitoring systems with plant operation data was essential to catch malpractice, and that artificial intelligence could help do it. He also called for tamper-proof pollution-under-control checks and AI-based prediction of traffic congestion hotspots.
 
-The solutions on show ranged across monitoring, prediction and enforcement: hyperlocal air quality sensors, city-wide pollution mapping, AI-based source tracking, round-the-clock detection of stubble and open biomass burning, and automatic identification of vehicles without valid PUC certificates or past their permitted age. Others dealt with dust at construction sites, low-cost mechanised road sweeping and portable pothole repair.
+The solutions on show ranged across monitoring, prediction and enforcement: hyperlocal air quality sensors, city-wide pollution mapping, AI-based source tracking, round-the-clock **detection of stubble** and open biomass burning, and automatic identification of vehicles without valid PUC certificates or past their permitted age. Others dealt with dust at construction sites, low-cost mechanised road sweeping and portable pothole repair.
 
-On farm fires, Yadav called for guidelines on storing paddy straw, to be drawn up with the agriculture ministry, CAQM and CPCB, and for an in-situ crop residue storage model. Start-ups also showed ways to turn straw into bioenergy, biomass fuel, compost, biochar and packaging.
+On farm fires, Yadav called for **guidelines on storing paddy straw**, to be drawn up with the agriculture ministry, CAQM and CPCB, and for an in-situ crop residue storage model. Start-ups also showed ways to turn straw into bioenergy, biomass fuel, compost, biochar and packaging.
 
 The meeting was part of the government's "Saaf Hawa mein Hissedaari, Hum Sabhi ki hai Zimmedaari" campaign, and is meant to add to existing measures such as the Graded Response Action Plan.

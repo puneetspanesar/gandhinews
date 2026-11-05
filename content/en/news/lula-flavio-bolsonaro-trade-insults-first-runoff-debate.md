@@ -47,7 +47,7 @@ Lula came out swinging. He called his rival "a habitual liar" and a "thug", and 
 
 Bolsonaro answered in kind. He called the president a "clown", raised a possible corruption case involving one of Lula's sons and said it was better to keep his distance from Lula "because my wallet could be stolen".
 
-Lula, who spent 580 days in prison in 2018 and 2019 on a corruption conviction that was later annulled, pressed the senator to explain a corruption investigation involving his father. Bolsonaro did not answer directly.
+Lula, who spent **580 days** in prison in 2018 and 2019 on a corruption conviction that was later annulled, pressed the senator to explain a corruption investigation involving his father. Bolsonaro did not answer directly.
 
 Jair Bolsonaro, who lost the 2022 election to Lula, is under house arrest and serving a 27-year sentence linked to efforts to overturn that result.
 
@@ -63,7 +63,7 @@ The debate unfolded on a difficult day for the senator. Federal police were repo
 
 ## A race decided by turnout
 
-Bolsonaro finished the first round ahead with 47% of the vote to Lula's 45%. About 33 million people, roughly one in five eligible voters, stayed home, and both camps are now chasing them.
+Bolsonaro finished the first round ahead with **47%** of the vote to Lula's 45%. About 33 million people, roughly one in five eligible voters, stayed home, and both camps are now chasing them.
 
 Supporters held large rallies on Sunday, with Bolsonaro's backers gathering in São Paulo and Lula's in Brasília and Rio de Janeiro.
 

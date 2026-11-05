@@ -40,9 +40,9 @@ verification:
 
 Amber Enterprises India, the contract manufacturer best known for making air conditioners for big brands, has moved to take full ownership of Ascent Circuits, a Bengaluru maker of printed circuit boards.
 
-IL JIN Electronics (India), one of its main subsidiaries, signed a share swap agreement on Sunday to buy the remaining 1.50% of Ascent from Manju Thomas, the company said in a filing to the stock exchanges. IL JIN already holds 98.50%.
+IL JIN Electronics (India), one of its main subsidiaries, signed a share swap agreement on Sunday to buy the remaining **1.50% of Ascent** from Manju Thomas, the company said in a filing to the stock exchanges. IL JIN already holds 98.50%.
 
-IL JIN will acquire 23,401 equity shares and pay for them not in cash but by issuing 13,120 compulsorily convertible preference shares at ₹10,000 each, which values the deal at ₹13.12 crore. The transaction is expected to close within 10 business days. Ascent will then become a wholly owned subsidiary of IL JIN and a step-down subsidiary of Amber.
+IL JIN will acquire 23,401 equity shares and pay for them not in cash but by issuing 13,120 compulsorily convertible preference shares at ₹10,000 each, which values the deal at **₹13.12 crore**. The transaction is expected to close within 10 business days. Ascent will then become a wholly owned subsidiary of IL JIN and a step-down subsidiary of Amber.
 
 Amber said the purchase would give it complete ownership and control, simplify the holding structure and complete the integration of Ascent through what it called a "cash-efficient share swap mechanism".
 
@@ -50,6 +50,6 @@ Amber said the purchase would give it complete ownership and control, simplify t
 
 Ascent was set up in 1999 and makes single-sided, double-sided, multi-layer and radio-frequency circuit boards. Its customers are in aerospace and defence, cars, telecommunications and consumer electronics, and it exports around the world.
 
-The business has been growing quickly. Its turnover rose to ₹401.87 crore in 2025-26 from ₹325.17 crore the year before and ₹263.20 crore in 2023-24.
+The business has been growing quickly. Its turnover rose to **₹401.87 crore** in 2025-26 from ₹325.17 crore the year before and ₹263.20 crore in 2023-24.
 
 The deal is small for a company of Amber's size, but it removes the last outside shareholder from a fast-growing part of its electronics business. Amber's shares will trade on the news when markets open on Monday.

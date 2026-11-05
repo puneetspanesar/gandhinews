@@ -65,17 +65,17 @@ verification:
     - "Business Today calls it a '21-month high', which compares across the old and new series; not used. Story says highest since the new series began (January 2026)."
 ---
 
-India's retail inflation rose to 5.54% in September, the highest since the new consumer price series began in January, as food prices climbed sharply. Provisional figures released by the Ministry of Statistics and Programme Implementation on Monday show inflation up from a revised 4.83% in August.
+India's retail inflation rose to **5.54%** in September, the highest since the new consumer price series began in January, as food prices climbed sharply. Provisional figures released by the Ministry of Statistics and Programme Implementation on Monday show inflation up from a revised 4.83% in August.
 
-It was the eighth monthly rise in a row. Inflation stood at 2.74% in January.
+It was the eighth monthly rise in a row. Inflation stood at **2.74%** in January.
 
 ## Onions lead a food surge
 
-Food inflation, measured by the Consumer Food Price Index, jumped to 7.74% from 5.97% in August. Onion prices were 108.09% higher than a year earlier, more than double August's 48.78% rise. Garlic rose 54.62%, ginger 62.85% and lemons 36.41%.
+Food inflation, measured by the Consumer Food Price Index, jumped to **7.74%** from 5.97% in August. Onion prices were 108.09% higher than a year earlier, more than double August's 48.78% rise. Garlic rose 54.62%, ginger 62.85% and lemons 36.41%.
 
-Some vegetables got cheaper. Potato prices fell 11.50% and tomato prices 8.62% from a year ago.
+Some vegetables got cheaper. Potato prices fell **11.50%** and tomato prices 8.62% from a year ago.
 
-Outside food, silver jewellery was up 87.80%, keeping the personal care, social protection and miscellaneous goods division at 13.75%. Restaurants and accommodation services rose 9.36% and transport 5.01%. Health rose the least, at 1.40%.
+Outside food, silver jewellery was up **87.80%**, keeping the personal care, social protection and miscellaneous goods division at 13.75%. Restaurants and accommodation services rose 9.36% and transport 5.01%. Health rose the least, at 1.40%.
 
 ```chart
 {"type":"line","title":"CPI inflation, January to September 2026","subtitle":"All-India, year on year (%), base 2024=100","unit":"%","data":[{"label":"Jan","value":2.74},{"label":"Feb","value":3.21},{"label":"Mar","value":3.40},{"label":"Apr","value":3.48},{"label":"May","value":3.93},{"label":"Jun","value":4.38},{"label":"Jul","value":4.45},{"label":"Aug","value":4.83},{"label":"Sep","value":5.54,"highlight":true}],"source":"MoSPI (September provisional)"}

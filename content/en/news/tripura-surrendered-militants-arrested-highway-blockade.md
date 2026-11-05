@@ -36,13 +36,13 @@ verification:
     - "Phrases 'did not pay heed' and 'used criminal force' are PTI's wording of the police account."
 ---
 
-Tripura Police arrested six surrendered militants on Saturday after a group of former rebels blocked the national highway at Hataikator in West Tripura district to press for proper rehabilitation.
+Tripura Police arrested six **surrendered militants** on Saturday after a group of former rebels blocked the national highway at Hataikator in West Tripura district to press for proper rehabilitation.
 
 About 16 former cadres of the National Liberation Front of Tripura (NLFT) and the All Tripura Tiger Force (ATTF), led by Kaklaijoy Tripura, sat on the road on Saturday morning. Vehicles carrying essential goods were stranded on both sides.
 
 Executive Magistrate Arajit Debbarma asked them to lift the blockade, pointing out that the festival season was under way. When they did not, he declared the gathering illegal and ordered security forces to clear the highway.
 
-As police moved in to disperse them, the protesters became angry and used force, police said. Two police personnel were injured in the scuffle before the road was cleared.
+As police moved in to disperse them, the protesters became angry and used force, police said. **Two police personnel** were injured in the scuffle before the road was cleared.
 
 Police spokesperson Rajdeep Deb said a case was registered on the police's own initiative against six of the surrendered militants for blocking the highway and using criminal force against security personnel. All six were arrested and produced before a local court, which sent them to judicial remand until October 31.
 

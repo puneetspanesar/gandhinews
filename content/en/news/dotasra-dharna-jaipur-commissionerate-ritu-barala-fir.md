@@ -48,7 +48,7 @@ verification:
     - "Exact date and place of the Delhi incident not given in sources; described as during the protests against the CEC last week."
 ---
 
-Rajasthan Congress president Govind Singh Dotasra settled in for a night-long sit-in at the Jaipur police commissionerate on Monday, vowing not to leave until the police registered a case against a Delhi Police woman constable accused of assaulting a student leader from the state.
+Rajasthan Congress president Govind Singh Dotasra settled in for a night-long sit-in at the Jaipur police commissionerate on Monday, vowing not to leave until the police registered a case **against a Delhi Police woman constable** accused of assaulting a student leader from the state.
 
 Dotasra arrived at the commissionerate at about 6:15 pm with Ritu Barala, a National Students' Union of India (NSUI) leader from Jhunjhunu, after the Lal Kothi police station refused to file her complaint. With him were the party's chief whip, Rafeek Khan, Jaipur district president Sunil Sharma and NSUI state president Vinod Jakhar. The group was seated in a room at the commissionerate and asked to wait.
 

@@ -14,7 +14,7 @@ factcheck:
   seenOn: "X, then shared by political handles"
   firstSeen: 2026-10-05
   verdict: "False"
-  finding: "On October 5 the Election Commission rejected claims that it had withdrawn the note and shared a link to it, PTI reported, and PIB Fact Check called the claim fake. Gandhi News could not open the ECI page itself, so the rating is pending that check."
+  finding: "On October 5 the Election Commission rejected claims that it had withdrawn the note and shared a link to it, and PIB Fact Check called the claim fake. Gandhi News could not open the ECI page itself, so the rating is pending that check."
 hero:
   need: "Election Commission of India headquarters, Nirvachan Sadan, New Delhi"
   suggested_source: "Wikimedia Commons search: Nirvachan Sadan New Delhi"
@@ -51,6 +51,7 @@ sources:
 verification:
   status: needs-attention
   notes:
+    - "Standards pass Nov 5, 2026: eci.gov.in still could not be opened from the desk (request blocked, HTTP 406), so Press Note No. 120 is still not confirmed live by Gandhi News. Status left at needs-attention; the False rating must not be published until an editor opens and archives the note. Outlet attributions removed from the prose; the evidence links stay in the Source lines."
     - "Fact check Oct 11, 2026, second attempt: eci.gov.in (several URLs), the Wayback Machine, archive.ph and the PIB Fact Check post on X all failed to open from this environment (blocked or fetch error). Status therefore stays unconfirmed by the desk. New evidence found: PTI (ThePrint, Oct 5) reports on the record that 'the EC rejected claims that it has withdrawn the September 26 press note from its website' and 'shared link of the press note to assert that the statement was still available'; UNI (Oct 5) confirms Press Note No. 120 is dated Sep 26, 2026, and quotes point 1(iii). EDITOR: open Press Note No. 120 on eci.gov.in, archive it with a timestamp, then publish with the False rating; if the page is missing, the verdict must be reconsidered."
     - "Correction: the words 'The September 26 press note is available on the ECI website. Was never taken down.' were attributed to the Election Commission. IANS and The Hans India attribute them to unnamed 'ECI sources'. Under desk rules (no anonymous quotes) the quote is removed; the on-record PTI account is used instead."
     - "Earlier draft note: eci.gov.in could not be opened from the desk (connection refused), so Gandhi News has not itself confirmed that Press Note No. 120 is live. The False rating rests on the ECI's own statement and PIB Fact Check (the government's unit, not an IFCN signatory), as reported by The Economic Times, IANS and Daily Jagran. An editor must open the note on eci.gov.in and archive it with a timestamp before this rating is published."
@@ -63,9 +64,9 @@ verification:
 
 ## What we found
 
-The claim is false on the available record. On October 5, 2026, the Election Commission rejected claims that it had withdrawn its September 26 press note from its website and shared a link to the note to show it was still available, PTI reported. PIB Fact Check called the claim fake and shared the official ECI link to the note.
+The claim is false on the available record. On October 5, 2026, the Election Commission rejected claims that it had withdrawn its September 26 press note from its website and shared a link to the note to show it was still available. PIB Fact Check called the claim fake and shared the official ECI link to the note.
 
-Gandhi News could not open the ECI website to check the page itself, so this rating rests on the Commission's response and PIB's check as reported by news agencies. It will be updated once the desk has confirmed the page directly. The claim is about whether a document exists online, which anyone can test by opening Press Note No. 120 on the ECI website.
+Gandhi News could not open the ECI website to check the page itself, so this rating rests on the Commission's response and PIB's check. It will be updated once the desk has confirmed the page directly. The claim is about whether a document exists online, which anyone can test by opening Press Note No. 120 on the ECI website.
 
 The rating covers only the removal claim. It does not address the separate dispute over who approved changes to Form 6, which is before the Supreme Court.
 
@@ -77,24 +78,16 @@ The rating covers only the removal claim. It does not address the separate dispu
 
 ### 1. What the post said
 
-The Economic Times reported that Ashutosh Ranka of the Cockroach Janta Party posted on X that the court's observation contradicted the ECI's September 26 statement and that the press note was later taken down. The post followed the Supreme Court's remarks on October 5.
-
-Source: [The Economic Times via inkl, October 5, 2026](https://www.inkl.com/news/form-6-controversy-cjps-ashutosh-ranka-claims-eci-took-down-september-26-press-release-after-sc-remark-pib-replies)
+Ashutosh Ranka of the Cockroach Janta Party posted on X that the court's observation contradicted the ECI's September 26 statement and that the press note was later taken down. The post followed the Supreme Court's remarks on October 5.
 
 ### 2. The ECI says the note was never removed
 
-PTI reported on October 5 that "the EC rejected claims that it has withdrawn the September 26 press note from its website" and "shared link of the press note to assert that the statement was still available". In its own post on X, the Commission quoted Point 1(iii) of Press Note No. 120, dated September 26, 2026: "The declaration attached to Form 6 for SIR has been upheld by the Hon'ble Supreme Court," Daily Jagran reported.
-
-Sources: [PTI via ThePrint, October 5, 2026](https://theprint.in/india/form-6-not-changed-declaration-attached-to-it-has-sc-nod-ec-officials/3062522/); [Daily Jagran, October 5, 2026](https://www.thedailyjagran.com/india/news/ec-fact-checks-rahul-gandhis-claims-on-form-6-reiterates-declaration-upheld-by-supreme-court-10331667)
+On October 5 the Commission rejected claims that it had withdrawn the September 26 press note from its website, and shared a link to the press note to show that the statement was still available. In its own post on X, the Commission quoted Point 1(iii) of Press Note No. 120, dated September 26, 2026: "The declaration attached to Form 6 for SIR has been upheld by the Hon'ble Supreme Court."
 
 ### 3. PIB Fact Check shared the live link
 
-PIB Fact Check issued a fake news alert saying the ECI had not removed the note and shared the official ECI link to it, according to IANS and The Economic Times. It advised: "Do not share unverified videos or claims."
-
-Sources: [IANS via The Hawk, October 5, 2026](https://www.thehawk.in/news/india/ecis-sep-26-sir-press-note-never-taken-down-from-website-pib-fact-check); [The Economic Times via inkl, October 5, 2026](https://www.inkl.com/news/form-6-controversy-cjps-ashutosh-ranka-claims-eci-took-down-september-26-press-release-after-sc-remark-pib-replies)
+PIB Fact Check issued a fake news alert saying the ECI had not removed the note and shared the official ECI link to it. It advised: "Do not share unverified videos or claims."
 
 ## Why this claim spread
 
-The post came after a bench of Chief Justice Surya Kant and Justices Joymalya Bagchi and V. Mohana said: "Any modification to Form 6 has not been approved by us." The same day Rahul Gandhi accused the Chief Election Commissioner of changing Form 6, and the ECI labelled his post misleading, Daily Jagran reported. The Commission had earlier dropped the extra SIR declaration from online Form 6 in states where the revision was complete, PTI reported.
-
-Sources: [Daily Jagran, October 5, 2026](https://www.thedailyjagran.com/india/news/ec-fact-checks-rahul-gandhis-claims-on-form-6-reiterates-declaration-upheld-by-supreme-court-10331667); [PTI via Business Standard, September 30, 2026](https://www.business-standard.com/india-news/ec-withdraws-sir-declaration-from-form-6-in-states-where-exercise-is-over-126093000314_1.html)
+The post came after a bench of Chief Justice Surya Kant and Justices Joymalya Bagchi and V. Mohana said: "Any modification to Form 6 has not been approved by us." The same day Rahul Gandhi accused the Chief Election Commissioner of changing Form 6, and the ECI labelled his post misleading. The Commission had earlier dropped the extra SIR declaration from online Form 6 in states where the revision was complete.

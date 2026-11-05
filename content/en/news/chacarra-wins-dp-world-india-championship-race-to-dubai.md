@@ -58,7 +58,7 @@ Rory McIlroy, who did not use his driver all week, shot a 74 and finished in a t
 
 "Didn't feel I was at my sharpest," McIlroy said, adding that he was "looking forward to getting home and practicing and feeling like I turn up at those last two events ready to play".
 
-McIlroy, chasing a record-tying eighth Race to Dubai title, will skip the Genesis Championship in South Korea, where Chacarra will play, and return for the closing events in Abu Dhabi and Dubai. Reed finished tied 23rd at eight under after a 69 and is now second, with McIlroy third.
+McIlroy, chasing a record-tying eighth Race to Dubai title, will skip the Genesis Championship in South Korea, where Chacarra will play, and return for the closing events in Abu Dhabi and Dubai. Reed finished **tied 23rd at eight** under after a 69 and is now second, with McIlroy third.
 
 "Two of the best players in the world are coming for me now," Chacarra said, "and I know they are not going to make it easy."
 
@@ -72,6 +72,6 @@ Chacarra collected €605,872.52 from the $4 million purse.
 
 ## How the Indians finished
 
-Anirban Lahiri was the best of the home players, tied 23rd on eight under alongside Reed. Yuvraj Sandhu finished tied 34th on five under, and Om Prakash Chouhan, the leading Indian for much of the week, tied 42nd on four under, level with McIlroy.
+Anirban Lahiri was the best of the home players, **tied 23rd** on eight under alongside Reed. Yuvraj Sandhu finished tied 34th on five under, and Om Prakash Chouhan, the leading Indian for much of the week, tied 42nd on four under, level with McIlroy.
 
 Karandeep Kochhar was tied 49th on three under, Saptak Talwar tied 55th on one under and Shiv Kapur tied 69th on four over.

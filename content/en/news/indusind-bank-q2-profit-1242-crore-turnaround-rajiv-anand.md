@@ -42,18 +42,18 @@ verification:
     - "Anand quote identical in both sources. Other outlets show ₹1,176 crore and ₹1,241 crore (headlines only, not read); copy uses ₹1,242 crore given by the two sources read."
 ---
 
-IndusInd Bank swung back to profit in the September quarter, earning ₹1,242 crore against a loss of ₹437 crore a year earlier, as the money it set aside for bad loans fell by more than half.
+IndusInd Bank swung back to profit in the September quarter, earning **₹1,242 crore** against a loss of ₹437 crore a year earlier, as the money it set aside for bad loans fell by more than half.
 
-The private lender's profit was 51% higher than the ₹824 crore it made in the June quarter. Provisions and contingencies came to ₹1,223 crore, down from ₹2,631 crore a year earlier. Net interest income, the difference between what it earns on loans and pays on deposits, rose 3.6% to ₹4,569 crore, although the net interest margin narrowed to 3.23% from 3.32%.
+The private lender's profit was 51% higher than the ₹824 crore it made in the June quarter. Provisions and contingencies came to **₹1,223 crore**, down from ₹2,631 crore a year earlier. Net interest income, the difference between what it earns on loans and pays on deposits, rose 3.6% to ₹4,569 crore, although the net interest margin narrowed to 3.23% from 3.32%.
 
 "Our Q2 results demonstrate that the growth has strengthened, profitability has improved," said managing director and chief executive Rajiv Anand. He said the quarter reflected "the growing strength of the IndusInd Bank franchise".
 
 ## Cleaner books
 
-Asset quality improved through the quarter. Gross non-performing assets fell to 2.73% of loans at the end of September from 3.25% three months earlier, and net NPAs to 0.83% from 0.95%. The bank kept 70.19% of its bad loans covered by provisions.
+Asset quality improved through the quarter. Gross non-performing assets fell to **2.73%** of loans at the end of September from 3.25% three months earlier, and net NPAs to 0.83% from 0.95%. The bank kept 70.19% of its bad loans covered by provisions.
 
-Loans grew to ₹3,63,104 crore from ₹3,25,881 crore a year ago, and deposits to ₹4,28,832 crore from ₹3,89,600 crore. Current and savings accounts made up 27.93% of deposits. The bank's capital adequacy ratio stood at 16.59%, down from 17.10%.
+Loans grew to **₹3,63,104 crore** from ₹3,25,881 crore a year ago, and deposits to ₹4,28,832 crore from ₹3,89,600 crore. Current and savings accounts made up 27.93% of deposits. The bank's capital adequacy ratio stood at 16.59%, down from 17.10%.
 
-For the first half of the year, the bank earned ₹2,279 crore, compared with ₹167 crore in the same period last year.
+For the first half of the year, the bank earned **₹2,279 crore**, compared with ₹167 crore in the same period last year.
 
 The results came after the market closed. IndusInd shares had ended Friday 1.76% lower at ₹835 and will trade on the numbers on Monday.

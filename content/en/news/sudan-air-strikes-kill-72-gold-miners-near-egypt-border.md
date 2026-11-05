@@ -59,11 +59,11 @@ verification:
 
 Sudan's military leader has ordered an inquiry into air strikes that killed at least 72 gold miners on the country's remote northern border with Egypt, after a Sudanese rights group accused the Egyptian air force of carrying out the attack.
 
-General Abdel Fattah al-Burhan set up a committee of inquiry on Monday, his Sovereign Council said. It will include members of the public prosecution, the judiciary and security bodies, and will report on what happened. The council said the state "bore a fundamental responsibility to protect the lives, safety, and dignity of Sudanese citizens", and that the leaderships of Sudan and Egypt had "remained in contact immediately following the incident".
+General Abdel Fattah al-Burhan set up a **committee of inquiry** on Monday, his Sovereign Council said. It will include members of the public prosecution, the judiciary and security bodies, and will report on what happened. The council said the state "bore a fundamental responsibility to protect the lives, safety, and dignity of Sudanese citizens", and that the leaderships of Sudan and Egypt had "remained in contact immediately following the incident".
 
 ## What happened at the mine
 
-The strikes hit a camp of artisanal gold prospectors in the mountainous Jabal al-Uqaydat area at first light on Saturday. Emergency Lawyers, a Khartoum-based group that documents abuses in Sudan's war, said at least 72 workers were killed and that "Egyptian fighter jets targeted civilian miners" on Sudanese soil.
+The strikes hit a camp of artisanal gold prospectors in the mountainous Jabal al-Uqaydat area at first light on Saturday. Emergency Lawyers, a Khartoum-based group that documents abuses in Sudan's war, said at least **72 workers** were killed and that "Egyptian fighter jets targeted civilian miners" on Sudanese soil.
 
 A survivor said thousands of people were at the site when it was hit. "After the air strike, people scattered," he said. "That's why no one knows exactly how many were killed." The Sudan Doctors Network warned the toll could rise because of the severity of some injuries and the difficulty of reaching medical care in such a remote area.
 
@@ -71,9 +71,9 @@ Egypt's government has made no official comment. Sources in Cairo said the strik
 
 ## A disputed, porous frontier
 
-The border between the two countries runs for about 1,200 km and was never physically marked. Both claim the Halaib Triangle on the Red Sea coast, which Egypt has controlled since Sudanese forces withdrew in 2000.
+The border between the two countries runs for about **1,200 km** and was never physically marked. Both claim the Halaib Triangle on the Red Sea coast, which Egypt has controlled since Sudanese forces withdrew in 2000.
 
-It is the second deadly strike at the same site this year. In June, after a similar attack, Egypt's military said it had carried out a "large-scale operation" against illegal gold mining "within Egyptian territory" and detained 223 people, 136 of them foreigners. Burhan promised an inquiry then too; its findings were never published.
+It is the second deadly strike at the same site this year. In June, after a similar attack, Egypt's military said it had carried out a "large-scale operation" against illegal gold mining "within Egyptian territory" and detained **223 people**, 136 of them foreigners. Burhan promised an inquiry then too; its findings were never published.
 
 Somood, a Sudanese pro-democracy coalition, said the military-backed authorities "bear the responsibility for what happens in areas under its control". "We reject the targeting of civilians and putting their lives at risk, which cannot be justified on security grounds," it said.
 
@@ -81,4 +81,4 @@ Somood, a Sudanese pro-democracy coalition, said the military-backed authorities
 
 Sudan's war between the army and the paramilitary Rapid Support Forces, which began in April 2023, has killed more than 200,000 people and wrecked the economy, pushing hundreds of thousands of men into dangerous informal gold mining. Egypt backs Burhan's army but sees the conflict on its border as a security threat.
 
-Sudan produced about 70 tonnes of gold in 2025, but only 20 tonnes left through official channels. The think tank Chatham House estimates that up to 60% of Sudan's unofficial gold exports end up in Egypt.
+Sudan produced about 70 tonnes of gold in 2025, but only 20 tonnes left through official channels. The think tank Chatham House estimates that up to **60%** of Sudan's unofficial gold exports end up in Egypt.

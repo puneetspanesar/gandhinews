@@ -70,19 +70,19 @@ verification:
     - "Rupee: PTI provisional 94.92 (-3 paise); Reuters 94.9250, nearly flat. Quotes Garg and Choudhary from PTI; ANZ from Reuters."
 ---
 
-Wall Street's technology shares clawed back some of last week's heavy losses on Monday, but oil stayed close to $110 a barrel and European markets fell, giving Indian investors a mixed set of signals to digest during a one-day pause. Indian stock exchanges are shut on Tuesday for Dussehra and open again on Wednesday.
+Wall Street's technology shares clawed back some of last week's heavy losses on Monday, but oil stayed close to $110 a barrel and European markets fell, giving Indian investors a mixed set of signals to digest during a one-day pause. Indian stock exchanges are **shut on Tuesday for Dussehra** and open again on Wednesday.
 
-The Nasdaq Composite rose 290.85 points, or 1.1%, to 26,430.89. The S&P 500 gained 31.29 points, or 0.4%, to 7,690.73, while the Dow Jones Industrial Average slipped 36.38 points to 51,966.03. Smaller companies in the Russell 2000 added 0.3%.
+The Nasdaq Composite rose 290.85 points, or **1.1%**, to 26,430.89. The S&P 500 gained 31.29 points, or 0.4%, to 7,690.73, while the Dow Jones Industrial Average slipped 36.38 points to 51,966.03. Smaller companies in the Russell 2000 added 0.3%.
 
-The buying was narrow. Investors returned to the artificial intelligence names that had been sold hard last week over doubts about how much AI spending is being funded with debt. Amazon rose 4.95%, Palantir 4.36%, Tesla 3.74% and the memory chipmaker Micron 2.95%. An announcement from Nvidia on memory and technology standards helped ease worries about demand for AI infrastructure. Most US shares outside technology fell.
+The buying was narrow. Investors returned to the artificial intelligence names that had been sold hard last week over doubts about how much AI spending is being funded with debt. Amazon rose **4.95%**, Palantir 4.36%, Tesla 3.74% and the memory chipmaker Micron 2.95%. An announcement from Nvidia on memory and technology standards helped ease worries about demand for AI infrastructure. Most US shares outside technology fell.
 
 "Markets are starting the week on a tentative recovery footing," said Daniela Hathorn, an analyst at Capital.com.
 
-Elsewhere the mood was weaker. European indexes fell more than 1% after weekend protests, with Germany's DAX among the worst hit. In the US, a builders' confidence index dropped to 29 in October, its lowest since June 2012.
+Elsewhere the mood was weaker. European indexes fell more than **1%** after weekend protests, with Germany's DAX among the worst hit. In the US, a builders' confidence index dropped to 29 in October, its lowest since June 2012.
 
 ## Oil refuses to back down
 
-Brent crude settled at $109.55 a barrel, down just 31 cents after falling more than $3 during the day. US crude for November delivery rose 2.2% to $103.66, its highest settlement since mid-September, in thin trade before the contract expires.
+Brent crude settled at **$109.55 a barrel**, down just 31 cents after falling more than $3 during the day. US crude for November delivery rose 2.2% to $103.66, its highest settlement since mid-September, in thin trade before the contract expires.
 
 Two forces pulled in opposite directions. President Donald Trump's order waiving some sanctions on Russian energy promised more supply, while Yemen's Houthis claimed fresh strikes on Saudi oil sites and a tanker was reported to have hit a mine in the Strait of Hormuz. Gold edged lower to about $4,170 an ounce.
 

@@ -52,13 +52,13 @@ verification:
     - "Recommendations are the desk's own."
 ---
 
-The rains that ended on September 30 were the weakest India has had in a decade, 13% below normal across the country. In East and Northeast India they were the weakest ever recorded: 25.6% short, the lowest total since 1901. Meghalaya, home to some of the wettest places on earth, finished 60% down. Bihar was 32% short.
+The rains that ended on September 30 were the weakest India has had in a decade, **13%** below normal across the country. In East and Northeast India they were the weakest ever recorded: 25.6% short, the lowest total since 1901. Meghalaya, home to some of the wettest places on earth, finished 60% down. Bihar was 32% short.
 
 Forecasters do not expect relief. The El Niño warming of the Pacific that weakened the monsoon is expected to persist into early 2027, and the India Meteorological Department sees below-normal rain over most of the country until December. This is not a bad season that will pass. It is the start of a long dry year.
 
 ## Relief that arrives in fragments
 
-So far the response has been a patchwork. Maharashtra has declared drought in 305 of its 358 talukas and is paying farmers an advance of ₹5,000 before Diwali. Chief Minister Devendra Fadnavis has explained why it is an advance: the rules of the National Disaster Response Fund did not allow quick release, and farmers had in the past received nothing before December. Telangana has set up a six-minister committee as storage in its Krishna basin reservoirs runs 72% below normal. In Rajasthan, Ashok Gehlot, the former Chief Minister, says cattle are dying in Jaisalmer and fodder sells at ₹20 a kilogram.
+So far the response has been a patchwork. Maharashtra has declared drought in 305 of its 358 talukas and is paying farmers an advance of **₹5,000** before Diwali. Chief Minister Devendra Fadnavis has explained why it is an advance: the rules of the National Disaster Response Fund did not allow quick release, and farmers had in the past received nothing before December. Telangana has set up a six-minister committee as storage in its Krishna basin reservoirs runs 72% below normal. In Rajasthan, Ashok Gehlot, the former Chief Minister, says cattle are dying in Jaisalmer and fodder sells at ₹20 a kilogram.
 
 Each state is doing something. None of this adds up to a plan, and the Opposition and ruling parties are spending as much energy arguing over the size of the cheques as over what comes next.
 

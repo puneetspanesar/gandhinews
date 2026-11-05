@@ -37,9 +37,9 @@ verification:
 
 Taiwan issued a land warning on Thursday as Typhoon Champi approached, and cancelled more than 100 flights, with the storm expected to skirt the island's northeastern coast and weaken gradually as it nears.
 
-Champi, at one point a super typhoon and one of the strongest storms in the Pacific this year, eased slightly on Thursday but was still packing gusts of more than 227 kmh near its centre, the Central Weather Administration said. It was about 250 km southeast of Yilan county in the northeast.
+Champi, at one point a super typhoon and one of the strongest storms in the Pacific this year, eased slightly on Thursday but was still packing **gusts of more than 227 kmh** near its centre, the Central Weather Administration said. It was about 250 km southeast of Yilan county in the northeast.
 
-The weather agency said the storm's radius had grown to 320 km, wide enough to cover most of Taiwan, and forecasters said its effects could last nearly two days. Champi is expected to come closest to the island late on Friday, off its northeastern coast, before heading north towards the seas off Shanghai and then into southern Japan.
+The weather agency said the storm's radius had grown to **320 km**, wide enough to cover most of Taiwan, and forecasters said its effects could last nearly two days. Champi is expected to come closest to the island late on Friday, off its northeastern coast, before heading north towards the seas off Shanghai and then into southern Japan.
 
 Coastal towns received phone alerts warning of waves higher than 6 metres, and close to a metre of rain was forecast in northern mountain areas, including the hills around Taipei.
 

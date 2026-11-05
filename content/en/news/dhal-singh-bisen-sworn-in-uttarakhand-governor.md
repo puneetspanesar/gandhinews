@@ -42,7 +42,7 @@ verification:
 
 Dhal Singh Bisen was sworn in as the Governor of Uttarakhand on Monday, becoming the ninth person to hold the office since the hill state was carved out of Uttar Pradesh.
 
-Acting Chief Justice Manoj Kumar Tiwari of the Uttarakhand High Court administered the oath at 11 am at Lok Bhavan in Dehradun, the Governor's residence that was earlier known as Raj Bhavan. Bisen had flown in on Sunday evening and was given a guard of honour by Uttarakhand Police at Jolly Grant Airport.
+Acting Chief Justice **Manoj Kumar Tiwari** of the Uttarakhand High Court administered the oath at 11 am at Lok Bhavan in Dehradun, the Governor's residence that was earlier known as Raj Bhavan. Bisen had flown in on Sunday evening and was given a guard of honour by Uttarakhand Police at Jolly Grant Airport.
 
 Secretary to the Governor Ravinath Raman, High Court Registrar General K K Shukla, Protocol Secretary Vinod Kumar Suman and Garhwal Divisional Commissioner Anand Swaroop were among the officials who received him.
 
@@ -56,6 +56,6 @@ President Droupadi Murmu named him to the post on October 12 in a reshuffle that
 
 ## A long tenure ends
 
-Bisen succeeds Lieutenant General (retd) Gurmeet Singh, who became the longest-serving Governor in Uttarakhand's history in July. On July 5 he completed 1,755 days in office, passing the record set by Sudarshan Agarwal.
+Bisen succeeds Lieutenant General (retd) Gurmeet Singh, who became the longest-serving Governor in Uttarakhand's history in July. On July 5 he completed **1,755 days** in office, passing the record set by Sudarshan Agarwal.
 
 The new Governor arrives in a state heading into an election year. Uttarakhand's Assembly completes its term in early 2027, and the Congress plans to gherao the Assembly during its coming session, a move the state BJP chief has dismissed as "negative politics".

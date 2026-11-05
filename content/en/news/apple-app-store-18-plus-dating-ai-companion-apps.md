@@ -47,7 +47,7 @@ verification:
     - "Phrase 'sexual or romantic content' attributed to Apple's policy as quoted in TechCrunch."
 ---
 
-Apple has moved to keep minors off dating apps and romance-minded AI chatbots, ruling that **every app with dating or romantic relationship features must carry an 18+ rating** on the App Store.
+Apple has moved to keep minors off dating apps and romance-minded AI chatbots, ruling that every app with dating or romantic relationship features **must carry an 18+ rating** on the App Store.
 
 The company set out the change in a notice to developers on Monday. It is aimed at apps that offer what Apple calls "sexual or romantic content", a category that now takes in AI companion apps alongside the familiar dating services.
 

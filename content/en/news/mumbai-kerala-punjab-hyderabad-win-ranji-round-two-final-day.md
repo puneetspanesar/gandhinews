@@ -56,7 +56,7 @@ In Thiruvananthapuram, Kerala needed little time to wrap up an innings-and-36-ru
 
 ## Thyagarajan runs through Andhra
 
-Hyderabad's Tanay Thyagarajan produced the best figures of the day at Mulapadu. Set 398 to win after Hyderabad declared their second innings at 306 for 7, Andhra were bowled out for 130, with Thyagarajan taking 6 for 35. Gangam Anikethreddy took three wickets as Hyderabad won by 267 runs.
+Hyderabad's Tanay Thyagarajan produced the best figures of the day at Mulapadu. Set 398 to win after Hyderabad declared their second innings at 306 for 7, Andhra were bowled out for 130, with Thyagarajan taking 6 for 35. Gangam Anikethreddy took three wickets as Hyderabad won by **267 runs**.
 
 At Mullanpur, Punjab beat Chhattisgarh by seven wickets. Chhattisgarh did well to make 335 after following on, with Ayush Pandey scoring 80, which left Punjab needing 86. They got there in 16.5 overs, with Uday Saharan unbeaten on 40, but losing three wickets cost them the bonus point. Harjas Singh and Emanjot Singh Chahal took three wickets each in the second innings. Shubman Gill, out for 1 in Punjab's first innings, did not bat in the chase and was reported to have stayed off the field all day, with no reason given.
 

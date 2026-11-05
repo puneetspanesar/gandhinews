@@ -69,7 +69,7 @@ verification:
 
 RSS chief Mohan Bhagwat used the Sangh's centenary Vijayadashami address in Nagpur on Tuesday to tell protesters, governments and politicians alike to stay within the Constitution, and said of the regime change talk around recent unrest abroad that it "has neither happened nor will it happen".
 
-The annual rally at Reshimbagh ground closed the RSS's hundredth year. The organisation was founded in Nagpur by Keshav Baliram Hedgewar on Vijayadashami in 1925. Former Vice-President Jagdeep Dhankhar sat among the invited guests, an invitation that had drawn a jibe from the Congress last week. Dainik Jagran editor-in-chief Sanjay Gupta was the chief guest. Maharashtra Chief Minister Devendra Fadnavis, Union minister Nitin Gadkari and state revenue minister Chandrashekhar Bawankule were in the audience, along with the Consul General of Israel in Mumbai.
+The annual rally at Reshimbagh ground closed the RSS's hundredth year. The organisation was founded in Nagpur by Keshav Baliram Hedgewar on Vijayadashami in 1925. Former Vice-President **Jagdeep Dhankhar** sat among the invited guests, an invitation that had drawn a jibe from the Congress last week. Dainik Jagran editor-in-chief Sanjay Gupta was the chief guest. Maharashtra Chief Minister Devendra Fadnavis, Union minister Nitin Gadkari and state revenue minister Chandrashekhar Bawankule were in the audience, along with the Consul General of Israel in Mumbai.
 
 ## Protests and their limits
 

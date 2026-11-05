@@ -55,7 +55,7 @@ verification:
 
 Brazil's presidential race tightened again on Wednesday, four days before the runoff, as a new poll showed Senator Flávio Bolsonaro's lead over President Luiz Inácio Lula da Silva down to a single point and the electoral court ordered one of Lula's campaign ads off the air.
 
-The Quaest survey for Globo, which interviewed 2,154 voters between October 17 and 20, gave Bolsonaro 45% and Lula 44%, a gap well inside the two-point margin of error. A week earlier Quaest had the senator ahead by 46% to 44%. Counting only valid votes, the split is 50.6% to 49.4%. Approval of Lula's government edged up to 46%, with 47% disapproving.
+The Quaest survey for Globo, which interviewed 2,154 voters between October 17 and 20, gave Bolsonaro **45%** and Lula 44%, a gap well inside the two-point margin of error. A week earlier Quaest had the senator ahead by 46% to 44%. Counting only valid votes, the split is 50.6% to 49.4%. Approval of Lula's government edged up to 46%, with 47% disapproving.
 
 ## An ad pulled
 

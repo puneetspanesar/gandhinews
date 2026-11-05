@@ -54,7 +54,7 @@ verification:
     - "No statement from YES Bank or RBI on the ruling found."
 ---
 
-Shares of YES Bank crashed as much as 20% on Thursday after the Supreme Court upheld a ruling that cancelled the bank's ₹8,415 crore write-off of AT-1 bonds, a decision taken during the private lender's rescue in 2020.
+Shares of YES Bank crashed as much as **20%** on Thursday after the Supreme Court upheld a ruling that cancelled the bank's ₹8,415 crore write-off of AT-1 bonds, a decision taken during the private lender's rescue in 2020.
 
 A bench of Justices Dipankar Datta and Augustine George Masih dismissed appeals by YES Bank, the Reserve Bank of India and the Centre against a January 2023 judgment of the Bombay High Court, which had set the write-off aside. The bench said it had "decided on merits" and saw no reason to interfere with the High Court's order.
 
@@ -64,17 +64,17 @@ Srijan Sinha, a lawyer for the bondholders, said the court had found the write-o
 
 In March 2020 the RBI placed YES Bank under a moratorium and superseded its board as the private lender ran into serious trouble. A rescue plan, the YES Bank Reconstruction Scheme, followed, with State Bank of India and other lenders putting in money.
 
-As part of that rescue, the bank wrote its Additional Tier-1 bonds down to zero. These are a type of perpetual bond that counts towards a bank's core capital and can be written off when a lender is in distress. The bonds involved were ₹3,000 crore carrying a 9.5% coupon and ₹5,415 crore carrying 9%.
+As part of that rescue, the bank wrote its Additional Tier-1 bonds down to zero. These are a type of perpetual bond that counts towards a bank's core capital and can be written off when a lender is in distress. The bonds involved were **₹3,000 crore** carrying a 9.5% coupon and ₹5,415 crore carrying 9%.
 
 YES Bank has maintained that the write-down followed the terms of the bonds and the rules in force. In its disclosures for 2025-26 it said it did not expect the litigation to have a material financial impact, and that any effect of a final ruling would be recorded in later periods.
 
 ## The market's verdict
 
-Investors were not reassured. The stock fell to ₹16.96 on the NSE against Wednesday's close of ₹21.20, and more than 62 crore shares changed hands on the two exchanges. It clawed back some ground to trade about 14% lower at around ₹18.30 shortly after 3 pm, on a day the Sensex rose more than 2%.
+Investors were not reassured. The stock fell to **₹16.96** on the NSE against Wednesday's close of ₹21.20, and more than 62 crore shares changed hands on the two exchanges. It clawed back some ground to trade about 14% lower at around ₹18.30 shortly after 3 pm, on a day the Sensex rose more than 2%.
 
-The rating agency CRISIL had estimated in August that a full write-back of the bonds could reduce the bank's common equity Tier-1 ratio by about 2.3 to 2.5 percentage points, while leaving its overall Tier-1 and total capital ratios unchanged.
+The rating agency CRISIL had estimated in August that a full write-back of the bonds could reduce the bank's common equity Tier-1 ratio by about 2.3 to **2.5 percentage points**, while leaving its overall Tier-1 and total capital ratios unchanged.
 
-Avinash Gorakshakar, founder and head of research at Avinash Mentor Research Services, called the ruling completely unexpected and said the market wanted to know whether the bank would honour the obligations. He said he would wait for clarity from management before taking a view on the stock. Vipin Kumar of Globe Capital Market said a decisive close below ₹16 could push the shares towards ₹12.
+Avinash Gorakshakar, founder and head of research at Avinash Mentor Research Services, called the ruling completely unexpected and said the market wanted to know whether the bank would honour the obligations. He said he would wait for clarity from management before taking a view on the stock. Vipin Kumar of Globe Capital Market said a decisive close below **₹16** could push the shares towards ₹12.
 
 ## What comes next
 

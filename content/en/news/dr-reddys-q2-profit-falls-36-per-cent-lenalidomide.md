@@ -38,16 +38,16 @@ verification:
     - "NSE close ₹1,229.50 on Oct 23 per Kotak Neo; day's change not given."
 ---
 
-Dr Reddy's Laboratories reported a 36% fall in September-quarter profit on Friday, as sales in North America of lenalidomide, a generic cancer drug, fell.
+Dr Reddy's Laboratories reported a **36%** fall in September-quarter profit on Friday, as sales in North America of lenalidomide, a generic cancer drug, fell.
 
-Net profit attributable to shareholders came to ₹925 crore. Revenue fell 1.5% from a year earlier to ₹8,671 crore, and earnings before interest, tax, depreciation and amortisation dropped 24% to ₹1,783 crore, a margin of 20.6%. Profit before tax was down 33% at ₹1,228 crore.
+Net profit attributable to shareholders came to **₹925 crore**. Revenue fell 1.5% from a year earlier to ₹8,671 crore, and earnings before interest, tax, depreciation and amortisation dropped 24% to ₹1,783 crore, a margin of 20.6%. Profit before tax was down 33% at ₹1,228 crore.
 
 The company said lower lenalidomide sales in North America weighed on reported growth, and that the rest of its business grew at a double-digit rate once that drug was taken out.
 
 ## Where it grew
 
-North America brought in ₹2,489 crore, up 13% from the June quarter. Excluding lenalidomide, sales there grew 12.4%, against 2.1% for the US generics market as a whole, according to IQVIA data cited by the company.
+North America brought in **₹2,489 crore**, up 13% from the June quarter. Excluding lenalidomide, sales there grew 12.4%, against 2.1% for the US generics market as a whole, according to IQVIA data cited by the company.
 
-Emerging markets were the strongest region, with sales up 24% to ₹2,059 crore, helped by new launches and favourable currency movements. In India, sales rose 17% to ₹1,851 crore. Europe added ₹1,393 crore, up 1%, and the pharmaceutical services and active ingredients unit ₹831 crore, up 12%, though lower volumes of active ingredients held it back.
+Emerging markets were the strongest region, with sales up 24% to ₹2,059 crore, helped by new launches and favourable currency movements. In India, sales rose **17% to ₹1,851 crore**. Europe added ₹1,393 crore, up 1%, and the pharmaceutical services and active ingredients unit ₹831 crore, up 12%, though lower volumes of active ingredients held it back.
 
-The results came after the market closed. Dr Reddy's shares ended Friday at ₹1,229.50 on the National Stock Exchange and will trade on the numbers when the market reopens on Monday.
+The results came after the market closed. Dr Reddy's shares ended Friday at **₹1,229.50** on the National Stock Exchange and will trade on the numbers when the market reopens on Monday.

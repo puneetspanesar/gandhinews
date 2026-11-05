@@ -44,7 +44,7 @@ Israeli Prime Minister Benjamin Netanyahu has said that he and US President Dona
 
 The remark, a week before Israelis vote on October 27, follows a surprise visit to Israel by US Defence Secretary Pete Hegseth on Monday and Trump's endorsement of Netanyahu in the election on Sunday.
 
-Iran's President Masoud Pezeshkian set out a hard line in response to the pressure. As a precondition for any negotiation, he said, the United States must first remove all economic pressure, threats and sanctions. Iran "does not trust America", he said, adding: "if we negotiate they will attack us again."
+Iran's President Masoud Pezeshkian set out a hard line in response to the pressure. As a precondition for any negotiation, he said, the United States must first remove **all economic pressure, threats and sanctions**. Iran "does not trust America", he said, adding: "if we negotiate they will attack us again."
 
 Tehran has warned that any new US attack would bring "destruction" throughout the region.
 

@@ -51,7 +51,7 @@ Delhi Police told the Delhi High Court on Thursday that they would take "appropr
 
 The assurance came on a petition by Anil Kumar Gupta, a licensed vendor who sells readymade garments at Palika Bazar in Connaught Place, where the CJP wants supporters to gather at Central Park at 5 pm on Friday. Senior advocate Sachin Puri, for Gupta, told the bench of Acting Chief Justice Nitin Wasudeo Sambre and Justice Sanjay Sharma that the site is not designated for protests and that an "illegal march" on a festival weekend would block the whole area. He asked for Dipke, who he said comes from outside Delhi, to be restrained.
 
-When the bench noted the petitioner's complaint that no action had been taken against Dipke, Additional Solicitor General Chetan Sharma, for the police, replied: "we will take." He spoke of a "pattern of lawlessness" and the worries of about 15 lakh traders whose business could suffer. The court recorded his assurance that "all possible measures under the law will be taken" and listed the case for November 3.
+When the bench noted the petitioner's complaint that no action had been taken against Dipke, Additional Solicitor General Chetan Sharma, for the police, replied: "we will take." He spoke of a "pattern of lawlessness" and the worries of about **15 lakh** traders whose business could suffer. The court recorded his assurance that "all possible measures under the law will be taken" and listed the case for November 3.
 
 ## Friday's plan
 

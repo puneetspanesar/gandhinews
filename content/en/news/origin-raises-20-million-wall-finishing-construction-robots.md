@@ -41,7 +41,7 @@ verification:
     - "Quotes from Ghaturle are partial phrases as given by Inc42."
 ---
 
-Origin, a robotics start-up building machines for construction sites, has raised $20 million (about ₹189 crore) and come out of stealth. Accel and Zacua Ventures co-led the round, with Unilazer Ventures, Schema Ventures and Z21 joining in, along with angel investors from Anduril, Skild AI, 1X and Tesla. Zacua founding partner Vivin Hegde has joined Origin's board.
+Origin, a robotics start-up building machines for construction sites, has raised $20 million (about **₹189 crore**) and come out of stealth. Accel and Zacua Ventures co-led the round, with Unilazer Ventures, Schema Ventures and Z21 joining in, along with angel investors from Anduril, Skild AI, 1X and Tesla. Zacua founding partner Vivin Hegde has joined Origin's board.
 
 The US-based company was founded in 2025 by chief executive Yogesh Ghaturle, Ashish Daga and Tushar Makkar.
 
@@ -49,6 +49,6 @@ Its first machine, the OG-1, finishes interior walls. It applies joint compound,
 
 "We think of Origin as a time machine for construction," Ghaturle said. He said the aim is to help crews finish faster while moving the industry "toward autonomous job sites".
 
-Origin says its robots are already working on construction sites in New York and are being deployed in commercial spaces, apartments, data centres, hotels and warehouses. It plans large pilots with customers in the US and Europe and is exploring trials in Germany, Sweden, France and Saudi Arabia. It wants 150 robots in the field by the end of 2027.
+Origin says its robots are already working on construction sites in New York and are being deployed in commercial spaces, apartments, data centres, hotels and warehouses. It plans large pilots with customers in the US and Europe and is exploring trials in Germany, Sweden, France and Saudi Arabia. It wants **150 robots** in the field by the end of 2027.
 
 "Wall finishing and painting are only our starting trades," Ghaturle said.

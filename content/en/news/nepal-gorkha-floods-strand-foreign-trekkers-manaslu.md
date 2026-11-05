@@ -41,14 +41,14 @@ verification:
     - "Nationalities of stranded trekkers beyond the nine Bangladeshis not reported. No Indians mentioned in any source."
 ---
 
-More than 100 foreign trekkers are stranded on the Manaslu trekking route in central Nepal after a flash flood on the Budhi Gandaki river washed away bridges and stretches of trail, an official said on Tuesday.
+More than **100 foreign trekkers** are stranded on the Manaslu trekking route in central Nepal after a flash flood on the Budhi Gandaki river washed away bridges and stretches of trail, an official said on Tuesday.
 
-The flood struck Gorkha district, about 100 km west of Kathmandu, early on Sunday after a landslide before dawn blocked the river. Black sludge and debris swept away more than 200 homes and damaged three hydroelectric plants, Nepal's disaster authorities said. No deaths have been reported, but five villagers are out of contact.
+The flood struck Gorkha district, about 100 km west of Kathmandu, early on Sunday after a landslide before dawn blocked the river. Black sludge and debris swept away **more than 200 homes** and damaged three hydroelectric plants, Nepal's disaster authorities said. No deaths have been reported, but five villagers are out of contact.
 
 Bhuwan Raj Ojha of the Manaslu Conservation Area Project said the trekkers were cut off at different points where part of the trail had gone. Those who wanted to carry on could do so from safe places such as local restaurants and tea houses, he said. "Those hikers who want to return because of the flood need to be rescued," he said.
 
 Among them are nine Bangladeshi trekkers waiting in Jagat village for a possible helicopter evacuation. One of them, Md Shahadat Hossain, said the group was safe but had no electricity or phone signal and was running short of food.
 
-Rescuers brought out 321 people on Monday, 12 of them foreigners, and the army said the operation would continue on Tuesday even as the river level fell. Gorkha's authorities have told villagers along the banks downstream to move to safety, and flood alerts are in force for Gorkha, Tanahun, Chitwan, East Nawalparasi and West Nawalparasi districts.
+Rescuers brought out **321 people** on Monday, 12 of them foreigners, and the army said the operation would continue on Tuesday even as the river level fell. Gorkha's authorities have told villagers along the banks downstream to move to safety, and flood alerts are in force for Gorkha, Tanahun, Chitwan, East Nawalparasi and West Nawalparasi districts.
 
-Nepal is still recovering from a glacier collapse in August that caused a catastrophic flood and killed 1,457 people.
+Nepal is still recovering from a glacier collapse in August that caused a catastrophic flood and killed **1,457 people**.

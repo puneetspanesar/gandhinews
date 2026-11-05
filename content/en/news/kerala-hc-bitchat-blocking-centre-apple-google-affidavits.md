@@ -50,9 +50,9 @@ sources:
     primary: false
 ---
 
-The Kerala High Court has asked the Union government, Apple and Google to explain why BitChat, a messaging app that works over Bluetooth without the internet, was blocked in India, putting the first judicial spotlight on a takedown that digital rights groups say was aimed at protesters.
+The Kerala High Court has asked the Union government, **Apple and Google** to explain why BitChat, a messaging app that works over Bluetooth without the internet, was blocked in India, putting the first judicial spotlight on a takedown that digital rights groups say was aimed at protesters.
 
-A division bench of Chief Justice Soumen Sen and Justice Syam Kumar V M issued notice on a public interest petition filed by the Appropriate Technology Promotion Society, an Ernakulam-based group. The bench directed the Ministry of Home Affairs, the Ministry of Electronics and Information Technology and the Ministry of Information and Broadcasting, along with Apple India and Google India, to file affidavits within four weeks. For now the replies are limited to the decision to block BitChat. The court has kept open the question of whether the petition is maintainable, and the case is listed again on November 11.
+A division bench of Chief Justice Soumen Sen and Justice Syam Kumar V M issued notice on a public interest petition filed by the Appropriate Technology Promotion Society, an Ernakulam-based group. The bench directed the Ministry of Home Affairs, the Ministry of Electronics and Information Technology and the Ministry of Information and Broadcasting, along with Apple India and Google India, to file affidavits within **four weeks**. For now the replies are limited to the decision to block BitChat. The court has kept open the question of whether the petition is maintainable, and the case is listed again on November 11.
 
 ## What the petition says
 

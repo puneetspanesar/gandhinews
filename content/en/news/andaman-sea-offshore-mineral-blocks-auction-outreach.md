@@ -37,7 +37,7 @@ verification:
 
 The Ministry of Mines on Tuesday made its pitch to companies interested in exploring the floor of the Andaman Sea, holding an outreach session in New Delhi for two offshore blocks rich in polymetallic nodules and crusts.
 
-The blocks, Sewell Rise-01 (632 sq km) and West Sewell Rise-01 (1,000 sq km), are being offered as composite licences. The deposits contain nickel, cobalt, copper and manganese.
+The blocks, Sewell Rise-01 (632 sq km) and West Sewell Rise-01 (1,000 sq km), are being offered as composite licences. The deposits contain **nickel, cobalt, copper and manganese**.
 
 Mines Secretary Keshav Chandra told prospective bidders that the auction is part of a push to strengthen India's supply chain for minerals, and mentioned a critical mineral processing park planned on the east coast. Additional Secretary Veena Kumari Dermal said block boundaries had been redrawn after feedback from industry, including enlarging the nodule and crust areas.
 

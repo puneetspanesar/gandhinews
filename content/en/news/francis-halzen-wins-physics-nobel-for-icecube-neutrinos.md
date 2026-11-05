@@ -9,7 +9,7 @@ title: "Physics Nobel for Francis Halzen, who turned South Pole ice into a neutr
 standfirst: "The IceCube observatory, buried in a cubic kilometre of Antarctic ice, caught the first high-energy neutrinos from beyond the solar system and traced some of them to distant galaxies."
 published: 2026-10-12T07:30:00+05:30
 keyPoints:
-  - "Francis Halzen, 82, of the University of Wisconsin–Madison is the **first sole winner of the physics prize since 1992**."
+  - "Francis Halzen, 82, of the University of Wisconsin-Madison is the **first sole winner of the physics prize since 1992**."
   - "IceCube uses **5,160 light sensors** in the ice to catch rare flashes from neutrinos hitting atoms."
   - "It has traced high-energy neutrinos to **two distant galaxies and the Milky Way**."
 hero:
@@ -27,8 +27,8 @@ sources:
     date: 2026-10-06
     url: "https://www.aip.org/aip/aip-congratulates-2026-nobel-prize-winner-in-physics"
     primary: true
-  - title: "University of Wisconsin–Madison Professor Francis Halzen named 2026 Nobel laureate in physics"
-    publisher: "University of Wisconsin–Madison"
+  - title: "University of Wisconsin-Madison Professor Francis Halzen named 2026 Nobel laureate in physics"
+    publisher: "University of Wisconsin-Madison"
     date: 2026-10-06
     url: "https://news.wisc.edu/university-of-wisconsin-madison-professor-francis-halzen-named-2026-nobel-laureate-in-physics/"
     primary: true
@@ -57,15 +57,15 @@ verification:
   notes:
     - "nobelprize.org (summary and press release) could not be fetched. The full citation is from the AIP release; Physics World and IceCube give the opening words only, and they match."
     - "Halzen's first reaction: AP (via PBS) has 'It was a great surprise, and I obviously didn't expect it'; Physics World has 'It was a great surprise and I didn't expect it.' AP wording used."
-    - "PBS/AP page text says 'Tuesday, October 5'; the Tuesday was October 6, which UW–Madison, IceCube and AIP all give. October 6 used."
-    - "Depth: UW–Madison says 'almost a mile of ice'; AIP says 2 km beneath the ice. Neither figure used; the story says 'deep in the ice'."
-    - "Blazar date: UW–Madison dates the neutrino to September 2017; Physics World dates the link to TXS 0506+056 to 2018 (when the results were published). Timeline says 2018 with the 2017 detection mentioned."
+    - "PBS/AP page text says 'Tuesday, October 5'; the Tuesday was October 6, which UW-Madison, IceCube and AIP all give. October 6 used."
+    - "Depth: UW-Madison says 'almost a mile of ice'; AIP says 2 km beneath the ice. Neither figure used; the story says 'deep in the ice'."
+    - "Blazar date: UW-Madison dates the neutrino to September 2017; Physics World dates the link to TXS 0506+056 to 2018 (when the results were published). Timeline says 2018 with the 2017 detection mentioned."
     - "Construction 'about six years' and the $279 million cost are from AIP only."
     - "Mark Pearce is described by Physics World as chair of the Nobel Committee; Eva Olsson as a committee member by AP. Not cross-checked on nobelprize.org."
-    - "IceCube-Gen2 '8 times the volume' is from the IceCube release. First science data from the 2025–26 upgrade 'expected later in 2026' is from the same release."
+    - "IceCube-Gen2 '8 times the volume' is from the IceCube release. First science data from the 2025-26 upgrade 'expected later in 2026' is from the same release."
 ---
 
-Francis Halzen, a Belgian-born physicist who spent decades turning a block of Antarctic ice into a telescope, has won the 2026 Nobel Prize in Physics. The Royal Swedish Academy of Sciences announced on October 6 that Halzen, 82, of the University of Wisconsin–Madison, is honoured "for decisive contributions to the IceCube Neutrino Observatory and the discovery of high-energy neutrinos of astrophysical origin".
+Francis Halzen, a Belgian-born physicist who spent decades turning a block of Antarctic ice into a telescope, has won the 2026 Nobel Prize in Physics. The Royal Swedish Academy of Sciences announced on October 6 that Halzen, 82, of the University of Wisconsin-Madison, is honoured "for decisive contributions to the IceCube Neutrino Observatory and the discovery of high-energy neutrinos of astrophysical origin".
 
 He is the first person to win the physics prize alone since Georges Charpak in 1992. "It was a great surprise, and I obviously didn't expect it," Halzen said, speaking to the committee by phone from Italy.
 
@@ -75,13 +75,13 @@ Neutrinos are everywhere and almost impossible to catch. They have no electric c
 
 That shyness is also what makes them useful. "The neutrino has such peculiar properties, the fact it interacts so infrequently in material," said Mark Pearce, who chairs the Nobel physics committee. Because so little stops them, neutrinos carry information from distant cosmic sources that cannot be obtained any other way.
 
-To catch something that rarely hits anything, you need an enormous target. Halzen and a colleague had the idea in 1988 of using the ice under the South Pole. Scientists melted nearly 100 holes in the ice and lowered strings of light sensors into them before the water refroze. Finished in late 2010, IceCube holds 5,160 sensors on 86 strings, spread through about a cubic kilometre of ice deep below the surface.
+To catch something that rarely hits anything, you need an enormous target. Halzen and a colleague had the idea in 1988 of using the ice under the South Pole. Scientists melted nearly 100 holes in the ice and lowered strings of **light sensors** into them before the water refroze. Finished in late 2010, IceCube holds 5,160 sensors on 86 strings, spread through about a cubic kilometre of ice deep below the surface.
 
 When a neutrino does strike the nucleus of an atom in the ice, it produces charged particles that give off a faint blue flash called Cherenkov light. The sensors record the flash, and its pattern shows which direction the neutrino came from. Nobel committee member Eva Olsson said Halzen "realized that the ice at the South Pole could visualize these neutrino messengers".
 
 ## What the ice has seen
 
-In 2013, two years after full operations began, IceCube reported 28 neutrinos, each with an energy of at least 30 teraelectronvolts. They were the first high-energy neutrinos detected from beyond the solar system. Since then the team has traced some of them to their sources: a blazar, a galaxy powered by a supermassive black hole at its centre, about 4 billion light-years away; the active galaxy NGC 1068; and our own Milky Way.
+In 2013, two years after full operations began, IceCube reported 28 neutrinos, each with an energy of at least 30 teraelectronvolts. They were the first high-energy neutrinos detected from beyond the solar system. Since then the team has traced some of them to their sources: a blazar, a galaxy powered by a supermassive black hole at its centre, about **4 billion** light-years away; the active galaxy NGC 1068; and our own Milky Way.
 
 ```timeline
 {"title":"IceCube, from idea to Nobel","items":[{"date":"1988","text":"Halzen and a colleague propose using South Pole ice to detect neutrinos."},{"date":"Dec 2010","text":"IceCube completed: 5,160 sensors on 86 strings."},{"date":"2013","text":"First high-energy neutrinos from beyond the solar system: 28 events."},{"date":"2018","text":"A neutrino caught in September 2017 is linked to the blazar TXS 0506+056."},{"date":"2022","text":"Galaxy NGC 1068, 47 million light-years away, identified as a source."},{"date":"2023","text":"The Milky Way shown to emit high-energy neutrinos."},{"date":"Oct 6, 2026","text":"Halzen wins the Nobel Prize in Physics."}]}
@@ -91,11 +91,11 @@ In 2013, two years after full operations began, IceCube reported 28 neutrinos, e
 
 ## A shared prize in spirit
 
-IceCube cost about $279 million. It is run by the University of Wisconsin–Madison with funding from the US National Science Foundation, and its collaboration has about 450 scientists from 58 institutions in 14 countries. Halzen has been its principal investigator since 2001.
+IceCube cost about $279 million. It is run by the University of Wisconsin-Madison with funding from the US National Science Foundation, and its collaboration has about 450 scientists from 58 institutions in 14 countries. Halzen has been its principal investigator since 2001.
 
 > It's a great relief for me to finally deliver the recognition that this great collaboration deserves.
 >
-> Source: Francis Halzen, University of Wisconsin–Madison, October 6, 2026
+> Source: Francis Halzen, University of Wisconsin-Madison, October 6, 2026
 
 ## What comes next
 

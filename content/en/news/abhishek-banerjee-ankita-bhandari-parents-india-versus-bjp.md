@@ -47,7 +47,7 @@ In a post on social media, the Diamond Harbour MP said it was "distressing" that
 
 Ankita's parents, along with Congress leaders including Pawan Khera, Supriya Shrinate and Imran Pratapgarhi, were picked up at about 3:45 am during an overnight sit-in against the appointment of BJP leader Dushyant Kumar Gautam as Governor of Sikkim. They were released around 5 am.
 
-The family alleges Gautam is linked to the "VIP" whose role in the 2022 murder of the 19-year-old resort receptionist is under CBI investigation, a claim Gautam denies. After the couple were released, her father Virendra Bhandari gave the Centre 24 hours to revoke or suspend the appointment until the inquiry is over. "Nationwide protests will be launched if the government does not accept our demand," he had said on Wednesday.
+The family alleges Gautam is linked to the "VIP" whose role in the 2022 murder of the 19-year-old resort receptionist is under CBI investigation, a claim Gautam denies. After the couple were released, her father Virendra Bhandari gave the Centre **24 hours** to revoke or suspend the appointment until the inquiry is over. "Nationwide protests will be launched if the government does not accept our demand," he had said on Wednesday.
 
 Rahul Gandhi and Priyanka Gandhi Vadra joined the parents at India Gate earlier in the week and have asked President Droupadi Murmu to withdraw the appointment. The resort owner, Pulkit Arya, and two employees were sentenced to life imprisonment in May 2025.
 

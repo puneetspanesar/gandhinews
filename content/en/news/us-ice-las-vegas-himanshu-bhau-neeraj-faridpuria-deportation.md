@@ -56,7 +56,7 @@ verification:
 
 Two of Haryana's most-wanted gangsters, Himanshu Bhau and Neeraj Faridpuria, are in the custody of US immigration authorities in Nevada, and Indian police are now trying to get them sent home.
 
-The two men were detained in Las Vegas on October 22 by US Immigration and Customs Enforcement (ICE), acting on intelligence from the Haryana Police's Special Task Force. They are listed as held at the Henderson Detention Center, with their cases handled by ICE's Enforcement and Removal Operations office in Las Vegas.
+The two men were detained in Las Vegas on October 22 by US Immigration and Customs Enforcement (ICE), acting on intelligence from the Haryana Police's Special Task Force. They are listed as held at the **Henderson Detention Center**, with their cases handled by ICE's Enforcement and Removal Operations office in Las Vegas.
 
 Haryana Police and the CBI, India's nodal agency for Interpol, are working with US authorities on their deportation. Officials have cautioned that the return is not automatic. The route and timing will depend on US immigration proceedings, and no date has been set. US authorities have not said publicly what the two were held for.
 

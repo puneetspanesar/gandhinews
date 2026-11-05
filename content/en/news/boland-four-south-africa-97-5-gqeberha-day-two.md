@@ -48,7 +48,7 @@ verification:
     - "Australia's 1-0 series lead from our day-one story."
 ---
 
-Scott Boland kept Australia on top in Gqeberha on Monday, taking two more wickets on another day ruined by rain as South Africa reached 97 for 5 at stumps on the second day of the second Test.
+Scott Boland kept Australia on top in Gqeberha on Monday, taking two more wickets on another day ruined by rain as South Africa reached **97 for 5** at stumps on the second day of the second Test.
 
 Rain and a wet outfield held up the start at St George's Park, and play only got going late in the day. About 30 overs were bowled, after just 12.2 on Sunday, but Australia made the most of them.
 
@@ -60,7 +60,7 @@ Mitchell Starc struck in between. Matthew Breetzke, back in the side for this ma
 
 Rickelton and captain Temba Bavuma then put together the only real resistance of the innings. Rickelton had made 31 when he edged Boland low to first slip, where Matt Renshaw dived to his right and held a one-handed catch inches off the turf.
 
-Bavuma remains the key wicket. He is 41 not out, with Wiaan Mulder on 2, and South Africa need him to bat long on day three if they are to post a total that can trouble Australia.
+Bavuma remains the key wicket. He is **41 not out**, with Wiaan Mulder on 2, and South Africa need him to bat long on day three if they are to post a total that can trouble Australia.
 
 ## Hazlewood absence
 

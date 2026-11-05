@@ -57,7 +57,7 @@ US Defense Secretary Pete Hegseth met Israeli Prime Minister Benjamin Netanyahu 
 
 The two met at an air force base in Israel's southern desert, according to Israel's Army Radio. Two people with knowledge of the matter first disclosed the meeting. The Pentagon declined to comment, and neither side has said what was discussed. Hegseth said on social media only that he had been visiting US service members in the area covered by Central Command, which spans the Middle East, North Africa and parts of Asia.
 
-The visit came as Qatar said on Tuesday that negotiations between Iran and the United States were still going on despite rising tension and fears of renewed fighting. Qatar's Foreign Ministry spokesperson Majed al-Ansari gave no detail on where the talks stood.
+The visit came as Qatar said on Tuesday that negotiations between **Iran and the United States** were still going on despite rising tension and fears of renewed fighting. Qatar's Foreign Ministry spokesperson Majed al-Ansari gave no detail on where the talks stood.
 
 ## An election a week away
 

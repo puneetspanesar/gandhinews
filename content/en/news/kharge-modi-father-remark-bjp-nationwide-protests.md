@@ -6,7 +6,7 @@ section: politics
 format_label: "Politics / Congress vs BJP"
 topics: [electoral-rolls-sir, election-commission]
 title: "Kharge's 'Modi ka baap bhi jayega' jibe in Patna sets off BJP protests across the country"
-standfirst: "The Congress president's retort to a man in the crowd drew condemnation from Amit Shah, Nitin Nabin and Rajnath Singh. The BJP will protest at every state headquarters on Monday."
+standfirst: "The Congress president's retort to a man in the crowd drew condemnation from Amit Shah, Nitin Nabin and Rajnath Singh. The BJP will protest at every state headquarters on Monday, October 26."
 published: 2026-10-25T20:40:00+05:30
 location: Patna
 keyPoints:
@@ -79,7 +79,7 @@ verification:
 
 Congress president Mallikarjun Kharge set off a fresh row with the BJP on Sunday when, answering a man in the audience in Patna, he said from the stage: "Modi ka baap bhi jayega." Even Modi's father would go.
 
-By evening, Home Minister Amit Shah, BJP president Nitin Nabin, Defence Minister Rajnath Singh and a string of Union ministers had condemned the remark as an insult to the Prime Minister's late father. The BJP said it would hold protests at all its state headquarters on Monday and demanded an unconditional apology.
+By evening, Home Minister Amit Shah, BJP president Nitin Nabin, Defence Minister Rajnath Singh and a string of Union ministers had condemned the remark as an insult to the Prime Minister's late father. The BJP said it would hold protests at **all its state headquarters on Monday** and demanded an unconditional apology.
 
 ## What happened in Patna
 

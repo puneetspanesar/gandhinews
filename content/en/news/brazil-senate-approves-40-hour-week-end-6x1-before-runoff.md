@@ -54,7 +54,7 @@ The only senator to vote against was Hamilton Mourão, the retired general who s
 
 His Liberal Party, the largest in Congress, had backed an alternative proposal and has not ruled out seeking changes in the next legislature. Business groups and some opposition politicians have warned about the cost to employers and the effect on productivity.
 
-The Chamber of Deputies had already approved the text in two rounds, and the Senate's constitution committee kept that version unchanged on September 2 so that it could be promulgated quickly. The cut is phased: the limit falls to 42 hours two months after promulgation and to 40 hours a year after that.
+The Chamber of Deputies had already approved the text in two rounds, and the Senate's constitution committee kept that version unchanged on September 2 so that it could be promulgated quickly. The cut is phased: the limit falls to **42 hours** two months after promulgation and to 40 hours a year after that.
 
 ## From a TikTok video to the Senate floor
 
@@ -62,6 +62,6 @@ The campaign began in 2023 with a TikTok video by Rick Azevedo, who spoke about 
 
 ## What it means for the runoff
 
-The vote lands ten days before the October 25 runoff. Lula finished the first round nearly two points behind, and the latest Quaest poll gives Flávio Bolsonaro 47 per cent to Lula's 45.
+The vote lands ten days before the October 25 runoff. Lula finished the first round nearly two points behind, and the latest Quaest poll gives Flávio Bolsonaro **47 per cent** to Lula's 45.
 
 Lula has also promised 5,000 reais to every micro-entrepreneur. The two candidates meet in a televised debate on the Band network on Sunday, the same day Bolsonaro has called his supporters on to São Paulo's Avenida Paulista.

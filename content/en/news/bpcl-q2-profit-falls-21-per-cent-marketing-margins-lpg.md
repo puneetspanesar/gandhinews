@@ -42,17 +42,17 @@ verification:
     - "No refining margin figure or executive quote found. Business Standard headline says 21.5%; body math (4,863.05 vs 6,191.49) gives 21.46%."
 ---
 
-Bharat Petroleum Corporation's profit fell 21.5% in the September quarter as high crude prices squeezed the margins it earns on selling fuel, the state-run company said in its results on Friday.
+Bharat Petroleum Corporation's profit fell **21.5%** in the September quarter as high crude prices squeezed the margins it earns on selling fuel, the state-run company said in its results on Friday.
 
-Consolidated net profit came to ₹4,863.05 crore, down from ₹6,191.49 crore a year earlier. Revenue from operations rose about 30% to ₹1.58 lakh crore. The company blamed suppressed marketing margins on certain petroleum products, partly offset by better refining margins.
+Consolidated net profit came to ₹4,863.05 crore, down from ₹6,191.49 crore a year earlier. Revenue from operations rose about **30% to ₹1.58 lakh crore**. The company blamed suppressed marketing margins on certain petroleum products, partly offset by better refining margins.
 
-The quarter was still a sharp improvement on April to June, when BPCL lost ₹1,873 crore as energy prices soared and fuel price increases were delayed. Prices were raised four times in May.
+The quarter was still a sharp improvement on April to June, when BPCL lost **₹1,873 crore** as energy prices soared and fuel price increases were delayed. Prices were raised four times in May.
 
 ## The LPG bill
 
-Cooking gas remains a drain. BPCL's under-recovery on LPG, the gap between what it costs and what the company is allowed to charge, had reached ₹17,334.40 crore by September 30. The petroleum ministry has approved ₹7,594 crore in compensation, to be paid in 12 equal monthly instalments. BPCL booked six of them, worth ₹3,796.98 crore, in its revenue for the quarter.
+Cooking gas remains a drain. BPCL's under-recovery on LPG, the gap between what it costs and what the company is allowed to charge, had reached **₹17,334.40 crore** by September 30. The petroleum ministry has approved ₹7,594 crore in compensation, to be paid in 12 equal monthly instalments. BPCL booked six of them, worth ₹3,796.98 crore, in its revenue for the quarter.
 
-Operations were busier. The company's refineries processed 10.41 million tonnes of crude, up 6% from a year earlier. Domestic sales rose 6.33% to 13.47 million tonnes, and exports jumped 64%.
+Operations were busier. The company's refineries processed 10.41 million tonnes of crude, up **6%** from a year earlier. Domestic sales rose 6.33% to 13.47 million tonnes, and exports jumped 64%.
 
 With Brent crude above $110 a barrel for much of the past week and rising again on Friday, the outlook for marketing margins in the December quarter depends heavily on where oil goes next and on whether pump prices are changed.
 

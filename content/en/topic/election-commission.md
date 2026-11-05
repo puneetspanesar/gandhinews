@@ -58,7 +58,7 @@ The Election Commission of India (ECI) conducts India's elections and orders the
 
 ## Where things stand
 
-Much of the current dispute concerns the Special Intensive Revision (SIR) of electoral rolls. On September 23 the Indian Express reported that Sandhu and Joshi objected on record at least 14 times in 10 months to SIR decisions. The ECI replied that written notes are standard practice and its decisions were unanimous. Opposition parties, which have twice moved to remove the CEC, say a third notice is being drafted. Delhi Police registered FIRs against opposition leaders after protests on October 6 and 7; no court has ruled on them. The law on how Commissioners are appointed is headed to a Constitution Bench.
+Much of the current dispute concerns the Special Intensive Revision (SIR) of electoral rolls. On September 23 a newspaper report said that Sandhu and Joshi had objected on record at least 14 times in 10 months to SIR decisions. The ECI replied that written notes are standard practice and its decisions were unanimous. Opposition parties, which have twice moved to remove the CEC, say a third notice is being drafted. Delhi Police registered FIRs against opposition leaders after protests on October 6 and 7; no court has ruled on them. The law on how Commissioners are appointed is headed to a Constitution Bench.
 
 Three things to watch next: whether the Chief Justice sets up the Constitution Bench on the appointment law, the Supreme Court's next hearing on who modified Form 6 and whether the CEC can act alone on the Commission's powers, and whether opposition parties file their third removal notice. The second notice, signed by 73 MPs with nine charges, has been pending in the Rajya Sabha since April 24.
 
@@ -67,7 +67,7 @@ Three things to watch next: whether the Chief Justice sets up the Constitution B
 ```
 
 ```facts
-{"title":"Key numbers","items":[{"value":"3","label":"members of the Commission","source":"ECI statement via ANI"},{"value":"14","label":"objections by two Commissioners in 10 months, as reported by the Indian Express","source":"ANI"},{"value":"193","label":"MPs who signed the March 2026 removal notices (130 LS, 63 RS)","source":"PTI"}]}
+{"title":"Key numbers","items":[{"value":"3","label":"members of the Commission","source":"ECI statement via ANI"},{"value":"14","label":"objections reported to have been made by two Commissioners in 10 months","source":"ANI"},{"value":"193","label":"MPs who signed the March 2026 removal notices (130 LS, 63 RS)","source":"PTI"}]}
 ```
 
 ## Key questions
@@ -79,7 +79,7 @@ The President, on the advice of a committee of the Prime Minister, the Leader of
 Only like a Supreme Court judge, for proven misbehaviour or incapacity, by a special majority in both Houses.
 
 **Did the Election Commissioners dissent?**
-The Indian Express reported they objected 14 times. The ECI says differing views are part of deliberation and every final decision was unanimous.
+They were reported to have objected 14 times. The ECI says differing views are part of deliberation and every final decision was unanimous.
 
 **Should dissent be published?**
 That is our editorial view; read [the argument](/en/editorial/election-commission-should-publish-its-dissent).

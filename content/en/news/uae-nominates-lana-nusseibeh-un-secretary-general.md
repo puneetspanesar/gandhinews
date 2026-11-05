@@ -42,11 +42,11 @@ verification:
     - "Reported US opposition to the existing slate rests on media reports (Politico via Al-Monitor); hedged."
 ---
 
-The United Arab Emirates has nominated Lana Nusseibeh, a minister in its foreign ministry and a former ambassador to the United Nations, to be the next UN secretary-general, adding a new name to a race that has stalled in the Security Council.
+The United Arab Emirates has nominated **Lana Nusseibeh**, a minister in its foreign ministry and a former ambassador to the United Nations, to be the next UN secretary-general, adding a new name to a race that has stalled in the Security Council.
 
 President Mohammed bin Zayed Al Nahyan sent the nomination letter to the presidents of the General Assembly and the Security Council. The UAE foreign ministry cited her "extensive experience with regard to the United Nations and her wisdom in dealing with current international challenges".
 
-Nusseibeh is minister of state at the UAE foreign ministry. She was the country's permanent representative to the UN from 2013 to 2024, the first woman to hold the job, a stretch that included the UAE's two-year term on the Security Council. She has also served as co-special envoy to Afghanistan and Pakistan. Her family is of Palestinian origin, with roots in Jerusalem. She has backed Palestinian statehood while defending the UAE's ties with Israel, and has warned that Israeli annexation of the West Bank would be a "red line" for the Emirates.
+Nusseibeh is minister of state at the UAE foreign ministry. She was the country's permanent representative to the UN **from 2013 to 2024**, the first woman to hold the job, a stretch that included the UAE's two-year term on the Security Council. She has also served as co-special envoy to Afghanistan and Pakistan. Her family is of Palestinian origin, with roots in Jerusalem. She has backed Palestinian statehood while defending the UAE's ties with Israel, and has warned that Israeli annexation of the West Bank would be a "red line" for the Emirates.
 
 The contest to replace Antonio Guterres has been stuck. Several rounds of informal straw polls have failed to produce a candidate acceptable to all five permanent members, and Washington is reported to oppose the existing field. The UAE's close ties with the Trump administration could help her build support, although the post is widely expected to go to a Latin American this time, and most of the declared candidates come from the region.
 

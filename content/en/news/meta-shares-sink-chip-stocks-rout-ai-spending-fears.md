@@ -48,15 +48,15 @@ verification:
     - "Huang remark paraphrased in Benzinga only; kept as paraphrase. BofA quote and target from Benzinga."
 ---
 
-Meta Platforms lost more than $100 billion in market value on Thursday and dragged the whole chip sector down with it, as investors balked at the scale of spending on artificial intelligence and asked how it will be paid for.
+Meta Platforms lost more than **$100 billion** in market value on Thursday and dragged the whole chip sector down with it, as investors balked at the scale of spending on artificial intelligence and asked how it will be paid for.
 
-Meta's shares fell 6.98% to $648.85, a day after its third-quarter results. Revenue beat forecasts, but the company raised its 2026 capital spending forecast to $135 billion to $145 billion, lifting the bottom of the range from $130 billion. Its longer-term spending commitments have climbed to about $825 billion from about $700 billion in July. Free cash flow came in at minus $2.12 billion, the first deficit since the company listed, and Meta announced a new class of non-voting shares to help fund the build-out along with a two-for-one stock split.
+Meta's shares fell **6.98% to $648.85**, a day after its third-quarter results. Revenue beat forecasts, but the company raised its 2026 capital spending forecast to $135 billion to $145 billion, lifting the bottom of the range from $130 billion. Its longer-term spending commitments have climbed to about $825 billion from about $700 billion in July. Free cash flow came in at minus $2.12 billion, the first deficit since the company listed, and Meta announced a new class of non-voting shares to help fund the build-out along with a two-for-one stock split.
 
 ## The chipmakers fall hardest
 
-The selling spread quickly to the companies that supply the AI boom. The Philadelphia Semiconductor Index fell 6.7%. Lam Research dropped about 9% after its own results, Applied Materials and KLA about 6%, Micron 6.3% and Nvidia 4.4%. CoreWeave, which rents out AI computing power, slid about 10% on worries over its debt and cost of capital, a concern sharpened by Nvidia chief executive Jensen Huang's remark that scarce capital was holding back such providers.
+The selling spread quickly to the companies that supply the AI boom. The Philadelphia Semiconductor Index fell **6.7%**. Lam Research dropped about 9% after its own results, Applied Materials and KLA about 6%, Micron 6.3% and Nvidia 4.4%. CoreWeave, which rents out AI computing power, slid about 10% on worries over its debt and cost of capital, a concern sharpened by Nvidia chief executive Jensen Huang's remark that scarce capital was holding back such providers.
 
-SpaceX fell 9.1%, giving back more than half of the jump that followed its first quarterly profit. Tesla lost 3.08% to $374.58 even though adjusted earnings of 48 cents a share beat forecasts; investors weighed lower capital spending this year against heavier outlays planned for 2027 and 2028 on its Optimus robot, Cybercab and chip projects.
+SpaceX fell **9.1%**, giving back more than half of the jump that followed its first quarterly profit. Tesla lost 3.08% to $374.58 even though adjusted earnings of 48 cents a share beat forecasts; investors weighed lower capital spending this year against heavier outlays planned for 2027 and 2028 on its Optimus robot, Cybercab and chip projects.
 
 ## Who pays
 

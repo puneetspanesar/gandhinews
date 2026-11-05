@@ -62,11 +62,11 @@ The officer, Kumar Rajeev Ranjan, is Administrative Secretary of the Labour and 
 
 Wani raised a concern about coordination with the National Rural Livelihoods Mission. Ranjan objected that the mission was only a supporting agency, and when she tried to explain her department's targets he cut in: "Shut up! Shut up! Don't explain." She asked to finish her sentence. He then allegedly used an abusive word. When she objected, he replied: "I am your boss."
 
-Mandeep Kaur, a 2004-batch IAS officer and Commissioner-Secretary of the Housing and Urban Development Department, has been named inquiry officer and has 15 days to report, according to an official order. Lieutenant Governor Manoj Sinha was reported to have asked Chief Secretary Atul Dulloo for a report. Ranjan was said to have sought Wani's suspension, but no such order has been issued. He has not commented in public.
+Mandeep Kaur, a 2004-batch IAS officer and Commissioner-Secretary of the Housing and Urban Development Department, has been named inquiry officer and has **15 days** to report, according to an official order. Lieutenant Governor Manoj Sinha was reported to have asked Chief Secretary Atul Dulloo for a report. Ranjan was said to have sought Wani's suspension, but no such order has been issued. He has not commented in public.
 
 ## Omar points to the limits of his office
 
-Chief Minister Omar Abdullah directed Dulloo to make sure no retaliatory action is taken against Wani. In a post on X, he said the conduct was "not in keeping with the standards expected of a senior IAS officer", and noted that control over IAS officers in the Union Territory rests with the Lieutenant Governor's office. Had Jammu and Kashmir been a state, he said, the officer would have been attached to the General Administration Department pending an inquiry.
+Chief Minister Omar Abdullah directed Dulloo to make sure **no retaliatory action** is taken against Wani. In a post on X, he said the conduct was "not in keeping with the standards expected of a senior IAS officer", and noted that control over IAS officers in the Union Territory rests with the Lieutenant Governor's office. Had Jammu and Kashmir been a state, he said, the officer would have been attached to the General Administration Department pending an inquiry.
 
 His father, National Conference president Farooq Abdullah, went further. "He should be expelled from Jammu and Kashmir," he said on Friday. "The language he used was completely wrong; he should be reprimanded." He said he was "deeply pained and ashamed" when he saw the video, and that the shouting of "get out, get out" was "entirely wrong".
 

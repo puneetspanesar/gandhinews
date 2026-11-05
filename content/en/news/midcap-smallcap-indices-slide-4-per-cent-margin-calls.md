@@ -40,9 +40,9 @@ verification:
     - "Index levels, weekly falls, 52-week highs, technical levels and the three quotes from Business Standard, 2:25 pm. Jio IPO diversion of funds is described there as a market view, hedged in copy."
 ---
 
-Shares of smaller Indian companies took another beating on Friday, with the Nifty Smallcap 100 and Nifty Midcap 100 indices sliding close to 4% as forced selling by retail traders deepened a week-long rout.
+Shares of smaller Indian companies took another beating on Friday, with the Nifty Smallcap 100 and Nifty Midcap 100 indices sliding close to **4%** as forced selling by retail traders deepened a week-long rout.
 
-The Smallcap 100 fell as much as 3.8% to an intraday low of 17,571.60, taking its loss over the past week to 7.4%. It now stands more than 10% below its 52-week high of 20,187.80. The Midcap 100 dropped 3.2% to 55,208.95 and is down 5.86% for the week and over 12.9% below its peak of 64,450.90.
+The Smallcap 100 fell as much as 3.8% to an intraday low of 17,571.60, taking its loss over the past week to 7.4%. It now stands more than 10% below its 52-week high of 20,187.80. The Midcap 100 dropped 3.2% to 55,208.95 and is down 5.86% for the week and **over 12.9% below** its peak of 64,450.90.
 
 The selling was far heavier than in the benchmarks. The Sensex and Nifty 50 were down less than 1% in the afternoon, cushioned by gains in large IT companies.
 

@@ -39,7 +39,7 @@ infographic:
     - {date: "6:25 am IST", text: "Jon Ossoff holds Georgia", icon: check-circle}
     - {date: "6:50 am IST", text: "Chris Pappas holds New Hampshire", icon: check-circle}
     - {date: "7:00 am IST", text: "Roy Cooper flips North Carolina", icon: flag-banner}
-  source: "AP race calls as reported by Washington Examiner live updates; NewsNation and Decision Desk HQ, November 3-4, 2026"
+  source: "Race calls and the Decision Desk HQ model, November 3-4, 2026"
 related: [us-midterms-ossoff-holds-georgia-first-results, us-midterms-voting-under-way-house-senate-57-million-early, us-midterms-stevens-backs-rogers-alaska-sullivan-suit-dismissed]
 seo:
   description: "Democrat Roy Cooper flips North Carolina's Senate seat and Chris Pappas holds New Hampshire in the 2026 US midterms; House and Senate control still undecided."

@@ -78,7 +78,7 @@ Read past the count and the picture changes. Of the Indian universities that wer
 
 ## Not a collapse, but a warning
 
-QS itself urges calm. Ben Sowter, its senior vice president, said the 71% figure is the share of institutions that moved down, not a fall in performance of that size, and that **two-thirds of the Indian universities that lost rank improved their scores**. Rivals elsewhere in Asia simply improved faster.
+QS itself urges calm. Ben Sowter, its senior vice president, said the 71% figure is the share of institutions that moved down, not a fall in performance of that size, and that two-thirds of the Indian universities that **lost rank improved their scores**. Rivals elsewhere in Asia simply improved faster.
 
 That is meant as reassurance. It ought to worry us more. A university that gets better and still loses ground is running in a race whose pace is set by others. Standing still is no longer an option, and modest improvement is not enough either.
 

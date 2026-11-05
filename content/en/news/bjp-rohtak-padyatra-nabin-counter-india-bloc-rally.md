@@ -59,14 +59,14 @@ verification:
     - "Not used: Morning story already covers the BJP's Hari Nagar to Tilak Nagar 1984 march led by Puri; only his date remark is new here. PIB index fetch blocked (permission timeout)."
 ---
 
-The BJP is answering the opposition's show of strength in Delhi with one of its own in Haryana. Party president **Nitin Nabin leads a padyatra in Rohtak** this morning, due to set off at 11 am from the Chhotu Ram Polytechnic Ground, as INDIA bloc supporters fill Ramlila Maidan to demand the resignation of Chief Election Commissioner Gyanesh Kumar.
+The BJP is answering the opposition's show of strength in Delhi with one of its own in Haryana. Party president **Nitin Nabin leads a padyatra in Rohtak** on the morning of November 1, due to set off at 11 am from the Chhotu Ram Polytechnic Ground, as INDIA bloc supporters fill Ramlila Maidan to demand the resignation of Chief Election Commissioner Gyanesh Kumar.
 
 The march, called **"Loktantra Bachao, Arajakta Hatao"** (save democracy, remove anarchy), ends at D-Park in Model Town, where Nabin is to lay flowers at the statue of Mahatma Gandhi. Chief Minister Nayab Singh Saini and state BJP president Archana Gupta are expected to join him.
 
 
 The party has framed the campaign as a reply to the opposition's charges over the Special Intensive Revision (SIR) of electoral rolls. It calls it a movement against **"falsehoods, conspiracies and unrest engineered by a desperate opposition"**, and says workers are "reaching every village and household" to set out its side. Gupta said the campaign "seeks to highlight democratic values, political accountability and issues concerning public interest."
 
-Rohtak was not chosen at random. The city, a Congress stronghold, has seen **two BJP and Congress face-offs** over the SIR in the past fortnight. A second padyatra is planned in Faridabad today with Union minister Dharmendra Pradhan, and Amit Shah is due to lead one in Karnal on November 5.
+Rohtak was not chosen at random. The city, a Congress stronghold, has seen **two BJP and Congress face-offs** over the SIR in the past fortnight. A second padyatra was planned in Faridabad the same day with Union minister Dharmendra Pradhan, and Amit Shah is due to lead one in Karnal on November 5.
 
 ## A row over the date
 

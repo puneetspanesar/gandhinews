@@ -34,7 +34,7 @@ infographic:
     - {icon: check-circle, value: "4", label: "House seats Democrats had taken from Republicans by early count"}
     - {icon: flag-banner, value: "2 of 4", label: "net Senate gains Democrats need, won so far"}
     - {icon: bank, value: "53-47", label: "Republican Senate majority going into the vote"}
-  source: "NBC News, CBS News and CNBC projections; Reuters count, November 3-4, 2026"
+  source: "Network projections and vote counts, November 3-4, 2026"
 related: [us-midterms-results-cooper-flips-north-carolina-senate, us-midterms-ossoff-holds-georgia-first-results, us-midterms-bottoms-flips-georgia-governor-congress-undecided]
 seo:
   description: "Democrats are projected to win the US House in the 2026 midterms; Annie Andrews flips South Carolina and Roy Cooper North Carolina as the Senate hangs on six races."
@@ -91,7 +91,7 @@ In Florida, Republican Senator Ashley Moody led Democrat Angie Nixon by about 3 
 
 ## A verdict on Trump
 
-Trump had told supporters to "pretend I'm on the ballot". On the eve of the vote he admitted that the party in the White House often loses midterms: "But we gave this a very strong shot." He had not reacted to the House projection at the time of writing. Exit polls found that **half of voters saw the election as a chance to rebuke the president**, with his approval near career lows amid the war with Iran and higher fuel prices.
+Trump had told supporters to "pretend I'm on the ballot". On the eve of the vote he admitted that the party in the White House often loses midterms: "But we gave this a very strong shot." He had not reacted to the House projection at the time of writing. Exit polls found that **half of voters** saw the election as a chance to rebuke the president, with his approval near career lows over the war with Iran and higher fuel prices.
 
 A Democratic House gives the party the power to block Trump's bills, open investigations and shape spending for the last two years of his term.
 

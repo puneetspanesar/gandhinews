@@ -45,7 +45,7 @@ He then told reporters at his Tadepalli office that the NDA coalition was "preve
 
 ## What Jagan alleges
 
-According to the YSRCP, nominations could not be filed at all in eight places, and in eight others its candidates' papers were torn up. In Pulivendula, his own home turf, only 19 nominations were filed for 36 wards, he said, alleging that police fired into the air and stones were thrown at candidates there. He called the firing unprecedented.
+According to the YSRCP, nominations could not be filed at all in eight places, and in eight others its candidates' papers were torn up. In Pulivendula, his own home turf, **only 19 nominations were filed for 36** wards, he said, alleging that police fired into the air and stones were thrown at candidates there. He called the firing unprecedented.
 
 He said his party's MPs Avinash Reddy, P V Midhun Reddy and M Gurumoorthy were mistreated at nomination centres, and that YSRCP workers were turned away even when they came in the group of four the rules allow, while TDP supporters gathered in crowds. He listed Kadapa, Punganur and Tirupati among the places where papers were seized or refused, vehicles attacked and supporters beaten, and said that on the final day candidates still could not file in towns including Tirupati, Kadapa, Rayachoti, Punganur, Darsi, Gurazala, Piduguralla, Badvel and Rajampet.
 
@@ -53,9 +53,9 @@ There was no immediate response from the TDP.
 
 ## The referee under fire
 
-Mr Reddy also turned on the State Election Commission. He called the present commissioner loyal to the TDP and questioned the practice of political authorities choosing who runs the polls. Under the former commissioner N Ramesh Kumar, whom he described as a staunch TDP supporter, the YSRCP had still won with a strike rate of more than 90 per cent, he said.
+Mr Reddy also turned on the State Election Commission. He called the present commissioner loyal to the TDP and questioned the practice of political authorities choosing who runs the polls. Under the former commissioner N Ramesh Kumar, whom he described as a staunch TDP supporter, the YSRCP had still won with a strike rate of more than **90 per cent**, he said.
 
-He complained that the schedule was announced a day after ward reservations were published, giving the opposition little time to prepare, that delimitation of wards had been drawn to favour the NDA, and that the government chose to hold the polls on an unrevised electoral roll even though, he said, the special intensive revision had found 46 lakh fake voters.
+He complained that the schedule was announced a day after ward reservations were published, giving the opposition little time to prepare, that delimitation of wards had been drawn to favour the NDA, and that the government chose to hold the polls on an unrevised electoral roll even though, he said, the special intensive revision had found **46 lakh** fake voters.
 
 ## What comes next
 

@@ -36,15 +36,15 @@ verification:
     - "Names of the arrested are as given by IANS; no officer is quoted."
 ---
 
-Gujarat Police's State Monitoring Cell has arrested seven people and seized fuel, chemicals and vehicles worth about ₹1.72 crore in two raids in Anand district over the alleged theft of petroleum products and chemicals.
+Gujarat Police's State Monitoring Cell has arrested seven people and seized fuel, chemicals and vehicles worth about **₹1.72 crore** in two raids in Anand district over the alleged theft of petroleum products and chemicals.
 
-The first raid, led by Police Inspector M K Malviya, was at the Rajpurohit Hotel on National Highway 48 at Boriyavi, on the Anand-Nadiad stretch. The team seized 10,290 litres of diesel and petrol worth ₹20.08 lakh, two vehicles and four mobile phones, a haul valued at ₹43.25 lakh in all.
+The first raid, led by Police Inspector M K Malviya, was at the Rajpurohit Hotel on National Highway 48 at Boriyavi, on the Anand-Nadiad stretch. The team seized **10,290 litres of diesel and petrol** worth ₹20.08 lakh, two vehicles and four mobile phones, a haul valued at ₹43.25 lakh in all.
 
 Four men were arrested: Narvarbhai alias Natubhai Lakum of Dholka in Ahmedabad district, Swaroop Singh Rajpurohit and Dhan Singh Rajpurohit of Barmer in Rajasthan, and Laxmanbhai Bharwad of Boriyavi. A case was registered at Anand Rural police station on October 14 under the Bharatiya Nyaya Sanhita and the Essential Commodities Act.
 
 ## 65 tonnes of chemicals at Danteli
 
-The second team, led by Police Inspector A J Chauhan, raided a site at Danteli village in Petlad taluka, along the Vasad-Tarapur highway. It found 65,312 kg of chemicals worth ₹71.84 lakh, along with three vehicles, six plastic barrels and four mobile phones, valued at ₹1.29 crore together.
+The second team, led by Police Inspector A J Chauhan, raided a site at Danteli village in Petlad taluka, along the Vasad-Tarapur highway. It found 65,312 kg of chemicals worth **₹71.84 lakh**, along with three vehicles, six plastic barrels and four mobile phones, valued at ₹1.29 crore together.
 
 Three men were arrested there: Dharmendra Singh alias Munna Rajput and Rajan Singh Rajput, both living in Kalali in Vadodara and originally from Sultanpur in Uttar Pradesh, and Ramvikas Yadav of Pratapgarh district in Uttar Pradesh. A 15-year-old boy from Uttar Pradesh who lives in Vadodara has been served a notice. Police are looking for two more men, Vivek Vanvasi of Pratapgarh and a man identified only as Vijay.
 

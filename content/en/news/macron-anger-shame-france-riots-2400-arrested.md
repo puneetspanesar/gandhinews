@@ -44,7 +44,7 @@ verification:
 
 President Emmanuel Macron said on Sunday that he felt "anger and shame" at what he called attempts "to bring down the republic", after a day of looting, arson and street battles that left France with some of its worst urban violence in years.
 
-Speaking on television after chairing an interministerial crisis meeting at the Elysee Palace, Macron promised that rioters and looters would "pay for their crimes". The Interior Ministry said nearly 2,400 people had been arrested on Saturday and about 1,000 police officers and gendarmes had been injured.
+Speaking on television after chairing an interministerial crisis meeting at the Elysee Palace, Macron promised that rioters and looters would "pay for their crimes". The Interior Ministry said **nearly 2,400 people** had been arrested on Saturday and about 1,000 police officers and gendarmes had been injured.
 
 Macron drew a line between the people he said had "legitimate demands" and those who smashed and stole. Officers, he said, had faced "unprecedented violence in several cities". "We need unity, we need calm and respect," he said.
 

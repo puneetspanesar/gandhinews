@@ -45,6 +45,6 @@ Irani dismissed the post as "cheap comments" made to stay in the headlines. "It 
 
 BJP MP Vivek Thakur was more dismissive. "His remarks should not be taken too seriously," he said. Vishva Hindu Parishad spokesperson Vinod Bansal repeated that Gandhi was suffering from "mental bankruptcy" and said: "Families were present at every event."
 
-The Congress did not back down. Khera, a Rajya Sabha MP, questioned how the RSS treats women and dared it to appoint a Dalit woman as its chief. Samajwadi Party MP Zia-ur-Rehman Barq of Sambhal also sided with Gandhi. "The RSS's working style is discriminatory," he said.
+The Congress did not back down. Khera, a Rajya Sabha MP, questioned how the RSS treats women and dared it to **appoint a Dalit woman** as its chief. Samajwadi Party MP Zia-ur-Rehman Barq of Sambhal also sided with Gandhi. "The RSS's working style is discriminatory," he said.
 
 The RSS is marking the final year of its centenary, and its chief Mohan Bhagwat gave his Vijayadashami address in Nagpur on Tuesday, hours before Gandhi wrote.

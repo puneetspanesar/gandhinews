@@ -96,7 +96,7 @@ The House can have at most 238 elected representatives of the states and Union T
 
 ## How does the single transferable vote work?
 
-**Each MLA ranks the candidates in order of preference, and a candidate wins by reaching a fixed quota of votes.** Each first-preference vote is valued at 100 points, so fractions can be counted. A candidate needs one point more than the total value of valid votes divided by the number of seats plus one, as Deccan Herald explains the rule.
+**Each MLA ranks the candidates in order of preference, and a candidate wins by reaching a fixed quota of votes.** Each first-preference vote is valued at 100 points, so fractions can be counted. A candidate needs one point more than the total value of valid votes divided by the number of seats plus one.
 
 ```facts
 {"title":"Working out the quota (illustration)","items":[{"value":"400","label":"MLAs casting valid votes (example)","source":"Gandhi News illustration"},{"value":"10","label":"seats being filled (example)","source":"Gandhi News illustration"},{"value":"3,637","label":"points needed to win: 40,000 points (400 votes x 100) divided by 11 is 3,636.36, plus one point. That is about 36.4 votes, so 37 first-preference votes secure a seat","source":"Gandhi News calculation using the rule reported by Deccan Herald"}]}
@@ -106,26 +106,26 @@ If a candidate gets more votes than the quota, the surplus passes to the next pr
 
 ## Why is the ballot open?
 
-**To make cross-voting harder.** Unlike a Lok Sabha or assembly election, MLAs voting in a Rajya Sabha poll must show their marked ballot to an authorised agent of their party, according to Deccan Herald.
+**To make cross-voting harder.** Unlike a Lok Sabha or assembly election, MLAs voting in a Rajya Sabha poll must show their marked ballot to an authorised agent of their party.
 
-The Supreme Court has endorsed the logic. In a 2018 ruling, it said that "secrecy of voting has no room" in elections to the Council of States, LiveLaw reported.
+The Supreme Court has endorsed the logic. In a 2018 ruling, it said that "secrecy of voting has no room" in elections to the Council of States.
 
 ## Can MLAs choose NOTA?
 
 **No.** On August 21, 2018, a bench of Chief Justice Dipak Misra and Justices A.M. Khanwilkar and D.Y. Chandrachud quashed Election Commission circulars that had added a "none of the above" option to Rajya Sabha ballots. The petition was filed by Congress chief whip Shailesh Manubhai Parmar.
 
-The Court said NOTA may work in direct elections, but in an indirect election it would undermine democratic purity and could encourage defection and corruption, according to LiveLaw. It stressed the importance of party discipline in these polls.
+The Court said NOTA may work in direct elections, but in an indirect election it would undermine democratic purity and could encourage defection and corruption. It stressed the importance of party discipline in these polls.
 
 ## What happens when an MP resigns mid-term?
 
-**The seat is filled at a separate bypoll.** West Bengal's latest was for the seat vacated by Rukmini "Koel" Mallick, who was elected unopposed on a Trinamool Congress ticket earlier in 2026 and resigned on July 16 without attending a session, IANS reported. She was the fourth TMC Rajya Sabha member to resign since June. She then joined the BJP, which named her as its candidate for the same seat, and she was elected unopposed on October 9, DD News reported.
+**The seat is filled at a separate bypoll.** West Bengal's latest was for the seat vacated by Rukmini "Koel" Mallick, who was elected unopposed on a Trinamool Congress ticket earlier in 2026 and resigned on July 16 without attending a session. She was the fourth TMC Rajya Sabha member to resign since June. She then joined the BJP, which named her as its candidate for the same seat, and she was elected unopposed on October 9.
 
 ## What is due in October 2026?
 
-**Eleven biennial seats and one bypoll were due on October 16, but all were filled unopposed on October 9.** The Election Commission notified elections on September 29 for 10 seats from Uttar Pradesh and one from Uttarakhand, whose members retire on November 25, 2026, News On AIR reported.
+**Eleven biennial seats and one bypoll were due on October 16, but all were filled unopposed on October 9.** The Election Commission notified elections on September 29 for 10 seats from Uttar Pradesh and one from Uttarakhand, whose members retire on November 25, 2026.
 
 ```timeline
-{"title":"Rajya Sabha polls, October 2026","items":[{"date":"Sep 29, 2026","text":"Election Commission notifies biennial polls for 10 seats in Uttar Pradesh and 1 in Uttarakhand."},{"date":"Oct 6, 2026","text":"Nominations close. Eleven nominations filed in UP, one of them by an Independent without a proposer (UNI)."},{"date":"Oct 7, 2026","text":"Scrutiny of nominations."},{"date":"Oct 9, 2026","text":"Last date for withdrawal. All 10 UP candidates, Uttarakhand's Dinesh Arya and West Bengal's Koel Mallick declared elected unopposed (DD News)."},{"date":"Oct 16, 2026","text":"Scheduled polling date, no longer needed."},{"date":"Nov 25, 2026","text":"Terms of the retiring UP and Uttarakhand members end."}]}
+{"title":"Rajya Sabha polls, October 2026","items":[{"date":"Sep 29, 2026","text":"Election Commission notifies biennial polls for 10 seats in Uttar Pradesh and 1 in Uttarakhand."},{"date":"Oct 6, 2026","text":"Nominations close. Eleven nominations filed in UP, one of them by an Independent without a proposer."},{"date":"Oct 7, 2026","text":"Scrutiny of nominations."},{"date":"Oct 9, 2026","text":"Last date for withdrawal. All 10 UP candidates, Uttarakhand's Dinesh Arya and West Bengal's Koel Mallick declared elected unopposed."},{"date":"Oct 16, 2026","text":"Scheduled polling date, no longer needed."},{"date":"Nov 25, 2026","text":"Terms of the retiring UP and Uttarakhand members end."}]}
 ```
 
-In Uttar Pradesh, the BJP named eight candidates: Dharampal Singh, Radhakant Ojha, Prakash Pal, Vidyasagar Sonkar, Gopi Krishna Pandey, Priyanka Singh Rawat, Ram Pratap Singh Chauhan and Shruti Gangwar (IANS). Union ministers Hardeep Puri and B.L. Verma were not renominated. The Samajwadi Party named two, Ram Gopal Yadav and Dhanraj Parimal Nathwani (Business Today). The two Independent nominations were rejected at scrutiny, and the Returning Officer declared all 10 candidates elected unopposed on October 9, DD News reported. In Uttarakhand, the BJP's Dinesh Kumar Arya was elected unopposed.
+In Uttar Pradesh, the BJP named eight candidates: Dharampal Singh, Radhakant Ojha, Prakash Pal, Vidyasagar Sonkar, Gopi Krishna Pandey, Priyanka Singh Rawat, Ram Pratap Singh Chauhan and Shruti Gangwar. Union ministers Hardeep Puri and B.L. Verma were not renominated. The Samajwadi Party named two, Ram Gopal Yadav and Dhanraj Parimal Nathwani. The two Independent nominations were rejected at scrutiny, and the Returning Officer declared all 10 candidates elected unopposed on October 9. In Uttarakhand, the BJP's Dinesh Kumar Arya was elected unopposed.

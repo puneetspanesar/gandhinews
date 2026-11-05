@@ -64,13 +64,13 @@ verification:
 
 Indian shares fell for a fourth straight session on Friday after a wide swing, as an early rally in technology stocks collapsed under the weight of rising oil prices and a fresh rout in smaller companies.
 
-The Sensex ended 125.56 points, or 0.17%, lower at 73,123.83, and the Nifty 50 settled at 22,600, down 87.65 points or 0.39%. The headline losses hid how rough the day was. At its low the Sensex was down 761.92 points at 72,487.47, roughly 1,279 points below its morning peak, before buying in the last hour pulled it back. The India VIX, the market's gauge of expected volatility, rose about 8%.
+The Sensex ended 125.56 points, or 0.17%, lower at 73,123.83, and the Nifty 50 settled at 22,600, down 87.65 points or 0.39%. The headline losses hid how rough the day was. At its low the Sensex was down **761.92 points at 72,487.47**, roughly 1,279 points below its morning peak, before buying in the last hour pulled it back. The India VIX, the market's gauge of expected volatility, rose about 8%.
 
-Smaller companies had no such recovery. The Nifty Midcap 100 closed 2.21% lower and the Nifty Smallcap 100 2.94% lower, having been down more than 3% in the afternoon, extending a week-long slide that analysts have blamed on margin calls forcing leveraged retail traders to sell.
+Smaller companies had no such recovery. The Nifty Midcap 100 closed 2.21% lower and the Nifty Smallcap 100 **2.94% lower**, having been down more than 3% in the afternoon, extending a week-long slide that analysts have blamed on margin calls forcing leveraged retail traders to sell.
 
 ## How the day turned
 
-The morning began brightly. The Sensex opened 416.25 points higher at 73,665.64 and the Nifty gained 54.55 points to 22,742.20, with Infosys up more than 3% ahead of its results after the close, and Tata Consultancy Services, HCL Technologies and Larsen & Toubro also in demand.
+The morning began brightly. The Sensex opened 416.25 points higher at 73,665.64 and the Nifty gained 54.55 points to 22,742.20, with Infosys up more than **3%** ahead of its results after the close, and Tata Consultancy Services, HCL Technologies and Larsen & Toubro also in demand.
 
 But even at the open, more than three stocks fell on the NSE for every one that rose, and the gains did not last. By 10:59 am the Sensex was down 627.39 points at 72,622.00 and the Nifty 249.40 points lower at 22,438.25. Decliners outnumbered gainers by 3,245 to 519 across the market. At 1 pm the Sensex was still more than 738 points down.
 
@@ -78,11 +78,11 @@ The selling eased through the afternoon. At 3:24 pm, during the closing session,
 
 ## Oil and West Asia
 
-The pressure came from abroad. Brent crude rose to about $113.50 a barrel on fears for energy supplies after Yemen's Houthis attacked targets in Saudi Arabia, and Asian markets fell after a technology-led sell-off on Wall Street. Japan's Nikkei lost 1.36% and South Korea's Kospi 2.05% in the morning.
+The pressure came from abroad. Brent crude rose to about $113.50 a barrel on fears for energy supplies after Yemen's Houthis attacked targets in Saudi Arabia, and Asian markets fell after a technology-led sell-off on Wall Street. Japan's Nikkei lost **1.36%** and South Korea's Kospi 2.05% in the morning.
 
 "Geopolitical tensions continue to cloud the outlook for global energy supplies," said Ponmudi R, chief executive of Enrich Money. For India, which buys most of its oil abroad, every rise in crude feeds worries about inflation and a weaker rupee.
 
-Foreign investors added to the strain. They sold shares worth ₹3,458.70 crore on Thursday, while domestic institutions bought ₹2,891.32 crore.
+Foreign investors added to the strain. They sold shares worth **₹3,458.70 crore** on Thursday, while domestic institutions bought ₹2,891.32 crore.
 
 ## Winners and losers
 

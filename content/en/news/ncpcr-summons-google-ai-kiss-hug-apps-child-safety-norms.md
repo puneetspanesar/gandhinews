@@ -40,7 +40,7 @@ verification:
 
 The National Commission for Protection of Child Rights (NCPCR) has summoned Google over artificial intelligence apps on its Play Store that turn photos of real people into videos of them kissing and hugging, and says it will issue child-safety guidelines for social media, gaming and AI platforms by December.
 
-The commission has asked the company to a meeting later this month. Dozens of such "AI kiss and hug" apps were found on Google Play in India in August, several with more than a million downloads. They produced intimate videos from anyone's photo without checking consent, carried no AI label on what they made, and in some cases were rated as suitable for children as young as three. Google has not commented publicly on the summons.
+The commission has asked the company to a meeting **later this month**. Dozens of such "AI kiss and hug" apps were found on Google Play in India in August, several with more than a million downloads. They produced intimate videos from anyone's photo without checking consent, carried no AI label on what they made, and in some cases were rated as suitable for children as young as three. Google has not commented publicly on the summons.
 
 ## "Co-regulation is the key"
 

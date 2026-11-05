@@ -54,13 +54,13 @@ verification:
     - "Election date Oct 27 from Al Jazeera."
 ---
 
-A ruling by one of the most influential rabbis of Israel's far-right settler movement, permitting Jews to take olives from Palestinian orchards in the occupied West Bank, has drawn sharp criticism from other rabbis as the harvest season turns violent.
+A ruling by one of the most influential rabbis of Israel's far-right settler movement, permitting Jews to take **olives from Palestinian orchards** in the occupied West Bank, has drawn sharp criticism from other rabbis as the harvest season turns violent.
 
 Rabbi Dov Lior, who was born in Poland in 1933, issued the religious ruling on Friday. He argued that Palestinian landowners kept from their groves during the harvest had been compensated in years when they did have access, and described taking the fruit as an "additional virtue". Settlers, he wrote, should "conquer the land" to "demonstrate our ownership". The ruling describes the orchards as "stolen land in their hands", on the claim that Arabs never bought the land from Jews.
 
 ## Other rabbis push back
 
-The religious council of rabbis in the Gush Etzion settlements called the practice theft, "blasphemy, and a moral defect". Tzohar, an organisation of 800 Orthodox rabbis, said only the state can confiscate property, and that Arab ownership of the olives stands for as long as the state recognises it.
+The religious council of rabbis in the Gush Etzion settlements called the practice theft, "blasphemy, and a moral defect". Tzohar, an organisation of **800 Orthodox rabbis**, said only the state can confiscate property, and that Arab ownership of the olives stands for as long as the state recognises it.
 
 Gilad Kariv, a Knesset member from the Democrats party, said: "Whoever stands on the sidelines in this issue joins the camp of Rabbi Dov Lior and his criminals."
 
@@ -68,7 +68,7 @@ Analyst Mamoun Abu Amer said some of the rejections may be politically driven. L
 
 ## A violent harvest
 
-On Friday alone, at least 19 people were injured in 34 attacks by Israeli troops and settlers on Palestinians harvesting their crops, and five vehicles were set on fire. Heidi Levine, an American photojournalist working for The Washington Post, was knocked down and kicked near Abu Falah, suffering a broken rib and four broken vertebrae. "They just kept kicking me and kicking me, like probably 50 times," she said.
+On Friday alone, at least **19 people were injured in 34 attacks** by Israeli troops and settlers on Palestinians harvesting their crops, and five vehicles were set on fire. Heidi Levine, an American photojournalist working for The Washington Post, was knocked down and kicked near Abu Falah, suffering a broken rib and four broken vertebrae. "They just kept kicking me and kicking me, like probably 50 times," she said.
 
 Prime Minister Benjamin Netanyahu's office condemned the attack on Levine but said the facts "remain unclear" and were under investigation. "Those responsible will be held accountable," it said.
 

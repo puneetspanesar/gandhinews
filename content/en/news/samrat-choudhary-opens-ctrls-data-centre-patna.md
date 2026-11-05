@@ -48,9 +48,9 @@ verification:
 
 Bihar Chief Minister Samrat Choudhary on Wednesday inaugurated a data centre built by CtrlS Datacenters in the Patliputra Industrial Area of Patna, and said it would help bring investment in information technology and artificial intelligence to the state.
 
-Choudhary congratulated CtrlS founder Sridhar Pinnapureddy and his team at the opening. The state's Industries Department has signed a memorandum of understanding with the company worth ₹10,000 crore.
+Choudhary congratulated CtrlS founder Sridhar Pinnapureddy and his team at the opening. The state's Industries Department has signed a memorandum of understanding with the company worth **₹10,000 crore**.
 
-CtrlS announced the Patna project in August 2024 as a greenfield edge data centre with a 10 MW IT load and about 1,000 racks, at an investment of about ₹400 crore. The land was acquired through the Bihar Industrial Area Development Authority, close to the company's existing Patna facility.
+CtrlS announced the Patna project in August 2024 as a greenfield edge data centre with a 10 MW IT load and about 1,000 racks, at an investment of about **₹400 crore**. The land was acquired through the Bihar Industrial Area Development Authority, close to the company's existing Patna facility.
 
 "We are committed to developing a robust IT ecosystem in Bihar through our future-ready datacenters," Pinnapureddy said when the project was announced.
 

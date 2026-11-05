@@ -38,7 +38,7 @@ verification:
 
 The Centre for Development of Advanced Computing (C-DAC) and Bank of India have agreed to work together on preparing banks for quantum computing, both the opportunities it offers and the security risks it poses.
 
-The memorandum of understanding was signed on Thursday and announced by the Ministry of Electronics and IT on Friday. It sets up a framework for joint research, pilot projects, technology demonstrations and training. The main project is what the two call a quantum ecosystem for financial innovation, which will look at "quantum-inspired" and "quantum-safe" technology to protect banking systems and support decision-making.
+The memorandum of understanding was signed on Thursday and announced by the Ministry of Electronics and IT on Friday. It sets up a framework for joint research, pilot projects, technology demonstrations and training. The main project is what the two call a **quantum ecosystem for financial innovation**, which will look at "quantum-inspired" and "quantum-safe" technology to protect banking systems and support decision-making.
 
 The partners will draw up a list of banking uses, build proofs of concept in secure sandbox environments, compare them with existing systems and plan the next steps toward pilots.
 

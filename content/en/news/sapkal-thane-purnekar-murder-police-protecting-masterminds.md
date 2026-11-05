@@ -37,9 +37,9 @@ verification:
     - "Headline of the PTI copy has a typo ('protest' for 'protect'); the quote in the body reads 'protect the evildoers'."
 ---
 
-Maharashtra Congress president Harshvardhan Sapkal on Saturday accused the Thane police of shielding the people behind the murder of Shiv Sena (UBT) leader Pradeep Purnekar, saying officers had picked up only the men paid to carry it out.
+Maharashtra Congress president Harshvardhan Sapkal on Saturday accused the Thane police of shielding the people behind the murder of Shiv Sena (UBT) leader **Pradeep Purnekar**, saying officers had picked up only the men paid to carry it out.
 
-Purnekar, the party's Manpada ward chief, was shot at and then attacked with sharp weapons in a densely populated part of Thane on September 29. Police have arrested five people and questioned Rajendra Shinde, the husband of former Thane mayor Meenakshi Shinde.
+Purnekar, the party's Manpada ward chief, was shot at and then attacked with sharp weapons in a densely populated part of Thane on September 29. Police have arrested **five people** and questioned Rajendra Shinde, the husband of former Thane mayor Meenakshi Shinde.
 
 Sapkal spoke to reporters after visiting Purnekar's family. "Instead of targeting the masterminds, the police are merely arresting hired hitmen," he said, adding that the police were working to "protect the evildoers".
 

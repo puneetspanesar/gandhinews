@@ -46,12 +46,12 @@ The number of Americans filing new claims for unemployment benefits fell last we
 
 Initial jobless claims dropped to 194,000, the Labor Department's weekly figures showed on Thursday. That was below both the previous week's level and the 200,000 economists had forecast.
 
-A separate reading from the Conference Board, a research group, showed its index of leading economic indicators unchanged in September. Economists had expected a 0.2% decline. The index combines measures such as factory orders, building permits and share prices and is meant to signal where the economy is heading.
+A separate reading from the Conference Board, a research group, showed its index of leading economic indicators unchanged in September. Economists had expected a **0.2%** decline. The index combines measures such as factory orders, building permits and share prices and is meant to signal where the economy is heading.
 
-Borrowing costs for homebuyers eased slightly. The average rate on a 30-year fixed mortgage fell to 7.32% from 7.40%, according to the mortgage finance company Freddie Mac.
+Borrowing costs for homebuyers eased slightly. The average rate on a 30-year fixed mortgage fell to **7.32%** from 7.40%, according to the mortgage finance company Freddie Mac.
 
 ## Why markets shrugged
 
-On another day, strong jobs data might have pushed bond yields up by reducing the case for lower interest rates. On Thursday it was drowned out by a sell-off in technology shares that sent investors into Treasuries, and the 10-year yield fell below 5%.
+On another day, strong jobs data might have pushed bond yields up by reducing the case for lower interest rates. On Thursday it was drowned out by a sell-off in technology shares that sent investors into Treasuries, and the 10-year yield fell below **5%**.
 
 The figures land less than two weeks before the November 3 midterm elections, with the economy and prices at the centre of the campaign. September's consumer price data showed inflation rising, and oil above $110 a barrel threatens to push it higher.

@@ -50,9 +50,9 @@ verification:
     - "Final start time not found; written as Sunday. Semi-final timing Saturday afternoon local time; publish time set early evening IST."
 ---
 
-Iga Swiatek's run in Wuhan ended on Saturday with her left thigh strapped and her movement gone. Her fellow Pole Maja Chwalinska took full advantage, saving two set points in the opener and winning their semi-final 7-5, 6-1 to reach her first WTA 1000 final.
+Iga Swiatek's run in Wuhan ended on Saturday with her left thigh strapped and her movement gone. Her fellow Pole Maja Chwalinska took full advantage, saving two set points in the opener and winning their semi-final 7-5, 6-1 to reach her **first WTA 1000 final**.
 
-She will play Britain's Sonay Kartal on Sunday. Kartal, who missed six months with a back injury earlier this year, saved herself twice from 4-1 down to beat Jelena Ostapenko 7-6, 7-6. Neither finalist has won a title at this level before.
+She will play Britain's Sonay Kartal on Sunday. Kartal, who missed six months with a back injury earlier this year, saved herself twice from 4-1 down to beat Jelena Ostapenko **7-6, 7-6**. Neither finalist has won a title at this level before.
 
 ## Swiatek plays through the pain
 

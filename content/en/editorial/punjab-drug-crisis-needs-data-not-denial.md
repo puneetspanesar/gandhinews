@@ -74,7 +74,7 @@ These are crime and death figures, not a measure of addiction, and they can be r
 
 ## The survey nobody has seen
 
-Punjab has one. On April 1 Mann's government began a household Drug and Socio-Economic Survey of about 65 lakh families, with ₹150 crore set aside for it. "The idea is to understand the drug problem and then make targeted policies which will have better outcomes," the Chief Minister said. Data collection, first due by June, ran on into the summer. Officials said analysis would take about two more months. Six and a half months after the launch, no findings have been made public.
+Punjab has one. On April 1 Mann's government began a household Drug and Socio-Economic Survey of about **65 lakh families**, with ₹150 crore set aside for it. "The idea is to understand the drug problem and then make targeted policies which will have better outcomes," the Chief Minister said. Data collection, first due by June, ran on into the summer. Officials said analysis would take about two more months. Six and a half months after the launch, no findings have been made public.
 
 There were concerns from the start. Enumerators reported that families were unwilling to admit drug use or name sellers. Alcohol, which critics of the survey say is the state's most common addiction, was left out. A social work professor at Punjabi University said the method broke basic research principles. Those doubts are reasons to publish the method and the results together, so that experts can judge them, not reasons to keep the numbers in a drawer until after an election.
 

@@ -55,7 +55,7 @@ verification:
 
 Senator Flávio Bolsonaro has kept a slender lead over President Luiz Inácio Lula da Silva in the race for Brazil's presidency, with a third poll in as many days putting him narrowly ahead eight days before the runoff on October 25.
 
-A CNT/MDA survey released on Friday gave Bolsonaro 46.8% and Lula 45.9%. A Quaest poll a day earlier had the senator on 46% to Lula's 44%, and Datafolha, interviewing 2,520 voters on October 13 and 14, found him ahead by 47% to 45%. All three gaps are within the polls' margin of error of about two points, and many analysts see the contest as a toss-up.
+A CNT/MDA survey released on Friday gave Bolsonaro **46.8%** and Lula 45.9%. A Quaest poll a day earlier had the senator on 46% to Lula's 44%, and Datafolha, interviewing 2,520 voters on October 13 and 14, found him ahead by 47% to 45%. All three gaps are within the polls' margin of error of about two points, and many analysts see the contest as a toss-up.
 
 Datafolha's previous survey, a week earlier, had shown a four-point lead, so Lula has narrowed the gap slightly.
 

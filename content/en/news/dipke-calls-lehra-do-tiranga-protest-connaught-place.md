@@ -10,7 +10,7 @@ standfirst: "The Cockroach Janta Party founder wants supporters with flags at Ce
 published: 2026-10-14T18:45:00+05:30
 location: New Delhi
 keyPoints:
-  - "Abhijeet Dipke has called a **'Lehra Do Tiranga' protest at Central Park, Connaught Place, at 5 pm on Friday**."
+  - "Abhijeet Dipke has called a **'Lehra Do Tiranga' protest** at Central Park, Connaught Place, at 5 pm on Friday."
   - "Supporters who cannot reach Delhi were asked to hold **Tiranga marches in their own towns**."
   - "Dipke was **booed by a group at Delhi airport** as he returned from his grandmother's last rites."
 hero:
@@ -54,10 +54,10 @@ verification:
 
 Abhijeet Dipke, founder of the Cockroach Janta Party (CJP), has called on supporters to gather with the national flag at Connaught Place on Friday evening to protest the jailing of two of the party's leaders, Saurav Das and Ashutosh Ranka.
 
-"Waving a tricolour is not a crime," Dipke said on Wednesday, asking people to reach Central Park in CP at 5 pm on October 16 for what he is calling "Lehra Do Tiranga". "Tell the dictator that our Tricolour is our pride and waving it is not a crime," he said. Supporters who cannot travel to Delhi at short notice were asked to hold Tiranga marches in their own towns.
+"Waving a tricolour is not a crime," Dipke said on Wednesday, asking people to reach Central Park in CP at 5 pm on October 16 for what he is calling "Lehra Do Tiranga". "Tell the dictator that our Tricolour is our pride and waving it is not a crime," he said. Supporters who cannot travel to Delhi at short notice were asked to hold **Tiranga marches in their own towns**.
 
 Das and Ranka were sent to five days of judicial custody on Wednesday after climbing into Jantar Mantar on Tuesday with the flag and calling for the resignation of Chief Election Commissioner Gyanesh Kumar. Jantar Mantar was removed from Delhi's list of designated protest sites at the weekend. Dipke accused the Centre of crushing dissent. "Show some guts, @narendramodi," he wrote, urging the government to declare an Emergency openly.
 
-Earlier on Wednesday, Dipke was booed by a group at Indira Gandhi International Airport as he arrived from Nagpur, where he had gone for the last rites of his grandmother, who died on October 10 while he was in police detention. "Why are you ruining the nation?" one man asked him. Another shouted, "He is a thief." Security staff escorted him to a waiting car.
+Earlier on Wednesday, Dipke was **booed by a group** at Indira Gandhi International Airport as he arrived from Nagpur, where he had gone for the last rites of his grandmother, who died on October 10 while he was in police detention. "Why are you ruining the nation?" one man asked him. Another shouted, "He is a thief." Security staff escorted him to a waiting car.
 
 Delhi Chief Minister Rekha Gupta has criticised the Congress, other opposition parties and the CJP, saying the protests against the CEC over the SIR are causing trouble for the city's residents.

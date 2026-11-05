@@ -83,7 +83,7 @@ A bench of Chief Justice Surya Kant and Justices Joymalya Bagchi and V. Mohana r
 
 ## How the case began
 
-The TVK won 108 seats in the 2026 Assembly election, short of the 118 needed for a majority. In the confidence motion on May 13, the government of Chief Minister C. Joseph Vijay received 144 votes. Twenty-five AIADMK MLAs, led by S.P. Velumani and C. Vijayabaskar, voted for it despite a whip directing them to vote against.
+The TVK won **108 seats** in the 2026 Assembly election, short of the 118 needed for a majority. In the confidence motion on May 13, the government of Chief Minister C. Joseph Vijay received 144 votes. Twenty-five AIADMK MLAs, led by S.P. Velumani and C. Vijayabaskar, voted for it despite a whip directing them to vote against.
 
 AIADMK general secretary Edappadi K. Palaniswami sought the disqualification of all 25 under the Tenth Schedule, the anti-defection law, and proceedings began on May 14. Four of the 25 later resigned from the AIADMK and joined the TVK. For the other 21, Palaniswami wrote to the Speaker pardoning their conduct. Speaker J.C.D. Prabhakar accepted the letters and dropped the proceedings on June 9.
 

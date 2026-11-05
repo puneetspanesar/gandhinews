@@ -62,7 +62,7 @@ Israelis vote on October 27. Netanyahu's two-page doctrine, drew sharp replies f
 
 ## Lapid's own offer
 
-Lapid used the moment to set out his own line, which in places is harder than the government's. He pledged to end what he called the "policy of containment", to keep Turkey and Qatar out of any postwar arrangements for Gaza, and to intensify operations against Iran, including its oil industry. He also promised to recruit 20,000 ultra-Orthodox men into the army within two years, an issue that has split Netanyahu's coalition.
+Lapid used the moment to set out his own line, which in places is harder than the government's. He pledged to end what he called the "policy of containment", to keep **Turkey and Qatar** out of any postwar arrangements for Gaza, and to intensify operations against Iran, including its oil industry. He also promised to recruit 20,000 ultra-Orthodox men into the army within two years, an issue that has split Netanyahu's coalition.
 
 ## Trump's endorsement and Tehran's reply
 

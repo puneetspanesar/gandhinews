@@ -50,7 +50,7 @@ Helix captures the furnace's carbon dioxide and runs it through an electrolyser,
 
 Brown said the equipment can handle the furnace's full, raw exhaust stream, which most electrolysers cannot. "We don't need to capture the CO2 first," he said.
 
-The company proposes to replace 33% of a producer's coke at first, and estimates the saving at $14 per tonne of iron. "That may not seem like a lot, but margins in the iron industry are famously thin," Brown said. Studies on the approach vary widely, with some suggesting 30% to 40% of coke could be replaced and others as much as 90%.
+The company proposes to replace **33%** of a producer's coke at first, and estimates the saving at $14 per tonne of iron. "That may not seem like a lot, but margins in the iron industry are famously thin," Brown said. Studies on the approach vary widely, with some suggesting 30% to 40% of coke could be replaced and others as much as 90%.
 
 Brown argues the method suits an industry that keeps its plants for generations. "There are blast furnaces that have lived for over 100 years," he said.
 

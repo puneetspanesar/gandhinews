@@ -51,9 +51,9 @@ verification:
     - "Police deployment 70,000 (all three). Reuters says 10,000 more than previous week."
 ---
 
-France's second weekend of mass protests passed off with far less destruction than the first, but police still made nearly 1,000 arrests and fired tear gas in cities from Paris to Marseille as demonstrations against the cost of living ran into the night on Saturday.
+France's second weekend of mass protests passed off with far less destruction than the first, but police still made **nearly 1,000** arrests and fired tear gas in cities from Paris to Marseille as demonstrations against the cost of living ran into the night on Saturday.
 
-The interior ministry counted 4.1 lakh marchers across the country, 1.1 lakh of them in Paris. Organisers put the national figure above 8 lakh. Some 70,000 police and gendarmes were on duty, and soldiers patrolled the Champs-Élysées.
+The interior ministry counted **4.1 lakh marchers** across the country, 1.1 lakh of them in Paris. Organisers put the national figure above 8 lakh. Some 70,000 police and gendarmes were on duty, and soldiers patrolled the Champs-Élysées.
 
 Interior Minister Laurent Nunez said officers had faced "an extremely elevated level of violence" from black-clad groups he described as the ultra-left, but called the day more positive than the week before, when more than 2,000 people were taken into custody after looting across the country. "We have to be ultra, ultra responsive," he told reporters earlier in the day.
 
@@ -73,6 +73,6 @@ Jean-Luc Mélenchon, leader of France Unbowed, marched in Paris and called the t
 
 "We shed tears for shops, not for the people who are being impoverished all year round," said Clara Lebbadi, a 22-year-old arts student.
 
-In Orléans, thousands marched against the National Rally's party congress, where Jordan Bardella was re-elected party president with nearly 99% of the vote. Bardella and Marine Le Pen are due to launch the party's presidential campaign before about 10,000 supporters on Sunday. Protests were also held in Belgium, Italy, Spain and Portugal.
+In Orléans, thousands marched against the National Rally's party congress, where Jordan Bardella was re-elected party president with nearly **99%** of the vote. Bardella and Marine Le Pen are due to launch the party's presidential campaign before about 10,000 supporters on Sunday. Protests were also held in Belgium, Italy, Spain and Portugal.
 
 India's foreign ministry had earlier advised Indians in France, Italy and Belgium to stay away from the demonstrations.

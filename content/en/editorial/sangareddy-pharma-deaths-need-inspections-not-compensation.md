@@ -51,11 +51,11 @@ verification:
 
 At about a quarter past eleven on Friday night, chloroform began leaking inside Production Unit-2 of Saraka Laboratories in Gaddapotharam, in Telangana's Sangareddy district. Nobody noticed. By the time anyone did, P Sudarshan Rao, a 44-year-old shift in-charge, and Keelaparthi Balaji, a 29-year-old worker, had collapsed. Both were declared dead on arrival at hospital. Several colleagues, among them a trainee from the safety department, were taken ill.
 
-By Saturday the Pollution Control Board had shut the plant, police had registered a case on a complaint from Sudarshan Rao's wife, and the company, after talks with the local MLA, had agreed to pay ₹70 lakh to each family. The money was settled within hours. What caused the leak, and why it went undetected, has not been explained at all.
+By Saturday the Pollution Control Board had shut the plant, police had registered a case on a complaint from Sudarshan Rao's wife, and the company, after talks with the local MLA, had agreed to pay **₹70 lakh** to each family. The money was settled within hours. What caused the leak, and why it went undetected, has not been explained at all.
 
 ## The same district, again
 
-Sangareddy has been here before, and very recently. On June 30, 2025, an explosion tore through the Sigachi Industries plant at Pashamylaram, in the same district, and killed more than 40 people, the worst industrial disaster in Telangana's history. Families said complaints about ageing machinery had been ignored; the company said its equipment had been recently updated. An expert committee was set up, the company promised ₹1 crore for each family, and the plant was closed for three months.
+Sangareddy has been here before, and very recently. On June 30, 2025, an explosion tore through the Sigachi Industries plant at Pashamylaram, in the same district, and killed **more than 40 people**, the worst industrial disaster in Telangana's history. Families said complaints about ageing machinery had been ignored; the company said its equipment had been recently updated. An expert committee was set up, the company promised ₹1 crore for each family, and the plant was closed for three months.
 
 Saraka is a far smaller accident. But it follows the same pattern: a death toll, a closure order, a compensation figure negotiated in front of a politician, and a promise of inquiry. What rarely follows is a public account of what went wrong and what has been changed in the many other units across the district that handle the same solvents and reactors.
 

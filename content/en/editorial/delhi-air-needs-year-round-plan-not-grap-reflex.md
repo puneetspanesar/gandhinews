@@ -6,7 +6,7 @@ section: policy
 format_label: "Editorial"
 topics: []
 title: "Delhi's bad air arrives on schedule every October. The response should not wait for the alarm"
-standfirst: "Forecasters say the capital's air turns 'poor' from today, as it does every year at this time. Farm fires are rising in states that were not watched closely, machines sit idle and satellites go blind after 3 pm. The fixes are known; what is missing is the habit of acting before the haze."
+standfirst: "Forecasters say the capital's air turns 'poor' from October 21, as it does every year at this time. Farm fires are rising in states that were not watched closely, machines sit idle and satellites go blind after 3 pm. The fixes are known; what is missing is the habit of acting before the haze."
 published: 2026-10-21T05:45:00+05:30
 keyPoints:
   - "Delhi's air is forecast to slip to **'poor' on October 21 and 22** and stay there through the following week."
@@ -55,7 +55,7 @@ verification:
     - "Recommendations are the desk's own."
 ---
 
-The forecast for Delhi this morning reads like a page torn from last year's calendar. The Air Quality Early Warning System expects the capital's air to slip into the "poor" band today and tomorrow and to stay there through the following week. Winds are dropping, nights are cooling, and forecasters warned on Monday that "unfavourable weather conditions could prevent pollutants from dispersing effectively".
+The forecast for Delhi on October 21 read like a page torn from last year's calendar. The Air Quality Early Warning System expects the capital's air to slip into the "poor" band on October 21 and 22 and to stay there through the following week. Winds are dropping, nights are cooling, and forecasters warned on Monday that "unfavourable weather conditions could prevent pollutants from dispersing effectively".
 
 None of this is a surprise. That is precisely the problem.
 
@@ -67,9 +67,9 @@ The machinery built to respond, the Graded Response Action Plan, is designed to 
 
 ## Where the stubble numbers are going
 
-There is some good news. Between September 15 and October 12 farm fires fell by 53.3% in Haryana and by about a third in Uttar Pradesh. But the Centre's own review last week found that fires had risen in Madhya Pradesh and Rajasthan, states that have rarely been at the centre of the debate. By Monday Madhya Pradesh had recorded 370 incidents since mid-September, slightly more than Punjab's 368. Most of the paddy crop is still to be cut.
+There is some good news. Between September 15 and October 12 farm fires fell by **53.3%** in Haryana and by about a third in Uttar Pradesh. But the Centre's own review last week found that fires had risen in Madhya Pradesh and Rajasthan, states that have rarely been at the centre of the debate. By Monday Madhya Pradesh had recorded 370 incidents since mid-September, slightly more than Punjab's 368. Most of the paddy crop is still to be cut.
 
-The Centre has given states more than 3.54 lakh crop residue machines, 26,109 of them this year. Agriculture Minister Shivraj Singh Chouhan himself said the machines must work in the fields and not merely exist on paper, and the review noted that states were slow to spend what they had been given. Environment Minister Bhupender Yadav pointed to a quieter weakness: there are no satellite passes after 3 pm, so fires lit late in the afternoon can go uncounted unless people on the ground see them.
+The Centre has given states more than **3.54 lakh** crop residue machines, 26,109 of them this year. Agriculture Minister Shivraj Singh Chouhan himself said the machines must work in the fields and not merely exist on paper, and the review noted that states were slow to spend what they had been given. Environment Minister Bhupender Yadav pointed to a quieter weakness: there are no satellite passes after 3 pm, so fires lit late in the afternoon can go uncounted unless people on the ground see them.
 
 ## The fair objection
 

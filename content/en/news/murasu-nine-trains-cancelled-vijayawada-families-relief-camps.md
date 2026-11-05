@@ -64,4 +64,4 @@ The worry is well founded. "Red warnings have been issued to Krishna, Guntur, Ba
 {"n":2,"subject":"Cyclone Murasu","caption":"A severe cyclone over the Bay of Bengal seen from space. Murasu crossed the coast near Ongole between 3:30 am and 5:30 am and is moving inland. File photo: Cyclone Mocha, 2023.","alt":"Cyclone Mocha over the Bay of Bengal in 2023, seen from space (file photo)"}
 ```
 
-Air travel is hit too. At least 19 domestic flights were cancelled at Vijayawada, Tirupati and Visakhapatnam airports, and Eluru district has shut schools, colleges and anganwadis for the day because of continuous rain.
+Air travel is hit too. At least 19 domestic flights were cancelled at Vijayawada, Tirupati and Visakhapatnam airports, and Eluru district shut schools, colleges and anganwadis on November 3 because of continuous rain.

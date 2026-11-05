@@ -38,12 +38,12 @@ verification:
 
 Typhoon Champi killed one person and injured at least 350 in Taiwan as it battered the island's northeast on Friday, before turning its force on Japan's southern islands.
 
-More than 4,300 people were moved from their homes in Taiwan, thousands of households lost power and hundreds of flights across the region were cancelled. Yilan county in the northeast took the worst of the rain, with more than 400 mm falling on Friday alone. Forecasters warned up to 900 mm could fall between Thursday and Saturday.
+More than 4,300 people were moved from their homes in Taiwan, thousands of households lost power and hundreds of flights across the region were cancelled. Yilan county in the northeast took the worst of the rain, with more than **400 mm** falling on Friday alone. Forecasters warned up to 900 mm could fall between Thursday and Saturday.
 
 "From tonight through tomorrow morning conditions will be very windy and stormy everywhere," Lin Ping-yu, a forecaster at Taiwan's Central Weather Administration, said on Friday. "Please try to stay indoors." Another forecaster, Lu Kuo-chen, said the storm could slow down near the island's northeastern tip, dragging out its impact.
 
 Champi was briefly a super typhoon with winds close to 300 km/h. It has since weakened, and the US Joint Typhoon Warning Center put its maximum sustained winds at 185 km/h.
 
-In Japan, about 8,400 households in the Okinawa islands had no electricity on Friday afternoon, the Okinawa Electric Power Company said.
+In Japan, about **8,400 households** in the Okinawa islands had no electricity on Friday afternoon, the Okinawa Electric Power Company said.
 
 The storm is forecast to linger near Okinawa, then move towards China's eastern coast before swinging north-east towards mainland Japan. Champi is part of a Pacific storm season that scientists link to a strong El Nino, which is expected to peak in December.

@@ -58,7 +58,7 @@ All of that is proper. None of it would have saved a life on Saturday.
 
 What residents describe at Chorbagan is depressingly ordinary. Too few police, posted mostly near the VIP entrance. Announcements about entry and exit that left visitors confused at peak hour. A gate structure reported to have given way. An announcement by the organisers that, the Chief Minister says, set off the rush; whistles by private guards that, families told him, did the same.
 
-India has been here many times. Last year alone, by one count, at least seven stampedes killed people: six at Tirupati in January, at least 30 at the Maha Kumbh in Prayagraj, at least 18 at New Delhi railway station, six at a temple festival in Goa, 11 outside Bengaluru's Chinnaswamy Stadium, 41 at a political rally in Karur, nine at a temple in Srikakulam. Each was followed by an inquiry. Few were followed by a change anyone could see.
+India has been here many times. Last year alone, by one count, at **least seven stampedes** killed people: six at Tirupati in January, at least 30 at the Maha Kumbh in Prayagraj, at least 18 at New Delhi railway station, six at a temple festival in Goa, 11 outside Bengaluru's Chinnaswamy Stadium, 41 at a political rally in Karur, nine at a temple in Srikakulam. Each was followed by an inquiry. Few were followed by a change anyone could see.
 
 ## The fair objection
 

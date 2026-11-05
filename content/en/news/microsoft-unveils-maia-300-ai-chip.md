@@ -55,7 +55,7 @@ Scott Guthrie, Microsoft's executive vice-president for cloud and AI, announced 
 
 Inference is the work an AI model does each time someone uses it, such as answering a question in Copilot. Microsoft says Maia 300 was built for this job, with what Guthrie called "an inference-first architecture optimized for long-context, memory-intensive and decode-heavy AI workloads".
 
-The company claims the chip processes 40% more AI tokens per megawatt of power than leading GPU-based systems, though it did not name Nvidia. A rack of 96 Maia 300 chips, it says, can handle up to seven times as many tokens as a rack built on the Maia 200, which arrived in January. Each rack also holds twice as many accelerators as before.
+The company claims the chip processes **40%** more AI tokens per megawatt of power than leading GPU-based systems, though it did not name Nvidia. A rack of 96 Maia 300 chips, it says, can handle up to seven times as many tokens as a rack built on the Maia 200, which arrived in January. Each rack also holds twice as many accelerators as before.
 
 The compute parts of the chip are made on TSMC's N2P process and paired with eight stacks of HBM4 memory. Microsoft designed the silicon, racks, networking and data centres together as one system.
 

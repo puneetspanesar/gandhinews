@@ -38,7 +38,7 @@ verification:
 
 Telangana Deputy Chief Minister Bhatti Vikramarka on Tuesday announced a set of measures for workers at Singareni Collieries, from house-plot title deeds to a fresh chance for those who lost their jobs during the Covid-19 pandemic.
 
-Speaking to reporters, Vikramarka said pending compassionate appointments would be cleared within 15 days. Cases held up by mismatches in workers' recorded names, referred to as "alias names", are to be settled in the same period.
+Speaking to reporters, Vikramarka said pending compassionate appointments would be cleared **within 15 days**. Cases held up by mismatches in workers' recorded names, referred to as "alias names", are to be settled in the same period.
 
 Medical invalidation assessments, which decide whether a worker is fit to continue, will now be done at Singareni's area hospitals. Workers will no longer have to make the trip to Kothagudem for them.
 

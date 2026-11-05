@@ -5,7 +5,7 @@ type: news
 section: politics
 format_label: "Politics / Supreme Court"
 topics: [supreme-court, election-commission, electoral-rolls-sir]
-title: "Delhi Metro chief apologises to Supreme Court as protest cases come up today"
+title: "Delhi Metro chief apologises to Supreme Court as protest cases come up on October 15"
 standfirst: "DMRC says only 45 of 303 stations were shut on October 10. Journalists and a lawyer have filed fresh pleas before Thursday's hearing on the detentions."
 published: 2026-10-15T06:30:00+05:30
 location: New Delhi
@@ -66,7 +66,7 @@ In an affidavit answering a contempt petition, DMRC chairperson D Thara said the
 
 The affidavit's central claim is that there was never a complete shutdown. Delhi Police had asked for entry and exit to be closed at 57 stations; after the court intervened, the police cut the list to 45. The remaining 258 of the network's 303 stations stayed fully open, and interchange facilities kept working at 14 of the closed ones, including Rajiv Chowk, Kashmere Gate and Central Secretariat.
 
-DMRC says there was "zero reduction in the total volume of metro operation": 271 trains ran all 4,157 scheduled trips. Ridership still fell to about 32 lakh against roughly 58 lakh on a normal second Saturday, which the Metro put down to the protest keeping commuters at home. The restrictions were lifted at 10 pm that day.
+DMRC says there was "zero reduction in the total volume of metro operation": 271 trains ran all 4,157 scheduled trips. Ridership still fell to about **32 lakh** against roughly 58 lakh on a normal second Saturday, which the Metro put down to the protest keeping commuters at home. The restrictions were lifted at 10 pm that day.
 
 The chairperson also argued that the October 9 directions were passed without hearing DMRC, which had neither been served nor appeared, and that the petitioners had misrepresented that public transport had stopped altogether.
 

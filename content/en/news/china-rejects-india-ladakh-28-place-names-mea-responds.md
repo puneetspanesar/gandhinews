@@ -66,10 +66,10 @@ Her remarks appeared aimed at Aksai Chin, the high plateau China has held since 
 
 The government announced the 28 "standard place and feature names" on October 2, in consultation with the Ladakh administration, and placed them on a high-resolution Survey of India map of the Union Territory. "Identifying them formally on the Survey of India map of UT of Ladakh is aimed at facilitating their accurate recognition" and public awareness, the statement said.
 
-The peaks on the list include Zorawar Peak, Kanishka Peak, Atisha Giri, Rinchen Zangpo, Milarepa Kangri, Marpa Lotsava Ri, Shiva Ri and Maheshvara Ri. Also on the list are the Chapchingal and Shachmirk passes, the Parpik and Skamri glaciers, the Shkorga Valley, the Yangpa River and Guru Rinpoche Lake. The features include known friction points along the LAC.
+The peaks on the list include **Zorawar Peak, Kanishka Peak**, Atisha Giri, Rinchen Zangpo, Milarepa Kangri, Marpa Lotsava Ri, Shiva Ri and Maheshvara Ri. Also on the list are the Chapchingal and Shachmirk passes, the Parpik and Skamri glaciers, the Shkorga Valley, the Yangpa River and Guru Rinpoche Lake. The features include known friction points along the LAC.
 
 ## An old quarrel in a new form
 
 The exchange mirrors an older argument in reverse. China has in recent years issued its own names for places in Arunachal Pradesh and elsewhere along the border, and India has rejected them.
 
-Ladakh became a separate Union Territory in August 2019, when Parliament changed the status of Jammu and Kashmir under Article 370. The LAC in eastern Ladakh runs for about 832 km and is not marked on the ground, and both sides claim overlapping areas. Troops from the two countries clashed in the Galwan valley in June 2020, during a long military standoff. The two armies pulled back from the face-off points about two years ago.
+Ladakh became a separate Union Territory in August 2019, when Parliament changed the status of Jammu and Kashmir under Article 370. The LAC in eastern Ladakh runs for about **832 km** and is not marked on the ground, and both sides claim overlapping areas. Troops from the two countries clashed in the Galwan valley in June 2020, during a long military standoff. The two armies pulled back from the face-off points about two years ago.

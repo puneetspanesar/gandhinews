@@ -64,7 +64,7 @@ Chief Minister Nayab Singh Saini thanked him. "From the very beginning, you have
 
 For Madhya Pradesh, Modi called the state "a land of glorious heritage, rich culture, and stunning natural beauty", and said its world-renowned heritage sites added to its historical identity. "From agriculture, industry, tourism, education, and infrastructure to innovation, the state is **achieving new milestones**," he wrote.
 
-Chief Minister Mohan Yadav, who opens a three-day Rajyotsav in Bhopal today, wrote that "the pride of heritage and the new flight of development are now the new identity of Madhya Pradesh". Uttar Pradesh Chief Minister Yogi Adityanath joined in with a prayer to Baba Mahakal: "May the state establish ever-new dimensions of good governance, development, and public welfare."
+Chief Minister Mohan Yadav, who opened a three-day Rajyotsav in Bhopal on November 1, wrote that "the pride of heritage and the new flight of development are now the new identity of Madhya Pradesh". Uttar Pradesh Chief Minister Yogi Adityanath joined in with a prayer to Baba Mahakal: "May the state establish ever-new dimensions of good governance, development, and public welfare."
 
 ```photo
 {"n":2,"subject":"Khajuraho Group of Monuments","caption":"The temples of Khajuraho, among the world-renowned heritage sites of Madhya Pradesh that the Prime Minister mentioned.","alt":"Temples of the Khajuraho Group of Monuments"}
@@ -80,4 +80,4 @@ Chief Minister V D Satheesan, in his own message, said "Kerala is completing sev
 {"n":3,"subject":"Kerala Government Secretariat","caption":"The Government Secretariat in Thiruvananthapuram, seat of the state government that marks Keralam's 70th formation day.","alt":"Kerala Government Secretariat, Thiruvananthapuram"}
 ```
 
-The day's main events are still ahead. President Droupadi Murmu is chief guest at Haryana's diamond jubilee function in Kurukshetra, and Bhopal, Nava Raipur and Thiruvananthapuram hold their own state celebrations later today.
+The day's main events are still ahead. President Droupadi Murmu is chief guest at Haryana's diamond jubilee function in Kurukshetra, and Bhopal, Nava Raipur and Thiruvananthapuram held their own state celebrations later that day.

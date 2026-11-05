@@ -5,7 +5,7 @@ type: news
 section: economy
 format_label: "Economy / Companies"
 topics: []
-title: "Apple reports overnight with John Ternus facing his first results call as chief executive"
+title: "Apple reports on the night of November 2 with John Ternus facing his first results call as chief executive"
 standfirst: "Wall Street expects revenue of about $113 billion and a 15% jump in iPhone sales, but investors care more about what the new boss says on memory costs, AI and the holiday quarter."
 published: 2026-11-02T23:45:00+05:30
 location: Cupertino

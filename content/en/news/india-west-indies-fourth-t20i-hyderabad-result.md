@@ -61,7 +61,7 @@ verification:
     - "India.com body text has wrong margin (34) and total (213/9); ignored in favour of its own live blog and other sources."
 ---
 
-West Indies will go to Bengaluru with the series alive. Shai Hope's unbeaten 102 off 50 balls carried them to 247 for 3 at the Rajiv Gandhi International Stadium on Wednesday night, and Keemo Paul's 5 for 41 then broke India's chase, giving the visitors a 24-run win in the fourth T20I and levelling the five-match series at 2-2.
+West Indies will go to Bengaluru with the series alive. Shai Hope's unbeaten 102 off 50 balls carried them to 247 for 3 at the Rajiv Gandhi International Stadium on Wednesday night, and Keemo Paul's **5 for 41** then broke India's chase, giving the visitors a 24-run win in the fourth T20I and levelling the five-match series at 2-2.
 
 India had a chance to wrap up the series with a game to spare. Instead, Shreyas Iyer's choice to bowl first after winning the toss was followed by the second 240-plus total West Indies have made against India in a week.
 
@@ -69,7 +69,7 @@ India had a chance to wrap up the series with a game to spare. Instead, Shreyas 
 
 Hope set the tone from the start. West Indies were 79 for 1 after the powerplay, with Axar Patel trapping Jewel Andrew lbw for 21. Shimron Hetmyer smashed 33 off 12 balls before Prince Yadav held a return catch, and Rovman Powell made 24 before Arshdeep Singh had him caught behind by Sanju Samson. At 156 for 3 in the 13th over, the stage belonged to the captain.
 
-Hope and Sherfane Rutherford (49 not out off 26) did not lose another wicket. The West Indies captain hit nine sixes and four fours, and reached his hundred in the most fitting way, with a six off the final ball of the innings. It was his second century of the T20I series, after his 102 in the record chase in Ranchi, and his fourth of the tour. Mayank Yadav's four overs went for 52 without a wicket, and Arshdeep finished with 1 for 52.
+Hope and Sherfane Rutherford (49 **not out off** 26) did not lose another wicket. The West Indies captain hit nine sixes and four fours, and reached his hundred in the most fitting way, with a six off the final ball of the innings. It was his second century of the T20I series, after his 102 in the record chase in Ranchi, and his fourth of the tour. Mayank Yadav's four overs went for 52 without a wicket, and Arshdeep finished with 1 for 52.
 
 India's reply began at a gallop. Samson raced to 56 with six fours and four sixes, and India were past 60 inside four overs. Then Paul came on. His first over, the fifth of the innings, removed both Samson and Ishan Kishan. Iyer fell for 16, and left-arm spinner Gudakesh Motie struck twice in an over to remove Abhishek Sharma and Naman Dhir, leaving India 132 for 5 after 12 overs.
 

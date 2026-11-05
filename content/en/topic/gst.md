@@ -73,10 +73,10 @@ Collections remain strong. Gross GST was about ₹2.04 lakh crore in September 2
 It kept the slabs unchanged. A few item-level decisions were made, such as NIL GST on psyllium seeds and 5% on delivery services through e-commerce operators.
 
 **Are arrest powers already gone?**
-No. The Council recommended omitting section 69 of the Central GST Act, which needs a law amendment. The Finance Minister said the agenda items would be implemented from April 1, 2027, according to Deccan Chronicle.
+No. The Council recommended omitting section 69 of the Central GST Act, which needs a law amendment. The Finance Minister said the agenda items would be implemented from April 1, 2027.
 
 **Who decides GST rates?**
 The GST Council recommends them. The Centre holds one-third of the voting weight and the states two-thirds, and a proposal needs three-fourths of the weighted votes to pass.
 
 **What replaced the compensation cess on tobacco?**
-From February 1, 2026, an additional excise duty on tobacco products and a Health and National Security Cess on pan masala, both on top of 40% GST, PTI reported.
+From February 1, 2026, an additional excise duty on tobacco products and a Health and National Security Cess on pan masala, both on top of 40% GST.

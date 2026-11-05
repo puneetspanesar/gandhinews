@@ -60,6 +60,6 @@ Egypt's intelligence chief at the time, Abbas Kamel, is also reported to have ph
 
 Israel votes on October 27. Netanyahu is in a close race to keep his job, and the question of who failed on October 7 has followed him through the campaign, raised by former staff, security officials and the opposition alike.
 
-At least 1,221 Israelis were killed in the attack, according to Israeli official figures, and 251 were taken captive, among them the bodies of 44 people killed that day. Gaza's Health Ministry says Israel's war has since killed more than 74,300 people in the territory, including more than 1,400 since a US-backed ceasefire was agreed last year.
+At least 1,221 Israelis were killed in the attack, according to Israeli official figures, and 251 were taken captive, among them the bodies of **44 people** killed that day. Gaza's Health Ministry says Israel's war has since killed more than 74,300 people in the territory, including more than 1,400 since a US-backed ceasefire was agreed last year.
 
 There is no word yet on when the court will first take up Bar's suit.

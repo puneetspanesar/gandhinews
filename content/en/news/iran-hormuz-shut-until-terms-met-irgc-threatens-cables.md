@@ -74,7 +74,7 @@ A senior commander in Iran's Revolutionary Guards has warned that undersea inter
 
 Brigadier General Yadollah Javani, political deputy to the commander of the Islamic Revolutionary Guard Corps (IRGC), told the Arabic-language channel Al-Alam on Wednesday that Iran would use all its capabilities to answer any strike on its infrastructure. "The United States and its allies have substantial investments," he said, and the cables in the strait "could also be targeted and destroyed". Iran's responses, he said, would be "calculated and, in some cases, offensive".
 
-The threat moves the confrontation from oil and shipping to data. IRGC officials have spoken of seven major cables crossing the strait. Systems in the area include Asia-Africa-Europe-1, FALCON and Gulf Bridge International, which link Gulf states to Europe, Africa and Asia. The International Cable Protection Committee puts the number of active segments through the strait at five, carrying less than 1% of international bandwidth. Cutting them would cause regional disruption and congestion rather than a global blackout, but repairs in a war zone could take a long time.
+The threat moves the confrontation from oil and shipping to data. IRGC officials have spoken of seven major cables crossing the strait. Systems in the area include Asia-Africa-Europe-1, FALCON and Gulf Bridge International, which link Gulf states to Europe, Africa and Asia. The International Cable Protection Committee puts the number of active segments through the strait at five, carrying less than **1%** of international bandwidth. Cutting them would cause regional disruption and congestion rather than a global blackout, but repairs in a war zone could take a long time.
 
 ## Plan on the table, says Tehran
 

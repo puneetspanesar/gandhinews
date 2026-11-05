@@ -49,7 +49,7 @@ Rahul Gandhi, the Leader of the Opposition in the Lok Sabha, and Congress MP Pri
 
 "Dushyant Gautam should not be appointed governor until the CBI investigation is complete," said Ankita's mother, Soni Devi, breaking down as she spoke. "We were deeply pained when we heard the news on the 12th," she said, referring to the day the appointment was announced. Her husband, Virendra Singh Bhandari, appealed to President Droupadi Murmu to hold back the appointment. "Dushyant Kumar should be behind bars," he said.
 
-Ankita worked at the Vanantra Resort near Rishikesh and was killed on September 18, 2022. The resort's owner, Pulkit Arya, son of former BJP leader Vinod Arya, and two staff members were convicted and sentenced to life imprisonment in May 2025. Her family and activists have long alleged that an unnamed "VIP" was linked to the crime, and Gautam's name has repeatedly come up. The allegations against him are unproven. He has denied them and has started defamation proceedings against those making them. The CBI is now investigating.
+Ankita worked at the Vanantra Resort near Rishikesh and was killed on September 18, 2022. The resort's owner, Pulkit Arya, son of former BJP leader Vinod Arya, and two staff members were convicted and sentenced to life imprisonment in May 2025. Her family and activists have long alleged that an unnamed "VIP" was linked to the crime, and Gautam's name has repeatedly come up. The allegations against him are unproven. He has denied them and has **started defamation proceedings** against those making them. The CBI is now investigating.
 
 "Ankita's family is crying for justice, while the BJP is rewarding the very man facing allegations in her case," the Congress said on X.
 

@@ -52,15 +52,15 @@ Samajwadi Party chief Akhilesh Yadav on Thursday accused the BJP and the Electio
 
 "The Election Commission and the Bharatiya Janata Party are working together to deceive India's democracy," he told reporters in Lucknow.
 
-Akhilesh said a man named Dashrath in Lucknow's Sarojini Nagar had been made to fill in more than 100 Form 7 applications, the form used to object to a name on the roll. He said SP workers had exposed it and the Election Commission had acknowledged the complaint. Earlier in the day, speaking to party workers at the SP headquarters, he cited a similar case in Sultanpur.
+Akhilesh said a man named Dashrath in Lucknow's Sarojini Nagar had been made to fill in **more than 100 Form 7 applications**, the form used to object to a name on the roll. He said SP workers had exposed it and the Election Commission had acknowledged the complaint. Earlier in the day, speaking to party workers at the SP headquarters, he cited a similar case in Sultanpur.
 
-He also questioned the additions to the roll. About 87 lakh Form 6 applications for new voters were filed and 84.30 lakh people were added to the final roll, he said, but the Commission had made details public for only 71.38 lakh applications.
+He also questioned the additions to the roll. About 87 lakh Form 6 applications for new voters were filed and 84.30 lakh people were added to the final roll, he said, but the Commission had made details public for only **71.38 lakh** applications.
 
 He told workers that little time was left before the 2027 election and asked them to stay disciplined. "The PDA will move forward. Those who try to stop the PDA will not be able to do so," he said, referring to the SP's pitch to backward classes, Dalits and minorities.
 
 ## Rajbhar's retort
 
-Om Prakash Rajbhar, a minister in the Yogi Adityanath government, said the SP was building a false story to explain away a defeat. He pointed to the SP's 37 seats in the 2024 Lok Sabha election.
+Om Prakash Rajbhar, a minister in the Yogi Adityanath government, said the SP was building a false story to explain away a defeat. He pointed to the SP's **37 seats** in the 2024 Lok Sabha election.
 
 "Akhilesh Yadav ji, just tell us one thing. Did the 2024 Lok Sabha elections happen honestly or not?" Rajbhar wrote on X. "Either your voters in '24 were fake, or you're openly spreading rumours today."
 

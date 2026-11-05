@@ -53,7 +53,7 @@ Each question began the same way. "If banks have become stronger, then why are t
 
 ## From branches to CIBIL scores
 
-Yadav, the Lok Sabha MP from Kannauj, asked why rural branches and ATMs were being closed, "forcing the public to wander around for cash", and why farmers, students and small shopkeepers could not get loans "without middlemen and without guarantors".
+Yadav, the Lok Sabha MP from Kannauj, asked why **rural branches and ATMs** were being closed, "forcing the public to wander around for cash", and why farmers, students and small shopkeepers could not get loans "without middlemen and without guarantors".
 
 He asked why victims of cyber fraud were made to run between police stations and banks before getting their money back, why money stayed stuck for days when digital payments failed, and why home and education loan rates were so high. Young people, he wrote, were being labelled defaulters over the slightest mistake in their CIBIL scores.
 

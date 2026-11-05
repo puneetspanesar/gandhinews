@@ -52,7 +52,7 @@ verification:
 
 State Bank of India has told customers caught up in a suspected data leak that their money is safe, saying it has contacted each of them individually after their personal details turned up on the dark web.
 
-In a statement on Friday, the country's largest lender said the affected customers had been informed and that their account balances and funds remained secure. It urged all customers never to share OTPs, PINs or banking passwords, and to be wary of unsolicited calls, messages and emails.
+In a statement on Friday, the country's largest lender said the affected customers had been informed and that their account **balances and funds** remained secure. It urged all customers never to share OTPs, PINs or banking passwords, and to be wary of unsolicited calls, messages and emails.
 
 The statement goes further than SBI's first public word on the incident, a filing to the stock exchanges on Wednesday that focused on what the leak meant for the bank's business. That filing said there was "no material impact on SBI's core business operations, financial performance or business continuity."
 
@@ -60,9 +60,9 @@ The statement goes further than SBI's first public word on the incident, a filin
 
 SBI said it began investigating on October 16 after alerts from its threat intelligence provider, the Defence Cyber Agency and CERT-In, the national cyber security agency, about customer data appearing on the dark web.
 
-A preliminary analysis of about 3.75 lakh records identified 3,897 customer records that contained personally identifiable information: names, mobile numbers, email addresses, dates of birth and residential addresses. The bank has activated its incident response and containment measures and appointed an independent cyber security agency empanelled by CERT-In to establish the nature and extent of the breach. Core banking services are running normally, it said.
+A preliminary analysis of about 3.75 lakh records identified **3,897 customer records** that contained personally identifiable information: names, mobile numbers, email addresses, dates of birth and residential addresses. The bank has activated its incident response and containment measures and appointed an independent cyber security agency empanelled by CERT-In to establish the nature and extent of the breach. Core banking services are running normally, it said.
 
-The leak surfaced after a threat actor calling itself "Siriusim" claimed on the hacking forum BreachForums to hold about 3.75 lakh rows of SBI customer data and 2,722 PDF documents, including loan and account opening applications. The claim was flagged on October 16 by CyberPulse56, a monitoring account on X. SBI has not said how the data left the bank or how old it is.
+The leak surfaced after a threat actor calling itself "Siriusim" claimed on the hacking forum BreachForums to hold about **3.75 lakh** rows of SBI customer data and 2,722 PDF documents, including loan and account opening applications. The claim was flagged on October 16 by CyberPulse56, a monitoring account on X. SBI has not said how the data left the bank or how old it is.
 
 ## 'Has a single customer been told?'
 

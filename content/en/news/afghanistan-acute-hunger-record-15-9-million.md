@@ -39,7 +39,7 @@ verification:
 
 Acute hunger in Afghanistan has reached the highest level ever recorded, with 15.9 million people facing acute food insecurity, according to an assessment by the global hunger monitor that uses the Integrated Food Security Phase Classification (IPC).
 
-More than 32% of the population is now in phase 3, "crisis", or worse, including 3.4 million people in phase 4, "emergency". Acute malnutrition is also at record levels for the August to October period.
+More than **32%** of the population is now in phase 3, "crisis", or worse, including 3.4 million people in phase 4, "emergency". Acute malnutrition is also at record levels for the August to October period.
 
 The outlook for the winter lean season, from November to April, is worse. About 19.2 million people are expected to fall into crisis or worse, 5 million of them in emergency conditions. Some 4.04 million children under five are projected to need treatment for malnutrition between January and December 2027.
 
@@ -51,4 +51,4 @@ Better rain and improved harvests have helped food supply this year, but the ana
 
 ## Rights under pressure
 
-The UN Assistance Mission in Afghanistan, in a separate report covering July to September, said basic rights kept eroding, with women and girls hit hardest. Girls remain barred from school beyond grade six. The mission recorded more than 50 cases linked to the hijab, mostly in Herat and Kabul, including a 13-year-old girl held overnight, and at least 443 cases enforced by vice and virtue inspectors. It also documented public lashings of 22 men and six women, and a new police law published in August that bans all demonstrations.
+The UN Assistance Mission in Afghanistan, in a separate report covering July to September, said basic rights kept eroding, with women and girls hit hardest. Girls remain barred from school beyond grade six. The mission recorded more than 50 cases linked to the hijab, mostly in Herat and Kabul, including a 13-year-old girl held overnight, and at least **443 cases** enforced by vice and virtue inspectors. It also documented public lashings of 22 men and six women, and a new police law published in August that bans all demonstrations.

@@ -35,12 +35,12 @@ verification:
     - "Release calls the material 'suspected to be ganja/marijuana' on preliminary tests; copy says preliminary tests."
 ---
 
-Customs officers at the air cargo complex of Delhi's Indira Gandhi International Airport have seized 148.67 kg of hydroponic weed that arrived from Bangkok hidden inside spools of plastic tubing, the finance ministry said on Thursday.
+Customs officers at the air cargo complex of Delhi's Indira Gandhi International Airport have seized **148.67 kg of hydroponic weed** that arrived from Bangkok hidden inside spools of plastic tubing, the finance ministry said on Thursday.
 
 The consignment, 19 cartons declared as PU tubes, was held back by officers of the Special Intelligence and Investigation Branch on suspicion that it had been mis-declared. When it was examined in front of the importer's representative, the cartons held plastic spools carrying the tubes. Breaking the spools open, officers found hidden cavities packed with compressed green material wrapped in polythene. Such packets turned up in 15 of the 19 cartons.
 
-Preliminary tests indicated the substance was ganja. In all, 120 spools were used to hide the drugs. The ministry put the value of the seizure at about ₹52 crore, and its street value in India at an estimated ₹150 crore.
+Preliminary tests indicated the substance was ganja. In all, 120 spools were used to hide the drugs. The ministry put the value of the seizure at about **₹52 crore**, and its street value in India at an estimated ₹150 crore.
 
-The drugs and the packing material were seized under the NDPS Act. The operation ran for more than 72 hours and ended with the arrest of one person on Thursday, who was produced before a magistrate the same day. Follow-up searches at five premises in three states had produced leads, the ministry said, and the investigation is continuing.
+The drugs and the packing material were seized under the NDPS Act. The operation ran for more than **72 hours** and ended with the arrest of one person on Thursday, who was produced before a magistrate the same day. Follow-up searches at five premises in three states had produced leads, the ministry said, and the investigation is continuing.
 
 The ministry called it one of the biggest attempts to smuggle narcotics that customs had foiled. It did not name the importer or the person arrested.

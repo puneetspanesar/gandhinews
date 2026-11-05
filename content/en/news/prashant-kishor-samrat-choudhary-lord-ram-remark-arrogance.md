@@ -45,7 +45,7 @@ verification:
 
 Jan Suraaj founder Prashant Kishor has accused Bihar Chief Minister Samrat Choudhary of arrogance over a remark crediting Prime Minister Narendra Modi with giving Lord Ram a home, and asked voters to punish the ruling alliance in the coming legislative council elections.
 
-Speaking to reporters at Bihta near Patna late on Thursday, Kishor said Choudhary had told a function marking Modi's 25 years in public office that Lord Ram lived in a tent for 400 years and that Modi, who was giving homes to the poor, had given the deity a place to live as well. "What is this if not arrogance," Kishor said, calling it part of the BJP's "attempt to deify" Modi.
+Speaking to reporters at Bihta near Patna late on Thursday, Kishor said Choudhary had told a function marking Modi's **25 years** in public office that Lord Ram lived in a tent for 400 years and that Modi, who was giving homes to the poor, had given the deity a place to live as well. "What is this if not arrogance," Kishor said, calling it part of the BJP's "attempt to deify" Modi.
 
 Jan Suraaj is contesting all eight seats in the council polls, where the BJP and the Janata Dal (United) are fighting four each. Kishor said a defeat for the NDA candidates would be a "chastisement" for the coalition, and accused the government of failing on jobs and education.
 

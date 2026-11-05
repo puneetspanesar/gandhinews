@@ -35,7 +35,7 @@ verification:
     - "Kim Aris quotes from his Facebook post as carried by AFP/CNA (5:49 pm SGT). How the call was made is unclear; his photos appeared to show him outside the Myanmar embassy in London. King Charles package (Monday) and April move to house arrest per Myanmar authorities, via CNA."
 ---
 
-The son of Myanmar's detained former leader Aung San Suu Kyi said on Thursday that he had spoken to his mother for the first time in more than five years.
+The son of Myanmar's detained former leader Aung San Suu Kyi said on Thursday that he had spoken to his mother for the **first time in more than five years**.
 
 "Today, I was finally able to speak with my mother, Daw Aung San Suu Kyi, after more than five years. Hearing her voice again means more than words can express," Kim Aris, who lives in Britain, wrote on Facebook. Photographs with the post appeared to show him outside the Myanmar embassy in London. He did not say how the call was arranged.
 

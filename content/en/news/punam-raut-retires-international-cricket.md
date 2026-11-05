@@ -41,12 +41,12 @@ verification:
     - "Her score in the 2017 World Cup final (widely remembered as 86) not confirmed in what was read; left out."
 ---
 
-Punam Raut, who was part of the India side that came within nine runs of winning the 2017 Women's World Cup, has announced her retirement from international cricket.
+Punam Raut, who was part of the India side that came within nine runs of winning the 2017 Women's World Cup, has **announced her retirement** from international cricket.
 
 Raut had not played for India since 2021, when her last appearances were an ODI against England in June and the Test against Australia that began on September 30.
 
-Raut made her debut in March 2009 in an ODI against West Indies and went on to play 73 ODIs, scoring 2,299 runs at an average of 34.83, with three hundreds and 15 fifties. She was part of the side that reached the 2017 World Cup final, which India lost to England by nine runs.
+Raut made her debut in March 2009 in an ODI against West Indies and went on to play 73 ODIs, scoring **2,299 runs** at an average of 34.83, with three hundreds and 15 fifties. She was part of the side that reached the 2017 World Cup final, which India lost to England by nine runs.
 
-She also played four Tests, scoring 264 runs at 44.00. The highlight was 130 against South Africa in 2014, her only Test hundred. Her T20I career began against Pakistan in June 2009, and in 35 matches she made 719 runs with four fifties, though her last game in that format came in April 2014, against Pakistan again. After that she was used almost entirely as a one-day and Test batter.
+She also played four Tests, scoring 264 runs at 44.00. The highlight was **130 against South Africa** in 2014, her only Test hundred. Her T20I career began against Pakistan in June 2009, and in 35 matches she made 719 runs with four fifties, though her last game in that format came in April 2014, against Pakistan again. After that she was used almost entirely as a one-day and Test batter.
 
 Her retirement comes as a new era begins for the women's side, with Smriti Mandhana leading India for the first time in the T20I series against Zimbabwe in Raipur.

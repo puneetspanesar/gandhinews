@@ -64,7 +64,7 @@ Earnings per share came in at ₹3.04, against ₹3.46 in the same quarter last 
 
 ## Dividend and a GIFT City arm
 
-Despite the weaker quarter, the board declared an **interim dividend of ₹2.20 a share** for 2026-27, or 22% of the ₹10 face value. Shareholders on the register on **November 6** will receive it.
+Despite the weaker quarter, the board declared an **interim dividend of ₹2.20 a share** for 2026-27, or 22% of the ₹10 face value. Shareholders on the register on November 6 will receive it.
 
 The board also approved setting up **a wholly owned subsidiary at GIFT City** in Gujarat, to be called MOIL International IFSC Limited.
 

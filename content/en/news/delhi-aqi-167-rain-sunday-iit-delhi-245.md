@@ -5,7 +5,7 @@ type: news
 section: states
 format_label: "States / Delhi"
 topics: []
-title: "Overnight rain cleans Delhi's air, AQI eases to 167 on Sunday morning"
+title: "Overnight rain cleans Delhi's air, AQI eases to 167 on the morning of October 25"
 standfirst: "Thunderstorms and 4.4 mm of rain at Safdarjung brought the capital's air quality index down to 167, in the moderate band, though 11 of 54 monitoring stations stayed in the poor range."
 published: 2026-10-25T10:40:00+05:30
 location: New Delhi
@@ -51,9 +51,9 @@ The rain did not reach every corner equally. Of the 54 monitoring stations repor
 
 ## Rain and a cool morning
 
-Safdarjung, the city's base weather station, recorded 4.4 mm of rain between 8:30 pm on Saturday and 8:30 am on Sunday. The minimum temperature fell to 17 degrees Celsius, 0.2 degrees below the seasonal average and down from 18.3 degrees a day earlier. Relative humidity was 94 per cent at 8:30 am.
+Safdarjung, the city's base weather station, recorded **4.4 mm of rain** between 8:30 pm on Saturday and 8:30 am on Sunday. The minimum temperature fell to 17 degrees Celsius, 0.2 degrees below the seasonal average and down from 18.3 degrees a day earlier. Relative humidity was 94 per cent at 8:30 am.
 
-The India Meteorological Department expects mainly clear skies turning partly cloudy in the afternoon, with a maximum of around 31 degrees. Very light rain with thunder and lightning is possible at isolated places in the evening or at night. For the next two days, highs should stay between 30 and 33 degrees and lows between 15 and 17 degrees, with more scattered showers likely around the middle of the week.
+The India Meteorological Department expects mainly clear skies turning partly cloudy in the afternoon, with a maximum of around **31 degrees**. Very light rain with thunder and lightning is possible at isolated places in the evening or at night. For the next two days, highs should stay between 30 and 33 degrees and lows between 15 and 17 degrees, with more scattered showers likely around the middle of the week.
 
 ## Curbs stay in place
 

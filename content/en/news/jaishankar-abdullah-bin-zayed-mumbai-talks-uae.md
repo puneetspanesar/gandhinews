@@ -46,14 +46,14 @@ verification:
     - "Lodha received him on arrival Oct 19 (ANI). No agreements reported. Published time set before ANI story as talks were in late morning/early afternoon; exact time not given."
 ---
 
-External Affairs Minister S Jaishankar held talks with the United Arab Emirates' Deputy Prime Minister and Foreign Minister, Sheikh Abdullah bin Zayed Al Nahyan, in Mumbai on Tuesday, and said the partnership between the two countries was delivering on its promise.
+External Affairs Minister S Jaishankar held talks with the United Arab Emirates' Deputy Prime Minister and Foreign Minister, **Sheikh Abdullah bin Zayed** Al Nahyan, in Mumbai on Tuesday, and said the partnership between the two countries was delivering on its promise.
 
 "After more than a decade of sustained engagement, the India-UAE relationship is today really living up to its promise," Jaishankar said in his opening remarks. "This year has been marked by an exceptional intensity of leadership-level engagement."
 
-He pointed to trade as the clearest sign. "Despite global headwinds and regional challenges, our economic partnership continues to set new benchmarks," he said. "Bilateral trade has crossed a 100 Billion US dollars mark since the signing of the CEPA," the Comprehensive Economic Partnership Agreement between the two countries. Two-way investment was growing, he said, while cooperation in defence, energy and technology was taking on a strategic character. "Our people-to-people ties continue to enrich the lives of our communities. Our cultural partnership is also gaining strong momentum."
+He pointed to trade as the clearest sign. "Despite global headwinds and regional challenges, our economic partnership continues to set new benchmarks," he said. "Bilateral trade has crossed a 100 Billion US dollars mark since the signing of the CEPA," the Comprehensive Economic Partnership Agreement between the two countries. Two-way investment was growing, he said, while cooperation in defence, energy and technology was taking on a **strategic character**. "Our people-to-people ties continue to enrich the lives of our communities. Our cultural partnership is also gaining strong momentum."
 
 The UAE side said the two ministers discussed ways to deepen economic, trade, investment, financial, cultural and energy cooperation. Regional uncertainty and the situation in the Gulf, where Houthi attacks on Saudi Arabia have continued, formed the backdrop.
 
-Sheikh Abdullah arrived in Mumbai on Monday for an official visit and was received by Maharashtra minister Mangal Prabhat Lodha. The two ministers met in Abu Dhabi only last week, when Jaishankar attended the Raisina Middle East dialogue during his October 14 to 16 visit. No agreements were announced on Tuesday.
+**Sheikh Abdullah** arrived in Mumbai on Monday for an official visit and was received by Maharashtra minister Mangal Prabhat Lodha. The two ministers met in Abu Dhabi only last week, when Jaishankar attended the Raisina Middle East dialogue during his October 14 to 16 visit. No agreements were announced on Tuesday.
 
 Jaishankar stays in Mumbai for talks later in the day with US Secretary of State Marco Rubio.

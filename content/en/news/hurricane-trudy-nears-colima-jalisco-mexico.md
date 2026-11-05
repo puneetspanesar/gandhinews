@@ -51,7 +51,7 @@ verification:
 
 Hurricane Trudy was churning towards Mexico's west-central Pacific coast on Saturday, with forecasters warning that its eye could pass very close to the states of Colima and Jalisco late on Saturday night and on Sunday.
 
-Trudy grew from a Category 1 storm with winds of 75 mph to a Category 3 hurricane with 120 mph winds in less than 24 hours on Thursday, and has since lost some strength. "Fluctuation in strength is forecast into this weekend, prior to getting close to the Mexico coast," said Alex DaSilva, a hurricane expert at AccuWeather.
+Trudy grew from a **Category 1** storm with winds of 75 mph to a Category 3 hurricane with 120 mph winds in less than 24 hours on Thursday, and has since lost some strength. "Fluctuation in strength is forecast into this weekend, prior to getting close to the Mexico coast," said Alex DaSilva, a hurricane expert at AccuWeather.
 
 Mexico's weather service has said it does not expect the storm to make landfall, and expects it to weaken to a tropical storm as it nears the coast. Its closest approach is expected on Sunday near Playa Pérula in Jalisco. Some forecast models, however, bring the centre inland.
 
@@ -59,6 +59,6 @@ Mexico's weather service has said it does not expect the storm to make landfall,
 
 A hurricane watch is in force from Punta San Telmo in Michoacán to Cabo Corrientes in Jalisco, with a tropical storm warning south to Zihuatanejo in Guerrero.
 
-AccuWeather forecasts wind gusts of 60 to 90 mph between Manzanillo and Puerto Vallarta, and storm surge of six to 10 feet along the Colima and Jalisco coasts. Between 100 and 200 mm of rain is expected in Michoacán, Colima and Jalisco, with isolated falls of about 300 mm, raising the risk of floods and mudslides. Swells are bringing dangerous surf and rip currents.
+AccuWeather forecasts wind gusts of 60 to 90 mph between Manzanillo and Puerto Vallarta, and storm surge of six to 10 feet along the Colima and Jalisco coasts. Between 100 and **200 mm** of rain is expected in Michoacán, Colima and Jalisco, with isolated falls of about 300 mm, raising the risk of floods and mudslides. Swells are bringing dangerous surf and rip currents.
 
 Trudy is the tenth hurricane of the Eastern Pacific season. Forecasters say wind shear and cooler waters stirred up by the earlier Hurricane Simon could weaken it sharply early next week as it drifts north-west towards the tip of Baja California Sur. Simon, now a tropical rainstorm, is spreading downpours along the Baja peninsula this weekend.

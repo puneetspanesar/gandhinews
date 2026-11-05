@@ -42,7 +42,7 @@ verification:
     - "Spurs manager not named in sources; no quotes found."
 ---
 
-Tottenham finally have a Premier League win. James Maddison marked his first start after a long injury lay-off with the opening goal, and Ben Davies struck in the sixth minute of stoppage time to seal a 3-1 victory over Coventry City at the Tottenham Hotspur Stadium on Monday night.
+Tottenham finally have a Premier League win. James Maddison marked his **first start after a long injury lay-off** with the opening goal, and Ben Davies struck in the sixth minute of stoppage time to seal a 3-1 victory over Coventry City at the Tottenham Hotspur Stadium on Monday night.
 
 Spurs had not won any of their first six league games. Maddison put them ahead after 14 minutes, finishing a move set up by Mohammed Kudus, and Andy Robertson thought he had doubled the lead two minutes later before it was ruled out for offside.
 
@@ -50,7 +50,7 @@ Coventry drew level four minutes after half-time when Jack Rudoni's shot took a 
 
 Davies, who had come on for Robertson, settled it deep in stoppage time when a rebound fell to him, with Dominic Solanke credited with the assist. There was another welcome sight for the 60,913 crowd when Dejan Kulusevski came off the bench in the 87th minute for his first appearance after more than a year out.
 
-The win lifts Spurs to 16th on six points, level with Coventry, who drop to 17th. Tottenham face Chelsea next.
+The win lifts Spurs to **16th on six points**, level with Coventry, who drop to 17th. Tottenham face Chelsea next.
 
 ## Torino too good for Parma
 

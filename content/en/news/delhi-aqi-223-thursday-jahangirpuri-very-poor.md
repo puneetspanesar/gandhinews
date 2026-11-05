@@ -65,7 +65,7 @@ PM2.5 and PM10, the fine and coarse dust particles that dominate Delhi's winter 
 
 The day had begun badly. At 7 am the city average stood at 226, and two stations had already crossed 300: Jahangirpuri at 309 and Chandni Chowk at 307. ITO, one of the city's busiest crossings, read 280, and AIIMS 276. Even India Gate and Akshardham were in the poor band at 238 and 237.
 
-The minimum temperature on Thursday was 19.7°C, 1.7 degrees above the season's average, and the India Meteorological Department had forecast mainly clear skies. Forecasters at the IMD and the Indian Institute of Tropical Meteorology expect the air to stay poor over the next few days.
+The minimum temperature on Thursday was 19.7°C, **1.7 degrees** above the season's average, and the India Meteorological Department had forecast mainly clear skies. Forecasters at the IMD and the Indian Institute of Tropical Meteorology expect the air to stay poor over the next few days.
 
 The neighbouring towns fared little better. In Haryana, Manesar was the worst of 14 monitored locations at 271, followed by Charkhi Dadri at 246 and Karnal at 242, all in the poor band. The other 11 were moderate.
 

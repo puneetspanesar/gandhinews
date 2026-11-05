@@ -37,18 +37,18 @@ verification:
     - "Reverse flip completed in March 2026 and potential domestic listing: Inc42 framing; listing timing not stated."
 ---
 
-Flipkart Group's revenue grew 18.2% in 2025-26 to ₹1.45 lakh crore, up from ₹1.23 lakh crore a year earlier, while its consolidated net loss narrowed only slightly, by 2.1% to ₹8,468 crore from ₹8,646 crore.
+Flipkart Group's revenue grew **18.2%** in 2025-26 to ₹1.45 lakh crore, up from ₹1.23 lakh crore a year earlier, while its consolidated net loss narrowed only slightly, by 2.1% to ₹8,468 crore from ₹8,646 crore.
 
 In March, the last month of that year, the company finished moving its holding structure from Singapore back to India, ahead of a possible listing at home. The group includes Myntra, Cleartrip and its logistics and platform services businesses.
 
 ## Better margins, same bottom line
 
-Flipkart said gross margins rose 23% over the year and adjusted EBITDA improved by about ₹1,500 crore. Its adjusted operating margin moved from minus 7.7% to minus 5.4%, and adjusted operating losses shrank by about 17%.
+Flipkart said gross margins rose **23%** over the year and adjusted EBITDA improved by about ₹1,500 crore. Its adjusted operating margin moved from minus 7.7% to minus 5.4%, and adjusted operating losses shrank by about 17%.
 
-The net loss barely moved because finance costs nearly doubled to ₹1,209 crore from ₹649 crore. The company also pointed to the write-off of deferred tax assets from earlier years and some exceptional items. Flipkart said the results "provide a historical view of the business rather than a current trading update".
+The net loss barely moved because finance costs nearly doubled to **₹1,209 crore** from ₹649 crore. The company also pointed to the write-off of deferred tax assets from earlier years and some exceptional items. Flipkart said the results "provide a historical view of the business rather than a current trading update".
 
-Total expenses rose 16% to ₹1.54 lakh crore. Buying goods for resale remained the biggest cost at ₹1.17 lakh crore. Logistics and storage charges climbed 28.9% to ₹15,154 crore, more than half of all other expenses, while employee costs were nearly flat at ₹8,376 crore.
+Total expenses rose 16% to ₹1.54 lakh crore. Buying goods for resale remained the biggest cost at ₹1.17 lakh crore. Logistics and storage charges climbed **28.9% to ₹15,154 crore**, more than half of all other expenses, while employee costs were nearly flat at ₹8,376 crore.
 
 ## Marketplace arm in the red
 
-Flipkart Internet, the company that runs the consumer marketplace, saw revenue fall 19.3% to ₹16,295 crore. Its loss widened to ₹5,498 crore from ₹1,694 crore, on restated figures for the earlier year.
+Flipkart Internet, the company that runs the consumer marketplace, saw revenue fall **19.3%** to ₹16,295 crore. Its loss widened to ₹5,498 crore from ₹1,694 crore, on restated figures for the earlier year.

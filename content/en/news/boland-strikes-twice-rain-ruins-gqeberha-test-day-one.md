@@ -47,7 +47,7 @@ verification:
     - "Day two start time not confirmed; written as Monday."
 ---
 
-Scott Boland needed just two balls to justify his recall, but rain had the final say on the opening day of the second Test between South Africa and Australia at St George's Park in Gqeberha on Sunday. Only 12.2 overs were bowled, and South Africa closed on 20 for 2.
+Scott Boland needed just two balls to justify his recall, but rain had the final say on the opening day of the second Test between South Africa and Australia at St George's Park in Gqeberha on Sunday. Only **12.2 overs** were bowled, and South Africa closed on 20 for 2.
 
 The start was pushed back by about two hours after rain and a pitch inspection. Australia captain Pat Cummins won the toss and chose to bowl. "Obviously a little bit of cloud about, a bit of weather, and the pitch looks a good one," he said.
 

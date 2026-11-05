@@ -5,7 +5,7 @@ type: news
 section: states
 format_label: "States / Andhra Pradesh"
 topics: []
-title: "Andhra parishad polls reach 30.5% by 1 pm, with Kadapa ahead and Bapatla trailing"
+title: "Andhra parishad polls reach 30.5% turnout in the first six hours, with Kadapa ahead and Bapatla trailing"
 standfirst: "Six hours into voting for mandal and zilla parishads, the State Election Commission put statewide turnout at just under a third, with rain-hit coastal districts lagging behind Rayalaseema."
 published: 2026-11-05T15:00:00+05:30
 location: Vijayawada
@@ -19,10 +19,10 @@ hero:
   subjects: ["Polling station Andhra Pradesh", "Kadapa"]
   alt: "Voters at a polling station in Andhra Pradesh"
   overlay:
-    value: "30.5% turnout by 1 pm"
+    value: "30.5% turnout in six hours"
 infographic:
   kicker: "Andhra parishad polls"
-  headline: "Turnout at 30.5% by 1 pm across 28 districts"
+  headline: "Turnout at 30.5% in six hours across 28 districts"
   dek: "Kadapa leads, rain-hit Bapatla trails"
   motif: percent
   stats:
@@ -53,7 +53,7 @@ verification:
     - "Seat, candidate, station and staff figures from Namasthe Telangana; seat and unanimous figures match earlier stories."
 ---
 
-Andhra Pradesh's mandal and zilla parishad elections had drawn **30.50% of voters by 1 pm** on Thursday, the State Election Commission said, six hours after polling opened at 7 am, in the wake of Cyclone Murasu.
+Andhra Pradesh's mandal and zilla parishad elections had drawn **30.50% of voters by 1 pm** on Thursday, the State Election Commission said, six hours after polling opened at 7 am, days after Cyclone Murasu.
 
 The district picture split along the weather. **YSR Kadapa led at 36.35%**, the highest in the state, despite the clashes and petrol bomb attacks reported from its villages in the morning. Visakhapatnam followed with 35.11%, Krishna with 34.85% and Chittoor with 34.26%.
 

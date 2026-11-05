@@ -51,7 +51,7 @@ The Ministry of Labour and Employment will hold a two-day state-level "Shram Sam
 
 The programme is being organised with the state government. The ministry did not immediately set out who would speak or which groups of workers and employers would take part.
 
-Lucknow is one stop in a wider push. On September 28 Labour Minister Mansukh Mandaviya launched Shram Samvad as a mass awareness campaign on the labour codes, aimed at industrial clusters in 316 districts across all 36 states and Union Territories over 90 days. "Wherever there is Samvaad, there is Samadhan," Mandaviya said at the launch, stressing continuing dialogue among all stakeholders.
+Lucknow is one stop in a wider push. On September 28 Labour Minister Mansukh Mandaviya launched Shram Samvad as a mass awareness campaign on the labour codes, aimed at industrial clusters in **316 districts** across all 36 states and Union Territories over 90 days. "Wherever there is Samvaad, there is Samadhan," Mandaviya said at the launch, stressing continuing dialogue among all stakeholders.
 
 ## Why the states matter
 

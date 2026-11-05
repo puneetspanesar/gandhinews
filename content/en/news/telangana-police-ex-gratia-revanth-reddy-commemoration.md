@@ -37,11 +37,11 @@ verification:
 
 Families of Telangana police personnel killed on duty will receive far larger compensation, Chief Minister A. Revanth Reddy announced on Wednesday, as he also promised to fill every vacancy in the force by 2027.
 
-Speaking at the Police Commemoration Day parade in Hyderabad, Reddy set out a new ex-gratia scale. Families of sub-inspectors and inspectors will get ₹1.25 crore; until now sub-inspectors' families received ₹45 lakh and inspectors' ₹50 lakh. Head constables and assistant sub-inspectors move to ₹1 crore from ₹45 lakh. Superintendents of police and IPS officers rise to ₹2 crore from ₹1 crore, and home guards to ₹10 lakh from ₹5 lakh.
+Speaking at the Police Commemoration Day parade in Hyderabad, Reddy set out a new ex-gratia scale. Families of sub-inspectors and inspectors will get **₹1.25 crore**; until now sub-inspectors' families received ₹45 lakh and inspectors' ₹50 lakh. Head constables and assistant sub-inspectors move to ₹1 crore from ₹45 lakh. Superintendents of police and IPS officers rise to ₹2 crore from ₹1 crore, and home guards to ₹10 lakh from ₹5 lakh.
 
 ## Recruitment drive
 
-Reddy said a notification had been issued to fill 5,000 police vacancies, and that 112 deputy superintendent posts were being recruited, a number he called unprecedented in the state's history. All vacancies in the department would be filled by 2027, he said.
+Reddy said a notification had been issued to fill **5,000 police vacancies**, and that 112 deputy superintendent posts were being recruited, a number he called unprecedented in the state's history. All vacancies in the department would be filled by 2027, he said.
 
 He urged officers to be firm with offenders and responsive to citizens. "Only when police act tough can crimes be controlled," he said.
 

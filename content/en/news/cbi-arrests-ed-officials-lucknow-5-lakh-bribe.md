@@ -38,9 +38,9 @@ verification:
     - "Nature of the underlying ED case not reported. No ED statement found."
 ---
 
-The Central Bureau of Investigation has arrested two officials of the Enforcement Directorate in Lucknow on charges of demanding and taking a ₹5 lakh bribe from a man under ED investigation, in return for favours in his case.
+The Central Bureau of Investigation has arrested two officials of the Enforcement Directorate in Lucknow on charges of demanding and taking a **₹5 lakh** bribe from a man under ED investigation, in return for favours in his case.
 
-The two are Deepak Kumar, an enforcement officer, and Manoj Dwivedi, a head constable on deputation to the ED. Both worked at the agency's Lucknow zonal office.
+The two are **Deepak Kumar**, an enforcement officer, and Manoj Dwivedi, a head constable on deputation to the ED. Both worked at the agency's Lucknow zonal office.
 
 According to the CBI, the complainant's father had been summoned twice in an ED case, in August and September this year. Dwivedi is alleged to have demanded the money from the father on behalf of the enforcement officer, promising favourable treatment in the case.
 

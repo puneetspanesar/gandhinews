@@ -50,6 +50,6 @@ The ministry said that apart from those four areas, where mapping "remains incom
 
 It said the locations were being mapped through the Nepal-India Boundary Working Group and other mechanisms, and that Nepal "remains committed to resolving this issue through diplomatic dialogue" on the basis of historical treaties, agreements and maps. The present boundary rests largely on the Treaty of Sugauli of 1816, and the two countries share an open border.
 
-The Boundary Working Group was set up in 2014 to handle technical work such as building and restoring boundary pillars. It first met in Kathmandu in July 2015 and has held seven meetings in all; at the latest, in New Delhi on July 28-29, 2025, the two sides agreed to finish the remaining technical work within three years, leaving out Kalapani and Susta.
+The Boundary Working Group was set up in 2014 to handle technical work such as building and restoring boundary pillars. It first met in Kathmandu in July 2015 and has held seven meetings in all; at the latest, in New Delhi on July 28-29, 2025, the two sides agreed to finish the remaining technical work **within three years**, leaving out Kalapani and Susta.
 
 The reply comes as relations with India are being debated in Kathmandu. Finance Minister Swarnim Wagle drew criticism, including from former foreign minister Kamal Thapa, after telling a summit in New Delhi on Friday that the era when Nepali nationalism was associated with anti-India sentiment "is over". India has not commented on the ministry's reply.

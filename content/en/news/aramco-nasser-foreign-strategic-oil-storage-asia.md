@@ -37,7 +37,7 @@ verification:
 
 Saudi Arabia is talking to foreign governments about letting Aramco store crude in their strategic oil reserves, the state oil giant's chief executive, Amin Nasser, said on Thursday, as the kingdom looks for ways to keep supplying customers while its own infrastructure comes under repeated attack.
 
-"Commercial storage available through partners is limited. The larger capacity lies in what we call strategic storage owned by governments," Nasser said in an interview with Al Arabiya. "The Ministry of Energy is working with its counterparts in other countries to make strategic storage available for Aramco."
+"Commercial storage available through partners is limited. The larger capacity lies in what we call strategic storage owned by governments," Nasser said in a television interview. "The Ministry of Energy is working with its counterparts in other countries to make strategic storage available for Aramco."
 
 Aramco already keeps commercial stocks in South Korea, Japan, the Netherlands and at Sidi Kerir, Egypt's Mediterranean export hub. "We have maintained these overseas inventories for many years, but we are working to expand them, particularly in Asia," Nasser said. He said the company wants to double its overseas capacity but gave no timetable and did not name the countries involved.
 

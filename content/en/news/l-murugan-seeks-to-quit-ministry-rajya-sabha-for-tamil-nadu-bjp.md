@@ -47,7 +47,7 @@ verification:
     - "Murugan's earlier role as Tamil Nadu BJP president not in sources read; left out."
 ---
 
-Union Minister of State L Murugan has asked Prime Minister Narendra Modi to relieve him of his ministerial post and allow him to give up his Rajya Sabha seat, so that he can work full-time on building the BJP in Tamil Nadu.
+Union **Minister of State** L Murugan has asked Prime Minister Narendra Modi to relieve him of his ministerial post and allow him to give up his Rajya Sabha seat, so that he can work full-time on building the BJP in Tamil Nadu.
 
 Murugan, who holds the Information and Broadcasting and Parliamentary Affairs portfolios, shared his letter to the Prime Minister on X on Tuesday. He said he wanted to strengthen the party in the state ahead of the 2029 Lok Sabha election.
 

@@ -59,11 +59,11 @@ verification:
     - "Organiser Bikash Das quote from FPJ (PTI) at 10:27 pm, filed before deaths were confirmed."
 ---
 
-At least 19 people were killed and 25 injured on Saturday evening when a crowd surged at the Chorbagan Sarbojanin Durga Puja pandal in north Kolkata, Chief Minister Suvendu Adhikari said early on Sunday.
+At least **19 people** were killed and 25 injured on Saturday evening when a crowd surged at the Chorbagan Sarbojanin Durga Puja pandal in north Kolkata, Chief Minister Suvendu Adhikari said early on Sunday.
 
 The pandal stands off Chittaranjan Avenue in one of the city's busiest puja neighbourhoods. A police officer said the crowd waiting outside surged forward as rain began, and some people fell onto the road. Adhikari said an announcement by the community puja organisers had set off the rush. A portion of the exit gate structure was reported to have given way under the pressure of the crowd.
 
-All 17 people counted dead in the first hours were brought dead to Calcutta Medical College and Hospital, where the injured were also taken. One of the injured was in critical condition late on Saturday.
+All **17 people** counted dead in the first hours were brought dead to Calcutta Medical College and Hospital, where the injured were also taken. One of the injured was in critical condition late on Saturday.
 
 ## Through the night
 
@@ -75,7 +75,7 @@ Union Home Minister Amit Shah had arrived in Kolkata on Saturday evening to visi
 
 ## Condolences and aid
 
-Prime Minister Narendra Modi announced ₹2 lakh from the Prime Minister's National Relief Fund for the next of kin of each person killed and ₹50,000 for each of the injured. "The stampede in Kolkata is extremely distressing," he wrote on X. "May the injured recover at the earliest." He said the local administration was providing all possible help.
+Prime Minister Narendra Modi announced **₹2 lakh** from the Prime Minister's National Relief Fund for the next of kin of each person killed and ₹50,000 for each of the injured. "The stampede in Kolkata is extremely distressing," he wrote on X. "May the injured recover at the earliest." He said the local administration was providing all possible help.
 
 Shah wrote that he had "just received the extremely distressing news of multiple casualties" and had spoken to the Chief Minister about medical care for the injured.
 

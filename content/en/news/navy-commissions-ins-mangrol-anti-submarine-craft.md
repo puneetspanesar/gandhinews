@@ -58,9 +58,9 @@ verification:
     - "Home port and fleet assignment not stated in sources, so not named."
 ---
 
-The Indian Navy commissioned INS Mangrol, a warship built to find and fight submarines in shallow coastal waters, at the Naval Dockyard in Mumbai on Monday.
+The Indian Navy commissioned INS Mangrol, a warship built to find and fight submarines in shallow coastal waters, at the **Naval Dockyard** in Mumbai on Monday.
 
-Vice Admiral Sanjay Vatsayan, Flag Officer Commanding-in-Chief of the Western Naval Command, presided over the ceremony. Mangrol is the third Mahe-class anti-submarine warfare shallow water craft built by Cochin Shipyard Limited in Kochi, and the Navy says more than 80% of it is made in India.
+Vice Admiral Sanjay Vatsayan, Flag Officer Commanding-in-Chief of the Western Naval Command, presided over the ceremony. Mangrol is the third Mahe-class anti-submarine warfare shallow water craft built by Cochin Shipyard Limited in Kochi, and the Navy says more than **80%** of it is made in India.
 
 Vatsayan linked the induction to the state of the world around India's coasts.
 
@@ -72,7 +72,7 @@ Vatsayan linked the induction to the state of the world around India's coasts.
 
 The craft is fitted with the Abhay hull-mounted sonar, lightweight torpedoes, an indigenous anti-submarine rocket launcher and the Maareech advanced torpedo decoy system. Three diesel engines drive waterjets, which make it nimble in shallow water where larger warships struggle. Besides hunting submarines, it can carry out underwater surveillance, low-intensity maritime operations and mine warfare tasks, and work alongside maritime patrol aircraft, helicopters and other warships.
 
-The Navy is inducting 16 of these craft under contracts worth nearly ₹13,000 crore, with Cochin Shipyard and Garden Reach Shipbuilders and Engineers in Kolkata building eight each.
+The Navy is inducting 16 of these craft under contracts worth nearly **₹13,000 crore**, with Cochin Shipyard and Garden Reach Shipbuilders and Engineers in Kolkata building eight each.
 
 ## An old name returns
 

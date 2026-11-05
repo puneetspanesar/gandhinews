@@ -49,7 +49,7 @@ verification:
 
 A gangster who is believed to run his operation from the United States has emerged as a key suspect in Sunday's firing on actor Tiger Shroff's car in Mumbai, and Delhi Police are now tracing his links to a string of extortion and shooting cases across Delhi and Haryana, police sources said on Monday night.
 
-The man is Anil Pandit, 32, from Haryana's Panipat district. According to the sources, he has been linked to more than a dozen extortion and targeted-attack cases in Haryana and Delhi, and is suspected of coordinating with shooters in India from abroad. His name had surfaced earlier in the firing at a gym associated with Punjabi singer Guru Randhawa in Delhi's Paschim Vihar.
+The man is **Anil Pandit, 32**, from Haryana's Panipat district. According to the sources, he has been linked to more than a dozen extortion and targeted-attack cases in Haryana and Delhi, and is suspected of coordinating with shooters in India from abroad. His name had surfaced earlier in the firing at a gym associated with Punjabi singer Guru Randhawa in Delhi's Paschim Vihar.
 
 ## A post and an audio clip
 

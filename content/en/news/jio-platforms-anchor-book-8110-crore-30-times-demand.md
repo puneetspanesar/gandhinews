@@ -35,17 +35,17 @@ verification:
     - "Single source: Business Standard, published 11:54 pm IST on Oct 19. Allocation figures and the 30x/₹2.5 lakh crore demand are attributed by BS to bankers; bids are indicative. Record claim is the bankers' description. Total anchor count (212 per an ET headline) not read in full, so left out. Market cap ₹10.3 lakh crore is Motilal Oswal's estimate."
 ---
 
-Jio Platforms has raised ₹8,110 crore from anchor investors a day before its share sale opens to the public, and the institutions queuing for those shares asked for far more than they could get.
+Jio Platforms has raised **₹8,110 crore** from anchor investors a day before its share sale opens to the public, and the institutions queuing for those shares asked for far more than they could get.
 
-The Reliance Industries subsidiary allotted 72.4 million shares at ₹1,119 each, the top of its price band, to a list of investors that reads like a directory of the world's biggest money managers. Bankers on the deal said the anchor portion drew bids of more than ₹2.5 lakh crore, over 30 times the amount on offer, which they described as a record for an Indian anchor book.
+The Reliance Industries subsidiary allotted 72.4 million shares at ₹1,119 each, the top of its price band, to a list of investors that reads like a directory of the world's biggest money managers. Bankers on the deal said the anchor portion drew bids of more than **₹2.5 lakh crore**, over 30 times the amount on offer, which they described as a record for an Indian anchor book.
 
 ## Who got shares
 
-The Life Insurance Corporation of India took the largest single allocation, ₹500 crore or 6.17% of the anchor book. Capital Group's New World Fund received ₹486.2 crore and the Government of Singapore close to ₹341 crore. SBI Focused Fund, a BNP Paribas vehicle and Fidelity's Contra Fund were also among the larger holders.
+The Life Insurance Corporation of India took the largest single allocation, **₹500 crore** or 6.17% of the anchor book. Capital Group's New World Fund received ₹486.2 crore and the Government of Singapore close to ₹341 crore. SBI Focused Fund, a BNP Paribas vehicle and Fidelity's Contra Fund were also among the larger holders.
 
-GIC, BlackRock, FMR, SBI Mutual Fund, HDFC Mutual Fund and ICICI Prudential Mutual Fund were given ₹425 crore each. Schroders, Nippon India, Kotak, JPMorgan-managed funds, Allianz Global, Franklin Templeton, Morgan Stanley and Norway's Government Pension Fund Global were among dozens of others. Family offices linked to HCL, the Premjis and Zerodha's Rainmatter Investments also took part.
+GIC, BlackRock, FMR, SBI Mutual Fund, HDFC Mutual Fund and ICICI Prudential Mutual Fund were given **₹425 crore** each. Schroders, Nippon India, Kotak, JPMorgan-managed funds, Allianz Global, Franklin Templeton, Morgan Stanley and Norway's Government Pension Fund Global were among dozens of others. Family offices linked to HCL, the Premjis and Zerodha's Rainmatter Investments also took part.
 
-The Abu Dhabi Investment Authority was given ₹239 crore across two entities. It already owns 1.16% of Jio Platforms through a stake bought in 2020, and bankers said it was the only existing shareholder to ask for more shares in the offer.
+The Abu Dhabi Investment Authority was given **₹239 crore** across two entities. It already owns 1.16% of Jio Platforms through a stake bought in 2020, and bankers said it was the only existing shareholder to ask for more shares in the offer.
 
 Not everyone reads the demand as money in the bank. An analyst at Samco Securities cautioned: "Anchor demand of ₹2.5 trillion against an ₹8,110 crore book reflects indicative bids, not committed capital."
 

@@ -5,7 +5,7 @@ type: news
 section: sports
 format_label: "Sports / Football"
 topics: []
-title: "PSG host Barcelona in a meeting of the Champions League's top two tonight"
+title: "PSG host Barcelona in a meeting of the Champions League's top two on October 20"
 standfirst: "Both clubs have won their first two league-phase games. Liverpool, Manchester City and Napoli are also at home in a nine-match Tuesday programme that ends early on Wednesday morning in India."
 published: 2026-10-20T14:30:00+05:30
 location: Paris
@@ -43,7 +43,7 @@ verification:
 
 Paris Saint-Germain and Barcelona meet at the Parc des Princes on Tuesday night in the standout game of the Champions League's third league-phase matchday. Both sides have won their two games so far and sit first and second in the table. Kick-off is at 12:30 am IST on Wednesday.
 
-PSG have scored 10 goals and conceded three in those two wins. Barcelona have scored nine and let in two, beating Feyenoord 5-1 and Galatasaray 4-1. Neither Luis Enrique nor Hansi Flick had confirmed a line-up before the game.
+PSG have scored **10 goals** and conceded three in those two wins. Barcelona have scored nine and let in two, beating Feyenoord 5-1 and Galatasaray 4-1. Neither Luis Enrique nor Hansi Flick had confirmed a line-up before the game.
 
 ## The rest of Tuesday's games
 
@@ -53,6 +53,6 @@ The late kick-offs alongside PSG and Barcelona include Liverpool against Villarr
 
 ## Bayern v Arsenal on Wednesday
 
-The second half of the matchday is on Wednesday night, India time. Bayern Munich host Arsenal in a game billed as a measuring stick for two title contenders, Manchester United visit Como, Real Madrid play RB Leipzig and Aston Villa host Viking.
+The second half of the matchday is on **Wednesday night**, India time. Bayern Munich host Arsenal in a game billed as a measuring stick for two title contenders, Manchester United visit Como, Real Madrid play RB Leipzig and Aston Villa host Viking.
 
 The league phase runs until January 27. The top eight go straight into the last 16 and the next 16 enter a play-off round.

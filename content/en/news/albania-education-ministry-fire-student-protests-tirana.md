@@ -35,7 +35,7 @@ verification:
     - "Kushner link to the resort project is as described by Al Jazeera; project not named in source."
 ---
 
-Albanian riot police fired tear gas and water cannon at students outside the Education Ministry in Tirana on Wednesday, as protests over university conditions entered a third day, hours after demonstrators broke into the building and set a fire inside.
+Albanian riot police fired **tear gas and water cannon** at students outside the Education Ministry in Tirana on Wednesday, as protests over university conditions entered a third day, hours after demonstrators broke into the building and set a fire inside.
 
 Hundreds of students gathered at the ministry and threw rocks at the building. Some tore down nearby fencing and used it to block the street. Police said 16 people had been arrested over the violence on Tuesday night, when protesters forced their way in, and at least 16 more were reported held after Wednesday's clashes.
 

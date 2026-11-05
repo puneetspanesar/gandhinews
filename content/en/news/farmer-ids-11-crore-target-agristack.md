@@ -59,7 +59,7 @@ verification:
     - "'AgriStack' not used in the official text read; slug only. Copy uses Digital Agriculture Mission (Cabinet approval Sept 2, 2024, per Odisha Diary)."
 ---
 
-The Centre has created 11 crore Farmer IDs, reaching a target set for March 2027 five months early, Agriculture and Farmers Welfare Minister Shivraj Singh Chouhan said on Saturday.
+The Centre has created **11 crore Farmer IDs**, reaching a target set for March 2027 five months early, Agriculture and Farmers Welfare Minister Shivraj Singh Chouhan said on Saturday.
 
 In a video message and a post on X, Chouhan said the figure was crossed on Friday night. The target had been set by Prime Minister Narendra Modi, with a deadline of March 31, 2027, and the minister said it had been met "five months ahead of schedule". He thanked officials of the Centre, the states, the Union Territories and district administrations, and called the effort an example of cooperative federalism.
 
@@ -67,9 +67,9 @@ The Farmer ID is a unique digital identity that links a farmer to verified recor
 
 ## From 8.47 crore to 11 crore
 
-The count has risen quickly this year. In February, answering questions in the Rajya Sabha, Chouhan said a little over 8.47 crore Farmer IDs had been issued. IDs were then being generated in 19 states, and 2.9 crore farmers had been linked to the national crop insurance portal. About 2.5 crore IDs have been added in the eight months since.
+The count has risen quickly this year. In February, answering questions in the Rajya Sabha, Chouhan said a little over **8.47 crore** Farmer IDs had been issued. IDs were then being generated in 19 states, and 2.9 crore farmers had been linked to the national crop insurance portal. About 2.5 crore IDs have been added in the eight months since.
 
-The ministry says more than 6 crore farmers have already received benefits through the ID-based system.
+The ministry says more than **6 crore farmers** have already received benefits through the ID-based system.
 
 ## What the ID is meant to do
 
@@ -81,4 +81,4 @@ It is also meant to speed up disaster relief to eligible farmers and to cut out 
 
 The ministry acknowledged that land records alone do not capture everyone who farms. States and Union Territories are taking steps, under their own rules, to bring tenant farmers and actual cultivators onto the platform, it said. How far that goes will decide whether the IDs reach the farmers who till land they do not own.
 
-Chouhan said the aim was to make sure benefits reach the right farmers and that modern technology makes farming easier. The ministry did not release a state-wise breakdown of the 11 crore IDs.
+Chouhan said the aim was to make sure benefits reach the right farmers and that modern technology makes farming easier. The ministry did not release a state-wise breakdown of the **11 crore** IDs.

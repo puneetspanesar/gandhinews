@@ -48,13 +48,13 @@ verification:
     - "'MP 2018 bogus voters' context is Ramesh's claim, attributed."
 ---
 
-The Congress on Sunday claimed credit for the Election Commission's decision to hand political parties searchable electoral rolls, and used the moment to renew its demand that Chief Election Commissioner Gyanesh Kumar resign.
+The Congress on Sunday claimed credit for the Election Commission's decision to hand political parties **searchable electoral rolls**, and used the moment to renew its demand that Chief Election Commissioner Gyanesh Kumar resign.
 
 Congress general secretary Jairam Ramesh said the change had come only because of the protests against the commission that have spread across the country over the past fortnight. "This is because the whole nation is on the streets against the Vote Chors," he wrote on X.
 
 ## What the commission ordered
 
-In an order of October 15, the Election Commission said parties would receive rolls in a searchable format for the Special Summary Revision, the routine annual update that is resuming after a two-year gap in 17 states and Union Territories, including those with Assembly elections due early next year. The qualifying date is January 1, 2027, and the final rolls are to be published on January 4.
+In an order of October 15, the Election Commission said parties would receive rolls in a searchable format for the Special Summary Revision, the routine annual update that is resuming after a two-year gap in **17 states** and Union Territories, including those with Assembly elections due early next year. The qualifying date is January 1, 2027, and the final rolls are to be published on January 4.
 
 Parties will get readable rolls, in hard and soft copy, at both the draft and final stages. Candidates in poll-bound states will get the draft and final rolls, and Electoral Registration Officers will also sell rolls to others before elections. The Special Intensive Revision has already been completed in these 17 states; Assam had a separate special revision for legal reasons.
 

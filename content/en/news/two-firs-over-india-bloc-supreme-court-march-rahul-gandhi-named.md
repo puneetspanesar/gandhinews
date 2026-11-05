@@ -92,7 +92,7 @@ verification:
     - "BJP quotes are from Oct 12 (Paswan via Zee News; Chouhan via Business Today)."
 ---
 
-The Supreme Court will hear pleas on Thursday over the crowd that gathered inside its premises on Monday evening, when INDIA bloc leaders and their supporters entered the court complex at the end of their march against the Election Commission.
+The Supreme Court will hear pleas on Thursday over the crowd that gathered **inside its premises** on Monday evening, when INDIA bloc leaders and their supporters entered the court complex at the end of their march against the Election Commission.
 
 Senior advocates Gaurav Bhatia and Mahesh Jethmalani mentioned the petitions, filed by lawyers, before Chief Justice Surya Kant on Tuesday morning and asked for an urgent hearing. The Chief Justice agreed to list them on Thursday, October 15, the same day the court takes up the petitions over the Delhi protest detentions.
 
@@ -110,7 +110,7 @@ It cites a post on Monday from the X handle of the Congress's Keralam unit, addr
 
 ## The march and the main case
 
-The "March for Democracy" set off from the Constitution Club on Monday afternoon and was stopped at a barricade on Bhagwan Dass Road. Gandhi, Kharge, Priyanka Gandhi Vadra, Akhilesh Yadav, Tejashwi Yadav and Karnataka Chief Minister D K Shivakumar were among the leaders present when the group later went into the court complex. The Congress put the turnout at 2.5 lakh.
+The "March for Democracy" set off from the Constitution Club on Monday afternoon and was stopped at a barricade on Bhagwan Dass Road. Gandhi, Kharge, Priyanka Gandhi Vadra, Akhilesh Yadav, Tejashwi Yadav and Karnataka Chief Minister D K Shivakumar were among the leaders present when the group later went into the court complex. The Congress put the turnout at **2.5 lakh**.
 
 The bloc wants Chief Election Commissioner Gyanesh Kumar to resign over the Special Intensive Revision (SIR) of electoral rolls, and its leaders filed a writ petition on Monday evening seeking a stay on the exercise. The court passed no order on it on Tuesday.
 

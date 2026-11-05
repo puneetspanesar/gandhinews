@@ -28,14 +28,14 @@ cover:
 infographic:
   kicker: "US midterms: the House"
   headline: "Republican incumbents fall as Democrats widen House win"
-  dek: "Seats called by CBS News overnight, in India time"
+  dek: "Seats called overnight, in India time"
   motif: flag-banner
   timeline:
     - {date: "11:35 IST", text: "Mitchell Berman beats Bryan Steil, Wisconsin 1st", icon: flag-banner}
     - {date: "11:37 IST", text: "Rebecca Cooke ousts Derrick Van Orden, Wisconsin 3rd", icon: flag-banner}
     - {date: "11:58 IST", text: "Brian Poindexter beats Max Miller, Ohio 7th", icon: flag-banner}
     - {date: "12:11 IST", text: "Johnny Garcia wins Texas 35th", icon: flag-banner}
-  source: "CBS News projections, November 4, 2026"
+  source: "Network projections, November 4, 2026"
 related: [us-midterms-democrats-win-house-senate-in-balance, us-midterms-hamilton-flips-kansas-senate-marshall, us-midterms-democrats-win-senate-talarico-brown-flip, us-midterms-bottoms-flips-georgia-governor-congress-undecided]
 seo:
   description: "US midterms 2026: Democrats defeat Republican Representatives Derrick Van Orden, Bryan Steil, Max Miller and Victoria Spartz as House gains grow; Hakeem Jeffries says 'America is back'."
@@ -61,7 +61,7 @@ verification:
 
 Democrats kept adding to their House win through the night in the US, **defeating a string of Republican incumbents** in Wisconsin, Ohio, Indiana and California as counting went on after the networks had already projected that the party would take control of the chamber.
 
-In Wisconsin, two Republicans fell within minutes of each other. Democrat Mitchell Berman **defeated Representative Bryan Steil** in the state's 1st District, and Rebecca Cooke ousted Representative Derrick Van Orden in the 3rd, CBS News projected shortly after 11:30 am India time.
+In Wisconsin, two Republicans fell within minutes of each other. Democrat Mitchell Berman **defeated Representative Bryan Steil** in the state's 1st District, and Rebecca Cooke ousted Representative Derrick Van Orden in the 3rd, according to network projections shortly after 11:30 am India time.
 
 ## More seats change hands
 

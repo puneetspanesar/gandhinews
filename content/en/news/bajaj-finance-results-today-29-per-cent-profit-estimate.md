@@ -5,7 +5,7 @@ type: news
 section: economy
 format_label: "Economy / Results"
 topics: [economy]
-title: "Bajaj Finance is expected to report a 29% jump in profit today, but margins are the worry"
+title: "Bajaj Finance was expected to report a 29% jump in profit on October 19, with margins the worry"
 standfirst: "Brokerages see the consumer lender earning about ₹6,383 crore in the September quarter on loan growth above 25%. Higher borrowing costs after the RBI's rate rise could squeeze its margin."
 published: 2026-10-19T05:15:00+05:30
 location: Pune
@@ -22,7 +22,7 @@ hero:
     value: "Bajaj Finance: 29% profit rise expected"
 related: [bajaj-finance-ultratech-hindustan-zinc-results-monday, bajaj-housing-finance-q2-profit-rises-18-per-cent, results-week-ahead-infosys-kotak-bajaj-finance-jio-ipo, four-day-week-dussehra-nifty-outlook-jio-ipo-infosys, monday-open-gift-nifty-brent-108-iran-hormuz-offer]
 seo:
-  description: "Bajaj Finance Q2 FY27 results today: brokerages expect net profit of about ₹6,383 crore, up 29%, and NII up 24%. Margins, credit costs and Rajeev Jain's outlook are in focus."
+  description: "Bajaj Finance Q2 FY27 results on October 19, 2026: brokerages expect net profit of about ₹6,383 crore, up 29%, and NII up 24%. Margins, credit costs and Rajeev Jain's outlook are in focus."
 sources:
   - title: "Bajaj Finance Q2 preview: Profit may jump 29%, NII 24% as strong loan growth lifts earnings"
     publisher: "The Economic Times (via inkl)"
@@ -51,21 +51,21 @@ verification:
 
 Bajaj Finance, the consumer and business lender, reports its July-September results on Monday, and the market is expecting a strong quarter. What investors will listen for, though, is what the company says about the cost of its money.
 
-On average, five brokerages expect the Pune-based lender to post a net profit of about ₹6,383 crore, up 29% from ₹4,948 crore a year earlier. Net interest income, the gap between what it earns on loans and pays on borrowings, is forecast to rise 24% to ₹13,373 crore from ₹10,785 crore.
+On average, five brokerages expect the Pune-based lender to post a net profit of about **₹6,383 crore**, up 29% from ₹4,948 crore a year earlier. Net interest income, the gap between what it earns on loans and pays on borrowings, is forecast to rise 24% to ₹13,373 crore from ₹10,785 crore.
 
-Much of the growth is already known. In its business update earlier this month the company said assets under management rose 26.5% from a year earlier to about ₹5.85 lakh crore at the end of September, after adding roughly ₹37,800 crore in the quarter. Its customer base grew to 12.89 crore from 11.06 crore, it booked 1.35 crore new loans, 11% more than a year ago, and its deposit book reached ₹69,750 crore.
+Much of the growth is already known. In its business update earlier this month the company said assets under management rose 26.5% from a year earlier to about **₹5.85 lakh crore** at the end of September, after adding roughly ₹37,800 crore in the quarter. Its customer base grew to 12.89 crore from 11.06 crore, it booked 1.35 crore new loans, 11% more than a year ago, and its deposit book reached ₹69,750 crore.
 
 ## The squeeze on margins
 
-The concern is the other side of the balance sheet. Bond yields have risen sharply since the Reserve Bank of India raised its repo rate by 0.25 percentage point to 5.5% this month, and non-bank lenders such as Bajaj Finance borrow heavily in the bond market. They cannot always pass higher costs on to borrowers straight away.
+The concern is the other side of the balance sheet. Bond yields have risen sharply since the Reserve Bank of India raised its repo rate by 0.25 percentage point to **5.5%** this month, and non-bank lenders such as Bajaj Finance borrow heavily in the bond market. They cannot always pass higher costs on to borrowers straight away.
 
-Motilal Oswal expects assets under management to grow 25% from a year earlier and 5.6% from the previous quarter, with the net interest margin slipping about 10 basis points to roughly 9.4%. It sees credit costs, the share of loans written off or provided for, steady at about 1.55%.
+Motilal Oswal expects assets under management to grow **25%** from a year earlier and 5.6% from the previous quarter, with the net interest margin slipping about 10 basis points to roughly 9.4%. It sees credit costs, the share of loans written off or provided for, steady at about 1.55%.
 
 Nomura also expects loan growth of about 25% and sees credit costs easing by 7 basis points from the June quarter. PL Capital puts credit costs at around 1.6% and has warned of margin pressure from the higher cost of funds.
 
 Analysts will also watch how unsecured consumer loans and microfinance are holding up, and how fast newer lines such as gold loans are growing. Rajeev Jain, the vice chairman and managing director, and Sandeep Jain, the chief operating and financial officer, are due to speak to analysts at 6 pm.
 
-The group's mortgage arm set the tone last week. Bajaj Housing Finance said on Friday that its profit rose 18% to ₹757 crore.
+The group's mortgage arm set the tone last week. Bajaj Housing Finance said on Friday that its profit rose **18%** to ₹757 crore.
 
 ## The rest of Monday's list
 

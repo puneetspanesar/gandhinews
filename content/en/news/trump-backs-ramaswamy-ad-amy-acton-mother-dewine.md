@@ -37,9 +37,9 @@ verification:
     - "Existing story vivek-ramaswamy-ohio-governor-race-amy-acton (Oct 20) does not mention the ad (grep Donna Arthur)."
 ---
 
-President Donald Trump has told Vivek Ramaswamy to keep running a television advertisement in which the estranged mother of his Democratic rival for Ohio governor, Amy Acton, urges voters to reject her, and accused Ohio's Republican governor of being "disloyal" for opposing it.
+President Donald Trump has told Vivek Ramaswamy to **keep running** a television advertisement in which the estranged mother of his Democratic rival for Ohio governor, Amy Acton, urges voters to reject her, and accused Ohio's Republican governor of being "disloyal" for opposing it.
 
-In the ad, Acton's mother, Donna Arthur, disputes her daughter's account of a childhood marked by homelessness and sexual abuse by her stepfather, and tells Ohioans not to vote for her. Acton says she has not seen her mother since 1978. Her brother, Philip Stearns, backs her account. The stepfather, who died in 2004, had been charged with rape.
+In the ad, Acton's mother, **Donna Arthur**, disputes her daughter's account of a childhood marked by homelessness and sexual abuse by her stepfather, and tells Ohioans not to vote for her. Acton says she has not seen her mother since 1978. Her brother, Philip Stearns, backs her account. The stepfather, who died in 2004, had been charged with rape.
 
 Stearns called the ad a "desperate, disgusting attack". Acton campaign spokesperson Addie Bullock said Ramaswamy's decision to promote it was "both despicable and entirely predictable".
 

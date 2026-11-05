@@ -51,10 +51,10 @@ Tiwari wants the committee to include experts in constitutional law, election ad
 
 ## What the petition cites
 
-The plea points to reports that Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi recorded objections on at least 14 occasions over ten months, which the Commission called "routine suggestions". It says about 38.20 lakh appeals were filed by people left out of the rolls in West Bengal's special intensive revision, and only about 1.02 lakh have been disposed of. It also cites 2,70,313 electors in Maharashtra's draft roll shown as aged between 101 and 150 because of a default birth year.
+The plea points to reports that Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi recorded objections on at least 14 occasions over ten months, which the Commission called "routine suggestions". It says about **38.20 lakh appeals** were filed by people left out of the rolls in West Bengal's special intensive revision, and only about 1.02 lakh have been disposed of. It also cites 2,70,313 electors in Maharashtra's draft roll shown as aged between 101 and 150 because of a default birth year.
 
 The petition is careful about what it claims. "A backlog of appeals is not by itself proof that each deletion was unlawful," it says, adding that it "does not seek a finding against any political party or individual office-holder." Its argument is that "institutional independence is not secured by constitutional status alone."
 
-On religious campaigning, it asks that complaints be decided within 48 hours, and that FIRs and disqualification proceedings follow automatically against candidates who appeal for votes on religious grounds.
+On religious campaigning, it asks that complaints be decided within 48 hours, and that **FIRs and disqualification proceedings** follow automatically against candidates who appeal for votes on religious grounds.
 
 No date has been set for a hearing.

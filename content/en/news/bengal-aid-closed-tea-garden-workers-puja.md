@@ -35,12 +35,12 @@ verification:
     - "'Rice or foodgrains' as reported; the 20% Puja bonus is described as proposed by the government, with several gardens already paying it."
 ---
 
-Workers in West Bengal's closed tea gardens will receive ₹5,000 each and an extra 50 kg of rice before Durga Puja, Chief Minister Suvendu Adhikari said on Wednesday after a cabinet meeting at Nabanna.
+Workers in West Bengal's closed tea gardens will receive **₹5,000** each and an extra 50 kg of rice before Durga Puja, Chief Minister Suvendu Adhikari said on Wednesday after a cabinet meeting at Nabanna.
 
-The cash will go to 19,254 workers in gardens that have stayed shut for the past three years, and will be paid through the Labour Department. The grain comes on top of the 35 kg of rice they now receive each month.
+The cash will go to **19,254 workers** in gardens that have stayed shut for the past three years, and will be paid through the Labour Department. The grain comes on top of the 35 kg of rice they now receive each month.
 
 "This is a small gesture. This is a small gift from the government for the welfare of tea garden workers," Adhikari told reporters.
 
-The announcement came a day before Panchami, as families in the Darjeeling hills, the Terai and the Dooars prepared for the festival with several gardens still closed. The government has proposed a Puja bonus of 20% this year, up from 16% last year, and several gardens have already paid it. It is also working to reopen 21 closed gardens in North Bengal.
+The announcement came a day before Panchami, as families in the Darjeeling hills, the Terai and the Dooars prepared for the festival with several gardens still closed. The government has proposed a Puja bonus of **20%** this year, up from 16% last year, and several gardens have already paid it. It is also working to reopen 21 closed gardens in North Bengal.
 
-The cabinet approved ₹312 crore for infrastructure work for tea workers under the Pradhan Mantri Chai Shramik Yojana, with the North Bengal Development Authority as the nodal agency. Adhikari said work should begin within two to three months. "Assam completed this work earlier and received funds twice," he said, and blamed the previous state government's inaction for the harm done to tea workers.
+The cabinet approved **₹312 crore** for infrastructure work for tea workers under the Pradhan Mantri Chai Shramik Yojana, with the North Bengal Development Authority as the nodal agency. Adhikari said work should begin within two to three months. "Assam completed this work earlier and received funds twice," he said, and blamed the previous state government's inaction for the harm done to tea workers.

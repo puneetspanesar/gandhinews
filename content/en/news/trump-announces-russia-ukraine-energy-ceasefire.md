@@ -144,7 +144,7 @@ Two Ukrainian officials said their American counterparts had called senior milit
 
 ## Drones over Kyiv
 
-Russian drones hit Kyiv twice on Monday. An evening strike on a 25-storey residential building in the Darnytskyi district killed a woman and injured 11 people, Mayor Vitali Klitschko said. Three more were hurt in a daytime attack. Russia also hit a Roshen confectionery factory in Vinnytsia; the company said a timely warning and quick evacuation had saved its workers.
+Russian drones hit Kyiv twice on Monday. An evening strike on a 25-storey residential building in the Darnytskyi district killed a woman and injured **11 people**, Mayor Vitali Klitschko said. Three more were hurt in a daytime attack. Russia also hit a Roshen confectionery factory in Vinnytsia; the company said a timely warning and quick evacuation had saved its workers.
 
 On Sunday evening a drone attack on the village of Pisochyn near Kharkiv killed three people and injured nine, including children. Ukraine's air force said Russia launched 121 drones and missiles overnight into Monday, of which 89 were shot down or suppressed.
 

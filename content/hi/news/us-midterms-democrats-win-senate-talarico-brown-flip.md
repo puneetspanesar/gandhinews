@@ -35,7 +35,7 @@ infographic:
     - {icon: flag-banner, value: "4", label: "छीनी सीनेट सीटें: टेक्सस, ओहायो, दोनों कैरोलाइना"}
     - {icon: bank, value: "51-49", label: "गिनती पूरी होने पर कम से कम डेमोक्रेटिक बहुमत"}
     - {icon: check-circle, value: "8+", label: "रिपब्लिकन से छीनी हाउस सीटें"}
-  source: "NBC News और Scripps के अनुमान; Reuters गिनती, 3-4 नवंबर 2026"
+  source: "नेटवर्क अनुमान और वोटों की गिनती, 3-4 नवंबर 2026"
 related: [us-midterms-democrats-win-house-senate-in-balance, us-midterms-results-cooper-flips-north-carolina-senate, us-midterms-ossoff-holds-georgia-first-results]
 seo:
   description: "2026 अमेरिकी मध्यावधि चुनाव में सीनेट भी डेमोक्रेट्स के हाथ; टेक्सस में टालारिको ने पैक्सटन को और ओहायो में शेरोड ब्राउन ने हस्टेड को हराया।"

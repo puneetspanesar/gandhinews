@@ -39,7 +39,7 @@ verification:
 
 Four Canadian soldiers were killed and dozens more injured when a fire tore through Canadian Forces Base Wainwright in Alberta, one of the country's busiest military training grounds, during exercises on Saturday afternoon.
 
-By Sunday at least 39 people were in hospital and at least 19 of them were in critical condition, Alberta Premier Danielle Smith said. Patients were taken to hospitals in Edmonton, Red Deer and Calgary. Warren Thirsk, an emergency physician at the Royal Alexandra Hospital in Edmonton, said the hospitals around the base had been "completely overwhelmed."
+By Sunday at **least 39 people** were in hospital and at least 19 of them were in critical condition, Alberta Premier Danielle Smith said. Patients were taken to hospitals in Edmonton, Red Deer and Calgary. Warren Thirsk, an emergency physician at the Royal Alexandra Hospital in Edmonton, said the hospitals around the base had been "completely overwhelmed."
 
 The dead were named as Private Aidan Goulding, Private Shaun Farrell, Private Hayden Lykkemark and Sergeant Morgan Wong.
 

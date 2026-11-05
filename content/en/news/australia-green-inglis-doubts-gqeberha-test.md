@@ -70,4 +70,4 @@ Matt Renshaw was the standout batter in Durban, batting at No. 5 partly because 
 
 He also backed Nic Maddinson, who struggled in the first innings in Durban before an attacking 48 in the second. "I think Nic Maddinson is a very mature player who will assess the conditions," McDonald said. Beau Webster's place is also under discussion.
 
-Australia lead the three-match series 1-0 after winning by 214 runs. South Africa have already named their side for Gqeberha, dropping Tristan Stubbs and recalling Matthew Breetzke. The third Test is in Cape Town from October 27 to 31.
+Australia lead the three-match series 1-0 after winning by **214 runs**. South Africa have already named their side for Gqeberha, dropping Tristan Stubbs and recalling Matthew Breetzke. The third Test is in Cape Town from October 27 to 31.

@@ -47,7 +47,7 @@ verification:
 
 Police in Ecuador arrested Luisa González, the leftist politician who twice lost presidential runoffs to Daniel Noboa, in the early hours of Thursday, in an investigation into how her 2023 campaign was paid for.
 
-Officers from a Quito-based investigative unit, working with the Attorney General's Office, detained her in Canuto, a rural village in the Chone area of Manabí province where she grew up. Prosecutors said the operation ran in Pichincha and Manabí provinces and that arrest orders had been carried out so that charges of money laundering could be brought against three people under investigation.
+Officers from a Quito-based investigative unit, working with the Attorney General's Office, detained her in Canuto, a rural village in the Chone area of Manabí province where she grew up. Prosecutors said the operation ran in Pichincha and Manabí provinces and that arrest orders had been carried out so that charges of **money laundering** could be brought against three people under investigation.
 
 ## Two cases, one campaign
 
@@ -65,7 +65,7 @@ Correa, who governed from 2007 to 2017, posted on X: "They arrested Luisa Gonzá
 
 ## Pressure on the left before local polls
 
-The arrest comes five weeks before local elections. Citizen Revolution has been suspended from that vote at the prosecutor's request, and González had tried without success to stand for prefect of Manabí on the ticket of the Indigenous party Pachakutik.
+The arrest comes **five weeks before local elections**. Citizen Revolution has been suspended from that vote at the prosecutor's request, and González had tried without success to stand for prefect of Manabí on the ticket of the Indigenous party Pachakutik.
 
 It also follows a run of actions against politicians from her movement. On Wednesday prosecutors raided the Quito municipal headquarters, in an operation linked to the capital's mayor, Pabel Muñoz, who is seeking re-election. Aquiles Álvarez, the mayor of Guayaquil elected on the movement's ticket in 2023, is serving a sentence in the maximum-security Cárcel del Encuentro.
 

@@ -35,9 +35,9 @@ verification:
     - Single wire source (PTI via ThePrint).
 ---
 
-West Bengal Chief Minister Suvendu Adhikari accused the opposition on Wednesday of playing politics with the Chorbagan stampede, as he handed ₹25 lakh in state compensation to the family of one of the 19 people who died.
+West Bengal Chief Minister Suvendu Adhikari accused the opposition on Wednesday of playing politics with the Chorbagan stampede, as he handed **₹25 lakh in state compensation** to the family of one of the 19 people who died.
 
-Adhikari visited the home of Priya Samaddar in New Barrackpore, North 24 Parganas district. The crush at the Chorbagan Durga Puja pandal in north Kolkata on Saturday evening killed 19 people and injured 25. The chief minister said he would visit the homes of all the victims by October 24.
+Adhikari visited the home of Priya Samaddar in New Barrackpore, North 24 Parganas district. The crush at the Chorbagan Durga Puja pandal in north Kolkata on Saturday evening killed **19 people** and injured 25. The chief minister said he would visit the homes of all the victims by October 24.
 
 Asked about the opposition's attacks on his government, Adhikari was dismissive. "Which opposition is there? Only the Leader of the Opposition, Ritabrata Banerjee-led faction exists," he said. He questioned whether any opposition party had gone to the Kolkata Medical College morgue or hospital after the stampede. "Did any such opposition party go to the Kolkata Medical College morgue or the Medical College Hospital after the stampede?" he asked.
 

@@ -5,8 +5,8 @@ type: news
 section: sports
 format_label: "Sports / Football"
 topics: []
-title: "Bayern host Arsenal and Manchester United visit Como on Champions League Wednesday"
-standfirst: "Tonight's second half of matchday three starts at 10:15 pm IST. Bayern Munich against Arsenal, a meeting of two title contenders, kicks off at 12:30 am on Thursday."
+title: "Bayern host Arsenal and Manchester United visit Como in the Champions League on October 21"
+standfirst: "The second half of matchday three started at 10:15 pm IST on October 21. Bayern Munich against Arsenal, a meeting of two title contenders, kicks off at 12:30 am on Thursday."
 published: 2026-10-21T05:25:00+05:30
 location: Munich
 keyPoints:
@@ -19,7 +19,7 @@ hero:
   subjects: ["Allianz Arena"]
   alt: "The Allianz Arena in Munich"
   overlay:
-    value: "Bayern v Arsenal tonight"
+    value: "Bayern v Arsenal, October 21"
 related: [psg-beat-barcelona-4-2-vitinha-fabian-ruiz-late-goals, liverpool-fight-back-beat-villarreal-city-thrash-aek, roma-hit-four-psv-win-porto-atletico-held-stuttgart, psg-barcelona-champions-league-matchday-three-preview]
 seo:
   description: "Champions League Wednesday preview: Bayern Munich v Arsenal at 12:30 am IST, Real Madrid v RB Leipzig, Aston Villa v Viking, Inter v Shakhtar, Como v Manchester United."
@@ -38,7 +38,7 @@ verification:
 
 The Champions League's third matchday finishes on Wednesday night, India time, and the pick of the nine games is in Munich, where Bayern host Arsenal in what has been billed as a measuring stick for two sides with serious hopes of winning the competition. Kick-off is at 12:30 am IST on Thursday.
 
-Arsenal arrive with a perfect record. They beat Napoli 1-0 on the opening night and Lille 3-0 in their second game. Bayern began by thrashing Bodo/Glimt 5-0 but were then held to a 3-3 draw by Viking, and will want a home win over a direct rival to steady their campaign.
+Arsenal arrive with a perfect record. They beat **Napoli 1-0** on the opening night and Lille 3-0 in their second game. Bayern began by thrashing Bodo/Glimt 5-0 but were then held to a 3-3 draw by Viking, and will want a home win over a direct rival to steady their campaign.
 
 ## The early games
 

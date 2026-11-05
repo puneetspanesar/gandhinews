@@ -77,4 +77,4 @@ In Saharanpur, Congress MP Imran Masood brushed aside the BJP's objections. "I d
 
 ## What comes next
 
-Before the rally, INDIA bloc leaders plan a "public impeachment" of the Chief Election Commissioner on October 30, staged as a mock Parliament at Hotel Ashok in Delhi. Mr Gandhi is expected back from a trip abroad on Sunday and has called a meeting on Monday to settle the protest strategy. Congress says it aims to bring at least 10 lakh people to Delhi on November 1.
+Before the rally, INDIA bloc leaders plan a "public impeachment" of the Chief Election Commissioner on October 30, staged as a mock Parliament at Hotel Ashok in Delhi. Mr Gandhi is expected back from a trip abroad on Sunday and has called a meeting on Monday to settle the protest strategy. Congress says it aims to bring at least **10 lakh people** to Delhi on November 1.

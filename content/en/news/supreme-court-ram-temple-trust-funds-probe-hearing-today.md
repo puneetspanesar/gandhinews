@@ -5,7 +5,7 @@ type: news
 section: politics
 format_label: "Courts / Supreme Court"
 topics: [supreme-court]
-title: "Supreme Court to hear pleas over Ram Temple Trust donations today"
+title: "Supreme Court to hear pleas over Ram Temple Trust donations on November 2"
 standfirst: "A bench led by Chief Justice Surya Kant takes up petitions seeking a court-monitored probe and a forensic audit of the Shri Ram Janmabhoomi Teerth Kshetra Trust's finances."
 published: 2026-11-02T06:20:00+05:30
 location: New Delhi

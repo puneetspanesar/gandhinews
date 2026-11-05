@@ -6,7 +6,7 @@ section: states
 format_label: "States / Rajasthan"
 topics: [states]
 title: "Bhajanlal Sharma calls on Modi a day after Rajasthan cabinet's tribute resolution"
-standfirst: "The Rajasthan Chief Minister spent about 20 minutes with the Prime Minister in New Delhi and is due to meet Union Minister Pralhad Joshi this afternoon, ahead of panchayat elections in the state."
+standfirst: "The Rajasthan Chief Minister spent about 20 minutes with the Prime Minister in New Delhi and was due to meet Union Minister Pralhad Joshi on the afternoon of October 15, ahead of panchayat elections in the state."
 published: 2026-10-15T15:35:00+05:30
 location: New Delhi
 keyPoints:
@@ -42,15 +42,15 @@ verification:
     - "Urban local body results are mentioned by IANS without figures; we do not characterise them."
 ---
 
-Rajasthan Chief Minister Bhajanlal Sharma met Prime Minister Narendra Modi at his residence in New Delhi on Thursday, a day after the state cabinet passed a resolution honouring Modi's 25 years as head of government.
+Rajasthan Chief Minister Bhajanlal Sharma met Prime Minister Narendra Modi at his residence in New Delhi on Thursday, a day after the state cabinet passed a resolution honouring Modi's **25 years** as head of government.
 
-The meeting lasted about 20 minutes and was described as a courtesy call. Sharma congratulated Modi on completing 25 years of public service. No details of what else was discussed have been made public.
+The meeting lasted **about 20 minutes** and was described as a courtesy call. Sharma congratulated Modi on completing 25 years of public service. No details of what else was discussed have been made public.
 
-Sharma was due to meet Union Minister Pralhad Joshi at 4 pm to discuss development issues in Rajasthan.
+Sharma was due to meet **Union Minister Pralhad Joshi** at 4 pm to discuss development issues in Rajasthan.
 
 ## The cabinet's resolution
 
-At a special meeting chaired by Sharma on Wednesday evening, the Rajasthan Council of Ministers congratulated Modi on becoming the country's longest-serving head of government, counting his 13 years as Gujarat Chief Minister from October 7, 2001, and three terms as Prime Minister.
+At a special meeting chaired by Sharma on Wednesday evening, the Rajasthan Council of Ministers congratulated Modi on becoming the country's longest-serving head of government, counting his **13 years** as Gujarat Chief Minister from October 7, 2001, and three terms as Prime Minister.
 
 The resolution said his governance would be remembered for a work culture of "reform, perform and transform", and tied his leadership to the goal of a developed India, or Viksit Bharat, by 2047. It credited his guidance with helping Rajasthan tackle its water shortage and move towards self-reliance in power, especially renewable energy, and with growth in industry, investment and tourism.
 

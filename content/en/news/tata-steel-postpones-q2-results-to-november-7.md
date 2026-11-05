@@ -42,7 +42,7 @@ verification:
     - "JSW Steel and Jindal Steel results referenced from the desk's earlier stories."
 ---
 
-Tata Steel has postponed the board meeting at which it was to approve its results for the July to September quarter, pushing the numbers back by 11 days to Saturday, November 7.
+Tata Steel has postponed the board meeting at which it was to approve its results for the July to September quarter, pushing the numbers back by **11 days** to Saturday, November 7.
 
 The meeting had been fixed for Tuesday, October 27, one of the busiest days of the results season. In its filing to BSE and NSE on Saturday, the company said only that the meeting had been put off because of "unavoidable circumstances." It gave no further explanation.
 
@@ -50,10 +50,10 @@ When the board does meet, it will take on record the audited standalone and the 
 
 ## Insiders wait longer too
 
-The delay also extends the period in which the company's directors, senior staff and their close relatives cannot trade its shares. That trading window has been shut since September 24 and will now reopen only 48 hours after the results are sent to the exchanges.
+The delay also extends the period in which the company's directors, senior staff and their close relatives cannot trade its shares. That trading window has been shut since September 24 and will now reopen only **48 hours** after the results are sent to the exchanges.
 
 ## A wait for metal investors
 
 The postponement leaves investors without a read from one of India's largest steelmakers at a difficult time for metal shares. The Nifty Metal index led Friday's fall, and Tata Steel was among the biggest losers in the Nifty 50 that day.
 
-Its rivals have already reported. JSW Steel posted a quarterly profit of ₹5,359 crore and approved new expansion plans, and Jindal Steel's profit rose 21%. Tata Steel's numbers will now arrive after the US Federal Reserve's decision and the rest of this week's crowded central bank calendar.
+Its rivals have already reported. JSW Steel posted a quarterly profit of **₹5,359 crore** and approved new expansion plans, and Jindal Steel's profit rose 21%. Tata Steel's numbers will now arrive after the US Federal Reserve's decision and the rest of this week's crowded central bank calendar.

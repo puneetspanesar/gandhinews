@@ -41,7 +41,7 @@ verification:
     - "Launch time not given; published time set after the release."
 ---
 
-Commerce and Industry Minister Piyush Goyal on Thursday launched a National Strategic Trade Command Centre at Vanijya Bhawan in New Delhi, and used the occasion to push officials to clear a backlog of export licence applications for sensitive goods.
+Commerce and Industry Minister Piyush Goyal on Thursday launched a **National Strategic Trade Command Centre** at Vanijya Bhawan in New Delhi, and used the occasion to push officials to clear a backlog of export licence applications for sensitive goods.
 
 The centre, built by the Department of Commerce, pulls data from the Directorate General of Foreign Trade's systems onto a single set of dashboards. It is meant to give senior officials a running view of India's trade performance, the use of export promotion schemes, regulatory approvals and how long applications take to process.
 
@@ -55,7 +55,7 @@ Goyal praised the centre for making trade decisions data-driven and based on evi
 
 ## What the dashboards show
 
-In its first phase, the centre covers the main DGFT functions: the Importer Exporter Code, the Advance Authorisation and Export Promotion Capital Goods schemes, certificates of origin, SCOMET, and restricted imports and exports.
+In its first phase, the centre covers the main DGFT functions: the Importer Exporter Code, the Advance Authorisation and Export Promotion Capital Goods schemes, **certificates of origin**, SCOMET, and restricted imports and exports.
 
 Officials will be able to look at the data at several levels: the national picture, individual regional offices, schemes, products, destination markets, and down to single applications, depending on their access rights. The dashboards track scheme use, processing times, pendency, export obligations and compliance.
 
@@ -69,4 +69,4 @@ The centre runs on existing DGFT systems and the Trade Connect ePlatform. The mi
 
 Access is to widen in phases to other ministries, states and export promotion councils, with the aim of turning the centre into a decision-support system for the whole government. The ministry said the change would let the department and DGFT move "from periodic reporting towards continuous monitoring".
 
-The launch came on the same day the ministry put India's combined goods and services exports for April to September 2026-27 at an estimated $476.20 billion, up from $418.31 billion a year earlier.
+The launch came on the same day the ministry put India's combined goods and services exports for April to September 2026-27 at an estimated **$476.20 billion**, up from $418.31 billion a year earlier.

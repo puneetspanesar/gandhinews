@@ -44,6 +44,6 @@ Kenya's first patient was a Kenyan citizen living in the Democratic Republic of 
 
 How the man crossed three countries undetected has become a regional sore point. The border between Congo and Uganda has been closed since May because of the outbreak. Alan Kasujja, who heads the Ugandan government's media centre, questioned how Kenya let him in through its airport. "Leave Uganda out of this conversation. We don't have Ebola here," he wrote on X. Kenya's Director-General for Health, Patrick Amoth, has said officials from Kenya, Congo and Uganda will meet the Africa CDC to work out what went wrong.
 
-The epidemic in Congo is the second-largest Ebola outbreak on record, with more than 9,000 cases and over 4,000 deaths. Kenya is the fourth country to record a case linked to it. Uganda reported 20 cases and two deaths earlier this year before being declared free of the disease in August, and a doctor who returned to France from Congo in June tested positive without passing it on.
+The epidemic in Congo is the second-largest Ebola outbreak on record, with more than 9,000 cases and over 4,000 deaths. Kenya is the fourth country to record a case linked to it. Uganda reported **20 cases** and two deaths earlier this year before being declared free of the disease in August, and a doctor who returned to France from Congo in June tested positive without passing it on.
 
 Ebola spreads through direct contact with the bodily fluids of an infected person, living or dead.

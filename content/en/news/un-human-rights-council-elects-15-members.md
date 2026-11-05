@@ -36,7 +36,7 @@ verification:
     - "Dujarric quote dropped (only a fragment available)."
 ---
 
-The UN General Assembly on Tuesday elected 15 countries to the Human Rights Council for three-year terms, in a vote where no seat was contested. Each regional group nominated exactly as many candidates as it had places to fill, for the second year in a row.
+The UN General Assembly on Tuesday elected **15 countries** to the Human Rights Council for three-year terms, in a vote where no seat was contested. Each regional group nominated exactly as many candidates as it had places to fill, for the second year in a row.
 
 The new members are Zambia, Ghana, Nigeria and Burundi from Africa; Kuwait, Nepal, Jordan and Japan from Asia-Pacific; Brazil, the Dominican Republic and Uruguay from Latin America and the Caribbean; Ireland and Germany from the Western group; and Moldova and Ukraine from Central and Eastern Europe. Ukraine and its neighbour Moldova took that region's two places between them.
 

@@ -44,7 +44,7 @@ verification:
     - "Opposition leaders who criticised the amount are not named in the source beyond Congress; copy keeps it general."
 ---
 
-Maharashtra Chief Minister Devendra Fadnavis on Saturday defended his government's ₹5,000 advance relief for drought-hit farmers and turned on the Opposition leaders who have mocked the amount. Hours later his deputy, Eknath Shinde, promised that the Shiv Sena would stand by farming families across the state as Diwali nears.
+Maharashtra Chief Minister Devendra Fadnavis on Saturday defended his government's **₹5,000** advance relief for drought-hit farmers and turned on the Opposition leaders who have mocked the amount. Hours later his deputy, Eknath Shinde, promised that the Shiv Sena would stand by farming families across the state as Diwali nears.
 
 The government has declared drought in 305 of Maharashtra's 358 talukas after a weak monsoon, adding 40 talukas to the list this week. On Wednesday Fadnavis announced that an initial ₹5,000 would be paid directly into farmers' bank accounts before the festival.
 
@@ -54,9 +54,9 @@ Speaking to reporters in Wardha, where he received an honorary D.Litt. at the 17
 
 "I understand the farmers' suffering. Compared with that suffering, Rs 5,000 is not a large amount," he said. "Our farmers know the value of Rs 5,000." He compared the criticism with the Opposition's response to the Ladki Bahin scheme, which paid women ₹1,500, and said "the Ladki Bahins knew the value of Rs 1,500."
 
-Opposition leaders, including from the Congress, have asked how farmers can celebrate Diwali on ₹5,000. Fadnavis said it was the first time the state had paid such relief this early; farmers had not earlier received help before December. Because National Disaster Response Fund rules did not allow quick release, the state paid an advance, he said. Small farmers who would earlier have got at least ₹1,000 will now get at least ₹5,000, with the balance paid when compensation is released.
+Opposition leaders, including from the Congress, have asked how farmers can celebrate Diwali on ₹5,000. Fadnavis said it was the first time the state had paid such relief this early; farmers had not earlier received help before December. Because National Disaster Response Fund rules did not allow quick release, the state paid an advance, he said. Small farmers who would earlier have got at least **₹1,000** will now get at least ₹5,000, with the balance paid when compensation is released.
 
-He said Congress-ruled Karnataka had paid ₹2,500 despite severe drought there, and that Congress leaders who had pointed to Karnataka's government resolution had since gone quiet.
+He said Congress-ruled Karnataka had paid **₹2,500** despite severe drought there, and that Congress leaders who had pointed to Karnataka's government resolution had since gone quiet.
 
 ## Fees, loans and power bills
 

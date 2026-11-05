@@ -39,10 +39,10 @@ verification:
 
 India has again offered to turn its pledge never to be the first to use nuclear weapons into a binding multilateral agreement, in a statement to the United Nations General Assembly's First Committee, which deals with disarmament and international security.
 
-The statement was delivered by Congress MP Manish Tewari in New York. He said India was willing to make both its no-first-use commitment and its pledge not to use nuclear weapons against non-nuclear-weapon states part of a multilateral legal arrangement.
+The statement was delivered by Congress MP **Manish Tewari** in New York. He said India was willing to make both its no-first-use commitment and its pledge not to use nuclear weapons against non-nuclear-weapon states part of a multilateral legal arrangement.
 
 Tewari restated the pillars of India's nuclear doctrine: credible minimum deterrence, no first use and non-use against countries without nuclear weapons. He also reaffirmed India's voluntary moratorium on nuclear testing and its commitment to universal, non-discriminatory and verifiable nuclear disarmament, reached through an agreed multilateral framework.
 
-He raised a newer worry in the committee's debates, the use of artificial intelligence in nuclear command and control. Decisions on the use of nuclear weapons, he said, must remain under human control.
+He raised a newer worry in the committee's debates, the use of artificial intelligence in nuclear command and control. Decisions on the use of nuclear weapons, he said, must remain under **human control**.
 
 He repeated India's long-standing proposals for reducing nuclear danger, including taking nuclear weapons off high alert and negotiating an international convention that would prohibit the use or threat of use of nuclear weapons.

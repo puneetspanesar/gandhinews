@@ -54,7 +54,7 @@ verification:
     - "Drug Inspector recruitment details (exam March 22, complaints of a leak on March 20, process cancelled) are from ANI only."
 ---
 
-The chairman of the Maharashtra Public Service Commission (MPSC), Vivek Bhimanwar, has gone on leave pending an inquiry into alleged paper leaks, and the students who had protested in Pune for 11 days have suspended their agitation.
+The chairman of the Maharashtra Public Service Commission (MPSC), Vivek Bhimanwar, has gone on leave pending an inquiry into alleged paper leaks, and the students who had protested in Pune for **11 days** have suspended their agitation.
 
 Bhimanwar announced the decision on X at about 1:24 am on Monday, hours after the state government set up an inquiry panel late on Sunday night. He said he had chosen to step away rather than continue in the post while the inquiry was under way.
 
@@ -66,7 +66,7 @@ Bhimanwar announced the decision on X at about 1:24 am on Monday, hours after th
 
 ## The night the deal was struck
 
-Thousands of aspirants had camped near SM Joshi bridge in Pune, demanding an independent probe and the chairman's removal. The breakthrough came at a late-night meeting between Public Works Minister Shivendraraje Bhosale, MLAs Rohit Pawar and Vishwajeet Kadam, and a student delegation. Students were told the government had sent Bhimanwar on compulsory leave, and by Monday morning they had suspended the protest.
+Thousands of aspirants had camped near **SM Joshi bridge in Pune**, demanding an independent probe and the chairman's removal. The breakthrough came at a late-night meeting between Public Works Minister Shivendraraje Bhosale, MLAs Rohit Pawar and Vishwajeet Kadam, and a student delegation. Students were told the government had sent Bhimanwar on compulsory leave, and by Monday morning they had suspended the protest.
 
 Bhosale said cases filed against students over the agitation would be withdrawn and that anyone found guilty in the leaks would face strict action.
 
@@ -74,6 +74,6 @@ Rohit Pawar, the NCP (SP) MLA who led the agitation, said the students' main dem
 
 ## Who will run the inquiry
 
-The panel is headed by retired judge Dilip Bhosale. Its members are retired judge P.D. Naik, former IAS officer Ganesh Patil and police officer Laxmi Gautam, with senior IAS officer Tukaram Mundhe, the Food and Drug Administration Commissioner, as secretary. It will look into the leak allegations and administrative irregularities and study structural flaws in how the commission works, with two months to submit a report on reforms.
+The panel is headed by **retired judge Dilip Bhosale**. Its members are retired judge P.D. Naik, former IAS officer Ganesh Patil and police officer Laxmi Gautam, with senior IAS officer Tukaram Mundhe, the Food and Drug Administration Commissioner, as secretary. It will look into the leak allegations and administrative irregularities and study structural flaws in how the commission works, with two months to submit a report on reforms.
 
-The protests followed complaints that some candidates had the question paper for the Drug Inspector screening exam, held on March 22, two days in advance. The commission cancelled that entire recruitment process. Students have also asked for 70,000 posts to be filled over three years and for more vacancies in the next Group C exam.
+The protests followed complaints that some candidates had the question paper for the Drug Inspector screening exam, held on March 22, two days in advance. The commission cancelled that entire recruitment process. Students have also asked for **70,000 posts** to be filled over three years and for more vacancies in the next Group C exam.

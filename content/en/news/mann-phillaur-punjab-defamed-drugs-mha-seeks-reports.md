@@ -11,7 +11,7 @@ published: 2026-10-16T20:15:00+05:30
 location: Phillaur
 keyPoints:
   - "Bhagwant Mann told officers at Phillaur that Punjab had been **defamed more than it deserved** over drugs."
-  - "The Union Home Ministry asked for **reports on the Jhota killing, a Gurdaspur attack and a suicide in Sangrur**."
+  - "The Union Home Ministry asked for **reports on the Jhota killing**, a Gurdaspur attack and a suicide in Sangrur."
   - "Jhota's family kept up its sit-in and an action committee plans **protests outside AAP leaders' homes on October 19**."
 hero:
   need: "Punjab Chief Minister Bhagwant Mann at a public event; split with Union Home Minister Amit Shah if two panels are used. No images of the victim or the shooting."

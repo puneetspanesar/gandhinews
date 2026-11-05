@@ -67,7 +67,7 @@ Ukraine's military satellite links were back at full speed on Saturday after mor
 
 "The main thing for today is that Starlink and Starshield have resumed operations at their pre-restriction speeds," President Volodymyr Zelenskyy said, adding that speeds had begun returning to normal overnight.
 
-The defence ministry said Starshield, the military version of SpaceX's Starlink service, was now working on equipment moving at more than 400 km/h. Since mid-October it had been capped at about 160 km/h, which Ukrainian officials say made it far harder to chase down Russian jet-powered drones. "We record a speed of more than 400 km/h, the connection is stable," the ministry said, crediting "direct dialogue and the persistent position of the President of Ukraine". Defence Minister Yevhen Khmara said it would keep monitoring both systems.
+The defence ministry said Starshield, the military version of SpaceX's Starlink service, was now working on equipment moving at **more than 400 km/h**. Since mid-October it had been capped at about 160 km/h, which Ukrainian officials say made it far harder to chase down Russian jet-powered drones. "We record a speed of more than 400 km/h, the connection is stable," the ministry said, crediting "direct dialogue and the persistent position of the President of Ukraine". Defence Minister Yevhen Khmara said it would keep monitoring both systems.
 
 ## Musk's charge
 
@@ -83,6 +83,6 @@ The dispute has added to strains between Kyiv and Washington, already tense over
 
 The fighting did not pause. On Saturday a Russian drone hit an apartment building in the Synelnykove district of Dnipropetrovsk region, killing three people and injuring at least 12, among them an 11-year-old girl, regional governor Oleksandr Hanzha said. Earlier, a missile strike on Lozova in Kharkiv region killed one man.
 
-Ukraine reached deep into Russia. In Omsk in Siberia, about 2,500 km from the border, Governor Vitaliy Khotsenko confirmed a drone attack on a logistics hub. "Personnel were promptly evacuated," he said. Ukrainian monitoring channels said a synthetic rubber plant and a warehouse of the online retailer Ozon were also hit. Industrial sites in Togliatti were damaged, and in Oryol, where Kyiv says it struck the Proton electronics plant, the regional governor reported three deaths.
+Ukraine reached deep into Russia. In Omsk in Siberia, about **2,500 km** from the border, Governor Vitaliy Khotsenko confirmed a drone attack on a logistics hub. "Personnel were promptly evacuated," he said. Ukrainian monitoring channels said a synthetic rubber plant and a warehouse of the online retailer Ozon were also hit. Industrial sites in Togliatti were damaged, and in Oryol, where Kyiv says it struck the Proton electronics plant, the regional governor reported three deaths.
 
 Negotiators from Ukraine, Russia and the US are expected to meet in Abu Dhabi in the first half of November, and a local ceasefire around occupied Oleshky, brokered by US first lady Melania Trump, is due to begin on Tuesday.

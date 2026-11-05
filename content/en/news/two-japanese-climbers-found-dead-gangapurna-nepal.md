@@ -37,11 +37,11 @@ verification:
 
 Rescuers in Nepal have recovered the bodies of two Japanese climbers on Gangapurna, nine days after contact with the pair was lost high on the mountain.
 
-The bodies were found at about 6,300 metres on the southern slopes of the 7,455-metre peak in Nyeshyang Rural Municipality-6. Contact with the climbers had been lost on October 15, when they were above 7,050 metres.
+The bodies were found at about 6,300 metres on the southern slopes of the 7,455-metre peak in Nyeshyang Rural Municipality-6. Contact with the climbers had been lost on October 15, when they were **above 7,050 metres**.
 
 Searchers found gear and backpacks near the route they had been taking. The climbers have not been named, and the authorities have not said how they died.
 
-The bodies will be taken to Kathmandu for post-mortem examinations and handed over with the help of the Japanese Embassy.
+The bodies will be taken to **Kathmandu for post-mortem** examinations and handed over with the help of the Japanese Embassy.
 
 The deaths come in Nepal's busy autumn season, as visitors return to the mountains after the Dashain festival.
 

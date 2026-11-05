@@ -38,9 +38,9 @@ verification:
     - "Recommendations are the desk's own."
 ---
 
-Telangana went into the Special Intensive Revision of its electoral roll with 3.38 crore voters. With most notice hearings done, election officials now count about 2.50 crore as eligible. If nothing changes, roughly 88 lakh people, more than one in four of the state's voters, will not be on the final roll published on November 9.
+Telangana went into the Special Intensive Revision of its electoral roll with 3.38 crore voters. With most notice hearings done, election officials now count about **2.50 crore** as eligible. If nothing changes, roughly 88 lakh people, more than one in four of the state's voters, will not be on the final roll published on November 9.
 
-That number may yet come down. About 9.6 lakh cases are still being checked, and new voters are being added through fresh applications. But even on the most generous count, the state would end the exercise with something like 78 lakh fewer electors than it started with. No democracy should treat a change of that size as a routine clean-up.
+That number may yet come down. About **9.6 lakh cases** are still being checked, and new voters are being added through fresh applications. But even on the most generous count, the state would end the exercise with something like 78 lakh fewer electors than it started with. No democracy should treat a change of that size as a routine clean-up.
 
 ## The fair objection
 
@@ -50,7 +50,7 @@ So the question is not whether names should ever be removed. It is whether the p
 
 ## Who falls through
 
-The figures from Telangana suggest where the danger lies. Of about 92.9 lakh people sent notices, more than three lakh did not turn up to their hearings, and nearly 10,000 stayed away even after they were rescheduled. Only about 30,000 have so far been found ineligible after a hearing. That means most of those at risk are not people shown to be ineligible. They are people the system could not reach, or who could not reach it: daily wage workers who cannot lose a day, the elderly, women whose names changed after marriage, migrants working in another state.
+The figures from Telangana suggest where the danger lies. Of about **92.9 lakh people** sent notices, more than three lakh did not turn up to their hearings, and nearly 10,000 stayed away even after they were rescheduled. Only about 30,000 have so far been found ineligible after a hearing. That means most of those at risk are not people shown to be ineligible. They are people the system could not reach, or who could not reach it: daily wage workers who cannot lose a day, the elderly, women whose names changed after marriage, migrants working in another state.
 
 A voter who misses a notice is not the same as a voter who does not exist. The Commission says it will reschedule hearings and send officials to voters' homes. That promise should become a rule.
 

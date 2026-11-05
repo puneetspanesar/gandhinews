@@ -37,11 +37,11 @@ verification:
 
 Karnataka Chief Minister D K Shivakumar said on Tuesday that the state would hold separate meetings with sugarcane farmers and sugar factory owners to settle the growers' price demands, and that he would also take up the issue with the Union government.
 
-Shivakumar travelled from Bengaluru to Belagavi to meet the protesting farmers. Growers in north Karnataka had suspended their seven-day padayatra and protest on Monday, October 19, after Union Minister Pralhad Joshi said a high-level committee would study their demands.
+Shivakumar travelled from Bengaluru to Belagavi to meet the protesting farmers. Growers in north Karnataka had suspended their **seven-day padayatra** and protest on Monday, October 19, after Union Minister Pralhad Joshi said a high-level committee would study their demands.
 
 "We have to resolve the issue peacefully and cordially, as it concerns people's livelihoods," Shivakumar said. "If farmers grow sugarcane, factories can operate." He added: "I do not want to burden anyone."
 
-No date has been set for the talks. Shivakumar said it would be fixed around the schedules of farmers, factory owners and elected representatives, keeping in mind the Kannada Rajyotsava celebrations. Regional ministers, department heads, the Union Minister for the region and local MPs and MLAs are to be invited. He has also proposed taking an all-party delegation to Delhi.
+No date has been set for the talks. Shivakumar said it would be fixed around the schedules of farmers, factory owners and elected representatives, keeping in mind the Kannada Rajyotsava celebrations. Regional ministers, department heads, the Union Minister for the region and local MPs and MLAs are to be invited. He has also proposed taking an **all-party delegation to Delhi**.
 
 The Chief Minister said he had sought an appointment with Union ministers in Delhi on drought relief but had not yet received confirmation.
 

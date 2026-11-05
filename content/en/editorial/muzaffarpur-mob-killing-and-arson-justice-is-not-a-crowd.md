@@ -38,9 +38,9 @@ verification:
     - "Recommendations are the desk's own."
 ---
 
-On Saturday evening a motorcycle hit a child near Chainpur Chowk in Bihar's Muzaffarpur district. The rider, 20-year-old Navneet Kumar, was then set upon by about 15 people. His family says he was beaten with sticks and strangled with a belt. He was declared dead in hospital.
+On Saturday evening a motorcycle hit a child near Chainpur Chowk in Bihar's Muzaffarpur district. The rider, 20-year-old Navneet Kumar, was then set upon by **about 15 people**. His family says he was beaten with sticks and strangled with a belt. He was declared dead in hospital.
 
-The violence did not stop there. When news of his death reached his village, Mohammadpur Khaje, a mob set fire to nine houses belonging to Dalit families. Police had to rush in extra forces to restore calm.
+The violence did not stop there. When news of his death reached his village, Mohammadpur Khaje, a mob set **fire to nine houses belonging to Dalit** families. Police had to rush in extra forces to restore calm.
 
 Two crimes, then, in one evening, and a pattern India knows too well. An accident becomes an excuse for a crowd to deliver its own punishment. A killing becomes an excuse for another crowd to punish people who had nothing to do with it.
 

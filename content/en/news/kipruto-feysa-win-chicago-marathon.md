@@ -94,7 +94,7 @@ Feysa and Lokedi then broke away, leaving Kosgei behind, and were level at 40km 
 
 ## Records in the wheelchair races
 
-Conditions suited the wheelchair racers best. Switzerland's Catherine Debrunner won the women's race in 1:33:16, a world record by a full minute, finishing 8 minutes 45 seconds ahead of Tatyana McFadden. "I can't believe I did the world record in Chicago," she said.
+Conditions suited the wheelchair racers best. Switzerland's Catherine Debrunner won the women's race in 1:33:16, a **world record** by a full minute, finishing 8 minutes 45 seconds ahead of Tatyana McFadden. "I can't believe I did the world record in Chicago," she said.
 
 Her compatriot Marcel Hug won the men's race for the seventh time, in a course record of 1:21:34. "I'd say today was one of the best performances in my career," he said.
 

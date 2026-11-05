@@ -37,7 +37,7 @@ verification:
     - "Wagner training of Azandé group: as stated by Africanews, written as reported."
 ---
 
-Three people held for about 10 months by an armed group in the far south-east of the Central African Republic have returned to the capital Bangui, where President Faustin-Archange Touadéra was waiting to greet them.
+Three people held for about **10 months** by an armed group in the far south-east of the Central African Republic have returned to the capital Bangui, where President Faustin-Archange Touadéra was waiting to greet them.
 
 The three, a local government official and two members of the National Election Authority, were seized in December, on the day of the general election, in Bambouti, a small town in Haut-Mbomou prefecture close to the border with South Sudan. They were freed after months of negotiations with their captors by MINUSCA, the UN peacekeeping mission in the country, and flown to Bangui on a special UN flight to a heroes' welcome.
 

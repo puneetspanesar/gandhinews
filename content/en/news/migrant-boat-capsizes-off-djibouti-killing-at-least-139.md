@@ -61,9 +61,9 @@ verification:
     - "No link drawn to the fighting in Ethiopia's Tigray region; no source connected it to this crossing."
 ---
 
-At least 139 people, among them at least 15 children, died when an overcrowded boat carrying migrants from Djibouti towards Yemen capsized off the Djiboutian coast, the UN migration agency said on Sunday. Another 84 people are missing.
+At least 139 people, among them at least 15 children, died when an overcrowded boat carrying migrants from Djibouti towards Yemen capsized off the Djiboutian coast, the UN migration agency said on Sunday. Another **84 people are missing**.
 
-The boat had 305 people on board. It went down near Guhere, north of the port town of Obock, during the night of October 8-9, according to survivors' accounts. The International Organization for Migration (IOM) called it one of the deadliest shipwrecks recorded on the so-called Eastern Route, which runs from the Horn of Africa across the Gulf of Aden to the Arabian Peninsula.
+The boat had 305 people on board. It went down near Guhere, north of the port town of Obock, during the night of October 8-9, according to survivors' accounts. The International Organization for Migration (IOM) called it **one of the deadliest shipwrecks** recorded on the so-called Eastern Route, which runs from the Horn of Africa across the Gulf of Aden to the Arabian Peninsula.
 
 ```infographic
 {"title":"The Obock shipwreck","items":[{"icon":"users-three","value":"305","label":"people on board","text":"Sailing from Djibouti towards Yemen."},{"icon":"warning","value":"139","label":"confirmed dead","text":"At least 15 of them children."},{"icon":"question","value":"84","label":"still missing","text":"Search operations are continuing in the Gulf of Aden."},{"icon":"users","value":"82","label":"survivors","text":"All Ethiopian nationals."}]}
@@ -83,7 +83,7 @@ All 82 survivors are Ethiopian. The IOM is treating them at its Migrant Response
 
 ## A route that keeps drawing people
 
-Tens of thousands of people from the Horn of Africa make the crossing through Djibouti and the Bab el-Mandeb strait each year, heading for Gulf countries in search of work and safety. The IOM says more than 900 migrants died or went missing on the route last year, while the number attempting the journey rose by 18%. In March this year, another boat sank off Djibouti, leaving nine dead and 45 missing.
+Tens of thousands of people from the Horn of Africa make the crossing through Djibouti and the Bab el-Mandeb strait each year, heading for Gulf countries in search of work and safety. The IOM says more than 900 migrants died or went missing on the route last year, while the number attempting the journey rose by **18%**. In March this year, another boat sank off Djibouti, leaving nine dead and 45 missing.
 
 The flow has not slowed despite renewed full-scale fighting in Yemen between the Saudi-backed government and the Iran-backed Houthis. Since September 10 the IOM has recorded more than 20,000 movements into Djibouti from Ethiopia. Over the same period, more than 3,700 refugees arrived in Djibouti from Yemen, travelling the other way. On October 6 Coissac described the country as facing "overlapping emergencies".
 

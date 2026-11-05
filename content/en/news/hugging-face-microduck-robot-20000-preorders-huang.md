@@ -35,14 +35,14 @@ verification:
   - Single source (TechCrunch, Oct 23 2:59 pm PDT). Preorder figure from Clem Delangue's X post as reported. Price ($399 in a linked URL slug) not confirmed in body; omitted. Nvidia's acquisition of Hugging Face in September as stated by TechCrunch.
 ---
 
-A small, foot-stomping, open-source robot has become an unlikely hit after Nvidia chief executive Jensen Huang was filmed playing with a flock of them on stage. Preorders for Hugging Face's Microduck passed 20,000 units the day after the video went viral, Hugging Face co-founder Clem Delangue said.
+A small, foot-stomping, open-source robot has become an unlikely hit after Nvidia chief executive Jensen Huang was filmed playing with a flock of them on stage. Preorders for Hugging Face's Microduck passed **20,000 units** the day after the video went viral, Hugging Face co-founder Clem Delangue said.
 
 The clip, from Huang's keynote at Nvidia's GTC conference in Berlin earlier this week, shows him giving voice commands to the robots, which stomp their feet, chirp in the manner of R2-D2, sit down, topple over for a "nap" and turn somersaults. "When @jensenhuang asks for a somersault, you deliver," an Nvidia account wrote alongside one clip on October 21.
 
 ## Part of the Nvidia family
 
-The Microduck is made by Pollen Robotics, which Hugging Face acquired in 2025. With Nvidia's purchase of Hugging Face in September, Pollen is now part of the Nvidia group. It is Hugging Face's second robot, after the Reachy Mini.
+The Microduck is made by **Pollen Robotics**, which Hugging Face acquired in 2025. With Nvidia's purchase of Hugging Face in September, Pollen is now part of the Nvidia group. It is Hugging Face's second robot, after the Reachy Mini.
 
 Pollen taught the Microduck its basic moves, walking, sitting and standing, through training in simulation. Because the design is open source, owners can teach their robots new tricks and share them with others.
 
-Delangue has suggested the Microduck could become the best-selling robot of the year. The robots are expected to ship in time for Christmas, and promotional videos make clear the company hopes adults, not only children, will want one.
+Delangue has suggested the Microduck could become the best-selling robot of the year. The robots are expected to **ship in time for Christmas**, and promotional videos make clear the company hopes adults, not only children, will want one.

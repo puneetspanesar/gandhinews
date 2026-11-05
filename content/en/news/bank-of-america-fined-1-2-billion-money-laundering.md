@@ -35,15 +35,15 @@ verification:
     - "Period covered by the violations not reported."
 ---
 
-The US Treasury on Tuesday fined Bank of America more than $1.21 billion for failing to guard against money laundering and for breaching sanctions, the third-largest penalty in the department's history.
+The US Treasury on Tuesday fined Bank of America more than **$1.21 billion** for failing to guard against money laundering and for breaching sanctions, the third-largest penalty in the department's history.
 
-The Financial Crimes Enforcement Network (FinCEN), Treasury's anti-money laundering arm, imposed $1.2 billion. That figure includes credit for a $750 million fine from the Office of the Comptroller of the Currency (OCC), the largest the bank regulator has ever handed down, for a deficient and ineffective compliance programme.
+The Financial Crimes Enforcement Network (FinCEN), Treasury's anti-money laundering arm, imposed **$1.2 billion**. That figure includes credit for a $750 million fine from the Office of the Comptroller of the Currency (OCC), the largest the bank regulator has ever handed down, for a deficient and ineffective compliance programme.
 
 The Office of Foreign Assets Control reached a separate $11.6 million settlement over 475 apparent violations of sanctions programmes covering Iran, Russia, narcotics and global terrorism.
 
 ## What went wrong
 
-Treasury said Bank of America, the second-largest bank in the US, failed to spot and report national security risks, including Chinese money laundering networks and illicit money moving along the southwest border. It did not report more than $5 billion in suspicious transactions to FinCEN on time.
+Treasury said Bank of America, the second-largest bank in the US, failed to spot and report national security risks, including Chinese money laundering networks and illicit money moving along the southwest border. It did not report more than **$5 billion** in suspicious transactions to FinCEN on time.
 
 The department also found that "the Bank effectively outsourced to third parties a substantial portion of its proactive detection and reporting obligations", and that its customer checks fell short.
 

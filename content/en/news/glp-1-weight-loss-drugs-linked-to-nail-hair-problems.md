@@ -39,17 +39,17 @@ verification:
 
 People taking the popular GLP-1 drugs for weight loss and diabetes report nail and hair problems far more often than people who do not use them, according to two studies presented at the European Academy of Dermatology and Venereology (EADV) Congress 2026.
 
-The researchers compared 575 people on drugs such as Ozempic, Wegovy, Mounjaro, Zepbound, Victoza and Trulicity with 1,329 people with type 2 diabetes or obesity who had never taken them. Participants were recruited in France, the United States, Brazil and Mexico.
+The researchers compared **575 people** on drugs such as Ozempic, Wegovy, Mounjaro, Zepbound, Victoza and Trulicity with 1,329 people with type 2 diabetes or obesity who had never taken them. Participants were recruited in France, the United States, Brazil and Mexico.
 
 ## What users reported
 
-The clearest difference was in nails lifting away from the nail bed. That was reported by 39% of GLP-1 users against 9% of non-users, more than four times as often. Nail discolouration was reported by 46% of users and 17% of the others. Taking all nail problems together, the figures were 66% and 53%.
+The clearest difference was in nails lifting away from the nail bed. That was reported by **39% of GLP-1 users** against 9% of non-users, more than four times as often. Nail discolouration was reported by 46% of users and 17% of the others. Taking all nail problems together, the figures were 66% and 53%.
 
 The pattern held among people who had lost weight, and after the researchers allowed for existing skin conditions and nutritional deficiencies, detachment and discolouration were still two to three times as common among users.
 
 "Until now, nail changes associated with GLP-1 therapies had essentially been anecdotal," said Dr Charles Taïeb, one of the authors.
 
-The companion study on hair found that 50% of users reported unusual hair loss, against 34% of non-users, and 42% reported thinner hair against 19%. Scalp redness was about three times as frequent. "Scalp inflammation was the rule rather than the exception," said co-author Dr Bruno Halioua.
+The companion study on hair found that **50%** of users reported unusual hair loss, against 34% of non-users, and 42% reported thinner hair against 19%. Scalp redness was about three times as frequent. "Scalp inflammation was the rule rather than the exception," said co-author Dr Bruno Halioua.
 
 ## The limits
 

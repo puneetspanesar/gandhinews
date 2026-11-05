@@ -41,7 +41,7 @@ verification:
     - "Protest context (Left/student march near Bangla Sahib on Friday, Jamia hunger strike day 13, Chamber of Trade and Industry request to Rahul Gandhi) from the same ANI preview."
 ---
 
-Union Home Minister Amit Shah chaired a meeting on security in the capital at the Delhi Police headquarters on Saturday evening, with Chief Minister Rekha Gupta and senior police officers in attendance.
+Union Home Minister Amit Shah chaired a meeting on security in the capital at the Delhi Police headquarters on Saturday evening, with Chief Minister **Rekha Gupta** and senior police officers in attendance.
 
 Shah had been expected to go over the law and order situation in the national capital with the force's top officers. No readout of what was discussed or decided had been released by Saturday night.
 

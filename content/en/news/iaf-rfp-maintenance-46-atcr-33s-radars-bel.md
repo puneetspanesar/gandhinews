@@ -40,7 +40,7 @@ verification:
 
 The Indian Air Force has issued a request for proposals seeking "maintenance support for 46 ATCR-33S airfield surveillance radars at its various air bases", and has set strict targets for how often they must be working.
 
-Under the terms, the serviceability rate "at each location must exceed 95 per cent", so a strong average across the fleet will not be enough if a single base falls short. Breakdowns are to get a response within 72 hours, and on-site repairs are to be completed within four days.
+Under the terms, the serviceability rate "at each location must exceed 95 per cent", so a strong average across the fleet will not be enough if a single base falls short. Breakdowns are to get a response within **72 hours**, and on-site repairs are to be completed within four days.
 
 The radars, which track aircraft in the air around a base, were bought in three batches, in 2003, 2007 and 2017. The request also covers support for the newer Mk XII(S) identification friend or foe (IFF) systems, which let controllers tell their own aircraft from others.
 

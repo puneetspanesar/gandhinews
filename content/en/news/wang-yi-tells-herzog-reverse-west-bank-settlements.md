@@ -61,4 +61,4 @@ In Gaza itself, the health ministry said on Friday that Israel had kept the Rafa
 
 Neither Israel nor Herzog's office has given its own account of the meeting, and the Chinese statement did not say how Herzog responded.
 
-The remarks come amid continuing settler violence in the territory. In the latest attack reported, settlers wounded a Palestinian man in the village of Beit Ummar. Israeli settlements in the West Bank are considered illegal under international law.
+Settler violence in the territory has continued. In the latest attack reported, settlers wounded a Palestinian man in the village of Beit Ummar. Israeli settlements in the West Bank are considered illegal under international law.

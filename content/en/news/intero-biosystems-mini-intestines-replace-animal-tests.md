@@ -43,7 +43,7 @@ Customers can test drugs on healthy tissue or on models of disease. Intero, whic
 
 ## Still being proven
 
-GastroScreen is in the second of three validation stages. The company says it has responded as expected to a known anti-inflammatory drug and to compounds known to damage the gut. In the final stage, several pharmaceutical companies are comparing its results with their own animal and clinical data.
+GastroScreen is in the **second of three validation stages**. The company says it has responded as expected to a known anti-inflammatory drug and to compounds known to damage the gut. In the final stage, several pharmaceutical companies are comparing its results with their own animal and clinical data.
 
 The timing suits the company. In April 2025 the US Food and Drug Administration set out a plan to reduce reliance on animal testing, promoting organoids, organ-on-chip devices and computer models. In March this year it issued draft guidance on how such "new approach methodologies" should be validated, without endorsing any one method.
 

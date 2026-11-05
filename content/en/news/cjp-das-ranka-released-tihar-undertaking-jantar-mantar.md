@@ -62,7 +62,7 @@ verification:
 
 Cockroach Janta Party leaders Saurav Das and Ashutosh Ranka walked out of Tihar Jail on Wednesday evening, eight days after they climbed the locked gate of Jantar Mantar with the Tricolour. A Delhi magistrate turned down a police request to keep them inside for three more days and released them on bonds.
 
-Special Executive Magistrate Ritu Raj, an assistant commissioner of police, ordered that each furnish a personal bond of ₹50,000 with a surety of the same amount. Both men gave written undertakings not to disturb public peace and not to call for protests at Jantar Mantar for as long as the site remains de-notified as a protest venue. Any future demonstrations, they promised, would stay within the constitutional framework.
+Special Executive Magistrate Ritu Raj, an assistant commissioner of police, ordered that each furnish a personal bond of **₹50,000** with a surety of the same amount. Both men gave written undertakings not to disturb public peace and not to call for protests at Jantar Mantar for as long as the site remains de-notified as a protest venue. Any future demonstrations, they promised, would stay within the constitutional framework.
 
 The magistrate held that the bonds and the written assurances were enough to keep the peace and that further custody was not needed. They must appear, with their sureties, at every hearing. The next one is on Friday, October 23, at 3 pm, when the investigating officer must report on whether the sureties check out.
 

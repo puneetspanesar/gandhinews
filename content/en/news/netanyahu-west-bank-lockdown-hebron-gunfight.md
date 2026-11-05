@@ -48,9 +48,9 @@ verification:
     - "Modi-Netanyahu call: Tribune/ANI 12:52 am IST Oct 23, so the call was late Thursday; exact time not given."
 ---
 
-Israeli Prime Minister Benjamin Netanyahu sealed off the city of Hebron on Friday and told security forces to prepare a full lockdown of the occupied West Bank, hours after a gunfight at a checkpoint left two Palestinian attackers dead and several Israeli soldiers wounded.
+Israeli Prime Minister Benjamin Netanyahu sealed off the city of Hebron on Friday and told security forces to prepare a full lockdown of the occupied West Bank, hours after a gunfight at a checkpoint left **two Palestinian** attackers dead and several Israeli soldiers wounded.
 
-The Israeli military said its troops killed two Palestinian gunmen who had attacked a reserve battalion near the settlement of Telem, west of Hebron. The two men, travelling in a car with Israeli licence plates, opened fire on soldiers at the checkpoint. Witnesses said the exchange went on for about 20 minutes, which made it hard to get the wounded out. Israel's ambulance service said at least five soldiers were hurt, two of them critically. The army later arrested two other Palestinians.
+The Israeli military said its troops killed **two Palestinian gunmen** who had attacked a reserve battalion near the settlement of Telem, west of Hebron. The two men, travelling in a car with Israeli licence plates, opened fire on soldiers at the checkpoint. Witnesses said the exchange went on for about 20 minutes, which made it hard to get the wounded out. Israel's ambulance service said at least five soldiers were hurt, two of them critically. The army later arrested two other Palestinians.
 
 Netanyahu said the security forces had prevented a "major attack". He ordered Hebron closed and said forces should "prepare for a full lockdown across all of Judea and Samaria starting today", using the Israeli government's name for the West Bank. He also cancelled a string of campaign engagements.
 

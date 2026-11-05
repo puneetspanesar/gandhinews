@@ -36,7 +36,7 @@ infographic:
     - {date: "बारिश", text: "भारत 1 विकेट पर 54, खेल रुका", icon: cloud-rain}
     - {date: "दोबारा खेल", text: "पीछा 32 ओवर का", icon: timer}
     - {date: "22.4 ओवर", text: "भारत 5 विकेट पर 143, जीत", icon: trophy}
-  source: "विज़डन लाइव स्कोरकार्ड, 4 नवंबर 2026"
+  source: "मैच स्कोरकार्ड, 4 नवंबर 2026"
 related: [india-65-one-down-32-over-chase-eden-park-odi, india-54-one-down-rain-stops-play-eden-park-odi, rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-eden-park, india-elect-to-field-new-zealand-one-down-eden-park-first-odi]
 seo:
   description: "ईडन पार्क में न्यूज़ीलैंड बनाम भारत पहला वनडे, 4 नवंबर 2026: न्यूज़ीलैंड के 185 के बाद भारत ने 32 ओवर के पीछा में 22.4 ओवर में 5 विकेट पर 143 बनाकर DLS पद्धति से पांच विकेट से जीत दर्ज की।"

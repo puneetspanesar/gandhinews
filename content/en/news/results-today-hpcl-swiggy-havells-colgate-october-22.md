@@ -5,7 +5,7 @@ type: news
 section: economy
 format_label: "Economy / Markets"
 topics: [economy]
-title: "HPCL, Swiggy, Havells and Colgate report today as Jio IPO enters day two"
+title: "HPCL, Swiggy, Havells and Colgate report on October 22 as Jio IPO enters day two"
 standfirst: "Hindustan Petroleum's numbers will show how far a recovery in fuel margins has repaired a record June-quarter loss. Eternal and Indian Hotels trade on their results for the first time."
 published: 2026-10-22T05:20:00+05:30
 location: Mumbai
@@ -19,10 +19,10 @@ hero:
   subjects: ["Hindustan Petroleum fuel station"]
   alt: "A Hindustan Petroleum fuel station"
   overlay:
-    value: "HPCL, Swiggy, Havells report today"
+    value: "HPCL, Swiggy, Havells report"
 related: [eternal-q2-profit-doubles-125-crore-blinkit-3500-stores, ihcl-q2-profit-349-crore-700-hotels-fy27, jio-platforms-ipo-three-times-subscribed-day-one-qib, global-cues-wall-street-gains-brent-109-yields-october-22, rbi-mpc-minutes-rate-cuts-off-table-two-members-oppose-tightening]
 seo:
-  description: "Q2 results today, October 22, 2026: HPCL, Swiggy, Havells, Colgate-Palmolive, Cyient, Adani Total Gas, Chennai Petroleum report; Jio Platforms IPO day two."
+  description: "Q2 results on October 22, 2026: HPCL, Swiggy, Havells, Colgate-Palmolive, Cyient, Adani Total Gas, Chennai Petroleum report; Jio Platforms IPO day two."
 sources:
   - title: "Q2 Results October 22, 2026: HPCL, Havells, Swiggy and More"
     publisher: "Kalkine Media"
@@ -58,21 +58,21 @@ verification:
     - "Tusk-Modi talks Thursday: from claims file (policy desk preview); mentioned only in passing."
 ---
 
-Hindustan Petroleum, the food delivery company Swiggy, the electricals maker Havells India and Colgate-Palmolive (India) are among dozens of companies due to report September-quarter results on Thursday, a busy day that also brings the second day of bidding for the Jio Platforms share sale.
+Hindustan Petroleum, the food delivery company Swiggy, the electricals maker Havells India and Colgate-Palmolive (India) are among dozens of companies due to report September-quarter results on Thursday, a busy day that also brings the second day of bidding for the **Jio Platforms** share sale.
 
 ## Results to watch
 
-Hindustan Petroleum's board meets to approve results that will show how much of a recovery the state-run refiner has made after a ₹11,526 crore loss in the June quarter. Estimates vary widely. ICICI Securities and JM Financial are reported to expect a return to profit of about ₹2,647 crore to ₹2,700 crore on better fuel marketing margins and inventory gains. The company holds its call with analysts at 11 am on Friday.
+Hindustan Petroleum's board meets to approve results that will show how much of a recovery the state-run refiner has made after a **₹11,526 crore loss** in the June quarter. Estimates vary widely. ICICI Securities and JM Financial are reported to expect a return to profit of about ₹2,647 crore to ₹2,700 crore on better fuel marketing margins and inventory gains. The company holds its call with analysts at 11 am on Friday.
 
 Chennai Petroleum, Adani Total Gas and Adani Energy Solutions also report.
 
-Swiggy, Eternal's main rival in food delivery and quick commerce, reports a day after Eternal said its profit nearly doubled and Blinkit's store count would pass 3,500 by March 2027. Colgate-Palmolive's revenue is expected to rise about 12.7% and its profit about 11%, with investors also watching for an interim dividend.
+Swiggy, Eternal's main rival in food delivery and quick commerce, reports a day after Eternal said its profit nearly doubled and Blinkit's store count would pass 3,500 by March 2027. Colgate-Palmolive's revenue is expected to rise about **12.7%** and its profit about 11%, with investors also watching for an interim dividend.
 
 Other companies on the list include the engineering services firm Cyient, the dairy company Hatsun Agro Product, the cement makers Orient Cement and Nuvoco Vistas, the microlender CreditAccess Grameen and Bluestone Jewellery & Lifestyle.
 
 ## First trade on Wednesday's results
 
-Eternal shares react for the first time to its 92% rise in profit to ₹125 crore. Indian Hotels, which raised its revenue growth forecast for the year to 15-17%, also trades on its numbers.
+Eternal shares react for the first time to its **92%** rise in profit to ₹125 crore. Indian Hotels, which raised its revenue growth forecast for the year to 15-17%, also trades on its numbers.
 
 ## Share sales and the rest of the day
 

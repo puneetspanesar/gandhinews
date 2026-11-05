@@ -36,14 +36,14 @@ verification:
     - "Name of the challenger who withdrew not given."
 ---
 
-Cameroon's main opposition party, the Cameroon Renaissance Movement (MRC), has elected Tiriane Balbine Noah as its president, the first woman to lead it, closing a turbulent chapter after the resignation of its founder-leader Maurice Kamto.
+Cameroon's main opposition party, the Cameroon Renaissance Movement (MRC), has elected Tiriane Balbine Noah as its president, the first woman to lead it, closing a turbulent chapter after the resignation of its founder-leader **Maurice Kamto**.
 
-About 1,200 delegates attended the extraordinary elective congress at the party's headquarters in Yaounde on Saturday. Noah, who had been interim leader since Kamto stepped down last month, ran unopposed after her only challenger withdrew and won more than 96 per cent of the vote. She will serve a renewable five-year term.
+About 1,200 delegates attended the extraordinary elective congress at the party's headquarters in Yaounde on Saturday. Noah, who had been interim leader since Kamto stepped down last month, ran unopposed after her only challenger withdrew and won **more than 96 per cent** of the vote. She will serve a renewable five-year term.
 
-Kamto led the MRC for 14 years. He and his deputy stepped down in what the party described as an attempt to save it, amid suspicions that the government was trying to dismantle it. Noah, previously the party's second vice-president, told delegates that her conduct during the congress would be a tribute to Kamto, whom she called a genuine democrat and a man of peace.
+Kamto led the MRC for **14 years**. He and his deputy stepped down in what the party described as an attempt to save it, at a time when it suspected that the government was trying to dismantle it. Noah, previously the party's second vice-president, told delegates that her conduct during the congress would be a tribute to Kamto, whom she called a genuine democrat and a man of peace.
 
 The MRC says it has been persecuted since its founding, and the congress went ahead despite pressure on the authorities to ban it. Joseph Emmanuel Ateba, the party's national secretary in charge of reform, said: "Unfortunately, in Cameroon, things are done in such a way that everything becomes extraordinary."
 
 For the delegates, the result was a moment of pride. "Today, we are proud to make her our president," said Kuesbi Mefo Thierry, one of them.
 
-Noah's first test will be the 2027 local elections, which the party has made its next target.
+Noah's first test will be the **2027 local elections**, which the party has made its next target.

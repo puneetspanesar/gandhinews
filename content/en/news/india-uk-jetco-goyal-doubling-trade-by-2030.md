@@ -23,7 +23,7 @@ related: [india-us-trade-talks-plateau-russia-oil-tariff-law]
 seo:
   description: "India and the UK held their 16th JETCO in New Delhi, agreed annual data sharing on the CETA trade pact, and Piyush Goyal set a goal of doubling trade by 2030."
 sources:
-  - title: "Joint Statement of 16th Meeting of the India–UK JETCO"
+  - title: "Joint Statement of 16th Meeting of the India-UK JETCO"
     publisher: "GOV.UK (Department for Business and Trade)"
     date: 2026-10-12
     url: "https://www.gov.uk/government/news/joint-statement-of-16th-meeting-of-the-india-uk-jetco"
@@ -77,9 +77,9 @@ Speaking at the business plenary that followed, Goyal urged companies in both co
 
 He named five areas for partnership: infrastructure and clean energy, advanced manufacturing and supply chains, technology and research, financial services linking the City of London with GIFT City in Gujarat, and healthcare and consumer goods. He said the Double Contribution Convention on social security, which took effect alongside the trade deal, could help both economies by making services more competitively priced.
 
-Reynolds said the deal had been in force for almost 100 days and that its success would depend on businesses using it to grow exports, investment and partnerships.
+Reynolds said the deal had been in force for almost **100 days** and that its success would depend on businesses using it to grow exports, investment and partnerships.
 
-Trade in goods and services between the two countries stood at £48.4 billion in the four quarters to March 2026, up 5.7% on a year earlier, according to UK government data.
+Trade in goods and services between the two countries stood at £**48.4 billion** in the four quarters to March 2026, up 5.7% on a year earlier, according to UK government data.
 
 ## What comes next
 

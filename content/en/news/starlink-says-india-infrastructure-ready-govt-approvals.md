@@ -51,7 +51,7 @@ Starlink, the satellite internet company owned by Elon Musk's SpaceX, said on Fr
 
 "We have worked closely with regulators, industry and operators in India for 5+ years, and built a network of dedicated systems, gateways, and other infrastructure all in-country to exclusively serve Indian traffic safely and securely, and all with the requisite government approvals," the company said in a post on X.
 
-The statement came amid a public quarrel over why Starlink has not yet switched on service in India. Musk has accused powerful business interests of trying to keep it out and mocked Reliance chairman Mukesh Ambani as "Prime Minister Ambani". Reliance said on Friday that it had "never feared competition" and that Jio's own satellite service was also waiting for clearances.
+The statement came during a public quarrel over why Starlink has not yet switched on service in India. Musk has accused powerful business interests of trying to keep it out and mocked Reliance chairman Mukesh Ambani as "Prime Minister Ambani". Reliance said on Friday that it had "never feared competition" and that Jio's own satellite service was also waiting for clearances.
 
 Bharti Airtel chairman Sunil Mittal has argued that Eutelsat OneWeb, which his group backs, is well ahead of Starlink in the queue. "I applied five years back," he said, adding that OneWeb still did not have permission to start commercial operations.
 

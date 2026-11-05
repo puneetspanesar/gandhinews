@@ -36,9 +36,9 @@ verification:
     - "Count of 11 days in overlay: case registered Oct 9, arrest Oct 20."
 ---
 
-Model Shraddha Dubey, the main accused in the case over the death of Lucknow businessman Shiva Sharma, was arrested in Nagpur on Tuesday along with her sister Rashmi Dubey and a driver, Danish.
+Model Shraddha Dubey, the main accused in the case over the death of Lucknow businessman Shiva Sharma, was **arrested in Nagpur** on Tuesday along with her sister Rashmi Dubey and a driver, Danish.
 
-Lucknow Police and the Uttar Pradesh Special Task Force (STF) carried out the arrests with help from Nagpur Police. The three had been absconding since a case under Section 103(1) of the Bharatiya Nyaya Sanhita, the murder provision, was registered at Hazratganj police station in Lucknow on October 9 on a written complaint by Ranjana Sharma. A reward of ₹50,000 each had been announced for information leading to their arrest.
+Lucknow Police and the Uttar Pradesh Special Task Force (STF) carried out the arrests with help from Nagpur Police. The three had been absconding since a case under Section 103(1) of the Bharatiya Nyaya Sanhita, the murder provision, was registered at Hazratganj police station in Lucknow on October 9 on a written complaint by Ranjana Sharma. A **reward of ₹50,000 each** had been announced for information leading to their arrest.
 
 Officials of the STF and Nagpur Police jointly questioned Dubey at Bell Road police station on Wardha Road in Nagpur. The three were being taken through legal formalities before being brought to Lucknow, where police said the aim was further investigation into Sharma's death.
 

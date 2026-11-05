@@ -58,7 +58,7 @@ Bayern, without the suspended Michael Olise and the injured Jamal Musiala, were 
 
 Bayern went ahead on 61 minutes. Kane's shot was blocked by a hand, the penalty was given, and Kane converted it himself. Bayern then pushed for a third: Ismael Saibari hit the side-netting, Dayot Upamecano had a header saved and Konrad Laimer miscued a volley.
 
-Arsenal stayed in the game and were rewarded in the 82nd minute, when Rice played a one-two and drove the ball into the far corner. Neuer still had to save from Jurrien Timber late on to keep the point for Bayern.
+Arsenal stayed in the game and were rewarded in the **82nd minute**, when Rice played a one-two and drove the ball into the far corner. Neuer still had to save from Jurrien Timber late on to keep the point for Bayern.
 
 Kai Havertz and Ezri Konsa were booked for Arsenal. Davide Massa of Italy refereed.
 

@@ -56,7 +56,7 @@ The tour's other purpose is closer to home. Macron is trying to lock in diesel, 
 
 ## Lebanon conference on hold
 
-Macron also said France would organise a conference to support the Lebanese army "in the coming weeks", but only after Israel's general election on October 27. Holding it before the vote would be "useless", he said.
+Macron also said France would organise a conference to support the **Lebanese army** "in the coming weeks", but only after Israel's general election on October 27. Holding it before the vote would be "useless", he said.
 
 The Lebanese army is central to Western plans to stabilise southern Lebanon, where Israeli troops still hold positions and Hezbollah has not given up its weapons.
 

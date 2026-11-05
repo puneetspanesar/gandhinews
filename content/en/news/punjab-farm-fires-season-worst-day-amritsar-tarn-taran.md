@@ -50,13 +50,13 @@ verification:
 
 Punjab has recorded its worst day of stubble burning so far this season, with 51 farm fires in a single day, as the paddy harvest gathers pace across the state's northern districts.
 
-The count took the season's total to 174 by October 13, about 38% higher than at the same point last year. Most of the fires were in Amritsar and Tarn Taran, the two border districts that have led the tally all season. Barnala and Bathinda, in the southern Malwa belt, reported none.
+The count took the season's total to 174 by October 13, about 38% higher than at the same point last year. Most of the fires were in **Amritsar and Tarn Taran**, the two border districts that have led the tally all season. Barnala and Bathinda, in the southern Malwa belt, reported none.
 
 ## A faster start than last year
 
 The rise is steep. In the first week of October the state had logged 84 fires, according to data from the Commission for Air Quality Management (CAQM), with Amritsar alone accounting for 49 and Tarn Taran for 18. The number has roughly doubled in a little over a week.
 
-Last year's season ended with 5,114 incidents in Punjab, a 53% fall from 2024 and the lowest count in recent years.
+Last year's season ended with 5,114 incidents in Punjab, a **53%** fall from 2024 and the lowest count in recent years.
 
 Authorities have stepped up monitoring with drones for real-time tracking, and fines have already been issued. The CAQM has deployed flying squads across 18 Punjab districts from October 1 to November 30 to work with district officials, the state pollution control board and the Parali Protection Force.
 

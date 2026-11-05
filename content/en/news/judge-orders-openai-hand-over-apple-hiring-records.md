@@ -40,13 +40,13 @@ A federal judge in California has ordered OpenAI to give Apple the interview rec
 
 US District Judge Edward Davila granted Apple expedited access to the material, which can include interview checklists, guides, scripts and technical presentations, as well as any records showing that interviews touched on Apple technology or components. Apple will also see private messages on the LINE app between people named in the case, including OpenAI employees Chang Liu and Alyssa Peng.
 
-Apple may question Liu, Peng and Tang Yew Tan, OpenAI's chief hardware officer, under oath. All three used to work at Apple.
+Apple may question Liu, Peng and **Tang Yew Tan**, OpenAI's chief hardware officer, under oath. All three used to work at Apple.
 
-OpenAI has five days to hand over material it has already gathered and 14 days for the rest.
+OpenAI has five days to hand over material it has already gathered and **14 days** for the rest.
 
 ## What Apple did not get
 
-The judge refused, for now, Apple's request for quick access to OpenAI's research and development in specific areas such as metal finishes and power management. He also turned down several broader demands, including details of what the former Apple staff have built since joining OpenAI. Apple can narrow those requests and try again.
+The judge refused, for now, Apple's request for quick access to OpenAI's research and development in specific areas such as **metal finishes and power management**. He also turned down several broader demands, including details of what the former Apple staff have built since joining OpenAI. Apple can narrow those requests and try again.
 
 ## The case
 

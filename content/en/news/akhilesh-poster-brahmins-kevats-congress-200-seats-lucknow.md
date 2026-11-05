@@ -10,7 +10,7 @@ standfirst: "Two posters went up outside two party offices in Lucknow on Sunday.
 published: 2026-10-25T12:10:00+05:30
 location: Lucknow
 keyPoints:
-  - "An SP poster shows Akhilesh Yadav on a boat with the line that **Brahmins will show the way and Kevats will ferry us across**."
+  - "An SP poster shows Akhilesh Yadav on a boat with the line that **Brahmins will show the way** and Kevats will ferry us across."
   - "Outside the state Congress office, posters declare **'200 seat haq hai hamara'** (200 seats are our right)."
   - "The UP Assembly has **403 seats**, so the Congress demand amounts to roughly half."
 hero:
@@ -45,7 +45,7 @@ verification:
 
 Uttar Pradesh's 2027 contest played out on the walls of Lucknow on Sunday, with two INDIA bloc partners using posters to send messages, one to voters and one to each other.
 
-Outside the Samajwadi Party headquarters, a new poster shows party chief Akhilesh Yadav standing on a boat. Its Hindi line promises that Brahmins will show the way, Kevats will ferry the party across, and together they will form a "PDA" government. The boat recalls the Ramayana's boatman, Kevat, who carried Ram across the river, and the line reaches out to Kevat and Nishad voters as well as to Brahmins. PDA, the SP's shorthand for its backward, Dalit and minority base, now appears to be stretched to take in aggrieved Brahmins too.
+Outside the Samajwadi Party headquarters, a new poster shows party chief Akhilesh Yadav standing on a boat. Its Hindi line promises that **Brahmins will show the way**, Kevats will ferry the party across, and together they will form a "PDA" government. The boat recalls the Ramayana's boatman, Kevat, who carried Ram across the river, and the line reaches out to Kevat and Nishad voters as well as to Brahmins. PDA, the SP's shorthand for its backward, Dalit and minority base, now appears to be stretched to take in aggrieved Brahmins too.
 
 Outside the Uttar Pradesh Congress Committee office, posters carrying photographs of Rahul Gandhi and Priyanka Gandhi Vadra read "200 seat haq hai hamara", or "200 seats are our right". That is close to half of the 403-member Assembly. Congress is reported to have given the SP a list of 200 constituencies it wants, drawn up by grading seats on how far its organisation has grown, and to want seat-sharing talks wrapped up by mid-November.
 

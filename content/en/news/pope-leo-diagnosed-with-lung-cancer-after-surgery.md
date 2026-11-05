@@ -51,7 +51,7 @@ verification:
     - "Pope's Angelus quotes are from Vatican News' English rendering of his Italian remarks."
 ---
 
-Pope Leo XIV has lung cancer, the Vatican said on Tuesday, after surgeons in Rome removed the lower lobe of his right lung. A medical bulletin said the 71-year-old pontiff had been diagnosed with lung adenocarcinoma, a diagnosis that tests before the operation had already suggested.
+Pope Leo XIV has lung cancer, the Vatican said on Tuesday, after surgeons in Rome removed the lower lobe of his right lung. A medical bulletin said the 71-year-old pontiff had been diagnosed with **lung adenocarcinoma**, a diagnosis that tests before the operation had already suggested.
 
 The surgery at the Agostino Gemelli University Hospital lasted 90 minutes. The Vatican said it "was successful, and there were no complications", and that the Pope was back in his room.
 

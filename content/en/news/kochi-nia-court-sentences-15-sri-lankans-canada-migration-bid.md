@@ -37,9 +37,9 @@ verification:
     - "State name 'Keralam' follows the source and site usage."
 ---
 
-A special court for National Investigation Agency (NIA) cases in Kochi has sentenced 15 Sri Lankan nationals who tried to migrate illegally to Canada by boat from Keralam.
+A special court for National Investigation Agency (NIA) cases in Kochi has sentenced **15 Sri Lankan nationals** who tried to migrate illegally to Canada by boat from Keralam.
 
-Judge Hafees Mohammed gave each of them 15 days of simple imprisonment and a fine of ₹5,000. Anyone who does not pay the fine will serve another 15 days. The 15 had pleaded guilty to offences under various provisions of the Foreigners Act. They were represented by counsel, and the proceedings were translated for them into Malayalam.
+Judge Hafees Mohammed gave each of them 15 days of simple imprisonment and a fine of **₹5,000**. Anyone who does not pay the fine will serve another 15 days. The 15 had pleaded guilty to offences under various provisions of the Foreigners Act. They were represented by counsel, and the proceedings were translated for them into Malayalam.
 
 In deciding the sentence, the court took into account the nature of the offences and the time the accused had already spent in custody.
 

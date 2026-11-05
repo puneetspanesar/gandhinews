@@ -41,7 +41,7 @@ The relief is for students admitted from the 2019-20 academic year onwards whose
 
 There are conditions. A student's admission must be valid and must not have been cancelled by the university or college. Students who have already had an extra "mercy" attempt under an earlier NMC decision or a court order, and so have used up five attempts, cannot claim another one. The decision does not allow a sixth attempt.
 
-The NMC has also capped the time allowed to finish the MBBS course, including the Compulsory Rotating Medical Internship, at 10 years from the date of admission. The extra attempt will not stretch that limit.
+The NMC has also capped the time allowed to finish the MBBS course, including the Compulsory Rotating Medical Internship, at **10 years** from the date of admission. The extra attempt will not stretch that limit.
 
 The Commission called the step a one-time transitional relaxation for students whose cases were pending. It said it should not be read as applying the amended rules on attempts retrospectively, and would not serve as a precedent for later batches.
 

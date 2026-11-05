@@ -37,7 +37,7 @@ verification:
 
 Chhattisgarh Chief Minister Vishnu Deo Sai said on Wednesday that the state's success against Maoist insurgency was the result of the courage, dedication and sacrifice of its police and security personnel.
 
-Speaking at the Police Commemoration Day parade at the 4th Battalion of the Chhattisgarh Armed Force in Mana, near Raipur, Sai said a new atmosphere of peace, security and trust had emerged in Bastar and other remote parts of the state. He named the Chhattisgarh Police, the District Reserve Guard, the Bastar Fighters and the central armed police forces, and credited the vision of Prime Minister Narendra Modi and the guidance of Union Home Minister Amit Shah.
+Speaking at the Police Commemoration Day parade at the 4th Battalion of the Chhattisgarh Armed Force in Mana, near Raipur, Sai said a new atmosphere of **peace, security and trust** had emerged in Bastar and other remote parts of the state. He named the Chhattisgarh Police, the District Reserve Guard, the Bastar Fighters and the central armed police forces, and credited the vision of Prime Minister Narendra Modi and the guidance of Union Home Minister Amit Shah.
 
 Sai linked the security gains to development schemes now reaching remote tribal villages, among them Niyad Nellanar, PM-JANMAN and the Dharti Aaba Janjatiya Gram Utkarsh Abhiyan.
 

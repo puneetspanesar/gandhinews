@@ -22,7 +22,7 @@ hero:
     value: "Sensex 500 points off day's high"
 related: [sensex-holds-924-points-midday-nifty-23360-reliance-8-per-cent, sensex-1030-points-nifty-23330-day-high-reliance-quarter-of-gains, sensex-jumps-970-nifty-23313-oil-reliance-open-november-2, reliance-shares-jump-6-per-cent-q2-profit-o2c-jio, bank-of-baroda-shares-5-per-cent-record-q2-profit]
 seo:
-  description: "Stock market today, November 2, 2026: Sensex at 75,111.79 (+652) and Nifty at 23,247.40 (+194) at 2 pm, off the day's highs as IT shares fell, while Dixon, NTPC and SBI rose."
+  description: "Stock market on November 2, 2026: Sensex at 75,111.79 (+652) and Nifty at 23,247.40 (+194) at 2 pm, off the day's highs as IT shares fell, while Dixon, NTPC and SBI rose."
 cover:
   template: business
   label: "Markets"

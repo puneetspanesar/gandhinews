@@ -53,11 +53,11 @@ verification:
     - "'Nobody will be spared' quote from Outlook summary of Adhikari remarks."
 ---
 
-Police in Kolkata have arrested seven people, including two office-bearers of the Chorbagan Sarbojanin Durga Puja committee, over the stampede that killed 19 people at the pandal on Saturday evening.
+Police in Kolkata have arrested seven people, including two office-bearers of the Chorbagan Sarbojanin Durga Puja committee, over the stampede that killed **19 people** at the pandal on Saturday evening.
 
 Those held include committee secretary Raj Kumar Sewda and vice-president Santanu Dubey; Biplab Mukherjee, who worked on the bamboo structure; Koushik Saha and Pintu Dey, who were handling the crowd; and Suman Chakraborty and Rajesh Pal, supervisors from a private security agency. Police have registered a case of culpable homicide not amounting to murder on their own, and fourteen people were detained overnight before the arrests.
 
-The crush began at about 7:40 pm on Saturday, the day of Maha Saptami, as rain fell on a large crowd waiting outside the pandal under the Girish Park police station. About 25 people were hurt. By Sunday two were still in intensive care, and the others were being discharged, the Chief Minister said.
+The crush began at about 7:40 pm on Saturday, the day of Maha Saptami, as rain fell on a large crowd waiting outside the pandal under the Girish Park police station. About **25 people** were hurt. By Sunday two were still in intensive care, and the others were being discharged, the Chief Minister said.
 
 ## What set it off
 
@@ -69,6 +69,6 @@ Adhikari, who spent the night at the hospital, said anyone found responsible wou
 
 The state wants a special investigation team led by a sitting judge of the Calcutta High Court, with officers from the STF and the CID. The chief secretary is to seek the High Court Chief Justice's permission. Adhikari said the findings would be made public, within about six weeks of the inquiry being submitted.
 
-Families of the dead, 18 of whom were from West Bengal, will get ₹25 lakh and a government job each, and the injured ₹5 lakh, with the state paying for treatment. Prime Minister Narendra Modi has announced ₹2 lakh for the next of kin of each person killed. The government has also stopped the practice of selling VIP passes for pandals.
+Families of the dead, 18 of whom were from West Bengal, will get **₹25 lakh and a government job** each, and the injured ₹5 lakh, with the state paying for treatment. Prime Minister Narendra Modi has announced ₹2 lakh for the next of kin of each person killed. The government has also stopped the practice of selling VIP passes for pandals.
 
 The Trinamool Congress said police, ambulance and crowd management arrangements had been inadequate and called for accountability. Union Home Minister Amit Shah postponed his programmes in the state. The state helpline for families is 1800-345-5678.

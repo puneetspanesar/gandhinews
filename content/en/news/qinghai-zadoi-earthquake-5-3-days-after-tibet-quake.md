@@ -42,15 +42,15 @@ verification:
     - "Dharamshala vigil: Tribune headline only; details not read, so only the fact of the vigil is mentioned."
 ---
 
-An earthquake of magnitude 5.3 struck Zadoi county in China's northwestern Qinghai province on Saturday afternoon, two days after a far stronger quake on the Tibetan plateau killed 16 people.
+An earthquake of **magnitude 5.3** struck Zadoi county in China's northwestern Qinghai province on Saturday afternoon, two days after a far stronger quake on the Tibetan plateau killed 16 people.
 
-The China Earthquake Networks Centre said the quake hit at 4:39 pm Beijing time (2:09 pm IST) at a depth of 10 km, with its epicentre at 32.54 degrees north and 93.97 degrees east. There were no immediate reports of casualties or damage.
+The China Earthquake Networks Centre said the quake hit at 4:39 pm Beijing time (2:09 pm IST) at a depth of **10 km**, with its epicentre at 32.54 degrees north and 93.97 degrees east. There were no immediate reports of casualties or damage.
 
 ## Recovery in Tibet
 
-The tremor came as rescuers were still at work in Baqen county, in Nagqu city in the Tibet Autonomous Region, where a magnitude 7.0 quake struck at 10:33 pm on Thursday. It killed 16 people and injured 76, and 12,489 residents were evacuated.
+The tremor came as rescuers were still at work in Baqen county, in Nagqu city in the Tibet Autonomous Region, where a magnitude 7.0 quake struck at 10:33 pm on Thursday. It killed **16 people** and injured 76, and 12,489 residents were evacuated.
 
-All 76 injured are being treated, and five of the 11 people first listed as seriously hurt have improved, according to Xinhua. The area has recorded 834 aftershocks, eight of them between magnitude 4.0 and 4.9.
+All 76 injured are being treated, and five of the 11 people first listed as seriously hurt have improved. The area has recorded 834 aftershocks, eight of them between magnitude 4.0 and 4.9.
 
 More than 2,500 rescue workers are in the area, and 35 temporary resettlement sites have been set up. About 52,450 relief items have been sent in, among them 2,000 prefabricated houses and 4,651 tents. China Aerospace Science and Technology Corporation has deployed satellites and drones to keep communications running and map the damage.
 

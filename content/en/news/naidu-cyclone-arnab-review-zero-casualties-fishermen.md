@@ -51,7 +51,7 @@ Andhra Pradesh Chief Minister N Chandrababu Naidu put the state administration o
 
 At a high-level review with officials from 10 departments and the district collectors, Naidu ordered fishing boats back to shore and stopped fishermen from putting out to sea. He told officials not to wait for the final landfall forecast and to finish precautionary arrangements in advance, saying that "protecting lives must remain the administration's foremost priority".
 
-The India Meteorological Department expects the system to cross the Andhra Pradesh and Yanam coast between Bapatla and Visakhapatnam around Wednesday morning as a very severe cyclonic storm, with sustained winds of 115 to 125 km/h gusting to 140 km/h.
+The India Meteorological Department expects the system to cross the Andhra Pradesh and Yanam coast **between Bapatla and Visakhapatnam** around Wednesday morning as a very severe cyclonic storm, with sustained winds of 115 to 125 km/h gusting to 140 km/h.
 
 ## Crews in place before the storm
 
@@ -61,9 +61,9 @@ The irrigation, health, energy, agriculture, home and civil supplies departments
 
 ## Where the storm is
 
-By Sunday the depression over the east-central and southeast Bay of Bengal had become a deep depression. Its centre lay about 870 km east-southeast of Visakhapatnam, 960 km from Kakinada and 1,130 km east of Bapatla, according to the IMD's Amaravati centre. It is forecast to become a cyclonic storm on Monday morning, a severe cyclonic storm by Tuesday and a very severe cyclonic storm by Wednesday morning, when it nears the coast.
+By Sunday the depression over the east-central and southeast Bay of Bengal had become a deep depression. Its centre lay about **870 km** east-southeast of Visakhapatnam, 960 km from Kakinada and 1,130 km east of Bapatla, according to the IMD's Amaravati centre. It is forecast to become a cyclonic storm on Monday morning, a severe cyclonic storm by Tuesday and a very severe cyclonic storm by Wednesday morning, when it nears the coast.
 
-Heavy to very heavy rain is expected over coastal Andhra Pradesh from Tuesday to Thursday. On Tuesday, Kakinada, Konaseema, East Godavari, West Godavari, Eluru and Yanam are under a red alert for extremely heavy rain. On Wednesday the red alert widens to 11 districts and Yanam, taking in Visakhapatnam, Alluri Sitharama Raju, Anakapalli, NTR, Krishna and Guntur. The IMD said the downpour "would likely disrupt normal life".
+Heavy to very heavy rain is expected over coastal Andhra Pradesh from Tuesday to Thursday. On Tuesday, Kakinada, Konaseema, East Godavari, West Godavari, Eluru and Yanam are under a red alert for extremely heavy rain. On Wednesday the red alert widens to **11 districts** and Yanam, taking in Visakhapatnam, Alluri Sitharama Raju, Anakapalli, NTR, Krishna and Guntur. The IMD said the downpour "would likely disrupt normal life".
 
 ## Neighbours brace too
 

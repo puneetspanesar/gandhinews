@@ -38,11 +38,11 @@ verification:
     - "Headline phrase about 'partnership with Korea' is ANI's headline; not used as a direct quote in copy."
 ---
 
-Shipping Minister Sarbananda Sonowal opened a four-day visit to South Korea in Busan on Sunday, telling Indian engineers and managers working in Korean shipyards that India needs their skills as it tries to build a shipbuilding industry of its own.
+Shipping Minister Sarbananda Sonowal opened a **four-day visit** to South Korea in Busan on Sunday, telling Indian engineers and managers working in Korean shipyards that India needs their skills as it tries to build a shipbuilding industry of its own.
 
 Sonowal, who holds the Ports, Shipping and Waterways portfolio, met Indian professionals from Samsung Heavy Industries, Hanwha Ocean, HD Hyundai, the classification society DNV and the Indian Register of Shipping. India's Ambassador to South Korea, Gourangalal Das, welcomed the gathering.
 
-India has set itself the goal of becoming one of the world's top five shipbuilding nations by 2047. Sonowal said the country needs more shipbuilders, marine engineers, naval architects, designers, welders, project managers and technology specialists, and called the professionals' presence in Korea a source of pride.
+India has set itself the goal of becoming one of the world's **top five shipbuilding nations** by 2047. Sonowal said the country needs more shipbuilders, marine engineers, naval architects, designers, welders, project managers and technology specialists, and called the professionals' presence in Korea a source of pride.
 
 He asked them to bring their Korean experience back to India, or to back Indian companies from Korea and act as a bridge between the two countries. He urged them to mentor young Indians and to take part in the India Ship Technology Centre and the India-KOICA shipbuilding skills partnership.
 

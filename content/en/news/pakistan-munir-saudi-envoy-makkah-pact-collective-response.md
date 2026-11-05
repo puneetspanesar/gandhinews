@@ -53,7 +53,7 @@ verification:
 
 Pakistan's army chief, Field Marshal Asim Munir, met Saudi Arabia's new ambassador in Rawalpindi on Monday as his military spokesman warned that any attack on the kingdom, direct or indirect, would draw a joint response from Pakistan, Saudi Arabia and Turkey under their new defence pact.
 
-Munir and Ambassador Rajeh Tami Albugamy "expressed satisfaction" over progress under the Makkah Joint Defence Agreement, the military's media wing, ISPR, said after their meeting at General Headquarters. They discussed regional security and stressed closer defence cooperation and strategic coordination. Munir congratulated the envoy, who presented his credentials to President Asif Ali Zardari on October 14, on his appointment.
+Munir and Ambassador Rajeh Tami Albugamy "expressed satisfaction" over **progress under the Makkah Joint Defence Agreement**, the military's media wing, ISPR, said after their meeting at General Headquarters. They discussed regional security and stressed closer defence cooperation and strategic coordination. Munir congratulated the envoy, who presented his credentials to President Asif Ali Zardari on October 14, on his appointment.
 
 ## "The response will be collective"
 

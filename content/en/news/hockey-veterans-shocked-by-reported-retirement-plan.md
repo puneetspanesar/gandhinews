@@ -63,7 +63,7 @@ A third player said he would have accepted the decision had his form been poor. 
 
 ## Questions over selection
 
-The row has also raised questions about how the federation is choosing who to move on. Some other senior players had poor outings at the World Cup earlier this year and at the Asian Games, yet are not among the four named.
+The row has also drawn attention to how the federation is choosing who to move on. Some other senior players had poor outings at the World Cup earlier this year and at the Asian Games, yet are not among the four named.
 
 Rohidas and Jarmanpreet are part of the defence, Nilakanta plays in midfield and Mandeep up front. All four are in the 18-member squad that Hockey India named on Tuesday, which is unchanged from the side that won gold in Japan and with it a place at the Olympics. Goalkeeper Krishan Bahadur Pathak is back, and defender Amandeep Lakra and midfielder Aditya Arjun Lalage are the two new names.
 

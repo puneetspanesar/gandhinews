@@ -50,23 +50,23 @@ verification:
 
 Inflation in the United States picked up in September, driven by a surge in petrol costs, in the last inflation report Americans will see before they vote in the November 3 midterm elections.
 
-The consumer price index rose 3.7% from a year earlier, the Bureau of Labor Statistics said on Wednesday, up from 3.4% in August. Prices climbed 0.6% in the month alone. Both figures were in line with what economists had forecast, but they leave the Federal Reserve with an uncomfortable choice when it meets on October 27 and 28.
+The consumer price index rose **3.7%** from a year earlier, the Bureau of Labor Statistics said on Wednesday, up from 3.4% in August. Prices climbed 0.6% in the month alone. Both figures were in line with what economists had forecast, but they leave the Federal Reserve with an uncomfortable choice when it meets on October 27 and 28.
 
 ## Petrol does most of the damage
 
-Petrol prices rose 9.1% in September and accounted for more than half of the month's increase. They are now 34.2% higher than a year ago. The motoring group AAA put the average price of regular petrol at $4.33 a gallon, against $4.31 a month earlier, while diesel averaged $6.29.
+Petrol prices rose **9.1%** in September and accounted for more than half of the month's increase. They are now 34.2% higher than a year ago. The motoring group AAA put the average price of regular petrol at $4.33 a gallon, against $4.31 a month earlier, while diesel averaged $6.29.
 
 Patrick DeHaan, head of petroleum analysis at GasBuddy, said 2026 has already had 158 days with petrol above $4 a gallon, more than any previous year.
 
 Kyle Moore, chief economist at The Century Foundation, blamed the war with Iran. "The directionless war in Iran continues to disrupt global supply chains, driving up the prices of food and fuel," he said.
 
-Elsewhere the picture was mixed. Shelter costs rose 0.4%, a little faster than in August. Overall food prices were flat: eating out cost 0.2% more, while groceries were 0.1% cheaper. Milk fell 2.1% and beef 0.9%, but poultry, fruit and vegetables went up. Prices of computer software and accessories were 28% higher than a year ago, which Rami Cassis of Parabellum Investment linked to spending on artificial intelligence. "The AI boom is playing a huge part," he said.
+Elsewhere the picture was mixed. Shelter costs rose **0.4%**, a little faster than in August. Overall food prices were flat: eating out cost 0.2% more, while groceries were 0.1% cheaper. Milk fell 2.1% and beef 0.9%, but poultry, fruit and vegetables went up. Prices of computer software and accessories were 28% higher than a year ago, which Rami Cassis of Parabellum Investment linked to spending on artificial intelligence. "The AI boom is playing a huge part," he said.
 
 ## A second rate rise?
 
-The Fed raised its benchmark rate by a quarter point in September, to a range of 3.75% to 4%, its first increase in three years. Fed chair Kevin Warsh had said in August that the central bank would "have work to do" if policymakers did not gain confidence that inflation was heading back to 2%.
+The Fed raised its benchmark rate by a quarter point in September, to a range of **3.75%** to 4%, its first increase in three years. Fed chair Kevin Warsh had said in August that the central bank would "have work to do" if policymakers did not gain confidence that inflation was heading back to 2%.
 
-Economists are split on what comes next. After the data, futures traders put the chance of the Fed holding rates at 52.9% and of another quarter-point rise at 47.1%, according to CME's FedWatch tool.
+Economists are split on what comes next. After the data, futures traders put the chance of the Fed holding rates at **52.9%** and of another quarter-point rise at 47.1%, according to CME's FedWatch tool.
 
 Wall Street slipped on the news. The Nasdaq fell 0.8% and the S&P 500 lost 0.6% in midday trading, while the Dow Jones was roughly flat.
 

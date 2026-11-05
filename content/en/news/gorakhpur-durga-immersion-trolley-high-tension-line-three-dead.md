@@ -47,7 +47,7 @@ The procession was passing near Ayodhya Prasad Chauhan Tola in the Gulriha polic
 
 Police and district officials reached the spot and the injured were taken to the medical college in Gorakhpur for treatment. The names of the dead had not been released by late on Wednesday.
 
-Residents at the scene said the power department had switched off supply along the route earlier in the evening, but that it had been restored just as the trolley reached the crossing. Had the line stayed dead, they said, the accident could have been avoided. The deaths have raised questions about the safety arrangements made for the procession.
+Residents at the scene said the power department had switched off supply along the route earlier in the evening, but that it had been restored just as the trolley reached the crossing. Had the line stayed dead, they said, the accident could have been avoided. The deaths have put the safety arrangements for the procession under scrutiny.
 
 The administration had not said by late Wednesday whether an inquiry would be ordered into why supply was restored, or whether the families of the dead would receive compensation.
 

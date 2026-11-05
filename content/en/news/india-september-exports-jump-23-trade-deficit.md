@@ -42,17 +42,17 @@ verification:
     - "No separate services, gold or oil import figures, or US export figures, were available."
 ---
 
-India's merchandise exports rose 23% in September from a year earlier, helped by higher shipments of electronics, petroleum products and engineering goods, commerce ministry data released on Thursday showed.
+India's merchandise exports rose **23%** in September from a year earlier, helped by higher shipments of electronics, petroleum products and engineering goods, commerce ministry data released on Thursday showed.
 
-Goods exports reached $44.40 billion, up from $36.08 billion in September 2025. "They are at USD 44.40 billion, which is 23.04 per cent higher than last September," Commerce Secretary Rajesh Agrawal said at a press briefing. He said exports were "maintaining their growth momentum".
+Goods exports reached **$44.40 billion**, up from $36.08 billion in September 2025. "They are at USD 44.40 billion, which is 23.04 per cent higher than last September," Commerce Secretary Rajesh Agrawal said at a press briefing. He said exports were "maintaining their growth momentum".
 
-Imports rose about 8% to $74.61 billion from $69.08 billion. Because exports grew faster, the merchandise trade deficit narrowed to $30.21 billion from $33 billion a year earlier. Chemicals and farm products also contributed to the rise in exports.
+Imports rose about **8%** to $74.61 billion from $69.08 billion. Because exports grew faster, the merchandise trade deficit narrowed to $30.21 billion from $33 billion a year earlier. Chemicals and farm products also contributed to the rise in exports.
 
 ## Goods and services together
 
-Counting services, India's total exports in September were an estimated $80.75 billion, about 11% more than a year earlier, against imports of $94.05 billion. The overall trade deficit narrowed to $13.30 billion from $14.17 billion.
+Counting services, India's total exports in September were an estimated **$80.75 billion**, about 11% more than a year earlier, against imports of $94.05 billion. The overall trade deficit narrowed to $13.30 billion from $14.17 billion.
 
-For the July to September quarter, total exports were an estimated $242.6 billion, the highest ever for a second quarter and up from $233.6 billion in April to June. Overall exports grew 15.84% in the second quarter, against 11.84% in the first. "The second quarter has outperformed the first quarter of this transition year," Agrawal said.
+For the July to September quarter, total exports were an **estimated $242.6 billion**, the highest ever for a second quarter and up from $233.6 billion in April to June. Overall exports grew 15.84% in the second quarter, against 11.84% in the first. "The second quarter has outperformed the first quarter of this transition year," Agrawal said.
 
 In the first half of the financial year, April to September, merchandise exports rose 18.51% to $259.89 billion and imports 16.31% to $437.53 billion.
 

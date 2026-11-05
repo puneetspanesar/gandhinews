@@ -92,6 +92,6 @@ Rezaei said Iran would not go back to the old format of talks, pointing to three
 
 ## Riyadh hit again
 
-The war's other front kept burning. A projectile struck King Khalid International Airport in Riyadh on Sunday, hitting the same passenger terminal where 12 people were killed on Saturday. Saudi Arabia's civil aviation authority said a Pakistani resident was killed and 11 people were injured. Yemen's Iran-backed Houthis have claimed both attacks.
+The war's other front kept burning. A projectile struck King Khalid International Airport in Riyadh on Sunday, hitting the same passenger terminal where **12 people** were killed on Saturday. Saudi Arabia's civil aviation authority said a Pakistani resident was killed and 11 people were injured. Yemen's Iran-backed Houthis have claimed both attacks.
 
 Houthi military spokesman Yahya Saree urged "everyone to take our warnings seriously" about flying in Saudi airspace. Saudi Arabia, Egypt, Pakistan and Turkey said in a joint statement that the attacks were "a blatant violation of international law". Asked on Saturday whether the US would join Saudi strikes on the Houthis, Trump said: "We may. We're going to look at it."

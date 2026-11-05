@@ -39,21 +39,21 @@ verification:
     - "Analysis published Saturday morning; not previously on site."
 ---
 
-The monsoon that ended on September 30 was the driest on record for East and Northeast India. The region received 1,017.1 mm of rain against a normal of 1,367.3 mm, a shortfall of 25.6%, according to an analysis of India Meteorological Department (IMD) data by the climate communications group Climate Trends. That is the lowest total in 125 years of records, below the previous low of 1,065.7 mm in 2013.
+The monsoon that ended on September 30 was the driest on record for East and Northeast India. The region received 1,017.1 mm of rain against a normal of 1,367.3 mm, a shortfall of **25.6%**, according to an analysis of India Meteorological Department (IMD) data by the climate communications group Climate Trends. That is the lowest total in 125 years of records, below the previous low of 1,065.7 mm in 2013.
 
-India as a whole finished 13% below normal, its weakest season in a decade. The analysis links the poor rains to a developing El Niño, the periodic warming of the Pacific that tends to weaken the Indian monsoon.
+India as a whole finished **13%** below normal, its weakest season in a decade. The analysis links the poor rains to a developing El Niño, the periodic warming of the Pacific that tends to weaken the Indian monsoon.
 
 ## Where the rain failed
 
-The hills of the Northeast were hit hardest. Meghalaya, home to some of the wettest places on earth, ended the season 60% short, with 10 of its 11 districts deficient. Manipur was 46% below normal and Arunachal Pradesh 44%. On the plains, Bihar was 32% short, with 33 of its 38 districts in deficit, and Assam 28%, with 22 of 35 districts short.
+The hills of the Northeast were hit hardest. Meghalaya, home to some of the wettest places on earth, ended the season **60%** short, with 10 of its 11 districts deficient. Manipur was 46% below normal and Arunachal Pradesh 44%. On the plains, Bihar was 32% short, with 33 of its 38 districts in deficit, and Assam 28%, with 22 of 35 districts short.
 
 ```chart
 {"type":"hbar","title":"Monsoon rainfall, June to September 2026","subtitle":"% departure from normal","unit":"%","data":[{"label":"Meghalaya","value":-60,"highlight":true},{"label":"Manipur","value":-46},{"label":"Arunachal Pradesh","value":-44},{"label":"Bihar","value":-32},{"label":"Assam","value":-28},{"label":"Mizoram","value":-19},{"label":"Tripura","value":-16},{"label":"Jharkhand","value":-4},{"label":"West Bengal","value":1},{"label":"Nagaland","value":6},{"label":"Sikkim","value":9}]}
 ```
 
-Only Sikkim, Nagaland and West Bengal ended above normal. The South Peninsula also had a poor season, 24% below normal and its fourth-lowest since 1901, while central and northwest India finished close to normal.
+Only Sikkim, Nagaland and West Bengal ended above normal. The South Peninsula also had a poor season, **24%** below normal and its fourth-lowest since 1901, while central and northwest India finished close to normal.
 
-The failure is part of a longer pattern. East and Northeast India have had below-normal rain in nine of the last ten years, the only exception being 2020. The deficit was 14% in 2024 and 20% in 2025.
+The failure is part of a longer pattern. East and Northeast India have had below-normal rain in nine of the last ten years, the only exception being 2020. The deficit was **14%** in 2024 and 20% in 2025.
 
 ## Why it happened
 

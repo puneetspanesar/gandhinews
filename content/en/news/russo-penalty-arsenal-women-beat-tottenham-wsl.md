@@ -43,7 +43,7 @@ Tottenham went ahead in the 13th minute when Cathinka Tandberg headed in, but th
 
 The winner came from a scramble. Lisa Baum's shot came back off the post, and Tandberg's clearance struck the outstretched arm of Spurs' Ella Morris. Referee Phoebe Cross pointed to the spot, a decision some saw as harsh, and Russo, who has missed some big chances in recent games, sent goalkeeper Lize Kop the wrong way.
 
-"I've worked on it in training, first and foremost," Russo told BBC Sport. "It's been tough for us, there's no denying."
+"I've worked on it in training, first and foremost," Russo said Sport. "It's been tough for us, there's no denying."
 
 Slegers had made three changes, bringing in Caitlin Foord, Steph Catley and Taylor Hinds, with Stina Blackstenius, Lotte Wubben-Moy and Ona Batlle on the bench.
 

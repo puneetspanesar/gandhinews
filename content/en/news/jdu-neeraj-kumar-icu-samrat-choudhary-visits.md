@@ -36,10 +36,10 @@ verification:
     - "Hero: Wikipedia title for Neeraj Kumar uncertain; second subject Samrat Choudhary as fallback."
 ---
 
-Neeraj Kumar, the Janata Dal (United) MLC and the party's chief spokesperson, was admitted to the intensive care unit of a Patna hospital on Tuesday after a heart-related complication.
+Neeraj Kumar, the Janata Dal (United) MLC and the party's chief spokesperson, was admitted to the **intensive care unit** of a Patna hospital on Tuesday after a heart-related complication.
 
 Kumar is the JD(U)'s candidate in the Patna Graduates' constituency election to the Bihar Legislative Council. Details of his condition and treatment have not been officially disclosed.
 
-Chief Minister Samrat Choudhary went to the hospital to see him. He met Kumar, spoke to the doctors treating him about his condition and wished him a speedy recovery. Choudhary later shared a photograph of the visit on X.
+Chief Minister **Samrat Choudhary** went to the hospital to see him. He met Kumar, spoke to the doctors treating him about his condition and wished him a speedy recovery. Choudhary later shared a photograph of the visit on X.
 
 In graduates' constituencies, only registered graduates living in the area can vote. No statement from the party on whether his illness will affect its campaign was reported on Tuesday.

@@ -56,9 +56,9 @@ That is a sharp turn from earlier this month. On October 4 the city's average AQ
 
 ## A wet October
 
-The rain came from an active western disturbance over north Punjab and a cyclonic circulation over south Haryana. In the 24 hours to 8:30 am on Friday, the Ridge station recorded 25.2 mm, Lodhi Road 20 mm, Safdarjung 15.9 mm and Palam 11.2 mm.
+The rain came from an active western disturbance over north Punjab and a cyclonic circulation over south Haryana. In the 24 hours to 8:30 am on Friday, the Ridge station recorded **25.2 mm**, Lodhi Road 20 mm, Safdarjung 15.9 mm and Palam 11.2 mm.
 
-Delhi has now received 65.8 mm of rain in October, against a monthly normal of 24.2 mm, nearly three times the usual amount. Daytime temperatures fell sharply. Safdarjung's maximum on Thursday was 28.3°C, 4.9 degrees below normal and about six degrees cooler than Wednesday. Friday's minimum was 19.4°C, while the Ridge dipped to 17.7°C.
+Delhi has now received **65.8 mm** of rain in October, against a monthly normal of 24.2 mm, nearly three times the usual amount. Daytime temperatures fell sharply. Safdarjung's maximum on Thursday was 28.3°C, 4.9 degrees below normal and about six degrees cooler than Wednesday. Friday's minimum was 19.4°C, while the Ridge dipped to 17.7°C.
 
 ## Dry days ahead
 

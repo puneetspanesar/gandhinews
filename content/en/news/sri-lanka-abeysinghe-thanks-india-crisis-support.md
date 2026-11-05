@@ -46,10 +46,10 @@ Sri Lanka's Deputy Minister of Industry and Entrepreneurship Development, Chathu
 
 Speaking to reporters in New Delhi, Abeysinghe said diplomatic and financial ties between the neighbours had grown over the past few years. Both countries, he said, saw value in working together in the Indian Ocean region and in the wider Global South.
 
-He set out where Colombo wants more Indian money and expertise: manufacturing, investment, ports, energy and technology-driven modernisation. He pointed to Indian involvement in Sri Lankan projects on digitisation, ports and rural development as examples of what was already under way.
+He set out where Colombo wants more Indian money and expertise: manufacturing, investment, **ports, energy and technology**-driven modernisation. He pointed to Indian involvement in Sri Lankan projects on digitisation, ports and rural development as examples of what was already under way.
 
 The minister also made a pitch for start-ups. He urged closer links between young companies in the two countries and said Sri Lanka could learn from India's entrepreneurial ecosystem.
 
-The remarks come as Sri Lanka weighs its next step with the International Monetary Fund. About six months remain on its current bailout, and President Anura Kumara Dissanayake said this month that any new programme would have to put growth first. He also warned that the war in the Middle East could push the island's fuel import bill to about $6 billion this year.
+The remarks come as Sri Lanka weighs its next step with the International Monetary Fund. About six months remain on its current bailout, and President Anura Kumara Dissanayake said this month that any new programme would have to put growth first. He also warned that the war in the Middle East could push the island's fuel import bill to about **$6 billion** this year.
 
 Abeysinghe did not say whom he had met in New Delhi or what agreements, if any, were under discussion.

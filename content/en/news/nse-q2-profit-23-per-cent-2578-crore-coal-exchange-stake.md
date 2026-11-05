@@ -64,7 +64,7 @@ Operating profit, or EBITDA, came in at ₹3,079 crore, down 13.3% from ₹3,551
 
 ## Coal exchange stake on the block
 
-Alongside the numbers, the board **approved selling up to 40% of National Coal Exchange of India**, a wholly owned subsidiary. The stake can be sold in one or more tranches, the exchange said. It did not name buyers or a price.
+Alongside the numbers, the board approved **selling up to 40%** of National Coal Exchange of India, a wholly owned subsidiary. The stake can be sold in one or more tranches, the exchange said. It did not name buyers or a price.
 
 The results came after the close of trading. NSE shares had **ended 1.31% higher at ₹1,803** on the BSE on Tuesday, a little above the ₹1,785 issue price at which they were sold to investors. At midday the exchange was valued at about ₹4.44 lakh crore.
 

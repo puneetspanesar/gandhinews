@@ -52,7 +52,7 @@ He said YSRCP MPs were stopped in Kadapa, Punganuru and Tirupati. At nomination 
 
 ## Rolls and wards
 
-Jagan also questioned the ground rules. He said wards and divisions had been redrawn to suit the ruling coalition and the election schedule announced a day after reservations were declared. He said "the government has decided to go ahead with the polls with an unrevised voter list" even though the Special Intensive Revision had identified 46 lakh fake voters.
+Jagan also questioned the ground rules. He said wards and divisions had been redrawn to suit the ruling coalition and the election schedule announced a day after reservations were declared. He said "the government has decided to go ahead with the polls with an unrevised voter list" even though the Special Intensive Revision had identified **46 lakh** fake voters.
 
 "Time will come; all those erring will have to face the consequences," he said.
 
@@ -60,4 +60,4 @@ No response from the TDP-led government, the police or the State Election Commis
 
 ## The contest
 
-Nominations opened amid reports of violence, and the TDP has been releasing its candidate lists, with women making up 18 of the 22 names in its second list on Saturday.
+Nominations opened with reports of violence, and the TDP has been releasing its candidate lists, with women making up 18 of the **22 names** in its second list on Saturday.

@@ -54,13 +54,13 @@ verification:
     - "AI-assisted neoantigen selection from The Week only; hedged lightly."
 ---
 
-A personalised cancer vaccine designed from each patient's own tumour has cut the risk of melanoma coming back by 42% in a large late-stage trial. Dean Li, president of Merck Research Laboratories, called it "the first Phase 3 study to demonstrate a clinically meaningful improvement" in both relapse-free and metastasis-free survival.
+A personalised cancer vaccine designed from each patient's own tumour has cut the risk of melanoma coming back by **42%** in a large late-stage trial. Dean Li, president of Merck Research Laboratories, called it "the first Phase 3 study to demonstrate a clinically meaningful improvement" in both relapse-free and metastasis-free survival.
 
 The full results of INTerpath-001, a study run by Moderna and Merck, were presented on Saturday at the European Society for Medical Oncology (ESMO) Congress in Madrid, as the opening late-breaking abstract of the meeting's Presidential Symposium. They have been accepted for publication in the New England Journal of Medicine.
 
 The trial enrolled 1,137 people whose high-risk melanoma (stage IIB to IV) had been surgically removed. Two-thirds received the experimental vaccine, intismeran autogene, alongside the immunotherapy drug pembrolizumab, sold as Keytruda. The rest received Keytruda with a placebo.
 
-After a median follow-up of just over two years, 82.2% of patients on the combination were alive and free of recurrence, compared with 70.0% on Keytruda alone. The risk of the cancer spreading to distant organs fell by 38%.
+After a median follow-up of just over two years, **82.2%** of patients on the combination were alive and free of recurrence, compared with 70.0% on Keytruda alone. The risk of the cancer spreading to distant organs fell by 38%.
 
 Professor Georgina Long, medical director of Melanoma Institute Australia and the trial's principal investigator, presented the data. She said the trial "sets a new benchmark for adjuvant therapy in melanoma".
 
@@ -68,15 +68,15 @@ Professor Georgina Long, medical director of Melanoma Institute Australia and th
 
 Each dose is built for one person. Doctors sequence the tumour removed at surgery to find the mutations unique to it, and software, reported to be AI-assisted, picks up to 34 targets most likely to provoke an immune response. An mRNA vaccine encoding those targets is then manufactured to train the immune system to hunt down any cancer cells left behind.
 
-Manufacturing succeeded for more than 99% of patients in the vaccine arm. The median time to the first vaccine dose was 64 days, and patients received a median of nine doses.
+Manufacturing succeeded for more than **99%** of patients in the vaccine arm. The median time to the first vaccine dose was 64 days, and patients received a median of nine doses.
 
-The benefit did not appear straight away. For the first six months the two groups did equally well; after that, the risk of relapse or death in the vaccine group was 58% lower.
+The benefit did not appear straight away. For the first six months the two groups did equally well; after that, the risk of relapse or death in the vaccine group was **58%** lower.
 
 ## What remains uncertain
 
 Overall survival, the measure regulators and doctors watch most closely, is not yet settled. The survival figures so far lean in the vaccine's favour but are immature and did not reach statistical significance. Follow-up continues.
 
-Side effects were more common with the vaccine, mostly fever, pain at the injection site and flu-like illness, which investigators described as low grade and transient. Serious treatment-related side effects were similar in both groups, at 14.2% and 13.4%, and no death was attributed to the vaccine.
+Side effects were more common with the vaccine, mostly fever, pain at the injection site and flu-like illness, which investigators described as low grade and transient. Serious treatment-related side effects were similar in both groups, at **14.2%** and 13.4%, and no death was attributed to the vaccine.
 
 Merck and Moderna released the headline numbers on Thursday, and Moderna's shares fell more than 20% that day as investors weighed the data. Moderna chief executive Stéphane Bancel said the results "reinforce our conviction that mRNA has the potential to fundamentally change how we treat cancer."
 

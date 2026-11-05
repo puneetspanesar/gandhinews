@@ -46,9 +46,9 @@ verification:
     - "No overall year-on-year comparison for the first two days was given; only first-time shoppers (doubled) and fashion GMV (+22-25%)."
 ---
 
-Shoppers bought goods worth about ₹24,000 crore on e-commerce platforms in the first two days of this year's festive sales, according to estimates from Redseer Strategy Consultants released on Monday.
+Shoppers bought goods worth about **₹24,000 crore** on e-commerce platforms in the first two days of this year's festive sales, according to estimates from Redseer Strategy Consultants released on Monday.
 
-About 6 to 6.5 crore people placed 8-9 crore orders across platforms including Amazon, Flipkart, Meesho and Ajio. Sales value ran at about six times a normal day, and the number of orders at about 14 times. First-time shoppers doubled from last year.
+About 6 to **6.5 crore people** placed 8-9 crore orders across platforms including Amazon, Flipkart, Meesho and Ajio. Sales value ran at about six times a normal day, and the number of orders at about 14 times. First-time shoppers doubled from last year.
 
 ## Phones first, fashion growing
 
@@ -64,4 +64,4 @@ About two-thirds of shoppers on the opening day came from Tier 2 towns and rural
 
 "We expect 100 million shoppers to shop in the entire 11-day first leg," Mr Dalal said.
 
-The strong start comes even as retail inflation rose to 5.54% in September, data released on Monday showed.
+The strong start comes even as retail inflation rose to **5.54%** in September, data released on Monday showed.

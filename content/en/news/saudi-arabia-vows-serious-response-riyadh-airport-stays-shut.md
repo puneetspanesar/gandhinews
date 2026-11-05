@@ -66,7 +66,7 @@ Saudi Arabia's energy minister promised a firm answer to the Houthi attacks on t
 
 The General Authority of Civil Aviation extended the suspension of operations at King Khalid International Airport, saying it needed to complete checks on the safety and operational readiness of its facilities. Almost every scheduled flight was cancelled on Sunday, and Riyadh schools have moved to online classes.
 
-A missile struck a passenger terminal on Saturday, killing 13 people and injuring more than 300. The dead include an Indian national who later died of injuries. Closed-circuit footage released by Saudi authorities showed pilgrims waiting in departure lounges moments before a flash tore through the building. A second strike on Sunday evening hit Terminal 4, killing one person, a Pakistani resident, and wounding 11.
+A missile struck a passenger terminal on Saturday, killing **13 people** and injuring more than 300. The dead include an Indian national who later died of injuries. Closed-circuit footage released by Saudi authorities showed pilgrims waiting in departure lounges moments before a flash tore through the building. A second strike on Sunday evening hit Terminal 4, killing one person, a Pakistani resident, and wounding 11.
 
 The Saudi-led coalition in Yemen called Saturday's attack a "full-fledged war crime" and said it would "respond decisively". The Houthis, who are backed by Iran, have called Saudi transport hubs "a theatre of operations for our forces" and say they will keep hitting them. They also said on Monday that Saudi air strikes had hit two districts of Sanaa around midnight, killing one person. Saudi Arabia did not confirm the strikes.
 

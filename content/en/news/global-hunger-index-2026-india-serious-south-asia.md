@@ -55,7 +55,7 @@ Pakistan, at 25.5, and Afghanistan, at 28.6, are also rated serious. Nepal (14.5
 
 ## Bangladesh slows down
 
-Bangladesh ranks 84th of 122 countries with a score of 19.2, rated moderate. The report called its long-run gains "a generational achievement", but progress has stalled: the score has improved only about 4% since 2018, after falling by more than 42% between 2000 and 2018. Child wasting, the share of children too thin for their height, has climbed to 12.9%, its highest since 2000. Stunting has dropped to 24%.
+Bangladesh ranks 84th of 122 countries with a score of 19.2, rated moderate. The report called its long-run gains "a generational achievement", but progress has stalled: the score has improved only about **4%** since 2018, after falling by more than 42% between 2000 and 2018. Child wasting, the share of children too thin for their height, has climbed to 12.9%, its highest since 2000. Stunting has dropped to 24%.
 
 ## The worst crises
 
