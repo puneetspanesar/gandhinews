@@ -22,7 +22,8 @@ Pictures
 12. Credits come from the photo's page, cleaned (gnrules.clean_credit). No "{{", "&amp;", licence boilerplate or uploader phrases.
 
 Homepage (refresh_home.py does the mechanics, check_fresh.py is the counter check)
-13. The lead is the biggest story in India right now, under 8 hours old, never a markets story, with a real photo.
+13. EVERY HEADLINE CHANGES EVERY HOUR: the lead, the live band, the stories beside the lead, the top stories and the briefing are all different stories from the previous hour's homepage. Only nation- or world-changing news may stay, and only as an update: either a new development story (its own id), or the same story with new facts and a new `updated:` time, passed as `refresh_home.py --critical <id>`. refresh_home.py rotates the headlines itself; check_fresh.py checks it against main's homepage of the previous hour in git.
+13a. The lead is the biggest story in India right now, under 8 hours old, never a markets story, with a real photo.
 14. Top headlines: news from the last 24 hours, at most ONE markets story, at most TWO per section in the top eight, never two stories on the same subject side by side, no photo twice.
 15. The site visibly changes every hour: new stories, a refreshed homepage, current markets figures during market hours.
 16. No empty space, empty slot, camera placeholder, grey text, pill, gradient or shadow anywhere (check_layout.cjs).

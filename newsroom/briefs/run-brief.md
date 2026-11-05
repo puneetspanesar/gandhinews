@@ -17,6 +17,7 @@ Use at most the WebSearch calls window.txt allows. Prefer WebFetch: section page
 ## Volume rules
 - Before each story: check /home/claude/gn-work/claims.txt and `ls content/en/news content/en/explainer`. Skip anything claimed or already published (unless your desk is told to update it). Then claim it: `echo "slug | DESK | topic" >> /home/claude/gn-work/claims.txt`.
 - Only events inside the window in window.txt (judged by the source's own time stamp). Check `ls -t content/en/news | head -150` so you never repeat a story; a real new development of an older story is a new story with a new id.
+- A story about something that happens in the next 7 days (a match, a vote, a hearing, a release, a counting day) carries `upcoming: {date: YYYY-MM-DD, en: "<one line>", hi: "<one line in Hindi>"}` in both language files; the homepage's week ahead is built from these.
 - `published:` is the time you write it (`TZ=Asia/Kolkata date -Iseconds`), never a time in the past or the future.
 - Lengths and number of stories: as window.txt and your DESK line say.
 - Dates in text: English "November 5, 2026", Hindi "5 नवंबर 2026". No em dashes. Bold key phrases. A figure tied to a clock time says the time ("30.5% by 1 pm") and is the latest figure available when you write.
