@@ -18,7 +18,7 @@ hero:
   need: "नई दिल्ली में अशोक रोड पर चुनाव आयोग का मुख्यालय निर्वाचन सदन"
   suggested_source: "Nirvachan Sadan"
   subjects: ["Nirvachan Sadan"]
-  alt: "नई दिल्ली में भारत निर्वाचन आयोग का मुख्यालय, निर्वाचन सदन"
+  alt: "नई दिल्ली में भारतीय चुनाव आयोग का मुख्यालय, निर्वाचन सदन"
   overlay:
     value: "पूर्व सीजेआई करें आयोग की जांच?"
 related: [priyanka-chaturvedi-ec-silence-commissioners-dissent-cec-removal, gaurav-gogoi-ec-hollowed-out-gyanesh-kumar-must-go, supreme-court-sir-cannot-delay-local-body-polls]

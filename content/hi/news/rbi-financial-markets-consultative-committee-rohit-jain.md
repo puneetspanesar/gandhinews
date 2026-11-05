@@ -4,7 +4,7 @@ lang: hi
 type: news
 translation_of: rbi-financial-markets-consultative-committee-rohit-jain
 section: economy
-format_label: "अर्थव्यवस्था / RBI"
+format_label: "अर्थव्यवस्था / आरबीआई"
 topics: []
 title: "RBI ने डिप्टी गवर्नर रोहित जैन की अध्यक्षता में बाज़ार समिति बनाई, बैंकर और पूर्व सेबी सदस्य अनंत नारायण शामिल"
 standfirst: "वित्तीय बाज़ारों के लिए तकनीकी सलाहकार समिति मुद्रा, बॉन्ड और विदेशी मुद्रा बाज़ार पर कारोबारियों, बैंकों और बाज़ार ढांचे से केंद्रीय बैंक का औपचारिक मंच होगी।"

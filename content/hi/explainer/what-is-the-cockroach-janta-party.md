@@ -11,9 +11,9 @@ standfirst: "मई 2026 के मध्य में शुरू हुआ �
 published: 2026-10-11T16:45:00+05:30
 shortAnswer: "कॉकरोच जनता पार्टी (सीजेपी) एक युवा प्रदर्शन आंदोलन है, जिसे अभिजीत दिपके ने मई 2026 में ऑनलाइन शुरू किया, जब भारत के मुख्य न्यायाधीश की एक टिप्पणी में कुछ युवाओं की तुलना कॉकरोच से की गई। यह पंजीकृत राजनीतिक दल नहीं है। नीट पेपर लीक पर इसके प्रदर्शनों के बाद जुलाई में शिक्षा मंत्री धर्मेंद्र प्रधान ने इस्तीफा दिया, और सितंबर के आखिर से यह मुख्य चुनाव आयुक्त ज्ञानेश कुमार के इस्तीफे की मांग कर रहा है।"
 hero:
-  need: "नई दिल्ली में भारत निर्वाचन आयोग का मुख्यालय"
+  need: "नई दिल्ली में भारतीय चुनाव आयोग का मुख्यालय"
   suggested_source: "Wikimedia Commons"
-  alt: "नई दिल्ली में भारत निर्वाचन आयोग का मुख्यालय"
+  alt: "नई दिल्ली में भारतीय चुनाव आयोग का मुख्यालय"
 related: [supreme-court-orders-metro-internet-restored-after-cjp-protest-detentions, election-commission-dissent-report-move-to-remove-cec, how-chief-election-commissioner-is-appointed-removed, special-intensive-revision-how-to-check-your-name, election-commission, electoral-rolls-sir]
 seo:
   description: "कॉकरोच जनता पार्टी (सीजेपी) क्या है: सीजेआई की टिप्पणी से शुरुआत, नेता कौन हैं, नीट आंदोलन में क्या हासिल हुआ और यह मुख्य चुनाव आयुक्त का इस्तीफा क्यों मांग रही है।"

@@ -12,7 +12,7 @@ published: 2026-10-11T12:00:00+05:30
 hero:
   need: "निर्वाचन सदन का बाहरी हिस्सा, या मतदाता की उंगली पर अमिट स्याही का निशान"
   suggested_source: "PIB Photo / Wikimedia Commons 'Nirvachan Sadan'"
-  alt: "नई दिल्ली में भारत निर्वाचन आयोग का मुख्यालय, निर्वाचन सदन"
+  alt: "नई दिल्ली में भारतीय चुनाव आयोग का मुख्यालय, निर्वाचन सदन"
   overlay:
     value: "असहमति सार्वजनिक हो"
 related: [election-commission-dissent-report-move-to-remove-cec, how-chief-election-commissioner-is-appointed-removed, election-commission, sir-phase-three-draft-rolls-names-dropped-by-state]
