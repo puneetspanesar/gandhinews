@@ -1,0 +1,13 @@
+{
+ "run": "stall-20",
+ "start": "2026-11-05T20:54:06+05:30",
+ "end": "2026-11-05T21:08:31+05:30",
+ "summary": "Stale 1 pm Andhra story out of the states section; refresh_home skips stale clock figures in section lists",
+ "new": [],
+ "held": [],
+ "editor": null,
+ "editor_fail": null,
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7"
+}
