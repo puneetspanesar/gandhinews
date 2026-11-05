@@ -4,8 +4,9 @@ Reads hero.subjects / hero.suggested_source from each story's front matter, and 
 Writes /home/claude/gn-work/plan.json, vq.json and scripts/photo-queries-<tag><n>.json (about 45 queries each).
 Usage: python3 make_plan.py <tag>      e.g. tag 'a' -> parts a0, a1, a2 ...
 Prints the part names to pass to find-photos.yml."""
+import os as _gn_os; GN_ROOT = _gn_os.environ.get('GN_ROOT') or _gn_os.path.dirname(_gn_os.path.dirname(_gn_os.path.dirname(_gn_os.path.abspath(__file__)))) + '/'  # repo root (works in any clone)
 import json, os, re, sys, glob, yaml
-R = '/home/claude/gandhinews/'; W = '/home/claude/gn-work/'
+R = GN_ROOT + ''; W = (_gn_os.environ.get('GN_WORK') or '/home/claude/gn-work/')
 tag = sys.argv[1] if len(sys.argv) > 1 else 'a'
 M = json.load(open(R + 'content/photos.map.json'))
 have = set(M) | {p['articleId'] for p in json.load(open(R + 'content/photos.json'))}

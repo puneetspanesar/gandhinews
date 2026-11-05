@@ -1,9 +1,10 @@
+import os as _gn_os; GN_ROOT = _gn_os.environ.get('GN_ROOT') or _gn_os.path.dirname(_gn_os.path.dirname(_gn_os.path.dirname(_gn_os.path.abspath(__file__)))) + '/'  # repo root (works in any clone)
 import json,sys,os
 from PIL import Image,ImageDraw,ImageFont
 base=sys.argv[1]; out=sys.argv[2]; tag=sys.argv[3]
 c=json.load(open(sys.argv[4] if len(sys.argv)>4 else f'{base}/photo-candidates/candidates.json'))
 J={}
-used=set(str(p['sourceUrl']).split('/')[-1] for p in json.load(open('/home/claude/gandhinews/content/photos.json')))
+used=set(str(p['sourceUrl']).split('/')[-1] for p in json.load(open(GN_ROOT + 'content/photos.json')))
 keys=[k for k in c if c[k]['candidates']]
 F=ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf',15)
 per=10

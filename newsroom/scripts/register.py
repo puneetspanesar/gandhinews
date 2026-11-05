@@ -2,8 +2,9 @@
 Empty/None panels are dropped. Alt text: the story's own hero.alt (EN) and Hindi twin hero.alt when the
 final panels match the planned subjects; otherwise /home/claude/gn-work/alts-override.json must give
 {"story-id": ["English alt", "Hindi alt"]}. Stops and lists ids that still need alt text."""
+import os as _gn_os; GN_ROOT = _gn_os.environ.get('GN_ROOT') or _gn_os.path.dirname(_gn_os.path.dirname(_gn_os.path.dirname(_gn_os.path.abspath(__file__)))) + '/'  # repo root (works in any clone)
 import json, os, sys, yaml
-R = '/home/claude/gandhinews/'; W = '/home/claude/gn-work/'
+R = GN_ROOT + ''; W = (_gn_os.environ.get('GN_WORK') or '/home/claude/gn-work/')
 picks = json.load(open(W + 'picks.json')); plan = json.load(open(W + 'plan.json'))
 over = json.load(open(W + 'alts-override.json')) if os.path.exists(W + 'alts-override.json') else {}
 import re

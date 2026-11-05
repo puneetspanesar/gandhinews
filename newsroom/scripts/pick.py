@@ -2,10 +2,11 @@
 Reads plan.json, vq.json, every pcv*/photo-candidates/candidates.json in gn-work. Writes picks.json.
 A panel's own query is tried first, then its 'alts' queries, then any extra pools listed in extra.json
 ({panel query: [extra query text, ...]}) from a later search round."""
+import os as _gn_os; GN_ROOT = _gn_os.environ.get('GN_ROOT') or _gn_os.path.dirname(_gn_os.path.dirname(_gn_os.path.dirname(_gn_os.path.abspath(__file__)))) + '/'  # repo root (works in any clone)
 import json, re, os, glob, urllib.parse
 import cv2, numpy as np
 from PIL import Image
-W = '/home/claude/gn-work/'
+W = (_gn_os.environ.get('GN_WORK') or '/home/claude/gn-work/')
 plan = json.load(open(W + 'plan.json')); vq = json.load(open(W + 'vq.json'))
 extra = json.load(open(W + 'extra.json')) if os.path.exists(W + 'extra.json') else {}
 pools = {}  # clean query text -> [(dir, key, candidates)]
@@ -15,11 +16,11 @@ for f in sorted(glob.glob(W + 'pcv*/photo-candidates/candidates.json')):
         q = v.get('query', vq.get(k, '')).split('||')[0]
         pools.setdefault(q, []).append((d, k, v['candidates']))
 fileof = lambda u: urllib.parse.unquote(re.sub(r'/\d+px-[^/]+$', '', u.split('?')[0]).replace('/thumb/', '/')).split('/')[-1].lower()
-P = json.load(open('/home/claude/gandhinews/content/photos.json'))
+P = json.load(open(GN_ROOT + 'content/photos.json'))
 # Reuse rule: a photo is off limits only while another story that used it is less than 7 days old.
 import datetime as _dt, glob as _g
 _pub = {}
-for _f in _g.glob('/home/claude/gandhinews/content/en/*/*.md'):
+for _f in _g.glob(GN_ROOT + 'content/en/*/*.md'):
     _m = re.search(r'\npublished:\s*["\']?([0-9T:+\-.]+)', open(_f).read())
     if _m:
         try: _pub[os.path.basename(_f)[:-3]] = _dt.datetime.fromisoformat(_m.group(1))

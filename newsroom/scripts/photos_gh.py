@@ -8,11 +8,12 @@
       parts cx-* included), waits, and unpacks them into /home/claude/gn-work/raw-<tag>/. Prints the folder.
 Exits non-zero (with the reason) when the workflow fails or takes longer than its time limit.
 """
+import os as _gn_os; GN_ROOT = _gn_os.environ.get('GN_ROOT') or _gn_os.path.dirname(_gn_os.path.dirname(_gn_os.path.dirname(_gn_os.path.abspath(__file__)))) + '/'  # repo root (works in any clone)
 import json, subprocess, sys, time, os, shutil, tarfile, io
 
 REPO = 'puneetspanesar/gandhinews'
-R = '/home/claude/gandhinews/'
-W = '/home/claude/gn-work/'
+R = GN_ROOT + ''
+W = (_gn_os.environ.get('GN_WORK') or '/home/claude/gn-work/')
 
 
 def sh(*a, check=True):
