@@ -4,7 +4,7 @@
 //   every English story, explainer, editorial and fact check has a Hindi twin, and both pages were built
 //   every story, explainer and editorial has its main picture, and the picture files exist
 //   no template junk on any page ({{, &amp;amp;, undefined, NaN, [object Object], Invalid Date)
-//   no em dash in the title, standfirst or text of anything published in the last 48 hours
+//   no em dash, and in English no day-month date, in the title, standfirst or text of anything published in the last 48 hours
 //   the homepage shows its lead, in English and Hindi
 // Then writes dist/build.json ({sha, built}) so anyone can see which commit is live.
 import fs from 'node:fs';

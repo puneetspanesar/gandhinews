@@ -20,8 +20,11 @@ lic = str(c.get('licence') or '')
 if re.search(r'\b(nc|nd)\b', lic.lower().replace('godl-india', '')): sys.exit(f'licence {lic} is not allowed')
 if (c.get('width') or 0) < 900: sys.exit(f'{c.get("width")} px wide: too small for a main picture')
 os.chdir(GN_ROOT)
+import fcntl
+_lk = open('content/.photos.lock', 'w'); fcntl.flock(_lk, fcntl.LOCK_EX)  # never two writers of photos.json at once
 P = json.load(open('content/photos.json')); M = json.load(open('content/photos.map.json'))
-fileof = lambda u: str(u).split('?')[0].split('/')[-1].lower()
+from urllib.parse import unquote
+fileof = lambda u: unquote(str(u).split('?')[0].replace('/thumb/', '/')).split('/')[-1].lower() if 'px-' not in str(u).split('/')[-1] else unquote(str(u).split('/')[-2]).lower()
 IST = dt.timezone(dt.timedelta(hours=5, minutes=30)); now = dt.datetime.now(IST)
 pub = {}
 for f in glob.glob('content/en/*/*.md'):

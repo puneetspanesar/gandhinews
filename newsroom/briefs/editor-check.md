@@ -29,7 +29,13 @@ The homepage (screenshots):
 12. Nothing stale at the top: nothing older than about 24 hours in the top headlines, no previews of things that already happened.
 13. It looks like a serious national news site: no repeated pictures side by side, no obviously mismatched picture and headline, nothing that looks machine-made or lazy.
 
-## Reply format (nothing else)
-First line: PASS or FAIL.
-Then one line per problem: `FIX | <story id or "homepage"> | <what is wrong> | <what to do>`.
-Be concrete ("main picture is a map of the Gulf; use Donald Trump + Qeshm Island photo"), never vague.
+14. Text: no outlet named in a story, no em dash, English dates as "November 5, 2026", key phrases bolded, the Hindi twin says the same thing as the English (same figures, same names).
+
+## Your verdict: write it to a file, then reply
+Write /home/claude/gn-work/editor.json with the Write tool, exactly this shape:
+```
+{"verdict": "PASS" or "FAIL",
+ "fail": [{"id": "<story id>", "kind": "picture" | "facts" | "other", "why": "<what is wrong>", "fix": "<what to do>"}],
+ "homepage": "ok" or "<what is wrong with the homepage and what to do>"}
+```
+One entry per failing story (an empty list when nothing failed). A failing story is taken off the site by the run until it is fixed, so list only real failures, but list every one: the owner, not you, will otherwise find it. Be concrete ("main picture is a map of the Gulf; use a photo of Donald Trump"). Then reply with the same content as plain lines: the verdict, then `FIX | <id or homepage> | <what is wrong> | <what to do>` per problem.
