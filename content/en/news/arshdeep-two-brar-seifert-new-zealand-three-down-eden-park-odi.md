@@ -69,7 +69,7 @@ Shubman Gill chose to bowl after a rain delay that pushed the toss back by about
 
 ## Seifert falls after a quick start
 
-Seifert had kept New Zealand moving. He was 22 not out when the hosts reached **44 for 2 after nine overs**, with Daryl Mitchell on 4, and he hit Brar for six soon after. Brar had the last word: Seifert picked out **Ruturaj Gaikwad**, giving the young seamer his first wicket. Live listings had Brar on **1 for 19** with Mitchell on 19 and Tom Latham on 3 at the crease.
+Seifert had kept New Zealand moving. He was 22 not out when the hosts reached **44 for 2 after nine overs**, with Daryl Mitchell on 4, and he hit Brar for six soon after. Brar had the last word: Seifert picked out Ruturaj Gaikwad, giving the young seamer his first wicket. Live listings had Brar on 1 for 19 with Mitchell on 19 and Tom Latham on 3 at the crease.
 
 Anshul Kamboj shared the new ball duties with the two left-armers as India rotated their seamers on a ground with short straight boundaries.
 

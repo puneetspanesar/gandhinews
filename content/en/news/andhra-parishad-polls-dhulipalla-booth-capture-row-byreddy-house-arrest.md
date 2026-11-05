@@ -64,7 +64,7 @@ Tempers ran high at the village shortly after 11 am. Neither the police nor the 
 
 Earlier, at about 10:40 am, police **kept YSRCP leader Byreddy Siddharth under house arrest** during the polls. The party had already said that former MP Gorantla Madhav was placed under house arrest in Anantapur, and has accused TDP workers and the local police of intimidation and obstruction since polling began.
 
-In Tirupati rural, a visit by former YSRCP MLA **Chevireddy Bhaskar Reddy** to a polling booth at Mangalam **triggered tension for a while** around 11.20 am before voting resumed.
+In Tirupati rural, a visit by former YSRCP MLA **Chevireddy Bhaskar Reddy** to a polling booth at Mangalam triggered tension for a while around 11.20 am before voting resumed.
 
 
 The new flashpoints follow the alleged hurling of petrol bombs near a booth in Erripalle, Pulivendula, and a clash between YSRCP workers and police in Gurajala earlier in the morning. Turnout stood at **11.71% by 10 am**; the State Election Commission had not released a later statewide figure by 12.45 pm.

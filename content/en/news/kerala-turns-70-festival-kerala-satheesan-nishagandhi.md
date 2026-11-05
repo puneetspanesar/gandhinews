@@ -55,7 +55,7 @@ verification:
     - "No overnight statement from the CM or Governor found before 6 am; PM's greetings not yet seen."
 ---
 
-Keralam turned 70 on November 1. The state was formed on November 1, 1956, and this year's Kerala Piravi is being marked with **a festival meant to carry the state to the rest of India**.
+Keralam turned 70 on November 1. The state was formed on November 1, 1956, and this year's Kerala Piravi is being marked with **a festival meant to carry the state** to the rest of India.
 
 Chief Minister V D Satheesan will open the state-level celebration at **Nishagandhi Auditorium in Thiruvananthapuram at 4 pm**. Health Minister K Muraleedharan will preside, and Chief Secretary Biswanath Sinha will give the welcome address. Ministers, officials, artists, cultural figures and sportspersons have been invited. The government says the festival will showcase the state's cultural heritage, art traditions, sporting achievements and social progress.
 

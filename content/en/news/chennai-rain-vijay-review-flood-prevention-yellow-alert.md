@@ -10,7 +10,7 @@ standfirst: "After a Saturday night downpour flooded 35 locations in the city, t
 published: 2026-10-18T21:05:00+05:30
 location: Chennai
 keyPoints:
-  - "North Chennai received **6 cm to 10 cm of rain in under an hour** on Saturday night."
+  - "North Chennai received **6 cm to 10 cm of rain** in under an hour on Saturday night."
   - "Waterlogging was reported at **35 locations** across the city."
   - "The IMD has a **yellow alert for 17 districts** until October 23."
 hero:

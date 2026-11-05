@@ -10,7 +10,7 @@ standfirst: "Beijing froze the ministers' assets in China and barred them from e
 published: 2026-10-13T04:00:00+05:30
 location: Beijing
 keyPoints:
-  - "China sanctioned **Belize's foreign minister Francis Fonseca and Paraguay's ICT minister Gustavo Villate**."
+  - "China sanctioned Belize's foreign minister **Francis Fonseca** and Paraguay's ICT minister Gustavo Villate."
   - "The measures include **asset freezes, entry bans** and a ban on Chinese dealings with the two men."
   - "Taiwan's defence ministry is **monitoring Chinese live-fire drills** in five coastal zones this week."
 hero:

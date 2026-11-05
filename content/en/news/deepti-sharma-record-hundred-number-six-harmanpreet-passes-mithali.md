@@ -10,7 +10,7 @@ standfirst: "Her 83-ball century against Zimbabwe was the fifth fastest by an In
 published: 2026-10-25T22:30:00+05:30
 location: Vadodara
 keyPoints:
-  - "Deepti Sharma's unbeaten 106 was the **first ODI hundred by an Indian woman batting at six or lower**."
+  - "Deepti Sharma's unbeaten 106 was the **first ODI hundred by an Indian woman** batting at six or lower."
   - "Harmanpreet Kaur's 126 was her **eighth ODI century**, one more than Mithali Raj."
   - "Vaishnavi Sharma took **four wickets in her second ODI**."
 hero:

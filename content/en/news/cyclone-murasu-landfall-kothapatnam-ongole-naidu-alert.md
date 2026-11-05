@@ -55,7 +55,7 @@ verification:
 
 Severe Cyclonic Storm Murasu **began crossing the Andhra Pradesh coast** before dawn on Tuesday. The India Meteorological Department (IMD) said the eye of the storm had touched the south Andhra coast and part of its wall cloud, the ring of the fiercest winds and rain, had moved onto land.
 
-The storm is coming ashore near Kothapatnam, close to Ongole in Prakasam district. The IMD expected the landfall to take about two more hours, with **gale winds of 100 to 110 km/h, gusting to 120 km/h**, along and off the coast into the morning. Doppler radars at Chennai and Machilipatnam are tracking it.
+The storm is coming ashore near Kothapatnam, close to Ongole in Prakasam district. The IMD expected the landfall to take about two more hours, with **gale winds of 100 to 110 km/h**, gusting to 120 km/h, along and off the coast into the morning. Doppler radars at Chennai and Machilipatnam are tracking it.
 
 Heavy rain and strong winds lashed Kothapatnam beach in the early hours. Ongole had moderate rain, while Nellore to the south had only light drizzle.
 

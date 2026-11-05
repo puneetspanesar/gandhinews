@@ -10,7 +10,7 @@ standfirst: "Notice went to the Election Commission and all three commissioners.
 published: 2026-10-15T14:15:00+05:30
 location: New Delhi
 keyPoints:
-  - "The court issued notice to **CEC Gyanesh Kumar and Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi**."
+  - "The court issued notice to **CEC Gyanesh Kumar** and Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi."
   - "The plea was **tagged with the pending petitions** challenging the SIR in various states."
   - "The bench said it would ask **one of the petitioners about his conduct**, and entertained his plea provisionally."
 hero:

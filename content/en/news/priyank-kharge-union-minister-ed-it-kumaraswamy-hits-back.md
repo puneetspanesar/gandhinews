@@ -43,7 +43,7 @@ verification:
     - "Details of the KPSC probe (who is accused, which recruitment) not in source; kept general. Sting operation on Siddaramaiah mentioned in source as part of the wider row; background from our earlier stories (siddaramaiah-court-bars-sting-videos..., mb-patil-rejects-kumaraswamy-honda-exit-claim-narasapura)."
 ---
 
-Karnataka Home Minister Priyank Kharge on Monday accused an unnamed Union minister of **pressing the Modi government to turn the tax and enforcement agencies** on him and his Cabinet colleagues, setting off a fresh round in the bitter feud between the state's Congress government and the JD(S).
+Karnataka Home Minister Priyank Kharge on Monday accused an unnamed Union minister of pressing the Modi government to **turn the tax and enforcement agencies** on him and his Cabinet colleagues, setting off a fresh round in the bitter feud between the state's Congress government and the JD(S).
 
 In a post on X, Kharge wrote that "a union minister is desperately pressuring Modi Sarkar to weaponise the IT and ED", and was "using the KPSC investigation as political cover". The probe he referred to concerns alleged irregularities in recruitment by the Karnataka Public Service Commission.
 

@@ -53,7 +53,7 @@ verification:
     - "Sood: single source (Aaj Tak), Hindi; his remarks are paraphrased plus the one headline quote, translated. Aaj Tak calls him a Delhi government minister; party not stated on page (he is BJP, Delhi minister since 2025). CTI appeal to Sonia Gandhi: India TV live 07:55 IST."
 ---
 
-Union Health Minister **J P Nadda called the INDIA bloc's Ramlila Maidan rally an "anarchy model"** on Sunday afternoon, accusing Rahul Gandhi and the Congress of serving a vested political agenda as opposition leaders gathered in central Delhi to demand the resignation of Chief Election Commissioner Gyanesh Kumar.
+Union Health Minister J P Nadda called the INDIA bloc's Ramlila Maidan rally an **"anarchy model"** on Sunday afternoon, accusing Rahul Gandhi and the Congress of serving a vested political agenda as opposition leaders gathered in central Delhi to demand the resignation of Chief Election Commissioner Gyanesh Kumar.
 
 "What is unfolding today at Ramlila Maidan is not an act of respect for democracy," the former BJP president said, **dismissing the gathering as a conspiracy**. He called it "a calculated conspiracy to plunge the nation into anarchy" in the name of democracy, and "a foolish, orchestrated drama staged by those who have been defeated and repeatedly rejected by the people".
 
@@ -71,6 +71,6 @@ Nadda also returned to the BJP's main line of attack of the day, the date. "Nove
 
 ## Delhi minister joins in
 
-The attack widened after 2 pm. Delhi minister **Ashish Sood said the Congress was holding the rally to push the country into chaos**, and pointed to 1984 as an example of disorder engineered by a government. He said his side would hold rallies of its own to make young people aware, and criticised Rahul Gandhi for showing pictures of unrest in France, Nepal and Sri Lanka.
+The attack widened after 2 pm. Delhi minister Ashish Sood said the Congress was holding the rally to **push the country into chaos**, and pointed to 1984 as an example of disorder engineered by a government. He said his side would hold rallies of its own to make young people aware, and criticised Rahul Gandhi for showing pictures of unrest in France, Nepal and Sri Lanka.
 
 The opposition has called the rally **"Vote Bachao, Desh Bachao"** and says the Special Intensive Revision of electoral rolls has struck genuine voters off the lists. Leaders including Rahul Gandhi, Mamata Banerjee, Akhilesh Yadav, Tejashwi Yadav and Farooq Abdullah marched to the ground from Minto Road. Delhi Police have told the organisers to wrap up by 5 pm.

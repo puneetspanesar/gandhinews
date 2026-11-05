@@ -71,4 +71,4 @@ It follows a smaller sale only weeks ago. On September 10 Pandit sold **2% of th
 {"n":2,"subject":"SEBI Bhavan","caption":"SEBI's headquarters in Mumbai. The regulator waived the 12-week gap between the promoter's two sales.","alt":"SEBI Bhavan, headquarters of the Securities and Exchange Board of India"}
 ```
 
-At least **25% of the offer is reserved for mutual funds and insurers**, and 10% for retail investors, who may bid at the cut-off price. Trades will be settled one by one, with 100% margin paid up front. The seller can withdraw the offer if there is not enough demand at or above the floor price.
+At least **25% of the offer** is reserved for mutual funds and insurers, and 10% for retail investors, who may bid at the cut-off price. Trades will be settled one by one, with 100% margin paid up front. The seller can withdraw the offer if there is not enough demand at or above the floor price.

@@ -12,7 +12,7 @@ location: New Delhi
 keyPoints:
   - "Anita Anand travels to **India and the UAE from October 13 to 16**."
   - "Her talks with S. Jaishankar will be the pair's **11th meeting since September 2025**."
-  - "India and Canada are negotiating a **trade deal they aim to finish by the end of 2026**."
+  - "India and Canada are negotiating a trade deal they aim to finish **by the end of 2026**."
 hero:
   need: "Canadian Foreign Minister Anita Anand, ideally at a press event or bilateral meeting"
   suggested_source: "Anita Anand"

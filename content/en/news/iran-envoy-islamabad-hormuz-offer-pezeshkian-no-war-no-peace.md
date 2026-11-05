@@ -10,7 +10,7 @@ standfirst: "Tehran's ambassador in Islamabad said the offer went with Field Mar
 published: 2026-10-25T01:10:00+05:30
 location: Islamabad
 keyPoints:
-  - "Iran's envoy said Tehran would **reopen the Strait of Hormuz if the US lifted its naval blockade**."
+  - "Iran's envoy said Tehran would **reopen the Strait of Hormuz** if the US lifted its naval blockade."
   - "The offer was passed on during **Asim Munir's visit to Tehran**, he said, and Trump rejected it."
   - "Pezeshkian said Iran must get out of the **\"no war, no peace\" situation**."
 hero:

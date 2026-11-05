@@ -10,7 +10,7 @@ standfirst: "Lawyers in Leh and Kargil will be able to argue before the Supreme 
 published: 2026-10-18T18:00:00+05:30
 location: Leh
 keyPoints:
-  - "Chief Justice Surya Kant inaugurated the **Ladakh Bench of the High Court of Jammu and Kashmir and Ladakh** in Leh on Sunday."
+  - "Chief Justice Surya Kant inaugurated the **Ladakh Bench of the High Court** of Jammu and Kashmir and Ladakh in Leh on Sunday."
   - "All Supreme Court matters from Ladakh will be **listed on a single day** and heard by video link."
   - "The bench's first sittings, from **October 21 to 23**, already have 105 cases listed."
 hero:

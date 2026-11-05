@@ -57,7 +57,7 @@ In the Senate, Democrats have **flipped at least six Republican seats**, among t
 
 ## Prices on voters' minds
 
-The economy decided much of the vote. About **4 in 10 voters named it as their most important issue**, according to AP polling, and most of them pointed to high petrol and grocery prices, which climbed after the US launched a war on Iran in February.
+The economy decided much of the vote. About **4 in 10 voters** named it as their most important issue, according to AP polling, and most of them pointed to high petrol and grocery prices, which climbed after the US launched a war on Iran in February.
 
 Ossoff spoke to that mood in Atlanta on election night. "Let tonight's results give you courage that the first light of dawn is on the horizon," he told supporters.
 

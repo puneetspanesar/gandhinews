@@ -64,7 +64,7 @@ verification:
 
 London shares **ended Monday higher**, as a slump in oil on hopes of a deal to end the war with Iran lifted airlines and housebuilders and pulled down the big oil producers.
 
-The FTSE 100 **closed up 31.55 points, or 0.3%, at 10,761.33**. The mid-cap FTSE 250 did much better, **rising 1.4% to 24,795.85**. In Paris the CAC 40 gained 1%, and Frankfurt's DAX rose 0.6%.
+The FTSE 100 **closed up 31.55 points, or 0.3%, at 10,761.33**. The mid-cap FTSE 250 did much better, rising 1.4% to 24,795.85. In Paris the CAC 40 gained 1%, and Frankfurt's DAX rose 0.6%.
 
 Oil set the mood. Brent crude was trading at **about $105.09 a barrel**, down from $117.61 on Friday, after signals that Washington and Tehran could restart talks. Iran has said it could reopen the Strait of Hormuz within two days if the US agrees to end the war on all fronts.
 

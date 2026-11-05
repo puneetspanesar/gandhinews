@@ -11,7 +11,7 @@ published: 2026-11-03T19:05:00+05:30
 location: Kathmandu
 keyPoints:
   - "**Sudhakar Dalela arrived in Kathmandu** on Tuesday to take up his post as India's ambassador."
-  - "He was **India's ambassador to Bhutan for three years**."
+  - "He was India's **ambassador to Bhutan** for three years."
   - "Foreign Secretary **Vikram Misri begins a two-day Nepal visit** on Wednesday."
 hero:
   need: "Sudhakar Dalela, Indian diplomat; or Tribhuvan International Airport"

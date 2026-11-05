@@ -12,7 +12,7 @@ location: New Delhi
 keyPoints:
   - "Abhijeet Dipke said jailed leaders Das and Ranka were following **Gandhian satyagraha**."
   - "Their judicial custody was extended **till October 21** after their surety was rejected."
-  - "Sanjay Raut said **\"it is the Supreme Court alone that can save the nation\"**."
+  - "Sanjay Raut said \"it is the Supreme Court alone that can save the nation\"."
 hero:
   need: "Two-panel split: Cockroach Janta Party founder Abhijeet Dipke and Shiv Sena (UBT) MP Sanjay Raut"
   suggested_source: "Sanjay Raut"

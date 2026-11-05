@@ -10,7 +10,7 @@ standfirst: "Two posters went up outside two party offices in Lucknow on Sunday.
 published: 2026-10-25T12:10:00+05:30
 location: Lucknow
 keyPoints:
-  - "An SP poster shows Akhilesh Yadav on a boat with the line that **Brahmins will show the way and Kevats will ferry us across**."
+  - "An SP poster shows Akhilesh Yadav on a boat with the line that **Brahmins will show the way** and Kevats will ferry us across."
   - "Outside the state Congress office, posters declare **'200 seat haq hai hamara'** (200 seats are our right)."
   - "The UP Assembly has **403 seats**, so the Congress demand amounts to roughly half."
 hero:

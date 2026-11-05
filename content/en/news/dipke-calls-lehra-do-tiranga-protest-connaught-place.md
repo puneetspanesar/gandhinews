@@ -10,7 +10,7 @@ standfirst: "The Cockroach Janta Party founder wants supporters with flags at Ce
 published: 2026-10-14T18:45:00+05:30
 location: New Delhi
 keyPoints:
-  - "Abhijeet Dipke has called a **'Lehra Do Tiranga' protest at Central Park, Connaught Place, at 5 pm on Friday**."
+  - "Abhijeet Dipke has called a **'Lehra Do Tiranga' protest** at Central Park, Connaught Place, at 5 pm on Friday."
   - "Supporters who cannot reach Delhi were asked to hold **Tiranga marches in their own towns**."
   - "Dipke was **booed by a group at Delhi airport** as he returned from his grandmother's last rites."
 hero:

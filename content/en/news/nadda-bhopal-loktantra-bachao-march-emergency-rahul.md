@@ -53,7 +53,7 @@ verification:
     - "Quotes exact from IANS English copy; the speech was probably in Hindi, Hindi wording not found, so Hindi twin translates."
 ---
 
-Union Health Minister **J P Nadda led the BJP's "Loktantra Bachao, Arajakta Hatao" march** through Bhopal on Wednesday, taking the party's counter-campaign against the opposition's "vote chori" charge to the Madhya Pradesh capital.
+Union Health Minister J P Nadda led the BJP's **"Loktantra Bachao, Arajakta Hatao" march** through Bhopal on Wednesday, taking the party's counter-campaign against the opposition's "vote chori" charge to the Madhya Pradesh capital.
 
 Chief Minister Mohan Yadav and state BJP president Hemant Khandelwal walked with him as the foot march wound from Atal Path near Platinum Plaza, through New Market, to Roshanpura. Thousands of party workers, traders, professionals and members of social organisations joined in.
 

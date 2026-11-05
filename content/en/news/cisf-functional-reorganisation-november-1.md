@@ -11,7 +11,7 @@ published: 2026-10-18T14:30:00+05:30
 location: New Delhi
 keyPoints:
   - "The CISF will move from regional to **industry-wise sectors** from November 1, with Home Ministry approval."
-  - "Eight territorial sectors become units for **power, coal, steel, petroleum, ports and Delhi's public buildings and metro**."
+  - "Eight territorial sectors become units for **power, coal, steel, petroleum, ports** and Delhi's public buildings and metro."
   - "The airport and atomic energy and space sectors, already run this way **for about 25 years**, stay as they are."
 hero:
   need: "CISF personnel on duty at a power plant, port or metro station"

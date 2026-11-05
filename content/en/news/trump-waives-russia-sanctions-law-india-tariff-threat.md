@@ -11,7 +11,7 @@ published: 2026-10-17T11:30:00+05:30
 location: Washington
 keyPoints:
   - "Trump waived the sanctions and tariffs in the Graham Act **two days before they were due on October 18**."
-  - "The law had threatened a **100% tariff on the top five buyers of Russian oil and gas**, a group that includes India."
+  - "The law had threatened a **100% tariff** on the top five buyers of Russian oil and gas, a group that includes India."
   - "Co-author Richard Blumenthal said the waivers had **nothing to do with national security**."
 hero:
   need: "President Donald Trump at the White House, ideally speaking to reporters on the South Lawn"

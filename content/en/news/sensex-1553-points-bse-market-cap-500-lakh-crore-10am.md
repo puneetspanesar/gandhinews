@@ -72,7 +72,7 @@ The rally on Dalal Street **held into the afternoon** on Thursday. In afternoon 
 
 The gains had come early. By 10 am the Sensex was up 1,552.83 points, or 2.01%, at 78,854.23, and the Nifty 50 had gained 427.80 points, or 1.79%, to 24,388.40.
 
-The Sensex opened 1,329 points higher at 78,630 and kept climbing, on course for a sixth straight day of gains. Buying came from almost every corner. Every Sensex stock except Bharti Airtel traded higher in the opening minutes, with **Maruti, Asian Paints, Bajaj Finance and M&M up 3 to 4%**. Airtel slipped slightly ahead of its September-quarter results, due later on Thursday.
+The Sensex opened 1,329 points higher at 78,630 and kept climbing, on course for a sixth straight day of gains. Buying came from almost every corner. Every Sensex stock except Bharti Airtel traded higher in the opening minutes, with Maruti, Asian Paints, Bajaj Finance and M&M **up 3 to 4%**. Airtel slipped slightly ahead of its September-quarter results, due later on Thursday.
 
 
 ## ₹500 lakh crore and counting

@@ -12,7 +12,7 @@ updated: 2026-10-24T01:00:00+05:30
 location: Islamabad
 keyPoints:
   - "Pakistan and Saudi Arabia have **completed ratification** of the Makkah Joint Defence Agreement, the Foreign Office said."
-  - "Under the pact, **an armed attack on one member counts as an attack on all**."
+  - "Under the pact, an armed attack on one member counts as **an attack on all**."
   - "Asif Ali Zardari told Frank-Walter Steinmeier the pact is **not directed against any specific country**."
 hero:
   need: "Pakistan President Asif Ali Zardari and German President Frank-Walter Steinmeier, two-panel split"

@@ -10,7 +10,7 @@ standfirst: "The Rajya Sabha MP hit back at the RSS chief's warning about 'regim
 published: 2026-10-24T14:40:00+05:30
 location: New Delhi
 keyPoints:
-  - "Kapil Sibal said **\"What India wants is a change of government through democratic means\"**, answering Mohan Bhagwat."
+  - "Kapil Sibal said \"What India wants is a change of government through democratic means\", answering Mohan Bhagwat."
   - "Bhagwat had warned in his **October 20 Vijayadashami speech** in Nagpur against attempts to change regimes."
   - "Sibal questioned the handling of **57 FIRs** registered in Delhi between October 2 and 23."
 hero:
