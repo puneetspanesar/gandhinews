@@ -52,7 +52,7 @@ def fetch_branch(branch, dest):
     sh('git', '-C', R, 'fetch', '-q', 'origin', f'+{branch}:refs/remotes/origin/{branch}')
     shutil.rmtree(dest, ignore_errors=True); os.makedirs(dest)
     data = subprocess.run(['git', '-C', R, 'archive', f'origin/{branch}'], capture_output=True).stdout
-    tarfile.open(fileobj=io.BytesIO(data)).extractall(dest)
+    tarfile.open(fileobj=io.BytesIO(data)).extractall(dest, filter='data')
 
 
 mode, tag = sys.argv[1], sys.argv[2]
