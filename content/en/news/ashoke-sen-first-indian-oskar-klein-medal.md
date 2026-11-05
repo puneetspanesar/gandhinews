@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-  - ICTS announcement dated 22 Oct seen only as a listing headline (full page not fetchable). Medal details from News On AIR, 24 Oct. Earlier honours from ICTS April 2026 page. Date and venue of the medal lecture not found; left out.
+  - ICTS announcement dated Oct 22 seen only as a listing headline (full page not fetchable). Medal details from News On AIR, Oct 24. Earlier honours from ICTS April 2026 page. Date and venue of the medal lecture not found; left out.
 ---
 
 Ashoke Sen, one of the world's leading string theorists, has been awarded the Oskar Klein Medal for 2026, becoming the first Indian physicist to receive one of theoretical physics' most distinguished honours.

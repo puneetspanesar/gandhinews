@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (ANI, 03:40 IST 25 Oct), resting on CCB sources; investigative details hedged as police account."
+    - "Single source (ANI, 03:40 IST Oct 25), resting on CCB sources; investigative details hedged as police account."
     - "Report that Pandey worked at H D Kumaraswamy's camp office is single-source and unconfirmed; written as 'was reported to have worked'. No response from Kumaraswamy found."
     - "Court, judge, charges and bail conditions not given in source."
 ---

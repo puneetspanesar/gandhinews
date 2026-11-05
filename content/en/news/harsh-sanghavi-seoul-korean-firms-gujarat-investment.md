@@ -22,7 +22,7 @@ hero:
     value: "Gujarat's pitch in Seoul"
 related: []
 seo:
-  description: "Gujarat Deputy CM Harsh Sanghavi lined up about 10 meetings with Korean firms including LS Electric, Kolon and Lotte Wellfood in Seoul on 23 October 2026."
+  description: "Gujarat Deputy CM Harsh Sanghavi lined up about 10 meetings with Korean firms including LS Electric, Kolon and Lotte Wellfood in Seoul on October 23, 2026."
 sources:
   - title: "Gujarat Dy CM Harsh Sanghavi to hold high-level meetings in Seoul"
     publisher: "NewKerala (ANI)"

@@ -28,7 +28,7 @@ related:
 - araghchi-seven-day-hormuz-offer-stands-irgc-second-tanker-mine
 - us-iran-rival-claims-hormuz-control-shipping
 seo:
-  description: Russian Foreign Minister Sergei Lavrov backed Iran at a Tehran press conference with Abbas Araghchi on 19 October and called for Hormuz shipping to return to pre-war conditions.
+  description: Russian Foreign Minister Sergei Lavrov backed Iran at a Tehran press conference with Abbas Araghchi on October 19 and called for Hormuz shipping to return to pre-war conditions.
 sources:
 - title: Lavrov backs Iran, hours after Trump says Russia doing 'very little' to help Tehran
   publisher: Euronews
@@ -53,7 +53,7 @@ verification:
 
 Russia's foreign minister, Sergei Lavrov, stood beside his Iranian counterpart in Tehran on Monday and declared Moscow's support for Iran in its war with the United States and Israel, offering to help broker a settlement while insisting that shipping through the Strait of Hormuz return to the way it was before the fighting began.
 
-"I am confident that Iran's cause, like Russia's, is a just cause," Lavrov told a joint press conference with Abbas Araghchi, on his first trip to Iran since the US and Israel launched strikes on the country on 28 February. He accused Washington and Israel of an unprovoked campaign and spoke of Russia's "readiness to assist in finding mutually acceptable solutions" to what he called a man-made crisis.
+"I am confident that Iran's cause, like Russia's, is a just cause," Lavrov told a joint press conference with Abbas Araghchi, on his first trip to Iran since the US and Israel launched strikes on the country on February 28. He accused Washington and Israel of an unprovoked campaign and spoke of Russia's "readiness to assist in finding mutually acceptable solutions" to what he called a man-made crisis.
 
 ## Hormuz and oil
 

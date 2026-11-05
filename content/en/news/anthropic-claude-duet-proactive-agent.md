@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Anthropic post dated 21 Oct (US); X post timestamp decodes to 00:39 IST 22 Oct, so it fell after the morning cut-off of the previous update. Published time set 8:20 am IST."
+    - "Anthropic post dated Oct 21 (US); X post timestamp decodes to 00:39 IST Oct 22, so it fell after the morning cut-off of the previous update. Published time set 8:20 am IST."
     - "Features, safeguards and limits from Anthropic's own post; Opus 5.5 model, 'every few hours' check frequency and the competitor framing (OpenAI Dots, Meta Muse, Emergent Wingman) from Inc42 only."
     - "The quote 'Claude Duet is a new app where Claude works as a proactive agent' is from the Anthropic post; no named spokesperson quoted in any source."
     - "No India availability date given anywhere; copy says only that it is US-only for now. Conflict of interest note for editor: Claude is the model used by this desk."

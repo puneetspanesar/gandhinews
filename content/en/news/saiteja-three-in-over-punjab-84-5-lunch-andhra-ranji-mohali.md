@@ -22,7 +22,7 @@ hero:
     value: "Punjab 84/5 at lunch"
 related: [bengal-collapse-maharashtra-ranji-eden-dadhe, railways-bowl-mumbai-ranji-round-four-cci-start, ranji-round-two-final-day-mumbai-maharashtra-punjab-push]
 seo:
-  description: "Punjab were 84 for 5 at lunch on day one of their Ranji Trophy match against Andhra at Mohali on 2 November 2026, with Kavuri Saiteja taking three wickets in an over."
+  description: "Punjab were 84 for 5 at lunch on day one of their Ranji Trophy match against Andhra at Mohali on November 2, 2026, with Kavuri Saiteja taking three wickets in an over."
 sources:
   - title: "Punjab vs Andhra Live Score, Ranji Trophy Elite, 2 November 2026"
     publisher: "Khel Now"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov, play from 09:30 IST at IS Bindra Stadium, Mohali; lunch on day 1 with Punjab 84/5 after 29 overs, about 11:30 to 11:45 IST. Khel Now live page fetched about 12:20 IST showed 'Lunch Break : Day 1 - AND elected to bowl'."
+    - "event: Nov 2, play from 09:30 IST at IS Bindra Stadium, Mohali; lunch on day 1 with Punjab 84/5 after 29 overs, about 11:30 to 11:45 IST. Khel Now live page fetched about 12:20 IST showed 'Lunch Break : Day 1 - AND elected to bowl'."
     - "Single source (Khel Now live page). Its over totals and ball log conflict in places (over 15 header 51/1, over 16 header 51/4), so copy does not give a fall-of-wickets score for the Saiteja over. Saiteja wickets at balls 15.3, 15.5, 15.6; dismissal modes not given except Malhotra lbw b Raju. Uday Saharan's score not shown; not stated. Prabhsimran 24 (19) out at 7.2 to Raju, mode not given. Saiteja figures 7-3-26-3 as last shown at over 20; may have changed, so copy gives only the three wickets. Captains and pitch not given by source; not stated."
     - "Search budget used: 5 of 6."
 cover:

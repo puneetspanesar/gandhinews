@@ -59,33 +59,33 @@ sources:
 verification:
   status: verified-with-notes
   notes:
-    - "Fact-check 11 Oct 2026: aligned with the corrected five-states story: removed the unsourced 'freeing staff for election duty' reason, fixed the BJP meeting date and the SP-Congress line."
-    - "President Murmu's oath date (25 July 2022) is a matter of record but the cited DT Next page was not opened. Himachal and Gujarat exact term-end dates still not confirmed from ECI."
-    - "Himachal Pradesh and Gujarat term-end dates are not stated as exact dates: ECI's Terms of Houses page could not be opened. Himachal's first session began 22 Dec 2022 (Tribune) and Gujarat's MLAs took oath on 19 Dec 2022 (Deccan Herald), so both terms run to late December 2027 under Article 172. Exact dates to be confirmed."
-    - "The presidential election date is not announced; President Murmu took oath on 25 July 2022 (DT Next headline only, page not opened), so her five-year term ends in July 2027."
+    - "Fact-check Oct 11, 2026: aligned with the corrected five-states story: removed the unsourced 'freeing staff for election duty' reason, fixed the BJP meeting date and the SP-Congress line."
+    - "President Murmu's oath date (July 25, 2022) is a matter of record but the cited DT Next page was not opened. Himachal and Gujarat exact term-end dates still not confirmed from ECI."
+    - "Himachal Pradesh and Gujarat term-end dates are not stated as exact dates: ECI's Terms of Houses page could not be opened. Himachal's first session began Dec 22, 2022 (Tribune) and Gujarat's MLAs took oath on Dec 19, 2022 (Deccan Herald), so both terms run to late December 2027 under Article 172. Exact dates to be confirmed."
+    - "The presidential election date is not announced; President Murmu took oath on July 25, 2022 (DT Next headline only, page not opened), so her five-year term ends in July 2027."
     - "Expected months for Himachal (Nov 2027) and Gujarat (Dec 2027) are from BOOM's tracker."
 ---
 
-Seven state assemblies are due for elections in 2027. Manipur, Goa, Punjab, Uttarakhand and Uttar Pradesh complete their terms between March and May, and reports expect all five to vote together in February and March. Himachal Pradesh and Gujarat follow late in the year. The President of India's five-year term, which began on 25 July 2022, also ends in July 2027.
+Seven state assemblies are due for elections in 2027. Manipur, Goa, Punjab, Uttarakhand and Uttar Pradesh complete their terms between March and May, and reports expect all five to vote together in February and March. Himachal Pradesh and Gujarat follow late in the year. The President of India's five-year term, which began on July 25, 2022, also ends in July 2027.
 
 ## Where things stand
 
-No schedule has been announced as of 11 October. The groundwork is visible: census enumeration in Uttar Pradesh, Punjab, Goa and non-snowbound Uttarakhand was moved to 1 December 2026 to 4 January 2027, in states ETV Bharat described as likely to go to the polls early next year. The Special Intensive Revision of rolls is complete in Uttar Pradesh, Goa and Manipur; Punjab and Uttarakhand await final rolls. In the 6 October bypolls, each seat went to the party governing that state.
+No schedule has been announced as of October 11. The groundwork is visible: census enumeration in Uttar Pradesh, Punjab, Goa and non-snowbound Uttarakhand was moved to December 1, 2026, to January 4, 2027, in states ETV Bharat described as likely to go to the polls early next year. The Special Intensive Revision of rolls is complete in Uttar Pradesh, Goa and Manipur; Punjab and Uttarakhand await final rolls. In the October 6 bypolls, each seat went to the party governing that state.
 
-Parties have begun preparing. In Uttar Pradesh, BJP president Nitin Nabin met about 65 state in-charges and co-in-charges at the end of September, with meetings planned in Lucknow and Mathura in early October, ANI reported. Senior Samajwadi Party and Congress leaders have stressed alliance unity, though MPs from each party have backed different leaders as its face (PTI). In Punjab, talk of a Shiromani Akali Dal and BJP tie-up after Sukhbir Badal met the Prime Minister on 7 August remains unconfirmed; the Punjab BJP chief says the party will contest all 117 seats alone.
+Parties have begun preparing. In Uttar Pradesh, BJP president Nitin Nabin met about 65 state in-charges and co-in-charges at the end of September, with meetings planned in Lucknow and Mathura in early October, ANI reported. Senior Samajwadi Party and Congress leaders have stressed alliance unity, though MPs from each party have backed different leaders as its face (PTI). In Punjab, talk of a Shiromani Akali Dal and BJP tie-up after Sukhbir Badal met the Prime Minister on August 7 remains unconfirmed; the Punjab BJP chief says the party will contest all 117 seats alone.
 
 ```timeline
-{"title":"Key dates","items":[{"date":"1 Dec 2026 to 4 Jan 2027","text":"Census enumeration in UP, Punjab, Goa and non-snowbound Uttarakhand."},{"date":"13 Mar 2027","text":"Manipur Assembly's term ends."},{"date":"14 Mar 2027","text":"Goa Assembly's term ends."},{"date":"16 Mar 2027","text":"Punjab Assembly's term ends."},{"date":"28 Mar 2027","text":"Uttarakhand Assembly's term ends."},{"date":"22 May 2027","text":"Uttar Pradesh Assembly's term ends."},{"date":"Jul 2027","text":"President's term ends."},{"date":"Nov to Dec 2027","text":"Himachal Pradesh and Gujarat expected to vote."}]}
+{"title":"Key dates","items":[{"date":"Dec 1, 2026, to Jan 4, 2027","text":"Census enumeration in UP, Punjab, Goa and non-snowbound Uttarakhand."},{"date":"Mar 13, 2027","text":"Manipur Assembly's term ends."},{"date":"Mar 14, 2027","text":"Goa Assembly's term ends."},{"date":"Mar 16, 2027","text":"Punjab Assembly's term ends."},{"date":"Mar 28, 2027","text":"Uttarakhand Assembly's term ends."},{"date":"May 22, 2027","text":"Uttar Pradesh Assembly's term ends."},{"date":"Jul 2027","text":"President's term ends."},{"date":"Nov to Dec 2027","text":"Himachal Pradesh and Gujarat expected to vote."}]}
 ```
 
 ```facts
-{"title":"Key numbers","items":[{"value":"7","label":"state assemblies due for election in 2027","source":"News24, BOOM"},{"value":"13 Mar 2027","label":"earliest term end (Manipur)","source":"News24"},{"value":"13.4 crore","label":"voters on Uttar Pradesh's roll after SIR, down 13.2%","source":"News24"}]}
+{"title":"Key numbers","items":[{"value":"7","label":"state assemblies due for election in 2027","source":"News24, BOOM"},{"value":"Mar 13, 2027","label":"earliest term end (Manipur)","source":"News24"},{"value":"13.4 crore","label":"voters on Uttar Pradesh's roll after SIR, down 13.2%","source":"News24"}]}
 ```
 
 ## Key questions
 
 **Will all five states vote together?**
-Reports expect it, before Manipur's term ends on 13 March. The Election Commission has not announced dates.
+Reports expect it, before Manipur's term ends on March 13. The Election Commission has not announced dates.
 
 **Can polls be held early?**
 The Representation of the People Act lets the Commission notify polls up to six months before a term ends.
@@ -94,4 +94,4 @@ The Representation of the People Act lets the Commission notify polls up to six 
 The Registrar General's notification brought the count forward in four of the five poll-bound states. ETV Bharat linked the change to the polls expected early next year; no official reason was given in the reports we read.
 
 **When do Himachal Pradesh and Gujarat vote?**
-Late 2027. Himachal's assembly first met on 22 December 2022 and Gujarat's MLAs took oath on 19 December 2022, so both five-year terms run into December 2027. Track every date in our [election calendar](/en/tracker/election-calendar).
+Late 2027. Himachal's assembly first met on December 22, 2022, and Gujarat's MLAs took oath on December 19, 2022, so both five-year terms run into December 2027. Track every date in our [election calendar](/en/tracker/election-calendar).

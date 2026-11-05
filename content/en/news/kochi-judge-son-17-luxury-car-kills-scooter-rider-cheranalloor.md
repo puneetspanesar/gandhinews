@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (ANI, 2:17 pm IST 25 Oct); crash early Sunday morning, exact time not given. Story timed 4:45 pm for this window."
+    - "Single source (ANI, 2:17 pm IST Oct 25); crash early Sunday morning, exact time not given. Story timed 4:45 pm for this window."
     - "Section 199A MV Act (guardian/owner liability, 12-month registration cancellation, licence bar till 25) is background law, not from the news source."
     - "Judge not named (minor's identity protected). Car make not given. No police officer named; no direct quotes. No report found of any case against the car's registered owner; copy does not speculate."
 ---

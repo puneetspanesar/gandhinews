@@ -22,7 +22,7 @@ hero:
     value: "Up 9% from a 52-week low"
 related: [sensex-1030-points-nifty-23330-day-high-reliance-quarter-of-gains, sensex-jumps-970-nifty-23313-oil-reliance-open-november-2]
 seo:
-  description: "Muthoot Finance share price 2 November 2026: stock hits 52-week low of ₹2,305, then rebounds nearly 9% to ₹2,508 after Q2 FY27 profit rose 27% to ₹2,977 crore and gold loan AUM grew 46%."
+  description: "Muthoot Finance share price November 2, 2026: stock hits 52-week low of ₹2,305, then rebounds nearly 9% to ₹2,508 after Q2 FY27 profit rose 27% to ₹2,977 crore and gold loan AUM grew 46%."
 cover:
   template: business
   label: "Muthoot Finance"
@@ -57,7 +57,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov, 52-week low ₹2,305 in early trade after the 09:15 IST open, rebound to ₹2,508; ₹2,471 (+2.6%) at 09:55 IST (Business Standard, published 10:01 IST)."
+    - "event: Nov 2, 52-week low ₹2,305 in early trade after the 09:15 IST open, rebound to ₹2,508; ₹2,471 (+2.6%) at 09:55 IST (Business Standard, published 10:01 IST)."
     - "MarketsMojo gives the low as ₹2,303.35 and an earlier high of ₹2,492.40; copy follows Business Standard (₹2,305 / ₹2,508). Previous close ₹2,409 from Business Today."
     - "Results were announced over the weekend (exact date not stated)."
     - "Quote attributed by Business Today to 'Alexander George Muthoot, Managing Director'. Wikipedia lists George Alexander Muthoot as MD; copy attributes the quote to the company's management to avoid a possible name error."

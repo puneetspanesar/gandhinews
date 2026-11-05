@@ -12,7 +12,7 @@ location: New Delhi
 keyPoints:
   - "Four Asian Games gold medallists were reported to be **heading for retirement after the Asian Champions Trophy**."
   - "Players said they were **never told by Hockey India** and found out from the news."
-  - "The tournament runs in **Jalandhar and Mohali from 27 October to 5 November**."
+  - "The tournament runs in **Jalandhar and Mohali from October 27 to November 5**."
 hero:
   need: "Mandeep Singh or Amit Rohidas in India kit during an international match"
   suggested_source: "Mandeep Singh hockey India"
@@ -43,13 +43,13 @@ verification:
   notes:
     - "Single source for the row (PTI via The Bridge). The retirement plan rests on unnamed Hockey India sources; no on-record HI statement found, so hedged as 'reported'."
     - "Players' reactions were given anonymously in the report and are not tied to the four named players; paraphrased, no quotes used, and not attributed to any one of the four."
-    - "Pakistan withdrawal and Bangladesh opener from The Bridge headline of 9 Oct only (article body not read); opener date not stated."
-    - "Tournament dates and venues from the 13 Oct squad story (PTI via The Bridge)."
+    - "Pakistan withdrawal and Bangladesh opener from The Bridge headline of Oct 9 only (article body not read); opener date not stated."
+    - "Tournament dates and venues from the Oct 13 squad story (PTI via The Bridge)."
 ---
 
 Four members of the Indian men's hockey team that won Asian Games gold last month have been told, in effect, that the coming Asian Champions Trophy will be their farewell. The trouble, they say, is that nobody told them.
 
-Mandeep Singh, Jarmanpreet Singh, Amit Rohidas and Nilakanta Sharma were reported on Wednesday to be playing their last matches for India at the tournament in Punjab, which starts on 27 October. Hockey India sources were quoted as saying the move was meant to manage a smooth handover to younger players before the Los Angeles Olympics in 2028.
+Mandeep Singh, Jarmanpreet Singh, Amit Rohidas and Nilakanta Sharma were reported on Wednesday to be playing their last matches for India at the tournament in Punjab, which starts on October 27. Hockey India sources were quoted as saying the move was meant to manage a smooth handover to younger players before the Los Angeles Olympics in 2028.
 
 Hockey India has not said anything on the record about the plan.
 
@@ -69,7 +69,7 @@ Rohidas and Jarmanpreet are part of the defence, Nilakanta plays in midfield and
 
 ## What comes next
 
-Harmanpreet Singh will lead India as they defend the title. India have won the Asian Champions Trophy five times. The league stage is at the Olympian Surjit Singh Hockey Stadium in Jalandhar from 27 October to 2 November, with the semi-finals on 4 November and the medal matches on 5 November at the Olympian Balbir Singh Senior International Hockey Stadium in Mohali.
+Harmanpreet Singh will lead India as they defend the title. India have won the Asian Champions Trophy five times. The league stage is at the Olympian Surjit Singh Hockey Stadium in Jalandhar from October 27 to November 2, with the semi-finals on November 4 and the medal matches on November 5 at the Olympian Balbir Singh Senior International Hockey Stadium in Mohali.
 
 Pakistan have pulled out of the event, and India begin against Bangladesh in Jalandhar.
 

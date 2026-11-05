@@ -22,7 +22,7 @@ hero:
     value: "Dialogue first, says Delhi's man in Moscow"
 related: [bangladesh-arrests-two-russia-army-recruitment]
 seo:
-  description: "India's envoy to Russia Vinay Kumar said in Kazan on 16 October that India is in touch with Moscow on Ukraine peace, and warned against fake job offers."
+  description: "India's envoy to Russia Vinay Kumar said in Kazan on October 16 that India is in touch with Moscow on Ukraine peace, and warned against fake job offers."
 sources:
   - title: "India in contact with Russian interlocutors to expedite Ukraine peace efforts: Ambassador Vinay Kumar"
     publisher: "The Tribune (ANI)"

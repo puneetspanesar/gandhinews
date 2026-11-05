@@ -10,7 +10,7 @@ standfirst: "The top 2TB model of Apple's book-style foldable costs ₹4.49 lakh
 published: 2026-10-22T19:10:00+05:30
 location: New Delhi
 keyPoints:
-  - "Indian sales of the iPhone Duo begin on **Friday, 23 October**."
+  - "Indian sales of the iPhone Duo begin on **Friday, October 23**."
   - "Prices run from **₹2,99,900 for 256GB** to ₹4,49,900 for 2TB."
   - "It has a 7.6-inch inner screen and a 5.4-inch outer screen, but **no dedicated telephoto camera**."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "Foldable iPhone from ₹2,99,900"
 related: []
 seo:
-  description: "iPhone Duo India price and sale date: Apple's first foldable iPhone goes on sale in India on 23 October, from ₹2,99,900 for 256GB up to ₹4,49,900 for 2TB."
+  description: "iPhone Duo India price and sale date: Apple's first foldable iPhone goes on sale in India on October 23, from ₹2,99,900 for 256GB up to ₹4,49,900 for 2TB."
 sources:
   - title: "iPhone Duo vs Samsung Galaxy Z Fold8 5G: Is Apple's first foldable smartphone worth it?"
     publisher: "The Statesman"
@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Prices, sale date and specs from The Statesman (Sandeep Sharma, 22 Oct, 6:43 pm IST). Apple India press release not read. Pre-order sell-out claim seen only as a Daily Star headline (19 Oct), article not read, so not used in copy beyond listing."
+    - "Prices, sale date and specs from The Statesman (Sandeep Sharma, Oct 22, 6:43 pm IST). Apple India press release not read. Pre-order sell-out claim seen only as a Daily Star headline (Oct 19), article not read, so not used in copy beyond listing."
     - "Galaxy Z Fold8 comparison details not used. Published time is an estimate shortly after the Statesman piece."
 ---
 

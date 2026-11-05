@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: ToI liveblog 10:11 am Israel time, 25 Oct. Bank of Israel quote as carried there; its statement was issued 24 Oct."
+    - "Single source: ToI liveblog 10:11 am Israel time, Oct 25. Bank of Israel quote as carried there; its statement was issued Oct 24."
     - "Date and setting of Netanyahu's original remarks not given in source; written without a date."
 ---
 

@@ -22,7 +22,7 @@ hero:
     value: "Profit up 21% to ₹1,494 crore"
 related: [bajaj-finance-ultratech-hindustan-zinc-results-monday, sensex-nifty-close-october-19-private-banks-axis, results-week-ahead-infosys-kotak-bajaj-finance-jio-ipo]
 seo:
-  description: "UltraTech Cement's Q2 FY27 net profit rose 21.3% to ₹1,493.77 crore on 13.8% volume growth, but the shares fell from their high on 19 October 2026."
+  description: "UltraTech Cement's Q2 FY27 net profit rose 21.3% to ₹1,493.77 crore on 13.8% volume growth, but the shares fell from their high on October 19, 2026."
 sources:
   - title: "UltraTech Cement Q2 profit rises 21% to ₹1,494 crore; sales up 19% on year"
     publisher: "Business Standard"

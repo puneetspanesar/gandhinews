@@ -22,7 +22,7 @@ hero:
     value: "A ceasefire, and 1,500 dead"
 related: [gaza-three-killed-yellow-line-musaddar, un-envoy-gaza-ceasefire-in-name-only-security-council, hebron-closures-al-jalda-families-displaced]
 seo:
-  description: "An Israeli strike killed at least one person in Gaza City on 24 October; the health ministry says over 1,500 have been killed since the October 2025 ceasefire."
+  description: "An Israeli strike killed at least one person in Gaza City on October 24; the health ministry says over 1,500 have been killed since the October 2025 ceasefire."
 sources:
   - title: "Israel imposes closures across a West Bank city after attacks, and other Mideast news (AP)"
     publisher: "KSAT"
@@ -39,7 +39,7 @@ verification:
   notes:
     - "Saturday death from Shifa hospital via AP; victim not named and the exact location in Gaza City not given. No Israeli military comment found."
     - "1,500 figure and 'nearly half' from the Hamas-run health ministry via AP, which notes the ministry does not separate civilians from fighters and that UN agencies regard its figures as generally reliable."
-    - "Alakbarov quote and Friday details from earlier Gandhi News stories (16 and 24 October)."
+    - "Alakbarov quote and Friday details from earlier Gandhi News stories (October 16 and 24)."
 ---
 
 Israeli strikes killed at least one person in Gaza City on Saturday, according to Shifa hospital, adding to a toll of more than 1,500 since last year's ceasefire.

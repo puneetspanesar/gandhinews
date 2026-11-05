@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (Dawn, 18 Oct, 06:41 PKT). Demolition-for-plaza is the protesters' account; hedged. Developer not named. No direct quotes in source."
+    - "Single source (Dawn, Oct 18, 06:41 PKT). Demolition-for-plaza is the protesters' account; hedged. Developer not named. No direct quotes in source."
     - "ETPB role (managing property left by Hindus and Sikhs who migrated at Partition) is background description of the board, not from the Dawn article."
 ---
 

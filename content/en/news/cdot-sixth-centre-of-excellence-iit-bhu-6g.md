@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "PIB release posted 2:15 pm IST, 23 Oct. Date of MoU signing not stated (release says signed, then centre inaugurated). Funding not given."
+    - "PIB release posted 2:15 pm IST, Oct 23. Date of MoU signing not stated (release says signed, then centre inaugurated). Funding not given."
     - "Upadhyay quote: release does not make clear whether he was present at Varanasi; phrased as 'said'."
 ---
 

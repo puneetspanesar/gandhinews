@@ -5,13 +5,13 @@ type: news
 section: policy
 format_label: "Policy / Governance"
 topics: [rbi-interest-rates]
-title: "Modi to open RBI data centre in Odisha on 25 October; President Murmu due home days later"
-standfirst: "Odisha's Chief Secretary reviewed security and logistics on Saturday for the Prime Minister's visit to Khordha and the President's two-day tour of Rairangpur from 28 October."
+title: "Modi to open RBI data centre in Odisha on October 25; President Murmu due home days later"
+standfirst: "Odisha's Chief Secretary reviewed security and logistics on Saturday for the Prime Minister's visit to Khordha and the President's two-day tour of Rairangpur from October 28."
 published: 2026-10-18T00:40:00+05:30
 location: Bhubaneswar
 keyPoints:
-  - "Modi is due on **25 October** to inaugurate the RBI's greenfield data centre and training institute in Khordha district."
-  - "President Droupadi Murmu will tour **Rairangpur on 28 and 29 October**."
+  - "Modi is due on **October 25** to inaugurate the RBI's greenfield data centre and training institute in Khordha district."
+  - "President Droupadi Murmu will tour **Rairangpur on October 28 and 29**."
   - "Chief Secretary **Anu Garg** chaired the preparations meeting in Bhubaneswar."
 hero:
   need: "President Droupadi Murmu and Prime Minister Narendra Modi, two-panel portraits"
@@ -22,7 +22,7 @@ hero:
     value: "Two VVIP visits in four days"
 related: []
 seo:
-  description: "PM Modi will open the RBI's data centre and training institute in Khordha on 25 October; President Murmu tours Rairangpur on 28-29 October. Odisha reviewed plans."
+  description: "PM Modi will open the RBI's data centre and training institute in Khordha on October 25; President Murmu tours Rairangpur on October 28-29. Odisha reviewed plans."
 sources:
   - title: "PM Modi to visit Odisha on Oct 25"
     publisher: "The Hans India"
@@ -48,7 +48,7 @@ verification:
     - "Meeting was at 10 am on Saturday at Lok Seva Bhawan (OdishaTV); Hans says 'state-level preparatory meeting in Bhubaneswar'."
 ---
 
-Prime Minister Narendra Modi is due in Odisha next Sunday, 25 October, to inaugurate the Reserve Bank of India's new greenfield data centre and training institute in Khordha district, and President Droupadi Murmu will follow with a two-day visit to her home area of Rairangpur from 28 October.
+Prime Minister Narendra Modi is due in Odisha next Sunday, October 25, to inaugurate the Reserve Bank of India's new greenfield data centre and training institute in Khordha district, and President Droupadi Murmu will follow with a two-day visit to her home area of Rairangpur from October 28.
 
 Chief Secretary Anu Garg chaired a high-level meeting at Lok Seva Bhawan in Bhubaneswar on Saturday morning to go over security, logistics and coordination between departments for both visits, according to officials.
 
@@ -56,6 +56,6 @@ The Prime Minister is expected to fly into Bhubaneswar and hold official program
 
 ## The President's tour
 
-Murmu's itinerary is still tentative. She is expected to arrive on 28 October at the Dandabose airstrip in Rairangpur in Mayurbhanj district and travel to the Maa Kichakeswari temple at Bahalda to offer prayers. She is also expected to visit the Laxmi Mandap at Mahuldiha and her residence in Rairangpur. Details of her programme on 29 October have not been made public.
+Murmu's itinerary is still tentative. She is expected to arrive on October 28 at the Dandabose airstrip in Rairangpur in Mayurbhanj district and travel to the Maa Kichakeswari temple at Bahalda to offer prayers. She is also expected to visit the Laxmi Mandap at Mahuldiha and her residence in Rairangpur. Details of her programme on October 29 have not been made public.
 
 Neither visit has yet been announced by the Prime Minister's Office or Rashtrapati Bhavan, which usually publish schedules closer to the date.

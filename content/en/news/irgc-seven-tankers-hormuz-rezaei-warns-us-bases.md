@@ -22,7 +22,7 @@ hero:
     value: "Seven tankers in one night"
 related: [iran-hormuz-shut-until-terms-met-irgc-threatens-cables, netanyahu-trump-eliminate-iran-regime-pezeshkian-distrust, us-orders-staff-leave-saudi-arabia-dammam-airport-attack, brent-slips-108-79-after-touching-112-gold-eases]
 seo:
-  description: "Iran's IRGC navy claims four oil tankers were set on fire and three hit mines near Hormuz on 22 October; Rezaei warns US, threatens regional bases."
+  description: "Iran's IRGC navy claims four oil tankers were set on fire and three hit mines near Hormuz on October 22; Rezaei warns US, threatens regional bases."
 sources:
   - title: "Iran's IRGC claims four oil ships hit, three others strike mines in Hormuz"
     publisher: "Business Standard (ANI)"
@@ -75,7 +75,7 @@ The IRGC blamed the United States for steering commercial ships through waters i
 
 Mohsen Rezaei, secretary of Iran's Supreme National Security Council, struck a similar note. "Everyone should know that action against Iran has a cost. If diplomacy can create this understanding, we prefer diplomacy; but if the war continues, Iran has the necessary tools to continue responding," he said on Thursday.
 
-Rezaei said Iran had not used its full strength in earlier rounds of the war that began with US and Israeli strikes on 28 February. "We are ready for the next stage," he said, adding that if the current situation continued, "energy markets will not calm down for the next 3 years."
+Rezaei said Iran had not used its full strength in earlier rounds of the war that began with US and Israeli strikes on February 28. "We are ready for the next stage," he said, adding that if the current situation continued, "energy markets will not calm down for the next 3 years."
 
 ## Fears of a return to war
 

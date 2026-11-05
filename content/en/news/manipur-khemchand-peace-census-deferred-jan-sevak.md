@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: PTI via ThePrint, published 1:45 am 18 Oct, event on 17 Oct in Imphal."
+    - "Single source: PTI via ThePrint, published 1:45 am Oct 18, event on Oct 17 in Imphal."
     - "Census deferral is the CM's statement as paraphrased by PTI; no Registrar General notification found or checked. Attributed to him, not stated as fact."
     - "Conflict toll (at least 306 dead, 49 missing) as given by PTI."
     - "Kamjong attack detail consistent with the earlier Gandhi News Chassad story; PTI says one man was shot dead and four injured, which may include a later toll."
@@ -48,7 +48,7 @@ The Chief Minister said the Centre had been told of public concern over updating
 
 He also spoke of the Manipuri language as a bridge between communities, and said it should be cherished and used more widely. State Home Minister Govindas Konthoujam said restoring peace needed mutual trust and understanding among all communities.
 
-The event closed the Seva Sankalp Abhiyan, held in every district from 17 September to 17 October to mark 25 years of Narendra Modi in public office as Gujarat Chief Minister and then Prime Minister. "The successful month-long campaign witnessed the participation of more than 4 lakh people in 6,122 venues across the state," Singh said.
+The event closed the Seva Sankalp Abhiyan, held in every district from September 17 to October 17 to mark 25 years of Narendra Modi in public office as Gujarat Chief Minister and then Prime Minister. "The successful month-long campaign witnessed the participation of more than 4 lakh people in 6,122 venues across the state," Singh said.
 
 ## Violence goes on
 

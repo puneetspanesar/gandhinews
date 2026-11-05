@@ -54,7 +54,7 @@ ADR says the protection is lifelong and blanket, and has no rational link to its
 
 ## How it became law
 
-The clause was not in the original bill. ADR says it was added through an official amendment circulated on 11 December 2023, and the Rajya Sabha passed it without debate while many opposition MPs were suspended. The commissioners had enjoyed constitutional independence from 1950 to 2023 without any such shield, the petition adds.
+The clause was not in the original bill. ADR says it was added through an official amendment circulated on December 11, 2023, and the Rajya Sabha passed it without debate while many opposition MPs were suspended. The commissioners had enjoyed constitutional independence from 1950 to 2023 without any such shield, the petition adds.
 
 ADR wants Section 16 struck down and any proceedings against present or past commissioners that ended because of it revived.
 

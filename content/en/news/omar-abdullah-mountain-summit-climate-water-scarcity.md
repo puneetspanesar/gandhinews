@@ -30,7 +30,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (The Statesman, Jammu dateline, 12 Oct). Venue of the summit not stated, so no location given."
+    - "Single source (The Statesman, Jammu dateline, Oct 12). Venue of the summit not stated, so no location given."
     - "Quotes are as printed by The Statesman."
 ---
 

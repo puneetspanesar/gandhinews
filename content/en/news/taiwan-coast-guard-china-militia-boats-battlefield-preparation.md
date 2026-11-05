@@ -40,7 +40,7 @@ Taiwan's coast guard says China is using fishing boats from its maritime militia
 
 In a statement, the Coast Guard Administration (CGA) said the operations "increase the maritime surveillance and response burden on Taiwan" and were also putting pressure on Japan and the Philippines. It noted that Taiwan's east coast is a key route for shipping and supplies.
 
-The statement followed a report earlier this month of the first known sighting of a Chinese militia boat off Taiwan's Pacific coast. In mid-August, the CGA sent a patrol boat to drive off the vessel, which was operating with a Chinese coast guard ship and a research vessel. On 16 August the boat, the Minfudingyu 07902, came within about 2.7 nautical miles of Taiwan's restricted waters.
+The statement followed a report earlier this month of the first known sighting of a Chinese militia boat off Taiwan's Pacific coast. In mid-August, the CGA sent a patrol boat to drive off the vessel, which was operating with a Chinese coast guard ship and a research vessel. On August 16 the boat, the Minfudingyu 07902, came within about 2.7 nautical miles of Taiwan's restricted waters.
 
 The CGA said the boat showed "characteristics" of militia activity. It has placed it on a priority watchlist and will keep tracking it.
 

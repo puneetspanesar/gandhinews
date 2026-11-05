@@ -49,7 +49,7 @@ verification:
     - "China dam: Scroll says about 60 GW, construction began July 2025, about 30 km north of Arunachal; Down To Earth gave 66 GW and US$137 billion before construction. Copy uses 'about 60 GW' and July 2025."
     - "Proposed by NITI Aayog in 2017 (Scroll, DTE); NHPC asked to do pre-feasibility survey in April 2022 (DTE). Site near Geku village, Upper Siang (DTE)."
     - "Armed forces and police deployment against protests from Scroll (2025), stated generally."
-    - "October 2026 bandh and vandalism, Khandu's offer of talks and pre-feasibility process 'until complete' from ANI via the desk's 25 October story."
+    - "October 2026 bandh and vandalism, Khandu's offer of talks and pre-feasibility process 'until complete' from ANI via the desk's October 25 story."
     - "India-China hydrological data MoU expiry (June 2023, not renewed) from Scroll, as of August 2025; not re-checked for 2026."
 ---
 
@@ -85,7 +85,7 @@ Villagers also fear the dam would trap the silt that the river carries to fields
 
 Groups such as the Siang Indigenous Farmers' Forum have protested since 2024, saying the survey work began without "prior, informed consent from the communities". The authorities responded by deploying armed forces and police, which deepened the anger. "If the dam is built, we will lose everything," Tabeng Siram, a member of the forum, has said.
 
-On 23 October 2026 groups opposed to SUMP called a 12-hour bandh in Siang, Upper Siang and East Siang districts. It passed off largely peacefully during the day, but overnight a police station, the NHPC office and the homes of state BJP president Kaling Moyong and MLAs Oni Panyang and Ninong Ering in Pasighat were ransacked.
+On October 23, 2026, groups opposed to SUMP called a 12-hour bandh in Siang, Upper Siang and East Siang districts. It passed off largely peacefully during the day, but overnight a police station, the NHPC office and the homes of state BJP president Kaling Moyong and MLAs Oni Panyang and Ninong Ering in Pasighat were ransacked.
 
 ## Do experts agree it would work?
 

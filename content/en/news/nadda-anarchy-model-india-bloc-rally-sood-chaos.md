@@ -22,7 +22,7 @@ hero:
     value: "Nadda: rally is an 'anarchy model'"
 related: [india-bloc-convoy-connaught-place-tejashwi-crush-democracy, bjp-rohtak-padyatra-nabin-counter-india-bloc-rally, india-bloc-rally-venugopal-stern-warning-modi-shah, india-bloc-ramlila-maidan-rally-today-preview]
 seo:
-  description: "INDIA bloc rally, 1 November 2026: Union minister J P Nadda calls the Ramlila Maidan protest an 'anarchy model' and links the date to the 1984 riots; Delhi minister Ashish Sood says Congress wants chaos."
+  description: "INDIA bloc rally, November 1, 2026: Union minister J P Nadda calls the Ramlila Maidan protest an 'anarchy model' and links the date to the 1984 riots; Delhi minister Ashish Sood says Congress wants chaos."
 sources:
   - title: "Congress, Rahul serving vested political agenda: Nadda slams India bloc rally as 'anarchy model'"
     publisher: "The Tribune"
@@ -47,7 +47,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov about 13:30 IST, Nadda statement (Tribune story published 13:38 IST, updated 13:40); 1 Nov 14:35 IST, Ashish Sood remarks (Aaj Tak live blog entry 14:35)."
+    - "event: Nov 1 about 13:30 IST, Nadda statement (Tribune story published 13:38 IST, updated 13:40); Nov 1 14:35 IST, Ashish Sood remarks (Aaj Tak live blog entry 14:35)."
     - "Nadda's title: Tribune photo caption calls him former BJP president and Union Health Minister. Exact medium of his statement (video, X post, press meet) not stated; copy just says 'said'."
     - "Nadda quotes verbatim from Tribune. Hans India (13:14 IST) separately paraphrases Nadda accusing Rahul of trying to destabilise an elected government, which agrees."
     - "Sood: single source (Aaj Tak), Hindi; his remarks are paraphrased plus the one headline quote, translated. Aaj Tak calls him a Delhi government minister; party not stated on page (he is BJP, Delhi minister since 2025). CTI appeal to Sonia Gandhi: India TV live 07:55 IST."

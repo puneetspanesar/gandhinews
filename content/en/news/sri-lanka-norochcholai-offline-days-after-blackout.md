@@ -47,8 +47,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Norochcholai 'several days': Daily Mirror breaking news, 4:42 pm 18 Oct (summary text only). Newsfirst top story 5:52 pm says the plant shut down after the disruption."
-    - "Outage time, duration, minister quote, hydropower station link: PTI via ThePrint, 17 Oct. Upper Kotmale named only in an aggregator headline, so station not named."
+    - "Norochcholai 'several days': Daily Mirror breaking news, 4:42 pm Oct 18 (summary text only). Newsfirst top story 5:52 pm says the plant shut down after the disruption."
+    - "Outage time, duration, minister quote, hydropower station link: PTI via ThePrint, Oct 17. Upper Kotmale named only in an aggregator headline, so station not named."
     - "NSO inquiry and conservation appeal: Lanka Newspapers (page has suspicious embedded links; used only for these two points, consistent with Newsfirst headline)."
     - "Plant capacity not stated in sources read; left out."
 ---

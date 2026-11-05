@@ -10,7 +10,7 @@ standfirst: "Two of Haryana's most-wanted men are in ICE custody in Nevada after
 published: 2026-10-25T08:15:00+05:30
 location: Chandigarh
 keyPoints:
-  - "Himanshu Bhau and Neeraj Faridpuria were detained in **Las Vegas on 22 October** after inputs from the Haryana STF."
+  - "Himanshu Bhau and Neeraj Faridpuria were detained in **Las Vegas on October 22** after inputs from the Haryana STF."
   - "Both are held at the **Henderson Detention Center** in Nevada, in Immigration and Customs Enforcement custody."
   - "Haryana Police and the CBI are working with US authorities, but **no date for their return** has been set."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "Haryana's most wanted, in ICE custody"
 related: [amit-shah-punjab-drugs-gangsters-organised-crime]
 seo:
-  description: "Haryana gangsters Himanshu Bhau and Neeraj Faridpuria were detained by US ICE in Las Vegas on 22 October; Haryana STF and CBI are seeking their deportation to India."
+  description: "Haryana gangsters Himanshu Bhau and Neeraj Faridpuria were detained by US ICE in Las Vegas on October 22; Haryana STF and CBI are seeking their deportation to India."
 sources:
   - title: "Haryana STF seeks deportation of gangsters Himanshu Bhau, Neeraj Faridpuria after US detention"
     publisher: "The Statesman"
@@ -47,16 +47,16 @@ sources:
 verification:
   status: approved
   notes:
-    - "Detention date (22 Oct), Las Vegas, ICE custody: Statesman, ETV Bharat, National Herald agree. Henderson Detention Center and ERO Las Vegas: Statesman only. India TV said FBI; three others say ICE, copy follows ICE."
+    - "Detention date (Oct 22), Las Vegas, ICE custody: Statesman, ETV Bharat, National Herald agree. Henderson Detention Center and ERO Las Vegas: Statesman only. India TV said FBI; three others say ICE, copy follows ICE."
     - "No US agency statement found; no named Indian official quoted in any source. No quotes used."
     - "Bhau's real name given variously as Himanshu Siroha / Sigroha / Ritoliya; copy avoids a surname. Red Notice August 2023 (Statesman; India TV says 2023)."
-    - "Faridpuria: real name Neeraj Kaushik (Statesman only, omitted). Life sentence 2015, HC bail 2019, Vikas Chaudhary killing Faridabad 26 June 2019: Statesman and National Herald."
-    - "News broke 24 Oct; this is a Sunday catch-up as it was not on the site. Not checked against US court records."
+    - "Faridpuria: real name Neeraj Kaushik (Statesman only, omitted). Life sentence 2015, HC bail 2019, Vikas Chaudhary killing Faridabad June 26, 2019: Statesman and National Herald."
+    - "News broke Oct 24; this is a Sunday catch-up as it was not on the site. Not checked against US court records."
 ---
 
 Two of Haryana's most-wanted gangsters, Himanshu Bhau and Neeraj Faridpuria, are in the custody of US immigration authorities in Nevada, and Indian police are now trying to get them sent home.
 
-The two men were detained in Las Vegas on 22 October by US Immigration and Customs Enforcement (ICE), acting on intelligence from the Haryana Police's Special Task Force. They are listed as held at the Henderson Detention Center, with their cases handled by ICE's Enforcement and Removal Operations office in Las Vegas.
+The two men were detained in Las Vegas on October 22 by US Immigration and Customs Enforcement (ICE), acting on intelligence from the Haryana Police's Special Task Force. They are listed as held at the Henderson Detention Center, with their cases handled by ICE's Enforcement and Removal Operations office in Las Vegas.
 
 Haryana Police and the CBI, India's nodal agency for Interpol, are working with US authorities on their deportation. Officials have cautioned that the return is not automatic. The route and timing will depend on US immigration proceedings, and no date has been set. US authorities have not said publicly what the two were held for.
 
@@ -66,13 +66,13 @@ Bhau, from Ritoli village in Rohtak district, faces cases of murder, attempted m
 
 Police say he began his criminal career at 17, when he fired at a rival, and escaped from a juvenile home in Hisar in 2020. He is alleged to have left India on forged papers and to have run his gang from abroad, first from Portugal and then the US.
 
-His gang has claimed a string of shootings in Delhi-NCR, among them the 2024 killing of a 26-year-old at a Burger King outlet in Rajouri Garden and the daylight murder of gym owner Vijay Kumar in Aya Nagar on 14 September this year. Police are also examining links to the firing outside YouTuber Elvish Yadav's house in Gurugram. The gang is a rival of the Lawrence Bishnoi network.
+His gang has claimed a string of shootings in Delhi-NCR, among them the 2024 killing of a 26-year-old at a Burger King outlet in Rajouri Garden and the daylight murder of gym owner Vijay Kumar in Aya Nagar on September 14 this year. Police are also examining links to the firing outside YouTuber Elvish Yadav's house in Gurugram. The gang is a rival of the Lawrence Bishnoi network.
 
 ## Who is Neeraj Faridpuria
 
 Faridpuria, from Faridpur village in Palwal district, faces more than 25 criminal cases in Delhi, Haryana and Punjab. He was sentenced to life imprisonment in a murder case in 2015 but was granted bail by the Punjab and Haryana High Court in 2019.
 
-His name then surfaced in the killing of Congress leader Vikas Chaudhary, who was shot dead in Faridabad on 26 June 2019. Investigators say he fled to Canada through Dubai, was linked to the Bambiha gang, another Bishnoi rival, and later moved to the US, where he worked with Bhau's network.
+His name then surfaced in the killing of Congress leader Vikas Chaudhary, who was shot dead in Faridabad on June 26, 2019. Investigators say he fled to Canada through Dubai, was linked to the Bambiha gang, another Bishnoi rival, and later moved to the US, where he worked with Bhau's network.
 
 ## What happens next
 

@@ -22,7 +22,7 @@ hero:
     value: "A tea break that turned fatal"
 related: []
 seo:
-  description: "Four Bhavani devotees from Denkada, Vizianagaram, were killed when a speeding Scorpio hit them at Kathipudi in Kakinada district on 22 October 2026."
+  description: "Four Bhavani devotees from Denkada, Vizianagaram, were killed when a speeding Scorpio hit them at Kathipudi in Kakinada district on October 22, 2026."
 sources:
   - title: "4 Bhavani Devotees Killed as Speeding Scorpio Hits Them near Kakinada"
     publisher: "Deccan Chronicle"

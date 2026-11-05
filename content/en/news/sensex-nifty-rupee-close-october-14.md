@@ -21,7 +21,7 @@ hero:
     value: "Sensex down 252, rupee up a 4th day"
 related: [wpi-inflation-september-2026, sensex-jumps-1109-it-rally-sitharaman-ltcg-remarks, centre-to-cap-cancer-drug-trade-margins-at-30-per-cent, rupee-near-97-as-crude-stays-above-100, fpi-outflows-record-3-trillion-2026, wipro-tech-mahindra-q2-results-preview]
 seo:
-  description: "Sensex fell 252 points to 72,781.89 and Nifty closed at 22,622.70 on 14 October 2026 as pharma stocks slid; the rupee rose for a fourth day to about 95.16."
+  description: "Sensex fell 252 points to 72,781.89 and Nifty closed at 22,622.70 on October 14, 2026, as pharma stocks slid; the rupee rose for a fourth day to about 95.16."
 sources:
   - title: "Stock Market Close: Sensex ends choppy trade 252 pts down, Nifty at 22,623; pharma index drops 1%"
     publisher: "Business Standard"
@@ -46,7 +46,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Rupee close differs by a paisa between sources: Business Standard 95.16 (from 95.28), PTI 95.17 up 19 paise (from 95.36). Copy says 'about 95.16'; dashboard uses Business Standard for consistency with its 13 Oct value."
+    - "Rupee close differs by a paisa between sources: Business Standard 95.16 (from 95.28), PTI 95.17 up 19 paise (from 95.36). Copy says 'about 95.16'; dashboard uses Business Standard for consistency with its Oct 13 value."
     - "Index closes and points from Business Standard live blog; PTI (via ThePrint) gives the same Sensex and Nifty figures."
     - "Midcap/smallcap moves inconsistent within Business Standard (0.08%/0.32% in body vs 0.1%/0.38% in description); not used."
     - "Pharma reason (Supreme Court questioning scope of trade margin controls) is Business Standard's attribution; Khemka quote verbatim from it."
@@ -82,7 +82,7 @@ Sudeep Shah of SBI Securities said the Nifty was stuck in a range. "A decisive b
 
 ## Rupee gains again
 
-The rupee rose for a fourth straight session, closing at about 95.16 to the dollar against 95.28 on Tuesday. It touched 94.76 during the day. The currency has gained about 1.7% in a week, helped by measures the Reserve Bank announced on 10 October, including a special dollar window for oil companies and tighter rules on forex derivatives.
+The rupee rose for a fourth straight session, closing at about 95.16 to the dollar against 95.28 on Tuesday. It touched 94.76 during the day. The currency has gained about 1.7% in a week, helped by measures the Reserve Bank announced on October 10, including a special dollar window for oil companies and tighter rules on forex derivatives.
 
 "We expect the rupee to trade with a positive bias on RBI's intervention to curb excessive speculation in the rupee," said Anuj Choudhary, research analyst at Mirae Asset Sharekhan. "However, elevated crude oil prices and FII outflows may cap sharp upside." Brent crude futures were up 0.64% at $106.37 a barrel.
 

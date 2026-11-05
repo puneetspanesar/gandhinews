@@ -22,7 +22,7 @@ hero:
     value: "A tower falls in Eastleigh"
 related: []
 seo:
-  description: "Rescuers searched the rubble of a collapsed high-rise in Nairobi's Eastleigh on 24 October; one woman was rescued and police used tear gas on crowds."
+  description: "Rescuers searched the rubble of a collapsed high-rise in Nairobi's Eastleigh on October 24; one woman was rescued and police used tear gas on crowds."
 sources:
   - title: "Police dispel crowds with tear gas after 16-storey building collapses in Nairobi"
     publisher: "Africanews"

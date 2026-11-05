@@ -22,7 +22,7 @@ hero:
     value: "The gangster behind the Juhu shots?"
 related: [tiger-shroff-firing-three-suspects-held-kota-train]
 seo:
-  description: "Delhi Police are probing US-based gangster Anil Pandit, 32, of Panipat, as a key suspect in the 18 October firing on Tiger Shroff's car, with links to a dozen extortion cases in Delhi and Haryana."
+  description: "Delhi Police are probing US-based gangster Anil Pandit, 32, of Panipat, as a key suspect in the October 18 firing on Tiger Shroff's car, with links to a dozen extortion cases in Delhi and Haryana."
 sources:
   - title: "Tiger Shroff shooting: Police probing alleged role of gangster Anil Pandit in cases of extortion/attacks in Delhi, Haryana (PTI)"
     publisher: "ThePrint"

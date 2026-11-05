@@ -53,11 +53,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "AQI bands per stage (201-300, 301-400, 401-450, above 450) are the standard GRAP bands; Stage I 201-300 confirmed in the desk's 21 Oct news story; Stage III 401-450 and Stage IV above 450 from Business Today and IANS. The Tribune article mislabels the bands; not relied on for them."
-    - "Stage I measures from the CAQM order of 21 Oct as summarised by UNI and PTI (via the desk's news story)."
+    - "AQI bands per stage (201-300, 301-400, 401-450, above 450) are the standard GRAP bands; Stage I 201-300 confirmed in the desk's Oct 21 news story; Stage III 401-450 and Stage IV above 450 from Business Today and IANS. The Tribune article mislabels the bands; not relied on for them."
+    - "Stage I measures from the CAQM order of Oct 21 as summarised by UNI and PTI (via the desk's news story)."
     - "Stage III measures (non-essential construction and demolition ban, stone crushers and mining shut, BS-III petrol and BS-IV diesel four-wheelers restricted with exemption for persons with disabilities, hybrid classes up to Class 5) from Business Today, November 2025."
     - "Stage IV measures (all construction banned, non-essential polluting trucks barred, Delhi-registered BS-IV and older diesel heavy goods vehicles banned except essential services, hybrid classes except 10 and 12) from IANS, January 2025. Whether the September 2026 revision changed any of these is not known; copy describes them as how Stage IV has worked."
-    - "November 2025 shifts (DG-set avoidance, extra traffic staff, advisories, more CNG/electric transport to Stage I; staggered office hours to Stage II; 50% work from home to Stage III) from The Tribune, 23 Nov 2025."
+    - "November 2025 shifts (DG-set avoidance, extra traffic staff, advisories, more CNG/electric transport to Stage I; staggered office hours to Stage II; 50% work from home to Stage III) from The Tribune, Nov 23, 2025."
     - "September 2026 revision (25, 8, 10 and 5 actions; Sonipat added to LMV curbs at Stage I; outside-Delhi BS-IV and older diesel light and medium goods vehicles specified under Stage III; over 1,800 closure orders) from News On AIR."
     - "GRAP's origin (2017, Supreme Court in the M C Mehta case, EPCA, then CAQM) and forecast-based invocation are standard background; not checked against a document in this run."
 ---

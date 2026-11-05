@@ -44,7 +44,7 @@ verification:
   notes:
     - "PIB page could not be fetched directly; details from IANS copy (Punjab Kesari, Morung Express)."
     - "IANS calls Sanchi Chouhan's 'parliamentary constituency'; Sanchi is an assembly segment and his Lok Sabha seat is not named in the sources, so copy avoids the claim."
-    - "Women Farmers' Day (Mahila Kisan Diwas) is 15 Oct; event reported with 16 Oct Raisen dateline. Copy says 'on Friday' per IANS; exact day of event not certain."
+    - "Women Farmers' Day (Mahila Kisan Diwas) is Oct 15; event reported with Oct 16 Raisen dateline. Copy says 'on Friday' per IANS; exact day of event not certain."
     - "Cost and length of the 46 roads not given."
 ---
 

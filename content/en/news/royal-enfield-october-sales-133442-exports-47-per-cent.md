@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov about 17:20 IST, Royal Enfield October sales update (Whalesbook 11:57 UTC = 17:27 IST)."
+    - "event: Nov 1 about 17:20 IST, Royal Enfield October sales update (Whalesbook 11:57 UTC = 17:27 IST)."
     - "Single source for figures; numbers are the company's own monthly update. Domestic split not reported, so not given. No named executive quote; only the phrase 'best-ever festive season' attributed to management."
     - "April-October total 8,42,538 (up 18%) as reported; source also says above-350cc models down 5% for the period, left out as it looks inconsistent with October's above-350cc rise and is unclear."
 ---

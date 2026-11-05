@@ -12,7 +12,7 @@ location: Mumbai
 keyPoints:
   - "Mumbai Indians announced the **elevation of Kieron Pollard to head coach** ahead of IPL 2027."
   - "Pollard, 39, played in **all five of Mumbai's title wins** between 2013 and 2020."
-  - "He must shape retentions quickly, with the **mini auction in Goa on 16 December**."
+  - "He must shape retentions quickly, with the **mini auction in Goa on December 16**."
 hero:
   need: "Kieron Pollard in Mumbai Indians colours"
   suggested_source: "Kieron Pollard"
@@ -22,7 +22,7 @@ hero:
     value: "From finisher to head coach"
 related: [jayawardene-steps-down-mumbai-indians-coach, mumbai-indians-trade-tara-norris-from-up-warriorz]
 seo:
-  description: "Mumbai Indians have named Kieron Pollard head coach for IPL 2027, replacing Mahela Jayawardene, who left the franchise on 17 October after a ninth-place finish."
+  description: "Mumbai Indians have named Kieron Pollard head coach for IPL 2027, replacing Mahela Jayawardene, who left the franchise on October 17 after a ninth-place finish."
 sources:
   - title: "From MI finisher to head coach, Kieron Pollard replaces Jayawardene ahead of IPL 2027"
     publisher: "NewsDrum"
@@ -50,13 +50,13 @@ verification:
     - "Announcement time: Sports Digest article metadata 12:19 pm IST; NewsDrum 3:26 pm. Published set at 12:25 pm."
     - "Quotes are fragments as given by the fetch tool from NewsDrum (MI statement, Pollard 'MI has been a huge part...', Nita Ambani 'Polly knows...') and Sports Digest (Pollard 'It is an honour...'). Full statement not read."
     - "Contract length not reported. Age 39 from NewsDrum. Career numbers (189 matches, 3,412 runs, 69 wickets) from NewsDrum; 3,412 runs and 189 matches match a 2022 PTI report."
-    - "Retention deadline 'less than a month away' and Goa auction on 16 December from IANS piece of 21 Oct."
+    - "Retention deadline 'less than a month away' and Goa auction on December 16 from IANS piece of Oct 21."
     - "Jayawardene coaching history from NewsDrum: 2017-2022, then global performance role, returned 2024."
 ---
 
 Mumbai Indians have handed their dugout to one of their own. Kieron Pollard, who spent 13 seasons as the franchise's big-hitting finisher and the past four as its batting coach, was named head coach on Saturday ahead of the 2027 Indian Premier League.
 
-He replaces Mahela Jayawardene, whose departure the franchise confirmed on 17 October, ending a decade-long association with the five-time champions.
+He replaces Mahela Jayawardene, whose departure the franchise confirmed on October 17, ending a decade-long association with the five-time champions.
 
 "Mumbai Indians are pleased to announce the elevation of Kieron Pollard to Head Coach," the franchise said in its statement.
 
@@ -76,6 +76,6 @@ Pollard's name had been the obvious one since Jayawardene went. James Pamment, M
 
 ## A short runway
 
-There is little time to settle in. Franchises must finalise their retentions within the next few weeks, before the mini auction in Goa on 16 December. Pollard's first big decisions will be about which players to keep and which gaps to fill.
+There is little time to settle in. Franchises must finalise their retentions within the next few weeks, before the mini auction in Goa on December 16. Pollard's first big decisions will be about which players to keep and which gaps to fill.
 
 Mumbai are not the only side with a new man in charge. Zaheer Khan has taken over as head coach of Chennai Super Kings after Stephen Fleming's departure, and earlier this month Delhi Capitals brought in Sourav Ganguly. Pollard joins them as a first-time IPL head coach, though few people know the Mumbai dressing room better.

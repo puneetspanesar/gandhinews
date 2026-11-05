@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (Reuters via Dawn), summarising two research reports published 15 Oct by Citizen Lab and Confiant. Original reports not read."
+    - "Single source (Reuters via Dawn), summarising two research reports published Oct 15 by Citizen Lab and Confiant. Original reports not read."
     - "Dateline Toronto (Citizen Lab base) is a desk choice."
     - "No Israeli government response in source; Discover-Tech, Candiru owners, Yandex and Al Jazeera did not respond."
 ---

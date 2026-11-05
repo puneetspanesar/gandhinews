@@ -102,4 +102,4 @@ India's XI: Abhishek Sharma, Sanju Samson (wk), Vaibhav Sooryavanshi, Shreyas Iy
 
 ## What comes next
 
-The third match is in Wellington on Tuesday, 27 October, followed by games in Auckland on 30 October and Hamilton on 1 November.
+The third match is in Wellington on Tuesday, October 27, followed by games in Auckland on October 30 and Hamilton on November 1.

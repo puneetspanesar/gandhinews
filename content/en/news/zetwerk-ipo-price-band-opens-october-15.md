@@ -5,12 +5,12 @@ type: news
 section: economy
 format_label: "Economy / IPOs"
 topics: [economy]
-title: "Zetwerk sets ₹143-151 price band for ₹5,012 crore IPO opening on 15 October"
+title: "Zetwerk sets ₹143-151 price band for ₹5,012 crore IPO opening on October 15"
 standfirst: "The Bengaluru manufacturing company has enlarged both its fresh issue and the share sale by early backers, and seeks a valuation of about ₹25,583 crore."
 published: 2026-10-12T20:00:00+05:30
 location: Bengaluru
 keyPoints:
-  - "Zetwerk's IPO is priced at **₹143 to ₹151 a share** and runs from 15 to 19 October."
+  - "Zetwerk's IPO is priced at **₹143 to ₹151 a share** and runs from October 15 to 19."
   - "The ₹5,012 crore issue includes a **₹2,830 crore fresh issue**, up from ₹2,600 crore in its updated draft."
   - "Peak XV, Accel and Lightspeed are among sellers in an offer for sale that **grew 49% to 14.45 crore shares**."
 hero:
@@ -21,7 +21,7 @@ hero:
     value: "Zetwerk IPO: ₹143-151 a share"
 related: [sebi-new-settlement-rules-fast-track-up-to-10-lakh, sensex-falls-as-bond-yields-climb-rupee-best-day-since-april]
 seo:
-  description: "Zetwerk IPO price band set at ₹143-151 a share for a ₹5,012 crore issue. Opens 15 October, closes 19 October, listing 23 October at a ₹25,583 crore valuation."
+  description: "Zetwerk IPO price band set at ₹143-151 a share for a ₹5,012 crore issue. Opens October 15, closes October 19, listing October 23 at a ₹25,583 crore valuation."
 sources:
   - title: "Upcoming IPO: Zetwerk's ₹5,012 crore issue to open on Oct 15; check price band"
     publisher: "Upstox (PTI)"
@@ -52,9 +52,9 @@ verification:
     - "Seller-wise OFS shares (Lightspeed 2.51 cr, Peak XV 2.34 cr, Accel 1.2 cr) from YourStory only; not used."
 ---
 
-Zetwerk Manufacturing Businesses has set a price band of ₹143 to ₹151 a share for its initial public offering of about ₹5,012 crore, which opens on Thursday, 15 October, the company said in a public announcement on Monday.
+Zetwerk Manufacturing Businesses has set a price band of ₹143 to ₹151 a share for its initial public offering of about ₹5,012 crore, which opens on Thursday, October 15, the company said in a public announcement on Monday.
 
-At the top of the band the Bengaluru company would be valued at about ₹25,583 crore. Bidding for anchor investors opens on 14 October, the issue closes on 19 October, and the shares are expected to list on the BSE and NSE on 23 October.
+At the top of the band the Bengaluru company would be valued at about ₹25,583 crore. Bidding for anchor investors opens on October 14, the issue closes on October 19, and the shares are expected to list on the BSE and NSE on October 23.
 
 ## Bigger issue than planned
 

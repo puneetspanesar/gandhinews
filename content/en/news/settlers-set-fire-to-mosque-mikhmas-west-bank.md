@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: AFP via Dawn, updated 15 Oct 07:52 PKT. Attack shortly after midnight on Wednesday per resident Atta Kanaan; exact date of the attack relative to Wednesday is not fully clear, copy says 'early on Wednesday'."
+    - "Single source: AFP via Dawn, updated Oct 15 07:52 PKT. Attack shortly after midnight on Wednesday per resident Atta Kanaan; exact date of the attack relative to Wednesday is not fully clear, copy says 'early on Wednesday'."
     - "Mosque not named. Attribution to settlers rests on the resident's account and AFP; the army's statement does not name perpetrators."
     - "Graffiti text translated by AFP from Hebrew."
 ---

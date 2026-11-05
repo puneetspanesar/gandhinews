@@ -31,7 +31,7 @@ infographic:
   source: "CBS News, University of Florida Voting Lab, November 3, 2026"
 related: [supreme-court-rejects-trump-california-ballots-midterms-eve, us-midterms-stevens-backs-rogers-alaska-sullivan-suit-dismissed]
 seo:
-  description: "US midterm voting is under way on 3 November 2026 for all 435 House seats, 35 Senate seats and 36 governorships, with more than 57 million early votes cast. First results after 5:30 am IST."
+  description: "US midterm voting is under way on November 3, 2026, for all 435 House seats, 35 Senate seats and 36 governorships, with more than 57 million early votes cast. First results after 5:30 am IST."
 sources:
   - title: "2026 elections live updates as Americans vote in midterm battle for Senate and House control"
     publisher: "CBS News"
@@ -46,8 +46,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: voting under way on 3 Nov US time (polls opened from early Tuesday morning ET, i.e. Tuesday afternoon IST); first major poll closings at 7 pm ET (5:30 am IST Wednesday) per CBS coverage schedule. CBS live page fetched as updated 6:21 am ET."
-    - "Seat numbers, 57 million early votes (University of Florida Voting Lab), CBS Battleground Tracker 229 (215-237, 25 Oct), key Senate races, Trump quotes from Monday 2 Nov at the Reflecting Pool: all CBS live page."
+    - "event: voting under way on Nov 3 US time (polls opened from early Tuesday morning ET, i.e. Tuesday afternoon IST); first major poll closings at 7 pm ET (5:30 am IST Wednesday) per CBS coverage schedule. CBS live page fetched as updated 6:21 am ET."
+    - "Seat numbers, 57 million early votes (University of Florida Voting Lab), CBS Battleground Tracker 229 (215-237, Oct 25), key Senate races, Trump quotes from Monday, Nov 2 at the Reflecting Pool: all CBS live page."
     - "No voting incidents reported on the page fetched; none written. NBC Washington headline only."
 ---
 
@@ -55,7 +55,7 @@ Americans went to the polls on Tuesday in midterm elections that will decide **c
 
 On the ballot are **all 435 House seats**, 35 Senate seats and governorships in 36 states. More than 57 million people had already voted before election day, according to the University of Florida Voting Lab.
 
-Republicans go in holding 218 House seats, plus an independent who usually votes with them, against 214 for the Democrats, with two vacancies. A CBS News battleground estimate on 25 October put Democrats on course for about 229 seats, with a range of 215 to 237. In the Senate, where Republicans lead **53 to 47**, the races to watch include Republican-held Alaska, Iowa, Kansas, Maine, North Carolina, Ohio, South Carolina and Texas, and Democratic-held Georgia, Michigan and New Hampshire.
+Republicans go in holding 218 House seats, plus an independent who usually votes with them, against 214 for the Democrats, with two vacancies. A CBS News battleground estimate on October 25 put Democrats on course for about 229 seats, with a range of 215 to 237. In the Senate, where Republicans lead **53 to 47**, the races to watch include Republican-held Alaska, Iowa, Kansas, Maine, North Carolina, Ohio, South Carolina and Texas, and Democratic-held Georgia, Michigan and New Hampshire.
 
 Trump, closing his campaign in Washington on Monday, admitted the history was against him. "For some reason, the sitting president doesn't win the midterms," he said, while casting the vote as a choice over whether "these extremists will be given power or not power".
 

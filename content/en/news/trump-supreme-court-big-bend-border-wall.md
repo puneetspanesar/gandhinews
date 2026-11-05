@@ -22,7 +22,7 @@ hero:
     value: "A wall through Big Bend?"
 related: []
 seo:
-  description: "The Trump administration on 21 October asked the US Supreme Court to lift a judge's order blocking border wall construction in Texas's Big Bend Sector."
+  description: "The Trump administration on October 21 asked the US Supreme Court to lift a judge's order blocking border wall construction in Texas's Big Bend Sector."
 sources:
   - title: "Trump administration asks Supreme Court to allow border wall construction to resume in Big Bend region"
     publisher: "CBS News"
@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "All details from CBS News (Melissa Quinn, updated 4:45 pm EDT 21 Oct). Sauer quotes are partial as relayed; used only the opening clause. Al Jazeera headline only."
+    - "All details from CBS News (Melissa Quinn, updated 4:45 pm EDT Oct 21). Sauer quotes are partial as relayed; used only the opening clause. Al Jazeera headline only."
 ---
 
 The Trump administration has asked the US Supreme Court to clear the way for a border wall through the remote Big Bend region of Texas, after a federal judge halted construction across one of the quietest stretches of the frontier with Mexico.

@@ -22,7 +22,7 @@ hero:
     value: "Tigray now run from Addis Ababa"
 related: []
 seo:
-  description: "Ethiopia's PM Abiy Ahmed on 16 October installed a six-month interim government in Tigray after the army defeated a TPLF uprising, and promised free elections."
+  description: "Ethiopia's PM Abiy Ahmed on October 16 installed a six-month interim government in Tigray after the army defeated a TPLF uprising, and promised free elections."
 sources:
   - title: "Ethiopia announces instalment of interim government in Tigray"
     publisher: "Al Jazeera (AFP)"

@@ -22,7 +22,7 @@ hero:
     value: "Last day of filing, stones and fasts"
 related: [andhra-mptc-zptc-nominations-ysrcp-alleges-attacks, jagan-meets-governor-central-forces-cctv-local-body-polls, andhra-sec-halts-urban-local-body-polls-supreme-court-nomination-clashes, supreme-court-andhra-sec-hold-candidate-list-ysrcp-nominations]
 seo:
-  description: "Nominations for Andhra Pradesh's MPTC and ZPTC polls closed on 23 October amid clashes; the YSRCP moved the High Court and the TDP sought SEC action."
+  description: "Nominations for Andhra Pradesh's MPTC and ZPTC polls closed on October 23 amid clashes; the YSRCP moved the High Court and the TDP sought SEC action."
 sources:
   - title: "Parishad nominations end amid violence"
     publisher: "The Hans India"
@@ -37,15 +37,15 @@ sources:
 verification:
   status: approved
   notes:
-    - "Incident list rests on The Hans India's round-up (K Varaprasada Rao, 24 Oct 12:15 am). Most incidents attributed to YSRCP or described as reported; no police statement quoted in the source."
-    - "TDP complaint: The Hans India (24 Oct 12:29 am). Ramaiah's allegations attributed throughout; no YSRCP reply found."
-    - "Hans sidebar headline says ZPTC/MPTC polls 'may be postponed to November 5'; body not seen, left out. Poll date of 3 November from Gandhi News's 21 Oct story."
+    - "Incident list rests on The Hans India's round-up (K Varaprasada Rao, Oct 24 12:15 am). Most incidents attributed to YSRCP or described as reported; no police statement quoted in the source."
+    - "TDP complaint: The Hans India (Oct 24 12:29 am). Ramaiah's allegations attributed throughout; no YSRCP reply found."
+    - "Hans sidebar headline says ZPTC/MPTC polls 'may be postponed to November 5'; body not seen, left out. Poll date of November 3 from Gandhi News's Oct 21 story."
     - "No ruling on the YSRCP's High Court or SEC petitions reported by publication time."
 ---
 
 Filing of nominations for Andhra Pradesh's mandal and district council elections closed on Friday the way it had opened, with stone-pelting, a torched car, hunger strikes and a stream of complaints from both the ruling Telugu Desam Party (TDP) and the opposition YSR Congress Party (YSRCP).
 
-The polls to Mandal Parishad Territorial Constituencies (MPTCs) and Zilla Parishad Territorial Constituencies (ZPTCs) are due on 3 November. The YSRCP says many of its candidates never reached the counter, and it has asked the Andhra Pradesh High Court and the State Election Commission (SEC) to protect them and extend the deadline. Neither had ruled on the requests by Friday night.
+The polls to Mandal Parishad Territorial Constituencies (MPTCs) and Zilla Parishad Territorial Constituencies (ZPTCs) are due on November 3. The YSRCP says many of its candidates never reached the counter, and it has asked the Andhra Pradesh High Court and the State Election Commission (SEC) to protect them and extend the deadline. Neither had ruled on the requests by Friday night.
 
 ## A day of clashes
 

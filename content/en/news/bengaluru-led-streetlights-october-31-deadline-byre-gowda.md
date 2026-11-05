@@ -5,12 +5,12 @@ type: news
 section: states
 format_label: "States / Karnataka"
 topics: []
-title: "Krishna Byre Gowda gives contractors until 31 October to light up Bengaluru with LED streetlights"
+title: "Krishna Byre Gowda gives contractors until October 31 to light up Bengaluru with LED streetlights"
 standfirst: "The Greater Bengaluru Development Minister said contractors had already been fined ₹93.67 lakh for failing to maintain the city's streetlights, and warned of more action."
 published: 2026-10-19T20:20:00+05:30
 location: Bengaluru
 keyPoints:
-  - "Minister Krishna Byre Gowda set a **31 October deadline** for LED streetlights across Bengaluru."
+  - "Minister Krishna Byre Gowda set a **October 31 deadline** for LED streetlights across Bengaluru."
   - "Contractors have been fined **₹93.67 lakh** for poor streetlight maintenance."
   - "He warned contractors that **maintenance failures** would not be tolerated."
 hero:
@@ -19,10 +19,10 @@ hero:
   subjects: ["Krishna Byre Gowda"]
   alt: "Karnataka minister Krishna Byre Gowda"
   overlay:
-    value: "LED lights by 31 October"
+    value: "LED lights by October 31"
 related: []
 seo:
-  description: "Greater Bengaluru Development Minister Krishna Byre Gowda set a 31 October deadline for LED streetlights across Bengaluru; contractors have been fined ₹93.67 lakh."
+  description: "Greater Bengaluru Development Minister Krishna Byre Gowda set a October 31 deadline for LED streetlights across Bengaluru; contractors have been fined ₹93.67 lakh."
 sources:
   - title: "Krishna Byre Gowda sets October 31 deadline for LED streetlights across Bengaluru"
     publisher: "Deccan Herald"
@@ -36,7 +36,7 @@ verification:
     - "Byre Gowda's title 'Greater Bengaluru Development Minister' from DH page metadata."
 ---
 
-Karnataka's Greater Bengaluru Development Minister, Krishna Byre Gowda, has given contractors until 31 October to switch the city's streetlights to LED, and warned them that poor upkeep of the lights would cost them.
+Karnataka's Greater Bengaluru Development Minister, Krishna Byre Gowda, has given contractors until October 31 to switch the city's streetlights to LED, and warned them that poor upkeep of the lights would cost them.
 
 The minister, who is in charge of the capital's development in the Karnataka government, said fines had already been handed out. "Penalties totalling Rs 93.67 lakh have already been imposed on contractors for failing to maintain streetlights," Byre Gowda said on Monday.
 

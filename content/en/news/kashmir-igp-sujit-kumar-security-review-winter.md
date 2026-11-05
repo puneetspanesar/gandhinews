@@ -22,7 +22,7 @@ hero:
     value: "Smarter nakas, faster cases"
 related: []
 seo:
-  description: "Kashmir IGP Sujit Kumar reviewed security across the valley on 24 October, ordering action against overground workers, smarter nakas and winter facilities for police."
+  description: "Kashmir IGP Sujit Kumar reviewed security across the valley on October 24, ordering action against overground workers, smarter nakas and winter facilities for police."
 sources:
   - title: "Kashmir Police chief reviews security preparedness across valley"
     publisher: "ThePrint (PTI)"

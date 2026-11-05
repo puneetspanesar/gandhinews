@@ -10,9 +10,9 @@ standfirst: "Oil ended Friday at its highest close since April and Wall Street s
 published: 2026-10-25T05:40:00+05:30
 location: Mumbai
 keyPoints:
-  - "Brent crude settled at **$116.72 a barrel** on Friday, its highest close since 29 April."
+  - "Brent crude settled at **$116.72 a barrel** on Friday, its highest close since April 29."
   - "Foreign investors sold a net **₹2,697 crore** of Indian shares last week while domestic funds bought."
-  - "The US Federal Reserve announces its decision at **11:30 pm IST on Wednesday**, 28 October."
+  - "The US Federal Reserve announces its decision at **11:30 pm IST on Wednesday**, October 28."
 hero:
   need: "The Marriner S. Eccles Federal Reserve Board building in Washington, where the Fed's rate-setting committee meets"
   suggested_source: "Marriner S. Eccles Federal Reserve Board Building"
@@ -22,7 +22,7 @@ hero:
     value: "Oil at $116, five rate calls ahead"
 related: [global-cues-week-ahead-wall-street-crude-dollar-october-26, week-ahead-results-data-calendar-october-26-30, sensex-nifty-close-october-23-smallcaps-crash-metals, rupee-slips-12-paise-94-93-brent-fii-selling-october-23, infosys-cuts-fy27-guidance-1-2-per-cent-q2-profit-7823-crore, central-bank-week-results-l-t-maruti-hul-us-gdp-iip, fii-net-sellers-2697-crore-week-dii-buy-10942-crore]
 seo:
-  description: "Week-ahead cues for Indian markets, 26-30 October 2026: Brent at $116.72, Dow down 653 points, Gift Nifty flat, FII selling, Fed, ECB, BoJ, RBNZ and Bank of Canada decisions."
+  description: "Week-ahead cues for Indian markets, October 26-30, 2026: Brent at $116.72, Dow down 653 points, Gift Nifty flat, FII selling, Fed, ECB, BoJ, RBNZ and Bank of Canada decisions."
 sources:
   - title: "Brent Crude Surges to $116.72, Highest in Six Months, as Market Fears New U.S. Strike on Iran"
     publisher: "BigGo Finance"
@@ -72,17 +72,17 @@ sources:
 verification:
   status: approved
   notes:
-    - "Brent settlement $116.72 (+3.1%), highest close since 29 April, +6.2% on the week; WTI $103.27 (+3.8%): BigGo Finance (24 Oct). Yahoo Finance (cited in Saturday's desk story) also gave $116.72 as the settlement, so two sources now agree. Yahoo's WTI ticker had $103.44; BigGo's settlement figure used."
+    - "Brent settlement $116.72 (+3.1%), highest close since April 29, +6.2% on the week; WTI $103.27 (+3.8%): BigGo Finance (Oct 24). Yahoo Finance (cited in Saturday's desk story) also gave $116.72 as the settlement, so two sources now agree. Yahoo's WTI ticker had $103.44; BigGo's settlement figure used."
     - "US index closes from Yahoo Finance and TradingKey via Saturday's desk story."
     - "Gift Nifty 22,603 is HDFC Sky's Friday afternoon reading (4:56 pm IST), before the US session; no later Gift Nifty close was found, so copy says it pointed to a flat start at that time only."
     - "FII/DII weekly flows (FII -2,697.37 crore, DII +10,942.19 crore) are provisional exchange figures as compiled by Liquide; single source."
     - "Midcap and smallcap weekly falls (about 5.6% and 7.3%) are Liquide's; index variants not specified, so copy says 'about' and 'mid-sized and smaller companies'."
-    - "Central bank dates and current rates from Admiral Markets (preview written 21 Oct) and Trading Economics (23 Oct). Fed hike odds: about 9% per CME FedWatch as cited by Trading Economics; Admiral had about 15% as of 16 Oct. Copy says 'small'. December odds above 80% per Trading Economics."
-    - "ECB 13:15 GMT = 6:45 pm IST; RBNZ 01:00 GMT Wed = 6:30 am IST Wed; BoC 13:45 GMT = 7:15 pm IST; Fed 18:00 GMT = 11:30 pm IST (GMT, as UK clocks change 25 Oct). BoJ has no fixed time; around midday Tokyo."
-    - "Nifty levels and Ravi Singh quote from Goodreturns (24 Oct, 5:33 pm)."
+    - "Central bank dates and current rates from Admiral Markets (preview written Oct 21) and Trading Economics (Oct 23). Fed hike odds: about 9% per CME FedWatch as cited by Trading Economics; Admiral had about 15% as of Oct 16. Copy says 'small'. December odds above 80% per Trading Economics."
+    - "ECB 13:15 GMT = 6:45 pm IST; RBNZ 01:00 GMT Wed = 6:30 am IST Wed; BoC 13:45 GMT = 7:15 pm IST; Fed 18:00 GMT = 11:30 pm IST (GMT, as UK clocks change Oct 25). BoJ has no fixed time; around midday Tokyo."
+    - "Nifty levels and Ravi Singh quote from Goodreturns (Oct 24, 5:33 pm)."
 ---
 
-Indian shares go into the last week of October with oil climbing, foreign investors still selling and the world's big central banks lined up to speak. Brent crude, the benchmark for most of what India imports, settled at $116.72 a barrel on Friday, up 3.1% on the day and its highest close since 29 April.
+Indian shares go into the last week of October with oil climbing, foreign investors still selling and the world's big central banks lined up to speak. Brent crude, the benchmark for most of what India imports, settled at $116.72 a barrel on Friday, up 3.1% on the day and its highest close since April 29.
 
 The rise came on growing expectations that the United States and Israel could strike Iran again after the US midterm elections, and on Houthi attacks on Saudi targets, including the Shuqaiq oil facility. Brent gained 6.2% over the week, its third weekly rise in a row, while West Texas Intermediate crude closed 3.8% higher at $103.27.
 

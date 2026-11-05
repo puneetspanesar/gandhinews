@@ -5,14 +5,14 @@ type: news
 section: states
 format_label: "States / Odisha"
 topics: []
-title: "Bhubaneswar puts rescue units at puja pandals and readies three immersion sites for 22 October"
+title: "Bhubaneswar puts rescue units at puja pandals and readies three immersion sites for October 22"
 standfirst: "With the Kolkata stampede fresh in mind, the city's police have sorted about 200 pandals by crowd size and stationed eight rescue teams trained for crowd surges."
 published: 2026-10-19T21:45:00+05:30
 location: Bhubaneswar
 keyPoints:
   - "Bhubaneswar police have graded about **200 approved pandals** by footfall and size."
   - "**Eight special rescue units** trained in crowd-surge response are on standby."
-  - "Visarjan and Ravan Podi are planned for **22 October** at three immersion sites."
+  - "Visarjan and Ravan Podi are planned for **October 22** at three immersion sites."
 hero:
   need: "A Durga Puja pandal or crowds at night in Bhubaneswar"
   suggested_source: "Durga Puja Bhubaneswar pandal"
@@ -22,7 +22,7 @@ hero:
     value: "200 pandals, eight rescue teams"
 related: [kolkata-chorbagan-durga-puja-pandal-stampede, kolkata-pandal-safety-audit-no-vip-entry-adhikari]
 seo:
-  description: "Bhubaneswar police have graded about 200 Durga Puja pandals, deployed eight special rescue units and set up three immersion sites for visarjan on 22 October."
+  description: "Bhubaneswar police have graded about 200 Durga Puja pandals, deployed eight special rescue units and set up three immersion sites for visarjan on October 22."
 sources:
   - title: "Odisha: Police detail traffic diversions, three-tier security, visarjan arrangements for Durga Puja"
     publisher: "ANI"
@@ -45,4 +45,4 @@ The stampede at the Chorbagan pandal in north Kolkata, which killed 19 people, h
 
 On the roads, heavy vehicles are being diverted along suburban routes and bypasses to keep the national highway moving. One choke point, where six lanes narrow into four-lane bridges, is being watched closely, and police have been posted on flyovers where people stop to take selfies or shoot reels. Fines are being collected from those who park near mandaps or in no-parking zones.
 
-The immersion of idols and Ravan Podi, the burning of Ravana effigies, are planned for 22 October. Working with the Bhubaneswar Municipal Corporation, police have prepared three immersion points with temporary ponds, where cranes will be deployed and routes lined with personnel.
+The immersion of idols and Ravan Podi, the burning of Ravana effigies, are planned for October 22. Working with the Bhubaneswar Municipal Corporation, police have prepared three immersion points with temporary ponds, where cranes will be deployed and routes lined with personnel.

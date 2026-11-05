@@ -22,7 +22,7 @@ hero:
     value: "Amber arm buys out Ascent Circuits"
 related: [himadri-h1-profit-rises-29-per-cent-460-crore]
 seo:
-  description: "Amber Enterprises' subsidiary IL JIN Electronics signed a ₹13.12 crore share swap on 18 October 2026 to acquire the remaining 1.5% stake in PCB maker Ascent Circuits."
+  description: "Amber Enterprises' subsidiary IL JIN Electronics signed a ₹13.12 crore share swap on October 18, 2026, to acquire the remaining 1.5% stake in PCB maker Ascent Circuits."
 sources:
   - title: "Amber Enterprises Material Subsidiary IL JIN Electronics to Acquire Remaining 1.50% Stake in Ascent Circuits via Share Swap"
     publisher: "Equity Bulls"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (Equity Bulls, 18 Oct 5:39 pm IST) summarising Amber's Regulation 30 filing; filing itself not read."
+    - "Single source (Equity Bulls, Oct 18 5:39 pm IST) summarising Amber's Regulation 30 filing; filing itself not read."
     - "Turnover given in ₹ lakh: FY24 26,320; FY25 32,517; FY26 40,187, converted to crore."
     - "13,120 CCPS A2 at ₹10,000 each = ₹13.12 cr; 23,401 equity shares; closing within 10 business days."
     - "Location New Delhi is Amber's registered/corporate base (general knowledge); story uses no other detail from it."

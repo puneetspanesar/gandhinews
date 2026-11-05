@@ -28,7 +28,7 @@ related:
 - egypt-sisi-seeks-parliament-nod-to-defend-saudi-arabia
 - why-riyadh-airport-is-shut-houthi-saudi-strikes-explained
 seo:
-  description: A Houthi ballistic missile attack on a Yemeni government training camp in Shabwa on 19 October killed 53 recruits and wounded about 200, local authorities said.
+  description: A Houthi ballistic missile attack on a Yemeni government training camp in Shabwa on October 19 killed 53 recruits and wounded about 200, local authorities said.
 sources:
 - title: 'Houthi attack on Yemen army camp in Shabwa kills at least 53: reports'
   publisher: Al Jazeera

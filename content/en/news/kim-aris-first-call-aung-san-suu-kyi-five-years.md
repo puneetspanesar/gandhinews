@@ -22,7 +22,7 @@ hero:
     value: "One call in five years"
 related: []
 seo:
-  description: "Kim Aris says he spoke to his mother, detained Myanmar leader Aung San Suu Kyi, for the first time in over five years on 22 October 2026."
+  description: "Kim Aris says he spoke to his mother, detained Myanmar leader Aung San Suu Kyi, for the first time in over five years on October 22, 2026."
 sources:
   - title: "Son of Aung San Suu Kyi says had first call in five years"
     publisher: "CNA (AFP)"

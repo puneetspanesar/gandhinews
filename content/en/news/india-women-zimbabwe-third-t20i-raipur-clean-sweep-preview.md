@@ -22,7 +22,7 @@ hero:
     value: "2-0 up, one to play"
 related: [india-women-beat-zimbabwe-nine-wickets-seal-series-shafali-mandhana, india-women-beat-zimbabwe-niki-prasad-deepti-raipur, india-women-zimbabwe-raipur-mandhana-first-match-captain, india-women-zimbabwe-second-t20i-raipur-top-order-preview]
 seo:
-  description: "India women face Zimbabwe in the third T20I at Raipur on 20 October at 7 pm IST, chasing a 3-0 series sweep after wins by four and nine wickets."
+  description: "India women face Zimbabwe in the third T20I at Raipur on October 20 at 7 pm IST, chasing a 3-0 series sweep after wins by four and nine wickets."
 sources:
   - title: "IND-W vs ZIM-W T20Is: All you need to know, full schedule, squads, venues and live streaming details"
     publisher: "Wisden"
@@ -43,7 +43,7 @@ verification:
   status: approved
   notes:
     - "Schedule, time and squads from Wisden; Wisden article date approximate."
-    - "Second-match figures from our 18 Oct story and its Statesman source; first-match margin from the Devdiscourse headline only."
+    - "Second-match figures from our Oct 18 story and its Statesman source; first-match margin from the Devdiscourse headline only."
     - "No team news for the third match was available; no line-up changes reported."
 ---
 

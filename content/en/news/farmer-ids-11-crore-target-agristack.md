@@ -10,7 +10,7 @@ standfirst: "Agriculture Minister Shivraj Singh Chouhan said the target was met 
 published: 2026-10-24T14:20:00+05:30
 location: New Delhi
 keyPoints:
-  - "The government has created **11 crore Farmer IDs**, meeting a target set for 31 March 2027."
+  - "The government has created **11 crore Farmer IDs**, meeting a target set for March 31, 2027."
   - "In February the count stood at **8.47 crore**, Chouhan told the Rajya Sabha."
   - "More than **6 crore farmers** have received benefits through the ID-based system, the ministry says."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "11 crore farmers, one digital ID each"
 related: [chouhan-khet-bachao-abhiyan-october-22-november-30, chouhan-women-farmers-recognition-sanchi]
 seo:
-  description: "India has created 11 crore Farmer IDs under the Digital Agriculture Mission, five months before the March 2027 deadline, Shivraj Singh Chouhan said on 24 October."
+  description: "India has created 11 crore Farmer IDs under the Digital Agriculture Mission, five months before the March 2027 deadline, Shivraj Singh Chouhan said on October 24."
 sources:
   - title: "11 Crore Farmer IDs Created Five Months Ahead of Schedule, Marking Major Milestone in Digital Agriculture: Shri Shivraj Singh Chouhan"
     publisher: "Press Information Bureau (Ministry of Agriculture and Farmers Welfare)"
@@ -54,16 +54,16 @@ verification:
   notes:
     - "PIB page would not render; release content from Odisha Diary and Hans India (which carry the ministry text) and AIR (1:54 pm). Announcement via video message / X post on Saturday."
     - "No verbatim quotes beyond the phrase 'five months ahead of schedule' (AIR); all else paraphrased. No state-wise figures available."
-    - "Target attributed to the Prime Minister per AIR. Deadline 31 March 2027 per Odisha Diary/Hans India."
-    - "February figures (8.47 crore, 19 states, 2.9 crore linked to crop insurance portal) from AIR, 6 Feb 2026, Chouhan in Rajya Sabha Question Hour."
-    - "'AgriStack' not used in the official text read; slug only. Copy uses Digital Agriculture Mission (Cabinet approval 2 Sept 2024 per Odisha Diary)."
+    - "Target attributed to the Prime Minister per AIR. Deadline March 31, 2027, per Odisha Diary/Hans India."
+    - "February figures (8.47 crore, 19 states, 2.9 crore linked to crop insurance portal) from AIR, Feb 6, 2026, Chouhan in Rajya Sabha Question Hour."
+    - "'AgriStack' not used in the official text read; slug only. Copy uses Digital Agriculture Mission (Cabinet approval Sept 2, 2024, per Odisha Diary)."
 ---
 
 The Centre has created 11 crore Farmer IDs, reaching a target set for March 2027 five months early, Agriculture and Farmers Welfare Minister Shivraj Singh Chouhan said on Saturday.
 
-In a video message and a post on X, Chouhan said the figure was crossed on Friday night. The target had been set by Prime Minister Narendra Modi, with a deadline of 31 March 2027, and the minister said it had been met "five months ahead of schedule". He thanked officials of the Centre, the states, the Union Territories and district administrations, and called the effort an example of cooperative federalism.
+In a video message and a post on X, Chouhan said the figure was crossed on Friday night. The target had been set by Prime Minister Narendra Modi, with a deadline of March 31, 2027, and the minister said it had been met "five months ahead of schedule". He thanked officials of the Centre, the states, the Union Territories and district administrations, and called the effort an example of cooperative federalism.
 
-The Farmer ID is a unique digital identity that links a farmer to verified records. It is built under the Digital Agriculture Mission, which the Union Cabinet approved on 2 September 2024.
+The Farmer ID is a unique digital identity that links a farmer to verified records. It is built under the Digital Agriculture Mission, which the Union Cabinet approved on September 2, 2024.
 
 ## From 8.47 crore to 11 crore
 

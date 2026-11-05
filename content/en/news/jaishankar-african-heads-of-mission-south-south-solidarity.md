@@ -43,7 +43,7 @@ verification:
   status: approved
   notes:
     - "Saturday interaction: News On AIR 10:01 pm IST, based on Jaishankar's X post. Number of envoys and countries not given. Quote uses 'Deep South-South solidarity' as reported; capital D kept in source, rendered lowercase 'deep' in copy."
-    - "Tour dates 6-10 October from Zawya/MEA release headline 'October 06-10 2026'; Addis Ababa conference and Adwa speech from News On AIR 11 Oct."
+    - "Tour dates October 6-10 from Zawya/MEA release headline 'October 06-10 2026'; Addis Ababa conference and Adwa speech from News On AIR Oct 11."
 ---
 
 External Affairs Minister S. Jaishankar met Heads of Mission from African countries in New Delhi on Saturday, saying afterwards that India's relationship with the continent rested on a shared past and common goals.
@@ -54,7 +54,7 @@ He said the discussion had covered the partnership itself, "the rise of Africa i
 
 ## After the Africa tour
 
-The meeting came two weeks after Jaishankar's official visit to Ghana, Côte d'Ivoire and Ethiopia from 6 to 10 October.
+The meeting came two weeks after Jaishankar's official visit to Ghana, Côte d'Ivoire and Ethiopia from October 6 to 10.
 
 In Addis Ababa he chaired a conference of India's own Heads of Mission in Africa and spoke at the Adwa Memorial Museum, where he set out his view of the partnership. Future cooperation, he said there, should build capabilities rather than create dependencies, and he called for a reformed UN Security Council that gives Africa fair representation.
 

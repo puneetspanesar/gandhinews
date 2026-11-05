@@ -22,7 +22,7 @@ hero:
     value: "26 killed at an aid centre"
 related: [zelenskyy-witkoff-kushner-call-war-must-end-starshield, witkoff-putin-st-petersburg-talks-updated-peace-plan, zelenskyy-us-proposes-trilateral-putin-summit-december]
 seo:
-  description: "Russian bombs killed at least 26 people at an aid centre in Komyshuvakha, Zaporizhzhia, on 2 November 2026. Zelenskyy asked the US to press Russia and warned of a strike during the midterms."
+  description: "Russian bombs killed at least 26 people at an aid centre in Komyshuvakha, Zaporizhzhia, on November 2, 2026. Zelenskyy asked the US to press Russia and warned of a strike during the midterms."
 cover:
   template: breaking
   label: "Ukraine war"
@@ -54,7 +54,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: strike 2 Nov daytime (Ukraine time); toll first 18 (Zelenskyy), then 24 (State Emergency Service, Al Jazeera, Kyiv Post), then at least 26 (DSNS via Euronews; Ukrainska Pravda via Fox). Copy uses 'at least 26'. Zelenskyy nightly address late 2 Nov Kyiv time, about 3 Nov 02:00-03:00 IST."
+    - "event: strike Nov 2 daytime (Ukraine time); toll first 18 (Zelenskyy), then 24 (State Emergency Service, Al Jazeera, Kyiv Post), then at least 26 (DSNS via Euronews; Ukrainska Pravda via Fox). Copy uses 'at least 26'. Zelenskyy nightly address late Nov 2 Kyiv time, about Nov 3 02:00-03:00 IST."
     - "Governor named differently in sources (Euronews: Ivan Fedorov; Al Jazeera: Mykhailo Semikin), so copy says 'the regional governor' without a name. Nine KAB-3000 bombs: Euronews quoting the governor. 27 missing: Al Jazeera/Kyiv Post."
     - "Patriot sale (500 PAC-3, est. $2.1 bn) and refinery pause offer from the Fox piece citing Reuters/Fox interview. Al Jazeera headline mentions 'US announces new peace talks' but the fetched text had no details; left out."
     - "India angle: India as a major buyer of Russian crude is background context, not something Zelenskyy said about India."

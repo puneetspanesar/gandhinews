@@ -41,8 +41,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Wire copy (ANI via Tribune). Meeting date: ANI dateline says Thursday 15 Oct, but Jaishankar's X posts are dated 14 Oct; copy avoids naming the day of the meeting."
-    - "Visit length: one ANI report says 14-16 Oct (three days), the other says 'until Friday'; both consistent with ending Friday 16 Oct."
+    - "Wire copy (ANI via Tribune). Meeting date: ANI dateline says Thursday, Oct 15, but Jaishankar's X posts are dated Oct 14; copy avoids naming the day of the meeting."
+    - "Visit length: one ANI report says Oct 14-16 (three days), the other says 'until Friday'; both consistent with ending Friday, Oct 16."
     - "Raisina session title: 'The World Ahead: Power, Purpose & Possibility'."
 ---
 
@@ -52,6 +52,6 @@ Jaishankar described the meeting as "warm and productive", saying the two discus
 
 Sharing the stage with Abdullah bin Zayed at the forum's session, titled "The World Ahead: Power, Purpose & Possibility", Jaishankar said it was "important to recognise the increasing pace of change in the global order". Countries were exploring new partnerships as they responded to shocks in their own way, he said, and reform of multilateralism had become urgent, with smaller groupings able to help. "The India-UAE partnership of the last decade is a great example," he said of ties that had adapted to a changing world.
 
-The trip comes as the Gulf reels from a run of Houthi attacks on Saudi Arabia. The strike on Riyadh's King Khalid International Airport on 10 October killed 13 people, among them an Indian national. Of 11 Indians injured, eight remain under medical care and four are in intensive care, according to the MEA, which has called the attacks "totally unacceptable".
+The trip comes as the Gulf reels from a run of Houthi attacks on Saudi Arabia. The strike on Riyadh's King Khalid International Airport on October 10 killed 13 people, among them an Indian national. Of 11 Indians injured, eight remain under medical care and four are in intensive care, according to the MEA, which has called the attacks "totally unacceptable".
 
 Anwar Gargash, adviser to the UAE President, has called for reviving joint Gulf action on security and defence. "Our security is indivisible," he wrote.

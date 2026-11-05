@@ -10,7 +10,7 @@ standfirst: "New regulations replace the 2018 framework. Wrongful gains will be 
 published: 2026-10-12T07:00:00+05:30
 location: Mumbai
 keyPoints:
-  - "SEBI has notified the **Settlement of Administrative and Civil Proceedings Regulations, 2026**, approved by its board on 24 September."
+  - "SEBI has notified the **Settlement of Administrative and Civil Proceedings Regulations, 2026**, approved by its board on September 24."
   - "Cases where the settlement amount is **₹10 lakh or less** will go straight from SEBI's internal committee to a panel of whole-time members."
   - "Wrongful gains and investor losses will be **disgorged separately**, ending what SEBI called double counting in the old formula."
   - "The window to apply after a show-cause notice rises **from 60 to 90 days**."
@@ -72,20 +72,20 @@ sources:
 verification:
   status: approved
   notes:
-    - "Primary source: SEBI's regulations page (listed 8 Oct 2026) confirms the exact title. The regulation PDF itself could not be opened (proxy blocked sebi.gov.in downloads), so provisions come from Business Today (24 Sep), the ELP law-firm update on the board meeting, PTI (Deccan Herald) and IANS (Sambad, Punjab Kesari), which agree on ₹10 lakh, 60 to 90 days, separate disgorgement and the fast-track routes."
+    - "Primary source: SEBI's regulations page (listed Oct 8, 2026) confirms the exact title. The regulation PDF itself could not be opened (proxy blocked sebi.gov.in downloads), so provisions come from Business Today (Sep 24), the ELP law-firm update on the board meeting, PTI (Deccan Herald) and IANS (Sambad, Punjab Kesari), which agree on ₹10 lakh, 60 to 90 days, separate disgorgement and the fast-track routes."
     - "Name conflict: Hindusthan Samachar calls them the 'SEBI (Settlement Proceedings) Regulations, 2026'; SEBI's own page title is used."
-    - "Notification number (ending /2026/318) and date of 6 October come only from TaxGuru (a tax blog), so the story says only that SEBI posted the regulations on 8 October. The line explaining what settlement is was written by the desk as general context."
+    - "Notification number (ending /2026/318) and date of October 6 come only from TaxGuru (a tax blog), so the story says only that SEBI posted the regulations on October 8. The line explaining what settlement is was written by the desk as general context."
     - "Repeal of the SEBI (Settlement Proceedings) Regulations, 2018: TaxGuru states it; Outlook Money says the new rules replace those 'introduced in 2018'. Stated plainly."
     - "Commencement 'the day after 30 days from notification in the Gazette': Business Today and TaxGuru. Gazette date not seen, so no effective date is given."
     - "Disgorgement interest: 9% a year, 12% after the final order in other matters (Business Today, ELP); ELP's wording on exactly which matters get 9% vs 12% differs slightly, so the story keeps it general."
-    - "Outlook Money (11 Oct) gives multipliers (2x, 4x, 5.5x), minimums of ₹3 lakh/₹7 lakh, a 90% whistleblower discount and an exclusion list. None of this is corroborated elsewhere and some of it reads inconsistently with other reports, so all of it is left out."
+    - "Outlook Money (Oct 11) gives multipliers (2x, 4x, 5.5x), minimums of ₹3 lakh/₹7 lakh, a 90% whistleblower discount and an exclusion list. None of this is corroborated elsewhere and some of it reads inconsistently with other reports, so all of it is left out."
     - "'The existing double counting' is SEBI wording as reported by PTI and Business Today; used as paraphrase, not a quote block."
-    - "Fact-check 12 Oct: SEBI page re-checked (title, 8 Oct listing; no notification number or gazette date shown). Business Today (24 Sep) confirms components, base amount formula, separate disgorgement and 'existing double counting', 60-day settlement notice and exclusions, 60 to 90 days, one-time 90-day window with 'additional 20% settlement amount', 9%/12% interest and 30-day commencement. IANS (Sambad) confirms the ₹10 lakh route via internal committee to a panel of WTMs, the violation-based route and settlement of misstatement/diversion cases with remedial terms. 'Simpler and more predictable' is IANS framing, not a SEBI statement found anywhere, so attribution to the regulator removed (EN and HI). 'Skip a step' in the infographic is the desk's reading (the 2018 route ran through the High Powered Advisory Committee); not confirmed in a source."
+    - "Fact-check Oct 12: SEBI page re-checked (title, Oct 8 listing; no notification number or gazette date shown). Business Today (Sep 24) confirms components, base amount formula, separate disgorgement and 'existing double counting', 60-day settlement notice and exclusions, 60 to 90 days, one-time 90-day window with 'additional 20% settlement amount', 9%/12% interest and 30-day commencement. IANS (Sambad) confirms the ₹10 lakh route via internal committee to a panel of WTMs, the violation-based route and settlement of misstatement/diversion cases with remedial terms. 'Simpler and more predictable' is IANS framing, not a SEBI statement found anywhere, so attribution to the regulator removed (EN and HI). 'Skip a step' in the infographic is the desk's reading (the 2018 route ran through the High Powered Advisory Committee); not confirmed in a source."
 ---
 
-The Securities and Exchange Board of India (SEBI) has notified new rules for settling enforcement cases, changing how much violators pay and how fast smaller cases are closed. The Securities and Exchange Board of India (Settlement of Administrative and Civil Proceedings) Regulations, 2026 were posted on SEBI's website on 8 October.
+The Securities and Exchange Board of India (SEBI) has notified new rules for settling enforcement cases, changing how much violators pay and how fast smaller cases are closed. The Securities and Exchange Board of India (Settlement of Administrative and Civil Proceedings) Regulations, 2026 were posted on SEBI's website on October 8.
 
-They replace the settlement regulations of 2018. SEBI's board approved the change at its meeting on 24 September. The new rules take effect the day after 30 days have passed from their publication in the official gazette.
+They replace the settlement regulations of 2018. SEBI's board approved the change at its meeting on September 24. The new rules take effect the day after 30 days have passed from their publication in the official gazette.
 
 Settlement lets a person or company facing SEBI proceedings close the case by paying an amount and accepting conditions. The new formula and fast track are meant to make the framework simpler and more predictable.
 

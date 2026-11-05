@@ -8,7 +8,7 @@ topics: [inflation]
 title: "What the Strait of Hormuz attacks mean for what you pay for petrol, diesel and gas"
 standfirst: "Tankers are being hit almost daily in and around the strait, and Brent crude is back above $106 a barrel. Why a narrow channel off Iran matters so much to India, why pump prices have risen far less than crude, and what could change that."
 published: 2026-10-14T08:15:00+05:30
-shortAnswer: "India imports about 88% of its crude oil and about half its natural gas, and much of it normally comes through the Strait of Hormuz, which Iran has all but closed since the war began on 28 February. Crude has stayed above $100 a barrel for most of the year. Pump prices have risen in steps since May, with petrol in Delhi going from ₹94.77 to ₹102.12 a litre, because the Centre cut excise duty and state-run oil companies have absorbed part of the cost."
+shortAnswer: "India imports about 88% of its crude oil and about half its natural gas, and much of it normally comes through the Strait of Hormuz, which Iran has all but closed since the war began on February 28. Crude has stayed above $100 a barrel for most of the year. Pump prices have risen in steps since May, with petrol in Delhi going from ₹94.77 to ₹102.12 a litre, because the Centre cut excise duty and state-run oil companies have absorbed part of the cost."
 hero:
   need: "Jamnagar oil refinery, Gujarat"
   suggested_source: "Jamnagar Refinery Reliance"
@@ -52,11 +52,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "88% crude import dependence, 'about half' of gas, 'mostly via the Strait of Hormuz', the March excise cut (petrol special duty ₹13 to ₹3, diesel ₹10 to zero) and the ₹48.8 a litre OMC loss figure are all from The Week, 27 March 2026. The loss figure is as of March and will have changed."
-    - "Delhi prices: ₹94.77/₹87.67 before and ₹97.77/₹90.67 after the 15 May hike (News On AIR); ₹102.12/₹95.20 on 11 October (The Hans India). The number and dates of hikes in between were not confirmed from a text source, so the piece says only that further increases followed."
-    - "LPG: ₹60 domestic and ₹115 commercial increase on 7 March (Moneylife). Current Delhi cylinder price not confirmed, so omitted."
-    - "War start date (28 February), 'about a fifth' of world oil and LNG through Hormuz, $126 Brent on 30 April, excise collections down 23%, RBI dollar window: from the desk's earlier stories and their sources."
-    - "Brent $106.65 settlement on 12 October from the desk's markets story."
+    - "88% crude import dependence, 'about half' of gas, 'mostly via the Strait of Hormuz', the March excise cut (petrol special duty ₹13 to ₹3, diesel ₹10 to zero) and the ₹48.8 a litre OMC loss figure are all from The Week, March 27, 2026. The loss figure is as of March and will have changed."
+    - "Delhi prices: ₹94.77/₹87.67 before and ₹97.77/₹90.67 after the May 15 hike (News On AIR); ₹102.12/₹95.20 on October 11 (The Hans India). The number and dates of hikes in between were not confirmed from a text source, so the piece says only that further increases followed."
+    - "LPG: ₹60 domestic and ₹115 commercial increase on March 7 (Moneylife). Current Delhi cylinder price not confirmed, so omitted."
+    - "War start date (February 28), 'about a fifth' of world oil and LNG through Hormuz, $126 Brent on April 30, excise collections down 23%, RBI dollar window: from the desk's earlier stories and their sources."
+    - "Brent $106.65 settlement on October 12 from the desk's markets story."
 ---
 
 ## Why does a strait off Iran matter so much to India?
@@ -65,11 +65,11 @@ verification:
 
 The strait is the narrow exit from the Persian Gulf, between Iran and Oman. In normal times about a fifth of the world's oil and liquefied natural gas passes through it. India imports about 88% of the crude oil it uses and about half of its natural gas, and the bulk of those cargoes have come from Gulf producers through this one channel.
 
-Since the war began with US and Israeli strikes on Iran on 28 February, Iran has all but shut the strait by attacking ships and laying mines. In the past week alone, Iran's Revolutionary Guards said they set a supertanker on fire, and two tankers with Indian crews were struck on Sunday, leaving two Indian seafarers missing.
+Since the war began with US and Israeli strikes on Iran on February 28, Iran has all but shut the strait by attacking ships and laying mines. In the past week alone, Iran's Revolutionary Guards said they set a supertanker on fire, and two tankers with Indian crews were struck on Sunday, leaving two Indian seafarers missing.
 
 ## How has that shown up in oil prices?
 
-**Crude has stayed above $100 a barrel for most of the year.** Brent touched $126 on 30 April, its highest since June 2022. It settled at $106.65 on Monday, 12 October, after the latest attacks on Gulf shipping and on Riyadh's airport.
+**Crude has stayed above $100 a barrel for most of the year.** Brent touched $126 on April 30, its highest since June 2022. It settled at $106.65 on Monday, October 12, after the latest attacks on Gulf shipping and on Riyadh's airport.
 
 The rupee has made it worse. India pays for oil in dollars, and the rupee is close to 97 to the dollar, so each barrel costs more in rupees even when the dollar price holds steady.
 
@@ -79,13 +79,13 @@ The rupee has made it worse. India pays for oil in dollars, and the rupee is clo
 
 Petrol and diesel prices were held unchanged for the first weeks of the war. In late March the Centre cut the special excise duty on petrol from ₹13 a litre to ₹3, and on diesel from ₹10 to zero. That did not lower pump prices. It was meant to reduce the losses of Indian Oil, Bharat Petroleum and Hindustan Petroleum, which were then losing ₹48.8 on every litre of petrol and diesel they sold.
 
-Prices began rising on 15 May, when both fuels went up by ₹3 a litre. Further increases followed.
+Prices began rising on May 15, when both fuels went up by ₹3 a litre. Further increases followed.
 
 ```chart
-{"type":"vbar","title":"Petrol in Delhi since the war began","subtitle":"Retail price, ₹ per litre","unit":"₹","data":[{"label":"Before 15 May","value":94.77},{"label":"15 May","value":97.77},{"label":"11 Oct","value":102.12,"highlight":true}]}
+{"type":"vbar","title":"Petrol in Delhi since the war began","subtitle":"Retail price, ₹ per litre","unit":"₹","data":[{"label":"Before May 15","value":94.77},{"label":"May 15","value":97.77},{"label":"Oct 11","value":102.12,"highlight":true}]}
 ```
 
-On 11 October petrol cost ₹102.12 a litre in Delhi and diesel ₹95.20. That is an increase of under 8% since mid-May, a much smaller rise than in the price of crude since the war began.
+On October 11 petrol cost ₹102.12 a litre in Delhi and diesel ₹95.20. That is an increase of under 8% since mid-May, a much smaller rise than in the price of crude since the war began.
 
 ## Who pays for the difference?
 
@@ -97,11 +97,11 @@ Every one of these cushions has a cost. The longer crude stays high, the harder 
 
 ## What about cooking gas?
 
-**LPG prices rose early in the war.** The price of a domestic cylinder went up by ₹60 on 7 March, and commercial cylinders by ₹115. India imports much of its LPG, and a long closure of Hormuz keeps that supply under strain as well.
+**LPG prices rose early in the war.** The price of a domestic cylinder went up by ₹60 on March 7, and commercial cylinders by ₹115. India imports much of its LPG, and a long closure of Hormuz keeps that supply under strain as well.
 
 ## Does it affect people who do not drive?
 
-**Yes, through the prices of almost everything else.** Diesel moves trucks, tractors and generators, so its cost reaches food, building materials and factory goods. Wholesale fuel and power prices were nearly 23% higher in August than a year earlier, and retail inflation rose to 5.54% in September. The Reserve Bank raised its repo rate on 7 October partly because of oil.
+**Yes, through the prices of almost everything else.** Diesel moves trucks, tractors and generators, so its cost reaches food, building materials and factory goods. Wholesale fuel and power prices were nearly 23% higher in August than a year earlier, and retail inflation rose to 5.54% in September. The Reserve Bank raised its repo rate on October 7 partly because of oil.
 
 ## What could push pump prices up further?
 

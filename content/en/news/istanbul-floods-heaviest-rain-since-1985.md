@@ -21,7 +21,7 @@ hero:
     value: "242 mm in a night"
 related: []
 seo:
-  description: "Two people died as Istanbul saw its heaviest rain since 1985 on 14-15 October. Schools shut in six provinces and 43 flights were diverted from Istanbul Airport."
+  description: "Two people died as Istanbul saw its heaviest rain since 1985 on October 14-15. Schools shut in six provinces and 43 flights were diverted from Istanbul Airport."
 sources:
   - title: "Istanbul floods kill 2 as 43 flights diverted, schools close"
     publisher: "Türkiye Today"

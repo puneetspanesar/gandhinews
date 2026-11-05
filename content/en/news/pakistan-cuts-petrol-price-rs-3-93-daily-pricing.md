@@ -10,7 +10,7 @@ standfirst: "Petrol will cost Rs386.30 from Saturday to Monday under the daily p
 published: 2026-10-16T23:30:00+05:30
 location: Islamabad
 keyPoints:
-  - "Petrol falls by Rs3.93 to **Rs386.30 a litre** from 17 to 19 October."
+  - "Petrol falls by Rs3.93 to **Rs386.30 a litre** from October 17 to 19."
   - "High-speed diesel is **unchanged at Rs396.96**."
   - "Prices have been set **daily by Ogra** since July, in line with world oil markets."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "Rs386.30 a litre, till Monday"
 related: [irgc-supertanker-mine-fire-hormuz-closed, imf-gulf-economies-wont-return-to-pre-war-growth, pakistan-opposition-alliance-phc-kp-governors-rule-achakzai]
 seo:
-  description: "Pakistan has cut the petrol price by Rs3.93 to Rs386.30 a litre for 17 to 19 October, with high-speed diesel unchanged at Rs396.96, under Ogra's daily pricing."
+  description: "Pakistan has cut the petrol price by Rs3.93 to Rs386.30 a litre for October 17 to 19, with high-speed diesel unchanged at Rs396.96, under Ogra's daily pricing."
 sources:
   - title: "Govt cuts petrol price by Rs3.93 per litre"
     publisher: "Dawn"
@@ -47,18 +47,18 @@ sources:
 verification:
   status: approved
   notes:
-    - "Prices and dates from Dawn, 16 Oct 10:43 pm PKT, citing a Petroleum Division notification (not seen directly)."
-    - "15 Oct revision (petrol -Rs3.63, diesel +Re0.31) and SPI 11.38% are from Dawn headlines only; used just as stated in the headlines."
+    - "Prices and dates from Dawn, Oct 16 10:43 pm PKT, citing a Petroleum Division notification (not seen directly)."
+    - "Oct 15 revision (petrol -Rs3.63, diesel +Re0.31) and SPI 11.38% are from Dawn headlines only; used just as stated in the headlines."
     - "Malik quote from July as reproduced by Dawn."
     - "Brent $110 on Friday from Al Jazeera analysis (see Hormuz story)."
 ---
 
 Pakistan has cut the price of petrol by Rs3.93 a litre to Rs386.30 for the weekend, while leaving high-speed diesel unchanged at Rs396.96, according to a Petroleum Division notification issued on Friday night.
 
-The new rates apply from Saturday, 17 October, to Monday, 19 October. It is the second cut in petrol prices in two days: on Thursday the government lowered petrol by Rs3.63 a litre and raised diesel by Re0.31, which leaves diesel nearly Rs11 a litre dearer than petrol.
+The new rates apply from Saturday, October 17, to Monday, October 19. It is the second cut in petrol prices in two days: on Thursday the government lowered petrol by Rs3.63 a litre and raised diesel by Re0.31, which leaves diesel nearly Rs11 a litre dearer than petrol.
 
 Since July, fuel prices in Pakistan have been set every day by the Oil and Gas Regulatory Authority (Ogra), tracking international markets. Petroleum Minister Ali Pervaiz Malik announced the change at the time, citing "fluctuations in international market prices following renewed hostilities between Iran and the US."
 
 The relief at the pump is small next to the pressure on household budgets. Pakistan's short-term inflation measure, which tracks weekly prices of essential items, rose to 11.38% this week on the back of costly food.
 
-World oil prices remain high and volatile. Brent crude touched $110 a barrel on Friday, its highest since May, as attacks on ships in and around the Strait of Hormuz continued and Iran's Revolutionary Guards insisted the waterway was closed. Crude flows through the strait in the seven days to 13 October averaged 11.6 million barrels a day, about two-thirds of the pre-war level, according to the ship-tracking firm Kpler.
+World oil prices remain high and volatile. Brent crude touched $110 a barrel on Friday, its highest since May, as attacks on ships in and around the Strait of Hormuz continued and Iran's Revolutionary Guards insisted the waterway was closed. Crude flows through the strait in the seven days to October 13 averaged 11.6 million barrels a day, about two-thirds of the pre-war level, according to the ship-tracking firm Kpler.

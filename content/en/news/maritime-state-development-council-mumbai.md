@@ -32,7 +32,7 @@ verification:
   status: approved
   notes:
     - "PIB release read in Hindi; Sonowal's remarks paraphrased in English, exact Hindi words in the Hindi twin."
-    - "Release names Indian Ports Act, 2025, notified 15 May 2026; written as given."
+    - "Release names Indian Ports Act, 2025, notified May 15, 2026; written as given."
 ---
 
 Coastal states have until March 2027 to bring every port under a single set of procedures and documents, the Maritime State Development Council (MSDC) decided in Mumbai on Tuesday.

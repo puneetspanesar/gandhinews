@@ -33,10 +33,10 @@ sources:
 verification:
   status: verified-with-notes
   notes:
-    - "Fact-check 11 Oct 2026: spot-checked 12 of 35 rows against PRS bill pages (FCRA, 130th Amendment, VBSA, SMC, Corporate Laws, ISI, 131st Amendment, Public Examinations, National Honour, SC Judges, Tribunals, Kerala, MMDR, IBC); all stage dates match. Counts (8 in committee, 2 reported, 3 failed, 22 passed) add up to 35 and match the 11 Monsoon Bills PRS lists."
+    - "Fact-check Oct 11, 2026: spot-checked 12 of 35 rows against PRS bill pages (FCRA, 130th Amendment, VBSA, SMC, Corporate Laws, ISI, 131st Amendment, Public Examinations, National Honour, SC Judges, Tribunals, Kerala, MMDR, IBC); all stage dates match. Counts (8 in committee, 2 reported, 3 failed, 22 passed) add up to 35 and match the 11 Monsoon Bills PRS lists."
     - "Added the Kerala (Alteration of Name) Act, 2026 name (The News Minute). The remaining 21 rows were not individually re-opened; assent dates remain largely unconfirmed, as the page says."
-    - "Assent dates are missing for most Bills: PRS bill pages do not show them. Only Keralam (August 2026, in force 25 Aug) and the MMDR amendment (18 Aug 2026, from a Khaitan & Co law-firm note) carry assent information. Check the e-Gazette."
-    - "Union Territories Laws (Amendment) Bill, 2026: resolved. PRS now shows 'Infructuous' (Lok Sabha, 17 Apr 2026), matching LiveLaw's report of withdrawal."
+    - "Assent dates are missing for most Bills: PRS bill pages do not show them. Only Keralam (August 2026, in force Aug 25) and the MMDR amendment (Aug 18, 2026, from a Khaitan & Co law-firm note) carry assent information. Check the e-Gazette."
+    - "Union Territories Laws (Amendment) Bill, 2026: resolved. PRS now shows 'Infructuous' (Lok Sabha, Apr 17, 2026), matching LiveLaw's report of withdrawal."
     - "Ministry labels for the VB-G RAM G and SHANTI Bills are as PRS lists them and were not checked against the Bill texts."
     - "The Union Territories Laws (Amendment) Bill, 2024 row rests on News On AIR and the politics research file; its PRS page was not opened."
 ---
@@ -45,7 +45,7 @@ Parliament passed 11 Bills in the Monsoon Session of 2026, most of them in minut
 
 It covers Bills introduced between December 2024 and August 2026: the 32 in our research base, plus the Union Territories Laws (Amendment) Bill, 2026 and the two One Nation One Election Bills. They include the FCRA amendment and the Bill on removing ministers held in custody, both with joint committees; the Constitution amendment on delimitation, defeated in April; and laws passed this year, from the mines amendment to the renaming of Kerala as Keralam.
 
-As of 11 October 2026, eight Bills are with committees, two have committee reports awaiting a vote, three have failed or been dropped, and 22 have passed both Houses. The Winter Session's dates have not been announced.
+As of October 11, 2026, eight Bills are with committees, two have committee reports awaiting a vote, three have failed or been dropped, and 22 have passed both Houses. The Winter Session's dates have not been announced.
 
 ## How to read it
 
@@ -55,4 +55,4 @@ A blank assent date means we have not confirmed it, not that assent was refused.
 
 ## Source note
 
-Stage dates are from PRS Legislative Research bill pages, accessed on 11 October 2026. PRS pages carry no publication date. Other sources are named in each row: LiveLaw for the delimitation vote, The News Minute and Onmanorama for Keralam, and News On AIR, ThePrint and the Sunday Guardian for committee deadlines. We update this page when a Bill moves.
+Stage dates are from PRS Legislative Research bill pages, accessed on October 11, 2026. PRS pages carry no publication date. Other sources are named in each row: LiveLaw for the delimitation vote, The News Minute and Onmanorama for Keralam, and News On AIR, ThePrint and the Sunday Guardian for committee deadlines. We update this page when a Bill moves.

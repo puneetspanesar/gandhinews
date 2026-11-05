@@ -32,7 +32,7 @@ infographic:
   source: "Prime Minister's Office, November 4, 2026"
 related: [india-record-114-medals-asian-para-games-antil-sweep, modi-hosts-asian-games-champions-iyer-harmanpreet-delhi, india-name-168-athletes-asian-para-games-aichi-nagoya]
 seo:
-  description: "PM Narendra Modi will meet and address India's record Asian Para Games 2026 contingent, winners of 114 medals, at the Indira Gandhi Sports Complex in New Delhi on 5 November."
+  description: "PM Narendra Modi will meet and address India's record Asian Para Games 2026 contingent, winners of 114 medals, at the Indira Gandhi Sports Complex in New Delhi on November 5."
 sources:
   - title: "PM to meet Asian Para Games medalists on Thursday"
     publisher: "UNI"
@@ -52,10 +52,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 5 Nov about 16:30 IST (preview); announced 4 Nov about 12:47 IST in a PMO release carried by UNI. Published time set within run window as the big story of the evening."
+    - "event: Nov 5 about 16:30 IST (preview); announced Nov 4 about 12:47 IST in a PMO release carried by UNI. Published time set within run window as the big story of the evening."
     - "Venue, time, 97 athletes and the PMO line 'He will also address the gathering on the occasion' come from UNI's paywalled article (visible part only). Other attendees are named in the cut-off text, so no ministers or federation officials are named here."
-    - "PMO release itself not found on pmindia.gov.in at time of writing; the 18 Oct PMIndia release is used only for the send-off line."
-    - "15 Oct Asian Games meeting (85 medals, Major Dhyan Chand National Stadium): UNI 14 Oct and the site's own story."
+    - "PMO release itself not found on pmindia.gov.in at time of writing; the Oct 18 PMIndia release is used only for the send-off line."
+    - "Oct 15 Asian Games meeting (85 medals, Major Dhyan Chand National Stadium): UNI Oct 14 and the site's own story."
 ---
 
 Prime Minister Narendra Modi will meet India's Asian Para Games contingent on Thursday, honouring the team that won **the country's best haul at the Games** in Japan last month.
@@ -66,6 +66,6 @@ At Aichi-Nagoya last month, **97 Indian para-athletes won 114 medals**: 30 gold,
 
 Modi had sent the squad off in October, saying India was "immensely proud of our phenomenal para-athletes." When the Games ended he hailed "an extraordinary achievement," writing that "with a record 114 medals, this marks India's best-ever performance at the Games."
 
-Thursday's event follows the pattern of last month, when the Prime Minister **hosted the Asian Games medallists** at the Major Dhyan Chand National Stadium on 15 October, after a campaign that brought India 85 medals, also in Aichi-Nagoya.
+Thursday's event follows the pattern of last month, when the Prime Minister **hosted the Asian Games medallists** at the Major Dhyan Chand National Stadium on October 15, after a campaign that brought India 85 medals, also in Aichi-Nagoya.
 
 The para contingent's stars include Sumit Antil, who retained his javelin title as India swept the podium, and shooter Mona Agarwal, who won two golds and set a world record in the 50m rifle 3 positions SH1.

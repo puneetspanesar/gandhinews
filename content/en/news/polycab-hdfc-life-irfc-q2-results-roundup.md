@@ -21,7 +21,7 @@ hero:
     value: "Polycab profit up 43%"
 related: [tech-mahindra-q2-profit-rises-33-bonus-issue, persistent-q2-profit-falls-nagarro-costs-revenue-up-20, wipro-q2-results, icici-prudential-life-q2-profit-rises-25-per-cent, icici-prudential-amc-q2-profit-dividend]
 seo:
-  description: "Q2 FY27 results on 15 October 2026: Polycab profit up 42.59% to ₹977 crore, HDFC Life up 16.35%, IRFC up 10.21% with ₹1.15 dividend, HDFC AMC up 4.22%."
+  description: "Q2 FY27 results on October 15, 2026: Polycab profit up 42.59% to ₹977 crore, HDFC Life up 16.35%, IRFC up 10.21% with ₹1.15 dividend, HDFC AMC up 4.22%."
 sources:
   - title: "Around Rs 30,000 cr Jio Platforms IPO, Nestle's profit up 36%, & more"
     publisher: "Groww Digest"
@@ -31,10 +31,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "All figures rest on a single source, Groww Digest of 15 Oct, which summarises the companies' exchange filings. Filings themselves were not opened (search budget). Profit growth is year on year; whether consolidated or standalone is not stated."
-    - "Exact announcement times not known; all four reported on Thursday 15 Oct per the digest. Revenue figures, quotes and share price moves not available, so the story is kept short."
+    - "All figures rest on a single source, Groww Digest of Oct 15, which summarises the companies' exchange filings. Filings themselves were not opened (search budget). Profit growth is year on year; whether consolidated or standalone is not stated."
+    - "Exact announcement times not known; all four reported on Thursday, Oct 15 per the digest. Revenue figures, quotes and share price moves not available, so the story is kept short."
     - "Indian Bank left out: Groww (₹3,540.71 crore, +13.92%) and Business Standard (₹3,462 crore, +15%) disagree. Nestle India left out: Groww ₹1,009.61 crore vs Business Standard ₹1,026 crore, and it reported at about 1 pm, before this run's window."
-    - "IRFC dividend record date 23 Oct from the digest."
+    - "IRFC dividend record date Oct 23 from the digest."
 ---
 
 Polycab India's profit rose by more than 40% in the July to September quarter, one of several companies that reported higher earnings on a crowded Thursday for results.
@@ -49,7 +49,7 @@ HDFC Asset Management Company posted a 4.22% increase in profit to ₹748.73 cro
 
 ## Railway financier pays out
 
-Indian Railway Finance Corporation (IRFC), the state-owned railway financier, said its profit rose 10.21% to ₹1,958.48 crore. It declared a dividend of ₹1.15 a share, with a record date of 23 October.
+Indian Railway Finance Corporation (IRFC), the state-owned railway financier, said its profit rose 10.21% to ₹1,958.48 crore. It declared a dividend of ₹1.15 a share, with a record date of October 23.
 
 The four were among dozens of companies reporting on Thursday, a day dominated by the IT sector. Tech Mahindra's profit rose 32.7% and its board recommended a 1:1 bonus issue, Wipro's profit slipped 1.4%, and Persistent Systems' profit fell 25.4% on costs linked to its Nagarro acquisition even as revenue grew 20%.
 

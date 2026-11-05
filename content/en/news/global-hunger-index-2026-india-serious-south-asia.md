@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "GHI 2026 scores for India, Pakistan, Afghanistan, Nepal, Sri Lanka, South Asia and world, and Bangladesh rank 84 of 122, from The Daily Star (16 Oct). India's rank not given in what we read, so not stated. Publishers of the GHI not named in that article; left out."
+    - "GHI 2026 scores for India, Pakistan, Afghanistan, Nepal, Sri Lanka, South Asia and world, and Bangladesh rank 84 of 122, from The Daily Star (Oct 16). India's rank not given in what we read, so not stated. Publishers of the GHI not named in that article; left out."
     - "Bangladesh child wasting 12.9% and other indicators from the same report via Daily Star."
     - "Action Against Hunger 'Ten Largest Global Food Crises' released Friday (World Food Day) per Dawn; 177 million, 266 million in 47 countries, Pakistan 10.6 million from Dawn. Other seven countries on the list not given in what we read."
     - "Lower GHI score is better."

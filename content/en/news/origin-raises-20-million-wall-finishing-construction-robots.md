@@ -36,7 +36,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Details from Inc42 (16 Oct, 00:45 IST); Business Standard (15 Oct, 10:49 pm IST) seen as headline only. Company HQ given as US, city not named; no location line."
+    - "Details from Inc42 (Oct 16, 00:45 IST); Business Standard (Oct 15, 10:49 pm IST) seen as headline only. Company HQ given as US, city not named; no location line."
     - "'3X faster than a human' and 150 robots by end-2027 are the company's own claims."
     - "Quotes from Ghaturle are partial phrases as given by Inc42."
 ---

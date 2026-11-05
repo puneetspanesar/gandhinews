@@ -49,7 +49,7 @@ verification:
   notes:
     - "Goals (Penders og 77, Tel 87) agree in beIN, 112.ua and NewsCord. Palmer red on 80 minutes from 112.ua; second yellow for a lunge on Conor Gallagher from NewsCord citing The Guardian."
     - "De Zerbi quotes as compiled by NewsCord from BBC and NBC Sports. Robertson's comments paraphrased."
-    - "Spurs 12th, highest since 2 January, from NewsCord only; 'highest since January' left out. Maddison injury at 50 min from VAVEL live blog."
+    - "Spurs 12th, highest since January 2, from NewsCord only; 'highest since January' left out. Maddison injury at 50 min from VAVEL live blog."
     - "Penders' first league start per beIN only; left out."
 ---
 

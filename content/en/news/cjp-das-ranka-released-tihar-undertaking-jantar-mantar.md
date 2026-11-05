@@ -12,7 +12,7 @@ location: New Delhi
 keyPoints:
   - "The magistrate **rejected a police request** for three more days of judicial custody."
   - "Das and Ranka gave written undertakings **not to call protests at Jantar Mantar** while it stays de-notified."
-  - "Both must appear again **on Friday, 23 October, at 3 pm**."
+  - "Both must appear again **on Friday, October 23, at 3 pm**."
 hero:
   need: "The gate or outer wall of Tihar Jail, New Delhi"
   suggested_source: "Tihar Jail"
@@ -22,7 +22,7 @@ hero:
     value: "Out of Tihar, with conditions"
 related: [cjp-leaders-withdraw-delhi-hc-custody-plea, cjp-das-ranka-custody-extended-till-october-21, cjp-members-scale-jantar-mantar-gate-detained, politics-courts-day-ahead-cjp-leaders-magistrate-vacation-bench, what-is-the-cockroach-janta-party, police-detention-powers-bnss-explained]
 seo:
-  description: "A Delhi magistrate freed CJP leaders Saurav Das and Ashutosh Ranka from Tihar on 21 October on ₹50,000 bonds after they promised not to call protests at Jantar Mantar."
+  description: "A Delhi magistrate freed CJP leaders Saurav Das and Ashutosh Ranka from Tihar on October 21 on ₹50,000 bonds after they promised not to call protests at Jantar Mantar."
 sources:
   - title: "CJP's Saurav Das, Ashutosh Ranka walk out of Tihar Jail as court rejects police bid to extend custody"
     publisher: "India TV"
@@ -52,7 +52,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Release order: India TV (bonds, Section 135(3) BNSS, jail numbers, next hearing 23 Oct 3 pm, Crime Branch transfer of second case) and PTI via Daily Excelsior (ACP Ritu Raj as SEM, Sections 126 and 170 BNSS, police grounds, Ratna Singh, Kejriwal, Patra). Both agree on ₹50,000 personal and surety bonds and the 23 Oct date."
+    - "Release order: India TV (bonds, Section 135(3) BNSS, jail numbers, next hearing Oct 23 3 pm, Crime Branch transfer of second case) and PTI via Daily Excelsior (ACP Ritu Raj as SEM, Sections 126 and 170 BNSS, police grounds, Ratna Singh, Kejriwal, Patra). Both agree on ₹50,000 personal and surety bonds and the Oct 23 date."
     - "Undertaking wording quoted from Newsd ('We will not make any calls for protest at Jantar Mantar till such a time that it is de-notified', truncated in source; PTI version: 'as long as the site remains denotified'). Copy paraphrases."
     - "Police quote ('Based on their previous conduct...') from Newsd only."
     - "Kejriwal and Patra remarks are PTI paraphrases; no direct quotes used. Ratna Singh 'should have come earlier' is a PTI quote fragment."
@@ -64,7 +64,7 @@ Cockroach Janta Party leaders Saurav Das and Ashutosh Ranka walked out of Tihar 
 
 Special Executive Magistrate Ritu Raj, an assistant commissioner of police, ordered that each furnish a personal bond of ₹50,000 with a surety of the same amount. Both men gave written undertakings not to disturb public peace and not to call for protests at Jantar Mantar for as long as the site remains de-notified as a protest venue. Any future demonstrations, they promised, would stay within the constitutional framework.
 
-The magistrate held that the bonds and the written assurances were enough to keep the peace and that further custody was not needed. They must appear, with their sureties, at every hearing. The next one is on Friday, 23 October, at 3 pm, when the investigating officer must report on whether the sureties check out.
+The magistrate held that the bonds and the written assurances were enough to keep the peace and that further custody was not needed. They must appear, with their sureties, at every hearing. The next one is on Friday, October 23, at 3 pm, when the investigating officer must report on whether the sureties check out.
 
 ## What the police wanted
 
@@ -76,7 +76,7 @@ Ranka had been held in Jail No. 4 and Das in Jail No. 2.
 
 ## A long week in custody
 
-The two were detained on 13 October, a day after Jantar Mantar was struck off the list of protest sites, and remanded on 14 October. On Monday the same magistrate refused their sureties and extended custody by two days, saying their conduct showed "no respect for law".
+The two were detained on October 13, a day after Jantar Mantar was struck off the list of protest sites, and remanded on October 14. On Monday the same magistrate refused their sureties and extended custody by two days, saying their conduct showed "no respect for law".
 
 Earlier on Wednesday they withdrew a Delhi High Court petition against that extension after Justice Subramonium Prasad suggested they wait for the magistrate. "Would it not be better for you to withdraw this, see what happens at 2 PM and then follow the course of law," the judge had said.
 

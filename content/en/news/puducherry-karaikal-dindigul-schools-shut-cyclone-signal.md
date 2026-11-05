@@ -10,7 +10,7 @@ standfirst: "Distant warning signal No. 1 was hoisted at Puducherry port on Sund
 published: 2026-10-25T21:20:00+05:30
 location: Puducherry
 keyPoints:
-  - "Schools and colleges in **Puducherry and Karaikal** are closed on Monday, 26 October."
+  - "Schools and colleges in **Puducherry and Karaikal** are closed on Monday, October 26."
   - "Schools in Tamil Nadu's **Dindigul district** are also shut for the day."
   - "**Cyclone Warning Signal No. 1** has been hoisted at Puducherry port."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "Signal No. 1 at Puducherry port"
 related: [tamil-nadu-red-alert-pudukkottai-thanjavur-deep-depression, cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-landfall]
 seo:
-  description: "Schools and colleges in Puducherry and Karaikal and schools in Dindigul are closed on Monday 26 October; Cyclone Warning Signal No. 1 is up at Puducherry port."
+  description: "Schools and colleges in Puducherry and Karaikal and schools in Dindigul are closed on Monday, October 26; Cyclone Warning Signal No. 1 is up at Puducherry port."
 sources:
   - title: "School Holiday Tomorrow Due to Heavy Rain: Which Districts Will Remain Closed?"
     publisher: "Live Chennai"
@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Holiday list from Live Chennai only (updated 9:11 pm IST 25 Oct); announcing officials not named. List may grow overnight; copy says other districts may follow."
+    - "Holiday list from Live Chennai only (updated 9:11 pm IST Oct 25); announcing officials not named. List may grow overnight; copy says other districts may follow."
     - "Signal No. 1 at Puducherry port per Live Chennai. 'Distant warning' description is the standard IMD meaning of signal No. 1."
     - "Storm position and track from IMD Amaravati via Deccan Chronicle; Tamil Nadu/Puducherry heavy rain outlook via Dynamite News."
 ---

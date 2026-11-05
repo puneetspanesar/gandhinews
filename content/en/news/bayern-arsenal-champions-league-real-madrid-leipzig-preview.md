@@ -50,4 +50,4 @@ Alongside Bayern and Arsenal at 12:30 am IST, Real Madrid play RB Leipzig, Inter
 
 The night follows a Tuesday in which Paris Saint-Germain beat Barcelona 4-2 to stay top of the table and Liverpool came from two goals down to beat Villarreal 4-3.
 
-The league phase runs until 27 January. The top eight go straight into the last 16 and the next 16 enter a play-off round.
+The league phase runs until January 27. The top eight go straight into the last 16 and the next 16 enter a play-off round.

@@ -22,7 +22,7 @@ hero:
     value: "Beaches shut, oil offshore"
 related: [two-indian-seafarers-missing-after-tanker-attacks-off-oman, two-ships-sink-near-hormuz-pezeshkian-surrender, un-warns-food-crisis-hormuz-fertiliser-plan-stalls]
 seo:
-  description: "Ras Al Khaimah closed all beaches on 24 October as an offshore oil spill from a tanker spread along the UAE coast, after Umm Al Quwain and Sharjah closures."
+  description: "Ras Al Khaimah closed all beaches on October 24 as an offshore oil spill from a tanker spread along the UAE coast, after Umm Al Quwain and Sharjah closures."
 sources:
   - title: "UAE's Ras Al Khaimah shuts all beaches as neighbours grapple with oil spill (Reuters)"
     publisher: "Dawn"
@@ -38,14 +38,14 @@ verification:
   status: approved
   notes:
     - "Reuters via Dawn, 5:28 pm PKT. Tanker not named, cause of leak not stated, no volume given. No link to the Gulf ship attacks is made by the authorities; copy only notes the attacks as background."
-    - "Satellite image of the slick off Umm Al Quwain dated 19 Oct (Reuters)."
+    - "Satellite image of the slick off Umm Al Quwain dated Oct 19 (Reuters)."
 ---
 
 Ras Al Khaimah closed all of its beaches on Saturday as an oil spill off the coast of the United Arab Emirates spread north, a day after neighbouring emirates shut stretches of their own shoreline.
 
 The emirate's Public Services Department said the beaches would stay closed "until further notice". It did not give a reason.
 
-On Friday, the UAE said work was under way to contain oil leaking from a tanker offshore. The authorities have not named the vessel or said what caused the leak. A satellite image taken on 19 October showed a slick off Umm Al Quwain.
+On Friday, the UAE said work was under way to contain oil leaking from a tanker offshore. The authorities have not named the vessel or said what caused the leak. A satellite image taken on October 19 showed a slick off Umm Al Quwain.
 
 Umm Al Quwain has closed beaches and coastal areas around the city until technical teams finish their assessment and put safety and marine protection measures in place. Sharjah shut Al Hamriyah Beach, on its northern coast near the Umm Al Quwain border, as a precaution.
 

@@ -22,7 +22,7 @@ hero:
     value: "Trade deals, taken to the states"
 related: [india-new-zealand-fta-enters-into-force-vijayadashami]
 seo:
-  description: "Piyush Goyal said on 21 October 2026 that the Commerce Department is running outreach with states to help farmers, MSMEs and small businesses use India's FTAs."
+  description: "Piyush Goyal said on October 21, 2026, that the Commerce Department is running outreach with states to help farmers, MSMEs and small businesses use India's FTAs."
 sources:
   - title: "India launches state-level outreach to help MSMEs, farmers tap FTA export opportunities"
     publisher: "The Tribune (ANI)"
@@ -43,6 +43,6 @@ The Department of Commerce is running the initiatives with state governments, Go
 
 Goyal thanked Goa Chief Minister Pramod Sawant for taking part in an outreach event in the state and for encouraging local businesses to look at overseas markets. More such programmes will be held across the country so that each state can tap its export potential, he said.
 
-India has nine free trade agreements covering 38 countries, according to the commerce ministry. The list has grown quickly: deals with Mauritius in 2021 and the UAE in May 2022, an agreement with Australia in force since December 2022, the EFTA pact that took effect on 1 October 2025, the UK agreement signed in July 2025 and the Oman agreement of December 2025. The New Zealand agreement came into force on Tuesday, 20 October, and a deal with the European Union was announced in January this year.
+India has nine free trade agreements covering 38 countries, according to the commerce ministry. The list has grown quickly: deals with Mauritius in 2021 and the UAE in May 2022, an agreement with Australia in force since December 2022, the EFTA pact that took effect on October 1, 2025, the UK agreement signed in July 2025 and the Oman agreement of December 2025. The New Zealand agreement came into force on Tuesday, October 20, and a deal with the European Union was announced in January this year.
 
 The outreach is an attempt to make sure those agreements reach businesses beyond the large exporters to small producers in the states.

@@ -6,9 +6,9 @@ section: policy
 format_label: "Explained / Ladakh"
 topics: []
 title: "Article 371-K explained: what the Centre offered Ladakh, and why Leh and Kargil said no"
-standfirst: "The Home Ministry's draft would give Ladakh its own special article in the Constitution and an elected body for the whole Union Territory. Ladakh's leaders rejected it within hours. What Article 371 is, how it differs from the Sixth Schedule, and what is left to negotiate on 22 October."
+standfirst: "The Home Ministry's draft would give Ladakh its own special article in the Constitution and an elected body for the whole Union Territory. Ladakh's leaders rejected it within hours. What Article 371 is, how it differs from the Sixth Schedule, and what is left to negotiate on October 22."
 published: 2026-10-18T09:20:00+05:30
-shortAnswer: "Article 371 is a group of special provisions in the Constitution for particular states, such as Nagaland, Sikkim and Mizoram, that protect local laws, customs and land. The Centre has offered Ladakh a new Article 371-K, followed by a presidential regulation under Article 240, to create a directly elected body for the Union Territory with safeguards for land, resources and culture. The Leh Apex Body and the Kargil Democratic Alliance say this falls short of what they want: Sixth Schedule protection and a legislature with real legislative, executive and financial powers. Talks resume in New Delhi on 22 October."
+shortAnswer: "Article 371 is a group of special provisions in the Constitution for particular states, such as Nagaland, Sikkim and Mizoram, that protect local laws, customs and land. The Centre has offered Ladakh a new Article 371-K, followed by a presidential regulation under Article 240, to create a directly elected body for the Union Territory with safeguards for land, resources and culture. The Leh Apex Body and the Kargil Democratic Alliance say this falls short of what they want: Sixth Schedule protection and a legislature with real legislative, executive and financial powers. Talks resume in New Delhi on October 22."
 hero:
   need: "Shanti Stupa above Leh town, Ladakh"
   suggested_source: "Shanti Stupa Leh"
@@ -58,19 +58,19 @@ sources:
 verification:
   status: approved
   notes:
-    - "Draft details (32 pages, handed over 16 October, two stages: Article 371-K amendment then Article 240 regulation, open questions, Kundra quotes) from the desk's 17 October story and its sources (PTI via Greater Kashmir, Statesman, Tribune)."
+    - "Draft details (32 pages, handed over October 16, two stages: Article 371-K amendment then Article 240 regulation, open questions, Kundra quotes) from the desk's October 17 story and its sources (PTI via Greater Kashmir, Statesman, Tribune)."
     - "Sixth Schedule features (Articles 244(2) and 275(1); Assam, Meghalaya, Tripura, Mizoram; councils of up to 30 members, 26 elected and 4 nominated; 10 councils; subjects) from Drishti IAS and Vajiram explainers, not the constitutional text."
     - "Article 371A and 371G description (Acts of Parliament on religious and social practices, customary law and land do not apply unless the state Assembly so decides) is the standard constitutional text; not reopened in this run. Article 371F described only generally."
     - "June 2025 Ladakh regulations (85% cap, 15-year domicile, five official languages, one-third women in hill councils) from Drishti IAS. Over 97% tribal population is Drishti's figure."
-    - "September 2025: four killed, about 150 injured, Wangchuk detained under the NSA on 26 September, from Shankar IAS summary. Date of the violence (24 September) is not in that source; copy says 'late September'. Wangchuk's current status not checked; not stated."
-    - "Seven districts after April 2026 from Outlook (14 July 2026)."
+    - "September 2025: four killed, about 150 injured, Wangchuk detained under the NSA on September 26, from Shankar IAS summary. Date of the violence (September 24) is not in that source; copy says 'late September'. Wangchuk's current status not checked; not stated."
+    - "Seven districts after April 2026 from Outlook (July 14, 2026)."
 ---
 
 ## What has the Centre offered?
 
 **A special article in the Constitution for Ladakh, and an elected body for the whole Union Territory.**
 
-On 16 October the Home Ministry handed Ladakh's two main political groupings a 32-page framework. It works in two stages. First, Parliament would amend the Constitution to insert a new Article 371-K for Ladakh. Then the President would issue a regulation under Article 240 to fill in the detail: a directly elected body for the Union Territory, with safeguards for land, natural resources and culture.
+On October 16 the Home Ministry handed Ladakh's two main political groupings a 32-page framework. It works in two stages. First, Parliament would amend the Constitution to insert a new Article 371-K for Ladakh. Then the President would issue a regulation under Article 240 to fill in the detail: a directly elected body for the Union Territory, with safeguards for land, natural resources and culture.
 
 Much is left open. Ladakh's Chief Secretary, Ashish Kundra, listed the gaps himself on Saturday: the body's name and make-up, how and by whom its members would be elected, seats for women and smaller communities, nominated members, delimitation, electoral rolls, tenure, and how it would sit alongside the hill councils, panchayats and municipalities. "Not every detail can be incorporated into a constitutional amendment," he said.
 
@@ -114,10 +114,10 @@ Kundra said the dismissal of the document "within just two hours of being receiv
 
 **Because the talks have been going for years, and Ladakh has seen violence over them.**
 
-In late September 2025 protests in Leh turned violent: four people were killed and about 150 injured. The climate activist Sonam Wangchuk, who had begun a hunger strike on 10 September on behalf of the LAB and KDA, was detained under the National Security Act on 26 September. The talks resumed months later and produced the May understanding.
+In late September 2025 protests in Leh turned violent: four people were killed and about 150 injured. The climate activist Sonam Wangchuk, who had begun a hunger strike on September 10 on behalf of the LAB and KDA, was detained under the National Security Act on September 26. The talks resumed months later and produced the May understanding.
 
 Meanwhile, the Centre has been reshaping Ladakh's institutions on its own. Five new districts were created in April, taking the total to seven, and this week it amended the hill council rules so that the administration can set the number of elected seats between 7 and 24 and extend a council's term if polls are judged impracticable.
 
 ## What happens next?
 
-The two sides meet in New Delhi on 22 October. The question is whether the Centre will move the new body's powers into the constitutional text, and whether Leh and Kargil will accept anything short of the Sixth Schedule.
+The two sides meet in New Delhi on October 22. The question is whether the Centre will move the new body's powers into the constitutional text, and whether Leh and Kargil will accept anything short of the Sixth Schedule.

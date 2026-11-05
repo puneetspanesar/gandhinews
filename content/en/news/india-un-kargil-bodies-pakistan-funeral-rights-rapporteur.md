@@ -31,8 +31,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: PTI report republished by idrw.org, posted 23 Oct 2026, 13:56 UTC (7:26 pm IST). Indian mission statement not fetched."
-    - "Remarks made 'on Thursday' per PTI, i.e. 22 Oct in New York; venue (Third Committee) not stated, so written as a UN dialogue."
+    - "Single source: PTI report republished by idrw.org, posted Oct 23, 2026, 13:56 UTC (7:26 pm IST). Indian mission statement not fetched."
+    - "Remarks made 'on Thursday' per PTI, i.e. Oct 22 in New York; venue (Third Committee) not stated, so written as a UN dialogue."
     - "The first Mangalanandan quote is a fragment ending mid-sentence in the source; used only the fragment."
     - "No Pakistani statement at the session or response found; the story does not describe one."
     - "Venue city not stated in source; no location line set."

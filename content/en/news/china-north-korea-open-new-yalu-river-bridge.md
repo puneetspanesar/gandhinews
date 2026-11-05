@@ -21,7 +21,7 @@ hero:
     value: "Built in 2014, opening in 2026"
 related: [north-korea-fires-ballistic-missiles-after-seoul-hypersonic-test, china-sanctions-paraguay-belize-ministers-taiwan-ties]
 seo:
-  description: "China and North Korea are due to open the New Yalu River Bridge linking Dandong and Sinuiju on 15 October, 12 years after China finished building its side."
+  description: "China and North Korea are due to open the New Yalu River Bridge linking Dandong and Sinuiju on October 15, 12 years after China finished building its side."
 sources:
   - title: "China and North Korea to open New Yalu River Bridge, state media reports"
     publisher: "Al Jazeera"

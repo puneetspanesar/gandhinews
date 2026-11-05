@@ -49,7 +49,7 @@ verification:
   notes:
     - "Standalone ₹14,843 crore (+20.1% from ₹12,358.89 crore) and consolidated ₹16,333 crore (+22.3% from ₹13,357 crore): Business Standard. Business Today agrees on standalone."
     - "Beat of 3.9% and NII poll estimate ₹24,811 crore: NewsBytes only."
-    - "Preview range of 8-14% profit growth: Business Standard preview headline as summarised in the 17 Oct results-day piece."
+    - "Preview range of 8-14% profit growth: Business Standard preview headline as summarised in the Oct 17 results-day piece."
     - "The 2% stake purchase is described as 'ICICI Life Insurance' by Business Today; copy says 'its life insurance arm'."
     - "Contingency provisions ₹13,100 crore and capital ratios: Business Today only."
     - "Results filed in the afternoon; Business Standard first published 3:40 pm IST."

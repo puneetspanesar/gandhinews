@@ -21,7 +21,7 @@ hero:
     value: "F1 heads back to Africa"
 related: [verstappen-wins-singapore-grand-prix-antonelli-nears-title]
 seo:
-  description: "Rwanda will host a Formula 1 African Grand Prix under a 10-year deal announced by President Paul Kagame on 13 October, the sport's first African race since 1993."
+  description: "Rwanda will host a Formula 1 African Grand Prix under a 10-year deal announced by President Paul Kagame on October 13, the sport's first African race since 1993."
 sources:
   - title: "F1 to return to Africa under 10-year deal with Rwanda"
     publisher: "UNI"
@@ -41,7 +41,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Deal details (10 years, 'Formula 1 African Grand Prix', early 2030s, first since 1993, Kagame quotes) from UNI's Kigali report of 13 Oct; the rest of that report is paywalled. Senior F1 officials attended but were not named in the visible text, so no Domenicali quote. Not checked against an F1 press release."
+    - "Deal details (10 years, 'Formula 1 African Grand Prix', early 2030s, first since 1993, Kagame quotes) from UNI's Kigali report of Oct 13; the rest of that report is paywalled. Senior F1 officials attended but were not named in the visible text, so no Domenicali quote. Not checked against an F1 press release."
     - "Exact start year and circuit not confirmed in the 2026 report. Bugesera site and Alexander Wurz design are from December 2024 reporting of the bid, written as 'the bid put forward in 2024'."
     - "Kyalami/1993 from ZimLive (BBC) 2024 report."
     - "Second Kagame quote is partial: 'that changes with this agreement' (he said the championship had raced without the continent for decades)."

@@ -39,7 +39,7 @@ verification:
   notes:
     - "Single detailed source for the meeting (The Statesman, 1:16 pm). Resolutions are paraphrased there, not quoted; copy paraphrases and attributes to the party. No direct Stalin quote available."
     - "Bihar 2025 background (Stalin raised deletions in July 2025, joined Voter Adhikar Yatra with Kanimozhi) from The Statesman."
-    - "SC hearing on 27 October and 13 crore deletions figure from ThePrint (16 Oct)."
+    - "SC hearing on October 27 and 13 crore deletions figure from ThePrint (Oct 16)."
     - "Stalin's current office (CM or not) not stated; described only as DMK president. ThePrint headline mentions a Kolathur defeat; article not read, left out."
 ---
 
@@ -63,4 +63,4 @@ It said actor-politician Vijay's TVK had neither publicly demanded Kumar's remov
 
 Stalin has been raising the issue since July 2025, when he spoke out about voter deletions in Bihar and joined the Voter Adhikar Yatra there with Kanimozhi Karunanidhi. After the 2025 Bihar Assembly results he criticised problems within the opposition alliance but said they did not excuse the Election Commission's alleged failures.
 
-The SIR has led to at least 13 crore names being deleted from draft rolls. The Supreme Court, which this week issued notice on a petition by Rahul Gandhi, Mallikarjun Kharge and other INDIA bloc leaders alleging that Kumar acted without the other two commissioners, will hear the challenges to his decisions on 27 October.
+The SIR has led to at least 13 crore names being deleted from draft rolls. The Supreme Court, which this week issued notice on a petition by Rahul Gandhi, Mallikarjun Kharge and other INDIA bloc leaders alleging that Kumar acted without the other two commissioners, will hear the challenges to his decisions on October 27.

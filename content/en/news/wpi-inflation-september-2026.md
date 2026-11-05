@@ -54,9 +54,9 @@ verification:
     - "The Office of the Economic Adviser release (eaindustry.nic.in) could not be opened (fetch permission timed out); PIB release list for the date was not readable. All figures from Business Standard (two reports) and UNI, which agree on every number used."
     - "'Series high' refers to the WPI series with base 2022-23 (Business Standard). July final 9.78% from UNI. August figure as given by both outlets (9.92%); neither says whether August was revised."
     - "Food articles at a 21-month high is Business Standard's description."
-    - "The India Ratings 10.2% forecast and ICRA 9.5-10% range were made on 14 September (see preview story)."
+    - "The India Ratings 10.2% forecast and ICRA 9.5-10% range were made on September 14 (see preview story)."
     - "No ministry statement on the drivers was quoted in any source, so none is quoted here. No economist reaction specific to the WPI number found beyond Vinod Nair's market comment."
-    - "Next MPC meeting 2-4 December from the economy dashboard (RBI)."
+    - "Next MPC meeting December 2-4 from the economy dashboard (RBI)."
 ---
 
 Wholesale prices in India rose at their fastest pace in the current series in September, as costlier fuel spread through food and factory goods. Inflation measured by the wholesale price index (WPI) climbed to 11.39% from 9.92% in August, provisional data from the commerce ministry showed on Wednesday.
@@ -89,4 +89,4 @@ Traders read the number as a sign that price pressure is broadening. "A hotter-t
 
 The wholesale figure lands two days after retail inflation jumped to 5.54% in September from 4.83%. Wholesale price rises tend to pass through to shop shelves with a lag, as manufacturers and traders push higher costs on to buyers.
 
-The Reserve Bank of India raised its repo rate by 25 basis points to 5.50% on 7 October, its first increase since February 2023. Its Monetary Policy Committee next meets from 2 to 4 December, by which time it will have October's retail and wholesale numbers in hand.
+The Reserve Bank of India raised its repo rate by 25 basis points to 5.50% on October 7, its first increase since February 2023. Its Monetary Policy Committee next meets from December 2 to 4, by which time it will have October's retail and wholesale numbers in hand.

@@ -22,7 +22,7 @@ hero:
     value: "Shot after a village dispute"
 related: []
 seo:
-  description: "Farmer Satnam Singh, 35, was shot dead in Siddha Navadiya village in Uttarakhand's Udham Singh Nagar on 17 October; police named eight accused in the FIR."
+  description: "Farmer Satnam Singh, 35, was shot dead in Siddha Navadiya village in Uttarakhand's Udham Singh Nagar on October 17; police named eight accused in the FIR."
 sources:
   - title: "Uttarakhand: 35-year-old farmer killed after intervening in village fight (PTI)"
     publisher: "ThePrint"

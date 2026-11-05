@@ -5,7 +5,7 @@ type: news
 section: politics
 format_label: "Politics / BJP"
 topics: [election-commission, electoral-rolls-sir]
-title: "BJP answers INDIA bloc rally with Nabin-led march in Rohtak; Puri calls 1 November date 'insensitive'"
+title: "BJP answers INDIA bloc rally with Nabin-led march in Rohtak; Puri calls November 1 date 'insensitive'"
 standfirst: "As opposition supporters gather at Ramlila Maidan, the BJP president leads a 'Loktantra Bachao, Arajakta Hatao' padyatra in Haryana, part of a campaign the party says will counter the opposition's claims on the electoral rolls."
 published: 2026-11-01T10:35:00+05:30
 location: Rohtak
@@ -22,7 +22,7 @@ hero:
     value: "BJP's counter-march in Rohtak"
 related: [india-bloc-rally-morning-crowds-10000-security-bjp-1984-march, india-bloc-ramlila-maidan-rally-today-preview, india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar, haryana-60-murmu-kurukshetra-haryana-day]
 seo:
-  description: "BJP president Nitin Nabin leads a 'Loktantra Bachao, Arajakta Hatao' padyatra in Rohtak on 1 November 2026, the party's answer to the INDIA bloc's Ramlila Maidan rally over the SIR."
+  description: "BJP president Nitin Nabin leads a 'Loktantra Bachao, Arajakta Hatao' padyatra in Rohtak on November 1, 2026, the party's answer to the INDIA bloc's Ramlila Maidan rally over the SIR."
 sources:
   - title: "INDIA Bloc Anti-SIR Protest LIVE"
     publisher: "Outlook"
@@ -52,9 +52,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov 09:04 IST Puri remark and 09:42 IST BJP Rohtak march update (Outlook live blog time stamps); padyatra due to start 11:00 IST at Chhotu Ram Polytechnic Ground (Tribune 31 Oct 13:18, ANI 31 Oct 13:40). Start not yet confirmed by any source at writing; written as setting off at 11 am."
-    - "Puri: only the word 'insensitive' and the suggestion of a date after 4 November are from the Outlook entry; no fuller quote available, so paraphrased otherwise."
-    - "Saini and Archana Gupta expected to attend (Tribune 29 Oct; PTI names Gupta; Outlook names Saini). Gupta quote verbatim from Tribune 29 Oct. Faridabad padyatra with Dharmendra Pradhan same day and Karnal on 5 Nov with Amit Shah from Tribune 29 Oct, single source."
+    - "event: Nov 1 09:04 IST Puri remark and 09:42 IST BJP Rohtak march update (Outlook live blog time stamps); padyatra due to start 11:00 IST at Chhotu Ram Polytechnic Ground (Tribune Oct 31 13:18, ANI Oct 31 13:40). Start not yet confirmed by any source at writing; written as setting off at 11 am."
+    - "Puri: only the word 'insensitive' and the suggestion of a date after November 4 are from the Outlook entry; no fuller quote available, so paraphrased otherwise."
+    - "Saini and Archana Gupta expected to attend (Tribune Oct 29; PTI names Gupta; Outlook names Saini). Gupta quote verbatim from Tribune Oct 29. Faridabad padyatra with Dharmendra Pradhan same day and Karnal on Nov 5 with Amit Shah from Tribune Oct 29, single source."
     - "BJP statement quotes ('falsehoods, conspiracies and unrest engineered by a desperate opposition'; 'reaching every village and household') from the PTI/Tribune copy of the party statement."
     - "Not used: Morning story already covers the BJP's Hari Nagar to Tilak Nagar 1984 march led by Puri; only his date remark is new here. PIB index fetch blocked (permission timeout)."
 ---
@@ -66,11 +66,11 @@ The march, called **"Loktantra Bachao, Arajakta Hatao"** (save democracy, remove
 
 The party has framed the campaign as a reply to the opposition's charges over the Special Intensive Revision (SIR) of electoral rolls. It calls it a movement against **"falsehoods, conspiracies and unrest engineered by a desperate opposition"**, and says workers are "reaching every village and household" to set out its side. Gupta said the campaign "seeks to highlight democratic values, political accountability and issues concerning public interest."
 
-Rohtak was not chosen at random. The city, a Congress stronghold, has seen **two BJP and Congress face-offs** over the SIR in the past fortnight. A second padyatra is planned in Faridabad today with Union minister Dharmendra Pradhan, and Amit Shah is due to lead one in Karnal on 5 November.
+Rohtak was not chosen at random. The city, a Congress stronghold, has seen **two BJP and Congress face-offs** over the SIR in the past fortnight. A second padyatra is planned in Faridabad today with Union minister Dharmendra Pradhan, and Amit Shah is due to lead one in Karnal on November 5.
 
 ## A row over the date
 
-In Delhi, Union minister Hardeep Singh Puri attacked the timing of the opposition rally, held on the anniversary of the 1984 anti-Sikh riots. He called the choice of date **"insensitive"** and said the bloc could have held it after 4 November.
+In Delhi, Union minister Hardeep Singh Puri attacked the timing of the opposition rally, held on the anniversary of the 1984 anti-Sikh riots. He called the choice of date **"insensitive"** and said the bloc could have held it after November 4.
 
 ```photo
 {"n":2,"subject":"Hardeep Singh Puri","caption":"Union minister Hardeep Singh Puri, who criticised the INDIA bloc for holding its rally on the anniversary of the 1984 riots.","alt":"Union minister Hardeep Singh Puri"}

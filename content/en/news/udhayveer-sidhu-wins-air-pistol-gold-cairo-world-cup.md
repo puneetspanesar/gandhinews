@@ -37,7 +37,7 @@ verification:
   status: approved
   notes:
     - "Single secondary source for scores and placings (The Bridge); issf-sport.org results not opened. No quotes found."
-    - "Squad (24 shooters), event dates 10-15 Oct and Sarabjot's Paris bronze from The Bridge squad preview."
+    - "Squad (24 shooters), event dates Oct 10-15 and Sarabjot's Paris bronze from The Bridge squad preview."
     - "Event described as his 'debut in the 10m air pistol event' by the source; interpreted as his first senior World Cup appearance in the event. Worded cautiously."
 ---
 
@@ -57,4 +57,4 @@ Jonathan Gavin Antony finished second in qualifying, but he was shooting for ran
 
 Two other Indians fell short of the final. Ajendra Singh Chauhan finished 14th in qualifying, and Sarabjot Singh, who won bronze at the Paris Olympics, was 31st.
 
-India have sent 24 shooters to the rifle and pistol World Cup, which runs until 15 October. Vijayveer is among them, in the 25m rapid fire pistol alongside Suraj Sharma and Ankur Goel, and Swapnil Kusale is entered in the men's 50m rifle three positions. The women's pistol squad includes Palak, Muskan and Surbhi Rao in the 10m air pistol and Rhythm Sangwan, Chinki Yadav and Divya TS in the 25m sports pistol.
+India have sent 24 shooters to the rifle and pistol World Cup, which runs until October 15. Vijayveer is among them, in the 25m rapid fire pistol alongside Suraj Sharma and Ankur Goel, and Swapnil Kusale is entered in the men's 50m rifle three positions. The women's pistol squad includes Palak, Muskan and Surbhi Rao in the 10m air pistol and Rhythm Sangwan, Chinki Yadav and Divya TS in the 25m sports pistol.

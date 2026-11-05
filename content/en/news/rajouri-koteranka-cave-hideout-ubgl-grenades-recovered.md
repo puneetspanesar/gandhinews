@@ -22,7 +22,7 @@ hero:
     value: "Nine grenades in a forest cave"
 related: []
 seo:
-  description: "Security forces busted a cave hideout in Panch Gabbar forest, Koteranka, Rajouri, on 19 October, recovering nine UBGL grenades, an AK-47 magazine and 18 rounds."
+  description: "Security forces busted a cave hideout in Panch Gabbar forest, Koteranka, Rajouri, on October 19, recovering nine UBGL grenades, an AK-47 magazine and 18 rounds."
 sources:
   - title: "J&K: Hideout busted, UBGL grenades, ammo recovered in Rajouri"
     publisher: "UNI"

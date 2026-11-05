@@ -12,7 +12,7 @@ location: Mumbai
 keyPoints:
   - "Net profit rose **66.8% to about ₹548 crore**, including a one-time gain of about ₹165 crore."
   - "Large deals worth **more than $200 million** were signed, over half of them AI-related."
-  - "LTTS declared an **interim dividend of ₹20 a share**, with a record date of 27 October."
+  - "LTTS declared an **interim dividend of ₹20 a share**, with a record date of October 27."
 hero:
   need: "Larsen & Toubro campus at Powai, Mumbai, parent group of L&T Technology Services"
   suggested_source: "Larsen & Toubro Powai campus"
@@ -48,6 +48,6 @@ The company signed large deals with a total contract value of more than $200 mil
 
 Amit Chadha, the chief executive and managing director, credited the company's investments in what it calls Engineering Intelligence, and its spread of businesses, for "accelerated sequential growth across revenue, profitability, large deals and AI revenue". He said he expects "revenue momentum to strengthen further in the second half of the fiscal year" while keeping margins healthy.
 
-The board declared an interim dividend of ₹20 a share, with 27 October as the record date. The company had 24,035 employees at the end of September.
+The board declared an interim dividend of ₹20 a share, with October 27 as the record date. The company had 24,035 employees at the end of September.
 
 The numbers follow a strong run of results from larger IT companies such as TCS and Tech Mahindra that drove the Nifty IT index to its best week in nearly 18 years. LTTS shares will react on Wednesday, after Tuesday's Dussehra holiday.

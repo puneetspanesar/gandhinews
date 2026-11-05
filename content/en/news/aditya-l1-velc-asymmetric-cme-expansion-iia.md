@@ -22,7 +22,7 @@ hero:
     value: "Aditya-L1 sees a lopsided eruption"
 related: []
 seo:
-  description: "Scientists at the Indian Institute of Astrophysics used Aditya-L1's VELC coronagraph to show that a coronal mass ejection on 5 August 2024 expanded asymmetrically, with implications for space weather forecasts, in a study in The Astrophysical Journal Letters released on 3 November 2026."
+  description: "Scientists at the Indian Institute of Astrophysics used Aditya-L1's VELC coronagraph to show that a coronal mass ejection on August 5, 2024, expanded asymmetrically, with implications for space weather forecasts, in a study in The Astrophysical Journal Letters released on November 3, 2026."
 sources:
   - title: "VELC on board Aditya-L1 reveals asymmetric expansion of solar eruption that could impact space weather (PIB release, republished)"
     publisher: "Technology For You / PIB"
@@ -37,14 +37,14 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 3 Nov 12:17 IST, PIB Delhi release on the IIA study (timestamp as carried by Technology For You republication). pib.gov.in original not fetched."
-    - "Paper: The Astrophysical Journal Letters, DOI 10.3847/2041-8213/aea295. Authors Saurabh Tripathi (PhD student, lead), Tanmoy Samanta (corresponding), Jayant Joshi, all IIA. CME 5 Aug 2024 near west limb. VELC 530.3 nm Fe XIV line, ~1.8 million K, 1.05 to 1.5 solar radii; combined with NASA SDO/AIA."
+    - "event: Nov 3 12:17 IST, PIB Delhi release on the IIA study (timestamp as carried by Technology For You republication). pib.gov.in original not fetched."
+    - "Paper: The Astrophysical Journal Letters, DOI 10.3847/2041-8213/aea295. Authors Saurabh Tripathi (PhD student, lead), Tanmoy Samanta (corresponding), Jayant Joshi, all IIA. CME Aug 5, 2024, near west limb. VELC 530.3 nm Fe XIV line, ~1.8 million K, 1.05 to 1.5 solar radii; combined with NASA SDO/AIA."
     - "The two quotes appear in the release without a named speaker, so copy attributes them to the team."
 ---
 
 India's first solar observatory has shown that an eruption from the Sun can **swell more on one side than the other**, a result its scientists say could help forecasters judge when such storms will hit Earth.
 
-Astronomers at the Indian Institute of Astrophysics (IIA) in Bengaluru used the Visible Emission Line Coronagraph (VELC), the main instrument on Aditya-L1, to follow a coronal mass ejection that burst from near the Sun's western edge on **5 August 2024**. The study, released by the government on Tuesday afternoon, appears in The Astrophysical Journal Letters.
+Astronomers at the Indian Institute of Astrophysics (IIA) in Bengaluru used the Visible Emission Line Coronagraph (VELC), the main instrument on Aditya-L1, to follow a coronal mass ejection that burst from near the Sun's western edge on **August 5, 2024**. The study, released by the government on Tuesday afternoon, appears in The Astrophysical Journal Letters.
 
 "Our results show that the CME did not expand uniformly," the team said.
 

@@ -22,7 +22,7 @@ hero:
     value: "A ₹10,000 bond to protest?"
 related: [dipke-granted-bail-neha-bora-released-delhi-court, cjp-lehra-do-tiranga-dipke-neha-bora-detained-connaught-place, bjp-says-rahul-wants-regime-change-neha-bora-bangladesh, cjp-das-ranka-released-tihar-undertaking-jantar-mantar]
 seo:
-  description: "The Delhi High Court heard AISA president Neha Bora's challenge to a ₹10,000 peace bond notice on 22 October and will deliver its judgment later."
+  description: "The Delhi High Court heard AISA president Neha Bora's challenge to a ₹10,000 peace bond notice on October 22 and will deliver its judgment later."
 sources:
   - title: "Delhi High Court hears plea by Neha Bora challenging bond notice: LIVE UPDATES"
     publisher: "Bar & Bench"
@@ -37,16 +37,16 @@ sources:
 verification:
   status: approved
   notes:
-    - "All hearing detail from the Bar & Bench live blog (published 2:17 pm, last updated 4:57 pm IST, 22 Oct). Remarks are not individually timestamped."
+    - "All hearing detail from the Bar & Bench live blog (published 2:17 pm, last updated 4:57 pm IST, Oct 22). Remarks are not individually timestamped."
     - "Judgment timing unclear: judge said he would write it 'by Tuesday'; a later remark ('I have to give my judgement tomorrow no?') suggests possibly Friday. Copy says time needed and points to Tuesday, hedged."
-    - "Next SEM date Saturday (24 Oct) per the court's note in the live blog."
+    - "Next SEM date Saturday (Oct 24) per the court's note in the live blog."
     - "Date of filing Bar & Bench article not opened; date given approximately (from search result). LiveLaw live blog 555587 could not be fetched."
-    - "Detention at Mandi House on 16 Oct, notice 18 Oct, ₹10,000 bond: live blog; consistent with earlier Gandhi News coverage."
+    - "Detention at Mandi House on Oct 16, notice Oct 18, ₹10,000 bond: live blog; consistent with earlier Gandhi News coverage."
 ---
 
 The Delhi High Court on Thursday finished hearing AISA president Neha Bora's challenge to a police magistrate's notice asking her to sign a ₹10,000 bond to keep the peace. Justice Subramonium Prasad said he needed time to write his judgment and indicated it could come by Tuesday.
 
-Bora, who leads the All India Students' Association, was detained at Mandi House on 16 October as students set out on a Tiranga march linked to the protests against Chief Election Commissioner Gyanesh Kumar. Two days later, a Special Executive Magistrate issued her a notice under the Bharatiya Nagarik Suraksha Sanhita asking for a personal bond of ₹10,000. The next hearing before the magistrate is on Saturday.
+Bora, who leads the All India Students' Association, was detained at Mandi House on October 16 as students set out on a Tiranga march linked to the protests against Chief Election Commissioner Gyanesh Kumar. Two days later, a Special Executive Magistrate issued her a notice under the Bharatiya Nagarik Suraksha Sanhita asking for a personal bond of ₹10,000. The next hearing before the magistrate is on Saturday.
 
 ## "No exhortation to violence"
 
@@ -64,4 +64,4 @@ Sharma told the court that Bora faced six FIRs and that the notice had not yet l
 
 Justice Prasad noted that the scope for a court to examine a magistrate's subjective satisfaction was "exceedingly narrow". He nonetheless pressed the state on whether the magistrate had made any independent inquiry and whether the finding that Bora was likely to commit an offence rested on credible information. "The only safeguard is the requirement of the law to be met," he said, likening the notice to "suspension till inquiry".
 
-The case is one of several in Delhi's courts over the use of peace bonds and preventive detention against people who joined the anti-CEC protests this month. Cockroach Janta Party founder Abhijeet Dipke was released on a peace bond on 17 October, and party leaders Saurav Das and Ashutosh Ranka were freed on Wednesday after undertaking not to call for protests at Jantar Mantar while it remains de-notified.
+The case is one of several in Delhi's courts over the use of peace bonds and preventive detention against people who joined the anti-CEC protests this month. Cockroach Janta Party founder Abhijeet Dipke was released on a peace bond on October 17, and party leaders Saurav Das and Ashutosh Ranka were freed on Wednesday after undertaking not to call for protests at Jantar Mantar while it remains de-notified.

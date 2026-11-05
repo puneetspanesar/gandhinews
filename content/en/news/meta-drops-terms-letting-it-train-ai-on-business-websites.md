@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "TechCrunch (17 Oct, 2:31 pm PDT), citing Nieman Lab (experts' 'remarkable provision') and The Verge (removal). Exact dates of the terms update and of the removal not given."
+    - "TechCrunch (Oct 17, 2:31 pm PDT), citing Nieman Lab (experts' 'remarkable provision') and The Verge (removal). Exact dates of the terms update and of the removal not given."
     - "Meta statement quotes verbatim from TechCrunch; spokesperson not named."
 ---
 

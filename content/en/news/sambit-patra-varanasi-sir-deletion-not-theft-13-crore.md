@@ -22,7 +22,7 @@ hero:
     value: "Deletion is not theft, says Patra"
 related: [sambit-patra-illegal-lop-rahul-gandhi-ramlila-rally-flop, rahul-parrot-gyanesh-kumar-kharge-chori-ki-sarkar-ramlila, meghwal-cec-offered-meet-protesters-no-list-kochi-bihar-nda]
 seo:
-  description: "BJP spokesperson Sambit Patra said in Varanasi on 2 November 2026 that deleting names in the SIR is verification, not theft, rejecting Rahul Gandhi's claim that 13 crore votes were stolen."
+  description: "BJP spokesperson Sambit Patra said in Varanasi on November 2, 2026, that deleting names in the SIR is verification, not theft, rejecting Rahul Gandhi's claim that 13 crore votes were stolen."
 sources:
   - title: "SIR an exercise to refine electoral rolls, wrong to call deletion of names 'theft': Sambit Patra (PTI)"
     publisher: "ThePrint"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov, Patra spoke to reporters in Varanasi; PTI copy time-stamped 15:49 IST. Time of the press interaction not given."
+    - "event: Nov 2, Patra spoke to reporters in Varanasi; PTI copy time-stamped 15:49 IST. Time of the press interaction not given."
     - "Single source (PTI via ThePrint). Patra's remarks reported almost entirely in indirect speech; only 'stolen' (Rahul's word) and 'verifying and purifying' are in quotes. No full-sentence quote used."
     - "West Bengal point: PTI says TMC candidates won in several seats where many names were 'reportedly' removed; kept as Patra's argument."
     - "Patra described by PTI as Puri MP and BJP national spokesperson."

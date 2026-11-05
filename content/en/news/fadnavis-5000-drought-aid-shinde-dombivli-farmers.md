@@ -39,7 +39,7 @@ verification:
   notes:
     - "Fadnavis remarks: PTI via ThePrint, 6:45 pm, Wardha. Quotes are PTI's English rendering; he likely spoke in Marathi."
     - "Shinde: PTI via ThePrint, 11:48 pm, Dombivli. No direct quotes from Shinde in the source; all paraphrased."
-    - "Relief announced 'on Wednesday' per PTI = 14 October. 40 talukas added in the latest list (PTI)."
+    - "Relief announced 'on Wednesday' per PTI = October 14. 40 talukas added in the latest list (PTI)."
     - "Karnataka ₹2,500 comparison is Fadnavis's claim, attributed."
     - "Opposition leaders who criticised the amount are not named in the source beyond Congress; copy keeps it general."
 ---

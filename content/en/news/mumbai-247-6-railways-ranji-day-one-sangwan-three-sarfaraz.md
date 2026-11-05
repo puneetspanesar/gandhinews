@@ -22,7 +22,7 @@ hero:
     value: "Mumbai 247/6 on day one"
 related: [angkrish-raghuvanshi-fifty-mumbai-109-0-lunch-railways-ranji-cci, railways-bowl-mumbai-ranji-round-four-cci-start, mumbai-railways-ranji-round-four-brabourne-preview, india-a-rising-stars-asia-cup-squad-tilak-varma-captain-doha]
 seo:
-  description: "Mumbai ended day one of their Ranji Trophy match against Railways on 247 for six on 2 November 2026, with Angkrish Raghuvanshi making 78 and Himanshu Sangwan taking 3 for 32."
+  description: "Mumbai ended day one of their Ranji Trophy match against Railways on 247 for six on November 2, 2026, with Angkrish Raghuvanshi making 78 and Himanshu Sangwan taking 3 for 32."
 sources:
   - title: "Ranji Trophy 2026: Angkrish Raghuvanshi's knock guides Mumbai to 247 runs against Railways on Day 1"
     publisher: "India.com"
@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov, close of day one at CCI (Brabourne), Mumbai; play from 09:30 IST, close usually about 16:30 to 17:00 IST. Day-one report published 18:53 IST (India.com). Ranji stumps counted per desk instruction."
+    - "event: Nov 2, close of day one at CCI (Brabourne), Mumbai; play from 09:30 IST, close usually about 16:30 to 17:00 IST. Day-one report published 18:53 IST (India.com). Ranji stumps counted per desk instruction."
     - "Report says Mumbai posted 247 for six 'on Day 1' and does not use the word stumps; treated as the close score. Overs, not-out batters and dismissal details not given, so left out. Same copy on The Times of Bengal (same 18:53 time), effectively one source."
     - "Scores: Saxena 39 (96b, 4x4), Raghuvanshi 78 (122b, 11x4, 2x6), Lad 47 (125b), Sarfaraz 55 (100b, 7x4). Sangwan 3/32, Adarsh Singh 2/60. Lunch 109/0 with Sangwan 7-0-19-0 and Adarsh 7-3-23-0 from our lunch story (Possible11), so Sangwan's wickets came after lunch and Mumbai lost six for 138 after the break (derived). No quotes. Cricinfo scorecard fetch failed; Possible11 live page not permitted this run."
 cover:

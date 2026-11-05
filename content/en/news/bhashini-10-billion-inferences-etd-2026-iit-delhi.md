@@ -32,13 +32,13 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: Odisha Diary carrying the Digital India Bhashini Division's release (24 Oct, 18:04 UTC). Symposium dates 23 to 25 Oct per the release. Figures are Bhashini's own claims."
+    - "Single source: Odisha Diary carrying the Digital India Bhashini Division's release (Oct 24, 18:04 UTC). Symposium dates Oct 23 to 25 per the release. Figures are Bhashini's own claims."
     - "Harshad Sharma's quoted words are a phrase, not a full sentence, as given in the release."
 ---
 
 The government's Indian-language AI platform, Bhashini, made its pitch to universities and libraries this weekend, showing how its tools could translate and transcribe theses and research papers so they can be read in any Indian language.
 
-The Digital India Bhashini Division, part of the Ministry of Electronics and Information Technology, took part in the 29th International Symposium on Electronic Theses and Dissertations (ETD-2026) at IIT Delhi, which ran from 23 to 25 October.
+The Digital India Bhashini Division, part of the Ministry of Electronics and Information Technology, took part in the 29th International Symposium on Electronic Theses and Dissertations (ETD-2026) at IIT Delhi, which ran from October 23 to 25.
 
 The division said Bhashini had passed 10 billion cumulative AI inferences, each one a request handled by its models. It works with 36 Indian languages for text and 23 for voice, as well as 35 international languages, and its translation plug-in is used on more than 800 government websites.
 

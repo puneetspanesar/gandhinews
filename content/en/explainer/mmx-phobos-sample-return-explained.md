@@ -8,7 +8,7 @@ topics: []
 title: "Japan's MMX mission explained: why scientists want a scoop of a Martian moon"
 standfirst: "JAXA's Martian Moons eXploration probe left Earth on Tuesday on a round trip that should end with Phobos soil landing in Australia in 2031. What the mission will do, how it collects a sample, and the question it hopes to answer."
 published: 2026-10-20T14:35:00+05:30
-shortAnswer: "MMX is a Japanese spacecraft launched on an H3 rocket from Tanegashima on 20 October 2026. It is due to reach Mars in 2027, study its two small moons, Phobos and Deimos, land twice on Phobos to collect at least 10 grams of surface material, and send the sample back to Earth in 2031. Scientists hope the sample will settle whether the moons are captured asteroids or debris from a giant impact on Mars. If it works, it will be the first material ever brought back from the Mars system."
+shortAnswer: "MMX is a Japanese spacecraft launched on an H3 rocket from Tanegashima on October 20, 2026. It is due to reach Mars in 2027, study its two small moons, Phobos and Deimos, land twice on Phobos to collect at least 10 grams of surface material, and send the sample back to Earth in 2031. Scientists hope the sample will settle whether the moons are captured asteroids or debris from a giant impact on Mars. If it works, it will be the first material ever brought back from the Mars system."
 hero:
   need: "A close view of Mars's moon Phobos"
   suggested_source: "Phobos moon Mars Reconnaissance Orbiter HiRISE"
@@ -43,7 +43,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "All mission facts (launch, H3 flight 10, separation, 2027 arrival, two touchdowns, 10 g minimum, C-Sampler and P-Sampler, IDEFIX rover about 100 days, MEGANE, NASA ~15% share curated at Johnson, departure 2030, Australia landing 2031, Phobos ~22 km, $578 million, Statler and Fox quotes, JAXA goal quote) are from the desk's 17 and 20 October news stories and the sources listed there; not re-fetched this run."
+    - "All mission facts (launch, H3 flight 10, separation, 2027 arrival, two touchdowns, 10 g minimum, C-Sampler and P-Sampler, IDEFIX rover about 100 days, MEGANE, NASA ~15% share curated at Johnson, departure 2030, Australia landing 2031, Phobos ~22 km, $578 million, Statler and Fox quotes, JAXA goal quote) are from the desk's October 17 and 20 news stories and the sources listed there; not re-fetched this run."
     - "Timeline sources differ slightly (NASA: arrival August 2027, sampling no earlier than December 2028); copy keeps years general."
     - "Hayabusa (Itokawa, 2010) and Hayabusa2 (Ryugu, 2020) background is standard; no sample mass given to avoid an unchecked figure."
     - "Phobos's orbital decay is general knowledge and left out to avoid unsourced numbers."
@@ -78,7 +78,7 @@ One tool, JAXA's C-Sampler, is a corer on a robotic arm that will dig material f
 Before that, MMX will drop IDEFIX, a small four-wheeled rover built by France and Germany, which is expected to roam Phobos for about 100 days.
 
 ```timeline
-{"title":"The MMX round trip","items":[{"date":"20 Oct 2026","text":"Launch on H3 from Tanegashima, Japan"},{"date":"2027","text":"Arrival at Mars; mapping of Phobos begins"},{"date":"From late 2028","text":"IDEFIX rover released; two landings to collect samples"},{"date":"2030","text":"Flybys of Deimos, then departure for Earth"},{"date":"2031","text":"Sample capsule lands in Australia"}]}
+{"title":"The MMX round trip","items":[{"date":"Oct 20, 2026","text":"Launch on H3 from Tanegashima, Japan"},{"date":"2027","text":"Arrival at Mars; mapping of Phobos begins"},{"date":"From late 2028","text":"IDEFIX rover released; two landings to collect samples"},{"date":"2030","text":"Flybys of Deimos, then departure for Earth"},{"date":"2031","text":"Sample capsule lands in Australia"}]}
 ```
 
 ## What is NASA's part?

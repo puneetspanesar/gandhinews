@@ -33,7 +33,7 @@ verification:
   status: approved
   notes:
     - "Single source (Al Jazeera, relaying Klitschko's Telegram post). Name of metro station and district not given; left out."
-    - "Exact time of strike not given; 'overnight' into Monday 19 October."
+    - "Exact time of strike not given; 'overnight' into Monday, October 19."
 ---
 
 A Russian air strike on Kyiv overnight killed a woman and injured three people, Mayor Vitali Klitschko said on Monday.
@@ -44,6 +44,6 @@ The strike came a day after Ukraine launched its largest drone attack on Russia 
 
 Russian attacks on Ukraine continued through Sunday as well. Two strikes on Zaporizhzhia killed a woman and wounded at least two other people, among them a six-year-old girl. President Volodymyr Zelenskyy said strikes on residential buildings in the Volyn region killed two people and injured 12, including two children.
 
-Zelenskyy said Russia had launched almost 2,700 attack drones, 1,700 aerial bombs and 66 missiles, most of them ballistic, at Ukraine over the past week. He said Russia had struck Ukraine's energy, oil and gas sectors 76 times in the seven days after Trump announced an "energy ceasefire" on 11 October.
+Zelenskyy said Russia had launched almost 2,700 attack drones, 1,700 aerial bombs and 66 missiles, most of them ballistic, at Ukraine over the past week. He said Russia had struck Ukraine's energy, oil and gas sectors 76 times in the seven days after Trump announced an "energy ceasefire" on October 11.
 
 The violence comes as diplomacy falters. US President Donald Trump has accused Zelenskyy of not wanting to end the war, while Zelenskyy says Washington's decision to waive new sanctions on Russia will only strengthen Moscow.

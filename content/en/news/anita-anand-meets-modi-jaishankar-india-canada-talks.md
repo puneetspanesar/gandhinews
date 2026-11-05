@@ -21,7 +21,7 @@ hero:
     value: "Delhi wants the trade deal done"
 related: [canada-foreign-minister-anand-arrives-for-india-talks, modi-carney-talks-india-canada-partnership]
 seo:
-  description: "Canada's Anita Anand met PM Modi and S. Jaishankar in New Delhi on 14 October. Modi urged an early India-Canada trade deal; talks covered energy and defence."
+  description: "Canada's Anita Anand met PM Modi and S. Jaishankar in New Delhi on October 14. Modi urged an early India-Canada trade deal; talks covered energy and defence."
 sources:
   - title: "Canada's Foreign Minister meets the Prime Minister"
     publisher: "PIB (Prime Minister's Office)"
@@ -60,7 +60,7 @@ verification:
     - "Jaishankar X post quoted from ANI and Tribune (agree). Anand quote from Tribune only; ANI had none."
     - "Goyal-Sidhu meeting and ~300-member Canadian business delegation: ANI only, so hedged as 'was reported'."
     - "Fifth CEPA round in Ottawa 'about a week earlier': Jaiswal via PTI; exact dates not given, so written loosely."
-    - "UAE leg dates 13 to 16 October from Global Affairs Canada (via existing story)."
+    - "UAE leg dates October 13 to 16 from Global Affairs Canada (via existing story)."
     - "Venue of the meetings not stated in sources; hero is Jaishankar file photo (Anand photo already used)."
 ---
 
@@ -86,4 +86,4 @@ Anand said she was encouraged by the progress since she was last in Delhi a year
 
 ## Where the visit goes next
 
-The MEA described the trip as Anand's third visit to India since June 2025. She arrived on Tuesday and travels on to the United Arab Emirates before ending the tour on 16 October.
+The MEA described the trip as Anand's third visit to India since June 2025. She arrived on Tuesday and travels on to the United Arab Emirates before ending the tour on October 16.

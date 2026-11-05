@@ -12,7 +12,7 @@ location: Srinagar
 keyPoints:
   - "All fuel-powered motorboats, including **motorised shikaras and jet skis**, are banned on Dal Lake."
   - "Any boat found plying will be treated as **contempt of court**."
-  - "The administration must draft a motorboat policy; the case returns on **30 October**."
+  - "The administration must draft a motorboat policy; the case returns on **October 30**."
 hero:
   need: "Shikaras on Dal Lake, Srinagar"
   suggested_source: "Shikara Dal Lake Srinagar"
@@ -31,13 +31,13 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: Bar and Bench, published 15 Oct; order dated 14 Oct. Quote 'could be a solution' from it. Order text not seen."
+    - "Single source: Bar and Bench, published Oct 15; order dated Oct 14. Quote 'could be a solution' from it. Order text not seen."
     - "No pollution figures in the source; none used. Number of boats affected not known."
 ---
 
 The High Court of Jammu and Kashmir and Ladakh has banned all fuel-powered motorboats on Dal Lake, including motorised shikaras and jet skis, saying they are damaging the lake's ecosystem and adding to its pollution.
 
-The interim order, passed on 14 October by a division bench of Chief Justice Pushpendra Singh Bhati and Justice Rajesh Sekhri, stays in force until further orders. The Lake Conservation and Management Authority, the Tourism Department and the police have been told to enforce it immediately. Any motorboat found on the water will be treated as contempt of the court's order, and the officers concerned are expected to act strictly.
+The interim order, passed on October 14 by a division bench of Chief Justice Pushpendra Singh Bhati and Justice Rajesh Sekhri, stays in force until further orders. The Lake Conservation and Management Authority, the Tourism Department and the police have been told to enforce it immediately. Any motorboat found on the water will be treated as contempt of the court's order, and the officers concerned are expected to act strictly.
 
 Government vessels used for emergencies, disaster management, safety and law and order are exempt.
 
@@ -45,4 +45,4 @@ The case began as a dispute over licences. The petitioners, Mohammad Rafiq Mir a
 
 The bench went further. It directed the administration to draft a full policy on motorised boats in consultation with experts, balancing tourism with pollution control. Senior Additional Advocate General Mohsin S Qadri, appearing for the administration, was asked to examine whether solar-powered or electric engines could replace fuel engines and to report back. Such boats "could be a solution" for keeping both tourism and the lake alive, the court said.
 
-The case will be heard next on 30 October.
+The case will be heard next on October 30.

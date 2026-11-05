@@ -32,8 +32,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 3 Nov ~13:10 IST, purchase reported by trade sources (Reuters via Business Standard, published 13:10 IST, updated 13:11). Single source: kept 'trade sources said' attribution. BPCL does not comment on commercial deals."
-    - "Brent context (about $104, 7% fall Monday) from Business Standard pre-market live blog, 3 Nov 8:24 IST; US strike on Qeshm from our earlier story."
+    - "event: Nov 3 ~13:10 IST, purchase reported by trade sources (Reuters via Business Standard, published 13:10 IST, updated 13:11). Single source: kept 'trade sources said' attribution. BPCL does not comment on commercial deals."
+    - "Brent context (about $104, 7% fall Monday) from Business Standard pre-market live blog, Nov 3 8:24 IST; US strike on Qeshm from our earlier story."
 ---
 
 Bharat Petroleum Corporation has **bought 1 million barrels of US crude** for its Mumbai refinery, trade sources said on Tuesday, as Indian refiners line up supplies for the turn of the year.

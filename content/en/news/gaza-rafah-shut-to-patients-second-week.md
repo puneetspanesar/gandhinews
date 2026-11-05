@@ -47,10 +47,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "Rafah closure, Sheikh Radwan collapse, Sanders: Al Jazeera live blog 16 Oct (via KpNews mirror) only. Number of patients waiting not given in any source read; not stated."
+    - "Rafah closure, Sheikh Radwan collapse, Sanders: Al Jazeera live blog Oct 16 (via KpNews mirror) only. Number of patients waiting not given in any source read; not stated."
     - "Thursday strikes (four killed, nine hospitalised) and Mahmoud al-Naqla quote: Democracy Now! headlines, repeated by Havana Times. The two give different al-Naqla lines; used the Democracy Now! wording."
     - "Maryam Ghanem: Democracy Now! and Havana Times agree."
-    - "Apache deal: CBS (12 Apaches from Boeing, Katz 'a critical step', delivery early next decade, posted 14 Oct); ~$1 billion from Times of Israel as cited by Democracy Now!."
+    - "Apache deal: CBS (12 Apaches from Boeing, Katz 'a critical step', delivery early next decade, posted Oct 14); ~$1 billion from Times of Israel as cited by Democracy Now!."
 ---
 
 Israel has kept the Rafah crossing closed for a second week running to Gaza patients who need treatment abroad, the territory's health ministry said on Friday, calling it a violation of international humanitarian law.

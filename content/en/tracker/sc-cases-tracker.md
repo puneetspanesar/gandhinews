@@ -35,17 +35,17 @@ sources:
 verification:
   status: verified-with-notes
   notes:
-    - "Fact-check 11 Oct 2026: confirmed Jaya Thakur (SCO: CJI recused 20 Mar 2026, reserved 30 Jul, split and sent to CJI 23 Sep); legislative privilege (LiveLaw 6 Oct); NEET/Jantar Mantar FIRs (SCO 1 Sep); definition of industry (SCO: 6:3 and 4:4); SIR, transgender amendment and turnover-tax reference (SCO). Added the 5 Oct notice on the CEC-powers plea to the EC row."
-    - "Sabarimala: a search on 11 Oct found no verdict; check the cause list before publishing. The names on each side of the 4:4 industry split are not in SCO's review."
-    - "Sabarimala: LiveLaw (11 Aug) and Kerala Kaumudi (12 Aug) reported the verdict could come by 6 Oct 2026. No verdict was found in searches on 11 Oct 2026. Check the Supreme Court cause list before publishing."
-    - "Mines: the states' challenge to the MMDR (Amendment) Act, 2026 was announced on 20 Aug 2026; we found no report that it was filed or listed."
+    - "Fact-check Oct 11, 2026: confirmed Jaya Thakur (SCO: CJI recused Mar 20, 2026, reserved Jul 30, split and sent to CJI Sep 23); legislative privilege (LiveLaw Oct 6); NEET/Jantar Mantar FIRs (SCO Sep 1); definition of industry (SCO: 6:3 and 4:4); SIR, transgender amendment and turnover-tax reference (SCO). Added the Oct 5 notice on the CEC-powers plea to the EC row."
+    - "Sabarimala: a search on Oct 11 found no verdict; check the cause list before publishing. The names on each side of the 4:4 industry split are not in SCO's review."
+    - "Sabarimala: LiveLaw (Aug 11) and Kerala Kaumudi (Aug 12) reported the verdict could come by Oct 6, 2026. No verdict was found in searches on Oct 11, 2026. Check the Supreme Court cause list before publishing."
+    - "Mines: the states' challenge to the MMDR (Amendment) Act, 2026 was announced on Aug 20, 2026; we found no report that it was filed or listed."
     - "Bench sizes for the transgender amendment and Deputy Speaker matters are not stated in sources and are left blank."
     - "Court orders were not opened directly; case details come from Supreme Court Observer, LiveLaw, Business Standard and PRS as listed in the data file."
 ---
 
 The Supreme Court under Chief Justice Surya Kant has a full docket of cases that bear on how India is governed. This tracker follows 11 of them.
 
-Some are settled. A nine-judge bench split 4-4-1 on what counts as an "industry" in August, a seven-judge bench closed the legislative privilege reference on 6 October without answering it, and the Court quashed FIRs against NEET protesters across the country. Others are waiting. The Sabarimala reference has been reserved since 14 May. The challenge to the 2023 law on appointing Election Commissioners is headed to a Constitution Bench. And states have said they will challenge the new mines law that limits their power to tax minerals.
+Some are settled. A nine-judge bench split 4-4-1 on what counts as an "industry" in August, a seven-judge bench closed the legislative privilege reference on October 6 without answering it, and the Court quashed FIRs against NEET protesters across the country. Others are waiting. The Sabarimala reference has been reserved since May 14. The challenge to the 2023 law on appointing Election Commissioners is headed to a Constitution Bench. And states have said they will challenge the new mines law that limits their power to tax minerals.
 
 ## How to read it
 

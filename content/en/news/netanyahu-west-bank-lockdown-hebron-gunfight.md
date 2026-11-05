@@ -45,7 +45,7 @@ verification:
     - "Main account from Al Jazeera only (article plus liveblog header). Injured count: article says at least five, two critical (Magen David Adom); liveblog meta says six. Copy uses 'at least five'."
     - "Exact time of Netanyahu's order: 'Friday morning' only. Published time set to early afternoon IST."
     - "Two Palestinians 'arrested' after the gunfight per Al Jazeera; relation to the two gunmen unclear, so phrased as two others arrested."
-    - "Modi-Netanyahu call: Tribune/ANI 12:52 am IST 23 Oct, so the call was late Thursday; exact time not given."
+    - "Modi-Netanyahu call: Tribune/ANI 12:52 am IST Oct 23, so the call was late Thursday; exact time not given."
 ---
 
 Israeli Prime Minister Benjamin Netanyahu sealed off the city of Hebron on Friday and told security forces to prepare a full lockdown of the occupied West Bank, hours after a gunfight at a checkpoint left two Palestinian attackers dead and several Israeli soldiers wounded.
@@ -70,6 +70,6 @@ The Palestinian Colonization and Wall Resistance Commission recorded 17 attacks 
 
 ## The India angle
 
-The escalation comes a day after Netanyahu spoke to Prime Minister Narendra Modi. After the call on Thursday night, Modi said the two leaders had "reaffirmed our commitment to further strengthening our partnership" and that he had "underscored the urgent need to restore peace and stability in the region". Netanyahu said he had invited Modi to light a torch on Israel's Independence Day together with Captain Smit Machchhar, the Indian pilot who helped overpower an attacker on a Tel Aviv-bound flydubai flight on 30 September.
+The escalation comes a day after Netanyahu spoke to Prime Minister Narendra Modi. After the call on Thursday night, Modi said the two leaders had "reaffirmed our commitment to further strengthening our partnership" and that he had "underscored the urgent need to restore peace and stability in the region". Netanyahu said he had invited Modi to light a torch on Israel's Independence Day together with Captain Smit Machchhar, the Indian pilot who helped overpower an attacker on a Tel Aviv-bound flydubai flight on September 30.
 
 India has not commented on Friday's shooting or the lockdown order.

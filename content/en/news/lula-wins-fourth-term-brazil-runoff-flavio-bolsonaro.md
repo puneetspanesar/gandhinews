@@ -22,7 +22,7 @@ hero:
     value: "Fourth term for Lula"
 related: [brazil-runoff-sunday-lula-flavio-final-globo-debate, lula-flavio-final-globo-debate-clash-runoff-eve, lula-flavio-bolsonaro-trade-insults-first-runoff-debate]
 seo:
-  description: "Lula beat Flávio Bolsonaro in Brazil's 25 October runoff, leading 51.56% to 48.44% with almost 90% counted, after a tense count and a voting extension row."
+  description: "Lula beat Flávio Bolsonaro in Brazil's October 25 runoff, leading 51.56% to 48.44% with almost 90% counted, after a tense count and a voting extension row."
 sources:
   - title: "Brazil Election Results 2026: Runoff Live Count, October 25"
     publisher: "The Rio Times"
@@ -80,7 +80,7 @@ Luiz Inácio Lula da Silva has won a record fourth term as Brazil's president, c
 
 With 89.74% of polling stations counted, the Superior Electoral Court's figures gave Lula, of the Workers' Party (PT), 51.56% of valid votes, or 57,206,365. Flávio Bolsonaro, of the Liberal Party (PL) and the son of former president Jair Bolsonaro, had 48.44%, or 53,754,103. That left Lula about 3.45 million votes ahead with only a tenth of stations still to report. Turnout was 80.97%.
 
-The result upends the first round on 4 October, when Flávio Bolsonaro finished first with 47.03% to Lula's 45.16%. The last polls before the runoff, by Datafolha and Genial/Quaest, both had him at 51% to Lula's 49%. Pollsters said on Sunday night that a higher than expected turnout appeared to have helped the president. Nearly 159 million Brazilians were eligible to vote.
+The result upends the first round on October 4, when Flávio Bolsonaro finished first with 47.03% to Lula's 45.16%. The last polls before the runoff, by Datafolha and Genial/Quaest, both had him at 51% to Lula's 49%. Pollsters said on Sunday night that a higher than expected turnout appeared to have helped the president. Nearly 159 million Brazilians were eligible to vote.
 
 Neither candidate's reaction to the result was available at the time of writing.
 

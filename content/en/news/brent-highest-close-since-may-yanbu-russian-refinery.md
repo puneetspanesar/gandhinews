@@ -22,7 +22,7 @@ hero:
     value: "Brent at $109.86, a five-month high"
 related: [oil-110-nasdaq-slide-cautious-start-indian-markets-monday, india-crude-import-bill-90-6-billion-april-september, irgc-supertanker-mine-fire-hormuz-closed, ukraine-resumes-strikes-russian-oil-refineries, us-weighs-easing-shadow-fleet-sanctions-freight-rates]
 seo:
-  description: "Brent crude settled at $109.86 on 16 October 2026, its highest close since 19 May, after a missile was fired at Saudi Arabia's Yanbu port and a Russian refinery was hit."
+  description: "Brent crude settled at $109.86 on October 16, 2026, its highest close since May 19, after a missile was fired at Saudi Arabia's Yanbu port and a Russian refinery was hit."
 sources:
   - title: "Brent Crude Price Week Ahead: Bull and Bear Case After the $110 Close, the Highest Since May"
     publisher: "FinanceFeeds"
@@ -42,8 +42,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Settlements and weekly changes agree in FinanceFeeds and the Substack summary. Daily Brent settles Mon-Thu ($106.65, $105.69, $106.06, $105.92) from Substack; Monday's $106.65 matches the site's 13 Oct story."
-    - "Kpler Hormuz flow 11.62 mb/d (week to 13 Oct) vs 17.15 baseline, US crude stocks -8.6m barrels (week to 9 Oct), SPR exchange of up to 17m barrels, EIA report Wednesday: FinanceFeeds."
+    - "Settlements and weekly changes agree in FinanceFeeds and the Substack summary. Daily Brent settles Mon-Thu ($106.65, $105.69, $106.06, $105.92) from Substack; Monday's $106.65 matches the site's Oct 13 story."
+    - "Kpler Hormuz flow 11.62 mb/d (week to Oct 13) vs 17.15 baseline, US crude stocks -8.6m barrels (week to Oct 9), SPR exchange of up to 17m barrels, EIA report Wednesday: FinanceFeeds."
     - "ADVFN headline seen in search only; article not opened."
     - "Russian diesel sanctions waiver and senators' letter appear only in the Substack summary; left out. Refinery not named in either source."
     - "Investing.com gives Brent weekly +4.7% and WTI +10.7%; copy uses the settlement-based 4.9% / 10.4% from two sources."
@@ -59,7 +59,7 @@ A Ukrainian drone strike also shut a main processing unit at a large Russian ref
 
 ## Supply still tight
 
-Flows through Hormuz averaged about 11.6 million barrels a day in the week to 13 October, according to the ship-tracking firm Kpler, compared with 17.15 million before the war. US commercial crude stocks fell 8.6 million barrels in the week to 9 October.
+Flows through Hormuz averaged about 11.6 million barrels a day in the week to October 13, according to the ship-tracking firm Kpler, compared with 17.15 million before the war. US commercial crude stocks fell 8.6 million barrels in the week to October 9.
 
 Washington has offered to lend oil companies up to 17 million barrels from its Strategic Petroleum Reserve through an exchange, and traders are watching how much of that is taken up.
 

@@ -22,7 +22,7 @@ hero:
     value: "'I don't care how it's done'"
 related: [witkoff-zelenskyy-oslo-before-putin-moscow, russia-hits-28-energy-sites-trump-says-fine, zelenskyy-us-proposes-trilateral-putin-summit-december, trump-says-us-in-denuclearisation-talks-russia-china]
 seo:
-  description: "Trump said in the Oval Office that Zelenskyy must want a peace deal, while Lavrov claimed a deal would end his rule. Witkoff travels to Russia on 21 October."
+  description: "Trump said in the Oval Office that Zelenskyy must want a peace deal, while Lavrov claimed a deal would end his rule. Witkoff travels to Russia on October 21."
 sources:
   - title: "'I don't care how it's done': Trump pressures Ukraine to cut peace deal"
     publisher: "Al Jazeera"
@@ -43,8 +43,8 @@ verification:
   status: approved
   notes:
     - "Trump quotes and Zelenskyy Oslo quotes from Al Jazeera (page timestamp 22:20, zone not stated; assumed UTC, so about 3:50 am IST). Washington Times headline 'Trump urges Zelenskyy to make a deal or it's just going to get worse' seen in search but page failed to load; that quote not used."
-    - "Lavrov quotes from Kyiv Post (20 Oct, 4:43 pm Kyiv time); where Lavrov spoke not given beyond 'told reporters'. Tribune page seen only as a search headline."
-    - "Trilateral talks history (Abu Dhabi Jan and Feb, Geneva 17-18 Feb) from Kyiv Post."
+    - "Lavrov quotes from Kyiv Post (Oct 20, 4:43 pm Kyiv time); where Lavrov spoke not given beyond 'told reporters'. Tribune page seen only as a search headline."
+    - "Trilateral talks history (Abu Dhabi Jan and Feb, Geneva Feb 17-18) from Kyiv Post."
     - "Witkoff travel to Russia on Wednesday is per Zelenskyy as reported by Al Jazeera; Kremlin confirmation not seen."
 ---
 
@@ -66,7 +66,7 @@ In Moscow, Sergey Lavrov accused the Ukrainian leader of sabotaging diplomacy. "
 
 Lavrov offered no evidence. He listed the Minsk process, the 2022 Istanbul talks and this year's meetings in Abu Dhabi and said none of them had ended because of Russia.
 
-Russia, Ukraine and the United States held three rounds of trilateral talks early this year, two in Abu Dhabi in January and February and one in Geneva on 17 and 18 February. They produced a prisoner exchange but no ceasefire, and there have been no three-way meetings since.
+Russia, Ukraine and the United States held three rounds of trilateral talks early this year, two in Abu Dhabi in January and February and one in Geneva on February 17 and 18. They produced a prisoner exchange but no ceasefire, and there have been no three-way meetings since.
 
 The gaps are the same as ever. Moscow wants Kyiv to recognise its occupation and pull out of areas Russia claims but does not fully hold. Ukraine refuses and insists any settlement must protect its sovereignty and come with security guarantees that can be enforced.
 

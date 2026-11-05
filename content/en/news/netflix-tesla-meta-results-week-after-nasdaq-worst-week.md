@@ -10,8 +10,8 @@ standfirst: "The three report quarterly results on Tuesday and Wednesday, the fi
 published: 2026-10-18T03:10:00+05:30
 location: New York
 keyPoints:
-  - "Netflix reports on **Tuesday, 20 October**, after the US market closes."
-  - "Tesla and Meta Platforms both report on **Wednesday, 21 October**."
+  - "Netflix reports on **Tuesday, October 20**, after the US market closes."
+  - "Tesla and Meta Platforms both report on **Wednesday, October 21**."
   - "The Nasdaq is still up about **12.5% for 2026** despite last week's 4.5% fall."
 hero:
   need: "Netflix headquarters in Los Gatos, California, and Tesla's Fremont factory"
@@ -22,7 +22,7 @@ hero:
     value: "Big Tech's turn to answer"
 related: [chip-stocks-longest-slide-since-2008-coreweave-ai-debt, oil-110-nasdaq-slide-cautious-start-indian-markets-monday, results-week-ahead-infosys-kotak-bajaj-finance-jio-ipo]
 seo:
-  description: "Netflix reports on 20 October and Tesla and Meta on 21 October 2026, the first big US tech results since the Nasdaq's worst week since June on AI worries."
+  description: "Netflix reports on October 20 and Tesla and Meta on October 21, 2026, the first big US tech results since the Nasdaq's worst week since June on AI worries."
 sources:
   - title: "The Nasdaq Index Just Had Its Worst Week Since June - and Netflix, Tesla and Meta Report Next"
     publisher: "FinanceFeeds"
@@ -49,7 +49,7 @@ verification:
 
 Three of the biggest names in US technology report results this week, and after the Nasdaq's worst week since June, investors will be looking to them for reasons to buy back in.
 
-Netflix goes first, on Tuesday, 20 October, shortly after the market closes at about 4 pm New York time, or 1:30 am IST on Wednesday. Tesla and Meta Platforms follow on Wednesday after the close. Meta's conference call is at 4:30 pm New York time and Tesla's webcast at 5:30 pm, which is 2 am and 3 am IST on Thursday.
+Netflix goes first, on Tuesday, October 20, shortly after the market closes at about 4 pm New York time, or 1:30 am IST on Wednesday. Tesla and Meta Platforms follow on Wednesday after the close. Meta's conference call is at 4:30 pm New York time and Tesla's webcast at 5:30 pm, which is 2 am and 3 am IST on Thursday.
 
 ## A nervous backdrop
 

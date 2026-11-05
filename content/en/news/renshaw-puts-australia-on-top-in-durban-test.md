@@ -70,7 +70,7 @@ Hazlewood expects a long final day for his bowlers.
 
 > It's a grind so hopefully a few cracks open up.
 >
-> Source: Josh Hazlewood, Australia fast bowler, 12 October 2026
+> Source: Josh Hazlewood, Australia fast bowler, October 12, 2026
 
 ## What's next
 

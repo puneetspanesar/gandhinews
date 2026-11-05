@@ -22,7 +22,7 @@ hero:
     value: "Mosquitoes and mafia, says Yogi"
 related: []
 seo:
-  description: "Yogi Adityanath inaugurated the first phase of Gorakhpur's Rs 495 crore Gordhoiya drain on 1 November and attacked the Samajwadi Party over land-grabbing."
+  description: "Yogi Adityanath inaugurated the first phase of Gorakhpur's Rs 495 crore Gordhoiya drain on November 1 and attacked the Samajwadi Party over land-grabbing."
 sources:
   - title: "UP CM says Gorakhpur now free of mosquitoes, mafia; accuses SP leaders of land-grabbing"
     publisher: "ThePrint (PTI)"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov, Sunday programme in Gorakhpur; PTI copy time stamped 18:50 IST. Exact time of speech not stated in source, inferred as late afternoon or evening. Single wire source."
+    - "event: Nov 1, Sunday programme in Gorakhpur; PTI copy time stamped 18:50 IST. Exact time of speech not stated in source, inferred as late afternoon or evening. Single wire source."
 ---
 
 Uttar Pradesh Chief Minister Yogi Adityanath on Sunday **inaugurated the first phase of the Gordhoiya drain** in Gorakhpur, a project built at a cost of more than ₹495 crore, and told the gathering that his home city had been rid of two old curses at once.

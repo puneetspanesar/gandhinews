@@ -10,7 +10,7 @@ standfirst: "At the first trade committee meeting since the India-UK trade agree
 published: 2026-10-13T05:00:00+05:30
 location: New Delhi
 keyPoints:
-  - "Piyush Goyal and Jonathan Reynolds co-chaired the **16th India-UK JETCO** in New Delhi on 12 October."
+  - "Piyush Goyal and Jonathan Reynolds co-chaired the **16th India-UK JETCO** in New Delhi on October 12."
   - "Both sides will **swap data every year** on how often businesses claim the pact's lower tariffs."
   - "Goyal called for **doubling bilateral trade by 2030** and named five sectors to get there."
 hero:
@@ -49,13 +49,13 @@ verification:
     - "PIB release pages (PRID 2322384, 2322389) could not be opened by the fetch tool; the joint statement was read on GOV.UK instead, and Goyal's plenary remarks from ANI and IANS."
     - "Goyal's 'barely four and a half years away' quote is from ANI only."
     - "Trade figure £48.4 billion (four quarters to March 2026, up 5.7%, UK DBT data) is from ANI only; ANI also prints 'USD 54.09' alongside it in a garbled way, so only the sterling figure is used."
-    - "CETA entry into force on 15 July 2026 rests on the PIB release title seen in search results; the release date shown in sources is approximate (title only), so sources.date for it is a placeholder for early July. Reynolds is quoted as saying the pact had been in force for 'almost 100 days' (IANS paraphrase), consistent with 15 July."
+    - "CETA entry into force on July 15, 2026, rests on the PIB release title seen in search results; the release date shown in sources is approximate (title only), so sources.date for it is a placeholder for early July. Reynolds is quoted as saying the pact had been in force for 'almost 100 days' (IANS paraphrase), consistent with July 15."
     - "PIB release date for PRID 2274280 not seen; date field is approximate."
 ---
 
 India and the United Kingdom have agreed to swap data every year on how often businesses use their new trade agreement, as the two governments met on Monday for the first time since the deal took effect.
 
-Commerce and Industry Minister Piyush Goyal and Jonathan Reynolds, the UK Secretary of State for Business, Innovation, Science and Trade, co-chaired the 16th meeting of the India-UK Joint Economic and Trade Committee (JETCO) in New Delhi on 12 October. The Comprehensive Economic and Trade Agreement (CETA) entered into force on 15 July.
+Commerce and Industry Minister Piyush Goyal and Jonathan Reynolds, the UK Secretary of State for Business, Innovation, Science and Trade, co-chaired the 16th meeting of the India-UK Joint Economic and Trade Committee (JETCO) in New Delhi on October 12. The Comprehensive Economic and Trade Agreement (CETA) entered into force on July 15.
 
 In their joint statement, the ministers called the agreement "the beginning, not the end" of their shared ambition.
 
@@ -73,7 +73,7 @@ Speaking at the business plenary that followed, Goyal urged companies in both co
 
 > Our shared ambition is to double bilateral trade by 2030. That's barely four and a half years away.
 >
-> Source: Piyush Goyal, Union Minister of Commerce and Industry, 12 October 2026
+> Source: Piyush Goyal, Union Minister of Commerce and Industry, October 12, 2026
 
 He named five areas for partnership: infrastructure and clean energy, advanced manufacturing and supply chains, technology and research, financial services linking the City of London with GIFT City in Gujarat, and healthcare and consumer goods. He said the Double Contribution Convention on social security, which took effect alongside the trade deal, could help both economies by making services more competitively priced.
 

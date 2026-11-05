@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov 12:40 IST, Finance Ministry provisional GST data for October 2026 (Business Today published 12:40 IST; Tribune/ANI 12:42 IST). Ministry release itself not opened."
+    - "event: Nov 1 12:40 IST, Finance Ministry provisional GST data for October 2026 (Business Today published 12:40 IST; Tribune/ANI 12:42 IST). Ministry release itself not opened."
     - "Two sources agree on all headline numbers. CGST 42,935 + SGST 51,340 + IGST 1,37,015 = 2,31,290 checks out. Net = gross minus refunds 27,934 = 2,03,356 checks out."
     - "Not called a record: April 2025 gross (about ₹2.37 lakh crore) was higher. No named official quoted in sources. Cess not reported."
     - "State figures (Maharashtra, Karnataka, Gujarat, Haryana, Assam, UP and Bihar growth) from Tribune/ANI only."
@@ -73,4 +73,4 @@ Maharashtra remained far ahead of the rest, with **₹35,150 crore, up 13%**. Ka
 
 October's surge lifted the running total for the financial year. Gross collections from April to October reached **₹14,77,569 crore, up 13.2%** on ₹13,05,213 crore in the same seven months of 2025-26. Net revenue for the period stood at ₹12,69,486 crore, 12.6% higher.
 
-The strong month will be welcome news for the Centre and the states as they plan spending for the second half of the year. The next set of figures, for November, is due on 1 December.
+The strong month will be welcome news for the Centre and the states as they plan spending for the second half of the year. The next set of figures, for November, is due on December 1.

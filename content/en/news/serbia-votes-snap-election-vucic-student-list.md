@@ -22,7 +22,7 @@ hero:
     value: "Students against the system"
 related: []
 seo:
-  description: "Serbia holds a snap parliamentary election on 25 October, with Aleksandar Vučić's SNS facing a student-backed list that one poll puts narrowly ahead."
+  description: "Serbia holds a snap parliamentary election on October 25, with Aleksandar Vučić's SNS facing a student-backed list that one poll puts narrowly ahead."
 sources:
   - title: "Serbia's snap election: What's at stake and can students unseat Vucic?"
     publisher: "Al Jazeera"
@@ -47,9 +47,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Preview: published before polls open (opening time not confirmed in sources, so not stated). Polls close 8 pm local; European clocks go back at 3 am on 25 Oct, so 8 pm CET = 19:00 UTC = 12:30 am IST Monday 26 Oct."
-    - "NSPM poll 20 Oct: Students 44.5%, SNS 42.7% (Reuters). Al Jazeera says Serbia lacks reliable independent polling. Betting odds favour Vucic (Reuters)."
-    - "Resignation 27 Sep; acting president Ana Brnabic (Euronews). Quotes from rally: Vucic 'Let us go out and defeat them! Defeat them decisively!' and Gasic quote (AFP via Al Jazeera)."
+    - "Preview: published before polls open (opening time not confirmed in sources, so not stated). Polls close 8 pm local; European clocks go back at 3 am on Oct 25, so 8 pm CET = 19:00 UTC = 12:30 am IST Monday, Oct 26."
+    - "NSPM poll Oct 20: Students 44.5%, SNS 42.7% (Reuters). Al Jazeera says Serbia lacks reliable independent polling. Betting odds favour Vucic (Reuters)."
+    - "Resignation Sep 27; acting president Ana Brnabic (Euronews). Quotes from rally: Vucic 'Let us go out and defeat them! Defeat them decisively!' and Gasic quote (AFP via Al Jazeera)."
     - "Ilija Srdanovic heads the list but may not become PM (Reuters)."
     - "100+ violent incidents, 24 civil society groups, six arrested suspects questioned: Al Jazeera."
     - "Rule since 2012 for SNS; Vucic PM or president since 2014. '14 years' refers to SNS rule (Al Jazeera, 'more than 14 years')."
@@ -57,7 +57,7 @@ verification:
 
 Serbians vote on Sunday in a snap parliamentary election that could end, or extend, more than 14 years of rule by Aleksandar Vučić and his Serbian Progressive Party (SNS).
 
-Vučić, 56, resigned as president on 27 September because the constitution barred him from a third term, and is leading the SNS campaign as its candidate for prime minister. Ana Brnabić, a close ally, is acting president.
+Vučić, 56, resigned as president on September 27 because the constitution barred him from a third term, and is leading the SNS campaign as its candidate for prime minister. Ana Brnabić, a close ally, is acting president.
 
 His main opponent is not a party but a movement. The Student List, also called Students Win, grew out of the protests that followed the collapse of a railway station canopy in Novi Sad in November 2024, which killed 16 people and was widely blamed on corruption. It is running 250 candidates for the 250 seats, many of them academics and political newcomers, and is headed by the cardiologist Ilija Srdanović, though the students say he would not necessarily become prime minister.
 

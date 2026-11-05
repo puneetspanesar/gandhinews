@@ -34,7 +34,7 @@ verification:
     - "Single media source (Al Jazeera with AFP), relaying FSB and Russian Foreign Ministry statements and a Kyodo report of the Japanese embassy official. Searches for a second source found nothing fresh. Claims attributed to the FSB throughout."
     - "Name order as given by Russia's Foreign Ministry ('Imai Yuki'); his name in Western order would be Yuki Imai. Hokkaido Shimbun has not been seen confirming."
     - "No exact quotes from FSB or Japanese officials available; all paraphrased."
-    - "Date of arrest not given; announced Tuesday 13 Oct."
+    - "Date of arrest not given; announced Tuesday, Oct 13."
 ---
 
 Russia's Federal Security Service (FSB) has arrested a Japanese newspaper reporter on Sakhalin Island and accused him of spying for Japanese intelligence, a charge that carries up to 20 years in prison.

@@ -21,7 +21,7 @@ hero:
     value: "A data centre for Patna"
 related: [vaishali-boat-capsize-ganga-raghopur-children-killed]
 seo:
-  description: "Bihar Chief Minister Samrat Choudhary inaugurated the CtrlS data centre in Patna's Patliputra Industrial Area on 14 October, saying it would draw IT and AI investment."
+  description: "Bihar Chief Minister Samrat Choudhary inaugurated the CtrlS data centre in Patna's Patliputra Industrial Area on October 14, saying it would draw IT and AI investment."
 sources:
   - title: "Bihar Top News 14 oct 2026"
     publisher: "Lalluram"
@@ -41,7 +41,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Inauguration on 14 Oct rests on one report (Lalluram roundup, 10:46 pm IST). No PIB/state release found. Inaugurated facility assumed to be the 2024-announced Patliputra greenfield centre (same location); capacity of the opened facility not stated in the 2026 report, so 2024 figures are attributed to the 2024 announcement."
+    - "Inauguration on Oct 14 rests on one report (Lalluram roundup, 10:46 pm IST). No PIB/state release found. Inaugurated facility assumed to be the 2024-announced Patliputra greenfield centre (same location); capacity of the opened facility not stated in the 2026 report, so 2024 figures are attributed to the 2024 announcement."
     - "Rs 10,000 crore MoU between Industries Department and CtrlS: from Lalluram only; date of MoU not given."
     - "Founder's quote is from August 2024 (Voice&Data). Lalluram calls him 'Sridhar Reddy'; full name Sridhar Pinnapureddy per 2024 reports."
 ---

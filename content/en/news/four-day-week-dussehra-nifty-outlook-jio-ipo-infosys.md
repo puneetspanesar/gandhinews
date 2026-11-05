@@ -10,7 +10,7 @@ standfirst: "Indian shares go into Monday after their best week in months, led b
 published: 2026-10-18T13:30:00+05:30
 location: Mumbai
 keyPoints:
-  - "Exchanges are **closed on Tuesday, 20 October**, for Dussehra, leaving four trading days."
+  - "Exchanges are **closed on Tuesday, October 20**, for Dussehra, leaving four trading days."
   - "The Nifty gained 2.8% last week to 23,146, and analysts see **support around 22,800**."
   - "The RBI's policy minutes and India's **flash PMI for October** are due during the week."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "Four sessions, one record IPO"
 related: [oil-110-nasdaq-slide-cautious-start-indian-markets-monday, results-week-ahead-infosys-kotak-bajaj-finance-jio-ipo, bajaj-finance-ultratech-hindustan-zinc-results-monday, ipo-week-ahead-jio-platforms-paras-healthcare-open, sensex-nifty-it-rally-weekly-gain-october-16, fpi-selling-reaches-52100-crore-october-friday-buying]
 seo:
-  description: "Indian markets face a four-day week with a Dussehra holiday on 20 October, the Jio Platforms IPO, Infosys results, RBI minutes and flash PMI. Analysts expect the Nifty to consolidate."
+  description: "Indian markets face a four-day week with a Dussehra holiday on October 20, the Jio Platforms IPO, Infosys results, RBI minutes and flash PMI. Analysts expect the Nifty to consolidate."
 sources:
   - title: "Earnings, crude oil, Jio IPO key monitorables for investors next week"
     publisher: "Business Standard (PTI)"
@@ -42,14 +42,14 @@ sources:
 verification:
   status: approved
   notes:
-    - "Holiday on Tuesday 20 Oct for Dussehra: PTI (Business Standard) and Business Today agree."
-    - "RBI MPC minutes on 21 Oct and flash PMIs on 23 Oct: Upstox only; stated as scheduled."
-    - "Business Today lists Kotak, AU SFB, IDFC First on 24 Oct (a Saturday); kept as Saturday, consistent with recent Saturday results."
+    - "Holiday on Tuesday, Oct 20 for Dussehra: PTI (Business Standard) and Business Today agree."
+    - "RBI MPC minutes on Oct 21 and flash PMIs on Oct 23: Upstox only; stated as scheduled."
+    - "Business Today lists Kotak, AU SFB, IDFC First on Oct 24 (a Saturday); kept as Saturday, consistent with recent Saturday results."
     - "Nifty IT 11.7% weekly rise 'best in nearly 18 years': Upstox wording; Business Today gives same 11.7%."
     - "Quotes: Khemka, Shetti, Pabari, Uday Kotak from Business Today; Ponmudi R and Mishra from PTI. Pabari's '94 into focus' refers to rupee level he named; the article did not give the threshold level in our extract, so copy keeps his words without specifying it."
 ---
 
-Indian share markets go into a short and crowded week on Monday. Exchanges will be shut on Tuesday, 20 October, for Dussehra, and the four remaining sessions carry India's largest share sale, results from Infosys and about 30 other big companies, and oil that is hovering near $110 a barrel.
+Indian share markets go into a short and crowded week on Monday. Exchanges will be shut on Tuesday, October 20, for Dussehra, and the four remaining sessions carry India's largest share sale, results from Infosys and about 30 other big companies, and oil that is hovering near $110 a barrel.
 
 The market starts from a stronger place than it has for some time. The Sensex rose 2,256.94 points, or 3.11%, last week to close at 74,729, and the Nifty gained 2.77% to 23,146, its second weekly rise after eight straight weeks of losses. The Nifty IT index jumped 11.7%, its biggest weekly gain in nearly 18 years, after TCS, HCLTech and Tech Mahindra reported solid numbers.
 
@@ -73,7 +73,7 @@ The minutes of the Reserve Bank's October policy meeting, at which it raised the
 
 Analysts expect the index to hold its ground rather than surge. "Nifty is expected to consolidate with a gradual recovery, although intermittent volatility may persist in broader markets," Khemka said. Nagaraj Shetti, senior technical research analyst at HDFC Securities, said: "Any weakness is likely to find support around 22,800 level."
 
-The rally has been narrow. Only 32% of Nifty stocks were trading above their 50-day moving average on 16 October, and mid- and small-cap indices lagged the large caps.
+The rally has been narrow. Only 32% of Nifty stocks were trading above their 50-day moving average on October 16, and mid- and small-cap indices lagged the large caps.
 
 The rupee, which gained 2% last week and was the best-performing emerging-market currency, could strengthen further. Amit Pabari, managing director of CR Forex Advisors, said a decisive break lower in the dollar "could lead to a further 50–75 paise appreciation, bringing 94 into focus."
 

@@ -21,7 +21,7 @@ hero:
     value: "Asked to resign, and she did"
 related: []
 seo:
-  description: "Kimberly Guilfoyle resigned as US ambassador to Greece on 13 October after the White House asked her to quit over reported misconduct allegations she denies."
+  description: "Kimberly Guilfoyle resigned as US ambassador to Greece on October 13 after the White House asked her to quit over reported misconduct allegations she denies."
 sources:
   - title: "US ambassador to Greece resigns amid misconduct allegations"
     publisher: "Al Jazeera"

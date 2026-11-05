@@ -12,7 +12,7 @@ location: Chennai
 keyPoints:
   - "North Chennai received **6 cm to 10 cm of rain in under an hour** on Saturday night."
   - "Waterlogging was reported at **35 locations** across the city."
-  - "The IMD has a **yellow alert for 17 districts** until 23 October."
+  - "The IMD has a **yellow alert for 17 districts** until October 23."
 hero:
   need: "C Joseph Vijay, Tamil Nadu Chief Minister, ideally with the Ripon Building, Chennai"
   suggested_source: "Vijay (actor)"
@@ -22,7 +22,7 @@ hero:
     value: "35 spots waterlogged in one night"
 related: [modi-opens-chennai-metro-stretch-vijay-seeks-school-funds]
 seo:
-  description: "Tamil Nadu CM Vijay reviewed rain preparedness on 18 October after heavy rain flooded 35 locations in Chennai; IMD has a yellow alert in 17 districts till 23 October."
+  description: "Tamil Nadu CM Vijay reviewed rain preparedness on October 18 after heavy rain flooded 35 locations in Chennai; IMD has a yellow alert in 17 districts till October 23."
 sources:
   - title: "TN CM Vijay reviews rain preparedness; directs officials to step up flood-prevention works (PTI)"
     publisher: "ThePrint"
@@ -58,7 +58,7 @@ Forecasters linked the rain to an upper-air cyclonic circulation over north Tami
 
 Vijay praised corporation staff and allied departments for their quick response overnight. He then asked departments to work in close coordination and to carry out relief measures diligently, since more warnings of heavy rain were expected. Officials were told to follow the response protocols laid down for flood situations and to hurry precautionary work in Chennai and other parts of the state.
 
-The government's concern is the run of wet days ahead. The IMD has a yellow alert, which signals heavy rain of 6 cm to 11 cm, in force until 23 October for 17 districts, including Chennai, Tiruvallur, Chengalpattu, Kancheepuram, Cuddalore and Tiruchi.
+The government's concern is the run of wet days ahead. The IMD has a yellow alert, which signals heavy rain of 6 cm to 11 cm, in force until October 23 for 17 districts, including Chennai, Tiruvallur, Chengalpattu, Kancheepuram, Cuddalore and Tiruchi.
 
 Widespread rain is also forecast across the delta and the south, from Nagapattinam, Thanjavur and Tiruvarur to Ramanathapuram, Thoothukudi and Tirunelveli, as well as in the Nilgiris and Coimbatore. Puducherry and Karaikal are expected to get rain too.
 

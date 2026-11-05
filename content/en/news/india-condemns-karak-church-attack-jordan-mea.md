@@ -10,7 +10,7 @@ standfirst: "The Ministry of External Affairs called Friday's shooting at a fune
 published: 2026-10-24T16:35:00+05:30
 location: New Delhi
 keyPoints:
-  - "The MEA said India **unequivocally condemns** the attack at a church in Karak on 23 October."
+  - "The MEA said India **unequivocally condemns** the attack at a church in Karak on October 23."
   - "India said it **stands firmly** with the government and people of Jordan."
   - "Jordan's health minister said on Saturday the death toll had risen to **eight**."
 hero:
@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "MEA statement text from ANI (updated 4:04 pm IST 24 Oct); News On AIR headline seen only. Published time set at 4:35 pm, just inside the window; statement itself issued around 4 pm."
+    - "MEA statement text from ANI (updated 4:04 pm IST Oct 24); News On AIR headline seen only. Published time set at 4:35 pm, just inside the window; statement itself issued around 4 pm."
     - "Toll of eight and King Abdullah 'terrorist act' quote from existing Gandhi News story jordan-karak-church-attack-toll-rises-to-eight."
     - "Jaishankar's X post described by ANI as 'similar'; its text not quoted."
 ---

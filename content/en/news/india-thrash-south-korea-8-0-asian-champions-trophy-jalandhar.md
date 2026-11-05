@@ -22,7 +22,7 @@ hero:
     value: "India 8-0 South Korea"
 related: [india-south-korea-asian-champions-trophy-last-league-jalandhar-preview, harmanpreet-hat-trick-india-beat-malaysia-asian-champions-trophy, india-retain-asian-games-hockey-squad-champions-trophy]
 seo:
-  description: "India beat South Korea 8-0 in Jalandhar on 2 November 2026 to finish the men's Asian Champions Trophy league stage unbeaten. Dilpreet Singh scored twice, and India meet South Korea again in the semi-final in Mohali on 4 November."
+  description: "India beat South Korea 8-0 in Jalandhar on November 2, 2026, to finish the men's Asian Champions Trophy league stage unbeaten. Dilpreet Singh scored twice, and India meet South Korea again in the semi-final in Mohali on November 4."
 sources:
   - title: "India Thrash South Korea 8-0 to Finish Unbeaten in Jalandhar, Set Sights on Sixth ACT Title"
     publisher: "RevSportz"
@@ -37,9 +37,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov 19:00 IST start, final whistle about 20:15 IST; RevSportz report published 15:50 UTC (21:20 IST). India 8-0 South Korea, Surjit Singh Hockey Stadium, Burlton Park, Jalandhar."
+    - "event: Nov 2 19:00 IST start, final whistle about 20:15 IST; RevSportz report published 15:50 UTC (21:20 IST). India 8-0 South Korea, Surjit Singh Hockey Stadium, Burlton Park, Jalandhar."
     - "Single detailed source (RevSportz, by Abhishek Mishra) for scorers and minutes: Dilpreet 8' and 40', Jugraj 11' (rebound), Harmanpreet 15' (drag-flick, not explicitly labelled a PC so copy just says drag-flick), Shilanand Lakra 33' (rebound from Harmanpreet PC), Sukhjeet 34', Sanjay 36' (rebound after Kim Jaehyon save), Angadveer Singh 60'. 3-0 after first quarter, 3-0 at half-time. A search for a second report found none; result is the only claim and it is unhedged in the headline as the source is a named, detailed match report."
-    - "Semi-final v South Korea Wed 4 Nov, Balbir Singh International Hockey Stadium, Mohali (RevSportz). Points total after five games (15) is derived from 12 points in the preview plus a win; not stated in the copy. No quotes available; none used. Attendance not given, copy only says the stands were full as the report did."
+    - "Semi-final v South Korea Wed Nov 4, Balbir Singh International Hockey Stadium, Mohali (RevSportz). Points total after five games (15) is derived from 12 points in the preview plus a win; not stated in the copy. No quotes available; none used. Attendance not given, copy only says the stands were full as the report did."
     - "Search budget: 5 of 6 used."
 cover:
   template: sport
@@ -61,4 +61,4 @@ India then scored three times in four minutes after the break. Shilanand Lakra p
 
 Dilpreet added his second in the 40th minute, and Angadveer Singh **struck in the dying seconds** to complete the rout. South Korea won one last penalty corner but could not even claim a consolation goal. The Indian players raised their sticks towards the packed stands at the end, their last game at this venue.
 
-The win sends five-time champions India into the knockouts at full strength and full of goals. The draw, though, gives them no new opponent: they **meet South Korea again in the semi-final** on Wednesday, 4 November, at the Balbir Singh International Hockey Stadium in Mohali, as they chase a sixth title.
+The win sends five-time champions India into the knockouts at full strength and full of goals. The draw, though, gives them no new opponent: they **meet South Korea again in the semi-final** on Wednesday, November 4, at the Balbir Singh International Hockey Stadium in Mohali, as they chase a sixth title.

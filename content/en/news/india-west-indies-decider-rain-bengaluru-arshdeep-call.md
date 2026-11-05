@@ -62,13 +62,13 @@ sources:
 verification:
   status: approved
   notes:
-    - "State of play written as of 5:45 pm IST, 17 Oct. Wisden match page showed no toss, no XIs, weather listed as rain. No report of the toss or of a BCCI Arshdeep update found by then. 7 pm start per Wisden match info and earlier preview (Wisden header also shows 1:30 pm)."
-    - "Nets cancelled and evening rain forecast: RevSportz (Bharath Ramaraj, 17 Oct) only. Moisture under the surface is that writer's suggestion; copy hedges it."
+    - "State of play written as of 5:45 pm IST, Oct 17. Wisden match page showed no toss, no XIs, weather listed as rain. No report of the toss or of a BCCI Arshdeep update found by then. 7 pm start per Wisden match info and earlier preview (Wisden header also shows 1:30 pm)."
+    - "Nets cancelled and evening rain forecast: RevSportz (Bharath Ramaraj, Oct 17) only. Moisture under the surface is that writer's suggestion; copy hedges it."
     - "Morkel quotes (Friday pre-match presser) verbatim from RevSportz. Bhuvneshwar stats (36, last T20I 2022 WC semi v England, 25 in two overs; 28 wkts in 16 IPL 2026 innings at 17.89 for RCB): RevSportz only."
     - "98 sixes in the series and Roston Chase as leading wicket-taker: RevSportz only. Prince Yadav 1-36 in Hyderabad: RevSportz."
     - "Hyderabad: WI 247/3, India 223/9 (Wisden results); Hope 102* off 50, Rutherford 49*, Keemo Paul five wickets, Samson 56: Sportsdunia."
-    - "2022 Chinnaswamy washout v South Africa (19 June 2022, series 2-2): Business Standard headline and several search results agree."
-    - "NZ T20I series from 22 Oct: earlier Gandhi News preview and IANS (Krunal/HK Sixes story)."
+    - "2022 Chinnaswamy washout v South Africa (June 19, 2022, series 2-2): Business Standard headline and several search results agree."
+    - "NZ T20I series from Oct 22: earlier Gandhi News preview and IANS (Krunal/HK Sixes story)."
 ---
 
 India and West Indies were waiting on the weather and on Arshdeep Singh's shoulder on Saturday evening, a little over an hour before the scheduled 7 pm start of the fifth and final T20I at the M Chinnaswamy Stadium. With the series level at 2-2, the winner takes it.
@@ -99,4 +99,4 @@ West Indies levelled the series with a 24-run win in Hyderabad, piling up 247 fo
 
 ## What comes next
 
-There is little time to recover whatever happens. India's five-match T20I series in New Zealand begins in Christchurch on 22 October, and Arshdeep is in that squad as well, a reason for the selectors to tread carefully with him tonight.
+There is little time to recover whatever happens. India's five-match T20I series in New Zealand begins in Christchurch on October 22, and Arshdeep is in that squad as well, a reason for the selectors to tread carefully with him tonight.

@@ -38,8 +38,8 @@ verification:
   status: approved
   notes:
     - "Start time 9:00 pm AEDT from ABC live blog (8:20 pm AEDT post) = 3:30 pm IST. Not confirmed that play actually began; written as state at 3:35 pm IST."
-    - "South Africa's three changes are not named in the ABC blog; Breetzke for Stubbs and Rabada's return were announced earlier in the week (our 15 Oct stories), kept as 'were named'."
-    - "Three-Test series per our 15 Oct Stubbs/Breetzke story."
+    - "South Africa's three changes are not named in the ABC blog; Breetzke for Stubbs and Rabada's return were announced earlier in the week (our Oct 15 stories), kept as 'were named'."
+    - "Three-Test series per our Oct 15 Stubbs/Breetzke story."
 ---
 
 Rain delayed the start of the second Test between South Africa and Australia at St George's Park in Gqeberha on Sunday, with play finally due to begin at 3:30 pm IST after the umpires completed a pitch inspection.

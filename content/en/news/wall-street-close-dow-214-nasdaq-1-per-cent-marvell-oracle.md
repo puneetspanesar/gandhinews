@@ -22,7 +22,7 @@ hero:
     value: "Dow up 0.4%, Nasdaq down 1.1%"
 related: [wall-street-midday-dow-1-per-cent-oracle-slides-gold-rebounds, wall-street-opens-higher-dow-403-oil-slides-midterms-eve, oil-slump-deepens-brent-105-airlines-rally-iran-talks, apple-results-ternus-first-call-113-billion-preview, sensex-nifty-close-november-2]
 seo:
-  description: "Wall Street close on 2 November 2026: Dow up 213.67 at 51,983.98, S&P 500 down 0.51% at 7,541.40, Nasdaq down 1.07% at 25,164.32. Marvell, Oracle slide; Brent at $104.77."
+  description: "Wall Street close on November 2, 2026: Dow up 213.67 at 51,983.98, S&P 500 down 0.51% at 7,541.40, Nasdaq down 1.07% at 25,164.32. Marvell, Oracle slide; Brent at $104.77."
 cover:
   template: business
   label: "Wall Street"
@@ -61,7 +61,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 3 Nov 02:30 IST (4:00 pm EST, 2 Nov), NYSE close. US clocks moved to EST on 1 Nov, so 4 pm ET = 02:30 IST."
+    - "event: Nov 3 02:30 IST (4:00 pm EST, Nov 2), NYSE close. US clocks moved to EST on Nov 1, so 4 pm ET = 02:30 IST."
     - "Closing levels and point changes (Dow 51,983.98 +213.67 +0.41%; S&P 7,541.40 -38.67 -0.51%; Nasdaq 25,164.32 -272.68 -1.07%) from STL.News; levels and % match TradingKey and Peter Lewis briefing."
     - "SOX 10,328.33 -3.37%, Marvell -12.72%, Lumentum -18.59%, Oracle -8.85% to $119.10 from TradingKey; Marvell -12.7% and Lumentum -18.6% also in STL.News (which links Marvell's fall to its proposed Lumentum acquisition)."
     - "Nvidia -1.3%, Amazon +2.2%, United +4.8%, Carnival +4.2%, Southwest +3.6% from STL.News only."

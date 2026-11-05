@@ -40,7 +40,7 @@ sources:
 verification:
   status: verified
   notes:
-    - "Fact-checked 11 Oct 2026 against the MoSPI Q1 press note: Benchmark-Indicator method and indicators, revision caveat, new indices (output PPI, IIP and BkSPI, base 2022-23), double deflation and the 'negative growth rate' quote, 27 Feb and 5 Jun 2026 dates, quarterly back series Q1 2022-23 to Q4 2025-26, all Q1 figures and the 30 Nov release. PIB factsheet confirms the 0.1-point annual revisions. RBI projections confirmed."
+    - "Fact-checked Oct 11, 2026, against the MoSPI Q1 press note: Benchmark-Indicator method and indicators, revision caveat, new indices (output PPI, IIP and BkSPI, base 2022-23), double deflation and the 'negative growth rate' quote, Feb 27 and Jun 5, 2026, dates, quarterly back series Q1 2022-23 to Q4 2025-26, all Q1 figures and the Nov 30 release. PIB factsheet confirms the 0.1-point annual revisions. RBI projections confirmed."
     - "Changed: removed quotation marks from 'at constant 2022-23 prices'; MoSPI's wording is 'Constant (2022-23) ... prices'."
     - "The previous base year is not named because none of the documents read for this piece stated it."
     - "MoSPI said its 'Sources and Methods' publication for the new series was scheduled for September 2026; whether it has been released was not checked."
@@ -85,7 +85,7 @@ In April-June 2026, nominal GDP grew 10.3% to ₹88.27 lakh crore, while real GD
 
 **The base year is the year whose prices are used to value output in every other year.** Real GDP for April-June 2026 is expressed at constant 2022-23 prices. The base year also anchors the price indices, weights and data sources behind the estimates.
 
-MoSPI released the new series with base year 2022-23 on 27 February 2026, and provisional estimates for 2025-26 on that basis on 5 June 2026.
+MoSPI released the new series with base year 2022-23 on February 27, 2026, and provisional estimates for 2025-26 on that basis on June 5, 2026.
 
 ## What did the new base change?
 
@@ -98,9 +98,9 @@ The biggest change in method is "double deflation" for manufacturing. Price chan
 **Yes, slightly upward.** According to PIB, growth for each of the last three years was revised up by 0.1 percentage point under the new series.
 
 ```chart
-{"type":"vbar","title":"Real GDP growth on the new 2022-23 series","subtitle":"Annual (%); earlier estimates in brackets","unit":"%","data":[{"label":"2023-24 (7.2)","value":7.3},{"label":"2024-25 (7.1)","value":7.2},{"label":"2025-26 (7.7)","value":7.8,"highlight":true}],"source":"MoSPI via PIB factsheet, 1 Sep 2026"}
+{"type":"vbar","title":"Real GDP growth on the new 2022-23 series","subtitle":"Annual (%); earlier estimates in brackets","unit":"%","data":[{"label":"2023-24 (7.2)","value":7.3},{"label":"2024-25 (7.1)","value":7.2},{"label":"2025-26 (7.7)","value":7.8,"highlight":true}],"source":"MoSPI via PIB factsheet, Sep 1, 2026"}
 ```
 
 Quarterly figures from April-June 2022 to January-March 2026 were also recalculated and published in MoSPI's National Accounts Statistics. On the new basis, growth in April-June 2025 was 6.9%.
 
-The next estimate, for July-September 2026, is scheduled for 30 November 2026. As of October 2026, the RBI projects real GDP growth of 7.2% for that quarter and 7.1% for 2026-27 as a whole.
+The next estimate, for July-September 2026, is scheduled for November 30, 2026. As of October 2026, the RBI projects real GDP growth of 7.2% for that quarter and 7.1% for 2026-27 as a whole.

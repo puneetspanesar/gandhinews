@@ -10,7 +10,7 @@ standfirst: "Freight groups led by Canacar say they will protest on the move wit
 published: 2026-10-24T17:20:00+05:30
 location: Mexico City
 keyPoints:
-  - "Cargo transport groups plan an **indefinite stoppage** from Monday, 26 October."
+  - "Cargo transport groups plan an **indefinite stoppage** from Monday, October 26."
   - "They want action on **highway robbery and extortion**, bad roads and a cut to a toll tax credit."
   - "Organisers say about **10 lakh trucks** could join, a figure no one has independently checked."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "'We want Mexico to listen'"
 related: [sheinbaum-says-usmca-talks-continue-no-deal-yet]
 seo:
-  description: "Mexican freight groups led by Canacar plan an indefinite truckers' strike from 26 October over highway robbery, roads and a cut to a toll tax credit in the 2027 revenue law."
+  description: "Mexican freight groups led by Canacar plan an indefinite truckers' strike from October 26 over highway robbery, roads and a cut to a toll tax credit in the 2027 revenue law."
 sources:
   - title: "Mexico Trucker Strike Set for Monday"
     publisher: "The Rio Times"
@@ -35,8 +35,8 @@ verification:
     - "Single source (Rio Times roundup of Mexican outlets: N+, La Razón, Semanario Zeta). Start time given variously as 6 or 8 am; not stated."
     - "Toll credit ceiling: 300 million to 250 million pesos (US$16.1m to US$13.4m) in the 2027 revenue law. Borrego Adame floated about 400 million then withdrew."
     - "Truck numbers: organisers about 1 million; Semanario Zeta about 1.2 million. Copy gives organisers' figure as 10 lakh."
-    - "Canacar quote translated from Spanish by the Rio Times: 'We do not want to stop Mexico, we want Mexico to listen to us'. Segob statement 23 Oct, phrase 'recognises the drivers' concerns'."
-    - "Senate debate could start Tuesday 27 Oct per Senate president Higinio Martinez."
+    - "Canacar quote translated from Spanish by the Rio Times: 'We do not want to stop Mexico, we want Mexico to listen to us'. Segob statement Oct 23, phrase 'recognises the drivers' concerns'."
+    - "Senate debate could start Tuesday, Oct 27 per Senate president Higinio Martinez."
 ---
 
 Mexico's freight truckers plan to begin an indefinite strike on Monday, saying years of highway robbery, extortion and crumbling roads have pushed them to the limit, and that a tax change in next year's budget is the last straw.

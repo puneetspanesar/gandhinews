@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Catch-up: results released Friday 23 Oct (PTI 4:45 pm), not yet on site. Figures and quotes from PTI copy of the company statement; Business Standard headline (page not read) agrees on 142% and ₹7,019 crore."
+    - "Catch-up: results released Friday, Oct 23 (PTI 4:45 pm), not yet on site. Figures and quotes from PTI copy of the company statement; Business Standard headline (page not read) agrees on 142% and ₹7,019 crore."
     - "PTI gives pre-tax profit ₹4,369.51 crore, below the net profit; likely a tax credit or a different line item. Left out of copy because unexplained."
     - "Khyalia's first quote is truncated in the source, so only complete quotes used."
 ---

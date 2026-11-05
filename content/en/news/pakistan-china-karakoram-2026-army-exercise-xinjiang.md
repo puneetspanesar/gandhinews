@@ -21,7 +21,7 @@ hero:
     value: "High-altitude drills, Chinese soil"
 related: [pakistan-kp-governors-rule-follow-up, pakistan-says-it-foiled-kurram-infiltration-from-afghanistan, china-rejects-india-ladakh-28-place-names-mea-responds]
 seo:
-  description: "Pakistani and Chinese troops began the Karakoram 2026 exercise in Korla, Xinjiang, on 14 October, practising high-altitude counter-terrorism operations."
+  description: "Pakistani and Chinese troops began the Karakoram 2026 exercise in Korla, Xinjiang, on October 14, practising high-altitude counter-terrorism operations."
 sources:
   - title: "Pakistani, Chinese armies begin joint training exercise in Xinjiang"
     publisher: "Dawn"
@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (Dawn, citing Xinhua and China Military Bugle). 'Wednesday' start date read as 14 Oct. End date, troop numbers not reported."
+    - "Single source (Dawn, citing Xinhua and China Military Bugle). 'Wednesday' start date read as Oct 14. End date, troop numbers not reported."
 ---
 
 Pakistani and Chinese troops began a joint exercise in China's Xinjiang region on Wednesday, training for counter-terrorism operations in high mountains.

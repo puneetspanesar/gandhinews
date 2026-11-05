@@ -21,7 +21,7 @@ hero:
     value: "Flats on land freed from Atiq Ahmed"
 related: [up-yogi-releases-493-crore-crop-loss-relief-farmers, five-states-head-for-2027-assembly-polls]
 seo:
-  description: "Yogi Adityanath visits Prayagraj on 15 October to lay the foundation of the Padmalok housing scheme on land freed from Atiq Ahmed and give keys to 556 PMAY families."
+  description: "Yogi Adityanath visits Prayagraj on October 15 to lay the foundation of the Padmalok housing scheme on land freed from Atiq Ahmed and give keys to 556 PMAY families."
 sources:
   - title: "प्रयागराज में CM योगी का बड़ा कार्यक्रम, 76 फ्लैटों की आवासीय योजना का भूमि पूजन और 556 परिवारों को मिलेगी चाबी"
     publisher: "News Nation"
@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (News Nation Hindi, 10:12 pm IST 14 Oct), citing PDA secretary Vineet Kumar Singh. Schedule described as proposed; minute-by-minute programme not released, so timings kept loose."
+    - "Single source (News Nation Hindi, 10:12 pm IST Oct 14), citing PDA secretary Vineet Kumar Singh. Schedule described as proposed; minute-by-minute programme not released, so timings kept loose."
     - "Project cost and implementing agency for Padmalok not given; left out."
     - "MLC election constituency not named in source; written generally."
 ---
@@ -42,6 +42,6 @@ He will perform the bhoomi pujan for the Padmalok residential scheme at Kasari-M
 
 Prayagraj Development Authority secretary Vineet Kumar Singh said more than 2,000 people had registered for the Pipalgaon flats, and the beneficiaries were chosen by lottery in April 2025.
 
-Land taken back from Atiq has been turned over to housing for the poor before. On 26 December 2021, Adityanath laid the foundation for 76 PMAY flats in Lukerganj on 1,731 square metres of land reclaimed from him. Atiq was elected MLA from Allahabad West five times in a row, and the area was long seen as his stronghold.
+Land taken back from Atiq has been turned over to housing for the poor before. On December 26, 2021, Adityanath laid the foundation for 76 PMAY flats in Lukerganj on 1,731 square metres of land reclaimed from him. Atiq was elected MLA from Allahabad West five times in a row, and the area was long seen as his stronghold.
 
 The Chief Minister is expected to land at the Police Lines helipad around noon. The proposed programme includes unveiling a statue of Mahashay Masooriyadin at Teliyarganj crossing, an address at the Printing Technology campus and a BJP voters' convention at the Government Press campus ahead of the Legislative Council elections, before the housing events at Kasari-Masari and Airavat crossing. District Magistrate Manish Kumar Verma held a late-night meeting with officials on Wednesday to prepare for the visit, which is expected to last three and a half to four and a half hours.

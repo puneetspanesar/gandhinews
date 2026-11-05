@@ -8,7 +8,7 @@ topics: [supreme-court, economy]
 title: "AT-1 bonds explained: what the Supreme Court's YES Bank ruling means for investors"
 standfirst: "On Thursday the Supreme Court refused to restore the 2020 write-off of ₹8,415 crore of YES Bank's AT-1 bonds, and the bank's shares fell as much as 20%. What these bonds are, why they were wiped out, and who gains or loses now."
 published: 2026-10-16T06:40:00+05:30
-shortAnswer: "Additional Tier-1 (AT-1) bonds are perpetual bonds that count towards a bank's core capital and are designed to absorb losses, so they can be written down if the bank gets into trouble. YES Bank wrote off ₹8,415 crore of them during its 2020 rescue, but the Bombay High Court ruled in January 2023 that the administrator had no power to do so at that stage, and on 15 October 2026 the Supreme Court dismissed the appeals against that ruling. Bondholders' claims are revived, while the bank, whose capital ratio could take a hit, is yet to say how it will settle them."
+shortAnswer: "Additional Tier-1 (AT-1) bonds are perpetual bonds that count towards a bank's core capital and are designed to absorb losses, so they can be written down if the bank gets into trouble. YES Bank wrote off ₹8,415 crore of them during its 2020 rescue, but the Bombay High Court ruled in January 2023 that the administrator had no power to do so at that stage, and on October 15, 2026, the Supreme Court dismissed the appeals against that ruling. Bondholders' claims are revived, while the bank, whose capital ratio could take a hit, is yet to say how it will settle them."
 hero:
   need: "Bombay High Court building in Mumbai, where the AT-1 write-off was first quashed"
   suggested_source: "Bombay High Court building Mumbai"
@@ -47,11 +47,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "High Court reasoning (bench S V Gangapurwala CJ and S M Modak J, 20 January 2023; final scheme notified 13 March 2020 dropped the draft's write-off clause; write-down communicated 14 March 2020, after reconstitution; Information Memorandum tied to RBI master circular treated as enforceable) from the SCC Online report, not the judgment itself."
-    - "Supreme Court bench (Justices Dipankar Datta and Augustine George Masih), dismissal of appeals by YES Bank, RBI and Centre, share move and CRISIL CET1 estimate are from the desk's 15 October news story and its sources. The 2026 judgment text was not read; how the court dealt with each argument is not described."
+    - "High Court reasoning (bench S V Gangapurwala CJ and S M Modak J, January 20, 2023; final scheme notified March 13, 2020, dropped the draft's write-off clause; write-down communicated March 14, 2020, after reconstitution; Information Memorandum tied to RBI master circular treated as enforceable) from the SCC Online report, not the judgment itself."
+    - "Supreme Court bench (Justices Dipankar Datta and Augustine George Masih), dismissal of appeals by YES Bank, RBI and Centre, share move and CRISIL CET1 estimate are from the desk's October 15 news story and its sources. The 2026 judgment text was not read; how the court dealt with each argument is not described."
     - "SEBI October 2020 rule (₹1 crore minimum allotment and trading lot, qualified institutional buyers only) from Business Standard's report of the circular; circular not opened."
     - "SEBI penalties for mis-selling stated generally (bank and former officials) from the Wikipedia summary; amounts not given."
-    - "How repayment, accrued interest or any conversion will be handled is not known; the copy says so. YES Bank results are due 17 October."
+    - "How repayment, accrued interest or any conversion will be handled is not known; the copy says so. YES Bank results are due October 17."
     - "₹5 lakh deposit insurance (DICGC) in the compare block is standard; no 2026 document opened."
     - "General description of AT-1 features (perpetual, discretionary non-cumulative coupons, loss absorption, higher yield) is standard Basel III design as summarised in the Wikipedia article and SEBI's reasons; no specific RBI trigger level is stated."
 ---
@@ -74,17 +74,17 @@ For years many buyers treated bank AT-1 bonds as safe, high-yield instruments. T
 
 **The bonds were written down to zero as part of the bank's rescue.**
 
-In March 2020 the RBI placed YES Bank under a moratorium and replaced its board with an administrator. A rescue plan, backed by State Bank of India and other lenders, followed. The draft of that plan included writing off the AT-1 bonds. The final YES Bank Reconstruction Scheme, notified by the Centre on 13 March 2020, did not.
+In March 2020 the RBI placed YES Bank under a moratorium and replaced its board with an administrator. A rescue plan, backed by State Bank of India and other lenders, followed. The draft of that plan included writing off the AT-1 bonds. The final YES Bank Reconstruction Scheme, notified by the Centre on March 13, 2020, did not.
 
-The next day, 14 March, the administrator told the stock exchanges that the bonds had been written off in full. Shareholders, whose stake ranks below bondholders in the usual order of losses, kept their shares, though they were locked in for three years.
+The next day, March 14, the administrator told the stock exchanges that the bonds had been written off in full. Shareholders, whose stake ranks below bondholders in the usual order of losses, kept their shares, though they were locked in for three years.
 
 ## Why did the courts undo it?
 
 **Because the Bombay High Court found that the administrator had acted without the power to do so.**
 
-In January 2023 a bench of Chief Justice S V Gangapurwala and Justice S M Modak held that the terms of the bonds allowed a write-down only before the bank was reconstituted. By 14 March the bank had already been reconstituted under the final scheme, which had dropped the write-off clause. The administrator was in office for a few more days only to hand over to the new board, and could not take such a decision.
+In January 2023 a bench of Chief Justice S V Gangapurwala and Justice S M Modak held that the terms of the bonds allowed a write-down only before the bank was reconstituted. By March 14 the bank had already been reconstituted under the final scheme, which had dropped the write-off clause. The administrator was in office for a few more days only to hand over to the new board, and could not take such a decision.
 
-The Supreme Court stayed that judgment in March 2023 while it heard appeals by YES Bank, the RBI and the Centre. On 15 October 2026 a bench of Justices Dipankar Datta and Augustine George Masih dismissed those appeals, leaving the High Court's ruling in place.
+The Supreme Court stayed that judgment in March 2023 while it heard appeals by YES Bank, the RBI and the Centre. On October 15, 2026, a bench of Justices Dipankar Datta and Augustine George Masih dismissed those appeals, leaving the High Court's ruling in place.
 
 ```compare
 {"title":"AT-1 bonds against other ways of lending to a bank","columns":["Fixed deposit","Ordinary bank bond","AT-1 bond"],"rows":[{"icon":"clock","label":"Repayment date","cells":["Fixed","Fixed","None; perpetual"]},{"icon":"percent","label":"Interest","cells":["Contractual","Contractual","Can be skipped, not owed later"]},{"icon":"warning","label":"In a crisis","cells":["Insured up to ₹5 lakh","Paid before shareholders","Can be written down or converted"]},{"icon":"users","label":"Who can buy new issues","cells":["Anyone","Depends on issue","Institutions only, ₹1 crore minimum"]}]}
@@ -92,7 +92,7 @@ The Supreme Court stayed that judgment in March 2023 while it heard appeals by Y
 
 ## What does the ruling mean for bondholders?
 
-**Their claim of ₹8,415 crore is alive again.** What they will actually receive, and when, is not yet clear. The bank has not said whether it will repay the principal, pay interest for the years since 2020, or propose some other settlement. It reports its July to September results on 17 October, when investors expect a first answer.
+**Their claim of ₹8,415 crore is alive again.** What they will actually receive, and when, is not yet clear. The bank has not said whether it will repay the principal, pay interest for the years since 2020, or propose some other settlement. It reports its July to September results on October 17, when investors expect a first answer.
 
 ## And for YES Bank's shareholders?
 

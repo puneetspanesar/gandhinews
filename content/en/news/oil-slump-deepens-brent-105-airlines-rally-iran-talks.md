@@ -22,7 +22,7 @@ hero:
     value: "Brent down over 6%, near $105"
 related: [oil-falls-4-per-cent-brent-108-iran-draft-proposal-qatar, wall-street-opens-higher-dow-403-oil-slides-midterms-eve, oil-slips-monday-brent-111-iran-qatar-talks-november-2, sensex-nifty-close-november-2]
 seo:
-  description: "Oil prices on 2 November 2026: Brent falls more than 6% to near $105 and WTI below $97 on US-Iran diplomacy hopes; United, American, Delta and JetBlue shares rally."
+  description: "Oil prices on November 2, 2026: Brent falls more than 6% to near $105 and WTI below $97 on US-Iran diplomacy hopes; United, American, Delta and JetBlue shares rally."
 cover:
   template: business
   label: "Oil slide"
@@ -58,7 +58,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov about 21:12 IST (10:42 am ET), Brent down more than 6% at around $105 (StockTitan live update citing CNBC at 10:42 am ET; Yahoo Finance 'near $105'). New development on oil-falls-4-per-cent-brent-108 (19:55 IST, Brent $108.64, -4.2%)."
+    - "event: Nov 2 about 21:12 IST (10:42 am ET), Brent down more than 6% at around $105 (StockTitan live update citing CNBC at 10:42 am ET; Yahoo Finance 'near $105'). New development on oil-falls-4-per-cent-brent-108 (19:55 IST, Brent $108.64, -4.2%)."
     - "WTI: Yahoo Finance December contract quote 96.45, -7.37% (untimed); 24/7 Wall St (10:51 am ET) $97.05, 'nearly 7%'. Written as 'below $97, about 7%'."
     - "Indices at 10:42 am ET (S&P +1%, Nasdaq +1.3%, Dow +1.1%) and ISM 55.5 vs 54.5 poll: StockTitan citing CNBC. ISM released 10:00 am ET (20:30 IST), context only. Yahoo has the forecast as 54.6 and September as 54.5; used 'beat forecasts' without a forecast number."
     - "Airline moves at 11:02 am ET (United +6.91%, American +6.07%, Delta +4.67%): StockTitan. JetBlue about 11% and Isom quote, American Q3 fuel bill $4.63 bn up 67.5%: 24/7 Wall St (Isom quote from American's Q3 results in October; exact date not given)."

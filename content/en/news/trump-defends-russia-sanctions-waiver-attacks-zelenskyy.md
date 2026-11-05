@@ -45,7 +45,7 @@ US President Donald Trump has defended his decision to waive a raft of Russia sa
 
 In a post on Truth Social, Trump said he was negotiating peace and did not want to drive Moscow "foolishly" away "from the bargaining table". He pointed to Ukraine's drone strikes on Russian diesel refineries, which he said were hurting global diesel markets.
 
-The waivers, announced on Friday, followed Trump's 9 October announcement that Russia would supply more than 300,000 tonnes of diesel to US and world markets. Fuel prices have spiked since the US and Israel went to war with Iran in late February and Iran effectively closed the Strait of Hormuz.
+The waivers, announced on Friday, followed Trump's October 9 announcement that Russia would supply more than 300,000 tonnes of diesel to US and world markets. Fuel prices have spiked since the US and Israel went to war with Iran in late February and Iran effectively closed the Strait of Hormuz.
 
 Zelenskyy hit back on NBC's Meet the Press, saying the waiver "will hurt Ukraine" and would strengthen Vladimir Putin's war effort. Waiving sanctions, he said, would be a "historic mistake" for Washington, and Putin remained the aggressor.
 
@@ -53,4 +53,4 @@ He also said he had spoken to US envoys Steve Witkoff and Jared Kushner about th
 
 Ukraine's European partners and many US officials have criticised the waiver as a reward for Moscow while the war goes on.
 
-The row comes as both sides escalate attacks on energy targets. Ukraine launched more than 1,000 drones at Russia over the weekend, hitting St Petersburg, while Zelenskyy said Russia had attacked Ukraine's energy, oil and gas sectors 76 times in the week after Trump announced an "energy ceasefire" on 11 October.
+The row comes as both sides escalate attacks on energy targets. Ukraine launched more than 1,000 drones at Russia over the weekend, hitting St Petersburg, while Zelenskyy said Russia had attacked Ukraine's energy, oil and gas sectors 76 times in the week after Trump announced an "energy ceasefire" on October 11.

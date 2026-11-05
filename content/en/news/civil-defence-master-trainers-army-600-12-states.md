@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single primary source: MHA release on PIB, posted 23 Oct 2026, 3:12 pm IST. No quotes from officials in the release, so none used."
+    - "Single primary source: MHA release on PIB, posted Oct 23, 2026, 3:12 pm IST. No quotes from officials in the release, so none used."
     - "Names of the Army training establishments and the exact dates of the three-day courses were not given."
     - "hero.subjects is a generic drill image; no named person in the story."
 ---
@@ -45,7 +45,7 @@ The states and UTs in the first round are Jammu and Kashmir, Punjab, Rajasthan, 
 
 ## From the Red Fort to the training ground
 
-The programme follows Prime Minister Narendra Modi's Independence Day speech on 15 August, in which he called for a vibrant civil defence network with modern systems, technology and preparedness for new security challenges.
+The programme follows Prime Minister Narendra Modi's Independence Day speech on August 15, in which he called for a vibrant civil defence network with modern systems, technology and preparedness for new security challenges.
 
 It is being run by the Directorate General of Fire Services, Civil Defence and Home Guards, which sits in the Home Ministry, together with the Army. The ministry described it as a first-of-its-kind pilot that brings the Army's operational experience to a volunteer network.
 

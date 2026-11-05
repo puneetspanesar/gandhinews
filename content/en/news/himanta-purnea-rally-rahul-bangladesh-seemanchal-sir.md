@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 4 Nov afternoon IST, Purnea rally; IANS story timestamped 15:48, published 4:03 pm IST."
+    - "event: Nov 4 afternoon IST, Purnea rally; IANS story timestamped 15:48, published 4:03 pm IST."
     - "Single source, read via summary. Source mostly paraphrases; only short quoted fragments used ('could perhaps win an election', 'stealing hearts'). No Congress response in source; none claimed. Samrat Choudhary as Bihar CM and Suvendu Adhikari as Bengal CM as stated in source."
 infographic:
   kicker: Loktantra Bachao rally, Purnea
@@ -51,7 +51,7 @@ infographic:
     label: Seemanchal, Assam and Bengal, where he wants a fresh SIR
   timeline:
     - {date: "This week", text: "Campaign starts in Bhagalpur", icon: flag}
-    - {date: "4 Nov", text: "Sarma speaks at Purnea rally", icon: map-pin}
+    - {date: "Nov 4", text: "Sarma speaks at Purnea rally", icon: map-pin}
     - {date: "Demand", text: "Fresh SIR in Seemanchal, Assam, Bengal", icon: flag-banner}
   source: Purnea rally, November 4, 2026
 ---

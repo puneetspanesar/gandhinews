@@ -22,7 +22,7 @@ hero:
     value: "800 metres across Vembanad"
 related: [keralam-satheesan-balagopal-clash-over-pay-revision-arrears]
 seo:
-  description: "Keralam CM V D Satheesan on 18 October opened an 800-metre bridge across Vembanad Lake linking Alappuzha and Kottayam, and announced Aroor as a blue economy hub."
+  description: "Keralam CM V D Satheesan on October 18 opened an 800-metre bridge across Vembanad Lake linking Alappuzha and Kottayam, and announced Aroor as a blue economy hub."
 sources:
   - title: "CM Satheesan announces blue economy hub in Keralam's Aroor, inaugurates bridge (PTI)"
     publisher: "ThePrint"

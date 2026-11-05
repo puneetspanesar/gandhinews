@@ -22,7 +22,7 @@ hero:
     value: "Taj talks, trade deal in sight"
 related: [jaishankar-rubio-talks-mumbai-october-20-mea, diplomatic-week-uae-abdullah-bin-zayed-mumbai-rubio-rajnath-dushanbe, trump-waives-russia-sanctions-law-india-tariff-threat, us-suspends-indian-it-firms-green-card-sponsorship]
 seo:
-  description: "US Secretary of State Marco Rubio arrived in Mumbai on 20 October for talks with S Jaishankar on trade, energy and defence, saying a trade deal is very close."
+  description: "US Secretary of State Marco Rubio arrived in Mumbai on October 20 for talks with S Jaishankar on trade, energy and defence, saying a trade deal is very close."
 sources:
   - title: "Rubio begins India visit, to hold crucial talks with Jaishankar in Mumbai (PTI)"
     publisher: "Business Standard"
@@ -68,7 +68,7 @@ Rubio was due to land at Chhatrapati Shivaji Maharaj International Airport at 2:
 
 ## Wreath first, then talks at the Taj
 
-His first stop is the Taj Memorial at the Taj Mahal Palace hotel, where at 3:40 pm he lays a wreath for the victims of the 26 November 2008 attacks, which killed more than 160 people, six of them American. The talks with Jaishankar follow at the same venue.
+His first stop is the Taj Memorial at the Taj Mahal Palace hotel, where at 3:40 pm he lays a wreath for the victims of the November 26, 2008, attacks, which killed more than 160 people, six of them American. The talks with Jaishankar follow at the same venue.
 
 In the evening he attends the "Freedom 250" reception at the Jio World Convention Centre to mark the 250th anniversary of American independence, where Jaishankar is guest of honour. A meeting with Maharashtra Chief Minister Devendra Fadnavis is also expected. On Wednesday Rubio flies to Jamnagar in Gujarat, home to Reliance Industries' refinery complex, for talks the US State Department says will cover "enhanced energy cooperation". A large business delegation is travelling with him.
 

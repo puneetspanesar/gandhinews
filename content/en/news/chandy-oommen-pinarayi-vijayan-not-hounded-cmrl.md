@@ -22,7 +22,7 @@ hero:
     value: "'No grudges, but due process'"
 related: [pinarayi-vijayan-supreme-court-cmrl-fir-vacation-listing, keralam-high-court-refuses-stay-vigilance-fir-pinarayi-vijayan]
 seo:
-  description: "Congress MLA Chandy Oommen said on 18 October that Pinarayi Vijayan should not be hounded like his father Oommen Chandy, and called for due process in the CMRL case."
+  description: "Congress MLA Chandy Oommen said on October 18 that Pinarayi Vijayan should not be hounded like his father Oommen Chandy, and called for due process in the CMRL case."
 sources:
   - title: "Chandy Oommen says he does not want Pinarayi Vijayan 'hounded' like his father (PTI)"
     publisher: "ThePrint"

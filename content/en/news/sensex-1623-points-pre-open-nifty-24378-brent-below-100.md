@@ -30,7 +30,7 @@ cover:
     - {icon: trend-up, value: "24,378", label: "Nifty 50 in pre-open, up 417 points"}
     - {icon: currency-inr, value: "94.36", label: "rupee against the dollar, up 29 paise"}
 infographic:
-  kicker: "Pre-open, 5 November"
+  kicker: "Pre-open, November 5"
   headline: "Sensex up 1,623 points before the bell"
   dek: "Crude below $100 and the US midterm result lift buyers"
   motif: chart-line-up
@@ -38,10 +38,10 @@ infographic:
     - {icon: trend-up, value: "+1,623", label: "Sensex points in pre-open, to 78,925"}
     - {icon: trend-up, value: "+417", label: "Nifty 50 points in pre-open, to 24,378"}
     - {icon: currency-inr, value: "94.36", label: "rupee per dollar, from 94.65 on Wednesday"}
-  source: "BSE and NSE pre-open data, 5 November 2026"
+  source: "BSE and NSE pre-open data, November 5, 2026"
 related: [gift-nifty-gap-up-kospi-circuit-breaker-chips-november-5, sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4, wall-street-dow-1569-best-day-since-april-2025-democrats-congress-oil]
 seo:
-  description: "Stock market today, 5 November 2026: Sensex rises 1,623 points to 78,925 and Nifty 50 417 points to 24,378 in pre-open trade as Brent crude falls below $100 and the rupee gains 29 paise."
+  description: "Stock market today, November 5, 2026: Sensex rises 1,623 points to 78,925 and Nifty 50 417 points to 24,378 in pre-open trade as Brent crude falls below $100 and the rupee gains 29 paise."
 sources:
   - title: "Stock Market LIVE: Sensex surges 1,600 pts at pre-open, Nifty reclaims 24,400; Brent below $100"
     publisher: "Business Standard"
@@ -56,7 +56,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 5 Nov 09:09-09:10 IST, pre-open session (Business Standard live blog entries 9:09 Sensex +1,623 / 2.10% to 78,925; 9:10 Nifty 24,378 +417 / 1.74%)."
+    - "event: Nov 5 09:09-09:10 IST, pre-open session (Business Standard live blog entries 9:09 Sensex +1,623 / 2.10% to 78,925; 9:10 Nifty 24,378 +417 / 1.74%)."
     - "Previous closes from Trade Brains (Sensex 77,301.40, Nifty 23,960.60) are consistent with the pre-open changes. 9:15 opening print not yet available in either source, so the story is framed on pre-open figures only."
     - "Rupee 94.36 vs 94.65 (BS 9:01, citing Bloomberg). Brent below $100 after 8% fall, January futures $93 down 1.04% (BS 8:25). Kospi -3.6%, Nikkei -0.39% (BS 8:15). US close Dow +3.03%, S&P +1.58%, Nasdaq +1.44% (BS 8:04). Gold and silver futures +1.7% and +1.9% (BS). Bombay Coated & Special Steels listing (BS). No named analyst quotes found, so none used."
 ---

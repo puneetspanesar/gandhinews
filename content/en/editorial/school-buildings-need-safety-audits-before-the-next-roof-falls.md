@@ -46,8 +46,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Peshawar facts (29 dead including 28 students aged 7-16 and a teacher, Al-Khair School, Afridi Abad, CCPO quote, Governor Kundi's audit order, earlier 2026 collapses in Lahore, Dera Ghazi Khan and Umerkot) from the desk's 15 October story and Dawn."
-    - "Jhalawar facts (25 July 2025, Piplodi government school, 7 children killed, 27 injured, Classes 6 and 7, warnings to tehsildar and SDM ignored per villagers, school not on the education department's unsafe list per Collector Ajay Singh, five staff suspended, CM Bhajanlal Sharma quote) from Onmanorama. Injured count differs (27 Onmanorama, 28 Scroll/Deccan Herald headlines); copy avoids the injured figure."
+    - "Editorial view of the desk. Peshawar facts (29 dead including 28 students aged 7-16 and a teacher, Al-Khair School, Afridi Abad, CCPO quote, Governor Kundi's audit order, earlier 2026 collapses in Lahore, Dera Ghazi Khan and Umerkot) from the desk's October 15 story and Dawn."
+    - "Jhalawar facts (July 25, 2025, Piplodi government school, 7 children killed, 27 injured, Classes 6 and 7, warnings to tehsildar and SDM ignored per villagers, school not on the education department's unsafe list per Collector Ajay Singh, five staff suspended, CM Bhajanlal Sharma quote) from Onmanorama. Injured count differs (27 Onmanorama, 28 Scroll/Deccan Herald headlines); copy avoids the injured figure."
     - "Search results only for Deccan Herald and Scroll; their pages were not opened. Seven deaths agreed across all three."
     - "No claim made about whether Rajasthan completed a statewide audit after Jhalawar; not checked in this run."
     - "Recommendations are the desk's own."
@@ -59,7 +59,7 @@ It is tempting to treat this as a Pakistani tragedy. It is also a reminder of ou
 
 ## Jhalawar, fifteen months on
 
-On 25 July 2025, shortly after morning prayers, part of the government school building at Piplodi in Rajasthan's Jhalawar district collapsed on pupils of Classes 6 and 7. Seven children died, the youngest aged six. Villagers said they had warned the tehsildar and the sub-divisional magistrate about the building, about water seeping into its walls and branches growing through them. The district collector said the school had not been on the education department's list of unsafe buildings.
+On July 25, 2025, shortly after morning prayers, part of the government school building at Piplodi in Rajasthan's Jhalawar district collapsed on pupils of Classes 6 and 7. Seven children died, the youngest aged six. Villagers said they had warned the tehsildar and the sub-divisional magistrate about the building, about water seeping into its walls and branches growing through them. The district collector said the school had not been on the education department's list of unsafe buildings.
 
 The responses followed a pattern that the authorities in Peshawar are now repeating. Five staff were suspended. A high-level inquiry was ordered. Chief Minister Bhajanlal Sharma said instructions had been issued "to identify and address structural issues in schools immediately". In Khyber Pakhtunkhwa, Governor Faisal Karim Kundi has ordered a structural audit of every school.
 
@@ -86,5 +86,5 @@ Finally, private schools should not escape scrutiny. The Peshawar school was pri
 Children are sent to school because it is supposed to be the safest place outside home. The least the state owes them is a roof someone has checked.
 
 ```facts
-{"title":"The reporting behind this view","items":[{"value":"28","label":"children killed when the Al-Khair School roof fell in Peshawar on 15 October 2026"},{"value":"7","label":"children killed in the Piplodi school collapse, Jhalawar, on 25 July 2025"},{"value":"5","label":"staff suspended at Piplodi, where villagers said earlier warnings were ignored"}]}
+{"title":"The reporting behind this view","items":[{"value":"28","label":"children killed when the Al-Khair School roof fell in Peshawar on October 15, 2026"},{"value":"7","label":"children killed in the Piplodi school collapse, Jhalawar, on July 25, 2025"},{"value":"5","label":"staff suspended at Piplodi, where villagers said earlier warnings were ignored"}]}
 ```

@@ -111,20 +111,20 @@ sources:
 verification:
   status: approved
   notes:
-    - "Update 3:50 am IST 13 Oct: rewritten around Monday's developments. Zelenskyy Warsaw Security Forum quotes match AP (PBS) and Kyiv Independent. Peskov 'Contacts are ongoing' and 'specifically on election day' from AP (PBS)."
+    - "Update 3:50 am IST Oct 13: rewritten around Monday's developments. Zelenskyy Warsaw Security Forum quotes match AP (PBS) and Kyiv Independent. Peskov 'Contacts are ongoing' and 'specifically on election day' from AP (PBS)."
     - "US threat to cut intelligence sharing and PURL rests on two anonymous Ukrainian officials via the Kyiv Independent only; no US comment. Attributed to 'two Ukrainian officials', no quotes used."
     - "Kyiv toll: Kyiv Independent (city authorities) says one woman killed, at least 14 injured in two attacks (11 in evening, 3 in daytime). AP (PBS) earlier reported two injured in daytime strikes. Kyiv Independent's later figures used."
     - "Air force overnight figure: 121 drones and missiles, 89 downed (AP via PBS). AP's breakdown (one Kh-59, 76 Shaheds) does not add up to 121, so not used."
     - "Earlier version said EU ministers met 'in Brussels'; Hungary's foreign minister spoke ahead of a foreign ministers' meeting in Luxembourg (Kyiv Independent). Location dropped."
-    - "Update 3 pm IST 12 Oct: still no Kremlin confirmation of the energy truce found (Outlook 9:43 am IST and AP/NPR say Moscow had not confirmed). Peskov's Monday remarks on Zelenskyy were made to RIA Novosti per Focus.ua; the RIA/RBC originals were not opened. English wording is the Kyiv Post translation; Focus.ua's Russian text matches ('Пока что он этого не делает'). iz.ru and mail.ru versions failed to load."
-    - "Fontanka (citing Axios) says a White House official described the truce as a possible deal starting with refineries and said 'the Russians are thinking about it', and that Witkoff and Kushner postponed a trip to Russia. Not found in the Axios article itself (last modified 15:39 UTC 11 Oct); not used."
-    - "The Week (12 Oct) quotes Peskov calling the energy truce a 'very good idea' but gives no date; Russian outlets date that remark to mid-September. Not used."
+    - "Update 3 pm IST Oct 12: still no Kremlin confirmation of the energy truce found (Outlook 9:43 am IST and AP/NPR say Moscow had not confirmed). Peskov's Monday remarks on Zelenskyy were made to RIA Novosti per Focus.ua; the RIA/RBC originals were not opened. English wording is the Kyiv Post translation; Focus.ua's Russian text matches ('Пока что он этого не делает'). iz.ru and mail.ru versions failed to load."
+    - "Fontanka (citing Axios) says a White House official described the truce as a possible deal starting with refineries and said 'the Russians are thinking about it', and that Witkoff and Kushner postponed a trip to Russia. Not found in the Axios article itself (last modified 15:39 UTC Oct 11); not used."
+    - "The Week (Oct 12) quotes Peskov calling the energy truce a 'very good idea' but gives no date; Russian outlets date that remark to mid-September. Not used."
     - "EU sanctions: Reuters brief via 93.3 The Drive; Kallas quote from her X post as carried there. 'Largest package yet' framing carried over from the 8 am version."
-    - "Overnight strikes on 11-12 Oct: Ukrinform headlines mention an energy facility in the Kharkiv suburbs hit late Sunday and Izium hit overnight; casualty figures could not be matched to a dated article, so not added."
-    - "No Kremlin reaction to Sunday's announcement was found as of about 8 am IST on 12 October (PBS/AP: Moscow did not immediately comment). Peskov's 8 October 'Achilles' heel' remark is from the Kyiv Independent (9 Oct)."
+    - "Overnight strikes on Oct 11-12: Ukrinform headlines mention an energy facility in the Kharkiv suburbs hit late Sunday and Izium hit overnight; casualty figures could not be matched to a dated article, so not added."
+    - "No Kremlin reaction to Sunday's announcement was found as of about 8 am IST on October 12 (PBS/AP: Moscow did not immediately comment). Peskov's October 8 'Achilles' heel' remark is from the Kyiv Independent (Oct 9)."
     - "Trump's post is quoted only in the two fragments Axios and CBS carried; the full Truth Social post was not opened."
-    - "Zaporizhzhia toll: AP on 10 Oct said at least 20 killed incl. three children; Zelenskyy later said 23 incl. four children (CBS, PBS 11 Oct). The story uses Zelenskyy's later figure, attributed."
-    - "Diesel volumes: AP (10 Oct) gives 300,000 tons now, 500,000 in November, 1 million after, and 3 million more later; CBS liveblog had 1 million in December. Story uses the first three, as AP and CBS agree on them."
+    - "Zaporizhzhia toll: AP on Oct 10 said at least 20 killed incl. three children; Zelenskyy later said 23 incl. four children (CBS, PBS Oct 11). The story uses Zelenskyy's later figure, attributed."
+    - "Diesel volumes: AP (Oct 10) gives 300,000 tons now, 500,000 in November, 1 million after, and 3 million more later; CBS liveblog had 1 million in December. Story uses the first three, as AP and CBS agree on them."
     - "ABC rush transcript may contain errors; quotes used match Euronews and PBS wording."
     - "The six senators' letter is from CBS/AP only; the letter itself was not opened."
     - "UK prime minister named as Andy Burnham in CBS copy; not used in the story."
@@ -154,8 +154,8 @@ On Sunday evening a drone attack on the village of Pisochyn near Kharkiv killed 
 
 ## A turbulent weekend
 
-Trump announced the truce on Truth Social on Sunday. "Effective immediately, there is an ENERGY CEASEFIRE in the War between Russia and Ukraine," he wrote. "Both parties have agreed. Do not break it!" A similar claim on 14 September was not followed by any pause.
+Trump announced the truce on Truth Social on Sunday. "Effective immediately, there is an ENERGY CEASEFIRE in the War between Russia and Ukraine," he wrote. "Both parties have agreed. Do not break it!" A similar claim on September 14 was not followed by any pause.
 
-It capped a week of friction with Kyiv. On Friday Trump announced a deal to buy Russian diesel to bring down US fuel prices before the 3 November midterms, which Zelenskyy called a gift to Putin. On Saturday Trump blamed Zelenskyy for high diesel prices and said: "I suggest they get a new leader who can make a deal." Six senators, four of them Republicans, have urged the administration to reverse the diesel deal.
+It capped a week of friction with Kyiv. On Friday Trump announced a deal to buy Russian diesel to bring down US fuel prices before the November 3 midterms, which Zelenskyy called a gift to Putin. On Saturday Trump blamed Zelenskyy for high diesel prices and said: "I suggest they get a new leader who can make a deal." Six senators, four of them Republicans, have urged the administration to reverse the diesel deal.
 
 Zelenskyy has said elections cannot be held in wartime, but offered to organise them if Putin agreed to a full 60-day ceasefire. Peskov said on Monday that Putin would be ready to halt strikes "specifically on election day" if Ukraine held a vote. He also backed Trump's call for a new leader in Kyiv. "Either Zelensky takes on that responsibility and demonstrates that political will, or he does not," he said. "So far, he has not."

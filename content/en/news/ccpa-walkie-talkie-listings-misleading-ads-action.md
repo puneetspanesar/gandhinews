@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "All figures from AIR item (5:19 pm, 25 Oct) citing the Ministry of Consumer Affairs. PIB release PRID 2328200 listed on PIB home page but the release page itself could not be fetched (returned a different, cached release)."
+    - "All figures from AIR item (5:19 pm, Oct 25) citing the Ministry of Consumer Affairs. PIB release PRID 2328200 listed on PIB home page but the release page itself could not be fetched (returned a different, cached release)."
     - "The fined company and the platforms are not named in the source. Whether the ₹1 lakh order is counted within the 12 final orders is not stated; copy keeps them separate in wording ('so far')."
     - "No official quote available."
 ---

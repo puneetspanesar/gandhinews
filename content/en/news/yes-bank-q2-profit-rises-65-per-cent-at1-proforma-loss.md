@@ -51,7 +51,7 @@ verification:
     - "Pro forma Q2 loss: Business Today Rs 5,217 crore, Whalesbook Rs 5,213 crore; copy says 'about Rs 5,200 crore'. H1 pro forma loss Rs 4,146 crore, net worth Rs 53,268 crore to Rs 46,970 crore, ROA 0.9% to -4.3%, CET1 about 250 bp impact: Business Today only."
     - "GNPA 1.2% (Rs 3,875.23 crore), NNPA 0.2% (Rs 757.05 crore): Whalesbook only. Whalesbook gives CRAR 14.6%; Business Today says pro forma CRAR 14.5%. Copy uses the pro forma figure, attributed to the bank."
     - "Year-ago standalone Rs 654.47 crore (Business Today). Consolidated Rs 1,084.08 crore vs Rs 664.31 crore (Whalesbook). H1 standalone Rs 2,150.99 crore (Investywise, Rs 215,099 lakh)."
-    - "Brokerage average Rs 969 crore and provisional loans/deposits from site's 16 Oct preview. No named executive quoted in any source; the quote is from the bank's statement as reported by Business Today."
+    - "Brokerage average Rs 969 crore and provisional loans/deposits from site's Oct 16 preview. No named executive quoted in any source; the quote is from the bank's statement as reported by Business Today."
 ---
 
 YES Bank reported a 65% rise in quarterly profit on Saturday evening, comfortably ahead of forecasts, but told investors that the Supreme Court's ruling on its AT-1 bonds would wipe out those earnings and leave a large loss once it is booked.
@@ -62,7 +62,7 @@ The numbers beat expectations. An average of six brokerage estimates had put pro
 
 ## The bonds the results leave out
 
-The figures do not account for the Supreme Court's judgment of 15 October, which upheld the reversal of the bank's March 2020 decision to write off ₹8,415 crore of additional tier-1 (AT-1) bonds. The write-down was part of the bank's 2020 rescue.
+The figures do not account for the Supreme Court's judgment of October 15, which upheld the reversal of the bank's March 2020 decision to write off ₹8,415 crore of additional tier-1 (AT-1) bonds. The write-down was part of the bank's 2020 rescue.
 
 In its filing the bank said it was still assessing the judgment and consulting its legal advisers. "The statement does not reflect the resultant financial impact of the aforesaid judgement," it said.
 

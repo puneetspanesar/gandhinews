@@ -31,8 +31,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single detailed source (TechCrunch, 13 Oct), which cites the US Attorney's Office for the Northern District of California, an OpenAI spokesperson (Nate Evans), OpenAI's X post and FBI Director Kash Patel. No DOJ press release read directly."
-    - "Arrest and firing on 9 Oct; device found about a week before. Made public 13 Oct US time."
+    - "Single detailed source (TechCrunch, Oct 13), which cites the US Attorney's Office for the Northern District of California, an OpenAI spokesperson (Nate Evans), OpenAI's X post and FBI Director Kash Patel. No DOJ press release read directly."
+    - "Arrest and firing on Oct 9; device found about a week before. Made public Oct 13 US time."
     - "Charge described as using an electronic device to intercept oral communications; maximum five years per TechCrunch."
     - "Alfozan and his lawyer could not be reached by TechCrunch; no plea reported. Written as accused/charged throughout."
     - "Patel's 'SI' means superintelligence, per the context of his remarks."
@@ -42,7 +42,7 @@ A member of OpenAI's product team has been charged in the United States with sec
 
 Federal prosecutors named the employee as Abdulrahman Alfozan, a Saudi national who joined OpenAI in July 2025. He is charged with using an electronic device to intercept oral communications, which means recording people's conversations without their permission. The offence carries a sentence of up to five years in prison.
 
-OpenAI fired Alfozan and he was arrested on 9 October, about a week after the company found the device and alerted the FBI. The case was made public on Tuesday.
+OpenAI fired Alfozan and he was arrested on October 9, about a week after the company found the device and alerted the FBI. The case was made public on Tuesday.
 
 ## Behind the television
 

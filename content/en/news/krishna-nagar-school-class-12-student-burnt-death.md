@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: PTI via ETV Bharat, 2:58 pm IST 24 Oct. School and student not named; time of the PCR call not given. Gender of student not stated in source; copy avoids pronouns."
+    - "Single source: PTI via ETV Bharat, 2:58 pm IST Oct 24. School and student not named; time of the PCR call not given. Gender of student not stated in source; copy avoids pronouns."
     - "Police quote verbatim from the report; speaker not named, attributed to police."
     - "Nature of 'materials recovered' not specified; copy does not speculate on cause."
 ---

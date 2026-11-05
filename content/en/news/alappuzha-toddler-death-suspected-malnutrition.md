@@ -22,7 +22,7 @@ hero:
     value: "7.6 kg at age two"
 related: []
 seo:
-  description: "A two-year-old boy was found dead at home in Keralam's Alappuzha on 18 October in a suspected malnutrition case; police registered an unnatural death case."
+  description: "A two-year-old boy was found dead at home in Keralam's Alappuzha on October 18 in a suspected malnutrition case; police registered an unnatural death case."
 sources:
   - title: "Toddler dies in Keralam's Alappuzha in suspected case of malnutrition (PTI)"
     publisher: "ThePrint"

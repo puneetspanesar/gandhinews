@@ -45,7 +45,7 @@ verification:
     - "Score 118/5 in 7.4 overs, Kishan 30 (10), Dhir 24* (6), Iyer 22 (14), Samson 16 (7), Springer 2-17, Paul 2-34, Joseph 1-18: Sunday Guardian and Yardbarker agree (Yardbarker gives Paul 2-34 and Springer two wickets)."
     - "Abandonment 'around 10:16 pm IST, just before the five-over chase cut-off' and WI target of 85 from five overs: Yardbarker only; copy says West Indies were set to need 85 from five overs, hedged as revised target. Sunday Guardian says only that the cut-off time expired."
     - "Timeline (rain from about 6 pm, toss 9:01 pm, nine overs, 2.4-over powerplay, 9:15 pm start, latest five-over start 9:41 pm): Outlook live blog. 9:41 pm cut-off is for starting the match; the later cut-off for the chase not given, so not stated."
-    - "XIs and changes (Bhuvneshwar for Mayank Yadav, Dube for Nitish Kumar Reddy), Bhuvneshwar last T20I 22 Nov 2022 v NZ and 1,425 days: Outlook. This conflicts with an earlier Gandhi News story (2022 WC semi v England as last T20I), so the copy avoids naming his last match and says 'nearly four years'."
+    - "XIs and changes (Bhuvneshwar for Mayank Yadav, Dube for Nitish Kumar Reddy), Bhuvneshwar last T20I Nov 22, 2022, v NZ and 1,425 days: Outlook. This conflicts with an earlier Gandhi News story (2022 WC semi v England as last T20I), so the copy avoids naming his last match and says 'nearly four years'."
     - "Outlook lists Arshdeep in India's XI, despite earlier shoulder doubt; copy says he was named in the XI."
     - "Kishan scoop off Shepherd over the roof: Yardbarker only, hedged lightly. Abhishek out early: both sources, score not given consistently (Sunday Guardian 'for six' wording unclear), so no score."
     - "Player of the series and post-match quotes not found."
@@ -79,4 +79,4 @@ The result fits a series that swung back and forth and was dominated by the bat.
 
 It is the second time in four years that a T20I series decider at the Chinnaswamy has been lost to rain. In June 2022 the fifth match against South Africa was abandoned and that series was also shared 2-2.
 
-India have little time to dwell on it. Their five-match T20I series in New Zealand starts in Christchurch on 22 October.
+India have little time to dwell on it. Their five-match T20I series in New Zealand starts in Christchurch on October 22.

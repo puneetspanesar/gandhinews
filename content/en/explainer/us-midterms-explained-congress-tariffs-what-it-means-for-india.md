@@ -22,15 +22,15 @@ infographic:
   dek: "Indian goods face a 10% US duty under a law that needs no new vote"
   motif: flag-banner
   stats:
-    - {icon: percent, value: "10%", label: "US duty on Indian goods since 24 July 2026, under Section 301"}
+    - {icon: percent, value: "10%", label: "US duty on Indian goods since July 24, 2026, under Section 301"}
     - {icon: bank, value: "218", label: "seats needed to control the 435-member House"}
     - {icon: currency-dollar, value: "$42.79 bn", label: "Indian goods exports to the US, April to August 2026"}
   timeline:
     - {date: "Aug 2025", text: "Tariff on Indian goods doubled to 50%", icon: percent}
-    - {date: "20 Feb 2026", text: "US Supreme Court strikes down emergency tariffs", icon: gavel}
-    - {date: "24 Jul 2026", text: "Section 301 duty of 10% replaces stopgap", icon: factory}
-    - {date: "3 Nov 2026", text: "Midterms decide who holds Congress", icon: flag-banner}
-  source: "US Supreme Court; USTR; Jefferies; Chatham House; US fact sheet, 10 February 2026"
+    - {date: "Feb 20, 2026", text: "US Supreme Court strikes down emergency tariffs", icon: gavel}
+    - {date: "Jul 24, 2026", text: "Section 301 duty of 10% replaces stopgap", icon: factory}
+    - {date: "Nov 3, 2026", text: "Midterms decide who holds Congress", icon: flag-banner}
+  source: "US Supreme Court; USTR; Jefferies; Chatham House; US fact sheet, February 10, 2026"
 related: [us-midterms-2026-explained-what-is-at-stake, us-midterms-ossoff-holds-georgia-first-results, india-us-trade-talks-plateau-russia-oil-tariff-law, trump-waives-russia-sanctions-law-india-tariff-threat]
 seo:
   description: "US midterms 2026 and tariffs: can a Democratic House undo Trump's 10% Section 301 duty on India? Congress's tariff powers, the veto, the trade deal and H-1B explained."
@@ -73,16 +73,16 @@ sources:
 verification:
   status: approved
   notes:
-    - "Results: as of filing only the Ossoff call in Georgia is known (desk's 6:10 am story, thin sourcing). Copy avoids any projection of control. Pre-election splits 53-47 Senate, 218-214 House from the desk's 2 Nov explainer and 4 Nov story."
-    - "SCOTUS 20 Feb 2026, 6-3, IEEPA does not authorise tariffs; reasoning that taxing power lies with Congress: Outlook Business (reasoning) and JM Financial (6-3); date from ThePrint. Opinion not read."
-    - "Tariff path: 50% from 27 Aug 2025 (25% reciprocal plus 25% Russia oil penalty) per JM Financial; framework fact sheet 10 Feb 2026 (18%, extra 25% removed) and 18% never in force per the desk's 11 Oct story; Section 122 10% from 24 Feb, 150-day limit unless Congress extends, expired 24 July (JM Financial, ThePrint); Section 301 forced-labour duty 10% from 24 July, 12.5% draft, India's FTP amendment 14 June, 17 economies at 10% and 43 at 12.5% (Rural Voice, citing USTR and FIEO). Section 232 rates 50% steel/aluminium from desk's 11 Oct story (Business Today Feb 2026)."
-    - "JM Financial (23 July) says Section 301 action can last up to four years with renewal; stated as 'can stay for years'."
-    - "Jefferies 10-20% effective tariff view, 18 of 20 postwar midterms, Graham Act background: Business Today 10 Oct. Waiver order dated 16 Oct, President can lift it: desk's 17 Oct story."
-    - "Yoeli quote, veto point, trade deal needing legislation, H-1B $100,000 fee blocked 30 Sep by a California federal judge and appealed to Ninth Circuit, four Indian-American Democrats in safe seats, debt limit mid-2027: IANS via SocialNews.XYZ, 13 Oct."
-    - "Goyal 29 July quote and Sitharaman 'plateau'/'very, very difficult' (5 Oct) and export figures $42.79 bn vs $40.39 bn: from the desk's 11 Oct story (PTI, Reuters)."
-    - "India slowing talks until the midterms: Hindu BusinessLine report of 14 April, unnamed sources; hedged in copy."
-    - "Jeffries likely Speaker if Democrats win: Reuters explainer cited in the desk's 2 Nov explainer notes. Revenue bills originating in the House: standard constitutional rule."
-    - "New Congress sworn in on 3 January 2027 and veto override needing two-thirds of both chambers: standard US constitutional rules, not from a 2026 source."
+    - "Results: as of filing only the Ossoff call in Georgia is known (desk's 6:10 am story, thin sourcing). Copy avoids any projection of control. Pre-election splits 53-47 Senate, 218-214 House from the desk's Nov 2 explainer and Nov 4 story."
+    - "SCOTUS Feb 20, 2026, 6-3, IEEPA does not authorise tariffs; reasoning that taxing power lies with Congress: Outlook Business (reasoning) and JM Financial (6-3); date from ThePrint. Opinion not read."
+    - "Tariff path: 50% from Aug 27, 2025 (25% reciprocal plus 25% Russia oil penalty) per JM Financial; framework fact sheet Feb 10, 2026 (18%, extra 25% removed) and 18% never in force per the desk's Oct 11 story; Section 122 10% from Feb 24, 150-day limit unless Congress extends, expired July 24 (JM Financial, ThePrint); Section 301 forced-labour duty 10% from July 24, 12.5% draft, India's FTP amendment June 14, 17 economies at 10% and 43 at 12.5% (Rural Voice, citing USTR and FIEO). Section 232 rates 50% steel/aluminium from desk's Oct 11 story (Business Today Feb 2026)."
+    - "JM Financial (July 23) says Section 301 action can last up to four years with renewal; stated as 'can stay for years'."
+    - "Jefferies 10-20% effective tariff view, 18 of 20 postwar midterms, Graham Act background: Business Today Oct 10. Waiver order dated Oct 16, President can lift it: desk's Oct 17 story."
+    - "Yoeli quote, veto point, trade deal needing legislation, H-1B $100,000 fee blocked Sep 30 by a California federal judge and appealed to Ninth Circuit, four Indian-American Democrats in safe seats, debt limit mid-2027: IANS via SocialNews.XYZ, Oct 13."
+    - "Goyal July 29 quote and Sitharaman 'plateau'/'very, very difficult' (Oct 5) and export figures $42.79 bn vs $40.39 bn: from the desk's Oct 11 story (PTI, Reuters)."
+    - "India slowing talks until the midterms: Hindu BusinessLine report of April 14, unnamed sources; hedged in copy."
+    - "Jeffries likely Speaker if Democrats win: Reuters explainer cited in the desk's Nov 2 explainer notes. Revenue bills originating in the House: standard constitutional rule."
+    - "New Congress sworn in on January 3, 2027, and veto override needing two-thirds of both chambers: standard US constitutional rules, not from a 2026 source."
 ---
 
 ## Who decides tariffs in the United States?
@@ -93,18 +93,18 @@ That split is why Tuesday's midterm elections matter for trade. Republicans went
 
 ## What did the Supreme Court do to Trump's tariffs?
 
-**It struck down the biggest of them on 20 February 2026.** In a 6-3 ruling, the court held that the International Emergency Economic Powers Act, a 1977 law used mostly for sanctions, does not let the President impose tariffs. Trump had used that law for his worldwide "reciprocal" duties, including the ones on India.
+**It struck down the biggest of them on February 20, 2026.** In a 6-3 ruling, the court held that the International Emergency Economic Powers Act, a 1977 law used mostly for sanctions, does not let the President impose tariffs. Trump had used that law for his worldwide "reciprocal" duties, including the ones on India.
 
-The ruling did not end tariffs. Within a day Trump announced a temporary global duty under Section 122 of the Trade Act of 1974, which applied to Indian goods at **10% from 24 February**. That law allows such a duty for only 150 days unless Congress extends it, and Congress did not. It expired on 24 July.
+The ruling did not end tariffs. Within a day Trump announced a temporary global duty under Section 122 of the Trade Act of 1974, which applied to Indian goods at **10% from February 24**. That law allows such a duty for only 150 days unless Congress extends it, and Congress did not. It expired on July 24.
 
 ## So what tariff do Indian goods face now?
 
-**A 10% duty under Section 301 of the same 1974 law, in force since 24 July.** The US Trade Representative, Jamieson Greer, announced the result of an investigation into whether 60 economies were doing enough to keep out goods made with forced labour. India was first proposed for 12.5%. It was given 10% after it amended its Foreign Trade Policy on 14 June to ban such imports.
+**A 10% duty under Section 301 of the same 1974 law, in force since July 24.** The US Trade Representative, Jamieson Greer, announced the result of an investigation into whether 60 economies were doing enough to keep out goods made with forced labour. India was first proposed for 12.5%. It was given 10% after it amended its Foreign Trade Policy on June 14 to ban such imports.
 
 Seventeen economies, including India, the UK, Canada, Bangladesh and Pakistan, got the 10% rate; the other 43, including China and Vietnam, got 12.5%. Goods already under Section 232 duties, such as steel and aluminium at 50%, are outside it. Unlike the stopgap, a Section 301 duty has no 150-day clock and can stay for years.
 
 ```timeline
-{"title":"US tariffs on Indian goods since 2025","items":[{"date":"27 August 2025","text":"Tariffs on Indian goods doubled to 50%: a 25% reciprocal duty plus a 25% penalty over Russian oil."},{"date":"February 2026","text":"A trade framework promises an 18% rate and drops the Russia penalty. The 18% never takes effect."},{"date":"20 February 2026","text":"The US Supreme Court strikes down the emergency-law tariffs, 6-3."},{"date":"24 February 2026","text":"A temporary 10% global duty under Section 122 applies to India, for 150 days."},{"date":"24 July 2026","text":"A 10% Section 301 forced-labour duty replaces it, with no fixed end date."}]}
+{"title":"US tariffs on Indian goods since 2025","items":[{"date":"August 27, 2025","text":"Tariffs on Indian goods doubled to 50%: a 25% reciprocal duty plus a 25% penalty over Russian oil."},{"date":"February 2026","text":"A trade framework promises an 18% rate and drops the Russia penalty. The 18% never takes effect."},{"date":"February 20, 2026","text":"The US Supreme Court strikes down the emergency-law tariffs, 6-3."},{"date":"February 24, 2026","text":"A temporary 10% global duty under Section 122 applies to India, for 150 days."},{"date":"July 24, 2026","text":"A 10% Section 301 forced-labour duty replaces it, with no fixed end date."}]}
 ```
 
 ## What could a Democratic House do about it?
@@ -119,13 +119,13 @@ What they cannot easily do is change the law. Any bill to curb tariffs would nee
 
 ## Where would Congress have real leverage?
 
-**On anything that needs a vote.** A trade agreement with India that requires legislation would face a more sceptical House. Budget bills start in the House, so Democrats could attach conditions through spending riders. They could also press the administration on the Russia sanctions law Trump signed on 18 September, which allows tariffs of up to 100% on the biggest buyers of Russian oil and gas, a group that includes India. Trump waived those penalties in an order dated 16 October, but he can lift the waiver at any time.
+**On anything that needs a vote.** A trade agreement with India that requires legislation would face a more sceptical House. Budget bills start in the House, so Democrats could attach conditions through spending riders. They could also press the administration on the Russia sanctions law Trump signed on September 18, which allows tariffs of up to 100% on the biggest buyers of Russian oil and gas, a group that includes India. Trump waived those penalties in an order dated October 16, but he can lift the waiver at any time.
 
-The same goes for the $100,000 fee on new H-1B visa petitions, which falls heavily on Indian professionals. A federal judge in California blocked it on 30 September and the administration has appealed. A Democratic House could add hearings and riders to that fight, though the courts will decide it first.
+The same goes for the $100,000 fee on new H-1B visa petitions, which falls heavily on Indian professionals. A federal judge in California blocked it on September 30 and the administration has appealed. A Democratic House could add hearings and riders to that fight, though the courts will decide it first.
 
 ## How has India played the wait?
 
-**By slowing the trade talks until the result.** Officials were reported in April to want clarity on the shape of Congress before making tariff commitments. Commerce Minister Piyush Goyal said on 29 July that the first part of the deal was finalised but would come into operation "as soon as the United States is able to ensure that India gets a comparative advantage over its competitors". On 5 October Finance Minister Nirmala Sitharaman said the talks had reached a plateau where more concessions would be "very, very difficult" for both sides.
+**By slowing the trade talks until the result.** Officials were reported in April to want clarity on the shape of Congress before making tariff commitments. Commerce Minister Piyush Goyal said on July 29 that the first part of the deal was finalised but would come into operation "as soon as the United States is able to ensure that India gets a comparative advantage over its competitors". On October 5 Finance Minister Nirmala Sitharaman said the talks had reached a plateau where more concessions would be "very, very difficult" for both sides.
 
 
 ## What should Indian exporters watch next?

@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (India Strategic, Bengaluru dateline 17 Oct). Headline says 18-19 Oct, body says 18, 19 and 20 Oct; copy says 'over the festival days' without fixing the end date."
+    - "Single source (India Strategic, Bengaluru dateline Oct 17). Headline says Oct 18-19, body says 18, Oct 19 and 20; copy says 'over the festival days' without fixing the end date."
     - "No report of how Sunday's display went was found; copy describes the programme rather than the crowd or events of the day."
     - "Formation leader not named in source."
 ---
@@ -45,10 +45,10 @@ The displays, with slots from 10 am on the festival days starting Sunday, were a
 
 The team flies nine BAE Hawk Mk.132 advanced jet trainers, built in India by Hindustan Aeronautics. Its routine includes tight close-formation flying, barrel rolls, loops and inverted passes, and its signature "DNA" manoeuvre, with the aircraft trailing saffron, white and green smoke.
 
-Known as "The Sharks", the team was formed on 27 May 1996 at Air Force Station Bidar in Karnataka, as part of No. 52 Squadron. Its motto is "Sadaiva Sarvottama", or "Always the Best". It first flew HAL Kiran trainers, was stood down in 2011 and was re-formed in 2015. It marked its 30th anniversary in May and has flown more than 800 displays.
+Known as "The Sharks", the team was formed on May 27, 1996, at Air Force Station Bidar in Karnataka, as part of No. 52 Squadron. Its motto is "Sadaiva Sarvottama", or "Always the Best". It first flew HAL Kiran trainers, was stood down in 2011 and was re-formed in 2015. It marked its 30th anniversary in May and has flown more than 800 displays.
 
 Its pilots are fighter-stream officers with at least 10 years' service and about 2,000 hours on fighters, and must be qualified flying instructors. Thirteen pilots serve with the team, with nine flying in any display.
 
 ## Next on the calendar
 
-After Mysuru, the team is due over the ghats of Varanasi on 25 October for the "Wings Over Ganges" show marking the IAF's 94th anniversary, and at the Statue of Unity in Gujarat on 31 October for Rashtriya Ekta Diwas.
+After Mysuru, the team is due over the ghats of Varanasi on October 25 for the "Wings Over Ganges" show marking the IAF's 94th anniversary, and at the Statue of Unity in Gujarat on October 31 for Rashtriya Ekta Diwas.

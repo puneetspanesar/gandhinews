@@ -60,22 +60,22 @@ verification:
     - "2022 and 2017 seat and vote figures from the Wikipedia 2022 election page (ECI-derived); results.eci.gov.in 2022 archive not opened this run. Wikipedia 2017 page could not be fetched; 2017 figures (BJP 312 / 39.67%, SP 47 / 21.82%, BSP 19 / 22.23%) are from the 2022 page's comparison infobox."
     - "Regional split uses ThePrint's four-region grouping (west 136, Awadh 118, Purvanchal 130, Bundelkhand 19). ThePrint's per-region figures are alliance totals; they sum to 273 NDA and 125 SP+. Bundelkhand NDA figure of 16 is derived (19 seats minus 3 won by the SP), consistent with the statewide total. Other groupings differ: a 2022 PTI analysis counted 126 seats in western UP."
     - "2024 Lok Sabha seats from ECI party-wise page; vote shares and alliance totals (INDIA 43.52%, NDA 43.69%) from Wikipedia."
-    - "RLD and SBSP now in the NDA: Jayant Chaudhary described as Union minister and RLD chief, Om Prakash Rajbhar as SBSP president and UP Panchayati Raj minister (UNI, 12 Oct 2026). Dates of their switch not stated."
+    - "RLD and SBSP now in the NDA: Jayant Chaudhary described as Union minister and RLD chief, Om Prakash Rajbhar as SBSP president and UP Panchayati Raj minister (UNI, Oct 12, 2026). Dates of their switch not stated."
     - "That all five seats outside the two alliances were in Purvanchal is derived from ThePrint regional totals (130 minus 77 minus 48)."
-    - "Assembly term end date (22 May 2027) from the desk's 13 Oct story; poll window from the 11 Oct story."
+    - "Assembly term end date (May 22, 2027) from the desk's Oct 13 story; poll window from the Oct 11 story."
 ---
 
 ## How many seats does it take to form a government?
 
 **202, a simple majority of the 403-member Assembly.**
 
-Uttar Pradesh has the largest legislature of any Indian state, and 80 seats in the Lok Sabha. The current Assembly's term ends on 22 May 2027, and the election is expected in February and March 2027.
+Uttar Pradesh has the largest legislature of any Indian state, and 80 seats in the Lok Sabha. The current Assembly's term ends on May 22, 2027, and the election is expected in February and March 2027.
 
 ## What happened in 2022?
 
 **The BJP and its allies won a second straight majority, with 273 seats.**
 
-Voting ran in seven phases between 10 February and 7 March 2022, and votes were counted on 10 March. Turnout was 61.03%.
+Voting ran in seven phases between February 10 and March 7, 2022, and votes were counted on March 10. Turnout was 61.03%.
 
 The BJP won 255 seats on its own with 41.29% of the vote. Its allies Apna Dal (Soneylal) won 12 and the NISHAD Party six, taking the alliance to 273 with 43.82%.
 
@@ -93,7 +93,7 @@ In 2017 the BJP won 312 seats with 39.67%. In 2022 its vote share rose to 41.29%
 
 Mayawati's party, which has governed Uttar Pradesh four times and won a full majority on its own in 2007, polled 22.23% in 2017. In 2022 that fell to 12.88%, and in the 2024 Lok Sabha election to 9.39%, with no seats at all.
 
-Mayawati has ruled out an alliance for 2027. "The Bahujan Samaj Party (BSP) will contest the next Assembly elections in Uttar Pradesh alone," she told reporters in Lucknow on 7 February 2026.
+Mayawati has ruled out an alliance for 2027. "The Bahujan Samaj Party (BSP) will contest the next Assembly elections in Uttar Pradesh alone," she told reporters in Lucknow on February 7, 2026.
 
 Where the BSP's remaining vote goes, especially among Dalit voters, is one of the biggest open questions of the next election.
 

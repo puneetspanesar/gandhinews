@@ -48,11 +48,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "Tech Mahindra details (1:1, ₹5 face value, shareholder approval needed, authorised capital ₹924.3 crore to ₹1,000 crore, bonus record date to be announced, ₹15 interim dividend with 23 October record date, first bonus since 2015, NSE close ₹1,650 on 15 October) carried over from the desk's 15 October story and its sources. Friday's share move not checked; not mentioned."
-    - "SEBI rules (implementation within 15 days of board approval, or two months where shareholder approval is needed; T+2 trading from record date for bonuses announced from 1 October 2024; circular dated 16 September 2024) from Taxmann. Business Standard 2024 item seen in search results only."
+    - "Tech Mahindra details (1:1, ₹5 face value, shareholder approval needed, authorised capital ₹924.3 crore to ₹1,000 crore, bonus record date to be announced, ₹15 interim dividend with October 23 record date, first bonus since 2015, NSE close ₹1,650 on October 15) carried over from the desk's October 15 story and its sources. Friday's share move not checked; not mentioned."
+    - "SEBI rules (implementation within 15 days of board approval, or two months where shareholder approval is needed; T+2 trading from record date for bonuses announced from October 1, 2024; circular dated September 16, 2024) from Taxmann. Business Standard 2024 item seen in search results only."
     - "The worked example (100 shares at ₹1,650 becoming 200 at about ₹825) is the desk's illustration of the arithmetic, not a forecast; actual prices will differ."
     - "Bonus shares being funded from reserves (capitalisation of reserves) stated in general terms; the specific reserve Tech Mahindra will use was not reported. Tax treatment of bonus shares deliberately left out; not checked this run."
-    - "That the ₹15 dividend applies to pre-bonus holdings follows from the 23 October dividend record date coming before the bonus, which still needs shareholder approval; the company has not set the bonus record date."
+    - "That the ₹15 dividend applies to pre-bonus holdings follows from the October 23 dividend record date coming before the bonus, which still needs shareholder approval; the company has not set the bonus record date."
 ---
 
 ## What is a bonus issue?
@@ -97,7 +97,7 @@ A bonus that needs shareholders' approval, as Tech Mahindra's does, must be carr
 
 **It comes first, on the old number of shares.**
 
-The board also declared an interim dividend of ₹15 a share, with a record date of Friday, 23 October. Because the bonus still needs approval and has no record date yet, the dividend will be paid on shareholdings as they stand before the bonus. Investors need to hold the stock by 22 October to qualify, and the dividend is due to be paid by 13 November.
+The board also declared an interim dividend of ₹15 a share, with a record date of Friday, October 23. Because the bonus still needs approval and has no record date yet, the dividend will be paid on shareholdings as they stand before the bonus. Investors need to hold the stock by October 22 to qualify, and the dividend is due to be paid by November 13.
 
 ## What should shareholders watch for?
 

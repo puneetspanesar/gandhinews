@@ -12,7 +12,7 @@ location: Chennai
 keyPoints:
   - "**Nine of the 12 parties** present walked out of the all-party meeting on the Special Summary Revision."
   - "The ruling TVK, the DMK, Congress and the Left demanded the **resignation of CEC Gyanesh Kumar**."
-  - "The Special Summary Revision of Tamil Nadu's rolls is due to begin on **12 November**."
+  - "The Special Summary Revision of Tamil Nadu's rolls is due to begin on **November 12**."
 hero:
   need: "Fort St George, the Tamil Nadu Secretariat in Chennai, where the meeting was held"
   suggested_source: "Fort St. George Secretariat Chennai"
@@ -22,7 +22,7 @@ hero:
     value: "Nine parties out of the room"
 related: [people-against-sir-march-delhi-detained-cec-gyanesh-kumar, sir-phase-three-draft-rolls-names-dropped-by-state, tamil-nadu-vetri-150-extra-25-days-rural-jobs]
 seo:
-  description: "TVK, DMK, Congress, VCK and Left parties walked out of Tamil Nadu CEO Archana Patnaik's meeting on the Special Summary Revision on 23 October, seeking CEC's exit."
+  description: "TVK, DMK, Congress, VCK and Left parties walked out of Tamil Nadu CEO Archana Patnaik's meeting on the Special Summary Revision on October 23, seeking CEC's exit."
 sources:
   - title: "TN political parties walk out of CEO's meeting over SIR, protest deletion of 97 lakh voter entries"
     publisher: "DT Next"
@@ -50,12 +50,12 @@ verification:
     - "Names removed in Tamil Nadu SIR: DT Next says about 97 lakh, Oneindia Tamil says 74 lakh. Conflict unresolved; no figure used in copy."
     - "Party list: Oneindia Tamil (9 of 12 attending walked out; BSP absent; AIADMK, BJP, National People's Party stayed). DT Next lists NTK both as walking out and attending; went with walk-out (Oneindia, UNI agree)."
     - "Representatives named by Oneindia Tamil only. No direct quotes found in any source."
-    - "Claims and objections until 11 December appears only in a DT Next related headline; hedged."
+    - "Claims and objections until December 11 appears only in a DT Next related headline; hedged."
 ---
 
 Most of Tamil Nadu's political parties, including the ruling Tamilaga Vettri Kazhagam (TVK) and the opposition DMK, walked out of an all-party meeting called by the state's Chief Electoral Officer, Archana Patnaik, in Chennai on Friday, in protest against the Special Intensive Revision (SIR) of electoral rolls and Chief Election Commissioner Gyanesh Kumar.
 
-The meeting, held at the Secretariat, had been called to discuss the Special Summary Revision (SSR) of the state's rolls, which is due to begin on 12 November. Over roughly a month, eligible voters will be able to apply to have their names added, with claims and objections reported to be open until 11 December.
+The meeting, held at the Secretariat, had been called to discuss the Special Summary Revision (SSR) of the state's rolls, which is due to begin on November 12. Over roughly a month, eligible voters will be able to apply to have their names added, with claims and objections reported to be open until December 11.
 
 ## Who walked out
 

@@ -38,7 +38,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov, source time stamp 20:45 IST (ThePrint/PTI, 15:15 UTC). Officials spoke on Sunday; the helicopter turn-back and the Monday plan are new since our 10:35 am story."
+    - "event: Nov 1, source time stamp 20:45 IST (ThePrint/PTI, 15:15 UTC). Officials spoke on Sunday; the helicopter turn-back and the Monday plan are new since our 10:35 am story."
     - "Names of the six as given in the district administration release quoted by PTI: Moumita Halder, Piyali Koley, Jajla Trivedi Kumar, Aditya Singha, Diplina Bishwas, Rajesh De. Spellings as in source."
     - "Surkhet helicopter technical problem rests on Onlinekhabar via PTI; hedged in copy."
 ---

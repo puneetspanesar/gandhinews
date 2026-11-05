@@ -12,7 +12,7 @@ location: Srinagar
 keyPoints:
   - "About 17 NC MLAs and one Independent met in Srinagar and **demanded a cabinet reshuffle**."
   - "They gave Farooq Abdullah and Omar Abdullah a **15-day ultimatum**."
-  - "Four ministers were sworn in on 27 October, taking the council to its **maximum of nine**."
+  - "Four ministers were sworn in on October 27, taking the council to its **maximum of nine**."
 hero:
   need: "Jammu and Kashmir Chief Minister Omar Abdullah and NC president Farooq Abdullah, as a two-panel split"
   suggested_source: "Omar Abdullah"
@@ -22,7 +22,7 @@ hero:
     value: "15 days to fix the cabinet"
 related: [omar-abdullah-cabinet-reshuffle-next-week-sajjan-singh-yadav-chief-secretary]
 seo:
-  description: "About 17 National Conference MLAs met in Srinagar on 30 October, demanded a fresh reshuffle of Omar Abdullah's cabinet and set the leadership a 15-day deadline."
+  description: "About 17 National Conference MLAs met in Srinagar on October 30, demanded a fresh reshuffle of Omar Abdullah's cabinet and set the leadership a 15-day deadline."
 sources:
   - title: "NC ranks rebel after cabinet reshuffle: 18 MLAs demand minister removal"
     publisher: "Indian Opinion"
@@ -40,7 +40,7 @@ verification:
     - "Meeting details rest on Indian Opinion's digest of The Hindu, India Today, Deccan Herald, Rising Kashmir, IndiaTV, Deccan Chronicle; originals could not be fetched (permission timeouts). Head count varies: 17 + 1 Independent (The Hindu), 19 (India Today), BJP claims 16 (IndiaTV); copy says 'about 17'."
     - "Demand to remove Nasir Aslam Wani and Shammi Oberoi: India Today only, hedged as 'reported'."
     - "'friendly lunch' (Gurezi) and 'coterie culture', 'unilateral decisions' as quoted in the digest."
-    - "Swearing-in details (27 Oct, Lok Bhavan Auditorium, LG Manoj Sinha, four names, five resignations, Gul and Larmi): WION."
+    - "Swearing-in details (Oct 27, Lok Bhavan Auditorium, LG Manoj Sinha, four names, five resignations, Gul and Larmi): WION."
     - "No NC leadership response found."
 ---
 
@@ -53,7 +53,7 @@ Nazir Gurezi will lead a **four-member delegation to Farooq Abdullah** with a me
 
 ## An expansion that left seniors out
 
-The unrest began on Tuesday, 27 October, when Lieutenant Governor Manoj Sinha swore in **four new ministers** at the Lok Bhavan Auditorium in Srinagar: Ali Mohammad Sagar, Mir Saifullah, Shameema Firdous and Altaf Kalo. Five sitting ministers had resigned before the reorganisation, which took the council of ministers to its maximum strength of nine.
+The unrest began on Tuesday, October 27, when Lieutenant Governor Manoj Sinha swore in **four new ministers** at the Lok Bhavan Auditorium in Srinagar: Ali Mohammad Sagar, Mir Saifullah, Shameema Firdous and Altaf Kalo. Five sitting ministers had resigned before the reorganisation, which took the council of ministers to its maximum strength of nine.
 
 
 Mubarak Gul, a **six-time MLA from Eidgah**, was left out. His supporters protested at the party headquarters at Nawa-i-Subh within hours of the ceremony, and Farooq Abdullah then made him the party's general secretary. Abdul Majeed Larmi, also passed over, was blunt. "This was not fair to me," he said. "I was dedicated, honest and loyal."

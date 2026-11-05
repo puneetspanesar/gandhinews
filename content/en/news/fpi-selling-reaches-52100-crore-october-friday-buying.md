@@ -12,7 +12,7 @@ location: New Delhi
 keyPoints:
   - "Foreign portfolio investors have sold a net **₹52,100 crore** of Indian shares so far in October."
   - "Outflows for 2026 now stand at **₹3.12 lakh crore**, almost double the ₹1.66 lakh crore withdrawn in all of 2025."
-  - "Foreign investors turned **marginal buyers on 16 October** as the US 10-year yield slipped to 5.08%."
+  - "Foreign investors turned **marginal buyers on October 16** as the US 10-year yield slipped to 5.08%."
 hero:
   need: "Mumbai's financial district skyline at Nariman Point"
   suggested_source: "Nariman Point Mumbai skyline"
@@ -49,14 +49,14 @@ verification:
   notes:
     - "October and YTD figures from CDSL data as reported by PTI (Business Standard 11:19 am) and Free Press Journal (12:22 pm); both agree."
     - "Weekly FII net selling of Rs 15,440 crore and DII buying Rs 14,792 crore from Business Today (likely exchange provisional data, not depository data); copy attributes it to exchange data for the week."
-    - "Friday 16 Oct net buying of Rs 1,165.92 crore taken from the site's own earlier Monday-outlook story (exchange provisional data)."
+    - "Friday, Oct 16 net buying of Rs 1,165.92 crore taken from the site's own earlier Monday-outlook story (exchange provisional data)."
     - "Mukherjee's words appear in reported speech in the PTI copy; paraphrased, not quoted. Gaur quote verbatim from PTI copy."
     - "Free Press Journal 'Read also' headline gives a different September figure (Rs 14,474 cr); body text and PTI give Rs 35,861 cr, used here."
 ---
 
 Foreign investors have sold a net ₹52,100 crore of Indian shares so far in October, depository data showed on Sunday, taking their withdrawals this year to ₹3.12 lakh crore. That is close to double the ₹1.66 lakh crore they pulled out in the whole of 2025.
 
-The pace of selling has slowed, however. On 11 October the October figure stood at ₹44,166 crore, so the past week added about ₹8,000 crore, well below the heavy outflows of the first ten days of the month. On Friday, 16 October, foreign funds turned marginal net buyers.
+The pace of selling has slowed, however. On October 11 the October figure stood at ₹44,166 crore, so the past week added about ₹8,000 crore, well below the heavy outflows of the first ten days of the month. On Friday, October 16, foreign funds turned marginal net buyers.
 
 ## Why the money is leaving
 
@@ -74,8 +74,8 @@ He said foreign investors were still selling financial services and oil-related 
 
 Pabitro Mukherjee, deputy vice president of research at Bajaj Broking, said the sharp slowdown in selling and Friday's reversal suggested sentiment was steadying. He warned that high crude prices remained the main threat to any recovery. Analysts broadly see the Friday buying as tactical rather than a lasting change of mind.
 
-Exchange data for the week to 16 October showed foreign institutional investors as net sellers of ₹15,440 crore, almost all of it matched by ₹14,792 crore of buying by domestic institutions such as mutual funds and insurers. That domestic support is a big reason the Sensex still managed a 3.1% gain for the week.
+Exchange data for the week to October 16 showed foreign institutional investors as net sellers of ₹15,440 crore, almost all of it matched by ₹14,792 crore of buying by domestic institutions such as mutual funds and insurers. That domestic support is a big reason the Sensex still managed a 3.1% gain for the week.
 
 ## What to watch
 
-Brent crude, the course of US-Iran tensions and September-quarter earnings are the main signposts for foreign money in the coming days. The ₹30,200 crore Jio Platforms share sale, which opens on 21 October, will be a test of how much appetite overseas funds still have for large Indian offerings.
+Brent crude, the course of US-Iran tensions and September-quarter earnings are the main signposts for foreign money in the coming days. The ₹30,200 crore Jio Platforms share sale, which opens on October 21, will be a test of how much appetite overseas funds still have for large Indian offerings.

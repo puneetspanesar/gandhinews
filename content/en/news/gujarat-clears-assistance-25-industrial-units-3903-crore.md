@@ -32,7 +32,7 @@ verification:
   status: approved
   notes:
     - "Single source (DeshGujarat, which appears to follow a state government release). The government release itself was not found."
-    - "Meeting date not stated; the report is dated 12 Oct 2026, so the copy says 'has approved' without a day."
+    - "Meeting date not stated; the report is dated Oct 12, 2026, so the copy says 'has approved' without a day."
     - "'More than half of the total investment' is Gandhi News arithmetic (2,271.40 of 3,903.30 crore, about 58%)."
 ---
 

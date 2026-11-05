@@ -21,7 +21,7 @@ hero:
     value: "13 children lost in the Ganga"
 related: []
 seo:
-  description: "A boat capsized in the Ganga at Raghopur, Vaishali, on 13 October, killing 13 children. Bihar announced ₹4 lakh aid; SDRF and divers kept searching."
+  description: "A boat capsized in the Ganga at Raghopur, Vaishali, on October 13, killing 13 children. Bihar announced ₹4 lakh aid; SDRF and divers kept searching."
 sources:
   - title: "Bihar boat tragedy: 13 children die on their way to village feast as boat capsizes in Vaishali; 7 rescued"
     publisher: "The Statesman"
@@ -41,7 +41,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Toll: DM Varsha Singh confirmed 13 bodies (Statesman, 7:17 am 14 Oct; DH headline also 'at least 13 children'). Tejashwi Yadav said 14 bodies recovered (ETV, updated 3:40 am). Earlier Statesman report said 11 incl. 8 children. Written as 13 confirmed, with Tejashwi's 14 attributed."
+    - "Toll: DM Varsha Singh confirmed 13 bodies (Statesman, 7:17 am Oct 14; DH headline also 'at least 13 children'). Tejashwi Yadav said 14 bodies recovered (ETV, updated 3:40 am). Earlier Statesman report said 11 incl. 8 children. Written as 13 confirmed, with Tejashwi's 14 attributed."
     - "Number on board: Statesman 15 to 20 (later) / about 20 (earlier); Tejashwi said about 30. Both given, attributed."
     - "Direction of trip conflicts: Statesman says on the way to the feast; ETV says on the return trip. Written neutrally as 'crossing the river for a feast'."
     - "Time 8:30 pm from Statesman only; ETV says 'evening'."

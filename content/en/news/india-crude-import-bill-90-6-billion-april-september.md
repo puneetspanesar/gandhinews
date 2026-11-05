@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "All figures from ThePrint (Udit Bubna, 7:11 pm IST, 17 Oct) reporting PPAC's monthly ready reckoner released late Friday. PPAC document itself not read."
+    - "All figures from ThePrint (Udit Bubna, 7:11 pm IST, Oct 17) reporting PPAC's monthly ready reckoner released late Friday. PPAC document itself not read."
     - "'$29 billion more' in overlay is 90.6 minus 61.9 = 28.7, rounded."
     - "No named quote in the source."
 ---

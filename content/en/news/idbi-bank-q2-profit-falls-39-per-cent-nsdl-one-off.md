@@ -39,7 +39,7 @@ verification:
   notes:
     - "Result figures: Business Today only (3:05 pm IST). GNPA 2.12%; source's YoY comparison is internally inconsistent (53 bps vs 18 bps), so no comparison given."
     - "CCEA approval and stake figures as given by Business Today; 'Canada Inc' described there as Fairfax's parent entity; copy says Fairfax."
-    - "Watsa quotes verbatim from Business Standard, analyst call on 16 Oct (published 4:28 pm IST, before this run's window; used as context only)."
+    - "Watsa quotes verbatim from Business Standard, analyst call on Oct 16 (published 4:28 pm IST, before this run's window; used as context only)."
     - "Closing 'as early as Q1 2027' is Business Standard's wording; copy says early 2027."
 ---
 

@@ -22,7 +22,7 @@ hero:
     value: "Brent: $112 high, $108.79 close"
 related: [brent-109-houthi-yanbu-claims-hormuz-flows-russia-waiver, gold-slips-dussehra-147170-mcx-shut, global-cues-dow-rallies-netflix-slides-brent-108-october-21]
 seo:
-  description: "Brent crude settled at $108.79 on 20 October 2026 after hitting $111.99; WTI at $98.28, gold about $4,143 an ounce and the dollar index at 101.71."
+  description: "Brent crude settled at $108.79 on October 20, 2026, after hitting $111.99; WTI at $98.28, gold about $4,143 an ounce and the dollar index at 101.71."
 sources:
   - title: "Closing Look, Tuesday, October 20, 2026"
     publisher: "Capp Notes (Substack)"

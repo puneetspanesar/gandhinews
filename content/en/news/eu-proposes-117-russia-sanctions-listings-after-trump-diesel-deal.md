@@ -32,9 +32,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: Kyiv Independent (Chris Powers, Brussels), 22 Oct, 7:13 pm Kyiv time; it saw the draft. All numbers (117; 12 + 105; 31 oil; 52 financial; 2 LNG; 1 Donetsk steel firm; 12 UAE entities; 15 military-industrial firms; 1 delisting) from that report."
+    - "Single source: Kyiv Independent (Chris Powers, Brussels), Oct 22, 7:13 pm Kyiv time; it saw the draft. All numbers (117; 12 + 105; 31 oil; 52 financial; 2 LNG; 1 Donetsk steel firm; 12 UAE entities; 15 military-industrial firms; 1 delisting) from that report."
     - "Kallas quote and Irish Council Presidency spokesperson's words verbatim from the report. Not verified whether the Kallas quote was said this week or earlier; copy says 'has said'."
-    - "Proposal first presented to ambassadors on 21 Oct. No date for ministers' vote reported."
+    - "Proposal first presented to ambassadors on Oct 21. No date for ministers' vote reported."
     - "Hungary/Slovakia position on this round not reported; not raised."
 ---
 
@@ -58,7 +58,7 @@ One company outside Russia would come off the list, because it has stopped the a
 
 ## A rift with Washington
 
-The proposal lands about two weeks after Trump agreed to import diesel, a refined oil product, from Russia. EU leaders condemned that deal, and the wider shift in Washington's approach to Ukraine, when they met in Brussels on 15 and 16 October.
+The proposal lands about two weeks after Trump agreed to import diesel, a refined oil product, from Russia. EU leaders condemned that deal, and the wider shift in Washington's approach to Ukraine, when they met in Brussels on October 15 and 16.
 
 A spokesperson for the Irish presidency of the EU Council said the listings were aimed at "targeting sectors which raise revenue for Russia's war of aggression against Ukraine".
 

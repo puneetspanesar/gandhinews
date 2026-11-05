@@ -9,7 +9,7 @@ title: "Delhi's bad air arrives on schedule every October. The response should n
 standfirst: "Forecasters say the capital's air turns 'poor' from today, as it does every year at this time. Farm fires are rising in states that were not watched closely, machines sit idle and satellites go blind after 3 pm. The fixes are known; what is missing is the habit of acting before the haze."
 published: 2026-10-21T05:45:00+05:30
 keyPoints:
-  - "Delhi's air is forecast to slip to **'poor' on 21 and 22 October** and stay there through the following week."
+  - "Delhi's air is forecast to slip to **'poor' on October 21 and 22** and stay there through the following week."
   - "Farm fires are **rising in Madhya Pradesh and Rajasthan** even as Haryana's fall by half."
   - "Satellite monitoring has **no passes after 3 pm**, the gap ground patrols must now fill."
 hero:
@@ -47,11 +47,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Monday 19 Oct AQI 139 (CPCB 4 pm), forecast of 'poor' on 21-22 Oct and the six days after, forecasters' quote on dispersal, CREAMS farm-fire counts (98 on 19 Oct; 1,171 since 15 Sept, MP 370, Punjab 368) from the desk's 19/20 Oct story and Asianet Newsable."
-    - "Haryana fires down 53.3%, UP about 32%, MP and Rajasthan up (15 Sept to 12 Oct), 3.54 lakh machines incl. 26,109 this year, ₹592.57 crore allocated and ₹430.87 crore released for 2026-27, slow spending, Yadav's point on no satellite passes after 3 pm and need for ground patrols, Chouhan's point that machines must run in the fields: PIB release of 13 Oct via the desk's story. Chouhan's words paraphrased (release in Hindi)."
-    - "Rain-washed AQI of 86 on 16 Oct and 'poor' 216 on 17 Oct (AQI.in, not CPCB) from the desk's 17 Oct story; copy says only that the air turned poor within a day."
-    - "2022 Dussehra: GRAP Stage I invoked when air fell to 'poor', CAQM order called it 'likely due to a localised influence': Tribune/PTI, 7 Oct 2022."
-    - "No Tuesday 20 Oct CPCB reading was found by publication; copy does not give one. Diwali date not stated."
+    - "Editorial view of the desk. Monday, Oct 19 AQI 139 (CPCB 4 pm), forecast of 'poor' on Oct 21-22 and the six days after, forecasters' quote on dispersal, CREAMS farm-fire counts (98 on Oct 19; 1,171 since Sept 15, MP 370, Punjab 368) from the desk's 19/Oct 20 story and Asianet Newsable."
+    - "Haryana fires down 53.3%, UP about 32%, MP and Rajasthan up (Sept 15 to Oct 12), 3.54 lakh machines incl. 26,109 this year, ₹592.57 crore allocated and ₹430.87 crore released for 2026-27, slow spending, Yadav's point on no satellite passes after 3 pm and need for ground patrols, Chouhan's point that machines must run in the fields: PIB release of Oct 13 via the desk's story. Chouhan's words paraphrased (release in Hindi)."
+    - "Rain-washed AQI of 86 on Oct 16 and 'poor' 216 on Oct 17 (AQI.in, not CPCB) from the desk's Oct 17 story; copy says only that the air turned poor within a day."
+    - "2022 Dussehra: GRAP Stage I invoked when air fell to 'poor', CAQM order called it 'likely due to a localised influence': Tribune/PTI, Oct 7, 2022."
+    - "No Tuesday, Oct 20 CPCB reading was found by publication; copy does not give one. Diwali date not stated."
     - "Recommendations are the desk's own."
 ---
 
@@ -67,7 +67,7 @@ The machinery built to respond, the Graded Response Action Plan, is designed to 
 
 ## Where the stubble numbers are going
 
-There is some good news. Between 15 September and 12 October farm fires fell by 53.3% in Haryana and by about a third in Uttar Pradesh. But the Centre's own review last week found that fires had risen in Madhya Pradesh and Rajasthan, states that have rarely been at the centre of the debate. By Monday Madhya Pradesh had recorded 370 incidents since mid-September, slightly more than Punjab's 368. Most of the paddy crop is still to be cut.
+There is some good news. Between September 15 and October 12 farm fires fell by 53.3% in Haryana and by about a third in Uttar Pradesh. But the Centre's own review last week found that fires had risen in Madhya Pradesh and Rajasthan, states that have rarely been at the centre of the debate. By Monday Madhya Pradesh had recorded 370 incidents since mid-September, slightly more than Punjab's 368. Most of the paddy crop is still to be cut.
 
 The Centre has given states more than 3.54 lakh crop residue machines, 26,109 of them this year. Agriculture Minister Shivraj Singh Chouhan himself said the machines must work in the fields and not merely exist on paper, and the review noted that states were slow to spend what they had been given. Environment Minister Bhupender Yadav pointed to a quieter weakness: there are no satellite passes after 3 pm, so fires lit late in the afternoon can go uncounted unless people on the ground see them.
 
@@ -90,5 +90,5 @@ Fourth, treat the city's own sources as a year-round job. Dust control at buildi
 Delhi does not lack a plan, a forecast or ministers who understand the problem. It lacks the habit of acting before the air turns. This year, with the warning already issued, there is no excuse for discovering the haze again.
 
 ```facts
-{"title":"The reporting behind this view","items":[{"value":"139","label":"Delhi's average air quality index on Monday, before the forecast slide to 'poor'"},{"value":"370","label":"farm fires in Madhya Pradesh since 15 September, slightly more than Punjab's 368"},{"value":"3.54 lakh","label":"crop residue machines supplied to states, with spending of funds called slow"}]}
+{"title":"The reporting behind this view","items":[{"value":"139","label":"Delhi's average air quality index on Monday, before the forecast slide to 'poor'"},{"value":"370","label":"farm fires in Madhya Pradesh since September 15, slightly more than Punjab's 368"},{"value":"3.54 lakh","label":"crop residue machines supplied to states, with spending of funds called slow"}]}
 ```

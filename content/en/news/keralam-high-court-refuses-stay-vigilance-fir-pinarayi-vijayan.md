@@ -21,7 +21,7 @@ hero:
     value: "No stay for Pinarayi"
 related: [kerala-becomes-keralam-what-changes, keralam-satheesan-balagopal-clash-over-pay-revision-arrears]
 seo:
-  description: "The High Court in Kochi on 13 October refused to stay the order for a Vigilance FIR against Pinarayi Vijayan, Veena T and Mohamed Riyas in the CMRL-Exalogic case."
+  description: "The High Court in Kochi on October 13 refused to stay the order for a Vigilance FIR against Pinarayi Vijayan, Veena T and Mohamed Riyas in the CMRL-Exalogic case."
 sources:
   - title: "Kerala HC refuses to stay order directing Vigilance FIR against Pinarayi Vijayan and family"
     publisher: "The Statesman"
@@ -31,9 +31,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (Statesman, 10:15 pm 13 Oct). Court record not seen. Facts are concrete court proceedings, stated plainly; arguments attributed."
+    - "Single source (Statesman, 10:15 pm Oct 13). Court record not seen. Facts are concrete court proceedings, stated plainly; arguments attributed."
     - "'Former Chief Minister' for Pinarayi and 'former minister' for Riyas inferred from existing Gandhi News coverage (V D Satheesan is CM, LDF in opposition); the Statesman piece does not state titles. Riyas described only as Veena's husband in the body."
-    - "Single Bench judge not named in source. Single Bench order dated 'last Friday' = 9 October."
+    - "Single Bench judge not named in source. Single Bench order dated 'last Friday' = October 9."
     - "Court name: source says 'Kerala High Court'; whether its name changes with the state's renaming is unconfirmed, so body says 'the High Court in Kochi'."
 ---
 

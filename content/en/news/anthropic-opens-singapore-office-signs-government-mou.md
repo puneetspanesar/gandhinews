@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "All details from Anthropic's own announcement of 14 Oct; the Singapore government's side of the MOU was not read separately."
+    - "All details from Anthropic's own announcement of Oct 14; the Singapore government's side of the MOU was not read separately."
     - "Usage ranking (second of 121 countries relative to population) is Anthropic's own Economic Index figure, attributed as such."
 ---
 
@@ -47,11 +47,11 @@ Under the agreement, the two sides will cooperate on AI safety, security and mod
 
 > We founded Anthropic on the belief that capability and safety have to go hand in hand.
 
-Source: Ben Mann, co-founder, Anthropic, 14 October 2026
+Source: Ben Mann, co-founder, Anthropic, October 14, 2026
 
 > Singapore's approach to AI has always been to enable innovation while keeping pace with its evolving risks.
 
-Source: Kai Fong Chng, Permanent Secretary, MDDI, 14 October 2026
+Source: Kai Fong Chng, Permanent Secretary, MDDI, October 14, 2026
 
 ## A heavy user base
 

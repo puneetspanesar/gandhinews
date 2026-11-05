@@ -6,7 +6,7 @@ section: economy
 format_label: "Topic"
 topics: [inflation, rbi-interest-rates]
 title: "Inflation"
-standfirst: "Retail inflation in India, measured on the new 2024-base CPI, has risen every month of 2026. Where it stands and what to watch. Updated 11 October 2026."
+standfirst: "Retail inflation in India, measured on the new 2024-base CPI, has risen every month of 2026. Where it stands and what to watch. Updated October 11, 2026."
 published: 2026-10-11T09:00:00+05:30
 hero:
   need: "Vegetable market with price boards"
@@ -44,10 +44,10 @@ sources:
 verification:
   status: verified-with-notes
   notes:
-    - "Fact-checked 11 Oct 2026 against MoSPI's August CPI release and 12 Feb release, the RBI resolution and overview page, and Business Today (27 Mar excise cut: petrol ₹13 to ₹3, diesel ₹10 to nil; no change in state-run retail prices)."
+    - "Fact-checked Oct 11, 2026, against MoSPI's August CPI release and Feb 12 release, the RBI resolution and overview page, and Business Today (Mar 27 excise cut: petrol ₹13 to ₹3, diesel ₹10 to nil; no change in state-run retail prices)."
     - "Changed: 'crude oil above $100 a barrel' was attributed to the RBI, which actually cites 'sharp volatility in crude oil prices'; corrected. 'Food prices leading' replaced with the specific figure (personal care and restaurants rose faster than food). Timeline: pump prices unchanged at state-run retailers only (Nayara raised prices, per Business Today)."
     - "Retail fuel price increases in May 2026 are not covered because the only sources found were broker and market-data sites."
-    - "The September 2026 CPI figure is due on 12 October; this page should be updated then."
+    - "The September 2026 CPI figure is due on October 12; this page should be updated then."
 ---
 
 Inflation is the rate at which prices rise. India's headline measure is the Consumer Price Index (CPI), published monthly by the National Statistics Office. Since February 2026 it has used a new series with base year 2024=100, a basket of 358 items and weights from the 2023-24 household consumption survey.
@@ -58,14 +58,14 @@ The Reserve Bank of India's target is 4% CPI inflation, with a band of 2% to 6%.
 
 CPI inflation was 4.82% in August 2026 (provisional), up from 4.45% in July and 2.74% in January. It has risen every month this year. Food inflation was 5.95%, and rural inflation (5.23%) is running ahead of urban (4.31%).
 
-The RBI says food and fuel drove the rise, and that core inflation rose to 4.2%. It points to the West Asia conflict and sharp volatility in crude oil prices, a deficient south-west monsoon and strong El Niño conditions. On 7 October it raised the repo rate to 5.50% and projected inflation of 6.0% in October-December, at the top of its band.
+The RBI says food and fuel drove the rise, and that core inflation rose to 4.2%. It points to the West Asia conflict and sharp volatility in crude oil prices, a deficient south-west monsoon and strong El Niño conditions. On October 7 it raised the repo rate to 5.50% and projected inflation of 6.0% in October-December, at the top of its band.
 
 ```facts
 {"title":"Key numbers","items":[{"value":"4.82%","label":"CPI inflation, August 2026 (provisional)","source":"MoSPI"},{"value":"5.95%","label":"food inflation, August 2026","source":"MoSPI"},{"value":"5.2%","label":"RBI projection for 2026-27","source":"RBI"},{"value":"4%","label":"inflation target (band 2% to 6%)","source":"RBI"}]}
 ```
 
 ```timeline
-{"title":"Key dates","items":[{"date":"12 Feb 2026","text":"New CPI series (base 2024) launched with January data"},{"date":"27 Mar 2026","text":"Excise duty on petrol and diesel cut; state-run retailers keep pump prices unchanged"},{"date":"14 Sep 2026","text":"August CPI: 4.82%, seventh straight rise"},{"date":"7 Oct 2026","text":"RBI raises repo rate to 5.50%, citing inflation risks"},{"date":"12 Oct 2026","text":"September CPI due"},{"date":"2-4 Dec 2026","text":"Next RBI policy meeting"}]}
+{"title":"Key dates","items":[{"date":"Feb 12, 2026","text":"New CPI series (base 2024) launched with January data"},{"date":"Mar 27, 2026","text":"Excise duty on petrol and diesel cut; state-run retailers keep pump prices unchanged"},{"date":"Sep 14, 2026","text":"August CPI: 4.82%, seventh straight rise"},{"date":"Oct 7, 2026","text":"RBI raises repo rate to 5.50%, citing inflation risks"},{"date":"Oct 12, 2026","text":"September CPI due"},{"date":"Dec 2-4, 2026","text":"Next RBI policy meeting"}]}
 ```
 
 ## Key questions
@@ -76,4 +76,4 @@ The RBI says food and fuel drove the rise, and that core inflation rose to 4.2%.
 
 **Can I compare it with older figures?** Not directly. The 2024-base series has a different basket and weights from the old 2012 series, which last reported 1.33% for December 2025.
 
-**What is the RBI doing about it?** It raised the repo rate by 25 basis points on 7 October, moved to a stance of "calibrated tightening" and said rate cuts are off the table in the near term.
+**What is the RBI doing about it?** It raised the repo rate by 25 basis points on October 7, moved to a stance of "calibrated tightening" and said rate cuts are off the table in the near term.

@@ -47,7 +47,7 @@ verification:
     - "Section 15's definition of 'Advocate-General' for the Supreme Court as the Attorney General or the Solicitor General is from the statute as generally reproduced; not re-read in this run."
     - "Venugopal consents and refusals (Kunal Kamra, Rachita Taneja given; Swara Bhaskar, Jagan Mohan Reddy refused) from The Leaflet, all in 2020. LiveLaw headline on a 2020 refusal concerning Rahul Gandhi seen in search results only; not used in copy."
     - "Prashant Bhushan's 2020 suo motu case and ₹1 fine are standard record, not re-checked in this run."
-    - "Current case (SCBA plea filed 15 October, AG consent same day, 'prima-facie scandalous', show-cause notices 16 October by CJI Surya Kant and Justice Joymalya Bagchi, exemption from appearance, Wagle's apology) from the desk's 15 and 16 October stories."
+    - "Current case (SCBA plea filed October 15, AG consent same day, 'prima-facie scandalous', show-cause notices October 16 by CJI Surya Kant and Justice Joymalya Bagchi, exemption from appearance, Wagle's apology) from the desk's October 15 and 16 stories."
     - "Next hearing date not known."
 ---
 
@@ -69,7 +69,7 @@ The Constitution gives the power directly. Article 129 makes the Supreme Court a
 
 The section sets out three routes. The court can act on its own motion, known as suo motu. The Attorney General or Solicitor General can move the court directly. Anyone else must first get the written consent of one of them. For the High Courts the same job is done by the state's Advocate General.
 
-The Supreme Court Bar Association wrote to Attorney General R Venkataramani on Thursday 15 October, and he gave his consent the same day. In his letter he described the posts by Sanjay Raut and Nikhil Wagle as "prima-facie scandalous".
+The Supreme Court Bar Association wrote to Attorney General R Venkataramani on Thursday, October 15, and he gave his consent the same day. In his letter he described the posts by Sanjay Raut and Nikhil Wagle as "prima-facie scandalous".
 
 ## What is the point of the consent rule?
 
@@ -97,6 +97,6 @@ The SCBA's petition accepts this distinction. It says the remarks of Raut and Wa
 
 **Raut and Wagle must reply to the show-cause notices, and the court will then decide whether to go ahead.**
 
-On Friday 16 October a bench of Chief Justice Surya Kant and Justice Joymalya Bagchi issued the notices and excused both men from appearing in person for now. Notice in a contempt case must be served on the person directly, and the case must be heard by at least two judges.
+On Friday, October 16 a bench of Chief Justice Surya Kant and Justice Joymalya Bagchi issued the notices and excused both men from appearing in person for now. Notice in a contempt case must be served on the person directly, and the case must be heard by at least two judges.
 
 If the court proceeds and finds them guilty, the maximum punishment is simple imprisonment for six months, a fine of up to ₹2,000, or both. The court can also discharge a person, or remit the punishment, if it accepts an apology as genuine. Wagle has already apologised unconditionally and deleted his post. Raut had not responded publicly by Friday evening. The date of the next hearing is not yet known.

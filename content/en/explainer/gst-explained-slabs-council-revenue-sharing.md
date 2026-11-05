@@ -57,10 +57,10 @@ sources:
 verification:
   status: verified-with-notes
   notes:
-    - "Fact-checked 11 Oct 2026: 56th Council release confirms the '2 rate structure' quote, 22 Sep 2025, every item example (NIL, 5%, 18%, 40%), 33 drugs, apparel above ₹2,500 to 18%, bidi 28% to 18%, and tobacco staying at old rates until cess loans are repaid. GST Council site confirms composition, Revenue Secretary, 1/3-2/3 weights, 3/4 rule, consensus practice, 8 Sep 2016 assent and 22-23 Sep 2016 first meeting. The 101st Amendment Act confirms Arts 246A and 269A wording and the five-year compensation clause. PTI (Deccan Herald) confirms 1 Feb 2026, 'cease to exist', additional excise, Health and National Security Cess, 40% and biris at 18%. PRS confirms 16th FC (tabled 1 Feb 2026, 41%, divisible pool definition). 57th release and Business Today figures confirmed."
+    - "Fact-checked Oct 11, 2026: 56th Council release confirms the '2 rate structure' quote, Sep 22, 2025, every item example (NIL, 5%, 18%, 40%), 33 drugs, apparel above ₹2,500 to 18%, bidi 28% to 18%, and tobacco staying at old rates until cess loans are repaid. GST Council site confirms composition, Revenue Secretary, 1/3-2/3 weights, 3/4 rule, consensus practice, Sep 8, 2016, assent and Sep 22-23, 2016 first meeting. The 101st Amendment Act confirms Arts 246A and 269A wording and the five-year compensation clause. PTI (Deccan Herald) confirms Feb 1, 2026, 'cease to exist', additional excise, Health and National Security Cess, 40% and biris at 18%. PRS confirms 16th FC (tabled Feb 1, 2026, 41%, divisible pool definition). 57th release and Business Today figures confirmed."
     - "Changed: 'Most items in the old 12% slab... most in the 28% slab' softened to 'Many'; the release lists items but does not say 'most'."
-    - "Slab structure verified from the official 56th GST Council release (3 Sep 2025). The 57th meeting (8 Oct 2026) made no change to the slabs."
-    - "Tobacco and pan masala at 40% from 1 Feb 2026 and the end of compensation cess: from PTI (Deccan Herald) and News On AIR, not from the gazette notification itself."
+    - "Slab structure verified from the official 56th GST Council release (Sep 3, 2025). The 57th meeting (Oct 8, 2026) made no change to the slabs."
+    - "Tobacco and pan masala at 40% from Feb 1, 2026, and the end of compensation cess: from PTI (Deccan Herald) and News On AIR, not from the gazette notification itself."
     - "Special rates outside the slabs (for example on precious metals) were not checked and are not described."
     - "The statement that intra-state supplies attract both central and state GST rests on Article 246A (both levels can levy GST). The exact CGST/SGST split was not checked against a primary source and is not stated."
     - "That the Centre's GST receipts form part of the divisible pool shared under the Finance Commission formula is the desk's reading of the PRS summary (divisible pool = gross tax revenue minus cesses, surcharges and collection costs); PRS does not mention GST explicitly."
@@ -69,9 +69,9 @@ verification:
 
 ## What are the GST rates now?
 
-**Most goods and services are taxed at either 5% or 18%, with a 40% rate for a short list of goods and NIL for some essentials.** This two-rate structure was recommended by the GST Council at its 56th meeting on 3 September 2025, which described it as "a 2 rate structure with a Standard Rate of 18% and a Merit Rate of 5%". It replaced the earlier four slabs of 5%, 12%, 18% and 28%.
+**Most goods and services are taxed at either 5% or 18%, with a 40% rate for a short list of goods and NIL for some essentials.** This two-rate structure was recommended by the GST Council at its 56th meeting on September 3, 2025, which described it as "a 2 rate structure with a Standard Rate of 18% and a Merit Rate of 5%". It replaced the earlier four slabs of 5%, 12%, 18% and 28%.
 
-Many items in the old 12% slab moved to 5% or NIL, and many in the 28% slab moved to 18%. The changes for most goods and all services took effect on 22 September 2025.
+Many items in the old 12% slab moved to 5% or NIL, and many in the 28% slab moved to 18%. The changes for most goods and all services took effect on September 22, 2025.
 
 ```facts
 {"title":"GST rate structure (as of October 2026)","items":[{"value":"NIL","label":"some essentials, e.g. UHT milk, pre-packaged paneer, Indian breads, individual life and health insurance","source":"56th GST Council"},{"value":"5%","label":"merit rate, e.g. namkeens, butter, ghee, toothpaste, shampoo, bicycles, many medicines","source":"56th GST Council"},{"value":"18%","label":"standard rate, e.g. air-conditioners, televisions, small cars, cement","source":"56th GST Council"},{"value":"40%","label":"de-merit rate, e.g. pan masala, cigarettes, aerated drinks, motorcycles above 350 cc","source":"56th GST Council; PTI"}]}
@@ -87,7 +87,7 @@ Some items went the other way. Motorcycles above 350 cc, aerated and caffeinated
 
 ## What happened to tobacco and the compensation cess?
 
-**Since 1 February 2026, pan masala, cigarettes and tobacco products attract 40% GST, and the compensation cess has ended.** The 56th Council kept the old rates on these goods until loan and interest obligations under the compensation cess account were paid off. At the end of December 2025 the government notified 1 February as the date from which the compensation cess would "cease to exist", PTI reported on 1 January 2026.
+**Since February 1, 2026, pan masala, cigarettes and tobacco products attract 40% GST, and the compensation cess has ended.** The 56th Council kept the old rates on these goods until loan and interest obligations under the compensation cess account were paid off. At the end of December 2025 the government notified February 1 as the date from which the compensation cess would "cease to exist", PTI reported on January 1, 2026.
 
 From that date, tobacco products also attract an additional excise duty, and pan masala a new Health and National Security Cess, both on top of GST. Biris are taxed at 18%.
 
@@ -95,7 +95,7 @@ The 101st Constitution Amendment required Parliament to compensate states for re
 
 ## Who decides GST rates?
 
-**The GST Council recommends rates and rules, and the Centre and states give effect to them through notifications and laws.** The Council was created by the Constitution (101st Amendment) Act, 2016, and first met on 22 and 23 September 2016.
+**The GST Council recommends rates and rules, and the Centre and states give effect to them through notifications and laws.** The Council was created by the Constitution (101st Amendment) Act, 2016, and first met on September 22 and 23, 2016.
 
 Its members are the Union Finance Minister, the Union Minister of State for Revenue or Finance, and one minister nominated by each state. The Revenue Secretary is its ex-officio secretary.
 
@@ -103,7 +103,7 @@ Most decisions are taken by consensus. When there is a vote, the Centre's vote c
 
 ## Is a Council decision law?
 
-**No, a recommendation becomes law only once it is notified or the GST Acts are amended.** The release after the 57th meeting on 8 October 2026 says its recommendations "would be given effect through the relevant circulars/ notifications/ law amendments". Its proposal to withdraw officers' arrest powers, for example, requires deleting section 69 of the Central GST Act.
+**No, a recommendation becomes law only once it is notified or the GST Acts are amended.** The release after the 57th meeting on October 8, 2026, says its recommendations "would be given effect through the relevant circulars/ notifications/ law amendments". Its proposal to withdraw officers' arrest powers, for example, requires deleting section 69 of the Central GST Act.
 
 The 57th meeting left the slabs unchanged. It made a few item-level decisions, such as NIL GST on psyllium seeds and 5% on delivery services through e-commerce operators.
 
@@ -111,14 +111,14 @@ The 57th meeting left the slabs unchanged. It made a few item-level decisions, s
 
 **Both the Centre and the states levy GST on sales within a state, while the Centre collects GST on inter-state trade and shares it out.** Article 246A of the Constitution gives Parliament and every state legislature the power to make laws on GST. Under Article 269A, GST on inter-state supplies is "levied and collected" by the Government of India and "apportioned between the Union and the States" in a manner Parliament sets by law on the Council's recommendation.
 
-The Centre's tax revenue is then shared again through the Finance Commission. The 16th Finance Commission, whose report was tabled on 1 February 2026, kept the states' share of the divisible pool of central taxes at 41% for 2026–31, according to PRS Legislative Research. The divisible pool leaves out cesses, surcharges and the cost of collection.
+The Centre's tax revenue is then shared again through the Finance Commission. The 16th Finance Commission, whose report was tabled on February 1, 2026, kept the states' share of the divisible pool of central taxes at 41% for 2026–31, according to PRS Legislative Research. The divisible pool leaves out cesses, surcharges and the cost of collection.
 
 ## How much does GST raise?
 
 **Gross GST collections were about ₹2.04 lakh crore in September 2026, up 14.7% on a year earlier.** GST on imports grew 25.9% and domestic GST 10.1%, according to provisional data reported by Business Today. Net collections after refunds were ₹1.77 lakh crore.
 
-For April to September 2026, gross collections came to ₹12.46 lakh crore, up 11.6%. The September 2025 base came just before the rate cuts took effect on 22 September 2025.
+For April to September 2026, gross collections came to ₹12.46 lakh crore, up 11.6%. The September 2025 base came just before the rate cuts took effect on September 22, 2025.
 
 ```timeline
-{"title":"GST: key dates","items":[{"date":"8 Sep 2016","text":"President assents to the 101st Constitution Amendment, creating the GST Council"},{"date":"22–23 Sep 2016","text":"First GST Council meeting"},{"date":"3 Sep 2025","text":"56th Council recommends the 5% and 18% two-rate structure, with 40% for de-merit goods"},{"date":"22 Sep 2025","text":"New rates take effect for services and most goods"},{"date":"1 Feb 2026","text":"Compensation cess ends; tobacco and pan masala move to 40% GST"},{"date":"8 Oct 2026","text":"57th Council keeps slabs, recommends removing arrest powers"}]}
+{"title":"GST: key dates","items":[{"date":"Sep 8, 2016","text":"President assents to the 101st Constitution Amendment, creating the GST Council"},{"date":"Sep 22-23, 2016","text":"First GST Council meeting"},{"date":"Sep 3, 2025","text":"56th Council recommends the 5% and 18% two-rate structure, with 40% for de-merit goods"},{"date":"Sep 22, 2025","text":"New rates take effect for services and most goods"},{"date":"Feb 1, 2026","text":"Compensation cess ends; tobacco and pan masala move to 40% GST"},{"date":"Oct 8, 2026","text":"57th Council keeps slabs, recommends removing arrest powers"}]}
 ```

@@ -22,7 +22,7 @@ hero:
     value: "Third straight rise for commercial LPG"
 related: [bpcl-q2-profit-falls-21-per-cent-marketing-margins-lpg, pakistan-suspends-iran-trade-taftan-gabd-lpg]
 seo:
-  description: "Commercial 19-kg LPG prices rose by ₹10 to ₹17 on 1 November 2026, to ₹2,820 in Delhi and ₹2,971 in Kolkata. Domestic cylinder unchanged at ₹942."
+  description: "Commercial 19-kg LPG prices rose by ₹10 to ₹17 on November 1, 2026, to ₹2,820 in Delhi and ₹2,971 in Kolkata. Domestic cylinder unchanged at ₹942."
 sources:
   - title: "Gas Cylinder Prices Hike From November 1, 2026: 19 Kg Commercial LPG Prices Hiked By Rs 10-17 Before Diwali"
     publisher: "Goodreturns"
@@ -42,11 +42,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov 2026, monthly OMC price revision effective from Sunday; first reports Goodreturns 08:29 IST and Lalluram 08:45 IST."
+    - "event: Nov 1, 2026, monthly OMC price revision effective from Sunday; first reports Goodreturns 08:29 IST and Lalluram 08:45 IST."
     - "Delhi ₹2,820 (+₹10), Chennai ₹2,994.50 (+₹11.50): both sources agree. Mumbai: Goodreturns ₹2,775 from ₹2,764.50, Lalluram ₹2,774.50; copy gives the ₹10.50 rise and ₹2,775. Kolkata: Goodreturns ₹2,971 from ₹2,954; Lalluram text ₹2,971, table ₹2,964; copy uses ₹2,971."
-    - "Cumulative rise since August (Delhi ₹82, Kolkata ₹98.5) from Lalluram only. Year-ago Delhi price ₹1,590.50 matches Republic World 1 Nov 2025 report."
-    - "Aramco November CP (propane $720/t, +$40; butane $780/t, +$50) from Goodreturns only. Domestic unchanged since 7 June (₹29 rise) per Goodreturns."
-    - "ATF revision for 1 Nov not found in any source checked by 09:05; not mentioned. No OMC statement or quote found; IOC website not checked."
+    - "Cumulative rise since August (Delhi ₹82, Kolkata ₹98.5) from Lalluram only. Year-ago Delhi price ₹1,590.50 matches Republic World Nov 1, 2025, report."
+    - "Aramco November CP (propane $720/t, +$40; butane $780/t, +$50) from Goodreturns only. Domestic unchanged since June 7 (₹29 rise) per Goodreturns."
+    - "ATF revision for Nov 1 not found in any source checked by 09:05; not mentioned. No OMC statement or quote found; IOC website not checked."
 ---
 
 Restaurants, hotels and sweet shops will pay more for cooking gas this month. Oil marketing companies raised the price of the **19-kg commercial LPG cylinder by ₹10 to ₹17** in the metros from Sunday, the third increase in as many months.
@@ -59,7 +59,7 @@ In Delhi the cylinder now costs **₹2,820, up ₹10** from ₹2,810. Mumbai buy
 
 The small monthly steps add up. Across the three revisions since August, the Delhi cylinder has risen by ₹82 and the Kolkata one by ₹98.50. A year ago the same cylinder cost ₹1,590.50 in the capital, so businesses are now paying **about 77% more** than they did in November 2025.
 
-Households are spared for now. The **14.2-kg domestic cylinder is unchanged**, at ₹942 in Delhi, where it has stayed since a ₹29 increase on 7 June.
+Households are spared for now. The **14.2-kg domestic cylinder is unchanged**, at ₹942 in Delhi, where it has stayed since a ₹29 increase on June 7.
 
 ## Why prices keep climbing
 

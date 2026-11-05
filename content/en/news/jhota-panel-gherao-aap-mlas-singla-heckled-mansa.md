@@ -11,8 +11,8 @@ published: 2026-10-17T15:30:00+05:30
 location: Mansa
 keyPoints:
   - "Protesters, Nihangs among them, **chased Mansa MLA Vijay Singla** as he left the civil hospital on Saturday."
-  - "The action committee will **gherao AAP MLAs' and ministers' homes and offices on 19 October**."
-  - "Mansa's Dussehra committee has **called off the 20 October celebrations** in mourning."
+  - "The action committee will **gherao AAP MLAs' and ministers' homes and offices on October 19**."
+  - "Mansa's Dussehra committee has **called off the October 20 celebrations** in mourning."
 hero:
   need: "AAP MLA Vijay Singla of Mansa; no images of the victim or the shooting"
   suggested_source: "Vijay Singla"
@@ -22,7 +22,7 @@ hero:
     value: "Monday: AAP homes to be picketed"
 related: [jhota-accused-police-remand-wife-held-mann-phillaur-review, mann-phillaur-punjab-defamed-drugs-mha-seeks-reports, punjab-bandh-jhota-mansa-shutdown-response, mansa-anti-drug-activist-parvinder-jhota-shot-dead]
 seo:
-  description: "AAP MLA Vijay Singla faced protesters at Mansa civil hospital as the Parvinder Jhota action committee announced a 19 October gherao of AAP MLAs and ministers."
+  description: "AAP MLA Vijay Singla faced protesters at Mansa civil hospital as the Parvinder Jhota action committee announced a October 19 gherao of AAP MLAs and ministers."
 sources:
   - title: "4 days after Jhota's killing, AAP MLA Vijay Singla visits injured at hospital, faces protesters' ire"
     publisher: "The Tribune"
@@ -42,10 +42,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "Singla hospital visit, Nihang protesters, quotes, DC Navjot Kaur, injury details, Tinkoni protest site: Tribune (Archit Watts), 17 Oct 2:39 pm. Single outlet for the visit."
-    - "Gherao plan, lahnat pattars, Gargaj, memorial and Rs 10 lakh demands, Dussehra: Tribune 16 Oct 5:35 pm; gherao date also in The Statesman (16 Oct) and ETV Bharat Punjabi headline."
-    - "Centre's letter, Neelam Rani's six-day remand, two arson/vandalism cases, DIG Harjit Singh: The Statesman, 16 Oct 8:01 pm. Earlier stories spell the DIG 'Harjeet'; copy follows The Statesman here."
-    - "The Statesman says the post-mortem had not been conducted as of 16 Oct evening; not rechecked on Saturday."
+    - "Singla hospital visit, Nihang protesters, quotes, DC Navjot Kaur, injury details, Tinkoni protest site: Tribune (Archit Watts), Oct 17 2:39 pm. Single outlet for the visit."
+    - "Gherao plan, lahnat pattars, Gargaj, memorial and Rs 10 lakh demands, Dussehra: Tribune Oct 16 5:35 pm; gherao date also in The Statesman (Oct 16) and ETV Bharat Punjabi headline."
+    - "Centre's letter, Neelam Rani's six-day remand, two arson/vandalism cases, DIG Harjit Singh: The Statesman, Oct 16 8:01 pm. Earlier stories spell the DIG 'Harjeet'; copy follows The Statesman here."
+    - "The Statesman says the post-mortem had not been conducted as of Oct 16 evening; not rechecked on Saturday."
     - "Drug inspector questioning left out (unnamed sources only)."
 ---
 
@@ -63,11 +63,11 @@ He is the first leader of the ruling party to visit the injured. No AAP leader h
 
 ## Monday's gherao
 
-On Friday the action committee said it would gherao the residences and offices of AAP MLAs and ministers on 19 October and paste "lahnat pattars", letters of condemnation, outside them. It thanked the acting Akal Takht Jathedar, Kuldeep Singh Gargaj, for calling Jhota a martyr.
+On Friday the action committee said it would gherao the residences and offices of AAP MLAs and ministers on October 19 and paste "lahnat pattars", letters of condemnation, outside them. It thanked the acting Akal Takht Jathedar, Kuldeep Singh Gargaj, for calling Jhota a martyr.
 
 The committee wants a memorial in Jhota's name, either a stadium or a trauma centre, which it says Mansa district has long needed, and ₹10 lakh in compensation from the state for each of the four injured. Its earlier demands stand: the resignation of Chief Minister Bhagwant Mann and Director General of Police Gaurav Yadav, and a CBI investigation. Jhota's father, Bhim Singh, has said the family will not cremate his son until they are met.
 
-Bhim Singh asked people in Mansa to go ahead with Dussehra, but the town's Dussehra committee has decided not to hold celebrations on 20 October.
+Bhim Singh asked people in Mansa to go ahead with Dussehra, but the town's Dussehra committee has decided not to hold celebrations on October 20.
 
 ## Pressure from the Centre
 

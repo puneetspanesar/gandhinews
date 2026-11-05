@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: IANS via English Punjab Kesari, 2:51 pm, dateline Kolkata 24 Oct. Accused not named. Incident Friday night; court appearance in Barrackpore on Saturday as reported."
+    - "Single source: IANS via English Punjab Kesari, 2:51 pm, dateline Kolkata Oct 24. Accused not named. Incident Friday night; court appearance in Barrackpore on Saturday as reported."
     - "Officer quote verbatim, from an unnamed senior officer of Barrackpore Police Commissionerate; attributed to the commissionerate, not as an anonymous named quote."
 ---
 

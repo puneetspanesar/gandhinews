@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Preview. 115th Falcon 9 mission of 2026 per Next Spaceflight. Window 6:30 am EDT = 10:30 UTC = 4:00 pm IST, one hour. Booster B1085 per Next Spaceflight. Payload customers not named in any source read, so none named. MMX time: Spaceflight Now lists 19:41:03 UTC 19 Oct (4:41 am JST 20 Oct... Spaceflight Now text said 4:41:03 p.m. JST, inconsistent with its UTC figure); our earlier story says 4:41 am JST Tuesday = 1:11 am IST Tuesday, which matches 19:41 UTC. Used 1:11 am IST."
+    - "Preview. 115th Falcon 9 mission of 2026 per Next Spaceflight. Window 6:30 am EDT = 10:30 UTC = 4:00 pm IST, one hour. Booster B1085 per Next Spaceflight. Payload customers not named in any source read, so none named. MMX time: Spaceflight Now lists 19:41:03 UTC Oct 19 (4:41 am JST Oct 20... Spaceflight Now text said 4:41:03 p.m. JST, inconsistent with its UTC figure); our earlier story says 4:41 am JST Tuesday = 1:11 am IST Tuesday, which matches 19:41 UTC. Used 1:11 am IST."
 ---
 
 SpaceX is due to launch its fifth Bandwagon rideshare mission from Florida on Monday, the first of four launches planned around the world over the next few days, including Japan's attempt to bring back soil from a moon of Mars.
@@ -55,4 +55,4 @@ The first stage, booster B1085, will fly a south-easterly trajectory. It will be
 
 Hours later, Japan's H3 rocket is set to launch the Martian Moons eXploration (MMX) probe from the Yoshinobu Launch Complex at Tanegashima at 1:11 am IST on Tuesday. The JAXA mission aims to land on Phobos and return the first samples from a Martian moon.
 
-SpaceX then plans to launch 27 Starlink V2 Mini satellites from Vandenberg Space Force Base in California, with the window opening at 22:14 UTC on 20 October (3:44 am IST on Wednesday). Rocket Lab's Electron is due to follow no earlier than 21 October from its Mahia pad in New Zealand, carrying three HawkEye 360 satellites on a mission named "We're Not Hawking Around".
+SpaceX then plans to launch 27 Starlink V2 Mini satellites from Vandenberg Space Force Base in California, with the window opening at 22:14 UTC on October 20 (3:44 am IST on Wednesday). Rocket Lab's Electron is due to follow no earlier than October 21 from its Mahia pad in New Zealand, carrying three HawkEye 360 satellites on a mission named "We're Not Hawking Around".

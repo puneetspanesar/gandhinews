@@ -22,7 +22,7 @@ hero:
     value: "Sikkim BJP stands by Gautam"
 related: [ankita-bhandari-parents-protest-dushyant-gautam-sikkim-governor, abhishek-banerjee-ankita-bhandari-parents-india-versus-bjp]
 seo:
-  description: "Sikkim BJP on 17 October backed Dushyant Gautam's appointment as Governor and said the CBI probe into Ankita Bhandari's murder should not be given a political colour."
+  description: "Sikkim BJP on October 17 backed Dushyant Gautam's appointment as Governor and said the CBI probe into Ankita Bhandari's murder should not be given a political colour."
 sources:
   - title: "सिक्किम भाजपा ने दुष्यंत गौतम की राज्यपाल पद पर नियुक्ति का किया समर्थन"
     publisher: "ThePrint Hindi (Bhasha)"
@@ -38,7 +38,7 @@ verification:
   status: approved
   notes:
     - "Single source (Bhasha, 10:49 pm IST). Statement quotes translated from Hindi. No named BJP spokesperson."
-    - "Allegations against Gautam are unproven; he denies them (per site's 14 Oct story)."
+    - "Allegations against Gautam are unproven; he denies them (per site's Oct 14 story)."
 ---
 
 The Sikkim unit of the Bharatiya Janata Party on Saturday backed the appointment of Dushyant Kumar Gautam as Governor of the state, and said the inquiry into the 2022 murder of Uttarakhand receptionist Ankita Bhandari should be allowed to proceed independently.

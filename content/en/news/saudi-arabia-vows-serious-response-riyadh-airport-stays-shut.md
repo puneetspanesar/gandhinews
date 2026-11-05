@@ -76,7 +76,7 @@ Abdulaziz said the kingdom would keep supplying oil to customers at home and abr
 
 Brent crude rose above $105 a barrel on Monday, a two-week high. The East-West pipeline, which lets Saudi crude reach the Red Sea and bypass the Strait of Hormuz, was pumping about 5.8 million barrels a day in early October after Houthi attacks in September halted it.
 
-Foreign airlines are staying away. Lufthansa has cancelled all Riyadh flights until 16 October and Air France-KLM has suspended them until the end of the month. The US Federal Aviation Administration has told American carriers to take care when flying to or over Saudi Arabia, and the US embassy has urged "extreme caution" at all major Saudi airports.
+Foreign airlines are staying away. Lufthansa has cancelled all Riyadh flights until October 16 and Air France-KLM has suspended them until the end of the month. The US Federal Aviation Administration has told American carriers to take care when flying to or over Saudi Arabia, and the US embassy has urged "extreme caution" at all major Saudi airports.
 
 ## Will the US join in?
 

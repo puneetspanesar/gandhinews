@@ -10,7 +10,7 @@ standfirst: "Mohammed Yusuf Ali died after Saturday's missile attack on King Kha
 published: 2026-10-13T05:00:00+05:30
 location: Riyadh
 keyPoints:
-  - "India's Ambassador to Saudi Arabia, Vipul, **attended the funeral of Mohammed Yusuf Ali**, the Indian killed in the 10 October attack."
+  - "India's Ambassador to Saudi Arabia, Vipul, **attended the funeral of Mohammed Yusuf Ali**, the Indian killed in the October 10 attack."
   - "Of the 11 Indians injured, **three are in intensive care but stable** and two are in general wards."
   - "The embassy has asked Indians in the kingdom to **follow local rules** and not to film or share attack sites."
 hero:
@@ -53,7 +53,7 @@ verification:
   notes:
     - "Name spelling: IANS (Siasat) has 'Mohammed Yusuf Ali'; ANI (Tribune) has 'Mohammed Yousef Ali'. Used Yusuf; check against the Embassy's X post."
     - "Hometown (Hyderabad) and injuries to two sons and an aunt are from IANS only."
-    - "Funeral date and place not given in any source; the Embassy's post about it was dated Monday 12 Oct (ANI). Whether the body is being repatriated or was buried in Saudi Arabia is not stated; Gulf News (11 Oct) says the Embassy offered help with early repatriation."
+    - "Funeral date and place not given in any source; the Embassy's post about it was dated Monday, Oct 12 (ANI). Whether the body is being repatriated or was buried in Saudi Arabia is not stated; Gulf News (Oct 11) says the Embassy offered help with early repatriation."
     - "Embassy and Jaishankar quotes from ANI (Tribune) and IANS (Siasat); Embassy X posts not opened directly."
     - "Ambassador is named 'Vipul' (single name) in ANI copy."
 ---
@@ -62,7 +62,7 @@ India's Ambassador to Saudi Arabia, Vipul, attended the funeral of Mohammed Yusu
 
 "Ambassador conveyed his heartfelt condolences to the bereaved family and prayed for the eternal peace of the departed soul," the embassy said. Embassy officials attended with him.
 
-Ali, from Hyderabad, was among 11 Indians hurt when the missile struck a passenger terminal on 10 October. Two of his sons and an aunt were also injured. He died of his injuries, raising the death toll from the attack to 13. More than 300 people were wounded.
+Ali, from Hyderabad, was among 11 Indians hurt when the missile struck a passenger terminal on October 10. Two of his sons and an aunt were also injured. He died of his injuries, raising the death toll from the attack to 13. More than 300 people were wounded.
 
 ## Three still in intensive care
 

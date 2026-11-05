@@ -22,7 +22,7 @@ hero:
     value: "'It can never be justified'"
 related: [modi-chinmaya-amrit-mahotsav-bharat-mandapam-youth, india-condemns-karak-church-attack-jordan-mea, guterres-un-day-81-years-dialogue-over-division]
 seo:
-  description: "EAM S. Jaishankar said on 25 October 2026 at Bharat Mandapam that using terrorism as an instrument of statecraft is unacceptable and called for UN reform."
+  description: "EAM S. Jaishankar said on October 25, 2026, at Bharat Mandapam that using terrorism as an instrument of statecraft is unacceptable and called for UN reform."
 sources:
   - title: "\"Terrorism can never be justified or rationalised\": EAM Jaishankar calls for stronger global resolve"
     publisher: "ANI"

@@ -10,7 +10,7 @@ standfirst: "The boat was carrying 305 people towards Yemen when it went down ne
 published: 2026-10-12T15:00:00+05:30
 location: Geneva
 keyPoints:
-  - "A boat carrying 305 migrants sank off Djibouti on the night of 8-9 October; **at least 139 people died**."
+  - "A boat carrying 305 migrants sank off Djibouti on the night of October 8-9; **at least 139 people died**."
   - "At least 15 children are among the dead, **84 people are missing** and all 82 survivors are Ethiopian."
   - "The UN migration agency called it **one of the deadliest shipwrecks** on the route from the Horn of Africa to the Gulf."
 hero:
@@ -54,16 +54,16 @@ verification:
     - "The IOM release and the UN News story could not be opened (fetch error). Figures and IOM quotes come from AP (via PBS), DevelopmentAid (which reproduces the UN News release) and Newsweek; all three agree on 305 aboard, 139 dead, 84 missing, 82 survivors, all Ethiopian."
     - "Children: Newsweek gives the breakdown of the first 109 bodies (52 men, 42 women, 15 children: nine girls, six boys); AP's caption says 139 dead 'including 15 children'. Story says 'at least 15 children'."
     - "Place name spelt Guhere (AP, Newsweek) and Guehere (DevelopmentAid); story says 'near Obock' only."
-    - "Coissac's 'mainly because it was overcrowded' and 'They all have a mother, a father' lines are from AP; 'devastating loss of life' appears in AP and Newsweek. DevelopmentAid dates a separate Coissac remark ('overlapping emergencies') to a 6 October Geneva briefing; used with that date."
+    - "Coissac's 'mainly because it was overcrowded' and 'They all have a mother, a father' lines are from AP; 'devastating loss of life' appears in AP and Newsweek. DevelopmentAid dates a separate Coissac remark ('overlapping emergencies') to a October 6 Geneva briefing; used with that date."
     - "64 survivors being assisted at the Obock centre 'as of Sunday' is from Newsweek only."
-    - "Route figures (900+ dead or missing in 2025, attempts up 18%) are IOM figures as reported by AP and Newsweek. The 20,000 movements and 3,700 refugees since 10 September are from DevelopmentAid's copy of the UN release."
+    - "Route figures (900+ dead or missing in 2025, attempts up 18%) are IOM figures as reported by AP and Newsweek. The 20,000 movements and 3,700 refugees since September 10 are from DevelopmentAid's copy of the UN release."
     - "Dateline Geneva: IOM headquarters; AP's report was filed from Geneva."
     - "No link drawn to the fighting in Ethiopia's Tigray region; no source connected it to this crossing."
 ---
 
 At least 139 people, among them at least 15 children, died when an overcrowded boat carrying migrants from Djibouti towards Yemen capsized off the Djiboutian coast, the UN migration agency said on Sunday. Another 84 people are missing.
 
-The boat had 305 people on board. It went down near Guhere, north of the port town of Obock, during the night of 8-9 October, according to survivors' accounts. The International Organization for Migration (IOM) called it one of the deadliest shipwrecks recorded on the so-called Eastern Route, which runs from the Horn of Africa across the Gulf of Aden to the Arabian Peninsula.
+The boat had 305 people on board. It went down near Guhere, north of the port town of Obock, during the night of October 8-9, according to survivors' accounts. The International Organization for Migration (IOM) called it one of the deadliest shipwrecks recorded on the so-called Eastern Route, which runs from the Horn of Africa across the Gulf of Aden to the Arabian Peninsula.
 
 ```infographic
 {"title":"The Obock shipwreck","items":[{"icon":"users-three","value":"305","label":"people on board","text":"Sailing from Djibouti towards Yemen."},{"icon":"warning","value":"139","label":"confirmed dead","text":"At least 15 of them children."},{"icon":"question","value":"84","label":"still missing","text":"Search operations are continuing in the Gulf of Aden."},{"icon":"users","value":"82","label":"survivors","text":"All Ethiopian nationals."}]}
@@ -71,13 +71,13 @@ The boat had 305 people on board. It went down near Guhere, north of the port to
 
 ## "Mainly because it was overcrowded"
 
-Alexandre Coissac, the IOM's chief of mission in Djibouti, said the migrants boarded on the evening of 8 October and that the boat sank soon afterwards, close to shore, "mainly because it was overcrowded".
+Alexandre Coissac, the IOM's chief of mission in Djibouti, said the migrants boarded on the evening of October 8 and that the boat sank soon afterwards, close to shore, "mainly because it was overcrowded".
 
 Bodies kept reaching the shore. The first count stood at 109, and rose to 139 as 30 more were recovered. The IOM warned the toll could rise: the official figure includes only those buried by Djiboutian authorities, while others were buried by fellow migrants and will be added once the authorities confirm them. Coissac said the dead were buried without names in a common grave, and that local authorities were overwhelmed.
 
 > They all have a mother, a father, and we may never learn what happened.
 >
-> Source: Alexandre Coissac, IOM chief of mission in Djibouti, 11 October 2026
+> Source: Alexandre Coissac, IOM chief of mission in Djibouti, October 11, 2026
 
 All 82 survivors are Ethiopian. The IOM is treating them at its Migrant Response Centre in Obock, where they are receiving medical care, food, shelter and psychological support. Some learned there that relatives had died; others phoned home to say they were alive.
 
@@ -85,7 +85,7 @@ All 82 survivors are Ethiopian. The IOM is treating them at its Migrant Response
 
 Tens of thousands of people from the Horn of Africa make the crossing through Djibouti and the Bab el-Mandeb strait each year, heading for Gulf countries in search of work and safety. The IOM says more than 900 migrants died or went missing on the route last year, while the number attempting the journey rose by 18%. In March this year, another boat sank off Djibouti, leaving nine dead and 45 missing.
 
-The flow has not slowed despite renewed full-scale fighting in Yemen between the Saudi-backed government and the Iran-backed Houthis. Since 10 September the IOM has recorded more than 20,000 movements into Djibouti from Ethiopia. Over the same period, more than 3,700 refugees arrived in Djibouti from Yemen, travelling the other way. On 6 October Coissac described the country as facing "overlapping emergencies".
+The flow has not slowed despite renewed full-scale fighting in Yemen between the Saudi-backed government and the Iran-backed Houthis. Since September 10 the IOM has recorded more than 20,000 movements into Djibouti from Ethiopia. Over the same period, more than 3,700 refugees arrived in Djibouti from Yemen, travelling the other way. On October 6 Coissac described the country as facing "overlapping emergencies".
 
 "No one gets into a boat like that unless they believe there is no other safe way," said IOM Director General Amy Pope. She said such deaths cannot be treated as normal, and urged governments and donors to act on safe and legal pathways before the next tragedy.
 

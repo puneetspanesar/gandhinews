@@ -37,15 +37,15 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov 00:00 IST, 70th Rajyotsava begins; traffic advisory reported 1 Nov 02:48 IST; Kanteerava programme today, start time not reported. Day-of preview."
+    - "event: Nov 1 00:00 IST, 70th Rajyotsava begins; traffic advisory reported Nov 1 02:48 IST; Kanteerava programme today, start time not reported. Day-of preview."
     - "Siddaramaiah as chief guest, 20,000+ children, 300-400 buses, diversion route: Country and Politics only (02:48 IST). Deccan Herald advisory page could not be fetched."
-    - "Sunday school order and 'should not shift the programme to another day': Jagran (29 Oct, updated 31 Oct), from the School Education and Literacy Department circular. No official named."
+    - "Sunday school order and 'should not shift the programme to another day': Jagran (Oct 29, updated Oct 31), from the School Education and Literacy Department circular. No official named."
     - "Rajyotsava awards and Governor's programme not found in sources read; left out."
 ---
 
 Karnataka celebrates its **70th Kannada Rajyotsava** today, with schoolchildren at the centre of the state-level celebration. The Department of Public Instruction is holding the state-level programme at Kanteerava Stadium in Bengaluru, with **Chief Minister Siddaramaiah as chief guest**.
 
-More than 20,000 pupils are expected, arriving in **300 to 400 school buses**. The day marks 1 November 1956, when the Kannada-speaking regions were brought together in what was then Mysore State. The state took the name Karnataka in 1973.
+More than 20,000 pupils are expected, arriving in **300 to 400 school buses**. The day marks November 1, 1956, when the Kannada-speaking regions were brought together in what was then Mysore State. The state took the name Karnataka in 1973.
 
 ```photo
 {"n":1,"subject":"Kannada flag","caption":"The red and yellow Kannada flag, hoisted across Karnataka on Rajyotsava day.","alt":"The red and yellow Kannada flag"}
@@ -53,7 +53,7 @@ More than 20,000 pupils are expected, arriving in **300 to 400 school buses**. T
 
 ## No day off for schools
 
-The Sunday has not let schools off the hook. The School Education and Literacy Department has told government, aided and unaided private primary and high schools, including those in Bengaluru, to **celebrate on 1 November itself**. Schools "should not shift the programme to another day", the department said, and headmasters have been asked to arrange cultural programmes, Kannada songs and speeches.
+The Sunday has not let schools off the hook. The School Education and Literacy Department has told government, aided and unaided private primary and high schools, including those in Bengaluru, to **celebrate on November 1 itself**. Schools "should not shift the programme to another day", the department said, and headmasters have been asked to arrange cultural programmes, Kannada songs and speeches.
 
 ## Roads to avoid
 

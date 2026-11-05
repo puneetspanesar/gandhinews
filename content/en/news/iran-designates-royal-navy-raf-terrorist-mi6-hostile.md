@@ -22,7 +22,7 @@ hero:
     value: "Tehran hits back at London"
 related: [iran-araghchi-two-day-hormuz-plan-rezaei-vance-letter, two-ships-sink-near-hormuz-pezeshkian-surrender, netanyahu-trump-eliminate-iran-regime-pezeshkian-distrust]
 seo:
-  description: "Iran on 1 November 2026 designated the UK's Royal Navy and Royal Air Force as terrorist organisations and classified MI6 as a hostile group, citing Britain's IRGC listing."
+  description: "Iran on November 1, 2026, designated the UK's Royal Navy and Royal Air Force as terrorist organisations and classified MI6 as a hostile group, citing Britain's IRGC listing."
 sources:
   - title: "Iran designates UK's Royal Navy, Royal Air Force as \"terrorist organisations\", classifies MI6 as \"hostile group\" (ANI)"
     publisher: "The Tribune"
@@ -37,10 +37,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov 2026, Iranian MFA announcement on Sunday; first report (ANI via The Tribune) timestamped 2:52 pm IST. Exact hour of the Tehran announcement not given; judged inside the 14:05 to 16:05 IST window from the report time."
+    - "event: Nov 1, 2026, Iranian MFA announcement on Sunday; first report (ANI via The Tribune) timestamped 2:52 pm IST. Exact hour of the Tehran announcement not given; judged inside the 14:05 to 16:05 IST window from the report time."
     - "Single source chain (ANI/Tribune). No UK government response reported at time of writing; copy says so."
     - "Akraminia quotes ('immediate, crushing response', 'even more extensive than in the past') verbatim from the same ANI piece. Up to 14 years sentence under State Threats Act cited by ANI from Al Jazeera."
-    - "Trump remarks were Saturday 31 Oct at Mar-a-Lago (Tribune 8:42 am IST); used only as background."
+    - "Trump remarks were Saturday, Oct 31 at Mar-a-Lago (Tribune 8:42 am IST); used only as background."
 cover:
   template: breaking
   label: West Asia
@@ -58,7 +58,7 @@ The Iranian foreign ministry said the measures follow a resolution of the **Supr
 {"n":1,"subject":"SIS Building","caption":"The SIS Building at Vauxhall Cross in London, headquarters of MI6, which Iran now classifies as a hostile group.","alt":"The SIS Building, headquarters of MI6, on the Thames in London"}
 ```
 
-Tehran accused Britain of aiding the US-Israeli war against Iran by **providing military and logistical bases** in British-controlled territories. It also pointed to London's decision of 13 July 2026 to place the IRGC under the State Threats Act 2026, a new law that lets the British government list foreign state bodies seen as a threat to national security. Supporting the IRGC in the UK can now carry a sentence of up to 14 years.
+Tehran accused Britain of aiding the US-Israeli war against Iran by **providing military and logistical bases** in British-controlled territories. It also pointed to London's decision of July 13, 2026, to place the IRGC under the State Threats Act 2026, a new law that lets the British government list foreign state bodies seen as a threat to national security. Supporting the IRGC in the UK can now carry a sentence of up to 14 years.
 
 The ministry described its step as lawful and reciprocal and said **Britain would bear responsibility** for the consequences. There was no immediate response from the British government.
 

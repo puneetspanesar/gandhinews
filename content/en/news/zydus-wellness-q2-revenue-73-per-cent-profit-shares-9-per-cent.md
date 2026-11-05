@@ -39,7 +39,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: results and share move reported 12:41 pm to 12:58 pm IST, 3 Nov 2026 (Upstox liveblog entries 12:41 profit, 12:45 share high, 12:58 revenue)."
+    - "event: results and share move reported 12:41 pm to 12:58 pm IST, Nov 3, 2026 (Upstox liveblog entries 12:41 profit, 12:45 share high, 12:58 revenue)."
     - "Single source (Upstox liveblog). Figures verbatim: profit 5.1 cr vs loss 52.8 cr; revenue 1,126.6 vs 650.5 cr; intraday high 526.85, up 9.01%. Reason for revenue jump not given in source; not stated. Sharvil Patel's role as chairman from general knowledge of the group, used only in hero need/alt; check before relying on it."
 infographic:
   kicker: September quarter results
@@ -72,7 +72,7 @@ infographic:
 
 Zydus Wellness **returned to profit** in the September quarter on Tuesday, and its shares rose sharply as investors cheered a sharp jump in its sales.
 
-The Ahmedabad-based consumer products company, part of the Zydus group, reported consolidated net profit of ₹5.1 crore for the three months to 30 September 2026. A year earlier it had **lost ₹52.8 crore**.
+The Ahmedabad-based consumer products company, part of the Zydus group, reported consolidated net profit of ₹5.1 crore for the three months to September 30, 2026. A year earlier it had **lost ₹52.8 crore**.
 
 ```photo
 {"n":1,"subject":"Zydus Corporate Park Ahmedabad","caption":"The Zydus group's head office in Ahmedabad; Zydus Wellness is the group's consumer products company.","alt":"Zydus Corporate Park in Ahmedabad"}

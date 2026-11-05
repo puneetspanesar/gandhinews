@@ -22,7 +22,7 @@ hero:
     value: "Sirens from Riyadh to the Red Sea"
 related: [india-condemns-houthi-attacks-saudi-airports-riyadh, indian-embassy-riyadh-advisory-shelter-indoors-drones, hyderabad-man-killed-riyadh-airport-strike-envoy-attends-funeral, saudi-arabia-vows-serious-response-riyadh-airport-stays-shut, iran-abdollahi-no-us-warships-gulf-pezeshkian-moscow]
 seo:
-  description: "Saudi air defences destroyed Houthi missiles aimed at Riyadh, Taif and Yanbu on 24 October as civil defence alerts briefly sounded over Makkah and Jeddah."
+  description: "Saudi air defences destroyed Houthi missiles aimed at Riyadh, Taif and Yanbu on October 24 as civil defence alerts briefly sounded over Makkah and Jeddah."
 sources:
   - title: "Coalition forces down missile and drone as Houthis keep up strikes on Saudi Arabia"
     publisher: "Arab News"
@@ -87,7 +87,7 @@ The strikes came a day after the coalition said it had shot down two missiles ai
 
 ## A war that has moved north
 
-Saudi Arabia has come under repeated attack since a four-year truce in Yemen broke down in July. The deadliest so far was the missile strike on King Khalid International Airport in Riyadh on 10 October, which killed 13 people. One of the dead was Mohammed Yusuf Ali, a man from Hyderabad, and 11 Indians were among the injured.
+Saudi Arabia has come under repeated attack since a four-year truce in Yemen broke down in July. The deadliest so far was the missile strike on King Khalid International Airport in Riyadh on October 10, which killed 13 people. One of the dead was Mohammed Yusuf Ali, a man from Hyderabad, and 11 Indians were among the injured.
 
 India's embassy in Riyadh has since told Indians in the kingdom to shelter indoors during alerts, keep away from windows and, if driving, stop away from bridges and tall buildings. The advice gives 911 as the emergency number in Riyadh, Makkah, Madinah and the Eastern Province, and 998 elsewhere.
 

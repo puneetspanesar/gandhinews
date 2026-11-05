@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single detailed source: Dawn (Baqir Sajjad Syed), print 17 Oct, 4:56 am PKT; briefing held Friday 16 Oct. Rajnath's remarks at the National Defence Conclave 2026 in Delhi were 'the day before' (Thursday 15 Oct) and are paraphrased by Dawn; we did not find his exact words, so they are paraphrased here."
+    - "Single detailed source: Dawn (Baqir Sajjad Syed), print Oct 17, 4:56 am PKT; briefing held Friday, Oct 16. Rajnath's remarks at the National Defence Conclave 2026 in Delhi were 'the day before' (Thursday, Oct 15) and are paraphrased by Dawn; we did not find his exact words, so they are paraphrased here."
     - "FO quotes cut by the fetch tool: 'India should draw an appropriate lesson from the last year's experience and abandon its belligerent posture...' and 'verifiable mechanism to ensure complete cessation...' used only up to the point we saw."
     - "No MEA response found as of writing."
     - "Mediation history (Qatar and Turkiye ceasefire Oct 2025, Saudi, China at Urumqi in April) from Dawn."
@@ -59,10 +59,10 @@ Pakistan blames the Tehreek-e-Taliban Pakistan (TTP) and other groups it says op
 
 Earlier this month, Moscow's special envoy for Afghanistan, Zamir Kabulov, suggested Russia could help settle the dispute if both sides asked. Khan played that down. "At present, I am not aware of any separate, formal Russian mediation initiative being under discussion," he said.
 
-The Moscow Format meeting on Afghanistan on 5 October ended without a joint statement after the Pakistani and Afghan delegations clashed over language on terrorist networks in Afghanistan. Khan said Kabul had refused wording it had accepted a year earlier. The missing communiqué, he said, spoke for itself and showed the Taliban's reluctance to commit on the militants.
+The Moscow Format meeting on Afghanistan on October 5 ended without a joint statement after the Pakistani and Afghan delegations clashed over language on terrorist networks in Afghanistan. Khan said Kabul had refused wording it had accepted a year earlier. The missing communiqué, he said, spoke for itself and showed the Taliban's reluctance to commit on the militants.
 
 Several countries have tried over the past year to bring the two neighbours together. Qatar and Turkiye brokered a ceasefire in October 2025, Saudi Arabia hosted talks, and China held a round in Urumqi in April. None has settled the core dispute over the militant groups.
 
 ## Why it matters
 
-The two statements leave Islamabad sounding hard-line on both its borders at once. At home, the federal government imposed an emergency and governor's rule in Khyber Pakhtunkhwa, the province that borders Afghanistan, on 11 October, and the Peshawar High Court is due to hear challenges to it on 20 October.
+The two statements leave Islamabad sounding hard-line on both its borders at once. At home, the federal government imposed an emergency and governor's rule in Khyber Pakhtunkhwa, the province that borders Afghanistan, on October 11, and the Peshawar High Court is due to hear challenges to it on October 20.

@@ -10,9 +10,9 @@ standfirst: "Speaking in Kalaburagi a day after Kiren Rijiju's reply to his lett
 published: 2026-10-20T14:45:00+05:30
 location: Kalaburagi
 keyPoints:
-  - "Mallikarjun Kharge said he would explain **\"the harm caused by the SIR\"** to the Prime Minister on 21 October."
+  - "Mallikarjun Kharge said he would explain **\"the harm caused by the SIR\"** to the Prime Minister on October 21."
   - "The Congress has asked **six times in writing** for an all-party meeting on delimitation, Jairam Ramesh said."
-  - "Ramesh asked whether the government has a **firm new proposal** after the Bill's defeat on 17 April."
+  - "Ramesh asked whether the government has a **firm new proposal** after the Bill's defeat on April 17."
 hero:
   need: "Two-panel split: Congress president Mallikarjun Kharge and Prime Minister Narendra Modi"
   suggested_source: "Mallikarjun Kharge"
@@ -22,7 +22,7 @@ hero:
     value: "Two letters, one more conversation"
 related: [rijiju-writes-kharge-delimitation-bill-consultations, jairam-ramesh-searchable-rolls-cec-must-go-sir-suspend, aiks-joins-october-23-nationwide-protests-against-sir]
 seo:
-  description: "Congress president Mallikarjun Kharge said in Kalaburagi he would explain SIR and delimitation concerns to PM Modi on 21 October; Jairam Ramesh pressed on delimitation."
+  description: "Congress president Mallikarjun Kharge said in Kalaburagi he would explain SIR and delimitation concerns to PM Modi on October 21; Jairam Ramesh pressed on delimitation."
 sources:
   - title: "Kharge says he will explain concerns over SIR, delimitation and women's quota to PM Modi"
     publisher: "ThePrint (PTI)"
@@ -37,9 +37,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Kharge: PTI via ThePrint, 2:45 pm IST. He did not say how he would explain things on 21 Oct (meeting, letter or otherwise); copy keeps it open."
-    - "Ramesh: ANI quoting his X post, 2:04 pm IST. Bill defeated 17 April 2026 after being taken up 16 April, per ANI."
-    - "Rijiju letter details (19 Oct): parties consulted as listed by PTI."
+    - "Kharge: PTI via ThePrint, 2:45 pm IST. He did not say how he would explain things on Oct 21 (meeting, letter or otherwise); copy keeps it open."
+    - "Ramesh: ANI quoting his X post, 2:04 pm IST. Bill defeated April 17, 2026, after being taken up April 16, per ANI."
+    - "Rijiju letter details (Oct 19): parties consulted as listed by PTI."
 ---
 
 Congress president Mallikarjun Kharge said on Tuesday he would lay out his objections to the Special Intensive Revision of electoral rolls, delimitation and the women's reservation plan to Prime Minister Narendra Modi on Wednesday, as his party kept up pressure for an all-party meeting before any fresh delimitation bill.
@@ -48,9 +48,9 @@ Congress president Mallikarjun Kharge said on Tuesday he would lay out his objec
 
 ## Rijiju's reply
 
-Kharge's remarks came a day after Parliamentary Affairs Minister Kiren Rijiju answered his 16 October letter, which had asked for an all-party meeting before Parliament takes up a proposed constitutional amendment on delimitation.
+Kharge's remarks came a day after Parliamentary Affairs Minister Kiren Rijiju answered his October 16 letter, which had asked for an all-party meeting before Parliament takes up a proposed constitutional amendment on delimitation.
 
-Rijiju wrote that the government had sought the Congress's cooperation in letters in March and April and in discussions with Kharge and Rahul Gandhi. The Congress, he said, never offered dates, so the government went ahead and consulted other parties, among them the DMK, the Samajwadi Party, the YSRCP, the NCP, the Shiv Sena (UBT), the AIMIM and the BJD. He also rejected the charge of procedural impropriety over Parliament not being prorogued since the Monsoon Session was adjourned sine die on 13 August, saying the Constitution sets no fixed period for prorogation, and urged the Congress not to obstruct legislation.
+Rijiju wrote that the government had sought the Congress's cooperation in letters in March and April and in discussions with Kharge and Rahul Gandhi. The Congress, he said, never offered dates, so the government went ahead and consulted other parties, among them the DMK, the Samajwadi Party, the YSRCP, the NCP, the Shiv Sena (UBT), the AIMIM and the BJD. He also rejected the charge of procedural impropriety over Parliament not being prorogued since the Monsoon Session was adjourned sine die on August 13, saying the Constitution sets no fixed period for prorogation, and urged the Congress not to obstruct legislation.
 
 ## Ramesh's questions
 
@@ -62,6 +62,6 @@ Congress general secretary Jairam Ramesh replied on Tuesday afternoon. He said R
 
 ## Why it matters
 
-Delimitation, the redrawing of Lok Sabha and Assembly seats after a census, decides how political weight is shared between the north and the south, and the government needs a two-thirds majority to amend the Constitution for it. The fight over seats now runs alongside the opposition's campaign against the SIR, which farmers' and trade union groups plan to take to district headquarters across the country on Friday, 23 October.
+Delimitation, the redrawing of Lok Sabha and Assembly seats after a census, decides how political weight is shared between the north and the south, and the government needs a two-thirds majority to amend the Constitution for it. The fight over seats now runs alongside the opposition's campaign against the SIR, which farmers' and trade union groups plan to take to district headquarters across the country on Friday, October 23.
 
 The government has not said when it plans to bring a new delimitation bill, or whether the Prime Minister will meet Kharge.

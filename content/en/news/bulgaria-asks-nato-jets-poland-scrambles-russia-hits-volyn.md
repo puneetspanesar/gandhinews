@@ -22,7 +22,7 @@ hero:
     value: "Sofia calls on NATO for air cover"
 related: [drone-attack-sinks-ship-off-bulgaria-black-sea, romania-blames-russia-black-sea-merchant-ship-attacks, zelenskyy-asks-eu-70-billion-trump-disgrace-row, ukraine-osce-refinery-strikes-stop-if-russia-halts-energy-attacks]
 seo:
-  description: "Poland scrambled jets as Russia hit Volyn on 16 October, cutting power to 370,000, while Bulgaria asked NATO for combat aircraft and anti-drone systems."
+  description: "Poland scrambled jets as Russia hit Volyn on October 16, cutting power to 370,000, while Bulgaria asked NATO for combat aircraft and anti-drone systems."
 sources:
   - title: "Poland scrambles fighter jets as Russia strikes western Ukraine"
     publisher: "Al Jazeera (with AP)"

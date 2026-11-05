@@ -22,7 +22,7 @@ hero:
     value: "A road accident, then two crimes"
 related: []
 seo:
-  description: "Navneet Kumar, 20, was beaten to death in Bihar's Muzaffarpur after his motorcycle hit a child on 17 October; a mob later torched nine Dalit houses in his village."
+  description: "Navneet Kumar, 20, was beaten to death in Bihar's Muzaffarpur after his motorcycle hit a child on October 17; a mob later torched nine Dalit houses in his village."
 sources:
   - title: "Bihar biker beaten to death after two-wheeler hits child; mob torches nine houses (PTI)"
     publisher: "ThePrint"

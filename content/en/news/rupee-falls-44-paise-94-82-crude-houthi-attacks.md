@@ -22,7 +22,7 @@ hero:
     value: "Down 44 paise to 94.82"
 related: [rupee-six-week-high-94-38-jio-inflows-rbi, sensex-nifty-close-october-22-crude-110-west-asia, global-cues-nasdaq-slumps-ai-fears-brent-113-october-23]
 seo:
-  description: "Rupee closes 44 paise lower at 94.82 against the US dollar on 22 October 2026 as Brent crude jumps 3% to $112 after attacks on Saudi Aramco; Sensex falls 460 points."
+  description: "Rupee closes 44 paise lower at 94.82 against the US dollar on October 22, 2026, as Brent crude jumps 3% to $112 after attacks on Saudi Aramco; Sensex falls 460 points."
 sources:
   - title: "Rupee slumps 44 paise to close at 94.82 against US dollar"
     publisher: "Daily Excelsior (PTI)"

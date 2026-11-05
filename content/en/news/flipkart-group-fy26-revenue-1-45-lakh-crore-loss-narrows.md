@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single media source (Inc42, 16 Oct, 1:30 am IST), which cites a Flipkart blog post on consolidated financials; the blog post itself was not opened. Flipkart's quote 'provide a historical view of the business rather than a current trading update' is as given by Inc42."
+    - "Single media source (Inc42, Oct 16, 1:30 am IST), which cites a Flipkart blog post on consolidated financials; the blog post itself was not opened. Flipkart's quote 'provide a historical view of the business rather than a current trading update' is as given by Inc42."
     - "B2C arm (Flipkart Internet) FY25 figures were restated for a business combination, per Inc42."
     - "Reverse flip completed in March 2026 and potential domestic listing: Inc42 framing; listing timing not stated."
 ---

@@ -76,11 +76,11 @@ sources:
 verification:
   status: verified-with-notes
   notes:
-    - "Fact-check 11 Oct 2026: PRS 2019 paper figures (24 DRSCs since 1993, 31 members, Estimates 30, COPU 15+7, 80%/67%, attendance 50% v 84%) confirmed; 17th LS referrals 24/5/1 (PRS Monsoon 2025); 11 of 42 and only SMC to a standing committee (PRS Winter 2025); IBC select committee, SMC, VBSA, 130th Amendment and ONOE committee dates and chairs confirmed on PRS and News On AIR."
+    - "Fact-check Oct 11, 2026: PRS 2019 paper figures (24 DRSCs since 1993, 31 members, Estimates 30, COPU 15+7, 80%/67%, attendance 50% v 84%) confirmed; 17th LS referrals 24/5/1 (PRS Monsoon 2025); 11 of 42 and only SMC to a standing committee (PRS Winter 2025); IBC select committee, SMC, VBSA, 130th Amendment and ONOE committee dates and chairs confirmed on PRS and News On AIR."
     - "Corrected: DRSCs are 'constituted for one year' (PRS wording). PRS's 2019 paper argued for referring all Bills and cited the UK model; it did not formally propose the Money Bill exception as its own rule."
     - "Corporate Laws JPC chair (Sudhir Gupta) not shown on PRS bill page; rests on PRS Monthly Policy Review via the research desk."
     - "The PRS 2019 paper says PAC and COPU 'together consist of 22 members' but gives the 15 + 7 split only for COPU. The article gives COPU's split and does not state PAC's size."
-    - "PRS (Winter 2025) said the Securities Markets Code was the only one of 42 Bills in the 18th Lok Sabha sent to a standing committee. The ISI Bill was later referred to a standing committee on 1 Sep 2026 (PRS bill page via research file; committee not named), so the article says 'one of only two'."
+    - "PRS (Winter 2025) said the Securities Markets Code was the only one of 42 Bills in the 18th Lok Sabha sent to a standing committee. The ISI Bill was later referred to a standing committee on Sep 1, 2026 (PRS bill page via research file; committee not named), so the article says 'one of only two'."
     - "PAC and COPU acceptance rates (80% and 67%) are from the 2019 paper and refer to the eight years before 2019."
     - "Members of the FCRA JPC have not been named in any source found."
 ---
@@ -99,21 +99,21 @@ There are also financial committees:
 - The Estimates Committee has 30 members, all from the Lok Sabha.
 - The Committee on Public Undertakings examines public sector companies and has 15 Lok Sabha and seven Rajya Sabha members.
 
-The Standing Committee on Finance, chaired by Bhartruhari Mahtab, reported on the Securities Markets Code, 2025 on 23 July 2026. The Code merges three securities laws into one.
+The Standing Committee on Finance, chaired by Bhartruhari Mahtab, reported on the Securities Markets Code, 2025 on July 23, 2026. The Code merges three securities laws into one.
 
 ## What is a Joint Parliamentary Committee?
 
 **A committee of members from both Houses set up for a specific task, usually a single Bill, which ends once it reports.** PRS calls such committees "ad hoc". The Lok Sabha Secretariat explains that the House can decide to refer a Bill "to a Select Committee of the House or a Joint Committee of the two Houses".
 
 ```timeline
-{"title":"Joint and select committees at work (as of October 2026)","items":[{"date":"19 Dec 2024","text":"One Nation One Election Bills go to a 41-member JPC chaired by P.P. Chaudhary. Deadline now the first day of the last week of the Winter Session 2026."},{"date":"20 Aug 2025","text":"Constitution (130th Amendment) Bill, on removing ministers held in custody, goes to a JPC chaired by Aparajita Sarangi. No report yet."},{"date":"16 Dec 2025","text":"Viksit Bharat Shiksha Adhishthan Bill, on a single higher education regulator, goes to a JPC chaired by Daggubati Purandeswari. No report yet."},{"date":"3 Aug 2026","text":"JPC on the Corporate Laws (Amendment) Bill, 2026, chaired by Sudhir Gupta, presents its report."},{"date":"12 Aug 2026","text":"FCRA Amendment Bill goes to a 31-member JPC. Report due in the first week of the Winter Session 2026."}]}
+{"title":"Joint and select committees at work (as of October 2026)","items":[{"date":"Dec 19, 2024","text":"One Nation One Election Bills go to a 41-member JPC chaired by P.P. Chaudhary. Deadline now the first day of the last week of the Winter Session 2026."},{"date":"Aug 20, 2025","text":"Constitution (130th Amendment) Bill, on removing ministers held in custody, goes to a JPC chaired by Aparajita Sarangi. No report yet."},{"date":"Dec 16, 2025","text":"Viksit Bharat Shiksha Adhishthan Bill, on a single higher education regulator, goes to a JPC chaired by Daggubati Purandeswari. No report yet."},{"date":"Aug 3, 2026","text":"JPC on the Corporate Laws (Amendment) Bill, 2026, chaired by Sudhir Gupta, presents its report."},{"date":"Aug 12, 2026","text":"FCRA Amendment Bill goes to a 31-member JPC. Report due in the first week of the Winter Session 2026."}]}
 ```
 
 The FCRA committee has 21 members from the Lok Sabha and 10 from the Rajya Sabha, ThePrint reported. Its members have not been named in any report we found.
 
 ## How is a select committee different?
 
-**A select committee draws its members from one House only.** It is also set up to examine a particular Bill. The Lok Sabha sent the Insolvency and Bankruptcy Code (Amendment) Bill, 2025 to a select committee chaired by Baijayant Panda on 12 August 2025. The committee reported on 17 December 2025, and Parliament passed the Bill in March and April 2026, according to PRS.
+**A select committee draws its members from one House only.** It is also set up to examine a particular Bill. The Lok Sabha sent the Insolvency and Bankruptcy Code (Amendment) Bill, 2025 to a select committee chaired by Baijayant Panda on August 12, 2025. The committee reported on December 17, 2025, and Parliament passed the Bill in March and April 2026, according to PRS.
 
 ## How does a Bill reach a committee?
 
@@ -125,7 +125,7 @@ Referral is not compulsory, and it has become less common. Of the 30 Bills the 1
 {"type":"hbar","title":"Where the 17th Lok Sabha sent Bills for scrutiny","subtitle":"Number of Bills referred, by type of committee (2019-24)","unit":"","data":[{"label":"Standing committees","value":24},{"label":"Joint committees","value":5},{"label":"Select committee","value":1}],"source":"PRS Legislative Research, Monsoon Session 2025 vital stats"}
 ```
 
-The 18th Lok Sabha has leaned the other way. Up to the Winter Session of 2025, it had referred 11 of 42 Bills, and only one, the Securities Markets Code, to a standing committee, PRS noted. The Indian Statistical Institute Bill, 2026, referred to a standing committee on 1 September 2026, is the second.
+The 18th Lok Sabha has leaned the other way. Up to the Winter Session of 2025, it had referred 11 of 42 Bills, and only one, the Securities Markets Code, to a standing committee, PRS noted. The Indian Statistical Institute Bill, 2026, referred to a standing committee on September 1, 2026, is the second.
 
 ## Must the government accept what a committee says?
 

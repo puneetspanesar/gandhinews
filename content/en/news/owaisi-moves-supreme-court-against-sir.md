@@ -6,22 +6,22 @@ section: politics
 format_label: "Politics / Electoral rolls"
 topics: [electoral-rolls-sir, election-commission, supreme-court]
 title: "Owaisi asks Supreme Court to review Bihar SIR verdict; Delhi roll case brought forward"
-standfirst: "The AIMIM chief says election commissioners' internal objections were never placed before the court. Separately, the bench advanced a plea on deleted Delhi voters to 28 October."
+standfirst: "The AIMIM chief says election commissioners' internal objections were never placed before the court. Separately, the bench advanced a plea on deleted Delhi voters to October 28."
 published: 2026-10-14T20:00:00+05:30
 location: New Delhi
 keyPoints:
   - "Asaduddin Owaisi filed a **review petition** against the judgment upholding the Bihar SIR, and a fresh challenge to the exercise."
   - "His petition cites reported objections by **two election commissioners** to decisions taken while the case was pending."
-  - "A plea on deleted Delhi voters being asked to fill Form 6 will now be heard **on 28 October**."
+  - "A plea on deleted Delhi voters being asked to fill Form 6 will now be heard **on October 28**."
 hero:
   need: "Advocate Prashant Bhushan, who argued the Delhi SIR plea"
   suggested_source: "Prashant Bhushan"
   alt: "Advocate Prashant Bhushan"
   overlay:
-    value: "A review, and a race against 30 October"
+    value: "A review, and a race against October 30"
 related: [supreme-court-new-form-6-not-decided-in-bihar-sir-ruling, india-bloc-march-to-supreme-court-after-cji-declines-meeting, supreme-court-notice-adr-plea-cec-immunity-section-16, dmrc-apologises-supreme-court-ahead-of-delhi-protest-hearing, sc-cases-tracker]
 seo:
-  description: "AIMIM chief Asaduddin Owaisi seeks review of the Supreme Court's Bihar SIR verdict, while a plea on deleted Delhi voters is advanced to 28 October."
+  description: "AIMIM chief Asaduddin Owaisi seeks review of the Supreme Court's Bihar SIR verdict, while a plea on deleted Delhi voters is advanced to October 28."
 sources:
   - title: "Asaduddin Owaisi Moves Supreme Court Seeking Review Of Bihar SIR Verdict"
     publisher: "LiveLaw"
@@ -52,8 +52,8 @@ verification:
   status: approved
   notes:
     - "Two Owaisi filings: review petition (LiveLaw 554600) and fresh writ mentioned by Nizamuddin Pasha (LiveLaw 554580, Bar & Bench). Which state's SIR the fresh plea concerns is not reported; kept general. Listing not confirmed; CJI said he would check and list with connected matters."
-    - "The 14 decisions without concurrence of ECs Sukhbir Singh Sandhu and Vivek Joshi rest on an Indian Express report cited in the petition; 85,854 auto-generated UP deletion forms rest on a Reporters' Collective report (9 Oct) cited in the petition. Both written as claims in the petition, not independently confirmed."
-    - "Delhi SIR: Anjali Bhardwaj & Anr v ECI, WP(C) 1188/2026; CJI Kant and Bagchi J; moved from 30 to 28 Oct; 30 Oct last date for correcting deletions per Bhushan. Quotes verbatim from LiveLaw."
+    - "The 14 decisions without concurrence of ECs Sukhbir Singh Sandhu and Vivek Joshi rest on an Indian Express report cited in the petition; 85,854 auto-generated UP deletion forms rest on a Reporters' Collective report (Oct 9) cited in the petition. Both written as claims in the petition, not independently confirmed."
+    - "Delhi SIR: Anjali Bhardwaj & Anr v ECI, WP(C) 1188/2026; CJI Kant and Bagchi J; moved from Oct 30 to 28; Oct 30 last date for correcting deletions per Bhushan. Quotes verbatim from LiveLaw."
     - "Date of Bihar SIR judgment not given in sources; not stated."
 ---
 
@@ -71,4 +71,4 @@ Owaisi was not a party to the Bihar case. He has filed as a voter, an MP and the
 
 Earlier in the day, the Chief Justice and Justice Joymalya Bagchi brought forward a plea by transparency activists Anjali Bhardwaj and Amrita Johri over Delhi's SIR. Advocate Prashant Bhushan told the court that voters whose names were deleted are being asked to fill Form 6, which requires a declaration that the person has never voted before. "If they give false declaration, they are liable to imprisonment," he said.
 
-Bhushan pointed out that 30 October is the last date for correcting deletions, so the existing hearing date was too late. The court moved it from 30 to 28 October. The Chief Justice said the bench was "thinking of passing an order" that would deal with the problem.
+Bhushan pointed out that October 30 is the last date for correcting deletions, so the existing hearing date was too late. The court moved it from October 30 to 28. The Chief Justice said the bench was "thinking of passing an order" that would deal with the problem.

@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (IANS via Hans India, 3:06 pm 13 Oct). Ministry order/PIB release not found. Time set to evening window."
+    - "Single source (IANS via Hans India, 3:06 pm Oct 13). Ministry order/PIB release not found. Time set to evening window."
     - "Method of death deliberately not described (suicide reporting guidelines); source says he was found unconscious in his hostel room and died on the way to hospital. Police investigating; cause not officially stated."
     - "Students' claim that timely help could have saved him is their allegation; attributed. Age not reported. Panel deadline not reported."
     - "Whether the Board chairman's 'conclusion by Tuesday' produced any outcome is not known at writing."

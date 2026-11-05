@@ -47,8 +47,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Siwan facts (five dead including three children, Alampur village, SHO Dhiraj Kumar and chowkidar suspended, DM Vijay Prakash Meena's statement that the administration had received information, neighbours' claim of a licence, explosions for about two hours) from the desk's 24 October news story and its sources."
-    - "Deesa facts (1 April 2025, 21 dead, all from Harda and Dewas in Madhya Pradesh, licence for storage only, expired 31 December 2024 and renewal on hold for lack of facilities, SP's 'stocking firecrackers illegally' remark) from The Week (PTI)."
+    - "Editorial view of the desk. Siwan facts (five dead including three children, Alampur village, SHO Dhiraj Kumar and chowkidar suspended, DM Vijay Prakash Meena's statement that the administration had received information, neighbours' claim of a licence, explosions for about two hours) from the desk's October 24 news story and its sources."
+    - "Deesa facts (April 1, 2025, 21 dead, all from Harda and Dewas in Madhya Pradesh, licence for storage only, expired December 31, 2024, and renewal on hold for lack of facilities, SP's 'stocking firecrackers illegally' remark) from The Week (PTI)."
     - "Harda (February 2024, 13 dead as given), Dakshin Raipur (8 of one family, home unit), Anakapalle (8, storage limit exceeded), PESO staffing (106 officers against 137 sanctioned, about 3.7 lakh hazardous units), Sivakasi's ~90% share and wages as low as ₹300 a day from Deccan Herald. Its page showed no date; the incidents it lists date it to April 2025, so the source date is approximate. Harda toll as given by DH; other reports may differ."
     - "Recommendations are the desk's own."
 ---
@@ -59,7 +59,7 @@ Then came the familiar sequence. The Siwan police chief suspended the local stat
 
 ## A pattern, not an accident
 
-Siwan is the latest entry in a long list. In April last year a blast flattened a firecracker godown near Deesa in Gujarat and killed 21 people, all of them workers and their families from Harda and Dewas in Madhya Pradesh. The godown's licence was for storage only, it had expired on 31 December 2024, and its renewal had been put on hold because the unit lacked proper facilities. It went on working anyway. The police said it had been stocking crackers illegally. In the same fortnight, eight people of one family died in a home unit in West Bengal's South 24 Parganas and eight more in Anakapalle in Andhra Pradesh, where a unit had stored far more raw material than it was allowed. In February 2024 a factory blast at Harda itself killed 13.
+Siwan is the latest entry in a long list. In April last year a blast flattened a firecracker godown near Deesa in Gujarat and killed 21 people, all of them workers and their families from Harda and Dewas in Madhya Pradesh. The godown's licence was for storage only, it had expired on December 31, 2024, and its renewal had been put on hold because the unit lacked proper facilities. It went on working anyway. The police said it had been stocking crackers illegally. In the same fortnight, eight people of one family died in a home unit in West Bengal's South 24 Parganas and eight more in Anakapalle in Andhra Pradesh, where a unit had stored far more raw material than it was allowed. In February 2024 a factory blast at Harda itself killed 13.
 
 In each case the unit was known to someone: a licensing office, a police station, neighbours. What was missing was anyone obliged to act before the explosion.
 
@@ -84,5 +84,5 @@ Finally, the Centre should fill PESO's vacant posts and states should give distr
 Diwali is a little over two weeks away. Stocks will only grow until then. The time to find the next Alampur is now.
 
 ```facts
-{"title":"The reporting behind this view","items":[{"value":"5","label":"people, three of them children, killed in the Siwan blast on 23 October 2026"},{"value":"21","label":"people killed at an illegal firecracker godown near Deesa, Gujarat, on 1 April 2025"},{"value":"106 of 137","label":"officer posts filled at the explosives regulator PESO, as reported in 2025"}]}
+{"title":"The reporting behind this view","items":[{"value":"5","label":"people, three of them children, killed in the Siwan blast on October 23, 2026"},{"value":"21","label":"people killed at an illegal firecracker godown near Deesa, Gujarat, on April 1, 2025"},{"value":"106 of 137","label":"officer posts filled at the explosives regulator PESO, as reported in 2025"}]}
 ```

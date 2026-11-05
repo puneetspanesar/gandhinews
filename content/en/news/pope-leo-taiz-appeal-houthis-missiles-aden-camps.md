@@ -22,7 +22,7 @@ hero:
     value: "A million people under siege"
 related: [yemen-taiz-fighting-260000-displaced-ocha, yemen-hiba-taiz-strike-family-killed-saada-migrant-shelter, riyadh-airport-reopens-houthis-fire-again-us-embassy-curbs]
 seo:
-  description: "Pope Leo XIV appealed on 25 October for an end to fighting in Yemen and for besieged Taiz, as Yemen's government said Houthis fired missiles at Aden displacement camps."
+  description: "Pope Leo XIV appealed on October 25 for an end to fighting in Yemen and for besieged Taiz, as Yemen's government said Houthis fired missiles at Aden displacement camps."
 sources:
   - title: "Iran says messages are still being passed to the US amid war concerns, and other Mideast news (AP)"
     publisher: "Walla Walla Union-Bulletin"

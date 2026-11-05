@@ -47,8 +47,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Presentation day: CancerNetwork and Targeted Oncology (both 24 Oct) report the LBA1 presentation at Presidential Symposium I, ESMO Madrid 23-27 Oct; exact session time not given. The Week at 4:28 pm IST 24 Oct still said 'set to be presented'. Copy says Saturday."
-    - "Merck/Moderna released topline numbers on 22 Oct; Moderna share fall of more than 20% on Thursday is from our earlier story (blackstone-jumps-moderna-slumps-us-movers), which called the results leaked."
+    - "Presentation day: CancerNetwork and Targeted Oncology (both Oct 24) report the LBA1 presentation at Presidential Symposium I, ESMO Madrid Oct 23-27; exact session time not given. The Week at 4:28 pm IST Oct 24 still said 'set to be presented'. Copy says Saturday."
+    - "Merck/Moderna released topline numbers on Oct 22; Moderna share fall of more than 20% on Thursday is from our earlier story (blackstone-jumps-moderna-slumps-us-movers), which called the results leaked."
     - "Deaths: CancerNetwork says two treatment-related deaths in combination arm, both attributed to pembrolizumab; Targeted Oncology says 8 AE deaths (1.1%) none related to intismeran. Copy says only that no death was attributed to the vaccine."
     - "Long quote 'sets a new benchmark for adjuvant therapy in melanoma' from Targeted Oncology; 'foundational shift' quote from Merck release."
     - "AI-assisted neoantigen selection from The Week only; hedged lightly."

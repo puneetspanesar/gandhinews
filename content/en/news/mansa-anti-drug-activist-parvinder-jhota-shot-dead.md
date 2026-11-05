@@ -12,7 +12,7 @@ location: Mansa
 keyPoints:
   - "Parvinder Singh Jhota, 45, was **shot three times** inside a chemist's shop in Mansa on Tuesday morning."
   - "Police are hunting the shop owner, Ashwani Kumar, and have **arrested a man accused of helping him flee**."
-  - "Chief Minister Bhagwant Mann will review the anti-drug drive with all district officers at **Phillaur on 16 October**."
+  - "Chief Minister Bhagwant Mann will review the anti-drug drive with all district officers at **Phillaur on October 16**."
 hero:
   need: "Mansa town in Punjab, a street or railway station view; no images of the victim or the shooting"
   suggested_source: "Mansa railway station Punjab"
@@ -72,9 +72,9 @@ verification:
   status: approved
   notes:
     - "All reporting from The Tribune (several reporters and stories); no second outlet could be fetched (HT, Indian Express blocked). Core facts consistent across six Tribune pieces."
-    - "Accused named as Ashwani Kumar in the main Tribune report, 'Ashwani' in the DIG's quote. Still absconding as of the 1:19 am IST report on 14 Oct. Person arrested for helping him flee not named by police."
+    - "Accused named as Ashwani Kumar in the main Tribune report, 'Ashwani' in the DIG's quote. Still absconding as of the 1:19 am IST report on Oct 14. Person arrested for helping him flee not named by police."
     - "Ages, wounds (two abdomen, one right thigh; bullet pierced liver) from SMO Dr Gurmail Singh via Tribune. Four injured associates named by Tribune: Kulwinder Singh, Gobind Singh, Baltej Singh, Happy."
-    - "Police got information about 10:30 am Tuesday (DIG). Bandh call for Thursday 15 Oct by a joint action committee; BJP district protests Wednesday 14 Oct."
+    - "Police got information about 10:30 am Tuesday (DIG). Bandh call for Thursday, Oct 15 by a joint action committee; BJP district protests Wednesday, Oct 14."
     - "No direct quote from Mann or AAP found; Mann's instruction to speed up the probe is paraphrased from the Tribune report on the Phillaur meeting."
     - "Bittu said in a Facebook Live he was detained; no police response reported. Written as his claim."
 ---
@@ -107,4 +107,4 @@ With Punjab voting in early 2027, the killing has turned into a test of the AAP 
 
 Former Union minister Ravneet Singh Bittu climbed the hospital's main gate after being refused entry, met the injured and said: "Punjab is in the grip of fear and lawlessness." He later said in a Facebook Live that police had detained him.
 
-Mann has told police to speed up the investigation. He has called the SSPs, SDMs and DSPs of every district to a day-long review of the drug campaign and law and order at the Punjab Police Academy in Phillaur on 16 October.
+Mann has told police to speed up the investigation. He has called the SSPs, SDMs and DSPs of every district to a day-long review of the drug campaign and law and order at the Punjab Police Academy in Phillaur on October 16.

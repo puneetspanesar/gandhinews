@@ -32,12 +32,12 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: PTI via ThePrint, filed 12:46 am IST 17 Oct, on a Friday 16 Oct meeting of teachers and graduates in Ghaziabad. Quotes verbatim from PTI (some are PTI's translation from Hindi)."
+    - "Single source: PTI via ThePrint, filed 12:46 am IST Oct 17, on a Friday, Oct 16 meeting of teachers and graduates in Ghaziabad. Quotes verbatim from PTI (some are PTI's translation from Hindi)."
     - "'Paraya Dhan Apna' appears in the headline; the expansion was not in the extracted quotes, so it is mentioned only as the second jibe without a quote."
     - "'chacha-jaan' read by PTI as an indirect reference to Ram Gopal Yadav; kept as PTI's reading."
     - "No SP response in the source."
     - "Meaning of PDA (Pichhde, Dalit, Alpsankhyak) is the SP's long-standing public slogan; general background, not from the PTI copy."
-    - "SP complaint to EC: our story sp-seeks-ec-notice-yogi-mlc-polls-deputy-cms (15 Oct)."
+    - "SP complaint to EC: our story sp-seeks-ec-notice-yogi-mlc-polls-deputy-cms (Oct 15)."
 ---
 
 Uttar Pradesh Chief Minister Yogi Adityanath turned the Samajwadi Party's favourite slogan against it on Friday, telling a meeting of teachers and graduates in Ghaziabad that the party's "PDA" was really about one family.

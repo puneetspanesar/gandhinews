@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: TechCrunch, 13 Oct, around Helix's Startup Battlefield pitch at TechCrunch Disrupt in San Francisco. All performance figures are the company's own claims; attributed as such."
+    - "Single source: TechCrunch, Oct 13, around Helix's Startup Battlefield pitch at TechCrunch Disrupt in San Francisco. All performance figures are the company's own claims; attributed as such."
     - "Company HQ not stated in the report; location given as San Francisco, where it pitched."
     - "No emissions-reduction figure or funding amount in the report; none given."
     - "Range of 30-40% to 90% coke reduction comes from 'studies' cited by TechCrunch without names."

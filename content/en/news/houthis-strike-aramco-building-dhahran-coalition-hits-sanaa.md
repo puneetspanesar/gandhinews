@@ -12,7 +12,7 @@ location: Riyadh
 keyPoints:
   - "A Houthi strike set off a **small fire at an Aramco building in Dhahran**, with no injuries, Saudi Arabia's energy ministry said."
   - "The Saudi-led coalition hit the **al-Sabah central oil station in Sanaa** after its first evacuation order for the Yemeni capital."
-  - "Riyadh's King Khalid International Airport stays **closed until midnight on 17 October**."
+  - "Riyadh's King Khalid International Airport stays **closed until midnight on October 17**."
 hero:
   need: "The Saudi Aramco headquarters complex in Dhahran, Eastern Province"
   suggested_source: "Saudi Aramco headquarters Dhahran"
@@ -21,7 +21,7 @@ hero:
     value: "Sanaa hit, then Dhahran"
 related: [saudi-arabia-vows-serious-response-riyadh-airport-stays-shut, why-riyadh-airport-is-shut-houthi-saudi-strikes-explained, india-condemns-houthi-attacks-saudi-airports-riyadh, hyderabad-man-killed-riyadh-airport-strike-envoy-attends-funeral, oil-jumps-after-saudi-airport-attacks-wall-street-mixed]
 seo:
-  description: "Houthis struck an Aramco administrative building in Dhahran on 13 October after Saudi-led strikes on a Sanaa oil station. No one was hurt, Saudi Arabia said."
+  description: "Houthis struck an Aramco administrative building in Dhahran on October 13 after Saudi-led strikes on a Sanaa oil station. No one was hurt, Saudi Arabia said."
 sources:
   - title: "Iran war live: Saudi coalition hits Houthi sites; Aramco office hit in east"
     publisher: "Al Jazeera"
@@ -51,7 +51,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Written about 7:20 am IST, 14 Oct. Aramco Dhahran strike: Saudi energy ministry official to SPA (via Al Jazeera, two reports). Exact time of the strike on Tuesday not given."
+    - "Written about 7:20 am IST, Oct 14. Aramco Dhahran strike: Saudi energy ministry official to SPA (via Al Jazeera, two reports). Exact time of the strike on Tuesday not given."
     - "Houthi evacuation warnings: Al Jazeera says Aramco HQ in Dhahran, KKIA and an Aramco-affiliated refinery in Riyadh; AFP (Dawn) says an Aramco facility in Dammam. Written as 'Aramco's headquarters in Dhahran' since the hit building was in Dhahran; Dammam not mentioned."
     - "Saree's wording: Al Jazeera gives both 'harsh and painful' and later 'firm and painful'. Used the first."
     - "Air India among airlines suspending Saudi flights: Al Jazeera only, with 'and neighbouring countries'. Kept simple; Air India's own notice not seen."
@@ -81,7 +81,7 @@ Saudi air defences intercepted Houthi missiles aimed at the capital on Tuesday. 
 
 The Saudi cabinet, chaired by the crown prince, said the Houthis would face "consequences". Human Resources Minister Ahmad bin Sulaiman Al Rajhi told a forum in Riyadh: "We're not going out."
 
-King Khalid International Airport, the kingdom's second busiest, will stay closed until midnight on 17 October under a notice to airmen issued on Monday. Saturday's missile attack on the airport killed 13 people and injured more than 300, and Riyadh's schools have moved to remote learning for a week. Air India is among the airlines that have suspended flights to Saudi Arabia. The Indian Embassy has urged calm and asked people not to share videos of the attacks.
+King Khalid International Airport, the kingdom's second busiest, will stay closed until midnight on October 17 under a notice to airmen issued on Monday. Saturday's missile attack on the airport killed 13 people and injured more than 300, and Riyadh's schools have moved to remote learning for a week. Air India is among the airlines that have suspended flights to Saudi Arabia. The Indian Embassy has urged calm and asked people not to share videos of the attacks.
 
 US President Donald Trump said the Houthis were "behaving very badly" and that Washington was considering joining the Saudi strikes. He has accused the group of targeting Saudi infrastructure to push up energy prices before the US midterm elections.
 

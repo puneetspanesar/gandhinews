@@ -10,7 +10,7 @@ standfirst: "A voluntary trial would put invoices issued to ordinary customers o
 published: 2026-11-01T23:05:00+05:30
 location: New Delhi
 keyPoints:
-  - "GST authorities plan a **retail e-invoicing pilot from 1 April 2027**, officials said."
+  - "GST authorities plan a **retail e-invoicing pilot from April 1, 2027**, officials said."
   - "The trial would be **voluntary at first**, but evasion-prone sectors could later be made to join."
   - "Banks, insurers and NBFCs, now exempt from B2B e-invoicing, are **not part of the pilot**."
 hero:
@@ -32,8 +32,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov 2026, 11:05 pm IST, Business Standard report citing two officials (third official on delay). Single-source, unnamed officials, so the plan is attributed to officials throughout and written as 'plan', not decision."
-    - "Finance Ministry did not respond to the paper's 23 Oct email. 54th GST Council meeting (September 2024) recommendation and the ₹5 crore B2B threshold as given in the report."
+    - "event: Nov 1, 2026, 11:05 pm IST, Business Standard report citing two officials (third official on delay). Single-source, unnamed officials, so the plan is attributed to officials throughout and written as 'plan', not decision."
+    - "Finance Ministry did not respond to the paper's Oct 23 email. 54th GST Council meeting (September 2024) recommendation and the ₹5 crore B2B threshold as given in the report."
     - "Expert remarks are paraphrased; exact wording not available, so no direct quotes."
     - "Infosys GSTN contract (seven years, awarded 2025) as given in the report."
 cover:
@@ -42,14 +42,14 @@ cover:
   headline: Retail e-invoicing pilot from April 2027
   data:
     - icon: calendar-check
-      value: "1 Apr 2027"
+      value: "Apr 1, 2027"
       label: planned start of the voluntary pilot
     - icon: currency-inr
       value: "₹5 crore"
       label: turnover above which B2B e-invoicing already applies
 ---
 
-India's GST authorities are preparing a **pilot to e-invoice retail bills from 1 April 2027**, under which invoices that shops and businesses issue to ordinary customers in select sectors would be recorded on a government system, two officials said.
+India's GST authorities are preparing a **pilot to e-invoice retail bills from April 1, 2027**, under which invoices that shops and businesses issue to ordinary customers in select sectors would be recorded on a government system, two officials said.
 
 The trial would begin as a **voluntary scheme**. Sectors seen as prone to tax evasion could later be made to join, according to the minutes of the GST Council. Restaurants have been named as one possible sector.
 

@@ -10,7 +10,7 @@ standfirst: "The US envoy met Vladimir Putin at the Konstantinovsky Palace on We
 published: 2026-10-21T15:35:00+05:30
 location: St Petersburg
 keyPoints:
-  - "Steve Witkoff met Vladimir Putin in **St Petersburg** on Wednesday, his first trip to Russia since 5 September."
+  - "Steve Witkoff met Vladimir Putin in **St Petersburg** on Wednesday, his first trip to Russia since September 5."
   - "Putin announced the release of **Stephen Hubbard, 74**, a retired American teacher captured in Ukraine in 2022."
   - "The Kremlin said it did not know whether **any agreement** would be reached on the day."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "An American freed, a peace plan delivered"
 related: [witkoff-zelenskyy-oslo-before-putin-moscow, lavrov-zelenskyy-fears-peace-deal-trump-pressure, zelenskyy-witkoff-kushner-call-war-must-end-starshield, zelenskyy-us-proposes-trilateral-putin-summit-december]
 seo:
-  description: "US envoy Steve Witkoff met Vladimir Putin in St Petersburg on 21 October with US peace proposals; Russia freed American prisoner Stephen Hubbard."
+  description: "US envoy Steve Witkoff met Vladimir Putin in St Petersburg on October 21 with US peace proposals; Russia freed American prisoner Stephen Hubbard."
 sources:
   - title: "Witkoff Arrives in St. Petersburg for Putin Talks as US and Ukraine Agree on Peace Proposals"
     publisher: "Kyiv Post"
@@ -73,7 +73,7 @@ Steve Witkoff, President Donald Trump's special envoy, met Vladimir Putin in St 
 
 Putin announced at the meeting that Hubbard had been freed and was already at the city's Pulkovo Airport. Witkoff confirmed the release and thanked the Russian president for it.
 
-The talks at the Konstantinovsky Palace were Witkoff's first visit to Russia since 5 September, when he and Jared Kushner spent three hours with Putin in Moscow. Kushner did not travel this time and was expected to join remotely. Kirill Dmitriev, Putin's special representative for investment and economic cooperation, met Witkoff at the airport and sat in on the talks.
+The talks at the Konstantinovsky Palace were Witkoff's first visit to Russia since September 5, when he and Jared Kushner spent three hours with Putin in Moscow. Kushner did not travel this time and was expected to join remotely. Kirill Dmitriev, Putin's special representative for investment and economic cooperation, met Witkoff at the airport and sat in on the talks.
 
 ## From Oslo to St Petersburg
 

@@ -23,7 +23,7 @@ hero:
     value: "A night drive that ended at Bagru"
 related: []
 seo:
-  description: "Three pilgrims from Nashik were killed and at least 18 hurt when their van hit a trailer truck on the Jaipur-Ajmer highway near Bagru early on Saturday 24 October."
+  description: "Three pilgrims from Nashik were killed and at least 18 hurt when their van hit a trailer truck on the Jaipur-Ajmer highway near Bagru early on Saturday, October 24."
 sources:
   - title: "Three Pilgrims Dead, 25 Injured As Trailer Rams Into Passenger Bus On Jaipur-Ajmer Highway"
     publisher: "ETV Bharat"

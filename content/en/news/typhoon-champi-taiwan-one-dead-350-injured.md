@@ -22,7 +22,7 @@ hero:
     value: "Champi lashes Taiwan's northeast"
 related: [typhoon-champi-taiwan-land-warning-flights-cancelled]
 seo:
-  description: "Typhoon Champi killed one person and injured at least 350 in Taiwan on 23 October, forced 4,300 evacuations and cut power to 8,400 Okinawa homes."
+  description: "Typhoon Champi killed one person and injured at least 350 in Taiwan on October 23, forced 4,300 evacuations and cut power to 8,400 Okinawa homes."
 sources:
   - title: "Typhoon Champi hits Taiwan, killing one and injuring 350"
     publisher: "Al Jazeera"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single outlet (Al Jazeera, 23:10 UTC, 23 Oct). Figures attributed to Taiwan's Central Weather Administration, Okinawa Electric Power Company and US JTWC as carried there. The person who died was not identified. Exact landfall time not given."
+    - "Single outlet (Al Jazeera, 23:10 UTC, Oct 23). Figures attributed to Taiwan's Central Weather Administration, Okinawa Electric Power Company and US JTWC as carried there. The person who died was not identified. Exact landfall time not given."
     - "Saulo WMO quote on El Nino omitted (context unclear)."
 ---
 

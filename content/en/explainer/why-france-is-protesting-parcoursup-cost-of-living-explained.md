@@ -8,7 +8,7 @@ topics: []
 title: "Why France is on the streets: how a school protest became a national revolt"
 standfirst: "It began with one lycée in a Paris suburb short of teachers. Five weeks on, hundreds of thousands march every Saturday, thousands have been arrested and the 2027 presidential race has a new fault line. What the protesters want, and what comes next."
 published: 2026-10-26T05:20:00+05:30
-shortAnswer: "France's protests began on 21 September 2026 with a blockade at a high school in Créteil, near Paris, over missing teachers, crowded classes and a run-down building. They spread to schools across the country, then merged with anger over fuel shortages, prices and a 2027 budget that would freeze public-sector pay, drawing in unions and former Yellow Vest activists. Two weekends of mass marches in October brought looting, curfews and thousands of arrests; President Emmanuel Macron has promised more teachers and an overhaul of the Parcoursup university admissions system, but students have called another march for Saturday."
+shortAnswer: "France's protests began on September 21, 2026, with a blockade at a high school in Créteil, near Paris, over missing teachers, crowded classes and a run-down building. They spread to schools across the country, then merged with anger over fuel shortages, prices and a 2027 budget that would freeze public-sector pay, drawing in unions and former Yellow Vest activists. Two weekends of mass marches in October brought looting, curfews and thousands of arrests; President Emmanuel Macron has promised more teachers and an overhaul of the Parcoursup university admissions system, but students have called another march for Saturday."
 hero:
   need: "Lycée Saint-Exupéry in Créteil, where the protest movement began"
   suggested_source: "Créteil Préfecture"
@@ -53,22 +53,22 @@ sources:
 verification:
   status: approved
   notes:
-    - "Origin (21 September 2026, Lycée Saint-Exupéry, Créteil; missing teachers, overcrowded classes, run-down building), 6 October march (about 4.5 lakh, 1 lakh in Paris), nearly 10% of scheduled class hours untaught in 2024-25, classes often above 35, Parcoursup since 2018 and 'opaque and stressful', Geffray 'political exploitation of young people' from La Voce di New York (7 October). Ryad Rani quote (USL president, to Le Monde) and 21 September date confirmed by the MacMyths summary of Le Monde and FCPE."
-    - "13 October day of action after rejection of an emergency offer of 3,000 substitute teachers from the ABC News 4 gallery captions; dropped university fee rises, 3,000 substitutes, 2027 budget pay freeze and pension limits, 5.1% deficit, Lecornu injury figures (937 police and gendarmes, 248 students, 149 teaching staff) from the desk's 18 October story."
-    - "17 October figures (5.5 lakh per Nuñez, 8 lakh per organisers; Limoges city hall fire), more than 2,300 arrests that Saturday and nearly 1,000 officers injured, Macron's 'anger and shame' and 'failures in anticipation and intelligence', Nuñez's offered resignation, curfews from 19 October, Medef's 3,000 businesses, 'sedition' remark (22 October) from the desk's earlier stories and the AP report."
-    - "24 October figures (4.1 lakh per interior ministry, 1.1 lakh in Paris, above 8 lakh per organisers, nearly 1,000 arrests, 70,000 police), Macron's Friday meeting with students and promises, next Saturday's call, Bardella's re-election from the desk's 25 October story (Euronews, Al Jazeera, ThePrint)."
-    - "Gulf diesel deals (UAE and Bahrain 1 lakh tonnes a month each, Saudi 95,000 tonnes) from the desk's 20 October story. No figure for French pump prices was found; copy says only that fuel and food prices have risen and diesel has been short."
-    - "Al Jazeera 24 October page could not be fetched in this run (permission timeout); its facts come via the desk's earlier story."
+    - "Origin (September 21, 2026, Lycée Saint-Exupéry, Créteil; missing teachers, overcrowded classes, run-down building), October 6 march (about 4.5 lakh, 1 lakh in Paris), nearly 10% of scheduled class hours untaught in 2024-25, classes often above 35, Parcoursup since 2018 and 'opaque and stressful', Geffray 'political exploitation of young people' from La Voce di New York (October 7). Ryad Rani quote (USL president, to Le Monde) and September 21 date confirmed by the MacMyths summary of Le Monde and FCPE."
+    - "October 13 day of action after rejection of an emergency offer of 3,000 substitute teachers from the ABC News 4 gallery captions; dropped university fee rises, 3,000 substitutes, 2027 budget pay freeze and pension limits, 5.1% deficit, Lecornu injury figures (937 police and gendarmes, 248 students, 149 teaching staff) from the desk's October 18 story."
+    - "October 17 figures (5.5 lakh per Nuñez, 8 lakh per organisers; Limoges city hall fire), more than 2,300 arrests that Saturday and nearly 1,000 officers injured, Macron's 'anger and shame' and 'failures in anticipation and intelligence', Nuñez's offered resignation, curfews from October 19, Medef's 3,000 businesses, 'sedition' remark (October 22) from the desk's earlier stories and the AP report."
+    - "October 24 figures (4.1 lakh per interior ministry, 1.1 lakh in Paris, above 8 lakh per organisers, nearly 1,000 arrests, 70,000 police), Macron's Friday meeting with students and promises, next Saturday's call, Bardella's re-election from the desk's October 25 story (Euronews, Al Jazeera, ThePrint)."
+    - "Gulf diesel deals (UAE and Bahrain 1 lakh tonnes a month each, Saudi 95,000 tonnes) from the desk's October 20 story. No figure for French pump prices was found; copy says only that fuel and food prices have risen and diesel has been short."
+    - "Al Jazeera October 24 page could not be fetched in this run (permission timeout); its facts come via the desk's earlier story."
     - "Hero: Créteil Commons search used; no free photo of the lycée itself is assumed."
 ---
 
 ## How did it start?
 
-**With a single school blockade in a Paris suburb on 21 September.**
+**With a single school blockade in a Paris suburb on September 21.**
 
 Pupils at the Lycée Saint-Exupéry in Créteil, south-east of Paris, barricaded their school over teachers who had not been replaced, classes that were too crowded and a building that was falling apart. Videos of the blockade spread on social media, other lycées added their own complaints, and within days schools across the Paris region were blocked.
 
-"We decided to expand what is happening in the Paris region because these issues are present throughout the country," said Ryad Rani, president of the high school students' union USL. On 6 October about 4.5 lakh students, parents and teachers marched across France, around a lakh of them in Paris.
+"We decided to expand what is happening in the Paris region because these issues are present throughout the country," said Ryad Rani, president of the high school students' union USL. On October 6 about 4.5 lakh students, parents and teachers marched across France, around a lakh of them in Paris.
 
 ## What are the students angry about?
 
@@ -90,17 +90,17 @@ Students list the courses they want and universities accept or reject them on th
 
 Diesel has been in short supply in France; on a Gulf tour last week Macron lined up monthly deliveries from the UAE, Bahrain and Saudi Arabia. Prime Minister Sébastien Lecornu's 2027 budget would freeze public-sector pay and limit pension rises, as France tries to bring down a deficit of 5.1% of GDP.
 
-The government dropped plans to raise some university fees and offered 3,000 substitute teachers. Unions rejected that as too little and called a national day of action on 13 October. On 17 October the CGT union and activists from the 2018 Yellow Vest movement joined the students. The interior ministry counted 5.5 lakh marchers; organisers said 8 lakh.
+The government dropped plans to raise some university fees and offered 3,000 substitute teachers. Unions rejected that as too little and called a national day of action on October 13. On October 17 the CGT union and activists from the 2018 Yellow Vest movement joined the students. The interior ministry counted 5.5 lakh marchers; organisers said 8 lakh.
 
 ```timeline
-{"title":"Five weeks of protest in France","items":[{"date":"21 Sep 2026","text":"Pupils blockade the Lycée Saint-Exupéry in Créteil over missing teachers and a run-down building."},{"date":"6 Oct","text":"About 4.5 lakh students, parents and teachers march across France."},{"date":"13 Oct","text":"National day of action after unions reject the offer of 3,000 substitute teachers."},{"date":"17 Oct","text":"Unions and Yellow Vests join; 5.5 lakh march, Limoges city hall is set on fire, more than 2,300 are arrested."},{"date":"19 Oct","text":"Curfews in Paris, Bordeaux, Nice and other cities."},{"date":"24 Oct","text":"Second mass Saturday: 4.1 lakh march under a 70,000-strong police deployment, nearly 1,000 arrests."},{"date":"31 Oct","text":"Students have called their next national march."}]}
+{"title":"Five weeks of protest in France","items":[{"date":"Sep 21, 2026","text":"Pupils blockade the Lycée Saint-Exupéry in Créteil over missing teachers and a run-down building."},{"date":"Oct 6","text":"About 4.5 lakh students, parents and teachers march across France."},{"date":"Oct 13","text":"National day of action after unions reject the offer of 3,000 substitute teachers."},{"date":"Oct 17","text":"Unions and Yellow Vests join; 5.5 lakh march, Limoges city hall is set on fire, more than 2,300 are arrested."},{"date":"Oct 19","text":"Curfews in Paris, Bordeaux, Nice and other cities."},{"date":"Oct 24","text":"Second mass Saturday: 4.1 lakh march under a 70,000-strong police deployment, nearly 1,000 arrests."},{"date":"Oct 31","text":"Students have called their next national march."}]}
 ```
 
 ## How violent has it been?
 
 **The first big Saturday brought the worst rioting France has seen in years; the second was calmer but still tense.**
 
-On 17 October Limoges city hall was set alight, protesters forced their way into Marseille's, and shops were looted in Paris, Lyon and elsewhere. More than 2,300 people were arrested that day and nearly 1,000 police officers and gendarmes were hurt. Protesters were injured too, including a young man in Saint-Étienne who lost a hand. The business lobby Medef says at least 3,000 businesses were hit.
+On October 17 Limoges city hall was set alight, protesters forced their way into Marseille's, and shops were looted in Paris, Lyon and elsewhere. More than 2,300 people were arrested that day and nearly 1,000 police officers and gendarmes were hurt. Protesters were injured too, including a young man in Saint-Étienne who lost a hand. The business lobby Medef says at least 3,000 businesses were hit.
 
 Last Saturday the government put 70,000 police on the streets, shut the Louvre and banned marches in several cities. About 4.1 lakh people turned out, nearly 1,000 were arrested and police fired tear gas in Paris, Marseille, Lyon and other cities after dark. Interior Minister Laurent Nuñez called it more positive than the week before.
 
@@ -108,7 +108,7 @@ Last Saturday the government put 70,000 police on the streets, shut the Louvre a
 
 **First it promised order, then it admitted mistakes, and now it is offering concessions.**
 
-Macron spoke of his "anger and shame" after the first riots and later conceded "failures in anticipation and intelligence". He refused Nuñez's offer to resign, imposed targeted curfews and described the work of far-left groups as "sedition". On Friday he met student representatives and promised more teachers and an overhaul of Parcoursup. The students were not satisfied, and have called another march for Saturday 31 October.
+Macron spoke of his "anger and shame" after the first riots and later conceded "failures in anticipation and intelligence". He refused Nuñez's offer to resign, imposed targeted curfews and described the work of far-left groups as "sedition". On Friday he met student representatives and promised more teachers and an overhaul of Parcoursup. The students were not satisfied, and have called another march for Saturday, October 31.
 
 ## Why does it matter beyond France?
 

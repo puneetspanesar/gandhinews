@@ -22,7 +22,7 @@ hero:
     value: "Ten days to the midterms"
 related: [trump-backs-ramaswamy-ad-amy-acton-mother-dewine, trump-approval-record-low-polls-two-weeks-before-midterms]
 seo:
-  description: "Donald and Melania Trump will vote early in Palm Beach on 24 October as early voting opens across Florida and Michigan, ten days before the US midterm elections."
+  description: "Donald and Melania Trump will vote early in Palm Beach on October 24 as early voting opens across Florida and Michigan, ten days before the US midterm elections."
 sources:
   - title: "Trumps to vote early in person in Florida on Saturday"
     publisher: "WSGW / AP"
@@ -48,16 +48,16 @@ verification:
   status: approved
   notes:
     - "Voting plan from a White House official via AP (WSGW); polling place and time not given. At publication (about 1 am ET Saturday) the Trumps had not yet voted; written as a preview."
-    - "Fort Myers quote from Tampa Free Press. Election day 3 November (FOX 2)."
+    - "Fort Myers quote from Tampa Free Press. Election day November 3 (FOX 2)."
     - "Alaska DOJ suit from The Hill live blog, Friday; written briefly."
 ---
 
 President Donald Trump and the first lady, Melania Trump, will vote early and in person in Palm Beach County, Florida, on Saturday, a White House official said, as early voting opens in Florida and Michigan with ten days to go before the midterms.
 
-Saturday is the first day that early voting is mandatory in all 67 Florida counties, running until Halloween. Trump is registered in Palm Beach, home to his Mar-a-Lago estate, and has long said he prefers to vote on election day while criticising widespread postal voting. He has voted by mail in recent elections. Asked what he would do on 3 November itself, he did not say.
+Saturday is the first day that early voting is mandatory in all 67 Florida counties, running until Halloween. Trump is registered in Palm Beach, home to his Mar-a-Lago estate, and has long said he prefers to vote on election day while criticising widespread postal voting. He has voted by mail in recent elections. Asked what he would do on November 3 itself, he did not say.
 
 On Friday he rallied in Fort Myers for Representative Byron Donalds, the Republican nominee for governor, and Senator Ashley Moody, who is seeking a full term. "In 11 days from now, the people of Florida are going to elect Byron Donalds," Trump told the crowd, urging a big turnout.
 
-Michigan also opens in-person early voting on Saturday, running until 1 November. Former president Barack Obama is due in Detroit on Saturday evening alongside Jocelyn Benson, the Democratic nominee for governor, and Abdul El-Sayed, the party's Senate candidate. Trump answers on Sunday with a rally at McMorran Place Arena in Port Huron, the first visit by a sitting president to the city, according to local officials.
+Michigan also opens in-person early voting on Saturday, running until November 1. Former president Barack Obama is due in Detroit on Saturday evening alongside Jocelyn Benson, the Democratic nominee for governor, and Abdul El-Sayed, the party's Senate candidate. Trump answers on Sunday with a rally at McMorran Place Arena in Port Huron, the first visit by a sitting president to the city, according to local officials.
 
 The fight over the count has already begun. On Friday, the Justice Department sued to block certification of Alaska's Senate result if Republican Senator Dan Sullivan loses to Democrat Mary Peltola, citing a candidate on the ballot with the same name as Sullivan. Attorney General Todd Blanche did not rule out stepping into state certification, though he called such talk a "doomsday scenario" and said the department had no intention of improperly interfering.

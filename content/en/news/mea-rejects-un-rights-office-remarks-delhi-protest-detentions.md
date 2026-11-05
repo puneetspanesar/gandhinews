@@ -10,10 +10,10 @@ standfirst: "The UN Human Rights Office had asked India to release people arbitr
 published: 2026-10-11T19:30:00+05:30
 location: New Delhi
 keyPoints:
-  - "The UN Human Rights Office said on 10 October that **all those arbitrarily detained** at the Delhi protest must be released immediately."
+  - "The UN Human Rights Office said on October 10 that **all those arbitrarily detained** at the Delhi protest must be released immediately."
   - "India's mission in Geneva replied the same day that the concerns were **misplaced and an unwarranted interference**."
-  - "On 11 October the MEA said the office had ignored **violent responses to protests in our neighbourhood**."
-  - "Estimates of those detained in Delhi on 10 October range from **about 2,000 to over 7,000**."
+  - "On October 11 the MEA said the office had ignored **violent responses to protests in our neighbourhood**."
+  - "Estimates of those detained in Delhi on October 10 range from **about 2,000 to over 7,000**."
 hero:
   need: "Palais Wilson in Geneva, headquarters of the UN Human Rights Office, or South Block, New Delhi"
   suggested_source: "Wikimedia Commons: Palais Wilson Geneva"
@@ -22,7 +22,7 @@ hero:
     value: "India rejects UN remarks as “unwarranted”"
 related: [supreme-court-orders-metro-internet-restored-after-cjp-protest-detentions, what-is-the-cockroach-janta-party, election-commission]
 seo:
-  description: "India rejected UN Human Rights Office concerns over mass detentions at the 10 Oct Delhi protest, calling them unwarranted and accusing it of double standards."
+  description: "India rejected UN Human Rights Office concerns over mass detentions at the Oct 10 Delhi protest, calling them unwarranted and accusing it of double standards."
 sources:
   - title: "India rejects OHCHR remarks on New Delhi events, calls concerns 'unwarranted'"
     publisher: "DD India"
@@ -64,8 +64,8 @@ verification:
   notes:
     - "UN News page (news.un.org) returned a fetch error; only its headline and summary were seen via un.org. OHCHR quotes are from Business Today, which quotes the @UNHumanRights post, cross-checked against The Wire and Al Jazeera. Spokesperson Thameen Al-Kheetan is named by The Wire and Al Jazeera."
     - "Business Today and Al Jazeera have slightly different OHCHR wording for the restraint sentence: Business Today ends it 'consistent with the country's democratic traditions and human rights obligations', The Wire has 'in response to peaceful protesters'. The story quotes only the part both share."
-    - "Geneva mission post (10 Oct, @IndiaUNGeneva) quoted from Business Today. MEA statement (11 Oct) quoted from DD India, cross-checked with The Wire. mea.gov.in was not reachable; check full texts before publishing."
-    - "DD India attributes the 11 October statement to the MEA and does not mention the Geneva mission; Business Today attributes the 10 October post to the Geneva mission. The two texts differ, so they are treated as two statements."
+    - "Geneva mission post (Oct 10, @IndiaUNGeneva) quoted from Business Today. MEA statement (Oct 11) quoted from DD India, cross-checked with The Wire. mea.gov.in was not reachable; check full texts before publishing."
+    - "DD India attributes the October 11 statement to the MEA and does not mention the Geneva mission; Business Today attributes the October 10 post to the Geneva mission. The two texts differ, so they are treated as two statements."
     - "Detention estimates conflict: about 2,000 (a Home Ministry official, Reuters via Al Jazeera); nearly 2,500 (Delhi Police sources, The Hindu via Al Jazeera); over 7,000 (PTI via Business Standard). The sister story also cites about 1,000 (Delhi Police sources) and over 15,000 (CJP); not re-opened here, so not used."
     - "The MEA statement did not, in the text seen, name the countries it was referring to; the story does not guess."
 ---
@@ -76,13 +76,13 @@ It was India's second reply in two days. Late on Saturday, India's Permanent Mis
 
 ## What the UN office said
 
-The Office of the UN High Commissioner for Human Rights (OHCHR) said on 10 October that it was "concerned by reports of mass detentions of demonstrators, protest leaders, members of civil society organisations, lawyers and journalists, before and during today's large-scale demonstrations in Delhi".
+The Office of the UN High Commissioner for Human Rights (OHCHR) said on October 10 that it was "concerned by reports of mass detentions of demonstrators, protest leaders, members of civil society organisations, lawyers and journalists, before and during today's large-scale demonstrations in Delhi".
 
 Its spokesperson, Thameen Al-Kheetan, said: "We call on the authorities to ensure that the right to peaceful assembly is fully respected and fulfilled." The office said restrictions on peaceful protests "must meet strict tests of necessity and proportionality" and that the Indian authorities should ensure law enforcement forces "exercise utmost restraint".
 
 > All those arbitrarily detained must be immediately and unconditionally released.
 >
-> Source: UN Human Rights Office, statement, 10 October 2026
+> Source: UN Human Rights Office, statement, October 10, 2026
 
 ## India's two replies
 
@@ -92,10 +92,10 @@ The MEA's statement on Sunday repeated the first point and went further. "Our la
 
 > Violent responses to protests in our neighbourhood have gone uncommented, as indeed have law enforcement actions in its own vicinity. Such double standards only erode the credibility of its standing and contribute to the loss of faith in multilateralism.
 >
-> Source: Ministry of External Affairs, statement, 11 October 2026
+> Source: Ministry of External Affairs, statement, October 11, 2026
 
 ```timeline
-{"title":"How the exchange unfolded","items":[{"date":"10 Oct 2026","text":"Police stop the Cockroach Janta Party's march to Jantar Mantar against CEC Gyanesh Kumar; thousands detained in Delhi."},{"date":"10 Oct 2026","text":"UN Human Rights Office calls for the release of all those arbitrarily detained."},{"date":"10 Oct 2026, late","text":"India's mission in Geneva calls the concerns misplaced and an unwarranted interference."},{"date":"11 Oct 2026","text":"Supreme Court, at a special sitting, says peaceful protesters should not be illegally detained."},{"date":"11 Oct 2026","text":"MEA says the office's concerns are unwarranted and accuses it of double standards."}]}
+{"title":"How the exchange unfolded","items":[{"date":"Oct 10, 2026","text":"Police stop the Cockroach Janta Party's march to Jantar Mantar against CEC Gyanesh Kumar; thousands detained in Delhi."},{"date":"Oct 10, 2026","text":"UN Human Rights Office calls for the release of all those arbitrarily detained."},{"date":"Oct 10, 2026, late","text":"India's mission in Geneva calls the concerns misplaced and an unwarranted interference."},{"date":"Oct 11, 2026","text":"Supreme Court, at a special sitting, says peaceful protesters should not be illegally detained."},{"date":"Oct 11, 2026","text":"MEA says the office's concerns are unwarranted and accuses it of double standards."}]}
 ```
 
 ## The protest behind the exchange

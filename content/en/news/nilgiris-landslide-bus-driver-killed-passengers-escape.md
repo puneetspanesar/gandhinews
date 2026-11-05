@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: IANS via English Punjab Kesari, 2:54 pm IST, dateline Nilgiris 24 Oct. Exact time of landslide not given; copy says Saturday."
+    - "Single source: IANS via English Punjab Kesari, 2:54 pm IST, dateline Nilgiris Oct 24. Exact time of landslide not given; copy says Saturday."
     - "Place given as 'near Parliyar'; the commonly used name is Burliar, used only in hero search term. Copy keeps the source's spelling."
     - "Rescuers at first said the driver had been rescued, then recovered his body: from source."
     - "Kesavan quotes verbatim from IANS."

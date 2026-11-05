@@ -6,14 +6,14 @@ section: politics
 format_label: "Politics / Protests"
 topics: [election-commission, electoral-rolls-sir, supreme-court]
 title: "Supreme Court orders Metro and internet restored after mass detentions at CJP protest"
-standfirst: "Police held thousands, by most counts, as they blocked a march against CEC Gyanesh Kumar on 10 October. At a Sunday sitting, the court said peaceful protesters cannot be held except by law."
+standfirst: "Police held thousands, by most counts, as they blocked a march against CEC Gyanesh Kumar on October 10. At a Sunday sitting, the court said peaceful protesters cannot be held except by law."
 published: 2026-10-11T16:30:00+05:30
 location: New Delhi
 keyPoints:
-  - "**Police stopped the Cockroach Janta Party's march to Jantar Mantar** on 10 October; counts of those detained range from about 1,000 (Delhi Police sources) and about 2,000 (a Home Ministry official) to over 15,000 (the CJP)."
-  - "CJP founder Abhijeet Dipke, Saurav Das and Ashutosh Ranka were held under preventive arrest and **released on 11 October on a ₹50,000 surety bond** to keep the peace for a year."
+  - "**Police stopped the Cockroach Janta Party's march to Jantar Mantar** on October 10; counts of those detained range from about 1,000 (Delhi Police sources) and about 2,000 (a Home Ministry official) to over 15,000 (the CJP)."
+  - "CJP founder Abhijeet Dipke, Saurav Das and Ashutosh Ranka were held under preventive arrest and **released on October 11 on a ₹50,000 surety bond** to keep the peace for a year."
   - "A Supreme Court bench said Metro and rail services must run normally, **internet must stay on** and nobody may be detained except by procedure established by law."
-  - "The court **issued contempt notice** to the Union Home Secretary, the Delhi Police Commissioner and the DMRC chief; the case returns on Tuesday, 13 October."
+  - "The court **issued contempt notice** to the Union Home Secretary, the Delhi Police Commissioner and the DMRC chief; the case returns on Tuesday, October 13."
 hero:
   need: "Supreme Court of India, New Delhi"
   suggested_source: "Wikimedia Commons 'Supreme Court of India'"
@@ -22,7 +22,7 @@ hero:
     value: "Metro, internet must run normally"
 related: [what-is-the-cockroach-janta-party, election-commission-dissent-report-move-to-remove-cec, how-chief-election-commissioner-is-appointed-removed, sir-phase-three-draft-rolls-names-dropped-by-state, election-commission, electoral-rolls-sir]
 seo:
-  description: "Police detained thousands, by most counts, at the CJP's 10 October protest against CEC Gyanesh Kumar. The Supreme Court ordered Metro, rail and internet restored."
+  description: "Police detained thousands, by most counts, at the CJP's October 10 protest against CEC Gyanesh Kumar. The Supreme Court ordered Metro, rail and internet restored."
 sources:
   - title: "Supreme Court Sunday hearing against detentions and curbs during Delhi protests (live updates)"
     publisher: "LiveLaw"
@@ -93,13 +93,13 @@ verification:
   status: approved
   notes:
     - "Detention totals conflict and none is on the record: about 1,000 (Delhi Police sources, Gulf News and Organiser); about 2,000 (a Home Ministry official, Reuters via Al Jazeera); nearly 2,500 (Delhi Police sources, The Hindu via Al Jazeera); over 7,000 (PTI via Business Standard; The Week); more than 15,000 'faced detentions and police action' (CJP's Ajinkya Shinde, Business Standard). All shown with attribution."
-    - "11 Oct: house style changed to report in the desk's own voice. Outlet attributions removed from the text; claims stay attributed to the people and bodies that made them. Facts resting on a single outlet's report are worded as 'reported' or kept to what police, the court or the parties said. Sources stay listed here as the internal record."
-    - "Independent fact-check 11 Oct: corrected the attribution of the 1,000 figure (Gulf News, not AFP), Patra's quote (Al Jazeera), the 57-station figure (DMRC notification, not petitioners), and turned the SG's words into reported speech."
-    - "Metro closures: SG Tushar Mehta told the court entry was restricted at 45 of 303 stations; the 9 October order and the contempt plea refer to 57 stations. Both stated with attribution."
+    - "Oct 11: house style changed to report in the desk's own voice. Outlet attributions removed from the text; claims stay attributed to the people and bodies that made them. Facts resting on a single outlet's report are worded as 'reported' or kept to what police, the court or the parties said. Sources stay listed here as the internal record."
+    - "Independent fact-check Oct 11: corrected the attribution of the 1,000 figure (Gulf News, not AFP), Patra's quote (Al Jazeera), the 57-station figure (DMRC notification, not petitioners), and turned the SG's words into reported speech."
+    - "Metro closures: SG Tushar Mehta told the court entry was restricted at 45 of 303 stations; the October 9 order and the contempt plea refer to 57 stations. Both stated with attribution."
     - "The Supreme Court's written order was not opened; directions are as summarised by LiveLaw's live blog and PTI. LiveLaw notes the directions are subject to law and order conditions."
     - "BNSS Sections 126 and 170 and the ₹50,000 bond are from Delhi Police's X post as quoted by Organiser."
-    - "'Tuesday' for the next hearing is from The Tribune and LiveLaw; 13 October is the date of that Tuesday."
-    - "Not covered: whether protesters gathered at Jantar Mantar on 11 October; reports seen by 4 pm IST did not confirm it."
+    - "'Tuesday' for the next hearing is from The Tribune and LiveLaw; October 13 is the date of that Tuesday."
+    - "Not covered: whether protesters gathered at Jantar Mantar on October 11; reports seen by 4 pm IST did not confirm it."
 ---
 
 The Supreme Court on Sunday told the Centre to keep Delhi Metro and rail services running normally and internet services on, a day after police detained thousands of people trying to reach a protest against Chief Election Commissioner (CEC) Gyanesh Kumar.
@@ -107,10 +107,10 @@ The Supreme Court on Sunday told the Centre to keep Delhi Metro and rail service
 A bench of Justices Joymalya Bagchi and V Mohana, at a special Sunday sitting, said nobody should be detained "save and except by procedure established by law", particularly people in peaceful, unarmed assemblies outside the area covered by prohibitory orders. The directions are subject to law and order conditions.
 
 ```infographic
-{"title":"What the Supreme Court ordered on Sunday","items":[{"icon":"train","title":"Metro and trains run normally","text":"Unless regulation is needed to keep public order."},{"icon":"wifi-high","title":"Internet stays on","text":"Subject to law and order conditions."},{"icon":"hand-palm","title":"No detention outside the law","text":"Above all for peaceful, unarmed gatherings outside the prohibited area."},{"icon":"barricade","title":"Barricades to be reviewed","text":"People must be able to move freely, subject to traffic rules."},{"icon":"gavel","title":"Contempt notice to three officials","text":"The Union Home Secretary, the Delhi Police Commissioner and the DMRC chief."},{"icon":"calendar-blank","title":"Back in court on 13 October","text":"Contempt and detention petitions to be heard together."}]}
+{"title":"What the Supreme Court ordered on Sunday","items":[{"icon":"train","title":"Metro and trains run normally","text":"Unless regulation is needed to keep public order."},{"icon":"wifi-high","title":"Internet stays on","text":"Subject to law and order conditions."},{"icon":"hand-palm","title":"No detention outside the law","text":"Above all for peaceful, unarmed gatherings outside the prohibited area."},{"icon":"barricade","title":"Barricades to be reviewed","text":"People must be able to move freely, subject to traffic rules."},{"icon":"gavel","title":"Contempt notice to three officials","text":"The Union Home Secretary, the Delhi Police Commissioner and the DMRC chief."},{"icon":"calendar-blank","title":"Back in court on October 13","text":"Contempt and detention petitions to be heard together."}]}
 ```
 
-## What happened on 10 October
+## What happened on October 10
 
 The Cockroach Janta Party (CJP), a youth movement that began online in May, had called a march to Jantar Mantar to demand the CEC's resignation over the Special Intensive Revision (SIR) of electoral rolls. Delhi Police refused permission, saying the request came too late and that the CJP had broken undertakings given at earlier protests.
 
@@ -127,18 +127,18 @@ CJP founder Abhijeet Dipke and leaders Saurav Das and Ashutosh Ranka were detain
 On Sunday morning an Executive Magistrate at Delhi Cantonment police station released all three on a ₹50,000 surety bond to keep the peace for one year, the police said. CJP legal head Ratna Singh wrote on X: "Condition - no breach of peace for one year."
 
 ```facts
-{"title":"The weekend in numbers","items":[{"value":"45 of 303","label":"Metro stations with entry restricted on 10 October, per the Solicitor General"},{"value":"20","label":"FIRs registered by Delhi Police over the protest"},{"value":"₹50,000","label":"surety bond for each of the three CJP leaders"}]}
+{"title":"The weekend in numbers","items":[{"value":"45 of 303","label":"Metro stations with entry restricted on October 10, per the Solicitor General"},{"value":"20","label":"FIRs registered by Delhi Police over the protest"},{"value":"₹50,000","label":"surety bond for each of the three CJP leaders"}]}
 ```
 
 ## What the court said
 
-The contempt petition, filed by advocate Shailendra Mani Tripathi, says the authorities ignored the court's 9 October order against a complete shutdown of Metro and train services into Delhi. The bench issued notice to Union Home Secretary Govind Mohan, Delhi Police Commissioner Anurag Kumar and DMRC chairperson D Thara, asking for affidavits and a compliance report.
+The contempt petition, filed by advocate Shailendra Mani Tripathi, says the authorities ignored the court's October 9 order against a complete shutdown of Metro and train services into Delhi. The bench issued notice to Union Home Secretary Govind Mohan, Delhi Police Commissioner Anurag Kumar and DMRC chairperson D Thara, asking for affidavits and a compliance report.
 
-Solicitor General Tushar Mehta disputed the allegations. He told the court that entry was restricted at 45 of 303 Metro stations on 10 October and that all stations had been open since 10 pm on Saturday. A DMRC notification had ordered 57 stations closed from Friday night.
+Solicitor General Tushar Mehta disputed the allegations. He told the court that entry was restricted at 45 of 303 Metro stations on October 10 and that all stations had been open since 10 pm on Saturday. A DMRC notification had ordered 57 stations closed from Friday night.
 
 > We are dutybound under Art 32 to prevent encroachment on fundamental rights.
 >
-> Source: Justice Joymalya Bagchi, Supreme Court, 11 October 2026
+> Source: Justice Joymalya Bagchi, Supreme Court, October 11, 2026
 
 ## The two sides
 
@@ -150,4 +150,4 @@ The UN human rights office asked the authorities to ensure "that the right to pe
 
 ## What comes next
 
-No large gathering was seen at Jantar Mantar on Sunday. Rahul Gandhi has announced an INDIA bloc street protest for Monday, 12 October, and Congress has asked its MPs to stay in Delhi. "The more Modi and his government crack down, the more the anger of Gen Z and students will grow," Gandhi said. The Supreme Court will take up the contempt plea and the detention petitions on Tuesday, 13 October.
+No large gathering was seen at Jantar Mantar on Sunday. Rahul Gandhi has announced an INDIA bloc street protest for Monday, October 12, and Congress has asked its MPs to stay in Delhi. "The more Modi and his government crack down, the more the anger of Gen Z and students will grow," Gandhi said. The Supreme Court will take up the contempt plea and the detention petitions on Tuesday, October 13.

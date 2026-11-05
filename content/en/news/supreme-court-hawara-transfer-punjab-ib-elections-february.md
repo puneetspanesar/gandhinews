@@ -22,7 +22,7 @@ hero:
     value: "Hawara stays in Tihar till February"
 related: []
 seo:
-  description: "The Intelligence Bureau told the Supreme Court on 3 November 2026 that moving Beant Singh murder convict Jagtar Singh Hawara from Tihar to Punjab would affect the state elections; the plea was posted to February."
+  description: "The Intelligence Bureau told the Supreme Court on November 3, 2026, that moving Beant Singh murder convict Jagtar Singh Hawara from Tihar to Punjab would affect the state elections; the plea was posted to February."
 sources:
   - title: "Transferring Beant Singh murder convict to Punjab will have huge impact on elections: IB tells SC"
     publisher: "ThePrint (PTI)"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 3 Nov, hearing before 1:46 pm IST (ThePrint/PTI report stamped 1:46 pm, 08:16 UTC); exact hearing time not given."
+    - "event: Nov 3, hearing before 1:46 pm IST (ThePrint/PTI report stamped 1:46 pm, 08:16 UTC); exact hearing time not given."
     - "Single source (PTI via ThePrint). IB report contents are paraphrased in the source; only 'very damning' (bench) and Muralidhar's line are direct quotes."
     - "Source says hearing posted to 'February next year'; exact date not given."
 ---
@@ -49,10 +49,10 @@ Senior Advocate S Muralidhar, for Hawara, said his client's prison record had be
 
 > "If elections are a concern, this may be taken up after three months."
 >
-> Source: S Muralidhar, Senior Advocate for Jagtar Singh Hawara, Supreme Court, 3 November 2026
+> Source: S Muralidhar, Senior Advocate for Jagtar Singh Hawara, Supreme Court, November 3, 2026
 
 The bench did not rule on the transfer and **posted the matter to February**.
 
 ## The long road from Burail
 
-Hawara, a Babbar Khalsa member, and three others escaped from Burail Jail in Chandigarh on 22 January 2004 through a tunnel of about 100 feet. He was caught again within two years. A trial court sentenced him to death in 2007; in 2010 the Punjab and Haryana High Court **commuted it to life without release**. Appeals by both Hawara and the prosecution are still pending in the Supreme Court.
+Hawara, a Babbar Khalsa member, and three others escaped from Burail Jail in Chandigarh on January 22, 2004, through a tunnel of about 100 feet. He was caught again within two years. A trial court sentenced him to death in 2007; in 2010 the Punjab and Haryana High Court **commuted it to life without release**. Appeals by both Hawara and the prosecution are still pending in the Supreme Court.

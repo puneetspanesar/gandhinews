@@ -22,7 +22,7 @@ hero:
     value: "600 litres of rain in a day"
 related: []
 seo:
-  description: "Storm Adam left at least four dead in eastern Spain, with 600 litres of rain per square metre in Oliva; Pedro Sánchez was due to visit on 20 October."
+  description: "Storm Adam left at least four dead in eastern Spain, with 600 litres of rain per square metre in Oliva; Pedro Sánchez was due to visit on October 20."
 sources:
   - title: "At least five killed and thousands evacuated as Storm Adam batters eastern Spain"
     publisher: "Euronews"

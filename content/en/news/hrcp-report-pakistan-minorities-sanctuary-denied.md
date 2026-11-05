@@ -33,7 +33,7 @@ verification:
   notes:
     - "Single source (Dawn). Report gives no numerical totals in the article."
     - "Farah Zia's and Arafat Mazhar's remarks paraphrased; Raja Ashraf partial quote; Hina Jilani direct quote."
-    - "Kamran Gill case date 9 October (year assumed 2026 as per article context 'on October 9'); described as allegation."
+    - "Kamran Gill case date October 9 (year assumed 2026 as per article context 'on October 9'); described as allegation."
 ---
 
 Religious minorities in Pakistan continue to face misuse of blasphemy laws, forced marriages and conversions, hate speech and discrimination, despite recent laws meant to protect them, the Human Rights Commission of Pakistan said on Thursday.
@@ -42,7 +42,7 @@ The commission's seventh annual report on freedom of religion or belief, titled 
 
 The report documents attacks on the Ahmadi community in Chenab Nagar in October 2025 and June 2026, and growing efforts to shut Ahmadis out of public and commercial life. Christian and Hindu girls continue to be abducted and forced into marriage, it says, a problem made worse by poverty and weak police responses.
 
-Minority rights defender Nabila Feroz Bhatti pointed to the case of Kamran Gill, a Christian medical practitioner from Sheikhupura whose dispensary was set on fire by a mob on 9 October after he was accused of sharing blasphemous content online.
+Minority rights defender Nabila Feroz Bhatti pointed to the case of Kamran Gill, a Christian medical practitioner from Sheikhupura whose dispensary was set on fire by a mob on October 9 after he was accused of sharing blasphemous content online.
 
 ## A law still waiting
 

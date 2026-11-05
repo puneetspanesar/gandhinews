@@ -49,8 +49,8 @@ verification:
   notes:
     - "2009 Act (transplanting moved from May to mid-June; harvest pushed into late October; window of two to three weeks) from iamrenew and the Hindu explainer summary (SuperKalam), which agree."
     - "Straw volumes (Punjab about 20 million tonnes a year, Haryana about 7-8 million) and the 15-30% share of Delhi PM2.5 at peak ('some studies') from Business Standard, October 2025; given as approximate."
-    - "Satellite gap after 3 pm (Bhupender Yadav), 3.54 lakh CRM machines, Pusa-44 to PR126/Pusa 2090 advice and funding figures from the PIB release of 13 October as reported in the desk's story that day."
-    - "2025 season total 5,114 Punjab incidents, 174 by 13 October 2026 and the 51-fire day from the desk's 15 October story (NewsBytes, single source)."
+    - "Satellite gap after 3 pm (Bhupender Yadav), 3.54 lakh CRM machines, Pusa-44 to PR126/Pusa 2090 advice and funding figures from the PIB release of October 13 as reported in the desk's story that day."
+    - "2025 season total 5,114 Punjab incidents, 174 by October 13, 2026, and the 51-fire day from the desk's October 15 story (NewsBytes, single source)."
     - "MSP exclusion upheld by NGT and Supreme Court as stated in the Hindu explainer summary; no order dates given, so none stated."
     - "Weather description (smoke trapped over NCR in early winter) kept general, as in Business Standard; no specific inversion data used."
 ---
@@ -61,7 +61,7 @@ verification:
 
 The paddy harvest in the two states begins in October. Wheat, the winter crop, should ideally be sown by early November. That leaves farmers about two to three weeks to clear their fields of the straw and stubble left behind. Setting it alight takes an afternoon and costs nothing. Every other method costs money, machines, labour or time.
 
-The burning season officially runs from mid-September to the end of November, but the bulk of it is packed into a few weeks. That is why the count rises so steeply: Punjab logged 51 fires on a single day this week, its worst of the season, taking its total to 174 by 13 October, and most of the crop is still standing.
+The burning season officially runs from mid-September to the end of November, but the bulk of it is packed into a few weeks. That is why the count rises so steeply: Punjab logged 51 fires on a single day this week, its worst of the season, taking its total to 174 by October 13, and most of the crop is still standing.
 
 ## What does a groundwater law have to do with it?
 

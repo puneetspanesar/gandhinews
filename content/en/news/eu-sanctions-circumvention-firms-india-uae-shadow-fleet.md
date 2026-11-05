@@ -21,7 +21,7 @@ hero:
     value: "Shadow fleet links reach India"
 related: [ukraine-resumes-strikes-russian-oil-refineries, india-us-trade-talks-plateau-russia-oil-tariff-law, ukraine-osce-refinery-strikes-stop-if-russia-halts-energy-attacks]
 seo:
-  description: "The EU on 15 October sanctioned 3 people and 9 firms in Russia, Turkey, the UAE, India and Seychelles for helping Moscow evade oil and trade sanctions."
+  description: "The EU on October 15 sanctioned 3 people and 9 firms in Russia, Turkey, the UAE, India and Seychelles for helping Moscow evade oil and trade sanctions."
 sources:
   - title: "EU sanctions individuals and companies for circumventing Russia sanctions"
     publisher: "Ukrinform"
@@ -43,7 +43,7 @@ verification:
   notes:
     - "Details come from Ukrinform's account of the Council press release; the Council page itself could not be fetched. Entity names and descriptions follow Ukrinform."
     - "The report groups DIS Logistics DMCC, Vigor Marine Services LLP, Shiva Shipping Ltd and Hurus Trade FZE as companies in the UAE, India and the Seychelles without saying which is registered where, so the copy does not assign countries to individual firms."
-    - "No reaction from India's MEA to the EU listings was found; the MEA remark quoted is from 14 October and concerns the US law, not the EU move."
+    - "No reaction from India's MEA to the EU listings was found; the MEA remark quoted is from October 14 and concerns the US law, not the EU move."
 ---
 
 The European Union on Thursday added three people and nine companies to its Russia sanctions list for helping Moscow get round existing curbs on trade, oil and payments. Four of the companies are based in the United Arab Emirates, India and the Seychelles, and one is described as a middleman selling Russian-origin crude to India.

@@ -11,7 +11,7 @@ published: 2026-10-22T18:20:00+05:30
 location: Strasbourg
 keyPoints:
   - "The European Parliament awarded its **2026 Sakharov Prize** to the International Criminal Court and its officials on Thursday."
-  - "The Trump administration imposed sanctions on the court, its judges, prosecutors and staff on **9 October**."
+  - "The Trump administration imposed sanctions on the court, its judges, prosecutors and staff on **October 9**."
   - "Socialists want the European Commission to use the EU's **Blocking Statute** to shield the court."
 hero:
   need: "The International Criminal Court building in The Hague, or European Parliament President Roberta Metsola"
@@ -22,7 +22,7 @@ hero:
     value: "Europe's top rights prize for the ICC"
 related: []
 seo:
-  description: "The European Parliament awarded the 2026 Sakharov Prize to the International Criminal Court on 22 October, days after US sanctions on the court's judges and staff."
+  description: "The European Parliament awarded the 2026 Sakharov Prize to the International Criminal Court on October 22, days after US sanctions on the court's judges and staff."
 sources:
   - title: "EU Parliament awards Sakharov Prize to ICC in rebuke of US sanctions (Euronews)"
     publisher: "Yahoo News"
@@ -49,7 +49,7 @@ The European Parliament on Thursday awarded the Sakharov Prize for Freedom of Th
 
 The decision was announced at the parliament's plenary session in Strasbourg. The prize, created in 1988, has gone in the past to Nelson Mandela and Alexei Navalny. It will be presented at a ceremony in Strasbourg in December.
 
-Washington announced sanctions on the court as an institution on 9 October, with measures that also reach its judges, prosecutors and staff. The United States has repeatedly attacked the court over its arrest warrant for Israeli Prime Minister Benjamin Netanyahu and its investigation into the conduct of American troops in Afghanistan.
+Washington announced sanctions on the court as an institution on October 9, with measures that also reach its judges, prosecutors and staff. The United States has repeatedly attacked the court over its arrest warrant for Israeli Prime Minister Benjamin Netanyahu and its investigation into the conduct of American troops in Afghanistan.
 
 ## "A message of hope and resistance"
 
@@ -69,6 +69,6 @@ The third finalists were Taraneh and Romina Rahimi, Iranian sisters nominated on
 
 The award adds weight to calls for the EU to protect the court. "The next step is clear: activate the Blocking Statute," García Pérez said, referring to the EU law meant to shield European companies and people from the effect of foreign sanctions.
 
-The EU's foreign policy chief, Kaja Kallas, called the US sanctions threat "not acceptable" on 9 October, and MEPs last week urged Commission President Ursula von der Leyen to use "all instruments at our disposal". The EU has not yet taken concrete action.
+The EU's foreign policy chief, Kaja Kallas, called the US sanctions threat "not acceptable" on October 9, and MEPs last week urged Commission President Ursula von der Leyen to use "all instruments at our disposal". The EU has not yet taken concrete action.
 
 The prize comes in the same month that the Nobel Peace Prize went to Navanethem "Navi" Pillay, the South African jurist who served as a judge of the court from 2003 to 2008.

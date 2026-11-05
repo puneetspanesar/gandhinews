@@ -21,7 +21,7 @@ hero:
     value: "Every rupee raised, watched"
 related: [sebi-new-settlement-rules-fast-track-up-to-10-lakh, zetwerk-ipo-price-band-opens-october-15, tonbo-imaging-ipo-price-band-defence-tech]
 seo:
-  description: "SEBI's 13 October consultation paper proposes mandatory monitoring agencies for all issues, ₹50,000 fines and promoter demat freezes for firms that do not cooperate."
+  description: "SEBI's October 13 consultation paper proposes mandatory monitoring agencies for all issues, ₹50,000 fines and promoter demat freezes for firms that do not cooperate."
 sources:
   - title: "Sebi proposes tighter IPO proceeds monitoring, fines for defaulting firms"
     publisher: "Business Standard"

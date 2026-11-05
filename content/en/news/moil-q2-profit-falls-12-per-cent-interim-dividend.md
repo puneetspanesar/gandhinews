@@ -12,7 +12,7 @@ location: Nagpur
 keyPoints:
   - "MOIL's consolidated profit **fell 12.3% to ₹61.77 crore** in the September quarter."
   - "Revenue from operations **rose 10.9% to ₹369.13 crore**."
-  - "The board declared an **interim dividend of ₹2.20 a share**, with 6 November as record date."
+  - "The board declared an **interim dividend of ₹2.20 a share**, with November 6 as record date."
 hero:
   need: "A MOIL manganese ore mine"
   suggested_source: "MOIL Limited"
@@ -22,7 +22,7 @@ hero:
     value: "Profit down 12%, ₹2.20 dividend"
 related: [sensex-nifty-close-november-2, coal-india-shares-4-per-cent-record-october-output-67-mt]
 seo:
-  description: "MOIL Q2 FY27 results: consolidated net profit down 12.3% to ₹61.77 crore, revenue up 10.9% to ₹369.13 crore, interim dividend of ₹2.20, record date 6 November."
+  description: "MOIL Q2 FY27 results: consolidated net profit down 12.3% to ₹61.77 crore, revenue up 10.9% to ₹369.13 crore, interim dividend of ₹2.20, record date November 6."
 cover:
   template: business
   label: "Q2 results"
@@ -47,8 +47,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov, results reported 4:50 pm IST (Free Press Journal 'updated' stamp; no earlier time shown). Board meeting outcome; exact filing time not seen."
-    - "Single source (FPJ). All figures from it: profit ₹61.77 cr vs ₹70.44 cr, revenue ₹369.13 cr vs ₹332.74 cr, expenses ₹307.89 cr vs ₹273.27 cr, PBT ₹77.13 cr vs ₹89.76 cr, EPS ₹3.04 vs ₹3.46, dividend ₹2.20 (22% of ₹10 FV), record date 6 Nov, MOIL International IFSC Ltd subsidiary at GIFT City."
+    - "event: Nov 2, results reported 4:50 pm IST (Free Press Journal 'updated' stamp; no earlier time shown). Board meeting outcome; exact filing time not seen."
+    - "Single source (FPJ). All figures from it: profit ₹61.77 cr vs ₹70.44 cr, revenue ₹369.13 cr vs ₹332.74 cr, expenses ₹307.89 cr vs ₹273.27 cr, PBT ₹77.13 cr vs ₹89.76 cr, EPS ₹3.04 vs ₹3.46, dividend ₹2.20 (22% of ₹10 FV), record date Nov 6, MOIL International IFSC Ltd subsidiary at GIFT City."
     - "No management quote found; none used. Volumes not given in source; not mentioned."
 ---
 
@@ -64,7 +64,7 @@ Earnings per share came in at ₹3.04, against ₹3.46 in the same quarter last 
 
 ## Dividend and a GIFT City arm
 
-Despite the weaker quarter, the board declared an **interim dividend of ₹2.20 a share** for 2026-27, or 22% of the ₹10 face value. Shareholders on the register on **6 November** will receive it.
+Despite the weaker quarter, the board declared an **interim dividend of ₹2.20 a share** for 2026-27, or 22% of the ₹10 face value. Shareholders on the register on **November 6** will receive it.
 
 The board also approved setting up **a wholly owned subsidiary at GIFT City** in Gujarat, to be called MOIL International IFSC Limited.
 

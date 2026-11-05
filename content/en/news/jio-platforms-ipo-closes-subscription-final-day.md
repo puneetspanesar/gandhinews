@@ -12,7 +12,7 @@ location: Mumbai
 keyPoints:
   - "The ₹30,213 crore issue was subscribed **9.81 times** by 2:10 pm on Friday."
   - "Qualified institutional buyers bid for **23.47 times** their quota."
-  - "Allotment is due on 26 October and the shares are set to **list on 28 October**."
+  - "Allotment is due on October 26 and the shares are set to **list on October 28**."
 hero:
   need: "Reliance Corporate Park, the Reliance and Jio campus at Ghansoli, Navi Mumbai, with Mukesh Ambani"
   suggested_source: "Mukesh Ambani"
@@ -22,7 +22,7 @@ hero:
     value: "Almost 10 times covered"
 related: [jio-ipo-5-51-times-day-two-close-final-day, jio-ipo-retail-quota-full-day-two-3-47-times, jio-platforms-anchor-book-8110-crore-30-times-demand, jio-platforms-ipo-opens-today-what-bidders-need-to-know, midcap-smallcap-indices-slide-4-per-cent-margin-calls]
 seo:
-  description: "Jio Platforms IPO subscription status day 3, 23 October 2026: 9.81 times by 2:10 pm, QIB 23.47x, NII 11.97x, retail 2.28x. ₹30,213 crore issue; allotment 26 October, listing 28 October."
+  description: "Jio Platforms IPO subscription status day 3, October 23, 2026: 9.81 times by 2:10 pm, QIB 23.47x, NII 11.97x, retail 2.28x. ₹30,213 crore issue; allotment October 26, listing October 28."
 sources:
   - title: "Stock Market LIVE, 23 October 2026"
     publisher: "Business Standard"
@@ -66,10 +66,10 @@ That modest retail figure matters for small bidders. The retail portion is the l
 
 ## How the issue works
 
-Jio, the digital and telecom arm of Reliance Industries, is selling only new shares, at ₹1,065 to ₹1,119 each in lots of 12. No existing shareholder is selling. Before the offer opened on 21 October, the company raised ₹8,109.85 crore from anchor investors, who took about 7.25 crore shares at ₹1,119.
+Jio, the digital and telecom arm of Reliance Industries, is selling only new shares, at ₹1,065 to ₹1,119 each in lots of 12. No existing shareholder is selling. Before the offer opened on October 21, the company raised ₹8,109.85 crore from anchor investors, who took about 7.25 crore shares at ₹1,119.
 
 The scale of the offer has been felt across the market. Some market participants said investors had been pulling money out of small and mid-sized shares to bid for Jio, one of several reasons cited for a slump of nearly 4% in the Nifty Smallcap 100 index on Friday. Dollar inflows tied to the issue also helped the rupee earlier this week.
 
 ## What comes next
 
-Bidding ends on Friday. Allotment is expected to be finalised on Monday, 26 October, and the shares are scheduled to begin trading on the BSE and NSE on Wednesday, 28 October. The listing will make Jio one of the most valuable companies on Indian exchanges and will be watched as a test of how much appetite remains for big new issues in a market rattled by oil prices and the conflict in West Asia.
+Bidding ends on Friday. Allotment is expected to be finalised on Monday, October 26, and the shares are scheduled to begin trading on the BSE and NSE on Wednesday, October 28. The listing will make Jio one of the most valuable companies on Indian exchanges and will be watched as a test of how much appetite remains for big new issues in a market rattled by oil prices and the conflict in West Asia.

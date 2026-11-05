@@ -31,7 +31,7 @@ infographic:
   source: "Statements on X, November 3, 2026"
 related: []
 seo:
-  description: "BJP MP Nishikant Dubey on 3 November 2026 offered to debate Rahul Gandhi at the Congress office after Rahul dared PM Modi to an open debate on the 'anti-national' charge."
+  description: "BJP MP Nishikant Dubey on November 3, 2026, offered to debate Rahul Gandhi at the Congress office after Rahul dared PM Modi to an open debate on the 'anti-national' charge."
 sources:
   - title: "BJP MP Nishikant Dubey Offers to Debate Rahul Gandhi at Congress HQ"
     publisher: "Asianet Newsable"
@@ -46,9 +46,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 3 Nov night IST, Dubey post on X; Asianet report 11:11 pm IST. Exact time of the X post not given."
+    - "event: Nov 3 night IST, Dubey post on X; Asianet report 11:11 pm IST. Exact time of the X post not given."
     - "Dubey quotes ('to the Congress office to debate with you on papers, issues', 'Get satisfied with me first, then challenge our leaders') from Asianet, single source; quoted as his words on X."
-    - "Rahul quotes and Rijiju quotes from Kashmir Images (PTI copy), 3 Nov. Rahul's X post made Tuesday, time not given. Bhagwat-as-judge and moderator details in both sources."
+    - "Rahul quotes and Rijiju quotes from Kashmir Images (PTI copy), Nov 3. Rahul's X post made Tuesday, time not given. Bhagwat-as-judge and moderator details in both sources."
     - "Rahul X poll and list of leaders tagged from Asianet only; poll options left out."
 ---
 

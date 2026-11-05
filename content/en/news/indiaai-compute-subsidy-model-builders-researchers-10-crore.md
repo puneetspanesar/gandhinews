@@ -32,14 +32,14 @@ sources:
 verification:
   status: approved
   notes:
-    - "All figures and quotes from ThePrint's analysis (published 11:20 am IST, 20 October) of the 304 approvals on the IndiaAI Compute Portal as updated on 8 October. Single source; the underlying portal data is public but was not checked directly this run."
+    - "All figures and quotes from ThePrint's analysis (published 11:20 am IST, October 20) of the 304 approvals on the IndiaAI Compute Portal as updated on October 8. Single source; the underlying portal data is public but was not checked directly this run."
     - "ThePrint also gives BharatGen's allocation as Rs 1,058.52 crore, which is confusingly close to the Rs 1,058 crore total for all nine model builders; left out of copy until clarified."
     - "IndiaAI Mission had not responded to ThePrint's queries at the time of its publication."
 ---
 
 India's flagship scheme to give subsidised computing power to AI developers has so far sent most of its money to a handful of companies building large models, while university researchers and students have received a tiny share.
 
-Of the ₹1,275 crore committed so far under the compute subsidy of the IndiaAI Mission, nine organisations building foundation models have received ₹1,058 crore. Researchers, students and fellows together have received about ₹10.14 crore, or 0.8% of the total. The figures come from the 304 compute approvals listed on the IndiaAI Compute Portal, as updated on 8 October.
+Of the ₹1,275 crore committed so far under the compute subsidy of the IndiaAI Mission, nine organisations building foundation models have received ₹1,058 crore. Researchers, students and fellows together have received about ₹10.14 crore, or 0.8% of the total. The figures come from the 304 compute approvals listed on the IndiaAI Compute Portal, as updated on October 8.
 
 ## Where the money has gone
 

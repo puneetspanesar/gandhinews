@@ -43,9 +43,9 @@ verification:
   status: approved
   notes:
     - "Subsections (1)-(5) of Section 163 summarised from the ApniLaw bare-Act page; wording paraphrased, not quoted."
-    - "Anuradha Bhasin holdings (including that repetitive orders are an abuse of power) from the judgment as widely summarised; the Columbia page could not be reopened this run. Consistent with the Columbia Global Freedom of Expression summary used in the desk's 11 October editorial."
+    - "Anuradha Bhasin holdings (including that repetitive orders are an abuse of power) from the judgment as widely summarised; the Columbia page could not be reopened this run. Consistent with the Columbia Global Freedom of Expression summary used in the desk's October 11 editorial."
     - "Penalty for disobeying such an order is Section 223 of the Bharatiya Nyaya Sanhita (successor of IPC 188); standard law, no 2026 document opened."
-    - "Delhi FIR details (Section 163 violations in cases at Tilak Marg and Barakhamba Road) and Gopal Sankaranarayanan's remark that no order had been made public come from the desk's 12-13 October stories."
+    - "Delhi FIR details (Section 163 violations in cases at Tilak Marg and Barakhamba Road) and Gopal Sankaranarayanan's remark that no order had been made public come from the desk's October 12-13 stories."
     - "In Delhi the Commissioner of Police and senior officers exercise executive magistrate powers under the commissionerate system; stated generally, without naming the officer who issued this month's orders."
 ---
 
@@ -53,7 +53,7 @@ verification:
 
 **It is the emergency power that lets the authorities order people not to do something, such as gather in a particular area, when they believe trouble is imminent.**
 
-For decades this power sat in Section 144 of the Code of Criminal Procedure, which is why many people still say "Section 144 has been imposed". On 1 July 2024 the old code was replaced by the Bharatiya Nagarik Suraksha Sanhita (BNSS), and the same power moved, with few changes, to Section 163.
+For decades this power sat in Section 144 of the Code of Criminal Procedure, which is why many people still say "Section 144 has been imposed". On July 1, 2024, the old code was replaced by the Bharatiya Nagarik Suraksha Sanhita (BNSS), and the same power moved, with few changes, to Section 163.
 
 ## Who can issue an order?
 
@@ -71,19 +71,19 @@ The order must be in writing and must set out the specific grounds for it. In an
 
 ## Is it a ban on four or more people meeting?
 
-**Not by itself.** The law does not fix a number. The familiar "no assembly of four or more" is simply how many orders are written. What is barred depends on the text of each order, which is why lawyers in Delhi this week have pressed to see the orders themselves. On 12 October, Senior Advocate Gopal Sankaranarayanan told the Supreme Court that no Section 163 order had been made public.
+**Not by itself.** The law does not fix a number. The familiar "no assembly of four or more" is simply how many orders are written. What is barred depends on the text of each order, which is why lawyers in Delhi this week have pressed to see the orders themselves. On October 12, Senior Advocate Gopal Sankaranarayanan told the Supreme Court that no Section 163 order had been made public.
 
 ## How long can it last?
 
 **Two months at most.** The state government can extend it by notification for up to six more months, but only if it considers that necessary to prevent danger to life, health or safety, or a riot or affray.
 
 ```facts
-{"title":"Section 163 in four numbers","items":[{"value":"1 July 2024","label":"date the BNSS replaced the old Criminal Procedure Code"},{"value":"2 months","label":"longest an order can run on its own"},{"value":"6 months","label":"further extension the state government can allow"},{"value":"Section 223","label":"of the Bharatiya Nyaya Sanhita, the offence of disobeying such an order"}]}
+{"title":"Section 163 in four numbers","items":[{"value":"July 1, 2024","label":"date the BNSS replaced the old Criminal Procedure Code"},{"value":"2 months","label":"longest an order can run on its own"},{"value":"6 months","label":"further extension the state government can allow"},{"value":"Section 223","label":"of the Bharatiya Nyaya Sanhita, the offence of disobeying such an order"}]}
 ```
 
 ## What happens if you break it?
 
-**Disobeying an order lawfully issued is an offence under Section 223 of the Bharatiya Nyaya Sanhita**, the successor to Section 188 of the old Indian Penal Code. It is a charge commonly added to FIRs after protests held without permission. The cases registered over the INDIA bloc's march to the Supreme Court on 12 October, for example, allege violation of orders under Section 163, along with broken barricades.
+**Disobeying an order lawfully issued is an offence under Section 223 of the Bharatiya Nyaya Sanhita**, the successor to Section 188 of the old Indian Penal Code. It is a charge commonly added to FIRs after protests held without permission. The cases registered over the INDIA bloc's march to the Supreme Court on October 12, for example, allege violation of orders under Section 163, along with broken barricades.
 
 A breach of the order is not the same as an unlawful assembly, which is a separate offence with its own conditions.
 

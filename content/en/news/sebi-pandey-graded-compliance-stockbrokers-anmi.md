@@ -22,7 +22,7 @@ hero:
     value: "Rules to fit the size of the broker"
 related: [sebi-new-settlement-rules-fast-track-up-to-10-lakh, sebi-proposes-sme-ipo-norms-market-cap-lower-application, sebi-proposes-tighter-ipo-proceeds-monitoring, midcap-smallcap-indices-slide-4-per-cent-margin-calls]
 seo:
-  description: "Sebi chairman Tuhin Kanta Pandey at the ANMI convention in Mumbai on 24 October 2026: graded compliance for stockbrokers, tokenised bonds under Demat 2.0, AI sandbox, short-selling review."
+  description: "Sebi chairman Tuhin Kanta Pandey at the ANMI convention in Mumbai on October 24, 2026: graded compliance for stockbrokers, tokenised bonds under Demat 2.0, AI sandbox, short-selling review."
 sources:
   - title: "SEBI exploring graded compliance framework for stockbrokers based on scale, client exposure: Chairman"
     publisher: "Punjab Kesari (ANI)"
@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Speech content and all quotes from the ANI wire copy as carried by Punjab Kesari (3:05 pm, 24 Oct). LatestLY carries the same ANI story (seen in search results only; page fetch failed). Sebi has not published the speech text that we read."
+    - "Speech content and all quotes from the ANI wire copy as carried by Punjab Kesari (3:05 pm, Oct 24). LatestLY carries the same ANI story (seen in search results only; page fetch failed). Sebi has not published the speech text that we read."
     - "Event: 16th ANMI International Capital Market Convention, Mumbai. No timeline or consultation paper for graded compliance was given, so copy says 'exploring'."
 ---
 

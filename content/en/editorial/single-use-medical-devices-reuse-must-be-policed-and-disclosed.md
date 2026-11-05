@@ -42,8 +42,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. DGHS letter details (specialties, four concerns, ask to enforce strictly in public and private hospitals) from News On AIR, 24 Oct, via the desk's news story; letter date and signatory not known."
-    - "Maharashtra 2017: FDA commissioner Harshdeep Kamble, show-cause notices to Fortis Mulund and Vashi over reused guiding and balloon catheters, ₹26,000 charged per piece against ₹6,000 MRP, 66 devices reused at Mulund January-March 2017 (Medical Dialogues, 28 April 2017). Complaints against 37 hospitals and a proposed device-tracking portal announced by minister Girish Bapat (Medical Dialogues, 27 July 2017). Outcome of those cases not checked; copy does not claim any result."
+    - "Editorial view of the desk. DGHS letter details (specialties, four concerns, ask to enforce strictly in public and private hospitals) from News On AIR, Oct 24, via the desk's news story; letter date and signatory not known."
+    - "Maharashtra 2017: FDA commissioner Harshdeep Kamble, show-cause notices to Fortis Mulund and Vashi over reused guiding and balloon catheters, ₹26,000 charged per piece against ₹6,000 MRP, 66 devices reused at Mulund January-March 2017 (Medical Dialogues, April 28, 2017). Complaints against 37 hospitals and a proposed device-tracking portal announced by minister Girish Bapat (Medical Dialogues, July 27, 2017). Outcome of those cases not checked; copy does not claim any result."
     - "Copy does not name any hospital as currently reusing devices; DGHS named none."
     - "Recommendations are the desk's own."
 ---

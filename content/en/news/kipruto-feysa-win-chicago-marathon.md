@@ -88,7 +88,7 @@ Feysa and Lokedi then broke away, leaving Kosgei behind, and were level at 40km 
 
 > It's true it was a very hard-fought battle. At around 35-K I knew I was going to win.
 >
-> Source: Hawi Feysa, women's winner, speaking through an interpreter, 11 October 2026
+> Source: Hawi Feysa, women's winner, speaking through an interpreter, October 11, 2026
 
 "It means everything to come here and win again," she said. Each winner took home $100,000.
 

@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (ANI, updated 23:01 IST 24 Oct). Press conference at Rajiv Bhawan, Guwahati, 24 Oct."
+    - "Single source (ANI, updated 23:01 IST Oct 24). Press conference at Rajiv Bhawan, Guwahati, Oct 24."
     - "ANI text says demand for 10 hoardings per constituency equals about 12,000 statewide; that arithmetic does not fit Assam's 126 seats, so the total is left out. Who made the demand to whom is loosely worded; written as the party's account."
     - "Kalita's SIT remarks: case not named in source (likely the Zubeen Garg death probe); not named in copy."
     - "Quotes reached through a fetch tool capped at 125 characters; some may be the opening part of longer sentences."
@@ -42,7 +42,7 @@ The Congress in Assam will station a party worker it calls a "Vote Rakshak" at e
 
 The move is part of a "Vote Bachao, Desh Bachao" campaign the party says will reach all 35 districts and 301 blocks. The AICC has deputed seven senior observers, and state Congress president Gaurav Gogoi has appointed 102 more.
 
-Assam published a draft roll on 5 February. About eight months later the Election Commission ordered a second Special Summary Revision, and the final list is now due in November 2026.
+Assam published a draft roll on February 5. About eight months later the Election Commission ordered a second Special Summary Revision, and the final list is now due in November 2026.
 
 ## 'Forced to start again'
 
@@ -62,4 +62,4 @@ They pointed to two other changes in this round. Any one person can now file com
 
 The party has not said when the Vote Rakshaks will be in place. No response from the Election Commission had been reported by Saturday night.
 
-The campaign in Assam runs alongside the INDIA bloc's national push against the Election Commission, which is building towards a rally at Ramlila Maidan in Delhi on 1 November.
+The campaign in Assam runs alongside the INDIA bloc's national push against the Election Commission, which is building towards a rally at Ramlila Maidan in Delhi on November 1.

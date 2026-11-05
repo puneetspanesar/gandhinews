@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (ANI, 03:37 IST 25 Oct, Khatima dateline). Date of Akhilesh's Lucknow remarks not given ('earlier'); copy avoids a day."
+    - "Single source (ANI, 03:37 IST Oct 25, Khatima dateline). Date of Akhilesh's Lucknow remarks not given ('earlier'); copy avoids a day."
     - "Akhilesh's words as quoted by ANI; context of who he meant (seen as a dig at Yogi Adityanath, who was born in Uttarakhand) is not in the source and is left out."
     - "No Congress response found."
 ---

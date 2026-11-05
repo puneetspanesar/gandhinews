@@ -32,7 +32,7 @@ verification:
   status: approved
   notes:
     - "Single aggregated source: Dawn live page citing AFP (IRGC statement), UKMTO, IRIB via Al Jazeera (Bemani) and IRNA (Gharibabadi). Al Jazeera ran a video headlined 'Oil tanker reportedly attacked in Strait of Hormuz region' (not readable). The IRGC claim is attributed throughout."
-    - "Neither ship was named; flag, crew, cargo and casualties unknown. No sign in sources that Indian crew were involved; the two missing Indian seafarers story (Petro Dolphin, 11 Oct) is a separate incident."
+    - "Neither ship was named; flag, crew, cargo and casualties unknown. No sign in sources that Indian crew were involved; the two missing Indian seafarers story (Petro Dolphin, Oct 11) is a separate incident."
     - "Unclear whether the IRGC supertanker and the UKMTO container ship report are linked; story treats them as separate reports."
 ---
 

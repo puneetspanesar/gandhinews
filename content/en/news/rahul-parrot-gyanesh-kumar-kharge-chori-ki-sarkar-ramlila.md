@@ -22,7 +22,7 @@ hero:
     value: "'Gyanesh Kumar has to go'"
 related: [khurshid-not-end-one-rally-shukla-gyanesh-kumar-resign, india-bloc-convoy-connaught-place-tejashwi-crush-democracy, nadda-anarchy-model-india-bloc-rally-sood-chaos, sibal-rally-more-trade-vote-chori-dasmunsi-message, india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar]
 seo:
-  description: "INDIA bloc rally at Ramlila Maidan, 1 November 2026: Rahul Gandhi holds a parrot and says Modi's life lies in CEC Gyanesh Kumar; Kharge says the opposition will fight until the CEC is removed."
+  description: "INDIA bloc rally at Ramlila Maidan, November 1, 2026: Rahul Gandhi holds a parrot and says Modi's life lies in CEC Gyanesh Kumar; Kharge says the opposition will fight until the CEC is removed."
 sources:
   - title: "'मोदी जी की जान ज्ञानेश कुमार में है', राहुल गांधी ने हाथ में 'तोता' लेकर वोट चोरी के खिलाफ किया प्रदर्शन"
     publisher: "Patrika"
@@ -52,7 +52,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov about 15:00 to 15:55 IST, stage speeches at Ramlila Maidan. Insider Live says the march reached the ground at about 3 pm; Patrika parrot story published 15:20 IST; NewsBytes (Rahul's Connaught Place remark) 15:30 IST; Lalluram (Kharge speech) 15:56 IST. Exact minute of each speech not given."
+    - "event: Nov 1 about 15:00 to 15:55 IST, stage speeches at Ramlila Maidan. Insider Live says the march reached the ground at about 3 pm; Patrika parrot story published 15:20 IST; NewsBytes (Rahul's Connaught Place remark) 15:30 IST; Lalluram (Kharge speech) 15:56 IST. Exact minute of each speech not given."
     - "All quotes are from Hindi originals; English is our translation. Rahul parrot line: Patrika only. Connaught Place remark: Lalluram and NewsBytes agree. Kharge 'Gyanesh Kumar has to go' and 'Modi-Shah snatch votes' lines: Lalluram and Insider Live (embedded Congress post) agree; youth/women/Dalits line from an ANI post cited by Lalluram."
     - "Patrika does not say whether the parrot was real or a model; copy says only that he held up a parrot. Netherworld remark is Insider Live paraphrase only, hedged and not quoted. 'Modi hatao, loktantra bachao' slogan per Lalluram; Insider Live gives a different wording, so the slogan is paraphrased."
     - "No Election Commission response to the speeches found in the window; Patrika notes the EC has denied political bias in general."
@@ -80,6 +80,6 @@ He said the government had tried to take away the votes of young people, women a
 
 Rahul also turned to Delhi's traders, whom he had urged in the run-up to the rally to welcome the crowds. "We told people that when you come for the mega rally, do some shopping," he said. "But while coming through Connaught Place, we found that **the BJP had forcibly shut the shops**." He asked who would make good the traders' losses.
 
-The BJP has called the rally an attempt to spread anarchy, and its leaders spent the day reminding the Congress that 1 November is the anniversary of the 1984 anti-Sikh violence. The Election Commission has denied acting with political bias, and had not responded to the speeches by late afternoon.
+The BJP has called the rally an attempt to spread anarchy, and its leaders spent the day reminding the Congress that November 1 is the anniversary of the 1984 anti-Sikh violence. The Election Commission has denied acting with political bias, and had not responded to the speeches by late afternoon.
 
 Delhi Police have told the organisers to wrap up by 5 pm.

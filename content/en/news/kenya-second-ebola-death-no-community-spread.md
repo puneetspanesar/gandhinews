@@ -6,7 +6,7 @@ section: world
 format_label: "World / Africa"
 topics: []
 title: "Kenya reports second Ebola death, says all nine cases are in one cluster"
-standfirst: "A 65-year-old woman who fell ill in quarantine has died. She was a close relative of the man whose death in Nairobi on 5 October set off Kenya's outbreak."
+standfirst: "A 65-year-old woman who fell ill in quarantine has died. She was a close relative of the man whose death in Nairobi on October 5 set off Kenya's outbreak."
 published: 2026-10-24T04:20:00+05:30
 location: Nairobi
 keyPoints:
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: Al Jazeera (AFP, Reuters), 22:33 GMT 23 Oct. No individual Kenyan official named."
+    - "Single source: Al Jazeera (AFP, Reuters), 22:33 GMT Oct 23. No individual Kenyan official named."
     - "DRC figures (17th outbreak declared May, more than 9,000 cases, more than 4,600 deaths) and four-country spread from same report."
     - "Uganda transit ban: day of announcement given only as 'Saturday', not clear which; date omitted."
     - "Strain not named; not stated."
@@ -41,7 +41,7 @@ verification:
 
 Kenya confirmed a second death from Ebola on Friday, a 65-year-old woman who developed symptoms while in quarantine, but the health ministry said the outbreak remained confined to a single group of linked cases.
 
-The woman was a close relative of the Kenyan man who became the country's first case. He had travelled from the Democratic Republic of Congo and died at a hospital in Nairobi on 5 October.
+The woman was a close relative of the Kenyan man who became the country's first case. He had travelled from the Democratic Republic of Congo and died at a hospital in Nairobi on October 5.
 
 The ministry said Kenya now has nine confirmed cases, including the two deaths. Seven patients are being treated at two isolation centres. All 135 people traced as contacts have been placed in quarantine. The cases sit within "one cluster, with no evidence of community spread", the ministry said.
 

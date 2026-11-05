@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (Africanews). Congress held on Saturday 17 October at party headquarters; exact date inferred from 'Saturday' in an article dated 18 October."
+    - "Single source (Africanews). Congress held on Saturday, October 17 at party headquarters; exact date inferred from 'Saturday' in an article dated October 18."
     - "Name of the challenger who withdrew not given."
 ---
 

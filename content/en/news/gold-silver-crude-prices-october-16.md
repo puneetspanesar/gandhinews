@@ -22,7 +22,7 @@ hero:
     value: "Gold ₹1.48 lakh, silver ₹2.13 lakh"
 related: [gold-slips-near-1-5-lakh-ahead-of-us-inflation-data, oil-jumps-after-saudi-airport-attacks-wall-street-mixed, gift-nifty-global-markets-oil-october-16, rupee-sixth-gain-forex-reserves-fall-726-billion, sensex-nifty-it-rally-weekly-gain-october-16]
 seo:
-  description: "Gold traded near ₹1.48 lakh per 10 grams on MCX and silver rose 1.33% to ₹2.13 lakh a kg on 16 October 2026; Brent eased to $105.56."
+  description: "Gold traded near ₹1.48 lakh per 10 grams on MCX and silver rose 1.33% to ₹2.13 lakh a kg on October 16, 2026; Brent eased to $105.56."
 sources:
   - title: "Stock Market Closing Bell Today: Sensex Gains 414 Points, Nifty Tops 23,100; Gold and Silver Rise"
     publisher: "Kotak Neo"
@@ -43,7 +43,7 @@ verification:
   status: approved
   notes:
     - "MCX gold Rs 1,48,429 and silver Rs 2,13,460 (+1.33%), crude Rs 9,233 (-0.56%), WTI 97.235 (-0.75%), Brent ~72% above a year ago: Kotak Neo closing-bell piece only. Kotak gave gold +0.64%, which does not match Upstox's Thursday MCX close of Rs 1,47,889 (would imply about +0.37%); no percentage used for gold."
-    - "Thursday close (1,47,889, +2,041) and 9 Oct level (1,51,499) from Upstox; assumed same December contract. Week-on-week fall of about Rs 3,000 computed by desk."
+    - "Thursday close (1,47,889, +2,041) and Oct 9 level (1,51,499) from Upstox; assumed same December contract. Week-on-week fall of about Rs 3,000 computed by desk."
     - "Delhi retail 24K Rs 14,759/g is Goodreturns data quoted by Upstox at 10:36 am."
     - "Brent $105.56 (-0.34%) and dollar index 101.445 from PTI evening rupee report."
     - "Reasons (weaker dollar, easing crude, lower Treasury yields) attributed to market participants per Upstox."
@@ -59,7 +59,7 @@ In Delhi's jewellery market, 24-carat gold was selling at about ₹14,759 a gram
 
 Traders put the rebound down to a softer dollar and easing pressure from crude oil prices, with lower US Treasury yields also helping. The dollar index fell 0.41% to 101.445 on Friday. Gold is priced in dollars, so a weaker dollar makes it cheaper for buyers using other currencies.
 
-Even with the two-day recovery, gold remains about ₹3,000 below where it stood a week ago. It had fallen nearly 4% over three sessions from ₹1,51,499 on 9 October, as traders waited for US inflation data.
+Even with the two-day recovery, gold remains about ₹3,000 below where it stood a week ago. It had fallen nearly 4% over three sessions from ₹1,51,499 on October 9, as traders waited for US inflation data.
 
 ## Oil eases but stays high
 

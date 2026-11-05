@@ -33,7 +33,7 @@ verification:
   status: approved
   notes:
     - "Single source: PTI via ThePrint, 8:46 pm, quoting Sarma's social media post. Date and place of the attempt not given; no independent police statement."
-    - "Context on the 12 Oct drug operation and the demography panel portal taken from earlier Gandhi News stories (15 and 14 Oct)."
+    - "Context on the Oct 12 drug operation and the demography panel portal taken from earlier Gandhi News stories (Oct 15 and 14)."
     - "Country of origin not stated in the source; copy does not name it."
 ---
 
@@ -45,6 +45,6 @@ Assam Chief Minister Himanta Biswa Sarma said on Saturday that the state police 
 
 Sarma did not say when or where along the border the attempt was stopped, or whether those turned back had been held. Assam Police have not issued a separate statement on the operation.
 
-The post came in the middle of a busy week for the Assam Police. On 12 October the force ran a statewide anti-drug operation that led to 945 arrests and 547 cases and covered 703 drug hotspots, work that Union Home Minister Amit Shah publicly praised.
+The post came in the middle of a busy week for the Assam Police. On October 12 the force ran a statewide anti-drug operation that led to 945 arrests and 547 cases and covered 703 drug hotspots, work that Union Home Minister Amit Shah publicly praised.
 
 At the national level, the committee on demographic change set up by the Union Home Ministry in May has opened a portal asking governments, institutions and individuals to send in data on population shifts and settlement patterns linked to illegal immigration.

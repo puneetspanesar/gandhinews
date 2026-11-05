@@ -22,7 +22,7 @@ hero:
     value: "638 hectares, about 1,000 families"
 related: [himanta-sarma-30-infiltrators-stopped-assam-border, assam-drive-945-arrests-amit-shah-narcotics]
 seo:
-  description: "Assam cleared over 638 hectares of reserved forest land in Golaghat, Hojai and Nagaon, evicting about 1,000 families, Chief Minister Himanta Biswa Sarma said on 20 October."
+  description: "Assam cleared over 638 hectares of reserved forest land in Golaghat, Hojai and Nagaon, evicting about 1,000 families, Chief Minister Himanta Biswa Sarma said on October 20."
 sources:
   - title: "Assam clears 638 hectares of encroached land in three districts, says CM"
     publisher: "Northeast News"

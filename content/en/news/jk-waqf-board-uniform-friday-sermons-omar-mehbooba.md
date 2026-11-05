@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (The Tribune, Adil Akhzer, 13 Oct 3:06 pm IST). Andrabi's announcement was 'last week'; no direct quote from her or the Board available, so paraphrased."
+    - "Single source (The Tribune, Adil Akhzer, Oct 13 3:06 pm IST). Andrabi's announcement was 'last week'; no direct quote from her or the Board available, so paraphrased."
     - "Omar's remarks were on X per the Tribune; exact wording used only for the short quoted phrases."
 ---
 

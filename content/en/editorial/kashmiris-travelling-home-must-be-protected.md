@@ -42,8 +42,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Facts (Star World Ventures buses; Nilokheri dhaba attack Saturday night, passenger and dhaba worker injured, two arrested, FIR at Butana PS on dhaba manager's complaint, SP Karan Goel's statements, hate crime ruled out; Ludhiana stoning about 11 pm Sunday, Punjab Police escort, driver Ishfaq Ahmad's quote; Omar Abdullah's X post quote; NC's hate-crime claim) from the desk's 19 October story and its Tribune and ThePrint sources."
-    - "One search on 20 October found no update on a Punjab Police case; copy says no case had been announced as of Monday's reporting. If one has since been registered, the call still stands for publishing findings."
+    - "Editorial view of the desk. Facts (Star World Ventures buses; Nilokheri dhaba attack Saturday night, passenger and dhaba worker injured, two arrested, FIR at Butana PS on dhaba manager's complaint, SP Karan Goel's statements, hate crime ruled out; Ludhiana stoning about 11 pm Sunday, Punjab Police escort, driver Ishfaq Ahmad's quote; Omar Abdullah's X post quote; NC's hate-crime claim) from the desk's October 19 story and its Tribune and ThePrint sources."
+    - "One search on October 20 found no update on a Punjab Police case; copy says no case had been announced as of Monday's reporting. If one has since been registered, the call still stands for publishing findings."
     - "The editorial does not assert the attacks were hate crimes or that they are linked; it argues for a thorough inquiry. Recommendations are the desk's own."
 ---
 

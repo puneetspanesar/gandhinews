@@ -27,7 +27,7 @@ cover:
   bg: "Moazzam Jahi Market"
 related: [india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar, amit-shah-hyderabad-padayatra-charminar-sir-congress, rahul-parrot-gyanesh-kumar-kharge-chori-ki-sarkar-ramlila, amit-shah-revanth-telangana-atm-congress-evm-hyderabad]
 seo:
-  description: "Amit Shah said in Hyderabad on 2 November 2026 that the Centre is ready for a special session of Parliament on the SIR and EVMs, and mocked Rahul Gandhi over the INDIA bloc's mock Parliament."
+  description: "Amit Shah said in Hyderabad on November 2, 2026, that the Centre is ready for a special session of Parliament on the SIR and EVMs, and mocked Rahul Gandhi over the INDIA bloc's mock Parliament."
 sources:
   - title: "Amit Shah dares Rahul to debate SIR issue, says govt ready to convene spl session of Parliament (PTI)"
     publisher: "Vartha Bharati"
@@ -47,10 +47,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov, Shah's speech at Moazzam Jahi Market, Hyderabad, roughly 4:45 to 5:30 pm IST (Times Now Hindi report 5:33 pm, Hans India 6:02 pm, Vartha Bharati/PTI 6:28 pm)."
+    - "event: Nov 2, Shah's speech at Moazzam Jahi Market, Hyderabad, roughly 4:45 to 5:30 pm IST (Times Now Hindi report 5:33 pm, Hans India 6:02 pm, Vartha Bharati/PTI 6:28 pm)."
     - "Quotes 'Rahul holds the Constitution...', 'you don't allow Parliament to run', 'Be it EVMs, SIR, infiltrators...', 'We are ready to convene...', 'We will remove every infiltrator...' verbatim from PTI via Vartha Bharati (English rendering of Hindi speech). 'save infiltrator' rally and 'shred Congress into pieces' are PTI paraphrase-quotes."
     - "Mock-PM line in English from Hans India; Sonia Gandhi line from Times Now Hindi Hindi text ('...तो सोनिया जी के दिल को थोड़ी शांति मिलेगी'), partial only, so paraphrased in English."
-    - "Shah first made the special session offer on 30 Oct (Lucknow), per our earlier story india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar."
+    - "Shah first made the special session offer on Oct 30 (Lucknow), per our earlier story india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar."
 ---
 
 Union Home Minister Amit Shah on Monday **repeated his offer of a special session of Parliament** on the opposition's charges over the electoral rolls, and dared Rahul Gandhi to turn up and debate.

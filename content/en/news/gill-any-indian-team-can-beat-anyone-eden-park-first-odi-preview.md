@@ -23,7 +23,7 @@ hero:
 infographic:
   kicker: "New Zealand v India, 1st ODI"
   headline: "Five-match ODI series starts at Eden Park"
-  dek: "Wednesday 4 November, 7:30 am IST"
+  dek: "Wednesday, November 4, 7:30 am IST"
   motif: cricket
   stats:
     - {icon: calendar, value: "5", label: "ODIs, Auckland to Mount Maunganui"}
@@ -32,7 +32,7 @@ infographic:
   source: "BCCI video and match previews, November 3, 2026"
 related: [gill-iyer-split-odi-captaincy-new-zealand-bumrah-jadeja-out, seifert-93-new-zealand-beat-india-seven-wickets-hamilton-series-3-2, nz-thrash-india-87-runs-eden-park-fourth-t20i, nabi-two-in-two-new-zealand-a-lead-22-lincoln]
 seo:
-  description: "New Zealand v India first ODI preview: Shubman Gill says India can beat any team, Prasidh Krishna ruled out, Auqib Nabi added, Devon Conway concussed. Eden Park, Auckland, 4 November, 7:30 am IST."
+  description: "New Zealand v India first ODI preview: Shubman Gill says India can beat any team, Prasidh Krishna ruled out, Auqib Nabi added, Devon Conway concussed. Eden Park, Auckland, November 4, 7:30 am IST."
 sources:
   - title: "Shubman Gill warns New Zealand, says India can beat any team in any conditions"
     publisher: "PressBee"
@@ -47,7 +47,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: preview of 1st ODI, Eden Park, Wed 4 Nov, 7:30 am IST start (time from squad story sources, NewsX). Gill's comments from a BCCI video put out on the eve of the match; PressBee timestamp 3 Nov 7:05 PM."
+    - "event: preview of 1st ODI, Eden Park, Wed Nov 4, 7:30 am IST start (time from squad story sources, NewsX). Gill's comments from a BCCI video put out on the eve of the match; PressBee timestamp Nov 3 7:05 PM."
     - "Gill's quotes as rendered in English by PressBee; he may have spoken in Hindi. Injury news (Prasidh hamstring, Nabi added for ODIs 1-3, Conway concussion, Ravindra and Chapman out, Nicholls and Seifert replacements, Henry fitness test) from CricketAddictor only; ESPNcricinfo preview blocked. Predicted XIs not used."
     - "Eden Park ODI record (86 matches, chasing sides 47 wins, batting first 34) and weather from CricketAddictor."
 ---
@@ -62,4 +62,4 @@ India have one setback already. **Prasidh Krishna has been ruled out** with a ha
 
 New Zealand are hit harder. Rachin Ravindra and Mark Chapman are **out of the series with injuries**, with Henry Nicholls and Tim Seifert called in. Devon Conway misses the opener after a concussion in training, and Matt Henry needs a fitness check. Mitchell Santner leads the side.
 
-Chasing sides have won 47 of the 86 men's ODIs played at Eden Park, against 34 for teams batting first, so the captain who wins the toss is likely to bowl. Sunny weather is forecast, with no rain expected. The match starts at **7:30 am IST on Wednesday**. The second ODI is in Wellington on 7 November.
+Chasing sides have won 47 of the 86 men's ODIs played at Eden Park, against 34 for teams batting first, so the captain who wins the toss is likely to bowl. Sunny weather is forecast, with no rain expected. The match starts at **7:30 am IST on Wednesday**. The second ODI is in Wellington on November 7.

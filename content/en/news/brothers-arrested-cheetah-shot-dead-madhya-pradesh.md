@@ -27,7 +27,7 @@ cover:
   bg: "Cheetah Kuno National Park"
 related: []
 seo:
-  description: "Madhya Pradesh's STF arrested brothers Bhagwan Singh and Preetam Singh of Morena for shooting Kuno cheetah KNG-22; a Vijaypur court sent them to jail on 2 November 2026."
+  description: "Madhya Pradesh's STF arrested brothers Bhagwan Singh and Preetam Singh of Morena for shooting Kuno cheetah KNG-22; a Vijaypur court sent them to jail on November 2, 2026."
 sources:
   - title: "Two arrested in Kuno cheetah killing case. Cops deny 'larger poaching network'"
     publisher: "ThePrint"
@@ -47,9 +47,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov 2026 (Monday), both brothers produced before Vijaypur court and sent to jail; hour not reported. ThePrint 2 Nov 11:50 pm IST; IANS 2 Nov ~10:54 pm IST."
-    - "Dates: IANS says shot 24 Oct, found injured 25 Oct (compartment 748, Sheopur forest division), died 27 Oct in Jabalpur. ThePrint says found 26 Oct. FPJ says fired upon 25 Oct. Copy uses IANS dates for shooting and death, avoids exact found date."
-    - "Brother's name: IANS 'Preetam Singh', ThePrint 'Pritam Singh'. Used Preetam. Bhagwan arrested 31 Oct (both sources); Preetam's arrest date unclear (ThePrint says Monday)."
+    - "event: Nov 2, 2026 (Monday), both brothers produced before Vijaypur court and sent to jail; hour not reported. ThePrint Nov 2 11:50 pm IST; IANS Nov 2 ~10:54 pm IST."
+    - "Dates: IANS says shot Oct 24, found injured Oct 25 (compartment 748, Sheopur forest division), died Oct 27 in Jabalpur. ThePrint says found Oct 26. FPJ says fired upon Oct 25. Copy uses IANS dates for shooting and death, avoids exact found date."
+    - "Brother's name: IANS 'Preetam Singh', ThePrint 'Pritam Singh'. Used Preetam. Bhagwan arrested Oct 31 (both sources); Preetam's arrest date unclear (ThePrint says Monday)."
     - "'First reported shooting of a cheetah in India in nearly eight decades' is from IANS only; phrased as the Centre's concern, attributed loosely."
     - "Sections 9 and 51 WPA from IANS only. Quotes of forest official verbatim from ThePrint (unnamed). CCF Gwalior not named."
     - "Statesman and The Hawk pages refused fetch."
@@ -57,7 +57,7 @@ verification:
 
 Two brothers from Morena have been arrested for shooting dead **KNG-22, a 19-month-old male cheetah** from Kuno National Park, in the first known killing of one of the reintroduced cats by a gun.
 
-The Madhya Pradesh Special Task Force arrested Bhagwan Singh on 31 October. On his statement, and with help from Morena police, it then picked up his brother Preetam Singh. Both were produced before a court in Vijaypur in Sheopur district on Monday, which **sent them to jail**. A case has been registered under Sections 9 and 51 of the Wildlife (Protection) Act, 1972.
+The Madhya Pradesh Special Task Force arrested Bhagwan Singh on October 31. On his statement, and with help from Morena police, it then picked up his brother Preetam Singh. Both were produced before a court in Vijaypur in Sheopur district on Monday, which **sent them to jail**. A case has been registered under Sections 9 and 51 of the Wildlife (Protection) Act, 1972.
 
 The STF said the two were hunting in the forest near Nitanwas village in the Vijaypur area when they spotted the young male and shot him. Bhagwan Singh told investigators that when the cheetah appeared, he fired at it with his licensed gun. The weapon, **a licensed double-barrelled gun**, was recovered from the forest in the Morena forest division where the accused led the team.
 
@@ -67,7 +67,7 @@ The STF said the two were hunting in the forest near Nitanwas village in the Vij
 
 ## Five pellets
 
-KNG-22, a cub of the South African cheetah Nirva, was found badly hurt near the Morena-Sheopur border after the shooting on 24 October. He was moved to a veterinary facility in Jabalpur, where surgeons **removed five pellets** from his body. He died on 27 October.
+KNG-22, a cub of the South African cheetah Nirva, was found badly hurt near the Morena-Sheopur border after the shooting on October 24. He was moved to a veterinary facility in Jabalpur, where surgeons **removed five pellets** from his body. He died on October 27.
 
 The Centre sent a high-level team to Morena to inspect the site, and the state formed a four-member STF. Investigators followed the signals from the cheetah's radio collar and raided nearby villages before the first arrest.
 

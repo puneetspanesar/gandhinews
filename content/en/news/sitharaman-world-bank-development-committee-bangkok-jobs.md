@@ -36,15 +36,15 @@ sources:
 verification:
   status: approved
   notes:
-    - "Speech text taken verbatim from the PIB release (posted 15 Oct, 9:21 pm IST). Quotes are from India's written intervention as released by the ministry."
-    - "Annual Meetings dates (12-18 Oct) and Development Committee date (15 Oct) from the World Bank meetings page."
+    - "Speech text taken verbatim from the PIB release (posted Oct 15, 9:21 pm IST). Quotes are from India's written intervention as released by the ministry."
+    - "Annual Meetings dates (Oct 12-18) and Development Committee date (Oct 15) from the World Bank meetings page."
     - "PIB text reads 'Most jobs will be and should be created by private enterprises MSMEs and startups will play a big role' (missing punctuation); quoted only the first clause."
     - "No reporting found on bilateral meetings by Sitharaman in Bangkok; none mentioned."
 ---
 
 Finance Minister Nirmala Sitharaman told the World Bank's top ministerial forum on Thursday that efforts to pull private money into developing countries should be judged by the jobs they create, and pressed again for an overhaul of the Bank's governance rankings.
 
-Sitharaman, who attended as India's Governor at the World Bank, spoke at the 114th plenary of the Development Committee in Bangkok, held during the IMF and World Bank Annual Meetings that run until 18 October. The agenda was "Private Capital Mobilisation and Jobs".
+Sitharaman, who attended as India's Governor at the World Bank, spoke at the 114th plenary of the Development Committee in Bangkok, held during the IMF and World Bank Annual Meetings that run until October 18. The agenda was "Private Capital Mobilisation and Jobs".
 
 "At a time of growing energy market stress, trade fragmentation, climate pressures, and rapid technological change, productive and better-paid jobs remain the most effective pathway to poverty reduction and shared prosperity," she said.
 

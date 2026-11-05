@@ -8,7 +8,7 @@ topics: [supreme-court]
 title: "Two-child norm explained: what Javed held in 2003 and why the Supreme Court wants it looked at again"
 standfirst: "On Wednesday the Supreme Court said laws that punish people for having a third child have lost their relevance, and sent its own 2003 ruling to a larger bench. What the rule is, where it still applies, and what happens now."
 published: 2026-11-04T17:55:00+05:30
-shortAnswer: "The two-child norm bars people with more than two living children from contesting panchayat and, in some states, municipal elections. In Javed v State of Haryana (2003), a three-judge bench of the Supreme Court upheld such a rule as a reasonable population measure and said the right to contest is only a statutory right. On 4 November 2026 a two-judge bench said falling fertility had made such laws irrelevant, but because it cannot overrule a larger bench it referred Javed to a bigger bench. Until that bench rules, the norm stays in force in the six states that still have it."
+shortAnswer: "The two-child norm bars people with more than two living children from contesting panchayat and, in some states, municipal elections. In Javed v State of Haryana (2003), a three-judge bench of the Supreme Court upheld such a rule as a reasonable population measure and said the right to contest is only a statutory right. On November 4, 2026, a two-judge bench said falling fertility had made such laws irrelevant, but because it cannot overrule a larger bench it referred Javed to a bigger bench. Until that bench rules, the norm stays in force in the six states that still have it."
 hero:
   need: "The Supreme Court of India, which referred the Javed ruling to a larger bench"
   suggested_source: "Supreme Court of India"
@@ -79,12 +79,12 @@ sources:
 verification:
   status: approved
   notes:
-    - "Javed details (30 July 2003; bench R C Lahoti, Ashok Bhan, Arun Kumar JJ; Sections 175(1)(q) and 177(1) Haryana Panchayati Raj Act 1994; Articles 14, 21, 25 challenges rejected; right to contest statutory) from the iPleaders case analysis; judgment PDF on sci.gov.in listed from search results but not opened. No direct quote from Javed used in copy because only secondary text was read."
+    - "Javed details (July 30, 2003; bench R C Lahoti, Ashok Bhan, Arun Kumar JJ; Sections 175(1)(q) and 177(1) Haryana Panchayati Raj Act 1994; Articles 14, 21, 25 challenges rejected; right to contest statutory) from the iPleaders case analysis; judgment PDF on sci.gov.in listed from search results but not opened. No direct quote from Javed used in copy because only secondary text was read."
     - "Nov 4 facts (bench Narasimha and Aradhe JJ, 'lost their relevance' quote, TFR 3 to 1.9, replacement 2.1, proceedings stayed) from the desk's news story supreme-court-two-child-norm-javed-larger-bench and its sources. LawChakra and ETV Bharat pages could not be fetched this run."
-    - "State count (7 repealed, 15 never had, 6 retain: Assam, Goa, Gujarat, Maharashtra, Odisha, Uttarakhand) from LiveLaw's report of the amicus compilation at the 4 August hearing. Haryana's own later position not checked; copy does not say whether Haryana still has it."
+    - "State count (7 repealed, 15 never had, 6 retain: Assam, Goa, Gujarat, Maharashtra, Odisha, Uttarakhand) from LiveLaw's report of the amicus compilation at the August 4 hearing. Haryana's own later position not checked; copy does not say whether Haryana still has it."
     - "Ramji Lal Jat v State of Rajasthan (2024, three judges, police constable recruitment rule) from the LiveLaw August report."
-    - "Andhra: rule from 1994 in undivided AP; cabinet 7 Aug 2024; bills passed 18 Nov 2024 (South First, Business Standard). Telangana: Panchayat Raj (Amendment) Bill passed 3 Jan 2026 (South First). Rajasthan: amendment bill of March 2026 to scrap the norm (LAEX); passage date not confirmed, so copy says the government moved to scrap it."
-    - "'Useless' word from the 14 July 2026 hearing, Bar & Bench; used as a single word attributed to the bench."
+    - "Andhra: rule from 1994 in undivided AP; cabinet Aug 7, 2024; bills passed Nov 18, 2024 (South First, Business Standard). Telangana: Panchayat Raj (Amendment) Bill passed Jan 3, 2026 (South First). Rajasthan: amendment bill of March 2026 to scrap the norm (LAEX); passage date not confirmed, so copy says the government moved to scrap it."
+    - "'Useless' word from the July 14, 2026, hearing, Bar & Bench; used as a single word attributed to the bench."
     - "Who sits on the larger bench and when is not known; copy says so. Size of the larger bench not stated beyond 'more than three judges' as needed to overrule a three-judge ruling."
 ---
 
@@ -98,7 +98,7 @@ The idea behind it was population control: those who lead villages and towns wer
 
 ## What did the Supreme Court decide in Javed?
 
-**It upheld the rule as constitutional.** In Javed v State of Haryana, decided on 30 July 2003, a bench of three judges, Justices R C Lahoti, Ashok Bhan and Arun Kumar, heard challenges to Sections 175(1)(q) and 177(1) of the Haryana law.
+**It upheld the rule as constitutional.** In Javed v State of Haryana, decided on July 30, 2003, a bench of three judges, Justices R C Lahoti, Ashok Bhan and Arun Kumar, heard challenges to Sections 175(1)(q) and 177(1) of the Haryana law.
 
 The petitioners argued that the bar was arbitrary and broke the right to equality under Article 14, the right to life and personal liberty under Article 21, and the freedom of religion under Article 25, since Muslim personal law allows a man more than one wife. The court rejected all three. It held that separating candidates with two children from those with more was a **reasonable classification** linked to the law's aim of controlling population.
 
@@ -111,7 +111,7 @@ The court also said the right to contest a panchayat election is not a fundament
 The repeals have come recently and mostly in the south. Andhra Pradesh, worried about a falling birth rate, passed bills in November 2024 to drop the rule from its panchayat and municipal laws. Telangana followed in January 2026. In March this year Rajasthan's government moved a bill to end its own 30-year-old rule, citing a fall in the state's fertility rate.
 
 ```timeline
-{"title":"How the two-child norm rose and is now falling","items":[{"date":"1994","text":"Haryana and undivided Andhra Pradesh bar people with more than two children from panchayat polls"},{"date":"September 2000","text":"Maharashtra adds the bar to its Village Panchayats Act"},{"date":"July 2003","text":"Supreme Court upholds Haryana's rule in Javed"},{"date":"November 2024","text":"Andhra Pradesh passes bills to scrap the norm"},{"date":"January 2026","text":"Telangana Assembly passes its repeal"},{"date":"4 November 2026","text":"Supreme Court refers Javed to a larger bench"}]}
+{"title":"How the two-child norm rose and is now falling","items":[{"date":"1994","text":"Haryana and undivided Andhra Pradesh bar people with more than two children from panchayat polls"},{"date":"September 2000","text":"Maharashtra adds the bar to its Village Panchayats Act"},{"date":"July 2003","text":"Supreme Court upholds Haryana's rule in Javed"},{"date":"November 2024","text":"Andhra Pradesh passes bills to scrap the norm"},{"date":"January 2026","text":"Telangana Assembly passes its repeal"},{"date":"November 4, 2026","text":"Supreme Court refers Javed to a larger bench"}]}
 ```
 
 ## Why did the case come back now?

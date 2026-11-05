@@ -57,7 +57,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov about 19:20 IST, Tata Investment Corporation board approves Q2 FY27 results, filed to BSE (Investywise 19:21 IST, Whalesbook 19:22 IST)."
+    - "event: Nov 2 about 19:20 IST, Tata Investment Corporation board approves Q2 FY27 results, filed to BSE (Investywise 19:21 IST, Whalesbook 19:22 IST)."
     - "Quarter figures (standalone PAT Rs 117.99 cr vs Rs 121.88 cr; consolidated PAT Rs 115.92 cr vs Rs 148.16 cr; consolidated revenue Rs 122.30 cr vs Rs 153.98 cr; EPS Rs 2.29 vs Rs 2.93 consolidated, Rs 2.33 vs Rs 2.41 standalone; unmodified limited review) from Whalesbook. Percentages computed by desk (-21.8%, -20.6%, -3.2%) and match the Zee Business headline (22%, 21%), seen in search result only; Zee page fetch failed."
     - "H1 PAT (standalone Rs 281.88 cr, consolidated Rs 259.43 cr), standalone total income Rs 146.94 cr, total assets and middle-layer NBFC classification from Investywise. Whalesbook's standalone year-ago revenue (Rs 148.16 cr) duplicates the consolidated PAT figure and looks unreliable; left out. No dividend, share price or management comment found; left out."
 ---
@@ -72,7 +72,7 @@ The parent company on its own fared better. Standalone profit **slipped only abo
 {"title":"Tata Investment, September quarter (₹ crore)","columns":["Q2 FY27","Q2 FY26"],"rows":[{"icon":"trend-down","label":"Consolidated profit","cells":["115.92","148.16"]},{"icon":"currency-inr","label":"Consolidated revenue","cells":["122.30","153.98"]},{"icon":"chart-line","label":"Standalone profit","cells":["117.99","121.88"]}]}
 ```
 
-For the first half of the financial year, the company earned a standalone profit of ₹281.88 crore and a consolidated profit of ₹259.43 crore. Its standalone **total assets stood at ₹34,575.99 crore** on 30 September.
+For the first half of the financial year, the company earned a standalone profit of ₹281.88 crore and a consolidated profit of ₹259.43 crore. Its standalone **total assets stood at ₹34,575.99 crore** on September 30.
 
 Tata Investment is registered with the Reserve Bank of India as a **middle-layer non-banking finance company**, which places it under closer regulatory watch than smaller lenders and investment firms.
 

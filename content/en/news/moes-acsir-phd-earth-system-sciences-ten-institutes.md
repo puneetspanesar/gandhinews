@@ -32,13 +32,13 @@ sources:
 verification:
   status: approved
   notes:
-    - "PIB release dated 19 Oct (Hindi text). MoU signed 21 Aug 2026; formally launched at a ceremony at Prithvi Bhavan on 13 Oct. Secretary's remarks paraphrased from Hindi, not quoted."
+    - "PIB release dated Oct 19 (Hindi text). MoU signed Aug 21, 2026; formally launched at a ceremony at Prithvi Bhavan on Oct 13. Secretary's remarks paraphrased from Hindi, not quoted."
     - "No figures for seats or funding in the release; none given. Publication time estimated."
 ---
 
 Students will be able to earn doctorates in weather, ocean and polar science at all ten research institutes of the Ministry of Earth Sciences, under a partnership with the Academy of Scientific and Innovative Research (AcSIR), the government said on Monday.
 
-The memorandum of understanding was signed on 21 August and formally launched at a ceremony at Prithvi Bhavan, the ministry's headquarters in New Delhi, on 13 October. Praveen Kumar D, Scientist-G and mission director of Mission Mausam, signed for the ministry, and Prof Manoj Kumar Dhar, director of AcSIR, for the academy.
+The memorandum of understanding was signed on August 21 and formally launched at a ceremony at Prithvi Bhavan, the ministry's headquarters in New Delhi, on October 13. Praveen Kumar D, Scientist-G and mission director of Mission Mausam, signed for the ministry, and Prof Manoj Kumar Dhar, director of AcSIR, for the academy.
 
 Under the arrangement, all ten MoES institutes become AcSIR-affiliated research institutes. Selected students will carry out their research at those institutes under ministry scientists recognised as AcSIR faculty. AcSIR will award the degree, and the certificate will carry the name of the host institute.
 

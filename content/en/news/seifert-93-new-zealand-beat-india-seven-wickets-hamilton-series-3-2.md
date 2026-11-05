@@ -22,7 +22,7 @@ hero:
     value: "NZ win by 7 wkts, India take series 3-2"
 related: [milne-four-wickets-india-191-new-zealand-chase-hamilton, kishan-61-calendar-year-record-iyer-fifty-hamilton, santner-wins-toss-india-bat-hamilton-bhuvneshwar-varun-return, india-new-zealand-fifth-t20i-hamilton-preview, nz-thrash-india-87-runs-eden-park-fourth-t20i]
 seo:
-  description: "New Zealand beat India by seven wickets in the fifth T20I at Hamilton on 1 November 2026, chasing 192 in 18 overs as Tim Seifert made 93 and Glenn Phillips a fifty. India won the series 3-2."
+  description: "New Zealand beat India by seven wickets in the fifth T20I at Hamilton on November 1, 2026, chasing 192 in 18 overs as Tim Seifert made 93 and Glenn Phillips a fifty. India won the series 3-2."
 sources:
   - title: "IND vs NZ Live Score, 5th T20I: New Zealand Sign Off Series With Victory In Hamilton"
     publisher: "ETV Bharat"
@@ -52,7 +52,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov about 15:55 IST, New Zealand complete chase of 192 in 18 overs (ETV Bharat live blog: 15:51 IST entry says NZ inching to victory with Phillips near fifty; summary says won by seven wickets, chased in 18 overs, India won series 3-2). Chase timeline from ETV entries: Allen out 14:44 IST, 59/1 after powerplay 15:03, Mitchell out 15:16, 120/2 after 12 overs 15:33."
+    - "event: Nov 1 about 15:55 IST, New Zealand complete chase of 192 in 18 overs (ETV Bharat live blog: 15:51 IST entry says NZ inching to victory with Phillips near fifty; summary says won by seven wickets, chased in 18 overs, India won series 3-2). Chase timeline from ETV entries: Allen out 14:44 IST, 59/1 after powerplay 15:03, Mitchell out 15:16, 120/2 after 12 overs 15:33."
     - "Seifert 93 bowled by Nitish Kumar Reddy: Outlook live-blog headline in search results (page itself served a pre-match cache). Seifert 89 off 48 (10x4, 5x6) at 14.5 overs, Phillips 37 off 22, NZ 162/2: CREX scorecard snapshot. Seifert's final ball count not available, left out. Phillips' final score not available; ETV and ESPNcricinfo headline only say half-century."
     - "Mitchell 29 off 16 with four sixes, caught by Abhishek Sharma (ETV, CREX); bowler not named, left out. Allen caught by Kishan for 2; Arshdeep as bowler from earlier ANI/India.com material used in the innings-break story."
     - "Player of the match and player of the series NOT confirmed in any source read (ESPNcricinfo match blog failed to fetch, tribuneindia sports index blocked). Deliberately not stated in copy. No post-match quotes found."

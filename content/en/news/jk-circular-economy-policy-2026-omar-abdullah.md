@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: Kashmir Reader (dateline Srinagar, 16 Oct; posted 7:43 am 17 Oct). Kashmir Horizon carried the same story but its page failed to load."
+    - "Single source: Kashmir Reader (dateline Srinagar, Oct 16; posted 7:43 am Oct 17). Kashmir Horizon carried the same story but its page failed to load."
     - "Notifying authority and notification date not given in the source; copy says only that the policy has been notified."
     - "Omar's quote is a fragment as carried in the report."
 ---

@@ -22,7 +22,7 @@ hero:
     value: "Tear gas in Tunis, fire in Jebiniana"
 related: []
 seo:
-  description: "Police clashed with protesters in Ettadhamen near Tunis and in Jebiniana near Sfax on 22 October after two men died following encounters with security forces."
+  description: "Police clashed with protesters in Ettadhamen near Tunis and in Jebiniana near Sfax on October 22 after two men died following encounters with security forces."
 sources:
   - title: "Rare unrest flares in Tunisian capital as police clash with protesters"
     publisher: "Al Jazeera"
@@ -32,8 +32,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: Al Jazeera with AFP and Reuters, 23 Oct. Names of the two men who died not given. Family claim of police abuse vs local media version (swallowed drugs) both stated as claims."
-    - "Olfa Hamdi sentenced by military court Wednesday 21 Oct to four years; charges as reported. Saturday protest = 17 Oct."
+    - "Single source: Al Jazeera with AFP and Reuters, Oct 23. Names of the two men who died not given. Family claim of police abuse vs local media version (swallowed drugs) both stated as claims."
+    - "Olfa Hamdi sentenced by military court Wednesday, Oct 21 to four years; charges as reported. Saturday protest = Oct 17."
     - "No government or interior ministry statement found."
 ---
 

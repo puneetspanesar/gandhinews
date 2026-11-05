@@ -41,7 +41,7 @@ verification:
     - "Sentinel page timestamp (10:49 am) is earlier than the 2:30 pm firing; Imphal Times metadata about 5:06 pm IST. Published time set at 5:25 pm."
     - "Reinforcements to the Chassad-Mongkot Chepu sector and 'at least nine killed this month': Sentinel only; the toll is left out, reinforcements hedged."
     - "Sentinel quote from an unnamed Eastern Command Naga Village Guard representative left out (no named speaker)."
-    - "Thursday ambush details, missing couple and Kuki-Zo Council statement taken from our 16 Oct story; no update found on whether the missing couple has been traced."
+    - "Thursday ambush details, missing couple and Kuki-Zo Council statement taken from our Oct 16 story; no update found on whether the missing couple has been traced."
 ---
 
 Gunmen opened fire on Chassad village in Manipur's Kamjong district on Saturday afternoon, wounding four civilians, among them the village chief, two days after an ambush in the same district killed a woman and left a couple from Chassad missing.
@@ -60,6 +60,6 @@ On Thursday evening, between about 4 pm and 5 pm, gunmen ambushed two couples on
 
 Police said that attack was carried out by suspected militants. Kuki Inpi Manipur and the Kuki-Zo Council blamed the NSCN-IM. In a statement on Friday the Kuki-Zo Council called for "an immediate and impartial investigation", and said the killing took to 30 the number of Kuki-Zo civilians it holds the NSCN-IM and the ZUF(K) responsible for. It argued that any review of the suspension of operations pacts with Kuki groups should also cover the NSCN-IM's ceasefire.
 
-The attacks follow killings on the other side of the conflict. Suspected Kuki militants were blamed for an attack on Makui Ashang village in Kangpokpi district on 10 October in which four Naga men were killed. The severed head of one of them, Ajinbou Ringkamai, 52, was recovered near the site by a joint team of the CRPF and Manipur Police on Thursday, after the Naga body Joint Tribes Council Manipur had set a 48-hour ultimatum for its return.
+The attacks follow killings on the other side of the conflict. Suspected Kuki militants were blamed for an attack on Makui Ashang village in Kangpokpi district on October 10 in which four Naga men were killed. The severed head of one of them, Ajinbou Ringkamai, 52, was recovered near the site by a joint team of the CRPF and Manipur Police on Thursday, after the Naga body Joint Tribes Council Manipur had set a 48-hour ultimatum for its return.
 
 In the border villages, residents have voiced fears for civilians caught in the crossfire, and community leaders have appealed for steps to stop the violence from spreading.

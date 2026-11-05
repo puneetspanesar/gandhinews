@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-  - Single source (News On AIR, 23 Oct 1:18 pm) paraphrasing Union Environment Minister Bhupender Yadav's social media post; no direct quotes available. Arrival was 'yesterday' per his post, likely 22 Oct; story says 'this week'.
+  - Single source (News On AIR, Oct 23 1:18 pm) paraphrasing Union Environment Minister Bhupender Yadav's social media post; no direct quotes available. Arrival was 'yesterday' per his post, likely Oct 22; story says 'this week'.
 ---
 
 Two satellite-tagged Amur falcons, Apapang and Alang, have arrived back in Manipur after a migration that has taken them through 23 countries across Asia and Africa, Union Environment Minister Bhupender Yadav said this week.

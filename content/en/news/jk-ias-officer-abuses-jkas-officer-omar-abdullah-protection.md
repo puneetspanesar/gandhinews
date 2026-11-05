@@ -47,7 +47,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Date of the meeting: Statesman and Kashmir Observer say 14 October; Daily Excelsior says Thursday (15 Oct). Copy says 'this week'."
+    - "Date of the meeting: Statesman and Kashmir Observer say October 14; Daily Excelsior says Thursday (Oct 15). Copy says 'this week'."
     - "Exchange in the video ('Shut up! Shut up! Don't explain', 'I am your boss', Wani's reply): Statesman. The abusive word is not reproduced."
     - "Inquiry by Mandeep Kaur (2004-batch, Commissioner-Secretary, Housing and Urban Development), report in 15 days: Kashmir Observer (PTI-based) citing an official order; single outlet. Order date not given."
     - "LG Manoj Sinha seeking a report and Ranjan seeking Wani's suspension: Statesman, citing sources; hedged. No statement from Ranjan found."

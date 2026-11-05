@@ -46,8 +46,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov, Sunday evening IST, Naidu review and cancellation of 2 Nov Delhi visit; first report (IANS via Telangana Today) timestamped 22:09 IST. Exact hour of the review not stated."
-    - "All forecast and district figures (20 mandals: Eluru 9, Krishna 5, NTR 5, Bapatla 1; district averages for 3 Nov; Budameru 32,500 cusecs; 12,102 to 15,128 poles in 12 districts) from the IANS report only, attributed to officials. The 12 districts are not named."
+    - "event: Nov 1, Sunday evening IST, Naidu review and cancellation of Nov 2 Delhi visit; first report (IANS via Telangana Today) timestamped 22:09 IST. Exact hour of the review not stated."
+    - "All forecast and district figures (20 mandals: Eluru 9, Krishna 5, NTR 5, Bapatla 1; district averages for Nov 3; Budameru 32,500 cusecs; 12,102 to 15,128 poles in 12 districts) from the IANS report only, attributed to officials. The 12 districts are not named."
     - "No direct quotes from Naidu in the source; none used. Purpose of the Delhi trip not stated; left out."
     - "IMD alert for the AP and adjoining north Tamil Nadu coast as reported by IANS; IMD bulletin itself not read. Science desk may carry the IMD bulletin separately."
     - "Hans India and OmmCom carry the same IANS copy; only Telangana Today page was read in full."
@@ -72,7 +72,7 @@ Rain is expected to set in before the storm arrives. The forecast is for moderat
 Officials told the review that **20 mandals could see extremely heavy rain**: nine in Eluru, five each in Krishna and NTR districts and one in Bapatla. Eluru is projected to average about 179 mm of rain on Tuesday alone.
 
 ```chart
-{"type":"hbar","title":"Projected average rainfall on Tuesday, 3 November","unit":"mm","data":[{"label":"Eluru","value":179},{"label":"Krishna","value":163},{"label":"NTR","value":161},{"label":"West Godavari","value":147},{"label":"Guntur","value":119},{"label":"Bapatla","value":104}]}
+{"type":"hbar","title":"Projected average rainfall on Tuesday, November 3","unit":"mm","data":[{"label":"Eluru","value":179},{"label":"Krishna","value":163},{"label":"NTR","value":161},{"label":"West Godavari","value":147},{"label":"Guntur","value":119},{"label":"Bapatla","value":104}]}
 ```
 
 ## Rivers, poles and the Arnab clean-up
@@ -85,6 +85,6 @@ The Budameru rivulet near Vijayawada could receive an **inflow of about 32,500 c
 
 Strong winds could bring down **between 12,102 and 15,128 electricity poles** across 12 districts, according to the estimates placed before the chief minister.
 
-That warning comes while the state is still clearing up after Arnab, which made landfall on 28 October. Naidu asked about the restoration of power in the areas it hit, and officials said supply would be back everywhere by Sunday night.
+That warning comes while the state is still clearing up after Arnab, which made landfall on October 28. Naidu asked about the restoration of power in the areas it hit, and officials said supply would be back everywhere by Sunday night.
 
 The government is expected to step up evacuations and alerts in the coastal districts through Monday as the storm closes in.

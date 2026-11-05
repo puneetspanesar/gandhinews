@@ -21,7 +21,7 @@ hero:
     value: "Two IT results, one possible bonus"
 related: [tcs-q2-profit-ai-revenue-crosses-3-billion, hcltech-q2-profit-rises-21-raises-revenue-guidance, sensex-nifty-rupee-close-october-14]
 seo:
-  description: "Wipro and Tech Mahindra report Q2 results on 15 October 2026. Brokers see slow growth at Wipro and a 30% profit jump at Tech Mahindra, which may issue bonus shares."
+  description: "Wipro and Tech Mahindra report Q2 results on October 15, 2026. Brokers see slow growth at Wipro and a 30% profit jump at Tech Mahindra, which may issue bonus shares."
 sources:
   - title: "Wipro Q2 results preview: Revenue growth likely over 8%, margins in focus"
     publisher: "Business Standard"

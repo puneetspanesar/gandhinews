@@ -22,7 +22,7 @@ hero:
     value: "Dow up 530, Nasdaq flat"
 related: [global-cues-dussehra-holiday-wall-street-oil-october-20, markets-shut-dussehra-results-data-calendar-october-20, sensex-nifty-close-october-19-private-banks-axis, brent-109-houthi-yanbu-claims-hormuz-flows-russia-waiver]
 seo:
-  description: "Global cues for 21 October 2026: Dow up 1.02% at 52,495.88, Nasdaq flat, Netflix down after hours, Brent $108.79, 10-year US yield 5.12%, Kospi down 3.7%."
+  description: "Global cues for October 21, 2026: Dow up 1.02% at 52,495.88, Nasdaq flat, Netflix down after hours, Brent $108.79, 10-year US yield 5.12%, Kospi down 3.7%."
 sources:
   - title: "Closing Look, Tuesday, October 20, 2026"
     publisher: "Capp Notes (Substack)"

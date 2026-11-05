@@ -22,7 +22,7 @@ hero:
     value: "₹15 lakh and five acres a family"
 related: []
 seo:
-  description: "Shivraj Singh Chouhan said on 25 October 2026 that families relocating from Nilgarh in Raisen for forest and wildlife protection will get ₹15 lakh and five acres each."
+  description: "Shivraj Singh Chouhan said on October 25, 2026, that families relocating from Nilgarh in Raisen for forest and wildlife protection will get ₹15 lakh and five acres each."
 sources:
   - title: "Union Minister Shivraj Singh Chouhan announces Rs 15 lakh package for families displaced from Nilgarh"
     publisher: "ANI"

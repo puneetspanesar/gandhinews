@@ -31,11 +31,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (ThePrint, 14 Oct, 6:18 pm). Summons and meeting 'later this month' attributed to the NCPCR in copy; exact date not reported. No Google response reported."
+    - "Single source (ThePrint, Oct 14, 6:18 pm). Summons and meeting 'later this month' attributed to the NCPCR in copy; exact date not reported. No Google response reported."
     - "Contents of the December guidelines come from ThePrint's sources, so written as what the guidelines are expected to include."
-    - "Sharma quotes from the TASI 2026 panel, India International Centre, 14 Oct (date inferred from report day)."
-    - "Annapurna Devi review meeting 'on Monday' taken as 12 Oct."
-    - "The apps were first reported by ThePrint on 25 August; copy describes the apps without naming the outlet."
+    - "Sharma quotes from the TASI 2026 panel, India International Centre, Oct 14 (date inferred from report day)."
+    - "Annapurna Devi review meeting 'on Monday' taken as Oct 12."
+    - "The apps were first reported by ThePrint on August 25; copy describes the apps without naming the outlet."
 ---
 
 The National Commission for Protection of Child Rights (NCPCR) has summoned Google over artificial intelligence apps on its Play Store that turn photos of real people into videos of them kissing and hugging, and says it will issue child-safety guidelines for social media, gaming and AI platforms by December.
@@ -58,7 +58,7 @@ The NCPCR is also building an AI-based tool with the Ministry of Electronics and
 
 ## The rules already on the books
 
-India notified amendments to its IT intermediary rules on 10 February to deal with synthetically generated content, though it is not clear whether they cover standalone apps that generate such videos. Under the Digital Personal Data Protection Rules, platforms will need verifiable parental consent before processing the data of anyone under 18 from May 2027.
+India notified amendments to its IT intermediary rules on February 10 to deal with synthetically generated content, though it is not clear whether they cover standalone apps that generate such videos. Under the Digital Personal Data Protection Rules, platforms will need verifiable parental consent before processing the data of anyone under 18 from May 2027.
 
 This is not the commission's first approach to the big platforms. In 2024 it met Google, YouTube, X, Snapchat, ShareChat, Reddit and Bumble, and asked them to build parental-consent systems and file action-taken reports.
 

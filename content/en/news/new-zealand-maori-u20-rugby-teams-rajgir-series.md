@@ -22,7 +22,7 @@ hero:
     value: "Maori rugby comes to Bihar"
 related: []
 seo:
-  description: "New Zealand's Maori under-20 rugby teams Tama Toa and Hine Toa play India's men's and women's under-20 sides in Rajgir, Bihar, from 23 October."
+  description: "New Zealand's Maori under-20 rugby teams Tama Toa and Hine Toa play India's men's and women's under-20 sides in Rajgir, Bihar, from October 23."
 sources:
   - title: "India-New Zealand U-20 Rugby Series in Rajgir from Friday (PTI)"
     publisher: "ThePrint"

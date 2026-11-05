@@ -77,4 +77,4 @@ Head played with unusual restraint, making his slowest Test fifty in three years
 
 ## What happens on Thursday
 
-Australia lead the three-match series 1-0 after winning the first Test in Durban by 214 runs. Rain cost large parts of the first two days here, but South Africa now have a full day to take six wickets. Australia must bat through it to take their lead to the final Test at Newlands in Cape Town, which begins on 27 October.
+Australia lead the three-match series 1-0 after winning the first Test in Durban by 214 runs. Rain cost large parts of the first two days here, but South Africa now have a full day to take six wickets. Australia must bat through it to take their lead to the final Test at Newlands in Cape Town, which begins on October 27.

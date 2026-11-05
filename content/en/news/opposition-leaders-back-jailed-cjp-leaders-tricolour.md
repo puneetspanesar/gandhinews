@@ -21,7 +21,7 @@ hero:
     value: "Opposition stands with the CJP"
 related: [cjp-members-scale-jantar-mantar-gate-detained, what-is-the-cockroach-janta-party, rahul-gandhi-high-tea-india-bloc-cec-campaign, india-bloc-march-to-supreme-court-after-cji-declines-meeting, amit-shah-tells-rahul-gandhi-prepare-for-2029-defeat]
 seo:
-  description: "Rahul Gandhi, Mamata Banerjee, Kejriwal and Stalin backed CJP leaders Saurav Das and Ashutosh Ranka after they were sent to judicial custody on 14 October."
+  description: "Rahul Gandhi, Mamata Banerjee, Kejriwal and Stalin backed CJP leaders Saurav Das and Ashutosh Ranka after they were sent to judicial custody on October 14."
 sources:
   - title: "Rahul supports CJP for the first time after Ranka, Das sent to jail. 'Will reclaim Jantar Mantar'"
     publisher: "ThePrint"
@@ -72,7 +72,7 @@ Saurav Das and Ashutosh Ranka were produced before an Executive Magistrate on We
 
 "Waving the Tricolour at Jantar Mantar in a peaceful protest is not a crime," the Leader of the Opposition in the Lok Sabha wrote. "Jailing youth for it is an act of cowardice." He added: "Jantar Mantar belongs to the people of India. We will reclaim it."
 
-It was a marked change of tone. Only the day before, at a joint press conference outside his home, Rahul had said "There are no parallel protests", and Congress had stayed away from the CJP's own march on 10 October. Das had attacked the Congress ecosystem as recently as 2 October.
+It was a marked change of tone. Only the day before, at a joint press conference outside his home, Rahul had said "There are no parallel protests", and Congress had stayed away from the CJP's own march on October 10. Das had attacked the Congress ecosystem as recently as October 2.
 
 CJP founder Abhijeet Dipke welcomed the support. "Thank you, LoP @RahulGandhisir, for speaking out against the illegal arrest of @AshutoshRanka & @SauravDassss," he wrote.
 

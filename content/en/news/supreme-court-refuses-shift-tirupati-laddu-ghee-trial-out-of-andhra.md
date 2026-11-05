@@ -30,13 +30,13 @@ infographic:
     - {icon: users, value: "5", label: "members of the court-appointed SIT that investigated"}
   timeline:
     - {date: "Sep 2024", text: "Naidu alleges animal fat in laddus made under the YSRCP government", icon: megaphone}
-    - {date: "26 Sep 2024", text: "Andhra Pradesh sets up a state SIT", icon: map-pin}
+    - {date: "Sep 26, 2024", text: "Andhra Pradesh sets up a state SIT", icon: map-pin}
     - {date: "Later", text: "Supreme Court replaces it with an independent CBI-led SIT", icon: scales}
-    - {date: "5 Nov 2026", text: "Supreme Court refuses to move the trial out of the state", icon: gavel}
-  source: "Supreme Court hearing, 5 November 2026"
+    - {date: "Nov 5, 2026", text: "Supreme Court refuses to move the trial out of the state", icon: gavel}
+  source: "Supreme Court hearing, November 5, 2026"
 related: []
 seo:
-  description: "The Supreme Court on 5 November 2026 refused to transfer the Tirupati laddu ghee adulteration trial out of Andhra Pradesh, dismissing a plea by Malganga Milk and Agro Products."
+  description: "The Supreme Court on November 5, 2026, refused to transfer the Tirupati laddu ghee adulteration trial out of Andhra Pradesh, dismissing a plea by Malganga Milk and Agro Products."
 sources:
   - title: "Supreme Court Refuses to Transfer Tirupati Laddu Case Outside AP"
     publisher: "The Hans India"
@@ -51,9 +51,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 5 Nov, Supreme Court order reported 14:46 IST (The Hans India). Hearing time in court not given; story pegged to the report."
+    - "event: Nov 5, Supreme Court order reported 14:46 IST (The Hans India). Hearing time in court not given; story pegged to the report."
     - "Details and quotes from The Hans India only (fetched); IBTimes headline agrees on the outcome but the page was not fetched. Accused individuals not named in source."
-    - "Date of the Supreme Court order replacing the state SIT not given in source, so timeline says 'Later'. September 2024 date for Naidu's allegation inferred from the 26 Sep 2024 SIT date; kept to month only."
+    - "Date of the Supreme Court order replacing the state SIT not given in source, so timeline says 'Later'. September 2024 date for Naidu's allegation inferred from the Sep 26, 2024 SIT date; kept to month only."
 ---
 
 The Supreme Court on Thursday **refused to move the trial** in the Tirupati laddu ghee adulteration case out of Andhra Pradesh, rejecting a plea that the state's top leaders had poisoned the atmosphere for a fair hearing.
@@ -72,4 +72,4 @@ The row broke out when Mr Naidu alleged that **animal fat had been used** in lad
 {"n":2,"subject":"Chandrababu Naidu","caption":"Chief Minister Chandrababu Naidu, whose remarks on the laddu ghee the petitioners cited in seeking a transfer.","alt":"Andhra Pradesh Chief Minister Chandrababu Naidu"}
 ```
 
-The state set up its own SIT on 26 September 2024. The Supreme Court later replaced it with an independent team of two CBI officers, two Andhra Pradesh police officers and a senior FSSAI official, working under the supervision of the CBI director. The trial will now continue in Andhra Pradesh.
+The state set up its own SIT on September 26, 2024. The Supreme Court later replaced it with an independent team of two CBI officers, two Andhra Pradesh police officers and a senior FSSAI official, working under the supervision of the CBI director. The trial will now continue in Andhra Pradesh.

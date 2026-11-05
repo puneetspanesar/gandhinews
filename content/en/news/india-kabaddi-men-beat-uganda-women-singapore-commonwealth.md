@@ -12,7 +12,7 @@ location: Ahmedabad
 keyPoints:
   - "India's men beat Uganda **44-30** at the Veer Savarkar Sports Complex."
   - "India's women beat Singapore **32-16** and top their group on score difference."
-  - "The semi-finals are on **30 October** and the finals on 31 October."
+  - "The semi-finals are on **October 30** and the finals on October 31."
 hero:
   need: "India's kabaddi team in action, or captain Surjeet Singh"
   suggested_source: "Surjeet Singh (kabaddi)"
@@ -64,4 +64,4 @@ The top two teams in each group go through to the semi-finals, where the Group A
 
 India's women play Uganda at 6:45 pm IST on Sunday, in what looks like the match that will decide the top of their group. The men face Malaysia later in the evening.
 
-The semi-finals are on 30 October and both finals on 31 October. Entry to the matches is free with online registration.
+The semi-finals are on October 30 and both finals on October 31. Entry to the matches is free with online registration.

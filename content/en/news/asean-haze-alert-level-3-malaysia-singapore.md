@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single wire story (AFP via Dawn, updated 08:27 PKT = 08:57 IST on 18 Oct). ASMC notice posted Friday 17 Oct; IQAir ranking Saturday. Published time set at 08:40 IST as Sunday-morning wire reporting."
+    - "Single wire story (AFP via Dawn, updated 08:27 PKT = 08:57 IST on Oct 18). ASMC notice posted Friday, Oct 17; IQAir ranking Saturday. Published time set at 08:40 IST as Sunday-morning wire reporting."
     - "ASEAN described as 11 members in the source."
 ---
 

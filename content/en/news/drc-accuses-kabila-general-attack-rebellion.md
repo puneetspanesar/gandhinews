@@ -26,7 +26,7 @@ seo:
 verification:
   status: approved
   notes:
-    - AFP report via The Standard (Kenya) and TRT World, 17 Oct; Muyaya spoke Friday. FRN launch in Goma on Monday 12 Oct per TRT caption. Al Jazeera 18 Oct follow-up and Africanews 16 Oct ban on 13 Kabila-linked parties seen as headlines only; party ban omitted.
+    - AFP report via The Standard (Kenya) and TRT World, Oct 17; Muyaya spoke Friday. FRN launch in Goma on Monday, Oct 12 per TRT caption. Al Jazeera Oct 18 follow-up and Africanews Oct 16 ban on 13 Kabila-linked parties seen as headlines only; party ban omitted.
 sources:
   - title: "DR Congo says ex-president Kabila planning 'general attack'"
     publisher: "The Standard (AFP)"

@@ -56,7 +56,7 @@ verification:
     - "APAC calls the profit 'consolidated', 10bmnews 'standalone'. Not specified in copy."
     - "Deposits up 34% but only about 6% excluding FCNR deposits, per the call transcript (AI-assisted transcript article). Used with care."
     - "CFO's surname not given in the transcript ('Bhavin'); his quote not used."
-    - "'First full quarter under Emirates NBD' inferred from deal completion on 18 June 2026 (Q1 ended 30 June)."
+    - "'First full quarter under Emirates NBD' inferred from deal completion on June 18, 2026 (Q1 ended June 30)."
     - "Share close Rs 417.70 (-0.07%) from 10bmnews; investing.com shows the same figure with a $ sign."
 ---
 
@@ -70,13 +70,13 @@ Net advances rose 42% to ₹1,42,314 crore and deposits 34% to ₹1,56,272 crore
 
 > The quarter demonstrated the strength and resilience of our franchise, with excellent growth across assets and liabilities.
 >
-> Source: R Subramaniakumar, MD and CEO, RBL Bank, 12 October 2026
+> Source: R Subramaniakumar, MD and CEO, RBL Bank, October 12, 2026
 
 On a call with analysts, Mr Subramaniakumar said the bank had "generated large amount of liquidity on our balance sheet between the capital raise and the deposits raised", and that "normal business trends are improving quarter-on-quarter as unsecured stress normalizes."
 
 ## The Emirates NBD effect
 
-Emirates NBD completed its purchase of a 60% stake on 18 June through a preferential issue of about $2.75 billion (roughly ₹26,000 crore), the largest foreign investment in an Indian bank. The bank says it expects loans to grow 22-25% a year and plans to open 30 to 50 branches a quarter, taking the count to about 1,000 in roughly three years. It has 628 branches now.
+Emirates NBD completed its purchase of a 60% stake on June 18 through a preferential issue of about $2.75 billion (roughly ₹26,000 crore), the largest foreign investment in an Indian bank. The bank says it expects loans to grow 22-25% a year and plans to open 30 to 50 branches a quarter, taking the count to about 1,000 in roughly three years. It has 628 branches now.
 
 The bank has applied to the RBI to take over Emirates NBD's India business and expects to complete it this financial year, subject to approval.
 

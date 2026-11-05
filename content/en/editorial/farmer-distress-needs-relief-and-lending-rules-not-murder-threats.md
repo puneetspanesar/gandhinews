@@ -57,15 +57,15 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Shinde quotes and the 304 of 358 tehsils figure from PTI via ThePrint, 1 Nov (also the desk's news story). The desk's 17 Oct story had 305 talukas; copy uses the latest 304."
-    - "Nanded case: Chandrakant Shinde, 40, Mudkhed tehsil, two acres, Rs 10,000 loan and Rs 70,000 demand (family's allegation), taken from his village on Wednesday 22 Oct, found hanging in the firm's office on Saturday 24 Oct; family alleges confinement, assault and staged hanging. PTI 25 Oct and 27 Oct. Village spelt Malkoutha and Malkotha, firm named Khalsa Finance (25 Oct) and KF Enterprises (27 Oct); copy names neither. Arrest count rose from one (25 Oct) to four (27 Oct); copy says four men arrested. SIT under SDPO Rameshwar Wajane."
-    - "Bawankule direction on cases against recovery agents during drought, on Fadnavis's instruction: PTI 27 Oct, paraphrased. Fadnavis warning to cooperative banks and credit societies against coercive recovery, and 'similar moves for private lenders under way': desk's 17 Oct story (PTI)."
-    - "Marathwada 465 farmer suicides Jan-Jun 2026, Nanded 61, 1,131 in 2025: Divisional Commissioner's office report via The Pioneer, 9 July 2026. No later 2026 figure found."
+    - "Editorial view of the desk. Shinde quotes and the 304 of 358 tehsils figure from PTI via ThePrint, Nov 1 (also the desk's news story). The desk's Oct 17 story had 305 talukas; copy uses the latest 304."
+    - "Nanded case: Chandrakant Shinde, 40, Mudkhed tehsil, two acres, Rs 10,000 loan and Rs 70,000 demand (family's allegation), taken from his village on Wednesday, Oct 22, found hanging in the firm's office on Saturday, Oct 24; family alleges confinement, assault and staged hanging. PTI Oct 25 and Oct 27. Village spelt Malkoutha and Malkotha, firm named Khalsa Finance (Oct 25) and KF Enterprises (Oct 27); copy names neither. Arrest count rose from one (Oct 25) to four (Oct 27); copy says four men arrested. SIT under SDPO Rameshwar Wajane."
+    - "Bawankule direction on cases against recovery agents during drought, on Fadnavis's instruction: PTI Oct 27, paraphrased. Fadnavis warning to cooperative banks and credit societies against coercive recovery, and 'similar moves for private lenders under way': desk's Oct 17 story (PTI)."
+    - "Marathwada 465 farmer suicides Jan-Jun 2026, Nanded 61, 1,131 in 2025: Divisional Commissioner's office report via The Pioneer, July 9, 2026. No later 2026 figure found."
     - "RBI rules: August 2022 instruction (no intimidation or harassment 'verbal or physical', no calls before 8 am or after 7 pm) from Business Standard; 2022 microfinance framework (repayments capped at 50% of monthly household income, no 'harsh methods towards recovery') from AZB summary. RBI documents themselves not opened. Whether the Nanded firm is RBI-regulated is not known; copy does not say."
     - "Recommendations are the desk's own."
 ---
 
-Chandrakant Shinde owned two acres in Mudkhed tehsil of Nanded district. His family says he had borrowed Rs 10,000 from a private finance firm, which was demanding Rs 70,000 back. On 22 October, they say, men from the firm took him from his village. Two days later **he was found hanging inside the firm's office** in Nanded. His mother and daughter allege he was confined, beaten to death and hanged to make it look like suicide.
+Chandrakant Shinde owned two acres in Mudkhed tehsil of Nanded district. His family says he had borrowed Rs 10,000 from a private finance firm, which was demanding Rs 70,000 back. On October 22, they say, men from the firm took him from his village. Two days later **he was found hanging inside the firm's office** in Nanded. His mother and daughter allege he was confined, beaten to death and hanged to make it look like suicide.
 
 The police have registered a case of murder and kidnapping, **arrested four men** and set up a special investigation team. That is how it should be. If the family's account is borne out, this was not a loan recovery gone wrong. It was a killing.
 

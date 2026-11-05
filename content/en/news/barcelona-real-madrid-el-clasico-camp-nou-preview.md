@@ -22,7 +22,7 @@ hero:
     value: "Nine from nine meets four in a row"
 related: [yamal-barcelona-thrash-betis-nine-wins-from-nine, mbappe-double-real-madrid-beat-sevilla-lazio-win-at-juventus, psg-beat-barcelona-4-2-vitinha-fabian-ruiz-late-goals, real-madrid-beat-leipzig-villa-perfect-inter-galatasaray-win]
 seo:
-  description: "Unbeaten La Liga leaders Barcelona host Real Madrid at Camp Nou on Sunday, 25 October (1:30 am IST Monday), with Vinícius Júnior suspended and Dani Olmo injured."
+  description: "Unbeaten La Liga leaders Barcelona host Real Madrid at Camp Nou on Sunday, October 25 (1:30 am IST Monday), with Vinícius Júnior suspended and Dani Olmo injured."
 sources:
   - title: "Barcelona vs Real Madrid: La Liga 2026 Preview, Team News, Head-to-Head & Prediction"
     publisher: "Sports Digest"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source. The article gave 1:30 pm IST on 26 Oct, an error; 9 pm CET on 25 Oct (after the DST change that morning) is 1:30 am IST Monday 26 Oct."
+    - "Single source. The article gave 1:30 pm IST on Oct 26, an error; 9 pm CET on Oct 25 (after the DST change that morning) is 1:30 am IST Monday, Oct 26."
     - "Real Madrid's points not given; 'third' from the same source. Barcelona's 27 points implied by nine wins; not stated in copy beyond 'six-point lead'."
     - "Injury list (Olmo, Eric García, Christensen out; Koundé doubtful; Asencio, Rodrygo out; Mendy uncertain) from same preview; may change at the pre-match press conferences on Saturday."
     - "No coach quotes in source; none used."

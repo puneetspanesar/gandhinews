@@ -12,7 +12,7 @@ location: Mumbai
 keyPoints:
   - "Foreign portfolio investors have sold a net **₹53,337 crore** of Indian shares so far in October."
   - "Their selling through the exchanges this year has reached **₹3,69,164 crore**."
-  - "Selling slowed in the week to 23 October and FPIs **turned buyers on two days**."
+  - "Selling slowed in the week to October 23 and FPIs **turned buyers on two days**."
 hero:
   need: "VK Vijayakumar of Geojit Investments, or the Bombay Stock Exchange building on Dalal Street"
   suggested_source: "Bombay Stock Exchange Dalal Street night"
@@ -37,13 +37,13 @@ sources:
 verification:
   status: approved
   notes:
-    - "Main figures from Mumbai Press (25 Oct, PTI-style Sunday FPI copy); exact cutoff date of the Rs 53,337 crore not stated, written as 'so far in October'. Single source for this week's numbers."
+    - "Main figures from Mumbai Press (Oct 25, PTI-style Sunday FPI copy); exact cutoff date of the Rs 53,337 crore not stated, written as 'so far in October'. Single source for this week's numbers."
     - "Vijayakumar quote verbatim from that article. Other analyst lines unattributed in source; paraphrased as analysts' views."
-    - "44,166 crore at 11 Oct and Rs 3.04 lakh crore YTD then from FPJ 11 Oct (NSDL). YTD 3,69,164 crore is exchange selling, a different measure; kept separate."
+    - "44,166 crore at Oct 11 and Rs 3.04 lakh crore YTD then from FPJ Oct 11 (NSDL). YTD 3,69,164 crore is exchange selling, a different measure; kept separate."
     - "Photo: Vijayakumar Commons availability uncertain."
 ---
 
-Foreign portfolio investors have pulled a net ₹53,337 crore out of Indian shares so far in October, extending a selling streak to ten weeks, although the outflow slowed sharply in the week that ended on 23 October.
+Foreign portfolio investors have pulled a net ₹53,337 crore out of Indian shares so far in October, extending a selling streak to ten weeks, although the outflow slowed sharply in the week that ended on October 23.
 
 Overseas funds turned buyers on two days of that week. Against the selling in the secondary market, they put a net ₹5,281 crore into shares through initial public offerings this month.
 
@@ -57,8 +57,8 @@ Domestic institutions have cash to spare and have been buying fairly valued larg
 
 ## Why it may not be over
 
-Oil remains the main worry. Brent crude closed on Friday at $116.72 a barrel, its highest since 29 April, after rising 6.2% in the week. Analysts expect that crude staying above $100 will weigh on India's economy, and that foreign funds will keep selling into rallies.
+Oil remains the main worry. Brent crude closed on Friday at $116.72 a barrel, its highest since April 29, after rising 6.2% in the week. Analysts expect that crude staying above $100 will weigh on India's economy, and that foreign funds will keep selling into rallies.
 
 The smaller end of the market took the worst of the week. The Nifty 50 fell about 2.35%, but the Nifty Midcap 100 lost 5.6% and the Nifty Smallcap 100 dropped 7.3%. Market talk blamed forced selling of positions bought with borrowed money for the slide in mid and small caps.
 
-The pace of exits has been relentless. By 11 October, FPIs had already sold ₹44,166 crore of shares this month, and depository data then put their net equity outflow for 2026 at ₹3.04 lakh crore, against ₹1.66 lakh crore in the whole of 2025.
+The pace of exits has been relentless. By October 11, FPIs had already sold ₹44,166 crore of shares this month, and depository data then put their net equity outflow for 2026 at ₹3.04 lakh crore, against ₹1.66 lakh crore in the whole of 2025.

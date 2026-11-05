@@ -12,7 +12,7 @@ location: Leh
 keyPoints:
   - "An IAF **C-130J** carried a critically ill civilian from Leh to Palam at short notice."
   - "The mission was flown **in darkness and challenging weather**, the Defence Ministry said."
-  - "The India-Russia **Indra naval exercise** in Vladivostok was scheduled to end on 18 October."
+  - "The India-Russia **Indra naval exercise** in Vladivostok was scheduled to end on October 18."
 hero:
   need: "An Indian Air Force C-130J Super Hercules, ideally at Leh airfield"
   suggested_source: "Indian Air Force C-130J Leh"
@@ -37,8 +37,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Casevac: News On AIR 8:07 pm 18 Oct citing Defence Ministry; date of the flight, patient's identity and condition not given."
-    - "Indra: dates 13-18 Oct in Vladivostok from IANS via idrw; closing ceremony or participating ships not reported, so copy says 'scheduled to end'."
+    - "Casevac: News On AIR 8:07 pm Oct 18 citing Defence Ministry; date of the flight, patient's identity and condition not given."
+    - "Indra: dates Oct 13-18 in Vladivostok from IANS via idrw; closing ceremony or participating ships not reported, so copy says 'scheduled to end'."
     - "Tarang Shakti figures from IANS summary of a Diplomat piece by Dinakar Peri; publication not named in copy."
 ---
 
@@ -50,8 +50,8 @@ The ministry presented the flight as a sign of the force's operational readiness
 
 ## Indra exercise ends
 
-At sea, the annual Indra exercise between the Indian and Russian navies was scheduled to close in Vladivostok on Sunday, after running from 13 October.
+At sea, the annual Indra exercise between the Indian and Russian navies was scheduled to close in Vladivostok on Sunday, after running from October 13.
 
-It caps a busy few weeks of military drills. The Air Force hosted Exercise Tarang Shakti at Jodhpur from 26 September to 12 October with seven partner countries: Australia, Bangladesh, France, Germany, Sri Lanka, the UAE and the United States, with 32 nations sending observers. More than 800 sorties were flown. The US sent six F-35A fighters and France four Rafales.
+It caps a busy few weeks of military drills. The Air Force hosted Exercise Tarang Shakti at Jodhpur from September 26 to October 12 with seven partner countries: Australia, Bangladesh, France, Germany, Sri Lanka, the UAE and the United States, with 32 nations sending observers. More than 800 sorties were flown. The US sent six F-35A fighters and France four Rafales.
 
-Before that, Indian and US soldiers held the Yudh Abhyas exercise from 15 to 27 September, training at high altitude in Auli, Uttarakhand, and firing rockets at the Mahajan Field Firing Range in Rajasthan, where US HIMARS and Indian Pinaka systems were used.
+Before that, Indian and US soldiers held the Yudh Abhyas exercise from September 15 to 27, training at high altitude in Auli, Uttarakhand, and firing rockets at the Mahajan Field Firing Range in Rajasthan, where US HIMARS and Indian Pinaka systems were used.

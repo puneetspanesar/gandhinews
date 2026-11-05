@@ -72,10 +72,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk, written from the desk's own 31 Oct and 1 Nov stories (mock Parliament, Rahul parrot, Kharge, Tejashwi/Akhilesh, Mamata, Nadda/Sood, Sambit Patra, BJP Rohtak padyatra) and the sources listed in them. No new reporting beyond those stories; no fresh web searches spent on this piece."
+    - "Editorial view of the desk, written from the desk's own Oct 31 and Nov 1 stories (mock Parliament, Rahul parrot, Kharge, Tejashwi/Akhilesh, Mamata, Nadda/Sood, Sambit Patra, BJP Rohtak padyatra) and the sources listed in them. No new reporting beyond those stories; no fresh web searches spent on this piece."
     - "Quotes: Rahul parrot line (Patrika, Hindi, our translation); Rahul 'Without Gyanesh Kumar...' (ThePrint live); Kharge 'government of theft' (Lalluram/Insider Live, translated); Tejashwi 'voters and those who commit fraud with votes' (NewsBytes, translated); Mamata 'Vote-chori yes papa, loktantra chori yes papa' (News Track); Nadda quotes verbatim from Tribune; Patra quotes as rendered by India TV and The Week."
     - "Shakuni reference is an Insider Live paraphrase; copy does not quote it, only says Tejashwi invoked Shakuni. Akhilesh's 31,000 figure not used."
-    - "13.2 crore deletions is the opposition's figure (mock Parliament resolution); 193 MPs notice refused in April per earlier editorial and Kharge. Gyanesh Kumar took charge in 2025 (Patra; matches site record). Amit Shah to lead a padyatra in Karnal on 5 Nov per desk's 1 Nov Rohtak story."
+    - "13.2 crore deletions is the opposition's figure (mock Parliament resolution); 193 MPs notice refused in April per earlier editorial and Kharge. Gyanesh Kumar took charge in 2025 (Patra; matches site record). Amit Shah to lead a padyatra in Karnal on Nov 5 per desk's Nov 1 Rohtak story."
     - "Election Commission has denied political bias in general; no specific EC reply to the rally found. Recommendations are the desk's own; the piece deliberately criticises both camps."
 ---
 

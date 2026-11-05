@@ -22,7 +22,7 @@ hero:
     value: "AI is not a ghost or demon"
 related: [indiaai-compute-subsidy-model-builders-researchers-10-crore]
 seo:
-  description: "KTR opened Random Trees' 400-employee Indian headquarters in Hyderabad on 24 October, saying AI will not take jobs and Hyderabad should become a global AI hub."
+  description: "KTR opened Random Trees' 400-employee Indian headquarters in Hyderabad on October 24, saying AI will not take jobs and Hyderabad should become a global AI hub."
 sources:
   - title: "KTR inaugurates Random Trees' Indian headquarters in Hyderabad as company launches operations with 400 employees"
     publisher: "ANI"

@@ -45,7 +45,7 @@ verification:
     - "Inflation 5% FY27 (2% FY26), 4.4% FY28, and CAD 1.5% of GDP FY27 (0.7% FY26), 1.3% FY28 from Kotak Neo only. China 4.5%/4% from Kotak Neo only. Global inflation 4.7%/4.1% from ANI only."
     - "Downside scenario (oil above $130 through Q1 2027, -0.5 pp to 2027 world growth) and AI correction (-1.1% global GDP by 2028) from Business Standard only."
     - "Georgieva 'standing on one leg' quote was at a Bretton Woods Committee event, per Business Standard; exact date not given, so no day is stated."
-    - "Report released on 13 Oct; Business Standard first published at 9:34 am IST. Timestamp set to evening to fit the run window."
+    - "Report released on Oct 13; Business Standard first published at 9:34 am IST. Timestamp set to evening to fit the run window."
     - "RBI 7.1% growth and 5.2% inflation forecasts match our earlier RBI story."
 ---
 

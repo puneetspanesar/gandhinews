@@ -8,7 +8,7 @@ topics: [states]
 title: "Low, depression or cyclone? How the IMD grades the storms brewing in the Bay of Bengal"
 standfirst: "The weather office expects a low-pressure area over the Bay of Bengal to become a depression by Sunday. What those words mean, how fast the winds must blow before a system is called a cyclone, and how the warnings are issued."
 published: 2026-10-23T11:20:00+05:30
-shortAnswer: "The India Meteorological Department grades weather systems over the north Indian Ocean by their strongest sustained winds. A low has winds below 31 km/h, a depression 31-49 km/h and a deep depression 50-61 km/h; only at 62 km/h does a system become a cyclonic storm, and there are four stronger grades above that, up to a super cyclonic storm at 222 km/h or more. The system now forming in the Bay of Bengal is forecast to reach depression stage by 25 October, and the IMD has not said whether it will become a cyclone."
+shortAnswer: "The India Meteorological Department grades weather systems over the north Indian Ocean by their strongest sustained winds. A low has winds below 31 km/h, a depression 31-49 km/h and a deep depression 50-61 km/h; only at 62 km/h does a system become a cyclonic storm, and there are four stronger grades above that, up to a super cyclonic storm at 222 km/h or more. The system now forming in the Bay of Bengal is forecast to reach depression stage by October 25, and the IMD has not said whether it will become a cyclone."
 hero:
   need: "Mausam Bhavan, headquarters of the India Meteorological Department, New Delhi"
   suggested_source: "Mausam Bhavan New Delhi"
@@ -50,8 +50,8 @@ verification:
   notes:
     - "Classification table (categories, knots, km/h, T-numbers, in use since 2015) from the SAARC Disaster Management Centre training deck, which reproduces IMD's table. The deck's own impact table gives 62-87 km/h for a cyclonic storm against 62-88 km/h in the classification table; copy uses 62-88 and the threshold 62."
     - "Warning stages (pre-cyclone watch, cyclone alert at least 48 hours ahead, cyclone warning at least 24 hours ahead, post-landfall outlook about 12 hours before landfall, de-warning at depression stage) from the same deck. The deck's colour codes are inconsistent, so colours are not given."
-    - "Current system details (low expected around 23 Oct, depression by morning of 25 Oct, gales 70-80 km/h gusting 90 from 26 Oct, fishermen warnings) from the desk's 22 October story and its sources. Whether the low had formed by Friday afternoon was not confirmed; copy says it was expected."
-    - "October 2024 example (depression on 22 Oct 2024, forecast severe cyclonic storm crossing between Puri and Sagar Island on 25 Oct) from Tribune/PTI. The storm's name is not given because the source read did not name it."
+    - "Current system details (low expected around Oct 23, depression by morning of Oct 25, gales 70-80 km/h gusting 90 from Oct 26, fishermen warnings) from the desk's October 22 story and its sources. Whether the low had formed by Friday afternoon was not confirmed; copy says it was expected."
+    - "October 2024 example (depression on Oct 22, 2024, forecast severe cyclonic storm crossing between Puri and Sagar Island on Oct 25) from Tribune/PTI. The storm's name is not given because the source read did not name it."
     - "WMO/ESCAP Panel founded 1973 and member list from the SAARC deck; naming lists not described in detail as the deck does not include them."
     - "That a system is named on reaching cyclonic storm stage is standard IMD practice; not stated in the SAARC deck."
     - "Deccan Herald explainer only confirmed eight categories based on maximum sustained wind; its figures were not visible."
@@ -59,9 +59,9 @@ verification:
 
 ## What is the IMD forecasting this week?
 
-**A low-pressure area over the Bay of Bengal that is expected to strengthen into a depression by Sunday morning, 25 October.**
+**A low-pressure area over the Bay of Bengal that is expected to strengthen into a depression by Sunday morning, October 25.**
 
-In its bulletin on Thursday evening the India Meteorological Department (IMD) said a low was very likely to form over the southeast and east-central Bay of Bengal around Friday, 23 October. It gave a high probability that the system would become a depression by Sunday and keep strengthening until 28 October as it moves west-north-west. Gale winds of 70-80 km/h, gusting to 90 km/h, are forecast over the west-central bay from Monday, and fishermen have been told to stay ashore.
+In its bulletin on Thursday evening the India Meteorological Department (IMD) said a low was very likely to form over the southeast and east-central Bay of Bengal around Friday, October 23. It gave a high probability that the system would become a depression by Sunday and keep strengthening until October 28 as it moves west-north-west. Gale winds of 70-80 km/h, gusting to 90 km/h, are forecast over the west-central bay from Monday, and fishermen have been told to stay ashore.
 
 The weather office has not called it a cyclone, and has not said where it might cross the coast. To see why, it helps to know how the IMD names each stage.
 
@@ -105,4 +105,4 @@ When a disturbance looks likely to grow into a cyclone, the IMD issues a pre-cyc
 
 **Because the Bay of Bengal often produces strong storms after the monsoon withdraws.**
 
-Two years ago, on 22 October 2024, a depression over the bay was forecast to grow into a severe cyclonic storm and cross the coast between Puri in Odisha and Sagar Island in West Bengal on 25 October. The pattern this year looks similar on the calendar, though every system is different. As of Friday the IMD's outlook for 23 to 29 October shows a high chance of cyclogenesis, the formation of a cyclone, over the bay. Whether this one crosses that line will be clear only once the depression forms and its winds can be measured.
+Two years ago, on October 22, 2024, a depression over the bay was forecast to grow into a severe cyclonic storm and cross the coast between Puri in Odisha and Sagar Island in West Bengal on October 25. The pattern this year looks similar on the calendar, though every system is different. As of Friday the IMD's outlook for October 23 to 29 shows a high chance of cyclogenesis, the formation of a cyclone, over the bay. Whether this one crosses that line will be clear only once the depression forms and its winds can be measured.

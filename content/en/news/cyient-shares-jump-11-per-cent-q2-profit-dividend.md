@@ -22,7 +22,7 @@ hero:
     value: "Cyient up 11%"
 related: [q2-movers-tejas-cyient-dlm-oberoi-kross, swiggy-shares-slump-new-low-q2-results, midcap-smallcap-indices-slide-4-per-cent-margin-calls]
 seo:
-  description: "Cyient share price jumps about 10.9% to ₹1,268 on 23 October 2026 after Q2 FY27 results: DET business profit up 11.9% to ₹153 crore, 12% dividend declared."
+  description: "Cyient share price jumps about 10.9% to ₹1,268 on October 23, 2026, after Q2 FY27 results: DET business profit up 11.9% to ₹153 crore, 12% dividend declared."
 sources:
   - title: "Stock Market LIVE, 23 October 2026"
     publisher: "Business Standard"

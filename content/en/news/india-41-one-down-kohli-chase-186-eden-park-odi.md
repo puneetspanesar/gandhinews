@@ -23,7 +23,7 @@ hero:
 infographic:
   kicker: "New Zealand v India, 1st ODI"
   headline: "India 41 for 1 in chase of 186"
-  dek: "Eden Park, Auckland, Wednesday 4 November"
+  dek: "Eden Park, Auckland, Wednesday, November 4"
   motif: cricket
   stats:
     - {icon: target, value: "186", label: "India's target after New Zealand's 185 all out"}
@@ -31,7 +31,7 @@ infographic:
   source: "Match scoring, November 4, 2026"
 related: [rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-eden-park, brar-latham-kohli-catch-new-zealand-124-seven-down-eden-park-odi, india-elect-to-field-new-zealand-one-down-eden-park-first-odi]
 seo:
-  description: "New Zealand v India first ODI at Eden Park, 4 November 2026: India reach 41 for 1 after 7.4 overs chasing 186, with Virat Kohli at the crease."
+  description: "New Zealand v India first ODI at Eden Park, November 4, 2026: India reach 41 for 1 after 7.4 overs chasing 186, with Virat Kohli at the crease."
 sources:
   - title: "New Zealand vs India 1st ODI LIVE, Score Updates, Scorecard and Ball-by-Ball (NZ 185; IND 41/1, 7.4 ov)"
     publisher: "VAVEL"
@@ -56,7 +56,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: India's chase, 1st ODI, Eden Park, Wed 4 Nov 2026. 33/1 after 6.1 ov about 11:45 IST (desk brief); 41/1 after 7.4 ov about 11:50-11:55 IST. Written about 12:05 IST."
+    - "event: India's chase, 1st ODI, Eden Park, Wed Nov 4, 2026. 33/1 after 6.1 ov about 11:45 IST (desk brief); 41/1 after 7.4 ov about 11:50-11:55 IST. Written about 12:05 IST."
     - "41/1 (7.4 ov): VAVEL search-result title only (fetched VAVEL page was a stale pre-match cache). Kohli batting and hitting a flicked boundary: Outlook India live-blog headline in search results (fetched page itself stale at 08:07 IST). Cricinfo scorecard and live pages refused fetch; Wisden match page fetch not approved in time."
     - "Identity of the dismissed batter (Rohit or Gill), how out, bowler, and individual scores NOT confirmed in any readable source, so not named. Hero subject Shubman Gill is in the story as captain (toss quotes)."
     - "Gill toss quotes and India XI order: ANI article. Target 186, NZ 185 in 40.2 ov: NewsX (published 11:13 IST)."

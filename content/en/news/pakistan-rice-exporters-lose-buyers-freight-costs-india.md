@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - Single source (Arab News Pakistan, 21 Oct, 14:35 PKT). Freight and export figures attributed to REAP chairman Muhammad Raza and Pakistan Bureau of Statistics as reported. India mention limited to Indian rice dominating Saudi market on price.
+    - Single source (Arab News Pakistan, Oct 21, 14:35 PKT). Freight and export figures attributed to REAP chairman Muhammad Raza and Pakistan Bureau of Statistics as reported. India mention limited to Indian rice dominating Saudi market on price.
 ---
 
 Pakistan's rice exporters are losing their smaller customers in Africa and the Middle East because the war around Iran has sent shipping costs soaring, the head of the country's main exporters' body said on Wednesday.

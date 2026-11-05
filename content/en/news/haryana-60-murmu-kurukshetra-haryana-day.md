@@ -10,9 +10,9 @@ standfirst: "The state-level Haryana Day function at Kurukshetra University mark
 published: 2026-11-01T06:35:00+05:30
 location: Kurukshetra
 keyPoints:
-  - "Haryana marks **60 years since its formation** on 1 November 1966."
+  - "Haryana marks **60 years since its formation** on November 1, 1966."
   - "President Droupadi Murmu is **chief guest at Kurukshetra University** today."
-  - "The **Ratnavali festival runs from 1 to 4 November**, opened by a President for the first time."
+  - "The **Ratnavali festival runs from November 1 to 4**, opened by a President for the first time."
 hero:
   need: "Two-panel split: President Droupadi Murmu, chief guest, and Kurukshetra University, the venue"
   suggested_source: "Droupadi Murmu"
@@ -22,7 +22,7 @@ hero:
     value: "Haryana at 60, the President in Kurukshetra"
 related: [haryana-saini-seven-point-plan-drug-free-sankalp, chhattisgarh-rajyotsav-26th-mandaviya-opens-shah-closing, karnataka-rajyotsava-70-siddaramaiah-kanteerava-schools, kerala-turns-70-festival-kerala-satheesan-nishagandhi, mp-71st-foundation-day-rajyotsav-bhopal-mohan-yadav]
 seo:
-  description: "Haryana marks 60 years on 1 November 2026. President Droupadi Murmu is chief guest at the state function at Kurukshetra University and opens the Ratnavali festival."
+  description: "Haryana marks 60 years on November 1, 2026. President Droupadi Murmu is chief guest at the state function at Kurukshetra University and opens the Ratnavali festival."
 sources:
   - title: "President Murmu to Attend Haryana Day Celebrations in Kurukshetra tomorrow"
     publisher: "News On AIR (Prasar Bharati)"
@@ -42,9 +42,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov, Haryana Day (60th anniversary) begins 00:00 IST; state function at Kurukshetra University today, start time not reported in any source. Day-of preview written ~06:35 IST."
-    - "Sources: News On AIR 31 Oct 7:33 pm (Murmu, Saini, ~2,000 invitees, exhibition themes, Swami Shraddhanand centenary festival); UNI 31 Oct 14:01 (diamond jubilee, 2047 vision exhibition, two-day drone ban, DC Vishram Kumar Meena; article paywalled after first paragraphs); Tribune 28 Oct 1:31 am (Ratnavali rescheduled to 1-4 Nov, first time a President opens it; both quotes verbatim)."
-    - "Not used: Haryana growth figures (per capita income etc.) found only in 1 Nov 2025 coverage; not repeated as current. No PM or Governor message for 2026 found; PIB index fetch was blocked."
+    - "event: Nov 1, Haryana Day (60th anniversary) begins 00:00 IST; state function at Kurukshetra University today, start time not reported in any source. Day-of preview written ~06:35 IST."
+    - "Sources: News On AIR Oct 31 7:33 pm (Murmu, Saini, ~2,000 invitees, exhibition themes, Swami Shraddhanand centenary festival); UNI Oct 31 14:01 (diamond jubilee, 2047 vision exhibition, two-day drone ban, DC Vishram Kumar Meena; article paywalled after first paragraphs); Tribune Oct 28 1:31 am (Ratnavali rescheduled to Nov 1-4, first time a President opens it; both quotes verbatim)."
+    - "Not used: Haryana growth figures (per capita income etc.) found only in Nov 1, 2025, coverage; not repeated as current. No PM or Governor message for 2026 found; PIB index fetch was blocked."
     - "Swami Shraddhanand festival: AIR describes it as an annual festival marking the centenary of his sacrifice; venue and timing not given, written as AIR states."
 ---
 
@@ -55,9 +55,9 @@ The function is at **Kurukshetra University**, with Chief Minister Nayab Singh S
 
 ## Six decades on show
 
-The President will **open an exhibition on Haryana's six decades** since it was formed on 1 November 1966. It covers agriculture and the Green Revolution, sports, industry, education, healthcare, women's empowerment and the state's cultural heritage, along with its plans for a developed Haryana by 2047.
+The President will **open an exhibition on Haryana's six decades** since it was formed on November 1, 1966. It covers agriculture and the Green Revolution, sports, industry, education, healthcare, women's empowerment and the state's cultural heritage, along with its plans for a developed Haryana by 2047.
 
-She will also inaugurate Ratnavali, the university's state-level cultural festival, which was moved from its original 30 October start and now **runs from 1 to 4 November**. She will release the festival brochure and visit an exhibition of Haryanvi folk art. "The President of India will inaugurate the 'Ratnavali' state-level festival for the first time," Kurukshetra University's public relations director said.
+She will also inaugurate Ratnavali, the university's state-level cultural festival, which was moved from its original October 30 start and now **runs from November 1 to 4**. She will release the festival brochure and visit an exhibition of Haryanvi folk art. "The President of India will inaugurate the 'Ratnavali' state-level festival for the first time," Kurukshetra University's public relations director said.
 
 The President is also due at an annual festival that this year marks the **centenary of the sacrifice of Swami Shraddhanand**, the freedom fighter.
 

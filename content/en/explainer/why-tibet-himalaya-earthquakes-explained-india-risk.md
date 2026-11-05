@@ -18,7 +18,7 @@ hero:
     value: "Two magnitude 7 quakes in 21 months"
 related: [tibet-earthquake-baqen-16-dead-rescue]
 seo:
-  description: "Why Tibet has frequent strong earthquakes, how the 22 October 2026 Baqen quake compares with Tingri 2025, the Himalayan risk to India and the withdrawn Zone VI seismic map."
+  description: "Why Tibet has frequent strong earthquakes, how the October 22, 2026 Baqen quake compares with Tingri 2025, the Himalayan risk to India and the withdrawn Zone VI seismic map."
 sources:
   - title: "At least 16 dead in Tibet quake: China state media"
     publisher: "The Daily Star (AFP)"
@@ -48,20 +48,20 @@ sources:
 verification:
   status: approved
   notes:
-    - "Baqen facts (magnitude 7.0, about 10 km deep per USGS, 10:33 pm local on 22 October, Maru township, at least 16 dead and 46 injured per CCTV, 339 houses collapsed or damaged) from the desk's 23 October story (AFP via Daily Star, Al Jazeera). The fault type of the Baqen quake was not found in sources read; copy does not state it."
-    - "Tingri 2025 (7 January, Mw 7.1 USGS, about 10 km deep, 126 dead officially with higher Tibetan estimates, normal faulting on north-south faults from east-west extension, damage in Nepal and slight damage in Samastipur, Bihar, felt in Assam and West Bengal; largest Tibet quakes around magnitude 8 on strike-slip faults; 2015 Nepal quake about 171 km south) from the Wikipedia article. Exact wording 'east-west extension on north-south trending normal faults'."
+    - "Baqen facts (magnitude 7.0, about 10 km deep per USGS, 10:33 pm local on October 22, Maru township, at least 16 dead and 46 injured per CCTV, 339 houses collapsed or damaged) from the desk's October 23 story (AFP via Daily Star, Al Jazeera). The fault type of the Baqen quake was not found in sources read; copy does not state it."
+    - "Tingri 2025 (January 7, Mw 7.1 USGS, about 10 km deep, 126 dead officially with higher Tibetan estimates, normal faulting on north-south faults from east-west extension, damage in Nepal and slight damage in Samastipur, Bihar, felt in Assam and West Bengal; largest Tibet quakes around magnitude 8 on strike-slip faults; 2015 Nepal quake about 171 km south) from the Wikipedia article. Exact wording 'east-west extension on north-south trending normal faults'."
     - "No India-Eurasia convergence rate given; none in sources read."
-    - "Zone VI map (released 28 November 2025 under revised IS 1893, whole arc from Kashmir to Arunachal, 61% of India in moderate to high hazard, Gahalaut's comments on locked segments not ruptured in nearly two centuries) from ETV Bharat. Withdrawal (BIS gazette notification of 3 March 2026, MoHUA consultation concerns, cost estimates of 10-15% and more, 2016 standard applying) from a Vision IAS summary of an Economic Times report; the gazette itself was not read. Cost figures are not used in copy beyond 'higher building costs'."
-    - "No reports of damage in India or Nepal from the Baqen quake found as of 23 October."
+    - "Zone VI map (released November 28, 2025, under revised IS 1893, whole arc from Kashmir to Arunachal, 61% of India in moderate to high hazard, Gahalaut's comments on locked segments not ruptured in nearly two centuries) from ETV Bharat. Withdrawal (BIS gazette notification of March 3, 2026, MoHUA consultation concerns, cost estimates of 10-15% and more, 2016 standard applying) from a Vision IAS summary of an Economic Times report; the gazette itself was not read. Cost figures are not used in copy beyond 'higher building costs'."
+    - "No reports of damage in India or Nepal from the Baqen quake found as of October 23."
 ---
 
 ## What happened in Tibet this week?
 
-**A shallow magnitude 7.0 earthquake struck a remote part of Baqen county late on Thursday 22 October, killing at least 16 people.**
+**A shallow magnitude 7.0 earthquake struck a remote part of Baqen county late on Thursday, October 22, killing at least 16 people.**
 
 The quake hit at 10:33 pm local time in Maru township, about 390 km northeast of Lhasa, at a depth of about 10 km, according to the US Geological Survey. Chinese state television said 46 people were injured and 339 houses collapsed or were damaged. Power and phone lines in the county seat went down. No damage was reported in India or Nepal.
 
-It was the second magnitude 7 earthquake in Tibet in less than two years. On 7 January 2025 a magnitude 7.1 quake in Tingri county, close to the Nepal border and Mount Everest, killed 126 people by the official count, and Tibetan sources put the toll higher.
+It was the second magnitude 7 earthquake in Tibet in less than two years. On January 7, 2025, a magnitude 7.1 quake in Tingri county, close to the Nepal border and Mount Everest, killed 126 people by the official count, and Tibetan sources put the toll higher.
 
 ## Why is Tibet so prone to earthquakes?
 
@@ -99,7 +99,7 @@ Vineet Gahalaut, director of the Wadia Institute of Himalayan Geology in Dehradu
 
 In November 2025 the Bureau of Indian Standards issued a revised earthquake design code, IS 1893 of 2025, with a new seismic map. It created a new highest-risk Zone VI covering the entire Himalayan arc, which had earlier been split between Zones IV and V, and placed about 61% of India in moderate to high hazard zones. Towns on the border between two zones were to be put in the higher one.
 
-About three months later the code was pulled back; the bureau confirmed the withdrawal in a gazette notification dated 3 March 2026. The Ministry of Housing and Urban Affairs had raised concerns that there had not been enough consultation, and there were worries about higher building costs and whether the Zone VI rules could be put into practice when compliance with existing rules was already low. The 2016 version of the code applies.
+About three months later the code was pulled back; the bureau confirmed the withdrawal in a gazette notification dated March 3, 2026. The Ministry of Housing and Urban Affairs had raised concerns that there had not been enough consultation, and there were worries about higher building costs and whether the Zone VI rules could be put into practice when compliance with existing rules was already low. The 2016 version of the code applies.
 
 ## What does that leave?
 

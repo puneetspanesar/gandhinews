@@ -50,7 +50,7 @@ Sharma was due to meet Union Minister Pralhad Joshi at 4 pm to discuss developme
 
 ## The cabinet's resolution
 
-At a special meeting chaired by Sharma on Wednesday evening, the Rajasthan Council of Ministers congratulated Modi on becoming the country's longest-serving head of government, counting his 13 years as Gujarat Chief Minister from 7 October 2001 and three terms as Prime Minister.
+At a special meeting chaired by Sharma on Wednesday evening, the Rajasthan Council of Ministers congratulated Modi on becoming the country's longest-serving head of government, counting his 13 years as Gujarat Chief Minister from October 7, 2001, and three terms as Prime Minister.
 
 The resolution said his governance would be remembered for a work culture of "reform, perform and transform", and tied his leadership to the goal of a developed India, or Viksit Bharat, by 2047. It credited his guidance with helping Rajasthan tackle its water shortage and move towards self-reliance in power, especially renewable energy, and with growth in industry, investment and tourism.
 

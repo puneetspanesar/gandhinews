@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-  - Single source (News On AIR, 24 Oct 8:33 am). Grossi presented the IAEA annual report to the UN General Assembly; exact date of the address not given (likely 23 Oct New York time). Iran line paraphrased, as the source gives it as reported speech. Not checked against iaea.org text.
+  - Single source (News On AIR, Oct 24 8:33 am). Grossi presented the IAEA annual report to the UN General Assembly; exact date of the address not given (likely Oct 23 New York time). Iran line paraphrased, as the source gives it as reported speech. Not checked against iaea.org text.
 ---
 
 Nuclear power could more than triple its global capacity by 2060, the head of the International Atomic Energy Agency told the United Nations General Assembly, as demand for electricity climbs and technology companies hunt for steady, carbon-free power for artificial intelligence.

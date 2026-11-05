@@ -22,7 +22,7 @@ hero:
     value: "One Indian killed, three hurt"
 related: [us-orders-staff-leave-saudi-arabia-dammam-airport-attack, india-condemns-houthi-attacks-saudi-airports-riyadh, umrah-pilgrims-stranded-saudi-mansoor-ali-khan-jaishankar]
 seo:
-  description: "India condemned the 21 October attacks on Dammam airport and the Shaybah oil field in Saudi Arabia, which killed one Indian and injured three."
+  description: "India condemned the October 21 attacks on Dammam airport and the Shaybah oil field in Saudi Arabia, which killed one Indian and injured three."
 sources:
   - title: "India Condemns Attacks On Saudi Arabia That Killed 1 Indian, Injured 3 Others"
     publisher: "ETV Bharat"
@@ -42,15 +42,15 @@ sources:
 verification:
   status: approved
   notes:
-    - "MEA statement quotes verbatim as carried by ETV Bharat (4:09 pm IST) and Business Today (4:37 pm IST) on 22 Oct; mea.gov.in not fetched (blocked by permission)."
+    - "MEA statement quotes verbatim as carried by ETV Bharat (4:09 pm IST) and Business Today (4:37 pm IST) on Oct 22; mea.gov.in not fetched (blocked by permission)."
     - "Victims not named in any source. Attacker not identified in the MEA statement; not attributed in copy."
-    - "Riyadh background (Mohammed Yousef Ali, 10 Oct) from Devdiscourse/ANI 14 Oct report."
+    - "Riyadh background (Mohammed Yousef Ali, Oct 10) from Devdiscourse/ANI Oct 14 report."
     - "ETV linked headline mentions '2 killed' at Dammam overall; only the one Indian death is stated in copy."
 ---
 
 India on Thursday condemned the latest attacks on Saudi Arabia after one Indian national was killed and three others were injured in strikes on the Dammam airport and a Saudi Aramco oil field.
 
-The Ministry of External Affairs said one Indian died and two were injured in the attack on King Fahd International Airport in Dammam on 21 October. A fourth Indian was hurt in a separate strike the same day on the Shaybah oil field, deep in the desert of the kingdom's Eastern Province.
+The Ministry of External Affairs said one Indian died and two were injured in the attack on King Fahd International Airport in Dammam on October 21. A fourth Indian was hurt in a separate strike the same day on the Shaybah oil field, deep in the desert of the kingdom's Eastern Province.
 
 "We strongly condemn the continued attacks on civilian and energy infrastructure in Saudi Arabia," the ministry said. "We also reiterate that the attacks on civilian and critical infrastructure are completely unacceptable and must cease immediately."
 
@@ -58,7 +58,7 @@ The ministry offered condolences to the family of the man who died and wished th
 
 ## A second Indian death in two weeks
 
-It is the second time this month that an Indian has died in an attack on a Saudi airport. On 10 October, Mohammed Yousef Ali was killed when King Khalid International Airport in Riyadh was struck, and 11 Indians were injured. External Affairs Ministry spokesperson Randhir Jaiswal said then: "We condemn all such attacks on civilian infrastructure and call for them to cease immediately."
+It is the second time this month that an Indian has died in an attack on a Saudi airport. On October 10, Mohammed Yousef Ali was killed when King Khalid International Airport in Riyadh was struck, and 11 Indians were injured. External Affairs Ministry spokesperson Randhir Jaiswal said then: "We condemn all such attacks on civilian infrastructure and call for them to cease immediately."
 
 Thursday's statement went a step further in its language, calling the strikes "completely unacceptable" and explicitly naming energy infrastructure. Saudi Arabia is one of India's largest suppliers of crude oil and home to one of the biggest Indian communities abroad, and strikes on Aramco facilities bear directly on both.
 

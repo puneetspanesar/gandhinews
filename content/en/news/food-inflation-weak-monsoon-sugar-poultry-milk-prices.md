@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 3 Nov 13:10 IST, Reuters report with economists' forecasts (via Business Standard, published 13:10:58 IST). Quotes exact as given: Gushinge, Sabnavis. Pant forecasts (10% food inflation in Oct-Dec; further 50-75 bp hikes, December hike) paraphrased."
+    - "event: Nov 3 13:10 IST, Reuters report with economists' forecasts (via Business Standard, published 13:10:58 IST). Quotes exact as given: Gushinge, Sabnavis. Pant forecasts (10% food inflation in Oct-Dec; further 50-75 bp hikes, December hike) paraphrased."
     - "Jalna rain 48% below average per local weather office; sugar consumption >29 mt vs output <27.5 mt; 1 mt duty-free imports allowed; feed 60-70% of poultry costs (Bayas)."
 ---
 

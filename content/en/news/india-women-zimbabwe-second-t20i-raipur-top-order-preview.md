@@ -22,7 +22,7 @@ hero:
     value: "From 19 for 4 to 1-0 up"
 related: [india-women-beat-zimbabwe-niki-prasad-deepti-raipur, india-women-zimbabwe-raipur-mandhana-first-match-captain]
 seo:
-  description: "India women v Zimbabwe 2nd T20I, Raipur, 18 October, 7 pm IST: India lead 1-0 and look for a better start from Mandhana, Shafali and Harmanpreet."
+  description: "India women v Zimbabwe 2nd T20I, Raipur, October 18, 7 pm IST: India lead 1-0 and look for a better start from Mandhana, Shafali and Harmanpreet."
 sources:
   - title: "2nd WT20I: Indian Top Order Eyes Improved Show Against Zimbabwe"
     publisher: "Deccan Chronicle (PTI)"
@@ -38,7 +38,7 @@ verification:
   status: approved
   notes:
     - "19 for 4, 82-run Prasad-Deepti stand, Gwanzura three powerplay wickets, four top-order batters in single figures, Deepti quotes, squads: Deccan Chronicle (PTI). Earlier Gandhi News story gave Gwanzura dismissing Mandhana."
-    - "Schedule (18 Oct and 20 Oct, 7 pm IST, Shaheed Veer Narayan Singh International Stadium), Jemimah Rodrigues out with hamstring injury, broadcast on Star Sports and JioHotstar: Yahoo Sports."
+    - "Schedule (Oct 18 and Oct 20, 7 pm IST, Shaheed Veer Narayan Singh International Stadium), Jemimah Rodrigues out with hamstring injury, broadcast on Star Sports and JioHotstar: Yahoo Sports."
     - "No team news or XI changes reported for Sunday. Weather not checked beyond a Latestly headline; not used."
 ---
 
@@ -58,4 +58,4 @@ India are without Jemimah Rodrigues, who has a hamstring injury. Mandhana is in 
 
 ## When and where
 
-The second T20I starts at 7 pm IST at the same ground, and will be shown on the Star Sports network and streamed on JioHotstar. The third and final match is on Tuesday, 20 October.
+The second T20I starts at 7 pm IST at the same ground, and will be shown on the Star Sports network and streamed on JioHotstar. The third and final match is on Tuesday, October 20.

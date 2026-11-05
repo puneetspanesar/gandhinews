@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: News On AIR (public broadcaster), published 20 Oct 12:00 pm IST. Speech date not stated; likely Monday 19 Oct New York time. Copy avoids naming the day of the speech."
+    - "Single source: News On AIR (public broadcaster), published Oct 20 12:00 pm IST. Speech date not stated; likely Monday, Oct 19 New York time. Copy avoids naming the day of the speech."
     - "Tewari's official role in the delegation not stated (likely part of the MPs' delegation to UNGA); copy says he spoke for India. No direct quotes available; only the 'human control' phrase is in the article and is paraphrased."
     - "Story kept brief because only one source could be read; MEA/PMI New York statements not reachable."
 ---

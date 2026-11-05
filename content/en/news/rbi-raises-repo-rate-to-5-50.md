@@ -10,19 +10,19 @@ standfirst: "The Monetary Policy Committee voted 6-0 for the increase and change
 published: 2026-10-11T09:00:00+05:30
 location: Mumbai
 keyPoints:
-  - "The repo rate rose **from 5.25% to 5.50%** on 7 October 2026, the first increase since February 2023."
+  - "The repo rate rose **from 5.25% to 5.50%** on October 7, 2026, the first increase since February 2023."
   - "All **six MPC members voted for the hike**; two of them wanted to keep the stance neutral rather than move to calibrated tightening."
   - "The RBI now projects **CPI inflation at 5.2%** for 2026-27, peaking at 6.0% in October-December, and GDP growth at 7.1%."
-  - "Minutes are due on 21 October and the next policy meeting is **on 2 to 4 December 2026**."
+  - "Minutes are due on October 21 and the next policy meeting is **on December 2 to 4, 2026**."
 hero:
-  need: "RBI headquarters on Mint Road, Mumbai, or Governor Sanjay Malhotra at the 7 October 2026 policy press conference"
+  need: "RBI headquarters on Mint Road, Mumbai, or Governor Sanjay Malhotra at the October 7, 2026, policy press conference"
   suggested_source: "RBI media gallery; Wikimedia Commons search 'Reserve Bank of India headquarters Mumbai'"
   alt: "Reserve Bank of India headquarters building in Mumbai"
   overlay:
     value: "Repo rate 5.25% → 5.50%"
 related: [rbi-interest-rates, repo-rate-and-your-emi-explained, retail-inflation-rises-to-4-82-in-august, rupee-near-97-as-crude-stays-above-100, rbi-right-to-move-fiscal-side-must-hold, economy-dashboard, inflation]
 seo:
-  description: "RBI's MPC raised the repo rate 25 basis points to 5.50% on 7 October 2026 and moved to calibrated tightening. Votes, projections and what comes next."
+  description: "RBI's MPC raised the repo rate 25 basis points to 5.50% on October 7, 2026, and moved to calibrated tightening. Votes, projections and what comes next."
 sources:
   - title: "Monetary Policy Statement, 2026-27: Resolution of the Monetary Policy Committee, October 5 to 7, 2026"
     publisher: "Reserve Bank of India"
@@ -62,15 +62,15 @@ sources:
 verification:
   status: verified
   notes:
-    - "Fact-checked 11 Oct 2026 against RBI MPC resolution (prid=63742) and Governor's statement (prid=63744): rate, corridor, votes, member names, quotes, projections, minutes and next-meeting dates all confirmed."
-    - "Repo history confirmed: Feb 2023 hike to 6.50% (RBI minutes, prid=55267); 100 bps of cuts in three steps from February to June 2025 ending at 5.50% (PTI via The Pioneer; Business Standard); 5 Dec 2025 cut to 5.25% (Business Standard). Individual 2024 and 2026 hold dates not checked one by one; the chart plots change points only."
-    - "The 6.7% earlier growth forecast rests on an ANI report (Times of Oman, 31 Aug 2026), not on the August 2026 RBI statement, which could not be opened. Attributed to ANI in the text."
-    - "CPI for September due 12 October confirmed in MoSPI's August CPI release."
+    - "Fact-checked Oct 11, 2026, against RBI MPC resolution (prid=63742) and Governor's statement (prid=63744): rate, corridor, votes, member names, quotes, projections, minutes and next-meeting dates all confirmed."
+    - "Repo history confirmed: Feb 2023 hike to 6.50% (RBI minutes, prid=55267); 100 bps of cuts in three steps from February to June 2025 ending at 5.50% (PTI via The Pioneer; Business Standard); Dec 5, 2025, cut to 5.25% (Business Standard). Individual 2024 and 2026 hold dates not checked one by one; the chart plots change points only."
+    - "The 6.7% earlier growth forecast rests on an ANI report (Times of Oman, Aug 31, 2026), not on the August 2026 RBI statement, which could not be opened. Attributed to ANI in the text."
+    - "CPI for September due October 12 confirmed in MoSPI's August CPI release."
 ---
 
-The Reserve Bank of India raised its policy repo rate by 25 basis points to 5.50% on 7 October 2026. It is the first increase since February 2023, when the Monetary Policy Committee (MPC) took the rate to 6.50%.
+The Reserve Bank of India raised its policy repo rate by 25 basis points to 5.50% on October 7, 2026. It is the first increase since February 2023, when the Monetary Policy Committee (MPC) took the rate to 6.50%.
 
-The six-member MPC, chaired by Governor Sanjay Malhotra, met from 5 to 7 October. It also changed its policy stance from neutral to "calibrated tightening". The standing deposit facility rate is now 5.25%, and the marginal standing facility rate and the Bank Rate are 5.75%.
+The six-member MPC, chaired by Governor Sanjay Malhotra, met from October 5 to 7. It also changed its policy stance from neutral to "calibrated tightening". The standing deposit facility rate is now 5.25%, and the marginal standing facility rate and the Bank Rate are 5.75%.
 
 ## How the committee voted
 
@@ -88,13 +88,13 @@ The MPC pointed to the West Asia conflict, volatile crude prices, a deficient so
 
 > In this milieu, recalibrating the policy rate is imperative.
 >
-> Source: Resolution of the Monetary Policy Committee, Reserve Bank of India, 7 October 2026
+> Source: Resolution of the Monetary Policy Committee, Reserve Bank of India, October 7, 2026
 
 Governor Malhotra's statement added that a "weak southwest monsoon along with strong El Niño conditions may impact the upcoming rabi season and rural demand".
 
 ## Where rates have been since 2024
 
-The repo rate stayed at 6.50% through 2024. The MPC then cut it three times in 2025, by a total of 100 basis points, to 5.50% by June, and cut again by 25 basis points to 5.25% on 5 December 2025. The October increase reverses that last cut.
+The repo rate stayed at 6.50% through 2024. The MPC then cut it three times in 2025, by a total of 100 basis points, to 5.50% by June, and cut again by 25 basis points to 5.25% on December 5, 2025. The October increase reverses that last cut.
 
 ```chart
 {"type":"line","title":"Repo rate since January 2024","subtitle":"Level after each change (%)","unit":"%","data":[{"label":"Jan 2024","value":6.50},{"label":"Feb 2025","value":6.25},{"label":"Apr 2025","value":6.00},{"label":"Jun 2025","value":5.50},{"label":"Dec 2025","value":5.25},{"label":"Oct 2026","value":5.50,"highlight":true}],"source":"RBI; PTI; Business Standard"}
@@ -118,4 +118,4 @@ Lending rates were already edging up before the decision. The Governor's stateme
 
 ## What comes next
 
-The minutes of the meeting, with each member's reasoning, will be published on 21 October. The next MPC meeting is from 2 to 4 December 2026. CPI data for September is due on 12 October.
+The minutes of the meeting, with each member's reasoning, will be published on October 21. The next MPC meeting is from December 2 to 4, 2026. CPI data for September is due on October 12.

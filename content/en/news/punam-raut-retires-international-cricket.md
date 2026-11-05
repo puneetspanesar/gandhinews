@@ -36,14 +36,14 @@ sources:
 verification:
   status: approved
   notes:
-    - "Retirement announcement seen only as a headline on The Bridge home page (PTI, 16 Oct, 7:10 am IST); article body could not be fetched. No statement or quote from Raut read, so none used. How she announced it is not known."
+    - "Retirement announcement seen only as a headline on The Bridge home page (PTI, Oct 16, 7:10 am IST); article body could not be fetched. No statement or quote from Raut read, so none used. How she announced it is not known."
     - "Career figures from Wikipedia (ESPNcricinfo data, 2023). She has not played internationally since 2021, so totals should be final."
     - "Her score in the 2017 World Cup final (widely remembered as 86) not confirmed in what was read; left out."
 ---
 
 Punam Raut, who was part of the India side that came within nine runs of winning the 2017 Women's World Cup, has announced her retirement from international cricket.
 
-Raut had not played for India since 2021, when her last appearances were an ODI against England in June and the Test against Australia that began on 30 September.
+Raut had not played for India since 2021, when her last appearances were an ODI against England in June and the Test against Australia that began on September 30.
 
 Raut made her debut in March 2009 in an ODI against West Indies and went on to play 73 ODIs, scoring 2,299 runs at an average of 34.83, with three hundreds and 15 fifties. She was part of the side that reached the 2017 World Cup final, which India lost to England by nine runs.
 

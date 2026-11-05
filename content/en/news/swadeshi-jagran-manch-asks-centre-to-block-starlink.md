@@ -36,9 +36,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "SJM statement issued Tuesday 13 Oct per PTI via DT Next (updated 12:50 pm). Mahajan's remarks are paraphrased in the source; no verbatim quote used in body. Headline phrase 'national security paramount' is from the PTI headline, used only as overlay."
+    - "SJM statement issued Tuesday, Oct 13 per PTI via DT Next (updated 12:50 pm). Mahajan's remarks are paraphrased in the source; no verbatim quote used in body. Headline phrase 'national security paramount' is from the PTI headline, used only as overlay."
     - "Reliance has not publicly responded to Musk's allegations, per PTI."
-    - "Government position ('fair and non-discriminatory', 'baseless and misconceived') from PTI and our 12 Oct story."
+    - "Government position ('fair and non-discriminatory', 'baseless and misconceived') from PTI and our Oct 12 story."
 ---
 
 The Swadeshi Jagran Manch, which is affiliated with the Rashtriya Swayamsevak Sangh, has asked the Centre to block Starlink's permission to sell satellite broadband in India unless Elon Musk's company addresses national security concerns.

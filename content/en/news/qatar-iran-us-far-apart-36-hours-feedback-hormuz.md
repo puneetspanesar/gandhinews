@@ -31,7 +31,7 @@ infographic:
   source: "Qatar foreign ministry and Iranian officials, November 3, 2026"
 related: [us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve, oil-falls-4-per-cent-brent-108-iran-draft-proposal-qatar, trump-rules-out-iran-strike-today-qatar-mediators-tehran]
 seo:
-  description: "Qatar said on 3 November 2026 that the US and Iran are reviewing its proposals to end the war, while a senior Iranian official said the two sides remain far apart on Hormuz, sanctions and frozen funds."
+  description: "Qatar said on November 3, 2026, that the US and Iran are reviewing its proposals to end the war, while a senior Iranian official said the two sides remain far apart on Hormuz, sanctions and frozen funds."
 sources:
   - title: "Iran, US still far apart on deal to end war as Qatar pushes mediation"
     publisher: "TimesLIVE (Reuters)"
@@ -51,7 +51,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 3 Nov 2026, report timestamped 8:09 pm SAST (11:39 pm IST); al-Ansari briefing and Iranian official's remarks on Tuesday 3 Nov."
+    - "event: Nov 3, 2026, report timestamped 8:09 pm SAST (11:39 pm IST); al-Ansari briefing and Iranian official's remarks on Tuesday, Nov 3."
     - "All detail from the Reuters report as summarised via TimesLIVE fetch; Detroit News and JPost headlines corroborate (not fetched in full). 'not convincing' attributed to Rezaei; 'we cannot lose hope' to al-Ansari; 'not looking to' to Trump, Tuesday. 36-hour feedback expectation: unnamed official (hedged)."
     - "Drone claims are IRGC claims, not confirmed by US; written as claims. India angle (oil, Hormuz) is context, no Indian government statement found this hour."
 ---

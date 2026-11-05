@@ -11,7 +11,7 @@ published: 2026-10-15T11:00:00+05:30
 location: Chandigarh
 keyPoints:
   - "Punjab recorded **51 farm fires in one day**, its highest this season."
-  - "The season total reached **174 by 13 October**, about 38% more than at the same point last year."
+  - "The season total reached **174 by October 13**, about 38% more than at the same point last year."
   - "Most fires were in **Amritsar and Tarn Taran**, while Barnala and Bathinda reported none."
 hero:
   need: "Smoke rising from a burning paddy field in Punjab after harvest"
@@ -21,7 +21,7 @@ hero:
     value: "51 farm fires in a single day"
 related: [chouhan-yadav-review-stubble-burning-punjab-haryana]
 seo:
-  description: "Punjab recorded 51 stubble fires in one day, its worst this season, taking the count to 174 by 13 October as paddy harvest gathers pace in Amritsar and Tarn Taran."
+  description: "Punjab recorded 51 stubble fires in one day, its worst this season, taking the count to 174 by October 13 as paddy harvest gathers pace in Amritsar and Tarn Taran."
 sources:
   - title: "Punjab records season's worst day as 51 stubble fires"
     publisher: "NewsBytes"
@@ -41,16 +41,16 @@ sources:
 verification:
   status: approved
   notes:
-    - "The 51-fire day, the 174 total by 13 October, the ~38% year-on-year rise and the drone monitoring rest on one outlet (NewsBytes summary page, 15 Oct). The exact date of the 51-fire day is not given there; copy says 'in a single day' without naming it."
+    - "The 51-fire day, the 174 total by October 13, the ~38% year-on-year rise and the drone monitoring rest on one outlet (NewsBytes summary page, Oct 15). The exact date of the 51-fire day is not given there; copy says 'in a single day' without naming it."
     - "NewsBytes says 51 was 'nearly a 70% rise' over the previous week's tally; left out because the comparison base is unclear."
-    - "Earlier figures (84 fires to 5 October, CAQM flying squads in 18 districts from 1 October to 30 November, Delhi AQI 187 on 6 October and 'most polluted start to October since 2020') from NewsDrum, citing CAQM data; single source."
-    - "Tuesday review details (districts named, 'do not relax' warning) taken from Gandhi News's earlier story on the PIB release of 13 Oct; PIB page not re-fetched in this run."
-    - "No Delhi AQI reading for 15 October could be sourced in this run; none given."
+    - "Earlier figures (84 fires to October 5, CAQM flying squads in 18 districts from October 1 to November 30, Delhi AQI 187 on October 6 and 'most polluted start to October since 2020') from NewsDrum, citing CAQM data; single source."
+    - "Tuesday review details (districts named, 'do not relax' warning) taken from Gandhi News's earlier story on the PIB release of Oct 13; PIB page not re-fetched in this run."
+    - "No Delhi AQI reading for October 15 could be sourced in this run; none given."
 ---
 
 Punjab has recorded its worst day of stubble burning so far this season, with 51 farm fires in a single day, as the paddy harvest gathers pace across the state's northern districts.
 
-The count took the season's total to 174 by 13 October, about 38% higher than at the same point last year. Most of the fires were in Amritsar and Tarn Taran, the two border districts that have led the tally all season. Barnala and Bathinda, in the southern Malwa belt, reported none.
+The count took the season's total to 174 by October 13, about 38% higher than at the same point last year. Most of the fires were in Amritsar and Tarn Taran, the two border districts that have led the tally all season. Barnala and Bathinda, in the southern Malwa belt, reported none.
 
 ## A faster start than last year
 
@@ -58,16 +58,16 @@ The rise is steep. In the first week of October the state had logged 84 fires, a
 
 Last year's season ended with 5,114 incidents in Punjab, a 53% fall from 2024 and the lowest count in recent years.
 
-Authorities have stepped up monitoring with drones for real-time tracking, and fines have already been issued. The CAQM has deployed flying squads across 18 Punjab districts from 1 October to 30 November to work with district officials, the state pollution control board and the Parali Protection Force.
+Authorities have stepped up monitoring with drones for real-time tracking, and fines have already been issued. The CAQM has deployed flying squads across 18 Punjab districts from October 1 to November 30 to work with district officials, the state pollution control board and the Parali Protection Force.
 
 ## Why Delhi is watching
 
-The fires matter well beyond Punjab. Delhi's air turned noticeably worse early this month, with the capital's AQI at 187 on 6 October and 15 monitoring stations in the "poor" range, its most polluted start to October since 2020. No official assessment has yet tied that rise to farm fires; weak winds and local road and construction dust are the main factors so far.
+The fires matter well beyond Punjab. Delhi's air turned noticeably worse early this month, with the capital's AQI at 187 on October 6 and 15 monitoring stations in the "poor" range, its most polluted start to October since 2020. No official assessment has yet tied that rise to farm fires; weak winds and local road and construction dust are the main factors so far.
 
 Delhi Chief Minister Rekha Gupta has already turned the issue on Punjab's AAP government, posting footage of a fire in Tarn Taran.
 
 > Stubble burning has started again in Tarn Taran.
 
-Source: Rekha Gupta, Delhi Chief Minister, on X, 6 October 2026
+Source: Rekha Gupta, Delhi Chief Minister, on X, October 6, 2026
 
 Most of the paddy crop is still to be cut. At a review with state ministers on Tuesday, the Centre warned states doing better than last year not to relax, and named Sangrur, Tarn Taran, Amritsar, Patiala and Gurdaspur among the Punjab districts needing tighter enforcement.

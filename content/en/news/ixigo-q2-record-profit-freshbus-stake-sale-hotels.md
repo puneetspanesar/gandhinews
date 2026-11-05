@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (Business Standard, 17 Oct 5:36 pm IST). Company filing not read. Year-ago PAT not given, so no profit growth figure."
+    - "Single source (Business Standard, Oct 17 5:36 pm IST). Company filing not read. Year-ago PAT not given, so no profit growth figure."
     - "Quotes are from the company's joint statement by Aloke Bajpai, Rajnish Kumar and Saurabh Devendra Singh; source attributes them jointly. Copy attributes to the company's leadership."
     - "Location: Ixigo is Gurugram-based (standard knowledge); dateline only."
 ---

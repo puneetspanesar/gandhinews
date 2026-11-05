@@ -10,7 +10,7 @@ standfirst: "Withdrawals for the first phase closed on Thursday, a week before v
 published: 2026-10-15T18:30:00+05:30
 location: Jaipur
 keyPoints:
-  - "Rajasthan votes in **four phases from 22 October to 16 November** to fill about 1.55 lakh rural posts."
+  - "Rajasthan votes in **four phases from October 22 to November 16** to fill about 1.55 lakh rural posts."
   - "Jodhpur's zila parishad has **148 valid nominations** for 43 wards after scrutiny."
   - "Two RLP candidates and one Congress candidate were rejected because **charges had been framed** against them."
 hero:
@@ -21,7 +21,7 @@ hero:
     value: "4.03 crore rural voters, four phases"
 related: [bhajanlal-sharma-meets-modi-delhi, rajasthan-cabinet-resolution-modi-25-years-head-of-government]
 seo:
-  description: "Rajasthan panchayat polls: phase one withdrawals closed on 15 October; Jodhpur rejected RLP and Congress zila parishad candidates facing framed criminal charges."
+  description: "Rajasthan panchayat polls: phase one withdrawals closed on October 15; Jodhpur rejected RLP and Congress zila parishad candidates facing framed criminal charges."
 sources:
   - title: "जोधपुर पंचायत चुनाव: 43 वार्डों में 148 नामांकन वैध, आरएलपी और कांग्रेस प्रत्याशियों के पर्चे खारिज"
     publisher: "Amar Ujala"
@@ -46,16 +46,16 @@ sources:
 verification:
   status: approved
   notes:
-    - "Schedule: Statesman (8 Oct) gives phase-one withdrawals closing 3 pm 15 Oct and polling dates 22 Oct, 28 Oct, 3 Nov, 16 Nov; IANS (6 Oct) says phases 1-3 moved a day earlier for Dhanteras, ZP/PS phase four 14 Nov, panch-sarpanch phase four 16 Nov. Copy uses 22 Oct to 16 Nov only. Counting date (Statesman: 20 Nov) left out because the same article also says 28 Nov."
+    - "Schedule: Statesman (Oct 8) gives phase-one withdrawals closing 3 pm Oct 15 and polling dates Oct 22, Oct 28, Nov 3, Nov 16; IANS (Oct 6) says phases 1-3 moved a day earlier for Dhanteras, ZP/PS phase four Nov 14, panch-sarpanch phase four Nov 16. Copy uses Oct 22 to Nov 16 only. Counting date (Statesman: Nov 20) left out because the same article also says Nov 28."
     - "Scale figures (41 ZPs, 457 samitis, 14,403 gram panchayats, ~1,55,138 posts, 4.03 crore voters): Statesman only."
-    - "Jodhpur: 208 received, 57 rejected, 4 dismissed, 148 valid per Amar Ujala; the sum does not reconcile (147), so only 148 valid is used. Candidates not named in source. ADC Jawahar Chaudhary quote verbatim in Hindi; English is our translation. Scrutiny took place 14 Oct (article posted 12:11 am 15 Oct)."
+    - "Jodhpur: 208 received, 57 rejected, 4 dismissed, 148 valid per Amar Ujala; the sum does not reconcile (147), so only 148 valid is used. Candidates not named in source. ADC Jawahar Chaudhary quote verbatim in Hindi; English is our translation. Scrutiny took place Oct 14 (article posted 12:11 am Oct 15)."
     - "Final phase-one contest numbers after withdrawals not found; copy does not give them."
     - "Dotasra/Julie Jhalawar meeting from headline only; no quote used."
 ---
 
-The field for the first round of Rajasthan's village and district council elections was settled on Thursday afternoon, when the window for withdrawals closed at 3 pm. Voting for zila parishad and panchayat samiti members in that phase is on 22 October.
+The field for the first round of Rajasthan's village and district council elections was settled on Thursday afternoon, when the window for withdrawals closed at 3 pm. Voting for zila parishad and panchayat samiti members in that phase is on October 22.
 
-The state is electing its rural tiers in four phases between 22 October and 16 November. On the ballot are 41 zila parishads, 457 panchayat samitis and 14,403 gram panchayats, about 1.55 lakh posts in all, with more than 4.03 crore people eligible to vote. Polling for the first three phases was brought forward by a day after concerns that the original dates clashed with Dhanteras.
+The state is electing its rural tiers in four phases between October 22 and November 16. On the ballot are 41 zila parishads, 457 panchayat samitis and 14,403 gram panchayats, about 1.55 lakh posts in all, with more than 4.03 crore people eligible to vote. Polling for the first three phases was brought forward by a day after concerns that the original dates clashed with Dhanteras.
 
 ## Struck out in Jodhpur
 
@@ -75,4 +75,4 @@ The rural vote is spread over a month and runs into the festive season, and it g
 
 ## What comes next
 
-Panch and sarpanch posts follow a separate track, with first-phase voting on 24 October. Elections for zila pramukh and up-pradhan in Baran, Sri Ganganagar, Karauli and Kota, and for pradhans in the samitis under them, will wait until December, when the sitting office-holders' terms end.
+Panch and sarpanch posts follow a separate track, with first-phase voting on October 24. Elections for zila pramukh and up-pradhan in Baran, Sri Ganganagar, Karauli and Kota, and for pradhans in the samitis under them, will wait until December, when the sitting office-holders' terms end.

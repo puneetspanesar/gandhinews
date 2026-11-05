@@ -47,7 +47,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Catch-up story: results (about 3:15 pm) and expansion filing (PTI 5:50 pm) came on Friday 23 Oct and were not yet on the site; copy says Friday."
+    - "Catch-up story: results (about 3:15 pm) and expansion filing (PTI 5:50 pm) came on Friday, Oct 23 and were not yet on the site; copy says Friday."
     - "Year-ago profit ₹1,646 crore and revenue/EBITDA growth from Business Today; Business Standard headline's '14.1%' is not explained (page not read); BS reported Q2 FY26 at ₹1,623 crore last year. Copy uses Business Today's comparison and 'more than triples', which holds for either base."
     - "EBITDA margin: Business Today 18.6% on reported EBITDA; company release gives adjusted EBITDA ₹9,941 crore at 18.3%. Copy uses reported figure."
     - "Share move -2.6% to ₹1,187 on Friday from Business Today (intraday report)."

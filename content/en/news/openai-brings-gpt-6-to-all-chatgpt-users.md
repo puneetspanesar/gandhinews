@@ -9,7 +9,7 @@ title: "OpenAI brings GPT-6 to every ChatGPT user, with answers that draw charts
 standfirst: "Paying users get GPT-6 Sol and free users a lighter model, Luna. A new 'Intelligent UI' lets ChatGPT reply with diagrams, maps and small working tools instead of only text."
 published: 2026-10-12T07:30:00+05:30
 keyPoints:
-  - "GPT-6 reached paid ChatGPT plans on 7 October and **Free and Go users on 8 October**."
+  - "GPT-6 reached paid ChatGPT plans on October 7 and **Free and Go users on October 8**."
   - "**Intelligent UI** lets the chatbot answer with charts, maps, buttons and small tools such as a bill splitter."
   - "OpenAI's safety report rates both models **'High' capability in cyber and biological risks**."
 hero:
@@ -62,14 +62,14 @@ verification:
   notes:
     - "OpenAI's announcement page ('GPT-6 and Intelligent UI for everyone') could not be fetched; only its title and date were seen on openai.com/news. Product details (plans, dates, 44% figure, component library and compiler, 'design judgment still needs work') come from MacRumors, gHacks, Android Headlines and YourStory, which agree with each other. The system card was read directly."
     - "Aarush Selvan quotes are from TechCrunch (read directly)."
-    - "Rollout timing: MacRumors and TechCrunch say paid plans on 7 Oct, Free and Go from 8 Oct. Enterprise access depends on admin settings (gHacks, YourStory)."
+    - "Rollout timing: MacRumors and TechCrunch say paid plans on Oct 7, Free and Go from Oct 8. Enterprise access depends on admin settings (gHacks, YourStory)."
     - "gHacks says the release reaches 'more than 1.2 billion people who use ChatGPT each week'; not used, as the source of the figure is unclear."
     - "The first GPT-6 models for paid customers came out in September (gHacks, YourStory, and the system card's reference to September versions); the paid-only GPT-6 Astra is a separate, larger model. Not explored in the story."
     - "No India-specific pricing or user figures were found in any source read; none used."
     - "Desk instruction: no Anthropic stories. The story does not mention Anthropic."
 ---
 
-OpenAI has made GPT-6 the default model for everyone who uses ChatGPT, including people who pay nothing. The rollout began on 7 October for paying subscribers and reached Free and Go accounts the next day. It comes with a feature OpenAI calls Intelligent UI, which lets the chatbot answer with charts, maps, buttons and small working tools rather than only paragraphs of text.
+OpenAI has made GPT-6 the default model for everyone who uses ChatGPT, including people who pay nothing. The rollout began on October 7 for paying subscribers and reached Free and Go accounts the next day. It comes with a feature OpenAI calls Intelligent UI, which lets the chatbot answer with charts, maps, buttons and small working tools rather than only paragraphs of text.
 
 ## Two models, one name
 

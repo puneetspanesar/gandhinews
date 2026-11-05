@@ -22,7 +22,7 @@ hero:
     value: "A livestock virus, now in a human"
 related: []
 seo:
-  description: "French health authorities said on 22 October they had detected Shamonda virus in a human for the first time, in a patient who later died."
+  description: "French health authorities said on October 22 they had detected Shamonda virus in a human for the first time, in a patient who later died."
 sources:
   - title: "France reports first human Shamonda virus case"
     publisher: "ThePrint (Reuters)"

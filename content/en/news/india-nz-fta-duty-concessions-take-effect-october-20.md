@@ -10,7 +10,7 @@ standfirst: "Sheep meat comes in duty free and kiwi fruit priced above $2.50 a k
 published: 2026-10-18T17:20:00+05:30
 location: New Delhi
 keyPoints:
-  - "Preferential customs duty on New Zealand goods starts on **20 October**."
+  - "Preferential customs duty on New Zealand goods starts on **October 20**."
   - "Fresh, chilled and frozen sheep meat will pay **no basic customs duty or cess**."
   - "Kiwi fruit priced at $2.50 a kg or more will attract a **15% basic customs duty**."
 hero:
@@ -19,10 +19,10 @@ hero:
   subjects: ["Kiwifruit orchard, Bay of Plenty"]
   alt: "A kiwi fruit orchard in New Zealand's Bay of Plenty region"
   overlay:
-    value: "Kiwi, wine, honey: duty cuts from 20 Oct"
+    value: "Kiwi, wine, honey: duty cuts from Oct 20"
 related: []
 seo:
-  description: "India's first customs duty concessions under the New Zealand FTA start on 20 October: duty-free sheep meat, 15% on kiwi fruit above $2.50 a kg, quotas for some goods."
+  description: "India's first customs duty concessions under the New Zealand FTA start on October 20: duty-free sheep meat, 15% on kiwi fruit above $2.50 a kg, quotas for some goods."
 sources:
   - title: "India announces initial duty concessions for New Zealand FTA, starting October 20"
     publisher: "The Tribune"
@@ -32,12 +32,12 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: Tribune News Service (Aditya Rangroo), 18 Oct 5:05 pm IST, describing a Finance Ministry customs notification issued 'on Friday' (16 Oct inferred). Notification number and the original gazette text not found; pib/cbic not reachable this run."
+    - "Single source: Tribune News Service (Aditya Rangroo), Oct 18 5:05 pm IST, describing a Finance Ministry customs notification issued 'on Friday' (Oct 16 inferred). Notification number and the original gazette text not found; pib/cbic not reachable this run."
     - "Rates for wine and manuka honey not given in source; copy says only that they are among the covered goods."
     - "FTA signing/entry-into-force date and New Zealand's own concessions on Indian goods not in source; left out."
 ---
 
-Indian importers of New Zealand sheep meat, kiwi fruit, wine and manuka honey will pay lower duties from Tuesday, 20 October, when the first concessions under the India-New Zealand free trade agreement come into force.
+Indian importers of New Zealand sheep meat, kiwi fruit, wine and manuka honey will pay lower duties from Tuesday, October 20, when the first concessions under the India-New Zealand free trade agreement come into force.
 
 A Finance Ministry notification issued on Friday sets out the revised basic customs duty and cess rates for eligible goods. The cuts are selective. They cover listed tariff lines only, come with conditions on each product, and in several cases apply only up to a fixed quantity. Duties on New Zealand goods as a whole are not being removed.
 

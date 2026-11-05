@@ -22,7 +22,7 @@ hero:
     value: "SP out, protests in"
 related: [manipur-chassad-firing-village-chief-among-four-injured, manipur-kamjong-ambush-kuki-woman-killed-couple-missing, manipur-khemchand-peace-census-deferred-jan-sevak]
 seo:
-  description: "Manipur transferred Kamjong SP Tholu Rocky on 18 October after a Kuki civilian was killed in Chassad; Naga women protested the move at the district headquarters."
+  description: "Manipur transferred Kamjong SP Tholu Rocky on October 18 after a Kuki civilian was killed in Chassad; Naga women protested the move at the district headquarters."
 sources:
   - title: "Manipur transfers Kamjong SP after Kuki civilian's killing; Naga women protest (PTI)"
     publisher: "ThePrint"
@@ -51,7 +51,7 @@ The transfer drew an angry response of its own. On Sunday evening several Naga w
 
 Chassad has been at the centre of a sharp rise in violence in Kamjong this week. On Thursday evening gunmen ambushed two couples on motorcycles between Molnoi and Phaikoh, killing Hatneikim Haokip of Molnoi and wounding her husband. A Chassad couple, D Paokhothang Haokip and Boishi Haokip, went missing in the same attack.
 
-On Saturday afternoon gunmen fired on Chassad, wounding four people, among them the village chief, Thangjahao Haokip. Kuki bodies have blamed the NSCN (Isak-Muivah) for the attacks on the village. The deaths in Kamjong follow the killing of four Naga men in an attack on Makui Ashang village in Kangpokpi district on 10 October, for which suspected Kuki militants were blamed.
+On Saturday afternoon gunmen fired on Chassad, wounding four people, among them the village chief, Thangjahao Haokip. Kuki bodies have blamed the NSCN (Isak-Muivah) for the attacks on the village. The deaths in Kamjong follow the killing of four Naga men in an attack on Makui Ashang village in Kangpokpi district on October 10, for which suspected Kuki militants were blamed.
 
 ## What the new SP inherits
 

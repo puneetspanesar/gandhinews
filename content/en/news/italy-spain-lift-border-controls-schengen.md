@@ -11,7 +11,7 @@ published: 2026-10-22T14:20:00+05:30
 location: Rome
 keyPoints:
   - "Italy and Spain agreed to **lift reciprocal border checks** and restore Schengen rules between them."
-  - "Italy brought in the checks on **1 August** after more than 70,000 people crossed into Ceuta from Morocco."
+  - "Italy brought in the checks on **August 1** after more than 70,000 people crossed into Ceuta from Morocco."
   - "The deal follows a phone call between **Piantedosi and Grande-Marlaska**."
 hero:
   need: "Italian Interior Minister Matteo Piantedosi and Spanish Interior Minister Fernando Grande-Marlaska"
@@ -22,7 +22,7 @@ hero:
     value: "Schengen restored, Rome to Madrid"
 related: [meloni-thugs-italy-belgium-cost-of-living-protests-violent]
 seo:
-  description: "Italy and Spain agreed on 22 October to lift border checks brought in after more than 70,000 people crossed into Ceuta in July, restoring Schengen rules."
+  description: "Italy and Spain agreed on October 22 to lift border checks brought in after more than 70,000 people crossed into Ceuta in July, restoring Schengen rules."
 sources:
   - title: "Italy and Spain to end border checks, easing tensions after Ceuta migrant row"
     publisher: "Euronews"
@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Details from Euronews (11:24 CEST 22 Oct). Italian interior ministry quote via Guardian Europe live blog. 'From midnight' appears only in TodoAlicante headline (not fetched); not used in copy."
+    - "Details from Euronews (11:24 CEST Oct 22). Italian interior ministry quote via Guardian Europe live blog. 'From midnight' appears only in TodoAlicante headline (not fetched); not used in copy."
 ---
 
 Italy and Spain have agreed to scrap the border checks they imposed on each other this summer, ending a row that began when tens of thousands of people crossed into the Spanish enclave of Ceuta.
@@ -51,6 +51,6 @@ The decision came after a phone call between Italy's Interior Minister Matteo Pi
 
 Prime Ministers Giorgia Meloni and Pedro Sánchez had signalled last week, on the sidelines of the European Council summit in Brussels, that they wanted the checks gone.
 
-The dispute began in July, when more than 70,000 people crossed illegally from Morocco into Ceuta, a Spanish city on the North African coast. Meloni ordered immediate controls, and on 1 August Italy suspended Schengen rules with Spain, screening travellers at ports and airports. Rome said the checks were aimed mainly at non-EU nationals and at heading off possible terrorist threats.
+The dispute began in July, when more than 70,000 people crossed illegally from Morocco into Ceuta, a Spanish city on the North African coast. Meloni ordered immediate controls, and on August 1 Italy suspended Schengen rules with Spain, screening travellers at ports and airports. Rome said the checks were aimed mainly at non-EU nationals and at heading off possible terrorist threats.
 
 Madrid was furious. Italy and Spain share no land border, and Ceuta itself lies outside the Schengen area. Foreign Minister José Manuel Albares called the Italian move "absurd" and "a disgrace", and a week later Spain began checking travellers arriving from Italy.

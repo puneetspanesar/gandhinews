@@ -22,7 +22,7 @@ hero:
     value: "Smallcaps down 7.4% in a week"
 related: [sensex-nifty-close-october-22-crude-110-west-asia]
 seo:
-  description: "Nifty Smallcap 100 and Midcap 100 slide nearly 4% on 23 October 2026, now 10-13% below 52-week highs. Analysts cite margin calls, Jio IPO, crude above $110 and FII selling."
+  description: "Nifty Smallcap 100 and Midcap 100 slide nearly 4% on October 23, 2026, now 10-13% below 52-week highs. Analysts cite margin calls, Jio IPO, crude above $110 and FII selling."
 sources:
   - title: "Nifty Midcap 100, Smallcap 100 slide 4%, down over 10% from 52-week high"
     publisher: "Business Standard"

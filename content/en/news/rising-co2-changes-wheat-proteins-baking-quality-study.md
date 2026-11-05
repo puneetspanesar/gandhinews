@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Institutional press release (EurekAlert!, 16 Oct) on a paper in Food Chemistry 530:151161, published online 20 Sep 2026; doi 10.1016/j.foodchem.2026.151161. News peg is the release."
+    - "Institutional press release (EurekAlert!, Oct 16) on a paper in Food Chemistry 530:151161, published online Sep 20, 2026; doi 10.1016/j.foodchem.2026.151161. News peg is the release."
     - "Field location not stated explicitly in the release; institutions are German. Copy says 'field trials by German researchers', not where the fields were (funded by German ministry, team at German institutes). Flag if challenged."
     - "Quotes from Sabrina Geisslitz and Katharina Scherf verbatim from the English release, which says it was machine-translated from German and then reviewed."
 ---

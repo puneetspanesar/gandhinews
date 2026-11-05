@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: All India Radio News, 12 Oct 9:36 pm. Rashtrapati Bhavan press release page had no item on it when checked; web search budget ran out before a second source could be found."
+    - "Single source: All India Radio News, Oct 12 9:36 pm. Rashtrapati Bhavan press release page had no item on it when checked; web search budget ran out before a second source could be found."
     - "Previous posts of Braj Mohan Ram, Sudha Yadav, Dhal Singh Bisen and Dushyant Gautam are not stated in the source and are left out. Outgoing Governors of Tamil Nadu, Karnataka, Odisha and Uttarakhand not named in source; left out."
 ---
 

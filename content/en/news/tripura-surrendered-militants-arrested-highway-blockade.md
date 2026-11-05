@@ -12,7 +12,7 @@ location: Agartala
 keyPoints:
   - "About **16 surrendered militants** blocked the highway demanding proper rehabilitation."
   - "**Two police personnel** were injured in a scuffle as the road was cleared."
-  - "A court sent the six arrested to **judicial remand until 31 October**."
+  - "A court sent the six arrested to **judicial remand until October 31**."
 hero:
   need: "A national highway in West Tripura district, or the hills near Hataikator"
   suggested_source: "West Tripura district"
@@ -44,6 +44,6 @@ Executive Magistrate Arajit Debbarma asked them to lift the blockade, pointing o
 
 As police moved in to disperse them, the protesters became angry and used force, police said. Two police personnel were injured in the scuffle before the road was cleared.
 
-Police spokesperson Rajdeep Deb said a case was registered on the police's own initiative against six of the surrendered militants for blocking the highway and using criminal force against security personnel. All six were arrested and produced before a local court, which sent them to judicial remand until 31 October.
+Police spokesperson Rajdeep Deb said a case was registered on the police's own initiative against six of the surrendered militants for blocking the highway and using criminal force against security personnel. All six were arrested and produced before a local court, which sent them to judicial remand until October 31.
 
 Police did not say what rehabilitation the group was seeking or which promises it says are unmet.

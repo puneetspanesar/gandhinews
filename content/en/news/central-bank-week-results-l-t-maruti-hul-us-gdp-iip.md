@@ -11,7 +11,7 @@ published: 2026-10-25T05:50:00+05:30
 location: Mumbai
 keyPoints:
   - "Larsen & Toubro and Maruti Suzuki head **Tuesday's** results list, and Hindustan Unilever reports on Wednesday."
-  - "The US releases third-quarter growth and September PCE inflation on **Thursday, 29 October**."
+  - "The US releases third-quarter growth and September PCE inflation on **Thursday, October 29**."
   - "Economists expect US growth to quicken to about **3% annualised** from 2.2%."
 hero:
   need: "L&T House, the Larsen & Toubro headquarters at Ballard Estate, Mumbai"
@@ -22,7 +22,7 @@ hero:
     value: "L&T, Maruti, HUL: results week"
 related: [week-ahead-results-data-calendar-october-26-30, week-ahead-cues-brent-116-fed-ecb-boj-gift-nifty-flat, idfc-first-bank-q2-profit-triples-1045-crore-fcnr, kotak-mahindra-bank-q2-profit-rises-26-per-cent-fcnr, ipos-next-week-eaaa-sfc-bls-polymers-jio-listing, jio-platforms-ipo-subscribed-22-times-listing-october-28]
 seo:
-  description: "Results and data week 26-30 October 2026: L&T, Maruti Suzuki, HUL, Asian Paints; US Q3 GDP and PCE, Microsoft, Alphabet and Amazon results, China plenum and India's September IIP."
+  description: "Results and data week October 26-30, 2026: L&T, Maruti Suzuki, HUL, Asian Paints; US Q3 GDP and PCE, Microsoft, Alphabet and Amazon results, China plenum and India's September IIP."
 sources:
   - title: "Week Ahead - Oct 26th"
     publisher: "Trading Economics"
@@ -62,8 +62,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Indian company dates: L&T 27 Oct and HUL 28 Oct confirmed by Liquide (24 Oct) as well as Kalkine/Hexadelta used in Saturday's week-ahead story. Other names and days (Maruti, Bajaj Auto, Cipla 27 Oct; Adani Ports, Hero MotoCorp 28 Oct; Asian Paints, Trent 29 Oct) rest on Kalkine and Hexadelta only; copy says dates can shift."
-    - "US GDP/PCE forecasts, eurozone GDP forecast, Japan data, China plenum dates, global earnings names, and the India IIP forecast of 7.4% all from Trading Economics week-ahead note (23 Oct). TE did not give a release date for India's IIP; copy says 'due this week' only per TE listing it in this week. August IIP 8.0% from desk dashboard (MoSPI quick estimate, 28 Sep)."
+    - "Indian company dates: L&T Oct 27 and HUL Oct 28 confirmed by Liquide (Oct 24) as well as Kalkine/Hexadelta used in Saturday's week-ahead story. Other names and days (Maruti, Bajaj Auto, Cipla Oct 27; Adani Ports, Hero MotoCorp Oct 28; Asian Paints, Trent Oct 29) rest on Kalkine and Hexadelta only; copy says dates can shift."
+    - "US GDP/PCE forecasts, eurozone GDP forecast, Japan data, China plenum dates, global earnings names, and the India IIP forecast of 7.4% all from Trading Economics week-ahead note (Oct 23). TE did not give a release date for India's IIP; copy says 'due this week' only per TE listing it in this week. August IIP 8.0% from desk dashboard (MoSPI quick estimate, Sep 28)."
     - "US GDP and PCE release time 12:30 GMT (6 pm IST) from Admiral Markets."
     - "Saturday's results (Kotak, IDFC First, Kajaria, JK Cement, Castrol, Apollo Micro) covered in separate desk stories."
 ---
@@ -96,4 +96,4 @@ China's Communist Party holds the fifth plenary session of its 20th Central Comm
 
 ## At home
 
-India's industrial output figures for September are due, with economists expecting growth of about 7.4% after 8% in August. The Reserve Bank publishes foreign exchange reserves for the week to 23 October on Friday, after six straight weekly falls took them to $721.02 billion.
+India's industrial output figures for September are due, with economists expecting growth of about 7.4% after 8% in August. The Reserve Bank publishes foreign exchange reserves for the week to October 23 on Friday, after six straight weekly falls took them to $721.02 billion.

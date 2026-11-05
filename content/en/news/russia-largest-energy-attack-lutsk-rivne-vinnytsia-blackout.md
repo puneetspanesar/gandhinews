@@ -47,7 +47,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Death toll: Kyiv Independent tallies 7 killed (Kharkiv 2, Kramatorsk 2, Dnipropetrovsk 2, Kherson 1) and about 90 injured; RFE/RL adds 1 killed, 10 wounded in Slovyansk (FAB-250 bombs). Al Jazeera's 17 Oct headline (index page only) says 'at least 8' and 'cut power to 1 million'; the 1 million figure is not used as we could not open the article."
+    - "Death toll: Kyiv Independent tallies 7 killed (Kharkiv 2, Kramatorsk 2, Dnipropetrovsk 2, Kherson 1) and about 90 injured; RFE/RL adds 1 killed, 10 wounded in Slovyansk (FAB-250 bombs). Al Jazeera's Oct 17 headline (index page only) says 'at least 8' and 'cut power to 1 million'; the 1 million figure is not used as we could not open the article."
     - "Air Force figures: RFE/RL and Kyiv Independent agree on 332 drones, 289 downed, 22 impact sites, debris at 3. RFE/RL also gives 4 Kalibr (all downed), 31 jet drones, Iskander-M/KN-23 and Kh-22/32; 293 targets downed in all."
     - "Kherson victim: 64-year-old EMS driver, Korabelnyi district, per Yaroslav Shanko (RFE/RL)."
     - "Vinnytsia governor's 'one of the largest attacks on the region' comment and six injured: Kyiv Independent; governor not named there."

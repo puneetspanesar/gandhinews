@@ -22,7 +22,7 @@ hero:
     value: "2,067 new teachers for Odisha"
 related: []
 seo:
-  description: "Odisha CM Mohan Charan Majhi gave appointment letters to 2,067 sevaks, sevikas and tribal language teachers on 1 November and urged them to build children's confidence."
+  description: "Odisha CM Mohan Charan Majhi gave appointment letters to 2,067 sevaks, sevikas and tribal language teachers on November 1 and urged them to build children's confidence."
 sources:
   - title: "Instill security and self-confidence in children: Odisha CM to newly recruited teachers"
     publisher: "ThePrint (PTI)"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov, Sunday ceremony in Bhubaneswar; PTI copy time stamped 19:47 IST. Exact time of the ceremony not stated in source. Single wire source. Majhi quotes are paraphrased in source, so no direct quotes used from him."
+    - "event: Nov 1, Sunday ceremony in Bhubaneswar; PTI copy time stamped 19:47 IST. Exact time of the ceremony not stated in source. Single wire source. Majhi quotes are paraphrased in source, so no direct quotes used from him."
 ---
 
 Odisha Chief Minister Mohan Charan Majhi on Sunday **handed appointment letters to 2,067 sevaks, sevikas and tribal language teachers**, and asked them to stand by the children in their classrooms as a friend would.

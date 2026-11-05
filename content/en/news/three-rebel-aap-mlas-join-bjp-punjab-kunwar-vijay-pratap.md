@@ -27,7 +27,7 @@ cover:
   bg: "Punjab Vidhan Sabha"
 related: []
 seo:
-  description: "Rebel AAP MLAs Kunwar Vijay Pratap Singh, Chetan Singh Jouramajra and Harmeet Singh Pathanmajra joined the BJP in New Delhi on 2 November 2026 ahead of the 2027 Punjab polls."
+  description: "Rebel AAP MLAs Kunwar Vijay Pratap Singh, Chetan Singh Jouramajra and Harmeet Singh Pathanmajra joined the BJP in New Delhi on November 2, 2026, ahead of the 2027 Punjab polls."
 sources:
   - title: "BJP welcomes three rebel Punjab AAP MLAs; alleges anti-incumbency in state (PTI)"
     publisher: "ThePrint"
@@ -47,8 +47,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov late morning IST, BJP headquarters New Delhi; ANI 11:50 am, PTI/ThePrint 2:46 pm, Business Today 3:28 pm."
-    - "Suspension of Jouramajra and Pathanmajra for 'alleged anti-party activities' from ANI; resignation from AAP on Sunday from PTI and Business Today. Kunwar Vijay Pratap suspended 29 June 2025 (ANI); reason not given."
+    - "event: Nov 2 late morning IST, BJP headquarters New Delhi; ANI 11:50 am, PTI/ThePrint 2:46 pm, Business Today 3:28 pm."
+    - "Suspension of Jouramajra and Pathanmajra for 'alleged anti-party activities' from ANI; resignation from AAP on Sunday from PTI and Business Today. Kunwar Vijay Pratap suspended June 29, 2025 (ANI); reason not given."
     - "Whether Jouramajra and Pathanmajra resigned their Assembly seats not reported; copy says AAP will seek their disqualification (ANI)."
     - "Quotes: Poonia, Singh 'internship', Dhillon (said in Punjabi, PTI translation) from PTI; Singh 'finished', Pathanmajra 'quagmire', Jouramajra 'tickets' from Business Today; Singh X post from ANI."
     - "AAP 92 of 117 seats in 2022 (Business Today). 40-candidate list announced Saturday (ANI). Sanjeev Arora jail detail left out (single source)."
@@ -66,7 +66,7 @@ Kunwar Vijay Pratap Singh, the former IPS officer who represents Amritsar North,
 
 ## Rebels long before the switch
 
-None of the three left on good terms. AAP had suspended Kunwar Vijay Pratap on 29 June 2025. Jouramajra and Pathanmajra were suspended for alleged anti-party activities and quit the party on Sunday. AAP has said it will petition the Speaker to **disqualify Jouramajra and Pathanmajra** from the Assembly.
+None of the three left on good terms. AAP had suspended Kunwar Vijay Pratap on June 29, 2025. Jouramajra and Pathanmajra were suspended for alleged anti-party activities and quit the party on Sunday. AAP has said it will petition the Speaker to **disqualify Jouramajra and Pathanmajra** from the Assembly.
 
 The defections come two days after AAP released **its first list of 40 candidates**, which has Chief Minister Bhagwant Mann contesting from Dhuri and Speaker Sandhwan from Kotkapura. AAP swept Punjab in 2022, winning 92 of the 117 seats.
 
@@ -84,6 +84,6 @@ In a post addressed to the people of Amritsar, Kunwar Vijay Pratap described Pun
 
 ## BJP claims an undercurrent
 
-Satish Poonia, the BJP's national general secretary in charge of Punjab, claimed "an undercurrent in favour of the BJP" and **anti-incumbency against the AAP government**. He said chitta, the adulterated heroin sold on Punjab's streets, had harmed the state's youth under AAP rule, and recalled that Home Minister Amit Shah had promised drug abuse in Punjab would be eradicated by 31 December 2029.
+Satish Poonia, the BJP's national general secretary in charge of Punjab, claimed "an undercurrent in favour of the BJP" and **anti-incumbency against the AAP government**. He said chitta, the adulterated heroin sold on Punjab's streets, had harmed the state's youth under AAP rule, and recalled that Home Minister Amit Shah had promised drug abuse in Punjab would be eradicated by December 31, 2029.
 
 Punjab BJP president Kewal Singh Dhillon, speaking in Punjabi, said the party's ranks were growing by the day. "Time has come for the AAP to go," he said.

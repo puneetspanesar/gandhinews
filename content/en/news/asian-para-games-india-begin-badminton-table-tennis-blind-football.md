@@ -21,7 +21,7 @@ hero:
     value: "Competition starts before the ceremony"
 related: [india-name-168-athletes-asian-para-games-aichi-nagoya]
 seo:
-  description: "Asian Para Games 2026: India's campaign begins on 16 October with para badminton, para table tennis and blind football, two days before the opening ceremony in Nagoya."
+  description: "Asian Para Games 2026: India's campaign begins on October 16 with para badminton, para table tennis and blind football, two days before the opening ceremony in Nagoya."
 sources:
   - title: "Asian Para Games 2026: Bhavina Patel, Suhas Yathiraj in action on October 16th: Schedule, timings"
     publisher: "The Bridge"
@@ -61,10 +61,10 @@ In para table tennis, Bhavina Patel starts her women's Class 4-5 singles group a
 
 The men's blind football team opens against South Korea at 9 am.
 
-Bhavina and Bhagat will carry India's flag at the opening ceremony on 18 October. India have sent 168 athletes across 11 sports to the Games, which formally run from 18 to 24 October.
+Bhavina and Bhagat will carry India's flag at the opening ceremony on October 18. India have sent 168 athletes across 11 sports to the Games, which formally run from October 18 to 24.
 
 > "It is a very proud moment for me to be chosen as India's flag bearer."
 >
-> Source: Bhavina Patel, para table tennis player, 7 October 2026
+> Source: Bhavina Patel, para table tennis player, October 7, 2026
 
 Bhagat has six Asian Para Games medals, two of them gold, and Bhavina has a silver and a bronze.

@@ -26,7 +26,7 @@ cover:
   headline: "Murasu crosses Andhra coast near Ongole"
 related: [cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert, cyclone-murasu-severe-storm-ongole-landfall-tonight-imd, naidu-cyclone-murasu-review-cancels-delhi-visit, chennai-rain-murasu-parrys-149-mm-sameeran-minor-stagnation]
 seo:
-  description: "Severe Cyclonic Storm Murasu crossed the Andhra Pradesh coast near Ongole between 3:30 and 5:30 am on 3 November. Naguluppalapadu got 198 mm of rain and trees fell across Prakasam roads."
+  description: "Severe Cyclonic Storm Murasu crossed the Andhra Pradesh coast near Ongole between 3:30 and 5:30 am on November 3. Naguluppalapadu got 198 mm of rain and trees fell across Prakasam roads."
 sources:
   - title: "Cyclone Murasu: Storm Crosses Andhra Coast, Heavy Rain Continues in Several Districts"
     publisher: "Sakshi Post"
@@ -46,8 +46,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 3 Nov 06:58 IST, IMD statement (ETV Bharat live blog entry at 06:58) that SCS Murasu crossed the south AP coast between Nellore and Narsapur close to Ongole; crossing window 03:30-05:30 IST also given by APSDMA (Sakshi Post, 07:53 IST) and ANI post quoted by Daily Jagran (07:57 IST)."
-    - "Rainfall figures: APSDMA, 8:30 am 2 Nov to 6 am 3 Nov, single source (Sakshi Post). Fallen trees on Kondapi-Tanguturu, Nidamanuru-Uppalapadu, Ongole-Nidamanuru roads: Sakshi Post. Kollam-Visakhapatnam Express halted at Singarayakonda: Sakshi says 'reportedly', kept hedged. Chirala uprooted trees: Daily Jagran."
+    - "event: Nov 3 06:58 IST, IMD statement (ETV Bharat live blog entry at 06:58) that SCS Murasu crossed the south AP coast between Nellore and Narsapur close to Ongole; crossing window 03:30-05:30 IST also given by APSDMA (Sakshi Post, 07:53 IST) and ANI post quoted by Daily Jagran (07:57 IST)."
+    - "Rainfall figures: APSDMA, 8:30 am Nov 2 to 6 am Nov 3, single source (Sakshi Post). Fallen trees on Kondapi-Tanguturu, Nidamanuru-Uppalapadu, Ongole-Nidamanuru roads: Sakshi Post. Kollam-Visakhapatnam Express halted at Singarayakonda: Sakshi says 'reportedly', kept hedged. Chirala uprooted trees: Daily Jagran."
     - "'may continue for another 24 hours' is attributed by Sakshi to officials (APSDMA), paraphrased. K Nagaratna quote from Daily Jagran live entry, untimed, likely before the crossing was complete; used only as background on position."
     - "No IMD bulletin on weakening seen; copy says expected to weaken gradually (Sakshi). No deaths or damage figures reported in any source up to about 08:00 IST. Evacuation total '2 lakh in AP and Odisha' from Daily Jagran, single source."
 ---

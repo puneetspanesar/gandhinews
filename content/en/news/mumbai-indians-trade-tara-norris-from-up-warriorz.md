@@ -6,13 +6,13 @@ section: sports
 format_label: Sports / Cricket
 topics: []
 title: "Mumbai Indians make first WPL trade, bringing in Tara Norris"
-standfirst: "The USA left-arm seamer, who took the league's first five-wicket haul, moves from UP Warriorz at her ₹10 lakh fee ahead of the auction in Kochi on 28 October."
+standfirst: "The USA left-arm seamer, who took the league's first five-wicket haul, moves from UP Warriorz at her ₹10 lakh fee ahead of the auction in Kochi on October 28."
 published: 2026-10-13T05:00:00+05:30
 location: Mumbai
 keyPoints:
   - "Mumbai Indians signed Tara Norris from UP Warriorz in their **first WPL trade**."
   - "Norris took **5 for 29** for Delhi Capitals in 2023, the first five-wicket haul in the league."
-  - "The WPL 2027 auction is on **28 October** at the Grand Hyatt in Kochi."
+  - "The WPL 2027 auction is on **October 28** at the Grand Hyatt in Kochi."
 hero:
   need: "Tara Norris bowling, for USA or in the Women's Premier League"
   suggested_source: "Tara Norris cricketer"
@@ -21,7 +21,7 @@ hero:
     value: "Norris joins Mumbai Indians"
 related: []
 seo:
-  description: "Mumbai Indians complete their first WPL trade, signing USA seamer Tara Norris from UP Warriorz for ₹10 lakh before the WPL 2027 auction in Kochi on 28 October."
+  description: "Mumbai Indians complete their first WPL trade, signing USA seamer Tara Norris from UP Warriorz for ₹10 lakh before the WPL 2027 auction in Kochi on October 28."
 sources:
   - title: "WPL 2027: Tara Norris traded to Mumbai Indians from UP Warriorz"
     publisher: "IANS"
@@ -44,7 +44,7 @@ verification:
     - "Fee: IANS says 'existing fee of Rs 10 lakh'; Tribune says 'base price of INR 10 lakh'. Copy says her ₹10 lakh fee."
     - "Retention figures (63 retained, 23 overseas, 27 slots, 7 overseas; UPW retained 11 incl. Meg Lanning; released Dottin, Tryon, Amy Jones) are from IANS only."
     - "Tribune says UPW signed her 'at the mega auction before the 2025 season' and she withdrew for the T20 World Cup Qualifier; the season reference looks doubtful, so copy does not date it."
-    - "Season dates (14 Jan to 7 Feb) from Business Standard and ETV Bharat headlines only; bodies not opened (search budget exhausted)."
+    - "Season dates (Jan 14 to Feb 7) from Business Standard and ETV Bharat headlines only; bodies not opened (search budget exhausted)."
     - "ESPNcricinfo story could not be opened. MI's statement is quoted only in short phrases as given by IANS."
 ---
 
@@ -58,6 +58,6 @@ Announcing the deal, Mumbai Indians said Norris "adds depth and versatility" to 
 
 ## Auction ahead
 
-The WPL 2027 auction will be held at the Grand Hyatt in Kochi on 28 October. The five franchises retained 63 players, 23 of them from overseas, before the deadline on 28 September, leaving 27 places to fill, seven of them for overseas players.
+The WPL 2027 auction will be held at the Grand Hyatt in Kochi on October 28. The five franchises retained 63 players, 23 of them from overseas, before the deadline on September 28, leaving 27 places to fill, seven of them for overseas players.
 
-UP Warriorz kept 11 players, including captain Meg Lanning, and released Deandra Dottin, Chloe Tryon and Amy Jones among others. The season runs from 14 January to 7 February.
+UP Warriorz kept 11 players, including captain Meg Lanning, and released Deandra Dottin, Chloe Tryon and Amy Jones among others. The season runs from January 14 to February 7.

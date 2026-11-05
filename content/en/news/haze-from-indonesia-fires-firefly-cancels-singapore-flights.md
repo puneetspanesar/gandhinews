@@ -21,7 +21,7 @@ hero:
     value: "AQI 199 in Singapore"
 related: []
 seo:
-  description: "Haze from Indonesia's worst fires in 11 years made Singapore and Kuala Lumpur the world's most polluted cities on 13 October. Firefly cancelled Singapore flights."
+  description: "Haze from Indonesia's worst fires in 11 years made Singapore and Kuala Lumpur the world's most polluted cities on October 13. Firefly cancelled Singapore flights."
 sources:
   - title: "Malaysia's Firefly cancels flights to Singapore over haze from Indonesia"
     publisher: "Al Jazeera"
@@ -41,9 +41,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Tuesday AQI readings (Singapore 199, KL 183) are IQAir rankings as reported by Al Jazeera; Singapore's official PSI for Tuesday not seen. Last official figure seen: 24-hour PSI 181 in central region on 9 Oct (Outlook, citing local media)."
-    - "The Star article (11 Oct) not opened; its headline confirms the Subang-Seletar cancellation. Firefly first announced on 10 Oct per Al Jazeera."
-    - "Simon Wong's X post dated about 9 Oct (Outlook). Whether India has issued any advisory: none found."
+    - "Tuesday AQI readings (Singapore 199, KL 183) are IQAir rankings as reported by Al Jazeera; Singapore's official PSI for Tuesday not seen. Last official figure seen: 24-hour PSI 181 in central region on Oct 9 (Outlook, citing local media)."
+    - "The Star article (Oct 11) not opened; its headline confirms the Subang-Seletar cancellation. Firefly first announced on Oct 10 per Al Jazeera."
+    - "Simon Wong's X post dated about Oct 9 (Outlook). Whether India has issued any advisory: none found."
     - "Indonesia's 60,000 personnel figure is from Malaysian FM Mohamad Hasan, as reported."
 ---
 

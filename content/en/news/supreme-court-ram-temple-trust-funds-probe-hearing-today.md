@@ -22,7 +22,7 @@ hero:
     value: "Temple donations before the top court"
 related: [supreme-court-senior-counsel-oral-mentioning-bar-from-today]
 seo:
-  description: "The Supreme Court hears pleas on 2 November 2026 seeking a court-monitored probe and forensic audit of donations to the Shri Ram Janmabhoomi Teerth Kshetra Trust in Ayodhya."
+  description: "The Supreme Court hears pleas on November 2, 2026, seeking a court-monitored probe and forensic audit of donations to the Shri Ram Janmabhoomi Teerth Kshetra Trust in Ayodhya."
 sources:
   - title: "Supreme Court to hear pleas seeking probe into Ram Temple Trust funds (IANS)"
     publisher: "Telangana Today"
@@ -37,8 +37,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Listing for Monday 2 Nov per the cause list as reported by IANS (Telangana Today 9:59 pm, 1 Nov) and Daijiworld (10:16 pm, 1 Nov). Both carry the same IANS copy; no independent second source."
-    - "Whether the SIT has since filed its charge sheet (deadline 25 Sept) is not reported; copy says it is not known publicly."
+    - "Listing for Monday, Nov 2 per the cause list as reported by IANS (Telangana Today 9:59 pm, Nov 1) and Daijiworld (10:16 pm, Nov 1). Both carry the same IANS copy; no independent second source."
+    - "Whether the SIT has since filed its charge sheet (deadline Sept 25) is not reported; copy says it is not known publicly."
     - "Exact date of the order reconstituting the SIT not given; written as 'earlier'."
     - "Hearing outcome not known at time of writing; written as a preview."
 cover:
@@ -62,7 +62,7 @@ There are four petitions. Advocate Narendra Kumar Goswami has filed a writ petit
 
 ## What the state has told the court
 
-When the cases were last heard on 21 September, the Uttar Pradesh government said a Special Investigation Team had **substantially completed its probe** and would file a charge sheet within two days. Solicitor General Tushar Mehta, appearing for the Centre and the state, said a status report had been handed over in a sealed cover and that the deadline for the charge sheet ran out on 25 September. Whether it has since been filed has not been made public.
+When the cases were last heard on September 21, the Uttar Pradesh government said a Special Investigation Team had **substantially completed its probe** and would file a charge sheet within two days. Solicitor General Tushar Mehta, appearing for the Centre and the state, said a status report had been handed over in a sealed cover and that the deadline for the charge sheet ran out on September 25. Whether it has since been filed has not been made public.
 
 The status report said an analysis of CCTV footage had found **105 incidents of theft of donations** at the temple. It said receipts for valuable offerings were generated through software and that the valuables were kept in State Bank of India lockers. The bench allowed the sessions judge concerned to pass orders in line with the law.
 

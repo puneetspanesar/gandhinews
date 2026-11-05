@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (PTI via ThePrint, 1:45 pm, 18 Oct). Hearing date not given in the report; written as 'has told' and 'in an order made public on Sunday'."
+    - "Single source (PTI via ThePrint, 1:45 pm, Oct 18). Hearing date not given in the report; written as 'has told' and 'in an order made public on Sunday'."
     - "Petitioners not named in the report."
 ---
 

@@ -32,14 +32,14 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: Dawn, Baqir Sajjad Syed, 23 Oct. Official statements' exact quote 'expressed concern at the security implications of the situation in Afghanistan'. June 1 communique quotes from same article."
+    - "Single source: Dawn, Baqir Sajjad Syed, Oct 23. Official statements' exact quote 'expressed concern at the security implications of the situation in Afghanistan'. June 1 communique quotes from same article."
     - "Water point: from Pakistan FO post on X as reported by Dawn; Dawn notes it is not in official statements. India not named by FO; the link to the Indus Waters Treaty is our context and phrased as Pakistan's long-standing complaint, not as the FO's words."
     - "Indus Waters Treaty held in abeyance by India since April 2025: well documented; kept as context."
 ---
 
 Pakistan and the European Union voiced shared concern over Afghanistan at counterterrorism talks in Islamabad on Thursday, while Pakistan's Foreign Office said the two sides had also discussed the exploitation of water resources by terrorists and by states.
 
-The 10th round of the Pakistan-EU counterterrorism dialogue ended with both sides saying they "expressed concern at the security implications of the situation in Afghanistan". That is milder than the joint communique after their strategic dialogue on 1 June, which spoke of "serious concern over the presence of terrorist entities in Afghanistan" and called on the de facto Afghan authorities to take "effective and verifiable action".
+The 10th round of the Pakistan-EU counterterrorism dialogue ended with both sides saying they "expressed concern at the security implications of the situation in Afghanistan". That is milder than the joint communique after their strategic dialogue on June 1, which spoke of "serious concern over the presence of terrorist entities in Afghanistan" and called on the de facto Afghan authorities to take "effective and verifiable action".
 
 The statements named no group. Pakistan has long said the Tehreek-i-Taliban Pakistan, its affiliates and Baloch separatist groups operating from Afghan soil are its main threats, and has pressed partners to lean on the Taliban.
 
@@ -47,4 +47,4 @@ The two sides discussed new threats including the misuse of cyberspace, informat
 
 The Foreign Office's post on X went further than the joint text, saying the talks also covered countering "terrorists' and states' exploitation of water resources". It did not name any country, but the phrase echoes Islamabad's long-running complaint against India, which has held the Indus Waters Treaty in abeyance since April 2025. The point does not appear in either side's official statement.
 
-The talks came days after the EU's special envoy for Afghanistan, Thomas Frellesen, visited Kabul from 12 to 14 October and urged the Taliban not to let Afghan territory be used against other countries.
+The talks came days after the EU's special envoy for Afghanistan, Thomas Frellesen, visited Kabul from October 12 to 14 and urged the Taliban not to let Afghan territory be used against other countries.

@@ -22,7 +22,7 @@ hero:
     value: "Brent down 1.4% at $111.84"
 related: [asia-open-nikkei-seen-down-oil-dalal-street-november-2, iran-araghchi-two-day-hormuz-plan-rezaei-vance-letter, india-crude-import-bill-90-6-billion-april-september, markets-week-ahead-us-midterms-itc-sbi-results-november-2]
 seo:
-  description: "Oil prices on 2 November 2026: Brent falls 1.4% to $111.84 and WTI 1.5% to $102.56 in early Asian trade as Iran and Qatar hold a third day of talks; what it means for India."
+  description: "Oil prices on November 2, 2026: Brent falls 1.4% to $111.84 and WTI 1.5% to $102.56 in early Asian trade as Iran and Qatar hold a third day of talks; what it means for India."
 cover:
   template: business
   label: "Crude oil"
@@ -53,9 +53,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov 05:41 IST (00:11 GMT), prices as quoted in the Reuters Singapore report. Brent -1.59 to 111.84, WTI -1.56 to 102.56. Friday settle implied 113.43, consistent with the earlier asia-open story's 'above $113'."
+    - "event: Nov 2 05:41 IST (00:11 GMT), prices as quoted in the Reuters Singapore report. Brent -1.59 to 111.84, WTI -1.56 to 102.56. Friday settle implied 113.43, consistent with the earlier asia-open story's 'above $113'."
     - "Waterer and Araghchi quotes from the Reuters copy as summarised by the fetch tool; Waterer's $120 warning paraphrased. Saudi export and OPEC+ lines from same report."
-    - "India angle: $90.6 billion April-September import bill and $116 September basket from our own 17 Oct story; rupee 'stayed below 95' and record low 96.96 in May from Business Today 1 Nov."
+    - "India angle: $90.6 billion April-September import bill and $116 September basket from our own Oct 17 story; rupee 'stayed below 95' and record low 96.96 in May from Business Today Nov 1."
     - "Whalesbook and investinglive (Iran two-day plan headline) seen in search only; investinglive fetch failed."
 ---
 

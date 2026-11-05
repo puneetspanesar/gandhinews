@@ -6,13 +6,13 @@ section: economy
 format_label: "Economy / IPOs"
 topics: [economy]
 title: "Zetwerk's IPO is a quarter subscribed after day one while Tonbo's is bid four times"
-standfirst: "Two share sales that opened on Thursday got very different receptions. Both enter their second day on Friday and close on 19 October."
+standfirst: "Two share sales that opened on Thursday got very different receptions. Both enter their second day on Friday and close on October 19."
 published: 2026-10-16T07:20:00+05:30
 location: Mumbai
 keyPoints:
   - "Zetwerk's ₹5,012 crore issue was **0.23 times subscribed** at the end of its first day."
   - "Defence imaging firm Tonbo's ₹852 crore issue drew bids for **4 times the shares** on offer."
-  - "Both issues close on **19 October** and are due to list on 23 October."
+  - "Both issues close on **October 19** and are due to list on October 23."
 hero:
   need: "A Tonbo Imaging thermal camera or the company's Bengaluru office"
   suggested_source: "Tonbo Imaging"
@@ -21,7 +21,7 @@ hero:
     value: "0.23 times vs 4 times on day one"
 related: [zetwerk-ipo-day-one-subscription, zetwerk-ipo-price-band-opens-october-15, tonbo-imaging-ipo-price-band-defence-tech, jio-platforms-ipo-price-band-biggest-india-listing, sebi-proposes-tighter-ipo-proceeds-monitoring]
 seo:
-  description: "Zetwerk IPO was subscribed 0.23 times and Tonbo Imaging 4 times at the end of day one, 15 October 2026. Both close on 19 October and list on 23 October."
+  description: "Zetwerk IPO was subscribed 0.23 times and Tonbo Imaging 4 times at the end of day one, October 15, 2026. Both close on October 19 and list on October 23."
 sources:
   - title: "Zetwerk Manufacturing Business IPO Day 1 Subscription Status"
     publisher: "HDFC Sky"
@@ -48,8 +48,8 @@ verification:
   notes:
     - "Day-one figures are exchange snapshots at 5:03 pm (Zetwerk) and 5:00 pm (Tonbo) via HDFC Sky. Groww Digest agrees on totals (0.23x, 4.00x); retail differs slightly for Zetwerk (0.22x Groww vs 0.23x HDFC Sky); copy uses HDFC Sky's 0.23x."
     - "Zetwerk shares offered ex-anchor: 18.29 crore at 5:03 pm vs 18.51 crore in the 3:04 pm data used in the earlier story; different category bases, not explained."
-    - "Bonfiglioli (0.48x day one) and Fusion CX (1.10x day two, closes 16 Oct) from Groww Digest only."
-    - "IPOs in their second day on Friday listed by Business Standard live blog, 16 Oct."
+    - "Bonfiglioli (0.48x day one) and Fusion CX (1.10x day two, closes Oct 16) from Groww Digest only."
+    - "IPOs in their second day on Friday listed by Business Standard live blog, Oct 16."
 ---
 
 The two biggest share sales that opened on Thursday had sharply different first days. Zetwerk's ₹5,012 crore issue was just under a quarter subscribed by the close, while Tonbo Imaging's smaller ₹852 crore offer was bid four times over.
@@ -72,4 +72,4 @@ The issue is entirely an offer for sale by existing shareholders, at ₹665 to �
 
 Bonfiglioli Transmissions' ₹2,533.81 crore IPO was 0.48 times subscribed on its first day. Fusion CX's issue, 1.10 times subscribed after two days, closes on Friday.
 
-Zetwerk and Tonbo both close on 19 October, with allotment on 21 October and listing on the BSE and NSE on 23 October.
+Zetwerk and Tonbo both close on October 19, with allotment on October 21 and listing on the BSE and NSE on October 23.

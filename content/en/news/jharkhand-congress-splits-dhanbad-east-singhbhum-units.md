@@ -41,7 +41,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Full details (block lists, interim arrangement, Venugopal letter) rest on Sharp Bharat (16 Oct, 12:22 am). Prabhat Khabar and UNI Varta pages could not be fetched; only their search headlines were seen, which confirm AICC approval and the Dhanbad-Jamshedpur city plan."
+    - "Full details (block lists, interim arrangement, Venugopal letter) rest on Sharp Bharat (Oct 16, 12:22 am). Prabhat Khabar and UNI Varta pages could not be fetched; only their search headlines were seen, which confirm AICC approval and the Dhanbad-Jamshedpur city plan."
     - "'On the lines of Ranchi' comes from the truncated UNI Varta headline; kept as a light reference."
     - "Names of the sitting district presidents not given in the source; a 2025 report named different office-bearers, so none are named here."
     - "No direct quotes available; reasons paraphrased as 'organisational strength'."

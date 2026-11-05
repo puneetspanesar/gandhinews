@@ -12,7 +12,7 @@ location: Kyiv
 keyPoints:
   - "Russia launched **21 ballistic missiles** at Kyiv in three waves overnight, Zelenskyy said."
   - "At least two people were killed and **34 injured, including five children**."
-  - "The strikes came hours after the Kremlin agreed **in principle to three-way talks** after 10 November."
+  - "The strikes came hours after the Kremlin agreed **in principle to three-way talks** after November 10."
 hero:
   need: "Volodymyr Zelenskyy, President of Ukraine, or the Kyiv skyline"
   suggested_source: "Volodymyr Zelenskyy"
@@ -22,7 +22,7 @@ hero:
     value: "Talks agreed, then the missiles"
 related: [putin-zelenskyy-back-three-way-talks-freeze-front-line, witkoff-putin-st-petersburg-talks-updated-peace-plan]
 seo:
-  description: "Russia fired 21 ballistic missiles at Kyiv overnight on 22 October, killing at least two, hours after the Kremlin agreed in principle to resume US-brokered talks."
+  description: "Russia fired 21 ballistic missiles at Kyiv overnight on October 22, killing at least two, hours after the Kremlin agreed in principle to resume US-brokered talks."
 sources:
   - title: "Russia pounds Ukraine's capital Kyiv with missiles and drones, hours after agreeing to peace talks"
     publisher: "Associated Press (via KIRO 7)"
@@ -56,7 +56,7 @@ Foreign Minister Andrii Sybiha was blunter. "Appeasement, servility, and flatter
 
 ## Talks after the midterms
 
-The attack came the morning after Kremlin foreign policy adviser Yuri Ushakov said Putin had agreed "in principle" to resume three-way negotiations between Russia, the United States and Ukraine after 10 November, about a week after the US midterm elections. The offer followed Witkoff's meeting with Putin.
+The attack came the morning after Kremlin foreign policy adviser Yuri Ushakov said Putin had agreed "in principle" to resume three-way negotiations between Russia, the United States and Ukraine after November 10, about a week after the US midterm elections. The offer followed Witkoff's meeting with Putin.
 
 Zelenskyy had backed the idea of new talks and said on Wednesday that Ukraine was ready to freeze the war along the current front line and move to diplomacy. But he was guarded about the outcome. "We'll see what happens this time," he said, shortly before missile alerts sounded over Kyiv.
 

@@ -22,7 +22,7 @@ hero:
     value: "Kishan out of the second T20I"
 related: [india-record-chase-beat-new-zealand-christchurch-naman-dhir, glenn-phillips-82-new-zealand-225-india-chase-christchurch, india-new-zealand-first-t20i-christchurch-iyer-santner-preview, india-a-new-zealand-a-lincoln-jurel-rahul-jaiswal]
 seo:
-  description: "Ishan Kishan is out of India's second T20I against New Zealand in Christchurch on 24 October with a low-grade right adductor strain, the BCCI said."
+  description: "Ishan Kishan is out of India's second T20I against New Zealand in Christchurch on October 24 with a low-grade right adductor strain, the BCCI said."
 sources:
   - title: "Ishan Kishan ruled out of second T20I against New Zealand with groin injury (ANI)"
     publisher: "The Tribune"
@@ -48,8 +48,8 @@ verification:
   status: approved
   notes:
     - "BCCI statement on X quoted via ANI (Tribune). No replacement named in sources read, so none is named."
-    - "Iyer and Phillips quotes taken from Tribune headlines of 22 Oct match-day reports."
-    - "Number of ODIs on the tour differs between sources (ANI says five, PTI says three from 4 Nov); copy avoids the figure."
+    - "Iyer and Phillips quotes taken from Tribune headlines of Oct 22 match-day reports."
+    - "Number of ODIs on the tour differs between sources (ANI says five, PTI says three from Nov 4); copy avoids the figure."
 ---
 
 India will be without Ishan Kishan for the second Twenty20 international against New Zealand on Saturday after the wicketkeeper-batter strained a muscle in Thursday's record-breaking win in Christchurch.
@@ -72,6 +72,6 @@ Kishan, who has 1,955 runs in 67 T20Is at an average of 31.03 and a strike rate 
 
 ## What comes next
 
-The second match is at Hagley Oval again on Saturday 24 October, starting at 12:30 pm IST (8 pm in New Zealand), like every game in the series. The teams then move to Wellington for the third match on 27 October, Auckland's Eden Park on 30 October and Hamilton's Seddon Park on 1 November.
+The second match is at Hagley Oval again on Saturday, October 24, starting at 12:30 pm IST (8 pm in New Zealand), like every game in the series. The teams then move to Wellington for the third match on October 27, Auckland's Eden Park on October 30 and Hamilton's Seddon Park on November 1.
 
 India's tour of New Zealand also includes one-day internationals and two Tests, and an India A side starts a four-day match against New Zealand A in Lincoln on Saturday.

@@ -37,7 +37,7 @@ verification:
   status: approved
   notes:
     - "Rests on Inc42 only; the ministry's own release (PIB) could not be located because search ran out. Fund manager names not published in the source."
-    - "Exact approval date not given ('earlier this month'). Announcement reported 12 Oct."
+    - "Exact approval date not given ('earlier this month'). Announcement reported Oct 12."
     - "Q3 funding figures are Inc42's own report data, attributed in copy to its report rather than to the outlet as news."
     - "Indian Express August report on panel-linked allocations is carried via Inc42; phrased as a report and left without outlet name per house rule. Editor may want to cut or name it."
 ---

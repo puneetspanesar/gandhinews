@@ -57,7 +57,7 @@ Rabada has not played since the IPL in May. He missed the first Test while recov
 
 > His non-selection was more from a precautionary point of view to give him the extra couple of days.
 >
-> Source: Temba Bavuma, South Africa captain, 14 October 2026
+> Source: Temba Bavuma, South Africa captain, October 14, 2026
 
 Bavuma said Rabada "looks good" and has been bowling in the nets. Who makes way is less clear. One option is to leave out Simon Harmer; the other is to drop Anrich Nortje, despite his successful return to Test cricket at Kingsmead. The squad is due to be named on Thursday.
 
@@ -65,10 +65,10 @@ Coach Shukri Conrad refused to panic over the Durban result, in which Matt Rensh
 
 > This was neither a calamity nor a catastrophe. We just need to get bloody better.
 >
-> Source: Shukri Conrad, South Africa coach, 14 October 2026
+> Source: Shukri Conrad, South Africa coach, October 14, 2026
 
 Conrad said the side should improve "without being knee-jerk in our decision-making and panicky", and was blunt about the batting after South Africa fell 106 behind on first innings. "On a good wicket like that, you shouldn't be going behind," he said. Of Rabada, he added: "Hopefully our Rolls-Royce will be purring down the highway there."
 
 Bavuma indicated there would not be wholesale change. "The guys that you saw who took the field are guys that we have full confidence in," he said.
 
-Australia captain Pat Cummins has not ruled out changes of his own, saying conditions in Gqeberha would shape his selection. Cameron Green, who missed the first Test with an abdominal problem, is expected to return. The third Test is at Newlands in Cape Town from 27 October.
+Australia captain Pat Cummins has not ruled out changes of his own, saying conditions in Gqeberha would shape his selection. Cameron Green, who missed the first Test with an abdominal problem, is expected to return. The third Test is at Newlands in Cape Town from October 27.

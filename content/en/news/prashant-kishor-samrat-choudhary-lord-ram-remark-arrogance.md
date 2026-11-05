@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Kishor spoke late on Thursday 15 Oct at Bihta (PTI via ThePrint, 3:46 pm Friday). Choudhary's remark is given only in Kishor's version; his exact words were not found. Copy attributes the wording to Kishor."
+    - "Kishor spoke late on Thursday, Oct 15 at Bihta (PTI via ThePrint, 3:46 pm Friday). Choudhary's remark is given only in Kishor's version; his exact words were not found. Copy attributes the wording to Kishor."
     - "'When people feel justice isn't being done, they will hit the streets': Deccan Herald headline quote (body behind a wall); context unclear, so copy places it with the Election Commission comments without a time."
     - "No response from the BJP or Choudhary found."
     - "Date and seats of the council polls not given in sources beyond 'eight seats'."

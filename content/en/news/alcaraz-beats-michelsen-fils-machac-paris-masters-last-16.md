@@ -22,7 +22,7 @@ hero:
     value: "Alcaraz stands firm in Paris"
 related: [hijikata-stuns-djokovic-paris-masters-turin-hopes-end, shapovalov-retires-khachanov-paris-masters-leading-4-1]
 seo:
-  description: "Carlos Alcaraz beat Alex Michelsen 7-6(4), 6-3 and Arthur Fils beat Tomas Machac 6-3, 7-6(4) at the Paris Masters on 4 November 2026 to reach the last 16."
+  description: "Carlos Alcaraz beat Alex Michelsen 7-6(4), 6-3 and Arthur Fils beat Tomas Machac 6-3, 7-6(4) at the Paris Masters on November 4, 2026, to reach the last 16."
 infographic:
   kicker: "Paris Masters, night session"
   headline: "Alcaraz and Fils into the last 16"
@@ -31,7 +31,7 @@ infographic:
   stats:
     - {icon: tennis-ball, value: "7-6(4), 6-3", label: "Alcaraz against Michelsen, in 1 hour 41 minutes"}
     - {icon: tennis-ball, value: "6-3, 7-6(4)", label: "Fils against qualifier Machac"}
-    - {icon: trophy, value: "15-22 Nov", label: "ATP Finals in Turin, Fils's debut"}
+    - {icon: trophy, value: "Nov 15-22", label: "ATP Finals in Turin, Fils's debut"}
   source: "Match results, Paris Masters, November 4, 2026"
 sources:
   - title: "Alex Michelsen vs Carlos Alcaraz, Rolex Paris Masters 2026"
@@ -62,7 +62,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: Alcaraz v Michelsen not before 19:00 CET (23:30 IST 4 Nov), 1h41, so ended about 01:15 IST 5 Nov. Fils v Machac not before 20:30 CET, followed it; Tennis Majors Fils article metadata 22:37 UTC (04:07 IST). Both in window."
+    - "event: Alcaraz v Michelsen not before 19:00 CET (23:30 IST Nov 4), 1h41, so ended about 01:15 IST Nov 5. Fils v Machac not before 20:30 CET, followed it; Tennis Majors Fils article metadata 22:37 UTC (04:07 IST). Both in window."
     - "Scores in Tennis Majors and AFP (FMT). Alcaraz quotes from AFP via FMT. Fils quotes ('childhood dream', 'Not easy, really, really not easy' on Fritz) from Tennis Majors. Round: Alcaraz's first match (bye); called second round, matching our Hijikata story; both now in last 16."
     - "Thursday: Alcaraz v Berrettini not before 19:00 CET (23:30 IST), Fils v Fritz not before 20:30 CET (01:00 IST Fri). Order of play may change."
     - "Serve stats (34 of 47 first-serve points) from Tennis Majors match page only."
@@ -74,6 +74,6 @@ The American, ranked 35th, stayed with him through a tight first set, but Alcara
 
 "Really happy to get the win," Alcaraz said. "It's been a really difficult day for the top guys, but I just try not to think about it." He plays **Matteo Berrettini in Thursday's night session**, not before 11.30 pm IST.
 
-Arthur Fils followed him onto Court Central and gave the home crowd something to cheer. The sixth seed **beat Czech qualifier Tomas Machac 6-3, 7-6(4)**, a few hours after Quentin Halys's win over Frances Tiafoe had confirmed his place at the ATP Finals in Turin from 15 to 22 November.
+Arthur Fils followed him onto Court Central and gave the home crowd something to cheer. The sixth seed **beat Czech qualifier Tomas Machac 6-3, 7-6(4)**, a few hours after Quentin Halys's win over Frances Tiafoe had confirmed his place at the ATP Finals in Turin from November 15 to 22.
 
 "It's a childhood dream. The Masters is a childhood dream," the Frenchman said. His next test is **11th seed Taylor Fritz**, a match he called "not easy, really, really not easy".

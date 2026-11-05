@@ -91,4 +91,4 @@ The win strengthens Australia's lead in the World Test Championship. South Afric
 
 ## What's next
 
-The second Test starts in Gqeberha on Sunday, 18 October, and the series ends in Cape Town from 27 to 31 October.
+The second Test starts in Gqeberha on Sunday, October 18, and the series ends in Cape Town from October 27 to 31.

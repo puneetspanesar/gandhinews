@@ -40,7 +40,7 @@ Gujarat Police's State Monitoring Cell has arrested seven people and seized fuel
 
 The first raid, led by Police Inspector M K Malviya, was at the Rajpurohit Hotel on National Highway 48 at Boriyavi, on the Anand-Nadiad stretch. The team seized 10,290 litres of diesel and petrol worth ₹20.08 lakh, two vehicles and four mobile phones, a haul valued at ₹43.25 lakh in all.
 
-Four men were arrested: Narvarbhai alias Natubhai Lakum of Dholka in Ahmedabad district, Swaroop Singh Rajpurohit and Dhan Singh Rajpurohit of Barmer in Rajasthan, and Laxmanbhai Bharwad of Boriyavi. A case was registered at Anand Rural police station on 14 October under the Bharatiya Nyaya Sanhita and the Essential Commodities Act.
+Four men were arrested: Narvarbhai alias Natubhai Lakum of Dholka in Ahmedabad district, Swaroop Singh Rajpurohit and Dhan Singh Rajpurohit of Barmer in Rajasthan, and Laxmanbhai Bharwad of Boriyavi. A case was registered at Anand Rural police station on October 14 under the Bharatiya Nyaya Sanhita and the Essential Commodities Act.
 
 ## 65 tonnes of chemicals at Danteli
 
@@ -48,4 +48,4 @@ The second team, led by Police Inspector A J Chauhan, raided a site at Danteli v
 
 Three men were arrested there: Dharmendra Singh alias Munna Rajput and Rajan Singh Rajput, both living in Kalali in Vadodara and originally from Sultanpur in Uttar Pradesh, and Ramvikas Yadav of Pratapgarh district in Uttar Pradesh. A 15-year-old boy from Uttar Pradesh who lives in Vadodara has been served a notice. Police are looking for two more men, Vivek Vanvasi of Pratapgarh and a man identified only as Vijay.
 
-A case was registered at Petlad Rural police station on 14 October. Police say both investigations are continuing.
+A case was registered at Petlad Rural police station on October 14. Police say both investigations are continuing.

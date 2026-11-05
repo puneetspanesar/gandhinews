@@ -22,7 +22,7 @@ hero:
     value: "Ebola reaches Nigeria"
 related: [kenya-eighth-ebola-case-patient-attendant, kenya-ebola-cases-rise-to-seven-health-workers]
 seo:
-  description: "Nigeria confirmed its first Ebola case of 2026, a woman who flew in from Uganda, and is tracing 44 contacts. Kenya reported its ninth case on 20 October."
+  description: "Nigeria confirmed its first Ebola case of 2026, a woman who flew in from Uganda, and is tracing 44 contacts. Kenya reported its ninth case on October 20."
 sources:
   - title: "Nigeria Confirms 1st Ebola Case in 2026"
     publisher: "The Epoch Times"
@@ -59,7 +59,7 @@ Jean Kaseya, director-general of the Africa Centres for Disease Control and Prev
 
 ## Kenya's ninth case
 
-Kenya's health ministry also reported a ninth case on Tuesday, a 24-year-old man who is a close family member of the country's first patient, a man who had lived in Congo and died in Nairobi on 5 October. He was already in quarantine and was "isolated at the first sign of illness", the ministry said.
+Kenya's health ministry also reported a ninth case on Tuesday, a 24-year-old man who is a close family member of the country's first patient, a man who had lived in Congo and died in Nairobi on October 5. He was already in quarantine and was "isolated at the first sign of illness", the ministry said.
 
 "All nine cases belong to one cluster," said Patrick Amoth, Kenya's director-general for health, adding that there was no evidence of spread beyond that group. Eight patients are stable, and 134 of 135 contacts have been traced and quarantined.
 

@@ -22,7 +22,7 @@ hero:
     value: "Reliance up 6% on Q2 surge"
 related: [sensex-jumps-970-nifty-23313-oil-reliance-open-november-2, gift-nifty-gap-up-205-points-brent-110-asia-pares-losses, jio-platforms-lists-21-per-cent-premium-1358]
 seo:
-  description: "Reliance Industries shares rose 6.22% to ₹1,237.30 on 2 November 2026 after Q2 FY27 profit attributable to shareholders rose 41% to ₹25,548 crore on a 68% jump in O2C EBITDA."
+  description: "Reliance Industries shares rose 6.22% to ₹1,237.30 on November 2, 2026, after Q2 FY27 profit attributable to shareholders rose 41% to ₹25,548 crore on a 68% jump in O2C EBITDA."
 cover:
   template: business
   label: "Reliance results"
@@ -63,7 +63,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov 09:41 IST, Reliance hits day high ₹1,237.30 (+6.22%) on NSE (Business Standard live blog); 09:24 IST top Sensex gainer at ₹1,217 (+4.59%)."
+    - "event: Nov 2 09:41 IST, Reliance hits day high ₹1,237.30 (+6.22%) on NSE (Business Standard live blog); 09:24 IST top Sensex gainer at ₹1,217 (+4.59%)."
     - "Q2 figures from HDFC Sky stocks-to-watch (09:19 IST): attributable profit ₹25,548 cr vs ₹18,165 cr, EBITDA ₹62,409 cr vs ₹50,367 cr, O2C EBITDA +68%, retail profit -24.3%, shares down about 24% this year before results. BS live blog separately says profit rose 32% to ₹29,250 cr (likely total consolidated profit incl. minority interests); not used to avoid confusion."
     - "Jio Platforms: Business Today (08:05 IST, just before window, used as background only): Friday close ₹1,431.30; MOFSL Buy, target ₹1,515 (quote verbatim); Dolat Accumulate, target ₹1,450. Jio Platforms' Monday price move not found; not stated."
     - "No management quotes in sources read."

@@ -39,7 +39,7 @@ verification:
     - "Single source for Bora's remarks and Bhandari's response: IANS via The Hawk (12:05 pm, updated 1:31 pm). Bora quotes 'congratulations to you for showing us the way' and 'We present you our red salute' verbatim from that report; the venue of the Wednesday event is not stated beyond her address to the Socialist Students' Front's sixth national conference."
     - "Bhandari quotes 'want to bring about regime change' and 'destroy Indian democracy' are fragments as given by IANS."
     - "Bhandari's claim about Prashant Bhushan's alleged 'revolution in which blood will flow' remark not independently found; reported as Bhandari's allegation."
-    - "Bora at Rahul Gandhi's 13 Oct high tea: The Tribune, 13 Oct."
+    - "Bora at Rahul Gandhi's Oct 13 high tea: The Tribune, Oct 13."
     - "No Congress or AISA response found by 4 pm."
 ---
 

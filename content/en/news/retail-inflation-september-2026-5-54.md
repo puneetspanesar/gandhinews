@@ -57,7 +57,7 @@ verification:
   status: approved
   notes:
     - "MoSPI's September 2026 press release itself was not opened (mospi.gov.in fetch blocked). All September figures come from Business Standard's detailed write-up of the release, cross-checked against Business Today (headline, CFPI, rural, onion, silver), ANI/Bank of Baroda (5.5%, 7.7%, onion 108%) and PTI via ThePrint (5.54%, 4.83%). Swap in the MoSPI PDF link when available."
-    - "August is now 4.83% (headline), 5.97% (CFPI), 5.24% (rural) in today's release, against 4.82%, 5.95%, 5.23% provisional on 14 Sep. Treated as the final revision; the August story still shows the provisional figures."
+    - "August is now 4.83% (headline), 5.97% (CFPI), 5.24% (rural) in today's release, against 4.82%, 5.95%, 5.23% provisional on Sep 14. Treated as the final revision; the August story still shows the provisional figures."
     - "Jan to Jul chart values are from MoSPI's August release; they may have been revised marginally in later releases, not checked."
     - "Core inflation 4.3% is Bank of Baroda's estimate (ANI), attributed as such. No official core figure found."
     - "The 'about 4.9%' average for July-September is the desk's own arithmetic from the monthly figures (4.45, 4.83, 5.54 average 4.94)."
@@ -89,7 +89,7 @@ Among the larger states, Tamil Nadu had the highest inflation at 6.81%, followed
 
 ## What it means for the RBI
 
-The headline figure is still inside the Reserve Bank of India's tolerance band of 2% to 6%, but well above its 4% target. Averaged over July to September, inflation works out to about 4.9%, in line with the projection the Monetary Policy Committee made when it raised the repo rate to 5.50% on 7 October. The committee expects inflation to rise to 6.0% in October to December and average 5.2% for 2026-27.
+The headline figure is still inside the Reserve Bank of India's tolerance band of 2% to 6%, but well above its 4% target. Averaged over July to September, inflation works out to about 4.9%, in line with the projection the Monetary Policy Committee made when it raised the repo rate to 5.50% on October 7. The committee expects inflation to rise to 6.0% in October to December and average 5.2% for 2026-27.
 
 Economists expect more pressure ahead. Devendra Pant, chief economist at India Ratings and Research, said "an adverse base effect for food inflation in October 2025 could push food inflation in October 2026 to 9.1%", and expects headline inflation of about 6.0% in October.
 
@@ -101,4 +101,4 @@ Crude oil above $100 a barrel and a weak rupee add to the risks, though the rupe
 
 ## What comes next
 
-October's inflation data is due on 12 November. The RBI's next policy decision is due in December.
+October's inflation data is due on November 12. The RBI's next policy decision is due in December.

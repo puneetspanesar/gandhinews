@@ -22,7 +22,7 @@ hero:
     value: "Beyond pipes and flyovers"
 related: [rbi-data-centre-jatni-modi-inaugurate-cybersecurity-institute]
 seo:
-  description: "The National Urban Conclave 2026 ended in Bhubaneswar on 25 October, with Manohar Lal Khattar urging cities to focus on service delivery, water and municipal finances."
+  description: "The National Urban Conclave 2026 ended in Bhubaneswar on October 25, with Manohar Lal Khattar urging cities to focus on service delivery, water and municipal finances."
 sources:
   - title: "National Urban Conclave 2026 concludes, Minister Khattar emphasises on \"moving beyond mere infrastructure creation\""
     publisher: "ANI"
@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "ANI 21:04 IST, 25 Oct; Daily Prabhat carries the same ANI copy. Khattar quote 'Strong emphasis was placed on moving beyond mere infrastructure creation' verbatim from ANI."
+    - "ANI 21:04 IST, Oct 25; Daily Prabhat carries the same ANI copy. Khattar quote 'Strong emphasis was placed on moving beyond mere infrastructure creation' verbatim from ANI."
     - "PIB outcomes release and Rajiv Gauba release listed on PIB home page, but the release pages returned a different cached release; their content was not read. Gauba's remarks therefore left out."
     - "PIB lists the event as the '2nd National Urban Conclave'; ANI calls it 'National Urban Conclave 2026'. Copy says it is the second edition per the PIB headline."
     - "HUDCO portal name not given."
@@ -52,7 +52,7 @@ The Union government wants India's cities judged by the services they deliver ra
 
 "Strong emphasis was placed on moving beyond mere infrastructure creation," Khattar told reporters after the two-day meeting, which his ministry organised with the Odisha government. He thanked Chief Minister Mohan Charan Majhi and the state government for hosting it.
 
-The second edition of the conclave ran on 24 and 25 October under the theme "Urban Rising: Rethinking Urban Systems, Solutions and Delivery". About 1,200 delegates came from across India and abroad, and more than 200 experts, policymakers, planners and administrators worked through eight thematic groups.
+The second edition of the conclave ran on October 24 and 25 under the theme "Urban Rising: Rethinking Urban Systems, Solutions and Delivery". About 1,200 delegates came from across India and abroad, and more than 200 experts, policymakers, planners and administrators worked through eight thematic groups.
 
 ## What the cities were told
 

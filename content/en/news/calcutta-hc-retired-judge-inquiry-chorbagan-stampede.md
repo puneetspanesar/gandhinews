@@ -12,7 +12,7 @@ location: Kolkata
 keyPoints:
   - "The Calcutta High Court directed Bengal to form a **commission headed by a retired High Court judge**."
   - "The bench said a **sitting judge could not be appointed**, citing a Supreme Court directive."
-  - "The 17 October crush at the Chorbagan pandal **killed 19 people**."
+  - "The October 17 crush at the Chorbagan pandal **killed 19 people**."
 hero:
   need: "Exterior of the Calcutta High Court building, Kolkata"
   suggested_source: "Calcutta High Court"
@@ -22,7 +22,7 @@ hero:
     value: "A retired judge, not a sitting one"
 related: [kolkata-chorbagan-durga-puja-pandal-stampede, kolkata-stampede-seven-arrested-sit-judge, kolkata-police-shut-major-pandals-stampede-probe, kolkata-pandal-safety-audit-no-vip-entry-adhikari]
 seo:
-  description: "Calcutta High Court on 20 October ordered a commission of inquiry headed by a retired judge into the Chorbagan Durga Puja stampede that killed 19 in Kolkata."
+  description: "Calcutta High Court on October 20 ordered a commission of inquiry headed by a retired judge into the Chorbagan Durga Puja stampede that killed 19 in Kolkata."
 sources:
   - title: "Calcutta HC orders inquiry by retired judge into Chorbagan stampede"
     publisher: "Business Standard"
@@ -32,8 +32,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: Business Standard (PTI copy), 20 Oct, 3:12 pm IST. Only CJ Ghuge named on the bench; companion judge not named. No direct quote from the order available, so none used. Next hearing date not reported. Petitioner lawyer not named."
-    - "Background (7 arrests, culpable homicide case, CM's SIT-under-judge announcement) from Gandhi News's 18 Oct story."
+    - "Single source: Business Standard (PTI copy), Oct 20, 3:12 pm IST. Only CJ Ghuge named on the bench; companion judge not named. No direct quote from the order available, so none used. Next hearing date not reported. Petitioner lawyer not named."
+    - "Background (7 arrests, culpable homicide case, CM's SIT-under-judge announcement) from Gandhi News's Oct 18 story."
 ---
 
 The Calcutta High Court on Tuesday ordered the West Bengal government to set up a commission of inquiry headed by a retired High Court judge into the stampede at Kolkata's Chorbagan Durga Puja pandal, which killed 19 people on Saturday evening.
@@ -50,7 +50,7 @@ Police have already registered a culpable homicide case over the crush, and seve
 
 ## The night at Chorbagan
 
-The crowd waiting outside the north Kolkata pandal surged forward as rain began on 17 October. An exit gate gave way under the weight of people pressing against it, and 19 people were killed in the crush that followed. It was the deadliest incident of the festival season in the city in years, and it led the government to call off all its own Puja events.
+The crowd waiting outside the north Kolkata pandal surged forward as rain began on October 17. An exit gate gave way under the weight of people pressing against it, and 19 people were killed in the crush that followed. It was the deadliest incident of the festival season in the city in years, and it led the government to call off all its own Puja events.
 
 ## What happens next
 

@@ -10,9 +10,9 @@ standfirst: "The court said total reservation could not cross 50% without proper
 published: 2026-10-11T12:00:00+05:30
 location: Amaravati
 keyPoints:
-  - "On 1 October the Andhra Pradesh High Court **quashed two orders** giving Backward Classes 34% of rural and 33.33% of urban local body seats."
+  - "On October 1 the Andhra Pradesh High Court **quashed two orders** giving Backward Classes 34% of rural and 33.33% of urban local body seats."
   - "The bench held the quotas pushed total reservation **past the 50% ceiling** without empirical data, and ordered the poll process to begin within six weeks."
-  - "The Supreme Court **dismissed the state's appeal** on 9 October, calling the High Court's approach very reasonable."
+  - "The Supreme Court **dismissed the state's appeal** on October 9, calling the High Court's approach very reasonable."
   - "Chief Minister N. Chandrababu Naidu said the NDA would allocate **34% of its local poll seats** to BC candidates."
 hero:
   need: "Andhra Pradesh High Court building at Amaravati"
@@ -62,19 +62,19 @@ sources:
 verification:
   status: verified-with-notes
   notes:
-    - "Fact check 11 Oct 2026: Deccan Chronicle (2 Oct, both reports), The South First (1, 7, 9 Oct), PTI via ThePrint and IANS via Telangana Today reopened. Corrections: Naidu's direct words were '34 per cent of the seats', with no 'at least', so 'at least' removed from keyPoint and body; the point that the HC did not examine the commission's legality is from Deccan Chronicle (which names it the Rajiv Ranjan Commission), not The South First, and the Kesana Sankara Rao PIL is also from Deccan Chronicle, so attributions split; G.O.Ms.No.176 was not 'of 2020' (The South First, 7 Oct, dates the reservation order to December 2019), wording fixed and source moved to the 7 Oct report; Justice Datta's remarks 'Under what law is this being made?' and 'Dismissed' are quoted separately as The South First reports them; headline 'upholds ruling' changed to 'dismisses appeal', which is what the court did."
-    - "The South First (7 Oct) also reports the HC held that 'citing an unapproved commission report was legally insufficient'. Not added, as it was not in the HC-day reports; editors may wish to check against the judgment."
+    - "Fact check Oct 11, 2026: Deccan Chronicle (Oct 2, both reports), The South First (1, 7, Oct 9), PTI via ThePrint and IANS via Telangana Today reopened. Corrections: Naidu's direct words were '34 per cent of the seats', with no 'at least', so 'at least' removed from keyPoint and body; the point that the HC did not examine the commission's legality is from Deccan Chronicle (which names it the Rajiv Ranjan Commission), not The South First, and the Kesana Sankara Rao PIL is also from Deccan Chronicle, so attributions split; G.O.Ms.No.176 was not 'of 2020' (The South First, Oct 7, dates the reservation order to December 2019), wording fixed and source moved to the Oct 7 report; Justice Datta's remarks 'Under what law is this being made?' and 'Dismissed' are quoted separately as The South First reports them; headline 'upholds ruling' changed to 'dismisses appeal', which is what the court did."
+    - "The South First (Oct 7) also reports the HC held that 'citing an unapproved commission report was legally insufficient'. Not added, as it was not in the HC-day reports; editors may wish to check against the judgment."
     - "The High Court judgment and the Supreme Court order were not opened; legal reasoning is as reported by Deccan Chronicle and The South First. Pull both from the court websites before publishing."
-    - "Naidu's 9 October remarks rest on IANS copy republished by Telangana Today; no PTI or primary version was found within the search budget. The 18 August announcement date is also in PTI copy (ThePrint)."
-    - "Date mismatch: Naidu announced the quotas on 18 August (PTI, IANS); The South First gives G.O.Ms.No.105 as dated 20 August. Both kept, attributed."
+    - "Naidu's October 9 remarks rest on IANS copy republished by Telangana Today; no PTI or primary version was found within the search budget. The August 18 announcement date is also in PTI copy (ThePrint)."
+    - "Date mismatch: Naidu announced the quotas on August 18 (PTI, IANS); The South First gives G.O.Ms.No.105 as dated August 20. Both kept, attributed."
     - "No reaction from the YSR Congress Party to either verdict was found. Naidu's attack on the YSRCP is reported, but the YSRCP's own position appears only through its court petition."
     - "The SC quotes come from The South First's courtroom report; PTI reported only that the bench said the HC 'passed a reasonable order'."
     - "Research figure of 40.58 lakh pattadar passbooks left out as not relevant."
 ---
 
-The Andhra Pradesh High Court on 1 October struck down the state's new reservation for Backward Classes (BCs) in local body elections, holding that it pushed total reservation beyond the 50% ceiling set by the Supreme Court. Eight days later, the Supreme Court refused to interfere.
+The Andhra Pradesh High Court on October 1 struck down the state's new reservation for Backward Classes (BCs) in local body elections, holding that it pushed total reservation beyond the 50% ceiling set by the Supreme Court. Eight days later, the Supreme Court refused to interfere.
 
-A division bench of Chief Justice Lisa Gill and Justice Challa Gunaranjan quashed two government orders: G.O.Ms.No.105 of the Panchayat Raj Department, giving BCs 34% of seats in rural local bodies, and G.O.Ms.No.1065 of the Municipal Administration Department, giving them 33.33% in urban local bodies, The South First reported. Chief Minister N. Chandrababu Naidu had announced the quotas on 18 August, PTI reported.
+A division bench of Chief Justice Lisa Gill and Justice Challa Gunaranjan quashed two government orders: G.O.Ms.No.105 of the Panchayat Raj Department, giving BCs 34% of seats in rural local bodies, and G.O.Ms.No.1065 of the Municipal Administration Department, giving them 33.33% in urban local bodies, The South First reported. Chief Minister N. Chandrababu Naidu had announced the quotas on August 18, PTI reported.
 
 ## What the High Court said
 
@@ -92,16 +92,16 @@ It dismissed other petitions, including a PIL by AP BC Welfare Union president K
 
 ## Supreme Court dismisses the appeal
 
-The state filed a special leave petition on 3 October, The South First reported. On 9 October a bench of Justices Dipankar Datta and Sheel Nagu dismissed it, PTI reported, saying the High Court had "passed a reasonable order".
+The state filed a special leave petition on October 3, The South First reported. On October 9 a bench of Justices Dipankar Datta and Sheel Nagu dismissed it, PTI reported, saying the High Court had "passed a reasonable order".
 
 "Under what law is this being made?" Justice Datta asked during the hearing, before saying "Dismissed", according to The South First. He described the High Court's ruling as a "very reasonable approach by the High Court".
 
-This is not the first such ruling in the state. On 2 March 2020 the High Court set aside G.O.Ms.No.176, under which total local body reservation had reached 59.85%, The South First noted.
+This is not the first such ruling in the state. On March 2, 2020, the High Court set aside G.O.Ms.No.176, under which total local body reservation had reached 59.85%, The South First noted.
 
 ## Government and party responses
 
 Before the hearing, Union Minister Ram Mohan Naidu said the state had placed adequate data before the court to justify going past 50%, and that the quota would have secured about 16,800 local posts for BC candidates, The South First reported.
 
-After the dismissal, Chief Minister Naidu said the NDA would give BC candidates 34% of its seats in the local body polls. "Nevertheless, the NDA alliance will allocate 34 per cent of the seats to them," he said at Narsingolu in Prakasam district on 9 October, according to IANS. He added: "We implemented numerous changes to uplift them politically, economically, and socially." He accused the YSR Congress Party of going to court to block the earlier increase.
+After the dismissal, Chief Minister Naidu said the NDA would give BC candidates 34% of its seats in the local body polls. "Nevertheless, the NDA alliance will allocate 34 per cent of the seats to them," he said at Narsingolu in Prakasam district on October 9, according to IANS. He added: "We implemented numerous changes to uplift them politically, economically, and socially." He accused the YSR Congress Party of going to court to block the earlier increase.
 
 BC organisations want a different fix. R. Krishnaiah, Rajya Sabha member and president of the National BC Welfare Association, speaking for 14 BC groups, urged the state to press the Centre for a constitutional amendment, Deccan Chronicle reported. He questioned the basis of the 50% limit, noting that SC and ST reservation together reaches 70% to 90% in some northeastern states.

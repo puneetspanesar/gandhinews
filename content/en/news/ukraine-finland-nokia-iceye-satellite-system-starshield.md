@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Letter of intent signing on Thursday 22 Oct during Orpo visit: Al Jazeera citing DPA. Zelenskyy announcement Friday."
+    - "Letter of intent signing on Thursday, Oct 22 during Orpo visit: Al Jazeera citing DPA. Zelenskyy announcement Friday."
     - "No cost, funding or timeline given in any source; none stated."
     - "Trump quote 'If there is a problem, I'll get it straightened out' from the Al Jazeera Oleshky report."
     - "Defence Ministry source unnamed; quoted words only."
@@ -51,7 +51,7 @@ ICEYE says its satellites gather reconnaissance data regardless of weather or ti
 
 ## Starshield still patchy
 
-Ukrainian officials said on 13 October that sudden Starlink restrictions had left frontline units scrambling. Service came back, but connections have stayed unreliable. On Thursday, Donald Trump said Musk had restored Ukraine's access. "If there is a problem, I'll get it straightened out," he said.
+Ukrainian officials said on October 13 that sudden Starlink restrictions had left frontline units scrambling. Service came back, but connections have stayed unreliable. On Thursday, Donald Trump said Musk had restored Ukraine's access. "If there is a problem, I'll get it straightened out," he said.
 
 A Defence Ministry source said on Friday that "instances of signal loss are still being observed" on Starshield. Musk and Trump administration officials have blamed each other for the decision to restrict access.
 

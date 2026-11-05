@@ -54,7 +54,7 @@ sources:
 verification:
   status: verified-with-notes
   notes:
-    - "Fact-check 11 Oct 2026: Bill provisions, dates, Kovind committee and chair confirmed on PRS; 29 Jul extension on News On AIR; March extension on Rising Kashmir; 41 members, 10 states and ECI six-month claim on Sunday Guardian; Chaudhary's 2029 aim on Free Press Journal (15 Jul 2026, Lucknow)."
+    - "Fact-check Oct 11, 2026: Bill provisions, dates, Kovind committee and chair confirmed on PRS; Jul 29 extension on News On AIR; March extension on Rising Kashmir; 41 members, 10 states and ECI six-month claim on Sunday Guardian; Chaudhary's 2029 aim on Free Press Journal (Jul 15, 2026, Lucknow)."
     - "Corrected: 'extended twice' could not be confirmed (sources show at least two extensions, March and July 2026); reworded. Removed the 'phased rollout by 2034' line: the Sunday Guardian attributes it to unnamed sources describing a government option, not to the committee."
     - "The UT Laws (Amendment) Bill, 2024 PRS page was not opened."
     - "Bill provisions are from PRS's summary; the Bill text (including the new Article 82A and changes to Articles 83, 172 and 327) was not opened, so article numbers are not cited."
@@ -71,7 +71,7 @@ The idea was examined by a High-Level Committee chaired by former President Ram 
 
 ## Which Bills are before Parliament?
 
-**Two Bills introduced in the Lok Sabha on 17 December 2024: the Constitution (129th Amendment) Bill, 2024 and the Union Territories Laws (Amendment) Bill, 2024.** The first amends the Constitution for the Lok Sabha and state assemblies. The second applies the same scheme to Union Territories with legislatures. PRS lists the first under the Ministry of Law and Justice. Both were sent to the same Joint Parliamentary Committee, which received the constitutional amendment on 19 December 2024.
+**Two Bills introduced in the Lok Sabha on December 17, 2024: the Constitution (129th Amendment) Bill, 2024 and the Union Territories Laws (Amendment) Bill, 2024.** The first amends the Constitution for the Lok Sabha and state assemblies. The second applies the same scheme to Union Territories with legislatures. PRS lists the first under the Ministry of Law and Justice. Both were sent to the same Joint Parliamentary Committee, which received the constitutional amendment on December 19, 2024.
 
 ## How would simultaneous elections work under the Bill?
 
@@ -91,20 +91,20 @@ The idea was examined by a High-Level Committee chaired by former President Ram 
 
 ## What does the Constitution amendment need to pass?
 
-**At least two-thirds of the members present and voting.** The bar is high. In April 2026, another constitutional amendment, on delimitation, won 298 votes to 230 in the Lok Sabha and still failed, because it needed 352 (LiveLaw, 17 April 2026).
+**At least two-thirds of the members present and voting.** The bar is high. In April 2026, another constitutional amendment, on delimitation, won 298 votes to 230 in the Lok Sabha and still failed, because it needed 352 (LiveLaw, April 17, 2026).
 
 ## Where does the joint committee stand?
 
-**Its deadline has been extended, most recently on 29 July 2026, and it now has until the Winter Session 2026.** The committee has 41 members, the Sunday Guardian reported, and is chaired by P.P. Chaudhary.
+**Its deadline has been extended, most recently on July 29, 2026, and it now has until the Winter Session 2026.** The committee has 41 members, the Sunday Guardian reported, and is chaired by P.P. Chaudhary.
 
 ```timeline
-{"title":"One Nation One Election Bills","items":[{"date":"Sep 2023","text":"Government sets up the High-Level Committee chaired by Ram Nath Kovind."},{"date":"Mar 2024","text":"Kovind committee report recommends simultaneous Lok Sabha and assembly polls, with local body polls within 100 days."},{"date":"17 Dec 2024","text":"Both Bills introduced in the Lok Sabha."},{"date":"19 Dec 2024","text":"Bills referred to a Joint Parliamentary Committee chaired by P.P. Chaudhary."},{"date":"Mar 2026","text":"Lok Sabha extends the committee's deadline to the Monsoon Session 2026."},{"date":"Jul 2026","text":"Committee has visited 10 states and seeks views from all states (Sunday Guardian)."},{"date":"29 Jul 2026","text":"Deadline extended again, to the first day of the last week of the Winter Session 2026."}]}
+{"title":"One Nation One Election Bills","items":[{"date":"Sep 2023","text":"Government sets up the High-Level Committee chaired by Ram Nath Kovind."},{"date":"Mar 2024","text":"Kovind committee report recommends simultaneous Lok Sabha and assembly polls, with local body polls within 100 days."},{"date":"Dec 17, 2024","text":"Both Bills introduced in the Lok Sabha."},{"date":"Dec 19, 2024","text":"Bills referred to a Joint Parliamentary Committee chaired by P.P. Chaudhary."},{"date":"Mar 2026","text":"Lok Sabha extends the committee's deadline to the Monsoon Session 2026."},{"date":"Jul 2026","text":"Committee has visited 10 states and seeks views from all states (Sunday Guardian)."},{"date":"Jul 29, 2026","text":"Deadline extended again, to the first day of the last week of the Winter Session 2026."}]}
 ```
 
 By mid-July 2026 the committee had visited 10 states, and it wants to hear from all of them, the Sunday Guardian reported. The Election Commission has told the committee it could hold simultaneous elections within six months of the law being enacted, according to the same report.
 
 ## When could it take effect?
 
-**Not before the committee reports and Parliament passes the Bills, and no date has been set.** The Bill links the start of the scheme to the first sitting of a Lok Sabha after a general election, so the earliest practical start depends on when the Bills pass relative to the next general election. Speaking in Lucknow on 15 July 2026, Chaudhary said the objective was to hold Lok Sabha and assembly elections together in 2029, the Free Press Journal reported. That is his stated aim. Parliament has not passed the Bills, and the committee has not yet published its findings.
+**Not before the committee reports and Parliament passes the Bills, and no date has been set.** The Bill links the start of the scheme to the first sitting of a Lok Sabha after a general election, so the earliest practical start depends on when the Bills pass relative to the next general election. Speaking in Lucknow on July 15, 2026, Chaudhary said the objective was to hold Lok Sabha and assembly elections together in 2029, the Free Press Journal reported. That is his stated aim. Parliament has not passed the Bills, and the committee has not yet published its findings.
 
 As of October 2026, the Winter Session's dates had not been announced. When the committee reports, its recommendations will guide Parliament but will not bind it.

@@ -37,10 +37,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "Fico's remarks (16 Oct) are paraphrased in Kyiv Independent via Slovak agency TASR; no direct Fico quote available, so none used."
+    - "Fico's remarks (Oct 16) are paraphrased in Kyiv Independent via Slovak agency TASR; no direct Fico quote available, so none used."
     - "Magyar's position rests on Fico's account only; written as Fico's claim. Babiš 'signalled' per Kyiv Independent."
     - "Summit conclusions text not found in any source opened; copy says only that no consensus was reached on the €70 billion, per Kyiv Independent."
-    - "€155 billion war cost, €90 billion loan and €45 billion 2027 disbursement carried from our 16 Oct story zelenskyy-asks-eu-70-billion-trump-disgrace-row."
+    - "€155 billion war cost, €90 billion loan and €45 billion 2027 disbursement carried from our Oct 16 story zelenskyy-asks-eu-70-billion-trump-disgrace-row."
 ---
 
 Slovakia will not take part in the extra €70 billion that Ukraine has asked the European Union for, Prime Minister Robert Fico said, as an EU summit in Brussels ended without agreement on the money.

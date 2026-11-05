@@ -40,7 +40,7 @@ Kenya has confirmed its eighth case of Ebola, a 49-year-old man who worked as a 
 
 Health Director-General Patrick Amoth said the man was the only positive result among 38 people tested on Sunday. He had developed fever, headache and muscle pain. Unlike several of the recent cases, he is not a health worker; his job was cleaning utensils and linens.
 
-The new case follows four confirmed on Saturday. Three of those were health workers who had treated Kenya's first patient, a man who travelled from the Democratic Republic of the Congo and died at a Nairobi hospital on 5 October. The fourth was a relative of that patient.
+The new case follows four confirmed on Saturday. Three of those were health workers who had treated Kenya's first patient, a man who travelled from the Democratic Republic of the Congo and died at a Nairobi hospital on October 5. The fourth was a relative of that patient.
 
 The outbreak is of the Bundibugyo strain, for which there is no vaccine and no specific treatment.
 

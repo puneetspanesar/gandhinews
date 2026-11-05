@@ -6,19 +6,19 @@ section: policy
 format_label: Policy / Environment
 topics: [supreme-court]
 title: "'What does religion have to do with firecrackers?' Supreme Court weighs festive curbs"
-standfirst: "The Chief Justice said the court would not hurt religious sentiments and favoured awareness over bans. Suggestions go to the air quality commission and the case returns on 15 October."
+standfirst: "The Chief Justice said the court would not hurt religious sentiments and favoured awareness over bans. Suggestions go to the air quality commission and the case returns on October 15."
 published: 2026-10-12T20:00:00+05:30
 location: New Delhi
 keyPoints:
   - "Justice Joymalya Bagchi **questioned the religious argument** for bursting crackers."
   - "Chief Justice Surya Kant favoured **limited hours and safer crackers** over coercive orders."
-  - "Suggestions will go to the **Commission for Air Quality Management**; the case is back on 15 October."
+  - "Suggestions will go to the **Commission for Air Quality Management**; the case is back on October 15."
 hero:
   need: "Smog over Delhi or festive fireworks in Delhi at night"
   suggested_source: "Delhi smog India Gate"
   alt: "Smog over India Gate in New Delhi"
   overlay:
-    value: "Crackers case back on 15 October"
+    value: "Crackers case back on October 15"
 related: []
 seo:
   description: "Supreme Court hears Delhi-NCR pollution case on firecrackers. Justice Bagchi asks what religion has to do with crackers; CJI favours awareness, limited hours."
@@ -50,4 +50,4 @@ Senior Advocate J. Sai Deepak, for a federation of fireworks traders, pointed to
 
 Chief Justice Surya Kant said restrictive orders were often seen as coercive and that the better course was for people to reflect and be made aware. He suggested publicising which crackers are harmful, asking people to keep bursting to certain hours, making sure only certain kinds of crackers reach the market and restricting the sale of harmful ones. He also encouraged people to light only diyas.
 
-The bench, which also included Justice V. Mohana, directed that suggestions be sent to the CAQM and posted the matter for 15 October.
+The bench, which also included Justice V. Mohana, directed that suggestions be sent to the CAQM and posted the matter for October 15.

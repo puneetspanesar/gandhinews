@@ -22,7 +22,7 @@ hero:
     value: "Sensex 500 points off day's high"
 related: [sensex-holds-924-points-midday-nifty-23360-reliance-8-per-cent, sensex-1030-points-nifty-23330-day-high-reliance-quarter-of-gains, sensex-jumps-970-nifty-23313-oil-reliance-open-november-2, reliance-shares-jump-6-per-cent-q2-profit-o2c-jio, bank-of-baroda-shares-5-per-cent-record-q2-profit]
 seo:
-  description: "Stock market today, 2 November 2026: Sensex at 75,111.79 (+652) and Nifty at 23,247.40 (+194) at 2 pm, off the day's highs as IT shares fell, while Dixon, NTPC and SBI rose."
+  description: "Stock market today, November 2, 2026: Sensex at 75,111.79 (+652) and Nifty at 23,247.40 (+194) at 2 pm, off the day's highs as IT shares fell, while Dixon, NTPC and SBI rose."
 cover:
   template: business
   label: "Markets"
@@ -57,7 +57,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov 12:00 to 14:00 IST index readings (Business Standard live blog): 12:00 Sensex 75,322.92 (+863.39), Nifty 23,305.85 (+252.75); 13:00 Sensex 75,225.60 (+766.07), Nifty 23,284.50 (+231.40); 13:40 Sensex 75,052.51 (+593); 14:00 Sensex 75,111.79 (+652.26, 0.88%), Nifty 23,247.40 (+194.30, 0.84%)."
+    - "event: Nov 2 12:00 to 14:00 IST index readings (Business Standard live blog): 12:00 Sensex 75,322.92 (+863.39), Nifty 23,305.85 (+252.75); 13:00 Sensex 75,225.60 (+766.07), Nifty 23,284.50 (+231.40); 13:40 Sensex 75,052.51 (+593); 14:00 Sensex 75,111.79 (+652.26, 0.88%), Nifty 23,247.40 (+194.30, 0.84%)."
     - "Upstox (updated 13:49 IST): at 13:37 Sensex 75,035.42 (+575.89), Nifty 23,221.40 (+168.30); Sensex intraday high 75,557.06, Nifty high 23,360.50. Earlier site story gave Sensex high 75,489.70 from a mid-morning source; 75,557.06 is the later, higher reading."
     - "Nifty IT 'down nearly 1%' from BS headline (no exact figure). Losers list (Infosys, Sun Pharma, ICICI Bank, Adani Ports, Axis Bank) from Upstox without percentages."
     - "NTPC profit: BS says +39% to Rs 7,030 cr, Upstox +40.68% to Rs 7,350.8 cr (likely standalone vs consolidated, unclear), so copy says 'close to 40%' without a rupee figure. NTPC +3.7% to Rs 328 at 13:20 IST."

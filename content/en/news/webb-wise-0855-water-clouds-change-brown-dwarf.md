@@ -32,9 +32,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single secondary source (Earth.com, 22 Oct), which reports a University of Arizona-led study accepted by The Astrophysical Journal (arXiv preprint). Paper and university release not read directly; editor may want to check."
+    - "Single secondary source (Earth.com, Oct 22), which reports a University of Arizona-led study accepted by The Astrophysical Journal (arXiv preprint). Paper and university release not read directly; editor may want to check."
     - "Lead researcher given only as 'Miles', postdoctoral researcher at Steward Observatory; first name not in source, so quoted by surname with role."
-    - "Observation date 2 December 2023 per source. Published time 11:10 am IST is an estimate of when the coverage appeared."
+    - "Observation date December 2, 2023, per source. Published time 11:10 am IST is an estimate of when the coverage appeared."
 ---
 
 The James Webb Space Telescope has watched the weather change on WISE 0855, the coldest brown dwarf yet found, and the clouds that come and go there appear to be made of water.
@@ -45,7 +45,7 @@ A team led by the University of Arizona says it is the first time variable water
 
 ## Eleven hours of weather
 
-Webb pointed its Near-Infrared Spectrograph at the object for 11 hours on 2 December 2023, recording a spectrum every 15 minutes, 44 in all. The changes are best explained by a layer of patchy, high-altitude water clouds whose thickness shifts across the surface.
+Webb pointed its Near-Infrared Spectrograph at the object for 11 hours on December 2, 2023, recording a spectrum every 15 minutes, 44 in all. The changes are best explained by a layer of patchy, high-altitude water clouds whose thickness shifts across the surface.
 
 WISE 0855 sits about 7.5 light-years from the Sun. At roughly 265 kelvin, about minus 8°C, it is colder than many winter days on Earth. Its mass is put at about twice that of Jupiter or a few times more, which places it near the line between brown dwarfs, sometimes called failed stars, and giant planets.
 

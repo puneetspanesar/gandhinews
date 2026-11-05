@@ -72,7 +72,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Event time: House projections by NBC News Decision Desk, CBS and CNBC came overnight US time, before about 9:00 am IST on 4 Nov (headlines seen in search results; NBC/CNBC/CBS pages themselves blocked or cached pre-results). Senate details from Reuters copy on ThePrint, published 03:30 UTC (9:00 IST). No exact House seat tally available; no Trump, Jeffries or Thune reaction to the results found in pages read, so none quoted. India trade/tariff angle not covered by any page read; omitted. Florida Senate (Moody v Nixon) not called in sources."
+    - "Event time: House projections by NBC News Decision Desk, CBS and CNBC came overnight US time, before about 9:00 am IST on Nov 4 (headlines seen in search results; NBC/CNBC/CBS pages themselves blocked or cached pre-results). Senate details from Reuters copy on ThePrint, published 03:30 UTC (9:00 IST). No exact House seat tally available; no Trump, Jeffries or Thune reaction to the results found in pages read, so none quoted. India trade/tariff angle not covered by any page read; omitted. Florida Senate (Moody v Nixon) not called in sources."
 ---
 
 Democrats are **projected to win control of the House of Representatives**, the main US television networks projected early on Wednesday India time, ending the Republican hold on both chambers of Congress that President Donald Trump has enjoyed since January 2025. Hakeem Jeffries, the House Democratic leader, is in line to become Speaker when the new Congress meets.

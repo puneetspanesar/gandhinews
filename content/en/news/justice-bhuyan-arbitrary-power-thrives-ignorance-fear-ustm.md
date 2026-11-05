@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: Bar & Bench (Debayan Roy), 1 Nov 2026, 1:45 pm. Speech given on 'Saturday' (31 Oct) at USTM's 12th convocation; venue not stated, so location given as Meghalaya only."
+    - "Single source: Bar & Bench (Debayan Roy), Nov 1, 2026, 1:45 pm. Speech given on 'Saturday' (Oct 31) at USTM's 12th convocation; venue not stated, so location given as Meghalaya only."
     - "All quotes verbatim from Bar & Bench. Not posted on the site earlier; carried in the Monday morning run as a late-weekend item."
 cover:
   template: speaker

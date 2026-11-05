@@ -22,7 +22,7 @@ hero:
     value: "Diplomats' cars stoned in olive groves"
 related: [west-bank-olive-harvest-settler-attacks-israeli-election, settlers-set-fire-to-mosque-mikhmas-west-bank, wang-yi-tells-herzog-reverse-west-bank-settlements]
 seo:
-  description: "Settlers attacked Belgian, French and Polish diplomats near Taybeh in the West Bank on 17 October; a French mayor was assaulted and Belgium seeks more EU sanctions."
+  description: "Settlers attacked Belgian, French and Polish diplomats near Taybeh in the West Bank on October 17; a French mayor was assaulted and Belgium seeks more EU sanctions."
 sources:
   - title: "Israeli settlers attack European diplomats during West Bank olive harvest"
     publisher: "Al Jazeera"
@@ -47,7 +47,7 @@ verification:
     - "Prevot quote verbatim as carried by Al Jazeera; Barrot's 'extremist settlers' and 'violently assaulted' are fragments of his post."
     - "Al Jazeera headline says 'European diplomats'; Catholic representatives also in group per Prevot."
     - "Photojournalist paragraph rests on headlines only (Al Jazeera, Tribune); details not read."
-    - "Exact time of incident on 17 Oct not given; published time set at evening IST."
+    - "Exact time of incident on Oct 17 not given; published time set at evening IST."
 ---
 
 Israeli settlers surrounded a convoy of European diplomats visiting Palestinian olive harvesters near the West Bank village of Taybeh on Saturday, pelting their vehicles with stones and smashing windows. A French mayor travelling with them was assaulted.

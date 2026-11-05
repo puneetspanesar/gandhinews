@@ -22,7 +22,7 @@ hero:
     value: "Oslo first, then Putin"
 related: [zelenskyy-witkoff-kushner-call-war-must-end-starshield, zelenskyy-us-proposes-trilateral-putin-summit-december, zelenskyy-asks-eu-70-billion-trump-disgrace-row]
 seo:
-  description: "Steve Witkoff meets Volodymyr Zelenskyy in Oslo on 20 October with Norway's Støre and Finland's Stubb, before an expected trip to meet Vladimir Putin."
+  description: "Steve Witkoff meets Volodymyr Zelenskyy in Oslo on October 20 with Norway's Støre and Finland's Stubb, before an expected trip to meet Vladimir Putin."
 sources:
   - title: "Witkoff and Kushner to take part in meetings in Oslo"
     publisher: "Government of Norway, Office of the Prime Minister"
@@ -47,9 +47,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Meeting confirmed by Norwegian PM's office (page modified 08:32 GMT, 20 Oct): 'being held in Oslo today'. No outcome found by 3:30 pm IST; copy keeps it in present tense."
+    - "Meeting confirmed by Norwegian PM's office (page modified 08:32 GMT, Oct 20): 'being held in Oslo today'. No outcome found by 3:30 pm IST; copy keeps it in present tense."
     - "Støre quotes verbatim from regjeringen.no (AI-assisted English translation of Norwegian, per the page) and Shelter."
-    - "Onward trip: Euronews says Moscow; NYT (via NV) says St Petersburg on 21 Oct. Copy says 'Russia'. Hubbard release angle from Euronews ('reportedly'); NYT says release of 'a long-detained American'."
+    - "Onward trip: Euronews says Moscow; NYT (via NV) says St Petersburg on Oct 21. Copy says 'Russia'. Hubbard release angle from Euronews ('reportedly'); NYT says release of 'a long-detained American'."
     - "E4, EU, NATO attendance: Euronews and Axios (via NV), 'expected'. Kushner ill: Axios via NV, not used beyond 'remotely'."
     - "Zelenskyy X quote on interceptors and Starlink/Starshield 'needs to be restored' from Euronews."
     - "Trump pressure on Donbas: NYT via NV, sourced to unnamed people; hedged."

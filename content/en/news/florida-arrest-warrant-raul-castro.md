@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Details and all quotes from WUSF (published 5:00 am EDT, 20 Oct). Announcement was at FIU on Monday 19 Oct (US time). WaPo and Local 10 headlines corroborate the warrant and murder charge; their bodies not read."
+    - "Details and all quotes from WUSF (published 5:00 am EDT, Oct 20). Announcement was at FIU on Monday, Oct 19 (US time). WaPo and Local 10 headlines corroborate the warrant and murder charge; their bodies not read."
     - "Judge not named in sources read. No Cuban government reaction found."
     - "Federal indictment: WUSF links a May 2026 report."
 ---

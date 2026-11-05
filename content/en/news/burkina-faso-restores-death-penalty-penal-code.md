@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: HRW statement by Ilaria Allegrozzi (21 Oct), via AllAfrica. Date of the parliamentary vote not stated; copy avoids naming a day. Bayala's argument is paraphrased (no verbatim quote available)."
+    - "Single source: HRW statement by Ilaria Allegrozzi (Oct 21), via AllAfrica. Date of the parliamentary vote not stated; copy avoids naming a day. Bayala's argument is paraphrased (no verbatim quote available)."
 ---
 
 Burkina Faso has restored the death penalty, eight years after abolishing it for ordinary crimes, as the country's military rulers tighten their grip in the name of fighting armed groups.

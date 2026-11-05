@@ -21,7 +21,7 @@ hero:
     value: "One game, one series, Saturday 7 pm"
 related: [india-west-indies-bengaluru-decider-arshdeep-doubt, india-west-indies-fourth-t20i-hyderabad-result, india-beat-west-indies-by-14-runs-in-indore-t20i, modi-hosts-asian-games-champions-iyer-harmanpreet-delhi]
 seo:
-  description: "India v West Indies fifth T20I preview: Arshdeep Singh's fitness, dew and a small Chinnaswamy ground as the series is decided in Bengaluru on Saturday 17 October."
+  description: "India v West Indies fifth T20I preview: Arshdeep Singh's fitness, dew and a small Chinnaswamy ground as the series is decided in Bengaluru on Saturday, October 17."
 sources:
   - title: "India vs West Indies 5th T20I Preview, Probable Playing XI, Date, Time & Who Will Win?"
     publisher: "Sports Digest"
@@ -72,13 +72,13 @@ verification:
   status: approved
   notes:
     - "Start time 7 pm IST: Sports Digest and Wisden match info; Wisden header also shows 1:30 pm. Went with 7 pm."
-    - "No BCCI medical update on Arshdeep found as of early 16 Oct. Medical assessment claim is CricInformer only; written as 'expected to be assessed'. Harshit Rana injury also CricInformer only."
+    - "No BCCI medical update on Arshdeep found as of early Oct 16. Medical assessment claim is CricInformer only; written as 'expected to be assessed'. Harshit Rana injury also CricInformer only."
     - "Where Arshdeep was hit varies: shoulder (most reports) or left bicep/arm (The Cricket News). Copy says arm and shoulder, as SportsTak does."
     - "Weather figures (23C at 7 pm, 22C by 10 pm, 85% humidity) and boundary sizes (54m square, 70m straight): The Cricket News via Yahoo only. Wisden lists rain in the forecast."
     - "India's record at the venue (8 T20Is, 4 won, 3 lost, 1 abandoned, all wins batting first): Possible11 only. Venue-wide totals differ between sources (9 vs 10 matches) so left out."
     - "India v Afghanistan Jan 2024 tie (212/4 each, Super Over): Yahoo and Possible11 agree."
-    - "NZ tour dates (T20Is from 22 Oct at Hagley Oval): The Cricket News only."
-    - "Gavaskar remarks were on air during the fourth T20I on 14 Oct, reported 15 Oct."
+    - "NZ tour dates (T20Is from Oct 22 at Hagley Oval): The Cricket News only."
+    - "Gavaskar remarks were on air during the fourth T20I on Oct 14, reported Oct 15."
 ---
 
 India and West Indies will decide their five-match T20I series at the M Chinnaswamy Stadium on Saturday night, and the questions hanging over the home side have barely changed since Hyderabad: who bowls the hard overs, and is Arshdeep Singh fit to bowl any of them.
@@ -109,4 +109,4 @@ That would cut against India's own history at the ground. They have played eight
 
 ## What comes next
 
-The winner takes the series, and neither side gets long to dwell on it. India's next assignment is a five-match T20I series in New Zealand that starts at Hagley Oval in Christchurch on 22 October. Arshdeep is in that 16-man squad too, which gives the selectors a reason to be careful with him on Saturday.
+The winner takes the series, and neither side gets long to dwell on it. India's next assignment is a five-match T20I series in New Zealand that starts at Hagley Oval in Christchurch on October 22. Arshdeep is in that 16-man squad too, which gives the selectors a reason to be careful with him on Saturday.

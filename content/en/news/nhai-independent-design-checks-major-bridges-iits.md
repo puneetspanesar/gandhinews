@@ -12,7 +12,7 @@ location: New Delhi
 keyPoints:
   - "Designs of major bridges will be checked by **empanelled IITs, government institutions and expert firms**."
   - "The rule covers river bridges with a design discharge of **3,000 cubic metres a second or more**."
-  - "It takes effect on **1 December 2026** for new EPC, HAM and BOT projects."
+  - "It takes effect on **December 1, 2026** for new EPC, HAM and BOT projects."
 hero:
   need: "A major river bridge on a national highway in India"
   suggested_source: "Bhupen Hazarika Setu"
@@ -21,7 +21,7 @@ hero:
     value: "A second pair of eyes on every big bridge"
 related: []
 seo:
-  description: "From 1 December 2026, designs of major NHAI bridges and critical highway structures will be checked independently by empanelled IITs, institutions and expert firms."
+  description: "From December 1, 2026, designs of major NHAI bridges and critical highway structures will be checked independently by empanelled IITs, institutions and expert firms."
 sources:
   - title: "NHAI Introduces Independent Checking of Designs of Major Bridges and Critical National Highway Structures"
     publisher: "PIB (Ministry of Road Transport & Highways)"
@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single official source: PIB release posted 15 Oct, 5:02 pm IST. No named official or quote in the release."
+    - "Single official source: PIB release posted Oct 15, 5:02 pm IST. No named official or quote in the release."
     - "Hero suggestion (Bhupen Hazarika Setu) is illustrative only; the policy does not name any bridge."
 ---
 
@@ -49,4 +49,4 @@ The checks will cover structural design calculations, structural analysis, drawi
 
 The contractor or concessionaire will submit designs as now. NHAI will then propose three institutions or firms from its panel, and one or more will be picked to verify the design independently. Their observations go back to the contractor, who must make the changes needed before NHAI reviews or approves the design under the contract.
 
-The policy takes effect on 1 December 2026. It will apply to all new EPC, hybrid annuity and build-operate-transfer highway projects, and to projects where design verification or proof checking has not yet started. Projects where those checks are done will generally be left out, though NHAI may order extra verification for major bridges and complex structures.
+The policy takes effect on December 1, 2026. It will apply to all new EPC, hybrid annuity and build-operate-transfer highway projects, and to projects where design verification or proof checking has not yet started. Projects where those checks are done will generally be left out, though NHAI may order extra verification for major bridges and complex structures.

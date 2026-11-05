@@ -22,7 +22,7 @@ hero:
     value: "Top nine and the title is his"
 related: [mexico-grand-prix-qualifying-hamilton-pole-antonelli-fourth, antonelli-wins-austin-grand-prix-brink-of-title-mexico]
 seo:
-  description: "Kimi Antonelli needs ninth place or better at the 2026 Mexico City Grand Prix, starting 1:30 am IST on 2 November, to clinch the F1 title. Hamilton starts on pole."
+  description: "Kimi Antonelli needs ninth place or better at the 2026 Mexico City Grand Prix, starting 1:30 am IST on November 2, to clinch the F1 title. Hamilton starts on pole."
 sources:
   - title: "Hamilton's Ferrari breakthrough, Antonelli's title chance and a reshuffled grid: Five Mexico GP storylines"
     publisher: "Grande Prêmio"
@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: preview; race starts 1 Nov 14:00 local (20:00 GMT) = 2 Nov 01:30 IST, after the window. Grid and penalties confirmed 1 Nov (RacingNews365 07:20 CET, Grande Premio 14:10 UTC)."
+    - "event: preview; race starts Nov 1 14:00 local (20:00 GMT) = Nov 2 01:30 IST, after the window. Grid and penalties confirmed Nov 1 (RacingNews365 07:20 CET, Grande Premio 14:10 UTC)."
     - "123-point lead and 'ninth or better guarantees the title' from Grande Premio only. 'Youngest world champion' from RacingNews365."
     - "Bottas 50-place penalty reason not given in source; mentioned without reason. Alonso start not confirmed by Aston Martin at time of sources; left out."
     - "No direct driver quotes in the sources."

@@ -71,9 +71,9 @@ The 10-year US Treasury yield stayed near 5.24%, close to its highest level sinc
 
 > I see inflation pressures as relatively broad-based rather than concentrated in one component.
 >
-> Source: Beth Hammack, President, Federal Reserve Bank of Cleveland, 12 October 2026
+> Source: Beth Hammack, President, Federal Reserve Bank of Cleveland, October 12, 2026
 
-The Fed next meets on 27-28 October. JPMorgan, Goldman Sachs and Citi report results on Tuesday, opening the US earnings season.
+The Fed next meets on October 27-28. JPMorgan, Goldman Sachs and Citi report results on Tuesday, opening the US earnings season.
 
 "Persistent geopolitical risk and uncertainty about global monetary policy continue to plague the market," said Kyle Rodda, senior financial market analyst at Capital.com.
 

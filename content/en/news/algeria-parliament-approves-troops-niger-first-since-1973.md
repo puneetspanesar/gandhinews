@@ -22,7 +22,7 @@ hero:
     value: "First mission abroad since 1973"
 related: []
 seo:
-  description: "Algeria's parliament on 25 October approved sending army units to Niger to guard oil and energy sites, the country's first foreign deployment since 1973."
+  description: "Algeria's parliament on October 25 approved sending army units to Niger to guard oil and energy sites, the country's first foreign deployment since 1973."
 sources:
   - title: "Lower House MPs approve by majority President of the Republic's notification on deployment of Army units to Niger"
     publisher: "Algérie Presse Service"

@@ -12,7 +12,7 @@ location: Srinagar
 keyPoints:
   - "Farooq Abdullah said the J&K cabinet will be **expanded after Lt Governor Manoj Sinha returns**."
   - "He said the delay was because **the Lieutenant Governor was unwell**."
-  - "The National Conference-led government **completed two years on 16 October**."
+  - "The National Conference-led government **completed two years on October 16**."
 hero:
   need: "National Conference president Farooq Abdullah"
   suggested_source: "Farooq Abdullah"
@@ -22,7 +22,7 @@ hero:
     value: "Expansion when the LG is back"
 related: [jk-circular-economy-policy-2026-omar-abdullah, jk-ias-officer-abuses-jkas-officer-omar-abdullah-protection]
 seo:
-  description: "Farooq Abdullah said on 19 October in Budgam that Omar Abdullah's Jammu and Kashmir cabinet will be expanded after Lt Governor Manoj Sinha, who was unwell, returns."
+  description: "Farooq Abdullah said on October 19 in Budgam that Omar Abdullah's Jammu and Kashmir cabinet will be expanded after Lt Governor Manoj Sinha, who was unwell, returns."
 sources:
   - title: "Cabinet expansion after LG's return, says Farooq Abdullah"
     publisher: "UNI"
@@ -45,7 +45,7 @@ The expansion of Chief Minister Omar Abdullah's council of ministers in Jammu an
 
 "The Lieutenant Governor was not well. He was sick," Abdullah told reporters in Budgam district, near Srinagar. "When the Lieutenant Governor comes, there will be an expansion of the government."
 
-The remarks come amid speculation over the long-awaited move to fill the remaining places in his cabinet. The National Conference-led government took office in October 2024 after the first Assembly election since the former state was split and made a Union Territory, and it completed two years on 16 October.
+The remarks come amid speculation over the long-awaited move to fill the remaining places in his cabinet. The National Conference-led government took office in October 2024 after the first Assembly election since the former state was split and made a Union Territory, and it completed two years on October 16.
 
 Under the Union Territory arrangement, ministers are appointed by the Lieutenant Governor on the advice of the Chief Minister, which is why the timing depends on Sinha.
 

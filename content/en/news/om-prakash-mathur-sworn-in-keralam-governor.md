@@ -22,7 +22,7 @@ hero:
     value: "Keralam's 29th Governor"
 related: [satheesan-invites-raihan-vadra-exhibition-kerala-bikaner-house]
 seo:
-  description: "Om Prakash Mathur was sworn in as the 29th Governor of Keralam on 23 October 2026 by Chief Justice Soumen Sen, succeeding Rajendra Arlekar."
+  description: "Om Prakash Mathur was sworn in as the 29th Governor of Keralam on October 23, 2026, by Chief Justice Soumen Sen, succeeding Rajendra Arlekar."
 sources:
   - title: "Om Prakash Mathur Sworn In As 29th Governor Of Keralam"
     publisher: "ETV Bharat"
@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Ceremony details from ETV Bharat only; no direct quotes available. Reshuffle date 12 Oct per ETV and Statesman URL date."
+    - "Ceremony details from ETV Bharat only; no direct quotes available. Reshuffle date Oct 12 per ETV and Statesman URL date."
 ---
 
 Om Prakash Mathur was sworn in as the 29th Governor of Keralam on Friday at a ceremony at the Lok Bhavan auditorium in Thiruvananthapuram.
@@ -46,7 +46,7 @@ Chief Justice Soumen Sen of the High Court administered the oath at about 12:30 
 
 Mathur reached the capital on Thursday, when Satheesan led the welcome at the airport along with the Chief Secretary, Thiruvananthapuram Mayor V V Rajesh and senior police officers.
 
-He succeeds Rajendra Arlekar, who was named Governor of Tamil Nadu when the President reshuffled governors in six states on 12 October. Mathur himself had been Governor of Sikkim since July 2024.
+He succeeds Rajendra Arlekar, who was named Governor of Tamil Nadu when the President reshuffled governors in six states on October 12. Mathur himself had been Governor of Sikkim since July 2024.
 
 Born in Bedal village in Bali tehsil of Rajasthan's Pali district, Mathur began public life as a Rashtriya Swayamsevak Sangh pracharak in 1972. He went on to hold several posts in the BJP, including president of its Rajasthan unit, represented Rajasthan in the Rajya Sabha and was in charge of the party's organisation in Gujarat.
 

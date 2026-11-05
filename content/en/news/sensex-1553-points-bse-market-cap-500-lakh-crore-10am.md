@@ -39,10 +39,10 @@ infographic:
     - {icon: trend-up, value: "+1,644", label: "Sensex points in afternoon trade, to 78,945"}
     - {icon: trend-up, value: "+467", label: "Nifty 50 points in afternoon trade, to 24,428"}
     - {icon: currency-inr, value: "₹500.82 lakh cr", label: "BSE market value, from ₹494.42 lakh crore"}
-  source: "BSE and NSE data, 5 November 2026"
+  source: "BSE and NSE data, November 5, 2026"
 related: [sensex-1623-points-pre-open-nifty-24378-brent-below-100, lenskart-q2-profit-doubles-jyothy-labs-buyback, nykaa-physicswallah-q2-profit-nearly-triples-doubles, wall-street-dow-1569-best-day-since-april-2025-democrats-congress-oil]
 seo:
-  description: "Stock market today, 5 November 2026: Sensex rises 1,553 points to 78,854 and Nifty 428 points to 24,388 by 10 am; BSE market capitalisation crosses ₹500 lakh crore; Lenskart jumps 10.6%."
+  description: "Stock market today, November 5, 2026: Sensex rises 1,553 points to 78,854 and Nifty 428 points to 24,388 by 10 am; BSE market capitalisation crosses ₹500 lakh crore; Lenskart jumps 10.6%."
 sources:
   - title: "Sensex surges 1,644 points, Nifty advances 467 points in afternoon trade"
     publisher: "All India Radio News"
@@ -62,7 +62,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 5 Nov 09:17-10:00 IST. BS live: 9:17 Sensex opens +1,329 (1.72%) at 78,630; 9:19 Nifty opens +403; 9:21 all Sensex stocks up except Bharti Airtel (ahead of Q2 results); 9:35 Lenskart +10.6% to Rs 762.75, 52-week high, Q2FY27 profit +122.1% to Rs 227.1 cr; 9:45 Nykaa -3.3% to Rs 343.70 despite profit +207% to Rs 101 cr; 9:56 BSE m-cap Rs 500.82 trillion from Rs 494.42 trillion; 10:00 Sensex 78,854.23 +1,552.83 (2.01%), Nifty 24,388.40 +427.80 (1.79%). BS 10:00 entry wrongly says 'fell'; numbers show a rise."
+    - "event: Nov 5 09:17-10:00 IST. BS live: 9:17 Sensex opens +1,329 (1.72%) at 78,630; 9:19 Nifty opens +403; 9:21 all Sensex stocks up except Bharti Airtel (ahead of Q2 results); 9:35 Lenskart +10.6% to Rs 762.75, 52-week high, Q2FY27 profit +122.1% to Rs 227.1 cr; 9:45 Nykaa -3.3% to Rs 343.70 despite profit +207% to Rs 101 cr; 9:56 BSE m-cap Rs 500.82 trillion from Rs 494.42 trillion; 10:00 Sensex 78,854.23 +1,552.83 (2.01%), Nifty 24,388.40 +427.80 (1.79%). BS 10:00 entry wrongly says 'fell'; numbers show a rise."
     - "ETV Bharat/PTI 9:49: Sensex +1,486.39 at 78,787.79, Nifty +415.75 at 24,376.35, Bank Nifty +1.71% at 56,867.80, Nifty Cement +2.74%, Realty +2.24%, Midcap 100 +1.24%, Smallcap 100 +1.26%."
     - "BS 9:21 entry lists IndiGo as top performer 'after a 5% decline', contradictory; left out. Oil 'below $95' at 9:17 without benchmark; not used. Rupee 94.36 (BS 9:01) already in pre-open story."
 ---

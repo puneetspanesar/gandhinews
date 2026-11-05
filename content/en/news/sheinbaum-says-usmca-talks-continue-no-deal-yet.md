@@ -43,7 +43,7 @@ verification:
   notes:
     - "Quotes translated by the desk from Spanish as carried by López-Dóriga Digital and Latinus; the official presidency transcript was not opened."
     - "Trump's Clarksville remarks are paraphrased from Latinus ('no necesitan a Canadá'; intention to replace the T-MEC with a bilateral deal with Mexico). No direct English quote of Trump found; none used."
-    - "Clarksville, Tennessee rally on the weekend confirmed by Everything Briefing (12 Oct)."
+    - "Clarksville, Tennessee rally on the weekend confirmed by Everything Briefing (Oct 12)."
 ---
 
 Mexican President Claudia Sheinbaum said on Monday that the North American free trade agreement is not coming to an end, after President Donald Trump suggested the US could do without Canada and strike a separate deal with Mexico.
@@ -62,4 +62,4 @@ Under the treaty, the three countries decide at the six-year review whether to e
 
 Mexico's priority is tariffs. "What we want is a reduction of those tariffs and no more tariffs during the review period," Sheinbaum said, referring to US duties on cars, steel and aluminium. In June she said cutting the 50% tariff on steel and aluminium and the 25% tariff on car exports would count as a success.
 
-The agreement took effect on 1 July 2020, replacing NAFTA, and remains in force while the talks go on.
+The agreement took effect on July 1, 2020, replacing NAFTA, and remains in force while the talks go on.

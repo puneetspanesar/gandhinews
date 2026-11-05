@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "All figures, partnerships, background and quotes from the BCCI feature published 1 Nov, 7:45 pm IST; match result (draw, Baroda first-innings lead, three points, J&K 303, Abdul Samad 143) from BCCI round 3 summary."
+    - "All figures, partnerships, background and quotes from the BCCI feature published Nov 1, 7:45 pm IST; match result (draw, Baroda first-innings lead, three points, J&K 303, Abdul Samad 143) from BCCI round 3 summary."
     - "Moliya may have no freely licensed photo on Commons; fallback to Reliance Stadium, Vadodara."
 ---
 

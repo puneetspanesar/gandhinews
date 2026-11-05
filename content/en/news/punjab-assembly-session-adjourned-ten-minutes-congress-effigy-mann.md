@@ -22,7 +22,7 @@ hero:
     value: "Ten minutes, then an effigy outside"
 related: [jhota-murder-case-cbi-transfer-bhagwant-mann, cbi-takes-over-jhota-murder-probe-mansa, amit-shah-punjab-drugs-gangsters-organised-crime, jathedar-dhanaula-cheques-jhota-injured-mansa-ardas]
 seo:
-  description: "Punjab Assembly's six-day session began on 22 October 2026 and was adjourned within 10 minutes after obituary references, as Congress burned CM Bhagwant Mann's effigy over drugs and the Jhota killing."
+  description: "Punjab Assembly's six-day session began on October 22, 2026, and was adjourned within 10 minutes after obituary references, as Congress burned CM Bhagwant Mann's effigy over drugs and the Jhota killing."
 sources:
   - title: "Punjab Assembly Session: House adjourned within 10 minutes on Day 1, next sitting tomorrow"
     publisher: "The Tribune"
@@ -61,7 +61,7 @@ Former BJP state president Sunil Jakhar brought two women from Abohar, whose rel
 
 ## What the session is expected to take up
 
-The killing of anti-drug activist Parvinder Singh Jhota in Mansa on 13 October is expected to dominate the coming days. The government is expected to point to its "Yudh Nashiyan Virudh" campaign against drugs, while the Aam Aadmi Party is expected to blame earlier Akali Dal-BJP and Congress governments for shielding the trade and to question the Centre's anti-narcotics record. The CBI has since taken over the Jhota murder case.
+The killing of anti-drug activist Parvinder Singh Jhota in Mansa on October 13 is expected to dominate the coming days. The government is expected to point to its "Yudh Nashiyan Virudh" campaign against drugs, while the Aam Aadmi Party is expected to blame earlier Akali Dal-BJP and Congress governments for shielding the trade and to question the Centre's anti-narcotics record. The CBI has since taken over the Jhota murder case.
 
 The opposition also plans to press corruption allegations, including a CBI case involving functionaries of the AAP government.
 

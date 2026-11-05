@@ -22,7 +22,7 @@ hero:
     value: "Four more dead in a 'ceasefire'"
 related: [un-envoy-gaza-ceasefire-in-name-only-security-council, gaza-rafah-shut-to-patients-second-week, moroccan-troops-trained-gaza-stabilisation-force]
 seo:
-  description: "Israeli air strikes and gunfire killed at least four Palestinians in Gaza on 20 October, including a couple in Gaza City and a 17-year-old boy in Khan Younis."
+  description: "Israeli air strikes and gunfire killed at least four Palestinians in Gaza on October 20, including a couple in Gaza City and a 17-year-old boy in Khan Younis."
 sources:
   - title: "Israeli attacks kill at least four Palestinians in Gaza"
     publisher: "Al Jazeera"

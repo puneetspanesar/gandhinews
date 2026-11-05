@@ -38,7 +38,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 4 Nov, results announced after market hours (after 15:30 IST); Business Today article published 16:56 IST. Exact filing time not stated."
+    - "event: Nov 4, results announced after market hours (after 15:30 IST); Business Today article published 16:56 IST. Exact filing time not stated."
     - "Single source (Business Today). Figures verbatim: profit 505.5 cr vs 452.55 cr (+11.7%); revenue 3,563.07 cr vs 3,191.32 cr (+11.6%); operating profit 633 cr (+7.5%), margin down 60 bps; dividend Rs 3.50, record date Nov 10, payment from Nov 25; close Rs 394.10, +3.45% (before results)."
     - "CEO named as Herjit S. Bhalla in source; quote is the only one given. Hero photo: no Wikipedia person for Bhalla, so the company is used; picture desk may need to check."
 infographic:

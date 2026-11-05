@@ -22,7 +22,7 @@ hero:
     value: "Four nations, one arms pact"
 related: [turkiye-parliament-mecca-defence-pact-pakistan-saudi, pakistan-munir-saudi-envoy-makkah-pact-collective-response, shehbaz-indus-treaty-violation-act-of-war-maldives]
 seo:
-  description: "Pakistan, Turkiye, Qatar and Indonesia signed the Badr Memorandum of Understanding in Doha on 21 October for joint defence production and technology transfer."
+  description: "Pakistan, Turkiye, Qatar and Indonesia signed the Badr Memorandum of Understanding in Doha on October 21 for joint defence production and technology transfer."
 sources:
   - title: "Pakistan signs joint defense accord with Turkiye, Qatar, Indonesia to strengthen self-reliance"
     publisher: "Arab News Pakistan"

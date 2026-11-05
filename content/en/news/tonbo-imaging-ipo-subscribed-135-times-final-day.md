@@ -12,7 +12,7 @@ location: Bengaluru
 keyPoints:
   - "Tonbo Imaging's IPO was subscribed **135.68 times** by 4:40 pm on the last day of bidding."
   - "Qualified institutional buyers bid for **293.56 times** the shares set aside for them."
-  - "Shares are due to be allotted on 21 October and to **list on 23 October**."
+  - "Shares are due to be allotted on October 21 and to **list on October 23**."
 hero:
   need: "Tonbo Imaging office or thermal imaging products in Bengaluru"
   suggested_source: "Tonbo Imaging Bengaluru office"
@@ -22,7 +22,7 @@ hero:
     value: "Bids for 135 times the shares"
 related: [tonbo-imaging-ipo-price-band-defence-tech, zetwerk-tonbo-ipo-day-two-close-subscription, zetwerk-ipo-fully-subscribed-final-day, markets-shut-dussehra-results-data-calendar-october-20]
 seo:
-  description: "Tonbo Imaging's ₹852.18 crore IPO was subscribed 135.68 times on its final day, 19 October 2026, with QIBs at 293.56 times; listing is due on 23 October."
+  description: "Tonbo Imaging's ₹852.18 crore IPO was subscribed 135.68 times on its final day, October 19, 2026, with QIBs at 293.56 times; listing is due on October 23."
 sources:
   - title: "Tonbo Imaging India IPO Day 3 Subscription Status: 135.68x"
     publisher: "HDFC Sky"
@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Subscription figures as of 4:40 pm IST, 19 Oct (HDFC Sky, published 5:30 pm); final end-of-day exchange figures not seen, so copy says 'by 4:40 pm' and 'more than'."
+    - "Subscription figures as of 4:40 pm IST, Oct 19 (HDFC Sky, published 5:30 pm); final end-of-day exchange figures not seen, so copy says 'by 4:40 pm' and 'more than'."
     - "Bonfiglioli 46.04x, Sahajanand 14.21x, Zetwerk 3.10x from HDFC Sky related-headline list; time of those figures not stated, so written as 'on the final day'."
     - "OFS-only, 1,21,74,046 shares, ₹665-700, lot 21, promoters Ankit Kumar, Arvind Kondangi Lakshmikumar and Cecilia D'Souza, 24 countries: IPO Watch / HDFC Sky."
 ---
@@ -48,7 +48,7 @@ By 4:40 pm on the final day, the ₹852.18 crore issue had been subscribed 135.6
 
 The issue was priced at ₹665 to ₹700 a share and was entirely an offer for sale of about 1.22 crore shares by existing investors, so the company itself raises no new money. Its promoters are Ankit Kumar, Arvind Kondangi Lakshmikumar and Cecilia D'Souza. Founded in 2003, Tonbo designs and makes electro-optic and infrared systems, missile seekers and targeting equipment, and says it sells in 24 countries.
 
-Shares are due to be allotted on Wednesday, 21 October, and to list on the BSE and NSE on Friday, 23 October.
+Shares are due to be allotted on Wednesday, October 21, and to list on the BSE and NSE on Friday, October 23.
 
 Three other issues also closed on Monday. Bonfiglioli Transmissions, the gearbox maker, was subscribed 46.04 times on the final day, Sahajanand Medical Technologies, which makes heart stents, 14.21 times, and Zetwerk Manufacturing 3.10 times.
 

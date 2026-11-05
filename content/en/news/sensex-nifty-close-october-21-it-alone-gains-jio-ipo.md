@@ -22,7 +22,7 @@ hero:
     value: "Sensex ends 143 points down"
 related: [markets-reopen-jio-ipo-rbi-minutes-eternal-results-october-21, sensex-nifty-close-october-19-private-banks-axis, jio-platforms-ipo-opens-today-what-bidders-need-to-know, global-cues-dow-rallies-netflix-slides-brent-108-october-21]
 seo:
-  description: "Market close 21 October 2026: Sensex falls 143.21 points to 73,709.69, Nifty down 77.60 at about 22,811. IT the only gainer; small caps drop 2.37%; Eternal slips before results."
+  description: "Market close October 21, 2026: Sensex falls 143.21 points to 73,709.69, Nifty down 77.60 at about 22,811. IT the only gainer; small caps drop 2.37%; Eternal slips before results."
 sources:
   - title: "Stock Market LIVE, October 21: Sensex, Nifty, Jio Platforms IPO, Eternal Q2"
     publisher: "Business Standard"

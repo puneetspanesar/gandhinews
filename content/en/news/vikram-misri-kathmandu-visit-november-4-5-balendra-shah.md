@@ -5,12 +5,12 @@ type: news
 section: politics
 format_label: "Politics / Diplomacy"
 topics: []
-title: "Vikram Misri to visit Kathmandu on 4-5 November ahead of Balendra Shah's India trip"
+title: "Vikram Misri to visit Kathmandu on November 4-5 ahead of Balendra Shah's India trip"
 standfirst: "The Foreign Secretary will hold talks with his Nepali counterpart Amrit Bahadur Rai, in a visit first planned for May and put off over protocol issues."
 published: 2026-11-02T17:45:00+05:30
 location: New Delhi
 keyPoints:
-  - "Foreign Secretary Vikram Misri will **visit Nepal on 4 and 5 November**."
+  - "Foreign Secretary Vikram Misri will **visit Nepal on November 4 and 5**."
   - "He will hold talks with Nepal's Foreign Secretary **Amrit Bahadur Rai** in Kathmandu."
   - "The visit sets the stage for **Prime Minister Balendra Shah's India trip**, expected later this month."
 hero:
@@ -23,11 +23,11 @@ hero:
 cover:
   template: speaker
   label: "India-Nepal"
-  headline: "Misri to visit Kathmandu on 4-5 November"
+  headline: "Misri to visit Kathmandu on November 4-5"
   bg: "Singha Durbar"
 related: [nepal-acknowledges-india-border-encroachment-no-details]
 seo:
-  description: "Foreign Secretary Vikram Misri will visit Nepal on 4-5 November 2026 for talks with Amrit Bahadur Rai, ahead of PM Balendra Shah's expected visit to India."
+  description: "Foreign Secretary Vikram Misri will visit Nepal on November 4-5, 2026 for talks with Amrit Bahadur Rai, ahead of PM Balendra Shah's expected visit to India."
 sources:
   - title: "Foreign Secretary Vikram Misri to visit Nepal from Nov 4-5"
     publisher: "The Tribune"
@@ -47,14 +47,14 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov, MEA and Nepal MoFA announcements in the evening; Tribune report time-stamped 5:42 pm IST, IANS 7:02 pm IST. Exact time of the MEA release not seen; MEA page itself not fetched."
+    - "event: Nov 2, MEA and Nepal MoFA announcements in the evening; Tribune report time-stamped 5:42 pm IST, IANS 7:02 pm IST. Exact time of the MEA release not seen; MEA page itself not fetched."
     - "MEA quotes verbatim as carried by Tribune and IANS. Nepal MoFA wording 'review the full range of Nepal-India relations' from IANS."
-    - "Shah visit 'later this month' and Nepal's agenda (flood aid after 26 August floods, border, trade treaty, air entry points) from IANS citing Nepali officials only; written as what Kathmandu wants."
+    - "Shah visit 'later this month' and Nepal's agenda (flood aid after August 26 floods, border, trade treaty, air entry points) from IANS citing Nepali officials only; written as what Kathmandu wants."
     - "May postponement over protocol issues: IANS only."
     - "Singha Durbar as cover bg: seat of Nepal's government in Kathmandu, where the Foreign Ministry sits."
 ---
 
-Foreign Secretary **Vikram Misri will visit Nepal on 4 and 5 November**, the Ministry of External Affairs announced on Monday evening, in a trip meant to prepare the ground for Nepali Prime Minister Balendra Shah's visit to India.
+Foreign Secretary **Vikram Misri will visit Nepal on November 4 and 5**, the Ministry of External Affairs announced on Monday evening, in a trip meant to prepare the ground for Nepali Prime Minister Balendra Shah's visit to India.
 
 In Kathmandu, Misri will hold **talks with Nepal's Foreign Secretary Amrit Bahadur Rai** and call on senior Nepali leaders. The MEA said the two sides would discuss bilateral, regional and global matters of mutual interest. "India and Nepal share strong and friendly ties which have seen substantial progress across diverse areas of cooperation," it said, adding that the visit "continues the tradition of regular high-level exchanges between the two countries".
 
@@ -66,7 +66,7 @@ Nepal's Ministry of Foreign Affairs said the two foreign secretaries would revie
 
 The trip has been a long time coming. Misri was first due in Kathmandu in the second week of May to meet the new government led by Shah's Rastriya Swatantra Party, but **the visit was put off over protocol issues**.
 
-Officials in Kathmandu now expect **Shah to visit New Delhi later this month**, though no date has been fixed. Nepal wants that visit to bring a large aid package after the devastating floods of 26 August, progress on the border dispute, a revised trade treaty and more air entry points for international flights via India. Several joint projects are also expected to be inaugurated.
+Officials in Kathmandu now expect **Shah to visit New Delhi later this month**, though no date has been fixed. Nepal wants that visit to bring a large aid package after the devastating floods of August 26, progress on the border dispute, a revised trade treaty and more air entry points for international flights via India. Several joint projects are also expected to be inaugurated.
 
 ```photo
 {"n":2,"subject":"Singha Durbar","caption":"Singha Durbar in Kathmandu, the seat of Nepal's government, home to its key ministries.","alt":"Singha Durbar, Kathmandu"}

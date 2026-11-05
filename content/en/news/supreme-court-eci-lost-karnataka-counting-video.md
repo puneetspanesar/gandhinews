@@ -31,8 +31,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: Bar & Bench (Ritu Yadav, 14 Oct, 10:19 am; hearing on 14 Oct morning). Quotes verbatim from that report. Published time set later in the day for the window; the hearing was in the morning."
-    - "Rajegowda's 2023 margin of 201 votes, 255-vote reduction, 279 rejected postal ballots, 562 valid postal ballots, 6 April HC order, 3 May revised result, May SC interim order, 15 February 2027 next date: all Bar & Bench."
+    - "Single source: Bar & Bench (Ritu Yadav, Oct 14, 10:19 am; hearing on Oct 14 morning). Quotes verbatim from that report. Published time set later in the day for the window; the hearing was in the morning."
+    - "Rajegowda's 2023 margin of 201 votes, 255-vote reduction, 279 rejected postal ballots, 562 valid postal ballots, April 6 HC order, May 3 revised result, May SC interim order, February 15, 2027, next date: all Bar & Bench."
     - "Bench as reported: Justices Sanjay Kumar and Sanjeev Sachdeva."
     - "Name spellings: Bar & Bench uses 'TD Rajegowda' and 'DN Jeevaraj'."
 ---
@@ -45,9 +45,9 @@ Senior advocate Seshadri Naidu, for the Commission, said it had been unable to t
 
 ## A seat that changed hands
 
-The case concerns one of the closest results of the 2023 Karnataka election. Congress leader T D Rajegowda won Sringeri by 201 votes. His BJP rival, D N Jeevaraj, challenged the result in an election petition, and on 6 April this year the Karnataka High Court ordered a recount of postal ballots, including a fresh look at 279 that had been rejected.
+The case concerns one of the closest results of the 2023 Karnataka election. Congress leader T D Rajegowda won Sringeri by 201 votes. His BJP rival, D N Jeevaraj, challenged the result in an election petition, and on April 6 this year the Karnataka High Court ordered a recount of postal ballots, including a fresh look at 279 that had been rejected.
 
-On 3 May the returning officer declared a revised result. Rajegowda's tally fell by 255 votes and Jeevaraj was declared elected. Rajegowda then came to the Supreme Court, which in May allowed him to continue as MLA while his appeal is pending.
+On May 3 the returning officer declared a revised result. Rajegowda's tally fell by 255 votes and Jeevaraj was declared elected. Rajegowda then came to the Supreme Court, which in May allowed him to continue as MLA while his appeal is pending.
 
 ## What Rajegowda wants
 
@@ -57,4 +57,4 @@ To test those claims he has asked for the observer's report and the video record
 
 "Where is the question of you saying, 'Yeah, we are trying to trace it'?" the bench asked the Commission's counsel.
 
-Jeevaraj faces a separate criminal case over alleged tampering with postal ballot papers, which the Karnataka High Court stayed in May. The appeal will next be heard on 15 February 2027, by which date the Commission must place all available records before the court.
+Jeevaraj faces a separate criminal case over alleged tampering with postal ballot papers, which the Karnataka High Court stayed in May. The appeal will next be heard on February 15, 2027, by which date the Commission must place all available records before the court.

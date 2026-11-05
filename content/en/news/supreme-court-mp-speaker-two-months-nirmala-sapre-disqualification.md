@@ -32,11 +32,11 @@ infographic:
     - {date: "2023", text: "Sapre wins Bina on a Congress ticket", icon: check-circle}
     - {date: "May 2024", text: "Appears on a BJP stage with CM Mohan Yadav", icon: user-switch}
     - {date: "July 2024", text: "Singhar files disqualification petition", icon: file-text}
-    - {date: "4 Nov 2026", text: "Supreme Court sets two-month deadline", icon: gavel}
+    - {date: "Nov 4, 2026", text: "Supreme Court sets two-month deadline", icon: gavel}
   source: "Supreme Court order, Umang Singhar v State of Madhya Pradesh, November 4, 2026"
 related: [anti-defection-law-explained]
 seo:
-  description: "The Supreme Court on 4 November 2026 directed the Madhya Pradesh Assembly Speaker to decide Umang Singhar's disqualification petition against Bina MLA Nirmala Sapre within two months."
+  description: "The Supreme Court on November 4, 2026, directed the Madhya Pradesh Assembly Speaker to decide Umang Singhar's disqualification petition against Bina MLA Nirmala Sapre within two months."
 sources:
   - title: "Supreme Court Asks MP Speaker To Decide Congress Leader's Disqualification Petition Against Nirmala Sapre MLA In 2 Months"
     publisher: "LiveLaw"
@@ -61,7 +61,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Event time: hearing under way at 12:53 pm IST (LiveLaw alert 37228, Tankha 'classic case of 10th schedule'); order reported by LiveLaw at 1:20 pm IST, LawChakra 2:19 pm, INH News 1:42 pm. Order passed between about 12:53 pm and 1:20 pm IST on 4 Nov."
+    - "Event time: hearing under way at 12:53 pm IST (LiveLaw alert 37228, Tankha 'classic case of 10th schedule'); order reported by LiveLaw at 1:20 pm IST, LawChakra 2:19 pm, INH News 1:42 pm. Order passed between about 12:53 pm and 1:20 pm IST on Nov 4."
     - "Case: Umang Singhar v State of Madhya Pradesh, Diary No. 60436/2026. Bench CJI Surya Kant, Justices Joymalya Bagchi and V Mohana (LiveLaw, LawChakra)."
     - "No verbatim quote from the judges in any source; court's view written as paraphrase. Tankha's 'classic case' is the only direct quote (LiveLaw alert)."
     - "Speaker not named in sources; Narendra Singh Tomar is MP Speaker per earlier HC notice coverage (Daily Pioneer search result), not used in copy. Date of MP HC dismissal not given in LiveLaw; search results suggest late June 2026, not used."
@@ -84,7 +84,7 @@ Singhar came to the Supreme Court after the Madhya Pradesh High Court refused to
 The bench **disagreed with that approach**. It said petitions under the Tenth Schedule must be decided quickly even when there is no immediate urgency and plenty of time is left in the Assembly's term. It relied on its ruling in the Padi Kaushik Reddy case, in which it set a deadline for the Telangana Speaker to decide defection petitions.
 
 ```timeline
-{"title":"The Sapre defection case","items":[{"date":"2023","text":"Sapre wins Bina on a Congress ticket"},{"date":"May 2024","text":"She appears at a BJP event with Chief Minister Mohan Yadav"},{"date":"July 2024","text":"Singhar files the disqualification petition"},{"date":"4 Nov 2026","text":"Supreme Court gives the Speaker two months to decide"}]}
+{"title":"The Sapre defection case","items":[{"date":"2023","text":"Sapre wins Bina on a Congress ticket"},{"date":"May 2024","text":"She appears at a BJP event with Chief Minister Mohan Yadav"},{"date":"July 2024","text":"Singhar files the disqualification petition"},{"date":"Nov 4, 2026","text":"Supreme Court gives the Speaker two months to decide"}]}
 ```
 
 The court **did not rule on whether Sapre is disqualified**. That question stays with the Speaker, who must decide it on the material before him.

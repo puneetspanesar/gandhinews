@@ -12,7 +12,7 @@ location: Vadodara
 keyPoints:
   - "India made **328 for 6** after Harmanpreet Kaur's 126 and Deepti Sharma's unbeaten 106."
   - "Zimbabwe were bowled out for 207, with Vaishnavi Sharma taking **4 for 39**."
-  - "India lead the series **2-0**, with the final match on Wednesday, 28 October."
+  - "India lead the series **2-0**, with the final match on Wednesday, October 28."
 hero:
   need: "Harmanpreet Kaur and Deepti Sharma batting for India, as a two-panel split"
   suggested_source: "Harmanpreet Kaur"
@@ -69,7 +69,7 @@ At the innings break, Harmanpreet spoke about the conditions and her partners.
 
 > "After losing two wickets, Pratika and I had a very good partnership and then Deepti did the magic on the pitch."
 >
-> Source: Harmanpreet Kaur, India batter, 25 October 2026
+> Source: Harmanpreet Kaur, India batter, October 25, 2026
 
 She added: "I just want to enjoy myself on the field."
 
@@ -85,4 +85,4 @@ Sibanda, with 2 for 38, was the pick of Zimbabwe's bowlers.
 
 The win gives Mandhana her first series victory as India's full-time ODI captain, a week after India swept the T20 international series against Zimbabwe 3-0 in Raipur.
 
-The third and final ODI is at the same ground on Wednesday, 28 October, when India will be chasing a clean sweep.
+The third and final ODI is at the same ground on Wednesday, October 28, when India will be chasing a clean sweep.

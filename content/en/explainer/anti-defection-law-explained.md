@@ -44,14 +44,14 @@ sources:
 verification:
   status: verified-with-notes
   notes:
-    - "Fact-check 11 Oct 2026: 2026 cases confirmed on Deccan Chronicle (18 Jul), LiveLaw (26 Jul, incl. 22 Jun Sena switch, Padi Kaushik Reddy and 12 Mar 2026 disposal) and Bar & Bench (28 Apr). Tenth Schedule paragraphs consistent with the constitutional text."
+    - "Fact-check Oct 11, 2026: 2026 cases confirmed on Deccan Chronicle (Jul 18), LiveLaw (Jul 26, incl. Jun 22 Sena switch, Padi Kaushik Reddy and Mar 12, 2026, disposal) and Bar & Bench (Apr 28). Tenth Schedule paragraphs consistent with the constitutional text."
     - "Added for balance: Shiv Sena (UBT) MP Anil Desai's quote and Abhishek Banerjee's 20 disqualification petitions (Deccan Chronicle)."
     - "Bar & Bench says the Chairman 'reportedly' accepted the AAP merger; still unconfirmed by an official source. NCPI party name differs between outlets."
     - "Tenth Schedule text and the note on Kihoto Hollohan (paragraph 7 invalid) are from the official text hosted by MEA. The year the Schedule was added (1985) is not stated in the sources opened and is left out."
     - "Name of the party the 20 TMC rebels merged with: Deccan Chronicle says 'Nationalist Citizens Party of India', LiveLaw says 'National Citizen Party of India'. We use the abbreviation NCPI only."
-    - "Status of the TMC rebels: Deccan Chronicle (18 Jul) says the Speaker allowed them separate seats; LiveLaw (26 Jul) says the Speaker had not decided the case; The Tribune (1 Sep) says NCPI recognition was still pending. Written as pending."
+    - "Status of the TMC rebels: Deccan Chronicle (Jul 18) says the Speaker allowed them separate seats; LiveLaw (Jul 26) says the Speaker had not decided the case; The Tribune (Sep 1) says NCPI recognition was still pending. Written as pending."
     - "The AAP Rajya Sabha 'merger' rests on Bar & Bench's report that the Chairman 'reportedly' accepted it; the seven MPs are not named in the body of that article."
-    - "Keisham Meghachandra (2020) and Padi Kaushik Reddy (31 July 2025) holdings are as summarised in the LiveLaw article; judgments not opened."
+    - "Keisham Meghachandra (2020) and Padi Kaushik Reddy (July 31, 2025) holdings are as summarised in the LiveLaw article; judgments not opened."
 ---
 
 ## What is the anti-defection law?
@@ -89,14 +89,14 @@ The Supreme Court held paragraph 7 invalid in *Kihoto Hollohan v. Zachillhu*, re
 
 **Not in the Constitution, but the Supreme Court has said three months is the norm.** In *Keisham Meghachandra Singh* (2020), the Court said a Speaker should decide a disqualification petition within a reasonable time, which, barring exceptional circumstances, means three months from filing, LiveLaw reports.
 
-The Court used that deadline in July 2025. On 31 July 2025, in *Padi Kaushik Reddy v. State of Telangana*, it told the Telangana Speaker to decide petitions against 10 BRS MLAs who had joined the Congress within three months. When the Speaker did not act, contempt proceedings followed, LiveLaw says. The Speaker disposed of the remaining petitions on 12 March 2026.
+The Court used that deadline in July 2025. On July 31, 2025, in *Padi Kaushik Reddy v. State of Telangana*, it told the Telangana Speaker to decide petitions against 10 BRS MLAs who had joined the Congress within three months. When the Speaker did not act, contempt proceedings followed, LiveLaw says. The Speaker disposed of the remaining petitions on March 12, 2026.
 
 ## Which cases tested the law in 2026?
 
 **Three switches in Parliament, all using the merger route.**
 
 ```timeline
-{"title":"Anti-defection cases in Parliament, 2026","items":[{"date":"Apr 2026","text":"Seven of AAP's 10 Rajya Sabha MPs apply to the Chairman to recognise their 'merger' with the BJP. Bar & Bench reports the Chairman has accepted it."},{"date":"22 Jun 2026","text":"Six of Shiv Sena (UBT)'s nine Lok Sabha MPs move to Eknath Shinde's Shiv Sena. Their party seeks their disqualification."},{"date":"18 Jul 2026","text":"Speaker Om Birla approves the Shiv Sena merger and lets 20 rebel Trinamool MPs, who declared a merger with the NCPI, sit separately."},{"date":"1 Sep 2026","text":"The Tribune reports the NCPI's recognition is still pending with the Speaker."}]}
+{"title":"Anti-defection cases in Parliament, 2026","items":[{"date":"Apr 2026","text":"Seven of AAP's 10 Rajya Sabha MPs apply to the Chairman to recognise their 'merger' with the BJP. Bar & Bench reports the Chairman has accepted it."},{"date":"Jun 22, 2026","text":"Six of Shiv Sena (UBT)'s nine Lok Sabha MPs move to Eknath Shinde's Shiv Sena. Their party seeks their disqualification."},{"date":"Jul 18, 2026","text":"Speaker Om Birla approves the Shiv Sena merger and lets 20 rebel Trinamool MPs, who declared a merger with the NCPI, sit separately."},{"date":"Sep 1, 2026","text":"The Tribune reports the NCPI's recognition is still pending with the Speaker."}]}
 ```
 
 The Shiv Sena merger took the Shinde-led party to 13 Lok Sabha MPs, Deccan Chronicle reported. The 20 Trinamool rebels were among the 29 MPs the party won in 2024.
@@ -107,7 +107,7 @@ Both parties that lost MPs have sought their disqualification. "Any group of a l
 
 **That the merger exception has become a door for defection, and that Speakers can delay decisions.** Writing in Bar & Bench, advocate Narasimhan Vijayaraghavan argued that the AAP move met the two-thirds number but not the law. In his reading, paragraph 4 is about a merger of the original political party, and AAP still exists as a party.
 
-In LiveLaw, Dhruva Upadhye argued that delays by Speakers had undermined the law, citing the Telangana case. Both are commentators' views. We found no Supreme Court ruling on the 2026 Parliament cases as of 11 October 2026.
+In LiveLaw, Dhruva Upadhye argued that delays by Speakers had undermined the law, citing the Telangana case. Both are commentators' views. We found no Supreme Court ruling on the 2026 Parliament cases as of October 11, 2026.
 
 ## Does the law apply to state legislatures too?
 

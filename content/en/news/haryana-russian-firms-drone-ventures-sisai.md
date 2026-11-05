@@ -12,7 +12,7 @@ location: Chandigarh
 keyPoints:
   - "Russia's Omnitech proposes unmanned helicopters with a **250 km range and 200 kg payload** at Drone City Haryana."
   - "A second venture would build drone navigation that works **without GPS or satellite signals**."
-  - "Saini is in Sweden **from 14 to 17 October** to court investors."
+  - "Saini is in Sweden **from October 14 to 17** to court investors."
 hero:
   need: "Hansi town in Hisar district, Haryana, such as the historic Hansi fort"
   suggested_source: "Hansi fort Haryana"
@@ -48,7 +48,7 @@ verification:
   notes:
     - "Both ventures are proposals; no agreement signed and no investment figure given in any source."
     - "No direct quotes available in any of the three reports; none used."
-    - "Exact date of the delegation's meeting with Saini not stated beyond being after the 12 October Delhi meeting; Statesman dates it 14 October."
+    - "Exact date of the delegation's meeting with Saini not stated beyond being after the October 12 Delhi meeting; Statesman dates it October 14."
 ---
 
 Two Russian technology companies want to build unmanned helicopters and satellite-free drone navigation systems at Drone City Haryana in Sisai, near Hansi, the state government said on Wednesday after a delegation met Chief Minister Nayab Singh Saini in Chandigarh.
@@ -57,7 +57,7 @@ The first proposal, from Omnitech LLC with its Indian partner AVPL International
 
 The second, from 4GNSS LLC/Orient Systems Group, also with AVPL, is for navigation technology that lets drones finish a mission when GPS and other satellite signals are not available. It would look at using Indian semiconductor chips and making the systems in India.
 
-Neither deal has been signed, and no investment figure has been made public. The delegation, which included two officials of Russia's Skolkovo Foundation, met Civil Aviation Minister Kinjarapu Ram Mohan Naidu in New Delhi on 12 October before touring the Sisai site. Chief Secretary Anurag Rastogi attended the meeting with Saini.
+Neither deal has been signed, and no investment figure has been made public. The delegation, which included two officials of Russia's Skolkovo Foundation, met Civil Aviation Minister Kinjarapu Ram Mohan Naidu in New Delhi on October 12 before touring the Sisai site. Chief Secretary Anurag Rastogi attended the meeting with Saini.
 
 Saini laid the foundation stone of Drone City in September 2025, and its first phase opened in May this year. The Haryana Enterprise Promotion Board has approved a special incentive of ₹58.51 crore for AITMC Ventures Limited to set up a drone and components hub in Hisar district, part of what the state calls its plan to become India's "Drone Capital".
 

@@ -5,16 +5,16 @@ type: news
 section: politics
 format_label: "Politics / Opposition"
 topics: [election-commission, electoral-rolls-sir]
-title: "Rahul Gandhi thanks BJP for 'promoting' his 1 November rally, asks it to keep up the zeal for seven more days"
+title: "Rahul Gandhi thanks BJP for 'promoting' his November 1 rally, asks it to keep up the zeal for seven more days"
 standfirst: "A day after the BJP tied the date of the INDIA bloc's Ramlila Maidan rally to the 1984 anti-Sikh riots, the Leader of the Opposition answered with sarcasm and a fresh call to students, farmers, workers and traders to come to Delhi."
 published: 2026-10-25T11:50:00+05:30
 location: New Delhi
 keyPoints:
-  - "Rahul Gandhi offered **heartfelt thanks to the BJP and its allies** for publicising the 1 November rally with 'great enthusiasm'."
+  - "Rahul Gandhi offered **heartfelt thanks to the BJP and its allies** for publicising the November 1 rally with 'great enthusiasm'."
   - "He said opposition supporters will **not tolerate vote theft quietly** and urged students, farmers, workers, women and traders to join."
   - "Congress MP Imran Masood told the BJP he does **not need a certificate of patriotism** from the party."
 hero:
-  need: "Two-panel split: Congress leader Rahul Gandhi on one side, Ramlila Maidan in Delhi, venue of the 1 November rally, on the other"
+  need: "Two-panel split: Congress leader Rahul Gandhi on one side, Ramlila Maidan in Delhi, venue of the November 1 rally, on the other"
   suggested_source: "Rahul Gandhi"
   subjects: ["Rahul Gandhi", "Ramlila Maidan"]
   alt: "Congress leader Rahul Gandhi and Ramlila Maidan, New Delhi"
@@ -22,7 +22,7 @@ hero:
     value: "Thank you, BJP. Keep it up for 7 days"
 related: [ravi-shankar-prasad-rahul-november-1-rally-sikh-traders, congress-ramlila-maidan-rally-november-1-police-noc, india-bloc-public-impeachment-cec-october-30-dilli-chalo, imran-masood-detained-jamia-protest-student-union-polls]
 seo:
-  description: "Rahul Gandhi mocked the BJP on Sunday for 'promoting' the INDIA bloc's 1 November 'Vote Bachao, Desh Bachao' rally at Ramlila Maidan, a day after Ravi Shankar Prasad linked its date to 1984."
+  description: "Rahul Gandhi mocked the BJP on Sunday for 'promoting' the INDIA bloc's November 1 'Vote Bachao, Desh Bachao' rally at Ramlila Maidan, a day after Ravi Shankar Prasad linked its date to 1984."
 sources:
   - title: "Heartfelt thanks to BJP for 'promoting' INDIA bloc rally with great enthusiasm: Rahul (PTI)"
     publisher: "ThePrint"
@@ -55,7 +55,7 @@ verification:
     - "No BJP reply to Rahul's post found by 3:30 pm."
 ---
 
-Rahul Gandhi answered the BJP's attack on his 1 November rally on Sunday not with a rebuttal but with a thank-you note.
+Rahul Gandhi answered the BJP's attack on his November 1 rally on Sunday not with a rebuttal but with a thank-you note.
 
 In a post on X, written in Hindi, the Leader of the Opposition in the Lok Sabha renewed his call for people to join the INDIA bloc's "Vote Bachao, Desh Bachao" march and rally at Delhi's Ramlila Maidan. He signed off with a postscript aimed squarely at the ruling party.
 
@@ -63,7 +63,7 @@ In a post on X, written in Hindi, the Leader of the Opposition in the Lok Sabha 
 
 ## A rally the BJP wants moved
 
-The jab came a day after BJP MP Ravi Shankar Prasad used a press conference at the party's headquarters to accuse Mr Gandhi of being adamant about the date. Holding the rally on 1 November, the anniversary of the 1984 anti-Sikh riots, would rub salt into the wounds of the riot victims, Mr Prasad said, and he claimed some INDIA bloc parties were not convinced and wanted it rescheduled. Delhi's Chamber of Trade and Industry has also asked Congress to wait until after 10 November, warning of disruption in the festive trading season, and the Federation of LPG Distributors of India has objected to the gathering.
+The jab came a day after BJP MP Ravi Shankar Prasad used a press conference at the party's headquarters to accuse Mr Gandhi of being adamant about the date. Holding the rally on November 1, the anniversary of the 1984 anti-Sikh riots, would rub salt into the wounds of the riot victims, Mr Prasad said, and he claimed some INDIA bloc parties were not convinced and wanted it rescheduled. Delhi's Chamber of Trade and Industry has also asked Congress to wait until after November 10, warning of disruption in the festive trading season, and the Federation of LPG Distributors of India has objected to the gathering.
 
 Congress has shown no sign of moving. Party general secretary K C Venugopal has called the Ramlila Maidan march the party's biggest yet against "vote chori", and Congress president Mallikarjun Kharge has asked INDIA bloc leaders to make sure their MPs or senior leaders are in Delhi for it.
 
@@ -77,4 +77,4 @@ In Saharanpur, Congress MP Imran Masood brushed aside the BJP's objections. "I d
 
 ## What comes next
 
-Before the rally, INDIA bloc leaders plan a "public impeachment" of the Chief Election Commissioner on 30 October, staged as a mock Parliament at Hotel Ashok in Delhi. Mr Gandhi is expected back from a trip abroad on Sunday and has called a meeting on Monday to settle the protest strategy. Congress says it aims to bring at least 10 lakh people to Delhi on 1 November.
+Before the rally, INDIA bloc leaders plan a "public impeachment" of the Chief Election Commissioner on October 30, staged as a mock Parliament at Hotel Ashok in Delhi. Mr Gandhi is expected back from a trip abroad on Sunday and has called a meeting on Monday to settle the protest strategy. Congress says it aims to bring at least 10 lakh people to Delhi on November 1.

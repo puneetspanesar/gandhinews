@@ -12,7 +12,7 @@ location: Paris
 keyPoints:
   - "PV Sindhu opens against **top seed An Se-young**, the defending champion."
   - "Sixth seed Lakshya Sen faces **Kodai Naraoka of Japan** in round one."
-  - "First-round matches are on **20 and 21 October**, with finals on 25 October."
+  - "First-round matches are on **October 20 and 21**, with finals on October 25."
 hero:
   need: "An Se-young in action, or the Arena Grand Paris badminton venue"
   suggested_source: "An Se-young"
@@ -22,7 +22,7 @@ hero:
     value: "Sindhu v An in round one"
 related: [sindhu-lakshya-out-of-denmark-open-first-round, satwik-chirag-crash-out-denmark-open-first-round, treesa-gayatri-tanvi-denmark-open-quarters-srikanth-out, denmark-open-tanvi-an-se-young-treesa-gayatri-quarters-exit]
 seo:
-  description: "French Open badminton 2026 starts in Paris on 20 October. PV Sindhu faces An Se-young, Lakshya Sen plays Kodai Naraoka and Satwik-Chirag meet the Popov brothers."
+  description: "French Open badminton 2026 starts in Paris on October 20. PV Sindhu faces An Se-young, Lakshya Sen plays Kodai Naraoka and Satwik-Chirag meet the Popov brothers."
 sources:
   - title: "Beleaguered Indian shuttlers look to bounce back at French Open (PTI)"
     publisher: "ThePrint"
@@ -42,13 +42,13 @@ sources:
 verification:
   status: approved
   notes:
-    - "Venue and dates (Arena Grand Paris, 20-25 Oct) from Sports Digest only; ThePrint and UNI confirm Tuesday start and $950,000 purse."
+    - "Venue and dates (Arena Grand Paris, Oct 20-25) from Sports Digest only; ThePrint and UNI confirm Tuesday start and $950,000 purse."
     - "Match days for individual Indians not published; times listed as TBA."
 ---
 
 India's shuttlers return to court in Paris on Tuesday hoping the French Open goes better than last week's Denmark Open. The draw has not been kind. PV Sindhu opens against South Korea's An Se-young, the world No. 1, top seed and defending champion.
 
-The Super 750 tournament, worth $950,000 in prize money, is being played at the Arena Grand Paris in Tremblay-en-France. First-round matches are spread over Tuesday and Wednesday, 20 and 21 October, and the finals are on Sunday, 25 October.
+The Super 750 tournament, worth $950,000 in prize money, is being played at the Arena Grand Paris in Tremblay-en-France. First-round matches are spread over Tuesday and Wednesday, October 20 and 21, and the finals are on Sunday, October 25.
 
 Sindhu arrives after a shock first-round defeat in Odense to Germany's Yvonne Li, which came after a late revision of the draw.
 

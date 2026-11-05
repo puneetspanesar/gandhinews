@@ -28,7 +28,7 @@ cover:
 infographic:
   kicker: "New Zealand v India, 1st ODI, live"
   headline: "India bowl first, strike early at Eden Park"
-  dek: "In progress, Wednesday 4 November"
+  dek: "In progress, Wednesday, November 4"
   motif: cricket
   stats:
     - {icon: cricket, value: "31/1", label: "New Zealand after 5.4 overs"}
@@ -36,7 +36,7 @@ infographic:
   source: "Live scorecards, November 4, 2026, about 8:10 am IST"
 related: [gill-any-indian-team-can-beat-anyone-eden-park-first-odi-preview, gill-iyer-split-odi-captaincy-new-zealand-bumrah-jadeja-out, seifert-93-new-zealand-beat-india-seven-wickets-hamilton-series-3-2, nz-thrash-india-87-runs-eden-park-fourth-t20i]
 seo:
-  description: "New Zealand v India first ODI live at Eden Park, Auckland: India won the toss and chose to field; New Zealand 31 for 1 after 5.4 overs on 4 November 2026."
+  description: "New Zealand v India first ODI live at Eden Park, Auckland: India won the toss and chose to field; New Zealand 31 for 1 after 5.4 overs on November 4, 2026."
 sources:
   - title: "New Zealand vs India 1st ODI LIVE, Score Updates, Scorecard and Ball-by-Ball (NZ 31/1, 5.4 ov)"
     publisher: "VAVEL"
@@ -51,10 +51,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1st ODI, Eden Park, Auckland, first ball 15:00 NZDT = 07:30 IST, Wed 4 Nov 2026. State written about 08:10 IST, match in progress."
-    - "Wisden live match page (read about 08:05 IST): 'India won the toss and elected to field'; 'New Zealand are 26 for 1 with 44.4 overs remaining' (5.2 ov). VAVEL live page title in search results (about 08:08 IST): NZ 31/1, 5.4 ov; the fetched VAVEL page body was a stale cache (last updated 23:24 GMT 3 Nov), so 31/1 rests on its headline only."
+    - "event: 1st ODI, Eden Park, Auckland, first ball 15:00 NZDT = 07:30 IST, Wed Nov 4, 2026. State written about 08:10 IST, match in progress."
+    - "Wisden live match page (read about 08:05 IST): 'India won the toss and elected to field'; 'New Zealand are 26 for 1 with 44.4 overs remaining' (5.2 ov). VAVEL live page title in search results (about 08:08 IST): NZ 31/1, 5.4 ov; the fetched VAVEL page body was a stale cache (last updated 23:24 GMT Nov 3), so 31/1 rests on its headline only."
     - "NOT confirmed and left out: which batter fell, how, to which bowler; individual scores; bowling figures; both playing XIs. ESPNcricinfo, mykhel and cricinfo live pages blocked or failed; livescore.com and khelnow cached as not started."
-    - "Gill captains the first three ODIs (our earlier squad story); Santner leads NZ (preview story). Next ODI Wellington, 7 November (preview story)."
+    - "Gill captains the first three ODIs (our earlier squad story); Santner leads NZ (preview story). Next ODI Wellington, November 7 (preview story)."
 ---
 
 India's one-day series in New Zealand is under way at Eden Park in Auckland, and the visitors have made the early inroad. Shubman Gill **won the toss and chose to bowl**, and New Zealand had lost a wicket inside the first six overs.
@@ -69,4 +69,4 @@ Both sides are short of players. India lost **Prasidh Krishna to a hamstring inj
 
 ## What comes next
 
-New Zealand will look to rebuild through the middle overs before India begin their chase in the evening session in Auckland, around mid-morning in India. India come into the series having **won the T20I series 3-2**, though they lost the last two matches, including an 87-run beating at this ground. The second ODI is in Wellington on 7 November.
+New Zealand will look to rebuild through the middle overs before India begin their chase in the evening session in Auckland, around mid-morning in India. India come into the series having **won the T20I series 3-2**, though they lost the last two matches, including an 87-run beating at this ground. The second ODI is in Wellington on November 7.

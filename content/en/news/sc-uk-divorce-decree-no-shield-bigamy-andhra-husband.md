@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 3 Nov, judgment delivered Tuesday, reported 18:22 IST (LiveLaw). Exact hour of pronouncement not given; single source."
+    - "event: Nov 3, judgment delivered Tuesday, reported 18:22 IST (LiveLaw). Exact hour of pronouncement not given; single source."
     - "Case: N. Sridhar Reddy v. State of A.P.; bench Justices Prashant Kumar Mishra (author) and Sree Chandrashekhar. Quotes verbatim from LiveLaw report of the judgment."
     - "Not stated in source: names of the wife, year of marriages, stage of the trial. Left out."
 ---

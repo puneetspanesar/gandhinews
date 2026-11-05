@@ -25,7 +25,7 @@ related:
 - bangladesh-arrests-two-russia-army-recruitment
 - umrah-pilgrims-stranded-saudi-mansoor-ali-khan-jaishankar
 seo:
-  description: Saudi Arabia executed two Bangladeshis convicted of indecent acts in a Mecca mosque; State Minister Humaiun Kobir said on 19 October the executions were very disappointing.
+  description: Saudi Arabia executed two Bangladeshis convicted of indecent acts in a Mecca mosque; State Minister Humaiun Kobir said on October 19 the executions were very disappointing.
 sources:
 - title: 'Kobir: Execution of two Bangladeshis in KSA very disappointing (UNB)'
   publisher: Dhaka Tribune

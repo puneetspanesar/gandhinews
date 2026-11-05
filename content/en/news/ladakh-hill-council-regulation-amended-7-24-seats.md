@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single detailed source (Business Standard, 1:52 pm 17 Oct). Notification date and gazette text not seen; written as 'has amended'. Kashmir Observer carried a similar headline ('Centre Amends Ladakh Hill Council Structure, Poll Rules') but the page could not be opened."
+    - "Single detailed source (Business Standard, 1:52 pm Oct 17). Notification date and gazette text not seen; written as 'has amended'. Kashmir Observer carried a similar headline ('Centre Amends Ladakh Hill Council Structure, Poll Rules') but the page could not be opened."
     - "Neither Leh nor Kargil council named in the source; election dates not given. Story does not say when the next council polls are due."
     - "Nomination limit is 'subject to the one-sixth limit of the population' per BS; meaning unclear, so written as a limit without the figure."
 ---
@@ -54,4 +54,4 @@ The sitting Lok Sabha MP for Ladakh becomes an ex officio member of the council 
 
 The change comes as talks between the Centre and Ladakh's two main political groupings are deadlocked. The Leh Apex Body and the Kargil Democratic Alliance on Friday rejected a Home Ministry draft that proposes a directly elected body for the whole Union Territory. One of the questions the Centre says is still open is how that body would relate to the existing hill councils.
 
-The two sides are due to meet again in New Delhi on 22 October.
+The two sides are due to meet again in New Delhi on October 22.

@@ -22,7 +22,7 @@ hero:
     value: "Out on a peace bond, again"
 related: [cjp-lehra-do-tiranga-dipke-neha-bora-detained-connaught-place, dipke-detention-undeclared-emergency-mamata-rajnath-anarchy, cjp-members-scale-jantar-mantar-gate-detained, what-is-the-cockroach-janta-party]
 seo:
-  description: "CJP founder Abhijeet Dipke got conditional bail on a peace bond on 17 October after his Connaught Place detention; AISA's Neha Bora was released hours earlier."
+  description: "CJP founder Abhijeet Dipke got conditional bail on a peace bond on October 17 after his Connaught Place detention; AISA's Neha Bora was released hours earlier."
 sources:
   - title: "Delhi Executive Magistrate Court Orders Release Of CJP Founder Abhijeet Dipke"
     publisher: "LiveLaw"
@@ -72,7 +72,7 @@ verification:
     - "Neha Bora: released early Saturday under Section 65 of the Delhi Police Act (Statesman, two reports). Exact release time not reported. Quotes via ANI as carried by The Statesman; 'We do not understand which law...' from The Week. RK Puram police station from Deccan Herald live-blog headline only; Annie Raja at Parliament Street PS from The Statesman."
     - "FIRs: Statesman says 'multiple' FIRs under Section 163 prohibitory orders; number and police stations not given; officers unnamed. Police statements paraphrased."
     - "Ajinkya Shinde 'more than eight hours' claim paraphrased from The Statesman."
-    - "Das and Ranka: five days judicial custody from 14 October, lodged in Tihar (Statesman). End of remand not stated in copy."
+    - "Das and Ranka: five days judicial custody from October 14, lodged in Tihar (Statesman). End of remand not stated in copy."
 ---
 
 Abhijeet Dipke, founder of the Cockroach Janta Party (CJP), was released on Saturday afternoon after a Special Executive Magistrate granted him conditional bail on a peace bond, about 24 hours after Delhi Police stopped him from leaving for the "Lehra Do Tiranga" protest at Connaught Place.
@@ -87,7 +87,7 @@ The day began with the party saying it did not know where he was. "Abhijeet is a
 
 The hearing itself ran late. "It was supposed to happen at 12 p.m. It's 3:38 p.m. and no sign of it," Singh wrote. Several lawyers were stopped by security outside the magistrate's court while it was under way. Singh had argued that the arrest was unlawful and that asking people to unfurl the Tricolour cannot by itself be a crime. "The SEM Court should release Abhijeet Dipke, as his arrest is unlawful," she wrote.
 
-It is the second time in a week that Dipke has been bound down. After his detention at Delhi airport on 10 October he was released on a bond to keep the peace for a year, and police had served him a reminder of that undertaking on Friday before he was picked up at Jhandewalan.
+It is the second time in a week that Dipke has been bound down. After his detention at Delhi airport on October 10 he was released on a bond to keep the peace for a year, and police had served him a reminder of that undertaking on Friday before he was picked up at Jhandewalan.
 
 ## "By what law?"
 
@@ -101,4 +101,4 @@ She demanded the release of everyone held and an end to the curbs in central Del
 
 Delhi Police have registered several FIRs over alleged violations of the prohibitory orders under Section 163 of the BNSS that were in force around Connaught Place on Friday, when about 150 people were detained. Officers said carrying the national flag was never banned, but gathering a crowd or taking out a procession without permission in the restricted area was, and they warned that repeat offenders would face further action.
 
-CJP co-conveners Saurav Das and Ashutosh Ranka remain in Tihar Jail on the five days of judicial custody ordered on 14 October over their entry into Jantar Mantar.
+CJP co-conveners Saurav Das and Ashutosh Ranka remain in Tihar Jail on the five days of judicial custody ordered on October 14 over their entry into Jantar Mantar.

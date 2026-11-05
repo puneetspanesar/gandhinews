@@ -67,7 +67,7 @@ Shah also pointed to India's record as a first responder in regional disasters a
 
 ## How the meeting came about
 
-BIMSTEC leaders decided at their fourth summit in 2018 to set up a home ministers' track. At the sixth summit in Bangkok on 4 April 2025, Prime Minister Narendra Modi backed the idea and offered to host the first meeting.
+BIMSTEC leaders decided at their fourth summit in 2018 to set up a home ministers' track. At the sixth summit in Bangkok on April 4, 2025, Prime Minister Narendra Modi backed the idea and offered to host the first meeting.
 
 ## An empty chair from Dhaka
 

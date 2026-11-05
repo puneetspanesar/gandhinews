@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: The Tribune (Aksheev Thakur, 17 Oct, 10:43 am). NMC notice itself not seen; date of the NMC decision not given. Number of students affected not reported."
+    - "Single source: The Tribune (Aksheev Thakur, Oct 17, 10:43 am). NMC notice itself not seen; date of the NMC decision not given. Number of students affected not reported."
 ---
 
 The National Medical Commission (NMC) has given medical students who have not been able to clear their first-year exams one more chance, raising the maximum number of attempts at the First Professional MBBS examination from four to five as a one-time measure.

@@ -12,7 +12,7 @@ location: Leh
 keyPoints:
   - "Chief Justice Surya Kant inaugurated the **Ladakh Bench of the High Court of Jammu and Kashmir and Ladakh** in Leh on Sunday."
   - "All Supreme Court matters from Ladakh will be **listed on a single day** and heard by video link."
-  - "The bench's first sittings, from **21 to 23 October**, already have 105 cases listed."
+  - "The bench's first sittings, from **October 21 to 23**, already have 105 cases listed."
 hero:
   need: "Chief Justice of India Surya Kant, ideally at the Leh inauguration, or the new court complex at Leh"
   suggested_source: "Surya Kant (judge)"
@@ -22,7 +22,7 @@ hero:
     value: "A court at Ladakh's doorstep"
 related: [ladakh-hill-council-regulation-amended-7-24-seats, ladakh-chief-secretary-mha-draft-rejection-article-371k, cji-surya-kant-nlsiu-convocation-disagree-dignity, modi-ladakh-3350-crore-projects]
 seo:
-  description: "CJI Surya Kant inaugurated the Ladakh Bench of the J&K and Ladakh High Court in Leh on 18 October and said Ladakh's Supreme Court cases will be heard on a single day by video link."
+  description: "CJI Surya Kant inaugurated the Ladakh Bench of the J&K and Ladakh High Court in Leh on October 18 and said Ladakh's Supreme Court cases will be heard on a single day by video link."
 sources:
   - title: "CJI announces virtual access to Supreme Court for Leh, Kargil lawyers (PTI)"
     publisher: "ThePrint"
@@ -48,7 +48,7 @@ verification:
   status: approved
   notes:
     - "CJI quotes from PTI (ThePrint, 5:47 pm). Attendee list and portals from Voice of Ladakh. LiveLaw headline seen only on its homepage; article could not be fetched."
-    - "Sittings 21-23 October and 105 listed cases from LawChakra summary of the HC notice dated 14 October; notice itself not seen."
+    - "Sittings October 21-23 and 105 listed cases from LawChakra summary of the HC notice dated October 14; notice itself not seen."
     - "Voice of Ladakh names the HC Chief Justice as Pushpendra Singh Bhati. No date given for when video-conferencing to the SC will be ready ('soon')."
 ---
 
@@ -76,4 +76,4 @@ The bench is designed as a paperless court, with an e-filing portal, a document 
 
 ## First cases this week
 
-The bench will sit for the first time from Wednesday, 21 October, to Friday, 23 October, under a high court notice issued on 14 October, with 105 cases already on its list. Until now, litigants from Ladakh have had to travel to Srinagar or Jammu.
+The bench will sit for the first time from Wednesday, October 21, to Friday, October 23, under a high court notice issued on October 14, with 105 cases already on its list. Until now, litigants from Ladakh have had to travel to Srinagar or Jammu.

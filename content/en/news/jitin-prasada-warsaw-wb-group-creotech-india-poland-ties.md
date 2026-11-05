@@ -52,9 +52,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: Prasada's X posts announced the meetings on Wednesday 4 Nov; IANS copy timestamped 10:03-10:08 am IST. The meetings themselves may have taken place on Tuesday in Warsaw (day not stated); written without a day."
+    - "event: Prasada's X posts announced the meetings on Wednesday, Nov 4; IANS copy timestamped 10:03-10:08 am IST. The meetings themselves may have taken place on Tuesday in Warsaw (day not stated); written without a day."
     - "Single source (IANS). Reason for Prasada's trip (delegation or event) not stated, left out. No direct quotes available."
-    - "Modi-Tusk 22 October context from our earlier story and its Hans India source."
+    - "Modi-Tusk October 22 context from our earlier story and its Hans India source."
     - "Cover bg 'Embassy of India, Warsaw': the Boryszew meeting was held there."
 ---
 
@@ -68,4 +68,4 @@ At space technology company **Creotech Instruments**, he met co-founder Grzegorz
 
 At the Indian Embassy, he met Adam Holewa, a board member of the **Boryszew Group** and chief executive of Maflow and BAP Group, to discuss technical cooperation, joint ventures and investment in India under the Make in India and production-linked incentive schemes, with a focus on supply chains.
 
-The visit follows Polish Prime Minister Donald Tusk's talks with Narendra Modi in New Delhi on 22 October, when the two leaders agreed to **deepen cooperation in defence, space and nuclear energy**.
+The visit follows Polish Prime Minister Donald Tusk's talks with Narendra Modi in New Delhi on October 22, when the two leaders agreed to **deepen cooperation in defence, space and nuclear energy**.

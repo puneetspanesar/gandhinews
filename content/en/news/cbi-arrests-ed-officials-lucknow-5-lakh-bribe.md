@@ -12,7 +12,7 @@ location: Lucknow
 keyPoints:
   - "The CBI arrested ED enforcement officer **Deepak Kumar** and head constable Manoj Dwivedi in Lucknow."
   - "Dwivedi is accused of taking **₹5 lakh** from a man who had been summoned in an ED case."
-  - "The CBI registered the case on **23 October** and laid a trap the same day."
+  - "The CBI registered the case on **October 23** and laid a trap the same day."
 hero:
   need: "The Enforcement Directorate's Lucknow zonal office, or the CBI headquarters building"
   suggested_source: "Central Bureau of Investigation headquarters New Delhi"
@@ -33,7 +33,7 @@ verification:
   status: approved
   notes:
     - "Single source (ANI via Asianet Newsable, 2:41 am Sat), relaying the CBI's account; no verbatim CBI quote. Hedged as allegations attributed to the CBI."
-    - "Trap on the same day as the case was registered is implied ('registered on 23 Oct ... laid a trap'); copy says the CBI laid a trap after registering the case on 23 October. Exact time not given."
+    - "Trap on the same day as the case was registered is implied ('registered on Oct 23 ... laid a trap'); copy says the CBI laid a trap after registering the case on October 23. Exact time not given."
     - "Complainant not named; summons in August and September 2026 to complainant's father."
     - "Nature of the underlying ED case not reported. No ED statement found."
 ---
@@ -44,7 +44,7 @@ The two are Deepak Kumar, an enforcement officer, and Manoj Dwivedi, a head cons
 
 According to the CBI, the complainant's father had been summoned twice in an ED case, in August and September this year. Dwivedi is alleged to have demanded the money from the father on behalf of the enforcement officer, promising favourable treatment in the case.
 
-The CBI registered a case on 23 October on the son's complaint and laid a trap. Dwivedi was allegedly caught accepting the ₹5 lakh, and both men were then taken into custody. The agency said its investigation was continuing.
+The CBI registered a case on October 23 on the son's complaint and laid a trap. Dwivedi was allegedly caught accepting the ₹5 lakh, and both men were then taken into custody. The agency said its investigation was continuing.
 
 The CBI did not name the complainant or say what the underlying ED case was about. No statement from the Enforcement Directorate on the arrests was available by early Saturday.
 

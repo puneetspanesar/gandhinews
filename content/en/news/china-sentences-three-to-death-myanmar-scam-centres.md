@@ -21,7 +21,7 @@ hero:
     value: "Three death sentences, 61 jailed"
 related: [china-sanctions-paraguay-belize-ministers-taiwan-ties]
 seo:
-  description: "A Chinese court on 13 October sentenced Myanmar crime boss Wei Huairen and two others to death for running scam centres, drugs and casinos worth over $1.8bn."
+  description: "A Chinese court on October 13 sentenced Myanmar crime boss Wei Huairen and two others to death for running scam centres, drugs and casinos worth over $1.8bn."
 sources:
   - title: "China sentences three people to death for running Myanmar scam centres"
     publisher: "Al Jazeera"
@@ -36,7 +36,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Verdict and sentences from the court's statement as reported by Al Jazeera (13 Oct). Court statement itself not read."
+    - "Verdict and sentences from the court's statement as reported by Al Jazeera (Oct 13). Court statement itself not read."
     - "Revenue figure: court says more than $1.8bn (Al Jazeera). At the May trial, prosecutors alleged victims in China were defrauded of more than 24bn yuan ($3.5bn) (SCMP). Different measures; both given and attributed."
     - "Appeal status not reported. Whether Indians were among those trafficked to Wei compounds: not reported, not raised."
     - "'Four families' description and 2024 arrest date from SCMP (May 2026)."

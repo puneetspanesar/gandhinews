@@ -47,11 +47,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "Commerce ministry memorandum dated Friday 17 Oct, seen by Dawn; Dawn's description of which earlier order was withdrawn is unclear, so left general."
+    - "Commerce ministry memorandum dated Friday, Oct 17, seen by Dawn; Dawn's description of which earlier order was withdrawn is unclear, so left general."
     - "Shahid Rind quotes: Dawn and PTI agree. Baghaei 'technical issues': via IRNA in both."
     - "4,000 tonnes LPG daily: Dawn, citing sources; PTI repeats citing Dawn. Hedged as reported."
-    - "Kurram clashes Saturday 17 Oct: Pakistani state media citing unnamed security sources; Taliban gave no statement. Paktia fighting per KabulNow local sources. Kept attributed."
-    - "PTI piece time-stamped 6:46 pm IST 18 Oct."
+    - "Kurram clashes Saturday, Oct 17: Pakistani state media citing unnamed security sources; Taliban gave no statement. Paktia fighting per KabulNow local sources. Kept attributed."
+    - "PTI piece time-stamped 6:46 pm IST Oct 18."
 ---
 
 Pakistan has suspended trade with Iran through its two main border crossings in Balochistan, leaving hundreds of lorries loaded with cooking gas, rice and fresh fruit stuck on both sides of the frontier.

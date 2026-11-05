@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "All facts from Anthropic's research post (22 Oct, Frontier Red Team with Theorem) and Interesting Engineering (22 Oct, 6:10 pm EST = 4:40 am IST 23 Oct). Published 6:40 am IST as Friday-morning India coverage."
+    - "All facts from Anthropic's research post (Oct 22, Frontier Red Team with Theorem) and Interesting Engineering (Oct 22, 6:10 pm EST = 4:40 am IST Oct 23). Published 6:40 am IST as Friday-morning India coverage."
     - "The post says 'over 100' in its summary and 123 in the body; 123 used. Libraries behind most bugs are not named in the post, so none named except libexpat."
     - "CVE number for libexpat flaw given in the post but not used in copy."
     - "Efficiency figures (Opus 5.5 vs Opus 5, 40% fewer tokens on half of 36 tasks) not used; kept the copy on the main result."

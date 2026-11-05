@@ -21,7 +21,7 @@ hero:
     value: "Accused held, Punjab told to shut"
 related: [mansa-anti-drug-activist-parvinder-jhota-shot-dead, supreme-court-bars-coercive-action-punjab-cm-osd-cbi-case, five-states-head-for-2027-assembly-polls]
 seo:
-  description: "Mansa killing: chemist Ashwani Kumar held in Rajasthan, his shop razed. Jhota's father calls a Punjab bandh on 15 October as CM Mann orders a DGP-led probe."
+  description: "Mansa killing: chemist Ashwani Kumar held in Rajasthan, his shop razed. Jhota's father calls a Punjab bandh on October 15 as CM Mann orders a DGP-led probe."
 sources:
   - title: "Main accused in Punjab anti-drug activist murder case arrested in Rajasthan"
     publisher: "The Tribune"
@@ -81,7 +81,7 @@ verification:
     - "Demolition: Tribune says police and AAP said the administration demolished the shop; the senior officer's quote about the administration 'but it went ahead' is from the Tribune. Written as reported."
     - "Bandh timing 6 am to 5 pm and demands from Tribune (Bhim Singh's announcement). Bandh is today; written as a preview."
     - "Statesman teasers mention an NHRC notice and a joint Punjab-Rajasthan police operation; not in article bodies read, so left out."
-    - "Mann's quotes from the Statesman (statement and X post) and the Tribune; Phillaur review on 16 October from the earlier Tribune report."
+    - "Mann's quotes from the Statesman (statement and X post) and the Tribune; Phillaur review on October 16 from the earlier Tribune report."
 ---
 
 The chemist accused of shooting dead the anti-drug activist Parvinder Singh Jhota in Mansa was arrested in Rajasthan late on Tuesday night, with the pistol police say he used. Punjab is now heading into a day-long shutdown called by Jhota's father, who says the arrest is not enough.

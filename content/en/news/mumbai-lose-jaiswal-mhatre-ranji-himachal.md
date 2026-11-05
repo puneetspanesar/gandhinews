@@ -21,7 +21,7 @@ hero:
     value: "Two openers out, two new faces in"
 related: [ranji-trophy-round-two-fixtures-points-table, ranji-trophy-deshpande-hat-trick-jadeja-century, ranji-trophy-round-one-final-day-results, ranji-trophy-mumbai-up-hyderabad-innings-wins-day-three]
 seo:
-  description: "Mumbai will be without Yashasvi Jaiswal and injured vice-captain Ayush Mhatre for their Ranji Trophy round two match against Himachal Pradesh from 18 October."
+  description: "Mumbai will be without Yashasvi Jaiswal and injured vice-captain Ayush Mhatre for their Ranji Trophy round two match against Himachal Pradesh from October 18."
 sources:
   - title: "Yashasvi Jaiswal OUT of Mumbai's Ranji squad, Suryansh Shedge, Angkrish Raghuvanshi added"
     publisher: "CricketAddictor"
@@ -36,7 +36,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Squad changes, Mhatre injury grade and recovery time, and Jaiswal's India A move: CricketAddictor only (it credits RevSportz for Jaiswal). Hedged as 'set to' and 'expected'. Article updated 11:34 pm IST 15 Oct; publish time set at 9 pm."
+    - "Squad changes, Mhatre injury grade and recovery time, and Jaiswal's India A move: CricketAddictor only (it credits RevSportz for Jaiswal). Hedged as 'set to' and 'expected'. Article updated 11:34 pm IST Oct 15; publish time set at 9 pm."
     - "Venue for the Himachal match given as 'Bisalpur' in the source, which looks doubtful; venue left out."
     - "Round two captain not stated; Siddhesh Lad led in round one (India.com squad list)."
     - "Round one figures (429; Chandigarh 78 and 196; Deshpande 5 for 17 with hat-trick; innings and 155) match the site's earlier round one reports."
@@ -44,7 +44,7 @@ verification:
     - "India A Test series in New Zealand in November: CricketAddictor only."
 ---
 
-Mumbai will go into their second Ranji Trophy match, against Himachal Pradesh from 18 October, without two of their top-order batters.
+Mumbai will go into their second Ranji Trophy match, against Himachal Pradesh from October 18, without two of their top-order batters.
 
 Yashasvi Jaiswal is set to leave the squad to join India A for their tour of New Zealand, which includes a two-match Test series in November. Ayush Mhatre, named vice-captain for the season earlier this month, has a Grade 4 tear in his right hamstring and is expected to be out for four to six weeks.
 
@@ -56,4 +56,4 @@ The changes come after an emphatic start. Mumbai beat Chandigarh by an innings a
 
 Siddhesh Lad captained the side in the first round. Mumbai's squad for the season did not include Suryakumar Yadav, who had made himself available, and Shardul Thakur is out of the opening phase with a hand injury.
 
-The second round of the Elite group stage runs from 18 to 21 October.
+The second round of the Elite group stage runs from October 18 to 21.

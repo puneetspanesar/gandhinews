@@ -12,7 +12,7 @@ location: Mumbai
 keyPoints:
   - "The ₹30,213 crore Jio Platforms offer was **subscribed 3.01 times** by 5 pm on its first day."
   - "Qualified institutional buyers bid for **9.02 times** the shares set aside for them."
-  - "The retail portion was **68% subscribed**; the issue closes on Friday, 23 October."
+  - "The retail portion was **68% subscribed**; the issue closes on Friday, October 23."
 hero:
   need: "Akash Ambani, chairman of Reliance Jio"
   suggested_source: "Akash Ambani"
@@ -22,7 +22,7 @@ hero:
     value: "Three times covered on day one"
 related: [jio-platforms-ipo-fully-subscribed-day-one-record, jio-platforms-ipo-opens-today-what-bidders-need-to-know, jio-platforms-anchor-book-8110-crore-30-times-demand, rupee-six-week-high-94-38-jio-inflows-rbi]
 seo:
-  description: "Jio Platforms IPO day 1 subscription status: 3.01 times overall by 5 pm on 21 October 2026, QIB 9.02x, NII 1.58x, retail 0.68x; issue closes 23 October."
+  description: "Jio Platforms IPO day 1 subscription status: 3.01 times overall by 5 pm on October 21, 2026, QIB 9.02x, NII 1.58x, retail 0.68x; issue closes October 23."
 sources:
   - title: "Jio Platforms IPO breaks record with 100-minute sell-out, subscribed 3 times on Day 1"
     publisher: "The Tribune"
@@ -39,7 +39,7 @@ verification:
   notes:
     - "Day-one figures (3.01x, 59.44 crore vs 19.75 crore shares; QIB 9.02x; NII 1.58x; retail 0.68x; employees 1.30x; shareholders 1.38x; QIB split) from The Tribune citing exchange data 'by 5 pm'. 5paisa (5:01 pm) gives slightly lower numbers (2.97x overall, QIB 8.97x, retail 0.66x); difference is timing."
     - "Bid value 'about ₹66,500 crore' at upper band from The Tribune; 5paisa gives ₹65,588 crore excluding anchor. Copy says 'more than ₹65,000 crore'."
-    - "Allotment 26 Oct and listing 28 Oct from earlier Gandhi News story (markets-reopen...)."
+    - "Allotment Oct 26 and listing Oct 28 from earlier Gandhi News story (markets-reopen...)."
     - "Tribune notes up to 27 crore fresh shares issued vs 19.75 crore on offer to public bidders (anchor and other portions); not explained, not used."
 ---
 
@@ -59,6 +59,6 @@ Retail investors were slower. They bid for 5.78 crore shares out of 8.50 crore r
 
 ## What comes next
 
-Bidding closes on Friday, 23 October. Shares are due to be allotted on 26 October and to list on 28 October.
+Bidding closes on Friday, October 23. Shares are due to be allotted on October 26 and to list on October 28.
 
 Before the issue opened, Jio Platforms raised ₹8,110 crore from 212 anchor investors at ₹1,119 a share. The dollars foreign investors brought in to bid helped the rupee to a six-week high on Wednesday.

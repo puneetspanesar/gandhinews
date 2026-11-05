@@ -33,11 +33,11 @@ sources:
 verification:
   status: verified
   notes:
-    - "Fact-check 11 Oct 2026: every provision, the current-law summary, the Rs 10 lakh rule and all six PRS issues confirmed on the PRS bill page; JPC size, referral date and deadline and party positions confirmed on ThePrint."
+    - "Fact-check Oct 11, 2026: every provision, the current-law summary, the Rs 10 lakh rule and all six PRS issues confirmed on the PRS bill page; JPC size, referral date and deadline and party positions confirmed on ThePrint."
     - "Corrected: ThePrint says Venugopal sought withdrawal and Akhilesh Yadav opposed the Bill; it does not say Yadav sought withdrawal."
-    - "Party positions (Congress's K.C. Venugopal and SP's Akhilesh Yadav seeking withdrawal; Kiren Rijiju saying nothing in the Bill targets minority institutions) come from the research file's reading of ThePrint, 12 Aug 2026. ThePrint was not re-opened for this article; no direct quotes are used."
+    - "Party positions (Congress's K.C. Venugopal and SP's Akhilesh Yadav seeking withdrawal; Kiren Rijiju saying nothing in the Bill targets minority institutions) come from the research file's reading of ThePrint, Aug 12, 2026. ThePrint was not re-opened for this article; no direct quotes are used."
     - "The fine under the Bill is not stated on the PRS page."
-    - "JPC members have not been named in any source found. Winter Session 2026 dates had not been announced as of 11 Oct 2026."
+    - "JPC members have not been named in any source found. Winter Session 2026 dates had not been announced as of Oct 11, 2026."
     - "The FCRA Amendment Rules, 2026 (Rs 10 lakh threshold) are described on the PRS Bill page; the rules' notification date was not found."
 ---
 
@@ -55,7 +55,7 @@ Under the current law, when a certificate is cancelled or surrendered, the forei
 
 ## What does the 2026 Bill change?
 
-**It widens the cases in which foreign-funded assets pass to the government, and sets up a new authority to manage them.** The Ministry of Home Affairs introduced the Bill in the Lok Sabha on 25 March 2026. Its main provisions, as summarised by PRS:
+**It widens the cases in which foreign-funded assets pass to the government, and sets up a new authority to manage them.** The Ministry of Home Affairs introduced the Bill in the Lok Sabha on March 25, 2026. Its main provisions, as summarised by PRS:
 
 - **Cessation of certificates:** a certificate ceases if it is not renewed before it expires, if no renewal application is made, or if renewal is refused.
 - **A Designated Authority:** a new body to take over, manage and dispose of the foreign contribution and assets of such organisations, including assets only partly built with foreign money.
@@ -88,12 +88,12 @@ Under the current law, when a certificate is cancelled or surrendered, the forei
 
 ## What do the parties say?
 
-**The Congress and the Samajwadi Party have asked for the Bill to be withdrawn; the government says it does not target minorities.** Congress MP K.C. Venugopal sought its withdrawal when it was referred to the committee, and SP chief Akhilesh Yadav also opposed it, ThePrint reported on 12 August. Parliamentary Affairs Minister Kiren Rijiju said nothing in the Bill targets minority institutions, according to the same report.
+**The Congress and the Samajwadi Party have asked for the Bill to be withdrawn; the government says it does not target minorities.** Congress MP K.C. Venugopal sought its withdrawal when it was referred to the committee, and SP chief Akhilesh Yadav also opposed it, ThePrint reported on August 12. Parliamentary Affairs Minister Kiren Rijiju said nothing in the Bill targets minority institutions, according to the same report.
 
 ## Where does the Bill stand?
 
-**It is with a Joint Parliamentary Committee.** The Lok Sabha referred it on 12 August 2026, near the end of the Monsoon Session. The committee is due to report by the last day of the first week of the Winter Session 2026, ThePrint reported. As of 11 October 2026, the Winter Session's dates had not been announced.
+**It is with a Joint Parliamentary Committee.** The Lok Sabha referred it on August 12, 2026, near the end of the Monsoon Session. The committee is due to report by the last day of the first week of the Winter Session 2026, ThePrint reported. As of October 11, 2026, the Winter Session's dates had not been announced.
 
 ```timeline
-{"title":"FCRA Amendment Bill, 2026","items":[{"date":"25 Mar 2026","text":"Introduced in the Lok Sabha by the Ministry of Home Affairs."},{"date":"12 Aug 2026","text":"Referred to a 31-member Joint Parliamentary Committee."},{"date":"Winter Session 2026","text":"Committee report due by the end of the session's first week. Dates not yet announced."}]}
+{"title":"FCRA Amendment Bill, 2026","items":[{"date":"Mar 25, 2026","text":"Introduced in the Lok Sabha by the Ministry of Home Affairs."},{"date":"Aug 12, 2026","text":"Referred to a 31-member Joint Parliamentary Committee."},{"date":"Winter Session 2026","text":"Committee report due by the end of the session's first week. Dates not yet announced."}]}
 ```

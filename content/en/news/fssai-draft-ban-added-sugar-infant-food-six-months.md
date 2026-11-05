@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Primary source: PIB release, 17 Oct 2026, 1:59 pm (tea MRLs: PIB 3:26 pm). Gazette publication date 16 Oct per the release; gazette PDF not opened."
+    - "Primary source: PIB release, Oct 17, 2026, 1:59 pm (tea MRLs: PIB 3:26 pm). Gazette publication date Oct 16 per the release; gazette PDF not opened."
     - "No industry or expert reaction found by publication; none used. Brand names not mentioned in the release; none used."
 ---
 

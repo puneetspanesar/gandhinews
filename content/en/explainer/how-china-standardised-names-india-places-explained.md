@@ -52,10 +52,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "Batch counts 2017 (6), 2021 (15), 2023 (11) and 2024 (30, effective 1 May) from PTI via Onmanorama; fifth batch of 27 published 12 May 2025 and the 89 total from the International Campaign for Tibet. 6+15+11+30+27 = 89, consistent."
+    - "Batch counts 2017 (6), 2021 (15), 2023 (11) and 2024 (30, effective May 1) from PTI via Onmanorama; fifth batch of 27 published May 12, 2025, and the 89 total from the International Campaign for Tibet. 6+15+11+30+27 = 89, consistent."
     - "Names listed in Chinese characters, Tibetan script and pinyin with coordinates: ICT document. State Council's revised place-name regulation (2022) and the provision against using foreign-language names that harm China's territorial claims: PTI via Onmanorama, paraphrased."
-    - "Jaishankar 'ludicrous' quote of 23 March 2024 via PTI/Onmanorama. Jaiswal May 2025 quotes from UNI (dateline 14 May; year confirmed by The Wire and The Week URLs dated 2025-05-14)."
-    - "Ladakh names (2 October 2026), Mao Ning and Jaiswal quotes of 13 October 2026 from the desk's 13 October story and its Tribune sources."
+    - "Jaishankar 'ludicrous' quote of March 23, 2024, via PTI/Onmanorama. Jaiswal May 2025 quotes from UNI (dateline May 14; year confirmed by The Wire and The Week URLs dated 2025-05-14)."
+    - "Ladakh names (October 2, 2026), Mao Ning and Jaiswal quotes of October 13, 2026, from the desk's October 13 story and its Tribune sources."
     - "China's claim of about 90,000 sq km in Arunachal is the commonly cited figure; no 2026 document opened for it."
     - "The point that naming alone does not change control or administration is the desk's plain-language framing, not attributed to any expert."
 ---
@@ -70,10 +70,10 @@ China claims most of the state, about 90,000 sq km, and calls it "Zangnan", or s
 
 **Five since 2017, covering 89 places in all.**
 
-The first came in 2017 with six names. A second list of 15 followed in 2021, then 11 in 2023 and 30 in 2024. The fifth, with 27 names, was published on 12 May 2025.
+The first came in 2017 with six names. A second list of 15 followed in 2021, then 11 in 2023 and 30 in 2024. The fifth, with 27 names, was published on May 12, 2025.
 
 ```timeline
-{"title":"China's name lists for Arunachal Pradesh","items":[{"date":"2017","text":"First list, 6 names"},{"date":"2021","text":"Second list, 15 names"},{"date":"April 2023","text":"Third list, 11 names"},{"date":"Spring 2024","text":"Fourth list, 30 names, effective 1 May 2024"},{"date":"12 May 2025","text":"Fifth list, 27 names, taking the total to 89"}]}
+{"title":"China's name lists for Arunachal Pradesh","items":[{"date":"2017","text":"First list, 6 names"},{"date":"2021","text":"Second list, 15 names"},{"date":"April 2023","text":"Third list, 11 names"},{"date":"Spring 2024","text":"Fourth list, 30 names, effective May 1, 2024"},{"date":"May 12, 2025","text":"Fifth list, 27 names, taking the total to 89"}]}
 ```
 
 ## What rules does China use?
@@ -104,9 +104,9 @@ The replies also serve a domestic purpose. People in Arunachal, and their electe
 
 **This time India did the naming, and China objected.**
 
-On 2 October the government announced official names for 28 peaks, passes, glaciers, valleys and lakes in Ladakh and placed them on a Survey of India map of the Union Territory. They include Zorawar Peak, Kanishka Peak and Guru Rinpoche Lake. Several of the features lie in or near Aksai Chin, the high plateau China has held since the 1950s and India claims as part of Ladakh.
+On October 2 the government announced official names for 28 peaks, passes, glaciers, valleys and lakes in Ladakh and placed them on a Survey of India map of the Union Territory. They include Zorawar Peak, Kanishka Peak and Guru Rinpoche Lake. Several of the features lie in or near Aksai Chin, the high plateau China has held since the 1950s and India claims as part of Ladakh.
 
-On 13 October Chinese foreign ministry spokesperson Mao Ning called the move "illegal, null and void" and said: "China has never recognised the so-called Union Territory of Ladakh." Jaiswal replied the same day: "No amount of denial by the Chinese side can change this established fact."
+On October 13 Chinese foreign ministry spokesperson Mao Ning called the move "illegal, null and void" and said: "China has never recognised the so-called Union Territory of Ladakh." Jaiswal replied the same day: "No amount of denial by the Chinese side can change this established fact."
 
 ## So is this a new phase?
 

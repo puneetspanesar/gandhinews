@@ -41,8 +41,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Tally and quotes from the PIB release (posted 15 Oct, 8:41 pm IST) and Yadav's X post embedded in it."
-    - "Sukhna area, catchment, 1988 national wetland status and nomination steps from Tribune (16 Feb 2026) and Outlook Traveller (Sept 2025); both agree."
+    - "Tally and quotes from the PIB release (posted Oct 15, 8:41 pm IST) and Yadav's X post embedded in it."
+    - "Sukhna area, catchment, 1988 national wetland status and nomination steps from Tribune (Feb 16, 2026) and Outlook Traveller (Sept 2025); both agree."
     - "No details found on Sauj Jheel (district, area, species) in any source checked; left out."
     - "Previous tally of 101 is arithmetic from the release (103 minus the two additions)."
 ---
@@ -57,4 +57,4 @@ Sukhna, at the foot of the Shivaliks, covers nearly 565 acres, with a catchment 
 
 The nomination took about a year. The State Wetland Authority of Chandigarh, chaired by Punjab Governor and UT Administrator Gulab Chand Kataria, approved the proposal in September 2025. The UT forest department then sent a detailed proposal to the Centre, which cleared it with the endorsement of the Ministry of External Affairs before it went to the Ramsar Secretariat.
 
-The Ramsar Convention, adopted in the Iranian city of Ramsar in 1971, came into force in India on 1 February 1982.
+The Ramsar Convention, adopted in the Iranian city of Ramsar in 1971, came into force in India on February 1, 1982.

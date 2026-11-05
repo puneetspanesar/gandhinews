@@ -46,7 +46,7 @@ related:
   - psg-beat-barcelona-4-2-vitinha-fabian-ruiz-late-goals
   - rice-late-equaliser-arsenal-draw-bayern-saka-injury
 seo:
-  description: "Champions League 3 November 2026 results: PSG 6-0 Villarreal with a record four goals in 16 minutes, Atletico 0-2 Bayern, Barcelona 3-0 Aston Villa, Manchester United 3-2 Roma, Feyenoord 0-3 Inter."
+  description: "Champions League November 3, 2026, results: PSG 6-0 Villarreal with a record four goals in 16 minutes, Atletico 0-2 Bayern, Barcelona 3-0 Aston Villa, Manchester United 3-2 Roma, Feyenoord 0-3 Inter."
 sources:
   - title: "Match report: Champions League, Atletico Madrid v FC Bayern"
     publisher: "FC Bayern"
@@ -71,10 +71,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: games kicked off 23:15 IST Tue 3 Nov (Galatasaray, Shakhtar) and 01:30 IST Wed 4 Nov (rest); final whistles about 03:20 IST. Written about 03:50 IST."
+    - "event: games kicked off 23:15 IST Tue Nov 3 (Galatasaray, Shakhtar) and 01:30 IST Wed Nov 4 (rest); final whistles about 03:20 IST. Written about 03:50 IST."
     - "PSG goal times from The Sports Encounter: Neves 9, Doue 12, Mayulu 13, Ruiz 16:02 (its table lists 17), Ruiz 50, Boly 78. Record (four in 16 min 2 sec, beating Real Madrid's four by 20 min v Dinamo Zagreb, Nov 2011) from same source only; Sports Mole lists the same six scorers. Boly age not confirmed, left out."
     - "Atletico 0-2 Bayern: Karl 54, Laimer 74 (Kane assist), attendance 70,813, Oblak tipped Upamecano shot onto bar, from FC Bayern report. Points/positions (Bayern 8th on 8, Atletico 22nd on 4) from NewsBytes only."
-    - "Man Utd 3-2 Roma: Soule and Malen (Malen penalty per Sports Encounter) before half-time, Fernandes retaken penalty 58, Cunha two in last 10 minutes (Sports Mole), winner from Shea Lacey pass, Cunha second yellow in stoppage time. Win count since September hedged: Sports Mole says first win in nine, Yahoo preview says no win since Sabah on 10 Sept; our preview said seven. Written as first win since September."
+    - "Man Utd 3-2 Roma: Soule and Malen (Malen penalty per Sports Encounter) before half-time, Fernandes retaken penalty 58, Cunha two in last 10 minutes (Sports Mole), winner from Shea Lacey pass, Cunha second yellow in stoppage time. Win count since September hedged: Sports Mole says first win in nine, Yahoo preview says no win since Sabah on Sept 10; our preview said seven. Written as first win since September."
     - "No post-match quotes found in any source read; none used."
 ---
 

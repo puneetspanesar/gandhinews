@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: ETV Bharat Hindi, 12:43 pm IST 22 Oct, says rules notified 'today' by the central government; gazette not read. Notifying department not named in source; DoT shown only in the hero photo suggestion, not stated in copy."
+    - "Single source: ETV Bharat Hindi, 12:43 pm IST Oct 22, says rules notified 'today' by the central government; gazette not read. Notifying department not named in source; DoT shown only in the hero photo suggestion, not stated in copy."
     - "6G and advanced AI are the article's examples of what could be tested, not named in the rules as read."
     - "Fee ₹10,000 non-refundable, 24 months plus 12-month extensions, 30 days' notice for extension, one-year record keeping all from ETV Bharat."
 ---

@@ -8,7 +8,7 @@ topics: []
 title: "Starlink and Starshield explained: why a speed limit in orbit mattered on Ukraine's front line"
 standfirst: "For ten days Ukraine's satellite links stopped working on anything moving faster than about 160 km/h. Speeds were restored on Saturday, but who ordered the cap is still disputed. How the system works, why speed matters, and what Kyiv is doing about it."
 published: 2026-10-26T05:40:00+05:30
-shortAnswer: "Starlink is SpaceX's commercial satellite internet; Starshield is a separate SpaceX system for military and government customers that Elon Musk says is owned and controlled by the US government. Ukraine's forces use both to fly drones and coordinate units. Overnight into 14 October terminals moving faster than about 160 km/h lost service, which Ukraine says crippled the fast interceptor drones it uses against Russia's jet-powered Shaheds. Speeds above 400 km/h were restored by 24 October; Musk says limits are set by the US military and that Ukraine broke Starlink's terms, while Donald Trump denies any role."
+shortAnswer: "Starlink is SpaceX's commercial satellite internet; Starshield is a separate SpaceX system for military and government customers that Elon Musk says is owned and controlled by the US government. Ukraine's forces use both to fly drones and coordinate units. Overnight into October 14 terminals moving faster than about 160 km/h lost service, which Ukraine says crippled the fast interceptor drones it uses against Russia's jet-powered Shaheds. Speeds above 400 km/h were restored by October 24; Musk says limits are set by the US military and that Ukraine broke Starlink's terms, while Donald Trump denies any role."
 hero:
   need: "Elon Musk and Volodymyr Zelenskyy, the two sides of the Starshield dispute"
   suggested_source: "Elon Musk"
@@ -43,10 +43,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "Starlink/Starshield distinction, Musk's 'owned and controlled by the US government' and 'Any limits on speed or usage are decided by the US military and ultimately POTUS', cap timing (overnight into 14 October, 160 km/h announced, lower in practice per Defence Ministry), Trishkin's claim that ordinary Starlink stopped working above 160 km/h in 2025, 2 February 2026 whitelist after Fedorov-Musk talks, Geran-4 300-400 km/h (Ukraine's Defence Intelligence), interceptors above 600 km/h, interception falling from over 90% to about 60% after Russia's switch to jet engines, Beskrestnov 'no warning' quote, Fedorov quote, 2022 Mariupol and 2023 Bakhmut use, from the Implicator.ai report, which compiles Ukrainian officials' and analysts' statements. Interception figures are attributed in copy as Ukrainian figures."
-    - "Restoration (above 400 km/h, Zelenskyy and Defence Ministry quotes, Khmara), Musk's 'violated Starlink terms of service' post, Beskrestnov's 70-90 km/h attack-drone point, Trump quote, Blumenthal inquiry, Abu Dhabi talks, from the desk's 25 October story (ThePrint, Kyiv Independent, Al Jazeera)."
-    - "Poland paying for Ukraine's Starlink subscriptions, Shaheen and Sikorski reactions, from the desk's 14 October story. Rubio's 18 October remark that Ukraine 'did not currently have access to Starshield' conflicts with Ukraine's account that it uses Starshield; copy reports both. Nokia/ICEYE letter of intent from the desk's 23 October story."
-    - "India licensing status (security clearance pending with MHA for Starlink, OneWeb, Jio) from the desk's 12 October story; not re-checked for changes since."
+    - "Starlink/Starshield distinction, Musk's 'owned and controlled by the US government' and 'Any limits on speed or usage are decided by the US military and ultimately POTUS', cap timing (overnight into October 14, 160 km/h announced, lower in practice per Defence Ministry), Trishkin's claim that ordinary Starlink stopped working above 160 km/h in 2025, February 2, 2026, whitelist after Fedorov-Musk talks, Geran-4 300-400 km/h (Ukraine's Defence Intelligence), interceptors above 600 km/h, interception falling from over 90% to about 60% after Russia's switch to jet engines, Beskrestnov 'no warning' quote, Fedorov quote, 2022 Mariupol and 2023 Bakhmut use, from the Implicator.ai report, which compiles Ukrainian officials' and analysts' statements. Interception figures are attributed in copy as Ukrainian figures."
+    - "Restoration (above 400 km/h, Zelenskyy and Defence Ministry quotes, Khmara), Musk's 'violated Starlink terms of service' post, Beskrestnov's 70-90 km/h attack-drone point, Trump quote, Blumenthal inquiry, Abu Dhabi talks, from the desk's October 25 story (ThePrint, Kyiv Independent, Al Jazeera)."
+    - "Poland paying for Ukraine's Starlink subscriptions, Shaheen and Sikorski reactions, from the desk's October 14 story. Rubio's October 18 remark that Ukraine 'did not currently have access to Starshield' conflicts with Ukraine's account that it uses Starshield; copy reports both. Nokia/ICEYE letter of intent from the desk's October 23 story."
+    - "India licensing status (security clearance pending with MHA for Starlink, OneWeb, Jio) from the desk's October 12 story; not re-checked for changes since."
     - "No figure for the number of terminals in Ukraine was found; none given."
     - "General description of Starlink (low-orbit constellation, dish terminals) and Geran-4 as a Shahed derivative is standard background, not from a specific 2026 source."
 ---
@@ -63,15 +63,15 @@ Starlink works through thousands of small satellites in low orbit, a few hundred
 
 SpaceX switched Starlink on over Ukraine in the first days of Russia's full-scale invasion in 2022. Defenders in besieged Mariupol used it to get messages out, and units used it to coordinate the fighting around Bakhmut in 2023. Poland pays for Ukraine's Starlink subscriptions.
 
-Today Ukrainian forces fly many of their drones over satellite links. "Starlink allows you not to have to deal with radio physics," one Ukrainian officer explained. After Russian troops were found using smuggled terminals, Ukraine agreed with SpaceX on a whitelist of approved terminals from 2 February 2026, and then fitted Starlink equipment widely to its medium-range strike drones.
+Today Ukrainian forces fly many of their drones over satellite links. "Starlink allows you not to have to deal with radio physics," one Ukrainian officer explained. After Russian troops were found using smuggled terminals, Ukraine agreed with SpaceX on a whitelist of approved terminals from February 2, 2026, and then fitted Starlink equipment widely to its medium-range strike drones.
 
 ## What happened in October?
 
-**Overnight into 14 October, terminals moving faster than about 160 km/h, or 100 mph, stopped working, without warning.**
+**Overnight into October 14, terminals moving faster than about 160 km/h, or 100 mph, stopped working, without warning.**
 
 "Our Defense Forces received no warning about these restrictions, and this led to the disruption of a number of missions," said Serhii Beskrestnov, an adviser to President Volodymyr Zelenskyy on defence technology. Ukraine's Defence Ministry said limits in practice were often lower than the announced figure. Zelenskyy called it "a big mistake" that would cost lives.
 
-Ukrainian analysts say ordinary Starlink had already stopped working on fast-moving drones in 2025, and that Starshield had kept working until 13 October.
+Ukrainian analysts say ordinary Starlink had already stopped working on fast-moving drones in 2025, and that Starshield had kept working until October 13.
 
 ## Why does speed matter so much?
 
@@ -89,15 +89,15 @@ Ukraine's military intelligence puts the typical speed of Russia's jet-powered G
 
 Musk wrote that "Any limits on speed or usage are decided by the US military and ultimately POTUS". On Saturday he added a new charge: "Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people." Beskrestnov replied that Ukraine was "physically unable" to use Starlink on its long and medium-range attack drones, which fly well below the cap.
 
-President Donald Trump has denied any role. "I have not spoken to him," he said of Musk. "I've heard it's fixed. If it's not, I will speak to him." Secretary of State Marco Rubio said on 18 October that Ukraine did not currently have access to Starshield and that this was "under conversation", an account at odds with Kyiv's. Senator Richard Blumenthal has asked the Pentagon who ordered the limits.
+President Donald Trump has denied any role. "I have not spoken to him," he said of Musk. "I've heard it's fixed. If it's not, I will speak to him." Secretary of State Marco Rubio said on October 18 that Ukraine did not currently have access to Starshield and that this was "under conversation", an account at odds with Kyiv's. Senator Richard Blumenthal has asked the Pentagon who ordered the limits.
 
 The cap came in a tense month: Washington had lifted sanctions on Russian diesel, and Kyiv says it briefly lost US early-warning intelligence. Ukrainian officials have called the timing no coincidence; the US denies any link.
 
 ## Is it fixed now?
 
-**For now.** On 24 October the Defence Ministry said Starshield was working on equipment moving at more than 400 km/h and the connection was stable. "The main thing for today is that Starlink and Starshield have resumed operations at their pre-restriction speeds," Zelenskyy said.
+**For now.** On October 24 the Defence Ministry said Starshield was working on equipment moving at more than 400 km/h and the connection was stable. "The main thing for today is that Starlink and Starshield have resumed operations at their pre-restriction speeds," Zelenskyy said.
 
-Kyiv has drawn its own lesson. On 22 October its Defence Ministry signed a letter of intent with the Finnish companies Nokia and ICEYE to build a satellite communications system Ukraine controls. No cost or timeline has been given.
+Kyiv has drawn its own lesson. On October 22 its Defence Ministry signed a letter of intent with the Finnish companies Nokia and ICEYE to build a satellite communications system Ukraine controls. No cost or timeline has been given.
 
 ## Why should India care?
 

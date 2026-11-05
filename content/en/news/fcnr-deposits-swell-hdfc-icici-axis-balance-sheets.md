@@ -11,7 +11,7 @@ published: 2026-10-17T17:20:00+05:30
 location: Mumbai
 keyPoints:
   - "HDFC Bank raised **$11.5 billion** in FCNR-B deposits through the RBI's swap window."
-  - "Axis Bank had mobilised **$10.62 billion** by 30 September."
+  - "Axis Bank had mobilised **$10.62 billion** by September 30."
   - "Without FCNR-B money, ICICI Bank's deposit growth falls from 27.1% to **17%**."
 hero:
   need: "Two-panel: HDFC Bank House in Lower Parel and Axis House in Worli, Mumbai"
@@ -54,13 +54,13 @@ verification:
   notes:
     - "ICICI's FCNR-B dollar amount was not given in sources read; only the with/without growth rates. Hence '$22 billion between two of them' (HDFC $11.5bn + Axis $10.62bn = $22.12bn)."
     - "'Swap window' wording from CNBC-TV18 on HDFC; terms of the RBI scheme not sourced here, so not described."
-    - "Federal Bank's 45% jump 'on FCNR deposits' is a Business Standard headline (16 Oct) seen as a related link."
+    - "Federal Bank's 45% jump 'on FCNR deposits' is a Business Standard headline (Oct 16) seen as a related link."
     - "Axis NIM preview (7-12 bps fall on FCNR-B flows) from Business Standard results-day piece."
 ---
 
 Foreign currency deposits from non-resident Indians poured into the country's biggest private banks in the July-September quarter, and Saturday's results showed how much they changed the shape of their balance sheets.
 
-HDFC Bank raised $11.5 billion in foreign currency non-resident (FCNR-B) deposits through the Reserve Bank's swap window, and its overseas branches lent $5.7 billion against them. Axis Bank had mobilised $10.62 billion by 30 September and issued $4.69 billion of standby letters of credit to other lenders on loans backed by the deposits. Between those two banks alone, that is more than $22 billion.
+HDFC Bank raised $11.5 billion in foreign currency non-resident (FCNR-B) deposits through the Reserve Bank's swap window, and its overseas branches lent $5.7 billion against them. Axis Bank had mobilised $10.62 billion by September 30 and issued $4.69 billion of standby letters of credit to other lenders on loans backed by the deposits. Between those two banks alone, that is more than $22 billion.
 
 ## Growth, with an asterisk
 

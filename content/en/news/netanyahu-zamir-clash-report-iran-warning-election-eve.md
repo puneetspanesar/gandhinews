@@ -22,7 +22,7 @@ hero:
     value: "Two days to the vote, a row over Iran"
 related: [israel-election-netanyahu-police-chief-meeting-golan-protection, trump-endorses-netanyahu-eisenkot-says-voters-decide, eisenkot-lapid-hollow-netanyahu-security-doctrine-araghchi, trump-rules-out-iran-strike-today-qatar-mediators-tehran]
 seo:
-  description: "Netanyahu warned Iran on 25 October against attacks to disrupt Israel's 27 October election and dismissed a report that he clashed with army chief Eyal Zamir over Iran."
+  description: "Netanyahu warned Iran on October 25 against attacks to disrupt Israel's October 27 election and dismissed a report that he clashed with army chief Eyal Zamir over Iran."
 sources:
   - title: "Iran says messages are still being passed to the US amid war concerns, and other Mideast news (AP)"
     publisher: "Walla Walla Union-Bulletin"
@@ -52,7 +52,7 @@ verification:
     - "Channel 12 clash report and the directive's content: as reported by AP; directive not specified. Netanyahu's 'nonsense' remark was on Channel 14 (AP). Eisenkot's backing of Zamir on X (AP)."
     - "Netanyahu pushing for an attack as polls fall: Al Jazeera, hedged. 'Primary objective' quote: Al Jazeera."
     - "Baraachit strike: Lebanon's National News Agency via Pakistan Today; casualties not reported."
-    - "Election date Tuesday = 27 October 2026."
+    - "Election date Tuesday = October 27, 2026."
 ---
 
 Benjamin Netanyahu has warned Iran and its allies not to attack Israel in the run-up to Tuesday's general election, and brushed aside a television report that he had fallen out with the head of the armed forces over Iran policy just days before the vote.
@@ -73,10 +73,10 @@ The dispute goes to the centre of the campaign. Mr Netanyahu, Israel's longest-s
 
 The warning came as Israeli forces kept up strikes in southern Lebanon. Lebanon's National News Agency said the town of Baraachit, in the Bint Jbeil district, was hit on Sunday.
 
-In Washington, President Donald Trump said there would be no US strike on Iran on Sunday, while keeping open the choice between a deal and what he called finishing the job. His administration has said it will not move before the 3 November midterm elections, so Israel will vote with the question unresolved.
+In Washington, President Donald Trump said there would be no US strike on Iran on Sunday, while keeping open the choice between a deal and what he called finishing the job. His administration has said it will not move before the November 3 midterm elections, so Israel will vote with the question unresolved.
 
 Analysts see a risky stretch ahead. Julie Norman of Chatham House said both sides appeared prepared for escalation and that the risk of miscalculation was high, and questioned what another round of strikes would achieve in getting Iran to negotiate.
 
 For India, the outcome matters on two counts. Israel is a close defence and technology partner, and any widening of the war with Iran would hit the Gulf shipping lanes that carry much of India's oil.
 
-Israelis vote on Tuesday, 27 October.
+Israelis vote on Tuesday, October 27.

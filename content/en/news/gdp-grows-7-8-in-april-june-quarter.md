@@ -47,16 +47,16 @@ sources:
 verification:
   status: verified
   notes:
-    - "Fact-checked 11 Oct 2026: all levels, growth rates, sector and expenditure figures, shares, 27 Feb 2026 series launch, double deflation and the 30 Nov release date confirmed in the MoSPI Q1 press note. Revised annual growth (7.3%, 7.2%, 7.8%) confirmed in the PIB factsheet of 1 Sep 2026. RBI quote and projections confirmed in the MPC resolution."
+    - "Fact-checked Oct 11, 2026: all levels, growth rates, sector and expenditure figures, shares, Feb 27, 2026, series launch, double deflation and the Nov 30 release date confirmed in the MoSPI Q1 press note. Revised annual growth (7.3%, 7.2%, 7.8%) confirmed in the PIB factsheet of Sep 1, 2026. RBI quote and projections confirmed in the MPC resolution."
     - "The list of new indices (output PPI, IIP with base 2022-23, Banking Services Price Index) is confirmed in the MoSPI press note; wording tidied only."
     - "Q2, Q3 and Q4 2025-26 quarterly growth on the new series were not found in a primary or reputable source. A broker site (5paisa) says Q4 2025-26 was revised to 8.6% from 7.8%; not used."
     - "The previous base year is not named because the MoSPI and PIB documents read did not state it."
-    - "Q1 GDP release date (31 August 2026) is from the MoSPI press note; the story is published on 11 October as part of the launch, so it is framed as a look back."
+    - "Q1 GDP release date (August 31, 2026) is from the MoSPI press note; the story is published on October 11 as part of the launch, so it is framed as a look back."
 ---
 
-India's economy grew 7.8% in real terms in April-June 2026, the first quarter of 2026-27, according to estimates released by the National Statistics Office (NSO) on 31 August. Growth was 6.9% in the same quarter a year earlier.
+India's economy grew 7.8% in real terms in April-June 2026, the first quarter of 2026-27, according to estimates released by the National Statistics Office (NSO) on August 31. Growth was 6.9% in the same quarter a year earlier.
 
-The figure beat the Reserve Bank of India's estimate of 7.0% for the quarter. In its policy resolution of 7 October, the RBI noted that Q1 growth "was higher than expected".
+The figure beat the Reserve Bank of India's estimate of 7.0% for the quarter. In its policy resolution of October 7, the RBI noted that Q1 growth "was higher than expected".
 
 ## The numbers
 
@@ -79,7 +79,7 @@ The secondary sector grew 8.6%, against 6.1% a year earlier. Manufacturing grew 
 The primary sector lagged at 2.9%. Agriculture grew 3.6%, while mining and quarrying contracted 2.4%.
 
 ```chart
-{"type":"hbar","title":"Real GVA growth by sector, April-June 2026","subtitle":"Year on year (%)","unit":"%","data":[{"label":"Financial, real estate, professional services","value":12.1,"highlight":true},{"label":"Manufacturing","value":9.2},{"label":"Electricity, gas, water and utilities","value":8.9},{"label":"Trade, hotels, transport, communication","value":8.5},{"label":"Construction","value":7.7},{"label":"Public administration, defence, other services","value":7.5},{"label":"Agriculture, forestry, fishing","value":3.6},{"label":"Mining and quarrying","value":-2.4}],"source":"MoSPI, 31 Aug 2026"}
+{"type":"hbar","title":"Real GVA growth by sector, April-June 2026","subtitle":"Year on year (%)","unit":"%","data":[{"label":"Financial, real estate, professional services","value":12.1,"highlight":true},{"label":"Manufacturing","value":9.2},{"label":"Electricity, gas, water and utilities","value":8.9},{"label":"Trade, hotels, transport, communication","value":8.5},{"label":"Construction","value":7.7},{"label":"Public administration, defence, other services","value":7.5},{"label":"Agriculture, forestry, fishing","value":3.6},{"label":"Mining and quarrying","value":-2.4}],"source":"MoSPI, Aug 31, 2026"}
 ```
 
 ## Investment picked up
@@ -90,7 +90,7 @@ Private consumption grew 7.1%, against 6.8% a year earlier, and its share of GDP
 
 ## The new base year
 
-This is the first April-June quarter reported on the new national accounts series with base year 2022-23, which MoSPI released on 27 February 2026. The new series uses new price and production indices with base year 2022-23, including an output Producer Price Index, the Index of Industrial Production and a Banking Services Price Index.
+This is the first April-June quarter reported on the new national accounts series with base year 2022-23, which MoSPI released on February 27, 2026. The new series uses new price and production indices with base year 2022-23, including an output Producer Price Index, the Index of Industrial Production and a Banking Services Price Index.
 
 It also changes how manufacturing is measured. MoSPI now uses "double deflation", which adjusts both the value of output and the value of inputs for price changes, in place of the single deflation used earlier.
 
@@ -100,4 +100,4 @@ The revisions raised past growth figures slightly. Growth for 2023-24 moved to 7
 
 MoSPI says quarterly estimates are "likely to undergo revisions" as data coverage improves. The April-June figure can still change.
 
-The RBI now projects 7.2% growth for July-September and 7.1% for the full year 2026-27, with growth easing to 6.9% in October-December and 6.8% in January-March. The July-September estimate is scheduled for release on 30 November 2026.
+The RBI now projects 7.2% growth for July-September and 7.1% for the full year 2026-27, with growth easing to 6.9% in October-December and 6.8% in January-March. The July-September estimate is scheduled for release on November 30, 2026.

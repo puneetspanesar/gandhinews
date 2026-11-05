@@ -22,7 +22,7 @@ hero:
     value: "Milne 4-19, NZ need 192"
 related: [kishan-61-calendar-year-record-iyer-fifty-hamilton, santner-wins-toss-india-bat-hamilton-bhuvneshwar-varun-return, india-new-zealand-fifth-t20i-hamilton-preview, nz-thrash-india-87-runs-eden-park-fourth-t20i]
 seo:
-  description: "India scored 191 for 8 against New Zealand in the fifth T20I at Hamilton on 1 November 2026, with Ishan Kishan 61, Shreyas Iyer 50 and Adam Milne taking 4 for 19. New Zealand lost Finn Allen early in the chase."
+  description: "India scored 191 for 8 against New Zealand in the fifth T20I at Hamilton on November 1, 2026, with Ishan Kishan 61, Shreyas Iyer 50 and Adam Milne taking 4 for 19. New Zealand lost Finn Allen early in the chase."
 sources:
   - title: "NZ vs IND, 5th T20I: Iyer, Ishan fifties take India to 191/8; Milne takes 4-fer"
     publisher: "ANI"
@@ -62,7 +62,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov about 14:25 IST, India innings closed at 191/8 (ANI report time-stamped 14:31 IST, IANS 14:38 to 14:41 IST); NZ chase began about 14:40 IST, Allen out early and 20-run sixth over by about 15:05 IST."
+    - "event: Nov 1 about 14:25 IST, India innings closed at 191/8 (ANI report time-stamped 14:31 IST, IANS 14:38 to 14:41 IST); NZ chase began about 14:40 IST, Allen out early and 20-run sixth over by about 15:05 IST."
     - "Scorecard and fall of wickets from ANI (fetched): Abhishek 1 (2) c Mitchell b Milne 2/1; Samson 4 (10) c Bracewell 19/2; Kishan 61 c Smith b Tickner 112/3 (10.2); Iyer 50 (23, 3x4, 4x6) 123/4 (11.3); Tilak 133/5 (13.4), c&b Smith (IANS); Dhir 33 (23) c Bracewell b Tickner 179/6 (18.4); Nitish 22 (17) c Phillips; Bhuvneshwar 6 (4) c Mitchell b Milne 190/8 (19.5). Milne 4-19, Smith 2-28 (IANS), Tickner two wickets."
     - "Nitish's bowler not named in sources; inferred as Milne since Milne 4, Tickner 2, Smith 2 accounts for all eight. Copy says Milne struck in the last over without naming Nitish's bowler explicitly. Tilak's score not given; left out."
     - "Chase state rests only on search-result headlines (ESPNcricinfo live blog 'Seifert, Mitchell fly in chase of 192'; India.com 'Arshdeep strikes, Finn Allen out for 2'; Outlook 'Seifert goes berserk, 20 runs off sixth over'). Pages themselves failed to fetch or returned pre-match caches, so no score or over count given for the chase beyond these."

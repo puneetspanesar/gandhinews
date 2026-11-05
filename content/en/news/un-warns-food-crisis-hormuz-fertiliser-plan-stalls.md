@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (Al Jazeera, citing Reuters interview, 14 Oct). Moreira da Silva spoke on sidelines of IMF-World Bank meetings in Bangkok."
+    - "Single source (Al Jazeera, citing Reuters interview, Oct 14). Moreira da Silva spoke on sidelines of IMF-World Bank meetings in Bangkok."
     - "No India-specific figures in source; South Asia line is general as reported."
 ---
 

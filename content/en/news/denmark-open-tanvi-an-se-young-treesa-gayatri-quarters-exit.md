@@ -12,7 +12,7 @@ location: Odense
 keyPoints:
   - "Tanvi Sharma lost **21-15, 21-13** to world No. 1 An Se-young in 38 minutes."
   - "Treesa Jolly and Gayatri Gopichand won the first game but lost **21-14, 17-21, 11-21** to Pearly Tan and Thinaah Muralitharan."
-  - "No Indian is left for Saturday's semi-finals; the **French Open** starts on 20 October."
+  - "No Indian is left for Saturday's semi-finals; the **French Open** starts on October 20."
 hero:
   need: "India's Tanvi Sharma, badminton player"
   suggested_source: "Tanvi Sharma (badminton)"
@@ -39,7 +39,7 @@ verification:
   notes:
     - "Scores, durations, rankings and the Asian Games 2026 QF meeting: ANI via NewKerala. The doubles score line as read was 14-21, 21-17, 11-21, which is internally inconsistent; copy uses 21-14, 17-21, 11-21 (India first), the only reading that fits ANI's account that India won game one after leading 11-7 and lost game two from 14-11 up. Editor may wish to recheck against BWF."
     - "Treesa-Gayatri ranked 18th, Malaysians fifth (ANI). Bernama says Pearly-Thinaah are the tournament's second seeds; copy says second seeds."
-    - "Earlier rounds (Treesa-Gayatri beat Indonesian fifth seeds; Tanvi beat Yvonne Li; Srikanth lost to Lanier) as in our 16 Oct story."
+    - "Earlier rounds (Treesa-Gayatri beat Indonesian fifth seeds; Tanvi beat Yvonne Li; Srikanth lost to Lanier) as in our Oct 16 story."
     - "No player quotes found."
 ---
 
@@ -57,4 +57,4 @@ It was the same opponents who knocked the Indians out in the quarter-finals of t
 
 It was a week of early exits for the rest of the Indian contingent. PV Sindhu, Unnati Hooda, Lakshya Sen, Ayush Shetty and the men's doubles pair of Satwiksairaj Rankireddy and Chirag Shetty all went out in the first round, and Kidambi Srikanth lost in the second round to world champion Alex Lanier of France.
 
-No Indian is involved in Saturday's semi-finals. The tour moves straight on to the French Open, which runs from 20 to 25 October.
+No Indian is involved in Saturday's semi-finals. The tour moves straight on to the French Open, which runs from October 20 to 25.

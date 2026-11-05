@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Catch-up: results released Friday 23 Oct, not yet on site. Figures from Business Today (4:53 pm IST). Business Standard headline (page not read) says ₹771 crore, a small gap, possibly a different profit line (e.g. attributable to owners); copy uses Business Today's ₹774 crore."
+    - "Catch-up: results released Friday, Oct 23, not yet on site. Figures from Business Today (4:53 pm IST). Business Standard headline (page not read) says ₹771 crore, a small gap, possibly a different profit line (e.g. attributable to owners); copy uses Business Today's ₹774 crore."
     - "Share move (-1.7% to ₹1,012) from Business Today, intraday."
     - "Angul plant location used for the photo is general knowledge, not in the copy."
 ---

@@ -47,7 +47,7 @@ verification:
   status: approved
   notes:
     - "Ahold Delhaize press release not opened directly; its wording is taken from BleepingComputer, Cybernews and NL Times, which quote it consistently."
-    - "Start time: NL Times and Cybernews say Sunday afternoon/evening (11 Oct). Kept as 'Sunday'."
+    - "Start time: NL Times and Cybernews say Sunday afternoon/evening (Oct 11). Kept as 'Sunday'."
     - "Zaandam as the only working distribution centre rests on an RTL email report carried by NL Times; written as Albert Heijn's message to suppliers."
     - "No claim of responsibility found. A BankInfoSecurity page carried an 'INC Ransom' tag but no text confirming it; left out."
     - "Company scale figures (9,400+ stores, ~400,000 staff, 60 million weekly customers) are from BleepingComputer."

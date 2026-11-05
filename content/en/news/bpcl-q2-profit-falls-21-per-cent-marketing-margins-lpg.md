@@ -50,7 +50,7 @@ The quarter was still a sharp improvement on April to June, when BPCL lost ₹1,
 
 ## The LPG bill
 
-Cooking gas remains a drain. BPCL's under-recovery on LPG, the gap between what it costs and what the company is allowed to charge, had reached ₹17,334.40 crore by 30 September. The petroleum ministry has approved ₹7,594 crore in compensation, to be paid in 12 equal monthly instalments. BPCL booked six of them, worth ₹3,796.98 crore, in its revenue for the quarter.
+Cooking gas remains a drain. BPCL's under-recovery on LPG, the gap between what it costs and what the company is allowed to charge, had reached ₹17,334.40 crore by September 30. The petroleum ministry has approved ₹7,594 crore in compensation, to be paid in 12 equal monthly instalments. BPCL booked six of them, worth ₹3,796.98 crore, in its revenue for the quarter.
 
 Operations were busier. The company's refineries processed 10.41 million tonnes of crude, up 6% from a year earlier. Domestic sales rose 6.33% to 13.47 million tonnes, and exports jumped 64%.
 

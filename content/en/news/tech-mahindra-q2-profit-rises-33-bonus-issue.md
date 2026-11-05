@@ -12,7 +12,7 @@ updated: 2026-10-15T20:20:00+05:30
 location: Pune
 keyPoints:
   - "Net profit rose **32.7% to ₹1,586 crore** in the July to September quarter."
-  - "The board recommended a **1:1 bonus issue** and a ₹15 interim dividend, with a record date of 23 October for the dividend."
+  - "The board recommended a **1:1 bonus issue** and a ₹15 interim dividend, with a record date of October 23 for the dividend."
   - "New deals were worth **$1.023 billion**, up 25.4% from a year earlier."
 hero:
   need: "Tech Mahindra office campus in Hinjewadi, Pune"
@@ -52,13 +52,13 @@ sources:
 verification:
   status: approved
   notes:
-    - "Results timing: Whalesbook report at 4:56 pm IST on 15 Oct; Business Standard full report 7:47 pm. Copy says Thursday evening."
+    - "Results timing: Whalesbook report at 4:56 pm IST on Oct 15; Business Standard full report 7:47 pm. Copy says Thursday evening."
     - "Profit, revenue, EBIT, margin, constant-currency growth, FCF, cash, headcount and attrition from Kotak Neo; profit, revenue, deal wins and dividend cross-checked with Business Standard, Whalesbook and IndiaIPO, which agree."
     - "Bloomberg consensus (revenue ₹16,027 crore, profit ₹1,642 crore) from Business Standard only."
     - "'First bonus since 2015' and 'about 20 bps short of the 15% target' are Business Standard's. Authorised capital increase (₹924.3 crore to ₹1,000 crore) from Whalesbook and IndiaIPO."
     - "Share close: Kotak Neo ₹1,650 on NSE (+4.75%); IndiaIPO ₹1,648.70 on BSE (+4.61%). Copy uses the NSE figure. Whether the gain came before or after the results is not clear from sources; copy does not link them."
     - "Joshi quotes verbatim from Business Standard; occasion (call or press conference) not specified. CFO Rohit Anand only paraphrased in sources; not quoted."
-    - "Dividend payment 'by 13 November' from Kotak Neo only."
+    - "Dividend payment 'by November 13' from Kotak Neo only."
 ---
 
 Tech Mahindra's profit rose by a third in the July to September quarter, and its board recommended giving shareholders one bonus share for every share they own, the company's first bonus issue since 2015.
@@ -71,7 +71,7 @@ Revenue beat the Bloomberg consensus estimate of ₹16,027 crore. Profit fell sh
 
 The board approved the issue of bonus shares "in the ratio of 1:1", with each ₹5 share earning one new ₹5 share. The issue needs shareholders' approval, and the company will raise its authorised share capital from ₹924.3 crore to ₹1,000 crore to make room for it. The record date for the bonus will be announced later.
 
-It also declared an interim dividend of ₹15 a share, with a record date of Friday, 23 October. Investors need to hold the stock by 22 October to qualify, and the dividend is to be paid by 13 November.
+It also declared an interim dividend of ₹15 a share, with a record date of Friday, October 23. Investors need to hold the stock by October 22 to qualify, and the dividend is to be paid by November 13.
 
 ## Margins edge towards the target
 

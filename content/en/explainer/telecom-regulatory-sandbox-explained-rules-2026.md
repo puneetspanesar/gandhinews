@@ -8,7 +8,7 @@ topics: []
 title: "Telecom sandbox explained: how India's new rules let firms test 6G and AI services on real users"
 standfirst: "The Centre has notified the Telecommunications (Regulatory Sandbox) Rules, 2026. What a sandbox is, who can apply, what users are promised, and how the rules have changed since the idea was first floated."
 published: 2026-10-23T14:05:00+05:30
-shortAnswer: "A regulatory sandbox is a live testing space in which a company can try a new telecom product, service or business model on a limited group of real users, for a fixed period, while being exempted from some legal rules. Section 27 of the Telecommunications Act, 2023 allows the Centre to create such sandboxes, and the 2026 rules notified on 22 October set the terms: trials of 24 months, extendable in 12-month steps, a ₹10,000 fee, written consent from users, no charges to them and no commercial sale during the test."
+shortAnswer: "A regulatory sandbox is a live testing space in which a company can try a new telecom product, service or business model on a limited group of real users, for a fixed period, while being exempted from some legal rules. Section 27 of the Telecommunications Act, 2023 allows the Centre to create such sandboxes, and the 2026 rules notified on October 22 set the terms: trials of 24 months, extendable in 12-month steps, a ₹10,000 fee, written consent from users, no charges to them and no commercial sale during the test."
 hero:
   need: "Mahanagar Doorsanchar Bhawan, the TRAI headquarters in New Delhi, where the sandbox framework was first recommended"
   suggested_source: "Mahanagar Doorsanchar Bhawan New Delhi"
@@ -43,18 +43,18 @@ sources:
 verification:
   status: approved
   notes:
-    - "2026 rule details (name, notified 22 Oct, eligibility of startups, companies, researchers and scientists, digital portal, lab test reports, list of exemptions sought, ₹10,000 non-refundable fee, 24 months extendable in 12-month steps with request 30 days before expiry, written consent, no charges, no commercial sale, one-year record keeping, exemptions from parts of the Telecommunications Act 2023 and TRAI Act 1997, 6G and AI as examples) from ETV Bharat only. Gazette text not read; specific sections exempted not known."
+    - "2026 rule details (name, notified Oct 22, eligibility of startups, companies, researchers and scientists, digital portal, lab test reports, list of exemptions sought, ₹10,000 non-refundable fee, 24 months extendable in 12-month steps with request 30 days before expiry, written consent, no charges, no commercial sale, one-year record keeping, exemptions from parts of the Telecommunications Act 2023 and TRAI Act 1997, 6G and AI as examples) from ETV Bharat only. Gazette text not read; specific sections exempted not known."
     - "Section 27 definition paraphrased from LawX summary of the Act; only the phrase 'a live testing environment where new products, services, processes and business models' is quoted."
-    - "2024 rules (notified 27 Nov 2024, in force 28 Nov per SCC Online; 24 months plus up to 12 months; Governance Committee; suspension or revocation for false information, non-compliance, national security or public interest; final report within 15 days) from SCC Online. Whether the 2026 rules keep the Governance Committee and revocation grounds is not known; copy says the 2024 version had them."
-    - "TRAI recommendation date (published 12-13 April 2024), up to 12 months validity, eligible entities and DoT's March 2024 WiTe Zone spectrum sandbox without live network connectivity, from Communications Today."
-    - "Date of the Telecommunications Act (24 December 2023) is the date of presidential assent, standard; used only in sources metadata."
+    - "2024 rules (notified Nov 27, 2024, in force Nov 28 per SCC Online; 24 months plus up to 12 months; Governance Committee; suspension or revocation for false information, non-compliance, national security or public interest; final report within 15 days) from SCC Online. Whether the 2026 rules keep the Governance Committee and revocation grounds is not known; copy says the 2024 version had them."
+    - "TRAI recommendation date (published April 12-13, 2024), up to 12 months validity, eligible entities and DoT's March 2024 WiTe Zone spectrum sandbox without live network connectivity, from Communications Today."
+    - "Date of the Telecommunications Act (December 24, 2023) is the date of presidential assent, standard; used only in sources metadata."
 ---
 
 ## What has the government notified?
 
 **The Telecommunications (Regulatory Sandbox) Rules, 2026, which set out how companies and researchers can test new telecom technology on real people before it goes on sale.**
 
-The Centre notified the rules on Thursday, 22 October. They let participants try new technologies, services and business models in a controlled real-world setting, with exemptions from specified parts of the Telecommunications Act, 2023 and the Telecom Regulatory Authority of India Act, 1997, for as long as the trial lasts. Sixth-generation mobile networks (6G) and advanced artificial intelligence are among the kinds of technology the government expects to see tested.
+The Centre notified the rules on Thursday, October 22. They let participants try new technologies, services and business models in a controlled real-world setting, with exemptions from specified parts of the Telecommunications Act, 2023 and the Telecom Regulatory Authority of India Act, 1997, for as long as the trial lasts. Sixth-generation mobile networks (6G) and advanced artificial intelligence are among the kinds of technology the government expects to see tested.
 
 ## What exactly is a regulatory sandbox?
 

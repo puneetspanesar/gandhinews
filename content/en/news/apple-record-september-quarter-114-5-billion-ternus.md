@@ -56,8 +56,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 3 Nov about 03:00 IST (1:30 pm PT, 2 Nov), Apple Q4 FY2026 release; Six Colors posted 21:38 UTC (03:08 IST), Forbes 4:42 pm EST (03:12 IST). Release itself has no timestamp; call at 2 pm PT (03:30 IST)."
-    - "Revenue, EPS, growth rates, gross margin 47.9% (incl. about 1 point from tariff refunds), dividend $0.27 payable 16 Nov, record 12 Nov, quarter ended 26 Sep, both quotes: Apple newsroom release."
+    - "event: Nov 3 about 03:00 IST (1:30 pm PT, Nov 2), Apple Q4 FY2026 release; Six Colors posted 21:38 UTC (03:08 IST), Forbes 4:42 pm EST (03:12 IST). Release itself has no timestamp; call at 2 pm PT (03:30 IST)."
+    - "Revenue, EPS, growth rates, gross margin 47.9% (incl. about 1 point from tariff refunds), dividend $0.27 payable Nov 16, record Nov 12, quarter ended Sep 26, both quotes: Apple newsroom release."
     - "iPhone about $57.6bn vs $56.6bn estimate, revenue estimate $113.4bn, EPS estimate $1.99, close $338.32 (-1.8%), about -1% after hours: Forbes only."
     - "Segment growth (iPhone +17.5%, Mac +23.7%, Services +9.8%, Wearables -7.9%, iPad -10.4%) from Six Colors, which read Apple's data sheet. No dollar segment figures except iPhone."
     - "No December-quarter guidance or call remarks were read; none included."
@@ -72,9 +72,9 @@ The iPhone did the heavy lifting. Sales of the phone came to about **$57.6 billi
 
 Earnings per share **rose 14% to $2.10**, well above the $1.99 expected. Gross margin was 47.9%, which Apple said included about one percentage point from tariff refunds.
 
-"Apple delivered September quarter records for net income and EPS," said Kevan Parekh, the chief financial officer. Revenue for the full financial year, which ended on 26 September, came to a **record $479 billion**.
+"Apple delivered September quarter records for net income and EPS," said Kevan Parekh, the chief financial officer. Revenue for the full financial year, which ended on September 26, came to a **record $479 billion**.
 
-The board declared a dividend of 27 cents a share, payable on 16 November to shareholders on the books on 12 November.
+The board declared a dividend of 27 cents a share, payable on November 16 to shareholders on the books on November 12.
 
 ```photo
 {"n":2,"subject":"Apple Park","caption":"Apple Park in Cupertino, California, the company's headquarters.","alt":"Apple Park, Cupertino (file photo)"}

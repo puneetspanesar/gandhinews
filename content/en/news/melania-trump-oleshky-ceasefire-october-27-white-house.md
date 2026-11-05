@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Start date conflict: AP and ANI copy say the ceasefire is set to take effect 29 October; Al Jazeera cites a senior Ukrainian official saying 27 October; Gerasimov said 4 am Moscow time on Tuesday, which is 27 October. Copy gives Gerasimov's Tuesday and notes the White House account gives 29 October."
+    - "Start date conflict: AP and ANI copy say the ceasefire is set to take effect October 29; Al Jazeera cites a senior Ukrainian official saying October 27; Gerasimov said 4 am Moscow time on Tuesday, which is October 27. Copy gives Gerasimov's Tuesday and notes the White House account gives October 29."
     - "Population figures: 24,000 pre-war and about 2,000 remaining (Al Jazeera); 1,700 to 2,000 mostly elderly plus about 50 children (ANI, from White House release)."
     - "Unnamed 'impartial American media organisation' to accompany teams: Al Jazeera only."
     - "Lubinets identified as Ukraine's human rights ombudsman (AP)."
@@ -57,7 +57,7 @@ In a statement, Melania Trump said her representatives had worked with Russian a
 
 ## When the guns are meant to fall silent
 
-Moscow confirmed its part. Gen Valery Gerasimov, chief of Russia's general staff, said Russian forces "will cease fire on the Kherson axis" from 4 am Moscow time on Tuesday, 27 October, and would carry out "engineering reconnaissance" and ensure the "safe movement of the humanitarian convoy". The White House account gives 29 October as the start, and the two sides are still working out the timing.
+Moscow confirmed its part. Gen Valery Gerasimov, chief of Russia's general staff, said Russian forces "will cease fire on the Kherson axis" from 4 am Moscow time on Tuesday, October 27, and would carry out "engineering reconnaissance" and ensure the "safe movement of the humanitarian convoy". The White House account gives October 29 as the start, and the two sides are still working out the timing.
 
 Kremlin spokesman Dmitry Peskov thanked the first lady and said the effort had come up in the latest phone call between Vladimir Putin and Donald Trump. He said "those who want to leave it would be able to do so", and that the evacuation would probably take several days.
 

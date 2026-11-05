@@ -46,13 +46,13 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Rainfall figures (1,017.1 mm, 25.6% short, lowest since 1901, India 13% below normal, Meghalaya 60%, Bihar 32%, rice area 15.56 lakh ha lower, 87.08% reservoir storage, El Nino 83% strongest-since-1950 forecast, Khosla quote) from the desk's 17 October story based on EastMojo/Climate Trends."
-    - "Maharashtra 305 of 358 talukas, ₹5,000 advance, NDRF rules not allowing quick release, relief previously not before December: Fadnavis on 17 October via the desk's story. Gehlot fodder ₹20/kg, girdawari demand: 18 October story. Telangana 72% Krishna basin shortfall: 19 October story."
+    - "Editorial view of the desk. Rainfall figures (1,017.1 mm, 25.6% short, lowest since 1901, India 13% below normal, Meghalaya 60%, Bihar 32%, rice area 15.56 lakh ha lower, 87.08% reservoir storage, El Nino 83% strongest-since-1950 forecast, Khosla quote) from the desk's October 17 story based on EastMojo/Climate Trends."
+    - "Maharashtra 305 of 358 talukas, ₹5,000 advance, NDRF rules not allowing quick release, relief previously not before December: Fadnavis on October 17 via the desk's story. Gehlot fodder ₹20/kg, girdawari demand: October 18 story. Telangana 72% Krishna basin shortfall: October 19 story."
     - "List of five states that declared drought is from the Climate Trends analysis; Rajasthan's formal status not independently checked, so copy names Telangana to Maharashtra generally."
     - "Recommendations are the desk's own."
 ---
 
-The rains that ended on 30 September were the weakest India has had in a decade, 13% below normal across the country. In East and Northeast India they were the weakest ever recorded: 25.6% short, the lowest total since 1901. Meghalaya, home to some of the wettest places on earth, finished 60% down. Bihar was 32% short.
+The rains that ended on September 30 were the weakest India has had in a decade, 13% below normal across the country. In East and Northeast India they were the weakest ever recorded: 25.6% short, the lowest total since 1901. Meghalaya, home to some of the wettest places on earth, finished 60% down. Bihar was 32% short.
 
 Forecasters do not expect relief. The El Niño warming of the Pacific that weakened the monsoon is expected to persist into early 2027, and the India Meteorological Department sees below-normal rain over most of the country until December. This is not a bad season that will pass. It is the start of a long dry year.
 

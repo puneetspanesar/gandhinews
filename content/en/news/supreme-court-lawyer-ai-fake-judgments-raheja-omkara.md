@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: Bar and Bench (S N Thyagarajan), 15 Oct. Quotes from the judgment as reported there. Judgment not read directly."
+    - "Single source: Bar and Bench (S N Thyagarajan), Oct 15. Quotes from the judgment as reported there. Judgment not read directly."
     - "The court made no separate finding that any judgment was AI-generated; written as the respondents' objection. Advocate-on-record not named in source."
 ---
 

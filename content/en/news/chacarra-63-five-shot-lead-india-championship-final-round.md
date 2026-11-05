@@ -47,9 +47,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Third-round scores and Indian positions from The Golfing Hub (18 Oct); five-shot lead also in Ten Golf. Single detailed leaderboard source; arithmetic checks (67-67-63 = 197, 19 under on par 72; Saturday's 14 under through 11 plus five shots on the last seven)."
+    - "Third-round scores and Indian positions from The Golfing Hub (Oct 18); five-shot lead also in Ten Golf. Single detailed leaderboard source; arithmetic checks (67-67-63 = 197, 19 under on par 72; Saturday's 14 under through 11 plus five shots on the last seven)."
     - "Final round in progress at time of writing; no result included. McIlroy's final third-round score not found, so only Saturday's position used."
-    - "Chacarra quotes were said on Saturday 17 Oct (Yahoo Sports)."
+    - "Chacarra quotes were said on Saturday, Oct 17 (Yahoo Sports)."
 ---
 
 Eugenio Chacarra came back to Delhi Golf Club at dawn on Sunday with seven holes of his third round to play and left them with a five-shot lead in the DP World India Championship.

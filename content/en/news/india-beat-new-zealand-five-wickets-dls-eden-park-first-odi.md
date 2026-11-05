@@ -38,7 +38,7 @@ infographic:
   source: "Wisden live scorecard, November 4, 2026"
 related: [india-65-one-down-32-over-chase-eden-park-odi, india-54-one-down-rain-stops-play-eden-park-odi, rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-eden-park, india-elect-to-field-new-zealand-one-down-eden-park-first-odi]
 seo:
-  description: "New Zealand v India first ODI, Eden Park, 4 November 2026: India beat New Zealand by five wickets on the DLS method, making 143 for 5 in 22.4 overs of a 32-over chase after NZ were out for 185."
+  description: "New Zealand v India first ODI, Eden Park, November 4, 2026: India beat New Zealand by five wickets on the DLS method, making 143 for 5 in 22.4 overs of a 32-over chase after NZ were out for 185."
 sources:
   - title: "New Zealand v India, 1st ODI, live scorecard"
     publisher: "Wisden"
@@ -48,8 +48,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: match ended between our 14:10 IST update (India 65-1 after 12.2 ov) and about 15:00 IST; result read from Wisden page fetched about 15:12 IST, Wed 4 Nov 2026. Page gives no finish timestamp; 10.2 overs after 65-1 puts the finish around 14:45-15:00 IST."
-    - "Wisden page: Eden Park, Auckland, 4 Nov 2026, India won toss and fielded, NZ 185 (40.2 ov), India 143-5 (22.4/32 ov), status 'India win by 5 wickets (DLS Method)'."
+    - "event: match ended between our 14:10 IST update (India 65-1 after 12.2 ov) and about 15:00 IST; result read from Wisden page fetched about 15:12 IST, Wed Nov 4, 2026. Page gives no finish timestamp; 10.2 overs after 65-1 puts the finish around 14:45-15:00 IST."
+    - "Wisden page: Eden Park, Auckland, Nov 4, 2026, India won toss and fielded, NZ 185 (40.2 ov), India 143-5 (22.4/32 ov), status 'India win by 5 wickets (DLS Method)'."
     - "Revised target 143 is derived: earlier status said 78 needed with 65 scored (65 + 78 = 143), and India finished on exactly 143. Page does not print the target itself."
     - "Individual India batting figures, dismissals, NZ bowling figures and player of the match were NOT on the page and are left out. outlookindia result page 64468 and the 'India win by 4 wickets' results found in search are the January 11 Vadodara ODI and were not used. khelnow page was a stale cache (NZ 67-2). mykhel failed."
 ---
@@ -76,4 +76,4 @@ For India, a win is a win, and a bowling performance that rolled New Zealand ove
 
 New Zealand will take heart from the way they hit back with the ball late in the chase, but **185 was never enough** on a ground with short boundaries. Their batters, not their bowlers, are the ones under pressure.
 
-The series moves to Wellington for the second ODI on 7 November, with **India 1-0 up**.
+The series moves to Wellington for the second ODI on November 7, with **India 1-0 up**.

@@ -22,7 +22,7 @@ hero:
     value: "Bastar's peace, the forces' price"
 related: [amit-shah-police-martyrs-wall-of-valour-154-names, telangana-police-ex-gratia-revanth-reddy-commemoration]
 seo:
-  description: "Chhattisgarh CM Vishnu Deo Sai said on Police Commemoration Day, 21 October 2026, that the state's success against Maoism was due to the valour and sacrifice of security forces."
+  description: "Chhattisgarh CM Vishnu Deo Sai said on Police Commemoration Day, October 21, 2026, that the state's success against Maoism was due to the valour and sacrifice of security forces."
 sources:
   - title: "Chhattisgarh's success against Maoism result of valour, sacrifice of security personnel: CM Sai"
     publisher: "ThePrint (PTI)"
@@ -43,4 +43,4 @@ Sai linked the security gains to development schemes now reaching remote tribal 
 
 The chief minister also visited Shaheed Vatika at Rajiv Smriti Van in Raipur and paid tribute at the Amar Jawan Stambh.
 
-Police Commemoration Day marks 21 October 1959, when ten police personnel guarding the India-Tibet border at Hot Springs in Ladakh were killed by a large Chinese force. The day is observed every year in their memory, and states across India held their own parades on Wednesday.
+Police Commemoration Day marks October 21, 1959, when ten police personnel guarding the India-Tibet border at Hot Springs in Ladakh were killed by a large Chinese force. The day is observed every year in their memory, and states across India held their own parades on Wednesday.

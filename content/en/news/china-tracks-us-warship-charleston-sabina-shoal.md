@@ -22,7 +22,7 @@ hero:
     value: "A US warship at a contested shoal"
 related: []
 seo:
-  description: "China's military says the US warship Charleston illegally entered waters near Sabina Shoal in the Spratlys on 20 October and that naval forces tracked it."
+  description: "China's military says the US warship Charleston illegally entered waters near Sabina Shoal in the Spratlys on October 20 and that naval forces tracked it."
 sources:
   - title: "China sends naval forces to monitor US warship near disputed shoal (Reuters)"
     publisher: "ThePrint"

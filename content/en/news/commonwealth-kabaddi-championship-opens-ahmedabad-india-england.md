@@ -6,11 +6,11 @@ section: sports
 format_label: "Sports / Kabaddi"
 topics: []
 title: "India open Commonwealth Kabaddi Championship against England as first edition begins in Ahmedabad"
-standfirst: "Thirteen nations are in the inaugural event, which runs until 31 October. India's women play Malaysia and the men face England on Friday night."
+standfirst: "Thirteen nations are in the inaugural event, which runs until October 31. India's women play Malaysia and the men face England on Friday night."
 published: 2026-10-23T14:30:00+05:30
 location: Ahmedabad
 keyPoints:
-  - "The first Commonwealth Kabaddi Championship runs from **23 to 31 October** in Ahmedabad."
+  - "The first Commonwealth Kabaddi Championship runs from **October 23 to 31** in Ahmedabad."
   - "India's men, led by **Surjeet Singh**, play England at 8:30 pm IST on Friday."
   - "Nidhi Sharma's women's team meet **Malaysia** at 6:45 pm IST."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "One breath, one raid, 13 nations"
 related: []
 seo:
-  description: "The first Commonwealth Kabaddi Championship begins in Ahmedabad on 23 October with 13 nations; India's men play England and the women play Malaysia on day one."
+  description: "The first Commonwealth Kabaddi Championship begins in Ahmedabad on October 23 with 13 nations; India's men play England and the women play Malaysia on day one."
 sources:
   - title: "Commonwealth Kabaddi Championship: India open against England and Malaysia as 13 Nations chase inaugural titles (ANI)"
     publisher: "The Tribune"
@@ -54,6 +54,6 @@ India's women go first, against Malaysia at 6:45 pm. They are led by Nidhi Sharm
 
 The men are in a seven-team Group A with Nigeria, Malaysia, Uganda, England, Tanzania and Sri Lanka, while Bangladesh, Kenya, Canada, Australia, Scotland and Singapore make up Group B. The women's Group A has India, Singapore, Nigeria, Uganda and Malaysia. Teams play everyone in their group once, and the top two in each group reach the semi-finals, where group winners meet the other group's runners-up.
 
-India's men follow England with matches against Uganda, Malaysia, Nigeria, Tanzania and Sri Lanka, finishing their group on 29 October. The semi-finals are on 30 October and both finals on Saturday 31 October, the women's at 7:30 pm and the men's at 9 pm.
+India's men follow England with matches against Uganda, Malaysia, Nigeria, Tanzania and Sri Lanka, finishing their group on October 29. The semi-finals are on October 30 and both finals on Saturday, October 31, the women's at 7:30 pm and the men's at 9 pm.
 
 The tournament is being shown on Star Sports and streamed on JioStar.

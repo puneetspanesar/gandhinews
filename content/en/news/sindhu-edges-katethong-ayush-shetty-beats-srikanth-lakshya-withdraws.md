@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Our 20 Oct preview (from UNI) said Sindhu would face An Se Young in round one; she actually played Supanida Katethong. Tribune/ANI result report followed here."
+    - "Our Oct 20 preview (from UNI) said Sindhu would face An Se Young in round one; she actually played Supanida Katethong. Tribune/ANI result report followed here."
     - "Lakshya's reason (fatigue after Denmark Open, muscle tightness, medical certificate) from Sunday Guardian only, not attributed to anyone in that piece; hedged."
     - "Devika Sihag v Putri Kusuma Wardani game scores ambiguous in source; written as a three-game defeat."
     - "No direct quotes found."

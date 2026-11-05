@@ -22,7 +22,7 @@ hero:
     value: "Oil up, gold down"
 related: [brent-slips-108-79-after-touching-112-gold-eases, us-orders-staff-leave-saudi-arabia-dammam-airport-attack, global-cues-nasdaq-slumps-ai-fears-brent-113-october-23, rupee-falls-44-paise-94-82-crude-houthi-attacks]
 seo:
-  description: "Brent crude tops $113 on 22 October 2026, highest since May, after attacks on Saudi Aramco and Dammam airport and a report of planned US-Israeli strikes on Iran; gold falls 2.1% to $4,061, silver 4.5%."
+  description: "Brent crude tops $113 on October 22, 2026, highest since May, after attacks on Saudi Aramco and Dammam airport and a report of planned US-Israeli strikes on Iran; gold falls 2.1% to $4,061, silver 4.5%."
 sources:
   - title: "Wall Street Plunges as AI Investment Anxiety Weighs; Nasdaq Drops 2.6% and Semiconductor Index Plummets 6.7%"
     publisher: "SBS News"
@@ -49,7 +49,7 @@ verification:
   notes:
     - "Brent above $113 and highest since May: SBS; Yahoo says topped $111 and near $113 at one point; WTI about $100, highest since May (Yahoo). Benzinga midday Brent $111.86 (+2.8%), WTI $98.77. Settlement prices not read; none given."
     - "Gold $4,061.30 (-2.1%), silver $55.11 (-4.5%), bitcoin $81,561 are Benzinga midday figures."
-    - "NYT report of US-Israeli strike plans after 3 Nov midterms: via Yahoo and Benzinga; Trump denial of Iran talks: Benzinga paraphrase only."
+    - "NYT report of US-Israeli strike plans after Nov 3 midterms: via Yahoo and Benzinga; Trump denial of Iran talks: Benzinga paraphrase only."
     - "Brent up more than 50% since war began in late February: Yahoo."
 ---
 
@@ -57,7 +57,7 @@ Oil prices jumped on Thursday, with Brent crude rising above $113 a barrel for t
 
 US West Texas Intermediate crude climbed to about $100 a barrel, also its highest since May. Brent has now risen by more than half since the war with Iran began in late February.
 
-Two developments drove the move. Saudi Arabia reported attacks on the airport at Dammam and on an Aramco oil field, the latest in a series of strikes by Yemen's Houthi rebels on the kingdom. A New York Times report that the United States and Israel had drawn up plans for renewed strikes on Iran after the 3 November US midterm elections added to fears of a longer disruption. President Donald Trump also denied that Washington was in talks with Tehran.
+Two developments drove the move. Saudi Arabia reported attacks on the airport at Dammam and on an Aramco oil field, the latest in a series of strikes by Yemen's Houthi rebels on the kingdom. A New York Times report that the United States and Israel had drawn up plans for renewed strikes on Iran after the November 3 US midterm elections added to fears of a longer disruption. President Donald Trump also denied that Washington was in talks with Tehran.
 
 "Brent crude surged 3 per cent following attacks on Saudi Aramco's oilfield," said Sunny Aggrawal, head of fundamental research at SBI Securities.
 

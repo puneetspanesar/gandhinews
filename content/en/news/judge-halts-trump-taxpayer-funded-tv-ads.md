@@ -32,11 +32,11 @@ verification:
   status: approved
   notes:
     - "The order was issued on Sunday night US time (in effect from 6:45 pm ET, i.e. early Monday IST)."
-    - "A further hearing on Tuesday 13 Oct is reported only by Rio Times (citing Axios); CBS/AP does not mention one. Left out of the copy."
+    - "A further hearing on Tuesday, Oct 13 is reported only by Rio Times (citing Axios); CBS/AP does not mention one. Left out of the copy."
     - "Judge's order quoted only in the fragment carried by AP; full order not opened."
 ---
 
-A federal judge in New York has ordered the Trump administration to stop running taxpayer-funded television ads featuring President Donald Trump, in a case brought by government watchdogs weeks before the 3 November midterm elections.
+A federal judge in New York has ordered the Trump administration to stop running taxpayer-funded television ads featuring President Donald Trump, in a case brought by government watchdogs weeks before the November 3 midterm elections.
 
 US District Judge Jennifer Rochon granted a two-week temporary restraining order on Sunday night. It requires the administration to cancel the remaining ads, including any due to air that night, and bars it from signing, renewing or expanding deals for more.
 

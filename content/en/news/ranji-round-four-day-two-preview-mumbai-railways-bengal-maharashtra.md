@@ -27,7 +27,7 @@ cover:
   bg: "Brabourne Stadium"
 related: [mumbai-247-6-railways-ranji-day-one-sangwan-three-sarfaraz, bengal-143-porel-shami-bad-light-maharashtra-eden, harsh-dubey-9-53-vidarbha-record-madhya-pradesh-209-ranji-nagpur, mayank-agarwal-fifty-karnataka-lead-assam-stumps-ranji-guwahati, india-a-rising-stars-asia-cup-squad-tilak-varma-captain-doha]
 seo:
-  description: "What to watch on day two of Ranji Trophy round four on 3 November 2026: Mumbai 247 for six against Railways, Bengal 143 against Maharashtra, Karnataka ahead of Assam and Vidarbha after Harsh Dubey's 9 for 53."
+  description: "What to watch on day two of Ranji Trophy round four on November 3, 2026: Mumbai 247 for six against Railways, Bengal 143 against Maharashtra, Karnataka ahead of Assam and Vidarbha after Harsh Dubey's 9 for 53."
 sources:
   - title: "Ranji Trophy 2026: Angkrish Raghuvanshi's knock guides Mumbai to 247 runs against Railways on Day 1"
     publisher: "India.com"
@@ -57,7 +57,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: preview of day two of Ranji Trophy round four, Tue 3 Nov 2026, play from 09:30 IST. All day-one figures are taken from our own day-one reports of 2 Nov and the sources they cite (listed here); no new searches were spent on cricket this run."
+    - "event: preview of day two of Ranji Trophy round four, Tue Nov 3, 2026, play from 09:30 IST. All day-one figures are taken from our own day-one reports of Nov 2 and the sources they cite (listed here); no new searches were spent on cricket this run."
     - "Bengal v Maharashtra: our report has Maharashtra 18/0 after six overs when bad light stopped play about 1:50 pm; whether play restarted later on Monday was not confirmed, so copy says only that the day was cut short and gives the 18/0 as the score when play stopped, not as a close score."
     - "Vidarbha v MP: Vidarbha's own first-innings score at the close of day one not found in our report, so not given. Mumbai v Railways: overs and not-out batters not given in source. Karnataka 180/2 in 36 overs, lead 45, Agarwal 57*, Aneesh 7*."
     - "Delhi v Services at Palam left out: last confirmed score 112/4 after 35 overs, close of play not confirmed."

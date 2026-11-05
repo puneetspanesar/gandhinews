@@ -65,6 +65,6 @@ It was Shi's first win over a top-20 player and her first main-draw win at WTA 1
 
 > I'm really excited now because my opponent, their ranking is [No. 19].
 >
-> Source: Shi Han, Chinese player, 12 October 2026
+> Source: Shi Han, Chinese player, October 12, 2026
 
 Shi plays Leylah Fernandez next.

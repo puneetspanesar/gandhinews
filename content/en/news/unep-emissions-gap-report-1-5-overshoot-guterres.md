@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Report released 21 Oct (Climate Home metadata 05:00 UTC, i.e. before this run's window). Published here as the desk's first write-up; timestamp is ours, not the release time."
+    - "Report released Oct 21 (Climate Home metadata 05:00 UTC, i.e. before this run's window). Published here as the desk's first write-up; timestamp is ours, not the release time."
     - "All figures from UNEP press release and UN News; Bill Hare quotes and US/Saudi context from Climate Home News."
     - "Guterres press release title (press.un.org SG/SM/23340) seen in index: 'World Can No Longer Avoid Overshooting 1.5-Degree Limit'; the page itself could not be fetched."
 ---

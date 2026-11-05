@@ -22,7 +22,7 @@ hero:
     value: "'They will pay the price'"
 related: [rahul-gandhi-high-tea-india-bloc-cec-campaign, jairam-ramesh-searchable-rolls-cec-must-go-sir-suspend, nadda-kharge-ramesh-shah-trade-charges-over-sir, election-commission-dissent-report-move-to-remove-cec, rahul-gandhi-uttarakhand-investors-summit-dhami]
 seo:
-  description: "At a Margao rally ending the Goy Rakhon Yatra on 18 October, Rahul Gandhi accused PM Modi, Amit Shah and CEC Gyanesh Kumar of vote theft and said they would pay the price."
+  description: "At a Margao rally ending the Goy Rakhon Yatra on October 18, Rahul Gandhi accused PM Modi, Amit Shah and CEC Gyanesh Kumar of vote theft and said they would pay the price."
 sources:
   - title: "Modi plans, Shah operationalises, and CEC Kumar implements vote chori; they will pay price: Rahul (PTI)"
     publisher: "ThePrint"
@@ -42,8 +42,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Rally details and quotes rest on one PTI report (ThePrint, 18 Oct, 6:46 pm). No BJP or EC response was carried by the evening; none added."
-    - "Instagram post on education from a separate PTI report (2:45 pm, 18 Oct)."
+    - "Rally details and quotes rest on one PTI report (ThePrint, Oct 18, 6:46 pm). No BJP or EC response was carried by the evening; none added."
+    - "Instagram post on education from a separate PTI report (2:45 pm, Oct 18)."
     - "Quote 'Gyanesh Kumar implements the vote theft, Amit Shah operationalises it' is as given in the PTI copy (translated from Hindi by PTI)."
 ---
 
@@ -77,4 +77,4 @@ There was no immediate response from the BJP or the Election Commission to the M
 
 ## What next
 
-In Goa, the Congress will try to carry the yatra's momentum into the run-up to the 2027 election. Nationally, the party's fight with the Election Commission moves to the Supreme Court, which is due to take up the INDIA bloc's challenge to the SIR after its Dussehra break, and to a Congress rally at Delhi's Ramlila Maidan planned for 1 November.
+In Goa, the Congress will try to carry the yatra's momentum into the run-up to the 2027 election. Nationally, the party's fight with the Election Commission moves to the Supreme Court, which is due to take up the INDIA bloc's challenge to the SIR after its Dussehra break, and to a Congress rally at Delhi's Ramlila Maidan planned for November 1.

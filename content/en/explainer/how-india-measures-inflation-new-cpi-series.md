@@ -8,7 +8,7 @@ topics: [inflation, rbi-interest-rates]
 title: "How India measures inflation: the new CPI series explained"
 standfirst: "Since February 2026, India's retail inflation figure comes from a new Consumer Price Index with base year 2024. The basket is bigger, food counts for less and some prices are now collected online."
 published: 2026-10-11T09:00:00+05:30
-shortAnswer: "India measures retail inflation with the Consumer Price Index, which tracks the prices of a fixed basket of goods and services bought by households. A new series with base year 2024=100 replaced the 2012 series from the January 2026 data, released on 12 February 2026. It covers 358 items, gives food and beverages a weight of 36.75%, and uses spending patterns from the 2023-24 household consumption survey."
+shortAnswer: "India measures retail inflation with the Consumer Price Index, which tracks the prices of a fixed basket of goods and services bought by households. A new series with base year 2024=100 replaced the 2012 series from the January 2026 data, released on February 12, 2026. It covers 358 items, gives food and beverages a weight of 36.75%, and uses spending patterns from the 2023-24 household consumption survey."
 hero:
   need: "Shopper at a vegetable stall or a price collector with a handheld tablet"
   suggested_source: "Wikimedia Commons search 'Indian market vegetables prices'"
@@ -42,7 +42,7 @@ verification:
   notes:
     - "MoSPI's own documents give two urban market counts: 1,407 urban markets including online (technical note and August release) and 1,395 urban markets in 434 towns plus 12 online markets (FAQ 7). We use 1,407, the figure in the monthly releases."
     - "Food weight: the division 'food and beverages' is 36.75% under the new COICOP structure. On the old 2012 classification the same comparison is 45.86% (2012) vs 40.10% (2024). Outlook Business compared 36.75% with 45.86%, which mixes the two classifications; we use MoSPI's like-for-like figures."
-    - "Fact-checked 11 Oct 2026 against MoSPI's 12 Feb 2026 release (technical note and FAQs): 358/299 items, 259/308 goods, 40/50 services, HCES 2023-24, COICOP 2018 structure (12/43/92/162), six old groups, all division weights, transport 6.394% to 8.796%, housing 16.888% to 17.665%, food 45.86%/40.10%, CAPI tablets, 12 online towns above 25 lakh, weekly online prices, administered price sources, rural house rent, expert group, indices from January 2025, 2025 overlap year for linking, Dec 2025 old-series 1.33% and Jan 2026 2.75% all confirmed. August release confirms 2.74%, 4.82% and the 12 Oct release date. RBI overview confirms the target period. No copy changes needed."
+    - "Fact-checked Oct 11, 2026, against MoSPI's Feb 12, 2026, release (technical note and FAQs): 358/299 items, 259/308 goods, 40/50 services, HCES 2023-24, COICOP 2018 structure (12/43/92/162), six old groups, all division weights, transport 6.394% to 8.796%, housing 16.888% to 17.665%, food 45.86%/40.10%, CAPI tablets, 12 online towns above 25 lakh, weekly online prices, administered price sources, rural house rent, expert group, indices from January 2025, 2025 overlap year for linking, Dec 2025 old-series 1.33% and Jan 2026 2.75% all confirmed. August release confirms 2.74%, 4.82% and the Oct 12 release date. RBI overview confirms the target period. No copy changes needed."
 ---
 
 ## What does the Consumer Price Index measure?
@@ -64,7 +64,7 @@ It also wanted the period used for the weights (2023-24) to sit closer to the pr
 Items are grouped into 12 divisions, 43 groups, 92 classes and 162 subclasses under COICOP 2018. The old series used six broad groups. The new divisions separate out spending such as transport, information and communication, recreation, education, and restaurants and accommodation.
 
 ```chart
-{"type":"hbar","title":"What the new CPI basket is made of","subtitle":"Division weights, all-India combined, base 2024 (%)","unit":"%","data":[{"label":"Food and beverages","value":36.75,"highlight":true},{"label":"Housing, water, electricity, gas, fuels","value":17.67},{"label":"Transport","value":8.80},{"label":"Clothing and footwear","value":6.38},{"label":"Health","value":6.10},{"label":"Personal care, social protection, misc.","value":5.04},{"label":"Furnishings and household equipment","value":4.47},{"label":"Information and communication","value":3.61},{"label":"Restaurants and accommodation","value":3.35},{"label":"Education services","value":3.33},{"label":"Paan, tobacco and intoxicants","value":2.99},{"label":"Recreation, sport and culture","value":1.52}],"source":"MoSPI, 12 Feb 2026"}
+{"type":"hbar","title":"What the new CPI basket is made of","subtitle":"Division weights, all-India combined, base 2024 (%)","unit":"%","data":[{"label":"Food and beverages","value":36.75,"highlight":true},{"label":"Housing, water, electricity, gas, fuels","value":17.67},{"label":"Transport","value":8.80},{"label":"Clothing and footwear","value":6.38},{"label":"Health","value":6.10},{"label":"Personal care, social protection, misc.","value":5.04},{"label":"Furnishings and household equipment","value":4.47},{"label":"Information and communication","value":3.61},{"label":"Restaurants and accommodation","value":3.35},{"label":"Education services","value":3.33},{"label":"Paan, tobacco and intoxicants","value":2.99},{"label":"Recreation, sport and culture","value":1.52}],"source":"MoSPI, Feb 12, 2026"}
 ```
 
 ## How much does food count for now?
@@ -93,8 +93,8 @@ MoSPI has published new-series indices from January 2025, so year-on-year inflat
 
 **The RBI's inflation target is set in terms of this index.** The government has set the target at 4% CPI inflation, with a band of 2% to 6%, for April 2026 to March 2031. The RBI's Monetary Policy Committee sets the repo rate to keep inflation near that target.
 
-In October 2026, as of the latest data, CPI inflation was 4.82% (August, provisional), and the RBI projected 5.2% for 2026-27. It raised the repo rate to 5.50% on 7 October.
+In October 2026, as of the latest data, CPI inflation was 4.82% (August, provisional), and the RBI projected 5.2% for 2026-27. It raised the repo rate to 5.50% on October 7.
 
 ## When is the data released?
 
-**MoSPI publishes CPI data for each month in the middle of the following month.** August 2026 data came out on 14 September, and September data is scheduled for 12 October 2026. Each month's first figure is provisional and is finalised a month later.
+**MoSPI publishes CPI data for each month in the middle of the following month.** August 2026 data came out on September 14, and September data is scheduled for October 12, 2026. Each month's first figure is provisional and is finalised a month later.

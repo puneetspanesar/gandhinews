@@ -36,7 +36,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov, source time stamp 21:45 IST (ThePrint/PTI, 16:15 UTC). Speech at Wadi Budruk hospital inauguration on Sunday; exact hour of the event not given, may have been earlier in the day."
+    - "event: Nov 1, source time stamp 21:45 IST (ThePrint/PTI, 16:15 UTC). Speech at Wadi Budruk hospital inauguration on Sunday; exact hour of the event not given, may have been earlier in the day."
     - "Single source (PTI). Quotes verbatim. Rs 10,000 loan vs Rs 70,000 demand is the family's allegation, attributed."
 ---
 

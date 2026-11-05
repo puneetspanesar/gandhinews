@@ -51,4 +51,4 @@ There is doubt on the touchline as well. Head coach Vincent Kompany has a viral 
 
 Bayern have four points from their first two games and sit tenth in the league phase, so a home win would steady their campaign. History is on their side: in seven Champions League home games against Arsenal they have won five, drawn one and lost one, and they have won the last three.
 
-The match kicks off after midnight India time, early on Thursday 22 October.
+The match kicks off after midnight India time, early on Thursday, October 22.

@@ -53,7 +53,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 4 Nov 11:35 to about 12:40 IST, CBS News House projections (1:05, 1:07, 1:28, 1:41 AM EST = 11:35, 11:37, 11:58, 12:11 IST; Spartz and McGuire calls shown only as '32m ago' and '52m ago' on a page whose newest timed entry was 1:41 AM EST, so roughly 12:15 to 12:45 IST). Jeffries quotes from about 11:41 PM EST on 3 Nov (10:11 IST), not previously on the site."
+    - "event: Nov 4 11:35 to about 12:40 IST, CBS News House projections (1:05, 1:07, 1:28, 1:41 AM EST = 11:35, 11:37, 11:58, 12:11 IST; Spartz and McGuire calls shown only as '32m ago' and '52m ago' on a page whose newest timed entry was 1:41 AM EST, so roughly 12:15 to 12:45 IST). Jeffries quotes from about 11:41 PM EST on Nov 3 (10:11 IST), not previously on the site."
     - "All projections single-source (CBS News). CBS spelled 'Brian Steil'; the Wisconsin 1st incumbent is Bryan Steil, spelled as on Wikipedia. Texas 35th described only as a Democratic win, not a flip, since its prior holder was not confirmed."
     - "No running House seat count found on pages read, so none given. Alaska Senate: no result on any page read. No Schumer quote and no new Trump remark could be read (The Hill, HuffPost, thenews.com.pk, newsfromthestates blocked), so none used."
     - "No Sensex/Nifty move data found for this desk window; no market story written."

@@ -27,7 +27,7 @@ cover:
   bg: "Supreme Court of India"
 related: [justice-narasimha-recuses-lok-prahari-mop-judges-appointments-plea]
 seo:
-  description: "The Supreme Court on 2 November 2026 asked NBEMS to explain in writing why NEET-PG questions should not be disclosed after the exam, on a plea by doctors' groups."
+  description: "The Supreme Court on November 2, 2026, asked NBEMS to explain in writing why NEET-PG questions should not be disclosed after the exam, on a plea by doctors' groups."
 sources:
   - title: "Why NEET-PG Questions Shouldn't Be Disclosed After Exam? Supreme Court Asks NBEMS To File Statement"
     publisher: "LiveLaw"
@@ -42,14 +42,14 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov, hearing reported by LiveLaw at 1:55 pm IST (updated 2:12 pm IST); hearing listed in the morning alert (10:48 am) as continuing NEET structural petitions. Single source (LiveLaw)."
+    - "event: Nov 2, hearing reported by LiveLaw at 1:55 pm IST (updated 2:12 pm IST); hearing listed in the morning alert (10:48 am) as continuing NEET structural petitions. Single source (LiveLaw)."
     - "Senior counsel spelled both 'Shikhil Suri' and 'Shishil Suri' in source; name left out of copy. NBEMS counsel not named in source. No next date reported."
-    - "Bench: Justice PS Narasimha and Justice Alok Aradhe. Notice in the DMA petition issued on 15 October (year inferred as 2026)."
+    - "Bench: Justice PS Narasimha and Justice Alok Aradhe. Notice in the DMA petition issued on October 15 (year inferred as 2026)."
 ---
 
 The Supreme Court on Monday asked the National Board of Examinations in Medical Sciences (NBEMS) to explain why the questions in the postgraduate medical entrance test, NEET-PG, should not be made public once the exam is over.
 
-A bench of Justices PS Narasimha and Alok Aradhe was hearing a writ petition by the Democratic Medical Association, which wants NBEMS to put **each candidate's OMR answer sheet, the question paper and the answer key** in their login account right after the exam. Notice in the petition was issued on 15 October. It is being heard with older petitions by the Federation of All India Medical Association and the United Doctors Front that challenge the way the National Testing Agency runs entrance exams.
+A bench of Justices PS Narasimha and Alok Aradhe was hearing a writ petition by the Democratic Medical Association, which wants NBEMS to put **each candidate's OMR answer sheet, the question paper and the answer key** in their login account right after the exam. Notice in the petition was issued on October 15. It is being heard with older petitions by the Federation of All India Medical Association and the United Doctors Front that challenge the way the National Testing Agency runs entrance exams.
 
 For the petitioners, senior counsel said NBEMS releases the master set and its answers, but for the questions used to build the other shuffled sets it gives candidates **only question IDs**.
 

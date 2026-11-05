@@ -10,7 +10,7 @@ standfirst: "There is no trading and no big results in India on Tuesday, but the
 published: 2026-10-20T05:40:00+05:30
 location: Mumbai
 keyPoints:
-  - "The BSE and NSE are **closed on Tuesday, 20 October**, for Dussehra."
+  - "The BSE and NSE are **closed on Tuesday, October 20**, for Dussehra."
   - "Results from Bajaj Finance, Hindustan Zinc, L&T Technology Services and Piramal Finance **trade for the first time on Wednesday**."
   - "The **₹30,213 crore Jio Platforms IPO** opens on Wednesday, the same day the RBI publishes its policy minutes."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "A day off, then a crowded Wednesday"
 related: [results-week-ahead-infosys-kotak-bajaj-finance-jio-ipo, four-day-week-dussehra-nifty-outlook-jio-ipo-infosys, jio-platforms-ipo-price-band-biggest-india-listing, ipo-week-ahead-jio-platforms-paras-healthcare-open, bajaj-finance-q2-results-october-19, hindustan-zinc-q2-profit-more-than-doubles-6412-crore, global-cues-dussehra-holiday-wall-street-oil-october-20]
 seo:
-  description: "Indian markets are shut on 20 October 2026 for Dussehra. What to watch: Netflix results, Rubio-Jaishankar talks, and on Wednesday RBI minutes, the Jio IPO and Eternal's results."
+  description: "Indian markets are shut on October 20, 2026, for Dussehra. What to watch: Netflix results, Rubio-Jaishankar talks, and on Wednesday RBI minutes, the Jio IPO and Eternal's results."
 sources:
   - title: "Earnings, crude oil, Jio IPO key monitorables for investors next week"
     publisher: "Business Standard (PTI)"
@@ -62,9 +62,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Holiday, Jio IPO price band/size, Paras Healthcare, Eternal/Swiggy/HPCL/Infosys dates, RBI minutes Wednesday, Rubio-Jaishankar Mumbai Tuesday, flash PMI Friday and listings (HD Fire Protect Wed, Fusion CX Thu) come from the sources used in our 18-19 Oct previews (BS/PTI, Business Today, Upstox, NiftyTrader). Not re-checked this morning; company dates can shift."
-    - "GE Aerospace before US open and Netflix/SpaceX after the US close on 20 Oct from TheStreet."
-    - "Tonbo allotment 21 Oct and listing 23 Oct from HDFC Sky."
+    - "Holiday, Jio IPO price band/size, Paras Healthcare, Eternal/Swiggy/HPCL/Infosys dates, RBI minutes Wednesday, Rubio-Jaishankar Mumbai Tuesday, flash PMI Friday and listings (HD Fire Protect Wed, Fusion CX Thu) come from the sources used in our Oct 18-19 previews (BS/PTI, Business Today, Upstox, NiftyTrader). Not re-checked this morning; company dates can shift."
+    - "GE Aerospace before US open and Netflix/SpaceX after the US close on Oct 20 from TheStreet."
+    - "Tonbo allotment Oct 21 and listing Oct 23 from HDFC Sky."
     - "No companies of note reporting on Tuesday per the week-ahead calendar; a few small companies may still file."
 ---
 
@@ -96,4 +96,4 @@ Eternal, the parent of Zomato and Blinkit, reports on Wednesday along with India
 
 ## The rest of the week
 
-Friday, 23 October, is the heaviest day, with Infosys, Dr Reddy's Laboratories, JSW Steel, IndusInd Bank and Bharat Petroleum among the companies due to report. India's flash purchasing managers' indices for October and the RBI's weekly foreign exchange reserves, which stood at $726.03 billion on 9 October after five weekly falls, are also due that day. Kotak Mahindra Bank reports on Saturday.
+Friday, October 23, is the heaviest day, with Infosys, Dr Reddy's Laboratories, JSW Steel, IndusInd Bank and Bharat Petroleum among the companies due to report. India's flash purchasing managers' indices for October and the RBI's weekly foreign exchange reserves, which stood at $726.03 billion on October 9 after five weekly falls, are also due that day. Kotak Mahindra Bank reports on Saturday.

@@ -42,9 +42,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "All Q2 figures from one Business Standard report (Subrata Panda, 2:41 pm IST, 24 Oct). Exchange filing not read directly. Source gave advances and deposits in trillions; converted to lakh crore (₹5.77 trillion = ₹5.77 lakh crore)."
+    - "All Q2 figures from one Business Standard report (Subrata Panda, 2:41 pm IST, Oct 24). Exchange filing not read directly. Source gave advances and deposits in trillions; converted to lakh crore (₹5.77 trillion = ₹5.77 lakh crore)."
     - "Credit-to-deposit ratio 88.6% vs 87.5%: comparison period not stated in source, so left out of copy."
-    - "Vaswani stepping down end-December 2026 from a BS headline (27 Jun 2026) only; stated as announced in June. No quotes from management were available."
+    - "Vaswani stepping down end-December 2026 from a BS headline (Jun 27, 2026) only; stated as announced in June. No quotes from management were available."
 ---
 
 Kotak Mahindra Bank reported a 26% rise in consolidated net profit for the July-September quarter on Saturday, as a rush of foreign-currency deposits pushed up both its balance sheet and its funding costs.
@@ -73,4 +73,4 @@ Among subsidiaries, Kotak Securities earned ₹348 crore, the asset management b
 
 ## What comes next
 
-The bank is also preparing for a change at the top: the departure of managing director and chief executive Ashok Vaswani at the end of December 2026 was announced in June. Kotak was one of 33 companies due to report on Saturday, alongside IDFC First Bank, AU Small Finance Bank, JK Cement and Castrol India. Investors get their first chance to react when markets reopen on Monday, 26 October.
+The bank is also preparing for a change at the top: the departure of managing director and chief executive Ashok Vaswani at the end of December 2026 was announced in June. Kotak was one of 33 companies due to report on Saturday, alongside IDFC First Bank, AU Small Finance Bank, JK Cement and Castrol India. Investors get their first chance to react when markets reopen on Monday, October 26.

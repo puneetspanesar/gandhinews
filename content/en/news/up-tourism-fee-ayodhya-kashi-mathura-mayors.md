@@ -31,9 +31,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (Amar Ujala, Rohit Mishra, 8:35 am 15 Oct). It says the fee 'may' be levied and a plan is being prepared; no deciding authority, amount or rules given. Copy keeps it as a proposal."
+    - "Single source (Amar Ujala, Rohit Mishra, 8:35 am Oct 15). It says the fee 'may' be levied and a plan is being prepared; no deciding authority, amount or rules given. Copy keeps it as a proposal."
     - "Tripathi's remarks are reported speech in source; paraphrased, not quoted. Khanna quote verbatim in Hindi; English is our translation."
-    - "Conference held Wednesday (14 Oct, inferred) at a Gomti Nagar hotel; organisers 6th State Finance Commission, UNICEF, RML National Law University."
+    - "Conference held Wednesday (Oct 14, inferred) at a Gomti Nagar hotel; organisers 6th State Finance Commission, UNICEF, RML National Law University."
 ---
 
 Pilgrims and tourists visiting Ayodhya, Varanasi and Mathura could one day pay a fee to enter the cities, an idea raised at a meeting of Uttar Pradesh's mayors in Lucknow as civic bodies hunt for money to handle the crowds.

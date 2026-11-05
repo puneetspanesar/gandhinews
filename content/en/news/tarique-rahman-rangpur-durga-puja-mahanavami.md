@@ -22,7 +22,7 @@ hero:
     value: "A Prime Minister's puja day"
 related: [saudi-executes-two-bangladeshis-mecca-dhaka-disappointed]
 seo:
-  description: "Bangladesh PM Tarique Rahman visited the Radha Govinda Dharmasabha Temple Durga Puja pandal in Rangpur on Mahanavami, 20 October, his first Rangpur trip as PM."
+  description: "Bangladesh PM Tarique Rahman visited the Radha Govinda Dharmasabha Temple Durga Puja pandal in Rangpur on Mahanavami, October 20, his first Rangpur trip as PM."
 sources:
   - title: "Bangladesh PM Tarique Rahman visits historic Radha Govinda temple in Rangpur for Durga Puja (ANI)"
     publisher: "The Tribune"

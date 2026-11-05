@@ -21,7 +21,7 @@ hero:
     value: "Scare at Kalighat"
 related: []
 seo:
-  description: "A woman was detained outside former Bengal CM Mamata Banerjee's Kalighat home on 13 October after TMC MP Dola Sen alleged she tried to attack her with a knife."
+  description: "A woman was detained outside former Bengal CM Mamata Banerjee's Kalighat home on October 13 after TMC MP Dola Sen alleged she tried to attack her with a knife."
 sources:
   - title: "Dola Sen Alleges Knife Attack Attempt On Mamata Banerjee Outside Her Kalighat Residence"
     publisher: "ETV Bharat"

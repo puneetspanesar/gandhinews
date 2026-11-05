@@ -22,7 +22,7 @@ hero:
     value: "'We are here for a change of power'"
 related: [dipke-granted-bail-neha-bora-released-delhi-court, gehlot-asking-questions-not-anarchy-bjp, nitin-nabin-patna-rally-rahul-gandhi-foreign-toolkit]
 seo:
-  description: "Uddhav Thackeray on 17 October backed Prashant Bhushan's regime change remark, saying a government that takes away the right to vote and protest should be removed."
+  description: "Uddhav Thackeray on October 17 backed Prashant Bhushan's regime change remark, saying a government that takes away the right to vote and protest should be removed."
 sources:
   - title: "सरकार लोगों से मतदान करने और विरोध प्रदर्शन करने का अधिकार छीन रही है: उद्धव ठाकरे"
     publisher: "ThePrint Hindi (Bhasha)"

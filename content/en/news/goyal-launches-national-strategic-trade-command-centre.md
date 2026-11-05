@@ -36,7 +36,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single official source: PIB release posted 15 Oct, 6:04 pm IST. No direct quotes from Goyal in the release; his remarks are paraphrased."
+    - "Single official source: PIB release posted Oct 15, 6:04 pm IST. No direct quotes from Goyal in the release; his remarks are paraphrased."
     - "Size of the SCOMET backlog not given in the release; not stated."
     - "Launch time not given; published time set after the release."
 ---

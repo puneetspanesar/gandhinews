@@ -36,15 +36,15 @@ sources:
 verification:
   status: approved
   notes:
-    - "Committee outcome (Wednesday 14 Oct), 133 articles, first 40 articles' content, opposition objections, LLA refusal to split, 21 Oct session: MercoPress 15 Oct, partly citing Argentine press and The Guardian."
+    - "Committee outcome (Wednesday, Oct 14), 133 articles, first 40 articles' content, opposition objections, LLA refusal to split, Oct 21 session: MercoPress Oct 15, partly citing Argentine press and The Guardian."
     - "Ibarzábal Murphy quote verbatim as given in MercoPress (English rendering)."
-    - "UK quotes (Reynolds, Miliband, Kumaran) from MercoPress 13 Oct. Timing of Argentina's ITLOS request differs between the 13 Oct and 15 Oct reports; written as 'has asked'."
+    - "UK quotes (Reynolds, Miliband, Kumaran) from MercoPress Oct 13. Timing of Argentina's ITLOS request differs between the Oct 13 and Oct 15 reports; written as 'has asked'."
     - "Sea Lion operators not named in sources read; left out."
 ---
 
 A bill that would let Argentina jail people involved in exploiting resources around the Falkland Islands for up to 20 years has stalled in Congress, after opposition deputies refused to accept it in one piece.
 
-The fourth joint meeting of the Chamber of Deputies' defence, criminal law and foreign affairs committees ended on Wednesday without agreement on President Javier Milei's National Sovereignty Defence bill. The text will not reach a special session set for 21 October.
+The fourth joint meeting of the Chamber of Deputies' defence, criminal law and foreign affairs committees ended on Wednesday without agreement on President Javier Milei's National Sovereignty Defence bill. The text will not reach a special session set for October 21.
 
 The 133-article bill was sent to Congress in September. Its first 40 articles would replace a 2011 law against unauthorised oil exploration with a wider regime of fines, bans, a public register of offenders and prison terms, aimed at those behind the Sea Lion oil project in Falklands waters. The sanctions could reach affiliates, financiers, shareholders and suppliers, and possibly the islands' fishing industry.
 

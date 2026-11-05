@@ -22,7 +22,7 @@ hero:
     value: "153 drones in one night"
 related: [crimea-blackout-russia-ukraine-strikes-oleshky-ceasefire, ukraine-sanctions-russian-missile-suppliers-rusal-vlasiuk, ukraine-starshield-restored-musk-violated-terms, picierno-ends-hunger-strike-oleshky-ceasefire]
 seo:
-  description: "Russia launched 153 drones at Ukraine overnight on 25 October, hitting a Vinnytsia apartment block, while Ukrainian drones killed three in Bryansk and Belgorod and struck Perm."
+  description: "Russia launched 153 drones at Ukraine overnight on October 25, hitting a Vinnytsia apartment block, while Ukrainian drones killed three in Bryansk and Belgorod and struck Perm."
 sources:
   - title: "Russian attacks kill 8, injure 51 across Ukraine over past day as drone strikes residential building in Vinnytsia"
     publisher: "The Kyiv Independent"

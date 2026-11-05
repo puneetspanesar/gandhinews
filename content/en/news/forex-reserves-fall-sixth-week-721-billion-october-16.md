@@ -6,13 +6,13 @@ section: economy
 format_label: "Economy / RBI"
 topics: [rupee-forex, economy]
 title: "Forex reserves fall for a sixth week to $721 billion as RBI defends the rupee"
-standfirst: "India's foreign exchange reserves dropped by $5.01 billion in the week to 16 October, the Reserve Bank's data showed. They are now about $65 billion below the record set in early September."
+standfirst: "India's foreign exchange reserves dropped by $5.01 billion in the week to October 16, the Reserve Bank's data showed. They are now about $65 billion below the record set in early September."
 published: 2026-10-23T17:50:00+05:30
 location: Mumbai
 keyPoints:
-  - "Reserves fell **$5.011 billion to $721.016 billion** in the week ended 16 October."
+  - "Reserves fell **$5.011 billion to $721.016 billion** in the week ended October 16."
   - "Foreign currency assets dropped **$5.758 billion**, while gold holdings rose $706 million."
-  - "Reserves have fallen every week since the **$785.706 billion** record of 4 September."
+  - "Reserves have fallen every week since the **$785.706 billion** record of September 4."
 hero:
   need: "Reserve Bank of India headquarters building on Mint Street, Mumbai"
   suggested_source: "Reserve Bank of India Mumbai headquarters"
@@ -22,7 +22,7 @@ hero:
     value: "Sixth weekly fall: $721 billion"
 related: [rupee-sixth-gain-forex-reserves-fall-726-billion, rupee-falls-44-paise-94-82-crude-houthi-attacks, current-account-deficit-explained-rupee]
 seo:
-  description: "India's forex reserves fell $5.011 billion to $721.016 billion in the week ended 16 October 2026, a sixth straight weekly drop, as foreign currency assets slid $5.758 billion."
+  description: "India's forex reserves fell $5.011 billion to $721.016 billion in the week ended October 16, 2026, a sixth straight weekly drop, as foreign currency assets slid $5.758 billion."
 sources:
   - title: "India's forex reserves decline $5 billion to $721 billion: RBI data"
     publisher: "Business Standard (PTI)"
@@ -43,13 +43,13 @@ verification:
   status: approved
   notes:
     - "All figures agree across Business Standard (5:27 pm IST), Daily Excelsior and Xinhua, which cite the RBI's weekly statistical supplement. RBI release itself not read."
-    - "'Sixth straight weekly decline' per Xinhua; consistent with dashboard history (record w/e 4 Sep). Swap of nearly $133 bn and the reasons (FCNR(B) resources, RBI dollar sales) from Daily Excelsior, attributed to experts."
+    - "'Sixth straight weekly decline' per Xinhua; consistent with dashboard history (record w/e Sep 4). Swap of nearly $133 bn and the reasons (FCNR(B) resources, RBI dollar sales) from Daily Excelsior, attributed to experts."
     - "Gap to record: 785.706 - 721.016 = 64.69, written as 'about $65 billion'."
 ---
 
-India's foreign exchange reserves fell for a sixth straight week, dropping by $5.011 billion to $721.016 billion in the week ended 16 October, data released by the Reserve Bank of India on Friday showed.
+India's foreign exchange reserves fell for a sixth straight week, dropping by $5.011 billion to $721.016 billion in the week ended October 16, data released by the Reserve Bank of India on Friday showed.
 
-The decline followed a fall of $8.578 billion the week before, which took reserves to $726.027 billion. They are now about $65 billion below the record $785.706 billion reached in the week ended 4 September, when a special concessional swap window for diaspora deposits brought banks nearly $133 billion.
+The decline followed a fall of $8.578 billion the week before, which took reserves to $726.027 billion. They are now about $65 billion below the record $785.706 billion reached in the week ended September 4, when a special concessional swap window for diaspora deposits brought banks nearly $133 billion.
 
 Foreign currency assets, the biggest part of the reserves, fell $5.758 billion to $591.847 billion. These are held in several currencies, so their dollar value also moves with exchange rates.
 
@@ -57,4 +57,4 @@ The other parts rose. Gold holdings went up by $706 million to $105.8 billion, s
 
 Market experts tied the fall to the use of resources raised through FCNR(B) deposits and to the central bank selling dollars to support the rupee, which has been under pressure from crude oil above $110 a barrel and foreign investors pulling money out of Indian shares.
 
-The rupee ended Friday 12 paise weaker at a provisional 94.93 to the dollar. The next reserves figure, for the week ended 23 October, is due on 30 October.
+The rupee ended Friday 12 paise weaker at a provisional 94.93 to the dollar. The next reserves figure, for the week ended October 23, is due on October 30.

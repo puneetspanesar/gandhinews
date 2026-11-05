@@ -22,7 +22,7 @@ hero:
     value: "Day four: Mass on the 10th floor"
 related: [pope-leo-recovering-well-after-cancer-surgery, pope-leo-diagnosed-with-lung-cancer-after-surgery]
 seo:
-  description: "Pope Leo XIV celebrated Mass at Rome's Gemelli hospital on 16 October as the Vatican said tests confirm steady improvement after his lung cancer surgery."
+  description: "Pope Leo XIV celebrated Mass at Rome's Gemelli hospital on October 16 as the Vatican said tests confirm steady improvement after his lung cancer surgery."
 sources:
   - title: "Vatican releases first picture of Pope Leo after surgery as pontiff attends mass at Gemelli hospital"
     publisher: "The Tribune (ANI)"

@@ -10,7 +10,7 @@ standfirst: "SBI told the stock exchanges about its leak first and its customers
 published: 2026-10-25T05:40:00+05:30
 keyPoints:
   - "SBI found **3,897 customer records** with personal details among about 3.75 lakh leaked rows."
-  - "The legal duty to tell affected people about a breach applies only **from 13 May 2027**."
+  - "The legal duty to tell affected people about a breach applies only **from May 13, 2027**."
   - "The RBI should order banks to **notify affected customers within 72 hours** of confirming a leak."
 hero:
   need: "RBI Governor Sanjay Malhotra, whose regulator can make breach notice to customers binding"
@@ -62,14 +62,14 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. SBI facts (alerts from threat intelligence provider, Defence Cyber Agency and CERT-In; about 3.75 lakh records reviewed; 3,897 with PII; fields exposed; CERT-In-empanelled agency; 'no material impact' line; exchange filing Wed 21 Oct) from Business Today and YourStory; customer statement of 23 Oct from News On AIR. Filing itself not opened."
-    - "Hacker claim (Siriusim, BreachForums, 3.75 lakh rows, 2,722 PDFs, flagged by CyberPulse56 on 16 Oct) from YourStory; unverified, attributed as a claim."
-    - "IFF quotes ('It does not say whether a single affected customer has been told') and the March RBI advisory (recommends SMS, email, app and call notice; not binding) rest on the desk's 24 Oct news story, which read the IFF post; the IFF page could not be opened in this run. RBI advisory not seen directly; described as IFF characterised it."
-    - "Bank reporting to RBI within 2 to 6 hours and DPDP duty to inform each affected data principal and the Board from Baker McKenzie; CERT-In six-hour rule (directions of April 2022) from The Hacker News. 13 May 2027 date from the desk's 11 Oct editorial (PIB, India Data Law)."
+    - "Editorial view of the desk. SBI facts (alerts from threat intelligence provider, Defence Cyber Agency and CERT-In; about 3.75 lakh records reviewed; 3,897 with PII; fields exposed; CERT-In-empanelled agency; 'no material impact' line; exchange filing Wed Oct 21) from Business Today and YourStory; customer statement of Oct 23 from News On AIR. Filing itself not opened."
+    - "Hacker claim (Siriusim, BreachForums, 3.75 lakh rows, 2,722 PDFs, flagged by CyberPulse56 on Oct 16) from YourStory; unverified, attributed as a claim."
+    - "IFF quotes ('It does not say whether a single affected customer has been told') and the March RBI advisory (recommends SMS, email, app and call notice; not binding) rest on the desk's Oct 24 news story, which read the IFF post; the IFF page could not be opened in this run. RBI advisory not seen directly; described as IFF characterised it."
+    - "Bank reporting to RBI within 2 to 6 hours and DPDP duty to inform each affected data principal and the Board from Baker McKenzie; CERT-In six-hour rule (directions of April 2022) from The Hacker News. May 13, 2027, date from the desk's Oct 11 editorial (PIB, India Data Law)."
     - "The 72-hour window and other recommendations are the desk's own."
 ---
 
-On 16 October State Bank of India learnt, from its threat intelligence provider, the Defence Cyber Agency and CERT-In, that its customers' data was being offered on the dark web. Within days it had told the stock exchanges. Its message to investors on 21 October was that there was "no material impact" on the bank's operations or finances. It was only on Friday, a week after the alerts, that the bank said publicly it had personally informed the customers whose details had leaked.
+On October 16 State Bank of India learnt, from its threat intelligence provider, the Defence Cyber Agency and CERT-In, that its customers' data was being offered on the dark web. Within days it had told the stock exchanges. Its message to investors on October 21 was that there was "no material impact" on the bank's operations or finances. It was only on Friday, a week after the alerts, that the bank said publicly it had personally informed the customers whose details had leaked.
 
 That order of priorities tells us something about the rules, not just about SBI.
 
@@ -77,7 +77,7 @@ That order of priorities tells us something about the rules, not just about SBI.
 
 A bank in India must report a cyber incident to the Reserve Bank within two to six hours of detecting it. Under CERT-In's directions of April 2022, it must also report to the national cyber security agency within six hours. A listed bank must keep the stock exchanges informed. Every one of these duties runs towards the state or the market.
 
-The person whose name, mobile number, date of birth and home address are now in a criminal's spreadsheet has no such right. The Digital Personal Data Protection Act does require organisations to inform each affected person about a breach, but that duty applies only from 13 May 2027. An RBI advisory issued in March recommends that banks notify customers by SMS, email, app alerts and calls. It is advice, and nothing more.
+The person whose name, mobile number, date of birth and home address are now in a criminal's spreadsheet has no such right. The Digital Personal Data Protection Act does require organisations to inform each affected person about a breach, but that duty applies only from May 13, 2027. An RBI advisory issued in March recommends that banks notify customers by SMS, email, app alerts and calls. It is advice, and nothing more.
 
 ## Why it matters
 
@@ -104,5 +104,5 @@ Finally, any customer who loses money through fraud that uses leaked bank data s
 SBI has now done what the advisory asks. The next bank may not. Customers' safety should not depend on which bank they happen to use, or on a law that arrives in 2027.
 
 ```facts
-{"title":"The reporting behind this view","items":[{"value":"3,897","label":"SBI customer records found to contain personal details, out of about 3.75 lakh rows examined"},{"value":"6 hours","label":"time within which banks must report cyber incidents to CERT-In, under 2022 directions"},{"value":"13 May 2027","label":"date from which the law requires affected people to be told of a breach"}]}
+{"title":"The reporting behind this view","items":[{"value":"3,897","label":"SBI customer records found to contain personal details, out of about 3.75 lakh rows examined"},{"value":"6 hours","label":"time within which banks must report cyber incidents to CERT-In, under 2022 directions"},{"value":"May 13, 2027","label":"date from which the law requires affected people to be told of a breach"}]}
 ```

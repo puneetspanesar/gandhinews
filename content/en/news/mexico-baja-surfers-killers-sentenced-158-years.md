@@ -47,18 +47,18 @@ sources:
 verification:
   status: approved
   notes:
-    - "Sentence of 158 years each rests on the Al Jazeera headline seen on its news index on 17 Oct; the article itself could not be opened. The Inertia (12 Oct) reported final sentencing set for 16 Oct, with up to 210 years possible (AP). Sentencing day reactions and any judge's remarks not available, so none used."
+    - "Sentence of 158 years each rests on the Al Jazeera headline seen on its news index on Oct 17; the article itself could not be opened. The Inertia (Oct 12) reported final sentencing set for Oct 16, with up to 210 years possible (AP). Sentencing day reactions and any judge's remarks not available, so none used."
     - "Names of convicted: Jesús Gerardo García ('El Kekas'), Irineo Francisco and Ángel Jesús; surnames withheld under Mexican law (The Inertia)."
     - "Rhoad named Carter Redd Rhoad by The Inertia, Jack Carter Rhoad by AP; we use Carter Rhoad."
     - "Distance: AP says about 80 km from Ensenada; The Inertia says about 50 miles. Copy says 'south of Ensenada' only."
-    - "Family quotes are from the 9 Oct closing day (AP) and 12 Oct verdict (The Inertia)."
+    - "Family quotes are from the Oct 9 closing day (AP) and Oct 12 verdict (The Inertia)."
 ---
 
 A court in Mexico has sentenced three men to 158 years in prison each for the murders of two Australian brothers and their American friend, who were shot dead on a surfing trip on the Baja California coast in 2024.
 
-Sentencing had been set for Friday, 16 October, after a judge in Ensenada convicted the men earlier this month of murder, armed robbery and armed carjacking. They are Jesús Gerardo García, known as "El Kekas", Irineo Francisco and Ángel Jesús. Their surnames are withheld under Mexican law.
+Sentencing had been set for Friday, October 16, after a judge in Ensenada convicted the men earlier this month of murder, armed robbery and armed carjacking. They are Jesús Gerardo García, known as "El Kekas", Irineo Francisco and Ángel Jesús. Their surnames are withheld under Mexican law.
 
-Callum and Jake Robinson and Carter Rhoad went missing on 28 April 2024 while camping at Punta San José, south of Ensenada. Their bodies were found on 3 May in a well near the campsite.
+Callum and Jake Robinson and Carter Rhoad went missing on April 28, 2024, while camping at Punta San José, south of Ensenada. Their bodies were found on May 3 in a well near the campsite.
 
 ## What the court heard
 

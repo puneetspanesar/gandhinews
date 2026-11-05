@@ -12,7 +12,7 @@ location: New Delhi
 keyPoints:
   - "The Centre told the Supreme Court it is **considering a committee to review** the UGC equity regulations."
   - "The bench of CJI Surya Kant asked: **\"Why don't you revisit the UGC Regulations?\"**"
-  - "The rules, notified on 13 January, have been **kept in abeyance** by the court since earlier this year."
+  - "The rules, notified on January 13, have been **kept in abeyance** by the court since earlier this year."
 hero:
   need: "Solicitor General of India Tushar Mehta"
   suggested_source: "Tushar Mehta"
@@ -26,14 +26,14 @@ infographic:
   dek: "Supreme Court defers hearing on pleas by general category students"
   motif: graduation-cap
   steps:
-    - {title: "Notified", text: "UGC equity regulations notified on 13 January 2026"}
+    - {title: "Notified", text: "UGC equity regulations notified on January 13, 2026"}
     - {title: "Challenged", text: "Pleas say general category students are left out of grievance redressal"}
     - {title: "On hold", text: "Supreme Court keeps the regulations in abeyance"}
-    - {title: "Review", text: "Centre tells the court on 5 November it may form a committee"}
-  source: "Supreme Court hearing, 5 November 2026"
+    - {title: "Review", text: "Centre tells the court on November 5 it may form a committee"}
+  source: "Supreme Court hearing, November 5, 2026"
 related: []
 seo:
-  description: "The Centre told the Supreme Court on 5 November 2026 it is considering a committee to review the UGC Promotion of Equity in Higher Education Institutions Regulations, 2026."
+  description: "The Centre told the Supreme Court on November 5, 2026, it is considering a committee to review the UGC Promotion of Equity in Higher Education Institutions Regulations, 2026."
 sources:
   - title: "Centre Mulls Panel To Revisit UGC Regulations On Caste Discrimination, Tells SC"
     publisher: "ETV Bharat"
@@ -48,7 +48,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 5 Nov, Supreme Court hearing reported 15:54 IST (ETV Bharat). In-court time not given; story pegged to the report."
+    - "event: Nov 5, Supreme Court hearing reported 15:54 IST (ETV Bharat). In-court time not given; story pegged to the report."
     - "Details and quotes from ETV Bharat only (fetched). Oneindia headline seen in search agrees on the thrust, page not fetched. Next hearing date not stated in source, so left out. Case title not named."
 ---
 
@@ -60,7 +60,7 @@ Solicitor General Tushar Mehta said the government was examining the issue so th
 
 ## What the rules say
 
-The regulations were notified on 13 January and apply to every higher education institution in the country. They require colleges and universities to set up **Equal Opportunity Centres and Equity Committees** and to inquire into complaints of discrimination.
+The regulations were notified on January 13 and apply to every higher education institution in the country. They require colleges and universities to set up **Equal Opportunity Centres and Equity Committees** and to inquire into complaints of discrimination.
 
 The petitioners object that the grievance mechanism leaves out "General Category" students, denying protection to those who are not from the Scheduled Castes, Scheduled Tribes or Other Backward Classes. Earlier this year the Supreme Court **ordered the regulations kept in abeyance** while it heard the challenge.
 

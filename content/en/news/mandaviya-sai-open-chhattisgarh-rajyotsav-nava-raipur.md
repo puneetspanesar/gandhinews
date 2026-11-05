@@ -22,7 +22,7 @@ hero:
     value: "Chhattisgarh's 26th birthday party begins"
 related: [chhattisgarh-rajyotsav-26th-mandaviya-opens-shah-closing, modi-chhattisgarh-foundation-day-naxalism-roots-sai-vajpayee, modi-foundation-day-greetings-haryana-mp-kerala-cms-reply]
 seo:
-  description: "Union Minister Mansukh Mandaviya and CM Vishnu Deo Sai opened Chhattisgarh Rajyotsav 2026 in Nava Raipur on 1 November; Amit Shah attends the close on 3 November."
+  description: "Union Minister Mansukh Mandaviya and CM Vishnu Deo Sai opened Chhattisgarh Rajyotsav 2026 in Nava Raipur on November 1; Amit Shah attends the close on November 3."
 sources:
   - title: "राज्योत्सव 2026 का भव्य आगाज : केंद्रीय मंत्री मनसुख मंडाविया और CM साय ने किया उद्घाटन"
     publisher: "Haribhoomi"
@@ -42,10 +42,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov 18:00 IST (scheduled start per INH News schedule: CM to reach venue at 6 pm), inauguration reported by Haribhoomi, published 19:04 IST, updated 19:38 IST. Exact time of the lamp-lighting not given."
+    - "event: Nov 1 18:00 IST (scheduled start per INH News schedule: CM to reach venue at 6 pm), inauguration reported by Haribhoomi, published 19:04 IST, updated 19:38 IST. Exact time of the lamp-lighting not given."
     - "Haribhoomi confirms Mandaviya and Sai jointly opened the festival; it carries no speeches or quotes, so none are used. No speech text found within search budget."
     - "Mandaviya's earlier stop at a Sathya Sai Sanjeevani hospital event (arrival at airport 4:50 pm): INH News schedule only, written as scheduled plan, not confirmed."
-    - "41 state honours, new awards named after Teejan Bai and Ravidas, air shows on 1 and 2 Nov (Sarang, Suryakiran), 40,000 parking, 60 LED screens: Dainik Jagran MP-CG 14:32 IST only."
+    - "41 state honours, new awards named after Teejan Bai and Ravidas, air shows on Nov 1 and 2 (Sarang, Suryakiran), 40,000 parking, 60 LED screens: Dainik Jagran MP-CG 14:32 IST only."
     - "Venue: Haribhoomi says Rajyotsav ground, Nava Raipur Atal Nagar; Dainik Jagran says Dr Shyama Prasad Mukherjee Industry and Trade Complex. Both used consistently with the morning preview."
     - "Mandaviya's portfolio not given in sources; written as Union Minister."
 ---
@@ -68,4 +68,4 @@ The closing ceremony on Tuesday will be attended by Union Home Minister Amit Sha
 {"n":2,"subject":"Abhijeet Bhattacharya","caption":"Playback singer Abhijeet Bhattacharya, who is due to perform at the closing night on Tuesday.","alt":"Singer Abhijeet Bhattacharya"}
 ```
 
-Chhattisgarh was carved out of Madhya Pradesh on 1 November 2000.
+Chhattisgarh was carved out of Madhya Pradesh on November 1, 2000.

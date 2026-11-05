@@ -40,7 +40,7 @@ infographic:
   source: "Forex and commodity market data, November 5, 2026"
 related: [rupee-six-week-high-94-38-jio-inflows-rbi, sensex-1623-points-pre-open-nifty-24378-brent-below-100, sensex-1553-points-bse-market-cap-500-lakh-crore-10am]
 seo:
-  description: "The rupee opened 29 paise higher at 94.35 against the dollar on 5 November 2026, its fifth straight gain, as Brent fell to $93.46 after the US midterm results."
+  description: "The rupee opened 29 paise higher at 94.35 against the dollar on November 5, 2026, its fifth straight gain, as Brent fell to $93.46 after the US midterm results."
 sources:
   - title: "Rupee opens 29 paise higher, Brent crude falls 1 pc on hopes of Iran war exit (IANS)"
     publisher: "Punjab Kesari"
@@ -55,8 +55,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 5 Nov 09:00-10:04 IST, forex market open; IANS report timed 10:04 am."
-    - "No analyst quotes in the source; none used. Not claimed as a multi-week high (21 Oct close was 94.38, so 94.35 is marginally stronger, but no source states a record)."
+    - "event: Nov 5 09:00-10:04 IST, forex market open; IANS report timed 10:04 am."
+    - "No analyst quotes in the source; none used. Not claimed as a multi-week high (Oct 21 close was 94.38, so 94.35 is marginally stronger, but no source states a record)."
 ---
 
 The rupee **opened 29 paise stronger at 94.35** against the dollar on Thursday, extending its winning run to a fifth session as crude oil kept sliding after the US midterm elections.

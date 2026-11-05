@@ -42,7 +42,7 @@ verification:
   status: approved
   notes:
     - "All figures are Redseer Strategy Consultants estimates as reported by afaqs! and YourStory (PTI). Redseer's own report not opened."
-    - "Sale start dates not confirmed from a reliable source (a low-quality site said Amazon began 8 October); left out."
+    - "Sale start dates not confirmed from a reliable source (a low-quality site said Amazon began October 8); left out."
     - "No overall year-on-year comparison for the first two days was given; only first-time shoppers (doubled) and fashion GMV (+22-25%)."
 ---
 
@@ -58,7 +58,7 @@ Fashion took 15-18% of sales, and its value grew 22-25% from last year.
 
 > Value fashion stood out, as shoppers from Tier 2 and smaller towns bought festive wear at accessible price points.
 >
-> Source: Nikhil Dalal, Associate Partner, Redseer Strategy Consultants, 12 October 2026
+> Source: Nikhil Dalal, Associate Partner, Redseer Strategy Consultants, October 12, 2026
 
 About two-thirds of shoppers on the opening day came from Tier 2 towns and rural areas, and roughly a third were from Gen Z. The quick-commerce arms of Amazon and Flipkart recorded four to five times their usual daily sales.
 

@@ -22,7 +22,7 @@ hero:
     value: "Nasdaq down 2.6%, Brent above $113"
 related: [sensex-nifty-close-october-22-crude-110-west-asia, global-cues-wall-street-gains-brent-109-yields-october-22, meta-ibm-tesla-results-after-hours-lam-research, rupee-six-week-high-94-38-jio-inflows-rbi]
 seo:
-  description: "Global cues for 23 October 2026: Nasdaq down 2.6%, S&P 500 down 1.21%, Dow flat, Brent above $113, US 10-year yield near 4.95%, gold at two-month low, rupee at 94.82 before Sensex, Nifty open."
+  description: "Global cues for October 23, 2026: Nasdaq down 2.6%, S&P 500 down 1.21%, Dow flat, Brent above $113, US 10-year yield near 4.95%, gold at two-month low, rupee at 94.82 before Sensex, Nifty open."
 sources:
   - title: "Wall Street Plunges as AI Investment Anxiety Weighs; Nasdaq Drops 2.6% and Semiconductor Index Plummets 6.7%"
     publisher: "SBS News"
@@ -56,7 +56,7 @@ verification:
     - "10-year yield: SBS says down 19.3 bp to 4.952%, largest drop since March 2023; Yahoo ticker shows near 4.95%; Benzinga midday 4.99%. Copy says 'about 4.95%'."
     - "Brent: SBS 'above $113, highest since May'; Yahoo 'near $113 at one point'. No settlement price read; none given in copy. Gold $4,061.30 (-2.1%) is Benzinga's midday figure, called a two-month-plus low."
     - "GIFT Nifty and Friday Asian opening levels were not found before publication; not given. Thursday Asia moves from Upstox (morning snapshot)."
-    - "Sensex/Nifty/rupee 22 Oct from PTI via Daily Excelsior (rupee 94.82 provisional)."
+    - "Sensex/Nifty/rupee Oct 22 from PTI via Daily Excelsior (rupee 94.82 provisional)."
 ---
 
 Indian shares head into Friday's session with little help from abroad. A sell-off in technology stocks dragged the Nasdaq Composite down 2.6% on Thursday, its sharpest fall since June, while Brent crude climbed to its highest level since May as attacks in Saudi Arabia and talk of fresh strikes on Iran kept the oil market on edge.
@@ -71,7 +71,7 @@ The pain was concentrated in chipmakers and the companies building artificial in
 
 ## Oil, bonds and gold
 
-Brent rose above $113 a barrel at one point. Traders reacted to Saudi reports of attacks on the Dammam airport and an Aramco oil field, and to a report that the United States and Israel had drawn up plans for renewed strikes on Iran after the 3 November US midterm elections.
+Brent rose above $113 a barrel at one point. Traders reacted to Saudi reports of attacks on the Dammam airport and an Aramco oil field, and to a report that the United States and Israel had drawn up plans for renewed strikes on Iran after the November 3 US midterm elections.
 
 US Treasuries rallied hard. The 10-year yield fell about 19 basis points to roughly 4.95%, back below 5% and its largest one-day drop since the regional banking crisis of March 2023. Gold went the other way, sliding about 2% to near $4,061 an ounce, a low of more than two months, as dearer oil revived inflation worries.
 

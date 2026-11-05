@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "CGA statement was issued on Friday 23 October and reported in Saturday's Taipei Times (with CNA). Ship names and hull numbers as given there."
+    - "CGA statement was issued on Friday, October 23 and reported in Saturday's Taipei Times (with CNA). Ship names and hull numbers as given there."
     - "No comment from Beijing or the Japan Coast Guard was found."
 ---
 

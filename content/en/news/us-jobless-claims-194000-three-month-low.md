@@ -22,7 +22,7 @@ hero:
     value: "194,000 new claims"
 related: [us-inflation-september-cpi-rises-before-midterms, us-10-year-yield-below-5-per-cent-biggest-drop-since-2023, us-treasury-yields-fall-weak-housing-data]
 seo:
-  description: "US initial jobless claims fall to 194,000 in week to 17 October 2026, below 200,000 forecast and lowest in three months; Conference Board leading index flat in September; mortgage rate 7.32%."
+  description: "US initial jobless claims fall to 194,000 in week to October 17, 2026, below 200,000 forecast and lowest in three months; Conference Board leading index flat in September; mortgage rate 7.32%."
 sources:
   - title: "Meta Sinks 6%, 10-Year Yield Falls Below 5%: Stock Market Today"
     publisher: "Benzinga"
@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Claims 194,000, below 200,000 consensus and prior week (Benzinga); 'fewest in three months' (Yahoo). Prior-week figure not given; week-ending date not stated in sources, so copy says 'last week' (week-ending date in SEO inferred as 17 Oct)."
+    - "Claims 194,000, below 200,000 consensus and prior week (Benzinga); 'fewest in three months' (Yahoo). Prior-week figure not given; week-ending date not stated in sources, so copy says 'last week' (week-ending date in SEO inferred as Oct 17)."
     - "LEI unchanged vs -0.2% expected, Freddie Mac 7.32% from 7.40%: Benzinga only."
     - "Hero: Chavez-DeRemer assumed still Labor Secretary; not mentioned in sources. Photo choice only."
 ---
@@ -54,4 +54,4 @@ Borrowing costs for homebuyers eased slightly. The average rate on a 30-year fix
 
 On another day, strong jobs data might have pushed bond yields up by reducing the case for lower interest rates. On Thursday it was drowned out by a sell-off in technology shares that sent investors into Treasuries, and the 10-year yield fell below 5%.
 
-The figures land less than two weeks before the 3 November midterm elections, with the economy and prices at the centre of the campaign. September's consumer price data showed inflation rising, and oil above $110 a barrel threatens to push it higher.
+The figures land less than two weeks before the November 3 midterm elections, with the economy and prices at the centre of the campaign. September's consumer price data showed inflation rising, and oil above $110 a barrel threatens to push it higher.

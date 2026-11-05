@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Time 10:33 pm local (1433 GMT) on Thursday 22 Oct = 8:03 pm IST. Toll per CCTV via AFP, Daily Star updated 08:51 Friday. 'More than 300' houses collapsed (AFP) vs CCTV '339 collapsed or damaged'; copy uses both carefully."
+    - "Time 10:33 pm local (1433 GMT) on Thursday, Oct 22 = 8:03 pm IST. Toll per CCTV via AFP, Daily Star updated 08:51 Friday. 'More than 300' houses collapsed (AFP) vs CCTV '339 collapsed or damaged'; copy uses both carefully."
     - "No reports of tremors or damage in Nepal or India found; left out."
 ---
 

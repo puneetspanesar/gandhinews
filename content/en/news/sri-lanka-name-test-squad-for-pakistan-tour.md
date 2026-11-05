@@ -12,7 +12,7 @@ location: Colombo
 keyPoints:
   - "New Test captain **Kusal Mendis** leads a 15-man Sri Lanka squad for Pakistan."
   - "Pathum Nissanka is included but must prove his **fitness after a wrist injury**."
-  - "The Tests are in **Rawalpindi from 9 November** and Lahore from 17 November."
+  - "The Tests are in **Rawalpindi from November 9** and Lahore from November 17."
 hero:
   need: "Kusal Mendis batting for Sri Lanka"
   suggested_source: "Kusal Mendis"
@@ -36,7 +36,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Squad, dates and omissions from ICC news, 13 October. No quotes from selectors available."
+    - "Squad, dates and omissions from ICC news, October 13. No quotes from selectors available."
     - "ICC says Malinga and Bandara 'receive call-ups'; whether these are first Test call-ups is not stated, so copy says only 'called up'."
     - "Exact time of announcement not given; published time is an estimate within the window."
 ---
@@ -47,6 +47,6 @@ Opener Pathum Nissanka is in the touring party, but only on condition that he re
 
 Left-arm seamer Dilshan Madushanka returns to the Test squad, and Eshan Malinga and Anjala Bandara have been called up. There is no place for Lahiru Udara, who made 188 against West Indies in June, or for wicketkeeper-batter Niroshan Dickwella.
 
-The first Test is in Rawalpindi from 9 to 13 November and the second in Lahore from 17 to 21 November. Both teams have ground to make up in the World Test Championship, where Sri Lanka are seventh with one win in six Tests and Pakistan are ninth and last. Pakistan have won two of their nine Tests in this cycle, so a home series is a chance to climb the table.
+The first Test is in Rawalpindi from November 9 to 13 and the second in Lahore from November 17 to 21. Both teams have ground to make up in the World Test Championship, where Sri Lanka are seventh with one win in six Tests and Pakistan are ninth and last. Pakistan have won two of their nine Tests in this cycle, so a home series is a chance to climb the table.
 
 **Squad:** Kusal Mendis (captain), Anjala Bandara, Dinesh Chandimal, Dhananjaya de Silva, Sonal Dinusha, Asitha Fernando, Prabath Jayasuriya, Lahiru Kumara, Dilshan Madushanka, Eshan Malinga, Kamindu Mendis, Pathum Nissanka, Keshara Nuwantha, Milan Rathnayaka, Pasindu Sooriyabandara.

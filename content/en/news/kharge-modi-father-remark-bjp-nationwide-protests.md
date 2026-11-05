@@ -22,7 +22,7 @@ hero:
     value: "One line from the stage, a nationwide row"
 related: [rahul-gandhi-thanks-bjp-promoting-november-1-rally, ravi-shankar-prasad-rahul-november-1-rally-sikh-traders, trivedi-rahul-foreign-trips-priyank-kharge-raw-retort, kharge-to-explain-sir-harm-to-modi-tomorrow-kalaburagi, india-bloc-public-impeachment-cec-october-30-dilli-chalo]
 seo:
-  description: "Congress chief Mallikarjun Kharge's 'Modi ka baap bhi jayega' remark in Patna drew fire from Amit Shah and Nitin Nabin; the BJP plans protests across India on 26 October."
+  description: "Congress chief Mallikarjun Kharge's 'Modi ka baap bhi jayega' remark in Patna drew fire from Amit Shah and Nitin Nabin; the BJP plans protests across India on October 26."
 sources:
   - title: "'Modi ka baap bhi jayega': Political storm erupts over Kharge's remark on PM Modi's father"
     publisher: "The Week"
@@ -107,4 +107,4 @@ Other Congress leaders argued the remark was a reaction to provocation from the 
 
 ## What comes next
 
-BJP state units have been told to hold "peaceful but firm" demonstrations on Monday. The row lands in a week already crowded with confrontation over the SIR: the INDIA bloc plans a "public impeachment" of Chief Election Commissioner Gyanesh Kumar on 30 October and a rally at Delhi's Ramlila Maidan on 1 November.
+BJP state units have been told to hold "peaceful but firm" demonstrations on Monday. The row lands in a week already crowded with confrontation over the SIR: the INDIA bloc plans a "public impeachment" of Chief Election Commissioner Gyanesh Kumar on October 30 and a rally at Delhi's Ramlila Maidan on November 1.

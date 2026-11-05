@@ -10,13 +10,13 @@ standfirst: "Wheat's support price moves to ₹2,610, a rise of under 1%. Pulses
 published: 2026-10-11T09:00:00+05:30
 location: New Delhi
 keyPoints:
-  - "The Cabinet Committee on Economic Affairs approved **minimum support prices for six rabi crops** for the 2027–28 marketing season on 30 September 2026."
+  - "The Cabinet Committee on Economic Affairs approved **minimum support prices for six rabi crops** for the 2027–28 marketing season on September 30, 2026."
   - "Wheat **rises by ₹25 to ₹2,610 a quintal**, against a projected production cost of ₹1,264, a margin of 106%."
   - "**Safflower (+₹675)**, rapeseed-mustard (+₹413) and masoor (+₹390) get the largest increases in rupee terms."
   - "The government says the rise follows its 2018–19 Budget promise to set MSP **at least 1.5 times** the all-India weighted average cost of production."
 hero:
-  need: "Wheat field in Punjab or Madhya Pradesh at sowing, or Cabinet briefing by Ashwini Vaishnaw on 30 September 2026"
-  suggested_source: "PIB release PRID 2316956 and PIB photo gallery for the 30 Sep 2026 Cabinet briefing; credit PIB"
+  need: "Wheat field in Punjab or Madhya Pradesh at sowing, or Cabinet briefing by Ashwini Vaishnaw on September 30, 2026"
+  suggested_source: "PIB release PRID 2316956 and PIB photo gallery for the Sep 30, 2026 Cabinet briefing; credit PIB"
   alt: "A farmer in a wheat field"
   overlay:
     value: "Wheat MSP up ₹25 to ₹2,610 a quintal"
@@ -47,7 +47,7 @@ sources:
 verification:
   status: verified
   notes:
-    - "Fact-checked 11 Oct 2026 against PIB PRID 2316956: all MSPs, increases, costs, margins, the 1.5x quote, cost definition, procurement and MSP-paid figures and the CCEA chair confirmed. Outlook confirms ₹90,962 crore, ₹2,79,157 crore and that Ashwini Vaishnaw announced the decisions. DT Next confirms paddy at ₹2,441. Desk percentages recomputed and correct."
+    - "Fact-checked Oct 11, 2026, against PIB PRID 2316956: all MSPs, increases, costs, margins, the 1.5x quote, cost definition, procurement and MSP-paid figures and the CCEA chair confirmed. Outlook confirms ₹90,962 crore, ₹2,79,157 crore and that Ashwini Vaishnaw announced the decisions. DT Next confirms paddy at ₹2,441. Desk percentages recomputed and correct."
     - "Corrected: the facts box called safflower's ₹7,215 'the highest rabi rate'; masoor (₹7,390) is higher. Standfirst reworded so the diversification aim is attributed to the Centre rather than stated as the desk's reading."
     - "Outlook's estimate of a ₹90,962 crore financial implication is not in the PIB release; it is attributed to Outlook."
     - "The claim that this is the smallest wheat increase in 17 years (Superkalam digest) could not be checked against a primary source and has been left out."
@@ -55,7 +55,7 @@ verification:
     - "Who announced the decision: the research file says Ashwini Vaishnaw briefed; this was not re-checked, so the copy says only that the CCEA approved it."
 ---
 
-The Centre has raised the minimum support price (MSP) of wheat by ₹25 to ₹2,610 a quintal for the 2027–28 rabi marketing season. The Cabinet Committee on Economic Affairs, chaired by Prime Minister Narendra Modi, approved new MSPs for six rabi crops on 30 September 2026, according to the Press Information Bureau.
+The Centre has raised the minimum support price (MSP) of wheat by ₹25 to ₹2,610 a quintal for the 2027–28 rabi marketing season. The Cabinet Committee on Economic Affairs, chaired by Prime Minister Narendra Modi, approved new MSPs for six rabi crops on September 30, 2026, according to the Press Information Bureau.
 
 The wheat increase works out to just under 1% over last season's ₹2,585, by our calculation. Oilseeds and pulses got much larger rises.
 
@@ -64,7 +64,7 @@ The wheat increase works out to just under 1% over last season's ₹2,585, by ou
 Safflower got the biggest increase, ₹675 to ₹7,215 a quintal. Rapeseed and mustard rise by ₹413 to ₹6,613, and masoor (lentil) by ₹390 to ₹7,390. Barley goes up ₹136 to ₹2,286 and gram ₹83 to ₹5,958.
 
 ```chart
-{"type":"hbar","title":"Rabi MSP increase for 2027–28, by crop","subtitle":"Rise over 2026–27 (₹ per quintal)","unit":"₹","data":[{"label":"Safflower","value":675},{"label":"Rapeseed & mustard","value":413},{"label":"Masoor (lentil)","value":390},{"label":"Barley","value":136},{"label":"Gram","value":83},{"label":"Wheat","value":25,"highlight":true}],"source":"PIB, 30 Sep 2026"}
+{"type":"hbar","title":"Rabi MSP increase for 2027–28, by crop","subtitle":"Rise over 2026–27 (₹ per quintal)","unit":"₹","data":[{"label":"Safflower","value":675},{"label":"Rapeseed & mustard","value":413},{"label":"Masoor (lentil)","value":390},{"label":"Barley","value":136},{"label":"Gram","value":83},{"label":"Wheat","value":25,"highlight":true}],"source":"PIB, Sep 30, 2026"}
 ```
 
 In percentage terms, by our calculation, safflower rises about 10.3%, mustard 6.7%, barley 6.3%, masoor 5.6%, gram 1.4% and wheat 1.0%.
@@ -89,6 +89,6 @@ Those figures show how much of the rabi MSP system rests on wheat. Of the 3,921 
 
 ## What the cost adds up to
 
-Outlook India puts the estimated financial implication of the rabi MSPs at ₹90,962 crore; the PIB release does not give a figure. The MSP decision was one of three Cabinet approvals on 30 September that Outlook says total ₹2,79,157 crore, alongside a transmission and storage scheme and a Delhi traffic management system.
+Outlook India puts the estimated financial implication of the rabi MSPs at ₹90,962 crore; the PIB release does not give a figure. The MSP decision was one of three Cabinet approvals on September 30 that Outlook says total ₹2,79,157 crore, alongside a transmission and storage scheme and a Delhi traffic management system.
 
 The new rates apply to procurement in the 2027–28 rabi marketing season. The kharif MSPs for 2026–27, approved in May, set common paddy at ₹2,441 a quintal, according to a PTI report carried by DT Next.

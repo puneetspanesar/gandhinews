@@ -8,7 +8,7 @@ topics: [gst, economy]
 title: "GST at ₹2.31 lakh crore explained: why October jumped 22.9% and how much of it is imports"
 standfirst: "Gross GST collections for October rose at their fastest pace in months, with tax on imported goods up 42%. What the monthly number measures, why last year's weak October flatters the growth, and why a weaker rupee is part of the story."
 published: 2026-11-01T17:50:00+05:30
-shortAnswer: "October's gross GST of ₹2,31,290 crore, up 22.9% on a year ago, rests on three things. Domestic collections, up 15.8%, are being compared with October 2025, when growth was the weakest of that year because buyers had put off purchases until the GST rate cuts of 22 September 2025. Tax on imports, up 42.2% to ₹72,246 crore, has been running far ahead of domestic tax for months, helped by a weaker rupee and higher commodity prices that raise the rupee value of everything brought in. And refunds grew only 6.5%, so net revenue rose even faster, by 25.6%, to ₹2,03,356 crore."
+shortAnswer: "October's gross GST of ₹2,31,290 crore, up 22.9% on a year ago, rests on three things. Domestic collections, up 15.8%, are being compared with October 2025, when growth was the weakest of that year because buyers had put off purchases until the GST rate cuts of September 22, 2025. Tax on imports, up 42.2% to ₹72,246 crore, has been running far ahead of domestic tax for months, helped by a weaker rupee and higher commodity prices that raise the rupee value of everything brought in. And refunds grew only 6.5%, so net revenue rose even faster, by 25.6%, to ₹2,03,356 crore."
 hero:
   need: "Chennai Port, Tamil Nadu, one of the ports where import GST is collected"
   suggested_source: "Chennai Port containers"
@@ -48,24 +48,24 @@ sources:
 verification:
   status: approved
   notes:
-    - "All October 2026 figures (gross, domestic, imports, CGST/SGST/IGST split, refunds, net, net import and domestic growth, state figures, April to October totals) are taken from the desk's 1 November news story gst-collections-october-2026-2-31-lakh-crore-imports and its two sources (Business Today, Tribune/ANI). Neither page could be re-opened for this explainer (fetch permission not granted); figures are as checked by the news desk. Finance Ministry release not opened."
-    - "Year-ago base used in the 2026 data is ₹1,88,125 crore; the figure reported in November 2025 was about ₹1.96 lakh crore (Free Press Journal). The gap is probably the compensation cess, which ended on 1 February 2026, but no source says so; copy does not explain the gap and uses only the 2026 release's comparison."
-    - "October 2025 context (gross up 4.6%, weakest month of FY26, 20 of 36 states and UTs down, Maharashtra 3%, Haryana 0%, deferred purchases, only last eight days of September at new rates, Abhishek Jain of KPMG on deferred high-value purchases) from Business Standard, 4 November 2025."
+    - "All October 2026 figures (gross, domestic, imports, CGST/SGST/IGST split, refunds, net, net import and domestic growth, state figures, April to October totals) are taken from the desk's November 1 news story gst-collections-october-2026-2-31-lakh-crore-imports and its two sources (Business Today, Tribune/ANI). Neither page could be re-opened for this explainer (fetch permission not granted); figures are as checked by the news desk. Finance Ministry release not opened."
+    - "Year-ago base used in the 2026 data is ₹1,88,125 crore; the figure reported in November 2025 was about ₹1.96 lakh crore (Free Press Journal). The gap is probably the compensation cess, which ended on February 1, 2026, but no source says so; copy does not explain the gap and uses only the 2026 release's comparison."
+    - "October 2025 context (gross up 4.6%, weakest month of FY26, 20 of 36 states and UTs down, Maharashtra 3%, Haryana 0%, deferred purchases, only last eight days of September at new rates, Abhishek Jain of KPMG on deferred high-value purchases) from Business Standard, November 4, 2025."
     - "Rupee, commodity prices and import categories (electronics, machinery, gold, fertilisers) and the quote 'Rupee depreciation has increased the landed rupee value of dollar-denominated imports' are Manoj Mishra of Grant Thornton Bharat on the September 2026 data (DD India). Applied to October as context, not as his comment on October. Pratik Jain's point on September from the same report."
-    - "Diwali on 8 November 2026 is the desk calendar date; that peak festive buying in October shows mainly in November collections follows from the previous-month timing in Business Standard. Derived compare cells: October 2025 domestic GST (₹1,37,329 crore = ₹1,88,125 crore minus ₹50,796 crore) and refunds (about ₹26,200 crore = ₹1,88,125 crore minus ₹1,61,900 crore) are desk calculations consistent with the reported growth rates."
-    - "Brent above $113 a barrel is from the desk's 1 November LPG news story (Goodreturns)."
+    - "Diwali on November 8, 2026, is the desk calendar date; that peak festive buying in October shows mainly in November collections follows from the previous-month timing in Business Standard. Derived compare cells: October 2025 domestic GST (₹1,37,329 crore = ₹1,88,125 crore minus ₹50,796 crore) and refunds (about ₹26,200 crore = ₹1,88,125 crore minus ₹1,61,900 crore) are desk calculations consistent with the reported growth rates."
+    - "Brent above $113 a barrel is from the desk's November 1 LPG news story (Goodreturns)."
     - "General GST mechanics (IGST levied at the border on imports, input tax credit for registered importers, refunds mainly to exporters and to businesses with inverted duty structures, domestic payments in a month largely reflecting the previous month's sales) are standard descriptions; the timing point is stated in Business Standard's 2025 report."
 ---
 
 ## What does the monthly GST number measure?
 
-**The tax businesses paid to the government in that month, mostly on sales made the month before.** A trader who sells goods in September files a return and pays the tax in October, so the October collection is largely a picture of September's business. That matters this year. With Diwali on 8 November, most of the festive shopping happened in October, and it will show up mainly in the November figures, not these.
+**The tax businesses paid to the government in that month, mostly on sales made the month before.** A trader who sells goods in September files a return and pays the tax in October, so the October collection is largely a picture of September's business. That matters this year. With Diwali on November 8, most of the festive shopping happened in October, and it will show up mainly in the November figures, not these.
 
 The headline number, gross GST, adds up three parts: central GST and state GST on sales within a state, and integrated GST (IGST) on sales between states and on imports. In October central GST brought in ₹42,935 crore, state GST ₹51,340 crore and IGST ₹1,37,015 crore. Of that IGST, ₹72,246 crore was paid on goods arriving from abroad.
 
 ## Why did October grow so fast?
 
-**Partly because October 2025 was unusually weak.** The GST rate cuts known as GST 2.0 took effect on 22 September 2025. Many buyers and businesses held back purchases in early September last year to get the lower rates, especially on cars and other costly goods, so only the last eight days of that month were billed at the new rates.
+**Partly because October 2025 was unusually weak.** The GST rate cuts known as GST 2.0 took effect on September 22, 2025. Many buyers and businesses held back purchases in early September last year to get the lower rates, especially on cars and other costly goods, so only the last eight days of that month were billed at the new rates.
 
 The result was that gross GST in October 2025 grew just 4.6%, the slowest of that financial year, and collections fell in 20 of 36 states and Union Territories. Abhishek Jain, a partner at KPMG, said at the time that deferred purchases in high-value sectors made the month look softer than it really was.
 
@@ -101,4 +101,4 @@ GST on imports is charged as a percentage of the value of the goods. When the ru
 
 **The Centre and the states are ahead of last year.** Gross collections from April to October reached ₹14,77,569 crore, up 13.2%, and net revenue ₹12,69,486 crore, up 12.6%. The October jump will help both sides plan spending for the rest of the year.
 
-The harder question is how much of it will last. The low base from last October will not repeat in November, and the import boost depends, as Mishra put it, on commodity prices, the rupee and import volumes. November's figures, due on 1 December, will be the first test of how much of October's growth came from real demand.
+The harder question is how much of it will last. The low base from last October will not repeat in November, and the import boost depends, as Mishra put it, on commodity prices, the rupee and import volumes. November's figures, due on December 1, will be the first test of how much of October's growth came from real demand.

@@ -6,13 +6,13 @@ section: policy
 format_label: "Policy / Ladakh"
 topics: []
 title: "Ladakh chief secretary calls rejection of Centre's Article 371-K draft 'very unfortunate'"
-standfirst: "Ashish Kundra said Leh and Kargil leaders threw out a 32-page Home Ministry framework within two hours. The two sides meet again in New Delhi on 22 October."
+standfirst: "Ashish Kundra said Leh and Kargil leaders threw out a 32-page Home Ministry framework within two hours. The two sides meet again in New Delhi on October 22."
 published: 2026-10-17T20:30:00+05:30
 location: Leh
 keyPoints:
   - "The Home Ministry's draft proposes a **new Article 371-K and a regulation under Article 240** for Ladakh."
   - "The Leh Apex Body and Kargil Democratic Alliance **rejected it on Friday**, saying it falls short of a legislature with real powers."
-  - "Talks resume in New Delhi on **22 October**."
+  - "Talks resume in New Delhi on **October 22**."
 hero:
   need: "Leh town and Leh Palace, the seat of the Leh Apex Body's campaign"
   suggested_source: "Leh Palace"
@@ -22,7 +22,7 @@ hero:
     value: "Rejected within two hours"
 related: [ladakh-hill-council-regulation-amended-7-24-seats, modi-ladakh-3350-crore-projects, china-rejects-india-ladakh-28-place-names-mea-responds]
 seo:
-  description: "Ladakh Chief Secretary Ashish Kundra said the rejection of the Home Ministry's Article 371-K draft by LAB and KDA was very unfortunate; talks resume on 22 October."
+  description: "Ladakh Chief Secretary Ashish Kundra said the rejection of the Home Ministry's Article 371-K draft by LAB and KDA was very unfortunate; talks resume on October 22."
 sources:
   - title: "Ladakh deadlock: Centre says committed to political solution, urges leaders to keep talks alive (PTI)"
     publisher: "Greater Kashmir"
@@ -59,7 +59,7 @@ verification:
   notes:
     - "Kundra quotes: 'committed', 'surprising... two hours', 'Not every detail', 'Negotiations require', 'no reason for anyone to lose hope' verbatim from PTI via Greater Kashmir. 'could not be settled unilaterally' and 'in the coming weeks and months' from The Statesman. 'very unfortunate' from UNI (paywalled after first paragraph)."
     - "Article 371-K named in PTI (Greater Kashmir) only; Statesman says constitutional amendment plus Article 240 regulation without the article number."
-    - "Rejection on Friday 16 Oct and Lakruk/Karbalai remarks from The Tribune (16 Oct). Karbalai's 'backtracked' and 'not a good signal' as quoted by Tribune; Lakruk paraphrased."
+    - "Rejection on Friday, Oct 16 and Lakruk/Karbalai remarks from The Tribune (Oct 16). Karbalai's 'backtracked' and 'not a good signal' as quoted by Tribune; Lakruk paraphrased."
     - "Kundra's mention of ST reservation (PTI wording '10% in 2019 to 84% for local people' unclear) written only as 'higher reservation for local residents'."
     - "Press conference time not reported; UNI item 12:41 pm, so it was before midday. No LAB/KDA response to Kundra's remarks found by publication."
 ---
@@ -68,11 +68,11 @@ Ladakh's Chief Secretary Ashish Kundra on Saturday called the rejection of the C
 
 "It was surprising to see that the document was dismissed outright within just two hours of being received," Kundra told a press conference in Leh. "The government of India is fully committed to finding a political solution at the earliest."
 
-The Leh Apex Body (LAB) and the Kargil Democratic Alliance (KDA) turned the draft down on Friday. The two sides are due to meet again in New Delhi on 22 October.
+The Leh Apex Body (LAB) and the Kargil Democratic Alliance (KDA) turned the draft down on Friday. The two sides are due to meet again in New Delhi on October 22.
 
 ## What the Centre offered
 
-The Home Ministry handed over the framework on 16 October, a day after its officials held talks with Ladakh's representatives in Leh. It sets out two stages: a constitutional amendment inserting a new Article 371-K for Ladakh, followed by a regulation under Article 240 of the Constitution. It proposes a directly elected body for the whole Union Territory, with safeguards on land, natural resources and culture.
+The Home Ministry handed over the framework on October 16, a day after its officials held talks with Ladakh's representatives in Leh. It sets out two stages: a constitutional amendment inserting a new Article 371-K for Ladakh, followed by a regulation under Article 240 of the Constitution. It proposes a directly elected body for the whole Union Territory, with safeguards on land, natural resources and culture.
 
 Kundra said the paper was a basis for discussion, not a finished law. Much was left open: what the body would be called and who would sit on it, how members would be elected and by which authority, seats for women and under-represented communities, nominated and ex officio members, delimitation, electoral rolls and tenure, and how the new body would work alongside the hill councils, panchayats and municipalities.
 
@@ -86,10 +86,10 @@ The two groups say the draft does not meet their demand for constitutional safeg
 
 LAB chairman Chering Dorjay Lakruk confirmed that both bodies had rejected the offer. KDA co-chairman Asgar Ali Karbalai said the Home Ministry had "backtracked" from the understanding reached in May, when the two sides agreed in principle to extend safeguards to Ladakh along the lines of Articles 371A, 371F and 371G, which cover Nagaland, Sikkim and Mizoram. He said the proposed body would sit below the existing council and called the change "not a good signal".
 
-Karbalai also accused the Lieutenant Governor and the Chief Secretary of hyping development projects and presenting them to the Prime Minister. The groups had called the previous round of talks, held in New Delhi on 9 September, a "non-starter".
+Karbalai also accused the Lieutenant Governor and the Chief Secretary of hyping development projects and presenting them to the Prime Minister. The groups had called the previous round of talks, held in New Delhi on September 9, a "non-starter".
 
 ## New rules for the hill councils
 
 Separately, the Centre has amended the regulation governing Ladakh's two autonomous hill development councils. The administration can now set the number of elected seats in each council between 7 and 24, nominate up to four members from women and unrepresented communities, and extend a council's five-year term if holding elections is considered impracticable.
 
-The 22 October meeting in Delhi will show whether the draft can be reworked or whether the talks stall again.
+The October 22 meeting in Delhi will show whether the draft can be reworked or whether the talks stall again.

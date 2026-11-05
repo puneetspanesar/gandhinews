@@ -8,7 +8,7 @@ topics: [rupee-forex, economy]
 title: "Forex reserves explained: how the RBI is spending dollars to hold up the rupee"
 standfirst: "India's reserves have fallen for six weeks in a row, to $721 billion, about $65 billion below their September record. What the reserves are, why they are shrinking, and how long the Reserve Bank can keep defending the currency."
 published: 2026-10-24T12:40:00+05:30
-shortAnswer: "Foreign exchange reserves are the foreign currencies, gold and IMF claims the Reserve Bank of India holds to pay for imports and steady the rupee. They have fallen every week since a record $785.7 billion on 4 September, to $721 billion on 16 October, largely because the RBI has been selling dollars to stop the rupee falling further as oil stays above $110 a barrel. Reserves remain higher than a year ago, but the defence has a cost, and its success depends on oil, foreign investors and US interest rates."
+shortAnswer: "Foreign exchange reserves are the foreign currencies, gold and IMF claims the Reserve Bank of India holds to pay for imports and steady the rupee. They have fallen every week since a record $785.7 billion on September 4, to $721 billion on October 16, largely because the RBI has been selling dollars to stop the rupee falling further as oil stays above $110 a barrel. Reserves remain higher than a year ago, but the defence has a cost, and its success depends on oil, foreign investors and US interest rates."
 hero:
   need: "RBI Governor Sanjay Malhotra"
   suggested_source: "Sanjay Malhotra"
@@ -53,12 +53,12 @@ sources:
 verification:
   status: approved
   notes:
-    - "All reserve figures (weeks to 9 and 16 October, record $785.706 billion on 4 September, components, year-on-year and end-March comparisons) from the desk's 16 and 23 October news stories and their PTI/ANI/Xinhua sources, which cite the RBI weekly statistical supplement. RBI release not read directly."
+    - "All reserve figures (weeks to October 9 and 16, record $785.706 billion on September 4, components, year-on-year and end-March comparisons) from the desk's October 16 and 23 news stories and their PTI/ANI/Xinhua sources, which cite the RBI weekly statistical supplement. RBI release not read directly."
     - "'$65 billion' is the fall from the record (785.706 - 721.016 = 64.69), not a measure of dollars sold; the copy says part of it is valuation and swap-related."
     - "Swap window for diaspora (FCNR(B)) deposits bringing banks nearly $133 billion and experts linking the fall to use of those resources and RBI dollar sales: Daily Excelsior (PTI), attributed to experts."
-    - "$75-80 billion deployment since 8 June is Kaveri More's figure, given as 'reportedly' in her remarks; attributed to her."
-    - "10 October measures (offshore NDF access restricted to hedging, 20% reserve on banks' own hedges, dollar window for oil companies) from FXStreet and PTI, via the 16 October story."
-    - "Rupee record closing low 96.88 on 8 October and Friday's 94.93 provisional close from the desk's stories."
+    - "$75-80 billion deployment since June 8 is Kaveri More's figure, given as 'reportedly' in her remarks; attributed to her."
+    - "October 10 measures (offshore NDF access restricted to hedging, 20% reserve on banks' own hedges, dollar window for oil companies) from FXStreet and PTI, via the October 16 story."
+    - "Rupee record closing low 96.88 on October 8 and Friday's 94.93 provisional close from the desk's stories."
     - "No import-cover figure used; none found in sources read this run."
     - "Hero: Governor Sanjay Malhotra, to avoid reusing RBI building photos already on the site."
 ---
@@ -73,10 +73,10 @@ The reserves exist for two jobs. They are a cushion that lets the country pay fo
 
 ## How far have they fallen?
 
-**By about $65 billion in six weeks.** Reserves reached a record $785.706 billion in the week ended 4 September. They have fallen every week since, to $721.016 billion in the week ended 16 October, the latest figure, released on Friday 23 October. That last week alone took $5.011 billion off the total, after a fall of $8.578 billion the week before.
+**By about $65 billion in six weeks.** Reserves reached a record $785.706 billion in the week ended September 4. They have fallen every week since, to $721.016 billion in the week ended October 16, the latest figure, released on Friday, October 23. That last week alone took $5.011 billion off the total, after a fall of $8.578 billion the week before.
 
 ```compare
-{"title":"What India's reserves are made of","columns":["Week to 9 October","Week to 16 October"],"rows":[{"icon":"wallet","label":"Foreign currency assets","cells":["$597.6 billion","$591.8 billion"]},{"icon":"medal","label":"Gold","cells":["$105.1 billion","$105.8 billion"]},{"icon":"globe-hemisphere-east","label":"Special drawing rights","cells":["$18.55 billion","$18.58 billion"]},{"icon":"bank","label":"Reserve position with the IMF","cells":["$4.78 billion","$4.79 billion"]},{"icon":"trend-down","label":"Total","cells":["$726.0 billion","$721.0 billion"]}]}
+{"title":"What India's reserves are made of","columns":["Week to October 9","Week to October 16"],"rows":[{"icon":"wallet","label":"Foreign currency assets","cells":["$597.6 billion","$591.8 billion"]},{"icon":"medal","label":"Gold","cells":["$105.1 billion","$105.8 billion"]},{"icon":"globe-hemisphere-east","label":"Special drawing rights","cells":["$18.55 billion","$18.58 billion"]},{"icon":"bank","label":"Reserve position with the IMF","cells":["$4.78 billion","$4.79 billion"]},{"icon":"trend-down","label":"Total","cells":["$726.0 billion","$721.0 billion"]}]}
 ```
 
 ## Why did they hit a record in September?
@@ -89,17 +89,17 @@ The reserves exist for two jobs. They are a cushion that lets the country pay fo
 
 The rupee's price is set in the market by how many people want to buy and sell dollars. When oil importers, foreign investors leaving Indian shares and others all want dollars at once, the rupee weakens. The RBI can step in and sell dollars from its reserves, adding supply and slowing the fall. It also uses swaps, in which it sells dollars now and agrees to buy them back later, which spreads the pressure over time.
 
-That defence has been heavy this year. Kaveri More of Choice Broking said this month that the RBI had reportedly deployed about $75 to 80 billion through spot dollar sales and swaps since its special measures took effect on 8 June.
+That defence has been heavy this year. Kaveri More of Choice Broking said this month that the RBI had reportedly deployed about $75 to 80 billion through spot dollar sales and swaps since its special measures took effect on June 8.
 
 ## What else has the RBI done?
 
 **It has tried to cut demand for dollars in the first place.**
 
-On 10 October it announced steps aimed at speculative bets against the rupee. It restricted access to certain rupee contracts traded offshore to genuine hedging, extended a 20% reserve requirement to banks' own currency hedges, and opened a special dollar window for oil companies, among the biggest buyers of dollars. The rupee, which had hit a record closing low of 96.88 to the dollar on 8 October, rose for six straight sessions after that. It closed at 94.93 on Friday 23 October as Brent crude climbed past $114.
+On October 10 it announced steps aimed at speculative bets against the rupee. It restricted access to certain rupee contracts traded offshore to genuine hedging, extended a 20% reserve requirement to banks' own currency hedges, and opened a special dollar window for oil companies, among the biggest buyers of dollars. The rupee, which had hit a record closing low of 96.88 to the dollar on October 8, rose for six straight sessions after that. It closed at 94.93 on Friday, October 23 as Brent crude climbed past $114.
 
 ## Is $721 billion still enough?
 
-**It is still a large cushion, though shrinking.** Even after the recent fall, reserves in the week to 9 October were about $35 billion higher than at the end of March and $28 billion higher than a year earlier. Not every dollar of the decline is spending, either: foreign currency assets are held in several currencies, so their value in dollars moves with exchange rates.
+**It is still a large cushion, though shrinking.** Even after the recent fall, reserves in the week to October 9 were about $35 billion higher than at the end of March and $28 billion higher than a year earlier. Not every dollar of the decline is spending, either: foreign currency assets are held in several currencies, so their value in dollars moves with exchange rates.
 
 The risk is in the direction of travel. Each week of selling leaves less in reserve for a bigger shock, and markets watch the weekly number closely as a sign of how hard the RBI is fighting.
 
@@ -107,4 +107,4 @@ The risk is in the direction of travel. Each week of selling leaves less in rese
 
 **Mostly things outside India's control.** Analysts at the Singapore bank OCBC said the RBI's October steps "may help establish a firmer near-term footing for INR, rather than mark a decisive reversal", because they move dollar demand out of the spot market without reducing the country's underlying need for dollars.
 
-That need depends above all on the price of oil, which India mostly imports, and on whether foreign investors keep pulling money out of Indian shares. US interest rates matter too, since higher returns in America draw money away from markets like India. The next reserves figure, for the week ended 23 October, is due on 30 October.
+That need depends above all on the price of oil, which India mostly imports, and on whether foreign investors keep pulling money out of Indian shares. US interest rates matter too, since higher returns in America draw money away from markets like India. The next reserves figure, for the week ended October 23, is due on October 30.

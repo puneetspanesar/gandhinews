@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (IANS, 13:45 UTC / 7:15 pm IST, 20 Oct). Hospital name, poll date and rival candidates not reported; full IANS story on hospitalisation could not be fetched (permission not granted). No direct quote from the CM."
+    - "Single source (IANS, 13:45 UTC / 7:15 pm IST, Oct 20). Hospital name, poll date and rival candidates not reported; full IANS story on hospitalisation could not be fetched (permission not granted). No direct quote from the CM."
     - "Hero: Wikipedia title for Neeraj Kumar uncertain; second subject Samrat Choudhary as fallback."
 ---
 

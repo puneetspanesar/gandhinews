@@ -22,7 +22,7 @@ hero:
     value: "A new defence chief, eight months in"
 related: [irgc-supertanker-mine-fire-hormuz-closed, us-iran-rival-claims-hormuz-control-shipping, two-ships-sink-near-hormuz-pezeshkian-surrender, iran-rejects-saudi-houthi-claims-offers-mediation]
 seo:
-  description: "Iran's parliament approved Mehrdad Akhlaghi as defence minister on 18 October, as the IRGC said two tankers hit mines in the Strait of Hormuz."
+  description: "Iran's parliament approved Mehrdad Akhlaghi as defence minister on October 18, as the IRGC said two tankers hit mines in the Strait of Hormuz."
 sources:
   - title: "Liveblog, October 18, 2026: Iran parliament approves new defense minister"
     publisher: "The Times of Israel (AFP)"
@@ -73,8 +73,8 @@ The trouble was not confined to Hormuz. The UK Maritime Trade Operations agency 
 
 Iran took control of the strait after the war began and now demands that ships seek its permission before passing. Washington has answered with a naval blockade of Iranian oil exports. Attacks on shipping have surged over the past fortnight: last Sunday six vessels were attacked in or near the strait, the most in a single day since the war started.
 
-The effect on oil flows has been stark. About 20.8 million barrels passed through the strait on 8 October, according to the analytics firm Kpler. By 11 October the figure had fallen to 2.9 million. Before the war, roughly a fifth of the world's oil consumption moved through the waterway.
+The effect on oil flows has been stark. About 20.8 million barrels passed through the strait on October 8, according to the analytics firm Kpler. By October 11 the figure had fallen to 2.9 million. Before the war, roughly a fifth of the world's oil consumption moved through the waterway.
 
 For India, which buys most of its crude from abroad and has seafarers on many of the ships that use the route, every new attack raises freight costs and risks for crews.
 
-US President Donald Trump has said he expects a deal to end the war after the US midterm elections on 3 November. Asked this week about ground troops, he said: "No, I don't see that, I don't see it."
+US President Donald Trump has said he expects a deal to end the war after the US midterm elections on November 3. Asked this week about ground troops, he said: "No, I don't see that, I don't see it."

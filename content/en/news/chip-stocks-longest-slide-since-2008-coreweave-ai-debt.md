@@ -22,7 +22,7 @@ hero:
     value: "Eight days down for chipmakers"
 related: [oil-110-nasdaq-slide-cautious-start-indian-markets-monday, netflix-tesla-meta-results-week-after-nasdaq-worst-week, tsmc-q3-profit-jumps-69-per-cent-2nm-ramp, oil-jumps-after-saudi-airport-attacks-wall-street-mixed]
 seo:
-  description: "The Philadelphia Semiconductor Index fell 3.83% on 16 October 2026, its eighth straight loss, as AI debt worries hit CoreWeave, Micron, SK Hynix and Samsung."
+  description: "The Philadelphia Semiconductor Index fell 3.83% on October 16, 2026, its eighth straight loss, as AI debt worries hit CoreWeave, Micron, SK Hynix and Samsung."
 sources:
   - title: "The Nasdaq Index Just Had Its Worst Week Since June - and Netflix, Tesla and Meta Report Next"
     publisher: "FinanceFeeds"
@@ -50,7 +50,7 @@ verification:
     - "SOX -3.83% and eight sessions: FinanceFeeds and Alain Guillot agree. 'Longest since October 2008' is FinanceFeeds citing Reuters. Weekly -11.4%, worst since early April 2025: Investing.com."
     - "Weekly falls Micron -14.6%, Samsung -17.8%, SK Hynix -24.3%: Investing.com only. CoreWeave -11.91% to $61.39, 2032 note near 14%, CDS about 1,117 bp: FinanceFeeds; -11.91% also in Substack headline (not opened)."
     - "CoreWeave/Nebius combined weekly figure ambiguous in source; left out."
-    - "Chinese memory competition: Investing.com; ChangXin progress from site's 13 Oct story."
+    - "Chinese memory competition: Investing.com; ChangXin progress from site's Oct 13 story."
 ---
 
 Shares of chipmakers fell for an eighth straight session on Friday, their longest losing streak since October 2008, as investors grew more anxious about the debt being raised to pay for artificial intelligence.

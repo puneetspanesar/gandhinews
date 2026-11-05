@@ -22,7 +22,7 @@ hero:
     value: "Face-offs in Arunachal, says ITBP"
 related: [jaishankar-no-agreed-border-china-stable-boundary, china-rejects-india-ladakh-28-place-names-mea-responds]
 seo:
-  description: "MEA spokesperson Randhir Jaiswal said on 23 October that Chinese patrol deviations disturb the LAC, after the ITBP chief spoke of continuing face-offs in Arunachal."
+  description: "MEA spokesperson Randhir Jaiswal said on October 23 that Chinese patrol deviations disturb the LAC, after the ITBP chief spoke of continuing face-offs in Arunachal."
 sources:
   - title: "LAC situation disturbed by Chinese Army: Ministry of External Affairs"
     publisher: "Business Standard"
@@ -43,8 +43,8 @@ verification:
   status: approved
   notes:
     - "Jaiswal quotes verbatim from ETV Bharat (7:19 pm IST); Business Standard (9:16 pm) and Tribune (1:29 am) agree on substance. MEA transcript on mea.gov.in could not be fetched (permission prompt timed out)."
-    - "Kapur's name: ETV Bharat 'Shatrujeet Singh Kapur', Business Standard 'Shatrujeet Kapur', Tribune 'Shatrujeet Kapoor'. Used Kapur. Retirement on 31 October from Tribune only."
-    - "Kapur venue: Business Standard says an ITBP base in Alwar on 22 Oct; ETV Bharat calls it an annual felicitation ceremony on Thursday. Both consistent with 22 Oct."
+    - "Kapur's name: ETV Bharat 'Shatrujeet Singh Kapur', Business Standard 'Shatrujeet Kapur', Tribune 'Shatrujeet Kapoor'. Used Kapur. Retirement on October 31 from Tribune only."
+    - "Kapur venue: Business Standard says an ITBP base in Alwar on Oct 22; ETV Bharat calls it an annual felicitation ceremony on Thursday. Both consistent with Oct 22."
     - "Kharge quotes verbatim from his X post as carried by ETV Bharat. Jairam Ramesh 'deafening silence' phrase in both BS and Tribune."
     - "ETV Bharat says confrontations have run since July over Taksing access; Kharge's post says Taksing incursion reports emerged in August. Copy avoids giving a start date."
     - "No BJP or government response to Congress found."
@@ -60,7 +60,7 @@ He said both sides "continue to use existing diplomatic and military mechanisms 
 
 ITBP Director General Shatrujeet Singh Kapur spoke to personnel at the force's base in Alwar, Rajasthan, on Thursday, ahead of its 65th Raising Day on Saturday. "In the past few days, a situation arose where a face-off happened at several locations in Arunachal, and it continues," he said.
 
-Kapur, who retires on 31 October, said conventional warfare alone was no longer enough to counter China, and that drones could act as an equaliser against the People's Liberation Army's heavy investment. He said drone platoons had been raised in all border units.
+Kapur, who retires on October 31, said conventional warfare alone was no longer enough to counter China, and that drones could act as an equaliser against the People's Liberation Army's heavy investment. He said drone platoons had been raised in all border units.
 
 He also spoke of plans for a full battalion of "Shaurya" commandos and a specialised high-altitude mountain fighting force. India and China were locked in a military standoff from May 2020 until October 2024.
 

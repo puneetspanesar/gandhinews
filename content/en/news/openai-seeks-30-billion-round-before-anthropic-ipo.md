@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single wire report (Reuters, carried by Business Standard at 11:04 am IST on 20 October), based on two people familiar with the matter; valuation and round size hedged in copy accordingly. Read via a summary of the page, not full text."
+    - "Single wire report (Reuters, carried by Business Standard at 11:04 am IST on October 20), based on two people familiar with the matter; valuation and round size hedged in copy accordingly. Read via a summary of the page, not full text."
     - "Revenue figures for both companies are as given in that report (OpenAI's own figures for OpenAI). An unnamed capital markets lawyer's quote was left out under the named-quotes rule."
 ---
 

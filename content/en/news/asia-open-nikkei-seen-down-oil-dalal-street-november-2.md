@@ -22,7 +22,7 @@ hero:
     value: "Nikkei seen 1.5% lower, Brent above $113"
 related: [markets-week-ahead-us-midterms-itc-sbi-results-november-2, sensex-nifty-week-october-30-pharma-fii-return, fed-holds-rates-3-75-4-two-dissent-hike, iran-araghchi-two-day-hormuz-plan-rezaei-vance-letter]
 seo:
-  description: "Global cues for Indian markets on 2 November 2026: Nikkei projected 1.5% lower at 62,330, Hang Seng flat, Nasdaq fell 2.9% on Friday, Brent above $113, Nifty support and resistance levels."
+  description: "Global cues for Indian markets on November 2, 2026: Nikkei projected 1.5% lower at 62,330, Hang Seng flat, Nasdaq fell 2.9% on Friday, Brent above $113, Nifty support and resistance levels."
 cover:
   template: business
   label: "Global cues"
@@ -61,10 +61,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov 03:30 IST (06:00 Hong Kong time), Monday opening call published in Peter Lewis's Asian briefing: Nikkei projected 62,330 (-960, -1.5%), Hang Seng 23,257 (-37, -0.2%). Basis of projection not stated; copy says 'early calls'. Actual Tokyo open (05:30 IST) not confirmed: investing.com and Trading Economics had no 2 Nov data at fetch time."
+    - "event: Nov 2 03:30 IST (06:00 Hong Kong time), Monday opening call published in Peter Lewis's Asian briefing: Nikkei projected 62,330 (-960, -1.5%), Hang Seng 23,257 (-37, -0.2%). Basis of projection not stated; copy says 'early calls'. Actual Tokyo open (05:30 IST) not confirmed: investing.com and Trading Economics had no Nov 2 data at fetch time."
     - "Single source for the opening call, Friday Asian closes, Wall Street closes, BoJ, China PMI, Taiwan outflow and the Kissler, Tigay and Ueda quotes (Peter Lewis briefing)."
-    - "Brent: briefing says settled $117.64, up 2.4%. Trading Economics page showed 111.81, down 1.43%, with internally inconsistent figures, but its own 30 Oct note says Brent 'rose above $113'. Earlier week-ahead story also says above $117. Editor: sources disagree on the exact settle (113 to 117.64), so the story says only 'above $113'."
-    - "Nifty/Sensex closes and support/resistance: 5paisa (30 Oct, 5:14 pm). FII/DII Thursday provisional figures: Univest only; Friday FII data not found, so not used."
+    - "Brent: briefing says settled $117.64, up 2.4%. Trading Economics page showed 111.81, down 1.43%, with internally inconsistent figures, but its own Oct 30 note says Brent 'rose above $113'. Earlier week-ahead story also says above $117. Editor: sources disagree on the exact settle (113 to 117.64), so the story says only 'above $113'."
+    - "Nifty/Sensex closes and support/resistance: 5paisa (Oct 30, 5:14 pm). FII/DII Thursday provisional figures: Univest only; Friday FII data not found, so not used."
     - "Iran: report that the US warned allies to prepare for further military action after the midterms is undated and unattributed in the briefing; written as 'warned' with the Qatari talks in Tehran over the weekend. Kept brief."
     - "Search budget exhausted and several index pages (aljazeera economy, tribuneindia business) blocked by permission; no live Monday Asian or GIFT Nifty quote available."
 ---

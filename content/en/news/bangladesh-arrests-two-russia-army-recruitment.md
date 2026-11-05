@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (Al Jazeera, 14 Oct). Where the arrests were made not specified; dateline Dhaka used as the battalion is Dhaka-based police unit, kept generic in copy."
+    - "Single source (Al Jazeera, Oct 14). Where the arrests were made not specified; dateline Dhaka used as the battalion is Dhaka-based police unit, kept generic in copy."
     - "$8,000 fee and battlefield/hospital numbers come via a returned survivor, as reported."
 ---
 

@@ -12,7 +12,7 @@ location: New Delhi
 keyPoints:
   - "Iran's Supreme National Security Council secretary **Mohsen Rezaei spoke to NSA Ajit Doval** on Monday."
   - "The two **exchanged views on regional developments** and India-Iran ties, the Iranian Embassy said."
-  - "Two Indian seafarers are **still missing** after a drone hit a tanker off Oman on 11 October."
+  - "Two Indian seafarers are **still missing** after a drone hit a tanker off Oman on October 11."
 hero:
   need: "Ajit Doval, India's National Security Adviser, portrait"
   suggested_source: "Ajit Doval National Security Adviser"
@@ -21,7 +21,7 @@ hero:
     value: "Tehran calls Delhi as Gulf tensions rise"
 related: [iran-calls-us-hormuz-response-insufficient, two-indian-seafarers-missing-after-tanker-attacks-off-oman, why-riyadh-airport-is-shut-houthi-saudi-strikes-explained]
 seo:
-  description: "Iran's security chief Mohsen Rezaei spoke to NSA Ajit Doval on 12 October about the region and bilateral ties, as attacks on Gulf shipping put Indian crews at risk."
+  description: "Iran's security chief Mohsen Rezaei spoke to NSA Ajit Doval on October 12 about the region and bilateral ties, as attacks on Gulf shipping put Indian crews at risk."
 sources:
   - title: "Iran's National Security Council chief Mohsen Rezaei dials NSA Ajit Doval, discuss regional tensions, bilateral ties"
     publisher: "ANI"
@@ -47,9 +47,9 @@ Rezaei, Secretary of Iran's Supreme National Security Council, and Doval "exchan
 
 ## Indian crews in the line of fire
 
-The call came as attacks on shipping in and around the Strait of Hormuz put Indian sailors at risk. On 11 October, a drone struck the Nicaragua-flagged tanker MT Petro Dolphin at Sohar Anchorage off Oman. Nine of its 11 Indian crew were rescued and two are still missing.
+The call came as attacks on shipping in and around the Strait of Hormuz put Indian sailors at risk. On October 11, a drone struck the Nicaragua-flagged tanker MT Petro Dolphin at Sohar Anchorage off Oman. Nine of its 11 Indian crew were rescued and two are still missing.
 
-The same day the Marshall Islands-flagged tanker M/T Valthera caught fire after being hit by a projectile in the strait; all 11 Indians on board are safe. On 9 October a drone hit MT Gem No. 2 at Sharjah Anchorage, with 22 Indians on board, all of whom are safe.
+The same day the Marshall Islands-flagged tanker M/T Valthera caught fire after being hit by a projectile in the strait; all 11 Indians on board are safe. On October 9 a drone hit MT Gem No. 2 at Sharjah Anchorage, with 22 Indians on board, all of whom are safe.
 
 ## Tehran's line on Hormuz
 

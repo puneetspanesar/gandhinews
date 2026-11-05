@@ -37,10 +37,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "Results figures from TechCrunch (20 Oct, 1:40 pm PDT = 2:10 am IST 21 Oct), a developing story; no SpaceX filing or release read directly. TechCrunch lead says 'second quarter' but body says third quarter; copy follows the body."
+    - "Results figures from TechCrunch (Oct 20, 1:40 pm PDT = 2:10 am IST Oct 21), a developing story; no SpaceX filing or release read directly. TechCrunch lead says 'second quarter' but body says third quarter; copy follows the body."
     - "Net profit figure not given in the source; copy says only that the AI business beat investor expectations."
-    - "Hardware security layer: first reported by Economic Times citing people familiar, relayed by Inc42 (12:22 pm IST, 20 Oct); hedged as 'reported to be considering'. Single original source."
-    - "SpaceX listing on Nasdaq on 12 June 2026 is from the TechCrunch image caption."
+    - "Hardware security layer: first reported by Economic Times citing people familiar, relayed by Inc42 (12:22 pm IST, Oct 20); hedged as 'reported to be considering'. Single original source."
+    - "SpaceX listing on Nasdaq on June 12, 2026, is from the TechCrunch image caption."
 ---
 
 SpaceX is now, by income, more an artificial intelligence company than a rocket company. The firm reported third-quarter revenue of $14.6 billion on Tuesday, and its AI operations made up 52% of its income, ahead of what investors had expected.

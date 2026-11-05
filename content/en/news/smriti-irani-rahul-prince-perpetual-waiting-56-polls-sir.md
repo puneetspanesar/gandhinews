@@ -32,7 +32,7 @@ infographic:
   source: "Smriti Irani, press conference in Kolkata, November 3, 2026"
 related: [smriti-irani-khera-rss-women-row-rahul, rahul-parrot-gyanesh-kumar-kharge-chori-ki-sarkar-ramlila, sambit-patra-illegal-lop-rahul-gandhi-ramlila-rally-flop, bjp-gaurav-bhatia-opposition-anarchic-model-sting-rahul]
 seo:
-  description: "BJP general secretary Smriti Irani called Rahul Gandhi a 'prince in perpetual waiting' in Kolkata on 3 November and said the Congress lost 56 polls before the SIR."
+  description: "BJP general secretary Smriti Irani called Rahul Gandhi a 'prince in perpetual waiting' in Kolkata on November 3 and said the Congress lost 56 polls before the SIR."
 sources:
   - title: "Smriti Irani calls Rahul 'prince in perpetual waiting', claims Congress lost 56 polls before SIR (PTI)"
     publisher: "ThePrint"
@@ -47,7 +47,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 3 Nov, press conference in Kolkata, evening; PTI copy on ThePrint timestamped 8:45 pm IST. Exact start time of the presser not given."
+    - "event: Nov 3, press conference in Kolkata, evening; PTI copy on ThePrint timestamped 8:45 pm IST. Exact start time of the presser not given."
     - "Figures (13 crore, 3+1+3+6 crore split, 90 crore voters, 90% verified, 118 police injured, 20 lakh BLAs) are Irani's own and attributed to her. Statesman headline says 57 polls; PTI says 56; copy uses PTI's 56. Statesman page could not be fetched."
 ---
 

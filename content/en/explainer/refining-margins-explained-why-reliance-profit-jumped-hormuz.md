@@ -43,10 +43,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "All Q2 FY27 figures (O2C revenue ₹2,31,601 cr +44.2%, EBITDA ₹25,203 cr vs ₹15,008 cr and ₹17,010 cr in Q1, margin 10.9%, exports ₹1,04,250 cr; Singapore cracks gasoline $24.9 +196%, gasoil $65.8 +252%, jet/kero $59.3 +268%; Dated Brent $97 +40.6%; freight 15-20x; East-West pipeline shutdown; throughput 20.6 MMT; SAED costs and Jio-bp under-recoveries; Ambani quotes) from the RIL media release of 30 Oct 2026 as read by the fetch tool. Group attributable profit ₹25,548 cr +41% and EBITDA ₹62,409 cr from Upstox and the release."
+    - "All Q2 FY27 figures (O2C revenue ₹2,31,601 cr +44.2%, EBITDA ₹25,203 cr vs ₹15,008 cr and ₹17,010 cr in Q1, margin 10.9%, exports ₹1,04,250 cr; Singapore cracks gasoline $24.9 +196%, gasoil $65.8 +252%, jet/kero $59.3 +268%; Dated Brent $97 +40.6%; freight 15-20x; East-West pipeline shutdown; throughput 20.6 MMT; SAED costs and Jio-bp under-recoveries; Ambani quotes) from the RIL media release of Oct 30, 2026, as read by the fetch tool. Group attributable profit ₹25,548 cr +41% and EBITDA ₹62,409 cr from Upstox and the release."
     - "Reliance's own GRM per barrel is not given in the sources read and is not stated."
-    - "Monday's share move (₹1,237.30, +6.22%, 9:41 am) from the desk's own news story of 2 Nov."
-    - "Windfall tax: reimposed effective 26 March 2026 at ₹21.50/litre diesel and ₹29.50/litre ATF, petrol exempt; Joint Secretary (TRU-1) Jainendra Singh Kandhari's 2 April remark on SEZ refineries; Jamnagar capacities 33 MTPA domestic and 35.2 MTPA SEZ; Jefferies' ~$20/bbl cap view, all from Millennium Post. Rates from 3 August 2026 (diesel ₹24, ATF ₹22, petrol ₹3.5 per litre) from India Sea Trade News. Later fortnightly revisions after August not checked, so current rates are not given."
+    - "Monday's share move (₹1,237.30, +6.22%, 9:41 am) from the desk's own news story of Nov 2."
+    - "Windfall tax: reimposed effective March 26, 2026, at ₹21.50/litre diesel and ₹29.50/litre ATF, petrol exempt; Joint Secretary (TRU-1) Jainendra Singh Kandhari's April 2 remark on SEZ refineries; Jamnagar capacities 33 MTPA domestic and 35.2 MTPA SEZ; Jefferies' ~$20/bbl cap view, all from Millennium Post. Rates from August 3, 2026 (diesel ₹24, ATF ₹22, petrol ₹3.5 per litre) from India Sea Trade News. Later fortnightly revisions after August not checked, so current rates are not given."
     - "Jamnagar as one of the world's biggest refining complexes is general knowledge, consistent with the 68 MTPA combined capacity in Millennium Post. Brent about $112 on Monday from the desk's oil story ($111.84 at the Asian open). ₹10 a litre excise cut in March from Millennium Post."
     - "Gulf supply disruption as cause of high cracks is Reliance's own framing ('tight fuel markets', Hormuz supply disruptions); stated as such."
 ---
@@ -81,7 +81,7 @@ That one division explains most of the group's jump. Group EBITDA rose 24% to �
 
 ## Doesn't the government tax these windfall gains?
 
-Partly. In March the Centre **brought back the windfall tax** on fuel exports, a special additional excise duty first used in 2022 and dropped in December 2024. It started at ₹21.50 a litre on diesel and ₹29.50 on jet fuel from 26 March, is reviewed every fortnight, and stood at ₹24 a litre on diesel and ₹22 on jet fuel from 3 August. The aim is to keep fuel at home and claw back some of the extra profit.
+Partly. In March the Centre **brought back the windfall tax** on fuel exports, a special additional excise duty first used in 2022 and dropped in December 2024. It started at ₹21.50 a litre on diesel and ₹29.50 on jet fuel from March 26, is reviewed every fortnight, and stood at ₹24 a litre on diesel and ₹22 on jet fuel from August 3. The aim is to keep fuel at home and claw back some of the extra profit.
 
 But the levy **does not reach all of Reliance's exports**. Jamnagar has a 33 million tonne a year refinery for the domestic market and a 35.2 million tonne export-only unit in a special economic zone. "The special additional excise duty and additional excise duty are not applicable on SEZ refineries," said Jainendra Singh Kandhari, a joint secretary in the revenue department, in April. Reliance still listed the duty among the costs that weighed on the quarter.
 

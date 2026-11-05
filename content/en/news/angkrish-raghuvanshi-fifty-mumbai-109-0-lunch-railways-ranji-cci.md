@@ -22,7 +22,7 @@ hero:
     value: "Mumbai 109/0 at lunch"
 related: [railways-bowl-mumbai-ranji-round-four-cci-start, mumbai-railways-ranji-round-four-brabourne-preview]
 seo:
-  description: "Mumbai reached 109 without loss at lunch on day one against Railways at the Cricket Club of India in Ranji Trophy round four on 2 November 2026, with Angkrish Raghuvanshi unbeaten on 66."
+  description: "Mumbai reached 109 without loss at lunch on day one against Railways at the Cricket Club of India in Ranji Trophy round four on November 2, 2026, with Angkrish Raghuvanshi unbeaten on 66."
 sources:
   - title: "RAI vs MUM Live Score, Ranji Trophy Elite 2026-27"
     publisher: "Possible11"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov, lunch on day one after 31 overs; play began 09:30 IST, so lunch fell about 11:30 to 11:45 IST. Snapshot read about 12:05 IST from Possible11 live page marked 'Day 1: Lunch Break'."
+    - "event: Nov 2, lunch on day one after 31 overs; play began 09:30 IST, so lunch fell about 11:30 to 11:45 IST. Snapshot read about 12:05 IST from Possible11 live page marked 'Day 1: Lunch Break'."
     - "Scorecard: Mumbai 109/0 (31 ov), Raghuvanshi 66 (95b, 9x4, 2x6), Saxena 39 (91b, 4x4), 4 byes. Bowling: Sangwan 7-0-19-0, Adarsh Singh 7-3-23-0, Raj Choudhary 6-0-22-0, Zubair Ali Khan 3.5-0-11-0, Toufik Uddin Mondal 2-0-18-0, Sahab Yuvraj 5-1-12-0, Bhargav Merai 0.1-0-0-0. Overs sum to 31."
     - "Single source (Possible11); CricTracker and Sports Tak fetches not permitted this run. Mumbai yet-to-bat list (Musheer Khan, Lad, Sarfaraz Khan, etc.) from the same page. No quotes available."
 cover:

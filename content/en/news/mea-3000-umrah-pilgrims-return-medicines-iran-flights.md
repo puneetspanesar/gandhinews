@@ -22,7 +22,7 @@ hero:
     value: "3,000 pilgrims home in a week"
 related: [umrah-pilgrims-stranded-saudi-mansoor-ali-khan-jaishankar, india-condemns-dammam-shaybah-attacks-indian-killed, indian-embassy-riyadh-advisory-shelter-indoors-drones, fourteen-indians-yacht-yemen-safe-hodeidah]
 seo:
-  description: "About 3,000 stranded Umrah pilgrims returned from Saudi Arabia in a week, the MEA said on 23 October, adding that India still sends life-saving medicines to Iran."
+  description: "About 3,000 stranded Umrah pilgrims returned from Saudi Arabia in a week, the MEA said on October 23, adding that India still sends life-saving medicines to Iran."
 sources:
   - title: "Actively engaged to facilitate return of Indian pilgrims from Saudi Arabia: MEA"
     publisher: "ANI"
@@ -57,11 +57,11 @@ Embassy and consulate staff were in touch with those stranded and were working w
 
 ## Flights still cut
 
-Air links remain thin. The embassy in Riyadh said earlier on Friday that IndiGo flights to and from Riyadh "will remain cancelled until 31 October 2026 (inclusive)", and that its flights to Jeddah, Dammam and Madinah are cancelled until 27 October.
+Air links remain thin. The embassy in Riyadh said earlier on Friday that IndiGo flights to and from Riyadh "will remain cancelled until October 31, 2026 (inclusive)", and that its flights to Jeddah, Dammam and Madinah are cancelled until October 27.
 
 Last week Rajya Sabha MP Mansoor Ali Khan wrote to External Affairs Minister S Jaishankar and Minority Affairs Minister Kiren Rijiju, saying some private tour operators had run out of money and left pilgrims at risk of overstaying their visas.
 
-India has condemned the attacks on Saudi civilian and energy sites on 21 October, at King Fahd International Airport in Dammam and at Saudi Aramco's Shaybah oil field. One Indian was killed and two were injured at the Dammam airport, and another Indian was hurt at Shaybah. India said it stands "in solidarity with the people and the Government of the Kingdom of Saudi Arabia".
+India has condemned the attacks on Saudi civilian and energy sites on October 21, at King Fahd International Airport in Dammam and at Saudi Aramco's Shaybah oil field. One Indian was killed and two were injured at the Dammam airport, and another Indian was hurt at Shaybah. India said it stands "in solidarity with the people and the Government of the Kingdom of Saudi Arabia".
 
 ## Medicines for Iran
 
@@ -69,4 +69,4 @@ Jaiswal also said India was still getting essential medicines to Iran. "We have 
 
 Asked about reports that India had refused Iranian aircraft the use of its airspace, he did not confirm them.
 
-Contacts with Tehran have continued at a senior level. Defence Minister Rajnath Singh met Iran's First Vice President, Mohammad Reza Aref, on Tuesday on the sidelines of the SCO Heads of Government meeting in Dushanbe. On 12 October, National Security Adviser Ajit Doval spoke to Mohsen Rezaei, Secretary of Iran's Supreme National Security Council, and raised the safety of Indian seafarers and tankers in the Strait of Hormuz.
+Contacts with Tehran have continued at a senior level. Defence Minister Rajnath Singh met Iran's First Vice President, Mohammad Reza Aref, on Tuesday on the sidelines of the SCO Heads of Government meeting in Dushanbe. On October 12, National Security Adviser Ajit Doval spoke to Mohsen Rezaei, Secretary of Iran's Supreme National Security Council, and raised the safety of Indian seafarers and tankers in the Strait of Hormuz.

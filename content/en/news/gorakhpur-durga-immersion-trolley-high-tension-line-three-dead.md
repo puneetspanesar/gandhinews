@@ -22,7 +22,7 @@ hero:
     value: "A rod, a live wire, three dead"
 related: [vaishali-boat-capsize-ganga-raghopur-children-killed]
 seo:
-  description: "Three people were electrocuted and ten injured in Gorakhpur's Gulriha area on 21 October when a Durga immersion trolley touched a high-tension line at Rajhi crossing."
+  description: "Three people were electrocuted and ten injured in Gorakhpur's Gulriha area on October 21 when a Durga immersion trolley touched a high-tension line at Rajhi crossing."
 sources:
   - title: "दुर्गा विसर्जन में करंट से तीन की मौत, 10 घायल"
     publisher: "The CSR Journal"

@@ -52,11 +52,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov, Al Jazeera liveblog opened 00:00 GMT (5:30 am IST) and updated 01:32 GMT (7:02 am IST) with Araghchi's two-day plan and Rezaei's remarks on the Vance letter. CBS carried the two-day proposal at 6:10 pm EDT on 31 Oct (3:40 am IST 1 Nov). Exact hour of Rezaei's remark not given; it is newer than his 2:40 pm EDT IRNA comment that he had not yet replied to the letter."
+    - "event: Nov 1, Al Jazeera liveblog opened 00:00 GMT (5:30 am IST) and updated 01:32 GMT (7:02 am IST) with Araghchi's two-day plan and Rezaei's remarks on the Vance letter. CBS carried the two-day proposal at 6:10 pm EDT on Oct 31 (3:40 am IST Nov 1). Exact hour of Rezaei's remark not given; it is newer than his 2:40 pm EDT IRNA comment that he had not yet replied to the letter."
     - "Araghchi quotes 'Currently, there are no plans...' and 'once Washington agrees to Iran's conditions' from CBS live (10:18 am and 6:10 pm EDT entries); 'a positive step' and Rezaei's 'tone has changed completely' / 'very positive sign' from Al Jazeera summary."
-    - "Seven-day plan terms (lift blockade, waive oil sanctions, ceasefire including Lebanon) and Trump's rejection on 26 Sept from PBS/AP. No-strike pledge before 3 Nov midterms from House of Saud (dated 8 Oct there) and The Hill headline; stated as Trump's pledge without date."
+    - "Seven-day plan terms (lift blockade, waive oil sanctions, ceasefire including Lebanon) and Trump's rejection on Sept 26 from PBS/AP. No-strike pledge before Nov 3 midterms from House of Saud (dated Oct 8 there) and The Hill headline; stated as Trump's pledge without date."
     - "Khamenei quote: CBS and Fox wording differ by one comma; CBS version used. 144 ships and Bessent quote from CBS 3:00 pm EDT entry. Abdelatty quote, Manama Dialogue, from CBS and Fox."
-    - "India context (Rezaei-Doval call 12 Oct; MT Petro Dolphin, Sohar, 11 Oct; two Indians missing) from our own earlier stories."
+    - "India context (Rezaei-Doval call Oct 12; MT Petro Dolphin, Sohar, Oct 11; two Indians missing) from our own earlier stories."
     - "Mine claim by Iran's navy not independently confirmed; written as Iran's claim."
 ---
 
@@ -67,13 +67,13 @@ Mohsen Rezaei, secretary of the Supreme National Security Council, said he had r
 
 ## From seven days to two
 
-The new offer shortens one Tehran made in September, when Araghchi proposed **reopening the strait and resuming nuclear talks within seven days**. In return Iran wanted the US to lift its naval blockade of Iranian ports, waive sanctions on its oil sales and observe a ceasefire that included Lebanon. President Donald Trump rejected it on 26 September. "I'd like to make a deal, too. But that deal would not be acceptable," he said then.
+The new offer shortens one Tehran made in September, when Araghchi proposed **reopening the strait and resuming nuclear talks within seven days**. In return Iran wanted the US to lift its naval blockade of Iranian ports, waive sanctions on its oil sales and observe a ceasefire that included Lebanon. President Donald Trump rejected it on September 26. "I'd like to make a deal, too. But that deal would not be acceptable," he said then.
 
 Araghchi described a US offer of dialogue as "a positive step" but ruled out a meeting for now. "Currently, there are no plans for meetings with American officials," he said. Whether talks are direct or indirect will be settled "once Washington agrees to Iran's conditions", he added. Qatari and Pakistani mediators met in Doha on Saturday with an Iranian delegation present.
 
 ## Washington keeps its options open
 
-In Atlanta, where foreign ministers of major economies met for a G20 gathering, Secretary of State Marco Rubio said Trump had **not decided whether to resume strikes**. "He hasn't made a decision," Rubio said. "But we would prefer to do it peacefully." Trump has pledged no US strikes on Iran before the midterm elections on Tuesday, 3 November.
+In Atlanta, where foreign ministers of major economies met for a G20 gathering, Secretary of State Marco Rubio said Trump had **not decided whether to resume strikes**. "He hasn't made a decision," Rubio said. "But we would prefer to do it peacefully." Trump has pledged no US strikes on Iran before the midterm elections on Tuesday, November 3.
 
 ```photo
 {"n":2,"subject":"Marco Rubio","caption":"US Secretary of State Marco Rubio said in Atlanta that President Trump has not decided whether to restart strikes on Iran.","alt":"Marco Rubio"}
@@ -91,4 +91,4 @@ Supreme Leader Mojtaba Khamenei, who has not appeared in public since succeeding
 
 Arab governments are pressing for calm. Egypt's Foreign Minister Badr Abdelatty told the Manama Dialogue in Bahrain that "the second round will be more dangerous, more destructive, and it will lead to nowhere."
 
-For India, a reopened strait would ease pressure on shipping crews and energy supplies. **Indian sailors have been caught in the attacks**: two went missing after a drone struck the tanker MT Petro Dolphin off Sohar, Oman, on 11 October, and Rezaei discussed the crisis with National Security Adviser Ajit Doval the next day.
+For India, a reopened strait would ease pressure on shipping crews and energy supplies. **Indian sailors have been caught in the attacks**: two went missing after a drone struck the tanker MT Petro Dolphin off Sohar, Oman, on October 11, and Rezaei discussed the crisis with National Security Adviser Ajit Doval the next day.

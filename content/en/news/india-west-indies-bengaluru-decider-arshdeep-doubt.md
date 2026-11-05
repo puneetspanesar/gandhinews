@@ -21,7 +21,7 @@ hero:
     value: "2-2, and everything on Bengaluru"
 related: [india-west-indies-fourth-t20i-hyderabad-result, india-west-indies-fourth-t20i-hyderabad-preview, india-beat-west-indies-by-14-runs-in-indore-t20i, shreyas-iyer-career-best-t20i-ranking]
 seo:
-  description: "Arshdeep Singh's shoulder injury and India's struggles with the ball hang over the fifth T20I against West Indies in Bengaluru on 17 October, with the series at 2-2."
+  description: "Arshdeep Singh's shoulder injury and India's struggles with the ball hang over the fifth T20I against West Indies in Bengaluru on October 17, with the series at 2-2."
 sources:
   - title: "Arshdeep Singh injury update: Sanju Samson reveals Team India pacer's condition ahead of IND vs WI 5th T20I"
     publisher: "Free Press Journal"
@@ -71,8 +71,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "No official BCCI medical update on Arshdeep found as of about noon IST 15 Oct; copy says none given."
-    - "Samson quotes from the post-match press conference late on 14 Oct (Free Press Journal, Daily Jagran, ANI)."
+    - "No official BCCI medical update on Arshdeep found as of about noon IST Oct 15; copy says none given."
+    - "Samson quotes from the post-match press conference late on Oct 14 (Free Press Journal, Daily Jagran, ANI)."
     - "Kaif quotes were given to Cricbuzz (The Sports 24x7 report); attributed to Kaif only."
     - "Iyer captaincy record (8 defeats in 19 T20Is, 10 straight wins before this series): NewsX only."
     - "Start time not given: Wisden page shows both 1:30 pm and 7 pm IST."
@@ -106,5 +106,5 @@ Keemo Paul's 5 for 41 made him the first West Indies bowler with more than one f
 Samson summed up the mood. "We are 2-all now. All comes down to Bangalore now. We are really charged up for the last game."
 
 ```timeline
-{"title":"How the series has gone","items":[{"date":"1st T20I, Lucknow","text":"India chase 172 to win by eight wickets"},{"date":"2nd T20I, Ranchi","text":"West Indies chase 250, reaching 252 for 4 in 18.3 overs"},{"date":"3rd T20I, Indore","text":"India defend 223 to win by 14 runs"},{"date":"4th T20I, Hyderabad","text":"West Indies make 247 for 3 and win by 24 runs"},{"date":"5th T20I, Bengaluru","text":"Decider at the M Chinnaswamy Stadium on Saturday, 17 October"}]}
+{"title":"How the series has gone","items":[{"date":"1st T20I, Lucknow","text":"India chase 172 to win by eight wickets"},{"date":"2nd T20I, Ranchi","text":"West Indies chase 250, reaching 252 for 4 in 18.3 overs"},{"date":"3rd T20I, Indore","text":"India defend 223 to win by 14 runs"},{"date":"4th T20I, Hyderabad","text":"West Indies make 247 for 3 and win by 24 runs"},{"date":"5th T20I, Bengaluru","text":"Decider at the M Chinnaswamy Stadium on Saturday, October 17"}]}
 ```

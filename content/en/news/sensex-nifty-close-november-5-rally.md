@@ -30,10 +30,10 @@ infographic:
     - {icon: trend-up, value: "24,536.60", label: "Nifty 50 close, up 576 points (2.4%)"}
     - {icon: bank, value: "+4.14%", label: "Nifty Auto, the best-performing sector"}
   chart: {type: columns, title: "Nifty 50 close", highlight: -1, items: [{label: "Nov 2", value: 23440.8, display: "23,440.8"}, {label: "Nov 3", value: 23810.85, display: "23,810.9"}, {label: "Nov 4", value: 23960.6, display: "23,960.6"}, {label: "Nov 5", value: 24536.6, display: "24,536.6"}]}
-  source: "BSE and NSE data, 5 November 2026"
+  source: "BSE and NSE data, November 5, 2026"
 related: [sensex-nifty-afternoon-rally-november-5, sensex-1553-points-bse-market-cap-500-lakh-crore-10am, sensex-383-points-nifty-23960-fifth-day-bel-smallcaps-november-4, wall-street-dow-1569-best-day-since-april-2025-democrats-congress-oil]
 seo:
-  description: "Stock market closing, 5 November 2026: Sensex rises 2,008.61 points (2.6%) to 79,310.01 and Nifty 576 points (2.4%) to 24,536.60, led by ICICI Bank, HDFC Bank and Bajaj Finance as crude falls after the US midterms."
+  description: "Stock market closing, November 5, 2026: Sensex rises 2,008.61 points (2.6%) to 79,310.01 and Nifty 576 points (2.4%) to 24,536.60, led by ICICI Bank, HDFC Bank and Bajaj Finance as crude falls after the US midterms."
 sources:
   - title: "Closing Bell: Sensex Surges 2,009 Points; Nifty Reclaims 24,500 Mark on Thursday"
     publisher: "DSIJ"
@@ -48,7 +48,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 5 Nov 2026 15:30 IST market close. Close figures read on DSIJ closing bell (closing update 4:00 pm IST): Sensex 79,310.01 +2,008.61 (2.60%), Nifty 24,536.60 +576 (2.40%). Arithmetic matches Nov 4 closes in our own story (77,301.40 and 23,960.6)."
+    - "event: Nov 5, 2026 15:30 IST market close. Close figures read on DSIJ closing bell (closing update 4:00 pm IST): Sensex 79,310.01 +2,008.61 (2.60%), Nifty 24,536.60 +576 (2.40%). Arithmetic matches Nov 4 closes in our own story (77,301.40 and 23,960.6)."
     - "Business Standard live blog headline (seen in search result title) gives 'Sensex surges 2,009 pts, Nifty ends at 24,537; investors add ₹7 trn to wealth'. The fetched page body was the morning version, so ₹7 lakh crore wealth gain rests on that headline only; written as 'about'."
     - "Sectors, point contributors, breadth from DSIJ: Auto +4.14%, Fin Services +3.99%, Bank Nifty over 3% (no level), Midcap 100 60,620.90 +1.87%, Smallcap 100 19,132.45 +0.56%; ICICI +119.19 pts, HDFC Bank +78.31, Bajaj Finance +45.14; drags Airtel -7.30, NTPC -5.45, Apollo -5.15; IndiGo +5.43%, Asian Paints +4.36%; 2,547 advances, 1,084 declines of 3,723."
     - "Not used: VIX (DSIJ figure was Nov 4), rupee close (one undated-time source says 94.58, +17 paise; conflicts with Bloomberg prev close 94.65 in BS blog). Nov 5 FII/DII data not out at writing."

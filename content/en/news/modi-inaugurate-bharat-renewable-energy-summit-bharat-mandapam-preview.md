@@ -11,7 +11,7 @@ published: 2026-11-01T23:40:00+05:30
 location: New Delhi
 keyPoints:
   - "Prime Minister Narendra Modi will **inaugurate BRESE 2026** at Bharat Mandapam on Monday."
-  - "The summit runs **from 2 to 5 November** with participants from over 130 countries."
+  - "The summit runs **from November 2 to 5** with participants from over 130 countries."
   - "India needs about **$220 billion in clean energy investment** between 2027 and 2030, the renewable energy ministry says."
 hero:
   need: "Prime Minister Narendra Modi, and Bharat Mandapam in New Delhi where the summit is being held"
@@ -27,7 +27,7 @@ cover:
   bg: "Bharat Mandapam"
 related: [agrivoltaics-world-conference-delhi-36-projects-potential]
 seo:
-  description: "PM Narendra Modi will inaugurate the Bharat Renewable Energy Summit and Expo 2026 at Bharat Mandapam, New Delhi, on 2 November, alongside the ISA Assembly and a green hydrogen conference."
+  description: "PM Narendra Modi will inaugurate the Bharat Renewable Energy Summit and Expo 2026 at Bharat Mandapam, New Delhi, on November 2, alongside the ISA Assembly and a green hydrogen conference."
 sources:
   - title: "PM Modi To Inaugurate Bharat Renewable Energy Summit On November 2 as India Eyes $220 Billion Clean Energy Investment"
     publisher: "Republic World"
@@ -47,15 +47,15 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: preview of Mon 2 Nov inauguration by PM Modi at Bharat Mandapam (time of inauguration not found in sources read; left out). Written 1 Nov 23:40 IST."
-    - "Dates, venue, 130+ countries, partner countries, 13 states, 400+ exhibitors, 308 GW and 500 GW target, Sarangi's $220 billion figure: Republic World, 28 Oct 21:55 IST. BloombergNEF $63.7 billion figure not used."
-    - "Curtain raiser details (Joshi, Shripad Naik, URJHA Chakra logo, 128 countries invited to ISA Assembly): July 2026 reports (Kashmir Despatch, 23 Jul 20:55 IST; Infrastructure Today). Remarks there are in indirect speech, so no direct quotes used."
-    - "No PIB release for 2 Nov found within the search budget; no fresh in-window statement."
+    - "event: preview of Mon Nov 2 inauguration by PM Modi at Bharat Mandapam (time of inauguration not found in sources read; left out). Written Nov 1 23:40 IST."
+    - "Dates, venue, 130+ countries, partner countries, 13 states, 400+ exhibitors, 308 GW and 500 GW target, Sarangi's $220 billion figure: Republic World, Oct 28 21:55 IST. BloombergNEF $63.7 billion figure not used."
+    - "Curtain raiser details (Joshi, Shripad Naik, URJHA Chakra logo, 128 countries invited to ISA Assembly): July 2026 reports (Kashmir Despatch, Jul 23 20:55 IST; Infrastructure Today). Remarks there are in indirect speech, so no direct quotes used."
+    - "No PIB release for Nov 2 found within the search budget; no fresh in-window statement."
 ---
 
 Prime Minister Narendra Modi is due to **open the Bharat Renewable Energy Summit and Expo** at Bharat Mandapam in New Delhi on Monday, the first edition of a four-day event the government hopes will pull in investment for its clean energy push.
 
-The summit, known as BRESE 2026, runs **from 2 to 5 November** and is being organised by the Ministry of New and Renewable Energy under the theme "Invest. Innovate. Inspire." Policymakers, investors, manufacturers and researchers from more than 130 countries are expected.
+The summit, known as BRESE 2026, runs **from November 2 to 5** and is being organised by the Ministry of New and Renewable Energy under the theme "Invest. Innovate. Inspire." Policymakers, investors, manufacturers and researchers from more than 130 countries are expected.
 
 ```photo
 {"n":1,"subject":"Pralhad Joshi","caption":"Union New and Renewable Energy Minister Pralhad Joshi, who announced the summit at its curtain raiser in July.","alt":"Union Minister Pralhad Joshi"}

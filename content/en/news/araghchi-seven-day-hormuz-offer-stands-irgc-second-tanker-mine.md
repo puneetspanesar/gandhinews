@@ -12,7 +12,7 @@ location: Dubai
 keyPoints:
   - "Araghchi said the strait would open **within six days** if the US accepted Iran's conditions, with talks on day seven."
   - "The Guards said two tankers, each carrying about **2 million barrels**, caught fire after hitting mines."
-  - "Flows through Hormuz fell from **20.8 million barrels** on 8 October to 2.9 million on 11 October."
+  - "Flows through Hormuz fell from **20.8 million barrels** on October 8 to 2.9 million on October 11."
 hero:
   need: "Iranian Foreign Minister Abbas Araghchi"
   suggested_source: "Abbas Araghchi"
@@ -47,7 +47,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Araghchi quotes: The New Arab (Staff and agencies), Sunday 18 Oct, said to Iranian media in Baghdad for an OIC meeting. Arrival in Baghdad also via ANI citing IRIB."
+    - "Araghchi quotes: The New Arab (Staff and agencies), Sunday, Oct 18, said to Iranian media in Baghdad for an OIC meeting. Arrival in Baghdad also via ANI citing IRIB."
     - "Mine claims are the IRGC's alone, via IRNA (Al Jazeera, CGTN). No tanker names, flags or crews given; no maritime authority confirmation. Kept attributed."
     - "Tug off Khor Fakkan: New Arab roundup only, hedged."
     - "Kpler flow figures and Trump Newsmax remarks: Al Jazeera. Netanyahu-Rubio call: Israel's Channel 12 via CGTN, attributed to officials; framed carefully."
@@ -69,11 +69,11 @@ The IRGC said both ships had switched off their positioning and radar systems an
 
 Iran's army said separately that two tankers caught fire on Thursday and Friday inside what Tehran calls its "prohibited zone" in the Gulf of Oman. A tug was reported hit by two projectiles off Khor Fakkan in the United Arab Emirates, with one person slightly injured.
 
-The strait, through which about a fifth of the world's oil passed before the war, has been all but shut. Data firm Kpler counted about 20.8 million barrels moving through it on 8 October, and only 2.9 million on 11 October. Iran has demanded that ships seek its permission since the US-Israeli war on Iran began in late February, and the US has answered with a naval blockade of Iranian oil exports.
+The strait, through which about a fifth of the world's oil passed before the war, has been all but shut. Data firm Kpler counted about 20.8 million barrels moving through it on October 8, and only 2.9 million on October 11. Iran has demanded that ships seek its permission since the US-Israeli war on Iran began in late February, and the US has answered with a naval blockade of Iranian oil exports.
 
 ## Washington and Moscow
 
-US President Donald Trump told Newsmax he had ruled out using nuclear weapons against Iran, was not considering ground troops and expected a deal to end the war after the 3 November midterm elections. US Central Command said the aircraft carrier USS George H.W. Bush, with about 5,000 sailors and other personnel, was back in the Arabian Sea after a port visit to Thailand.
+US President Donald Trump told Newsmax he had ruled out using nuclear weapons against Iran, was not considering ground troops and expected a deal to end the war after the November 3 midterm elections. US Central Command said the aircraft carrier USS George H.W. Bush, with about 5,000 sailors and other personnel, was back in the Arabian Sea after a port visit to Thailand.
 
 In Israel, Channel 12 said Prime Minister Benjamin Netanyahu had discussed possible military action against Iran with Secretary of State Marco Rubio by phone, with officials saying the situation did not yet call for immediate action. Lebanon's foreign minister, Youssef Raji, urged Iran to "cease their aggressions against the Gulf Cooperation Council states and Jordan."
 

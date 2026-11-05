@@ -22,7 +22,7 @@ hero:
     value: "Paralympic champion against champion"
 related: [sandeep-haney-world-records-india-100-medals-para-games, harvinder-vijay-sundi-recurve-doubles-gold-china, dilip-gavit-solairaj-gold-india-88-medals-asian-para-games]
 seo:
-  description: "Nitesh Kumar beat Pramod Bhagat 21-18, 21-16 in an all-Indian SL3 final at the Asian Para Games on 23 October; Naveen Sivakumar won SL4 gold."
+  description: "Nitesh Kumar beat Pramod Bhagat 21-18, 21-16 in an all-Indian SL3 final at the Asian Para Games on October 23; Naveen Sivakumar won SL4 gold."
 sources:
   - title: "Asian Para Games 2026: Nitesh, Pramod complete double podium for India"
     publisher: "The Bridge"

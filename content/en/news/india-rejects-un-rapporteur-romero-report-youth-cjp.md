@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: PTI via The Tribune (17 Oct, 11:38 am IST, updated 12:45 pm). Quotes verbatim from PTI. Statement delivered in New York, apparently on 16 Oct local time; exact date not given, so copy avoids a day."
+    - "Single source: PTI via The Tribune (Oct 17, 11:38 am IST, updated 12:45 pm). Quotes verbatim from PTI. Statement delivered in New York, apparently on Oct 16 local time; exact date not given, so copy avoids a day."
     - "PTI says the 'satirical political movement' line refers to the Cockroach Janta Party; the report's wording not seen. Copy says it was 'read in India as' a reference, attributing nothing to Romero beyond the quoted words."
     - "Romero's response, if any, not found."
 ---

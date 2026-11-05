@@ -12,7 +12,7 @@ location: New York
 keyPoints:
   - "Every candidate received a **'discourage' vote from a permanent member**, in effect a veto, in the sixth informal poll."
   - "Senegal's former president Macky Sall **withdrew from the race** a day later."
-  - "Antonio Guterres's second term ends on **31 December 2026**."
+  - "Antonio Guterres's second term ends on **December 31, 2026**."
 hero:
   need: "Rebeca Grynspan, or the UN Security Council chamber"
   suggested_source: "Rebeca Grynspan"
@@ -26,7 +26,7 @@ seo:
 verification:
   status: approved
   notes:
-    - Africanews (AFP) 17 Oct, two pieces. Poll held Friday 16 Oct; Sall announcement Saturday 17 Oct. Grynspan seven encourage votes per Africanews Sall piece. Waltz quotes via Africanews. Reports that US opposes all seven attributed to US media; kept hedged.
+    - Africanews (AFP) Oct 17, two pieces. Poll held Friday, Oct 16; Sall announcement Saturday, Oct 17. Grynspan seven encourage votes per Africanews Sall piece. Waltz quotes via Africanews. Reports that US opposes all seven attributed to US media; kept hedged.
 sources:
   - title: "All seven candidates to lead UN receive Security Council veto in informal poll"
     publisher: "Africanews"
@@ -50,4 +50,4 @@ For the first time, Britain, China, France, Russia and the United States used co
 
 US media have reported that Washington opposes all seven. Asked about that, US Ambassador Mike Waltz did not comment directly. "We have always said we just simply need the best," he said, adding that countries were within their "sovereign rights" to nominate more candidates. Names being mentioned include Nickolay Mladenov, Lana Nusseibeh of the UAE and Turkey's Feridun Hadi Sinirlioglu, the OSCE Secretary-General.
 
-To win, a candidate needs at least nine of the Council's 15 votes and no veto, before the General Assembly confirms the choice. By tradition the post rotates between regions, and this time it is expected to go to Latin America, home to most of the field. Antonio Guterres's second term ends on 31 December, leaving the Council little time to break the deadlock.
+To win, a candidate needs at least nine of the Council's 15 votes and no veto, before the General Assembly confirms the choice. By tradition the post rotates between regions, and this time it is expected to go to Latin America, home to most of the field. Antonio Guterres's second term ends on December 31, leaving the Council little time to break the deadlock.

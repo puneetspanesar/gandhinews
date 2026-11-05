@@ -12,7 +12,7 @@ location: Mumbai
 keyPoints:
   - "IRB's consolidated net profit **rose 84.85% to ₹260 crore** in July-September."
   - "The board declared a **second interim dividend of ₹0.05 a share**."
-  - "The record date for the dividend is **12 November**."
+  - "The record date for the dividend is **November 12**."
 hero:
   need: "The Mumbai-Pune Expressway, a toll road associated with IRB Infrastructure"
   suggested_source: "Mumbai Pune Expressway"
@@ -31,7 +31,7 @@ cover:
 infographic:
   kicker: "September quarter results"
   headline: "IRB Infrastructure profit nearly doubles"
-  dek: "Second interim dividend declared, record date 12 November"
+  dek: "Second interim dividend declared, record date November 12"
   motif: road-horizon
   stats:
     - {icon: currency-inr, value: "₹260 cr", label: "consolidated net profit, July-September"}
@@ -40,7 +40,7 @@ infographic:
   source: "Company results, November 5, 2026"
 related: [mahindra-q2-profit-rises-13-per-cent-revenue-27-suv]
 seo:
-  description: "IRB Infrastructure Q2 FY27 results: consolidated net profit rises 84.85% to ₹260 crore from ₹140.82 crore; second interim dividend of ₹0.05 a share, record date 12 November."
+  description: "IRB Infrastructure Q2 FY27 results: consolidated net profit rises 84.85% to ₹260 crore from ₹140.82 crore; second interim dividend of ₹0.05 a share, record date November 12."
 sources:
   - title: "Q2 Results Live Updates: Mahindra & Mahindra profit rises 13% to ₹5,102 crore, revenue up 27%"
     publisher: "Upstox"
@@ -60,13 +60,13 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 5 Nov, Upstox live blog entry 14:01 IST. Consolidated PAT Rs 260 cr vs Rs 140.82 cr (+84.85%); second interim dividend Rs 0.05/share for FY27, record date 12 Nov. Year-ago Rs 141 cr matches BS Nov 2025 headline. Q1 FY27 Rs 306 cr from search-result headlines only (NBM&CW, FPJ); source date for NBM&CW approximate."
+    - "event: Nov 5, Upstox live blog entry 14:01 IST. Consolidated PAT Rs 260 cr vs Rs 140.82 cr (+84.85%); second interim dividend Rs 0.05/share for FY27, record date Nov 12. Year-ago Rs 141 cr matches BS Nov 2025 headline. Q1 FY27 Rs 306 cr from search-result headlines only (NBM&CW, FPJ); source date for NBM&CW approximate."
     - "Revenue, toll collection figures and share price not found; left out. Single source for today's figures."
 ---
 
 IRB Infrastructure Developers on Thursday reported a **near doubling of consolidated net profit** for the July-September quarter, to ₹260 crore from ₹140.82 crore a year earlier, a rise of 84.85%.
 
-The toll road developer's board also declared a **second interim dividend of ₹0.05 a share** for the current financial year. The record date, which decides which shareholders get the payout, is 12 November.
+The toll road developer's board also declared a **second interim dividend of ₹0.05 a share** for the current financial year. The record date, which decides which shareholders get the payout, is November 12.
 
 ```photo
 {"n":1,"subject":"Khalapur toll plaza","caption":"Toll plazas on highways like this one are where IRB earns most of its income.","alt":"A toll plaza on the Mumbai-Pune Expressway"}

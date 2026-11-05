@@ -22,7 +22,7 @@ hero:
     value: "A licence to take the harvest"
 related: [west-bank-olive-harvest-settler-attacks-israeli-election, settlers-set-fire-to-mosque-mikhmas-west-bank]
 seo:
-  description: "Rabbi Dov Lior's edict letting settlers take Palestinian olives in the West Bank draws backlash from Tzohar and Gush Etzion rabbis ahead of Israel's 27 October vote."
+  description: "Rabbi Dov Lior's edict letting settlers take Palestinian olives in the West Bank draws backlash from Tzohar and Gush Etzion rabbis ahead of Israel's October 27 vote."
 sources:
   - title: "Hardline Israeli rabbi ruling on stolen Palestinian olives prompts uproar"
     publisher: "Al Jazeera"
@@ -47,11 +47,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "Ruling details, Lior's words ('additional virtue', 'conquer the land', 'demonstrate our ownership', 'it is stolen land in their hands'), Gush Etzion and Tzohar responses, Kariv quote and Abu Amer analysis all from one Al Jazeera report (Mohammad Mansour, 17 Oct); quotes are Al Jazeera's English translations from Hebrew. Lior's original text not seen."
+    - "Ruling details, Lior's words ('additional virtue', 'conquer the land', 'demonstrate our ownership', 'it is stolen land in their hands'), Gush Etzion and Tzohar responses, Kariv quote and Abu Amer analysis all from one Al Jazeera report (Mohammad Mansour, Oct 17); quotes are Al Jazeera's English translations from Hebrew. Lior's original text not seen."
     - "Friday figures (19 injured, 34 attacks, five vehicles torched) from Al Jazeera only; who compiled them not stated."
     - "Heidi Levine injuries (broken rib, four broken vertebrae) as reported by Washington Post via ANI/Tribune; Netanyahu office quotes from ANI/Tribune."
     - "The Saturday attack on European diplomats near Taybeh is claimed by world-west desk (settlers-attack-european-diplomats-taybeh-west-bank); mentioned in one line only, not linked because file may not exist yet."
-    - "Election date 27 Oct from Al Jazeera."
+    - "Election date Oct 27 from Al Jazeera."
 ---
 
 A ruling by one of the most influential rabbis of Israel's far-right settler movement, permitting Jews to take olives from Palestinian orchards in the occupied West Bank, has drawn sharp criticism from other rabbis as the harvest season turns violent.
@@ -64,7 +64,7 @@ The religious council of rabbis in the Gush Etzion settlements called the practi
 
 Gilad Kariv, a Knesset member from the Democrats party, said: "Whoever stands on the sidelines in this issue joins the camp of Rabbi Dov Lior and his criminals."
 
-Analyst Mamoun Abu Amer said some of the rejections may be politically driven. Lior carries weight with hardline groups such as the Hilltop Youth and is the spiritual guide of Otzma Yehudit, the Jewish Power party led by National Security Minister Itamar Ben-Gvir. Israelis vote on 27 October, and far-right parties are courting settler votes.
+Analyst Mamoun Abu Amer said some of the rejections may be politically driven. Lior carries weight with hardline groups such as the Hilltop Youth and is the spiritual guide of Otzma Yehudit, the Jewish Power party led by National Security Minister Itamar Ben-Gvir. Israelis vote on October 27, and far-right parties are courting settler votes.
 
 ## A violent harvest
 

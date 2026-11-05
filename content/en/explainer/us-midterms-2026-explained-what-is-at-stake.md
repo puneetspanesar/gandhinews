@@ -6,9 +6,9 @@ section: world
 format_label: "Explained / US politics"
 topics: []
 title: "US midterms explained: what is at stake on Tuesday, and when India will know the result"
-standfirst: "Americans vote on 3 November for all 435 seats in the House of Representatives, 35 Senate seats and 36 governors. What each party needs, the races that could decide it, why the count may take days, and why it matters beyond Washington."
+standfirst: "Americans vote on November 3 for all 435 seats in the House of Representatives, 35 Senate seats and 36 governors. What each party needs, the races that could decide it, why the count may take days, and why it matters beyond Washington."
 published: 2026-11-02T06:45:00+05:30
-shortAnswer: "The midterms fall halfway through a president's four-year term. On Tuesday 3 November 2026 Americans elect the whole House of Representatives, 35 of the 100 senators and 36 state governors. Republicans hold the House 218 to 214 and the Senate 53 to 47, so Democrats need only a handful of House seats but a net gain of four Senate seats to take control. Polls close between 4:30 am and 11:30 am IST on Wednesday 4 November. Some races may be called that day, but close contests and late postal ballots can push the final picture back by days or weeks. If Democrats win either chamber, they can block much of Donald Trump's agenda for his last two years."
+shortAnswer: "The midterms fall halfway through a president's four-year term. On Tuesday, November 3, 2026 Americans elect the whole House of Representatives, 35 of the 100 senators and 36 state governors. Republicans hold the House 218 to 214 and the Senate 53 to 47, so Democrats need only a handful of House seats but a net gain of four Senate seats to take control. Polls close between 4:30 am and 11:30 am IST on Wednesday, November 4. Some races may be called that day, but close contests and late postal ballots can push the final picture back by days or weeks. If Democrats win either chamber, they can block much of Donald Trump's agenda for his last two years."
 hero:
   need: "The United States Capitol in Washington, home of the House and the Senate"
   suggested_source: "United States Capitol west front"
@@ -18,7 +18,7 @@ hero:
     value: "470 seats, one Tuesday"
 related: [us-midterms-stevens-backs-rogers-alaska-sullivan-suit-dismissed, trump-approval-record-low-polls-two-weeks-before-midterms, markets-week-ahead-us-midterms-itc-sbi-results-november-2, trump-votes-early-florida-michigan-early-voting-opens]
 seo:
-  description: "US midterm elections 3 November 2026 explained: 435 House seats, 35 Senate seats, 36 governors, current 218-214 and 53-47 splits, key races, poll closing times in IST and why results may take days."
+  description: "US midterm elections November 3, 2026, explained: 435 House seats, 35 Senate seats, 36 governors, current 218-214 and 53-47 splits, key races, poll closing times in IST and why results may take days."
 sources:
   - title: "US midterms: 470 seats, $12 billion and one absent president (AFP)"
     publisher: "Gulf News"
@@ -48,13 +48,13 @@ sources:
 verification:
   status: approved
   notes:
-    - "Seat counts (435 House, 35 Senate incl. Florida and Ohio specials, 36 governors, 6,139 state legislative seats in 88 of 99 chambers), splits (House 218 R, 214 D, 1 independent, 2 vacancies; Senate 53-47 counting two independents), 218 for a House majority, net +4 Senate for Democrats, Vance tie-break, $12 billion spending (AdImpact $11.6bn, Kinetiq $11.96bn, 2022 record $8.9bn): AFP via Gulf News, updated 28 Oct. Reuters explainer via Devdiscourse agrees on splits and Senate +4."
+    - "Seat counts (435 House, 35 Senate incl. Florida and Ohio specials, 36 governors, 6,139 state legislative seats in 88 of 99 chambers), splits (House 218 R, 214 D, 1 independent, 2 vacancies; Senate 53-47 counting two independents), 218 for a House majority, net +4 Senate for Democrats, Vance tie-break, $12 billion spending (AdImpact $11.6bn, Kinetiq $11.96bn, 2022 record $8.9bn): AFP via Gulf News, updated Oct 28. Reuters explainer via Devdiscourse agrees on splits and Senate +4."
     - "House net gain Democrats need differs: AFP says three from the 2024 result, Reuters says four. Copy says 'a handful of seats' and gives the current split only."
     - "Reuters explainer: ten Senate races could decide control (Maine, Ohio, North Carolina, Iowa, Georgia named); Jeffries likely Speaker if Democrats win; Johnson current Speaker; turnout over 100 million if like 2022."
-    - "Candidates (Talarico v Paxton, Rogers v El-Sayed, Collins v Jackson, Cooper v Whatley, Brown v Husted, Peltola v Sullivan, Hinson v Turek): Khaleej Times, 20 Oct. Georgia candidates not named in sources read; left out."
-    - "Poll closing times and counting rules (6 pm ET first closings, 1 am ET last in the western Aleutians; California and Oregon mail ballots through 10 Nov, Nevada 7 Nov; Georgia runoff 1 Dec; Louisiana 12 Dec; House majority projected 16 Nov in 2022): The Rio Times only, updated 30 Oct. IST conversion uses EST (UTC-5), as US clocks went back on 1 Nov; IST is 10 hours 30 minutes ahead."
-    - "NYT/Siena figures (52-41 generic ballot among likely voters, Trump 36%) from the desk's 21 Oct story and its sources (Forbes et al.); NYT page not read. Abbott v Hinojosa and Ramaswamy v Acton from Khaleej Times; Ramaswamy's Indian-American background is well known."
-    - "52 million early ballots and Trump's hint of Iran strikes after the elections: from the desk's 1 and 2 Nov stories and their sources."
+    - "Candidates (Talarico v Paxton, Rogers v El-Sayed, Collins v Jackson, Cooper v Whatley, Brown v Husted, Peltola v Sullivan, Hinson v Turek): Khaleej Times, Oct 20. Georgia candidates not named in sources read; left out."
+    - "Poll closing times and counting rules (6 pm ET first closings, 1 am ET last in the western Aleutians; California and Oregon mail ballots through Nov 10, Nevada Nov 7; Georgia runoff Dec 1; Louisiana Dec 12; House majority projected Nov 16 in 2022): The Rio Times only, updated Oct 30. IST conversion uses EST (UTC-5), as US clocks went back on Nov 1; IST is 10 hours 30 minutes ahead."
+    - "NYT/Siena figures (52-41 generic ballot among likely voters, Trump 36%) from the desk's Oct 21 story and its sources (Forbes et al.); NYT page not read. Abbott v Hinojosa and Ramaswamy v Acton from Khaleej Times; Ramaswamy's Indian-American background is well known."
+    - "52 million early ballots and Trump's hint of Iran strikes after the elections: from the desk's Nov 1 and 2 stories and their sources."
     - "Florida and Ohio specials described as the seats vacated by Rubio (secretary of state) and Vance (vice-president) in 2025: well-established background, not restated in the sources read this run, which say only 'special elections in Florida and Ohio'."
     - "Powers of the chambers (House originates spending bills and impeaches; Senate confirms appointments and tries impeachments) are standard US constitutional arrangements, not from a 2026 document."
 ---
@@ -63,7 +63,7 @@ verification:
 
 **They are the elections held halfway through a president's term.** A US president is elected for four years, but the whole House of Representatives faces the voters every two years and a third of the Senate does too. Donald Trump began his second term in January 2025, so this vote comes at the midpoint, and he is not on the ballot.
 
-On Tuesday 3 November Americans will choose **all 435 members of the House**, 35 senators and 36 state governors. The Senate count is higher than the usual 33 because there are special elections in Florida and Ohio, for seats vacated when Marco Rubio became secretary of state and JD Vance became vice-president. Below them, 6,139 seats in state legislatures are being filled in 88 of the country's 99 legislative chambers.
+On Tuesday, November 3 Americans will choose **all 435 members of the House**, 35 senators and 36 state governors. The Senate count is higher than the usual 33 because there are special elections in Florida and Ohio, for seats vacated when Marco Rubio became secretary of state and JD Vance became vice-president. Below them, 6,139 seats in state legislatures are being filled in 88 of the country's 99 legislative chambers.
 
 ## What does each party need?
 
@@ -72,7 +72,7 @@ On Tuesday 3 November Americans will choose **all 435 members of the House**, 35
 The Senate is harder for Democrats. Republicans hold it **53 to 47**, counting two independents who vote with the Democrats. Democrats need a net gain of four seats to reach 51. A 50-50 split would leave Republicans in charge, because Vice-President Vance casts the deciding vote in a tie.
 
 ```compare
-{"title":"The two chambers at stake on 3 November","columns":["House of Representatives","Senate"],"rows":[{"icon":"users","label":"Seats on the ballot","cells":["All 435","35 of 100"]},{"icon":"scales","label":"Current split","cells":["218 Republicans, 214 Democrats, 1 independent, 2 vacant","53 Republicans, 47 Democrats and allies"]},{"icon":"flag-banner","label":"Needed for control","cells":["218 seats","51 seats, or 50 with the vice-president's vote"]},{"icon":"clock","label":"Term","cells":["Two years","Six years"]},{"icon":"gavel","label":"Main powers","cells":["Starts spending bills, can impeach","Confirms appointments, tries impeachments"]}]}
+{"title":"The two chambers at stake on November 3","columns":["House of Representatives","Senate"],"rows":[{"icon":"users","label":"Seats on the ballot","cells":["All 435","35 of 100"]},{"icon":"scales","label":"Current split","cells":["218 Republicans, 214 Democrats, 1 independent, 2 vacant","53 Republicans, 47 Democrats and allies"]},{"icon":"flag-banner","label":"Needed for control","cells":["218 seats","51 seats, or 50 with the vice-president's vote"]},{"icon":"clock","label":"Term","cells":["Two years","Six years"]},{"icon":"gavel","label":"Main powers","cells":["Starts spending bills, can impeach","Confirms appointments, tries impeachments"]}]}
 ```
 
 ## Which races could decide it?
@@ -95,9 +95,9 @@ Polls are not results, though, and turnout will decide much. **More than 52 mill
 
 ## When will we know?
 
-**Polls start closing at 4:30 am IST on Wednesday 4 November**, which is 6 pm on Tuesday on the US east coast. The big battleground closings follow over the next few hours: Georgia at 5:30 am IST, North Carolina and Ohio at 6 am, and Michigan, Texas and Maine at 6:30 am. California closes at 9:30 am IST, Hawaii and most of Alaska at 10:30 am, and the last polling places, in Alaska's western Aleutian Islands, at 11:30 am.
+**Polls start closing at 4:30 am IST on Wednesday, November 4**, which is 6 pm on Tuesday on the US east coast. The big battleground closings follow over the next few hours: Georgia at 5:30 am IST, North Carolina and Ohio at 6 am, and Michigan, Texas and Maine at 6:30 am. California closes at 9:30 am IST, Hawaii and most of Alaska at 10:30 am, and the last polling places, in Alaska's western Aleutian Islands, at 11:30 am.
 
-Some races will be called on Wednesday. Control of the House may take longer. California and Oregon count postal ballots that arrive until 10 November, and Nevada until 7 November. In 2022 the House majority was **not projected until 16 November**. Georgia holds a run-off on 1 December if no Senate candidate wins a majority, and Louisiana's general election falls on 12 December.
+Some races will be called on Wednesday. Control of the House may take longer. California and Oregon count postal ballots that arrive until November 10, and Nevada until November 7. In 2022 the House majority was **not projected until November 16**. Georgia holds a run-off on December 1 if no Senate candidate wins a majority, and Louisiana's general election falls on December 12.
 
 The count could also end up in court. On Sunday a federal judge threw out a Trump administration lawsuit seeking to stop Alaska certifying a defeat for Senator Sullivan, and Republicans have threatened to contest the result there.
 

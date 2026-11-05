@@ -50,7 +50,7 @@ const toc = d.type === 'explainer' ? headings.filter((h) => h.depth === 2) : [];
 const vkey = d.factcheck ? verdictKey(d.factcheck.verdict) : null;
 const vIcon = vkey === 'false' ? 'x-circle' : vkey === 'misleading' ? 'warning-circle' : 'check-circle';
 const firstSeen = d.factcheck?.firstSeen instanceof Date ? d.factcheck.firstSeen : null;
-const fmtD = (x: Date) => fmtDateTime(x, lang).split(',').slice(0, 1).join('');
+const fmtD = (x: Date) => fmtDateTime(x, lang).split(',').slice(0, lang === 'hi' ? 1 : 2).join(',');
 const active = d.type === 'news' ? d.section : hubKey;
 const hero = heroOf(d);
 const hasCover = !!(PHOTO_MAP as any)[d.id]?.cover;

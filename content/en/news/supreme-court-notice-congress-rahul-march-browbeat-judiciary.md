@@ -55,7 +55,7 @@ The Supreme Court on Thursday issued notice to the Congress, Lok Sabha Leader of
 
 "Nobody can browbeat judiciary. We are not sitting in ivory towers," the bench of Chief Justice Surya Kant and Justice Joymalya Bagchi said.
 
-The plea concerns the opposition march on 12 October, when leaders walked from Connaught Place towards the court to file their petition against the Special Intensive Revision of electoral rolls, and a post on X against the Chief Justice. Senior advocate Gaurav Bhatia objected in court to processions near the Supreme Court and to conduct inside its precincts.
+The plea concerns the opposition march on October 12, when leaders walked from Connaught Place towards the court to file their petition against the Special Intensive Revision of electoral rolls, and a post on X against the Chief Justice. Senior advocate Gaurav Bhatia objected in court to processions near the Supreme Court and to conduct inside its precincts.
 
 The post at the centre of the row came from the Congress's Keralam unit, which told the Chief Justice to resign after he described the Delhi protests as a law and order matter. It was deleted the same evening.
 

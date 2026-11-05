@@ -82,7 +82,7 @@ Maharashtra Chief Minister Devendra Fadnavis took up the Chief Justice's refusal
 
 > Constitutional institutions cannot be made answerable to a party's electoral frustrations. The people's mandate deserves respect. Our institutions deserve independence.
 >
-> Source: Himanta Biswa Sarma, Chief Minister of Assam, on X, 12 October 2026
+> Source: Himanta Biswa Sarma, Chief Minister of Assam, on X, October 12, 2026
 
 Union Minister H.D. Kumaraswamy said the opposition was "unnecessarily making a big noise about SIR".
 

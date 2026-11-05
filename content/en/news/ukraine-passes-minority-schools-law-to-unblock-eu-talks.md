@@ -12,7 +12,7 @@ location: Kyiv
 keyPoints:
   - "Ukraine's parliament passed the bill with **266 votes**."
   - "It widens the use of **Hungarian and other EU languages** in schools, but not Russian."
-  - "Two more EU accession clusters are **expected to open on 13 October**."
+  - "Two more EU accession clusters are **expected to open on October 13**."
 hero:
   need: "Verkhovna Rada building in Kyiv, or a Hungarian-language school in Zakarpattia (Berehove)"
   suggested_source: "Verkhovna Rada building Kyiv"
@@ -33,7 +33,7 @@ verification:
   notes:
     - "Single source (Kyiv Independent). Its news-feed headline later said 'Zelensky signs' the bill, but the article text read still says it needs a presidential signature. Story says only that parliament passed it and it needs his signature."
     - "Vote count 266 is from MP Yaroslav Zhelezniak via Kyiv Independent; official Rada record not opened."
-    - "Opening of clusters on 13 Oct is described as expected; it had not happened at time of writing."
+    - "Opening of clusters on Oct 13 is described as expected; it had not happened at time of writing."
 ---
 
 Ukraine's parliament on Monday passed a law expanding education rights for national minorities, meeting a condition set by Hungary before it would let Ukraine's talks on joining the European Union move forward.
@@ -56,4 +56,4 @@ Hungarian Foreign Minister Anita Orbán said the law "is the result of the bilat
 
 Hungary lifted its veto earlier this year, allowing the first and sixth negotiating clusters, on democratic institutions and external relations, to open in June and July. It then held back the rest until Kyiv began putting the agreement into practice, starting with education.
 
-EU envoys gave preliminary clearance on 7 October to two more clusters, covering the internal market and competitiveness. They are expected to be formally opened for both Ukraine and Moldova, whose bids the EU has linked, at a meeting in Luxembourg on Tuesday. Kyiv wants all six clusters open by the end of 2026.
+EU envoys gave preliminary clearance on October 7 to two more clusters, covering the internal market and competitiveness. They are expected to be formally opened for both Ukraine and Moldova, whose bids the EU has linked, at a meeting in Luxembourg on Tuesday. Kyiv wants all six clusters open by the end of 2026.

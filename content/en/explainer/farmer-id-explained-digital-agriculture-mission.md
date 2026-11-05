@@ -8,7 +8,7 @@ topics: [agriculture-msp]
 title: "Farmer ID explained: what India's 11 crore digital farmer identities are for, and who gets left out"
 standfirst: "The Centre says it has issued 11 crore Farmer IDs, five months ahead of its March 2027 deadline. What the ID is, how a farmer gets one, what it will be needed for, and why tenants and forest farmers worry."
 published: 2026-10-25T05:15:00+05:30
-shortAnswer: "A Farmer ID is a digital identity, built on Aadhaar, that links a farmer to verified state land records, the crops they sow and the schemes they use. It is the core of AgriStack, part of the ₹2,817 crore Digital Agriculture Mission approved in September 2024, and the Centre said on 24 October 2026 that 11 crore IDs had been created. The ID is increasingly required for PM-Kisan and other benefits, which is why groups working with tenant and Adivasi farmers warn that people without land titles in their own name risk being shut out."
+shortAnswer: "A Farmer ID is a digital identity, built on Aadhaar, that links a farmer to verified state land records, the crops they sow and the schemes they use. It is the core of AgriStack, part of the ₹2,817 crore Digital Agriculture Mission approved in September 2024, and the Centre said on October 24, 2026, that 11 crore IDs had been created. The ID is increasingly required for PM-Kisan and other benefits, which is why groups working with tenant and Adivasi farmers warn that people without land titles in their own name risk being shut out."
 hero:
   need: "Krishi Bhawan in New Delhi, headquarters of the Union agriculture ministry"
   suggested_source: "Krishi Bhawan New Delhi"
@@ -58,9 +58,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Mission design (outlay ₹2,817 crore, Centre's share ₹1,940 crore, Cabinet 2 Sept 2024, AgriStack's three registries, Farmer ID 'similar to Aadhaar', created and maintained by states, links to land records, livestock, crops sown and benefits, year-wise targets 6/3/2 crore, six pilot districts, crop survey rollout 400 districts then all) from the PIB backgrounder PDF and MediaNama, which agree."
-    - "11 crore milestone, 8.47 crore in Feb 2026, 6 crore beneficiaries, tenant-farmer line and 31 March 2027 deadline from the desk's 24 Oct news story and its sources; the PIB release page and the Odisha Diary copy could not be opened in this run."
-    - "About 2.06 crore IDs from MediaNama's 13 Feb 2025 report of Lok Sabha replies; the article says 'as of February 2024', taken to mean the date of the replies (Feb 2025). Copy says 'early 2025'."
+    - "Mission design (outlay ₹2,817 crore, Centre's share ₹1,940 crore, Cabinet Sept 2, 2024, AgriStack's three registries, Farmer ID 'similar to Aadhaar', created and maintained by states, links to land records, livestock, crops sown and benefits, year-wise targets 6/3/2 crore, six pilot districts, crop survey rollout 400 districts then all) from the PIB backgrounder PDF and MediaNama, which agree."
+    - "11 crore milestone, 8.47 crore in Feb 2026, 6 crore beneficiaries, tenant-farmer line and March 31, 2027, deadline from the desk's Oct 24 news story and its sources; the PIB release page and the Odisha Diary copy could not be opened in this run."
+    - "About 2.06 crore IDs from MediaNama's Feb 13, 2025, report of Lok Sabha replies; the article says 'as of February 2024', taken to mean the date of the replies (Feb 2025). Copy says 'early 2025'."
     - "PM-Kisan requirement for new applicants from MediaNama (Feb 2025, 'last month', exact date not given; copy gives no date). '14 states' where the ID is mandatory for PM-Kisan, Chhattisgarh paddy sales and MP fertiliser system from The News Minute (Aug 2026), single source; hedged as 'reported'."
     - "Registration process (Aadhaar, land or lease proof, bank passbook, Aadhaar-linked mobile, camps, CSCs, e-KYC, 'Landless farmers not eligible') from one Assam district sheet; copy says practice varies by state."
     - "Chakradhar Buddha's 48% forest patta figure is his claim, attributed."
@@ -74,7 +74,7 @@ Each ID is tied to the farmer's Aadhaar number and linked to verified records he
 
 ## Where does it come from?
 
-**It is the centrepiece of AgriStack, part of the Digital Agriculture Mission the Union Cabinet approved on 2 September 2024.**
+**It is the centrepiece of AgriStack, part of the Digital Agriculture Mission the Union Cabinet approved on September 2, 2024.**
 
 The mission has an outlay of ₹2,817 crore, of which the Centre's share is ₹1,940 crore. AgriStack, which the government brands "Kisan ki Pehchaan", is built from three registries kept by the states: a Farmers' Registry, which issues the IDs; geo-referenced maps of every village; and a Crop Sown Registry, filled in through a seasonal digital crop survey done plot by plot on a mobile phone. A second pillar, the Krishi Decision Support System, layers satellite data on crops, soil, weather and water on top.
 
@@ -84,10 +84,10 @@ The system was tested in six pilot districts: Farrukhabad in Uttar Pradesh, Gand
 
 **Because 11 crore was the target the Centre set for the whole programme, and it has been reached early.**
 
-The original plan was 6 crore IDs in 2024-25, 3 crore in 2025-26 and 2 crore in 2026-27. The start was slow. By early 2025, replies in the Lok Sabha put the count at about 2.06 crore. In February 2026 Agriculture Minister Shivraj Singh Chouhan told the Rajya Sabha that a little over 8.47 crore had been issued. On 24 October he said the 11 crore mark had been crossed the night before, five months before the 31 March 2027 deadline. The ministry says more than 6 crore farmers have already received benefits through the ID-based system.
+The original plan was 6 crore IDs in 2024-25, 3 crore in 2025-26 and 2 crore in 2026-27. The start was slow. By early 2025, replies in the Lok Sabha put the count at about 2.06 crore. In February 2026 Agriculture Minister Shivraj Singh Chouhan told the Rajya Sabha that a little over 8.47 crore had been issued. On October 24 he said the 11 crore mark had been crossed the night before, five months before the March 31, 2027, deadline. The ministry says more than 6 crore farmers have already received benefits through the ID-based system.
 
 ```timeline
-{"title":"From approval to 11 crore IDs","items":[{"date":"2 Sep 2024","text":"Cabinet approves the ₹2,817 crore Digital Agriculture Mission"},{"date":"Early 2025","text":"About 2.06 crore Farmer IDs created, Lok Sabha told"},{"date":"Feb 2026","text":"Count passes 8.47 crore, Chouhan tells the Rajya Sabha"},{"date":"23 Oct 2026","text":"11 crore mark crossed, the minister says"},{"date":"31 Mar 2027","text":"Original deadline for the 11 crore target"}]}
+{"title":"From approval to 11 crore IDs","items":[{"date":"Sep 2, 2024","text":"Cabinet approves the ₹2,817 crore Digital Agriculture Mission"},{"date":"Early 2025","text":"About 2.06 crore Farmer IDs created, Lok Sabha told"},{"date":"Feb 2026","text":"Count passes 8.47 crore, Chouhan tells the Rajya Sabha"},{"date":"Oct 23, 2026","text":"11 crore mark crossed, the minister says"},{"date":"Mar 31, 2027","text":"Original deadline for the 11 crore target"}]}
 ```
 
 ## What will a farmer need it for?

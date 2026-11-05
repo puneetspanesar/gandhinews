@@ -22,7 +22,7 @@ hero:
     value: "AI on news: 'assistive' only"
 related: [meity-advisory-meta-recommendations-public-events]
 seo:
-  description: "The I&B ministry on 21 October told private TV channels to follow the Programme Code, limit AI to an assistive role and screen debate panellists, warning of regulatory action."
+  description: "The I&B ministry on October 21 told private TV channels to follow the Programme Code, limit AI to an assistive role and screen debate panellists, warning of regulatory action."
 sources:
   - title: "Govt warns TV channels over Programme Code violations, urges caution in AI use (IANS)"
     publisher: "Punjab Kesari (English)"

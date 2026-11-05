@@ -82,7 +82,7 @@ function ist(d: Date) {
   return { y: t.getUTCFullYear(), m: t.getUTCMonth(), d: t.getUTCDate(), h: t.getUTCHours(), min: t.getUTCMinutes(), wd: t.getUTCDay() };
 }
 
-/** "11 October 2026, 9:00 am IST" / "11 अक्टूबर 2026, सुबह 9:00 बजे" */
+/** "October 11, 2026, 9:00 am IST" / "11 अक्टूबर 2026, सुबह 9:00 बजे" (Hindi keeps its natural day-month order) */
 export function fmtDateTime(date: Date, lang: Lang) {
   const p = ist(date);
   const mm = String(p.min).padStart(2, '0');
@@ -92,23 +92,25 @@ export function fmtDateTime(date: Date, lang: Lang) {
     return `${p.d} ${MONTHS_HI[p.m]} ${p.y}, ${part} ${h12}:${mm} बजे`;
   }
   const h12 = p.h % 12 || 12;
-  return `${p.d} ${MONTHS_EN[p.m]} ${p.y}, ${h12}:${mm} ${p.h < 12 ? 'am' : 'pm'} IST`;
+  return `${MONTHS_EN[p.m]} ${p.d}, ${p.y}, ${h12}:${mm} ${p.h < 12 ? 'am' : 'pm'} IST`;
 }
-/** "11 October 2026" */
+/** "October 11, 2026" (en) / "11 अक्टूबर 2026" (hi) */
 export function fmtDate(date: Date | string, lang: Lang) {
   const d = typeof date === 'string' ? parseISOish(date) : ist(date);
   if (!d) return String(date);
   const months = lang === 'hi' ? MONTHS_HI : MONTHS_EN;
-  return d.d ? `${d.d} ${months[d.m]} ${d.y}` : `${months[d.m]} ${d.y}`;
+  if (lang === 'hi') return d.d ? `${d.d} ${months[d.m]} ${d.y}` : `${months[d.m]} ${d.y}`;
+  return d.d ? `${months[d.m]} ${d.d}, ${d.y}` : `${months[d.m]} ${d.y}`;
 }
-/** "11 Oct" style short date for tables. */
+/** "Oct 11" style short date for tables. */
 export function fmtShort(date: string | null | undefined, lang: Lang, withYear = true) {
   if (!date) return '';
   const d = parseISOish(date);
   if (!d) return date;
   const m = lang === 'hi' ? MONTHS_HI[d.m] : MONTHS_EN[d.m].slice(0, 3);
   const y = withYear ? ` ${d.y}` : '';
-  return d.d ? `${d.d} ${m}${y}` : `${m}${y}`;
+  if (lang === 'hi') return d.d ? `${d.d} ${m}${y}` : `${m}${y}`;
+  return d.d ? `${m} ${d.d}${withYear ? ',' : ''}${y}` : `${m}${y}`;
 }
 function parseISOish(s: string) {
   const m = String(s).match(/^(\d{4})-(\d{2})(?:-(\d{2}))?/);
@@ -125,7 +127,7 @@ export function monthLabel(key: string, lang: Lang) {
 }
 export function todayLine(lang: Lang, now = new Date()) {
   const p = ist(now);
-  return lang === 'hi' ? `${DAYS_HI[p.wd]}, ${p.d} ${MONTHS_HI[p.m]}` : `${DAYS_EN[p.wd]}, ${p.d} ${MONTHS_EN[p.m]}`;
+  return lang === 'hi' ? `${DAYS_HI[p.wd]}, ${p.d} ${MONTHS_HI[p.m]}` : `${DAYS_EN[p.wd]}, ${MONTHS_EN[p.m]} ${p.d}`;
 }
 export const isoDate = (d: Date | string) => (typeof d === 'string' ? d : new Date(d).toISOString().replace('.000Z', 'Z'));
 

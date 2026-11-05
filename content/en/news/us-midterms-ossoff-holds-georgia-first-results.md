@@ -56,7 +56,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: first poll closings 7 pm ET (5:30 am IST 4 Nov); Ossoff call shortly after, around 6:00 am IST. Story filed about 6:10 am IST."
+    - "event: first poll closings 7 pm ET (5:30 am IST Nov 4); Ossoff call shortly after, around 6:00 am IST. Story filed about 6:10 am IST."
     - "THIN SOURCING: the Ossoff call rests only on the CBS live page headline as shown in search results ('as Ossoff wins in Georgia'); the page itself was served from cache (last update 6:21 am ET Nov 3). The Democrats-leading line rests only on the CNN live page headline in search results; CNN, CNBC, Time pages failed to fetch. No margins, opponent name or vote counts were confirmed, so none are given. Republican opponent deliberately not named."
     - "Pre-election seat numbers, battleground list, Trump quote: CBS live page (fetched). Needs an update with full results later today."
 ---

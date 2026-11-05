@@ -12,7 +12,7 @@ location: New York
 keyPoints:
   - "The 10-year Treasury yield fell about **19 basis points to roughly 4.95%**."
   - "It was the **largest one-day drop since March 2023**, during the US regional bank crisis."
-  - "The yield closed **below 5% for the first time** since 22 September."
+  - "The yield closed **below 5% for the first time** since September 22."
 hero:
   need: "The Marriner S. Eccles Federal Reserve Board Building in Washington"
   suggested_source: "Marriner S. Eccles Federal Reserve Board Building"
@@ -22,7 +22,7 @@ hero:
     value: "10-year yield back below 5%"
 related: [us-treasury-yields-fall-weak-housing-data, global-cues-nasdaq-slumps-ai-fears-brent-113-october-23, meta-shares-sink-chip-stocks-rout-ai-spending-fears]
 seo:
-  description: "US 10-year Treasury yield falls about 19 basis points to 4.95% on 22 October 2026, biggest one-day drop since March 2023, as investors leave tech stocks; 30-year at 5.32%."
+  description: "US 10-year Treasury yield falls about 19 basis points to 4.95% on October 22, 2026, biggest one-day drop since March 2023, as investors leave tech stocks; 30-year at 5.32%."
 sources:
   - title: "Wall Street Plunges as AI Investment Anxiety Weighs; Nasdaq Drops 2.6% and Semiconductor Index Plummets 6.7%"
     publisher: "SBS News"
@@ -42,14 +42,14 @@ sources:
 verification:
   status: approved
   notes:
-    - "Close: SBS 4.952% (-19.3 bp), largest since March 2023; Yahoo ticker near 4.95%, 'biggest one-day drop in over two years'. Benzinga midday: 4.99% (-12.5 bp), first close below 5% since 22 Sept (stated at midday; final close confirms below 5%)."
+    - "Close: SBS 4.952% (-19.3 bp), largest since March 2023; Yahoo ticker near 4.95%, 'biggest one-day drop in over two years'. Benzinga midday: 4.99% (-12.5 bp), first close below 5% since Sept 22 (stated at midday; final close confirms below 5%)."
     - "2-year 4.69% and 30-year 5.32% are midday figures (Benzinga); 30-year 5.32% also in Yahoo. Written as 'during the day'."
     - "Jobless claims 194,000 from Benzinga and Yahoo."
 ---
 
 US government bond prices surged on Thursday, pushing the 10-year Treasury yield back below 5% in its sharpest one-day fall in more than three years as investors dumped technology shares and looked for safety.
 
-The yield on the benchmark 10-year note fell about 19 basis points to roughly 4.95%. That was its biggest single-day decline since March 2023, when the collapse of several regional lenders shook the US banking system, and its first close below 5% since 22 September. Yields move inversely to prices.
+The yield on the benchmark 10-year note fell about 19 basis points to roughly 4.95%. That was its biggest single-day decline since March 2023, when the collapse of several regional lenders shook the US banking system, and its first close below 5% since September 22. Yields move inversely to prices.
 
 Shorter and longer bonds rallied too. During the day the two-year yield fell to about 4.69% and the 30-year to 5.32%.
 

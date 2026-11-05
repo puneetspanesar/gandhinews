@@ -22,7 +22,7 @@ hero:
     value: "Judge steps aside in MoP case"
 related: []
 seo:
-  description: "Justice PS Narasimha recused on 2 November 2026 from Lok Prahari's PIL over the delay in finalising the Memorandum of Procedure for appointing Supreme Court and High Court judges."
+  description: "Justice PS Narasimha recused on November 2, 2026, from Lok Prahari's PIL over the delay in finalising the Memorandum of Procedure for appointing Supreme Court and High Court judges."
 sources:
   - title: "Justice PS Narasimha recuses from PIL over delay in finalising MoP for judges' appointments (PTI)"
     publisher: "ThePrint"
@@ -37,9 +37,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov ~12:35 IST, recusal by Justice Narasimha (bench with Justice Alok Aradhe). ThePrint/PTI stamped 07:15 UTC (12:45 pm IST); Bar & Bench 7:07 am, read as UTC (12:37 pm IST)."
+    - "event: Nov 2 ~12:35 IST, recusal by Justice Narasimha (bench with Justice Alok Aradhe). ThePrint/PTI stamped 07:15 UTC (12:45 pm IST); Bar & Bench 7:07 am, read as UTC (12:37 pm IST)."
     - "Petitioner spelt Lok Prahari (PTI) and Loka Prahari (Bar & Bench); used Lok Prahari. Counsel not named. No next date or new bench reported; copy says so."
-    - "History (1999 MoP, NJAC struck down 16 Oct 2015, Dec 2015 order, 2017 Goel-Lalit order recalled) from Bar & Bench background."
+    - "History (1999 MoP, NJAC struck down Oct 16, 2015, Dec 2015 order, 2017 Goel-Lalit order recalled) from Bar & Bench background."
 cover:
   template: speaker
   label: "Judges' appointments"
@@ -65,4 +65,4 @@ The NGO wants the Chief Justice of India, on the administrative side, to amend t
 
 ## A long wait
 
-The MoP was first drawn up in June 1999. After striking down the NJAC on 16 October 2015, the court in December that year left the redrafting to the Centre, and the talks stalled amid disagreements with the Collegium. In 2017 a bench of Justices AK Goel and UU Lalit said the issue "cannot linger on for indefinite period", but that order was later recalled.
+The MoP was first drawn up in June 1999. After striking down the NJAC on October 16, 2015, the court in December that year left the redrafting to the Centre, and the talks stalled amid disagreements with the Collegium. In 2017 a bench of Justices AK Goel and UU Lalit said the issue "cannot linger on for indefinite period", but that order was later recalled.

@@ -42,7 +42,7 @@ verification:
 
 Israeli Prime Minister Benjamin Netanyahu has said that he and US President Donald Trump are "committed to completing the elimination of the Iranian regime", and that the two leaders had recently discussed it.
 
-The remark, a week before Israelis vote on 27 October, follows a surprise visit to Israel by US Defence Secretary Pete Hegseth on Monday and Trump's endorsement of Netanyahu in the election on Sunday.
+The remark, a week before Israelis vote on October 27, follows a surprise visit to Israel by US Defence Secretary Pete Hegseth on Monday and Trump's endorsement of Netanyahu in the election on Sunday.
 
 Iran's President Masoud Pezeshkian set out a hard line in response to the pressure. As a precondition for any negotiation, he said, the United States must first remove all economic pressure, threats and sanctions. Iran "does not trust America", he said, adding: "if we negotiate they will attack us again."
 
@@ -52,4 +52,4 @@ Mediators insist the channel is still open. Qatar's Foreign Ministry spokesperso
 
 The diplomacy is moving on several tracks at once. Pakistan's army chief, Field Marshal Asim Munir, held talks with Pezeshkian and other Iranian leaders in Tehran on Tuesday, a day after Russia's foreign minister, Sergey Lavrov, visited.
 
-Trump has said the US will not attack Iran before the 3 November midterm elections. The US naval blockade of Iranian ports remains in place, and Iran keeps the Strait of Hormuz closed.
+Trump has said the US will not attack Iran before the November 3 midterm elections. The US naval blockade of Iranian ports remains in place, and Iran keeps the Strait of Hormuz closed.

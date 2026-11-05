@@ -30,15 +30,15 @@ infographic:
     - {icon: lock, value: "1.3 lakh", label: "people jailed in the Emergency, Nadda said"}
     - {icon: calendar, value: "1975", label: "year the Emergency was imposed"}
   timeline:
-    - {date: "30 Oct", text: "March in Indore", icon: map-pin}
-    - {date: "2 Nov", text: "March in Jabalpur", icon: map-pin}
-    - {date: "4 Nov", text: "Nadda leads march in Bhopal", icon: flag}
+    - {date: "Oct 30", text: "March in Indore", icon: map-pin}
+    - {date: "Nov 2", text: "March in Jabalpur", icon: map-pin}
+    - {date: "Nov 4", text: "Nadda leads march in Bhopal", icon: flag}
   source: "BJP march in Bhopal, November 4, 2026"
 related:
   - nitin-nabin-gorakhpur-loktantra-bachao-padyatra-yogi
   - nadda-anarchy-model-india-bloc-rally-sood-chaos
 seo:
-  description: "J P Nadda led the BJP's Loktantra Bachao, Arajakta Hatao march in Bhopal with CM Mohan Yadav on 4 November 2026, attacking Rahul Gandhi and the Congress over the vote chori charge and recalling the Emergency."
+  description: "J P Nadda led the BJP's Loktantra Bachao, Arajakta Hatao march in Bhopal with CM Mohan Yadav on November 4, 2026, attacking Rahul Gandhi and the Congress over the vote chori charge and recalling the Emergency."
 sources:
   - title: "Nadda targets Rahul Gandhi, Congress over 'Vote Chori' charge, leads BJP march in Bhopal"
     publisher: "Punjab Kesari (IANS)"
@@ -48,7 +48,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 4 Nov afternoon, Bhopal march; IANS copy posted 17:07 IST on Punjab Kesari English. Single source (IANS); published time set just before that."
+    - "event: Nov 4 afternoon, Bhopal march; IANS copy posted 17:07 IST on Punjab Kesari English. Single source (IANS); published time set just before that."
     - "Source calls Nadda 'Union Health Minister and senior BJP leader'; copy calls him BJP leader / Union Health Minister. Crowd given only as 'thousands'. March start time not stated."
     - "Quotes exact from IANS English copy; the speech was probably in Hindi, Hindi wording not found, so Hindi twin translates."
 ---
@@ -63,6 +63,6 @@ Nadda turned the Congress's charge back on the party. "Today, Rahul Gandhi and t
 
 He reached back to 1975, when Prime Minister Indira Gandhi imposed the Emergency. "During the Emergency, 1.3 lakh people were put in jail without being given an opportunity to defend themselves," he said. Nadda told the crowd he had himself been **taken from his classroom to a police station twice** in that period, and said whole families had been arrested.
 
-The Bhopal walk was the BJP's **third such march in the state**, after Indore on 30 October and Jabalpur on 2 November. The party has been staging them across states in reply to the INDIA bloc's campaign over alleged irregularities in voter lists and the Special Intensive Revision (SIR) of electoral rolls.
+The Bhopal walk was the BJP's **third such march in the state**, after Indore on October 30 and Jabalpur on November 2. The party has been staging them across states in reply to the INDIA bloc's campaign over alleged irregularities in voter lists and the Special Intensive Revision (SIR) of electoral rolls.
 
 The Congress has alleged irregularities in the voter lists. The BJP says the opposition is **doubting democratic institutions without proof**.

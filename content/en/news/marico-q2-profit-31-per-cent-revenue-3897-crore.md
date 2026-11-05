@@ -57,11 +57,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov about 15:40 IST, Marico Q2 results filed (Whalesbook 15:42 IST; Upstox live blog entries 15:47 and 15:50 IST)."
+    - "event: Nov 2 about 15:40 IST, Marico Q2 results filed (Whalesbook 15:42 IST; Upstox live blog entries 15:47 and 15:50 IST)."
     - "Profit: InvestyWise and Upstox give PAT Rs 550 cr (+31%, from Rs 420 cr per Upstox); Whalesbook gives net profit Rs 558 cr vs Rs 432 cr, likely total profit including minority interest. Copy uses Rs 550 cr."
     - "Revenue Rs 3,897 cr vs Rs 3,450 cr (all three). Whalesbook notes some ad and promotion spend now reclassified as a revenue reduction, with no effect on profit; whether prior year restated is not stated."
     - "Segment, brand, margin and country figures from InvestyWise only (citing BSE filing). No management quote found; none used. Share price reaction after results not found. Zee Business report (says revenue missed estimates) could not be fetched; estimate comparison left out."
-    - "Rajan Bharti Mittal appointed Lead Independent Director from 2 Nov (Whalesbook)."
+    - "Rajan Bharti Mittal appointed Lead Independent Director from Nov 2 (Whalesbook)."
 ---
 
 Marico, the maker of Parachute coconut oil and Saffola edible oils, on Monday reported a **31% rise in September-quarter profit** to ₹550 crore, as volumes in its home market grew at a double-digit pace.
@@ -83,5 +83,5 @@ Operating profit (EBITDA) rose 27% to ₹709 crore, and the **EBITDA margin rose
 The board also named Rajan Bharti Mittal as lead independent director from Monday.
 
 ```photo
-{"n":2,"subject":"Rajan Bharti Mittal","caption":"Rajan Bharti Mittal, named Marico's lead independent director from 2 November.","alt":"Rajan Bharti Mittal (file photo)"}
+{"n":2,"subject":"Rajan Bharti Mittal","caption":"Rajan Bharti Mittal, named Marico's lead independent director from November 2.","alt":"Rajan Bharti Mittal (file photo)"}
 ```

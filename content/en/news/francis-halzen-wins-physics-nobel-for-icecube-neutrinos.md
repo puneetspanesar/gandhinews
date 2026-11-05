@@ -57,7 +57,7 @@ verification:
   notes:
     - "nobelprize.org (summary and press release) could not be fetched. The full citation is from the AIP release; Physics World and IceCube give the opening words only, and they match."
     - "Halzen's first reaction: AP (via PBS) has 'It was a great surprise, and I obviously didn't expect it'; Physics World has 'It was a great surprise and I didn't expect it.' AP wording used."
-    - "PBS/AP page text says 'Tuesday, October 5'; the Tuesday was 6 October, which UW–Madison, IceCube and AIP all give. 6 October used."
+    - "PBS/AP page text says 'Tuesday, October 5'; the Tuesday was October 6, which UW–Madison, IceCube and AIP all give. October 6 used."
     - "Depth: UW–Madison says 'almost a mile of ice'; AIP says 2 km beneath the ice. Neither figure used; the story says 'deep in the ice'."
     - "Blazar date: UW–Madison dates the neutrino to September 2017; Physics World dates the link to TXS 0506+056 to 2018 (when the results were published). Timeline says 2018 with the 2017 detection mentioned."
     - "Construction 'about six years' and the $279 million cost are from AIP only."
@@ -65,7 +65,7 @@ verification:
     - "IceCube-Gen2 '8 times the volume' is from the IceCube release. First science data from the 2025–26 upgrade 'expected later in 2026' is from the same release."
 ---
 
-Francis Halzen, a Belgian-born physicist who spent decades turning a block of Antarctic ice into a telescope, has won the 2026 Nobel Prize in Physics. The Royal Swedish Academy of Sciences announced on 6 October that Halzen, 82, of the University of Wisconsin–Madison, is honoured "for decisive contributions to the IceCube Neutrino Observatory and the discovery of high-energy neutrinos of astrophysical origin".
+Francis Halzen, a Belgian-born physicist who spent decades turning a block of Antarctic ice into a telescope, has won the 2026 Nobel Prize in Physics. The Royal Swedish Academy of Sciences announced on October 6 that Halzen, 82, of the University of Wisconsin–Madison, is honoured "for decisive contributions to the IceCube Neutrino Observatory and the discovery of high-energy neutrinos of astrophysical origin".
 
 He is the first person to win the physics prize alone since Georges Charpak in 1992. "It was a great surprise, and I obviously didn't expect it," Halzen said, speaking to the committee by phone from Italy.
 
@@ -84,7 +84,7 @@ When a neutrino does strike the nucleus of an atom in the ice, it produces charg
 In 2013, two years after full operations began, IceCube reported 28 neutrinos, each with an energy of at least 30 teraelectronvolts. They were the first high-energy neutrinos detected from beyond the solar system. Since then the team has traced some of them to their sources: a blazar, a galaxy powered by a supermassive black hole at its centre, about 4 billion light-years away; the active galaxy NGC 1068; and our own Milky Way.
 
 ```timeline
-{"title":"IceCube, from idea to Nobel","items":[{"date":"1988","text":"Halzen and a colleague propose using South Pole ice to detect neutrinos."},{"date":"Dec 2010","text":"IceCube completed: 5,160 sensors on 86 strings."},{"date":"2013","text":"First high-energy neutrinos from beyond the solar system: 28 events."},{"date":"2018","text":"A neutrino caught in September 2017 is linked to the blazar TXS 0506+056."},{"date":"2022","text":"Galaxy NGC 1068, 47 million light-years away, identified as a source."},{"date":"2023","text":"The Milky Way shown to emit high-energy neutrinos."},{"date":"6 Oct 2026","text":"Halzen wins the Nobel Prize in Physics."}]}
+{"title":"IceCube, from idea to Nobel","items":[{"date":"1988","text":"Halzen and a colleague propose using South Pole ice to detect neutrinos."},{"date":"Dec 2010","text":"IceCube completed: 5,160 sensors on 86 strings."},{"date":"2013","text":"First high-energy neutrinos from beyond the solar system: 28 events."},{"date":"2018","text":"A neutrino caught in September 2017 is linked to the blazar TXS 0506+056."},{"date":"2022","text":"Galaxy NGC 1068, 47 million light-years away, identified as a source."},{"date":"2023","text":"The Milky Way shown to emit high-energy neutrinos."},{"date":"Oct 6, 2026","text":"Halzen wins the Nobel Prize in Physics."}]}
 ```
 
 "This experiment in the Antarctic is a revolutionary way of understanding the universe that we didn't have before," said Michael Moloney, chief executive of the American Institute of Physics.
@@ -95,10 +95,10 @@ IceCube cost about $279 million. It is run by the University of Wisconsin–Madi
 
 > It's a great relief for me to finally deliver the recognition that this great collaboration deserves.
 >
-> Source: Francis Halzen, University of Wisconsin–Madison, 6 October 2026
+> Source: Francis Halzen, University of Wisconsin–Madison, October 6, 2026
 
 ## What comes next
 
 Earlier this year the team added more than 600 new sensors in five fresh holes near the centre of the detector, and the first science data from that upgrade is expected later in 2026. Scientists have also proposed IceCube-Gen2, with an optical array eight times the size. Halzen joked to the audience that he was "working on a proposal" and hoped the prize would help get it approved.
 
-The prize is worth 12 million Swedish kronor and will be presented in Stockholm on 10 December.
+The prize is worth 12 million Swedish kronor and will be presented in Stockholm on December 10.

@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Event held Thursday 22 Oct in Najafgarh area (DD India preview; Tribune report). Exact hour not given; published time set at 6:30 pm."
+    - "Event held Thursday, Oct 22 in Najafgarh area (DD India preview; Tribune report). Exact hour not given; published time set at 6:30 pm."
     - "No verbatim quotes available from Shah, Gupta or Verma; all paraphrased. Rekha Gupta present per Tribune photo caption only."
     - "Project figures agree across Tribune, Asianet and DD India. DD India gives 3.63 million residents for DSTPs vs 36.29 lakh in Tribune/Asianet: used 36 lakh."
 ---
@@ -63,8 +63,8 @@ There is also a 477 million litres a day water treatment plant at Chandrawal, co
 
 Delhi Water Minister Parvesh Sahib Singh has argued that cleaning the riverbanks alone cannot bring the Yamuna back, and that the aim must be to collect, treat and reuse every drop of sewage before it reaches the river. He has said the works should be finished in two to two and a half years, with visible improvement in about a year and a half.
 
-The launch came four days after the "Chalo Yamuna" drive on 18 October, when more than 35,000 people cleared about 76,755 kg of dry waste from 70 spots along the river, from Wazirabad to Chilla.
+The launch came four days after the "Chalo Yamuna" drive on October 18, when more than 35,000 people cleared about 76,755 kg of dry waste from 70 spots along the river, from Wazirabad to Chilla.
 
-Singh has also announced a "Birthday with Yamuna" scheme, under which huts will be put up on the banks for people to celebrate birthdays by the river. He said he would mark his own there on 7 November.
+Singh has also announced a "Birthday with Yamuna" scheme, under which huts will be put up on the banks for people to celebrate birthdays by the river. He said he would mark his own there on November 7.
 
 The Yamuna has been the subject of repeated cleaning promises by successive governments in Delhi and at the Centre. The test for this package will be whether the plants are finished on time and run at full capacity once they are.

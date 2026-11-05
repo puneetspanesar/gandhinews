@@ -22,7 +22,7 @@ hero:
     value: "Stay, or start the exit?"
 related: [carney-urges-albertans-to-stay-united-before-vote, wainwright-base-fire-kills-four-soldiers-alberta-votes]
 seo:
-  description: "Alberta votes on Monday 19 October on whether to remain in Canada or begin the legal process towards a binding separation referendum, plus nine other questions."
+  description: "Alberta votes on Monday, October 19 on whether to remain in Canada or begin the legal process towards a binding separation referendum, plus nine other questions."
 sources:
   - title: "Vote like Canada depends on it, PM Carney tells Alberta referendum rally"
     publisher: "CP24 (The Canadian Press)"
@@ -42,8 +42,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Voting takes place on Monday 19 October local time, which is Monday evening and Tuesday morning in India; results not yet known. Exact poll hours not confirmed, so left out."
-    - "Abacus Data poll (4-7 September, 1,000 respondents) taken from Wikipedia summary only; hedged as 'a September poll'."
+    - "Voting takes place on Monday, October 19 local time, which is Monday evening and Tuesday morning in India; results not yet known. Exact poll hours not confirmed, so left out."
+    - "Abacus Data poll (September 4-7, 1,000 respondents) taken from Wikipedia summary only; hedged as 'a September poll'."
     - "Advance-vote figures from Elections Alberta spokesperson Michelle Gurney via CTV/Reuters."
 ---
 

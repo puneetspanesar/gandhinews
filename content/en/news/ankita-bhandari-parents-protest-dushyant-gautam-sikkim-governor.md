@@ -36,9 +36,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "The Statesman says the protest was 'on Monday'; The Tribune and both datelines say Wednesday 14 Oct. Wednesday used."
+    - "The Statesman says the protest was 'on Monday'; The Tribune and both datelines say Wednesday, Oct 14. Wednesday used."
     - "Mother's name Soni Devi and father's name Virendra Singh Bhandari from The Statesman only."
-    - "Body recovery date conflicts (Tribune: four days after 18 Sept, i.e. 22 Sept; Statesman: 24 Sept 2022). Left out."
+    - "Body recovery date conflicts (Tribune: four days after Sept 18, i.e. Sept 22; Statesman: Sept 24, 2022). Left out."
     - "Mother's quotes: Tribune ('should not be appointed governor until the CBI investigation is complete') and Statesman ('deeply pained ... on the 12th'). Father's 'behind bars' from Statesman."
     - "No BJP or Gautam statement on the protest found; his denial and defamation proceedings are background from both reports."
 ---
@@ -49,7 +49,7 @@ Rahul Gandhi, the Leader of the Opposition in the Lok Sabha, and Congress MP Pri
 
 "Dushyant Gautam should not be appointed governor until the CBI investigation is complete," said Ankita's mother, Soni Devi, breaking down as she spoke. "We were deeply pained when we heard the news on the 12th," she said, referring to the day the appointment was announced. Her husband, Virendra Singh Bhandari, appealed to President Droupadi Murmu to hold back the appointment. "Dushyant Kumar should be behind bars," he said.
 
-Ankita worked at the Vanantra Resort near Rishikesh and was killed on 18 September 2022. The resort's owner, Pulkit Arya, son of former BJP leader Vinod Arya, and two staff members were convicted and sentenced to life imprisonment in May 2025. Her family and activists have long alleged that an unnamed "VIP" was linked to the crime, and Gautam's name has repeatedly come up. The allegations against him are unproven. He has denied them and has started defamation proceedings against those making them. The CBI is now investigating.
+Ankita worked at the Vanantra Resort near Rishikesh and was killed on September 18, 2022. The resort's owner, Pulkit Arya, son of former BJP leader Vinod Arya, and two staff members were convicted and sentenced to life imprisonment in May 2025. Her family and activists have long alleged that an unnamed "VIP" was linked to the crime, and Gautam's name has repeatedly come up. The allegations against him are unproven. He has denied them and has started defamation proceedings against those making them. The CBI is now investigating.
 
 "Ankita's family is crying for justice, while the BJP is rewarding the very man facing allegations in her case," the Congress said on X.
 

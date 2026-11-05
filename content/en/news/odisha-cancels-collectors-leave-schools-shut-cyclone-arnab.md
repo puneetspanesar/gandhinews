@@ -11,7 +11,7 @@ published: 2026-10-24T22:50:00+05:30
 location: Bhubaneswar
 keyPoints:
   - "All district collectors and key officials have had their **leave cancelled** and must return to headquarters."
-  - "Schools and anganwadi centres in five southern districts will stay **shut on 28 and 29 October**."
+  - "Schools and anganwadi centres in five southern districts will stay **shut on October 28 and 29**."
   - "Mohan Charan Majhi said the government's goal was **\"Zero casualties\"**."
 hero:
   need: "Odisha Chief Minister Mohan Charan Majhi"
@@ -22,7 +22,7 @@ hero:
     value: "Target: zero casualties"
 related: [cyclone-arnab-depression-odisha-majhi-zero-casualties-andhra-landfall, bay-of-bengal-depression-october-25-odisha-fishermen-warning]
 seo:
-  description: "Odisha cancelled leave of all district collectors and ordered schools and anganwadis in Ganjam, Gajapati, Rayagada, Koraput and Malkangiri shut on 28-29 October."
+  description: "Odisha cancelled leave of all district collectors and ordered schools and anganwadis in Ganjam, Gajapati, Rayagada, Koraput and Malkangiri shut on October 28-29."
 sources:
   - title: "Cyclone 'Arnab': Depression forms over Bay of Bengal, likely to cross Andhra coast as very severe cyclonic storm"
     publisher: "Sambad English"
@@ -49,7 +49,7 @@ verification:
 
 Odisha has cancelled the leave of all its district collectors and ordered schools in five southern districts to close as the state prepares for Cyclone Arnab, which is forecast to strike the coast on Wednesday.
 
-Collectors, district magistrates and other key officials have been told to return to their headquarters at the earliest so that they are in place for any emergency. Schools and anganwadi centres in Ganjam, Gajapati, Rayagada, Koraput and Malkangiri, the districts expected to bear the brunt of the rain, will stay shut on 28 and 29 October. Collectors may extend the closure if needed.
+Collectors, district magistrates and other key officials have been told to return to their headquarters at the earliest so that they are in place for any emergency. Schools and anganwadi centres in Ganjam, Gajapati, Rayagada, Koraput and Malkangiri, the districts expected to bear the brunt of the rain, will stay shut on October 28 and 29. Collectors may extend the closure if needed.
 
 The decisions followed a review meeting chaired by Chief Minister Mohan Charan Majhi in Bhubaneswar on Saturday evening.
 
@@ -57,6 +57,6 @@ The decisions followed a review meeting chaired by Chief Minister Mohan Charan M
 
 "As always, our primary objective remains the same: Zero casualties," he said.
 
-The weather system was a depression over the Bay of Bengal at 5:30 pm on Saturday. The India Meteorological Department expects it to become a cyclonic storm by Monday morning and to cross the Andhra Pradesh coast between Bapatla and Visakhapatnam as a very severe cyclonic storm on the forenoon of 28 October. Majhi said landfall was expected that afternoon, somewhere between northern Andhra Pradesh and southern Odisha.
+The weather system was a depression over the Bay of Bengal at 5:30 pm on Saturday. The India Meteorological Department expects it to become a cyclonic storm by Monday morning and to cross the Andhra Pradesh coast between Bapatla and Visakhapatnam as a very severe cyclonic storm on the forenoon of October 28. Majhi said landfall was expected that afternoon, somewhere between northern Andhra Pradesh and southern Odisha.
 
-The five districts where schools will close are under a red warning for extremely heavy rain on 28 October, and the IMD has warned of possible landslides in the hilly south. Fishermen have been told to stay off the sea until 28 October.
+The five districts where schools will close are under a red warning for extremely heavy rain on October 28, and the IMD has warned of possible landslides in the hilly south. Fishermen have been told to stay off the sea until October 28.

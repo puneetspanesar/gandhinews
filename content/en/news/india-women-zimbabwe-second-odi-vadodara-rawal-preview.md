@@ -12,7 +12,7 @@ location: Vadodara
 keyPoints:
   - "Pratika Rawal made an **unbeaten 100 off 96 balls** as India won the first ODI by nine wickets."
   - "Shree Charani's **four for 23** helped bowl Zimbabwe out for 197."
-  - "The **second ODI is on Sunday, 25 October** at the BCA Stadium in Kotambi."
+  - "The **second ODI is on Sunday, October 25** at the BCA Stadium in Kotambi."
 hero:
   need: "Pratika Rawal batting for India women"
   suggested_source: "Pratika Rawal"
@@ -22,7 +22,7 @@ hero:
     value: "200 for 1 in 27.1 overs"
 related: [harmanpreet-91-india-women-sweep-zimbabwe-92-runs, india-women-beat-zimbabwe-nine-wickets-seal-series-shafali-mandhana]
 seo:
-  description: "India women beat Zimbabwe by nine wickets in the first ODI at Kotambi behind Pratika Rawal's unbeaten 100; the second ODI is on Sunday, 25 October."
+  description: "India women beat Zimbabwe by nine wickets in the first ODI at Kotambi behind Pratika Rawal's unbeaten 100; the second ODI is on Sunday, October 25."
 sources:
   - title: "Pratika Rawal and Shafali Verma Star as India Women Beat Zimbabwe Women by 9 Wickets"
     publisher: "Sports Digest"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (Sports Digest, 23 Oct). Match date taken as 23 Oct (published that day, 2 pm IST start). Second ODI date 25 Oct from same report; start time for Sunday not given, so not stated. India captain not named in the report, so not named here."
+    - "Single source (Sports Digest, Oct 23). Match date taken as Oct 23 (published that day, 2 pm IST start). Second ODI date Oct 25 from same report; start time for Sunday not given, so not stated. India captain not named in the report, so not named here."
     - "Number of matches in ODI series not given; written as 'series' without a count."
 ---
 

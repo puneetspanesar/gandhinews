@@ -22,7 +22,7 @@ hero:
     value: "Europe's cost-of-living anger spills over"
 related: [france-protests-550000-limoges-city-hall-fire-macron, albania-police-rubber-bullets-rama-protests-fifth-day]
 seo:
-  description: "Cost-of-living protests turned violent in Milan, Bologna, Brussels and Liège on 17 October 2026; Giorgia Meloni called rioters thugs as Lisbon saw a peaceful CGTP march."
+  description: "Cost-of-living protests turned violent in Milan, Bologna, Brussels and Liège on October 17, 2026; Giorgia Meloni called rioters thugs as Lisbon saw a peaceful CGTP march."
 verification:
   status: approved
   notes:

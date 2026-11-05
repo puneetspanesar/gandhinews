@@ -22,7 +22,7 @@ hero:
     value: "AQI 223, Jahangirpuri at 305"
 related: [delhi-aqi-226-second-poor-day-caqm-dust-review-mcd, delhi-grap-stage-one-aqi-245-season-first-poor-day, delhi-aqi-233-poor-very-poor-forecast-thursday, delhi-air-set-to-turn-poor-stubble-fires-dry-week]
 seo:
-  description: "Delhi's AQI was 223 (poor) in the CPCB 4 pm bulletin on 22 October 2026, with Jahangirpuri at 305 (very poor) and GRAP Stage I curbs in force."
+  description: "Delhi's AQI was 223 (poor) in the CPCB 4 pm bulletin on October 22, 2026, with Jahangirpuri at 305 (very poor) and GRAP Stage I curbs in force."
 sources:
   - title: "Delhi records AQI of 223, three Haryana locations in poor category"
     publisher: "UNI"
@@ -52,7 +52,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "AQI 223 (PM2.5 and PM10 prominent) and Haryana figures from UNI's report on the CPCB bulletin (published 6:17 pm); 223 and the station counts (29 poor, 1 very poor, rest moderate of 54) and Jahangirpuri 305 at 7 pm from India.com (8:08 pm). CPCB's own bulletin page could not be loaded with the 22 Oct data (served an old cached bulletin)."
+    - "AQI 223 (PM2.5 and PM10 prominent) and Haryana figures from UNI's report on the CPCB bulletin (published 6:17 pm); 223 and the station counts (29 poor, 1 very poor, rest moderate of 54) and Jahangirpuri 305 at 7 pm from India.com (8:08 pm). CPCB's own bulletin page could not be loaded with the Oct 22 data (served an old cached bulletin)."
     - "No overnight or Friday-morning CPCB reading could be found before filing; none is given. No fresh 2026 Punjab or Haryana stubble-fire count could be confirmed (search results returned 2025 PPCB figures), so stubble numbers are left out."
     - "Morning station figures (Jahangirpuri 309, Chandni Chowk 307, ITO 280, AIIMS 276) from The Statesman and India TV; minimum 19.7°C from PTI via ThePrint."
 ---
@@ -73,6 +73,6 @@ The neighbouring towns fared little better. In Haryana, Manesar was the worst of
 
 Stage I of the Graded Response Action Plan has applied across Delhi and the National Capital Region since Wednesday. It means stricter dust control at building sites and on roads, mechanised sweeping and water sprinkling, a ban on coal and firewood in the tandoors of hotels, restaurants and open eateries, and limits on diesel generators. Schools and offices are not affected. The Delhi Metro added 20 weekday train trips from Thursday.
 
-Tougher rules from the Delhi government's winter plan are due from 1 November. Vehicles without a valid pollution under control (PUC) certificate are to be refused fuel at designated pumps, and out-of-state vehicles that do not meet BS-VI norms face entry limits, with exemptions. "Please do not come to Delhi without a valid PUC certificate," Environment Minister Manjinder Singh Sirsa said in a government statement.
+Tougher rules from the Delhi government's winter plan are due from November 1. Vehicles without a valid pollution under control (PUC) certificate are to be refused fuel at designated pumps, and out-of-state vehicles that do not meet BS-VI norms face entry limits, with exemptions. "Please do not come to Delhi without a valid PUC certificate," Environment Minister Manjinder Singh Sirsa said in a government statement.
 
 The authorities will review pollution levels and the weather before deciding whether the next stage of GRAP restrictions is needed.

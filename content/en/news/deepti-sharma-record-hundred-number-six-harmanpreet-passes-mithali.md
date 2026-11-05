@@ -65,4 +65,4 @@ Earlier, Harmanpreet and Pratika Rawal had put on 124 for the third wicket after
 
 Vaishnavi Sharma, playing only her second ODI after coming in for the rested Kranti Goud, took 4 for 39. It was her first four-wicket haul in international cricket and broke Zimbabwe's middle order.
 
-India lead the three-match series 2-0. The final game is in Vadodara on Wednesday, 28 October.
+India lead the three-match series 2-0. The final game is in Vadodara on Wednesday, October 28.

@@ -31,8 +31,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (PTI via ThePrint, filed 11:45 pm IST 13 Oct). Vote averages are approximate as given by PTI; exact margins not reported."
-    - "Date of polling and counting not given; result reported late on 13 Oct."
+    - "Single source (PTI via ThePrint, filed 11:45 pm IST Oct 13). Vote averages are approximate as given by PTI; exact margins not reported."
+    - "Date of polling and counting not given; result reported late on Oct 13."
     - "Ajit Pawar's death described by PTI as context; date not given, not stated in copy."
 ---
 

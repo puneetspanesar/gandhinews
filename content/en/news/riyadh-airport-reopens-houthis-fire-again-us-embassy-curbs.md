@@ -12,7 +12,7 @@ location: Riyadh
 keyPoints:
   - "King Khalid International Airport reopened **Terminals 1 and 2** on Sunday after a two-week shutdown."
   - "Saudi forces said they downed a missile and a drone over Riyadh and **10 ballistic missiles** aimed at the south."
-  - "Air India and Air India Express have suspended Riyadh flights **until 7 November**."
+  - "Air India and Air India Express have suspended Riyadh flights **until November 7**."
 hero:
   need: "King Khalid International Airport, Riyadh: terminal exterior or departures hall"
   suggested_source: "King Khalid International Airport"
@@ -22,7 +22,7 @@ hero:
     value: "Doors open, skies still not safe"
 related: [air-india-suspends-riyadh-dammam-flights-november-7, hyderabad-man-killed-riyadh-airport-strike-envoy-attends-funeral, saudi-arabia-vows-serious-response-riyadh-airport-stays-shut, indian-embassy-riyadh-advisory-shelter-indoors-drones, saudi-intercepts-houthi-missiles-riyadh-khamis-mushait]
 seo:
-  description: "Riyadh's King Khalid airport reopened two terminals on 25 October after a two-week closure as Houthis fired more missiles; Air India stays off Riyadh until 7 November."
+  description: "Riyadh's King Khalid airport reopened two terminals on October 25 after a two-week closure as Houthis fired more missiles; Air India stays off Riyadh until November 7."
 sources:
   - title: "Iran says messages are still being passed to the US amid war concerns, and other Mideast news (AP)"
     publisher: "Walla Walla Union-Bulletin"
@@ -68,7 +68,7 @@ verification:
     - "Houthi claim: Yahya Saree via CBS (2:56 pm ET, about 12:26 am IST Monday), 'three military operations with dozens of ballistic missiles'; Houthi response to 'Saudi aggression' against Sanaa: AP. Not independently verified."
     - "Death toll of the early-October airport strikes differs: AP 17 killed, 330+ wounded; AFP via CBS 13 killed including one American, 300+ wounded. Copy says 'more than a dozen'."
     - "US embassy restrictions: The National. Dakar 2027: Pakistan Today."
-    - "Indian airline suspensions from the ANI report used in air-india-suspends-riyadh-dammam-flights-november-7 (24 Oct). No new Indian airline announcement found for 25 Oct."
+    - "Indian airline suspensions from the ANI report used in air-india-suspends-riyadh-dammam-flights-november-7 (Oct 24). No new Indian airline announcement found for Oct 25."
 ---
 
 Riyadh's main airport reopened on Sunday after two weeks of closure, but the Houthi missiles and drones that shut it down were still in the sky as the first passengers returned.
@@ -93,6 +93,6 @@ The war is also costing Saudi Arabia its big events. Organisers said the 2027 Da
 
 ## Indian flights stay grounded
 
-For the large Indian community in Saudi Arabia, and the Umrah pilgrims who have been stuck there, the reopening does not yet mean a way home. Air India and Air India Express said on Saturday that they would not fly to Riyadh or Dammam until 7 November, and Jeddah until 31 October. IndiGo has dropped Riyadh until the end of the month, and Akasa Air has suspended Riyadh until 30 November.
+For the large Indian community in Saudi Arabia, and the Umrah pilgrims who have been stuck there, the reopening does not yet mean a way home. Air India and Air India Express said on Saturday that they would not fly to Riyadh or Dammam until November 7, and Jeddah until October 31. IndiGo has dropped Riyadh until the end of the month, and Akasa Air has suspended Riyadh until November 30.
 
 Indian carriers had not announced any change to those plans by early Monday.

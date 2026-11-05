@@ -21,7 +21,7 @@ hero:
     value: "Scholarship money under audit"
 related: [parliamentary-committees-jpc-standing-select-explained, finance-panel-hears-mospi-indian-statistical-institute-bill]
 seo:
-  description: "Parliament's Public Accounts Committee was set to examine SC pre-matric and post-matric scholarship schemes on 15 October, based on CAG Report No. 36 of 2025."
+  description: "Parliament's Public Accounts Committee was set to examine SC pre-matric and post-matric scholarship schemes on October 15, based on CAG Report No. 36 of 2025."
 sources:
   - title: "Schedule for Standing committee"
     publisher: "PRS Legislative Research"

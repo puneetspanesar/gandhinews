@@ -22,7 +22,7 @@ hero:
     value: "Crimea in the dark"
 related: [melania-trump-oleshky-ceasefire-october-27-white-house, pope-leo-zelenskyy-call-oleshky-ceasefire]
 seo:
-  description: "A blackout hit all of occupied Crimea and two were injured in Kyiv as Russia and Ukraine traded drone strikes overnight on 24 October, despite the Oleshky truce deal."
+  description: "A blackout hit all of occupied Crimea and two were injured in Kyiv as Russia and Ukraine traded drone strikes overnight on October 24, despite the Oleshky truce deal."
 sources:
   - title: "Large-scale blackout hits Crimea after drone attack"
     publisher: "Ukrinform"
@@ -54,9 +54,9 @@ verification:
   notes:
     - "Crimea blackout: Ukrinform citing Exilenova+ and Crimean Wind Telegram channels; Razvozhayev confirmed outage in Sevastopol and blamed damage to energy facilities outside the city. Cause of the blackout not officially confirmed; copy does not attribute it to a specific strike."
     - "Tolyatti: Ukrinform citing ASTRA; nobody has claimed the attack; copy says drones hit, without naming who launched them."
-    - "Oleshky truce start date conflicts: Moscow and Kyiv said early hours of Tuesday, an earlier White House statement said Thursday (Anadolu); Tribune summary mentions 29 October. Copy says 'next week'."
+    - "Oleshky truce start date conflicts: Moscow and Kyiv said early hours of Tuesday, an earlier White House statement said Thursday (Anadolu); Tribune summary mentions October 29. Copy says 'next week'."
     - "Russian claim of 616 drones is the Russian defence ministry's own figure, not independently confirmed."
-    - "Kramatorsk glide bomb strike was on Friday 23 Oct (Donetsk prosecutor via Kyiv Post)."
+    - "Kramatorsk glide bomb strike was on Friday, Oct 23 (Donetsk prosecutor via Kyiv Post)."
 ---
 
 Electricity went out across the whole of Russian-occupied Crimea in the early hours of Saturday, as Russia and Ukraine traded overnight drone strikes only a day after agreeing to a local ceasefire in the southern town of Oleshky.
@@ -81,7 +81,7 @@ Russia's defence ministry said its air defences destroyed 616 Ukrainian drones o
 
 In the Rostov region, Governor Yury Slyusar said falling drone debris damaged a municipal transport depot in the regional capital and a substation in Kalinin, cutting power to more than 170 homes. One person was hurt.
 
-Deep inside Russia, drones hit the Tolyattikauchuk plant in Tolyatti, in the Samara region, and set it on fire, according to local Telegram channels and footage analysed by independent monitors. The plant, owned by the Tatneft group, makes synthetic rubber used in solid rocket fuel. It was struck once before, on 12 June.
+Deep inside Russia, drones hit the Tolyattikauchuk plant in Tolyatti, in the Samara region, and set it on fire, according to local Telegram channels and footage analysed by independent monitors. The plant, owned by the Tatneft group, makes synthetic rubber used in solid rocket fuel. It was struck once before, on June 12.
 
 ## A truce for one town
 

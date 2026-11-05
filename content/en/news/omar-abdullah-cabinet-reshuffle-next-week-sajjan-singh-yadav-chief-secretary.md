@@ -12,7 +12,7 @@ location: Srinagar
 keyPoints:
   - "Omar Abdullah said he will expand and reshuffle his council of ministers **in the first two or three days of next week**."
   - "He told colleagues the choice of ministers **has already been made** and asked them to stop sending WhatsApp messages."
-  - "The MHA has named **Dr Sajjan Singh Yadav** chief secretary from 1 November, after Atal Dulloo retires."
+  - "The MHA has named **Dr Sajjan Singh Yadav** chief secretary from November 1, after Atal Dulloo retires."
 hero:
   need: "Chief Minister Omar Abdullah speaking to reporters in Srinagar, ideally with Lieutenant Governor Manoj Sinha in a split"
   suggested_source: "Omar Abdullah"
@@ -22,7 +22,7 @@ hero:
     value: "The list is made, stop lobbying"
 related: [jk-circular-economy-policy-2026-omar-abdullah, mea-3000-umrah-pilgrims-return-medicines-iran-flights, mea-chinese-patrol-deviations-lac-itbp-face-offs-arunachal]
 seo:
-  description: "Omar Abdullah says he will expand and reshuffle the J&K council of ministers early next week. Dr Sajjan Singh Yadav will take over as chief secretary from 1 November."
+  description: "Omar Abdullah says he will expand and reshuffle the J&K council of ministers early next week. Dr Sajjan Singh Yadav will take over as chief secretary from November 1."
 sources:
   - title: "J&K Cabinet Reshuffle Next Week, Says Omar Abdullah; UT Gets New Chief Secretary"
     publisher: "ETV Bharat"
@@ -32,9 +32,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: ETV Bharat, 2:49 pm IST, 24 Oct. Omar met LG Sinha at Lok Bhawan on Saturday morning, then spoke to reporters in Srinagar."
+    - "Single source: ETV Bharat, 2:49 pm IST, Oct 24. Omar met LG Sinha at Lok Bhawan on Saturday morning, then spoke to reporters in Srinagar."
     - "Quotes verbatim from ETV Bharat. Number of new ministers and names not given by Omar; not speculated."
-    - "MHA order quote verbatim as reported; Yadav takes charge 1 Nov or date of joining, whichever is later. His current Delhi posting not specified beyond 'from Delhi'."
+    - "MHA order quote verbatim as reported; Yadav takes charge Nov 1 or date of joining, whichever is later. His current Delhi posting not specified beyond 'from Delhi'."
     - "Saudi pilgrims: Omar's quote verbatim; number of J&K pilgrims stranded not given."
 ---
 
@@ -44,7 +44,7 @@ He spoke to reporters in Srinagar after meeting Lieutenant Governor Manoj Sinha 
 
 "I will carry out the expansion and certain changes in my Council of Ministers," he said.
 
-The same day, the Union Ministry of Home Affairs named a new chief secretary for the Union Territory. Dr Sajjan Singh Yadav, a 1995-batch IAS officer of the AGMUT cadre, will succeed Atal Dulloo, who retires on 31 October.
+The same day, the Union Ministry of Home Affairs named a new chief secretary for the Union Territory. Dr Sajjan Singh Yadav, a 1995-batch IAS officer of the AGMUT cadre, will succeed Atal Dulloo, who retires on October 31.
 
 ## "Please stop sending WhatsApp messages"
 
@@ -56,7 +56,7 @@ He also said he had asked after the Lieutenant Governor's health, which he said 
 
 ## A new chief secretary
 
-The home ministry's order said: "Dr Sajjan Singh Yadav is hereby transferred from Delhi to Jammu and Kashmir as chief secretary." He will take charge on 1 November or on the date he joins, whichever is later.
+The home ministry's order said: "Dr Sajjan Singh Yadav is hereby transferred from Delhi to Jammu and Kashmir as chief secretary." He will take charge on November 1 or on the date he joins, whichever is later.
 
 Dulloo, a 1989-batch IAS officer, retires at the end of the month, so the change at the top of the administration will come within days of the cabinet changes.
 
@@ -68,4 +68,4 @@ He declined to comment on reports of Chinese patrolling along the Line of Actual
 
 ## What happens next
 
-The expansion now waits on the Lieutenant Governor's date. Once the swearing-in is fixed, the new ministers will take office days before Yadav takes over the administration on 1 November.
+The expansion now waits on the Lieutenant Governor's date. Once the swearing-in is fixed, the new ministers will take office days before Yadav takes over the administration on November 1.

@@ -32,12 +32,12 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (PTI via The Federal, 2:51 pm). Value: PTI says over ₹100 crore, EPS cited ~₹400 crore; copy gives both, attributed. EPS claim about TVK town secretary Paulraj threatening media is his allegation; attributed. Finance Ministry statement of 18 Oct not fetched directly."
+    - "Single source (PTI via The Federal, 2:51 pm). Value: PTI says over ₹100 crore, EPS cited ~₹400 crore; copy gives both, attributed. EPS claim about TVK town secretary Paulraj threatening media is his allegation; attributed. Finance Ministry statement of Oct 18 not fetched directly."
 ---
 
 AIADMK general secretary Edappadi K Palaniswami on Tuesday accused Chief Minister C Joseph Vijay of keeping quiet about a major drug seizure in Nagapattinam district, after the alleged mastermind turned out to be a functionary expelled from Vijay's party, the TVK.
 
-The Directorate of Revenue Intelligence seized 137 kg of crystal methamphetamine from a coastal village in the district on 16 and 17 October. Investigators say the network planned to move the drugs to Sri Lanka through a mid-sea transfer. The haul is valued at over ₹100 crore in the illicit market; Palaniswami put the figure at about ₹400 crore.
+The Directorate of Revenue Intelligence seized 137 kg of crystal methamphetamine from a coastal village in the district on October 16 and 17. Investigators say the network planned to move the drugs to Sri Lanka through a mid-sea transfer. The haul is valued at over ₹100 crore in the illicit market; Palaniswami put the figure at about ₹400 crore.
 
 Four men have been remanded to judicial custody: N Boopalan, 42, a lawyer from Chinthamani and the expelled TVK functionary identified as the alleged mastermind; J Suganathan, 27, a lodge operator from Velankanni; his brother J Parthiban, 29; and D Sathish, 30.
 

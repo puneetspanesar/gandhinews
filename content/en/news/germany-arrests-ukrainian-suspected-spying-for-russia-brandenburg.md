@@ -22,7 +22,7 @@ hero:
     value: "Spying on Europe's arms makers"
 related: []
 seo:
-  description: "German federal police arrested Ukrainian national Vadym Y. in Brandenburg on suspicion of spying for Russian intelligence on arms production and NATO's eastern flank, prosecutors said on 22 October."
+  description: "German federal police arrested Ukrainian national Vadym Y. in Brandenburg on suspicion of spying for Russian intelligence on arms production and NATO's eastern flank, prosecutors said on October 22."
 sources:
   - title: "Germany arrests Ukrainian national suspected of spying for Russia"
     publisher: "Kyiv Independent"
@@ -32,14 +32,14 @@ sources:
 verification:
   status: approved
   notes:
-    - "Kyiv Independent, 22 Oct, 4:26 pm Kyiv time, based on Federal Prosecutor's Office announcement (not fetched directly). Warrant 15 Oct; arrest about a week later; exact arrest date not given, copy avoids a day."
-    - "Defence ministry spokesperson quote via Reuters, as given in the KI report. Sueddeutsche Zeitung report on 'significant' threat level (second-highest), 21 Oct. Jaeger 'shadow war' remark 5 Oct."
+    - "Kyiv Independent, Oct 22, 4:26 pm Kyiv time, based on Federal Prosecutor's Office announcement (not fetched directly). Warrant Oct 15; arrest about a week later; exact arrest date not given, copy avoids a day."
+    - "Defence ministry spokesperson quote via Reuters, as given in the KI report. Sueddeutsche Zeitung report on 'significant' threat level (second-highest), Oct 21. Jaeger 'shadow war' remark Oct 5."
     - "Hero: Bundesanwaltschaft building; no person photo available for suspect."
 ---
 
 German federal police have arrested a Ukrainian man suspected of spying for Russian intelligence on Europe's arms industry and on military sites along NATO's eastern flank, the Federal Prosecutor's Office said on Thursday.
 
-The suspect, named only as Vadym Y. under German privacy rules, was detained in the Oder-Spree district of Brandenburg, the state that surrounds Berlin. An investigating judge had issued a warrant for him on 15 October.
+The suspect, named only as Vadym Y. under German privacy rules, was detained in the Oder-Spree district of Brandenburg, the state that surrounds Berlin. An investigating judge had issued a warrant for him on October 15.
 
 Prosecutors say he had been in touch with a Russian intelligence service through a go-between since at least July 2025. He is accused of gathering information linked to Russia's war against Ukraine, including the production of armoured vehicles, ammunition and explosives, and details of military personnel and installations on NATO's eastern flank.
 

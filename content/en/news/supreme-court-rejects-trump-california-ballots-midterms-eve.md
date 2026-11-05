@@ -22,7 +22,7 @@ hero:
     value: "No set-aside for 20,000 ballots"
 related: [us-midterms-stevens-backs-rogers-alaska-sullivan-suit-dismissed, us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve]
 seo:
-  description: "On 2 November 2026 the US Supreme Court denied the Justice Department's request to make California set aside mail ballots from about 20,000 alleged noncitizens before the midterms."
+  description: "On November 2, 2026, the US Supreme Court denied the Justice Department's request to make California set aside mail ballots from about 20,000 alleged noncitizens before the midterms."
 cover:
   template: faceoff
   label: "US midterms"
@@ -47,7 +47,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: order issued Monday 2 Nov afternoon US Eastern time (CBS story updated 6:03 pm EST), i.e. early hours of 3 Nov IST. Details from CBS only (fetched); WaPo, CNBC, KPBS headlines from search agree on the denial."
+    - "event: order issued Monday, Nov 2 afternoon US Eastern time (CBS story updated 6:03 pm EST), i.e. early hours of Nov 3 IST. Details from CBS only (fetched); WaPo, CNBC, KPBS headlines from search agree on the denial."
     - "Justices not named, no dissents noted per CBS. Judge David Carter quote verbatim from CBS. 9th Circuit described as 'divided'."
     - "No India angle found; none written."
 ---

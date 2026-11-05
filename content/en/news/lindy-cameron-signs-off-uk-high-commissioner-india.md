@@ -22,7 +22,7 @@ hero:
     value: "'Phir milenge India'"
 related: [india-uk-jetco-goyal-doubling-trade-by-2030]
 seo:
-  description: "Outgoing UK High Commissioner Lindy Cameron bid farewell to India on 16 October before becoming the FCDO's first woman Permanent Under-Secretary in London."
+  description: "Outgoing UK High Commissioner Lindy Cameron bid farewell to India on October 16 before becoming the FCDO's first woman Permanent Under-Secretary in London."
 sources:
   - title: "Proud of what India, UK achieved together: Outgoing UK envoy Lindy Cameron"
     publisher: "The Tribune (ANI)"
@@ -52,4 +52,4 @@ She said she had met people from government, business, education and civil socie
 
 ## Her new job
 
-Foreign Secretary Ed Miliband announced her appointment on 10 September. "Lindy brings enormous experience across the fields of diplomacy, development and national security, and a reputation for dynamic leadership in postings across the world, most recently as High Commissioner in India," he said at the time. Miliband also thanked Nick Dyer, who has been serving as interim Permanent Under-Secretary.
+Foreign Secretary Ed Miliband announced her appointment on September 10. "Lindy brings enormous experience across the fields of diplomacy, development and national security, and a reputation for dynamic leadership in postings across the world, most recently as High Commissioner in India," he said at the time. Miliband also thanked Nick Dyer, who has been serving as interim Permanent Under-Secretary.

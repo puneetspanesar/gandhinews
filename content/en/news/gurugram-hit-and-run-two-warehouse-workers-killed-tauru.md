@@ -32,8 +32,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single wire report (PTI via ThePrint, 6:50 pm IST 25 Oct). Ages and surnames not given. No police officer named; police statement paraphrased."
-    - "Crash at about 9 pm Saturday 24 Oct; reported Sunday evening after post-mortems."
+    - "Single wire report (PTI via ThePrint, 6:50 pm IST Oct 25). Ages and surnames not given. No police officer named; police statement paraphrased."
+    - "Crash at about 9 pm Saturday, Oct 24; reported Sunday evening after post-mortems."
 ---
 
 Two warehouse workers were killed and a third was injured when a speeding vehicle hit them on the Bilaspur-Tauru road in Gurugram on Saturday night. The driver did not stop.

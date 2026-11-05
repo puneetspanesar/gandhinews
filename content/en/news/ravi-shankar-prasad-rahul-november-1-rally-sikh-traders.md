@@ -5,13 +5,13 @@ type: news
 section: politics
 format_label: "Politics / Opposition"
 topics: [election-commission, electoral-rolls-sir]
-title: "BJP says Rahul Gandhi's 1 November rally will 'rub salt' into Sikh wounds as traders ask for a later date"
+title: "BJP says Rahul Gandhi's November 1 rally will 'rub salt' into Sikh wounds as traders ask for a later date"
 standfirst: "Ravi Shankar Prasad tied the date of the INDIA bloc's Ramlila Maidan rally to the 1984 anti-Sikh riots, while Delhi traders asked Congress to wait until after Bhai Dooj. Congress says the rally against the Chief Election Commissioner is going ahead."
 published: 2026-10-24T14:50:00+05:30
 location: New Delhi
 keyPoints:
-  - "BJP MP Ravi Shankar Prasad said holding the rally on 1 November was an attempt to **rub salt into the wounds of the Sikh community**."
-  - "The Chamber of Trade and Industry asked Rahul Gandhi to move the rally to **after 10 November**, citing festival trade."
+  - "BJP MP Ravi Shankar Prasad said holding the rally on November 1 was an attempt to **rub salt into the wounds of the Sikh community**."
+  - "The Chamber of Trade and Industry asked Rahul Gandhi to move the rally to **after November 10**, citing festival trade."
   - "Congress MP Jebi Mather said the **INDIA bloc is united** behind the demand that CEC Gyanesh Kumar resign."
 hero:
   need: "Two-panel split: BJP MP Ravi Shankar Prasad on one side, Congress leader Rahul Gandhi on the other"
@@ -19,10 +19,10 @@ hero:
   subjects: ["Ravi Shankar Prasad", "Rahul Gandhi"]
   alt: "BJP MP Ravi Shankar Prasad and Congress leader Rahul Gandhi"
   overlay:
-    value: "Why 1 November, Mr Gandhi?"
+    value: "Why November 1, Mr Gandhi?"
 related: [congress-ramlila-maidan-rally-november-1-police-noc, gaurav-gogoi-ec-hollowed-out-gyanesh-kumar-must-go, people-against-sir-march-delhi-detained-cec-gyanesh-kumar]
 seo:
-  description: "BJP's Ravi Shankar Prasad linked Congress's 1 November Ramlila Maidan rally to the 1984 riots; traders sought a delay; Jebi Mather said the INDIA bloc rally will go ahead."
+  description: "BJP's Ravi Shankar Prasad linked Congress's November 1 Ramlila Maidan rally to the 1984 riots; traders sought a delay; Jebi Mather said the INDIA bloc rally will go ahead."
 sources:
   - title: "'Attempt to rub salt in wounded Sikh community': BJP's Ravi Shankar Prasad slams Rahul Gandhi's Nov 1 rally call"
     publisher: "ANI"
@@ -47,14 +47,14 @@ sources:
 verification:
   status: approved
   notes:
-    - "Prasad press conference, Delhi, 24 Oct: ANI 14:31 IST. Quotes verbatim from ANI. No Congress reply to Prasad found by 3:30 pm."
+    - "Prasad press conference, Delhi, Oct 24: ANI 14:31 IST. Quotes verbatim from ANI. No Congress reply to Prasad found by 3:30 pm."
     - "CTI letter (Brijesh Goyal) dated Saturday per ANI; festival dates quote verbatim. FPJ (ANI copy, 2:39 pm) also has it."
     - "Mather quotes: ANI 13:30 and News Mill 13:32 (both ANI-based)."
     - "Amit Shah visit to Delhi Police HQ: ANI/FPJ say 'per sources', scheduled Saturday; outcome not reported by 3:30 pm. Written as due."
     - "Prasad's first quote is cut off in ANI excerpt; only the part given used."
 ---
 
-The BJP on Saturday accused Rahul Gandhi of choosing a painful date for the opposition's big rally in Delhi. Holding it on 1 November, the anniversary week of the 1984 anti-Sikh riots, was a deliberate insult to the Sikh community, the party said.
+The BJP on Saturday accused Rahul Gandhi of choosing a painful date for the opposition's big rally in Delhi. Holding it on November 1, the anniversary week of the 1984 anti-Sikh riots, was a deliberate insult to the Sikh community, the party said.
 
 "Rahul Gandhi is, in a very calculated manner, attempting to rub salt into the wounded sentiments of the Sikh community," BJP MP Ravi Shankar Prasad told a press conference in New Delhi. "Why November 1st, Mr. Rahul Gandhi? What is the reason behind your stubborn resolve?"
 
@@ -70,9 +70,9 @@ She dismissed talk of a rift in the opposition. "There are no differences within
 
 ## Traders want it after Diwali
 
-Delhi's traders also want the date changed, though for different reasons. The Chamber of Trade and Industry, led by its chairman Brijesh Goyal, wrote to Gandhi on Saturday asking him to move the rally to a date after 10 November. A crowd that size in the middle of the festive season would hurt business in the capital's markets, the chamber said. "Dhanteras falls on November 6, Diwali on November 8 and Bhai Dooj on November 10," the letter said.
+Delhi's traders also want the date changed, though for different reasons. The Chamber of Trade and Industry, led by its chairman Brijesh Goyal, wrote to Gandhi on Saturday asking him to move the rally to a date after November 10. A crowd that size in the middle of the festive season would hurt business in the capital's markets, the chamber said. "Dhanteras falls on November 6, Diwali on November 8 and Bhai Dooj on November 10," the letter said.
 
-Congress general secretary K C Venugopal first announced the rally on 5 October. He presented it as part of the party's campaign against what he called "the criminal Vote Chori orchestrated by Gyanesh & Co."
+Congress general secretary K C Venugopal first announced the rally on October 5. He presented it as part of the party's campaign against what he called "the criminal Vote Chori orchestrated by Gyanesh & Co."
 
 ## Police and protests
 

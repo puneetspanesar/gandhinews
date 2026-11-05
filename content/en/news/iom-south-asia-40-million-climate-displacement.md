@@ -37,8 +37,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: AFP via Dawn, datelined New Delhi, 17 Oct print. The 40.5 million worst-case figure is attributed to IOM; the specific report is not named. No country breakdown given."
-    - "Nepal 26 August glacier collapse and IOM aid from the same article; no casualty figures given there."
+    - "Single source: AFP via Dawn, datelined New Delhi, Oct 17 print. The 40.5 million worst-case figure is attributed to IOM; the specific report is not named. No country breakdown given."
+    - "Nepal August 26 glacier collapse and IOM aid from the same article; no casualty figures given there."
     - "Pope's quotes verbatim from the AFP copy."
 ---
 
@@ -50,7 +50,7 @@ Amy Pope, director general of the International Organization for Migration (IOM)
 
 Much of that movement is towards cities. "As people seek shelter from heat, they're going into urban centres," she said.
 
-The region has had a harsh year. In Nepal, the collapse of a mountain glacier on 26 August set off deadly floods, and the IOM sent humanitarian aid. In Kolkata, commuters waded through flooded streets after heavy monsoon rain on 23 September.
+The region has had a harsh year. In Nepal, the collapse of a mountain glacier on August 26 set off deadly floods, and the IOM sent humanitarian aid. In Kolkata, commuters waded through flooded streets after heavy monsoon rain on September 23.
 
 Pope argued that it is cheaper to plan ahead than to clean up afterwards. "The cost of a humanitarian disaster is in the billions," she said. "If you know a community is at risk, we don't need to wait until they're displaced to respond."
 

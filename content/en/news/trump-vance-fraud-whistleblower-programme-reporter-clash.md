@@ -22,7 +22,7 @@ hero:
     value: "$25 million for fraud tip-offs"
 related: [vance-declines-to-endorse-netanyahu-midterms, trump-kentucky-rally-gallrein-midterms-massie]
 seo:
-  description: "Trump and JD Vance launched a $25 million Justice Department fraud whistleblower reward scheme on 20 October and clashed with a reporter over its 1% commission."
+  description: "Trump and JD Vance launched a $25 million Justice Department fraud whistleblower reward scheme on October 20 and clashed with a reporter over its 1% commission."
 sources:
   - title: "'You better be careful': Trump clashes with reporters during heated White House exchange"
     publisher: "The National News Desk (Turn to 10)"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (The National News Desk, syndicated across Sinclair stations; published 20 Oct 3:36 pm ET, updated 4:01 pm). Quotes verbatim from that report. Event was Tuesday afternoon Washington time, i.e. overnight IST; published time set at 6:45 am IST."
+    - "Single source (The National News Desk, syndicated across Sinclair stations; published Oct 20 3:36 pm ET, updated 4:01 pm). Quotes verbatim from that report. Event was Tuesday afternoon Washington time, i.e. overnight IST; published time set at 6:45 am IST."
     - "Programme details beyond $25m fund, $30,000 cap, DOJ involvement and 1% commission not found; no whitehouse.gov text checked for lack of time."
     - "Rapid Response post about Feinberg not quoted (derogatory)."
 ---
@@ -53,4 +53,4 @@ Trump's Rapid Response team then identified Feinberg by name on X in a post atta
 
 The exchange was the latest in a long line of confrontations between Trump and the reporters who cover him. He routinely dismisses unfavourable coverage as "fake news" and says much of the press is biased against him.
 
-The row came two weeks before the 3 November midterm elections.
+The row came two weeks before the November 3 midterm elections.

@@ -10,7 +10,7 @@ standfirst: "Trade, energy, security and people-to-people ties are on the agenda
 published: 2026-10-13T04:00:00+05:30
 location: New Delhi
 keyPoints:
-  - "Anita Anand travels to **India and the UAE from 13 to 16 October**."
+  - "Anita Anand travels to **India and the UAE from October 13 to 16**."
   - "Her talks with S. Jaishankar will be the pair's **11th meeting since September 2025**."
   - "India and Canada are negotiating a **trade deal they aim to finish by the end of 2026**."
 hero:
@@ -21,7 +21,7 @@ hero:
     value: "Anand in Delhi for Jaishankar talks"
 related: []
 seo:
-  description: "Canadian Foreign Minister Anita Anand visits India and the UAE from 13 to 16 October for talks with S. Jaishankar on trade, energy and security."
+  description: "Canadian Foreign Minister Anita Anand visits India and the UAE from October 13 to 16 for talks with S. Jaishankar on trade, energy and security."
 sources:
   - title: "Minister Anand to travel to India and the United Arab Emirates"
     publisher: "Global Affairs Canada"
@@ -43,7 +43,7 @@ verification:
   notes:
     - "Trade figures are Canadian dollars as given in the Global Affairs Canada release (C$30.4 billion two-way trade in 2025, C$11.0 billion in goods)."
     - "Indian MEA had not issued its own announcement in the sources read; visit details rest on the Canadian release."
-    - "A report that the fifth CEPA round began on 5 October came only from Organiser (partisan outlet) and was left out."
+    - "A report that the fifth CEPA round began on October 5 came only from Organiser (partisan outlet) and was left out."
 ---
 
 Canada's Foreign Minister Anita Anand begins a four-day trip to India and the United Arab Emirates on Tuesday, the latest step in a thaw between New Delhi and Ottawa that is now centred on a trade deal.
@@ -54,7 +54,7 @@ She will also speak on a panel about middle powers and the changing global order
 
 ## From freeze to trade talks
 
-Relations between the two countries froze in 2023, and the repair work has moved quickly this year. Prime Minister Mark Carney visited India from 27 February to 2 March, the first bilateral visit by a Canadian prime minister in eight years. During that trip the two governments agreed the terms for negotiating a Comprehensive Economic Partnership Agreement (CEPA) and set a target of concluding it by the end of 2026. High Commissioners Dinesh K. Patnaik and Christopher Cooter are back at their posts.
+Relations between the two countries froze in 2023, and the repair work has moved quickly this year. Prime Minister Mark Carney visited India from February 27 to March 2, the first bilateral visit by a Canadian prime minister in eight years. During that trip the two governments agreed the terms for negotiating a Comprehensive Economic Partnership Agreement (CEPA) and set a target of concluding it by the end of 2026. High Commissioners Dinesh K. Patnaik and Christopher Cooter are back at their posts.
 
 Two-way trade between Canada and India was worth C$30.4 billion in 2025, including C$11.0 billion in goods, according to the Canadian government.
 

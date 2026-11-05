@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source, idrw.org, posted 23 Oct 2026, 16:10 UTC (9:40 pm IST), based on company statements. All specifications are the manufacturer's claims and are attributed as such."
+    - "Single source, idrw.org, posted Oct 23, 2026, 16:10 UTC (9:40 pm IST), based on company statements. All specifications are the manufacturer's claims and are attributed as such."
     - "Number of units, contract value and date of delivery not given. No Army or Defence Ministry statement found."
 ---
 

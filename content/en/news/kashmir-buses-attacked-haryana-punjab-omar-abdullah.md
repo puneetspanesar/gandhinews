@@ -22,7 +22,7 @@ hero:
     value: "Two nights, two buses, one route"
 related: []
 seo:
-  description: "Stones were thrown at a Srinagar-bound bus near Ludhiana on 18 October, a day after a J&K bus was attacked at a dhaba near Nilokheri in Haryana; two held, Omar Abdullah seeks action."
+  description: "Stones were thrown at a Srinagar-bound bus near Ludhiana on October 18, a day after a J&K bus was attacked at a dhaba near Nilokheri in Haryana; two held, Omar Abdullah seeks action."
 sources:
   - title: "Kashmir bus operator alleges stone-pelting on Srinagar-bound bus near Ludhiana in Punjab"
     publisher: "The Tribune"

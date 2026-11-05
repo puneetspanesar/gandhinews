@@ -12,7 +12,7 @@ location: New Delhi
 keyPoints:
   - "The Supreme Court **stayed further proceedings** in the trial court and issued notice on Rahul Gandhi's appeal."
   - "The complaint is over Gandhi's alleged remarks calling Narendra Modi **\"Commander-in-Thief\"** and \"Choro Ke Sardar\"."
-  - "The Bombay High Court had held on 8 September that the BJP is **an identifiable body** that can be defamed."
+  - "The Bombay High Court had held on September 8 that the BJP is **an identifiable body** that can be defamed."
 hero:
   need: "Senior advocate Abhishek Manu Singhvi, who appeared for Rahul Gandhi"
   suggested_source: "Abhishek Manu Singhvi"
@@ -36,9 +36,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Order date: LiveLaw report published 13 Oct, 11:08 am; hearing assumed same morning."
+    - "Order date: LiveLaw report published Oct 13, 11:08 am; hearing assumed same morning."
     - "Remarks: LiveLaw says 'Choro Ke Sardar' and 'Commander-in-Thief'. Deccan Chronicle says September 2018 rally in Rajasthan and 'Chowkidar chor hai'. Girgaon magistrate, summons August 2019 and Justice N R Borkar: Deccan Chronicle only. Rally detail kept general ('a 2018 rally in Rajasthan')."
-    - "LiveLaw gives HC order date as 8 September 2026; Deccan Chronicle article dated 8 Sept says 'Tuesday'. Consistent."
+    - "LiveLaw gives HC order date as September 8, 2026; Deccan Chronicle article dated Sept 8 says 'Tuesday'. Consistent."
     - "Next date: notice returnable in four weeks per LiveLaw; no calendar date stated. Written as 'four weeks'."
 ---
 
@@ -54,7 +54,7 @@ A magistrate's court in Girgaon, Mumbai, summoned Gandhi in August 2019. He went
 
 ## What the High Court said
 
-On 8 September, the High Court disagreed. It held that the BJP, as a registered national party, is an identifiable body, and that the remark could not at this stage be read as aimed only at the party's top leaders. Whether it hurt ordinary members was a question for the trial, the court said. Maharashtra's Advocate General had argued that the case should not be thrown out at the threshold.
+On September 8, the High Court disagreed. It held that the BJP, as a registered national party, is an identifiable body, and that the remark could not at this stage be read as aimed only at the party's top leaders. Whether it hurt ordinary members was a question for the trial, the court said. Maharashtra's Advocate General had argued that the case should not be thrown out at the threshold.
 
 The appeal now raises a question that matters well beyond this case: whether a party worker can bring a criminal defamation complaint when neither the party nor its members are named in the words complained of.
 

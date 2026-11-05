@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Ruling issued Wednesday 21 Oct (US time); Blanche remarks Thursday. States list and effective time agree across Washington Post syndication and Westfair. Court district not stated in sources read (Martínez-Olguín sits in N.D. California per general knowledge, not used)."
+    - "Ruling issued Wednesday, Oct 21 (US time); Blanche remarks Thursday. States list and effective time agree across Washington Post syndication and Westfair. Court district not stated in sources read (Martínez-Olguín sits in N.D. California per general knowledge, not used)."
 ---
 
 A federal judge has ordered the Department of Homeland Security to stop field operations aimed at people it has reason to believe are US citizens in its drive to find noncitizen voters in nine states, less than two weeks before the midterm elections.

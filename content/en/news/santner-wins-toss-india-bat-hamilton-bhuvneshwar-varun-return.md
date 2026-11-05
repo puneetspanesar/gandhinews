@@ -22,7 +22,7 @@ hero:
     value: "Santner wins toss, India bat first"
 related: [india-new-zealand-fifth-t20i-hamilton-preview, nz-thrash-india-87-runs-eden-park-fourth-t20i]
 seo:
-  description: "Mitchell Santner won the toss and chose to bowl in the fifth T20I against India at Seddon Park, Hamilton, on 1 November. Bhuvneshwar Kumar and Varun Chakravarthy return for India."
+  description: "Mitchell Santner won the toss and chose to bowl in the fifth T20I against India at Seddon Park, Hamilton, on November 1. Bhuvneshwar Kumar and Varun Chakravarthy return for India."
 sources:
   - title: "5th T20I: India asked to bat first as Bhuvneshwar, Varun return"
     publisher: "IANS"
@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov ~12:00 IST, toss for the 5th T20I at Seddon Park (match start 12:30 IST). IANS item timestamped 12:19 PM IST; Telangana Today 12:33 PM IST; Social News XYZ 05:45 UTC (11:15 IST is too early for a 12:00 toss, likely a placeholder time; content matches IANS)."
+    - "event: Nov 1 ~12:00 IST, toss for the 5th T20I at Seddon Park (match start 12:30 IST). IANS item timestamped 12:19 PM IST; Telangana Today 12:33 PM IST; Social News XYZ 05:45 UTC (11:15 IST is too early for a 12:00 toss, likely a placeholder time; content matches IANS)."
     - "Toss, decision, changes, both XIs and all quotes from IANS via the three pages. No in-match score could be confirmed (Wisden and ESPN pages blocked by permission timeouts), so the story stops at the toss."
     - "Varun's earlier abdominal side strain (missed the Japan T20I and Asian Games) from IANS; left out for brevity."
 ---
@@ -67,4 +67,4 @@ He also had warm words for the returning Bhuvneshwar. "He's been waiting for his
 
 **India:** Sanju Samson, Abhishek Sharma, Ishan Kishan (wk), Shreyas Iyer (capt), Tilak Varma, Nitish Kumar Reddy, Naman Dhir, Bhuvneshwar Kumar, Arshdeep Singh, Prince Yadav, Varun Chakravarthy.
 
-Play began at 12:30 pm IST. The five-match ODI series between the two sides **starts in Auckland on 4 November**.
+Play began at 12:30 pm IST. The five-match ODI series between the two sides **starts in Auckland on November 4**.

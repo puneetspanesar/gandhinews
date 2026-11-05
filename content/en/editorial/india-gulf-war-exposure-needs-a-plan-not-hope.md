@@ -36,7 +36,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. War-related facts from the desk's 14-15 October stories: IMF (Azour quote, Saudi -3.3%, region -0.3%), US vs West Asia oil imports (60% vs 83% via Hormuz, freight 20-25% of cargo value, West Asia imports +67% to 13.56 mt), UN fertiliser corridor (a third of world urea via Hormuz before the war, Moreira da Silva), ship sinkings and Trump remarks, September trade data, Sensex and rupee close on 15 October, Brent about $104."
+    - "Editorial view of the desk. War-related facts from the desk's October 14-15 stories: IMF (Azour quote, Saudi -3.3%, region -0.3%), US vs West Asia oil imports (60% vs 83% via Hormuz, freight 20-25% of cargo value, West Asia imports +67% to 13.56 mt), UN fertiliser corridor (a third of world urea via Hormuz before the war, Moreira da Silva), ship sinkings and Trump remarks, September trade data, Sensex and rupee close on October 15, Brent about $104."
     - "Remittances: GCC 38% of $118.7 billion in 2023-24, down from about 47% in 2016-17, from the RBI survey as summarised by Drishti IAS and Business Standard (UAE 19.2%). Not current-year data; copy says 2023-24."
     - "Number of Indians in the Gulf not given; the Arab News page with a figure could not be fetched. Copy says 'millions', which is uncontroversial."
     - "Recommendations are the desk's own. No claim made about current levels of India's strategic petroleum reserve or fertiliser stocks."

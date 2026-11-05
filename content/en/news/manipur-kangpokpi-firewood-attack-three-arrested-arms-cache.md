@@ -32,8 +32,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (IANS via Social News XYZ, published 15:01 UTC / 8:31 pm IST on 20 Oct). All details rest on statements by ADGP Lhari Dorje and Manipur Police as reported there. Names of the three arrested not given. 'Lethod gun' listed in source, likely 'lethode' launcher; left out of the copy."
-    - "Kangpokpi attack (19 Oct) and Thoubal clashes (18 Oct) as background only; Thoubal covered in our earlier story."
+    - "Single source (IANS via Social News XYZ, published 15:01 UTC / 8:31 pm IST on Oct 20). All details rest on statements by ADGP Lhari Dorje and Manipur Police as reported there. Names of the three arrested not given. 'Lethod gun' listed in source, likely 'lethode' launcher; left out of the copy."
+    - "Kangpokpi attack (Oct 19) and Thoubal clashes (Oct 18) as background only; Thoubal covered in our earlier story."
 ---
 
 Manipur Police have arrested three suspected militants over Monday's attack on a group of villagers collecting firewood in Kangpokpi district, and recovered a large haul of weapons from the hills on the strength of what the suspects told interrogators.

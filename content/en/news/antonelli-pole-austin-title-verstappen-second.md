@@ -49,9 +49,9 @@ verification:
   notes:
     - "Pole time and order from Sports Illustrated and RacingNews365 (both agree on Antonelli, Verstappen, Hadjar, Leclerc, Hamilton). Positions 6-10 and gaps from Sports Illustrated only."
     - "Penalties: SI says Bortoleto and Colapinto drop to the back; PlanetF1 (written mid-session) says Colapinto takes 10 places. Written as both penalised for power unit changes, Bortoleto from the back."
-    - "Points (340, 238, 229) and title permutations from the earlier Gandhi News story based on RacingNews365 (21 Oct); SI repeats the Hamilton fifth/Russell ninth condition."
+    - "Points (340, 238, 229) and title permutations from the earlier Gandhi News story based on RacingNews365 (Oct 21); SI repeats the Hamilton fifth/Russell ninth condition."
     - "Race start time not confirmed from a source read; left out."
-    - "RacingNews365 21 Oct source carried over from the earlier story; not re-fetched. Alonso fire quote from F1 X post as compiled by SI; session not specified."
+    - "RacingNews365 Oct 21 source carried over from the earlier story; not re-fetched. Alonso fire quote from F1 X post as compiled by SI; session not specified."
 ---
 
 Kimi Antonelli put his Mercedes on pole position for the United States Grand Prix early on Sunday morning India time, and now goes into the race in Austin one win away from the Formula 1 world championship.

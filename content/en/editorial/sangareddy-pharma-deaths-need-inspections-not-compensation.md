@@ -42,9 +42,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Saraka facts (Unit-2, Gaddapotharam, leak about 11:15 pm 23 Oct, not noticed at first, P Sudarshan Rao 44 and Keelaparthi Balaji 29 dead on arrival at Suraram hospital, safety trainee among those taken ill, PCB closure, ₹70 lakh after talks with MLA Gudem Mahipal Reddy, Harish Rao's demand for ₹1 crore and an inquiry, case on wife's complaint) from ETV Bharat via the desk's 24 Oct news story."
-    - "Sigachi: blast on 30 June 2025 at Pashamylaram, Sangareddy (ETV Bharat, 3 July 2025); toll rose to 42 per Moneylife (date of article inferred as about 1 July 2025 from image filename). Copy says 'more than 40'. Expert committee led by B Venkateswar Rao of CSIR-IICT, company's ₹1 crore per family, families' allegation about outdated machinery and MD Amit Raj Sinha's denial from ETV Bharat. Final toll and committee findings not checked; copy does not describe findings."
-    - "'Sixteen months' = 30 June 2025 to 23 October 2026, about 15.8 months."
+    - "Editorial view of the desk. Saraka facts (Unit-2, Gaddapotharam, leak about 11:15 pm Oct 23, not noticed at first, P Sudarshan Rao 44 and Keelaparthi Balaji 29 dead on arrival at Suraram hospital, safety trainee among those taken ill, PCB closure, ₹70 lakh after talks with MLA Gudem Mahipal Reddy, Harish Rao's demand for ₹1 crore and an inquiry, case on wife's complaint) from ETV Bharat via the desk's Oct 24 news story."
+    - "Sigachi: blast on June 30, 2025, at Pashamylaram, Sangareddy (ETV Bharat, July 3, 2025); toll rose to 42 per Moneylife (date of article inferred as about July 1, 2025, from image filename). Copy says 'more than 40'. Expert committee led by B Venkateswar Rao of CSIR-IICT, company's ₹1 crore per family, families' allegation about outdated machinery and MD Amit Raj Sinha's denial from ETV Bharat. Final toll and committee findings not checked; copy does not describe findings."
+    - "'Sixteen months' = June 30, 2025, to October 23, 2026, about 15.8 months."
     - "No claim on Telangana's number of factory inspectors; not checked."
     - "Recommendations are the desk's own."
 ---
@@ -55,7 +55,7 @@ By Saturday the Pollution Control Board had shut the plant, police had registere
 
 ## The same district, again
 
-Sangareddy has been here before, and very recently. On 30 June 2025 an explosion tore through the Sigachi Industries plant at Pashamylaram, in the same district, and killed more than 40 people, the worst industrial disaster in Telangana's history. Families said complaints about ageing machinery had been ignored; the company said its equipment had been recently updated. An expert committee was set up, the company promised ₹1 crore for each family, and the plant was closed for three months.
+Sangareddy has been here before, and very recently. On June 30, 2025, an explosion tore through the Sigachi Industries plant at Pashamylaram, in the same district, and killed more than 40 people, the worst industrial disaster in Telangana's history. Families said complaints about ageing machinery had been ignored; the company said its equipment had been recently updated. An expert committee was set up, the company promised ₹1 crore for each family, and the plant was closed for three months.
 
 Saraka is a far smaller accident. But it follows the same pattern: a death toll, a closure order, a compensation figure negotiated in front of a politician, and a promise of inquiry. What rarely follows is a public account of what went wrong and what has been changed in the many other units across the district that handle the same solvents and reactors.
 

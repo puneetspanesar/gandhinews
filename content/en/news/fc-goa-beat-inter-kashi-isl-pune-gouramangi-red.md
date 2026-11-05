@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov, evening match in Pune; IANS report filed 22:31 IST (URL stamp 20261101223159)."
+    - "event: Nov 1, evening match in Pune; IANS report filed 22:31 IST (URL stamp 20261101223159)."
     - "Opener minute: IANS and Khel Now intros say 35', both bodies say 32'; copy uses 32'. Winner minute 66' from intro summaries only (bodies give none). Passi 51' consistent."
     - "Sending-off minute not given; written as closing stages. No quotes from coaches or players in either report. Next fixtures and table not reported; left out."
     - "Venue: IANS 'Balewadi Sports Complex', Khel Now 'Balewadi Stadium'. Photo subject uses the Wikipedia name Shree Shiv Chhatrapati Sports Complex."

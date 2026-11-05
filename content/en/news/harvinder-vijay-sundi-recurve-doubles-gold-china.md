@@ -22,7 +22,7 @@ hero:
     value: "5-1 against China for gold"
 related: [swati-chaudhary-para-archery-final-harvinder-vijay-sundi, sheetal-devi-toman-kumar-mixed-team-world-record-asian-para-games, nitesh-beats-pramod-sl3-final-naveen-sivakumar-gold]
 seo:
-  description: "Harvinder Singh and Vijay Sundi beat China 5-1 for men's recurve doubles gold at the Asian Para Games on 23 October; Bhawna Choudhary and Pooja Jatyan took silver."
+  description: "Harvinder Singh and Vijay Sundi beat China 5-1 for men's recurve doubles gold at the Asian Para Games on October 23; Bhawna Choudhary and Pooja Jatyan took silver."
 sources:
   - title: "Harvinder Singh, Vijay Sundi win recurve men's doubles gold at Asian Para Games"
     publisher: "The Bridge"
@@ -38,7 +38,7 @@ verification:
   status: approved
   notes:
     - "Mixed team bronze match result not available at time of writing; copy says it was due."
-    - "Live blog called it India's 'second archery gold' of the Games, which conflicts with Sheetal Devi's two golds on 22 Oct; claim left out."
+    - "Live blog called it India's 'second archery gold' of the Games, which conflicts with Sheetal Devi's two golds on Oct 22; claim left out."
 ---
 
 Harvinder Singh added an Asian Para Games title to his Paralympic gold on Friday, combining with Vijay Sundi to beat China 5-1 in the final of the men's recurve doubles.

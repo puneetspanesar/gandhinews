@@ -47,7 +47,7 @@ hero:
     value: "Sensex +1,225, Nifty at 23,811"
 related: [sensex-nifty-close-november-2, gift-nifty-gap-up-134-points-kospi-slides-sbi-results-november-3, us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve, marico-q2-profit-31-per-cent-revenue-3897-crore, krbl-q2-profit-50-per-cent-india-gate-basmati, fii-net-buyers-3115-crore-dii-sell-reliance-rally-november-2]
 seo:
-  description: "Sensex rose 1,225.07 points to 76,917.85 and Nifty 370.05 points to 23,810.85 on 3 November 2026, a fourth straight gain led by FMCG, realty and private banks."
+  description: "Sensex rose 1,225.07 points to 76,917.85 and Nifty 370.05 points to 23,810.85 on November 3, 2026, a fourth straight gain led by FMCG, realty and private banks."
 sources:
   - title: "Market wrap, Nov 3: SENSEX jumps 1,225 pts, NIFTY50 ends at 23,810; NSE-listed firms add ₹5 lakh crore mcap"
     publisher: "Upstox"
@@ -67,7 +67,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 3 Nov 15:30 IST market close (BIG STORY exception in run brief; first full wrap-ups published 16:00 to 16:25 IST). Move over 0.5%: Sensex +1.62%, Nifty +1.58%."
+    - "event: Nov 3 15:30 IST market close (BIG STORY exception in run brief; first full wrap-ups published 16:00 to 16:25 IST). Move over 0.5%: Sensex +1.62%, Nifty +1.58%."
     - "Index levels, sector and stock moves, breadth and mcap from Upstox (16:00 IST); rupee 94.74 (from 94.90), BSE breadth, 'highest in nearly two months', ~5% four-day gain, Marico/Trident/KRBL/VRL moves from HDFC Sky (16:25 IST). Sector figures differ slightly between the two (FMCG +3.65% Upstox vs +2.5% HDFC Sky); copy uses Upstox figures."
     - "Losers: Upstox lists Power Grid -3.04%, SBI -1.7%, ONGC -1.13%; HDFC Sky also names Infosys among losers without a figure, so Infosys left out."
     - "No named analyst quotes found in any of the three sources; story carries none. SBI's Q2 results not confirmed for today from a readable source, so no reason given for SBI's fall."

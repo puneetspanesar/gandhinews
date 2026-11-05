@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Judgment dated 22 Oct, reported morning of 23 Oct (Bar & Bench). LiveLaw URL from search results, not opened; headline consistent."
+    - "Judgment dated Oct 22, reported morning of Oct 23 (Bar & Bench). LiveLaw URL from search results, not opened; headline consistent."
     - "Case: Bipin Satish Chandra Agrwal v State of Maharashtra & Ors; Justices A S Gadkari and Kamal Khata. Quote verbatim from Bar & Bench."
 ---
 

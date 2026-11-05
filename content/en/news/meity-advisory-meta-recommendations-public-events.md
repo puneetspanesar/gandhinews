@@ -10,7 +10,7 @@ standfirst: "An advisory to the owner of Facebook and Instagram, issued as prote
 published: 2026-10-19T07:20:00+05:30
 location: New Delhi
 keyPoints:
-  - "MeitY's advisory, dated **10 October**, asks Meta to review how its systems recommend and rank content."
+  - "MeitY's advisory, dated **October 10**, asks Meta to review how its systems recommend and rank content."
   - "Meta has been told to act **with immediate effect** and report back to the ministry."
   - "Apar Gupta of the Internet Freedom Foundation called it a **continuing censorship directive**."
 hero:
@@ -37,14 +37,14 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: PTI copy carried by Business Standard on 18 Oct (Sunday), which says PTI had seen the advisory dated 10 Oct. Not yet on Gandhi News; published Monday morning as it came to light late Sunday."
+    - "Single source: PTI copy carried by Business Standard on Oct 18 (Sunday), which says PTI had seen the advisory dated Oct 10. Not yet on Gandhi News; published Monday morning as it came to light late Sunday."
     - "Quoted phrases are from the advisory text as reported by PTI. Ministry 'sources' comment on algorithms favouring one kind of content is paraphrased and attributed to unnamed officials."
     - "No response from Meta or MeitY on the criticism was available."
 ---
 
 The Ministry of Electronics and Information Technology has told Meta to make sure the recommendation systems on Facebook and Instagram do not lead to "disproportionate exposure of users to a single or limited set of narratives", in an advisory issued while protests over the revision of electoral rolls continue in the capital.
 
-The advisory, dated 10 October and seen by reporters on Sunday, asks the company to offer users diverse and credible information, and to add context to photographs, videos and graphics of ongoing public events where their authenticity, date, place or circumstances may be unclear. It does not name a specific incident.
+The advisory, dated October 10 and seen by reporters on Sunday, asks the company to offer users diverse and credible information, and to add context to photographs, videos and graphics of ongoing public events where their authenticity, date, place or circumstances may be unclear. It does not name a specific incident.
 
 ## What the ministry wants
 

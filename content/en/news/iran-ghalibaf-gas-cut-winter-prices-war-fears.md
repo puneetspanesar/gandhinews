@@ -22,7 +22,7 @@ hero:
     value: "Save gas, get paid"
 related: [trump-rules-out-iran-strike-today-qatar-mediators-tehran, iran-envoy-islamabad-hormuz-offer-pezeshkian-no-war-no-peace, brics-parliamentary-forum-delhi-volodin-ghalibaf-joint-statement]
 seo:
-  description: "Iran's Speaker Ghalibaf asked Iranians on 25 October to cut gas use by at least 10% before winter, with cash for savers, as war fears and prices weigh on households."
+  description: "Iran's Speaker Ghalibaf asked Iranians on October 25 to cut gas use by at least 10% before winter, with cash for savers, as war fears and prices weigh on households."
 sources:
   - title: "Live Updates: Trump says he's weighing deal with Iran against action to \"finish them off\""
     publisher: "CBS News"
@@ -43,7 +43,7 @@ verification:
   status: approved
   notes:
     - "Gas-cut call and payments: CBS live blog (7:13 am ET, about 4:43 pm IST) only. Details of how payments would work not given."
-    - "Prices (rice 60%+, beef 150%+), medicine shortages, Sasan Karimi remarks: AP via CBS (1:20 pm ET). Pezeshkian on food: CBS, 24 Oct."
+    - "Prices (rice 60%+, beef 150%+), medicine shortages, Sasan Karimi remarks: AP via CBS (1:20 pm ET). Pezeshkian on food: CBS, Oct 24."
     - "Public worry over elections in Israel and the US: AP round-up."
 ---
 
@@ -53,6 +53,6 @@ The appeal on Sunday is a sign of how hard the war, now nearing its eighth month
 
 Prices have climbed steeply. Rice is more than 60% dearer than when the war began in February, and beef more than 150% dearer. Medicines are in short supply. President Masoud Pezeshkian acknowledged on Saturday that many Iranians are struggling to buy food.
 
-Many people also fear that the worst is yet to come, with elections in Israel on Tuesday and in the United States on 3 November. Sasan Karimi, a former official who teaches at the University of Tehran, said Iran's leaders expect President Donald Trump to order new strikes whatever the result of the midterms.
+Many people also fear that the worst is yet to come, with elections in Israel on Tuesday and in the United States on November 3. Sasan Karimi, a former official who teaches at the University of Tehran, said Iran's leaders expect President Donald Trump to order new strikes whatever the result of the midterms.
 
 Ghalibaf, who is also Iran's chief negotiator with Washington, spoke on the same day that he said the United States had walked into a "quagmire" of its own making. Last week he stayed away from the BRICS Parliamentary Forum in New Delhi, citing "unforeseen circumstances". On Sunday Mr Trump ruled out a strike that day, but said he was still weighing a deal against military action.

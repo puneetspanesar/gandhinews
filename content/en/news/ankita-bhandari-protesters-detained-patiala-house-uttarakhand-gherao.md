@@ -12,7 +12,7 @@ location: New Delhi
 keyPoints:
   - "Police detained protesters outside **Patiala House Court** who wanted the CBI probe supervised by the CJI."
   - "Protesters demanded that **Dushyant Gautam's appointment as Sikkim Governor** be revoked."
-  - "The Congress plans to gherao the Uttarakhand assembly on **27 October**, the session's first day."
+  - "The Congress plans to gherao the Uttarakhand assembly on **October 27**, the session's first day."
 hero:
   need: "Patiala House Courts complex, New Delhi"
   suggested_source: "Patiala House Courts"
@@ -22,7 +22,7 @@ hero:
     value: "'Ankita deserves justice'"
 related: [ankita-bhandari-parents-protest-dushyant-gautam-sikkim-governor, sikkim-bjp-backs-dushyant-gautam-ankita-bhandari-probe, dhami-defends-police-ankita-bhandari-congress, abhishek-banerjee-ankita-bhandari-parents-india-versus-bjp]
 seo:
-  description: "Delhi Police detained Ankita Bhandari protesters outside Patiala House Court on 18 October, as Uttarakhand BJP chief Mahendra Bhatt attacked the Congress plan to gherao the assembly."
+  description: "Delhi Police detained Ankita Bhandari protesters outside Patiala House Court on October 18, as Uttarakhand BJP chief Mahendra Bhatt attacked the Congress plan to gherao the assembly."
 sources:
   - title: "Several detained as protesters demand impartial probe into Ankita Bhandari murder (PTI)"
     publisher: "ThePrint"
@@ -57,7 +57,7 @@ The protesters want the CBI investigation now under way to be supervised directl
 
 ## 'A dark chapter' in Dehradun
 
-In Dehradun, Uttarakhand BJP president Mahendra Bhatt attacked the Congress's plan, announced on Saturday, to gherao the state assembly on the first day of its two-day session in Gairsain on 27 and 28 October. He called it "yet another dark chapter in the annals of negative politics".
+In Dehradun, Uttarakhand BJP president Mahendra Bhatt attacked the Congress's plan, announced on Saturday, to gherao the state assembly on the first day of its two-day session in Gairsain on October 27 and 28. He called it "yet another dark chapter in the annals of negative politics".
 
 Mr Bhatt said the Congress had spent five years protesting outside the House and disrupting it from within, and urged opposition legislators to make the last session before next year's election a productive one.
 

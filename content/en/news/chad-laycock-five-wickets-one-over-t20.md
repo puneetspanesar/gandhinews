@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (Wisden, quoting a Domestic Cricket South Africa post). Match day inferred as Tuesday 13 October from DCSA calling it 'yesterday's' in a post quoted on 14 October; venue not stated, so left out."
+    - "Single source (Wisden, quoting a Domestic Cricket South Africa post). Match day inferred as Tuesday, October 13 from DCSA calling it 'yesterday's' in a post quoted on October 14; venue not stated, so left out."
     - "Fourth instance in men's T20 per Wisden's list (Al-Amin Hossain 2013, Abhimanyu Mithun 2019, Gede Priandana 2025)."
 ---
 

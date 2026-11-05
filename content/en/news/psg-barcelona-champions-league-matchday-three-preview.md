@@ -55,4 +55,4 @@ The late kick-offs alongside PSG and Barcelona include Liverpool against Villarr
 
 The second half of the matchday is on Wednesday night, India time. Bayern Munich host Arsenal in a game billed as a measuring stick for two title contenders, Manchester United visit Como, Real Madrid play RB Leipzig and Aston Villa host Viking.
 
-The league phase runs until 27 January. The top eight go straight into the last 16 and the next 16 enter a play-off round.
+The league phase runs until January 27. The top eight go straight into the last 16 and the next 16 enter a play-off round.

@@ -12,7 +12,7 @@ location: Raipur
 keyPoints:
   - "Smriti Mandhana leads India for the first time as **all-format captain** on Friday."
   - "This is India's **first bilateral series** against Zimbabwe women."
-  - "Harmanpreet Kaur stepped down on 6 October after captaining India in **155 T20Is**."
+  - "Harmanpreet Kaur stepped down on October 6 after captaining India in **155 T20Is**."
 hero:
   need: "Smriti Mandhana batting for India"
   suggested_source: "Smriti Mandhana"
@@ -21,7 +21,7 @@ hero:
     value: "A new captain, a new opponent"
 related: [modi-hosts-asian-games-champions-iyer-harmanpreet-delhi, australia-women-sweep-bangladesh-schutt-brisbane]
 seo:
-  description: "Smriti Mandhana captains India women for the first time as full-time skipper in the first T20I against Zimbabwe in Raipur on 16 October, after Harmanpreet Kaur stepped down."
+  description: "Smriti Mandhana captains India women for the first time as full-time skipper in the first T20I against Zimbabwe in Raipur on October 16, after Harmanpreet Kaur stepped down."
 sources:
   - title: "India target fearless approach for Zimbabwe series"
     publisher: "ICC"
@@ -63,8 +63,8 @@ verification:
   notes:
     - "Start time and Raipur stadium name not found; copy says only 'Raipur' and 'Friday'."
     - "Zimbabwe captain and squad not found; left out."
-    - "Mandhana's previous stand-in record (18 T20Is, 4 ODIs), WPL titles, passing Mithali Raj, 18 centuries: ICC article of 6 Oct."
-    - "Shafali Verma quotes from her pre-series press conference in Raipur, ICC article of 15 Oct. Vice-captaincy roles (Shafali T20I, Deepti ODI) from the same."
+    - "Mandhana's previous stand-in record (18 T20Is, 4 ODIs), WPL titles, passing Mithali Raj, 18 centuries: ICC article of Oct 6."
+    - "Shafali Verma quotes from her pre-series press conference in Raipur, ICC article of Oct 15. Vice-captaincy roles (Shafali T20I, Deepti ODI) from the same."
     - "Asian Games final figures (beat Sri Lanka by 147 runs; 216/3; Mandhana 79, Shafali 67): Free Press Journal and Sports Digest."
     - "Harmanpreet's 2025 World Cup win in November 2025 on home soil: ICC wording."
     - "Mandhana's quote is only partly available: 'To be given the responsibility of leading India is a very special honour.'"
@@ -72,7 +72,7 @@ verification:
 
 Smriti Mandhana walks out as India's full-time captain for the first time on Friday, when India women open a three-match T20I series against Zimbabwe in Raipur. It is the first bilateral series the two sides have played.
 
-Mandhana was named captain across all formats on 6 October, the same day Harmanpreet Kaur gave up the job. "To be given the responsibility of leading India is a very special honour," Mandhana said when the change was announced.
+Mandhana was named captain across all formats on October 6, the same day Harmanpreet Kaur gave up the job. "To be given the responsibility of leading India is a very special honour," Mandhana said when the change was announced.
 
 She is no stranger to the role. As Harmanpreet's long-time deputy she had already led India in 18 T20Is and four ODIs, and she has won the Women's Premier League twice as captain of Royal Challengers Bengaluru. She also arrives as the leading run-scorer in women's international cricket, having recently passed Mithali Raj, with 18 international hundreds.
 
@@ -94,6 +94,6 @@ Jemimah Rodrigues misses the series as she recovers from injury, and Niki Prasad
 
 ## The schedule
 
-All three T20Is are in Raipur, on 16, 18 and 20 October. The teams then move to Vadodara for three ODIs on 23, 25 and 28 October. The bigger target is the ICC Women's Champions Trophy in February.
+All three T20Is are in Raipur, on 16, October 18 and 20. The teams then move to Vadodara for three ODIs on 23, October 25 and 28. The bigger target is the ICC Women's Champions Trophy in February.
 
 India's T20I squad: Smriti Mandhana (captain), Shafali Verma, Niki Prasad, Harmanpreet Kaur, Anushka Sharma, Richa Ghosh, G Kamalini, Deepti Sharma, Prema Rawat, Sree Charani, Nandni Sharma, Kranti Gaud, Arundhati Reddy, Jintimani Kalita, Minnu Mani.

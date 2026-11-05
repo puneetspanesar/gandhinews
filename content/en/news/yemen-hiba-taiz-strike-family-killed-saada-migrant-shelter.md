@@ -22,7 +22,7 @@ hero:
     value: "A family home, a migrant shelter"
 related: [yemen-taiz-fighting-260000-displaced-ocha, saudi-strike-saada-nine-killed-najran-helicopter-crash]
 seo:
-  description: "An air strike on a house in Hiba near Taiz killed four of one family and a strike on a Saada migrant shelter injured seven, Houthi health officials said on 24 October."
+  description: "An air strike on a house in Hiba near Taiz killed four of one family and a strike on a Saada migrant shelter injured seven, Houthi health officials said on October 24."
 sources:
   - title: "Israel imposes closures across a West Bank city after attacks, and other Mideast news (AP)"
     publisher: "KSAT"
@@ -43,7 +43,7 @@ verification:
   status: approved
   notes:
     - "Casualty figures rest on Houthi-run health authorities via AP; spokesperson Anees al-Asbahi blamed Saudi Arabia. No independent confirmation; attributed throughout."
-    - "UN displacement figure from the Gandhi News story of 22 October (OCHA). Names of the dead and nationality of the migrants were not given."
+    - "UN displacement figure from the Gandhi News story of October 22 (OCHA). Names of the dead and nationality of the migrants were not given."
 ---
 
 An air strike late on Friday night hit a house in Hiba, near the south-western Yemeni city of Taiz, killing four people from the same family, the Houthi-run health authorities said on Saturday. Five other people were wounded. Women and children were among the victims.

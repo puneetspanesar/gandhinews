@@ -8,7 +8,7 @@ topics: [electoral-rolls-sir, election-commission, supreme-court]
 title: "What the INDIA bloc's Supreme Court petition on the SIR asks for"
 standfirst: "Rahul Gandhi and 10 other opposition leaders want the voter roll revision stopped, its records opened up and its deletions audited. Here is what they are asking, on what legal grounds, and what the Election Commission says."
 published: 2026-10-13T05:00:00+05:30
-shortAnswer: "The petition, filed on 12 October by Rahul Gandhi and 10 other INDIA bloc leaders against the Election Commission and its three commissioners, asks the Supreme Court to suspend the Special Intensive Revision of electoral rolls in all states while the case is heard. It also seeks the Commission's internal records on the SIR, an audit of deletions by a committee led by a retired Supreme Court judge, booth-wise lists of deleted voters and a rule that no name is struck off without notice and a hearing. The Election Commission says its SIR decisions were unanimous and have been upheld by the court."
+shortAnswer: "The petition, filed on October 12 by Rahul Gandhi and 10 other INDIA bloc leaders against the Election Commission and its three commissioners, asks the Supreme Court to suspend the Special Intensive Revision of electoral rolls in all states while the case is heard. It also seeks the Commission's internal records on the SIR, an audit of deletions by a committee led by a retired Supreme Court judge, booth-wise lists of deleted voters and a rule that no name is struck off without notice and a hearing. The Election Commission says its SIR decisions were unanimous and have been upheld by the court."
 hero:
   need: "Voters queuing at a polling booth in India, or a Booth Level Officer checking an electoral roll"
   suggested_source: "voters queue polling booth India"
@@ -49,14 +49,14 @@ verification:
   notes:
     - "The petition itself was not read. Prayers are as reported by LiveLaw (detailed list, updated version) and Gujarat Samachar (10 demands); the two match. Hans India gives petitioners and respondents and says reliefs were not specified at its time of writing."
     - "Section 18 of the CEC and Other ECs Act, 2023 is described only as the petition reads it (collective, minuted decisions), per LiveLaw. The section's text was not opened."
-    - "The 27 May 2026 Supreme Court judgment upholding the 24 June 2025 Bihar order is the ECI's own statement (X post, 5 Oct, via Daily Jagran); judgment not opened."
-    - "Listing: LiveLaw says similar SIR matters are listed Tuesday 13 Oct and the CJI indicated the opposition petition could be taken up with them. No confirmed listing of this petition seen."
+    - "The May 27, 2026 Supreme Court judgment upholding the June 24, 2025 Bihar order is the ECI's own statement (X post, Oct 5, via Daily Jagran); judgment not opened."
+    - "Listing: LiveLaw says similar SIR matters are listed Tuesday, Oct 13 and the CJI indicated the opposition petition could be taken up with them. No confirmed listing of this petition seen."
     - "The 'at least 14 objections in 10 months' figure is from the Indian Express report as summarised by ANI (ThePrint); the original report was not opened."
 ---
 
 ## What is the petition?
 
-**It is a writ petition filed in the Supreme Court on 12 October by 11 INDIA bloc leaders against the Election Commission of India (ECI) over the Special Intensive Revision (SIR) of electoral rolls.** The case, *Rahul Gandhi v. Election Commission of India*, carries Diary No. 64196/2026 and was filed through advocate-on-record S Prasanna as the opposition's march towards the court was stopped by police.
+**It is a writ petition filed in the Supreme Court on October 12 by 11 INDIA bloc leaders against the Election Commission of India (ECI) over the Special Intensive Revision (SIR) of electoral rolls.** The case, *Rahul Gandhi v. Election Commission of India*, carries Diary No. 64196/2026 and was filed through advocate-on-record S Prasanna as the opposition's march towards the court was stopped by police.
 
 The petitioners are Rahul Gandhi and Mallikarjun Kharge of the Congress, Akhilesh Yadav (Samajwadi Party), Tejashwi Yadav (RJD), Saugata Roy (Trinamool Congress), Supriya Sule (NCP-SP), Sanjay Raut (Shiv Sena-UBT), D Raja (CPI), M A Baby (CPI-M), Mahua Majhi (JMM) and E T Mohammed Basheer (IUML). The respondents are the ECI, Chief Election Commissioner Gyanesh Kumar and Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi.
 
@@ -64,7 +64,7 @@ The petitioners are Rahul Gandhi and Mallikarjun Kharge of the Congress, Akhiles
 
 **Its central request is that the SIR be suspended "across all States pending adjudication of the petition".** It lists 10 reliefs in all. The main ones:
 
-- Disclosure of the ECI's files, minutes, notings and access logs from its ECINET and ERONET systems on the SIR, including the full file on the decision of 24 June 2025 to launch it.
+- Disclosure of the ECI's files, minutes, notings and access logs from its ECINET and ERONET systems on the SIR, including the full file on the decision of June 24, 2025, to launch it.
 - A review of whether those decisions were lawful, and the quashing of any taken without legal authority.
 - Action against officials found to have broken the law on preparing rolls.
 - A committee headed by a retired Supreme Court judge, with technical experts, to audit SIR deletions, access to the voter databases and EVM processes.
@@ -89,12 +89,12 @@ For action against officials, it invokes Section 32 of the Representation of the
 
 ## Where does Form 6 come in?
 
-**The petition asks that online Form 6, used to add a name to the roll, match the format in the 1960 Rules.** The ECI added an SIR declaration to the form. On 5 October a bench led by Chief Justice Surya Kant said, "Any modification to Form 6 has not been approved by us." The ECI's position is that "The declaration attached to Form 6 for SIR has been upheld by the Hon'ble Supreme Court."
+**The petition asks that online Form 6, used to add a name to the roll, match the format in the 1960 Rules.** The ECI added an SIR declaration to the form. On October 5 a bench led by Chief Justice Surya Kant said, "Any modification to Form 6 has not been approved by us." The ECI's position is that "The declaration attached to Form 6 for SIR has been upheld by the Hon'ble Supreme Court."
 
 ## What does the other side say?
 
-**The ECI and the BJP say the SIR is lawful and has already been tested in court.** The ECI says the Bihar SIR order of 24 June 2025 "was issued with the unanimous approval of the Commission" and was upheld by the Supreme Court in its judgment of 27 May 2026. BJP national spokesperson Guru Prakash Paswan called the opposition's claims "baseless" and said: "The Supreme Court has already ruled on the constitutionality of SIR."
+**The ECI and the BJP say the SIR is lawful and has already been tested in court.** The ECI says the Bihar SIR order of June 24, 2025 "was issued with the unanimous approval of the Commission" and was upheld by the Supreme Court in its judgment of May 27, 2026. BJP national spokesperson Guru Prakash Paswan called the opposition's claims "baseless" and said: "The Supreme Court has already ruled on the constitutionality of SIR."
 
 ## What happens next?
 
-**Other SIR cases were listed for 13 October, and the Chief Justice indicated the opposition's petition could be heard alongside them.** The court can issue notice to the ECI and ask for its reply, grant or refuse interim relief such as a stay, or tag the case with the pending matters. Any order on a nationwide stay would affect revisions now under way in several states, including poll-bound states such as Punjab.
+**Other SIR cases were listed for October 13, and the Chief Justice indicated the opposition's petition could be heard alongside them.** The court can issue notice to the ECI and ask for its reply, grant or refuse interim relief such as a stay, or tag the case with the pending matters. Any order on a nationwide stay would affect revisions now under way in several states, including poll-bound states such as Punjab.

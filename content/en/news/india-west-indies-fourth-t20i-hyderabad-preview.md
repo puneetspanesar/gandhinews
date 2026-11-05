@@ -12,7 +12,7 @@ location: Hyderabad
 keyPoints:
   - "India lead the five-match series **2-1** going into Wednesday's fourth T20I in Hyderabad."
   - "Naman Dhir **replaced Washington Sundar** in the T20I squad before the series began."
-  - "India's T20I squad for **New Zealand** has already been named, with the first match in Christchurch on 22 October."
+  - "India's T20I squad for **New Zealand** has already been named, with the first match in Christchurch on October 22."
 hero:
   need: "Rajiv Gandhi International Cricket Stadium, Uppal, Hyderabad"
   suggested_source: "Rajiv Gandhi International Cricket Stadium Hyderabad"
@@ -21,7 +21,7 @@ hero:
     value: "India 2-1 up, Hyderabad next"
 related: [india-beat-west-indies-by-14-runs-in-indore-t20i]
 seo:
-  description: "India v West Indies 4th T20I preview: India lead 2-1 heading to Hyderabad on 14 October. Squad news, Naman Dhir in for Washington Sundar, and what comes next."
+  description: "India v West Indies 4th T20I preview: India lead 2-1 heading to Hyderabad on October 14. Squad news, Naman Dhir in for Washington Sundar, and what comes next."
 sources:
   - title: "India's squad for home series against West Indies and ROI squad for Irani Cup announced"
     publisher: "BCCI"
@@ -51,8 +51,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Naman Dhir for Washington Sundar: only the BCCI headline of 1 Oct ('Naman Dhir replaces Washington Sundar for T20Is') was visible; the body did not load. Dhir's presence in the Yardbarker squad list (4 Oct) and in the Indore XI agrees. No reason for Sundar's withdrawal is given in copy."
-    - "No confirmed team news for Hyderabad exists yet. Hindi media predictions of Abhishek Sharma or Arshdeep Singh being rested are speculation (asianetnews Hindi, 12 Oct) and are left out."
+    - "Naman Dhir for Washington Sundar: only the BCCI headline of Oct 1 ('Naman Dhir replaces Washington Sundar for T20Is') was visible; the body did not load. Dhir's presence in the Yardbarker squad list (Oct 4) and in the Indore XI agrees. No reason for Sundar's withdrawal is given in copy."
+    - "No confirmed team news for Hyderabad exists yet. Hindi media predictions of Abhishek Sharma or Arshdeep Singh being rested are speculation (asianetnews Hindi, Oct 12) and are left out."
     - "West Indies squad from Yardbarker only (it spells Chase as 'Roton'); copy names only players already confirmed by match reports."
     - "Ravi Bishnoi's absence from the New Zealand squad is from comparing the two BCCI lists."
 ---
@@ -63,7 +63,7 @@ It has been a series of big totals and quick swings. Iyer's unbeaten 102 set up 
 
 ## The squad India have
 
-The squad has changed since the selectors named it on 16 September. Naman Dhir replaced Washington Sundar for the T20Is, and Dhir has made his mark: two wickets in Indore, including Shimron Hetmyer and Kamil Pooran.
+The squad has changed since the selectors named it on September 16. Naman Dhir replaced Washington Sundar for the T20Is, and Dhir has made his mark: two wickets in Indore, including Shimron Hetmyer and Kamil Pooran.
 
 India's 15 are Iyer (captain), Tilak Varma (vice-captain), Abhishek, Vaibhav Sooryavanshi, Ishan Kishan, Sanju Samson, Dhir, Shivam Dube, Kuldeep Yadav, Axar Patel, Ravi Bishnoi, Nitish Kumar Reddy, Arshdeep, Prince Yadav and Mayank Yadav.
 
@@ -71,7 +71,7 @@ For Indore, India left out Kuldeep and Dube and brought in Prince and Nitish, tr
 
 > Given the dimensions, we made those changes and we also needed someone who can hit the yorkers. It was wonderful to see the bowlers being confident.
 >
-> Source: Shreyas Iyer, India captain, 11 October 2026
+> Source: Shreyas Iyer, India captain, October 11, 2026
 
 ## West Indies looking for an answer
 
@@ -79,6 +79,6 @@ West Indies have shown they can chase anything, but in Indore their bowlers conc
 
 ## New Zealand in view
 
-These last two games are India's final T20Is before they fly to New Zealand. The selectors named a 16-man squad for that five-match series on 6 October. Bhuvneshwar Kumar and Varun Chakaravarthy come in, while Bishnoi is not in it. The first match is in Christchurch on 22 October.
+These last two games are India's final T20Is before they fly to New Zealand. The selectors named a 16-man squad for that five-match series on October 6. Bhuvneshwar Kumar and Varun Chakaravarthy come in, while Bishnoi is not in it. The first match is in Christchurch on October 22.
 
-The fifth and final T20I against West Indies is at the M. Chinnaswamy Stadium in Bengaluru on Saturday, 17 October.
+The fifth and final T20I against West Indies is at the M. Chinnaswamy Stadium in Bengaluru on Saturday, October 17.

@@ -22,7 +22,7 @@ hero:
     value: "5.5 lakh on the streets, 400 arrested"
 related: [albania-police-rubber-bullets-rama-protests-fifth-day, albania-education-ministry-fire-student-protests-tirana]
 seo:
-  description: "About 550,000 marched across France on 17 October as student protests over schools widened; Limoges city hall was set on fire and about 400 were arrested."
+  description: "About 550,000 marched across France on October 17 as student protests over schools widened; Limoges city hall was set on fire and about 400 were arrested."
 sources:
   - title: "Clashes, fires and looting break out as protesters rally across France, joining students"
     publisher: "The Boston Globe (AP)"

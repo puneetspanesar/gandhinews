@@ -22,7 +22,7 @@ hero:
     value: "Hitting the missile supply chain"
 related: [eu-proposes-117-russia-sanctions-listings-after-trump-diesel-deal, trump-defends-russia-sanctions-waiver-attacks-zelenskyy]
 seo:
-  description: "Zelenskyy imposed sanctions on 83 Russian citizens and 79 firms linked to missile and arms production, including Rusal, Ukraine's presidential office said on 24 October."
+  description: "Zelenskyy imposed sanctions on 83 Russian citizens and 79 firms linked to missile and arms production, including Rusal, Ukraine's presidential office said on October 24."
 sources:
   - title: "Ukraine sanctions Russian arms suppliers as Moscow ramps up attacks"
     publisher: "The Kyiv Independent"
@@ -36,7 +36,7 @@ verification:
     - "Rusal alumina imports 150 million roubles (about $1.8m), Apr 2024 to Mar 2025, per Kyiv Independent summary of the decree."
     - "HUR figures: about 10,000 drones a month, stockpiling 700 ballistic missiles."
     - "No India-linked entities mentioned in the source."
-    - "Interceptor delay: Zelenskyy, 23 Oct, per Kyiv Independent Starshield article (https://kyivindependent.com/starshield-operations-restored-above-400-km-h-ukraines-defense-ministry-says/)."
+    - "Interceptor delay: Zelenskyy, Oct 23, per Kyiv Independent Starshield article (https://kyivindependent.com/starshield-operations-restored-above-400-km-h-ukraines-defense-ministry-says/)."
 ---
 
 President Volodymyr Zelenskyy has imposed sanctions on 83 Russian citizens and 79 companies that Kyiv says keep Russia's missile and arms factories supplied, his office said on Saturday, as Moscow steps up its long-range strikes on Ukrainian cities and power plants.

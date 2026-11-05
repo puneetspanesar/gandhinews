@@ -22,7 +22,7 @@ hero:
     value: "'People call him Bhasmasur'"
 related: [supreme-court-notice-congress-rahul-march-browbeat-judiciary, india-bloc-convoy-connaught-place-tejashwi-crush-democracy, trivedi-rahul-foreign-trips-priyank-kharge-raw-retort]
 seo:
-  description: "BJP spokesperson Gaurav Bhatia on 3 November accused the Congress and INDIA bloc of an 'anarchic model', citing a sting, and sought a probe into alleged foreign funding of protests."
+  description: "BJP spokesperson Gaurav Bhatia on November 3 accused the Congress and INDIA bloc of an 'anarchic model', citing a sting, and sought a probe into alleged foreign funding of protests."
 sources:
   - title: "'Women as shield, foreign funding for protests': BJP tears into Oppn over 'anarchic model' (Lead)"
     publisher: "IANS"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 3 Nov ~17:45-18:00 IST, Gaurav Bhatia press conference at BJP HQ, New Delhi; IANS report 18:10 IST, lead updated 19:13. Single source."
+    - "event: Nov 3 ~17:45-18:00 IST, Gaurav Bhatia press conference at BJP HQ, New Delhi; IANS report 18:10 IST, lead updated 19:13. Single source."
     - "Quotes are IANS English renderings of remarks likely made in Hindi. 'Poisonous snakes' was reported speech, kept as paraphrase."
     - "Sting: channel not named by IANS; persons in the sting not identified. Allegations are Bhatia's own, presented as such. No Congress response in source; not mentioned in copy."
     - "Left out a second opposition name in the source ('Neha Bora') because identity could not be confirmed."

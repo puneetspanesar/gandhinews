@@ -22,7 +22,7 @@ hero:
     value: "Scotland and Chile at Goyal's table"
 related: [india-uk-jetco-goyal-doubling-trade-by-2030, goyal-fta-outreach-states-msme-farmers-exports]
 seo:
-  description: "Piyush Goyal met Scottish First Minister John Swinney and former Chilean President Eduardo Frei in New Delhi on 21 October to discuss trade and investment ties."
+  description: "Piyush Goyal met Scottish First Minister John Swinney and former Chilean President Eduardo Frei in New Delhi on October 21 to discuss trade and investment ties."
 sources:
   - title: "Piyush Goyal discusses trade, investment opportunities with Scotland and Chile representatives (IANS)"
     publisher: "Punjab Kesari (English)"
@@ -33,19 +33,19 @@ verification:
   status: approved
   notes:
     - "Single source (IANS via Punjab Kesari, 9:34 pm), quoting Goyal's X posts. Venue of the meetings not given; dateline New Delhi from the report."
-    - "CETA in force 15 July 2026 and ~99% zero-duty claim attributed to the Commerce Ministry; Chile CEPA end-2026 target from a 30 Aug ministry statement, per IANS."
+    - "CETA in force July 15, 2026, and ~99% zero-duty claim attributed to the Commerce Ministry; Chile CEPA end-2026 target from a Aug 30 ministry statement, per IANS."
 ---
 
 Commerce and Industry Minister Piyush Goyal held separate meetings on Wednesday with Scotland's First Minister, John Swinney, and a Chilean delegation led by former President Eduardo Frei, as India works to make use of its new trade agreements and close new ones.
 
 With Swinney, the talks centred on what the India-UK Comprehensive Economic and Trade Agreement (CETA) opens up, particularly in semiconductors, renewable energy, data centres and other technology-led sectors. "We held productive discussions on advancing the India–Scotland economic and trade partnership," Goyal wrote on X afterwards. The two also discussed higher education, science, space, tourism and links between industries in both countries.
 
-The CETA came into force on 15 July 2026. The Commerce Ministry says it gives nearly 99% of India's exports zero-duty access to the British market.
+The CETA came into force on July 15, 2026. The Commerce Ministry says it gives nearly 99% of India's exports zero-duty access to the British market.
 
 ## Chile talks
 
 Frei, who now serves as Chile's Ambassador on a Special Mission, came with Chilean officials and representatives of CAF, the Development Bank of Latin America and the Caribbean. Goyal said they "exchanged views on strengthening India-Chile economic ties and exploring new avenues for trade".
 
-India and Chile are negotiating a Comprehensive Economic Partnership Agreement to build on their existing preferential trade agreement. In a statement on 30 August, the ministry said both sides were aiming to conclude the talks by the end of 2026, with access to critical and strategic minerals a priority.
+India and Chile are negotiating a Comprehensive Economic Partnership Agreement to build on their existing preferential trade agreement. In a statement on August 30, the ministry said both sides were aiming to conclude the talks by the end of 2026, with access to critical and strategic minerals a priority.
 
 Neither meeting produced any announced investment commitment or agreement.

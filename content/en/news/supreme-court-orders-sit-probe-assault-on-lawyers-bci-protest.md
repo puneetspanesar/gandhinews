@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (LiveLaw). Date of the alleged assault not reported; complaint to IP Estate SHO was on 22 August."
+    - "Single source (LiveLaw). Date of the alleged assault not reported; complaint to IP Estate SHO was on August 22."
     - "Case name and number not given in the source."
     - "That Mishra is a ruling-party MP is Prashant Bhushan's submission; attributed to him. No response from Mishra or the BCI found."
     - "No deadline for the SIT was reported."
@@ -44,7 +44,7 @@ The bench of Chief Justice Surya Kant, Justice Joymalya Bagchi and Justice V. Mo
 
 ## A plea for a CBI probe
 
-The lawyers say they were attacked at the BCI's premises during their protest. They complained to the station house officer at IP Estate on 22 August. Appearing for them, advocate Prashant Bhushan said no FIR had been registered two months later. He alleged the attackers came at Mishra's insistence and argued that a CBI probe or an independent SIT was needed, since the Delhi Police is under the government's control and Mishra is a ruling-party MP.
+The lawyers say they were attacked at the BCI's premises during their protest. They complained to the station house officer at IP Estate on August 22. Appearing for them, advocate Prashant Bhushan said no FIR had been registered two months later. He alleged the attackers came at Mishra's insistence and argued that a CBI probe or an independent SIT was needed, since the Delhi Police is under the government's control and Mishra is a ruling-party MP.
 
 The Delhi High Court had earlier turned down their request for a CBI probe, saying they could file a complaint before a magistrate.
 

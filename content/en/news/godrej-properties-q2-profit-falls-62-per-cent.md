@@ -22,7 +22,7 @@ hero:
     value: "Profit down 62%"
 related: []
 seo:
-  description: "Godrej Properties Q2 FY27 results: consolidated net profit falls 62% to ₹154 crore, total income rises to ₹2,571.73 crore; shares fall 6.2% to ₹1,468.40 on 23 October 2026."
+  description: "Godrej Properties Q2 FY27 results: consolidated net profit falls 62% to ₹154 crore, total income rises to ₹2,571.73 crore; shares fall 6.2% to ₹1,468.40 on October 23, 2026."
 sources:
   - title: "Godrej Properties Q2FY27 results: Net profit falls 62% to ₹154 crore"
     publisher: "Business Standard (PTI)"

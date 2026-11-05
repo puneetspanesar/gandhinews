@@ -8,7 +8,7 @@ topics: []
 title: "How the UN Secretary-General is chosen, and why all seven candidates have hit a veto"
 standfirst: "The Security Council's sixth straw poll left every candidate with a 'discourage' vote from a permanent member, and Macky Sall has quit the race. How the selection works, what a straw poll is, and what happens if the deadlock holds past December."
 published: 2026-10-19T05:20:00+05:30
-shortAnswer: "Under Article 97 of the UN Charter, the General Assembly appoints the Secretary-General on the recommendation of the Security Council. In practice the 15 Council members hold a series of informal, secret straw polls in which they 'encourage', 'discourage' or express 'no opinion' on each candidate. A candidate needs at least nine votes and no objection from any of the five permanent members, whose votes are marked on coloured ballots in later rounds. In the sixth poll on 16 October 2026 all seven candidates drew a permanent member's 'discourage', so no one can yet be recommended, with Antonio Guterres's term ending on 31 December."
+shortAnswer: "Under Article 97 of the UN Charter, the General Assembly appoints the Secretary-General on the recommendation of the Security Council. In practice the 15 Council members hold a series of informal, secret straw polls in which they 'encourage', 'discourage' or express 'no opinion' on each candidate. A candidate needs at least nine votes and no objection from any of the five permanent members, whose votes are marked on coloured ballots in later rounds. In the sixth poll on October 16, 2026, all seven candidates drew a permanent member's 'discourage', so no one can yet be recommended, with Antonio Guterres's term ending on December 31."
 hero:
   need: "Javier Perez de Cuellar, the Peruvian diplomat chosen in 1981 through the first informal straw polls"
   suggested_source: "Javier Pérez de Cuéllar"
@@ -48,12 +48,12 @@ sources:
 verification:
   status: approved
   notes:
-    - "Article 97 wording, 1981 origin of straw polls (Council President Olara Otunnu of Uganda after 16 deadlocked rounds; Perez de Cuellar chosen), 1971 and 1976 vetoes, 1996 US veto of Boutros-Ghali, 2015 resolution 69/321, 2016 timeline (six straw polls 21 July to 5 October, resolution 2311 on 6 October, GA resolution 71/4 on 13 October), 2021 rule on member-state nomination and 2025 resolution 79/327 from the NYU CIC paper. The CIC summary printed 'Alora Otunnu'; the 1981 Council president was Olara Otunnu, now a candidate himself. Checked against the desk's 18 Oct story naming Otunnu of Uganda; treat as a fair identification but the copy keeps it simple."
+    - "Article 97 wording, 1981 origin of straw polls (Council President Olara Otunnu of Uganda after 16 deadlocked rounds; Perez de Cuellar chosen), 1971 and 1976 vetoes, 1996 US veto of Boutros-Ghali, 2015 resolution 69/321, 2016 timeline (six straw polls July 21 to October 5, resolution 2311 on October 6, GA resolution 71/4 on October 13), 2021 rule on member-state nomination and 2025 resolution 79/327 from the NYU CIC paper. The CIC summary printed 'Alora Otunnu'; the 1981 Council president was Olara Otunnu, now a candidate himself. Checked against the desk's Oct 18 story naming Otunnu of Uganda; treat as a fair identification but the copy keeps it simple."
     - "Nine-vote threshold and GA usually appointing by acclamation from Drishti IAS; the GA 'has never rejected' a recommendation from the Christian Science Monitor. Two sources agree on encourage/discourage/no opinion and coloured P5 ballots."
-    - "Sixth poll result (16 Oct), Grynspan seven encourage and five discourage including two P5, Sall withdrawal on 17 Oct, remaining candidates, from the desk's 18 Oct story (Africanews/AFP)."
+    - "Sixth poll result (Oct 16), Grynspan seven encourage and five discourage including two P5, Sall withdrawal on Oct 17, remaining candidates, from the desk's Oct 18 story (Africanews/AFP)."
     - "No formal regional rotation rule (CIC); Latin America's 'turn' is convention as described by the Monitor's former UN official."
     - "Georgina Holmes quote from the Christian Science Monitor."
-    - "What happens if no one is chosen by 31 December is not settled by any rule found; copy says options were not spelled out."
+    - "What happens if no one is chosen by December 31 is not settled by any rule found; copy says options were not spelled out."
 ---
 
 ## Who chooses the UN Secretary-General?
@@ -81,7 +81,7 @@ In the early rounds all 15 members use identical ballots, so nobody knows whethe
 "It's really the decision of the P3 that this will rest on," Georgina Holmes of the Open University said in September, referring to the United States, Britain and France.
 
 ```timeline
-{"title":"How the 2016 race ran","items":[{"date":"15 Dec 2015","text":"Council and Assembly presidents send a joint letter inviting nominations"},{"date":"12-14 Apr 2016","text":"Candidates take questions from member states in public dialogues"},{"date":"21 Jul 2016","text":"First of six Security Council straw polls"},{"date":"5 Oct 2016","text":"Sixth poll, with coloured ballots: no permanent member discourages Antonio Guterres"},{"date":"6 Oct 2016","text":"Council recommends Guterres in resolution 2311"},{"date":"13 Oct 2016","text":"General Assembly appoints him"}]}
+{"title":"How the 2016 race ran","items":[{"date":"Dec 15, 2015","text":"Council and Assembly presidents send a joint letter inviting nominations"},{"date":"Apr 12-14, 2016","text":"Candidates take questions from member states in public dialogues"},{"date":"Jul 21, 2016","text":"First of six Security Council straw polls"},{"date":"Oct 5, 2016","text":"Sixth poll, with coloured ballots: no permanent member discourages Antonio Guterres"},{"date":"Oct 6, 2016","text":"Council recommends Guterres in resolution 2311"},{"date":"Oct 13, 2016","text":"General Assembly appoints him"}]}
 ```
 
 ## What changed after 2016?
@@ -94,4 +94,4 @@ In the early rounds all 15 members use identical ballots, so nobody knows whethe
 
 ## What happens now?
 
-**More polls, and possibly new names.** Countries can still nominate candidates, as Bulgaria did with Kristalina Georgieva as late as September 2016. US Ambassador Mike Waltz said last week that states were within their "sovereign rights" to do so, and names such as Nickolay Mladenov and the UAE's Lana Nusseibeh are being mentioned. Past deadlocks have been broken by a late compromise candidate. If none emerges before Guterres leaves on 31 December, the UN would face a gap at the top that its rules do not clearly provide for.
+**More polls, and possibly new names.** Countries can still nominate candidates, as Bulgaria did with Kristalina Georgieva as late as September 2016. US Ambassador Mike Waltz said last week that states were within their "sovereign rights" to do so, and names such as Nickolay Mladenov and the UAE's Lana Nusseibeh are being mentioned. Past deadlocks have been broken by a late compromise candidate. If none emerges before Guterres leaves on December 31, the UN would face a gap at the top that its rules do not clearly provide for.

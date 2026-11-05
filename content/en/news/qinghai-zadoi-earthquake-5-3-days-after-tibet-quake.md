@@ -22,7 +22,7 @@ hero:
     value: "The plateau shakes again"
 related: [tibet-earthquake-baqen-16-dead-rescue]
 seo:
-  description: "A magnitude 5.3 quake struck Zadoi county in China's Qinghai on 24 October, two days after a magnitude 7.0 Tibet earthquake killed 16 in Baqen county."
+  description: "A magnitude 5.3 quake struck Zadoi county in China's Qinghai on October 24, two days after a magnitude 7.0 Tibet earthquake killed 16 in Baqen county."
 sources:
   - title: "5.3-magnitude earthquake hits China's Qinghai days after Tibet quake (PTI)"
     publisher: "Business Standard"

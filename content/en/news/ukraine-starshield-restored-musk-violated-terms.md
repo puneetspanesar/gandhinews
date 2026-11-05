@@ -55,7 +55,7 @@ verification:
     - "Speeds: ministry quote 'We record a speed of more than 400 km/h, the connection is stable' and earlier cap of 161 km/h (Kyiv Independent); Reuters gives 160 kph. Copy says 'about 160 km/h'."
     - "Defence minister's name: Al Jazeera 'Yevhenii Khmara', Kyiv Independent 'Yevhen Khmara'; copy uses Yevhen Khmara."
     - "Musk quote and 'loophole closed the previous week' paraphrase, Beskrestnov 'physically unable' and 70-90 kph: Reuters via ThePrint."
-    - "Trump quotes 'I have not spoken to him' and 'I've heard it's fixed. If it's not, I will speak to him': Kyiv Independent. WSJ report that Trump ordered Musk on 21 Oct to lift caps not used (single media report)."
+    - "Trump quotes 'I have not spoken to him' and 'I've heard it's fixed. If it's not, I will speak to him': Kyiv Independent. WSJ report that Trump ordered Musk on Oct 21 to lift caps not used (single media report)."
     - "Who ordered the caps remains unclear (Al Jazeera); Reuters sources say White House; not used in copy beyond 'no one has said who ordered'."
     - "Synelnykove strike: governor Oleksandr Hanzha (Kyiv Independent). Al Jazeera's earlier item named acting governor Vladyslav Haivanenko for a separate Dnipropetrovsk strike (3 dead, 8 hurt); not used to avoid confusion. Serious-condition count conflicts (two or three); not given."
     - "Omsk: Governor Vitaliy Khotsenko quote 'Personnel were promptly evacuated' (Kyiv Independent). Omsky Kauchuk plant fire per monitoring channel Exilenova Plus, unverified; copy hedges."

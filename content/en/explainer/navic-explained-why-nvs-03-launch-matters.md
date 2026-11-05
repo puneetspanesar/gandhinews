@@ -6,9 +6,9 @@ section: science
 format_label: "Explained / Space"
 topics: []
 title: "NavIC explained: why India's own navigation system needs the NVS-03 launch"
-standfirst: "ISRO will fly the NVS-03 satellite on a GSLV from Sriharikota on 30 October. What NavIC is, why failing clocks and a lost satellite left it short of a full service, and what one launch can fix."
+standfirst: "ISRO will fly the NVS-03 satellite on a GSLV from Sriharikota on October 30. What NavIC is, why failing clocks and a lost satellite left it short of a full service, and what one launch can fix."
 published: 2026-10-24T11:10:00+05:30
-shortAnswer: "NavIC is India's regional satellite navigation system, run by ISRO, which gives position and time over India and about 1,500 km beyond its borders without relying on GPS. Atomic clock failures on the first-generation satellites and the loss of NVS-02 in 2025 left it with three working satellites, one short of the four needed for standalone positioning. NVS-03, due on 30 October with an Indian-made rubidium clock, would bring it back to that minimum."
+shortAnswer: "NavIC is India's regional satellite navigation system, run by ISRO, which gives position and time over India and about 1,500 km beyond its borders without relying on GPS. Atomic clock failures on the first-generation satellites and the loss of NVS-02 in 2025 left it with three working satellites, one short of the four needed for standalone positioning. NVS-03, due on October 30 with an Indian-made rubidium clock, would bring it back to that minimum."
 hero:
   need: "A PSLV or GSLV launch carrying a NavIC (IRNSS) satellite from Sriharikota"
   suggested_source: "IRNSS-1I PSLV-C41 launch"
@@ -18,7 +18,7 @@ hero:
     value: "Four satellites, or no fix"
 related: [nvs-03-navic-satellite-gslv-launch-october-30, isro-gaganyaan-crew-service-module-separation-tests]
 seo:
-  description: "What NavIC is, how it differs from GPS, why clock failures and the NVS-02 loss weakened it, and why ISRO's NVS-03 launch on 30 October 2026 matters."
+  description: "What NavIC is, how it differs from GPS, why clock failures and the NVS-02 loss weakened it, and why ISRO's NVS-03 launch on October 30, 2026, matters."
 sources:
   - title: "ISRO to Launch NVS-03 on October 30"
     publisher: "Channel IAM"
@@ -43,10 +43,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "30 October date, GSLV Mk II, 2,232 kg, rubidium clock from the Space Applications Centre, three working satellites and four-needed line, NVS-02 propulsion failure (January 2025): from the desk's 23 October news story and its sources (Channel IAM, GKToday, Wikipedia)."
-    - "History (IRNSS-1A launched 1 July 2013, its three clocks failing from July 2016; nine of 24 clocks failed by May 2018; IRNSS-1H lost on PSLV-C39 on 31 August 2017 when the heat shield did not separate; IRNSS-1I on 12 April 2018; NVS-01 on 29 May 2023 with an indigenous clock and L1 signal), accuracy figures, L5/S bands, AIS 140 vehicle rule from 1 April 2019 and Qualcomm phone support: from a mirror of the Wikipedia NavIC page. That page's NVS-02 entry was out of date; the January 2025 failure is taken from the news story sources instead."
+    - "October 30 date, GSLV Mk II, 2,232 kg, rubidium clock from the Space Applications Centre, three working satellites and four-needed line, NVS-02 propulsion failure (January 2025): from the desk's October 23 news story and its sources (Channel IAM, GKToday, Wikipedia)."
+    - "History (IRNSS-1A launched July 1, 2013, its three clocks failing from July 2016; nine of 24 clocks failed by May 2018; IRNSS-1H lost on PSLV-C39 on August 31, 2017, when the heat shield did not separate; IRNSS-1I on April 12, 2018; NVS-01 on May 29, 2023, with an indigenous clock and L1 signal), accuracy figures, L5/S bands, AIS 140 vehicle rule from April 1, 2019, and Qualcomm phone support: from a mirror of the Wikipedia NavIC page. That page's NVS-02 entry was out of date; the January 2025 failure is taken from the news story sources instead."
     - "Accuracy figures on the page vary (5-10 m over India in one place, 3 m in the infobox); copy uses the 5-10 m standard service figure only, loosely."
-    - "Exact launch time not announced as of 24 October."
+    - "Exact launch time not announced as of October 24."
 ---
 
 ## What is NavIC?
@@ -69,7 +69,7 @@ The standard service is meant to fix a position to within about 5 to 10 metres o
 
 **The clocks failed, and then a replacement satellite was lost.**
 
-Each navigation satellite carries atomic clocks, and a satellite with no working clock cannot do its main job. The first NavIC satellite, IRNSS-1A, was launched on 1 July 2013 with three imported rubidium clocks. The first failed in July 2016 and the other two soon after. By May 2018, nine of the 24 clocks in orbit across the system had failed.
+Each navigation satellite carries atomic clocks, and a satellite with no working clock cannot do its main job. The first NavIC satellite, IRNSS-1A, was launched on July 1, 2013, with three imported rubidium clocks. The first failed in July 2016 and the other two soon after. By May 2018, nine of the 24 clocks in orbit across the system had failed.
 
 Replacing satellites proved hard too. IRNSS-1H, sent up in August 2017 to stand in for 1A, was lost when the heat shield on its PSLV rocket did not separate. IRNSS-1I reached orbit in April 2018. Then NVS-02, launched in January 2025, never reached its intended orbit because a propulsion problem stopped the manoeuvre that was to raise it there.
 
@@ -89,11 +89,11 @@ A receiver needs signals from four satellites to work out its location in three 
 
 NVS-03 is the third of the second-generation NVS satellites and the twelfth spacecraft built for the system. It weighs 2,232 kg and is designed to work for 12 years from a slot at 32.5 degrees East. Its rubidium clock was developed by ISRO's Space Applications Centre in Ahmedabad, a direct answer to the failures of the imported clocks.
 
-It also broadcasts on the L1 band, the frequency that GPS uses for its main civilian signal. That matters for phones, smartwatches and fitness trackers, which are built around L1 and struggle with NavIC's older L5 and S signals. The first NVS satellite, NVS-01, launched on 29 May 2023, introduced both the Indian clock and the L1 signal.
+It also broadcasts on the L1 band, the frequency that GPS uses for its main civilian signal. That matters for phones, smartwatches and fitness trackers, which are built around L1 and struggle with NavIC's older L5 and S signals. The first NVS satellite, NVS-01, launched on May 29, 2023, introduced both the Indian clock and the L1 signal.
 
 ## Does my phone use NavIC?
 
-**Possibly, if its chip supports it.** Some phones have been able to receive NavIC since 2020, through Qualcomm chipsets, and support for the L1 signal has been rolling out since. There is no rule requiring phones to carry it. Commercial vehicles are a different matter: since 1 April 2019 they have had to use NavIC-based tracking devices under the AIS 140 standard.
+**Possibly, if its chip supports it.** Some phones have been able to receive NavIC since 2020, through Qualcomm chipsets, and support for the L1 signal has been rolling out since. There is no rule requiring phones to carry it. Commercial vehicles are a different matter: since April 1, 2019, they have had to use NavIC-based tracking devices under the AIS 140 standard.
 
 For most users, a phone combines signals from several systems at once, so a stronger NavIC adds accuracy and a backup rather than replacing GPS.
 

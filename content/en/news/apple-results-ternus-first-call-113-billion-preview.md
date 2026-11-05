@@ -22,7 +22,7 @@ hero:
     value: "Ternus's first results call"
 related: [iphone-duo-india-sale-begins-price-2-99-lakh, wall-street-midday-dow-1-per-cent-oracle-slides-gold-rebounds, ftse-100-closes-higher-bp-shell-fall-oil-castrol-sale-ibstock]
 seo:
-  description: "Apple fourth-quarter results preview, 2 November 2026: consensus revenue $113.39 billion and EPS $1.99, iPhone revenue seen up 15%, John Ternus's first call as CEO, Dan Ives $400 target, shares down 2.4%."
+  description: "Apple fourth-quarter results preview, November 2, 2026: consensus revenue $113.39 billion and EPS $1.99, iPhone revenue seen up 15%, John Ternus's first call as CEO, Dan Ives $400 target, shares down 2.4%."
 cover:
   template: speaker
   label: "Apple results"
@@ -46,8 +46,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov 22:34 IST (Apple down 2.4% in Alliance News table, report published 12:04 pm EST); results due after the US close Monday (after 2:30 am IST Tue 3 Nov), so written as a preview. Exact release time not confirmed, written as 'after the close'."
-    - "Consensus $113.39bn / $1.99 vs $102.47bn / $1.85 a year ago, 14 straight beats, nine days of iPhone 18 Pro/Pro Max sales, iPhone revenue +15% expected, iPhone Duo on sale 23 Oct and not in the quarter, Dan Ives quotes and $400 target: all from the Benzinga preview carried by KuCoin (page time 16:24, zone not given). Earlier Benzinga figure: shares -1.1% at $340.71; later Alliance figure -2.4% used in the copy."
+    - "event: Nov 2 22:34 IST (Apple down 2.4% in Alliance News table, report published 12:04 pm EST); results due after the US close Monday (after 2:30 am IST Tue Nov 3), so written as a preview. Exact release time not confirmed, written as 'after the close'."
+    - "Consensus $113.39bn / $1.99 vs $102.47bn / $1.85 a year ago, 14 straight beats, nine days of iPhone 18 Pro/Pro Max sales, iPhone revenue +15% expected, iPhone Duo on sale Oct 23 and not in the quarter, Dan Ives quotes and $400 target: all from the Benzinga preview carried by KuCoin (page time 16:24, zone not given). Earlier Benzinga figure: shares -1.1% at $340.71; later Alliance figure -2.4% used in the copy."
     - "Memory-chip costs and holiday outlook as focus also in Euronext/Reuters 13:41 report. When Ternus took over not found; not stated."
     - "AppleInsider, Benzinga and CoinDCX previews failed to fetch."
 ---
@@ -60,7 +60,7 @@ Wall Street expects **revenue of $113.39 billion** for the July to September qua
 {"n":1,"subject":"Apple Park","caption":"Apple Park in Cupertino, California, the company's headquarters.","alt":"Apple Park, Apple's headquarters in Cupertino (file photo)"}
 ```
 
-The iPhone is the main event. Analysts expect iPhone revenue to **rise about 15%** from a year ago. The quarter includes only nine days of sales of the new iPhone 18 Pro and Pro Max, and none of the iPhone Duo, Apple's first foldable, which went on sale on 23 October, in India too, at prices from ₹2.99 lakh.
+The iPhone is the main event. Analysts expect iPhone revenue to **rise about 15%** from a year ago. The quarter includes only nine days of sales of the new iPhone 18 Pro and Pro Max, and none of the iPhone Duo, Apple's first foldable, which went on sale on October 23, in India too, at prices from ₹2.99 lakh.
 
 Investors will listen most closely to what comes next. Dan Ives of Yorkville Ives, who rates the stock outperform with a **$400 price target**, said the report "carries extra weight" because of the change at the top. "The September numbers are the appetizer and the December-quarter outlook is the main course," he said.
 

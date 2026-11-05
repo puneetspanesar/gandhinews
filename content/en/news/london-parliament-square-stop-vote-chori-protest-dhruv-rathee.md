@@ -22,7 +22,7 @@ hero:
     value: "'Stop Vote Chori', in Parliament Square"
 related: [dhruv-rathee-bailable-warrant-2018-defamation-case, us-lawmakers-urge-rubio-raise-cjp-protests-india, what-is-the-cockroach-janta-party, mea-rejects-us-congresswoman-remarks-electoral-process]
 seo:
-  description: "Hundreds joined a 'Stop Vote Chori' protest against CEC Gyanesh Kumar and SIR at Parliament Square in London on 17 October, with Dhruv Rathee as keynote speaker."
+  description: "Hundreds joined a 'Stop Vote Chori' protest against CEC Gyanesh Kumar and SIR at Parliament Square in London on October 17, with Dhruv Rathee as keynote speaker."
 sources:
   - title: "Indian student groups protest against CEC, SIR in London; Govt supporters hold counter-protest"
     publisher: "ThePrint (PTI)"
@@ -44,7 +44,7 @@ verification:
   notes:
     - "Single source for the London event (PTI via ThePrint, 8:45 pm IST). 'Hundreds' is PTI's figure; no police estimate."
     - "Rathee's first quote was spoken in Hindi; PTI's English rendering used. His 'replaced' quote is truncated in the source; copy paraphrases the condition (candidate agreed by government and Leader of the Opposition)."
-    - "Warrant background from site's earlier story (Pioneer/Quint, 17 Oct)."
+    - "Warrant background from site's earlier story (Pioneer/Quint, Oct 17)."
 ---
 
 Hundreds of people gathered around the statue of Mahatma Gandhi in London's Parliament Square on Saturday to protest against Chief Election Commissioner Gyanesh Kumar and the Special Intensive Revision (SIR) of electoral rolls, as a smaller group across the square chanted "Modi, Modi" in support of the government.
@@ -61,7 +61,7 @@ He said the protests would end the moment the Chief Election Commissioner was re
 
 The crowd chanted "Inquilab Zindabad" and "Vande Mataram", and the Preamble to the Constitution was read out.
 
-Rathee's appearance in London follows the issue of bailable warrants by a Delhi court in a 2018 defamation case over his video "BJP IT Cell Part 2". He had been detained by Gurugram Police on 10 October before he could join the protests in Delhi.
+Rathee's appearance in London follows the issue of bailable warrants by a Delhi court in a 2018 defamation case over his video "BJP IT Cell Part 2". He had been detained by Gurugram Police on October 10 before he could join the protests in Delhi.
 
 ## The counter-protest
 

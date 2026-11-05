@@ -22,7 +22,7 @@ hero:
     value: "Sixth day, 272 injured"
 related: [albania-police-rubber-bullets-rama-protests-fifth-day, albania-education-ministry-fire-student-protests-tirana, macron-anger-shame-france-riots-2400-arrested]
 seo:
-  description: "Albanian PM Edi Rama refused to resign on 18 October as student-led protests in Tirana entered a sixth day; 272 people have been injured since Tuesday."
+  description: "Albanian PM Edi Rama refused to resign on October 18 as student-led protests in Tirana entered a sixth day; 272 people have been injured since Tuesday."
 sources:
   - title: "Tirana sees sixth day of violent protests as Albania's PM refuses to resign"
     publisher: "Al Jazeera"

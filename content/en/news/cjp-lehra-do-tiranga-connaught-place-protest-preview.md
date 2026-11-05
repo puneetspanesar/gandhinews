@@ -21,7 +21,7 @@ hero:
     value: "5 pm, Central Park, flags in hand"
 related: [dipke-calls-lehra-do-tiranga-protest-connaught-place, delhi-police-tells-high-court-will-act-against-dipke-cp-protest, cjp-members-scale-jantar-mantar-gate-detained, opposition-leaders-back-jailed-cjp-leaders-tricolour, what-is-the-cockroach-janta-party, prashant-bhushan-regime-change-constitutional-right-press-club]
 seo:
-  description: "Preview: the Cockroach Janta Party's 'Lehra Do Tiranga' protest at Central Park, Connaught Place, at 5 pm on 16 October, and what Delhi Police have said."
+  description: "Preview: the Cockroach Janta Party's 'Lehra Do Tiranga' protest at Central Park, Connaught Place, at 5 pm on October 16, and what Delhi Police have said."
 sources:
   - title: "At Dipke-Neha Bora-Sibal press conference: 'Regime change', Gyanesh-Modi & 'silent erasure' in SIR"
     publisher: "ThePrint"
@@ -46,9 +46,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Press conference details (venue, speakers, demands, Dipke quotes) from ThePrint, 15 Oct 6:48 pm, only. Dipke's 'waving a Tiranga is not a crime' line also carried by The Week in his post."
-    - "No formal Delhi Police traffic advisory or prohibitory order for 16 Oct found by 8 am; The Week (2:04 pm, 15 Oct) said diversions were 'likely' and that a high-level police meeting was due on Thursday. Outcome of that meeting not reported. Copy says diversions are expected, not announced."
-    - "High Court hearing details (ASG Chetan Sharma, 3 Nov listing, Sachin Puri) carried over from LiveLaw and The Week, as in the 15 Oct story. The Week spells the counsel 'Sacchin'; LiveLaw/earlier copy 'Sachin'."
+    - "Press conference details (venue, speakers, demands, Dipke quotes) from ThePrint, Oct 15 6:48 pm, only. Dipke's 'waving a Tiranga is not a crime' line also carried by The Week in his post."
+    - "No formal Delhi Police traffic advisory or prohibitory order for Oct 16 found by 8 am; The Week (2:04 pm, Oct 15) said diversions were 'likely' and that a high-level police meeting was due on Thursday. Outcome of that meeting not reported. Copy says diversions are expected, not announced."
+    - "High Court hearing details (ASG Chetan Sharma, Nov 3 listing, Sachin Puri) carried over from LiveLaw and The Week, as in the Oct 15 story. The Week spells the counsel 'Sacchin'; LiveLaw/earlier copy 'Sachin'."
     - "Whether police have formally granted or refused permission for the gathering was not reported."
     - "Tribune headline 'CJP protest at Connaught Place today as Delhi HC refuses curbs' seen on its India index but the article could not be opened."
 ---
@@ -63,11 +63,11 @@ Dipke set out the party's terms on Thursday evening at a press conference at the
 
 The CJP wants Chief Election Commissioner Gyanesh Kumar to resign at once over the Special Intensive Revision (SIR) of electoral rolls. It also wants Das, Ranka and every other detained protester released, an end to what it calls police brutality, and Jantar Mantar restored as a protest site.
 
-Dipke turned his fire on the Prime Minister. When the Leader of Opposition and former chief ministers took to the streets and were detained, he asked, "For whom? For one Gyanesh Kumar." He went on: "Why should we not believe that Gyanesh Kumar is helping Narendra Modi win elections?" He also recalled the train curbs and Metro station closures that came with the CJP's 10 October protest call, and the deployment of security personnel from Jammu and Kashmir in Delhi.
+Dipke turned his fire on the Prime Minister. When the Leader of Opposition and former chief ministers took to the streets and were detained, he asked, "For whom? For one Gyanesh Kumar." He went on: "Why should we not believe that Gyanesh Kumar is helping Narendra Modi win elections?" He also recalled the train curbs and Metro station closures that came with the CJP's October 10 protest call, and the deployment of security personnel from Jammu and Kashmir in Delhi.
 
 ## What the police have said
 
-The police set out their position in court on Thursday. Hearing a plea by Anil Kumar Gupta, a garment vendor at Palika Bazar beneath Central Park, a bench of Acting Chief Justice Nitin Wasudeo Sambre and Justice Sanjay Sharma was told by Additional Solicitor General Chetan Sharma that the police would act against Dipke. The court recorded his assurance that "all possible measures under the law will be taken" and listed the case for 3 November.
+The police set out their position in court on Thursday. Hearing a plea by Anil Kumar Gupta, a garment vendor at Palika Bazar beneath Central Park, a bench of Acting Chief Justice Nitin Wasudeo Sambre and Justice Sanjay Sharma was told by Additional Solicitor General Chetan Sharma that the police would act against Dipke. The court recorded his assurance that "all possible measures under the law will be taken" and listed the case for November 3.
 
 "This protest has to be stopped," Gupta's counsel, senior advocate Sachin Puri, argued, telling the bench that Central Park is not a designated protest site.
 

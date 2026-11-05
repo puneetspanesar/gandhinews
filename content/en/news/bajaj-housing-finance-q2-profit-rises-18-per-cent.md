@@ -22,7 +22,7 @@ hero:
     value: "Loan book up 25% in a year"
 related: [pnb-federal-bank-q2-profit-record, polycab-hdfc-life-irfc-q2-results-roundup, sensex-nifty-it-rally-weekly-gain-october-16]
 seo:
-  description: "Bajaj Housing Finance's Q2 FY27 net profit rose 17.7% to ₹756.97 crore on 16 October 2026 as assets under management grew 25% to ₹1,58,205 crore."
+  description: "Bajaj Housing Finance's Q2 FY27 net profit rose 17.7% to ₹756.97 crore on October 16, 2026, as assets under management grew 25% to ₹1,58,205 crore."
 sources:
   - title: "Bajaj Housing Finance Q2 FY27 Results: Net Profit Rises 18% To ₹757 Crore; Revenue Jumps 18%"
     publisher: "Free Press Journal"

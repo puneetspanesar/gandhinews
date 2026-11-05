@@ -22,7 +22,7 @@ hero:
     value: "Nifty back above 23,000"
 related: [sensex-nifty-rupee-close-october-15, gift-nifty-global-markets-oil-october-16, tech-mahindra-q2-profit-rises-33-bonus-issue, wipro-guidance-december-quarter-large-deals-fall, persistent-q2-profit-falls-nagarro-costs-revenue-up-20, sensex-nifty-rupee-close-october-14]
 seo:
-  description: "Sensex closed 413.66 points higher at 74,729.27 and Nifty at 23,146.15 on 16 October 2026 as IT stocks rallied. Sensex gained 3.1% over the week."
+  description: "Sensex closed 413.66 points higher at 74,729.27 and Nifty at 23,146.15 on October 16, 2026, as IT stocks rallied. Sensex gained 3.1% over the week."
 sources:
   - title: "Rupee rallies for 6th straight session; ends 10 paise higher at 94.89 against US dollar (PTI)"
     publisher: "ThePrint"
@@ -48,8 +48,8 @@ verification:
   status: approved
   notes:
     - "Closing levels from PTI (via ThePrint) and Liquide, which agree: Sensex 74,729.27 (+413.66, 0.56%), Nifty 23,146.15 (+148.80, 0.65%). Kotak Neo body gave +436.65/0.59%, inconsistent with its own headline; DSIJ's 4:10 pm figures (74,744.79 / 23,140.75) differ slightly and were not used."
-    - "Weekly change computed by the desk from 9 Oct closes on the economy dashboard (Sensex 72,472.33, Nifty 22,520.45): Sensex +2,256.94 (3.11%), Nifty +625.70 (2.78%). DSIJ said Nifty gained 'about 2.6%' for the week; not used."
-    - "'First close above 23,000 this week' rests on dashboard closes for 12-15 Oct (all below 23,000)."
+    - "Weekly change computed by the desk from Oct 9 closes on the economy dashboard (Sensex 72,472.33, Nifty 22,520.45): Sensex +2,256.94 (3.11%), Nifty +625.70 (2.78%). DSIJ said Nifty gained 'about 2.6%' for the week; not used."
+    - "'First close above 23,000 this week' rests on dashboard closes for Oct 12-15 (all below 23,000)."
     - "Sector moves and stock % changes (IT +3.92%, TechM +8.48% to 1,790, TCS +4.89%, Infosys +4.61%, IndiGo -1.91%, BSE -1.90%, Max Healthcare -1.40%) from Liquide only; gainer/loser names agree with Kotak Neo. DSIJ put TechM at about 7.1% intraday."
     - "FII net buying of Rs 1,165.92 crore on Friday is PTI's figure (provisional exchange data)."
     - "No named analyst quotes on equities found; none used."

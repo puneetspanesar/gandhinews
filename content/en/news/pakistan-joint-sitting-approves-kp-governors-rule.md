@@ -21,7 +21,7 @@ hero:
     value: "240 for, 46 against"
 related: [pakistan-kp-governors-rule-follow-up, pakistan-imposes-emergency-rule-khyber-pakhtunkhwa, pakistan-pti-protest-bara-turns-violent-kp-governor-rule, peshawar-school-roof-collapse-kills-students]
 seo:
-  description: "Pakistan's joint sitting of Parliament approved governor's rule in Khyber Pakhtunkhwa 240-46 on 15 October. The TTAP opposition alliance suspended talks."
+  description: "Pakistan's joint sitting of Parliament approved governor's rule in Khyber Pakhtunkhwa 240-46 on October 15. The TTAP opposition alliance suspended talks."
 sources:
   - title: "Joint parliamentary session passes resolution endorsing governor's rule in KP"
     publisher: "Dawn"

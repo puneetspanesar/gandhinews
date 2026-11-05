@@ -54,4 +54,4 @@ England gave Surjeet Singh's side a sterner test. India raced to a 15-5 lead and
 
 India responded by taking the final quarter 16-7. Naveen Kumar, the vice-captain, top-scored with 12 points, 11 of them from raids, and Neeraj Narwal added 11 raid points. India won the raid battle 32-23 and the tackles 8-3, and inflicted three all-outs without conceding one.
 
-The men play Uganda on Saturday in their second match of the seven-team Group A, while the women face Singapore next. The top two in each group reach the semi-finals on 30 October, with both finals on 31 October.
+The men play Uganda on Saturday in their second match of the seven-team Group A, while the women face Singapore next. The top two in each group reach the semi-finals on October 30, with both finals on October 31.

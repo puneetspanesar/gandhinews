@@ -22,7 +22,7 @@ hero:
     value: "Eight certificate keys compromised"
 related: [cert-in-warns-ai-agents-accessed-indian-systems]
 seo:
-  description: "MeitY began a probe on 21 October after eMudhra reported compromised keys for eight intermediate certificates; CERT-In issued a mitigation advisory."
+  description: "MeitY began a probe on October 21 after eMudhra reported compromised keys for eight intermediate certificates; CERT-In issued a mitigation advisory."
 sources:
   - title: "MeitY launches probe into eMudhra certificate incident; CERT-In issues mitigation advisory (IANS)"
     publisher: "Punjab Kesari (English)"

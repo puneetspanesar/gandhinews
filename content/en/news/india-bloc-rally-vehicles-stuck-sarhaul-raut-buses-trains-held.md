@@ -22,7 +22,7 @@ hero:
     value: "'Buses are being intercepted'"
 related: [india-bloc-rally-morning-crowds-10000-security-bjp-1984-march, india-bloc-march-sets-off-warring-pratapgarhi-bjp-scared, india-bloc-convoy-connaught-place-tejashwi-crush-democracy, india-bloc-ramlila-maidan-rally-today-preview]
 seo:
-  description: "INDIA bloc rally, 1 November 2026: rally-bound vehicles stuck at Delhi-Gurugram Sarhaul border; Sanjay Raut and SP MPs allege buses and trains held up."
+  description: "INDIA bloc rally, November 1, 2026: rally-bound vehicles stuck at Delhi-Gurugram Sarhaul border; Sanjay Raut and SP MPs allege buses and trains held up."
 sources:
   - title: "Ramlila Maidan Rally Live: सड़क पर उतरा INDIA ब्लॉक, खुली बस में सवार विपक्षी नेता"
     publisher: "Aaj Tak"
@@ -47,7 +47,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov 12:03 IST Raut and Sukhdeo Bhagat remarks (National Herald live entry); 12:27 IST Sarhaul border jam and Congress workers walking (Aaj Tak live entry, input Neeraj Vashistha); Rajeev Rai and Iqra Hasan remarks in ANI copy published 12:42 (News Mill) and 12:50 (Asianet), exact time not given."
+    - "event: Nov 1 12:03 IST Raut and Sukhdeo Bhagat remarks (National Herald live entry); 12:27 IST Sarhaul border jam and Congress workers walking (Aaj Tak live entry, input Neeraj Vashistha); Rajeev Rai and Iqra Hasan remarks in ANI copy published 12:42 (News Mill) and 12:50 (Asianet), exact time not given."
     - "Sarhaul jam rests on one outlet (Aaj Tak); stated as reported. No figure for the number of vehicles. No response from Delhi Police, Haryana Police or Railways found to the allegations of buses and trains being stopped; story says so."
     - "Raut and Bhagat remarks paraphrased from National Herald (only short phrases quoted). Rajeev Rai and Iqra Hasan quotes as published in English."
 ---

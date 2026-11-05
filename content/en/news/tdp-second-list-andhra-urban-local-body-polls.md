@@ -32,10 +32,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: The Hans India (Pavan Bandari), 17 Oct 5:39 pm, which itself says the figures should be cross-checked with the official list. Copy attributes the breakdown to the party."
+    - "Single source: The Hans India (Pavan Bandari), Oct 17 5:39 pm, which itself says the figures should be cross-checked with the official list. Copy attributes the breakdown to the party."
     - "Individual candidate names were not in the source; the list itself was not seen."
     - "Location set as Amaravati (party HQ is at Mangalagiri); the source gives no dateline."
-    - "Polling date not found; our 16 Oct story also lacks it."
+    - "Polling date not found; our Oct 16 story also lacks it."
 ---
 
 The Telugu Desam Party on Saturday released its second list of candidates for Andhra Pradesh's urban local body elections, naming its choice for mayor of Machilipatnam and candidates for the chairperson's post in 21 municipalities.

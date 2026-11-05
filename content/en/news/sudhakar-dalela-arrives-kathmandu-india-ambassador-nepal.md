@@ -27,7 +27,7 @@ cover:
   bg: "Tribhuvan International Airport"
 related: [vikram-misri-kathmandu-visit-november-4-5-balendra-shah]
 seo:
-  description: "Sudhakar Dalela, India's new ambassador to Nepal and former envoy to Bhutan, arrived in Kathmandu on 3 November 2026, a day before Foreign Secretary Vikram Misri's two-day visit."
+  description: "Sudhakar Dalela, India's new ambassador to Nepal and former envoy to Bhutan, arrived in Kathmandu on November 3, 2026, a day before Foreign Secretary Vikram Misri's two-day visit."
 sources:
   - title: "Nepal News Evening Briefing: Tuesday, November 03, 2026"
     publisher: "Nepal News"
@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 3 Nov, arrival at Tribhuvan International Airport, exact time not given in the evening briefing; reported in the Tuesday evening briefing. Fresh development of a running story (Misri visit already covered in vikram-misri-kathmandu-visit-november-4-5-balendra-shah)."
+    - "event: Nov 3, arrival at Tribhuvan International Airport, exact time not given in the evening briefing; reported in the Tuesday evening briefing. Fresh development of a running story (Misri visit already covered in vikram-misri-kathmandu-visit-november-4-5-balendra-shah)."
     - "Single source. Career details (secretary economic relations at MEA, Bhutan ambassador for three years, IFS 1993) as given there. No quotes available; no claim made about credentials presentation date."
 infographic:
   kicker: "India-Nepal ties"
@@ -51,8 +51,8 @@ infographic:
   timeline:
     - {date: "1993", text: "Joins the Indian Foreign Service", icon: flag}
     - {date: "Bhutan", text: "Three years as India's ambassador in Thimphu", icon: handshake}
-    - {date: "3 Nov 2026", text: "Arrives in Kathmandu as ambassador to Nepal", icon: airplane-landing}
-    - {date: "4 Nov 2026", text: "Vikram Misri begins two-day Nepal visit", icon: calendar}
+    - {date: "Nov 3, 2026", text: "Arrives in Kathmandu as ambassador to Nepal", icon: airplane-landing}
+    - {date: "Nov 4, 2026", text: "Vikram Misri begins two-day Nepal visit", icon: calendar}
   source: "Nepal News, November 3, 2026"
 ---
 

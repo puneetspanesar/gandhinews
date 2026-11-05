@@ -31,9 +31,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (Navbharat Live, 1:22 pm IST, marked as developing; it embeds an IANS post of 15 Oct with the same demand). Hindi quotes from Shyam Lal Pal translated by the desk."
+    - "Single source (Navbharat Live, 1:22 pm IST, marked as developing; it embeds an IANS post of Oct 15 with the same demand). Hindi quotes from Shyam Lal Pal translated by the desk."
     - "Poll date for the Council seats and names of BJP candidates not given in the source; left out. Another desk (states) is covering the teachers' constituency poll and Adityanath's campaign."
-    - "Allegations about the Gorakhpur teachers' meeting (12 Oct) and the gram prahari honorarium (13 Oct) are the SP's characterisation; no government or BJP response found by 1:50 pm."
+    - "Allegations about the Gorakhpur teachers' meeting (Oct 12) and the gram prahari honorarium (Oct 13) are the SP's characterisation; no government or BJP response found by 1:50 pm."
 ---
 
 The Samajwadi Party on Thursday asked the Election Commission to issue a notice to Chief Minister Yogi Adityanath, accusing him of breaking the model code of conduct to sway the ongoing election to 11 seats in the Uttar Pradesh Legislative Council.
@@ -46,7 +46,7 @@ In a memorandum to the Commission, SP state president Shyam Lal Pal also demande
 
 The party accused the Chief Minister of misusing government machinery to help the BJP's candidates. It alleged that officials, including district magistrates, had been called to circuit houses and dak bungalows and pressed to secure a BJP win.
 
-The memorandum pointed to two recent events. It said that on 12 October Adityanath held an interaction with 12,000 teachers in Gorakhpur, and that on 13 October the government raised the honorarium of 68,000 gram praharis, the village watchmen, and announced the recruitment of chowkidars. The SP says both were meant to influence voters.
+The memorandum pointed to two recent events. It said that on October 12 Adityanath held an interaction with 12,000 teachers in Gorakhpur, and that on October 13 the government raised the honorarium of 68,000 gram praharis, the village watchmen, and announced the recruitment of chowkidars. The SP says both were meant to influence voters.
 
 There was no response from the Election Commission, the BJP or the Chief Minister's office by Thursday afternoon.
 

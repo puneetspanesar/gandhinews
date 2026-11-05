@@ -22,7 +22,7 @@ hero:
     value: "2,400 arrests in a single day"
 related: [france-protests-550000-limoges-city-hall-fire-macron, meloni-thugs-italy-belgium-cost-of-living-protests-violent, rama-refuses-to-quit-tirana-protests-sixth-day]
 seo:
-  description: "Emmanuel Macron voiced 'anger and shame' on 18 October after riots and looting across France in which nearly 2,400 people were arrested and 1,000 officers hurt."
+  description: "Emmanuel Macron voiced 'anger and shame' on October 18 after riots and looting across France in which nearly 2,400 people were arrested and 1,000 officers hurt."
 sources:
   - title: "'Anger and shame': Macron denounces France's nationwide rioting, looting"
     publisher: "Al Jazeera"

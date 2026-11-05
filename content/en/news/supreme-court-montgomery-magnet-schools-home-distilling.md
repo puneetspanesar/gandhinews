@@ -22,7 +22,7 @@ hero:
     value: "Race, magnet schools and home stills"
 related: []
 seo:
-  description: "The US Supreme Court agreed on 19 October to hear a Maryland magnet school admissions case and the home distilling ban, and denied Gwynne Wilcox's NLRB appeal."
+  description: "The US Supreme Court agreed on October 19 to hear a Maryland magnet school admissions case and the home distilling ban, and denied Gwynne Wilcox's NLRB appeal."
 sources:
   - title: "Justices take up case on race and school admissions"
     publisher: "SCOTUSblog"
@@ -64,7 +64,7 @@ verification:
 
 The US Supreme Court on Monday agreed to decide a challenge by Asian-American parents to admissions at Maryland's selective magnet middle schools, putting race and school admissions back before the justices for the first time since they declined two similar cases in 2024.
 
-In the same set of orders, from their 16 October conference, the justices also took up the federal government's defence of a ban on home distilleries dating to 1868, and turned away two closely watched appeals: one by a former labour board member fired by President Donald Trump, the other by Google.
+In the same set of orders, from their October 16 conference, the justices also took up the federal government's defence of a ban on home distilleries dating to 1868, and turned away two closely watched appeals: one by a former labour board member fired by President Donald Trump, the other by Google.
 
 ## The magnet school case
 

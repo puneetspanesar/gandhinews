@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "RBI release 'Developments in India's Balance of Payments for the Month of August 2026' (15 Oct, evening) not read directly; figures from PTI via Free Press Journal (6:36 pm, 15 Oct), headline figures confirmed by Motilal Oswal summary."
+    - "RBI release 'Developments in India's Balance of Payments for the Month of August 2026' (Oct 15, evening) not read directly; figures from PTI via Free Press Journal (6:36 pm, Oct 15), headline figures confirmed by Motilal Oswal summary."
     - "Released on Thursday evening; not previously covered on the site, published Friday morning."
     - "PTI's NRI deposits figure (83 vs 1) has unclear units; not used. July 2026 figure not reported."
     - "Net banking capital inflow $64.7bn: no explanation given in the source; copy does not speculate on the cause."

@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Remarks made to media on Friday 23 Oct, reported by AIR at 6:42 am Saturday. Venue not given. AIR paraphrases; no direct quotes available, so none used."
+    - "Remarks made to media on Friday, Oct 23, reported by AIR at 6:42 am Saturday. Venue not given. AIR paraphrases; no direct quotes available, so none used."
     - "Basis for 'third-largest' ranking (period, data source) not stated; attributed to Singh."
     - "₹38,424 crore: year not stated by AIR for Singh's figure; Rajnath Singh at Army Commanders' Conference put FY2025-26 exports at about ₹38,000 crore and production at ₹1,78,000 crore, so copy links the figure to 2025-26 via Rajnath's remarks only."
     - "Hero: Wikipedia title for the Defence Secretary uncertain; check photo."

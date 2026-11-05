@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: TechCrunch, 20 Oct, 4:00 am PDT (4:30 pm IST). Valuation not disclosed. Earlier funding total of $50 million is PitchBook data via TechCrunch. Alex Gay quote was said at HumanX last month."
+    - "Single source: TechCrunch, Oct 20, 4:00 am PDT (4:30 pm IST). Valuation not disclosed. Earlier funding total of $50 million is PitchBook data via TechCrunch. Alex Gay quote was said at HumanX last month."
 ---
 
 Otter.ai, the company behind one of the best-known AI meeting note-takers, has raised $320 million from General Catalyst's growth fund. It plans to spend the money on selling to large companies, on marketing, on expanding abroad and on new products.

@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov about 01:30 to 03:45 IST (race start 14:00 local, 20:00 UTC, inferred from standard Sunday slot; lengthy red flag). PlanetF1 report stamped 22:28 UTC (03:58 IST); RACER report 17:44 ET (04:14 IST)."
+    - "event: Nov 2 about 01:30 to 03:45 IST (race start 14:00 local, 20:00 UTC, inferred from standard Sunday slot; lengthy red flag). PlanetF1 report stamped 22:28 UTC (03:58 IST); RACER report 17:44 ET (04:14 IST)."
     - "Finishing order, 0.799s margin, Leclerc 5s and Russell 10s penalties, Bottas lap 44 suspension failure, Antonelli pass on Leclerc lap 58, youngest champion (Vettel 23 in 2010), first Italian since Ascari 1953, four rounds left, quotes: RACER. Clash, red flag, Hamilton radio quote, Russell penalty for Hadjar collision: PlanetF1 (agrees)."
     - "RACER describes Hamilton's car as a 'Mercedes' running out of battery on lap 1; clearly an error (he drives for Ferrari) and the battery detail was left out. RACER also calls Antonelli 'only the second Italian' champion while naming Farina and Ascari; we say only 'first Italian since Ascari'."
     - "Antonelli's points total not found; not stated."

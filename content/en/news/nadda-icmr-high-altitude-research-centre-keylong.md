@@ -10,7 +10,7 @@ standfirst: "The year-round centre in Lahaul and Spiti will study how thin air a
 published: 2026-10-13T05:20:00+05:30
 location: Keylong
 keyPoints:
-  - "Health Minister J P Nadda laid the foundation stone at **Keylong** on 12 October."
+  - "Health Minister J P Nadda laid the foundation stone at **Keylong** on October 12."
   - "ICMR is building the centre with the **Armed Forces Medical Services**."
   - "Research will cover low oxygen, extreme cold, **maternal and child health** and drone-delivered medicine."
 hero:
@@ -45,7 +45,7 @@ verification:
     - "Both direct quotes (Bahl, Nadda) come from The NewsMill only, and the fetch tool returned them truncated; only the words shown are quoted, ending where the fragment ends."
     - "Cost, land area, altitude and completion date are not in any source read; left out."
     - "'Field station set up nearly a decade ago' from The NewsMill only."
-    - "Medical Dialogues preview article date assumed 11 Oct; not confirmed."
+    - "Medical Dialogues preview article date assumed Oct 11; not confirmed."
 ---
 
 Union Health Minister J P Nadda on Monday laid the foundation stone of a research centre in Keylong, Himachal Pradesh, that will study how living and working at high altitude affects the human body.
@@ -54,7 +54,7 @@ The ICMR Centre for High Altitude Medicine and Public Health Research is being s
 
 > The establishment of the Centre reflects the importance accorded to addressing the distinct healthcare needs
 >
-> Source: J P Nadda, Union Minister of Health and Family Welfare, 12 October 2026
+> Source: J P Nadda, Union Minister of Health and Family Welfare, October 12, 2026
 
 ## What it will study
 
@@ -66,6 +66,6 @@ Dr Rajiv Bahl, Director General of ICMR, said local people would take part in th
 
 > Keylong will be a place where the laboratory and the community meet, where local people are partners in research
 >
-> Source: Dr Rajiv Bahl, Director General, ICMR, 12 October 2026
+> Source: Dr Rajiv Bahl, Director General, ICMR, October 12, 2026
 
 Minister of State for Defence Sanjay Seth, Leader of Opposition in the Himachal Pradesh Assembly Jai Ram Thakur and Mandi MP Kangana Ranaut attended, along with Air Marshal Sandeep Thareja, Director General of the Armed Forces Medical Services. No cost or completion date was given for the centre.

@@ -34,20 +34,20 @@ sources:
 verification:
   status: verified-with-notes
   notes:
-    - "Fact-check 11 Oct 2026: all figures match PRS and LiveLaw, including Parliament deciding the timing of delimitation by law and the Council of Ministers cap (81 to 122). No changes needed. Special session status still unconfirmed."
-    - "No source confirms the special session The Tribune said was under consideration for 18 to 20 September was held."
+    - "Fact-check Oct 11, 2026: all figures match PRS and LiveLaw, including Parliament deciding the timing of delimitation by law and the Council of Ministers cap (81 to 122). No changes needed. Special session status still unconfirmed."
+    - "No source confirms the special session The Tribune said was under consideration for September 18 to 20 was held."
 ---
 
-Delimitation fixes how many Lok Sabha and assembly seats each state gets and draws constituency boundaries, in line with population. Each state's share of seats has been frozen on the 1971 census since 1976, and in 2001 the freeze was extended "until the publication of the first census after 2026", PRS Legislative Research notes. The next census, with a reference date of 1 March 2027 for most of India, is the one that would end the freeze.
+Delimitation fixes how many Lok Sabha and assembly seats each state gets and draws constituency boundaries, in line with population. Each state's share of seats has been frozen on the 1971 census since 1976, and in 2001 the freeze was extended "until the publication of the first census after 2026", PRS Legislative Research notes. The next census, with a reference date of March 1, 2027, for most of India, is the one that would end the freeze.
 
 ## Where things stand
 
-In April 2026 the government tried to change the rules. The Constitution (131st Amendment) Bill would have raised the Lok Sabha cap from 550 to 850 seats, let Parliament choose the census for delimitation by law, and allowed women's reservation to start right after a fresh delimitation. On 17 April it won 298 votes to 230, short of the two-thirds needed, and the government withdrew the companion bills. Opposition parties argued that using the 2011 census would cut the share of southern and north-eastern states. The Tribune reported in September that a reworked bill was being considered; none had been reported as introduced by 11 October.
+In April 2026 the government tried to change the rules. The Constitution (131st Amendment) Bill would have raised the Lok Sabha cap from 550 to 850 seats, let Parliament choose the census for delimitation by law, and allowed women's reservation to start right after a fresh delimitation. On April 17 it won 298 votes to 230, short of the two-thirds needed, and the government withdrew the companion bills. Opposition parties argued that using the 2011 census would cut the share of southern and north-eastern states. The Tribune reported in September that a reworked bill was being considered; none had been reported as introduced by October 11.
 
 PRS Legislative Research flagged other effects of the defeated plan. A larger Lok Sabha would change its ratio to the Rajya Sabha from about 2.2:1 to 3.3:1, which matters in joint sittings and presidential elections. It would raise the cap on the Union Council of Ministers, which is tied to 15% of the Lok Sabha's size, from about 81 to 122. And it would leave the timing of delimitation to an ordinary law.
 
 ```timeline
-{"title":"Key dates","items":[{"date":"1976","text":"Seat shares frozen on the 1971 census."},{"date":"2001","text":"Freeze extended until the first census after 2026."},{"date":"2008","text":"Last delimitation orders finalised."},{"date":"16 Apr 2026","text":"131st Amendment and Delimitation bills introduced."},{"date":"17 Apr 2026","text":"Amendment defeated, 298 to 230."},{"date":"1 Mar 2027","text":"Census 2027 reference date for most of India."}]}
+{"title":"Key dates","items":[{"date":"1976","text":"Seat shares frozen on the 1971 census."},{"date":"2001","text":"Freeze extended until the first census after 2026."},{"date":"2008","text":"Last delimitation orders finalised."},{"date":"Apr 16, 2026","text":"131st Amendment and Delimitation bills introduced."},{"date":"Apr 17, 2026","text":"Amendment defeated, 298 to 230."},{"date":"Mar 1, 2027","text":"Census 2027 reference date for most of India."}]}
 ```
 
 ```facts

@@ -37,8 +37,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Advisory text not seen directly; details from News On AIR summary (story first posted 1:47 pm, updated 9:43 pm on 18 Oct). No direct quotes from the embassy available."
-    - "Indian killed at King Khalid airport on 10 Oct: from News On AIR; name not repeated here (covered in earlier story)."
+    - "Advisory text not seen directly; details from News On AIR summary (story first posted 1:47 pm, updated 9:43 pm on Oct 18). No direct quotes from the embassy available."
+    - "Indian killed at King Khalid airport on Oct 10: from News On AIR; name not repeated here (covered in earlier story)."
 ---
 
 The Indian Embassy in Riyadh has told Indian nationals in Saudi Arabia to follow the kingdom's safety directives closely, as Houthi drone and missile attacks on Saudi cities continue.
@@ -49,7 +49,7 @@ The embassy listed 911 as the emergency number in Makkah, Madinah, Riyadh and th
 
 ## Attacks keep coming
 
-The warning follows weeks of strikes claimed by Yemen's Houthi rebels. On 10 October, a drone and missile attack on Riyadh's King Khalid International Airport killed an Indian national and injured several others.
+The warning follows weeks of strikes claimed by Yemen's Houthi rebels. On October 10, a drone and missile attack on Riyadh's King Khalid International Airport killed an Indian national and injured several others.
 
 Saudi Arabia said on Sunday that it had intercepted and destroyed four drones over Riyadh, the Eastern Province and southern regions. Separately, the Saudi-led coalition said two crew members were killed when a reconnaissance helicopter crashed in the Najran region because of a technical fault.
 

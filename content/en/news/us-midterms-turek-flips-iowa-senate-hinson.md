@@ -46,7 +46,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 4 Nov about 10:00 IST (CBS story stamped 11:32 pm EST 3 Nov = 10:02 IST 4 Nov). Washington Post and NBC headlines confirm the result (search results only)."
+    - "event: Nov 4 about 10:00 IST (CBS story stamped 11:32 pm EST Nov 3 = 10:02 IST Nov 4). Washington Post and NBC headlines confirm the result (search results only)."
     - "No vote shares or Turek/Hinson post-result quotes found; none used. Hinson quotes are from the campaign, per CBS."
 ---
 

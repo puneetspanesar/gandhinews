@@ -12,7 +12,7 @@ location: Phillaur
 keyPoints:
   - "Bhagwant Mann told officers at Phillaur that Punjab had been **defamed more than it deserved** over drugs."
   - "The Union Home Ministry asked for **reports on the Jhota killing, a Gurdaspur attack and a suicide in Sangrur**."
-  - "Jhota's family kept up its sit-in and an action committee plans **protests outside AAP leaders' homes on 19 October**."
+  - "Jhota's family kept up its sit-in and an action committee plans **protests outside AAP leaders' homes on October 19**."
 hero:
   need: "Punjab Chief Minister Bhagwant Mann at a public event; split with Union Home Minister Amit Shah if two panels are used. No images of the victim or the shooting."
   suggested_source: "Bhagwant Mann"
@@ -62,11 +62,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "Mann quotes: Tribune (Aparna Banerji, 16 Oct, 3:48 pm). The Punjabi line is given by the Tribune with a gloss, not as a translated quote; copy uses the Punjabi words and paraphrases the meaning. No ministers present are named."
+    - "Mann quotes: Tribune (Aparna Banerji, Oct 16, 3:48 pm). The Punjabi line is given by the Tribune with a gloss, not as a translated quote; copy uses the Punjabi words and paraphrases the meaning. No ministers present are named."
     - "Shah's X post is paraphrased (Tribune gives no direct wording). The policy desk is covering Shah's separate remarks on Punjab drugs and gangsters (claim: amit-shah-punjab-drugs-gangsters-organised-crime)."
     - "MHA letters: Tribune 7:56 pm (Gulzar Singh date 08.09.2026, Mari Panwan details, quotes), PTI via ThePrint 6:50 pm (Sangrur, 'systematic harassment' wording, Gurdaspur attack on Thursday night), Statesman 9 pm (letter to K.A.P. Sinha, copied to DGP, no deadline). The Statesman gives a file reference for the Gurdaspur letter; not used."
-    - "Statesman says the post-mortem on Jhota has not been done and Neelam Rani has six days' remand; single source, Rani's remand length left out. 19 Oct protest plan: Statesman body and Tribune headline (Tribune article not read)."
-    - "Agenda items of the meeting (60-day hotspot campaign, defence committees, e-rickshaw campaign) come from the Tribune's 14 Oct preview of the official memo, not from a report of what was discussed on Friday."
+    - "Statesman says the post-mortem on Jhota has not been done and Neelam Rani has six days' remand; single source, Rani's remand length left out. Oct 19 protest plan: Statesman body and Tribune headline (Tribune article not read)."
+    - "Agenda items of the meeting (60-day hotspot campaign, defence committees, e-rickshaw campaign) come from the Tribune's Oct 14 preview of the official memo, not from a report of what was discussed on Friday."
 ---
 
 Punjab Chief Minister Bhagwant Mann told his police officers on Friday that the state had been unfairly painted as the home of India's drug problem, and that the Centre was blaming Punjab for failures on its own watch.
@@ -89,12 +89,12 @@ He told the officers that addicts should be treated as patients, "but breaking s
 
 Union Home Minister Amit Shah had said on X that the Centre would seek answers from the state on Jhota's death and on the death of Gulzar Singh. The ministry's letters followed on Friday evening.
 
-On Jhota, it asked the state "to furnish a comprehensive factual report regarding the incident" and the steps taken. Gulzar Singh, the father of a young man dependent on drugs, died by suicide on 8 September in Sangrur district. The ministry said he had questioned the supply of synthetic drugs in his area and made allegations against a Punjab minister, and had faced pressure from his village panchayat.
+On Jhota, it asked the state "to furnish a comprehensive factual report regarding the incident" and the steps taken. Gulzar Singh, the father of a young man dependent on drugs, died by suicide on September 8 in Sangrur district. The ministry said he had questioned the supply of synthetic drugs in his area and made allegations against a Punjab minister, and had faced pressure from his village panchayat.
 
-The third case is an attack on Thursday night at Mari Panwan village in Gurdaspur's Batala tehsil, in which Bikramjit Singh was killed and Nishan Singh and Gurmukh Singh were critically injured. "It has been alleged that these attacks are related to narcotic drugs," the ministry wrote. It also asked what the state had done on the Vision Document on Narcotics Control (2026-2029), which Shah sent to Mann on 10 August.
+The third case is an attack on Thursday night at Mari Panwan village in Gurdaspur's Batala tehsil, in which Bikramjit Singh was killed and Nishan Singh and Gurmukh Singh were critically injured. "It has been alleged that these attacks are related to narcotic drugs," the ministry wrote. It also asked what the state had done on the Vision Document on Narcotics Control (2026-2029), which Shah sent to Mann on August 10.
 
 ## Still no cremation in Mansa
 
 In Mansa, Jhota's family and supporters sat in protest for a fourth day. His body remains at the civil hospital. His father, Bhim Singh, says the family will take it only when its demands are met, including the resignations of Mann and Director General of Police Gaurav Yadav and a CBI inquiry. Several rounds of talks with district officials have failed.
 
-The accused chemist, Ashwani Kumar, is in police custody, and his wife, Neelam Rani, is under arrest. The action committee leading the agitation plans to protest outside the homes and offices of AAP legislators and ministers across Punjab on 19 October.
+The accused chemist, Ashwani Kumar, is in police custody, and his wife, Neelam Rani, is under arrest. The action committee leading the agitation plans to protest outside the homes and offices of AAP legislators and ministers across Punjab on October 19.

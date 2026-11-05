@@ -63,4 +63,4 @@ India made one change, with Vaishnavi Sharma coming in for the fast bowler Krant
 
 India won the first match at the same ground comfortably, chasing 198 in 27.1 overs on the back of Rawal's hundred. A second win on Sunday would give them the three-match series with a game to spare, after they swept the T20 international series against Zimbabwe 3-0 in Raipur last week.
 
-The third and final ODI is also in Vadodara, on Wednesday, 28 October.
+The third and final ODI is also in Vadodara, on Wednesday, October 28.

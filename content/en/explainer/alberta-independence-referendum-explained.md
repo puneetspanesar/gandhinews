@@ -8,7 +8,7 @@ topics: []
 title: "Alberta's separation vote explained: what Albertans decided, and can a Canadian province leave?"
 standfirst: "About three in four voters chose to stay in Canada in Monday's referendum, according to early results. What the question asked, why it was held, how a province could legally break away, and what comes next."
 published: 2026-10-20T13:20:00+05:30
-shortAnswer: "On 19 October Alberta voted on whether to remain a province of Canada or to start the legal process towards a binding referendum on separation. Early results showed about 76% choosing to stay. The vote was nonbinding, and even a win for the separatist side would only have begun a long process: under a 1998 Supreme Court opinion and the federal Clarity Act, a province can secede only after a clear majority on a clear question, followed by negotiations and a constitutional amendment. Premier Danielle Smith has said there will be no follow-up referendum during her government's term."
+shortAnswer: "On October 19 Alberta voted on whether to remain a province of Canada or to start the legal process towards a binding referendum on separation. Early results showed about 76% choosing to stay. The vote was nonbinding, and even a win for the separatist side would only have begun a long process: under a 1998 Supreme Court opinion and the federal Clarity Act, a province can secede only after a clear majority on a clear question, followed by negotiations and a constitutional amendment. Premier Danielle Smith has said there will be no follow-up referendum during her government's term."
 hero:
   need: "The Alberta Legislature Building in Edmonton"
   suggested_source: "Alberta Legislature Building"
@@ -18,7 +18,7 @@ hero:
     value: "Alberta stays, for now"
 related: [albertans-vote-referendum-stay-in-canada, carney-urges-albertans-to-stay-united-before-vote, wainwright-base-fire-kills-four-soldiers-alberta-votes]
 seo:
-  description: "Alberta voted about 76% to stay in Canada on 19 October 2026. What the separation question asked, the nine other questions, the Clarity Act and 1998 Supreme Court rules on secession, and what happens next."
+  description: "Alberta voted about 76% to stay in Canada on October 19, 2026. What the separation question asked, the nine other questions, the Clarity Act and 1998 Supreme Court rules on secession, and what happens next."
 sources:
   - title: "Alberta referendum voters reject separatism, choose to stay in Canada"
     publisher: "Global News"
@@ -43,10 +43,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "Result (about 76% to remain, preliminary, late Monday Alberta time), 1.35 million advance and mail-in votes, 519,082 mail-in ballots, quotes from Smith, Carney, Lukaszuk, Rath and Nenshi, Smith's no-second-referendum pledge and 50%+1 remark, nine questions counted by Wednesday: Global News, 20 October. Final official figures and overall turnout not read; copy says 'early results'. Several other outlets' headlines (CBC, CP24, NPR) agree Albertans voted to stay; pages not read (NPR blocked)."
-    - "Question wording, nine other questions, orders-in-council of 31 March 2026, Citizen Initiative Act amendment of 15 May 2025 (10% of votes cast, 120 days), Lukaszuk petition 404,293 signatures: Wikipedia '2026 Alberta referendums'."
+    - "Result (about 76% to remain, preliminary, late Monday Alberta time), 1.35 million advance and mail-in votes, 519,082 mail-in ballots, quotes from Smith, Carney, Lukaszuk, Rath and Nenshi, Smith's no-second-referendum pledge and 50%+1 remark, nine questions counted by Wednesday: Global News, October 20. Final official figures and overall turnout not read; copy says 'early results'. Several other outlets' headlines (CBC, CP24, NPR) agree Albertans voted to stay; pages not read (NPR blocked)."
+    - "Question wording, nine other questions, orders-in-council of March 31, 2026, Citizen Initiative Act amendment of May 15, 2025 (10% of votes cast, 120 days), Lukaszuk petition 404,293 signatures: Wikipedia '2026 Alberta referendums'."
     - "1998 Reference re Secession of Quebec (clear majority on a clear question, duty to negotiate, no unilateral right), Clarity Act 2000 (House of Commons judges clarity), Quebec 1980 (59.56% No) and 1995 (50.58% No) results are standard background, not taken from a 2026 source read this run."
-    - "Advance-poll figures (174,000 and 180,000 on first two days), Abacus September poll and campaign spending ($4 million Alberta, about $250,000 PMO) from the desk's 19 October preview and its sources."
+    - "Advance-poll figures (174,000 and 180,000 on first two days), Abacus September poll and campaign spending ($4 million Alberta, about $250,000 PMO) from the desk's October 19 preview and its sources."
 ---
 
 ## What did Albertans vote on?

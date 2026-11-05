@@ -33,7 +33,7 @@ verification:
   status: approved
   notes:
     - "Single source (Telangana Today, 8:27 pm). Charges/sections not given. Article body says flexi banners; headline says effigies; copy uses banners."
-    - "Incident on Tuesday night (Dasara, 20 Oct)."
+    - "Incident on Tuesday night (Dasara, Oct 20)."
     - "No statement from the arrested men, Congress or BRS found."
 ---
 

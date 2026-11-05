@@ -22,7 +22,7 @@ hero:
     value: "Launched, docking Thursday"
 related: []
 seo:
-  description: "SpaceX's CRS-35 Dragon launched to the ISS on 13 October with 2,860 kg of cargo, the final roll-out solar arrays and NASA studies on brain models and superbugs."
+  description: "SpaceX's CRS-35 Dragon launched to the ISS on October 13 with 2,860 kg of cargo, the final roll-out solar arrays and NASA studies on brain models and superbugs."
 sources:
   - title: "SpaceX launches NASA science and cargo to the International Space Station"
     publisher: "Spaceflight Now"
@@ -57,7 +57,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Updated 14 Oct, 8:50 am IST. Launch confirmed by NASA and Spaceflight Now: 6:33 am EDT Tue 13 Oct = 4:03 pm IST. Docking has NOT happened; NASA says arrival about 11 am EDT Thu 15 Oct = 8:30 pm IST, with coverage from 9:15 am EDT."
+    - "Updated Oct 14, 8:50 am IST. Launch confirmed by NASA and Spaceflight Now: 6:33 am EDT Tue Oct 13 = 4:03 pm IST. Docking has NOT happened; NASA says arrival about 11 am EDT Thu Oct 15 = 8:30 pm IST, with coverage from 9:15 am EDT."
     - "Booster B1096, eighth flight, landed at Landing Zone 40 under 7.5 minutes after liftoff (Spaceflight Now). Capsule C211, fourth flight (Next Spaceflight)."
     - "Gaurang Patel quote in Spaceflight Now was a fragment; not used. Liz Warren quote on glass used."
     - "6,300 lb converted to about 2,860 kg. Spaceflight Now gives each ROSA wing as more than 20 kW."

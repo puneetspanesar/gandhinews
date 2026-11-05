@@ -22,7 +22,7 @@ hero:
     value: "Nine days to Israel's vote"
 related: [trump-endorses-netanyahu-eisenkot-says-voters-decide, israel-cabinet-defence-cuts-netanyahu-eisenkot-slur]
 seo:
-  description: "Gadi Eisenkot and Yair Lapid dismissed Benjamin Netanyahu's security doctrine as election slogans on 19 October, as Iran's Araghchi said Netanyahu is pushing the US into war."
+  description: "Gadi Eisenkot and Yair Lapid dismissed Benjamin Netanyahu's security doctrine as election slogans on October 19, as Iran's Araghchi said Netanyahu is pushing the US into war."
 sources:
   - title: "Live updates, 19 October 2026"
     publisher: "The Times of Israel"
@@ -49,14 +49,14 @@ verification:
   notes:
     - "Eisenkot and Lapid quotes and Lapid pledges (containment, Turkey/Qatar, Iran oil, 20,000 Haredi recruits in two years): Times of Israel live blog 11:46 am Israel time (2:16 pm IST)."
     - "Rubio quote from Breitbart interview, via ToI live blog 11:23 am."
-    - "Araghchi X post was on Sunday 18 Oct; quotes from Aaj English (PTI-style copy). Macron remark ('made his bed') from JPost live blog 7:46 am, paraphrase plus short quote only."
-    - "Trump Truth Social quote and Netanyahu reply: Gulf News live blog. IRGC 'scorched land' statement dated 18 Oct by Gulf News."
+    - "Araghchi X post was on Sunday, Oct 18; quotes from Aaj English (PTI-style copy). Macron remark ('made his bed') from JPost live blog 7:46 am, paraphrase plus short quote only."
+    - "Trump Truth Social quote and Netanyahu reply: Gulf News live blog. IRGC 'scorched land' statement dated Oct 18 by Gulf News."
     - "Contents of the doctrine itself not found beyond 'two-page'; not described."
 ---
 
 Israel's two main opposition leaders tore into Benjamin Netanyahu's new security doctrine on Monday, calling it a set of slogans dressed up for the election, as Iran's foreign minister accused the prime minister of dragging the United States into another war to keep himself out of prison.
 
-Israelis vote on 27 October. Netanyahu's two-page doctrine, drew sharp replies from the men hoping to replace him.
+Israelis vote on October 27. Netanyahu's two-page doctrine, drew sharp replies from the men hoping to replace him.
 
 "Hollow," said Gadi Eisenkot, the former army chief, describing the document as "filled with slogans that have absolutely nothing to do with a security doctrine." Yair Lapid, the opposition leader, called it "a collection of inflated slogans devoid of substance." Both said it was a campaign move.
 
@@ -78,4 +78,4 @@ In Washington, Secretary of State Marco Rubio called Iran's government the main 
 
 ## What happens next
 
-Campaigning runs until polling day on 27 October. Netanyahu was reported on Monday to be in talks with the Charedi Public party as he looks for a path back to a majority.
+Campaigning runs until polling day on October 27. Netanyahu was reported on Monday to be in talks with the Charedi Public party as he looks for a path back to a majority.

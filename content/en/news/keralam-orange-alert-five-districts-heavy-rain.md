@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: PTI via ThePrint, 17 Oct 4:48 pm. The report does not say for which day or days the alert applies; copy keeps it general."
+    - "Single source: PTI via ThePrint, Oct 17 4:48 pm. The report does not say for which day or days the alert applies; copy keeps it general."
     - "No damage or casualties reported. IMD's own district warning page not checked."
 ---
 

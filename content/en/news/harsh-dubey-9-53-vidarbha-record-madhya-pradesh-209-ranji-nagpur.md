@@ -22,7 +22,7 @@ hero:
     value: "Harsh Dubey 9/53"
 related: [mayank-mishra-three-haryana-71-6-lunch-uttarakhand-ranji-dehradun, assam-all-out-135-karnataka-rajasthan-73-8-lunch-ranji, bengal-beat-services-ranji-up-vidarbha-tamil-nadu-win]
 seo:
-  description: "Harsh Dubey took 9 for 53, the best innings figures by a Vidarbha bowler in the Ranji Trophy, as Madhya Pradesh were bowled out for 209 in Nagpur on 2 November 2026."
+  description: "Harsh Dubey took 9 for 53, the best innings figures by a Vidarbha bowler in the Ranji Trophy, as Madhya Pradesh were bowled out for 209 in Nagpur on November 2, 2026."
 sources:
   - title: "Harsh Dubey's nine topples MP as Vidarbha star sets best bowling spell"
     publisher: "CricTracker"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov, day 1 of Vidarbha v Madhya Pradesh at VCA Stadium, Nagpur (play from 09:30 IST); MP innings ended at 209 before the CricTracker report was published at 16:55 IST (modified 17:10 IST). Exact time of the last wicket not given; afternoon session inferred."
+    - "event: Nov 2, day 1 of Vidarbha v Madhya Pradesh at VCA Stadium, Nagpur (play from 09:30 IST); MP innings ended at 209 before the CricTracker report was published at 16:55 IST (modified 17:10 IST). Exact time of the last wicket not given; afternoon session inferred."
     - "Single source (CricTracker). It calls 9/53 'the best innings return ever recorded by a Vidarbha bowler in the Ranji Trophy' and says he is the first Vidarbha bowler to take nine in an innings. 23.1 overs bowled in the spell per the article. India ODI debut June 2026 (two ODIs, four wickets) and 69 wickets at 16.99 in 2024-25 also per the article. Toss, batters dismissed by Dubey and Vidarbha's reply not given; not stated. No quotes."
     - "Blocked/unanswered fetches: khelnow Uttarakhand v Haryana live page; crictracker VID v MP live score page; cricinfo pages failed. Search budget used: 6 of 6."
 cover:

@@ -22,7 +22,7 @@ hero:
     value: "Right calls, not popular ones"
 related: [santner-wins-toss-india-bat-hamilton-bhuvneshwar-varun-return, india-new-zealand-fifth-t20i-hamilton-preview, nz-thrash-india-87-runs-eden-park-fourth-t20i]
 seo:
-  description: "India head coach Gautam Gambhir, speaking before the fifth T20I against New Zealand in Hamilton on 1 November, said his job is to make the right decisions, not to keep everyone happy."
+  description: "India head coach Gautam Gambhir, speaking before the fifth T20I against New Zealand in Hamilton on November 1, said his job is to make the right decisions, not to keep everyone happy."
 sources:
   - title: "'My job is not to make everyone happy': Gambhir on managing India's deep squad"
     publisher: "IANS"
@@ -37,9 +37,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov ~12:00-12:30 IST, Gambhir broadcaster interview before the 5th T20I at Seddon Park; IANS item timestamped 12:47 PM IST (07:17 UTC)."
+    - "event: Nov 1 ~12:00-12:30 IST, Gambhir broadcaster interview before the 5th T20I at Seddon Park; IANS item timestamped 12:47 PM IST (07:17 UTC)."
     - "All Gambhir quotes from the IANS item (single source, read via fetch summary quoting verbatim). Gambhir named no players; the examples of who sat out today (Axar, Mayank, Sooryavanshi) come from the IANS toss report and are framed as our context, not his words."
-    - "17 October finish and 18 October flight are Gambhir's words; IANS says the previous series was against West Indies at home and the NZ series began 22 October."
+    - "October 17 finish and October 18 flight are Gambhir's words; IANS says the previous series was against West Indies at home and the NZ series began October 22."
 ---
 
 Gautam Gambhir has heard the noise about who plays and who sits out, and he is not going to let it pick his teams. Speaking to broadcasters before Sunday's final T20I against New Zealand in Hamilton, **India's head coach said his task is to make the right decisions**, not the ones that please the most people.
@@ -56,6 +56,6 @@ The depth he spoke of was on show at the toss. India left out Axar Patel and May
 
 ## A short turnaround
 
-He also praised the way the squad settled in New Zealand at short notice. India finished their previous series at home on 17 October and flew out a day later. "Obviously we had one practice session. Got to give it to the boys, the way they adapted to the conditions," he said, adding that many of them were in the country **for the first time**.
+He also praised the way the squad settled in New Zealand at short notice. India finished their previous series at home on October 17 and flew out a day later. "Obviously we had one practice session. Got to give it to the boys, the way they adapted to the conditions," he said, adding that many of them were in the country **for the first time**.
 
 With India already 3-1 up, Gambhir would not treat the last match as a formality. "I think there are **no dead rubbers in my philosophy**, in my ideology, and exactly the same is in the room as well," he said. "When you're playing for your country, there is no complacency."

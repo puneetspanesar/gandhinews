@@ -21,7 +21,7 @@ hero:
     value: "Five meetings, one ask: air defence"
 related: [ukraine-resumes-strikes-russian-oil-refineries, trump-announces-russia-ukraine-energy-ceasefire, musk-starlink-ukraine-throttling-us-military, ukraine-passes-minority-schools-law-to-unblock-eu-talks]
 seo:
-  description: "Zelenskyy met Rutte, Macron, Tusk, De Wever and Frederiksen in Brussels on 15 October, seeking air defence and F-16s before addressing the EU summit on 16 October."
+  description: "Zelenskyy met Rutte, Macron, Tusk, De Wever and Frederiksen in Brussels on October 15, seeking air defence and F-16s before addressing the EU summit on October 16."
 sources:
   - title: "We Are Working on New Air Defense Packages: Volodymyr Zelenskyy Following His Meeting with Mark Rutte"
     publisher: "Office of the President of Ukraine"

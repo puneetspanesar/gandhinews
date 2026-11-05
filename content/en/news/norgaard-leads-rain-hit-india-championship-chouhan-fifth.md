@@ -55,7 +55,7 @@ Nørgaard closed his round with a birdie and admitted the course was not an obvi
 
 > "This (course) should not suit me at all."
 >
-> Source: Niklas Nørgaard, after the first round, 15 October 2026
+> Source: Niklas Nørgaard, after the first round, October 15, 2026
 
 Northern Ireland's Tom McKibbin, Belgium's Thomas Detry and Spain's Eugenio Chacarra are one shot back on 67.
 
@@ -67,7 +67,7 @@ Chouhan said he was very satisfied with the round given the conditions and the l
 
 > "I take it one round at a time."
 >
-> Source: Om Prakash Chouhan, 15 October 2026
+> Source: Om Prakash Chouhan, October 15, 2026
 
 Saptak Talwar, who leads the PGTI Order of Merit, shot a one-under 71 with three birdies and two bogeys and said he was pleased with his start despite misreading a few putts, and that he was "most excited" about building one round on another. Manoj S had a 73 and Veer Ahlawat a 74.
 

@@ -10,7 +10,7 @@ standfirst: "The Union Cabinet on Wednesday cleared a five-year extension of the
 published: 2026-11-04T19:40:00+05:30
 location: New Delhi
 keyPoints:
-  - "The fast-track special courts scheme will now **run until 31 March 2031**."
+  - "The fast-track special courts scheme will now **run until March 31, 2031**."
   - "The network will grow **from 779 to 850 courts**, with new courts in districts with high pendency."
   - "The five-year plan costs **₹3,788.04 crore**, of which the Centre pays ₹2,353.15 crore from the Nirbhaya Fund."
 hero:
@@ -26,15 +26,15 @@ cover:
   headline: "Fast-track courts for rape cases till 2031"
   bg: "Supreme Court of India"
 infographic:
-  kicker: "Cabinet decision, 4 November"
+  kicker: "Cabinet decision, November 4"
   headline: "Fast-track courts for rape and POCSO cases extended"
   dek: "Five more years, 71 more courts"
   motif: gavel
   stats:
     - {icon: scales, value: "850", label: "courts planned, up from 779 working now"}
-    - {icon: currency-inr, value: "₹3,788 cr", label: "outlay till 31 March 2031"}
+    - {icon: currency-inr, value: "₹3,788 cr", label: "outlay till March 31, 2031"}
     - {icon: gavel, value: "4.02 lakh", label: "rape and POCSO cases disposed since 2019"}
-  source: "Union Cabinet decision, 4 November 2026"
+  source: "Union Cabinet decision, November 4, 2026"
 related: []
 seo:
   description: "The Union Cabinet has extended the Fast Track Special Courts scheme for rape and POCSO cases till March 2031, raising the number of courts from 779 to 850 at a cost of ₹3,788.04 crore."
@@ -57,12 +57,12 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 4 Nov about 16:49 IST, Union Cabinet briefing by Ashwini Vaishnaw (time from run brief; sources say only 'Wednesday'). Deccan Chronicle 7:32 pm, Dynamite News 7:54 pm, UNI teaser timestamped 11:32."
-    - "779 to 850, ₹3,788.04 crore, till 31 March 2031: all three sources agree. Centre ₹2,353.15 crore via Nirbhaya Fund and states/UTs ₹1,434.89 crore, 29 states/UTs, 4.02 lakh cases disposed, monitoring by Department of Justice dashboard: Deccan Chronicle only."
+    - "event: Nov 4 about 16:49 IST, Union Cabinet briefing by Ashwini Vaishnaw (time from run brief; sources say only 'Wednesday'). Deccan Chronicle 7:32 pm, Dynamite News 7:54 pm, UNI teaser timestamped 11:32."
+    - "779 to 850, ₹3,788.04 crore, till March 31, 2031: all three sources agree. Centre ₹2,353.15 crore via Nirbhaya Fund and states/UTs ₹1,434.89 crore, 29 states/UTs, 4.02 lakh cases disposed, monitoring by Department of Justice dashboard: Deccan Chronicle only."
     - "Vaishnaw quotes are from a PIB India post as quoted by Dynamite News. PIB release page could not be fetched (permission not granted in time). Pendency figure not reported; not used."
 ---
 
-The Union Cabinet on Wednesday extended the **Fast Track Special Courts scheme for five more years**, keeping in place the courts that try rape cases and sexual offences against children until 31 March 2031.
+The Union Cabinet on Wednesday extended the **Fast Track Special Courts scheme for five more years**, keeping in place the courts that try rape cases and sexual offences against children until March 31, 2031.
 
 The decision, announced by Union Minister Ashwini Vaishnaw after the Cabinet meeting, also widens the network. The government plans to raise the number of working courts **from 779 to 850**, with the new ones going to districts where rape and POCSO cases are piling up. The scheme, which includes exclusive POCSO courts, will cost **₹3,788.04 crore** over the five years from April 2026.
 
@@ -76,7 +76,7 @@ Each court is staffed by a judicial officer, a special public prosecutor and six
 
 ## Six years of fast-track trials
 
-The scheme was launched on 2 October 2019, after the Criminal Law (Amendment) Act, 2018 and a Supreme Court directive on speeding up such trials. It now runs in 29 states and Union Territories, and its courts have **disposed of more than 4.02 lakh cases** of rape and offences under the POCSO Act since it began.
+The scheme was launched on October 2, 2019, after the Criminal Law (Amendment) Act, 2018 and a Supreme Court directive on speeding up such trials. It now runs in 29 states and Union Territories, and its courts have **disposed of more than 4.02 lakh cases** of rape and offences under the POCSO Act since it began.
 
 The Department of Justice will track how each court performs through an online dashboard, regular reviews and consultations with High Courts and state governments.
 

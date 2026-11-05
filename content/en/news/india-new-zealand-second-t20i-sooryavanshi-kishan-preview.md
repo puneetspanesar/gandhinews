@@ -22,7 +22,7 @@ hero:
     value: "1-0 up, one opener down"
 related: [ishan-kishan-ruled-out-second-t20i-christchurch, india-record-chase-beat-new-zealand-christchurch-naman-dhir, glenn-phillips-82-new-zealand-225-india-chase-christchurch, india-a-new-zealand-a-lincoln-jurel-rahul-jaiswal]
 seo:
-  description: "India face New Zealand in the second T20I at Hagley Oval on 24 October, 12:30 pm IST, with Vaibhav Sooryavanshi set to replace the injured Ishan Kishan."
+  description: "India face New Zealand in the second T20I at Hagley Oval on October 24, 12:30 pm IST, with Vaibhav Sooryavanshi set to replace the injured Ishan Kishan."
 sources:
   - title: "2nd T20I: Kishan-minus India eye series lead against New Zealand"
     publisher: "NewsBytes"
@@ -43,7 +43,7 @@ verification:
   status: approved
   notes:
     - "Start time: Business Standard gives toss 12 pm and start 12:30 pm IST; NewsBytes says 12 pm (taken to be the toss). Matches the site's earlier report of 12:30 pm."
-    - "Kishan injury: NewsBytes 'groin strain', India.com 'abductor strain' (BCCI wording on site's 23 Oct story: adductor strain). Written as groin strain."
+    - "Kishan injury: NewsBytes 'groin strain', India.com 'abductor strain' (BCCI wording on site's Oct 23 story: adductor strain). Written as groin strain."
     - "Kotak quote on Sooryavanshi from India.com only; context and date of remark not clear, written as 'said this week'. Other Kotak lines in that piece were ambiguous and left out."
     - "Varun Chakravarthy possibility is India.com's assessment, written as a consideration, not a decision. Probable XIs are media predictions."
     - "Santner head blow: India.com only."
@@ -73,4 +73,4 @@ New Zealand are unlikely to change their side. Santner took a heavy blow to the 
 
 India have the better of this rivalry in the shortest format. Of 32 completed T20Is between the sides, India have won 20 and New Zealand 11, with one tie, and India beat New Zealand in the final of this year's T20 World Cup. In New Zealand, though, India's record is even: they have won two of their four T20I series there and lost two.
 
-Hagley Oval was a batting paradise on Thursday, and another high-scoring night is expected. After Saturday the series moves to Wellington on 27 October, Eden Park in Auckland on 30 October and Seddon Park in Hamilton on 1 November.
+Hagley Oval was a batting paradise on Thursday, and another high-scoring night is expected. After Saturday the series moves to Wellington on October 27, Eden Park in Auckland on October 30 and Seddon Park in Hamilton on November 1.

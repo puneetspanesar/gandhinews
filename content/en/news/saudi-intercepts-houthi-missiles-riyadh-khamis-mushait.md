@@ -12,7 +12,7 @@ location: Riyadh
 keyPoints:
   - "The coalition said it destroyed a **ballistic missile and two drones** fired at Riyadh."
   - "A **cruise missile** aimed at Khamis Mushait, near the Yemen border, was shot down later."
-  - "Air India has halted Riyadh and Dammam flights **until 7 November**."
+  - "Air India has halted Riyadh and Dammam flights **until November 7**."
 hero:
   need: "Skyline of Khamis Mushait in Asir province, Saudi Arabia"
   suggested_source: "Khamis Mushait"
@@ -22,7 +22,7 @@ hero:
     value: "Missiles at Riyadh and Khamis Mushait"
 related: [air-india-suspends-riyadh-dammam-flights-november-7, saudi-says-houthis-aimed-missiles-makkah-madina-houthis-deny, houthi-missiles-riyadh-taif-yanbu-saudi-alerts-makkah-jeddah, umrah-pilgrims-stranded-saudi-mansoor-ali-khan-jaishankar]
 seo:
-  description: "The Saudi-led coalition said it destroyed a Houthi ballistic missile and two drones fired at Riyadh and a cruise missile aimed at Khamis Mushait on Sunday 25 October."
+  description: "The Saudi-led coalition said it destroyed a Houthi ballistic missile and two drones fired at Riyadh and a cruise missile aimed at Khamis Mushait on Sunday, October 25."
 sources:
   - title: "Saudi-led coalition says it intercepted Houthi cruise missile over Khamis Mushait"
     publisher: "A News"
@@ -39,7 +39,7 @@ verification:
   notes:
     - "Interceptions per coalition spokesman Turki al-Maliki on X (quote via A News, 11:21 am Turkey time). ToI liveblog 10:28 am Israel time agrees on Khamis Mushait cruise missile and earlier Riyadh missile."
     - "No casualties or damage reported; no Houthi claim found at time of writing."
-    - "Air India 7 Nov suspension from our own earlier story; IndiGo extension to 31 Oct from a Tribune headline only, so not used in body."
+    - "Air India Nov 7 suspension from our own earlier story; IndiGo extension to Oct 31 from a Tribune headline only, so not used in body."
 ---
 
 The Saudi-led coalition fighting Yemen's Houthis said on Sunday it had shot down a fresh wave of missiles and drones fired at Saudi cities, including the capital.
@@ -54,4 +54,4 @@ The attacks continue a campaign in which the Iran-backed group has struck at Sau
 
 ## Indian travellers grounded
 
-The strikes have hit travel between India and Saudi Arabia hard. Air India has halted its Riyadh and Dammam flights until 7 November, and Indian Umrah pilgrims have been left stranded by the cancellations. With missiles still being fired at Riyadh on Sunday, there is little sign of an early return to normal schedules.
+The strikes have hit travel between India and Saudi Arabia hard. Air India has halted its Riyadh and Dammam flights until November 7, and Indian Umrah pilgrims have been left stranded by the cancellations. With missiles still being fired at Riyadh on Sunday, there is little sign of an early return to normal schedules.

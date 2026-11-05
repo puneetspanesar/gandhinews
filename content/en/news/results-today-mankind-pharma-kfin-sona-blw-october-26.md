@@ -6,12 +6,12 @@ section: economy
 format_label: "Economy / Results"
 topics: [economy]
 title: "Mankind Pharma, KFin and Sona BLW report today as Tata Steel pushes its results to November"
-standfirst: "Sixteen companies are due to report on Monday, ahead of a heavy Tuesday led by L&T and Maruti Suzuki. Tata Steel has moved its board meeting from 27 October to 7 November, and five central banks decide in the days after."
+standfirst: "Sixteen companies are due to report on Monday, ahead of a heavy Tuesday led by L&T and Maruti Suzuki. Tata Steel has moved its board meeting from October 27 to November 7, and five central banks decide in the days after."
 published: 2026-10-26T05:10:00+05:30
 location: Mumbai
 keyPoints:
   - "Mankind Pharma, KFin Technologies and Sona BLW are among **16 companies** due to report on Monday."
-  - "Tata Steel has postponed its September-quarter results to **Saturday, 7 November**."
+  - "Tata Steel has postponed its September-quarter results to **Saturday, November 7**."
   - "The US Federal Reserve announces its decision at **11:30 pm IST on Wednesday**."
 hero:
   need: "Mankind Pharma's headquarters or a Mankind Pharma building in New Delhi"
@@ -22,7 +22,7 @@ hero:
     value: "16 results today, L&T tomorrow"
 related: [week-ahead-results-data-calendar-october-26-30, central-bank-week-results-l-t-maruti-hul-us-gdp-iip, week-ahead-cues-brent-116-fed-ecb-boj-gift-nifty-flat, ipos-next-week-eaaa-sfc-bls-polymers-jio-listing, jio-platforms-ipo-subscribed-22-times-listing-october-28]
 seo:
-  description: "Q2 results today 26 October 2026: Mankind Pharma, KFin Technologies, Sona BLW, Aavas, Five-Star, Tamilnad Mercantile Bank. Tata Steel moves results to 7 November; Fed, ECB, BoJ decide this week."
+  description: "Q2 results today October 26, 2026: Mankind Pharma, KFin Technologies, Sona BLW, Aavas, Five-Star, Tamilnad Mercantile Bank. Tata Steel moves results to November 7; Fed, ECB, BoJ decide this week."
 sources:
   - title: "Q2 Results October 26-27, 2026: L&T, Maruti Suzuki, Cipla and More"
     publisher: "Kalkine Media"
@@ -62,15 +62,15 @@ sources:
 verification:
   status: approved
   notes:
-    - "Monday list: Kalkine (15 Oct) names 10 of the 16 companies it counts for 26 Oct (tables are images); only named ones used. Dates are scheduled and subject to exchange confirmation. Aavas, Five-Star, Tamilnad Mercantile, Mankind, KFin, Sona BLW also listed in the desk's 24 Oct week-ahead story."
-    - "Tuesday list from Kalkine; Wednesday/Thursday names restated from the desk's 24-25 Oct week-ahead stories."
-    - "Mankind call moved to 5 pm from 6 pm per company filing dated 22 Oct (Kalkine)."
-    - "Tata Steel: original date 27 Oct, new date 7 Nov, 'unavoidable circumstances', filing to BSE/NSE 24 Oct (PSU Connect only)."
+    - "Monday list: Kalkine (Oct 15) names 10 of the 16 companies it counts for Oct 26 (tables are images); only named ones used. Dates are scheduled and subject to exchange confirmation. Aavas, Five-Star, Tamilnad Mercantile, Mankind, KFin, Sona BLW also listed in the desk's Oct 24 week-ahead story."
+    - "Tuesday list from Kalkine; Wednesday/Thursday names restated from the desk's Oct 24-25 week-ahead stories."
+    - "Mankind call moved to 5 pm from 6 pm per company filing dated Oct 22 (Kalkine)."
+    - "Tata Steel: original date Oct 27, new date Nov 7, 'unavoidable circumstances', filing to BSE/NSE Oct 24 (PSU Connect only)."
     - "RBI 4-day VRR auction: title of RBI press release only; amount and window not read (PDF fetch blocked), so not stated."
-    - "Central bank times and expectations restated from the desk's 25 Oct story (Admiral Markets, Trading Economics). RBA >60% hike pricing for 3 Nov from ABC."
+    - "Central bank times and expectations restated from the desk's Oct 25 story (Admiral Markets, Trading Economics). RBA >60% hike pricing for Nov 3 from ABC."
 ---
 
-The September-quarter results season moves into its busiest week with a modest Monday. Sixteen companies are scheduled to report on 26 October, led by the drugmaker Mankind Pharma, the registrar KFin Technologies and the auto parts maker Sona BLW Precision Forgings, before the big names arrive on Tuesday.
+The September-quarter results season moves into its busiest week with a modest Monday. Sixteen companies are scheduled to report on October 26, led by the drugmaker Mankind Pharma, the registrar KFin Technologies and the auto parts maker Sona BLW Precision Forgings, before the big names arrive on Tuesday.
 
 Also on Monday's list are the housing lender Aavas Financiers, Five-Star Business Finance, Tamilnad Mercantile Bank, Dhanlaxmi Bank, Sumitomo Chemical India, Venus Remedies and the defence electronics maker Avantel. Results dates are those the companies have notified, and the numbers usually land after the close.
 
@@ -78,7 +78,7 @@ Mankind Pharma has brought its earnings call forward by an hour, to 5 pm, citing
 
 ## A late change from Tata Steel
 
-One large name has dropped out of the week. Tata Steel told the exchanges on Saturday that its board meeting to approve the quarter's results, set for Tuesday, 27 October, has been postponed to Saturday, 7 November, because of "unavoidable circumstances." Its trading window for insiders, shut since 24 September, stays closed until 48 hours after the results are out.
+One large name has dropped out of the week. Tata Steel told the exchanges on Saturday that its board meeting to approve the quarter's results, set for Tuesday, October 27, has been postponed to Saturday, November 7, because of "unavoidable circumstances." Its trading window for insiders, shut since September 24, stays closed until 48 hours after the results are out.
 
 That leaves Tuesday to Larsen & Toubro, Maruti Suzuki, Bajaj Auto, Cipla, ACC, Tata Capital, Indus Towers, Syngene International, Indoco Remedies, Transport Corporation of India and AWL Agri Business. L&T's order book is the number most investors will look for as a read on capital spending. Hindustan Unilever, Adani Ports and Hero MotoCorp follow on Wednesday, and Asian Paints and Trent on Thursday.
 
@@ -92,4 +92,4 @@ The global calendar is crowded. The Reserve Bank of New Zealand goes first, earl
 
 The US Federal Reserve announces its decision at 11:30 pm IST on Wednesday. Markets expect it to hold, after September's rise, but price a December increase as likely. On Thursday the US publishes its first estimate of July to September growth, alongside September's PCE price index, at 6 pm IST. The European Central Bank decides on Thursday at 6:45 pm IST and the Bank of Japan on Friday, both expected to hold.
 
-The Reserve Bank of Australia meets the following Tuesday, with markets putting the chance of a rise at more than 60%. At home, the RBI publishes foreign exchange reserves for the week to 23 October on Friday.
+The Reserve Bank of Australia meets the following Tuesday, with markets putting the chance of a rise at more than 60%. At home, the RBI publishes foreign exchange reserves for the week to October 23 on Friday.

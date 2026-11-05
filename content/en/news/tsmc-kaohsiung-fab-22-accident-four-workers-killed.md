@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - Death toll of four from Taipei Times (fourth worker, surnamed Huang, died morning of 21 Oct); Tom's Hardware and The Standard carried the earlier toll of three. Cause is preliminary per Southern Taiwan Science Park Bureau. Workers not named; nationality not reported. 'At least half a dozen' earlier single-fatality accidents since Sept 2024 per Tom's Hardware; not independently confirmed, so kept general. Bloomberg headline says TSMC suspended some construction; article not readable.
+    - Death toll of four from Taipei Times (fourth worker, surnamed Huang, died morning of Oct 21); Tom's Hardware and The Standard carried the earlier toll of three. Cause is preliminary per Southern Taiwan Science Park Bureau. Workers not named; nationality not reported. 'At least half a dozen' earlier single-fatality accidents since Sept 2024 per Tom's Hardware; not independently confirmed, so kept general. Bloomberg headline says TSMC suspended some construction; article not readable.
 ---
 
 Four construction workers have died after a steel structure gave way at the site of Taiwan Semiconductor Manufacturing Company's newest advanced chip plant in Kaohsiung.

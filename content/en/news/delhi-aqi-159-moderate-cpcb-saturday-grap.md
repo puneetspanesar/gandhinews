@@ -22,7 +22,7 @@ hero:
     value: "AQI 159: from 90 in a day"
 related: [delhi-air-turns-poor-again-anand-vihar-dry-week, delhi-rain-clears-air-aqi-86-satisfactory, bhupender-yadav-startups-delhi-air-pollution-solutions]
 seo:
-  description: "Delhi's CPCB 24-hour average AQI was 159 ('moderate') at 4 pm on Saturday 17 October, up from 90 on Friday, with clear skies forecast for the next few days."
+  description: "Delhi's CPCB 24-hour average AQI was 159 ('moderate') at 4 pm on Saturday, October 17, up from 90 on Friday, with clear skies forecast for the next few days."
 sources:
   - title: "Delhi records slight rise in temperatures, AQI 'moderate'"
     publisher: "ThePrint (PTI)"
@@ -44,14 +44,14 @@ verification:
   notes:
     - "AQI 159 at 4 pm Saturday and 90 on Friday: CPCB data via PTI (ThePrint 7:48 pm). CPCB bulletin page not fetched directly."
     - "Earlier Gandhi News story (16:40) cited a morning AQI of 216 from a different, non-CPCB report; the CPCB 24-hour average is a different measure. Copy notes the morning spike without the 216 figure."
-    - "GRAP: no report found of any CAQM order changing the GRAP stage on 17 or 18 October. Stage I threshold (201-300) from the revised 2026 schedule as described by Careerindia (1 Oct); CAQM order not read directly. Copy says no change was announced rather than stating the current stage."
-    - "Anand Vihar and IITM 'poor from 19 October' forecast carried from the earlier Gandhi News story (Bombay Samachar source), not re-read this run."
+    - "GRAP: no report found of any CAQM order changing the GRAP stage on 17 or October 18. Stage I threshold (201-300) from the revised 2026 schedule as described by Careerindia (Oct 1); CAQM order not read directly. Copy says no change was announced rather than stating the current stage."
+    - "Anand Vihar and IITM 'poor from October 19' forecast carried from the earlier Gandhi News story (Bombay Samachar source), not re-read this run."
     - "Temperature and forecast figures from PTI; IMD official unnamed in source."
 ---
 
 Delhi's air quality closed Saturday in the "moderate" category, with the 24-hour average Air Quality Index at 159 at 4 pm, according to Central Pollution Control Board data. At the same time on Friday, after rain had washed the city's air, the reading was 90, in the "satisfactory" band.
 
-The rise was expected. Rain on Friday cleared the air only briefly, and readings climbed again from Saturday morning, with Anand Vihar among the worst spots. The Indian Institute of Tropical Meteorology has forecast "poor" air from Monday, 19 October, with no rain in sight.
+The rise was expected. Rain on Friday cleared the air only briefly, and readings climbed again from Saturday morning, with Anand Vihar among the worst spots. The Indian Institute of Tropical Meteorology has forecast "poor" air from Monday, October 19, with no rain in sight.
 
 On the CPCB scale, 101 to 200 is "moderate" and 201 to 300 is "poor". Under the Commission for Air Quality Management's revised 2026 schedule, Stage I of the Graded Response Action Plan (GRAP) applies once the AQI reaches the "poor" band. Saturday's average was below that mark, and the commission did not announce any change to GRAP measures on Saturday.
 

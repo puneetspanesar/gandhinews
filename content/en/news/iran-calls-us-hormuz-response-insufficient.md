@@ -63,10 +63,10 @@ verification:
     - "IRNA page could not be opened (robots block); Rezaei's words come from AP (via PBS), Reuters (via 93.3 The Drive), The National and TASS, which agree. Quote fragments only."
     - "The content of the seven conditions and of the US reply was not found in any source."
     - "Mediators: Reuters says the US replied via Qatari intermediaries; The National and TASS say the conditions went through Pakistan, Qatar and Iraq. Story names all three as channels for the conditions and Qatar for the reply."
-    - "Iran International (opposition outlet) liveblog carried further Rezaei lines ('no return to the status quo ante'), an IRGC claim of a third tanker hitting a mine on 11 Oct, and a Bessent remark on Fox News; single, partisan source, not used."
-    - "Trump's 9 Oct 'remain in full force and effect' line and the no-strike-before-midterms pledge are from the CBS liveblog summary of his Truth Social post; post not opened."
+    - "Iran International (opposition outlet) liveblog carried further Rezaei lines ('no return to the status quo ante'), an IRGC claim of a third tanker hitting a mine on Oct 11, and a Bessent remark on Fox News; single, partisan source, not used."
+    - "Trump's Oct 9 'remain in full force and effect' line and the no-strike-before-midterms pledge are from the CBS liveblog summary of his Truth Social post; post not opened."
     - "Riyadh toll: SCMP and the Saudi civil aviation authority (as reported) give one Pakistani resident killed and 11 injured on Sunday; Iran International mentioned 'at least 13' in another entry, not used."
-    - "PBS/AP says the Houthis claimed both Riyadh attacks; our 11 Oct India story (DD India copy) said they had not claimed Saturday's. Story says the Houthis have claimed the attacks, per AP's later report."
+    - "PBS/AP says the Houthis claimed both Riyadh attacks; our Oct 11 India story (DD India copy) said they had not claimed Saturday's. Story says the Houthis have claimed the attacks, per AP's later report."
     - "Joint Saudi-Egypt-Pakistan-Turkey statement wording from the CBS liveblog summary only."
 ---
 
@@ -84,11 +84,11 @@ The Guards' navy separately warned that any ship in the strait that switches off
 
 ## How the talks stalled
 
-The war began on 28 February with US and Israeli strikes on Iran. Since then Iran has all but shut the strait, through which about a fifth of the world's oil and liquefied natural gas normally passes, by attacking ships and laying mines. The US has blockaded Iranian ports since July.
+The war began on February 28 with US and Israeli strikes on Iran. Since then Iran has all but shut the strait, through which about a fifth of the world's oil and liquefied natural gas normally passes, by attacking ships and laying mines. The US has blockaded Iranian ports since July.
 
-A memorandum of understanding signed in June collapsed within days, and large-scale US strikes resumed on 8 July. At the UN General Assembly last month Iran offered to reopen the strait within seven days if its conditions were met. Washington rejected that plan, as well as a proposal for Iran and Oman to manage the waterway jointly, saying ships must have free passage under international law.
+A memorandum of understanding signed in June collapsed within days, and large-scale US strikes resumed on July 8. At the UN General Assembly last month Iran offered to reopen the strait within seven days if its conditions were met. Washington rejected that plan, as well as a proposal for Iran and Oman to manage the waterway jointly, saying ships must have free passage under international law.
 
-Rezaei said Iran would not go back to the old format of talks, pointing to three earlier rounds that ended in US attacks. President Donald Trump said on Friday that the US would not attack Iran before the 3 November midterm elections, and that the blockade would "remain in full force and effect".
+Rezaei said Iran would not go back to the old format of talks, pointing to three earlier rounds that ended in US attacks. President Donald Trump said on Friday that the US would not attack Iran before the November 3 midterm elections, and that the blockade would "remain in full force and effect".
 
 ## Riyadh hit again
 

@@ -10,7 +10,7 @@ standfirst: "Jairam Ramesh said the Election Commission's order to give parties 
 published: 2026-10-18T12:20:00+05:30
 location: New Delhi
 keyPoints:
-  - "The Election Commission ordered on 15 October that parties get **searchable electoral rolls** for the revision in 17 states and UTs."
+  - "The Election Commission ordered on October 15 that parties get **searchable electoral rolls** for the revision in 17 states and UTs."
   - "Jairam Ramesh said the demand had been **refused since 2018** and credited the nationwide protests for the change."
   - "He said the SIR puts the right to vote of **over 13 crore Indians** at risk and must be suspended."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "Searchable rolls, after 8 years"
 related: [dmk-seeks-cec-gyanesh-kumar-removal-ballot-papers, aiks-joins-october-23-nationwide-protests-against-sir, politics-courts-week-ahead-speaker-tmc-anti-sir-protests]
 seo:
-  description: "Congress leader Jairam Ramesh on 18 October welcomed the ECI's order to give parties searchable voter rolls, said CEC Gyanesh Kumar must go and demanded the SIR be suspended."
+  description: "Congress leader Jairam Ramesh on October 18 welcomed the ECI's order to give parties searchable voter rolls, said CEC Gyanesh Kumar must go and demanded the SIR be suspended."
 sources:
   - title: "\"Nothing can save CEC Gyanesh Kumar\": Jairam Ramesh accuses ECI of enabling 'Vote Chori'"
     publisher: "ANI"
@@ -43,7 +43,7 @@ verification:
   status: approved
   notes:
     - "Ramesh's remarks were an X post on Sunday morning (ANI 12:14 pm IST, PTI/Tribune 1:22 pm IST). Quotes verbatim from ANI and PTI."
-    - "ECI order details (15 Oct, 17 states/UTs, SSR after two-year gap, final rolls 4 January, qualifying date 1 January 2027, readable rolls at draft/final stage, Assam special revision) from PTI/Tribune and ANI. ECI order itself not read; the 17 states not listed in sources."
+    - "ECI order details (Oct 15, 17 states/UTs, SSR after two-year gap, final rolls January 4, qualifying date January 1, 2027, readable rolls at draft/final stage, Assam special revision) from PTI/Tribune and ANI. ECI order itself not read; the 17 states not listed in sources."
     - "No ECI response to Ramesh found."
     - "'MP 2018 bogus voters' context is Ramesh's claim, attributed."
 ---
@@ -54,7 +54,7 @@ Congress general secretary Jairam Ramesh said the change had come only because o
 
 ## What the commission ordered
 
-In an order of 15 October, the Election Commission said parties would receive rolls in a searchable format for the Special Summary Revision, the routine annual update that is resuming after a two-year gap in 17 states and Union Territories, including those with Assembly elections due early next year. The qualifying date is 1 January 2027 and the final rolls are to be published on 4 January.
+In an order of October 15, the Election Commission said parties would receive rolls in a searchable format for the Special Summary Revision, the routine annual update that is resuming after a two-year gap in 17 states and Union Territories, including those with Assembly elections due early next year. The qualifying date is January 1, 2027, and the final rolls are to be published on January 4.
 
 Parties will get readable rolls, in hard and soft copy, at both the draft and final stages. Candidates in poll-bound states will get the draft and final rolls, and Electoral Registration Officers will also sell rolls to others before elections. The Special Intensive Revision has already been completed in these 17 states; Assam had a separate special revision for legal reasons.
 
@@ -72,4 +72,4 @@ The Election Commission has not responded to the remarks.
 
 ## What comes next
 
-Farmers' groups, trade unions and student bodies plan district-level protests on Friday, 23 October, demanding that the SIR be scrapped and the CEC removed. The Congress holds its own rally at Ramlila Maidan in Delhi on 1 November.
+Farmers' groups, trade unions and student bodies plan district-level protests on Friday, October 23, demanding that the SIR be scrapped and the CEC removed. The Congress holds its own rally at Ramlila Maidan in Delhi on November 1.

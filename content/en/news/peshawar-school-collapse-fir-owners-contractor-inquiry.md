@@ -47,7 +47,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "FIR details (Agha Mir Jani Shah police station, PPC 148, 149, 322, owners/shareholders/contractor, substandard material, ignored student complaints, land of Waheed and Javed, 16 marlas, leased 2024): PTI via The Tribune, 2:10 pm IST 16 Oct. Express Tribune headline confirms owners and contractor booked; body not read."
+    - "FIR details (Agha Mir Jani Shah police station, PPC 148, 149, 322, owners/shareholders/contractor, substandard material, ignored student complaints, land of Waheed and Javed, 16 marlas, leased 2024): PTI via The Tribune, 2:10 pm IST Oct 16. Express Tribune headline confirms owners and contractor booked; body not read."
     - "Death toll differs: PTI 35 (34 children, one teacher), 52 injured; Nukta 33 dead, 56 under treatment (administrative and hospital records, Friday); Dawn/LRH 31 on Thursday night. Copy gives the 33-35 range."
     - "Building description, Rescue 1122 call at 8:48 am, preliminary DC report quote, C&W forensic sampling, three-day district inspections, Kundi's PSRA remarks and 'criminal act': Nukta."
     - "Chief Secretary's committee: PTI says two members, headed by transport secretary, with C&W chief engineer Jamshed Ali Khan; Dawn names transport secretary Zubair Ahmed and spells Jamshid Ali Khan. Seven-day deadline in both."

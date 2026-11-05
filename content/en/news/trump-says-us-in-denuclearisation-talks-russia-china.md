@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Trump's remarks were made in a Newsmax interview on Thursday 15 October (US time) and reported on Friday. Single source for the quotes."
+    - "Trump's remarks were made in a Newsmax interview on Thursday, October 15 (US time) and reported on Friday. Single source for the quotes."
     - "Newsmax's claim that Trump spoke to Xi Jinping on the subject is hedged as reported."
     - "Warhead figures are SIPRI estimates as cited in the report."
 ---

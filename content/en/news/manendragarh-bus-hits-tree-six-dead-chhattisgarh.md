@@ -22,7 +22,7 @@ hero:
     value: "46 on board, six dead"
 related: []
 seo:
-  description: "Six people were killed and about 20 seriously injured when a bus hit a tree near Kelhari in Chhattisgarh's MCB district on 22 October 2026; CM Sai announced ₹5 lakh aid."
+  description: "Six people were killed and about 20 seriously injured when a bus hit a tree near Kelhari in Chhattisgarh's MCB district on October 22, 2026; CM Sai announced ₹5 lakh aid."
 sources:
   - title: "Six dead, 20 injured as passenger bus hits roadside tree in Chhattisgarh; CM announces compensation"
     publisher: "ANI"

@@ -12,7 +12,7 @@ location: New Delhi
 keyPoints:
   - "Jairam Ramesh accused the EC of **deflecting blame onto software and ECINET** for voter list errors."
   - "He said details of **10,470 voters in Pilibhit** were changed through Form 8 without supporting records."
-  - "Votes in two UP council seats polled on Friday will be **counted on 27 October**."
+  - "Votes in two UP council seats polled on Friday will be **counted on October 27**."
 hero:
   need: "Congress MP and communications chief Jairam Ramesh"
   suggested_source: "Jairam Ramesh"
@@ -55,4 +55,4 @@ He also listed problems since the special intensive revision (SIR) of the rolls:
 
 "The very SIR, whose declared objective was to purify the voter lists, has instead cast doubts on their reliability," Ramesh said. "Our clear demand is that Chief Election Commissioner Gyanesh Kumar resign immediately."
 
-The Election Commission had not responded by Saturday afternoon. Votes for the Allahabad-Jhansi Division Graduates' seat and the Gorakhpur-Faizabad Division Teachers' seat will be counted on 27 October.
+The Election Commission had not responded by Saturday afternoon. Votes for the Allahabad-Jhansi Division Graduates' seat and the Gorakhpur-Faizabad Division Teachers' seat will be counted on October 27.

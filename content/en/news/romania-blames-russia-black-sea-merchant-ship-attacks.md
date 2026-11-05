@@ -21,7 +21,7 @@ hero:
     value: "Four ships hit in 24 hours"
 related: [drone-attack-sinks-ship-off-bulgaria-black-sea, ukraine-osce-refinery-strikes-stop-if-russia-halts-energy-attacks]
 seo:
-  description: "Romania's foreign minister blamed Russia on 15 October for attacks on four merchant ships in the Black Sea, some in Romanian waters, and called for a ceasefire at sea."
+  description: "Romania's foreign minister blamed Russia on October 15 for attacks on four merchant ships in the Black Sea, some in Romanian waters, and called for a ceasefire at sea."
 sources:
   - title: "Romanian FM: Russia responsible for attacks on civilian ships in Black Sea"
     publisher: "Ukrinform"

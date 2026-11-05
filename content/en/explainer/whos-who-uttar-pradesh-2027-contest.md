@@ -102,13 +102,13 @@ sources:
 verification:
   status: approved
   notes:
-    - "Congress state leadership is unsettled: The Daily Jagran (13 Oct 2026) reported that the high command appointed Aradhana Misra, daughter of Pramod Tiwari, in place of Ajay Rai, but called it reported, not confirmed; Wikipedia still lists Rai as incumbent. Copy says Rai has led the unit since August 2023 and that reports this week said he had been replaced, without stating it as settled."
-    - "Seat-sharing numbers (Congress at least 150, SP sources offering 75 to 80) are single-source reports (Dynamite News, 29 Sep) and hedged."
+    - "Congress state leadership is unsettled: The Daily Jagran (Oct 13, 2026) reported that the high command appointed Aradhana Misra, daughter of Pramod Tiwari, in place of Ajay Rai, but called it reported, not confirmed; Wikipedia still lists Rai as incumbent. Copy says Rai has led the unit since August 2023 and that reports this week said he had been replaced, without stating it as settled."
+    - "Seat-sharing numbers (Congress at least 150, SP sources offering 75 to 80) are single-source reports (Dynamite News, Sep 29) and hedged."
     - "Akash Anand's title: The Week body says National Convenor, Mayawati's statement says national coordinator; copy uses 'national coordinator' from her statement."
-    - "Current posts of Anupriya Patel and Sanjay Nishad not confirmed this run; they are described only as their parties' leaders (Wikipedia 2022 page). Jayant Chaudhary (Union minister) and Om Prakash Rajbhar (UP Panchayati Raj minister) from UNI 12 Oct 2026."
+    - "Current posts of Anupriya Patel and Sanjay Nishad not confirmed this run; they are described only as their parties' leaders (Wikipedia 2022 page). Jayant Chaudhary (Union minister) and Om Prakash Rajbhar (UP Panchayati Raj minister) from UNI Oct 12, 2026."
     - "Yogi Adityanath's Gorakhpur Urban win in 2022 from Wikipedia; no margin given there, so none stated."
-    - "Deputy CMs Keshav Prasad Maurya and Brajesh Pathak, and SP state president Shyam Lal Pal, from Navbharat Live 15 Oct 2026."
-    - "ASP list composition (18 SC, 16 OBC, 10 Muslim, 1 Sikh) from the ASP state vice-president as quoted in The Week, 1 Aug 2026."
+    - "Deputy CMs Keshav Prasad Maurya and Brajesh Pathak, and SP state president Shyam Lal Pal, from Navbharat Live Oct 15, 2026."
+    - "ASP list composition (18 SC, 16 OBC, 10 Muslim, 1 Sikh) from the ASP state vice-president as quoted in The Week, Aug 1, 2026."
 ---
 
 ## Who leads the BJP's campaign?
@@ -167,6 +167,6 @@ Asaduddin Owaisi's AIMIM, which won no seats in 2022, has also stepped up its pi
 
 **Seat-sharing deals, defections and ticket lists.**
 
-The SP and the Congress still have to agree a formula, and the NDA has to share seats among five parties. The BSP and the Aazad Samaj Party have already begun naming candidates. The election is expected in February and March 2027, before the Assembly's term ends on 22 May.
+The SP and the Congress still have to agree a formula, and the NDA has to share seats among five parties. The BSP and the Aazad Samaj Party have already begun naming candidates. The election is expected in February and March 2027, before the Assembly's term ends on May 22.
 
 For every minister, seat and 2022 margin, see our [Uttar Pradesh 2027 election guide](/elections/uttar-pradesh-2027/).

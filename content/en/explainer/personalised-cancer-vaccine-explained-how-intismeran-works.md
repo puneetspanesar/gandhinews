@@ -43,7 +43,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "All trial figures (1,137 patients, stage IIB-IV, 2:1 randomisation, 42% lower risk of relapse or death, 82.2% v 70.0% at two years, 38% lower risk of distant metastasis, no difference in first six months then 58% lower, >99% manufacturing success, 64-day median to first dose, median nine doses, serious treatment-related adverse events 14.2% v 13.4%, OS immature and not significant) are from the desk's 24 October news story and its sources. CancerNetwork page could not be re-opened in this run (fetch permission timed out)."
+    - "All trial figures (1,137 patients, stage IIB-IV, 2:1 randomisation, 42% lower risk of relapse or death, 82.2% v 70.0% at two years, 38% lower risk of distant metastasis, no difference in first six months then 58% lower, >99% manufacturing success, 64-day median to first dose, median nine doses, serious treatment-related adverse events 14.2% v 13.4%, OS immature and not significant) are from the desk's October 24 news story and its sources. CancerNetwork page could not be re-opened in this run (fetch permission timed out)."
     - "Quotes from Georgina Long (Targeted Oncology) and Stéphane Bancel (Merck release) as used in the news story."
     - "AI-assisted selection of targets from The Week only; hedged as 'reported'."
     - "General description of mRNA and of neoantigens (mutations unique to the tumour) is standard; 'not a preventive vaccine' framing is the desk's explanation."

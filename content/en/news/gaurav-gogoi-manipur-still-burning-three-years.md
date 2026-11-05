@@ -33,7 +33,7 @@ verification:
   status: approved
   notes:
     - "Single source ANI 14:29 IST, based on Gogoi's X post. Figures (300+ deaths, ~24,000 in camps, 40+ killings in Kuki-Naga violence since February) are Gogoi's as cited."
-    - "Kharge quote from Wednesday 22 Oct per ANI. NPCM 48-hour shutdown from Monday midnight, after Khongbal Tangkhul attack killing three Meitei people, per ANI; dates of shutdown kept vague as 'this week'."
+    - "Kharge quote from Wednesday, Oct 22 per ANI. NPCM 48-hour shutdown from Monday midnight, after Khongbal Tangkhul attack killing three Meitei people, per ANI; dates of shutdown kept vague as 'this week'."
     - "No government response found."
 ---
 

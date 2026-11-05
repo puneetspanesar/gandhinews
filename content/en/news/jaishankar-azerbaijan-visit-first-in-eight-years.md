@@ -22,7 +22,7 @@ hero:
     value: "Back in Baku after eight years"
 related: []
 seo:
-  description: "S Jaishankar met President Ilham Aliyev and Foreign Minister Jeyhun Bayramov in Baku on 23 October, the first visit by an Indian foreign minister since 2018."
+  description: "S Jaishankar met President Ilham Aliyev and Foreign Minister Jeyhun Bayramov in Baku on October 23, the first visit by an Indian foreign minister since 2018."
 sources:
   - title: "Jaishankar to visit Azerbaijan on Friday, first such trip in 8 years"
     publisher: "The Tribune (PTI)"

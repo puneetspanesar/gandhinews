@@ -30,10 +30,10 @@ infographic:
     - {icon: map-pin, value: "36.35%", label: "YSR Kadapa, the highest district"}
     - {icon: cloud-rain, value: "23.89%", label: "Bapatla, the lowest district"}
   chart: {type: columns, title: "Turnout at 1 pm, selected districts, %", highlight: 0, items: [{label: "YSR Kadapa", value: 36.35, display: "36.35"}, {label: "Visakhapatnam", value: 35.11, display: "35.11"}, {label: "Krishna", value: 34.85, display: "34.85"}, {label: "Eluru", value: 26.36, display: "26.36"}, {label: "Bapatla", value: 23.89, display: "23.89"}]}
-  source: "State Election Commission, Andhra Pradesh, 5 November 2026"
+  source: "State Election Commission, Andhra Pradesh, November 5, 2026"
 related: [andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri, andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula, andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6, andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous]
 seo:
-  description: "Andhra Pradesh MPTC and ZPTC polls recorded 30.50% turnout by 1 pm on 5 November 2026, the SEC said; YSR Kadapa highest at 36.35%, Bapatla lowest at 23.89%."
+  description: "Andhra Pradesh MPTC and ZPTC polls recorded 30.50% turnout by 1 pm on November 5, 2026, the SEC said; YSR Kadapa highest at 36.35%, Bapatla lowest at 23.89%."
 sources:
   - title: "AP MPTC, ZPTC elections: polling percentage till 1 pm, district-wise"
     publisher: "Andhra Jyothy"
@@ -48,7 +48,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 5 Nov, SEC 1 pm turnout statement reported 14:53 IST (Namasthe Telangana) and 15:48 IST (Andhra Jyothy, full district table). Published time 15:00."
+    - "event: Nov 5, SEC 1 pm turnout statement reported 14:53 IST (Namasthe Telangana) and 15:48 IST (Andhra Jyothy, full district table). Published time 15:00."
     - "Two sources agree on 30.50%, Kadapa 36.35% and Bapatla 23.89%. District table from Andhra Jyothy only. No 3 pm statewide figure found by 16:10 IST; no SEC official quoted directly."
     - "Seat, candidate, station and staff figures from Namasthe Telangana; seat and unanimous figures match earlier stories."
 ---
@@ -65,4 +65,4 @@ Most other districts sat close to the state average, from Srikakulam at 28.40% t
 
 The vote covers **582 ZPTC and 7,767 MPTC seats**, with 21,012 candidates in the fray: 18,843 for mandal seats and 2,169 for zilla seats. About 2.61 crore people are eligible to vote at 31,460 polling stations, staffed by more than two lakh officials. Another 2,128 seats were decided unopposed before polling day.
 
-Polling closes at 5 pm. The commission will release later figures through the afternoon, and the final count of voters will come after booths close. Votes will be counted on 7 November.
+Polling closes at 5 pm. The commission will release later figures through the afternoon, and the final count of voters will come after booths close. Votes will be counted on November 7.

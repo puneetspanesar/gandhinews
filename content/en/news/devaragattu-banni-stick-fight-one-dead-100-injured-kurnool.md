@@ -22,7 +22,7 @@ hero:
     value: "Sticks at midnight, one dead"
 related: []
 seo:
-  description: "One man was killed and over 100 injured in the Devaragattu Banni Utsav stick fight in Kurnool district, Andhra Pradesh, on the night of 21-22 October 2026."
+  description: "One man was killed and over 100 injured in the Devaragattu Banni Utsav stick fight in Kurnool district, Andhra Pradesh, on the night of October 21-22, 2026."
 sources:
   - title: "One killed, 100 injured in traditional stick fight in Andhra Kurnool"
     publisher: "Mumbai Press (IANS)"

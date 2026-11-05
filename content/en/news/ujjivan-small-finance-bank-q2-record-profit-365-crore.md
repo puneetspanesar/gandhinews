@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: Kotak Neo (posted 9:53 pm IST, 16 Oct). Results announced on 16 Oct evening; exact time not given."
+    - "Single source: Kotak Neo (posted 9:53 pm IST, Oct 16). Results announced on Oct 16 evening; exact time not given."
     - "Year-ago profit of about ₹122 crore is derived by the desk from ₹365 crore and 199.9% growth."
     - "Reasons for the profit jump (e.g. lower credit costs) not given in the source, so none stated. Head office photo suggestion relies on desk knowledge that it is in Bengaluru."
 ---

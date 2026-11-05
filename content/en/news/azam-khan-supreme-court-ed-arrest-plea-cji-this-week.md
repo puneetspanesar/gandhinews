@@ -27,7 +27,7 @@ cover:
   bg: "Supreme Court of India"
 related: [supreme-court-senior-counsel-oral-mentioning-bar-from-today, supreme-court-ram-temple-trust-funds-probe-hearing-today]
 seo:
-  description: "On 2 November 2026 SP leader Azam Khan's plea against his ED arrest in the Jauhar University money laundering case was mentioned before CJI Surya Kant, who said it would be heard this week."
+  description: "On November 2, 2026 SP leader Azam Khan's plea against his ED arrest in the Jauhar University money laundering case was mentioned before CJI Surya Kant, who said it would be heard this week."
 sources:
   - title: "Azam Khan Moves Supreme Court Challenging ED Arrest After Release In Dual PAN Card Case"
     publisher: "LiveLaw"
@@ -52,11 +52,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov, morning mentioning before CJI Surya Kant (court mentions start 10:30 IST); LiveLaw report timestamped 11:52 IST, PTI via Daily Excelsior 12:08 IST, NewsX 12:13 IST. Exact minute of the mention not given in any source."
+    - "event: Nov 2, morning mentioning before CJI Surya Kant (court mentions start 10:30 IST); LiveLaw report timestamped 11:52 IST, PTI via Daily Excelsior 12:08 IST, NewsX 12:13 IST. Exact minute of the mention not given in any source."
     - "Bench per PTI: CJI Surya Kant, Justices Joymalya Bagchi and V Mohana. PTI says the bench refused urgent listing but said the plea is likely to come up during the week; LiveLaw/Bar & Bench say the CJI agreed to list it this week. Copy reconciles: no immediate date, to be heard this week."
     - "NewsX says the CJI first suggested approaching the Allahabad High Court; single source, left out."
-    - "Release date conflicts (LiveLaw/NewsX 29 Oct; Bar & Bench and PTI 31 Oct, release from Rampur jail). Copy says 'last week'. ED arrest 'about 40 minutes' after release is counsel's claim per LiveLaw/NewsX; attributed."
-    - "Number of predicate FIRs conflicts (Bar & Bench about 26 from 2019; PTI 58). Copy says 'dozens of FIRs'. Rs 1,170 crore attachment (28 Oct) and 38-building demolition order (July) from PTI only."
+    - "Release date conflicts (LiveLaw/NewsX Oct 29; Bar & Bench and PTI Oct 31, release from Rampur jail). Copy says 'last week'. ED arrest 'about 40 minutes' after release is counsel's claim per LiveLaw/NewsX; attributed."
+    - "Number of predicate FIRs conflicts (Bar & Bench about 26 from 2019; PTI 58). Copy says 'dozens of FIRs'. Rs 1,170 crore attachment (Oct 28) and 38-building demolition order (July) from PTI only."
     - "Diary No. 69162/2026 per LiveLaw. No direct quotes from the court available."
 ---
 
@@ -72,6 +72,6 @@ Khan, 78, and his son Abdullah Azam Khan had been granted bail by the Allahabad 
 
 The money laundering case concerns the **Mohammad Ali Jauhar University in Rampur**, linked to the Jauhar Trust. The ED has built it on dozens of FIRs that Uttar Pradesh Police filed against him and his associates, including complaints by farmers who say their land was forcibly taken for the campus. The agency also alleges that government money meant for public works was diverted to the private university while Khan was the state's urban development minister.
 
-On 28 October the ED said it had **attached university land and buildings worth ₹1,170 crore**. Earlier, in July, the Rampur Development Authority ordered 38 buildings on the campus to be demolished; the university has appealed.
+On October 28 the ED said it had **attached university land and buildings worth ₹1,170 crore**. Earlier, in July, the Rampur Development Authority ordered 38 buildings on the campus to be demolished; the university has appealed.
 
 Khan, a former Uttar Pradesh cabinet minister and one of the Samajwadi Party's senior-most leaders, faces a string of other criminal cases. His plea is expected before the court later this week.

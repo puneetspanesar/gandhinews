@@ -31,20 +31,20 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: Bar and Bench (Debayan Roy), 15 Oct. AG letter quotes ('prima-facie scandalous', 'It is important that the Hon'ble Member of Parliament should have verified the facts') and SCBA quote ('go beyond fair criticism') from it. AG consent letter and petition not seen directly."
+    - "Single source: Bar and Bench (Debayan Roy), Oct 15. AG letter quotes ('prima-facie scandalous', 'It is important that the Hon'ble Member of Parliament should have verified the facts') and SCBA quote ('go beyond fair criticism') from it. AG consent letter and petition not seen directly."
     - "Wagle's original post contained an expletive; described, not quoted."
-    - "Raut's 12 Oct remarks as carried by IANS, per the petition summary in Bar and Bench. No response from Raut found; listing date in Supreme Court not known."
+    - "Raut's Oct 12 remarks as carried by IANS, per the petition summary in Bar and Bench. No response from Raut found; listing date in Supreme Court not known."
 ---
 
 Attorney General R Venkataramani has allowed the Supreme Court Bar Association (SCBA) to pursue criminal contempt proceedings against Shiv Sena (UBT) Rajya Sabha MP Sanjay Raut and journalist Nikhil Wagle over their remarks about Chief Justice of India Surya Kant.
 
-The SCBA filed its petition on Thursday, 15 October, and the Attorney General gave his consent the same day. Under the Contempt of Courts Act, 1971, a private party needs the Attorney General's consent before it can ask the Supreme Court to begin criminal contempt proceedings. The petition has yet to be listed for hearing.
+The SCBA filed its petition on Thursday, October 15, and the Attorney General gave his consent the same day. Under the Contempt of Courts Act, 1971, a private party needs the Attorney General's consent before it can ask the Supreme Court to begin criminal contempt proceedings. The petition has yet to be listed for hearing.
 
 ## What was said
 
-Both men had reacted to the Chief Justice's refusal to meet a delegation of opposition leaders in person. The CJI had suggested they file a petition instead; on 12 October the INDIA bloc marched towards the court and filed one.
+Both men had reacted to the Chief Justice's refusal to meet a delegation of opposition leaders in person. The CJI had suggested they file a petition instead; on October 12 the INDIA bloc marched towards the court and filed one.
 
-Wagle responded on X to a report on the CJI's decision with an abusive post aimed at the Chief Justice. Raut, in remarks carried on 12 October, said judges had attended BJP political programmes in BJP-ruled states and that chief ministers had hosted dinners for judges. The SCBA's petition says he also referred to photographs of judges playing badminton with political figures in London. A Delhi High Court order of 19 June had already found that those photographs were taken at a November 2025 event in New Delhi and ordered them taken down.
+Wagle responded on X to a report on the CJI's decision with an abusive post aimed at the Chief Justice. Raut, in remarks carried on October 12, said judges had attended BJP political programmes in BJP-ruled states and that chief ministers had hosted dinners for judges. The SCBA's petition says he also referred to photographs of judges playing badminton with political figures in London. A Delhi High Court order of June 19 had already found that those photographs were taken at a November 2025 event in New Delhi and ordered them taken down.
 
 ## The Attorney General's view
 
@@ -58,4 +58,4 @@ The SCBA has asked the court to act against both men for criminal contempt, to d
 
 Wagle moved quickly. On Thursday he posted on X a letter to the Attorney General in which he apologised unconditionally to the Chief Justice and the Supreme Court, said he had deleted the post, and asked that the matter not be pursued. There was no response from Raut by Friday morning.
 
-The case lands in a tense week for relations between the court and the opposition. On Thursday the Supreme Court issued notice on a plea against the 12 October march by opposition leaders, and the Bar Council of Delhi has separately condemned personal attacks on judges.
+The case lands in a tense week for relations between the court and the opposition. On Thursday the Supreme Court issued notice on a plea against the October 12 march by opposition leaders, and the Bar Council of Delhi has separately condemned personal attacks on judges.

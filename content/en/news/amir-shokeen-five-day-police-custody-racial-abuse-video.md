@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: IANS via Bhaskar English, 12:41 pm IST 24 Oct. Sections in the current case not given; earlier BNS 323, 324, 504, 506 cases mentioned in source but section numbers look like old IPC numbering, so left out."
+    - "Single source: IANS via Bhaskar English, 12:41 pm IST Oct 24. Sections in the current case not given; earlier BNS 323, 324, 504, 506 cases mentioned in source but section numbers look like old IPC numbering, so left out."
     - "Victim not named. Video content not described in detail in source."
     - "Quoted phrase 'no intention of insulting anyone' is the report's paraphrase of his post; used as paraphrase, not a quote."
 ---

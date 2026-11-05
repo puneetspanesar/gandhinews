@@ -32,12 +32,12 @@ sources:
 verification:
   status: approved
   notes:
-  - Single source (TechCrunch, 23 Oct 2:59 pm PDT). Preorder figure from Clem Delangue's X post as reported. Price ($399 in a linked URL slug) not confirmed in body; omitted. Nvidia's acquisition of Hugging Face in September as stated by TechCrunch.
+  - Single source (TechCrunch, Oct 23 2:59 pm PDT). Preorder figure from Clem Delangue's X post as reported. Price ($399 in a linked URL slug) not confirmed in body; omitted. Nvidia's acquisition of Hugging Face in September as stated by TechCrunch.
 ---
 
 A small, foot-stomping, open-source robot has become an unlikely hit after Nvidia chief executive Jensen Huang was filmed playing with a flock of them on stage. Preorders for Hugging Face's Microduck passed 20,000 units the day after the video went viral, Hugging Face co-founder Clem Delangue said.
 
-The clip, from Huang's keynote at Nvidia's GTC conference in Berlin earlier this week, shows him giving voice commands to the robots, which stomp their feet, chirp in the manner of R2-D2, sit down, topple over for a "nap" and turn somersaults. "When @jensenhuang asks for a somersault, you deliver," an Nvidia account wrote alongside one clip on 21 October.
+The clip, from Huang's keynote at Nvidia's GTC conference in Berlin earlier this week, shows him giving voice commands to the robots, which stomp their feet, chirp in the manner of R2-D2, sit down, topple over for a "nap" and turn somersaults. "When @jensenhuang asks for a somersault, you deliver," an Nvidia account wrote alongside one clip on October 21.
 
 ## Part of the Nvidia family
 

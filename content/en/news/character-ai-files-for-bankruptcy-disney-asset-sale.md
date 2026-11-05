@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: TechCrunch, 13 Oct 2026. Court and exact filing date not given in the report; written as 'has filed'. Search found no second report by writing time."
+    - "Single source: TechCrunch, Oct 13, 2026. Court and exact filing date not given in the report; written as 'has filed'. Search found no second report by writing time."
     - "Assets and liabilities each in the $50-100 million range per a court document cited by TechCrunch."
     - "Quotes from CEO Colin Adams are fragments from his message as reported by TechCrunch; used only as short quoted phrases."
     - "Lawsuit over a 14-year-old's death kept brief and factual; no method detail."

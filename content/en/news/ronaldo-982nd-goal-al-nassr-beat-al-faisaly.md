@@ -22,7 +22,7 @@ hero:
     value: "Goal No. 982"
 related: []
 seo:
-  description: "Cristiano Ronaldo headed his 982nd career goal as Al-Nassr beat Al-Faisaly 3-1 in the Saudi Pro League on 23 October to draw level with Al-Qadisiyah at the top."
+  description: "Cristiano Ronaldo headed his 982nd career goal as Al-Nassr beat Al-Faisaly 3-1 in the Saudi Pro League on October 23 to draw level with Al-Qadisiyah at the top."
 sources:
   - title: "Al-Faisaly FC 1-3 Al-Nassr: Ronaldo's 982nd goal moves Postecoglou's men level at top"
     publisher: "101 Great Goals"

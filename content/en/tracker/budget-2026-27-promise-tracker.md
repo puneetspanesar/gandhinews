@@ -6,13 +6,13 @@ section: economy
 format_label: "Tracker / Budget 2026-27"
 topics: [budget-2026-27, fiscal-deficit, economy]
 title: "Budget 2026-27 promise tracker: what has happened eight months on"
-standfirst: "We are tracking 25 promises from the Union Budget presented on 1 February 2026. Three have been formally delivered, five are in progress and for 17 we found no reliable update."
+standfirst: "We are tracking 25 promises from the Union Budget presented on February 1, 2026. Three have been formally delivered, five are in progress and for 17 we found no reliable update."
 published: 2026-10-11T09:00:00+05:30
 data: /content/data/budget-promises.json
 hero:
-  need: "Finance Minister Nirmala Sitharaman with the Budget tablet, 1 February 2026"
+  need: "Finance Minister Nirmala Sitharaman with the Budget tablet, February 1, 2026"
   suggested_source: "PIB photo gallery, Union Budget 2026-27"
-  alt: "Finance Minister Nirmala Sitharaman outside North Block on Budget day, 1 February 2026"
+  alt: "Finance Minister Nirmala Sitharaman outside North Block on Budget day, February 1, 2026"
 related: [fiscal-deficit-reaches-41-9-of-target-by-august, fiscal-deficit-explained, economy-dashboard, rbi-right-to-move-fiscal-side-must-hold]
 seo:
   description: "Tracking 25 promises from India's Union Budget 2026-27: fiscal deficit, capex, Income Tax Act, ISM 2.0, SME fund, rail corridors and more, with sources."
@@ -53,14 +53,14 @@ verification:
     - "Progress checks were limited by the research budget. 'No update found' means we did not find a reliable source, not that nothing has happened. Priority items for the next check: ECMS, Biopharma SHAKTI, Khelo India Mission, CCUS and the customs changes."
     - "The research note listed ISM 2.0 at ₹40,000 crore. The Budget speech (para 17) gives no figure for ISM 2.0; ₹40,000 crore is the ECMS outlay in para 18. Corrected in the tracker."
     - "VB-G RAM G allocation (₹95,691 crore, 125 days, states' share to 40%) confirmed in Scroll; Outlook Money says 'over Rs 95,000 crore'. Not located in the Budget speech text read."
-    - "Fact-checked 11 Oct 2026: every speech paragraph reference used (16-21, 28, 33, 36, 38, 40, 54, 55, 63, 72, 92, 94, 99, 103, 108, 159, 160 and Annex C.2 for the 1 April 2026 personal-import date) confirmed against the Budget speech; Budget at a Glance and PIB figures confirmed; CBDT (Act in force 1 Apr 2026, Rules notified 20 Mar 2026), PTI via ThePrint (ISM 2.0, ₹1.27 lakh crore, 15 Jul 2026), PIB title and The Hans India (SME Growth Fund, 6 Oct 2026, AIF, manufacturing focus), Business Standard (HSR DPR update, 9 Feb 2026), News On AIR (Biopharma SHAKTI proposed, 21 Mar 2026), Outlook Money (VB-G RAM G from 1 Jul 2026) and Deccan Herald (FY26 outturn) confirmed. Status counts (3 delivered, 5 in progress, 17 no update) match the data file."
+    - "Fact-checked Oct 11, 2026: every speech paragraph reference used (16-21, 28, 33, 36, 38, 40, 54, 55, 63, 72, 92, 94, 99, 103, 108, 159, 160 and Annex C.2 for the April 1, 2026, personal-import date) confirmed against the Budget speech; Budget at a Glance and PIB figures confirmed; CBDT (Act in force Apr 1, 2026, Rules notified Mar 20, 2026), PTI via ThePrint (ISM 2.0, ₹1.27 lakh crore, Jul 15, 2026), PIB title and The Hans India (SME Growth Fund, Oct 6, 2026, AIF, manufacturing focus), Business Standard (HSR DPR update, Feb 9, 2026), News On AIR (Biopharma SHAKTI proposed, Mar 21, 2026), Outlook Money (VB-G RAM G from Jul 1, 2026) and Deccan Herald (FY26 outturn) confirmed. Status counts (3 delivered, 5 in progress, 17 no update) match the data file."
     - "Railways allocation is left out: Scroll (₹2.9 lakh crore), Business Standard link text (₹2.99 trillion) and Greater Kashmir (₹2.93 lakh crore) disagree."
     - "SME Growth Fund details rest on PIB's Cabinet listing and The Hans India, as compiled by the policy desk."
 ---
 
-The Union Budget for 2026-27, presented by Finance Minister Nirmala Sitharaman on 1 February 2026, made dozens of commitments, from a lower fiscal deficit to new schemes for semiconductors, small businesses and high-speed rail. This tracker follows 25 of them, each tied to the paragraph of the Budget speech or the Budget document where it appears.
+The Union Budget for 2026-27, presented by Finance Minister Nirmala Sitharaman on February 1, 2026, made dozens of commitments, from a lower fiscal deficit to new schemes for semiconductors, small businesses and high-speed rail. This tracker follows 25 of them, each tied to the paragraph of the Budget speech or the Budget document where it appears.
 
-As of 11 October 2026, three promises have been formally delivered: the Income Tax Act, 2025 is in force, the Cabinet has approved India Semiconductor Mission 2.0, and the Cabinet has approved the ₹10,000 crore SME Growth Fund. Five are in progress, including the headline fiscal deficit target of 4.3% of GDP, which ICRA expects to be missed by ₹1.3 to 1.4 lakh crore.
+As of October 11, 2026, three promises have been formally delivered: the Income Tax Act, 2025 is in force, the Cabinet has approved India Semiconductor Mission 2.0, and the Cabinet has approved the ₹10,000 crore SME Growth Fund. Five are in progress, including the headline fiscal deficit target of 4.3% of GDP, which ICRA expects to be missed by ₹1.3 to 1.4 lakh crore.
 
 For 17 promises we found no reliable update. We will add updates as ministries and other reliable sources publish them. We also include one check on the previous Budget: the 2025-26 fiscal deficit target of 4.4% was met.
 

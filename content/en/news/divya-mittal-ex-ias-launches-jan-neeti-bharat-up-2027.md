@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: ThePrint (Prashant Srivastava, Lucknow), 15 Oct 5:32 pm. All biography, dates and quotes rest on it."
+    - "Single source: ThePrint (Prashant Srivastava, Lucknow), Oct 15 5:32 pm. All biography, dates and quotes rest on it."
     - "Claims that tension followed the Lahuriyadah water project and that Anupriya Patel was not invited to its puja come from unnamed sources in ThePrint; the puja claim is left out and the transfer is stated without a cause."
     - "No formal launch date or venue given. Quotes translated from Hindi by ThePrint."
     - "Anupriya Patel's remark did not name Mittal; copy says so."
@@ -47,7 +47,7 @@ Mittal announced Jan Neeti Bharat in an eight-and-a-half-minute video posted on 
 
 Mittal belongs to the 2013 batch of the IAS and spent about 13 years in government. She studied at IIT Delhi and IIM Bengaluru and worked abroad before taking the civil services examination.
 
-As district magistrate of Mirzapur she drew attention for a piped-water project in Lahuriyadah village, and she was moved out of the district not long after. She announced her resignation on 30 August, citing personal and family reasons, and it took effect on 15 September.
+As district magistrate of Mirzapur she drew attention for a piped-water project in Lahuriyadah village, and she was moved out of the district not long after. She announced her resignation on August 30, citing personal and family reasons, and it took effect on September 15.
 
 Describing the response to her call for people to get in touch with her, she said: "I had set out carrying a lamp of hope."
 

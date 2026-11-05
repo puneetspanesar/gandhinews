@@ -58,11 +58,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "Mock Parliament details (10 Rajaji Marg, Meira Kumar presiding, 21 parties, six-point resolution, 193-MP notice recalled by Kharge) and Shah quote taken from the desk's 31 October news story and its sources (ThePrint, Tribune, Indian Opinion); not refetched. Shah quote rests on Indian Opinion's summary of other outlets."
+    - "Mock Parliament details (10 Rajaji Marg, Meira Kumar presiding, 21 parties, six-point resolution, 193-MP notice recalled by Kharge) and Shah quote taken from the desk's October 31 news story and its sources (ThePrint, Tribune, Indian Opinion); not refetched. Shah quote rests on Indian Opinion's summary of other outlets."
     - "Article 352(8) quoted from constitutionofindia.net (fetched). Article 85(1) wording ('six months shall not intervene...') paraphrased from Outlook's summary; constitutionofindia.net Article 85 and Article 324 pages could not be fetched (permission request timed out). Article 74 (President acts on advice of Council of Ministers) and Article 61 (impeachment of the President) stated from standard constitutional text, not opened this run."
     - "Section 11 of the CEC Act 2023 quoted from AdvocateKhoj bare act (fetched)."
-    - "Removal procedure (100 LS / 50 RS signatures, Speaker or Chairman may admit or refuse, three-member committee of an SC judge, an HC Chief Justice and a distinguished jurist under the Judges (Inquiry) Act 1968, special majority in both Houses in the same session, address to the President) and the point that 'impeachment' is technically incorrect for the CEC from Drishti IAS (11 Mar 2026)."
-    - "Earlier notices: 12 Mar 2026 (130 LS + 63 RS MPs), refused 6 Apr 2026 by Om Birla and C P Radhakrishnan; second notice of 24 Apr 2026 with 73 MPs in Rajya Sabha still pending; all from the desk's 11 October CEC explainer and its sources."
+    - "Removal procedure (100 LS / 50 RS signatures, Speaker or Chairman may admit or refuse, three-member committee of an SC judge, an HC Chief Justice and a distinguished jurist under the Judges (Inquiry) Act 1968, special majority in both Houses in the same session, address to the President) and the point that 'impeachment' is technically incorrect for the CEC from Drishti IAS (Mar 11, 2026)."
+    - "Earlier notices: Mar 12, 2026 (130 LS + 63 RS MPs), refused Apr 6, 2026, by Om Birla and C P Radhakrishnan; second notice of Apr 24, 2026, with 73 MPs in Rajya Sabha still pending; all from the desk's October 11 CEC explainer and its sources."
     - "Special sessions list (1947, 1962, 1972, 1977 RS, 1991 RS, 1992, 1997, 2008 trust vote, 2017 GST, Sept 2023) from Outlook (Sept 2023). That the September 2023 session moved into the new building and passed the women's reservation law is desk knowledge of a widely reported event."
     - "Judge removal history: Ramaswami motion failed in Lok Sabha 1993; Rajya Sabha passed motion against Soumitra Sen in 2011 and he resigned; from Supreme Court Observer. 'No CEC has ever been removed' is standard and consistent with all sources read; none records a removal."
     - "Winter Session dates not checked; copy says only that it usually begins in late November or early December."
@@ -75,7 +75,7 @@ verification:
 A day earlier, Home Minister Amit Shah had offered the opposition a different stage. "I am ready to call a special session... But Rahul Baba will never agree," he told BJP workers in Lucknow.
 
 ```photo
-{"n":1,"subject":"Meira Kumar","caption":"Former Lok Sabha Speaker Meira Kumar, who presided over the INDIA bloc's mock Parliament on 31 October.","alt":"Former Lok Sabha Speaker Meira Kumar"}
+{"n":1,"subject":"Meira Kumar","caption":"Former Lok Sabha Speaker Meira Kumar, who presided over the INDIA bloc's mock Parliament on October 31.","alt":"Former Lok Sabha Speaker Meira Kumar"}
 ```
 
 ## Is 'impeachment' the right word?
@@ -90,7 +90,7 @@ The President acts on the advice of the Council of Ministers. In practice, then,
 
 ## Has Parliament met in special session before?
 
-**Many times, usually for anniversaries or emergencies.** It met at midnight on 14 and 15 August 1947 for Independence, and in November 1962 to discuss the war with China, after Prime Minister Jawaharlal Nehru agreed to a demand from Atal Bihari Vajpayee. More recently it sat at midnight on 30 June 2017 to launch the GST, and in September 2023 for a five-day session in which it moved into the new building and passed the women's reservation law.
+**Many times, usually for anniversaries or emergencies.** It met at midnight on August 14 and 15, 1947 for Independence, and in November 1962 to discuss the war with China, after Prime Minister Jawaharlal Nehru agreed to a demand from Atal Bihari Vajpayee. More recently it sat at midnight on June 30, 2017, to launch the GST, and in September 2023 for a five-day session in which it moved into the new building and passed the women's reservation law.
 
 ```timeline
 {"title":"Some special sittings of Parliament","items":[{"date":"Aug 1947","text":"Midnight session marks Independence and the transfer of power."},{"date":"Nov 1962","text":"Parliament debates the war with China."},{"date":"Aug 1997","text":"Midnight session marks 50 years of Independence."},{"date":"Jul 2008","text":"Lok Sabha holds a trust vote after the Left withdraws support."},{"date":"Jun 2017","text":"Joint midnight sitting launches the GST."},{"date":"Sep 2023","text":"Five-day session; Parliament moves into the new building."}]}
@@ -108,7 +108,7 @@ That means a notice signed by **at least 100 Lok Sabha or 50 Rajya Sabha members
 
 ## Has this ever worked?
 
-**Never for a CEC, and never fully for a judge.** The 1993 motion against Justice V Ramaswami failed to win the two-thirds majority in the Lok Sabha. In 2011 the Rajya Sabha passed a motion against Calcutta High Court judge Soumitra Sen, who then resigned. The opposition's own record this year is no better: notices against Gyanesh Kumar signed by **193 MPs in March were refused** by Speaker Om Birla and Chairman C P Radhakrishnan on 6 April, and a second notice signed by 73 Rajya Sabha members in April is still pending.
+**Never for a CEC, and never fully for a judge.** The 1993 motion against Justice V Ramaswami failed to win the two-thirds majority in the Lok Sabha. In 2011 the Rajya Sabha passed a motion against Calcutta High Court judge Soumitra Sen, who then resigned. The opposition's own record this year is no better: notices against Gyanesh Kumar signed by **193 MPs in March were refused** by Speaker Om Birla and Chairman C P Radhakrishnan on April 6, and a second notice signed by 73 Rajya Sabha members in April is still pending.
 
 The other two Election Commissioners have a different shield: under the 2023 Act they can be removed only on the recommendation of the CEC.
 

@@ -22,7 +22,7 @@ hero:
     value: "259 on the board, India 87 short"
 related: [tilak-nitish-india-beat-new-zealand-2-0-christchurch, india-record-chase-beat-new-zealand-christchurch-naman-dhir, glenn-phillips-82-new-zealand-225-india-chase-christchurch]
 seo:
-  description: "New Zealand made 259 for seven and beat India by 87 runs in the fourth T20I at Eden Park, Auckland, on 30 October. India lead the series 3-1."
+  description: "New Zealand made 259 for seven and beat India by 87 runs in the fourth T20I at Eden Park, Auckland, on October 30. India lead the series 3-1."
 sources:
   - title: "India tour of New Zealand 2026/27: Fixtures and Results"
     publisher: "ESPN"
@@ -63,7 +63,7 @@ For Mitchell Santner's side, the win was a first of the series and a timely boos
 
 ## What comes next
 
-The T20I series ends in Hamilton on **Sunday, 1 November**, at 8 pm local time (12:30 pm IST). The ODIs begin in Auckland on 4 November, with further games in Wellington, Hamilton and two at Mount Maunganui. Two Tests follow, in Wellington from 19 November and Christchurch from 27 November.
+The T20I series ends in Hamilton on **Sunday, November 1**, at 8 pm local time (12:30 pm IST). The ODIs begin in Auckland on November 4, with further games in Wellington, Hamilton and two at Mount Maunganui. Two Tests follow, in Wellington from November 19 and Christchurch from November 27.
 
 ```photo
 {"n":2,"subject":"Seddon Park","caption":"Seddon Park in Hamilton, the city that hosts the last T20I of the series on Sunday.","alt":"Seddon Park cricket ground, Hamilton"}

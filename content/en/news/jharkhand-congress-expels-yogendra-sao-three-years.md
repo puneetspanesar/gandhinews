@@ -41,9 +41,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (22Scope, Ranchi, updated 10:22 am IST 14 Oct). Announcement by media in-charge Rakesh Sinha on Tuesday 13 Oct; published time set within the run window."
+    - "Single source (22Scope, Ranchi, updated 10:22 am IST Oct 14). Announcement by media in-charge Rakesh Sinha on Tuesday, Oct 13; published time set within the run window."
     - "Sao's response not found. Related-story list on 22Scope mentions a 10-year sentence for Sao and wife Nirmala Devi; details not read, so left out."
-    - "March 2026 expulsion over Facebook Live remarks (News Arena tag page summary); revocation per UNI 20 Sept. CM Hemant Soren named only in News Arena image caption (March), so CM left unnamed in copy."
+    - "March 2026 expulsion over Facebook Live remarks (News Arena tag page summary); revocation per UNI Sept 20. CM Hemant Soren named only in News Arena image caption (March), so CM left unnamed in copy."
 ---
 
 The Jharkhand Congress has expelled former state minister Yogendra Sao from the party's primary membership for three years, accusing him of repeatedly breaking party discipline. It is the second time in seven months that the party has shown him the door.
@@ -56,6 +56,6 @@ Sinha said Sao had been making objectionable, insulting and personal remarks thr
 
 Sao was also expelled for three years in March, after remarks against the government in a Facebook Live session. That decision was later revoked.
 
-On 20 September the state party's disciplinary committee, chaired by Rameshwar Oraon, issued him a fresh notice for alleged violation of party discipline. It asked him to give a written explanation within three days, appear in person, and say why action should not be taken against him under the party constitution. Sinha said the expulsion followed that notice.
+On September 20 the state party's disciplinary committee, chaired by Rameshwar Oraon, issued him a fresh notice for alleged violation of party discipline. It asked him to give a written explanation within three days, appear in person, and say why action should not be taken against him under the party constitution. Sinha said the expulsion followed that notice.
 
 No response from Sao to Tuesday's decision was available.

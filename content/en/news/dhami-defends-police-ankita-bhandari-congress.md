@@ -36,11 +36,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "Main source DNA India (updated 3:47 pm, 15 Oct). Day of the parents' detention not stated explicitly; DNA says around 4 am, which fits early Thursday after Wednesday's sit-in. Written without naming the day."
+    - "Main source DNA India (updated 3:47 pm, Oct 15). Day of the parents' detention not stated explicitly; DNA says around 4 am, which fits early Thursday after Wednesday's sit-in. Written without naming the day."
     - "DNA says 'the High Court sentenced all three accused to life imprisonment'; our earlier story (and records) say a trial court convicted them in May 2025. We avoid naming the court."
     - "Dhami's third quote is a fragment in DNA; used only the complete phrases."
     - "Rahul Gandhi's remarks are paraphrased in the source; paraphrased here."
-    - "Statesman 14 Oct link seen only as a related headline; used for background that Rahul joined the protest, which our own earlier story also reports."
+    - "Statesman Oct 14 link seen only as a related headline; used for background that Rahul joined the protest, which our own earlier story also reports."
     - "Allegations against Gautam are unproven; he has denied them (per earlier story)."
 ---
 
@@ -56,4 +56,4 @@ V Murugesan, Additional Director General of Police (Law and Order), said "the po
 
 Ankita's parents had been sitting in near India Gate since Wednesday to protest against the appointment of BJP leader Dushyant Kumar Gautam as Governor of Sikkim. They want the appointment put on hold until the CBI completes its investigation. Rahul Gandhi, the Leader of the Opposition in the Lok Sabha, joined them on Wednesday and condemned their detention, which took place at about 4 am.
 
-Ankita, 19, worked as a receptionist at a resort near Rishikesh. She was killed on 18 September 2022 and her body was found in the Chilla canal six days later. Her family and activists have long alleged that an unnamed "VIP" was linked to the crime, and Gautam's name has come up repeatedly. The allegations are unproven, and he has denied them.
+Ankita, 19, worked as a receptionist at a resort near Rishikesh. She was killed on September 18, 2022, and her body was found in the Chilla canal six days later. Her family and activists have long alleged that an unnamed "VIP" was linked to the crime, and Gautam's name has come up repeatedly. The allegations are unproven, and he has denied them.

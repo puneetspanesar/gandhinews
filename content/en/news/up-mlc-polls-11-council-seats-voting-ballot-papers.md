@@ -22,7 +22,7 @@ hero:
     value: "11 seats, 152 candidates, one ballot box"
 related: [sp-seeks-ec-notice-yogi-mlc-polls-deputy-cms, yogi-varanasi-mlc-teachers-poll-old-pension, akhilesh-sir-vote-theft-rajbhar-hits-back]
 seo:
-  description: "Uttar Pradesh voted on 23 October for 11 Legislative Council seats from graduates' and teachers' constituencies; 152 candidates, counting on 27 October."
+  description: "Uttar Pradesh voted on October 23 for 11 Legislative Council seats from graduates' and teachers' constituencies; 152 candidates, counting on October 27."
 sources:
   - title: "UP MLC Election 2026 Live: Voting Begins for 11 Graduate and Teacher Seats"
     publisher: "The Sunday Guardian"
@@ -50,13 +50,13 @@ verification:
     - "Electorate: Sunday Guardian 14,81,310 (11,85,706 graduates, 2,95,604 teachers); ThePrint 15.48 lakh. Copy says 'nearly 15 lakh'."
     - "Gorakhpur turnout 35.07% at noon: Dynamite News only. Spat between Sanjay Tripathi and Ashish Gupta: same, single source, hedged lightly."
     - "Voter-slip entries' authenticity not independently established (ThePrint caveat); written as 'entries shown on slips', attributed to Man Singh Yadav's complaint. EC inquiry report contents not known."
-    - "HC case: Shailendra Singh v ECI, Justices Alok Mathur and Abdhesh Kumar Chaudhary, 22 Oct; quote verbatim from LiveLaw."
+    - "HC case: Shailendra Singh v ECI, Justices Alok Mathur and Abdhesh Kumar Chaudhary, Oct 22; quote verbatim from LiveLaw."
     - "Overall turnout figures not found as of writing."
 ---
 
 Graduates and teachers across 72 districts of Uttar Pradesh voted on Friday to fill 11 seats in the state Legislative Council, after a fresh round of complaints about the voter lists.
 
-Polling ran from 8 am to 4 pm on ballot papers, not electronic voting machines, at 2,697 polling stations. There are 152 candidates and nearly 15 lakh registered voters. Five seats are graduates' constituencies (Lucknow, Varanasi, Agra, Meerut and Allahabad-Jhansi) and six are teachers' constituencies (Lucknow, Varanasi, Agra, Meerut, Bareilly-Moradabad and Gorakhpur-Faizabad). Votes will be counted on 27 October.
+Polling ran from 8 am to 4 pm on ballot papers, not electronic voting machines, at 2,697 polling stations. There are 152 candidates and nearly 15 lakh registered voters. Five seats are graduates' constituencies (Lucknow, Varanasi, Agra, Meerut and Allahabad-Jhansi) and six are teachers' constituencies (Lucknow, Varanasi, Agra, Meerut, Bareilly-Moradabad and Gorakhpur-Faizabad). Votes will be counted on October 27.
 
 ## Turnout and tempers
 

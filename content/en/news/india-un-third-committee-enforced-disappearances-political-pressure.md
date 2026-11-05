@@ -22,7 +22,7 @@ hero:
     value: "Rights 'not a tool of pressure'"
 related: [india-un-first-committee-no-first-use-treaty-offer]
 seo:
-  description: "India told the UN Third Committee on 21 October 2026 that human rights must not be used as a tool of political pressure, in a debate on enforced disappearances."
+  description: "India told the UN Third Committee on October 21, 2026, that human rights must not be used as a tool of political pressure, in a debate on enforced disappearances."
 sources:
   - title: "Human rights not to be used as instrument of political pressure: India at UNGA"
     publisher: "NewKerala (ANI)"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (ANI via NewKerala, updated 09:51 on 21 Oct). Statement was delivered in New York; exact date of delivery likely 20 Oct local time, so copy avoids a day word."
+    - "Single source (ANI via NewKerala, updated 09:51 on Oct 21). Statement was delivered in New York; exact date of delivery likely Oct 20 local time, so copy avoids a day word."
     - "India signed but has not ratified the Convention on Enforced Disappearance; source says 'signed', copy keeps that."
     - "ANI story also carries Balochistan claims from The Balochistan Post; left out as unrelated to India's statement."
 ---

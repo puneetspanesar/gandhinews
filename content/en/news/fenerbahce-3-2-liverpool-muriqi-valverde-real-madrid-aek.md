@@ -22,7 +22,7 @@ hero:
     value: "Liverpool's perfect run ends in Istanbul"
 related: [liverpool-0-1-arsenal-havertz-alisson-error-anfield, real-madrid-comeback-roma-psg-win-at-manchester-city]
 seo:
-  description: "Fenerbahce beat Liverpool 3-2 in the Champions League on 4 November 2026 with goals from Greenwood, Brown and Muriqi, while Valverde's stoppage-time goal gave Real Madrid a 3-2 win at AEK Athens."
+  description: "Fenerbahce beat Liverpool 3-2 in the Champions League on November 4, 2026, with goals from Greenwood, Brown and Muriqi, while Valverde's stoppage-time goal gave Real Madrid a 3-2 win at AEK Athens."
 infographic:
   kicker: "Champions League, matchday four"
   headline: "Fenerbahce turn it round against Liverpool"
@@ -68,7 +68,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: both games kicked off 18:45 CET (23:15 IST, 4 Nov), full time about 01:05 IST on 5 Nov. Kick-off times from UEFA fixtures page and Sky/VAVEL (5:45 pm GMT)."
+    - "event: both games kicked off 18:45 CET (23:15 IST, Nov 4), full time about 01:05 IST on Nov 5. Kick-off times from UEFA fixtures page and Sky/VAVEL (5:45 pm GMT)."
     - "Fenerbahce scorers and minutes agree in Sky Sports and ESPN (Nyoni 25, Greenwood 29, Isak 69, Brown 73, Muriqi 79). Iraola quotes ('Cheap goals. Messy goals.', 'almost impossible to communicate', 'We have to do better', 'difficult place to play') from Sky Sports only. Kuyt as Fenerbahce coach: Sky only. Nine points, three wins one defeat: ESPN; league position not used as later games were still being played."
     - "AEK v Madrid scorers from VAVEL live page; it says its own minutes are approximate, so only Valverde's stoppage-time winner (also in BVM/Sportsnet) and the order of goals are given, with no minutes for AEK goals. Mourinho as Madrid coach: VAVEL. Rudiger 90th-minute winner v Roma 4-3: BVM/Sportsnet."
     - "The 21:00 CET (01:30 IST) games (Leipzig v Man City, Slavia v Arsenal, Dortmund v Betis, Porto v Napoli, PSV v Brugge, Lens v Como) not covered: no result source could be read in time. ESPN scoreboard fetch was blocked."

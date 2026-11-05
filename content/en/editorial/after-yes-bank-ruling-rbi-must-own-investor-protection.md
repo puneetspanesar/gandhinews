@@ -52,10 +52,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Judgment details ('mere bystander', 'to put it mildly, questionable', CET1 at 0.6%, 28 December 2016 Chennai email, write-down a day after the scheme, draft clause dropped after investor objections, write-downs allowed only by the competent authority through the prescribed procedure) from Bar & Bench via the desk's 15 October story. Full judgment not read."
-    - "Share fall (up to 20%), ₹8,415 crore, CRISIL CET1 estimate and 17 October results date carried over from the desk's 15 and 16 October stories."
+    - "Editorial view of the desk. Judgment details ('mere bystander', 'to put it mildly, questionable', CET1 at 0.6%, December 28, 2016 Chennai email, write-down a day after the scheme, draft clause dropped after investor objections, write-downs allowed only by the competent authority through the prescribed procedure) from Bar & Bench via the desk's October 15 story. Full judgment not read."
+    - "Share fall (up to 20%), ₹8,415 crore, CRISIL CET1 estimate and October 17 results date carried over from the desk's October 15 and 16 stories."
     - "SEBI's October 2020 restriction (qualified institutional buyers, ₹1 crore minimum lot) from Business Standard; SEBI penalties for mis-selling stated generally from Wikipedia."
-    - "No RBI or YES Bank comment on the judgment found by Friday evening; the copy says the RBI had not commented 'by Friday morning' per the earlier story and makes no later claim beyond 'so far'. Searched once on 16 October, nothing new found."
+    - "No RBI or YES Bank comment on the judgment found by Friday evening; the copy says the RBI had not commented 'by Friday morning' per the earlier story and makes no later claim beyond 'so far'. Searched once on October 16, nothing new found."
     - "Recommendations are the desk's own. The point that depositors were protected in the 2020 rescue is stated generally (bank rescued, not liquidated); deposit withdrawal limits during the moratorium are not mentioned because not checked this run."
 ---
 
@@ -84,5 +84,5 @@ Fourth, the RBI should set out, in a public rulebook, who may write down a bank'
 The bank reports its results on Saturday, and investors will be looking for a settlement plan. The RBI should not wait for YES Bank to tidy up a mess the court has laid at the regulator's door as well.
 
 ```facts
-{"title":"The reporting behind this view","items":[{"value":"₹8,415 crore","label":"AT-1 bonds whose 2020 write-off the Supreme Court refused to restore on 15 October 2026"},{"value":"0.6%","label":"YES Bank's common equity Tier-1 ratio that the court said the RBI let it reach"},{"value":"Up to 20%","label":"fall in YES Bank's share price on the day of the ruling"}]}
+{"title":"The reporting behind this view","items":[{"value":"₹8,415 crore","label":"AT-1 bonds whose 2020 write-off the Supreme Court refused to restore on October 15, 2026"},{"value":"0.6%","label":"YES Bank's common equity Tier-1 ratio that the court said the RBI let it reach"},{"value":"Up to 20%","label":"fall in YES Bank's share price on the day of the ruling"}]}
 ```

@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (TechCrunch, 19 Oct 9:55 am PDT). Company statements paraphrased there; no direct quotes available. Cost not disclosed."
+    - "Single source (TechCrunch, Oct 19 9:55 am PDT). Company statements paraphrased there; no direct quotes available. Cost not disclosed."
 ---
 
 Amazon will pay to develop a nuclear power plant made up of 12 small modular reactors on the site of a demolished coal plant just south of Terre Haute, Indiana, as technology companies hunt for steady, low-carbon electricity to feed data centres.

@@ -42,12 +42,12 @@ sources:
 verification:
   status: approved
   notes:
-    - "Baqaei denial: Dawn live blog, 11:19 pm PKT 16 Oct (11:49 pm IST). Quote 'rejects any claim that Iran has played a role in Yemeni (Houthi) operations' as given by Dawn; brackets are Dawn's. Mediation offer repeated 2:09 pm PKT 17 Oct."
-    - "Aden airport: Dawn live blog entry at 9:20 am PKT 17 Oct; Al Jazeera has a 16 Oct report of two missiles at Aden airport and the transport minister's figure of 151 passengers (headline only seen). It may be the same attack reported late; copy avoids giving a day for it."
-    - "Houthi release: Dawn live blog 4:40 pm PKT 17 Oct; al-Murtada quote and ICRC confirmation from Dawn; 323 last month is the Houthi figure."
+    - "Baqaei denial: Dawn live blog, 11:19 pm PKT Oct 16 (11:49 pm IST). Quote 'rejects any claim that Iran has played a role in Yemeni (Houthi) operations' as given by Dawn; brackets are Dawn's. Mediation offer repeated 2:09 pm PKT Oct 17."
+    - "Aden airport: Dawn live blog entry at 9:20 am PKT Oct 17; Al Jazeera has a Oct 16 report of two missiles at Aden airport and the transport minister's figure of 151 passengers (headline only seen). It may be the same attack reported late; copy avoids giving a day for it."
+    - "Houthi release: Dawn live blog 4:40 pm PKT Oct 17; al-Murtada quote and ICRC confirmation from Dawn; 323 last month is the Houthi figure."
     - "Saudi executions: interior ministry via Reuters via Dawn; offences not detailed."
     - "Khatibzadeh: Al Mayadeen interview via Dawn; met Berri and Salam."
-    - "SriLankan Airlines item: Daily Mirror headline only (16 Oct); reason not read, so copy only states the suspension."
+    - "SriLankan Airlines item: Daily Mirror headline only (Oct 16); reason not read, so copy only states the suspension."
     - "Marib: Yemeni army claims, unverified; stated as claims."
 ---
 
@@ -73,7 +73,7 @@ Saudi Arabia's interior ministry said on Saturday it had executed five Saudi nat
 
 Western governments are tightening their advice on the kingdom. The US Embassy in Riyadh warned Americans late on Friday about possible attacks on airports. Australia's ambassador to Saudi Arabia, Miles Armitage, told Australians not to travel there at all and to avoid King Khalid International Airport in Riyadh. "Exercise extreme caution travelling to any other airports," he said.
 
-In South Asia, SriLankan Airlines has extended its suspension of flights to Riyadh and Dammam until 24 October.
+In South Asia, SriLankan Airlines has extended its suspension of flights to Riyadh and Dammam until October 24.
 
 ## Tehran's message in Beirut
 

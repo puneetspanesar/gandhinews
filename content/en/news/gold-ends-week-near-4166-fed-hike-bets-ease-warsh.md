@@ -12,7 +12,7 @@ location: New York
 keyPoints:
   - "Spot gold closed Friday near **$4,166 an ounce**, down 0.11% on the day."
   - "Bets on an October Fed rate rise fell to **roughly 10-16%** from close to 60% after US inflation data."
-  - "The Fed meets on **27-28 October**; its officials are now in a quiet period."
+  - "The Fed meets on **October 27-28**; its officials are now in a quiet period."
 hero:
   need: "Federal Reserve Chair Kevin Warsh"
   suggested_source: "Kevin Warsh"
@@ -22,7 +22,7 @@ hero:
     value: "What Warsh didn't say"
 related: [gold-silver-crude-prices-october-16, gold-slips-near-1-5-lakh-ahead-of-us-inflation-data, us-inflation-september-cpi-rises-before-midterms, oil-110-nasdaq-slide-cautious-start-indian-markets-monday]
 seo:
-  description: "Gold closed near $4,166 an ounce on 16 October 2026 as Fed Chair Kevin Warsh's silence cut the odds of an October rate rise. The Fed meets on 27-28 October."
+  description: "Gold closed near $4,166 an ounce on October 16, 2026, as Fed Chair Kevin Warsh's silence cut the odds of an October rate rise. The Fed meets on October 27-28."
 sources:
   - title: "Gold Price $4,166 Week Ahead: $110 Oil vs the Fed"
     publisher: "FinanceFeeds"
@@ -42,19 +42,19 @@ sources:
 verification:
   status: approved
   notes:
-    - "Spot $4,166.39 (-0.11%), COMEX Dec about $4,186.70, low near $4,073 on 14 Oct, +1.6% Thursday, dollar index 101.87, 10-year 5.106%, hike odds 10-16% and December about 89%, Warsh at IMF in Bangkok: FinanceFeeds only (citing Trading Economics, Investing.com, FXStreet)."
+    - "Spot $4,166.39 (-0.11%), COMEX Dec about $4,186.70, low near $4,073 on Oct 14, +1.6% Thursday, dollar index 101.87, 10-year 5.106%, hike odds 10-16% and December about 89%, Warsh at IMF in Bangkok: FinanceFeeds only (citing Trading Economics, Investing.com, FXStreet)."
     - "Weekly fall: CNBC headline (article not readable) and FinanceFeeds ('recovered most of the week's loss'). Exact weekly % not found."
     - "Jim Reid quote verbatim from Investing.com; his title not given there, so 'of Deutsche Bank'."
-    - "MCX figure is from the site's 16 Oct story (late Friday session), not the final close."
+    - "MCX figure is from the site's Oct 16 story (late Friday session), not the final close."
 ---
 
 Gold ended Friday close to where it began the week, recovering most of a sharp mid-week fall after the head of the US Federal Reserve gave no hint that an interest rate rise was coming this month.
 
-Spot gold closed near $4,166 an ounce, down 0.11% on the day. December gold futures on the COMEX exchange in New York settled around $4,187. The metal had dropped towards $4,073 on 14 October after hotter-than-expected US inflation figures, then gained 1.6% on Thursday as the dollar and bond yields eased. It still finished the week slightly lower.
+Spot gold closed near $4,166 an ounce, down 0.11% on the day. December gold futures on the COMEX exchange in New York settled around $4,187. The metal had dropped towards $4,073 on October 14 after hotter-than-expected US inflation figures, then gained 1.6% on Thursday as the dollar and bond yields eased. It still finished the week slightly lower.
 
 ## What the Fed chair left out
 
-Fed Chair Kevin Warsh, speaking at the IMF meetings in Bangkok, declined to say what the central bank would decide when it meets on 27-28 October. Traders read that as a sign the Fed was in no hurry. The chance of an October rise priced in money markets fell to roughly 10-16%, from close to 60% just after the inflation report. A rise in December is still seen as very likely, at about 89%.
+Fed Chair Kevin Warsh, speaking at the IMF meetings in Bangkok, declined to say what the central bank would decide when it meets on October 27-28. Traders read that as a sign the Fed was in no hurry. The chance of an October rise priced in money markets fell to roughly 10-16%, from close to 60% just after the inflation report. A rise in December is still seen as very likely, at about 89%.
 
 "Perhaps the most important thing was what (Warsh) didn't say," said Jim Reid of Deutsche Bank.
 

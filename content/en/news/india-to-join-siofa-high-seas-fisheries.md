@@ -36,7 +36,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "PIB release (PRID 2323370, Ministry of Fisheries, Animal Husbandry and Dairying) could not be fetched: the PIB page returned an unrelated release. Facts from two outlets reporting the ministry statement late on 14 Oct (Madhyamam 9:58 pm)."
+    - "PIB release (PRID 2323370, Ministry of Fisheries, Animal Husbandry and Dairying) could not be fetched: the PIB page returned an unrelated release. Facts from two outlets reporting the ministry statement late on Oct 14 (Madhyamam 9:58 pm)."
     - "Quote 'Full membership...' from Policy Edge only; not used as a direct quote. High seas share and national shares from Madhyamam (ministry statement)."
     - "Which body approved (Cabinet or otherwise) not stated; copy says 'the Centre'. Date of formal deposit of accession not known."
     - "Visakhapatnam photo term chosen because Kochi/Cochin terms already used."

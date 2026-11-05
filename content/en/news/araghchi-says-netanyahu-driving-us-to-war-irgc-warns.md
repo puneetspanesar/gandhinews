@@ -12,7 +12,7 @@ location: Tehran
 keyPoints:
 - Abbas Araghchi wrote that **Netanyahu is driving America into another war** to avoid prison.
 - IRGC spokesman Hossein Mohebbi said US forces were **"exhausted and worn out"**.
-- Israel votes on **27 October**, and Trump has endorsed Netanyahu.
+- Israel votes on **October 27**, and Trump has endorsed Netanyahu.
 hero:
   need: Iranian Foreign Minister Abbas Araghchi
   suggested_source: Abbas Araghchi
@@ -27,7 +27,7 @@ related:
 - eisenkot-lapid-hollow-netanyahu-security-doctrine-araghchi
 - lavrov-tehran-backs-iran-hormuz-pre-war-terms
 seo:
-  description: Iran's Abbas Araghchi said on 19 October that Netanyahu is driving the US into another war to stay out of jail, as IRGC spokesman Hossein Mohebbi called US forces worn out.
+  description: Iran's Abbas Araghchi said on October 19 that Netanyahu is driving the US into another war to stay out of jail, as IRGC spokesman Hossein Mohebbi called US forces worn out.
 sources:
 - title: 'US ''exhausted and worn out'', lacks capability to launch new conflict: IRGC (Anadolu)'
   publisher: The Express Tribune
@@ -49,7 +49,7 @@ Iran's foreign minister, Abbas Araghchi, accused Israeli Prime Minister Benjamin
 
 "Netanyahu is driving America into another war to stay out of jail," Araghchi wrote on X. Addressing Washington, he added: "Last time you wanted to 'finish the job,' Iran emerged even stronger."
 
-The phrase echoed Netanyahu's own. On a call with Trump, the Israeli leader invoked Iran and said, "We have a job to finish." Visiting an air base on Monday, he warned Israel's enemies: "Do not test us." Trump has endorsed Netanyahu before the 27 October vote and suggested Washington might have to act itself if Israelis chose someone else.
+The phrase echoed Netanyahu's own. On a call with Trump, the Israeli leader invoked Iran and said, "We have a job to finish." Visiting an air base on Monday, he warned Israel's enemies: "Do not test us." Trump has endorsed Netanyahu before the October 27 vote and suggested Washington might have to act itself if Israelis chose someone else.
 
 ## Guards say US cannot fight again
 

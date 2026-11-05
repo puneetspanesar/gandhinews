@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Shooting details rest on one Al Jazeera report (AFP, AP, Reuters material), published 16:08 GMT on 23 Oct. Time of day of the attack not given."
+    - "Shooting details rest on one Al Jazeera report (AFP, AP, Reuters material), published 16:08 GMT on Oct 23. Time of day of the attack not given."
     - "Victim who died: age and sex not reported. Suspect not named. Wounded count 'five', three with life-threatening injuries including a 12-year-old girl, all per Nuñez as reported."
     - "Search headline variant said the Elysee called it a 'racist, terrorist attack'; the article body quotes Mayor Ali Rabeh with that wording, so attributed to Rabeh only."
     - "Two victims of African and North African origin: Rabeh's statement."

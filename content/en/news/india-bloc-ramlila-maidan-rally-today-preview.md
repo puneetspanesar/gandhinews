@@ -22,7 +22,7 @@ hero:
     value: "Chalo Dilli day"
 related: [india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar, congress-ramlila-maidan-rally-november-1-police-noc, rahul-gandhi-thanks-bjp-promoting-november-1-rally, sirsa-rahul-november-1-rally-1984-sikhs]
 seo:
-  description: "INDIA bloc's Ramlila Maidan rally against CEC Gyanesh Kumar runs 10 am to 5 pm on 1 November, with a noon march from Minto Road. Police deploy 4,000 personnel; traffic diversions in central Delhi."
+  description: "INDIA bloc's Ramlila Maidan rally against CEC Gyanesh Kumar runs 10 am to 5 pm on November 1, with a noon march from Minto Road. Police deploy 4,000 personnel; traffic diversions in central Delhi."
 sources:
   - title: "Stage set for INDIA bloc's mega rally at Ramlila Maidan; leaders, supporters begin arriving in Delhi"
     publisher: "National Herald"
@@ -57,12 +57,12 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov, rally 10:00 to 17:00 IST, march from Minto Road junction 12:00 IST; BJP Hari Nagar march 11:00 IST. Day-of preview."
-    - "No statements made after 00:00 IST on 1 Nov were found in sources; latest material is National Herald 31 Oct 10:39 pm and Jagran 31 Oct 9:52 pm. Copy keeps statements dated to Saturday."
+    - "event: Nov 1, rally 10:00 to 17:00 IST, march from Minto Road junction 12:00 IST; BJP Hari Nagar march 11:00 IST. Day-of preview."
+    - "No statements made after 00:00 IST on Nov 1 were found in sources; latest material is National Herald Oct 31 10:39 pm and Jagran Oct 31 9:52 pm. Copy keeps statements dated to Saturday."
     - "Security, zones, CCTV, crowd estimates (10 lakh vs 50,000) and capacity: National Herald, Hans India, Jagran agree. Akhilesh Yadav and Mamata Banerjee 'likely to attend': Hans India only, hedged."
     - "Rahul quote 'See you tomorrow, let's walk together!' is IANS translation of Hindi X post 'कल मिलते हैं, साथ चलते हैं!' (Jagran). Lathis remark paraphrased from The Week."
     - "Police 'no application' line from police sources via The Week/IANS; unnamed, attributed to police. Diversion points from IANS traffic list."
-    - "13 conditions (no procession from the ground, mic off for inflammatory speech, disperse by 5 pm): Oneindia 27 Oct."
+    - "13 conditions (no procession from the ground, mic off for inflammatory speech, disperse by 5 pm): Oneindia Oct 27."
 ---
 
 The INDIA bloc brings its campaign against Chief Election Commissioner Gyanesh Kumar to the streets of the capital on Sunday, with a **rally at Ramlila Maidan from 10 am to 5 pm**. The parties accuse the Election Commission of mass deletions during the Special Intensive Revision (SIR) of electoral rolls, which they call "vote chori", and want Kumar to resign.

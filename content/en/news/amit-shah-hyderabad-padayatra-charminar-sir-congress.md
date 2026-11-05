@@ -22,7 +22,7 @@ hero:
     value: "Shah takes the SIR fight to Hyderabad"
 related: [bjp-rohtak-padyatra-nabin-counter-india-bloc-rally, rahul-parrot-gyanesh-kumar-kharge-chori-ki-sarkar-ramlila, hyderabad-tank-bund-protest-sir-rollback-parakala-prabhakar]
 seo:
-  description: "Union Home Minister Amit Shah leads a BJP padayatra from Basheerbagh to Mozamjahi Market in Hyderabad on 2 November 2026 against what the party calls the Congress narrative on the SIR."
+  description: "Union Home Minister Amit Shah leads a BJP padayatra from Basheerbagh to Mozamjahi Market in Hyderabad on November 2, 2026, against what the party calls the Congress narrative on the SIR."
 sources:
   - title: "Amit Shah to undertake 'padayatra' in Hyderabad (PTI)"
     publisher: "ThePrint"
@@ -42,9 +42,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov 08:45 IST, PTI Hyderabad copy announcing Shah's padayatra the same afternoon (ThePrint 03:15 UTC). The march itself is later today; written as a preview."
+    - "event: Nov 2 08:45 IST, PTI Hyderabad copy announcing Shah's padayatra the same afternoon (ThePrint 03:15 UTC). The march itself is later today; written as a preview."
     - "Exact start time of the march not given beyond 'Monday afternoon'. No crowd figure beyond 'thousands' expected; left out."
-    - "Shah's Chandigarh remarks (1 Nov) from a single outlet (DY365, 9:01 pm 1 Nov); exact time of the remarks not given."
+    - "Shah's Chandigarh remarks (Nov 1) from a single outlet (DY365, 9:01 pm Nov 1); exact time of the remarks not given."
     - "Rahul Gandhi's 'treason' remark per PTI copy in both ThePrint stories."
 cover:
   template: faceoff
@@ -73,7 +73,7 @@ At that rally, Leader of the Opposition Rahul Gandhi said Chief Election Commiss
 {"n":2,"subject":"G. Kishan Reddy","caption":"Union Coal Minister G Kishan Reddy inspected the padayatra route in Hyderabad on Sunday.","alt":"Union Minister G Kishan Reddy"}
 ```
 
-Shah gave a first taste of his reply on Sunday evening in Chandigarh, where he opened projects of the city administration worth ₹258 crore. He questioned why the opposition had chosen 1 November, the anniversary of the 1984 anti-Sikh riots, for its rally, and recalled Rajiv Gandhi's line, "When a big tree falls, the earth shakes." Addressing Rahul Gandhi, he said that if he wants to be Prime Minister he should **"keep holding such mock Parliaments. Your turn will never come."** He also pointed out that the Congress has not won a single seat in the last three Delhi Assembly elections.
+Shah gave a first taste of his reply on Sunday evening in Chandigarh, where he opened projects of the city administration worth ₹258 crore. He questioned why the opposition had chosen November 1, the anniversary of the 1984 anti-Sikh riots, for its rally, and recalled Rajiv Gandhi's line, "When a big tree falls, the earth shakes." Addressing Rahul Gandhi, he said that if he wants to be Prime Minister he should **"keep holding such mock Parliaments. Your turn will never come."** He also pointed out that the Congress has not won a single seat in the last three Delhi Assembly elections.
 
 ## Part of a wider BJP push
 

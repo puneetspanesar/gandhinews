@@ -28,7 +28,7 @@ cover:
   inset: "Boeing P-8I Neptune"
 related: []
 seo:
-  description: "The Indian Navy freed the hijacked fishing vessel Azini off Somalia's north-eastern coast on 2 November 2026, rescuing all 20 crew, after MARCOS commandos were airdropped from an IAF C-17."
+  description: "The Indian Navy freed the hijacked fishing vessel Azini off Somalia's north-eastern coast on November 2, 2026, rescuing all 20 crew, after MARCOS commandos were airdropped from an IAF C-17."
 sources:
   - title: "Indian Navy rescues fishing vessel hijacked off Somalian coast in dramatic 48-hour operation"
     publisher: "ThePrint"
@@ -38,7 +38,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: rescue completed 2 Nov evening IST; Navy account made public 3 Nov morning, ThePrint copy timestamped 09:11 IST."
+    - "event: rescue completed Nov 2 evening IST; Navy account made public Nov 3 morning, ThePrint copy timestamped 09:11 IST."
     - "Single source (ThePrint, Snehesh Alex Philip, carrying the Navy's account). Not stated: the date of the hijacking (only 'earlier last month'), the vessel's flag, the crew's nationality, or what happened to the pirates. All left out deliberately."
     - "Quote 'testament to the Indian Navy's high operational preparedness' is from the Navy statement as carried by ThePrint."
 ---

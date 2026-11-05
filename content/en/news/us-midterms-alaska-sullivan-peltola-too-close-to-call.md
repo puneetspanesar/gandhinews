@@ -6,12 +6,12 @@ section: world
 format_label: "World / US midterms"
 topics: []
 title: "Dan Sullivan edges ahead of Mary Peltola as Alaska's Senate race stays too close to call"
-standfirst: "The Republican senator led by about 1,700 votes on Wednesday morning in Alaska, but mailed and overseas ballots and a possible ranked-choice count mean the result may not be known until 18 November."
+standfirst: "The Republican senator led by about 1,700 votes on Wednesday morning in Alaska, but mailed and overseas ballots and a possible ranked-choice count mean the result may not be known until November 18."
 published: 2026-11-04T19:20:00+05:30
 location: Anchorage, Alaska
 keyPoints:
   - "Senator Dan Sullivan **led Mary Peltola by 1,677 votes** on Wednesday morning."
-  - "A ranked-choice count is **scheduled for 18 November** if neither passes 50%."
+  - "A ranked-choice count is **scheduled for November 18** if neither passes 50%."
   - "Trump has asked the Justice Department to **block certification if Sullivan loses**."
 hero:
   need: "Republican Senator Dan Sullivan and Democratic challenger Mary Peltola"
@@ -23,12 +23,12 @@ hero:
 infographic:
   kicker: "US midterms: Alaska"
   headline: "Sullivan narrowly ahead of Peltola in Alaska"
-  dek: "Count updates due on 10, 13 and 18 November"
+  dek: "Count updates due on 10, November 13 and 18"
   motif: flag-banner
   stats:
     - {icon: flag-banner, value: "48.5%", label: "Dan Sullivan, first-choice votes"}
     - {icon: flag-banner, value: "47.7%", label: "Mary Peltola, first-choice votes"}
-    - {icon: calendar, value: "18 Nov", label: "ranked-choice count if no one passes 50%"}
+    - {icon: calendar, value: "Nov 18", label: "ranked-choice count if no one passes 50%"}
   source: "Alaska election results reported on November 4, 2026"
 related: [us-midterms-hamilton-flips-kansas-senate-marshall, us-midterms-stevens-backs-rogers-alaska-sullivan-suit-dismissed, us-midterms-democrats-win-senate-talarico-brown-flip]
 seo:
@@ -52,9 +52,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 4 Nov 12:58 UTC (18:28 IST), latest Alaska count reported (Sullivan +1,677, 48.5% to 47.7%). Slightly before the 19:00 IST window, but no Alaska state-of-play story exists on the site; no newer count found."
+    - "event: Nov 4 12:58 UTC (18:28 IST), latest Alaska count reported (Sullivan +1,677, 48.5% to 47.7%). Slightly before the 19:00 IST window, but no Alaska state-of-play story exists on the site; no newer count found."
     - "Lead of 1,677 votes and the 48.5/47.7/2.2/1.7 shares are single-source (WOKV, Wednesday morning). Alaska Public Media's earlier update (about 70% of precincts) had Sullivan 48.6%, Peltola 47.4%; Newsweek's election-night snapshot (211 of 403 precincts) had Peltola ahead by 298. Copy says the lead changed hands overnight."
-    - "Count update dates 10, 13, 18 Nov and target certification 25 Nov from Newsweek; ranked-choice on 18 Nov confirmed by Alaska Public Media. Mail ballot windows (10 days, 15 overseas) from Alaska Public Media."
+    - "Count update dates 10, 13, Nov 18 and target certification Nov 25 from Newsweek; ranked-choice on Nov 18 confirmed by Alaska Public Media. Mail ballot windows (10 days, 15 overseas) from Alaska Public Media."
     - "Quotes 'We are winning our state back' (Peltola) and 'We're seeing a blue wave in the lower 48' (Sullivan) from Alaska Public Media, election night."
     - "Trump DOJ call, dismissal and appeal from WOKV. Second 'Dan Sullivan' party label differs between sources (WOKV: R; Newsweek: I), so no party given."
     - "BIG STORY 2 (trade dispute monitoring order to missions) not written: UNI digest teaser only, full text paywalled, no other readable source found; DGFT handbook chapter 8 confirms only the standing rule that missions update complaint status online."
@@ -66,7 +66,7 @@ With counting continuing on Wednesday morning in Alaska, Sullivan had 48.5% of f
 
 ## Why it could take weeks
 
-Alaska accepts mailed ballots for 10 days after polling day, and for 15 days from overseas. The state has scheduled further count updates for 10, 13 and 18 November. If neither main candidate passes 50% of first-choice votes, the ranked-choice count is **set for 18 November**, when votes for the trailing candidates are redistributed. The state aims to certify results by 25 November.
+Alaska accepts mailed ballots for 10 days after polling day, and for 15 days from overseas. The state has scheduled further count updates for 10, November 13 and 18. If neither main candidate passes 50% of first-choice votes, the ranked-choice count is **set for November 18**, when votes for the trailing candidates are redistributed. The state aims to certify results by November 25.
 
 Both candidates sounded confident on election night. "We are winning our state back," Peltola told supporters. Sullivan pointed to the national mood against his party: "We're seeing a blue wave in the lower 48."
 

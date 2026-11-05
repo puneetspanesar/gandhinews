@@ -22,7 +22,7 @@ hero:
     value: "Results day, red screens"
 related: [q2-movers-tejas-cyient-dlm-oberoi-kross, godrej-properties-q2-profit-falls-62-per-cent]
 seo:
-  description: "Q2 results stock moves 23 October 2026: Hatsun Agro falls 10% on margin squeeze, Sterlite Technologies profit ₹517 crore on US tariff refund, BlueStone loss, Shree Cement profit down 15%."
+  description: "Q2 results stock moves October 23, 2026: Hatsun Agro falls 10% on margin squeeze, Sterlite Technologies profit ₹517 crore on US tariff refund, BlueStone loss, Shree Cement profit down 15%."
 sources:
   - title: "Stock Market LIVE, 23 October 2026"
     publisher: "Business Standard"

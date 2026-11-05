@@ -12,7 +12,7 @@ location: Rio de Janeiro
 keyPoints:
   - "The final debate ran for **nearly two and a half hours** at Estúdios Globo in Rio on Friday night."
   - "Flávio said Lula 'gives with one hand and takes with **nine fingers**'; Lula called him a 'miliciano'."
-  - "Brazil votes on **Sunday, 25 October**, with polls showing a statistical tie."
+  - "Brazil votes on **Sunday, October 25**, with polls showing a statistical tie."
 hero:
   need: "President Luiz Inácio Lula da Silva and Senator Flávio Bolsonaro, as a two-panel split"
   suggested_source: "Luiz Inácio Lula da Silva"
@@ -22,7 +22,7 @@ hero:
     value: "Last word before Sunday's vote"
 related: [brazil-runoff-sunday-lula-flavio-final-globo-debate, lula-flavio-bolsonaro-trade-insults-first-runoff-debate, brazil-runoff-polls-flavio-edge-lula-first-debate]
 seo:
-  description: "Lula and Flávio Bolsonaro clashed over wages, infrastructure and corruption in Brazil's final TV Globo debate on 23 October, two days before the presidential runoff."
+  description: "Lula and Flávio Bolsonaro clashed over wages, infrastructure and corruption in Brazil's final TV Globo debate on October 23, two days before the presidential runoff."
 sources:
   - title: "Debate entre Flávio e Lula tem troca de acusações e embate de propostas"
     publisher: "Metrópoles"
@@ -44,7 +44,7 @@ verification:
   notes:
     - "Quotes are desk translations from Portuguese as reported by Metrópoles ('dá com uma mão e tira com os nove dedos'; 'permitir que um miliciano me chame de nove dedos') and ICL Notícias ('nós fizemos 3 ou 4 vezes mais que o governo dele fez'; 'consegue decorar mas não consegue aprender'; 'Hoje é dia 23. O seu salário já acabou?')."
     - "R$10 million house question: only from ICL headline ('De onde vem esse dinheiro'); no further detail, so reported briefly as a question Lula asked."
-    - "Datafolha 22 Oct: Flávio 47%, Lula 46%, margin two points (Metrópoles). Morning story used Datafolha 50-50 of valid votes; both consistent. First round: Flávio 47.03%, Lula 45.16% of valid votes (Metrópoles)."
+    - "Datafolha Oct 22: Flávio 47%, Lula 46%, margin two points (Metrópoles). Morning story used Datafolha 50-50 of valid votes; both consistent. First round: Flávio 47.03%, Lula 45.16% of valid votes (Metrópoles)."
     - "Lula's lost finger: ICL summary notes he lost it working in industry; widely known."
 ---
 

@@ -22,7 +22,7 @@ hero:
     value: "Brent at $109.55"
 related: [brent-highest-close-since-may-yanbu-russian-refinery, trump-waives-russia-sanctions-law-india-tariff-threat, global-cues-dussehra-holiday-wall-street-oil-october-20, rupee-flat-94-92-importer-dollar-demand-october-19]
 seo:
-  description: "Brent crude settled at $109.55 on 19 October 2026 as Houthi claims of strikes on Saudi oil sites and lower Hormuz flows offset the US waiver on Russian energy sanctions."
+  description: "Brent crude settled at $109.55 on October 19, 2026, as Houthi claims of strikes on Saudi oil sites and lower Hormuz flows offset the US waiver on Russian energy sanctions."
 sources:
   - title: "Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies"
     publisher: "Reuters via Yahoo Finance"
@@ -43,12 +43,12 @@ verification:
 
 Oil prices stayed close to $110 a barrel on Monday, as fresh claims of attacks on Saudi Arabia's oil industry and shrinking traffic through the Strait of Hormuz outweighed a US move to let more Russian energy onto world markets.
 
-Brent crude, the global benchmark, settled 31 cents lower at $109.55 a barrel, having fallen more than $3 earlier as traders took profits after last week's climb to a five-month high. US crude for November delivery rose $2.25, or 2.2%, to $103.66, its highest settlement since 15 September, in thin trade before the contract expires. The more heavily traded December contract slipped 0.5% to $98.54.
+Brent crude, the global benchmark, settled 31 cents lower at $109.55 a barrel, having fallen more than $3 earlier as traders took profits after last week's climb to a five-month high. US crude for November delivery rose $2.25, or 2.2%, to $103.66, its highest settlement since September 15, in thin trade before the contract expires. The more heavily traded December contract slipped 0.5% to $98.54.
 
 Yemen's Houthis said they had struck Saudi energy, airport and military targets, including an Aramco facility at the Red Sea port of Yanbu and the Shaybah oilfield. Saudi authorities did not confirm the claims. An oil tanker was also reported to have hit a naval mine in the southern part of the Strait of Hormuz. The analytics firm Kpler said crude flows through the region had fallen to about 8.5 million barrels a day, from more than 20 million the previous week.
 
 That blunted the effect of President Donald Trump's executive order waiving some sanctions and tariffs on Russian energy exports, which drew criticism from both opponents and allies.
 
-"The waiver did little to address the physical supply disruptions in the Strait of Hormuz," said Priyanka Sachdeva, head of market insight at Phillip Nova. Analysts at Gelber and Associates said in a note that "uncertainty over its implementation and duration limits confidence in a sustained supply increase". Bjarne Schieldrop, an analyst at SEB, warned that any rise in Hormuz exports "may prove short-lived" because Iran could step up attacks before the 3 November US midterm elections.
+"The waiver did little to address the physical supply disruptions in the Strait of Hormuz," said Priyanka Sachdeva, head of market insight at Phillip Nova. Analysts at Gelber and Associates said in a note that "uncertainty over its implementation and duration limits confidence in a sustained supply increase". Bjarne Schieldrop, an analyst at SEB, warned that any rise in Hormuz exports "may prove short-lived" because Iran could step up attacks before the November 3 US midterm elections.
 
 For India, which imports most of its crude, oil near $110 keeps pressure on the import bill and the rupee, which closed at 94.92 to the dollar on Monday.

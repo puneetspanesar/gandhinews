@@ -22,7 +22,7 @@ hero:
     value: "Shot at in Juhu, caught in Kota"
 related: []
 seo:
-  description: "Three suspects in the firing on actor Tiger Shroff's car in Juhu were detained from a train at Kota railway station on 19 October in a joint Mumbai-Rajasthan police operation."
+  description: "Three suspects in the firing on actor Tiger Shroff's car in Juhu were detained from a train at Kota railway station on October 19 in a joint Mumbai-Rajasthan police operation."
 sources:
   - title: "Tiger Shroff firing: 3 suspected shooters arrested from train in Kota"
     publisher: "The Federal"

@@ -52,7 +52,7 @@ verification:
   notes:
     - "nobelprize.org (summary and press release) could not be fetched. Citation 'for microeconomic foundations of macroeconomic stabilisation' is from Business Standard only. The Lindau summary paraphrased a different-sounding line ('demonstrating how economic models could be reconstructed to revitalise stabilisation policy') and also, wrongly, carried last year's growth citation. Check the exact citation on nobelprize.org."
     - "Ages: Hall 83 (Reuters, AFP), Woodford 70 (Reuters; AFP gives birth year 1955 only)."
-    - "Forbes gives the ceremony date as 19 December, which does not match the usual 10 December. Ceremony date left out."
+    - "Forbes gives the ceremony date as December 19, which does not match the usual December 10. Ceremony date left out."
     - "No quote from Hall found in any source read."
 ---
 

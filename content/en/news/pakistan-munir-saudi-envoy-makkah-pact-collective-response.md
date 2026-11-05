@@ -28,7 +28,7 @@ related:
 - pakistan-rejects-rajnath-remarks-afghan-talks-conditions
 - sharifs-defend-kp-governors-rule-lawyers-strike
 seo:
-  description: Pakistan army chief Asim Munir met Saudi envoy Rajeh Albugamy on 19 October as DG ISPR warned of a collective response under the Makkah defence pact with Saudi Arabia and Turkey.
+  description: Pakistan army chief Asim Munir met Saudi envoy Rajeh Albugamy on October 19 as DG ISPR warned of a collective response under the Makkah defence pact with Saudi Arabia and Turkey.
 sources:
 - title: Pakistan, Saudi Arabia 'satisfied' over progress under Makkah defence agreement
   publisher: The Express Tribune
@@ -48,12 +48,12 @@ sources:
 verification:
   status: approved
   notes:
-  - Munir-Albugamy meeting per ISPR statement as carried by Express Tribune. DG ISPR remarks were made in an interview with Independent Arabia (Express Tribune report, ~3:30 pm IST). Naqvi remarks at the 8th Global Security Forum, Doha. Makkah pact signed 7 August per Tribune (year not stated; presumably 2026). All from one outlet, but based on official statements and on-record remarks. No India reference in any source; India angle limited to context.
+  - Munir-Albugamy meeting per ISPR statement as carried by Express Tribune. DG ISPR remarks were made in an interview with Independent Arabia (Express Tribune report, ~3:30 pm IST). Naqvi remarks at the 8th Global Security Forum, Doha. Makkah pact signed August 7 per Tribune (year not stated; presumably 2026). All from one outlet, but based on official statements and on-record remarks. No India reference in any source; India angle limited to context.
 ---
 
 Pakistan's army chief, Field Marshal Asim Munir, met Saudi Arabia's new ambassador in Rawalpindi on Monday as his military spokesman warned that any attack on the kingdom, direct or indirect, would draw a joint response from Pakistan, Saudi Arabia and Turkey under their new defence pact.
 
-Munir and Ambassador Rajeh Tami Albugamy "expressed satisfaction" over progress under the Makkah Joint Defence Agreement, the military's media wing, ISPR, said after their meeting at General Headquarters. They discussed regional security and stressed closer defence cooperation and strategic coordination. Munir congratulated the envoy, who presented his credentials to President Asif Ali Zardari on 14 October, on his appointment.
+Munir and Ambassador Rajeh Tami Albugamy "expressed satisfaction" over progress under the Makkah Joint Defence Agreement, the military's media wing, ISPR, said after their meeting at General Headquarters. They discussed regional security and stressed closer defence cooperation and strategic coordination. Munir congratulated the envoy, who presented his credentials to President Asif Ali Zardari on October 14, on his appointment.
 
 ## "The response will be collective"
 
@@ -67,7 +67,7 @@ The remarks come as the Houthis step up missile and drone attacks on Saudi airpo
 
 ## A mediator and an ally
 
-The pact, signed on 7 August, treats an armed attack on any of the three signatories as an attack on all. It builds on the Strategic Mutual Defence Agreement that Pakistan and Saudi Arabia signed in September 2025.
+The pact, signed on August 7, treats an armed attack on any of the three signatories as an attack on all. It builds on the Strategic Mutual Defence Agreement that Pakistan and Saudi Arabia signed in September 2025.
 
 Pakistan is trying to hold two roles at once. In Doha on Monday, Interior Minister Mohsin Naqvi told the 8th Global Security Forum that "winning peace was more important than winning a war", and pointed to the Islamabad talks Pakistan hosted between the US and Iran in April and the memorandum Pakistan and Qatar signed as mediators in June. He also cited the Makkah agreement as an example of regional commitment.
 

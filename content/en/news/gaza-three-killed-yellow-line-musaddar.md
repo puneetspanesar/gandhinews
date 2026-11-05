@@ -22,7 +22,7 @@ hero:
     value: "The line moves, families move out"
 related: [gaza-strikes-kill-four-gaza-city-khan-younis, un-envoy-gaza-ceasefire-in-name-only-security-council, gaza-rafah-shut-to-patients-second-week]
 seo:
-  description: "Israeli strikes killed three Palestinians in Gaza City and al-Mawasi on 23 October, while Israeli forces were reported to push the Yellow Line west at al-Musaddar."
+  description: "Israeli strikes killed three Palestinians in Gaza City and al-Mawasi on October 23, while Israeli forces were reported to push the Yellow Line west at al-Musaddar."
 sources:
   - title: "Three Palestinians Killed in Israeli Strikes on Gaza After Expansion of the Yellow Line"
     publisher: "ImArabic"
@@ -42,8 +42,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Details from ImArabic (20:00 UTC, 23 Oct), citing Palestinian medical sources. Haaretz headline (paywalled, robots-blocked; only the search-result title was seen) agrees on three killed. Yellow Line move at al-Musaddar rests on ImArabic only, so hedged."
-    - "No Israeli military comment found. Victims not named. Alakbarov quote from the existing Gandhi News story of 16 October (Dawn)."
+    - "Details from ImArabic (20:00 UTC, Oct 23), citing Palestinian medical sources. Haaretz headline (paywalled, robots-blocked; only the search-result title was seen) agrees on three killed. Yellow Line move at al-Musaddar rests on ImArabic only, so hedged."
+    - "No Israeli military comment found. Victims not named. Alakbarov quote from the existing Gandhi News story of October 16 (Dawn)."
 ---
 
 Israeli strikes killed three Palestinians in the Gaza Strip on Friday, Palestinian medical sources said, as Israeli troops were reported to have pushed the line that divides the territory further west in the centre of the Strip.

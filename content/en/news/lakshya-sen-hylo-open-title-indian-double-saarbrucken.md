@@ -22,7 +22,7 @@ hero:
     value: "Lakshya wins Hylo Open, India's double"
 related: [sindhu-edges-katethong-ayush-shetty-beats-srikanth-lakshya-withdraws, french-open-badminton-sindhu-an-se-young-lakshya-naraoka-preview]
 seo:
-  description: "Lakshya Sen beat Jonatan Christie 21-17, 21-10 to win the Hylo Open Super 500 men's singles title in Saarbrücken, Germany, on 1 November 2026, after PV Sindhu won the women's title."
+  description: "Lakshya Sen beat Jonatan Christie 21-17, 21-10 to win the Hylo Open Super 500 men's singles title in Saarbrücken, Germany, on November 1, 2026, after PV Sindhu won the women's title."
 sources:
   - title: "Badminton: Lakshya Sen clinches Hylo Open title, completes memorable Indian double"
     publisher: "IANS"
@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov, final ended shortly before the IANS report posted at 22:53 IST (metadata 17:30 UTC = 23:00 IST); exact match start time and duration not in source. Single source (IANS) for score and game details."
+    - "event: Nov 1, final ended shortly before the IANS report posted at 22:53 IST (metadata 17:30 UTC = 23:00 IST); exact match start time and duration not in source. Single source (IANS) for score and game details."
     - "Second-game mid-score in IANS copy ('16-9' after change of ends) is garbled; left out. Only the interval lead (four points) and 10 championship points at 20-10 used."
     - "No quotes from Lakshya in the source. Sindhu's opponent and score not in this source (another desk's held story covers it); not stated here. Sindhu headline (21:58 IST) confirms her title."
     - "Career notes (2022 CWG gold, Australian Open title, Hong Kong Open 2025 and All England 2026 runner-up, Paris Olympics win over Christie) from IANS article."

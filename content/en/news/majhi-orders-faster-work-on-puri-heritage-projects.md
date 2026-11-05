@@ -43,7 +43,7 @@ At a review meeting at Lok Seva Bhawan in Bhubaneswar, Majhi went through plans 
 
 > "Puri is not just a district; it is the centre of faith for Odisha's pride and crores of Jagannath devotees worldwide."
 >
-> Source: Mohan Charan Majhi, Chief Minister of Odisha, 12 October 2026 (translated from Odia)
+> Source: Mohan Charan Majhi, Chief Minister of Odisha, October 12, 2026 (translated from Odia)
 
 ## What is planned
 

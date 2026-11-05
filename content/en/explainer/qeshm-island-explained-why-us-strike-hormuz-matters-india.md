@@ -18,7 +18,7 @@ hero:
     value: "The island at the gate of Hormuz"
 related: [us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve, iran-qatar-draft-proposal-explained-oil-prices-india-import-bill, what-hormuz-attacks-mean-for-indian-fuel-prices, iran-araghchi-two-day-hormuz-plan-rezaei-vance-letter, undersea-cables-explained-iran-hormuz-threat-india-internet]
 seo:
-  description: "What and where is Qeshm Island, why the US struck it on 2 November 2026, its Revolutionary Guards bases and missile tunnels, its role in the Strait of Hormuz and what it means for India's oil."
+  description: "What and where is Qeshm Island, why the US struck it on November 2, 2026, its Revolutionary Guards bases and missile tunnels, its role in the Strait of Hormuz and what it means for India's oil."
 sources:
   - title: "Qeshm Island"
     publisher: "Wikipedia"
@@ -60,10 +60,10 @@ verification:
   notes:
     - "Island facts (1,491 sq km, 135 km long, population 148,993 in 2016 and 117,774 in 2011, closest point about 2 km from the mainland, Qeshm town 22 km from Bandar Abbas, 60 km from Khasab, free zone after 1991, UNESCO Global Geopark, Hara mangroves, 1622 capture from the Portuguese, IRGC drone base 2013, 'underground missile city' shown 2021, Zolfaghar brigade): Wikipedia 'Qeshm Island' page. Largest island in the Persian Gulf, 2006 geopark first in the Middle East, 1991 free zone, IRGC coastal missiles and drones, 'nearly 20%' of global crude trade through Hormuz: Vajiram and Ravi current-affairs note. Both secondary; figures are rounded in copy."
     - "Khuran Strait routing in March 2026 rests on a Bloomberg report cited by Wikipedia; hedged as 'was reported'."
-    - "7 March desalination plant: Iran blamed the US, the US and Israel denied (Wikipedia). Al Jazeera's live page says the US struck it; copy gives both. 31 March strike: WSJ via Wikipedia, attacker given as American or Israeli, hedged."
-    - "First US attack on Qeshm since June: Al Jazeera live page (3 Nov, 10:40 metadata). Target an IRGC surface-to-air missile launcher after a missile was fired at a US aircraft: US media via Euronews (11:19 CET). No CENTCOM statement."
+    - "March 7 desalination plant: Iran blamed the US, the US and Israel denied (Wikipedia). Al Jazeera's live page says the US struck it; copy gives both. March 31 strike: WSJ via Wikipedia, attacker given as American or Israeli, hedged."
+    - "First US attack on Qeshm since June: Al Jazeera live page (Nov 3, 10:40 metadata). Target an IRGC surface-to-air missile launcher after a missile was fired at a US aircraft: US media via Euronews (11:19 CET). No CENTCOM statement."
     - "Ghalibaf quotes ('a new battlefield in the war', 'The ball is in America's court to prevent war', 'a response without geographical limits'): Euronews. IRGC drone claims (two MQM-170s, one MQ-9): Euronews and Al Jazeera, Iranian claims only. Pezeshkian dialogue, Araghchi 'Consultations through mediators are very intensive', Baghaei 'two days', Trump Truth Social and Vance quotes: Al Jazeera live page."
-    - "India 88% crude import dependence: The Week (March 2026) and the site's earlier explainers. Brent figures from the site's 3 Nov morning story; no later Tuesday price was read, so none is given."
+    - "India 88% crude import dependence: The Week (March 2026) and the site's earlier explainers. Brent figures from the site's Nov 3 morning story; no later Tuesday price was read, so none is given."
 infographic:
   kicker: Explained
   headline: Qeshm, Iran's island fortress in Hormuz
@@ -121,7 +121,7 @@ During the war, Iran was reported in March to have **forced ships through the na
 
 ## Has Qeshm been hit before in this war?
 
-**Yes, several times.** On 7 March, a week into the war that began with US and Israeli strikes on Iran on 28 February, a desalination plant on the island was bombed, cutting fresh water to 30 villages. Tehran blamed the United States and called it a crime against civilians; Washington and Israel denied it. Iran then hit a desalination plant in Bahrain. Another strike on the island was reported at the end of March.
+**Yes, several times.** On March 7, a week into the war that began with US and Israeli strikes on Iran on February 28, a desalination plant on the island was bombed, cutting fresh water to 30 villages. Tehran blamed the United States and called it a crime against civilians; Washington and Israel denied it. Iran then hit a desalination plant in Bahrain. Another strike on the island was reported at the end of March.
 
 Monday's raid was **the first US attack on Qeshm since June**. US officials said an American jet struck a Revolutionary Guards surface-to-air missile launcher after a missile was fired from the island at a US aircraft over the strait. They called the strikes limited and defensive, meant to protect commercial shipping, and not a return to full-scale war. US Central Command has made no statement.
 

@@ -42,8 +42,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "IMF figures (India 7% for 2026-27 and 2027-28, up from 6.4% and 6.7% in July; world 3.1% and 3.4%; India CPI 5%) and quotes from the desk's 13 October IMF story and its sources. IMF report not fetched directly."
-    - "RBI figures (7.1% growth, 5.2% CPI, quarterly path 7.2/6.9/6.8/7.1) from the RBI MPC resolution of 7 October 2026 as recorded in the desk's 11 October story."
+    - "IMF figures (India 7% for 2026-27 and 2027-28, up from 6.4% and 6.7% in July; world 3.1% and 3.4%; India CPI 5%) and quotes from the desk's October 13 IMF story and its sources. IMF report not fetched directly."
+    - "RBI figures (7.1% growth, 5.2% CPI, quarterly path 7.2/6.9/6.8/7.1) from the RBI MPC resolution of October 7, 2026, as recorded in the desk's October 11 story."
     - "World Bank 7.1% and ADB 7% from the desk's IMF story (Business Standard)."
     - "WEO schedule (April and October, updates in January and July), coverage of about 190 member countries, and the IMF's use of fiscal years for India's figures: standard background on how the WEO is published, not re-checked in a 2026 document."
     - "RBI's six MPC meetings a year and the RBI's own surveys (consumer confidence, inflation expectations, industrial outlook) as forecast inputs: standard background."
@@ -69,7 +69,7 @@ For the world, it sees growth of 3.1% in 2026 and 3.4% in 2027, and warns that "
 
 **Very closely. The RBI projects 7.1% growth for 2026-27 and inflation of 5.2%, a shade above the IMF on both.**
 
-The Reserve Bank's Monetary Policy Committee published those figures on 7 October, when it raised the repo rate to 5.50%. Other forecasters are in the same range: the World Bank also says 7.1%, and the Asian Development Bank 7%.
+The Reserve Bank's Monetary Policy Committee published those figures on October 7, when it raised the repo rate to 5.50%. Other forecasters are in the same range: the World Bank also says 7.1%, and the Asian Development Bank 7%.
 
 ```chart
 {"type":"hbar","title":"India growth forecasts for 2026-27","unit":"%","data":[{"label":"IMF, July 2026","value":6.4},{"label":"IMF, October 2026","value":7.0,"highlight":true},{"label":"RBI, October 2026","value":7.1},{"label":"World Bank","value":7.1},{"label":"Asian Development Bank","value":7.0}]}

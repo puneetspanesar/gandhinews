@@ -110,18 +110,18 @@ verification:
     - "TCS's own press release and BSE filing could not be opened (tcs.com was blocked from this desk). All figures rest on media copy of the release; check against the TCS Q2 FY27 press release and fact sheet before or after publishing."
     - "Profit conflict resolved: ₹13,884 crore is profit attributable to shareholders (YourStory, Upstox, IANS/DT Next, FPJ, IIFL); ₹13,934 crore (Business Today headline, Business Standard table) is total profit including non-controlling interests (PBT ₹18,638 crore minus tax ₹4,704 crore). Business Standard's table shows the same pattern for earlier quarters (₹12,131 vs ₹12,075 crore; ₹13,420 vs ₹13,349 crore)."
     - "Growth rates: ~15% YoY is against ₹12,075 crore in Q2 FY26 (13,884/12,075 = 14.98%). ~4% QoQ is against ₹13,349 crore in Q1 FY27, which included an exceptional loss on a legal claim settlement (IANS puts it at ₹668 crore; IIFL gives no amount). FPJ's 0.25% matches a base of ₹13,849 crore, i.e. Q1 excluding the exceptional item (IIFL and NiftyTrader also cite ₹13,849 crore). Business Today's 14.86% is on the ₹13,934/₹12,131 total-profit basis. Outlook Business gives a year-ago figure of ₹12,904 crore, which matches no other source; ignored."
-    - "Chart: revenue for Q3 FY26 (₹67,087 crore) and Q4 FY26 (₹70,698 crore) from Business Today (9 Apr 2026) and Bajaj Broking; Q2 FY26, Q1 FY27 and Q2 FY27 from several outlets and the Business Standard results table. Revenue was charted rather than profit because profit in Q3 FY26 and Q1 FY27 was hit by one-off items."
+    - "Chart: revenue for Q3 FY26 (₹67,087 crore) and Q4 FY26 (₹70,698 crore) from Business Today (Apr 9, 2026) and Bajaj Broking; Q2 FY26, Q1 FY27 and Q2 FY27 from several outlets and the Business Standard results table. Revenue was charted rather than profit because profit in Q3 FY26 and Q1 FY27 was hit by one-off items."
     - "CEO quotes match in Business Today, Outlook Business, YourStory, IANS and Upstox. The COO's AI remark is paraphrased because YourStory and FPJ give different wording."
     - "Best Buy capability centre moving to TCS rests on Outlook Business alone, so hedged. Porsche partnership and MHP acquisition in Outlook Business and FPJ."
     - "Attrition 13.6% in the previous quarter is from Business Today only. Q1 net addition of about 9,279 (Business Today) not used."
-    - "Share move: TCS up about 5% on 9 Oct per IIFL (intraday +5.46%) and Business Today (in the PERM story). Closing price on 8 Oct differs (₹2,075.25 BT vs ₹2,076 NiftyTrader); not used."
+    - "Share move: TCS up about 5% on Oct 9 per IIFL (intraday +5.46%) and Business Today (in the PERM story). Closing price on Oct 8 differs (₹2,075.25 BT vs ₹2,076 NiftyTrader); not used."
     - "Not used (single or weak source): USD revenue $7,642 million, constant-currency YoY 2.8%, India revenue -10.3%, YTD share fall 35.7%, total dividend payout ₹4,341 crore, TCV comparison with earlier quarters, operating margin a year earlier."
-    - "Results dates rest on broker/market sites (Kotak Neo, Goodreturns, Angel One citing Tech Mahindra's 30 Sep exchange filing, Sahi). Not checked against BSE/NSE filings. Wipro: board meets 14-15 Oct, results 15 Oct. Tech Mahindra: board meets 15-16 Oct, results 15 Oct; bonus and interim dividend on agenda. Infosys: 23 Oct, so outside this week."
+    - "Results dates rest on broker/market sites (Kotak Neo, Goodreturns, Angel One citing Tech Mahindra's Sep 30 exchange filing, Sahi). Not checked against BSE/NSE filings. Wipro: board meets Oct 14-15, results Oct 15. Tech Mahindra: board meets Oct 15-16, results Oct 15; bonus and interim dividend on agenda. Infosys: Oct 23, so outside this week."
     - "TCS PERM statement (single-digit filings) is from the desk's earlier story; sources listed there."
-    - "Fact-check 12 Oct: AI revenue was given as '$3.1 billion' (Business Today, Upstox, NiftyTrader) or 'crossed/exceeding $3 billion' (Outlook Business; COO quote in YourStory). 'Crossed $3.1 billion' overstated it; changed to 'reached $3.1 billion' in keyPoints, body and SEO (EN and HI). Best Buy GCC now in two sources (Outlook Business: TCS will take over the centre and turn it into an AI capability centre; YourStory), so hedge removed. Re-checked against BT, Upstox, YourStory, Outlook, NiftyTrader: profit, revenue, 11.2%/1.3%/0.5% growth, chart values for Q2 FY26 and Q1 FY27, segment/geography CC QoQ, 24% margin, ₹14,190 cr cash (102.2%), TCV, headcount, 13.3% attrition, dividend dates and CEO quotes all match. HCLTech results 12 Oct with third interim dividend (Multibagg) and Wipro 15 Oct (Wipro press release) confirmed. Chart values for Q3 and Q4 FY26 not re-checked."
+    - "Fact-check Oct 12: AI revenue was given as '$3.1 billion' (Business Today, Upstox, NiftyTrader) or 'crossed/exceeding $3 billion' (Outlook Business; COO quote in YourStory). 'Crossed $3.1 billion' overstated it; changed to 'reached $3.1 billion' in keyPoints, body and SEO (EN and HI). Best Buy GCC now in two sources (Outlook Business: TCS will take over the centre and turn it into an AI capability centre; YourStory), so hedge removed. Re-checked against BT, Upstox, YourStory, Outlook, NiftyTrader: profit, revenue, 11.2%/1.3%/0.5% growth, chart values for Q2 FY26 and Q1 FY27, segment/geography CC QoQ, 24% margin, ₹14,190 cr cash (102.2%), TCV, headcount, 13.3% attrition, dividend dates and CEO quotes all match. HCLTech results Oct 12 with third interim dividend (Multibagg) and Wipro Oct 15 (Wipro press release) confirmed. Chart values for Q3 and Q4 FY26 not re-checked."
 ---
 
-Tata Consultancy Services earned a net profit of ₹13,884 crore in July-September 2026, about 15% more than the ₹12,075 crore it made a year earlier. Revenue rose 11.2% to ₹73,188 crore. The company announced the results on 8 October.
+Tata Consultancy Services earned a net profit of ₹13,884 crore in July-September 2026, about 15% more than the ₹12,075 crore it made a year earlier. Revenue rose 11.2% to ₹73,188 crore. The company announced the results on October 8.
 
 Annualised revenue from artificial intelligence work reached $3.1 billion, more than 10% of TCS's total revenue. Chief executive K Krithivasan described two of the quarter's deals, with Porsche and Best Buy, as a new category of transformation partnerships.
 
@@ -145,7 +145,7 @@ TCS signed deals with a total contract value of $9.6 billion. They include a fiv
 
 > Together with our clients, we are building repeatable value platforms that will industrialise AI at scale.
 >
-> Source: K Krithivasan, Chief Executive Officer and Managing Director, TCS, 8 October 2026
+> Source: K Krithivasan, Chief Executive Officer and Managing Director, TCS, October 8, 2026
 
 Krithivasan also said the company was "pleased with the broad-based growth in all our international markets and most industry segments". Chief Operating Officer Aarthi Subramanian pointed to strong AI momentum and demand for AI-native solutions.
 
@@ -157,18 +157,18 @@ Krithivasan also said the company was "pleased with the broad-based growth in al
 
 TCS added 4,258 people in the quarter, taking its workforce to 5,98,056. It was the third straight quarter of net hiring. Attrition in IT services over the past 12 months was 13.3%.
 
-The board declared a second interim dividend of ₹12 a share. The record date is 14 October and payment is due on 30 October.
+The board declared a second interim dividend of ₹12 a share. The record date is October 14 and payment is due on October 30.
 
-TCS shares rose about 5% on 9 October, the day after the results.
+TCS shares rose about 5% on October 9, the day after the results.
 
 ## The US green-card freeze
 
-The results came the same day the US Labor Department said it would stop processing PERM labour certifications, the step most employment-based green cards need, for eight companies including TCS, Infosys, Wipro and HCLTech. TCS said on 9 October that its PERM applications had been in single digits over the last two years and it did not expect the suspension to affect its workforce plans.
+The results came the same day the US Labor Department said it would stop processing PERM labour certifications, the step most employment-based green cards need, for eight companies including TCS, Infosys, Wipro and HCLTech. TCS said on October 9 that its PERM applications had been in single digits over the last two years and it did not expect the suspension to affect its workforce plans.
 
 ## The week ahead for IT
 
-HCLTech is due to report its July-September results today, 12 October, and its board will consider a third interim dividend. Wipro and Tech Mahindra are both due to report on 15 October. Tech Mahindra's board will also consider an interim dividend and a bonus issue. Infosys reports on 23 October.
+HCLTech is due to report its July-September results today, October 12, and its board will consider a third interim dividend. Wipro and Tech Mahindra are both due to report on October 15. Tech Mahindra's board will also consider an interim dividend and a bonus issue. Infosys reports on October 23.
 
 ```timeline
-{"title":"IT results and dates to watch","items":[{"date":"12 Oct","text":"HCLTech July-September results"},{"date":"14 Oct","text":"Record date for TCS's ₹12 dividend"},{"date":"15 Oct","text":"Wipro and Tech Mahindra results"},{"date":"23 Oct","text":"Infosys results"},{"date":"30 Oct","text":"TCS dividend payment"}]}
+{"title":"IT results and dates to watch","items":[{"date":"Oct 12","text":"HCLTech July-September results"},{"date":"Oct 14","text":"Record date for TCS's ₹12 dividend"},{"date":"Oct 15","text":"Wipro and Tech Mahindra results"},{"date":"Oct 23","text":"Infosys results"},{"date":"Oct 30","text":"TCS dividend payment"}]}
 ```

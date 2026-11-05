@@ -12,7 +12,7 @@ location: New Delhi
 keyPoints:
   - "The court held that access to the internet is a **fundamental right of every individual, including children**."
   - "It ordered a **National Hash & URL List Database** to detect and remove child sexual abuse material."
-  - "The Centre must file a progress affidavit before the next hearing on **10 December**."
+  - "The Centre must file a progress affidavit before the next hearing on **December 10**."
 hero:
   need: "Two-panel: Supreme Court judges J B Pardiwala and K Vinod Chandran"
   suggested_source: "J. B. Pardiwala"
@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Case: Just Rights for Children Alliance & Anr v S Harish & Ors; bench Justices J B Pardiwala and K Vinod Chandran; order dated 15 October 2026 (Bar & Bench, 17 Oct 8:15 am). The Statesman says the directions came 'on Saturday'; went with the order date from Bar & Bench and did not say when it was uploaded."
+    - "Case: Just Rights for Children Alliance & Anr v S Harish & Ors; bench Justices J B Pardiwala and K Vinod Chandran; order dated October 15, 2026 (Bar & Bench, Oct 17 8:15 am). The Statesman says the directions came 'on Saturday'; went with the order date from Bar & Bench and did not say when it was uploaded."
     - "Authoring judge not reported; copy says 'the bench'."
     - "Quotes verbatim from Bar & Bench and The Statesman. The 'remote areas' line is from The Statesman."
     - "Child mode: a suggested safeguard, not a direction (Bar & Bench)."
@@ -49,7 +49,7 @@ The Supreme Court has held that the right to access and use the internet is a fu
 
 "The safety of our children and their freedom are not at odds with each other," a bench of Justices J B Pardiwala and K Vinod Chandran said. "Our children are entitled to both."
 
-The ruling, in an order dated 15 October, grounds the right in Article 21 of the Constitution read with Article 19(1)(a), which covers the freedom to receive and share information. Denying children the internet altogether would be unreasonable, the bench said. "For many children, particularly in remote areas, it is often the only source of learning and information."
+The ruling, in an order dated October 15, grounds the right in Article 21 of the Constitution read with Article 19(1)(a), which covers the freedom to receive and share information. Denying children the internet altogether would be unreasonable, the bench said. "For many children, particularly in remote areas, it is often the only source of learning and information."
 
 ## Aim at the harm, not the child
 
@@ -69,4 +69,4 @@ The court asked the government to consider exemplary fines linked to the serious
 
 It also wants digital safety and age-appropriate sex education, including consent, safe and unsafe touch and how to report abuse without fear, made part of the core school curriculum by NCERT and the state councils, along with teacher training, parent awareness programmes and free counselling for victims.
 
-Solicitor General Tushar Mehta appeared for the Centre. The government has to file a progress affidavit before the case returns on 10 December.
+Solicitor General Tushar Mehta appeared for the Centre. The government has to file a progress affidavit before the case returns on December 10.

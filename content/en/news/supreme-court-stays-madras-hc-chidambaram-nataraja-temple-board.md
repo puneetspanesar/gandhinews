@@ -11,7 +11,7 @@ published: 2026-11-04T16:05:00+05:30
 location: New Delhi
 keyPoints:
   - "The Supreme Court **stayed the Madras High Court order** setting up a board to run the Chidambaram Nataraja temple."
-  - "The High Court had named a **five-member Board of Management** headed by a retired judge on 30 October."
+  - "The High Court had named a **five-member Board of Management** headed by a retired judge on October 30."
   - "The Podhu Dikshitars argued the order breached their **right under Article 26** to manage the temple."
 hero:
   need: "The Thillai Nataraja Temple at Chidambaram, Tamil Nadu, ideally the gopuram or main hall"
@@ -32,12 +32,12 @@ infographic:
   dek: "Podhu Dikshitars win a pause on the Madras High Court's takeover direction"
   motif: gavel
   timeline:
-    - {date: "30 Oct 2026", text: "Madras HC forms a five-member board to run the temple", icon: buildings}
-    - {date: "4 Nov 2026", text: "Supreme Court stays the High Court order", icon: gavel}
+    - {date: "Oct 30, 2026", text: "Madras HC forms a five-member board to run the temple", icon: buildings}
+    - {date: "Nov 4, 2026", text: "Supreme Court stays the High Court order", icon: gavel}
   source: "Supreme Court order, November 4, 2026"
 related: []
 seo:
-  description: "The Supreme Court on 4 November stayed a Madras High Court order that set up a five-member board to take over administration of the Chidambaram Nataraja temple from the Podhu Dikshitars."
+  description: "The Supreme Court on November 4 stayed a Madras High Court order that set up a five-member board to take over administration of the Chidambaram Nataraja temple from the Podhu Dikshitars."
 sources:
   - title: "Supreme Court Stays Madras HC Order Forming Panel To Take Over Chidambaram Nataraja Temple Administration From Podhu Dikshitars"
     publisher: "LiveLaw"
@@ -47,7 +47,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 4 Nov, report published 16:02 IST (LiveLaw, modified 16:21). The hearing itself may have been earlier in the day; exact time of the order not given. Single source."
+    - "event: Nov 4, report published 16:02 IST (LiveLaw, modified 16:21). The hearing itself may have been earlier in the day; exact time of the order not given. Single source."
     - "Bench: Justices Aravind Kumar and Vipul Pancholi. Case shown as T.R. Ramesh v State of Tamil Nadu, SLP(C) 39005/2026, per LiveLaw page; the plea described as filed by the Podhu Dikshitars. Name mismatch not resolved, so case title left out of copy."
     - "Next hearing date and counsel not reported; not stated."
 ---
@@ -58,7 +58,7 @@ A bench of Justices Aravind Kumar and Vipul Pancholi passed the interim order on
 
 ## What the High Court had ordered
 
-On 30 October, a Division Bench of Justices G Jayachandran and E Manoharan disposed of a batch of writ petitions on the temple's affairs. Holding that judicial intervention was needed to deal with alleged maladministration, it constituted a **five-member Board of Management** to run the temple "till the ill is cured".
+On October 30, a Division Bench of Justices G Jayachandran and E Manoharan disposed of a batch of writ petitions on the temple's affairs. Holding that judicial intervention was needed to deal with alleged maladministration, it constituted a **five-member Board of Management** to run the temple "till the ill is cured".
 
 The board was to be chaired by retired Madras High Court judge Justice V Bharathidasan, with retired judge Justice R Suresh Kumar as co-chairman and retired IAS officer C Rajendran as a member. The Secretaries of the Podhu Dikshitars and of the state's Hindu Religious and Charitable Endowments (HR&CE) Department were to sit as ex-officio members.
 

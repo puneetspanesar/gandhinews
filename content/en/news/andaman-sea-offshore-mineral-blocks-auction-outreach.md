@@ -6,13 +6,13 @@ section: policy
 format_label: "Policy / Mining"
 topics: []
 title: "Mines Ministry courts bidders for two Andaman Sea seabed nodule blocks"
-standfirst: "The blocks, covering 1,632 sq km, hold polymetallic nodules and crusts with nickel, cobalt, copper and manganese. Bids are due by 28 December."
+standfirst: "The blocks, covering 1,632 sq km, hold polymetallic nodules and crusts with nickel, cobalt, copper and manganese. Bids are due by December 28."
 published: 2026-10-13T20:40:00+05:30
 location: New Delhi
 keyPoints:
   - "Two Andaman Sea blocks covering **1,632 sq km** are on offer as composite licences."
   - "The seabed deposits contain **nickel, cobalt, copper and manganese**."
-  - "The last date for bids is **28 December 2026**."
+  - "The last date for bids is **December 28, 2026**."
 hero:
   need: "Manganese or polymetallic nodules from the seabed, or the Andaman Sea"
   suggested_source: "polymetallic nodule"
@@ -21,7 +21,7 @@ hero:
     value: "Nickel and cobalt under the Andaman Sea"
 related: []
 seo:
-  description: "The Mines Ministry held a bidder outreach for two Andaman Sea polymetallic nodule blocks of 1,632 sq km. Bids for the composite licences close on 28 December."
+  description: "The Mines Ministry held a bidder outreach for two Andaman Sea polymetallic nodule blocks of 1,632 sq km. Bids for the composite licences close on December 28."
 sources:
   - title: "Ministry of Mines holds outreach programme on auction of offshore mineral blocks (Hindi release)"
     publisher: "PIB, Ministry of Mines"
@@ -43,4 +43,4 @@ Mines Secretary Keshav Chandra told prospective bidders that the auction is part
 
 The Geological Survey of India briefed bidders on the geology of the blocks, while transaction adviser SBI Capital Markets explained the auction rules. MSTC walked participants through buying tender documents and bidding on its e-auction portal, and the National Mineral Exploration and Development Trust outlined a scheme that partly reimburses exploration costs for licence holders.
 
-The auction runs under the Offshore Areas Mineral (Development and Regulation) Act, 2002, amended in 2023, and the auction rules of 2024. The notice inviting tenders was issued on 1 October. A pre-bid conference is set for 4 November, queries close on 13 November, tender documents can be bought until 21 December, and bids are due by 28 December.
+The auction runs under the Offshore Areas Mineral (Development and Regulation) Act, 2002, amended in 2023, and the auction rules of 2024. The notice inviting tenders was issued on October 1. A pre-bid conference is set for November 4, queries close on November 13, tender documents can be bought until December 21, and bids are due by December 28.

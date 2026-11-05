@@ -22,7 +22,7 @@ hero:
     value: "Seven days' breathing space"
 related: [supreme-court-pinarayi-vijayan-cmrl-plea-wednesday, pinarayi-vijayan-supreme-court-cmrl-fir-vacation-listing, keralam-high-court-refuses-stay-vigilance-fir-pinarayi-vijayan, chandy-oommen-pinarayi-vijayan-not-hounded-cmrl, politics-courts-day-ahead-cjp-leaders-magistrate-vacation-bench]
 seo:
-  description: "On 21 October the Supreme Court stayed for seven days the vigilance probe against Pinarayi Vijayan, Veena T and P A Mohamed Riyas in the CMRL-Exalogic case and let them appeal in the High Court."
+  description: "On October 21 the Supreme Court stayed for seven days the vigilance probe against Pinarayi Vijayan, Veena T and P A Mohamed Riyas in the CMRL-Exalogic case and let them appeal in the High Court."
 sources:
   - title: "Supreme Court Stays Investigation In FIR Against Ex-CM Pinarayi Vijayan & Kin In Exalogic Case For 7 Days, Asks HC To Decide Appeal"
     publisher: "LiveLaw"
@@ -37,24 +37,24 @@ sources:
 verification:
   status: approved
   notes:
-    - "Order details from LiveLaw (Amisha Shrivastava, 21 Oct): locus upheld, DB order set aside, 7-day stay, FIR not quashed, no merits view. Case: Pinarayi Vijayan v Adv KM Shajahan, SLP(Crl) 20437/2026."
+    - "Order details from LiveLaw (Amisha Shrivastava, Oct 21): locus upheld, DB order set aside, 7-day stay, FIR not quashed, no merits view. Case: Pinarayi Vijayan v Adv KM Shajahan, SLP(Crl) 20437/2026."
     - "Indian Opinion notes outlets differ: some describe a plain stay. Copy follows LiveLaw's detailed account."
-    - "Rs 2.78 crore ED allegation and ED summons to Vijayan for 23 October per Indian Opinion only; summons hedged as 'has been summoned', amount attributed to ED."
+    - "Rs 2.78 crore ED allegation and ED summons to Vijayan for October 23 per Indian Opinion only; summons hedged as 'has been summoned', amount attributed to ED."
     - "Justice Bagchi quote 'We are not against any investigation' per LiveLaw."
     - "Riyas spelling follows earlier Gandhi News stories (P A Mohamed Riyas)."
 ---
 
 The Supreme Court on Wednesday put a corruption investigation against former Keralam chief minister Pinarayi Vijayan, his daughter Veena T and his son-in-law P A Mohamed Riyas on hold for seven days, and ruled that they are entitled to challenge in the High Court the order that set the case in motion.
 
-A vacation bench of Justices Joymalya Bagchi and V Mohana set aside a Keralam High Court division bench order of 15 October that had refused the three leave to appeal. Since the single judge had found that a cognisable offence was made out against them, the bench reasoned, they were plainly aggrieved and could not be shut out.
+A vacation bench of Justices Joymalya Bagchi and V Mohana set aside a Keralam High Court division bench order of October 15 that had refused the three leave to appeal. Since the single judge had found that a cognisable offence was made out against them, the bench reasoned, they were plainly aggrieved and could not be shut out.
 
 The FIR registered by the Vigilance and Anti-Corruption Bureau has not been quashed. The pause is meant only to give the family time to file its appeal, and the bench said it was expressing no view on the merits or on whatever interim relief the High Court may grant.
 
 ## How the case reached Delhi
 
-The case grew out of a writ petition by K M Shajahan. On 9 October a single judge of the High Court, acting on material shared by the Enforcement Directorate, directed the vigilance bureau to register an FIR under the Prevention of Corruption Act. The ED alleges that Cochin Minerals and Rutile Ltd made payments of ₹2.78 crore to Exalogic Solutions, Veena's now-defunct IT firm, and calls them fraudulent.
+The case grew out of a writ petition by K M Shajahan. On October 9 a single judge of the High Court, acting on material shared by the Enforcement Directorate, directed the vigilance bureau to register an FIR under the Prevention of Corruption Act. The ED alleges that Cochin Minerals and Rutile Ltd made payments of ₹2.78 crore to Exalogic Solutions, Veena's now-defunct IT firm, and calls them fraudulent.
 
-When the family tried to appeal, the division bench said they had no standing. The matter was mentioned before the Chief Justice on 16 October and listed before the vacation bench during the Dussehra break.
+When the family tried to appeal, the division bench said they had no standing. The matter was mentioned before the Chief Justice on October 16 and listed before the vacation bench during the Dussehra break.
 
 ## The arguments
 
@@ -66,4 +66,4 @@ The bench also noted that the single judge had gone further than ordering an FIR
 
 ## What comes next
 
-The appeal now goes back to the Keralam High Court division bench. Unless that bench extends protection, the seven-day stay will lapse. Vijayan has separately been summoned by the ED for questioning on 23 October in a related money laundering inquiry.
+The appeal now goes back to the Keralam High Court division bench. Unless that bench extends protection, the seven-day stay will lapse. Vijayan has separately been summoned by the ED for questioning on October 23 in a related money laundering inquiry.

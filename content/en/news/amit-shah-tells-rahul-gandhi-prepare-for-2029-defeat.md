@@ -58,7 +58,7 @@ verification:
   notes:
     - "Shah's remarks were made in Hindi; outlets carry slightly different English renderings (PTI: 'resounding majority', ANI: 'massive majority'; ANI: 'brace themselves for a crushing defeat'). Quotes used are ANI's wording except 'You have no reach there' and 'fabricated media events and echoes of lies' (PTI via Deccan Chronicle)."
     - "Venue: PTI says he spoke to reporters in New Delhi; ANI calls it a press conference. Exact time not reported; PTI copy filed about 9:47 pm IST."
-    - "ThePrint/PTI summary lists a West Bengal bypoll seat as 'Raiganj' with a 75,000+ margin; the 6 Oct bypoll seat was Rejinagar (margin 75,816 per our bypoll story). Seat not named in copy to avoid the error."
+    - "ThePrint/PTI summary lists a West Bengal bypoll seat as 'Raiganj' with a 75,000+ margin; the Oct 6 bypoll seat was Rejinagar (margin 75,816 per our bypoll story). Seat not named in copy to avoid the error."
     - "Shah's quote on infiltrators is truncated in the source (ends '...'); only the opening clause is quoted."
     - "Exact time of Jairam Ramesh's X post not reported; ANI says Tuesday."
 ---

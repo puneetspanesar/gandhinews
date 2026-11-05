@@ -33,7 +33,7 @@ verification:
   notes:
     - "Single report (Al Jazeera with Reuters). Homicide figures 905 (2023), 876 (2024), 873 (2025) from that report."
     - "Source spells the president 'Laura Fernandez'; standard Spanish spelling Fernández used."
-    - "'Opened on Wednesday 14 October' per the source; English facility name is the source's translation."
+    - "'Opened on Wednesday, October 14' per the source; English facility name is the source's translation."
 ---
 
 Costa Rica opened a high-security prison for up to 5,100 inmates on Wednesday, the latest Latin American country to borrow from the hardline approach of El Salvador's president, Nayib Bukele.

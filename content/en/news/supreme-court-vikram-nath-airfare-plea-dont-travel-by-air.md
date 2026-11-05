@@ -27,7 +27,7 @@ cover:
   bg: "Supreme Court of India"
 related: [supreme-court-senior-counsel-oral-mentioning-bar-from-today, supreme-court-ram-temple-trust-funds-probe-hearing-today]
 seo:
-  description: "On 2 November 2026 a lawyer mentioned a plea before Justice Vikram Nath saying airfares had risen 700%; the judge said 'Don't travel by air. Next case.'"
+  description: "On November 2, 2026, a lawyer mentioned a plea before Justice Vikram Nath saying airfares had risen 700%; the judge said 'Don't travel by air. Next case.'"
 sources:
   - title: "LiveLaw Breaking News Alerts: 02 November 2026"
     publisher: "LiveLaw"
@@ -37,12 +37,12 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov 10:45 IST, oral mention of an airfares plea before Justice Vikram Nath (LiveLaw live alert timestamped 10:45 am IST)."
+    - "event: Nov 2 10:45 IST, oral mention of an airfares plea before Justice Vikram Nath (LiveLaw live alert timestamped 10:45 am IST)."
     - "Single source: LiveLaw alert only. Counsel and petitioner not named; whether Justice Nath sat alone or with others not stated; no order reported. Copy says the court passed no order on the mention, as nothing else was reported."
     - "Quotes verbatim from the alert: counsel 'The airfares have increased to 700%. It is an essential service. Violation of Article 14.'; Justice Nath 'Don't travel by air. Next case.'"
     - "The 700% figure is counsel's claim, not checked; attributed. Which routes or period it refers to is not stated."
     - "Other listings (Aruna Roy and Nikhil Dey Section 144 plea before CJI bench, alert 10:52; K N Nehru plea, 10:49; NEET pleas, 10:48) were alerts that the court 'will hear'; written as due to be heard, no outcome. Gavai-bench 3-day direction as described by LiveLaw."
-    - "Senior-counsel mentioning bar context from our own 2 Nov story (circular of 27 Oct)."
+    - "Senior-counsel mentioning bar context from our own Nov 2 story (circular of Oct 27)."
 ---
 
 A plea against **soaring airfares got a one-line answer** in the Supreme Court on Monday morning.

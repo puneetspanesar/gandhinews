@@ -22,7 +22,7 @@ hero:
     value: "RBI's new digital vault in Odisha"
 related: [modi-varanasi-garment-unit-air-show-rbi-data-centre-sunday, sbi-says-funds-safe-suspected-data-breach]
 seo:
-  description: "PM Modi will inaugurate the RBI's ₹169-crore data centre and Cybersecurity Training Institute at Jatni near Bhubaneswar on 25 October 2026."
+  description: "PM Modi will inaugurate the RBI's ₹169-crore data centre and Cybersecurity Training Institute at Jatni near Bhubaneswar on October 25, 2026."
 sources:
   - title: "PM to inaugurate RBI's data centre in Bhubaneswar (PTI)"
     publisher: "ThePrint"
@@ -43,7 +43,7 @@ verification:
   status: approved
   notes:
     - "Preview: event scheduled 4:45-5:45 pm IST (Hans India schedule); not yet happened at time of writing. Write-through needed after the event."
-    - "₹169 crore covers data centre and training institute (PTI via ThePrint). 18.55 acres, Info Valley-II, Jatni, Khordha district. Foundation stone 22 March 2023 by then Governor Shaktikanta Das."
+    - "₹169 crore covers data centre and training institute (PTI via ThePrint). 18.55 acres, Info Valley-II, Jatni, Khordha district. Foundation stone March 22, 2023, by then Governor Shaktikanta Das."
     - "'Second such centre after Navi Mumbai' is CM Majhi's description, attributed to him."
     - "Attendance of RBI Governor Sanjay Malhotra not confirmed in sources; not mentioned. No capacity figures published."
     - "Government statement quote and Majhi quotes from PTI copy (ThePrint)."
@@ -61,7 +61,7 @@ The site was chosen for its geographic stability, away from seismically active z
 
 Majhi said the facility would "give new momentum to the security of the country's financial data and the growth of the digital economy". He noted that this would be the Prime Minister's ninth visit to Odisha since the BJP formed the state government in 2024.
 
-The foundation stone for both buildings was laid on 22 March 2023 by Shaktikanta Das, then the RBI Governor.
+The foundation stone for both buildings was laid on March 22, 2023, by Shaktikanta Das, then the RBI Governor.
 
 ## Training for a sharper threat
 

@@ -23,7 +23,7 @@ hero:
     value: "Eight ministers, one message: restraint"
 related: [istanbul-ministers-hormuz-talks-trump-iran-strikes, egypt-sisi-seeks-parliament-nod-to-defend-saudi-arabia, umrah-pilgrims-stranded-saudi-mansoor-ali-khan-jaishankar, turkiye-parliament-mecca-defence-pact-pakistan-saudi]
 seo:
-  description: "Ministers from the UK, France, Germany, Italy, Turkey, Saudi Arabia, Pakistan and Egypt urged restraint on Iran in Istanbul on 23 October as Trump hinted at new strikes."
+  description: "Ministers from the UK, France, Germany, Italy, Turkey, Saudi Arabia, Pakistan and Egypt urged restraint on Iran in Istanbul on October 23 as Trump hinted at new strikes."
 sources:
   - title: "European, Middle East ministers urge US-Iran diplomacy, not new attacks"
     publisher: "Al Jazeera"
@@ -48,9 +48,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Meeting outcome and Fidan, Barrot, Tajani remarks: Al Jazeera (published 16:29 UTC, updated 16:48 UTC, 23 Oct). No joint statement text was found; copy does not claim one."
-    - "Abdelatty remarks, Miliband office preview (Bab el-Mandeb, Suez), Sisi position, Turkish line on Mecca pact, Trump 'a little bit further' and 'fairly soon', CENTCOM 100 days and $25bn, Brent $115 on Friday, MEA Umrah figures, IndiGo and Akasa suspensions: Gulf News live blog (last updated 23 Oct 20:53). CENTCOM 100 days also in CBS 22 Oct."
-    - "'Another little Epic Fury' and Brent $117.30: Al Jazeera 24 Oct live blog only; it calls $117.30 a four-year high while Gulf News called $115 the highest since early May. The two framings are not reconciled, so copy gives the price only. When and where Trump said the Epic Fury line is not stated."
+    - "Meeting outcome and Fidan, Barrot, Tajani remarks: Al Jazeera (published 16:29 UTC, updated 16:48 UTC, Oct 23). No joint statement text was found; copy does not claim one."
+    - "Abdelatty remarks, Miliband office preview (Bab el-Mandeb, Suez), Sisi position, Turkish line on Mecca pact, Trump 'a little bit further' and 'fairly soon', CENTCOM 100 days and $25bn, Brent $115 on Friday, MEA Umrah figures, IndiGo and Akasa suspensions: Gulf News live blog (last updated Oct 23 20:53). CENTCOM 100 days also in CBS Oct 22."
+    - "'Another little Epic Fury' and Brent $117.30: Al Jazeera Oct 24 live blog only; it calls $117.30 a four-year high while Gulf News called $115 the highest since early May. The two framings are not reconciled, so copy gives the price only. When and where Trump said the Epic Fury line is not stated."
     - "Al Jazeera says the Mecca pact launched in August; Pakistan and Saudi Arabia and Turkey are the parties."
 ---
 
@@ -82,4 +82,4 @@ The meeting also turned on the defence of Saudi Arabia, which faces near-daily H
 
 ## What it means for India
 
-India was not part of the talks, but the war is keeping thousands of Indians on the move. The Ministry of External Affairs said on Friday that about 3,000 stranded Umrah pilgrims had returned from Saudi Arabia over the past week, and more than 10,000 others had come home on scheduled flights. IndiGo has extended its Riyadh suspension to 31 October, and Akasa Air has stopped Riyadh flights until 30 November.
+India was not part of the talks, but the war is keeping thousands of Indians on the move. The Ministry of External Affairs said on Friday that about 3,000 stranded Umrah pilgrims had returned from Saudi Arabia over the past week, and more than 10,000 others had come home on scheduled flights. IndiGo has extended its Riyadh suspension to October 31, and Akasa Air has stopped Riyadh flights until November 30.

@@ -12,7 +12,7 @@ location: Prague
 keyPoints:
   - "The bill would replace household licence fees with **state budget funding** for Czech public radio and TV."
   - "The change would cut public media funding by **about 15%**, possibly from next year."
-  - "Public media staff plan to **strike on 3 November**; a bigger rally is set for 15 November."
+  - "Public media staff plan to **strike on November 3**; a bigger rally is set for November 15."
 hero:
   need: "Old Town Square in Prague, ideally with a crowd"
   suggested_source: "Old Town Square Prague demonstration"
@@ -22,7 +22,7 @@ hero:
     value: "\"We've had enough\""
 related: [slovakia-czechia-hungary-stay-out-ukraine-70-billion-package]
 seo:
-  description: "Thousands protested in Prague's Old Town Square on 25 October against Andrej Babiš's bill to abolish licence fees for Czech public radio and television."
+  description: "Thousands protested in Prague's Old Town Square on October 25 against Andrej Babiš's bill to abolish licence fees for Czech public radio and television."
 sources:
   - title: "Thousands protest in Prague against public media funding reforms"
     publisher: "Al Jazeera"
@@ -33,7 +33,7 @@ verification:
   status: approved
   notes:
     - "Single source (Al Jazeera, with AFP and AP). Crowd: body says several thousand, a photo caption says tens of thousands; used 'thousands'."
-    - "Overnight vote: draft approved at 4:36 am Saturday 24 Oct. Upper house still to vote; opposition to go to Constitutional Court."
+    - "Overnight vote: draft approved at 4:36 am Saturday, Oct 24. Upper house still to vote; opposition to go to Constitutional Court."
     - "Exact time of rally not given; publish time set for Sunday afternoon Prague time."
 ---
 
@@ -45,4 +45,4 @@ The bill would scrap the household fees and fund public radio and television dir
 
 Babiš, a billionaire who leads a coalition that includes two far-right parties, has said the plan is about transparency in funding and not an attack on media independence. Opponents compare it with moves by Viktor Orbán in Hungary and Robert Fico in Slovakia.
 
-Staff at the public broadcasters plan to strike on 3 November, with backing from trade unions, university rectors, churches and international media organisations. A larger rally is planned at Letná park in Prague for 15 November, two days before the anniversary of the 1989 Velvet Revolution.
+Staff at the public broadcasters plan to strike on November 3, with backing from trade unions, university rectors, churches and international media organisations. A larger rally is planned at Letná park in Prague for November 15, two days before the anniversary of the 1989 Velvet Revolution.

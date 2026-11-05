@@ -42,8 +42,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. Chorbagan facts (19 dead, 25 injured, rain, organisers' announcement, exit gate structure reported to have given way, residents on thin police presence near VIP gate, confusing announcements, Adhikari on dim theme pandals and whistles, nearly 3,500 pujas, Kolkata pandals told to halt entry, review meeting Sunday) from the desk's two 18 October news stories and their sources (PTI via ThePrint and Business Standard). ThePrint homepage given as source; the specific URLs are in the news stories."
-    - "2025 stampedes and tolls (Tirupati 9 Jan at least 6; Prayagraj 29 Jan at least 30; New Delhi station 15 Feb at least 18; Shirgao 3 May 6; Bengaluru 11; Karur 27 Sep 41; Srikakulam 1 Nov at least 9) from Free Press Journal year-ender. Hathras 2024 at least 121 from Drishti IAS."
+    - "Editorial view of the desk. Chorbagan facts (19 dead, 25 injured, rain, organisers' announcement, exit gate structure reported to have given way, residents on thin police presence near VIP gate, confusing announcements, Adhikari on dim theme pandals and whistles, nearly 3,500 pujas, Kolkata pandals told to halt entry, review meeting Sunday) from the desk's two October 18 news stories and their sources (PTI via ThePrint and Business Standard). ThePrint homepage given as source; the specific URLs are in the news stories."
+    - "2025 stampedes and tolls (Tirupati Jan 9 at least 6; Prayagraj Jan 29 at least 30; New Delhi station Feb 15 at least 18; Shirgao May 3 6; Bengaluru 11; Karur Sep 27 41; Srikakulam Nov 1 at least 9) from Free Press Journal year-ender. Hathras 2024 at least 121 from Drishti IAS."
     - "NDMA guidance points (capacity planning, clear entry and exit, zig-zag barriers, outward-opening exits, CCTV, incident command) from Drishti IAS summary; year of the NDMA guidelines not stated in copy."
     - "Hyderabad arch collapse is a structure failure, not a stampede; mentioned only in related. Recommendations are the desk's own."
 ---
@@ -81,5 +81,5 @@ Finally, accountability should be named in advance, not discovered afterwards. E
 Kolkata's pujas are among the great public festivals of the world. They deserve to be remembered for their art, not for the names of the dead. The festival has days still to run, and the gates will open again. They should open on a plan.
 
 ```facts
-{"title":"The reporting behind this view","items":[{"value":"19","label":"people killed at the Chorbagan pandal, Kolkata, on 17 October 2026"},{"value":"41","label":"killed at a political rally in Karur, Tamil Nadu, on 27 September 2025"},{"value":"30+","label":"killed at the Maha Kumbh in Prayagraj on 29 January 2025"}]}
+{"title":"The reporting behind this view","items":[{"value":"19","label":"people killed at the Chorbagan pandal, Kolkata, on October 17, 2026"},{"value":"41","label":"killed at a political rally in Karur, Tamil Nadu, on September 27, 2025"},{"value":"30+","label":"killed at the Maha Kumbh in Prayagraj on January 29, 2025"}]}
 ```

@@ -22,7 +22,7 @@ hero:
     value: "Defence, space, nuclear: Delhi and Warsaw"
 related: [tusk-arrives-delhi-modi-talks-thursday, tusk-india-visit-october-21-modi-bengaluru]
 seo:
-  description: "Narendra Modi and Polish PM Donald Tusk agreed on 22 October to deepen ties in defence, space and nuclear energy, and launched an India-Poland Startup Bridge."
+  description: "Narendra Modi and Polish PM Donald Tusk agreed on October 22 to deepen ties in defence, space and nuclear energy, and launched an India-Poland Startup Bridge."
 sources:
   - title: "\"Work together to develop trusted supply chains for the world\": PM Modi on India-Poland trade goal for 2030"
     publisher: "The Tribune"
@@ -73,4 +73,4 @@ Jaishankar, after his morning meeting, wrote on X that he "appreciated his shari
 
 ## What comes next
 
-Tusk, who is accompanied by Finance and Economy Minister Andrzej Domański and a business delegation, is due to attend the India-Poland Business Forum in New Delhi. On Friday, 23 October, the last day of his visit, he is due in Bengaluru to meet leaders of the IT and space sectors.
+Tusk, who is accompanied by Finance and Economy Minister Andrzej Domański and a business delegation, is due to attend the India-Poland Business Forum in New Delhi. On Friday, October 23, the last day of his visit, he is due in Bengaluru to meet leaders of the IT and space sectors.

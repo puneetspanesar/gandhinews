@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Remarks made at a graduation ceremony at a private university in Chennai on Saturday 24 Oct (PTI, Chennai dateline, carried 11:47 am IST Sunday). University not named in sources. Gaganyaan G1 timing from the same speech is already on site (isro-gaganyaan-g1-uncrewed-flight-two-months-narayanan); this story leads on the new launch-pad and privatisation lines carried in Sunday's PTI copy."
+    - "Remarks made at a graduation ceremony at a private university in Chennai on Saturday, Oct 24 (PTI, Chennai dateline, carried 11:47 am IST Sunday). University not named in sources. Gaganyaan G1 timing from the same speech is already on site (isro-gaganyaan-g1-uncrewed-flight-two-months-narayanan); this story leads on the new launch-pad and privatisation lines carried in Sunday's PTI copy."
     - "Narayanan did not say which the other launch pads will be; copy does not name them. Only verbatim quote available is the launch-pad line."
     - "Chandrayaan-5 details (joint with Japan, 350-kg rover, 100 days) from PTI and Pragativadi; Japanese agency not named in copy beyond 'Japan's space agency'."
 ---

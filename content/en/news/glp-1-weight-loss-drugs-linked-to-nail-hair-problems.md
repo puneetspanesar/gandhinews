@@ -30,7 +30,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Source is a press release republished by ScienceDaily on 12 Oct; findings presented at EADV Congress 2026 (exact presentation date not given). Not peer-reviewed journal papers as far as the release says; written as 'presented'."
+    - "Source is a press release republished by ScienceDaily on Oct 12; findings presented at EADV Congress 2026 (exact presentation date not given). Not peer-reviewed journal papers as far as the release says; written as 'presented'."
     - "Funding: institutional support from DUCRAY Laboratories (Pierre Fabre Group), stated in the release; included."
     - "Author affiliations of Dr Charles Taieb and Dr Bruno Halioua not given; described only as study authors."
     - "Advice not to stop treatment is attributed to an unnamed 'he' in the release; not used."

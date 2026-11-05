@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (TechCrunch, 13 Oct), which links the order on CourtListener; order itself not read. Court is the Northern District of California per the docket link; location San Jose is where Davila sits (inference from district; not stated in the report)."
+    - "Single source (TechCrunch, Oct 13), which links the order on CourtListener; order itself not read. Court is the Northern District of California per the docket link; location San Jose is where Davila sits (inference from district; not stated in the report)."
     - "Deadlines: 5 days for materials already collected, 14 days for the rest."
     - "No quotes from the judge or parties in the report."
 ---

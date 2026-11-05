@@ -12,7 +12,7 @@ location: Nagoya
 keyPoints:
   - "Bhavina Patel beat Kuwait's Ahad Alrasheedi **11-6, 11-3, 11-6** in her first group match."
   - "Suhas Yathiraj opened his SL4 campaign with a **21-8, 21-11 win** over Bangladesh's Joytu Dhar."
-  - "The Games formally open with the **ceremony on 18 October**."
+  - "The Games formally open with the **ceremony on October 18**."
 hero:
   need: "Bhavina Patel playing para table tennis"
   suggested_source: "Bhavina Patel"
@@ -64,4 +64,4 @@ On the badminton court, Suhas Yathiraj, a two-time Paralympic silver medallist a
 
 Abhijeet Sakhuja also won his SL4 opener, beating Chinese Taipei's En-chuan Yeh 21-17, 21-12. Krishna Nagar, the Tokyo Paralympics champion, began his men's singles SH6 Group C campaign with a win, taking the first game 21-5.
 
-India have sent 168 athletes across 11 sports to the Games, which run until 24 October.
+India have sent 168 athletes across 11 sports to the Games, which run until October 24.

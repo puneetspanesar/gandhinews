@@ -10,7 +10,7 @@ standfirst: "JAXA's Martian Moons eXploration mission is due to lift off on an H
 published: 2026-10-17T10:30:00+05:30
 location: Tokyo
 keyPoints:
-  - "MMX is due to launch at **4:41 am JST on Tuesday, 20 October** (1:11 am IST) on Japan's H3 rocket."
+  - "MMX is due to launch at **4:41 am JST on Tuesday, October 20** (1:11 am IST) on Japan's H3 rocket."
   - "It aims to land twice on Phobos and bring back **more than 10 grams** of its surface."
   - "NASA has supplied two instruments and will keep **about 15% of the sample**."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "Next stop: the moons of Mars"
 related: [spacex-crs-35-dragon-docks-space-station]
 seo:
-  description: "JAXA's MMX mission launches on an H3 rocket from Tanegashima on 20 October JST to study Mars's moons and bring Phobos samples to Earth in 2031."
+  description: "JAXA's MMX mission launches on an H3 rocket from Tanegashima on October 20 JST to study Mars's moons and bring Phobos samples to Earth in 2031."
 sources:
   - title: "NASA to Help Unlock Mysteries of Mars' Moons in Upcoming Mission"
     publisher: "NASA"
@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Launch time: JAXA lists 20 Oct 2026, 4:41:03 am JST; NASA gives 3:41 pm EDT Monday 19 Oct; Spaceflight Now NET 19 Oct 19:41:03 UTC. IST conversion = 1:11 am Tuesday 20 Oct."
+    - "Launch time: JAXA lists Oct 20, 2026, 4:41:03 am JST; NASA gives 3:41 pm EDT Monday, Oct 19; Spaceflight Now NET Oct 19 19:41:03 UTC. IST conversion = 1:11 am Tuesday, Oct 20."
     - "Rocket: JAXA says H3 Flight No. 10. NASA release does not name the rocket."
     - "Timeline differs slightly between NASA (Mars arrival Aug 2027, sample collection NET Dec 2028, return 2031) and JAXA (2027-2030 at Phobos, depart 2030, capsule return 2031, recovery in Australia). Both used, attributed."
     - "Sample mass >10 g from JAXA; NASA share ~15% from NASA. 'First sample return from the Martian sphere of influence' from Spaceflight Now; phrased as an aim."
@@ -51,7 +51,7 @@ verification:
 
 Japan is preparing to launch a spacecraft that aims to do what no mission has done before: land on a moon of Mars, scoop up its soil and fly it back to Earth.
 
-The Japan Aerospace Exploration Agency (JAXA) has scheduled the launch of its Martian Moons eXploration (MMX) probe for 4:41 am Japan time on Tuesday, 20 October, which is 1:11 am in India. It will fly on the tenth flight of the H3 rocket from the Tanegashima Space Center.
+The Japan Aerospace Exploration Agency (JAXA) has scheduled the launch of its Martian Moons eXploration (MMX) probe for 4:41 am Japan time on Tuesday, October 20, which is 1:11 am in India. It will fly on the tenth flight of the H3 rocket from the Tanegashima Space Center.
 
 If all goes to plan, MMX will reach Mars in August 2027 and stay around Phobos until 2030. A capsule carrying the samples is due back in 2031, with recovery planned in Australia.
 

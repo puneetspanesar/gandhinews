@@ -10,9 +10,9 @@ standfirst: "The Bar, two journalists' groups and a Rajya Sabha MP have filed fr
 published: 2026-10-13T04:00:00+05:30
 location: New Delhi
 keyPoints:
-  - "The **Supreme Court Bar Association** and the Advocates-on-Record Association want an inquiry into how police treated lawyers near the court on 10 October."
+  - "The **Supreme Court Bar Association** and the Advocates-on-Record Association want an inquiry into how police treated lawyers near the court on October 10."
   - "Chief Justice Surya Kant said **every member of the Bar has the right** to take part in peaceful protests."
-  - "The detention and contempt petitions come up on **Tuesday, 13 October**, with SIR petitions also listed that day."
+  - "The detention and contempt petitions come up on **Tuesday, October 13**, with SIR petitions also listed that day."
 hero:
   need: "The Supreme Court Metro station in New Delhi, which was shut during the protests, or police barricades near the court"
   suggested_source: "Supreme Court metro station Delhi"
@@ -21,7 +21,7 @@ hero:
     value: "Detention pleas heard on Tuesday"
 related: [supreme-court-orders-metro-internet-restored-after-cjp-protest-detentions, india-bloc-march-to-supreme-court-after-cji-declines-meeting, congress-keralam-unit-deletes-post-asking-cji-to-resign, mea-rejects-un-rights-office-remarks-delhi-protest-detentions, what-is-the-cockroach-janta-party]
 seo:
-  description: "SCBA, SCAORA, journalists' groups and MP A.A. Rahim move the Supreme Court over Delhi protest detentions. CJI Surya Kant lists the cases for 13 October."
+  description: "SCBA, SCAORA, journalists' groups and MP A.A. Rahim move the Supreme Court over Delhi protest detentions. CJI Surya Kant lists the cases for October 13."
 sources:
   - title: "SCBA Moves Supreme Court Over Lawyers' Detention, Internet Suspension Amid CEC Protests"
     publisher: "LiveLaw"
@@ -71,22 +71,22 @@ sources:
 verification:
   status: approved
   notes:
-    - "Tuesday listing of the lawyers' matters rests on CJI's remarks as reported by LiveLaw (two reports). The 13 October cause list was not opened. Listing dates for the SCBA, SCAORA, A.A. Rahim and journalists' petitions individually were not given in any source; copy says they are 'among' or 'expected with' Tuesday's matters only where sourced."
-    - "Whether the INDIA bloc petition (Diary No. 64196/2026) is listed on 13 Oct is unconfirmed: LiveLaw says similar SIR matters are listed Tuesday and the CJI indicated it could be taken with them."
+    - "Tuesday listing of the lawyers' matters rests on CJI's remarks as reported by LiveLaw (two reports). The October 13 cause list was not opened. Listing dates for the SCBA, SCAORA, A.A. Rahim and journalists' petitions individually were not given in any source; copy says they are 'among' or 'expected with' Tuesday's matters only where sourced."
+    - "Whether the INDIA bloc petition (Diary No. 64196/2026) is listed on Oct 13 is unconfirmed: LiveLaw says similar SIR matters are listed Tuesday and the CJI indicated it could be taken with them."
     - "LiveLaw's report says 'Rahul Gandhi and nine INDIA bloc leaders' but names 11 petitioners in all; copy avoids a count."
     - "CJI Surya Kant's 'right to be a part of the peaceful protests' quote: LiveLaw notes its transcript of his remarks is incomplete; only the clearly reported line is used."
     - "Gopal Sankaranarayanan's claims (Farasat dragged, Dwivedi and Babbar detained in buses, private hooligans) are his submissions, attributed as such."
-    - "Over 7,000 detained on 10 Oct is from Business Standard; not used here since earlier Gandhi News story covers numbers."
+    - "Over 7,000 detained on Oct 10 is from Business Standard; not used here since earlier Gandhi News story covers numbers."
     - "No police or Union government response to these specific petitions found as of writing."
 ---
 
-Lawyers, journalists and a Rajya Sabha MP have gone to the Supreme Court over the detentions in Delhi during last weekend's protests against Chief Election Commissioner Gyanesh Kumar. The court will take up the detention and contempt matters on Tuesday, 13 October.
+Lawyers, journalists and a Rajya Sabha MP have gone to the Supreme Court over the detentions in Delhi during last weekend's protests against Chief Election Commissioner Gyanesh Kumar. The court will take up the detention and contempt matters on Tuesday, October 13.
 
 The petitions add to the case the court opened at a special Sunday sitting, when it ordered Metro and internet services restored and said peaceful, unarmed people could not be detained outside the law.
 
 ## The Bar goes to court
 
-The Supreme Court Bar Association (SCBA) says advocates, among them senior advocates, women lawyers and senior citizens, were manhandled near the court on 10 October and "forcibly placed in police vehicles and taken away without being informed of the grounds for their detention." It wants a status report on the detentions, the officers involved and the chain of command, the full prohibitory order issued under Section 163 of the BNSS, and preservation of CCTV and body-camera footage. It also wants clear access routes to the Supreme Court and Delhi's other courts.
+The Supreme Court Bar Association (SCBA) says advocates, among them senior advocates, women lawyers and senior citizens, were manhandled near the court on October 10 and "forcibly placed in police vehicles and taken away without being informed of the grounds for their detention." It wants a status report on the detentions, the officers involved and the chain of command, the full prohibitory order issued under Section 163 of the BNSS, and preservation of CCTV and body-camera footage. It also wants clear access routes to the Supreme Court and Delhi's other courts.
 
 The Supreme Court Advocates-on-Record Association (SCAORA) has asked for an independent, time-bound inquiry. Its petition says Senior Advocate Shadan Farasat was carried away by his arms and legs, that women advocates were handled by policewomen without name tags, and that detained lawyers were taken to the Yamuna Sports Complex. "The right to assemble peacefully and express dissent cannot be rendered illusory," it says.
 
@@ -98,7 +98,7 @@ The Chief Justice said lawyers were free to protest and asked that the court be 
 
 > Every lawyer, every member of the bar has the right to be a part of the peaceful protests.
 >
-> Source: Surya Kant, Chief Justice of India, in court, 12 October 2026
+> Source: Surya Kant, Chief Justice of India, in court, October 12, 2026
 
 "There should not be any impediment in the movement of lawyers, litigants, court staff. They should be allowed to work," he said. "I have appealed to protesters also. All political parties also... The Supreme Court should not be dragged into this."
 
@@ -106,9 +106,9 @@ SCBA president Pradeep Rai made a similar point. "Parties should not interfere i
 
 ## Journalists and DYFI
 
-Two journalists' bodies, the Free Speech Collective and the Network of Women in Media, India, say reporters were detained and dragged on 10 and 11 October even while showing press cards. "The use of force against a journalist is not a collateral consequence of crowd control," the Free Speech Collective's petition says. It wants binding guidelines for policing of the press at protests.
+Two journalists' bodies, the Free Speech Collective and the Network of Women in Media, India, say reporters were detained and dragged on October 10 and 11 even while showing press cards. "The use of force against a journalist is not a collateral consequence of crowd control," the Free Speech Collective's petition says. It wants binding guidelines for policing of the press at protests.
 
-Rajya Sabha MP A.A. Rahim, national president of the Democratic Youth Federation of India, says DYFI members picked up at Connaught Place on 11 October were held for about seven hours in vehicles with curtained windows, assaulted, and released at Surajmal Stadium without arrest memos. He has asked for a court-monitored inquiry.
+Rajya Sabha MP A.A. Rahim, national president of the Democratic Youth Federation of India, says DYFI members picked up at Connaught Place on October 11 were held for about seven hours in vehicles with curtained windows, assaulted, and released at Surajmal Stadium without arrest memos. He has asked for a court-monitored inquiry.
 
 ## What happens on Tuesday
 

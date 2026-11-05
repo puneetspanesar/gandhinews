@@ -73,12 +73,12 @@ sources:
 verification:
   status: verified-with-notes
   notes:
-    - "Fact-check 11 Oct 2026: Article 80/83 text, DH quota rule and open-ballot rule, LiveLaw 2018 NOTA ruling and 'secrecy of voting has no room' quote, BJP and SP candidate lists, Koel Mallick resignation (IANS) confirmed."
-    - "Corrected (outdated): all 12 October seats were filled unopposed on 9 October (DD News); standfirst, timeline and October section updated. Two Independent nominations were rejected (DD News), not one."
+    - "Fact-check Oct 11, 2026: Article 80/83 text, DH quota rule and open-ballot rule, LiveLaw 2018 NOTA ruling and 'secrecy of voting has no room' quote, BJP and SP candidate lists, Koel Mallick resignation (IANS) confirmed."
+    - "Corrected (outdated): all October 12 seats were filled unopposed on October 9 (DD News); standfirst, timeline and October section updated. Two Independent nominations were rejected (DD News), not one."
     - "Corrected: quota example arithmetic. With 400 votes x 100 points over 10 seats the quota is 3,637 points (about 36.4 votes), so 37 votes, not 38, secure a seat. Mallick was elected in early 2026 (IANS says February), not March."
     - "Quota formula and open-ballot rule are from Deccan Herald (2022), a secondary source. The legal basis (RP Act Section 59 and Conduct of Election Rules, Rule 39AA) and the 2006 Kuldip Nayar ruling were not opened and are not cited."
     - "The worked quota example is Gandhi News arithmetic based on the Deccan Herald formula, labelled as such in the text."
-    - "Whether the UP and Uttarakhand candidates were declared elected unopposed after withdrawals closed on 9 October was not confirmed in any source read."
+    - "Whether the UP and Uttarakhand candidates were declared elected unopposed after withdrawals closed on October 9 was not confirmed in any source read."
     - "Seats per state (Fourth Schedule figures) and the current total strength of the Rajya Sabha were not confirmed and are left out."
     - "The SP's second candidate is named 'Dhanraj Parimal Nathwani' by Business Today and 'Dhananjay' in other reports; we use Dhanraj."
     - "What happens when an MLA cross-votes (whether the Tenth Schedule applies) was not confirmed in a source read and is left out."
@@ -112,20 +112,20 @@ The Supreme Court has endorsed the logic. In a 2018 ruling, it said that "secrec
 
 ## Can MLAs choose NOTA?
 
-**No.** On 21 August 2018, a bench of Chief Justice Dipak Misra and Justices A.M. Khanwilkar and D.Y. Chandrachud quashed Election Commission circulars that had added a "none of the above" option to Rajya Sabha ballots. The petition was filed by Congress chief whip Shailesh Manubhai Parmar.
+**No.** On August 21, 2018, a bench of Chief Justice Dipak Misra and Justices A.M. Khanwilkar and D.Y. Chandrachud quashed Election Commission circulars that had added a "none of the above" option to Rajya Sabha ballots. The petition was filed by Congress chief whip Shailesh Manubhai Parmar.
 
 The Court said NOTA may work in direct elections, but in an indirect election it would undermine democratic purity and could encourage defection and corruption, according to LiveLaw. It stressed the importance of party discipline in these polls.
 
 ## What happens when an MP resigns mid-term?
 
-**The seat is filled at a separate bypoll.** West Bengal's latest was for the seat vacated by Rukmini "Koel" Mallick, who was elected unopposed on a Trinamool Congress ticket earlier in 2026 and resigned on 16 July without attending a session, IANS reported. She was the fourth TMC Rajya Sabha member to resign since June. She then joined the BJP, which named her as its candidate for the same seat, and she was elected unopposed on 9 October, DD News reported.
+**The seat is filled at a separate bypoll.** West Bengal's latest was for the seat vacated by Rukmini "Koel" Mallick, who was elected unopposed on a Trinamool Congress ticket earlier in 2026 and resigned on July 16 without attending a session, IANS reported. She was the fourth TMC Rajya Sabha member to resign since June. She then joined the BJP, which named her as its candidate for the same seat, and she was elected unopposed on October 9, DD News reported.
 
 ## What is due in October 2026?
 
-**Eleven biennial seats and one bypoll were due on 16 October, but all were filled unopposed on 9 October.** The Election Commission notified elections on 29 September for 10 seats from Uttar Pradesh and one from Uttarakhand, whose members retire on 25 November 2026, News On AIR reported.
+**Eleven biennial seats and one bypoll were due on October 16, but all were filled unopposed on October 9.** The Election Commission notified elections on September 29 for 10 seats from Uttar Pradesh and one from Uttarakhand, whose members retire on November 25, 2026, News On AIR reported.
 
 ```timeline
-{"title":"Rajya Sabha polls, October 2026","items":[{"date":"29 Sep 2026","text":"Election Commission notifies biennial polls for 10 seats in Uttar Pradesh and 1 in Uttarakhand."},{"date":"6 Oct 2026","text":"Nominations close. Eleven nominations filed in UP, one of them by an Independent without a proposer (UNI)."},{"date":"7 Oct 2026","text":"Scrutiny of nominations."},{"date":"9 Oct 2026","text":"Last date for withdrawal. All 10 UP candidates, Uttarakhand's Dinesh Arya and West Bengal's Koel Mallick declared elected unopposed (DD News)."},{"date":"16 Oct 2026","text":"Scheduled polling date, no longer needed."},{"date":"25 Nov 2026","text":"Terms of the retiring UP and Uttarakhand members end."}]}
+{"title":"Rajya Sabha polls, October 2026","items":[{"date":"Sep 29, 2026","text":"Election Commission notifies biennial polls for 10 seats in Uttar Pradesh and 1 in Uttarakhand."},{"date":"Oct 6, 2026","text":"Nominations close. Eleven nominations filed in UP, one of them by an Independent without a proposer (UNI)."},{"date":"Oct 7, 2026","text":"Scrutiny of nominations."},{"date":"Oct 9, 2026","text":"Last date for withdrawal. All 10 UP candidates, Uttarakhand's Dinesh Arya and West Bengal's Koel Mallick declared elected unopposed (DD News)."},{"date":"Oct 16, 2026","text":"Scheduled polling date, no longer needed."},{"date":"Nov 25, 2026","text":"Terms of the retiring UP and Uttarakhand members end."}]}
 ```
 
-In Uttar Pradesh, the BJP named eight candidates: Dharampal Singh, Radhakant Ojha, Prakash Pal, Vidyasagar Sonkar, Gopi Krishna Pandey, Priyanka Singh Rawat, Ram Pratap Singh Chauhan and Shruti Gangwar (IANS). Union ministers Hardeep Puri and B.L. Verma were not renominated. The Samajwadi Party named two, Ram Gopal Yadav and Dhanraj Parimal Nathwani (Business Today). The two Independent nominations were rejected at scrutiny, and the Returning Officer declared all 10 candidates elected unopposed on 9 October, DD News reported. In Uttarakhand, the BJP's Dinesh Kumar Arya was elected unopposed.
+In Uttar Pradesh, the BJP named eight candidates: Dharampal Singh, Radhakant Ojha, Prakash Pal, Vidyasagar Sonkar, Gopi Krishna Pandey, Priyanka Singh Rawat, Ram Pratap Singh Chauhan and Shruti Gangwar (IANS). Union ministers Hardeep Puri and B.L. Verma were not renominated. The Samajwadi Party named two, Ram Gopal Yadav and Dhanraj Parimal Nathwani (Business Today). The two Independent nominations were rejected at scrutiny, and the Returning Officer declared all 10 candidates elected unopposed on October 9, DD News reported. In Uttarakhand, the BJP's Dinesh Kumar Arya was elected unopposed.

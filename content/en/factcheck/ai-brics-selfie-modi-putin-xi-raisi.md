@@ -41,9 +41,9 @@ sources:
 verification:
   status: verified-with-notes
   notes:
-    - "Fact check 11 Oct 2026: BOOM (13 Sep), Free Press Journal (12 Sep) and ThePrint (26 Aug) reopened. All quotes, dates (Raisi 20 May 2024; summit 12-13 Sep at Bharat Mandapam), the claim line and the False rating match. One fix: BOOM provides an archive link but does not say it archived the post before deletion; wording changed. ThePrint (26 Aug) said the summit dates were not yet officially announced; FPJ confirms them. No link to the image or the archive."
+    - "Fact check Oct 11, 2026: BOOM (Sep 13), Free Press Journal (Sep 12) and ThePrint (Aug 26) reopened. All quotes, dates (Raisi May 20, 2024; summit Sep 12-13 at Bharat Mandapam), the claim line and the False rating match. One fix: BOOM provides an archive link but does not say it archived the post before deletion; wording changed. ThePrint (Aug 26) said the summit dates were not yet officially announced; FPJ confirms them. No link to the image or the archive."
     - "All evidence comes from BOOM's check (IFCN signatory), which the desk opened. Shazia Ilmi's original post was deleted and her caption is not quoted by BOOM, so it is described, not quoted. BOOM's archive link to the post is deliberately not reproduced."
-    - "Raisi's death date (20 May 2024) is as stated by BOOM, which links a Reuters report; the Reuters report was not opened separately."
+    - "Raisi's death date (May 20, 2024) is as stated by BOOM, which links a Reuters report; the Reuters report was not opened separately."
     - "No topic slug in the approved list fits BRICS; topics left empty for the editor."
 ---
 
@@ -54,7 +54,7 @@ The image is false. It was made with artificial intelligence, according to BOOM,
 Putin and Xi did attend the summit, and PM Modi welcomed both at Bharat Mandapam.
 
 ```timeline
-{"title":"The BRICS selfie","items":[{"date":"20 May 2024","text":"Ebrahim Raisi dies in a helicopter crash"},{"date":"12–13 Sep 2026","text":"India hosts the BRICS Summit at Bharat Mandapam, Delhi"},{"date":"Sep 2026","text":"Shazia Ilmi posts the image, then deletes it"},{"date":"13 Sep 2026","text":"BOOM rates the image false"}]}
+{"title":"The BRICS selfie","items":[{"date":"May 20, 2024","text":"Ebrahim Raisi dies in a helicopter crash"},{"date":"Sep 12-13, 2026","text":"India hosts the BRICS Summit at Bharat Mandapam, Delhi"},{"date":"Sep 2026","text":"Shazia Ilmi posts the image, then deletes it"},{"date":"Sep 13, 2026","text":"BOOM rates the image false"}]}
 ```
 
 ## The evidence
@@ -63,25 +63,25 @@ Putin and Xi did attend the summit, and PM Modi welcomed both at Bharat Mandapam
 
 BOOM listed the claim as "Photo shows Modi with world leaders at BRICS summit", made by social media handles. It reported that an image of PM Modi taking a selfie with Vladimir Putin, Xi Jinping and Ebrahim Raisi was shared as a real photo from the 2026 BRICS Summit. BJP spokesperson Shazia Ilmi posted it with a message praising Modi and criticising opposition leaders, including Rahul Gandhi, and later deleted the post.
 
-Source: [BOOM, 13 September 2026](https://www.boomlive.in/fact-check/photo-of-pm-modi-with-world-leaders-at-brics-summit-is-ai-32212)
+Source: [BOOM, September 13, 2026](https://www.boomlive.in/fact-check/photo-of-pm-modi-with-world-leaders-at-brics-summit-is-ai-32212)
 
 ### 2. The image carries AI markers
 
 BOOM said it "found a watermark in the photograph indicating it was generated using OpenAI's tools". It then ran the image through OpenAI's verification tool, which "found embedded markers that confirmed that the photo was generated using OpenAI".
 
-Source: [BOOM, 13 September 2026](https://www.boomlive.in/fact-check/photo-of-pm-modi-with-world-leaders-at-brics-summit-is-ai-32212)
+Source: [BOOM, September 13, 2026](https://www.boomlive.in/fact-check/photo-of-pm-modi-with-world-leaders-at-brics-summit-is-ai-32212)
 
 ### 3. One of the leaders died in 2024
 
-Raisi was killed in a helicopter crash near the Azerbaijan border on 20 May 2024, BOOM noted, citing a Reuters report. The 2026 summit was held at Bharat Mandapam in Delhi on 12 and 13 September.
+Raisi was killed in a helicopter crash near the Azerbaijan border on May 20, 2024, BOOM noted, citing a Reuters report. The 2026 summit was held at Bharat Mandapam in Delhi on September 12 and 13.
 
-Source: [BOOM, 13 September 2026](https://www.boomlive.in/fact-check/photo-of-pm-modi-with-world-leaders-at-brics-summit-is-ai-32212)
+Source: [BOOM, September 13, 2026](https://www.boomlive.in/fact-check/photo-of-pm-modi-with-world-leaders-at-brics-summit-is-ai-32212)
 
 ### 4. Iran sent a different President
 
-Free Press Journal reported on 12 September 2026 that PM Modi welcomed Chinese President Xi Jinping, Russian President Vladimir Putin, Iranian President Masoud Pezeshkian and South African President Cyril Ramaphosa at the summit. ThePrint had reported on 26 August that Pezeshkian was expected to represent Iran. A genuine group photo from the summit would show Pezeshkian, not Raisi.
+Free Press Journal reported on September 12, 2026, that PM Modi welcomed Chinese President Xi Jinping, Russian President Vladimir Putin, Iranian President Masoud Pezeshkian and South African President Cyril Ramaphosa at the summit. ThePrint had reported on August 26 that Pezeshkian was expected to represent Iran. A genuine group photo from the summit would show Pezeshkian, not Raisi.
 
-Sources: [Free Press Journal, 12 September 2026](https://freepressjournal.in/india/brics-summit-2026-pm-modi-welcomes-xi-putin-pezeshkian-ramaphosa-among-global-leaders-in-delhi); [ThePrint, 26 August 2026](https://theprint.in/diplomacy/brics-summit-xi-putin-pezeshkian-among-international-leaders-expected-next-month-in-new-delhi/3025529/)
+Sources: [Free Press Journal, September 12, 2026](https://freepressjournal.in/india/brics-summit-2026-pm-modi-welcomes-xi-putin-pezeshkian-ramaphosa-among-global-leaders-in-delhi); [ThePrint, August 26, 2026](https://theprint.in/diplomacy/brics-summit-xi-putin-pezeshkian-among-international-leaders-expected-next-month-in-new-delhi/3025529/)
 
 ## Why this claim spread
 
@@ -89,4 +89,4 @@ The image appeared while India was hosting the summit, an event that drew Xi on 
 
 Gandhi News does not reproduce or link to the image. Readers can see BOOM's full analysis at the link above.
 
-Sources: [BOOM, 13 September 2026](https://www.boomlive.in/fact-check/photo-of-pm-modi-with-world-leaders-at-brics-summit-is-ai-32212); [Free Press Journal, 12 September 2026](https://freepressjournal.in/india/brics-summit-2026-pm-modi-welcomes-xi-putin-pezeshkian-ramaphosa-among-global-leaders-in-delhi)
+Sources: [BOOM, September 13, 2026](https://www.boomlive.in/fact-check/photo-of-pm-modi-with-world-leaders-at-brics-summit-is-ai-32212); [Free Press Journal, September 12, 2026](https://freepressjournal.in/india/brics-summit-2026-pm-modi-welcomes-xi-putin-pezeshkian-ramaphosa-among-global-leaders-in-delhi)

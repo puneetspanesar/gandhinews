@@ -22,7 +22,7 @@ hero:
     value: "Jio debuts 21% above issue price"
 related: [jio-platforms-ipo-subscribed-22-times-listing-october-28, jio-platforms-ipo-closes-subscription-final-day, ipos-next-week-eaaa-sfc-bls-polymers-jio-listing, sensex-nifty-week-october-30-pharma-fii-return]
 seo:
-  description: "Jio Platforms listed at ₹1,358 on 28 October 2026, a 21.36% premium to the ₹1,119 IPO price, closing near ₹1,418 to become India's second most valuable company."
+  description: "Jio Platforms listed at ₹1,358 on October 28, 2026, a 21.36% premium to the ₹1,119 IPO price, closing near ₹1,418 to become India's second most valuable company."
 sources:
   - title: "Ambani's Jio reaches $137 billion valuation, becoming India's second-most valuable firm"
     publisher: "Khaleej Times"

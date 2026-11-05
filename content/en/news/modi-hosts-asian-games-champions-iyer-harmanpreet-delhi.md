@@ -21,7 +21,7 @@ hero:
     value: "85 medals, 21 golds, two cricket titles"
 related: [india-west-indies-bengaluru-decider-dew-arshdeep-preview, india-women-zimbabwe-raipur-mandhana-first-match-captain, rajnath-singh-honours-services-athletes-27-asian-games-medals, india-retain-asian-games-hockey-squad-champions-trophy]
 seo:
-  description: "PM Narendra Modi felicitated India's 85-medal Asian Games contingent in New Delhi on 15 October, with the gold-winning men's and women's cricket teams among them."
+  description: "PM Narendra Modi felicitated India's 85-medal Asian Games contingent in New Delhi on October 15, with the gold-winning men's and women's cricket teams among them."
 sources:
   - title: "PM meets Asian Games medal winners; reiterates resolve to host 2036 Olympics"
     publisher: "Daily Excelsior"

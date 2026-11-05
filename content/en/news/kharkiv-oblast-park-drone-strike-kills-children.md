@@ -22,7 +22,7 @@ hero:
     value: "A drone over a town park"
 related: [russia-hits-28-energy-sites-trump-says-fine, russian-strike-kyiv-kills-woman-metro-station-hit]
 seo:
-  description: "A Russian drone strike on a park in Nova Vodolaha, Kharkiv region, killed six people including an infant and injured at least 15 on 19 October."
+  description: "A Russian drone strike on a park in Nova Vodolaha, Kharkiv region, killed six people including an infant and injured at least 15 on October 19."
 sources:
   - title: "'Absolute atrocity': Russian drone strike on park in Kharkiv Oblast kills children"
     publisher: "Kyiv Independent"

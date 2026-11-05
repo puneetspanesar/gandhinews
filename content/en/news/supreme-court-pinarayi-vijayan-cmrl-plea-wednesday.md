@@ -10,8 +10,8 @@ standfirst: "The former Keralam chief minister and his family's challenge to a H
 published: 2026-10-19T17:30:00+05:30
 location: New Delhi
 keyPoints:
-  - "The pleas of Pinarayi Vijayan and his family are due to be heard on **Wednesday, 21 October**."
-  - "They challenge a **9 October High Court order** to register a vigilance case on an ED report."
+  - "The pleas of Pinarayi Vijayan and his family are due to be heard on **Wednesday, October 21**."
+  - "They challenge a **October 9 High Court order** to register a vigilance case on an ED report."
   - "Vijayan's lawyer Siddharth Luthra has sought **protection from arrest**."
 hero:
   need: "Pinarayi Vijayan, portrait"
@@ -22,7 +22,7 @@ hero:
     value: "A vacation hearing for Pinarayi"
 related: [pinarayi-vijayan-supreme-court-cmrl-fir-vacation-listing, keralam-high-court-refuses-stay-vigilance-fir-pinarayi-vijayan, chandy-oommen-pinarayi-vijayan-not-hounded-cmrl]
 seo:
-  description: "The Supreme Court is due on 21 October to hear Pinarayi Vijayan and his family's pleas against a High Court order for a vigilance FIR in the CMRL-Exalogic case."
+  description: "The Supreme Court is due on October 21 to hear Pinarayi Vijayan and his family's pleas against a High Court order for a vigilance FIR in the CMRL-Exalogic case."
 sources:
   - title: "SC to hear Pinarayi Vijayan, family's pleas against Kerala HC order in CMRL-Exalogic case on Wednesday (IANS, headline only)"
     publisher: "Social News XYZ"
@@ -42,15 +42,15 @@ sources:
 verification:
   status: approved
   notes:
-    - "Wednesday listing rests on one IANS headline (19 Oct) seen in a page listing; article body could not be fetched, so bench composition is not given. Hedged as 'due to'. Published time approximate."
-    - "Petitioners (Veena, Mohammad Riyas) from Bar & Bench headline in search results. Luthra quotes and HC timeline from ANI via Devdiscourse, 16 Oct."
+    - "Wednesday listing rests on one IANS headline (Oct 19) seen in a page listing; article body could not be fetched, so bench composition is not given. Hedged as 'due to'. Published time approximate."
+    - "Petitioners (Veena, Mohammad Riyas) from Bar & Bench headline in search results. Luthra quotes and HC timeline from ANI via Devdiscourse, Oct 16."
 ---
 
 The Supreme Court is due to hear on Wednesday the pleas of former Keralam chief minister Pinarayi Vijayan and his family against a High Court order that set off a vigilance case against them in the CMRL-Exalogic matter.
 
 The hearing, during the court's Dussehra break, follows Chief Justice Surya Kant's assurance on Friday that he would try to put the case before a special vacation bench, subject to judges being available. Failing that, he said, "the matter would be listed on October 26", when regular benches return.
 
-Vijayan, his daughter Veena T and Mohammad Riyas have moved the court. They are challenging a single-judge order of 9 October that directed the state's Vigilance and Anti-Corruption Bureau to register a criminal case on the strength of a report forwarded to the police by the Enforcement Directorate. A division bench of the High Court dismissed their appeals on 15 October, while leaving them free to pursue other remedies.
+Vijayan, his daughter Veena T and Mohammad Riyas have moved the court. They are challenging a single-judge order of October 9 that directed the state's Vigilance and Anti-Corruption Bureau to register a criminal case on the strength of a report forwarded to the police by the Enforcement Directorate. A division bench of the High Court dismissed their appeals on October 15, while leaving them free to pursue other remedies.
 
 Arguing for an early hearing last week, senior advocate Siddharth Luthra, appearing for Vijayan, told the bench of the Chief Justice and Justice Joymalya Bagchi: "We are seeking protection from arrest or any other coercive action." He added: "It is a matter of liberty."
 

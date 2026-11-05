@@ -28,7 +28,7 @@ cover:
 infographic:
   kicker: "New Zealand v India, 1st ODI, live"
   headline: "India's seamers make New Zealand three down"
-  dek: "Eden Park, Auckland, Wednesday 4 November"
+  dek: "Eden Park, Auckland, Wednesday, November 4"
   motif: cricket
   stats:
     - {icon: cricket, value: "44/2", label: "New Zealand after 9 overs"}
@@ -37,7 +37,7 @@ infographic:
   source: "Bombay Samachar, ESPNcricinfo live listing, November 4, 2026"
 related: [india-elect-to-field-new-zealand-one-down-eden-park-first-odi, gill-any-indian-team-can-beat-anyone-eden-park-first-odi-preview, gill-iyer-split-odi-captaincy-new-zealand-bumrah-jadeja-out]
 seo:
-  description: "New Zealand v India first ODI live at Eden Park: Arshdeep Singh takes two powerplay wickets and Gurnoor Brar removes Tim Seifert, caught by Ruturaj Gaikwad, on 4 November 2026."
+  description: "New Zealand v India first ODI live at Eden Park: Arshdeep Singh takes two powerplay wickets and Gurnoor Brar removes Tim Seifert, caught by Ruturaj Gaikwad, on November 4, 2026."
 sources:
   - title: "India Opt to Field in First ODI Against New Zealand; Arshdeep Singh Takes First Two Wickets"
     publisher: "Bombay Samachar"
@@ -57,7 +57,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1st ODI, Eden Park, Auckland, Wed 4 Nov 2026; toss delayed by rain (India.com 07:17 and 07:24 IST entries), start about 15 minutes late. State written about 09:10 IST, NZ innings in progress, no innings break yet."
+    - "event: 1st ODI, Eden Park, Auckland, Wed Nov 4, 2026; toss delayed by rain (India.com 07:17 and 07:24 IST entries), start about 15 minutes late. State written about 09:10 IST, NZ innings in progress, no innings break yet."
     - "Bombay Samachar article (read, published 08:39 IST): Young c Shreyas Iyer b Arshdeep at 22/1; Nicholls 9, c Naman Dhir b Arshdeep; NZ 44/2 after 9 overs, Seifert 22*, Mitchell 4*."
     - "Seifert c Gaikwad b Brar: from India.com live headline in search results and the ESPNcricinfo search listing ('Daryl Mitchell 19*, Tom Latham 3*, Gurnoor Brar 1/19'). Cricinfo page failed to fetch; India.com fetched copy was a stale 07:24 cache. News24 page (read, last entry 08:56 IST) shows Brar bowling to Seifert and Kamboj to Mitchell. NZ total at the third wicket NOT confirmed and left out."
     - "Outlook India scorecard URL in search was the January Vadodara ODI, not used. VAVEL page was a stale pre-match cache. Wisden page fetch timed out."
@@ -75,4 +75,4 @@ Anshul Kamboj shared the new ball duties with the two left-armers as India rotat
 
 ## What comes next
 
-New Zealand still have most of their 50 overs to bat, and Mitchell is the wicket India want most. Gill's side chose to chase because teams batting second have won more often at Eden Park. Wellington hosts the second ODI on 7 November.
+New Zealand still have most of their 50 overs to bat, and Mitchell is the wicket India want most. Gill's side chose to chase because teams batting second have won more often at Eden Park. Wellington hosts the second ODI on November 7.

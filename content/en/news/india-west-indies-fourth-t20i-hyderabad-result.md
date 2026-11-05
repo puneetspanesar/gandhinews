@@ -12,7 +12,7 @@ location: Hyderabad
 keyPoints:
   - "Shai Hope made **102 not out off 50 balls**, reaching his hundred with a six off the last ball of the innings."
   - "Keemo Paul took **5 for 41** as India were bowled out for 223 chasing 248."
-  - "The series is **level at 2-2**, with the decider in Bengaluru on 17 October."
+  - "The series is **level at 2-2**, with the decider in Bengaluru on October 17."
 hero:
   need: "West Indies captain Shai Hope batting, or celebrating a century"
   suggested_source: "Shai Hope West Indies cricketer"
@@ -21,7 +21,7 @@ hero:
     value: "Hope 102*, Paul 5 for 41, series 2-2"
 related: [india-west-indies-fourth-t20i-hyderabad-preview, india-beat-west-indies-by-14-runs-in-indore-t20i, shreyas-iyer-career-best-t20i-ranking]
 seo:
-  description: "India v West Indies 4th T20I, Hyderabad: Shai Hope's 102* and Keemo Paul's 5 for 41 give West Indies a 24-run win. Series 2-2, decider in Bengaluru on 17 October."
+  description: "India v West Indies 4th T20I, Hyderabad: Shai Hope's 102* and Keemo Paul's 5 for 41 give West Indies a 24-run win. Series 2-2, decider in Bengaluru on October 17."
 sources:
   - title: "India v West Indies, 4th T20I, Hyderabad: match centre"
     publisher: "Wisden"
@@ -76,11 +76,11 @@ India's reply began at a gallop. Samson raced to 56 with six fours and four sixe
 Tilak Varma (43 off 25) and Nitish Kumar Reddy (41 off 20, with four sixes) put on close to 70 to keep India in touch. Romario Shepherd broke the stand when Powell caught Tilak, and Paul returned to take three wickets in the 18th and 19th overs. Arshdeep, the last man in, was struck and could not continue, and India's innings ended at 223.
 
 ```infographic
-{"title":"Fourth T20I, Hyderabad","items":[{"icon":"cricket","value":"247/3","label":"West Indies, 20 overs","text":"Hope 102 not out, Rutherford 49 not out."},{"icon":"medal","value":"5/41","label":"Keemo Paul","text":"Samson, Kishan, Nitish, Prince and Axar."},{"icon":"trophy","value":"223","label":"India, chasing 248","text":"Samson 56, Tilak 43, Nitish 41."},{"icon":"calendar-blank","value":"2-2","label":"Series level","text":"Decider in Bengaluru on 17 October."}]}
+{"title":"Fourth T20I, Hyderabad","items":[{"icon":"cricket","value":"247/3","label":"West Indies, 20 overs","text":"Hope 102 not out, Rutherford 49 not out."},{"icon":"medal","value":"5/41","label":"Keemo Paul","text":"Samson, Kishan, Nitish, Prince and Axar."},{"icon":"trophy","value":"223","label":"India, chasing 248","text":"Samson 56, Tilak 43, Nitish 41."},{"icon":"calendar-blank","value":"2-2","label":"Series level","text":"Decider in Bengaluru on October 17."}]}
 ```
 
 ## What it means for India
 
 Hyderabad had been a happy ground for India, who had won all three of their previous T20Is there. The defeat leaves a worry about the bowling at the death, the area Iyer had singled out after the Indore win, and over Arshdeep's fitness eight days before the New Zealand tour begins.
 
-The fifth and final T20I is at the M. Chinnaswamy Stadium in Bengaluru on Saturday, 17 October. India then fly to New Zealand, where the first of five T20Is is in Christchurch on 22 October.
+The fifth and final T20I is at the M. Chinnaswamy Stadium in Bengaluru on Saturday, October 17. India then fly to New Zealand, where the first of five T20Is is in Christchurch on October 22.

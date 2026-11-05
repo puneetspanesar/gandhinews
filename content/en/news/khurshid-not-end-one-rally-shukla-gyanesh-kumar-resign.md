@@ -22,7 +22,7 @@ hero:
     value: "'Part of an ongoing movement'"
 related: [india-bloc-rally-venugopal-stern-warning-modi-shah, india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar, nadda-anarchy-model-india-bloc-rally-sood-chaos, deepender-hooda-barricades-pilot-rally-goers-stopped, india-bloc-ramlila-maidan-rally-today-preview]
 seo:
-  description: "INDIA bloc rally, 1 November 2026: Salman Khurshid says the fight over voter list deletions will not end with one rally; Rajeev Shukla asks why CEC Gyanesh Kumar is not resigning."
+  description: "INDIA bloc rally, November 1, 2026: Salman Khurshid says the fight over voter list deletions will not end with one rally; Rajeev Shukla asks why CEC Gyanesh Kumar is not resigning."
 sources:
   - title: "\"This will not end with just one rally\": Congress's Salman Khurshid flags voter exclusions at INDIA bloc rally"
     publisher: "Daily Prabhat (ANI)"
@@ -37,9 +37,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov, remarks made shortly before 13:38 IST (ANI copy on Daily Prabhat published 08:08 UTC = 13:38 IST); exact minute not given."
+    - "event: Nov 1, remarks made shortly before 13:38 IST (ANI copy on Daily Prabhat published 08:08 UTC = 13:38 IST); exact minute not given."
     - "Single source (ANI via Daily Prabhat) for Khurshid, Shukla and Venugopal quotes; quotes verbatim in English as published. Khurshid was 'addressing the media'; Shukla spoke to ANI on the sidelines; Venugopal to reporters. None described as stage speeches, so copy says 'at the rally' only."
-    - "No figure for deleted names in source; none given in copy. 5 pm police deadline and the 31 Oct mock impeachment from earlier site stories."
+    - "No figure for deleted names in source; none given in copy. 5 pm police deadline and the Oct 31 mock impeachment from earlier site stories."
 ---
 
 The INDIA bloc's rally at Ramlila Maidan is **the opening of a longer fight**, senior Congress leader Salman Khurshid said on Sunday afternoon, as opposition leaders pressed their demand that Chief Election Commissioner Gyanesh Kumar step down.

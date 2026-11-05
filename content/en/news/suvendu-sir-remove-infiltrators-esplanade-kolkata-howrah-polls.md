@@ -27,7 +27,7 @@ cover:
   bg: "Esplanade, Kolkata"
 related: [mamata-yes-papa-ramlila-gyanesh-kumar-bengal-sir, supreme-court-sir-cannot-delay-local-body-polls, police-stop-trinamool-anti-cec-march-kolkata-rajabazar, amit-shah-revanth-telangana-atm-congress-evm-hyderabad]
 seo:
-  description: "West Bengal CM Suvendu Adhikari led a BJP 'Save Democracy, Remove Anarchy' march in Kolkata on 2 November 2026, called SIR 'Remove Infiltrators, Save India' and warned the Opposition before the Kolkata and Howrah civic polls."
+  description: "West Bengal CM Suvendu Adhikari led a BJP 'Save Democracy, Remove Anarchy' march in Kolkata on November 2, 2026, called SIR 'Remove Infiltrators, Save India' and warned the Opposition before the Kolkata and Howrah civic polls."
 sources:
   - title: "Bengal CM calls SIR 'infiltrator removal, save India', warns Opposition ahead of Kolkata, Howrah civic polls"
     publisher: "UNI"
@@ -47,9 +47,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov evening, Esplanade rally after College Street procession; UNI report timestamped 14:30 UTC (8:00 pm IST). Start time of the march not given, so the speech may have begun shortly before 7:40 pm."
+    - "event: Nov 2 evening, Esplanade rally after College Street procession; UNI report timestamped 14:30 UTC (8:00 pm IST). Start time of the march not given, so the speech may have begun shortly before 7:40 pm."
     - "Single source (UNI), paywalled after the lede. Only the slogan 'Remove Infiltrators, Save India' and the procession name 'Save Democracy, Remove Anarchy' are quoted; the rest is paraphrase of the lede. Search for a second source found nothing."
-    - "Context on pending appeals (about 1.70 lakh) and mid-November notification is from the 9 Oct Supreme Court hearing, as in our earlier story; no newer figure found."
+    - "Context on pending appeals (about 1.70 lakh) and mid-November notification is from the Oct 9 Supreme Court hearing, as in our earlier story; no newer figure found."
     - "No Trinamool response to the speech found by publication."
 ---
 
@@ -67,7 +67,7 @@ He then turned to the next contest. The Opposition, he warned, would face **a de
 
 The procession came a day after Trinamool Congress chief Mamata Banerjee told the INDIA bloc rally at Ramlila Maidan in Delhi that the people of Bengal were suffering because of the SIR and that she would not surrender. The BJP has answered the opposition's "vote theft" campaign with "Save Democracy" marches of its own, and Monday's walk in Kolkata was the state unit's turn.
 
-The revision is now a live issue in the civic polls. In the Supreme Court on 9 October, lawyers said **nearly 1.70 lakh appeals** by voters deleted in Bengal's SIR were pending from Kolkata and Howrah, and that the municipal elections were likely to be notified in mid-November.
+The revision is now a live issue in the civic polls. In the Supreme Court on October 9, lawyers said **nearly 1.70 lakh appeals** by voters deleted in Bengal's SIR were pending from Kolkata and Howrah, and that the municipal elections were likely to be notified in mid-November.
 
 ```photo
 {"n":2,"subject":"Esplanade, Kolkata","caption":"Esplanade in central Kolkata, where Suvendu Adhikari addressed the rally at the end of the march.","alt":"Esplanade in central Kolkata"}

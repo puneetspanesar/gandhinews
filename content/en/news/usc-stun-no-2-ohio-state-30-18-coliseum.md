@@ -22,7 +22,7 @@ hero:
     value: "Trojans topple No. 2 Buckeyes"
 related: []
 seo:
-  description: "USC beat No. 2 Ohio State 30-18 at the Los Angeles Memorial Coliseum on 31 October, with Jayden Maiava throwing for 222 yards and a touchdown."
+  description: "USC beat No. 2 Ohio State 30-18 at the Los Angeles Memorial Coliseum on October 31, with Jayden Maiava throwing for 222 yards and a touchdown."
 sources:
   - title: "Ohio State Buckeyes vs USC Trojans, box score"
     publisher: "theScore"
@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: kick-off 7:30 pm Sat 31 Oct per CBS gametracker (CBS lists times in ET, so 05:00 IST); a college game runs about 3.5 hours, so the final whistle fell around 08:30 IST 1 Nov. Time zone of the kick-off is an inference; theScore final box score was live by about 09:00 IST."
+    - "event: kick-off 7:30 pm Sat Oct 31 per CBS gametracker (CBS lists times in ET, so 05:00 IST); a college game runs about 3.5 hours, so the final whistle fell around 08:30 IST Nov 1. Time zone of the kick-off is an inference; theScore final box score was live by about 09:00 IST."
     - "Final 30-18, quarter scores (USC 14-6-7-3, OSU 3-6-0-9), post-game records (OSU 6-2, USC 7-2), venue and all individual stat lines: theScore. No. 2 ranking for Ohio State, pre-game records (OSU 6-1, 4-0 Big Ten; USC 6-2), first-quarter scoring (Maiava 69-yard TD to Mosley at 14:19, Chittenden PAT, Connor Hawkins 39-yard FG at 8:27): CBS gametracker cached early in the game."
     - "USC's ranking not shown in either source, so not stated. Remaining scoring plays not available; not described. No quotes found. Deadspin preview headline only used as context for Lincoln Riley, no claims taken from it beyond the headline."
 ---

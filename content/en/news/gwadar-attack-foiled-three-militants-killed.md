@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (Dawn, Saleem Shahid and Behram Baloch, 7:05 am PKT 23 Oct). Officials reported the attack on Thursday; time of attack not given. Copy keeps attribution to officials."
+    - "Single source (Dawn, Saleem Shahid and Behram Baloch, 7:05 am PKT Oct 23). Officials reported the attack on Thursday; time of attack not given. Copy keeps attribution to officials."
     - "Name of construction company, hotel and the outcome of the hotel standoff not reported."
     - "India has not been reported responding; India has consistently denied such allegations in the past, but no statement on this incident found, so not included."
 ---

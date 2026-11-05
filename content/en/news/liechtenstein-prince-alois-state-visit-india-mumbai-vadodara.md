@@ -11,7 +11,7 @@ published: 2026-10-25T20:00:00+05:30
 updated: 2026-10-26T05:20:00+05:30
 location: Mumbai
 keyPoints:
-  - "Hereditary Prince Alois is on a **four-day state visit** to India from 25 to 28 October."
+  - "Hereditary Prince Alois is on a **four-day state visit** to India from October 25 to 28."
   - "He goes to **Vadodara on Monday** before flying to Delhi in the afternoon."
   - "Talks with Prime Minister Narendra Modi are due at **Hyderabad House on Tuesday**."
 hero:
@@ -23,7 +23,7 @@ hero:
     value: "A prince's four days in India"
 related: []
 seo:
-  description: "Hereditary Prince Alois of Liechtenstein is on a state visit to India from 25 to 28 October 2026, with a Vadodara stop on Monday and talks with PM Modi on Tuesday."
+  description: "Hereditary Prince Alois of Liechtenstein is on a state visit to India from October 25 to 28, 2026, with a Vadodara stop on Monday and talks with PM Modi on Tuesday."
 sources:
   - title: "Hereditary Prince Alois of Liechtenstein, Princess Sophie to arrive in India for four-day state visit"
     publisher: "ANI"
@@ -48,7 +48,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Itinerary from the MEA schedule as carried by ANI (7:44 pm) and Asianet: late-evening landing at CSMIA Mumbai on 25 Oct; early departure for Vadodara and Palam arrival in the afternoon on 26 Oct; 27 Oct ceremonial reception, Rajghat, Hyderabad House talks, calls by Jaishankar, Sitharaman and Jayant Chaudhary at Hotel Taj Mahal, meeting with President; departure afternoon of 28 Oct."
+    - "Itinerary from the MEA schedule as carried by ANI (7:44 pm) and Asianet: late-evening landing at CSMIA Mumbai on Oct 25; early departure for Vadodara and Palam arrival in the afternoon on Oct 26; Oct 27 ceremonial reception, Rajghat, Hyderabad House talks, calls by Jaishankar, Sitharaman and Jayant Chaudhary at Hotel Taj Mahal, meeting with President; departure afternoon of Oct 28."
     - "Arrival in Mumbai not independently confirmed by any report read; written as landing on Sunday night per schedule. Purpose of the Vadodara stop not given in any source."
     - "IANS says Sitharaman and Chaudhary call on him on 'Thursday', which is outside the visit; ANI's Tuesday followed. IANS spells the princess 'Sofia'; ANI and Outlook 'Sophie'."
     - "MEA quotes from IANS. Business delegation (unnamed) from IANS and Outlook. Banquet by President from IANS and Outlook."
@@ -58,7 +58,7 @@ verification:
 
 Hereditary Prince Alois of Liechtenstein, the principality's acting head of state, was due in Mumbai late on Sunday night at the start of a four-day state visit to India, his second trip to the country this year.
 
-He is accompanied by his wife, Hereditary Princess Sophie, and by an official and business delegation that includes several industry leaders. The visit, from 25 to 28 October, is at the invitation of Prime Minister Narendra Modi.
+He is accompanied by his wife, Hereditary Princess Sophie, and by an official and business delegation that includes several industry leaders. The visit, from October 25 to 28, is at the invitation of Prime Minister Narendra Modi.
 
 According to the schedule released by the Ministry of External Affairs, the couple leave Mumbai early on Monday for Vadodara. After their engagements in the Gujarat city, they fly to New Delhi, landing at Air Force Station Palam in the afternoon. The ministry has not said what the prince will do in Vadodara.
 

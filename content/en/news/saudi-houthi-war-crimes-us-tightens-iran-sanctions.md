@@ -52,9 +52,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Drone interception toward Eastern Province, 'full-fledged war crimes', Houthi Wing Loong II claim, France deploying assets, Bessent '16 individuals and 10 entities': Al Jazeera live blog of 16 Oct, read via KpNews mirror (aljazeera.com fetch blocked). Gulf News separately has an interception over Khamis Mushait; not used as it may be a different drone."
-    - "Airport tolls: Atalayar (citing coalition spokesman al-Maliki): 20 attacks on King Khalid since 1 Oct, 17 dead and 330+ injured there; 19 dead and 364 injured across Saudi airports. Al Jazeera has 17 killed at KKIA 7-11 Oct. Consistent."
-    - "Saudi deputy minister's name is spelled Raid Qarmali (IranWire) and Rayed Krimly (CBS). Used 'Rayed Krimly'. Quotes are AFP's as carried by IranWire; briefing was Thursday 15 Oct."
+    - "Drone interception toward Eastern Province, 'full-fledged war crimes', Houthi Wing Loong II claim, France deploying assets, Bessent '16 individuals and 10 entities': Al Jazeera live blog of Oct 16, read via KpNews mirror (aljazeera.com fetch blocked). Gulf News separately has an interception over Khamis Mushait; not used as it may be a different drone."
+    - "Airport tolls: Atalayar (citing coalition spokesman al-Maliki): 20 attacks on King Khalid since Oct 1, 17 dead and 330+ injured there; 19 dead and 364 injured across Saudi airports. Al Jazeera has 17 killed at KKIA Oct 7-11. Consistent."
+    - "Saudi deputy minister's name is spelled Raid Qarmali (IranWire) and Rayed Krimly (CBS). Used 'Rayed Krimly'. Quotes are AFP's as carried by IranWire; briefing was Thursday, Oct 15."
     - "Bessent quote verbatim from Gulf News (posted on X). Iraqi bank and shadow-banking target from Gulf News. FinCEN 'Operation Economic Outcast' from Gulf News."
     - "MOAB planning: CNN report as relayed by CBS and Atalayar; White House line verbatim from CBS. Attributed as reported."
     - "Trump Newsmax remarks kept to one line; world-west desk has the main Newsmax story."
@@ -66,7 +66,7 @@ Major General Turki al-Maliki, spokesman for the Saudi-led coalition in Yemen, s
 
 ## Airports in the firing line
 
-The coalition's figures show how hard Riyadh has been hit this month. Al-Maliki said King Khalid International Airport in the capital had been attacked 20 times since 1 October, leaving 17 people dead and more than 330 injured there. Across all Saudi airports, the toll stands at 19 dead and 364 injured.
+The coalition's figures show how hard Riyadh has been hit this month. Al-Maliki said King Khalid International Airport in the capital had been attacked 20 times since October 1, leaving 17 people dead and more than 330 injured there. Across all Saudi airports, the toll stands at 19 dead and 364 injured.
 
 "Attacking airports endangers the lives of thousands of civilian travellers," al-Maliki said. He added that the coalition had destroyed 127 Houthi depots in the mountains around Sanaa, Saada and Amran.
 

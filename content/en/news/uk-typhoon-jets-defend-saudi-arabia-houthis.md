@@ -12,7 +12,7 @@ location: London
 keyPoints:
   - "The UK is deploying **RAF Typhoon fighter jets** to protect Saudi airspace."
   - "Defence Secretary Wes Streeting called the Houthi attacks **'absolutely despicable'**."
-  - "Egypt's parliament has put off a vote on military support for Riyadh until **26 October**."
+  - "Egypt's parliament has put off a vote on military support for Riyadh until **October 26**."
 hero:
   need: "RAF Eurofighter Typhoon jet"
   suggested_source: "RAF Eurofighter Typhoon"
@@ -45,4 +45,4 @@ The Houthis, also known as Ansar Allah, have fired missiles and drones at Saudi 
 
 Rising energy prices are partly behind London's decision, since events in the Gulf feed directly into household bills in Britain.
 
-Saudi Arabia's other partners are moving more slowly. Egypt's parliament delayed for a second day a vote on President Abdel Fattah el-Sisi's request to authorise military support for the kingdom if it asks. The next session is set for 26 October.
+Saudi Arabia's other partners are moving more slowly. Egypt's parliament delayed for a second day a vote on President Abdel Fattah el-Sisi's request to authorise military support for the kingdom if it asks. The next session is set for October 26.

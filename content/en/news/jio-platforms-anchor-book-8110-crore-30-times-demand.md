@@ -12,7 +12,7 @@ location: Mumbai
 keyPoints:
   - "Jio Platforms allotted **72.4 million shares at ₹1,119** each to anchor investors, raising ₹8,110 crore."
   - "Institutions bid more than **₹2.5 lakh crore**, over 30 times the shares set aside for them."
-  - "The ₹30,213 crore issue is open to the public from **21 to 23 October**."
+  - "The ₹30,213 crore issue is open to the public from **October 21 to 23**."
 hero:
   need: "Mukesh Ambani, chairman of Reliance Industries, the parent of Jio Platforms"
   suggested_source: "Mukesh Ambani"
@@ -22,7 +22,7 @@ hero:
     value: "₹2.5 lakh crore chases ₹8,110 crore"
 related: [jio-platforms-ipo-price-band-biggest-india-listing, ipo-week-ahead-jio-platforms-paras-healthcare-open, markets-shut-dussehra-results-data-calendar-october-20, four-day-week-dussehra-nifty-outlook-jio-ipo-infosys]
 seo:
-  description: "Jio Platforms raised ₹8,110 crore from anchor investors at ₹1,119 a share, with bids above ₹2.5 lakh crore. The ₹30,213 crore IPO opens on 21 October."
+  description: "Jio Platforms raised ₹8,110 crore from anchor investors at ₹1,119 a share, with bids above ₹2.5 lakh crore. The ₹30,213 crore IPO opens on October 21."
 sources:
   - title: "Jio IPO anchor book sees over 30x demand, draws record bids worth ₹2.5 trn"
     publisher: "Business Standard"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: Business Standard, published 11:54 pm IST on 19 Oct. Allocation figures and the 30x/₹2.5 lakh crore demand are attributed by BS to bankers; bids are indicative. Record claim is the bankers' description. Total anchor count (212 per an ET headline) not read in full, so left out. Market cap ₹10.3 lakh crore is Motilal Oswal's estimate."
+    - "Single source: Business Standard, published 11:54 pm IST on Oct 19. Allocation figures and the 30x/₹2.5 lakh crore demand are attributed by BS to bankers; bids are indicative. Record claim is the bankers' description. Total anchor count (212 per an ET headline) not read in full, so left out. Market cap ₹10.3 lakh crore is Motilal Oswal's estimate."
 ---
 
 Jio Platforms has raised ₹8,110 crore from anchor investors a day before its share sale opens to the public, and the institutions queuing for those shares asked for far more than they could get.
@@ -51,7 +51,7 @@ Not everyone reads the demand as money in the bank. An analyst at Samco Securiti
 
 ## The issue
 
-The public offer opens on Wednesday, 21 October, and closes on Friday, 23 October, at a price band of ₹1,065 to ₹1,119 a share. At the top of the range it raises ₹30,213 crore, all through new shares, which would make it the largest share sale in India. None of the strategic investors who bought into Jio Platforms in 2020 is selling.
+The public offer opens on Wednesday, October 21, and closes on Friday, October 23, at a price band of ₹1,065 to ₹1,119 a share. At the top of the range it raises ₹30,213 crore, all through new shares, which would make it the largest share sale in India. None of the strategic investors who bought into Jio Platforms in 2020 is selling.
 
 Reliance Industries owns 66.43% of the company. Meta, Google, KKR, Silver Lake, General Atlantic and other investors who put in $20 billion in 2020 hold 30.89% between them, with Meta at 9.98% and Google at 7.73%.
 

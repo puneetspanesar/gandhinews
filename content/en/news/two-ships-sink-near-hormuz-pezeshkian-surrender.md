@@ -46,9 +46,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Sinkings: Reuters via Dawn (15 Oct, 06:58 PKT). GFS Pride crossing on Tuesday per MPA; exact sinking time not given. Cape Dao hit 23 Sept per IMO data; one crew killed per maritime sources. Crew nationalities not reported. 'Second and third vessels to sink since the war began' is Reuters' analysis of IMO data."
+    - "Sinkings: Reuters via Dawn (Oct 15, 06:58 PKT). GFS Pride crossing on Tuesday per MPA; exact sinking time not given. Cape Dao hit Sept 23 per IMO data; one crew killed per maritime sources. Crew nationalities not reported. 'Second and third vessels to sink since the war began' is Reuters' analysis of IMO data."
     - "Unnamed Iranian officials' claim about oil prices and midterms (Reuters) left out as anonymous."
-    - "Pezeshkian quote from Press TV (state-linked), National Nurses Day ceremony, 15 Oct."
+    - "Pezeshkian quote from Press TV (state-linked), National Nurses Day ceremony, Oct 15."
     - "Trump remarks in Montana via Dawn citing Anadolu; exact time not given. Oil prices as of 0625 GMT."
     - "Ten vessels since Sunday, two seafarers missing, Iran army statement, Medina interception, EU-GCC summit postponement: Dawn live roundup. Medina interception also on Al Jazeera, spokesperson Turki al-Maliki; Houthis denied attacks on Saudi Arabia 'today'."
     - "Dateline Dubai is a desk choice for a regional roundup."
@@ -59,9 +59,9 @@ Two merchant ships have sunk near the Strait of Hormuz after being hit by projec
 
 The Maritime and Port Authority of Singapore said the GFS Pride, a small Singapore-flagged container ship that can carry 2,824 containers, was crossing the strait on Tuesday when it was struck. It "sustained damage and a fire on board, and has since sunk," the authority said. All 21 crew were taken off safely and nobody was hurt.
 
-The second vessel, the Antigua and Barbuda-flagged bulk carrier Cape Dao, went down close to the strait weeks after it was hit on 23 September. One crew member was killed in that strike and the rest were evacuated at once, maritime sources said. Its manager, the UAE-based Peonies Shipmanagement, could not be reached.
+The second vessel, the Antigua and Barbuda-flagged bulk carrier Cape Dao, went down close to the strait weeks after it was hit on September 23. One crew member was killed in that strike and the rest were evacuated at once, maritime sources said. Its manager, the UAE-based Peonies Shipmanagement, could not be reached.
 
-The two are the second and third ships to sink since the US-Iran war began on 28 February. The Singapore authority said it was "deeply concerned" by the continuing attacks on commercial shipping, which it called unprovoked and a breach of international law.
+The two are the second and third ships to sink since the US-Iran war began on February 28. The Singapore authority said it was "deeply concerned" by the continuing attacks on commercial shipping, which it called unprovoked and a breach of international law.
 
 ## The busiest week of attacks
 
@@ -81,6 +81,6 @@ Oil slipped after his remarks. Brent crude was down $1.76 at $104.30 a barrel on
 
 On the Arabian Peninsula, Turki al-Maliki, spokesperson for the Saudi-led coalition, said its forces intercepted and destroyed a cruise missile in the area around Medina. The Houthis denied carrying out any attack on Saudi Arabia on Thursday.
 
-The fallout is spreading to diplomacy. A summit between the European Union and the Gulf Cooperation Council, planned for 24 October in Riyadh, has been postponed.
+The fallout is spreading to diplomacy. A summit between the European Union and the Gulf Cooperation Council, planned for October 24 in Riyadh, has been postponed.
 
 The run of attacks began on Sunday, when a drone hit the tanker MT Petro Dolphin at Sohar anchorage in Oman. Two of its Indian crew, Bir Bahadur Yadav and Amit Singh, were reported missing after the strike.

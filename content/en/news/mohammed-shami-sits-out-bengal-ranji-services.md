@@ -49,4 +49,4 @@ Shami took four wickets against Delhi in Bengal's nine-wicket win in the first r
 
 Bengal won the toss and batted first. Their XI was Abhimanyu Easwaran (captain), Ankur Paul, Sudip Kumar Gharami, Sudip Chatterjee, Shahbaz Ahmed, Sumanta Gupta, Abishek Porel (wicketkeeper), Pradipta Pramanik, Aamir Gani, Mohammed Kaif and Suraj Sindhu Jaiswal.
 
-Shahbaz Ahmed is back in the side after shoulder surgery. The New Zealand tour begins with the first ODI on 4 November, and the Test leg starts on 19 November.
+Shahbaz Ahmed is back in the side after shoulder surgery. The New Zealand tour begins with the first ODI on November 4, and the Test leg starts on November 19.

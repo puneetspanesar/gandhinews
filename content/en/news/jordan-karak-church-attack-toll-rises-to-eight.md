@@ -22,7 +22,7 @@ hero:
     value: "A funeral, then a second one"
 related: [jordan-karak-church-funeral-shooting-seven-killed, hebron-closures-al-jalda-families-displaced]
 seo:
-  description: "The toll from Friday's shooting at a Greek Orthodox church funeral in Jordan's Karak rose to eight on 24 October, the health minister said."
+  description: "The toll from Friday's shooting at a Greek Orthodox church funeral in Jordan's Karak rose to eight on October 24, the health minister said."
 sources:
   - title: "Israel imposes closures across a West Bank city after attacks, and other Mideast news (AP)"
     publisher: "KSAT"

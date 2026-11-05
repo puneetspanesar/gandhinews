@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Roadshow ended Friday 23 Oct (PTI 10:18 pm); Business Standard detailed report 10:31 am Saturday."
+    - "Roadshow ended Friday, Oct 23 (PTI 10:18 pm); Business Standard detailed report 10:31 am Saturday."
     - "NLC figure: BS says ₹37,000 crore, PTI ₹36,763.51 crore; copy says 'about ₹37,000 crore'."
     - "Next host: BS says the 15th India Chem in Bhubaneswar after the Centre agreed; PTI says FICCI agreed to Odisha hosting 'next year'. Copy combines without a firm year."
 ---

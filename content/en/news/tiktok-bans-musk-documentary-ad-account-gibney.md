@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "TechCrunch In Brief (17 Oct, 1:55 pm PDT), citing The Hollywood Reporter for the suspension notice to Bleecker Street. Single chain of reporting; hedged as 'was told'. TikTok had not commented."
+    - "TechCrunch In Brief (Oct 17, 1:55 pm PDT), citing The Hollywood Reporter for the suspension notice to Bleecker Street. Single chain of reporting; hedged as 'was told'. TikTok had not commented."
     - "Ellison ownership links and HBO/Paramount Skydance details from TechCrunch."
 ---
 

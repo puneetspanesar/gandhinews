@@ -51,7 +51,7 @@ verification:
     - "Dembele off after about 20 minutes (Al Jazeera says hamstring; NBC gives no detail). Written as injury, hamstring hedged. Kvaratskhelia also lost to injury per Al Jazeera only; Olmo injured per both."
     - "Table: PSG top, Barcelona 2nd to 5th per NBC."
     - "No quotes from coaches or players were found in any source read; none used."
-    - "Unrest context: French interior minister confirmed match would go ahead (AP, 19 Oct); not elaborated."
+    - "Unrest context: French interior minister confirmed match would go ahead (AP, Oct 19); not elaborated."
 ---
 
 Paris Saint-Germain and Barcelona produced the game of the Champions League night at the Parc des Princes on Tuesday, and it was the European champions who had the stronger finish. With the score 2-2 and 10 minutes left, Vitinha drove in a shot from just outside the box and Fabian Ruiz added a fourth from close range, sending PSG to a 4-2 win.
@@ -78,4 +78,4 @@ Barcelona lost Dani Olmo to injury as well, an awkward blow for Hansi Flick with
 
 ## What comes next
 
-There are five league-phase games left for both clubs before the phase ends on 27 January. The top eight go straight into the last 16, and the next 16 enter a play-off round. On this evidence, both remain well placed.
+There are five league-phase games left for both clubs before the phase ends on January 27. The top eight go straight into the last 16, and the next 16 enter a play-off round. On this evidence, both remain well placed.

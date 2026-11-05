@@ -44,10 +44,10 @@ verification:
     - "Bench (Justices Ajit Kumar, Garima Prasad), three-month direction, administrators upheld, 27% OBC quota: Statesman and ETV Bharat agree. Order text not seen."
     - "Likely SC appeal rests on unnamed senior officials and commission sources in Amar Ujala only; hedged as 'expected to consider'. No formal government decision found."
     - "Rajbhar quote (Hindi) verbatim from Amar Ujala; English is our translation."
-    - "OBC commission: constituted 20 May, term ends 20 Nov, 42 of 75 districts covered, chairman Ram Autar Singh remarks: Amar Ujala only."
-    - "Census phase two dates in UP (1 Dec 2026 to 4 Jan 2027) and assembly notification 'likely first week of January' from Amar Ujala; the latter is officials' expectation, hedged."
+    - "OBC commission: constituted May 20, term ends Nov 20, 42 of 75 districts covered, chairman Ram Autar Singh remarks: Amar Ujala only."
+    - "Census phase two dates in UP (Dec 1, 2026, to Jan 4, 2027) and assembly notification 'likely first week of January' from Amar Ujala; the latter is officials' expectation, hedged."
     - "Petitioner spelt Imtiaz (Statesman) / Imtiyaz (Amar Ujala); used Imtiaz."
-    - "Ruling delivered Wednesday 14 Oct (Amar Ujala: open court, 4 pm); government reaction reported Thursday morning. Published time set for Thursday evening follow."
+    - "Ruling delivered Wednesday, Oct 14 (Amar Ujala: open court, 4 pm); government reaction reported Thursday morning. Published time set for Thursday evening follow."
 ---
 
 The Uttar Pradesh government is expected to consider going to the Supreme Court after the Allahabad High Court ordered it to hold elections to village councils across the state within three months, a timetable officials say cannot be met with the census and the 2027 assembly election bearing down.
@@ -60,13 +60,13 @@ The petitions, led by Imtiaz Hussain and others from Prayagraj, had challenged t
 
 The bench upheld the administrator arrangement and dismissed the challenge to the law itself, so the pradhans keep their posts until fresh elections are held. But it refused to let the polls drift. The OBC commission set up to work out backward-class reservation can carry on, the court said, but the election will not wait for it.
 
-The State Election Commission told the court it was ready, having published the panchayat voter list on 10 June, and said the government had not made the arrangements it needed. The state had cited delimitation in its orders of 25 and 26 May, which put off the polls and kept the pradhans in charge under the UP Panchayat Raj Act, 1947.
+The State Election Commission told the court it was ready, having published the panchayat voter list on June 10, and said the government had not made the arrangements it needed. The state had cited delimitation in its orders of May 25 and 26, which put off the polls and kept the pradhans in charge under the UP Panchayat Raj Act, 1947.
 
 ## Why the government is uneasy
 
-Gram pradhans' terms ended on 25 May, and block pramukhs and zila panchayat chairpersons were made administrators in July. Officials point to a crowded calendar: the second phase of the census in the state runs from 1 December 2026 to 4 January 2027, examinations fall in the same months, and notification for the assembly election is expected early in January.
+Gram pradhans' terms ended on May 25, and block pramukhs and zila panchayat chairpersons were made administrators in July. Officials point to a crowded calendar: the second phase of the census in the state runs from December 1, 2026, to January 4, 2027, examinations fall in the same months, and notification for the assembly election is expected early in January.
 
-The dedicated backward class commission, constituted on 20 May under a Supreme Court order, has covered 42 of the state's 75 districts and its six-month term ends on 20 November. Its chairman, Ram Autar Singh, said it would decide its next steps after studying the order, and could split into two or three teams to finish the remaining 33 districts if asked to report early.
+The dedicated backward class commission, constituted on May 20 under a Supreme Court order, has covered 42 of the state's 75 districts and its six-month term ends on November 20. Its chairman, Ram Autar Singh, said it would decide its next steps after studying the order, and could split into two or three teams to finish the remaining 33 districts if asked to report early.
 
 Panchayati Raj Minister Om Prakash Rajbhar was guarded. He said the government had not yet read the order and would study it before deciding anything, and cautioned against drawing hasty conclusions. "Respecting the court's decision is the duty of all of us," he said.
 

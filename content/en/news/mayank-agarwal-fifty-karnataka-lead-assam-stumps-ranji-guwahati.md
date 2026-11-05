@@ -22,7 +22,7 @@ hero:
     value: "Karnataka lead by 45"
 related: [assam-all-out-135-karnataka-rajasthan-73-8-lunch-ranji, harsh-dubey-9-53-vidarbha-record-madhya-pradesh-209-ranji-nagpur]
 seo:
-  description: "Karnataka were 180 for 2 at stumps on day one of their Ranji Trophy match against Assam in Guwahati on 2 November 2026, leading by 45, with Mayank Agarwal 57 not out."
+  description: "Karnataka were 180 for 2 at stumps on day one of their Ranji Trophy match against Assam in Guwahati on November 2, 2026, leading by 45, with Mayank Agarwal 57 not out."
 sources:
   - title: "ASM vs KAR Live Score, Group B, Ranji Trophy Elite, 02 Nov 2026"
     publisher: "CricTracker"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov, stumps on day 1 at Barsapara, Guwahati (play from 08:30 IST, early close in the east), about 15:30 to 16:15 IST; CricTracker live page fetched about 17:10 IST showed 'Stumps: Day 1', KAR 180/2 (36 ov), lead 45. Exact stumps time not shown."
+    - "event: Nov 2, stumps on day 1 at Barsapara, Guwahati (play from 08:30 IST, early close in the east), about 15:30 to 16:15 IST; CricTracker live page fetched about 17:10 IST showed 'Stumps: Day 1', KAR 180/2 (36 ov), lead 45. Exact stumps time not shown."
     - "Single source. Agarwal 57* (95b, 7x4); KV Aneesh 7* (21b); KL Shrijith 19 (16b) lbw b Amlanjyoti Das; FoW 1-129 (Rohan Patil, 24.3 ov), 2-157 (Shrijith, 28.3 ov). Patil's score and dismissal not shown; not stated. Page said last 5 overs 7 runs, 0 wkts. Agarwal shown with asterisk (likely captain), not stated as captain in copy. Assam 135 all out (48.1 ov), toss Assam batted, from page and earlier lunch story. Roshan Alam 6-0-32-0, Mohit Thakur 8-0-39-0. No quotes."
 cover:
   template: sport

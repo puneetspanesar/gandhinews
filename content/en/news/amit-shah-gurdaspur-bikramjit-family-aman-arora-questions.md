@@ -22,7 +22,7 @@ hero:
     value: "Shah in Punjab, AAP asks four questions"
 related: [amit-shah-punjab-drugs-gangsters-organised-crime, mansa-anti-drug-activist-parvinder-jhota-shot-dead, jakhar-seeks-nia-ed-probe-punjab-prison-drug-network, jhota-murder-case-cbi-transfer-bhagwant-mann]
 seo:
-  description: "Amit Shah met the Gurdaspur family of anti-drug campaigner Bikramjit Singh on 20 October; AAP's Aman Arora asked him why heroin still crosses the Pakistan border."
+  description: "Amit Shah met the Gurdaspur family of anti-drug campaigner Bikramjit Singh on October 20; AAP's Aman Arora asked him why heroin still crosses the Pakistan border."
 sources:
   - title: "Amit Shah meets family of Bikramjit Singh in Gurdaspur, allegedly killed for raising voice against drug trade"
     publisher: "ANI"

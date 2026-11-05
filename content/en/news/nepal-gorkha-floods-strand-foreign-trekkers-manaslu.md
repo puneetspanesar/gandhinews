@@ -36,8 +36,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Flood date: Sunday 11 Oct (Republica dateline 11 Oct; Al Jazeera says Sunday). Rescue figures for Monday (321 incl. 12 foreigners) and army continuing Tuesday from Al Jazeera."
-    - "Missing: Republica on 11 Oct said at least 10 missing; Al Jazeera on 13 Oct says no deaths reported and five villagers out of contact. Used the later figure."
+    - "Flood date: Sunday, Oct 11 (Republica dateline Oct 11; Al Jazeera says Sunday). Rescue figures for Monday (321 incl. 12 foreigners) and army continuing Tuesday from Al Jazeera."
+    - "Missing: Republica on Oct 11 said at least 10 missing; Al Jazeera on Oct 13 says no deaths reported and five villagers out of contact. Used the later figure."
     - "Nationalities of stranded trekkers beyond the nine Bangladeshis not reported. No Indians mentioned in any source."
 ---
 

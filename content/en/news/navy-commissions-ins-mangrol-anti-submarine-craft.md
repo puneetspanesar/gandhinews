@@ -10,7 +10,7 @@ standfirst: "The Cochin Shipyard-built craft, with over 80% indigenous content, 
 published: 2026-10-13T05:10:00+05:30
 location: Mumbai
 keyPoints:
-  - "INS Mangrol was commissioned at the **Naval Dockyard, Mumbai** on 12 October."
+  - "INS Mangrol was commissioned at the **Naval Dockyard, Mumbai** on October 12."
   - "It is the **third Mahe-class** anti-submarine warfare shallow water craft built by Cochin Shipyard."
   - "The Navy is inducting **16 such craft** under contracts worth nearly ₹13,000 crore."
 hero:
@@ -21,7 +21,7 @@ hero:
     value: "Third Mahe-class craft joins Navy"
 related: []
 seo:
-  description: "The Indian Navy commissioned INS Mangrol, its third Mahe-class anti-submarine shallow water craft built by Cochin Shipyard, at Mumbai on 12 October 2026."
+  description: "The Indian Navy commissioned INS Mangrol, its third Mahe-class anti-submarine shallow water craft built by Cochin Shipyard, at Mumbai on October 12, 2026."
 sources:
   - title: "Navy inducts INS Mangrol, third Mahe-class anti-submarine shallow-water craft in Mumbai"
     publisher: "ANI"
@@ -66,7 +66,7 @@ Vatsayan linked the induction to the state of the world around India's coasts.
 
 > The commissioning assumes particular significance against the backdrop of rising geopolitical tensions.
 >
-> Source: Vice Admiral Sanjay Vatsayan, Flag Officer Commanding-in-Chief, Western Naval Command, 12 October 2026
+> Source: Vice Admiral Sanjay Vatsayan, Flag Officer Commanding-in-Chief, Western Naval Command, October 12, 2026
 
 ## What the ship carries
 

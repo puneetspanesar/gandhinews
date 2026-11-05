@@ -22,7 +22,7 @@ hero:
     value: "114 medals, 30 gold"
 related: [sandeep-haney-world-records-india-100-medals-para-games, mona-agarwal-world-record-second-gold-50m-rifle, nitesh-beats-pramod-sl3-final-naveen-sivakumar-gold, harvinder-vijay-sundi-recurve-doubles-gold-china, dilip-gavit-solairaj-gold-india-88-medals-asian-para-games]
 seo:
-  description: "India ended the 2026 Asian Para Games in Aichi-Nagoya with a record 114 medals, 30 gold, as Sumit Antil led a javelin podium sweep on 23 October."
+  description: "India ended the 2026 Asian Para Games in Aichi-Nagoya with a record 114 medals, 30 gold, as Sumit Antil led a javelin podium sweep on October 23."
 sources:
   - title: "Asian Para Games: India sign off with record 114 medals, including 30 gold"
     publisher: "UNI"
@@ -47,10 +47,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "Previous best: UNI and Khel Now say Hangzhou figure was 108 (six fewer than 114); site's 23 Oct midday story said 111. Number left out; written only as a record / best haul (UNI and Khel Now agree it is a record)."
+    - "Previous best: UNI and Khel Now say Hangzhou figure was 108 (six fewer than 114); site's Oct 23 midday story said 111. Number left out; written only as a record / best haul (UNI and Khel Now agree it is a record)."
     - "Antil's 72.46m: Khel Now results page only."
     - "Thulasimathi's women's doubles partner given as Manasi Joshi (UNI) and Manisha Ramadass (Khel Now): partner not named."
-    - "Final-day status: Khel Now says no Indian athletes compete on 24 October, the last day; UNI says finals in some events on Saturday with no Indian entries, so fourth place could change. Flagbearers Mona Agarwal and Nishad Kumar: Khel Now only."
+    - "Final-day status: Khel Now says no Indian athletes compete on October 24, the last day; UNI says finals in some events on Saturday with no Indian entries, so fourth place could change. Flagbearers Mona Agarwal and Nishad Kumar: Khel Now only."
     - "Antil final scheduled 4:46 pm IST (site's earlier story); published time set after that."
     - "Para-athletics 65 medals, 12 more than 2023: UNI only."
 ---

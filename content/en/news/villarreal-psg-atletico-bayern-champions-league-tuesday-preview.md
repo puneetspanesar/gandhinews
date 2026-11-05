@@ -30,7 +30,7 @@ related:
   - rice-late-equaliser-arsenal-draw-bayern-saka-injury
   - liverpool-fight-back-beat-villarreal-city-thrash-aek
 seo:
-  description: "Champions League matchday four on 3 November 2026: Villarreal v PSG, Atletico Madrid v Bayern Munich, Barcelona v Aston Villa and Manchester United v Roma, with kick-off times in IST."
+  description: "Champions League matchday four on November 3, 2026: Villarreal v PSG, Atletico Madrid v Bayern Munich, Barcelona v Aston Villa and Manchester United v Roma, with kick-off times in IST."
 sources:
   - title: "2026/27 Champions League: All the league phase fixtures"
     publisher: "UEFA"
@@ -45,8 +45,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: preview of games on 3 Nov 2026, first kick-offs 18:45 CET = 23:15 IST Tue 3 Nov, rest 21:00 CET = 01:30 IST Wed 4 Nov. Written 3 Nov about 08:00 IST."
-    - "Fixtures and CET times from UEFA.com 2026/27 league phase fixtures page (season confirmed 2026/27, league phase 8 Sep 2026 to 27 Jan 2027); SoccerGraph lists the same nine games and times. CET is UTC+1 in November, IST is UTC+5:30."
+    - "event: preview of games on Nov 3, 2026, first kick-offs 18:45 CET = 23:15 IST Tue Nov 3, rest 21:00 CET = 01:30 IST Wed Nov 4. Written Nov 3 about 08:00 IST."
+    - "Fixtures and CET times from UEFA.com 2026/27 league phase fixtures page (season confirmed 2026/27, league phase Sep 8, 2026, to Jan 27, 2027); SoccerGraph lists the same nine games and times. CET is UTC+1 in November, IST is UTC+5:30."
     - "Matchday three results (PSG 4-2 Barcelona, PSG three wins and top, Barcelona fifth; Villa nine points; Liverpool 4-3 Villarreal; Bayern 2-2 Arsenal with Kane penalty; Atletico 1-1 Stuttgart; Roma 4-0 Slovan; Como 4-1 Man United, United winless in seven) are from our own sourced matchday-three stories. Standings after matchday three not rechecked beyond that; no team news or pre-match quotes found within search budget."
 ---
 
@@ -68,4 +68,4 @@ Barcelona, who slipped to fifth after the defeat in Paris, **host an Aston Villa
 
 The early games, at 11.15 pm IST, are **Shakhtar Donetsk against Sporting** and Galatasaray against Stuttgart. At 1.30 am, Feyenoord meet Inter, Bodo/Glimt play Lille and LASK face Slovan Bratislava, alongside the four headline ties.
 
-The other nine games of matchday four follow on Wednesday night, with Liverpool at Fenerbahce, Manchester City at RB Leipzig and Arsenal at Slavia Prague. The league phase runs until 27 January, when the top eight go straight into the last 16.
+The other nine games of matchday four follow on Wednesday night, with Liverpool at Fenerbahce, Manchester City at RB Leipzig and Arsenal at Slavia Prague. The league phase runs until January 27, when the top eight go straight into the last 16.

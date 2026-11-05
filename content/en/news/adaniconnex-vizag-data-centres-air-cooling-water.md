@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: PTI via Business Standard, 18 Oct 12:02 pm IST, citing unnamed sources with knowledge of the matter. Not previously on Gandhi News; written for Monday morning."
+    - "Single source: PTI via Business Standard, Oct 18 12:02 pm IST, citing unnamed sources with knowledge of the matter. Not previously on Gandhi News; written for Monday morning."
     - "3 TMC figure attributed to the government as reported. Nara Lokesh remark paraphrased; no direct quote available."
 ---
 

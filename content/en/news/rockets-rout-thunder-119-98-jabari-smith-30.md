@@ -22,7 +22,7 @@ hero:
     value: "Rockets by 21 in Houston"
 related: [wembanyama-43-spurs-beat-timberwolves-121-111, maxey-38-sixers-beat-hornets-without-lebron-embiid]
 seo:
-  description: "Jabari Smith Jr scored 30 and Marcus Smart hit seven threes as the Houston Rockets beat the injury-hit Oklahoma City Thunder 119-98 on 31 October."
+  description: "Jabari Smith Jr scored 30 and Marcus Smart hit seven threes as the Houston Rockets beat the injury-hit Oklahoma City Thunder 119-98 on October 31."
 sources:
   - title: "Jabari Smith Jr., Rockets overwhelm undermanned Thunder"
     publisher: "Deadspin (Field Level Media)"
@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: tip-off 8:30 pm ET Sat 31 Oct (CBS gametracker) = 06:00 IST; game ended about 08:20 IST 1 Nov. Field Level Media recap time stamped 03:11 UTC (08:41 IST), Oklahoman 03:28 UTC (08:58 IST)."
+    - "event: tip-off 8:30 pm ET Sat Oct 31 (CBS gametracker) = 06:00 IST; game ended about 08:20 IST Nov 1. Field Level Media recap time stamped 03:11 UTC (08:41 IST), Oklahoman 03:28 UTC (08:58 IST)."
     - "Score, all player lines, quarter and half scores, 27-point max lead, 10-0 OKC run, Smart starting for VanVleet (rest), Houston's Friday loss at Dallas as first defeat: Field Level Media. OKC 4-2 and the six absentees with injuries: The Oklahoman."
     - "No quotes in either source, so none used. Houston's season record not given in sources, left out."
 ---

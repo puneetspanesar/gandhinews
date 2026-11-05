@@ -10,7 +10,7 @@ standfirst: "Filmed at his old Edmonton school, the prime minister's video came 
 published: 2026-10-13T03:00:00+05:30
 location: Ottawa
 keyPoints:
-  - "Carney told Albertans that Canada is **\"worth fighting for\"** a week before the 19 October vote."
+  - "Carney told Albertans that Canada is **\"worth fighting for\"** a week before the October 19 vote."
   - "The non-binding question asks whether to **begin the legal process for a binding separation referendum**."
   - "Polls suggest most Albertans want to stay, but unity campaigners fear **low turnout** could help separatists."
 hero:
@@ -21,7 +21,7 @@ hero:
     value: "Carney's plea to Alberta"
 related: []
 seo:
-  description: "Mark Carney's Thanksgiving video urges Albertans to choose unity a week before the 19 October vote on starting a path to a binding separation referendum."
+  description: "Mark Carney's Thanksgiving video urges Albertans to choose unity a week before the October 19 vote on starting a path to a binding separation referendum."
 sources:
   - title: "Statement by Prime Minister Carney on Thanksgiving"
     publisher: "Prime Minister of Canada"
@@ -60,7 +60,7 @@ The video was filmed at his former high school in Edmonton, where Carney grew up
 
 ## What Albertans will vote on
 
-On 19 October Albertans will answer 10 referendum questions. The one drawing attention asks whether Alberta should remain a province of Canada or whether its government should begin the legal process towards a binding provincial referendum on separation. The vote itself is not binding, but a win for the second option would set that process in motion.
+On October 19 Albertans will answer 10 referendum questions. The one drawing attention asks whether Alberta should remain a province of Canada or whether its government should begin the legal process towards a binding provincial referendum on separation. The vote itself is not binding, but a win for the second option would set that process in motion.
 
 Polling suggests most Albertans would rather stay. The worry for unity campaigners is turnout. Former premier Jason Kenney has warned that a low turnout could favour the separatists, and attention is on "soft separatists" who may not want independence but want to send Ottawa a message.
 
@@ -76,4 +76,4 @@ Tanya Clemens, co-chair of Let Alberta Decide, said a majority for separation wo
 
 The vote comes days after the Parti Québécois won the most seats in Quebec's provincial election, falling short of a majority.
 
-Carney is due back in Alberta this week. Conservative Leader Pierre Poilievre will speak on Canadian unity at a conference on 16 October, and British Columbia NDP leader David Eby, whose province is in its own election campaign, has also urged Albertans to vote to stay, saying the two provinces are "stronger together".
+Carney is due back in Alberta this week. Conservative Leader Pierre Poilievre will speak on Canadian unity at a conference on October 16, and British Columbia NDP leader David Eby, whose province is in its own election campaign, has also urged Albertans to vote to stay, saying the two provinces are "stronger together".

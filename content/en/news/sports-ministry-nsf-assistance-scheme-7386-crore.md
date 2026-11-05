@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: Telangana Today, 17 Oct, 5:48 pm IST, reporting the ministry's operational guidelines. Original PIB release not read; no breakdown by component given."
+    - "Single source: Telangana Today, Oct 17, 5:48 pm IST, reporting the ministry's operational guidelines. Original PIB release not read; no breakdown by component given."
     - "No minister or official quoted. No changes to athlete allowances or coaches' pay stated, so none claimed."
     - "Hero: Shastri Bhawan is the ministry's address; picked as the place, not stated in the source."
 ---

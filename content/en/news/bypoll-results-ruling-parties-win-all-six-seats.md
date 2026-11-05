@@ -6,7 +6,7 @@ section: politics
 format_label: "Politics / Bypolls"
 topics: [elections-2027, election-commission, states]
 title: "Bypoll results: each of the six seats goes to the party that runs the state"
-standfirst: "The BJP won Nagaon, Nandigram and Rejinagar, TVK held both Tamil Nadu seats and AINRC took Thattanchavady in the 6 October bypolls, counted on 9 October."
+standfirst: "The BJP won Nagaon, Nandigram and Rejinagar, TVK held both Tamil Nadu seats and AINRC took Thattanchavady in the October 6 bypolls, counted on October 9."
 published: 2026-10-11T10:00:00+05:30
 location: New Delhi
 keyPoints:
@@ -15,14 +15,14 @@ keyPoints:
   - "AINRC's Ashok Anand **won Thattanchavady in Puducherry**, the seat vacated by Chief Minister N. Rangasamy."
   - "Margins ranged from **1,42,224 votes in Nagaon** to 8,482 in Thattanchavady."
 hero:
-  need: "Counting centre on 9 October 2026, or a winning candidate receiving the certificate in Nandigram or Nagaon"
+  need: "Counting centre on October 9, 2026, or a winning candidate receiving the certificate in Nandigram or Nagaon"
   suggested_source: "PIB Photo / ECI media gallery; Wikimedia Commons search 'Nandigram bypoll 2026'"
   alt: "Election officials counting votes at a counting centre during the October 2026 bypolls"
   overlay:
     value: "6 of 6 seats to the ruling party of each state"
 related: [five-states-head-for-2027-assembly-polls, election-calendar, elections-2027, election-commission]
 seo:
-  description: "Results of the 6 October 2026 bypolls: BJP wins Nagaon, Nandigram and Rejinagar, TVK holds two Tamil Nadu seats and AINRC wins Thattanchavady in Puducherry."
+  description: "Results of the October 6, 2026, bypolls: BJP wins Nagaon, Nandigram and Rejinagar, TVK holds two Tamil Nadu seats and AINRC wins Thattanchavady in Puducherry."
 sources:
   - title: "Live blog: Bypolls 2026 results, West Bengal, Tamil Nadu, Assam"
     publisher: "ETV Bharat"
@@ -77,12 +77,12 @@ sources:
 verification:
   status: verified-with-notes
   notes:
-    - "Fact-check 11 Oct 2026: all margins and vote counts confirmed on DD News, ThePrint (PTI), South First and The Pioneer. results.eci.gov.in still not opened; ECI figures should be checked before any correction-sensitive reuse."
+    - "Fact-check Oct 11, 2026: all margins and vote counts confirmed on DD News, ThePrint (PTI), South First and The Pioneer. results.eci.gov.in still not opened; ECI figures should be checked before any correction-sensitive reuse."
     - "Corrected: TVK seat count (IANS: 108 won in the election; South First: 107 after CM Vijay vacated Tiruchirappalli East, 109 after the bypolls). Removed unsourced claims that the CPI and CPI(M) give outside support and that the Congress is in the cabinet; South First says the Congress, VCK, Left and IUML support the government but the Left contested the bypolls separately."
     - "Corrected: Nagaon vacancy. Bordoloi resigned after joining the BJP and winning Dispur (DD News); copy had implied he resigned as a Congress MP."
     - "Corrected: Sarma quote trimmed to the words confirmed in the IANS report. Added PTI context that Mamata Banerjee backed the Congress candidate in Nandigram after the TMC nominee withdrew."
-    - "Rajya Sabha 'decided unopposed on 9 October' now sourced to DD News (UP, Uttarakhand and West Bengal)."
-    - "The brief asked for 'seven seats'. Every source read (ETV Bharat, Republic, Outlook, National Herald headlines) says six seats went to the polls on 6 October: one Lok Sabha and five assembly seats. The story uses six."
+    - "Rajya Sabha 'decided unopposed on October 9' now sourced to DD News (UP, Uttarakhand and West Bengal)."
+    - "The brief asked for 'seven seats'. Every source read (ETV Bharat, Republic, Outlook, National Herald headlines) says six seats went to the polls on October 6: one Lok Sabha and five assembly seats. The story uses six."
     - "results.eci.gov.in only returned a redirect page; ECI figures could not be opened directly. All margins come from news reports."
     - "Nagaon margin: DD News, citing the Election Commission, gives 1,42,224 (7,14,349 v 5,72,125). ETV Bharat's live blog gave 1,40,257 and IANS (Morung Express) gave 1,57,804 from 'latest trends'. ANI gave Sharma 7,13,622 votes. We use DD's EC-attributed figure; confirm on results.eci.gov.in."
     - "Madurantakam margin: South First gives 20,081 (72,149 v 52,068); ETV Bharat's live blog gave 19,312 at a point when Kumaravel had 67,825 votes. We use South First's final-count figures; confirm with ECI."
@@ -93,10 +93,10 @@ verification:
     - "Sources disagree on whether Hasirani Rath or the withdrawn TMC candidate is the mother of Adhikari's slain aide; left out."
 ---
 
-All six seats that went to bypolls on 6 October were won by the party that governs the state concerned. The BJP took the Nagaon Lok Sabha seat in Assam and two assembly seats in West Bengal. Tamilaga Vettri Kazhagam (TVK) won both Tamil Nadu seats, and the All India N.R. Congress (AINRC) held Thattanchavady in Puducherry. Votes were counted on 9 October.
+All six seats that went to bypolls on October 6 were won by the party that governs the state concerned. The BJP took the Nagaon Lok Sabha seat in Assam and two assembly seats in West Bengal. Tamilaga Vettri Kazhagam (TVK) won both Tamil Nadu seats, and the All India N.R. Congress (AINRC) held Thattanchavady in Puducherry. Votes were counted on October 9.
 
 ```chart
-{"type":"hbar","title":"Winning margins in the 6 October bypolls","subtitle":"Votes","unit":"votes","data":[{"label":"Nagaon (LS), BJP","value":142224,"highlight":true},{"label":"Nandigram, BJP","value":122753},{"label":"Rejinagar, BJP","value":75816},{"label":"Madurantakam (SC), TVK","value":20081},{"label":"Dharapuram (SC), TVK","value":9471},{"label":"Thattanchavady, AINRC","value":8482}],"source":"DD News (EC figures), PTI, ETV Bharat, South First, The Pioneer; 9 Oct 2026"}
+{"type":"hbar","title":"Winning margins in the October 6 bypolls","subtitle":"Votes","unit":"votes","data":[{"label":"Nagaon (LS), BJP","value":142224,"highlight":true},{"label":"Nandigram, BJP","value":122753},{"label":"Rejinagar, BJP","value":75816},{"label":"Madurantakam (SC), TVK","value":20081},{"label":"Dharapuram (SC), TVK","value":9471},{"label":"Thattanchavady, AINRC","value":8482}],"source":"DD News (EC figures), PTI, ETV Bharat, South First, The Pioneer; Oct 9, 2026"}
 ```
 
 ## Assam: BJP takes Nagaon from the Congress
@@ -113,7 +113,7 @@ Rejinagar was vacated by Humayun Kabir, who won two seats in 2026 and kept Naoda
 
 > Nationalist forces are all set to win both the seats. Bengali Muslim voters have supported the BJP in both the seats.
 >
-> Source: Suvendu Adhikari, Chief Minister of West Bengal, 9 October 2026 (PTI)
+> Source: Suvendu Adhikari, Chief Minister of West Bengal, October 9, 2026 (PTI)
 
 PTI noted that the results alone do not establish how any community voted.
 
@@ -128,9 +128,9 @@ TVK won 108 of the 234 seats in this year's assembly election, IANS reported. So
 Thattanchavady was vacated by Chief Minister N. Rangasamy. AINRC's Ashok Anand won 13,358 votes against 4,876 for the Congress's E. Vinayagam, a margin of 8,482, The Pioneer reported citing the Election Commission. The DMK's K. Sethu polled 2,664. Turnout was 80.81%, down from 87.20% in April, according to India TV.
 
 ```facts
-{"title":"6 October bypolls at a glance","items":[{"value":"6","label":"seats: 1 Lok Sabha, 5 assembly","source":"ETV Bharat"},{"value":"3","label":"seats won by the BJP (Nagaon, Nandigram, Rejinagar)","source":"PTI, DD News"},{"value":"2","label":"seats won by TVK (Madurantakam, Dharapuram)","source":"South First"},{"value":"86.26%","label":"turnout in Madurantakam, the highest reported","source":"The Pioneer"}]}
+{"title":"October 6 bypolls at a glance","items":[{"value":"6","label":"seats: 1 Lok Sabha, 5 assembly","source":"ETV Bharat"},{"value":"3","label":"seats won by the BJP (Nagaon, Nandigram, Rejinagar)","source":"PTI, DD News"},{"value":"2","label":"seats won by TVK (Madurantakam, Dharapuram)","source":"South First"},{"value":"86.26%","label":"turnout in Madurantakam, the highest reported","source":"The Pioneer"}]}
 ```
 
 ## What comes next
 
-The next contests on the calendar are the assembly elections due in Manipur, Goa, Punjab, Uttarakhand and Uttar Pradesh, which reports expect in February and March 2027. Rajya Sabha seats from Uttar Pradesh, Uttarakhand and West Bengal that were due to be filled on 16 October were all decided unopposed on 9 October, DD News reported. See our [election calendar](/en/tracker/election-calendar).
+The next contests on the calendar are the assembly elections due in Manipur, Goa, Punjab, Uttarakhand and Uttar Pradesh, which reports expect in February and March 2027. Rajya Sabha seats from Uttar Pradesh, Uttarakhand and West Bengal that were due to be filled on October 16 were all decided unopposed on October 9, DD News reported. See our [election calendar](/en/tracker/election-calendar).

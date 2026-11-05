@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (Business Standard, 18 Oct 6:43 pm IST). Q2 revenue ₹1,691 cr vs ₹1,071 cr (+57.93%), EBITDA ₹303 cr vs ₹238 cr (+27.48%), PAT ₹231 cr vs ₹176 cr (+31.33%); H1 PAT ₹460 cr (+29%), revenue ₹3,123 cr (+43%), EBITDA ₹616 cr (+30%). Consolidated."
+    - "Single source (Business Standard, Oct 18 6:43 pm IST). Q2 revenue ₹1,691 cr vs ₹1,071 cr (+57.93%), EBITDA ₹303 cr vs ₹238 cr (+27.48%), PAT ₹231 cr vs ₹176 cr (+31.33%); H1 PAT ₹460 cr (+29%), revenue ₹3,123 cr (+43%), EBITDA ₹616 cr (+30%). Consolidated."
     - "Quotes from Anurag Choudhary are partial sentences as given in the source. Company filing to BSE/NSE not read."
     - "HQ Kolkata from general knowledge of the company; BS dateline was Bhubaneswar (reporter's base)."
 ---

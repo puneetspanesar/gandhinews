@@ -22,7 +22,7 @@ hero:
     value: "Dow up 403 points at the open"
 related: [sensex-nifty-close-november-2, oil-slips-monday-brent-111-iran-qatar-talks-november-2, markets-week-ahead-us-midterms-itc-sbi-results-november-2, fed-holds-rates-3-75-4-two-dissent-hike, oil-falls-4-per-cent-brent-108-iran-draft-proposal-qatar]
 seo:
-  description: "Wall Street on 2 November 2026: Dow opens up 403 points at 52,173.40, S&P 500 up 0.45% and Nasdaq up 0.63% as oil falls on Iran peace hopes before the US midterms."
+  description: "Wall Street on November 2, 2026: Dow opens up 403 points at 52,173.40, S&P 500 up 0.45% and Nasdaq up 0.63% as oil falls on Iran peace hopes before the US midterms."
 cover:
   template: business
   label: "Wall Street"
@@ -61,7 +61,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov 20:00 IST (9:30 am ET, US on standard time after 1 Nov), opening levels from the Reuters open report published 9:38 am ET. Dow +403.09 (0.78%) 52,173.40; S&P +33.80 (0.45%) 7,613.87; Nasdaq +159.07 (0.63%) 25,596.07."
+    - "event: Nov 2 20:00 IST (9:30 am ET, US on standard time after Nov 1), opening levels from the Reuters open report published 9:38 am ET. Dow +403.09 (0.78%) 52,173.40; S&P +33.80 (0.45%) 7,613.87; Nasdaq +159.07 (0.63%) 25,596.07."
     - "Friday falls (S&P -1.82%, Nasdaq -2.86%), Stoxx 600 -0.10%, polls (Democrats favoured for House, Senate too close to call) and Cau quote from the Reuters European midday report on Euronext (13:41 CET)."
     - "Apple 'slightly lower' ahead of results: MediaBias aggregation citing IBD; no percentage used. Investing.com ticker figures for individual stocks and oil were undated and NOT used."
     - "Brent about $108.6 from the Reuters oil report (Kitco, updated 14:27 GMT); written as 'around $109' in a hedged way."

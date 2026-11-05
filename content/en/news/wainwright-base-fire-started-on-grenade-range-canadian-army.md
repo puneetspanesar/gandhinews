@@ -22,7 +22,7 @@ hero:
     value: "A grenade range, then a firestorm"
 related: [wainwright-base-fire-kills-four-soldiers-alberta-votes]
 seo:
-  description: "The fire that killed four soldiers and injured 39 at Canada's Wainwright base was sparked by a live-grenade exercise and spread by a wind shift, the military police chief said on 22 October."
+  description: "The fire that killed four soldiers and injured 39 at Canada's Wainwright base was sparked by a live-grenade exercise and spread by a wind shift, the military police chief said on October 22."
 sources:
   - title: "Grenade exercise sparked deadly fire at Canada military base, army says"
     publisher: "Al Jazeera"
@@ -32,8 +32,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: Al Jazeera with AFP and Reuters, 23 Oct. Brig-Gen Vanessa Hanrahan briefing on Thursday 22 Oct (Canada time). Quote fragment verbatim as given."
-    - "Fire date: 'Saturday' = 17 Oct, consistent with existing Gandhi News story of 19 Oct."
+    - "Single source: Al Jazeera with AFP and Reuters, Oct 23. Brig-Gen Vanessa Hanrahan briefing on Thursday, Oct 22 (Canada time). Quote fragment verbatim as given."
+    - "Fire date: 'Saturday' = Oct 17, consistent with existing Gandhi News story of Oct 19."
     - "Unit: about 84 soldiers, Charlie Company, 3rd Battalion PPCLI."
 ---
 

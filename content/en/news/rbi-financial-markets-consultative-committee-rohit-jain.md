@@ -42,7 +42,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 4 Nov, report 12:29 IST; RBI press release quoted. Members and mandate from one report."
+    - "event: Nov 4, report 12:29 IST; RBI press release quoted. Members and mandate from one report."
 ---
 
 The Reserve Bank of India has set up a **Technical Consultative Committee for Financial Markets**, a standing panel of bankers, market experts and academics that will advise it on the money, government bond and currency markets.

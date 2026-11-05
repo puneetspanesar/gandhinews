@@ -6,11 +6,11 @@ section: economy
 format_label: "Economy / Results"
 topics: [economy]
 title: "Bajaj Finance, UltraTech and Hindustan Zinc lead Monday's results"
-standfirst: "About two dozen companies are due to report September-quarter numbers on 19 October, from consumer lenders and cement to zinc and a state-run bank."
+standfirst: "About two dozen companies are due to report September-quarter numbers on October 19, from consumer lenders and cement to zinc and a state-run bank."
 published: 2026-10-18T05:20:00+05:30
 location: Mumbai
 keyPoints:
-  - "About **two dozen companies** are scheduled to report on Monday, 19 October."
+  - "About **two dozen companies** are scheduled to report on Monday, October 19."
   - "Bajaj Finance has set an **earnings call for the same day**."
   - "Union Bank of India follows **record profits at PNB** and gains at the big private banks."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "Monday: lenders, cement, zinc"
 related: [results-week-ahead-infosys-kotak-bajaj-finance-jio-ipo, bajaj-housing-finance-q2-profit-rises-18-per-cent, pnb-federal-bank-q2-profit-record, icici-bank-q2-profit-rises-20-per-cent-loans-30, gold-silver-crude-prices-october-16]
 seo:
-  description: "Bajaj Finance, UltraTech Cement, Hindustan Zinc, Union Bank of India, IREDA and LTTS are among about 24 companies due to report Q2 FY27 results on 19 October 2026."
+  description: "Bajaj Finance, UltraTech Cement, Hindustan Zinc, Union Bank of India, IREDA and LTTS are among about 24 companies due to report Q2 FY27 results on October 19, 2026."
 sources:
   - title: "Q2 Results October 19, 2026: Bajaj Finance, UltraTech Cement and More"
     publisher: "Kalkine India"
@@ -53,7 +53,7 @@ verification:
     - "Bajaj Housing Finance, PNB, ICICI figures from the site's own earlier stories. Group affiliations (Aditya Birla, Vedanta) are standard descriptions, not separately sourced this run."
 ---
 
-Monday brings the first big batch of results in what is shaping up to be a crowded week, with about two dozen companies due to report their July-September numbers on 19 October.
+Monday brings the first big batch of results in what is shaping up to be a crowded week, with about two dozen companies due to report their July-September numbers on October 19.
 
 The best-known names are Bajaj Finance, the consumer and business lender, and UltraTech Cement, the Aditya Birla group's cement maker. Bajaj Finance has scheduled an earnings call with analysts for the same day. Its mortgage arm, Bajaj Housing Finance, reported on Friday that its profit rose 18% as its home loan book grew 25%.
 

@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: EquityBulls (24 Oct, 4:04 pm), carrying the company's release. Castrol India follows the calendar year, so July-September is its third quarter. The 23% fall is calculated from ₹176 crore and ₹228 crore."
+    - "Single source: EquityBulls (Oct 24, 4:04 pm), carrying the company's release. Castrol India follows the calendar year, so July-September is its third quarter. The 23% fall is calculated from ₹176 crore and ₹228 crore."
     - "Quotes from Saugata Basuray and Mrinalini Srinivasan as carried in the release."
     - "Volume figures not given beyond 'double-digit' industrial volume growth."
 ---

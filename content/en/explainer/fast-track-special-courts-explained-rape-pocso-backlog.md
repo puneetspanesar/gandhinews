@@ -8,7 +8,7 @@ topics: []
 title: "Fast-track special courts explained: why rape and POCSO trials still take so long"
 standfirst: "The Union Cabinet on Wednesday kept the fast-track courts for rape and child sexual abuse cases going until 2031 and promised 71 more. What these courts are, how much faster they work, and why the pile of pending cases has grown anyway."
 published: 2026-11-05T06:20:00+05:30
-shortAnswer: "Fast Track Special Courts (FTSCs) are dedicated trial courts, paid for jointly by the Centre and the states, that hear only rape cases and offences under the Protection of Children from Sexual Offences (POCSO) Act. The scheme began on 2 October 2019 with a target of 1,023 courts; about 779 work today, and on 4 November 2026 the Cabinet extended it to 31 March 2031 at a cost of ₹3,788.04 crore, with plans for 850 courts. The courts decide cases roughly three times as fast as regular courts and have disposed of more than 4.02 lakh cases, but new cases have been arriving faster still: pending cases in these courts rose to 2,45,579 at the end of 2025, and convictions remain low."
+shortAnswer: "Fast Track Special Courts (FTSCs) are dedicated trial courts, paid for jointly by the Centre and the states, that hear only rape cases and offences under the Protection of Children from Sexual Offences (POCSO) Act. The scheme began on October 2, 2019, with a target of 1,023 courts; about 779 work today, and on November 4, 2026, the Cabinet extended it to March 31, 2031, at a cost of ₹3,788.04 crore, with plans for 850 courts. The courts decide cases roughly three times as fast as regular courts and have disposed of more than 4.02 lakh cases, but new cases have been arriving faster still: pending cases in these courts rose to 2,45,579 at the end of 2025, and convictions remain low."
 hero:
   need: "Law Minister Arjun Ram Meghwal, whose ministry's Department of Justice runs the fast-track courts scheme"
   suggested_source: "Arjun Ram Meghwal"
@@ -26,7 +26,7 @@ infographic:
     - {icon: hourglass, value: "2.46 lakh", label: "cases pending in these courts, end of 2025"}
     - {icon: gavel, value: "4.02 lakh", label: "cases disposed since October 2019"}
   chart: {type: columns, title: "Cases disposed by fast-track courts each year", highlight: -1, items: [{label: "2023", value: 76319, display: "76,319"}, {label: "2024", value: 85595, display: "85,595"}, {label: "2025", value: 66500, display: "66,500"}]}
-  source: "Union Cabinet, 4 November 2026; Law Ministry reply in Lok Sabha, 24 July 2026"
+  source: "Union Cabinet, November 4, 2026; Law Ministry reply in Lok Sabha, July 24, 2026"
 related: [cabinet-fast-track-special-courts-2031-850-courts]
 seo:
   description: "What fast-track special courts for rape and POCSO cases are, why the Cabinet extended them to 2031 with 850 courts, how fast they work, how big the backlog is and what conviction data shows."
@@ -64,11 +64,11 @@ sources:
 verification:
   status: approved
   notes:
-    - "2026 Cabinet decision (till 31 March 2031, 779 to 850 courts, ₹3,788.04 crore, Centre ₹2,353.15 crore via Nirbhaya Fund, states ₹1,434.89 crore, 4.02 lakh disposals, staffing, dashboard, Vaishnaw quote) from the desk's 4 Nov news story and its sources (Deccan Chronicle, Dynamite News, UNI). PIB release not opened."
-    - "Launch date 2 October 2019 and the 2023 extension (to 31 March 2026, ₹1,952.23 crore, Centre ₹1,207.24 crore from Nirbhaya Fund) from the November 2023 Cabinet release republished on narendramodi.in. Original target of 1,023 courts from IAS Gyan summary only."
-    - "Pending 2,45,579 (end 2025) and 2,04,122 (end 2024); instituted 1,43,936 / 88,902 / 81,471; disposed 66,500 / 85,595 / 76,319 for 2025 / 2024 / 2023; 775 courts incl. 398 exclusive POCSO courts on 30 April 2026; Jharkhand exit July 2025; ₹1,259.51 crore released since 2019; UP 218 courts; Andhra 16 and no release in three years: Law Ministry written reply by MoS Arjun Ram Meghwal, Lok Sabha, 24 July 2026, as reported by The South First. Reply not opened. The year-on-year figures do not add up exactly (transfers likely), so the copy does not do arithmetic on them."
-    - "9.51 vs 3.26 cases per court per month: Union government statement of 11 December 2025, as cited by The South First."
-    - "19% FTSC conviction rate in 2024, 510-day average POCSO case duration, 109% overall POCSO disposal rate in 2025 and the Praharaj quote: C-LAB / India Child Protection report as reported by ThePrint, 31 December 2025. These cover all courts handling POCSO cases unless stated."
+    - "2026 Cabinet decision (till March 31, 2031, 779 to 850 courts, ₹3,788.04 crore, Centre ₹2,353.15 crore via Nirbhaya Fund, states ₹1,434.89 crore, 4.02 lakh disposals, staffing, dashboard, Vaishnaw quote) from the desk's Nov 4 news story and its sources (Deccan Chronicle, Dynamite News, UNI). PIB release not opened."
+    - "Launch date October 2, 2019, and the 2023 extension (to March 31, 2026, ₹1,952.23 crore, Centre ₹1,207.24 crore from Nirbhaya Fund) from the November 2023 Cabinet release republished on narendramodi.in. Original target of 1,023 courts from IAS Gyan summary only."
+    - "Pending 2,45,579 (end 2025) and 2,04,122 (end 2024); instituted 1,43,936 / 88,902 / 81,471; disposed 66,500 / 85,595 / 76,319 for 2025 / 2024 / 2023; 775 courts incl. 398 exclusive POCSO courts on April 30, 2026; Jharkhand exit July 2025; ₹1,259.51 crore released since 2019; UP 218 courts; Andhra 16 and no release in three years: Law Ministry written reply by MoS Arjun Ram Meghwal, Lok Sabha, July 24, 2026, as reported by The South First. Reply not opened. The year-on-year figures do not add up exactly (transfers likely), so the copy does not do arithmetic on them."
+    - "9.51 vs 3.26 cases per court per month: Union government statement of December 11, 2025, as cited by The South First."
+    - "19% FTSC conviction rate in 2024, 510-day average POCSO case duration, 109% overall POCSO disposal rate in 2025 and the Praharaj quote: C-LAB / India Child Protection report as reported by ThePrint, December 31, 2025. These cover all courts handling POCSO cases unless stated."
     - "Criminal Law (Amendment) Act, 2018 and a Supreme Court directive as origins: Deccan Chronicle via the news story. Case name not given in copy."
 ---
 
@@ -80,13 +80,13 @@ Each court has a judicial officer, a special public prosecutor and six support s
 
 ## Where did the scheme come from?
 
-The Centre launched it on **2 October 2019**, after Parliament passed the Criminal Law (Amendment) Act, 2018 following a string of child rape cases, and after the Supreme Court pressed for faster trials. The target was 1,023 courts. It is a centrally sponsored scheme: the Centre's share comes from the **Nirbhaya Fund**, set up after the 2012 Delhi gang rape, and the states and Union Territories pay the rest.
+The Centre launched it on **October 2, 2019**, after Parliament passed the Criminal Law (Amendment) Act, 2018 following a string of child rape cases, and after the Supreme Court pressed for faster trials. The target was 1,023 courts. It is a centrally sponsored scheme: the Centre's share comes from the **Nirbhaya Fund**, set up after the 2012 Delhi gang rape, and the states and Union Territories pay the rest.
 
-Not every state signed up for its full quota, and the network never reached the target. The scheme was extended once before, in November 2023, until 31 March 2026 at a cost of ₹1,952.23 crore.
+Not every state signed up for its full quota, and the network never reached the target. The scheme was extended once before, in November 2023, until March 31, 2026, at a cost of ₹1,952.23 crore.
 
 ## What did the Cabinet decide on Wednesday?
 
-**Five more years, until 31 March 2031.** The Cabinet approved ₹3,788.04 crore for the period, of which the Centre will pay ₹2,353.15 crore and the states ₹1,434.89 crore. The number of working courts is to rise **from about 779 to 850**, with the new ones placed in districts where these cases pile up. Union Minister Ashwini Vaishnaw said the extension was meant "to ensure faster justice in cases of rape and child sexual abuse".
+**Five more years, until March 31, 2031.** The Cabinet approved ₹3,788.04 crore for the period, of which the Centre will pay ₹2,353.15 crore and the states ₹1,434.89 crore. The number of working courts is to rise **from about 779 to 850**, with the new ones placed in districts where these cases pile up. Union Minister Ashwini Vaishnaw said the extension was meant "to ensure faster justice in cases of rape and child sexual abuse".
 
 The Department of Justice, in the Law Ministry, will track each court through an online dashboard and regular reviews with High Courts and state governments.
 
@@ -100,9 +100,9 @@ The Department of Justice, in the Law Ministry, will track each court through an
 
 ## Then why is the backlog growing?
 
-**Because new cases are arriving faster than the courts can clear them.** In a written reply in the Lok Sabha on 24 July 2026, Law Minister Arjun Ram Meghwal's ministry said **1,43,936 cases were filed in these courts in 2025**, against 88,902 the year before, while disposals fell to 66,500. Pending cases rose from 2,04,122 at the end of 2024 to 2,45,579 at the end of 2025.
+**Because new cases are arriving faster than the courts can clear them.** In a written reply in the Lok Sabha on July 24, 2026, Law Minister Arjun Ram Meghwal's ministry said **1,43,936 cases were filed in these courts in 2025**, against 88,902 the year before, while disposals fell to 66,500. Pending cases rose from 2,04,122 at the end of 2024 to 2,45,579 at the end of 2025.
 
-Capacity is the other half of the problem. As of 30 April 2026 only 775 courts were working, 398 of them exclusive POCSO courts. Jharkhand left the scheme in July 2025 and has no FTSC at all, and the Centre had released **₹1,259.51 crore to states since 2019**, including ₹200 crore in each of the last three financial years, though its share for 2023 to 2026 alone had been fixed at ₹1,207.24 crore. Andhra Pradesh, with 16 courts, received nothing from the Centre in three years, the ministry's figures showed.
+Capacity is the other half of the problem. As of April 30, 2026, only 775 courts were working, 398 of them exclusive POCSO courts. Jharkhand left the scheme in July 2025 and has no FTSC at all, and the Centre had released **₹1,259.51 crore to states since 2019**, including ₹200 crore in each of the last three financial years, though its share for 2023 to 2026 alone had been fixed at ₹1,207.24 crore. Andhra Pradesh, with 16 courts, received nothing from the Centre in three years, the ministry's figures showed.
 
 The spread is uneven too. **Uttar Pradesh alone has 218 courts**, far more than any other state.
 

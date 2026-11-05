@@ -27,7 +27,7 @@ cover:
   bg: "Vijayawada rain"
 related: [murasu-crosses-andhra-coast-naguluppalapadu-198-mm-trees-down, cyclone-murasu-landfall-kothapatnam-ongole-naidu-alert, naidu-cyclone-murasu-review-cancels-delhi-visit]
 seo:
-  description: "South Coast Railway cancelled nine trains on Vijayawada, Guntur and Tenali routes for Cyclone Murasu, and NTR district moved Mogalrajapuram families to relief camps over landslide fears on 3 November."
+  description: "South Coast Railway cancelled nine trains on Vijayawada, Guntur and Tenali routes for Cyclone Murasu, and NTR district moved Mogalrajapuram families to relief camps over landslide fears on November 3."
 sources:
   - title: "Cyclone Murasu Live: 19 Flights Cancelled As Landfall Continues At Andhra Coast"
     publisher: "The Daily Jagran"
@@ -47,8 +47,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 3 Nov, morning updates in Daily Jagran live blog (byline 07:57 IST, updated 08:06 IST); individual entries untimed, so exact minute of the SCoR cancellation notice and Collector Lakshmisha's remarks is not known. Listed in the live blog as current-morning items."
-    - "Train list (67225, 12744, 67235, 67237 on 2 Nov; 67226, 12743, 67236, 67238, 67239 on 3 Nov) and Lakshmisha remarks: single source (Daily Jagran), paraphrased. Source gives the Collector's name only as Lakshmisha."
+    - "event: Nov 3, morning updates in Daily Jagran live blog (byline 07:57 IST, updated 08:06 IST); individual entries untimed, so exact minute of the SCoR cancellation notice and Collector Lakshmisha's remarks is not known. Listed in the live blog as current-morning items."
+    - "Train list (67225, 12744, 67235, 67237 on Nov 2; 67226, 12743, 67236, 67238, 67239 on Nov 3) and Lakshmisha remarks: single source (Daily Jagran), paraphrased. Source gives the Collector's name only as Lakshmisha."
     - "Red warnings and fishermen advisory: K Nagaratna, Director, IMD Amaravati, as quoted in Daily Jagran; quote used verbatim. Eluru holiday from Sakshi Post (07:53 IST)."
 ---
 

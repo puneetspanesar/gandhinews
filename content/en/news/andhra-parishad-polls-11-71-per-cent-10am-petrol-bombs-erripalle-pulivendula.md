@@ -31,7 +31,7 @@ infographic:
     - {icon: map-pin, value: "35.4%", label: "Visakhapatnam at 11 am"}
     - {icon: users-three, value: "2.61 crore", label: "voters, 7,767 MPTC and 582 ZPTC seats"}
   chart: {type: columns, title: "Statewide turnout through the morning, %", highlight: -1, items: [{label: "9 am", value: 4.8, display: "4.8%"}, {label: "10 am", value: 11.71, display: "11.71%"}, {label: "11 am", value: 21.12, display: "21.12%"}]}
-  source: "Andhra Pradesh parishad poll turnout, 5 November 2026"
+  source: "Andhra Pradesh parishad poll turnout, November 5, 2026"
 related: [ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent, andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead, andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6, andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous]
 seo:
   description: "Andhra Pradesh MPTC-ZPTC polls recorded 21.12% turnout by 11 am on November 5, 2026, up from 11.71% at 10 am; petrol bombs were allegedly hurled near a booth in Erripalle, Pulivendula, and YSRCP workers clashed with police in Gurajala."
@@ -64,7 +64,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 5 Nov 10:00 IST turnout figure (11.71% statewide, Chittoor 15.12%, Bapatla 7.34%), reported by Daily Jagran at 12:02 pm IST, updated 12:15 pm. Erripalle petrol bombs and Gurajala clash: same report, single source, exact time of incidents not given; written as 'allegedly'. No injuries reported; no attacker or target named; no police quote on Erripalle. Gurajala police position is paraphrased in the source, not a direct quote."
+    - "event: Nov 5 10:00 IST turnout figure (11.71% statewide, Chittoor 15.12%, Bapatla 7.34%), reported by Daily Jagran at 12:02 pm IST, updated 12:15 pm. Erripalle petrol bombs and Gurajala clash: same report, single source, exact time of incidents not given; written as 'allegedly'. No injuries reported; no attacker or target named; no police quote on Erripalle. Gurajala police position is paraphrased in the source, not a direct quote."
     - "Prakasam 10.8% at 9 am, collector and SP visits: Hans India 11:06 am IST. Minister Anam Ramanarayana Reddy in A.S. Pet mandal: Hans India live blog 11:02 am. 11 am statewide figure not yet found at time of writing."
     - "Seat and security numbers: Telangana Today 10:03 am IST."
 ---
@@ -88,4 +88,4 @@ Elsewhere, voting was calmer. In Prakasam district, which logged 10.8% by 9 am, 
 
 The State Election Commission has deployed more than **two lakh polling staff** across 31,460 polling stations, 8,904 of them marked sensitive and 7,160 hyper-sensitive. Extra forces have been sent to Palnadu, Annamayya, YSR Kadapa and Tirupati districts.
 
-About 2.61 crore voters are choosing among 21,012 candidates for 582 ZPTC and 7,767 MPTC seats. Polling closes at 5 pm. Any repoll will be held on Friday, and **votes will be counted on 7 November**.
+About 2.61 crore voters are choosing among 21,012 candidates for 582 ZPTC and 7,767 MPTC seats. Polling closes at 5 pm. Any repoll will be held on Friday, and **votes will be counted on November 7**.

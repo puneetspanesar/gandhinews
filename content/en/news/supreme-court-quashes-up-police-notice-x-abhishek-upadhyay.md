@@ -38,7 +38,7 @@ verification:
   notes:
     - "Single outlet (LiveLaw report and 2:33 pm alert). Abhishek Upadhyay v State of UP, W.P.(Crl.) 339/2026; CJI Kant and Bagchi J. Bagchi J quote verbatim from the alert."
     - "Penal provisions in the FIR not reported. Name of complainant not reported."
-    - "Interim protection date 25 August (year assumed 2026, not stated)."
+    - "Interim protection date August 25 (year assumed 2026, not stated)."
     - "data-protection topic used loosely for personal digital data seizure."
 ---
 
@@ -54,6 +54,6 @@ Police then wrote to X seeking his login and logout IP addresses, email ID, IMEI
 
 ## What the court ordered
 
-The bench held that no confidential or personal information can be sought for the period before the alleged incident, and that even for the period after the FIR it may be sought only if other means are inadequate. It made absolute the protection from coercive action granted on 25 August, as long as Upadhyay cooperates with the investigation, and directed police to release his seized vehicle within two days.
+The bench held that no confidential or personal information can be sought for the period before the alleged incident, and that even for the period after the FIR it may be sought only if other means are inadequate. It made absolute the protection from coercive action granted on August 25, as long as Upadhyay cooperates with the investigation, and directed police to release his seized vehicle within two days.
 
 The court did not rule on the FIR itself, leaving Upadhyay free to challenge it before the High Court. Senior advocate Pradeep Rai, appearing for him, had also sought guidelines on how police seize digital data. The bench said that question should be raised in a suitable petition, with the Union government made a party.

@@ -11,7 +11,7 @@ published: 2026-11-05T08:10:00+05:30
 location: Vijayawada
 keyPoints:
   - "Polling for **582 ZPTC and 7,767 MPTC seats** began across Andhra Pradesh at 7 am."
-  - "Four Eluru district mandals will now **vote on Friday, 6 November**, because of Cyclone Murasu."
+  - "Four Eluru district mandals will now **vote on Friday, November 6**, because of Cyclone Murasu."
   - "About **40,000 police personnel** are guarding the polling stations."
 hero:
   need: "Voters at a rural polling station in Andhra Pradesh, or rain and flooding from Cyclone Murasu in Eluru district"
@@ -34,14 +34,14 @@ infographic:
     - {icon: map-pin, value: "7,767", label: "MPTC seats going to the polls"}
     - {icon: shield-check, value: "40,000", label: "police personnel on duty"}
   timeline:
-    - {date: "5 Nov, 7 am", text: "Polling opens statewide", icon: check-square}
-    - {date: "5 Nov, 5 pm", text: "Polling closes", icon: clock}
-    - {date: "6 Nov", text: "Four Eluru mandals vote", icon: cloud-rain}
-    - {date: "7 Nov", text: "Counting", icon: calendar}
-  source: "Andhra Pradesh State Election Commission, 5 November 2026"
+    - {date: "Nov 5, 7 am", text: "Polling opens statewide", icon: check-square}
+    - {date: "Nov 5, 5 pm", text: "Polling closes", icon: clock}
+    - {date: "Nov 6", text: "Four Eluru mandals vote", icon: cloud-rain}
+    - {date: "Nov 7", text: "Counting", icon: calendar}
+  source: "Andhra Pradesh State Election Commission, November 5, 2026"
 related: [andhra-mptc-zptc-polling-today-2-81-crore-voters, andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous, murasu-crosses-andhra-coast-naguluppalapadu-198-mm-trees-down, andhra-mptc-zptc-nominations-ysrcp-alleges-attacks]
 seo:
-  description: "Andhra Pradesh MPTC and ZPTC polling began at 7 am on 5 November 2026; Cyclone Murasu forced polls in four Eluru mandals to 6 November."
+  description: "Andhra Pradesh MPTC and ZPTC polling began at 7 am on November 5, 2026; Cyclone Murasu forced polls in four Eluru mandals to November 6."
 sources:
   - title: "LIVE: Polling for ZPTC, MPTC Seats Begins in AP"
     publisher: "Deccan Chronicle"
@@ -66,14 +66,14 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 5 Nov 07:00 IST polling opens; postponement of four Eluru mandals to 6 Nov reported 07:45 IST (Deccan Chronicle live); NewsMeter mentioned postponement already at 06:36 IST, so the SEC decision may predate 06:00."
+    - "event: Nov 5 07:00 IST polling opens; postponement of four Eluru mandals to Nov 6 reported 07:45 IST (Deccan Chronicle live); NewsMeter mentioned postponement already at 06:36 IST, so the SEC decision may predate 06:00."
     - "No turnout figures published by 08:10 IST (first SEC figure usually 9 am); no incidents reported in sources read. Not written."
     - "Seat counts 582 ZPTC / 7,767 MPTC per NTV and TV9 (Deccan Chronicle says 7,778 MPTC; went with the two that agree). Polling stations: TV9 31,460, DC 31,472 booths, so copy says 'about 31,500'. MPTC candidate count differs (18,843 NTV, 18,952 TV9), so copy says 'nearly 19,000'. ZPTC candidates 2,169 both."
     - "Voter split 1.28 crore men, 1.32 crore women, 1,282 others: NTV. 2.52 lakh staff: TV9. 40,000 police: DC and TV9."
     - "NewsMeter also mentions East Godavari postponements without naming mandals; left out as unconfirmed."
 ---
 
-Rural Andhra Pradesh began voting at 7 am on Thursday to choose **members of its mandal and zilla parishads**, but four mandals in Eluru district will have to wait a day. The State Election Commission put off polling in Buttaigudem, Jeelugumilli, Velerupadu and Polavaram to Friday, 6 November, **owing to heavy rains caused by Cyclone Murasu**.
+Rural Andhra Pradesh began voting at 7 am on Thursday to choose **members of its mandal and zilla parishads**, but four mandals in Eluru district will have to wait a day. The State Election Commission put off polling in Buttaigudem, Jeelugumilli, Velerupadu and Polavaram to Friday, November 6, **owing to heavy rains caused by Cyclone Murasu**.
 
 Elsewhere, polling stations opened on time for **582 ZPTC and 7,767 MPTC seats**, the ones left after 77 zilla parishad and 2,051 mandal parishad seats were decided unopposed. There are 2,169 candidates in the ZPTC contests and nearly 19,000 for MPTC seats. Voting ends at 5 pm.
 
@@ -85,4 +85,4 @@ In the Paderu agency area of Alluri Sitarama Raju district, about 30 families of
 
 Many voters had a long journey of a different kind. On Wednesday night the MGBS and LB Nagar bus stations in Hyderabad were packed with people from Andhra heading home to vote, some of them **waiting till midnight for a bus** in the rush of Diwali travel.
 
-The vote follows a tense run-up, with the YSR Congress Party alleging attacks on its candidates during nominations. No turnout figure had been released by 8 am. **Counting is on Saturday**, 7 November.
+The vote follows a tense run-up, with the YSR Congress Party alleging attacks on its candidates during nominations. No turnout figure had been released by 8 am. **Counting is on Saturday**, November 7.

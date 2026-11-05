@@ -21,7 +21,7 @@ hero:
     value: "The energy truce is over"
 related: [trump-announces-russia-ukraine-energy-ceasefire, musk-starlink-ukraine-throttling-us-military, drone-attack-sinks-ship-off-bulgaria-black-sea]
 seo:
-  description: "Ukraine struck a refinery in Russia's Ryazan region on 15 October after Zelenskyy said the US-announced energy ceasefire was over. Russia sent 850 drones overnight."
+  description: "Ukraine struck a refinery in Russia's Ryazan region on October 15 after Zelenskyy said the US-announced energy ceasefire was over. Russia sent 850 drones overnight."
 sources:
   - title: "Ukraine resumes attacks on Russian oil refineries, officials say, as US relations teeter"
     publisher: "AP via WRAL"

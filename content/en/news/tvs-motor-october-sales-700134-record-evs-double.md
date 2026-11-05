@@ -37,7 +37,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov 2026, TVS Motor October sales release; earliest report found timestamped 14:51 IST (09:21 UTC). Exact release time not confirmed; treated as falling inside the 13:10-15:10 window."
+    - "event: Nov 1, 2026, TVS Motor October sales release; earliest report found timestamped 14:51 IST (09:21 UTC). Exact release time not confirmed; treated as falling inside the 13:10-15:10 window."
     - "October 2026 figures rest on one report (Whalesbook), which summarises the company release; the release/BSE filing itself was not opened. Growth rates cross-check exactly against the company's October 2025 release (total 5,43,557; 2W 5,25,150; domestic 2W 4,21,631; 3W 18,407; EV 32,387)."
     - "Motorcycle and scooter splits for October 2026 were not available, so they are left out. 'Record' not used in headline because the 2026 release wording was not seen, though 7,00,134 is well above every monthly figure we have seen."
     - "Searches for Bajaj, Eicher/Royal Enfield, Hero, Kia, Toyota, JSW MG and Ashok Leyland October 2026 figures in the window found nothing usable."

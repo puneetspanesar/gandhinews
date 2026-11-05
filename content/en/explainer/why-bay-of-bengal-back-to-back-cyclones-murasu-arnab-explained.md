@@ -43,8 +43,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Event dates in the timeline (low on 21 Oct, depression 24 Oct about 820 km ESE of Visakhapatnam, Arnab landfall 28 Oct, Murasu named 1 Nov, severe 2 Nov, landfall under way near Kothapatnam about 5 am 3 Nov) are from the desk's own news stories and their IMD-based sources. Arnab death toll 'at least seven' from our 2 Nov editorial. IMD bulletin PDF found in search, not opened."
-    - "Science: SST 29 to 31°C in the Bay, the 26.5°C threshold with warm water to about 60 m, wind shear below 10 m/s, Pacific remnants via Myanmar, favourable MJO, October to December as the stronger season: Legacy IAS explainer (28 Oct 2025)."
+    - "Event dates in the timeline (low on Oct 21, depression Oct 24 about 820 km ESE of Visakhapatnam, Arnab landfall Oct 28, Murasu named Nov 1, severe Nov 2, landfall under way near Kothapatnam about 5 am Nov 3) are from the desk's own news stories and their IMD-based sources. Arnab death toll 'at least seven' from our Nov 2 editorial. IMD bulletin PDF found in search, not opened."
+    - "Science: SST 29 to 31°C in the Bay, the 26.5°C threshold with warm water to about 60 m, wind shear below 10 m/s, Pacific remnants via Myanmar, favourable MJO, October to December as the stronger season: Legacy IAS explainer (Oct 28, 2025)."
     - "Bay has about four times as many cyclones as the Arabian Sea, salinity at least 3 units lower, freshwater stratification strongest in October, higher cyclone heat potential, cooling of about 1°C during and up to 3°C after Cyclone Titli (2018): Frontiers in Marine Science paper (2021). The link from freshwater layering to keeping warmth near the surface is stated generally; the paper itself frames stratification as limiting mixing."
     - "MJO 30 to 60 day cycle, May and November the most conducive months, North Indian Ocean bimodal season, about five of roughly 80 global cyclones a year: IAS Gyan reproduction of an Indian Express explainer; date of original not shown on page, date in sources is approximate."
     - "That Arnab and Murasu came in the same favourable spell is the desk's reading of how the MJO works, written as 'can' and 'likely', not as an IMD statement. No IMD statement on the MJO phase this week was read. Climate change is deliberately not discussed: no source read on its role in these two storms."
@@ -65,7 +65,7 @@ The Bay also has more fuel stored below the surface than the Arabian Sea. A 2021
 The Bay receives more rain and river water than it loses to evaporation, and its surface is at least 3 units less salty than the Arabian Sea. That lighter fresh water floats on top and the layering is at its strongest in October, just as the post-monsoon storm season begins. A sea layered like this mixes less, which helps a warm surface layer stay in place for storms to feed on.
 
 ```photo
-{"n":1,"subject":"Cyclone Arnab","caption":"Cyclone Arnab, which crossed the Andhra Pradesh coast on 28 October and flooded large parts of south Odisha, six days before Murasu arrived.","alt":"Cyclone Arnab over the Bay of Bengal"}
+{"n":1,"subject":"Cyclone Arnab","caption":"Cyclone Arnab, which crossed the Andhra Pradesh coast on October 28 and flooded large parts of south Odisha, six days before Murasu arrived.","alt":"Cyclone Arnab over the Bay of Bengal"}
 ```
 
 ## Why now, in late October and November?
@@ -83,7 +83,7 @@ One big influence is the Madden-Julian Oscillation, or MJO, a band of clouds and
 A cyclone does cool the sea behind it. Titli cooled the water along its track by about 1°C as it passed, and up to 3°C afterwards. But the Bay is large, and Murasu formed and travelled further south than Arnab, over water that had not been churned up. Arnab was forecast to come ashore further north, between Bapatla and Visakhapatnam, while Murasu began crossing **near Kothapatnam, close to Ongole**, before dawn on Tuesday.
 
 ```timeline
-{"title":"Two storms in a fortnight","items":[{"date":"21 Oct","text":"A low-pressure area forms off the Tamil Nadu coast; another is expected days later."},{"date":"24 Oct","text":"A depression forms about 820 km east-south-east of Visakhapatnam."},{"date":"28 Oct","text":"Cyclone Arnab crosses the Andhra Pradesh coast; south Odisha floods. At least seven people die."},{"date":"1 Nov","text":"A deep depression further south strengthens into Cyclone Murasu."},{"date":"2 Nov","text":"Murasu becomes a severe cyclonic storm; signal 10 at Nizampatnam port."},{"date":"3 Nov","text":"Murasu's eye reaches the coast near Kothapatnam, close to Ongole, with winds up to 120 km/h."}]}
+{"title":"Two storms in a fortnight","items":[{"date":"Oct 21","text":"A low-pressure area forms off the Tamil Nadu coast; another is expected days later."},{"date":"Oct 24","text":"A depression forms about 820 km east-south-east of Visakhapatnam."},{"date":"Oct 28","text":"Cyclone Arnab crosses the Andhra Pradesh coast; south Odisha floods. At least seven people die."},{"date":"Nov 1","text":"A deep depression further south strengthens into Cyclone Murasu."},{"date":"Nov 2","text":"Murasu becomes a severe cyclonic storm; signal 10 at Nizampatnam port."},{"date":"Nov 3","text":"Murasu's eye reaches the coast near Kothapatnam, close to Ongole, with winds up to 120 km/h."}]}
 ```
 
 ## Is this unusual?

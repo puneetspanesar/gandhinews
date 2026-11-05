@@ -37,8 +37,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 1 Nov, source time stamp 21:46 IST (ThePrint/PTI, 16:16 UTC). Patil's remarks came in a release from his office on Sunday; exact hour of release not given."
-    - "Kumaraswamy's claim was made on Saturday 31 Oct per PTI. Single source. Quotes verbatim from PTI copy."
+    - "event: Nov 1, source time stamp 21:46 IST (ThePrint/PTI, 16:16 UTC). Patil's remarks came in a release from his office on Sunday; exact hour of release not given."
+    - "Kumaraswamy's claim was made on Saturday, Oct 31 per PTI. Single source. Quotes verbatim from PTI copy."
     - "Honda Cars (cars) and Honda Motorcycle and Scooter India (two-wheelers) are different companies; this row is about HMSI's Narasapura plant."
 ---
 

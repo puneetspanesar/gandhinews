@@ -22,7 +22,7 @@ hero:
     value: "\"Win elections, not streets\""
 related: [uddhav-thackeray-backs-prashant-bhushan-regime-change]
 seo:
-  description: "Maharashtra CM Devendra Fadnavis on 18 October hit back at Uddhav Thackeray's regime change remarks, saying governments change through elections and the Constitution."
+  description: "Maharashtra CM Devendra Fadnavis on October 18 hit back at Uddhav Thackeray's regime change remarks, saying governments change through elections and the Constitution."
 sources:
   - title: "'Uddhav couldn't prevent 'regime change' in his own Shiv Sena': CM Fadnavis hits back at Shiv Sena (UBT) chief"
     publisher: "ANI"

@@ -21,7 +21,7 @@ hero:
     value: "Off the Treasury blacklist"
 related: []
 seo:
-  description: "The US Treasury on 14 October removed Venezuela's National Assembly president Jorge Rodríguez, brother of acting president Delcy Rodríguez, from its sanctions list."
+  description: "The US Treasury on October 14 removed Venezuela's National Assembly president Jorge Rodríguez, brother of acting president Delcy Rodríguez, from its sanctions list."
 sources:
   - title: "US lifts sanctions on Jorge Rodríguez, president of Venezuela's National Assembly"
     publisher: "MercoPress"
@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (MercoPress, 14 Oct, 22:02 UTC, i.e. early 15 Oct IST); OFAC delisting notice not read. Published time set inside the run window."
+    - "Single source (MercoPress, Oct 14, 22:02 UTC, i.e. early Oct 15 IST); OFAC delisting notice not read. Published time set inside the run window."
     - "MercoPress calls Cilia Flores Rodríguez's sister, which appears wrong (she is Maduro's wife); copy names only Padrino among 2018 co-designees."
     - "Background (Maduro and Flores detained in January US operation, New York charges, August oil deal, Delcy delisted April and met Trump at UNGA in September, Rubio-Figuera meeting, Machado) from the same report."
 ---

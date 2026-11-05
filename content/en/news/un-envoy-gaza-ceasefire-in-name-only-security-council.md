@@ -31,7 +31,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: Dawn's report of the 15 Oct UNSC open debate on the Middle East. Casualty figures are Alakbarov citing Gaza's Ministry of Health."
+    - "Single source: Dawn's report of the Oct 15 UNSC open debate on the Middle East. Casualty figures are Alakbarov citing Gaza's Ministry of Health."
     - "US position paraphrased; no named US speaker in source."
     - "Bamya's 'over 1,000 killed in West Bank over three years' as reported."
 ---

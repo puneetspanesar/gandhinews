@@ -6,11 +6,11 @@ section: sports
 format_label: "Sports / Cricket"
 topics: []
 title: "Krunal Pandya to lead India at Hong Kong Sixes after Bhuvneshwar's recall"
-standfirst: "The all-rounder takes over the captaincy for the six-a-side tournament from 30 October to 1 November, and Gujarat Titans seamer Kulwant Khejroliya fills Bhuvneshwar Kumar's place in the squad."
+standfirst: "The all-rounder takes over the captaincy for the six-a-side tournament from October 30 to November 1, and Gujarat Titans seamer Kulwant Khejroliya fills Bhuvneshwar Kumar's place in the squad."
 published: 2026-10-17T11:30:00+05:30
 location: Hong Kong
 keyPoints:
-  - "Krunal Pandya will captain India at the **Hong Kong Sixes**, from 30 October to 1 November."
+  - "Krunal Pandya will captain India at the **Hong Kong Sixes**, from October 30 to November 1."
   - "Bhuvneshwar Kumar was pulled out after his **recall to the India side**."
   - "Gujarat Titans pacer **Kulwant Khejroliya** joins a seven-man squad that includes T Natarajan and Rahul Tewatia."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "Six a side, new man in charge"
 related: [bhuvneshwar-added-india-squad-arshdeep-shoulder-bengaluru]
 seo:
-  description: "Krunal Pandya replaces Bhuvneshwar Kumar as India captain for the Hong Kong Sixes 2026 (30 October to 1 November); Kulwant Khejroliya added to the squad."
+  description: "Krunal Pandya replaces Bhuvneshwar Kumar as India captain for the Hong Kong Sixes 2026 (October 30 to November 1); Kulwant Khejroliya added to the squad."
 sources:
   - title: "Krunal Pandya replaces Bhuvneshwar Kumar as India captain at Hong Kong Sixes 2026 (IANS)"
     publisher: "NewKerala"
@@ -32,8 +32,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source: IANS via NewKerala, 17 Oct; publication hour not seen, time set for late morning."
-    - "IANS says Bhuvneshwar was recalled for India's New Zealand tour, starting 22 Oct; our 16 Oct story has him added for the Bengaluru decider. Copy says 'recall to the India side' to cover both."
+    - "Single source: IANS via NewKerala, Oct 17; publication hour not seen, time set for late morning."
+    - "IANS says Bhuvneshwar was recalled for India's New Zealand tour, starting Oct 22; our Oct 16 story has him added for the Bengaluru decider. Copy says 'recall to the India side' to cover both."
     - "Squad and franchises as listed by IANS: Krunal (c, RCB), Shashank Singh (PBKS), Rahul Tewatia (GT), Nitish Rana (DC), Rahul Tripathi (KKR), T Natarajan (SRH), Kulwant Khejroliya (GT)."
     - "Anuraag Bhatnagar's role at Cricket Hong Kong not given; quote fragment used verbatim, 'special milestone' phrase quoted as his."
     - "Venue in Hong Kong not named."
@@ -41,9 +41,9 @@ verification:
 
 Krunal Pandya will captain India at the Hong Kong Sixes later this month, taking over from Bhuvneshwar Kumar, whose recall to the national side has ruled him out of the six-a-side tournament.
 
-The event runs from 30 October to 1 November. Gujarat Titans seamer Kulwant Khejroliya replaces Bhuvneshwar in the seven-man squad.
+The event runs from October 30 to November 1. Gujarat Titans seamer Kulwant Khejroliya replaces Bhuvneshwar in the seven-man squad.
 
-Bhuvneshwar, 36, was added to India's T20I squad on Friday for the series decider against West Indies in Bengaluru, and India's tour of New Zealand starts on 22 October with the first of five T20Is in Christchurch. That leaves no room in his calendar for a trip to Hong Kong at the end of the month.
+Bhuvneshwar, 36, was added to India's T20I squad on Friday for the series decider against West Indies in Bengaluru, and India's tour of New Zealand starts on October 22 with the first of five T20Is in Christchurch. That leaves no room in his calendar for a trip to Hong Kong at the end of the month.
 
 Anuraag Bhatnagar of Cricket Hong Kong welcomed the recall. "While we will certainly miss Bhuvneshwar Kumar at the Hong Kong Sixes 2026," he said, the seamer's return to the India side after four years was "a special milestone".
 

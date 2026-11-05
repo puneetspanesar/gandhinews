@@ -43,7 +43,7 @@ verification:
   notes:
     - "Friday match day from IANS ('on Friday'); kick-off time not given, so none stated."
     - "IANS carries a Tchórz-style quote about chasing three points but does not clearly name the speaker; not used."
-    - "Opening-round details (Koch's 89th-minute header, Delhi 2-1 up at half-time, Jithin M.S. stoppage-time winner in Guwahati) as in our 10-13 Oct ISL story and its sources."
+    - "Opening-round details (Koch's 89th-minute header, Delhi 2-1 up at half-time, Jithin M.S. stoppage-time winner in Guwahati) as in our Oct 10-13 ISL story and its sources."
     - "'Deserved to win' taken from the myKhel headline of Dilmperis's post-match remarks."
 ---
 

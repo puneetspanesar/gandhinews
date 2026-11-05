@@ -32,10 +32,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source read (Kotak Neo, 8:25 pm IST), which reports the company's consolidated figures. Company release not read; no executive quotes found. Results day per earlier desk calendar (23 Oct, after the close)."
+    - "Single source read (Kotak Neo, 8:25 pm IST), which reports the company's consolidated figures. Company release not read; no executive quotes found. Results day per earlier desk calendar (Oct 23, after the close)."
     - "Segment growth figures are as given by Kotak Neo; the North America 13% is described as sequential. Growth basis for other segments not stated clearly; copy says 'grew' without year-on-year claim except where stated."
     - "Lenalidomide is the generic of Revlimid (general knowledge, not stated in source); copy describes it only as a cancer drug generic."
-    - "NSE close ₹1,229.50 on 23 Oct per Kotak Neo; day's change not given."
+    - "NSE close ₹1,229.50 on Oct 23 per Kotak Neo; day's change not given."
 ---
 
 Dr Reddy's Laboratories reported a 36% fall in September-quarter profit on Friday, as sales in North America of lenalidomide, a generic cancer drug, fell.

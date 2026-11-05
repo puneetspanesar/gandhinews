@@ -11,8 +11,8 @@ published: 2026-10-25T16:40:00+05:30
 location: Wenchang
 keyPoints:
   - "A Long March 8A launched **nine SatNet** low Earth orbit communication satellites from Wenchang on Sunday."
-  - "SpaceX has two Starlink launches lined up from Vandenberg, on **27 and 30 October**."
-  - "ISRO's GSLV Mk II is set to carry the **NVS-03** navigation satellite from Sriharikota on 30 October."
+  - "SpaceX has two Starlink launches lined up from Vandenberg, on **October 27 and 30**."
+  - "ISRO's GSLV Mk II is set to carry the **NVS-03** navigation satellite from Sriharikota on October 30."
 hero:
   need: "The Wenchang Space Launch Site on Hainan island, ideally a Long March 8 on the pad"
   suggested_source: "Wenchang Space Launch Site"
@@ -22,7 +22,7 @@ hero:
     value: "Nine more for China's megaconstellation"
 related: [nvs-03-navic-satellite-gslv-launch-october-30, navic-explained-why-nvs-03-launch-matters, isro-four-launch-pads-2029-narayanan-not-privatised]
 seo:
-  description: "China's Long March 8A launched nine SatNet satellites from Wenchang on Sunday, ahead of Starlink flights and ISRO's NVS-03 launch on 30 October."
+  description: "China's Long March 8A launched nine SatNet satellites from Wenchang on Sunday, ahead of Starlink flights and ISRO's NVS-03 launch on October 30."
 sources:
   - title: "Rocket Launch Schedule"
     publisher: "RocketLaunch.org"
@@ -42,9 +42,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Long March 8A launch: RocketLaunch.org lists 25 Oct 02:03 UTC (7:33 am IST), SatNet LEO Group 28, nine satellites, Wenchang, 'Launch success'. Orbital Radar had it scheduled 01:50 UTC with payload unidentified. No Chinese official statement read; launch occurred Sunday morning, not covered on site."
-    - "NVS-03: RocketLaunch.org shows 30 Oct 17:00 UTC as a tentative window from NOTAMs; Orbital Radar says time still to be confirmed. Copy does not give the hour."
-    - "Satellite counts are Orbital Radar's tracking figures as of 24 Oct."
+    - "Long March 8A launch: RocketLaunch.org lists Oct 25 02:03 UTC (7:33 am IST), SatNet LEO Group 28, nine satellites, Wenchang, 'Launch success'. Orbital Radar had it scheduled 01:50 UTC with payload unidentified. No Chinese official statement read; launch occurred Sunday morning, not covered on site."
+    - "NVS-03: RocketLaunch.org shows Oct 30 17:00 UTC as a tentative window from NOTAMs; Orbital Radar says time still to be confirmed. Copy does not give the hour."
+    - "Satellite counts are Orbital Radar's tracking figures as of Oct 24."
 ---
 
 China put nine more satellites of its SatNet broadband constellation into low Earth orbit on Sunday, launching them on a Long March 8A rocket from the Wenchang Space Launch Site on Hainan island.
@@ -55,6 +55,6 @@ SpaceX's Starlink remains by far the largest network in low orbit. Of the 15,878
 
 ## The week ahead
 
-SpaceX is due to launch 27 more Starlink satellites from Vandenberg in California on Tuesday, 27 October, and another batch of 27 on 30 October.
+SpaceX is due to launch 27 more Starlink satellites from Vandenberg in California on Tuesday, October 27, and another batch of 27 on October 30.
 
-For India, the big event is on Friday. ISRO's GSLV Mk II is set to carry the NVS-03 navigation satellite from the Satish Dhawan Space Centre at Sriharikota on 30 October. The launch matters for NavIC, India's own satellite navigation system, which has been short of the four working satellites it needs for standalone positioning since NVS-02 failed to reach its orbit in January 2025. The exact launch time has not yet been confirmed.
+For India, the big event is on Friday. ISRO's GSLV Mk II is set to carry the NVS-03 navigation satellite from the Satish Dhawan Space Centre at Sriharikota on October 30. The launch matters for NavIC, India's own satellite navigation system, which has been short of the four working satellites it needs for standalone positioning since NVS-02 failed to reach its orbit in January 2025. The exact launch time has not yet been confirmed.

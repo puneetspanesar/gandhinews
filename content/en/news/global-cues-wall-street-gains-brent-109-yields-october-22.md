@@ -22,7 +22,7 @@ hero:
     value: "Nasdaq up 1%, Brent at $108.82"
 related: [sensex-nifty-close-october-21-it-alone-gains-jio-ipo, global-cues-dow-rallies-netflix-slides-brent-108-october-21, brent-slips-108-79-after-touching-112-gold-eases, us-treasury-yields-fall-weak-housing-data]
 seo:
-  description: "Global cues for 22 October 2026: Nasdaq up 1.05%, Dow 0.69%, Brent $108.82, US 10-year yield 5.13%, gold $4,150, rupee at 94.38 and FII buying ahead of Sensex, Nifty open."
+  description: "Global cues for October 22, 2026: Nasdaq up 1.05%, Dow 0.69%, Brent $108.82, US 10-year yield 5.13%, gold $4,150, rupee at 94.38 and FII buying ahead of Sensex, Nifty open."
 sources:
   - title: "Closing Look, Wednesday, October 21, 2026"
     publisher: "Capp Notes (Substack)"
@@ -56,7 +56,7 @@ verification:
     - "GIFT Nifty level and Asian early trade NOT found: search budget exhausted, hdfcsky/business-standard index pages refused. Copy deliberately gives no GIFT Nifty figure and no Asian index moves for Thursday."
     - "Brent $110.96 (+1.99%) in Indian afternoon futures trade from PTI rupee report; Capp Notes gives Dec Brent settle $108.82 (+0.03%). Both used, with timing made clear."
     - "FII net buying ₹1,022.32 crore on Wednesday from PTI (exchange data). DII figure for Wednesday not found."
-    - "CNBC headline of 20 Oct said the S&P notched a three-day win streak; keyPoint says 'another day of gains' to avoid miscounting."
+    - "CNBC headline of Oct 20 said the S&P notched a three-day win streak; keyPoint says 'another day of gains' to avoid miscounting."
 ---
 
 US stocks extended their run on Wednesday, the rupee ended at its strongest in six weeks and foreign investors turned buyers of Indian shares. That mix gives Dalal Street a steadier backdrop on Thursday than it has had for much of the week, but crude oil above $108 a barrel and a hawkish set of Reserve Bank minutes are likely to keep any rally in check.

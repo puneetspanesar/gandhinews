@@ -6,13 +6,13 @@ section: states
 format_label: "States / Karnataka"
 topics: [states]
 title: "Karnataka votes for four Legislative Council seats, scuffle outside Bengaluru booth"
-standfirst: "Graduates and teachers are choosing members for two graduates' and two teachers' constituencies, with 43 candidates in the fray. Votes will be counted on 27 October."
+standfirst: "Graduates and teachers are choosing members for two graduates' and two teachers' constituencies, with 43 candidates in the fray. Votes will be counted on October 27."
 published: 2026-10-23T11:50:00+05:30
 location: Bengaluru
 keyPoints:
   - "Voting is under way for **four Council seats**, two graduates' and two teachers' constituencies."
   - "Congress and BJP workers clashed near a polling station at **Ambedkar College, Nagarabhavi**."
-  - "Counting for all four seats is on **27 October**."
+  - "Counting for all four seats is on **October 27**."
 hero:
   need: "The Vidhana Soudha in Bengaluru, seat of the Karnataka Legislative Council"
   suggested_source: "Vidhana Soudha Bengaluru"
@@ -22,7 +22,7 @@ hero:
     value: "Four Council seats, 43 candidates"
 related: [vijayendra-claims-congress-bid-to-oust-cm-shivakumar]
 seo:
-  description: "Karnataka voted on 23 October 2026 for four Legislative Council seats in graduates' and teachers' constituencies; 43 candidates, counting on 27 October."
+  description: "Karnataka voted on October 23, 2026, for four Legislative Council seats in graduates' and teachers' constituencies; 43 candidates, counting on October 27."
 sources:
   - title: "Karnataka MLC polls: Voting underway for four seats"
     publisher: "NewKerala (IANS)"
@@ -39,7 +39,7 @@ verification:
 
 Voters in Karnataka's graduates' and teachers' constituencies went to the polls on Friday to fill four seats in the state Legislative Council, the first election for the Congress under its state president, B K Hariprasad, himself a member of the Council.
 
-Polling began at 8 am and closes at 4 pm. Forty-three candidates are contesting, and the votes will be counted on 27 October.
+Polling began at 8 am and closes at 4 pm. Forty-three candidates are contesting, and the votes will be counted on October 27.
 
 The main contests pit the ruling Congress against the BJP and the JD(S). In the South-East Graduates' constituency, Congress candidate Shashi Hulikunte Mutt faces the BJP's K M Suresh. In the West Graduates' seat, Mohan Limbikai of the Congress is up against S V Sankanur of the BJP. The North-East Teachers' seat is a fight between Sharanappa Mattur of the Congress and the BJP's Shashil G Namoshi, and in the Bengaluru Teachers' constituency Puttanna of the Congress takes on the JD(S) candidate A P Ranganath.
 

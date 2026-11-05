@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single source (Whalesbook, 24 Oct, 4:58 pm). Whether figures are standalone or consolidated is not stated; copy does not say. Company filing not read."
+    - "Single source (Whalesbook, Oct 24, 4:58 pm). Whether figures are standalone or consolidated is not stated; copy does not say. Company filing not read."
     - "Revenue-minus-costs gap (₹217.71 crore; year-earlier about ₹191.7 crore, with costs back-calculated from the 24.34% rise) is the desk's calculation."
     - "EBITDA not reported; no management quote found."
     - "Kanpur dateline: JK Cement's registered office is in Kanpur."

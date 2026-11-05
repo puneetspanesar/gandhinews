@@ -22,7 +22,7 @@ hero:
     value: "From the Navy to Maharashtra Police"
 related: [uttarakhand-cabinet-agniveer-recruitment-exemptions-flood-zoning]
 seo:
-  description: "Maharashtra has appointed its first 282 Navy Agniveers as police constables under a 10% quota cleared on 29 September, CM Devendra Fadnavis said on Friday."
+  description: "Maharashtra has appointed its first 282 Navy Agniveers as police constables under a 10% quota cleared on September 29, CM Devendra Fadnavis said on Friday."
 sources:
   - title: "Maha absorbs first batch of 282 Navy Agneepveers as police constables: CM Fadnavis (IANS)"
     publisher: "Punjab Kesari English"
@@ -33,7 +33,7 @@ verification:
   status: approved
   notes:
     - "Single source (IANS via Punjab Kesari English, 8:47 pm Friday). Fadnavis quotes from his X post as reported."
-    - "Breakdown 150 Seaman Deckside, 132 Seaman Engineside; cabinet approval 29 Sept; 10% horizontal reservation in Group-C uniformed posts (police, fire services, coastal security); age relaxation; direct integration into coastal security wing; relaxation of post caps."
+    - "Breakdown 150 Seaman Deckside, 132 Seaman Engineside; cabinet approval Sept 29; 10% horizontal reservation in Group-C uniformed posts (police, fire services, coastal security); age relaxation; direct integration into coastal security wing; relaxation of post caps."
     - "Fadnavis's X post time not given."
 ---
 
@@ -43,7 +43,7 @@ The Centre sent the state a list of Navy Agniveers from Maharashtra who have com
 
 "We had decided in the state cabinet to provide reservation in government jobs to the Agneepveers fighting for the country," Fadnavis wrote on X. "My heartfelt best wishes to all of them in their new roles."
 
-The state cabinet approved the policy on 29 September. It sets aside 10% of Group-C uniformed posts, including in the police, fire services and coastal security, as a horizontal reservation for former Agniveers. They can join without sitting a competitive exam or going through fresh training, and the upper age limit has been relaxed for them.
+The state cabinet approved the policy on September 29. It sets aside 10% of Group-C uniformed posts, including in the police, fire services and coastal security, as a horizontal reservation for former Agniveers. They can join without sitting a competitive exam or going through fresh training, and the upper age limit has been relaxed for them.
 
 Former Navy Agniveers will also be placed directly in the state's coastal security wing. To take in everyone who wants to join, the government has relaxed the usual caps on sanctioned posts as a special case, and the scheme also covers the fire department and prison security.
 

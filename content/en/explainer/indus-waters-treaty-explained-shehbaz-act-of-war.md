@@ -8,7 +8,7 @@ topics: []
 title: "Indus Waters Treaty explained: what India's 'abeyance' means and why Pakistan calls it a red line"
 standfirst: "Shehbaz Sharif warned on Wednesday that any violation of the 1960 treaty would be 'an act of war'. How the treaty divides six rivers, why India froze it in April 2025, what the Hague tribunal has said since, and how much India can really change on the ground."
 published: 2026-10-22T09:10:00+05:30
-shortAnswer: "The Indus Waters Treaty, signed in 1960 with the World Bank as broker, gives India the three eastern rivers of the Indus system (Ravi, Beas, Sutlej) and Pakistan most of the water of the three western ones (Indus, Jhelum, Chenab), with India allowed limited uses such as run-of-river hydropower. After the Pahalgam attack of 22 April 2025 India placed the treaty 'in abeyance' and says it will stay that way until Pakistan stops backing cross-border terrorism. A Court of Arbitration in The Hague has since ruled that the treaty remains binding and that India must let the western rivers flow, but India does not recognise that court and calls its awards null and void."
+shortAnswer: "The Indus Waters Treaty, signed in 1960 with the World Bank as broker, gives India the three eastern rivers of the Indus system (Ravi, Beas, Sutlej) and Pakistan most of the water of the three western ones (Indus, Jhelum, Chenab), with India allowed limited uses such as run-of-river hydropower. After the Pahalgam attack of April 22, 2025 India placed the treaty 'in abeyance' and says it will stay that way until Pakistan stops backing cross-border terrorism. A Court of Arbitration in The Hague has since ruled that the treaty remains binding and that India must let the western rivers flow, but India does not recognise that court and calls its awards null and void."
 hero:
   need: "Baglihar Dam on the Chenab river in Jammu and Kashmir, one of the run-of-river projects on the western rivers"
   suggested_source: "Baglihar Dam"
@@ -48,9 +48,9 @@ sources:
 verification:
   status: approved
   notes:
-    - "Sharif quotes and the 'unusual fluctuations' claim from Arab News PK (21 Oct), as used in the desk's news story; single source."
-    - "8 August 2025 award contents (let flow, strict construction of hydro exceptions, design guidance on outlets, spillways and intakes, Kishenganga and Ratle not decided, 4-1 on maximum pondage, chair Sean D. Murphy) and MEA's 14 August 2025 response from The Tribune. June 2025 supplemental award on competence and MEA's 'charade' remark also from The Tribune."
-    - "15 May 2026 'maximum pondage' award and Randhir Jaiswal's 16 May 2026 quotes from ETV Bharat; The Wire headline seen, body not retrieved."
+    - "Sharif quotes and the 'unusual fluctuations' claim from Arab News PK (Oct 21), as used in the desk's news story; single source."
+    - "August 8, 2025, award contents (let flow, strict construction of hydro exceptions, design guidance on outlets, spillways and intakes, Kishenganga and Ratle not decided, 4-1 on maximum pondage, chair Sean D. Murphy) and MEA's August 14, 2025, response from The Tribune. June 2025 supplemental award on competence and MEA's 'charade' remark also from The Tribune."
+    - "May 15, 2026 'maximum pondage' award and Randhir Jaiswal's May 16, 2026, quotes from ETV Bharat; The Wire headline seen, body not retrieved."
     - "November 2025 clarification decision: only the PCA press release title seen in search results; copy mentions it only as a further ruling, without its content."
     - "Treaty basics (1960, World Bank, eastern/western rivers, Permanent Indus Commission, three-step dispute ladder of commission, neutral expert, court of arbitration) are standard background. The 'roughly four-fifths' share for Pakistan is the commonly cited figure; not checked against a 2026 document."
     - "India's limited storage on the western rivers as a constraint on cutting flows is general background widely stated by analysts; no specific study cited, and copy avoids figures."
@@ -79,18 +79,18 @@ Over Kishenganga and Ratle, Pakistan asked for a court of arbitration, while Ind
 
 ## What did India do in April 2025?
 
-**It put the treaty "in abeyance".** After 26 people were killed in the terror attack at Pahalgam on 22 April 2025, which India blamed on Pakistan, New Delhi announced that it would hold the treaty in abeyance. India has said it will stay that way until Pakistan credibly and verifiably stops supporting cross-border terrorism.
+**It put the treaty "in abeyance".** After 26 people were killed in the terror attack at Pahalgam on April 22, 2025, which India blamed on Pakistan, New Delhi announced that it would hold the treaty in abeyance. India has said it will stay that way until Pakistan credibly and verifiably stops supporting cross-border terrorism.
 
 Pakistan denies any role in the attack and argues that the treaty has no clause allowing either side to suspend it. It sees the step as a threat to its food and water security.
 
 ## What has the Hague court said since?
 
-**That the treaty still binds India.** In June 2025 the Court of Arbitration issued a supplemental award on its own competence, and on 8 August 2025 an award on how the treaty should be read in general. It held that India must generally "let flow" the waters of the western rivers to Pakistan, that the exceptions for hydropower must be read strictly, and it gave design guidance for run-of-river plants. It did not yet rule on Kishenganga or Ratle themselves. A further ruling on the maximum pondage India's plants may keep followed on 15 May 2026.
+**That the treaty still binds India.** In June 2025 the Court of Arbitration issued a supplemental award on its own competence, and on August 8, 2025, an award on how the treaty should be read in general. It held that India must generally "let flow" the waters of the western rivers to Pakistan, that the exceptions for hydropower must be read strictly, and it gave design guidance for run-of-river plants. It did not yet rule on Kishenganga or Ratle themselves. A further ruling on the maximum pondage India's plants may keep followed on May 15, 2026.
 
-India has rejected every one of these. "India categorically rejects the present so-called award," Ministry of External Affairs spokesperson Randhir Jaiswal said on 16 May. "Any proceeding, award, or decision issued by it is null and void. India's decision to hold the Indus Waters Treaty in abeyance remains in force."
+India has rejected every one of these. "India categorically rejects the present so-called award," Ministry of External Affairs spokesperson Randhir Jaiswal said on May 16. "Any proceeding, award, or decision issued by it is null and void. India's decision to hold the Indus Waters Treaty in abeyance remains in force."
 
 ```timeline
-{"title":"The treaty since the Pahalgam attack","items":[{"date":"22 Apr 2025","text":"26 people killed in Pahalgam; India puts the treaty in abeyance"},{"date":"Jun 2025","text":"Court of Arbitration issues supplemental award on its competence; India rejects it"},{"date":"8 Aug 2025","text":"Award on general interpretation: India must 'let flow' the western rivers"},{"date":"15 May 2026","text":"Award on maximum pondage; India calls it null and void"},{"date":"21 Oct 2026","text":"Shehbaz Sharif says any violation will be treated as an act of war"}]}
+{"title":"The treaty since the Pahalgam attack","items":[{"date":"Apr 22, 2025","text":"26 people killed in Pahalgam; India puts the treaty in abeyance"},{"date":"Jun 2025","text":"Court of Arbitration issues supplemental award on its competence; India rejects it"},{"date":"Aug 8, 2025","text":"Award on general interpretation: India must 'let flow' the western rivers"},{"date":"May 15, 2026","text":"Award on maximum pondage; India calls it null and void"},{"date":"Oct 21, 2026","text":"Shehbaz Sharif says any violation will be treated as an act of war"}]}
 ```
 
 ## Why is Pakistan raising the alarm now?

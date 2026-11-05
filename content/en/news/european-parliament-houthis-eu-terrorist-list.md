@@ -22,7 +22,7 @@ hero:
     value: "MEPs: list the Houthis as terrorists"
 related: [india-condemns-houthi-attacks-saudi-airports-riyadh, uk-typhoon-jets-defend-saudi-arabia-houthis, houthis-strike-aramco-building-dhahran-coalition-hits-sanaa]
 seo:
-  description: "The European Parliament on 22 October urged the EU to list Yemen's Houthis as a terrorist group and freeze their funds after attacks on Saudi Arabia and shipping."
+  description: "The European Parliament on October 22 urged the EU to list Yemen's Houthis as a terrorist group and freeze their funds after attacks on Saudi Arabia and shipping."
 sources:
   - title: "MEPs call for Yemen's Houthis to be added to EU terrorist list"
     publisher: "Euronews"

@@ -10,7 +10,7 @@ standfirst: "The three-day conference chaired by Army chief Gen Dhiraj Seth open
 published: 2026-10-21T16:20:00+05:30
 location: New Delhi
 keyPoints:
-  - "The Army Commanders' Conference runs in New Delhi from **21 to 23 October**."
+  - "The Army Commanders' Conference runs in New Delhi from **October 21 to 23**."
   - "Rajnath Singh will release the **Land Warfare Doctrine** and address the commanders."
   - "CDS Gen N S Raja Subramani and **Navy chief Adm Krishna Swaminathan** are among the speakers."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "A new doctrine for land war"
 related: [rajnath-sco-dushanbe-no-double-standards-terrorism, ins-samarthak-commissioning-karwar]
 seo:
-  description: "The Army Commanders' Conference opened in New Delhi on 21 October. Rajnath Singh will release the Land Warfare Doctrine during the three-day meeting chaired by Gen Dhiraj Seth."
+  description: "The Army Commanders' Conference opened in New Delhi on October 21. Rajnath Singh will release the Land Warfare Doctrine during the three-day meeting chaired by Gen Dhiraj Seth."
 sources:
   - title: "Army Commanders' Conference Begins, Rajnath Singh To Release Land Warfare Doctrine (PTI)"
     publisher: "ETV Bharat"

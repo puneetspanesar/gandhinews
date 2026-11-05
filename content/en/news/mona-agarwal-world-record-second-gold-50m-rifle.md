@@ -22,7 +22,7 @@ hero:
     value: "357.5, a world record"
 related: [mona-agarwal-gold-avani-lekhara-silver-asian-para-games, sandeep-haney-world-records-india-100-medals-para-games]
 seo:
-  description: "Mona Agarwal won the women's 50m rifle 3 positions SH1 at the Asian Para Games on 23 October with a world record 357.5, her second gold; Avani Lekhara was fourth."
+  description: "Mona Agarwal won the women's 50m rifle 3 positions SH1 at the Asian Para Games on October 23 with a world record 357.5, her second gold; Avani Lekhara was fourth."
 sources:
   - title: "Asian Para Games 2026: Mona Agarwal wins second gold with world record"
     publisher: "Open"

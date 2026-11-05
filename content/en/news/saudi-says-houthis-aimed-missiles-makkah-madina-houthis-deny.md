@@ -22,7 +22,7 @@ hero:
     value: "Missiles over the holy cities"
 related: [houthi-missiles-riyadh-taif-yanbu-saudi-alerts-makkah-jeddah, houthis-hit-aden-palace-saudi-blames-iran, mea-3000-umrah-pilgrims-return-medicines-iran-flights, umrah-pilgrims-stranded-saudi-mansoor-ali-khan-jaishankar, indian-embassy-riyadh-advisory-shelter-indoors-drones]
 seo:
-  description: "Saudi Arabia said it intercepted Houthi missiles aimed at Makkah and Madina on 24 October; the Houthis denied it as Saudi strikes on Sanaa killed 11, Houthi media said."
+  description: "Saudi Arabia said it intercepted Houthi missiles aimed at Makkah and Madina on October 24; the Houthis denied it as Saudi strikes on Sanaa killed 11, Houthi media said."
 sources:
   - title: "Pezeshkian stresses Iran must get out of 'no war, no peace' situation (live updates, 24 Oct)"
     publisher: "Dawn"
@@ -37,10 +37,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "All Saudi/Houthi items from Dawn's live blog of 24 Oct, which credits Reuters (Makkah/Madina interception 9:26 pm PKT, US advisories), AFP (Sanaa, Asr, Aden, Saree's Aden quote) and Al-Masirah. Houthi denial 11:24 pm PKT; 'a great and huge lie' quoted as printed."
+    - "All Saudi/Houthi items from Dawn's live blog of Oct 24, which credits Reuters (Makkah/Madina interception 9:26 pm PKT, US advisories), AFP (Sanaa, Asr, Aden, Saree's Aden quote) and Al-Masirah. Houthi denial 11:24 pm PKT; 'a great and huge lie' quoted as printed."
     - "Casualty figures in Sanaa are Houthi media claims, not independently confirmed; Saudi Arabia had not commented on them."
     - "Saree's seven-operations claim (9:16 pm PKT): Saudi Arabia had not commented at the time. Targets listed as given."
-    - "India angle drawn from Gandhi News's 23 Oct MEA story on stranded Umrah pilgrims; no new Indian statement on Saturday's attacks found."
+    - "India angle drawn from Gandhi News's Oct 23 MEA story on stranded Umrah pilgrims; no new Indian statement on Saturday's attacks found."
 ---
 
 Saudi Arabia said late on Saturday that it had shot down two Houthi ballistic missiles aimed at Makkah and Madina, Islam's two holiest cities, with debris falling on Jeddah, Taif and Rabigh. Within two hours the Houthis denied ever targeting them.

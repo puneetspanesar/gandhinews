@@ -39,7 +39,7 @@ A Russian-installed court in occupied Donetsk region on Monday sentenced Tetiana
 
 The court also barred her from running websites for two years. The case rested on a 2022 video stream in which she called for "taking down" Russian propagandists "without the slightest regret." The Russian verb she used can also mean to kill, but Montian said she meant banning hostile online accounts, not violence.
 
-Montian was born in Kerch, in Crimea, in 1972. She backed Russia and its proxies in the Donbas from 2014, moved to Russia in 2021 and took Russian citizenship. On 17 February 2022, a week before the full-scale invasion, she addressed the UN Security Council at Russia's invitation, describing Ukraine as a Western colony and accusing Kyiv of killing civilians in the Donbas.
+Montian was born in Kerch, in Crimea, in 1972. She backed Russia and its proxies in the Donbas from 2014, moved to Russia in 2021 and took Russian citizenship. On February 17, 2022, a week before the full-scale invasion, she addressed the UN Security Council at Russia's invitation, describing Ukraine as a Western colony and accusing Kyiv of killing civilians in the Donbas.
 
 She supported the invasion but turned on the people running it, accusing officials and propagandists of incompetence and corruption. "If Putin weren't such a stupid f**khead, none of this would have happened," she said in 2023. In February this year she spoke of "absolutely unrestrained terror" in the occupied parts of the Donbas, where she said people were afraid to criticise the authorities.
 

@@ -10,9 +10,9 @@ standfirst: "Replying to the Congress president's call for an all-party meeting,
 published: 2026-10-19T18:40:00+05:30
 location: New Delhi
 keyPoints:
-  - "Kiren Rijiju said the government wrote to Mallikarjun Kharge on **16 March, 26 March and 12 April**."
+  - "Kiren Rijiju said the government wrote to Mallikarjun Kharge on **March 16, March 26 and April 12**."
   - "The government says it consulted the **DMK, SP, YSRCP, NCP, Shiv Sena (UBT), AIMIM and BJD**."
-  - "Rijiju rejected Kharge's objection that Parliament has **not been prorogued since 13 August**."
+  - "Rijiju rejected Kharge's objection that Parliament has **not been prorogued since August 13**."
 hero:
   need: "Kiren Rijiju and Mallikarjun Kharge, two-panel split"
   suggested_source: "Kiren Rijiju"
@@ -22,7 +22,7 @@ hero:
     value: "\"Congress didn't give dates\""
 related: [delimitation-explained-why-131st-amendment-failed]
 seo:
-  description: "Kiren Rijiju wrote to Mallikarjun Kharge on 19 October saying the Congress gave no dates for delimitation talks while seven other parties were consulted."
+  description: "Kiren Rijiju wrote to Mallikarjun Kharge on October 19 saying the Congress gave no dates for delimitation talks while seven other parties were consulted."
 sources:
   - title: "'Consulted DMK, SP, BJD on delimitation, but Congress didn't respond': Rijiju counters Kharge's letter to PM"
     publisher: "The Tribune"
@@ -47,20 +47,20 @@ sources:
 verification:
   status: approved
   notes:
-    - "Letter quotes from IANS (Social News XYZ, 12:34 UTC) and Tribune (Aditi Tandon, 6:47 pm IST). Letter dates 16 Mar, 26 Mar, 12 Apr from Tribune. No Congress response found by 5:30 am."
+    - "Letter quotes from IANS (Social News XYZ, 12:34 UTC) and Tribune (Aditi Tandon, 6:47 pm IST). Letter dates Mar 16, Mar 26, Apr 12 from Tribune. No Congress response found by 5:30 am."
     - "Tribune says Houses stayed unprorogued 'up to 87 days' but its itemised list tops out at 76 days (1987); copy uses only the cited examples and avoids the 87 figure."
-    - "Jagan and DMK remarks (18 Oct) from The Wire. 131st Amendment introduced 16 April, defeated 17 April per IANS."
+    - "Jagan and DMK remarks (Oct 18) from The Wire. 131st Amendment introduced April 16, defeated April 17 per IANS."
 ---
 
 Parliamentary Affairs Minister Kiren Rijiju on Monday hit back at Congress president Mallikarjun Kharge's demand for an all-party meeting on delimitation, saying the government had reached out to the Congress repeatedly and moved on to other parties only after it failed to respond.
 
-In a letter to Kharge, Rijiju said the government had "reached out to the Congress, being the principal Opposition party, on several occasions". He listed letters to Kharge dated 16 March, 26 March and 12 April, as well as personal conversations, and said he had also met Rahul Gandhi, the Leader of the Opposition in the Lok Sabha, during the Monsoon Session.
+In a letter to Kharge, Rijiju said the government had "reached out to the Congress, being the principal Opposition party, on several occasions". He listed letters to Kharge dated March 16, March 26 and April 12, as well as personal conversations, and said he had also met Rahul Gandhi, the Leader of the Opposition in the Lok Sabha, during the Monsoon Session.
 
 "After repeated requests, the Congress Party didn't give dates for discussion," Rijiju wrote. "Consultations were held with representatives of parties including the DMK, SP, YSRCP, NCP, Shiv Sena (UBT), AIMIM and BJD."
 
 ## A reply to Kharge's letter to Modi
 
-The letter answers one Kharge sent Prime Minister Narendra Modi on 16 October, asking him to call an all-party meeting before any delimitation amendment returns to Parliament. It was not his first: Kharge has written to the Prime Minister several times this year on the subject, warning in August against using a special session to push the bill through.
+The letter answers one Kharge sent Prime Minister Narendra Modi on October 16, asking him to call an all-party meeting before any delimitation amendment returns to Parliament. It was not his first: Kharge has written to the Prime Minister several times this year on the subject, warning in August against using a special session to push the bill through.
 
 Rijiju questioned why the request kept coming back. "It is not clear why the demand for consultation is being made repeatedly," he wrote, adding: "We value the participation of all political parties in deliberations and discussions on all matters of national importance."
 
@@ -68,15 +68,15 @@ He ended with a pointed line: "I also hope that the Congress Party will play a c
 
 ## The prorogation argument
 
-Kharge had also objected that Parliament has not been prorogued since the House was adjourned sine die on 13 August, more than two months ago. A House that is adjourned but not prorogued can be recalled at short notice, which has fed talk of a special session.
+Kharge had also objected that Parliament has not been prorogued since the House was adjourned sine die on August 13, more than two months ago. A House that is adjourned but not prorogued can be recalled at short notice, which has fed talk of a special session.
 
-Rijiju said there was "no constitutional requirement prescribing a specific period" for prorogation. He cited earlier years in which Houses stayed unprorogued for long stretches, including 76 days in 1987 and 54 days in 1989. In 2008, he noted, the Lok Sabha sat on 21 and 22 July, met again on 17 October and once more on 10 December without being prorogued in between.
+Rijiju said there was "no constitutional requirement prescribing a specific period" for prorogation. He cited earlier years in which Houses stayed unprorogued for long stretches, including 76 days in 1987 and 54 days in 1989. In 2008, he noted, the Lok Sabha sat on July 21 and 22, met again on October 17 and once more on December 10 without being prorogued in between.
 
 The government has not announced a session.
 
 ## Why the numbers matter
 
-The Constitution (131st Amendment) Bill, which would have expanded the Lok Sabha to 850 seats to put women's reservation into effect, was introduced on 16 April and defeated the next day. It was the Modi government's first defeat on a constitutional amendment, which needs a two-thirds majority of members present and voting.
+The Constitution (131st Amendment) Bill, which would have expanded the Lok Sabha to 850 seats to put women's reservation into effect, was introduced on April 16 and defeated the next day. It was the Modi government's first defeat on a constitutional amendment, which needs a two-thirds majority of members present and voting.
 
 Several of the parties Rijiju named have been sharply critical of the Election Commission in recent days. On Sunday, YSR Congress Party chief Jagan Mohan Reddy said his party had been wrong to back the 2023 law on appointing election commissioners. "We regret committing that mistake," he said. The DMK, which has left the INDIA bloc, on Saturday demanded the Chief Election Commissioner's resignation and said it "will not align with the BJP just because we walked out of the INDIA bloc".
 

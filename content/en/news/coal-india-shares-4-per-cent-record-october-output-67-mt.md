@@ -22,7 +22,7 @@ hero:
     value: "Coal India up 4% on record output"
 related: [sensex-holds-924-points-midday-nifty-23360-reliance-8-per-cent, sensex-1030-points-nifty-23330-day-high-reliance-quarter-of-gains]
 seo:
-  description: "Coal India share price today, 2 November 2026: stock up 4.22% at ₹405.40 at noon after record October 2026 coal production of 67.2 MT and supply of 70.3 MT, both all-time monthly highs."
+  description: "Coal India share price today, November 2, 2026: stock up 4.22% at ₹405.40 at noon after record October 2026 coal production of 67.2 MT and supply of 70.3 MT, both all-time monthly highs."
 cover:
   template: business
   label: "Coal India"
@@ -57,8 +57,8 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov 12:00 IST, Coal India at ₹405.40, +4.22%, volume 58.03 lakh shares (HDFC Sky gainers table, published 12:16 IST). Earlier 10:30-11:00 snapshot showed +4.60%; copy uses the noon figure."
-    - "October figures released by Coal India on its foundation day (1 Nov); production 67.2 MT vs 56.4 MT (Sahi says +19.3%, numbers imply about 19.1%; copy says about 19%). Supply 70.3 MT vs 59.2 MT (+18.7%), previous supply record 69.4 MT in March 2026; previous production record 62.47 MT in October 2024; power-sector supply 57.1 MT; 310 rakes/day vs 302.8 in March 2025; MCL over 20 MT monthly supply for the first time; H1 FY27 capex ₹7,966 crore vs ₹6,283 crore; FY27 target 815 MT, FY26 output 768 MT."
+    - "event: Nov 2 12:00 IST, Coal India at ₹405.40, +4.22%, volume 58.03 lakh shares (HDFC Sky gainers table, published 12:16 IST). Earlier 10:30-11:00 snapshot showed +4.60%; copy uses the noon figure."
+    - "October figures released by Coal India on its foundation day (Nov 1); production 67.2 MT vs 56.4 MT (Sahi says +19.3%, numbers imply about 19.1%; copy says about 19%). Supply 70.3 MT vs 59.2 MT (+18.7%), previous supply record 69.4 MT in March 2026; previous production record 62.47 MT in October 2024; power-sector supply 57.1 MT; 310 rakes/day vs 302.8 in March 2025; MCL over 20 MT monthly supply for the first time; H1 FY27 capex ₹7,966 crore vs ₹6,283 crore; FY27 target 815 MT, FY26 output 768 MT."
     - "No management quote found in the sources read; none used."
 ---
 

@@ -22,7 +22,7 @@ hero:
     value: "2,000 trapped in Oleshky"
 related: [pope-leo-discharged-gemelli-angelus-sunday, russia-hits-28-energy-sites-trump-says-fine]
 seo:
-  description: "Pope Leo XIV told Zelenskyy on 19 October about his contacts with Russia over a ceasefire to evacuate about 2,000 civilians from occupied Oleshky in Kherson region."
+  description: "Pope Leo XIV told Zelenskyy on October 19 about his contacts with Russia over a ceasefire to evacuate about 2,000 civilians from occupied Oleshky in Kherson region."
 sources:
   - title: "Pope Leo, Zelensky discuss hopes for ceasefire in Russian-occupied Oleshky"
     publisher: "Kyiv Independent"
@@ -32,7 +32,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Single outlet (Kyiv Independent); Zelenskyy quotes are from his own post. Pope-Putin call on 16 Oct and Kremlin readout as described there."
+    - "Single outlet (Kyiv Independent); Zelenskyy quotes are from his own post. Pope-Putin call on Oct 16 and Kremlin readout as described there."
     - "No date or final agreement on the evacuation announced as of the report."
 ---
 
@@ -40,7 +40,7 @@ Pope Leo XIV told Ukrainian President Volodymyr Zelenskyy on Monday about his co
 
 "His Holiness informed me about his contacts with the Russian side regarding this issue," Zelenskyy wrote after the call. "We are working to help our people there and are preparing solutions."
 
-The Pope called Russian President Vladimir Putin on 16 October to urge a ceasefire that would let civilians leave the town. It was his second known call with Putin since he became pope in 2025. According to the Kremlin's account, Putin blamed Ukraine for the crisis.
+The Pope called Russian President Vladimir Putin on October 16 to urge a ceasefire that would let civilians leave the town. It was his second known call with Putin since he became pope in 2025. According to the Kremlin's account, Putin blamed Ukraine for the crisis.
 
 Oleshky has been under Russian occupation since the early days of the full-scale invasion. Mined roads, constant drone attacks and interrogations at Russian checkpoints make getting out almost impossible, and Russian forces are blocking Ukrainian and international aid.
 

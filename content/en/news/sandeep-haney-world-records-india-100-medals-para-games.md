@@ -22,7 +22,7 @@ hero:
     value: "Two world records, 100 medals"
 related: [dilip-gavit-solairaj-gold-india-88-medals-asian-para-games, mona-agarwal-world-record-second-gold-50m-rifle, nitesh-beats-pramod-sl3-final-naveen-sivakumar-gold, harvinder-vijay-sundi-recurve-doubles-gold-china]
 seo:
-  description: "Sandeep (400m T64) and Haney (javelin F37/38) won gold with world records on 23 October as India crossed 100 medals at the Asian Para Games in Aichi-Nagoya."
+  description: "Sandeep (400m T64) and Haney (javelin F37/38) won gold with world records on October 23 as India crossed 100 medals at the Asian Para Games in Aichi-Nagoya."
 sources:
   - title: "Sandeep, Haney break world records to win gold at Asian Para Games"
     publisher: "The Bridge"

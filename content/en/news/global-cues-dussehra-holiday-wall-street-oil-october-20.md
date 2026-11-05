@@ -22,7 +22,7 @@ hero:
     value: "Tech bounces, oil stays high"
 related: [sensex-nifty-close-october-19-private-banks-axis, oil-110-nasdaq-slide-cautious-start-indian-markets-monday, four-day-week-dussehra-nifty-outlook-jio-ipo-infosys, netflix-tesla-meta-results-week-after-nasdaq-worst-week, rupee-flat-94-92-importer-dollar-demand-october-19, brent-109-houthi-yanbu-claims-hormuz-flows-russia-waiver]
 seo:
-  description: "Global cues for 20 October 2026: Nasdaq up 1.1%, S&P 500 up 0.4%, Dow flat; Brent at $109.55; rupee at 94.92. Indian markets are shut for Dussehra and reopen Wednesday."
+  description: "Global cues for October 20, 2026: Nasdaq up 1.1%, S&P 500 up 0.4%, Dow flat; Brent at $109.55; rupee at 94.92. Indian markets are shut for Dussehra and reopen Wednesday."
 sources:
   - title: "How major US stock indexes fared Monday 10/19/2026"
     publisher: "AP via KRMG"
@@ -66,7 +66,7 @@ verification:
     - "Yields: AP says yields rose worldwide, TheStreet says Treasury yields eased during the session; conflicting, so left out."
     - "Brent/WTI settlements from Reuters via Yahoo. Gold: Benzinga intraday -0.2% at $4,172.70; TheStreet -0.47%; written as slightly lower near $4,170."
     - "Tuesday Asian trading (Tokyo opens ~5:30 am IST) not yet reported at time of writing; Asia figures are Monday closes from AP (Nikkei, Kospi, Shanghai at time of writing, Indonesia). GIFT Nifty Tuesday level not found; omitted."
-    - "Dussehra holiday on 20 Oct for exchanges from our earlier stories (four-day-week preview). Whether the currency market is also shut not confirmed; copy avoids saying so."
+    - "Dussehra holiday on Oct 20 for exchanges from our earlier stories (four-day-week preview). Whether the currency market is also shut not confirmed; copy avoids saying so."
     - "Rupee: PTI provisional 94.92 (-3 paise); Reuters 94.9250, nearly flat. Quotes Garg and Choudhary from PTI; ANZ from Reuters."
 ---
 

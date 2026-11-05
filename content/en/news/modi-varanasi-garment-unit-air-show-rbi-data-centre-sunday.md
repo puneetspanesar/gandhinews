@@ -22,7 +22,7 @@ hero:
     value: "Looms, jets and a bank vault in one day"
 related: [modi-varanasi-kedarnath-visit-october-24-25-preview, modi-murmu-odisha-visits-rbi-data-centre-preview, suryakiran-aerobatic-team-mysuru-dasara-display]
 seo:
-  description: "PM Modi will open Arvind's Varanasi garment unit, watch the IAF's Wings over Ganges display and inaugurate the RBI data centre in Bhubaneswar on 25 October."
+  description: "PM Modi will open Arvind's Varanasi garment unit, watch the IAF's Wings over Ganges display and inaugurate the RBI data centre in Bhubaneswar on October 25."
 sources:
   - title: "PM to visit Uttar Pradesh and Odisha on 25 October"
     publisher: "Press Information Bureau (PMO)"
@@ -72,7 +72,7 @@ The PMO's note puts the first engagement at about 11 am, when Modi is due to ope
 
 At about 1 pm the Prime Minister will be at Namo Ghat for the Air Force Day Aerial Display 2026, held to mark the IAF's 94th anniversary under the theme "Wings over Ganges". The Tejas, the LCH Prachand attack helicopter, the Su-30MKI and the Rafale are on the list, along with transport aircraft and machines from the Navy and the Army. The Surya Kiran aerobatic team and the Sarang helicopter display team are also due to perform.
 
-Displays over the river were also scheduled for 22 and 24 October ahead of Sunday's show. Varanasi Police have planned extra deployments along the ghats and main roads, separate routes for VIPs and the public, and green corridors to hospitals.
+Displays over the river were also scheduled for October 22 and 24 ahead of Sunday's show. Varanasi Police have planned extra deployments along the ghats and main roads, separate routes for VIPs and the public, and green corridors to hospitals.
 
 ## The RBI's new computing base
 

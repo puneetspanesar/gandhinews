@@ -8,7 +8,7 @@ topics: [states]
 title: "BS-IV ban explained: what Bharat Stage norms are, and which vehicles Delhi has shut out"
 standfirst: "From Sunday, BS-IV and older vehicles registered outside Delhi are barred from the capital, and a year-long grace period for BS-IV trucks has run out. What the BS numbers mean, how to tell where your vehicle stands, and how these curbs differ from GRAP."
 published: 2026-11-01T06:40:00+05:30
-shortAnswer: "Bharat Stage (BS) norms are India's emission standards for vehicles, modelled on European rules; the higher the number, the cleaner the engine and fuel. India moved from BS-IV in 2017 straight to BS-VI in April 2020, skipping BS-V. From 1 November 2026 the Delhi government has barred vehicles registered outside Delhi that meet BS-IV or older standards until 31 January, and a CAQM direction that let outside BS-IV commercial goods vehicles into the city until 31 October 2026 has lapsed. Delhi-registered vehicles, BS-VI vehicles and those running on CNG, LNG or electricity are not covered by the entry ban."
+shortAnswer: "Bharat Stage (BS) norms are India's emission standards for vehicles, modelled on European rules; the higher the number, the cleaner the engine and fuel. India moved from BS-IV in 2017 straight to BS-VI in April 2020, skipping BS-V. From November 1, 2026, the Delhi government has barred vehicles registered outside Delhi that meet BS-IV or older standards until January 31, and a CAQM direction that let outside BS-IV commercial goods vehicles into the city until October 31, 2026, has lapsed. Delhi-registered vehicles, BS-VI vehicles and those running on CNG, LNG or electricity are not covered by the entry ban."
 hero:
   need: "A toll plaza on the Delhi-Gurugram border, where vehicles from outside Delhi enter the city"
   suggested_source: "Delhi Gurgaon Expressway toll plaza"
@@ -18,7 +18,7 @@ hero:
     value: "BS-IV and older: no entry"
 related: [delhi-pollution-curbs-bs-iv-ban-50-per-cent-office-from-today, grap-explained-delhi-air-stages-what-is-banned, why-stubble-fires-rise-in-october-explained]
 seo:
-  description: "What BS-IV and BS-VI mean, why Delhi has barred outside BS-IV and older vehicles from 1 November 2026, which vehicles are exempt, and how the curbs differ from GRAP."
+  description: "What BS-IV and BS-VI mean, why Delhi has barred outside BS-IV and older vehicles from November 1, 2026, which vehicles are exempt, and how the curbs differ from GRAP."
 sources:
   - title: "Panel bans entry of non-BS-VI commercial vehicles from Nov 1"
     publisher: "The Tribune"
@@ -48,10 +48,10 @@ sources:
 verification:
   status: approved
   notes:
-    - "2026 Delhi package (outside-Delhi BS-IV and older barred until 31 January; CNG, electric, ambulances, fire tenders, police exempt; 50% office attendance; dust-raising construction banned until 31 January; parking fees doubled to 28 February except DMRC lots; ANPR cameras and e-challans; Rekha Gupta quote) taken from the desk's 1 November news story, which rests on a single ANI report. The ANI page could not be refetched this run (permission request timed out). The government order itself was not read, so whether the ban covers every vehicle class or only some (for example diesel or commercial) is not known; copy follows the department's announcement as reported."
-    - "CAQM direction: Tribune (29 Oct 2025) says statutory direction under Section 12(1) of the CAQM Act 2021, effective 1 Nov 2025, only BS-VI, CNG, LNG and electric commercial goods vehicles registered outside Delhi allowed; Delhi-registered exempt. ThePrint (PTI) and ETV Bharat say BS-IV commercial goods vehicles got a transitional window until 31 October 2026; approved at CAQM meeting of 17 October 2025; GRAP curbs apply on top. Tribune instead describes the 31 Oct 2026 window as for essential-goods vehicles; ETV says the essential-goods exemption was withdrawn after a 26 Sept 2025 Supreme Court order. Copy uses the BS-IV transition (two sources) and does not detail the essential-goods point."
+    - "2026 Delhi package (outside-Delhi BS-IV and older barred until January 31; CNG, electric, ambulances, fire tenders, police exempt; 50% office attendance; dust-raising construction banned until January 31; parking fees doubled to February 28 except DMRC lots; ANPR cameras and e-challans; Rekha Gupta quote) taken from the desk's November 1 news story, which rests on a single ANI report. The ANI page could not be refetched this run (permission request timed out). The government order itself was not read, so whether the ban covers every vehicle class or only some (for example diesel or commercial) is not known; copy follows the department's announcement as reported."
+    - "CAQM direction: Tribune (Oct 29, 2025) says statutory direction under Section 12(1) of the CAQM Act 2021, effective Nov 1, 2025, only BS-VI, CNG, LNG and electric commercial goods vehicles registered outside Delhi allowed; Delhi-registered exempt. ThePrint (PTI) and ETV Bharat say BS-IV commercial goods vehicles got a transitional window until October 31, 2026; approved at CAQM meeting of October 17, 2025; GRAP curbs apply on top. Tribune instead describes the Oct 31, 2026, window as for essential-goods vehicles; ETV says the essential-goods exemption was withdrawn after a Sept 26, 2025 Supreme Court order. Copy uses the BS-IV transition (two sources) and does not detail the essential-goods point."
     - "Rajendra Kapoor (All India Motor and Goods Transport Association) quote from PTI via ThePrint, October 2025."
-    - "BS history (BS-I 2000, BS-III nationwide 2010, BS-IV nationwide April 2017, BS-V skipped, MoRTH notification 19 Feb 2016, BS-VI 1 April 2020, Supreme Court 2018 order on sale and registration), sulphur 50 vs 10 ppm and NOx/PM reductions (diesel cars NOx -68%, PM -82%; petrol cars NOx -25%) from Factly's explainer citing the MoRTH notification. Notification itself not opened."
+    - "BS history (BS-I 2000, BS-III nationwide 2010, BS-IV nationwide April 2017, BS-V skipped, MoRTH notification Feb 19, 2016, BS-VI April 1, 2020, Supreme Court 2018 order on sale and registration), sulphur 50 vs 10 ppm and NOx/PM reductions (diesel cars NOx -68%, PM -82%; petrol cars NOx -25%) from Factly's explainer citing the MoRTH notification. Notification itself not opened."
     - "Gadkari was Road Transport Minister in February 2016 (desk knowledge); photo caption limited to that."
     - "Statement that the registration certificate usually records the emission norm is general; hedged with 'usually'."
     - "10-year diesel / 15-year petrol rule in NCR from ETV Bharat; stated generally."
@@ -59,9 +59,9 @@ verification:
 
 ## What changed on Sunday?
 
-**Two sets of rules met at midnight.** The first is a Delhi government package that came into force on 1 November: vehicles registered outside Delhi that meet **BS-IV or older emission standards** can no longer run in the capital until 31 January. Offices must keep physical attendance at half, dusty building work has stopped and parking costs double. CNG and electric vehicles, ambulances, fire tenders and police vehicles are exempt.
+**Two sets of rules met at midnight.** The first is a Delhi government package that came into force on November 1: vehicles registered outside Delhi that meet **BS-IV or older emission standards** can no longer run in the capital until January 31. Offices must keep physical attendance at half, dusty building work has stopped and parking costs double. CNG and electric vehicles, ambulances, fire tenders and police vehicles are exempt.
 
-The second is older and aimed at trucks. On 1 November 2025 the Commission for Air Quality Management (CAQM) barred commercial goods vehicles registered outside Delhi unless they were BS-VI, CNG, LNG or electric. BS-IV goods vehicles were given **a transitional window until 31 October 2026**. That window closed on Saturday night, so an outside BS-IV truck that could enter Delhi last week cannot enter it now.
+The second is older and aimed at trucks. On November 1, 2025, the Commission for Air Quality Management (CAQM) barred commercial goods vehicles registered outside Delhi unless they were BS-VI, CNG, LNG or electric. BS-IV goods vehicles were given **a transitional window until October 31, 2026**. That window closed on Saturday night, so an outside BS-IV truck that could enter Delhi last week cannot enter it now.
 
 Chief Minister Rekha Gupta asked residents to cooperate. "Do not bring restricted vehicles registered outside Delhi into the city," she said.
 
@@ -69,16 +69,16 @@ Chief Minister Rekha Gupta asked residents to cooperate. "Do not bring restricte
 
 **Bharat Stage, India's version of Europe's emission standards.** The central government sets limits on how much carbon monoxide, nitrogen oxides (NOx), unburnt hydrocarbons and fine particulate matter a new vehicle's engine may emit, and on how much sulphur the fuel may contain. Each new stage tightens those limits, and carmakers must redesign engines and exhaust systems to meet them.
 
-The first stage arrived in 2000. BS-III became the national standard in 2010 and BS-IV in April 2017. Then the government did something unusual: it **skipped BS-V altogether** and jumped to BS-VI on 1 April 2020, under a Road Transport Ministry notification of February 2016.
+The first stage arrived in 2000. BS-III became the national standard in 2010 and BS-IV in April 2017. Then the government did something unusual: it **skipped BS-V altogether** and jumped to BS-VI on April 1, 2020, under a Road Transport Ministry notification of February 2016.
 
 ```photo
 {"n":1,"subject":"Nitin Gadkari","caption":"Nitin Gadkari, the Road Transport Minister, whose ministry notified the jump from BS-IV to BS-VI in February 2016.","alt":"Union Road Transport Minister Nitin Gadkari"}
 ```
 
-In 2018 the Supreme Court refused the government's request for a grace period and ordered that from 1 April 2020 **only BS-VI vehicles could be sold or registered** anywhere in India, including two-wheelers, three-wheelers and commercial vehicles.
+In 2018 the Supreme Court refused the government's request for a grace period and ordered that from April 1, 2020 **only BS-VI vehicles could be sold or registered** anywhere in India, including two-wheelers, three-wheelers and commercial vehicles.
 
 ```timeline
-{"title":"How India's vehicle emission rules tightened","items":[{"date":"2000","text":"Bharat Stage norms introduced, based on Euro I; BS-II in the National Capital Region."},{"date":"2010","text":"BS-III becomes the national standard."},{"date":"Feb 2016","text":"Road Transport Ministry notifies a direct jump to BS-VI, skipping BS-V."},{"date":"Apr 2017","text":"BS-IV comes into force across the country."},{"date":"Apr 2020","text":"BS-VI takes effect; only BS-VI vehicles can be sold or registered."},{"date":"Nov 2025","text":"CAQM bars outside non-BS-VI goods vehicles from Delhi, with BS-IV allowed for one more year."},{"date":"Nov 2026","text":"BS-IV window ends; Delhi also bars outside BS-IV and older vehicles until 31 January."}]}
+{"title":"How India's vehicle emission rules tightened","items":[{"date":"2000","text":"Bharat Stage norms introduced, based on Euro I; BS-II in the National Capital Region."},{"date":"2010","text":"BS-III becomes the national standard."},{"date":"Feb 2016","text":"Road Transport Ministry notifies a direct jump to BS-VI, skipping BS-V."},{"date":"Apr 2017","text":"BS-IV comes into force across the country."},{"date":"Apr 2020","text":"BS-VI takes effect; only BS-VI vehicles can be sold or registered."},{"date":"Nov 2025","text":"CAQM bars outside non-BS-VI goods vehicles from Delhi, with BS-IV allowed for one more year."},{"date":"Nov 2026","text":"BS-IV window ends; Delhi also bars outside BS-IV and older vehicles until January 31."}]}
 ```
 
 ## How much cleaner is BS-VI than BS-IV?

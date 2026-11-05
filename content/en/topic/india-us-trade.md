@@ -6,7 +6,7 @@ section: world
 format_label: Topic / India-US trade
 topics: [india-us-trade]
 title: "India-US trade"
-standfirst: "Where the trade deal, US tariffs on Indian goods and the Russia oil sanctions law stand, as of 11 October 2026."
+standfirst: "Where the trade deal, US tariffs on Indian goods and the Russia oil sanctions law stand, as of October 11, 2026."
 published: 2026-10-11T12:30:00+05:30
 hero:
   need: "Piyush Goyal with US Trade Representative Jamieson Greer, or an Indian port with export containers"
@@ -69,36 +69,36 @@ sources:
 verification:
   status: verified-with-notes
   notes:
-    - "Fact check 11 Oct 2026: PTI FY24/FY25 figures, Misri's remarks (All India Radio), Reuters' April-August export figures, the US fact sheet, Business Today, ELP and Outlook all reopened and match. Misri's $241 bn is described in AIR as a 'record' bilateral trade figure with no period or goods/services split; label changed from 'the last year' (not in the source). Note PTI (Apr 2025) called FY25 the US's fourth straight year as top partner, and Misri (Apr 2026) also said 'fourth consecutive year'; the two are inconsistent, so the body attributes the claim to Misri only."
+    - "Fact check Oct 11, 2026: PTI FY24/FY25 figures, Misri's remarks (All India Radio), Reuters' April-August export figures, the US fact sheet, Business Today, ELP and Outlook all reopened and match. Misri's $241 bn is described in AIR as a 'record' bilateral trade figure with no period or goods/services split; label changed from 'the last year' (not in the source). Note PTI (Apr 2025) called FY25 the US's fourth straight year as top partner, and Misri (Apr 2026) also said 'fourth consecutive year'; the two are inconsistent, so the body attributes the claim to Misri only."
     - "Official 2025-26 (FY26) goods trade figures with the US were not found in the search budget. The chart uses FY24 and FY25 commerce ministry data as reported by PTI; the commerce ministry's own database (trade-analytics.commerce.gov.in / tradestat) was not opened. Update with FY26 when sourced."
-    - "Foreign Secretary Vikram Misri's $241 billion figure (All India Radio, 9 April 2026) is not defined in the report as goods only or goods plus services, and no period is given (AIR: 'reached a record 241 billion US dollars'). Kept attributed, not compared with the goods figures."
+    - "Foreign Secretary Vikram Misri's $241 billion figure (All India Radio, April 9, 2026) is not defined in the report as goods only or goods plus services, and no period is given (AIR: 'reached a record 241 billion US dollars'). Kept attributed, not compared with the goods figures."
     - "April-August 2026 export figure ($42.79 bn) is Reuters' figure; the commerce ministry's country-wise release was not opened."
     - "Section 232 rates are as reported in February 2026; not reconfirmed for October."
     - "Status of the separate US Section 301 probe on industrial excess capacity could not be confirmed."
 ---
 
-India and the United States have been negotiating a trade deal since February 2025. A framework was announced in February 2026, but the first tranche is not in force and Finance Minister Nirmala Sitharaman said on 5 October that talks had reached a plateau, Reuters reported. A US law signed on 18 September now hangs over the talks: it lets the President impose tariffs of up to 100% on the biggest buyers of Russian oil and gas, including India.
+India and the United States have been negotiating a trade deal since February 2025. A framework was announced in February 2026, but the first tranche is not in force and Finance Minister Nirmala Sitharaman said on October 5 that talks had reached a plateau, Reuters reported. A US law signed on September 18 now hangs over the talks: it lets the President impose tariffs of up to 100% on the biggest buyers of Russian oil and gas, including India.
 
 ## Where things stand
 
-**In force (verified):** a 10% US Section 301 duty on Indian goods since 24 July 2026, on top of normal duties and with exclusions, set after a US forced-labour investigation. Goods under US Section 232 duties, such as steel and aluminium, are exempt from it.
+**In force (verified):** a 10% US Section 301 duty on Indian goods since July 24, 2026, on top of normal duties and with exclusions, set after a US forced-labour investigation. Goods under US Section 232 duties, such as steel and aluminium, are exempt from it.
 
-**Not in force:** the 18% reciprocal rate in the February framework, which never took effect after the US Supreme Court struck down the reciprocal tariffs on 20 February; the first tranche of the deal; and any tariff under the Russia sanctions law, which authorises but does not impose one.
+**Not in force:** the 18% reciprocal rate in the February framework, which never took effect after the US Supreme Court struck down the reciprocal tariffs on February 20; the first tranche of the deal; and any tariff under the Russia sanctions law, which authorises but does not impose one.
 
 **Not confirmed:** whether a second US probe, into industrial excess capacity, has led to a tariff on India.
 
 ```timeline
-{"title":"India-US trade, 2025 to 2026","items":[{"date":"Feb 2025","text":"The two countries begin seeking a trade deal"},{"date":"6 Feb 2026","text":"Joint statement on a framework; US says reciprocal tariff will fall from 25% to 18%"},{"date":"20 Feb 2026","text":"US Supreme Court strikes down reciprocal tariffs; a temporary 10% duty follows from 24 Feb"},{"date":"24 Jul 2026","text":"10% Section 301 duty on Indian goods takes effect"},{"date":"29 Jul 2026","text":"Goyal says first tranche will operate once India regains an edge over competitors"},{"date":"18 Sep 2026","text":"Trump signs Russia sanctions law allowing tariffs of up to 100%"},{"date":"5 Oct 2026","text":"Sitharaman says talks have reached a plateau"}]}
+{"title":"India-US trade, 2025 to 2026","items":[{"date":"Feb 2025","text":"The two countries begin seeking a trade deal"},{"date":"Feb 6, 2026","text":"Joint statement on a framework; US says reciprocal tariff will fall from 25% to 18%"},{"date":"Feb 20, 2026","text":"US Supreme Court strikes down reciprocal tariffs; a temporary 10% duty follows from Feb 24"},{"date":"Jul 24, 2026","text":"10% Section 301 duty on Indian goods takes effect"},{"date":"Jul 29, 2026","text":"Goyal says first tranche will operate once India regains an edge over competitors"},{"date":"Sep 18, 2026","text":"Trump signs Russia sanctions law allowing tariffs of up to 100%"},{"date":"Oct 5, 2026","text":"Sitharaman says talks have reached a plateau"}]}
 ```
 
 ## Key numbers
 
 ```chart
-{"type":"vbar","title":"India's goods trade with the US","subtitle":"US$ billion, financial years","unit":"$ bn","data":[{"label":"Exports 2023-24","value":77.52},{"label":"Exports 2024-25","value":86.51,"highlight":true},{"label":"Imports 2023-24","value":42.2},{"label":"Imports 2024-25","value":45.33,"highlight":true}],"source":"Commerce ministry data via PTI, 16 Apr 2025"}
+{"type":"vbar","title":"India's goods trade with the US","subtitle":"US$ billion, financial years","unit":"$ bn","data":[{"label":"Exports 2023-24","value":77.52},{"label":"Exports 2024-25","value":86.51,"highlight":true},{"label":"Imports 2023-24","value":42.2},{"label":"Imports 2024-25","value":45.33,"highlight":true}],"source":"Commerce ministry data via PTI, Apr 16, 2025"}
 ```
 
 ```facts
-{"title":"India-US trade in figures","items":[{"value":"$131.84 bn","label":"bilateral goods trade, 2024-25","source":"Commerce ministry data via PTI"},{"value":"$41.18 bn","label":"India's goods trade surplus with the US, 2024-25","source":"Commerce ministry data via PTI"},{"value":"$42.79 bn","label":"Indian goods exports to the US, April-August 2026 ($40.39 bn a year earlier)","source":"Reuters, 5 Oct 2026"},{"value":"$241 bn","label":"record bilateral trade cited by Foreign Secretary Vikram Misri (period and scope not stated)","source":"All India Radio, 9 Apr 2026"}]}
+{"title":"India-US trade in figures","items":[{"value":"$131.84 bn","label":"bilateral goods trade, 2024-25","source":"Commerce ministry data via PTI"},{"value":"$41.18 bn","label":"India's goods trade surplus with the US, 2024-25","source":"Commerce ministry data via PTI"},{"value":"$42.79 bn","label":"Indian goods exports to the US, April-August 2026 ($40.39 bn a year earlier)","source":"Reuters, Oct 5, 2026"},{"value":"$241 bn","label":"record bilateral trade cited by Foreign Secretary Vikram Misri (period and scope not stated)","source":"All India Radio, Apr 9, 2026"}]}
 ```
 
 Misri said in April that it was the fourth consecutive year the US had been India's largest bilateral trading partner. He said both sides aim to double bilateral trade to $500 billion by 2030.
@@ -107,8 +107,8 @@ Misri said in April that it was the fourth consecutive year the US had been Indi
 
 **What is holding up the deal?** Commerce Minister Piyush Goyal said in July that the first tranche will come into operation once the US ensures India has a comparative advantage over competitors, PTI reported.
 
-**Is a 100% tariff in force?** No. The law allows the US President to set a tariff of up to 100% on the five largest buyers of Russian oil and gas. None had been reported as imposed by 5 October.
+**Is a 100% tariff in force?** No. The law allows the US President to set a tariff of up to 100% on the five largest buyers of Russian oil and gas. None had been reported as imposed by October 5.
 
-**How has India responded to the law?** The MEA said on 17 September that India will take necessary measures to protect its trade and economic interests and will keep ensuring energy security "through diversified sourcing and on the basis of evolving market dynamics", PTI reported.
+**How has India responded to the law?** The MEA said on September 17 that India will take necessary measures to protect its trade and economic interests and will keep ensuring energy security "through diversified sourcing and on the basis of evolving market dynamics", PTI reported.
 
 **Are exports to the US falling?** Not in the latest figures. Goods exports to the US rose to $42.79 billion in April-August from $40.39 billion a year earlier, Reuters reported.

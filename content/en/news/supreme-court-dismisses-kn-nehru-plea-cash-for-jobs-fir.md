@@ -28,7 +28,7 @@ cover:
   people: ["K. N. Nehru"]
 related: [supreme-court-vikram-nath-airfare-plea-dont-travel-by-air]
 seo:
-  description: "The Supreme Court on 2 November 2026 dismissed DMK leader K N Nehru's plea against a Madras High Court direction to register a corruption FIR in a cash-for-jobs case."
+  description: "The Supreme Court on November 2, 2026, dismissed DMK leader K N Nehru's plea against a Madras High Court direction to register a corruption FIR in a cash-for-jobs case."
 sources:
   - title: "KN Nehru's Plea Dismissed: Supreme Court Leaves Madras HC Corruption FIR Direction Intact"
     publisher: "LawChakra"
@@ -38,7 +38,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "event: 2 Nov, order passed before 1:18 pm IST (LawChakra report stamped 1:18 pm byline, 1:20 pm metadata); exact hearing time not given. LiveLaw alert at 10:49 am had said the plea was yet to be heard."
+    - "event: Nov 2, order passed before 1:18 pm IST (LawChakra report stamped 1:18 pm byline, 1:20 pm metadata); exact hearing time not given. LiveLaw alert at 10:49 am had said the plea was yet to be heard."
     - "Single source (LawChakra). Bench's remarks paraphrased; only direct quote is Shyam Divan's submission. State's counsel not named."
     - "Whether an FIR has already been registered is not stated; copy says the direction stands."
     - "Divan's PMLA Section 66(2) argument: report says the bench did not deal with it in a reasoned ruling."
@@ -46,7 +46,7 @@ verification:
 
 The Supreme Court on Monday **dismissed a plea by K N Nehru**, the former Tamil Nadu minister and DMK leader, against a Madras High Court direction to register a corruption FIR against him over an alleged cash-for-jobs racket.
 
-A bench of Justices Dipankar Datta and Sheel Nagu said it found no ground to interfere with the High Court's judgment of 20 February or with its order of 26 October rejecting Nehru's review petition. The State of Tamil Nadu had filed a caveat in the case.
+A bench of Justices Dipankar Datta and Sheel Nagu said it found no ground to interfere with the High Court's judgment of February 20 or with its order of October 26 rejecting Nehru's review petition. The State of Tamil Nadu had filed a caveat in the case.
 
 ## What the bench said
 
@@ -56,7 +56,7 @@ Senior Advocate Shyam Divan, for Nehru, argued that the case had been brought by
 
 > "When a political rival has approached the Court, the Court ought to be more circumspect."
 >
-> Source: Shyam Divan, Senior Advocate for K N Nehru, Supreme Court, 2 November 2026
+> Source: Shyam Divan, Senior Advocate for K N Nehru, Supreme Court, November 2, 2026
 
 Divan also argued that the Enforcement Directorate's money-laundering case (ECIR) had been quashed in July 2025, so the agency had no power to share its material with the state police under Section 66(2) of the PMLA. The bench was not persuaded and dismissed the petition.
 
@@ -68,6 +68,6 @@ Divan also argued that the Enforcement Directorate's money-laundering case (ECIR
 
 In October 2025 the ED wrote to the Tamil Nadu police chief alleging a cash-for-jobs racket in the Municipal Administration and Water Supply department, covering recruitment to **2,538 posts and about ₹634 crore** in alleged bribes. No action followed.
 
-Writ petitions by Athinarayanan and AIADMK Rajya Sabha member I S Inbadurai led the High Court to order an FIR in February. The state government filed a review but withdrew it after the change of government. Nehru then filed his own review, saying he had not been heard. The High Court dismissed it on 26 October and he moved the Supreme Court the same day.
+Writ petitions by Athinarayanan and AIADMK Rajya Sabha member I S Inbadurai led the High Court to order an FIR in February. The state government filed a review but withdrew it after the change of government. Nehru then filed his own review, saying he had not been heard. The High Court dismissed it on October 26 and he moved the Supreme Court the same day.
 
 With Monday's order, the state's anti-corruption agency must now act on the ED's information.
