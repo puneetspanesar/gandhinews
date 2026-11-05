@@ -84,10 +84,6 @@ The Centre launched it on **2 October 2019**, after Parliament passed the Crimin
 
 Not every state signed up for its full quota, and the network never reached the target. The scheme was extended once before, in November 2023, until 31 March 2026 at a cost of ₹1,952.23 crore.
 
-```photo
-{"n":1,"subject":"Supreme Court of India","caption":"The Supreme Court's push for speedier trials in child sexual abuse cases was one of the triggers for the scheme in 2019.","alt":"The Supreme Court of India in New Delhi"}
-```
-
 ## What did the Cabinet decide on Wednesday?
 
 **Five more years, until 31 March 2031.** The Cabinet approved ₹3,788.04 crore for the period, of which the Centre will pay ₹2,353.15 crore and the states ₹1,434.89 crore. The number of working courts is to rise **from about 779 to 850**, with the new ones placed in districts where these cases pile up. Union Minister Ashwini Vaishnaw said the extension was meant "to ensure faster justice in cases of rape and child sexual abuse".

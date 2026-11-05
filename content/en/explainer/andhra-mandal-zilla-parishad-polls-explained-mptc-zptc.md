@@ -125,10 +125,6 @@ Polling runs from 7 am to 5 pm, except at 88 stations in Alluri Sitarama Raju an
 
 **It is the first statewide rural test for Naidu's government.** The TDP, the Jana Sena and the BJP won 164 of the 175 Assembly seats in 2024 and are contesting together. The roles have reversed: this time it is the YSRCP that says its candidates were attacked and stopped from filing, from Chittoor and Tirupati to Palnadu, and it went to the Supreme Court over the urban polls. The ruling alliance accuses the YSRCP of filing 59 petitions in court to obstruct the polls.
 
-```photo
-{"n":2,"subject":"Y. S. Avinash Reddy","caption":"YSRCP Kadapa MP Y. S. Avinash Reddy was placed under house arrest in Pulivendula during the nomination clashes in October.","alt":"YSR Congress Party MP Y. S. Avinash Reddy (file photo)"}
-```
-
 Caste is also on the ballot. The Andhra Pradesh High Court struck down a **34% quota for Backward Classes** in rural local bodies on 1 October because it took total reservation above 50%, and the Supreme Court refused to interfere. Naidu promised instead that the alliance would give 34% of its tickets to BC candidates; Saturday's count will show how many of them win.
 
 The poll also reaches beyond the state's borders. Andhra Pradesh is holding the vote in **Kotia, a cluster of villages Odisha claims**, and Odisha's Leader of Opposition Naveen Patnaik has asked Chief Minister Mohan Charan Majhi to take it up. In 2021 a border dispute pending in the Supreme Court disrupted polling in about six villages on the Odisha border.

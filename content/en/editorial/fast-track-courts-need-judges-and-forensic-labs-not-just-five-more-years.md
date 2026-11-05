@@ -88,10 +88,6 @@ Seventy-one more courts will help. On their own they will not close the gap. At 
 
 A court is only as fast as the case file that reaches it. Rape and POCSO trials rest on medical and DNA evidence, and **forensic laboratories are the bottleneck** in state after state. In August 2024 the Punjab and Haryana High Court took up the problem on its own after learning that DNA reports were awaited in 73 cases in Faridabad alone, with the accused in 40 of them in custody for five years. Justice Harpreet Singh Brar spoke of the "indolent laxity" of investigating agencies and noted a shortage of laboratories and staff across Punjab, Haryana and Chandigarh.
 
-```photo
-{"n":1,"subject":"Punjab and Haryana High Court","caption":"The Punjab and Haryana High Court in Chandigarh, which took up delayed DNA reports in sexual offence cases on its own in 2024.","alt":"The Punjab and Haryana High Court building in Chandigarh"}
-```
-
 Five years in jail without a verdict is justice for no one: not for a survivor who cannot move on, and not for an accused who may be innocent.
 
 The courts also need people. The Centre pays for a judicial officer and support staff in each court, but **recruitment is left to states and High Courts**. A fast-track court without a presiding officer, a special public prosecutor or a stenographer is a room with a sign on the door.
