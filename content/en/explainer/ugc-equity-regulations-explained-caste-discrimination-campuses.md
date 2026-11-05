@@ -8,7 +8,7 @@ topics: [supreme-court]
 title: "UGC equity rules explained: what the caste discrimination regulations say and why they are on hold"
 standfirst: "The Centre told the Supreme Court on Thursday it may set up a committee to look again at the UGC's 2026 rules against caste bias on campuses. What the rules require of colleges, why they were challenged, and what a review could change."
 published: 2026-11-05T17:50:00+05:30
-shortAnswer: "The UGC (Promotion of Equity in Higher Education Institutions) Regulations, 2026, notified on 13 January, require every college and university to set up an Equal Opportunity Centre, an Equity Committee and a round-the-clock helpline to deal with discrimination complaints, on pain of losing UGC schemes and recognition. Petitioners argued that the rules define caste-based discrimination only as bias against SC, ST and OBC students, leaving others without the same protection, and the Supreme Court put them in abeyance on 29 January, reviving the 2012 rules. On 5 November the Centre told the court it is considering a committee to revisit the regulations."
+shortAnswer: "The UGC (Promotion of Equity in Higher Education Institutions) Regulations, 2026, notified on January 13, require every college and university to set up an Equal Opportunity Centre, an Equity Committee and a round-the-clock helpline to deal with discrimination complaints, on pain of losing UGC schemes and recognition. Petitioners argued that the rules define caste-based discrimination only as bias against SC, ST and OBC students, leaving others without the same protection, and the Supreme Court put them in abeyance on January 29, reviving the 2012 rules. On November 5 the Centre told the court it is considering a committee to revisit the regulations."
 hero:
   need: "The University Grants Commission, which framed the equity regulations"
   suggested_source: "University Grants Commission"
@@ -26,9 +26,9 @@ infographic:
     - {icon: calendar, value: "15 working days", label: "for the committee to report its findings"}
   timeline:
     - {date: "2019", text: "Mothers of Rohith Vemula and Payal Tadvi file plea", icon: users}
-    - {date: "13 Jan 2026", text: "UGC notifies the equity regulations", icon: file-text}
-    - {date: "29 Jan 2026", text: "Supreme Court keeps them in abeyance", icon: gavel}
-    - {date: "5 Nov 2026", text: "Centre says it may form a review panel", icon: scales}
+    - {date: "Jan 13, 2026", text: "UGC notifies the equity regulations", icon: file-text}
+    - {date: "Jan 29, 2026", text: "Supreme Court keeps them in abeyance", icon: gavel}
+    - {date: "Nov 5, 2026", text: "Centre says it may form a review panel", icon: scales}
   source: "UGC regulations, January 2026; Supreme Court hearings, 2026"
 related: [supreme-court-ugc-equity-regulations-centre-mulls-review-panel, census-2027-what-will-be-asked-caste]
 seo:
@@ -62,17 +62,17 @@ sources:
 verification:
   status: approved
   notes:
-    - "5 November hearing details and quotes ('Why don't you revisit the UGC Regulations?', 'The government has taken a decision that every student should be taken care of') taken from the desk's 15:58 news story, which rests on ETV Bharat. ETV Bharat and Oneindia pages could not be fetched in this run (permission not granted)."
+    - "November 5 hearing details and quotes ('Why don't you revisit the UGC Regulations?', 'The government has taken a decision that every student should be taken care of') taken from the desk's 15:58 news story, which rests on ETV Bharat. ETV Bharat and Oneindia pages could not be fetched in this run (permission not granted)."
     - "Contents of the regulations (EOC, Equity Committee, helpline, squads, ambassadors, 24 hours / 15 working days / 7 working days timeline, penalties under Regulation 11, national monitoring committee) from SCC Online's explainer and The News Minute; the gazette text was not opened. The 30-day appeal to an Ombudsperson appears only in SCC Online and is left out of the copy."
-    - "29 January order (bench, abeyance, Article 142 revival of 2012 rules, quotes, tagging with Abeda Salim Tadvi, committee of jurists suggested) from Supreme Court Observer."
-    - "20 August hearing (bench with Justice V Mohana, 'under reconsideration', four weeks for counter-affidavit) from Free Press Journal only."
+    - "January 29 order (bench, abeyance, Article 142 revival of 2012 rules, quotes, tagging with Abeda Salim Tadvi, committee of jurists suggested) from Supreme Court Observer."
+    - "August 20 hearing (bench with Justice V Mohana, 'under reconsideration', four weeks for counter-affidavit) from Free Press Journal only."
     - "Petitioners in the 2019 PIL named as Radhika Vemula and Abeda Salim Tadvi (Free Press Journal). Year of Rohith Vemula's and Payal Tadvi's deaths not given in sources read, so left out."
     - "News Minute date assumed as the day after notification from its URL context; not confirmed."
 ---
 
 ## What are the UGC equity regulations?
 
-**A set of rules telling every college and university how to prevent and deal with discrimination.** Their full name is the University Grants Commission (Promotion of Equity in Higher Education Institutions) Regulations, 2026. The UGC notified them on 13 January, and they apply to **all higher education institutions** in the country, including deemed universities.
+**A set of rules telling every college and university how to prevent and deal with discrimination.** Their full name is the University Grants Commission (Promotion of Equity in Higher Education Institutions) Regulations, 2026. The UGC notified them on January 13, and they apply to **all higher education institutions** in the country, including deemed universities.
 
 They replaced the UGC's 2012 equity rules. They grew out of a public interest case filed in 2019 by Radhika Vemula and Abeda Salim Tadvi, mothers of Rohith Vemula and Payal Tadvi, two students who died by suicide after alleged caste discrimination. That petition complained that the 2012 rules were not being enforced, and the Supreme Court **directed the UGC to frame new regulations**.
 
@@ -100,15 +100,15 @@ Petitioners led by advocate Vishnu Shankar Jain argued that Clause 3(c) leaves g
 
 ## What did the Supreme Court do?
 
-**It put the rules on hold on 29 January.** A bench of Chief Justice Surya Kant and Justice Joymalya Bagchi found the regulations prima facie vague and open to misuse, and kept them in abeyance. Using its powers under Article 142, it ordered that **the 2012 regulations will continue** until further orders.
+**It put the rules on hold on January 29.** A bench of Chief Justice Surya Kant and Justice Joymalya Bagchi found the regulations prima facie vague and open to misuse, and kept them in abeyance. Using its powers under Article 142, it ordered that **the 2012 regulations will continue** until further orders.
 
 Justice Bagchi asked whether Clause 3(c) was needed at all, given the wider definition in Clause 3(e). The Chief Justice said his concern was an effective mechanism to protect marginalised students, and warned against any move towards separate hostels: "For gods sake, please don't do that." Senior advocate Indira Jaising, for the mothers, argued that the rules aim at an inclusive campus. The challenge was tagged with their 2019 case.
 
 ```timeline
-{"title":"How the equity rules reached a review","items":[{"date":"2019","text":"Radhika Vemula and Abeda Salim Tadvi petition the Supreme Court over caste bias on campuses"},{"date":"13 Jan 2026","text":"UGC notifies the Promotion of Equity regulations"},{"date":"29 Jan 2026","text":"Supreme Court keeps them in abeyance and revives the 2012 rules"},{"date":"20 Aug 2026","text":"Centre tells the court the rules are under reconsideration"},{"date":"5 Nov 2026","text":"Centre says it is considering a committee to revisit them"}]}
+{"title":"How the equity rules reached a review","items":[{"date":"2019","text":"Radhika Vemula and Abeda Salim Tadvi petition the Supreme Court over caste bias on campuses"},{"date":"Jan 13, 2026","text":"UGC notifies the Promotion of Equity regulations"},{"date":"Jan 29, 2026","text":"Supreme Court keeps them in abeyance and revives the 2012 rules"},{"date":"Aug 20, 2026","text":"Centre tells the court the rules are under reconsideration"},{"date":"Nov 5, 2026","text":"Centre says it is considering a committee to revisit them"}]}
 ```
 
-## What did the Centre say on 5 November?
+## What did the Centre say on November 5?
 
 **That it may form a committee to review the rules.** In August Solicitor General Tushar Mehta had told the court the regulations were "under reconsideration". On Thursday the bench went further and asked: "Why don't you revisit the UGC Regulations?"
 

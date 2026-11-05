@@ -9,7 +9,7 @@ title: "Fix the UGC's caste discrimination rules if they must be fixed. Do not l
 standfirst: "The Centre has told the Supreme Court it may set up a panel to revisit the equity rules for campuses. Widening protection to every student is a fair aim. Using a review to stall safeguards that grew out of Rohith Vemula's and Payal Tadvi's deaths would not be."
 published: 2026-11-05T18:10:00+05:30
 keyPoints:
-  - "The rules were **kept in abeyance on 29 January**, and the weaker 2012 rules still apply."
+  - "The rules were **kept in abeyance on January 29**, and the weaker 2012 rules still apply."
   - "Any review panel should have **a deadline measured in weeks**, and its report should be public."
   - "Protection can be **extended to every student** without dropping the Equal Opportunity Centres or adding a penalty that scares off complainants."
 hero:
@@ -28,9 +28,9 @@ infographic:
   timeline:
     - {date: "2012", text: "First UGC rules against campus discrimination", icon: file-text}
     - {date: "2019", text: "Mothers of Rohith Vemula and Payal Tadvi go to court", icon: scales}
-    - {date: "13 Jan 2026", text: "New equity regulations notified", icon: check-square}
-    - {date: "29 Jan 2026", text: "Supreme Court keeps them in abeyance", icon: gavel}
-    - {date: "5 Nov 2026", text: "Centre says it may set up a review panel", icon: users}
+    - {date: "Jan 13, 2026", text: "New equity regulations notified", icon: check-square}
+    - {date: "Jan 29, 2026", text: "Supreme Court keeps them in abeyance", icon: gavel}
+    - {date: "Nov 5, 2026", text: "Centre says it may set up a review panel", icon: users}
   source: "Supreme Court hearings and UGC regulations, 2012 to 2026"
 related: [supreme-court-ugc-equity-regulations-centre-mulls-review-panel, qs-asia-slide-india-universities-must-open-to-the-world]
 seo:
@@ -64,12 +64,12 @@ sources:
 verification:
   status: approved
   notes:
-    - "Editorial view of the desk. 5 November hearing (CJI Surya Kant and Justice Joymalya Bagchi; 'Why don't you revisit the UGC Regulations?'; SG Tushar Mehta 'The government has taken a decision that every student should be taken care of'; no section dissatisfied) from the desk's news story of the same day, sourced to ETV Bharat. ETV Bharat page could not be re-opened in this run (permission timed out)."
-    - "29 January 2026 stay, 'vague', 'capable of misuse', 'dividing the society', three petitions, redraft and abeyance, notification on 13 January superseding 2012 rules, origin in the PIL by the mothers of Rohith Vemula and Payal Tadvi (2019): The News Minute, fetched."
+    - "Editorial view of the desk. November 5 hearing (CJI Surya Kant and Justice Joymalya Bagchi; 'Why don't you revisit the UGC Regulations?'; SG Tushar Mehta 'The government has taken a decision that every student should be taken care of'; no section dissatisfied) from the desk's news story of the same day, sourced to ETV Bharat. ETV Bharat page could not be re-opened in this run (permission timed out)."
+    - "January 29, 2026, stay, 'vague', 'capable of misuse', 'dividing the society', three petitions, redraft and abeyance, notification on January 13 superseding 2012 rules, origin in the PIL by the mothers of Rohith Vemula and Payal Tadvi (2019): The News Minute, fetched."
     - "2012 regulations to continue under Article 142, and the petitioners' objection that Regulation 3(1)(c) leaves out general category students: SabrangIndia, fetched (its summary of the order; order text not read). SabrangIndia publication date approximate (early February 2026); not shown on the fetched text."
     - "Disha Wadekar quote and the removal of the 'false cases' clause: Newslaundry, fetched."
-    - "Thorat's point on conflict of interest for heads of institutions is from The Wire's page summary only; paraphrased, no direct quote. The Wire page date 30 January 2026."
-    - "Whether the Centre made any redraft between January and November was not established; a current-affairs site headline dated 21 August 2026 suggested the Centre told the court the rules were being reconsidered, so the copy does not say nothing happened, only that a panel is now being considered."
+    - "Thorat's point on conflict of interest for heads of institutions is from The Wire's page summary only; paraphrased, no direct quote. The Wire page date January 30, 2026."
+    - "Whether the Centre made any redraft between January and November was not established; a current-affairs site headline dated August 21, 2026, suggested the Centre told the court the rules were being reconsidered, so the copy does not say nothing happened, only that a panel is now being considered."
     - "Rohith Vemula as a research scholar at the University of Hyderabad (photo caption) is desk background knowledge, not from a source read in this run."
     - "Recommendations are the desk's own."
 ---
@@ -80,8 +80,7 @@ A review can improve the rules. It can also become the place where they quietly 
 
 ## How the rules got here
 
-The UGC (Promotion of Equity in Higher Education Institutions) Regulations, 2026 were notified on 13 January to replace a 2012 notification. They grew out of a public interest petition filed in 2019 by the mothers of **Rohith Vemula and Payal Tadvi**, two students whose families say caste discrimination drove them to take their own lives. The new rules require every college and university to set up Equal Opportunity Centres and Equity Committees and to inquire into complaints.
-
+The UGC (Promotion of Equity in Higher Education Institutions) Regulations, 2026 were notified on January 13 to replace a 2012 notification. They grew out of a public interest petition filed in 2019 by the mothers of **Rohith Vemula and Payal Tadvi**, two students whose families say caste discrimination drove them to take their own lives. The new rules require every college and university to set up Equal Opportunity Centres and Equity Committees and to inquire into complaints.
 
 Sixteen days later the court **kept the regulations in abeyance**, calling them prima facie "vague" and "capable of misuse" and warning that they risked "dividing the society". The 2012 rules, which the families had gone to court because they found them too weak, continue in the meantime.
 

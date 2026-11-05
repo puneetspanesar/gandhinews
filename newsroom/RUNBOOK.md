@@ -53,6 +53,7 @@ Wrong picks go into newsroom/scripts/blocklist.txt (file name, lower case) so no
 
 ## D. The gate (every run, in this order, nothing skipped)
 ```
+python3 newsroom/scripts/fix_dates.py $(git diff --name-only origin/main -- content/en | grep '\.md$')   # day-month dates to month day
 python3 newsroom/scripts/refresh_home.py [--lead <id>] [--pin <id> ...]
 python3 newsroom/scripts/check_fresh.py              # must print OK
 npm run -s check:photos                               # must print OK

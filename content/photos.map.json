@@ -29666,6 +29666,18 @@
   "alt_hi": "पूर्वी अपतटीय क्षेत्र में ओएनजीसी का एक अपतटीय प्लेटफॉर्म (फ़ाइल फ़ोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:ONGC_DDW_Platform,_Eastern_Offshore.jpg"
  },
+ "titan-q2-standalone-profit-doubles-2393-crore": {
+  "id": "x-titan-q2-standalone-profit-doubles-2393-crore",
+  "src": "/photos/x-titan-q2-standalone-profit-doubles-2393-crore-1280.jpg",
+  "src800": "/photos/x-titan-q2-standalone-profit-doubles-2393-crore-640.jpg",
+  "width": 1280,
+  "height": 1414,
+  "credit": "Photo: Billjones94 / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "A Tanishq showroom of Titan Company in Kolkata (file photo)",
+  "alt_hi": "कोलकाता में टाइटन कंपनी का तनिष्क शोरूम (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Tanishq_showroom_at_83_Bipin_BB_Ganguly_Street,_Bowbazar,_in_Kolkata.jpg"
+ },
  "glenmark-pharma-q2-profit-falls-57-per-cent-264-crore": {
   "id": "i-glenmark-pharma-q2-profit-falls-57-per-cent-264-crore",
   "src": "/photos/i-glenmark-pharma-q2-profit-falls-57-per-cent-264-crore-en-3x2-1280.jpg",
@@ -29706,17 +29718,5 @@
     "src800": "/photos/i-glenmark-pharma-q2-profit-falls-57-per-cent-264-crore-hi-640.jpg"
    }
   }
- },
- "titan-q2-standalone-profit-doubles-2393-crore": {
-  "id": "x-titan-q2-standalone-profit-doubles-2393-crore",
-  "src": "/photos/x-titan-q2-standalone-profit-doubles-2393-crore-1280.jpg",
-  "src800": "/photos/x-titan-q2-standalone-profit-doubles-2393-crore-640.jpg",
-  "width": 1280,
-  "height": 1414,
-  "credit": "Photo: Billjones94 / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "A Tanishq showroom of Titan Company in Kolkata (file photo)",
-  "alt_hi": "कोलकाता में टाइटन कंपनी का तनिष्क शोरूम (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Tanishq_showroom_at_83_Bipin_BB_Ganguly_Street,_Bowbazar,_in_Kolkata.jpg"
  }
 }
