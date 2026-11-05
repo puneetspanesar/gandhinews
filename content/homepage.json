@@ -22,10 +22,10 @@
       "andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6"
     ],
     "relatedBeside": [
-      "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8",
-      "glenmark-pharma-q2-profit-falls-57-per-cent-264-crore",
+      "sensex-nifty-close-november-5-rally",
+      "us-midterms-schumer-lower-costs-with-or-without-trump",
       "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
-      "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
+      "naveen-patnaik-writes-majhi-kotia-andhra-elections",
       "india-japan-asian-champions-trophy-final-mohali-preview"
     ],
     "live": {
@@ -38,25 +38,25 @@
   "briefing": {
     "items": [
       {
-        "link": "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8",
+        "link": "sensex-nifty-close-november-5-rally",
         "lead": {
-          "en": "Companies:",
-          "hi": "कंपनियां:"
+          "en": "Markets:",
+          "hi": "बाज़ार:"
         },
         "text": {
-          "en": "ONGC Q2 profit jumps 57% to ₹15,489 crore, ₹8 interim dividend declared",
-          "hi": "ONGC का दूसरी तिमाही का मुनाफ़ा 57% बढ़कर ₹15,489 करोड़, ₹8 का अंतरिम लाभांश"
+          "en": "Sensex soars 2,009 points to 79,310, Nifty ends at 24,537 as banks and autos power sixth straight gain",
+          "hi": "सेंसेक्स 2,009 अंक उछलकर 79,310 पर बंद, निफ्टी 24,537 पर; बैंक और ऑटो शेयरों से लगातार छठे दिन तेजी"
         }
       },
       {
-        "link": "glenmark-pharma-q2-profit-falls-57-per-cent-264-crore",
+        "link": "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action",
         "lead": {
-          "en": "Companies:",
-          "hi": "कंपनियां:"
+          "en": "Karnataka:",
+          "hi": "कर्नाटक:"
         },
         "text": {
-          "en": "Glenmark Pharma's Q2 profit falls 57% to ₹264 crore as revenue drops 30%",
-          "hi": "ग्लेनमार्क फार्मा का दूसरी तिमाही का मुनाफा 57% घटकर ₹264 करोड़, आय 30% गिरी"
+          "en": "Priyank Kharge warns Vijayendra and Narayanaswamy of legal action over remarks on Congress workers",
+          "hi": "प्रियांक खड़गे की विजयेंद्र और नारायणस्वामी को चेतावनी, कांग्रेस कार्यकर्ताओं पर टिप्पणी जारी रही तो कानूनी कार्रवाई"
         }
       },
       {
@@ -73,8 +73,8 @@
       {
         "link": "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
         "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
+          "en": "Tirupati:",
+          "hi": "तिरुपति:"
         },
         "text": {
           "en": "Supreme Court refuses to move Tirupati laddu ghee trial out of Andhra Pradesh",
@@ -93,14 +93,14 @@
         }
       },
       {
-        "link": "andhra-mptc-zptc-polling-today-2-81-crore-voters",
+        "link": "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears",
         "lead": {
-          "en": "Andhra Pradesh:",
-          "hi": "आंध्र प्रदेश:"
+          "en": "Punjab:",
+          "hi": "पंजाब:"
         },
         "text": {
-          "en": "Andhra Pradesh votes today for mandal and zilla parishads after a two-day delay",
-          "hi": "आंध्र प्रदेश में आज मंडल और जिला परिषद चुनाव, दो दिन की देरी से हो रहा मतदान"
+          "en": "Supreme Court halts criminal contempt case against Punjab Chief Secretary over DA arrears",
+          "hi": "डीए बकाया मामले में पंजाब के मुख्य सचिव के खिलाफ आपराधिक अवमानना पर सुप्रीम कोर्ट की रोक"
         }
       },
       {
@@ -190,28 +190,28 @@
   },
   "topStories": {
     "big": {
-      "id": "andhra-mptc-zptc-polling-today-2-81-crore-voters",
+      "id": "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action",
       "also": []
     },
     "list": [
       "alcaraz-beats-michelsen-fils-machac-paris-masters-last-16",
-      "us-midterms-schumer-lower-costs-with-or-without-trump",
-      "hijikata-stuns-djokovic-paris-masters-turin-hopes-end",
-      "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action",
-      "wall-street-jumps-dow-1131-democrats-win-congress"
+      "us-midterms-alaska-sullivan-peltola-too-close-to-call",
+      "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
+      "jairam-ramesh-vb-g-ram-g-grievance-rules-jumla",
+      "hijikata-stuns-djokovic-paris-masters-turin-hopes-end"
     ],
     "also": [
-      "cabinet-fast-track-special-courts-2031-850-courts",
-      "modi-meet-asian-para-games-contingent-thursday"
+      "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears",
+      "supreme-court-sends-azam-khan-ed-arrest-plea-allahabad-hc-november-16"
     ]
   },
   "startHere": [
-    "24-hour-rule-explained-article-22-detention-arrest",
-    "ugc-equity-regulations-explained-caste-discrimination-campuses",
     "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
     "fast-track-special-courts-explained-rape-pocso-backlog",
     "energy-storage-vgf-explained-why-india-needs-batteries-pumped-hydro",
-    "two-child-norm-explained-javed-ruling-larger-bench"
+    "two-child-norm-explained-javed-ruling-larger-bench",
+    "us-midterms-explained-congress-tariffs-what-it-means-for-india",
+    "foreign-divorce-explained-bigamy-section-13-cpc-supreme-court"
   ],
   "trackers": [
     {
@@ -364,11 +364,11 @@
     }
   ],
   "opinion": [
-    "ugc-equity-rules-revise-them-do-not-bury-them",
-    "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
     "democratic-congress-india-should-close-trade-deal-on-its-own-terms",
     "fast-track-courts-need-judges-and-forensic-labs-not-just-five-more-years",
-    "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth"
+    "delhi-voters-struck-off-need-one-clear-form-and-their-names-at-the-booth",
+    "child-labour-ban-needs-inspectors-and-rescue-not-just-a-cell",
+    "coastal-freight-goal-for-2047-needs-milestones-this-decade"
   ],
   "sections": [
     {
@@ -460,10 +460,9 @@
       "lead": "india-japan-asian-champions-trophy-final-mohali-preview",
       "list": [
         "alcaraz-beats-michelsen-fils-machac-paris-masters-last-16",
+        "india-beat-south-korea-8-1-asian-champions-trophy-semi-final-mohali",
         "como-nine-at-lens-city-arsenal-win-champions-league",
-        "fenerbahce-3-2-liverpool-muriqi-valverde-real-madrid-aek",
-        "hijikata-stuns-djokovic-paris-masters-turin-hopes-end",
-        "india-beat-south-korea-8-1-asian-champions-trophy-semi-final-mohali"
+        "fenerbahce-3-2-liverpool-muriqi-valverde-real-madrid-aek"
       ]
     }
   ],
