@@ -59,21 +59,21 @@ verification:
     - "Infosys domestic share close on Friday not found; not given."
 ---
 
-Infosys cut its revenue forecast for the second quarter running on Friday. The Bengaluru company now expects sales to grow just 1% to 2% in constant currency in 2026-27, down from the 1.5% to 3% it set in July, and its shares in New York fell 8.5% in pre-market trade.
+Infosys cut its revenue forecast for the second quarter running on Friday. The Bengaluru company now expects sales to grow just **1% to 2%** in constant currency in 2026-27, down from the 1.5% to 3% it set in July, and its shares in New York fell 8.5% in pre-market trade.
 
-The September-quarter figures were close to what analysts had expected. Net profit rose 6.2% from a year earlier to ₹7,823 crore and was 0.7% higher than in the June quarter. Revenue from operations rose 10.7% to ₹49,244 crore. In dollars, revenue was $5.145 billion, up 1.5% from a year earlier and 1.2% from the previous quarter in constant currency. The operating margin held at 21%.
+The September-quarter figures were close to what analysts had expected. Net profit rose **6.2%** from a year earlier to ₹7,823 crore and was 0.7% higher than in the June quarter. Revenue from operations rose 10.7% to ₹49,244 crore. In dollars, revenue was $5.145 billion, up 1.5% from a year earlier and 1.2% from the previous quarter in constant currency. The operating margin held at 21%.
 
 The company put the lower forecast down to a challenging demand environment.
 
 ## Big deals, slow growth
 
-The cut came in a strong quarter for orders. Infosys signed large deals worth $5.2 billion, 62% of it new business, against $3.6 billion in the June quarter.
+The cut came in a strong quarter for orders. Infosys signed large deals worth **$5.2 billion**, 62% of it new business, against $3.6 billion in the June quarter.
 
 "We had strong large deals of $5.2 billion, including a mega deal of over $2 billion," said chief executive Salil Parekh.
 
-Its artificial intelligence work is growing quickly from a small base. AI services made up 10.5% of revenue, up from 8.2% three months earlier. "Our AI revenue was at 10.5% and grew 29% quarter-on-quarter," Parekh said.
+Its artificial intelligence work is growing quickly from a small base. AI services made up **10.5%** of revenue, up from 8.2% three months earlier. "Our AI revenue was at 10.5% and grew 29% quarter-on-quarter," Parekh said.
 
-Infosys kept its operating margin range for the year at 20% to 22%. "We delivered operating margins of 21.0% in Q2 amidst heightened volatility," said chief financial officer Jayesh Sanghrajka. Free cash flow was $928 million, or 113.3% of net profit.
+Infosys kept its operating margin range for the year at **20%** to 22%. "We delivered operating margins of 21.0% in Q2 amidst heightened volatility," said chief financial officer Jayesh Sanghrajka. Free cash flow was $928 million, or 113.3% of net profit.
 
 ## Dividend and hiring
 

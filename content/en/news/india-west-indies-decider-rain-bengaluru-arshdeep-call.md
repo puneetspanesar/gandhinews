@@ -89,7 +89,7 @@ Arshdeep was struck on the shoulder by a short ball from Shamar Joseph in the fi
 
 "Recovering well after the blow he took on the shoulder," Morkel said of the left-armer, adding that he was "definitely not ruled out for tomorrow, still available." The decision, he said, would be taken "tomorrow at some stage."
 
-Whatever the verdict, Bhuvneshwar Kumar is expected to play. The 36-year-old was added to the squad on Friday and was close at hand, training at the BCCI's Centre of Excellence. His last T20I for India was the 2022 T20 World Cup semi-final against England, when he went for 25 runs in two overs and did not bowl again. He took 28 wickets in 16 innings for Royal Challengers Bengaluru in IPL 2026, at an average of 17.89, and India may give him the new ball. Morkel said he was "very excited" to have him back.
+Whatever the verdict, Bhuvneshwar Kumar is expected to play. The 36-year-old was added to the squad on Friday and was close at hand, training at the BCCI's Centre of Excellence. His last T20I for India was the 2022 T20 World Cup semi-final against England, when he went for **25 runs** in two overs and did not bowl again. He took 28 wickets in 16 innings for Royal Challengers Bengaluru in IPL 2026, at an average of 17.89, and India may give him the new ball. Morkel said he was "very excited" to have him back.
 
 Morkel also backed Prince Yadav, who took 1 for 36 in Hyderabad. "One thing about Prince for me is, obviously, the way he plays his state cricket, domestic cricket," he said. "He was very quickly identified as a person who can bowl those death yorkers. But what I like about him a lot is his mindset, the calmness that he brings with the ball in tight situations."
 
@@ -99,4 +99,4 @@ West Indies levelled the series with a 24-run win in Hyderabad, piling up 247 fo
 
 ## What comes next
 
-There is little time to recover whatever happens. India's five-match T20I series in New Zealand begins in Christchurch on October 22, and Arshdeep is in that squad as well, a reason for the selectors to tread carefully with him tonight.
+There is little time to recover whatever happens. India's five-match T20I series in New Zealand begins in Christchurch on October 22, and Arshdeep is in that squad as well, a reason for the selectors to tread carefully with him in the October 17 decider.

@@ -47,17 +47,17 @@ verification:
     - "Quarter-on-quarter growth not found; left out. No direct quotes from Mao Shengyong found; paraphrased NBS statement used."
 ---
 
-China's economy grew 4.5% in the July-September quarter from a year earlier, a touch faster than economists had expected, as strong exports made up for weak spending at home and a property market that is still contracting.
+China's economy grew **4.5%** in the July-September quarter from a year earlier, a touch faster than economists had expected, as strong exports made up for weak spending at home and a property market that is still contracting.
 
-The National Bureau of Statistics released the figures in Beijing on Monday morning. Growth picked up from 4.3% in the April-June quarter and beat the 4.4% most forecasters had pencilled in. Over the first nine months of the year the economy grew 4.6%, with output worth about 107.11 trillion yuan, or roughly $15.94 trillion.
+The National Bureau of Statistics released the figures in Beijing on Monday morning. Growth picked up from **4.3%** in the April-June quarter and beat the 4.4% most forecasters had pencilled in. Over the first nine months of the year the economy grew 4.6%, with output worth about 107.11 trillion yuan, or roughly $15.94 trillion.
 
 That keeps Beijing inside the target it set for 2026, growth of 4.5% to 5%, a lower bar than the 5% it aimed for last year. The International Monetary Fund expects 4.5% for the full year.
 
 ## Shoppers and factories
 
-The September numbers offered some comfort. Retail sales rose 1.1% from a year earlier, up from 0.4% in August, the fastest since March, though still weak by China's own past standards. Industrial output grew 5.5% in September, from 5.2% the month before.
+The September numbers offered some comfort. Retail sales rose **1.1%** from a year earlier, up from 0.4% in August, the fastest since March, though still weak by China's own past standards. Industrial output grew 5.5% in September, from 5.2% the month before.
 
-Over the nine months, industrial value added was up 5.3%. Equipment manufacturing grew 10.2% and high-tech manufacturing 14.3%, the parts of the economy Beijing has been pushing hardest. Retail sales of services rose 5%.
+Over the nine months, industrial value added was up **5.3%**. Equipment manufacturing grew 10.2% and high-tech manufacturing 14.3%, the parts of the economy Beijing has been pushing hardest. Retail sales of services rose 5%.
 
 The statistics bureau said the economy had "forged ahead against pressure and continued to shift toward innovation-driven, high-quality development." Mao Shengyong, the bureau's deputy head, presented the data at a press conference.
 
@@ -65,7 +65,7 @@ The surveyed urban unemployment rate averaged 5.2% over the nine months, unchang
 
 ## The weak spots
 
-Underneath the headline figure, the slump in building and investment has not let up. Fixed-asset investment fell 7.2% in January-September, and property investment dropped 20.6%. The IMF has urged Beijing to put more money behind households and local governments to lift demand.
+Underneath the headline figure, the slump in building and investment has not let up. Fixed-asset investment fell **7.2%** in January-September, and property investment dropped 20.6%. The IMF has urged Beijing to put more money behind households and local governments to lift demand.
 
 Exports did most of the work. Chinese goods kept flowing abroad through the summer and the trade surplus widened, which helped growth but adds to friction with trading partners.
 

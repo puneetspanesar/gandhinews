@@ -43,9 +43,9 @@ verification:
     - "'Pipeline of 34,800 rooms' not used: unit unclear in summary."
 ---
 
-Indian Hotels Company, which runs the Taj chain, reported a 23% rise in quarterly profit on Wednesday and said it now expects to reach 700 hotels within the current financial year, a milestone it had originally set for 2030.
+Indian Hotels Company, which runs the Taj chain, reported a **23%** rise in quarterly profit on Wednesday and said it now expects to reach 700 hotels within the current financial year, a milestone it had originally set for 2030.
 
-Net profit for July-September rose to ₹349 crore and revenue grew 21% to ₹2,566 crore. Same-store revenue per available room at its Indian hotels, a key industry measure, rose 25%, as did management fees and revenue from its select-service brands such as Ginger.
+Net profit for July-September rose to **₹349 crore** and revenue grew 21% to ₹2,566 crore. Same-store revenue per available room at its Indian hotels, a key industry measure, rose 25%, as did management fees and revenue from its select-service brands such as Ginger.
 
 The Tata group company raised its forecast for revenue growth in 2026-27 to 15-17%, from 12-14% earlier.
 
@@ -57,6 +57,6 @@ IHCL has signed 47 hotels so far this financial year, taking its portfolio to 67
 
 Chhatwal said the budget Ginger brand would keep expanding into smaller towns. "Every district (headquarters) of India should have a Ginger," he said.
 
-The company spent a record ₹500 crore on capital projects in the first half. Its all-share merger with associate Oriental Hotels is expected to be completed by April.
+The company spent a record **₹500 crore** on capital projects in the first half. Its all-share merger with associate Oriental Hotels is expected to be completed by April.
 
-IHCL shares closed 0.92% lower at ₹753 on the National Stock Exchange before the results were announced.
+IHCL shares closed **0.92%** lower at ₹753 on the National Stock Exchange before the results were announced.

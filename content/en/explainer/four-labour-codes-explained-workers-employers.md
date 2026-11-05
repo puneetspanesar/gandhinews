@@ -78,7 +78,7 @@ The central rules require every gig and platform worker aged 16 or more to regis
 
 ## What changes for employers?
 
-**Far fewer forms, registers and returns, but new duties on appointment letters, health checks and contributions.** A Grant Thornton Bharat report, cited by Business Standard, counts the reduction.
+**Far fewer forms, registers and returns, but new duties on appointment letters, health checks and contributions.** A Grant Thornton Bharat report counts the reduction.
 
 ```chart
 {"type":"hbar","title":"Compliance burden before and after the labour codes","subtitle":"Number of items under the 29 old laws and the four codes","unit":"","data":[{"label":"Rules, before","value":1436},{"label":"Rules, after","value":351,"highlight":true},{"label":"Forms, before","value":181},{"label":"Forms, after","value":73,"highlight":true},{"label":"Registers, before","value":84},{"label":"Registers, after","value":8,"highlight":true},{"label":"Returns, before","value":31},{"label":"Returns, after","value":1,"highlight":true}],"source":"Grant Thornton Bharat report via Business Standard, Sep 24, 2026"}
@@ -90,7 +90,7 @@ When an employer retrenches a worker, the central Industrial Relations rules req
 
 **Labour is on the concurrent list, and state governments are the appropriate government in most cases, so many provisions work through state rules.** On September 24, 2026, Labour Secretary Chandra Bhushan Kumar said ten states had published final rules and the rest had issued drafts. The Centre hopes all states and Union Territories will have rules by October 31, 2026.
 
-As of July, The Tribune reported that Kerala had asked for more time and that West Bengal had not published draft rules.
+As of July, Kerala was reported to have asked for more time, and West Bengal had not published draft rules.
 
 ## Do the rules differ between states?
 
@@ -105,5 +105,5 @@ Rules on women's night shifts also vary. Some states' rules allow women to work 
 The ministry is also building a "Labour Stack", a single platform linking worker databases and welfare schemes, aimed at unorganised, gig and platform workers. On September 24, Kumar said a pilot was expected within about 15 days.
 
 ```timeline
-{"title":"Labour codes: key dates","items":[{"date":"2019–2020","text":"Parliament passes the four codes"},{"date":"Nov 21, 2025","text":"Codes come into force, replacing 29 central laws"},{"date":"Feb 2026","text":"Parliament passes the Industrial Relations Code (Amendment) Bill, 2026"},{"date":"May 8, 2026","text":"Central rules notified under all four codes"},{"date":"Sep 24, 2026","text":"Ten states have final rules, says Labour Secretary"},{"date":"Oct 31, 2026","text":"Centre's target for all state rules"}]}
+{"title":"Labour codes: key dates","items":[{"date":"2019-2020","text":"Parliament passes the four codes"},{"date":"Nov 21, 2025","text":"Codes come into force, replacing 29 central laws"},{"date":"Feb 2026","text":"Parliament passes the Industrial Relations Code (Amendment) Bill, 2026"},{"date":"May 8, 2026","text":"Central rules notified under all four codes"},{"date":"Sep 24, 2026","text":"Ten states have final rules, says Labour Secretary"},{"date":"Oct 31, 2026","text":"Centre's target for all state rules"}]}
 ```

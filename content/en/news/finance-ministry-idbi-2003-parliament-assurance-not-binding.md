@@ -58,13 +58,13 @@ The finance ministry on Saturday rejected the argument that a promise made in Pa
 
 In a statement, the ministry said "certain sections of press and media" had commented on the legislative history of the bank. During the discussion on the Union Budget of 2003 and the debate on the IDBI (Repeal) Act, 2003, "an amendment seeking to restrict the dilution of the Government's stake was moved but was ultimately rejected and did not form part of the enacted legislation," it said.
 
-The clarification comes three days after the Union Cabinet cleared the sale of a 60.72% stake in the bank to a unit of Prem Watsa's Fairfax Financial Holdings for about ₹52,878 crore. The government is selling 30.48% and the Life Insurance Corporation of India 30.24%.
+The clarification comes three days after the Union Cabinet cleared the sale of a **60.72%** stake in the bank to a unit of Prem Watsa's Fairfax Financial Holdings for about ₹52,878 crore. The government is selling 30.48% and the Life Insurance Corporation of India 30.24%.
 
 ## The 51% argument
 
-Opponents of the sale say the government gave Parliament its word. In an open letter to Finance Minister Nirmala Sitharaman on October 15, former Union secretary E A S Sarma said the Standing Committee on Finance, in its 46th report in June 2003, had recommended provisions to ensure the government's shareholding in IDBI did not fall below 51%. He said the then finance minister gave an assurance to that effect in the Lok Sabha on December 8, 2003, and in the Rajya Sabha on December 15, 2003. Employee unions have named the minister as Jaswant Singh.
+Opponents of the sale say the government gave Parliament its word. In an open letter to Finance Minister Nirmala Sitharaman on October 15, former Union secretary E A S Sarma said the Standing Committee on Finance, in its 46th report in June 2003, had recommended provisions to ensure the government's shareholding in IDBI did not fall below **51%**. He said the then finance minister gave an assurance to that effect in the Lok Sabha on December 8, 2003, and in the Rajya Sabha on December 15, 2003. Employee unions have named the minister as Jaswant Singh.
 
-The United Forum of Bank Unions, which calls the deal "privatisation" and "foreignisation", has cited the same assurance. It asked its members to wear black badges on Friday in protest. After the sale, the government and LIC will together hold 34%.
+The United Forum of Bank Unions, which calls the deal "privatisation" and "foreignisation", has cited the same assurance. It asked its members to wear black badges on Friday in protest. After the sale, the government and LIC will together hold **34%**.
 
 ## What the court said
 

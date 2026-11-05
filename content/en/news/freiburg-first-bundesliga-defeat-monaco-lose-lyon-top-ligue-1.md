@@ -48,7 +48,7 @@ verification:
 
 Freiburg's fine start to the Bundesliga season came to an end on Sunday when Patrik Schick scored 14 minutes from time to give Bayer Leverkusen a 2-1 win.
 
-Derry Scherhant had put Freiburg ahead in the 14th minute, but Ibrahim Maza equalised five minutes later. It was Freiburg's first league defeat of the season and their first loss in nine matches in all competitions, eight of which they had won. They stay on 13 points, one behind leaders Bayern Munich and second-placed Borussia Dortmund.
+Derry Scherhant had put Freiburg ahead in the 14th minute, but Ibrahim Maza equalised five minutes later. It was Freiburg's first league defeat of the season and their first loss in nine matches in all competitions, eight of which they had won. They stay on **13 points**, one behind leaders Bayern Munich and second-placed Borussia Dortmund.
 
 Leverkusen have now won six of their seven games in all competitions under Carles Martinez. Elsewhere, bottom club Borussia Monchengladbach lost 2-1 at home to Hoffenheim, who had lost every match since beating Stuttgart a month ago.
 

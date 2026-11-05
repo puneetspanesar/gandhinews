@@ -38,7 +38,7 @@ verification:
 
 Albanian police fired rubber bullets, tear gas and water cannon at protesters outside the Ministry of Education in Tirana on Sunday, as student-led demonstrations against Prime Minister Edi Rama entered a sixth day.
 
-Hundreds gathered in front of the ministry chanting "Rama, resign". A health ministry report issued on Sunday morning said 65 people had been injured in the previous round of clashes, 37 of them police officers, and 12 had been taken to hospital. Since Tuesday, 272 people have been hurt, including 169 officers.
+Hundreds gathered in front of the ministry chanting "Rama, resign". A health ministry report issued on Sunday morning said 65 people had been injured in the previous round of clashes, 37 of them police officers, and 12 had been taken to hospital. Since Tuesday, **272 people** have been hurt, including 169 officers.
 
 Rama, in his fourth term and in power since 2013, ruled out stepping down. Speaking on a live social media stream, he said "the government is not being challenged" and framed the unrest as a choice about Albania's future in Europe. "Albanians need to think very clearly," he said. "Do they want this, or do they want the EU?"
 

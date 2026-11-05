@@ -41,12 +41,12 @@ The day falls on the full moon of the Manipuri month of Mera, which usually come
 
 ## Helicopters back in the air
 
-The Cabinet also approved the return of helicopter services to the state's remote areas, which have been suspended since October 1. Pawan Hans Limited, the Government of India undertaking, has been engaged to run them.
+The Cabinet also approved the return of helicopter services to the state's remote areas, which have been suspended since October 1. **Pawan Hans** Limited, the Government of India undertaking, has been engaged to run them.
 
 Manipur will meet the full cost itself, because the Union Home Ministry's North East helicopter scheme will not provide central assistance for these flights.
 
 ## Room for printing presses
 
-In a third decision, the Cabinet added registered and licensed newspaper printing presses that run web offset machines to the "public purpose" category under the Manipur Conservation of Paddy Land and Wetland Act, 2014. Eligible presses can now use up to 0.62 acre of contiguous paddy land, subject to the Act's safeguards.
+In a third decision, the Cabinet added registered and licensed newspaper printing presses that run web offset machines to the "public purpose" category under the Manipur Conservation of Paddy Land and Wetland Act, 2014. Eligible presses can now use up to **0.62 acre** of contiguous paddy land, subject to the Act's safeguards.
 
 The stated aim is to move large presses out of congested residential areas and cut the noise they make at night, when newspapers are printed.

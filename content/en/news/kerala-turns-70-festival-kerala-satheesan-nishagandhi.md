@@ -5,8 +5,8 @@ type: news
 section: states
 format_label: "States / Keralam"
 topics: [states]
-title: "Keralam turns 70 today; Satheesan to open Festival Kerala at Nishagandhi"
-standfirst: "The state marks its 70th Kerala Piravi with a festival that will travel to five big Indian cities and bring investor meets with it. The Chief Minister opens it in Thiruvananthapuram this evening."
+title: "Keralam turns 70 on November 1; Satheesan to open Festival Kerala at Nishagandhi"
+standfirst: "The state marks its 70th Kerala Piravi with a festival that will travel to five big Indian cities and bring investor meets with it. The Chief Minister opens it in Thiruvananthapuram on the evening of November 1."
 published: 2026-11-01T05:45:00+05:30
 location: Thiruvananthapuram
 keyPoints:
@@ -55,7 +55,7 @@ verification:
     - "No overnight statement from the CM or Governor found before 6 am; PM's greetings not yet seen."
 ---
 
-Keralam turns 70 today. The state was formed on November 1, 1956, and this year's Kerala Piravi is being marked with **a festival meant to carry the state to the rest of India**.
+Keralam turned 70 on November 1. The state was formed on November 1, 1956, and this year's Kerala Piravi is being marked with **a festival meant to carry the state** to the rest of India.
 
 Chief Minister V D Satheesan will open the state-level celebration at **Nishagandhi Auditorium in Thiruvananthapuram at 4 pm**. Health Minister K Muraleedharan will preside, and Chief Secretary Biswanath Sinha will give the welcome address. Ministers, officials, artists, cultural figures and sportspersons have been invited. The government says the festival will showcase the state's cultural heritage, art traditions, sporting achievements and social progress.
 
@@ -69,4 +69,4 @@ Satheesan announced the plan in September. Under the name Festival Kerala, the g
 
 A cabinet sub-committee chaired by the Chief Minister is running the festival, with **Cultural Minister P C Vishnunadh as convener**. The name itself drew debate. Satheesan said the event was called Festival Kerala rather than Festival Keralam because some grammar experts objected to using "Keralam" in that form, even as the state now goes by its new name.
 
-Keralam is not alone in celebrating. Karnataka marks Rajyotsava today, and Madhya Pradesh, Chhattisgarh and Haryana also observe **their formation days on November 1**.
+Keralam is not alone in celebrating. Karnataka marks Rajyotsava the same day, and Madhya Pradesh, Chhattisgarh and Haryana also observe **their formation days on November 1**.

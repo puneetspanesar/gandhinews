@@ -81,7 +81,7 @@ verification:
 
 India go to Bengaluru for Saturday's series decider against West Indies with a doubt over Arshdeep Singh and a bigger worry about a bowling attack that has been taken apart twice in a week.
 
-Arshdeep was struck on the left shoulder and upper arm by a short ball from Shamar Joseph in the final over of India's chase in Hyderabad on Wednesday night. With 35 needed off the over and one wicket in hand, he tried to bat on in obvious pain before captain Shreyas Iyer called him off. He retired hurt on 5 off 4 balls, and West Indies won by 24 runs to level the five-match series at 2-2.
+Arshdeep was struck on the left shoulder and upper arm by a short ball from Shamar Joseph in the final over of India's chase in Hyderabad on Wednesday night. With 35 needed off the over and one wicket in hand, he tried to bat on in obvious pain before captain Shreyas Iyer called him off. He **retired hurt** on 5 off 4 balls, and West Indies won by 24 runs to level the five-match series at 2-2.
 
 No medical update had been given by Thursday afternoon. Sanju Samson, who spoke after the match, offered only a hopeful note. "Arshdeep is putting ice on his shoulders. Hopefully he gets well soon," he said.
 

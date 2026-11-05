@@ -40,11 +40,11 @@ verification:
 
 Jammu and Kashmir Chief Minister Omar Abdullah said on Saturday that he would expand and reshuffle his council of ministers early next week, and asked hopefuls in his party to stop lobbying because the decision had already been taken.
 
-He spoke to reporters in Srinagar after meeting Lieutenant Governor Manoj Sinha at Lok Bhawan in the morning. Omar said he had asked the Lieutenant Governor for time to carry out the exercise in the first two or three days of next week, and that Sinha would fix the date.
+He spoke to reporters in Srinagar after meeting Lieutenant Governor Manoj Sinha at Lok Bhawan in the morning. Omar said he had asked the Lieutenant Governor for time to carry out the exercise in the **first two or three days of next** week, and that Sinha would fix the date.
 
 "I will carry out the expansion and certain changes in my Council of Ministers," he said.
 
-The same day, the Union Ministry of Home Affairs named a new chief secretary for the Union Territory. Dr Sajjan Singh Yadav, a 1995-batch IAS officer of the AGMUT cadre, will succeed Atal Dulloo, who retires on October 31.
+The same day, the Union Ministry of Home Affairs named a new chief secretary for the Union Territory. **Dr Sajjan Singh Yadav**, a 1995-batch IAS officer of the AGMUT cadre, will succeed Atal Dulloo, who retires on October 31.
 
 ## "Please stop sending WhatsApp messages"
 

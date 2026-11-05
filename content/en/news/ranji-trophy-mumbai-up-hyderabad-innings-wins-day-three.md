@@ -60,11 +60,11 @@ The opening round of the Ranji Trophy had a lopsided look to it by the end of Tu
 
 ## Innings wins in Rajgir, Mumbai and Hyderabad
 
-The biggest of them came in Rajgir, where Uttar Pradesh beat Bihar by an innings and 267 runs. UP's 540, built on Madhav Kaushik's 150 and Rinku Singh's 112, was always going to be too much. Bihar were bowled out for 141, followed on and managed only 132 the second time. Zeeshan Ansari, who had made 58 with the bat, took 4 for 40, and Karan Sharma finished with seven wickets in the match.
+The biggest of them came in Rajgir, where Uttar Pradesh beat Bihar by an **innings and 267 runs**. UP's 540, built on Madhav Kaushik's 150 and Rinku Singh's 112, was always going to be too much. Bihar were bowled out for 141, followed on and managed only 132 the second time. Zeeshan Ansari, who had made 58 with the bat, took 4 for 40, and Karan Sharma finished with seven wickets in the match.
 
-At the Wankhede, Mumbai completed the job against Chandigarh, winning by an innings and 155 runs. Chandigarh, routed for 78 on Monday by Tushar Deshpande's hat-trick, fought a little harder after following on. Arjun Azad made 62 and Shivam Bhambri 44, but they were all out for 196. Shams Mulani and Tanush Kotian took three wickets each, and Deshpande added two more to his first-innings five.
+At the Wankhede, Mumbai completed the job against Chandigarh, winning by an **innings and 155 runs**. Chandigarh, routed for 78 on Monday by Tushar Deshpande's hat-trick, fought a little harder after following on. Arjun Azad made 62 and Shivam Bhambri 44, but they were all out for 196. Shams Mulani and Tanush Kotian took three wickets each, and Deshpande added two more to his first-innings five.
 
-Hyderabad beat Tripura by an innings and 40 runs at the Gymkhana Ground. Tanay Thyagarajan took 6 for 52 in Tripura's second innings of 120 and nine wickets in the match, and captain Mohammed Siraj struck twice.
+Hyderabad beat Tripura by an innings and **40 runs** at the Gymkhana Ground. Tanay Thyagarajan took 6 for 52 in Tripura's second innings of 120 and nine wickets in the match, and captain Mohammed Siraj struck twice.
 
 ```facts
 {"title":"Over inside three days","items":[{"value":"Inns & 267","label":"Uttar Pradesh 540 beat Bihar 141 and 132"},{"value":"Inns & 155","label":"Mumbai 429 beat Chandigarh 78 and 196"},{"value":"Inns & 40","label":"Hyderabad 294 beat Tripura 134 and 120"}]}
@@ -72,7 +72,7 @@ Hyderabad beat Tripura by an innings and 40 runs at the Gymkhana Ground. Tanay T
 
 ## Bengal tighten the grip
 
-In Kalyani, Bengal's overnight centurions carried on. Abishek Porel made 149 and Sudip Kumar Gharami 133, and Bengal were all out for 429, a lead of 189. Delhi captain Ayush Badoni took five wickets. Delhi slipped to 59 for 3 in their second innings before Badoni (24 not out) and Anuj Rawat (25 not out) saw them to 101 for 3 at stumps. Yash Dhull was hurt and had to leave the field.
+In Kalyani, Bengal's overnight centurions carried on. Abishek Porel made 149 and Sudip Kumar Gharami 133, and Bengal were all out for 429, a lead of 189. Delhi captain Ayush Badoni took five wickets. Delhi slipped to 59 for 3 in their second innings before Badoni (24 not out) and Anuj Rawat (25 not out) saw them to **101 for 3** at stumps. Yash Dhull was hurt and had to leave the field.
 
 ## Rahul's lean start, Jadeja's all-round match
 

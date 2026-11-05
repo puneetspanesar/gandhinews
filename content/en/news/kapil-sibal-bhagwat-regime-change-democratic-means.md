@@ -10,7 +10,7 @@ standfirst: "The Rajya Sabha MP hit back at the RSS chief's warning about 'regim
 published: 2026-10-24T14:40:00+05:30
 location: New Delhi
 keyPoints:
-  - "Kapil Sibal said **\"What India wants is a change of government through democratic means\"**, answering Mohan Bhagwat."
+  - "**Kapil Sibal** said \"What India wants is a change of government through democratic means\", answering Mohan Bhagwat."
   - "Bhagwat had warned in his **October 20 Vijayadashami speech** in Nagpur against attempts to change regimes."
   - "Sibal questioned the handling of **57 FIRs** registered in Delhi between October 2 and 23."
 hero:
@@ -60,7 +60,7 @@ He also asked why the RSS had been silent about incursions in Arunachal Pradesh 
 
 ## The FIRs
 
-Sibal raised the policing of the protests in the capital. He questioned how 57 FIRs registered between October 2 and 23 had been handled and why they had been moved to the Crime Branch. "They register an FIR without naming anyone," he said.
+Sibal raised the policing of the protests in the capital. He questioned how **57 FIRs** registered between October 2 and 23 had been handled and why they had been moved to the Crime Branch. "They register an FIR without naming anyone," he said.
 
 He mocked the burning of effigies at Dussehra too. "If you were a true Indian, you would burn the effigy of the Chanda Chors," he said, using a jibe that means "donation thieves".
 

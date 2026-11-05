@@ -40,7 +40,7 @@ The government's Indian-language AI platform, Bhashini, made its pitch to univer
 
 The Digital India Bhashini Division, part of the Ministry of Electronics and Information Technology, took part in the 29th International Symposium on Electronic Theses and Dissertations (ETD-2026) at IIT Delhi, which ran from October 23 to 25.
 
-The division said Bhashini had passed 10 billion cumulative AI inferences, each one a request handled by its models. It works with 36 Indian languages for text and 23 for voice, as well as 35 international languages, and its translation plug-in is used on more than 800 government websites.
+The division said Bhashini had passed 10 billion cumulative AI inferences, each one a request handled by its models. It works with **36 Indian languages** for text and 23 for voice, as well as 35 international languages, and its translation plug-in is used on more than 800 government websites.
 
 Baishali Chakraborty led a workshop on the platform, and delegates saw a live demonstration of Shrutlekh, which transcribes speech in real time while translating it. Other tools on show included Bhashini Pragati, a workbench for translating and reviewing long documents built for the Comptroller and Auditor General, which can handle files of 100 to 500 pages, and Granthika, for digitising books, manuscripts and oral histories.
 

@@ -47,17 +47,17 @@ verification:
     - "Project figures agree across Tribune, Asianet and DD India. DD India gives 3.63 million residents for DSTPs vs 36.29 lakh in Tribune/Asianet: used 36 lakh."
 ---
 
-Union Home Minister Amit Shah on Thursday launched a ₹8,941 crore package of sewage and water projects in Delhi, which the city's government says will finally stop untreated waste from its drains flowing into the Yamuna.
+Union Home Minister Amit Shah on Thursday launched a **₹8,941 crore** package of sewage and water projects in Delhi, which the city's government says will finally stop untreated waste from its drains flowing into the Yamuna.
 
-At an event in the Najafgarh area, Shah inaugurated 10 Delhi Jal Board projects worth ₹2,827.11 crore and laid the foundation stones for 33 more worth ₹6,114.11 crore. He said the government would clean the Yamuna by May 2029. Chief Minister Rekha Gupta was with him.
+At an event in the Najafgarh area, Shah inaugurated 10 Delhi Jal Board projects worth **₹2,827.11 crore** and laid the foundation stones for 33 more worth ₹6,114.11 crore. He said the government would clean the Yamuna by May 2029. Chief Minister Rekha Gupta was with him.
 
 ## What is being built
 
-The single largest work is a new 124 million gallons a day (MGD) sewage treatment plant at Okhla, costing ₹1,161 crore. Eight existing plants are to be upgraded for ₹1,041 crore, lifting their combined capacity from 78.2 MGD to 140.8 MGD, for the benefit of about 78.5 lakh people.
+The single largest work is a new 124 million gallons a day (MGD) **sewage treatment plant** at Okhla, costing ₹1,161 crore. Eight existing plants are to be upgraded for ₹1,041 crore, lifting their combined capacity from 78.2 MGD to 140.8 MGD, for the benefit of about 78.5 lakh people.
 
-For outer Delhi, the package includes 29 decentralised treatment plants and pumping stations worth ₹3,113.67 crore. They are meant to serve 358 unauthorised colonies and 113 villages, home to about 36 lakh people, many of which have never had a sewer connection. A further 1,034 km of sewer lines will be laid for ₹1,691 crore.
+For outer Delhi, the package includes 29 decentralised treatment plants and pumping stations worth **₹3,113.67 crore**. They are meant to serve 358 unauthorised colonies and 113 villages, home to about 36 lakh people, many of which have never had a sewer connection. A further 1,034 km of sewer lines will be laid for ₹1,691 crore.
 
-There is also a 477 million litres a day water treatment plant at Chandrawal, costing ₹298.3 crore, which replaces facilities built in 1935 and 1955 and will serve around 22 lakh people, and a 4.5 km trunk drain at Mundka for ₹225.02 crore.
+There is also a 477 million litres a day water treatment plant at Chandrawal, costing **₹298.3 crore**, which replaces facilities built in 1935 and 1955 and will serve around 22 lakh people, and a 4.5 km trunk drain at Mundka for ₹225.02 crore.
 
 ## From the ghats to the drains
 

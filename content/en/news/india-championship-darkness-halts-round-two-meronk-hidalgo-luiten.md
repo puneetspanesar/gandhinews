@@ -44,7 +44,7 @@ verification:
 
 Darkness beat the field again at Delhi Golf Club on Friday. With Thursday's storm having wiped out five hours, more than half of the 144 players at the DP World India Championship were still out on the course when play was stopped, and 12 had not even teed off in their second round.
 
-Of those who did finish, Poland's Adrian Meronk, Spain's Angel Hidalgo and the Netherlands' Joost Luiten share the clubhouse lead. Belgium's Thomas Detry, who was one shot off the lead after the first round, is one behind again at eight under with six holes of his second round played. England's Todd Clements and Eddie Pepperell are also a shot back, and Spain's Eugenio Chacarra was seven under after five holes.
+Of those who did finish, Poland's Adrian Meronk, Spain's Angel Hidalgo and the Netherlands' Joost Luiten share the **clubhouse lead**. Belgium's Thomas Detry, who was one shot off the lead after the first round, is one behind again at eight under with six holes of his second round played. England's Todd Clements and Eddie Pepperell are also a shot back, and Spain's Eugenio Chacarra was seven under after five holes.
 
 ## Late slips for the leaders
 
@@ -60,7 +60,7 @@ Germany's Marcel Siem added a 69 to his opening 70 to sit five under, while New 
 
 ## Indians around the cut
 
-Om Prakash Chouhan, whose four-under 68 made him the best of the Indians in the first round, was still four under and four shots off the lead two holes into his second round.
+Om Prakash Chouhan, whose four-under 68 made him the best of the Indians in the first round, was still four under and **four shots off the lead** two holes into his second round.
 
 Behind him, several of India's leading players were bunched on or near the projected cut at level par: Order of Merit leader Saptak Talwar after seven holes, Karandeep Kochhar after 16, Anirban Lahiri, and Shiv Kapur, who finished his round.
 

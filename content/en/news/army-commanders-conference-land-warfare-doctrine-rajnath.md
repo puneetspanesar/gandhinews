@@ -42,7 +42,7 @@ verification:
     - "Quotes are from the defence ministry statement as carried by PTI (ETV Bharat 4:10 pm, Daily Excelsior)."
 ---
 
-The Indian Army's top commanders began a three-day conference in New Delhi on Wednesday, at which Defence Minister Rajnath Singh is due to release a new Land Warfare Doctrine.
+The Indian Army's top commanders began a three-day conference in New Delhi on Wednesday, at which Defence Minister Rajnath Singh is due to release a new **Land Warfare Doctrine**.
 
 The Army Commanders' Conference, held twice a year, is chaired by the Chief of the Army Staff, Gen Dhiraj Seth, and runs until Friday. The defence ministry described the doctrine as "a vision document providing an overarching framework" to prepare the force for the changing character of warfare. The ministry has not said on which day it will be released.
 

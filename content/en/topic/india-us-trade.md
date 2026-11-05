@@ -77,7 +77,7 @@ verification:
     - "Status of the separate US Section 301 probe on industrial excess capacity could not be confirmed."
 ---
 
-India and the United States have been negotiating a trade deal since February 2025. A framework was announced in February 2026, but the first tranche is not in force and Finance Minister Nirmala Sitharaman said on October 5 that talks had reached a plateau, Reuters reported. A US law signed on September 18 now hangs over the talks: it lets the President impose tariffs of up to 100% on the biggest buyers of Russian oil and gas, including India.
+India and the United States have been negotiating a trade deal since February 2025. A framework was announced in February 2026, but the first tranche is not in force and Finance Minister Nirmala Sitharaman said on October 5 that talks had reached a plateau. A US law signed on September 18 now hangs over the talks: it lets the President impose tariffs of up to 100% on the biggest buyers of Russian oil and gas, including India.
 
 ## Where things stand
 
@@ -105,10 +105,10 @@ Misri said in April that it was the fourth consecutive year the US had been Indi
 
 ## Key questions
 
-**What is holding up the deal?** Commerce Minister Piyush Goyal said in July that the first tranche will come into operation once the US ensures India has a comparative advantage over competitors, PTI reported.
+**What is holding up the deal?** Commerce Minister Piyush Goyal said in July that the first tranche will come into operation once the US ensures India has a comparative advantage over competitors.
 
 **Is a 100% tariff in force?** No. The law allows the US President to set a tariff of up to 100% on the five largest buyers of Russian oil and gas. None had been reported as imposed by October 5.
 
-**How has India responded to the law?** The MEA said on September 17 that India will take necessary measures to protect its trade and economic interests and will keep ensuring energy security "through diversified sourcing and on the basis of evolving market dynamics", PTI reported.
+**How has India responded to the law?** The MEA said on September 17 that India will take necessary measures to protect its trade and economic interests and will keep ensuring energy security "through diversified sourcing and on the basis of evolving market dynamics".
 
-**Are exports to the US falling?** Not in the latest figures. Goods exports to the US rose to $42.79 billion in April-August from $40.39 billion a year earlier, Reuters reported.
+**Are exports to the US falling?** Not in the latest figures. Goods exports to the US rose to $42.79 billion in April-August from $40.39 billion a year earlier.

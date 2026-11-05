@@ -68,23 +68,23 @@ verification:
     - "CPI for September due October 12 confirmed in MoSPI's August CPI release."
 ---
 
-The Reserve Bank of India raised its policy repo rate by 25 basis points to 5.50% on October 7, 2026. It is the first increase since February 2023, when the Monetary Policy Committee (MPC) took the rate to 6.50%.
+The Reserve Bank of India raised its policy repo rate by 25 basis points to **5.50%** on October 7, 2026. It is the first increase since February 2023, when the Monetary Policy Committee (MPC) took the rate to 6.50%.
 
-The six-member MPC, chaired by Governor Sanjay Malhotra, met from October 5 to 7. It also changed its policy stance from neutral to "calibrated tightening". The standing deposit facility rate is now 5.25%, and the marginal standing facility rate and the Bank Rate are 5.75%.
+The six-member MPC, chaired by Governor Sanjay Malhotra, met from October 5 to 7. It also changed its policy stance from neutral to "calibrated tightening". The standing deposit facility rate is now **5.25%**, and the marginal standing facility rate and the Bank Rate are 5.75%.
 
 ## How the committee voted
 
 All six members voted for the 25 basis point increase. The members are Governor Malhotra, Dr Poonam Gupta, Indranil Bhattacharyya, and the three external members, Dr Nagesh Kumar, Saugata Bhattacharya and Prof. Ram Singh.
 
-The stance change was not unanimous. The resolution says: "Two members - Dr. Nagesh Kumar and Prof. Ram Singh - were of the view that the stance be retained at neutral."
+The stance change was not unanimous. The resolution says: "Two members, Dr. Nagesh Kumar and Prof. Ram Singh, were of the view that the stance be retained at neutral."
 
 The committee said rate cuts are "off the table in the near term", which leaves either another increase or a pause as the next move.
 
 ## Why the RBI moved
 
-The resolution says inflation and its outlook "are not benign as they were last year". Headline CPI inflation rose to 4.8% in August from 4.5% in July, driven by food and fuel. Core inflation rose to 4.2%. About 37% of the CPI basket by weight showed inflation above 4%.
+The resolution says inflation and its outlook "are not benign as they were last year". Headline CPI inflation rose to **4.8%** in August from 4.5% in July, driven by food and fuel. Core inflation rose to 4.2%. About 37% of the CPI basket by weight showed inflation above 4%.
 
-The MPC pointed to the West Asia conflict, volatile crude prices, a deficient south-west monsoon and strong El Niño conditions. It expects headline inflation to average almost 5.8% over the next three quarters.
+The MPC pointed to the West Asia conflict, volatile crude prices, a deficient south-west monsoon and strong El Niño conditions. It expects headline inflation to average almost **5.8%** over the next three quarters.
 
 > In this milieu, recalibrating the policy rate is imperative.
 >
@@ -94,7 +94,7 @@ Governor Malhotra's statement added that a "weak southwest monsoon along with st
 
 ## Where rates have been since 2024
 
-The repo rate stayed at 6.50% through 2024. The MPC then cut it three times in 2025, by a total of 100 basis points, to 5.50% by June, and cut again by 25 basis points to 5.25% on December 5, 2025. The October increase reverses that last cut.
+The repo rate stayed at **6.50%** through 2024. The MPC then cut it three times in 2025, by a total of 100 basis points, to 5.50% by June, and cut again by 25 basis points to 5.25% on December 5, 2025. The October increase reverses that last cut.
 
 ```chart
 {"type":"line","title":"Repo rate since January 2024","subtitle":"Level after each change (%)","unit":"%","data":[{"label":"Jan 2024","value":6.50},{"label":"Feb 2025","value":6.25},{"label":"Apr 2025","value":6.00},{"label":"Jun 2025","value":5.50},{"label":"Dec 2025","value":5.25},{"label":"Oct 2026","value":5.50,"highlight":true}],"source":"RBI; PTI; Business Standard"}
@@ -102,7 +102,7 @@ The repo rate stayed at 6.50% through 2024. The MPC then cut it three times in 2
 
 ## The new projections
 
-The RBI raised its inflation forecast and still expects growth above 7%. Real GDP grew 7.8% in April-June, which the resolution says "was higher than expected". At the end of August, ANI reported the RBI's full-year growth forecast at 6.7%.
+The RBI raised its inflation forecast and still expects growth above 7%. Real GDP grew 7.8% in April-June, which the resolution says "was higher than expected". At the end of August, the RBI's full-year growth forecast was reported at 6.7%.
 
 ```facts
 {"title":"RBI projections, October 2026","items":[{"value":"5.2%","label":"CPI inflation, 2026-27","source":"RBI"},{"value":"6.0%","label":"CPI inflation, Q3 (Oct-Dec 2026)","source":"RBI"},{"value":"4.4%","label":"core inflation, 2026-27","source":"RBI"},{"value":"7.1%","label":"real GDP growth, 2026-27","source":"RBI"}]}

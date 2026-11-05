@@ -37,15 +37,15 @@ verification:
     - "Fee ₹10,000 non-refundable, 24 months plus 12-month extensions, 30 days' notice for extension, one-year record keeping all from ETV Bharat."
 ---
 
-The Centre on Thursday notified the Telecommunications (Regulatory Sandbox) Rules, 2026, which allow startups, companies and researchers to test new telecom technologies, services and business models on real users before they are rolled out commercially.
+The Centre on Thursday notified the **Telecommunications (Regulatory Sandbox) Rules, 2026**, which allow startups, companies and researchers to test new telecom technologies, services and business models on real users before they are rolled out commercially.
 
 Inside the sandbox, participants are exempted from specified provisions of the Telecommunications Act, 2023 and the Telecom Regulatory Authority of India Act, 1997, for the duration of a trial. Newer technologies, such as 6G and advanced artificial intelligence, can be tried in a controlled real-world setting.
 
 ## How it will work
 
-Startups, large companies, researchers and scientists are all eligible. Applicants apply through a government digital portal. They must attach the reports of earlier laboratory tests and list the rules from which they want exemption. A non-refundable processing fee of ₹10,000 applies.
+Startups, large companies, researchers and scientists are all eligible. Applicants apply through a government digital portal. They must attach the reports of earlier laboratory tests and list the rules from which they want exemption. A non-refundable processing fee of **₹10,000** applies.
 
-An approved trial runs for 24 months at first. It can be extended in 12-month steps, with a request filed at least 30 days before the current period ends.
+An approved trial runs for **24 months** at first. It can be extended in 12-month steps, with a request filed at least 30 days before the current period ends.
 
 ## Protecting users
 

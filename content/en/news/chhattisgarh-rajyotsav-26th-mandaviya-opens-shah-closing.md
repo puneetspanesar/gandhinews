@@ -6,12 +6,12 @@ section: states
 format_label: "States / Chhattisgarh"
 topics: [states]
 title: "Chhattisgarh turns 26; Mandaviya to open three-day Rajyotsav in Nava Raipur, Shah to close it"
-standfirst: "The state's foundation day festival runs from today to November 3 on the theme of women's empowerment and youth. An Air Force helicopter display is set for Monday."
+standfirst: "The state's foundation day festival runs from November 1 to November 3 on the theme of women's empowerment and youth. An Air Force helicopter display is set for Monday."
 published: 2026-11-01T06:20:00+05:30
 location: Raipur
 keyPoints:
   - "Chhattisgarh marks its **26th foundation day** with a three-day Rajyotsav in Nava Raipur."
-  - "Union Minister **Mansukh Mandaviya opens the festival** today; Amit Shah attends the close on November 3."
+  - "Union Minister **Mansukh Mandaviya opens the festival** on November 1; Amit Shah attends the close on November 3."
   - "The Sarang helicopter team flies over **Sendh Lake at 11 am on Monday**."
 hero:
   need: "Two-panel split: Union Minister Mansukh Mandaviya, chief guest at the opening, and Nava Raipur, where the Rajyotsav is held"
@@ -42,9 +42,9 @@ verification:
     - "Mandaviya's portfolio not given in sources; copy says Union Minister. No statement from the Chief Minister or PM's greeting found before 6:15 am."
 ---
 
-Chhattisgarh turns 26 today, and the state is marking the day with **a three-day Rajyotsav in Nava Raipur Atal Nagar**. The festival runs from Sunday to Tuesday at the Dr Shyama Prasad Mukherjee Industry and Trade Complex, the Mela Ground of the new capital.
+Chhattisgarh turned 26 on November 1, and the state is marking the day with **a three-day Rajyotsav in Nava Raipur Atal Nagar**. The festival runs from Sunday to Tuesday at the Dr Shyama Prasad Mukherjee Industry and Trade Complex, the Mela Ground of the new capital.
 
-Union Minister **Mansukh Mandaviya is the chief guest at the opening** today, and playback singer Palak Muchhal performs in the evening. The state was carved out of Madhya Pradesh on November 1, 2000.
+Union Minister **Mansukh Mandaviya is the chief guest at the opening** on November 1, and playback singer Palak Muchhal performs in the evening. The state was carved out of Madhya Pradesh on November 1, 2000.
 
 ```photo
 {"n":1,"subject":"Palak Muchhal","caption":"Playback singer Palak Muchhal, who performs on the opening day of the Rajyotsav.","alt":"Singer Palak Muchhal"}

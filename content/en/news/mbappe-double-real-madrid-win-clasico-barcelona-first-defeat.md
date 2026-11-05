@@ -55,11 +55,11 @@ verification:
 
 Kylian Mbappé scored twice at Camp Nou on Sunday night, the second two minutes from time, as Real Madrid beat Barcelona 2-1 and ended the leaders' perfect start to the La Liga season.
 
-Barcelona had won all nine league matches before the first Clásico of the season. The defeat cuts their lead over Madrid to three points.
+Barcelona had won all nine league matches before the first Clásico of the season. The defeat cuts their lead over Madrid to **three points**.
 
 ## How the Clásico turned
 
-Barcelona had more of the ball in the first half, with 59% possession, but Madrid went ahead in the 41st minute. Yan Diomandé sent a low cross in from the left, Gerard Martín's attempted clearance struck Mbappé, and the Frenchman turned to score.
+Barcelona had more of the ball in the first half, with **59%** possession, but Madrid went ahead in the 41st minute. Yan Diomandé sent a low cross in from the left, Gerard Martín's attempted clearance struck Mbappé, and the Frenchman turned to score.
 
 Barcelona levelled on the hour. Pedri found Raphinha, who finished low past Andriy Lunin, deputising in goal for the ill Thibaut Courtois.
 

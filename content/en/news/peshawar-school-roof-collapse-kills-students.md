@@ -48,9 +48,9 @@ verification:
     - "Rescue 1122 spokesperson Bilal Ahmed Faizi: ANI (citing Dawn)."
 ---
 
-At least 29 people, 28 of them schoolchildren, were killed on Thursday morning when the roof of a private school collapsed in Peshawar, in north-west Pakistan, while classes were under way.
+At least **29 people**, 28 of them schoolchildren, were killed on Thursday morning when the roof of a private school collapsed in Peshawar, in north-west Pakistan, while classes were under way.
 
-The upper floor of Al-Khair School in the Afridi Abad area gave way and crushed the storey beneath it. The students who died were between seven and 16 years old. A female teacher was also killed, and 19 people were injured.
+The upper floor of Al-Khair School in the Afridi Abad area gave way and crushed the storey beneath it. The students who died were between seven and **16 years** old. A female teacher was also killed, and 19 people were injured.
 
 Lady Reading Hospital, where an emergency was declared, received 28 of the dead. One more died at Naseerullah Khan Babar Memorial Hospital. The toll climbed through the morning, from 21 to 28 and then 29.
 
@@ -58,7 +58,7 @@ Lady Reading Hospital, where an emergency was declared, received 28 of the dead.
 
 Samiullah, who has six children at the school, said he "received a call from home at around 8:50 am" and reached the building ten minutes later. He pulled three girls, all younger than eight, from the debris. He was sure his own son was dead, because the boy's classroom was on the ground floor, directly under the floor that fell. The child had stepped out to fetch water moments before the collapse and survived.
 
-Rescue 1122 spokesperson Bilal Ahmed Faizi said rescuers worked to pull out those trapped and took about 20 people, students and teachers among them, to hospital. Khyber Pakhtunkhwa police chief Zulfiqar Hameed told traffic police to clear a "green corridor" so ambulances could move without stopping.
+Rescue 1122 spokesperson Bilal Ahmed Faizi said rescuers worked to pull out those trapped and took about **20 people**, students and teachers among them, to hospital. Khyber Pakhtunkhwa police chief Zulfiqar Hameed told traffic police to clear a "green corridor" so ambulances could move without stopping.
 
 Later in the day the operation was called off. "Rescue teams have cleared all the debris, and no more injured children are at the scene," Peshawar Deputy Commissioner Afaq Wazir said.
 

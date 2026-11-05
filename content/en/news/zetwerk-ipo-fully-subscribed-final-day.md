@@ -36,14 +36,14 @@ verification:
     - "Price band, issue split and listing date from our earlier stories (zetwerk-tonbo-ipo-day-two-close-subscription)."
 ---
 
-Zetwerk's ₹5,012.33 crore initial public offering was fully subscribed on Monday, its last day of bidding, as large institutions finally put in the orders the issue had been waiting for.
+Zetwerk's **₹5,012.33 crore** initial public offering was fully subscribed on Monday, its last day of bidding, as large institutions finally put in the orders the issue had been waiting for.
 
 By 2:20 pm the offer had drawn bids for 1.25 times the shares on sale, with qualified institutional buyers leading the demand. That was a sharp turnaround from Friday evening, when the issue had been subscribed only 0.31 times and institutions had bid for just over a third of their portion.
 
 Large investors such as mutual funds, insurers and foreign funds often bid on the final day of big issues, and their portion decides whether an offer of this size goes through. Bids were still coming in through the afternoon, with the issue due to close later on Monday.
 
-Zetwerk, a contract manufacturer, is selling shares at ₹143 to ₹151 each. The offer is made up of ₹2,830 crore of new shares, which bring money into the company, and an offer for sale of about ₹2,182 crore by existing investors.
+Zetwerk, a contract manufacturer, is selling shares at **₹143** to ₹151 each. The offer is made up of ₹2,830 crore of new shares, which bring money into the company, and an offer for sale of about ₹2,182 crore by existing investors.
 
-Tonbo Imaging, the defence electronics maker whose ₹852.18 crore offer opened on the same day as Zetwerk's, also closed on Monday. Its sale had already been bid close to eight times by Friday, with heavy demand from wealthy individuals.
+Tonbo Imaging, the defence electronics maker whose **₹852.18 crore** offer opened on the same day as Zetwerk's, also closed on Monday. Its sale had already been bid close to eight times by Friday, with heavy demand from wealthy individuals.
 
-Shares in Tonbo are due to be allotted on October 21, and both companies are expected to list on the BSE and NSE on October 23. The next big test for the primary market comes on Wednesday, when the ₹30,200 crore Jio Platforms offer opens.
+Shares in Tonbo are due to be allotted on October 21, and both companies are expected to list on the BSE and NSE on October 23. The next big test for the primary market comes on Wednesday, when the **₹30,200 crore** Jio Platforms offer opens.

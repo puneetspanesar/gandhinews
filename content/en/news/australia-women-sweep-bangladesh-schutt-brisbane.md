@@ -36,7 +36,7 @@ verification:
     - "Who scored more between Perry and Sutherland not given; both described as fifties."
 ---
 
-Australia completed a 3-0 sweep of Bangladesh at Allan Border Field in Brisbane on Wednesday, winning the third ODI by eight wickets after Megan Schutt had once again done the early damage.
+Australia completed a 3-0 sweep of Bangladesh at Allan Border Field in Brisbane on Wednesday, winning the third ODI by **eight wickets** after Megan Schutt had once again done the early damage.
 
 Schutt finished with 4 for 16 from her spell, five of her overs maidens, as Bangladesh were held to 172. Ashleigh Gardner and Annabel Sutherland took two wickets each. Bangladesh did have two half-centuries to show for their innings, from Sharmin Akhter (50) and Shorna Akter (54), but no one could go on.
 

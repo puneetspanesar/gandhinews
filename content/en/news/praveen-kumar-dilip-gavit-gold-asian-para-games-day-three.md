@@ -48,9 +48,9 @@ Praveen Kumar defended his Asian Para Games high jump title in Nagoya on Wednesd
 
 Banti made it an Indian one-two with a personal best of 1.92m for silver.
 
-On the track, Dilip Gavit Mahadu won the men's 100m T47 in 10.69 seconds, holding off Mohammed Basil by three hundredths of a second, with Basil taking silver in 10.72.
+On the track, Dilip Gavit Mahadu won the men's 100m T47 in **10.69 seconds**, holding off Mohammed Basil by three hundredths of a second, with Basil taking silver in 10.72.
 
-Those golds came on top of the shot put haul earlier in the day, led by Sachin Khilari's Games record in the F46 class and Ayush Verma's win in F53. By the end of the third day India had 62 medals: 14 gold, 22 silver and 26 bronze, up from sixth place to fifth.
+Those golds came on top of the shot put haul earlier in the day, led by Sachin Khilari's Games record in the F46 class and Ayush Verma's win in F53. By the end of the third day India had **62 medals**: 14 gold, 22 silver and 26 bronze, up from sixth place to fifth.
 
 ## Silver for Sheetal and Payal
 

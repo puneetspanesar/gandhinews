@@ -5,7 +5,7 @@ type: news
 section: policy
 format_label: "Policy / Trade"
 topics: []
-title: "India's first duty cuts under New Zealand trade pact take effect on Tuesday"
+title: "India's first duty cuts under New Zealand trade pact take effect on October 20"
 standfirst: "Sheep meat comes in duty free and kiwi fruit priced above $2.50 a kg pays 15%, under a Finance Ministry notification that opens the first stage of the India-New Zealand free trade agreement."
 published: 2026-10-18T17:20:00+05:30
 location: New Delhi
@@ -39,15 +39,15 @@ verification:
 
 Indian importers of New Zealand sheep meat, kiwi fruit, wine and manuka honey will pay lower duties from Tuesday, October 20, when the first concessions under the India-New Zealand free trade agreement come into force.
 
-A Finance Ministry notification issued on Friday sets out the revised basic customs duty and cess rates for eligible goods. The cuts are selective. They cover listed tariff lines only, come with conditions on each product, and in several cases apply only up to a fixed quantity. Duties on New Zealand goods as a whole are not being removed.
+A Finance Ministry notification issued on Friday sets out the revised **basic customs duty** and cess rates for eligible goods. The cuts are selective. They cover listed tariff lines only, come with conditions on each product, and in several cases apply only up to a fixed quantity. Duties on New Zealand goods as a whole are not being removed.
 
 ## What gets cheaper
 
-The biggest change is for sheep meat. Fresh, chilled and frozen sheep meat under the specified tariff heading will attract no basic customs duty, no Agriculture Infrastructure and Development Cess and no health cess.
+The biggest change is for sheep meat. Fresh, chilled and frozen sheep meat under the specified tariff heading will attract **no basic customs duty**, no Agriculture Infrastructure and Development Cess and no health cess.
 
-Kiwi fruit, one of New Zealand's best-known exports, gets a price-linked concession. Fruit imported at $2.50 a kilogram or more will pay a basic customs duty of 15%, subject to classification and conditions.
+Kiwi fruit, one of New Zealand's best-known exports, gets a price-linked concession. Fruit imported at $2.50 a kilogram or more will pay a basic customs duty of **15%**, subject to classification and conditions.
 
-Several lines of designated fish will carry a basic customs duty of 25.71%, with no AIDC or health cess. Wine and manuka honey are also among the goods covered by preferential rates, though the duty levels vary by tariff line.
+Several lines of designated fish will carry a basic customs duty of **25.71%**, with no AIDC or health cess. Wine and manuka honey are also among the goods covered by preferential rates, though the duty levels vary by tariff line.
 
 ## Quotas and proof of origin
 

@@ -11,7 +11,7 @@ published: 2026-11-04T12:25:00+05:30
 location: Mumbai
 keyPoints:
   - "The RBI formed a **Technical Consultative Committee for Financial Markets**."
-  - "It is **chaired by Deputy Governor Rohit Jain**."
+  - "It is chaired by **Deputy Governor Rohit Jain**."
   - "Members include **Ananth Narayan and Ridham Desai**."
 hero:
   need: "Reserve Bank of India headquarters, Mumbai"
@@ -47,7 +47,7 @@ verification:
 
 The Reserve Bank of India has set up a **Technical Consultative Committee for Financial Markets**, a standing panel of bankers, market experts and academics that will advise it on the money, government bond and currency markets.
 
-The committee is **chaired by Deputy Governor Rohit Jain**, who oversees the RBI's Financial Markets Regulation Department. The central bank called it a "forum for structured engagement with market participants and stakeholders".
+The committee is chaired by **Deputy Governor Rohit Jain**, who oversees the RBI's Financial Markets Regulation Department. The central bank called it a "forum for structured engagement with market participants and stakeholders".
 
 ```photo
 {"n":1,"subject":"Reserve Bank of India Mumbai","caption":"The Reserve Bank of India in Mumbai, which announced the committee.","alt":"Reserve Bank of India building in Mumbai"}
@@ -60,9 +60,5 @@ The external members include **Ananth Narayan, a former Sebi whole-time member**
 ## What it will do
 
 The panel will look at how well the markets work, how liquid and resilient they are, and how to **deepen and broaden them**. It will review how RBI measures are carried out on the ground and flag any unintended frictions, and it will cover trading, clearing, settlement and reporting, along with new products and emerging risks at home and abroad.
-
-```photo
-{"n":2,"subject":"Clearing Corporation of India","caption":"The Clearing Corporation of India, whose managing director sits on the panel.","alt":"Clearing Corporation of India"}
-```
 
 Market participants said the RBI had already been consulting them informally, and the committee **formalises that process**.

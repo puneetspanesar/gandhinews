@@ -49,7 +49,7 @@ verification:
 
 Vishvajit More came within a point of a world title at the U23 World Wrestling Championships in Las Vegas, losing the 55kg Greco-Roman final 12-13 to Georgia's Koba Karumidze in a bout settled in its final seconds.
 
-The silver, decided early on Thursday, India time, is India's first medal of these championships and the best result by an Indian Greco-Roman wrestler at the event. More is the first Indian to reach a Greco-Roman final at the U23 Worlds.
+The silver, decided early on Thursday, India time, is India's first medal of these championships and the best result by an Indian Greco-Roman wrestler at the event. More is the **first Indian** to reach a Greco-Roman final at the U23 Worlds.
 
 It also completes a steady climb. More won bronze at the 2024 edition and again in the 55kg class in Serbia last year.
 

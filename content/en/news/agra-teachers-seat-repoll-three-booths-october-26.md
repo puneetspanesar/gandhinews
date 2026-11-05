@@ -5,7 +5,7 @@ type: news
 section: politics
 format_label: "Politics / Uttar Pradesh"
 topics: [election-commission]
-title: "Election Commission orders re-poll at three booths in Agra teachers' Council seat on Monday"
+title: "Election Commission orders re-poll at three booths in Agra teachers' Council seat on October 26"
 standfirst: "Voting at Kheragarh, Saiyan and Fatehabad on October 23 has been declared void, and the Agra Divisional Commissioner must report on what went wrong by Sunday."
 published: 2026-10-24T23:20:00+05:30
 location: Lucknow
@@ -19,7 +19,7 @@ hero:
   subjects: ["Kheragarh"]
   alt: "Kheragarh in Agra district, Uttar Pradesh"
   overlay:
-    value: "Three booths vote again on Monday"
+    value: "Three booths vote again on October 26"
 related: [up-mlc-polls-11-council-seats-voting-ballot-papers, jairam-ramesh-ec-software-ecinet-up-mlc-voter-list]
 seo:
   description: "The Election Commission has ordered a re-poll at three polling stations in UP's Agra Division Teachers' Council seat on October 26 after voting was declared void."

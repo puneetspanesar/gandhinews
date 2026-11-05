@@ -69,7 +69,7 @@ Russia's Defence Ministry said its drones hit a dry cargo ship heading for the B
 
 ## Ukraine's drones over Russia
 
-Russia, for its part, said its air defences destroyed 532 Ukrainian fixed-wing drones over 25 regions during the night.
+Russia, for its part, said its air defences destroyed **532 Ukrainian** fixed-wing drones over 25 regions during the night.
 
 In the Bryansk region, a drone hit a minibus belonging to a farm in the village of Borshchovo, killing two people and seriously injuring two, regional head Yegor Kovalchuk said. In Belgorod, one person was killed and 14 injured, the regional governor said.
 

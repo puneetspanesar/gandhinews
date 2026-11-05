@@ -39,7 +39,7 @@ verification:
 
 Actor Naseeruddin Shah and filmmaker Payal Kapadia have come out in support of students at the Satyajit Ray Film and Television Institute (SRFTI) in Kolkata, who have been protesting for weeks over what they say were attacks on their campus by groups linked to the RSS.
 
-The students allege they were attacked on September 27 by members of the Akhil Bharatiya Grahak Panchayat, an RSS-affiliated consumer group, and again on October 4 during a rally by the Bangiya Hindu Jagran Manch near the institute's gate. They are holding an indefinite sit-in and want Vice Chancellor Santosh Ajmera to resign.
+The students allege they were attacked on September 27 by members of the Akhil Bharatiya Grahak Panchayat, an RSS-affiliated consumer group, and again on October 4 during a rally by the Bangiya Hindu Jagran Manch near the institute's gate. They are holding an **indefinite sit-in** and want Vice Chancellor Santosh Ajmera to resign.
 
 Classes have been suspended since September 28. On October 16 the institute called off film-making and video classes until November 13 and asked students to leave the campus.
 

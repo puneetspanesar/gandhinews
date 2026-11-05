@@ -56,9 +56,9 @@ verification:
     - "Hero: Wikipedia title for the minister assumed to be 'Jitendra Singh Rana'; IITM building photo already used elsewhere."
 ---
 
-Delhi has a new laboratory meant to answer the question that comes up every winter: where is the smog actually coming from?
+Delhi has a new laboratory meant to find out where the city's winter smog comes from.
 
-Union Minister Jitendra Singh on Saturday opened the Integrated Atmospheric Chemistry and Aerosol Toxicity Analysis Laboratory (AATAL) at the Delhi branch of the Indian Institute of Tropical Meteorology (IITM). The Ministry of Earth Sciences built it at a cost of ₹80 crore under Mission Mausam, and describes it as the first integrated facility of its kind in the world.
+Union Minister Jitendra Singh on Saturday opened the Integrated Atmospheric Chemistry and Aerosol Toxicity Analysis Laboratory (AATAL) at the Delhi branch of the Indian Institute of Tropical Meteorology (IITM). The Ministry of Earth Sciences built it at a cost of **₹80 crore** under Mission Mausam, and describes it as the first integrated facility of its kind in the world.
 
 The lab goes beyond reporting how bad the air is. It analyses gases and aerosols, including fine particulate matter (PM2.5), metals and toxic elements, to work out what the pollution is made of, which sources it comes from, how much each one contributes and what risk it poses to health.
 
@@ -68,9 +68,9 @@ The lab goes beyond reporting how bad the air is. It analyses gases and aerosols
 
 The sources the lab tracks are the familiar suspects of a Delhi winter: vehicle exhaust, industry, the burning of biomass and crop residue, construction and road dust, and pollution blown in from neighbouring regions. Because it works in near real time, it can show how their shares change through the day and across the season.
 
-During the inauguration, Singh pointed to a live reading showing that transport was contributing about 25% of the city's pollution at that moment.
+During the inauguration, Singh pointed to a live reading showing that transport was contributing **about 25%** of the city's pollution at that moment.
 
-AATAL is linked to AIRWISE, IITM's decision-support system, which combines observations, source estimates and air-quality forecasts at a resolution of 400 metres for the next 72 hours.
+AATAL is linked to AIRWISE, IITM's decision-support system, which combines observations, source estimates and air-quality forecasts at a resolution of 400 metres for the next **72 hours**.
 
 ## Built for the agencies
 

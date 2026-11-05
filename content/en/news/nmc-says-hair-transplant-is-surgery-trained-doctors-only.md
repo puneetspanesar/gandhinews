@@ -44,4 +44,4 @@ The guidelines follow a serious infection reported after a hair transplant in Ko
 
 Hair transplantation "is a surgical procedure requiring specialised medical training", the guidelines say, and it "must be performed by appropriately trained and licensed doctors" rather than treated as a cosmetic service. Clinics that offer it must have adequate infrastructure and arrangements in place to manage complications.
 
-The guidelines also spell out what counts as surgery. Any procedure that involves making an incision to harvest tissue, or to prepare the scalp or another part of the body to receive it, falls in that category.
+The guidelines also spell out what counts as surgery. Any procedure that involves making an **incision to harvest tissue**, or to prepare the scalp or another part of the body to receive it, falls in that category.

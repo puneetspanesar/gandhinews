@@ -54,7 +54,7 @@ sources:
     date: 2026-10-30
     url: "https://www.lta.org.uk/news/rolex-paris-masters-2026-arthur-fery-and-cam-norrie-learn-first-round-draws/"
     primary: false
-  - title: "2026 Rolex Paris Masters – Singles"
+  - title: "2026 Rolex Paris Masters, Singles"
     publisher: "Wikipedia"
     date: 2026-11-02
     url: "https://en.wikipedia.org/wiki/2026_Rolex_Paris_Masters_%E2%80%93_Singles"

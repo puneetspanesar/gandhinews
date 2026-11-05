@@ -39,13 +39,13 @@ verification:
 
 Gujarat has offered to give neighbouring states electricity or pay them compensation in return for water, as it tries to make up a shortfall before the rabi sowing season, Union Jal Shakti Minister C R Paatil said on Sunday.
 
-Speaking at an event in Surat, Paatil said the state was seeking water from Madhya Pradesh, Maharashtra and Rajasthan. Under the offer, Gujarat would either share power generated from the water or pay for it. Chief Minister Bhupendra Patel is expected to travel to Delhi on Tuesday to discuss the proposal with the chief ministers of the three states.
+Speaking at an event in Surat, Paatil said the state was seeking water from Madhya Pradesh, Maharashtra and Rajasthan. Under the offer, Gujarat would either share power generated from the water or pay for it. Chief Minister Bhupendra Patel is expected to travel to **Delhi on Tuesday** to discuss the proposal with the chief ministers of the three states.
 
 Paatil blamed the shortage on the El Niño weather pattern, but said Gujarat was in a better position than several other states.
 
 ## A patchy monsoon
 
-On paper the state did not have a bad year. Gujarat received 94.83% of its average monsoon rainfall, according to a State Emergency Operations Centre report tabled in the assembly last month. The rain fell very unevenly, however. Devbhumi Dwarka recorded just 5.47% of its normal rainfall and Porbandar 18.12%, leaving the two coastal Saurashtra districts short of water for the winter crop.
+On paper the state did not have a bad year. Gujarat received **94.83%** of its average monsoon rainfall, according to a State Emergency Operations Centre report tabled in the assembly last month. The rain fell very unevenly, however. Devbhumi Dwarka recorded just 5.47% of its normal rainfall and Porbandar 18.12%, leaving the two coastal Saurashtra districts short of water for the winter crop.
 
 The opposition Congress has demanded that the government formally declare water scarcity in the affected areas.
 

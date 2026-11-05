@@ -60,18 +60,18 @@ verification:
 
 Foreign currency deposits from non-resident Indians poured into the country's biggest private banks in the July-September quarter, and Saturday's results showed how much they changed the shape of their balance sheets.
 
-HDFC Bank raised $11.5 billion in foreign currency non-resident (FCNR-B) deposits through the Reserve Bank's swap window, and its overseas branches lent $5.7 billion against them. Axis Bank had mobilised $10.62 billion by September 30 and issued $4.69 billion of standby letters of credit to other lenders on loans backed by the deposits. Between those two banks alone, that is more than $22 billion.
+HDFC Bank raised **$11.5 billion** in foreign currency non-resident (FCNR-B) deposits through the Reserve Bank's swap window, and its overseas branches lent $5.7 billion against them. Axis Bank had mobilised $10.62 billion by September 30 and issued $4.69 billion of standby letters of credit to other lenders on loans backed by the deposits. Between those two banks alone, that is more than $22 billion.
 
 ## Growth, with an asterisk
 
-ICICI Bank did not give a dollar figure in its headline numbers, but the effect showed. Its deposits rose 27.1% from a year earlier; take out FCNR-B money and growth was 17%. Its loans rose 30%, or 24.1% without lending by its international branches against those deposits.
+ICICI Bank did not give a dollar figure in its headline numbers, but the effect showed. Its deposits rose **27.1%** from a year earlier; take out FCNR-B money and growth was 17%. Its loans rose 30%, or 24.1% without lending by its international branches against those deposits.
 
-At HDFC Bank, term deposits grew 22.8% while current and savings balances rose 10.8%. Axis used part of its haul to run down bulk deposits from companies and institutions, which fell 8.6% from June.
+At HDFC Bank, term deposits grew **22.8%** while current and savings balances rose 10.8%. Axis used part of its haul to run down bulk deposits from companies and institutions, which fell 8.6% from June.
 
-Smaller lenders rode the same wave. Federal Bank, which reported on Friday, posted a 45% jump in profit on the back of FCNR deposits.
+Smaller lenders rode the same wave. Federal Bank, which reported on Friday, posted a **45%** jump in profit on the back of FCNR deposits.
 
 ## Margins narrow
 
-Margins moved the other way. HDFC Bank's net interest margin slipped to 3.16% from 3.26% in the June quarter, and ICICI Bank's to 4.18% from 4.36%. Before Axis reported, analysts had expected its margin to fall by 7-12 basis points on the FCNR-B inflows; it came in at 3.36%.
+Margins moved the other way. HDFC Bank's net interest margin slipped to **3.16%** from 3.26% in the June quarter, and ICICI Bank's to 4.18% from 4.36%. Before Axis reported, analysts had expected its margin to fall by 7-12 basis points on the FCNR-B inflows; it came in at 3.36%.
 
 Investors will get their first chance to price all of this in when markets reopen on Monday.

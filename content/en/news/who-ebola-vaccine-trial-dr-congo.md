@@ -47,10 +47,10 @@ Congo has begun testing vaccines against the Bundibugyo strain of Ebola, for whi
 
 The first volunteers were vaccinated on Friday in Bunia, in the east of the country, under a trial called Tumaini, Swahili for "hope". "Science gives us hope," World Health Organization chief Tedros Adhanom Ghebreyesus wrote on X. "This trial will help us understand whether any of the vaccine candidates designed for Bundibugyo virus work."
 
-The Phase II/III trial will start with Ervebo, the vaccine licensed against the more common Zaire strain, to see whether it gives any cross-protection. Two vaccines designed for Bundibugyo are due to join later: an mRNA shot from Moderna and ChAdOx1 BDBV, developed by the University of Oxford with the Serum Institute of India. Both are still in smaller, earlier trials.
+The Phase II/III trial will start with Ervebo, the vaccine licensed against the more common Zaire strain, to see whether it gives any cross-protection. Two vaccines designed for Bundibugyo are due to join later: an mRNA shot from Moderna and ChAdOx1 BDBV, developed by the University of Oxford with the **Serum Institute of India**. Both are still in smaller, earlier trials.
 
 The trial uses ring vaccination, offering shots to contacts of confirmed cases and others at high risk. It is led by Congo's Institut National de Recherche Biomédicale and the University of Antwerp, with WHO advice and funding from the vaccine coalition CEPI. Congo has received an initial 70,000 doses of Ervebo, 20,000 for the trial and 50,000 for frontline health workers.
 
-By October 21 Congo had confirmed 9,552 cases and 4,602 deaths since the outbreak was declared on May 15. The virus has since reached Kenya and, this week, Nigeria. Africa CDC Director-General Jean Kaseya has criticised the lack of investment in a Bundibugyo vaccine nearly two decades after the strain was first identified in Uganda.
+By October 21 Congo had confirmed **9,552 cases and 4,602 deaths** since the outbreak was declared on May 15. The virus has since reached Kenya and, this week, Nigeria. Africa CDC Director-General Jean Kaseya has criticised the lack of investment in a Bundibugyo vaccine nearly two decades after the strain was first identified in Uganda.
 
 Starting the trial does not mean any of the vaccines works against the strain.

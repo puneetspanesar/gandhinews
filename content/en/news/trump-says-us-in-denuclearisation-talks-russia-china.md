@@ -37,7 +37,7 @@ verification:
     - "Warhead figures are SIPRI estimates as cited in the report."
 ---
 
-The United States is holding talks with Russia and China about nuclear disarmament, President Donald Trump has said, while warning that Beijing is building up its arsenal fast.
+The United States is holding talks with **Russia and China** about nuclear disarmament, President Donald Trump has said, while warning that Beijing is building up its arsenal fast.
 
 Speaking to the US broadcaster Newsmax on Thursday, Trump said China, which has far fewer warheads than the US or Russia, would "catch up" within five years. He said Washington was discussing a path to denuclearisation with both.
 
@@ -47,7 +47,7 @@ He added that China did not seem willing to disarm, but that talks had continued
 
 ## The numbers
 
-China has about 620 nuclear warheads, according to the Stockholm International Peace Research Institute (SIPRI), having expanded its arsenal in the past year. The US and Russia each have more than 4,000, and between them hold an estimated 86% of the world's nuclear weapons. Russia has the largest stockpile.
+China has about 620 nuclear warheads, according to the Stockholm International Peace Research Institute (SIPRI), having expanded its arsenal in the past year. The US and Russia each have more than 4,000, and between them hold an estimated **86%** of the world's nuclear weapons. Russia has the largest stockpile.
 
 Trump's remarks come after the expiry of the Strategic Arms Reduction Treaty, an arms control agreement that limited the US and Russian arsenals. A month after it lapsed, French President Emmanuel Macron announced a Forward Deterrence Initiative, as Russia's nuclear threats during the war in Ukraine unsettled Europe.
 

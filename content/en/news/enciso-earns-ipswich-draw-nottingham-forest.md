@@ -50,16 +50,16 @@ verification:
 
 Julio Enciso made Nottingham Forest pay for one lapse in concentration, and promoted Ipswich Town took a 1-1 draw from the Premier League's Friday night game at Portman Road.
 
-Forest went ahead in the 13th minute with a neat move. Liam Delap held the ball up, Morgan Gibbs-White sent Daniel Munoz away down the right, and Munoz's cross found Neco Williams at the far post for a first-time finish.
+Forest went ahead in the **13th minute** with a neat move. Liam Delap held the ball up, Morgan Gibbs-White sent Daniel Munoz away down the right, and Munoz's cross found Neco Williams at the far post for a first-time finish.
 
 Oliver Glasner's side looked the more dangerous team, but four minutes before the break they were caught out. Dara O'Shea's long ball was not cleared by Xaver Schlager and Nikola Milenkovic, and Enciso nipped in, ran through and finished low past Matz Sels at the near post.
 
 ## Forest's frustration
 
-The visitors did most of the attacking after that. They finished with 17 shots to Ipswich's seven, and Ipswich left-back Leif Davis cleared off his own line twice, once in each half. Christian Walton saved from Murillo around the hour.
+The visitors did most of the attacking after that. They finished with **17 shots** to Ipswich's seven, and Ipswich left-back Leif Davis cleared off his own line twice, once in each half. Christian Walton saved from Murillo around the hour.
 
 The big flashpoint came early in the second half. Issa Diop brought down James McAtee as he broke forward, and referee Thomas Bramall at first waved play on. After a VAR review he gave Forest a free-kick and showed Diop a yellow card, judging that McAtee was moving away from goal and so not denied a clear chance.
 
 ## Where it leaves them
 
-The point takes Gary O'Neil's Ipswich to 10 points from eight games, and up to ninth for now, before the rest of the weekend's matches. Forest, who have won only once this season, move on to six points and remain in the lower reaches of the table. Ipswich go to Hull City next Saturday.
+The point takes Gary O'Neil's Ipswich to **10 points** from eight games, and up to ninth for now, before the rest of the weekend's matches. Forest, who have won only once this season, move on to six points and remain in the lower reaches of the table. Ipswich go to Hull City next Saturday.

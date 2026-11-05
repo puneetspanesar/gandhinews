@@ -5,7 +5,7 @@ type: news
 section: sports
 format_label: "Sports / Cricket"
 topics: []
-title: "Live: Brar's return catch, Kohli's dive leave New Zealand 124 for 7 at Eden Park"
+title: "Brar's return catch, Kohli's dive leave New Zealand 124 for 7 at Eden Park"
 standfirst: "Gurnoor Brar held a one-handed return catch to remove Tom Latham and Virat Kohli flew to dismiss Nathan Smith as India's bowlers reduced New Zealand to 124 for 7 after 30 overs of the first ODI in Auckland."
 published: 2026-11-04T10:10:00+05:30
 location: Auckland
@@ -22,11 +22,11 @@ hero:
     value: "NZ 124/7 after 30 overs"
 cover:
   template: sport
-  label: "Live"
+  label: "First ODI"
   headline: "New Zealand 124 for 7 at Eden Park"
   bg: "Eden Park"
 infographic:
-  kicker: "New Zealand v India, 1st ODI, live"
+  kicker: "New Zealand v India, 1st ODI"
   headline: "India's bowlers leave New Zealand seven down"
   dek: "Eden Park, Auckland, Wednesday, November 4"
   motif: cricket

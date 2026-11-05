@@ -85,4 +85,4 @@ At 88 polling stations in Alluri Sitarama Raju and Polavaram districts, voting c
 {"n":1,"subject":"Kotia, Koraput","caption":"Andhra Pradesh is also holding elections in Kotia, a group of villages Odisha claims, which Leader of Opposition Naveen Patnaik has called a matter of serious concern.","alt":"Villages in the Kotia area on the Odisha-Andhra Pradesh border"}
 ```
 
-The run-up has been bitter. The YSR Congress Party has said its candidates were attacked when nominations opened, and filing closed amid clashes in Palnadu, Anantapur and Tirupati, and in Odisha, Naveen Patnaik wrote to Chief Minister Mohan Charan Majhi on Wednesday asking him to take up **Andhra's decision to hold polls in Kotia**, a disputed cluster of villages on the border.
+The run-up has been bitter. The YSR Congress Party has said its candidates were attacked when nominations opened, and filing closed after clashes in Palnadu, Anantapur and Tirupati, and in Odisha, Naveen Patnaik wrote to Chief Minister Mohan Charan Majhi on Wednesday asking him to take up **Andhra's decision to hold polls in Kotia**, a disputed cluster of villages on the border.

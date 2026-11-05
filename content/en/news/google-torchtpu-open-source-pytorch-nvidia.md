@@ -35,9 +35,9 @@ verification:
     - "Single source: TechCrunch, Oct 20, 11:38 am PDT (12:08 am IST Oct 21). No quotes from Google in source. The 85% PyTorch share is 'by some accounts' and is hedged in copy."
 ---
 
-Google has made TorchTPU, its version of the PyTorch programming toolkit, available as an open-source project, a day after Amazon did the same for its own AI chip. Both companies want developers to stop writing AI software that runs by default on Nvidia's graphics processors.
+Google has made TorchTPU, its version of the PyTorch programming toolkit, available as an open-source project, a **day after Amazon** did the same for its own AI chip. Both companies want developers to stop writing AI software that runs by default on Nvidia's graphics processors.
 
-PyTorch is the open-source toolkit most developers use to build, train and run AI models. By some estimates it sits under 85% of AI applications. Meta, then Facebook, built it in 2016 and handed it to the Linux Foundation in 2022. Most PyTorch code, though, is tuned to run on Nvidia hardware.
+PyTorch is the open-source toolkit most developers use to build, train and run AI models. By some estimates it sits under **85%** of AI applications. Meta, then Facebook, built it in 2016 and handed it to the Linux Foundation in 2022. Most PyTorch code, though, is tuned to run on Nvidia hardware.
 
 TorchTPU lets that code run on Google's Tensor Processing Units. Google says developers can move an existing PyTorch app with a simple configuration change and no rewriting, which also makes it easy to shift the app onto Google Cloud.
 

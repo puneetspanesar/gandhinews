@@ -43,13 +43,13 @@ verification:
 
 Solar Defence and Aerospace Ltd, a Nagpur company, says it has delivered its Nagastra-2 anti-tank loitering munition to the Indian Army after the weapon completed technical trials.
 
-The trials were held at the Mahajan Field Firing Range in August, and the company said the users had observed all operational parameters, including its resistance to electronic jamming.
+The trials were held at the **Mahajan Field Firing Range** in August, and the company said the users had observed all operational parameters, including its resistance to electronic jamming.
 
-A loitering munition is a drone that circles over a battlefield until it finds a target and then dives into it. The company says Nagastra-2 "is equipped with day-and-night surveillance cameras and a 4 kg tandem shaped-charge warhead", designed to penetrate up to 650 mm of rolled homogeneous armour, the steel used in tanks.
+A loitering munition is a drone that circles over a battlefield until it finds a target and then dives into it. The company says Nagastra-2 "is equipped with day-and-night surveillance cameras and a 4 kg tandem shaped-charge warhead", designed to penetrate up to **650 mm** of rolled homogeneous armour, the steel used in tanks.
 
 ## Range and jamming
 
-According to the maker, it can fly up to 25 km in a recover-and-reuse mode, in which it returns if no target is struck, and up to 50 km in fire-and-forget mode. It can stay in the air for up to 60 minutes.
+According to the maker, it can fly up to **25 km** in a recover-and-reuse mode, in which it returns if no target is struck, and up to 50 km in fire-and-forget mode. It can stay in the air for up to 60 minutes.
 
 "A key technological feature of Nagastra 2 is its Electronic Counter-Countermeasures (ECCM) capability," the company said, meaning it is built to keep working through communication jamming, GPS jamming and GPS spoofing.
 

@@ -39,7 +39,7 @@ A senior UN official has warned that parts of Asia and Africa could face a food 
 
 Jorge Moreira da Silva, a UN Under-Secretary-General, said on Wednesday it was "absolutely critical" that the two sides agree within weeks, with planting season approaching. "If we miss that planting season, the productivity of agriculture would significantly drop," he said on the sidelines of the IMF and World Bank meetings in Bangkok.
 
-The plan, drawn up in March, would set up a UN-staffed coordination centre in Oman to register ships and oversee their passage. UN monitors would work with port authorities in the Gulf to check cargo as it is loaded, and ships would be tracked through the strait, with extra inspections if any country raised concerns. Moreira da Silva said the mechanism could be running within seven to 10 days of a deal, and that about five vessels a day would be enough to keep fertiliser moving to the countries that need it most.
+The plan, drawn up in March, would set up a UN-staffed coordination centre in Oman to register ships and oversee their passage. UN monitors would work with port authorities in the Gulf to check cargo as it is loaded, and ships would be tracked through the strait, with extra inspections if any country raised concerns. Moreira da Silva said the mechanism could be running within seven to 10 days of a deal, and that **about five vessels a day** would be enough to keep fertiliser moving to the countries that need it most.
 
 He did not say why Tehran and Washington had not signed on. Their wider talks have stalled over Iran's conditions and the US insistence on dealing with Iran's nuclear programme first. "Let us work, let us do our job," he said, arguing the corridor could run alongside those negotiations.
 

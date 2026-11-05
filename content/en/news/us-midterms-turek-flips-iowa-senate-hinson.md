@@ -10,8 +10,8 @@ standfirst: "The Democratic state representative wins the open seat left by Joni
 published: 2026-11-04T10:15:00+05:30
 location: Des Moines, Iowa
 keyPoints:
-  - "Democrat **Josh Turek defeated Ashley Hinson**, CBS News projected."
-  - "Iowa had **not elected a Democrat to the Senate since 2008**."
+  - "Democrat **Josh Turek defeated Ashley Hinson**, according to network projections."
+  - "Iowa had not elected a Democrat to the Senate **since 2008**."
   - "The seat fell open when **Joni Ernst chose not to run** again."
 hero:
   need: "Josh Turek, Iowa Democratic Senate winner, and Republican Ashley Hinson"
@@ -28,7 +28,7 @@ infographic:
   stats:
     - {icon: calendar-blank, value: "2008", label: "last time Iowa elected a Democrat to the Senate"}
     - {icon: flag-banner, value: "13 pts", label: "Trump's winning margin in Iowa in 2024"}
-  source: "CBS News, November 3, 2026"
+  source: "Network projections, November 3, 2026"
 related: [us-midterms-democrats-win-senate-talarico-brown-flip, us-midterms-collins-concedes-troy-jackson-maine-senate-flip]
 seo:
   description: "Democrat Josh Turek, a former Paralympian, defeats Republican Ashley Hinson to win Iowa's open Senate seat in the 2026 US midterms, the state's first Democratic Senate win since 2008."
@@ -50,7 +50,7 @@ verification:
     - "No vote shares or Turek/Hinson post-result quotes found; none used. Hinson quotes are from the campaign, per CBS."
 ---
 
-Democrat **Josh Turek has won Iowa's Senate seat**, CBS News projected on Wednesday morning India time, beating Republican Representative Ashley Hinson in a race that began as a long shot and ended as one of the night's clearest signs of Republican trouble in the Midwest.
+Democrat **Josh Turek has won Iowa's Senate seat**, according to network projections on Wednesday morning India time, beating Republican Representative Ashley Hinson in a race that began as a long shot and ended as one of the night's clearest signs of Republican trouble in the Midwest.
 
 The seat was open after Republican Senator **Joni Ernst decided not to seek re-election**. Iowa had not sent a Democrat to the Senate since 2008, and President Donald Trump won the state by 13 points in 2024.
 

@@ -53,7 +53,7 @@ infographic:
     - {icon: target, value: "8-1", label: "दक्षिण कोरिया पर भारत की जीत"}
     - {icon: timer, value: "6-1", label: "हाफ टाइम तक स्कोर"}
     - {icon: trophy, value: "जापान", label: "फाइनल में भारत का प्रतिद्वंद्वी"}
-  source: "पीटीआई मैच रिपोर्ट, 4 नवंबर 2026"
+  source: "मैच का नतीजा, 4 नवंबर 2026"
 cover:
   template: sport
   label: एशियन चैंपियंस ट्रॉफी

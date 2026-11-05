@@ -49,7 +49,7 @@ verification:
     - "PIB and MEA pages could not be fetched in this run."
 ---
 
-Prime Minister Narendra Modi and his Polish counterpart Donald Tusk agreed on Thursday to deepen cooperation in defence, space and nuclear energy, after talks at Hyderabad House in New Delhi.
+Prime Minister Narendra Modi and his Polish counterpart Donald Tusk agreed on Thursday to deepen cooperation in **defence, space and nuclear energy**, after talks at Hyderabad House in New Delhi.
 
 "Today, we have agreed to deepen our ties in the fields of defence, space, and nuclear energy," Modi said in his press statement after the talks. "We invite Polish companies to work with India on co-development and co-production in all these strategic sectors."
 
@@ -57,7 +57,7 @@ Tusk is the first Polish Prime Minister to visit India since 2010. The two count
 
 ## Trade and supply chains
 
-Modi set the talks against a difficult global backdrop. "The world today is going through a period of uncertainty and change," he said, and pointed to the growth of both economies. Poland's GDP, he noted, crossed the "historic USD 1 trillion mark" last year, while India grew 7.8% in the last quarter.
+Modi set the talks against a difficult global backdrop. "The world today is going through a period of uncertainty and change," he said, and pointed to the growth of both economies. Poland's GDP, he noted, crossed the "historic USD 1 trillion mark" last year, while India grew **7.8%** in the last quarter.
 
 "We are confident that companies from both nations will work together to develop trusted supply chains for the world," Modi said. The two sides have set a goal of doubling bilateral trade by 2030.
 
@@ -65,11 +65,11 @@ He said the India-EU Free Trade Agreement, once in force, would open the Polish 
 
 ## Startups, minerals and young people
 
-Beyond the big-ticket sectors, the leaders agreed to build partnerships drawing on Poland's experience in critical minerals and coal gasification. They also set up an India-Poland Startup Bridge and plan technology hackathons for young people from both countries.
+Beyond the big-ticket sectors, the leaders agreed to build partnerships drawing on Poland's experience in critical minerals and coal gasification. They also set up an **India-Poland Startup Bridge** and plan technology hackathons for young people from both countries.
 
 "Our relationship in the domains of IT and cybersecurity is already robust," Modi said.
 
-Jaishankar, after his morning meeting, wrote on X that he "appreciated his sharing thoughts on deepening India - Poland cooperation across a wide range of domains."
+Jaishankar, after his morning meeting, wrote on X that he "appreciated his sharing thoughts on deepening India-Poland cooperation across a wide range of domains."
 
 ## What comes next
 

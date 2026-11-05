@@ -6,7 +6,7 @@ section: states
 format_label: "States / Punjab"
 topics: [states, elections-2027]
 title: "Jhota's killer held in Rajasthan as Punjab shuts down for a day over the Mansa murder"
-standfirst: "The chemist accused of shooting the anti-drug activist was caught with the pistol. His shop and part of his house were razed on Wednesday, and the family's bandh call runs until 5 pm today."
+standfirst: "The chemist accused of shooting the anti-drug activist was caught with the pistol. His shop and part of his house were razed on Wednesday, and the family's bandh call ran until 5 pm on October 15."
 published: 2026-10-15T07:00:00+05:30
 location: Mansa
 keyPoints:

@@ -48,7 +48,7 @@ verification:
     - "Mengal remarks paraphrased by Dawn; paraphrased here."
 ---
 
-Pakistan's opposition alliance TTAP has asked the Peshawar High Court to throw out the emergency and governor's rule imposed on Khyber Pakhtunkhwa, and its leader has accused the authorities of trying to force Imran Khan into an exile deal.
+Pakistan's opposition alliance TTAP has asked the **Peshawar High Court** to throw out the emergency and governor's rule imposed on Khyber Pakhtunkhwa, and its leader has accused the authorities of trying to force Imran Khan into an exile deal.
 
 The petition, filed on Friday, challenges the emergency proclamation of October 11, under which Chief Minister Sohail Afridi's government was set aside. It was moved by Mahmood Khan Achakzai, the alliance chief and Leader of the Opposition in the National Assembly, along with Senate opposition leader Raja Nasir Abbas, Sardar Akhtar Mengal of the BNP-Mengal and Syed Zainul Abideen.
 

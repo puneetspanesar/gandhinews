@@ -90,7 +90,7 @@ The heaviest penalties in the Act apply to security failures.
 
 **To the organisation's designated contact and to the Data Protection Board; appeals against the Board go to the Telecom Disputes Settlement and Appellate Tribunal.** The government says the Board will be fully digital, with complaints filed and tracked online through a portal and a mobile app.
 
-There is a catch. As of October 2026, the Board has no chairperson or members. It was established in law in November 2025, and two search-cum-selection committees, one chaired by the Cabinet Secretary, are handling appointments, LiveLaw reported. The Ministry of Electronics and Information Technology invited applications in May 2026, but no appointment has been announced, according to LiveLaw and the India Data Law tracker. A board without members cannot hear complaints or pass orders.
+There is a catch. As of October 2026, the Board has no chairperson or members. It was established in law in November 2025, and two search-cum-selection committees, one chaired by the Cabinet Secretary, are handling appointments. The Ministry of Electronics and Information Technology invited applications in May 2026, but no appointment has been announced. A board without members cannot hear complaints or pass orders.
 
 ## Do big companies face stricter rules?
 

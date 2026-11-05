@@ -65,7 +65,7 @@ In Kyiv, human rights ombudsman Dmytro Lubinets set out the order of events: "fi
 
 ## A town cut off
 
-Oleshky had about 24,000 residents before Russia seized it in February 2022. The White House puts the number left at 1,700 to 2,000, mostly elderly people, along with about 50 children. Residents are short of food and medicine, and each side accuses the other of blocking supplies.
+Oleshky had about 24,000 residents before Russia seized it in February 2022. The White House puts the number left at **1,700 to 2,000**, mostly elderly people, along with about 50 children. Residents are short of food and medicine, and each side accuses the other of blocking supplies.
 
 Melania Trump said evacuees could go to a "preferred destination" in Russia or Ukraine. "I anticipate some will want to go to Russia and some to Ukraine," she said. She added that an "impartial American media organisation" would travel with the Russian and Ukrainian teams, but did not name it.
 
@@ -73,4 +73,4 @@ The first lady has worked on Ukraine's children before. The White House says six
 
 ## The wider talks
 
-The Oleshky deal comes as the two sides prepare to return to US-mediated negotiations. President Volodymyr Zelenskyy has confirmed his negotiators will attend talks in Abu Dhabi in the first half of November after speaking to US envoys Jared Kushner and Steve Witkoff. He has said any settlement needs strong security guarantees and 10 years of funding for Ukraine's army.
+The Oleshky deal comes as the two sides prepare to return to US-mediated negotiations. President Volodymyr Zelenskyy has confirmed his negotiators will attend talks in Abu Dhabi in the first half of November after speaking to US envoys Jared Kushner and Steve Witkoff. He has said any settlement needs strong security guarantees and **10 years** of funding for Ukraine's army.

@@ -61,9 +61,9 @@ Ukraine hit back. Russia said it shot down 644 Ukrainian drones overnight, 94 of
 
 ## Bulgaria turns to the alliance
 
-The pressure on Bulgaria has come from the sea. In recent weeks drones have struck at least seven cargo ships off the Black Sea coasts of Romania and Bulgaria, leaving 25 people dead or missing. A merchant ship sank off Bulgaria on Tuesday, and Sofia summoned Russia's ambassador.
+The pressure on Bulgaria has come from the sea. In recent weeks drones have struck at **least seven cargo ships** off the Black Sea coasts of Romania and Bulgaria, leaving 25 people dead or missing. A merchant ship sank off Bulgaria on Tuesday, and Sofia summoned Russia's ambassador.
 
-Prime Minister Rumen Radev said on Friday that the evidence pointed to Russia, though his government did not have proof. Shortly afterwards, Defence Minister Dimitar Stoyanov said Bulgaria had asked NATO to deploy combat aircraft and anti-drone systems.
+Prime Minister Rumen Radev said on Friday that the evidence pointed to Russia, though his government did not have proof. Shortly afterwards, Defence Minister Dimitar Stoyanov said Bulgaria had asked NATO to deploy **combat aircraft and anti-drone systems**.
 
 "We have sent letters and a request to the NATO Secretary General and the Supreme Allied Commander, urging them to strengthen our capabilities, which also means deploying additional forces on our territory. We are awaiting their decision," Stoyanov said.
 

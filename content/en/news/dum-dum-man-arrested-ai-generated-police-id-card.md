@@ -38,7 +38,7 @@ verification:
 
 Police in Dum Dum, on the northern edge of Kolkata, have arrested a man who allegedly posed as a police officer using an identity card he had made with artificial intelligence.
 
-The incident took place on Friday night at the zero point of the Belgharia Expressway in North 24 Parganas district. Police said the man approached traffic personnel of the Nimta Traffic Guard and demanded that they arrange a car to take him home. He introduced himself as a police officer and pressed them to do as he said, and kept threatening and abusing them when they did not.
+The incident took place on Friday night at the zero point of the **Belgharia Expressway** in North 24 Parganas district. Police said the man approached traffic personnel of the Nimta Traffic Guard and demanded that they arrange a car to take him home. He introduced himself as a police officer and pressed them to do as he said, and kept threatening and abusing them when they did not.
 
 The traffic personnel asked to see his identity card. When they scanned it, it turned out to be fake. During questioning he allegedly admitted that he had created the card with the help of artificial intelligence. Officers from Dum Dum police station then arrested him.
 

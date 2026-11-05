@@ -69,7 +69,7 @@ verification:
 
 Iran's President Masoud Pezeshkian will travel to Moscow next week to meet Vladimir Putin, Iranian media said on Saturday, as Tehran's top general warned that American warships would never be allowed back into the Gulf.
 
-Kazem Jalali, Iran's ambassador to Russia, told the Tasnim news agency that "the Iranian president will visit Moscow to attend the summit of gas-exporting countries", due on Tuesday, October 27. He said the two leaders would discuss economic cooperation and "questions of geopolitics". Jalali said the two countries' "active diplomacy" was helping build a "new architecture of international relations".
+Kazem Jalali, Iran's ambassador to Russia, said that "the Iranian president will visit Moscow to attend the summit of gas-exporting countries", due on Tuesday, October 27. He said the two leaders would discuss economic cooperation and "questions of geopolitics". Jalali said the two countries' "active diplomacy" was helping build a "new architecture of international relations".
 
 The trip follows a visit to Tehran this week by Russia's foreign minister, Sergei Lavrov, his first since the war in the Gulf began. Iran's foreign minister, Abbas Araghchi, said on Friday that talks between the two presidents would take place next week and described cooperation between the two countries as closer than ever. Putin said in early October that Russia was ready to help mediate an end to the war.
 

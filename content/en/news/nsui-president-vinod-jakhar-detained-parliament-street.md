@@ -41,9 +41,9 @@ verification:
     - "Jakhar's earlier detention at India Gate (about 3:45 am, Oct 15) is from ThePrint's Ankita Bhandari report."
 ---
 
-Delhi Police detained Vinod Jakhar, national president of the Congress-affiliated National Students' Union of India (NSUI), along with several members of the group, during a protest at Parliament Street police station on Thursday, the NSUI said.
+Delhi Police detained **Vinod Jakhar**, national president of the Congress-affiliated National Students' Union of India (NSUI), along with several members of the group, during a protest at Parliament Street police station on Thursday, the NSUI said.
 
-The students had gone to demand an FIR against a woman officer of Delhi Police whom they accuse of assaulting NSUI women workers. Jakhar alleged that some of the women were taken into a dark room and beaten with shoes and boots. The NSUI says it approached senior officers, including an Additional DCP, on Wednesday, and that no case was registered. It has not said when or where the alleged assault took place, and the officer has not been named.
+The students had gone to demand an FIR against a woman officer of Delhi Police whom they accuse of assaulting NSUI women workers. Jakhar alleged that some of the women were taken into a dark room and beaten with shoes and boots. The NSUI says it approached senior officers, including an **Additional DCP**, on Wednesday, and that no case was registered. It has not said when or where the alleged assault took place, and the officer has not been named.
 
 "Is demanding justice for our women workers a crime?" Jakhar asked, saying the group had come only to get an FIR lodged and that the DCP would not engage with them.
 

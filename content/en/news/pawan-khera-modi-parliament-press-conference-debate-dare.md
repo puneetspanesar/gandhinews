@@ -64,7 +64,7 @@ Khera said the government spoke of religion rather than governance. Its focus, h
 
 ## Rahul's poll
 
-Rahul Gandhi has taken the dare to social media. In a poll on X he asked: "Youth of India, do you want to see a Rahul Gandhi vs Narendra Modi open debate?" He offered two answers, "Yes - Modi Ji, Daro Mat" and "No - Modi Ji, Dar Gaye", and **tagged Rajnath Singh, Nitin Gadkari, Shivraj Singh Chouhan and Yogi Adityanath**, writing that they "always have the PM's best interest in mind, please convince him to come". He has also suggested RSS chief Mohan Bhagwat as the judge.
+Rahul Gandhi has taken the dare to social media. In a poll on X he asked: "Youth of India, do you want to see a Rahul Gandhi vs Narendra Modi open debate?" He offered two answers, "Yes: Modi Ji, Daro Mat" and "No: Modi Ji, Dar Gaye", and **tagged Rajnath Singh, Nitin Gadkari**, Shivraj Singh Chouhan and Yogi Adityanath, writing that they "always have the PM's best interest in mind, please convince him to come". He has also suggested RSS chief Mohan Bhagwat as the judge.
 
 ## BJP's reply
 

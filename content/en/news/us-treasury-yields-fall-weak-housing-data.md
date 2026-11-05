@@ -53,10 +53,10 @@ verification:
 
 US government bond yields fell on Tuesday after a pair of weak reports on the housing market, easing some of the pressure that high American borrowing costs have put on shares and currencies around the world.
 
-The yield on the 10-year Treasury note slipped three basis points to 5.12%, from about 5.15% on Monday. The 30-year yield fell six basis points to 5.42%. The two-year yield, which moves more closely with expectations for the Federal Reserve's policy rate, edged up two basis points to 4.79%, so the gap between two-year and 10-year yields narrowed to about 33 basis points from 38.
+The yield on the 10-year Treasury note slipped three basis points to 5.12%, from about 5.15% on Monday. The 30-year yield fell **six basis points to 5.42%**. The two-year yield, which moves more closely with expectations for the Federal Reserve's policy rate, edged up two basis points to 4.79%, so the gap between two-year and 10-year yields narrowed to about 33 basis points from 38.
 
-The trigger was housing. Construction began on 5.2% fewer homes in September, and pending home sales, a measure of contracts signed, dropped 7.3%. On Monday a builders' confidence index had fallen to its lowest since June 2012.
+The trigger was housing. Construction began on **5.2%** fewer homes in September, and pending home sales, a measure of contracts signed, dropped 7.3%. On Monday a builders' confidence index had fallen to its lowest since June 2012.
 
-Lower yields lifted the parts of the stock market most sensitive to interest rates. Real estate and utilities were among the best performers on Wall Street, and smaller companies, which tend to borrow more, rose 1.65%. The dollar index slipped 0.26% to 101.71.
+Lower yields lifted the parts of the stock market most sensitive to interest rates. Real estate and utilities were among the best performers on Wall Street, and smaller companies, which tend to borrow more, rose **1.65%**. The dollar index slipped 0.26% to 101.71.
 
-For India, high US yields make it harder to keep foreign money. Foreign portfolio investors had pulled more than ₹1.5 lakh crore out of Indian shares this year by early October, and the rupee was at 94.92 to the dollar when the currency market last traded on Monday.
+For India, high US yields make it harder to keep foreign money. Foreign portfolio investors had pulled more than **₹1.5 lakh crore** out of Indian shares this year by early October, and the rupee was at 94.92 to the dollar when the currency market last traded on Monday.

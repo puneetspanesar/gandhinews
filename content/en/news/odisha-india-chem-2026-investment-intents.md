@@ -42,16 +42,16 @@ verification:
     - "Next host: BS says the 15th India Chem in Bhubaneswar after the Centre agreed; PTI says FICCI agreed to Odisha hosting 'next year'. Copy combines without a firm year."
 ---
 
-Odisha has collected investment proposals worth ₹53,894 crore from a two-day outreach at India Chem 2026 in Mumbai, the state government said, as it tries to build a chemicals industry alongside its steel and aluminium plants.
+Odisha has collected investment proposals worth **₹53,894 crore** from a two-day outreach at India Chem 2026 in Mumbai, the state government said, as it tries to build a chemicals industry alongside its steel and aluminium plants.
 
-The roadshow, led by Chief Minister Mohan Charan Majhi, ended on Friday with nine memorandums of understanding worth ₹51,443.51 crore and four letters of intent worth ₹2,450 crore. The state expects the projects to create 20,210 jobs.
+The roadshow, led by Chief Minister Mohan Charan Majhi, ended on Friday with nine memorandums of understanding worth ₹51,443.51 crore and four letters of intent worth ₹2,450 crore. The state expects the projects to create **20,210 jobs**.
 
-The largest commitment came from state-run NLC India, which plans about ₹37,000 crore of investment in power and minerals, nearly two-thirds of the total. Larsen & Toubro, which already runs a plant at Kansbahal, signed for ₹8,100 crore, and Paradeep Phosphates for ₹4,750 crore in chemicals.
+The largest commitment came from state-run NLC India, which plans about **₹37,000 crore** of investment in power and minerals, nearly two-thirds of the total. Larsen & Toubro, which already runs a plant at Kansbahal, signed for ₹8,100 crore, and Paradeep Phosphates for ₹4,750 crore in chemicals.
 
 "Odisha is ready to be a major growth partner for L&T in eastern India," Majhi said after meeting the company's chairman, S N Subrahmanyan.
 
-Smaller proposals included textile units from Shivaraj Spinning Mills (₹200 crore, 5,000 jobs) and Bodycare (₹250 crore, 4,000 jobs), and intents from JSW Dulux (₹850 crore), Ellora PEB (₹500 crore) and Apar Industries (₹100 crore). Majhi held 25 one-on-one meetings with business leaders during the visit.
+Smaller proposals included textile units from Shivaraj Spinning Mills (**₹200 crore**, 5,000 jobs) and Bodycare (₹250 crore, 4,000 jobs), and intents from JSW Dulux (₹850 crore), Ellora PEB (₹500 crore) and Apar Industries (₹100 crore). Majhi held 25 one-on-one meetings with business leaders during the visit.
 
-Steel also featured. JSW chairman Sajjan Jindal briefed the Chief Minister on the ₹7,500 crore expansion at the Sambalpur plant run with Japan's JFE, and Posco India representatives discussed a proposed 5 million tonne joint venture plant with JSW.
+Steel also featured. JSW chairman Sajjan Jindal briefed the Chief Minister on the **₹7,500 crore** expansion at the Sambalpur plant run with Japan's JFE, and Posco India representatives discussed a proposed 5 million tonne joint venture plant with JSW.
 
 Majhi also secured the next India Chem for the state. "The ministry has green-signalled it. The 15th India Chem will be organised in Bhubaneswar," he said.

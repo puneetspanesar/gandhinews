@@ -47,7 +47,7 @@ Brazil's two presidential candidates were due to meet one last time on televisio
 
 TV Globo is hosting the final debate after its evening news bulletin, Jornal Nacional. It is the last big set piece of the campaign.
 
-The latest Datafolha poll puts the two men level at 50% each. Rejection is almost as evenly split: 46% of voters say they would never back Flávio, and 45% say the same of Lula. A Rio Times average of 36 national polls by 20 firms since the first round gives Flávio 50.9% to Lula's 49.1%.
+The latest Datafolha poll puts the two men **level at 50% each**. Rejection is almost as evenly split: 46% of voters say they would never back Flávio, and 45% say the same of Lula. A Rio Times average of 36 national polls by 20 firms since the first round gives Flávio 50.9% to Lula's 49.1%.
 
 ## A son against a president
 

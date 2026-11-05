@@ -78,7 +78,7 @@ None of that requires permanent secrecy, and none of it fits a general-purpose m
 
 First, the BitChat order, its grounds and the review committee's record should be placed before the Kerala High Court in full and, unless a specific part is genuinely sensitive, made public.
 
-Second, every blocking order should be published by default in a searchable register, with the ministry, the legal ground and the date. Where secrecy is needed, it should be for a fixed period and for stated reasons.
+Second, every blocking order should be **published by default** in a searchable register, with the ministry, the legal ground and the date. Where secrecy is needed, it should be for a fixed period and for stated reasons.
 
 Third, developers and users whose content is blocked should get a copy of the order and a hearing, as the 2009 rules already contemplate.
 

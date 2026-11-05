@@ -50,26 +50,26 @@ verification:
 
 The fight over the Special Intensive Revision (SIR) of electoral rolls turned into a numbers argument on Wednesday, as the Congress challenged Home Minister Amit Shah to say how many infiltrators the exercise had actually caught and the BJP accused Congress president Mallikarjun Kharge of spreading lies.
 
-Congress general secretary Jairam Ramesh put three questions to Shah on X: how many infiltrators had been identified through the SIR, how many had been removed from voter lists and how many had been deported. Nearly 100 crore Indians had gone through the revision, he said, and the government owed them answers.
+Congress general secretary Jairam Ramesh put three questions to Shah on X: how many infiltrators had been identified through the SIR, how many had been removed from voter lists and how many had been deported. Nearly **100 crore** Indians had gone through the revision, he said, and the government owed them answers.
 
-Ramesh argued that the talk of infiltrators was a way to draw attention away from what the opposition describes as the disenfranchisement of nearly 14 crore Indians. He asked whether Shah considered all of them infiltrators.
+Ramesh argued that the talk of infiltrators was a way to draw attention away from what the opposition describes as the disenfranchisement of nearly **14 crore** Indians. He asked whether Shah considered all of them infiltrators.
 
 ## Shah's charge, Kharge's reply
 
 The questions were a response to Shah's remarks on Tuesday, when the Home Minister accused Rahul Gandhi of trying to shield infiltrators by opposing the SIR, asked whether the revision explained the Congress's run of defeats, and predicted the party would lose the 2029 Lok Sabha election.
 
-Kharge went further on Wednesday. Describing the 13.3 crore Indians left out of the SIR as "ghuspaithiye" (infiltrators), he wrote on X, was an insult to Indianness.
+Kharge went further on Wednesday. Describing the 13.3 crore Indians left out of the SIR as "ghuspaithiye" (infiltrators), he wrote on X, was an **insult to Indianness**.
 
 ## Nadda: "Public trust cannot be won"
 
 Former BJP president and Union Health Minister J P Nadda hit back the same day, telling Kharge to stop spreading lies about the SIR. Shah, he said, had never called those Indians infiltrators.
 
-Nadda pointed to the Election Commission's explanation that the names were not final deletions. They had been marked in the draft rolls under four categories known as ASDD: absent, shifted, deceased and duplicate. By his breakdown, 2.80 crore electors were marked deceased, 6.30 crore as permanently shifted, 3.01 crore as absent and 1.02 crore as duplicate entries.
+Nadda pointed to the Election Commission's explanation that the names were not final deletions. They had been marked in the draft rolls under four categories known as ASDD: **absent, shifted, deceased** and duplicate. By his breakdown, 2.80 crore electors were marked deceased, 6.30 crore as permanently shifted, 3.01 crore as absent and 1.02 crore as duplicate entries.
 
 He also turned the Congress's argument around. The SIR began only after 2024, he said, yet the Congress has been out of power in Gujarat for 31 years, has not had a chief minister in Tripura for 33 years and has not won Bengal in 54 years. "Public trust cannot be won through misleading propaganda and negative politics," Nadda said, and predicted that the NDA would return in 2029 with a large majority.
 
 ## A call for Parliament
 
-The opposition wants the issue taken to Parliament. On Monday, AAP Rajya Sabha MP Sanjay Singh wrote to Prime Minister Narendra Modi seeking a special session on what he called the deletion of more than 13 crore names. Singh also cited Bihar, where he said only 315 foreign nationals were found among the roughly 65 lakh names removed from the rolls.
+The opposition wants the issue taken to Parliament. On Monday, AAP Rajya Sabha MP Sanjay Singh wrote to Prime Minister Narendra Modi seeking a special session on what he called the deletion of more than **13 crore names**. Singh also cited Bihar, where he said only 315 foreign nationals were found among the roughly 65 lakh names removed from the rolls.
 
 The BJP maintains that the revision is needed to clean ineligible entries off the rolls.

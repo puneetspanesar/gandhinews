@@ -37,7 +37,7 @@ verification:
 
 A veterinary officer from Bannerghatta Biological Park has told police he was surrounded and assaulted by a crowd while trying to help capture a leopard at a farm near Tumakuru, an operation that ended with the animal slipping away.
 
-Prayag H S, Assistant Director of Veterinary Medical Services at the Bengaluru park, was in Tumakuru to look after the health of three elephants taking part in the town's Dasara procession. On October 22, Tumakuru Range Forest Officer Basavaraju told him that a leopard had climbed a coconut tree on a farm in Thimmasandra village and asked him to stand by to tranquillise it if needed. Prayag arrived with his assistant and driver.
+**Prayag H S**, Assistant Director of Veterinary Medical Services at the Bengaluru park, was in Tumakuru to look after the health of three elephants taking part in the town's Dasara procession. On October 22, Tumakuru Range Forest Officer Basavaraju told him that a leopard had climbed a coconut tree on a farm in Thimmasandra village and asked him to stand by to tranquillise it if needed. Prayag arrived with his assistant and driver.
 
 Forest officials, members of NGOs and some 50 to 60 villagers were already at the spot. At about 8:47 am, according to his complaint, a group of 10 to 15 people began egging others on and getting in the way of the capture. Some refused to move to safety despite warnings from forest staff and police that the animal could attack, and some threatened to strip the officials if the leopard was not caught at once.
 
@@ -45,4 +45,4 @@ In the confusion, the leopard climbed down from the tree and ran off.
 
 Prayag says people then surrounded him, pushed and shoved him, hit him on the back and abused him. They also blocked his departmental vehicle as he tried to leave for hospital treatment, he alleges.
 
-Hebbaur police have registered a case against 15 unidentified people under sections of the Bharatiya Nyaya Sanhita covering wrongful restraint, voluntarily causing hurt, intentional insult, unlawful assembly and obstructing a public servant. Police said their investigation was continuing. No arrests had been reported by Saturday evening.
+Hebbaur police have registered a case against **15 unidentified people** under sections of the Bharatiya Nyaya Sanhita covering wrongful restraint, voluntarily causing hurt, intentional insult, unlawful assembly and obstructing a public servant. Police said their investigation was continuing. No arrests had been reported by Saturday evening.

@@ -45,13 +45,13 @@ verification:
 
 Rinku Singh rescued Uttar Pradesh with an unbeaten 118 against Goa at Green Park in Kanpur on Sunday, on a first day of the Ranji Trophy's second round that otherwise belonged largely to the bowlers.
 
-UP chose to bat and were 137 for 9 before Rinku took them past 200, with 65 runs coming for the last wicket. He finished on 118 off 186 balls with 11 fours and two sixes as UP reached 202. Goa were 43 without loss after 12 overs at the close.
+UP chose to bat and were 137 for 9 before Rinku took them past 200, with 65 runs coming for the last wicket. He finished on 118 **off 186 balls** with 11 fours and two sixes as UP reached 202. Goa were 43 without loss after 12 overs at the close.
 
 ## Spin and seam in Chennai
 
 At the MA Chidambaram Stadium, Tamil Nadu bowled out Uttarakhand for 134 in 56.2 overs on a day that started late because of rain and ended early for bad light at 5:28 pm. Gurjapneet Singh took 4 for 34 and captain R Sai Kishore 4 for 40. Avneesh Sudha top-scored with 54 off 103 balls. Tamil Nadu reached 85 for 2 in 27 overs, 49 behind.
 
-In Bilaspur, Mumbai built on their morning work against Himachal Pradesh, who were all out for 140. Mumbai were 107 for 2 at stumps, trailing by 33.
+In Bilaspur, Mumbai built on their morning work against Himachal Pradesh, who were all out for 140. Mumbai were 107 for 2 at stumps, **trailing by 33**.
 
 ## Elsewhere
 

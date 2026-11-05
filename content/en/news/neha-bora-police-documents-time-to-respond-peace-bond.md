@@ -40,7 +40,7 @@ Delhi Police on Saturday handed AISA national president Neha Bora the material o
 
 Special Executive Magistrate Ritu Raj, an Assistant Commissioner of Police, heard the matter at Mandir Marg. The magistrate directed the police to supply Bora with the case material and, once it was provided, gave her time to study it and answer the show cause notice. The case will be taken up again on October 28.
 
-The notice, issued on October 17 under Sections 126 and 130 of the Bharatiya Nagarik Suraksha Sanhita, asks Bora to show why she should not furnish a personal bond of ₹10,000 with one surety of the same amount. Police allege she joined protests despite prohibitory orders, urged people to gather at Mandi House on October 16, and tried to mobilise people for an unauthorised demonstration at Central Park in Connaught Place. She was detained on October 16 and released the next day.
+The notice, issued on October 17 under Sections 126 and 130 of the Bharatiya Nagarik Suraksha Sanhita, asks Bora to show why she should not furnish a personal bond of **₹10,000** with one surety of the same amount. Police allege she joined protests despite prohibitory orders, urged people to gather at Mandi House on October 16, and tried to mobilise people for an unauthorised demonstration at Central Park in Connaught Place. She was detained on October 16 and released the next day.
 
 On Friday, Justice Subramonium Prasad of the High Court held that "The Impugned Notice meets the requirements of a show cause notice under Chapter IX of the BNSS", and found no breach of the Supreme Court's safeguards at this stage. Bora has said AISA members will not sign peace bonds.
 

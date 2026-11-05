@@ -119,17 +119,17 @@ verification:
     - "Fact-check Oct 12: Judgment still not read; mphc.gov.in copy not retrievable this morning. Re-checked against LiveLaw (case WP 5910 of 2019, Ashita Dubey v State of MP, 2026 LiveLaw (MP) 411; bench of Justices Anand Pathak and Vinay Saraf), PTI (ThePrint), LawBeat, The Wire, Tribune, NewsDrum and India TV. 159 pages: India TV, Tribune, PTI. Mar 8, 2019, ordinance and Aug 14, 2019 Act: PTI (ThePrint, Tribune). Aug 5, 2026, end of final hearing: PTI (ThePrint, Tribune), same wire. Court quote and Khandelwal quote verified verbatim. 'Adequately represented under Article 16(4)': LawBeat and NewsDrum say 16(4); LiveLaw's quote of the judgment reads 'Article 16(3)', likely a slip in the order or the report; kept 16(4). LiveLaw dates the 33.87% enrolment figure to 2023. No state government petition or cabinet decision found as of 8 am Oct 12; Congress filing date also not announced. Added LiveLaw and the PTI judgment report to sources. No body text changed."
 ---
 
-Reservation for Other Backward Classes (OBCs) in Madhya Pradesh government jobs and education is back to 14% after the High Court struck down the 2019 law that raised it to 27%.
+Reservation for Other Backward Classes (OBCs) in Madhya Pradesh government jobs and education is back to **14%** after the High Court struck down the 2019 law that raised it to 27%.
 
-A Division Bench of Justices Anand Pathak and Vinay Saraf, sitting at Jabalpur, delivered a 159-page judgment on October 9 in a batch of petitions led by Ashita Dubey and others. It held the amendment unconstitutional and said the state had not shown exceptional circumstances to breach the 50% ceiling on reservation laid down by the Supreme Court in the Indra Sawhney and Jaishri Laxmanrao Patil cases.
+A Division Bench of Justices Anand Pathak and Vinay Saraf, sitting at Jabalpur, delivered a 159-page judgment on October 9 in a batch of petitions led by Ashita Dubey and others. It held the amendment unconstitutional and said the state had not shown exceptional circumstances to breach the **50%** ceiling on reservation laid down by the Supreme Court in the Indra Sawhney and Jaishri Laxmanrao Patil cases.
 
 ## What the court found
 
 The bench drew a line around the question before it. "This case is not about grant of reservation but extent of reservation," it said, holding that OBCs are entitled to 14%.
 
-The court said data on higher education and public services showed OBCs were adequately represented under Article 16(4). OBCs made up 33.87% of enrolment in higher education and held 28.16% of government jobs, according to the figures before it. The bench rejected the state's reliance on the 1983 Mahajan Committee report and a 2023 study by Dr Bhimrao Ambedkar University, and said the 2019 ordinance and Act were passed in undue haste, with flaws in process and drafting.
+The court said data on higher education and public services showed OBCs were adequately represented under Article 16(4). OBCs made up **33.87%** of enrolment in higher education and held 28.16% of government jobs, according to the figures before it. The bench rejected the state's reliance on the 1983 Mahajan Committee report and a 2023 study by Dr Bhimrao Ambedkar University, and said the 2019 ordinance and Act were passed in undue haste, with flaws in process and drafting.
 
-With the 27% figure, total reservation in the state would have reached 73%, the petitioners argued. Scheduled Castes get 16%, Scheduled Tribes 20% and the economically weaker sections 10%.
+With the **27%** figure, total reservation in the state would have reached 73%, the petitioners argued. Scheduled Castes get 16%, Scheduled Tribes 20% and the economically weaker sections 10%.
 
 ```chart
 {"type":"hbar","title":"Reservation shares in Madhya Pradesh","subtitle":"Share of posts and seats (%)","unit":"%","data":[{"label":"Scheduled Tribes","value":20},{"label":"Scheduled Castes","value":16},{"label":"OBC under 2019 law (struck down)","value":27},{"label":"OBC after ruling","value":14,"highlight":true},{"label":"Economically weaker sections","value":10}]}
@@ -137,7 +137,7 @@ With the 27% figure, total reservation in the state would have reached 73%, the 
 
 ## What happens to jobs and vacancies
 
-While the case was pending, recruitment ran on an 87:13 formula, with 13% of posts held back. The court directed the Madhya Pradesh Public Service Commission, the Employees Selection Board and other recruiting agencies to fill those withheld posts from the unreserved category within three months.
+While the case was pending, recruitment ran on an 87:13 formula, with **13%** of posts held back. The court directed the Madhya Pradesh Public Service Commission, the Employees Selection Board and other recruiting agencies to fill those withheld posts from the unreserved category within three months.
 
 Candidates appointed under the higher quota up to September 29, 2022, will keep their jobs. Their posts above the 14% limit are to be adjusted over the next three recruitment rounds. Appointments after that date that exceed 14% are void to the extent of the excess. Petitions seeking more OBC or EWS reservation were dismissed.
 

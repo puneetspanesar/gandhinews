@@ -79,7 +79,7 @@ The first warning came shortly after 4 am, when Saudi Civil Defence sounded its 
 
 ## Alerts over the holy cities
 
-Late in the morning the civil defence agency sent "potential danger" alerts to four western provinces: Makkah, Jeddah, Taif and Yanbu. It gave no reason. Residents were told to "proceed to the nearest safe place", and the agency repeated its legal warning against sharing pictures or information about the interception of missiles and drones. The alerts were withdrawn within minutes.
+Late in the morning the civil defence agency sent "potential danger" alerts to four western provinces: Makkah, Jeddah, **Taif and Yanbu**. It gave no reason. Residents were told to "proceed to the nearest safe place", and the agency repeated its legal warning against sharing pictures or information about the interception of missiles and drones. The alerts were withdrawn within minutes.
 
 Soon afterwards the coalition said it had destroyed two Houthi ballistic missiles aimed at Taif and Yanbu. The all-clear for the four provinces followed about ten minutes later. There was no word of casualties or damage from any of Saturday's attacks.
 
@@ -87,7 +87,7 @@ The strikes came a day after the coalition said it had shot down two missiles ai
 
 ## A war that has moved north
 
-Saudi Arabia has come under repeated attack since a four-year truce in Yemen broke down in July. The deadliest so far was the missile strike on King Khalid International Airport in Riyadh on October 10, which killed 13 people. One of the dead was Mohammed Yusuf Ali, a man from Hyderabad, and 11 Indians were among the injured.
+Saudi Arabia has come under repeated attack since a four-year truce in Yemen broke down in July. The deadliest so far was the missile strike on King Khalid International Airport in Riyadh on October 10, which killed **13 people**. One of the dead was Mohammed Yusuf Ali, a man from Hyderabad, and 11 Indians were among the injured.
 
 India's embassy in Riyadh has since told Indians in the kingdom to shelter indoors during alerts, keep away from windows and, if driving, stop away from bridges and tall buildings. The advice gives 911 as the emergency number in Riyadh, Makkah, Madinah and the Eastern Province, and 998 elsewhere.
 

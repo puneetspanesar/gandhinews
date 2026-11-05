@@ -54,21 +54,21 @@ verification:
     - "Brokerage average Rs 969 crore and provisional loans/deposits from site's Oct 16 preview. No named executive quoted in any source; the quote is from the bank's statement as reported by Business Today."
 ---
 
-YES Bank reported a 65% rise in quarterly profit on Saturday evening, comfortably ahead of forecasts, but told investors that the Supreme Court's ruling on its AT-1 bonds would wipe out those earnings and leave a large loss once it is booked.
+YES Bank reported a **65%** rise in quarterly profit on Saturday evening, comfortably ahead of forecasts, but told investors that the Supreme Court's ruling on its AT-1 bonds would wipe out those earnings and leave a large loss once it is booked.
 
-The private lender's standalone net profit for July-September was ₹1,080 crore, against ₹654.47 crore a year earlier. On a consolidated basis it earned ₹1,084.08 crore. Profit for the first half of the financial year came to ₹2,150.99 crore. The board took up the results from 4:30 pm and finished at 7:10 pm.
+The private lender's standalone net profit for July-September was **₹1,080 crore**, against ₹654.47 crore a year earlier. On a consolidated basis it earned ₹1,084.08 crore. Profit for the first half of the financial year came to ₹2,150.99 crore. The board took up the results from 4:30 pm and finished at 7:10 pm.
 
-The numbers beat expectations. An average of six brokerage estimates had put profit at about ₹969 crore.
+The numbers beat expectations. An average of six brokerage estimates had put profit at about **₹969 crore**.
 
 ## The bonds the results leave out
 
-The figures do not account for the Supreme Court's judgment of October 15, which upheld the reversal of the bank's March 2020 decision to write off ₹8,415 crore of additional tier-1 (AT-1) bonds. The write-down was part of the bank's 2020 rescue.
+The figures do not account for the Supreme Court's judgment of October 15, which upheld the reversal of the bank's March 2020 decision to write off **₹8,415 crore** of additional tier-1 (AT-1) bonds. The write-down was part of the bank's 2020 rescue.
 
 In its filing the bank said it was still assessing the judgment and consulting its legal advisers. "The statement does not reflect the resultant financial impact of the aforesaid judgement," it said.
 
 Because of that, the bank's joint statutory auditors issued a qualified conclusion on the results, a formal reservation about the accounts.
 
-The bank did set out what the ruling would do on paper. Restated for the bonds, the September quarter would show a net loss of about ₹5,200 crore and the half-year a loss of ₹4,146 crore. Net worth would fall from ₹53,268 crore to ₹46,970 crore, and the annualised return on assets would swing from 0.9% to minus 4.3%. Initial estimates suggest a hit of about 250 basis points to its core equity capital ratio. The bank put its capital adequacy ratio, on that pro forma basis, at 14.5%.
+The bank did set out what the ruling would do on paper. Restated for the bonds, the September quarter would show a net **loss of about ₹5,200 crore** and the half-year a loss of ₹4,146 crore. Net worth would fall from ₹53,268 crore to ₹46,970 crore, and the annualised return on assets would swing from 0.9% to minus 4.3%. Initial estimates suggest a hit of about 250 basis points to its core equity capital ratio. The bank put its capital adequacy ratio, on that pro forma basis, at 14.5%.
 
 ## Clean loans, cloudy capital
 

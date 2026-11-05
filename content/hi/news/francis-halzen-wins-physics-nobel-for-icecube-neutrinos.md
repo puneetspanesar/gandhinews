@@ -10,7 +10,7 @@ title: "दक्षिणी ध्रुव की बर्फ को न्�
 standfirst: "अंटार्कटिका की एक घन किलोमीटर बर्फ में दबी आइसक्यूब वेधशाला ने सौरमंडल के बाहर से आए उच्च ऊर्जा वाले न्यूट्रिनो पहली बार पकड़े, और उनमें से कुछ को दूर की आकाशगंगाओं तक ट्रेस किया।"
 published: 2026-10-12T07:30:00+05:30
 keyPoints:
-  - "यूनिवर्सिटी ऑफ विस्कॉन्सिन-मैडिसन के 82 वर्षीय फ्रांसिस हालज़ेन **1992 के बाद भौतिकी का नोबेल अकेले जीतने वाले पहले वैज्ञानिक** हैं।"
+  - "यूनिवर्सिटी ऑफ विस्कॉन्सिन-मैडिसन के 82 वर्षीय फ्रांसिस हालज़ेन 1992 के बाद **भौतिकी का नोबेल अकेले** जीतने वाले पहले वैज्ञानिक हैं।"
   - "आइसक्यूब बर्फ में लगे **5,160 प्रकाश सेंसरों** से उन हल्की चमकों को पकड़ता है जो न्यूट्रिनो के परमाणुओं से टकराने पर बनती हैं।"
   - "इसने उच्च ऊर्जा वाले न्यूट्रिनो का स्रोत **दो दूर की आकाशगंगाओं और हमारी मिल्की वे** में खोजा है।"
 hero:
@@ -28,8 +28,8 @@ sources:
     date: 2026-10-06
     url: "https://www.aip.org/aip/aip-congratulates-2026-nobel-prize-winner-in-physics"
     primary: true
-  - title: "University of Wisconsin–Madison Professor Francis Halzen named 2026 Nobel laureate in physics"
-    publisher: "University of Wisconsin–Madison"
+  - title: "University of Wisconsin-Madison Professor Francis Halzen named 2026 Nobel laureate in physics"
+    publisher: "University of Wisconsin-Madison"
     date: 2026-10-06
     url: "https://news.wisc.edu/university-of-wisconsin-madison-professor-francis-halzen-named-2026-nobel-laureate-in-physics/"
     primary: true
@@ -58,12 +58,12 @@ verification:
   notes:
     - "nobelprize.org (summary and press release) could not be fetched. The full citation is from the AIP release; Physics World and IceCube give the opening words only, and they match."
     - "Halzen's first reaction: AP (via PBS) has 'It was a great surprise, and I obviously didn't expect it'; Physics World has 'It was a great surprise and I didn't expect it.' AP wording used."
-    - "PBS/AP page text says 'Tuesday, October 5'; the Tuesday was 6 October, which UW–Madison, IceCube and AIP all give. 6 October used."
-    - "Depth: UW–Madison says 'almost a mile of ice'; AIP says 2 km beneath the ice. Neither figure used; the story says 'deep in the ice'."
-    - "Blazar date: UW–Madison dates the neutrino to September 2017; Physics World dates the link to TXS 0506+056 to 2018 (when the results were published). Timeline says 2018 with the 2017 detection mentioned."
+    - "PBS/AP page text says 'Tuesday, October 5'; the Tuesday was 6 October, which UW-Madison, IceCube and AIP all give. 6 October used."
+    - "Depth: UW-Madison says 'almost a mile of ice'; AIP says 2 km beneath the ice. Neither figure used; the story says 'deep in the ice'."
+    - "Blazar date: UW-Madison dates the neutrino to September 2017; Physics World dates the link to TXS 0506+056 to 2018 (when the results were published). Timeline says 2018 with the 2017 detection mentioned."
     - "Construction 'about six years' and the $279 million cost are from AIP only."
     - "Mark Pearce is described by Physics World as chair of the Nobel Committee; Eva Olsson as a committee member by AP. Not cross-checked on nobelprize.org."
-    - "IceCube-Gen2 '8 times the volume' is from the IceCube release. First science data from the 2025–26 upgrade 'expected later in 2026' is from the same release."
+    - "IceCube-Gen2 '8 times the volume' is from the IceCube release. First science data from the 2025-26 upgrade 'expected later in 2026' is from the same release."
 ---
 
 बेल्जियम में जन्मे भौतिक विज्ञानी फ्रांसिस हालज़ेन, जिन्होंने दशकों लगाकर अंटार्कटिका की बर्फ के एक विशाल टुकड़े को टेलीस्कोप में बदल दिया, को 2026 का भौतिकी का नोबेल पुरस्कार मिला है। रॉयल स्वीडिश एकेडमी ऑफ साइंसेज ने 6 अक्टूबर को घोषणा की कि यूनिवर्सिटी ऑफ विस्कॉन्सिन-मैडिसन के 82 वर्षीय हालज़ेन को यह सम्मान "आइसक्यूब न्यूट्रिनो वेधशाला में निर्णायक योगदान और खगोलीय स्रोतों से आने वाले उच्च ऊर्जा वाले न्यूट्रिनो की खोज के लिए" दिया जा रहा है।
@@ -76,13 +76,13 @@ verification:
 
 यही खूबी इन्हें काम का भी बनाती है। नोबेल भौतिकी समिति के अध्यक्ष मार्क पीयर्स ने कहा, "न्यूट्रिनो के गुण बड़े अनोखे हैं, यह तथ्य कि यह पदार्थ से बहुत कम ही क्रिया करता है।" चूंकि इन्हें बहुत कम चीजें रोक पाती हैं, ये दूर के ब्रह्मांडीय स्रोतों से ऐसी जानकारी लेकर आते हैं जो किसी और तरीके से नहीं मिल सकती।
 
-जो चीज कभी-कभार ही किसी से टकराती हो, उसे पकड़ने के लिए बहुत बड़ा निशाना चाहिए। हालज़ेन और उनके एक सहयोगी को 1988 में दक्षिणी ध्रुव के नीचे की बर्फ इस्तेमाल करने का विचार आया। वैज्ञानिकों ने बर्फ पिघलाकर करीब 100 छेद बनाए और पानी के दोबारा जमने से पहले उनमें प्रकाश सेंसरों की लड़ियां उतार दीं। 2010 के अंत में पूरा हुआ आइसक्यूब 86 लड़ियों पर लगे 5,160 सेंसरों से बना है, जो सतह से बहुत नीचे करीब एक घन किलोमीटर बर्फ में फैले हैं।
+जो चीज कभी-कभार ही किसी से टकराती हो, उसे पकड़ने के लिए बहुत बड़ा निशाना चाहिए। हालज़ेन और उनके एक सहयोगी को 1988 में दक्षिणी ध्रुव के नीचे की बर्फ इस्तेमाल करने का विचार आया। वैज्ञानिकों ने बर्फ पिघलाकर करीब 100 छेद बनाए और पानी के दोबारा जमने से पहले उनमें **प्रकाश सेंसरों** की लड़ियां उतार दीं। 2010 के अंत में पूरा हुआ आइसक्यूब 86 लड़ियों पर लगे 5,160 सेंसरों से बना है, जो सतह से बहुत नीचे करीब एक घन किलोमीटर बर्फ में फैले हैं।
 
 जब कोई न्यूट्रिनो बर्फ के किसी परमाणु के नाभिक से टकराता है, तो उससे आवेशित कण बनते हैं जो एक हल्की नीली चमक छोड़ते हैं, जिसे चेरेनकोव प्रकाश कहते हैं। सेंसर इस चमक को दर्ज करते हैं, और उसके पैटर्न से पता चलता है कि न्यूट्रिनो किस दिशा से आया। नोबेल समिति की सदस्य ईवा ओल्सन ने कहा कि हालज़ेन ने "समझा कि दक्षिणी ध्रुव की बर्फ इन न्यूट्रिनो संदेशवाहकों को दिखा सकती है।"
 
 ## बर्फ ने क्या देखा
 
-2013 में, पूरी तरह काम शुरू करने के दो साल बाद, आइसक्यूब ने 28 न्यूट्रिनो दर्ज किए, जिनमें से हर एक की ऊर्जा कम से कम 30 टेराइलेक्ट्रॉनवोल्ट थी। ये सौरमंडल के बाहर से आए पहले उच्च ऊर्जा वाले न्यूट्रिनो थे जो पकड़े गए। तब से टीम इनमें से कुछ को उनके स्रोतों तक ट्रेस कर चुकी है: करीब 4 अरब प्रकाश वर्ष दूर एक ब्लेज़ार, यानी ऐसी आकाशगंगा जिसके केंद्र में एक महाविशाल ब्लैक होल है; सक्रिय आकाशगंगा एनजीसी 1068; और हमारी अपनी मिल्की वे।
+2013 में, पूरी तरह काम शुरू करने के दो साल बाद, आइसक्यूब ने 28 न्यूट्रिनो दर्ज किए, जिनमें से हर एक की ऊर्जा कम से कम 30 टेराइलेक्ट्रॉनवोल्ट थी। ये सौरमंडल के बाहर से आए पहले उच्च ऊर्जा वाले न्यूट्रिनो थे जो पकड़े गए। तब से टीम इनमें से कुछ को उनके स्रोतों तक ट्रेस कर चुकी है: करीब **4 अरब** प्रकाश वर्ष दूर एक ब्लेज़ार, यानी ऐसी आकाशगंगा जिसके केंद्र में एक महाविशाल ब्लैक होल है; सक्रिय आकाशगंगा एनजीसी 1068; और हमारी अपनी मिल्की वे।
 
 ```timeline
 {"title":"आइसक्यूब: विचार से नोबेल तक","items":[{"date":"1988","text":"हालज़ेन और एक सहयोगी ने न्यूट्रिनो पकड़ने के लिए दक्षिणी ध्रुव की बर्फ के इस्तेमाल का प्रस्ताव रखा।"},{"date":"दिसंबर 2010","text":"आइसक्यूब पूरा हुआ: 86 लड़ियों पर 5,160 सेंसर।"},{"date":"2013","text":"सौरमंडल के बाहर से आए पहले उच्च ऊर्जा वाले न्यूट्रिनो: 28 घटनाएं।"},{"date":"2018","text":"सितंबर 2017 में पकड़े गए एक न्यूट्रिनो को ब्लेज़ार TXS 0506+056 से जोड़ा गया।"},{"date":"2022","text":"4.7 करोड़ प्रकाश वर्ष दूर आकाशगंगा एनजीसी 1068 को स्रोत के रूप में पहचाना गया।"},{"date":"2023","text":"पता चला कि मिल्की वे से भी उच्च ऊर्जा वाले न्यूट्रिनो निकलते हैं।"},{"date":"6 अक्टूबर 2026","text":"हालज़ेन को भौतिकी का नोबेल पुरस्कार।"}]}

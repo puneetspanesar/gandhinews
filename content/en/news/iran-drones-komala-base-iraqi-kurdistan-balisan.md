@@ -38,7 +38,7 @@ verification:
 
 Iran has struck the headquarters of the Iranian Kurdish opposition group Komala in northern Iraq with drones, Iranian media said on Sunday.
 
-The Mehr news agency said a Revolutionary Guards drone operation had targeted Komala's base in the Balisan area of Iraqi Kurdistan. It did not give details of damage or casualties, and the Guards have not claimed the strike. There was no immediate word from Komala or from the Kurdistan Regional Government.
+The Mehr news agency said a Revolutionary Guards drone operation had targeted Komala's base in the Balisan area of Iraqi Kurdistan. It did not give details of damage or casualties, and the Guards have **not claimed** the strike. There was no immediate word from Komala or from the Kurdistan Regional Government.
 
 ## A long-running campaign
 

@@ -23,6 +23,7 @@ The `infographic:` block (both language files, each in its own language):
 Icons are Phosphor duotone names (newsroom/phosphor/<name>-duotone.svg). Never robot or sparkle icons.
 Every number must come from the story itself.
 """
+import sys as _s2, os as _o2; _s2.path.insert(0, _o2.path.dirname(_o2.path.abspath(__file__))); from gnrules import ihash as _ihash
 import os as _gn_os; GN_ROOT = _gn_os.environ.get('GN_ROOT') or _gn_os.path.dirname(_gn_os.path.dirname(_gn_os.path.dirname(_gn_os.path.abspath(__file__)))) + '/'  # repo root (works in any clone)
 import sys, os, re, json, html, glob, io
 import yaml
@@ -244,7 +245,7 @@ def main():
         u = lambda lang, s='': (f'/photos/i-{sid}-{lang}{s}-1280.jpg', f'/photos/i-{sid}-{lang}{s}-640.jpg')
         M[sid] = {'id': f'i-{sid}', 'src': u('en', '-3x2')[0], 'src800': u('en', '-3x2')[1], 'width': 1280, 'height': 853,
                   'credit': 'Graphic: Gandhi News', 'licence': '', 'graphic': True, 'alt': f"Gandhi News graphic: {gs['en'].get('headline', '')}", 'alt_hi': f"गांधी न्यूज़ ग्राफ़िक: {gs['hi'].get('headline', '')}",
-                  'page': None, 'byLang': {'hi': {'src': u('hi', '-3x2')[0], 'src800': u('hi', '-3x2')[1]}},
+                  'page': None, 'ihash': _ihash(gs), 'byLang': {'hi': {'src': u('hi', '-3x2')[0], 'src800': u('hi', '-3x2')[1]}},
                   'thumb': {'en': dict(zip(('src', 'src800'), u('en', '-t'))), 'hi': dict(zip(('src', 'src800'), u('hi', '-t')))},
                   'cover': {'width': 1280, 'height': 720, 'en': dict(zip(('src', 'src800'), u('en'))), 'hi': dict(zip(('src', 'src800'), u('hi')))}}
         print(f'{sid}: infographic cover registered')

@@ -59,6 +59,6 @@ It was far from fluent. The defending champions laboured for long spells against
 
 Manchester United also struggled. Their trip to Elland Road ended in a 1-1 draw with Leeds United, closing what had been a challenging week for the club with only a point.
 
-The goal of the day came at the Amex. In the seventh minute, Brighton's Paraguay international Diego Gomez struck from close to the halfway line, about 50 metres out, and sent the ball over Crystal Palace goalkeeper Walter Benitez. Brighton went on to beat their rivals 5-0, one of the biggest wins of the Premier League weekend.
+The goal of the day came at the Amex. In the seventh minute, Brighton's Paraguay international Diego Gomez struck from close to the halfway line, **about 50 metres** out, and sent the ball over Crystal Palace goalkeeper Walter Benitez. Brighton went on to beat their rivals 5-0, one of the biggest wins of the Premier League weekend.
 
 The results leave the title race much as it was on Saturday night, with City setting the pace and Arsenal grinding out wins to stay close.

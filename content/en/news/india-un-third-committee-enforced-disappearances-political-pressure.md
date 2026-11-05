@@ -39,7 +39,7 @@ verification:
 
 India has told the United Nations that human rights should not be turned into "an instrument of political pressure or selective country targeting", in a debate on enforced and involuntary disappearances at the General Assembly in New York.
 
-Barkha Tamrakar, Deputy Secretary in the Ministry of External Affairs, made the statement in the Third Committee, which handles social, humanitarian and human rights questions, during its discussion of the work of the UN Working Group on Enforced or Involuntary Disappearances.
+Barkha Tamrakar, Deputy Secretary in the Ministry of External Affairs, made the statement in the **Third Committee**, which handles social, humanitarian and human rights questions, during its discussion of the work of the UN Working Group on Enforced or Involuntary Disappearances.
 
 She set out the safeguards India relies on. "Article 21 of our Constitution guarantees the right to life and personal liberty," she said, pointing also to the writ of habeas corpus, the National Human Rights Commission, the State Human Rights Commissions and the Right to Information Act as ways for citizens to hold the state to account. She noted that India has signed the International Convention for the Protection of All Persons from Enforced Disappearance.
 

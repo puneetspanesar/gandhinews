@@ -34,7 +34,7 @@ infographic:
     - {icon: flag-banner, value: "4", label: "Senate seats flipped: Texas, Ohio, North Carolina, South Carolina"}
     - {icon: bank, value: "51-49", label: "minimum Democratic Senate majority once counting ends"}
     - {icon: check-circle, value: "8+", label: "House seats Democrats took from Republicans"}
-  source: "NBC News and Scripps projections; Reuters count, November 3-4, 2026"
+  source: "Network projections and vote counts, November 3-4, 2026"
 related: [us-midterms-democrats-win-house-senate-in-balance, us-midterms-results-cooper-flips-north-carolina-senate, us-midterms-ossoff-holds-georgia-first-results]
 seo:
   description: "Democrats win control of the US Senate in the 2026 midterms as James Talarico beats Ken Paxton in Texas and Sherrod Brown beats Jon Husted in Ohio, adding to their House win."

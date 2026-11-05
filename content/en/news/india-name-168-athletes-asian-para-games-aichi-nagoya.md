@@ -37,7 +37,7 @@ verification:
     - "Event details (5th edition, 45 nations, 492 medal events, 18 sports, Oct 18-24) also from The Bridge; not checked against the organisers' site."
 ---
 
-India will send 168 athletes to the Asian Para Games in Aichi-Nagoya, Japan, a squad little more than half the size of the one that went to Hangzhou three years ago.
+India will send **168 athletes** to the Asian Para Games in Aichi-Nagoya, Japan, a squad little more than half the size of the one that went to Hangzhou three years ago.
 
 The contingent, named on Tuesday, has 112 men and 56 women across 11 sports. They will be supported by 98 team officials and 15 contingent staff. The Games, the fifth edition, run from October 18 to 24, with 45 nations competing for medals in 492 events across 18 sports.
 

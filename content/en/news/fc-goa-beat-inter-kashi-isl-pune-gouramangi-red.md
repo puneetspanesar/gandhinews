@@ -43,7 +43,7 @@ verification:
     - "Venue: IANS 'Balewadi Sports Complex', Khel Now 'Balewadi Stadium'. Photo subject uses the Wikipedia name Shree Shiv Chhatrapati Sports Complex."
 ---
 
-**FC Goa won for the first time this Indian Super League season**, coming from 1-1 to beat Inter Kashi 2-1 at the Balewadi Sports Complex in Pune on Sunday. Francisco Feuillassier, known as Franchu, and Christian Borrego, known as Chiki, scored for Goa, with Sumeet Passi's goal for Inter Kashi in between.
+FC Goa **won for the first time** this Indian Super League season, coming from 1-1 to beat Inter Kashi 2-1 at the Balewadi Sports Complex in Pune on Sunday. Francisco Feuillassier, known as Franchu, and Christian Borrego, known as Chiki, scored for Goa, with Sumeet Passi's goal for Inter Kashi in between.
 
 It was **Inter Kashi's third defeat of the campaign**. They had the early chances: Jeetu headed a delivery wide and Ayush Chikkara's shot from about 25 yards flew over the bar.
 

@@ -37,7 +37,7 @@ verification:
     - "'Navratri' inferred from Dandiya event during the festival week; Dandiya events are held during Navratri."
 ---
 
-A woman engineering student was killed and 14 people were injured on Saturday when an arch carrying festive lighting came down during a Dandiya event at an engineering college in Hyderabad.
+A woman engineering student was killed and **14 people** were injured on Saturday when an arch carrying festive lighting came down during a Dandiya event at an engineering college in Hyderabad.
 
 Police said the arch fell because of the wind. The student suffered serious injuries and was taken to a nearby private hospital, where she died during treatment. The 14 others who were hurt were out of danger, police said.
 
@@ -49,4 +49,4 @@ Chief Minister A Revanth Reddy expressed his sadness at the death and conveyed h
 
 He also told officials to identify those responsible for the collapse and to take tough action against them.
 
-The death comes on the same evening that a crowd surge at a Durga Puja pandal in Kolkata killed 19 people, putting the safety of festival venues and temporary structures in the spotlight as celebrations peak across the country.
+The death comes on the same evening that a crowd surge at a Durga Puja pandal in Kolkata killed **19 people**, putting the safety of festival venues and temporary structures in the spotlight as celebrations peak across the country.

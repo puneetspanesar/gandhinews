@@ -43,7 +43,7 @@ verification:
 
 The first ASEAN-India Defence Think Tank Forum was due to wrap up in New Delhi on Thursday, after two days of talks between Indian and Southeast Asian policymakers, armed forces officers and researchers on security in the Indo-Pacific.
 
-The forum was held at the Manohar Parrikar Institute for Defence Studies and Analyses (MP-IDSA) with the Ministry of Defence, and drew representatives from all 11 ASEAN member states and India. It grew out of a proposal by Defence Minister Rajnath Singh at the second ASEAN-India Defence Ministers' Informal Meeting in Kuala Lumpur on October 31, 2025, held alongside the 12th ADMM-Plus.
+The forum was held at the Manohar Parrikar Institute for Defence Studies and Analyses (MP-IDSA) with the Ministry of Defence, and drew representatives from **all 11 ASEAN member states** and India. It grew out of a proposal by Defence Minister Rajnath Singh at the second ASEAN-India Defence Ministers' Informal Meeting in Kuala Lumpur on October 31, 2025, held alongside the 12th ADMM-Plus.
 
 MP-IDSA described the forum as a platform linking research communities with the people who make and carry out defence policy, and called it "an important institutional step in strengthening intellectual and policy-level engagement" between India and ASEAN.
 

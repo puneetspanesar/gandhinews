@@ -38,17 +38,17 @@ verification:
     - "Swami Chinmayananda's death on August 3, 1993, in San Diego is as described in the PM's speech per PIB."
 ---
 
-Prime Minister Narendra Modi opened the Chinmaya Amrit Mahotsav Global Sammelan at Bharat Mandapam in New Delhi on Friday, and spent the first part of his speech remembering the man who founded the mission.
+Prime Minister Narendra Modi opened the **Chinmaya Amrit Mahotsav Global Sammelan** at Bharat Mandapam in New Delhi on Friday, and spent the first part of his speech remembering the man who founded the mission.
 
-Before he spoke, the organisers staged a "Holobot" interaction with a hologram of Swami Chinmayananda. Modi said it carried him back 33 years, to the time he met the spiritual teacher in Vadodara in 1993. "For me, this is a very emotional experience," he said.
+Before he spoke, the organisers staged a "Holobot" interaction with a hologram of Swami Chinmayananda. Modi said it carried him back **33 years**, to the time he met the spiritual teacher in Vadodara in 1993. "For me, this is a very emotional experience," he said.
 
 ## A meeting before Chicago
 
-Modi said he had gone to invite Swami Chinmayananda to Chicago in February and March 1993 for the centenary of the Parliament of the World's Religions, held to mark 100 years since Swami Vivekananda's address there. Chinmayananda went across America rallying people for the event but died in San Diego on August 3, and his absence was felt at the Chicago gathering on September 11, Modi said.
+Modi said he had gone to invite Swami Chinmayananda to Chicago in February and March 1993 for the centenary of the Parliament of the World's Religions, held to mark **100 years** since Swami Vivekananda's address there. Chinmayananda went across America rallying people for the event but died in San Diego on August 3, and his absence was felt at the Chicago gathering on September 11, Modi said.
 
 Their last conversation, he said, was about young people. "Its main essence was the building of youth power, and building a strong and capable India through youth power!"
 
-He praised the young volunteers of the Amrit Mahotsav, who he said had travelled 40,000 km over 300 days and reached more than one lakh young people.
+He praised the young volunteers of the Amrit Mahotsav, who he said had travelled **40,000 km** over 300 days and reached more than one lakh young people.
 
 ## Education and heritage
 

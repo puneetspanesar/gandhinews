@@ -46,7 +46,7 @@ Minority rights defender Nabila Feroz Bhatti pointed to the case of Kamran Gill,
 
 ## A law still waiting
 
-HRCP welcomed the National Commission for Minorities Act 2025 and laws in Punjab and Balochistan setting 18 as the minimum age of marriage, but noted that the minorities commission has still not been formed. It urged the federal government to set it up without delay and asked Khyber Pakhtunkhwa to legislate the same marriage age.
+HRCP welcomed the **National Commission for Minorities** Act 2025 and laws in Punjab and Balochistan setting 18 as the minimum age of marriage, but noted that the minorities commission has still not been formed. It urged the federal government to set it up without delay and asked Khyber Pakhtunkhwa to legislate the same marriage age.
 
 HRCP director Farah Zia warned that the state's approach to minorities was becoming increasingly exclusionary. Raja Ashraf, the commission's vice-chair in Punjab, said blasphemy accusations had become a "means of exploiting and endangering vulnerable people."
 

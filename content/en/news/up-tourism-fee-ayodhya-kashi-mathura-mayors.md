@@ -38,9 +38,9 @@ verification:
 
 Pilgrims and tourists visiting Ayodhya, Varanasi and Mathura could one day pay a fee to enter the cities, an idea raised at a meeting of Uttar Pradesh's mayors in Lucknow as civic bodies hunt for money to handle the crowds.
 
-Ayodhya Mayor Mahant Girish Pati Tripathi said crores of devotees visit these cities every year, and the strain shows in sanitation, drinking water and waste management. A tourism fee, levied under the law, could raise money for those services, he said. No amount has been mentioned, and no authority has said it will take up the proposal.
+Ayodhya Mayor **Mahant Girish Pati Tripathi** said crores of devotees visit these cities every year, and the strain shows in sanitation, drinking water and waste management. A tourism fee, levied under the law, could raise money for those services, he said. No amount has been mentioned, and no authority has said it will take up the proposal.
 
-The suggestion came at a conference on Wednesday at a hotel in Gomti Nagar, where mayors of 17 municipal corporations discussed the problems of the state's cities and how their councils could pay their own way. It was organised by the Sixth State Finance Commission with UNICEF and Dr Ram Manohar Lohiya National Law University.
+The suggestion came at a conference on Wednesday at a hotel in Gomti Nagar, where mayors of **17 municipal corporations** discussed the problems of the state's cities and how their councils could pay their own way. It was organised by the Sixth State Finance Commission with UNICEF and Dr Ram Manohar Lohiya National Law University.
 
 Finance Minister Suresh Kumar Khanna set the tone. "The financial self-reliance of civic bodies is the foundation for building strong and modern cities," he said.
 

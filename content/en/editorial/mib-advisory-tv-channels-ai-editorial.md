@@ -49,7 +49,7 @@ Much of this is sensible. A channel that lets a guest spew communal abuse is not
 
 The trouble lies in how the ministry has gone about it.
 
-The advisory names no channel and no programme. A broadcaster cannot learn what it did wrong, and the public cannot judge whether the committee was right. Warnings without specifics work less as regulation than as a general chill, and they leave room for the suspicion that the target is coverage the government dislikes rather than conduct that harms viewers.
+The advisory names **no channel and no programme**. A broadcaster cannot learn what it did wrong, and the public cannot judge whether the committee was right. Warnings without specifics work less as regulation than as a general chill, and they leave room for the suspicion that the target is coverage the government dislikes rather than conduct that harms viewers.
 
 The language is loose where it should be tight. "Assistive capacity" is not a rule a newsroom can follow; it does not say whether an AI-generated map, a translated caption or a synthetic voice reading the weather is allowed. And asking channels to screen out "anti-national" content in guidance on debates hands an elastic political label to the very ministry that licenses them.
 

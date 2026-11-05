@@ -11,7 +11,7 @@ published: 2026-10-22T20:30:00+05:30
 location: Bhubaneswar
 keyPoints:
   - "A low-pressure area is likely over the southeast and east-central Bay of Bengal **around October 23**."
-  - "The IMD gives a **high probability of a depression by the morning of October 25**, strengthening further until October 28."
+  - "The IMD gives a high probability of **a depression by the morning of October 25**, strengthening further until October 28."
   - "Gale winds of **70-80 km/h, gusting to 90 km/h**, are forecast over the west-central Bay from October 26."
 hero:
   need: "Fishing boats pulled ashore on the Odisha coast, ideally at Puri or Gopalpur"

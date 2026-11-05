@@ -52,6 +52,6 @@ Speaking to reporters, the minister went further. "Rahul Gandhi has adopted the 
 
 He named Rajiv Gandhi, Jagdish Tytler, H K L Bhagat, Sajjan Kumar, Kamal Nath and Dharam Das Shastri as Congress figures linked to the 1984 killings. He also questioned the Congress leader's foreign trips and claimed foreign powers had stirred unrest in Bangladesh, Nepal and France, without setting out any evidence. "How long will Rahul Gandhi continue his politics by relying on fake Gen-Z?" he asked.
 
-The opposition parties announced their protest programme against the Chief Election Commissioner at a meeting in Delhi on September 29. Delhi Police have issued a no-objection certificate for the Ramlila Maidan rally, where student groups and civil society organisations are also expected.
+The opposition parties announced their protest programme against the Chief Election Commissioner at a meeting in Delhi on September 29. Delhi Police have issued a **no-objection certificate** for the Ramlila Maidan rally, where student groups and civil society organisations are also expected.
 
 The Congress had not responded to Sirsa's remarks by Wednesday night.

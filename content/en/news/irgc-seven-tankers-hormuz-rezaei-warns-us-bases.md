@@ -79,7 +79,7 @@ Rezaei said Iran had not used its full strength in earlier rounds of the war tha
 
 ## Fears of a return to war
 
-The claims come as Washington moves a third aircraft carrier and thousands more troops into the region, joining the largest concentration of American warships and aircraft in the Middle East in decades. Plans for a short, intensive US-Israeli strike campaign against Iran's energy, nuclear and missile sites after next month's US midterm elections were reported this week; a White House official said the administration does not comment on military plans "that may or may not exist".
+The claims come as Washington moves a **third aircraft carrier** and thousands more troops into the region, joining the largest concentration of American warships and aircraft in the Middle East in decades. Plans for a short, intensive US-Israeli strike campaign against Iran's energy, nuclear and missile sites after next month's US midterm elections were reported this week; a White House official said the administration does not comment on military plans "that may or may not exist".
 
 President Donald Trump said on Wednesday that the US was "not negotiating" with Iran and that "something" would happen "fairly soon", without saying what. Iran is still promoting a proposal to end the war and fully reopen the strait within a week if the US lifts its blockade of Iranian ports and meets other conditions; Trump has rejected it, though both sides say indirect contacts continue. Attacks on shipping have risen since that rejection.
 

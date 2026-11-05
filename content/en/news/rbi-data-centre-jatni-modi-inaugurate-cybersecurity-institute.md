@@ -6,7 +6,7 @@ section: economy
 format_label: "Economy / RBI"
 topics: [economy]
 title: "Modi to open RBI's ₹169-crore data centre at Jatni, its second after Navi Mumbai"
-standfirst: "The Odisha facility will host payment and settlement systems away from seismic zones and border areas. A cybersecurity training institute for the central bank opens alongside it this evening."
+standfirst: "The Odisha facility will host payment and settlement systems away from seismic zones and border areas. A cybersecurity training institute for the central bank opens alongside it on the evening of October 25."
 published: 2026-10-25T10:15:00+05:30
 location: Bhubaneswar
 keyPoints:
@@ -49,7 +49,7 @@ verification:
     - "Government statement quote and Majhi quotes from PTI copy (ThePrint)."
 ---
 
-Prime Minister Narendra Modi is due on Sunday evening to inaugurate a ₹169-crore data centre built by the Reserve Bank of India at Jatni, on the edge of Bhubaneswar, along with a training institute meant to sharpen the central bank's defences against cyber attacks.
+Prime Minister Narendra Modi is due on Sunday evening to inaugurate a **₹169-crore data centre** built by the Reserve Bank of India at Jatni, on the edge of Bhubaneswar, along with a training institute meant to sharpen the central bank's defences against cyber attacks.
 
 The facility sits on 18.55 acres at Info Valley-II in Khordha district. It has been built to carry the RBI's own computing load and to host mission-critical payment and settlement systems, the plumbing through which money moves between banks every day.
 
@@ -65,7 +65,7 @@ The foundation stone for both buildings was laid on March 22, 2023, by Shaktikan
 
 ## Training for a sharper threat
 
-The Cybersecurity Training Institute opening alongside the data centre is meant to build the technical skills of RBI staff as cyber threats grow. It is designed as a platform for training and research in cybersecurity and enterprise technology, with a focus on quantum computing, artificial intelligence and other frontier technologies relevant to banking, financial services and insurance. The RBI also plans to use it for capability building across the wider financial sector.
+The **Cybersecurity Training Institute** opening alongside the data centre is meant to build the technical skills of RBI staff as cyber threats grow. It is designed as a platform for training and research in cybersecurity and enterprise technology, with a focus on quantum computing, artificial intelligence and other frontier technologies relevant to banking, financial services and insurance. The RBI also plans to use it for capability building across the wider financial sector.
 
 The opening comes as banks face closer questions about how they guard customer data. State Bank of India told customers this week that their money was safe after their details turned up in a suspected leak on the dark web.
 

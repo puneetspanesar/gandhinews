@@ -36,23 +36,23 @@ verification:
     - "Revenue figures for both companies are as given in that report (OpenAI's own figures for OpenAI). An unnamed capital markets lawyer's quote was left out under the named-quotes rule."
 ---
 
-OpenAI is trying to lock in a fresh round of funding before its closest rival, Anthropic, reaches the stock market. The ChatGPT maker is seeking about $30 billion from investors, and the round could value it at more than $1.4 trillion, according to two people familiar with the talks.
+OpenAI is trying to lock in a fresh round of funding before its closest rival, Anthropic, reaches the stock market. The ChatGPT maker is seeking about **$30 billion** from investors, and the round could value it at more than $1.4 trillion, according to two people familiar with the talks.
 
 SoftBank Group, the Abu Dhabi investor MGX and other existing backers of OpenAI are in discussions to take part. The aim is to secure commitments before Anthropic's expected public listing in mid-November, which would give investors a direct way to buy into one of the two leading makers of frontier AI models.
 
 ## A jump from March
 
-The valuation under discussion would be a large step up from March, when OpenAI was valued at $852 billion after a $122 billion round that included up to $50 billion from Amazon.
+The valuation under discussion would be a large step up from March, when OpenAI was valued at $852 billion after a $122 billion round that included up to **$50 billion** from Amazon.
 
 OpenAI says its business is growing fast enough to justify the higher price. The company puts its annualised revenue at $50 billion and expects that to reach $70 billion by the end of the year. It credits its GPT-6 Astra model, and price cuts on its cheaper models that have brought in more users, for the growth.
 
 ## Anthropic's numbers
 
-Anthropic, the maker of the Claude models, has been growing faster still on some measures. Its annualised revenue reached roughly $65 billion by July, and its quarterly revenue rose to $16.8 billion in the July to September quarter from $11.6 billion in the April to June quarter.
+Anthropic, the maker of the Claude models, has been growing faster still on some measures. Its annualised revenue reached roughly **$65 billion** by July, and its quarterly revenue rose to $16.8 billion in the July to September quarter from $11.6 billion in the April to June quarter.
 
-Those third quarter results fell short of what some investors had hoped for, however. Some Anthropic backers are now said to want the company to list at a valuation closer to $1.5 trillion, rather than the $2 trillion it had been aiming for.
+Those third quarter results fell short of what some investors had hoped for, however. Some Anthropic backers are now said to want the company to list at a valuation closer to **$1.5 trillion**, rather than the $2 trillion it had been aiming for.
 
-On Sunday, Anthropic said it would commit 5% of its shares to a public benefit fund.
+On Sunday, Anthropic said it would commit **5%** of its shares to a public benefit fund.
 
 ## A nervous market
 

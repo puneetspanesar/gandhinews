@@ -62,7 +62,7 @@ The authority will cover Tuensang, Mon, Longleng, Kiphire, Noklak and Shamator, 
 
 ## What the authority will look like
 
-The Frontier Nagaland Territorial Authority will have 62 members. Forty will be directly elected from single-member constituencies, with a third of those seats reserved for women. The 20 MLAs whose seats fall inside the territory will sit as ex officio members, but without a vote and without a place on the executive council. The Governor will nominate two more, with voting rights, from recognised tribes that are unrepresented or under-represented.
+The **Frontier Nagaland Territorial Authority** will have 62 members. Forty will be directly elected from single-member constituencies, with a third of those seats reserved for women. The 20 MLAs whose seats fall inside the territory will sit as ex officio members, but without a vote and without a place on the executive council. The Governor will nominate two more, with voting rights, from recognised tribes that are unrepresented or under-represented.
 
 The body will run for five years at a time, with elections conducted by the State Election Commission. An executive council of up to nine members, headed by a Chief Executive Member, will run day-to-day business.
 
@@ -72,7 +72,7 @@ Money will come through a separate major subhead in the state budget, and develo
 
 ## A long road to the statute book
 
-The authority grows out of a Memorandum of Agreement signed on February 5 by the Centre, the Nagaland government and the Eastern Nagaland Peoples' Organisation (ENPO), which had campaigned for years for a separate arrangement for the region. The agreement provides for a review after 10 years.
+The authority grows out of a Memorandum of Agreement signed on February 5 by the Centre, the Nagaland government and the Eastern Nagaland Peoples' Organisation (ENPO), which had campaigned for years for a separate arrangement for the region. The agreement provides for a review after **10 years**.
 
 A first Bill introduced on March 26 was withdrawn after the Home Ministry, the ENPO and the Eastern Nagaland Legislators' Union sought more clarity on some provisions. Deputy Chief Minister Y Patton brought in a revised Bill on September 1. On the day it passed, Rio told the House that the Home Ministry had asked the state to wait for its views on giving the authority legislative powers. The ENPO urged the state to stand by the February agreement, while the legislators' union asked for the Bill to be put off until its concerns were met.
 

@@ -43,17 +43,17 @@ verification:
     - "Context line (FPI selling, Brent highest close since April, Fed/ECB/BoJ, L&T/Maruti/HUL results) from site stories week-ahead-cues and central-bank-week, and Mumbai Press Oct 25."
 ---
 
-Eight of India's ten most valuable listed companies lost a combined ₹1,55,671.9 crore in market value last week, as a broad sell-off dragged the benchmarks down across a holiday-shortened week of four sessions.
+Eight of India's ten most valuable listed companies lost a combined **₹1,55,671.9 crore** in market value last week, as a broad sell-off dragged the benchmarks down across a holiday-shortened week of four sessions.
 
-The Sensex fell 1,605.44 points, or 2.15%, over the week and the Nifty lost 546.15 points, or 2.36%. The damage was wider than the top ten. The market value of all companies listed on the BSE fell by ₹20.79 lakh crore, from ₹472.62 lakh crore on October 16 to ₹451.83 lakh crore.
+The Sensex fell 1,605.44 points, or **2.15%**, over the week and the Nifty lost 546.15 points, or 2.36%. The damage was wider than the top ten. The market value of all companies listed on the BSE fell by ₹20.79 lakh crore, from ₹472.62 lakh crore on October 16 to ₹451.83 lakh crore.
 
 ## Banks and lenders hit hardest
 
-HDFC Bank was the biggest loser. Its shares fell about 5% and its market value dropped by ₹55,506.95 crore to ₹10.67 lakh crore. Bajaj Finance gave up ₹34,180.51 crore to ₹5.77 lakh crore.
+HDFC Bank was the biggest loser. Its shares fell about 5% and its market value dropped by **₹55,506.95 crore** to ₹10.67 lakh crore. Bajaj Finance gave up ₹34,180.51 crore to ₹5.77 lakh crore.
 
-Reliance Industries, still the country's most valuable company, lost ₹27,065.08 crore and ended the week at ₹16.10 lakh crore. Life Insurance Corporation shed ₹21,062.24 crore to ₹4.81 lakh crore.
+Reliance Industries, still the country's most valuable company, lost **₹27,065.08 crore** and ended the week at ₹16.10 lakh crore. Life Insurance Corporation shed ₹21,062.24 crore to ₹4.81 lakh crore.
 
-The smaller falls were at Bharti Airtel, down ₹9,360.75 crore to ₹11.79 lakh crore, State Bank of India, down ₹4,338.46 crore to ₹8.83 lakh crore, Infosys, down ₹2,881.38 crore to ₹4.69 lakh crore, and ICICI Bank, which slipped ₹1,276.53 crore to ₹10.02 lakh crore.
+The smaller falls were at Bharti Airtel, down **₹9,360.75 crore** to ₹11.79 lakh crore, State Bank of India, down ₹4,338.46 crore to ₹8.83 lakh crore, Infosys, down ₹2,881.38 crore to ₹4.69 lakh crore, and ICICI Bank, which slipped ₹1,276.53 crore to ₹10.02 lakh crore.
 
 ## Two gainers
 

@@ -5,7 +5,7 @@ type: news
 section: politics
 format_label: "Politics / BJP"
 topics: [election-commission, electoral-rolls-sir]
-title: "Amit Shah to walk through old Hyderabad today in BJP's answer to the INDIA bloc on SIR"
+title: "Amit Shah to walk through old Hyderabad on November 2 in BJP's answer to the INDIA bloc on SIR"
 standfirst: "The Home Minister will pray at the Bhagya Laxmi temple at Charminar and then lead a padayatra from Basheerbagh to Mozamjahi Market, a day after the opposition's Ramlila Maidan rally."
 published: 2026-11-02T08:50:00+05:30
 location: Hyderabad

@@ -51,7 +51,7 @@ Anjal Prakash, professor of public policy at FLAME University and an author of I
 
 ## How other countries did
 
-Colombia topped the table with 29 points, followed by Nigeria on 25, Cambodia on 24, and Paraguay and Timor-Leste on 22 each. The UAE scored 19, Canada 16, Turkey 14, South Africa 13, the European Union 12 and Indonesia 11. Australia, China and Britain managed 9 each, Brazil 7, Russia 6 and South Korea 4. The United States was given 7, but its plan is not treated as active after its withdrawal from the Paris Agreement.
+Colombia topped the table with **29 points**, followed by Nigeria on 25, Cambodia on 24, and Paraguay and Timor-Leste on 22 each. The UAE scored 19, Canada 16, Turkey 14, South Africa 13, the European Union 12 and Indonesia 11. Australia, China and Britain managed 9 each, Brazil 7, Russia 6 and South Korea 4. The United States was given 7, but its plan is not treated as active after its withdrawal from the Paris Agreement.
 
 Among the big emitters, only the EU sets a specific target for cutting air pollution, and it has committed to phasing out HFCs by 2050. Just five countries, Cambodia, Chile, Colombia, Costa Rica and Paraguay, have set targets to reduce black carbon.
 

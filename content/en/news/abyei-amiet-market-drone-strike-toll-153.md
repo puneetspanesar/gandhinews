@@ -53,7 +53,7 @@ The number of people killed in a drone strike on a crowded market in Abyei, the 
 
 "The total number of people who died as a result of the drone attacks is 153," said Yohana Akol Ngor, the region's caretaker information minister. "But there are people who are missing." He said the dead included Sudanese, South Sudanese and Somali nationals and had been buried in two mass graves, one on each side of the market. Some bodies were burned, and fires slowed the search for others.
 
-The strike hit Amiet market, about 10 km north of Abyei town, on Monday. Ngor said 30 people were in hospital, some in a critical condition, and that about 8,000 people had fled. The medical charity Médecins Sans Frontières said it was treating more than 20 wounded, some with burns.
+The strike hit Amiet market, about 10 km north of Abyei town, on Monday. Ngor said 30 people were in hospital, some in a critical condition, and that about **8,000 people** had fled. The medical charity Médecins Sans Frontières said it was treating more than 20 wounded, some with burns.
 
 ## Who is blamed
 

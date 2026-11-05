@@ -40,7 +40,7 @@ verification:
     - "Two sources agree on 638 ha, three districts, ~1,000 families. Forest names from The Sentinel (spelling Jamuna-Moudanga; NE News has Jamuna-Maudanga). Sarma quotes from his social media post as carried by NE News and Sentinel. SSP Hazarika remark paraphrased (no verbatim). Minority groups unnamed in source. Exact dates of the drives not given ('past few days', 'last week'). Sentinel spells CM 'Hemanta Biswa Sharma' in headline; standard spelling used."
 ---
 
-Assam has cleared more than 638 hectares of forest land in Golaghat, Hojai and Nagaon districts in a series of eviction drives over the past few days, Chief Minister Himanta Biswa Sarma announced on Tuesday. Officials said about 1,000 families were removed from the protected areas.
+Assam has cleared **more than 638 hectares** of forest land in Golaghat, Hojai and Nagaon districts in a series of eviction drives over the past few days, Chief Minister Himanta Biswa Sarma announced on Tuesday. Officials said about 1,000 families were removed from the protected areas.
 
 "The 'Rudra Roop' of our administration befell upon encroachers in three districts," Sarma wrote on social media, invoking the fierce form of Shiva. "Over 638 hectares of land has been cleared in the operation."
 
@@ -48,7 +48,7 @@ The drives covered the Lutumari, Borpani and Jamuna-Moudanga reserved forests. L
 
 ## On the ground
 
-Hojai's Senior Superintendent of Police, Nirupam Hazarika, said the demolitions passed off peacefully and that many residents had taken down their own homes before the bulldozers arrived. A renewed drive in Hojai's Jamuna-Moudanga forest had targeted 152 families.
+Hojai's Senior Superintendent of Police, Nirupam Hazarika, said the demolitions passed off peacefully and that many residents had taken down their own homes before the bulldozers arrived. A renewed drive in Hojai's Jamuna-Moudanga forest had targeted **152 families**.
 
 The scale of the displacement has drawn criticism. Minority rights groups have raised concerns about how quickly families are being uprooted and have called for rehabilitation for those who have lost their homes. The government has not said where the evicted families are to go.
 

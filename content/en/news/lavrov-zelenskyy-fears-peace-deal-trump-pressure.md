@@ -6,7 +6,7 @@ section: world
 format_label: "World / Russia-Ukraine"
 topics: []
 title: "Trump says Zelenskyy 'has to want' a deal as Lavrov claims peace would end his rule"
-standfirst: "Speaking in the Oval Office on Tuesday, the US president said Ukrainians would not 'stand for' the war much longer. Moscow's foreign minister said Kyiv keeps wrecking talks. Witkoff is due in Russia today."
+standfirst: "Speaking in the Oval Office on Tuesday, the US president said Ukrainians would not 'stand for' the war much longer. Moscow's foreign minister said Kyiv keeps wrecking talks. Witkoff was due in Russia on October 21."
 published: 2026-10-21T04:10:00+05:30
 location: Washington
 keyPoints:
@@ -58,7 +58,7 @@ Trump repeated his view that Zelenskyy could have had a "better deal" at their s
 
 The remarks came as Zelenskyy finished talks in Oslo with US envoy Steve Witkoff and European leaders. He said Ukraine had "some clear ideas on how to get to peace", without spelling them out, and wanted Washington to carry them to Moscow. He again floated a three-way meeting of leaders. "Let's see what Putin has to say," he said.
 
-Zelenskyy said Witkoff would travel on to Russia on Wednesday, where the discussions are expected to continue. That makes today the next test of whether the Oslo ideas survive contact with the Kremlin.
+Zelenskyy said Witkoff would travel on to Russia on Wednesday, where the discussions are expected to continue. That made October 21 the next test of whether the Oslo ideas survive contact with the Kremlin.
 
 ## Lavrov's charge
 

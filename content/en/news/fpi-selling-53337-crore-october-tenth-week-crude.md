@@ -43,22 +43,22 @@ verification:
     - "Photo: Vijayakumar Commons availability uncertain."
 ---
 
-Foreign portfolio investors have pulled a net ₹53,337 crore out of Indian shares so far in October, extending a selling streak to ten weeks, although the outflow slowed sharply in the week that ended on October 23.
+Foreign portfolio investors have pulled a net **₹53,337 crore** out of Indian shares so far in October, extending a selling streak to ten weeks, although the outflow slowed sharply in the week that ended on October 23.
 
-Overseas funds turned buyers on two days of that week. Against the selling in the secondary market, they put a net ₹5,281 crore into shares through initial public offerings this month.
+Overseas funds **turned buyers on two days** of that week. Against the selling in the secondary market, they put a net ₹5,281 crore into shares through initial public offerings this month.
 
 "The total FPI selling through the exchanges for this year stood at Rs 3,69,164 crore," said VK Vijayakumar, chief investment strategist at Geojit Investments.
 
 ## Why the selling slowed
 
-Analysts point to three things that took some heat out of the exits. The yield on the 10-year US Treasury fell from 5.36% to about 5%, making American bonds a little less of a draw. The rupee firmed to 94.94 to the dollar. And large Indian companies now look cheap enough, on valuation, to tempt some buyers back.
+Analysts point to three things that took some heat out of the exits. The yield on the 10-year US Treasury fell from **5.36%** to about 5%, making American bonds a little less of a draw. The rupee firmed to 94.94 to the dollar. And large Indian companies now look cheap enough, on valuation, to tempt some buyers back.
 
 Domestic institutions have cash to spare and have been buying fairly valued large caps, which has helped hold up the bigger stocks.
 
 ## Why it may not be over
 
-Oil remains the main worry. Brent crude closed on Friday at $116.72 a barrel, its highest since April 29, after rising 6.2% in the week. Analysts expect that crude staying above $100 will weigh on India's economy, and that foreign funds will keep selling into rallies.
+Oil remains the main worry. Brent crude closed on Friday at **$116.72** a barrel, its highest since April 29, after rising 6.2% in the week. Analysts expect that crude staying above $100 will weigh on India's economy, and that foreign funds will keep selling into rallies.
 
-The smaller end of the market took the worst of the week. The Nifty 50 fell about 2.35%, but the Nifty Midcap 100 lost 5.6% and the Nifty Smallcap 100 dropped 7.3%. Market talk blamed forced selling of positions bought with borrowed money for the slide in mid and small caps.
+The smaller end of the market took the worst of the week. The Nifty 50 fell about **2.35%**, but the Nifty Midcap 100 lost 5.6% and the Nifty Smallcap 100 dropped 7.3%. Market talk blamed forced selling of positions bought with borrowed money for the slide in mid and small caps.
 
 The pace of exits has been relentless. By October 11, FPIs had already sold ₹44,166 crore of shares this month, and depository data then put their net equity outflow for 2026 at ₹3.04 lakh crore, against ₹1.66 lakh crore in the whole of 2025.

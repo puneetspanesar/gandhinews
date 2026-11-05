@@ -35,14 +35,14 @@ verification:
     - "Possible overlap with economy desk IPO coverage; checked claims.txt, none for Tonbo at time of writing."
 ---
 
-Tonbo Imaging, which makes electro-optic and electronic systems for defence use, has set a price band of ₹665 to ₹700 a share for its ₹852 crore initial public offering.
+Tonbo Imaging, which makes electro-optic and electronic systems for defence use, has set a price band of **₹665** to ₹700 a share for its ₹852 crore initial public offering.
 
-The issue opens for subscription on October 15 and closes on October 19, with bidding for anchor investors on October 14. At the top of the band, the company would be valued at about ₹4,010 crore.
+The issue opens for subscription on October 15 and closes on October 19, with bidding for anchor investors on October 14. At the top of the band, the company would be valued at about **₹4,010 crore**.
 
-The whole issue is an offer for sale of up to 1.22 crore shares by existing shareholders, so none of the money goes to the company. Sellers include the promoters and co-founders Arvind Kondangi Lakshmikumar, Ankit Kumar and Cecilia D'Souza, and investors CEAQ Technologies and Artiman Partners. The size was cut from the 1.81 crore shares proposed in the draft papers. The market regulator SEBI issued its observations on the draft last month, after the company refiled in August.
+The whole issue is an **offer for sale** of up to 1.22 crore shares by existing shareholders, so none of the money goes to the company. Sellers include the promoters and co-founders Arvind Kondangi Lakshmikumar, Ankit Kumar and Cecilia D'Souza, and investors CEAQ Technologies and Artiman Partners. The size was cut from the 1.81 crore shares proposed in the draft papers. The market regulator SEBI issued its observations on the draft last month, after the company refiled in August.
 
 ## From lab to factory
 
 Tonbo was set up in 2003 as a research and technology-services arm of a research company. Its promoters bought it out in 2012 and moved it into making defence products, including electro-optic and electronic systems. By June 30, 2026, it had deployed more than 28,000 systems in 24 countries.
 
-In April 2025 it raised ₹175 crore in a Series D round from Florintree Advisors, Tenacity Ventures and EXIM Bank. In the April-June quarter of this year it reported operating revenue of ₹36 crore and a net loss of ₹17.7 crore.
+In April 2025 it raised **₹175 crore** in a Series D round from Florintree Advisors, Tenacity Ventures and EXIM Bank. In the April-June quarter of this year it reported operating revenue of ₹36 crore and a net loss of ₹17.7 crore.

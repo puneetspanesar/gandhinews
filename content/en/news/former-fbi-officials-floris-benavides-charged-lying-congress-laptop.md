@@ -40,13 +40,13 @@ verification:
 
 Two former senior FBI officials were charged on Friday with lying to Congress about the bureau's handling of the Hunter Biden laptop, reviving one of the most bitter fights of the 2020 election less than two weeks before Americans vote in the midterms.
 
-Nikki Floris and Bradley Benavides oversaw the FITF, the FBI task force that focuses on foreign interference in US elections, at the time of the laptop investigation. Both had told Congress that the task force had no role in it. A criminal complaint filed by federal prosecutors says messages sent during the same period contradict that testimony. The two made their first appearance in court in Washington on Friday.
+**Nikki Floris and Bradley Benavides** oversaw the FITF, the FBI task force that focuses on foreign interference in US elections, at the time of the laptop investigation. Both had told Congress that the task force had no role in it. A criminal complaint filed by federal prosecutors says messages sent during the same period contradict that testimony. The two made their first appearance in court in Washington on Friday.
 
 FBI Director Kash Patel welcomed the case. "Lying to Congress by senior FBI officials strikes at the heart of our system. No one is above the law," he wrote on X.
 
 ## "No coincidence"
 
-Lawyers for the pair accused the Justice Department of trying to stir up the scandal before the November 3 vote. Floris's lawyer said she had served nearly 20 years as an FBI intelligence officer and had been charged falsely "on the say-so of politicians, not on the facts". The timing, the lawyer said, was "no coincidence".
+Lawyers for the pair accused the Justice Department of trying to stir up the scandal before the November 3 vote. Floris's lawyer said she had served nearly **20 years** as an FBI intelligence officer and had been charged falsely "on the say-so of politicians, not on the facts". The timing, the lawyer said, was "no coincidence".
 
 The laptop, left at a computer repair shop in Delaware, became public in October 2020, weeks before Joe Biden beat Donald Trump. Some former intelligence officials said it bore the hallmarks of Russian disinformation; the FBI later confirmed it was authentic. Its contents were used in federal gun and tax cases against Hunter Biden, but no wrongdoing involving his business dealings or his father was found.
 

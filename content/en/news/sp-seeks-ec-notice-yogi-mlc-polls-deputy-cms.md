@@ -36,9 +36,9 @@ verification:
     - "Allegations about the Gorakhpur teachers' meeting (Oct 12) and the gram prahari honorarium (Oct 13) are the SP's characterisation; no government or BJP response found by 1:50 pm."
 ---
 
-The Samajwadi Party on Thursday asked the Election Commission to issue a notice to Chief Minister Yogi Adityanath, accusing him of breaking the model code of conduct to sway the ongoing election to 11 seats in the Uttar Pradesh Legislative Council.
+The Samajwadi Party on Thursday asked the Election Commission to issue a **notice to Chief Minister Yogi Adityanath**, accusing him of breaking the model code of conduct to sway the ongoing election to 11 seats in the Uttar Pradesh Legislative Council.
 
-In a memorandum to the Commission, SP state president Shyam Lal Pal also demanded that the two deputy chief ministers, Keshav Prasad Maurya and Brajesh Pathak, be placed under house arrest.
+In a memorandum to the Commission, SP state president Shyam Lal Pal also demanded that the two deputy chief ministers, **Keshav Prasad Maurya and Brajesh Pathak**, be placed under house arrest.
 
 "Chief Minister Yogi Adityanath is continuously violating the model code of conduct," Pal said. "He is influencing the election being held for 11 seats of the Legislative Council in the state."
 

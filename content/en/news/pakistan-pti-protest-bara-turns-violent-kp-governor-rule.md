@@ -72,7 +72,7 @@ The office of NADRA, the national identity authority, and part of the Rescue 112
 
 ## Rival arrest counts
 
-The Peshawar police said 50 "miscreant elements" who "attempted to spread unrest" had been arrested. Samar Haroon Bilour, the province's newly appointed information adviser, put the figure at 42 people linked to the PTI, and said 25 of them were Afghans living in Pakistan illegally. She accused the protesters of destroying public property.
+The Peshawar police said 50 "miscreant elements" who "attempted to spread unrest" had been arrested. Samar Haroon Bilour, the province's newly appointed information adviser, put the figure at **42 people** linked to the PTI, and said 25 of them were Afghans living in Pakistan illegally. She accused the protesters of destroying public property.
 
 ## Shehbaz rallies his partners
 
@@ -84,10 +84,10 @@ In the Senate, PTI parliamentary leader Ali Zafar called governor's rule "a poli
 
 ## A brother in court
 
-Sohail Afridi, the chief minister now sidelined under governor's rule, was taken away on Sunday. His brother, Muhammad Amir, petitioned the Peshawar High Court on Tuesday to trace him, alleging that Afridi was taken from the Chief Minister's House by "unidentified armed and masked individuals" in the presence of the Peshawar police chief. The government has said Afridi and some ministers are in preventive custody.
+Sohail Afridi, the chief minister now sidelined under governor's rule, was taken away on Sunday. His brother, Muhammad Amir, petitioned the **Peshawar High Court** on Tuesday to trace him, alleging that Afridi was taken from the Chief Minister's House by "unidentified armed and masked individuals" in the presence of the Peshawar police chief. The government has said Afridi and some ministers are in preventive custody.
 
 PTI information secretary Sheikh Waqas Akram said the party would challenge the emergency and governor's rule in court. "The long march has not ended. But a historic crackdown against the party has begun," he said.
 
 ## What comes next
 
-The emergency proclamation has to be put before both houses of Parliament within 10 days. Governor's rule goes to a joint sitting and lapses after two months unless approved. The National Assembly meets again at 11 am local time on Wednesday, when Speaker Ayaz Sadiq has said political debate will be allowed.
+The emergency proclamation has to be put before both houses of Parliament within **10 days**. Governor's rule goes to a joint sitting and lapses after two months unless approved. The National Assembly meets again at 11 am local time on Wednesday, when Speaker Ayaz Sadiq has said political debate will be allowed.

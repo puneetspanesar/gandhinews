@@ -42,7 +42,7 @@ verification:
     - "October 17 finish and October 18 flight are Gambhir's words; IANS says the previous series was against West Indies at home and the NZ series began October 22."
 ---
 
-Gautam Gambhir has heard the noise about who plays and who sits out, and he is not going to let it pick his teams. Speaking to broadcasters before Sunday's final T20I against New Zealand in Hamilton, **India's head coach said his task is to make the right decisions**, not the ones that please the most people.
+Gautam Gambhir has heard the noise about who plays and who sits out, and he is not going to let it pick his teams. Speaking to broadcasters before Sunday's final T20I against New Zealand in Hamilton, India's head coach said his task is to **make the right decisions**, not the ones that please the most people.
 
 "First of all, my job is not to make everyone happy," Gambhir said. "My job is to take the right decisions, not the popular decisions. And that is what I'm there for."
 

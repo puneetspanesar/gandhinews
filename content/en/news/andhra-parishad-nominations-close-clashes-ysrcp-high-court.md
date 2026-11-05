@@ -5,7 +5,7 @@ type: news
 section: politics
 format_label: "Politics / Andhra Pradesh"
 topics: [states]
-title: "Andhra rural poll nominations close amid stone-pelting and fasts, YSRCP turns to High Court"
+title: "Andhra rural poll nominations close after stone-pelting and fasts; YSRCP turns to High Court"
 standfirst: "Filing for the mandal and district council polls ended on Friday with clashes in Palnadu, Anantapur and Tirupati. The YSRCP wants more time; the TDP has asked the poll panel to act against Jagan Mohan Reddy's party."
 published: 2026-10-23T23:50:00+05:30
 location: Vijayawada
@@ -22,7 +22,7 @@ hero:
     value: "Last day of filing, stones and fasts"
 related: [andhra-mptc-zptc-nominations-ysrcp-alleges-attacks, jagan-meets-governor-central-forces-cctv-local-body-polls, andhra-sec-halts-urban-local-body-polls-supreme-court-nomination-clashes, supreme-court-andhra-sec-hold-candidate-list-ysrcp-nominations]
 seo:
-  description: "Nominations for Andhra Pradesh's MPTC and ZPTC polls closed on October 23 amid clashes; the YSRCP moved the High Court and the TDP sought SEC action."
+  description: "Nominations for Andhra Pradesh's MPTC and ZPTC polls closed on October 23 after clashes; the YSRCP moved the High Court and the TDP sought SEC action."
 sources:
   - title: "Parishad nominations end amid violence"
     publisher: "The Hans India"
@@ -53,11 +53,11 @@ The worst trouble was in Palnadu district. At Rajupalem, stones thrown at YSRCP 
 
 There were clashes and stone-pelting at Ellanuru and Pedda Vaduguru in Anantapur district, where police used a lathi-charge, and at the Kadapa Zilla Parishad nomination centre. In Kuravapalli in Tirupati district, a car belonging to TDP leader Muttam Prabhakar was set on fire. At Jammalamadugu, unidentified men attacked the car of a candidate on his way to file for the Vaddirala MPTC seat.
 
-Police kept a close hand on YSRCP leaders. Former minister Vidadala Rajini was placed under house arrest in Chilakaluripet, and notices barring rallies and meetings were served at the Pulivendula home of YSRCP MP Avinash Reddy. In Punganur, police booked former Chittoor MP Reddappa and 177 others on a complaint from TDP leader Narayanaswamy; 15 people were arrested and remanded. In Srikalahasti, YSRCP candidates filed under heavy police security, while at Yerragondapalem some left without filing, saying the queue was not moving.
+Police kept a close hand on YSRCP leaders. Former minister Vidadala Rajini was placed under house arrest in Chilakaluripet, and notices barring rallies and meetings were served at the Pulivendula home of YSRCP MP Avinash Reddy. In Punganur, police booked former Chittoor MP Reddappa and 177 others on a complaint from TDP leader Narayanaswamy; **15 people** were arrested and remanded. In Srikalahasti, YSRCP candidates filed under heavy police security, while at Yerragondapalem some left without filing, saying the queue was not moving.
 
 ## The TDP's complaint
 
-The TDP took its own case to the poll panel. Senior leader and MLC Varla Ramaiah met State Election Commissioner Anil Chandra Punetha in Vijayawada with videos and newspaper clippings, and accused YSRCP workers of behaving like "rowdies", attacking police and breaking barricades at eight places. In Macherla, he alleged, former MLA Pinnelli Ramakrishna Reddy led about 300 people armed with stones and sticks against the police.
+The TDP took its own case to the poll panel. Senior leader and MLC Varla Ramaiah met State Election Commissioner Anil Chandra Punetha in Vijayawada with videos and newspaper clippings, and accused YSRCP workers of behaving like "rowdies", attacking police and breaking barricades at eight places. In Macherla, he alleged, former MLA Pinnelli Ramakrishna Reddy led about **300 people** armed with stones and sticks against the police.
 
 Ramaiah asked for stern action and preventive arrests, and told YSRCP chief Y S Jagan Mohan Reddy to contest "not with money and muscle power" but in a "democratic and constitutional manner". The YSRCP has not responded to the complaint.
 

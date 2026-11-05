@@ -81,7 +81,7 @@ verification:
 
 Rahul Gandhi brought a parrot to Ramlila Maidan on Sunday. "The king's life was in the parrot," he told the INDIA bloc rally, "and Modi ji's life is in Gyanesh Kumar." Mallikarjun Kharge promised not to let **"a government of theft"** run. Mamata Banerjee led a chant of "Vote-chori yes papa", casting the Chief Election Commissioner as the BJP's obedient child, and Tejashwi Yadav reached for Shakuni and his loaded dice.
 
-The BJP answered in kind. Before the speeches had even begun, J P Nadda called the gathering "a calculated conspiracy to plunge the nation into anarchy" and said its fourth stage was **"attempting to destabilise an elected government at the behest of foreign powers"**. By evening Sambit Patra was calling Rahul Gandhi "an illegal Leader of Opposition" and the rally a flop show, and party leaders had spent the day reminding Congress of 1984.
+The BJP answered in kind. Before the speeches had even begun, J P Nadda called the gathering "a calculated conspiracy to plunge the nation into anarchy" and said its fourth stage was "attempting to destabilise an elected government at the behest of foreign powers". By evening Sambit Patra was calling Rahul Gandhi "an illegal Leader of Opposition" and the rally a flop show, and party leaders had spent the day reminding Congress of 1984.
 
 It was a long day of good lines. It was a poor day for voters who want to know whether their names are safe on the rolls.
 

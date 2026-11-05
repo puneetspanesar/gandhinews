@@ -124,7 +124,7 @@ Set Saturday against that standard.
 
 The Delhi Police had a real job to do. They say the CJP broke undertakings given at earlier protests. Stones were thrown near Akashvani Bhawan and Connaught Place, and more than 15 police personnel were reported injured. A force that has to keep a capital running is entitled to set conditions, fix routes and act against violence.
 
-What it is not entitled to do is close a city in advance to keep people from arriving. The Metro shutdown hit every commuter in central Delhi, not just marchers. The internet cut fell on everyone within 4 km. Lawyers and journalists were detained doing their work. None of that is "least restrictive".
+What it is not entitled to do is close a city in advance to keep people from arriving. The Metro shutdown hit every commuter in central Delhi, not just marchers. The internet cut fell on everyone within **4 km**. Lawyers and journalists were detained doing their work. None of that is "least restrictive".
 
 ```infographic
 {"title":"The weekend in six numbers","items":[{"icon":"users-three","title":"About 2,000 detained","text":"A Home Ministry official's estimate; counts range from about 1,000 to over 15,000."},{"icon":"map-pin","title":"45 of 303 stations","text":"Metro stations with entry restricted on October 10, by the government's own figure."},{"icon":"wifi-high","title":"4 km","text":"Radius around Jantar Mantar where mobile internet was cut until Saturday night."},{"icon":"file-text","title":"20 FIRs","text":"Registered by Delhi Police over the protest, including one against four men accused of assaulting students."},{"icon":"warning-circle","title":"15+ police hurt","text":"Personnel reported injured in stone-pelting near Akashvani Bhawan and Connaught Place."},{"icon":"gavel","title":"1 Sunday sitting","text":"The Supreme Court sat on a holiday to order Metro, rail and internet back to normal."}]}
@@ -144,7 +144,7 @@ The CJP has its own test to pass. A movement that began as satire, and whose pro
 
 The anger is not really about Jantar Mantar. It is about voter lists. Media counts put the names removed during the Special Intensive Revision at more than 130 million, and two of the Commission's own members are reported to have objected to SIR decisions at least 14 times in ten months. The Commission says the revision removes dead, duplicate and ineligible voters and that its decisions were taken properly.
 
-If that is right, the Commission can prove it. Publishing deletions by constituency and by reason, and the notes its members wrote, would do more to calm the streets than any number of barricades.
+If that is right, the Commission can prove it. Publishing **deletions by constituency** and by reason, and the notes its members wrote, would do more to calm the streets than any number of barricades.
 
 ```timeline
 {"title":"How a meme became a stand-off","items":[{"date":"May 15, 2026","text":"The Chief Justice's 'cockroaches' remark; the CJP starts online soon after."},{"date":"Jul 25, 2026","text":"Education Minister Dharmendra Pradhan resigns after 36 days of NEET protests."},{"date":"Late Sep 2026","text":"Reports of dissent inside the Election Commission; the CJP demands the CEC's resignation."},{"date":"Oct 10, 2026","text":"Metro gates shut, internet cut, thousands detained in Delhi."},{"date":"Oct 11, 2026","text":"Supreme Court orders services restored; CJP leaders released on bonds."},{"date":"Oct 13, 2026","text":"Contempt and detention petitions return to the Supreme Court."}]}

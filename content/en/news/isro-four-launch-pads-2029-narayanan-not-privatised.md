@@ -50,10 +50,10 @@ One of them is taking shape at Kulasekarapattinam in Tamil Nadu's Thoothukudi di
 
 ## Partners, not owners
 
-Narayanan was firm that ISRO would stay a government agency. ISRO would not be privatised, he said, but it would work with private companies and startups to meet the global and domestic demand for satellites, passing on its technical know-how and creating high-skilled jobs in the process.
+Narayanan was firm that ISRO would stay a government agency. ISRO would **not be privatised**, he said, but it would work with private companies and startups to meet the global and domestic demand for satellites, passing on its technical know-how and creating high-skilled jobs in the process.
 
 ## Gaganyaan and the Moon
 
 He repeated that the first uncrewed Gaganyaan test flight is due within about two months, to be followed by two more uncrewed flights before Indians are sent up. ISRO has finished about 8,000 ground experiments for the human spaceflight programme, and four astronaut-designates are in specialised training.
 
-Narayanan also spoke about Chandrayaan-5, the lunar mission India is building with Japan's space agency. It will carry a 350-kg rover meant to run experiments on the Moon's surface for 100 days.
+Narayanan also spoke about Chandrayaan-5, the lunar mission India is building with Japan's space agency. It will carry a 350-kg rover meant to run experiments on the Moon's surface for **100 days**.

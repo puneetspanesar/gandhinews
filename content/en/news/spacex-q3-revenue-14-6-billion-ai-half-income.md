@@ -43,15 +43,15 @@ verification:
     - "SpaceX listing on Nasdaq on June 12, 2026, is from the TechCrunch image caption."
 ---
 
-SpaceX is now, by income, more an artificial intelligence company than a rocket company. The firm reported third-quarter revenue of $14.6 billion on Tuesday, and its AI operations made up 52% of its income, ahead of what investors had expected.
+SpaceX is now, by income, more an artificial intelligence company than a rocket company. The firm reported third-quarter revenue of **$14.6 billion** on Tuesday, and its AI operations made up 52% of its income, ahead of what investors had expected.
 
 Every part of the business grew, but the biggest push came from the line SpaceX has renamed "Super Intelligence". It brings together the Grok chatbot and its agents, the recently acquired Cursor coding tool and a cloud computing business that rents out AI capacity. That cloud arm now runs 1.7 gigawatts of computing power.
 
-Not all of the quarter came from operations. About $1 billion of revenue was tied to the recovery in bitcoin prices, and the results include a related-party income item that may be linked to a SpaceX investment in another company.
+Not all of the quarter came from operations. About **$1 billion** of revenue was tied to the recovery in bitcoin prices, and the results include a related-party income item that may be linked to a SpaceX investment in another company.
 
 ## Spending on the next build-out
 
-SpaceX's capital spending for the quarter came to $19.6 billion. The money is going into Colossus II, its second big data centre project, and into Starship, the heavy-lift rocket the company needs to put up a new generation of Starlink satellites and, eventually, to build data centres in orbit.
+SpaceX's capital spending for the quarter came to **$19.6 billion**. The money is going into Colossus II, its second big data centre project, and into Starship, the heavy-lift rocket the company needs to put up a new generation of Starlink satellites and, eventually, to build data centres in orbit.
 
 The figures, from a company that listed on Nasdaq in June, show how far Elon Musk has tilted the business towards AI. Rockets and satellite internet built SpaceX, but on these numbers they now bring in less than half of its income.
 

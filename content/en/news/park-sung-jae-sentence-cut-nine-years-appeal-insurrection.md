@@ -45,9 +45,9 @@ verification:
     - Nine-year sentence confirmed by Kyunghyang and SBS. Court reasoning from Kyunghyang excerpt only (full text paywalled); reasoning paraphrased, not quoted beyond short phrases. Prosecutors' 20-year demand at first instance per Kyunghyang. Exact ruling time not given; SBS item posted 15:47 KST. Whether the appeal court revisited the Kim Keon-hee-related charge is not reported, so left out.
 ---
 
-A South Korean appeals court on Wednesday cut the prison sentence of former justice minister Park Sung-jae, convicted of taking part in former President Yoon Suk Yeol's short-lived declaration of martial law, from 25 years to nine.
+A South Korean appeals court on Wednesday cut the prison sentence of former justice minister Park Sung-jae, convicted of taking part in former President Yoon Suk Yeol's short-lived declaration of martial law, from **25 years** to nine.
 
-The Seoul High Court's Criminal Division 1, a panel set up to hear insurrection cases and led by Judge Yoon Seong-sik, upheld Park's conviction for participating in an insurrection over the events of December 3, 2024. But it took a narrower view of his role than the Seoul Central District Court, which had handed him a term heavier than the 20 years prosecutors had sought.
+The Seoul High Court's Criminal Division 1, a panel set up to hear insurrection cases and led by Judge Yoon Seong-sik, upheld Park's conviction for participating in an insurrection over the events of December 3, 2024. But it took a narrower view of his role than the Seoul Central District Court, which had handed him a term heavier than the **20 years** prosecutors had sought.
 
 The appeal judges said it was not easy to see Park as having arranged the martial law plan in advance with Yoon and his then defence minister Kim Yong-hyun. They described the instructions he gave to the immigration service and the corrections headquarters that night as preparatory acts. They still found that he had intended to join the insurrection, pointing to his early arrival at the presidential office as one of the so-called "8 a.m. members".
 

@@ -48,21 +48,21 @@ verification:
     - "Filing time on Oct 14 not known; published time set for the evening."
 ---
 
-Jio Platforms, the telecom and digital arm of Mukesh Ambani's Reliance Industries, has set a price band of ₹1,065 to ₹1,119 a share for an initial public offering that is on course to be the largest India has seen.
+Jio Platforms, the telecom and digital arm of Mukesh Ambani's Reliance Industries, has set a price band of **₹1,065 to ₹1,119 a share** for an initial public offering that is on course to be the largest India has seen.
 
-Reliance disclosed the band in a stock exchange filing on Wednesday. Jio will issue up to 270 million new shares, about 2.93% of its enlarged equity. At the top of the band that brings in roughly ₹30,200 crore and values the company at about ₹10.3 lakh crore. Even at the bottom of the range the issue would raise about ₹28,755 crore, more than the ₹27,870 crore Hyundai Motor India collected in October 2024, the current record.
+Reliance disclosed the band in a stock exchange filing on Wednesday. Jio will issue up to 270 million new shares, about **2.93%** of its enlarged equity. At the top of the band that brings in roughly ₹30,200 crore and values the company at about ₹10.3 lakh crore. Even at the bottom of the range the issue would raise about ₹28,755 crore, more than the ₹27,870 crore Hyundai Motor India collected in October 2024, the current record.
 
 ## The timetable
 
 Anchor investors will bid on October 19. The issue opens to the public on October 21 and closes on October 23, with trading expected to begin on October 28. Jio has hired 19 banks for the sale, among them Kotak Mahindra Capital, Morgan Stanley, Bank of America, Axis Capital, BNP Paribas and Citigroup.
 
-Up to ₹2,500 crore of the offer is set aside for eligible shareholders of Reliance Industries. Another ₹500 crore is reserved for employees, who will get a discount of ₹54 a share.
+Up to **₹2,500 crore** of the offer is set aside for eligible shareholders of Reliance Industries. Another ₹500 crore is reserved for employees, who will get a discount of ₹54 a share.
 
 ## Where the money goes
 
-The prospectus says up to ₹27,500 crore will be used to repay debt at Reliance Jio Infocomm, the group's mobile operator. The rest is earmarked for general corporate purposes.
+The prospectus says up to **₹27,500 crore** will be used to repay debt at Reliance Jio Infocomm, the group's mobile operator. The rest is earmarked for general corporate purposes.
 
-The valuation is lower than the roughly ₹11 lakh crore the market had talked about earlier in the year, after a recent sell-off in shares cooled expectations. It is still more than double the ₹4.91 lakh crore at which Jio was valued in 2020, when it raised more than $20 billion from global investors. Meta put in $5.7 billion that year and Google committed $4.5 billion.
+The valuation is lower than the roughly **₹11 lakh crore** the market had talked about earlier in the year, after a recent sell-off in shares cooled expectations. It is still more than double the ₹4.91 lakh crore at which Jio was valued in 2020, when it raised more than $20 billion from global investors. Meta put in $5.7 billion that year and Google committed $4.5 billion.
 
 ## The business behind the listing
 

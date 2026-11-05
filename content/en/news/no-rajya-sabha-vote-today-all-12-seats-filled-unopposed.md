@@ -5,7 +5,7 @@ type: news
 section: politics
 format_label: "Politics / Rajya Sabha"
 topics: [parliament]
-title: "No Rajya Sabha vote on Friday: all 12 seats from UP, Uttarakhand and Bengal went unopposed"
+title: "No Rajya Sabha vote on October 16: all 12 seats from UP, Uttarakhand and Bengal went unopposed"
 standfirst: "Friday was polling day for 11 biennial seats and a Bengal bypoll. With no contest anywhere, the BJP takes 10 seats, the SP two, and the BSP loses its last UP member in the House."
 published: 2026-10-16T07:15:00+05:30
 location: New Delhi
@@ -37,7 +37,7 @@ verification:
     - "Story is a poll-day brief; the results themselves were known on October 9 and are not presented as new."
 ---
 
-Friday was meant to be polling day for 12 Rajya Sabha seats in Uttar Pradesh, Uttarakhand and West Bengal. No MLA will vote. Every seat was settled a week ago, when no contest remained in any of the three states.
+Friday was meant to be polling day for **12 Rajya Sabha seats** in Uttar Pradesh, Uttarakhand and West Bengal. No MLA will vote. Every seat was settled a week ago, when no contest remained in any of the three states.
 
 In Uttar Pradesh, the BJP's eight candidates and the Samajwadi Party's two were declared elected unopposed on October 9 after the nominations of two independents were rejected at scrutiny. Returning Officer Ajit Kumar Verma handed over the certificates that day. With that, the October 16 poll was no longer needed.
 

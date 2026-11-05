@@ -54,15 +54,15 @@ verification:
     - "Share price reaction not available (markets shut Saturday)."
 ---
 
-IDFC First Bank's profit nearly tripled in the July-September quarter from a year earlier, as provisions for bad loans fell and income kept climbing. The private lender's standalone net profit rose to ₹1,044.60 crore from ₹352.31 crore a year ago, according to results its board approved on Saturday.
+IDFC First Bank's profit nearly tripled in the July-September quarter from a year earlier, as provisions for bad loans fell and income kept climbing. The private lender's standalone net profit rose to **₹1,044.60 crore** from ₹352.31 crore a year ago, according to results its board approved on Saturday.
 
-The profit was a little lower than the ₹1,074.96 crore it made in April-June. On a consolidated basis profit was ₹1,049.17 crore, down 8.59% from the previous quarter.
+The profit was a little lower than the **₹1,074.96 crore** it made in April-June. On a consolidated basis profit was ₹1,049.17 crore, down 8.59% from the previous quarter.
 
 ## Lending and margins
 
-Net interest income, the gap between what the bank earns on loans and pays on deposits, rose 21% from a year earlier to ₹6,188 crore, and 3.6% from the previous quarter. Interest earned rose about 20% to ₹11,921.75 crore and total income to ₹14,217.78 crore.
+Net interest income, the gap between what the bank earns on loans and pays on deposits, rose **21%** from a year earlier to ₹6,188 crore, and 3.6% from the previous quarter. Interest earned rose about 20% to ₹11,921.75 crore and total income to ₹14,217.78 crore.
 
-Loans and advances grew 30.1% to ₹3,46,913 crore, a figure that includes credit substitutes and loans backed by foreign-currency deposits. Deposits grew 25.9% to ₹3,48,583 crore and rose 11.8% in the quarter alone.
+Loans and advances grew **30.1%** to ₹3,46,913 crore, a figure that includes credit substitutes and loans backed by foreign-currency deposits. Deposits grew 25.9% to ₹3,48,583 crore and rose 11.8% in the quarter alone.
 
 Managing director and chief executive V Vaidyanathan pointed to costs growing more slowly than income. "Opex growth lagged income growth by 500 bps for two quarters, cost-to-income continues to fall and ROA is near 1 per cent," he said.
 
@@ -74,7 +74,7 @@ The capital adequacy ratio stood at 14.67%, down from 15.05% at the end of June 
 
 ## The foreign-currency deposit rush
 
-The quarter's most striking number was on the liabilities side. IDFC First raised more than ₹34,000 crore through FCNR(B) deposits, the foreign-currency fixed deposits that non-resident Indians hold with Indian banks. That pulled down the share of low-cost current and savings accounts in total deposits to 48.4% from 50.1%.
+The quarter's most striking number was on the liabilities side. IDFC First raised more than **₹34,000 crore** through FCNR(B) deposits, the foreign-currency fixed deposits that non-resident Indians hold with Indian banks. That pulled down the share of low-cost current and savings accounts in total deposits to 48.4% from 50.1%.
 
 Vaidyanathan said the trade-off was worth it. "Raising over Rs 34,000 crore FCNR(B) deposits gives us 3-5 year liquidity at 1 per cent lower cost than domestic deposits," he said.
 

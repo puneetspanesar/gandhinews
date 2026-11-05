@@ -47,7 +47,7 @@ verification:
 
 The BCCI has denied that India's first one-day international against Sri Lanka will be moved out of Delhi. Secretary Devajit Saikia said on Monday that reports of the December 13 match going to Ahmedabad were wrong.
 
-The reports had linked the move to construction work under way at the Arun Jaitley Stadium. Saikia said the board had made no such call, and that bilateral matches are allotted to venues under its standard policy.
+The reports had linked the move to **construction work** under way at the Arun Jaitley Stadium. Saikia said the board had made no such call, and that bilateral matches are allotted to venues under its standard policy.
 
 > Reports suggesting that the India-Sri Lanka ODI match scheduled in Delhi may be shifted to Ahmedabad are not accurate. There has been no such decision by the BCCI.
 >

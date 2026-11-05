@@ -42,16 +42,16 @@ verification:
     - "Strongest close since Sep 4 (94.43 that day) per PTI."
 ---
 
-The rupee closed at its strongest level in six weeks on Wednesday, rising 53 paise to 94.38 against the dollar as foreign investors brought in money to bid for the Jio Platforms share sale.
+The rupee closed at its strongest level in six weeks on Wednesday, rising **53 paise** to 94.38 against the dollar as foreign investors brought in money to bid for the Jio Platforms share sale.
 
 The currency opened at 94.78, against Monday's close of 94.91, and moved between 94.35 and 94.82 during the day. It was the best close since September 4. The foreign exchange market was shut on Tuesday for Dussehra.
 
 Analysts said the Reserve Bank of India also stepped in. Gaurav Garg, head of research at Lemonn, said the central bank had acted to reduce spot-market dollar demand from oil companies and to manage excessive swings. "Foreign investors participating in large IPOs typically sell dollars to acquire rupees," he said.
 
-The ₹30,213 crore Jio Platforms issue, the largest in India, was fully subscribed within 100 minutes of opening on Wednesday. It closes on Friday.
+The ₹30,213 crore **Jio Platforms** issue, the largest in India, was fully subscribed within 100 minutes of opening on Wednesday. It closes on Friday.
 
 "The rupee rose to a six-week high on IPO-driven foreign inflows and a relatively weak US dollar," said Anuj Choudhary, research analyst at Mirae Asset Sharekhan. He expects the currency to trade between 94.20 and 94.80.
 
-The gains came despite a weak stock market and costlier oil. Brent crude futures rose 1.99% to $110.96 a barrel during Indian trading hours, and the Sensex fell 143.21 points. Foreign institutional investors bought shares worth ₹1,022.32 crore on the day, according to exchange data.
+The gains came despite a weak stock market and costlier oil. Brent crude futures rose **1.99%** to $110.96 a barrel during Indian trading hours, and the Sensex fell 143.21 points. Foreign institutional investors bought shares worth ₹1,022.32 crore on the day, according to exchange data.
 
 Garg cautioned that with Brent above $110 on tension in West Asia, the recovery would be hard to hold. Whether it lasts, he said, depends on IPO inflows, the RBI, crude prices, foreign portfolio flows and the dollar.

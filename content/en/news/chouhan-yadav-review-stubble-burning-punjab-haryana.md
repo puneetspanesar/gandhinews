@@ -42,15 +42,15 @@ Agriculture Minister Shivraj Singh Chouhan and Environment Minister Bhupender Ya
 
 ## Where the numbers stand
 
-Between September 15 and October 12, burning incidents dropped 53.3% in Haryana and about 32% in Uttar Pradesh compared with the same period last year. Punjab recorded a smaller fall. Madhya Pradesh and Rajasthan reported increases, which the ministers flagged as a concern.
+Between September 15 and October 12, burning incidents dropped **53.3%** in Haryana and about 32% in Uttar Pradesh compared with the same period last year. Punjab recorded a smaller fall. Madhya Pradesh and Rajasthan reported increases, which the ministers flagged as a concern.
 
 Chouhan told the two states to identify the affected districts and villages and start special action plans at once. States doing better were told not to relax, since a large part of the crop is yet to be cut.
 
 ## Machines in the field
 
-The Centre has supplied more than 3.54 lakh crop residue management machines to states, including 26,109 this year. Chouhan said telling farmers not to burn straw is not enough on its own, and that the machines have to run in the fields and not just exist on paper. He asked for idle machines to be repaired and custom hiring centres to offer them at affordable rates to small and marginal farmers.
+The Centre has supplied more than **3.54 lakh** crop residue management machines to states, including 26,109 this year. Chouhan said telling farmers not to burn straw is not enough on its own, and that the machines have to run in the fields and not just exist on paper. He asked for idle machines to be repaired and custom hiring centres to offer them at affordable rates to small and marginal farmers.
 
-He also pushed Punjab to send its utilisation certificate quickly so the next instalment can be released. Of ₹592.57 crore allocated for 2026-27, ₹430.87 crore has been released, and the meeting noted that states were slow to spend it.
+He also pushed Punjab to send its utilisation certificate quickly so the next instalment can be released. Of ₹592.57 crore allocated for 2026-27, **₹430.87 crore** has been released, and the meeting noted that states were slow to spend it.
 
 ```chart
 {"type":"hbar","title":"Crop residue scheme funds, 2018-19 to 2025-26","unit":"₹ crore","data":[{"label":"Punjab","value":2056.5,"highlight":true},{"label":"Haryana","value":1171.71},{"label":"Uttar Pradesh","value":868.67},{"label":"Madhya Pradesh","value":59}]}

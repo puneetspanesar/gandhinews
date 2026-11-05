@@ -41,8 +41,8 @@ A division bench of Justices Girish S Kulkarni and Neela K Gokhale extended an o
 
 "You [authorities] have no control over burning firecrackers," the bench told the state. "The problem is the non-following of law."
 
-The court made clear that it has not banned the manufacture or sale of firecrackers. The order is about where they are burst.
+The court made clear that it has **not banned the manufacture or sale** of firecrackers. The order is about where they are burst.
 
-It directed the Maharashtra government, the Brihanmumbai Municipal Corporation and the Maharashtra Pollution Control Board to issue joint public notices on the harm caused by crackers and to run awareness campaigns in schools and on public transport within a week. The authorities were also told to enlist celebrities to spread the message, promote low-emission green crackers and set up a working complaint system with the police so that residents can report violations.
+It directed the Maharashtra government, the Brihanmumbai Municipal Corporation and the Maharashtra Pollution Control Board to issue joint public notices on the harm caused by crackers and to run awareness campaigns in schools and on public transport **within a week**. The authorities were also told to enlist celebrities to spread the message, promote low-emission green crackers and set up a working complaint system with the police so that residents can report violations.
 
 With Diwali less than a month away, the order puts the burden on police and civic bodies to keep celebrations off the roads in Mumbai and other cities in the state.

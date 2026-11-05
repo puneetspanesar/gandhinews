@@ -43,7 +43,7 @@ Chief executive Ben Lamm called it a "treasure map for the dodo genome". GenoMor
 
 ## Working from one genome
 
-The dodo is a harder case than Colossal's woolly mammoth project. Colossal has about 100 mammoth genomes but only one from the dodo, because DNA survives poorly in the tropical conditions where the bird lived. GenoMorph was trained on developmental data from chickens, quail, ducks and pigeons, and on genetic data and skull measurements from more than 70 bird species. It took more than a year to build.
+The dodo is a harder case than Colossal's woolly mammoth project. Colossal has about 100 mammoth genomes but **only one** from the dodo, because DNA survives poorly in the tropical conditions where the bird lived. GenoMorph was trained on developmental data from chickens, quail, ducks and pigeons, and on genetic data and skull measurements from more than 70 bird species. It took more than a year to build.
 
 Colossal also described a lipid nanoparticle system to deliver gene-editing tools into developing bird embryos, so its scientists do not have to wait for birds to reach breeding age. Its colony of Nicobar pigeons, the dodo's closest living relative, has grown to 36, and it has produced the cells that develop into eggs and sperm.
 

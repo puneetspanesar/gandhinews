@@ -56,13 +56,13 @@ verification:
 
 Bengali is mandatory for official work at every level of the West Bengal government from September 1, 2026, under a rule Chief Minister Suvendu Adhikari announced in the Legislative Assembly on July 20.
 
-"From September 1, the use of the Bengali language will be mandatory at every level of the state government," Adhikari said, according to PTI. The BJP had ended the Trinamool Congress's 15-year rule in the state about two and a half months before the announcement, PTI noted.
+"From September 1, the use of the Bengali language will be mandatory at every level of the state government," Adhikari said. The BJP had ended the Trinamool Congress's 15-year rule in the state about two and a half months before the announcement.
 
 ## What the order covers
 
-According to PTI, the rule covers file notings, departmental correspondence, government notifications, citizen services and communication with the Centre. Letters to the Union government will go in Bengali along with Rajbhasha Hindi. Outlook India reported that such correspondence has so far been mostly in English.
+The rule covers file notings, departmental correspondence, government notifications, citizen services and communication with the Centre. Letters to the Union government will go in Bengali along with Rajbhasha Hindi. Such correspondence has so far been mostly in English.
 
-Adhikari also urged police and law-and-order services to use Bengali for registering FIRs and complaints, for citizen information and for public safety and awareness messages, ANI reported.
+Adhikari also urged police and law-and-order services to use Bengali for registering FIRs and complaints, for citizen information and for public safety and awareness messages.
 
 ```facts
 {"title":"Bengali in West Bengal's administration","items":[{"value":"July 20, 2026","label":"Adhikari announces the rule in the Assembly","source":"PTI"},{"value":"September 1, 2026","label":"Bengali mandatory at every level of state government","source":"PTI; ANI"},{"value":"Bengali + Hindi","label":"languages for letters to the Union government","source":"PTI"}]}
@@ -70,24 +70,24 @@ Adhikari also urged police and law-and-order services to use Bengali for registe
 
 ## Amit Shah's letter
 
-Adhikari announced the decision by reading out a letter, written in Bengali, from Union Home Minister Amit Shah. Shah urged wide use of Bengali in land records, public services, digital administration and advertisements, and suggested Bengali and Hindi in place of English for dealings with the Centre, PTI reported. Adhikari said the state had accepted the suggestions.
+Adhikari announced the decision by reading out a letter, written in Bengali, **from Union Home Minister Amit Shah**. Shah urged wide use of Bengali in land records, public services, digital administration and advertisements, and suggested Bengali and Hindi in place of English for dealings with the Centre. Adhikari said the state had accepted the suggestions.
 
-The letter invoked Syama Prasad Mookerjee, founder of the Bharatiya Jana Sangh, whose 125th birth anniversary fell on July 6. ANI reported that the move fulfils a commitment in the Bengal BJP's manifesto to promote the Bengali language.
+The letter invoked Syama Prasad Mookerjee, founder of the Bharatiya Jana Sangh, whose 125th birth anniversary fell on July 6. The move fulfils a commitment in the Bengal BJP's manifesto to promote the Bengali language.
 
 ## Reactions across parties
 
-"It took 75 years to make Bengali language mandatory in West Bengal," BJP state spokesperson Debjit Sarkar said, according to The Week. He asked critics who speak of "saffronisation" to consider the decision.
+"It took 75 years to make Bengali language mandatory in West Bengal," BJP state spokesperson Debjit Sarkar said. He asked critics who speak of "saffronisation" to consider the decision.
 
-Trinamool MLA Kunal Ghosh, from the Mamata Banerjee camp, called the move largely symbolic. "You cannot become pro-Bengali merely by issuing a notification," he said, according to PTI. He questioned how judges transferred from outside the state would function entirely in Bengali.
+Trinamool MLA Kunal Ghosh, from the Mamata Banerjee camp, called the move largely symbolic. "You cannot become pro-Bengali merely by issuing a notification," he said. He questioned how judges transferred from outside the state would function entirely in Bengali.
 
-Santanu Sen, from the breakaway Trinamool group led by Leader of the Opposition Ritabrata Banerjee, welcomed the decision. "As a Bengali, I feel proud," he said, according to PTI.
+Santanu Sen, from the breakaway Trinamool group led by Leader of the Opposition Ritabrata Banerjee, welcomed the decision. "As a Bengali, I feel proud," he said.
 
-State Congress president Shubhankar Sarkar welcomed the move but said Bengali needed development in classical and modern forms, including textbooks in subjects such as medicine and law, The Week reported. CPI(M) leader Rabin Deb called it a good step if the government kept its promises, but said the BJP was pursuing an RSS agenda across the country.
+State Congress president Shubhankar Sarkar welcomed the move but said Bengali needed development in classical and modern forms, including textbooks in subjects such as medicine and law. CPI(M) leader Rabin Deb called it a good step if the government kept its promises, but said the BJP was pursuing an RSS agenda across the country.
 
 ## Questions of practice
 
-Linguist Pabitra Sarkar, a former vice-chancellor of Rabindra Bharati University, welcomed the decision. "This is something that had long been promised but never fully implemented," he said, according to PTI. He said Nepali in the Darjeeling hills and Santhali in Jangalmahal should get equal administrative importance, and told The Week that government staff would need training and that the change could not happen overnight.
+Linguist Pabitra Sarkar, a former vice-chancellor of Rabindra Bharati University, welcomed the decision. "This is something that had long been promised but never fully implemented," he said. He said Nepali in the Darjeeling hills and Santhali in Jangalmahal should get equal administrative importance, and said that government staff would need training and that the change could not happen overnight.
 
-Political scientist Biswanath Chakraborty said the BJP wanted to neutralise an issue that had helped the Trinamool. "So far, the TMC projected itself as the custodian of Bengali identity," he said, according to PTI. Assembly Speaker Rathindra Bose said efforts to increase the use of Bengali in the legislature had already begun.
+Political scientist Biswanath Chakraborty said the BJP wanted to neutralise an issue that had helped the Trinamool. "So far, the TMC projected itself as the custodian of Bengali identity," he said. Assembly Speaker Rathindra Bose said efforts to increase the use of Bengali in the legislature had already begun.
 
 Gandhi News could not confirm from an official source how far the rule is being applied in government offices since September 1.

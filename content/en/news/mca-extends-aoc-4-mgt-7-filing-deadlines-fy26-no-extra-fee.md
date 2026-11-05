@@ -12,7 +12,7 @@ location: New Delhi
 keyPoints:
   - "Companies can file FY26 financial statements on Form AOC-4 until **December 31, 2026** without additional fees."
   - "The deadline for annual returns on Forms MGT-7 and MGT-7A moves to **January 31, 2027**."
-  - "The relief **does not extend the deadline for holding annual general meetings**."
+  - "The relief **does not extend the deadline** for holding annual general meetings."
 hero:
   need: "Shastri Bhawan in New Delhi, which houses the Ministry of Corporate Affairs"
   suggested_source: "Shastri Bhawan Rajendra Prasad Road"

@@ -39,7 +39,7 @@ verification:
 
 An airline captain who was attacked by his co-pilot in the cockpit of a flydubai jet has described the moment he was struck from behind, and the crew who, he said, saved his life.
 
-Captain Smit Machchhar was flying flight FZ1073 from Dubai to Tel Aviv on September 30 when the attack happened. Speaking from Zayed Military Hospital in Abu Dhabi, where he is recovering, he gave the fullest account yet of what happened on the flight deck.
+Captain Smit Machchhar was flying **flight FZ1073** from Dubai to Tel Aviv on September 30 when the attack happened. Speaking from Zayed Military Hospital in Abu Dhabi, where he is recovering, he gave the fullest account yet of what happened on the flight deck.
 
 ## "And that's when it started"
 

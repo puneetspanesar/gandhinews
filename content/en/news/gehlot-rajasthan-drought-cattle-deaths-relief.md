@@ -36,12 +36,12 @@ verification:
     - "Cattle deaths and fodder prices are Gehlot's claims; no government response found. Government reaction not reported."
 ---
 
-Former Rajasthan Chief Minister Ashok Gehlot on Sunday accused the state's BJP government of failing to grasp how badly drought had hit the western districts, and claimed that thousands of cows had died in Jaisalmer because of a shortage of fodder and water.
+Former Rajasthan Chief Minister Ashok Gehlot on Sunday accused the state's BJP government of failing to grasp how badly drought had hit the western districts, and claimed that **thousands of cows** had died in Jaisalmer because of a shortage of fodder and water.
 
-"The state is facing a severe drought, but the government has not yet realised how serious it is," Gehlot told reporters at his Jaipur residence before leaving for Jaisalmer. He said the situation was especially worrying in Jaisalmer, Bikaner, Barmer and Jodhpur, and that fodder now cost as much as ₹20 a kg.
+"The state is facing a severe drought, but the government has not yet realised how serious it is," Gehlot told reporters at his Jaipur residence before leaving for Jaisalmer. He said the situation was especially worrying in Jaisalmer, Bikaner, Barmer and Jodhpur, and that fodder now cost as much as **₹20 a kg**.
 
 He asked why the government was not turning to the Centre for help. "It is a BJP 'double engine' government. Why is it not going to the Central government for assistance?" he said. Chief Ministers of other states were visiting drought-hit areas, he added, while Rajasthan's government seemed unaware of what villagers were going through.
 
 Gehlot asked the Chief Minister to monitor the situation personally. He demanded that the girdawari, the official assessment of crop damage, be completed quickly so that relief work could start, that fodder and drinking water be arranged for animals, that cattle relief camps be opened and that work be provided in affected villages. He warned that dams were drying up, putting both drinking water and irrigation at risk.
 
-"Long speeches and announcements will not solve the problem," he said. He recalled that his own government had started drought relief on August 16 during his term, and that it ran for 10 to 11 months.
+"Long speeches and announcements will not solve the problem," he said. He recalled that his own government had started drought relief on August 16 during his term, and that it ran for 10 to **11 months**.

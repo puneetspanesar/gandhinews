@@ -43,7 +43,7 @@ verification:
     - "India paragraph rests on the existing Gandhi News stories of October 21 and 22 (Matarbari link to northeast India; BIG-B re-inclusion)."
 ---
 
-Japan is preparing to commit one trillion yen, about $6.35 billion, to Bangladesh's private sector over five years, with the announcement expected when Prime Minister Tarique Rahman meets Sanae Takaichi in Tokyo next week.
+Japan is preparing to commit one trillion yen, about **$6.35 billion**, to Bangladesh's private sector over five years, with the announcement expected when Prime Minister Tarique Rahman meets Sanae Takaichi in Tokyo next week.
 
 The money is meant for car making and other manufacturing, power and energy projects, and the Bangladesh Special Economic Zone being built with the Japanese trading house Sumitomo Corporation. It was first reported in Japan on Thursday and is expected to be set out in a joint statement after the summit. Neither government has confirmed the figure.
 
@@ -53,6 +53,6 @@ Tarique Rahman leaves for a four-day visit on Monday, October 26, at Takaichi's 
 
 Foreign Secretary Asad Alam Siam said on Friday that about eight documents were being prepared, covering agriculture, fisheries, skills training, civil aviation, trade and the environment. "We hope that many of these MoUs will be signed during the visit," he said.
 
-He made clear that money would be on the agenda. Costs on two Japanese-backed metro lines in Dhaka have climbed steeply, by 83% for MRT Line-1 and 113% for MRT Line-5, and Siam said "these infrastructure cooperation issues will certainly come up during the bilateral meeting between the two prime ministers". He added: "We want to obtain loans at lower interest rates from all countries."
+He made clear that money would be on the agenda. Costs on two Japanese-backed metro lines in Dhaka have climbed steeply, by **83%** for MRT Line-1 and 113% for MRT Line-5, and Siam said "these infrastructure cooperation issues will certainly come up during the bilateral meeting between the two prime ministers". He added: "We want to obtain loans at lower interest rates from all countries."
 
 For India, the visit matters because Tokyo sees the Japanese-built Matarbari deep-sea port as a possible outlet for the northeastern states, and has been reported to want India brought back into its Bay of Bengal growth plan for the region.

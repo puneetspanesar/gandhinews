@@ -59,11 +59,11 @@ TSMC said the area fell within the contractor's scope of work and that it had st
 
 ## A plant at the heart of the 2nm push
 
-Fab 22 is one of the most important sites in the global chip industry. TSMC began high-volume production on its 2-nanometre process there in the last quarter of 2025, and the complex is planned in five phases with total investment of more than NT$1.5 trillion (about $46 billion). Kaohsiung's deputy mayor has said Phase 4 construction began in August 2025, with operations expected in the last quarter of 2027.
+Fab 22 is one of the most important sites in the global chip industry. TSMC began high-volume production on its 2-nanometre process there in the last quarter of 2025, and the complex is planned in five phases with total investment of more than NT$1.5 trillion (about **$46 billion**). Kaohsiung's deputy mayor has said Phase 4 construction began in August 2025, with operations expected in the last quarter of 2027.
 
-The accident comes days after TSMC reported a 69 per cent jump in quarterly profit on the back of demand for its most advanced chips. To keep up, the company has sharply increased the number of plants it builds each year, crowding more workers and overlapping projects onto its sites.
+The accident comes days after TSMC reported a **69 per cent** jump in quarterly profit on the back of demand for its most advanced chips. To keep up, the company has sharply increased the number of plants it builds each year, crowding more workers and overlapping projects onto its sites.
 
-Cliff Hou, TSMC's senior vice president and deputy co-chief operating officer, has acknowledged that this raises the risk. He said earlier this year that the contractor lost-time injury rate had fallen by about 42 per cent from its peak, and the company has made a contractor's safety record a criterion for winning work.
+Cliff Hou, TSMC's senior vice president and deputy co-chief operating officer, has acknowledged that this raises the risk. He said earlier this year that the contractor lost-time injury rate had fallen by about **42 per cent** from its peak, and the company has made a contractor's safety record a criterion for winning work.
 
 Several earlier accidents at TSMC construction sites in Taiwan since September 2024 have each killed one worker. Tuesday's collapse is the worst so far.
 

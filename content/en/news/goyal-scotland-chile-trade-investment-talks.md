@@ -38,14 +38,14 @@ verification:
 
 Commerce and Industry Minister Piyush Goyal held separate meetings on Wednesday with Scotland's First Minister, John Swinney, and a Chilean delegation led by former President Eduardo Frei, as India works to make use of its new trade agreements and close new ones.
 
-With Swinney, the talks centred on what the India-UK Comprehensive Economic and Trade Agreement (CETA) opens up, particularly in semiconductors, renewable energy, data centres and other technology-led sectors. "We held productive discussions on advancing the India–Scotland economic and trade partnership," Goyal wrote on X afterwards. The two also discussed higher education, science, space, tourism and links between industries in both countries.
+With Swinney, the talks centred on what the India-UK Comprehensive Economic and Trade Agreement (CETA) opens up, particularly in semiconductors, renewable energy, data centres and other technology-led sectors. "We held productive discussions on advancing the India-Scotland economic and trade partnership," Goyal wrote on X afterwards. The two also discussed higher education, science, space, tourism and links between industries in both countries.
 
-The CETA came into force on July 15, 2026. The Commerce Ministry says it gives nearly 99% of India's exports zero-duty access to the British market.
+The CETA came into force on July 15, 2026. The Commerce Ministry says it gives nearly **99%** of India's exports zero-duty access to the British market.
 
 ## Chile talks
 
 Frei, who now serves as Chile's Ambassador on a Special Mission, came with Chilean officials and representatives of CAF, the Development Bank of Latin America and the Caribbean. Goyal said they "exchanged views on strengthening India-Chile economic ties and exploring new avenues for trade".
 
-India and Chile are negotiating a Comprehensive Economic Partnership Agreement to build on their existing preferential trade agreement. In a statement on August 30, the ministry said both sides were aiming to conclude the talks by the end of 2026, with access to critical and strategic minerals a priority.
+India and Chile are negotiating a Comprehensive Economic Partnership Agreement to build on their existing preferential trade agreement. In a statement on August 30, the ministry said both sides were aiming to conclude the talks by the **end of 2026**, with access to critical and strategic minerals a priority.
 
 Neither meeting produced any announced investment commitment or agreement.

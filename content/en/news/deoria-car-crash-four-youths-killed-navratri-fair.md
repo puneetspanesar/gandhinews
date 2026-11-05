@@ -37,7 +37,7 @@ verification:
 
 Four young men returning from a Navratri fair were killed and three others injured when their car crashed into a tree on the Kasya-Deoria road in eastern Uttar Pradesh late on Monday night.
 
-The car was travelling at high speed when the driver, the son of a village head, lost control near Ramabhar bridge, about 15 km from the Deoria district headquarters, police said. Eight people had set out in the car; one got off along the way.
+The car was travelling at **high speed** when the driver, the son of a village head, lost control near Ramabhar bridge, about 15 km from the Deoria district headquarters, police said. Eight people had set out in the car; one got off along the way.
 
 The impact crushed the vehicle, and rescuers had to use a gas cutter to pull the bodies from the wreckage.
 

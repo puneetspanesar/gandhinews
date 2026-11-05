@@ -62,7 +62,7 @@ verification:
 
 Peshawar buried its children on Thursday, hours after the roof of a private school fell in on morning classes, as police arrested the school's owner and the provincial government began asking who had allowed the building to stay open.
 
-Lady Reading Hospital spokesperson Muhammad Asim confirmed that 30 students and a female teacher were killed at the Al-Khair school. Other counts given by officials on Thursday were higher, as many as 35. The hospital received 61 people, and 30 were sent home after treatment. Some of the injured were in critical condition, and the children who died were mostly between six and 14.
+Lady Reading Hospital spokesperson Muhammad Asim confirmed that **30 students** and a female teacher were killed at the Al-Khair school. Other counts given by officials on Thursday were higher, as many as 35. The hospital received 61 people, and 30 were sent home after treatment. Some of the injured were in critical condition, and the children who died were mostly between six and 14.
 
 Funeral prayers were held in the city, attended by Governor Faisal Karim Kundi, who is running Khyber Pakhtunkhwa under governor's rule, and hundreds of mourners, many of them relatives of the dead.
 

@@ -70,9 +70,9 @@ Seven state assemblies are due for elections in 2027. Manipur, Goa, Punjab, Utta
 
 ## Where things stand
 
-No schedule has been announced as of October 11. The groundwork is visible: census enumeration in Uttar Pradesh, Punjab, Goa and non-snowbound Uttarakhand was moved to December 1, 2026, to January 4, 2027, in states ETV Bharat described as likely to go to the polls early next year. The Special Intensive Revision of rolls is complete in Uttar Pradesh, Goa and Manipur; Punjab and Uttarakhand await final rolls. In the October 6 bypolls, each seat went to the party governing that state.
+No schedule has been announced as of October 11. The groundwork is visible: census enumeration in Uttar Pradesh, Punjab, Goa and non-snowbound Uttarakhand was moved to December 1, 2026, to January 4, 2027, in states likely to go to the polls early next year. The Special Intensive Revision of rolls is complete in Uttar Pradesh, Goa and Manipur; Punjab and Uttarakhand await final rolls. In the October 6 bypolls, each seat went to the party governing that state.
 
-Parties have begun preparing. In Uttar Pradesh, BJP president Nitin Nabin met about 65 state in-charges and co-in-charges at the end of September, with meetings planned in Lucknow and Mathura in early October, ANI reported. Senior Samajwadi Party and Congress leaders have stressed alliance unity, though MPs from each party have backed different leaders as its face (PTI). In Punjab, talk of a Shiromani Akali Dal and BJP tie-up after Sukhbir Badal met the Prime Minister on August 7 remains unconfirmed; the Punjab BJP chief says the party will contest all 117 seats alone.
+Parties have begun preparing. In Uttar Pradesh, BJP president Nitin Nabin met about 65 state in-charges and co-in-charges at the end of September, with meetings planned in Lucknow and Mathura in early October. Senior Samajwadi Party and Congress leaders have stressed alliance unity, though MPs from each party have backed different leaders as its face. In Punjab, talk of a Shiromani Akali Dal and BJP tie-up after Sukhbir Badal met the Prime Minister on August 7 remains unconfirmed; the Punjab BJP chief says the party will contest all 117 seats alone.
 
 ```timeline
 {"title":"Key dates","items":[{"date":"Dec 1, 2026, to Jan 4, 2027","text":"Census enumeration in UP, Punjab, Goa and non-snowbound Uttarakhand."},{"date":"Mar 13, 2027","text":"Manipur Assembly's term ends."},{"date":"Mar 14, 2027","text":"Goa Assembly's term ends."},{"date":"Mar 16, 2027","text":"Punjab Assembly's term ends."},{"date":"Mar 28, 2027","text":"Uttarakhand Assembly's term ends."},{"date":"May 22, 2027","text":"Uttar Pradesh Assembly's term ends."},{"date":"Jul 2027","text":"President's term ends."},{"date":"Nov to Dec 2027","text":"Himachal Pradesh and Gujarat expected to vote."}]}
@@ -91,7 +91,7 @@ Reports expect it, before Manipur's term ends on March 13. The Election Commissi
 The Representation of the People Act lets the Commission notify polls up to six months before a term ends.
 
 **Why was the census moved?**
-The Registrar General's notification brought the count forward in four of the five poll-bound states. ETV Bharat linked the change to the polls expected early next year; no official reason was given in the reports we read.
+The Registrar General's notification brought the count forward in four of the five poll-bound states. The change has been linked to the polls expected early next year; no official reason was given.
 
 **When do Himachal Pradesh and Gujarat vote?**
 Late 2027. Himachal's assembly first met on December 22, 2022, and Gujarat's MLAs took oath on December 19, 2022, so both five-year terms run into December 2027. Track every date in our [election calendar](/en/tracker/election-calendar).

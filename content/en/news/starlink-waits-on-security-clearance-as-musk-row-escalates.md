@@ -106,9 +106,9 @@ The row soon turned political. Leader of the Opposition Rahul Gandhi wrote: "Wel
 
 ## Why security is the sticking point
 
-Satellite broadband sends internet from satellites to a small dish at the user's home, which is why it is pitched for remote and poorly served areas. But the traffic still has to come down to earth stations on Indian soil, called gateways, that link the satellite network to Indian telecom networks. That is where the government wants control. Telecom department guidelines issued in May ask operators for real-time traffic monitoring, data centres inside India, and at least 20% locally made ground equipment within five years of starting service.
+Satellite broadband sends internet from satellites to a small dish at the user's home, which is why it is pitched for remote and poorly served areas. But the traffic still has to come down to earth stations on Indian soil, called gateways, that link the satellite network to Indian telecom networks. That is where the government wants control. Telecom department guidelines issued in May ask operators for real-time traffic monitoring, data centres inside India, and at least **20%** locally made ground equipment within five years of starting service.
 
-Lauren Dreyer, vice-president of Starlink business operations at SpaceX, told the congress that 20 gateway sites with hundreds of antennas were ready. "We have built our Starlink operations specifically for India in recognition of Indian security requirements," she said. "We are standing ready to serve India once India is ready."
+Lauren Dreyer, vice-president of Starlink business operations at SpaceX, told the congress that **20 gateway sites** with hundreds of antennas were ready. "We have built our Starlink operations specifically for India in recognition of Indian security requirements," she said. "We are standing ready to serve India once India is ready."
 
 ## What happens next
 

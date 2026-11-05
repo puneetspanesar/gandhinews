@@ -36,11 +36,11 @@ verification:
     - "Upadhyay quote: release does not make clear whether he was present at Varanasi; phrased as 'said'."
 ---
 
-The Centre for Development of Telematics (C-DOT), the Department of Telecommunications' research centre, has opened its sixth centre of excellence at IIT (BHU) in Varanasi to work on the next generation of mobile networks, the Communications Ministry said on Friday.
+The Centre for Development of Telematics (C-DOT), the Department of Telecommunications' research centre, has opened its sixth centre of excellence at **IIT (BHU)** in Varanasi to work on the next generation of mobile networks, the Communications Ministry said on Friday.
 
 The two signed a memorandum of understanding, after which the centre was inaugurated. The signing was attended by Pankaj Kumar Dalela, an executive vice-president of C-DOT, and Professor Amit Patra, director of the institute.
 
-The centre will work on wireless communications, quantum technology, cybersecurity and AI-driven networks. Its research list includes 5G Advanced and 6G, very large multiple-input multiple-output (MIMO) antenna systems, integrated sensing and communication, AI-native networks and devices, and quantum and post-quantum communication. Researchers, faculty, students and technology experts from both sides will work on joint projects, with the aim of building technology at home for the country's digital and communication infrastructure.
+The centre will work on wireless communications, quantum technology, cybersecurity and AI-driven networks. Its research list includes **5G Advanced and 6G**, very large multiple-input multiple-output (MIMO) antenna systems, integrated sensing and communication, AI-native networks and devices, and quantum and post-quantum communication. Researchers, faculty, students and technology experts from both sides will work on joint projects, with the aim of building technology at home for the country's digital and communication infrastructure.
 
 "This Centre of Excellence is more than a research platform, it is an investment in India's future technology capabilities," said Rajkumar Upadhyay, chief executive of C-DOT.
 

@@ -43,11 +43,11 @@ verification:
     - "No squads or quotes found."
 ---
 
-Delhi need to bounce back quickly. Days after losing by nine wickets to Bengal at Kalyani, a result that left them without a point, Ayush Badoni's side host Gujarat, the Group C leaders, in the second round of the Ranji Trophy at Palam B Stadium from 9:30 am on Sunday.
+Delhi need to bounce back quickly. Days after losing by nine wickets to Bengal at Kalyani, a result that left them without a point, Ayush Badoni's side host Gujarat, the Group C leaders, in the second round of the Ranji Trophy at **Palam B Stadium** from 9:30 am on Sunday.
 
-Badoni did his best to hold Delhi together in the opening defeat. The captain took 5 for 43 with the ball and made 85 off 134 balls in the second innings, but Delhi were bowled out for 240 and 277, well short of what was needed after Bengal had piled up 429 in their first innings.
+Badoni did his best to hold Delhi together in the opening defeat. The captain **took 5 for 43** with the ball and made 85 off 134 balls in the second innings, but Delhi were bowled out for 240 and 277, well short of what was needed after Bengal had piled up 429 in their first innings.
 
-Gujarat, led by Chintan Gaja, arrive in good shape. Their bowlers dismissed Odisha for 161 in the second innings as they won their opener by 10 wickets, a result that brought them the maximum seven points.
+Gujarat, led by Chintan Gaja, arrive in good shape. Their bowlers dismissed Odisha for 161 in the second innings as they won their opener by **10 wickets**, a result that brought them the maximum seven points.
 
 The four-day match runs until Wednesday, October 21.
 

@@ -63,6 +63,6 @@ He also returned to the Olympic bid. "We are bidding for the 2036 Olympics and i
 
 India finished fourth in the medal table with 85 medals, 21 of them gold. That is down from 106 at Hangzhou. Debutants won 41 medals, and women athletes 38, including 11 golds.
 
-Both cricket teams defended the titles they won in 2023. The men beat Pakistan by 19 runs in the final, making 211 for 6 and holding them to 192 for 6, with Abhishek Sharma hitting 61 off 28 balls. The women beat Sri Lanka by 147 runs.
+Both cricket teams defended the titles they won in 2023. The men beat Pakistan by **19 runs** in the final, making 211 for 6 and holding them to 192 for 6, with Abhishek Sharma hitting 61 off 28 balls. The women beat Sri Lanka by 147 runs.
 
 The ceremony fell in the middle of a busy week for both sides. The men had lost the fourth T20I to West Indies in Hyderabad the night before and play the decider in Bengaluru on Saturday. The women start a T20I series against Zimbabwe in Raipur on Friday. The BCCI also put off an IPL stakeholders' meeting planned for Thursday evening in Mumbai so that its officials could attend.

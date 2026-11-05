@@ -5,7 +5,7 @@ type: news
 section: economy
 format_label: "Economy / Markets"
 topics: [economy, rupee-forex]
-title: "Brent near $110 and a Nasdaq slide set a cautious tone for Indian shares on Monday"
+title: "Brent near $110 and a Nasdaq slide set a cautious tone for Indian shares on October 19"
 standfirst: "Oil jumped almost 4% on Friday after Indian markets had shut, and a sell-off in chip and AI stocks gave the Nasdaq its worst week since June. A weekend of tanker attacks in the Gulf adds to the risk."
 published: 2026-10-18T05:00:00+05:30
 location: Mumbai
@@ -19,7 +19,7 @@ hero:
   subjects: ["Nasdaq MarketSite"]
   alt: "The Nasdaq MarketSite building in Times Square, New York"
   overlay:
-    value: "Oil up, tech down, Monday on edge"
+    value: "Oil up, tech down, markets on edge"
 related: [sensex-nifty-it-rally-weekly-gain-october-16, gold-silver-crude-prices-october-16, irgc-supertanker-mine-fire-hormuz-closed, trump-waives-russia-sanctions-law-india-tariff-threat, rupee-sixth-gain-forex-reserves-fall-726-billion, hdfc-bank-q2-profit-rises-4-7-per-cent-jagdishan-last, icici-bank-q2-profit-rises-20-per-cent-loans-30]
 seo:
   description: "Brent crude closed at $109.86 and the Nasdaq had its worst week since June on Friday, setting a cautious tone for Sensex and Nifty when trading resumes on Monday."
@@ -65,9 +65,9 @@ verification:
     - "Weekend Gulf incidents from the site's own Oct 17 story (irgc-supertanker-mine-fire-hormuz-closed). Indian Friday figures from the site's Oct 16 market story."
 ---
 
-Indian shares go into Monday's session with oil close to $110 a barrel and Wall Street nursing its worst week in months, a mix that is likely to test the rally that lifted the Sensex more than 3% last week.
+Indian shares go into Monday's session with oil close to $110 a barrel and Wall Street nursing its worst week in months, a mix that is likely to test the rally that lifted the Sensex more than **3%** last week.
 
-Brent crude, the global benchmark, settled at $109.86 a barrel on Friday, up $3.94 or 3.7%. It was the highest close since May 19. US crude rose 3.5% to $101.41. Most of the jump came after Indian markets had closed: at about 4 pm IST Brent was trading near $105.6.
+Brent crude, the global benchmark, settled at **$109.86 a barrel** on Friday, up $3.94 or 3.7%. It was the highest close since May 19. US crude rose 3.5% to $101.41. Most of the jump came after Indian markets had closed: at about 4 pm IST Brent was trading near $105.6.
 
 Two things drove it. A Saudi-led coalition said it had intercepted a ballistic missile aimed at the Red Sea port of Yanbu, which Saudi Arabia now depends on to ship oil while the Strait of Hormuz is choked. No damage was reported. A Ukrainian drone strike also shut a main unit at a large Russian refinery, adding to doubts over diesel supplies.
 
@@ -75,13 +75,13 @@ The weekend brought no relief. On Saturday Iran's Revolutionary Guards said a su
 
 ## A rough week for tech
 
-In New York, the Nasdaq Composite fell 2.14% on Friday to 26,140.03, leaving it about 4.5% lower for the week, its worst showing since late June. The S&P 500 lost 1.09% to 7,659.44. The Dow Jones Industrial Average held up better, slipping 0.34% to 52,002.41 and still ending the week about 0.7% higher.
+In New York, the Nasdaq Composite fell **2.14%** on Friday to 26,140.03, leaving it about 4.5% lower for the week, its worst showing since late June. The S&P 500 lost 1.09% to 7,659.44. The Dow Jones Industrial Average held up better, slipping 0.34% to 52,002.41 and still ending the week about 0.7% higher.
 
-The selling was concentrated in chipmakers and companies building AI infrastructure, as investors questioned how much of that spending is being funded with debt and worried about Chinese competition in memory chips. Hot US inflation data earlier in the week had also raised talk of another rate increase by the Federal Reserve. Wall Street's fear gauge, the VIX, rose more than 21% to 19.99.
+The selling was concentrated in chipmakers and companies building AI infrastructure, as investors questioned how much of that spending is being funded with debt and worried about Chinese competition in memory chips. Hot US inflation data earlier in the week had also raised talk of another rate increase by the Federal Reserve. Wall Street's fear gauge, the VIX, rose more than **21%** to 19.99.
 
 "Earnings are important, but the market is concerned that 2026 will mark the peak for earnings growth," said Michael O'Rourke, chief market strategist at Jones Trading.
 
-Fed Chair Kevin Warsh, speaking at the IMF meetings in Bangkok, declined to say what the central bank would do at its October 27-28 meeting. Traders cut the chance of an October rate rise to roughly 10-16%, from close to 60% after the inflation figures, though they still see a December increase as very likely.
+Fed Chair Kevin Warsh, speaking at the IMF meetings in Bangkok, declined to say what the central bank would do at its October 27-28 meeting. Traders cut the chance of an October rate rise to roughly 10-16%, from close to **60%** after the inflation figures, though they still see a December increase as very likely.
 
 Spot gold ended Friday almost flat at about $4,166 an ounce. The dollar index eased to about 101.9, and the 10-year US Treasury yield stood near 5.11%.
 

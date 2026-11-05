@@ -61,7 +61,7 @@ Early on Saturday Karnataka minister Priyank Kharge turned the charge back on th
 
 ## 'A failed product'
 
-Trivedi spent much of his press conference on Gandhi's record as a leader. He said he would present facts and evidence to show that Gandhi was a "failed product", and said the Congress had sunk to its lowest point under him, unable to cross 50 seats in the 2014 Lok Sabha election.
+Trivedi spent much of his press conference on Gandhi's record as a leader. He said he would present facts and evidence to show that Gandhi was a "failed product", and said the Congress had sunk to its lowest point under him, unable to cross **50 seats** in the 2014 Lok Sabha election.
 
 He recalled Gandhi's promise to move away from favouring the children of political families, and set it against the present Parliament. "For the first time in the history of the Congress party, three members of the Nehru-Gandhi family, mother, son and daughter, are in Parliament," he said.
 

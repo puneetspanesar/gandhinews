@@ -48,9 +48,9 @@ verification:
     - "ETV linked headline mentions '2 killed' at Dammam overall; only the one Indian death is stated in copy."
 ---
 
-India on Thursday condemned the latest attacks on Saudi Arabia after one Indian national was killed and three others were injured in strikes on the Dammam airport and a Saudi Aramco oil field.
+India on Thursday condemned the latest attacks on Saudi Arabia after one Indian national was killed and three others were injured in strikes on the Dammam airport and a Saudi Aramco **oil field**.
 
-The Ministry of External Affairs said one Indian died and two were injured in the attack on King Fahd International Airport in Dammam on October 21. A fourth Indian was hurt in a separate strike the same day on the Shaybah oil field, deep in the desert of the kingdom's Eastern Province.
+The Ministry of External Affairs said one Indian died and two were injured in the attack on King Fahd International Airport in Dammam on October 21. A fourth Indian was hurt in a separate strike the same day on the **Shaybah oil field**, deep in the desert of the kingdom's Eastern Province.
 
 "We strongly condemn the continued attacks on civilian and energy infrastructure in Saudi Arabia," the ministry said. "We also reiterate that the attacks on civilian and critical infrastructure are completely unacceptable and must cease immediately."
 

@@ -35,7 +35,7 @@ verification:
     - "Release uses both DCPC and DPCP for the department; copy names it in full."
 ---
 
-The government has added advanced chemicals, petrochemicals and materials technologies to the list of sectors that can draw money from its ₹1 lakh crore Research, Development and Innovation (RDI) scheme, opening a large pool of long-term research finance to the chemicals industry.
+The government has added advanced chemicals, petrochemicals and materials technologies to the list of sectors that can draw money from its **₹1 lakh crore** Research, Development and Innovation (RDI) scheme, opening a large pool of long-term research finance to the chemicals industry.
 
 The Department of Chemicals and Petrochemicals proposed the change and the Department of Science and Technology, which runs the scheme, approved it. It took effect on October 8 and was announced on Wednesday.
 

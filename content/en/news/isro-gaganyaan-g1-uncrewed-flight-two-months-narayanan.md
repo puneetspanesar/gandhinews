@@ -42,7 +42,7 @@ verification:
     - "No exact launch date given; 'about two months' is UNI's framing of his remark. Copy does not convert it into a month."
 ---
 
-The first uncrewed test flight of Gaganyaan, India's human spaceflight programme, will take place in about two months, ISRO chairman V Narayanan said on Saturday.
+The first uncrewed test flight of Gaganyaan, India's human spaceflight programme, will take place in **about two months**, ISRO chairman V Narayanan said on Saturday.
 
 Speaking to reporters in Chennai after a graduation day event at the Sri Ramachandra Centre for Higher Education and Research (SRIHER), Narayanan said the mission, called G1, would lift off from the Sriharikota spaceport on the HLVM3, the human-rated version of ISRO's heaviest rocket.
 

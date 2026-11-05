@@ -43,16 +43,16 @@ verification:
 
 Two newly listed companies made their debuts on Dalal Street on Friday morning, and their fortunes showed how fickle listing day can be even after heavy demand during the offer.
 
-Sahajanand Medical Technologies, which makes cardiac stents, opened at ₹371.15 on the National Stock Exchange, ₹27.15 or 7.89% above its issue price of ₹344. On the BSE it listed at ₹368.05, a premium of just under 7%, and later traded around ₹371. That gave the company a market value of about ₹3,741 crore.
+Sahajanand Medical Technologies, which makes cardiac stents, opened at **₹371.15** on the National Stock Exchange, ₹27.15 or 7.89% above its issue price of ₹344. On the BSE it listed at ₹368.05, a premium of just under 7%, and later traded around ₹371. That gave the company a market value of about ₹3,741 crore.
 
-The ₹475 crore issue, priced at the top of its ₹327 to ₹344 band, had been subscribed 14.2 times. It was entirely an offer for sale by existing shareholders of up to 1.38 crore shares, so the company itself raised no money. Before the issue it collected ₹140 crore from anchor investors including Allianz Global Investors, Natixis, Tata AIA Life Insurance, DSP Mutual Fund, Nippon India Mutual Fund and WhiteOak Capital. The debut was broadly in line with the roughly 8% premium the unofficial grey market had signalled.
+The **₹475 crore** issue, priced at the top of its ₹327 to ₹344 band, had been subscribed 14.2 times. It was entirely an offer for sale by existing shareholders of up to 1.38 crore shares, so the company itself raised no money. Before the issue it collected ₹140 crore from anchor investors including Allianz Global Investors, Natixis, Tata AIA Life Insurance, DSP Mutual Fund, Nippon India Mutual Fund and WhiteOak Capital. The debut was broadly in line with the roughly 8% premium the unofficial grey market had signalled.
 
 ## No pop for Bonfiglioli
 
-Bonfiglioli Transmissions had a much larger and more heavily bid offer but opened flat. Its shares listed at ₹586 on both exchanges, the same as the top of its ₹558 to ₹586 price band.
+Bonfiglioli Transmissions had a much larger and more heavily bid offer but opened flat. Its shares listed at ₹586 on both exchanges, the same as the top of its **₹558** to ₹586 price band.
 
-The ₹2,534 crore issue, also wholly an offer for sale by its Italian parent Bonfiglioli S.p.A., drew bids for 46.06 times the shares on offer when it closed on October 19. Qualified institutional buyers bid for 120.78 times their quota, non-institutional investors 40.4 times and retail investors 5.91 times. The grey market had pointed to a premium of about 11%.
+The ₹2,534 crore issue, also wholly an offer for sale by its Italian parent Bonfiglioli S.p.A., drew bids for **46.06 times** the shares on offer when it closed on October 19. Qualified institutional buyers bid for 120.78 times their quota, non-institutional investors 40.4 times and retail investors 5.91 times. The grey market had pointed to a premium of about 11%.
 
-The company makes gearboxes, gearmotors and drive systems for equipment makers and is one of India's largest power transmission providers by revenue. SBI Securities, in its note on the issue, put its return on capital employed at 33.5% in calendar 2025.
+The company makes gearboxes, gearmotors and drive systems for equipment makers and is one of India's largest power transmission providers by revenue. SBI Securities, in its note on the issue, put its return on capital employed at **33.5%** in calendar 2025.
 
 The listings came as attention on the primary market centred on the final day of Jio Platforms' record share sale.

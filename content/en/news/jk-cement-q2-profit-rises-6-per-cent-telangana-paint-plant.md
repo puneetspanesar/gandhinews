@@ -38,16 +38,16 @@ verification:
     - "Kanpur dateline: JK Cement's registered office is in Kanpur."
 ---
 
-JK Cement's net profit rose 6.3% to ₹169.3 crore in the July-September quarter, from ₹159.25 crore a year earlier, as strong sales growth was largely eaten up by higher costs.
+JK Cement's net profit rose **6.3% to ₹169.3 crore** in the July-September quarter, from ₹159.25 crore a year earlier, as strong sales growth was largely eaten up by higher costs.
 
-Revenue from operations rose 23.65% to ₹3,733.42 crore. Total costs, however, rose 24.34% to ₹3,515.71 crore, leaving little extra at the bottom line. The gap between the two grew to about ₹218 crore from about ₹192 crore a year earlier.
+Revenue from operations rose **23.65%** to ₹3,733.42 crore. Total costs, however, rose 24.34% to ₹3,515.71 crore, leaving little extra at the bottom line. The gap between the two grew to about ₹218 crore from about ₹192 crore a year earlier.
 
-Volumes were the bright spot. The company sold 5.37 million tonnes of grey cement, the kind used in construction, 21% more than a year ago, and 0.49 million tonnes of white cement, up 13%.
+Volumes were the bright spot. The company sold 5.37 million tonnes of grey cement, the kind used in construction, **21%** more than a year ago, and 0.49 million tonnes of white cement, up 13%.
 
 ## A second paint plant
 
-The board also approved a ₹130 crore water-based paint plant at Raghunadhapalem in Telangana, to be built by its subsidiary JK Maxx Paints. The plant will be able to make 75,000 kilolitres a year, and the money will come from the ₹600 crore already set aside for the paint business.
+The board also approved a **₹130 crore** water-based paint plant at Raghunadhapalem in Telangana, to be built by its subsidiary JK Maxx Paints. The plant will be able to make 75,000 kilolitres a year, and the money will come from the ₹600 crore already set aside for the paint business.
 
-Its existing paint plant at Bhiwadi in Rajasthan is running at about 60% of capacity, and the company expects it to be fully used by the 2027-28 financial year.
+Its existing paint plant at Bhiwadi in Rajasthan is running at about **60%** of capacity, and the company expects it to be fully used by the 2027-28 financial year.
 
 The results came five days after UltraTech Cement, the country's largest cement maker, reported a 21% rise in quarterly profit. The cement sector's next big name, Ambuja Cements, is due to report on Thursday. On the same Saturday, the tile maker Kajaria Ceramics reported a 37.7% rise in standalone profit.

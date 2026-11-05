@@ -28,7 +28,7 @@ infographic:
     - {icon: users, value: "57 million+", label: "votes cast before election day"}
     - {icon: bank, value: "218-214", label: "Republican lead in the House going in"}
     - {icon: bank, value: "53-47", label: "Republican lead in the Senate going in"}
-  source: "CBS News, University of Florida Voting Lab, November 3, 2026"
+  source: "Pre-election estimates and University of Florida Voting Lab, November 3, 2026"
 related: [supreme-court-rejects-trump-california-ballots-midterms-eve, us-midterms-stevens-backs-rogers-alaska-sullivan-suit-dismissed]
 seo:
   description: "US midterm voting is under way on November 3, 2026, for all 435 House seats, 35 Senate seats and 36 governorships, with more than 57 million early votes cast. First results after 5:30 am IST."
@@ -55,7 +55,7 @@ Americans went to the polls on Tuesday in midterm elections that will decide **c
 
 On the ballot are **all 435 House seats**, 35 Senate seats and governorships in 36 states. More than 57 million people had already voted before election day, according to the University of Florida Voting Lab.
 
-Republicans go in holding 218 House seats, plus an independent who usually votes with them, against 214 for the Democrats, with two vacancies. A CBS News battleground estimate on October 25 put Democrats on course for about 229 seats, with a range of 215 to 237. In the Senate, where Republicans lead **53 to 47**, the races to watch include Republican-held Alaska, Iowa, Kansas, Maine, North Carolina, Ohio, South Carolina and Texas, and Democratic-held Georgia, Michigan and New Hampshire.
+Republicans go in holding 218 House seats, plus an independent who usually votes with them, against 214 for the Democrats, with two vacancies. A network battleground estimate on October 25 put Democrats on course for about 229 seats, with a range of 215 to 237. In the Senate, where Republicans lead **53 to 47**, the races to watch include Republican-held Alaska, Iowa, Kansas, Maine, North Carolina, Ohio, South Carolina and Texas, and Democratic-held Georgia, Michigan and New Hampshire.
 
 Trump, closing his campaign in Washington on Monday, admitted the history was against him. "For some reason, the sitting president doesn't win the midterms," he said, while casting the vote as a choice over whether "these extremists will be given power or not power".
 

@@ -50,13 +50,13 @@ verification:
 
 A depression formed over the Bay of Bengal on Saturday evening and is expected to grow into Cyclone Arnab before slamming into the Andhra Pradesh coast on Wednesday, the India Meteorological Department (IMD) said.
 
-At 5:30 pm the system lay about 820 km east-south-east of Visakhapatnam, 910 km east-south-east of Kakinada and 1,100 km east of Bapatla, and some 510 km north-north-west of Sri Vijaya Puram in the Andaman Islands.
+At 5:30 pm the system lay about **820 km east-south-east of Visakhapatnam**, 910 km east-south-east of Kakinada and 1,100 km east of Bapatla, and some 510 km north-north-west of Sri Vijaya Puram in the Andaman Islands.
 
-The IMD expects it to drift almost due south on Sunday and strengthen into a deep depression, then curve back towards the west-north-west. It should become a cyclonic storm over the east-central Bay by Monday morning, when it will take the name Arnab, and a severe cyclonic storm by Tuesday morning.
+The IMD expects it to drift almost due south on Sunday and strengthen into a deep depression, then curve back towards the west-north-west. It should become a cyclonic storm over the east-central Bay by Monday morning, when it will take the name Arnab, and a **severe cyclonic storm** by Tuesday morning.
 
 ## Where and when it will hit
 
-By the forenoon of October 28, the storm is "very likely to cross the Andhra Pradesh and Yanam coasts between Bapatla and Visakhapatnam" as a very severe cyclonic storm, the IMD said. Maximum sustained winds are forecast at 115 to 125 km/h, gusting to 140 km/h.
+By the forenoon of October 28, the storm is "very likely to cross the Andhra Pradesh and Yanam coasts between Bapatla and Visakhapatnam" as a **very severe cyclonic storm**, the IMD said. Maximum sustained winds are forecast at 115 to 125 km/h, gusting to 140 km/h.
 
 Manorama Mohanty, director of the IMD's Bhubaneswar centre, said the system would keep intensifying as it moved west-north-west. "The sea conditions are very likely to be very rough," she said.
 

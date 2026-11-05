@@ -55,16 +55,16 @@ verification:
     - "Rule since 2012 for SNS; Vucic PM or president since 2014. '14 years' refers to SNS rule (Al Jazeera, 'more than 14 years')."
 ---
 
-Serbians vote on Sunday in a snap parliamentary election that could end, or extend, more than 14 years of rule by Aleksandar Vučić and his Serbian Progressive Party (SNS).
+Serbians vote on Sunday in a snap parliamentary election that could end, or extend, more than **14 years** of rule by Aleksandar Vučić and his Serbian Progressive Party (SNS).
 
 Vučić, 56, resigned as president on September 27 because the constitution barred him from a third term, and is leading the SNS campaign as its candidate for prime minister. Ana Brnabić, a close ally, is acting president.
 
-His main opponent is not a party but a movement. The Student List, also called Students Win, grew out of the protests that followed the collapse of a railway station canopy in Novi Sad in November 2024, which killed 16 people and was widely blamed on corruption. It is running 250 candidates for the 250 seats, many of them academics and political newcomers, and is headed by the cardiologist Ilija Srdanović, though the students say he would not necessarily become prime minister.
+His main opponent is not a party but a movement. The Student List, also called Students Win, grew out of the protests that followed the collapse of a railway station canopy in Novi Sad in November 2024, which killed 16 people and was widely blamed on corruption. It is running 250 candidates for the **250 seats**, many of them academics and political newcomers, and is headed by the cardiologist Ilija Srdanović, though the students say he would not necessarily become prime minister.
 
-The only poll published this month, by New Serbian Political Thought, put the students on 44.5% and the SNS on 42.7%. Independent polling in Serbia is thin, and betting markets still favour Vučić.
+The only poll published this month, by New Serbian Political Thought, put the students on **44.5%** and the SNS on 42.7%. Independent polling in Serbia is thin, and betting markets still favour Vučić.
 
 At the movement's final rally in Belgrade's Slavija Square on Thursday, candidate Jugoslav Gasić told tens of thousands: "We are putting an end to 14 years of humiliation, chaos and betrayal." Across town, Vučić urged his supporters: "Let us go out and defeat them! Defeat them decisively!" He has called the movement a foreign-funded coup attempt.
 
 The campaign has been rough. A monitoring group counted more than 100 violent incidents, 24 civil society groups said the conditions for a free and fair vote were lacking, and prosecutors this week questioned six people arrested on suspicion of planning violence on election day.
 
-Seats are shared out in proportion to the national vote, with a 3% threshold for most lists. Polls close at 8 pm local time (12:30 am IST on Monday), and preliminary results are expected about two hours later.
+Seats are shared out in proportion to the national vote, with a **3%** threshold for most lists. Polls close at 8 pm local time (12:30 am IST on Monday), and preliminary results are expected about two hours later.

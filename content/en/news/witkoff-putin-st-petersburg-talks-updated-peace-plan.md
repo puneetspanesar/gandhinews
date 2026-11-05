@@ -69,7 +69,7 @@ verification:
     - "Axios/Politico reports on updated plan and trilateral offer left out as single-outlet reports; Støre quote via Meduza."
 ---
 
-Steve Witkoff, President Donald Trump's special envoy, met Vladimir Putin in St Petersburg on Wednesday, carrying documents that set out Washington's approach to ending the war in Ukraine. Within hours the Russian leader handed him a gesture: the release of Stephen Hubbard, a 74-year-old American held in Russia for more than four years.
+Steve Witkoff, President Donald Trump's special envoy, met Vladimir Putin in **St Petersburg** on Wednesday, carrying documents that set out Washington's approach to ending the war in Ukraine. Within hours the Russian leader handed him a gesture: the release of Stephen Hubbard, a 74-year-old American held in Russia for more than four years.
 
 Putin announced at the meeting that Hubbard had been freed and was already at the city's Pulkovo Airport. Witkoff confirmed the release and thanked the Russian president for it.
 

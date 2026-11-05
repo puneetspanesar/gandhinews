@@ -59,11 +59,11 @@ verification:
     - "Hero: no confirmed Commons photo of Bora likely; suggested_source set to Delhi High Court."
 ---
 
-Neha Bora, national president of the All India Students' Association (AISA), said on Saturday that her organisation would not sign peace bonds, a day after the Delhi High Court refused to quash the notice asking her to do so.
+Neha Bora, national president of the All India Students' Association (AISA), said on Saturday that her organisation would **not sign peace bonds**, a day after the Delhi High Court refused to quash the notice asking her to do so.
 
 "Signing such peace bonds is a principally wrong decision for us," Bora told a press conference in New Delhi. "It is no less than signing away our democratic right to dissent."
 
-On Friday evening, Justice Subramonium Prasad dismissed her challenge to a October 17 notice from a Special Executive Magistrate. It asked her to execute a personal bond of ₹10,000, with one surety, to keep the peace while an enquiry is held. The judge said there were "adequate safeguards" and directed the magistrate "to take care" that Bora is given all the material relied on before any order is passed. A detailed order is awaited.
+On Friday evening, Justice Subramonium Prasad dismissed her challenge to a October 17 notice from a Special Executive Magistrate. It asked her to execute a personal bond of ₹10,000, with one surety, to keep the peace while an enquiry is held. The judge said there were "adequate safeguards" and directed the magistrate "to take care" that Bora is given **all the material relied** on before any order is passed. A detailed order is awaited.
 
 Bora was detained at Mandi House on October 16 during a protest against Chief Election Commissioner Gyanesh Kumar and held overnight at R K Puram police station. The notice accused her of sloganeering and of repeated protests near Jantar Mantar in defiance of prohibitory orders.
 

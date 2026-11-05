@@ -49,22 +49,22 @@ verification:
 
 Persistent Systems grew revenue by a fifth in the July to September quarter, but its reported profit fell sharply as costs linked to its acquisition of IT services company Nagarro weighed on the books.
 
-Revenue in dollar terms rose 20% from a year earlier to $487.6 million, and was up 7.8% from the June quarter, the Pune company said on Thursday evening after the market closed. In constant currency, growth was 20.8% on the year. In rupees, revenue rose 30.3% to ₹4,663.9 crore.
+Revenue in dollar terms rose **20% from a year earlier** to $487.6 million, and was up 7.8% from the June quarter, the Pune company said on Thursday evening after the market closed. In constant currency, growth was 20.8% on the year. In rupees, revenue rose 30.3% to ₹4,663.9 crore.
 
 "We are pleased to report Q2 FY27 revenue of USD 487.6M, marking our 26th sequential quarter of growth," said Sandeep Kalra, chief executive and executive director.
 
 ## Profit takes the hit
 
-Net profit fell 25.4% from a year earlier to ₹351.5 crore, and was 27.2% lower than in the June quarter. Expenses related to the Nagarro acquisition came to ₹185.34 crore.
+Net profit fell **25.4%** from a year earlier to ₹351.5 crore, and was 27.2% lower than in the June quarter. Expenses related to the Nagarro acquisition came to ₹185.34 crore.
 
-The underlying business did better. Operating profit (EBIT) rose 19.5% to ₹697.7 crore, for a margin of 15%. Operating profit after tax, which the company reports separately, rose 5% to ₹495.2 crore.
+The underlying business did better. Operating profit (EBIT) rose **19.5%** to ₹697.7 crore, for a margin of 15%. Operating profit after tax, which the company reports separately, rose 5% to ₹495.2 crore.
 
 New orders had a total contract value of $633.5 million, with an annual contract value of $481 million.
 
 ## Nagarro deal
 
-Persistent said it had secured about 94.04% of Nagarro's share capital and voting rights, excluding treasury shares. Its shareholders have approved raising up to $450 million in equity, with total equity and borrowings for the deal capped at $1.25 billion.
+Persistent said it had secured about **94.04%** of Nagarro's share capital and voting rights, excluding treasury shares. Its shareholders have approved raising up to $450 million in equity, with total equity and borrowings for the deal capped at $1.25 billion.
 
 "We value the confidence shown by our shareholders and financing partners as we work towards closing," Kalra said. The company did not give a date for completing the purchase.
 
-Persistent's shares closed 0.98% lower at ₹5,840 on the NSE on Thursday, before the results were out.
+Persistent's shares closed **0.98%** lower at ₹5,840 on the NSE on Thursday, before the results were out.

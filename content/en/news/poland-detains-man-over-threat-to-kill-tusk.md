@@ -10,7 +10,7 @@ standfirst: "Security officials said threats against Prime Minister Donald Tusk 
 published: 2026-10-13T02:30:00+05:30
 location: Warsaw
 keyPoints:
-  - "Tusk said **the man who threatened an attack was detained**."
+  - "Tusk said the man who threatened an attack was **detained**."
   - "Officials said there was a **\"high probability\"** the threats would be carried out."
   - "**No link to Russia** has been confirmed, though a former spy chief pointed to Moscow."
 hero:

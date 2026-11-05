@@ -44,7 +44,7 @@ verification:
     - "Detention at Mandi House on Oct 16, notice Oct 18, ₹10,000 bond: live blog; consistent with earlier Gandhi News coverage."
 ---
 
-The Delhi High Court on Thursday finished hearing AISA president Neha Bora's challenge to a police magistrate's notice asking her to sign a ₹10,000 bond to keep the peace. Justice Subramonium Prasad said he needed time to write his judgment and indicated it could come by Tuesday.
+The Delhi High Court on Thursday finished hearing AISA president Neha Bora's challenge to a police magistrate's notice asking her to sign a **₹10,000** bond to keep the peace. Justice Subramonium Prasad said he needed time to write his judgment and indicated it could come by Tuesday.
 
 Bora, who leads the All India Students' Association, was detained at Mandi House on October 16 as students set out on a Tiranga march linked to the protests against Chief Election Commissioner Gyanesh Kumar. Two days later, a Special Executive Magistrate issued her a notice under the Bharatiya Nagarik Suraksha Sanhita asking for a personal bond of ₹10,000. The next hearing before the magistrate is on Saturday.
 
@@ -58,7 +58,7 @@ He told the judge the law worked in two steps. "Stage 1 is substance; stage 2 is
 
 Additional Solicitor General Chetan Sharma, for the state, said the petition was neither maintainable nor fit to be entertained. Sections 126 and 130 of the BNSS had to be read together, he said: "126 and 130 ride together. They are not disjunctive." On whether a person was likely to commit a breach of the peace, he said, "This is subjective satisfaction as wide it can get."
 
-Sharma told the court that Bora faced six FIRs and that the notice had not yet led to any bond or penal consequence. She could appear before the magistrate in person or through a lawyer, he said. But on the main question he was blunt: "Bond to dena padega," meaning a bond would have to be given.
+Sharma told the court that Bora faced **six FIRs** and that the notice had not yet led to any bond or penal consequence. She could appear before the magistrate in person or through a lawyer, he said. But on the main question he was blunt: "Bond to dena padega," meaning a bond would have to be given.
 
 ## The court's questions
 

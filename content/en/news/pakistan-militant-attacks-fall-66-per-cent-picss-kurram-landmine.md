@@ -43,9 +43,9 @@ verification:
 
 Militant attacks in Pakistan have dropped sharply over the past five weeks, a security think tank said on Sunday, though it warned that a surge in kidnappings in Balochistan made it too early to call the situation stable.
 
-The Pakistan Institute for Conflict and Security Studies (PICSS) counted 21 attacks between October 16 and 22, against 61 in the week of September 18 to 24, a fall of 66%. Attacks were also down 38% on the previous week. "Marked reduction has been noticed in terrorist attacks in KP and Balochistan during the past five weeks," the institute said in its weekly review.
+The Pakistan Institute for Conflict and Security Studies (PICSS) counted 21 attacks between October 16 and 22, against 61 in the week of September 18 to 24, a fall of **66%**. Attacks were also down 38% on the previous week. "Marked reduction has been noticed in terrorist attacks in KP and Balochistan during the past five weeks," the institute said in its weekly review.
 
-The fall in attacks did not bring a matching fall in deaths. Militant violence killed 22 people in the latest week, against 23 the week before, while injuries fell from 20 to 11. Abductions jumped from 24 to 41, almost all of them in Balochistan, which accounted for 12 of the 21 attacks. "These contrasting indicators make it difficult to declare the security situation stable," PICSS said.
+The fall in attacks did not bring a matching fall in deaths. Militant violence killed **22 people** in the latest week, against 23 the week before, while injuries fell from 20 to 11. Abductions jumped from 24 to 41, almost all of them in Balochistan, which accounted for 12 of the 21 attacks. "These contrasting indicators make it difficult to declare the security situation stable," PICSS said.
 
 Security forces killed 33 militants in 10 operations over the week, the institute said.
 

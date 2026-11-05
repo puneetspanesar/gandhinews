@@ -50,11 +50,11 @@ verification:
 
 The Madras High Court on Tuesday upheld the Tamil Nadu Speaker's decision to accept the resignations of four AIADMK MLAs who quit and joined the ruling TVK on the same day, but held that their resignations do not wipe out the disqualification cases against them.
 
-The First Bench of Chief Justice S A Dharmadhikari and Justice G Arul Murugan found that the resignations were genuine and that the Speaker was not expected to hold a detailed inquiry into them. It directed the Speaker to complete the pending disqualification proceedings under the Tenth Schedule within two months.
+The First Bench of Chief Justice S A Dharmadhikari and Justice G Arul Murugan found that the resignations were genuine and that the Speaker was not expected to hold a detailed inquiry into them. It directed the Speaker to complete the pending disqualification proceedings under the Tenth Schedule **within two months**.
 
 ## A same-day resignation
 
-The case goes back to the confidence vote in May. The TVK, led by Chief Minister Vijay, won 108 seats, short of a majority, and won the vote on May 13 with 144 votes after 25 AIADMK MLAs backed it against their party's whip. Disqualification proceedings were started against all 25 the next day and later dropped against those who apologised.
+The case goes back to the confidence vote in May. The TVK, led by Chief Minister Vijay, won **108 seats**, short of a majority, and won the vote on May 13 with 144 votes after 25 AIADMK MLAs backed it against their party's whip. Disqualification proceedings were started against all 25 the next day and later dropped against those who apologised.
 
 On May 25, four of the MLAs handed in their resignations, met the TVK's general secretary and joined the party. Speaker J C D Prabhakar accepted the resignations the same day and a gazette notification followed.
 

@@ -55,11 +55,11 @@ verification:
 
 India pulled off the biggest chase of their T20I rivalry with New Zealand on Thursday, scoring 230 for 6 in 19.4 overs to beat the hosts by four wickets at Hagley Oval and take a 1-0 lead in the five-match series.
 
-New Zealand had posted 225 for 4, built around Glenn Phillips' unbeaten 82 off 40 balls. It was not enough on a true pitch with heavy dew settling over the outfield as the night went on, and India got home with two balls to spare. It was the highest successful chase at the ground.
+New Zealand had posted 225 for 4, built around Glenn Phillips' unbeaten **82 off 40** balls. It was not enough on a true pitch with heavy dew settling over the outfield as the night went on, and India got home with two balls to spare. It was the highest successful chase at the ground.
 
 ## A flying start, then a wobble
 
-Sanju Samson set the tone. He reached his fifty off 23 balls and made 67 off 33 before under-edging a cut off Mitchell Santner in the ninth over. Abhishek Sharma, who hit the first ball of the chase for six, made 29 off 12, and the openers had 93 on the board inside six overs.
+Sanju Samson set the tone. He reached his fifty off 23 balls and made **67 off 33** before under-edging a cut off Mitchell Santner in the ninth over. Abhishek Sharma, who hit the first ball of the chase for six, made 29 off 12, and the openers had 93 on the board inside six overs.
 
 Then the chase lurched. India went from 93 without loss to 128 for 4 in four overs as Michael Bracewell (2 for 37) and Santner (2 for 39) dragged New Zealand back. Tilak Varma went for 6 and Ishan Kishan for 1, caught by Finn Allen off Santner.
 
@@ -79,4 +79,4 @@ He also praised the surface. "The pitches are fantastic as well," Phillips said,
 
 ## What comes next
 
-The win extends India's grip on New Zealand in the shortest format after they beat them by 96 runs in the T20 World Cup final in March. Four more T20Is follow before the series ends on November 1, with all games starting at 12:30 pm IST. Five ODIs begin on November 4 and two Tests on November 19.
+The win extends India's grip on New Zealand in the shortest format after they beat them by **96 runs** in the T20 World Cup final in March. Four more T20Is follow before the series ends on November 1, with all games starting at 12:30 pm IST. Five ODIs begin on November 4 and two Tests on November 19.

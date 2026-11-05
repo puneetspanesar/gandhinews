@@ -55,12 +55,12 @@ verification:
 
 Sri Lanka's largest coal-fired power station will remain disconnected from the national grid for several days, the country's National System Operator said on Sunday, a day after an islandwide blackout left homes and businesses without electricity for hours.
 
-The Norochcholai plant on the north-west coast went offline during Saturday's failure, which began around noon and lasted more than three hours. The outage also hit water supply, internet and mobile connections, and the water board asked people to save water because pumping could be affected.
+The Norochcholai plant on the north-west coast went offline during Saturday's failure, which began around noon and lasted **more than three hours**. The outage also hit water supply, internet and mobile connections, and the water board asked people to save water because pumping could be affected.
 
 "Due to a sudden system failure, the whole island suffered an electricity breakdown," Energy Minister Anura Karunatilaka said. The cause has not been confirmed, though the government said a fault at a hydropower station in the central hills, detected on Friday, may have contributed.
 
 Power was restored in stages. The state power utility asked owners of rooftop solar systems to stay disconnected until the grid had been balanced and brought back fully.
 
-With Norochcholai out, the grid has lost one of its largest single sources of generation. The National System Operator, which now manages supply across the island, said it had begun an internal investigation to establish the exact sequence of events and whether technical failures or operational lapses were to blame. It said its findings would be released in due course and urged consumers to use electricity conservatively in the meantime.
+With Norochcholai out, the grid has lost one of its largest single sources of generation. The National System Operator, which now manages supply across the island, said it had begun an **internal investigation** to establish the exact sequence of events and whether technical failures or operational lapses were to blame. It said its findings would be released in due course and urged consumers to use electricity conservatively in the meantime.
 
 The breakdown is a fresh headache for President Anura Kumara Dissanayake's government, which is weighing a new programme with the International Monetary Fund as it manages a fragile recovery.

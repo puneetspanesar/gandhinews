@@ -57,19 +57,11 @@ Mumbai go into the last round before the Ranji Trophy's winter break in their be
 
 The hosts arrive on the back of a crushing win. Against Haryana last week, Musheer Khan made 109 and then took 6 for 85, Tanush Kotian took 8 for 81, and Mumbai knocked off a target of 97 in just 10.4 overs to **win by 10 wickets and collect a bonus point**.
 
-```photo
-{"n":1,"subject":"Musheer Khan","caption":"Musheer Khan, whose century and six wickets set up Mumbai's 10-wicket win over Haryana in round three.","alt":"Mumbai all-rounder Musheer Khan"}
-```
-
 ## Railways need a result
 
 Railways have had a harder time. In round three they **lost to Tamil Nadu by five wickets** despite 5 for 41 from Raj Choudhary. Sai Kishore's 4 for 39 in the second innings left Tamil Nadu needing only 128, and Andre Siddarth saw them home with an unbeaten 56.
 
 Haryana, Tamil Nadu, Rajasthan, Uttarakhand, Chandigarh and Himachal Pradesh make up the rest of a crowded Group D, and a win would strengthen Mumbai's hand before the break.
-
-```photo
-{"n":2,"subject":"Tanush Kotian","caption":"Off-spinner Tanush Kotian took 8 for 81 against Haryana last week.","alt":"Mumbai spinner Tanush Kotian"}
-```
 
 ## What comes next
 

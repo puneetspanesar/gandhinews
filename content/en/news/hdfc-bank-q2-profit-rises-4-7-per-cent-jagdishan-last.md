@@ -62,17 +62,17 @@ verification:
     - "Share fell nearly 27% in 2026 and ₹728.85 close on Friday: CNBC-TV18 only."
 ---
 
-HDFC Bank's net profit rose 4.7% to ₹19,510 crore in the July-September quarter, a modest gain held back by thinner margins and a steep fall in trading income. They are the last results under managing director and chief executive Sashidhar Jagdishan, whose term ends on October 26. Anup Bagchi is due to succeed him.
+HDFC Bank's net profit rose **4.7% to ₹19,510 crore** in the July-September quarter, a modest gain held back by thinner margins and a steep fall in trading income. They are the last results under managing director and chief executive Sashidhar Jagdishan, whose term ends on October 26. Anup Bagchi is due to succeed him.
 
-The profit was a shade below what analysts had pencilled in. A Bloomberg consensus had put it at ₹19,606 crore. Leave out treasury gains, and profit grew 12.6% from a year earlier. On a consolidated basis, which takes in the bank's subsidiaries, profit rose 5.55% to ₹20,700 crore.
+The profit was a shade below what analysts had pencilled in. Analysts' consensus estimate had put it at **₹19,606 crore**. Leave out treasury gains, and profit grew 12.6% from a year earlier. On a consolidated basis, which takes in the bank's subsidiaries, profit rose 5.55% to ₹20,700 crore.
 
 ## Where the squeeze came from
 
-Net interest income, the gap between what the bank earns on loans and pays on deposits, rose 9.7% to ₹34,620 crore. The net interest margin on total assets slipped to 3.16% from 3.26% in the June quarter.
+Net interest income, the gap between what the bank earns on loans and pays on deposits, rose **9.7%** to ₹34,620 crore. The net interest margin on total assets slipped to 3.16% from 3.26% in the June quarter.
 
-Treasury trading gains, which had padded the year-ago quarter, shrank to ₹780 crore from ₹2,390 crore. Fees and commissions rose to ₹9,690 crore from ₹8,840 crore. Provisions climbed to ₹3,574 crore from ₹3,010 crore in the previous quarter.
+Treasury trading gains, which had padded the year-ago quarter, shrank to **₹780 crore** from ₹2,390 crore. Fees and commissions rose to ₹9,690 crore from ₹8,840 crore. Provisions climbed to ₹3,574 crore from ₹3,010 crore in the previous quarter.
 
-Bad loans eased. The gross non-performing assets ratio improved to 1.11% from 1.17% in June and 1.24% a year ago. Net NPAs fell to 0.37% from 0.41%.
+Bad loans eased. The gross non-performing assets ratio improved to **1.11%** from 1.17% in June and 1.24% a year ago. Net NPAs fell to 0.37% from 0.41%.
 
 ## A bigger balance sheet
 

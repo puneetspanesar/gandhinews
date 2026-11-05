@@ -46,26 +46,26 @@ verification:
 
 Reserve Bank of India Governor Sanjay Malhotra told his colleagues on the Monetary Policy Committee this month that interest rate cuts were off the table for now and that the next move could only be a rise or a pause, according to minutes of the meeting released on Wednesday.
 
-The committee voted 6-0 on October 7 to raise the repo rate by 25 basis points to 5.5%, the first increase since February 2023. The minutes show a sharper division over what comes next. Two of the three external members, Nagesh Kumar and Ram Singh, wanted to keep the policy stance neutral, but were outvoted 4-2 as the committee moved to what it calls "calibrated tightening".
+The committee voted 6-0 on October 7 to raise the repo rate by **25 basis** points to 5.5%, the first increase since February 2023. The minutes show a sharper division over what comes next. Two of the three external members, Nagesh Kumar and Ram Singh, wanted to keep the policy stance neutral, but were outvoted 4-2 as the committee moved to what it calls "calibrated tightening".
 
 ## The governor's case
 
-Malhotra argued that price pressures were no longer confined to a few items. He said there were "increasing signs of generalisation of inflation", pointing out that 37% of the goods and services in the consumer price index had inflation above 4% in August, up from 20% in March.
+Malhotra argued that price pressures were no longer confined to a few items. He said there were "increasing signs of generalisation of inflation", pointing out that **37%** of the goods and services in the consumer price index had inflation above 4% in August, up from 20% in March.
 
 He said the length and size of the tightening cycle would depend on the data, especially underlying inflation, broadening price pressures and second-round effects of supply shocks.
 
-Deputy Governor Poonam Gupta, who is in charge of monetary policy, said much of the inflation came from external supply shocks with little sign yet of it becoming entrenched. She still backed the increase. "I favour raising the policy repo rate by 25 bps in this policy," she said, adding that the RBI should not wait for firm evidence of broadening when headline inflation was heading for 6%.
+Deputy Governor Poonam Gupta, who is in charge of monetary policy, said much of the inflation came from external supply shocks with little sign yet of it becoming entrenched. She still backed the increase. "I favour raising the policy repo rate by 25 bps in this policy," she said, adding that the RBI should not wait for firm evidence of broadening when headline inflation was heading for **6%**.
 
 Executive Director Indranil Bhattacharyya was more direct. With demand strong and money and credit growing fast, he said the committee should "set aside the 'cautiousness bias' and act in a pre-emptive manner."
 
 ## The external members
 
-Saugata Bhattacharya, an external member, said "price pressures are becoming entrenched in the economy", with input prices in the wholesale index rising close to 9% from a year earlier.
+Saugata Bhattacharya, an external member, said "price pressures are becoming entrenched in the economy", with input prices in the wholesale index rising close to **9%** from a year earlier.
 
 Nagesh Kumar listed a weak monsoon, costlier crude, high precious metal prices and the weaker rupee as sources of pressure. He described inflation as largely supply-driven, with no sign of the economy overheating, but said "it is important to manage inflationary expectations." Ram Singh said a calibrated increase was needed when judged by the real repo rate, while urging the committee to watch closely how far inflation was spreading.
 
 ## What it means
 
-The RBI raised its inflation forecast for 2026-27 to 5.2% from 5% and its growth forecast to 7.1% from 6.7%. It expects retail inflation to reach 6%, the upper edge of its 2-6% tolerance band, in the October-December quarter before easing to 5.7% in January-March.
+The RBI raised its inflation forecast for 2026-27 to **5.2%** from 5% and its growth forecast to 7.1% from 6.7%. It expects retail inflation to reach 6%, the upper edge of its 2-6% tolerance band, in the October-December quarter before easing to 5.7% in January-March.
 
 Retail inflation was 5.54% in September, pushed up by onion and other food prices, and wholesale inflation was 11.39%. With the stance now tilted towards tightening, the minutes leave the December meeting, due on December 2 to 4, open to a second increase if the October and November inflation numbers come in as the RBI expects.

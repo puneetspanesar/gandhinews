@@ -44,6 +44,6 @@ President Laura Fernández inaugurated the High-Containment Centre Against Organ
 
 Costa Rica was long spared the violence of its neighbours, but killings have hit record levels in recent years: 905 in 2023, 876 in 2024 and 873 in 2025. Analysts blame much of the rise on fighting between criminal groups over lucrative drug routes.
 
-Others in the region are following the same path. Peru's President Keiko Fujimori plans to tour El Salvador's Terrorism Confinement Centre, which can hold about 40,000 people, ahead of building one of her own. Colombia's President Abelardo de la Espriella campaigned on a promise of 10 mega-prisons, and Brazil's presidential candidate Flávio Bolsonaro, now in the final round, wants five.
+Others in the region are following the same path. Peru's President Keiko Fujimori plans to tour El Salvador's Terrorism Confinement Centre, which can hold about **40,000 people**, ahead of building one of her own. Colombia's President Abelardo de la Espriella campaigned on a promise of 10 mega-prisons, and Brazil's presidential candidate Flávio Bolsonaro, now in the final round, wants five.
 
 Bukele's "state of exception", in place since 2022, is credited by his government with a sharp fall in murders. Rights groups say it has brought mass arrests, mass trials, detention without charge and alleged torture, and has been used against critics.

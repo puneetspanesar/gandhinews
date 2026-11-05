@@ -40,12 +40,12 @@ verification:
     - "Microsoft's withdrawal from the Essex project is from The Neuron's summary of a BBC report (BBC not fetchable); hedged."
 ---
 
-Anthropic, the maker of the Claude AI models, and the data centre company Nscale are reported to be close to announcing a second computing deal worth $45 billion, two months after they signed one of the same size.
+Anthropic, the maker of the Claude AI models, and the data centre company Nscale are reported to be close to announcing a second computing deal worth **$45 billion**, two months after they signed one of the same size.
 
 The talks were described by people familiar with the matter, who cautioned that the details could still change. Neither company had commented by early Tuesday.
 
 If it goes ahead, the agreement would be the latest in a long run of very large deals Anthropic has struck over the past year to secure the computing power needed to train and run its models. Some investors have grown uneasy that AI companies are spending heavily on computing for too little profit, but Anthropic has kept signing such partnerships in the belief that they will pay off.
 
-Both companies are expected to seek stock market listings. Anthropic is still expected to go public this year, while Nscale was reported on Sunday to be meeting resistance from investors over a proposed $30 billion valuation.
+Both companies are expected to seek stock market listings. Anthropic is still expected to go public this year, while Nscale was reported on Sunday to be meeting resistance from investors over a proposed **$30 billion valuation**.
 
 The news follows a setback for Nscale in England, where Microsoft was reported to have pulled out of a planned AI data centre project in Essex. Nscale has said it still intends to build it.

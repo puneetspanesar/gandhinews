@@ -60,11 +60,11 @@ verification:
 
 Minister of State for Commerce and Industry Jitin Prasada has **held a round of meetings with Polish industry leaders** in Warsaw, looking for ways to bring the two countries closer in defence technology, space, IT, manufacturing and advanced electronics. He shared details of the talks on X on Wednesday.
 
-His first meeting was with Piotr Wojciechowski, president of the Polish defence and technology group **WB Group**. They discussed next-generation defence electronics, **unmanned aerial systems**, advanced communications, autonomous systems and tactical electronics.
+His first meeting was with Piotr Wojciechowski, president of the Polish defence and technology group **WB Group**. They discussed next-generation defence electronics, unmanned aerial systems, advanced communications, autonomous systems and tactical electronics.
 
 With Gaweł Łopiński, chief executive of IT and cloud services company **Billennium**, which has a presence in Pune, Prasada talked about investment, digital talent, cloud transformation and artificial intelligence.
 
-At space technology company **Creotech Instruments**, he met co-founder Grzegorz Brona and deputy chief executive Grzegorz Wrochna. The talks covered **micro-satellites, space hardware** and quantum technologies, and the scope for joint research and development.
+At space technology company **Creotech Instruments**, he met co-founder Grzegorz Brona and deputy chief executive Grzegorz Wrochna. The talks covered micro-satellites, space hardware and quantum technologies, and the scope for joint research and development.
 
 At the Indian Embassy, he met Adam Holewa, a board member of the **Boryszew Group** and chief executive of Maflow and BAP Group, to discuss technical cooperation, joint ventures and investment in India under the Make in India and production-linked incentive schemes, with a focus on supply chains.
 

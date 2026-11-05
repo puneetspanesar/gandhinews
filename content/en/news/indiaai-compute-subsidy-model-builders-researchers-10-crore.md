@@ -39,15 +39,15 @@ verification:
 
 India's flagship scheme to give subsidised computing power to AI developers has so far sent most of its money to a handful of companies building large models, while university researchers and students have received a tiny share.
 
-Of the ₹1,275 crore committed so far under the compute subsidy of the IndiaAI Mission, nine organisations building foundation models have received ₹1,058 crore. Researchers, students and fellows together have received about ₹10.14 crore, or 0.8% of the total. The figures come from the 304 compute approvals listed on the IndiaAI Compute Portal, as updated on October 8.
+Of the ₹1,275 crore committed so far under the compute subsidy of the IndiaAI Mission, nine organisations building foundation models have received **₹1,058 crore**. Researchers, students and fellows together have received about ₹10.14 crore, or 0.8% of the total. The figures come from the 304 compute approvals listed on the IndiaAI Compute Portal, as updated on October 8.
 
 ## Where the money has gone
 
-Sarvam AI now has its subsidy listed at its full bill of ₹246.72 crore. BharatGen, led by IIT Bombay, has the largest allocation among the foundation model builders.
+Sarvam AI now has its subsidy listed at its full bill of **₹246.72 crore**. BharatGen, led by IIT Bombay, has the largest allocation among the foundation model builders.
 
-A separate category meant for researchers and academia carries ₹172.81 crore, but most of that goes to a single approval: 2,080 Google TPUs granted to Zenteiq Aitech Innovations, a company founded by a professor at the Indian Institute of Science (IISc). That one approval is larger than the 1,050 TPUs that a December 2025 white paper from the Office of the Principal Scientific Adviser counted for the whole pool.
+A separate category meant for researchers and academia carries **₹172.81 crore**, but most of that goes to a single approval: 2,080 Google TPUs granted to Zenteiq Aitech Innovations, a company founded by a professor at the Indian Institute of Science (IISc). That one approval is larger than the 1,050 TPUs that a December 2025 white paper from the Office of the Principal Scientific Adviser counted for the whole pool.
 
-The mission does not own any GPUs itself. Private cloud companies on its panel supply the computing, at a tender rate of about ₹140 an hour for an Nvidia H100 chip.
+The mission does not own any GPUs itself. Private cloud companies on its panel supply the computing, at a tender rate of about **₹140** an hour for an Nvidia H100 chip.
 
 ## What researchers say
 

@@ -37,9 +37,9 @@ verification:
 
 Fighting between Yemen's internationally recognised government and the Houthis has intensified in Taiz province, and the United Nations says nearly 260,000 people have been forced from their homes across the country since August.
 
-Majid al-Nazili, a spokesperson for the government forces, said on Wednesday that they had carried out 835 strikes on Houthi positions, killing or wounding 285 fighters of the group, also known as Ansar Allah, and destroying tanks and weapons stores. He said heavy clashes had also taken place in the Jabal Han highlands of western Taiz, which overlook the roads linking the province to the government's base in Aden, and in the Dhubab and al-Masrakh districts. Those figures could not be independently confirmed.
+Majid al-Nazili, a spokesperson for the government forces, said on Wednesday that they had carried out **835 strikes** on Houthi positions, killing or wounding 285 fighters of the group, also known as Ansar Allah, and destroying tanks and weapons stores. He said heavy clashes had also taken place in the Jabal Han highlands of western Taiz, which overlook the roads linking the province to the government's base in Aden, and in the Dhubab and al-Masrakh districts. Those figures could not be independently confirmed.
 
-In a report released late on Wednesday, the UN Office for the Coordination of Humanitarian Affairs (OCHA) said about half of the newly displaced had taken refuge in Taiz, where the fighting is now concentrated. The UN human rights office has verified 251 civilian casualties, 57 killed and 194 injured. Half of those killed were children.
+In a report released late on Wednesday, the UN Office for the Coordination of Humanitarian Affairs (OCHA) said about half of the newly displaced had taken refuge in Taiz, where the fighting is now concentrated. The UN human rights office has verified **251 civilian casualties**, 57 killed and 194 injured. Half of those killed were children.
 
 "Newly displaced families say that their most pressing need is shelter, followed by food and cash," OCHA said. Aid groups have reached more than 174,000 displaced people since August. Yemen's education ministry says more than 2.5 million children are out of school because of the war.
 

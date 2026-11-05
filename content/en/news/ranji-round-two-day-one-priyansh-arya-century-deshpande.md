@@ -57,7 +57,7 @@ The only real setback for the home side came in the middle of the day, when Ayus
 
 Mumbai, without Yashasvi Jaiswal and Ayush Mhatre, had the better of the morning against Himachal Pradesh. Tushar Deshpande, who took a hat-trick in the first round, struck with the first ball of the match and again in his next over, and Himachal were 10 for 2 after three overs.
 
-The wickets kept coming. By lunch Mumbai had taken seven in the session, and Himachal were 95 for 7 after 29 overs, with A P Vashisht and Arpit Guleria together at the crease.
+The wickets kept coming. By lunch Mumbai had taken seven in the session, and Himachal were **95 for 7** after 29 overs, with A P Vashisht and Arpit Guleria together at the crease.
 
 ## Gill out cheaply, Shami absent
 

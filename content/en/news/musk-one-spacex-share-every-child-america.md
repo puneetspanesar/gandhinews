@@ -41,6 +41,6 @@ Elon Musk has said he will give one of his SpaceX shares to every child in the U
 
 He gave no details. It is not clear who would count as a child, when the shares would be distributed, what regulatory approvals would be needed, or whether recipients would hold the shares directly or through a trust.
 
-Musk has plenty to give. A SpaceX regulatory filing shows he held a 48.4% stake in the company as of June 30, about 6.42 billion shares in all. That includes 849.5 million Class A shares and 3.92 billion Class B shares held through trusts of which he is trustee. He also holds about 1.30 billion restricted Class B shares and stock options covering another 350 million.
+Musk has plenty to give. A SpaceX regulatory filing shows he held a **48.4% stake** in the company as of June 30, about 6.42 billion shares in all. That includes 849.5 million Class A shares and 3.92 billion Class B shares held through trusts of which he is trustee. He also holds about 1.30 billion restricted Class B shares and stock options covering another 350 million.
 
 SpaceX, one of the world's most valuable private companies, runs commercial rocket launches, the Starlink satellite internet service and human spaceflight. Its shares do not trade on a public exchange, which would make any mass handout to children an unusual exercise for a private company.

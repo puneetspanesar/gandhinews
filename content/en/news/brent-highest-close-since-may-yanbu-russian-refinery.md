@@ -51,7 +51,7 @@ verification:
 
 Oil prices jumped on Friday, sending Brent crude to its highest close since May, after a missile was fired at Saudi Arabia's most important export port and a drone attack knocked out part of a Russian refinery.
 
-Brent, the global benchmark, settled $3.94 or 3.7% higher at $109.86 a barrel. In the first four sessions of the week it had settled between $105.69 and $106.65. US West Texas Intermediate crude rose $3.44 to $101.41. Over the week Brent gained 4.9% and WTI 10.4%.
+Brent, the global benchmark, settled $3.94 or 3.7% **higher at $109.86** a barrel. In the first four sessions of the week it had settled between $105.69 and $106.65. US West Texas Intermediate crude rose $3.44 to $101.41. Over the week Brent gained 4.9% and WTI 10.4%.
 
 The jump came after a Saudi-led coalition said it had intercepted a ballistic missile aimed at Yanbu, on the Red Sea coast. No damage was reported, but the port matters more than ever. With traffic through the Strait of Hormuz cut back, Yanbu has become Saudi Arabia's main outlet for exports.
 
@@ -67,4 +67,4 @@ Washington has offered to lend oil companies up to 17 million barrels from its S
 
 Futures trading reopens on Sunday evening in New York, early on Monday in India, so any weekend incident will show up first in the price. There were several: on Saturday Iran's Revolutionary Guards said a supertanker had hit a mine in Hormuz, and a tanker was struck by a rocket-propelled grenade off Saudi Arabia's Gulf coast.
 
-The US government's weekly petroleum inventory report is due on Wednesday. For India, which imports about 88% of the crude it uses, every dollar matters: the import bill for April-September has already risen 46% to $90.6 billion.
+The US government's weekly petroleum inventory report is due on Wednesday. For India, which imports about **88%** of the crude it uses, every dollar matters: the import bill for April-September has already risen 46% to $90.6 billion.

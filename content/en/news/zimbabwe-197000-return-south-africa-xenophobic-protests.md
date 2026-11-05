@@ -10,7 +10,7 @@ standfirst: "Cabinet was told 197,294 people have come home since vigilante grou
 published: 2026-10-22T11:20:00+05:30
 location: Harare
 keyPoints:
-  - "Zimbabwe says **197,294** of its citizens have returned from South Africa amid attacks on migrants."
+  - "Zimbabwe says **197,294** of its citizens have returned from South Africa after attacks on migrants."
   - "Of them, **42,553** came home through government arrangements; the rest made their own way."
   - "Groups such as **Operation Dudula** have targeted Zimbabweans, Somalis, Nigerians and others."
 hero:
@@ -22,7 +22,7 @@ hero:
     value: "1.97 lakh return home"
 related: []
 seo:
-  description: "Zimbabwe's Cabinet was told on October 20 that 197,294 Zimbabweans have returned from South Africa amid anti-migrant protests and vigilante attacks."
+  description: "Zimbabwe's Cabinet was told on October 20 that 197,294 Zimbabweans have returned from South Africa after anti-migrant protests and vigilante attacks."
 sources:
   - title: "Nearly 200,000 Zimbabweans returned from South Africa"
     publisher: "New Zimbabwe (via AllAfrica)"
@@ -41,6 +41,6 @@ Ministers told a Cabinet meeting on Tuesday that 197,294 people had been repatri
 
 "As at October 6, 2026, a total of 42,553 returnees had been repatriated through Government arrangements," the government said in its post-Cabinet briefing. It said the numbers "significantly declined, for both Government-supported returnees and self-repatriates" in recent weeks, but added: "Government continues to monitor the situation and is ready to respond to any possible influx of returnees in the future."
 
-Among those brought back with state help were 10,475 men, 13,631 women and more than 18,000 children. Separately, 700 people deported from South Africa's Lindela Repatriation Centre were received at the Beitbridge border by late September. Some of them are convicts who must finish their sentences in Zimbabwe, and the security services are screening all returnees.
+Among those brought back with state help were 10,475 men, 13,631 women and more than 18,000 children. Separately, **700 people** deported from South Africa's Lindela Repatriation Centre were received at the Beitbridge border by late September. Some of them are convicts who must finish their sentences in Zimbabwe, and the security services are screening all returnees.
 
-The campaign against migrants has been led by groups including Operation Dudula and March and March, and former South African president Jacob Zuma has also been named among its leaders. Zimbabweans, Somalis, Nigerians, Ethiopians and Malawians have all been targeted. The drive peaked around June 30, when vigilantes issued a national call to chase foreigners out, but looting, violence and displacement have continued, most recently in Durban. Foreigners are being told to head for the nearest border from wherever they are.
+The campaign against migrants has been led by groups including **Operation Dudula** and March and March, and former South African president Jacob Zuma has also been named among its leaders. Zimbabweans, Somalis, Nigerians, Ethiopians and Malawians have all been targeted. The drive peaked around June 30, when vigilantes issued a national call to chase foreigners out, but looting, violence and displacement have continued, most recently in Durban. Foreigners are being told to head for the nearest border from wherever they are.

@@ -49,13 +49,13 @@ verification:
 
 Employees of IDBI Bank will go on a two-day nationwide hunger strike on November 2 and 3 to oppose the sale of the lender to Canada-based Fairfax Financial Holdings, their union forum announced on Monday.
 
-The United Forum of IDBI Officers and Employees (UFIOE), which brings together the two associations representing the bank's officers and staff, said it had served a formal strike notice on the management under the Industrial Relations Code, 2020. The code requires notice before workers in an establishment can strike.
+The United Forum of IDBI Officers and Employees (UFIOE), which brings together the two associations representing the bank's officers and staff, said it had served a formal strike notice on the management under the **Industrial Relations Code, 2020**. The code requires notice before workers in an establishment can strike.
 
 The agitation is aimed at the proposed transfer of management control to the Fairfax group, and at the dilution of the stakes held by the Union government and the Life Insurance Corporation of India (LIC).
 
 ## The deal they oppose
 
-The Union Cabinet on October 14 cleared the strategic sale of 60.72% of IDBI Bank to 10955230 Canada Inc, a Fairfax company, at ₹81 a share, for about ₹52,878 crore. The government has called it the largest foreign investment so far in India's financial sector.
+The Union Cabinet on October 14 cleared the strategic sale of **60.72%** of IDBI Bank to 10955230 Canada Inc, a Fairfax company, at ₹81 a share, for about ₹52,878 crore. The government has called it the largest foreign investment so far in India's financial sector.
 
 Unions and some former officials have argued that the Centre promised Parliament in 2003, when IDBI was converted into a bank, that it would keep a majority stake. The finance ministry said last week that the promise never made it into the law and pointed to a 2018 Delhi High Court ruling that statements in the House cannot override a statute.
 

@@ -47,15 +47,15 @@ verification:
     - "Jobless claims 194,000 from Benzinga and Yahoo."
 ---
 
-US government bond prices surged on Thursday, pushing the 10-year Treasury yield back below 5% in its sharpest one-day fall in more than three years as investors dumped technology shares and looked for safety.
+US government bond prices surged on Thursday, pushing the 10-year Treasury yield back below **5%** in its sharpest one-day fall in more than three years as investors dumped technology shares and looked for safety.
 
-The yield on the benchmark 10-year note fell about 19 basis points to roughly 4.95%. That was its biggest single-day decline since March 2023, when the collapse of several regional lenders shook the US banking system, and its first close below 5% since September 22. Yields move inversely to prices.
+The yield on the benchmark 10-year note fell about **19 basis points to roughly 4.95%**. That was its biggest single-day decline since March 2023, when the collapse of several regional lenders shook the US banking system, and its first close below 5% since September 22. Yields move inversely to prices.
 
-Shorter and longer bonds rallied too. During the day the two-year yield fell to about 4.69% and the 30-year to 5.32%.
+Shorter and longer bonds rallied too. During the day the two-year yield fell to about **4.69%** and the 30-year to 5.32%.
 
 ## Out of tech, into bonds
 
-The move came as worries over the cost of the artificial intelligence boom returned. The Nasdaq fell 2.6% and a gauge of chipmakers dropped 6.7% after Meta Platforms raised its spending forecast, and money that left technology shares flowed into bonds as well as defensive and financial stocks.
+The move came as worries over the cost of the artificial intelligence boom returned. The Nasdaq fell **2.6%** and a gauge of chipmakers dropped 6.7% after Meta Platforms raised its spending forecast, and money that left technology shares flowed into bonds as well as defensive and financial stocks.
 
 The fall in yields came despite a firm labour market and dearer oil. Weekly jobless claims fell to 194,000, the lowest in three months, and Brent crude rose above 10 a barrel. Market measures of expected inflation barely moved, suggesting much of this year's rise in yields has come from higher real rates rather than inflation fears.
 

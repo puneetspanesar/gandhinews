@@ -39,9 +39,9 @@ verification:
     - "No quotes in the source."
 ---
 
-Bengal will have Shahbaz Ahmed back for Sunday's Ranji Trophy match against Services at Palam A Stadium in Delhi, a timely return with two of their frontline seamers away on India A duty.
+Bengal will have Shahbaz Ahmed back for Sunday's Ranji Trophy match against Services at **Palam A Stadium** in Delhi, a timely return with two of their frontline seamers away on India A duty.
 
-The 31-year-old all-rounder was Bengal's leading wicket-taker last season with 35 wickets, but has had a run of injury setbacks. The latest was a right shoulder injury picked up in the Bengal Pro T20 League, which needed surgery in Mumbai.
+The 31-year-old all-rounder was Bengal's leading wicket-taker last season with **35 wickets**, but has had a run of injury setbacks. The latest was a right shoulder injury picked up in the Bengal Pro T20 League, which needed surgery in Mumbai.
 
 ## Shami at the head of the attack
 
@@ -53,6 +53,6 @@ Both teams trained at the ground on Saturday, but overnight rain left the practi
 
 ## Where the teams stand
 
-Bengal start the round in good shape. Coach Laxmi Ratan Shukla's side beat Delhi by nine wickets, with centuries from Abhishek Porel and Sudip Gharami, though they missed out on the maximum seven points because the win was neither by an innings nor by ten wickets. Services lost their opener to Maharashtra by 127 runs.
+Bengal start the round in good shape. Coach Laxmi Ratan Shukla's side beat Delhi by nine wickets, with centuries from Abhishek Porel and Sudip Gharami, though they missed out on the maximum seven points because the win was neither by an innings nor by ten wickets. Services lost their opener to Maharashtra by **127 runs**.
 
 The second round of the Elite group stage runs from October 18 to 21.

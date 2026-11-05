@@ -34,7 +34,7 @@ infographic:
     - {icon: check-circle, value: "52.5%", label: "Jackson's share against 46.3% for Collins in the count at concession"}
     - {icon: calendar-blank, value: "1997", label: "the year Collins first took her Senate seat"}
     - {icon: flag-banner, value: "7", label: "Republican-held Senate seats flipped by Democrats"}
-  source: "Bangor Daily News and Scripps News, November 4, 2026"
+  source: "Race calls and vote count, November 4, 2026"
 related: [us-midterms-democrats-win-senate-talarico-brown-flip, us-midterms-democrats-win-house-senate-in-balance, us-midterms-results-cooper-flips-north-carolina-senate]
 seo:
   description: "Republican Senator Susan Collins concedes the Maine Senate race to Democrat Troy Jackson, ending her 30-year tenure and giving Democrats a seventh flip in the 2026 midterms."

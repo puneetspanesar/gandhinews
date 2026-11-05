@@ -42,13 +42,13 @@ verification:
     - "No official quote available."
 ---
 
-The Central Consumer Protection Authority (CCPA) has fined a private company ₹1 lakh for misleading advertisements and product listings of walkie-talkies, the latest step in a crackdown on radio sets sold online without the disclosures the law requires.
+The Central Consumer Protection Authority (CCPA) has fined a private company **₹1 lakh** for misleading advertisements and product listings of walkie-talkies, the latest step in a crackdown on radio sets sold online without the disclosures the law requires.
 
 The Ministry of Consumer Affairs, Food and Public Distribution said on Sunday that the listings did not carry essential regulatory information, including the frequencies the devices operate on and the licensing rules that apply to them. The company was not named.
 
-The authority began the case on its own, after noticing walkie-talkies being listed and sold on a large scale on e-commerce platforms without the mandatory information. It has since identified more than 16,000 non-compliant listings across platforms and issued notices to 13 e-commerce entities.
+The authority began the case on its own, after noticing walkie-talkies being listed and sold on a large scale on e-commerce platforms without the mandatory information. It has since identified **more than 16,000** non-compliant listings across platforms and issued notices to 13 e-commerce entities.
 
-Final orders have so far been passed against 12 of them, with penalties adding up to ₹58 lakh for misleading advertisements and unfair trade practices linked to walkie-talkies.
+Final orders have so far been passed against 12 of them, with penalties adding up to **₹58 lakh** for misleading advertisements and unfair trade practices linked to walkie-talkies.
 
 ## Why the frequency matters
 

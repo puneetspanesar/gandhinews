@@ -52,19 +52,11 @@ Priyanshu Moliya says it took a while for the number to sink in. The 21-year-old
 
 He came in at No. 3 with Baroda in early trouble at **63 for 3**, after Dhruv Patel and Shashwat Rawat had gone. "My only thinking was to take the team to safety first and then build a strong total," he said.
 
-```photo
-{"n":1,"subject":"Deepak Hooda","caption":"Deepak Hooda, who added 91 with Moliya to steady Baroda's innings after an early collapse.","alt":"Baroda batter Deepak Hooda"}
-```
-
 ## The partnerships
 
 Moliya added 91 with Deepak Hooda, then **238 for the seventh wicket with Mahesh Pithiya** and 145 for the ninth with Rasikh Salam as Baroda piled up 616. Jammu and Kashmir were bowled out for 303 and fought back in the second innings through Abdul Samad's 143, so the match was drawn, with Baroda taking three points for the first-innings lead.
 
 Asked about his strengths, Moliya kept it simple: "I am very calm and patient."
-
-```photo
-{"n":2,"subject":"Reliance Stadium, Vadodara","caption":"Reliance Stadium in Vadodara, where Moliya made his record unbeaten 321 against Jammu and Kashmir.","alt":"Reliance Stadium cricket ground, Vadodara"}
-```
 
 ## A long road to 321
 

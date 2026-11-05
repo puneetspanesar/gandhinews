@@ -49,9 +49,9 @@ verification:
     - "Recommendations are the desk's own."
 ---
 
-In 2017 Bipin Agrwal was negotiating on behalf of his elderly mother-in-law with a builder who wanted to redevelop her housing society. The developers paid an advance of ₹2 lakh. Then Azad Maidan police arrested him for extortion. Only afterwards did they register the FIR. Dates on his arrest memo were overwritten, a notice that should have been served before any arrest was served after it, and police records called a man with a clean record a habitual offender likely to abscond. A magistrate sent him to custody, and he spent 26 days there.
+In 2017 Bipin Agrwal was negotiating on behalf of his elderly mother-in-law with a builder who wanted to redevelop her housing society. The developers paid an advance of ₹2 lakh. Then Azad Maidan police arrested him for extortion. Only afterwards did they register the FIR. Dates on his arrest memo were overwritten, a notice that should have been served before any arrest was served after it, and police records called a man with a clean record a habitual offender likely to abscond. A magistrate sent him to custody, and he spent **26 days** there.
 
-On Thursday the Bombay High Court called this "a case of sheer abuse of process by the developer in collusion with the police". Justices A S Gadkari and Kamal Khata ordered Maharashtra to pay him ₹5 lakh within two weeks, directed proceedings against the sub-inspector, and asked the High Court's administrative side to look at magistrates who extend remand without recording reasons.
+On Thursday the Bombay High Court called this "a case of sheer abuse of process by the developer in collusion with the police". Justices A S Gadkari and Kamal Khata ordered Maharashtra to pay him **₹5 lakh** within two weeks, directed proceedings against the sub-inspector, and asked the High Court's administrative side to look at magistrates who extend remand without recording reasons.
 
 It is a strong judgment. It also arrives nine years late, and the pattern it describes is not rare.
 

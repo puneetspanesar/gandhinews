@@ -49,12 +49,12 @@ verification:
 
 Four devotees of Goddess Bhavani were killed on Thursday morning when a speeding Scorpio SUV ran into them on the national highway at Kathipudi in Andhra Pradesh's Kakinada district, minutes after their bus had broken down.
 
-About 40 devotees from Denkada in Vizianagaram district were travelling by private bus to Vijayawada to seek the goddess's blessings. When the bus stopped for repairs at Kathipudi, in Sankhavaram mandal, some of them crossed the road to a shop for tea. The SUV hit them as they crossed.
+About **40 devotees** from Denkada in Vizianagaram district were travelling by private bus to Vijayawada to seek the goddess's blessings. When the bus stopped for repairs at Kathipudi, in Sankhavaram mandal, some of them crossed the road to a shop for tea. The SUV hit them as they crossed.
 
 Three men died on the spot. The fourth, critically injured, died on the way to hospital after local residents took him there. The dead were identified as Chirigidi Erraiah, 38, Lingala Seetharam, 45, Bonela Sattibabu, 40, and Tatipudi Sivaprasad, 40.
 
 Kakinada DSP Tilak inspected the site and police registered a case. They have not said whether the driver of the Scorpio has been held.
 
-Deputy Chief Minister Pawan Kalyan expressed grief and ordered a full inquiry into the crash, and promised support to the families. Home Minister Vangalapudi Anitha and Transport Minister Mandipalli Ram Prasad Reddy spoke to officials by phone, and Education Minister Nara Lokesh said the government would stand by the bereaved families. Endowments Minister Anam Ramanarayana Reddy urged Bhavani devotees to take care on long journeys and when crossing roads.
+Deputy Chief Minister Pawan Kalyan expressed grief and ordered a **full inquiry** into the crash, and promised support to the families. Home Minister Vangalapudi Anitha and Transport Minister Mandipalli Ram Prasad Reddy spoke to officials by phone, and Education Minister Nara Lokesh said the government would stand by the bereaved families. Endowments Minister Anam Ramanarayana Reddy urged Bhavani devotees to take care on long journeys and when crossing roads.
 
 Hours later, in Visakhapatnam, fireworks set off during a Durga idol procession at Valandapeta injured four children, one of whom was reported to be in a critical condition.

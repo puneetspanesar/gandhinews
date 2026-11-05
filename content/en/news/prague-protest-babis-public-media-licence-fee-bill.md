@@ -41,7 +41,7 @@ Thousands of people packed Prague's Old Town Square on Sunday to protest against
 
 The crowd chanted "We've had enough" and "This must not be allowed to pass" and called on Prime Minister Andrej Babiš's government to withdraw the legislation.
 
-The bill would scrap the household fees and fund public radio and television directly from the state budget instead, cutting their money by about 15%, possibly as early as next year. In a rare overnight sitting, the lower house approved fast-tracking it at 4:36 am on Saturday, leaving the opposition little time to debate. It still has to pass the upper house, and the opposition has said it will challenge the law in the Constitutional Court.
+The bill would scrap the household fees and fund public radio and television directly from the state budget instead, cutting their money by **about 15%**, possibly as early as next year. In a rare overnight sitting, the lower house approved fast-tracking it at 4:36 am on Saturday, leaving the opposition little time to debate. It still has to pass the upper house, and the opposition has said it will challenge the law in the Constitutional Court.
 
 Babiš, a billionaire who leads a coalition that includes two far-right parties, has said the plan is about transparency in funding and not an attack on media independence. Opponents compare it with moves by Viktor Orbán in Hungary and Robert Fico in Slovakia.
 

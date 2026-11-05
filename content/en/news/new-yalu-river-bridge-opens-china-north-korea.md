@@ -43,14 +43,14 @@ verification:
     - "Lim Eul-chul's 'groundbreaking development' phrase from Euronews."
 ---
 
-Trucks began rolling in both directions across the New Yalu River Bridge between China and North Korea late on Thursday morning, putting into service a crossing that had stood idle for 12 years after China finished building it.
+Trucks began rolling in both directions across the New Yalu River Bridge between China and North Korea late on Thursday morning, putting into service a crossing that had stood idle for **12 years** after China finished building it.
 
 Chinese Premier Li Qiang joined the opening ceremony by video link and said relations between the two neighbours were "entering a new stage and opening a new chapter". He added that "the successful opening of the bridge will not only strongly boost economic and trade cooperation between the two countries".
 
 Hundreds of people gathered on the Chinese side in Dandong and took selfies in front of the bridge before it opened. Some of the North Korean trucks that crossed were decorated with flowers. "I hope the standard of living in North Korea can rise to the level we have here," said Dandong resident Yu Shuyan.
 
-The four-lane bridge runs 3,026 metres to Sinuiju. It was completed in 2014, but North Korea never built the connecting roads and customs posts on its side as relations cooled. Until now, overland freight has used the narrow, two-lane Sino-Korean Friendship Bridge, built in 1943. China estimates the new crossing can handle up to 20,000 vehicles and 50,000 passengers a day.
+The four-lane bridge runs 3,026 metres to Sinuiju. It was completed in 2014, but North Korea never built the connecting roads and customs posts on its side as relations cooled. Until now, overland freight has used the narrow, two-lane Sino-Korean Friendship Bridge, built in 1943. China estimates the new crossing can handle up to **20,000 vehicles** and 50,000 passengers a day.
 
-Lim Eul-chul of Kyungnam University in South Korea called it a "groundbreaking development" that would substantially increase cargo traffic. China is already North Korea's dominant trading partner, and trade between the two rose 19.6% in the first half of 2026 to about $1.51 billion.
+Lim Eul-chul of Kyungnam University in South Korea called it a "groundbreaking development" that would substantially increase cargo traffic. China is already North Korea's dominant trading partner, and trade between the two rose **19.6%** in the first half of 2026 to about $1.51 billion.
 
 The opening follows Chinese President Xi Jinping's visit to Pyongyang in June and the return of passenger trains between the countries in March after six years. It also comes about a month after a road bridge between Russia and North Korea opened. South Korea's unification ministry said Seoul was "closely monitoring" the situation.

@@ -55,7 +55,7 @@ verification:
     - "Trump pressure on Donbas: NYT via NV, sourced to unnamed people; hedged."
 ---
 
-Ukraine's President Volodymyr Zelenskyy is meeting Donald Trump's special envoy Steve Witkoff in Oslo on Tuesday, in talks hosted by Norway and Finland that come as relations between Kyiv and Washington are badly strained.
+Ukraine's President Volodymyr Zelenskyy is meeting Donald Trump's special envoy Steve Witkoff in **Oslo on Tuesday**, in talks hosted by Norway and Finland that come as relations between Kyiv and Washington are badly strained.
 
 Norwegian Prime Minister Jonas Gahr Støre and Finnish President Alexander Stubb are taking part. Witkoff has travelled to the Norwegian capital, while Jared Kushner, Trump's son-in-law and fellow envoy, is joining remotely.
 
@@ -65,7 +65,7 @@ Britain, France, Germany and Poland, along with the European Union and NATO, are
 
 ## On to Putin
 
-From Oslo, Witkoff is expected to travel on to Russia to meet President Vladimir Putin. The agenda there is reported to include the possible release of an American held in Russia. Stephen Hubbard, 74, was detained in 2022 and sentenced to almost seven years for allegedly fighting as a mercenary for Ukraine.
+From Oslo, Witkoff is expected to **travel on to Russia** to meet President Vladimir Putin. The agenda there is reported to include the possible release of an American held in Russia. Stephen Hubbard, 74, was detained in 2022 and sentenced to almost seven years for allegedly fighting as a mercenary for Ukraine.
 
 According to people familiar with the plans quoted in the American press, Trump has grown more insistent that Zelenskyy accept a settlement, arguing that holding on to the Donbas is not worth the cost and that Ukraine could gain financially from a deal, even one drawn largely on Russia's terms.
 

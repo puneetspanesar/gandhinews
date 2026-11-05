@@ -47,13 +47,13 @@ verification:
     - "Ogura rides for Trackhouse; the official report counts it as an Aprilia top four (Trackhouse runs Aprilia machinery)."
 ---
 
-Marco Bezzecchi won the Indonesian Grand Prix at Mandalika on Sunday, and his Aprilia team-mate Jorge Martin took third to move back to the top of the MotoGP standings by two points from Marc Márquez.
+Marco Bezzecchi won the Indonesian Grand Prix at Mandalika on Sunday, and his Aprilia team-mate Jorge Martin took third to move back to the top of the MotoGP standings by **two points** from Marc Márquez.
 
 Raúl Fernández finished second for Trackhouse despite riding with two broken fingers from a crash in Saturday's Sprint, and his team-mate Ai Ogura was fourth. It was the first time Aprilia machines had filled the top four places in MotoGP.
 
 ## How the race unfolded
 
-Fernández led from the first corner, with Bezzecchi tucked in behind. The lead changed hands for the first time on lap 19 of 27, when Bezzecchi went past the Trackhouse rider. He quickly opened a gap of about 1.4 seconds and was 3.3 seconds clear by the final lap. It was his first win since Mugello.
+Fernández led from the first corner, with Bezzecchi tucked in behind. The lead changed hands for the first time on lap 19 of 27, when Bezzecchi went past the Trackhouse rider. He quickly opened a gap of about 1.4 seconds and was **3.3 seconds** clear by the final lap. It was his first win since Mugello.
 
 Pedro Acosta was fifth for KTM, just ahead of Márquez, the Ducati rider finishing sixth after winning Saturday's Sprint. Alex Márquez, Fabio Di Giannantonio, Fabio Quartararo and Enea Bastianini completed the top 10.
 
@@ -61,6 +61,6 @@ Pedro Acosta was fifth for KTM, just ahead of Márquez, the Ducati rider finishi
 
 Márquez had arrived on Sunday four points clear after Martin ran wide late in the Sprint and finished fourth. Sunday's result swung it back: Martin now leads by two points, with Bezzecchi 46 behind.
 
-In Moto3, 18-year-old Maximo Quiles of the CFMOTO Gaviota Aspar Team won at Mandalika to clinch the world title with five rounds remaining. Moto2 went to Guevara, who cut the gap to championship leader Gonzalez.
+In Moto3, 18-year-old Maximo Quiles of the CFMOTO Gaviota Aspar Team won at Mandalika to clinch the **world title** with five rounds remaining. Moto2 went to Guevara, who cut the gap to championship leader Gonzalez.
 
 The series moves to Phillip Island in Australia next.

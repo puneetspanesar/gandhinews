@@ -38,11 +38,11 @@ verification:
 
 South Korea has proposed military talks with North Korea to agree on exactly where the land border between them runs, as tension builds along a frontier where soldiers from the North have crossed into the South dozens of times this year.
 
-Kim Hong-cheol, the deputy defence minister for policy, said the talks would aim to confirm the location of the ground military demarcation line, restore military communication lines and prevent accidental clashes in border areas. Seoul said it was also open to three-way talks that would include the UN Command, which oversees the 1953 armistice.
+Kim Hong-cheol, the deputy defence minister for policy, said the talks would aim to confirm the location of the ground military demarcation line, **restore military communication lines** and prevent accidental clashes in border areas. Seoul said it was also open to three-way talks that would include the UN Command, which oversees the 1953 armistice.
 
 It is not clear whether Pyongyang will agree. Kim Jong Un has cut off almost all dialogue with the South in recent years.
 
-Part of the dispute is physical. Some of the boundary markers placed under the armistice have been lost over the decades, leaving room for argument about where the line lies. South Korea's military says North Korean soldiers crossed it 50 times this year while carrying out fortification work, and that it answered with warning shots and broadcasts. Mine blasts on September 21 wounded three South Korean soldiers; Seoul concluded that North Korean mines had been laid south of the line, which Pyongyang denies.
+Part of the dispute is physical. Some of the boundary markers placed under the armistice have been lost over the decades, leaving room for argument about where the line lies. South Korea's military says North Korean soldiers crossed it **50 times this year** while carrying out fortification work, and that it answered with warning shots and broadcasts. Mine blasts on September 21 wounded three South Korean soldiers; Seoul concluded that North Korean mines had been laid south of the line, which Pyongyang denies.
 
 North Korea's response so far has been defiant. Army Marshal Pak Jong Chon denied any breach, saying "our army knows where our borderline is better than any others", and called Seoul's claims "deliberate, premeditated and absurd". He threatened an "overwhelming response".
 

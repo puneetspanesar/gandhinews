@@ -61,7 +61,7 @@ Haryana's power strike went into its second day on Friday with large parts of Gu
 
 The strike was called by the Haryana Electricity Employees and Engineers Joint Struggle Front, which speaks for regular and contract workers and power engineers. About 40,000 of them stopped work at 10 pm on October 21 for three days, until October 24.
 
-Their target is an order of the Haryana Electricity Regulatory Commission (HERC) dated October 19. It gave Eleven Power Private Limited a 25-year parallel licence to distribute electricity in Gurugram and Nuh, the first such licence in the state. The employees want it cancelled and a clear state policy against parallel licences.
+Their target is an order of the Haryana Electricity Regulatory Commission (HERC) dated October 19. It gave Eleven Power Private Limited a **25-year parallel licence** to distribute electricity in Gurugram and Nuh, the first such licence in the state. The employees want it cancelled and a clear state policy against parallel licences.
 
 Front leader Devender Singh Hooda has said the strike is not about pay or allowances but about stopping privatisation and keeping power affordable for farmers and other consumers. Subhash Lamba, national president of the Electricity Employees Federation of India, and Shailendra Dubey, chairman of the All India Power Engineers Federation, have backed the stir. Lamba asked why the state had not acted earlier against the licence if the Chief Minister and the Power Minister were opposed to privatisation.
 
@@ -69,9 +69,9 @@ Farmer groups in the Samyukt Kisan Morcha, the Sarv Karamchari Sangh Haryana and
 
 ## Dark homes, dry taps
 
-The strike's first day left an estimated 10 lakh consumers affected. Gurugram logged more than 3,000 complaints within 12 hours, with outages in Sectors 5, 7, 10A and 52, Palam Vihar and Daulatabad. Residents said complaint centres had stopped answering, and some localities ran short of drinking water.
+The strike's first day left an estimated **10 lakh** consumers affected. Gurugram logged more than 3,000 complaints within 12 hours, with outages in Sectors 5, 7, 10A and 52, Palam Vihar and Daulatabad. Residents said complaint centres had stopped answering, and some localities ran short of drinking water.
 
-Factories in Gurugram's Sector 37, Kadipur and Basai stopped work. Deepak Maini, chairman of the Progressive Federation of Trade and Industry, warned that losses could run into crores of rupees. In Faridabad, residents of NIT-2 blocked a road after about 13 hours without power left their taps dry, and police moved them on. In Nuh, Punhana, Nagina and Firozpur Jhirka were hit. On Friday some villagers said they would not leave the road until supply came back.
+Factories in Gurugram's Sector 37, Kadipur and Basai stopped work. Deepak Maini, chairman of the Progressive Federation of Trade and Industry, warned that losses could run into crores of rupees. In Faridabad, residents of NIT-2 blocked a road after about **13 hours** without power left their taps dry, and police moved them on. In Nuh, Punhana, Nagina and Firozpur Jhirka were hit. On Friday some villagers said they would not leave the road until supply came back.
 
 ## The government's line
 

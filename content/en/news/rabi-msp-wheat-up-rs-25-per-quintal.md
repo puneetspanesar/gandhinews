@@ -5,15 +5,15 @@ type: news
 section: policy
 format_label: "Policy / Agriculture"
 topics: [agriculture-msp]
-title: "Rabi MSP for 2027–28: wheat up ₹25 a quintal, safflower and mustard get the biggest rises"
+title: "Rabi MSP for 2027-28: wheat up ₹25 a quintal, safflower and mustard get the biggest rises"
 standfirst: "Wheat's support price moves to ₹2,610, a rise of under 1%. Pulses and oilseeds get larger increases, which the Centre says will encourage crop diversification."
 published: 2026-10-11T09:00:00+05:30
 location: New Delhi
 keyPoints:
-  - "The Cabinet Committee on Economic Affairs approved **minimum support prices for six rabi crops** for the 2027–28 marketing season on September 30, 2026."
+  - "The Cabinet Committee on Economic Affairs approved **minimum support prices for six rabi crops** for the 2027-28 marketing season on September 30, 2026."
   - "Wheat **rises by ₹25 to ₹2,610 a quintal**, against a projected production cost of ₹1,264, a margin of 106%."
   - "**Safflower (+₹675)**, rapeseed-mustard (+₹413) and masoor (+₹390) get the largest increases in rupee terms."
-  - "The government says the rise follows its 2018–19 Budget promise to set MSP **at least 1.5 times** the all-India weighted average cost of production."
+  - "The government says the rise follows its 2018-19 Budget promise to set MSP **at least 1.5 times** the all-India weighted average cost of production."
 hero:
   need: "Wheat field in Punjab or Madhya Pradesh at sowing, or Cabinet briefing by Ashwini Vaishnaw on September 30, 2026"
   suggested_source: "PIB release PRID 2316956 and PIB photo gallery for the Sep 30, 2026 Cabinet briefing; credit PIB"
@@ -22,7 +22,7 @@ hero:
     value: "Wheat MSP up ₹25 to ₹2,610 a quintal"
 related: [msp-explained-how-set-who-benefits]
 seo:
-  description: "Cabinet sets rabi MSP for 2027–28: wheat ₹2,610 a quintal (+₹25), safflower +₹675, mustard +₹413, masoor +₹390. Crop-by-crop figures and margins over cost."
+  description: "Cabinet sets rabi MSP for 2027-28: wheat ₹2,610 a quintal (+₹25), safflower +₹675, mustard +₹413, masoor +₹390. Crop-by-crop figures and margins over cost."
 sources:
   - title: "Cabinet approves Minimum Support Prices (MSP) for Rabi Crops for Marketing Season 2027-28"
     publisher: "Press Information Bureau"
@@ -55,40 +55,40 @@ verification:
     - "Who announced the decision: the research file says Ashwini Vaishnaw briefed; this was not re-checked, so the copy says only that the CCEA approved it."
 ---
 
-The Centre has raised the minimum support price (MSP) of wheat by ₹25 to ₹2,610 a quintal for the 2027–28 rabi marketing season. The Cabinet Committee on Economic Affairs, chaired by Prime Minister Narendra Modi, approved new MSPs for six rabi crops on September 30, 2026, according to the Press Information Bureau.
+The Centre has raised the minimum support price (MSP) of wheat by **₹25** to ₹2,610 a quintal for the 2027-28 rabi marketing season. The Cabinet Committee on Economic Affairs, chaired by Prime Minister Narendra Modi, approved new MSPs for six rabi crops on September 30, 2026, according to the Press Information Bureau.
 
-The wheat increase works out to just under 1% over last season's ₹2,585, by our calculation. Oilseeds and pulses got much larger rises.
+The wheat increase works out to just under **1%** over last season's ₹2,585, by our calculation. Oilseeds and pulses got much larger rises.
 
 ## Crop by crop
 
-Safflower got the biggest increase, ₹675 to ₹7,215 a quintal. Rapeseed and mustard rise by ₹413 to ₹6,613, and masoor (lentil) by ₹390 to ₹7,390. Barley goes up ₹136 to ₹2,286 and gram ₹83 to ₹5,958.
+Safflower got the biggest increase, **₹675** to ₹7,215 a quintal. Rapeseed and mustard rise by ₹413 to ₹6,613, and masoor (lentil) by ₹390 to ₹7,390. Barley goes up ₹136 to ₹2,286 and gram ₹83 to ₹5,958.
 
 ```chart
-{"type":"hbar","title":"Rabi MSP increase for 2027–28, by crop","subtitle":"Rise over 2026–27 (₹ per quintal)","unit":"₹","data":[{"label":"Safflower","value":675},{"label":"Rapeseed & mustard","value":413},{"label":"Masoor (lentil)","value":390},{"label":"Barley","value":136},{"label":"Gram","value":83},{"label":"Wheat","value":25,"highlight":true}],"source":"PIB, Sep 30, 2026"}
+{"type":"hbar","title":"Rabi MSP increase for 2027-28, by crop","subtitle":"Rise over 2026-27 (₹ per quintal)","unit":"₹","data":[{"label":"Safflower","value":675},{"label":"Rapeseed & mustard","value":413},{"label":"Masoor (lentil)","value":390},{"label":"Barley","value":136},{"label":"Gram","value":83},{"label":"Wheat","value":25,"highlight":true}],"source":"PIB, Sep 30, 2026"}
 ```
 
-In percentage terms, by our calculation, safflower rises about 10.3%, mustard 6.7%, barley 6.3%, masoor 5.6%, gram 1.4% and wheat 1.0%.
+In percentage terms, by our calculation, safflower rises about **10.3%**, mustard 6.7%, barley 6.3%, masoor 5.6%, gram 1.4% and wheat 1.0%.
 
 ## Margins over cost
 
-The government says the MSPs follow the promise in the Union Budget 2018–19 to fix MSP at "at least 1.5 times of the All-India weighted average Cost of Production". The cost it uses covers paid-out costs such as hired labour, rent for leased land, inputs, irrigation, depreciation and interest on working capital, plus an imputed value for family labour.
+The government says the MSPs follow the promise in the Union Budget 2018-19 to fix MSP at "at least 1.5 times of the All-India weighted average Cost of Production". The cost it uses covers paid-out costs such as hired labour, rent for leased land, inputs, irrigation, depreciation and interest on working capital, plus an imputed value for family labour.
 
-On that basis, wheat carries the widest margin at 106% over its projected cost of ₹1,264 a quintal. Rapeseed-mustard follows at 96% and masoor at 92%. Gram (59%), barley (58%) and safflower (50%) are closer to the 1.5 times floor.
+On that basis, wheat carries the widest margin at 106% over its projected cost of ₹1,264 a quintal. Rapeseed-mustard follows at 96% and masoor at 92%. Gram (59%), barley (58%) and safflower (50%) are closer to the **1.5 times** floor.
 
 ```facts
-{"title":"Rabi MSP 2027–28 at a glance","items":[{"value":"₹2,610","label":"wheat MSP per quintal, up from ₹2,585","source":"PIB"},{"value":"106%","label":"wheat MSP margin over projected cost of ₹1,264","source":"PIB"},{"value":"₹7,215","label":"safflower MSP after a ₹675 rise, the largest of the six crops","source":"PIB"},{"value":"₹90,962 crore","label":"estimated financial implication of the rabi MSPs","source":"Outlook India"}]}
+{"title":"Rabi MSP 2027-28 at a glance","items":[{"value":"₹2,610","label":"wheat MSP per quintal, up from ₹2,585","source":"PIB"},{"value":"106%","label":"wheat MSP margin over projected cost of ₹1,264","source":"PIB"},{"value":"₹7,215","label":"safflower MSP after a ₹675 rise, the largest of the six crops","source":"PIB"},{"value":"₹90,962 crore","label":"estimated financial implication of the rabi MSPs","source":"Outlook India"}]}
 ```
 
 ## Why pulses and oilseeds got more
 
 The PIB release says the government has in recent years been promoting crops other than cereals, such as pulses and oilseeds, and has offered them higher MSPs to encourage crop diversification.
 
-The release also compares procurement across two periods. Wheat procurement rose to 3,715 lakh metric tonnes in 2014–15 to 2025–26, from 2,254 lakh tonnes in 2004–05 to 2013–14. MSP paid to wheat farmers rose from ₹2.56 lakh crore to ₹7.31 lakh crore over the same periods.
+The release also compares procurement across two periods. Wheat procurement rose to 3,715 lakh metric tonnes in 2014-15 to 2025-26, from 2,254 lakh tonnes in 2004-05 to 2013-14. MSP paid to wheat farmers rose from ₹2.56 lakh crore to ₹7.31 lakh crore over the same periods.
 
-Those figures show how much of the rabi MSP system rests on wheat. Of the 3,921 lakh tonnes of all six rabi crops procured in 2014–15 to 2025–26, wheat made up about 95%, by our calculation from the PIB numbers.
+Those figures show how much of the rabi MSP system rests on wheat. Of the 3,921 lakh tonnes of all six rabi crops procured in 2014-15 to 2025-26, wheat made up about 95%, by our calculation from the PIB numbers.
 
 ## What the cost adds up to
 
-Outlook India puts the estimated financial implication of the rabi MSPs at ₹90,962 crore; the PIB release does not give a figure. The MSP decision was one of three Cabinet approvals on September 30 that Outlook says total ₹2,79,157 crore, alongside a transmission and storage scheme and a Delhi traffic management system.
+The estimated financial implication of the rabi MSPs has been put at ₹90,962 crore; the PIB release does not give a figure. The MSP decision was one of three Cabinet approvals on September 30 that Outlook says total ₹2,79,157 crore, alongside a transmission and storage scheme and a Delhi traffic management system.
 
-The new rates apply to procurement in the 2027–28 rabi marketing season. The kharif MSPs for 2026–27, approved in May, set common paddy at ₹2,441 a quintal, according to a PTI report carried by DT Next.
+The new rates apply to procurement in the 2027-28 rabi marketing season. The kharif MSPs for 2026-27, approved in May, set common paddy at ₹2,441 a quintal.

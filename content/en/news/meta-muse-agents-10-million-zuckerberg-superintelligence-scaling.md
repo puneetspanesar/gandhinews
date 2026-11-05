@@ -59,22 +59,22 @@ Mark Zuckerberg used Meta's quarterly results on Wednesday to make the case that
 
 ## A record quarter, and a costly one
 
-The money for that bet is now visible in every line of the accounts. Revenue rose 26% from a year earlier to a record $64.6 billion, ahead of analysts' forecasts. But operating margin fell to 20%, from 40% a year ago, and free cash flow was negative at $2.1 billion.
+The money for that bet is now visible in every line of the accounts. Revenue rose 26% from a year earlier to a record $64.6 billion, ahead of analysts' forecasts. But operating margin fell to 20%, from 40% a year ago, and free cash flow was **negative at $2.1 billion**.
 
-Capital spending in the quarter reached $34.9 billion, almost double the $19.4 billion of a year earlier, as Meta builds data centres to train and run its models. The company narrowed its forecast for 2026 capital spending to between $135 billion and $145 billion. Chief financial officer Susan Li gave no figure for next year. "We are quite early in developing our budget and capacity plans for next year," she said, adding that details would come with the fourth-quarter results.
+Capital spending in the quarter reached **$34.9 billion**, almost double the $19.4 billion of a year earlier, as Meta builds data centres to train and run its models. The company narrowed its forecast for 2026 capital spending to between $135 billion and $145 billion. Chief financial officer Susan Li gave no figure for next year. "We are quite early in developing our budget and capacity plans for next year," she said, adding that details would come with the fourth-quarter results.
 
-Legal costs also bit. Li said the quarter carried "a $9.9 billion charge related to the August 2026 Multistate Attorneys General Agreement", the settlement with US states over youth safety on Meta's apps. Net income was $9.9 billion, or $3.83 a share; without the charge, earnings would have been about $7.40 a share. Separately, a judge in New Mexico ordered Meta to pay $25 billion in penalties in a privacy case linked to the Cambridge Analytica scandal. Meta plans to appeal.
+Legal costs also bit. Li said the quarter carried "a $9.9 billion charge related to the August 2026 Multistate Attorneys General Agreement", the settlement with US states over youth safety on Meta's apps. Net income was **$9.9 billion**, or $3.83 a share; without the charge, earnings would have been about $7.40 a share. Separately, a judge in New Mexico ordered Meta to pay $25 billion in penalties in a privacy case linked to the Cambridge Analytica scandal. Meta plans to appeal.
 
 ## Muse and the agents
 
 Meta Superintelligence Labs released Muse Wonder, which it calls its first frontier model, about a week before the results. "Muse Wonder is state of the art across many dimensions that matter for personal superintelligence," Zuckerberg said.
 
-He said engagement per person with the Meta AI assistant "has more than doubled since April when we started rolling out our new models", and that Meta's family of apps is now used by 3.64 billion people each day.
+He said engagement per person with the Meta AI assistant "has more than doubled since April when we started rolling out our new models", and that Meta's family of apps is now used by **3.64 billion people** each day.
 
 The company is doing all this with fewer people. "We ended Q3 with over 66,000 employees, down 12% from Q2 following the May 2026 headcount reduction," Li said.
 
 ## How investors took it
 
-Investors looked past the charges. Meta forecast fourth-quarter revenue of $73 billion to $76 billion and announced a two-for-one stock split, under which holders of its Class A shares will receive a new non-voting Class C share. The shares rose about 4 to 5% in after-hours trading.
+Investors looked past the charges. Meta forecast fourth-quarter revenue of $73 billion to **$76 billion** and announced a two-for-one stock split, under which holders of its Class A shares will receive a new non-voting Class C share. The shares rose about 4 to 5% in after-hours trading.
 
 The wider industry is spending on a similar scale. Technology companies' capital spending is expected to reach about $790 billion this year, nearly double 2025, and $1.2 trillion in 2027, according to analysts' estimates. Meta's results suggest investors will keep funding that build-out for now, as long as revenue keeps growing.

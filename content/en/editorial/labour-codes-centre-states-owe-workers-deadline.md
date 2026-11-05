@@ -65,11 +65,11 @@ The rules that do exist already differ in ways that matter. Several states make 
 
 ## The case for taking time
 
-States have reasons to go carefully. The codes reshape rules on unions, strikes and retrenchment, and labour is a shared subject. In July, The Tribune reported that Kerala had asked for more time to study certain aspects of the codes. A state that wants to consult unions and employers properly is doing its job, and a rushed rule can be worse than a delayed one.
+States have reasons to go carefully. The codes reshape rules on unions, strikes and retrenchment, and labour is a shared subject. In July, Kerala was reported to have asked for more time to study certain aspects of the codes. A state that wants to consult unions and employers properly is doing its job, and a rushed rule can be worse than a delayed one.
 
 There are also open questions that the Centre has not settled. A Grant Thornton Bharat report launched at the same seminar flagged the lack of definitions for managerial, administrative and supervisory roles, and the rule on paying wages within two working days of a worker leaving.
 
-Both points argue for clear timelines. Consultation has a beginning and an end. Nearly 11 months after the codes took effect, and five months after the central rules, a state that has published only a draft should be able to say when it will finish.
+Both points argue for clear timelines. Consultation has a beginning and an end. Nearly **11 months** after the codes took effect, and five months after the central rules, a state that has published only a draft should be able to say when it will finish.
 
 ## What is missing is information
 

@@ -37,9 +37,9 @@ verification:
     - "Court, judge, charges and bail conditions not given in source."
 ---
 
-A man arrested in Delhi on suspicion of uploading the contested "sting" video of former Karnataka Chief Minister Siddaramaiah has been granted bail, Bengaluru police have said.
+A man arrested in Delhi on suspicion of uploading the contested "sting" video of former Karnataka Chief Minister Siddaramaiah has been **granted bail**, Bengaluru police have said.
 
-The city's Central Crime Branch (CCB) picked up Ritesh Pandey, a resident of Ghaziabad in Uttar Pradesh, in Delhi. He was produced before a local court on Friday afternoon and released on bail. Police have not said what he is charged with.
+The city's Central Crime Branch (CCB) picked up **Ritesh Pandey**, a resident of Ghaziabad in Uttar Pradesh, in Delhi. He was produced before a local court on Friday afternoon and released on bail. Police have not said what he is charged with.
 
 Investigators suspect Pandey was the main person who put the clip on social media. According to the police, he received the video on a pen drive, bought a second-hand smartphone in Delhi, and used it without a SIM card, over Wi-Fi, to circulate the footage. The phone has been seized and sent for forensic examination. Police also found that his X account followed only four profiles, among them Prime Minister Narendra Modi and Union Minister H D Kumaraswamy. Pandey was reported to have worked at Kumaraswamy's camp office; there has been no comment from the minister.
 

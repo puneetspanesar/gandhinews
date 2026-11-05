@@ -52,7 +52,7 @@ What it proved is narrow but strong. Each program, the post says, "will always e
 
 ## The bugs that testing missed
 
-Getting there meant fixing the code first. Claude patched what it found and then proved the patched version, and the team says hundreds of bugs surfaced on the way, some of which had survived trillions of automated test runs.
+Getting there meant fixing the code first. Claude patched what it found and then proved the patched version, and the team says **hundreds of bugs** surfaced on the way, some of which had survived trillions of automated test runs.
 
 Among them were a counter underflow in a decompressor that could cause an out-of-bounds write, but only on a rare input of about 20 MB, and an image decoder flaw that needed a 64 MB input and more than 2 GB of memory to show itself. Another out-of-bounds read appeared only after a particular sequence of calls on two handles to the same file. Claude also rediscovered a known vulnerability in libexpat, the XML parser, which required deeply nested input.
 

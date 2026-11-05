@@ -39,7 +39,7 @@ verification:
 
 India's civil defence volunteers are to be trained by the Army for the first time, under a pilot the Union Home Ministry announced on Friday afternoon.
 
-In the first phase, 600 civil defence master trainers, 50 from each of 12 states and Union Territories, are to go through a three-day course at designated Army training establishments by the second week of November. Each of them is then expected to train 100 civil defence volunteers back home. If that cascade works as planned, about 60,000 volunteers in the 12 regions would pick up the new skills. The ministry called this multiplier effect, built on a structured master trainer model, the key feature of the scheme, since a small group trained by the Army can carry the course much further than the Army could on its own.
+In the first phase, **600 civil defence master trainers**, 50 from each of 12 states and Union Territories, are to go through a three-day course at designated Army training establishments by the second week of November. Each of them is then expected to train 100 civil defence volunteers back home. If that cascade works as planned, about 60,000 volunteers in the 12 regions would pick up the new skills. The ministry called this multiplier effect, built on a structured master trainer model, the key feature of the scheme, since a small group trained by the Army can carry the course much further than the Army could on its own.
 
 The states and UTs in the first round are Jammu and Kashmir, Punjab, Rajasthan, Gujarat, Delhi, Meghalaya, Sikkim, Assam, Uttar Pradesh, Kerala, Karnataka and Tamil Nadu.
 

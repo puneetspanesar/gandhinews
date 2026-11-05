@@ -35,7 +35,7 @@ verification:
     - "Single source (ANI via Tribune, 2:29 pm IST). No direct quote from Rahman available; his roadside remarks paraphrased. Rajshahi and Chattogram visits were planned at time of report, written as due."
 ---
 
-Bangladesh's Prime Minister Tarique Rahman spent Mahanavami, the ninth day of Durga Puja, among Hindu devotees in Rangpur on Tuesday, visiting the pandal at the historic Radha Govinda Dharmasabha Temple.
+Bangladesh's Prime Minister Tarique Rahman spent Mahanavami, the ninth day of Durga Puja, among Hindu devotees in Rangpur on Tuesday, visiting the pandal at the historic **Radha Govinda Dharmasabha Temple**.
 
 It was his first visit to Rangpur as Prime Minister since his Bangladesh Nationalist Party won the 13th parliamentary election. He flew from Dhaka's Tejgaon airport on an air force aircraft at 9 am, landed at Saidpur at 9:50 am and drove on to Rangpur, where ministers and local officials received him.
 
@@ -43,8 +43,8 @@ Party supporters lined the road at Taraganj and Paglapir. Rahman waved from his 
 
 He reached the pandal at about 12:05 pm. Temple and puja committee leaders welcomed him, and he exchanged greetings with devotees and posed for selfies at their request.
 
-Prashanta Kumar Roy, general secretary of the Rangpur city unit of the Bangladesh Puja Udjapan Parishad, said Durga Puja was being held at 964 pandals across Rangpur district this year, more than last year.
+Prashanta Kumar Roy, general secretary of the Rangpur city unit of the Bangladesh Puja Udjapan Parishad, said Durga Puja was being held at **964 pandals** across Rangpur district this year, more than last year.
 
 From Rangpur, Rahman was due to fly back via Saidpur to Rajshahi to visit the Dharmasabha Temple pandal there, then go on to a pandal in Chattogram before returning to Dhaka at night.
 
-Durga Puja is the biggest festival of Bangladesh's Hindu community. This year's celebrations end on Wednesday with the immersion of idols on Bijoya Dashami.
+Durga Puja is the biggest festival of Bangladesh's Hindu community. This year's celebrations end on Wednesday with the immersion of idols on **Bijoya Dashami**.

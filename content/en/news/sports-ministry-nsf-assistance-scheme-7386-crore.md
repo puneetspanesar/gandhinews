@@ -37,13 +37,13 @@ verification:
     - "Hero: Shastri Bhawan is the ministry's address; picked as the place, not stated in the source."
 ---
 
-The Ministry of Youth Affairs and Sports has issued revised guidelines for its main funding scheme for national sports federations, with a total outlay of ₹7,386.74 crore for the five years from 2026-27 to 2030-31.
+The Ministry of Youth Affairs and Sports has issued revised guidelines for its main funding scheme for national sports federations, with a total outlay of **₹7,386.74 crore** for the five years from 2026-27 to 2030-31.
 
 The Scheme of Assistance to National Sports Federations, which the government has approved for the 16th Finance Commission cycle, pays for much of what federations do, from athletes' boarding, lodging, kit and insurance to sports science support. The new guidelines widen what it can be used for.
 
 ## Money for big events
 
-Federations bidding to host international competitions can now receive up to ₹50 crore per event. The amount will depend on the importance of the event and the number of countries and athletes taking part, and proposals will be assessed by a committee headed by the Secretary (Sports).
+Federations bidding to host international competitions can now receive up to **₹50 crore** per event. The amount will depend on the importance of the event and the number of countries and athletes taking part, and proposals will be assessed by a committee headed by the Secretary (Sports).
 
 The same ceiling of ₹50 crore applies to the National Games, covering sports equipment, timing, scoring and results services, technical operations and the fees of technical officials.
 

@@ -56,7 +56,7 @@ verification:
     - "21 hours computed from 2 pm Sep 29 to 11 am Sep 30, 2025."
 ---
 
-The Supreme Court on Thursday held that the **24-hour deadline to produce an accused before a magistrate runs from the moment of actual detention**, not from the time police formally record an arrest.
+The Supreme Court on Thursday held that the 24-hour deadline to produce an accused before a magistrate **runs from the moment of actual detention**, not from the time police formally record an arrest.
 
 A bench of Justices Ujjal Bhuyan and Atul S Chandurkar ruled on appeals by four men who had been refused bail by the Tripura High Court in a case under the Narcotic Drugs and Psychotropic Substances (NDPS) Act. The four were **detained at 2 pm on September 29, 2025** during a search and seizure, but were shown as arrested only at 11 am the next day.
 
@@ -64,7 +64,7 @@ The court said they should have been produced before a magistrate within 24 hour
 
 ## No gap between detention and arrest
 
-The bench said the words "arrested" and "detained" in Article 22(2) of the Constitution must be read together. It held that **"any attempt to draw an artificial distinction between detention and arrest is constitutionally unsustainable."**
+The bench said the words "arrested" and "detained" in Article 22(2) of the Constitution must be read together. It held that "any attempt to draw an artificial distinction between detention and arrest is constitutionally unsustainable."
 
 Treating the clock as starting only after search, seizure and formal arrest was, the judges said, "not only unsustainable in law but is entirely unconstitutional." Time spent on inquiry or investigation before the formal arrest cannot be left out. The only exception, they said, is "the time necessary for the journey" to the magistrate.
 

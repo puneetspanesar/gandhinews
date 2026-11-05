@@ -54,17 +54,17 @@ verification:
     - "Publication time set to late evening; Business Standard's report is timestamped 11:10 pm IST."
 ---
 
-Billionbrains Garage Ventures, the company behind the Groww investing app, reported a 54% jump in quarterly profit on Wednesday, while the share of its income from futures and options trading kept shrinking.
+Billionbrains Garage Ventures, the company behind the Groww investing app, reported a **54%** jump in quarterly profit on Wednesday, while the share of its income from futures and options trading kept shrinking.
 
-Consolidated net profit for July to September rose to ₹725.65 crore from ₹471.34 crore a year earlier. It was 1.3% lower than the ₹735.04 crore earned in April to June.
+Consolidated net profit for July to September rose to **₹725.65 crore** from ₹471.34 crore a year earlier. It was 1.3% lower than the ₹735.04 crore earned in April to June.
 
-Revenue from operations rose 47% to ₹1,501.53 crore from ₹1,018.74 crore, but was flat compared with the previous quarter.
+Revenue from operations rose **47%** to ₹1,501.53 crore from ₹1,018.74 crore, but was flat compared with the previous quarter.
 
-Equity derivatives brought in 44.8% of Groww's revenue in the quarter, down from 56.9% a year earlier, as the rest of the business grew faster than futures and options broking.
+Equity derivatives brought in **44.8%** of Groww's revenue in the quarter, down from 56.9% a year earlier, as the rest of the business grew faster than futures and options broking.
 
 ## BHEL and Canara Bank
 
-State-run Bharat Heavy Electricals (BHEL) more than doubled its standalone net profit to ₹809.62 crore from ₹367.70 crore a year earlier. Revenue from operations rose 23.8% to ₹9,300 crore, and its operating margin widened to 11.02% from 7.73%. In the first half of the year BHEL earned ₹1,192 crore, against a loss of ₹87 crore a year ago.
+State-run Bharat Heavy Electricals (BHEL) more than doubled its standalone net profit to **₹809.62 crore** from ₹367.70 crore a year earlier. Revenue from operations rose 23.8% to ₹9,300 crore, and its operating margin widened to 11.02% from 7.73%. In the first half of the year BHEL earned ₹1,192 crore, against a loss of ₹87 crore a year ago.
 
 Its shares rose as much as 5% to a new high of ₹463.10 on the BSE, above the previous peak of ₹455.90 set on October 7. The stock has roughly doubled in a year, while the Sensex has fallen about 11% over the same period.
 

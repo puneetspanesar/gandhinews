@@ -11,7 +11,7 @@ published: 2026-10-11T09:00:00+05:30
 location: New Delhi
 keyPoints:
   - "The consent manager framework under the Digital Personal Data Protection Rules, 2025 **begins on November 13, 2026**, one year after the rules were notified."
-  - "The Data Protection Board of India was legally established in November 2025 but **has no chairperson or members**, according to LiveLaw and the India Data Law tracker."
+  - "The Data Protection Board of India was legally established in November 2025 but **has no chairperson or members**, according to the India Data Law tracker."
   - "MeitY invited applications for a chairperson and four members on May 6, 2026; **no appointment has been announced**."
   - "Most obligations on companies, and the Board's power to impose penalties of up to ₹250 crore, **take effect on May 13, 2027**."
 hero:
@@ -63,7 +63,7 @@ verification:
     - "India Data Law date in sources is approximate (page says verified August 2026)."
 ---
 
-The framework for consent managers under India's data protection law begins on November 13, 2026. The Data Protection Board, which is meant to oversee them, still has no chairperson or members, according to LiveLaw and the India Data Law tracker.
+The framework for consent managers under India's data protection law begins on November 13, 2026. The Data Protection Board, which is meant to oversee them, still has no chairperson or members, according to the India Data Law tracker.
 
 The Digital Personal Data Protection Rules, 2025 were notified in November 2025 and come into force in phases over 18 months. The provisions setting up the Board took effect on notification. The consent manager framework starts a year later, and most obligations on companies apply from May 13, 2027.
 
@@ -75,11 +75,11 @@ Consent managers are companies that give people one platform to give, manage, re
 
 The Board was established in law when the rules were notified. The Ministry of Electronics and Information Technology (MeitY) invited applications for a chairperson and four members in a circular dated May 6, 2026, and a recruitment advertisement followed on June 6, according to India Data Law.
 
-Two search-cum-selection committees are handling the appointments, one chaired by the Cabinet Secretary for the chairperson and one chaired by the MeitY Secretary for the members, LiveLaw reported. A Lok Sabha written answer on August 12 confirmed the advertisement, according to India Data Law.
+Two search-cum-selection committees are handling the appointments, one chaired by the Cabinet Secretary for the chairperson and one chaired by the MeitY Secretary for the members. A Lok Sabha written answer on August 12 confirmed the advertisement, according to India Data Law.
 
 > A Board with no Members cannot convene a bench, cannot hear a party, and cannot sign an order, reasoned or otherwise.
 >
-> Source: Raghvendra Kumar Chaudhary, assistant professor of law, CHRIST (Deemed to be University), writing in LiveLaw, August 1, 2026
+> Source: Raghvendra Kumar Chaudhary, assistant professor of law, CHRIST (Deemed to be University), writing on August 1, 2026
 
 India Data Law, which checks the Board's status monthly, says it "cannot receive a complaint and it cannot pass an order." Gandhi News found no report of an appointment up to October 11, 2026.
 
@@ -89,7 +89,7 @@ India Data Law, which checks the Board's status monthly, says it "cannot receive
 
 ## Why it matters before May 2027
 
-From May 13, 2027, the Board's powers to inquire into breaches and impose penalties take effect, India Data Law says. Under the Act, failure to keep reasonable security safeguards can draw a penalty of up to ₹250 crore, and failure to report a breach or meet obligations on children's data up to ₹200 crore, according to the PIB backgrounder.
+From May 13, 2027, the Board's powers to inquire into breaches and impose penalties take effect, India Data Law says. Under the Act, failure to keep reasonable security safeguards can draw a penalty of up to **₹250 crore**, and failure to report a breach or meet obligations on children's data up to ₹200 crore, according to the PIB backgrounder.
 
 Companies must also report personal data breaches to the Board. Appeals against the Board's decisions go to the Telecom Disputes Settlement and Appellate Tribunal.
 

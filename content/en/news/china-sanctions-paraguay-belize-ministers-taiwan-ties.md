@@ -10,7 +10,7 @@ standfirst: "Beijing froze the ministers' assets in China and barred them from e
 published: 2026-10-13T04:00:00+05:30
 location: Beijing
 keyPoints:
-  - "China sanctioned **Belize's foreign minister Francis Fonseca and Paraguay's ICT minister Gustavo Villate**."
+  - "China sanctioned Belize's foreign minister **Francis Fonseca** and Paraguay's ICT minister Gustavo Villate."
   - "The measures include **asset freezes, entry bans** and a ban on Chinese dealings with the two men."
   - "Taiwan's defence ministry is **monitoring Chinese live-fire drills** in five coastal zones this week."
 hero:
@@ -65,7 +65,7 @@ verification:
 
 China on Monday imposed sanctions on two serving ministers from countries that recognise Taiwan, accusing them of acting as "pawns" of the island's government and warning other capitals to take note.
 
-The targets are Francis Fonseca, Belize's foreign minister, and Gustavo Villate, Paraguay's minister of information and communication technologies. Beijing said it would freeze any assets they hold in China, deny them visas, including for Hong Kong and Macau, and bar Chinese organisations and individuals from dealing with them.
+The targets are **Francis Fonseca**, Belize's foreign minister, and Gustavo Villate, Paraguay's minister of information and communication technologies. Beijing said it would freeze any assets they hold in China, deny them visas, including for Hong Kong and Macau, and bar Chinese organisations and individuals from dealing with them.
 
 Foreign Ministry spokesperson Mao Ning told a briefing in Beijing that the measures were meant to "penalize them and serve as a warning to others". "Certain politicians in Paraguay and Belize have willingly served as pawns of the Taiwan authorities," she said, accusing them of meeting "Taiwan independence separatists" and of spreading "disinformation about Chinese cyberattacks".
 

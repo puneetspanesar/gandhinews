@@ -70,7 +70,7 @@ verification:
     - "Mandhana's quote is only partly available: 'To be given the responsibility of leading India is a very special honour.'"
 ---
 
-Smriti Mandhana walks out as India's full-time captain for the first time on Friday, when India women open a three-match T20I series against Zimbabwe in Raipur. It is the first bilateral series the two sides have played.
+Smriti Mandhana walks out as India's full-time captain for the first time on Friday, when India women open a three-match T20I series against Zimbabwe in Raipur. It is the **first bilateral series** the two sides have played.
 
 Mandhana was named captain across all formats on October 6, the same day Harmanpreet Kaur gave up the job. "To be given the responsibility of leading India is a very special honour," Mandhana said when the change was announced.
 
@@ -80,7 +80,7 @@ She is no stranger to the role. As Harmanpreet's long-time deputy she had alread
 
 Harmanpreet announced her decision on Instagram. "Today, I step down as captain of the Indian Women's Cricket Team across all formats," she wrote. "Now, I'm ready to play for the love of the game again. Captaincy ends. The journey continues."
 
-She leaves a long record behind her: 5 Tests, 51 ODIs and 155 T20Is as captain, the first Women's World Cup title in November 2025, and back-to-back Asian Games golds. Her final match in charge was last month's Asian Games final in Aichi-Nagoya, where India beat Sri Lanka by 147 runs after making 216 for 3, with Mandhana scoring 79 and Shafali Verma 67.
+She leaves a long record behind her: 5 Tests, 51 ODIs and **155 T20Is** as captain, the first Women's World Cup title in November 2025, and back-to-back Asian Games golds. Her final match in charge was last month's Asian Games final in Aichi-Nagoya, where India beat Sri Lanka by 147 runs after making 216 for 3, with Mandhana scoring 79 and Shafali Verma 67.
 
 Harmanpreet is in both the T20I and ODI squads for Zimbabwe. On Thursday she and the team were in New Delhi, where she presented a signed jersey to Prime Minister Narendra Modi at the felicitation of the Asian Games contingent.
 

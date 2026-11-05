@@ -45,14 +45,14 @@ verification:
 
 Union Shipping Minister Sarbananda Sonowal on Friday opened the corporate office of Sagarmala Finance Corporation Limited (SMFCL), the government's new lender for ports and shipping, at the Institute for Studies in Industrial Development in New Delhi.
 
-SMFCL is India's first non-banking finance company dedicated to the maritime sector. By September 30 it had sanctioned ₹11,563 crore and disbursed ₹5,107 crore, so more than half of what it has approved is still to be drawn. It aims to reach ₹60,205 crore in cumulative financing by the end of 2030-31, a target that depends on equity support to keep it within the Reserve Bank's norms on debt to equity.
+SMFCL is India's first non-banking finance company dedicated to the maritime sector. By September 30 it had sanctioned **₹11,563 crore** and disbursed ₹5,107 crore, so more than half of what it has approved is still to be drawn. It aims to reach ₹60,205 crore in cumulative financing by the end of 2030-31, a target that depends on equity support to keep it within the Reserve Bank's norms on debt to equity.
 
 Sonowal said the company was "playing a pivotal role in mobilising long-term finance for port-led development", and that "India is building a stronger, more self-reliant and globally competitive maritime sector".
 
 ## Two funds alongside
 
-SMFCL also channels the government's contribution, of up to ₹9,800 crore, to the Maritime Investment Fund, part of the wider Maritime Development Fund. SBI Ventures has been appointed to manage it. The fund is due to be registered with SEBI as an alternative investment fund by the end of November, and is targeting a first close of ₹5,000 crore by January 2027.
+SMFCL also channels the government's contribution, of up to ₹9,800 crore, to the Maritime Investment Fund, part of the wider Maritime Development Fund. SBI Ventures has been appointed to manage it. The fund is due to be registered with SEBI as an alternative investment fund by the end of November, and is targeting a **first close of ₹5,000 crore** by January 2027.
 
-A second arm, the Interest Incentivisation Fund, has its portal live and has supported loans of about ₹4,500 crore so far. About ₹25 crore has been paid out in interest subvention to borrowers.
+A second arm, the Interest Incentivisation Fund, has its portal live and has supported loans of about **₹4,500 crore** so far. About ₹25 crore has been paid out in interest subvention to borrowers.
 
 The financing push sits within the government's Maritime Amrit Kaal Vision 2047, its long-term plan for the maritime sector.

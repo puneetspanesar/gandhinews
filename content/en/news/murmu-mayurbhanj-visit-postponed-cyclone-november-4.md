@@ -43,7 +43,7 @@ verification:
     - "PM's Oct 25 Bhubaneswar programme: no change reported."
 ---
 
-President Droupadi Murmu's two-day visit to her home district of Mayurbhanj in Odisha has been put off by a week because of a cyclonic storm forming over the Bay of Bengal, district officials said on Saturday.
+President Droupadi Murmu's two-day visit to her home district of Mayurbhanj in Odisha has been put off by a week because of a **cyclonic storm** forming over the Bay of Bengal, district officials said on Saturday.
 
 The President had been due in the district on October 28 and 29. The visit will now take place on November 4 and 5. The Mayurbhanj Collector said the programme had not been cancelled, only rescheduled, and that a detailed itinerary would be issued closer to the new dates.
 

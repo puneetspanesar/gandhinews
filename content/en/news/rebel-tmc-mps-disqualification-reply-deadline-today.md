@@ -5,7 +5,7 @@ type: news
 section: politics
 format_label: "Politics / Parliament"
 topics: [parliament]
-title: "Rebel Trinamool MPs face Speaker's deadline today on disqualification pleas"
+title: "Rebel Trinamool MPs face Speaker's deadline on October 20 on disqualification pleas"
 standfirst: "The 20 MPs who broke away to the Nationalist Citizens Party of India must answer Abhishek Banerjee's anti-defection petitions by Tuesday, after three extensions and a Supreme Court nudge."
 published: 2026-10-20T05:20:00+05:30
 location: New Delhi
@@ -52,4 +52,4 @@ Parliamentary records still list the 20 as Trinamool members, although they were
 
 Abhishek Banerjee has also gone to the Supreme Court over the delay. On September 25 the court observed that the Speaker should dispose of the petitions "expeditiously". The court returns from its Dussehra break on October 26.
 
-Whether the MPs file their replies on Tuesday or seek more time, the next move rests with the Speaker. The numbers matter beyond Bengal: the bloc's 20 votes affect the NDA's strength in the Lok Sabha amid talk that the government may bring back its delimitation bill.
+Whether the MPs file their replies on Tuesday or seek more time, the next move rests with the Speaker. The numbers matter beyond Bengal: the bloc's **20 votes** affect the NDA's strength in the Lok Sabha, with talk that the government may bring back its delimitation bill.

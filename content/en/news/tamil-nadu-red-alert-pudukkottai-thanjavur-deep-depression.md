@@ -44,11 +44,11 @@ verification:
 
 Five districts in central Tamil Nadu were put on red alert for extremely heavy rain on Sunday as a depression over the Bay of Bengal pulled moisture over the state. Pudukkottai, Thanjavur, Ariyalur, Perambalur and Tiruchirappalli could see very heavy rain at isolated places and extremely heavy falls at one or two spots, the Regional Meteorological Centre in Chennai said.
 
-The warnings shifted through the day. In the morning, the red alert covered Theni, Dindigul and Madurai, where the weather office warned that more than 20 cm could fall at one or two places. By the afternoon, the heaviest warnings had moved east towards the Cauvery delta, with Dindigul and Madurai downgraded to orange.
+The warnings shifted through the day. In the morning, the red alert covered Theni, Dindigul and Madurai, where the weather office warned that more than **20 cm** could fall at one or two places. By the afternoon, the heaviest warnings had moved east towards the Cauvery delta, with Dindigul and Madurai downgraded to orange.
 
-An orange alert for heavy to very heavy rain is in force for the Nilgiris, Coimbatore, Tiruppur, Karur, Dindigul, Madurai, Sivaganga, Ramanathapuram, Salem, Namakkal, Kallakurichi, Cuddalore, Mayiladuthurai, Tiruvarur, Nagapattinam and Villupuram, as well as Puducherry and Karaikal. Chennai, Chengalpattu, Kancheepuram and Tiruvallur are among 11 districts on yellow alert.
+An orange alert for heavy to very heavy rain is in force for the Nilgiris, Coimbatore, Tiruppur, Karur, Dindigul, Madurai, Sivaganga, Ramanathapuram, Salem, Namakkal, Kallakurichi, Cuddalore, Mayiladuthurai, Tiruvarur, Nagapattinam and Villupuram, as well as Puducherry and Karaikal. Chennai, Chengalpattu, Kancheepuram and Tiruvallur are among **11 districts** on yellow alert.
 
-The hills have already taken a battering. In the 24 hours to 8:30 am on Saturday, Burliar in the Nilgiris recorded 25 cm of rain, Lower Kotagiri Estate 20 cm and Coonoor 17 cm.
+The hills have already taken a battering. In the 24 hours to 8:30 am on Saturday, Burliar in the Nilgiris recorded **25 cm of rain**, Lower Kotagiri Estate 20 cm and Coonoor 17 cm.
 
 ## What is driving the rain
 
@@ -56,4 +56,4 @@ A low-pressure area over the east-central and south-east Bay of Bengal strengthe
 
 ## The next few days
 
-On Monday, Pudukkottai, Sivaganga and Ramanathapuram remain on orange alert, with 13 districts, including Madurai, Thanjavur and Kanyakumari, on yellow. Only Ramanathapuram carries a heavy rain warning on Tuesday, and the rain should ease to light or moderate showers by Wednesday. Thunderstorms with gusty winds of 40 to 50 kmph are possible across the state until Tuesday.
+On Monday, Pudukkottai, Sivaganga and Ramanathapuram remain on orange alert, with **13 districts**, including Madurai, Thanjavur and Kanyakumari, on yellow. Only Ramanathapuram carries a heavy rain warning on Tuesday, and the rain should ease to light or moderate showers by Wednesday. Thunderstorms with gusty winds of 40 to 50 kmph are possible across the state until Tuesday.

@@ -47,16 +47,16 @@ verification:
     - "Oberoi: Free Press Journal (6:21 pm) only."
 ---
 
-Gurugram-based DLF reported a 10% rise in quarterly profit on Friday, while Mumbai's Oberoi Realty posted profit that was almost unchanged from a year ago.
+Gurugram-based DLF reported a **10%** rise in quarterly profit on Friday, while Mumbai's Oberoi Realty posted profit that was almost unchanged from a year ago.
 
-DLF's consolidated net profit for the three months to September was ₹1,301.35 crore, up from ₹1,180.09 crore in the same quarter last year, according to its filing with the stock exchanges. Total income, which includes other income besides sales, rose to ₹2,297.30 crore from ₹2,261.80 crore, a gain of about 1.6%, so profit grew much faster than income.
+DLF's consolidated net profit for the three months to September was **₹1,301.35 crore**, up from ₹1,180.09 crore in the same quarter last year, according to its filing with the stock exchanges. Total income, which includes other income besides sales, rose to ₹2,297.30 crore from ₹2,261.80 crore, a gain of about 1.6%, so profit grew much faster than income.
 
 ## Oberoi's revenue slips
 
-Oberoi Realty's consolidated net profit was ₹761.65 crore, a 0.2% rise from ₹760.26 crore a year earlier. Compared with the June quarter, when it earned ₹543.51 crore, profit was up 40.1%.
+Oberoi Realty's consolidated net profit was **₹761.65 crore**, a 0.2% rise from ₹760.26 crore a year earlier. Compared with the June quarter, when it earned ₹543.51 crore, profit was up 40.1%.
 
-Revenue from operations fell 6.1% to ₹1,670.95 crore from ₹1,779.04 crore. Real estate brought in ₹1,625.34 crore and the company's hotels ₹45.61 crore.
+Revenue from operations fell **6.1% to ₹1,670.95 crore** from ₹1,779.04 crore. Real estate brought in ₹1,625.34 crore and the company's hotels ₹45.61 crore.
 
 The company noted that the nature of real estate accounting can make one reporting period hard to compare with another, which is why developers' quarterly numbers often swing sharply.
 
-Property shares were among the weaker parts of the market on Friday. The Nifty Realty index slipped 0.33% while the Nifty 50 rose 0.65%.
+Property shares were among the weaker parts of the market on Friday. The Nifty Realty index slipped **0.33%** while the Nifty 50 rose 0.65%.

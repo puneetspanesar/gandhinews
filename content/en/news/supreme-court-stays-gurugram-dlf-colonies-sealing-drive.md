@@ -36,11 +36,11 @@ verification:
     - "Petitioner Gaurav Kohli: no further details reported."
 ---
 
-The Supreme Court on Tuesday stopped the Haryana government's drive against illegal construction and commercial activity in homes across Gurugram's DLF Phases 1 to 5 and other licensed colonies.
+The Supreme Court on Tuesday stopped the Haryana government's drive against illegal construction and commercial activity in homes across Gurugram's **DLF Phases 1 to 5** and other licensed colonies.
 
 A bench of Justices PS Narasimha and Alok Aradhe stayed the action by the state's Town and Country Planning (TCP) department while hearing a special leave petition, Gaurav Kohli versus State of Haryana. The petition challenges a Punjab and Haryana High Court ruling on whether the TCP department has the power to take such action at all.
 
-The drive, led by District Town Planner (Enforcement) Amit Madholia, had already led to more than 160 houses being sealed. Its teams had worked through DLF Phases 3 and 4, Sushant Lok-1 and South City-1, targeting homes being used for business.
+The drive, led by District Town Planner (Enforcement) Amit Madholia, had already led to **more than 160 houses being sealed**. Its teams had worked through DLF Phases 3 and 4, Sushant Lok-1 and South City-1, targeting homes being used for business.
 
 What the stay means for owners whose properties are already sealed is not yet clear. It is also not clear whether the order halts only demolitions or all further action, including fresh sealing, until the next hearing.
 

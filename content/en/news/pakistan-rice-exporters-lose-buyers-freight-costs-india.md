@@ -37,10 +37,10 @@ verification:
 
 Pakistan's rice exporters are losing their smaller customers in Africa and the Middle East because the war around Iran has sent shipping costs soaring, the head of the country's main exporters' body said on Wednesday.
 
-Muhammad Raza, chairman of the Rice Exporters Association of Pakistan, said buyers who traditionally took 2,000 to 8,000 tonnes in containers "have sort of exited from the market" as exporters shift to bulk ships. Container freight to East Africa has climbed from $800-$1,200 to $2,400-$3,000, and to West Africa from about $2,200 to nearly $5,000. A container to the UAE that cost about $100 before the conflict peaked at $3,500 and is still around $2,500.
+Muhammad Raza, chairman of the Rice Exporters Association of Pakistan, said buyers who traditionally took 2,000 to 8,000 tonnes in containers "have sort of exited from the market" as exporters shift to bulk ships. Container freight to East Africa has climbed from $800-$1,200 to $2,400-$3,000, and to West Africa from about $2,200 to **nearly $5,000**. A container to the UAE that cost about $100 before the conflict peaked at $3,500 and is still around $2,500.
 
 For the Philippines, a fast-growing market, container availability was "close to zero", he said. "I am pretty sure a lot of orders even toward the Philippines will get canceled."
 
-The squeeze comes as exports were recovering. Shipments rose 56 per cent to $652.4 million in July-September, with basmati up 86 per cent, after falling 32 per cent to $2.29 billion last year. Raza put a realistic target for this year at $2.5 billion to $3 billion and expects a crop of more than 10 million tonnes.
+The squeeze comes as exports were recovering. Shipments rose 56 per cent to $652.4 million in July-September, with basmati up 86 per cent, after falling 32 per cent to **$2.29 billion** last year. Raza put a realistic target for this year at $2.5 billion to $3 billion and expects a crop of more than 10 million tonnes.
 
-Pakistan wants a bigger share of Saudi Arabia, where it supplies about 15-20 per cent of rice. Reaching 30-35 per cent would be "a big achievement", Raza said. But Indian rice, which is cheaper, remains dominant in the kingdom, and he warned that buyers who switch suppliers during the disruption may not come back: "your palate will eventually adjust to its taste."
+Pakistan wants a bigger share of Saudi Arabia, where it supplies about **15-20 per cent** of rice. Reaching 30-35 per cent would be "a big achievement", Raza said. But Indian rice, which is cheaper, remains dominant in the kingdom, and he warned that buyers who switch suppliers during the disruption may not come back: "your palate will eventually adjust to its taste."

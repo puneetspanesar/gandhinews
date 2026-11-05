@@ -45,8 +45,8 @@ Senior Superintendent of Police Surinder Lamba said a police patrol spotted the 
 
 The injured man was identified as Manpreet, known as Manna, a resident of Khawaspur village. He was arrested and taken to hospital. Police recovered an illegal weapon from the spot.
 
-During questioning, Manpreet allegedly told police that he had taken part in three recent incidents of firing linked to extortion demands in the area. Police did not give details of those incidents or name the people who had been targeted.
+During questioning, Manpreet allegedly told police that he had taken part in **three recent** incidents of firing linked to extortion demands in the area. Police did not give details of those incidents or name the people who had been targeted.
 
-His accomplice fled during the exchange. Police have started a cordon-and-search operation to find him and trace other associates.
+His accomplice fled during the exchange. Police have started a **cordon-and-search operation** to find him and trace other associates.
 
 Lamba did not say whether the two men were linked to any known gang, or what kind of weapon was recovered. Manpreet's condition was not disclosed.

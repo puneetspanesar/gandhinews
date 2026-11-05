@@ -38,8 +38,8 @@ China and North Korea are due to open the New Yalu River Bridge to traffic on Th
 
 The bridge spans the Yalu river between Dandong New Zone in China and Sinuiju in North Korea. China completed its side in 2014, hoping to boost trade. North Korea left its end unfinished for years as relations cooled after Beijing backed UN sanctions over Pyongyang's nuclear tests, including tighter measures in 2017.
 
-Ties have warmed since. Chinese President Xi Jinping visited Pyongyang in June, his first trip there since 2019, and China's exports to North Korea rose 25% last year to $2.3 billion, a six-year high. North Korea has still not resumed tourist visas for Chinese citizens, who once made up most of its foreign visitors.
+Ties have warmed since. Chinese President Xi Jinping visited Pyongyang in June, his first trip there since 2019, and China's exports to North Korea rose **25%** last year to $2.3 billion, a six-year high. North Korea has still not resumed tourist visas for Chinese citizens, who once made up most of its foreign visitors.
 
-The opening also comes as Pyongyang leans closer to Moscow. The two signed a strategic partnership treaty with a mutual defence clause in 2024, North Korea has sent thousands of troops to fight for Russia in Ukraine, and a road bridge between the two countries opened in September. Analysts say trade with Russia is mostly military, while the China link could carry civilian goods.
+The opening also comes as Pyongyang leans closer to Moscow. The two signed a strategic partnership treaty with a mutual defence clause in 2024, North Korea has sent thousands of troops to fight for Russia in Ukraine, and a **road bridge** between the two countries opened in September. Analysts say trade with Russia is mostly military, while the China link could carry civilian goods.
 
 China's 1961 treaty with North Korea, which includes a mutual defence clause, remains Beijing's only formal military alliance. The bridge opens three days after North Korea fired a volley of ballistic missiles into the sea.

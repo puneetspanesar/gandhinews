@@ -49,7 +49,7 @@ verification:
     - "Bar & Bench timestamp shows 7:13 am, probably not IST; The Statesman dateline 2:59 pm and LiveLaw alert 2:23 pm. Published time set at 3:15 pm."
 ---
 
-The Supreme Court on Friday issued show-cause notices to Shiv Sena (UBT) MP Sanjay Raut and journalist Nikhil Wagle, asking them why contempt proceedings should not be started against them over their remarks about Chief Justice Surya Kant and the judiciary.
+The Supreme Court on Friday issued **show-cause notices** to Shiv Sena (UBT) MP Sanjay Raut and journalist Nikhil Wagle, asking them why contempt proceedings should not be started against them over their remarks about Chief Justice Surya Kant and the judiciary.
 
 A bench of Chief Justice Kant and Justice Joymalya Bagchi acted on a plea by the Supreme Court Bar Association (SCBA). It turned down the association's request to summon the two men, and for now excused them from appearing in person. "We are giving a show cause ... as of now we are granting exemption for personal appearance. Let us see," the bench said.
 

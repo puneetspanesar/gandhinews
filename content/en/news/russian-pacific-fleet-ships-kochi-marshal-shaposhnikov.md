@@ -40,11 +40,11 @@ verification:
     - "Ship names and arrival date from Russian Embassy post on X, quoted by ANI (Tribune, 1:57 pm IST). INDRA 2026 dates (Oct 13-18), Vladivostok harbour phase (Oct 15), INS Sahyadri, Vice Admiral A Y Sysuev from the same copy citing Indian Navy posts. Length of Kochi stay and programme not given."
 ---
 
-Three warships of the Russian Navy's Pacific Fleet arrived at Kochi on Wednesday, the Russian Embassy in India said, a port call that comes days after the two navies wrapped up their INDRA exercise in Russia's Far East.
+Three warships of the Russian Navy's **Pacific Fleet** arrived at Kochi on Wednesday, the Russian Embassy in India said, a port call that comes days after the two navies wrapped up their INDRA exercise in Russia's Far East.
 
 "On October 21, ships from the Russian Navy's Pacific Fleet arrived at the Indian port of Kochi, in the state of Kerala. The group includes the frigate 'Marshal Shaposhnikov', the large anti-submarine ship 'Admiral Tributs' and the tanker 'Pechenga'," the embassy said in a post on X. It did not say how long the ships would stay or what they would do in port.
 
-The visit follows Exercise INDRA 2026, held from October 13 to 18, which combined harbour engagements with coordinated operations at sea. The harbour phase opened in Vladivostok on October 15 with crew from the Indian Navy's INS Sahyadri and the Russian Navy. The Indian Navy said the programme included cross-deck visits, a planning conference with the team of the Russian ship Aldar Tsydenzhapov and a meeting with Vice Admiral A Y Sysuev, who commands the Primorsky Flotilla of the Pacific Fleet's mixed forces.
+The visit follows **Exercise INDRA 2026**, held from October 13 to 18, which combined harbour engagements with coordinated operations at sea. The harbour phase opened in Vladivostok on October 15 with crew from the Indian Navy's INS Sahyadri and the Russian Navy. The Indian Navy said the programme included cross-deck visits, a planning conference with the team of the Russian ship Aldar Tsydenzhapov and a meeting with Vice Admiral A Y Sysuev, who commands the Primorsky Flotilla of the Pacific Fleet's mixed forces.
 
 The Indian Navy has framed its part in the exercise as in line with the government's MAHASAGAR vision, short for Mutual and Holistic Advancement for Security and Growth Across Regions.
 

@@ -40,9 +40,9 @@ Supermassive black holes can reach out far beyond the hearts of their galaxies a
 
 The work, by researchers from RRI and Arizona State University in the United States, offers observational evidence for something astronomers have long suspected but found hard to show directly: that energy from an actively feeding black hole can travel to the outer regions of its host galaxy.
 
-Black holes are tiny compared with the galaxies around them, but when they are feeding they can fire jets of extremely hot material over vast distances. "What excites me most is the scale of the connection," said Namrata Roy, assistant professor at RRI, who led the study. "A black hole is incredibly small compared to a galaxy, but its impact can reach unbelievable scales, hundreds of thousands of lightyears away. It's like a small volcano on Earth leaving a mark on Mars."
+Black holes are tiny compared with the galaxies around them, but when they are feeding they can fire jets of extremely hot material over vast distances. "What excites me most is the scale of the connection," said **Namrata Roy**, assistant professor at RRI, who led the study. "A black hole is incredibly small compared to a galaxy, but its impact can reach unbelievable scales, hundreds of thousands of lightyears away. It's like a small volcano on Earth leaving a mark on Mars."
 
-The team looked at hundreds of galaxies with active black holes and combined their faint signals to pick up light from the hydrogen gas around them. Taken in all directions, the combined data showed no strong signal. Along the direction of the jets, a clear one appeared.
+The team looked at **hundreds of galaxies** with active black holes and combined their faint signals to pick up light from the hydrogen gas around them. Taken in all directions, the combined data showed no strong signal. Along the direction of the jets, a clear one appeared.
 
 That suggests the jets disturb and energise gas along their path rather than across the whole galaxy. Galaxies need fairly cool gas to make new stars, so heating it can stop it from cooling, clumping and collapsing, slowing star formation. The jets do not destroy stars, the researchers said, but they change the raw material stars are made from.
 

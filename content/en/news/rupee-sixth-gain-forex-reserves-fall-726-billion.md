@@ -60,21 +60,21 @@ verification:
     - "RBI measures (NDF restrictions, 20% reserve on banks' FX hedges, USD window for oil companies) from FXStreet; October 10 announcement date from PTI."
 ---
 
-The rupee strengthened for a sixth straight session on Friday and closed at 94.89 to the dollar, while data from the Reserve Bank of India showed how much the defence of the currency has cost: foreign exchange reserves fell by $8.578 billion in the week to October 9.
+The rupee strengthened for a sixth straight session on Friday and closed at 94.89 to the dollar, while data from the Reserve Bank of India showed how much the defence of the currency has cost: foreign exchange reserves fell by **$8.578 billion** in the week to October 9.
 
-The rupee opened at 94.75 and ended 10 paise higher than Thursday's close of 94.99. It has gained about 2% this week and more than 2% since it hit a record closing low of 96.88 on October 8.
+The rupee opened at 94.75 and ended **10 paise higher** than Thursday's close of 94.99. It has gained about 2% this week and more than 2% since it hit a record closing low of 96.88 on October 8.
 
 ## What turned the rupee
 
-The recovery began after the RBI announced a set of measures on October 10 aimed at cutting demand for dollars in the spot market and curbing speculative bets against the currency. Among them, it restricted access to certain rupee derivatives traded offshore to genuine hedging, extended a 20% reserve requirement to banks' own currency hedges and opened a special dollar window for oil companies, which are among the largest buyers of the US currency.
+The recovery began after the RBI announced a set of measures on October 10 aimed at cutting demand for dollars in the spot market and curbing speculative bets against the currency. Among them, it restricted access to certain rupee derivatives traded offshore to genuine hedging, extended a **20%** reserve requirement to banks' own currency hedges and opened a special dollar window for oil companies, which are among the largest buyers of the US currency.
 
-A softer dollar abroad helped too. The dollar index fell 0.41% to 101.445 on Friday. High crude oil prices and foreign fund outflows kept a lid on the gains, dealers said; Brent was trading at $105.56 a barrel in the evening.
+A softer dollar abroad helped too. The dollar index fell **0.41%** to 101.445 on Friday. High crude oil prices and foreign fund outflows kept a lid on the gains, dealers said; Brent was trading at $105.56 a barrel in the evening.
 
 Kaveri More of Choice Broking said the currency was nearing an important level. "The rupee is now approaching a crucial support zone around 94," she said. She added that the RBI had reportedly deployed about $75-80 billion through spot dollar sales and dollar-rupee swaps since its special measures took effect on June 8.
 
 ## Reserves keep falling
 
-The RBI's weekly statistical supplement, released on Friday evening, put total reserves at $726.027 billion on October 9, down from $734.6 billion a week earlier. It was the fifth weekly fall in a row, and reserves are now about $60 billion below the record $785.7 billion of the week ended September 4.
+The RBI's weekly statistical supplement, released on Friday evening, put total reserves at $726.027 billion on October 9, down from $734.6 billion a week earlier. It was the fifth weekly fall in a row, and reserves are now about **$60 billion below** the record $785.7 billion of the week ended September 4.
 
 Foreign currency assets, the largest part of the reserves, fell $7.142 billion to $597.605 billion. Gold reserves dropped $1.319 billion to $105.094 billion, and special drawing rights with the IMF slipped $109 million to $18.548 billion. India's reserve position with the IMF rose $10 million to $4.780 billion.
 

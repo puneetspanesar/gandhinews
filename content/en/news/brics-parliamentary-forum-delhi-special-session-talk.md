@@ -59,7 +59,7 @@ verification:
     - "Could not check sansad.in or PIB in this run for a fresh notice; as of writing no session dates reported in sources seen."
 ---
 
-Parliament will host lawmakers from BRICS countries next week, when the 12th BRICS Parliamentary Forum opens in the Central Hall of Samvidhan Sadan, the old Parliament building in New Delhi.
+Parliament will host lawmakers from BRICS countries next week, when the **12th BRICS Parliamentary Forum** opens in the Central Hall of Samvidhan Sadan, the old Parliament building in New Delhi.
 
 The Lok Sabha Secretariat has said the meeting will run for three days from Sunday, October 25, and that Prime Minister Narendra Modi will inaugurate it on Monday, October 26. Lok Sabha Speaker Om Birla is to chair the forum, which will close with the adoption of a joint statement.
 
@@ -75,6 +75,6 @@ The forum has become part of a wider calculation about Parliament's calendar. Go
 
 The Monsoon Session ended on August 13 but has not been prorogued, which leaves room for a special sitting. The government is said to be reaching out to the DMK, which left the INDIA bloc after the Tamil Nadu elections, and to smaller opposition parties.
 
-The numbers are the hard part. A constitutional amendment needs a special majority, and the NDA falls short of two-thirds in the Lok Sabha on its own. The last attempt, the Constitution (131st Amendment) Bill, which would have raised the cap on Lok Sabha seats to 850, won 298 votes to 230 on April 17, short of the two-thirds it needed. That bill would also have let Parliament decide by law when to redraw constituencies and which census to use.
+The numbers are the hard part. A constitutional amendment needs a special majority, and the NDA falls short of two-thirds in the Lok Sabha on its own. The last attempt, the Constitution (131st Amendment) Bill, which would have raised the cap on Lok Sabha seats to 850, won **298 votes** to 230 on April 17, short of the two-thirds it needed. That bill would also have let Parliament decide by law when to redraw constituencies and which census to use.
 
 The government has not confirmed that a session will be held, and no dates have been announced.

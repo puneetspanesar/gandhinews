@@ -98,7 +98,7 @@ Under Article 107 of the Constitution, a Bill can start in either House. The exc
 
 The second reading has two parts, the Lok Sabha Secretariat explains: a general debate, and then "clause-by-clause consideration of the Bill as introduced, or as reported by Select/Joint Committee".
 
-A Bill becomes law only when both Houses have agreed to it in the same form (Article 107). A constitutional amendment needs more: two-thirds of members present and voting. In April 2026 the Constitution (131st Amendment) Bill got 298 votes for and 230 against in the Lok Sabha. That was a majority, but short of the 352 votes needed, so it failed (LiveLaw, April 17, 2026).
+A Bill becomes law only when both Houses have agreed to it in the same form (Article 107). A constitutional amendment needs more: two-thirds of members present and voting. In April 2026 the Constitution (131st Amendment) Bill got 298 votes for and 230 against in the Lok Sabha. That was a majority, but short of the 352 votes needed, so it failed.
 
 ## How often do Bills go to a committee?
 

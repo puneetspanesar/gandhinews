@@ -5,7 +5,7 @@ type: news
 section: states
 format_label: "States / Delhi"
 topics: [states]
-title: "Delhi's air expected to slip into 'poor' from today as winds drop and farm fires rise"
+title: "Delhi's air expected to slip into 'poor' from October 21 as winds drop and farm fires rise"
 standfirst: "The early warning system expects the season's first spell of poor air on Wednesday and Thursday, with no rain in sight and the Diwali run-up ahead. Monday's 4 pm average was 139."
 published: 2026-10-21T05:30:00+05:30
 location: New Delhi
@@ -19,7 +19,7 @@ hero:
   subjects: ["Pusa, New Delhi"]
   alt: "A road in Pusa, New Delhi (file photo)"
   overlay:
-    value: "Poor air due from today"
+    value: "Poor air due from October 21"
 related: [delhi-aqi-161-dussehra-morning-moderate, delhi-air-needs-year-round-plan-not-grap-reflex]
 seo:
   description: "Delhi's air quality is forecast to turn poor on October 21 and 22 as dry weather and weak winds trap pollutants; Monday's CPCB 4 pm average AQI was 139."
@@ -76,7 +76,7 @@ The city's 24-hour average Air Quality Index (AQI) stood at 139, in the moderate
 
 ## Cold nights, still air
 
-The early chill is part of the problem. Safdarjung recorded 17.1 degrees Celsius on Monday morning, 1.3 degrees below the seasonal average and the lowest minimum of the month so far. The India Meteorological Department expects mainly clear, dry weather until October 25, with maximum temperatures of 32 to 34 degrees and minimums of 19 to 21 degrees, and no rain for Delhi.
+The early chill is part of the problem. Safdarjung recorded **17.1 degrees** Celsius on Monday morning, 1.3 degrees below the seasonal average and the lowest minimum of the month so far. The India Meteorological Department expects mainly clear, dry weather until October 25, with maximum temperatures of 32 to 34 degrees and minimums of 19 to 21 degrees, and no rain for Delhi.
 
 Without rain to wash the air, there is little to break the build-up. The weekend had already given a taste: on Sunday the AQI was 187, at the top of the moderate range, and 22 monitoring locations recorded poor air.
 
@@ -84,7 +84,7 @@ Without rain to wash the air, there is little to break the build-up. The weekend
 
 Smoke from crop residue burning is starting to add to the load. Satellite monitoring by the Indian Agricultural Research Institute counted 98 farm fire events on October 19, with 27 in Uttar Pradesh, 25 in Punjab, 24 in Rajasthan, 18 in Uttarakhand and 4 in Madhya Pradesh.
 
-The Commission for Air Quality Management has deployed flying squads in 34 districts of Punjab and Haryana from October 1 to November 30 to check stubble burning.
+The Commission for Air Quality Management has deployed flying squads in **34 districts** of Punjab and Haryana from October 1 to November 30 to check stubble burning.
 
 ## A bad start to the season
 

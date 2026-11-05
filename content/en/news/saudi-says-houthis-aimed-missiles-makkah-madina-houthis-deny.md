@@ -43,7 +43,7 @@ verification:
     - "India angle drawn from Gandhi News's Oct 23 MEA story on stranded Umrah pilgrims; no new Indian statement on Saturday's attacks found."
 ---
 
-Saudi Arabia said late on Saturday that it had shot down two Houthi ballistic missiles aimed at Makkah and Madina, Islam's two holiest cities, with debris falling on Jeddah, Taif and Rabigh. Within two hours the Houthis denied ever targeting them.
+Saudi Arabia said late on Saturday that it had shot down two Houthi **ballistic missiles aimed at Makkah and Madina**, Islam's two holiest cities, with debris falling on Jeddah, Taif and Rabigh. Within two hours the Houthis denied ever targeting them.
 
 The announcement came from Saudi civil defence at the end of a day in which alerts had already sounded over the kingdom's west. Before dawn, the Saudi-led coalition said it had destroyed a missile fired at Riyadh, and by midday "potential danger" warnings had gone out to Makkah, Jeddah, Taif and Yanbu before being lifted minutes later.
 
@@ -51,7 +51,7 @@ Yahya Saree, the Houthi military spokesman, rejected the Saudi account outright.
 
 ## Seven operations, the Houthis say
 
-Earlier in the evening, Saree had claimed seven operations against Saudi Arabia in 24 hours. He listed King Khalid International Airport in Riyadh, the Aramco facility at Yanbu, the Rabigh refinery, the East-West pipeline and airports in Najran and Dammam. Saudi Arabia did not comment on those claims.
+Earlier in the evening, Saree had claimed seven operations against Saudi Arabia in **24 hours**. He listed King Khalid International Airport in Riyadh, the Aramco facility at Yanbu, the Rabigh refinery, the East-West pipeline and airports in Najran and Dammam. Saudi Arabia did not comment on those claims.
 
 The Houthis also said they had hit what they called Saudi positions in Aden, the seat of Yemen's internationally recognised government, where police reported three explosions on Saturday evening.
 

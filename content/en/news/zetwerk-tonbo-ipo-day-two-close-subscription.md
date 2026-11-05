@@ -47,18 +47,18 @@ verification:
     - "October 19, 2026, is a Monday."
 ---
 
-The two share sales that opened on Thursday continued to head in opposite directions on their second day. Zetwerk's ₹5,012.33 crore initial public offering had been subscribed only 0.31 times by Friday evening, while bids for Tonbo Imaging's ₹852.18 crore issue were close to eight times the shares on offer.
+The two share sales that opened on Thursday continued to head in opposite directions on their second day. Zetwerk's ₹5,012.33 crore initial public offering had been subscribed only **0.31 times** by Friday evening, while bids for Tonbo Imaging's ₹852.18 crore issue were close to eight times the shares on offer.
 
 ## Zetwerk waits for big buyers
 
-By 5 pm on Friday, Zetwerk had received bids for 5.76 crore shares against 18.29 crore on offer, up from 0.23 times at the end of day one. Qualified institutional buyers, the mutual funds, insurers and foreign funds who usually decide the fate of large issues, had bid for 0.37 times their portion. Retail investors had also taken up 0.37 times theirs, and non-institutional investors just 0.17 times.
+By 5 pm on Friday, Zetwerk had received bids for **5.76 crore shares** against 18.29 crore on offer, up from 0.23 times at the end of day one. Qualified institutional buyers, the mutual funds, insurers and foreign funds who usually decide the fate of large issues, had bid for 0.37 times their portion. Retail investors had also taken up 0.37 times theirs, and non-institutional investors just 0.17 times.
 
-Large institutional bids often arrive on the last day, and Zetwerk's issue stays open until Monday. The contract manufacturer is selling shares at ₹143 to ₹151 each. The offer combines ₹2,830 crore of new shares with an offer for sale of about ₹2,182 crore by existing investors.
+Large institutional bids often arrive on the last day, and Zetwerk's issue stays open until Monday. The contract manufacturer is selling shares at **₹143** to ₹151 each. The offer combines ₹2,830 crore of new shares with an offer for sale of about ₹2,182 crore by existing investors.
 
 ## Tonbo draws a crowd
 
-Tonbo Imaging, which makes electro-optic and thermal imaging systems for defence, saw demand climb from 4.01 times on Thursday to 7.78 times. Non-institutional investors bid 14.35 times their portion, with those putting in under ₹10 lakh bidding more than 20 times. Retail investors subscribed 7.14 times and institutions 3.95 times.
+Tonbo Imaging, which makes electro-optic and thermal imaging systems for defence, saw demand climb from 4.01 times on Thursday to **7.78 times**. Non-institutional investors bid 14.35 times their portion, with those putting in under ₹10 lakh bidding more than 20 times. Retail investors subscribed 7.14 times and institutions 3.95 times.
 
-The entire Tonbo issue is an offer for sale by existing shareholders, priced at ₹665 to ₹700 a share, so the company itself will raise no new money.
+The entire Tonbo issue is an offer for sale by existing shareholders, priced at **₹665** to ₹700 a share, so the company itself will raise no new money.
 
 Both issues close on October 19. Tonbo's shares are due to be allotted on October 21, and both companies are expected to list on the BSE and NSE on October 23.

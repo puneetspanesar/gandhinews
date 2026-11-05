@@ -37,7 +37,7 @@ verification:
 
 Anthropic, the company behind the Claude AI models, has opened an office in Singapore and signed an agreement with the city-state's government to work together on AI safety, testing and research.
 
-The memorandum of understanding was signed on Wednesday at Singapore International Cyber Week by Kai Fong Chng, Permanent Secretary of the Ministry of Digital Development and Information (MDDI), and Anthropic co-founder Ben Mann. Josephine Teo, the Minister for Digital Development and Information, and Michael Sellitto, Anthropic's head of Asia-Pacific policy, witnessed the signing.
+The memorandum of understanding was signed on Wednesday at Singapore International Cyber Week by Kai Fong Chng, Permanent Secretary of the **Ministry of Digital Development and Information** (MDDI), and Anthropic co-founder Ben Mann. Josephine Teo, the Minister for Digital Development and Information, and Michael Sellitto, Anthropic's head of Asia-Pacific policy, witnessed the signing.
 
 The Singapore office is the company's fifth in the Asia-Pacific region.
 
@@ -57,7 +57,7 @@ Source: Kai Fong Chng, Permanent Secretary, MDDI, October 14, 2026
 
 Singapore ranks second of 121 countries for Claude usage relative to its population, at nearly six times what its size would predict, according to Anthropic's own Economic Index. More than 1,500 engineers and technical staff at GovTech Singapore have taken up Claude Code, and the Cyber Security Agency of Singapore is exploring the models for cyber defence.
 
-Local customers include the bank DBS, the sovereign fund GIC, ride-hailing and delivery company Grab and Sea, the owner of Shopee and Garena. Anthropic says Grab's sales assistant built on Claude saves its sales teams about 40,000 hours a quarter.
+Local customers include the bank DBS, the sovereign fund GIC, ride-hailing and delivery company Grab and Sea, the owner of Shopee and Garena. Anthropic says Grab's sales assistant built on Claude saves its sales teams about **40,000 hours** a quarter.
 
 The company's work with Singapore goes back to 2023, when it joined a generative AI evaluation sandbox run by the Infocomm Media Development Authority and the AI Verify Foundation. The two later ran a red-teaming project testing models in English, Mandarin, Malay and Tamil.
 

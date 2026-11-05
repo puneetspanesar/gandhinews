@@ -47,10 +47,6 @@ He was speaking on Saturday at the 12th convocation of the University of Science
 
 Pointing to Article 51A of the Constitution, which lists developing a scientific temper among every citizen's fundamental duties, Justice Bhuyan said it was **not the preserve of scientists**. "Scientific temper or temperament is not confined to or developed in laboratories or scientific institutions," he said.
 
-```photo
-{"n":1,"subject":"University of Science and Technology Meghalaya","caption":"The University of Science and Technology Meghalaya, where Justice Bhuyan delivered the convocation address.","alt":"Campus of the University of Science and Technology Meghalaya"}
-```
-
 ## Science and law as partners
 
 He drew a line between the two disciplines. "Science is the art of reasoning, so also is law. Science is evidence based, so also is law," he said. The Constitution, in his telling, carried India from a feudal and unequal society towards a forward-looking one. "Therefore, science and law are partners in the constitutional journey of our republic."

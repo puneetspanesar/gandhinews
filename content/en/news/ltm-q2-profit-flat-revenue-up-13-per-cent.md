@@ -46,18 +46,18 @@ verification:
 
 LTM, the IT services company formerly known as LTIMindtree, reported a nearly unchanged quarterly profit on Friday, as faster growth in rupee terms masked a slow quarter in dollars.
 
-Consolidated net profit for the three months to September was ₹1,398 crore, down about 0.2% from ₹1,401 crore a year earlier. Revenue from operations rose 13.6% to ₹11,808 crore, flattered by the rupee's fall against the dollar over the past year.
+Consolidated net profit for the three months to September was **₹1,398 crore**, down about 0.2% from ₹1,401 crore a year earlier. Revenue from operations rose 13.6% to ₹11,808 crore, flattered by the rupee's fall against the dollar over the past year.
 
-In dollars, the currency most of its clients pay in, revenue was $1,235.2 million. That was 5.1% higher than a year ago in constant currency, but only 1.1% more than in the June quarter.
+In dollars, the currency most of its clients pay in, revenue was $1,235.2 million. That was **5.1%** higher than a year ago in constant currency, but only 1.1% more than in the June quarter.
 
 ## AI and margins
 
-The company has been pitching itself as a builder of AI systems for large companies, which it calls "the agentic enterprise era". AI work made up 13.4% of revenue in the quarter and grew 40% over the year.
+The company has been pitching itself as a builder of AI systems for large companies, which it calls "the agentic enterprise era". AI work made up **13.4%** of revenue in the quarter and grew 40% over the year.
 
-Its operating margin, measured as earnings before interest and tax, improved by 10 basis points from the previous quarter to 15.6%. LTM said it won several large deals in banking, insurance, construction and industrial services, and now has three clients each bringing in more than $100 million a year after adding one from financial services.
+Its operating margin, measured as earnings before interest and tax, improved by 10 basis points from the previous quarter to **15.6%**. LTM said it won several large deals in banking, insurance, construction and industrial services, and now has three clients each bringing in more than $100 million a year after adding one from financial services.
 
 Headcount rose by 949 during the quarter to 88,835.
 
-LTM's shares closed 3.66% higher at ₹4,390 on Friday, as IT stocks led the market for a second day. The stock is still down about 28% since the start of the year.
+LTM's shares closed **3.66%** higher at ₹4,390 on Friday, as IT stocks led the market for a second day. The stock is still down about 28% since the start of the year.
 
 The results follow a mixed set of numbers from larger rivals this week. Tech Mahindra posted a 33% rise in profit, while Wipro gave a cautious forecast for the December quarter.

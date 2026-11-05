@@ -41,7 +41,7 @@ verification:
     - "Mock Parliament Oct 28: described as 'reportedly' planned, details not finalised."
 ---
 
-Congress MP Gaurav Gogoi on Friday accused Chief Election Commissioner Gyanesh Kumar of serving Prime Minister Narendra Modi and Home Minister Amit Shah rather than the Constitution, and said the Election Commission had been emptied of its constitutional authority.
+Congress MP Gaurav Gogoi on Friday accused Chief Election Commissioner Gyanesh Kumar of serving Prime Minister Narendra Modi and Home Minister Amit Shah rather than the Constitution, and said the Election Commission had been **emptied of its constitutional authority**.
 
 "Every day we are receiving reports and news that the Election Commission of India has been totally manipulated," Gogoi, who heads the Assam Pradesh Congress Committee, said in Guwahati. "It feels as if the officer, the Chief Election Commissioner of India, Gyanesh Kumar, has not sworn an oath." He ended: "That person, Gyanesh Kumar, has to go."
 

@@ -57,13 +57,13 @@ verification:
 
 Hundreds of thousands of people marched through French towns and cities on Saturday as a month-old protest by school students over crumbling classrooms widened into a national revolt over wages, prices and public services. Limoges city hall was set on fire, protesters forced their way into Marseille's, and riot police fired tear gas and water cannon in Paris.
 
-Interior Minister Laurent Nuñez said about 550,000 people took part in 110 marches across the country, roughly 110,000 of them in Paris. Organisers, including the CGT union and student groups, put the figure at 800,000. Nuñez said about 400 people were arrested, most of them adults, and blamed the trouble on "extremely violent, radical far-left groups".
+Interior Minister Laurent Nuñez said about 550,000 people took part in 110 marches across the country, roughly 110,000 of them in Paris. Organisers, including the CGT union and student groups, put the figure at 800,000. Nuñez said **about 400 people were arrested**, most of them adults, and blamed the trouble on "extremely violent, radical far-left groups".
 
 ## Fires and looting
 
 In Paris, hooded protesters threw objects at police at Place de la République. Cars, bins and a newspaper kiosk were set alight and several shops were looted. Many metro stations were shut. Most of the crowd, though, joined a peaceful march towards the north-west of the city, and Paris Mayor Emmanuel Grégoire activated the city's crisis unit.
 
-The worst scenes came outside the capital. Firefighters were still fighting the blaze at Limoges city hall at 8 pm local time. In Marseille, shops and a municipal police station were damaged. A tourist office caught fire in Lyon, where about 20,000 marched. Masked groups attacked local government buildings in Bordeaux, and there were attempts to break into city halls in Lille and Calais and a police station in Brest.
+The worst scenes came outside the capital. Firefighters were still fighting the blaze at **Limoges city hall** at 8 pm local time. In Marseille, shops and a municipal police station were damaged. A tourist office caught fire in Lyon, where about 20,000 marched. Masked groups attacked local government buildings in Bordeaux, and there were attempts to break into city halls in Lille and Calais and a police station in Brest.
 
 In Saint-Etienne, a young protester was badly hurt and lost a hand. Authorities opened an investigation. Nuñez declined to confirm reports that a police grenade was to blame. He had cleared police to use stun grenades in cases of "urban violence", after suspending them for student protests when a 14-year-old lost a hand.
 
@@ -75,9 +75,9 @@ The movement began in mid-September at a high school in Créteil, a Paris suburb
 
 "There's a general sense of frustration and anger," said Sonia Mabrouk, 40, who came in from a suburb west of Paris with her daughter, who is in high school.
 
-Prime Minister Sébastien Lecornu said on Thursday that 937 police and gendarmes, 248 students and 149 teaching staff had been injured since the protests began. On Saturday he blamed "ultraleft groups" and wrote that "we will not be intimidated".
+Prime Minister Sébastien Lecornu said on Thursday that 937 police and gendarmes, **248 students** and 149 teaching staff had been injured since the protests began. On Saturday he blamed "ultraleft groups" and wrote that "we will not be intimidated".
 
-The government has dropped plans to raise some university fees and promised 3,000 substitute teachers. But Lecornu's 2027 budget, which would freeze public-sector pay and limit pension rises, has fed the anger. France's deficit last year was 5.1% of GDP, well above the EU average.
+The government has dropped plans to raise some university fees and promised 3,000 substitute teachers. But Lecornu's 2027 budget, which would freeze public-sector pay and limit pension rises, has fed the anger. France's deficit last year was **5.1%** of GDP, well above the EU average.
 
 ## The politics
 

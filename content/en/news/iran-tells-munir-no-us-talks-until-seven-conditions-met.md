@@ -58,9 +58,9 @@ Munir, who is also Pakistan's Chief of Defence Forces, arrived in Tehran on Tues
 
 ## What Iran's leaders said
 
-Munir met President Masoud Pezeshkian, who discussed Pakistan's mediation and the wider region with him, according to Iranian state media. He also met Parliament Speaker Mohammad Bagher Ghalibaf, who led Iran's side in the Pakistan-brokered talks with the US in April, and security chief Major General Mohsen Rezaei.
+Munir met **President Masoud Pezeshkian**, who discussed Pakistan's mediation and the wider region with him, according to Iranian state media. He also met Parliament Speaker Mohammad Bagher Ghalibaf, who led Iran's side in the Pakistan-brokered talks with the US in April, and security chief Major General Mohsen Rezaei.
 
-Ghalibaf told Munir that US violations of the Islamabad memorandum of understanding and repeated threats had further eroded Iran's trust. Washington could not win that trust back, he said, until it met the seven conditions Tehran set out in New York last month for reopening the Strait of Hormuz.
+Ghalibaf told Munir that US violations of the Islamabad memorandum of understanding and repeated threats had further eroded Iran's trust. Washington could not win that trust back, he said, until it met the **seven conditions** Tehran set out in New York last month for reopening the Strait of Hormuz.
 
 Rezaei said all of Iran's enriched nuclear material would remain in the country as a national asset, repeating the position of Supreme Leader Ayatollah Mojtaba Khamenei that near-weapons-grade uranium should not be shipped abroad. There would be no negotiations, he said, until the US built trust by meeting Iran's terms.
 

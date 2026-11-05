@@ -55,15 +55,15 @@ verification:
 
 Indian shares had their best day in four months on Tuesday. A rush back into technology stocks after HCLTech's results, and remarks from Finance Minister Nirmala Sitharaman on capital gains tax late in the session, pulled the market out of a week-long slide.
 
-The BSE Sensex closed 1,109.10 points, or 1.54%, higher at 73,033.78. The NSE Nifty 50 rose 358.60 points, or 1.60%, to 22,721.95. Both indices posted their biggest single-day gains since June 12, and 46 of the 50 Nifty stocks ended higher. Indian equities were the best performers in Asia for the day.
+The BSE Sensex closed **1,109.10 points**, or 1.54%, higher at 73,033.78. The NSE Nifty 50 rose 358.60 points, or 1.60%, to 22,721.95. Both indices posted their biggest single-day gains since June 12, and 46 of the 50 Nifty stocks ended higher. Indian equities were the best performers in Asia for the day.
 
 ## IT leads the way
 
-The Nifty IT index jumped 5.22% to 29,830.10, its biggest one-day rise since May 12, 2025, with all ten of its stocks in the green. HCLTech, which on Monday evening reported a 21% rise in quarterly profit and raised the lower end of its revenue guidance, climbed 8.42%. Tata Consultancy Services, Tech Mahindra and Shriram Finance were among the other leading gainers on the Nifty.
+The Nifty IT index jumped **5.22%** to 29,830.10, its biggest one-day rise since May 12, 2025, with all ten of its stocks in the green. HCLTech, which on Monday evening reported a 21% rise in quarterly profit and raised the lower end of its revenue guidance, climbed 8.42%. Tata Consultancy Services, Tech Mahindra and Shriram Finance were among the other leading gainers on the Nifty.
 
 "HCLTech results were in line (with our expectations)," said Somil Mehta, head of retail research at Mirae Asset Sharekhan. "The IT pack has been oversold, and it has been holding on to good levels."
 
-Realty and consumer durables stocks also gained, and the Nifty Bank index rose 1.03%. Pharma was the only major sector to end lower, and only just. The Nifty Midcap 100 added 1.06% while the Smallcap 100 barely moved. Kotak Mahindra Bank, Eternal, Maruti Suzuki and Max Healthcare were among the few Nifty stocks to fall.
+Realty and consumer durables stocks also gained, and the Nifty Bank index rose **1.03%**. Pharma was the only major sector to end lower, and only just. The Nifty Midcap 100 added 1.06% while the Smallcap 100 barely moved. Kotak Mahindra Bank, Eternal, Maruti Suzuki and Max Healthcare were among the few Nifty stocks to fall.
 
 ## The Finance Minister's remarks
 
@@ -79,4 +79,4 @@ The rupee settled at 95.28 per dollar, 50 paise stronger than Monday's close of 
 
 Brent crude eased from the previous session's jump but stayed high, at about $104.42 a barrel in the afternoon, after the attacks on Saudi Arabia kept supply worries alive.
 
-Tuesday's gain still leaves the Nifty down 2.89% for the month and 6.15% over three months. Selling in South Korea, where the Kospi fell 5.46% as memory-chip makers SK Hynix and Samsung Electronics slumped, showed how fragile sentiment in the region remains. Wholesale inflation data for September is due at noon on Wednesday.
+Tuesday's gain still leaves the Nifty down **2.89%** for the month and 6.15% over three months. Selling in South Korea, where the Kospi fell 5.46% as memory-chip makers SK Hynix and Samsung Electronics slumped, showed how fragile sentiment in the region remains. Wholesale inflation data for September is due at noon on Wednesday.

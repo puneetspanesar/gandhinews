@@ -35,7 +35,7 @@ verification:
     - "event: Nov 1, Sunday ceremony in Bhubaneswar; PTI copy time stamped 19:47 IST. Exact time of the ceremony not stated in source. Single wire source. Majhi quotes are paraphrased in source, so no direct quotes used from him."
 ---
 
-Odisha Chief Minister Mohan Charan Majhi on Sunday **handed appointment letters to 2,067 sevaks, sevikas and tribal language teachers**, and asked them to stand by the children in their classrooms as a friend would.
+Odisha Chief Minister Mohan Charan Majhi on Sunday handed **appointment letters to 2,067** sevaks, sevikas and tribal language teachers, and asked them to stand by the children in their classrooms as a friend would.
 
 The recruits will work in schools run by the Scheduled Tribes and Scheduled Castes Development, Minorities and Backward Classes Welfare Department. Majhi told them their first task was to **instil security and self-confidence in children**.
 

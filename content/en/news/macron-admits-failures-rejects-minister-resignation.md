@@ -58,9 +58,9 @@ The Interior Ministry said more than 2,300 people were arrested on Saturday alon
 
 ## A second night of looting
 
-The trouble did not end on Saturday. Looting continued on Sunday, and Paris Mayor Emmanuel Grégoire said about 30 shops were targeted in the capital. Nuñez said about 350 people were arrested in Paris on Sunday and overnight.
+The trouble did not end on Saturday. Looting continued on Sunday, and Paris Mayor Emmanuel Grégoire said about 30 shops were targeted in the capital. Nuñez said about **350 people** were arrested in Paris on Sunday and overnight.
 
-Justice Minister Gérald Darmanin said more than 2,330 people had been taken into custody over the weekend, 70% of them adults.
+Justice Minister Gérald Darmanin said more than 2,330 people had been taken into custody over the weekend, **70%** of them adults.
 
 ## Where the anger began
 

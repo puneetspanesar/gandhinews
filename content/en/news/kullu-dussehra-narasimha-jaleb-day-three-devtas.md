@@ -48,7 +48,7 @@ verification:
     - "Lord Narasimha as protector deity of the valley: Himachal Dastak wording."
 ---
 
-The third day of the International Kullu Dussehra belonged to Lord Narasimha. On Friday afternoon his procession, the Narasimha Jaleb, set out from Raja ki Chanani in Dhalpur, with hundreds of deities from across the Kullu valley joining in, borne by their devotees.
+The third day of the International Kullu Dussehra belonged to Lord Narasimha. On Friday afternoon his procession, the **Narasimha Jaleb**, set out from Raja ki Chanani in Dhalpur, with hundreds of deities from across the Kullu valley joining in, borne by their devotees.
 
 Drums, nagaras, the long karnal horns and shehnai played as the procession moved through the hospital and college areas and other parts of the town. Crowds lined both sides of the road from the Dhalpur ground to Raja ki Chanani, chanting "Jai Shri Ram" and "Jai Dev Narasimha". Before it set off, the deities gathered in Dhalpur for a meeting of the devtas.
 

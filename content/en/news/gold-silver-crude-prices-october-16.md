@@ -49,17 +49,17 @@ verification:
     - "Reasons (weaker dollar, easing crude, lower Treasury yields) attributed to market participants per Upstox."
 ---
 
-Gold held close to ₹1.48 lakh per 10 grams on Friday and silver rose more than 1%, as a weaker US dollar and lower bond yields drew buyers back to precious metals ahead of the festive weekend.
+Gold held close to ₹1.48 lakh **per 10 grams** on Friday and silver rose more than 1%, as a weaker US dollar and lower bond yields drew buyers back to precious metals ahead of the festive weekend.
 
-On the Multi Commodity Exchange, gold for December delivery was quoted at ₹1,48,429 late in the session, building on Thursday's jump of ₹2,041 to ₹1,47,889. Silver futures for December rose 1.33% to ₹2,13,460 a kg.
+On the Multi Commodity Exchange, gold for December delivery was quoted at ₹1,48,429 late in the session, building on Thursday's jump of ₹2,041 to ₹1,47,889. Silver futures for December rose **1.33% to ₹2,13,460 a kg**.
 
-In Delhi's jewellery market, 24-carat gold was selling at about ₹14,759 a gram on Friday morning, or about ₹1,47,590 for 10 grams, and 22-carat at ₹13,530 a gram.
+In Delhi's jewellery market, 24-carat gold was selling at about ₹14,759 a gram on Friday morning, or about ₹1,47,590 for **10 grams**, and 22-carat at ₹13,530 a gram.
 
 ## Why metals rose
 
-Traders put the rebound down to a softer dollar and easing pressure from crude oil prices, with lower US Treasury yields also helping. The dollar index fell 0.41% to 101.445 on Friday. Gold is priced in dollars, so a weaker dollar makes it cheaper for buyers using other currencies.
+Traders put the rebound down to a softer dollar and easing pressure from crude oil prices, with lower US Treasury yields also helping. The dollar index fell **0.41%** to 101.445 on Friday. Gold is priced in dollars, so a weaker dollar makes it cheaper for buyers using other currencies.
 
-Even with the two-day recovery, gold remains about ₹3,000 below where it stood a week ago. It had fallen nearly 4% over three sessions from ₹1,51,499 on October 9, as traders waited for US inflation data.
+Even with the two-day recovery, gold remains about **₹3,000** below where it stood a week ago. It had fallen nearly 4% over three sessions from ₹1,51,499 on October 9, as traders waited for US inflation data.
 
 ## Oil eases but stays high
 

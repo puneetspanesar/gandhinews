@@ -43,7 +43,7 @@ Under a consultation paper released on Tuesday, every issue of shares would need
 
 If a company does not cooperate, the agency would file a report on the best information it has, along with a "statement of non-cooperation". The company could not then sack its agency or hire a new one until it fixed the default and allowed a complete report for that quarter.
 
-Exchanges could fine the company ₹50,000 for each instance of non-cooperation, issuing notices within 30 days of the report's due date. If the report or the fine is still outstanding 15 days later, the exchanges would turn to the promoters. Ten days after that, they would ask depositories to begin freezing the promoters' demat accounts.
+Exchanges could fine the company **₹50,000** for each instance of non-cooperation, issuing notices within 30 days of the report's due date. If the report or the fine is still outstanding 15 days later, the exchanges would turn to the promoters. Ten days after that, they would ask depositories to begin freezing the promoters' demat accounts.
 
 Unpaid fees would not count as non-cooperation. Instead, agencies could collect their full fee in advance and refund a share if the agreement ends early.
 

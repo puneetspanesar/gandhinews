@@ -5,7 +5,7 @@ type: news
 section: policy
 format_label: "Policy / Diplomacy"
 topics: []
-title: "Poland's Donald Tusk arrives on Wednesday for talks with Modi and a Bengaluru stop"
+title: "Poland's Donald Tusk arrives on October 21 for talks with Modi and a Bengaluru stop"
 standfirst: "The Polish Prime Minister's three-day visit, his first to India as premier since 2010, will cover trade, defence, technology and space, with business forums in New Delhi and Bengaluru."
 published: 2026-10-20T07:10:00+05:30
 location: New Delhi

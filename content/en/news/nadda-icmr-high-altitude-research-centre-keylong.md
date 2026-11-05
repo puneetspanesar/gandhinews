@@ -50,7 +50,7 @@ verification:
 
 Union Health Minister J P Nadda on Monday laid the foundation stone of a research centre in Keylong, Himachal Pradesh, that will study how living and working at high altitude affects the human body.
 
-The ICMR Centre for High Altitude Medicine and Public Health Research is being set up by the Indian Council of Medical Research with the Armed Forces Medical Services. It will serve both soldiers posted in the mountains and the civilians who live there.
+The ICMR Centre for High Altitude Medicine and Public Health Research is being set up by the Indian Council of Medical Research with the **Armed Forces Medical Services**. It will serve both soldiers posted in the mountains and the civilians who live there.
 
 > The establishment of the Centre reflects the importance accorded to addressing the distinct healthcare needs
 >

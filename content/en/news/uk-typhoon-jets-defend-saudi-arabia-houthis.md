@@ -35,7 +35,7 @@ verification:
     - "Number of jets and base not disclosed. Single source (Al Jazeera citing MoD statement)."
 ---
 
-Britain is sending Royal Air Force Typhoon fighter jets to help defend Saudi Arabia against missile and drone attacks by Yemen's Houthis, the Ministry of Defence said on Tuesday.
+Britain is sending Royal Air Force **Typhoon fighter jets** to help defend Saudi Arabia against missile and drone attacks by Yemen's Houthis, the Ministry of Defence said on Tuesday.
 
 The jets will fly "defensive counter air missions" over the kingdom, the ministry said, stressing that they would operate in a defensive role and would not attack the Houthis. Britain is also extending its air-to-air refuelling support for Saudi air operations. It did not say how many aircraft were going or where they would be based.
 

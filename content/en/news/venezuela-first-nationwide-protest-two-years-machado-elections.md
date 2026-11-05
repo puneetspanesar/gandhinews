@@ -47,7 +47,7 @@ Thousands of Venezuelans marched through Caracas and at least four other cities 
 
 The rallies were called by Vente Venezuela, the movement led by Nobel Peace Prize laureate María Corina Machado, who has been outside the country for close to a year. Supporters gathered in Valencia, Maracay, San Cristóbal and Maracaibo as well as the capital. Machado says a vote must take place by July 2027.
 
-Acting President Delcy Rodríguez, of the long-ruling United Socialist Party of Venezuela (PSUV), has led the country since January 3, after US forces seized Nicolás Maduro in a military raid. Both Rodríguez and US President Donald Trump have said there will be elections. Neither has named a day.
+Acting President Delcy Rodríguez, of the long-ruling United Socialist Party of Venezuela (PSUV), has led the country since January 3, after US forces seized Nicolás Maduro in a military raid. Both Rodríguez and **US President Donald Trump** have said there will be elections. Neither has named a day.
 
 ## Hope on the streets
 

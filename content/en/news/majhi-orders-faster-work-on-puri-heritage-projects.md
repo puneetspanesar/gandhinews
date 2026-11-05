@@ -39,7 +39,7 @@ verification:
 
 Odisha Chief Minister Mohan Charan Majhi on Monday ordered officials to speed up a long list of projects meant to turn Puri into a heritage and tourism city of world standard, while protecting the livelihoods of the people who live and work around the Jagannath Temple.
 
-At a review meeting at Lok Seva Bhawan in Bhubaneswar, Majhi went through plans for the Sri Jagannath International Airport, whose construction he asked to be expedited, along with the rebuilding of the Raghunandan Library and a new Sri Jagannath interpretation centre.
+At a review meeting at Lok Seva Bhawan in Bhubaneswar, Majhi went through plans for the **Sri Jagannath International Airport**, whose construction he asked to be expedited, along with the rebuilding of the Raghunandan Library and a new Sri Jagannath interpretation centre.
 
 > "Puri is not just a district; it is the centre of faith for Odisha's pride and crores of Jagannath devotees worldwide."
 >
@@ -55,6 +55,6 @@ Beyond the town, the government wants faster beautification and road links at th
 
 ## A warning to officials
 
-Majhi said no negligence, delay or irregularity would be tolerated. He told the Puri Collector, Divyajyoti Parida, and Superintendent of Police, Pratik Singh, to supervise work on the ground and meet deadlines, and asked that sevayats, traders and residents be given priority so that the schemes benefit them directly.
+Majhi said no negligence, **delay or irregularity** would be tolerated. He told the Puri Collector, Divyajyoti Parida, and Superintendent of Police, Pratik Singh, to supervise work on the ground and meet deadlines, and asked that sevayats, traders and residents be given priority so that the schemes benefit them directly.
 
 Chief Secretary Anu Garg and Development Commissioner D K Singh were among those at the meeting.

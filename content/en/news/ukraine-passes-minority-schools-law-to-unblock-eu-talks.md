@@ -38,7 +38,7 @@ verification:
 
 Ukraine's parliament on Monday passed a law expanding education rights for national minorities, meeting a condition set by Hungary before it would let Ukraine's talks on joining the European Union move forward.
 
-The bill won 266 votes, according to lawmaker Yaroslav Zhelezniak. It needs President Volodymyr Zelenskyy's signature to become law.
+The bill won **266 votes**, according to lawmaker Yaroslav Zhelezniak. It needs President Volodymyr Zelenskyy's signature to become law.
 
 ## What the law changes
 

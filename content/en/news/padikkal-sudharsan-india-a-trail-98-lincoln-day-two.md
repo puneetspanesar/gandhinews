@@ -41,9 +41,9 @@ verification:
     - "Mariu 76, Foxcroft 51, Clarke 42, 46 extras, Kamboj 3-52, Nabi 3-69, Keene 1-19, Sheat 1-26 all single-source (PTI)."
 ---
 
-Devdutt Padikkal and Sai Sudharsan kept India A in the first unofficial Test in Lincoln on Sunday, batting through the evening session of day two after New Zealand A had built a first-innings lead of 204 runs at the Bert Sutcliffe Oval.
+Devdutt Padikkal and Sai Sudharsan kept India A in the first unofficial Test in Lincoln on Sunday, batting through the evening session of day two after New Zealand A had built a first-innings lead of **204 runs** at the Bert Sutcliffe Oval.
 
-India A closed on 106 for 2 in 36 overs, still 98 runs behind, with Padikkal unbeaten on 56 and Sudharsan on 39. The pair had put on 96 for the third wicket after the visitors slipped to 10 for 2 in the second innings.
+India A closed on 106 for 2 in 36 overs, still **98 runs** behind, with Padikkal unbeaten on 56 and Sudharsan on 39. The pair had put on 96 for the third wicket after the visitors slipped to 10 for 2 in the second innings.
 
 ## The lead grows
 

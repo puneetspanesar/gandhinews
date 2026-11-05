@@ -64,7 +64,7 @@ Investigators have still not identified who made the misleading announcement ins
 
 ## Arrest over false toll
 
-Kolkata Police have also begun tracking social media accounts spreading misinformation about the tragedy. On Monday night they arrested Ainul Haque, a resident of Cooch Behar district, for allegedly sharing an old video of a similar mishap elsewhere and claiming that 60 people, not 19, had died.
+Kolkata Police have also begun tracking social media accounts spreading misinformation about the tragedy. On Monday night they arrested Ainul Haque, a resident of Cooch Behar district, for allegedly sharing an old video of a similar mishap elsewhere and claiming that **60 people**, not 19, had died.
 
 Additional Commissioner of Police (Crime) Kunal Agarwal identified the arrested man. He has been booked under Section 353(2) of the Bharatiya Nyaya Sanhita, which covers false statements likely to create enmity or ill will between groups. Police are checking whether he acted alone or as part of an organised group, and have asked the public to report misleading posts and to verify before sharing.
 

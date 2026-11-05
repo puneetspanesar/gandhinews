@@ -79,10 +79,6 @@ A bench of Justices PS Narasimha and Alok Aradhe, with Justice Narasimha pronoun
 
 Because a two-judge bench cannot overrule a three-judge ruling, the court **referred Javed v State of Haryana to a larger bench**. "This has compelled us to stay the proceedings; we have referred the matter to a larger bench," the bench said. In Javed, the court had upheld the Haryana Panchayati Raj Act's bar on people with more than two children.
 
-```photo
-{"n":1,"subject":"Alok Aradhe","caption":"Justice Alok Aradhe sat with Justice PS Narasimha on the bench that referred the Javed ruling to a larger bench.","alt":"Justice Alok Aradhe"}
-```
-
 ## A sarpanch and her third child
 
 The case was brought by **Mangala Bhimrao Ingle**, a former sarpanch of Kakoda gram panchayat in Maharashtra. She was disqualified under Section 14(1)(j-1) of the Maharashtra Village Panchayats Act, 1959, after the birth of her third child. The two-child bar entered that law on September 13, 2000.

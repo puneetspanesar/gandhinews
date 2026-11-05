@@ -65,6 +65,6 @@ Jaiswal rejected that reading. He said India had hosted foreign leaders in citie
 
 ## A busy two days in Mumbai
 
-Before Rubio arrives, Jaishankar will host the UAE's Deputy Prime Minister and Foreign Minister, Sheikh Abdullah bin Zayed Al Nahyan, in Mumbai on October 19 and 20. "They will naturally have a detailed exchange of views on the situation in West Asia," Jaiswal said.
+Before Rubio arrives, Jaishankar will host the UAE's Deputy Prime Minister and Foreign Minister, **Sheikh Abdullah bin Zayed** Al Nahyan, in Mumbai on October 19 and 20. "They will naturally have a detailed exchange of views on the situation in West Asia," Jaiswal said.
 
 The spokesperson also said dates for Prime Minister Modi's visit to Canada were still under discussion between the two sides. At the same briefing he expressed deep concern over an alleged plot to attack a Hindu temple in Illinois and asked US authorities to ensure the safety of Indian nationals.

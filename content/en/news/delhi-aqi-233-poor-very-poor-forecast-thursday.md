@@ -48,7 +48,7 @@ The Central Pollution Control Board put the city's air quality index at 233 at 9
 
 The early warning dashboard projects an AQI of 342 at 9 am on Thursday, which would put the capital in the very poor category of 301 to 400. The IMD bulletin issued on Tuesday forecast poor air from October 21 to 23 and poor conditions for the six days after that.
 
-The change follows a run of cooler, drier days. Safdarjung, the city's main weather station, recorded a minimum of 18°C on Wednesday, below the seasonal average. Palam logged 17.8°C, 1.1 degrees below normal, Ayanagar 17.7°C and the Ridge 19.1°C. The daytime maximum was expected to touch about 31°C. On Tuesday the city's maximum was 31.8°C, 0.8 degrees below normal.
+The change follows a run of cooler, drier days. Safdarjung, the city's main weather station, recorded a minimum of 18°C on Wednesday, below the seasonal average. Palam logged 17.8°C, **1.1 degrees** below normal, Ayanagar 17.7°C and the Ridge 19.1°C. The daytime maximum was expected to touch about 31°C. On Tuesday the city's maximum was 31.8°C, 0.8 degrees below normal.
 
 Cool nights and light winds keep pollutants close to the ground, and with no rain in the forecast there is little to wash them out. Farm fires in Punjab and Haryana, which usually pick up in late October, add to the load.
 

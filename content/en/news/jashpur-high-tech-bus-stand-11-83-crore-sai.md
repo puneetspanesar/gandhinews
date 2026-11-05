@@ -40,7 +40,7 @@ verification:
     - "Mahanadi bridge (over Rs 63 crore, Shivrinarayan) and health-services action plan rest on UNI Varta headlines only (Oct 14, 7:45 pm and 7:34 pm); article pages could not be fetched (URL too long). Kept to headline wording."
 ---
 
-Jashpur Nagar in northern Chhattisgarh is to get a new high-tech bus stand costing ₹11.83 crore, approved at the initiative of Chief Minister Vishnu Deo Sai. Details of the project were released on Wednesday.
+Jashpur Nagar in northern Chhattisgarh is to get a new high-tech bus stand costing **₹11.83 crore**, approved at the initiative of Chief Minister Vishnu Deo Sai. Details of the project were released on Wednesday.
 
 The terminal will be built on about three acres in Ward No. 8, on the site of the town's old cattle market, and will have parking for 35 to 40 buses at a time. Tendering for the work is under way.
 
@@ -48,6 +48,6 @@ The town's present bus stand is badly stretched. It handles more than 100 buses 
 
 The new building is planned with waiting halls, ticket counters, lifts, toilets, digital screens showing arrivals and departures, and 40 shops. No date has been given for its completion.
 
-Jashpur Nagar is not the only town in the district getting a new terminal. Modern bus stands have also been approved for Kunkuri and Pathalgaon, and construction is under way at Bandarchua and Duldula, where ₹1 crore has been set aside for each.
+Jashpur Nagar is not the only town in the district getting a new terminal. Modern bus stands have also been approved for Kunkuri and Pathalgaon, and construction is under way at Bandarchua and Duldula, where **₹1 crore** has been set aside for each.
 
-Sai also said on Wednesday that a new bridge would be built over the Mahanadi at Shivrinarayan at a cost of more than ₹63 crore, and directed officials to prepare a long-term plan for expanding health services across Chhattisgarh.
+Sai also said on Wednesday that a new bridge would be built over the Mahanadi at Shivrinarayan at a cost of more than **₹63 crore**, and directed officials to prepare a long-term plan for expanding health services across Chhattisgarh.

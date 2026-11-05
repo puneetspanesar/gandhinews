@@ -47,9 +47,9 @@ verification:
     - "Second Kagame quote is partial: 'that changes with this agreement' (he said the championship had raced without the continent for decades)."
 ---
 
-Formula 1 will return to Africa under a 10-year agreement with Rwanda, President Paul Kagame announced in Kigali on Tuesday, ending a gap that goes back more than three decades.
+Formula 1 will return to Africa under a **10-year agreement** with Rwanda, President Paul Kagame announced in Kigali on Tuesday, ending a gap that goes back more than three decades.
 
-The race will be known as the Formula 1 African Grand Prix, and is expected to join the calendar in the early 2030s. Senior Formula 1 officials attended the announcement.
+The race will be known as the Formula 1 African Grand Prix, and is expected to join the calendar in the **early 2030s**. Senior Formula 1 officials attended the announcement.
 
 "Today belongs to Africa," Kagame said. He noted that the world championship had raced without the continent for decades, and said "that changes with this agreement."
 

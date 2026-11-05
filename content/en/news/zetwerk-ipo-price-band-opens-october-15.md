@@ -28,7 +28,7 @@ sources:
     date: 2026-10-12
     url: "https://upstox.com/news/market-news/ipo/upcoming-ipo-zetwerk-s-5-012-crore-issue-to-open-on-oct-15-check-price-band/article-201661/"
     primary: false
-  - title: "Zetwerk Sets ₹143–151 IPO Price Band, ₹5,012 Crore Issue Opens October 15"
+  - title: "Zetwerk Sets ₹143-151 IPO Price Band, ₹5,012 Crore Issue Opens October 15"
     publisher: "Free Press Journal"
     date: 2026-10-12
     url: "https://www.freepressjournal.in/business/zetwerk-sets-143151-ipo-price-band-5012-crore-issue-opens-october-15"
@@ -52,22 +52,22 @@ verification:
     - "Seller-wise OFS shares (Lightspeed 2.51 cr, Peak XV 2.34 cr, Accel 1.2 cr) from YourStory only; not used."
 ---
 
-Zetwerk Manufacturing Businesses has set a price band of ₹143 to ₹151 a share for its initial public offering of about ₹5,012 crore, which opens on Thursday, October 15, the company said in a public announcement on Monday.
+Zetwerk Manufacturing Businesses has set a price band of **₹143 to ₹151 a share** for its initial public offering of about ₹5,012 crore, which opens on Thursday, October 15, the company said in a public announcement on Monday.
 
-At the top of the band the Bengaluru company would be valued at about ₹25,583 crore. Bidding for anchor investors opens on October 14, the issue closes on October 19, and the shares are expected to list on the BSE and NSE on October 23.
+At the top of the band the Bengaluru company would be valued at about **₹25,583 crore**. Bidding for anchor investors opens on October 14, the issue closes on October 19, and the shares are expected to list on the BSE and NSE on October 23.
 
 ## Bigger issue than planned
 
-The offer has grown since Zetwerk filed its updated draft papers in August. The fresh issue of new shares is now ₹2,830 crore, up from ₹2,600 crore. The offer for sale by existing shareholders has risen 49%, from 9.68 crore shares to 14.45 crore shares, worth about ₹2,182 crore at the upper price.
+The offer has grown since Zetwerk filed its updated draft papers in August. The fresh issue of new shares is now ₹2,830 crore, up from ₹2,600 crore. The offer for sale by existing shareholders has risen 49%, from 9.68 crore shares to **14.45 crore shares**, worth about ₹2,182 crore at the upper price.
 
 Sellers include co-founders Amrit Pratik Acharya and Srinath Ramakkrushnan, promoter group entity Creovate Innovation, and venture investors Peak XV, Accel, Lightspeed and Kae Capital.
 
-About ₹2,160 crore of the fresh money will repay debt of the company and its subsidiaries. The rest is set aside for acquisitions and general corporate purposes.
+About **₹2,160 crore** of the fresh money will repay debt of the company and its subsidiaries. The rest is set aside for acquisitions and general corporate purposes.
 
 ## From marketplace to factories
 
 Founded in 2018 by Mr Acharya, Mr Ramakkrushnan, Vishal Chaudhary, Ankit Fatehpuria and Rahul Sharma, Zetwerk began as an online marketplace for manufactured parts. It now runs 26 of its own factories in India, the US, Germany and Spain, making products for renewable energy, electronics, aerospace, defence, AI infrastructure and oil and gas. Customers include Siemens Gamesa, NTPC Renewable Energy, the DRDO and the Indian Air Force. It shut its civil infrastructure business in 2025-26.
 
-Revenue from continuing operations rose 40% to ₹15,913 crore in 2025-26 from ₹11,332 crore a year earlier. The company reported a loss of ₹1,606 crore for the year, largely because of a one-time charge. In April-June 2026, revenue rose 55% to ₹4,118 crore and the loss from continuing operations narrowed to ₹64 crore from ₹881 crore.
+Revenue from continuing operations rose **40%** to ₹15,913 crore in 2025-26 from ₹11,332 crore a year earlier. The company reported a loss of ₹1,606 crore for the year, largely because of a one-time charge. In April-June 2026, revenue rose 55% to ₹4,118 crore and the loss from continuing operations narrowed to ₹64 crore from ₹881 crore.
 
 Kotak Mahindra Capital, Morgan Stanley, Goldman Sachs, Avendus, JM Financial, HSBC and Pantomath are managing the issue.

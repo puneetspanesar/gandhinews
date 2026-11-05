@@ -43,7 +43,7 @@ verification:
 
 The Indian Embassy in Riyadh has told Indian nationals in Saudi Arabia to follow the kingdom's safety directives closely, as Houthi drone and missile attacks on Saudi cities continue.
 
-The advisory, updated on Sunday evening, asks Indians to shelter indoors during alerts and stay away from windows and open areas. It tells them not to film incidents and to rely on official alerts for information. Anyone driving when an alert sounds should stop away from bridges and high-rise buildings.
+The advisory, updated on Sunday evening, asks Indians to shelter indoors during alerts and stay away from windows and open areas. It tells them not to film incidents and to rely on official alerts for information. Anyone driving when an alert sounds should stop **away from bridges and high-rise buildings**.
 
 The embassy listed 911 as the emergency number in Makkah, Madinah, Riyadh and the Eastern Province, and 998 for other parts of the country.
 

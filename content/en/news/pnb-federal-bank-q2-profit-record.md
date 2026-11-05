@@ -59,17 +59,17 @@ verification:
     - "JM Financial NIM expectation from TradingView (Moody's/ preview) Q2 bank preview, Oct 16."
 ---
 
-Federal Bank reported the most profitable quarter in its history on Friday, with net profit up 45.1% to ₹1,386.09 crore for the three months to September, as the Kerala-based lender earned more on its loans and set aside less for bad ones. Punjab National Bank, the Delhi-based state-run lender, also reported higher earnings, with profit up 12.8% to ₹5,532 crore.
+Federal Bank reported the most profitable quarter in its history on Friday, with net profit up **45.1% to ₹1,386.09 crore** for the three months to September, as the Kerala-based lender earned more on its loans and set aside less for bad ones. Punjab National Bank, the Delhi-based state-run lender, also reported higher earnings, with profit up 12.8% to ₹5,532 crore.
 
 ## Federal Bank's margins widen
 
-Federal Bank's net interest income, what it earns on loans minus what it pays on deposits, rose 26.4% to ₹3,153.40 crore, faster than its loan book, which grew 21.7%. Its net interest margin widened by 26 basis points to 3.32%, helped by a 40-basis-point fall in its cost of funds. Deposits now cost it 5.18% on average.
+Federal Bank's net interest income, what it earns on loans minus what it pays on deposits, rose **26.4%** to ₹3,153.40 crore, faster than its loan book, which grew 21.7%. Its net interest margin widened by 26 basis points to 3.32%, helped by a 40-basis-point fall in its cost of funds. Deposits now cost it 5.18% on average.
 
-Operating profit rose 35.4% to ₹2,225.37 crore.
+Operating profit rose **35.4%** to ₹2,225.37 crore.
 
-The quality of its loans improved sharply. Gross non-performing assets fell to 1.32% of loans and net NPAs to 0.17%, both the lowest in ten years. Fresh slippages into bad loans were down 27%, and the bank has set aside provisions covering 87% of its bad loans.
+The quality of its loans improved sharply. Gross non-performing assets fell to **1.32%** of loans and net NPAs to 0.17%, both the lowest in ten years. Fresh slippages into bad loans were down 27%, and the bank has set aside provisions covering 87% of its bad loans.
 
-Chief executive KVS Manian said the bank's total business had crossed ₹6.4 lakh crore and its advances ₹3 lakh crore. "The growth is coming from the core," he said, referring to the bank's mainstream lending and deposit business rather than one-off gains.
+Chief executive KVS Manian said the bank's total business had crossed **₹6.4 lakh crore** and its advances ₹3 lakh crore. "The growth is coming from the core," he said, referring to the bank's mainstream lending and deposit business rather than one-off gains.
 
 Federal Bank's shares closed little changed at about ₹337 on Friday.
 

@@ -37,11 +37,11 @@ verification:
 
 Bhubaneswar police have sorted the city's Durga Puja pandals by the size of their crowds and placed trained rescue teams near the busiest of them, as Odisha's capital braces for its biggest nights of the festival two days after a deadly stampede in Kolkata.
 
-Deputy Commissioner of Police Saravana Vivek M said about 200 approved pandals had been graded into categories A, B and C by footfall and the size of the mandap. Crowds are expected until midnight, and at some places until 2 am.
+Deputy Commissioner of Police Saravana Vivek M said about **200 approved pandals** had been graded into categories A, B and C by footfall and the size of the mandap. Crowds are expected until midnight, and at some places until 2 am.
 
 Eight Special Rescue Units, put together with Odisha Fire Services and the Home Guards, have been stationed at strategic points. Each is a team of four trained in life support, evacuation and handling crowd surges, the officer said. Plain-clothes police are watching for snatchers, and puja committees have been asked to provide volunteers.
 
-The stampede at the Chorbagan pandal in north Kolkata, which killed 19 people, has pushed cities across the east to rethink crowd control.
+The stampede at the Chorbagan pandal in north Kolkata, which killed **19 people**, has pushed cities across the east to rethink crowd control.
 
 On the roads, heavy vehicles are being diverted along suburban routes and bypasses to keep the national highway moving. One choke point, where six lanes narrow into four-lane bridges, is being watched closely, and police have been posted on flyovers where people stop to take selfies or shoot reels. Fines are being collected from those who park near mandaps or in no-parking zones.
 

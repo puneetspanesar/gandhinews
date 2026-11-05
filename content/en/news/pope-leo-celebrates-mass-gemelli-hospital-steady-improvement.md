@@ -39,13 +39,13 @@ verification:
 
 Pope Leo XIV celebrated Mass on Friday in a hospital room in Rome, four days after surgery for lung cancer, and thanked the doctors and nurses looking after him.
 
-The Holy See Press Office said the Pope said Mass at noon in a room set up on the 10th floor of the Gemelli hospital. Members of the medical and nursing staff attended, along with officers of the Vatican City State Gendarmerie. The Vatican released the first picture of the Pope since his operation.
+The Holy See Press Office said the Pope said Mass at noon in a room set up on the **10th floor** of the Gemelli hospital. Members of the medical and nursing staff attended, along with officers of the Vatican City State Gendarmerie. The Vatican released the first picture of the Pope since his operation.
 
 "In his homily, the Pope thanked all the staff, doctors, nurses, and orderlies, for the work they do every day caring for patients in their frailty, and especially for what they have done and continue to do for him," the press office said.
 
 ## Recovery on track
 
-In a separate update, the Vatican said new blood tests and a chest X-ray confirmed "the steady improvement in his overall condition". The Pope is continuing respiratory physiotherapy and is going about his normal daily activities entirely independently.
+In a separate update, the Vatican said new blood tests and a chest X-ray confirmed "the steady improvement in his overall condition". The Pope is continuing respiratory physiotherapy and is going about his normal daily activities **entirely independently**.
 
 The 71-year-old was admitted to Gemelli on Tuesday for surgery to remove the lower lobe of his right lung after a mass was found. Tissue analysis during the operation confirmed lung adenocarcinoma, a form of lung cancer. The video-assisted procedure took about 90 minutes and ended without complications, the Vatican said earlier.
 

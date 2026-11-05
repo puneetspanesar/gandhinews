@@ -40,12 +40,12 @@ The Enforcement Directorate has asked the Supreme Court to set aside a Delhi Hig
 
 The FIR was registered in 2020 by the Delhi Police's Economic Offences Wing under Sections 420 and 120-B of the Indian Penal Code against PPK NewsClick and its owner, Prabir Purkayastha. In May 2026 the High Court held that the essential ingredients of cheating and criminal conspiracy were not made out.
 
-In its special leave petition, the ED argues that the High Court "conducted a mini-trial at the stage of a writ petition". It says the court overlooked emails, statements and other material that, in the agency's account, show pre-planned funding, leaned heavily on documents produced by NewsClick, and failed to record important submissions. The ED also notes that the judgment came six months after the hearing ended.
+In its **special leave petition**, the ED argues that the High Court "conducted a mini-trial at the stage of a writ petition". It says the court overlooked emails, statements and other material that, in the agency's account, show pre-planned funding, leaned heavily on documents produced by NewsClick, and failed to record important submissions. The ED also notes that the judgment came six months after the hearing ended.
 
 ## The money at the centre
 
-The ED says PPK NewsClick received ₹9.60 crore as foreign direct investment in 2018 from an American company, with shares issued at an overvalued price of ₹11,500 each. It alleges a further ₹92 crore came from companies linked to Neville Roy Singham against service exports that, it says, did not exist. The agency describes Singham as linked to the Chinese Communist Party.
+The ED says PPK NewsClick received **₹9.60 crore** as foreign direct investment in 2018 from an American company, with shares issued at an overvalued price of ₹11,500 each. It alleges a further ₹92 crore came from companies linked to Neville Roy Singham against service exports that, it says, did not exist. The agency describes Singham as linked to the Chinese Communist Party.
 
-The ED says Purkayastha used part of the money to buy a flat in Saket, and it has attached property worth ₹4.93 crore. In February 2026 a penalty of ₹184 crore was imposed on the company and Purkayastha in FEMA proceedings.
+The ED says Purkayastha used part of the money to buy a flat in Saket, and it has attached property worth ₹4.93 crore. In February 2026 a penalty of **₹184 crore** was imposed on the company and Purkayastha in FEMA proceedings.
 
 The agency says it has been unable to take its investigation forward since 2021 because of court orders barring coercive action. The case also has separate UAPA and FCRA strands, registered by the Delhi Police Special Cell and the CBI. No date has been reported for the Supreme Court to hear the petition.

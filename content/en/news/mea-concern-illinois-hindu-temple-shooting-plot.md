@@ -46,7 +46,7 @@ India said it was "deeply concerned" by an alleged plot to carry out a mass shoo
 
 "We are deeply concerned by reports of an alleged plot to carry out a mass shooting targeting a Hindu temple," Ministry of External Affairs spokesperson Randhir Jaiswal said, responding to media questions. "This incident adds to growing concerns over racist hostility and anti-India hate in the US."
 
-He said the anti-Hindu and racist nature of the plot, including its references to violence against people of Indian origin, was particularly disturbing. India had taken note of the arrest and the charges, he said, and wanted a thorough investigation and steps to stop such incidents. "There is a need for greater vigilance, zero tolerance for hate-motivated violence," Jaiswal said. "We expect US authorities to thoroughly investigate the matter, bring those responsible to justice."
+He said the anti-Hindu and racist nature of the plot, including its references to **violence against people of Indian** origin, was particularly disturbing. India had taken note of the arrest and the charges, he said, and wanted a thorough investigation and steps to stop such incidents. "There is a need for greater vigilance, zero tolerance for hate-motivated violence," Jaiswal said. "We expect US authorities to thoroughly investigate the matter, bring those responsible to justice."
 
 ## What police in Illinois say
 
@@ -56,7 +56,7 @@ According to police, he had shared a document setting out a plan to attack a Hin
 
 Investigators believe the attack may have been planned for October 11 and aimed at a Hindu place of worship in the Aurora area near Chicago. The temple has not been identified. Police say a document titled "Why I Fought: A.K.A.: (Aurora Shooter's Manifesto)" set out white supremacist views and referred to violence against people of South Asian, and particularly Indian, descent. Prosecutors have also alleged that he tried to carry out the plan but fled when his rifle malfunctioned.
 
-Paporakis faces one count of making a terrorist threat, a Class X felony, and one count of unlawful possession of weapons. At a detention hearing on Wednesday, a judge ordered that he be held in custody. His next court date was reported to be October 30, and the FBI is assisting local police.
+Paporakis faces one count of **making a terrorist threat**, a Class X felony, and one count of unlawful possession of weapons. At a detention hearing on Wednesday, a judge ordered that he be held in custody. His next court date was reported to be October 30, and the FBI is assisting local police.
 
 ## A sharper tone from Delhi
 

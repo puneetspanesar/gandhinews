@@ -50,9 +50,9 @@ For Khilari, the gold confirmed his status as the leading thrower in Asia in his
 
 ## Gold for Ayush Verma, a personal best for Jadhav
 
-There was a second Indian gold in the circle. Ayush Verma won the men's F53 shot put with a throw of 8.16m.
+There was a second Indian gold in the circle. Ayush Verma won the men's **F53 shot put** with a throw of 8.16m.
 
-Bhagyashri Jadhav added silver in the women's F34 shot put with a personal best of 8.19m. She could not match China's Lijuan Zou, who set a Games record of 9.07m to win gold, but the throw was the best of Jadhav's career.
+Bhagyashri Jadhav added silver in the women's F34 shot put with a **personal best of 8.19m**. She could not match China's Lijuan Zou, who set a Games record of 9.07m to win gold, but the throw was the best of Jadhav's career.
 
 ## Rongali settles for bronze
 

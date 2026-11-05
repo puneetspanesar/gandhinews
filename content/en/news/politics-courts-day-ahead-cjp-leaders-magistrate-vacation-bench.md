@@ -5,7 +5,7 @@ type: news
 section: politics
 format_label: "Politics / Courts"
 topics: [supreme-court, electoral-rolls-sir]
-title: "Day ahead: CJP leaders back before magistrate as Supreme Court vacation bench takes up YSRCP and Vijayan pleas"
+title: "Courts on October 21: CJP leaders back before magistrate as Supreme Court vacation bench takes up YSRCP and Vijayan pleas"
 standfirst: "Saurav Das and Ashutosh Ranka, who have gone to the Delhi High Court against their extended custody, are due before a magistrate at 2 pm on Wednesday. Mallikarjun Kharge has promised to set out his SIR concerns to the Prime Minister."
 published: 2026-10-21T05:30:00+05:30
 location: New Delhi
@@ -19,7 +19,7 @@ hero:
   subjects: ["Joymalya Bagchi"]
   alt: "Justice Joymalya Bagchi of the Supreme Court of India (file photo)"
   overlay:
-    value: "A busy Wednesday in court"
+    value: "A busy day in court"
 related: [cjp-das-ranka-custody-extended-till-october-21, supreme-court-vacation-bench-ysrcp-nominations-plea-wednesday, supreme-court-pinarayi-vijayan-cmrl-plea-wednesday, kharge-to-explain-sir-harm-to-modi-tomorrow-kalaburagi, dipke-rejects-nepal-bangladesh-parallels-satyagraha, politics-courts-week-ahead-speaker-tmc-anti-sir-protests]
 seo:
   description: "On October 21, CJP leaders Saurav Das and Ashutosh Ranka return before a Delhi magistrate, and a Supreme Court vacation bench hears the YSRCP and Pinarayi Vijayan pleas."
@@ -71,7 +71,7 @@ The pair have been held since climbing the gate of Jantar Mantar with the Tricol
 
 ## The vacation bench
 
-A special bench of Justices Joymalya Bagchi and V Mohana will hear the YSR Congress Party's challenge to an Andhra Pradesh High Court order of October 18 that refused to extend the deadline for nominations in the state's urban local body elections. The party says violence kept its candidates away from nomination centres and wants police protection, more time and more centres.
+A special bench of **Justices Joymalya Bagchi and V Mohana** will hear the YSR Congress Party's challenge to an Andhra Pradesh High Court order of October 18 that refused to extend the deadline for nominations in the state's urban local body elections. The party says violence kept its candidates away from nomination centres and wants police protection, more time and more centres.
 
 The same bench takes up the pleas of former Keralam chief minister Pinarayi Vijayan, his daughter Veena T and P A Mohammed Riyas against the High Court orders that led to a vigilance case in the CMRL-Exalogic matter. Arguing for an early hearing last week, senior advocate Siddharth Luthra told the court: "It is a matter of liberty."
 

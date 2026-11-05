@@ -38,7 +38,7 @@ verification:
 
 The Assam government will ask the Supreme Court to cancel the bail granted to two of the seven people accused in the death of singer Zubeen Garg, officials said on Sunday.
 
-The state's Criminal Investigation Department will file special leave petitions against the Gauhati High Court's orders freeing Amritprava Mahanta, a singer and member of Garg's band, and Sandipan Garg, his cousin and a suspended Assam Police deputy superintendent, as soon as the top court reopens after its holidays.
+The state's Criminal Investigation Department will file **special leave petitions** against the Gauhati High Court's orders freeing Amritprava Mahanta, a singer and member of Garg's band, and Sandipan Garg, his cousin and a suspended Assam Police deputy superintendent, as soon as the top court reopens after its holidays.
 
 "The honourable Gauhati High Court has granted bail to two accused in case no. 18/25," Munna Prasad Gupta, Special DGP of the CID, told a press conference in Guwahati. "Court holidays are on. And as soon as it reopens, we will file it." He declined to comment on the bail orders themselves.
 
@@ -50,7 +50,7 @@ The detailed order on Sandipan Garg's bail was not yet available, he said, and t
 
 The High Court granted Mahanta bail on October 9 and Sandipan Garg on October 16; lower courts had earlier turned both down. Mahanta has been released, while Sandipan Garg was awaiting the execution of his order.
 
-Mr Gupta said 134 witnesses had been examined so far. "No witness has turned hostile," he said.
+Mr Gupta said **134 witnesses** had been examined so far. "No witness has turned hostile," he said.
 
 ## The wider case
 

@@ -53,7 +53,7 @@ The High Powered Enquiry Committee (HPEC) is looking into all aspects of the vio
 
 The panel will examine the issues listed in the court's orders of August 18 and September 10. It will give priority to "the use of pellet guns, targeted violence and harassment of female protestors, and excessive violence and destruction of property occasioned on either side".
 
-The portal has been built to protect vulnerable witnesses, who can keep their identities confidential if they choose. Anyone with information or suggestions on the issues before the committee can also use it. Those who prefer to file on paper can hand in complaints at the HPEC office at Shiksha Sadan, 17 Rouse Avenue Institutional Area, New Delhi, between 2 pm and 4 pm on working days, or send them by post or by email to hpec2026.enquiry@nic.in.
+The portal has been built to protect vulnerable witnesses, who can keep their **identities confidential** if they choose. Anyone with information or suggestions on the issues before the committee can also use it. Those who prefer to file on paper can hand in complaints at the HPEC office at Shiksha Sadan, 17 Rouse Avenue Institutional Area, New Delhi, between 2 pm and 4 pm on working days, or send them by post or by email to hpec2026.enquiry@nic.in.
 
 The five-member committee is headed by former Supreme Court judge R Subhash Reddy. Its other members are Ravi Shankar Jha, a former Chief Justice of the Punjab and Haryana High Court; Shalinder Kaur, a former Delhi High Court judge; Rishi Kumar Shukla, a former CBI director; and L R Bishnoi, a retired Meghalaya police chief.
 

@@ -58,7 +58,7 @@ Lok Sabha Speaker Om Birla, who will chair the two-day meeting, said member parl
 
 ## Volodin in, Ghalibaf out
 
-Vyacheslav Volodin, Chairman of Russia's State Duma, flew into Delhi on Saturday at the head of a group of Russian lawmakers. It is his first foreign trip since he took charge of the new Duma. Besides the forum sessions, he is due to meet Indian officials and MPs to discuss economic, social and technological cooperation and closer ties between the two parliaments.
+Vyacheslav Volodin, Chairman of Russia's State Duma, flew into Delhi on Saturday at the head of a group of Russian lawmakers. It is his **first foreign trip** since he took charge of the new Duma. Besides the forum sessions, he is due to meet Indian officials and MPs to discuss economic, social and technological cooperation and closer ties between the two parliaments.
 
 Iran's Parliament Speaker Mohammad Bagher Ghalibaf will not make the trip. The Iranian embassy in New Delhi said he would be absent "due to certain unforeseen circumstances", and added: "It is also emphasized that the parliamentary delegation of the Islamic Republic of Iran will participate in the meeting." The embassy did not say who would lead it. Ghalibaf's absence comes as Iran faces renewed threats of US strikes and Houthi missile attacks on Saudi Arabia continue.
 

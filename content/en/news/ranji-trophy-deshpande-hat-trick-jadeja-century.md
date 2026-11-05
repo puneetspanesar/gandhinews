@@ -52,19 +52,19 @@ verification:
     - "Bengal's lead of 64 implies Delhi made 240; not stated in copy."
 ---
 
-Tushar Deshpande needed only a few overs on Monday to make the opening round of the Ranji Trophy his own. The Mumbai fast bowler took a hat-trick and finished with 5 for 17 as Chandigarh were bowled out for 78 at the Wankhede Stadium, in reply to Mumbai's 429.
+Tushar Deshpande needed only a few overs on Monday to make the opening round of the Ranji Trophy his own. The Mumbai fast bowler took a hat-trick and finished with **5 for 17** as Chandigarh were bowled out for 78 at the Wankhede Stadium, in reply to Mumbai's 429.
 
 Mohit Avasthi, who had earlier made a half-century with the bat, took 3 for 9. Mumbai enforced the follow-on, and Deshpande struck again before the close.
 
 ## Jadeja finishes the job in Rajkot
 
-Ravindra Jadeja began the second day on 72 and reached his hundred against Chhattisgarh in Rajkot. He made 102 off 209 balls with seven boundaries before Dharmendrasinh Jadeja dismissed him. Prerak Mankad, unbeaten on 92 overnight, went on to 129 off 150 balls with 15 fours and a six.
+Ravindra Jadeja began the second day on 72 and reached his hundred against Chhattisgarh in Rajkot. He made **102 off 209 balls** with seven boundaries before Dharmendrasinh Jadeja dismissed him. Prerak Mankad, unbeaten on 92 overnight, went on to 129 off 150 balls with 15 fours and a six.
 
 Saurashtra resumed on 308 for 4 but were all out for 392 in 110.4 overs, with Dev Aditya Singh taking 5 for 67. Chhattisgarh reached 122 for 3 at stumps, Anuj Tiwary unbeaten on 72 and Mayank Verma on 32.
 
 ## Bengal's centurions take charge
 
-At Kalyani, Bengal moved past Delhi's first-innings total without much trouble. Sudip Kumar Gharami (122 not out) and Abishek Porel (114 not out) shared an unbroken stand of 199, leaving Bengal on 304 for 3 and 64 runs ahead.
+At Kalyani, Bengal moved past Delhi's first-innings total without much trouble. Sudip Kumar Gharami (122 not out) and Abishek Porel (114 not out) shared an unbroken stand of 199, leaving Bengal on 304 for 3 and **64 runs** ahead.
 
 ## Near misses and big totals
 
@@ -72,7 +72,7 @@ Vidarbha captain Akshay Wadkar fell two short of a maiden first-class double hun
 
 Baroda declared on 472 for 8 against Goa after Atit Sheth was out for 99, and Goa lost a wicket before stumps. In Rajgir, Uttar Pradesh piled up 540 against Bihar, with Madhav Kaushik scoring 150 and Rinku Singh 112.
 
-In Srinagar, Avesh Khan took three wickets as Madhya Pradesh bowled Jammu and Kashmir out for 120 and took a first-innings lead of 76. Auqib Nabi, another India A pick, struck late to leave Madhya Pradesh 59 for 4 in their second innings, 135 runs ahead.
+In Srinagar, Avesh Khan took three wickets as Madhya Pradesh bowled Jammu and Kashmir out for 120 and took a first-innings lead of 76. Auqib Nabi, another India A pick, struck late to leave Madhya Pradesh 59 for 4 in their second innings, **135 runs** ahead.
 
 ## What's next
 

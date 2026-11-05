@@ -31,7 +31,7 @@ infographic:
     - {icon: target, value: "78", label: "19.4 ओवर में चाहिए रन"}
     - {icon: timer, value: "32 ओवर", label: "भारत की घटी हुई पारी"}
   chart: {type: columns, title: "भारत का पीछा: बनाए रन बनाम बाकी रन", highlight: 1, items: [{label: "बनाए", value: 65, display: "65"}, {label: "बाकी", value: 78, display: "78"}]}
-  source: "विज़डन लाइव स्कोरकार्ड, 4 नवंबर 2026"
+  source: "मैच स्कोरकार्ड, 4 नवंबर 2026"
 related: [india-54-one-down-rain-stops-play-eden-park-odi, india-41-one-down-kohli-chase-186-eden-park-odi, rohit-run-out-mitchell-new-zealand-185-nine-down-40-overs-eden-park]
 seo:
   description: "ईडन पार्क में न्यूज़ीलैंड बनाम भारत पहला वनडे, 4 नवंबर 2026: बारिश के बाद भारत की पारी 32 ओवर की, 12.2 ओवर में 1 विकेट पर 65, 19.4 ओवर में 78 रन चाहिए।"

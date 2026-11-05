@@ -45,7 +45,7 @@ Ras Al Khaimah closed all of its beaches on Saturday as an oil spill off the coa
 
 The emirate's Public Services Department said the beaches would stay closed "until further notice". It did not give a reason.
 
-On Friday, the UAE said work was under way to contain oil leaking from a tanker offshore. The authorities have not named the vessel or said what caused the leak. A satellite image taken on October 19 showed a slick off Umm Al Quwain.
+On Friday, the UAE said work was under way to contain **oil leaking from a tanker offshore**. The authorities have not named the vessel or said what caused the leak. A satellite image taken on October 19 showed a slick off Umm Al Quwain.
 
 Umm Al Quwain has closed beaches and coastal areas around the city until technical teams finish their assessment and put safety and marine protection measures in place. Sharjah shut Al Hamriyah Beach, on its northern coast near the Umm Al Quwain border, as a precaution.
 

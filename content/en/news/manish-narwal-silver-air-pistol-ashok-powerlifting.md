@@ -54,7 +54,7 @@ It was India's second shooting silver of the Games after Avani Lekhara finished 
 
 ## Ashok's 192 kg
 
-India picked up another silver in para powerlifting, where Ashok lifted 192 kg in the men's up to 65 kg class. China's Zou Yi won gold with 216 kg.
+India picked up another silver in para powerlifting, where Ashok lifted **192 kg** in the men's up to 65 kg class. China's Zou Yi won gold with 216 kg.
 
 The two silvers came on a strong morning for India in Nagoya, with Deepthi Jeevanji winning the women's 400m T20 in a Games record and Pradeep Kumar taking silver in the men's javelin F53/F54.
 

@@ -43,7 +43,7 @@ verification:
 
 Pakistan, Turkiye, Qatar and Indonesia have signed a defence cooperation agreement in Doha that commits them to build weapons together and share technology, adding another layer to Pakistan's growing web of military ties in the Muslim world.
 
-The deal, called the Badr Memorandum of Understanding, was signed on Wednesday and announced by Pakistan's Defence Minister Khawaja Asif. He described the other three as "trusted partners" and said the agreement was about "strengthening self-reliance, industrial collaboration, joint production and technology transfer". Pakistan said all activities under it would follow international and domestic law.
+The deal, called the **Badr Memorandum of Understanding**, was signed on Wednesday and announced by Pakistan's Defence Minister Khawaja Asif. He described the other three as "trusted partners" and said the agreement was about "strengthening self-reliance, industrial collaboration, joint production and technology transfer". Pakistan said all activities under it would follow international and domestic law.
 
 The memorandum covers research and development, training exchanges and closer links between the four countries' defence industries. Turkiye's defence ministry said: "The agreement holds substantial economic importance." Haluk Gorgun, who heads Turkiye's Defence Industry Presidency, said: "Technology sharing, joint development and strengthening domestic production capabilities lie at the heart" of a sustainable defence industry, and that the four countries' complementary strengths should now become concrete projects.
 

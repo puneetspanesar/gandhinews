@@ -68,13 +68,13 @@ verification:
     - "JNUTA position from Ukhrul Times summary; no direct JNUTA quote available."
 ---
 
-Workers of the BJP's women's wing marched towards the Congress headquarters in New Delhi on Monday and burned an effigy of Rahul Gandhi, demanding that the party expel Inner Manipur MP Angomcha Bimol Akoijam. Jawaharlal Nehru University dismissed him from its faculty last week over sexual harassment complaints from women students.
+Workers of the BJP's women's wing marched towards the Congress headquarters in New Delhi on Monday and burned an **effigy of Rahul Gandhi**, demanding that the party expel Inner Manipur MP Angomcha Bimol Akoijam. Jawaharlal Nehru University dismissed him from its faculty last week over sexual harassment complaints from women students.
 
 Police stopped the march on Deen Dayal Upadhyay Marg, near ITO, before it reached the building. Several protesters were detained and taken away in a bus. The Mahila Morcha had held a similar protest outside the Congress office in Lucknow on Saturday.
 
 ## The case against the MP
 
-Akoijam taught at JNU's Centre for the Study of Social Systems. On October 9 the university dismissed him with immediate effect after its Internal Committee, which examined complaints from 11 women students, recommended major punishment. The students had complained in May. They alleged that he called them to his campus residence on the pretext of meetings and harassed them, and some alleged obscene remarks in class.
+Akoijam taught at JNU's Centre for the Study of Social Systems. On October 9 the university dismissed him with immediate effect after its Internal Committee, which examined **complaints from 11 women students**, recommended major punishment. The students had complained in May. They alleged that he called them to his campus residence on the pretext of meetings and harassed them, and some alleged obscene remarks in class.
 
 On Sunday, Delhi Police registered an FIR at Vasant Kunj North police station on a complaint from JNU's chief security officer. It invokes Sections 75 and 79 of the Bharatiya Nyaya Sanhita, which deal with sexual harassment and insulting the modesty of a woman. Police say the investigation is continuing. No court has ruled on the allegations.
 

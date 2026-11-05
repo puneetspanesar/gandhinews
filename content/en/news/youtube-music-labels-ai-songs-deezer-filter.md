@@ -52,6 +52,6 @@ The same day, Deezer said it was building a switch that hides AI-generated track
 
 "We've seen clear user demand for the ability to filter out AI-generated music," chief executive Alexis Lanternier said. Listeners, he said, should be able to "focus only on human creators and creations, if they wish".
 
-The scale has changed quickly. When Deezer began detecting AI tracks in January 2025, they made up about 10% of daily uploads. By July this year the share was above 50%, about 90,000 tracks a day. A 2025 survey for the company found about 45% of its users wanted a way to remove AI music from their feeds.
+The scale has changed quickly. When Deezer began detecting AI tracks in January 2025, they made up about **10%** of daily uploads. By July this year the share was above 50%, about 90,000 tracks a day. A 2025 survey for the company found about 45% of its users wanted a way to remove AI music from their feeds.
 
 Other services have taken different lines. Bandcamp has banned AI tracks, Tidal has stopped paying accounts that upload them, and Spotify labels them without a ban. Apple Music plans "Made With AI" labels later this year.

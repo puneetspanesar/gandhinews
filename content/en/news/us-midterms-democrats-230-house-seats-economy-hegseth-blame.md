@@ -29,7 +29,7 @@ infographic:
     - {icon: flag-banner, value: "230+", label: "House seats Democrats are on course to win"}
     - {icon: users-three, value: "6+", label: "Senate seats flipped by Democrats"}
     - {icon: gas-pump, value: "4 in 10", label: "voters who named the economy their top issue"}
-  source: "Vote count and AP voter polling, November 4, 2026"
+  source: "Vote count and voter surveys, November 4, 2026"
 related: [us-midterms-democrats-oust-spartz-van-orden-steil-house-jeffries, us-midterms-democrats-win-senate-talarico-brown-flip, us-midterms-democrats-win-house-senate-in-balance]
 seo:
   description: "US midterms 2026: Democrats on course for more than 230 House seats after flipping at least six Senate seats; economy and prices top voters' worries; a Republican blames Pete Hegseth."
@@ -57,7 +57,7 @@ In the Senate, Democrats have **flipped at least six Republican seats**, among t
 
 ## Prices on voters' minds
 
-The economy decided much of the vote. About **4 in 10 voters named it as their most important issue**, according to AP polling, and most of them pointed to high petrol and grocery prices, which climbed after the US launched a war on Iran in February.
+The economy decided much of the vote. About **4 in 10 voters** named it as their most important issue, according to voter polling, and most of them pointed to high petrol and grocery prices, which climbed after the US launched a war on Iran in February.
 
 Ossoff spoke to that mood in Atlanta on election night. "Let tonight's results give you courage that the first light of dawn is on the horizon," he told supporters.
 

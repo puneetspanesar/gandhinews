@@ -38,13 +38,13 @@ verification:
 
 Amit Mishra is going back to Delhi. The former India leg-spinner has been named spin-bowling coach of Delhi Capitals for the 2027 Indian Premier League, his first coaching job since he retired from all forms of the game in September 2025.
 
-It is a homecoming of sorts. Mishra began his IPL career with the franchise, then called Delhi Daredevils, in the first season in 2008, and he went on to play every edition until 2024 except 2022. He finished with 174 wickets in 162 matches and more hat-tricks than any other bowler in the league's history.
+It is a homecoming of sorts. Mishra began his IPL career with the franchise, then called Delhi Daredevils, in the first season in 2008, and he went on to play every edition until 2024 except 2022. He finished with **174 wickets** in 162 matches and more hat-tricks than any other bowler in the league's history.
 
 For India he played 22 Tests, 36 one-day internationals and 10 T20 internationals between 2003 and 2017.
 
 ## A new-look staff
 
-Mishra joins a backroom team that has been rebuilt for next season. Sourav Ganguly is the new head coach, Chaminda Vaas is in charge of the fast bowlers and Yuvraj Singh is assistant and batting coach.
+Mishra joins a backroom team that has been rebuilt for next season. **Sourav Ganguly** is the new head coach, Chaminda Vaas is in charge of the fast bowlers and Yuvraj Singh is assistant and batting coach.
 
 The changes follow an arrangement between the franchise's co-owners, GMR Sports India and JSW Sports, under which each runs cricket operations in alternating two-year cycles.
 

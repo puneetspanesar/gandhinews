@@ -43,8 +43,8 @@ The child lives in the Jamali Colony union council of Karachi East. The virus wa
 
 The Polio Eradication Initiative said it was "analysing the best science-based response to tackle and prevent further transmission."
 
-Pakistan recorded 31 cases in 2025, so this year's count is well down, but the new case shows the virus is still reaching children in the country's largest city, more than a year and a half after Karachi's last reported case.
+Pakistan recorded **31 cases** in 2025, so this year's count is well down, but the new case shows the virus is still reaching children in the country's largest city, more than a year and a half after Karachi's last reported case.
 
 The centre did not say whether the boy had received any vaccine doses before he fell ill, or what follow-up vaccination is planned around his neighbourhood ahead of the national drive.
 
-Four large-scale campaigns this year have reached out to more than 4.5 crore children, and a subnational drive in September vaccinated over 2.93 crore. The next campaign runs from November 2 to 8 and will target nearly 2.4 crore children in 97 districts, including every district of Karachi.
+Four large-scale campaigns this year have reached out to more than **4.5 crore** children, and a subnational drive in September vaccinated over 2.93 crore. The next campaign runs from November 2 to 8 and will target nearly 2.4 crore children in 97 districts, including every district of Karachi.

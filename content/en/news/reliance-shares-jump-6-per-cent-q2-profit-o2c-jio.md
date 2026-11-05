@@ -71,12 +71,12 @@ verification:
 
 Shares of Reliance Industries **jumped more than 6% on Monday morning**, the first trading session after the company reported a sharp rise in September-quarter profit on the back of its oil and chemicals business.
 
-The stock touched **a day's high of ₹1,237.30 on the NSE at 9:41 am, up 6.22%**. It was the top gainer on the Sensex from the opening minutes and did much of the work in lifting the index nearly 1,000 points. The shares had fallen about 24% this year before the results.
+The stock touched a day's high of **₹1,237.30 on the NSE** at 9:41 am, up 6.22%. It was the top gainer on the Sensex from the opening minutes and did much of the work in lifting the index nearly 1,000 points. The shares had fallen about 24% this year before the results.
 
 
 Profit attributable to shareholders **rose 41% to ₹25,548 crore**, from ₹18,165 crore a year earlier and ₹20,946 crore in the June quarter. EBITDA, or operating profit before depreciation, grew 24% to ₹62,409 crore.
 
-The engine was the oil-to-chemicals division, where **EBITDA climbed 68%**, helped by higher energy prices. The retail business went the other way: gross revenue grew 6.4%, but Reliance Retail's **net profit fell 24.3%**.
+The engine was the oil-to-chemicals division, where **EBITDA climbed 68%**, helped by higher energy prices. The retail business went the other way: gross revenue grew 6.4%, but Reliance Retail's net profit fell 24.3%.
 
 Jio Platforms, the telecom and digital arm that listed last week and in which Reliance holds about 66.4%, reported its first results as a listed company. Its profit rose 14% to ₹8,389 crore on revenue of ₹47,485 crore, with average revenue per user at ₹218.8. Brokerage Motilal Oswal raised its target for the stock to ₹1,515. "We reiterate our BUY rating on JPL with a revised target of Rs 1,515," it said in a note.
 

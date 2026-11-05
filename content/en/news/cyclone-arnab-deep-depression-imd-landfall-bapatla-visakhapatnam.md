@@ -58,17 +58,17 @@ The India Meteorological Department (IMD) puts maximum sustained winds at landfa
 
 The system formed as a depression over the east-central Bay on Saturday, moving slowly at about 5 km/h. As it gathers strength, it is forecast to curve towards the west-north-west and climb through the stages of cyclonic storm, severe cyclonic storm and very severe cyclonic storm before it reaches land.
 
-Heavy rain is forecast along much of the coast. The state's projections show Anakapalli receiving an average of 292.55 mm over five days, Alluri Sitharama Raju 281.17 mm, Visakhapatnam 253.87 mm and Srikakulam 249.18 mm. The worst-hit areas could get 22 to 29 cm. Krishna and Bapatla districts are on red alert for October 27, and 13 districts for the next day.
+Heavy rain is forecast along much of the coast. The state's projections show Anakapalli receiving an average of **292.55 mm** over five days, Alluri Sitharama Raju 281.17 mm, Visakhapatnam 253.87 mm and Srikakulam 249.18 mm. The worst-hit areas could get 22 to 29 cm. Krishna and Bapatla districts are on red alert for October 27, and 13 districts for the next day.
 
 ## Odisha's south braces too
 
-Landfall is expected roughly 300 km from Gopalpur, close enough for southern Odisha to take a battering. The IMD has issued a red warning for Ganjam, Gajapati, Rayagada, Koraput and Malkangiri on October 28, with isolated falls of more than 20 cm possible. Heavy to very heavy rain is forecast across the state from October 27 to 29, along with gusts of 60 to 70 km/h during thunderstorms.
+Landfall is expected roughly **300 km** from Gopalpur, close enough for southern Odisha to take a battering. The IMD has issued a red warning for Ganjam, Gajapati, Rayagada, Koraput and Malkangiri on October 28, with isolated falls of more than 20 cm possible. Heavy to very heavy rain is forecast across the state from October 27 to 29, along with gusts of 60 to 70 km/h during thunderstorms.
 
 Chief Minister Mohan Charan Majhi has set a "zero-casualty" goal and asked officials to move the elderly, patients and pregnant women out of vulnerable areas first. Schools, colleges and anganwadi centres in the five red-warning districts will shut on October 28 and 29. About 60 teams of the Odisha Disaster Rapid Action Force and 17 of the National Disaster Response Force are in place, and 225 fire service teams are on high alert. In Ganjam, Collector Keerthi Vasan V said 100 cyclone shelters were ready and 1,000 temporary locations had been identified.
 
 ## Mothers and newborns first
 
-Andhra Pradesh's health department is trying to get ahead of the storm. Health and Family Welfare Commissioner Chakradhar Babu has ordered uninterrupted emergency services at government hospitals and primary health centres from October 27 to 30. Details of 26,768 expectant mothers due between October 23 and November 6 have been sent to district health officers, and women in low-lying areas or with high-risk pregnancies are being moved to hospitals in advance.
+Andhra Pradesh's health department is trying to get ahead of the storm. Health and Family Welfare Commissioner Chakradhar Babu has ordered uninterrupted emergency services at government hospitals and primary health centres from October 27 to 30. Details of **26,768 expectant mothers** due between October 23 and November 6 have been sent to district health officers, and women in low-lying areas or with high-risk pregnancies are being moved to hospitals in advance.
 
 Ten NDRF and 11 State Disaster Response Force teams have been stationed across the state, and fishermen have been told to stay ashore. The state Disaster Management Department urged people to "remain calm, avoid panic, and ignore rumours", keep phones charged and store documents in waterproof covers. Prakhar Jain, managing director of the state disaster management authority, warned against taking selfies near the surging waves. The helplines are 112, 1070 and 18004250101.
 

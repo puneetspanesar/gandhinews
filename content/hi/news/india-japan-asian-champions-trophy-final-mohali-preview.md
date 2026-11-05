@@ -62,7 +62,7 @@ infographic:
     - {icon: trophy, value: "5", label: "भारत के अब तक के खिताब"}
     - {icon: target, value: "4-1", label: "30 अक्टूबर को लीग में जापान पर भारत की जीत"}
     - {icon: clock, value: "शाम 7 बजे", label: "फाइनल शुरू होने का समय"}
-  source: "टूर्नामेंट कार्यक्रम; PTI, 4 नवंबर 2026"
+  source: "टूर्नामेंट कार्यक्रम, 4 नवंबर 2026"
 cover:
   template: faceoff
   label: एशियन चैंपियंस ट्रॉफी

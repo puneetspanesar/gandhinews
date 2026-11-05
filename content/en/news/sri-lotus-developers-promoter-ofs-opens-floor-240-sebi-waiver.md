@@ -55,7 +55,7 @@ verification:
 
 Anand Pandit, the promoter of **Sri Lotus Developers and Realty**, began selling part of his holding on Tuesday through an offer for sale, putting **up to 5.89% of the Mumbai property developer** on the block.
 
-The sale opened to non-retail investors when the market opened this morning, at a **floor price of ₹240 a share**. Retail investors can bid on Wednesday, November 4, when institutions that did not get shares on day one can also carry their unallotted bids forward.
+The sale opened to non-retail investors when the market opened on the morning of November 3, at a **floor price of ₹240 a share**. Retail investors can bid on Wednesday, November 4, when institutions that did not get shares on day one can also carry their unallotted bids forward.
 
 The base offer is 2,37,95,818 shares. If demand is strong, Pandit can sell **another 50 lakh shares through a greenshoe option**, taking the offer to 2,87,95,818 shares. At the floor price, that is roughly ₹571 crore for the base offer and about ₹691 crore if the greenshoe is used in full.
 
@@ -71,4 +71,4 @@ It follows a smaller sale only weeks ago. On September 10 Pandit sold **2% of th
 {"n":2,"subject":"SEBI Bhavan","caption":"SEBI's headquarters in Mumbai. The regulator waived the 12-week gap between the promoter's two sales.","alt":"SEBI Bhavan, headquarters of the Securities and Exchange Board of India"}
 ```
 
-At least **25% of the offer is reserved for mutual funds and insurers**, and 10% for retail investors, who may bid at the cut-off price. Trades will be settled one by one, with 100% margin paid up front. The seller can withdraw the offer if there is not enough demand at or above the floor price.
+At least **25% of the offer** is reserved for mutual funds and insurers, and 10% for retail investors, who may bid at the cut-off price. Trades will be settled one by one, with 100% margin paid up front. The seller can withdraw the offer if there is not enough demand at or above the floor price.

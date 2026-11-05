@@ -52,17 +52,17 @@ verification:
     - "No executive quotes found."
 ---
 
-ICICI Prudential Asset Management Company's net profit rose 6.1% to ₹889 crore in July-September from ₹838 crore a year earlier, as revenue from a growing pool of fund assets outweighed a sharp drop in other income, results released on Monday showed.
+ICICI Prudential Asset Management Company's net profit rose **6.1% to ₹889 crore** in July-September from ₹838 crore a year earlier, as revenue from a growing pool of fund assets outweighed a sharp drop in other income, results released on Monday showed.
 
-Revenue from operations rose 16.3% to ₹1,674 crore. Operating profit before tax grew 15.7% to ₹1,181 crore. But profit fell 7.8% from ₹965 crore in the June quarter, because other income shrank to ₹17 crore from ₹181 crore.
+Revenue from operations rose **16.3%** to ₹1,674 crore. Operating profit before tax grew 15.7% to ₹1,181 crore. But profit fell 7.8% from ₹965 crore in the June quarter, because other income shrank to ₹17 crore from ₹181 crore.
 
-The board declared an interim dividend of ₹30 a share. The record date is October 21.
+The board declared an **interim dividend of ₹30** a share. The record date is October 21.
 
 ## Assets and investors
 
-The fund house's quarterly average mutual fund assets grew 14.4% to ₹11.61 lakh crore, giving it a 13.3% share of the industry. Equity and equity-oriented schemes grew 16.3% to ₹6.59 lakh crore, and hybrid equity funds 19.7% to ₹2.29 lakh crore. Debt fund assets fell 9.1%.
+The fund house's quarterly average mutual fund assets grew 14.4% to **₹11.61 lakh crore**, giving it a 13.3% share of the industry. Equity and equity-oriented schemes grew 16.3% to ₹6.59 lakh crore, and hybrid equity funds 19.7% to ₹2.29 lakh crore. Debt fund assets fell 9.1%.
 
-The number of unique investors rose to 1.78 crore from 1.55 crore a year ago. Monthly systematic flows, through SIPs and transfer plans, were ₹4,672 crore in September. The company sells through more than 1.18 lakh distributors and 287 offices.
+The number of unique investors rose to **1.78 crore** from 1.55 crore a year ago. Monthly systematic flows, through SIPs and transfer plans, were ₹4,672 crore in September. The company sells through more than 1.18 lakh distributors and 287 offices.
 
 Beyond mutual funds, it manages ₹80,965 crore in alternative assets, including ₹30,791 crore in portfolio management services and ₹24,260 crore in alternative investment funds.
 

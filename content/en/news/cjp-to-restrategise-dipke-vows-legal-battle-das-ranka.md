@@ -56,7 +56,7 @@ Das and Ranka climbed the locked gate of Jantar Mantar on Tuesday, a day after p
 
 Dipke himself was held on Friday on his way to a "Lehra Do Tiranga" march at Central Park in Connaught Place, when prohibitory orders under Section 163 of the BNSS were in force in central Delhi. He was booked under Sections 126 and 170 of the BNSS in a fresh preventive proceeding and given conditional bail on Saturday at Mandir Marg police station, on a bond to keep the peace for a year.
 
-Ratna Singh, who heads the CJP's legal affairs, said his detention had been unlawful. "He merely urged people to unfurl the Tiranga - how can that by itself be a crime?" she said. "Delhi Police cannot do unlawful acts under the garb of preventive detention."
+Ratna Singh, who heads the CJP's legal affairs, said his detention had been unlawful. "He merely urged people to unfurl the Tiranga. How can that by itself be a crime?" she said. "Delhi Police cannot do unlawful acts under the garb of preventive detention."
 
 ## Students take up the call
 

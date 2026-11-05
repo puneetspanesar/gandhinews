@@ -64,7 +64,7 @@ It is only fair to begin there. The L&DO has been clearing the Race Course area 
 
 ## Why this building is different
 
-But this is no shed put up last year. The New Delhi Municipal Council's own list of notified heritage properties includes "Mosque and Campus, Race Course". The mosque's defenders say it was recorded as waqf in the Delhi Gazette in 1977, and the imam says the building is about 125 years old. Whether that makes it lawful on government land is a real legal question. It is not one that an eviction notice can settle in six days.
+But this is no shed put up last year. The New Delhi Municipal Council's own list of notified heritage properties includes "Mosque and Campus, Race Course". The mosque's defenders say it was recorded as waqf in the Delhi Gazette in 1977, and the imam says the building is about **125 years** old. Whether that makes it lawful on government land is a real legal question. It is not one that an eviction notice can settle in six days.
 
 Who is supposed to argue the other side? The imam, Maulana Haroon, says a petition he filed was turned away because only the Waqf Board could bring it. Delhi has not had a constituted Waqf Board since its last one's term ended in August 2023. An administrator has run it since January 2024, and a plea asking the High Court to force the board's formation is still pending. The one body with clear standing to defend the property does not, in practice, exist.
 
@@ -78,7 +78,7 @@ Minority Affairs Minister Kiren Rijiju has told a Jamiat Ulama-i-Hind delegation
 
 ## What should happen
 
-First, the L&DO should extend its deadline until a court or the waqf tribunal has ruled on title. Nothing is lost by waiting; a demolished heritage building cannot be put back.
+First, the L&DO should extend its deadline until a court or the waqf **tribunal has ruled on title**. Nothing is lost by waiting; a demolished heritage building cannot be put back.
 
 Second, the Delhi government should make sure someone with legal standing defends the property, whether that is the administrator of the Waqf Board or a board finally constituted under the law.
 

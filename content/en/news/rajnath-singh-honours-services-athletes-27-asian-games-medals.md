@@ -52,9 +52,9 @@ verification:
     - "Exact venue in New Delhi not reported."
 ---
 
-India's armed forces sent 92 athletes to the Asian Games in Japan, and they came home with 27 medals. On Monday Defence Minister Rajnath Singh met them at an event in New Delhi to mark what the Defence Ministry called the Services' best performance at the Games.
+India's armed forces sent 92 athletes to the Asian Games in Japan, and they came home with **27 medals**. On Monday Defence Minister Rajnath Singh met them at an event in New Delhi to mark what the Defence Ministry called the Services' best performance at the Games.
 
-The athletes from the Army, Navy and Air Force won six gold, 11 silver and 10 bronze across 19 disciplines. That accounts for 32% of the 85 medals India won at Aichi-Nagoya, and 28.57% of its 21 golds. India finished fourth on the medal table.
+The athletes from the Army, Navy and Air Force won six gold, 11 silver and 10 bronze across 19 disciplines. That accounts for **32%** of the 85 medals India won at Aichi-Nagoya, and 28.57% of its 21 golds. India finished fourth on the medal table.
 
 Union Minister Pralhad Joshi and Chief of the Army Staff General Dhiraj Seth were among those present.
 
@@ -64,7 +64,7 @@ Naib Subedar Neeru Dhanda led the way with two golds and a silver in trap shooti
 
 Naib Subedar Gulveer Singh became the first Indian male track and field athlete to win three individual medals at one Asian Games: silver in the 1,500m and the 10,000m and bronze in the 5,000m, from four races in five days.
 
-Havildar Sawan Barwal won silver in the men's marathon in a national record of 2:11:37, India's first Asian Games marathon medal in 44 years. Naib Subedar Sarvesh Kushare won a medal in the men's high jump, India's first in the event in 56 years.
+Havildar Sawan Barwal won silver in the men's marathon in a national record of 2:11:37, India's first Asian Games marathon medal in **44 years**. Naib Subedar Sarvesh Kushare won a medal in the men's high jump, India's first in the event in 56 years.
 
 ## Singh's message
 
@@ -74,6 +74,6 @@ He said the government would keep up a "sustained focus on infrastructure, moder
 
 ## Next stop, Los Angeles
 
-Singh asked the athletes and their trainers to start preparing now for the 2028 Los Angeles Olympics, with a systematic approach and higher targets. He said he was confident the Services "would deliver an even stronger performance".
+Singh asked the athletes and their trainers to start preparing now for the 2028 **Los Angeles** Olympics, with a systematic approach and higher targets. He said he was confident the Services "would deliver an even stronger performance".
 
 India's overall tally of 85 medals in Japan, from a 503-member contingent, fell short of the record 107 it won at Hangzhou in 2023.

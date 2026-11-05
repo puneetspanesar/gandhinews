@@ -38,7 +38,7 @@ verification:
 
 A 20-year-old man was beaten to death in Bihar's Muzaffarpur district after his motorcycle hit a child, and a mob later set fire to nine houses in his home village, police said on Sunday.
 
-Navneet Kumar was attacked by about 15 people near Chainpur Chowk on Saturday evening. He was taken to a nearby hospital, where doctors declared him dead. His family has alleged that the attackers beat him with sticks and strangled him with a belt, Muzaffarpur (Rural) Superintendent of Police Rajesh Singh Prabhakar said.
+Navneet Kumar was attacked by **about 15 people** near Chainpur Chowk on Saturday evening. He was taken to a nearby hospital, where doctors declared him dead. His family has alleged that the attackers beat him with sticks and strangled him with a belt, Muzaffarpur (Rural) Superintendent of Police Rajesh Singh Prabhakar said.
 
 After news of his death reached Mohammadpur Khaje, Kumar's village, a mob set fire to nine houses belonging to Dalit families, leaving the area tense. Additional forces were rushed in and the situation was brought under control, police said.
 

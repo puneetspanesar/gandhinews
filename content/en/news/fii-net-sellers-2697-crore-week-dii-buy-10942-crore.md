@@ -58,12 +58,12 @@ verification:
     - "'Four times as much' in headline: 10,942.19 / 2,697.37 = 4.06."
 ---
 
-Foreign institutional investors sold a net ₹2,697.37 crore of Indian shares in the four trading days to Friday, while domestic institutions such as mutual funds and insurers bought ₹10,942.19 crore, according to provisional exchange data.
+Foreign institutional investors sold a net **₹2,697.37 crore** of Indian shares in the four trading days to Friday, while domestic institutions such as mutual funds and insurers bought ₹10,942.19 crore, according to provisional exchange data.
 
-Domestic money soaked up the selling in every session of a week shortened by the Dussehra holiday on Tuesday, but that was not enough to hold up prices. The Sensex fell 2.15% over the week and the Nifty 2.36%, and smaller companies fell much harder.
+Domestic money soaked up the selling in every session of a week shortened by the Dussehra holiday on Tuesday, but that was not enough to hold up prices. The Sensex fell **2.15%** over the week and the Nifty 2.36%, and smaller companies fell much harder.
 
-Foreign selling was uneven. Overseas funds sold ₹1,148.64 crore on Monday, turned buyers on Wednesday with ₹1,022.32 crore, and then sold ₹3,458.70 crore on Thursday, the week's heaviest day, as Brent crude climbed and global technology shares slid. On Friday they bought a modest ₹887.65 crore.
+Foreign selling was uneven. Overseas funds sold ₹1,148.64 crore on Monday, turned buyers on Wednesday with ₹1,022.32 crore, and then sold **₹3,458.70 crore** on Thursday, the week's heaviest day, as Brent crude climbed and global technology shares slid. On Friday they bought a modest ₹887.65 crore.
 
-The weekly figure is a small part of a much larger exit. Depository data showed foreign portfolio investors had pulled ₹52,100 crore out of Indian shares in the first half of October alone, and total outflows for 2026 had already passed ₹3 lakh crore by the second week of the month.
+The weekly figure is a small part of a much larger exit. Depository data showed foreign portfolio investors had pulled **₹52,100 crore** out of Indian shares in the first half of October alone, and total outflows for 2026 had already passed ₹3 lakh crore by the second week of the month.
 
 Market analysts list the same pressures as the main risks for the Nifty this week: crude oil, with Brent settling at $116.72 a barrel on Friday, continued foreign selling and high US bond yields. The rupee ended Friday at a provisional 94.93 to the dollar.

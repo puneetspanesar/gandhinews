@@ -6,7 +6,7 @@ type: news
 section: economy
 format_label: "अर्थव्यवस्था / कंपनियां"
 topics: []
-title: "एप्पल के नतीजे आज रात, सीईओ के तौर पर जॉन टर्नस की पहली अर्निंग्स कॉल"
+title: "एप्पल के नतीजे 2 नवंबर की रात, सीईओ के तौर पर जॉन टर्नस की पहली अर्निंग्स कॉल"
 standfirst: "वॉल स्ट्रीट को करीब 113 अरब डॉलर की आय और आईफोन बिक्री में 15% उछाल की उम्मीद है, लेकिन निवेशकों की असली नज़र इस पर है कि नए प्रमुख मेमोरी लागत, AI और त्योहारी तिमाही पर क्या कहते हैं।"
 published: 2026-11-02T23:45:00+05:30
 location: क्यूपर्टिनो
@@ -27,7 +27,7 @@ seo:
 cover:
   template: speaker
   label: "एप्पल नतीजे"
-  headline: "टर्नस की पहली नतीजा कॉल आज"
+  headline: "टर्नस की पहली नतीजा कॉल"
 sources:
   - title: "Apple Q4 Earnings Preview: iPhone 18 Demand and New CEO Outlook"
     publisher: "KuCoin News (Benzinga)"

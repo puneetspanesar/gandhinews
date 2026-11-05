@@ -49,15 +49,15 @@ verification:
     - "RBI 7.1% growth and 5.2% inflation forecasts match our earlier RBI story."
 ---
 
-The International Monetary Fund has raised its forecast for India's economic growth to 7% for this financial year, reversing a cut it made in July, even as it warned that the world economy's resilience is "becoming increasingly fragile and more uneven".
+The International Monetary Fund has raised its forecast for India's economic growth to **7%** for this financial year, reversing a cut it made in July, even as it warned that the world economy's resilience is "becoming increasingly fragile and more uneven".
 
-In its World Economic Outlook released on Tuesday, the Fund projected growth of 7% in 2026-27, up from the 6.4% it forecast three months ago. It also lifted its estimate for 2027-28 to 7%, from 6.7%. In July the IMF had trimmed its outlook on worries that higher energy prices would drag on activity.
+In its World Economic Outlook released on Tuesday, the Fund projected growth of 7% in 2026-27, up from the **6.4%** it forecast three months ago. It also lifted its estimate for 2027-28 to 7%, from 6.7%. In July the IMF had trimmed its outlook on worries that higher energy prices would drag on activity.
 
-"India remains among the fastest-growing major economies, with growth in 2026 projected at 7.0 per cent," the report said. It pointed to "stronger-than-expected momentum, supported by resilient domestic demand and robust services activity". India's economy grew 7.8% in the April-June quarter.
+"India remains among the fastest-growing major economies, with growth in 2026 projected at 7.0 per cent," the report said. It pointed to "stronger-than-expected momentum, supported by resilient domestic demand and robust services activity". India's economy grew **7.8%** in the April-June quarter.
 
 ## Close to other forecasts
 
-The upgrade brings the IMF closer to other forecasters. The Reserve Bank of India, which raised its repo rate last week, expects 7.1% growth this year, as does the World Bank. The Asian Development Bank projects 7%.
+The upgrade brings the IMF closer to other forecasters. The Reserve Bank of India, which raised its repo rate last week, expects **7.1%** growth this year, as does the World Bank. The Asian Development Bank projects 7%.
 
 The Fund said India "stands out with upward revisions" at a time when several large economies remain subdued, and cited demographics, a large domestic market and structural reforms as signs of "growing evidence of stronger growth potential".
 
@@ -65,7 +65,7 @@ It expects consumer inflation in India to average 5% this year, up from 2% in 20
 
 ## Oil, war and AI
 
-The global picture is less bright. The IMF sees world growth at 3.1% in 2026 and 3.4% in 2027, and global inflation at 4.7% this year, pushed up by energy and food prices. "Risks are skewed to the downside," the report said.
+The global picture is less bright. The IMF sees world growth at **3.1% in 2026** and 3.4% in 2027, and global inflation at 4.7% this year, pushed up by energy and food prices. "Risks are skewed to the downside," the report said.
 
 "Headwinds from a prolonged war and persistent geopolitical tensions could revive inflationary pressures," it warned. In a downside scenario where crude stays above $130 a barrel through the first quarter of 2027, world growth next year would be 0.5 percentage points lower. Energy importers such as India, and low-income countries, would be hit hardest.
 

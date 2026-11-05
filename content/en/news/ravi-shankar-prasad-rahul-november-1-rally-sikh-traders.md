@@ -58,7 +58,7 @@ The BJP on Saturday accused Rahul Gandhi of choosing a painful date for the oppo
 
 "Rahul Gandhi is, in a very calculated manner, attempting to rub salt into the wounded sentiments of the Sikh community," BJP MP Ravi Shankar Prasad told a press conference in New Delhi. "Why November 1st, Mr. Rahul Gandhi? What is the reason behind your stubborn resolve?"
 
-Congress and its INDIA bloc partners plan to gather at Ramlila Maidan that day to demand the resignation of Chief Election Commissioner Gyanesh Kumar. They accuse him of presiding over a flawed special intensive revision (SIR) of the electoral rolls. Delhi Police have already cleared the venue.
+Congress and its **INDIA bloc** partners plan to gather at Ramlila Maidan that day to demand the resignation of Chief Election Commissioner Gyanesh Kumar. They accuse him of presiding over a flawed special intensive revision (SIR) of the electoral rolls. Delhi Police have already cleared the venue.
 
 ## The 1984 shadow
 
@@ -78,7 +78,7 @@ Congress general secretary K C Venugopal first announced the rally on October 5.
 
 Union Home Minister Amit Shah was due to visit Delhi Police headquarters on Saturday to review law and order in the capital. The capital has seen weeks of protests by opposition parties, students and the Cockroach Janta Party against the Election Commission. On Friday, Left parties and student leaders marched near Gurdwara Bangla Sahib, and traffic police diverted vehicles for four hours.
 
-Five Jamia Millia Islamia students have also been on a hunger strike for 13 days. They want the student union restored and suspensions revoked.
+Five Jamia Millia Islamia students have also been on a hunger strike for **13 days**. They want the student union restored and suspensions revoked.
 
 ## What happens next
 

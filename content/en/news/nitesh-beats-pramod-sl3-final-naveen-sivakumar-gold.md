@@ -47,7 +47,7 @@ verification:
     - "Pramod's Asian titles described by The Bridge as 2018 and 2022 Asian (Para) Games titles."
 ---
 
-Two Paralympic champions, one gold medal. Nitesh Kumar beat his India team-mate Pramod Bhagat 21-18, 21-16 in the men's SL3 singles final at the Asian Para Games on Friday morning, giving India gold and silver in one of the most anticipated matches of the badminton programme in Nagoya.
+Two Paralympic champions, one gold medal. Nitesh Kumar beat his India team-mate Pramod Bhagat **21-18, 21-16** in the men's SL3 singles final at the Asian Para Games on Friday morning, giving India gold and silver in one of the most anticipated matches of the badminton programme in Nagoya.
 
 It was a final between two players who have defined Indian para badminton in recent years. Both have won Paralympic gold, and Pramod came into the match as the reigning Asian champion in the class, having won the title in 2018 and 2022. Nitesh, the steadier of the two on the day, edged the first game and pulled away in the second.
 

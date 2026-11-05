@@ -38,7 +38,7 @@ verification:
     - "Kesavan quotes verbatim from IANS."
 ---
 
-A landslide buried a Tamil Nadu government bus near Parliyar in the Nilgiris on Saturday, killing its driver. The roughly 50 passengers on board had got off only minutes earlier, after the bus stopped with a punctured tyre.
+A landslide buried a Tamil Nadu government bus near Parliyar in the Nilgiris on Saturday, killing its driver. The roughly **50 passengers** on board had got off only minutes earlier, after the bus stopped with a punctured tyre.
 
 The bus was on the hill road between Coimbatore and Ooty when the tyre went. While the passengers waited by the roadside, the slope above gave way, sending trees, rocks and soil crashing onto the road and trapping the bus.
 

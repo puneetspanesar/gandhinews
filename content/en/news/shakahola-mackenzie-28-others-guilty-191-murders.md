@@ -53,7 +53,7 @@ verification:
     - "Body counts (446 exhumed; 34 identified by DNA of 443 at Malindi mortuary) from the RFI piece on allAfrica, Oct 18."
 ---
 
-A Kenyan court on Monday found the preacher Paul Mackenzie and 28 of his followers guilty of murder over the deaths of 191 people, almost all of them children, who starved in the Shakahola forest near Malindi.
+A Kenyan court on Monday found the preacher Paul Mackenzie and 28 of his followers guilty of murder over the deaths of **191 people**, almost all of them children, who starved in the Shakahola forest near Malindi.
 
 Justice Diana Kavedza-Mochache of the High Court in Mombasa held that the prosecution had proved its case against all 29 accused. She dismissed their central defence. "I reject the defence by the accused persons that the victims, who were all below the age of 16, voluntarily fasted to death," she said.
 

@@ -54,11 +54,11 @@ verification:
 
 Hurricane Simon has killed one person in Mexico as it crawled along the country's Pacific coast, sparing the beach resorts around Puerto Vallarta a direct hit but leaving forecasters warning that it could swing back and come ashore later this week.
 
-A 71-year-old man "died when a wall collapsed in Chilpancingo", Guerrero Governor Evelyn Salgado said at the daily presidential press conference on Monday.
+A **71-year-old man** "died when a wall collapsed in Chilpancingo", Guerrero Governor Evelyn Salgado said at the daily presidential press conference on Monday.
 
 ## Weaker, but not finished
 
-Simon peaked as a Category 4 storm and had been expected to strike Jalisco over the weekend. Instead it changed course and stayed offshore, losing strength as it interacted with the mountains. By Monday morning its maximum sustained winds had dropped to 110 mph (175 km/h), and it was about 90 km west-southwest of Cabo Corrientes, moving north-west at just 6 km/h, the US National Hurricane Center said.
+Simon peaked as a Category 4 storm and had been expected to strike Jalisco over the weekend. Instead it changed course and stayed offshore, losing strength as it interacted with the mountains. By Monday morning its maximum sustained winds had dropped to 110 mph (175 km/h), and it was about **90 km** west-southwest of Cabo Corrientes, moving north-west at just 6 km/h, the US National Hurricane Center said.
 
 The centre expects Simon to turn north-east and approach west-central Mexico on Wednesday into Thursday, and says it could strengthen again before then. Laura Velázquez, Mexico's national civil protection coordinator, said "it will hit Mazatlán, Sinaloa, as a Category 1 hurricane".
 

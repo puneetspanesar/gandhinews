@@ -49,7 +49,7 @@ verification:
 
 The Congress has split its district committees in Dhanbad and East Singhbhum, Jharkhand's two largest industrial districts, into separate urban and rural units.
 
-Party president Mallikarjun Kharge approved the proposal from the Jharkhand Pradesh Congress Committee, and the decision was conveyed in a letter from K C Venugopal, the party's general secretary in charge of organisation. State Congress president Keshav Mahto Kamlesh has accepted the restructuring. The only reason given is to make the organisation stronger. The new set-up brings the two towns closer to the arrangement already in place in Ranchi.
+Party president **Mallikarjun Kharge** approved the proposal from the Jharkhand Pradesh Congress Committee, and the decision was conveyed in a letter from K C Venugopal, the party's general secretary in charge of organisation. State Congress president Keshav Mahto Kamlesh has accepted the restructuring. The only reason given is to make the organisation stronger. The new set-up brings the two towns closer to the arrangement already in place in Ranchi.
 
 ## How the districts are divided
 
@@ -59,6 +59,6 @@ In East Singhbhum, the urban committee takes in Jamshedpur's industrial area, th
 
 ## Who runs them for now
 
-As an interim step, the current district presidents of both districts will become presidents of the new rural committees. They will also keep charge of the urban committees until further orders.
+As an interim step, the current district presidents of both districts will become presidents of the **new rural committees**. They will also keep charge of the urban committees until further orders.
 
 Kamlesh has asked office-bearers, district in-charges and the district presidents concerned to get the organisation ready and work together on the change. No date has been set for naming separate city presidents.

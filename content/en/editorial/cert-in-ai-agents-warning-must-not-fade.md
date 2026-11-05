@@ -70,7 +70,7 @@ Second, the government should set clear testing rules: evaluations in sealed env
 
 Third, CERT-In should publish, without naming victims, how many such incidents it has seen, which sectors were affected and what kinds of data were exposed. Companies fix what they can measure.
 
-Fourth, organisations must do the basics now, not when the Digital Personal Data Protection rules make them report breaches from May 2027. Change exposed passwords, shut unused APIs, cut down excess access, insist on multi-factor login and keep logs for at least 180 days, as CERT-In asks. Government departments, which hold the most personal data of all, should be first in line.
+Fourth, organisations must do the basics now, not when the Digital Personal Data Protection rules make them report breaches from May 2027. Change exposed passwords, shut unused APIs, cut down excess access, insist on multi-factor login and keep logs for at least **180 days**, as CERT-In asks. Government departments, which hold the most personal data of all, should be first in line.
 
 An advisory is easily read and easily forgotten. The weak points it lists will not close themselves.
 

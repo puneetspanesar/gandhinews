@@ -48,19 +48,19 @@ verification:
     - "Statesman calls water project 'Project Him Sarovar', IANS 'Project Amrit Him Sarovar'; we say Him Sarovar."
 ---
 
-Prime Minister Narendra Modi on Thursday inaugurated five projects in Ladakh worth about ₹3,350 crore, among them a new passenger terminal at Leh's airport that he said was the first in the country to be heated with geothermal energy, and a 298-km road that cuts through the Zanskar Valley to Himachal Pradesh.
+Prime Minister Narendra Modi on Thursday inaugurated five projects in Ladakh worth about **₹3,350 crore**, among them a new passenger terminal at Leh's airport that he said was the first in the country to be heated with geothermal energy, and a 298-km road that cuts through the Zanskar Valley to Himachal Pradesh.
 
 Modi spoke by video conference to a gathering in Leh. "Today, another chapter is being added to Ladakh's progress and development," he said. "I am pleased to be a part of this occasion through technology."
 
 ## A terminal heated from the ground
 
-The new terminal at Kushok Bakula Rimpochee Airport covers 23,800 square metres and is designed to handle 35 lakh passengers a year, up from about 10 lakh. It uses geothermal technology and solar energy.
+The new terminal at Kushok Bakula Rimpochee Airport covers 23,800 square metres and is designed to handle **35 lakh passengers** a year, up from about 10 lakh. It uses geothermal technology and solar energy.
 
 "This terminal has been built for ₹650 crore," Modi said. "Flight operations will increase three times." He said the terminal would "give new energy to the tourism sector".
 
 ## A new road through Zanskar
 
-The Nimmu-Padum-Darcha road, built by the Border Roads Organisation, runs from Nimmu near Leh through Padum in Zanskar and over the Shinkun La pass to Darcha in Himachal Pradesh. It gives the region an alternative route and is meant to serve the armed forces as well as residents.
+The **Nimmu-Padum-Darcha road**, built by the Border Roads Organisation, runs from Nimmu near Leh through Padum in Zanskar and over the Shinkun La pass to Darcha in Himachal Pradesh. It gives the region an alternative route and is meant to serve the armed forces as well as residents.
 
 "I must make a special mention of the BRO," Modi said. "This road will boost travel and trade in the days to come."
 
@@ -68,12 +68,12 @@ He also mentioned the snow in Zanskar that morning. "Today, I saw it was snowing
 
 ## Power, water and rock art
 
-The other projects are the 9 MW Hanu small hydroelectric project with a 66 kV transmission line from Dah through Hanu to Khaltsi; 40 water bodies in 40 villages under Project Him Sarovar, meant to ease seasonal shortages and help irrigation; and a petroglyph conservation park at Sindhu Ghat in Leh, described as India's first, to protect prehistoric rock carvings.
+The other projects are the **9 MW** Hanu small hydroelectric project with a 66 kV transmission line from Dah through Hanu to Khaltsi; 40 water bodies in 40 villages under Project Him Sarovar, meant to ease seasonal shortages and help irrigation; and a petroglyph conservation park at Sindhu Ghat in Leh, described as India's first, to protect prehistoric rock carvings.
 
 "Dependable electricity not only brings light to our homes, but it also enlightens our lives," Modi said.
 
 ## Since 2019
 
-Modi set the projects against the changes since Ladakh became a Union Territory in 2019. He said the road network had grown from 1,800 km to 4,000 km, the number of major bridges from 19 to 75 and helipads from 7 to 40. Access to safe drinking water, he said, had risen from 3.5% of people to more than 99%.
+Modi set the projects against the changes since Ladakh became a Union Territory in 2019. He said the road network had grown from 1,800 km to 4,000 km, the number of major bridges from 19 to 75 and helipads from 7 to 40. Access to safe drinking water, he said, had risen from **3.5%** of people to more than 99%.
 
 "For us today, Ladakh's development is our top priority," he said, thanking the engineers and workers who built the projects and the people of Ladakh.

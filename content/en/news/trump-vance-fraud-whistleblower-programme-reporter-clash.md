@@ -39,9 +39,9 @@ verification:
 
 President Donald Trump and Vice President JD Vance on Tuesday launched a $25 million programme to reward Americans who report fraud against the government, then spent part of the Oval Office event in a sharp exchange with a reporter who questioned how generous it really was.
 
-The Fraud Whistle Blower Incentive Program, run with the Department of Justice, will pay up to $30,000 to citizens whose verified tips lead to a conviction or a major enforcement action.
+The Fraud Whistle Blower Incentive Program, run with the Department of Justice, will pay **up to $30,000** to citizens whose verified tips lead to a conviction or a major enforcement action.
 
-Andrew Feinberg, a White House correspondent for The Independent, asked why the scheme offered a 1% commission when the False Claims Act, the long-standing law that rewards whistleblowers in fraud cases against the government, allows awards of 10% to 25%.
+Andrew Feinberg, a White House correspondent for The Independent, asked why the scheme offered a **1%** commission when the False Claims Act, the long-standing law that rewards whistleblowers in fraud cases against the government, allows awards of 10% to 25%.
 
 Trump did not answer the question. "I don't know who the hell you are, but you better be careful," he told Feinberg. Vance called the question "fundamentally dishonest".
 

@@ -5,7 +5,7 @@ type: news
 section: economy
 format_label: "Economy / Industry"
 topics: [economy]
-title: "Factory PMI for October due today after flash reading showed growth easing to 54.9"
+title: "Factory PMI for October due on November 2 after flash reading showed growth easing to 54.9"
 standfirst: "The final HSBC manufacturing survey comes out on Monday. Early figures pointed to slightly slower factory growth and weak hiring, but the fastest rise in export orders in more than a year and the softest price increases in almost four years."
 published: 2026-11-02T07:10:00+05:30
 location: Mumbai
@@ -68,10 +68,6 @@ India's final **purchasing managers' index for factories** in October is due lat
 The flash estimate, released on October 23, put the HSBC India Manufacturing PMI at **54.9, a shade below September's 55.1**. Any reading above 50 means activity grew from the month before. The output index edged up to 57.6 from 57.5.
 
 Flash numbers can move. September's figure was first put at 55.7 and later **revised down to 55.1** in the final survey, so Monday's number could differ from the early estimate.
-
-```photo
-{"n":1,"subject":"Chakan MIDC Pune","caption":"The Chakan industrial area near Pune, one of India's biggest manufacturing belts.","alt":"Factories in the Chakan industrial area near Pune (file photo)"}
-```
 
 The flash survey had good news on exports. "The steady pace of new order growth masks the **fastest increase in new export orders** since June 2025," said Pranjul Bhandari, chief India economist at HSBC. Firms reported demand from the US, the UK, West Asia and Bangladesh.
 

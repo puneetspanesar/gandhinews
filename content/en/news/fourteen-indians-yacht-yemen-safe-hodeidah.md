@@ -51,7 +51,7 @@ verification:
     - "Attack claim rests on Houthi spokesman Yahya Saree only; Saudi authorities did not respond to Reuters."
 ---
 
-All 14 Indian nationals on board a yacht that came under attack off Yemen's Red Sea coast are safe, India's embassy in Yemen said on Friday.
+All **14 Indian nationals** on board a yacht that came under attack off Yemen's Red Sea coast are safe, India's embassy in Yemen said on Friday.
 
 "Reports suggest that all 14 Indian nationals are safe and located around Hodeidah in Yemen," the embassy said in a post on X, adding that it was still seeking more details. A day earlier it had said it was ascertaining what had happened and would help ensure their safety and well-being.
 

@@ -37,12 +37,12 @@ verification:
     - "Nigeria case: Ugandan-born woman married to a Swiss diplomat, confirmed Oct 20. WHO said Thursday its information did not show DRC travel."
 ---
 
-Uganda has ordered all its citizens returning from the Democratic Republic of the Congo to go into quarantine for 21 days, tightening its defences against an Ebola outbreak next door that has become the largest in Congo's history.
+Uganda has ordered all its citizens returning from the Democratic Republic of the Congo to go into **quarantine for 21 days**, tightening its defences against an Ebola outbreak next door that has become the largest in Congo's history.
 
 Health minister Chris Baryomunsi announced the measure at a news conference in Kampala on Sunday. Returning Ugandans with travel history in Congo will have to pay for their own quarantine, the health ministry said. Checks are being stepped up at Entebbe International Airport and at land crossings, and every incoming traveller must fill in a form saying how they can be contacted.
 
 Uganda declared its own outbreak of the Bundibugyo strain over on July 28, after 20 infections and two deaths, and says it has no active cases. But two recent cases elsewhere passed through Entebbe on the same day: a Kenyan man who travelled from Congo through Uganda to Nairobi on October 3 and died two days later, and a Ugandan-born woman married to a Swiss diplomat, whose infection Nigeria confirmed on October 20 after she travelled to Abuja.
 
-Swiss authorities say she caught the virus on a visit to Uganda in September, and the World Health Organization said on Thursday that its information did not show she had been to Congo. Baryomunsi questioned that, saying relatives who had been to Congo met her in a Kampala suburb. "We should speak science, not politics," he said. He added that 60 people traced as possible contacts of the Kenyan patient had completed 21 days of monitoring and been discharged.
+Swiss authorities say she caught the virus on a visit to Uganda in September, and the World Health Organization said on Thursday that its information did not show she had been to Congo. Baryomunsi questioned that, saying relatives who had been to Congo met her in a Kampala suburb. "We should speak science, not politics," he said. He added that 60 people traced as possible contacts of the Kenyan patient had completed **21 days** of monitoring and been discharged.
 
-Congo's outbreak, which began in May, had reached 9,704 cases and 4,687 deaths across eight provinces by October 20, according to the WHO. There is no approved vaccine or specific treatment for the Bundibugyo strain. The WHO has urged stronger cross-border monitoring but advised against travel or trade restrictions.
+Congo's outbreak, which began in May, had reached **9,704 cases and 4,687 deaths** across eight provinces by October 20, according to the WHO. There is no approved vaccine or specific treatment for the Bundibugyo strain. The WHO has urged stronger cross-border monitoring but advised against travel or trade restrictions.

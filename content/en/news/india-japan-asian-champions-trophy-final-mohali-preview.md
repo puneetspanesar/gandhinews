@@ -61,7 +61,7 @@ infographic:
     - {icon: trophy, value: "5", label: "titles India have won before"}
     - {icon: target, value: "4-1", label: "India's league win over Japan on October 30"}
     - {icon: clock, value: "7 pm", label: "final start time, IST"}
-  source: "Tournament schedule; PTI, November 4, 2026"
+  source: "Tournament schedule, November 4, 2026"
 cover:
   template: faceoff
   label: Asian Champions Trophy

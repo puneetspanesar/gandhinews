@@ -41,7 +41,7 @@ verification:
 
 Lawyers for Ilhan Omar, the Democratic congresswoman from Minnesota, have told federal prosecutors that this week's search of her Washington home "was neither justified nor lawful" and asked for the return of her phone and passport, which agents took away.
 
-Federal agents searched Omar's home in north-east Washington on Monday, October 12, as part of an investigation into alleged immigration fraud. In a letter to prosecutors on Friday, her lawyers, Amy Jeffress and Joshua Matz, said investigators had not given them a copy of the warrant in advance and had not contacted the House of Representatives' Office of General Counsel, in disregard of a magistrate judge's orders.
+Federal agents searched Omar's home in north-east Washington on Monday, October 12, as part of an investigation into **alleged immigration fraud**. In a letter to prosecutors on Friday, her lawyers, Amy Jeffress and Joshua Matz, said investigators had not given them a copy of the warrant in advance and had not contacted the House of Representatives' Office of General Counsel, in disregard of a magistrate judge's orders.
 
 Advance notice, they argued, would have let Omar take advice and perhaps challenge the warrant. The judge's procedures, they wrote, protect the rights of a sitting member of Congress and guard against the seizure of material linked to her legislative work. They said there was "no legitimate basis" to suggest she had broken any law on citizenship, called the inquiry politically motivated ahead of the November midterms, and asked that audio and video recordings of the search be preserved.
 

@@ -66,21 +66,21 @@ verification:
     - "A Kotak Neo report quoted the Governor on surplus liquidity not persisting; this was not found in an RBI document, so left out."
 ---
 
-The Reserve Bank of India has told banks they must hold at least 99% of their required cash reserve ratio (CRR) balance on every day of a reporting fortnight. The current floor is 90%. The change applies from the fortnight beginning October 16, 2026.
+The Reserve Bank of India has told banks they must hold at least **99% of their required** cash reserve ratio (CRR) balance on every day of a reporting fortnight. The current floor is 90%. The change applies from the fortnight beginning October 16, 2026.
 
-The RBI notified the change on October 9, two days after the Monetary Policy Committee raised the repo rate by 25 basis points to 5.50%. On the same day it announced a ₹25,000 crore sale of government bonds through open market operations (OMO) on October 13. Both steps aim to pull surplus cash out of the banking system.
+The RBI notified the change on October 9, two days after the Monetary Policy Committee raised the repo rate by 25 basis points to **5.50%**. On the same day it announced a ₹25,000 crore sale of government bonds through open market operations (OMO) on October 13. Both steps aim to pull surplus cash out of the banking system.
 
 ## What changes for banks
 
-Every bank has to keep a set share of its deposits as cash with the RBI. This is the CRR, now 3%, and banks earn no interest on it.
+Every bank has to keep a set share of its deposits as cash with the RBI. This is the CRR, now **3%**, and banks earn no interest on it.
 
-The 3% is measured as an average over a fortnight. Until now a bank could let its balance fall to 90% of the requirement on some days, as long as the average held. From October 16 that daily floor rises to 99%. The fortnightly average must still be at least 3%.
+The 3% is measured as an average over a fortnight. Until now a bank could let its balance fall to **90%** of the requirement on some days, as long as the average held. From October 16 that daily floor rises to 99%. The fortnightly average must still be at least 3%.
 
 In practice, banks will have less room to run their CRR balance down on any single day and use that money elsewhere.
 
 ## Why the RBI is doing this
 
-Banks have far more cash than they need. Surplus funds parked with the RBI under its liquidity adjustment facility stood at ₹3.88 lakh crore on October 8.
+Banks have far more cash than they need. Surplus funds parked with the RBI under its liquidity adjustment facility stood at **₹3.88 lakh crore** on October 8.
 
 That surplus has kept short-term rates below the repo rate. The weighted average call rate, the rate at which banks lend to each other overnight, was 5.31% on October 9, below the 5.50% repo rate. It has averaged about 14 basis points below the policy rate since the August review. In his October 7 policy statement, Governor Sanjay Malhotra said the RBI would use a mix of liquidity tools to bring the call rate in line with the repo rate.
 

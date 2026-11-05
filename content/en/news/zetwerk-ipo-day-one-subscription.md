@@ -42,16 +42,16 @@ verification:
     - "Analyst quotes attributed to the brokerages (SBI Securities, ICICI Direct); individual analysts not named in source."
 ---
 
-Zetwerk's ₹5,012 crore share sale got off to a slow start on Thursday, with investors bidding for just 12% of the shares on offer by 3:04 pm on its first day, exchange data showed.
+Zetwerk's **₹5,012 crore** share sale got off to a slow start on Thursday, with investors bidding for just 12% of the shares on offer by 3:04 pm on its first day, exchange data showed.
 
-Bids came in for 2.16 crore shares against 18.51 crore on offer. Retail investors were the most active, subscribing 17% of their portion, followed by qualified institutional buyers at 13% and non-institutional investors at 5%. By 12:30 pm the issue had been only 3% subscribed.
+Bids came in for **2.16 crore shares** against 18.51 crore on offer. Retail investors were the most active, subscribing 17% of their portion, followed by qualified institutional buyers at 13% and non-institutional investors at 5%. By 12:30 pm the issue had been only 3% subscribed.
 
-The Bengaluru company, which calls itself "a technology-led asset-light manufacturing platform for industrial and consumer goods in India and globally", had raised ₹2,251.23 crore from anchor investors ahead of the opening. They included BlackRock, Goldman Sachs, Nomura, Capital Group, Norway's Government Pension Fund Global, the Abu Dhabi Investment Authority and the mutual funds of SBI, ICICI Prudential and HDFC.
+The Bengaluru company, which calls itself "a technology-led asset-light manufacturing platform for industrial and consumer goods in India and globally", had raised **₹2,251.23 crore from anchor investors** ahead of the opening. They included BlackRock, Goldman Sachs, Nomura, Capital Group, Norway's Government Pension Fund Global, the Abu Dhabi Investment Authority and the mutual funds of SBI, ICICI Prudential and HDFC.
 
 ## Brokers divided
 
-The issue is priced at ₹143 to ₹151 a share, with a minimum bid of 99 shares. It includes ₹2,830 crore of new shares, mainly to repay debt and fund acquisitions, and the sale of 14.45 crore shares by existing investors.
+The issue is priced at **₹143** to ₹151 a share, with a minimum bid of 99 shares. It includes ₹2,830 crore of new shares, mainly to repay debt and fund acquisitions, and the sale of 14.45 crore shares by existing investors.
 
-SBI Securities and ICICI Direct have recommended subscribing. "We recommend investors SUBSCRIBE to this issue with a long-term investment horizon," SBI Securities said, while flagging the company's heavy working capital needs and negative operating cash flow. Swastika was neutral, saying the company's net losses "remain a major concern". It put the consolidated loss for 2025-26 at ₹1,606 crore. At the top of the price band, the issue values Zetwerk at an enterprise value of 66.5 times its 2025-26 EBITDA, or earnings before interest, tax, depreciation and amortisation.
+SBI Securities and ICICI Direct have recommended subscribing. "We recommend investors SUBSCRIBE to this issue with a long-term investment horizon," SBI Securities said, while flagging the company's heavy working capital needs and negative operating cash flow. Swastika was neutral, saying the company's net losses "remain a major concern". It put the consolidated loss for 2025-26 at **₹1,606 crore**. At the top of the price band, the issue values Zetwerk at an enterprise value of 66.5 times its 2025-26 EBITDA, or earnings before interest, tax, depreciation and amortisation.
 
 The issue closes on October 19. Shares are due to be allotted on October 21 and to list on the BSE and NSE on October 23.

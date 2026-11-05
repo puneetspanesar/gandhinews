@@ -62,7 +62,7 @@ New Zealand's lower order put up a fight in the first ODI at Eden Park. After sl
 
 The middle of the innings had belonged to India's fielders. In the 22nd over Daryl Mitchell, on 28, pushed the ball into the covers and set off for a run. **Rohit Sharma dived, gathered and threw** to wicketkeeper KL Rahul, who completed the run-out. Mitchell had been New Zealand's best hope of building an innings after the new-ball burst from Arshdeep Singh and Gurnoor Brar.
 
-That moment came between two others that will be replayed tonight: Brar's one-handed return catch to remove Tom Latham and Virat Kohli's diving catch to send back Nathan Smith. **New Zealand were 137 for 8 by the 35th over**, and a total of 200 looked a long way off.
+That moment came between two others that will be replayed for a long time: Brar's one-handed return catch to remove Tom Latham and Virat Kohli's diving catch to send back Nathan Smith. **New Zealand were 137 for 8 by the 35th over**, and a total of 200 looked a long way off.
 
 ## The tail hits back
 

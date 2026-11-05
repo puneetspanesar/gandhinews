@@ -47,15 +47,15 @@ verification:
     - "Retail by applications 0.76x per IPOJI."
 ---
 
-The Jio Platforms share sale ended its second day with bids for 5.51 times the shares on offer, as big investors piled in and small investors kept coming on Thursday evening.
+The Jio Platforms share sale ended its second day with bids for **5.51 times** the shares on offer, as big investors piled in and small investors kept coming on Thursday evening.
 
-By 6:57 pm, figures compiled from the BSE and NSE showed qualified institutional buyers had bid for 13.14 times the portion reserved for them. Non-institutional investors, mostly wealthy individuals, subscribed 5.91 times, with the bigger bids at 6.69 times and the smaller ones at 4.34 times. The retail portion was covered 1.53 times. Reliance Industries shareholders, who have their own quota, bid 4.01 times and employees 2.09 times.
+By 6:57 pm, figures compiled from the BSE and NSE showed qualified institutional buyers had bid for **13.14 times** the portion reserved for them. Non-institutional investors, mostly wealthy individuals, subscribed 5.91 times, with the bigger bids at 6.69 times and the smaller ones at 4.34 times. The retail portion was covered 1.53 times. Reliance Industries shareholders, who have their own quota, bid 4.01 times and employees 2.09 times.
 
 At 5 pm the issue had stood at 5.24 times, up from about 3 times at the end of the first day. The retail quota filled within two hours of bidding opening on Thursday.
 
 ## How the issue works
 
-Jio, the digital and telecom arm of Reliance Industries, is selling new shares at ₹1,065 to ₹1,119 each, in lots of 12. The issue is worth about ₹30,213 crore, the largest attempted in India, and no existing shareholder is selling. Before it opened, the company raised ₹8,109.84 crore from 212 anchor investors.
+Jio, the digital and telecom arm of Reliance Industries, is selling new shares at **₹1,065** to ₹1,119 each, in lots of 12. The issue is worth about ₹30,213 crore, the largest attempted in India, and no existing shareholder is selling. Before it opened, the company raised ₹8,109.84 crore from 212 anchor investors.
 
 Retail demand counted by number of applications stood at 0.76 times on Thursday evening, which suggests most small bidders could get the shares they asked for if that holds through the last day.
 

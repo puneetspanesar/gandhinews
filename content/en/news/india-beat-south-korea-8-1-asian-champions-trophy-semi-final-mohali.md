@@ -55,7 +55,7 @@ infographic:
     - {icon: target, value: "8-1", label: "India's win over South Korea"}
     - {icon: timer, value: "6-1", label: "score at half-time"}
     - {icon: trophy, value: "Japan", label: "India's opponents in the final"}
-  source: "PTI match report, November 4, 2026"
+  source: "Match result, November 4, 2026"
 cover:
   template: sport
   label: Asian Champions Trophy

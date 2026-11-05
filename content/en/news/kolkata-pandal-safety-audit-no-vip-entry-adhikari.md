@@ -37,9 +37,9 @@ verification:
     - "Claim that Debdeep Adhikari is the CM's nephew is the opposition's; attributed as such. BJP state president's response included."
 ---
 
-Separate VIP entrances are gone, food stalls will be kept away from entry and exit gates, and organisers have been told to widen exits and light them better. Those were the first decisions of a high-level safety committee that fanned out across Kolkata's biggest Durga Puja pandals on Sunday, a day after a crush at Chorbagan in the north of the city killed 19 people, among them a seven-year-old.
+Separate VIP entrances are gone, food stalls will be kept away from entry and exit gates, and organisers have been told to widen exits and light them better. Those were the first decisions of a high-level safety committee that fanned out across Kolkata's biggest Durga Puja pandals on Sunday, a day after a crush at Chorbagan in the north of the city killed **19 people**, among them a seven-year-old.
 
-The team began at Santosh Mitra Square and moved on to Tala Prattoy and other large pandals, with powers to decide on the spot. Nine IPS officers with experience of handling Durga Puja crowds have been deployed to help. Organisers were also told to clear the bottlenecks created by temporary enclosures.
+The team began at **Santosh Mitra Square** and moved on to Tala Prattoy and other large pandals, with powers to decide on the spot. Nine IPS officers with experience of handling Durga Puja crowds have been deployed to help. Organisers were also told to clear the bottlenecks created by temporary enclosures.
 
 Chief Minister Suvendu Adhikari said visitor numbers could be regulated if necessary and that there would be no separate queues for VIPs. He ordered a review of safety arrangements at all major pujas.
 

@@ -24,7 +24,7 @@ related: [results-week-ahead-infosys-kotak-bajaj-finance-jio-ipo, global-cues-we
 seo:
   description: "Week ahead October 26-30, 2026: L&T, Maruti, Bajaj Auto, Cipla, HUL, Adani Ports, Asian Paints, Trent results; Jio Platforms listing October 28; Fed decision; US GDP and PCE data."
 sources:
-  - title: "Q2 Results October 26–27, 2026: L&T, Maruti Suzuki, Cipla and More"
+  - title: "Q2 Results October 26-27, 2026: L&T, Maruti Suzuki, Cipla and More"
     publisher: "Kalkine Media"
     date: 2026-10-15
     url: "https://www.kalkine.co.in/article/earnings/q2-results-on-october-2627-lt-maruti-suzuki-bajaj-auto-and-33-other-stocks-in-focus"
@@ -61,7 +61,7 @@ verification:
 
 The September-quarter results season changes shape next week. After the software companies and banks, it is the turn of carmakers, engineering and consumer goods companies, with Larsen & Toubro, Maruti Suzuki, Hindustan Unilever and Asian Paints among the big names. Jio Platforms makes its stock market debut on Wednesday, hours before the US Federal Reserve announces its decision on interest rates.
 
-Indian shares start the week on the back foot. The Sensex fell 2.15% last week and has dropped four sessions in a row, and Infosys cut its revenue forecast after Friday's close.
+Indian shares start the week on the back foot. The Sensex fell **2.15%** last week and has dropped four sessions in a row, and Infosys cut its revenue forecast after Friday's close.
 
 ## The weekend and Monday
 
@@ -77,11 +77,11 @@ Hindustan Unilever, Adani Ports and Special Economic Zone, Hero MotoCorp, United
 
 ## Jio's debut
 
-Jio Platforms allots shares on Monday after its ₹30,213 crore issue drew bids for 22.19 times the shares on offer. Refunds and demat credits follow on Tuesday, and the shares are due to start trading on BSE and NSE on Wednesday, October 28.
+Jio Platforms allots shares on Monday after its **₹30,213 crore** issue drew bids for 22.19 times the shares on offer. Refunds and demat credits follow on Tuesday, and the shares are due to start trading on BSE and NSE on Wednesday, October 28.
 
 ## Data at home and abroad
 
-The Reserve Bank of India publishes foreign exchange reserves for the week to October 23 on Friday. Reserves have fallen for six weeks to $721.02 billion. By the usual timetable, September's industrial output figures and the government's accounts for April to September are due around the month's end.
+The Reserve Bank of India publishes foreign exchange reserves for the week to October 23 on Friday. Reserves have fallen for six weeks to **$721.02 billion**. By the usual timetable, September's industrial output figures and the government's accounts for April to September are due around the month's end.
 
 The Fed's two-day meeting begins on Tuesday, and its decision comes on Wednesday at 2 pm in Washington, 11:30 pm in India. Markets see little chance of a rate rise. On Thursday the US releases its first estimate of growth in the July-September quarter and the personal consumption expenditures price index, the Fed's preferred inflation gauge. Alphabet, Eli Lilly, Coca-Cola and FedEx are among the US companies reporting.
 

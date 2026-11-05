@@ -50,11 +50,11 @@ verification:
 
 A guide wire threaded into a patient's heart during an angioplasty is made to be used once and thrown away. So is a dialyser filter, a biopsy needle or a stapler used in surgery. The manufacturer has not designed it to be taken apart, cleaned and sterilised, and cannot promise that it will work, or be germ-free, the second time.
 
-Yet the Directorate General of Health Services has now had to write to every state and union territory to say that some private and corporate hospitals are doing exactly that. It found single-use devices and surgical items being reprocessed and reused in cardiology, nephrology, oncology and neurosurgery, the specialties where patients are most fragile and procedures most expensive. It named four concerns: patient safety, infection control, compliance with the law on medical devices, and the cost of care.
+Yet the Directorate General of Health Services has now had to write to every state and union territory to say that some private and corporate hospitals are doing exactly that. It found single-use devices and surgical items being reprocessed and reused in **cardiology, nephrology, oncology and neurosurgery**, the specialties where patients are most fragile and procedures most expensive. It named four concerns: patient safety, infection control, compliance with the law on medical devices, and the cost of care.
 
 ## Not a new problem
 
-None of this should surprise the regulators. In 2017 Maharashtra's Food and Drug Administration found that a large private hospital in Mumbai had reused 66 angioplasty catheters in three months, billing patients ₹26,000 a piece for devices whose maximum retail price was ₹6,000. Complaints followed against 37 hospitals in the state, and the government promised a portal to track each device from purchase to use.
+None of this should surprise the regulators. In 2017 Maharashtra's Food and Drug Administration found that a large private hospital in Mumbai had reused 66 angioplasty catheters in three months, billing patients **₹26,000** a piece for devices whose maximum retail price was ₹6,000. Complaints followed against 37 hospitals in the state, and the government promised a portal to track each device from purchase to use.
 
 That is the uncomfortable part of the problem. Reuse is not usually about scarcity. In a well-equipped private hospital it is often about margin: the patient pays for a new device and receives one that has already been used on someone else.
 

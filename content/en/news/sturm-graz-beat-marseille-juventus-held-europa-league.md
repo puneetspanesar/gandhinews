@@ -53,4 +53,4 @@ Bayer Leverkusen won 2-0 at OFI Crete, with Hofmann scoring twice in three minut
 
 Sunderland scored inside two minutes in Poznań through Tutierov but were pegged back by Bengtsson's equaliser and drew 1-1 with Lech.
 
-NEC Nijmegen came from 2-1 down to win 4-2 at Dinamo Zagreb, with Linssen scoring twice, while Union Saint-Gilloise beat Hapoel Beer-Sheva 4-0 and AZ Alkmaar won 4-0 in Armenia against Ararat. The eight early kick-offs produced 28 goals.
+NEC Nijmegen came from 2-1 down to win 4-2 at Dinamo Zagreb, with Linssen scoring twice, while Union Saint-Gilloise beat Hapoel Beer-Sheva 4-0 and AZ Alkmaar won 4-0 in Armenia against Ararat. The eight early kick-offs produced **28 goals**.

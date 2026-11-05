@@ -38,13 +38,13 @@ verification:
 
 One man was shot dead and several people were hurt when clashes broke out between two communities in Manipur's Thoubal district on Sunday night, police said on Monday. The district administration has ordered residents of two villages to stay indoors.
 
-The trouble began when a group allegedly threw stones at a ground in Khangabok, about 25 km south of Imphal, where a concert was under way. The village falls under the Thoubal police station. Stone-throwing between members of the two communities then spread through Khangabok and neighbouring Sangaiyumpham, and a few houses and vehicles were set on fire.
+The trouble began when a group allegedly threw stones at a ground in Khangabok, about **25 km** south of Imphal, where a concert was under way. The village falls under the Thoubal police station. Stone-throwing between members of the two communities then spread through Khangabok and neighbouring Sangaiyumpham, and a few houses and vehicles were set on fire.
 
-Police identified the dead man as Laishram Rakesh. He was shot in the head by unidentified men and died in a nearby hospital. Several others were treated for cuts from stones.
+Police identified the dead man as Laishram Rakesh. He was **shot in the head** by unidentified men and died in a nearby hospital. Several others were treated for cuts from stones.
 
 ## Orders to stay home
 
-The Thoubal district magistrate imposed prohibitory orders under Section 163 of the Bharatiya Nagarik Suraksha Sanhita from 11 pm on Sunday, directing people in Khangabok and Sangaiyumpham not to leave their homes. The order cites a "likelihood of breach of peace" from "antisocial elements" and does not say when it will be lifted.
+The Thoubal district magistrate imposed prohibitory orders under Section 163 of the Bharatiya Nagarik Suraksha Sanhita from 11 pm on Sunday, directing people in **Khangabok and Sangaiyumpham** not to leave their homes. The order cites a "likelihood of breach of peace" from "antisocial elements" and does not say when it will be lifted.
 
 Additional state and central forces were rushed to the two villages overnight. Police said the situation was under control by Monday morning.
 

@@ -21,7 +21,7 @@ hero:
     value: "Two-thirds of the intelligence"
 related: [musk-starlink-ukraine-throttling-us-military, zelenskyy-brussels-rutte-macron-air-defence-eu-summit, ukraine-resumes-strikes-russian-oil-refineries]
 seo:
-  description: "French Foreign Minister Jean-Noel Barrot said on October 15 that Europeans provide two-thirds of Ukraine's intelligence, amid fears of US cuts and Starlink limits."
+  description: "French Foreign Minister Jean-Noel Barrot said on October 15 that Europeans provide two-thirds of Ukraine's intelligence, as Kyiv worries about US cuts and Starlink limits."
 sources:
   - title: "Barrot says Europeans provide two-thirds of intelligence to Ukraine"
     publisher: "Ukrinform"

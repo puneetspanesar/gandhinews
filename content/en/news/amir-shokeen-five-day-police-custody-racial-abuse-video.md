@@ -37,7 +37,7 @@ verification:
     - "Quoted phrase 'no intention of insulting anyone' is the report's paraphrase of his post; used as paraphrase, not a quote."
 ---
 
-A Delhi court on Saturday sent social media influencer Amir Shokeen to five days of police custody in a racial harassment case over a video targeting a man from Tripura.
+A Delhi court on Saturday sent social media influencer Amir Shokeen to **five days of police custody** in a racial harassment case over a video targeting a man from Tripura.
 
 Delhi Police arrested Shokeen in the Karol Bagh area on Thursday. When he was first produced at the Tis Hazari court on Friday, he was remanded to one day of judicial custody. On Saturday police asked for him to be handed over for questioning, and the court granted five days.
 

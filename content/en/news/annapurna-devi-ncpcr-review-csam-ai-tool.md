@@ -37,10 +37,10 @@ verification:
 
 Union Women and Child Development Minister Annapurna Devi on Tuesday asked the National Commission for Protection of Child Rights (NCPCR) to speed up work on an artificial intelligence tool to detect child sexual exploitation and abuse material online.
 
-The tool is being developed with the Ministry of Electronics and Information Technology. NCPCR Chairperson V. Prem Chand told the minister that the commission is also drawing up social media guidelines for technology companies, and she asked for both to be finalised and put into effect quickly, saying they needed immediate attention.
+The tool is being developed with the Ministry of Electronics and Information Technology. NCPCR Chairperson V. Prem Chand told the minister that the commission is also drawing up **social media guidelines** for technology companies, and she asked for both to be finalised and put into effect quickly, saying they needed immediate attention.
 
 The minister visited the commission's office at Chandralok Bhawan on Janpath as part of the government's cleanliness and records campaign, which runs from October 2 to 31. She met Prem Chand and Member Secretary Sanjeev Sharma and spoke to staff.
 
-NCPCR told her it had disposed of more than 7,000 files in 2025-26 after scanning over 5.3 lakh pages. This year it aims to scan more than 8 lakh pages and dispose of over 10,000 files. Annapurna Devi directed that all pending files be cleared by December 31, that physical files be digitised with only essential ones kept on paper, and that obsolete records be removed faster to free up space.
+NCPCR told her it had disposed of more than 7,000 files in 2025-26 after scanning over **5.3 lakh** pages. This year it aims to scan more than 8 lakh pages and dispose of over 10,000 files. Annapurna Devi directed that all pending files be cleared by December 31, that physical files be digitised with only essential ones kept on paper, and that obsolete records be removed faster to free up space.
 
 She also asked the commission to deal with complaints with sensitivity and speed, and to give complainants every possible help. Citing Prime Minister Narendra Modi, she said an effective grievance redressal system is the real strength of a democracy.

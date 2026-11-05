@@ -52,13 +52,13 @@ verification:
     - "The September draft carried a different title (Keralam State Elderly (Care and Rights Protection) Bill); the tabled title from the Statesman is used."
 ---
 
-People who abandon or abuse senior citizens in Keralam could go to jail for up to three years and pay a fine of ₹50,000 under a bill Chief Minister V D Satheesan has placed before the state Assembly.
+People who abandon or abuse senior citizens in Keralam could go to jail for up to three years and pay a fine of **₹50,000** under a bill Chief Minister V D Satheesan has placed before the state Assembly.
 
 Satheesan wants the Keralam Senior Citizens' (Care and Protection of Rights) Bill, 2026 passed quickly. "I hope we can pass the legislation this month itself," he said last week, before the Assembly session opened on October 12. "We are preparing legislation to provide a legal guarantee to senior citizens."
 
 ## Doctors must report abuse
 
-The bill puts a duty on doctors and registered care centres to report suspected abuse, neglect or exploitation of an elderly person to a district-level protection unit. Where a medical examination shows that food, water or medicine has been withheld, or finds injuries that do not match the explanation given, the report must be made within 48 hours.
+The bill puts a duty on doctors and registered care centres to report suspected abuse, neglect or exploitation of an elderly person to a district-level protection unit. Where a medical examination shows that food, water or medicine has been withheld, or finds injuries that do not match the explanation given, the report must be made **within 48 hours**.
 
 It also guards residents' money. Any voluntary gift of money or property by a resident of a care centre will have to go through a formal inquiry and be finalised in the presence of the District Magistrate.
 

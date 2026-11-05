@@ -5,7 +5,7 @@ type: news
 section: sports
 format_label: "Sports / Hockey"
 topics: []
-title: "Unbeaten India meet South Korea in Jalandhar tonight to close Asian Champions Trophy league"
+title: "Unbeaten India meet South Korea in Jalandhar on November 2 to close Asian Champions Trophy league"
 standfirst: "Harmanpreet Singh's side are already through to the semi-finals with four wins from four. Monday's 7 pm game against South Korea is a chance to finish the league stage with a perfect record before the knockouts."
 published: 2026-11-02T09:20:00+05:30
 location: Jalandhar
@@ -19,7 +19,7 @@ hero:
   subjects: ["Surjit Hockey Stadium Jalandhar"]
   alt: "The Olympian Surjit Singh Hockey Stadium in Jalandhar"
   overlay:
-    value: "India v South Korea, 7 pm tonight"
+    value: "India v South Korea, November 2"
 related: [harmanpreet-hat-trick-india-beat-malaysia-asian-champions-trophy, india-retain-asian-games-hockey-squad-champions-trophy]
 seo:
   description: "India face South Korea at 7 pm IST on November 2, 2026, in Jalandhar in their final league game of the men's Asian Champions Trophy, with four wins from four and a semi-final place already secured."

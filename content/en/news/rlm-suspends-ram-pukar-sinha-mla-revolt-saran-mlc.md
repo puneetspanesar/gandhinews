@@ -47,7 +47,7 @@ verification:
     - "Aaj Tak says Alok Kumar Singh is state president; Insider Live gives the same. Madhav Anand described as legislature party leader and co-founder by Insider Live."
 ---
 
-The Rashtriya Lok Morcha, Upendra Kushwaha's party and a member of the NDA in Bihar, on Monday suspended its state general secretary Ram Pukar Sinha for six years for contesting a Legislative Council seat against the alliance's official candidate. The bigger problem for the party is that three of its four MLAs are on Sinha's side.
+The Rashtriya Lok Morcha, Upendra Kushwaha's party and a member of the NDA in Bihar, on Monday suspended its state general secretary Ram Pukar Sinha for six years for contesting a Legislative Council seat against the alliance's official candidate. The bigger problem for the party is that three of its **four MLAs** are on Sinha's side.
 
 Sinha has filed as an independent in the Saran teachers' constituency, one of eight seats in the Bihar Legislative Council election due on October 23. The NDA's candidate is Anand Pushkar of the Janata Dal (United). Jan Suraj has fielded the sitting MLC, Aafaq Ahmad.
 

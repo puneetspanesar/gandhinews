@@ -37,16 +37,16 @@ verification:
 
 Companies that reported September-quarter numbers on Friday found little forgiveness on Dalal Street, where small and mid-sized shares were already being sold hard.
 
-The steepest fall came in Hatsun Agro Product, the Chennai-based dairy company behind Arun Ice Creams. Its shares dropped 10.14% to ₹964.10 in the afternoon after its consolidated Ebitda margin narrowed to 11.5% from 13.4%.
+The steepest fall came in Hatsun Agro Product, the Chennai-based dairy company behind Arun Ice Creams. Its shares dropped **10.14% to ₹964.10** in the afternoon after its consolidated Ebitda margin narrowed to 11.5% from 13.4%.
 
-BlueStone Jewellery and Lifestyle slid 8.4% to ₹697 after posting a net loss of ₹4.4 crore for the quarter. Microlender Creditaccess Grameen fell 4.31% to ₹1,041.06 even though its results were seen as healthy. Westlife Foodworld, which runs McDonald's restaurants in western and southern India, reported a net loss of ₹2.7 crore.
+BlueStone Jewellery and Lifestyle slid **8.4%** to ₹697 after posting a net loss of ₹4.4 crore for the quarter. Microlender Creditaccess Grameen fell 4.31% to ₹1,041.06 even though its results were seen as healthy. Westlife Foodworld, which runs McDonald's restaurants in western and southern India, reported a net loss of ₹2.7 crore.
 
-Shree Cement rallied to a day's high of ₹22,450 in the morning but gave back much of that gain after its net profit fell 15.1% to ₹262 crore.
+Shree Cement rallied to a day's high of ₹22,450 in the morning but gave back much of that gain after its net profit fell **15.1% to ₹262 crore**.
 
 ## A one-off lift for Sterlite
 
-The bright spot was Sterlite Technologies, the optical fibre and cable maker. It reported a net profit of ₹517 crore for the quarter, up from ₹197 crore in the April to June period. The jump was driven partly by a one-time gain of ₹161 crore from a refund of tariffs paid in the United States.
+The bright spot was Sterlite Technologies, the optical fibre and cable maker. It reported a net profit of **₹517 crore** for the quarter, up from ₹197 crore in the April to June period. The jump was driven partly by a one-time gain of ₹161 crore from a refund of tariffs paid in the United States.
 
-Separately, telecom equipment maker HFCL hit its 5% lower limit at ₹238.98 on a day when it also set up a new subsidiary, HFCL Connectivity Systems.
+Separately, telecom equipment maker HFCL hit its **5%** lower limit at ₹238.98 on a day when it also set up a new subsidiary, HFCL Connectivity Systems.
 
 More results are due after the close, led by Infosys, JSW Steel and Dr Reddy's Laboratories.

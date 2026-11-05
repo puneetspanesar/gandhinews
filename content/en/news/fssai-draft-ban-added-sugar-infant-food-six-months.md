@@ -45,12 +45,12 @@ The Food Safety and Standards Authority of India (FSSAI) has proposed barring ma
 
 The draft Food Safety and Standards (Foods for Infant Nutrition) Amendment Regulations, 2026, published in the Gazette of India on Friday, propose a new provision: "sucrose and fructose shall not be added in the products intended for infants up to the age of 6 months".
 
-The 2020 regulations being amended set composition, quality and safety standards for infant nutrition products for children from birth to 24 months. Under them, lactose and glucose polymers are the preferred carbohydrates, while sucrose or fructose may be added when needed as a carbohydrate source, within set limits. The draft removes that option for the first six months.
+The 2020 regulations being amended set composition, quality and safety standards for infant nutrition products for children from birth to **24 months**. Under them, lactose and glucose polymers are the preferred carbohydrates, while sucrose or fructose may be added when needed as a carbohydrate source, within set limits. The draft removes that option for the first six months.
 
 The regulator said the first six months are a critical period for growth and that the change is meant to keep infant products free of unnecessary added sugars. It linked the move to wider public health concerns over early exposure to added sugar, including risk factors tied to childhood obesity, and said it complements the advice that babies be exclusively breastfed for their first six months.
 
 FSSAI said it wants manufacturers to adopt formulations that put the nutritional needs of young infants first. The new restriction applies only to products for infants up to six months.
 
-The draft is open for public consultation. Objections and suggestions can be sent within 60 days from the date copies of the Gazette are made available to the public, and FSSAI will consider them before it finalises the rule.
+The draft is open for public consultation. Objections and suggestions can be sent **within 60 days** from the date copies of the Gazette are made available to the public, and FSSAI will consider them before it finalises the rule.
 
 In a separate draft published the same day, the regulator proposed maximum residue limits in tea for two pesticides: 20 mg/kg for acetamiprid and 50 mg/kg for imidacloprid.

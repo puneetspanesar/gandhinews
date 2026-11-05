@@ -37,15 +37,15 @@ verification:
 
 Heavy rain kept schools shut in Chennai and three neighbouring districts on Wednesday, and forecasters warned that more is on the way as a low-pressure system takes shape off the Tamil Nadu coast.
 
-Showers have fallen on the capital and its surroundings since Tuesday evening, with the northeast monsoon now vigorous over the state. Schools in Chennai, Thiruvallur, Kancheepuram and Chengalpattu districts stayed closed for the day.
+Showers have fallen on the capital and its surroundings since Tuesday evening, with the northeast monsoon now vigorous over the state. Schools in **Chennai, Thiruvallur, Kancheepuram and Chengalpattu** districts stayed closed for the day.
 
 ## What the Met office expects
 
-The Regional Meteorological Centre in Chennai said a low-pressure area was likely to form over the southwest Bay of Bengal, close to the Tamil Nadu coast, within about 24 hours. Heavy to very heavy rain is likely at isolated places in Chennai, Tiruvallur, Chengalpattu, Cuddalore, Villupuram, Thanjavur, Thiruvarur, Nagapattinam, Mayiladuthurai and Ramanathapuram districts, as well as Puducherry and Karaikal. The department expects further downpours over the next 48 hours.
+The Regional Meteorological Centre in Chennai said a low-pressure area was likely to form over the southwest Bay of Bengal, close to the Tamil Nadu coast, within about **24 hours**. Heavy to very heavy rain is likely at isolated places in Chennai, Tiruvallur, Chengalpattu, Cuddalore, Villupuram, Thanjavur, Thiruvarur, Nagapattinam, Mayiladuthurai and Ramanathapuram districts, as well as Puducherry and Karaikal. The department expects further downpours over the next 48 hours.
 
 ## Patching the roads
 
-Chief Minister C Joseph Vijay has directed road patch work across the Greater Chennai Corporation's area, at an estimated cost of ₹21.80 crore. Crews are working through zones 1 to 15 with concrete and tar mixtures to fill potholes.
+Chief Minister C Joseph Vijay has directed road patch work across the Greater Chennai Corporation's area, at an estimated cost of **₹21.80 crore**. Crews are working through zones 1 to 15 with concrete and tar mixtures to fill potholes.
 
 The corporation handed out 6,000 food packets to rain-hit residents in Virugambakkam on Wednesday morning.
 

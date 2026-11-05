@@ -42,7 +42,7 @@ verification:
     - "Series position (Australia 1-0 up) and Boland's 4 for 31 from our day-two story."
 ---
 
-Marco Jansen turned the second Test on its head at St George's Park on Tuesday. With South Africa wobbling at 110 for 6 in the first innings, the left-hander counter-attacked to make 64 off 58 balls, and with captain Temba Bavuma unbeaten on 69, the hosts were 201 for 6 after 67 overs in the afternoon session of day three.
+Marco Jansen turned the second Test on its head at St George's Park on Tuesday. With South Africa wobbling at 110 for 6 in the first innings, the left-hander counter-attacked to make **64 off 58 balls**, and with captain Temba Bavuma unbeaten on 69, the hosts were 201 for 6 after 67 overs in the afternoon session of day three.
 
 Jansen and Bavuma had put on 91 off 101 balls for the seventh wicket by that point. Jansen reached his half-century in 43 balls, the fourth-quickest Test fifty by a South African at home against Australia.
 

@@ -40,12 +40,12 @@ Hundreds of Ethiopians crossed into Kenya on Thursday to escape fighting in the 
 
 Kenyan police said those arriving were "mostly women and children". They came over at several points on the Kenyan side of the town, including Sessi, Kore, Biashara, Foundation and Miti. Police described gunfire and chaotic scenes on the Ethiopian side.
 
-The people fleeing were caught up in tensions between the leaders of Ethiopia's Oromia and Somali regional states. Moyale straddles the frontier, and the Ethiopian half sits where the two regions meet.
+The people fleeing were caught up in tensions between the leaders of Ethiopia's **Oromia and Somali regional** states. Moyale straddles the frontier, and the Ethiopian half sits where the two regions meet.
 
-The trouble is reported to have started on Sunday, when loyalists publicly raised the flag of the Somali Regional State in the town. The row escalated into fighting between Oromia and Somali regional forces. No casualty figures have been given.
+The trouble is reported to have started on Sunday, when loyalists publicly raised the flag of the Somali Regional State in the town. The row escalated into fighting between **Oromia and Somali regional forces**. No casualty figures have been given.
 
-The Kenya Red Cross is setting up temporary shelters and handing out cereals and porridge flour. Its first response will reach 1,000 households, while teams work out how many people have been affected and what they need.
+The Kenya Red Cross is setting up temporary shelters and handing out cereals and porridge flour. Its first response will reach **1,000 households**, while teams work out how many people have been affected and what they need.
 
-Oromia and Somali regions share a long internal boundary that has been the scene of deadly disputes over land and grazing in the past.
+**Oromia and Somali** regions share a long internal boundary that has been the scene of deadly disputes over land and grazing in the past.
 
 The Moyale clashes are separate from, and hundreds of kilometres away from, the wider conflict in the northern region of Tigray. There, federal government forces are fighting a rebel alliance led by the Tigray People's Liberation Front.

@@ -54,7 +54,7 @@ verification:
     - "Exact time of the final not found; published time estimated."
 ---
 
-P V Sindhu took the first game off An Se Young, the only game the Korean dropped all week, but the world No. 1 recovered to win the French Open final 16-21, 21-11, 21-12 at the Arena Grand Paris on Sunday.
+P V Sindhu took the first game off An Se Young, the only game the Korean dropped all week, but the world No. 1 recovered to win the French Open final **16-21, 21-11, 21-12** at the Arena Grand Paris on Sunday.
 
 The defeat, in a little over an hour, was Sindhu's 11th in 11 meetings with the South Korean. An took her fourth French Open title and her third in a row, and extended a winning run that now stands at 50 matches.
 

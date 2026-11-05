@@ -42,7 +42,7 @@ verification:
     - "No government response to Thapa found by publication."
 ---
 
-Kamal Thapa, a former foreign minister of Nepal, has objected to remarks by Finance Minister Swarnim Wagle in New Delhi that the era of "anti-India nationalism" in Nepal is over, and asked the government to explain them.
+**Kamal Thapa**, a former foreign minister of Nepal, has objected to remarks by Finance Minister Swarnim Wagle in New Delhi that the era of "anti-India nationalism" in Nepal is over, and asked the government to explain them.
 
 Wagle was speaking on Friday at a summit in the Indian capital on the theme "A World Between Orders". "There was a time when nationalism in Nepal was associated with anti-India sentiment. But that era is over," he said.
 

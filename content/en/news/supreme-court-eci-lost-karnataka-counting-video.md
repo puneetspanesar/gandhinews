@@ -45,7 +45,7 @@ Senior advocate Seshadri Naidu, for the Commission, said it had been unable to t
 
 ## A seat that changed hands
 
-The case concerns one of the closest results of the 2023 Karnataka election. Congress leader T D Rajegowda won Sringeri by 201 votes. His BJP rival, D N Jeevaraj, challenged the result in an election petition, and on April 6 this year the Karnataka High Court ordered a recount of postal ballots, including a fresh look at 279 that had been rejected.
+The case concerns one of the closest results of the 2023 Karnataka election. Congress leader T D Rajegowda won Sringeri by **201 votes**. His BJP rival, D N Jeevaraj, challenged the result in an election petition, and on April 6 this year the Karnataka High Court ordered a recount of postal ballots, including a fresh look at 279 that had been rejected.
 
 On May 3 the returning officer declared a revised result. Rajegowda's tally fell by 255 votes and Jeevaraj was declared elected. Rajegowda then came to the Supreme Court, which in May allowed him to continue as MLA while his appeal is pending.
 

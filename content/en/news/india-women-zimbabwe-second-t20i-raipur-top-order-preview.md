@@ -44,9 +44,9 @@ verification:
 
 India go into the second T20I against Zimbabwe in Raipur on Sunday evening a match up and a win away from the series, but with plenty to fix at the top of the order.
 
-In Friday's opener at the Shaheed Veer Narayan Singh International Stadium, captain Smriti Mandhana, vice-captain Shafali Verma, Anushka Sharma and Harmanpreet Kaur all fell for single figures. Chasing 115, India were 19 for 4 before debutant Niki Prasad and Deepti Sharma rescued them with a partnership of 82, and the four-wicket win came with 26 balls to spare.
+In Friday's opener at the Shaheed Veer Narayan Singh International Stadium, captain Smriti Mandhana, vice-captain Shafali Verma, Anushka Sharma and Harmanpreet Kaur all fell for single figures. Chasing 115, India were **19 for 4** before debutant Niki Prasad and Deepti Sharma rescued them with a partnership of 82, and the four-wicket win came with 26 balls to spare.
 
-The damage was done by off-spinner Nyasha Gwanzura, who took three wickets in the powerplay. Zimbabwe's batters had earlier shown they could hang in, with Kelis Ndhlovu and Sharne Mayers carrying them to 114 for 5.
+The damage was done by off-spinner Nyasha Gwanzura, who took **three wickets in the powerplay**. Zimbabwe's batters had earlier shown they could hang in, with Kelis Ndhlovu and Sharne Mayers carrying them to 114 for 5.
 
 ## Deepti wants the same intent
 

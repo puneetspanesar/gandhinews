@@ -50,11 +50,11 @@ verification:
 
 Round two of the Ranji Trophy ends on Wednesday with three teams in sight of outright wins and a handful of others playing for first-innings points.
 
-Mumbai are closest. After declaring on 528 for 8 in Bilaspur, with Sarfaraz Khan's 154, Akash Anand's unbeaten 117, Siddhesh Lad's 87 and Musheer Khan's 57, they had Himachal Pradesh 144 for 3 at stumps on Tuesday. Pukhraj Mann (38 not out) and Vaibhav Kalta (21 not out) will resume 244 runs short of making Mumbai bat again.
+Mumbai are closest. After declaring on 528 for 8 in Bilaspur, with Sarfaraz Khan's 154, Akash Anand's unbeaten 117, Siddhesh Lad's 87 and Musheer Khan's 57, they had Himachal Pradesh 144 for 3 at stumps on Tuesday. Pukhraj Mann (38 not out) and Vaibhav Kalta (21 not out) will resume **244 runs** short of making Mumbai bat again.
 
 ## Maharashtra and Punjab on top
 
-In Pune, Maharashtra made Jharkhand toil for 150 overs. Ankit Bawne scored 169, Digvijay Patil 148 and Ruturaj Gaikwad an unbeaten 101 before the declaration at 527 for 5, a lead of 358. Jharkhand then batted much better in their second innings and closed on 130 for 1, with Shikhar Mohan on 74 and Utkarsh Singh on 45. They still trail by 228 and Maharashtra need nine wickets.
+In Pune, Maharashtra made Jharkhand toil for 150 overs. Ankit Bawne scored 169, Digvijay Patil 148 and Ruturaj Gaikwad an unbeaten 101 before the declaration at **527 for 5**, a lead of 358. Jharkhand then batted much better in their second innings and closed on 130 for 1, with Shikhar Mohan on 74 and Utkarsh Singh on 45. They still trail by 228 and Maharashtra need nine wickets.
 
 Harpreet Brar ran through Chhattisgarh with 7 for 56, bowling them out for 206 in reply to 456, and Punjab enforced the follow-on. Chhattisgarh were 123 for 3 second time round, with Aayush Pandey making 59 and Amandeep Khare unbeaten on 37, and are 127 behind.
 

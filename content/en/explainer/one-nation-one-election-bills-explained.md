@@ -91,20 +91,20 @@ The idea was examined by a High-Level Committee chaired by former President Ram 
 
 ## What does the Constitution amendment need to pass?
 
-**At least two-thirds of the members present and voting.** The bar is high. In April 2026, another constitutional amendment, on delimitation, won 298 votes to 230 in the Lok Sabha and still failed, because it needed 352 (LiveLaw, April 17, 2026).
+**At least two-thirds of the members present and voting.** The bar is high. In April 2026, another constitutional amendment, on delimitation, won 298 votes to 230 in the Lok Sabha and still failed, because it needed 352.
 
 ## Where does the joint committee stand?
 
-**Its deadline has been extended, most recently on July 29, 2026, and it now has until the Winter Session 2026.** The committee has 41 members, the Sunday Guardian reported, and is chaired by P.P. Chaudhary.
+**Its deadline has been extended, most recently on July 29, 2026, and it now has until the Winter Session 2026.** The committee has 41 members and is chaired by P.P. Chaudhary.
 
 ```timeline
-{"title":"One Nation One Election Bills","items":[{"date":"Sep 2023","text":"Government sets up the High-Level Committee chaired by Ram Nath Kovind."},{"date":"Mar 2024","text":"Kovind committee report recommends simultaneous Lok Sabha and assembly polls, with local body polls within 100 days."},{"date":"Dec 17, 2024","text":"Both Bills introduced in the Lok Sabha."},{"date":"Dec 19, 2024","text":"Bills referred to a Joint Parliamentary Committee chaired by P.P. Chaudhary."},{"date":"Mar 2026","text":"Lok Sabha extends the committee's deadline to the Monsoon Session 2026."},{"date":"Jul 2026","text":"Committee has visited 10 states and seeks views from all states (Sunday Guardian)."},{"date":"Jul 29, 2026","text":"Deadline extended again, to the first day of the last week of the Winter Session 2026."}]}
+{"title":"One Nation One Election Bills","items":[{"date":"Sep 2023","text":"Government sets up the High-Level Committee chaired by Ram Nath Kovind."},{"date":"Mar 2024","text":"Kovind committee report recommends simultaneous Lok Sabha and assembly polls, with local body polls within 100 days."},{"date":"Dec 17, 2024","text":"Both Bills introduced in the Lok Sabha."},{"date":"Dec 19, 2024","text":"Bills referred to a Joint Parliamentary Committee chaired by P.P. Chaudhary."},{"date":"Mar 2026","text":"Lok Sabha extends the committee's deadline to the Monsoon Session 2026."},{"date":"Jul 2026","text":"Committee has visited 10 states and seeks views from all states."},{"date":"Jul 29, 2026","text":"Deadline extended again, to the first day of the last week of the Winter Session 2026."}]}
 ```
 
-By mid-July 2026 the committee had visited 10 states, and it wants to hear from all of them, the Sunday Guardian reported. The Election Commission has told the committee it could hold simultaneous elections within six months of the law being enacted, according to the same report.
+By mid-July 2026 the committee had visited 10 states, and it wants to hear from all of them. The Election Commission has told the committee it could hold simultaneous elections within six months of the law being enacted, it was reported.
 
 ## When could it take effect?
 
-**Not before the committee reports and Parliament passes the Bills, and no date has been set.** The Bill links the start of the scheme to the first sitting of a Lok Sabha after a general election, so the earliest practical start depends on when the Bills pass relative to the next general election. Speaking in Lucknow on July 15, 2026, Chaudhary said the objective was to hold Lok Sabha and assembly elections together in 2029, the Free Press Journal reported. That is his stated aim. Parliament has not passed the Bills, and the committee has not yet published its findings.
+**Not before the committee reports and Parliament passes the Bills, and no date has been set.** The Bill links the start of the scheme to the first sitting of a Lok Sabha after a general election, so the earliest practical start depends on when the Bills pass relative to the next general election. Speaking in Lucknow on July 15, 2026, Chaudhary said the objective was to hold Lok Sabha and assembly elections together in 2029. That is his stated aim. Parliament has not passed the Bills, and the committee has not yet published its findings.
 
 As of October 2026, the Winter Session's dates had not been announced. When the committee reports, its recommendations will guide Parliament but will not bind it.

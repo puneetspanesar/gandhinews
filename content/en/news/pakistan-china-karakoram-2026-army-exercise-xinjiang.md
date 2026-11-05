@@ -11,7 +11,7 @@ published: 2026-10-15T06:00:00+05:30
 location: Beijing
 keyPoints:
   - "The **Karakoram 2026** drill opened at a training base in Korla, Xinjiang, on Wednesday."
-  - "It centres on **joint anti-terrorism clearance operations at high altitude**."
+  - "It centres on joint **anti-terrorism clearance operations** at high altitude."
   - "The two armies held a **joint patrol near Khunjerab** in September."
 hero:
   need: "The city of Korla in Xinjiang, China"

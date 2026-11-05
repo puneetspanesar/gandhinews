@@ -5,7 +5,7 @@ type: news
 section: policy
 format_label: "Policy / Home Affairs"
 topics: []
-title: "Amit Shah leads Police Commemoration Day tribute at National Police Memorial today"
+title: "Amit Shah leads Police Commemoration Day tribute at National Police Memorial on October 21"
 standfirst: "The Home Minister will review a joint parade of the central armed police forces and Delhi Police, lay a wreath for the Hot Springs martyrs of 1959 and flag off a 90-rider motorcycle rally against drugs."
 published: 2026-10-21T05:20:00+05:30
 location: New Delhi
@@ -40,7 +40,7 @@ verification:
     - Programme details from the MHA announcement as carried by DD India and Kalinga TV (both October 19). Start time not given in either; not stated. Number of police personnel killed on duty in the past year (usually announced on the day) not available in advance, so omitted. PIB release itself not reachable this run.
 ---
 
-Union Home Minister Amit Shah will lead the nation's tribute to police personnel killed in the line of duty on Wednesday, Police Commemoration Day, at the National Police Memorial in Chanakyapuri, New Delhi.
+Union Home Minister Amit Shah will lead the nation's tribute to police personnel killed in the line of duty on Wednesday, Police Commemoration Day, at the **National Police Memorial in Chanakyapuri**, New Delhi.
 
 Shah will preside over the main function and address the gathering, the Ministry of Home Affairs has said. The ceremony will feature a joint parade of the Central Armed Police Forces and Delhi Police. The Minister of State for Home, Members of Parliament with a police background, the heads of the central armed police forces and central police organisations, and retired directors general are among those expected to lay wreaths or attend. The programme ends with Shah laying a wreath at the altar honouring the martyrs of Hot Springs.
 
@@ -52,7 +52,7 @@ The memorial is built around a 30-foot granite monolith cenotaph. Beside it, the
 
 ## Riders bound for Ekta Nagar
 
-Shah will also flag off a motorcycle rally of about 90 police riders. They come from Jammu and Kashmir, Ladakh, Himachal Pradesh, Uttarakhand, Uttar Pradesh, Punjab, Haryana, Chandigarh and Delhi, and from the CRPF, CISF, BSF, SSB, ITBP and NSG, as well as the Railway Protection Force, the National Disaster Response Force and the National Investigation Agency.
+Shah will also flag off a motorcycle rally of **about 90 police riders**. They come from Jammu and Kashmir, Ladakh, Himachal Pradesh, Uttarakhand, Uttar Pradesh, Punjab, Haryana, Chandigarh and Delhi, and from the CRPF, CISF, BSF, SSB, ITBP and NSG, as well as the Railway Protection Force, the National Disaster Response Force and the National Investigation Agency.
 
 The ministry said the rally is part of a nationwide campaign with the theme "Fight Against Drugs". The riders will travel to Ekta Nagar in Gujarat for the Ekta Parade on October 31, the birth anniversary of Sardar Vallabhbhai Patel.
 

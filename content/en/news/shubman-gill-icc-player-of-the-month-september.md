@@ -41,11 +41,11 @@ verification:
     - "Venue of the second ODI given only as Guwahati; date not stated by ICC, so left out."
 ---
 
-Shubman Gill has been named the ICC men's Player of the Month for September, the fifth time he has won the award. The ICC announced on Tuesday that he had edged out his India team-mate Abhishek Sharma and Zimbabwe's Sikandar Raza.
+Shubman Gill has been named the ICC men's Player of the Month for September, the fifth time he has won the award. The ICC announced on Tuesday that he had edged out his India team-mate **Abhishek Sharma** and Zimbabwe's Sikandar Raza.
 
 Gill's case rested on two innings against West Indies. In the first ODI in Thiruvananthapuram on September 27, he made 110 off 108 balls as India chased down 295 for 7. In the second, in Guwahati, he went much further: 223 not out off 133 balls, with 26 fours and eight sixes.
 
-He reached his hundred in 62 balls and his double hundred in 117, which the ICC says is the fastest double century in ODI history. Gill and Rohit Sharma, who made 101 off 75 balls, put on 255 for the first wicket, and India won both matches by eight wickets. In all, Gill scored 333 runs in the two games.
+He reached his hundred in 62 balls and his double hundred in 117, which the ICC says is the fastest double century in ODI history. Gill and Rohit Sharma, who made 101 off 75 balls, put on 255 for the first wicket, and India won both matches by eight wickets. In all, Gill scored **333 runs** in the two games.
 
 "It feels fantastic to win my fifth ICC Player of the Month award, and I am grateful to the panel for this honour," Gill said.
 

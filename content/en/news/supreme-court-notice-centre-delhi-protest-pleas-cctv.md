@@ -68,11 +68,11 @@ The Supreme Court on Thursday ordered the police and every other agency involved
 
 A bench of Chief Justice Surya Kant and Justice Joymalya Bagchi issued notice to the Union government and Delhi Police on the batch of petitions over the detentions of protesters, lawyers and journalists since October 10. It also issued notice on a petition challenging Section 172 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), which lets police detain or remove people who disregard their directions.
 
-The pile of cases has grown fast. With 46 matters now before the court, the Chief Justice asked lawyers to hold back. "We make an earnest appeal to the members of the Bar not to file more petitions," he said. The bench asked the Solicitor General's side and the petitioners to each name a nodal counsel to bring the overlapping issues together.
+The pile of cases has grown fast. With **46 matters** now before the court, the Chief Justice asked lawyers to hold back. "We make an earnest appeal to the members of the Bar not to file more petitions," he said. The bench asked the Solicitor General's side and the petitioners to each name a nodal counsel to bring the overlapping issues together.
 
 ## The missing order
 
-A large part of the hearing turned on a document the petitioners had never seen. Senior advocate Menaka Guruswamy, who has filed a habeas corpus plea over the detention of political leaders, said the affidavit of the Delhi Police Commissioner left out both the Section 163 orders and the number of people detained.
+A large part of the hearing turned on a document the petitioners had never seen. Senior advocate Menaka Guruswamy, who has filed a habeas corpus plea over the detention of political leaders, said the affidavit of the Delhi Police Commissioner left out both the **Section 163** orders and the number of people detained.
 
 Justice Bagchi remarked that the lawyers were "arguing against a ghost", since the complaint was that the order had never been placed on record. Senior advocate Kapil Sibal said none of the lawyers had seen it. The court asked Solicitor General Tushar Mehta to file the promulgated orders with the authorities' further affidavits.
 

@@ -46,13 +46,13 @@ verification:
 
 Eugenio Chacarra will start Sunday at the top of the DP World India Championship, but with seven holes of his third round still to play. Fading light halted play at Delhi Golf Club at 5:44 pm on Saturday, and only 26 of the 77 players who made the cut had finished their rounds.
 
-The Spaniard, who opened with two rounds of 67, was four under for the day through 11 holes and 14 under for the tournament when the horn sounded. The $4 million event, jointly sanctioned by the DP World Tour and the PGTI, is now set for a long final day, with the rest of the third round expected to be completed on Sunday morning before the field goes out again.
+The Spaniard, who opened with two rounds of 67, was four under for the day **through 11 holes** and 14 under for the tournament when the horn sounded. The $4 million event, jointly sanctioned by the DP World Tour and the PGTI, is now set for a long final day, with the rest of the third round expected to be completed on Sunday morning before the field goes out again.
 
 The schedule has been squeezed ever since rain wiped out four hours and 50 minutes of play earlier in the week. The second round was only completed on Saturday, and the halfway cut fell at even par.
 
 ## Chouhan the leading Indian
 
-Om Prakash Chouhan is the best-placed Indian, tied 30th at five under after rounds of 68, 72 and 71. He finished his second round earlier on Saturday and then went back out for his third, picking up two birdies and a bogey on the back end of it.
+Om Prakash Chouhan is the best-placed **Indian, tied 30th at five** under after rounds of 68, 72 and 71. He finished his second round earlier on Saturday and then went back out for his third, picking up two birdies and a bogey on the back end of it.
 
 "My body was feeling very tight after playing 36 holes, but I stayed focused on my game. It was a steady round," Chouhan said. "I'm not thinking too much about being the leading Indian. I'm concentrating on my own game."
 

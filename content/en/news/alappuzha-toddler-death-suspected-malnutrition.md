@@ -38,7 +38,7 @@ verification:
 
 A two-year-old boy was found dead at his home in Keralam's Alappuzha district on Sunday morning, and police suspect malnutrition.
 
-Doctors described the child as "acutely anaemic", an officer at Trikkunnapuzha police station said. The boy weighed 7.6 kg, when a child of his age would normally weigh close to 12 kg. Police have registered a case of unnatural death, and a histopathology test will decide whether illness or malnutrition killed him. Any further action depends on that result.
+Doctors described the child as "acutely anaemic", an officer at Trikkunnapuzha police station said. The boy weighed **7.6 kg**, when a child of his age would normally weigh close to 12 kg. Police have registered a case of unnatural death, and a histopathology test will decide whether illness or malnutrition killed him. Any further action depends on that result.
 
 The family lives in Karthikappally. The father, an autorickshaw driver, was at home with the children because the mother had been admitted to the government medical college hospital at Vandanam on Saturday to give birth. He found the boy dead on Sunday morning. The couple have five other children, including the newborn, and an earlier child of the family had also died.
 

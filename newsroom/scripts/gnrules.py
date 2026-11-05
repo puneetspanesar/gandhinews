@@ -50,3 +50,8 @@ def clean_credit(c):
     c = c.replace('\u2014', ',').replace('\u2013', '-')
     c = _re.sub(r'\s{2,}', ' ', c).strip(' ,;:-')
     return c[:-1] if c.endswith('.') and not _re.search(r'\b(Ltd|Inc|Co|Jr|Sr|[A-Z])\.$', c) else c
+import hashlib as _hl, json as _json
+def ihash(gs):
+    """Fingerprint of a story's infographic blocks ({'en': ..., 'hi': ...}); stored in photos.map.json by make_infographic.py
+    and compared by audit.py, so a graphic whose story figures changed is re-rendered, never left showing old numbers."""
+    return _hl.sha1(_json.dumps(gs, sort_keys=True, ensure_ascii=False, default=str).encode()).hexdigest()[:12]

@@ -43,7 +43,7 @@ Speaking in Pune on Thursday, Shinde said the alliance partners were contesting 
 
 In the Pune Division Teachers' seat, the Shiv Sena is backing an independent, Sachin Sanap.
 
-Shinde used the occasion to hit back at opposition parties over their criticism of the state's drought relief, which includes an advance of ₹5,000 to farmers. "They had earlier demanded that drought be declared," he said. "They are now criticising the government after it announced the drought."
+Shinde used the occasion to hit back at opposition parties over their criticism of the state's drought relief, which includes an advance of **₹5,000** to farmers. "They had earlier demanded that drought be declared," he said. "They are now criticising the government after it announced the drought."
 
 He said parties should set politics aside and stand with farmers in a hard season, and urged opposition leaders to "come together and support farmers" instead of attacking the government.
 

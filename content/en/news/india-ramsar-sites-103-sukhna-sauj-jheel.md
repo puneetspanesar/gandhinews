@@ -53,7 +53,7 @@ The two designations take the count up from 101. Sukhna is the first Ramsar site
 
 "I congratulate Uttar Pradesh and Chandigarh for this feat," Yadav wrote on X. He said the additions showed the importance the government gives to wetlands "in conserving biodiversity, enhancing water and climate security, and sustaining local livelihoods". He also had a word for tourists: "Dear travellers, do visit Sukhna and Sauj next time you have a couple days at hand."
 
-Sukhna, at the foot of the Shivaliks, covers nearly 565 acres, with a catchment of about 10,395 acres. The Union environment ministry declared it a national wetland in 1988, and the Sukhna Wildlife Sanctuary lies in its catchment.
+Sukhna, at the foot of the Shivaliks, covers **nearly 565 acres**, with a catchment of about 10,395 acres. The Union environment ministry declared it a national wetland in 1988, and the Sukhna Wildlife Sanctuary lies in its catchment.
 
 The nomination took about a year. The State Wetland Authority of Chandigarh, chaired by Punjab Governor and UT Administrator Gulab Chand Kataria, approved the proposal in September 2025. The UT forest department then sent a detailed proposal to the Centre, which cleared it with the endorsement of the Ministry of External Affairs before it went to the Ramsar Secretariat.
 

@@ -71,13 +71,13 @@ Speaking to reporters in New Delhi, Shah said the Congress had lost election aft
 
 ## 'You need to introspect'
 
-Shah pointed to a string of recent results to argue that the Congress had lost touch with voters. He said the party had won no seat in the bypolls in West Bengal, Tamil Nadu and Puducherry, and that the BJP had taken Nagaon in Assam by about 1,42,000 votes and Nandigram with 76% of the vote. He also cited BJP wins in local body polls in Rajasthan, Gujarat and Tripura.
+Shah pointed to a string of recent results to argue that the Congress had lost touch with voters. He said the party had won no seat in the bypolls in West Bengal, Tamil Nadu and Puducherry, and that the BJP had taken Nagaon in Assam by about 1,42,000 votes and Nandigram with **76%** of the vote. He also cited BJP wins in local body polls in Rajasthan, Gujarat and Tripura.
 
 "I also wish to ask Rahul ji: is this the result of an 'SIR'?" he said. "You need to introspect." The SIR, he added, began only after 2024, while the Congress's losing run is much older. In Gujarat, he said, the party has not won an election since 1985.
 
 He accused the opposition of planning to get infiltrators registered as voters, saying "the people of this country have fully understood your strategy of shielding infiltrators".
 
-Shah also played down the opposition's show of strength in Delhi. On Monday, leaders of the INDIA bloc, including Rahul Gandhi, Mallikarjun Kharge, Akhilesh Yadav and Mamata Banerjee, marched in central Delhi and filed a joint petition in the Supreme Court against the SIR. Shah said a crowd of about 8,000 people and cadres from 14 parties packed into a stretch of a kilometre and a half did not make Rahul Gandhi the voice of the nation. That voice, he said, lies in rural India. "You have no reach there."
+Shah also played down the opposition's show of strength in Delhi. On Monday, leaders of the INDIA bloc, including Rahul Gandhi, Mallikarjun Kharge, Akhilesh Yadav and Mamata Banerjee, marched in central Delhi and filed a joint petition in the Supreme Court against the SIR. Shah said a crowd of about **8,000 people** and cadres from 14 parties packed into a stretch of a kilometre and a half did not make Rahul Gandhi the voice of the nation. That voice, he said, lies in rural India. "You have no reach there."
 
 "You cannot win the trust of the country's people through fabricated media events and echoes of lies," he said.
 

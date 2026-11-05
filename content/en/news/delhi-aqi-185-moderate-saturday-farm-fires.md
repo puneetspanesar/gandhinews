@@ -5,7 +5,7 @@ type: news
 section: states
 format_label: "States / Delhi"
 topics: [states]
-title: "Delhi's air slips back to moderate, AQI 185 on Saturday morning after three poor days"
+title: "Delhi's air slips back to moderate, AQI 185 on the morning of October 24 after three poor days"
 standfirst: "The CPCB reading at 9 am ended a run of 'poor' days, though Narela, Jahangirpuri and RK Puram had come close to 300 overnight. Satellites have counted 545 farm fires in Punjab and Haryana this month."
 published: 2026-10-24T10:50:00+05:30
 location: New Delhi
@@ -61,13 +61,13 @@ Taken over a week, this October has been kinder than most. The seven-day average
 
 ## Fewer fires seen from space
 
-NASA satellite data shows 545 farm fires in Punjab and Haryana between October 1 and 23: 473 in Punjab and 72 in Haryana. On October 23 alone, satellites picked up 50 fires, against 708 on the same date last year.
+NASA satellite data shows **545 farm fires** in Punjab and Haryana between October 1 and 23: 473 in Punjab and 72 in Haryana. On October 23 alone, satellites picked up 50 fires, against 708 on the same date last year.
 
 The lower numbers come with a caveat. The satellite passes over the region at about 1:30 pm, and much of the burning takes place later in the day, so the count can miss fires and does not necessarily mean less stubble is being burnt.
 
 ## Cooler nights, warm days
 
-Nights are turning cooler. Safdarjung, the city's representative weather station, recorded a minimum of 18.3°C in the 24 hours to 8:30 am, 1.1 degrees above normal and 0.7 degrees lower than the previous night. Ayanagar was the coldest at 17°C, with Palam and Lodhi Road both at 17.6°C and the Ridge at 18.4°C. None of the stations recorded rain.
+Nights are turning cooler. Safdarjung, the city's representative weather station, recorded a minimum of 18.3°C in the 24 hours to 8:30 am, **1.1 degrees** above normal and 0.7 degrees lower than the previous night. Ayanagar was the coldest at 17°C, with Palam and Lodhi Road both at 17.6°C and the Ridge at 18.4°C. None of the stations recorded rain.
 
 The India Meteorological Department expects a maximum of 32 to 34°C on Saturday under partly cloudy skies, with Sunday's high around 33°C and night temperatures between 17 and 19°C through the coming week.
 

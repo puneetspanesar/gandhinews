@@ -41,6 +41,6 @@ The centre brings data from SCADA systems, GIS maps, smart meters, consumer comp
 
 "A few minutes can make a significant difference when a major water pipeline develops a leak," Singh said. "Our focus is clear: less water wastage, faster repairs and greater accountability."
 
-He also flagged off an emergency response vehicle carrying high-capacity submersible pumps, a 60 kVA generator and repair gear, so it can work at a site without relying on local power. It is linked to the centre by GPS.
+He also flagged off an emergency response vehicle carrying high-capacity submersible pumps, a **60 kVA generator** and repair gear, so it can work at a site without relying on local power. It is linked to the centre by GPS.
 
-JWIL is executing Packages 2, 3 and 4 of the Chandrawal project, which together cover about 10% of Delhi's population and area, including key VIP areas. "For us, water management is not just about supplying water," Singh said. No cost or target for repair times was announced.
+JWIL is executing Packages 2, 3 and 4 of the Chandrawal project, which together cover **about 10% of Delhi**'s population and area, including key VIP areas. "For us, water management is not just about supplying water," Singh said. No cost or target for repair times was announced.

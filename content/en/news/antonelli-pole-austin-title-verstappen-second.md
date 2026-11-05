@@ -56,11 +56,11 @@ verification:
 
 Kimi Antonelli put his Mercedes on pole position for the United States Grand Prix early on Sunday morning India time, and now goes into the race in Austin one win away from the Formula 1 world championship.
 
-The 20-year-old lapped the Circuit of the Americas in 1 minute 34.035 seconds, 0.179 seconds quicker than Max Verstappen. It was his first pole since the Belgian Grand Prix. Isack Hadjar made it two Red Bulls in the top three, and Charles Leclerc, who had topped both practice sessions on Friday, had to settle for fourth ahead of his Ferrari team-mate Lewis Hamilton.
+The 20-year-old lapped the Circuit of the Americas in **1 minute 34.035 seconds**, 0.179 seconds quicker than Max Verstappen. It was his first pole since the Belgian Grand Prix. Isack Hadjar made it two Red Bulls in the top three, and Charles Leclerc, who had topped both practice sessions on Friday, had to settle for fourth ahead of his Ferrari team-mate Lewis Hamilton.
 
 ## What Antonelli needs
 
-Antonelli leads the championship by 102 points from his team-mate George Russell and by 111 from Hamilton, with six races left including this one. He can clinch the title only by winning on Sunday, and even then his rivals' results decide it.
+Antonelli leads the championship by **102 points** from his team-mate George Russell and by 111 from Hamilton, with six races left including this one. He can clinch the title only by winning on Sunday, and even then his rivals' results decide it.
 
 If Russell finishes ninth or lower and Hamilton fifth or lower behind a winning Antonelli, the title is his, making him the youngest champion in the sport's history and the first Italian to win it since Alberto Ascari in 1953. If Russell holds a top-eight finish, the fight moves on to Mexico.
 

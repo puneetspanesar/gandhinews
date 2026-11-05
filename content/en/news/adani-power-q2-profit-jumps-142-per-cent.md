@@ -49,11 +49,11 @@ verification:
 
 Adani Power's net profit more than doubled in the July-September quarter, helped by stronger electricity demand, higher tariffs linked to costlier imported coal and a large one-time payment of back-dated charges.
 
-Profit rose 142% to ₹7,019.32 crore from ₹2,906.46 crore a year earlier, the company said in results released on Friday. Operating revenue grew 29.8% to ₹17,014.06 crore. For April-September, profit was ₹11,885.92 crore, up 91.4%.
+Profit rose 142% to **₹7,019.32 crore** from ₹2,906.46 crore a year earlier, the company said in results released on Friday. Operating revenue grew 29.8% to ₹17,014.06 crore. For April-September, profit was ₹11,885.92 crore, up 91.4%.
 
-The quarter included ₹2,422.25 crore of prior-period revenue, mainly from revised historic energy charges under some power purchase agreements, against ₹668.53 crore in the same quarter last year.
+The quarter included **₹2,422.25 crore** of prior-period revenue, mainly from revised historic energy charges under some power purchase agreements, against ₹668.53 crore in the same quarter last year.
 
-Power sold under long-term contracts rose 29.7% to 23.4 billion units, and the average tariff realised on a continuing basis rose 12.7% to ₹6.4 per kilowatt-hour. The company said tariffs rose because of a sharp increase in imported coal prices, and it also earned more on power sold in merchant and short-term markets. Finance costs fell 9.7% to ₹760.23 crore.
+Power sold under long-term contracts rose 29.7% to **23.4 billion units**, and the average tariff realised on a continuing basis rose 12.7% to ₹6.4 per kilowatt-hour. The company said tariffs rose because of a sharp increase in imported coal prices, and it also earned more on power sold in merchant and short-term markets. Finance costs fell 9.7% to ₹760.23 crore.
 
 Chief executive S B Khyalia used the results to make the case for more coal-fired plants. "The primacy of domestic coal-based power in meeting India's long-term power needs has become clearer every day," he said. "We are proud to be the leaders in capacity addition to address the need of 100 GW new thermal power capacities."
 

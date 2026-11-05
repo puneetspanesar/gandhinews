@@ -69,7 +69,7 @@ verification:
     - "Player of the match (Arshdeep) is from ICC, Yahoo Sports and Cricket Times."
 ---
 
-Arshdeep Singh had gone for 45 without a wicket in Ranchi on Friday. Two nights later in Indore he was the reason India still lead this series. His 3 for 44, built on yorkers at the death, helped India defend 223 and beat West Indies by 14 runs in the third T20I at the Holkar Stadium on Sunday.
+Arshdeep Singh had gone for 45 without a wicket in Ranchi on Friday. Two nights later in Indore he was the reason India still lead this series. His **3 for 44**, built on yorkers at the death, helped India defend 223 and beat West Indies by 14 runs in the third T20I at the Holkar Stadium on Sunday.
 
 West Indies, who had chased down 250 two days earlier, finished on 209 for 7. India lead the five-match series 2-1.
 

@@ -45,4 +45,4 @@ He also had a name ready. "If they hold [the strike] in Portugal, we are going t
 
 Both countries have seen months of protests over unaffordable homes and rising rents. Demonstrators have camped in the centres of Madrid, Porto and Lisbon, demanding affordable housing and decent rents.
 
-In Spain the strike carries extra political charge. It falls 18 days before snap elections that Prime Minister Pedro Sánchez called after parliament rejected his government's housing measures.
+In Spain the strike carries extra political charge. It falls **18 days before snap elections** that Prime Minister Pedro Sánchez called after parliament rejected his government's housing measures.

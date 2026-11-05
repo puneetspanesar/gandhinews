@@ -52,7 +52,7 @@ verification:
     - "Hot Springs: ANI says 10 CRPF personnel; kept as 'ten policemen' consistent with earlier preview."
 ---
 
-Union Home Minister Amit Shah paid tribute on Wednesday to the 36,852 police personnel who have died on duty since Independence, as 154 more names were added to the Wall of Valour at the National Police Memorial in New Delhi.
+Union Home Minister Amit Shah paid tribute on Wednesday to the **36,852 police personnel** who have died on duty since Independence, as 154 more names were added to the Wall of Valour at the National Police Memorial in New Delhi.
 
 The names of this year's martyrs were read out at the Police Commemoration Day ceremony by the Director of the Intelligence Bureau, before Shah reviewed a joint parade of the Central Armed Police Forces and Delhi Police and laid a wreath at the memorial in Chanakyapuri.
 

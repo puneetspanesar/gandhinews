@@ -42,19 +42,19 @@ verification:
     - "MCX closures for Friday's session and the $4,100 global figure (Trading Economics) are as cited by Goodreturns; Kothari quote paraphrased."
 ---
 
-Gold became a little cheaper for Dussehra shoppers on Tuesday. Retail jewellers cut the price of 24-carat gold by ₹870 to ₹1,47,170 per 10 grams in Mumbai, Chennai, Kolkata, Bengaluru and Hyderabad, after the metal touched a record and then turned lower in global markets.
+Gold became a little cheaper for Dussehra shoppers on Tuesday. Retail jewellers cut the price of 24-carat gold by **₹870** to ₹1,47,170 per 10 grams in Mumbai, Chennai, Kolkata, Bengaluru and Hyderabad, after the metal touched a record and then turned lower in global markets.
 
-The 22-carat rate, the one most buyers of jewellery pay, fell ₹800 to ₹1,34,900, and 18-carat gold dropped ₹650 to ₹1,10,380. Delhi was slightly dearer, with 24-carat gold at ₹1,47,320 and 22-carat at ₹1,35,050. Bhubaneswar quoted ₹1,48,050 for 24-carat.
+The 22-carat rate, the one most buyers of jewellery pay, fell **₹800** to ₹1,34,900, and 18-carat gold dropped ₹650 to ₹1,10,380. Delhi was slightly dearer, with 24-carat gold at ₹1,47,320 and 22-carat at ₹1,35,050. Bhubaneswar quoted ₹1,48,050 for 24-carat.
 
-Silver did not move. It stayed at ₹2,30,000 a kilogram in Delhi, Mumbai, Kolkata and Bengaluru and ₹2,40,000 in Chennai and Hyderabad.
+Silver did not move. It stayed at **₹2,30,000** a kilogram in Delhi, Mumbai, Kolkata and Bengaluru and ₹2,40,000 in Chennai and Hyderabad.
 
 ## No futures trading
 
-The Multi Commodity Exchange was shut for the festival, along with the stock exchanges, so there was no futures price for the day. In the last session, the December gold contract ended at ₹1,47,300 per 10 grams, down 0.42%, and December silver closed flat at ₹2,09,825 a kilogram.
+The Multi Commodity Exchange was shut for the festival, along with the stock exchanges, so there was no futures price for the day. In the last session, the December gold contract ended at **₹1,47,300** per 10 grams, down 0.42%, and December silver closed flat at ₹2,09,825 a kilogram.
 
 ## Pressure from abroad
 
-Overseas, gold fell towards $4,100 an ounce on Tuesday, a third straight session of losses. High oil prices have revived worries about inflation, and a firmer dollar and rising bond yields make a metal that pays no interest less attractive. Brent crude has been trading above $107 a barrel after attacks on shipping near the Strait of Hormuz, and the 10-year US Treasury yield is above 5.1%.
+Overseas, gold fell towards **$4,100 an ounce** on Tuesday, a third straight session of losses. High oil prices have revived worries about inflation, and a firmer dollar and rising bond yields make a metal that pays no interest less attractive. Brent crude has been trading above $107 a barrel after attacks on shipping near the Strait of Hormuz, and the 10-year US Treasury yield is above 5.1%.
 
 Silver had a worse week, sliding 6.3% to about $57 an ounce, its lowest in ten weeks.
 

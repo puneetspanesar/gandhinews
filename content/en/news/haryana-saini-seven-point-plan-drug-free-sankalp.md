@@ -38,7 +38,7 @@ verification:
 
 Haryana Chief Minister Nayab Singh Saini has laid out a seven-point plan to rid the state of drugs, and told the officials in charge that they will be judged on monthly results.
 
-Saini set out the plan while chairing the first meeting of the state's SANKALP Society. The seven goals are to make every police station area drug-free, break up trafficking networks at the district level, stop the sale of narcotic pills through chemist shops, bring families into the fight against addiction, make sure hospitals can treat addicts, strengthen awareness and counselling in schools, and open up more sport and other activities for young people.
+Saini set out the plan while chairing the first meeting of the state's SANKALP Society. The seven goals are to make **every police station area** drug-free, break up trafficking networks at the district level, stop the sale of narcotic pills through chemist shops, bring families into the fight against addiction, make sure hospitals can treat addicts, strengthen awareness and counselling in schools, and open up more sport and other activities for young people.
 
 He told police to establish where every seized consignment came from and to identify the networks supplying it, and to keep trafficking routes and supply chains under close watch, with effective investigation and legal action to follow.
 

@@ -61,10 +61,6 @@ Mahindra & Mahindra on Thursday reported a **12.85% rise in standalone net profi
 
 Revenue from operations **grew 27.1% to ₹42,477.42 crore**, a pace of growth more than twice that of profit. The results came on a day when the Sensex was in a sharp rally after the outcome of the US midterm elections and a fall in oil prices.
 
-```photo
-{"n":1,"subject":"Mahindra Scorpio N","caption":"The Scorpio N is one of the SUVs behind Mahindra's volume growth.","alt":"A Mahindra Scorpio N SUV"}
-```
-
 ## What the management said
 
 Group chief executive Anish Shah pointed to **25% growth in consolidated profit** after tax, a wider measure that takes in the group's other businesses.

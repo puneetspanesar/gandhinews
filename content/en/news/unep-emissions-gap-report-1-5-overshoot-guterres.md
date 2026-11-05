@@ -49,9 +49,9 @@ verification:
 
 The world can no longer avoid overshooting the 1.5C limit on global warming set in the Paris Agreement, the United Nations said on Wednesday, and will have to cut greenhouse gas emissions far faster than countries have promised if temperatures are to come back down by the end of the century.
 
-The UN Environment Programme's annual Emissions Gap Report says that in the best case still open, warming would peak at 1.7C to 1.8C around the middle of the century before falling back to 1.5C or below by 2100, with about a 50% chance of success. That path would need global emissions to fall 18% from 2025 levels by 2030, 45% by 2035 and 69% by 2040.
+The UN Environment Programme's annual Emissions Gap Report says that in the best case still open, warming would peak at 1.7C to 1.8C around the middle of the century before falling back to 1.5C or below by 2100, with about a **50%** chance of success. That path would need global emissions to fall 18% from 2025 levels by 2030, 45% by 2035 and 69% by 2040.
 
-National climate plans fall far short. Even if fully carried out, they would cut emissions by only 5% to 8% by 2030 and 11% to 15% by 2035. On current policies the world is heading for 2.8C of warming this century; if every national pledge were met, 2.6C.
+National climate plans fall far short. Even if fully carried out, they would cut emissions by only 5% to 8% by 2030 and 11% to 15% by 2035. On current policies the world is heading for **2.8C of warming** this century; if every national pledge were met, 2.6C.
 
 "Overshoot is not surrender," UN Secretary-General António Guterres said in a message with the report, urging governments to keep it "as small and as short as possible".
 
@@ -59,7 +59,7 @@ Inger Andersen, UNEP's executive director, said every extra fraction of a degree
 
 ## What it would take
 
-The report says the shares of coal, oil and gas in the world's energy supply would have to fall by at least 55%, 15% and 5% respectively by 2035, with methane emissions at least 25% lower. Getting back below 1.5C would also mean removing and permanently storing about 320 billion tonnes of carbon dioxide this century, roughly eight years of current emissions, an approach the authors say is uncertain.
+The report says the shares of coal, oil and gas in the world's energy supply would have to fall by at least **55%**, 15% and 5% respectively by 2035, with methane emissions at least 25% lower. Getting back below 1.5C would also mean removing and permanently storing about 320 billion tonnes of carbon dioxide this century, roughly eight years of current emissions, an approach the authors say is uncertain.
 
 There was some good news: global renewable capacity has grown about three times faster since 2015 than was expected at the time, and solar power about seven times faster.
 

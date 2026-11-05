@@ -57,7 +57,7 @@ Environment Minister Manjinder Singh Sirsa credited enforcement on the ground an
 
 ## What the government says it did
 
-The Environment Department released figures for the previous 24 hours to back the claim. Officials issued 9,883 challans to vehicles, mechanically swept 2,810 km of roads and sprinkled water over 1,075 km to keep dust down. They removed 12,702 tonnes of waste and 2,223 tonnes of construction and demolition debris, inspected 160 building sites and collected 168 tonnes of road dust.
+The Environment Department released figures for the previous 24 hours to back the claim. Officials issued 9,883 challans to vehicles, mechanically swept **2,810 km** of roads and sprinkled water over 1,075 km to keep dust down. They removed 12,702 tonnes of waste and 2,223 tonnes of construction and demolition debris, inspected 160 building sites and collected 168 tonnes of road dust.
 
 Sirsa also pointed to Friday's numbers. The AQI on October 23 was 230 this year, against 305 on the same date in 2025 and 364 in 2024.
 
@@ -67,12 +67,12 @@ The citywide average hid dirtier pockets. During the day, Jahangirpuri recorded 
 
 Across the wider region, the air was worse in western Uttar Pradesh. Baraut recorded 339, in the "very poor" band, with Meerut at 318 and Gajraula at 298. Baghpat and Sonipat were close to 270.
 
-Before this week, Delhi and the National Capital Region had gone 99 days in a row, from July 14 to October 20, without a single "poor" day, the longest such stretch since AQI monitoring began in 2015. Wednesday, at 245, broke it.
+Before this week, Delhi and the National Capital Region had gone **99 days** in a row, from July 14 to October 20, without a single "poor" day, the longest such stretch since AQI monitoring began in 2015. Wednesday, at 245, broke it.
 
 ## Harder months ahead
 
 Anil K Gupta, a member of the CPCB board, said the authorities were taking preventive steps and that better control of road dust had helped this year. He warned, though, that November and December could prove harder, when cooler temperatures and moisture tend to trap pollutants close to the ground.
 
-The weather offered no immediate change. Safdarjung recorded a minimum of 18.3°C on Saturday, 1.1 degrees above normal, and a maximum of 32.9°C. Ayanagar was the coldest spot at 17°C.
+The weather offered no immediate change. Safdarjung recorded a minimum of 18.3°C on Saturday, **1.1 degrees** above normal, and a maximum of 32.9°C. Ayanagar was the coldest spot at 17°C.
 
 The India Meteorological Department expects partly cloudy skies for the next few days. Saturday's improvement owed much to stronger daytime winds, which helped disperse pollutants.

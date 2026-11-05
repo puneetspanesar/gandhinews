@@ -37,7 +37,7 @@ verification:
     - "No shrine-wise breakdown or previous-year figure given; record claim attributed to Dhami."
 ---
 
-More than 60 lakh pilgrims have made the Char Dham Yatra in Uttarakhand this year, the highest number ever, Chief Minister Pushkar Singh Dhami said in Dehradun on Friday.
+More than **60 lakh pilgrims** have made the Char Dham Yatra in Uttarakhand this year, the highest number ever, Chief Minister Pushkar Singh Dhami said in Dehradun on Friday.
 
 "So far, 60 lakh pilgrims have undertaken the Char Dham Yatra, and the pilgrimage is still ongoing," Dhami said. He said the figure was higher than in any earlier year, and that turnout had been strong both in the opening weeks and in the season after the monsoon.
 

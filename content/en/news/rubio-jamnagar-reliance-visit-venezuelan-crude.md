@@ -5,7 +5,7 @@ type: news
 section: policy
 format_label: "Policy / Energy"
 topics: []
-title: "Rubio visits Reliance's Jamnagar refinery today with Venezuelan oil on the table"
+title: "Rubio visits Reliance's Jamnagar refinery on October 21 with Venezuelan oil on the table"
 standfirst: "The US Secretary of State says Washington will talk to Reliance Industries about refining more Venezuelan crude and producing oil in Venezuela, as he tours the world's largest refining complex."
 published: 2026-10-21T05:35:00+05:30
 location: Jamnagar
@@ -52,7 +52,7 @@ verification:
 
 US Secretary of State Marco Rubio heads to Gujarat on Wednesday to tour Reliance Industries' refinery complex at Jamnagar, the world's largest, on the second day of his India visit, with Venezuelan oil high on his list.
 
-Rubio told journalists as he began the trip that Washington would discuss with Reliance refining more Venezuelan crude, and also producing oil in Venezuela itself. He called India a refining superpower able to handle heavy crude, and pointed to existing Indian oil interests in Venezuela as a base from which output could be raised.
+Rubio told journalists as he began the trip that Washington would discuss with Reliance **refining more Venezuelan crude**, and also producing oil in Venezuela itself. He called India a refining superpower able to handle heavy crude, and pointed to existing Indian oil interests in Venezuela as a base from which output could be raised.
 
 The State Department said he would also meet business leaders. The Ambani family is hosting the Jamnagar leg, which includes a visit to the Vantara animal facility, and officials have described the programme as a "private visit".
 

@@ -70,7 +70,7 @@ Saudi Arabia's General Authority of Civil Aviation said one resident was killed 
 
 On Tuesday, the energy ministry said air defences had stopped a drone aimed at the Shaybah oilfield, but falling debris killed two workers, a Filipino and a Nepali, and injured two more. The ministry did not say who launched the drone.
 
-The attacks follow the strike on Riyadh's King Khalid International Airport on October 10, which killed at least 12 people, among them an Indian national and an American, and injured more than 300. The Riyadh airport partly reopened on Wednesday for Saudia and flynas flights, but Lufthansa and Air France have cancelled flights there until mid-November.
+The attacks follow the strike on Riyadh's King Khalid International Airport on October 10, which killed at least **12 people**, among them an Indian national and an American, and injured more than 300. The Riyadh airport partly reopened on Wednesday for Saudia and flynas flights, but Lufthansa and Air France have cancelled flights there until mid-November.
 
 ## Trump keeps options open
 

@@ -49,13 +49,13 @@ verification:
     - "Oct 8 no-coercive-steps order and Oct 9 coordinate bench stay: Bar & Bench."
 ---
 
-The Karnataka High Court on Tuesday stayed the police investigation against BJP leader Ravi Patil and two of his supporters, who are accused of trying to have the names of 198 Muslim voters struck off the electoral rolls in Belagavi during the Special Intensive Revision (SIR).
+The Karnataka High Court on Tuesday stayed the police investigation against BJP leader Ravi Patil and two of his supporters, who are accused of trying to have the names of **198 Muslim voters** struck off the electoral rolls in Belagavi during the Special Intensive Revision (SIR).
 
 Justice Venkatesh Naik T said the facts were close to those in cases where another bench of the court had already stopped investigations. "The perusal of the aforesaid order and the facts and circumstances involved in the present case are similar," he noted, and stayed the probe until the next hearing on October 29 as a matter of judicial discipline. The state is free to ask for the order to be changed or lifted.
 
 ## The allegation
 
-The FIR, registered at Belagavi Market police station on a complaint by booth level agent Meerasab Sanadi, accuses Patil, the two supporters and 20 to 25 others of conspiring to target Muslim voters in the Belagavi North constituency. They are alleged to have filed Form 7 applications, used to seek the deletion of names from the roll, against 198 voters, backed by documents falsely presented as issued by the electoral registration officer.
+The FIR, registered at Belagavi Market police station on a complaint by booth level agent Meerasab Sanadi, accuses Patil, the two supporters and 20 to 25 others of conspiring to target **Muslim voters** in the Belagavi North constituency. They are alleged to have filed Form 7 applications, used to seek the deletion of names from the roll, against 198 voters, backed by documents falsely presented as issued by the electoral registration officer.
 
 Sanadi alleges that the applications included his own name and those of his family.
 

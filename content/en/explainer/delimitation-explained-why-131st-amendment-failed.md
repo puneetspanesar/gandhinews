@@ -69,17 +69,17 @@ verification:
 
 ## What did the 131st Amendment Bill propose?
 
-**It would have raised the Lok Sabha's maximum size from 550 to 850 and let Parliament decide by law when to hold delimitation and which census to use.** Up to 815 seats would have gone to states and up to 35 to Union Territories, according to PRS. PRS notes that Parliament could have made these decisions by a simple majority. A companion Delimitation Bill would have set up a commission chaired by a serving or former Supreme Court judge, with the Chief Election Commissioner or a nominee and the state election commissioner, to redraw seats on the 2011 census, LiveLaw reported. All three bills, including a Union Territories Laws (Amendment) Bill, were introduced on April 16, 2026.
+**It would have raised the Lok Sabha's maximum size from 550 to 850 and let Parliament decide by law when to hold delimitation and which census to use.** Up to 815 seats would have gone to states and up to 35 to Union Territories, according to PRS. PRS notes that Parliament could have made these decisions by a simple majority. A companion Delimitation Bill would have set up a commission chaired by a serving or former Supreme Court judge, with the Chief Election Commissioner or a nominee and the state election commissioner, to redraw seats on the 2011 census. All three bills, including a Union Territories Laws (Amendment) Bill, were introduced on April 16, 2026.
 
 ## How was it linked to women's reservation?
 
-**The bill would have let one-third reservation for women take effect right after a fresh delimitation.** The Constitution (106th Amendment) Act, 2023 reserves one-third of seats in the Lok Sabha and assemblies for women, but only after delimitation based on the first census taken after the Act. The Centre notified the 2023 Act on April 16, 2026, LiveLaw reported, but under the Act the reservation itself still waits on delimitation. PRS notes that the current census has a reference date of March 1, 2027, and that delimitation on it is unlikely to be finished before the 2029 Lok Sabha election.
+**The bill would have let one-third reservation for women take effect right after a fresh delimitation.** The Constitution (106th Amendment) Act, 2023 reserves one-third of seats in the Lok Sabha and assemblies for women, but only after delimitation based on the first census taken after the Act. The Centre notified the 2023 Act on April 16, 2026, but under the Act the reservation itself still waits on delimitation. PRS notes that the current census has a reference date of March 1, 2027, and that delimitation on it is unlikely to be finished before the 2029 Lok Sabha election.
 
 ## Why did it fail?
 
-**It did not get the two-thirds of members present and voting that a constitutional amendment needs.** On April 17, 2026, the Lok Sabha voted 298 for and 230 against. With 528 members voting, 352 votes were needed. South First reported it was "the first Bill to be defeated in the Lok Sabha during the 12 years of the Narendra Modi government". Union minister Kiren Rijiju then withdrew the Delimitation Bill and the Union Territories bill.
+**It did not get the two-thirds of members present and voting that a constitutional amendment needs.** On April 17, 2026, the Lok Sabha voted 298 for and 230 against. With 528 members voting, 352 votes were needed. It was the first Bill to be defeated in the Lok Sabha in the 12 years of the Narendra Modi government. Union minister Kiren Rijiju then withdrew the Delimitation Bill and the Union Territories bill.
 
-Opposition parties argued that redrawing seats on the 2011 census would cut the share of southern and north-eastern states, and questioned the timing while a new census was under way, LiveLaw reported. Most parties said they supported women's reservation itself.
+Opposition parties argued that redrawing seats on the 2011 census would cut the share of southern and north-eastern states, and questioned the timing while a new census was under way. Most parties said they supported women's reservation itself.
 
 ## Which states would have gained or lost?
 
@@ -93,7 +93,7 @@ PRS also flagged that a larger Lok Sabha would change its ratio to the Rajya Sab
 
 ## What happens now?
 
-**As of October 2026 the freeze stands: the next readjustment is tied to the first census published after 2026, which is the census now under way.** The Tribune reported on September 1 that the government was considering a special session from September 18 to 20 for a reworked bill, possibly with safeguards for states' seat shares. No such session was reported to have been held, and no revised bill had been reported as of October 11. The Monsoon Session was adjourned sine die on August 13 but, unusually, had not been prorogued, Business Standard reported, which leaves the government free to recall Parliament.
+**As of October 2026 the freeze stands: the next readjustment is tied to the first census published after 2026, which is the census now under way.** On September 1 the government was reported to be considering a special session from September 18 to 20 for a reworked bill, possibly with safeguards for states' seat shares. No such session was reported to have been held, and no revised bill had been reported as of October 11. The Monsoon Session was adjourned sine die on August 13 but, unusually, had not been prorogued, which leaves the government free to recall Parliament.
 
 ```timeline
 {"title":"Delimitation milestones","items":[{"date":"1976","text":"42nd Amendment freezes state seat totals on the 1971 census until after 2000."},{"date":"2001","text":"84th Amendment extends the freeze until the first census after 2026."},{"date":"2002-2008","text":"Last Delimitation Commission redraws boundaries within states."},{"date":"2023","text":"106th Amendment reserves one-third of seats for women, after the next delimitation."},{"date":"Apr 16, 2026","text":"131st Amendment, Delimitation and UT bills introduced."},{"date":"Apr 17, 2026","text":"Lok Sabha vote: 298 for, 230 against; amendment fails, companion bills withdrawn."},{"date":"Mar 1, 2027","text":"Reference date for most of Census 2027."}]}

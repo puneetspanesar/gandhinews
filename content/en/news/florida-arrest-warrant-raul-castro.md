@@ -47,7 +47,7 @@ verification:
     - "Federal indictment: WUSF links a May 2026 report."
 ---
 
-Florida has charged Raúl Castro, the 95-year-old former leader of Cuba, with conspiracy to commit first-degree murder and secured a state warrant for his arrest over the shooting down of two civilian planes three decades ago.
+Florida has charged Raúl Castro, the 95-year-old former leader of Cuba, with **conspiracy to commit first-degree murder** and secured a state warrant for his arrest over the shooting down of two civilian planes three decades ago.
 
 Attorney General James Uthmeier announced the charge at Florida International University in Miami on Monday. He said the evidence shows Castro ordered the Cuban military in 1996 to shoot down two planes that had taken off from South Florida, killing four men. They belonged to Brothers to the Rescue, a Miami-based group that flew over the sea searching for Cuban migrants.
 

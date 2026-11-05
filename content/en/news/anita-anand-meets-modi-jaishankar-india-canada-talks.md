@@ -72,9 +72,9 @@ Anand, on a working visit to New Delhi, also held talks with External Affairs Mi
 
 According to the Prime Minister's Office, Modi and Anand discussed trade, science and technology, defence, security, energy, education and links between the two peoples, and exchanged views on regional and global developments. Modi stressed converting the momentum in ties into concrete outcomes, including an early conclusion of negotiations on the Comprehensive Economic Partnership Agreement (CEPA). He also sent his best wishes to Prime Minister Mark Carney, with whom he had spoken by phone a day earlier.
 
-Ministry of External Affairs spokesperson Randhir Jaiswal said the fifth round of CEPA negotiations was held in Ottawa about a week ago and that both sides remain committed to a "mutually beneficial CEPA". Officials on both sides have set the end of 2026 as the target to close the deal. Carney's office has said the two leaders want to support a doubling of two-way trade by 2030.
+Ministry of External Affairs spokesperson Randhir Jaiswal said the fifth round of CEPA negotiations was held in Ottawa about a week ago and that both sides remain committed to a "mutually beneficial CEPA". Officials on both sides have set the **end of 2026** as the target to close the deal. Carney's office has said the two leaders want to support a doubling of two-way trade by 2030.
 
-Commerce Minister Piyush Goyal was also reported to have met Canada's International Trade Minister Maninder Sidhu, who is leading a business delegation of about 300 people to India.
+Commerce Minister Piyush Goyal was also reported to have met Canada's International Trade Minister Maninder Sidhu, who is leading a business delegation of about **300 people** to India.
 
 ## Talks with Jaishankar
 

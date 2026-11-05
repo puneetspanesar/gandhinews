@@ -45,4 +45,4 @@ Rana Mudassar Umar, the petitioner's lawyer, told the court that the 30-day dete
 
 The sisters were picked up as Imran Khan's Pakistan Tehreek-e-Insaf (PTI) tried to rally supporters for protests demanding his release. Khan, 74, the former cricket captain, has been in prison since 2023 and faces more than 100 cases, including corruption and incitement charges. He is held at Adiala jail in Rawalpindi.
 
-The case comes amid a wider crackdown on the party. This month the government imposed emergency and governor's rule in Khyber Pakhtunkhwa, suspending the provincial government run by Khan's party and detaining its chief minister, Sohail Afridi, and other leaders. The PTI calls the cases against Khan politically motivated; the government says the law is taking its course.
+The case is part of a wider crackdown on the party. This month the government imposed emergency and governor's rule in Khyber Pakhtunkhwa, suspending the provincial government run by Khan's party and detaining its chief minister, Sohail Afridi, and other leaders. The PTI calls the cases against Khan politically motivated; the government says the law is taking its course.

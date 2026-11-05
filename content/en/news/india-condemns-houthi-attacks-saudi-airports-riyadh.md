@@ -89,7 +89,7 @@ verification:
     - "Independent fact-check Oct 11: headline and SEO description no longer say 'Houthi attacks', because the MEA statement (DD India) names no attacker and the Houthis have not claimed Saturday's strike. Cut the line that UN Secretary-General Guterres condemned the attack: it is in none of the cited sources and no report of it was found. Other figures, quotes and flight details re-checked and found to match."
 ---
 
-India on Sunday condemned repeated attacks on King Khalid International Airport in Riyadh, a day after a strike there killed 12 people and injured 309, according to Saudi Arabia's General Authority of Civil Aviation (GACA). It was the third attack on the airport in a week and the deadliest in the kingdom in more than a decade.
+India on Sunday condemned repeated attacks on King Khalid International Airport in Riyadh, a day after a strike there **killed 12 people and injured 309**, according to Saudi Arabia's General Authority of Civil Aviation (GACA). It was the third attack on the airport in a week and the deadliest in the kingdom in more than a decade.
 
 No Indian was among the dead. Four of those killed were Saudi citizens. The eight foreigners were two Bangladeshis and one person each from the US, Egypt, Jordan, Syria, Palestine and Sudan.
 
@@ -121,7 +121,7 @@ Air India Express is offering free rescheduling or a full refund. After Saturday
 
 ## How the attacks escalated
 
-GACA said attacks on Abha and Riyadh airports on October 6 and 7 killed three people and injured 36. The Houthis said they fired a ballistic missile at the Riyadh airport on October 8. GACA said a Saudia pilot, Captain Hamoud Ali Alkalthami, and two other Saudi citizens were killed. The Houthis said the strikes were retaliation for Saudi attacks on the airports in Sanaa and Hodeidah.
+GACA said attacks on Abha and Riyadh airports on October 6 and 7 killed three **people and injured** 36. The Houthis said they fired a ballistic missile at the Riyadh airport on October 8. GACA said a Saudia pilot, Captain Hamoud Ali Alkalthami, and two other Saudi citizens were killed. The Houthis said the strikes were retaliation for Saudi attacks on the airports in Sanaa and Hodeidah.
 
 The Houthis have not claimed Saturday's attack. On Sunday they renewed their warning in a post on X: "We renew our warning to all airlines, experts, employees, workers and travellers against using Saudi airports and airspace." They excluded Mecca and Medina.
 

@@ -5,7 +5,7 @@ type: news
 section: politics
 format_label: "Politics / Tamil Nadu"
 topics: []
-title: "Seeman's NTK to protest outside every Tamil Nadu collectorate on Saturday over arrest of its Dharapuram candidate"
+title: "Seeman's NTK to protest outside every Tamil Nadu collectorate on October 24 over arrest of its Dharapuram candidate"
 standfirst: "Naam Tamilar Katchi says the cases against M Karthiga, its Dharapuram candidate, and party colleagues are false. Police booked them over a banner, a police station gathering and the disruption of Chief Minister Vijay's roadshow."
 published: 2026-10-23T21:30:00+05:30
 location: Chennai
@@ -46,6 +46,6 @@ The cases go back to the start of the month. On October 2 police booked two NTK 
 
 Two days later, on October 4, police filed a case against Karthiga and 57 others for allegedly disrupting a roadshow by Chief Minister Vijay without permission. Separate cases were registered for allegedly abusing police officers and for allegedly assaulting a man wearing a TVK scarf and his wife.
 
-Karthiga was also reported to have been held over a road blockade during Vijay's campaign. A court remanded all 12 accused to 15 days of judicial custody and ordered them lodged in Coimbatore Central Prison.
+Karthiga was also reported to have been held over a road blockade during Vijay's campaign. A court remanded all **12 accused** to 15 days of judicial custody and ordered them lodged in Coimbatore Central Prison.
 
 The party's call is for protests in front of the collectorates in every district on the same day; it has not said how many cadres it expects. Neither the police nor the ruling TVK had responded to the party's charge of false cases.

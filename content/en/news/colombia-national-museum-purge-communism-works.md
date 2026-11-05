@@ -40,9 +40,9 @@ verification:
     - "From AP (Astrid Suárez, 2:08 pm PDT Oct 21). Exact number of exhibits and specific works not given; Indigenous leader honoured by renamed courtyard not named. Al Jazeera headline only."
 ---
 
-Colombia's President Abelardo de la Espriella has had dozens of exhibits removed from the National Museum in Bogotá, in what he calls a cultural "counterrevolution" against what he describes as "atheist social communism".
+Colombia's President Abelardo de la Espriella has had **dozens of exhibits** removed from the National Museum in Bogotá, in what he calls a cultural "counterrevolution" against what he describes as "atheist social communism".
 
-The displays taken down dealt with the history of the country's social movements, including feminist and LGBTQ+ activism, and with Colombia's long years of political violence. Culture Minister Paola Holguín said the government was also reviewing and redesigning exhibitions and curatorial practice at other museums run by her ministry. Separately, the Foreign Ministry has renamed a courtyard that had honoured an Indigenous leader.
+The displays taken down dealt with the history of the country's social movements, including feminist and LGBTQ+ activism, and with Colombia's long years of political violence. Culture Minister Paola Holguín said the government was also reviewing and redesigning exhibitions and curatorial practice at **other museums** run by her ministry. Separately, the Foreign Ministry has renamed a courtyard that had honoured an Indigenous leader.
 
 On Wednesday, dozens of protesters gathered outside the museum as riot police guarded its doors. Artists, students and civil rights groups accuse the government of censorship.
 

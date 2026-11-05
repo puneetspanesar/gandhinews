@@ -67,7 +67,7 @@ The Houthis claimed the attack, saying they had hit a "Saudi-backed" base. Their
 
 The rebels also claimed six attacks on oil installations, airports and military sites across Saudi Arabia, including eastern facilities and Riyadh's international airport, without saying when they took place. Saudi authorities sent alerts to Riyadh residents warning of "a hostile aerial threat" on Monday, and civil defence officials reported no immediate casualties or damage.
 
-Saudi Arabia has cancelled a global investment conference planned for next week that had been expected to draw Wall Street executives, a sign of how deeply the conflict is now reaching the kingdom's economic plans.
+Saudi Arabia has **cancelled a global investment conference** planned for next week that had been expected to draw Wall Street executives, a sign of how deeply the conflict is now reaching the kingdom's economic plans.
 
 The fighting has widened fast. In September the Houthis seized strategic ground on the Red Sea coast near the Bab el-Mandeb strait, and government forces backed by Saudi Arabia have since launched a counteroffensive aimed at retaking Houthi-held territory, including Sanaa. On Sunday the Houthi-run health ministry blamed Saudi-led forces for an air strike in Saada that killed at least nine people, five of them children.
 

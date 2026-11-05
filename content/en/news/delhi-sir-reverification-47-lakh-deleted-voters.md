@@ -48,13 +48,13 @@ verification:
     - "Delhi CEO office at Old St. Stephen's College building, Kashmere Gate: photo suggestion only, not stated in copy."
 ---
 
-Election officials in Delhi have begun rechecking more than 47 lakh voters who were left out of the draft electoral rolls in the Special Intensive Revision (SIR), Chief Electoral Officer Ashok Kumar said on Friday.
+Election officials in Delhi have begun rechecking more than **47 lakh voters** who were left out of the draft electoral rolls in the Special Intensive Revision (SIR), Chief Electoral Officer Ashok Kumar said on Friday.
 
-The draft rolls, published on August 31, dropped 47.56 lakh of the capital's 1.45 crore voters as ASDD cases, the shorthand for electors found absent, shifted, dead or duplicated. Complaints followed that some voters who were alive, and some still living at their registered addresses, had been struck off.
+The draft rolls, published on August 31, dropped **47.56 lakh** of the capital's 1.45 crore voters as ASDD cases, the shorthand for electors found absent, shifted, dead or duplicated. Complaints followed that some voters who were alive, and some still living at their registered addresses, had been struck off.
 
 Booth-level officers across Delhi's 70 Assembly constituencies "have been directed to reverify the voters whose names were not in the draft rolls", Kumar said. They have also been told not to reject cases out of hand where a voter's details contain minor errors.
 
-A second, separate pile of cases is also being worked through. Of the 97.53 lakh voters who did make the draft rolls, 33.12 lakh were sent notices over what officials call logical discrepancies, such as mistakes in personal details or a failure to map the voter to the rolls of the last SIR in 2002. About 25 lakh of those cases have been settled, and Kumar said all of them would be resolved by October 30.
+A second, separate pile of cases is also being worked through. Of the 97.53 lakh voters who did make the draft rolls, **33.12 lakh** were sent notices over what officials call logical discrepancies, such as mistakes in personal details or a failure to map the voter to the rolls of the last SIR in 2002. About 25 lakh of those cases have been settled, and Kumar said all of them would be resolved by October 30.
 
 The final rolls are due on December 4. People whose names are missing from the draft can apply for inclusion using Form 6.
 

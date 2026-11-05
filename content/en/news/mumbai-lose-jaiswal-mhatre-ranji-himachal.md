@@ -46,13 +46,13 @@ verification:
 
 Mumbai will go into their second Ranji Trophy match, against Himachal Pradesh from October 18, without two of their top-order batters.
 
-Yashasvi Jaiswal is set to leave the squad to join India A for their tour of New Zealand, which includes a two-match Test series in November. Ayush Mhatre, named vice-captain for the season earlier this month, has a Grade 4 tear in his right hamstring and is expected to be out for four to six weeks.
+Yashasvi Jaiswal is set to leave the squad to join India A for their tour of New Zealand, which includes a two-match Test series in November. Ayush Mhatre, named vice-captain for the season earlier this month, has a **Grade 4** tear in his right hamstring and is expected to be out for four to six weeks.
 
 Mhatre was hurt while running between the wickets on the first day of Mumbai's opening game against Chandigarh at the Wankhede Stadium. It is a hard blow for the young opener, who had only just come back from a hamstring injury picked up during IPL 2026.
 
 Mumbai have brought in Suryansh Shedge for Jaiswal and Angkrish Raghuvanshi for Mhatre. Raghuvanshi is expected to open with Divyaansh Saxena.
 
-The changes come after an emphatic start. Mumbai beat Chandigarh by an innings and 155 runs inside three days, making 429 and then bowling them out for 78 and 196. Tushar Deshpande took 5 for 17, including a hat-trick. The win gave Mumbai seven points and the lead in their group.
+The changes come after an emphatic start. Mumbai beat Chandigarh by an innings and **155 runs** inside three days, making 429 and then bowling them out for 78 and 196. Tushar Deshpande took 5 for 17, including a hat-trick. The win gave Mumbai seven points and the lead in their group.
 
 Siddhesh Lad captained the side in the first round. Mumbai's squad for the season did not include Suryakumar Yadav, who had made himself available, and Shardul Thakur is out of the opening phase with a hand injury.
 

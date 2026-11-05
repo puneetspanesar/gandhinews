@@ -49,9 +49,9 @@ verification:
     - "Published time estimated: Sindhu match finished mid-afternoon IST; semi-final line-up settled later in the evening."
 ---
 
-P V Sindhu is into the semi-finals of the French Open after a performance of real authority in Paris on Friday. The Indian beat Chiu Pin-chian of Chinese Taipei 21-13, 21-14 in 39 minutes at Arena Grand Paris, and will play Japan's Hina Akechi for a place in the final.
+P V Sindhu is into the semi-finals of the French Open after a performance of real authority in Paris on Friday. The Indian beat Chiu Pin-chian of Chinese Taipei **21-13, 21-14 in 39 minutes** at Arena Grand Paris, and will play Japan's Hina Akechi for a place in the final.
 
-India's other quarter-finalist could not follow her. Ashmita Chaliha, a day after the biggest win of her career, went down in three games to Japan's Nozomi Okuhara, 10-21, 21-17, 16-21.
+India's other quarter-finalist could not follow her. Ashmita Chaliha, a day after the biggest win of her career, went down in three games to Japan's Nozomi Okuhara, **10-21, 21-17, 16-21**.
 
 That leaves Sindhu as India's last player standing at the Super 750 event.
 

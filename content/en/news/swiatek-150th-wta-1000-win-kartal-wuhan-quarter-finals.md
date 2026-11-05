@@ -41,11 +41,11 @@ verification:
     - "WTA confirms Swiatek-Krueger was Thursday and Chwalinska-Sakkari is Friday; the other last-16 matches are assumed to be Thursday's (WTA 1000 schedule) but copy dates only Swiatek's."
 ---
 
-Iga Swiatek reached the quarter-finals of the Wuhan Open on Thursday with a 6-1, 6-4 win over Ashlyn Krueger, the 150th match win of her career at WTA 1000 level.
+Iga Swiatek reached the quarter-finals of the Wuhan Open on Thursday with a 6-1, 6-4 win over Ashlyn Krueger, the 150th match win of her career at **WTA 1000** level.
 
 The Pole, seeded seventh, raced through the first set and was made to work harder in the second, but has still not dropped a set this week. According to the statistics service OptaAce, only seven players have reached 150 WTA 1000 wins since 2009, and Swiatek got there in the fewest matches, 187.
 
-She is one of the few big names left in a draw that has lost Aryna Sabalenka, Jessica Pegula and Karolina Muchova. Her next opponent is Ann Li, who beat Sabalenka 3-6, 6-4, 7-6(5) after saving 10 match points, and then beat Janice Tjen in straight sets.
+She is one of the few big names left in a draw that has lost Aryna Sabalenka, Jessica Pegula and Karolina Muchova. Her next opponent is Ann Li, who beat Sabalenka 3-6, 6-4, 7-6(5) after saving **10 match points**, and then beat Janice Tjen in straight sets.
 
 > "I think on some of those match points I was about to lose my mind."
 >

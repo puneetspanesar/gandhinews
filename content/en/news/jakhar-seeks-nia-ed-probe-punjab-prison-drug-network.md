@@ -49,7 +49,7 @@ The letter follows the killing on Tuesday of Parvinder Singh Jhota, an anti-drug
 
 ## The drug inspector case
 
-Jakhar pointed to a drug inspector once posted in Mansa who was arrested in 2024. Police then found ₹7.09 crore in 24 bank accounts, two bank lockers, ₹1.49 crore in cash, 260 grams of gold, foreign currency and property worth ₹2.40 crore, he wrote. He said the state police chief had called the inspector a kingpin of a prison-based gang.
+Jakhar pointed to a drug inspector once posted in Mansa who was arrested in 2024. Police then found **₹7.09 crore** in 24 bank accounts, two bank lockers, ₹1.49 crore in cash, 260 grams of gold, foreign currency and property worth ₹2.40 crore, he wrote. He said the state police chief had called the inspector a kingpin of a prison-based gang.
 
 The state government neither sought an NIA probe nor referred the case to the ED, Jakhar said. Instead, after the inspector got bail, "the Aam Aadmi Party government not only reinstated him but also appointed him" to a post at his department's headquarters. Jakhar said the inspector had become a source of "illicit income" for the government and called for action against "drug trade operating from prisons under government patronage."
 

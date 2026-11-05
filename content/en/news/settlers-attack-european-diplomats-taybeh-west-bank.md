@@ -58,9 +58,9 @@ Video filmed by the activist Amit Orfali shows masked men demanding to see ident
 
 ## Paris demands arrests
 
-The mayor, Bernard Baudoux, said the attack showed that Israel's government tolerated settler violence. French Foreign Minister Jean-Noël Barrot wrote that the settlers had "violently assaulted" Baudoux and called on Israel to arrest the "extremist settlers" and bring them to justice.
+The mayor, **Bernard Baudoux**, said the attack showed that Israel's government tolerated settler violence. French Foreign Minister Jean-Noël Barrot wrote that the settlers had "violently assaulted" Baudoux and called on Israel to arrest the "extremist settlers" and bring them to justice.
 
-Israeli police said they had opened an investigation. Prime Minister Benjamin Netanyahu's office described the reports as "alleged" and said they required "compelling evidence", while acknowledging that footage had been published.
+Israeli police said they had **opened an investigation**. Prime Minister Benjamin Netanyahu's office described the reports as "alleged" and said they required "compelling evidence", while acknowledging that footage had been published.
 
 The attack comes a day after settlers assaulted an American photojournalist north of Ramallah, an incident Netanyahu said was under investigation and which led the US ambassador to urge Israel to prosecute those responsible.
 

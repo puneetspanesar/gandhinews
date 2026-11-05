@@ -39,7 +39,7 @@ verification:
 
 Albanian police fired rubber bullets, tear gas and water cannon at protesters near Prime Minister Edi Rama's office in central Tirana on Saturday, the fifth straight day of demonstrations led by students. It was the first time police had used rubber bullets since the unrest began.
 
-National police chief Skender Hita confirmed their use and said they had been fired "in a limited manner". He said 167 people had been arrested and 132 officers injured over the five days. Seven officers have been suspended while allegations that they exceeded their powers are investigated.
+National police chief Skender Hita confirmed their use and said they had been fired "in a limited manner". He said **167 people** had been arrested and 132 officers injured over the five days. Seven officers have been suspended while allegations that they exceeded their powers are investigated.
 
 The health ministry said nine protesters and four police officers were treated on Saturday. Protesters threw stones, petrol bombs and fireworks, set cars and bins alight and built burning barricades. In the port city of Durrës, a post office was damaged and roads were blocked.
 
@@ -49,4 +49,4 @@ The health ministry said nine protesters and four police officers were treated o
 
 The protests began over steep university fees, poor facilities and a shortage of jobs for graduates, and have grown into wider anger over alleged corruption. They have merged with the Flamingo movement, which started out opposing a luxury tourism project on the southern coast linked to an investment company founded by Jared Kushner, US President Donald Trump's son-in-law. The movement now wants Rama to go.
 
-Rama, in his fourth term, has refused to resign. On Saturday he visited businesses damaged in the unrest, promised to listen to students and protect their right to protest, and warned against further destruction. He accused his conservative opponents of encouraging the violence, without naming anyone.
+Rama, in his fourth term, has **refused to resign**. On Saturday he visited businesses damaged in the unrest, promised to listen to students and protect their right to protest, and warned against further destruction. He accused his conservative opponents of encouraging the violence, without naming anyone.

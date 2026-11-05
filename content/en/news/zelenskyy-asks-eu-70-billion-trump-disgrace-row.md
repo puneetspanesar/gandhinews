@@ -56,7 +56,7 @@ Volodymyr Zelenskyy told European Union leaders in Brussels on Friday that Ukrai
 
 "The war will cost €155 billion next year," the Ukrainian president told the 27 leaders. He said Ukraine needed "at least €70 billion more" from them for defence, weapons and the resilience of the country through another winter of Russian attacks.
 
-The request goes well beyond what Brussels has budgeted. The EU has already approved a €90 billion loan covering 2026 and 2027, and plans to pay out €45 billion of it next year. The European Commission has not endorsed Kyiv's figure.
+The request goes well beyond what Brussels has budgeted. The EU has already approved a €**90 billion** loan covering 2026 and 2027, and plans to pay out €45 billion of it next year. The European Commission has not endorsed Kyiv's figure.
 
 ## A winter package
 
@@ -68,13 +68,13 @@ EU leaders lined up to say there would be no softening towards Moscow. "This is 
 
 ## Trump's attack
 
-The meetings came hours after Trump, in an interview with Newsmax, turned on the Ukrainian leader again. "Zelensky is not a good guy for us to deal with," he said. "I think I find Zelensky to be more difficult to deal with than Putin." He also called Ukraine's drone strikes on Russian oil refineries a "disgrace", and has said Ukraine should get a new president.
+The meetings came hours after Trump, in a television interview, turned on the Ukrainian leader again. "Zelensky is not a good guy for us to deal with," he said. "I think I find Zelensky to be more difficult to deal with than Putin." He also called Ukraine's drone strikes on Russian oil refineries a "disgrace", and has said Ukraine should get a new president.
 
 Zelenskyy, who ended Kyiv's pause on refinery strikes this week, pushed back on the diesel supply arrangement Washington struck with Moscow. He called it "an arrangement we were unaware of" and said: "we cannot accept these diesel deals, these agreements, because gas deals will follow."
 
 ## Frozen assets and Hungary
 
-The old argument over about €210 billion in Russian central bank assets frozen in the EU resurfaced. Zelenskyy urged leaders to act before Moscow could claw them back. "The main priority is that Russia doesn't have the opportunity to influence later on the discussion on these assets," he said.
+The old argument over about €**210 billion** in Russian central bank assets frozen in the EU resurfaced. Zelenskyy urged leaders to act before Moscow could claw them back. "The main priority is that Russia doesn't have the opportunity to influence later on the discussion on these assets," he said.
 
 Latvian Prime Minister Andris Kulbergs was blunt: "The frozen assets are there. That's what should be used to support Ukraine. Simple." Danish Prime Minister Mette Frederiksen called it "one of the best solutions we have right in front of us." Belgium, which holds most of the assets, remains opposed.
 

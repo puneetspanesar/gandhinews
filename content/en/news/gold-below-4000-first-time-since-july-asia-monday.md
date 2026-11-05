@@ -46,13 +46,13 @@ verification:
 
 Gold stayed below $4,000 an ounce in early Asian trade on Monday, a level it had not been under since July, as investors braced for a week of central bank decisions and grew more certain that US interest rates are heading higher.
 
-The metal was flat at $3,996 an ounce by 4:55 am IST. It had closed near $4,166 on October 16, which puts its fall over ten days at about $170.
+The metal was flat at **$3,996 an ounce** by 4:55 am IST. It had closed near $4,166 on October 16, which puts its fall over ten days at about $170.
 
 ## Why gold is losing its shine
 
-Gold pays no interest, so it tends to suffer when the returns on bonds and cash rise. The US Federal Reserve raised rates in September for the first time since 2023 and signalled that another increase was likely this year. The 10-year US Treasury yield stands at about 5%.
+Gold pays no interest, so it tends to suffer when the returns on bonds and cash rise. The US Federal Reserve raised rates in September for the first time since 2023 and signalled that another increase was likely this year. The 10-year US Treasury yield stands at about **5%**.
 
-Markets expect the Fed to leave rates unchanged when it announces its decision at 11:30 pm IST on Wednesday, but they are betting on a rise in December. ANZ's Daniel Hynes puts the chance of a December increase at 78%.
+Markets expect the Fed to leave rates unchanged when it announces its decision at 11:30 pm IST on Wednesday, but they are betting on a rise in December. ANZ's Daniel Hynes puts the chance of a December increase at **78%**.
 
 The dollar was steady on Monday morning against other major currencies.
 

@@ -38,7 +38,7 @@ verification:
 
 The war against Iran will push the economies of the Middle East, North Africa and Pakistan into contraction this year, the International Monetary Fund said on Thursday, with several Gulf oil exporters heading into recession.
 
-In its regional economic outlook, the IMF forecast that output across the region would shrink by 1.3% in 2026 before rebounding by 6.6% in 2027. Even then, it said, output would stay below the level it had projected before the war.
+In its regional economic outlook, the IMF forecast that output across the region would shrink by **1.3%** in 2026 before rebounding by 6.6% in 2027. Even then, it said, output would stay below the level it had projected before the war.
 
 "This sharp downgrade is concentrated among the economies most directly affected by the conflict," said Jihad Azour, director of the IMF's Middle East and Central Asia Department. "Several Gulf oil exporters are projected to experience recession this year."
 
@@ -52,11 +52,11 @@ Pakistan is counted in the regional group. The IMF did not give a separate figur
 
 ## A forecast built on peace
 
-The projections assume that the conflict eases in early 2027 and that trade returns to normal gradually. The IMF called the outlook clouded by "exceptionally high uncertainty". Other risks include a reassessment of the productivity gains expected from artificial intelligence and further rises in interest rates driven by inflation and worries over public finances.
+The projections assume that the conflict **eases in early 2027** and that trade returns to normal gradually. The IMF called the outlook clouded by "exceptionally high uncertainty". Other risks include a reassessment of the productivity gains expected from artificial intelligence and further rises in interest rates driven by inflation and worries over public finances.
 
 "A more prolonged conflict remains the principal risk to the outlook," Azour said.
 
-Neighbouring regions are holding up better. The IMF expects the Caucasus and Central Asia to grow 5.2% this year and 5% in 2027.
+Neighbouring regions are holding up better. The IMF expects the Caucasus and Central Asia to grow **5.2%** this year and 5% in 2027.
 
 The fund urged governments to put price stability and sustainable public finances first, protect the independence of central banks and push ahead with reforms to lift productivity and jobs.
 

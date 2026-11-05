@@ -69,7 +69,7 @@ verification:
     - "Time of the 94/1 position estimated at about 2:45 pm IST from the 12:30 pm start."
 ---
 
-Glenn Phillips made an unbeaten 82 to lift New Zealand to 225 for 4 in the first T20I at Hagley Oval on Thursday, but India came out swinging in reply and were 94 for 1 after six overs at about 2:45 pm IST, needing another 132 runs.
+Glenn Phillips made an unbeaten 82 to lift New Zealand to 225 for 4 in the first T20I at Hagley Oval on Thursday, but India came out swinging in reply and were 94 for 1 after six overs at about 2:45 pm IST, needing another **132 runs**.
 
 Shreyas Iyer won the toss and chose to bowl on a pitch neither captain fully trusted. "We'll bowl first. Quick turnaround, got to see how the wicket will play," Iyer said. His opposite number Mitchell Santner said New Zealand would have bowled too, calling it "a fresh wicket".
 
@@ -85,4 +85,4 @@ Abhishek fell for 29, with Michael Bracewell picking up the first wicket, but Sa
 
 ## What comes next
 
-India, the T20 world champions, beat New Zealand by 96 runs in the World Cup final in March and start this five-match series as favourites. The result of the opener is due within the next hour.
+India, the T20 world champions, beat New Zealand by **96 runs** in the World Cup final in March and start this five-match series as favourites. The result of the opener is due within the next hour.

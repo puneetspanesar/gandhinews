@@ -47,17 +47,17 @@ verification:
     - "'Bajaj group's mortgage lender' and Pune location are general descriptions (Bajaj Finance subsidiary)."
 ---
 
-Bajaj Housing Finance, the home loan arm of the Bajaj group, reported a 17.7% rise in quarterly profit on Friday as its loan book kept growing at about a quarter a year.
+Bajaj Housing Finance, the home loan arm of the Bajaj group, reported a **17.7%** rise in quarterly profit on Friday as its loan book kept growing at about a quarter a year.
 
-Standalone net profit for the three months to September was ₹756.97 crore, up from ₹642.96 crore a year earlier and 5.8% more than the ₹715.28 crore it earned in the June quarter. Revenue from operations rose 18.3% to ₹3,250.57 crore.
+Standalone net profit for the three months to September was **₹756.97 crore**, up from ₹642.96 crore a year earlier and 5.8% more than the ₹715.28 crore it earned in the June quarter. Revenue from operations rose 18.3% to ₹3,250.57 crore.
 
-Assets under management, the total of the loans it manages, grew 25% to ₹1,58,205 crore at the end of September from ₹1,26,749 crore a year ago.
+Assets under management, the total of the loans it manages, grew **25% to ₹1,58,205 crore** at the end of September from ₹1,26,749 crore a year ago.
 
 ## Asset quality
 
-Bad loans rose slightly from a very low base. Gross non-performing assets were 0.29% of loans, against 0.26% a year earlier, while net NPAs held at 0.12%. The company's capital adequacy ratio, a measure of how much capital it holds against its loans, was 21.24%.
+Bad loans rose slightly from a very low base. Gross non-performing assets were **0.29%** of loans, against 0.26% a year earlier, while net NPAs held at 0.12%. The company's capital adequacy ratio, a measure of how much capital it holds against its loans, was 21.24%.
 
-For the first half of the financial year, net profit was up 20.1% at ₹1,472.25 crore. Earnings per share for the quarter rose to ₹0.91 from ₹0.77.
+For the first half of the financial year, net profit was up **20.1%** at ₹1,472.25 crore. Earnings per share for the quarter rose to ₹0.91 from ₹0.77.
 
 The company's joint auditors, Singhi & Co. and Mukund M. Chitale & Co., gave the unaudited results an unmodified review.
 

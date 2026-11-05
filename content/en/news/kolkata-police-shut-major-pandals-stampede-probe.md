@@ -48,7 +48,7 @@ verification:
     - "Whistle claim is Adhikari relaying what families of two of the dead told him; attributed as such."
 ---
 
-Kolkata Police asked several of the city's biggest Durga Pujas to stop letting visitors in on Saturday night, hours after a crowd surge at the Chorbagan pandal in the north of the city killed 19 people. Officers have opened an inquiry into how the crowd there was managed.
+Kolkata Police asked several of the city's biggest Durga Pujas to stop letting visitors in on Saturday night, hours after a crowd surge at the Chorbagan pandal in the north of the city killed **19 people**. Officers have opened an inquiry into how the crowd there was managed.
 
 Tala Pratyay, Alipore Sarbojanin, Chetla Agrani and Ballygunge Sarbojonin were told to halt entry. The show at Allen Park was cancelled, and Santosh Mitra Square restricted visitors. In Salt Lake, Bidhannagar police asked the major pujas to shut. "We have taken a call and asked puja organisers to stop allowing people inside the pandals," a Bidhannagar police officer said.
 
@@ -60,7 +60,7 @@ A senior Kolkata Police officer described the order as temporary. "This is a tem
 
 At Chorbagan, residents said police were thin on the ground and mostly posted near the VIP entrance, and that announcements about entry and exit left visitors confused at peak hours. "I have not seen adequate police presence this year. This resulted in the mismanagement," said Sanghamitra Bhowmik, who lives in the area.
 
-"There must be some lapses, but these should be probed," a senior officer said. Police will also check whether the organisers broke any rules in putting up the pandal. A forensic team reached the site late at night, officers have asked organisers for lists of security guards and crowd staff, and CCTV footage is being studied to work out who did what as the crowd surged. Investigators also plan to question the police officers who were on duty at Chorbagan, and will look at how quickly the emergency services responded. Kolkata Police Commissioner Ajay Nanda visited the injured in hospital during the night.
+"There must be some lapses, but these should be probed," a senior officer said. Police will also check whether the organisers broke any rules in putting up the pandal. A **forensic team** reached the site late at night, officers have asked organisers for lists of security guards and crowd staff, and CCTV footage is being studied to work out who did what as the crowd surged. Investigators also plan to question the police officers who were on duty at Chorbagan, and will look at how quickly the emergency services responded. Kolkata Police Commissioner Ajay Nanda visited the injured in hospital during the night.
 
 Chief Minister Suvendu Adhikari, visiting the injured, said "many pandals are dimly lit in the name of theme puja" and asked organisers to follow official advice. He said relatives of two of the dead had told him that whistles blown by private security guards set off the rush.
 

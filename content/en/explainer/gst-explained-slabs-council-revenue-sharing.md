@@ -87,7 +87,7 @@ Some items went the other way. Motorcycles above 350 cc, aerated and caffeinated
 
 ## What happened to tobacco and the compensation cess?
 
-**Since February 1, 2026, pan masala, cigarettes and tobacco products attract 40% GST, and the compensation cess has ended.** The 56th Council kept the old rates on these goods until loan and interest obligations under the compensation cess account were paid off. At the end of December 2025 the government notified February 1 as the date from which the compensation cess would "cease to exist", PTI reported on January 1, 2026.
+**Since February 1, 2026, pan masala, cigarettes and tobacco products attract 40% GST, and the compensation cess has ended.** The 56th Council kept the old rates on these goods until loan and interest obligations under the compensation cess account were paid off. At the end of December 2025 the government notified February 1 as the date from which the compensation cess would "cease to exist".
 
 From that date, tobacco products also attract an additional excise duty, and pan masala a new Health and National Security Cess, both on top of GST. Biris are taxed at 18%.
 
@@ -111,11 +111,11 @@ The 57th meeting left the slabs unchanged. It made a few item-level decisions, s
 
 **Both the Centre and the states levy GST on sales within a state, while the Centre collects GST on inter-state trade and shares it out.** Article 246A of the Constitution gives Parliament and every state legislature the power to make laws on GST. Under Article 269A, GST on inter-state supplies is "levied and collected" by the Government of India and "apportioned between the Union and the States" in a manner Parliament sets by law on the Council's recommendation.
 
-The Centre's tax revenue is then shared again through the Finance Commission. The 16th Finance Commission, whose report was tabled on February 1, 2026, kept the states' share of the divisible pool of central taxes at 41% for 2026–31, according to PRS Legislative Research. The divisible pool leaves out cesses, surcharges and the cost of collection.
+The Centre's tax revenue is then shared again through the Finance Commission. The 16th Finance Commission, whose report was tabled on February 1, 2026, kept the states' share of the divisible pool of central taxes at 41% for 2026-31, according to PRS Legislative Research. The divisible pool leaves out cesses, surcharges and the cost of collection.
 
 ## How much does GST raise?
 
-**Gross GST collections were about ₹2.04 lakh crore in September 2026, up 14.7% on a year earlier.** GST on imports grew 25.9% and domestic GST 10.1%, according to provisional data reported by Business Today. Net collections after refunds were ₹1.77 lakh crore.
+**Gross GST collections were about ₹2.04 lakh crore in September 2026, up 14.7% on a year earlier.** GST on imports grew 25.9% and domestic GST 10.1%, according to provisional data. Net collections after refunds were ₹1.77 lakh crore.
 
 For April to September 2026, gross collections came to ₹12.46 lakh crore, up 11.6%. The September 2025 base came just before the rate cuts took effect on September 22, 2025.
 

@@ -47,17 +47,17 @@ verification:
     - "Vaswani stepping down end-December 2026 from a BS headline (Jun 27, 2026) only; stated as announced in June. No quotes from management were available."
 ---
 
-Kotak Mahindra Bank reported a 26% rise in consolidated net profit for the July-September quarter on Saturday, as a rush of foreign-currency deposits pushed up both its balance sheet and its funding costs.
+Kotak Mahindra Bank reported a **26%** rise in consolidated net profit for the July-September quarter on Saturday, as a rush of foreign-currency deposits pushed up both its balance sheet and its funding costs.
 
-Group profit rose to ₹5,645 crore from ₹4,468 crore a year earlier and was 3% higher than the ₹5,480 crore earned in the June quarter. The bank on its own earned ₹4,212 crore, up 29% from ₹3,253 crore.
+Group profit rose to **₹5,645 crore** from ₹4,468 crore a year earlier and was 3% higher than the ₹5,480 crore earned in the June quarter. The bank on its own earned ₹4,212 crore, up 29% from ₹3,253 crore.
 
 ## Deposits in dollars, loans abroad
 
-The quarter's standout number was the money raised through FCNR(B) accounts, the foreign-currency deposits that non-resident Indians keep with Indian banks. Kotak raised about ₹55,344 crore this way and lent about ₹16,110 crore through its international branches.
+The quarter's standout number was the money raised through FCNR(B) accounts, the foreign-currency deposits that non-resident Indians keep with Indian banks. Kotak raised about **₹55,344 crore** this way and lent about ₹16,110 crore through its international branches.
 
-That flow shows up across the balance sheet. Total deposits grew 23% to ₹6.51 lakh crore, but only 13% once FCNR(B) money is stripped out. Net advances rose 25% to ₹5.77 lakh crore; excluding loans against FCNR(B) deposits and a portfolio bought from group company Kotak Mahindra Investments, loan growth was 19%.
+That flow shows up across the balance sheet. Total deposits grew **23%** to ₹6.51 lakh crore, but only 13% once FCNR(B) money is stripped out. Net advances rose 25% to ₹5.77 lakh crore; excluding loans against FCNR(B) deposits and a portfolio bought from group company Kotak Mahindra Investments, loan growth was 19%.
 
-The new money came at a cost. Net interest margin, the gap between what the bank earns on loans and pays on deposits, fell to 4.31% from 4.53% in the June quarter and 4.54% a year earlier. The bank attributed the moderation mainly to FCNR(B) mobilisation. Cost of funds edged up to 4.52% from 4.46% in the previous quarter.
+The new money came at a cost. Net interest margin, the gap between what the bank earns on loans and pays on deposits, fell to **4.31%** from 4.53% in the June quarter and 4.54% a year earlier. The bank attributed the moderation mainly to FCNR(B) mobilisation. Cost of funds edged up to 4.52% from 4.46% in the previous quarter.
 
 The share of low-cost current and savings deposits also slipped, to 38.2% from 42.3% a year ago. Without FCNR(B) deposits the ratio was 41.8%.
 

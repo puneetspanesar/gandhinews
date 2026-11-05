@@ -59,17 +59,17 @@ verification:
     - "Release time not stated in sources; the results came out during or after Monday's session."
 ---
 
-HCLTech's net profit rose 21% to ₹5,132 crore in July-September from ₹4,235 crore a year earlier, and the company raised the bottom of its revenue growth forecast for the year, results released on Monday showed.
+HCLTech's net profit rose **21% to ₹5,132 crore** in July-September from ₹4,235 crore a year earlier, and the company raised the bottom of its revenue growth forecast for the year, results released on Monday showed.
 
-Revenue from operations rose 11.5% to ₹35,620 crore. On the June quarter, profit was up 11% and revenue 3%. In constant currency, which strips out exchange-rate moves, revenue grew 2.3% sequentially and services revenue 3%.
+Revenue from operations rose **11.5%** to ₹35,620 crore. On the June quarter, profit was up 11% and revenue 3%. In constant currency, which strips out exchange-rate moves, revenue grew 2.3% sequentially and services revenue 3%.
 
 ## Guidance goes up at the bottom
 
-HCLTech now expects revenue for 2026-27 to grow 2.5% to 4% in constant currency, up from its earlier range of 1% to 4%. Services revenue is expected to grow 3% to 4%. The operating margin forecast is unchanged at 17.5% to 18.5%.
+HCLTech now expects revenue for 2026-27 to grow **2.5% to 4%** in constant currency, up from its earlier range of 1% to 4%. Services revenue is expected to grow 3% to 4%. The operating margin forecast is unchanged at 17.5% to 18.5%.
 
-The operating (EBIT) margin for the quarter was 18.2%, up 131 basis points from the June quarter.
+The operating (EBIT) margin for the quarter was **18.2%**, up 131 basis points from the June quarter.
 
-The board declared an interim dividend of ₹12 a share. The record date is October 16 and the dividend will be paid on October 26.
+The board declared an interim dividend of **₹12** a share. The record date is October 16 and the dividend will be paid on October 26.
 
 ## AI work picks up
 

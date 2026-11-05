@@ -78,7 +78,7 @@ Across the country, 124 of the 252 cities in the bulletin had 'good' or 'satisfa
 
 The Air Quality Early Warning System expects the air to stay 'poor' from October 23 to 26 and to hover at similar levels for six days after that, which would mean no real relief for about nine days. Forecasters said a ventilation index below 6,000 square metres per second, with average wind speeds under 10 km/h, was stopping pollutants from dispersing.
 
-Vehicles remain the biggest local source. The Decision Support System run by the Indian Institute of Tropical Meteorology in Pune put transport's share of Delhi's PM2.5 at 20.3% on Friday. Stubble burning in neighbouring states contributed 5.1%, a little more than earlier in the week. Among nearby districts, Gurugram added 8.8%, Jhajjar 6.1% and Gautam Buddha Nagar 4.7%.
+Vehicles remain the biggest local source. The Decision Support System run by the Indian Institute of Tropical Meteorology in Pune put transport's share of Delhi's PM2.5 at **20.3%** on Friday. Stubble burning in neighbouring states contributed 5.1%, a little more than earlier in the week. Among nearby districts, Gurugram added 8.8%, Jhajjar 6.1% and Gautam Buddha Nagar 4.7%.
 
 ## Weekend weather
 

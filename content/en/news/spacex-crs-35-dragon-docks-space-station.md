@@ -51,7 +51,7 @@ verification:
 
 A SpaceX Dragon cargo capsule docked with the International Space Station on Thursday evening, delivering about 2,860 kg of supplies, science experiments and the last of the station's new solar panels.
 
-The uncrewed spacecraft attached itself to the space-facing port of the station's Harmony module at 10:27 am Eastern time, 7:57 pm IST, as the two flew about 400 km above South Africa. Docking was automatic, with NASA astronaut Anil Menon watching over the approach and the capsule's procedures from inside the station. Dragon arrived a little more than two days after its launch from Cape Canaveral on Tuesday.
+The uncrewed spacecraft attached itself to the space-facing port of the station's Harmony module at 10:27 am Eastern time, 7:57 pm IST, as the two flew about **400 km** above South Africa. Docking was automatic, with NASA astronaut Anil Menon watching over the approach and the capsule's procedures from inside the station. Dragon arrived a little more than two days after its launch from Cape Canaveral on Tuesday.
 
 The flight, CRS-35, is SpaceX's 35th resupply mission for NASA under its Commercial Resupply Services contract.
 

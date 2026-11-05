@@ -52,7 +52,7 @@ verification:
     - "Hamilton 'one second behind' Verstappen per SRN wording; kept general."
 ---
 
-Kimi Antonelli is one weekend away from the Formula One world title. The Mercedes driver won the United States Grand Prix at the Circuit of the Americas on Sunday, leading from pole on a one-stop strategy and crossing the line 13.078 seconds ahead of Ferrari's Charles Leclerc.
+Kimi Antonelli is one weekend away from the Formula One world title. The Mercedes driver won the United States Grand Prix at the Circuit of the Americas on Sunday, leading from pole on a one-stop strategy and crossing the line **13.078 seconds** ahead of Ferrari's Charles Leclerc.
 
 It was the 20-year-old Italian's ninth win of the season. It was not quite enough to settle the championship in Texas, because his closest rivals both scored, but it leaves him needing only two points, a ninth-place finish, at the Mexican Grand Prix on November 1 to become the youngest champion in the sport's history.
 
@@ -72,8 +72,8 @@ Oliver Bearman of Haas was given a 10-second penalty for a collision with Gasly 
 
 ## The title picture
 
-Antonelli has 365 points. Russell is second on 242 and Hamilton third on 241, 123 and 124 points behind with five races and 125 points left. Verstappen and Leclerc, on 236 and 233, can no longer catch him.
+Antonelli has **365 points**. Russell is second on 242 and Hamilton third on 241, 123 and 124 points behind with five races and 125 points left. Verstappen and Leclerc, on 236 and 233, can no longer catch him.
 
-Mercedes lead the constructors' standings with 607 points to Ferrari's 474, while McLaren and Red Bull are level on 355 in the fight for third.
+Mercedes lead the constructors' standings with **607 points** to Ferrari's 474, while McLaren and Red Bull are level on 355 in the fight for third.
 
 After Mexico City, the season moves to São Paulo on November 8, Las Vegas on November 21, Qatar on November 29 and Abu Dhabi on December 6.

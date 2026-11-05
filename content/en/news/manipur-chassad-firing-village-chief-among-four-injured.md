@@ -46,13 +46,13 @@ verification:
 
 Gunmen opened fire on Chassad village in Manipur's Kamjong district on Saturday afternoon, wounding four civilians, among them the village chief, two days after an ambush in the same district killed a woman and left a couple from Chassad missing.
 
-The firing began at about 2:30 pm. Suspected cadres of the NSCN (Isak-Muivah) are alleged to have fired on the village with automatic weapons. The injured were carried to the Army camp in Chassad for treatment. Their condition, and what set off the shooting, were not known by evening.
+The firing began at about 2:30 pm. Suspected cadres of the NSCN (Isak-Muivah) are alleged to have fired on the village with automatic weapons. The injured were carried to the **Army camp** in Chassad for treatment. Their condition, and what set off the shooting, were not known by evening.
 
 Security reinforcements were reported to have been moved into the Chassad-Mongkot Chepu sector, in the border district.
 
 ## The wounded
 
-The four injured are Thangjahao Haokip, the chief of Chassad; St Khailun Haokip and Seikhohao, both members of the Chassad Village Authority; and Seipao Haokip, chief of Phungtha (Kachouphung-Kuki). Seipao Haokip had been living as a displaced person after fleeing his village following threats and violence that residents blame on NSCN-IM cadres and Tangkhul groups.
+The four injured are **Thangjahao Haokip**, the chief of Chassad; St Khailun Haokip and Seikhohao, both members of the Chassad Village Authority; and Seipao Haokip, chief of Phungtha (Kachouphung-Kuki). Seipao Haokip had been living as a displaced person after fleeing his village following threats and violence that residents blame on NSCN-IM cadres and Tangkhul groups.
 
 ## Three days, two attacks
 

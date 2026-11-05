@@ -50,10 +50,10 @@ verification:
 
 The Gauhati High Court on Friday granted bail to Sandipan Garg, a cousin of the singer Zubeen Garg and one of seven people accused over his death in Singapore last year.
 
-A single bench of Justice Rajesh Mazumdar allowed the plea of Sandipan, a suspended deputy superintendent of Assam Police who was on the Singapore trip and joined the yacht outing during which the singer died. He has been in Baksa jail since October 2025 and faces one charge, culpable homicide not amounting to murder.
+A single bench of Justice Rajesh Mazumdar allowed the plea of Sandipan, a suspended deputy superintendent of Assam Police who was on the Singapore trip and joined the yacht outing during which the singer died. He has been in Baksa jail since October 2025 and faces one charge, **culpable homicide not amounting to murder**.
 
 "We are awaiting the detailed judgment to know on what grounds the bail was granted," said his counsel, senior advocate Anan Kumar Bhuyan. He said Sandipan was likely to walk out only after the Durga Puja holidays, since the court closes from Saturday and some formalities remain. The High Court is separately hearing his petition to quash the chargesheet.
 
-He is the second accused to get bail. On October 9 the court released Amritprabha Mahanta on a bond of ₹50,000 with two sureties, saying the evidence at that stage did not make out a case of conspiracy and murder against her. The prime accused, festival organiser Shyamkanu Mahanta, faces eight charges under the Bharatiya Nyaya Sanhita.
+He is the second accused to get bail. On October 9 the court released Amritprabha Mahanta on a bond of **₹50,000** with two sureties, saying the evidence at that stage did not make out a case of conspiracy and murder against her. The prime accused, festival organiser Shyamkanu Mahanta, faces eight charges under the Bharatiya Nyaya Sanhita.
 
 Zubeen Garg died on September 19, 2025, while swimming in the sea off Singapore, where he had gone for the North East India Festival. A Singapore coroner's court found no foul play and said he drowned off Lazarus Island while severely intoxicated after declining a life jacket. An Assam Police CID team took up the case after more than 60 FIRs were filed across the state, and the state has said the Singapore findings do not affect its case.

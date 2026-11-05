@@ -43,18 +43,18 @@ verification:
     - "€155 billion war cost, €90 billion loan and €45 billion 2027 disbursement carried from our Oct 16 story zelenskyy-asks-eu-70-billion-trump-disgrace-row."
 ---
 
-Slovakia will not take part in the extra €70 billion that Ukraine has asked the European Union for, Prime Minister Robert Fico said, as an EU summit in Brussels ended without agreement on the money.
+Slovakia will not take part in the extra €**70 billion** that Ukraine has asked the European Union for, Prime Minister Robert Fico said, as an EU summit in Brussels ended without agreement on the money.
 
-Fico said on Friday that Hungary's Prime Minister Peter Magyar had taken a similar position. Czech Prime Minister Andrej Babiš also signalled that his country would stay out of any new package. Fico said Slovakia would keep helping Ukraine in other ways, through educational projects, logistics and energy cooperation.
+Fico said on Friday that Hungary's Prime Minister Peter Magyar had taken a similar position. Czech Prime Minister **Andrej Babiš** also signalled that his country would stay out of any new package. Fico said Slovakia would keep helping Ukraine in other ways, through educational projects, logistics and energy cooperation.
 
 ## Zelenskyy's request
 
-President Volodymyr Zelenskyy told the 27 EU leaders on Friday that the war would cost €155 billion next year, and asked them for "at least €70 billion more" for defence and for keeping the country running through another winter of Russian attacks.
+President Volodymyr Zelenskyy told the 27 EU leaders on Friday that the war would cost €**155 billion** next year, and asked them for "at least €70 billion more" for defence and for keeping the country running through another winter of Russian attacks.
 
 The leaders did not agree on the figure. EU governments accept that Ukraine faces a gap in its budget next year and have said they will look at how to cover it, with the G7 also expected to weigh in. "We will indeed be looking at the funding," French President Emmanuel Macron said.
 
 ## How the earlier loan was agreed
 
-The new request comes on top of the €90 billion loan the EU has already approved for 2026 and 2027, of which €45 billion is due to be paid out next year. Slovakia, Hungary and Czechia did not take part in that loan either, but they did not block it.
+The new request comes on top of the €**90 billion** loan the EU has already approved for 2026 and 2027, of which €45 billion is due to be paid out next year. Slovakia, Hungary and Czechia did not take part in that loan either, but they did not block it.
 
 The row over funding came as Russia pounded Ukraine's power grid overnight into Saturday in one of its biggest attacks on energy facilities, and as the United States waived new sanctions on Moscow.

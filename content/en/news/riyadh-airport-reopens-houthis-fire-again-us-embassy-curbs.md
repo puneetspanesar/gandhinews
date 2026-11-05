@@ -73,7 +73,7 @@ verification:
 
 Riyadh's main airport reopened on Sunday after two weeks of closure, but the Houthi missiles and drones that shut it down were still in the sky as the first passengers returned.
 
-King Khalid International Airport opened Terminals 1 and 2 for domestic and international flights. Departure boards stayed thin: flight-tracking data showed only a handful of planes leaving, and most flights were still cancelled.
+King Khalid International Airport opened **Terminals 1 and 2** for domestic and international flights. Departure boards stayed thin: flight-tracking data showed only a handful of planes leaving, and most flights were still cancelled.
 
 Explosions were heard over the capital as the airport prepared to reopen, after residents received a text alert warning of a hostile threat. Saudi military spokesman Major General Turki al-Malki said air defences destroyed a ballistic missile and a drone fired towards Riyadh early on Sunday, and that 10 more ballistic missiles had been fired at the kingdom's south.
 
@@ -87,7 +87,7 @@ The airport closed after strikes earlier this month on another part of the compl
 
 ## Washington tightens the rules
 
-The US embassy said on Sunday that American government employees now need special permission from the ambassador's office to use any airport in Saudi Arabia, may not go within 20 miles (32 km) of the Yemen border, and need clearance to travel to Jizan, Asir and Najran provinces and to Qatif, Yanbu and Taif. It warned US citizens of possible attacks on airports, sudden airspace closures and cancelled flights.
+The US embassy said on Sunday that American government employees now need special permission from the ambassador's office to use any airport in Saudi Arabia, may not go within 20 miles (**32 km**) of the Yemen border, and need clearance to travel to Jizan, Asir and Najran provinces and to Qatif, Yanbu and Taif. It warned US citizens of possible attacks on airports, sudden airspace closures and cancelled flights.
 
 The war is also costing Saudi Arabia its big events. Organisers said the 2027 Dakar Rally will not be held in the kingdom because of the attacks, and that a new location would be announced within days.
 

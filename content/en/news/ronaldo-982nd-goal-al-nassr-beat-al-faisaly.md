@@ -47,6 +47,6 @@ The home side created the better chances by one measure, with an expected goals 
 
 ## Level at the top
 
-The win, under coach Ange Postecoglou, put Al-Nassr on 25 points, level with Al-Qadisiyah, who were due to face Al-Hilal later on Friday. Al-Hilal went into the weekend second on 24 points.
+The win, under coach Ange Postecoglou, put Al-Nassr on **25 points**, level with Al-Qadisiyah, who were due to face Al-Hilal later on Friday. Al-Hilal went into the weekend second on 24 points.
 
-Ronaldo is now 18 goals short of 1,000 in his career.
+Ronaldo is now **18 goals** short of 1,000 in his career.

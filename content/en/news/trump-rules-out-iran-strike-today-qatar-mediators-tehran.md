@@ -77,7 +77,7 @@ As he spoke, Qatari mediators were in Tehran, part of a push to ease a crisis th
 
 ## A choice Trump says is his
 
-Earlier on Sunday, in an interview with Fox News, Mr Trump framed his options bluntly. "Do I make a deal with them, or do I finish them off?" he asked. He said finishing the job "would be very easy to do", added that "we don't play games", and claimed the US now controls the Strait of Hormuz.
+Earlier on Sunday, in a television interview, Mr Trump framed his options bluntly. "Do I make a deal with them, or do I finish them off?" he asked. He said finishing the job "would be very easy to do", added that "we don't play games", and claimed the US now controls the Strait of Hormuz.
 
 He has said he will not strike Iran before the November 3 midterm elections. US officials have warned that the weeks between that vote and the new Congress taking office could be the most dangerous, and Washington has kept building up its forces, including a third aircraft carrier group sent to the Gulf.
 

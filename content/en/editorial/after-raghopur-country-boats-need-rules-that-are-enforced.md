@@ -69,9 +69,9 @@ That last detail matters more than it seems. A boat that nobody counted is a boa
 
 ## A familiar story
 
-The state has responded in the usual way. Chief Minister Samrat Choudhary announced ₹4 lakh for each bereaved family, and the Prime Minister added ₹2 lakh. Disaster response teams and local divers searched through the night. All of that is right, and none of it would have kept a single child out of the water.
+The state has responded in the usual way. Chief Minister Samrat Choudhary announced **₹4 lakh** for each bereaved family, and the Prime Minister added ₹2 lakh. Disaster response teams and local divers searched through the night. All of that is right, and none of it would have kept a single child out of the water.
 
-Bihar has been here before, many times. In January 2017, 24 people drowned when an overcrowded boat capsized in the Ganga near Patna on a day when crowds had gathered for a festival. It was carrying more than 60 people. It was reported then that over 30 of the roughly 50 boats working that stretch were unregistered, that none carried life jackets, and that a rule against sailing after sunset was routinely ignored. Just five weeks ago, on September 8, a boat carrying 11 people capsized at Terasia Diara in the same district, after hitting a submerged boulder in floodwater. One young man died.
+Bihar has been here before, many times. In January 2017, **24 people** drowned when an overcrowded boat capsized in the Ganga near Patna on a day when crowds had gathered for a festival. It was carrying more than 60 people. It was reported then that over 30 of the roughly 50 boats working that stretch were unregistered, that none carried life jackets, and that a rule against sailing after sunset was routinely ignored. Just five weeks ago, on September 8, a boat carrying 11 people capsized at Terasia Diara in the same district, after hitting a submerged boulder in floodwater. One young man died.
 
 Raghopur is a river island. For the people of the diara, the country boat is not a pleasure trip. It is the bus to school, the market and the hospital.
 

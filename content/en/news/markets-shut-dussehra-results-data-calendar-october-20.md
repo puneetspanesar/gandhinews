@@ -74,9 +74,9 @@ The Sensex fell 876 points on Monday as Axis Bank and HDFC Bank slid after their
 
 ## Monday night's results
 
-Bajaj Finance led the evening list. Its July-September profit rose 28.7% to ₹6,366.57 crore and it raised its loan growth forecast for the year to 26-27%, but it also warned of a small squeeze on margins as interest rates rise.
+Bajaj Finance led the evening list. Its July-September profit rose **28.7%** to ₹6,366.57 crore and it raised its loan growth forecast for the year to 26-27%, but it also warned of a small squeeze on margins as interest rates rise.
 
-Hindustan Zinc, the Vedanta group's zinc and silver miner, more than doubled its profit to ₹6,412 crore on record revenue. L&T Technology Services reported a 66.8% jump in profit, helped by a one-time gain from selling a business, and Piramal Finance's profit rose 67% to ₹545 crore. Investors will also weigh Monday's results from UltraTech Cement and Union Bank of India, which came out during market hours.
+Hindustan Zinc, the Vedanta group's zinc and silver miner, more than doubled its profit to **₹6,412 crore** on record revenue. L&T Technology Services reported a 66.8% jump in profit, helped by a one-time gain from selling a business, and Piramal Finance's profit rose 67% to ₹545 crore. Investors will also weigh Monday's results from UltraTech Cement and Union Bank of India, which came out during market hours.
 
 Tonbo Imaging, the Bengaluru defence electronics maker whose share sale closed on Monday with bids for well over 100 times the shares on offer, is due to finalise allotment on Wednesday and list on Friday.
 
@@ -84,13 +84,13 @@ Tonbo Imaging, the Bengaluru defence electronics maker whose share sale closed o
 
 The main events are overseas. GE Aerospace reports before the US market opens, and Netflix and SpaceX after it closes, which will be early on Wednesday in India. Netflix is the first of the big technology names to report this week, after the AI-led sell-off that gave the Nasdaq its worst week since June. Tesla, Meta, IBM and Texas Instruments follow on Wednesday.
 
-In Mumbai, US Secretary of State Marco Rubio is due to meet External Affairs Minister S Jaishankar, with energy on the agenda at a time when Brent crude is close to $110 a barrel.
+In Mumbai, US Secretary of State Marco Rubio is due to meet External Affairs Minister S Jaishankar, with energy on the agenda at a time when Brent crude is close to **$110** a barrel.
 
 ## Wednesday's crowded slate
 
-Wednesday brings three things at once. The Reserve Bank of India publishes the minutes of its October policy meeting, at which it raised the repo rate to 5.5%. With retail inflation at 5.54% in September and wholesale inflation at 11.39%, the minutes will show how many members want to go further.
+Wednesday brings three things at once. The Reserve Bank of India publishes the minutes of its October policy meeting, at which it raised the repo rate to **5.5%**. With retail inflation at 5.54% in September and wholesale inflation at 11.39%, the minutes will show how many members want to go further.
 
-The Jio Platforms initial public offer opens the same day at ₹1,065 to ₹1,119 a share. At the top of the range it would raise about ₹30,213 crore, the largest share sale in India, and value Reliance's telecom and digital arm at about ₹10.3 lakh crore. Bidding closes on Friday. Paras Healthcare's ₹1,450 crore issue also opens, and HD Fire Protect lists.
+The Jio Platforms initial public offer opens the same day at **₹1,065** to ₹1,119 a share. At the top of the range it would raise about ₹30,213 crore, the largest share sale in India, and value Reliance's telecom and digital arm at about ₹10.3 lakh crore. Bidding closes on Friday. Paras Healthcare's ₹1,450 crore issue also opens, and HD Fire Protect lists.
 
 Eternal, the parent of Zomato and Blinkit, reports on Wednesday along with Indian Hotels, Adani Green Energy, SRF and Mahindra & Mahindra Financial Services. Swiggy, Hindustan Petroleum, Havells India and Colgate-Palmolive (India) follow on Thursday.
 

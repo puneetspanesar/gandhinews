@@ -54,7 +54,7 @@ verification:
     - "BCCI Women post quoted from Tribune."
 ---
 
-India finished their series against Zimbabwe in a rush of boundaries in Raipur on Tuesday night. Harmanpreet Kaur smashed an unbeaten 91 off 41 balls, Shafali Verma made 69 off 37, and India's 216 for 7 was far too much for the visitors, who were held to 124 for 7. The 92-run win completed a 3-0 sweep.
+India finished their series against Zimbabwe in a rush of boundaries in Raipur on Tuesday night. Harmanpreet Kaur smashed an unbeaten **91 off 41 balls**, Shafali Verma made 69 off 37, and India's 216 for 7 was far too much for the visitors, who were held to 124 for 7. The 92-run win completed a 3-0 sweep.
 
 The margin was India's biggest home win by runs in women's T20 internationals. "Emphatic!" the BCCI Women account posted. "#TeamIndia clinch the series 3-0 with their biggest win at home (by runs) in T20Is."
 

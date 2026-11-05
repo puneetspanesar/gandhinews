@@ -36,7 +36,7 @@ verification:
     - "Exact time of strike not given; 'overnight' into Monday, October 19."
 ---
 
-A Russian air strike on Kyiv overnight killed a woman and injured three people, Mayor Vitali Klitschko said on Monday.
+A Russian air strike on Kyiv overnight killed a woman and injured **three people**, Mayor Vitali Klitschko said on Monday.
 
 Writing on Telegram, Klitschko said the attack hit a metro station and damaged a 25-storey residential building, as well as non-residential buildings and a medical facility.
 

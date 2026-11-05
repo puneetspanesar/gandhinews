@@ -42,7 +42,7 @@ verification:
 
 Uttarakhand Chief Minister Pushkar Singh Dhami on Thursday launched the BJP's "Save Democracy, Remove Anarchy" campaign in the state and accused the Congress of trying to undermine trust in the electoral rolls revision.
 
-The campaign will run from October 22 to November 30 in two phases, the first until November 5 and the second from November 11 to 30. Party workers are to hold padyatras and public meetings in all 13 districts and to talk up the record of the Central and state governments.
+The campaign will run from October 22 to November 30 in two phases, the first until November 5 and the second from November 11 to 30. Party workers are to hold padyatras and public meetings in all **13 districts** and to talk up the record of the Central and state governments.
 
 Speaking in Dehradun and on X, Dhami said the Congress was opposing the Special Intensive Revision (SIR) of the voter lists because it could not accept losing elections. "Instead of accepting its electoral defeat, the Congress is engaged in creating an atmosphere of distrust," he said.
 

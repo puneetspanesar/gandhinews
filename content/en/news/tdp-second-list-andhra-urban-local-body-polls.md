@@ -6,7 +6,7 @@ section: states
 format_label: "States / Andhra Pradesh"
 topics: [states]
 title: "TDP names Machilipatnam mayor pick and 21 chairpersons in second list"
-standfirst: "Women make up 18 of the 22 names in the ruling party's new list for Andhra Pradesh's urban local body polls, a day after nominations opened amid violence."
+standfirst: "Women make up 18 of the 22 names in the ruling party's new list for Andhra Pradesh's urban local body polls, a day after violence marked the opening of nominations."
 published: 2026-10-17T17:45:00+05:30
 location: Amaravati
 keyPoints:
@@ -40,12 +40,12 @@ verification:
 
 The Telugu Desam Party on Saturday released its second list of candidates for Andhra Pradesh's urban local body elections, naming its choice for mayor of Machilipatnam and candidates for the chairperson's post in 21 municipalities.
 
-By the party's count, 18 of the 22 candidates, or about 82%, are women. Six are from the backward classes, five from the Scheduled Castes and five from minority communities. Five Muslim candidates, four of them women, are contesting in Machilipatnam, Naidupeta, Nandikotkur, Kadiri and Akividu.
+By the party's count, **18 of the 22 candidates**, or about 82%, are women. Six are from the backward classes, five from the Scheduled Castes and five from minority communities. Five Muslim candidates, four of them women, are contesting in Machilipatnam, Naidupeta, Nandikotkur, Kadiri and Akividu.
 
-Six candidates are 30 or younger, the average age is 45.9 years, and 18 hold a degree or a postgraduate degree.
+Six candidates are 30 or younger, the average age is **45.9 years**, and 18 hold a degree or a postgraduate degree.
 
 ## Both lists together
 
-With the two lists, the TDP has now named 58 candidates. Of these, 37, or about 64%, are women. Twenty-two are from the backward classes, eight from the Scheduled Castes, seven from minorities and one from the Scheduled Tribes, with 20 from the open category. Eighteen candidates are under 40 and 34 are graduates or better.
+With the two lists, the TDP has now named 58 candidates. Of these, 37, or about **64%**, are women. Twenty-two are from the backward classes, eight from the Scheduled Castes, seven from minorities and one from the Scheduled Tribes, with 20 from the open category. Eighteen candidates are under 40 and 34 are graduates or better.
 
 The list came a day after nominations opened with clashes between TDP and YSR Congress Party workers in Punganur and Rayachoti, where vehicles were overturned and set on fire. The two parties blamed each other for the violence. The State Election Commission has notified polls to more than 100 urban and rural local bodies across the state.

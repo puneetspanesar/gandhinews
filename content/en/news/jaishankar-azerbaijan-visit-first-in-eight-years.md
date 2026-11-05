@@ -48,7 +48,7 @@ verification:
     - "No agreements reported. Pakistan/Armenia/Operation Sindoor context not in sources and left out."
 ---
 
-External Affairs Minister S Jaishankar called on Azerbaijan's President Ilham Aliyev in Baku on Friday, on the first bilateral visit to the country by an Indian foreign minister in eight years.
+External Affairs Minister S Jaishankar called on Azerbaijan's **President Ilham Aliyev** in Baku on Friday, on the first bilateral visit to the country by an Indian foreign minister in eight years.
 
 "Pleased to call on @presidentaz Ilham Aliyev of Azerbaijan in Baku this morning," Jaishankar wrote afterwards. He said he had conveyed the greetings of President Droupadi Murmu and Prime Minister Narendra Modi. "Discussed strengthening the relationship between our two countries. Appreciate his positive sentiments for this shared endeavour."
 
@@ -68,9 +68,9 @@ The two countries established diplomatic ties in February 1992, but differences 
 
 ## The numbers behind the ties
 
-Trade between India and Azerbaijan stood at $401 million in 2025, with Indian exports of $226 million and imports of $175 million, mostly crude oil. ONGC Videsh has invested more than $1.2 billion in the Azeri-Chirag-Gunashli oil and gas fields and the Baku-Tbilisi-Ceyhan pipeline.
+Trade between India and Azerbaijan stood at $401 million in 2025, with Indian exports of $226 million and imports of $175 million, mostly crude oil. ONGC Videsh has invested more than **$1.2 billion** in the Azeri-Chirag-Gunashli oil and gas fields and the Baku-Tbilisi-Ceyhan pipeline.
 
-Indians have also discovered Azerbaijan as a holiday spot. About 1.67 lakh Indian tourists visited in 2025, making India the country's fourth-largest source of visitors. Baku has direct flights to Delhi and Mumbai, though IndiGo has suspended its Delhi-Baku service.
+Indians have also discovered Azerbaijan as a holiday spot. About **1.67 lakh** Indian tourists visited in 2025, making India the country's fourth-largest source of visitors. Baku has direct flights to Delhi and Mumbai, though IndiGo has suspended its Delhi-Baku service.
 
 The links go back much further. The Ateshgah fire temple outside Baku carries inscriptions in Devanagari and Gurmukhi left by Indian merchants, and Azerbaijani singer Rashid Behbudov's friendship with Raj Kapoor is still remembered in both countries.
 

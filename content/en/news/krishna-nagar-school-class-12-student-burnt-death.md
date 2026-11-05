@@ -37,7 +37,7 @@ verification:
     - "Nature of 'materials recovered' not specified; copy does not speculate on cause."
 ---
 
-An 18-year-old Class 12 student was found burnt to death on the premises of a school in Krishna Nagar in east Delhi on Saturday, police said.
+An **18-year-old Class 12 student** was found burnt to death on the premises of a school in Krishna Nagar in east Delhi on Saturday, police said.
 
 The body was found behind the school's guard room. "Police received a PCR call about a fire at the school, following which personnel from Krishna Nagar police station rushed to the spot," police said.
 

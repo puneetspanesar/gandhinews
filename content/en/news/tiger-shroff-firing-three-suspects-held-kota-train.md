@@ -59,7 +59,7 @@ verification:
     - "Mumbai Crime Branch took over the probe (Tribune headline)."
 ---
 
-Three men suspected of firing at actor Tiger Shroff's car in Mumbai were detained from a train at Kota railway station in Rajasthan on Monday morning, less than a day after the attack in Juhu.
+Three men suspected of firing at actor Tiger Shroff's car in Mumbai were detained from a train at **Kota railway station** in Rajasthan on Monday morning, less than a day after the attack in Juhu.
 
 The operation was carried out jointly by Mumbai Police, Rajasthan Police and railway police after Mumbai investigators shared their inputs. "The Kota City Police team apprehended them from a train," Kota Superintendent of Police Tejaswani Gautam said. She said two of the men are from Haryana and one from Bihar.
 
@@ -71,7 +71,7 @@ Gunmen opened fire on Shroff's car at about 7 pm on Sunday near Pushpa Park in J
 
 Deputy Chief Minister Eknath Shinde, who visited the actor's home on Sunday night, said five rounds were fired. "He has injuries on his left hand caused by gunpowder and shards of glass," Shinde said. "No form of threat will be tolerated."
 
-Investigators believe the men had studied the actor's routine before the attack. After the shooting they are thought to have ridden along SV Road through Vile Parle and Andheri, left their motorcycle near Andheri West station and boarded a local train towards Borivali before leaving the state. The three were reported to have been paid ₹50,000 in advance, but police have not confirmed this on record.
+Investigators believe the men had studied the actor's routine before the attack. After the shooting they are thought to have ridden along SV Road through Vile Parle and Andheri, left their motorcycle near Andheri West station and boarded a local train towards Borivali before leaving the state. The three were reported to have been paid **₹50,000** in advance, but police have not confirmed this on record.
 
 A post on social media claimed responsibility on behalf of the Lawrence Bishnoi gang. Police have not verified it and say they are examining any link.
 

@@ -48,9 +48,9 @@ The German, champion in Vienna in 2021, opens against Martin Landaluce. He is al
 
 ## Alcaraz and Medvedev in the draw
 
-Carlos Alcaraz is back in Vienna for the first time since 2021 and starts against Karen Khachanov. The Spaniard is looking for his fourth tour-level title of the season.
+Carlos Alcaraz is back in Vienna for the first time since 2021 and starts against **Karen Khachanov**. The Spaniard is looking for his fourth tour-level title of the season.
 
-Daniil Medvedev, who won here in 2022, plays Daniel Merida.
+Daniil Medvedev, who won here in 2022, plays **Daniel Merida**.
 
 ## The race for Turin
 

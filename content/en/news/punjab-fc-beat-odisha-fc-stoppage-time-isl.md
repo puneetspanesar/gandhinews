@@ -39,7 +39,7 @@ Messi Bouli scored inside the first minute and again five minutes into stoppage 
 
 Punjab went ahead almost from the kick-off. Muhammed Uvais crossed into the box and Bouli swept a right-footed shot into the bottom corner.
 
-Odisha were level in the 15th minute. Lalthathanga Khawlhring swung in a corner and Thoiba Moirangthem headed it in.
+Odisha were level in the 15th minute. Lalthathanga Khawlhring swung in a corner and **Thoiba Moirangthem** headed it in.
 
 The rest of the first half was open. Alfred Planas tested Odisha goalkeeper Hrithik Tiwari and Mahmoud Eid wasted a good chance for the visitors in the 18th minute.
 

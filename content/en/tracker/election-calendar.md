@@ -68,7 +68,7 @@ The first stretch is already done. Six seats went to bypolls on October 6 and we
 | Thattanchavady bypoll | Puducherry | Assembly | Oct 6, 2026 | Held | | AINRC (Ashok Anand), margin 8,482 |
 | Biennial, 10 seats | Uttar Pradesh | Rajya Sabha | Declared Oct 9, 2026 | Held | Nov 25, 2026 | Unopposed: BJP 8, SP 2 |
 | Biennial, 1 seat | Uttarakhand | Rajya Sabha | Declared Oct 9, 2026 | Held | Nov 25, 2026 | Unopposed: BJP (Dinesh Arya) |
-| Bypoll, 1 seat | West Bengal | Rajya Sabha | Declared Oct 9, 2026 | Held | | Unopposed: BJP (Koel Mallick), per IANS |
+| Bypoll, 1 seat | West Bengal | Rajya Sabha | Declared Oct 9, 2026 | Held | | Unopposed: BJP (Koel Mallick) |
 | General election | Manipur | Assembly | Feb to Mar 2027 | Expected | Mar 13, 2027 | |
 | General election | Goa | Assembly | Feb to Mar 2027 | Expected | Mar 14, 2027 | |
 | General election | Punjab | Assembly | Feb to Mar 2027 | Expected | Mar 16, 2027 | |

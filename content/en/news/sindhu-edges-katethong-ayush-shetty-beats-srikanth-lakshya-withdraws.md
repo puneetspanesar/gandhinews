@@ -43,9 +43,9 @@ verification:
     - "No direct quotes found."
 ---
 
-P V Sindhu nearly let a winning position slip away before reaching the second round of the French Open in Paris on Wednesday. The Indian beat Thailand's Supanida Katethong 21-14, 8-21, 23-21 in 64 minutes, after leading 19-8 in the deciding game.
+P V Sindhu nearly let a winning position slip away before reaching the second round of the French Open in Paris on Wednesday. The Indian beat Thailand's Supanida Katethong **21-14, 8-21, 23-21** in 64 minutes, after leading 19-8 in the deciding game.
 
-Katethong won 11 points in a row to draw level at 19-19, turning what had looked a routine finish into a test of nerve. Sindhu held on to take it 23-21 and improve her record against the Thai to six wins in 10 meetings. She will next face Japan's Riko Gunji, who beat India's Unnati Hooda 21-18, 12-21, 21-17.
+Katethong won **11 points** in a row to draw level at 19-19, turning what had looked a routine finish into a test of nerve. Sindhu held on to take it 23-21 and improve her record against the Thai to six wins in 10 meetings. She will next face Japan's Riko Gunji, who beat India's Unnati Hooda 21-18, 12-21, 21-17.
 
 ## Ayush beats Srikanth
 

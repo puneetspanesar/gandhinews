@@ -50,10 +50,10 @@ verification:
 
 At least nine people were killed and 16 wounded in an air strike in Yemen's northern Saada governorate on Sunday, the Houthi-run Saba news agency said, blaming the Saudi-led coalition and warning that the toll was not final.
 
-The coalition, for its part, said two crew members were killed when an AH-6i helicopter crashed near Najran, close to the Yemeni border, because of a "technical malfunction". It rejected a Houthi claim to have shot down a Saudi Apache attack helicopter in the area. In Najran itself, a projectile fired by the Houthis injured at least six people, Saudi civil defence said.
+The coalition, for its part, said two crew members were killed when an **AH-6i helicopter** crashed near Najran, close to the Yemeni border, because of a "technical malfunction". It rejected a Houthi claim to have shot down a Saudi Apache attack helicopter in the area. In Najran itself, a projectile fired by the Houthis injured at least six people, Saudi civil defence said.
 
 The fighting along the border has intensified sharply. The coalition said it intercepted two Houthi ballistic missiles aimed at Khamis Mushait early on Sunday, after downing four drones over Riyadh and the kingdom's eastern and southern regions on Saturday and destroying two missile launchers in Saada. Residents of Riyadh received a phone alert overnight warning: "The area is under a hostile aerial threat." It was lifted minutes later.
 
-Houthi military spokesperson Yahya Saree said Saudi warplanes had carried out 53 air strikes across Yemen in 24 hours, hitting civilian sites and killing women and children. He gave no toll. Yemen's government forces claimed 1,417 strikes on Houthi targets over the same period, saying about 800 fighters had been killed or wounded. Neither claim could be independently confirmed.
+Houthi military spokesperson Yahya Saree said Saudi warplanes had carried out 53 air strikes across Yemen in **24 hours**, hitting civilian sites and killing women and children. He gave no toll. Yemen's government forces claimed 1,417 strikes on Houthi targets over the same period, saying about 800 fighters had been killed or wounded. Neither claim could be independently confirmed.
 
 The Houthi attacks on Saudi airports have disrupted flights across the kingdom, and Indian Umrah pilgrims have been among those stranded. India set up an extra control room in Makkah last week to help them.

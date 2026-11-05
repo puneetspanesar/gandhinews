@@ -58,7 +58,7 @@ The Indian Space Research Organisation will launch its NVS-03 navigation satelli
 
 The 2,232 kg satellite will lift off on a GSLV Mk II rocket from the Satish Dhawan Space Centre at Sriharikota. ISRO has not yet announced a launch time. The mission was first targeted for October 15 to 20, and before that for late 2025. ISRO has taken a cautious approach to its schedule after setbacks to the PSLV this year.
 
-NVS-03 is the third of the second-generation NVS satellites and the twelfth spacecraft in the IRNSS, or NavIC, system. It is designed to work for 12 years from a geosynchronous slot at 32.5 degrees East, broadcasting on the L1, L5 and S bands, including a civilian L1 signal meant for low-power devices such as smartwatches and fitness trackers.
+NVS-03 is the third of the second-generation NVS satellites and the twelfth spacecraft in the IRNSS, or NavIC, system. It is designed to work for **12 years** from a geosynchronous slot at 32.5 degrees East, broadcasting on the L1, L5 and S bands, including a civilian L1 signal meant for low-power devices such as smartwatches and fitness trackers.
 
 ## An Indian clock at its heart
 
@@ -66,4 +66,4 @@ The most important part of the satellite may be its timekeeper. NVS-03 carries a
 
 The system also lost a replacement last year. NVS-02, launched in January 2025, never reached its intended orbit because a propulsion problem stopped the orbit-raising manoeuvre.
 
-NavIC covers India and about 1,500 km beyond its borders. It needs at least four working satellites to provide positioning on its own, without leaning on GPS or other foreign systems, and only three are currently available. A successful launch would bring the constellation back to that minimum. NVS-04 and NVS-05 are in advanced stages of being built.
+NavIC covers India and about 1,500 km beyond its borders. It needs at **least four working satellites** to provide positioning on its own, without leaning on GPS or other foreign systems, and only three are currently available. A successful launch would bring the constellation back to that minimum. NVS-04 and NVS-05 are in advanced stages of being built.

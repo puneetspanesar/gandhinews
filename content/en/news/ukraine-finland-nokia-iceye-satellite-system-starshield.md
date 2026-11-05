@@ -43,7 +43,7 @@ verification:
     - "Defence Ministry source unnamed; quoted words only."
 ---
 
-Ukraine is to build its own satellite communications system with two Finnish companies, Nokia and ICEYE, President Volodymyr Zelenskyy said on Friday, as his military keeps reporting problems with Starshield, the military version of Elon Musk's Starlink.
+Ukraine is to build its own satellite communications system with two Finnish companies, **Nokia and ICEYE**, President Volodymyr Zelenskyy said on Friday, as his military keeps reporting problems with Starshield, the military version of Elon Musk's Starlink.
 
 Ukraine's Defence Ministry and the Finnish firms signed a letter of intent on Thursday, while Finnish Prime Minister Petteri Orpo was visiting Kyiv. "[Ukraine] will use more of Finland's satellite capabilities. This is important for our defence, for Ukraine's resilience," Zelenskyy said.
 

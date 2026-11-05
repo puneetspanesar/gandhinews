@@ -47,6 +47,6 @@ General secretary Vijoo Krishnan said the agrarian crisis had "deepened during t
 
 ## Ninety years on
 
-The AIKS, founded in Lucknow on April 11, 1936, and claiming more than 1.58 crore members, will hold its 36th all-India conference in Nalgonda, Telangana, from November 15 to 18. More than 800 delegates and observers are expected. It will open with a rally of one lakh farmers on November 15, the birth anniversary of Birsa Munda, and the body has asked for its flag to be hoisted in villages across the country that day.
+The AIKS, founded in Lucknow on April 11, 1936, and claiming more than **1.58 crore** members, will hold its 36th all-India conference in Nalgonda, Telangana, from November 15 to 18. More than 800 delegates and observers are expected. It will open with a rally of one lakh farmers on November 15, the birth anniversary of Birsa Munda, and the body has asked for its flag to be hoisted in villages across the country that day.
 
 The venue marks the 80th anniversary of the Telangana armed peasants' struggle. The AIKS accused the BJP and RSS of trying to give that movement a communal colour, saying it was a class struggle that united Hindu and Muslim peasants against the landlords and the Nizam.

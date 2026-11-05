@@ -74,7 +74,7 @@ Gaza, the war in Yemen and the prospects for ending the war in Ukraine were also
 
 The appeal came as President Donald Trump kept the door open to new strikes. He told reporters on Friday that the US "may do it a little bit further" against Iran, and that a move would come "fairly soon", without naming a target or a timetable. Later, he suggested Washington "may do another little Epic Fury".
 
-The US blockade of Iranian shipping has now run for 100 days, and US Central Command says it has kept at least $25 billion of Iranian crude off the market. Brent crude touched $115 a barrel on Friday evening and $117.30 overnight.
+The US blockade of Iranian shipping has now run for 100 days, and US Central Command says it has kept at least **$25 billion** of Iranian crude off the market. Brent crude touched $115 a barrel on Friday evening and $117.30 overnight.
 
 ## The Saudi question
 

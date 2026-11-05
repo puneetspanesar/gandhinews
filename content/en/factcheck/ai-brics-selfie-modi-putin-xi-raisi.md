@@ -63,30 +63,20 @@ Putin and Xi did attend the summit, and PM Modi welcomed both at Bharat Mandapam
 
 BOOM listed the claim as "Photo shows Modi with world leaders at BRICS summit", made by social media handles. It reported that an image of PM Modi taking a selfie with Vladimir Putin, Xi Jinping and Ebrahim Raisi was shared as a real photo from the 2026 BRICS Summit. BJP spokesperson Shazia Ilmi posted it with a message praising Modi and criticising opposition leaders, including Rahul Gandhi, and later deleted the post.
 
-Source: [BOOM, September 13, 2026](https://www.boomlive.in/fact-check/photo-of-pm-modi-with-world-leaders-at-brics-summit-is-ai-32212)
-
 ### 2. The image carries AI markers
 
 BOOM said it "found a watermark in the photograph indicating it was generated using OpenAI's tools". It then ran the image through OpenAI's verification tool, which "found embedded markers that confirmed that the photo was generated using OpenAI".
 
-Source: [BOOM, September 13, 2026](https://www.boomlive.in/fact-check/photo-of-pm-modi-with-world-leaders-at-brics-summit-is-ai-32212)
-
 ### 3. One of the leaders died in 2024
 
-Raisi was killed in a helicopter crash near the Azerbaijan border on May 20, 2024, BOOM noted, citing a Reuters report. The 2026 summit was held at Bharat Mandapam in Delhi on September 12 and 13.
-
-Source: [BOOM, September 13, 2026](https://www.boomlive.in/fact-check/photo-of-pm-modi-with-world-leaders-at-brics-summit-is-ai-32212)
+Raisi was killed in a helicopter crash near the Azerbaijan border on May 20, 2024. The 2026 summit was held at Bharat Mandapam in Delhi on September 12 and 13.
 
 ### 4. Iran sent a different President
 
-Free Press Journal reported on September 12, 2026, that PM Modi welcomed Chinese President Xi Jinping, Russian President Vladimir Putin, Iranian President Masoud Pezeshkian and South African President Cyril Ramaphosa at the summit. ThePrint had reported on August 26 that Pezeshkian was expected to represent Iran. A genuine group photo from the summit would show Pezeshkian, not Raisi.
-
-Sources: [Free Press Journal, September 12, 2026](https://freepressjournal.in/india/brics-summit-2026-pm-modi-welcomes-xi-putin-pezeshkian-ramaphosa-among-global-leaders-in-delhi); [ThePrint, August 26, 2026](https://theprint.in/diplomacy/brics-summit-xi-putin-pezeshkian-among-international-leaders-expected-next-month-in-new-delhi/3025529/)
+On September 12, 2026, PM Modi welcomed Chinese President Xi Jinping, Russian President Vladimir Putin, Iranian President Masoud Pezeshkian and South African President Cyril Ramaphosa at the summit. On August 26 Pezeshkian was reported to be expected to represent Iran. A genuine group photo from the summit would show Pezeshkian, not Raisi.
 
 ## Why this claim spread
 
-The image appeared while India was hosting the summit, an event that drew Xi on his first visit to India in nearly seven years, Free Press Journal reported. BOOM said it was posted by a spokesperson of the ruling party, with a message aimed at opposition leaders, before it was deleted. BOOM linked an archived copy of the post. The desk has no sourced data on how widely the image was shared or how many accounts posted it, and the deletion does not by itself show how far it had travelled.
+The image appeared while India was hosting the summit, an event that drew Xi on his first visit to India in nearly seven years. BOOM said it was posted by a spokesperson of the ruling party, with a message aimed at opposition leaders, before it was deleted. BOOM linked an archived copy of the post. The desk has no sourced data on how widely the image was shared or how many accounts posted it, and the deletion does not by itself show how far it had travelled.
 
-Gandhi News does not reproduce or link to the image. Readers can see BOOM's full analysis at the link above.
-
-Sources: [BOOM, September 13, 2026](https://www.boomlive.in/fact-check/photo-of-pm-modi-with-world-leaders-at-brics-summit-is-ai-32212); [Free Press Journal, September 12, 2026](https://freepressjournal.in/india/brics-summit-2026-pm-modi-welcomes-xi-putin-pezeshkian-ramaphosa-among-global-leaders-in-delhi)
+Gandhi News does not reproduce or link to the image.

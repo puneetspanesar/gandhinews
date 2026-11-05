@@ -38,7 +38,7 @@ verification:
 
 A federal judge in New York has ordered the Trump administration to stop running taxpayer-funded television ads featuring President Donald Trump, in a case brought by government watchdogs weeks before the November 3 midterm elections.
 
-US District Judge Jennifer Rochon granted a two-week temporary restraining order on Sunday night. It requires the administration to cancel the remaining ads, including any due to air that night, and bars it from signing, renewing or expanding deals for more.
+US District Judge Jennifer Rochon granted a two-week temporary restraining order on Sunday night. It requires the administration to **cancel the remaining ads**, including any due to air that night, and bars it from signing, renewing or expanding deals for more.
 
 ## $20 million from Homeland Security
 
@@ -52,4 +52,4 @@ The case was brought by a coalition including the watchdog Common Cause, represe
 
 In court, the Justice Department argued that an order was unnecessary because "the alleged offending conduct will end tomorrow". A senior Homeland Security official, Holly Mehringer, said in a declaration that the funds were available for "commemorating efforts and events related to border security".
 
-Trump has called the ads "rather standard" and later said his political fundraising would pay for them. A White House official said there were no immediate plans to repay the money already spent. Some Republicans have also objected. "It shouldn't be paid for with taxpayer dollars," said Senate Majority Leader John Thune.
+Trump has called the ads "rather standard" and later said his political fundraising would pay for them. A White House official said there were no immediate **plans to repay** the money already spent. Some Republicans have also objected. "It shouldn't be paid for with taxpayer dollars," said Senate Majority Leader John Thune.

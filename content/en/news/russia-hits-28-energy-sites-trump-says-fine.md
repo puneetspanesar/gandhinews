@@ -69,7 +69,7 @@ verification:
     - "Patriot figure of about 12 a month is Zelenskyy's claim in a Bloomberg interview, Oct 18."
 ---
 
-US President Donald Trump said on Monday that Russia had "been fine on Ukraine", hours after Russian missiles and drones knocked out 28 substations and other critical energy facilities across the country and a daytime drone strike on a park in the Kharkiv region killed six people, among them children.
+US President Donald Trump said on Monday that Russia had "been fine on Ukraine", hours after Russian missiles and drones knocked out **28 substations and other critical energy facilities** across the country and a daytime drone strike on a park in the Kharkiv region killed six people, among them children.
 
 "Russia, frankly, has been fine on Ukraine. They haven't been doing much," Trump told reporters as he left the White House. He said he was open to a three-way meeting with Russian President Vladimir Putin and Chinese President Xi Jinping, but that its main purpose would be nuclear disarmament, not Ukraine. He defended his recent dealings with Moscow, including the sanctions waivers, saying Washington was negotiating with the Kremlin over the release of a high-profile hostage, and praised Putin for "laying off Iran".
 
@@ -85,7 +85,7 @@ Ukraine's air force said Russia launched 269 drones overnight, of which 243 were
 
 Kyiv's sharpest complaint was about intelligence. Air force spokesman Yurii Ihnat said no warning came from partners before the first wave at about 11 pm, and word of the second wave around 3 am arrived too late to sound the sirens. He said the same had happened during the October 14 attack.
 
-US Secretary of State Marco Rubio, speaking in Samarkand, Uzbekistan, said he could not confirm Kyiv's account. "I don't know. I mean, where did it happen last night? I don't know exactly," he said, adding that a software problem had affected Ukraine's early warning system a few nights earlier. Trump has said Washington has not stopped sharing intelligence with Kyiv.
+US Secretary of State Marco Rubio, speaking in Samarkand, Uzbekistan, said he could not confirm Kyiv's account. "I don't know. I mean, where did it happen last night? I don't know exactly," he said, adding that a software problem had affected Ukraine's **early warning** system a few nights earlier. Trump has said Washington has not stopped sharing intelligence with Kyiv.
 
 Zelenskyy also said Ukraine faces a critical shortage of Patriot interceptors. He has said the United States is supplying about 12 a month and holding back missiles that NATO allies have already paid for.
 

@@ -36,11 +36,11 @@ verification:
     - "ASEAN described as 11 members in the source."
 ---
 
-The ASEAN Specialised Meteorological Centre has raised its haze warning for the southern part of the region to Alert Level 3, the highest on its four-tier scale, as smoke from fires in Indonesia blankets Malaysia, Singapore and beyond.
+The ASEAN Specialised Meteorological Centre has raised its haze warning for the southern part of the region to **Alert Level 3**, the highest on its four-tier scale, as smoke from fires in Indonesia blankets Malaysia, Singapore and beyond.
 
 The alert, posted on Friday, is triggered by a "high risk of severe transboundary haze", with moderate to dense smoke seen across a wide area for two or more days in a row. It is the second time this year the centre has gone to its top level.
 
-On Saturday, Singapore ranked second on IQAir's live list of the most polluted major cities, behind only Baghdad, with Kuala Lumpur third. Readings in both were at "very hazardous" levels. Schools have closed, outdoor activities have been curbed, and doctors are seeing more patients with breathing problems. Indonesia's disaster agency said flights and visibility had been affected, and the country dropped 2.4 tonnes of dry ice from aircraft over South Sumatra to try to clear the air.
+On Saturday, Singapore ranked second on IQAir's live list of the most polluted major cities, behind only Baghdad, with Kuala Lumpur third. Readings in both were at "very hazardous" levels. Schools have closed, outdoor activities have been curbed, and doctors are seeing more patients with breathing problems. Indonesia's disaster agency said flights and visibility had been affected, and the country dropped **2.4 tonnes of dry ice** from aircraft over South Sumatra to try to clear the air.
 
 Anger is rising in Malaysia. "This thing needs to stop," said Zul Hafiz, a 39-year-old teacher who cycled from Shah Alam to Kuala Lumpur to urge ASEAN to act. "It's a bit unfair on Malaysia because of the irresponsible behaviour of our neighbouring country," said Khairul Azhar, a 33-year-old bank officer.
 

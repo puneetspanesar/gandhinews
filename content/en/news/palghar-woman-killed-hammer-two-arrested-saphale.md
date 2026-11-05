@@ -35,7 +35,7 @@ verification:
     - "Single source (IANS, 11:30 UTC / 5 pm IST, Oct 20). Police statements paraphrased; no direct quotes. Date of arrest not given; police briefed on Oct 20. Nature of the dispute not reported."
 ---
 
-Police in Maharashtra's Palghar district have arrested two people over the killing of a 52-year-old woman who was found with a fatal head wound near an iron bridge at Tepacha Pada, under Saphale police station.
+Police in Maharashtra's Palghar district have arrested two people over the killing of a 52-year-old woman who was found with a fatal head wound near an **iron bridge at Tepacha Pada**, under Saphale police station.
 
 The woman, Sajani Vinod Waghari of Adwan Sawarpada in Palghar taluka, was found injured on October 15. Police first registered an accidental death case under Section 194 of the Bharatiya Nagarik Suraksha Sanhita. The inquest and medical examination then found a serious head injury behind her ear, and a murder case was registered under Section 103(1) of the Bharatiya Nyaya Sanhita.
 

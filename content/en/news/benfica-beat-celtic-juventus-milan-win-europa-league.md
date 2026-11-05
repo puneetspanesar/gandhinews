@@ -59,7 +59,7 @@ AC Milan, beaten at home by Benfica on the opening night, recovered with a 4-0 w
 
 Crystal Palace lost 3-2 at Lyon despite goals from Yeremy Pino and Daichi Kamada. Bournemouth beat Sturm Graz 3-0 through Evanilson, Rayan and an Álvaro Rodríguez penalty, and Sunderland won 2-1 in Portugal at Torreense, where Noah Sadiki scored the winner in added time.
 
-Juventus, Benfica, Bournemouth, Beşiktaş, Ferencváros, Olympiacos, Leverkusen, Lyon, Sunderland and Omonia all have six points from two matches. Marseille, beaten 1-0 at home by Olympiacos, are among the clubs still without a point, along with Celtic, Celta and Hoffenheim.
+Juventus, Benfica, Bournemouth, Beşiktaş, Ferencváros, Olympiacos, Leverkusen, Lyon, Sunderland and Omonia all have **six points from two** matches. Marseille, beaten 1-0 at home by Olympiacos, are among the clubs still without a point, along with Celtic, Celta and Hoffenheim.
 
 In the night's other games, Dinamo Zagreb beat Anderlecht with a 96th-minute penalty, Real Sociedad won 1-0 at Union Saint-Gilloise and Ferencváros beat Viktoria Plzeň 2-1.
 

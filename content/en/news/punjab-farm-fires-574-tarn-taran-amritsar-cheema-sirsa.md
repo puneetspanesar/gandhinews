@@ -47,16 +47,16 @@ verification:
     - "Karimpuri party affiliation not stated in source; described only by his campaign name."
 ---
 
-Punjab's stubble-burning count has crept past last year's, with satellites detecting 574 farm fires between September 15 and October 24. That is 2.3 per cent more than the 561 recorded in the same period in 2025, though still 65.8 per cent below the 1,678 of 2024.
+Punjab's stubble-burning count has crept past last year's, with satellites detecting **574 farm fires** between September 15 and October 24. That is 2.3 per cent more than the 561 recorded in the same period in 2025, though still 65.8 per cent below the 1,678 of 2024.
 
-The fires are concentrated in the Majha belt. Tarn Taran has reported 270, up from 175 a year ago, and Amritsar 144, against 135. The two border districts together account for more than 72 per cent of the state's total. Gurdaspur follows with 37, Kapurthala with 27 and Jalandhar with 12.
+The fires are concentrated in the Majha belt. Tarn Taran has reported 270, up from 175 a year ago, and Amritsar 144, against 135. The two border districts together account for more than **72 per cent** of the state's total. Gurdaspur follows with 37, Kapurthala with 27 and Jalandhar with 12.
 
-The state has stepped up enforcement. By October 23, police had registered 91 FIRs against farmers, officials had made red entries in land records in 182 cases, and 305 nodal officers had been issued warnings or show-cause notices. Environmental compensation of ₹9.30 lakh had been imposed by October 22, of which ₹4.93 lakh had been recovered.
+The state has stepped up enforcement. By October 23, police had registered **91 FIRs** against farmers, officials had made red entries in land records in 182 cases, and 305 nodal officers had been issued warnings or show-cause notices. Environmental compensation of ₹9.30 lakh had been imposed by October 22, of which ₹4.93 lakh had been recovered.
 
 ## Blame game
 
 The numbers have sharpened a political row. The BJP accused the Aam Aadmi Party government of failing to rein in the fires. Delhi minister Manjinder Singh Sirsa wrote that "Delhi is still choking today."
 
-Punjab Finance Minister Harpal Singh Cheema hit back, saying the state had given farmers machinery worth more than ₹800 crore, and accused the BJP of "trying to threaten and malign" them.
+Punjab Finance Minister Harpal Singh Cheema hit back, saying the state had given farmers machinery worth more than **₹800 crore**, and accused the BJP of "trying to threaten and malign" them.
 
 Others argue that punishment is the wrong tool. Speaking in Phagwara under his Punjab Sambhalo Muhim campaign, Dr Avtar Singh Karimpuri said "the problem cannot be resolved merely by registering cases against farmers, imposing fines" or adverse entries. He urged the government to collect and remove stubble at its own cost, pay farmers a per-acre bonus for not burning, and back biomass and compressed biogas plants that use crop residue.

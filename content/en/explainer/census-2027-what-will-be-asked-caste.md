@@ -67,11 +67,11 @@ verification:
 
 **It is India's first census since 2011, and the first to be conducted digitally.** It runs in two phases: house listing and housing, followed by population enumeration, when every person is counted. People also have the option of filling in their own details online before an enumerator visits.
 
-The house listing phase was scheduled between April and September 2026. Each state or Union Territory had 30 days for house-to-house work, with an optional 15-day self-enumeration window before it, according to ANI. West Bengal, one of the later states, ran self-enumeration from August 1 to 15 and house-to-house listing from August 16 to September 14.
+The house listing phase was scheduled between April and September 2026. Each state or Union Territory had 30 days for house-to-house work, with an optional 15-day self-enumeration window before it. West Bengal, one of the later states, ran self-enumeration from August 1 to 15 and house-to-house listing from August 16 to September 14.
 
 ## What will I be asked?
 
-**Forty questions about each person, notified by the Registrar General on August 14, 2026.** The full list was published in a gazette notification under the Census Act, 1948, which directs enumerators to "ask all such questions of all persons residing within such limits". Reports by Business Standard and PTI name these among them:
+**Forty questions about each person, notified by the Registrar General on August 14, 2026.** The full list was published in a gazette notification under the Census Act, 1948, which directs enumerators to "ask all such questions of all persons residing within such limits". They include these:
 
 - Age, religion, mother tongue, migration, work and fertility, largely carried over from 2011
 - Whether you belong to a Scheduled Caste or Scheduled Tribe, and your caste
@@ -81,11 +81,11 @@ The house listing phase was scheduled between April and September 2026. Each sta
 - The number of bank accounts you hold
 - Where you received a Covid-19 vaccine
 
-The house listing phase used a separate set of 33 questions, as reported by Telangana Today.
+The house listing phase used a separate set of 33 questions.
 
 ## How will caste be recorded?
 
-**Question 10, which asked only about SC or ST status in 2011, now reads "SC/ST/Caste", and covers every group.** India last counted caste for all groups in 1931; every census since independence recorded only SC and ST status, Business Standard reported.
+**Question 10, which asked only about SC or ST status in 2011, now reads "SC/ST/Caste", and covers every group.** India last counted caste for all groups in 1931; every census since independence recorded only SC and ST status.
 
 The notification did not come with a pre-set list of castes, so answers are to be recorded as people give them. Congress general secretary Jairam Ramesh said a state-wise list, like those used in the Bihar and Telangana caste surveys, had been widely expected, and that its absence raised "serious doubts on intent".
 
@@ -96,16 +96,16 @@ How the Registrar General will group millions of written answers into categories
 **Most of India will be counted in February 2027, but some areas go earlier.** Each schedule has its own reference date, the moment at which the population is counted.
 
 ```timeline
-{"title":"Population count schedule","items":[{"date":"Sep 2026","text":"Ladakh and snow-bound areas of J&K, Himachal Pradesh and Uttarakhand; reference date Oct 1, 2026"},{"date":"Nov 16-30, 2026","text":"Self-enumeration in Uttar Pradesh, Punjab, Goa and non-snow-bound Uttarakhand"},{"date":"Dec 1, 2026–Jan 4, 2027","text":"Door-to-door count in those four states; revisional round Jan 5-9; reference date Jan 5, 2027"},{"date":"Feb 2027","text":"Rest of India; reference date Mar 1, 2027"}]}
+{"title":"Population count schedule","items":[{"date":"Sep 2026","text":"Ladakh and snow-bound areas of J&K, Himachal Pradesh and Uttarakhand; reference date Oct 1, 2026"},{"date":"Nov 16-30, 2026","text":"Self-enumeration in Uttar Pradesh, Punjab, Goa and non-snow-bound Uttarakhand"},{"date":"Dec 1, 2026 to Jan 4, 2027","text":"Door-to-door count in those four states; revisional round Jan 5-9; reference date Jan 5, 2027"},{"date":"Feb 2027","text":"Rest of India; reference date Mar 1, 2027"}]}
 ```
 
-The four states counted early all have assembly terms ending between March and May 2027. Business Standard linked the earlier schedule to those polls; the notification itself gives no reason.
+The four states counted early all have assembly terms ending between March and May 2027. The earlier schedule has been linked to those polls, though the notification itself gives no reason.
 
 In the four early states, the population is counted as it stood at midnight on January 5, 2027, two months before the national reference date of March 1, 2027.
 
 ## How does self-enumeration work?
 
-**You can enter your own household's details online during a window just before the enumerator's visit.** In the four poll-bound states, that window is November 16 to 30, 2026. In the snow-bound areas it ran from August 17 to 31, 2026, PTI reported. Business Standard describes this option as one of the features of the first census to be conducted digitally.
+**You can enter your own household's details online during a window just before the enumerator's visit.** In the four poll-bound states, that window is November 16 to 30, 2026. In the snow-bound areas it ran from August 17 to 31, 2026. This option is one of the features of the first census to be conducted digitally.
 
 ```facts
 {"title":"Census 2027 in numbers","items":[{"value":"40","label":"questions in the population count","source":"Business Standard; PTI"},{"value":"33","label":"questions in the house listing phase","source":"Telangana Today"},{"value":"1931","label":"last census to record caste for all groups","source":"Business Standard"},{"value":"Mar 1, 2027","label":"reference date for most of India","source":"Business Standard"}]}
@@ -115,9 +115,9 @@ In the four early states, the population is counted as it stood at midnight on J
 
 **The Office of the Registrar General and Census Commissioner, under the Union Home Ministry, runs it under the Census Act, 1948.** The current Registrar General is Mritunjay Kumar Narayan, who signed both the August notification of questions and the September notification advancing the count in four states.
 
-The census budget is ₹11,718 crore, as reported by Telangana Today and The Arunachal Times.
+The census budget is ₹11,718 crore.
 
-The field work needs a large workforce. In West Bengal alone, nearly 2 lakh enumerators were engaged for house listing, the state's in-charge census director, Nikhil Pawan Kalyan, told ANI. Chief Minister Suvendu Adhikari said on X that the state had covered all 1,73,066 house listing blocks before its September 14 deadline, UNI reported.
+The field work needs a large workforce. In West Bengal alone, nearly 2 lakh enumerators were engaged for house listing, the state's in-charge census director, Nikhil Pawan Kalyan, said. Chief Minister Suvendu Adhikari said on X that the state had covered all 1,73,066 house listing blocks before its September 14 deadline.
 
 ## When will the results come out?
 

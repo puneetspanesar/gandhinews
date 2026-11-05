@@ -49,7 +49,7 @@ verification:
 
 Niklas Nørgaard of Denmark shot a six-under-par 66 to lead the DP World India Championship after a first day at Delhi Golf Club that was cut in half by thunderstorms.
 
-Play was stopped at 11 am on Thursday because of lightning, and a heavy downpour, with 24 mm of rain, kept the players off the course for four hours and 50 minutes. When golf resumed at about 4 pm, only the morning wave, about half the field, managed to finish.
+Play was stopped at 11 am on Thursday because of lightning, and a heavy downpour, with 24 mm of rain, kept the players off the course for **four hours and 50 minutes**. When golf resumed at about 4 pm, only the morning wave, about half the field, managed to finish.
 
 Nørgaard closed his round with a birdie and admitted the course was not an obvious fit for his game.
 
@@ -61,7 +61,7 @@ Northern Ireland's Tom McKibbin, Belgium's Thomas Detry and Spain's Eugenio Chac
 
 ## Chouhan's local knowledge
 
-The best of the Indians was Om Prakash Chouhan, a 40-year-old with 12 professional titles who is seventh on the PGTI Order of Merit. His four-under 68, built on six birdies and two bogeys, left him tied fifth and two shots off the lead. The highlight was a chip-in from 15 yards on the sixth.
+The best of the Indians was Om Prakash Chouhan, a 40-year-old with 12 professional titles who is seventh on the PGTI Order of Merit. His four-under 68, built on six birdies and two bogeys, left him **tied fifth** and two shots off the lead. The highlight was a chip-in from 15 yards on the sixth.
 
 Chouhan said he was very satisfied with the round given the conditions and the long wait, and credited his knowledge of the Delhi course and a recent change of putter.
 

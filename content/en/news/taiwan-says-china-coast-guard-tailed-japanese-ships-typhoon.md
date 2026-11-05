@@ -47,8 +47,8 @@ The Coast Guard Administration (CGA) said eight Japan Coast Guard vessels had ta
 
 The Japanese group included three helicopter-carrying patrol ships, the Reimei, Yashima and Ryukyu, and five large patrol vessels. Five China Coast Guard ships followed them, including two 5,000-tonne Daishan-class cutters, the CGA said.
 
-In a statement on Friday, the CGA said the Japanese ships were entitled under the UN Convention on the Law of the Sea, and under humanitarian principles at sea, to pass through the strait's international waters. It said Beijing's campaign was aimed at turning the strait into a Chinese inland sea, against freedom of navigation and the rules-based international order.
+In a statement on Friday, the CGA said the Japanese ships were entitled under the UN Convention on the Law of the Sea, and under humanitarian principles at sea, to pass through the strait's international waters. It said Beijing's campaign was aimed at turning the strait into a **Chinese inland sea**, against freedom of navigation and the rules-based international order.
 
 The CGA said it was keeping all-weather watch on the Chinese ships and "remains fully prepared to take actions necessary" to defend freedom of navigation, safety at sea and Taiwan's security, even as it carried out disaster relief duties during the typhoon.
 
-Champi, at one point a super typhoon, was forecast to drop up to 900 mm of rain on the mountains of northern Taiwan. It grounded all 262 domestic and 715 international flights on Friday and left one man dead and 350 people injured.
+Champi, at one point a super typhoon, was forecast to drop up to **900 mm** of rain on the mountains of northern Taiwan. It grounded all 262 domestic and 715 international flights on Friday and left one man dead and 350 people injured.

@@ -62,13 +62,13 @@ verification:
     - "Independent fact-check Oct 11: Poundrik never said the 2017 policy 'needed a relook'; reworded to his reported words on Sept 29 (ANI: new issues since 2017 and 'course correction... in terms of capacity, consumption'). Draft figures re-checked against Business Standard, Business Today and Deccan Chronicle and found to match; the Viksit Bharat quote matches ANI."
 ---
 
-The Ministry of Steel has put out a draft National Steel Policy-Vision 2047 that plans for India to build 604 million tonnes (MT) of crude steel capacity by 2047. Installed capacity today is about 220 MT, so the target is close to three times the current level.
+The Ministry of Steel has put out a draft National Steel Policy-Vision 2047 that plans for India to build **604 million tonnes** (MT) of crude steel capacity by 2047. Installed capacity today is about 220 MT, so the target is close to three times the current level.
 
 The draft would replace the National Steel Policy of 2017, which aimed for 300 MT of capacity by 2030-31 and per-capita consumption of 160 kg. The ministry has invited feedback from industry on its website.
 
 ## The headline numbers
 
-The draft projects crude steel production of 531 MT and finished steel consumption of 505 MT by 2047. Per-capita consumption would rise to 302 kg from 116 kg now. These projections assume GDP growth of about 7% a year and capacity running at 88%.
+The draft projects crude steel production of 531 MT and finished steel consumption of 505 MT by 2047. Per-capita consumption would rise to 302 kg from 116 kg now. These projections assume GDP growth of about **7%** a year and capacity running at 88%.
 
 Exports are pegged at 45 MT. India produced about 170 MT of crude steel in 2025-26, up from about 89 MT in 2014-15. Finished steel consumption rose from 77 MT to 164 MT over the same years.
 
@@ -80,7 +80,7 @@ Steel Secretary Sandeep Poundrik said on September 29 that new issues had come u
 
 ## Raw materials are the big gap
 
-Raw materials make up 65-70% of the cost of making steel, and much of the draft deals with them. India is largely self-sufficient in iron ore but imports nearly 92% of its coking coal.
+Raw materials make up 65-70% of the cost of making steel, and much of the draft deals with them. India is largely self-sufficient in iron ore but imports nearly **92%** of its coking coal.
 
 ```chart
 {"type":"hbar","title":"What the steel plan needs","subtitle":"Raw material demand, now and in 2047 (million tonnes)","unit":" MT","data":[{"label":"Iron ore, 2025","value":299},{"label":"Iron ore, 2047","value":772,"highlight":true},{"label":"Coking coal, 2025","value":72},{"label":"Coking coal, 2047","value":236,"highlight":true},{"label":"Scrap, 2025-26","value":36},{"label":"Scrap, 2047-48","value":123,"highlight":true}],"source":"Draft National Steel Policy-Vision 2047, Ministry of Steel"}
@@ -88,11 +88,11 @@ Raw materials make up 65-70% of the cost of making steel, and much of the draft 
 
 To cut coal imports, the draft proposes more domestic mining, more washeries, buying mining assets abroad, long-term supply contracts and AI tools to optimise coal blends. Washeries now have about 39 MT a year of capacity but produce only about 6 MT of washed coal from roughly 17 MT of feed.
 
-It also wants far more iron ore moved by slurry pipeline, from about 18 MT a year to more than 299 MT. Only about 1% of iron ore moves this way today. The draft notes that slurry pipelines "require significant water and face environmental concerns", and proposes single-window clearances and viability gap funding.
+It also wants far more iron ore moved by slurry pipeline, from about 18 MT a year to more than 299 MT. Only about **1%** of iron ore moves this way today. The draft notes that slurry pipelines "require significant water and face environmental concerns", and proposes single-window clearances and viability gap funding.
 
 ## Emissions and scrap
 
-The steel sector accounts for 10-12% of India's CO2 emissions. The draft targets a fall in emission intensity from 2.54 to 1.54 tonnes of CO2 per tonne of crude steel by 2047, a cut of about 39%. The global average is about 1.92 tonnes.
+The steel sector accounts for 10-12% of India's CO2 emissions. The draft targets a fall in emission intensity from 2.54 to 1.54 tonnes of CO2 per tonne of crude steel by 2047, a cut of about **39%**. The global average is about 1.92 tonnes.
 
 The plan is phased: energy efficiency, renewable power and more scrap first, then wider use of advanced technology, and later green hydrogen-based direct reduced iron and carbon capture for leftover emissions.
 

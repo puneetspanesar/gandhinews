@@ -53,6 +53,6 @@ They suggest Jupiter played a part. The giant planet began forming within about 
 
 "Bennu may offer our best glimpse of the original mix of chemical elements," Schönbächler said.
 
-The ETH Zurich laboratory received half a gram of the roughly 120 grams of Bennu that landed in the Utah desert on September 23, 2023. Bennu circles the Sun every 1.2 years and passes within about 300,000 km of Earth roughly every six years.
+The ETH Zurich laboratory received half a gram of the roughly 120 grams of Bennu that landed in the Utah desert on September 23, 2023. Bennu circles the Sun every **1.2 years** and passes within about 300,000 km of Earth roughly every six years.
 
 The team now wants to know whether other asteroids carry the same signature. "We are now wondering whether other asteroids have the same isotopic signature as Bennu and Ryugu," Schönbächler said.

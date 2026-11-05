@@ -40,9 +40,9 @@ verification:
     - "Ravana Dahan: single source (IANS, 15:35 UTC / 9:05 pm IST, Oct 20). Venue, effigy heights and crowd size not given; no direct quotes from Patel. Shastra Puja article listed from search result headline only (not fetched); copy mentions it only as a morning Shastra Puja."
 ---
 
-Gujarat Chief Minister Bhupendra Patel led the Ravana Dahan in Ahmedabad on Tuesday night, as giant effigies of Ravana, Meghnad and Kumbhakarna went up in flames at the close of the Vijayadashami Mahotsav 2026 organised by the Shanti Seva Charitable Trust.
+Gujarat Chief Minister Bhupendra Patel led the Ravana Dahan in Ahmedabad on Tuesday night, as giant effigies of **Ravana, Meghnad and Kumbhakarna** went up in flames at the close of the Vijayadashami Mahotsav 2026 organised by the Shanti Seva Charitable Trust.
 
-The evening began with a dayro, a traditional Gujarati folk performance, by the team of folk artist Sairam Dave. The three effigies were set alight after the performance before a large gathering.
+The evening began with a dayro, a traditional Gujarati folk performance, by the team of folk artist **Sairam Dave**. The three effigies were set alight after the performance before a large gathering.
 
 Minister of State for Urban Development Darshana Vaghela, Ahmedabad Mayor Hitesh Barot and Members of Parliament Hasmukh Patel and Dinesh Makwana attended, along with local legislators, saints and spiritual leaders, political representatives and office-bearers of the Ahmedabad Municipal Corporation. Sandeep Barot, who heads the trust, hosted the event.
 

@@ -52,6 +52,6 @@ There was no response from the Congress or the chief minister's office to the cl
 
 Mr Vijayendra said the BJP and the JD(S) were campaigning together and that NDA candidates would win all four Legislative Council seats in the polls on October 23.
 
-He accused the state government of passing the sugarcane growers' problems on to the Centre, banks and sugar factories, and urged it to consider a State Advised Price, as he said Haryana and Uttar Pradesh do. He questioned whether ₹2,500 in drought relief was enough.
+He accused the state government of passing the sugarcane growers' problems on to the Centre, banks and sugar factories, and urged it to consider a State Advised Price, as he said Haryana and Uttar Pradesh do. He questioned whether **₹2,500** in drought relief was enough.
 
-He also demanded an impartial probe into alleged irregularities and delays in Karnataka Public Service Commission recruitment, opposed any move to abolish the commission, and said irregularities from the BJP's own years in power should be examined too. He asked how many of the roughly 2.5 lakh posts the Congress had promised had been filled.
+He also demanded an impartial probe into alleged irregularities and delays in Karnataka Public Service Commission recruitment, opposed any move to abolish the commission, and said irregularities from the BJP's own years in power should be examined too. He asked how many of the roughly **2.5 lakh posts** the Congress had promised had been filled.

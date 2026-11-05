@@ -42,9 +42,9 @@ verification:
     - "Single outlet for most details (Kyiv Independent)."
 ---
 
-A Russian drone struck the central park of Nova Vodolaha, a town in Ukraine's Kharkiv region, on Monday afternoon, killing six people, among them an infant in a stroller.
+A Russian drone struck the central park of Nova Vodolaha, a town in Ukraine's Kharkiv region, on Monday afternoon, killing six people, among them an **infant in a stroller**.
 
-The attack came at about 4:30 pm local time, when the park was busy, according to the regional prosecutor's office. Governor Oleh Syniehubov said at least 15 people were injured, seven of them children. Interior Minister Ivan Vyhivskyi said two women and the infant were among the dead, and that many of the people in the park were families with children. He said the strike made no military sense.
+The attack came at about 4:30 pm local time, when the park was busy, according to the regional prosecutor's office. Governor Oleh Syniehubov said at least **15 people were injured**, seven of them children. Interior Minister Ivan Vyhivskyi said two women and the infant were among the dead, and that many of the people in the park were families with children. He said the strike made no military sense.
 
 Investigators believe Russian forces used a Geran-3 jet-powered drone. Prosecutors opened a pre-trial investigation into a possible war crime.
 

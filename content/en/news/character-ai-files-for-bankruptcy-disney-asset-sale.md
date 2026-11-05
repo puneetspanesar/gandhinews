@@ -38,7 +38,7 @@ verification:
     - "A search snippet suggested Disney has named Karandeep Anand its CTO; not confirmed from a reliable source, left out. TechCrunch says only that former staff and Anand will provide transition services."
 ---
 
-Character.AI, the chatbot company that let millions of people talk to AI versions of fictional and historical characters, has filed for Chapter 11 bankruptcy in the United States and agreed to sell some of its assets to Disney.
+Character.AI, the chatbot company that let millions of people talk to AI versions of fictional and historical characters, has filed for **Chapter 11 bankruptcy** in the United States and agreed to sell some of its assets to Disney.
 
 Disney will pay $20 million and get a non-exclusive, perpetual licence to the company's technology. The sale is expected to close in late November or early December. A court document puts the company's assets and its liabilities each between $50 million and $100 million.
 
@@ -52,7 +52,7 @@ The company was founded in late 2021 by Noam Shazeer and Daniel De Freitas, two 
 
 Growth came quickly. In September 2022 it raised $150 million at a valuation of more than $1 billion; users had exchanged over 2 billion messages in its first five months and were spending more than two hours a day on the service on average. Its apps were installed more than 1.7 million times in their first week in May 2023, and by October 2024 it had about 20 million monthly users.
 
-In August 2024 Google paid $2.7 billion to license Character.AI's models, and Shazeer and De Freitas went back to Google. The startup stopped training its own foundation models and turned to growing the consumer product. Anand, a former Brex and Meta executive, took over as chief executive in June 2025 and added AI video, social feeds and short interactive dramas.
+In August 2024 Google paid **$2.7 billion** to license Character.AI's models, and Shazeer and De Freitas went back to Google. The startup stopped training its own foundation models and turned to growing the consumer product. Anand, a former Brex and Meta executive, took over as chief executive in June 2025 and added AI video, social feeds and short interactive dramas.
 
 ## Lawsuits and costs
 

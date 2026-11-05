@@ -77,10 +77,6 @@ Wall Street set the tone overnight. The Dow rose 3.03%, the S&P 500 1.58% and th
 
 The rupee also strengthened, **gaining 29 paise to 94.36** against the dollar from Wednesday's close of 94.65. Gold and silver futures rose 1.7% and 1.9%.
 
-```photo
-{"n":2,"subject":"Reserve Bank of India headquarters","caption":"The Reserve Bank of India's headquarters in Mumbai; the rupee gained 29 paise against the dollar in early trade.","alt":"Reserve Bank of India headquarters, Mumbai"}
-```
-
 ## A weak Asia
 
 The rest of Asia did not share the mood. South Korea's Kospi was **down 3.6%** by mid-morning as traders sold chip and technology shares, and Japan's Nikkei 225 slipped 0.39%.

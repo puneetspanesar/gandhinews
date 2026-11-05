@@ -48,13 +48,13 @@ verification:
     - "No closing list of top Sensex gainers/losers was available; intraday movers (Eternal, SML Mahindra, Vishal Mega Mart, Piramal Finance) from BS live blog timestamps."
 ---
 
-Indian shares threw away a strong morning on Wednesday. The Sensex, up more than 800 points before noon on buying in software exporters, slid through the afternoon and closed 143.21 points, or 0.19%, lower at 73,709.69. The Nifty 50 lost 77.60 points, or 0.34%, to end near 22,811. It was the Sensex's second straight fall, after Monday's 876-point drop; markets were shut on Tuesday for Dussehra.
+Indian shares threw away a strong morning on Wednesday. The Sensex, up more than 800 points before noon on buying in software exporters, slid through the afternoon and closed 143.21 points, or **0.19%**, lower at 73,709.69. The Nifty 50 lost 77.60 points, or 0.34%, to end near 22,811. It was the Sensex's second straight fall, after Monday's 876-point drop; markets were shut on Tuesday for Dussehra.
 
-The damage was sharper beneath the headline indices. The Nifty Midcap 100 fell 1.58% and the Nifty Smallcap 100 dropped 2.37%. The India VIX, a gauge of expected volatility, jumped about 6%.
+The damage was sharper beneath the headline indices. The Nifty Midcap 100 fell **1.58%** and the Nifty Smallcap 100 dropped 2.37%. The India VIX, a gauge of expected volatility, jumped about 6%.
 
 ## How the day turned
 
-Trading opened on a firm note, helped by gains on Wall Street overnight and a 2.6% jump in South Korea's Kospi. By about midday the Sensex was up 822.64 points at 74,675.54 and the Nifty up 217.65 points at 23,106.60. Infosys rose more than 3%, Tata Consultancy Services 2.6% and UltraTech Cement 2.3%.
+Trading opened on a firm note, helped by gains on Wall Street overnight and a 2.6% jump in South Korea's Kospi. By about midday the Sensex was up 822.64 points at 74,675.54 and the Nifty up 217.65 points at 23,106.60. Infosys rose more than **3%**, Tata Consultancy Services 2.6% and UltraTech Cement 2.3%.
 
 The mood soured after lunch. By 2 pm the Sensex was 475 points below Monday's close, and at 3 pm it was down 580 points at 73,272.28. A late recovery trimmed the loss. Information technology was the only sector to finish in the green: the Nifty IT index touched an eight-month high of 32,348, led by Infosys and TCS.
 
@@ -62,9 +62,9 @@ V K Vijayakumar, chief investment strategist at Geojit Investments, said in the 
 
 ## Stocks in the news
 
-Results moved several shares. Eternal, the parent of Zomato and Blinkit, fell 4.5% to ₹305.65 ahead of its quarterly numbers, due after the close. SML Mahindra hit its 10% lower circuit after its quarterly profit fell 44.5% to ₹11.7 crore, and Vishal Mega Mart dropped 6% as its profit margin narrowed. Piramal Finance gained 4.6% to ₹2,038 after net profit rose 64.8% to ₹539 crore.
+Results moved several shares. Eternal, the parent of Zomato and Blinkit, fell **4.5%** to ₹305.65 ahead of its quarterly numbers, due after the close. SML Mahindra hit its 10% lower circuit after its quarterly profit fell 44.5% to ₹11.7 crore, and Vishal Mega Mart dropped 6% as its profit margin narrowed. Piramal Finance gained 4.6% to ₹2,038 after net profit rose 64.8% to ₹539 crore.
 
-Foreign investors had sold shares worth ₹1,148.64 crore on Monday, while domestic institutions bought ₹3,201.19 crore. Brent crude traded above $110 a barrel, up about 1.4%.
+Foreign investors had sold shares worth **₹1,148.64 crore** on Monday, while domestic institutions bought ₹3,201.19 crore. Brent crude traded above $110 a barrel, up about 1.4%.
 
 ## Rupee and the Jio effect
 

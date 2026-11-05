@@ -47,23 +47,23 @@ verification:
     - "Quarter-on-quarter fall of 42.5% from Rs 2,599.28 crore in Q1 per BS second piece."
 ---
 
-UltraTech Cement, the country's largest cement maker, reported a 21.3% rise in September-quarter profit on Monday as new plants helped it sell more cement through the monsoon months. Investors were less impressed, and the shares gave up their morning gains.
+UltraTech Cement, the country's largest cement maker, reported a **21.3%** rise in September-quarter profit on Monday as new plants helped it sell more cement through the monsoon months. Investors were less impressed, and the shares gave up their morning gains.
 
-Consolidated net profit attributable to shareholders rose to ₹1,493.77 crore from ₹1,231.58 crore a year earlier. Revenue from operations grew 18.8% to ₹23,295.07 crore. Earnings per share rose to ₹50.78 from ₹41.87.
+Consolidated net profit attributable to shareholders rose to **₹1,493.77 crore** from ₹1,231.58 crore a year earlier. Revenue from operations grew 18.8% to ₹23,295.07 crore. Earnings per share rose to ₹50.78 from ₹41.87.
 
 ## Volumes carry the quarter
 
-The growth came mainly from volume. UltraTech sold 35.94 million tonnes of grey cement in India, 13.8% more than a year ago, and its plants ran at 71% of capacity against 66%.
+The growth came mainly from volume. UltraTech sold 35.94 million tonnes of grey cement in India, **13.8%** more than a year ago, and its plants ran at 71% of capacity against 66%.
 
 "This came from new plants, a wider market reach and more sales of premium products," said Akshay Shetty, research analyst at Mirae Asset Sharekhan, who described the quarter as steady despite disruption from the monsoon.
 
-Costs rose almost as fast as sales. Power and fuel spending went up 24% to ₹5,511 crore and raw materials 24.4% to ₹4,208 crore, while freight rose 16.5%. As a result operating margins were roughly unchanged from a year earlier. Profit was also 42.5% lower than in the April-June quarter, which is usually the strongest of the year for cement.
+Costs rose almost as fast as sales. Power and fuel spending went up **24%** to ₹5,511 crore and raw materials 24.4% to ₹4,208 crore, while freight rose 16.5%. As a result operating margins were roughly unchanged from a year earlier. Profit was also 42.5% lower than in the April-June quarter, which is usually the strongest of the year for cement.
 
 ## More capacity, and a new business
 
 During the quarter UltraTech commissioned a 3.6 million tonne a year integrated plant at Petnikota in Andhra Pradesh and added 1 million tonnes through debottlenecking at Visakhapatnam, Patratu and Nathdwara. Its domestic capacity now stands at 204.7 million tonnes a year, and 210.1 million tonnes including overseas plants. The company said it remains on track to cross 240 million tonnes by March 2028.
 
-It has also started its Ultravolt wires and cables business, with a factory at Jhagadia in Gujarat. On the energy side, a 116.55 MW wind project in Barmer, Rajasthan, took its captive green power capacity past 2 GW, which the company says now meets about 48% of its power needs.
+It has also started its Ultravolt wires and cables business, with a factory at Jhagadia in Gujarat. On the energy side, a 116.55 MW wind project in Barmer, Rajasthan, took its captive green power capacity past 2 GW, which the company says now meets about **48%** of its power needs.
 
 ## How the stock reacted
 

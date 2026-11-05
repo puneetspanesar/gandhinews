@@ -63,6 +63,6 @@ Japan's foreign ministry said the visit "is expected to further strengthen the '
 
 At the centre is Matarbari, the deep-sea port that Japan's aid agency JICA is funding and that will be Bangladesh's only such port when complete. Japanese officials have described a plan to link India's seven northeastern states to the Bay of Bengal and Southeast Asia through it. "Enhancing connectivity from Bangladesh to northeast India" would strengthen the port's value, they said.
 
-Dhaka is more cautious. Siam said the port expansion was driven by Bangladesh's own trade needs. "If we have idle capacity after handling our cargoes, we can think of other cooperation," he said. The Maitri Bridge over the Feni river, which links Bangladesh with Tripura, is not operating amid strained India-Bangladesh ties.
+Dhaka is more cautious. Siam said the port expansion was driven by Bangladesh's own trade needs. "If we have idle capacity after handling our cargoes, we can think of other cooperation," he said. The Maitri Bridge over the Feni river, which links Bangladesh with Tripura, is not operating because of strained India-Bangladesh ties.
 
 The trip also tests Dhaka's balance between Tokyo and Beijing. Japan is reported to have raised concerns through diplomatic channels about wording on the Second World War in a joint communique from Rahman's visit to China in June.

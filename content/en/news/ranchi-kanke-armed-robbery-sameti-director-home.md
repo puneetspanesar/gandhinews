@@ -36,12 +36,12 @@ verification:
     - "Thana in-charge named as Kunal Kumar; quote is paraphrased."
 ---
 
-An armed gang held a family at gunpoint and looted jewellery and cash from a house in Ranchi's Kanke area on Tuesday morning. The goods taken were put at about ₹3.5 crore.
+An armed gang held a family at gunpoint and looted jewellery and cash from a house in Ranchi's Kanke area on Tuesday morning. The goods taken were put at about **₹3.5 crore**.
 
 The house in Adarsh Nagar, near the Ring Road, belongs to Ramshankar Prasad, director of the State Agricultural Management and Extension Training Institute (SAMETI). Seven men arrived in an Innova at about 7:30 am. Prasad's mother opened the door, thinking they had come to collect donations, as some people had come asking for money the day before.
 
 Two of the men kept a pistol trained on the family while the rest searched the house. Five family members, Prasad and three women among them, were shut in a single room.
 
-The robbers fled towards Pithoria. The Innova later ran out of petrol and was left abandoned at Sutiyambe. The vehicle is registered to a resident of Ratu Road, and police have not said whether he has any link to the robbery.
+The robbers fled towards Pithoria. The Innova later **ran out of petrol** and was left abandoned at Sutiyambe. The vehicle is registered to a resident of Ratu Road, and police have not said whether he has any link to the robbery.
 
 A dog squad followed a trail a short distance towards Pithoria before losing it, and a technical team was brought in. The technical team is said to have found important clues, though officials gave no details. Kunal Kumar, the officer in charge of the local police station, said raids were under way and the investigation was continuing. The family had not yet filed a written complaint when the robbery was first reported.

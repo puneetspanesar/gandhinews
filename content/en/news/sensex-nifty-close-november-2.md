@@ -22,7 +22,7 @@ hero:
     value: "Sensex +1,233, Nifty at 23,440"
 related: [sensex-500-points-off-high-afternoon-it-drags-nifty-23247, reliance-shares-jump-6-per-cent-q2-profit-o2c-jio, oil-slips-monday-brent-111-iran-qatar-talks-november-2, maruti-suzuki-record-october-sales-276120, markets-week-ahead-us-midterms-itc-sbi-results-november-2]
 seo:
-  description: "Stock market today, November 2, 2026: Sensex closed at 75,692.78, up 1,233 points, and Nifty at 23,440.80 as Reliance rose 11.6% and oil and metal shares rallied."
+  description: "Stock market on November 2, 2026: Sensex closed at 75,692.78, up 1,233 points, and Nifty at 23,440.80 as Reliance rose 11.6% and oil and metal shares rallied."
 cover:
   template: business
   label: "Markets"

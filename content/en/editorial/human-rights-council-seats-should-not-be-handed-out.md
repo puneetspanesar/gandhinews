@@ -56,6 +56,6 @@ These are real costs. But the alternative to a costly election is not a free one
 
 ## What India should do
 
-India has served on the council several times and will want to again. It also argues, rightly, for reform of a UN where too much is decided by a few, as this month's deadlocked straw polls for the next Secretary-General have shown. Consistency suggests it should back a simple rule within the Asia-Pacific group and urge others to follow: at least one more candidate than seats, every time.
+India has served on the council several times and will want to again. It also argues, rightly, for reform of a UN where too much is decided by a few, as this month's deadlocked straw polls for the next Secretary-General have shown. Consistency suggests it should back a simple rule within the Asia-Pacific group and urge others to follow: at **least one more candidate than seats**, every time.
 
 India should also commit, when it next stands, to compete in an open race and to publish the pledges on which it seeks election. A country confident of its democratic credentials has nothing to fear from a real vote. The council's credibility, and that of everyone who sits on it, depends on members being chosen rather than appointed.

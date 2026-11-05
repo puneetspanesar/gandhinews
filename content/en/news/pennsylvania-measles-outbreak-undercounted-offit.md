@@ -42,13 +42,13 @@ verification:
 
 Pennsylvania's measles outbreak, the largest in the United States this year, has reached 1,260 confirmed cases across 43 counties, and one of the country's best-known vaccine experts says the real figure is probably several times higher.
 
-Dr Paul Offit, a paediatrician who directs the Vaccine Education Center at Children's Hospital of Philadelphia and once sat on the CDC's vaccine advisory committee, described the official count as "the tip of a much larger iceberg". He estimates the true number of infections is at least five times the official tally, somewhere between 5,000 and 10,000.
+Dr Paul Offit, a paediatrician who directs the Vaccine Education Center at Children's Hospital of Philadelphia and once sat on the CDC's vaccine advisory committee, described the official count as "the tip of a much larger iceberg". He estimates the true number of infections is at **least five times** the official tally, somewhere between 5,000 and 10,000.
 
 ## The toll so far
 
-State figures up to October 16 show 238 people admitted to hospital. Pennsylvania has confirmed five measles-associated deaths and on October 14 said it was looking into another reported death in Franklin County. Fewer than 1% of cases involve people who had been vaccinated.
+State figures up to October 16 show 238 people admitted to hospital. Pennsylvania has confirmed five measles-associated deaths and on October 14 said it was looking into another reported death in Franklin County. Fewer than **1%** of cases involve people who had been vaccinated.
 
-Two days earlier the state had reported 1,222 cases in 42 counties, with 86 new infections in a week. Health workers have given more than 5,900 doses of the measles, mumps and rubella (MMR) vaccine at 202 pop-up clinics since the outbreak began in late April, and the CDC is sending an officer from its Epidemic Intelligence Service to help after the state asked for federal support.
+Two days earlier the state had reported **1,222 cases** in 42 counties, with 86 new infections in a week. Health workers have given more than 5,900 doses of the measles, mumps and rubella (MMR) vaccine at 202 pop-up clinics since the outbreak began in late April, and the CDC is sending an officer from its Epidemic Intelligence Service to help after the state asked for federal support.
 
 Offit said the outbreak is largely hitting adults in their 20s, 30s and 40s who may lack immunity. He also opposes President Donald Trump's proposal to split the MMR vaccine into three separate shots, saying it would mean six injections instead of two.
 
@@ -56,4 +56,4 @@ Offit said the outbreak is largely hitting adults in their 20s, 30s and 40s who 
 
 The CDC has recorded 4,410 measles cases across the US so far in 2026, up 330 in a week, with 451 hospitalisations. In New York, Governor Kathy Hochul declared a statewide disaster emergency on October 5 to widen the pool of health workers allowed to vaccinate.
 
-Coverage among kindergarten children has slipped from 95.2% in 2019-20 to 92.4% in 2025-26, and the CDC estimates about 280,000 kindergarteners are at risk.
+Coverage among kindergarten children has slipped from **95.2%** in 2019-20 to 92.4% in 2025-26, and the CDC estimates about 280,000 kindergarteners are at risk.

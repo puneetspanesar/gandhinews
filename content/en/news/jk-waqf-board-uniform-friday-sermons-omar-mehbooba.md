@@ -37,10 +37,10 @@ verification:
 
 Jammu and Kashmir's two main regional leaders have come out against a plan by the Union Territory's Waqf Board to set common themes for Friday sermons in the mosques and religious institutions under its control.
 
-Board chairperson Darakshan Andrabi, a senior BJP leader, said last week that after meeting clerics and religious scholars, the Board had decided to form a committee. It would settle shared themes for Friday sermons and for other religious occasions.
+Board chairperson Darakshan Andrabi, a senior BJP leader, said last week that after meeting clerics and religious scholars, the Board had decided to form a committee. It would settle shared **themes for Friday sermons** and for other religious occasions.
 
 Chief Minister Omar Abdullah called it an "unacceptable attempt by the BJP to interfere in the religious affairs of Muslims" and said it "will not be accepted under any circumstances". In a post on X, he urged the "BJP appointed Chairperson" to "immediately halt this misplaced attempt to please her masters."
 
-Mehbooba Mufti, the PDP president and a former chief minister, voiced strong concern. Friday sermons are shaped by local issues, she said, and a uniform template "disregards the diversity of local realities and the role of religious scholars in guiding their communities." She demanded that control of the Waqf Board be handed to the elected government.
+Mehbooba Mufti, the PDP president and a former chief minister, voiced strong concern. Friday sermons are shaped by local issues, she said, and a uniform template "disregards the diversity of local realities and the role of religious scholars in guiding their communities." She demanded that control of the Waqf Board be **handed to the elected government**.
 
 The Muttahida Majlis-e-Ulema, the clerics' alliance headed by Mirwaiz Umar Farooq, also objected. It said a statutory body has no business regulating what is preached from the pulpit and told the Board to stick to managing Waqf properties.

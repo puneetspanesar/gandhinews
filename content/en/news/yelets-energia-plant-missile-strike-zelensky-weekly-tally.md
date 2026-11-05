@@ -42,12 +42,12 @@ verification:
     - "Zelensky figures and asks: Ukrinform 11:38 Kyiv time, from his Facebook post; quotes paraphrased except 'helps save lives'."
 ---
 
-The Russian town of Yelets came under attack on Sunday, with an industrial zone that is home to one of Russia's main makers of batteries for military drones and air defence systems apparently the target.
+The Russian town of Yelets came under attack on Sunday, with an industrial zone that is home to one of Russia's main makers of batteries for military **drones and air defence** systems apparently the target.
 
-Igor Artamonov, governor of the Lipetsk region, said the Yelets industrial zone had been attacked on October 25. "Emergency services are already working at the scene," he wrote on social media. He did not say what had been hit or whether anyone was hurt.
+Igor Artamonov, governor of the Lipetsk region, said the Yelets **industrial zone** had been attacked on October 25. "Emergency services are already working at the scene," he wrote on social media. He did not say what had been hit or whether anyone was hurt.
 
 Monitoring channels said the town was hit by cruise missiles. The likely target was the Energia plant, Russia's largest research and production enterprise for chemical power sources. It makes batteries for unmanned aerial vehicles, power cells for air defence missiles, and batteries for aircraft and naval vessels. The plant is under sanctions from the United States, the European Union, the United Kingdom, Canada, Switzerland, Japan, Australia and Ukraine, and was struck before, in May 2025 and again in January this year.
 
-Earlier in the day, President Volodymyr Zelensky said Russia had launched about 1,600 guided aerial bombs, 48 missiles, including ballistic missiles, and nearly 2,300 attack drones at Ukraine over the past week. Overnight strikes alone had hit thermal power plants, substations, coal mines, grain silos, shopping centres and a postal terminal across nine regions, he said.
+Earlier in the day, President Volodymyr Zelensky said Russia had launched **about 1,600 guided** aerial bombs, 48 missiles, including ballistic missiles, and nearly 2,300 attack drones at Ukraine over the past week. Overnight strikes alone had hit thermal power plants, substations, coal mines, grain silos, shopping centres and a postal terminal across nine regions, he said.
 
 Zelensky warned that Russia would step up ballistic attacks as supplies of interceptor missiles to Ukraine dwindle. He asked partners to unblock deliveries of Patriot interceptors that he said European countries had already agreed to supply, to keep supporting Ukraine's combat aviation against Shahed drones, and to send defence packages before winter, which he said "helps save lives".

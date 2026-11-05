@@ -36,9 +36,9 @@ verification:
     - "That the JEP was set up under the 2016 peace deal is general background, not stated in the source."
 ---
 
-Colombia's transitional justice tribunal on Tuesday charged 10 former members of the FARC guerrilla group with war crimes and crimes against humanity committed against Indigenous peoples during the country's long civil conflict.
+Colombia's transitional justice tribunal on Tuesday charged **10 former** members of the FARC guerrilla group with war crimes and crimes against humanity committed against Indigenous peoples during the country's long civil conflict.
 
-The Special Jurisdiction for Peace (JEP), set up under the 2016 peace deal, accused them of torture, murder and forced displacement of five Indigenous groups in southeast Colombia between 1996 and 2016. It said commanders ordered fighters to plant landmines on Indigenous land and to damage the ecosystems the communities depended on.
+The Special Jurisdiction for Peace (JEP), set up under the 2016 peace deal, accused them of torture, murder and forced displacement of **five Indigenous groups** in southeast Colombia between 1996 and 2016. It said commanders ordered fighters to plant landmines on Indigenous land and to damage the ecosystems the communities depended on.
 
 Those charged include Julian Gallo, who served eight years as a senator under the peace agreement, and three members of the FARC's last secretariat.
 
@@ -54,4 +54,4 @@ Rebels, state forces, right-wing paramilitaries and criminal networks have fough
 
 The JEP can only hand down non-prison penalties. In September 2025 it sentenced seven former FARC leaders to eight years of reparation work, including clearing landmines and helping find missing people, for kidnapping. It has given former soldiers similar sentences over the "false positives" scandal, in which civilians were killed and recorded as rebels.
 
-President Abelardo de la Espriella, a far-right former defence lawyer who took office in August, has criticised the tribunal for lenient sentences. His allies have proposed cutting its 2027 budget by nearly 17%, and Congress is due to consider the cut this month.
+President Abelardo de la Espriella, a far-right former defence lawyer who took office in August, has criticised the tribunal for lenient sentences. His allies have proposed cutting its 2027 budget by nearly **17%**, and Congress is due to consider the cut this month.

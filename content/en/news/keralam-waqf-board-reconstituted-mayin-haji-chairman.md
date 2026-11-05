@@ -48,7 +48,7 @@ The decision came while Hamsa's petition against the reconstitution was still pe
 
 Besides Haji, who has served on the board before, the order names Kurukkoli Moideen, an IUML leader and MLA, Musthafal Faizi, Siras D Capsi, Thodiyoor Muhammed Kunju Maulavi, Sajna Firoz, Jaseem Sabaha, Dr Abdul Majeed Swalahi and C Madina Begham.
 
-Representatives of the Mujahid faction have been included, but the A P Sunni faction led by Kanthapuram A P Aboobacker Musliyar has no one on the board. The government has also not appointed the two non-Muslim members required under the amended Waqf law, as a challenge to the law is before the Supreme Court.
+Representatives of the Mujahid faction have been included, but the A **P Sunni faction** led by Kanthapuram A P Aboobacker Musliyar has no one on the board. The government has also not appointed the two non-Muslim members required under the amended Waqf law, as a challenge to the law is before the Supreme Court.
 
 ## Minister cites court cases
 

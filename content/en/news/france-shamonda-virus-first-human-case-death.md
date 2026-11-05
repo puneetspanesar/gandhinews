@@ -40,11 +40,11 @@ verification:
     - "Core fact from Reuters via ThePrint (2:00 pm IST). Immunocompromised patient, early October infection and midge transmission from Brit Brief only; stated with attribution to authorities as relayed. Agency not named in either; patient identity and region not disclosed. 'Previously thought not to infect humans' from Guardian Europe live blog."
 ---
 
-French health authorities said on Thursday that they had found the Shamonda virus in a human for the first time, in a patient who later died.
+French health authorities said on Thursday that they had found the **Shamonda virus** in a human for the first time, in a patient who later died.
 
 The virus mainly circulates among animals, especially livestock, and is spread by biting midges, tiny flying insects. Until now it had not been identified in people and had been thought unable to pass to humans.
 
-The patient, who had a severely weakened immune system, was infected in early October, according to the details released. Officials have not given the person's identity or where in France the infection happened.
+The patient, who had a **severely weakened immune system**, was infected in early October, according to the details released. Officials have not given the person's identity or where in France the infection happened.
 
 The authorities said they saw "no risk to the general population" at this stage. No other human cases have been reported, and investigations into how the patient was infected are continuing.
 

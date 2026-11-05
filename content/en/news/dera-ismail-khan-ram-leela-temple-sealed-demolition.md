@@ -36,9 +36,9 @@ verification:
     - "ETPB role (managing property left by Hindus and Sikhs who migrated at Partition) is background description of the board, not from the Dawn article."
 ---
 
-Authorities in Dera Ismail Khan, in Pakistan's Khyber Pakhtunkhwa province, have locked and sealed the historic Ram Leela temple in the city's Rahim Bazaar after civil society activists and members of the Hindu community moved to stop its demolition.
+Authorities in Dera Ismail Khan, in Pakistan's Khyber Pakhtunkhwa province, have locked and sealed the historic **Ram Leela temple** in the city's Rahim Bazaar after civil society activists and members of the Hindu community moved to stop its demolition.
 
-The temple was sealed on Saturday. Days earlier, Assistant Commissioner Hamid Siddiq had sealed the building and halted work at the site after public protests. Activists say the old structure was to be knocked down to make way for a commercial plaza. The developer has not been named.
+The temple was sealed on Saturday. Days earlier, Assistant Commissioner Hamid Siddiq had sealed the building and halted work at the site after public protests. Activists say the old structure was to be knocked down to make way for a **commercial plaza**. The developer has not been named.
 
 The temple is one of about 400 buildings in Dera Ismail Khan listed as cultural heritage properties by the Evacuee Trust Property Board, the body that manages property left behind by Hindus and Sikhs who migrated to India at Partition.
 

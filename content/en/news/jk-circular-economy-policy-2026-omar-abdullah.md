@@ -37,9 +37,9 @@ verification:
     - "Omar's quote is a fragment as carried in the report."
 ---
 
-Jammu and Kashmir has notified a Circular Economy Policy that aims to recover more than 90% of the material in its towns' waste through better segregation at source and less dumping in landfills, with Chief Minister Omar Abdullah calling it "a decisive step towards resource recovery, green growth and ecological sustainability".
+Jammu and Kashmir has notified a Circular Economy Policy that aims to recover more than **90%** of the material in its towns' waste through better segregation at source and less dumping in landfills, with Chief Minister Omar Abdullah calling it "a decisive step towards resource recovery, green growth and ecological sustainability".
 
-The Jammu and Kashmir Circular Economy Policy, 2026, carries an indicative planning envelope of ₹3,548.7 crore over ten years. It plans to pay its way through central schemes, Extended Producer Responsibility mechanisms, user charges and public-private partnerships, so that it relies less on recurring government subsidy.
+The Jammu and Kashmir Circular Economy Policy, 2026, carries an indicative planning envelope of **₹3,548.7 crore** over ten years. It plans to pay its way through central schemes, Extended Producer Responsibility mechanisms, user charges and public-private partnerships, so that it relies less on recurring government subsidy.
 
 ## Three tiers, many waste streams
 

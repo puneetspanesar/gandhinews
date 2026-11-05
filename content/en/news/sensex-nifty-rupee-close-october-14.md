@@ -56,19 +56,19 @@ verification:
 
 Indian shares ended lower on Wednesday after a choppy session, as drugmakers and finance stocks fell and a sharper-than-expected rise in wholesale inflation pushed up bond yields. Gains in IT and consumer goods companies kept the losses in check.
 
-The BSE Sensex closed 251.89 points, or 0.34%, lower at 72,781.89, giving back part of Tuesday's 1,109-point rally. The NSE Nifty 50 fell 99.25 points, or 0.44%, to 22,622.70.
+The BSE Sensex closed **251.89 points**, or 0.34%, lower at 72,781.89, giving back part of Tuesday's 1,109-point rally. The NSE Nifty 50 fell 99.25 points, or 0.44%, to 22,622.70.
 
 ## Drugmakers lose ground
 
-The Nifty Pharma index was the worst performer, down 1.3% at 25,738.95, and the healthcare index fell 1.25%. The 20 stocks in the pharma index lost ₹25,169 crore in market value between them.
+The Nifty Pharma index was the worst performer, down **1.3%** at 25,738.95, and the healthcare index fell 1.25%. The 20 stocks in the pharma index lost ₹25,169 crore in market value between them.
 
-The sell-off followed the Supreme Court's questions this week on how far the government's trade margin controls on medicines should go. The Centre has told the court it plans to cap trade margins on cancer drugs at 30%. Siddhartha Khemka of Motilal Oswal said "the direct impact on individual companies will depend on any eventual policy changes."
+The sell-off followed the Supreme Court's questions this week on how far the government's trade margin controls on medicines should go. The Centre has told the court it plans to cap trade margins on cancer drugs at **30%**. Siddhartha Khemka of Motilal Oswal said "the direct impact on individual companies will depend on any eventual policy changes."
 
 Bajaj Finance, Bajaj Finserv, Mahindra & Mahindra, Eternal and ICICI Bank were among the biggest drags on the Sensex. Shriram Finance and HDFC Life were among the Nifty's top losers.
 
 ## IT and consumer stocks rise
 
-The Nifty FMCG index rose 1.21%, led by Nestle India, up 3.69%, and Tata Consumer Products, up 2.91%. The IT index gained 1.14% ahead of results from Wipro and Tech Mahindra on Thursday, adding ₹25,029 crore in market value, almost exactly what pharma lost. Infosys, Tech Mahindra, TCS, Hindustan Unilever, NTPC and Reliance Industries were among the Sensex gainers.
+The Nifty FMCG index rose **1.21%**, led by Nestle India, up 3.69%, and Tata Consumer Products, up 2.91%. The IT index gained 1.14% ahead of results from Wipro and Tech Mahindra on Thursday, adding ₹25,029 crore in market value, almost exactly what pharma lost. Infosys, Tech Mahindra, TCS, Hindustan Unilever, NTPC and Reliance Industries were among the Sensex gainers.
 
 Om Mehra of Samco Securities cautioned against reading too much into the IT bounce. "The primary trend remains on the downside, as the index is still below 32,000," he said.
 
@@ -82,7 +82,7 @@ Sudeep Shah of SBI Securities said the Nifty was stuck in a range. "A decisive b
 
 ## Rupee gains again
 
-The rupee rose for a fourth straight session, closing at about 95.16 to the dollar against 95.28 on Tuesday. It touched 94.76 during the day. The currency has gained about 1.7% in a week, helped by measures the Reserve Bank announced on October 10, including a special dollar window for oil companies and tighter rules on forex derivatives.
+The rupee rose for a **fourth straight session**, closing at about 95.16 to the dollar against 95.28 on Tuesday. It touched 94.76 during the day. The currency has gained about 1.7% in a week, helped by measures the Reserve Bank announced on October 10, including a special dollar window for oil companies and tighter rules on forex derivatives.
 
 "We expect the rupee to trade with a positive bias on RBI's intervention to curb excessive speculation in the rupee," said Anuj Choudhary, research analyst at Mirae Asset Sharekhan. "However, elevated crude oil prices and FII outflows may cap sharp upside." Brent crude futures were up 0.64% at $106.37 a barrel.
 

@@ -77,7 +77,7 @@ On Friday, Russian aircraft dropped three FAB-250 glide bombs on Kramatorsk in t
 
 ## Moscow's version
 
-Russia's defence ministry said its air defences destroyed 616 Ukrainian drones overnight over 20 regions, the Black Sea, the Sea of Azov and Crimea. It also said it struck a facility at the port of Chornomorsk, in the Odesa region, that it described as "used for the production of uncrewed surface vessels", and hit a dry-cargo ship heading to Odesa.
+Russia's defence ministry said its air defences destroyed **616 Ukrainian drones** overnight over 20 regions, the Black Sea, the Sea of Azov and Crimea. It also said it struck a facility at the port of Chornomorsk, in the Odesa region, that it described as "used for the production of uncrewed surface vessels", and hit a dry-cargo ship heading to Odesa.
 
 In the Rostov region, Governor Yury Slyusar said falling drone debris damaged a municipal transport depot in the regional capital and a substation in Kalinin, cutting power to more than 170 homes. One person was hurt.
 

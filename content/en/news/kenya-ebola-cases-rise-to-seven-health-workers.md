@@ -55,4 +55,4 @@ The first patient, a 40-year-old Kenyan man, had been ill in Congo for about a m
 
 Health officials have listed 130 of his contacts. 128 are in quarantine and two are still being traced. Kenya has stepped up screening, including at the Busia crossing on the Uganda border, and set up an emergency hotline.
 
-The cases are tied to the epidemic in Congo, the second-largest Ebola outbreak on record, with more than 9,000 cases and more than 4,000 deaths. Kenya's patients have the Bundibugyo strain, for which there is no approved vaccine or treatment. Ebola spreads through direct contact with an infected person's body fluids or with contaminated bedding and clothing.
+The cases are tied to the epidemic in Congo, the second-largest Ebola outbreak on record, with more than 9,000 cases and more than 4,000 deaths. Kenya's patients have the Bundibugyo strain, for which there is **no approved vaccine or treatment**. Ebola spreads through direct contact with an infected person's body fluids or with contaminated bedding and clothing.

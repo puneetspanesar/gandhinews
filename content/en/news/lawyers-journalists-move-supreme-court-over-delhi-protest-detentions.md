@@ -80,13 +80,13 @@ verification:
     - "No police or Union government response to these specific petitions found as of writing."
 ---
 
-Lawyers, journalists and a Rajya Sabha MP have gone to the Supreme Court over the detentions in Delhi during last weekend's protests against Chief Election Commissioner Gyanesh Kumar. The court will take up the detention and contempt matters on Tuesday, October 13.
+Lawyers, journalists and a Rajya Sabha MP have gone to the **Supreme Court** over the detentions in Delhi during last weekend's protests against Chief Election Commissioner Gyanesh Kumar. The court will take up the detention and contempt matters on Tuesday, October 13.
 
 The petitions add to the case the court opened at a special Sunday sitting, when it ordered Metro and internet services restored and said peaceful, unarmed people could not be detained outside the law.
 
 ## The Bar goes to court
 
-The Supreme Court Bar Association (SCBA) says advocates, among them senior advocates, women lawyers and senior citizens, were manhandled near the court on October 10 and "forcibly placed in police vehicles and taken away without being informed of the grounds for their detention." It wants a status report on the detentions, the officers involved and the chain of command, the full prohibitory order issued under Section 163 of the BNSS, and preservation of CCTV and body-camera footage. It also wants clear access routes to the Supreme Court and Delhi's other courts.
+The **Supreme Court Bar Association** (SCBA) says advocates, among them senior advocates, women lawyers and senior citizens, were manhandled near the court on October 10 and "forcibly placed in police vehicles and taken away without being informed of the grounds for their detention." It wants a status report on the detentions, the officers involved and the chain of command, the full prohibitory order issued under Section 163 of the BNSS, and preservation of CCTV and body-camera footage. It also wants clear access routes to the Supreme Court and Delhi's other courts.
 
 The Supreme Court Advocates-on-Record Association (SCAORA) has asked for an independent, time-bound inquiry. Its petition says Senior Advocate Shadan Farasat was carried away by his arms and legs, that women advocates were handled by policewomen without name tags, and that detained lawyers were taken to the Yamuna Sports Complex. "The right to assemble peacefully and express dissent cannot be rendered illusory," it says.
 

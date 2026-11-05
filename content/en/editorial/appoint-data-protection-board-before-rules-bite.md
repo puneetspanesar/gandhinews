@@ -47,7 +47,7 @@ verification:
     - "The government's reasons for the delay have not been stated publicly in any source we found; the 'other side' argument is framed as the desk's reading of the government's phased design, not as a quoted position."
 ---
 
-The Digital Personal Data Protection Rules were notified in November 2025, and the provisions setting up the Data Protection Board took effect the same day. Nearly 11 months later the Board has no chairperson and no members. The Ministry of Electronics and Information Technology invited applications on May 6, 2026. Five months on, no one has been named.
+The Digital Personal Data Protection Rules were notified in November 2025, and the provisions setting up the Data Protection Board took effect the same day. Nearly **11 months** later the Board has no chairperson and no members. The Ministry of Electronics and Information Technology invited applications on May 6, 2026. Five months on, no one has been named.
 
 The government should make these appointments before the year ends.
 
@@ -55,15 +55,15 @@ The government should make these appointments before the year ends.
 
 A board with no members cannot hear a complaint or pass an order. That has not mattered much so far, because the rules come into force in phases. It will start to matter on November 13, when the consent manager framework begins. Consent managers are companies that will hold and manage people's consent across many services, and they work under the Board's oversight.
 
-It will matter far more on May 13, 2027. From then, most duties on companies apply, and the Board gets its powers to inquire into breaches and impose penalties of up to ₹250 crore. Companies will also have to report data breaches to it.
+It will matter far more on May 13, 2027. From then, most duties on companies apply, and the Board gets its powers to inquire into breaches and impose penalties of up to **₹250 crore**. Companies will also have to report data breaches to it.
 
 A regulator needs time before it can use those powers well. It needs staff, a registry, procedures for hearings, and the digital complaints system the government has promised. People cannot be expected to trust a body that opens its doors on the day the penalties begin.
 
 ## The government's best argument
 
-There is a fair case for the pace so far. The phased design gives companies 18 months to prepare, and a Board with little to enforce in its first year would have had little to do. Choosing a chairperson and members for a new regulator through two search-cum-selection committees, one chaired by the Cabinet Secretary, takes care. A hurried appointment of the wrong people would do lasting harm.
+There is a fair case for the pace so far. The phased design gives companies **18 months** to prepare, and a Board with little to enforce in its first year would have had little to do. Choosing a chairperson and members for a new regulator through two search-cum-selection committees, one chaired by the Cabinet Secretary, takes care. A hurried appointment of the wrong people would do lasting harm.
 
-That argument holds for a few months. It weakens with each one that passes. The selection process began in May, and the posts were advertised in June. The Board also needs members before consent managers start up, since they come under its oversight. And the law requires at least one member with legal expertise, alongside domain knowledge in data governance, dispute resolution, technology or the digital economy, according to LiveLaw. That is a pool that can be searched in months.
+That argument holds for a few months. It weakens with each one that passes. The selection process began in May, and the posts were advertised in June. The Board also needs members before consent managers start up, since they come under its oversight. And the law requires at least one member with legal expertise, alongside domain knowledge in data governance, dispute resolution, technology or the digital economy. That is a pool that can be searched in months.
 
 ## Independence starts with appointment
 

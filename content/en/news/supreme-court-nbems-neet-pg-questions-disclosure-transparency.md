@@ -49,7 +49,7 @@ verification:
 
 The Supreme Court on Monday asked the National Board of Examinations in Medical Sciences (NBEMS) to explain why the questions in the postgraduate medical entrance test, NEET-PG, should not be made public once the exam is over.
 
-A bench of Justices PS Narasimha and Alok Aradhe was hearing a writ petition by the Democratic Medical Association, which wants NBEMS to put **each candidate's OMR answer sheet, the question paper and the answer key** in their login account right after the exam. Notice in the petition was issued on October 15. It is being heard with older petitions by the Federation of All India Medical Association and the United Doctors Front that challenge the way the National Testing Agency runs entrance exams.
+A bench of Justices PS Narasimha and Alok Aradhe was hearing a writ petition by the Democratic Medical Association, which wants NBEMS to put each candidate's **OMR answer sheet**, the question paper and the answer key in their login account right after the exam. Notice in the petition was issued on October 15. It is being heard with older petitions by the Federation of All India Medical Association and the United Doctors Front that challenge the way the National Testing Agency runs entrance exams.
 
 For the petitioners, senior counsel said NBEMS releases the master set and its answers, but for the questions used to build the other shuffled sets it gives candidates **only question IDs**.
 

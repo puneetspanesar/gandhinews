@@ -38,9 +38,9 @@ verification:
 
 The India Meteorological Department on Saturday put five Keralam districts on orange alert, warning of isolated very heavy rain with thunderstorms, and the state's disaster management authority asked people living in landslide-prone and flood-prone areas to be ready to move to safety.
 
-The orange alert covers Thiruvananthapuram, Malappuram, Kozhikode, Wayanad and Kannur. Kollam, Pathanamthitta, Alappuzha, Kottayam, Idukki, Ernakulam, Thrissur, Palakkad and Kasaragod are under a yellow alert for isolated heavy rain.
+The orange alert covers Thiruvananthapuram, Malappuram, Kozhikode, Wayanad and Kannur. Kollam, Pathanamthitta, Alappuzha, Kottayam, Idukki, Ernakulam, Thrissur, Palakkad and Kasaragod are under a **yellow alert** for isolated heavy rain.
 
-The IMD defines very heavy rain as 115.6 mm to 204.4 mm in 24 hours, and heavy rain as 64.5 mm to 115.5 mm.
+The IMD defines very heavy rain as **115.6 mm** to 204.4 mm in 24 hours, and heavy rain as 64.5 mm to 115.5 mm.
 
 ## What people have been told
 

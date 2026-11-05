@@ -48,6 +48,7 @@ for p in P:
     if re.search(r'\band\b|,\s*(and|with)\b|\bwith\b', alt.split('(')[0]) and not re.search(r'\b(building|stadium|ground|office|house|bhavan)\b', alt.lower()): continue  # one subject only
     e = byid.get(p['id'])
     if not e: continue
+    if str(e.get('alt', '')).split(' (file')[0].strip() != alt.split(' (file')[0].strip(): continue  # the file shows something else (a split or a later crop)
     src = R + 'public' + e['src']
     if not os.path.exists(src): continue
     last = [pub[s] for s in set(uses.get(fileof(p.get('sourceUrl')), [])) if s in pub]

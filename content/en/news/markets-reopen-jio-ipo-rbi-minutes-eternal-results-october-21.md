@@ -68,9 +68,9 @@ verification:
     - "Jio issue size: IPO Premium gives up to ₹30,187.65 crore; earlier desk stories use ₹30,213 crore. Kept ₹30,213 crore for consistency."
 ---
 
-Indian stock exchanges reopen on Wednesday after the Dussehra holiday to one of the busiest days of the results season. About 40 companies report, the country's largest share sale opens for bids, and the Reserve Bank of India publishes the minutes of the meeting at which it raised interest rates.
+Indian stock exchanges reopen on Wednesday after the Dussehra holiday to one of the busiest days of the results season. About **40 companies** report, the country's largest share sale opens for bids, and the Reserve Bank of India publishes the minutes of the meeting at which it raised interest rates.
 
-The backdrop is shaky. The Sensex fell 876.37 points, or 1.17%, to 73,852.90 on Monday and the Nifty lost 257.20 points to 22,888.95, dragged down by Axis Bank and HDFC Bank. Results that came out after Monday's close, from Bajaj Finance, Hindustan Zinc, L&T Technology Services and Piramal Finance, trade for the first time on Wednesday.
+The backdrop is shaky. The Sensex fell 876.37 points, or **1.17%**, to 73,852.90 on Monday and the Nifty lost 257.20 points to 22,888.95, dragged down by Axis Bank and HDFC Bank. Results that came out after Monday's close, from Bajaj Finance, Hindustan Zinc, L&T Technology Services and Piramal Finance, trade for the first time on Wednesday.
 
 ## The results list
 
@@ -82,13 +82,13 @@ Tuesday's holiday was quiet for results. Only a handful of small companies, incl
 
 ## Jio and the other share sales
 
-The Jio Platforms initial public offer opens on Wednesday and closes on Friday, October 23, at ₹1,065 to ₹1,119 a share. At the top of the band it raises about ₹30,213 crore, all through new shares. Anchor investors put in ₹8,110 crore on Monday. Allotment is due on October 26 and listing on October 28.
+The Jio Platforms initial public offer opens on Wednesday and closes on Friday, October 23, at **₹1,065** to ₹1,119 a share. At the top of the band it raises about ₹30,213 crore, all through new shares. Anchor investors put in ₹8,110 crore on Monday. Allotment is due on October 26 and listing on October 28.
 
-Paras Healthcare's ₹1,450 crore issue also opens on Wednesday, HD Fire Protect makes its market debut, and Tonbo Imaging is due to finalise share allotment ahead of a Friday listing.
+Paras Healthcare's **₹1,450 crore** issue also opens on Wednesday, HD Fire Protect makes its market debut, and Tonbo Imaging is due to finalise share allotment ahead of a Friday listing.
 
 ## The RBI's minutes
 
-The minutes of the Monetary Policy Committee's October meeting will show how each member voted and why, after the RBI raised the repo rate by 25 basis points to 5.5%. With retail inflation at 5.54% in September and wholesale inflation at 11.39%, investors will look for signs of how many members want to go further.
+The minutes of the Monetary Policy Committee's October meeting will show how each member voted and why, after the RBI raised the repo rate by 25 basis points to **5.5%**. With retail inflation at 5.54% in September and wholesale inflation at 11.39%, investors will look for signs of how many members want to go further.
 
 ## Dividends and dates
 

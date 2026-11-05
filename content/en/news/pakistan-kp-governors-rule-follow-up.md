@@ -70,9 +70,9 @@ The resolutions approve the proclamation issued by President Asif Ali Zardari on
 
 The session lacked the usual uproar. Shehbaz attended part of it and shook hands with Opposition Leader Mehmood Khan Achakzai, and Speaker Ayaz Sadiq praised both sides for "attempting more than their capacity so that the matter is settled".
 
-Law Minister Azam Nazeer Tarar said the situation in the province was "turning into a threat to national security to an alarming extent". Earlier in the day he said the emergency covers the whole province, not only the 12 districts hit hardest by militancy, which will get a separate Area Development Secretariat.
+Law Minister Azam Nazeer Tarar said the situation in the province was "turning into a threat to national security to an alarming extent". Earlier in the day he said the emergency covers the whole province, not only the **12 districts** hit hardest by militancy, which will get a separate Area Development Secretariat.
 
-Defence Minister Khawaja Asif told the PTI it did not have clean hands and accused Afridi of taking directions from Afghanistan. Farooq Sattar of the MQM-P called the decision extremely difficult but unavoidable and urged the PTI: "Openly condemn terrorism."
+Defence Minister Khawaja Asif said the PTI did not have clean hands and accused Afridi of taking directions from Afghanistan. Farooq Sattar of the MQM-P called the decision extremely difficult but unavoidable and urged the PTI: "Openly condemn terrorism."
 
 Bilawal Bhutto-Zardari, whose PPP supports the government, called the PTI's conduct a "political suicide attack" on its own provincial government. He also warned that an emergency was "always a stopgap measure". "We cannot sustain the emergency forever," he said, urging both sides to talk. PTI chairman Barrister Gohar Ali Khan said his party rejected the move but welcomed the call for dialogue.
 
@@ -90,4 +90,4 @@ On Wednesday night Sadiq issued production orders for two PTI members held by Pu
 
 ## What comes next
 
-The National Assembly meets again at 11 am on Friday. Governor's rule, under Article 234, must still go before a joint sitting of Parliament. It lapses after two months unless approved there and cannot run beyond six months in all.
+The National Assembly meets again at 11 am on Friday. Governor's rule, under Article 234, must still go before a **joint sitting of Parliament**. It lapses after two months unless approved there and cannot run beyond six months in all.

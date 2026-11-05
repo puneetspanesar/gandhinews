@@ -39,12 +39,12 @@ verification:
 
 The Centre has approved 320 additional postgraduate medical seats across six medical colleges in Himachal Pradesh, Union Health and Family Welfare Minister Jagat Prakash Nadda said on Saturday.
 
-In a video message, Nadda said the Centre would provide a grant of about ₹415 crore for the project. He described the decision as part of a wider effort to "expand medical education and strengthen healthcare services across the country", and urged the state government to make full use of all 320 seats.
+In a video message, Nadda said the Centre would provide a grant of about **₹415 crore** for the project. He described the decision as part of a wider effort to "expand medical education and strengthen healthcare services across the country", and urged the state government to make full use of all 320 seats.
 
-The medical college in Shimla gets the largest share, with 91 seats. Hamirpur and Tanda get 57 each, Mandi 55, Nahan 32 and Chamba 28.
+The medical college in Shimla gets the largest share, with **91 seats**. Hamirpur and Tanda get 57 each, Mandi 55, Nahan 32 and Chamba 28.
 
 The new seats are meant to widen postgraduate study options for medical graduates and to build up specialist care in surgery, orthopaedics, gynaecology and obstetrics, paediatrics and oncology.
 
-Most of the expansion lies outside the capital: the colleges at Hamirpur, Mandi, Nahan and Chamba together get 172 of the 320 seats, and Tanda another 57. Spread across the six colleges, the grant works out to roughly ₹1.3 crore for every new seat.
+Most of the expansion lies outside the capital: the colleges at Hamirpur, Mandi, Nahan and Chamba together get 172 of the 320 seats, and Tanda another 57. Spread across the six colleges, the grant works out to roughly **₹1.3 crore** for every new seat.
 
 Nadda did not say how the ₹415 crore would be divided among the six colleges or what it would pay for, whether faculty, hospital beds or equipment. Nor did he say from which academic session the seats would be available, or whether similar approvals are due for other states.

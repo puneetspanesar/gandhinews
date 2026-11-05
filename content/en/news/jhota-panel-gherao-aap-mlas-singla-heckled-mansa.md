@@ -11,7 +11,7 @@ published: 2026-10-17T15:30:00+05:30
 location: Mansa
 keyPoints:
   - "Protesters, Nihangs among them, **chased Mansa MLA Vijay Singla** as he left the civil hospital on Saturday."
-  - "The action committee will **gherao AAP MLAs' and ministers' homes and offices on October 19**."
+  - "The action committee will **gherao AAP MLAs' and ministers' homes** and offices on October 19."
   - "Mansa's Dussehra committee has **called off the October 20 celebrations** in mourning."
 hero:
   need: "AAP MLA Vijay Singla of Mansa; no images of the victim or the shooting"

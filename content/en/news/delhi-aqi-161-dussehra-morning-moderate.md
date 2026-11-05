@@ -42,11 +42,11 @@ verification:
 
 Delhi woke up to air in the "moderate" band on Dussehra morning, with the Air Quality Index (AQI) at 161 at 9 am on Tuesday, according to the Central Pollution Control Board (CPCB). That was a little worse than Monday, when the city's 24-hour average had improved to 139.
 
-The reading came on a cool, clear morning. The minimum temperature at Palam was 17.3 degrees Celsius, 1.6 degrees below normal, while Lodhi Road recorded 17 degrees, close to the seasonal average. The Ridge logged 18.5 degrees and Ayanagar 18 degrees, both slightly below their usual levels.
+The reading came on a cool, clear morning. The minimum temperature at Palam was **17.3 degrees Celsius**, 1.6 degrees below normal, while Lodhi Road recorded 17 degrees, close to the seasonal average. The Ridge logged 18.5 degrees and Ayanagar 18 degrees, both slightly below their usual levels.
 
 ## Calm air, little relief
 
-Monday night had been the coldest of the month so far at Safdarjung, with the mercury dropping to 17.1 degrees Celsius, 1.3 degrees below the seasonal average. The day's maximum was 31.7 degrees.
+Monday night had been the coldest of the month so far at Safdarjung, with the mercury dropping to 17.1 **degrees Celsius**, 1.3 degrees below the seasonal average. The day's maximum was 31.7 degrees.
 
 The cool nights come with a cost. Light winds and dry weather leave pollutants hanging over the city instead of dispersing them, and the Air Quality Early Warning System expects Delhi's air to slip into the "poor" category on Wednesday and Thursday, October 21 and 22, with poor conditions possible for the six days after that.
 
@@ -54,7 +54,7 @@ On Monday, two of Delhi's 58 monitoring stations were already in the poor band, 
 
 ## A dry week ahead
 
-The India Meteorological Department expects mainly clear skies on Tuesday, with the maximum temperature around 32 degrees and no rain. Over the coming days, maximum temperatures are forecast between 32 and 34 degrees and minimums between 19 and 21 degrees. Skies are expected to stay clear until October 25, with some cloud possible on October 24 and 25, and no rain is likely in that period.
+The India Meteorological Department expects mainly clear skies on Tuesday, with the maximum temperature around 32 degrees and no rain. Over the coming days, maximum temperatures are forecast between 32 and **34 degrees** and minimums between 19 and 21 degrees. Skies are expected to stay clear until October 25, with some cloud possible on October 24 and 25, and no rain is likely in that period.
 
 Dry weather and weak winds are the main worry, since they keep pollutants from dispersing. Rain brought by a western disturbance last week had briefly pushed the AQI into the "satisfactory" range on October 16; no such relief is in sight this week.
 

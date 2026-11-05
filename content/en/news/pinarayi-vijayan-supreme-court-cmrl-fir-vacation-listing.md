@@ -55,10 +55,10 @@ verification:
 
 Former Keralam chief minister Pinarayi Vijayan has taken his fight against a corruption case to the Supreme Court, and on Friday asked for an urgent hearing before the court breaks for its Dussehra vacation.
 
-Senior advocate Siddharth Luthra mentioned the plea before Chief Justice Surya Kant, telling the court that his client is an 82-year-old man who faces possible arrest. "Will try to list in vacation, subject to availability of judges," the Chief Justice said. If a vacation bench cannot take it up, the plea will be heard on October 26.
+Senior advocate Siddharth Luthra mentioned the plea before Chief Justice Surya Kant, telling the court that his client is an 82-year-old man who **faces possible arrest**. "Will try to list in vacation, subject to availability of judges," the Chief Justice said. If a vacation bench cannot take it up, the plea will be heard on October 26.
 
 Vijayan is challenging a High Court order in the CMRL-Exalogic case that directed the state Vigilance and Anti-Corruption Bureau to register an FIR without a preliminary inquiry. The bureau registered two FIRs on October 12. In the first, Vijayan is the first accused and his daughter Veena T, whose IT firm Exalogic Solutions is at the centre of the case, is the second. The second names his son-in-law, CPI(M) MLA P A Mohamed Riyas, as the first accused.
 
-The case turns on payments from Cochin Minerals and Rutile Limited (CMRL) to Exalogic. The Enforcement Directorate alleges that CMRL paid ₹2.78 crore for IT consultancy services that were never provided. None of the allegations has been tested in court.
+The case turns on payments from Cochin Minerals and Rutile Limited (CMRL) to Exalogic. The Enforcement Directorate alleges that CMRL paid **₹2.78 crore** for IT consultancy services that were never provided. None of the allegations has been tested in court.
 
 The family's attempt to overturn the order within the High Court failed this week, when a Division Bench turned down their pleas for leave to appeal against the Single Bench ruling. His press secretary, P M Manoj, has said Vijayan was "denied natural justice" because the order was passed without hearing his side.

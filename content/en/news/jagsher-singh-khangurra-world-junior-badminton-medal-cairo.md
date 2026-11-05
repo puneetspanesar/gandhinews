@@ -41,7 +41,7 @@ verification:
     - "Ninth Indian boys' singles medallist and the 1-5-6 India tally from The Bridge; tally also in ThePrint. Wardhana's 31st seeding from The Bridge only, left out."
 ---
 
-Jagsher Singh Khangurra assured India of a medal at the BWF World Junior Championships in Cairo on Thursday, saving a match point on his way to a 6-15, 17-15, 15-12 quarter-final win over Chinese Taipei's Yuan-Syue Jhuang.
+Jagsher Singh Khangurra assured India of a medal at the BWF World Junior Championships in Cairo on Thursday, saving a match point on his way to a **6-15, 17-15, 15-12** quarter-final win over Chinese Taipei's Yuan-Syue Jhuang.
 
 The boy from Nabha in Punjab was swept aside in the first game and stood one point from defeat in the second. He held on to take it 17-15 and then edged a tense decider at the Cairo International Stadium. The match lasted 48 minutes.
 
@@ -51,7 +51,7 @@ The boy from Nabha in Punjab was swept aside in the first game and stood one poi
 
 He said he was now hoping for gold.
 
-Khangurra is the ninth Indian to reach the podium in boys' singles at the championships. India have won one gold, five silvers and six bronzes in the event's history, and the only gold belongs to Saina Nehwal, who won the girls' title in 2008.
+Khangurra is the **ninth Indian** to reach the podium in boys' singles at the championships. India have won one gold, five silvers and six bronzes in the event's history, and the only gold belongs to Saina Nehwal, who won the girls' title in 2008.
 
 The run in Cairo has been a steady climb. Khangurra beat Mauritius' Pranav Bhaugeerothee and Algeria's Mohamed Rayane Bouffeniche in the early rounds, Thailand's 22nd seed Punnatat Prempunpong in the last 32, and Malaysia's Lee Qian Chong 15-8, 15-8 in the pre-quarter-finals.
 
@@ -59,4 +59,4 @@ He has trained for two years at the Centre for Badminton Excellence in Bengaluru
 
 His semi-final opponent is Indonesia's Radithya Bayu Wardhana, with a place in the final at stake.
 
-India's other quarter-finalist in singles, Shaina Manimuthu, the Asian under-17 silver medallist, lost 5-15, 8-15 to China's Yi Qing Yin.
+India's other quarter-finalist in singles, Shaina Manimuthu, the Asian under-17 silver medallist, lost 5-15, 8-15 to China's **Yi Qing Yin**.

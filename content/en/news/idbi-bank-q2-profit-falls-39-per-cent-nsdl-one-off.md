@@ -43,16 +43,16 @@ verification:
     - "Closing 'as early as Q1 2027' is Business Standard's wording; copy says early 2027."
 ---
 
-IDBI Bank's net profit fell 39% to ₹2,205 crore in the July-September quarter, against ₹3,627 crore a year earlier, when the lender booked a one-off gain of ₹1,699 crore from the strategic sale of shares in the depository NSDL. Leaving that out, the bank said, profit rose 14%.
+IDBI Bank's net profit fell **39% to ₹2,205 crore** in the July-September quarter, against ₹3,627 crore a year earlier, when the lender booked a one-off gain of ₹1,699 crore from the strategic sale of shares in the depository NSDL. Leaving that out, the bank said, profit rose 14%.
 
-The core business did better. Net interest income climbed 29% to ₹4,228 crore and the net interest margin widened to 4.11%, from 3.71% a year earlier and 3.61% in the June quarter. The cost-to-income ratio was 48.17% and return on assets 1.83%. Gross non-performing assets stood at 2.12% of advances.
+The core business did better. Net interest income climbed **29%** to ₹4,228 crore and the net interest margin widened to 4.11%, from 3.71% a year earlier and 3.61% in the June quarter. The cost-to-income ratio was 48.17% and return on assets 1.83%. Gross non-performing assets stood at 2.12% of advances.
 
 ## A new owner in waiting
 
-The results come as IDBI Bank prepares to change hands. The Cabinet Committee on Economic Affairs has approved the sale of a 60.72% stake to Fairfax Financial Holdings for ₹52,878.08 crore. The government is selling 30.48% and LIC 30.24%, leaving them with 15% and 19%.
+The results come as IDBI Bank prepares to change hands. The Cabinet Committee on Economic Affairs has approved the sale of a **60.72%** stake to Fairfax Financial Holdings for ₹52,878.08 crore. The government is selling 30.48% and LIC 30.24%, leaving them with 15% and 19%.
 
 On Friday, Fairfax founder and chairman V Prem Watsa told analysts the bank's managing director and chief executive would stay. "Rakesh has done a superb job and will continue as CEO," he said.
 
 Watsa said former ICICI Prudential Life chief N S Kannan would join the board as chairman, subject to Reserve Bank approval. Former HDFC chairman Deepak Parekh, ex-HDFC Bank deputy managing director Paresh Sukthankar and former CSB Bank chief C V R Rajendran will advise the bank. "We see this as an opportunity for the next two decades at least," Watsa said.
 
-Fairfax expects to close the deal in early 2027 and plans to bring IDBI Bank, Go Digit and IIFL Capital Services together as one financial services group. Under the Reserve Bank's conditions, it must bring its stake down to 40% within 10 years and to 26% within 15.
+Fairfax expects to close the deal in early 2027 and plans to bring IDBI Bank, Go Digit and IIFL Capital Services together as one financial services group. Under the Reserve Bank's conditions, it must bring its stake down to **40%** within 10 years and to 26% within 15.

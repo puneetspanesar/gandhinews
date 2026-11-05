@@ -51,15 +51,15 @@ verification:
     - "Noskova withdrawal seen only in headline (left calf injury); article not opened."
 ---
 
-Mirra Andreeva rose to No. 3 in the WTA rankings on Monday, a career high, after reaching the China Open final. At 19 years and 166 days, she is the youngest woman to make her top-three debut in 21 years.
+Mirra Andreeva rose to No. 3 in the WTA rankings on Monday, a career high, after reaching the China Open final. At **19 years** and 166 days, she is the youngest woman to make her top-three debut in 21 years.
 
-The woman who beat her in Beijing, Zheng Qinwen, jumped 31 places to No. 23. Zheng had fallen as low as No. 160 in June. Elina Svitolina and Karolina Muchova each moved up one place, to sixth and seventh. Nikola Bartunkova, who beat Aryna Sabalenka in Beijing, rose five places to No. 29 for her top-30 debut, and Alina Charaeva entered the top 100 for the first time at No. 98.
+The woman who beat her in Beijing, Zheng Qinwen, **jumped 31 places** to No. 23. Zheng had fallen as low as No. 160 in June. Elina Svitolina and Karolina Muchova each moved up one place, to sixth and seventh. Nikola Bartunkova, who beat Aryna Sabalenka in Beijing, rose five places to No. 29 for her top-30 debut, and Alina Charaeva entered the top 100 for the first time at No. 98.
 
 Neither Beijing finalist is playing in Wuhan this week. Zheng withdrew with a right shoulder injury. "My body is feeling very fatigued after this intense run of matches," she said. Andreeva cited a change in schedule.
 
 ## A breakthrough in Wuhan
 
-Their absence left room for a home story on Monday. Shi Han, a Chinese qualifier ranked 217th, beat world No. 19 Alexandra Eala of the Philippines 4-6, 6-3, 6-3 in two hours and 27 minutes.
+Their absence left room for a home story on Monday. Shi Han, a Chinese qualifier ranked 217th, beat world No. 19 Alexandra Eala of the Philippines **4-6, 6-3, 6-3** in two hours and 27 minutes.
 
 It was Shi's first win over a top-20 player and her first main-draw win at WTA 1000 level. She had beaten Peyton Stearns and Kamilla Rakhimova in qualifying to get there.
 

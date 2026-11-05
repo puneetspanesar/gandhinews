@@ -97,7 +97,7 @@ verification:
     - "Prorogation status after September 17, 2026, not confirmed."
 ---
 
-The Lok Sabha functioned for 15% of its scheduled time in the Monsoon Session of 2026, and the Rajya Sabha for 33%, according to PRS Legislative Research. That is the lowest Lok Sabha figure in any session of the current, 18th Lok Sabha for which PRS figures were available to us. The previous low was the Monsoon Session of 2025, at 29%, which PRS then described as "the lowest functioning seen during the 18th Lok Sabha".
+The Lok Sabha functioned for **15%** of its scheduled time in the Monsoon Session of 2026, and the Rajya Sabha for 33%, according to PRS Legislative Research. That is the lowest Lok Sabha figure in any session of the current, 18th Lok Sabha for which PRS figures were available to us. The previous low was the Monsoon Session of 2025, at 29%, which PRS then described as "the lowest functioning seen during the 18th Lok Sabha".
 
 The session ran from July 20 to August 13, 2026, and both Houses met on 19 days. Protests over the NEET-UG 2026 paper leak, and police action against student protesters, took up much of the session. Education Minister Dharmendra Pradhan resigned on July 25, Outlook reported. Opposition MPs repeatedly sought a discussion on the NEET-UG controversy and a statement from Home Minister Amit Shah, according to the same report.
 
@@ -107,7 +107,7 @@ The session ran from July 20 to August 13, 2026, and both Houses met on 19 days.
 
 ## Two sets of numbers
 
-The government's figures are higher. Parliamentary Affairs Minister Kiren Rijiju put Lok Sabha productivity at 19% and Rajya Sabha productivity at 39%, Outlook reported on August 13. Rajya Sabha Chairman C.P. Radhakrishnan gave the Upper House figure as 39.17%, or 37 hours and 49 minutes of sitting, according to PTI.
+The government's figures are higher. Parliamentary Affairs Minister Kiren Rijiju put **Lok Sabha productivity** at 19% and Rajya Sabha productivity at 39%, Outlook reported on August 13. Rajya Sabha Chairman C.P. Radhakrishnan gave the Upper House figure as 39.17%, or 37 hours and 49 minutes of sitting.
 
 PRS measures the time each House actually worked against the time it was scheduled to sit. The reports we read do not say how the government's figures are calculated, so this report gives both.
 
@@ -119,7 +119,7 @@ The Bill count differs too. Rijiju said "we passed a total of 12 bills", and the
 
 ## Laws passed with little debate
 
-Nine of the 11 Bills the Lok Sabha passed went through with no MP other than the minister speaking, PRS found. The Supreme Court (Number of Judges) Amendment Bill took four minutes in the Lok Sabha. The Rajya Sabha spent 2 hours 21 minutes on the same Bill, with 33 MPs speaking.
+**Nine of the 11 Bills** the Lok Sabha passed went through with no MP other than the minister speaking, PRS found. The Supreme Court (Number of Judges) Amendment Bill took four minutes in the Lok Sabha. The Rajya Sabha spent 2 hours 21 minutes on the same Bill, with 33 MPs speaking.
 
 Only one Bill was debated at length in both Houses. The Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026, which toughens penalties for exam paper leaks, took 10 hours 54 minutes in the Lok Sabha with 48 MPs speaking, and 6 hours 39 minutes in the Rajya Sabha with 35 MPs.
 
@@ -131,18 +131,18 @@ Rijiju acknowledged the gap at the end of the session.
 
 He also said that this was "not healthy for the parliamentary democracy", Outlook reported.
 
-Closing the Rajya Sabha, Radhakrishnan said: "As the 271st Session of the Rajya Sabha draws to a close, I reflect on its proceedings with deep concern." He added that "repeated disruptions ultimately affect the trust and aspirations of the people", PTI reported.
+Closing the Rajya Sabha, Radhakrishnan said: "As the 271st Session of the Rajya Sabha draws to a close, I reflect on its proceedings with deep concern." He added that "repeated disruptions ultimately affect the trust and aspirations of the people".
 
 ## Questions went unasked
 
-Question Hour ran for 1% of its scheduled time in the Lok Sabha: nine minutes in all, with two questions answered orally. In the Rajya Sabha it ran for 12%, according to PRS. By comparison, in the Winter Session of 2025 the Lok Sabha used 67% of its Question Hour time and the Rajya Sabha 80%.
+Question Hour ran for **1%** of its scheduled time in the Lok Sabha: nine minutes in all, with two questions answered orally. In the Rajya Sabha it ran for 12%, according to PRS. By comparison, in the Winter Session of 2025 the Lok Sabha used 67% of its Question Hour time and the Rajya Sabha 80%.
 
-In the Rajya Sabha, 16 of 285 starred questions were taken up, along with 52 of 380 Zero Hour submissions and 93 of 380 Special Mentions, PTI reported. PRS records no debates, discussions or private members' business in the Lok Sabha during the session.
+In the Rajya Sabha, 16 of 285 starred questions were taken up, along with 52 of 380 Zero Hour submissions and 93 of 380 Special Mentions. PRS records no debates, discussions or private members' business in the Lok Sabha during the session.
 
 ## What carries over
 
-Lok Sabha referred the Foreign Contribution (Regulation) Amendment Bill, 2026 to a 31-member Joint Parliamentary Committee on August 12. The committee is due to report by the end of the first week of the Winter Session, ThePrint reported. A joint committee on the Viksit Bharat Shiksha Adhishthan Bill, 2025, the proposed single regulator for higher education, has not presented its report, PRS says.
+Lok Sabha referred the Foreign Contribution (Regulation) Amendment Bill, 2026 to a 31-member Joint Parliamentary Committee on August 12. The committee is due to report by the end of the first week of the Winter Session. A joint committee on the Viksit Bharat Shiksha Adhishthan Bill, 2025, the proposed single regulator for higher education, has not presented its report, PRS says.
 
-The 18th Lok Sabha has sent 21% of its Bills to committees so far, against 16% in the 17th, according to PRS. The House has also not elected a Deputy Speaker two years into its term.
+The 18th Lok Sabha has sent **21%** of its Bills to committees so far, against 16% in the 17th, according to PRS. The House has also not elected a Deputy Speaker two years into its term.
 
-Both Houses were adjourned sine die on August 13. Business Standard reported on August 23 that the session had not been formally prorogued. As of October 11, no dates for the Winter Session had been announced.
+Both Houses were adjourned sine die on August 13. As of August 23 the session had not been formally prorogued. As of October 11, no dates for the Winter Session had been announced.

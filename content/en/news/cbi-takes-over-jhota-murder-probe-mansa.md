@@ -41,7 +41,7 @@ The team arrived at Mansa police station on Tuesday night after issuing a formal
 
 ## What the CBI will examine
 
-Beyond the shooting itself, investigators will look at whether the killing is tied to the open sale of banned psychotropic substances at chemist shops in the area, the complaint Jhota had made his cause. The agency plans to seek custody of the main accused, chemist Ashwani Kumar, and others.
+Beyond the shooting itself, investigators will look at whether the killing is tied to the open sale of banned psychotropic substances at chemist shops in the area, the complaint Jhota had made his cause. The agency plans to seek custody of the **main accused, chemist Ashwani Kumar**, and others.
 
 Jhota, 45, was shot dead on October 13 inside a chemist shop in Mansa while he was live-streaming on Facebook. He had confronted Kumar over the alleged sale of addictive drugs to an elderly man. The gunfire killed Jhota and wounded four others. Kumar, who owns the medical store, was later arrested at Salasar in Rajasthan. The killing set off arson at the shop and action against properties linked to the accused.
 

@@ -38,9 +38,9 @@ verification:
 
 The Karnataka High Court has given the state government three months to set up working district-level committees to deal with suspected illegal immigrants, warning that "indifference today may become an institutional vulnerability tomorrow".
 
-Justice M Nagaprasanna made the order on October 16 on a petition by T Nagendrappa, a Bengaluru doctor, and it was published this week. Illegal immigration, the judge said, "must be addressed with firmness".
+Justice M Nagaprasanna made the order on October 16 on a petition by **T Nagendrappa**, a Bengaluru doctor, and it was published this week. Illegal immigration, the judge said, "must be addressed with firmness".
 
-The committees are part of a standard operating procedure the Union Home Ministry issued on May 2, 2025. It asks states and Union Territories to set up district-level special task forces and holding centres for people awaiting deportation, and to verify within 30 days the claims of anyone suspected of being an illegal immigrant who says they are Indian or live elsewhere in the country. The court said Karnataka had not shown whether such committees existed or were working, and asked for a district-wise compliance report with details of how they are made up and how they function.
+The committees are part of a standard operating procedure the Union Home Ministry issued on May 2, 2025. It asks states and Union Territories to set up district-level special task forces and holding centres for people awaiting deportation, and to verify within **30 days** the claims of anyone suspected of being an illegal immigrant who says they are Indian or live elsewhere in the country. The court said Karnataka had not shown whether such committees existed or were working, and asked for a district-wise compliance report with details of how they are made up and how they function.
 
 ## The doctor's case
 

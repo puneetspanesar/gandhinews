@@ -50,7 +50,7 @@ In a post on X in Hindi, Shah pointed to the killing of anti-drug activist Parvi
 
 ## A question for Mann
 
-Shah aimed his remarks squarely at Chief Minister Bhagwant Mann's Aam Aadmi Party government. The biggest question before it, he wrote, was who would bear responsibility for the safety of Punjab's people. He said the people of Punjab did not want promises or publicity but answers, results and decisive strikes against drug networks, and pledged that a BJP government would work to make the state free of drugs and gangsters.
+Shah aimed his remarks squarely at Chief Minister Bhagwant Mann's Aam Aadmi Party government. The biggest question before it, he wrote, was who would bear responsibility for the safety of Punjab's people. He said the people of Punjab did not want promises or publicity but answers, results and decisive strikes against drug networks, and pledged that a **BJP government** would work to make the state free of drugs and gangsters.
 
 Jhota had campaigned against drug sales in Mansa. His father, Bhim Singh, has made serious allegations against the AAP government and one of its MLAs, and has demanded the resignations of the Chief Minister and the state police chief, a CBI investigation and the dismissal of the local police officers.
 

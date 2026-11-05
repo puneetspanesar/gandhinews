@@ -42,7 +42,7 @@ verification:
 
 Rugby in Bihar takes a step onto a bigger stage from Friday, when New Zealand's Maori under-20 teams begin a series against India's men's and women's under-20 sides at the Rajgir Sports Complex.
 
-The visitors, Tama Toa in the men's game and Hine Toa in the women's, are made up of 24 young Maori players chosen from across New Zealand. According to the organisers, it is the first time New Zealand's under-20 rugby teams have travelled to India for a series of this kind.
+The visitors, Tama Toa in the men's game and Hine Toa in the women's, are made up of **24 young Maori players** chosen from across New Zealand. According to the organisers, it is the first time New Zealand's under-20 rugby teams have travelled to India for a series of this kind.
 
 India have named 16-player squads for both the men's and women's teams. Alongside the matches, the two sides will train together and take part in cultural exchanges during the visit. The organisers have not set out how many matches will be played.
 
