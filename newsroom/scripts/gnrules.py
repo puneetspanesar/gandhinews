@@ -32,3 +32,21 @@ def stale_clock(txt, lang, when, now, hours=2):
                 else: continue
             if (now - t).total_seconds() > hours * 3600: out.append((m, (now - t).total_seconds() / 3600))
     return out
+import html as _html
+def clean_credit(c):
+    """A photo credit fit to print: HTML entities decoded (repeatedly), wiki templates and licence boilerplate cut,
+    no em dashes, no trailing punctuation."""
+    c = str(c or '')
+    for _ in range(3): c = _html.unescape(c)
+    c = _re.sub(r'<[^>]+>', '', c)
+    c = _re.sub(r'\.?\s*All (photographs|photos|images).*$', '', c, flags=_re.I)
+    c = _re.sub(r'\{\{[^}]*\}\}', '', c)
+    c = _re.sub(r'\s*(released|licen[sc]ed) under.*$', '', c, flags=_re.I)
+    c = _re.sub(r'No machine-readable author provided\.\s*(.+?)\s+assumed.*$', r'\1', c)
+    c = _re.sub(r'(This (photograph|photo|image) is created by|This image\'s author is|The original uploader was)\s+', '', c)
+    c = _re.sub(r'\s+at English Wikipedia\.?', '', c)
+    c = _re.sub(r'\s*[\u2014\u2013]\s*You must give.*$', '', c)
+    c = _re.sub(r'(?<=\w)~commonswiki', '', c)
+    c = c.replace('\u2014', ',').replace('\u2013', '-')
+    c = _re.sub(r'\s{2,}', ' ', c).strip(' ,;:-')
+    return c[:-1] if c.endswith('.') and not _re.search(r'\b(Ltd|Inc|Co|Jr|Sr|[A-Z])\.$', c) else c
