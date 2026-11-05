@@ -6,12 +6,12 @@ section: economy
 format_label: "Economy / Markets"
 topics: []
 title: "Foreign investors buy ₹14,975 crore of Indian shares on Sensex's 2,009-point day"
-standfirst: "Provisional exchange data out on Thursday evening show foreign institutions roughly doubling Wednesday's buying on their fourth straight buying day, while domestic funds sold ₹10,445 crore into the rally."
+standfirst: "Provisional exchange data out on Thursday evening show foreign institutions roughly doubling Wednesday's buying on their fourth buying day this month, while domestic funds sold ₹10,445 crore into the rally."
 published: 2026-11-05T20:09:48+05:30
 location: Mumbai
 keyPoints:
   - "Foreign institutions bought a net **₹14,975 crore** of shares in the cash market on November 5."
-  - "Domestic institutions were **net sellers of ₹10,445 crore**, their fourth selling day in a row."
+  - "Domestic institutions were **net sellers of ₹10,445 crore**, selling in all four November sessions."
   - "Foreign buying in November has reached **₹32,210 crore** in four sessions."
 hero:
   need: "The Bombay Stock Exchange on Dalal Street, Mumbai, where shares rallied on November 5"

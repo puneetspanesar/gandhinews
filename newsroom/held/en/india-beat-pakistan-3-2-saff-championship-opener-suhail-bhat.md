@@ -62,9 +62,6 @@ Pakistan had a chance to get back into it before the break when Suryavanshi foul
 
 India controlled midfield and the ball for most of the first half, but their intensity dropped after the restart. Adison Singh was denied one on one by goalkeeper Yousuf Butt, and the fourth goal never came.
 
-```photo
-{"n":1,"subject":"Bangabandhu National Stadium","caption":"The National Stadium in Dhaka is hosting India's SAFF Championship group matches (file photo).","alt":"The National Stadium in Dhaka (file photo)"}
-```
 
 Pakistan then struck **twice in stoppage time**. Najeeb Ullah headed in Junaid Shah's cross in the first added minute, and Alamgir Ghazi finished acrobatically from McKeal Abdullah's cross three minutes later. India held on for the last moments.
 

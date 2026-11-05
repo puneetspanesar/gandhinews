@@ -28767,5 +28767,47 @@
     "src800": "/photos/i-india-beat-japan-4-1-asian-champions-trophy-final-hi-640.jpg"
    }
   }
+ },
+ "india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat": {
+  "id": "i-india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat",
+  "src": "/photos/i-india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat-en-3x2-1280.jpg",
+  "src800": "/photos/i-india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: India beat Pakistan 3-2 in Dhaka",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: ढाका में भारत ने पाकिस्तान को 3-2 से हराया",
+  "page": null,
+  "ihash": "92a4778927d6",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat-hi-3x2-1280.jpg",
+    "src800": "/photos/i-india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat-en-t-1280.jpg",
+    "src800": "/photos/i-india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat-hi-t-1280.jpg",
+    "src800": "/photos/i-india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat-en-1280.jpg",
+    "src800": "/photos/i-india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat-hi-1280.jpg",
+    "src800": "/photos/i-india-beat-pakistan-3-2-saff-championship-opener-suhail-bhat-hi-640.jpg"
+   }
+  }
  }
 }

@@ -60,11 +60,11 @@ verification:
     - "CM quote translated from Tamil, so paraphrased, not quoted."
 ---
 
-The bodies of fishermen from Chennai's Kasimedu who went missing at sea last week have been found on the Andhra Pradesh coast, and **Tamil Nadu Chief Minister Vijay** on Thursday evening announced ₹7 lakh for each bereaved family.
+The bodies of fishermen from Chennai's Kasimedu who lost contact at sea on November 3 have been found on the Andhra Pradesh coast, and **Tamil Nadu Chief Minister Vijay** on Thursday evening announced ₹7 lakh for each bereaved family.
 
 Nine men set out on a mechanised boat from Chennai Fishing Harbour on October 29. According to the Chief Minister's statement, the boat's **engine failed in deep sea** on the night of November 2, and a wireless message reached another boat early on November 3. Nothing more was heard from the crew.
 
-The bodies of S Mohan, A Murugan and S Vijayakanth were recovered and **identified on the Kothapatnam coast** in Prakasam district. Five deaths were being reported by evening, and the search for the other men is going on.
+The bodies of S Mohan, A Murugan and S Vijayakanth were recovered and **identified on the Kothapatnam coast** in Prakasam district. The search for the other men is going on.
 
 ## A warning and a missed harbour
 
