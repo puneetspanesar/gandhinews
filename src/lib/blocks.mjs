@@ -170,7 +170,11 @@ const MONTHS = {
 };
 /** Best-effort parse of "7 Oct 2026", "2-4 Dec 2026", "Mar 2027", "12 अक्टूबर 2026". */
 function parseLooseDate(s) {
-  const m = String(s).match(/(?:(\d{1,2})(?:\s*[-–]\s*\d{1,2})?\s+)?([A-Za-z]{3,}|[ऀ-ॿ]+)\.?\s+(\d{4})/);
+  // English month-first ("November 5, 2026", "Nov 5-6, 2026", "November 2026") or day-first ("5 November 2026", Hindi "5 नवंबर 2026").
+  const t = String(s);
+  let m = t.match(/([A-Za-z]{3,})\.?\s+(\d{1,2})(?:\s*[-–]\s*\d{1,2})?,?\s+(\d{4})/);
+  if (m) { const mon = MONTHS[m[1].slice(0, 3).toLowerCase()]; if (mon !== undefined) return new Date(Date.UTC(+m[3], mon, +m[2])); }
+  m = t.match(/(?:(\d{1,2})(?:\s*[-–]\s*\d{1,2})?\s+)?([A-Za-z]{3,}|[ऀ-ॿ]+)\.?\s+(\d{4})/);
   if (!m) return null;
   const mon = MONTHS[m[2].slice(0, 3).toLowerCase()] ?? MONTHS[m[2]];
   if (mon === undefined) return null;

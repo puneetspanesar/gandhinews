@@ -143,12 +143,12 @@ const flowDate = fl?.date ? mdy(fl.date, false) : '';
         {(gainers.length > 0 || losers.length > 0) && <div class="mk-box">
           <h3>{L.movers}</h3>
           <div class="mk-mv">
-            {[{ t: L.up, a: gainers }, { t: L.down, a: losers }].map((g) => (
+            {[{ t: L.up, a: gainers }, { t: L.down, a: losers }].filter((g) => g.a.length > 0).map((g) => (
               <div><h4>{g.t}</h4><ol>{g.a.map((x: any) => <li><span>{x.n}</span><i class={x.d} style={`width:${x.w}`}></i><b class={`num ${x.d}`}>{x.p}</b></li>)}</ol></div>
             ))}
           </div>
         </div>}
-        {sectors.length > 0 && <div class="mk-box">
+        {sectors.length >= 4 && <div class="mk-box">
           <h3>{L.sectors}</h3>
           <ul class="mk-heat">{sectors.map((s: any) => <li style={`background:${s.bg}`}><span>{s.n}</span><b class="num">{s.p}</b></li>)}</ul>
         </div>}

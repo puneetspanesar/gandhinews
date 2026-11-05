@@ -23,7 +23,7 @@ Every story appears in English and in Hindi. The Hindi version is adapted for Hi
 
 ## How we work
 
-Every story is credited to the editorial desk rather than to one person. Each report lists its sources at the end, with links where they exist. We prefer primary records: Acts, gazette notifications, court orders, official data and Parliament's own papers.
+Every story is credited to the editorial desk rather than to one person. Each report is built from documents, data and on-record statements, and links the official documents behind it where they exist. We prefer primary records: Acts, gazette notifications, court orders, official data and Parliament's own papers.
 
 Our [editorial standards](/standards/) set out the rules we follow. When we get something wrong we correct it in public, on the story and in our [corrections log](/corrections/). We explain [how we use AI](/ai-policy/) and who [owns and funds](/ownership/) us.
 

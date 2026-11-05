@@ -147,7 +147,7 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
   <meta name="twitter:description" content={description} />
   <meta name="twitter:image" content={ogImage} />
   {ld.map((d) => <JsonLd data={d} />)}
-  <!-- Google Analytics 4: loads only on the live domain and only after the reader accepts cookies. -->
+  {/* Google Analytics 4: loads only on the live domain and only after the reader accepts cookies. */}
   <script is:inline>
     (function () {
       var live = location.hostname === 'gandhinews.com' || location.hostname === 'www.gandhinews.com';
@@ -241,8 +241,8 @@ const ld = [...jsonld, breadcrumbLd].filter(Boolean);
         <div><h2 class="fh">{t.sections}</h2><ul>{['politics', 'world', 'economy', 'science', 'sports', 'states', 'policy', 'parliament'].map((k) => <li><a href={`${p}/${k}/`}>{S[k]}</a></li>)}</ul></div>
         <div><h2 class="fh">{t.features}</h2><ul>{more.map((m) => <li><a href={m.href}>{m.label}</a></li>)}</ul></div>
         <div><h2 class="fh">{t.trust}</h2><ul>{trust.map((x) => <li><a href={x.href}>{x.label}</a></li>)}</ul></div>
-        <!-- TODO(launch): link YouTube once the channel exists. -->
-        <div><h2 class="fh">{t.follow}</h2><ul><li><a href={`${p}/rss.xml`}>RSS</a></li><li><a href="https://wa.me/917760906195" rel="noopener" target="_blank">WhatsApp</a></li><li><a href="https://www.instagram.com/lokvoxcom" rel="me noopener" target="_blank">Instagram</a></li><li><a href="https://x.com/lokvoxcom" rel="me noopener" target="_blank">X</a></li></ul></div>
+        {/* Link YouTube once the channel exists. */}
+        <div><h2 class="fh">{t.follow}</h2><ul><li><a href={`${p}/rss.xml`}>RSS</a></li><li><a href="https://wa.me/917760906195" rel="noopener" target="_blank">WhatsApp</a></li></ul></div>
       </div>
       <div class="b"><span>{t.rights}</span><span class="legal"><a href={`${p}/privacy/`}>{t.privacy}</a> · <a href={`${p}/terms/`}>{t.terms}</a> · <a href={`${p}/privacy/#cookies`} data-cookie-settings>{t.cookies}</a> · <a href="/photo-credits/">{lang === 'hi' ? 'फोटो क्रेडिट' : 'Photo credits'}</a></span></div>
     </div>

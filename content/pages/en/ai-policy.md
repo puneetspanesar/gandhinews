@@ -18,7 +18,7 @@ Like many newsrooms, we use AI tools to help with research, drafting and transla
 
 ## What does not change
 
-- Every story is held to our [editorial standards](/standards/) and lists its sources.
+- Every story is held to our [editorial standards](/standards/), and the official documents behind it are linked where they exist.
 - Facts, figures and quotes come from those sources. We do not use AI to invent quotes, sources or people.
 - We do not present AI-generated images as photographs.
 - Our [Editor-in-Chief](/editor/) is responsible for everything we publish and reviews our coverage.

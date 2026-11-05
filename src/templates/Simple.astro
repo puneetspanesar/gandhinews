@@ -16,7 +16,7 @@ const links = [
 const title = kind === 'home' ? t.siteName : kind === 'search' ? t.search : t.savedPage;
 const desc = kind === 'home'
   ? (lang === 'hi' ? 'गांधी न्यूज़: भारत और दुनिया की स्वतंत्र खबरें: राजनीति, अर्थव्यवस्था, विज्ञान-तकनीक और खेल, हिंदी और अंग्रेज़ी में।' : 'Gandhi News: independent news from India and the world: politics, economy, science and tech, and sports, in English and Hindi.')
-  : kind === 'search' ? t.placeholderSearch : t.savedPage;
+  : kind === 'search' ? t.placeholderSearch : t.savedEmpty;
 const crumbs = kind === 'home' ? [] : [{ name: t.home, href: `${p}/` }, { name: title, href: route }];
 ---
 <Base lang={lang} title={title} description={desc} path={route} crumbs={crumbs} active={kind === 'home' ? 'home' : ''} jsonld={kind === 'home' ? websiteLd(lang) : []}>

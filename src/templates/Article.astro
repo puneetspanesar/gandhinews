@@ -34,7 +34,10 @@ const crumbs = [{ name: t.home, href: `${p}/` }, second, { name: d.title, href: 
 
 // Rail content
 const topicPages = d.topics.map((x: string) => c.all.get(x)).filter((x: any) => x && x.data.type === 'topic');
-const related = d.related.map((r: string) => c.all.get(r)).filter((x: any) => x && x.data.id !== d.id && x.data.type !== 'topic');
+const related0 = d.related.map((r: string) => c.all.get(r)).filter((x: any) => x && x.data.id !== d.id && x.data.type !== 'topic');
+// Never an empty rail: top up with the newest stories from the same section (then any section) published before this one.
+const near = (x: any) => x.data.id !== d.id && x.data.type === 'news' && !related0.includes(x) && +x.data.published <= +d.published + 6 * 3.6e6;
+const related = related0.length >= 3 ? related0 : [...related0, ...c.articles.filter((x: any) => near(x) && x.data.section === d.section), ...c.articles.filter((x: any) => near(x) && x.data.section !== d.section)].filter((x: any, i: number, a: any[]) => a.indexOf(x) === i).slice(0, 5);
 const relatedIds = new Set([d.id, ...related.map((x: any) => x.data.id)]);
 const sharesTopic = (x: any) => x.data.topics.some((tp: string) => d.topics.includes(tp));
 const startHere = c.articles.filter((x: any) => x.data.type === 'explainer' && !relatedIds.has(x.data.id) && sharesTopic(x)).slice(0, 3);
