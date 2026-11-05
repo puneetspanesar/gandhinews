@@ -1,0 +1,29 @@
+{
+ "run": "stall-22",
+ "start": "2026-11-05T22:54:55+05:30",
+ "end": "2026-11-05T23:40:17+05:30",
+ "summary": "Ronaldo and Misri back from holds, Ronaldo leads, homepage rebalanced, lead label and India cards fixed",
+ "new": [],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": [
+  {
+   "id": "homepage",
+   "why": "Two markets/business stories in the top headlines (ONGC Q2, Sensex close)",
+   "done": "Headlines rebalanced: one business story (FII/DII) in the top eight; Sensex, ONGC and other Q2 cards moved below"
+  },
+  {
+   "id": "homepage",
+   "why": "Andhra explainer 'who you elect today' in the top after polling ended",
+   "done": "Explainer and morning poll previews kept off the top with refresh_home --drop; the Andhra polls hold one top slot plus the India section lead (polling ends story)"
+  },
+  {
+   "id": "homepage",
+   "why": "India section Courts cards had no standfirst and left blank space",
+   "done": "Home.astro India cards now show the standfirst on the small cards, as the sports desk does; checked on a screenshot"
+  }
+ ],
+ "breaches": [],
+ "lead": "cristiano-ronaldo-retires-international-football-portugal"
+}

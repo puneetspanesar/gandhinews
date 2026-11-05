@@ -5,6 +5,8 @@ Usage (repo root):
                                                            the newest fresh non-markets news story with a real photo takes over
   python3 newsroom/scripts/refresh_home.py --lead <id>     make <id> the lead (overlay from its hero, data box cleared)
   python3 newsroom/scripts/refresh_home.py --pin <id> ...  put these ids first in the headlines (BIG STORIES)
+  python3 newsroom/scripts/refresh_home.py --drop <id> ...  keep these ids out of the lead, live band and headlines this hour
+                                                           (a story overtaken by events, e.g. a morning preview of a poll that has ended)
   python3 newsroom/scripts/refresh_home.py --critical <id> ...  a nation- or world-changing story that may stay in the
                                                            headlines another hour, ONLY if it was updated (`updated:`) since
                                                            the last hour's homepage; otherwise write the development as a new story
@@ -28,7 +30,7 @@ from gnrules import MKT, words, stale_clock, is_markets, same_subject, headline_
 
 IST = dt.timezone(dt.timedelta(hours=5, minutes=30))
 now = dt.datetime.now(IST)
-ap = argparse.ArgumentParser(); ap.add_argument('--lead'); ap.add_argument('--pin', nargs='*', default=[]); ap.add_argument('--critical', nargs='*', default=[])
+ap = argparse.ArgumentParser(); ap.add_argument('--lead'); ap.add_argument('--pin', nargs='*', default=[]); ap.add_argument('--critical', nargs='*', default=[]); ap.add_argument('--drop', nargs='*', default=[])
 a = ap.parse_args()
 import os as _o
 if sys.argv[1:]: open((_o.environ.get('GN_WORK') or '/home/claude/gn-work/') + 'home_args', 'w').write(' '.join(sys.argv[1:]))  # publish.sh re-applies these after a merge
@@ -73,6 +75,7 @@ def upd(i):
     t = A[i].get('updated')
     return (t if t.tzinfo else t.replace(tzinfo=IST)) if isinstance(t, dt.datetime) else None
 def allowed(i):
+    if i in a.drop: return False
     if i not in blocked: return True
     return i in a.critical and upd(i) is not None and upd(i) > _at(prev)
 for i in a.critical:
@@ -91,6 +94,8 @@ def set_lead(i):
     L['overlay'] = {'kicker': {'en': A[i].get('format_label', ''), 'hi': HI[i].get('format_label', '')},
                     'value': {'en': ov(A[i]), 'hi': ov(HI[i])}, 'text': {'en': '', 'hi': ''}}
     L['dataBox'] = []; L['relatedBelow'] = []
+    lbl = lambda d: (d.get('format_label') or '').split('/')[-1].strip()
+    L['live'] = {**(L.get('live') or {}), 'title': {'en': lbl(A[i]), 'hi': lbl(HI[i])}}   # the red label on the lead names the lead's own subject
 if _pending_lead:
     if not allowed(a.lead): sys.exit(f'{a.lead} led or was in the headlines at {_at(prev):%H:%M}: headlines change every hour (update it and pass --critical, or lead with a new story)')
     set_lead(a.lead)
