@@ -46876,5 +46876,233 @@
   "composite": [
    "cx-us-midterms-schumer-lower-costs-with-or-without-trump-0"
   ]
+ },
+ {
+  "id": "cx-fenerbahce-3-2-liverpool-muriqi-valverde-real-madrid-aek-0",
+  "articleId": "part:fenerbahce-3-2-liverpool-muriqi-valverde-real-madrid-aek:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Vedat_Muriqi_Fenerbah%C3%A7e_20260717_%283%29.jpg/1600px-Vedat_Muriqi_Fenerbah%C3%A7e_20260717_%283%29.jpg",
+  "credit": "Zafer",
+  "licence": "CC BY 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Vedat_Muriqi_Fenerbah%C3%A7e_20260717_(3).jpg"
+ },
+ {
+  "id": "cx-fenerbahce-3-2-liverpool-muriqi-valverde-real-madrid-aek-1",
+  "articleId": "part:fenerbahce-3-2-liverpool-muriqi-valverde-real-madrid-aek:1",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Andoni_Iraola_2023.jpg",
+  "credit": "AFC Bournemouth",
+  "licence": "CC BY 3.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Andoni_Iraola_2023.jpg"
+ },
+ {
+  "id": "x-fenerbahce-3-2-liverpool-muriqi-valverde-real-madrid-aek",
+  "articleId": "fenerbahce-3-2-liverpool-muriqi-valverde-real-madrid-aek",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Vedat_Muriqi_Fenerbah%C3%A7e_20260717_%283%29.jpg/1600px-Vedat_Muriqi_Fenerbah%C3%A7e_20260717_%283%29.jpg",
+  "credit": "Photos: Zafer / Wikimedia Commons; AFC Bournemouth / Wikimedia Commons",
+  "licence": "CC BY 4.0, CC BY 3.0",
+  "alt": "Vedat Muriqi and Andoni Iraola (file photo)",
+  "alt_hi": "वेदात मुरीकी और आंदोनी इराओला (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Vedat_Muriqi_Fenerbah%C3%A7e_20260717_(3).jpg",
+  "composite": [
+   "cx-fenerbahce-3-2-liverpool-muriqi-valverde-real-madrid-aek-0",
+   "cx-fenerbahce-3-2-liverpool-muriqi-valverde-real-madrid-aek-1"
+  ]
+ },
+ {
+  "id": "cx-fenerbahce-3-2-liverpool-muriqi-valverde-real-madrid-aek--0",
+  "articleId": "part:fenerbahce-3-2-liverpool-muriqi-valverde-real-madrid-aek--p2:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/20171114_AUT_URU_4530_%28cropped%29.jpg",
+  "credit": "Ailura",
+  "licence": "CC BY-SA 3.0 at",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:20171114_AUT_URU_4530_(cropped).jpg"
+ },
+ {
+  "id": "x-fenerbahce-3-2-liverpool-muriqi-valverde-real-madrid-aek--p2",
+  "articleId": "fenerbahce-3-2-liverpool-muriqi-valverde-real-madrid-aek--p2",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/20171114_AUT_URU_4530_%28cropped%29.jpg",
+  "credit": "Photo: Ailura / Wikimedia Commons",
+  "licence": "CC BY-SA 3.0 at",
+  "alt": "Federico Valverde (file photo)",
+  "alt_hi": "फेडेरिको वाल्वेर्दे (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:20171114_AUT_URU_4530_(cropped).jpg",
+  "composite": [
+   "cx-fenerbahce-3-2-liverpool-muriqi-valverde-real-madrid-aek--0"
+  ]
+ },
+ {
+  "id": "cx-alcaraz-beats-michelsen-fils-machac-paris-masters-last-16-0",
+  "articleId": "part:alcaraz-beats-michelsen-fils-machac-paris-masters-last-16:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Carlos_Alcaraz_2025_FO.jpg",
+  "credit": "Like tears in rain",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Carlos_Alcaraz_2025_FO.jpg"
+ },
+ {
+  "id": "cx-alcaraz-beats-michelsen-fils-machac-paris-masters-last-16-1",
+  "articleId": "part:alcaraz-beats-michelsen-fils-machac-paris-masters-last-16:1",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Fils_MLC21_%282%29.jpg/1600px-Fils_MLC21_%282%29.jpg",
+  "credit": "si.robi",
+  "licence": "CC BY-SA 2.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Fils_MLC21_(2).jpg"
+ },
+ {
+  "id": "x-alcaraz-beats-michelsen-fils-machac-paris-masters-last-16",
+  "articleId": "alcaraz-beats-michelsen-fils-machac-paris-masters-last-16",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Carlos_Alcaraz_2025_FO.jpg",
+  "credit": "Photos: Like tears in rain / Wikimedia Commons; si.robi / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0, CC BY-SA 2.0",
+  "alt": "Carlos Alcaraz and Arthur Fils (file photo)",
+  "alt_hi": "कार्लोस अल्कराज और आर्थर फिल्स (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Carlos_Alcaraz_2025_FO.jpg",
+  "composite": [
+   "cx-alcaraz-beats-michelsen-fils-machac-paris-masters-last-16-0",
+   "cx-alcaraz-beats-michelsen-fils-machac-paris-masters-last-16-1"
+  ]
+ },
+ {
+  "id": "cx-alcaraz-beats-michelsen-fils-machac-paris-masters-last-16-0b",
+  "articleId": "part:alcaraz-beats-michelsen-fils-machac-paris-masters-last-16--p1:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Arthur_Fils_-_2024_Olympics_%28still%29_%28cropped%29.jpg/1600px-Arthur_Fils_-_2024_Olympics_%28still%29_%28cropped%29.jpg",
+  "credit": "Kuberzog",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Arthur_Fils_-_2024_Olympics_(still)_(cropped).jpg"
+ },
+ {
+  "id": "x-alcaraz-beats-michelsen-fils-machac-paris-masters-last-16--p",
+  "articleId": "alcaraz-beats-michelsen-fils-machac-paris-masters-last-16--p1",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Arthur_Fils_-_2024_Olympics_%28still%29_%28cropped%29.jpg/1600px-Arthur_Fils_-_2024_Olympics_%28still%29_%28cropped%29.jpg",
+  "credit": "Photo: Kuberzog / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Arthur Fils (file photo)",
+  "alt_hi": "आर्थर फिल्स (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Arthur_Fils_-_2024_Olympics_(still)_(cropped).jpg",
+  "composite": [
+   "cx-alcaraz-beats-michelsen-fils-machac-paris-masters-last-16-0b"
+  ]
+ },
+ {
+  "id": "cx-como-nine-at-lens-city-arsenal-win-champions-league-0",
+  "articleId": "part:como-nine-at-lens-city-arsenal-win-champions-league:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/2023_-_Cesc_Fabregas_%28cropped%29.jpg",
+  "credit": "Web Summit",
+  "licence": "CC BY 2.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:2023_-_Cesc_Fabregas_(cropped).jpg"
+ },
+ {
+  "id": "cx-como-nine-at-lens-city-arsenal-win-champions-league-1",
+  "articleId": "part:como-nine-at-lens-city-arsenal-win-champions-league:1",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Anastasios_Douvikas_2_%2806-09-2022%29.jpg",
+  "credit": "Niels98",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Anastasios_Douvikas_2_(06-09-2022).jpg"
+ },
+ {
+  "id": "x-como-nine-at-lens-city-arsenal-win-champions-league",
+  "articleId": "como-nine-at-lens-city-arsenal-win-champions-league",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/2023_-_Cesc_Fabregas_%28cropped%29.jpg",
+  "credit": "Photos: Web Summit / Wikimedia Commons; Niels98 / Wikimedia Commons",
+  "licence": "CC BY 2.0, CC BY-SA 4.0",
+  "alt": "Cesc Fabregas and Tasos Douvikas (file photo)",
+  "alt_hi": "सेस्क फाब्रेगास और तासोस डूविकास (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:2023_-_Cesc_Fabregas_(cropped).jpg",
+  "composite": [
+   "cx-como-nine-at-lens-city-arsenal-win-champions-league-0",
+   "cx-como-nine-at-lens-city-arsenal-win-champions-league-1"
+  ]
+ },
+ {
+  "id": "cx-como-nine-at-lens-city-arsenal-win-champions-league--p1-0",
+  "articleId": "part:como-nine-at-lens-city-arsenal-win-champions-league--p1:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Est%C3%A1dio_do_Drag%C3%A3o._Ph_Ivan_Stesso.jpg/1600px-Est%C3%A1dio_do_Drag%C3%A3o._Ph_Ivan_Stesso.jpg",
+  "credit": "Ivan Stesso",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Est%C3%A1dio_do_Drag%C3%A3o._Ph_Ivan_Stesso.jpg"
+ },
+ {
+  "id": "x-como-nine-at-lens-city-arsenal-win-champions-league--p1",
+  "articleId": "como-nine-at-lens-city-arsenal-win-champions-league--p1",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Est%C3%A1dio_do_Drag%C3%A3o._Ph_Ivan_Stesso.jpg/1600px-Est%C3%A1dio_do_Drag%C3%A3o._Ph_Ivan_Stesso.jpg",
+  "credit": "Photo: Ivan Stesso / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Estadio do Dragao in Porto (file photo)",
+  "alt_hi": "पोर्टो का एस्तादियो दो द्रागाओ (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Est%C3%A1dio_do_Drag%C3%A3o._Ph_Ivan_Stesso.jpg",
+  "composite": [
+   "cx-como-nine-at-lens-city-arsenal-win-champions-league--p1-0"
+  ]
+ },
+ {
+  "id": "cx-wall-street-dow-1569-best-day-since-april-2025-democrats--0",
+  "articleId": "part:wall-street-dow-1569-best-day-since-april-2025-democrats-congress-oil:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/New_York_City_%28New_York%2C_USA%29%2C_Manhattan%2C_Stra%C3%9Fenschilder_--_2012_--_6607.jpg/1600px-New_York_City_%28New_York%2C_USA%29%2C_Manhattan%2C_Stra%C3%9Fenschilder_--_2012_--_6607.jpg",
+  "credit": "Dietmar Rabich",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:New_York_City_(New_York,_USA),_Manhattan,_Stra%C3%9Fenschilder_--_2012_--_6607.jpg"
+ },
+ {
+  "id": "x-wall-street-dow-1569-best-day-since-april-2025-democrats-con",
+  "articleId": "wall-street-dow-1569-best-day-since-april-2025-democrats-congress-oil",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/New_York_City_%28New_York%2C_USA%29%2C_Manhattan%2C_Stra%C3%9Fenschilder_--_2012_--_6607.jpg/1600px-New_York_City_%28New_York%2C_USA%29%2C_Manhattan%2C_Stra%C3%9Fenschilder_--_2012_--_6607.jpg",
+  "credit": "Photo: Dietmar Rabich / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "The Wall Street street sign in Lower Manhattan (file photo)",
+  "alt_hi": "लोअर मैनहैटन में वॉल स्ट्रीट का साइनबोर्ड (फाइल फोटो) (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:New_York_City_(New_York,_USA),_Manhattan,_Stra%C3%9Fenschilder_--_2012_--_6607.jpg",
+  "composite": [
+   "cx-wall-street-dow-1569-best-day-since-april-2025-democrats--0"
+  ]
+ },
+ {
+  "id": "cx-wall-street-dow-1569-best-day-since-april-2025-democrats--0b",
+  "articleId": "part:wall-street-dow-1569-best-day-since-april-2025-democrats-congress-oil--p1:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Senator_Vance_official_portrait._118th_Congress.jpg/1600px-Senator_Vance_official_portrait._118th_Congress.jpg",
+  "credit": "118th United States Congress",
+  "licence": "Public domain",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Senator_Vance_official_portrait._118th_Congress.jpg"
+ },
+ {
+  "id": "x-wall-street-dow-1569-best-day-since-april-2025-democrats-conb",
+  "articleId": "wall-street-dow-1569-best-day-since-april-2025-democrats-congress-oil--p1",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Senator_Vance_official_portrait._118th_Congress.jpg/1600px-Senator_Vance_official_portrait._118th_Congress.jpg",
+  "credit": "Photo: 118th United States Congress / Wikimedia Commons",
+  "licence": "Public domain",
+  "alt": "US Vice-President JD Vance (file photo)",
+  "alt_hi": "अमेरिकी उपराष्ट्रपति जेडी वेंस (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Senator_Vance_official_portrait._118th_Congress.jpg",
+  "composite": [
+   "cx-wall-street-dow-1569-best-day-since-april-2025-democrats--0b"
+  ]
+ },
+ {
+  "id": "cx-andhra-mptc-zptc-polling-today-2-81-crore-voters--p1-0",
+  "articleId": "part:andhra-mptc-zptc-polling-today-2-81-crore-voters--p1:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/A_Snap_of_Kotia_Village_in_Koraput_District_of_Odisha.jpg",
+  "credit": "Government of Odisha",
+  "licence": "CC BY 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:A_Snap_of_Kotia_Village_in_Koraput_District_of_Odisha.jpg"
+ },
+ {
+  "id": "x-andhra-mptc-zptc-polling-today-2-81-crore-voters--p1",
+  "articleId": "andhra-mptc-zptc-polling-today-2-81-crore-voters--p1",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/A_Snap_of_Kotia_Village_in_Koraput_District_of_Odisha.jpg",
+  "credit": "Photo: Government of Odisha / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "Villages in the Kotia area on the Odisha-Andhra Pradesh border (file photo)",
+  "alt_hi": "ओडिशा-आंध्र प्रदेश सीमा पर कोटिया इलाके के गांव (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:A_Snap_of_Kotia_Village_in_Koraput_District_of_Odisha.jpg",
+  "composite": [
+   "cx-andhra-mptc-zptc-polling-today-2-81-crore-voters--p1-0"
+  ]
  }
 ]

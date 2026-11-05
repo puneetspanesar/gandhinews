@@ -11,7 +11,7 @@ published: 2026-11-05T05:40:00+05:30
 location: Vijayawada
 keyPoints:
   - "Polling for mandal and zilla parishad seats runs **from 7 am to 5 pm** on Thursday."
-  - "**659 ZPTC and 9,829 MPTC constituencies** were listed for election across 28 districts."
+  - "**659 ZPTC and 9,829 MPTC constituencies** were listed for election."
   - "Votes will be **counted on Saturday, 7 November**, with any repoll on Friday."
 hero:
   need: "Voters queueing or casting ballots at a rural polling station in Andhra Pradesh"
@@ -26,7 +26,7 @@ infographic:
   dek: "Polling moved from 3 November to 5 November"
   motif: check-square
   stats:
-    - {icon: users, value: "2.81 crore", label: "eligible voters in 28 zilla praja parishads"}
+    - {icon: users, value: "2.81 crore", label: "eligible voters"}
     - {icon: map-pin, value: "9,829", label: "MPTC constituencies listed for election"}
     - {icon: buildings, value: "35,333", label: "polling stations set up"}
   timeline:
@@ -71,7 +71,7 @@ verification:
 
 Rural Andhra Pradesh goes to the polls on Thursday to elect **members of its mandal and zilla parishads**, two days later than first planned. Voting in the Mandal Parishad Territorial Constituency (MPTC) and Zilla Parishad Territorial Constituency (ZPTC) elections runs from 7 am to 5 pm.
 
-When State Election Commissioner Anil Chandra Punetha announced the schedule in Vijayawada on 19 October, **659 of the state's 663 ZPTC seats** and 9,829 of its 9,858 MPTC seats were listed for election, across 28 zilla praja parishads. About 2.81 crore voters are eligible, and the commission set up 35,333 polling stations. It classed 9,966 of them as sensitive and 9,186 as very sensitive, with webcasting at mandal and district level. Some seats were settled before polling day, when returning officers declared unopposed winners on 27 October.
+When State Election Commissioner Anil Chandra Punetha announced the schedule in Vijayawada on 19 October, **659 of the state's 663 ZPTC seats** and 9,829 of its 9,858 MPTC seats were listed for election. About 2.81 crore voters are eligible, and the commission set up 35,333 polling stations. It classed 9,966 of them as sensitive and 9,186 as very sensitive, with webcasting at mandal and district level. Some seats were settled before polling day, when returning officers declared unopposed winners on 27 October.
 
 After scrutiny, **50,815 nominations were found valid**, 46,045 of them for MPTC seats and 4,770 for ZPTC seats.
 

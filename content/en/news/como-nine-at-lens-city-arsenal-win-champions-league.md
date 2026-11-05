@@ -63,10 +63,6 @@ Cesc Fabregas, the Como coach, kept his voice low after the game. "A wonderful n
 
 The English clubs both came away with wins. **Manchester City won 3-2 at Leipzig**, a result that lifts them into the top eight with nine points. Arsenal beat Slavia 2-1 in Prague and, still unbeaten in the competition, **climb to third on ten points**. Only Paris Saint-Germain and Real Madrid, who won late in Athens earlier in the evening, have won all four games.
 
-```photo
-{"n":1,"subject":"Estádio do Dragão","caption":"Porto's home ground, where Napoli lost 4-1 after Rafa Marin was sent off late.","alt":"Estadio do Dragao in Porto"}
-```
-
 Napoli had the worst night of the big names. Scott McTominay's goal had levelled it at 1-1 in Porto, but Gabriel Veiga, Jakub Kiwior and a late Samu penalty made it **Porto 4, Napoli 1**, and Rafa Marin was sent off two minutes from time. "These are the mistakes that cost you matches," said Napoli coach Max Allegri. Napoli drop out of the top 24, the places that lead to the knockout rounds.
 
 Borussia Dortmund beat Real Betis 2-1, the Spanish side's **first dropped points of the campaign**. Club Brugge won 2-1 at PSV Eindhoven, and Norway's Viking beat Sabah 4-1 to move into the top 24.

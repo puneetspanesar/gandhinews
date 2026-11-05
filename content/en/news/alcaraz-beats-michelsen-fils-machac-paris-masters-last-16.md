@@ -74,10 +74,6 @@ The American, ranked 35th, stayed with him through a tight first set, but Alcara
 
 "Really happy to get the win," Alcaraz said. "It's been a really difficult day for the top guys, but I just try not to think about it." He plays **Matteo Berrettini in Thursday's night session**, not before 11.30 pm IST.
 
-```photo
-{"n":1,"subject":"Arthur Fils","caption":"Arthur Fils, who beat Tomas Machac on the day he qualified for his first ATP Finals.","alt":"Arthur Fils"}
-```
-
 Arthur Fils followed him onto Court Central and gave the home crowd something to cheer. The sixth seed **beat Czech qualifier Tomas Machac 6-3, 7-6(4)**, a few hours after Quentin Halys's win over Frances Tiafoe had confirmed his place at the ATP Finals in Turin from 15 to 22 November.
 
 "It's a childhood dream. The Masters is a childhood dream," the Frenchman said. His next test is **11th seed Taylor Fritz**, a match he called "not easy, really, really not easy".
