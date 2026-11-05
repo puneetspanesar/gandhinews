@@ -84,12 +84,12 @@ Inspections of industries, brick kilns and hot-mix plants across the region are 
 
 ## Sirsa's case
 
-Environment Minister Manjinder Singh Sirsa said about 30 agencies were working on the city's plan and credited the late arrival of Stage I to preventive work and public participation. Delhi has had 214 clean air days so far this year, he said, the most in a decade leaving aside the Covid years. He put about 30% of the city's pollution down to local sources and 60 to 65% to the surrounding region, and said the previous government "kept making excuses", blaming Punjab, Uttar Pradesh, Haryana or Rajasthan in turn.
+Environment Minister Manjinder Singh Sirsa said about 30 agencies were working on the city's plan and credited the late arrival of Stage I to preventive work and public participation. Delhi has had 214 clean air days so far this year, he said, the most in a decade leaving aside the Covid years. He put about 30% of the city's pollution down to local sources and 60 to **65%** to the surrounding region, and said the previous government "kept making excuses", blaming Punjab, Uttar Pradesh, Haryana or Rajasthan in turn.
 
 From November 1, fuel stations will refuse vehicles without a valid pollution certificate, non-BS-VI vehicles registered outside Delhi will face restrictions, and parking charges at authorised lots will double, with Metro parking exempt. The Delhi Metro said it would run 20 extra weekday train trips from Thursday.
 
 ## The week ahead
 
-The Decision Support System run by IITM puts transport as the biggest single source in its latest estimate, at about 20.5%, with stubble burning at about 8%. Farm fires are forecast to push that share above 13% on Thursday before it eases to about 10% on Friday.
+The Decision Support System run by IITM puts transport as the biggest single source in its latest estimate, at about 20.5%, with stubble burning at about 8%. Farm fires are forecast to push that share **above 13% on Thursday** before it eases to about 10% on Friday.
 
 The early warning system expects poor air at least until October 23 and no real change for six days after that. On Wednesday it had projected an AQI of about 342, in the very poor band, for 9 am on Thursday. The IMD has forecast rain in Punjab, Haryana and Delhi on October 24 and 25, which could offer the first relief.

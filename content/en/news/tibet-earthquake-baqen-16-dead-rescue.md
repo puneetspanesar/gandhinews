@@ -46,12 +46,12 @@ verification:
     - "No reports of tremors or damage in Nepal or India found; left out."
 ---
 
-A magnitude 7.0 earthquake struck a remote, mountainous part of China's Tibet region late on Thursday, killing at least 16 people and injuring 46, Chinese state television said.
+A magnitude 7.0 earthquake struck a remote, mountainous part of China's Tibet region late on Thursday, killing at least **16 people** and injuring 46, Chinese state television said.
 
-The quake hit at 10:33 pm local time (8:03 pm IST) in Maru township in Baqen county, about 190 km east-northeast of Nagqu and 390 km northeast of Lhasa. The US Geological Survey put its depth at about 10 km, shallow enough to shake the ground hard across a wide area. Eleven of the injured were in serious condition, according to state broadcaster CCTV.
+The quake hit at 10:33 pm local time (8:03 pm IST) in Maru township in Baqen county, about **190 km** east-northeast of Nagqu and 390 km northeast of Lhasa. The US Geological Survey put its depth at about 10 km, shallow enough to shake the ground hard across a wide area. Eleven of the injured were in serious condition, according to state broadcaster CCTV.
 
-More than 300 houses came down, and CCTV said 339 homes in all had collapsed or been damaged. Walls cracked at the township office, and power and telephone services were cut in the county seat. "It was clearly felt," said Lhawang Dagpo, the township's deputy head. Television footage showed workers running out of restaurants and goods tumbling off supermarket shelves.
+More than 300 houses came down, and CCTV said **339 homes** in all had collapsed or been damaged. Walls cracked at the township office, and power and telephone services were cut in the county seat. "It was clearly felt," said Lhawang Dagpo, the township's deputy head. Television footage showed workers running out of restaurants and goods tumbling off supermarket shelves.
 
 Authorities activated a level-III earthquake emergency response. More than 300 police officers were sent to the area, and the regional fire and rescue corps mobilised 347 personnel. Rescuers searched damaged buildings, some with their roofs caved in, through the night, while soldiers stood ready to deploy. The official Xinhua news agency said damage was still being assessed on Friday.
 
-Earthquakes are common in China. In January 2025, a quake in Tibet's Tingri county killed at least 126 people, and in December 2023 one in Gansu province killed at least 127.
+Earthquakes are common in China. In January 2025, a quake in Tibet's Tingri county killed at least **126 people**, and in December 2023 one in Gansu province killed at least 127.

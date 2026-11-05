@@ -43,7 +43,7 @@ verification:
     - "No Indian government response to the letter itself found."
 ---
 
-Six Democratic members of the US Congress have asked Secretary of State Marco Rubio to raise India's handling of the student-led protests and its revision of voter rolls when he meets External Affairs Minister S Jaishankar in Mumbai.
+Six Democratic members of the US Congress have asked Secretary of State Marco Rubio to raise India's handling of the student-led protests and its **revision of voter rolls** when he meets External Affairs Minister S Jaishankar in Mumbai.
 
 Rubio begins a visit to India on Saturday that runs until October 22. His talks with Jaishankar are set for October 20 in Mumbai, where the two governments will also mark the 250th anniversary of American independence. Energy is at the top of his agenda, and his itinerary includes Jamnagar in Gujarat but not New Delhi.
 

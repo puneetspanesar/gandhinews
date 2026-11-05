@@ -40,21 +40,21 @@ verification:
     - "Air-conditioner approval is in-principle approval to evaluate the category, not a launch."
 ---
 
-Urban Company's revenue from operations rose 41% from a year earlier to ₹537 crore in the July-September quarter, as the number of jobs booked through the home services app more than doubled to 15.1 million. Its net loss widened to ₹182.48 crore, weighed down by heavy spending on InstaHelp, its fast-dispatch domestic help service.
+Urban Company's revenue from operations rose **41%** from a year earlier to ₹537 crore in the July-September quarter, as the number of jobs booked through the home services app more than doubled to 15.1 million. Its net loss widened to ₹182.48 crore, weighed down by heavy spending on InstaHelp, its fast-dispatch domestic help service.
 
-Net transaction value, the total paid by customers on the platform, rose 39% to ₹1,432 crore. Nearly 10 million people used the service over the past year.
+Net transaction value, the total paid by customers on the platform, rose **39%** to ₹1,432 crore. Nearly 10 million people used the service over the past year.
 
 ## The cost of InstaHelp
 
-The company put ₹174 crore into InstaHelp during the quarter, leaving an adjusted operating loss of ₹144 crore. Without it, adjusted EBITDA was a profit of ₹30 crore.
+The company put **₹174 crore** into InstaHelp during the quarter, leaving an adjusted operating loss of ₹144 crore. Without it, adjusted EBITDA was a profit of ₹30 crore.
 
-InstaHelp completed 6.2 million orders, up 63% from the June quarter, and the loss on each order narrowed to ₹279 from ₹346.
+InstaHelp completed 6.2 million orders, up **63%** from the June quarter, and the loss on each order narrowed to ₹279 from ₹346.
 
 The main Indian consumer services business, leaving out InstaHelp, grew transaction value 26.3% to ₹963 crore. Tier 2 cities grew faster, at about 37%. The international business grew 66% to ₹267 crore, and Native, its smart home products brand, grew 35% to ₹132 crore.
 
 ## Money and air conditioners
 
-The board approved raising up to ₹2,500 crore, subject to shareholders' approval. It also gave in-principle approval to study residential air conditioners as a new Native product, short of a decision to launch one.
+The board approved raising **up to ₹2,500 crore**, subject to shareholders' approval. It also gave in-principle approval to study residential air conditioners as a new Native product, short of a decision to launch one.
 
 The company had ₹1,901 crore in cash and treasury investments at the end of September. It expects transaction value to grow 50-55% across the September and December quarters taken together and says it remains on track to break even on adjusted EBITDA by the December quarter of 2027-28.
 

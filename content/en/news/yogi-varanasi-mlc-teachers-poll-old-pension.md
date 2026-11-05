@@ -44,11 +44,11 @@ verification:
     - "Related story yogi-prayagraj-padmalok-flats-atiq-land-pmay-keys says 76 flats; ETV Bharat and ANI on Oct 15 say 602 (about 600) flats for Padma Lok. Flag for the editor."
 ---
 
-Chief Minister Yogi Adityanath has taken personal charge of the BJP's campaign for Uttar Pradesh's Legislative Council elections, where teachers say a single demand, the return of the old pension scheme, will settle their vote.
+Chief Minister Yogi Adityanath has taken personal charge of the BJP's campaign for Uttar Pradesh's Legislative Council elections, where teachers say a single demand, the return of the **old pension scheme**, will settle their vote.
 
-In Varanasi on Wednesday, Adityanath addressed a convention of teachers and party workers from the eight districts that make up the Varanasi division seat. About 10,000 people attended. Voting is on October 24, and the Chief Minister said polling day would be a holiday.
+In Varanasi on Wednesday, Adityanath addressed a convention of teachers and party workers from the eight districts that make up the Varanasi division seat. About **10,000 people** attended. Voting is on October 24, and the Chief Minister said polling day would be a holiday.
 
-He asked voters to mark their ballots with care, reminding them that about 5,000 votes were declared invalid in the last election because of small mistakes.
+He asked voters to mark their ballots with care, reminding them that **about 5,000 votes** were declared invalid in the last election because of small mistakes.
 
 "Last time several seats were lost because of overconfidence, but nothing like that will happen this time," said Pradeep Agrahari, the BJP's Varanasi metro president.
 

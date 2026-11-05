@@ -48,9 +48,9 @@ verification:
     - "ESPNcricinfo story could not be opened. MI's statement is quoted only in short phrases as given by IANS."
 ---
 
-Mumbai Indians have completed their first trade in the Women's Premier League, signing USA left-arm seamer Tara Norris from UP Warriorz. She moves at her fee of ₹10 lakh, two weeks before the auction for the 2027 season.
+Mumbai Indians have completed their first trade in the Women's Premier League, signing USA left-arm seamer Tara Norris from UP Warriorz. She moves at her fee of **₹10 lakh**, two weeks before the auction for the 2027 season.
 
-Norris has a place in the league's short history. Playing for Delhi Capitals in the first season in 2023, she took 5 for 29 against Royal Challengers Bengaluru at the Brabourne Stadium, the first five-wicket haul in the WPL, with Ellyse Perry, Heather Knight and Richa Ghosh among her wickets. She was also the first player from an Associate nation picked at the inaugural auction.
+Norris has a place in the league's short history. Playing for Delhi Capitals in the first season in 2023, she took **5 for 29** against Royal Challengers Bengaluru at the Brabourne Stadium, the first five-wicket haul in the WPL, with Ellyse Perry, Heather Knight and Richa Ghosh among her wickets. She was also the first player from an Associate nation picked at the inaugural auction.
 
 UP Warriorz signed her later but she pulled out to play for the USA at the Women's T20 World Cup Qualifier. She has also played six matches for MI London in the Women's Hundred, taking four wickets.
 

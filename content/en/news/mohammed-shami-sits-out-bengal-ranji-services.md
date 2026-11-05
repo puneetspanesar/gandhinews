@@ -45,7 +45,7 @@ Mohammed Shami was missing from Bengal's side when their second-round Ranji Trop
 
 The fast bowler trained with the squad on Saturday and had been expected to lead the pace attack, with Akash Deep and Mukesh Kumar away on India A duty. Bengal have not explained his absence. He was reported to have been rested, though people close to the team management have suggested the decision may have been his own.
 
-Shami took four wickets against Delhi in Bengal's nine-wicket win in the first round, a reminder to the selectors before they named the touring party. When the squads for the five one-day internationals and two Tests were announced, he was in neither. Jasprit Bumrah is in the Test squad and Mohammed Siraj is part of both plans. The selectors have not said publicly why Shami was left out, and questions have been raised over whether he can sustain long spells.
+Shami took **four wickets against Delhi** in Bengal's nine-wicket win in the first round, a reminder to the selectors before they named the touring party. When the squads for the five one-day internationals and two Tests were announced, he was in neither. Jasprit Bumrah is in the Test squad and Mohammed Siraj is part of both plans. The selectors have not said publicly why Shami was left out, and questions have been raised over whether he can sustain long spells.
 
 Bengal won the toss and batted first. Their XI was Abhimanyu Easwaran (captain), Ankur Paul, Sudip Kumar Gharami, Sudip Chatterjee, Shahbaz Ahmed, Sumanta Gupta, Abishek Porel (wicketkeeper), Pradipta Pramanik, Aamir Gani, Mohammed Kaif and Suraj Sindhu Jaiswal.
 

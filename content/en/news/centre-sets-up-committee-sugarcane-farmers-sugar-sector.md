@@ -46,7 +46,7 @@ verification:
     - "Hubballi protest background, ₹5,500 a tonne demand, FRP ₹365 per quintal and Joshi quotes from The South First only (Sep 29); stated as context, ₹5,500 demand attributed to the protesting unions."
 ---
 
-The Centre on Wednesday set up a committee led by agricultural economist Ramesh Chand to examine the grievances of sugarcane growers, after farmers from Karnataka and Maharashtra took their demands for a better price to Union ministers in Delhi.
+The Centre on Wednesday set up a committee led by agricultural economist Ramesh Chand to examine the grievances of sugarcane growers, after **farmers from Karnataka and Maharashtra** took their demands for a better price to Union ministers in Delhi.
 
 Chand was a member of NITI Aayog from 2015 to 2026 and earlier headed the ICAR's National Institute of Agricultural Economics and Policy Research and served on the Fifteenth Finance Commission. The other members are the Agriculture Commissioner and two joint secretaries, one handling sugar in the food ministry and one handling legal metrology in the consumer affairs department.
 
@@ -58,4 +58,4 @@ The panel can consult farmer groups, mill associations, state governments and ex
 
 ## Behind the move
 
-The decision follows weeks of agitation in north Karnataka. At a protest in Hubballi on September 29, farmer unions demanded a cane price of ₹5,500 a tonne for 2026-27 and a higher selling price for sugar. Food Minister Pralhad Joshi had invited them to Delhi, writing on X: "If you come to Delhi, we will hold discussions with you." He has pointed out that the Centre raised the fair and remunerative price to ₹365 a quintal in May.
+The decision follows weeks of agitation in north Karnataka. At a protest in Hubballi on September 29, farmer unions demanded a cane price of **₹5,500** a tonne for 2026-27 and a higher selling price for sugar. Food Minister Pralhad Joshi had invited them to Delhi, writing on X: "If you come to Delhi, we will hold discussions with you." He has pointed out that the Centre raised the fair and remunerative price to ₹365 a quintal in May.

@@ -38,11 +38,11 @@ verification:
 
 The ceasefire in Gaza remains "extremely fragile", and for Palestinians living along the Yellow Line "the ceasefire exists in name only," the UN's acting Special Coordinator for the Middle East Peace Process, Ramiz Alakbarov, told the Security Council on Thursday.
 
-Citing Gaza's Ministry of Health, Alakbarov said about 1,500 Palestinians had been killed since the truce took hold, more than 320 of them children and 140 women. He warned that winter could deepen the crisis: about 950,000 people are living in areas at risk of flooding, and more than 4,000 buildings being used as shelters could collapse. He called for the Gaza plan to be carried out in full, including the disarming of Hamas and Israeli withdrawal.
+Citing Gaza's Ministry of Health, Alakbarov said about **1,500 Palestinians** had been killed since the truce took hold, more than 320 of them children and 140 women. He warned that winter could deepen the crisis: about 950,000 people are living in areas at risk of flooding, and more than 4,000 buildings being used as shelters could collapse. He called for the Gaza plan to be carried out in full, including the disarming of Hamas and Israeli withdrawal.
 
 ## Pressure over E1
 
-Several members turned to the occupied West Bank. Britain's ambassador, Sarah MacIntosh, demanded an immediate halt to the E1 settlement project and withdrawal of the tender linked to it, and urged Israel to "remove the current restrictions" on aid into Gaza. France's Jérôme Bonnafont also called for an end to settlement expansion, citing settler violence and financial pressure on the Palestinian Authority.
+Several members turned to the occupied West Bank. Britain's ambassador, Sarah MacIntosh, demanded an immediate halt to the **E1 settlement** project and withdrawal of the tender linked to it, and urged Israel to "remove the current restrictions" on aid into Gaza. France's Jérôme Bonnafont also called for an end to settlement expansion, citing settler violence and financial pressure on the Palestinian Authority.
 
 Pakistan's acting envoy, Usman Jadoon, said "settlement expansion, particularly the E1 project, threatens to sever Palestinian territorial contiguity," and called for a "credible, time-bound and irreversible" process to end the occupation.
 

@@ -45,7 +45,7 @@ verification:
 
 India's campaign at the Denmark Open ended in the quarter-finals on Friday, when Tanvi Sharma ran into world No. 1 An Se-young and the women's doubles pair of Treesa Jolly and Gayatri Gopichand were beaten by Malaysia's Pearly Tan and Thinaah Muralitharan in Odense.
 
-Tanvi, ranked 24th in the world and the last Indian left in the singles draw, lost 21-15, 21-13 to the Korean top seed in 38 minutes. She had reached the last eight by beating Yvonne Li, a win that avenged PV Sindhu's defeat earlier in the week.
+Tanvi, ranked 24th in the world and the last Indian left in the singles draw, lost **21-15, 21-13** to the Korean top seed in 38 minutes. She had reached the last eight by beating Yvonne Li, a win that avenged PV Sindhu's defeat earlier in the week.
 
 ## A lead slips in the doubles
 
@@ -57,4 +57,4 @@ It was the same opponents who knocked the Indians out in the quarter-finals of t
 
 It was a week of early exits for the rest of the Indian contingent. PV Sindhu, Unnati Hooda, Lakshya Sen, Ayush Shetty and the men's doubles pair of Satwiksairaj Rankireddy and Chirag Shetty all went out in the first round, and Kidambi Srikanth lost in the second round to world champion Alex Lanier of France.
 
-No Indian is involved in Saturday's semi-finals. The tour moves straight on to the French Open, which runs from October 20 to 25.
+No Indian is involved in Saturday's semi-finals. The tour moves straight on to the **French Open**, which runs from October 20 to 25.

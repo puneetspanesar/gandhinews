@@ -43,8 +43,8 @@ Assam Chief Minister Himanta Biswa Sarma said on Saturday that the state police 
 
 "Each day, each occasion, we remain alert on our borders," the Chief Minister added, saying security forces were on guard at all times.
 
-Sarma did not say when or where along the border the attempt was stopped, or whether those turned back had been held. Assam Police have not issued a separate statement on the operation.
+Sarma did not say **when or where** along the border the attempt was stopped, or whether those turned back had been held. Assam Police have not issued a separate statement on the operation.
 
-The post came in the middle of a busy week for the Assam Police. On October 12 the force ran a statewide anti-drug operation that led to 945 arrests and 547 cases and covered 703 drug hotspots, work that Union Home Minister Amit Shah publicly praised.
+The post came in the middle of a busy week for the Assam Police. On October 12 the force ran a statewide anti-drug operation that led to 945 arrests and **547 cases** and covered 703 drug hotspots, work that Union Home Minister Amit Shah publicly praised.
 
 At the national level, the committee on demographic change set up by the Union Home Ministry in May has opened a portal asking governments, institutions and individuals to send in data on population shifts and settlement patterns linked to illegal immigration.

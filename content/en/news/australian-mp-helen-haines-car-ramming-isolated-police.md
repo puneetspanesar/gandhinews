@@ -47,11 +47,11 @@ verification:
     - "Knife claim from bystander Ricky Jefferies only; written as his account."
 ---
 
-Helen Haines, the independent member of Australia's Parliament for the rural Victorian seat of Indi, has lost a leg after a man drove a car into her outside her electorate office, and doctors are fighting to save the other.
+Helen Haines, the independent member of Australia's Parliament for the rural Victorian seat of Indi, has **lost a leg** after a man drove a car into her outside her electorate office, and doctors are fighting to save the other.
 
 The 65-year-old was struck shortly before 3:35 pm local time on Monday on Murphy Street in Wangaratta, a town in north-east Victoria. Home Affairs Minister Tony Burke said the car hit her twice. Prime Minister Anthony Albanese said early inquiries suggested the driver had made a U-turn. She was flown to The Alfred hospital in Melbourne and operated on overnight. On Tuesday afternoon the hospital said she remained in critical condition.
 
-Brendan Nugent, 43, from nearby Tarrawingee, has been charged with dangerous driving causing serious injury, intentionally causing serious injury and the federal offence of causing harm to a Commonwealth public official, which carries up to 10 years in prison. Police allege the attack was targeted. He is due before Wangaratta Magistrates' Court on Wednesday.
+Brendan Nugent, 43, from nearby Tarrawingee, has been charged with dangerous driving causing serious injury, intentionally causing serious injury and the federal offence of **causing harm to a Commonwealth public official**, which carries up to 10 years in prison. Police allege the attack was targeted. He is due before Wangaratta Magistrates' Court on Wednesday.
 
 ## Isolated, police say
 

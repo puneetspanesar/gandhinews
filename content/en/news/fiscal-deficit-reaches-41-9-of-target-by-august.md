@@ -75,13 +75,13 @@ verification:
     - "April-May figure (₹1.62 lakh crore, 9.6% of BE) rests on a Deccan Chronicle headline only; not used in the chart."
 ---
 
-The Centre's fiscal deficit for April-August 2026 stood at ₹7,10,249 crore, or 41.9% of the Budget Estimate (BE) for 2026-27, according to Controller General of Accounts (CGA) data released on September 30. A year earlier, the deficit for the same five months was 38.1% of that year's target.
+The Centre's fiscal deficit for April-August 2026 stood at **₹7,10,249 crore**, or 41.9% of the Budget Estimate (BE) for 2026-27, according to Controller General of Accounts (CGA) data released on September 30. A year earlier, the deficit for the same five months was 38.1% of that year's target.
 
-The Budget for 2026-27 targets a deficit of ₹16,95,768 crore, or 4.3% of GDP, down from 4.4% in 2025-26. The deficit is the gap between what the government spends and what it earns, which it covers by borrowing.
+The Budget for 2026-27 targets a deficit of **₹16,95,768 crore**, or 4.3% of GDP, down from 4.4% in 2025-26. The deficit is the gap between what the government spends and what it earns, which it covers by borrowing.
 
 ## A sharp rise in August
 
-Until July the deficit was broadly in line with, or behind, last year's pace. It was 18.2% of the BE at the end of June (17.9% a year earlier) and 26.8% at the end of July (29.9% a year earlier).
+Until July the deficit was broadly in line with, or behind, last year's pace. It was **18.2%** of the BE at the end of June (17.9% a year earlier) and 26.8% at the end of July (29.9% a year earlier).
 
 August changed that. The cumulative deficit went from ₹4,55,144 crore at the end of July to ₹7,10,249 crore at the end of August. ICRA's analysis says the jump was driven by an extra instalment of tax devolution to states.
 
@@ -97,7 +97,7 @@ On the spending side, subsidies were up 24% and revenue expenditure 8%, while in
 
 For the full year, the Budget plans total spending of ₹53,47,315 crore against revenue receipts of ₹35,33,150 crore, with the gap met mainly by borrowing.
 
-Capital expenditure was up 18% over the five months. It had surged 60% in June-July but fell 30% in August.
+Capital expenditure was up 18% over the five months. It had surged 60% in June-July but **fell 30% in August**.
 
 ```facts
 {"title":"April-August 2026","items":[{"value":"₹7.10 lakh cr","label":"fiscal deficit, 41.9% of BE (38.1% a year ago)","source":"CGA via UNI"},{"value":"6.5%","label":"growth in gross tax revenue","source":"ICRA via Deccan Chronicle"},{"value":"-23%","label":"change in excise collections","source":"ICRA via Deccan Chronicle"},{"value":"24%","label":"growth in subsidy spending","source":"ICRA via Deccan Chronicle"}]}
@@ -105,7 +105,7 @@ Capital expenditure was up 18% over the five months. It had surged 60% in June-J
 
 ## ICRA warns of an overshoot
 
-Rating agency ICRA expects the deficit for 2026-27 to exceed the Budget Estimate by ₹1.3 to 1.4 lakh crore. It cites a shortfall in tax revenue and extra subsidy needs for fuel and fertilisers. It expects income tax and excise collections to fall short of budgeted levels.
+Rating agency ICRA expects the deficit for 2026-27 to exceed the Budget Estimate by **₹1.3 to 1.4 lakh crore**. It cites a shortfall in tax revenue and extra subsidy needs for fuel and fertilisers. It expects income tax and excise collections to fall short of budgeted levels.
 
 ICRA also sees some offsets. Customs collections are running above budget because of higher duties on gold and silver imports, and small savings inflows are expected to exceed budgeted levels, which would give the Centre more room to borrow in the second half of the year.
 

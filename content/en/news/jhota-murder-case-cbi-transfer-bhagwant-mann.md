@@ -53,6 +53,6 @@ The Punjab government will hand the murder of anti-drug activist Parvinder Singh
 
 Jhota was shot in Mansa on October 13, allegedly by the owner of a medical shop he had confronted, and died of his wounds in hospital. The killing set off a Punjab bandh called by farmers' and workers' groups on October 15. Punjab Police, working with Rajasthan Police, arrested the alleged shooter at a dharamshala near the Salasar Balaji temple in Rajasthan.
 
-His father, Bhim Singh, had blamed the administration for failing to prevent the attack and asked for a CBI probe. "Chief Minister and the DGP, if their conscience awakens, they should resign on their own," he had said.
+His father, **Bhim Singh**, had blamed the administration for failing to prevent the attack and asked for a CBI probe. "Chief Minister and the DGP, if their conscience awakens, they should resign on their own," he had said.
 
 The decision came on the morning Union Home Minister Amit Shah began a tour of Gurdaspur, Mansa and Sangrur to meet families of people killed after speaking out against drug traffickers. BJP leader Ravneet Singh Bittu said Jhota's father had insisted that "if anyone can do justice, it is the CBI". Punjab minister Aman Arora confirmed the transfer while welcoming Shah's visit.

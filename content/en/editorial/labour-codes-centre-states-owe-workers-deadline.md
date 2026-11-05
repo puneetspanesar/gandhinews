@@ -69,7 +69,7 @@ States have reasons to go carefully. The codes reshape rules on unions, strikes 
 
 There are also open questions that the Centre has not settled. A Grant Thornton Bharat report launched at the same seminar flagged the lack of definitions for managerial, administrative and supervisory roles, and the rule on paying wages within two working days of a worker leaving.
 
-Both points argue for clear timelines. Consultation has a beginning and an end. Nearly 11 months after the codes took effect, and five months after the central rules, a state that has published only a draft should be able to say when it will finish.
+Both points argue for clear timelines. Consultation has a beginning and an end. Nearly **11 months** after the codes took effect, and five months after the central rules, a state that has published only a draft should be able to say when it will finish.
 
 ## What is missing is information
 

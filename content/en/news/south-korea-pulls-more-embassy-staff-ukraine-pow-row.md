@@ -36,7 +36,7 @@ verification:
     - "Number of staff leaving not disclosed."
 ---
 
-South Korea will withdraw more of its diplomats from Ukraine, escalating a dispute with Kyiv over two North Korean prisoners of war.
+South Korea will withdraw more of its diplomats from Ukraine, escalating a dispute with Kyiv over **two North Korean** prisoners of war.
 
 Foreign Ministry spokesperson Park Doo-soon said on Tuesday that Seoul had conveyed its position through several channels without getting a "constructive response" from Ukraine. He did not say how many staff would leave. A charge d'affaires will stay in Kyiv to keep diplomatic lines open, and all consular staff will remain to look after South Korean nationals.
 
@@ -44,7 +44,7 @@ Park said the step was needed to "facilitate an amicable resolution of the issue
 
 The quarrel dates to September 24, when President Volodymyr Zelenskyy told the UN General Assembly that Ukraine had handed two captured North Korean soldiers to South Korea. Seoul was angered, saying the transfer should have stayed confidential to protect the men's families in North Korea.
 
-Earlier in October, South Korea recalled its ambassador from Kyiv, summoned Ukraine's envoy and warned of unspecified "further measures". Foreign Minister Cho Hyun said Ukraine's message had included "words of apology" but fell short of what Seoul expected.
+Earlier in October, South Korea **recalled its ambassador** from Kyiv, summoned Ukraine's envoy and warned of unspecified "further measures". Foreign Minister Cho Hyun said Ukraine's message had included "words of apology" but fell short of what Seoul expected.
 
 Ukraine has said "diplomacy must prevail over emotions" and that it considers the situation resolved.
 

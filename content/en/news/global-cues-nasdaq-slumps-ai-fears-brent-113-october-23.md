@@ -59,25 +59,25 @@ verification:
     - "Sensex/Nifty/rupee Oct 22 from PTI via Daily Excelsior (rupee 94.82 provisional)."
 ---
 
-Indian shares head into Friday's session with little help from abroad. A sell-off in technology stocks dragged the Nasdaq Composite down 2.6% on Thursday, its sharpest fall since June, while Brent crude climbed to its highest level since May as attacks in Saudi Arabia and talk of fresh strikes on Iran kept the oil market on edge.
+Indian shares head into Friday's session with little help from abroad. A sell-off in technology stocks dragged the Nasdaq Composite down **2.6%** on Thursday, its sharpest fall since June, while Brent crude climbed to its highest level since May as attacks in Saudi Arabia and talk of fresh strikes on Iran kept the oil market on edge.
 
-The Nasdaq lost 694 points to end at 26,008.86 and the S&P 500 fell 1.21% to 7,663.43. The Dow Jones Industrial Average, lighter on technology, finished almost exactly where it began, up 11.89 points at 52,867.98, as money moved into financial and defensive shares.
+The Nasdaq lost 694 points to end at 26,008.86 and the S&P 500 fell **1.21%** to 7,663.43. The Dow Jones Industrial Average, lighter on technology, finished almost exactly where it began, up 11.89 points at 52,867.98, as money moved into financial and defensive shares.
 
 ## A chip rout
 
-The pain was concentrated in chipmakers and the companies building artificial intelligence capacity. The Philadelphia Semiconductor Index dropped 6.7%. Meta Platforms fell about 7% after its results showed spending on AI rising again and its first negative free cash flow as a listed company. Nvidia, Micron, Amazon and Alphabet all lost ground.
+The pain was concentrated in chipmakers and the companies building artificial intelligence capacity. The Philadelphia Semiconductor Index dropped **6.7%**. Meta Platforms fell about 7% after its results showed spending on AI rising again and its first negative free cash flow as a listed company. Nvidia, Micron, Amazon and Alphabet all lost ground.
 
 "The problem is how everyone can finance it all at the same time," said Michael Antonelli, market strategist at Baird Private Wealth Management. IBM chief executive Arvind Krishna said clients "are also getting worried if some of the AI spending is completely out of control with no real return".
 
 ## Oil, bonds and gold
 
-Brent rose above $113 a barrel at one point. Traders reacted to Saudi reports of attacks on the Dammam airport and an Aramco oil field, and to a report that the United States and Israel had drawn up plans for renewed strikes on Iran after the November 3 US midterm elections.
+Brent rose above **$113 a barrel** at one point. Traders reacted to Saudi reports of attacks on the Dammam airport and an Aramco oil field, and to a report that the United States and Israel had drawn up plans for renewed strikes on Iran after the November 3 US midterm elections.
 
 US Treasuries rallied hard. The 10-year yield fell about 19 basis points to roughly 4.95%, back below 5% and its largest one-day drop since the regional banking crisis of March 2023. Gold went the other way, sliding about 2% to near $4,061 an ounce, a low of more than two months, as dearer oil revived inflation worries.
 
 ## How India ended Thursday
 
-At home, the Sensex fell 460.30 points to 73,249.39 and the Nifty 50 lost 123.70 points to 22,687.65, a third straight losing day. Asian markets had already slumped on Thursday, with the Hang Seng down 2.73% and the Kospi 2.27% in morning trade.
+At home, the Sensex fell **460.30 points** to 73,249.39 and the Nifty 50 lost 123.70 points to 22,687.65, a third straight losing day. Asian markets had already slumped on Thursday, with the Hang Seng down 2.73% and the Kospi 2.27% in morning trade.
 
 The rupee gave up much of Wednesday's gain, closing 44 paise weaker at a provisional 94.82 to the dollar. Brent's jump was the main drag. "Brent crude surged 3 per cent following attacks on Saudi Aramco's oilfield," said Sunny Aggrawal, head of fundamental research at SBI Securities. Foreign investors had bought ₹1,022.32 crore of Indian shares on Wednesday.
 

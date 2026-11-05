@@ -49,7 +49,7 @@ verification:
 
 Israeli forces began what they called a "targeted and thorough" military operation in Hebron overnight, a day after two Palestinian gunmen killed two Israeli soldiers at a checkpoint on the city's northern edge.
 
-The attackers, travelling in a car with Israeli licence plates, opened fire near the settlement of Telem on Friday. Two soldiers were killed and several more were wounded. Witnesses said the gunfire lasted about 20 minutes, slowing the evacuation of the injured. The army said it killed both gunmen.
+The attackers, travelling in a car with Israeli licence plates, opened fire near the settlement of Telem on Friday. Two **soldiers were killed** and several more were wounded. Witnesses said the gunfire lasted about 20 minutes, slowing the evacuation of the injured. The army said it killed both gunmen.
 
 Prime Minister Benjamin Netanyahu, who faces a general election on Tuesday, closed Hebron and ordered forces to prepare "a full lockdown across all of Judea and Samaria", the Israeli term for the West Bank. He also cancelled campaign events.
 

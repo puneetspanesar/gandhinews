@@ -56,7 +56,7 @@ Rijiju wrote that the government had sought the Congress's cooperation in letter
 
 Congress general secretary Jairam Ramesh replied on Tuesday afternoon. He said Rijiju had cited "selective consultations on delimitation with some political parties in March 2026" but left out "commitments in those consultations that were NOT contained in the Constitution Amendment Bill".
 
-"The Bill was deservedly and decisively defeated in the Lok Sabha on April 17, 2026," Ramesh wrote, adding that most of the parties Rijiju said were consulted had voted against it. He said Kharge had now asked for an all-party meeting six times in writing, four times to the Prime Minister and twice to Rijiju.
+"The Bill was deservedly and decisively defeated in the Lok Sabha on April 17, 2026," Ramesh wrote, adding that most of the parties Rijiju said were consulted had voted against it. He said Kharge had now asked for an all-party meeting **six times in writing**, four times to the Prime Minister and twice to Rijiju.
 
 "Does the Modi Govt have a firm NEW proposal for delimitation that it has discussed with any party?" Ramesh asked. "Why is the Modi Govt stubbornly refusing to call an All-Party meeting on Delimitation?" He also asked whether the government meant to bring the Bill back to pass it "with a super-tainted two-thirds majority, that will no doubt fail again".
 

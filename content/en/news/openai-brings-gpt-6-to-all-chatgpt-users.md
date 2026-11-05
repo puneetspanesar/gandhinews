@@ -69,13 +69,13 @@ verification:
     - "Desk instruction: no Anthropic stories. The story does not mention Anthropic."
 ---
 
-OpenAI has made GPT-6 the default model for everyone who uses ChatGPT, including people who pay nothing. The rollout began on October 7 for paying subscribers and reached Free and Go accounts the next day. It comes with a feature OpenAI calls Intelligent UI, which lets the chatbot answer with charts, maps, buttons and small working tools rather than only paragraphs of text.
+OpenAI has made GPT-6 the default model for everyone who uses ChatGPT, including people who pay nothing. The rollout began on October 7 for paying subscribers and reached Free and Go accounts the next day. It comes with a feature OpenAI calls **Intelligent UI**, which lets the chatbot answer with charts, maps, buttons and small working tools rather than only paragraphs of text.
 
 ## Two models, one name
 
 Paying users on the Plus, Pro, Business and Enterprise plans get GPT-6 Sol. Free users, and those on Go, the company's low-cost plan, get GPT-6 Luna, a lighter version. Both are reasoning models: they are trained to work through a problem in a long internal chain of thought before they reply. They replace the GPT-5.6 models in ChatGPT's main Chat tab, though users can still switch back to GPT-5.6 Sol. The models behind ChatGPT's Work and Codex tools are not changing.
 
-Reasoning models tend to keep people waiting. GPT-6 starts answering while it is still thinking, building the reply in stages. For questions that need a web search, OpenAI says GPT-6 Instant begins answering 44% sooner on average than GPT-5.6 Instant.
+Reasoning models tend to keep people waiting. GPT-6 starts answering while it is still thinking, building the reply in stages. For questions that need a web search, OpenAI says GPT-6 Instant begins answering **44%** sooner on average than GPT-5.6 Instant.
 
 ## Answers you can tap
 

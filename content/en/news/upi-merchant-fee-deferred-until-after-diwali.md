@@ -40,10 +40,10 @@ A new fee on larger UPI payments to shops, due to begin on Thursday, has been pu
 
 The National Payments Corporation of India (NPCI) said the merchant discount rate (MDR) on some person-to-merchant UPI payments will now be brought in "immediately post Diwali on a date to be notified separately", citing the festive season. The decision was taken by the UPI and Services Steering Committee.
 
-The fee, announced earlier, is 0.40% on merchant payments above ₹2,000, capped at ₹300 a transaction. Bill payments, utilities, education and fuel would carry a flat ₹5 a transaction above ₹2,000.
+The fee, announced earlier, is **0.40%** on merchant payments above ₹2,000, capped at ₹300 a transaction. Bill payments, utilities, education and fuel would carry a flat ₹5 a transaction above ₹2,000.
 
-There had been talk of a longer delay, to January 1. The shorter deferral helped payment stocks recover on Tuesday. Paytm's parent One 97 Communications climbed about 6.6% from its low of the day, Pine Labs rose 6.8% from its low and was 1.25% up at ₹165 in the afternoon, and Mobikwik turned positive.
+There had been talk of a longer delay, to January 1. The shorter deferral helped payment stocks recover on Tuesday. Paytm's parent One 97 Communications climbed about **6.6%** from its low of the day, Pine Labs rose 6.8% from its low and was 1.25% up at ₹165 in the afternoon, and Mobikwik turned positive.
 
-"A fact that is less bad than the rumour produces a relief rally, and that is all today's move is," said Harshal Dasani of INVasset PMS. He estimated that if the fee starts after November 8, payment firms would collect it for about 53 days of the October-December quarter instead of 78, a one-time loss that would not change earnings from December onwards.
+"A fact that is less bad than the rumour produces a relief rally, and that is all today's move is," said Harshal Dasani of INVasset PMS. He estimated that if the fee starts after November 8, payment firms would collect it for about **53 days** of the October-December quarter instead of 78, a one-time loss that would not change earnings from December onwards.
 
-The fee comes as UPI use keeps climbing. In September the network averaged a record 802 million transactions a day, worth ₹97,913 crore. Monthly volume was 24.07 billion, up 22.6% from a year earlier.
+The fee comes as UPI use keeps climbing. In September the network averaged a record 802 million transactions a day, worth **₹97,913 crore**. Monthly volume was 24.07 billion, up 22.6% from a year earlier.

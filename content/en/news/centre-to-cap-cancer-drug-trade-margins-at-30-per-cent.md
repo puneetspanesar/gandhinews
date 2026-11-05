@@ -37,20 +37,20 @@ verification:
     - "No NPPA notification of the cap found; the list of covered drugs is still to be drawn up."
 ---
 
-The Centre will cap trade margins on cancer medicines at 30% of the maximum retail price, the government told the Supreme Court on Monday, a step it expects to cut prices of these drugs by 20% to 70%.
+The Centre will cap trade margins on cancer medicines at **30%** of the maximum retail price, the government told the Supreme Court on Monday, a step it expects to cut prices of these drugs by 20% to 70%.
 
 The decision was taken at a meeting of the National Pharmaceutical Pricing Authority (NPPA) on October 8, according to an affidavit by the Department of Pharmaceuticals. Solicitor General Tushar Mehta and Additional Solicitor General Aishwarya Bhati appeared for the government before Justices Vikram Nath and Sandeep Mehta.
 
 ## What the cap covers
 
-The cap will at first apply to all approved cancer drugs except inexpensive ones. An expert committee under the Director General of Health Services is to recommend the list within 10 to 15 days, and the government will update it from time to time.
+The cap will at first apply to all approved cancer drugs except inexpensive ones. An expert committee under the Director General of Health Services is to recommend the list within 10 to **15 days**, and the government will update it from time to time.
 
-The affidavit says hospitals tend to buy from manufacturers that offer the biggest trade margins and then sell to patients at MRP. Margins on cancer medicines range from 170% to more than 700%, it says. For scheduled medicines under the Drugs (Prices Control) Order, 2013, the ceiling price already includes a 16% retailer margin.
+The affidavit says hospitals tend to buy from manufacturers that offer the biggest trade margins and then sell to patients at MRP. Margins on cancer medicines range from **170%** to more than 700%, it says. For scheduled medicines under the Drugs (Prices Control) Order, 2013, the ceiling price already includes a 16% retailer margin.
 
 ## Why not everything
 
-The bench asked why the government had stopped at cancer drugs. Justice Mehta pointed to an Indian-made cardiac stent with a price to retailer of ₹5,000 and an MRP of ₹25,000, and a saline drip line with an MRP of ₹11 that had been sold for ₹270. The court asked how manufacturers could set an MRP several times the price to retailer.
+The bench asked why the government had stopped at cancer drugs. Justice Mehta pointed to an Indian-made cardiac stent with a price to retailer of **₹5,000** and an MRP of ₹25,000, and a saline drip line with an MRP of ₹11 that had been sold for ₹270. The court asked how manufacturers could set an MRP several times the price to retailer.
 
-The government argued that one margin for all medicines would not work, since distribution costs differ by product and place, and cheap drugs, cold-chain products and remote areas may need higher margins. Hospital consumables, it said, carry margins of 100% to over 1,000%. Ms Bhati told the court India already has among the lowest medicine prices and that heavy intervention could hurt availability.
+The government argued that one margin for all medicines would not work, since distribution costs differ by product and place, and cheap drugs, cold-chain products and remote areas may need higher margins. Hospital consumables, it said, carry margins of **100%** to over 1,000%. Ms Bhati told the court India already has among the lowest medicine prices and that heavy intervention could hurt availability.
 
 The case, filed by Kishan Chand Jain in 2023, returns on October 27.

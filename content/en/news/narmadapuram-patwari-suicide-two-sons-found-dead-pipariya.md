@@ -36,9 +36,9 @@ verification:
     - "Graphic detail of remains omitted deliberately. Suicide described as alleged, per police."
 ---
 
-A patwari posted in Madhya Pradesh's Raisen district died on the railway tracks near Pipariya station in Narmadapuram district on Sunday afternoon, and his two young sons were found dead in a locked car in the station's parking area a few hours later, police said.
+A patwari posted in Madhya Pradesh's Raisen district died on the railway tracks near Pipariya station in Narmadapuram district on Sunday afternoon, and his two young sons were found dead in a **locked car** in the station's parking area a few hours later, police said.
 
-Ajay Dhakad, who worked at Udaipura, allegedly took his own life at about 2:30 pm by stepping in front of the Sanghamitra Express, according to Pipariya Sub-Divisional Officer of Police Ashish Kumar Pawar.
+Ajay Dhakad, who worked at Udaipura, allegedly took his own life at about 2:30 pm by stepping in front of the **Sanghamitra Express**, according to Pipariya Sub-Divisional Officer of Police Ashish Kumar Pawar.
 
 His sons, Shivam and Samarth, students of Classes 6 and 9, were found at about 6 pm. Their uncle, Pratap Singh Dhakad, said Ajay had brought the boys to Pipariya from the family's village of Aliganj in Bareli, telling the family they were going to watch a film.
 

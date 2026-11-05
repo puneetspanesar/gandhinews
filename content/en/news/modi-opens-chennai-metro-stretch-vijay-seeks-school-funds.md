@@ -86,21 +86,21 @@ verification:
     - "Independent fact-check Oct 11: 'without any conditions' is WION's paraphrase, not Vijay's words in quotation marks, so the quote marks were removed (DT Next also paraphrases the ask as 'immediate, unconditional'). Other figures, names and quotes re-checked against Business Standard, ANI, News On AIR, The Federal, DT Next, UNI and News Today and found to match."
 ---
 
-Prime Minister Narendra Modi on Sunday opened a new section of the Chennai Metro and rode it with Chief Minister C. Joseph Vijay, on his first visit to Tamil Nadu since Vijay's Tamilaga Vettri Kazhagam (TVK) government took office in May.
+Prime Minister Narendra Modi on Sunday opened a new section of the Chennai Metro and rode it with Chief Minister C. Joseph Vijay, on his **first visit to Tamil Nadu** since Vijay's Tamilaga Vettri Kazhagam (TVK) government took office in May.
 
 Modi landed in Chennai at about 11 am and was received by Vijay and Governor Rajendra Vishwanath Arlekar. AIADMK general secretary Edappadi K. Palaniswami, whose party leads the NDA in the state, and Tamil Nadu BJP president Nainar Nagendran were also at the airport. BJP workers lined the road for a short roadshow as Modi left for Porur.
 
 ## The new Metro line
 
-The Poonamallee-Vadapalani stretch is part of Corridor 4 of Chennai Metro's Phase II. It runs about 15 km with 11 elevated stations, cost about ₹4,900 crore, and includes a 3.7 km double-decker section. Its signalling is designed to support driverless trains.
+The Poonamallee-Vadapalani stretch is part of Corridor 4 of Chennai Metro's Phase II. It runs about 15 km with 11 elevated stations, cost about **₹4,900 crore**, and includes a 3.7 km double-decker section. Its signalling is designed to support driverless trains.
 
 Modi and Vijay rode together from Porur Bypass to Poonamallee Bypass and back. Passenger services began at 4 pm on Sunday. From October 12, trains will run from 7 am to 9 pm in both directions.
 
-The rest of the ₹13,000 crore programme included railway works worth over ₹750 crore, among them five redeveloped stations at Palani, Vellore Cantonment, Ambasamudram, Paramakudi and Namakkal, and national highway projects worth about ₹3,700 crore. Modi also laid foundations for a new coal berth and dredging work at Kamarajar Port and a lube oil base stocks unit at Chennai Petroleum's Manali refinery, and dedicated the Sudha Gopalakrishnan Brain Centre at IIT Madras.
+The rest of the **₹13,000 crore** programme included railway works worth over ₹750 crore, among them five redeveloped stations at Palani, Vellore Cantonment, Ambasamudram, Paramakudi and Namakkal, and national highway projects worth about ₹3,700 crore. Modi also laid foundations for a new coal berth and dredging work at Kamarajar Port and a lube oil base stocks unit at Chennai Petroleum's Manali refinery, and dedicated the Sudha Gopalakrishnan Brain Centre at IIT Madras.
 
 ## What Modi said
 
-"Some will make daily travel easier; others will strengthen industry and trade," Modi said of the projects. "Together, they will create jobs for young people across Tamil Nadu." He said India's Metro network had grown from 250 km in 2014 to 1,100 km, across 25 cities.
+"Some will make daily travel easier; others will strengthen industry and trade," Modi said of the projects. "Together, they will create jobs for young people across Tamil Nadu." He said India's Metro network had grown from **250 km** in 2014 to 1,100 km, across 25 cities.
 
 Modi recalled working with Tamil Nadu leaders of different parties: M. Karunanidhi and J. Jayalalithaa when he was Gujarat Chief Minister, and Jayalalithaa, O. Panneerselvam, Edappadi K. Palaniswami and M.K. Stalin as Prime Minister. Governments had changed, he said, but his resolve to develop the state had not, adding that "we are taking this journey forward with CM Joseph Vijay".
 

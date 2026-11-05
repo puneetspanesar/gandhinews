@@ -93,7 +93,7 @@ The team then had to turn its mind back to a West Indies side that has scored 25
 
 ## Still waiting on Arshdeep
 
-There had been no medical update on Arshdeep by Friday morning. The left-armer was struck on the arm and shoulder by a short ball from Shamar Joseph in the final over in Hyderabad and was called off by Iyer. He is expected to be assessed before the team decides on him. Jasprit Bumrah is unavailable, and Harshit Rana is also reported to be injured, so India's seam stocks are thin.
+There had been **no medical update** on Arshdeep by Friday morning. The left-armer was struck on the arm and shoulder by a short ball from Shamar Joseph in the final over in Hyderabad and was called off by Iyer. He is expected to be assessed before the team decides on him. Jasprit Bumrah is unavailable, and Harshit Rana is also reported to be injured, so India's seam stocks are thin.
 
 The over drew sharp words from Sunil Gavaskar on commentary. After Joseph followed the blow with another ball at the body, Gavaskar said: "Just aim at the stumps. Don't aim at him. He is aiming at him. Why attack the batter when the stumps are right there?"
 
@@ -101,7 +101,7 @@ Earlier, as Arshdeep tried to carry on, he said: "If he is not ok, he should ret
 
 ## Small ground, wet ball
 
-Bengaluru is no place for a nervous bowling unit. The square boundaries are around 54 metres and the straight ones about 70, and the outfield is quick. The evening forecast is for about 23°C at the start, falling to about 22°C by 10 pm, with humidity near 85%. Some rain is also in the forecast.
+Bengaluru is no place for a nervous bowling unit. The square boundaries are around 54 metres and the straight ones about 70, and the outfield is quick. The evening forecast is for about 23°C at the start, falling to about 22°C by 10 pm, with humidity near **85%**. Some rain is also in the forecast.
 
 Dew is the bigger worry. It wrecked India in Ranchi, where Axar Patel went for 63 without a wicket and Kuldeep Yadav for 53 as West Indies ran down 250 in 18.3 overs. A captain who wins the toss on Saturday is likely to bowl first.
 

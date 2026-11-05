@@ -70,7 +70,7 @@ Adhikari also urged police and law-and-order services to use Bengali for registe
 
 ## Amit Shah's letter
 
-Adhikari announced the decision by reading out a letter, written in Bengali, from Union Home Minister Amit Shah. Shah urged wide use of Bengali in land records, public services, digital administration and advertisements, and suggested Bengali and Hindi in place of English for dealings with the Centre. Adhikari said the state had accepted the suggestions.
+Adhikari announced the decision by reading out a letter, written in Bengali, **from Union Home Minister Amit Shah**. Shah urged wide use of Bengali in land records, public services, digital administration and advertisements, and suggested Bengali and Hindi in place of English for dealings with the Centre. Adhikari said the state had accepted the suggestions.
 
 The letter invoked Syama Prasad Mookerjee, founder of the Bharatiya Jana Sangh, whose 125th birth anniversary fell on July 6. The move fulfils a commitment in the Bengal BJP's manifesto to promote the Bengali language.
 

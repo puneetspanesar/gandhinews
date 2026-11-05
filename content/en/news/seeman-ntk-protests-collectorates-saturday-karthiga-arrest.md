@@ -46,6 +46,6 @@ The cases go back to the start of the month. On October 2 police booked two NTK 
 
 Two days later, on October 4, police filed a case against Karthiga and 57 others for allegedly disrupting a roadshow by Chief Minister Vijay without permission. Separate cases were registered for allegedly abusing police officers and for allegedly assaulting a man wearing a TVK scarf and his wife.
 
-Karthiga was also reported to have been held over a road blockade during Vijay's campaign. A court remanded all 12 accused to 15 days of judicial custody and ordered them lodged in Coimbatore Central Prison.
+Karthiga was also reported to have been held over a road blockade during Vijay's campaign. A court remanded all **12 accused** to 15 days of judicial custody and ordered them lodged in Coimbatore Central Prison.
 
 The party's call is for protests in front of the collectorates in every district on the same day; it has not said how many cadres it expects. Neither the police nor the ruling TVK had responded to the party's charge of false cases.

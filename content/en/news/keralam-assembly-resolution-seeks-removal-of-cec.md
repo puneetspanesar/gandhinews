@@ -108,7 +108,7 @@ The resolution makes three demands: restore the names of eligible voters who wer
 
 ## Amendments on the floor
 
-Leader of the Opposition Pinarayi Vijayan suggested a verbal change, accepted by the government, so that the text speaks of "crores" of excluded voters across the country in place of "lakhs". Saji Cherian moved an amendment that put the number of voters excluded at 24 lakh and referred to software called "eci.net".
+Leader of the Opposition Pinarayi Vijayan suggested a verbal change, accepted by the government, so that the text speaks of "crores" of excluded voters across the country in place of "lakhs". Saji Cherian moved an amendment that put the number of voters excluded at **24 lakh** and referred to software called "eci.net".
 
 BJP MLA V. Muraleedharan sought two additions. One would have recorded that the Election Commission had itself called the media report on Form 6 incorrect. The other read: "We strongly condemn the attempts by vested interests to discredit the Election Commission, a constitutional body." The government rejected the BJP's amendments.
 

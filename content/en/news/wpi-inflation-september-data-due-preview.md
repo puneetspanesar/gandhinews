@@ -46,22 +46,22 @@ verification:
     - "Release date October 14 from Business Standard's weekly policy watch."
 ---
 
-Wholesale price inflation is expected to cross 10% when the commerce ministry releases September figures on Wednesday, October 14, as costly fuel continues to feed through to factory-gate prices.
+Wholesale price inflation is expected to cross **10%** when the commerce ministry releases September figures on Wednesday, October 14, as costly fuel continues to feed through to factory-gate prices.
 
-Inflation measured by the wholesale price index (WPI) was 9.92% in August, up from 9.78% in July. Fuel and power prices were 22.93% higher than a year earlier, up from 20.05%, and the food index rose 7.05%, its highest in 20 months. Manufactured products rose 8.37%.
+Inflation measured by the wholesale price index (WPI) was **9.92%** in August, up from 9.78% in July. Fuel and power prices were 22.93% higher than a year earlier, up from 20.05%, and the food index rose 7.05%, its highest in 20 months. Manufactured products rose 8.37%.
 
 The ministry named mineral oils, food articles, food products, basic metals and chemicals among the main drivers in August.
 
 ## What economists expect
 
-After the August data, Devendra Pant, chief economist at India Ratings and Research, forecast that wholesale inflation would rise to 10.2% in September and stay high for the rest of the year "unless a permanent solution is found to the prolonged West Asia crisis."
+After the August data, Devendra Pant, chief economist at India Ratings and Research, forecast that wholesale inflation would rise to **10.2%** in September and stay high for the rest of the year "unless a permanent solution is found to the prolonged West Asia crisis."
 
-He pointed out that seven manufacturing groups, including textiles, chemicals, base metals and electrical equipment, posted double-digit inflation in August. Together they make up 26.3% of the index, which he said suggested the pressure may be becoming more structural.
+He pointed out that seven manufacturing groups, including textiles, chemicals, base metals and electrical equipment, posted double-digit inflation in August. Together they make up **26.3%** of the index, which he said suggested the pressure may be becoming more structural.
 
 Rahul Agrawal, principal economist at ICRA, expected wholesale inflation of 9.5-10% or more in September and October, "before cooling thereafter on a favourable base," unless global energy and commodity prices rise further.
 
 ## Why it matters
 
-The wholesale number follows Monday's retail inflation figure, which jumped to 5.54% in September from 4.83% in August. Brent crude settled above $106 a barrel overnight and the rupee is near 97 to the dollar, both of which raise the cost of imported fuel and raw materials.
+The wholesale number follows Monday's retail inflation figure, which jumped to **5.54%** in September from 4.83% in August. Brent crude settled above $106 a barrel overnight and the rupee is near 97 to the dollar, both of which raise the cost of imported fuel and raw materials.
 
 The Reserve Bank of India, which raised its repo rate to 5.50% on October 7, will be watching both numbers closely.

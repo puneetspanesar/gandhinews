@@ -43,7 +43,7 @@ The other three appointments are Dr Sudha Yadav as Governor of Karnataka, Dr Dha
 
 ## Where they are going
 
-The changes come at a charged moment in two of the states. In Keralam, the Assembly passed a resolution on Monday seeking the removal of Chief Election Commissioner Gyanesh Kumar, a step the BJP opposed. In Tamil Nadu, TVK Chief Minister Vijay shared a stage with Prime Minister Narendra Modi in Chennai on Sunday and pressed the Centre for ₹5,110 crore in school funds.
+The changes come at a charged moment in two of the states. In Keralam, the Assembly passed a resolution on Monday seeking the removal of Chief Election Commissioner Gyanesh Kumar, a step the BJP opposed. In Tamil Nadu, TVK Chief Minister Vijay shared a stage with Prime Minister Narendra Modi in Chennai on Sunday and pressed the Centre for **₹5,110 crore** in school funds.
 
 Uttarakhand is one of five states whose Assemblies complete their terms in early 2027, so Bisen is likely to be in office when the state votes. Its Assembly's term ends in March, and the state's final electoral rolls under the Special Intensive Revision are still awaited.
 

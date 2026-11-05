@@ -50,7 +50,7 @@ verification:
 
 Nicolas Jackson scored twice as Aston Villa ended Manchester City's perfect start to the Premier League season on Saturday, beating Enzo Maresca's side 2-1 at Villa Park. City had won all seven of their league games before the trip to Birmingham, their best start to a Premier League campaign.
 
-They stay top, but no longer alone. Arsenal beat Everton 2-0 at the Emirates Stadium in the evening kick-off and are level with City on 21 points.
+They stay top, but no longer alone. Arsenal beat Everton 2-0 at the Emirates Stadium in the evening kick-off and are **level with City on 21 points**.
 
 ## How Villa did it
 

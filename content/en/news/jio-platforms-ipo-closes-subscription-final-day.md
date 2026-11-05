@@ -54,21 +54,21 @@ verification:
 
 Jio Platforms' share sale, the largest ever attempted in India, drew bids for nearly 10 times the shares on offer on its final day on Friday, as institutional investors made their move in the closing hours.
 
-By 2:10 pm the ₹30,213 crore issue had been subscribed 9.81 times, according to exchange data. That was up from 5.73 times at 9:26 am and 5.51 times at the end of Thursday. Demand climbed steadily through the session: 6.90 times at 12:10 pm, 7.70 times an hour later, and close to double digits soon after 2 pm.
+By 2:10 pm the ₹30,213 crore issue had been subscribed **9.81 times**, according to exchange data. That was up from 5.73 times at 9:26 am and 5.51 times at the end of Thursday. Demand climbed steadily through the session: 6.90 times at 12:10 pm, 7.70 times an hour later, and close to double digits soon after 2 pm.
 
 ## Institutions lead the rush
 
-The surge came almost entirely from the big money. Qualified institutional buyers, such as mutual funds, insurers, banks and foreign funds, had bid for 23.47 times the shares reserved for them by 2:10 pm, up from 13.29 times in the morning. Large institutions often wait for the last day to place their orders in a heavily watched offer, and they did so here.
+The surge came almost entirely from the big money. Qualified institutional buyers, such as mutual funds, insurers, banks and foreign funds, had bid for **23.47 times** the shares reserved for them by 2:10 pm, up from 13.29 times in the morning. Large institutions often wait for the last day to place their orders in a heavily watched offer, and they did so here.
 
 Non-institutional investors, mostly wealthy individuals and companies, subscribed 11.97 times their portion. Retail investors were steadier and far less frantic, at 2.28 times.
 
-That modest retail figure matters for small bidders. The retail portion is the largest single block in the issue at about 8.5 crore shares, and with demand at around twice that, most applicants bidding at the minimum lot should have a reasonable chance of getting shares when allotment is decided.
+That modest retail figure matters for small bidders. The retail portion is the largest single block in the issue at about **8.5 crore shares**, and with demand at around twice that, most applicants bidding at the minimum lot should have a reasonable chance of getting shares when allotment is decided.
 
 ## How the issue works
 
-Jio, the digital and telecom arm of Reliance Industries, is selling only new shares, at ₹1,065 to ₹1,119 each in lots of 12. No existing shareholder is selling. Before the offer opened on October 21, the company raised ₹8,109.85 crore from anchor investors, who took about 7.25 crore shares at ₹1,119.
+Jio, the digital and telecom arm of Reliance Industries, is selling only new shares, at **₹1,065** to ₹1,119 each in lots of 12. No existing shareholder is selling. Before the offer opened on October 21, the company raised ₹8,109.85 crore from anchor investors, who took about 7.25 crore shares at ₹1,119.
 
-The scale of the offer has been felt across the market. Some market participants said investors had been pulling money out of small and mid-sized shares to bid for Jio, one of several reasons cited for a slump of nearly 4% in the Nifty Smallcap 100 index on Friday. Dollar inflows tied to the issue also helped the rupee earlier this week.
+The scale of the offer has been felt across the market. Some market participants said investors had been pulling money out of small and mid-sized shares to bid for Jio, one of several reasons cited for a slump of nearly **4%** in the Nifty Smallcap 100 index on Friday. Dollar inflows tied to the issue also helped the rupee earlier this week.
 
 ## What comes next
 

@@ -35,13 +35,13 @@ verification:
     - "Single source (Siasat, 6:02 pm) reporting a government announcement; stated plainly. Basin figures and 10 lakh acres attributed to CM Revanth Reddy as in source. Nagarjuna Sagar used for the photo only (a Krishna basin reservoir); its own level is not claimed."
 ---
 
-Telangana has set up a six-member cabinet sub-committee to deal with the fallout of El Nino, as Chief Minister A Revanth Reddy warned that reservoirs in the Krishna basin are holding 72% less water than they should at this time of year.
+Telangana has set up a six-member cabinet sub-committee to deal with the fallout of El Nino, as Chief Minister A Revanth Reddy warned that reservoirs in the Krishna basin are holding **72%** less water than they should at this time of year.
 
 The panel, announced on Monday, will be headed by Deputy Chief Minister Bhatti Vikramarka Mallu. Its members are Irrigation Minister N Uttam Kumar Reddy, Housing Minister Ponguleti Srinivasa Reddy, Agriculture Minister Tummala Nageswara Rao, Women and Child Welfare Minister Dasari Anasuya and Animal Husbandry and Fisheries Minister Vakiti Srihari.
 
 Its first task is drinking water. The sub-committee has been asked to draw up measures to keep supplies running in towns and villages across the state, with priority for digging and maintaining percolation pits, ponds and seepage ponds to capture whatever rain falls.
 
-The numbers behind the alarm are stark. Revanth Reddy has said storage in the Godavari basin is 40% below normal as well, and reports placed before him put about 10 lakh acres of standing crops at high risk of damage. The Chief Minister has described El Nino as a "natural disaster" for the state.
+The numbers behind the alarm are stark. Revanth Reddy has said storage in the Godavari basin is **40%** below normal as well, and reports placed before him put about 10 lakh acres of standing crops at high risk of damage. The Chief Minister has described El Nino as a "natural disaster" for the state.
 
 The El Nino pattern, a warming of the Pacific Ocean, tends to weaken rainfall over India, and Telangana's officials warned last week that its impact would peak by February.
 

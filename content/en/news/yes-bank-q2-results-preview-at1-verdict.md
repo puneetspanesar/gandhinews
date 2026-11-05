@@ -48,17 +48,17 @@ verification:
     - "Bank's own response to the verdict not found; not stated."
 ---
 
-YES Bank's board meets in Mumbai on Saturday to approve its results for the July-September quarter, the first set of numbers since the Supreme Court upheld an order reviving ₹8,415 crore of the bank's AT-1 bonds that it had written off in 2020.
+YES Bank's board meets in Mumbai on Saturday to approve its results for the July-September quarter, the first set of numbers since the Supreme Court upheld an order reviving **₹8,415 crore** of the bank's AT-1 bonds that it had written off in 2020.
 
 The bank has not said when it will release the figures. In the previous two quarters it reported between 1:30 pm and 2 pm.
 
 ## What analysts expect
 
-On the operating numbers, brokerages expect a strong quarter. An average of six brokerage estimates puts net profit at about ₹969 crore, up 48% from ₹655 crore a year earlier, and net interest income at about ₹2,807 crore, up 22%.
+On the operating numbers, brokerages expect a strong quarter. An average of six brokerage estimates puts net profit at about **₹969 crore**, up 48% from ₹655 crore a year earlier, and net interest income at about ₹2,807 crore, up 22%.
 
-ICICI Securities is the most optimistic, forecasting profit of ₹1,074 crore, up 64%. JM Financial expects ₹899.5 crore, a 37.4% rise from a year ago but 16% lower than the June quarter, with the net interest margin at about 2.7%.
+ICICI Securities is the most optimistic, forecasting profit of **₹1,074 crore**, up 64%. JM Financial expects ₹899.5 crore, a 37.4% rise from a year ago but 16% lower than the June quarter, with the net interest margin at about 2.7%.
 
-The bank's provisional figures, released earlier this month, showed loans up 23.8% from a year earlier at ₹3,09,675 crore and deposits up 19.5% at ₹3,54,084 crore. The share of low-cost current and savings account deposits fell to 30% from 33.7%.
+The bank's provisional figures, released earlier this month, showed loans up **23.8%** from a year earlier at ₹3,09,675 crore and deposits up 19.5% at ₹3,54,084 crore. The share of low-cost current and savings account deposits fell to 30% from 33.7%.
 
 ## The AT-1 question
 

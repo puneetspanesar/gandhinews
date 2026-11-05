@@ -39,14 +39,14 @@ verification:
 
 Inland states grow most of India's fish but send very little of it abroad, Union Fisheries Minister Rajiv Ranjan Singh said in Bhopal on Friday, as he and Madhya Pradesh Chief Minister Mohan Yadav opened a conference aimed at drawing investors and exporters to the sector.
 
-India exports fish to 130 countries, Singh said, yet inland states account for only 2% of fisheries exports, even though their fish production has risen 147%. He said fisheries had to be treated and developed as an industry.
+India exports fish to 130 countries, Singh said, yet inland states account for only **2% of fisheries exports**, even though their fish production has risen 147%. He said fisheries had to be treated and developed as an industry.
 
-According to the ministry, India produced 197.75 lakh tonnes of fish in 2024-25, of which inland fisheries supplied 151.60 lakh tonnes, close to three-quarters. Seafood exports were worth ₹73,890 crore in 2025-26.
+According to the ministry, India produced **197.75 lakh tonnes** of fish in 2024-25, of which inland fisheries supplied 151.60 lakh tonnes, close to three-quarters. Seafood exports were worth ₹73,890 crore in 2025-26.
 
 ## Money for reservoirs
 
-At the Fisheries Investors and Exporters Conclave, Singh handed Yadav the administrative approval for developing 49 reservoirs in the state at a cost of ₹8,755.60 lakh, and five Amrit Sarovar ponds at ₹69 lakh, under the Pradhan Mantri Matsya Sampada Yojana. The two also released the state's Fisheries Investment and Export Guidelines, 2026, and the Centre's standard operating procedures on the export potential of inland states. Integrated cage culture units were inaugurated online.
+At the Fisheries Investors and Exporters Conclave, Singh handed Yadav the administrative approval for developing 49 reservoirs in the state at a cost of ₹8,755.60 lakh, and five Amrit Sarovar ponds at ₹69 lakh, under the Pradhan Mantri Matsya Sampada Yojana. The two also released the state's **Fisheries Investment and Export Guidelines, 2026**, and the Centre's standard operating procedures on the export potential of inland states. Integrated cage culture units were inaugurated online.
 
 Singh set out five export priorities: picking freshwater species and target markets, building collection centres and large processing hubs, linking farmers with investors and exporters, ensuring quality certification and traceability from the start, and keeping in touch with foreign buyers against clear targets.
 
-Yadav said the state's irrigation potential had grown to 60 lakh hectares in two and a half years, with a target of 100 lakh hectares, and announced a Madhya Pradesh Fisheries Policy 2026 that will offer land and other facilities to fisheries businesses. More than 1,000 fish farmers from across the state attended.
+Yadav said the state's irrigation potential had grown to **60 lakh** hectares in two and a half years, with a target of 100 lakh hectares, and announced a Madhya Pradesh Fisheries Policy 2026 that will offer land and other facilities to fisheries businesses. More than 1,000 fish farmers from across the state attended.

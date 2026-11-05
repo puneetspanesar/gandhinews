@@ -82,6 +82,6 @@ Chaturvedi also warned the BJP that what it did to the opposition today could on
 
 ## Goa's 10-day deadline
 
-In Panaji, the Goa Pradesh Congress Committee has gone a step further. Its president, Girish Chodankar, handed Chief Electoral Officer Sanjay Goel a representation on Thursday demanding that the SIR be withdrawn within 10 days, failing which the party would go to the High Court.
+In Panaji, the Goa Pradesh Congress Committee has gone a step further. Its president, Girish Chodankar, handed Chief Electoral Officer Sanjay Goel a representation on Thursday demanding that the SIR be withdrawn within **10 days**, failing which the party would go to the High Court.
 
-Chodankar said 1,39,634 names, about 11.84% of Goa's electorate, had been deleted, many without notice or a hearing, and that the revision broke Sections 21 and 22 of the Representation of the People Act. "Guidelines cannot override the Act," he said. Neither the commission nor the Goa CEO has responded publicly.
+Chodankar said 1,39,634 names, about **11.84%** of Goa's electorate, had been deleted, many without notice or a hearing, and that the revision broke Sections 21 and 22 of the Representation of the People Act. "Guidelines cannot override the Act," he said. Neither the commission nor the Goa CEO has responded publicly.

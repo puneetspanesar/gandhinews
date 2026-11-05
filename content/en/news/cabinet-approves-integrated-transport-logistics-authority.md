@@ -83,13 +83,13 @@ verification:
     - "Fact-check Oct 12: Cabinet release on pmindia.gov.in re-read; functions, ₹500 crore threshold, 10-year horizon, eight sectors, data sources and 'fragmented planning and implementation' quote confirmed. The release, DD India and PSU Watch do not mention PM Gati Shakti; only News On AIR says ITLA will complement it, so 'The government has said' was softened to 'was reported to be meant to' (EN and HI). PIB backgrounder of Nov 27, 2025, confirms 7.97%, ₹24.01 lakh crore, 9.09% and 'over 3,500 industry stakeholders'; DPIIT study itself was published Sep 25, 2025 (Outlook Business), so 'last year' holds. Goyal quote matches PSU Watch wording. Vaishnaw paraphrase rests on News On AIR only."
 ---
 
-The Union Cabinet has approved an Integrated Transport and Logistics Authority (ITLA), a new body meant to plan India's roads, railways, ports, airports and waterways as one network. The decision was taken at the Cabinet meeting chaired by Prime Minister Narendra Modi on October 6.
+The Union Cabinet has approved an **Integrated Transport and Logistics Authority (ITLA)**, a new body meant to plan India's roads, railways, ports, airports and waterways as one network. The decision was taken at the Cabinet meeting chaired by Prime Minister Narendra Modi on October 6.
 
 The government says the authority will address "fragmented planning and implementation across multiple transport-related Ministries and agencies". Union Minister Ashwini Vaishnaw, briefing reporters after the meeting, linked the move to rising demand for logistics as the economy grows at around 7-8%, and to the highways, rail lines, waterways, airports and ports being built to meet it.
 
 ## What ITLA will do
 
-The Cabinet release describes ITLA as the national apex institution for integrated transport and logistics planning, research, project appraisal and monitoring, policy support and data analytics. Its first big task is a National Transport Master Plan with a horizon of 10 years or more. The plan will cover roads, railways, ports and shipping, civil aviation, inland waterways, coastal shipping, urban mobility and logistics.
+The Cabinet release describes ITLA as the national apex institution for integrated transport and logistics planning, research, project appraisal and monitoring, policy support and data analytics. Its first big task is a National Transport Master Plan with a horizon of **10 years or more**. The plan will cover roads, railways, ports and shipping, civil aviation, inland waterways, coastal shipping, urban mobility and logistics.
 
 The ministries will keep making their own plans. ITLA will check their short-term sectoral plans (about five years) and annual plans for fit with the master plan.
 
@@ -97,7 +97,7 @@ The ministries will keep making their own plans. ITLA will check their short-ter
 {"title": "Who does what under the new set-up", "columns": ["Stays as it is", "New under ITLA"], "rows": [{"icon": "map-trifold", "label": "Planning", "cells": ["Transport ministries still draw up their own sectoral and annual plans.", "A National Transport Master Plan looking 10 years or more ahead, with ministries' five-year and annual plans checked against it."]}, {"icon": "buildings", "label": "Projects", "cells": ["Financial appraisal stays with existing mechanisms.", "Technical appraisal and monitoring of central projects of ₹500 crore or more, and an impact check after completion."]}, {"icon": "chart-line", "label": "Data", "cells": ["GSTN e-way bills, FASTag, Vahan, GPS and urban traffic data sit in separate systems.", "A National Transport Data Repository that pulls these sources together."]}, {"icon": "scroll", "label": "Policy", "cells": ["The National Logistics Policy 2022 stays in place.", "ITLA advises on the policy's review."]}]}
 ```
 
-For central government infrastructure projects costing ₹500 crore or more, ITLA will carry out the technical appraisal. Financial appraisal remains with existing mechanisms. It will also monitor these projects as they are built, run a coordinated mechanism to resolve problems, and assess their impact after completion.
+For central government infrastructure projects costing **₹500 crore or more**, ITLA will carry out the technical appraisal. Financial appraisal remains with existing mechanisms. It will also monitor these projects as they are built, run a coordinated mechanism to resolve problems, and assess their impact after completion.
 
 ## A single pool of transport data
 
@@ -113,7 +113,7 @@ Commerce and Industry Minister Piyush Goyal set out the expected gains in a soci
 
 ## The cost it is meant to bring down
 
-The government's own estimate of logistics costs came out last year. A study by the Department for Promotion of Industry and Internal Trade (DPIIT) with the National Council of Applied Economic Research put the cost at 7.97% of GDP in 2023-24. Earlier figures of 13-14% of GDP, widely quoted for years, came mostly from outside studies.
+The government's own estimate of logistics costs came out last year. A study by the Department for Promotion of Industry and Internal Trade (DPIIT) with the National Council of Applied Economic Research put the cost at **7.97%** of GDP in 2023-24. Earlier figures of 13-14% of GDP, widely quoted for years, came mostly from outside studies.
 
 ```facts
 {"title":"India's logistics bill, 2023-24","items":[{"value":"7.97%","label":"logistics cost as a share of GDP"},{"value":"₹24.01 lakh crore","label":"total logistics cost"},{"value":"9.09%","label":"share of non-services output"},{"value":"3,500+","label":"industry respondents surveyed for the estimate"}]}

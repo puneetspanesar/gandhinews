@@ -36,7 +36,7 @@ verification:
     - "Jaishankar's point that investment and market access will be handled separately from the boundary is paraphrased, not quoted, as in the source."
 ---
 
-India and China still do not have an agreed border, External Affairs Minister S. Jaishankar said, and Beijing must accept that a stable and peaceful boundary is the price of a normal relationship.
+India and China still **do not have an agreed border**, External Affairs Minister S. Jaishankar said, and Beijing must accept that a stable and peaceful boundary is the price of a normal relationship.
 
 "We don't have an agreed border between India and China," Jaishankar said in a conversation with John Micklethwait, editor-in-chief of Bloomberg, at the Bloomberg New Economy Forum in New Delhi. "This is not a new issue; it's been going on for multiple decades."
 

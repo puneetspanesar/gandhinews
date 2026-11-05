@@ -43,9 +43,9 @@ verification:
     - "No player quotes found. Sindhu's quarter-final opponent not named in sources; Ashmita plays winner of Chochuwong v Okuhara."
 ---
 
-Ashmita Chaliha produced one of the best wins of her career at the French Open on Thursday, beating Japan's third seed Akane Yamaguchi 21-19, 21-18 to reach the women's singles quarter-finals of the Super 750 event in Paris.
+Ashmita Chaliha produced one of the best wins of her career at the French Open on Thursday, beating Japan's third seed Akane Yamaguchi **21-19, 21-18** to reach the women's singles quarter-finals of the Super 750 event in Paris.
 
-The unseeded Indian needed only 37 minutes to see off one of the leading players of the past decade. P V Sindhu joined her in the last eight with a 21-12, 21-16 win over Japan's Riko Gunji, giving India two women in the quarter-finals of one of the season's biggest tournaments.
+The unseeded Indian needed only 37 minutes to see off one of the leading players of the past decade. P V Sindhu joined her in the last eight with a **21-12, 21-16** win over Japan's Riko Gunji, giving India two women in the quarter-finals of one of the season's biggest tournaments.
 
 ## Ashmita turns the tables
 

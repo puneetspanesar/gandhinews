@@ -35,15 +35,15 @@ verification:
     - "Single source (Business Standard, 1:33 pm snapshot). Bank's filing not read directly."
 ---
 
-Shares of Union Bank of India rose as much as 5% on Monday after the state-owned lender reported a 30% jump in September-quarter profit and a further fall in bad loans.
+Shares of Union Bank of India rose as much as **5%** on Monday after the state-owned lender reported a 30% jump in September-quarter profit and a further fall in bad loans.
 
-Net profit rose to ₹5,537 crore from ₹4,249 crore a year earlier, an increase of 30.31%. Net interest income, the difference between what the bank earns on loans and pays on deposits, grew 20% to ₹10,582 crore from ₹8,813 crore.
+Net profit rose to **₹5,537 crore** from ₹4,249 crore a year earlier, an increase of 30.31%. Net interest income, the difference between what the bank earns on loans and pays on deposits, grew 20% to ₹10,582 crore from ₹8,813 crore.
 
-Asset quality kept improving. Gross non-performing assets fell to 2.42% of advances, 87 basis points lower than a year ago, while net bad loans dropped 13 basis points to 0.42%. Return on assets was 1.38% and return on equity 17.21%.
+Asset quality kept improving. Gross non-performing assets fell to **2.42% of advances**, 87 basis points lower than a year ago, while net bad loans dropped 13 basis points to 0.42%. Return on assets was 1.38% and return on equity 17.21%.
 
-Lending grew much faster than deposits. Gross advances rose 18.53%, while total deposits grew only 6.87%. Total business was up 12.01%.
+Lending grew much faster than deposits. Gross advances rose **18.53%**, while total deposits grew only 6.87%. Total business was up 12.01%.
 
-The stock, which closed at ₹172 on Friday, touched ₹181.05 on the BSE and was trading 4.65% higher at ₹180 at 1:33 pm, with more than 3 crore shares changing hands. It has gained 17% this year, while the Sensex has lost 13%.
+The stock, which closed at **₹172** on Friday, touched ₹181.05 on the BSE and was trading 4.65% higher at ₹180 at 1:33 pm, with more than 3 crore shares changing hands. It has gained 17% this year, while the Sensex has lost 13%.
 
 Harish Jujarey of Prithvi Finmart said the stock faced resistance at ₹188 to ₹190. "A decisive breakout above this zone could trigger an inverse Head and Shoulders pattern breakout," he said, adding that support lay at ₹174 to ₹175.
 

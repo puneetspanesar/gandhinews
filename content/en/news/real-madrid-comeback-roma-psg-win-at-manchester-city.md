@@ -46,7 +46,7 @@ verification:
     - "Enzo Fernández/referee incident not used."
 ---
 
-Real Madrid scored three times in the last seven minutes to beat Roma 4-3 at the Stadio Olimpico in the Champions League on Wednesday night, with every one of the late goals coming from an Arda Güler corner.
+Real Madrid scored three times in the last seven minutes to beat Roma 4-3 at the Stadio Olimpico in the Champions League on Wednesday night, with every one of the late goals coming from an **Arda Güler** corner.
 
 Roma looked to have the game won. Marten de Roon's long-range shot, deflected in off Donyell Malen, put them ahead in the 20th minute, and Kylian Mbappé equalised five minutes later with a strike that took a touch off Gianluca Mancini. Malen then scored twice in seven minutes after half-time, first on the counter and then from Matías Soulé's pass, for a 3-1 lead.
 

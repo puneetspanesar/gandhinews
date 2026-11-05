@@ -47,11 +47,11 @@ verification:
     - "EC response line ('differing views... full legal sanction') from PTI, unattributed to a named official; paraphrased."
 ---
 
-The Congress carried its campaign against the Special Intensive Revision (SIR) of electoral rolls to Mumbai on Sunday, accusing Chief Election Commissioner Gyanesh Kumar of breaking the rules and claiming that around 40 lakh voters had been added to Maharashtra's rolls in the months between the 2024 Lok Sabha and Assembly elections.
+The Congress carried its campaign against the Special Intensive Revision (SIR) of electoral rolls to Mumbai on Sunday, accusing Chief Election Commissioner Gyanesh Kumar of breaking the rules and claiming that around **40 lakh voters** had been added to Maharashtra's rolls in the months between the 2024 Lok Sabha and Assembly elections.
 
-At a press conference under the party's "Vote Bachao, Desh Bachao" banner, senior leader C P Joshi demanded that the Election Commission publish the minutes of its meetings, the legal approvals behind its decisions and details of every voter deleted. He said Forms 6, 7 and 8, used to add, object to and correct entries, had been changed in breach of the rules, and that powers of electoral registration officers had been handed to the Commission's Director General for IT, Seema Khanna. He also alleged that nearly 47 lakh names had been deleted in Bihar and more than 90 lakh in West Bengal.
+At a press conference under the party's "Vote Bachao, Desh Bachao" banner, senior leader C P Joshi demanded that the Election Commission publish the minutes of its meetings, the legal approvals behind its decisions and details of every voter deleted. He said Forms 6, 7 and 8, used to add, object to and correct entries, had been changed in breach of the rules, and that powers of electoral registration officers had been handed to the Commission's Director General for IT, Seema Khanna. He also alleged that nearly **47 lakh names** had been deleted in Bihar and more than 90 lakh in West Bengal.
 
-Mumbai Congress chief Varsha Gaikwad said the 40 lakh additions came within five to six months, about 400 voters for every polling booth, and that lakhs had been left out of Mumbai's rolls under the SIR. She said the BJP-led Mahayuti had come to power through irregularities.
+Mumbai Congress chief Varsha Gaikwad said the **40 lakh** additions came within five to six months, about 400 voters for every polling booth, and that lakhs had been left out of Mumbai's rolls under the SIR. She said the BJP-led Mahayuti had come to power through irregularities.
 
 The Commission has said all three commissioners approved the SIR decisions unanimously, and that differing views are a normal part of any institution's deliberations.
 

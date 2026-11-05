@@ -36,18 +36,18 @@ verification:
     - "Schwarzman quoted as describing the quarter as 'strong' (one word only)."
 ---
 
-Two very different stories stood out on Wall Street on Thursday as the market sold off technology shares. Blackstone, the world's largest alternative asset manager, rallied 8.38% to $118.75, while Moderna's shares collapsed by more than a fifth.
+Two very different stories stood out on Wall Street on Thursday as the market sold off technology shares. Blackstone, the world's largest alternative asset manager, rallied **8.38% to $118.75**, while Moderna's shares collapsed by more than a fifth.
 
 ## Blackstone looks past a weak quarter
 
-Blackstone's third-quarter numbers were not flattering on their face. Net realisations, the gains it books when it sells investments, fell 34% from a year earlier, and distributable earnings, the profit it pays out to shareholders, dropped 9%.
+Blackstone's third-quarter numbers were not flattering on their face. Net realisations, the gains it books when it sells investments, fell **34%** from a year earlier, and distributable earnings, the profit it pays out to shareholders, dropped 9%.
 
 Investors chose to focus on what comes next. The firm gave an upbeat outlook for exits, the sales of companies and property it owns, which drive its fees and payouts. Chief executive Stephen Schwarzman described the quarter as "strong". The rise made Blackstone one of the best performers in a session in which money moved out of technology and into financial companies.
 
 ## Moderna's bad day
 
-Moderna fell more than 20% after results from a study of its experimental melanoma vaccine leaked, putting the shares on course for their worst day since the company listed in December 2018. Investors read the leaked data as a setback for one of the company's most closely watched programmes beyond Covid-19 vaccines, though the full findings have not been published.
+Moderna fell **more than 20%** after results from a study of its experimental melanoma vaccine leaked, putting the shares on course for their worst day since the company listed in December 2018. Investors read the leaked data as a setback for one of the company's most closely watched programmes beyond Covid-19 vaccines, though the full findings have not been published.
 
 ## The wider market
 
-The two moves came against a heavy backdrop. The Nasdaq fell 2.6%, the S&P 500 1.21% and chip stocks 6.7%, while the Dow, which has more financial and industrial companies, ended flat.
+The two moves came against a heavy backdrop. The Nasdaq fell **2.6%**, the S&P 500 1.21% and chip stocks 6.7%, while the Dow, which has more financial and industrial companies, ended flat.

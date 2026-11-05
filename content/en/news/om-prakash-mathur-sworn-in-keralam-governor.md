@@ -46,7 +46,7 @@ Chief Justice Soumen Sen of the High Court administered the oath at about 12:30 
 
 Mathur reached the capital on Thursday, when Satheesan led the welcome at the airport along with the Chief Secretary, Thiruvananthapuram Mayor V V Rajesh and senior police officers.
 
-He succeeds Rajendra Arlekar, who was named Governor of Tamil Nadu when the President reshuffled governors in six states on October 12. Mathur himself had been Governor of Sikkim since July 2024.
+He succeeds Rajendra Arlekar, who was named Governor of Tamil Nadu when the President reshuffled governors in six states on October 12. Mathur himself had been **Governor of Sikkim** since July 2024.
 
 Born in Bedal village in Bali tehsil of Rajasthan's Pali district, Mathur began public life as a Rashtriya Swayamsevak Sangh pracharak in 1972. He went on to hold several posts in the BJP, including president of its Rajasthan unit, represented Rajasthan in the Rajya Sabha and was in charge of the party's organisation in Gujarat.
 

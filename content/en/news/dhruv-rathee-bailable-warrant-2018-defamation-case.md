@@ -49,7 +49,7 @@ verification:
     - "Rathee's Oct 10 detention by Gurugram Police from Oneindia (Oct 11)."
 ---
 
-A Delhi court has issued bailable warrants against YouTuber Dhruv Rathee in a criminal defamation case filed against him in 2018 over his video "BJP IT Cell Part 2".
+A Delhi court has issued **bailable warrants** against YouTuber Dhruv Rathee in a criminal defamation case filed against him in 2018 over his video "BJP IT Cell Part 2".
 
 Judicial Magistrate Rahul Jain of the Saket courts issued the warrants after being told that a notice sent to Rathee's residence in Gurugram could not be served because the premises were found locked. The warrants are meant to secure his appearance in the proceedings.
 

@@ -45,7 +45,7 @@ verification:
     - "LiveLaw report (555139) and CSEAM database report (555162) seen as headlines only; could not be fetched."
 ---
 
-The Supreme Court has held that the right to access and use the internet is a fundamental right of every person, children included, and that the failure of tech platforms to clear child sexual abuse material cannot be turned into a reason to keep children offline.
+The Supreme Court has held that the right to access and use the internet is a **fundamental right of every** person, children included, and that the failure of tech platforms to clear child sexual abuse material cannot be turned into a reason to keep children offline.
 
 "The safety of our children and their freedom are not at odds with each other," a bench of Justices J B Pardiwala and K Vinod Chandran said. "Our children are entitled to both."
 
@@ -61,7 +61,7 @@ The court said this did not rule out proportionate safeguards such as parental o
 
 ## What the Centre and platforms must do
 
-The bench told the Union government to set up a National Hash & URL List Database used only to detect and take down CSEAM. Material will go through several levels of checks, with a final assessment by at least three trained human analysts, before its hash or web address is entered. Platforms must then disable and remove matching content at once, without running their own verification.
+The bench told the Union government to set up a **National Hash & URL List Database** used only to detect and take down CSEAM. Material will go through several levels of checks, with a final assessment by at least three trained human analysts, before its hash or web address is entered. Platforms must then disable and remove matching content at once, without running their own verification.
 
 The Centre has to frame guidelines on hash-matching and URL lists for all significant social media intermediaries, and file an affidavit setting out the technology platforms now use to find such material. Companies must display their grievance officers' details prominently, let users report abuse within two steps, and leave final decisions to trained officers rather than automated tools.
 

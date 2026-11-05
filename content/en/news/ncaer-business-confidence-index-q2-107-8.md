@@ -49,12 +49,12 @@ verification:
 
 Indian companies became more optimistic about the economy in the July-September quarter, but confidence is still well short of where it was a year ago and few firms plan to hire, a survey by the National Council of Applied Economic Research (NCAER) shows.
 
-The think tank's Business Confidence Index rose to 107.8 in the quarter from 99.8 in April-June, according to the survey results released on Friday. A year earlier it stood at 142.6, nearly 35 points higher. The rise follows four quarters of decline.
+The think tank's Business Confidence Index rose to 107.8 in the quarter from 99.8 in April-June, according to the survey results released on Friday. A year earlier it stood at 142.6, nearly **35 points** higher. The rise follows four quarters of decline.
 
-The share of firms expecting overall economic conditions to improve rose to 49.8% from 43.4%. Those expecting their own finances to get better rose to 40.6% from 37%, and 29.5% viewed the current investment climate positively, up from 26%. Nearly all firms, 93.6%, said they were running close to or above their optimal capacity.
+The share of firms expecting overall economic conditions to improve rose to **49.8%** from 43.4%. Those expecting their own finances to get better rose to 40.6% from 37%, and 29.5% viewed the current investment climate positively, up from 26%. Nearly all firms, 93.6%, said they were running close to or above their optimal capacity.
 
-Jobs are the weak spot. Between 76% and 79% of firms expect no change in the number of people they employ over the next six months, across skilled, unskilled, casual and permanent workers. The share planning to hire more slipped slightly in every category; for skilled workers it fell to 20% from 21%.
+Jobs are the weak spot. Between **76% and 79% of firms** expect no change in the number of people they employ over the next six months, across skilled, unskilled, casual and permanent workers. The share planning to hire more slipped slightly in every category; for skilled workers it fell to 20% from 21%.
 
-Pay looks flat too. About 69% of firms expect no change in wages for managerial and skilled staff, and 71% for unskilled workers.
+Pay looks flat too. About **69%** of firms expect no change in wages for managerial and skilled staff, and 71% for unskilled workers.
 
 NCAER has run its Business Expectations Survey every quarter since 1992. This round covered 502 firms of different sizes in six cities and was carried out in September.

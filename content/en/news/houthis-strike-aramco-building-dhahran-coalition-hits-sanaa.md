@@ -77,16 +77,16 @@ Houthi military spokesman Yahya Saree had warned that any strike on Sanaa would 
 
 ## Riyadh under fire again
 
-Saudi air defences intercepted Houthi missiles aimed at the capital on Tuesday. Debris from two of them injured four people and damaged 15 homes, the Civil Defence said. A cruise missile was destroyed over Al-Kharj governorate, south of Riyadh, and three drones were brought down north of the city.
+Saudi air defences intercepted Houthi missiles aimed at the capital on Tuesday. Debris from two of them injured four people and damaged **15 homes**, the Civil Defence said. A cruise missile was destroyed over Al-Kharj governorate, south of Riyadh, and three drones were brought down north of the city.
 
 The Saudi cabinet, chaired by the crown prince, said the Houthis would face "consequences". Human Resources Minister Ahmad bin Sulaiman Al Rajhi told a forum in Riyadh: "We're not going out."
 
-King Khalid International Airport, the kingdom's second busiest, will stay closed until midnight on October 17 under a notice to airmen issued on Monday. Saturday's missile attack on the airport killed 13 people and injured more than 300, and Riyadh's schools have moved to remote learning for a week. Air India is among the airlines that have suspended flights to Saudi Arabia. The Indian Embassy has urged calm and asked people not to share videos of the attacks.
+King Khalid International Airport, the kingdom's second busiest, will stay closed until midnight on October 17 under a notice to airmen issued on Monday. Saturday's missile attack on the airport killed **13 people** and injured more than 300, and Riyadh's schools have moved to remote learning for a week. Air India is among the airlines that have suspended flights to Saudi Arabia. The Indian Embassy has urged calm and asked people not to share videos of the attacks.
 
 US President Donald Trump said the Houthis were "behaving very badly" and that Washington was considering joining the Saudi strikes. He has accused the group of targeting Saudi infrastructure to push up energy prices before the US midterm elections.
 
 ## The cost inside Yemen
 
-The fighting is spreading inside Yemen too. Government forces backed by Riyadh carried out nine air strikes in Taiz governorate on Tuesday, and a Yemeni rights group said Houthi shelling in Taiz killed at least five civilians over 24 hours, among them a five-year-old girl.
+The fighting is spreading inside Yemen too. Government forces backed by Riyadh carried out nine air strikes in Taiz governorate on Tuesday, and a Yemeni rights group said Houthi shelling in Taiz killed at least five civilians over **24 hours**, among them a five-year-old girl.
 
 The UN says at least 46 civilians have been killed in Yemen since August and more than 200,000 people displaced since September. The World Health Organization says suspected cholera cases have tripled in three weeks.

@@ -53,12 +53,12 @@ verification:
 
 Two Russian technology companies want to build unmanned helicopters and satellite-free drone navigation systems at Drone City Haryana in Sisai, near Hansi, the state government said on Wednesday after a delegation met Chief Minister Nayab Singh Saini in Chandigarh.
 
-The first proposal, from Omnitech LLC with its Indian partner AVPL International, is for a plant to make, test and develop helicopter drones with a range of up to 250 km and a payload of up to 200 kg. The state sees uses in industrial logistics, disaster management and getting supplies to remote areas.
+The first proposal, from Omnitech LLC with its Indian partner AVPL International, is for a plant to make, test and develop helicopter drones with a range of up to **250 km** and a payload of up to 200 kg. The state sees uses in industrial logistics, disaster management and getting supplies to remote areas.
 
 The second, from 4GNSS LLC/Orient Systems Group, also with AVPL, is for navigation technology that lets drones finish a mission when GPS and other satellite signals are not available. It would look at using Indian semiconductor chips and making the systems in India.
 
 Neither deal has been signed, and no investment figure has been made public. The delegation, which included two officials of Russia's Skolkovo Foundation, met Civil Aviation Minister Kinjarapu Ram Mohan Naidu in New Delhi on October 12 before touring the Sisai site. Chief Secretary Anurag Rastogi attended the meeting with Saini.
 
-Saini laid the foundation stone of Drone City in September 2025, and its first phase opened in May this year. The Haryana Enterprise Promotion Board has approved a special incentive of ₹58.51 crore for AITMC Ventures Limited to set up a drone and components hub in Hisar district, part of what the state calls its plan to become India's "Drone Capital".
+Saini laid the foundation stone of Drone City in September 2025, and its first phase opened in May this year. The Haryana Enterprise Promotion Board has approved a special incentive of **₹58.51 crore** for AITMC Ventures Limited to set up a drone and components hub in Hisar district, part of what the state calls its plan to become India's "Drone Capital".
 
 Saini flew to Sweden on Wednesday with Urban Local Bodies Minister Vipul Goel for a four-day visit. He is due to address the India-Sweden Innovation Day on Thursday and hold talks on energy, home furnishing, real estate, defence and automobiles.

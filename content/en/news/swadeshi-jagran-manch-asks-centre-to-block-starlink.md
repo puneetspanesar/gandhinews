@@ -43,7 +43,7 @@ verification:
 
 The Swadeshi Jagran Manch, which is affiliated with the Rashtriya Swayamsevak Sangh, has asked the Centre to block Starlink's permission to sell satellite broadband in India unless Elon Musk's company addresses national security concerns.
 
-National co-convenor Ashwani Mahajan said on Tuesday that India had every right to refuse on security grounds, and that doing so would also send a signal to trade partners such as the United States. He noted that Starlink's licence application had not been approved, but had not been rejected either, and suggested the company might be unable or unwilling to meet specific regulatory requirements.
+National co-convenor **Ashwani Mahajan** said on Tuesday that India had every right to refuse on security grounds, and that doing so would also send a signal to trade partners such as the United States. He noted that Starlink's licence application had not been approved, but had not been rejected either, and suggested the company might be unable or unwilling to meet specific regulatory requirements.
 
 ## The security case
 

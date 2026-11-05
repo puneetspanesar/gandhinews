@@ -42,13 +42,13 @@ verification:
     - "Final start time not given in sources; publish time an estimate for an evening IST finish."
 ---
 
-PV Sindhu is through to the final of the French Open after a gritty three-game win over Japan's Hina Akechi at the Arena Grand Paris on Saturday. She won 21-10, 20-22, 21-16 in an hour and 13 minutes.
+PV Sindhu is through to the final of the French Open after a gritty three-game win over Japan's Hina Akechi at the Arena Grand Paris on Saturday. She won **21-10, 20-22, 21-16** in an hour and 13 minutes.
 
 Sindhu ran away with the first game, but Akechi led for much of the second. The Indian drew level and went ahead from 16-all, holding the lead for two points, before Akechi pegged her back and took the game to force a decider.
 
 The third swung the other way. Sindhu was in control for most of it until Akechi came back to 14-all and then went 16-15 up. Sindhu answered with six straight points to close out the match.
 
-It is Sindhu's first French Open final and her second at Super 750 level this season, after she won the Japan Open in July. She was India's last player left in the draw, after Ashmita Chaliha lost in the quarter-finals on Friday.
+It is Sindhu's first French Open final and her second at **Super 750** level this season, after she won the Japan Open in July. She was India's last player left in the draw, after Ashmita Chaliha lost in the quarter-finals on Friday.
 
 ## A familiar wall
 

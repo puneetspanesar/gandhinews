@@ -42,17 +42,17 @@ verification:
     - "No named analysts or target prices were in the article; analysts' view paraphrased."
 ---
 
-Swiggy's shares fell to a record low on Friday morning as investors gave a cold reception to the company's September-quarter results. The stock dropped about 10% to ₹190.85 on the BSE soon after the open, 9.6% below Thursday's close of ₹211.30.
+Swiggy's shares fell to a record low on Friday morning as investors gave a cold reception to the company's September-quarter results. The stock dropped about **10%** to ₹190.85 on the BSE soon after the open, 9.6% below Thursday's close of ₹211.30.
 
-It was the fourth straight session of losses, taking the fall over that stretch to about 18%. Analysts trimmed their earnings forecasts and target prices after the results, pointing to what they described as an extended path to profitability.
+It was the fourth straight session of losses, taking the fall over that stretch to about **18%**. Analysts trimmed their earnings forecasts and target prices after the results, pointing to what they described as an extended path to profitability.
 
 ## What the numbers showed
 
-On paper the quarter was not a bad one. Swiggy's net loss narrowed to ₹922 crore from ₹1,092 crore a year earlier, and revenue from operations rose 36.1% to ₹7,571 crore. Total expenses, however, climbed to ₹8,703 crore from ₹6,711 crore.
+On paper the quarter was not a bad one. Swiggy's net loss narrowed to **₹922 crore** from ₹1,092 crore a year earlier, and revenue from operations rose 36.1% to ₹7,571 crore. Total expenses, however, climbed to ₹8,703 crore from ₹6,711 crore.
 
-Food delivery is now making steady money. Gross order value in the business rose 17.7% to ₹10,054 crore and adjusted Ebitda reached ₹341 crore, or 3.4% of order value. Managing director and group chief executive Sriharsha Majety said the unit "delivered its highest-ever profits and margins".
+Food delivery is now making steady money. Gross order value in the business rose **17.7%** to ₹10,054 crore and adjusted Ebitda reached ₹341 crore, or 3.4% of order value. Managing director and group chief executive Sriharsha Majety said the unit "delivered its highest-ever profits and margins".
 
-The worry is Instamart, the quick-commerce arm that competes with Blinkit and Zepto. Its net order value grew 31.4% to ₹6,954 crore and the network grew by 69 dark stores to 1,240, but the business lost ₹895 crore. Its contribution margin, at minus 1% of order value, improved from a year ago but slipped from the previous quarter.
+The worry is Instamart, the quick-commerce arm that competes with Blinkit and Zepto. Its net order value grew 31.4% to ₹6,954 crore and the network grew by 69 dark stores to 1,240, but the business lost **₹895 crore**. Its contribution margin, at minus 1% of order value, improved from a year ago but slipped from the previous quarter.
 
 Mr Majety said quick commerce "delivered accelerated growth as guided" and that Swiggy had obtained approvals to qualify as an Indian-owned and controlled company. In a crowded market, he said, speed and selection have become "table stakes" and differentiation will decide the winners.
 

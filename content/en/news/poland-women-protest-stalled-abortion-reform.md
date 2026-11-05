@@ -39,7 +39,7 @@ Thousands of women marched through Warsaw and 25 other Polish cities on Thursday
 
 Marchers carried red cards under the theme "Red card for abortion", with banners reading "Abortion ban kills women" and "Women's hell continues". Organisers announced another protest for Sunday.
 
-The marches came days after parliament passed two bills easing restrictions. One, from Tusk's Civic Coalition and the Left, would partly decriminalise abortion and remove criminal penalties, now up to three years in prison, for helping someone end a pregnancy. It passed 217 to 213, with three abstentions. The other, from Poland 2050 and the Polish People's Party, would undo the 2020 Constitutional Tribunal ruling that banned abortion for severe foetal abnormalities. It passed 233 to 203.
+The marches came days after parliament passed **two bills easing restrictions**. One, from Tusk's Civic Coalition and the Left, would partly decriminalise abortion and remove criminal penalties, now up to three years in prison, for helping someone end a pregnancy. It passed 217 to 213, with three abstentions. The other, from Poland 2050 and the Polish People's Party, would undo the 2020 Constitutional Tribunal ruling that banned abortion for severe foetal abnormalities. It passed 233 to 203.
 
 Both are expected to be vetoed by President Karol Nawrocki, a conservative.
 

@@ -54,15 +54,15 @@ verification:
     - "Q1 GDP release date (August 31, 2026) is from the MoSPI press note; the story is published on October 11 as part of the launch, so it is framed as a look back."
 ---
 
-India's economy grew 7.8% in real terms in April-June 2026, the first quarter of 2026-27, according to estimates released by the National Statistics Office (NSO) on August 31. Growth was 6.9% in the same quarter a year earlier.
+India's economy grew **7.8%** in real terms in April-June 2026, the first quarter of 2026-27, according to estimates released by the National Statistics Office (NSO) on August 31. Growth was 6.9% in the same quarter a year earlier.
 
-The figure beat the Reserve Bank of India's estimate of 7.0% for the quarter. In its policy resolution of October 7, the RBI noted that Q1 growth "was higher than expected".
+The figure beat the Reserve Bank of India's estimate of **7.0%** for the quarter. In its policy resolution of October 7, the RBI noted that Q1 growth "was higher than expected".
 
 ## The numbers
 
-Real GDP for the quarter was ₹81.36 lakh crore, up from ₹75.46 lakh crore a year earlier. Nominal GDP, which includes price changes, grew 10.3% to ₹88.27 lakh crore.
+Real GDP for the quarter was **₹81.36 lakh crore**, up from ₹75.46 lakh crore a year earlier. Nominal GDP, which includes price changes, grew 10.3% to ₹88.27 lakh crore.
 
-Gross value added (GVA), which measures output by sector before taxes and subsidies on products, grew 8.2% in real terms, against 7.0% a year earlier. In nominal terms GVA grew 11.5%, to ₹80.53 lakh crore.
+Gross value added (GVA), which measures output by sector before taxes and subsidies on products, grew **8.2%** in real terms, against 7.0% a year earlier. In nominal terms GVA grew 11.5%, to ₹80.53 lakh crore.
 
 The gap between real and nominal growth, about 2.5 percentage points for GDP, reflects price increases across the economy during the quarter.
 
@@ -72,7 +72,7 @@ The gap between real and nominal growth, about 2.5 percentage points for GDP, re
 
 ## Services and factories led
 
-The services (tertiary) sector grew 10.0%, up from 8.0% a year earlier. Within it, financial, real estate, IT and professional services grew 12.1%, and trade, hotels, transport and communication grew 8.5%.
+The services (tertiary) sector grew 10.0%, up from 8.0% a year earlier. Within it, financial, real estate, IT and **professional services grew 12.1%**, and trade, hotels, transport and communication grew 8.5%.
 
 The secondary sector grew 8.6%, against 6.1% a year earlier. Manufacturing grew 9.2% and construction 7.7%.
 

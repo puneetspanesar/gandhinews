@@ -63,15 +63,15 @@ verification:
 
 Tech Mahindra's profit rose by a third in the July to September quarter, and its board recommended giving shareholders one bonus share for every share they own, the company's first bonus issue since 2015.
 
-Net profit came to ₹1,586 crore, up 32.7% from ₹1,195 crore a year earlier and 8.2% higher than in the June quarter, the Pune-based IT company said on Thursday evening. Revenue rose 15.6% to ₹16,180 crore and was up 3% on the previous quarter. In constant currency, which strips out exchange rate swings, revenue grew 7.2% from a year earlier.
+Net profit came to **₹1,586 crore**, up 32.7% from ₹1,195 crore a year earlier and 8.2% higher than in the June quarter, the Pune-based IT company said on Thursday evening. Revenue rose 15.6% to ₹16,180 crore and was up 3% on the previous quarter. In constant currency, which strips out exchange rate swings, revenue grew 7.2% from a year earlier.
 
-Revenue beat analysts' consensus estimate of ₹16,027 crore. Profit fell short of the ₹1,642 crore analysts had expected on that measure, though it was ahead of some brokers' forecasts made before the results.
+Revenue beat analysts' consensus estimate of **₹16,027 crore**. Profit fell short of the ₹1,642 crore analysts had expected on that measure, though it was ahead of some brokers' forecasts made before the results.
 
 ## Bonus shares and a dividend
 
-The board approved the issue of bonus shares "in the ratio of 1:1", with each ₹5 share earning one new ₹5 share. The issue needs shareholders' approval, and the company will raise its authorised share capital from ₹924.3 crore to ₹1,000 crore to make room for it. The record date for the bonus will be announced later.
+The board approved the issue of bonus shares "in the ratio of 1:1", with each ₹5 share earning one new ₹5 share. The issue needs shareholders' approval, and the company will raise its authorised share capital from **₹924.3 crore** to ₹1,000 crore to make room for it. The record date for the bonus will be announced later.
 
-It also declared an interim dividend of ₹15 a share, with a record date of Friday, October 23. Investors need to hold the stock by October 22 to qualify, and the dividend is to be paid by November 13.
+It also declared an interim dividend of **₹15** a share, with a record date of Friday, October 23. Investors need to hold the stock by October 22 to qualify, and the dividend is to be paid by November 13.
 
 ## Margins edge towards the target
 
@@ -79,7 +79,7 @@ Operating profit, measured as earnings before interest and tax (EBIT), rose 40.5
 
 "So far, consistently over the past 12 quarters, we have shown commitment to achieve that target," said Mohit Joshi, managing director and chief executive.
 
-New deals were worth $1.023 billion, up 25.4% from a year earlier. Brokers had expected a weak quarter for orders, with estimates of $0.8 billion to $1 billion. "Deal wins exceeding $1+ billion in each of the last four quarters reflect the strength of our customer relationships," Joshi said.
+New deals were worth **$1.023 billion**, up 25.4% from a year earlier. Brokers had expected a weak quarter for orders, with estimates of $0.8 billion to $1 billion. "Deal wins exceeding $1+ billion in each of the last four quarters reflect the strength of our customer relationships," Joshi said.
 
 ## Hiring and visas
 

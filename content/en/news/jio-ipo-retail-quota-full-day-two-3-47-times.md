@@ -50,13 +50,13 @@ verification:
 
 Retail investors, slow to commit on the opening day of the Jio Platforms share sale, filled their entire portion within two hours of bidding resuming on Thursday.
 
-By 11 am the ₹30,213 crore issue had drawn bids for 3.47 times the shares on offer, according to BSE data. Qualified institutional buyers had bid for 9.42 times their quota, non-institutional investors 2.34 times, the portion reserved for Reliance Industries shareholders 2.06 times and employees 1.61 times.
+By 11 am the **₹30,213 crore** issue had drawn bids for 3.47 times the shares on offer, according to BSE data. Qualified institutional buyers had bid for 9.42 times their quota, non-institutional investors 2.34 times, the portion reserved for Reliance Industries shareholders 2.06 times and employees 1.61 times.
 
-Demand kept building through the day. By 2:12 pm the issue had been subscribed 4.3 times, with institutions at 9.78 times, non-institutional investors at 4.09 times and retail investors at 1.39 times.
+Demand kept building through the day. By 2:12 pm the issue had been subscribed **4.3 times**, with institutions at 9.78 times, non-institutional investors at 4.09 times and retail investors at 1.39 times.
 
-The pick-up among individual bidders matters because the retail quota had been covered only about two-thirds by the close on Wednesday, even as institutions piled in. The issue had sold out within 100 minutes of opening, the fastest for any Indian offer, and by 5 pm on day one had attracted bids worth about ₹69,800 crore for 62.36 crore shares.
+The pick-up among individual bidders matters because the retail quota had been covered only about two-thirds by the close on Wednesday, even as institutions piled in. The issue had sold out within 100 minutes of opening, the fastest for any Indian offer, and by 5 pm on day one had attracted bids worth about **₹69,800 crore** for 62.36 crore shares.
 
-The Reliance unit is selling up to 27 crore new shares at ₹1,065 to ₹1,119 each, with no sale by existing shareholders. At the top of the band it is valued at about $108 billion, and the offer is the largest attempted in India. Before the issue opened, Jio raised about ₹8,110 crore from 212 anchor investors, among them BlackRock, Fidelity Investments, GIC and the Abu Dhabi Investment Authority, at ₹1,119 a share.
+The Reliance unit is selling up to **27 crore** new shares at ₹1,065 to ₹1,119 each, with no sale by existing shareholders. At the top of the band it is valued at about $108 billion, and the offer is the largest attempted in India. Before the issue opened, Jio raised about ₹8,110 crore from 212 anchor investors, among them BlackRock, Fidelity Investments, GIC and the Abu Dhabi Investment Authority, at ₹1,119 a share.
 
 Moody's Ratings has called the issue credit positive for Reliance Industries, because the proceeds will be used to cut debt and interest costs at Reliance Jio Infocomm.
 

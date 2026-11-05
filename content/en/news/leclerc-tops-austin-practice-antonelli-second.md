@@ -47,7 +47,7 @@ verification:
     - "Hadjar 'disgusting' as reported by F1.com, attributed to team radio; not used."
 ---
 
-Charles Leclerc made Ferrari the early pace-setters at the United States Grand Prix, topping both practice sessions at the Circuit of the Americas on Friday. In the second hour he lapped in 1 minute 35.291 seconds, just 0.042 seconds quicker than the championship leader Kimi Antonelli.
+Charles Leclerc made Ferrari the early pace-setters at the United States Grand Prix, topping both practice sessions at the Circuit of the Americas on Friday. In the second hour he lapped in 1 minute 35.291 seconds, just **0.042 seconds** quicker than the championship leader Kimi Antonelli.
 
 Max Verstappen was third for Red Bull, 0.189 seconds off, which made it the second session running with three different teams in the top three. Lewis Hamilton was fourth in the other Ferrari and George Russell fifth for Mercedes, with Liam Lawson, Lando Norris, Oscar Piastri, Isack Hadjar and Ollie Bearman completing the top 10.
 

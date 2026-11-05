@@ -56,11 +56,11 @@ verification:
 
 Indian shares fell sharply on Monday as investors sold private bank stocks after their September-quarter results, cutting short a rally that had given the market its best week in six months.
 
-The Sensex closed at 73,852.90, down 876.37 points or 1.17%, after opening slightly higher at 74,849.30. The Nifty 50 ended near 22,889, about 257 points lower. The broader market also fell, with the Nifty Midcap 100 down 1.09% and the Smallcap 100 down 1.01%. By early afternoon about ₹4.48 lakh crore had been wiped off the value of companies listed on the BSE.
+The Sensex closed at 73,852.90, down 876.37 points or **1.17%**, after opening slightly higher at 74,849.30. The Nifty 50 ended near 22,889, about 257 points lower. The broader market also fell, with the Nifty Midcap 100 down 1.09% and the Smallcap 100 down 1.01%. By early afternoon about ₹4.48 lakh crore had been wiped off the value of companies listed on the BSE.
 
 ## Banks lead the slide
 
-The selling was concentrated in the biggest lenders. HDFC Bank, ICICI Bank and Axis Bank together accounted for more than half of the Sensex's fall during the session. Axis Bank dropped about 5% after a quarter that Elara Capital said left the lender lagging its peers on core fundamentals, even though its net profit rose 38% to ₹7,003 crore. HDFC Bank fell nearly 3%, with analysts expecting pressure on the stock until a successor is named for deputy managing director Kaizad Bharucha.
+The selling was concentrated in the biggest lenders. HDFC Bank, ICICI Bank and Axis Bank together accounted for more than half of the Sensex's fall during the session. Axis Bank dropped about **5%** after a quarter that Elara Capital said left the lender lagging its peers on core fundamentals, even though its net profit rose 38% to ₹7,003 crore. HDFC Bank fell nearly 3%, with analysts expecting pressure on the stock until a successor is named for deputy managing director Kaizad Bharucha.
 
 Infosys and Hindustan Unilever were among the other heavy losers, and the Nifty Private Bank index was the weakest sector. State-owned banks went the other way. The Nifty PSU Bank index was the day's best performer, led by Punjab National Bank and Union Bank of India after strong results.
 
@@ -68,12 +68,12 @@ Infosys and Hindustan Unilever were among the other heavy losers, and the Nifty 
 
 ## Foreign money and oil
 
-Two older worries returned. Foreign portfolio investors have sold ₹52,100 crore of Indian shares so far in October, the most in six months, taking their sales this year to a record ₹3.12 lakh crore. Brent crude, which rose 11% last week after Iranian strikes on tankers near the Strait of Hormuz, was trading around $107 to $108 a barrel.
+Two older worries returned. Foreign portfolio investors have sold **₹52,100 crore of Indian shares** so far in October, the most in six months, taking their sales this year to a record ₹3.12 lakh crore. Brent crude, which rose 11% last week after Iranian strikes on tankers near the Strait of Hormuz, was trading around $107 to $108 a barrel.
 
 V K Vijayakumar, chief investment strategist at Geojit Investments, said rising crude was a strong headwind and that any improvement in foreign investor sentiment was unlikely to last while oil stayed this high. Hitesh Rathi, a technical analyst at Angel One, said narrow market leadership meant the risk-reward set-up did not favour buyers.
 
-There were bright spots among results. UltraTech Cement reported a 21% rise in quarterly profit, although its shares gave up early gains, and HFCL hit its upper price limit for a second day after its best quarter.
+There were bright spots among results. UltraTech Cement reported a **21%** rise in quarterly profit, although its shares gave up early gains, and HFCL hit its upper price limit for a second day after its best quarter.
 
 ## What comes next
 
-Exchanges are closed on Tuesday for Dussehra. Trading resumes on Wednesday, when the ₹30,200 crore Jio Platforms share sale opens and Eternal reports results, with Infosys due on Friday.
+Exchanges are closed on Tuesday for Dussehra. Trading resumes on Wednesday, when the **₹30,200 crore** Jio Platforms share sale opens and Eternal reports results, with Infosys due on Friday.

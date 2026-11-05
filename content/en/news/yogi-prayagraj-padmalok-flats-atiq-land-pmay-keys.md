@@ -38,7 +38,7 @@ verification:
 
 Uttar Pradesh Chief Minister Yogi Adityanath is due in Prayagraj on Thursday to begin work on a housing scheme for poor families on land that was once occupied by former MLA Atiq Ahmed.
 
-He will perform the bhoomi pujan for the Padmalok residential scheme at Kasari-Masari. Reports differ on its size, from 76 flats to about 600. On the same trip he is to hand over keys to 556 families who have been allotted flats under the Pradhan Mantri Awas Yojana in Pipalgaon.
+He will perform the bhoomi pujan for the Padmalok residential scheme at Kasari-Masari. Reports differ on its size, from **76 flats** to about 600. On the same trip he is to hand over keys to 556 families who have been allotted flats under the Pradhan Mantri Awas Yojana in Pipalgaon.
 
 Prayagraj Development Authority secretary Vineet Kumar Singh said more than 2,000 people had registered for the Pipalgaon flats, and the beneficiaries were chosen by lottery in April 2025.
 

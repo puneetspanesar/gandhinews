@@ -35,9 +35,9 @@ verification:
     - "Campaign figures ($1 billion, ₹4,155 crore, 6,000 startups, 56 unicorns, 5,000 patents) as stated in the release; the 6,000/56/5,000 figures refer to the IIT ecosystem as described there."
 ---
 
-Defence Minister Rajnath Singh said on Wednesday that a proposed National Military Drone Technology Centre at IIT Kanpur is in the final stage of approval, as he called on the armed forces, DRDO, universities, defence PSUs and private start-ups to work far more closely to build weapons and systems at home.
+Defence Minister Rajnath Singh said on Wednesday that a proposed **National Military Drone Technology Centre** at IIT Kanpur is in the final stage of approval, as he called on the armed forces, DRDO, universities, defence PSUs and private start-ups to work far more closely to build weapons and systems at home.
 
-Singh was speaking in New Delhi at the launch of "Greater Than Us", IIT Kanpur's fundraising campaign, which aims to raise $1 billion by March 2029. The institute says it is the largest campaign launched by any IIT, and that about ₹4,155 crore, roughly half the target, has already been committed by alumni, donors, companies and the government.
+Singh was speaking in New Delhi at the launch of "Greater Than Us", IIT Kanpur's fundraising campaign, which aims to raise **$1 billion by March 2029**. The institute says it is the largest campaign launched by any IIT, and that about ₹4,155 crore, roughly half the target, has already been committed by alumni, donors, companies and the government.
 
 ## Technology that is changing war
 
@@ -47,4 +47,4 @@ Artificial intelligence, autonomous and unmanned systems, advanced sensors, cybe
 
 He praised the DRDO-Industry-Academia Centre of Excellence at IIT Kanpur and welcomed a proposal to set up a School of Defence Technologies there. He also pointed to the institute's C3i cyber security centre and its medical school, and listed advanced materials, semiconductors and quantum technology as research areas that matter.
 
-Singh referred to the government's ₹1 lakh crore Research, Development and Innovation scheme as a way to draw private money into research. IIT Kanpur Director Manindra Agrawal and Awanish Kumar Awasthi, adviser to the Uttar Pradesh Chief Minister, were among those present.
+Singh referred to the government's **₹1 lakh crore** Research, Development and Innovation scheme as a way to draw private money into research. IIT Kanpur Director Manindra Agrawal and Awanish Kumar Awasthi, adviser to the Uttar Pradesh Chief Minister, were among those present.

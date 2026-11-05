@@ -72,17 +72,17 @@ verification:
     - "GIFT Nifty Saturday indication not available; not given."
 ---
 
-Indian shares go into next week with a weak lead from abroad. On Friday the Dow Jones Industrial Average dropped 652.82 points, or 1.23%, to 52,215.16, as the selling that had hit technology shares on Thursday spread to consumer and healthcare stocks. US crude oil jumped about 4% on renewed fears of conflict in West Asia.
+Indian shares go into next week with a weak lead from abroad. On Friday the Dow Jones Industrial Average dropped **652.82 points**, or 1.23%, to 52,215.16, as the selling that had hit technology shares on Thursday spread to consumer and healthcare stocks. US crude oil jumped about 4% on renewed fears of conflict in West Asia.
 
-The S&P 500 fell 0.52% to 7,623.68 and the Nasdaq Composite slipped 0.21% to 25,955.34, both down for a second straight week. Chip stocks steadied after Thursday's rout, and the Philadelphia Semiconductor Index edged up 0.44%.
+The S&P 500 fell **0.52%** to 7,623.68 and the Nasdaq Composite slipped 0.21% to 25,955.34, both down for a second straight week. Chip stocks steadied after Thursday's rout, and the Philadelphia Semiconductor Index edged up 0.44%.
 
 ## Oil climbs again
 
-West Texas Intermediate crude rose 3.99% to about $103.44 a barrel, and Brent, the benchmark for India's imports, traded above $115 and posted its third straight weekly gain. Traders were reacting to attacks near the Red Sea and to talk of renewed US strikes on Iran. "Do we want to finish it off or do we just want to let it wither," President Donald Trump said of Iran. Iranian security officials, for their part, said they had drawn up plans to strike undersea cables in the Gulf if the United States or Israel attacked again.
+West Texas Intermediate crude rose **3.99% to about $103.44** a barrel, and Brent, the benchmark for India's imports, traded above $115 and posted its third straight weekly gain. Traders were reacting to attacks near the Red Sea and to talk of renewed US strikes on Iran. "Do we want to finish it off or do we just want to let it wither," President Donald Trump said of Iran. Iranian security officials, for their part, said they had drawn up plans to strike undersea cables in the Gulf if the United States or Israel attacked again.
 
-Airline shares fell on the higher fuel costs. Gold slid 1.24% to about $4,010 an ounce, and the 10-year US Treasury yield edged up to near 4.99%, after its sharp fall on Thursday.
+Airline shares fell on the higher fuel costs. Gold slid **1.24%** to about $4,010 an ounce, and the 10-year US Treasury yield edged up to near 4.99%, after its sharp fall on Thursday.
 
-There were bright spots. Cybersecurity shares rallied after a critical flaw in PHP software knocked government websites offline in Europe and elsewhere; CrowdStrike rose 8.25% and Palo Alto Networks and Cloudflare more than 7%. American Express lost 3% after announcing a restructuring that will cut about 3,500 jobs.
+There were bright spots. Cybersecurity shares rallied after a critical flaw in PHP software knocked government websites offline in Europe and elsewhere; CrowdStrike rose **8.25%** and Palo Alto Networks and Cloudflare more than 7%. American Express lost 3% after announcing a restructuring that will cut about 3,500 jobs.
 
 Economic data was mixed. S&P Global's flash composite purchasing managers' index for October eased to 57.6 from 58.4, while the University of Michigan's final reading of consumer sentiment came in at 48.0, better than the 46.3 economists expected.
 

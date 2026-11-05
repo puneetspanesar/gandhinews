@@ -75,9 +75,9 @@ verification:
     - "Das and Ranka: five days judicial custody from October 14, lodged in Tihar (Statesman). End of remand not stated in copy."
 ---
 
-Abhijeet Dipke, founder of the Cockroach Janta Party (CJP), was released on Saturday afternoon after a Special Executive Magistrate granted him conditional bail on a peace bond, about 24 hours after Delhi Police stopped him from leaving for the "Lehra Do Tiranga" protest at Connaught Place.
+Abhijeet Dipke, founder of the Cockroach Janta Party (CJP), was released on Saturday afternoon after a Special Executive Magistrate granted him **conditional bail on a peace bond**, about 24 hours after Delhi Police stopped him from leaving for the "Lehra Do Tiranga" protest at Connaught Place.
 
-He was produced before the magistrate at Mandir Marg. Police said they had moved against him under Sections 126 and 170 of the Bharatiya Nagarik Suraksha Sanhita. The first lets an executive magistrate act where a breach of the peace is likely; the second lets the police make a preventive arrest without a warrant. One condition requires him to keep the peace for a year. The full terms will be known when the written order is out.
+He was produced before the magistrate at Mandir Marg. Police said they had moved against him under **Sections 126 and 170** of the Bharatiya Nagarik Suraksha Sanhita. The first lets an executive magistrate act where a breach of the peace is likely; the second lets the police make a preventive arrest without a warrant. One condition requires him to keep the peace for a year. The full terms will be known when the written order is out.
 
 "Abhijeet Dipke released," Ratna Singh, who heads the CJP's legal affairs, wrote on X.
 
@@ -99,6 +99,6 @@ She demanded the release of everyone held and an end to the curbs in central Del
 
 ## FIRs and a warning
 
-Delhi Police have registered several FIRs over alleged violations of the prohibitory orders under Section 163 of the BNSS that were in force around Connaught Place on Friday, when about 150 people were detained. Officers said carrying the national flag was never banned, but gathering a crowd or taking out a procession without permission in the restricted area was, and they warned that repeat offenders would face further action.
+Delhi Police have registered several FIRs over alleged violations of the prohibitory orders under Section 163 of the BNSS that were in force around Connaught Place on Friday, when about **150 people** were detained. Officers said carrying the national flag was never banned, but gathering a crowd or taking out a procession without permission in the restricted area was, and they warned that repeat offenders would face further action.
 
 CJP co-conveners Saurav Das and Ashutosh Ranka remain in Tihar Jail on the five days of judicial custody ordered on October 14 over their entry into Jantar Mantar.

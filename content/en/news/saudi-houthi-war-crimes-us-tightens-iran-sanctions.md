@@ -66,7 +66,7 @@ Major General Turki al-Maliki, spokesman for the Saudi-led coalition in Yemen, s
 
 ## Airports in the firing line
 
-The coalition's figures show how hard Riyadh has been hit this month. Al-Maliki said King Khalid International Airport in the capital had been attacked 20 times since October 1, leaving 17 people dead and more than 330 injured there. Across all Saudi airports, the toll stands at 19 dead and 364 injured.
+The coalition's figures show how hard Riyadh has been hit this month. Al-Maliki said King Khalid International Airport in the capital had been attacked 20 times since October 1, leaving **17 people** dead and more than 330 injured there. Across all Saudi airports, the toll stands at 19 dead and 364 injured.
 
 "Attacking airports endangers the lives of thousands of civilian travellers," al-Maliki said. He added that the coalition had destroyed 127 Houthi depots in the mountains around Sanaa, Saada and Amran.
 
@@ -82,7 +82,7 @@ France said it had begun deploying military assets to help protect Saudi energy 
 
 ## Washington's pressure
 
-In Washington, the Treasury sanctioned 16 individuals and 10 entities, including an Iraqi bank and offshore and shadow-banking networks it said had moved hundreds of millions of dollars for Iran. Treasury Secretary Scott Bessent wrote on X: "The noose is tightening around Iran's economy, and not even Iran's so-called allies can save it."
+In Washington, the Treasury sanctioned **16 individuals and 10 entities**, including an Iraqi bank and offshore and shadow-banking networks it said had moved hundreds of millions of dollars for Iran. Treasury Secretary Scott Bessent wrote on X: "The noose is tightening around Iran's economy, and not even Iran's so-called allies can save it."
 
 The Treasury's financial crimes unit, FinCEN, also warned banks that Iran was abusing religious charity networks, including diverted religious tithes, as part of a drive it calls Operation Economic Outcast.
 
@@ -90,4 +90,4 @@ The White House and the Pentagon have reportedly drawn up plans to use the GBU-4
 
 Trump himself sounded a more cautious note. In an interview with Newsmax he said he would not use nuclear weapons against Iran and did not see US troops going in on the ground.
 
-Oil barely moved. Brent crude was at $105.51 a barrel early on Friday, down 0.39%.
+Oil barely moved. Brent crude was at $105.51 a barrel early on Friday, down **0.39%**.

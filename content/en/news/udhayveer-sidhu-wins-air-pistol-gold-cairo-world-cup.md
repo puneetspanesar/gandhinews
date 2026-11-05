@@ -41,11 +41,11 @@ verification:
     - "Event described as his 'debut in the 10m air pistol event' by the source; interpreted as his first senior World Cup appearance in the event. Worded cautiously."
 ---
 
-Udhayveer Sidhu won the men's 10m air pistol gold at the ISSF World Cup (rifle and pistol) in Cairo on Sunday, beating Germany's Christian Reitz by half a point in a tight final.
+Udhayveer Sidhu won the men's 10m air pistol gold at the **ISSF World Cup** (rifle and pistol) in Cairo on Sunday, beating Germany's Christian Reitz by half a point in a tight final.
 
 The 24-year-old scored 240.6 to Reitz's 240.1. Italy's Paolo Monna took bronze with 219.8.
 
-It was Udhayveer's first senior ISSF World Cup gold, and it came on his debut in the event. He had qualified for the eight-man final in fourth place with 585-19x.
+It was Udhayveer's **first senior ISSF World Cup gold**, and it came on his debut in the event. He had qualified for the eight-man final in fourth place with 585-19x.
 
 ## A twin's breakthrough
 
@@ -55,6 +55,6 @@ Jonathan Gavin Antony finished second in qualifying, but he was shooting for ran
 
 ## Others miss out
 
-Two other Indians fell short of the final. Ajendra Singh Chauhan finished 14th in qualifying, and Sarabjot Singh, who won bronze at the Paris Olympics, was 31st.
+Two other Indians fell short of the final. Ajendra Singh Chauhan finished 14th in qualifying, and **Sarabjot Singh**, who won bronze at the Paris Olympics, was 31st.
 
 India have sent 24 shooters to the rifle and pistol World Cup, which runs until October 15. Vijayveer is among them, in the 25m rapid fire pistol alongside Suraj Sharma and Ankur Goel, and Swapnil Kusale is entered in the men's 50m rifle three positions. The women's pistol squad includes Palak, Muskan and Surbhi Rao in the 10m air pistol and Rhythm Sangwan, Chinki Yadav and Divya TS in the 25m sports pistol.

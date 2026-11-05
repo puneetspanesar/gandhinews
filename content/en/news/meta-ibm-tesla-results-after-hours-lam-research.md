@@ -39,14 +39,14 @@ verification:
 
 Meta Platforms and IBM rose in late trading on Wednesday after their quarterly results, while Tesla barely moved and the chip equipment maker Lam Research fell sharply, in the first big night of technology earnings this season.
 
-Meta, the owner of Facebook, Instagram and WhatsApp, reported revenue of $64.6 billion for July-September and forecast $73 billion to $76 billion for the October-December quarter, which includes the holiday advertising season. Its shares, up 0.47% in the regular session, gained about 3.3% after the bell.
+Meta, the owner of Facebook, Instagram and WhatsApp, reported revenue of **$64.6 billion** for July-September and forecast $73 billion to $76 billion for the October-December quarter, which includes the holiday advertising season. Its shares, up 0.47% in the regular session, gained about 3.3% after the bell.
 
-IBM beat analysts' forecasts for both revenue and earnings. The shares, which had already climbed 3.94% during the day, added about 3% more in extended trade.
+IBM beat analysts' forecasts for both revenue and earnings. The shares, which had already climbed **3.94%** during the day, added about 3% more in extended trade.
 
-Tesla had jumped 3.41% in regular trading on speculation about a merger. Its results included an unexpectedly positive free cash flow of $1.53 billion, but the stock was little changed after hours.
+Tesla had jumped **3.41%** in regular trading on speculation about a merger. Its results included an unexpectedly positive free cash flow of $1.53 billion, but the stock was little changed after hours.
 
-Lam Research, which makes machines used to manufacture semiconductors, fell about 6.3% after the bell even though it beat estimates and raised its guidance. Its shares had slipped 1% during the day.
+Lam Research, which makes machines used to manufacture semiconductors, fell about **6.3%** after the bell even though it beat estimates and raised its guidance. Its shares had slipped 1% during the day.
 
-The results followed a strong session on Wall Street. The Nasdaq Composite rose 1.05% and the S&P 500 0.58%, helped by a 7.79% jump in SpaceX shares after the company reported its first profit as a listed company, and a 9.55% gain in Super Micro Computer after it raised its revenue outlook.
+The results followed a strong session on Wall Street. The Nasdaq Composite rose **1.05%** and the S&P 500 0.58%, helped by a 7.79% jump in SpaceX shares after the company reported its first profit as a listed company, and a 9.55% gain in Super Micro Computer after it raised its revenue outlook.
 
 Asian chip stocks and Indian software exporters will be the first to react when their markets open on Thursday.

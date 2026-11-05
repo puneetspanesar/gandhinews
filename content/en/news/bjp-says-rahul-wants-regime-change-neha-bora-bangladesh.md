@@ -53,6 +53,6 @@ Bhandari also pointed to what he said were remarks by advocate Prashant Bhushan 
 
 ## Why Bora matters to both sides
 
-Bora has led student protests in Delhi over alleged irregularities in the Special Intensive Revision of electoral rolls and has demanded the Chief Election Commissioner's resignation. On Tuesday she was among the speakers at the high tea Rahul Gandhi hosted at his home for INDIA bloc leaders, opposition MPs, student groups and civil society members, where Gandhi said "political resistance will continue and it will triumph".
+Bora has led student protests in Delhi over alleged irregularities in the Special Intensive Revision of electoral rolls and has demanded the Chief Election Commissioner's resignation. On Tuesday she was among the speakers at the high tea Rahul Gandhi hosted at his home for **INDIA bloc** leaders, opposition MPs, student groups and civil society members, where Gandhi said "political resistance will continue and it will triumph".
 
 No response from the Congress or AISA to Bhandari's remarks had been reported by Thursday afternoon.

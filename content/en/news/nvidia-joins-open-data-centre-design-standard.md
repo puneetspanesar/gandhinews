@@ -43,14 +43,14 @@ verification:
 
 Nvidia has joined AMD, Google and Meta in backing a common open design for the data centres that run artificial intelligence, covering how the buildings are laid out, cooled and supplied with power.
 
-The work sits under the Open Compute Project (OCP), an industry group that shares hardware designs openly. Its Open Data Center for AI specification, now at revision 0.7, sets out a roadmap for AI-ready facilities. Nvidia is also working with Google, Meta and Microsoft on a separate standard for how large data centres behave during disturbances on the electricity grid, including how they ride through voltage dips and bring power back afterwards.
+The work sits under the Open Compute Project (OCP), an industry group that shares hardware designs openly. Its **Open Data Center** for AI specification, now at revision 0.7, sets out a roadmap for AI-ready facilities. Nvidia is also working with Google, Meta and Microsoft on a separate standard for how large data centres behave during disturbances on the electricity grid, including how they ride through voltage dips and bring power back afterwards.
 
 Nvidia says the specifications give system makers, colocation providers and operators ready-made templates, so they do not have to work through a different custom design for every customer. Faster, more uniform construction would also help Nvidia sell more of its chips, systems and networking gear.
 
 ## The power problem
 
-The push comes as AI drives the power needed by each rack of servers sharply higher. In a post on Monday, OCP's leaders said rack power density is on track to reach and then pass 1 megawatt. The group is also publishing work on 800-volt direct current power, with a move to 1,500 volts planned, and on solid-state transformers.
+The push comes as AI drives the power needed by each rack of servers sharply higher. In a post on Monday, OCP's leaders said rack power density is on track to reach and then **pass 1 megawatt**. The group is also publishing work on 800-volt direct current power, with a move to 1,500 volts planned, and on solid-state transformers.
 
 "Put simply: it is one large chip to grid design, deployment and operations problem," wrote James Kelly, Cliff Grossner and Zane Ball of the OCP Foundation. "Hyperscale is where new innovations are born and proven, to the benefit of everyone else."
 
-The research firm IDC forecasts spending of more than $890 billion in 2030 on IT equipment built to OCP-recognised designs, the foundation said.
+The research firm IDC forecasts spending of more than **$890 billion** in 2030 on IT equipment built to OCP-recognised designs, the foundation said.

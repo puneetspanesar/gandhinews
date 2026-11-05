@@ -50,9 +50,9 @@ verification:
     - "Ruling delivered Wednesday, Oct 14 (Amar Ujala: open court, 4 pm); government reaction reported Thursday morning. Published time set for Thursday evening follow."
 ---
 
-The Uttar Pradesh government is expected to consider going to the Supreme Court after the Allahabad High Court ordered it to hold elections to village councils across the state within three months, a timetable officials say cannot be met with the census and the 2027 assembly election bearing down.
+The Uttar Pradesh government is expected to consider going to the Supreme Court after the Allahabad High Court ordered it to hold elections to village councils across the state **within three months**, a timetable officials say cannot be met with the census and the 2027 assembly election bearing down.
 
-A division bench of Justices Ajit Kumar and Garima Prasad gave the ruling in open court on Wednesday afternoon after a hearing of about three hours. It told the state government and the State Election Commission to hold the three-tier panchayat polls under the present framework, using the existing 27% reservation for Other Backward Classes.
+A division bench of Justices Ajit Kumar and Garima Prasad gave the ruling in open court on Wednesday afternoon after a hearing of about three hours. It told the state government and the State Election Commission to hold the three-tier panchayat polls under the present framework, using the **existing 27%** reservation for Other Backward Classes.
 
 ## What the court decided
 
@@ -66,9 +66,9 @@ The State Election Commission told the court it was ready, having published the 
 
 Gram pradhans' terms ended on May 25, and block pramukhs and zila panchayat chairpersons were made administrators in July. Officials point to a crowded calendar: the second phase of the census in the state runs from December 1, 2026, to January 4, 2027, examinations fall in the same months, and notification for the assembly election is expected early in January.
 
-The dedicated backward class commission, constituted on May 20 under a Supreme Court order, has covered 42 of the state's 75 districts and its six-month term ends on November 20. Its chairman, Ram Autar Singh, said it would decide its next steps after studying the order, and could split into two or three teams to finish the remaining 33 districts if asked to report early.
+The dedicated backward class commission, constituted on May 20 under a Supreme Court order, has covered 42 of the state's 75 districts and its six-month term ends on November 20. Its chairman, Ram Autar Singh, said it would decide its next steps after studying the order, and could split into two or three teams to finish the remaining **33 districts** if asked to report early.
 
-Panchayati Raj Minister Om Prakash Rajbhar was guarded. He said the government had not yet read the order and would study it before deciding anything, and cautioned against drawing hasty conclusions. "Respecting the court's decision is the duty of all of us," he said.
+Panchayati Raj Minister Om Prakash Rajbhar was guarded. He said the government **had not yet read the order** and would study it before deciding anything, and cautioned against drawing hasty conclusions. "Respecting the court's decision is the duty of all of us," he said.
 
 ## What happens next
 

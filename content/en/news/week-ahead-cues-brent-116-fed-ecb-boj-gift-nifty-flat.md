@@ -82,21 +82,21 @@ verification:
     - "Nifty levels and Ravi Singh quote from Goodreturns (Oct 24, 5:33 pm)."
 ---
 
-Indian shares go into the last week of October with oil climbing, foreign investors still selling and the world's big central banks lined up to speak. Brent crude, the benchmark for most of what India imports, settled at $116.72 a barrel on Friday, up 3.1% on the day and its highest close since April 29.
+Indian shares go into the last week of October with oil climbing, foreign investors still selling and the world's big central banks lined up to speak. Brent crude, the benchmark for most of what India imports, settled at **$116.72 a barrel** on Friday, up 3.1% on the day and its highest close since April 29.
 
-The rise came on growing expectations that the United States and Israel could strike Iran again after the US midterm elections, and on Houthi attacks on Saudi targets, including the Shuqaiq oil facility. Brent gained 6.2% over the week, its third weekly rise in a row, while West Texas Intermediate crude closed 3.8% higher at $103.27.
+The rise came on growing expectations that the United States and Israel could strike Iran again after the US midterm elections, and on Houthi attacks on Saudi targets, including the Shuqaiq oil facility. Brent gained **6.2%** over the week, its third weekly rise in a row, while West Texas Intermediate crude closed 3.8% higher at $103.27.
 
 ## A weak finish abroad
 
-Wall Street ended the week lower. The Dow Jones Industrial Average fell 652.82 points, or 1.23%, to 52,215.16 on Friday as selling spread from technology to consumer and healthcare shares. The S&P 500 lost 0.52% and the Nasdaq Composite 0.21%.
+Wall Street ended the week lower. The Dow Jones Industrial Average fell 652.82 points, or **1.23%**, to 52,215.16 on Friday as selling spread from technology to consumer and healthcare shares. The S&P 500 lost 0.52% and the Nasdaq Composite 0.21%.
 
 Much of that came after Indian trading had ended. In Friday afternoon trade, Gift Nifty, the dollar-denominated Nifty contract traded at GIFT City in Gandhinagar, stood at 22,603, just 3 points above the Nifty's close of 22,600 and pointing then to a flat Monday start. The later fall in New York and the jump in oil were not in that price.
 
 ## Where Dalal Street stands
 
-The Nifty fell 2.36% and the Sensex 2.15% last week, with four losing sessions in a row. Mid-sized and smaller companies took the worst of it, falling by about 5.6% and 7.3% on their main indices. The rupee ended Friday at a provisional 94.93 to the dollar.
+The Nifty fell **2.36%** and the Sensex 2.15% last week, with four losing sessions in a row. Mid-sized and smaller companies took the worst of it, falling by about 5.6% and 7.3% on their main indices. The rupee ended Friday at a provisional 94.93 to the dollar.
 
-Foreign institutional investors sold a net ₹2,697.37 crore of shares over the four trading days, according to provisional exchange data, while domestic institutions bought ₹10,942.19 crore and were buyers in every session.
+Foreign institutional investors sold a net **₹2,697.37 crore** of shares over the four trading days, according to provisional exchange data, while domestic institutions bought ₹10,942.19 crore and were buyers in every session.
 
 Ravi Singh, chief research officer at Master Capital Services, sees the Nifty's support near 22,300 and then 22,000. "On the upside, the 22850-22900 zone remains a crucial resistance area, coinciding with the 21 days EMA," he said on Saturday.
 

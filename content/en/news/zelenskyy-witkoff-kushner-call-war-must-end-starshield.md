@@ -41,7 +41,7 @@ verification:
     - "Rubio's Mumbai meeting with Jaishankar on October 20 is from the MEA, as in our earlier story."
 ---
 
-Volodymyr Zelenskyy said on Sunday that Russia's war on Ukraine "must be brought to an end" and that Kyiv was preparing for the "next steps" in diplomacy, after a call with Donald Trump's envoys Steve Witkoff and Jared Kushner.
+Volodymyr Zelenskyy said on Sunday that Russia's war on Ukraine "must be brought to an end" and that Kyiv was preparing for the "next steps" in diplomacy, after a call with Donald Trump's envoys **Steve Witkoff and Jared Kushner**.
 
 Writing on X, the Ukrainian president said the two sides were in "virtually nonstop communication" about the results of the recent talks in Florida, and that "a lot depends" on the American position.
 
@@ -51,7 +51,7 @@ Zelenskyy said he was "thankful" that Washington had resumed intelligence sharin
 
 ## The satellite dispute
 
-The sharpest row is over satellites. Kyiv says limits on SpaceX's services have made it nearly impossible to intercept Russia's upgraded jet-powered drones. Secretary of State Marco Rubio said Ukraine did not currently have access to Starshield, SpaceX's military-grade service, which Kyiv wants for deep strikes inside Russia. "That's under conversation," he said.
+The sharpest row is over satellites. Kyiv says limits on SpaceX's services have made it nearly impossible to intercept Russia's upgraded jet-powered drones. Secretary of State Marco Rubio said Ukraine did not currently **have access to Starshield**, SpaceX's military-grade service, which Kyiv wants for deep strikes inside Russia. "That's under conversation," he said.
 
 Rubio rejected Zelenskyy's suggestion that a Starlink outage on Wednesday was deliberate. "We have nothing to do with that," he said, adding: "I'm not sure Zelenskyy knows what he's talking about." Treasury Secretary Scott Bessent called Zelenskyy "very reckless" for accusing the US of throttling connectivity.
 

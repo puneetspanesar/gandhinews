@@ -64,15 +64,15 @@ verification:
     - "Kulsum running with a child and Shivam Kumar of Saharanpur: KNO via Kashmir Images only. Local category winners Kulbir Singh and Neha Dewi: KNO only, used with that caution."
 ---
 
-Kenyan runners won both full marathon titles at the third Kashmir International Marathon on Sunday, as about 2,000 athletes ran through Srinagar's lakeside boulevards. The road closures that made the race possible had a cost elsewhere in the city: candidates for the Jammu and Kashmir State Eligibility Test (JKSET) struggled to reach their centres, and the exam was pushed back by two hours.
+Kenyan runners won **both full marathon titles** at the third Kashmir International Marathon on Sunday, as about 2,000 athletes ran through Srinagar's lakeside boulevards. The road closures that made the race possible had a cost elsewhere in the city: candidates for the Jammu and Kashmir State Eligibility Test (JKSET) struggled to reach their centres, and the exam was pushed back by two hours.
 
-Chief Minister Omar Abdullah flagged off the 42.195 km full marathon at 6:30 am, with the half marathon following at 7:45 am. Abdullah, who ran in the first two editions, did not run this year. The course took in Lal Chowk, the Boulevard and Foreshore Road along Dal Lake, and Nishat Garden.
+Chief Minister Omar Abdullah flagged off the **42.195 km** full marathon at 6:30 am, with the half marathon following at 7:45 am. Abdullah, who ran in the first two editions, did not run this year. The course took in Lal Chowk, the Boulevard and Foreshore Road along Dal Lake, and Nishat Garden.
 
 ## Kenya on top
 
-Emmanuel Sikuku Ndiwa won the men's full marathon and Sheila Jepkosgei Chesang the women's, extending Kenya's grip on the elite field. Each open-category winner takes home ₹25 lakh from a total prize pool of ₹3.17 crore.
+Emmanuel Sikuku Ndiwa won the men's full marathon and Sheila Jepkosgei Chesang the women's, extending Kenya's grip on the elite field. Each open-category winner takes home ₹25 lakh from a total prize pool of **₹3.17 crore**.
 
-This year the organisers added a separate category for runners from Jammu and Kashmir, with ₹4 lakh for the local full marathon winner and ₹2 lakh for the half. Kulbir Singh and Neha Dewi were reported as the local full marathon winners.
+This year the organisers added a separate category for runners from Jammu and Kashmir, with **₹4 lakh** for the local full marathon winner and ₹2 lakh for the half. Kulbir Singh and Neha Dewi were reported as the local full marathon winners.
 
 In all, 1,807 runners registered online: 1,221 from Jammu and Kashmir, 513 from other states and 73 athletes from 12 countries. Most chose the shorter race, with 1,416 entered for the half marathon and 391 for the full distance.
 

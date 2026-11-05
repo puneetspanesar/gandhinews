@@ -45,7 +45,7 @@ verification:
 
 India accused Pakistan of misusing a United Nations debate on minority rights for propaganda and told it to leave the parts of Jammu and Kashmir it holds, in a sharp exchange at the General Assembly in New York.
 
-Raghoo Puri, First Secretary at India's Permanent Mission to the UN, was replying to Pakistan at the Third Committee's interactive dialogue with the Special Rapporteur on minority issues.
+Raghoo Puri, First Secretary at India's Permanent Mission to the UN, was replying to Pakistan at the **Third Committee**'s interactive dialogue with the Special Rapporteur on minority issues.
 
 "Pakistan predictably misused the forum for propaganda. Jammu & Kashmir is an integral and inalienable part of India," Puri said. "Pakistan must vacate the territory under its illegal occupation."
 

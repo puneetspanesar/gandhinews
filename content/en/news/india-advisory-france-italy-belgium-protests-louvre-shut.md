@@ -43,11 +43,11 @@ verification:
     - "Saloni Doshi remarks paraphrased (AP)."
 ---
 
-India on Friday asked its citizens in France, Italy and Belgium to keep away from street protests, widening a warning that had so far covered only France.
+India on Friday asked its citizens in **France, Italy and Belgium** to keep away from street protests, widening a warning that had so far covered only France.
 
 At the Ministry of External Affairs' weekly briefing in New Delhi, spokesperson Randhir Jaiswal said Indian nationals in the affected countries should "remain vigilant", avoid areas where demonstrations are under way and follow the advice of local authorities. He said the Indian embassy in Italy had also issued an advisory.
 
-The embassy in Paris had earlier posted on X, citing "localised curfews imposed in France", that Indians should "remain vigilant and exercise due caution" and avoid "large gatherings and crowded places where protests are taking place".
+The **embassy in Paris** had earlier posted on X, citing "localised curfews imposed in France", that Indians should "remain vigilant and exercise due caution" and avoid "large gatherings and crowded places where protests are taking place".
 
 The protests began in late September over the cost of living. In France they turned violent last weekend, with fires, smashed shop windows, looting and clashes with police.
 

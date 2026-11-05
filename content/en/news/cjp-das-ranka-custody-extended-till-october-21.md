@@ -56,19 +56,19 @@ The magistrate pointed to what the order called a "habitualness in calling prote
 
 The case turned in part on the people offering to stand surety. After an inquiry, the magistrate found the proposed sureties unfit, citing discrepancies in identity documents and their inability to give basic details about the men they were vouching for. Das and Ranka must now offer fresh sureties and file written submissions within two days, with a copy to the investigating officer.
 
-The two were produced at Mandir Marg police station. The proceedings arise from the South-West district bonds they signed on October 11, after their first detention over the October 10 protest. That release came on a ₹50,000 bond with a condition that they stay out of breach-of-peace cases for a year.
+The two were produced at Mandir Marg police station. The proceedings arise from the South-West district bonds they signed on October 11, after their first detention over the October 10 protest. That release came on a **₹50,000** bond with a condition that they stay out of breach-of-peace cases for a year.
 
 Their counsel told the court the two had made no calls for protest after October 10. The investigating officer said they had repeatedly used social media to call people to sites not designated for protest, including Jantar Mantar and Connaught Place.
 
 ## Shinde walks free
 
-Party member Ajinkya Shinde, who was held with them, was released on a personal bond and told to keep the peace for six months.
+Party member **Ajinkya Shinde**, who was held with them, was released on a personal bond and told to keep the peace for six months.
 
 CJP legal affairs head Ratna Singh was scathing about the extension. "There is no reason to extend judicial custody," she wrote on X, calling the hearing an "absolute waste of time of SEM court".
 
 ## How they got here
 
-Das and Ranka were among 14 people detained on October 13 after the group allegedly entered the Jantar Mantar protest site through private premises and obstructed police. Delhi Police had de-notified Jantar Mantar as a protest venue a day earlier under a standing order, naming Ramlila Ground, Burari Ground and CBD Ground in East Delhi as alternatives.
+Das and Ranka were among **14 people** detained on October 13 after the group allegedly entered the Jantar Mantar protest site through private premises and obstructed police. Delhi Police had de-notified Jantar Mantar as a protest venue a day earlier under a standing order, naming Ramlila Ground, Burari Ground and CBD Ground in East Delhi as alternatives.
 
 The CJP has been protesting against alleged irregularities in the Special Intensive Revision of the electoral rolls and demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Its founder Abhijeet Dipke, who was released last week, has said the party will rethink its protest plans once Das and Ranka are out.
 

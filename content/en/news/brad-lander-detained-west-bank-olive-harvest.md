@@ -64,4 +64,4 @@ New York Mayor Zohran Mamdani said: "Harvesting olives is not illegal. The occup
 
 Lander is running in New York's 10th congressional district after beating the sitting congressman, Dan Goldman, in the Democratic primary earlier this year.
 
-The episode comes in what rights groups Yesh Din and the Palestinian Farmers' Union describe as the most violent olive season in recent memory. The Israeli group Peace Now says the army has expanded by nearly 30% the farmland Palestinians may not enter without prior approval.
+The episode comes in what rights groups Yesh Din and the Palestinian Farmers' Union describe as the most violent olive season in recent memory. The Israeli group Peace Now says the army has expanded by nearly **30%** the farmland Palestinians may not enter without prior approval.

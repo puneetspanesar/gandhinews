@@ -70,7 +70,7 @@ Stage I measures also cover tighter road sweeping, water sprinkling and action a
 
 ## Warm, humid and still
 
-The weather offered little help. The minimum temperature was 19.7 degrees Celsius, 1.7 degrees above normal, and humidity stood at 89 per cent at 8:30 am. Skies were forecast to stay mainly clear with a high near 32 degrees.
+The weather offered little help. The minimum temperature was **19.7 degrees** Celsius, 1.7 degrees above normal, and humidity stood at 89 per cent at 8:30 am. Skies were forecast to stay mainly clear with a high near 32 degrees.
 
 Relief may come at the weekend. The weather office expects isolated to scattered rain over Delhi, Haryana and Punjab on October 24 and 25 as a western disturbance moves in.
 

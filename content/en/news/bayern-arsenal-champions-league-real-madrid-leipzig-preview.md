@@ -38,7 +38,7 @@ verification:
 
 The Champions League's third matchday finishes on Wednesday night, India time, and the pick of the nine games is in Munich, where Bayern host Arsenal in what has been billed as a measuring stick for two sides with serious hopes of winning the competition. Kick-off is at 12:30 am IST on Thursday.
 
-Arsenal arrive with a perfect record. They beat Napoli 1-0 on the opening night and Lille 3-0 in their second game. Bayern began by thrashing Bodo/Glimt 5-0 but were then held to a 3-3 draw by Viking, and will want a home win over a direct rival to steady their campaign.
+Arsenal arrive with a perfect record. They beat **Napoli 1-0** on the opening night and Lille 3-0 in their second game. Bayern began by thrashing Bodo/Glimt 5-0 but were then held to a 3-3 draw by Viking, and will want a home win over a direct rival to steady their campaign.
 
 ## The early games
 

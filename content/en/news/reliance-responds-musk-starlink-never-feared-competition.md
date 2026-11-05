@@ -56,7 +56,7 @@ verification:
 
 Reliance Industries has answered Elon Musk. A week after the SpaceX chief accused Mukesh Ambani of standing in the way of Starlink's launch in India, the company said on Friday that it has nothing to fear from a rival.
 
-"At Reliance, we have never feared competition," the company said. It said it welcomes competition in satellite communications, Starlink included, and pointed out that Jio's own satellite services are also waiting for government clearances. Reliance recalled Jio's entry into mobile telephony in 2016, which it said has since grown to more than 530 million customers.
+"At Reliance, we have never feared competition," the company said. It said it **welcomes competition** in satellite communications, Starlink included, and pointed out that Jio's own satellite services are also waiting for government clearances. Reliance recalled Jio's entry into mobile telephony in 2016, which it said has since grown to more than 530 million customers.
 
 ## A week of posts
 
@@ -70,7 +70,7 @@ The Centre has rejected the charge from the start. The Ministry of Communication
 
 All three hold licences to offer satellite-based mobile services through constellations that do not hover over one spot. A licence on its own does not allow commercial service. Each company must first show that it meets security conditions, and only then can spectrum be assigned.
 
-OneWeb is reported to have asked in September for an urgent clearance, more than 18 months after it demonstrated security compliance in January 2025. Bharti Enterprises chairman Sunil Bharti Mittal said at the Bloomberg New Economy Forum in New Delhi this week that OneWeb is well ahead of Starlink in the queue, having applied five years ago, and that its ground network has been ready for three years.
+OneWeb is reported to have asked in September for an urgent clearance, more than **18 months** after it demonstrated security compliance in January 2025. Bharti Enterprises chairman Sunil Bharti Mittal said at the Bloomberg New Economy Forum in New Delhi this week that OneWeb is well ahead of Starlink in the queue, having applied five years ago, and that its ground network has been ready for three years.
 
 ## Starlink's side
 

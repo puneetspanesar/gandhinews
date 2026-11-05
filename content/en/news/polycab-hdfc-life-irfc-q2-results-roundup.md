@@ -37,19 +37,19 @@ verification:
     - "IRFC dividend record date Oct 23 from the digest."
 ---
 
-Polycab India's profit rose by more than 40% in the July to September quarter, one of several companies that reported higher earnings on a crowded Thursday for results.
+Polycab India's profit rose by more than **40%** in the July to September quarter, one of several companies that reported higher earnings on a crowded Thursday for results.
 
-The cable and wire maker's net profit rose 42.59% from a year earlier to ₹977.37 crore.
+The cable and wire maker's net profit rose **42.59%** from a year earlier to ₹977.37 crore.
 
 ## Insurer and fund house
 
-HDFC Life Insurance reported a 16.35% rise in profit to ₹521.60 crore. Its board also gave in-principle approval to raise up to ₹500 crore through subordinated non-convertible debentures. Rival ICICI Prudential Life had reported a 25% rise in profit on Tuesday.
+HDFC Life Insurance reported a 16.35% rise in profit to **₹521.60 crore**. Its board also gave in-principle approval to raise up to ₹500 crore through subordinated non-convertible debentures. Rival ICICI Prudential Life had reported a 25% rise in profit on Tuesday.
 
-HDFC Asset Management Company posted a 4.22% increase in profit to ₹748.73 crore, a slower pace than its peer ICICI Prudential AMC earlier in the week.
+HDFC Asset Management Company posted a **4.22%** increase in profit to ₹748.73 crore, a slower pace than its peer ICICI Prudential AMC earlier in the week.
 
 ## Railway financier pays out
 
-Indian Railway Finance Corporation (IRFC), the state-owned railway financier, said its profit rose 10.21% to ₹1,958.48 crore. It declared a dividend of ₹1.15 a share, with a record date of October 23.
+Indian Railway Finance Corporation (IRFC), the state-owned railway financier, said its profit rose **10.21%** to ₹1,958.48 crore. It declared a dividend of ₹1.15 a share, with a record date of October 23.
 
 The four were among dozens of companies reporting on Thursday, a day dominated by the IT sector. Tech Mahindra's profit rose 32.7% and its board recommended a 1:1 bonus issue, Wipro's profit slipped 1.4%, and Persistent Systems' profit fell 25.4% on costs linked to its Nagarro acquisition even as revenue grew 20%.
 

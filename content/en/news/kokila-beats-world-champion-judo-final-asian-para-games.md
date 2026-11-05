@@ -41,11 +41,11 @@ verification:
     - "Full name not given in source; Wikipedia has 'Kokila Kaushiklate' but not confirmed as same athlete, so not used. Final time not given; result not known at time of writing."
 ---
 
-Kokila produced one of the upsets of the opening day at the Asian Para Games on Monday, beating China's reigning world champion Yi Liu to reach the final of the women's J2 -52kg judo event.
+Kokila produced one of the upsets of the opening day at the Asian Para Games on Monday, beating China's **reigning world champion Yi Liu** to reach the final of the women's J2 -52kg judo event.
 
-The win at the Aichi Prefectural Martial Arts Hall guarantees the Indian at least a silver medal. Liu had come into the bout as the favourite, but Kokila came through a close contest in which both judoka scored a waza-ari and the Indian also picked up a shido, a minor penalty.
+The win at the Aichi Prefectural Martial Arts Hall guarantees the Indian at **least a silver medal**. Liu had come into the bout as the favourite, but Kokila came through a close contest in which both judoka scored a waza-ari and the Indian also picked up a shido, a minor penalty.
 
-Kokila now meets Kyrgyzstan's Aibike Ulanbek Kyzy in the final later on Monday, with gold on the line.
+Kokila now meets Kyrgyzstan's **Aibike Ulanbek Kyzy** in the final later on Monday, with gold on the line.
 
 It is a step up from her last Asian Para Games. In Hangzhou in 2023 she won bronze in the women's -48kg, competing a weight class lower. She has since gained experience at the highest level, competing at the Paris 2024 Paralympics.
 

@@ -55,25 +55,25 @@ verification:
     - "Who announced the decision: the research file says Ashwini Vaishnaw briefed; this was not re-checked, so the copy says only that the CCEA approved it."
 ---
 
-The Centre has raised the minimum support price (MSP) of wheat by ₹25 to ₹2,610 a quintal for the 2027-28 rabi marketing season. The Cabinet Committee on Economic Affairs, chaired by Prime Minister Narendra Modi, approved new MSPs for six rabi crops on September 30, 2026, according to the Press Information Bureau.
+The Centre has raised the minimum support price (MSP) of wheat by **₹25** to ₹2,610 a quintal for the 2027-28 rabi marketing season. The Cabinet Committee on Economic Affairs, chaired by Prime Minister Narendra Modi, approved new MSPs for six rabi crops on September 30, 2026, according to the Press Information Bureau.
 
-The wheat increase works out to just under 1% over last season's ₹2,585, by our calculation. Oilseeds and pulses got much larger rises.
+The wheat increase works out to just under **1%** over last season's ₹2,585, by our calculation. Oilseeds and pulses got much larger rises.
 
 ## Crop by crop
 
-Safflower got the biggest increase, ₹675 to ₹7,215 a quintal. Rapeseed and mustard rise by ₹413 to ₹6,613, and masoor (lentil) by ₹390 to ₹7,390. Barley goes up ₹136 to ₹2,286 and gram ₹83 to ₹5,958.
+Safflower got the biggest increase, **₹675** to ₹7,215 a quintal. Rapeseed and mustard rise by ₹413 to ₹6,613, and masoor (lentil) by ₹390 to ₹7,390. Barley goes up ₹136 to ₹2,286 and gram ₹83 to ₹5,958.
 
 ```chart
 {"type":"hbar","title":"Rabi MSP increase for 2027-28, by crop","subtitle":"Rise over 2026-27 (₹ per quintal)","unit":"₹","data":[{"label":"Safflower","value":675},{"label":"Rapeseed & mustard","value":413},{"label":"Masoor (lentil)","value":390},{"label":"Barley","value":136},{"label":"Gram","value":83},{"label":"Wheat","value":25,"highlight":true}],"source":"PIB, Sep 30, 2026"}
 ```
 
-In percentage terms, by our calculation, safflower rises about 10.3%, mustard 6.7%, barley 6.3%, masoor 5.6%, gram 1.4% and wheat 1.0%.
+In percentage terms, by our calculation, safflower rises about **10.3%**, mustard 6.7%, barley 6.3%, masoor 5.6%, gram 1.4% and wheat 1.0%.
 
 ## Margins over cost
 
 The government says the MSPs follow the promise in the Union Budget 2018-19 to fix MSP at "at least 1.5 times of the All-India weighted average Cost of Production". The cost it uses covers paid-out costs such as hired labour, rent for leased land, inputs, irrigation, depreciation and interest on working capital, plus an imputed value for family labour.
 
-On that basis, wheat carries the widest margin at 106% over its projected cost of ₹1,264 a quintal. Rapeseed-mustard follows at 96% and masoor at 92%. Gram (59%), barley (58%) and safflower (50%) are closer to the 1.5 times floor.
+On that basis, wheat carries the widest margin at 106% over its projected cost of ₹1,264 a quintal. Rapeseed-mustard follows at 96% and masoor at 92%. Gram (59%), barley (58%) and safflower (50%) are closer to the **1.5 times** floor.
 
 ```facts
 {"title":"Rabi MSP 2027-28 at a glance","items":[{"value":"₹2,610","label":"wheat MSP per quintal, up from ₹2,585","source":"PIB"},{"value":"106%","label":"wheat MSP margin over projected cost of ₹1,264","source":"PIB"},{"value":"₹7,215","label":"safflower MSP after a ₹675 rise, the largest of the six crops","source":"PIB"},{"value":"₹90,962 crore","label":"estimated financial implication of the rabi MSPs","source":"Outlook India"}]}

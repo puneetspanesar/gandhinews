@@ -43,7 +43,7 @@ verification:
     - "No Israeli military comment found."
 ---
 
-At least five Palestinians, among them a young girl and two women, were reported killed by Israeli fire across the Gaza Strip on Saturday, as deaths continued a year into a ceasefire that has never fully held.
+At least **five Palestinians**, among them a young girl and two women, were reported killed by Israeli fire across the Gaza Strip on Saturday, as deaths continued a year into a ceasefire that has never fully held.
 
 In Beit Lahia, in the north, a girl was shot dead in the Tal al-Dahab area and a woman was critically wounded. In Gaza City, one person was killed and three were hurt in an airstrike near Palestine Stadium in the al-Rimal neighbourhood. One person was shot dead in Deir al-Balah in central Gaza.
 
@@ -53,7 +53,7 @@ Israeli tank fire also hit two occupied homes near the Shuja'iya junction in eas
 
 ## A year of the truce
 
-The ceasefire took effect on October 11, 2025. Since then, Gaza's health ministry says, at least 1,547 Palestinians have been killed and 5,559 wounded by Israeli fire. The ministry puts the toll since the war began in October 2023 at 74,540 dead and 175,678 wounded.
+The ceasefire took effect on October 11, 2025. Since then, Gaza's health ministry says, at least 1,547 Palestinians have been killed and 5,559 wounded by Israeli fire. The ministry puts the toll since the war began in October 2023 at **74,540 dead** and 175,678 wounded.
 
 The war followed the Hamas-led attack on southern Israel on October 7, 2023, in which more than 1,200 people were killed.
 

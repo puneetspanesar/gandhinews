@@ -73,7 +73,7 @@ Four states that go to the polls in 2027 will be counted first. A gazette notifi
 
 ## House listing winds down
 
-Phase 1 covered house listing and housing. Each state or Union Territory got 30 days for house-to-house work, with an optional 15-day self-enumeration window before it, according to the schedule as it stood on September 1.
+Phase 1 covered house listing and housing. Each state or Union Territory got **30 days** for house-to-house work, with an optional 15-day self-enumeration window before it, according to the schedule as it stood on September 1.
 
 West Bengal started late, with self-enumeration from August 1 to 15. Its house-to-house listing ran from August 16 to September 14, and Chief Minister Suvendu Adhikari said on X that the state had completed all its fieldwork.
 

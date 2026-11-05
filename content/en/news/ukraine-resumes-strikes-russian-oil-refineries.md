@@ -52,7 +52,7 @@ Trump announced the pause on attacks on energy sites on Sunday. Ukraine held off
 
 ## 850 drones in one night
 
-Russia launched more than 850 drones at Ukraine between midnight and Thursday morning, hitting 15 regions, Zelenskyy said. Ukraine's Air Force said 536 were shot down, but strikes were recorded at 31 locations. In the Kirovohrad region, an attack that lasted more than ten hours killed three people and injured six, the State Emergency Service said.
+Russia launched **more than 850 drones** at Ukraine between midnight and Thursday morning, hitting 15 regions, Zelenskyy said. Ukraine's Air Force said 536 were shot down, but strikes were recorded at 31 locations. In the Kirovohrad region, an attack that lasted more than ten hours killed three people and injured six, the State Emergency Service said.
 
 Russia's Defence Ministry said its air defences downed 166 Ukrainian drones overnight.
 

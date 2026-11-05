@@ -40,10 +40,10 @@ The Madras High Court on Friday granted bail to a man from Rajasthan accused of 
 
 Justice N Ramesh granted conditional bail to Shyabu Khan, who has been in judicial custody since his arrest on September 12. He must report to the police in his area every day until further orders and furnish two sureties, one of them a relative and the other a local resident.
 
-According to the prosecution, Khan created the AI videos of the Chief Minister and posted them on two Facebook profiles, "All India Help Vijay Thalapati" and "All India Help", which asked people to get in touch for help. He then allegedly collected registration fees from those who did. The government advocate told the court he had collected ₹16,000 using the Chief Minister's name.
+According to the prosecution, Khan created the AI videos of the Chief Minister and posted them on two Facebook profiles, "All India Help Vijay Thalapati" and "All India Help", which asked people to get in touch for help. He then allegedly collected registration fees from those who did. The government advocate told the court he had collected **₹16,000** using the Chief Minister's name.
 
 He faces charges under five sections of the Bharatiya Nyaya Sanhita and Sections 66C and 66D of the Information Technology Act.
 
 Khan's lawyers argued that a friend had made the videos using his phone number and Facebook account and had also operated his bank account, and that Khan knew nothing about them and had no intention of cheating anyone. A trial court had turned down his bail plea on October 14 because the investigation was still going on.
 
-In the High Court, Khan said he had spent more than 45 days in custody and the investigation was over. The judge noted that the inquiry was complete, the chargesheet was ready and the mobile phone said to have been used had been seized, and allowed bail.
+In the High Court, Khan said he had spent more than **45 days** in custody and the investigation was over. The judge noted that the inquiry was complete, the chargesheet was ready and the mobile phone said to have been used had been seized, and allowed bail.

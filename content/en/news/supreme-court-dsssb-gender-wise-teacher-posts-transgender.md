@@ -37,11 +37,11 @@ verification:
     - "Hero: Commons may lack a DSSSB photo; subjects fall back to the Supreme Court building."
 ---
 
-The Supreme Court has asked the Delhi government to explain why its recruitment board advertises teaching jobs separately for men and women, and how it plans to make room for transgender candidates in public employment.
+The Supreme Court has asked the Delhi government to explain why its recruitment board advertises teaching jobs **separately for men and women**, and how it plans to make room for transgender candidates in public employment.
 
 In an order dated October 16 and reported on Friday, a bench of Justices J B Pardiwala and K Vinod Chandran framed six questions for the government and the Delhi Subordinate Services Selection Board (DSSSB). They want to know which recruitment rules govern the board's notifications, and whether any constitutional provision, law or service rule requires teaching vacancies to be split by gender. If none does, the state must explain the reason for the classification.
 
-The bench also asked whether the respondents intend to include transgender candidates in DSSSB vacancy notices, and if so, how. "The issue before us pertains to the non-inclusion of third gender in the notifications" for vacancies issued by the state, the order says. The government has 15 days to reply on affidavit.
+The bench also asked whether the respondents intend to include transgender candidates in DSSSB vacancy notices, and if so, how. "The issue before us pertains to the non-inclusion of third gender in the notifications" for vacancies issued by the state, the order says. The government has **15 days** to reply on affidavit.
 
 ## Two petitions
 

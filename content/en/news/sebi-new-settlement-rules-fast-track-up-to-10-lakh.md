@@ -83,9 +83,9 @@ verification:
     - "Fact-check Oct 12: SEBI page re-checked (title, Oct 8 listing; no notification number or gazette date shown). Business Today (Sep 24) confirms components, base amount formula, separate disgorgement and 'existing double counting', 60-day settlement notice and exclusions, 60 to 90 days, one-time 90-day window with 'additional 20% settlement amount', 9%/12% interest and 30-day commencement. IANS (Sambad) confirms the ₹10 lakh route via internal committee to a panel of WTMs, the violation-based route and settlement of misstatement/diversion cases with remedial terms. 'Simpler and more predictable' is IANS framing, not a SEBI statement found anywhere, so attribution to the regulator removed (EN and HI). 'Skip a step' in the infographic is the desk's reading (the 2018 route ran through the High Powered Advisory Committee); not confirmed in a source."
 ---
 
-The Securities and Exchange Board of India (SEBI) has notified new rules for settling enforcement cases, changing how much violators pay and how fast smaller cases are closed. The Securities and Exchange Board of India (Settlement of Administrative and Civil Proceedings) Regulations, 2026 were posted on SEBI's website on October 8.
+The Securities and Exchange Board of India (SEBI) has notified new rules for settling enforcement cases, changing how much violators pay and how fast smaller cases are closed. The Securities and Exchange Board of India (**Settlement of Administrative and Civil Proceedings**) Regulations, 2026 were posted on SEBI's website on October 8.
 
-They replace the settlement regulations of 2018. SEBI's board approved the change at its meeting on September 24. The new rules take effect the day after 30 days have passed from their publication in the official gazette.
+They replace the settlement regulations of 2018. SEBI's board approved the change at its meeting on September 24. The new rules take effect the day after **30 days** have passed from their publication in the official gazette.
 
 Settlement lets a person or company facing SEBI proceedings close the case by paying an amount and accepting conditions. The new formula and fast track are meant to make the framework simpler and more predictable.
 
@@ -95,7 +95,7 @@ Settlement terms will now have three parts: the settlement amount, disgorgement 
 
 The settlement amount starts from a base amount linked to the minimum penalty the law sets for the violation, with different multipliers for different types of applicant. It is then adjusted for the stage of proceedings, the regulatory action involved, the gravity of the violation, aggravating and mitigating factors, and legal costs.
 
-Wrongful gains, losses avoided and losses caused to investors are kept out of this base. They will be quantified and disgorged separately, with interest of 9% a year, and 12% in some cases after a final order. SEBI said this ends the existing double counting of such sums in settlement terms.
+Wrongful gains, losses avoided and losses caused to investors are kept out of this base. They will be quantified and disgorged separately, with interest of **9%** a year, and 12% in some cases after a final order. SEBI said this ends the existing double counting of such sums in settlement terms.
 
 ```infographic
 {"title":"The new settlement rules in numbers","items":[{"icon":"currency-inr","value":"₹10 lakh","label":"fast-track ceiling","text":"Cases at or below this settlement amount skip a step and go straight to a panel of whole-time members."},{"icon":"gavel","value":"90 days","label":"to apply after a show-cause notice","text":"Up from 60 days under the 2018 rules."},{"icon":"megaphone","value":"60 days","label":"after a new settlement notice","text":"SEBI can now invite settlement before a show-cause notice is issued."},{"icon":"scales","value":"20%","label":"extra for a second chance","text":"Paid by those using a one-time 90-day window for pending cases."}]}
@@ -103,7 +103,7 @@ Wrongful gains, losses avoided and losses caused to investors are kept out of th
 
 ## Two fast-track routes
 
-Cases where the settlement amount is ₹10 lakh or less will go directly from SEBI's internal committee to a panel of whole-time members.
+Cases where the settlement amount is **₹10 lakh or less** will go directly from SEBI's internal committee to a panel of whole-time members.
 
 The second route is based on the type of violation, including certain disclosure lapses. SEBI will send a notice naming the amount payable; once the entity pays, the panel passes the settlement order.
 
@@ -111,7 +111,7 @@ The second route is based on the type of violation, including certain disclosure
 
 The rules add a settlement notice that SEBI can send before a show-cause notice, giving the entity 60 days to apply. No such notice will be sent where prosecution or an interim order is being considered. After a show-cause notice, the time to apply goes up from 60 days to 90 days.
 
-There is also a one-time 90-day window for some pending proceedings. It covers those who did not apply earlier, and those whose applications under the 2018 rules were rejected, withdrawn or returned. Applicants using this window pay an extra 20% of the settlement amount.
+There is also a one-time 90-day window for some pending proceedings. It covers those who did not apply earlier, and those whose applications under the 2018 rules were rejected, withdrawn or returned. Applicants using this window pay an extra **20%** of the settlement amount.
 
 ## Serious cases can be settled, with conditions
 

@@ -104,7 +104,7 @@ verification:
     - "Rahul Gandhi's words are PTI's English translation of a Hindi post; paraphrased rather than quoted."
 ---
 
-Draft electoral rolls published so far in the third phase of the Special Intensive Revision (SIR) had left out more than 6.15 crore names by September 1, covering the 17 states and Union Territories whose drafts were out by then. The Election Commission of India (ECI) says names left off a draft are not final deletions and can be restored through claims.
+Draft electoral rolls published so far in the third phase of the Special Intensive Revision (SIR) had left out **more than 6.15 crore** names by September 1, covering the 17 states and Union Territories whose drafts were out by then. The Election Commission of India (ECI) says names left off a draft are not final deletions and can be restored through claims.
 
 ```chart
 {"type":"hbar","title":"Names left out of SIR phase III draft rolls","subtitle":"Lakh electors, states with confirmed figures","unit":"lakh","data":[{"label":"Maharashtra","value":206.88,"highlight":true},{"label":"Delhi","value":47.57},{"label":"Andhra Pradesh","value":44.9},{"label":"Jharkhand","value":43.62},{"label":"Haryana","value":33.8},{"label":"Punjab","value":20.66}],"source":"Maharashtra CEO via PTI; ThePrint (Delhi); Jharkhand CEO via The Pioneer; The Wire (Haryana, Andhra Pradesh); The Tribune (Punjab). Karnataka and Telangana totals not confirmed"}
@@ -112,7 +112,7 @@ Draft electoral rolls published so far in the third phase of the Special Intensi
 
 ## Where the cuts were deepest
 
-Maharashtra's draft, released on August 31, left out 2,06,88,487 people, or 21.14% of its 9.78 crore electors. Delhi lost the largest share: 47,56,722 of 1.45 crore electors, or 32.78%, most of them marked "permanently shifted".
+Maharashtra's draft, released on August 31, left out 2,06,88,487 people, or **21.14%** of its 9.78 crore electors. Delhi lost the largest share: 47,56,722 of 1.45 crore electors, or 32.78%, most of them marked "permanently shifted".
 
 | State or UT | Left out of draft | Share of old roll |
 |---|---|---|
@@ -127,13 +127,13 @@ Maharashtra's draft, released on August 31, left out 2,06,88,487 people, or 21.1
 
 Figures are from the chief electoral officers of the states concerned and published state tallies; the Delhi share is our calculation.
 
-Within states, Outlook found deletions concentrated in some city seats. Jubilee Hills in Hyderabad had 1,79,510 deletions, 83% marked "shifted", and Bommanahalli in Bengaluru lost 54.8% of its electorate at the draft stage.
+Within states, Outlook found deletions concentrated in some city seats. Jubilee Hills in Hyderabad had 1,79,510 deletions, **83%** marked "shifted", and Bommanahalli in Bengaluru lost 54.8% of its electorate at the draft stage.
 
 ## What the Election Commission says
 
-The ECI's stated aim, in the Delhi Chief Electoral Officer's FAQ, is that "No eligible citizen is left out and no ineligible person is included in the Electoral Roll." Names are left off a draft when Booth Level Officers cannot collect an enumeration form, under the category of absent, shifted, dead or duplicate (ASDD). Jharkhand's 43.62 lakh exclusions, for instance, included 7.63 lakh dead, 15.92 lakh permanently shifted, 14.50 lakh untraceable and 4.38 lakh registered in more than one place, according to the state CEO's figures.
+The ECI's stated aim, in the Delhi Chief Electoral Officer's FAQ, is that "No eligible citizen is left out and no ineligible person is included in the Electoral Roll." Names are left off a draft when Booth Level Officers cannot collect an enumeration form, under the category of absent, shifted, dead or duplicate (ASDD). Jharkhand's **43.62 lakh** exclusions, for instance, included 7.63 lakh dead, 15.92 lakh permanently shifted, 14.50 lakh untraceable and 4.38 lakh registered in more than one place, according to the state CEO's figures.
 
-On October 2 the ECI called the claim that 13 crore voters had been removed from the rolls misleading. According to the report, the Commission said that figure counts electors marked absent, shifted, dead or duplicate at the draft stage across all SIR phases since June 2025, not names deleted from final rolls. It described the "vote chori" allegation as part of a misleading narrative and said about 2.37 crore voters aged 18 to 28 had been added since the SIR began.
+On October 2 the ECI called the claim that **13 crore voters** had been removed from the rolls misleading. According to the report, the Commission said that figure counts electors marked absent, shifted, dead or duplicate at the draft stage across all SIR phases since June 2025, not names deleted from final rolls. It described the "vote chori" allegation as part of a misleading narrative and said about 2.37 crore voters aged 18 to 28 had been added since the SIR began.
 
 ## What the opposition says
 

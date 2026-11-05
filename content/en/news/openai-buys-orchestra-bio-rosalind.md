@@ -35,7 +35,7 @@ sources:
     primary: false
 ---
 
-OpenAI has bought Orchestra Bio, a small start-up that builds AI agents for biotech companies, as the maker of ChatGPT pushes further into the business of discovering new medicines.
+OpenAI has bought **Orchestra Bio**, a small start-up that builds AI agents for biotech companies, as the maker of ChatGPT pushes further into the business of discovering new medicines.
 
 OpenAI announced the deal on its website overnight. It did not disclose the price.
 

@@ -43,26 +43,26 @@ verification:
     - "Yadav's quotes are as carried in English by ANI; likely translated from Hindi."
 ---
 
-Madhya Pradesh's cabinet on Thursday cleared proposals worth about ₹27,050 crore and set up a state-owned company to build an industrial corridor running from Jabalpur through Bhopal and Dewas to Indore.
+Madhya Pradesh's cabinet on Thursday cleared proposals worth about **₹27,050 crore** and set up a state-owned company to build an industrial corridor running from Jabalpur through Bhopal and Dewas to Indore.
 
 Chief Minister Mohan Yadav, who chaired the meeting at the state secretariat in Bhopal, said he would head the company's governing council himself. "I will personally chair the company's Governing Council to ensure swift decision-making," he said.
 
 ## A company for the corridor
 
-The new company sits under the industries department and is fully owned by the state, with initial share capital of ₹100 crore. It will develop industrial parks, logistics hubs, agro-processing units, IT parks and space for global capability centres, along with housing and social infrastructure for the people who will work there. It will also hold land management and zoning powers inside the hubs it builds.
+The new company sits under the industries department and is fully owned by the state, with initial share capital of **₹100 crore**. It will develop industrial parks, logistics hubs, agro-processing units, IT parks and space for global capability centres, along with housing and social infrastructure for the people who will work there. It will also hold land management and zoning powers inside the hubs it builds.
 
 "In the first phase of the project, plans are underway to develop around 10,000 acres of land," Yadav said. The first phase is to have three to five main hubs, starting with the Jabalpur-Narsinghpur-Raisen-Bhopal belt.
 
-The government expects the corridor to draw more than ₹3 lakh crore of investment and create over 6 lakh jobs within three years of full development. It has an earlier target of ₹1 lakh crore and 3 lakh jobs by March 2028. The plan assigns each district a role: defence production, engineering and mining in Jabalpur, food processing and warehousing in Narsinghpur and Raisen, IT and electronics in Bhopal, and advanced manufacturing and logistics around Indore, Dewas, Ujjain and Sehore.
+The government expects the corridor to draw more than ₹3 lakh crore of investment and create over **6 lakh** jobs within three years of full development. It has an earlier target of ₹1 lakh crore and 3 lakh jobs by March 2028. The plan assigns each district a role: defence production, engineering and mining in Jabalpur, food processing and warehousing in Narsinghpur and Raisen, IT and electronics in Bhopal, and advanced manufacturing and logistics around Indore, Dewas, Ujjain and Sehore.
 
 ## Soybean farmers and schools
 
 The cabinet approved the Bhavantar Bhugtan Yojana for soybean growers this kharif season, under the Centre's PM-AASHA scheme. Farmers have to register on the e-Uparjan portal by October 17, and sales at notified mandis will count from October 22, 2026, to January 15, 2027.
 
-For schools, ministers cleared ₹241.88 crore for bus services for students at 94 Sandipani schools run by the tribal affairs department. The yearly transport allowance per student goes up from ₹10,000 to ₹21,000, with a 5% rise each year, and district collectors will now decide bus operations and fares. A further ₹2,875.20 crore will go to building and expanding government schools, hostels, libraries and residential sports facilities.
+For schools, ministers cleared **₹241.88 crore** for bus services for students at 94 Sandipani schools run by the tribal affairs department. The yearly transport allowance per student goes up from ₹10,000 to ₹21,000, with a 5% rise each year, and district collectors will now decide bus operations and fares. A further ₹2,875.20 crore will go to building and expanding government schools, hostels, libraries and residential sports facilities.
 
 ## The rest of the list
 
-The biggest single item, ₹15,557.35 crore, is for continuing schemes of the law and legislative affairs department over the 16th Finance Commission period, from April 2026 to March 2031. AYUSH colleges and hospitals get ₹3,535 crore, and the National AYUSH Mission another ₹1,697.62 crore.
+The biggest single item, **₹15,557.35 crore**, is for continuing schemes of the law and legislative affairs department over the 16th Finance Commission period, from April 2026 to March 2031. AYUSH colleges and hospitals get ₹3,535 crore, and the National AYUSH Mission another ₹1,697.62 crore.
 
 Continuing irrigation projects in Burhanpur, Raisen, Mandsaur and Singrauli were given ₹3,076.37 crore, among them the Chitrangi micro-irrigation project in Singrauli and the Barna project in Raisen. The State Information Commission gets ₹71.81 crore, and the women and child development department gets 24 new posts and 12 redeployed ones for offices in the new districts of Niwari, Mauganj, Pandhurna and Maihar.

@@ -50,21 +50,21 @@ verification:
     - "Exact filing time not found; published time set before the 3:06 pm Kotak Neo post."
 ---
 
-Axis Bank's net profit rose 38% to ₹7,003 crore in the July-September quarter, up from ₹5,089 crore a year earlier, though the figure came in below what analysts had expected. Brokerages had pencilled in growth of 37-43% before the results.
+Axis Bank's net profit rose **38% to ₹7,003 crore** in the July-September quarter, up from ₹5,089 crore a year earlier, though the figure came in below what analysts had expected. Brokerages had pencilled in growth of 37-43% before the results.
 
-Net interest income rose 12% to ₹15,371 crore and the net interest margin was 3.36%. Analysts had warned that the bank's margin could slip by 7-12 basis points from the June quarter as it took in large foreign currency deposits.
+Net interest income rose **12%** to ₹15,371 crore and the net interest margin was 3.36%. Analysts had warned that the bank's margin could slip by 7-12 basis points from the June quarter as it took in large foreign currency deposits.
 
 ## Lending picks up
 
-The bank's advances grew 23% from a year earlier and 9% from June. Operating profit rose 6% to ₹11,083 crore. Core operating profit grew 11% to ₹10,998 crore.
+The bank's advances grew **23%** from a year earlier and 9% from June. Operating profit rose 6% to ₹11,083 crore. Core operating profit grew 11% to ₹10,998 crore.
 
-Provisions and contingencies came to ₹1,694 crore, of which ₹1,564 crore was set aside for specific bad loans. The bank holds ₹15,860 crore of standard and additional provisions on top of what it carries against non-performing loans.
+Provisions and contingencies came to **₹1,694 crore**, of which ₹1,564 crore was set aside for specific bad loans. The bank holds ₹15,860 crore of standard and additional provisions on top of what it carries against non-performing loans.
 
 Asset quality improved. The gross NPA ratio fell 30 basis points from a year earlier to 1.16%, and the net NPA ratio to 0.35%. The net slippage ratio, a measure of fresh bad loans, eased to 0.75%.
 
 ## Dollars from abroad
 
-Like HDFC Bank and ICICI Bank, Axis leaned on foreign currency non-resident (FCNR-B) deposits during the quarter. It had raised $10.62 billion by September 30 and issued $4.69 billion of standby letters of credit to other lenders against loans backed by those deposits.
+Like HDFC Bank and ICICI Bank, Axis leaned on foreign currency non-resident (FCNR-B) deposits during the quarter. It had raised **$10.62 billion** by September 30 and issued $4.69 billion of standby letters of credit to other lenders against loans backed by those deposits.
 
 Part of the money went to replace bulk deposits from companies and institutions. Non-retail term deposits fell 8.6% from the June quarter.
 

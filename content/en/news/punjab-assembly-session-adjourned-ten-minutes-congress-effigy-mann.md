@@ -43,7 +43,7 @@ verification:
     - "Batala activist spelled Bikramjit Singh as in Tribune (AIR earlier spelled Vikramjit)."
 ---
 
-The Punjab Vidhan Sabha's six-day session opened on Thursday and was adjourned within 10 minutes, after the House paid tributes to the dead. Outside, Congress legislators set fire to an effigy of Chief Minister Bhagwant Mann and accused his government of losing control over gangsters and the drug trade.
+The Punjab Vidhan Sabha's six-day session opened on Thursday and was adjourned **within 10 minutes**, after the House paid tributes to the dead. Outside, Congress legislators set fire to an effigy of Chief Minister Bhagwant Mann and accused his government of losing control over gangsters and the drug trade.
 
 Speaker Kultar Singh Sandhwan announced that the House would meet again on Friday. Non-official business, listed for after the obituary references, was not taken up.
 

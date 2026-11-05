@@ -72,15 +72,15 @@ verification:
     - "Research figure of 40.58 lakh pattadar passbooks left out as not relevant."
 ---
 
-The Andhra Pradesh High Court on October 1 struck down the state's new reservation for Backward Classes (BCs) in local body elections, holding that it pushed total reservation beyond the 50% ceiling set by the Supreme Court. Eight days later, the Supreme Court refused to interfere.
+The Andhra Pradesh High Court on October 1 struck down the state's new reservation for Backward Classes (BCs) in local body elections, holding that it pushed total reservation beyond the **50% ceiling** set by the Supreme Court. Eight days later, the Supreme Court refused to interfere.
 
-A division bench of Chief Justice Lisa Gill and Justice Challa Gunaranjan quashed two government orders: G.O.Ms.No.105 of the Panchayat Raj Department, giving BCs 34% of seats in rural local bodies, and G.O.Ms.No.1065 of the Municipal Administration Department, giving them 33.33% in urban local bodies. Chief Minister N. Chandrababu Naidu had announced the quotas on August 18.
+A division bench of Chief Justice Lisa Gill and Justice Challa Gunaranjan quashed two government orders: G.O.Ms.No.105 of the Panchayat Raj Department, giving BCs **34%** of seats in rural local bodies, and G.O.Ms.No.1065 of the Municipal Administration Department, giving them 33.33% in urban local bodies. Chief Minister N. Chandrababu Naidu had announced the quotas on August 18.
 
 ## What the High Court said
 
 The bench held that the state could provide BC reservation within the 50% limit after collecting empirical data, following the Supreme Court's rulings in Vikas Kishanrao Gawali and Janhit Abhiyan. It found that data from the state's Unified Family Survey could not justify reservation above 50%, because the government lacked scientifically generated data for that purpose.
 
-The state had relied on that survey, which put the BC population at about 50.42%, and on a study by a commission headed by retired IAS officer Rajiv Ranjan Mishra. The court said it was not examining the legality of the commission's constitution, since its formation had not been challenged.
+The state had relied on that survey, which put the BC population at about **50.42%**, and on a study by a commission headed by retired IAS officer Rajiv Ranjan Mishra. The court said it was not examining the legality of the commission's constitution, since its formation had not been challenged.
 
 The court directed the government and the State Election Commission to start the election process within six weeks. The terms of gram panchayats, municipalities and municipal corporations ended in March and April. It held that the Election Commission of India's Special Intensive Revision of electoral rolls was no bar to the polls.
 
@@ -96,11 +96,11 @@ The state filed a special leave petition on October 3. On October 9 a bench of J
 
 "Under what law is this being made?" Justice Datta asked during the hearing, before saying "Dismissed". He described the High Court's ruling as a "very reasonable approach by the High Court".
 
-This is not the first such ruling in the state. On March 2, 2020, the High Court set aside G.O.Ms.No.176, under which total local body reservation had reached 59.85%.
+This is not the first such ruling in the state. On March 2, 2020, the High Court set aside G.O.Ms.No.176, under which total local body reservation had reached **59.85%**.
 
 ## Government and party responses
 
-Before the hearing, Union Minister Ram Mohan Naidu said the state had placed adequate data before the court to justify going past 50%, and that the quota would have secured about 16,800 local posts for BC candidates.
+Before the hearing, Union Minister Ram Mohan Naidu said the state had placed adequate data before the court to justify going past **50%**, and that the quota would have secured about 16,800 local posts for BC candidates.
 
 After the dismissal, Chief Minister Naidu said the NDA would give BC candidates 34% of its seats in the local body polls. "Nevertheless, the NDA alliance will allocate 34 per cent of the seats to them," he said at Narsingolu in Prakasam district on October 9. He added: "We implemented numerous changes to uplift them politically, economically, and socially." He accused the YSR Congress Party of going to court to block the earlier increase.
 

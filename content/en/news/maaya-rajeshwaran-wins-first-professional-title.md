@@ -41,9 +41,9 @@ verification:
     - "Nadal Academy departure is in the headline only; details not read, so not used."
 ---
 
-Maaya Rajeshwaran won her first professional singles title on Sunday, beating Spain's Celia Cerviño Ruiz 6-4, 6-2 in the final of the ITF W35 tournament in Lagos.
+Maaya Rajeshwaran won her first professional singles title on Sunday, beating Spain's Celia Cerviño Ruiz 6-4, 6-2 in the final of the **ITF W35** tournament in Lagos.
 
-At 17 years and three months, she becomes the youngest Indian woman to win a professional singles title. She came through qualifying and did not drop a set all week, then completed a double by winning the doubles with Ukraine's Yelyzaveta Kotliar.
+At 17 years and three months, she becomes the youngest Indian woman to win a professional singles title. She came through qualifying and **did not drop a set** all week, then completed a double by winning the doubles with Ukraine's Yelyzaveta Kotliar.
 
 ## From 0-5 down to the title
 

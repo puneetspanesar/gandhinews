@@ -50,16 +50,16 @@ verification:
 
 Gold ended Friday close to where it began the week, recovering most of a sharp mid-week fall after the head of the US Federal Reserve gave no hint that an interest rate rise was coming this month.
 
-Spot gold closed near $4,166 an ounce, down 0.11% on the day. December gold futures on the COMEX exchange in New York settled around $4,187. The metal had dropped towards $4,073 on October 14 after hotter-than-expected US inflation figures, then gained 1.6% on Thursday as the dollar and bond yields eased. It still finished the week slightly lower.
+Spot gold closed near **$4,166 an ounce**, down 0.11% on the day. December gold futures on the COMEX exchange in New York settled around $4,187. The metal had dropped towards $4,073 on October 14 after hotter-than-expected US inflation figures, then gained 1.6% on Thursday as the dollar and bond yields eased. It still finished the week slightly lower.
 
 ## What the Fed chair left out
 
-Fed Chair Kevin Warsh, speaking at the IMF meetings in Bangkok, declined to say what the central bank would decide when it meets on October 27-28. Traders read that as a sign the Fed was in no hurry. The chance of an October rise priced in money markets fell to roughly 10-16%, from close to 60% just after the inflation report. A rise in December is still seen as very likely, at about 89%.
+Fed Chair Kevin Warsh, speaking at the IMF meetings in Bangkok, declined to say what the central bank would decide when it meets on October 27-28. Traders read that as a sign the Fed was in no hurry. The chance of an October rise priced in money markets fell to **roughly 10-16%**, from close to 60% just after the inflation report. A rise in December is still seen as very likely, at about 89%.
 
 "Perhaps the most important thing was what (Warsh) didn't say," said Jim Reid of Deutsche Bank.
 
-Higher rates usually hurt gold, which pays no interest. The 10-year US Treasury yield edged up about 3 basis points on Friday to 5.106%, while the dollar index slipped about 0.1% to 101.87.
+Higher rates usually hurt gold, which pays no interest. The 10-year US Treasury yield edged up about 3 basis points on Friday to **5.106%**, while the dollar index slipped about 0.1% to 101.87.
 
 Fed officials are now in their quiet period before the meeting, so there will be no speeches to move prices. The main US data point next week is the preliminary purchasing managers' survey for October, due on Friday. Oil near $110 a barrel works in both directions: it feeds inflation fears that support gold as a hedge, but also raises the odds of tighter policy.
 
-In India, December gold on the Multi Commodity Exchange was quoted at ₹1,48,429 per 10 grams late in Friday's session.
+In India, December gold on the Multi Commodity Exchange was quoted at **₹1,48,429** per 10 grams late in Friday's session.

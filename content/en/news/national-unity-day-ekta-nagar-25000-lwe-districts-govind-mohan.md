@@ -36,7 +36,7 @@ verification:
     - "'Keralam-related elements' in source unclear; cultural programme described only as Kuchipudi, Mohiniyattam and a play."
 ---
 
-About 25,000 people are expected at Ekta Nagar in Gujarat for National Unity Day on October 31, including some 5,000 from districts affected by Left-wing extremism, Union Home Secretary Govind Mohan said on Wednesday.
+About **25,000 people** are expected at Ekta Nagar in Gujarat for National Unity Day on October 31, including some 5,000 from districts affected by Left-wing extremism, Union Home Secretary Govind Mohan said on Wednesday.
 
 Speaking at a conference in New Delhi, Mohan said this year's celebrations of Sardar Vallabhbhai Patel's birth anniversary would mark the end of Left-wing extremism, though national unity would remain the central theme.
 

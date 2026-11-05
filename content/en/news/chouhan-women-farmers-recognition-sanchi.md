@@ -60,4 +60,4 @@ He announced a pilot in Raisen and Vidisha districts to connect every family in 
 
 ## Roads and houses
 
-The minister laid foundation stones for 46 roads under the Pradhan Mantri Gram Sadak Yojana. On housing, he said 5,035 houses were sanctioned in the Sanchi assembly constituency in 2024-25 and 3,081 in 2025-26, along with 218 under PM JANMAN and 246 under the Dharti Aaba Janjatiya Gram Utkarsh Abhiyan. A recent survey found that 22,477 more houses are needed in the area.
+The minister laid foundation stones for **46 roads** under the Pradhan Mantri Gram Sadak Yojana. On housing, he said 5,035 houses were sanctioned in the Sanchi assembly constituency in 2024-25 and 3,081 in 2025-26, along with 218 under PM JANMAN and 246 under the Dharti Aaba Janjatiya Gram Utkarsh Abhiyan. A recent survey found that 22,477 more houses are needed in the area.

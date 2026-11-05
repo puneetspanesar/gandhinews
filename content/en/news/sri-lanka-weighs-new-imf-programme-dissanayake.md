@@ -34,7 +34,7 @@ verification:
     - "The 'about six months' remaining on the current IMF arrangement is the article's paraphrase of the President."
 ---
 
-Sri Lanka has not ruled out signing up for another International Monetary Fund programme when its current bailout ends, President Anura Kumara Dissanayake said on Monday, but any new deal would have to be built around economic growth.
+Sri Lanka has **not ruled out** signing up for another International Monetary Fund programme when its current bailout ends, President Anura Kumara Dissanayake said on Monday, but any new deal would have to be built around economic growth.
 
 Speaking at a discussion organised by the Ceylon Chamber of Commerce, Dissanayake said the government had made no final decision. It has neither decided to walk away from the IMF nor committed itself to a fresh programme, he said, and will use the roughly six months left on the current arrangement to weigh its options.
 
@@ -48,4 +48,4 @@ The final choice, he said, would depend on how the economy is placed, the streng
 
 ## The cost of the Middle East war
 
-Dissanayake pointed to one such shock already under way. If the current trend continues, he warned, Sri Lanka's spending on fuel imports could reach about $6 billion in 2026, against about $4.4 billion in 2025. He blamed the conflict in the Middle East.
+Dissanayake pointed to one such shock already under way. If the current trend continues, he warned, Sri Lanka's spending on fuel imports could reach about **$6 billion** in 2026, against about $4.4 billion in 2025. He blamed the conflict in the Middle East.

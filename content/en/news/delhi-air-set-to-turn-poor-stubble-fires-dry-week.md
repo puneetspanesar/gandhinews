@@ -76,7 +76,7 @@ The city's 24-hour average Air Quality Index (AQI) stood at 139, in the moderate
 
 ## Cold nights, still air
 
-The early chill is part of the problem. Safdarjung recorded 17.1 degrees Celsius on Monday morning, 1.3 degrees below the seasonal average and the lowest minimum of the month so far. The India Meteorological Department expects mainly clear, dry weather until October 25, with maximum temperatures of 32 to 34 degrees and minimums of 19 to 21 degrees, and no rain for Delhi.
+The early chill is part of the problem. Safdarjung recorded **17.1 degrees** Celsius on Monday morning, 1.3 degrees below the seasonal average and the lowest minimum of the month so far. The India Meteorological Department expects mainly clear, dry weather until October 25, with maximum temperatures of 32 to 34 degrees and minimums of 19 to 21 degrees, and no rain for Delhi.
 
 Without rain to wash the air, there is little to break the build-up. The weekend had already given a taste: on Sunday the AQI was 187, at the top of the moderate range, and 22 monitoring locations recorded poor air.
 
@@ -84,7 +84,7 @@ Without rain to wash the air, there is little to break the build-up. The weekend
 
 Smoke from crop residue burning is starting to add to the load. Satellite monitoring by the Indian Agricultural Research Institute counted 98 farm fire events on October 19, with 27 in Uttar Pradesh, 25 in Punjab, 24 in Rajasthan, 18 in Uttarakhand and 4 in Madhya Pradesh.
 
-The Commission for Air Quality Management has deployed flying squads in 34 districts of Punjab and Haryana from October 1 to November 30 to check stubble burning.
+The Commission for Air Quality Management has deployed flying squads in **34 districts** of Punjab and Haryana from October 1 to November 30 to check stubble burning.
 
 ## A bad start to the season
 

@@ -39,7 +39,7 @@ verification:
     - "Senate debate could start Tuesday, Oct 27 per Senate president Higinio Martinez."
 ---
 
-Mexico's freight truckers plan to begin an indefinite strike on Monday, saying years of highway robbery, extortion and crumbling roads have pushed them to the limit, and that a tax change in next year's budget is the last straw.
+Mexico's freight truckers plan to begin an indefinite strike on Monday, saying years of **highway robbery**, extortion and crumbling roads have pushed them to the limit, and that a tax change in next year's budget is the last straw.
 
 The national cargo chamber Canacar is leading the stoppage, joined by groups including Hamotac, Fematrac and Indeco. Organisers say they will protest on the move rather than block highways or toll plazas, though some closures are still possible.
 
@@ -49,4 +49,4 @@ Besides crime on the roads, their complaints include heavy regulation and shrink
 
 The interior ministry said on Friday that it "recognises the drivers' concerns" and offered talks, asking the groups to put dialogue first so that the public and the movement of goods would not suffer. The organisers have asked President Claudia Sheinbaum to step in, but no meeting had been announced by Saturday.
 
-Canacar president Augusto Ramos Melo and Hamotac leader Carlos García Álvarez are among those behind the action. Organisers expect about 10 lakh trucks to take part; how many actually join will become clear only once the strike starts.
+Canacar president Augusto Ramos Melo and Hamotac leader Carlos García Álvarez are among those behind the action. Organisers expect about **10 lakh trucks** to take part; how many actually join will become clear only once the strike starts.

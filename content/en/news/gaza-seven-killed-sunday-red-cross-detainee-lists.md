@@ -46,7 +46,7 @@ Israeli strikes killed seven Palestinians across the Gaza Strip on Sunday, hospi
 
 Two strikes in Gaza City killed four people. Two brothers were killed in Khan Younis in the south and one person in Deir al-Balah, in the centre of the territory. The deaths were confirmed by officials at Shifa, Hamad, Nasser and Al-Aqsa hospitals and at an American field hospital. The Israeli military did not immediately comment.
 
-Gaza's health ministry, which is run by Hamas, says more than 1,500 Palestinians have now been killed since the ceasefire took effect. It does not separate civilians from fighters but says women and children make up nearly half of the dead.
+Gaza's health ministry, which is run by Hamas, says **more than 1,500** Palestinians have now been killed since the ceasefire took effect. It does not separate civilians from fighters but says women and children make up nearly half of the dead.
 
 ## Names, but no visits
 

@@ -61,9 +61,9 @@ verification:
 
 When YES Bank was rescued in March 2020, the Reserve Bank of India was praised for moving fast. The bank did not collapse, and State Bank of India and other lenders put in money. On Thursday the Supreme Court looked at the same episode from the side of the people who lost out, and its judgment reads very differently.
 
-A bench of Justices Dipankar Datta and Augustine George Masih upheld the Bombay High Court's decision to quash the write-off of ₹8,415 crore of the bank's Additional Tier-1 (AT-1) bonds. The administrator appointed by the RBI, the court held, wiped out the bonds a day after the rescue scheme came into force, when he no longer had the power to do so. The Centre had earlier dropped the write-off from the final scheme after investors objected.
+A bench of Justices Dipankar Datta and Augustine George Masih upheld the Bombay High Court's decision to quash the write-off of **₹8,415 crore** of the bank's Additional Tier-1 (AT-1) bonds. The administrator appointed by the RBI, the court held, wiped out the bonds a day after the rescue scheme came into force, when he no longer had the power to do so. The Centre had earlier dropped the write-off from the final scheme after investors objected.
 
-The sharper words were for the regulator. The court said the RBI had stood by as a "mere bystander" while the bank was run clandestinely and its core capital ratio slid to 0.6%. It found that the bank had sold the bonds to individual customers despite RBI rules restricting such instruments for retail investors, and pointed to a 2016 email in which a manager in its Chennai office offered them to ordinary clients. The handling of the bonds by the RBI, the administrator and the bank was, the court said, "to put it mildly, questionable".
+The sharper words were for the regulator. The court said the RBI had stood by as a "mere bystander" while the bank was run clandestinely and its core capital ratio slid to **0.6%**. It found that the bank had sold the bonds to individual customers despite RBI rules restricting such instruments for retail investors, and pointed to a 2016 email in which a manager in its Chennai office offered them to ordinary clients. The handling of the bonds by the RBI, the administrator and the bank was, the court said, "to put it mildly, questionable".
 
 ## The fair defence
 
@@ -75,9 +75,9 @@ All of that may be true, and it still leaves the larger failure unexplained. The
 
 First, it should speak. So far the RBI has not commented on the judgment. A regulator that has been criticised by the country's highest court in such terms owes the public a statement of what it accepts, what it disputes and what it will change.
 
-Second, it should commission and publish a review of how AT-1 bonds and similar products reached individual customers through bank branches, across the system and not only at YES Bank. The Securities and Exchange Board of India acted in 2020, restricting new AT-1 issues to institutional buyers with a minimum lot of ₹1 crore, and penalised the bank and former officials for mis-selling. The banking regulator has offered no matching account.
+Second, it should commission and publish a review of how AT-1 bonds and similar products reached individual customers through bank branches, across the system and not only at YES Bank. The Securities and Exchange Board of India acted in 2020, restricting new AT-1 issues to institutional buyers with a minimum lot of **₹1 crore**, and penalised the bank and former officials for mis-selling. The banking regulator has offered no matching account.
 
-Third, banks should be barred outright from selling their own loss-absorbing capital instruments to their depositors. A relationship manager who looks after a pensioner's savings should not be pitching that pensioner the bank's riskiest paper.
+Third, banks should be barred outright from **selling their own loss-absorbing** capital instruments to their depositors. A relationship manager who looks after a pensioner's savings should not be pitching that pensioner the bank's riskiest paper.
 
 Fourth, the RBI should set out, in a public rulebook, who may write down a bank's bonds, at what point, and through what steps. The YES Bank case was lost on exactly that point.
 

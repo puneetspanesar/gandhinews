@@ -54,7 +54,7 @@ verification:
     - "Recommendations are the desk's own."
 ---
 
-In a series of drives over the past few days, Assam has cleared more than 638 hectares of reserved forest in Golaghat, Hojai and Nagaon, and about 1,000 families have lost their homes. Chief Minister Himanta Biswa Sarma announced the result in his own words: "The 'Rudra Roop' of our administration befell upon encroachers in three districts." The cleared land in the Lutumari, Borpani and Jamuna-Moudanga forests is to be planted with trees.
+In a series of drives over the past few days, Assam has cleared **more than 638 hectares** of reserved forest in Golaghat, Hojai and Nagaon, and about 1,000 families have lost their homes. Chief Minister Himanta Biswa Sarma announced the result in his own words: "The 'Rudra Roop' of our administration befell upon encroachers in three districts." The cleared land in the Lutumari, Borpani and Jamuna-Moudanga forests is to be planted with trees.
 
 What the government has not announced is where the families are to go.
 
@@ -68,7 +68,7 @@ Eviction drives are also a central part of the Sarma government's programme. Tha
 
 Two things, chiefly. The first is a plan for people. Minority rights groups have asked for rehabilitation for those uprooted in Golaghat, Hojai and Nagaon. That is not an unreasonable demand, and the government has already accepted the principle. In July 2025 Sarma said the state would give land rights to evicted people who are "bona fide Indian citizens" and landless in their native places. The same High Court order he cited also said that people being evicted should be given drinking water and other essentials. Neither commitment means much unless the state says, drive by drive, who qualifies, how many have been resettled and where.
 
-The second is process. In November 2024 the Supreme Court laid down rules for demolitions across the country: a show cause notice, at least 15 days to respond, a personal hearing, a reasoned order and video recording of the demolition itself. The court excluded structures on roads, footpaths, railway lines and water bodies, and demolitions ordered by a court, so its directions may not bind every forest drive. Their spirit should apply all the same. The Congress has alleged that in earlier drives houses were brought down within two or three days of notice. The government can settle that charge best by showing its paperwork.
+The second is process. In November 2024 the Supreme Court laid down rules for demolitions across the country: a show cause notice, at least **15 days** to respond, a personal hearing, a reasoned order and video recording of the demolition itself. The court excluded structures on roads, footpaths, railway lines and water bodies, and demolitions ordered by a court, so its directions may not bind every forest drive. Their spirit should apply all the same. The Congress has alleged that in earlier drives houses were brought down within two or three days of notice. The government can settle that charge best by showing its paperwork.
 
 ## What Assam should do
 

@@ -44,11 +44,11 @@ verification:
 
 The Supreme Court has accused the Reserve Bank of India of standing by as a "mere bystander" while YES Bank was run in a clandestine manner, in a judgment that also found the bank had pushed risky Additional Tier-1 (AT-1) bonds on individual investors.
 
-The detailed judgment, delivered on Thursday, explains why a bench of Justices Dipankar Datta and Augustine George Masih threw out appeals by YES Bank, the RBI and the Centre. The bench upheld the Bombay High Court's decision to quash the March 2020 write-down of ₹8,415 crore of AT-1 bonds during the bank's rescue.
+The detailed judgment, delivered on Thursday, explains why a bench of Justices Dipankar Datta and Augustine George Masih threw out appeals by YES Bank, the RBI and the Centre. The bench upheld the Bombay High Court's decision to quash the March 2020 write-down of **₹8,415 crore** of AT-1 bonds during the bank's rescue.
 
 ## The regulator in the dock
 
-The bench was sharp about the RBI's oversight. It said the regulator allowed the bank's common equity Tier-1 ratio, the core measure of a lender's capital, to slide to 0.6% while the bank's business was conducted clandestinely. The way the RBI, the administrator and YES Bank dealt with the bonds was, the court said, "to put it mildly, questionable".
+The bench was sharp about the RBI's oversight. It said the regulator allowed the bank's common equity Tier-1 ratio, the core measure of a lender's capital, to slide to **0.6%** while the bank's business was conducted clandestinely. The way the RBI, the administrator and YES Bank dealt with the bonds was, the court said, "to put it mildly, questionable".
 
 It also found that YES Bank sold the bonds to individuals even though RBI rules restricted such high-risk instruments for retail investors. The judgment points to an email dated December 28, 2016, in which a senior manager and financial adviser at the bank's Chennai office offered the bonds to individual customers. Tighter scrutiny should have come before such securities were pushed on ordinary investors, the bench said, noting that irregularities at the bank had surfaced earlier and that criminal cases had been started against some of its staff.
 
@@ -62,4 +62,4 @@ The bench did not rule out AT-1 write-downs as such. It said the regulatory fram
 
 ## What it means now
 
-For bondholders, the ruling closes the legal question: the write-down is void. How and when they are paid is a matter for the bank. Its shares fell as much as 20% on Thursday when the outcome became known. YES Bank reports its July to September results on Saturday, October 17, and investors expect it to say how it will deal with the liability. Neither the bank nor the RBI had commented on the judgment by Friday morning.
+For bondholders, the ruling closes the legal question: the write-down is void. How and when they are paid is a matter for the bank. Its shares fell as much as **20%** on Thursday when the outcome became known. YES Bank reports its July to September results on Saturday, October 17, and investors expect it to say how it will deal with the liability. Neither the bank nor the RBI had commented on the judgment by Friday morning.

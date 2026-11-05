@@ -46,6 +46,6 @@ Shah was last in the state on September 30, when he addressed a rally in Jalandh
 
 ## Mansa in the background
 
-The visit comes as protests continue in Mansa over the killing of anti-drug activist Parvinder Singh Jhota, who was shot dead in broad daylight on October 13 inside a medical store in a crowded market. Jhota had objected to chemists selling addictive substances. The store owner, Ashwani Kumar, is accused of opening fire after Jhota confronted him for selling such drugs to an elderly man. Police arrested him in Salasar, Rajasthan.
+The visit comes as protests continue in Mansa over the **killing of anti-drug activist Parvinder Singh Jhota**, who was shot dead in broad daylight on October 13 inside a medical store in a crowded market. Jhota had objected to chemists selling addictive substances. The store owner, Ashwani Kumar, is accused of opening fire after Jhota confronted him for selling such drugs to an elderly man. Police arrested him in Salasar, Rajasthan.
 
 On Friday, Shah said the Centre would seek the Punjab government's response on Jhota's killing and on a separate case in Dirba, where a father allegedly took poison under pressure.

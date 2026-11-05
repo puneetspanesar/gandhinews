@@ -47,7 +47,7 @@ Pina Picierno, a vice-president of the European Parliament, has ended the hunger
 
 Ukraine's human rights ombudsman, Dmytro Lubinets, who announced the agreement, told her of it directly. "It is time to act together, so that diplomacy delivers concrete results and no one is left to die in silence," Picierno said.
 
-Oleshky lies across the Dnipro river from Kherson. About 2,000 civilians are still there, with Russian troops reported to be blocking aid and people who try to flee along mined roads often targeted by drones. Pope Leo XIV had called for a ceasefire in the town after a phone call with Vladimir Putin on October 16.
+Oleshky lies across the Dnipro river from Kherson. About **2,000 civilians** are still there, with Russian troops reported to be blocking aid and people who try to flee along mined roads often targeted by drones. Pope Leo XIV had called for a ceasefire in the town after a phone call with Vladimir Putin on October 16.
 
 The truce, facilitated by US first lady Melania Trump after talks with both sides, is due to start on October 27 to allow "humanitarian aid deliveries and the evacuation of the civilian population". The road into the town is to be cleared of mines, and food, water, medicine and medical equipment brought in. Civilians who want to leave will be given transport, and Melania Trump said she expected some to go to Russia and some to Ukraine.
 

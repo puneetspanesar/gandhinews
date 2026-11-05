@@ -53,7 +53,7 @@ Pakistan's prime minister, Shehbaz Sharif, has said his government had no choice
 
 His remarks, reported on Sunday morning, were the government's most direct defence yet of the takeover, which came as the Pakistan Tehreek-e-Insaf (PTI), Imran Khan's party, prepared a long march on the capital.
 
-Mr Sharif said his government had talked to the PTI for about 48 hours to head off the march, and that he had held several meetings with the province's chief minister, Sohail Afridi, before the talks collapsed. An advisory council, which he described as neutral and largely non-political, will help run the province during the two-month interim arrangement, and he said he would attend its meetings.
+Mr Sharif said his government had talked to the PTI for about **48 hours** to head off the march, and that he had held several meetings with the province's chief minister, Sohail Afridi, before the talks collapsed. An advisory council, which he described as neutral and largely non-political, will help run the province during the two-month interim arrangement, and he said he would attend its meetings.
 
 He also tied the decision to security, saying the federal government would provide "all available resources and administrative facilities" to fight terrorism, and pointing to militancy and infiltration from Afghanistan since 2018.
 

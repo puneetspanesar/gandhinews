@@ -78,17 +78,17 @@ verification:
 
 Luiz Inácio Lula da Silva has won a record fourth term as Brazil's president, coming from behind to beat Senator Flávio Bolsonaro in Sunday's runoff after one of the tightest and most fraught counts in the country's recent history.
 
-With 89.74% of polling stations counted, the Superior Electoral Court's figures gave Lula, of the Workers' Party (PT), 51.56% of valid votes, or 57,206,365. Flávio Bolsonaro, of the Liberal Party (PL) and the son of former president Jair Bolsonaro, had 48.44%, or 53,754,103. That left Lula about 3.45 million votes ahead with only a tenth of stations still to report. Turnout was 80.97%.
+With **89.74%** of polling stations counted, the Superior Electoral Court's figures gave Lula, of the Workers' Party (PT), 51.56% of valid votes, or 57,206,365. Flávio Bolsonaro, of the Liberal Party (PL) and the son of former president Jair Bolsonaro, had 48.44%, or 53,754,103. That left Lula about 3.45 million votes ahead with only a tenth of stations still to report. Turnout was 80.97%.
 
-The result upends the first round on October 4, when Flávio Bolsonaro finished first with 47.03% to Lula's 45.16%. The last polls before the runoff, by Datafolha and Genial/Quaest, both had him at 51% to Lula's 49%. Pollsters said on Sunday night that a higher than expected turnout appeared to have helped the president. Nearly 159 million Brazilians were eligible to vote.
+The result upends the first round on October 4, when Flávio Bolsonaro finished first with **47.03%** to Lula's 45.16%. The last polls before the runoff, by Datafolha and Genial/Quaest, both had him at 51% to Lula's 49%. Pollsters said on Sunday night that a higher than expected turnout appeared to have helped the president. Nearly 159 million Brazilians were eligible to vote.
 
 Neither candidate's reaction to the result was available at the time of writing.
 
 ## A night of lead changes
 
-The count swung back and forth for most of the evening. Flávio Bolsonaro edged ahead in the early returns and was still in front, narrowly, with more than a third of stations counted. Lula moved ahead at about the halfway mark as returns from the north-eastern states, his stronghold, came in. In Bahia, partial results gave him more than 70%; in São Paulo Flávio Bolsonaro had about 57%.
+The count swung back and forth for most of the evening. Flávio Bolsonaro edged ahead in the early returns and was still in front, narrowly, with more than a third of stations counted. Lula moved ahead at about the halfway mark as returns from the north-eastern states, his stronghold, came in. In Bahia, partial results gave him more than **70%**; in São Paulo Flávio Bolsonaro had about 57%.
 
-Lula's lead then widened steadily. Overseas votes also went his way, by about 58% to 42%.
+Lula's lead then widened steadily. Overseas votes also went his way, by about **58%** to 42%.
 
 ## A row over the voting hours
 

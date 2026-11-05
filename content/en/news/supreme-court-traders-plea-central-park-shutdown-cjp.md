@@ -51,7 +51,7 @@ verification:
 
 Connaught Place traders took their complaint about the Cockroach Janta Party's protests to the Supreme Court on Friday morning, hours before the party's "Lehra Do Tiranga" gathering was due at Central Park. The court did not stop the protest, but said it was ready to step in if the authorities' response proved excessive.
 
-Advocate Jai Anant Dehadrai mentioned the plea before a bench of Chief Justice Surya Kant and Justice Joymalya Bagchi. He raised the losses traders say they have suffered during the protests against Chief Election Commissioner Gyanesh Kumar, and told the court the New Delhi Municipal Council had shut Central Park late on Thursday night. The NDMC had cited "administrative reasons" for closing the park on Friday and Saturday.
+Advocate Jai Anant Dehadrai mentioned the plea before a bench of Chief Justice Surya Kant and Justice Joymalya Bagchi. He raised the losses traders say they have suffered during the protests against Chief Election Commissioner Gyanesh Kumar, and told the court the New Delhi Municipal Council had **shut Central Park late on Thursday night**. The NDMC had cited "administrative reasons" for closing the park on Friday and Saturday.
 
 The bench noted that the Delhi High Court is already hearing a similar case. That plea, by a Palika Bazar garment vendor, is listed for November 3 after Delhi Police told the High Court they would take "all possible measures under the law".
 

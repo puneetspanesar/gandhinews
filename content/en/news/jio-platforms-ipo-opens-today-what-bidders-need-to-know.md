@@ -49,12 +49,12 @@ verification:
 
 The share sale of Jio Platforms, Reliance Industries' telecom and digital arm, opens to the public on Wednesday, and for most individual investors the entry ticket is modest.
 
-Bids can be placed in lots of 12 shares at a price band of ₹1,065 to ₹1,119 a share, so a single lot costs ₹13,428 at the top of the range. Small investors can bid for up to 14 lots. Above that, bids fall into the category for high net-worth individuals, which starts at 15 lots, or 180 shares.
+Bids can be placed in lots of 12 shares at a price band of **₹1,065** to ₹1,119 a share, so a single lot costs ₹13,428 at the top of the range. Small investors can bid for up to 14 lots. Above that, bids fall into the category for high net-worth individuals, which starts at 15 lots, or 180 shares.
 
 The issue closes on Friday, October 23. Shares are due to be allotted on October 26 and to list on the BSE and NSE on October 28.
 
-Two groups get special treatment. People who held Reliance Industries shares on or before October 13 can apply in a reserved shareholder category with bids of up to ₹2 lakh, and allotment in that category is proportionate. Jio employees get a discount of ₹54 a share.
+Two groups get special treatment. People who held Reliance Industries shares on or before October 13 can apply in a reserved shareholder category with bids of up to **₹2 lakh**, and allotment in that category is proportionate. Jio employees get a discount of ₹54 a share.
 
-The offer raises about ₹30,200 crore, all through new shares, which makes it the largest share sale in India. At the top of the band it values the company at about ₹10.3 lakh crore. Anchor investors, led by LIC, Capital Group and the Government of Singapore, took up ₹8,110 crore of shares on Monday at ₹1,119 each, after institutions bid more than 30 times the shares set aside for them.
+The offer raises about **₹30,200 crore**, all through new shares, which makes it the largest share sale in India. At the top of the band it values the company at about ₹10.3 lakh crore. Anchor investors, led by LIC, Capital Group and the Government of Singapore, took up ₹8,110 crore of shares on Monday at ₹1,119 each, after institutions bid more than 30 times the shares set aside for them.
 
 Wednesday is the first trading session since that anchor book closed. The stock exchanges were shut on Tuesday for Dussehra.

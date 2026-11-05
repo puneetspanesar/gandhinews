@@ -52,7 +52,7 @@ verification:
     - "NBA: Cavaliers at 76ers and Nuggets at Thunder scheduled Thursday night ET (landofbasketball), results not in by publication; omitted."
 ---
 
-India's two women left in the French Open singles draw, P V Sindhu and Ashmita Chaliha, play their quarter-finals in Paris on Friday, the headline act on a lighter day for Indian sport.
+India's two women left in the **French Open** singles draw, P V Sindhu and Ashmita Chaliha, play their quarter-finals in Paris on Friday, the headline act on a lighter day for Indian sport.
 
 Ashmita comes in on the back of the biggest win of her career, a 21-19, 21-18 defeat of Japan's third seed Akane Yamaguchi on Thursday. She faces the winner of the match between Thailand's Pornpawee Chochuwong and Japan's Nozomi Okuhara for a place in the last four. Sindhu was in commanding form against Riko Gunji, winning 21-12, 21-16 in 44 minutes, and will hope to carry that into the last eight of the Super 750 event.
 
@@ -60,7 +60,7 @@ They are India's only players left in Paris after Ayush Shetty retired hurt agai
 
 ## Para Games
 
-In Japan, India's para athletes go into another day of competition in Aichi-Nagoya with 88 medals, 21 gold, 26 silver and 41 bronze. Thursday brought golds for Dilip Gavit, Solairaj Dharmaraj, Anjanaben Bumbadiya and Shailesh Kumar on the track and in the field, and two for archer Sheetal Devi.
+In Japan, India's para athletes go into another day of competition in Aichi-Nagoya with **88 medals**, 21 gold, 26 silver and 41 bronze. Thursday brought golds for Dilip Gavit, Solairaj Dharmaraj, Anjanaben Bumbadiya and Shailesh Kumar on the track and in the field, and two for archer Sheetal Devi.
 
 ## Cricket
 

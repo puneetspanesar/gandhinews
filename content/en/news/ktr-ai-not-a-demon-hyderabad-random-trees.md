@@ -39,7 +39,7 @@ verification:
 
 Artificial intelligence should not be feared, Bharat Rashtra Samithi (BRS) working president K T Rama Rao said on Saturday, as he opened the Indian headquarters of Random Trees in Hyderabad.
 
-"It is not right to see AI as a ghost or demon," said Rama Rao, widely known as KTR, a former IT minister of Telangana. "Instead of instilling fear, we must build confidence among the youth." The company is starting its Indian operations with 400 employees.
+"It is not right to see AI as a ghost or demon," said Rama Rao, widely known as KTR, a former IT minister of Telangana. "Instead of instilling fear, we must build confidence among the youth." The company is starting its Indian operations with **400 employees**.
 
 KTR argued that the technology would add work rather than remove it. "AI will not take away jobs; we need to embrace new employment opportunities," he said, pointing to what he called revolutionary changes in agriculture, medicine and education. "AI creates many new opportunities; we need to grasp them."
 

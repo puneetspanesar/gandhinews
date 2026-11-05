@@ -36,7 +36,7 @@ verification:
     - "Poll date not announced in the source ('next month'). Agartala's exact voter count cut off in the preview."
 ---
 
-Tripura's urban voters for next month's municipal elections number 6,29,903, and women among them outnumber men, the State Election Commission has announced.
+Tripura's urban voters for **next month**'s municipal elections number 6,29,903, and women among them outnumber men, the State Election Commission has announced.
 
 The electorate covers 20 urban local bodies: the Agartala Municipal Corporation, 13 municipal councils and six nagar panchayats. Of the voters, 3,21,743 are women, 3,08,115 are men and 45 are third-gender electors, giving women a lead of 13,628.
 

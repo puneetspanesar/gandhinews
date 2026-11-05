@@ -35,13 +35,13 @@ verification:
     - "Single source: TechCrunch, Oct 20, 6:17 am PDT (6:47 pm IST). Exact valuation not given, only 'above $1 billion'."
 ---
 
-Reliable Robotics, a California start-up building technology to fly aircraft without a pilot on board, has raised $115 million in an extension of its Series D round. The deal values the company at more than $1 billion.
+Reliable Robotics, a California start-up building technology to fly aircraft without a pilot on board, has raised $115 million in an extension of its Series D round. The deal values the company at more than **$1 billion**.
 
 The money is made up of $90 million in equity, led by Nimble Partners, and $25 million in debt from Silicon Valley Bank. The Series D now totals $275 million, and the company has raised $380 million since it was founded.
 
 Reliable was started by Robert Rose, its chief executive, who ran flight software at SpaceX and has also worked at Tesla and Google, and Juerg Frefel, its chief technology officer, who spent nearly a decade as a SpaceX engineer. Its system is designed to be fitted to aircraft already in service.
 
-The company is working through four approvals with the US Federal Aviation Administration. The first would let its autopilot stay engaged from engine start through taxi, take-off and landing, with a pilot still on board. Rose expects that certification in 18 to 24 months. Moving the pilot to a control station on the ground is at least three years away, he said. A solid-state collision-avoidance radar with no moving parts, built in-house, should be certified by the end of 2027.
+The company is working through four approvals with the US Federal Aviation Administration. The first would let its autopilot stay engaged from engine start through taxi, take-off and landing, with a pilot still on board. Rose expects that certification in **18 to 24 months**. Moving the pilot to a control station on the ground is at least three years away, he said. A solid-state collision-avoidance radar with no moving parts, built in-house, should be certified by the end of 2027.
 
 The fourth approval is for Reliable Airlines, an Albuquerque-based cargo carrier that would become the first airline certified to use the technology. It flies six Cessna Caravans six days a week.
 

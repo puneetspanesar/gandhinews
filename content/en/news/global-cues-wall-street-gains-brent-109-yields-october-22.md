@@ -61,19 +61,19 @@ verification:
 
 US stocks extended their run on Wednesday, the rupee ended at its strongest in six weeks and foreign investors turned buyers of Indian shares. That mix gives Dalal Street a steadier backdrop on Thursday than it has had for much of the week, but crude oil above $108 a barrel and a hawkish set of Reserve Bank minutes are likely to keep any rally in check.
 
-Indian shares had a poor Wednesday. The Sensex surrendered an 800-point morning gain to close 143.21 points lower at 73,709.69, and the Nifty 50 fell 77.60 points to 22,811.35. The Nifty Smallcap 100 fell 2.37% and the Midcap 100 1.58%.
+Indian shares had a poor Wednesday. The Sensex surrendered an 800-point morning gain to close 143.21 points lower at 73,709.69, and the Nifty 50 fell 77.60 points to 22,811.35. The Nifty Smallcap 100 fell **2.37%** and the Midcap 100 1.58%.
 
 ## Overnight on Wall Street
 
-The Nasdaq Composite rose 1.05% to 26,702.86, led by technology shares. The S&P 500 gained 0.58% to 7,757.17 and the Dow Jones Industrial Average added 0.69% to 52,856.09.
+The Nasdaq Composite rose **1.05%** to 26,702.86, led by technology shares. The S&P 500 gained 0.58% to 7,757.17 and the Dow Jones Industrial Average added 0.69% to 52,856.09.
 
-SpaceX shares jumped 7.79% after the company reported its first profit as a listed company, $4.4 billion. Super Micro Computer rose 9.55% after raising its revenue outlook. Netflix fell another 5.31% on a weaker profit forecast for the December quarter, and AT&T dropped 6.45% even after beating estimates, on worries about competition from Starlink's mobile service.
+SpaceX shares jumped **7.79%** after the company reported its first profit as a listed company, $4.4 billion. Super Micro Computer rose 9.55% after raising its revenue outlook. Netflix fell another 5.31% on a weaker profit forecast for the December quarter, and AT&T dropped 6.45% even after beating estimates, on worries about competition from Starlink's mobile service.
 
-After the bell, Meta Platforms rose about 3.3% on $64.6 billion of quarterly revenue and a fourth-quarter forecast of $73 billion to $76 billion. IBM added about 3% in late trade after beating estimates for revenue and earnings, a reading Indian software exporters, the only sector to rise in Mumbai on Wednesday, will carry into the session. Tesla was little changed and Lam Research, a chip equipment maker, fell about 6.3%.
+After the bell, Meta Platforms rose about **3.3%** on $64.6 billion of quarterly revenue and a fourth-quarter forecast of $73 billion to $76 billion. IBM added about 3% in late trade after beating estimates for revenue and earnings, a reading Indian software exporters, the only sector to rise in Mumbai on Wednesday, will carry into the session. Tesla was little changed and Lam Research, a chip equipment maker, fell about 6.3%.
 
 ## Yields, oil and gold
 
-US Treasury yields edged up. The 10-year yield rose one basis point to 5.13% and the two-year yield two basis points to 4.81%.
+US Treasury yields edged up. The 10-year yield rose one basis point to **5.13%** and the two-year yield two basis points to 4.81%.
 
 Oil remains the biggest worry for India, which imports most of its crude. Brent for December delivery topped $110 during the day as the standoff with Iran dragged on, before settling almost flat at $108.82. US crude fell 0.69% to $97.15, even though American inventories dropped by 3.06 million barrels against an expected 0.1 million. Gold for December rose 0.18% to $4,150 an ounce, and the dollar index was barely changed at 101.69.
 

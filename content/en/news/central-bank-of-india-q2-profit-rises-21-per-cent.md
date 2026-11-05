@@ -37,17 +37,17 @@ verification:
     - "Provisions figure Rs 799 crore includes tax, as stated in source."
 ---
 
-Central Bank of India reported a 21% rise in quarterly profit on Saturday, as strong growth in lending pushed up its interest income and its stock of bad loans continued to shrink.
+Central Bank of India reported a **21%** rise in quarterly profit on Saturday, as strong growth in lending pushed up its interest income and its stock of bad loans continued to shrink.
 
-The Mumbai-based state-run lender's net profit for July-September was ₹1,469 crore, up from ₹1,213 crore a year earlier and ₹1,324 crore in the April-June quarter. Profit for the first half of the financial year rose 17.25% to ₹2,793 crore.
+The Mumbai-based state-run lender's net profit for July-September was **₹1,469 crore**, up from ₹1,213 crore a year earlier and ₹1,324 crore in the April-June quarter. Profit for the first half of the financial year rose 17.25% to ₹2,793 crore.
 
-Net interest income, the difference between what the bank earns on loans and pays on deposits, rose 26.3% to ₹4,146 crore. The net interest margin widened to 3.01% from 2.89%, helped by a 28 basis point fall in the cost of deposits to 4.60%. Operating profit climbed 27% to ₹2,268 crore.
+Net interest income, the difference between what the bank earns on loans and pays on deposits, rose **26.3% to ₹4,146 crore**. The net interest margin widened to 3.01% from 2.89%, helped by a 28 basis point fall in the cost of deposits to 4.60%. Operating profit climbed 27% to ₹2,268 crore.
 
 ## A lending push led by companies
 
-The bank's loan book is growing much faster than its deposits. Global advances rose 29.83% to ₹3.81 lakh crore, while deposits grew 14.41% to ₹5.09 lakh crore. Corporate loans led the way, jumping 42.05% to ₹1.19 lakh crore. Retail, agriculture and small-business loans grew 21.11% to ₹2.54 lakh crore, with retail loans up 24.49%.
+The bank's loan book is growing much faster than its deposits. Global advances rose **29.83%** to ₹3.81 lakh crore, while deposits grew 14.41% to ₹5.09 lakh crore. Corporate loans led the way, jumping 42.05% to ₹1.19 lakh crore. Retail, agriculture and small-business loans grew 21.11% to ₹2.54 lakh crore, with retail loans up 24.49%.
 
-That has lifted the credit-deposit ratio to 75.02% from 66.20% a year ago. The share of low-cost current and savings accounts fell 2.18 percentage points to 44.65%.
+That has lifted the credit-deposit ratio to **75.02%** from 66.20% a year ago. The share of low-cost current and savings accounts fell 2.18 percentage points to 44.65%.
 
 ## Cleaner books, bigger provisions
 

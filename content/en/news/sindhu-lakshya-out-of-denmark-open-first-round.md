@@ -48,7 +48,7 @@ Sindhu, ranked 10th in the world, won the opening game 21-13 against Germany's Y
 
 The loss cuts short what had been a good few months for the two-time Olympic medallist. She won the Japan Open, a Super 750 event like this one, in July, and reached the quarter-finals of the Arctic Open before losing to Ratchanok Intanon of Thailand in three games.
 
-Lakshya also took his match the distance. He lost the first game 18-21 to Chou Tien Chen of Chinese Taipei, the third seed, levelled with a 21-13 second game, but fell away 15-21 in the decider after 63 minutes.
+Lakshya also took his match the distance. He lost the first game 18-21 to **Chou Tien Chen** of Chinese Taipei, the third seed, levelled with a 21-13 second game, but fell away 15-21 in the decider after 63 minutes.
 
 ## Two Indians still standing
 

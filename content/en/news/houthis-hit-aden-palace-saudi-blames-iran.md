@@ -70,7 +70,7 @@ Houthi missiles slammed into the al-Maashiq presidential palace in Aden on Thurs
 
 Information Minister Moammar al-Eryani said the complex was hit by five missiles. Two of the dead were bodyguards attached to the security detail of Prime Minister Shaya al-Zandani. The government said the prime minister and cabinet ministers were unharmed, and residents described loud explosions and thick smoke rising over the palace.
 
-It was the first strike on the palace complex since Yemen's civil war reignited in July, after a UN-brokered truce collapsed. Earlier this month, on October 7, the Houthis fired ballistic missiles and drones at Aden airport, forcing flights to divert.
+It was the **first strike on the palace complex** since Yemen's civil war reignited in July, after a UN-brokered truce collapsed. Earlier this month, on October 7, the Houthis fired ballistic missiles and drones at Aden airport, forcing flights to divert.
 
 ## What each side said
 
@@ -86,7 +86,7 @@ On the same day, Saudi Arabia accused Iran of fuelling the escalation. "Iran con
 
 "We think that the escalation by the Houthis at this latest stage of the conflict is encouraged by Iran," he said. Riyadh still had direct communications with Tehran, he added, but "it doesn't seem yet that the Iranians are able to provide the necessary concessions for a solution." The Houthis, he said, had refused a Saudi offer to meet in Muscat at the start of the escalation.
 
-Coalition spokesperson Turki al-Maliki said the Houthis had attacked King Khalid International Airport in Riyadh 20 times in October, killing 17 people and wounding 333. He said the group had obtained ballistic missiles, drones and explosive-laden boats with help from "regional actors", without naming any country, and that coalition strikes had destroyed 127 weapons stores and launch sites in Yemen.
+Coalition spokesperson Turki al-Maliki said the Houthis had attacked King Khalid International Airport in Riyadh 20 times in October, killing **17 people** and wounding 333. He said the group had obtained ballistic missiles, drones and explosive-laden boats with help from "regional actors", without naming any country, and that coalition strikes had destroyed 127 weapons stores and launch sites in Yemen.
 
 ## At the Security Council
 

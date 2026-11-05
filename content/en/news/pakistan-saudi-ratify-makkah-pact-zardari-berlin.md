@@ -53,7 +53,7 @@ Pakistan and Saudi Arabia have both ratified the Makkah Joint Defence Agreement,
 
 "Pakistan and [the] Kingdom of Saudi Arabia have already completed their ratification processes," Foreign Office spokesperson Sajjad Haider Khan told his weekly briefing in Islamabad. "Turkiye is undertaking the requisite procedures in accordance with its domestic legal framework." Ankara sent the pact to its parliament earlier this week.
 
-The agreement, signed in August, says an armed attack on any one member will be treated as an attack on all three.
+The agreement, signed in August, says an armed attack on any one member will be treated as an **attack on all** three.
 
 ## "No hidden provisions"
 
@@ -65,7 +65,7 @@ Earlier this week Pakistan's military spokesman, Lt Gen Ahmed Sharif Chaudhry, s
 
 ## Zardari's message in Berlin
 
-The same line was delivered in Germany. President Asif Ali Zardari, on a three-day visit marking 75 years of diplomatic ties, told German President Frank-Walter Steinmeier on Friday that the pact was "not directed against any specific country".
+The same line was delivered in Germany. President Asif Ali Zardari, on a three-day visit marking **75 years** of diplomatic ties, told German President Frank-Walter Steinmeier on Friday that the pact was "not directed against any specific country".
 
 Steinmeier praised Pakistan's "rising diplomatic profile in the resolution of regional and global disputes", and Zardari thanked him for recognising Pakistan's "sincere mediation role" between the US and Iran. On Afghanistan, Zardari said Pakistan "has no conflict with the Afghan people" but would not let terrorists use Afghan soil to attack it. The two also discussed Pakistan's help in verifying 500 Afghans due to be sent to Germany. Steinmeier said he would consider visiting Pakistan "at an appropriate time".
 

@@ -104,7 +104,7 @@ verification:
     - "Whether Tuesday's act affects the Oct 11 peace bond: no reporting found; not raised."
 ---
 
-Two leaders of the Cockroach Janta Party (CJP), Saurav Das and Ashutosh Ranka, were sent to five days of judicial custody on Wednesday, a day after they climbed over the locked gate of Jantar Mantar carrying the national flag.
+Two leaders of the Cockroach Janta Party (CJP), Saurav Das and Ashutosh Ranka, were sent to **five days of judicial custody** on Wednesday, a day after they climbed over the locked gate of Jantar Mantar carrying the national flag.
 
 A Special Executive Magistrate's court in Delhi passed the remand order. Delhi Police registered an FIR on Tuesday against the two and others, alleging unlawful assembly and disobedience of an order promulgated by a public servant. Jantar Mantar had been struck off the list of protest venues a day before they went in.
 
@@ -116,7 +116,7 @@ The Supreme Court is due on Thursday to hear the wider set of petitions over the
 
 A video Dipke posted shows Das and Ranka scaling the gate with the Tricolour while the group shouts "Bharat Mata ki Jai" and "Gyanesh Kumar isteefa do", a call for the Chief Election Commissioner to resign. "Cockroaches with the Tiranga sneaked into Jantar Mantar early this morning before they were picked up by Delhi Police," Dipke wrote on X. Tagging Prime Minister Narendra Modi, he added: "You cannot denotify the resistance."
 
-Das, Ranka and Dipke had been held on October 10 as well and were released on Sunday on a ₹50,000 surety bond to keep the peace for a year.
+Das, Ranka and Dipke had been held on October 10 as well and were released on Sunday on a **₹50,000** surety bond to keep the peace for a year.
 
 ## In the High Court
 
@@ -124,7 +124,7 @@ Also on Tuesday, Justice Amit Mahajan of the Delhi High Court heard a plea by In
 
 Additional Solicitor General Chetan Sharma, for Delhi Police, said the site was de-notified on the strength of the Supreme Court's October 9 order, which had asked authorities to consider identifying suitable alternative venues for peaceful protest. "The Court said appropriate sites need to be identified and designated and we have precisely done that," he said. Ramlila Maidan, Burari Ground and CBD Ground have been named instead, and Sharma argued that the plea had become infructuous.
 
-The judge did not accept that the case was over. Over the ASG's objection, he issued notice on three of Chib's prayers, including a challenge to the police rule requiring 10 days' notice for a protest and a plea that a 2022 standing order cannot be used to restrict peaceful assemblies mechanically.
+The judge did not accept that the case was over. Over the ASG's objection, he issued notice on three of Chib's prayers, including a challenge to the police rule requiring **10 days**' notice for a protest and a plea that a 2022 standing order cannot be used to restrict peaceful assemblies mechanically.
 
 ## Supreme Court puts off the detention cases
 

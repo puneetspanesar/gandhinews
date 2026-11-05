@@ -42,7 +42,7 @@ sources:
 
 The anger over living costs that brought more than half a million people onto France's streets spilled across Europe on Saturday, with violent clashes in Italy and Belgium and leaders in Rome, Paris and Brussels lining up to condemn the rioters.
 
-In Milan, more than 5,000 people joined rallies called by the "Italy in the Square" committee against inflation, low wages, underfunded hospitals and run-down schools. The march ended in clashes in Piazza Duomo, where agitators smashed shop windows, set a construction site alight in front of the cathedral and fired flares at police. About 12 people were taken to hospital and around 50 were detained.
+In Milan, more than 5,000 people joined rallies called by the "Italy in the Square" committee against inflation, low wages, underfunded hospitals and run-down schools. The march ended in clashes in Piazza Duomo, where agitators smashed shop windows, set a construction site alight in front of the cathedral and fired flares at police. About **12 people were taken to hospital** and around 50 were detained.
 
 In Bologna, a hooded group broke away from the main march and attacked the central railway station with stones, bottles and smoke bombs. Police used water cannon and tear gas, at least seven people were detained, and the station was closed as a precaution. In Turin, police stopped people carrying cobblestones and hammers of the kind used to break windows.
 

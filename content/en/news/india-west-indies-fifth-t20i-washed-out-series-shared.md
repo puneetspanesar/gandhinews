@@ -51,9 +51,9 @@ verification:
     - "Player of the series and post-match quotes not found."
 ---
 
-Bengaluru's rain had the last word on Saturday night. The fifth and deciding T20I between India and West Indies at the M Chinnaswamy Stadium was abandoned without a result, and the five-match series ends level at 2-2, the trophy shared.
+Bengaluru's rain had the last word on Saturday night. The fifth and deciding T20I between India and West Indies at the M Chinnaswamy Stadium was **abandoned without a result**, and the five-match series ends level at 2-2, the trophy shared.
 
-There was just enough cricket to tease the crowd. After a delay of more than two hours, the match was cut to nine overs a side and India raced to 118 for 5 in 7.4 overs. Then the showers returned, the covers came back on, and West Indies never got to start their chase. There is no reserve day.
+There was just enough cricket to tease the crowd. After a delay of more than two hours, the match was cut to nine overs a side and India raced to **118 for 5 in 7.4 overs**. Then the showers returned, the covers came back on, and West Indies never got to start their chase. There is no reserve day.
 
 ## A long wait, then a sprint
 

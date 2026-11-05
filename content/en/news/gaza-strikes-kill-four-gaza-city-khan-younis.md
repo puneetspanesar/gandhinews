@@ -37,14 +37,14 @@ verification:
 
 Israeli air strikes and gunfire killed at least four Palestinians in separate incidents across Gaza on Tuesday, health officials said, as residents described a ceasefire that exists only on paper.
 
-In Gaza City, an Israeli air strike hit an apartment and killed Akram Yassin and his wife, Dina Abu Baker, according to medics. Attacks had surged overnight into Tuesday, concentrated on the city, where the flat was hit without any warning.
+In Gaza City, an Israeli air strike hit an apartment and killed **Akram Yassin and his wife**, Dina Abu Baker, according to medics. Attacks had surged overnight into Tuesday, concentrated on the city, where the flat was hit without any warning.
 
 "We're supposed to be in a ceasefire period, but honestly, we are not seeing a ceasefire or anything," said Mahmoud Yassin, whose brother was among the dead.
 
-In the south, a 17-year-old boy was killed by Israeli gunfire near the Qizan an-Najjar neighbourhood of Khan Younis. Another person was shot dead in Zeitoun, east of Gaza City. Israeli artillery also shelled areas south of Khan Younis, according to the Palestinian news agency Wafa.
+In the south, a **17-year-old boy** was killed by Israeli gunfire near the Qizan an-Najjar neighbourhood of Khan Younis. Another person was shot dead in Zeitoun, east of Gaza City. Israeli artillery also shelled areas south of Khan Younis, according to the Palestinian news agency Wafa.
 
 There was no immediate comment from the Israeli military on the incidents.
 
-Gaza's health authorities say 1,522 people have been killed and 5,421 wounded since the ceasefire of October 2025 took effect, and 839 bodies have been recovered from the rubble in that time. Since October 2023, at least 74,480 people have been killed and 175,539 wounded.
+Gaza's health authorities say **1,522 people** have been killed and 5,421 wounded since the ceasefire of October 2025 took effect, and 839 bodies have been recovered from the rubble in that time. Since October 2023, at least 74,480 people have been killed and 175,539 wounded.
 
-About 82% of Gaza's structures, roughly 200,000 buildings, have been damaged, and about two-thirds destroyed, since the war began, according to the United Nations.
+About **82%** of Gaza's structures, roughly 200,000 buildings, have been damaged, and about two-thirds destroyed, since the war began, according to the United Nations.

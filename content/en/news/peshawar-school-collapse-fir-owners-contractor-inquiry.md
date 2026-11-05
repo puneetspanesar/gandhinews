@@ -57,7 +57,7 @@ verification:
     - "School name: PTI 'Al-Khair Education System', Dawn 'Al-Khair Education Centre'; copy says Al-Khair school."
 ---
 
-Police in Peshawar have registered a criminal case against the owners, shareholders and contractor of the private school whose roof collapsed on Thursday, alleging that it was built with substandard material and that warnings about its crumbling walls were ignored.
+Police in Peshawar have registered a criminal case against the **owners, shareholders and contractor** of the private school whose roof collapsed on Thursday, alleging that it was built with substandard material and that warnings about its crumbling walls were ignored.
 
 The FIR, filed on Friday at Agha Mir Jani Shah police station under Sections 148, 149 and 322 of the Pakistan Penal Code, says students had earlier complained to the school administration about the state of its walls and roofs. The school's owner was arrested on Thursday. Police said they were trying to arrest the others named in the case.
 
@@ -67,7 +67,7 @@ Officials' counts of the dead on Friday ranged from 33 to 35, nearly all of them
 
 According to the FIR, the roof of a second-floor nursery classroom and the roofs of rooms on the ground floor came down. The three-storey building was made of iron girders and unreinforced brickwork without enough structural support. A first-floor classroom's frame gave way during morning lessons and fell on to a full classroom below.
 
-Rescue 1122 received the first call at 8:48 am on Thursday and its first unit reached the site seven minutes later. More than 100 rescuers worked through the rubble, and 89 people were taken to hospital.
+Rescue 1122 received the first call at 8:48 am on Thursday and its first unit reached the site seven minutes later. More than 100 rescuers worked through the rubble, and **89 people** were taken to hospital.
 
 The school stood on 16 marlas of land owned by two men, Waheed and Javed, and was leased in 2024 before construction began.
 

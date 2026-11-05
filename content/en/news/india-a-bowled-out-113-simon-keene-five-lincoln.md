@@ -48,7 +48,7 @@ verification:
     - "NZ A reply rests only on a cricinfo search-result title: Mariu 76*, Curtis Heaphy 34*, Auqib Nabi 0/30. NZ A team score and wickets not known; stumps status not confirmed. Written as 'at last report'."
 ---
 
-India A's first look at New Zealand conditions went badly wrong on Saturday. Put in on a green pitch at the Bert Sutcliffe Oval in Lincoln, Dhruv Jurel's side were bowled out for 113 in 39.3 overs on the opening day of the first four-day unofficial Test, with seamer Simon Keene taking five for 24.
+India A's first look at New Zealand conditions went badly wrong on Saturday. Put in on a green pitch at the Bert Sutcliffe Oval in Lincoln, Dhruv Jurel's side were bowled out for **113 in 39.3 overs** on the opening day of the first four-day unofficial Test, with seamer Simon Keene taking five for 24.
 
 The collapse included most of the batters the selectors are watching ahead of the senior Test series. KL Rahul fell to Fraser Sheat for a duck in the third over, after eight balls. Yashasvi Jaiswal battled for 45 balls over 17 before Zak Gibson had him caught by Matthew Boyle. Sai Sudharsan lasted 13 balls without scoring before Keene bowled him, and Jurel made 1, caught by New Zealand A captain Rhys Mariu off the same bowler.
 
@@ -56,7 +56,7 @@ The collapse included most of the batters the selectors are watching ahead of th
 
 Devdutt Padikkal was the one top-order batter to stay for long, making 32 off 77 balls with five fours and adding 30 with Jaiswal for the second wicket. When Washington Sundar went for a duck, India A were 58 for six.
 
-What respectability they reached came from No. 8 Yash Rathod. He struck three fours and three sixes in an unbeaten 44 off 49 balls, while Anshul Kamboj made 10 before falling to Kristian Clarke. Keene finished the innings, bowling Mukesh Choudhary for a duck, and Gibson ended with three for 29.
+What respectability they reached came from No. 8 Yash Rathod. He struck three fours and three sixes in an **unbeaten 44 off 49 balls**, while Anshul Kamboj made 10 before falling to Kristian Clarke. Keene finished the innings, bowling Mukesh Choudhary for a duck, and Gibson ended with three for 29.
 
 ## Mariu leads the reply
 

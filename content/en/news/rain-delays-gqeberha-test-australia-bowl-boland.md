@@ -46,8 +46,8 @@ Rain delayed the start of the second Test between South Africa and Australia at 
 
 The covers stayed on through the scheduled start and well beyond it. When the toss did happen, Australia won it and chose to bowl first.
 
-Australia made one change from the side that won the first Test, bringing in seamer Scott Boland. South Africa made three changes as they try to save the series. Earlier in the week they had dropped Tristan Stubbs for Matthew Breetzke, given the gloves to Ryan Rickelton and welcomed back Kagiso Rabada after injury.
+Australia made one change from the side that won the first Test, bringing in seamer **Scott Boland**. South Africa made three changes as they try to save the series. Earlier in the week they had dropped Tristan Stubbs for Matthew Breetzke, given the gloves to Ryan Rickelton and welcomed back Kagiso Rabada after injury.
 
-South Africa cannot afford to lose. Australia took the first Test in Durban by 214 runs, when Josh Hazlewood's career-best 6 for 49 bowled South Africa out for 206 and Temba Bavuma lost a Test as captain for the first time. South Africa lost their last four wickets for five runs at Kingsmead, and Matt Renshaw was named player of the match.
+South Africa cannot afford to lose. Australia took the first Test in Durban by **214 runs**, when Josh Hazlewood's career-best 6 for 49 bowled South Africa out for 206 and Temba Bavuma lost a Test as captain for the first time. South Africa lost their last four wickets for five runs at Kingsmead, and Matt Renshaw was named player of the match.
 
 At the time of writing, 3:35 pm IST, the players were due out after a pitch inspection. With time already lost on the first day, the weather over the coming days could decide whether either side can force a result.

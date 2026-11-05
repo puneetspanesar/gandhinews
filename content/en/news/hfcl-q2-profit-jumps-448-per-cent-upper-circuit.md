@@ -44,20 +44,20 @@ verification:
 
 Shares of HFCL hit their daily upper limit for a second straight session on Monday after the telecom equipment and optical fibre cable maker reported the best quarter in its history, with profit more than five times higher than a year ago.
 
-Net profit for the July-September quarter rose 448% to ₹394.22 crore from ₹71.92 crore, and was 60.5% higher than the ₹245.64 crore it earned in April-June. Revenue climbed 143.6% to ₹2,541.79 crore. Operating profit before interest, tax and depreciation rose 224% to ₹658 crore, lifting the margin to 25.89%, up 6.4 percentage points.
+Net profit for the July-September quarter rose **448% to ₹394.22 crore** from ₹71.92 crore, and was 60.5% higher than the ₹245.64 crore it earned in April-June. Revenue climbed 143.6% to ₹2,541.79 crore. Operating profit before interest, tax and depreciation rose 224% to ₹658 crore, lifting the margin to 25.89%, up 6.4 percentage points.
 
 Mahendra Nahata, HFCL's managing director, called it the "best-ever quarterly performance in HFCL's history and marks a defining moment in our growth journey".
 
 ## Demand from data centres
 
-The company's growth is being linked to demand for optical fibre and networking gear from the data centres being built for artificial intelligence. HFCL has an order book of more than ₹28,900 crore and expects revenue in 2026-27 to grow at least 80% over last year.
+The company's growth is being linked to demand for optical fibre and networking gear from the data centres being built for artificial intelligence. HFCL has an order book of more than **₹28,900 crore** and expects revenue in 2026-27 to grow at least 80% over last year.
 
-It plans to invest about ₹1,800 crore in optical fibre, cable and preform manufacturing, and is aiming for about ₹500 crore of revenue from defence and aerospace this year.
+It plans to invest about **₹1,800 crore** in optical fibre, cable and preform manufacturing, and is aiming for about ₹500 crore of revenue from defence and aerospace this year.
 
 "We had envisaged achieving ₹10,000 crore landmark revenue by FY29," Nahata said, adding that the management now thinks the target could be reached sooner.
 
 ## A rare winner this year
 
-The stock opened at ₹260 on the NSE and quickly hit the 5% upper circuit at ₹268.81, taking its gain over two sessions to 10%. HFCL shares have risen about 290% so far in 2026, a year in which the Nifty 50 has lost more than 12%.
+The stock opened at **₹260** on the NSE and quickly hit the 5% upper circuit at ₹268.81, taking its gain over two sessions to 10%. HFCL shares have risen about 290% so far in 2026, a year in which the Nifty 50 has lost more than 12%.
 
-The rally stood out on a day when the wider market fell more than 1%, dragged by private bank stocks and continued selling by foreign investors.
+The rally stood out on a day when the wider market fell more than **1%**, dragged by private bank stocks and continued selling by foreign investors.

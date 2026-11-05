@@ -36,9 +36,9 @@ verification:
     - "Amodei 'crisis of trust' line is from an earlier TechCrunch interview, used as background only."
 ---
 
-Anthropic, the company behind the Claude chatbot, has said it will commit 5% of its shares to a new "public benefit fund" to back projects it considers good for society.
+Anthropic, the company behind the Claude chatbot, has said it will commit **5% of its shares** to a new "public benefit fund" to back projects it considers good for society.
 
-The fund will be a wholly owned entity inside the company. Anthropic said it may contribute a further 2% of its shares for every 50% increase in its value, so the fund would grow as the company does.
+The fund will be a wholly owned entity inside the company. Anthropic said it may contribute a further **2%** of its shares for every 50% increase in its value, so the fund would grow as the company does.
 
 The company gave only broad ideas of how the money might be used, including "large donations to traditional nonprofits or direct distributions to specific populations". It said the structure would give it "increased flexibility and scale".
 

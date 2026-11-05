@@ -62,13 +62,13 @@ A review by the National Tiger Conservation Authority has found that 402 of Band
 
 Watchers and beat foresters are not desk staff. They walk the forest beats every day, check for snares, track animals, put out fires in the dry months and are often the first to reach a village when an elephant or tiger strays into it. Camera traps and drones help, but they do not arrest anyone. A reserve with too few people on foot is a reserve where a poacher can work unseen for weeks.
 
-Bandipur is not an isolated case. Last year a senior Karnataka forest officer put vacancies across the department at about half of all frontline posts, including at least 60% of watcher posts statewide. The government had approved 540 forest guard posts, which officials themselves described as too few, and the minister's advice was to manage with outsourced labour.
+Bandipur is not an isolated case. Last year a senior Karnataka forest officer put vacancies across the department at about half of all frontline posts, including at least **60%** of watcher posts statewide. The government had approved 540 forest guard posts, which officials themselves described as too few, and the minister's advice was to manage with outsourced labour.
 
 ## The fair objection
 
 States will say recruitment takes time, budgets are tight and new rules on reservation have slowed appointments. All of that is real. Forest posts are hard to fill in remote places, and young recruits often leave for better jobs.
 
-But the answer cannot be to fill the gap with casual hands and hope. In Assam's reserves, according to the tiger authority's own evaluations, up to half the frontline staff in some parks are home guards or daily workers, paid ₹6,000 to ₹9,000 a month, often late, without the legal power to book an offence. In August 2024 one of them, home guard Dhanmani Deka, was killed by a tiger at Orang. A casual colleague described patrolling with "a stick and a khukri".
+But the answer cannot be to fill the gap with casual hands and hope. In Assam's reserves, according to the tiger authority's own evaluations, up to half the frontline staff in some parks are home guards or daily workers, paid **₹6,000** to ₹9,000 a month, often late, without the legal power to book an offence. In August 2024 one of them, home guard Dhanmani Deka, was killed by a tiger at Orang. A casual colleague described patrolling with "a stick and a khukri".
 
 ## What states should do
 

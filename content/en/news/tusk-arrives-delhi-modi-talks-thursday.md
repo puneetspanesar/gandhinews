@@ -54,11 +54,11 @@ verification:
     - "Jaishankar-Sikorski meeting Sept 4 and Nawrocki meeting from Tribune only."
 ---
 
-Polish Prime Minister Donald Tusk arrived in New Delhi on Wednesday night at the start of a three-day visit, and will hold talks with Prime Minister Narendra Modi at Hyderabad House on Thursday.
+Polish Prime Minister Donald Tusk arrived in New Delhi on **Wednesday night** at the start of a three-day visit, and will hold talks with Prime Minister Narendra Modi at Hyderabad House on Thursday.
 
 Minister of State Raj Bhushan Choudhary received him at the airport. "A warm welcome to Prime Minister Donald Tusk of Poland on his arrival in New Delhi," Ministry of External Affairs spokesperson Randhir Jaiswal wrote on X. "The visit will provide fresh impetus to the India-Poland Strategic Partnership and further deepen our longstanding ties."
 
-Tusk has come at Modi's invitation. With him are Andrzej Domański, Poland's Minister of Finance and Economy, and a large business delegation, a sign that trade and investment will sit high on an agenda that also takes in defence and technology. The visit runs until Friday, with business forums in two cities.
+Tusk has come at Modi's invitation. With him are **Andrzej Domański**, Poland's Minister of Finance and Economy, and a large business delegation, a sign that trade and investment will sit high on an agenda that also takes in defence and technology. The visit runs until Friday, with business forums in two cities.
 
 ## A full day in Delhi
 

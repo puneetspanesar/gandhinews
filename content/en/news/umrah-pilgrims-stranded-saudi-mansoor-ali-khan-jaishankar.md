@@ -44,6 +44,6 @@ Khan asked Jaishankar to have the embassy in Riyadh and the consulate in Jeddah 
 
 From Rijiju, he sought coordination between the Minority Affairs and External Affairs ministries and the Jeddah consulate, an advisory to State Haj Committees to help families, enforcement of operators' return-travel obligations and emergency money from welfare funds.
 
-The government has not publicly responded to the letters. On Thursday the Indian Consulate in Jeddah set up an additional control room in Makkah for Umrah travellers caught up in the disruption.
+The government has not publicly responded to the letters. On Thursday the Indian Consulate in Jeddah set up an additional **control room in Makkah** for Umrah travellers caught up in the disruption.
 
 Travel in the kingdom has been thrown into confusion by repeated strikes claimed by the Yemen-based Houthi rebels on Saudi airports, oil sites and military targets. India has condemned the attacks on Riyadh's King Khalid International Airport, and its embassy has told Indians in the country to follow the instructions of local authorities.

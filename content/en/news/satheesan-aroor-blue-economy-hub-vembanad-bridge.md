@@ -36,13 +36,13 @@ verification:
     - "Bridge's formal name not given in the report."
 ---
 
-Chief Minister V D Satheesan on Sunday opened a new bridge across Vembanad Lake linking Alappuzha and Kottayam districts, and announced that Aroor would be developed as a blue economy and seafood hub under the state government's Mission Samudra initiative.
+Chief Minister V D Satheesan on Sunday opened a new bridge across Vembanad Lake linking Alappuzha and Kottayam districts, and announced that Aroor would be developed as a **blue economy and seafood hub** under the state government's Mission Samudra initiative.
 
 The 800-metre bridge joins Thaikkattussery panchayat in the Aroor constituency with Udayanapuram panchayat in Vaikom, crossing a national waterway on the way. It has 22 spans, a 7.5-metre carriageway and a 1.5-metre footpath on each side.
 
 Mission Samudra aims to connect Keralam's coastline, ports and waterways with road and rail networks, industry and logistics, so that more economic activity can be built around the sea and the backwaters. Satheesan said Aroor would also get the infrastructure needed to support that work across Alappuzha district.
 
-Public Works Minister P K Basheer, who presided, said ₹10 crore had been sanctioned for road construction on the Nere Kadavu-Vaikom stretch, and ₹553.85 crore for Sabarimala roads. Excise Minister M Liju said the bridge was part of the Thuravoor-Pampa road corridor.
+Public Works Minister P K Basheer, who presided, said ₹10 crore had been sanctioned for road construction on the Nere Kadavu-Vaikom stretch, and **₹553.85 crore for Sabarimala roads**. Excise Minister M Liju said the bridge was part of the Thuravoor-Pampa road corridor.
 
 Residents whose land is acquired for the Nere Kadavu-Vaikom road will receive a special compensation package. The government said its projects would not displace ordinary people and would be finished on time.
 

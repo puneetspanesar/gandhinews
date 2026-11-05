@@ -53,7 +53,7 @@ Wawrinka reached No. 3 in the rankings and won 16 tour-level titles, three of th
 
 Djokovic arrives in good form. He won his 102nd tour-level title in Beijing earlier this month and is 11th in the race for the eight places at the season-ending finals in Turin. He opens against France's Ugo Humbert.
 
-The American Ben Shelton is the top seed and begins against Casper Ruud. Arthur Fils, the second seed, plays Hubert Hurkacz, and Rafael Jodar meets Alejandro Tabilo.
+The American Ben Shelton is the top seed and begins **against Casper Ruud**. Arthur Fils, the second seed, plays Hubert Hurkacz, and Rafael Jodar meets Alejandro Tabilo.
 
 In doubles, Kevin Krawietz and Tim Puetz are the top seeds, with Julian Cash and Lloyd Glasspool seeded second.
 

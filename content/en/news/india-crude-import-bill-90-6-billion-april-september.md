@@ -37,17 +37,17 @@ verification:
     - "No named quote in the source."
 ---
 
-India paid $90.6 billion for imported crude oil in the six months to September, 46.3% more than a year earlier, even though it bought only slightly more oil, according to data from the Petroleum Planning and Analysis Cell (PPAC), the oil ministry's data arm.
+India paid **$90.6 billion** for imported crude oil in the six months to September, 46.3% more than a year earlier, even though it bought only slightly more oil, according to data from the Petroleum Planning and Analysis Cell (PPAC), the oil ministry's data arm.
 
-In April-September 2025 the bill was $61.9 billion. Import volumes rose only to 122.7 million tonnes from 121.8 million tonnes, which means almost the entire increase came from higher prices.
+In April-September 2025 the bill was **$61.9 billion**. Import volumes rose only to 122.7 million tonnes from 121.8 million tonnes, which means almost the entire increase came from higher prices.
 
-September was the costliest month. India spent $15.4 billion on crude, about 47% more than in September last year. The Indian basket of crude, the average price its refiners pay, averaged $116.09 a barrel during the month, up from $90.19 in August and $69.61 a year earlier. Brent averaged $116.77.
+September was the costliest month. India spent $15.4 billion on crude, about 47% more than in September last year. The Indian basket of crude, the average price its refiners pay, averaged **$116.09 a barrel** during the month, up from $90.19 in August and $69.61 a year earlier. Brent averaged $116.77.
 
 ## Less at home, more from abroad
 
-Domestic output is falling, which leaves the country more exposed. Production of crude oil and condensate fell to 13.7 million tonnes from 14.2 million tonnes. Dependence on imports was 88.1% on a consumption basis, almost unchanged from 88.3%.
+Domestic output is falling, which leaves the country more exposed. Production of crude oil and condensate fell to 13.7 million tonnes from 14.2 million tonnes. Dependence on imports was **88.1%** on a consumption basis, almost unchanged from 88.3%.
 
-Gas tells the same story. Domestic gas production fell 4.4%, while imports of liquefied natural gas rose 4.4%. India now imports 52.3% of the gas it uses, up from 50.1%.
+Gas tells the same story. Domestic gas production fell 4.4%, while imports of liquefied natural gas rose 4.4%. India now imports **52.3%** of the gas it uses, up from 50.1%.
 
 High prices are also changing how people use fuel. Consumption of petroleum products fell 3.3% to 114.8 million tonnes, with cooking gas (LPG) use down 15.5%. Diesel demand rose 4.9% and petrol 7.1%.
 

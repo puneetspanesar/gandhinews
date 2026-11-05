@@ -52,6 +52,6 @@ The statement also reaffirmed India's "strong commitment to the fight against te
 
 Gunmen opened fire on Friday as mourners gathered for a funeral inside a Greek Orthodox church in Karak governorate, south of Amman. Jordan's health minister, Ibrahim Badour, said on Saturday that one of the critically injured had died, taking the toll to eight, and that more than two dozen people were still being treated.
 
-King Abdullah II has called the shooting a "terrorist act". No group has said it carried out the attack. Karak has a minority Christian population and was hit before in 2016, when gunmen killed 10 people, seven of them officers.
+King Abdullah II has called the shooting a "terrorist act". No group has said it carried out the attack. Karak has a minority Christian population and was hit before in 2016, when gunmen killed **10 people**, seven of them officers.
 
 The United States embassy in Amman said security had been stepped up across Jordan after the attack.

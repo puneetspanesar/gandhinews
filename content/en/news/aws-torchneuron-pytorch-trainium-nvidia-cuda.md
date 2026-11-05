@@ -36,12 +36,12 @@ verification:
 
 Amazon Web Services has released a developer tool designed to make it easy for AI start-ups to move their software off Nvidia's chips and on to Amazon's own, its most direct attempt yet to weaken the hold of Nvidia's CUDA software on the industry.
 
-The tool, TorchNeuron, is adapted from PyTorch, the free, open-source toolkit for building and running AI models. Amazon says about 85% of AI apps are written with PyTorch. Because Nvidia has long made sure CUDA supports PyTorch apps well, its graphics chips have become the default choice for running them.
+The tool, TorchNeuron, is adapted from PyTorch, the free, open-source toolkit for building and running AI models. Amazon says about **85%** of AI apps are written with PyTorch. Because Nvidia has long made sure CUDA supports PyTorch apps well, its graphics chips have become the default choice for running them.
 
 According to Amazon, moving a PyTorch app to Trainium, the AI chip made by its Annapurna Labs unit, now takes a change to one line of configuration and no rewriting of code. The company also says it will contribute code to the main PyTorch project to strip out parts that tie it to specific chips.
 
 "The real story is removing the lock-in that kept developers from having a real choice at all," said Colin Brace, vice-president of technology software at AWS Annapurna Labs. He said Trainium's value was "price-performance plus the fact that it's one platform for both training and inference".
 
-AWS pointed to Deepgram, an AI voice company, which it said now processes 70% more audio per dollar after moving to Trainium.
+AWS pointed to Deepgram, an AI voice company, which it said now processes **70% more audio per dollar** after moving to Trainium.
 
 The pitch is aimed partly at neoclouds such as CoreWeave and Nebius, many of which are built around Nvidia hardware. "You're building on AWS. You're not betting on a single-purpose compute provider," Brace said.

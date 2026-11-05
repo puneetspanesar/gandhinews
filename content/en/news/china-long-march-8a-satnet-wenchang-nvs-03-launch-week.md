@@ -51,7 +51,7 @@ China put nine more satellites of its SatNet broadband constellation into low Ea
 
 The rocket lifted off at 7:33 am IST with the batch listed as SatNet LEO Group 28, and the launch was reported a success. It came two days after China flew two other missions within hours of each other on Friday, a Long March 6A with the Yaogan 50-03 satellite and a Long March 4B carrying a cluster of Yaogan satellites.
 
-SpaceX's Starlink remains by far the largest network in low orbit. Of the 15,878 active satellites being tracked on Saturday, 10,061 were operational Starlinks, according to the tracker Orbital Radar. In all, it counted 31,849 catalogued objects in orbit and 10 people in space.
+SpaceX's Starlink remains by far the largest network in low orbit. Of the 15,878 active satellites being tracked on Saturday, 10,061 were operational Starlinks, according to the tracker Orbital Radar. In all, it counted 31,849 catalogued objects in orbit and **10 people** in space.
 
 ## The week ahead
 

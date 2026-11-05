@@ -53,7 +53,7 @@ verification:
     - "Date of the original student statement (Aug 15) and 700+ objectors from The News Minute."
 ---
 
-Chief Justice of India Surya Kant presided over the 34th convocation of the National Law School of India University (NLSIU) in Bengaluru on Saturday, at a ceremony that had been called off in August after students and alumni objected to his attending.
+Chief Justice of India Surya Kant presided over the **34th convocation** of the National Law School of India University (NLSIU) in Bengaluru on Saturday, at a ceremony that had been called off in August after students and alumni objected to his attending.
 
 Speaking as the university's Chancellor, he urged the graduates to listen to those they disagree with and to hear people out before judging them. "Each time we listen to perspectives that diverge from ours, we are reminded that the law itself is a living conversation," he said.
 

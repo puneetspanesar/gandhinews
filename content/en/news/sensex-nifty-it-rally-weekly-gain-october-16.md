@@ -55,23 +55,23 @@ verification:
     - "No named analyst quotes on equities found; none used."
 ---
 
-Indian shares rose for a second day on Friday as technology stocks extended a rally sparked by strong September-quarter results, leaving the Sensex more than 3% higher for the week.
+Indian shares rose for a second day on Friday as technology stocks extended a rally sparked by strong September-quarter results, leaving the Sensex more than **3%** higher for the week.
 
-The BSE Sensex closed 413.66 points, or 0.56%, higher at 74,729.27. The NSE Nifty 50 added 148.80 points, or 0.65%, to 23,146.15, its first close above 23,000 this week. The market had opened lower and spent the first hour in the red before buying in IT shares turned it around.
+The BSE Sensex closed **413.66 points**, or 0.56%, higher at 74,729.27. The NSE Nifty 50 added 148.80 points, or 0.65%, to 23,146.15, its first close above 23,000 this week. The market had opened lower and spent the first hour in the red before buying in IT shares turned it around.
 
 ## Tech leads the way
 
-The Nifty IT index jumped 3.92%, by far the best of the sector gauges. Tech Mahindra was the top gainer among large shares, rising about 8.5% to ₹1,790 a day after it reported a 33% rise in quarterly profit and announced a one-for-one bonus issue. TCS gained 4.9% and Infosys 4.6%, and Bharti Airtel and HCLTech were also among the leaders.
+The Nifty IT index jumped **3.92%**, by far the best of the sector gauges. Tech Mahindra was the top gainer among large shares, rising about 8.5% to ₹1,790 a day after it reported a 33% rise in quarterly profit and announced a one-for-one bonus issue. TCS gained 4.9% and Infosys 4.6%, and Bharti Airtel and HCLTech were also among the leaders.
 
 Wipro, which reported on Thursday, also rose sharply even though its forecast for the December quarter was cautious.
 
-Metal and auto shares added to the gains. Banks did little: the Bank Nifty ended almost flat, and consumer goods, realty and consumer durables shares slipped. InterGlobe Aviation, the operator of IndiGo, was the biggest loser in the Nifty, falling 1.9%, with BSE Ltd and Max Healthcare also lower.
+Metal and auto shares added to the gains. Banks did little: the Bank Nifty ended almost flat, and consumer goods, realty and consumer durables shares slipped. InterGlobe Aviation, the operator of IndiGo, was the biggest loser in the Nifty, falling **1.9%**, with BSE Ltd and Max Healthcare also lower.
 
 Smaller companies lagged again. Midcaps made modest gains while smallcaps came under pressure, a pattern that has held through much of the week's rally.
 
 ## A strong week
 
-Friday's close left the Sensex 2,256.94 points, or 3.1%, higher than a week ago. The Nifty rose 625.70 points, or 2.8%, over the five sessions. Thursday's 1,534-point jump in the Sensex did most of the work.
+Friday's close left the Sensex **2,256.94 points, or 3.1%**, higher than a week ago. The Nifty rose 625.70 points, or 2.8%, over the five sessions. Thursday's 1,534-point jump in the Sensex did most of the work.
 
 Several things helped. Bond yields eased, oil prices came off their highs and the rupee rose for a sixth day in a row, ending at 94.89 to the dollar. Brent crude was down 0.34% at $105.56 a barrel in the evening.
 

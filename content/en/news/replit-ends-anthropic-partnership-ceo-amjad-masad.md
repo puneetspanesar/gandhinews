@@ -57,7 +57,7 @@ He did not give revenue figures but said the business was shifting toward compan
 
 ## A disputed break
 
-People familiar with the arrangement rejected his account. One said the Anthropic partnership was still in place.
+People familiar with the arrangement rejected his account. One said the Anthropic **partnership was still in place**.
 
 Replit's own material points the same way. A Replit blog post from late September listed Anthropic's Claude Fable 5 and Claude Fable 5.1 as models running in the production environment of Replit Agent, its app-building assistant. Around the same time, a Replit product employee posted on X promoting Anthropic's flagship model, Opus 5.5. Neither Replit nor Anthropic had said anything further by Saturday.
 

@@ -41,9 +41,9 @@ verification:
     - "Galaxy Z Fold8 comparison details not used. Published time is an estimate shortly after the Statesman piece."
 ---
 
-Apple's first foldable phone, the iPhone Duo, goes on sale in India on Friday, and buyers will need at least ₹2,99,900 to take one home.
+Apple's first foldable phone, the iPhone Duo, goes on sale in India on Friday, and buyers will need at least **₹2,99,900** to take one home.
 
-That price buys the 256GB model. The 512GB version costs ₹3,24,900, the 1TB version ₹3,74,900 and the top 2TB model ₹4,49,900.
+That price buys the 256GB model. The 512GB version costs **₹3,24,900,** the 1TB version ₹3,74,900 and the top 2TB model ₹4,49,900.
 
 ## What the phone offers
 

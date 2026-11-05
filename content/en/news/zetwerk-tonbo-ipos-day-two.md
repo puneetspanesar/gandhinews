@@ -52,21 +52,21 @@ verification:
     - "IPOs in their second day on Friday listed by Business Standard live blog, Oct 16."
 ---
 
-The two biggest share sales that opened on Thursday had sharply different first days. Zetwerk's ₹5,012 crore issue was just under a quarter subscribed by the close, while Tonbo Imaging's smaller ₹852 crore offer was bid four times over.
+The two biggest share sales that opened on Thursday had sharply different first days. Zetwerk's **₹5,012 crore** issue was just under a quarter subscribed by the close, while Tonbo Imaging's smaller ₹852 crore offer was bid four times over.
 
 Both issues are open again on Friday, their second day.
 
 ## Zetwerk: institutions hold back
 
-By 5:03 pm on Thursday, Zetwerk had received bids for 4.18 crore shares against 18.29 crore on offer, or 0.23 times, from 65,869 applications. Qualified institutional buyers had subscribed 0.30 times their portion, retail investors 0.23 times and non-institutional investors 0.09 times. The employee quota was 0.26 times subscribed.
+By 5:03 pm on Thursday, Zetwerk had received bids for 4.18 crore shares against 18.29 crore on offer, or **0.23 times**, from 65,869 applications. Qualified institutional buyers had subscribed 0.30 times their portion, retail investors 0.23 times and non-institutional investors 0.09 times. The employee quota was 0.26 times subscribed.
 
-The Bengaluru manufacturing platform, which has raised ₹2,251.23 crore from anchor investors, is selling shares at ₹143 to ₹151 each. Brokers have been split on the issue, with some recommending it for the long term and others pointing to its losses.
+The Bengaluru manufacturing platform, which has raised **₹2,251.23 crore** from anchor investors, is selling shares at ₹143 to ₹151 each. Brokers have been split on the issue, with some recommending it for the long term and others pointing to its losses.
 
 ## Tonbo: strong demand for defence tech
 
-Tonbo, a maker of defence electro-optics, saw demand across every category. Non-institutional investors bid 5.95 times their quota, qualified institutional buyers 3.92 times and retail investors 3.20 times. In all, it drew bids for 3.41 crore shares against 85.26 lakh on offer, from 5.40 lakh applications.
+Tonbo, a maker of defence electro-optics, saw demand across every category. Non-institutional investors bid 5.95 times their quota, qualified institutional buyers 3.92 times and retail investors 3.20 times. In all, it drew bids for **3.41 crore shares** against 85.26 lakh on offer, from 5.40 lakh applications.
 
-The issue is entirely an offer for sale by existing shareholders, at ₹665 to ₹700 a share.
+The issue is entirely an offer for sale by existing shareholders, at **₹665** to ₹700 a share.
 
 ## Other issues
 

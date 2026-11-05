@@ -68,7 +68,7 @@ But the case also shows how Punjab's fight against drugs has gone wrong.
 
 Jhota and Ashwani had history. In July 2023 Jhota's supporters paraded the chemist through a market with a garland of shoes, accusing him of selling banned capsules. The police booked Ashwani on Jhota's complaint, and then booked Jhota for taking the law into his own hands. Three years later, the shopkeeper still had his shop and, according to the police, a licensed weapon. Whatever became of the 2023 case, it did not settle anything. It left two men who saw each other as enemies, and a town that believed nothing had been done.
 
-That belief is the root of the problem. Jhota built a following across the Malwa belt because many families felt the police would not act against people selling drugs in their own streets. Punjab Police say otherwise. Their campaign against drugs has, by their count, led to 79,784 arrests and 60,582 cases since March 2025. Those numbers are large. Yet a chemist accused of selling pharmacy drugs for misuse could keep trading for years, and a citizen with a camera felt he had to confront him in person.
+That belief is the root of the problem. Jhota built a following across the Malwa belt because many families felt the police would not act against people selling drugs in their own streets. Punjab Police say otherwise. Their campaign against drugs has, by their count, led to **79,784 arrests** and 60,582 cases since March 2025. Those numbers are large. Yet a chemist accused of selling pharmacy drugs for misuse could keep trading for years, and a citizen with a camera felt he had to confront him in person.
 
 ## The other side's case
 
@@ -82,7 +82,7 @@ First, catch and try the accused quickly, with the investigation kept away from 
 
 Second, the Chief Minister's review at Phillaur on Friday should look hard at pharmacies. The trade in prescription drugs sold for misuse needs regular audits of chemists' stock and sales records by drug controllers, with licences cancelled when the records do not add up.
 
-Third, citizens should have a safe and answerable way to report drug sales: a channel that protects the complainant's identity, gives a reference number and reports back on what was done. People who can see the state acting on their complaints have less reason to take matters into their own hands.
+Third, citizens should have a safe and **answerable way to report drug sales**: a channel that protects the complainant's identity, gives a reference number and reports back on what was done. People who can see the state acting on their complaints have less reason to take matters into their own hands.
 
 Fourth, the police should review arms licences held by people booked in drug cases, as a matter of routine.
 

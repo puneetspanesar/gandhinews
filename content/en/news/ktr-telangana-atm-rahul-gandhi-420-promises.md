@@ -43,7 +43,7 @@ Bharat Rashtra Samithi working president K T Rama Rao launched a fresh attack on
 
 Rama Rao, widely known as KTR, called the Congress leader one of the biggest liars in Indian politics and said he lacked the courage to set foot in Telangana. "Rahul Gandhi is turning a blind eye to the alleged corruption, loot and scams in Telangana," he said.
 
-He returned to the Congress's promises from the 2023 Assembly election, saying the six guarantees it pledged to deliver within 100 days, its 13 declarations and its 420 poll promises remained unmet more than 1,000 days after it came to power. "What happened to Rahul Gandhi's 420 promises?" he asked. The number carries a sting in Indian politics, where "420" is slang for a cheat, after the old penal code section on fraud.
+He returned to the Congress's promises from the 2023 Assembly election, saying the **six guarantees** it pledged to deliver within 100 days, its 13 declarations and its 420 poll promises remained unmet more than 1,000 days after it came to power. "What happened to Rahul Gandhi's 420 promises?" he asked. The number carries a sting in Indian politics, where "420" is slang for a cheat, after the old penal code section on fraud.
 
 KTR also accused the BJP-led Centre of failing the state, though he did not give specific cases.
 

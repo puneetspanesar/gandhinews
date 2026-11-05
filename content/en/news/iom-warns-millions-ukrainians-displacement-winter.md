@@ -46,7 +46,7 @@ In a report released on Friday, the International Organization for Migration (IO
 
 ## Cold homes
 
-The report found that only 32% of Ukrainians could heat their homes adequately during the last heating season. In frontline regions the figure was 1%. Six in 10 households have cut down on heating.
+The report found that only **32% of Ukrainians** could heat their homes adequately during the last heating season. In frontline regions the figure was 1%. Six in 10 households have cut down on heating.
 
 In all, about 4.1 million people have returned to Ukraine, a figure that does not include those displaced inside the country.
 

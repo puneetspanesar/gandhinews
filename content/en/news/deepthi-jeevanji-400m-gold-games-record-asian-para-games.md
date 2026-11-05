@@ -52,9 +52,9 @@ verification:
     - "Pradeep Kumar's javelin mark 27.45m from Logical Indian only."
 ---
 
-Deepthi Jeevanji won India's first gold of Tuesday at the Asian Para Games in Aichi-Nagoya, taking the women's 400m T20 title in a Games record of 56.36 seconds.
+Deepthi Jeevanji won India's first gold of Tuesday at the Asian Para Games in Aichi-Nagoya, taking the women's 400m T20 title in a Games record of **56.36 seconds**.
 
-The 23-year-old from Telangana was never troubled. She crossed the line more than two seconds ahead of Japan's Niina Kanno, who took silver in 58.92, with another Japanese runner, Akane Kato, third in 1:00.26.
+The 23-year-old from Telangana was never troubled. She crossed the line **more than two seconds** ahead of Japan's Niina Kanno, who took silver in 58.92, with another Japanese runner, Akane Kato, third in 1:00.26.
 
 It was India's fifth gold of the Games and the latest in a run of big results for Jeevanji. She won the world title in the event in 2024, and also has a Paralympic bronze from Paris.
 
@@ -72,4 +72,4 @@ Table tennis delivered a bundle of bronze medals, all from semi-final defeats. B
 
 ## Medals still to come
 
-By Tuesday afternoon India had 23 medals at the Games: five gold, eight silver and ten bronze. More are already assured. Pramod Bhagat and Manisha Ramdass beat a Thai pair 21-15, 21-14 to reach the semi-finals of the mixed SL3-SU5 badminton, and in archery Swati Chaudhary and the men's recurve doubles pair of Harvinder Singh and Vijay Sundi have reached gold medal matches later in the week.
+By Tuesday afternoon India had **23 medals** at the Games: five gold, eight silver and ten bronze. More are already assured. Pramod Bhagat and Manisha Ramdass beat a Thai pair 21-15, 21-14 to reach the semi-finals of the mixed SL3-SU5 badminton, and in archery Swati Chaudhary and the men's recurve doubles pair of Harvinder Singh and Vijay Sundi have reached gold medal matches later in the week.

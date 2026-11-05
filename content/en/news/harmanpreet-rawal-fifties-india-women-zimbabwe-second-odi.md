@@ -49,7 +49,7 @@ verification:
 
 India's women were well placed in the second one-day international against Zimbabwe in Vadodara on Sunday afternoon, with Pratika Rawal and Harmanpreet Kaur both past fifty after the hosts chose to bat at the Kotambi stadium.
 
-At about 3.30 pm IST, India were 120 for 2 after 20 overs. Rawal, who made a hundred in the series opener on Friday, had 52 off 59 balls with four fours and a six. Harmanpreet reached her fifty with the last ball of the 20th over and was unbeaten on 50 off 51 balls, with seven fours.
+At about 3.30 pm IST, India were **120 for 2 after 20 overs**. Rawal, who made a hundred in the series opener on Friday, had 52 off 59 balls with four fours and a six. Harmanpreet reached her fifty with the last ball of the 20th over and was unbeaten on 50 off 51 balls, with seven fours.
 
 The two had come together after India lost two wickets early in the innings, and they kept the run rate at about six an over.
 

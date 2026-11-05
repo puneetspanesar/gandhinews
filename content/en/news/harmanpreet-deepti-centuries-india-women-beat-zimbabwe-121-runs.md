@@ -53,9 +53,9 @@ verification:
     - "Hawk spells Kranti 'Gaud'; earlier Gandhi News story uses 'Goud'. Kept Goud for consistency."
 ---
 
-Harmanpreet Kaur and Deepti Sharma both made centuries at the Kotambi stadium in Vadodara on Sunday as India women beat Zimbabwe by 121 runs in the second one-day international and took the three-match series with a game to spare.
+Harmanpreet Kaur and Deepti Sharma both made centuries at the Kotambi stadium in Vadodara on Sunday as India women beat Zimbabwe by **121 runs** in the second one-day international and took the three-match series with a game to spare.
 
-India, who chose to bat after winning the toss, reached 328 for 6. Zimbabwe fought for longer than in the series opener but were bowled out for 207 in 48.5 overs, with Vaishnavi Sharma taking 4 for 39 in only her second ODI.
+India, who chose to bat after winning the toss, reached **328 for 6**. Zimbabwe fought for longer than in the series opener but were bowled out for 207 in 48.5 overs, with Vaishnavi Sharma taking 4 for 39 in only her second ODI.
 
 ## From 19 for 2 to 328
 

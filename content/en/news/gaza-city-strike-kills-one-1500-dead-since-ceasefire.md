@@ -42,13 +42,13 @@ verification:
     - "Alakbarov quote and Friday details from earlier Gandhi News stories (October 16 and 24)."
 ---
 
-Israeli strikes killed at least one person in Gaza City on Saturday, according to Shifa hospital, adding to a toll of more than 1,500 since last year's ceasefire.
+Israeli strikes killed at **least one person** in Gaza City on Saturday, according to Shifa hospital, adding to a toll of more than 1,500 since last year's ceasefire.
 
 The hospital did not name the victim or say exactly where in the city the strike landed. There was no immediate comment from the Israeli military.
 
 On Friday, Israeli strikes killed three people in southern Gaza and in Gaza City. Two of them died when a strike hit an electric bicycle in the al-Nasr neighbourhood, Palestinian medical sources said.
 
-Gaza's health ministry, which is run by Hamas, says more than 1,500 Palestinians have been killed by Israeli fire since the ceasefire between Israel and Hamas took hold in October 2025. The ministry does not distinguish between civilians and fighters in its count, but says women and children make up nearly half of the dead. United Nations agencies have generally regarded its figures as reliable.
+Gaza's health ministry, which is run by Hamas, says more than **1,500 Palestinians** have been killed by Israeli fire since the ceasefire between Israel and Hamas took hold in October 2025. The ministry does not distinguish between civilians and fighters in its count, but says women and children make up nearly half of the dead. United Nations agencies have generally regarded its figures as reliable.
 
 Ramiz Alakbarov, the UN's acting Special Coordinator for the Middle East Peace Process, told the Security Council this month that for Palestinians living along the "Yellow Line", the boundary of the area still held by Israeli troops, "the ceasefire exists in name only".
 

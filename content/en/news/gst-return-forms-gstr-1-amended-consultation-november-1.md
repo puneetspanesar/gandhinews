@@ -37,7 +37,7 @@ verification:
     - "Quotes 'With regard to audit, we need to have a look' and 'no harassment' verbatim from source."
 ---
 
-Revised versions of the monthly GST return forms GSTR-1, GSTR-1A and IFF will be put up for public comment on the MyGov portal from November 1, and will come into force on April 1, 2027, a senior tax official said on Thursday.
+Revised versions of the monthly GST return forms **GSTR-1, GSTR-1A and IFF** will be put up for public comment on the MyGov portal from November 1, and will come into force on April 1, 2027, a senior tax official said on Thursday.
 
 Gaurav Singh, Commissioner of the GST Policy Wing at the Central Board of Indirect Taxes and Customs (CBIC), told reporters that comments will be taken until November 30. The changes are meant to make the sales return line up better with GSTR-3B, the monthly form on which businesses pay their tax.
 

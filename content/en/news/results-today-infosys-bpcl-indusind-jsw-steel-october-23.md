@@ -55,13 +55,13 @@ verification:
 
 Friday is one of the heaviest days of the September-quarter results season, and the market will spend it waiting for one name in particular. Infosys, India's second-largest software exporter, reports after the close, a day after a slump in US technology shares and with investors already wary of what clients are spending.
 
-Infosys is due to release its numbers around 3:45 pm, with a leadership press conference at 4:30 pm and a call with analysts at 6 pm. The board will also consider an interim dividend. Analysts' consensus points to net profit of about ₹7,904 crore on revenue of about ₹49,108 crore, with an operating margin of 21.2%.
+Infosys is due to release its numbers around 3:45 pm, with a leadership press conference at 4:30 pm and a call with analysts at 6 pm. The board will also consider an interim dividend. Analysts' consensus points to net profit of about **₹7,904 crore** on revenue of about ₹49,108 crore, with an operating margin of 21.2%.
 
 ## What analysts expect
 
-Brokerages are looking for modest growth. Emkay Global expects profit of ₹8,026.70 crore, up 9% from a year earlier. "We expect 1.5 per cent QoQ dollar revenue growth," it said, adding that it expects the company to trim its constant-currency revenue guidance to 1.5% to 2.5%, excluding the Versent acquisition, while keeping its 20% to 22% margin range. Kotak Institutional Equities is more cautious, at ₹7,689 crore. HDFC Institutional Equities expects deal wins of $2 billion to $3 billion.
+Brokerages are looking for modest growth. Emkay Global expects profit of **₹8,026.70 crore**, up 9% from a year earlier. "We expect 1.5 per cent QoQ dollar revenue growth," it said, adding that it expects the company to trim its constant-currency revenue guidance to 1.5% to 2.5%, excluding the Versent acquisition, while keeping its 20% to 22% margin range. Kotak Institutional Equities is more cautious, at ₹7,689 crore. HDFC Institutional Equities expects deal wins of $2 billion to $3 billion.
 
-Investors will also listen for chief executive-designate Ashiss Kumar Dash on the leadership handover and on large deal renewals. The shares closed at ₹1,156 on Thursday.
+Investors will also listen for chief executive-designate Ashiss Kumar Dash on the leadership handover and on large deal renewals. The shares closed at **₹1,156** on Thursday.
 
 ## The rest of the list
 
@@ -69,9 +69,9 @@ Bharat Petroleum, whose margins have been squeezed by crude above $110 a barrel,
 
 ## Jio's last day and the reserves
 
-Jio Platforms' ₹30,213 crore share sale, the largest attempted in India, closes on Friday. By Thursday evening it had drawn bids for 5.51 times the shares on offer, with institutions subscribing 13.14 times and small investors 1.53 times.
+Jio Platforms' ₹30,213 crore share sale, the largest attempted in India, closes on Friday. By Thursday evening it had drawn bids for **5.51 times** the shares on offer, with institutions subscribing 13.14 times and small investors 1.53 times.
 
-In the evening, the Reserve Bank of India is due to publish its weekly statistical supplement, including foreign exchange reserves for the week to October 16. Reserves had fallen for five straight weeks to $726.03 billion by October 9 as the central bank defended the rupee, which closed at 94.82 to the dollar on Thursday.
+In the evening, the Reserve Bank of India is due to publish its weekly statistical supplement, including foreign exchange reserves for the week to October 16. Reserves had fallen for five straight weeks to **$726.03 billion** by October 9 as the central bank defended the rupee, which closed at 94.82 to the dollar on Thursday.
 
 ## The backdrop
 

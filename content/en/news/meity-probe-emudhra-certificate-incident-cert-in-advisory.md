@@ -39,7 +39,7 @@ verification:
 
 The Ministry of Electronics and Information Technology (MeitY) has opened an investigation into a security lapse at the digital certificate firm eMudhra, and the Indian Computer Emergency Response Team (CERT-In) issued a mitigation advisory on Wednesday.
 
-eMudhra has reported that the private keys tied to eight intermediate certification authority certificates within its public key infrastructure were compromised. Six of them were TLS certificates, the kind that secure connections to websites, and two were code-signing certificates, which vouch that software comes from a trusted publisher.
+eMudhra has reported that the private keys tied to eight intermediate certification authority certificates within its public key infrastructure were compromised. Six of them were **TLS certificates**, the kind that secure connections to websites, and two were code-signing certificates, which vouch that software comes from a trusted publisher.
 
 ## What went wrong
 
@@ -47,7 +47,7 @@ The company said a flaw in its system produced weak cryptographic keys alongside
 
 Security experts say compromised TLS keys could let an attacker issue fraudulent certificates for domains they do not control, impersonate genuine websites, and intercept or alter encrypted traffic. Code-signing keys could be misused to pass off malicious software as coming from a trusted source.
 
-eMudhra said its infrastructure was not breached, no customer data was compromised and its physical and logical security controls remain intact. The problem, it said, was confined to a small part of its international TLS certificate business, which accounts for about 1% of its revenue, and did not touch its domestic digital signature operations.
+eMudhra said its infrastructure was not breached, no customer data was compromised and its physical and logical security controls remain intact. The problem, it said, was confined to a small part of its international TLS certificate business, which accounts for **about 1% of its revenue**, and did not touch its domestic digital signature operations.
 
 ## Government view
 

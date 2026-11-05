@@ -38,7 +38,7 @@ verification:
 
 India women go into Sunday's second one-day international against Zimbabwe at the BCA Stadium in Kotambi, near Vadodara, needing one more win to take the series, after a nine-wicket thrashing in the opener on Friday.
 
-Pratika Rawal set it up with an unbeaten 100 off 96 balls, hitting 15 boundaries as India reached 200 for one in only 27.1 overs, with 137 balls to spare. Shafali Verma finished alongside her on 64 not out off 33 balls, with five fours and four sixes, and the pair added an unbroken 106 for the second wicket. Smriti Mandhana made 32 off 34 before she was caught by Beloved Biza off Olinder Chare.
+Pratika Rawal set it up with an **unbeaten 100 off 96 balls**, hitting 15 boundaries as India reached 200 for one in only 27.1 overs, with 137 balls to spare. Shafali Verma finished alongside her on 64 not out off 33 balls, with five fours and four sixes, and the pair added an unbroken 106 for the second wicket. Smriti Mandhana made 32 off 34 before she was caught by Beloved Biza off Olinder Chare.
 
 ## Spinners and seam in charge
 

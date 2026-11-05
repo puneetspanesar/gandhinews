@@ -41,14 +41,14 @@ verification:
     - "Monday FPI figure not available in either source; left out."
 ---
 
-The rupee ended a six-day winning streak on Monday, slipping 3 paise to close at 94.92 to the dollar as Indian shares fell and importers stepped up their dollar purchases.
+The rupee ended a six-day winning streak on Monday, slipping **3 paise** to close at 94.92 to the dollar as Indian shares fell and importers stepped up their dollar purchases.
 
-The currency opened at 94.90 and strengthened to 94.75 in early trade, but could not hold the gains. It weakened to 94.97 at one point before settling just shy of 95. The Nifty fell more than 1% as IT and financial stocks, which foreign investors own in large numbers, slid.
+The currency opened at 94.90 and strengthened to 94.75 in early trade, but could not hold the gains. It weakened to 94.97 at one point before settling just shy of 95. The Nifty fell more than **1%** as IT and financial stocks, which foreign investors own in large numbers, slid.
 
-Oil gave some help. Brent crude futures were down about 1.2% at $108.58 a barrel during Indian trading hours after the US waived some sanctions on Russian energy, and the dollar index was little changed at 101.93.
+Oil gave some help. Brent crude futures were down about **1.2%** at $108.58 a barrel during Indian trading hours after the US waived some sanctions on Russian energy, and the dollar index was little changed at 101.93.
 
 Analysts said oil would decide how far the rupee can recover. "RBI measures may help stabilise short-term currency movements, but a sustainable recovery will depend on lower oil prices," said Gaurav Garg, head of research at Lemonn. Anuj Choudhary, research analyst at Mirae Asset Sharekhan, said: "We expect the rupee to trade with a positive bias on overall weakness in the dollar."
 
 Traders are now waiting for Wednesday's minutes of the Reserve Bank's October meeting, at which it raised the repo rate for the first time in four years, for clues on how far it will go. "We expect a 25bp hike in December," economists at ANZ said in a note, adding that persistent pressure on the currency could push the central bank towards a bigger move. The US midterm elections on November 3 are another risk on traders' minds.
 
-The rupee had gained about 2% last week, the best showing among emerging market currencies, after hitting a record closing low of 96.88 on October 8.
+The rupee had gained about **2%** last week, the best showing among emerging market currencies, after hitting a record closing low of 96.88 on October 8.

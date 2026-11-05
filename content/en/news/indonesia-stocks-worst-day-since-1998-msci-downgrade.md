@@ -53,9 +53,9 @@ verification:
 
 Indonesia's stock market had its worst day in more than a quarter of a century on Friday after the global index provider MSCI proposed throwing the country out of its emerging-markets group.
 
-The Jakarta Composite Index fell more than 11%, its steepest one-day drop since January 1998. Trading on the Indonesia Stock Exchange was stopped for 30 minutes after the benchmark slid 8% soon after the opening bell. The rupiah weakened towards record lows against the US dollar.
+The Jakarta Composite Index fell **more than 11%**, its steepest one-day drop since January 1998. Trading on the Indonesia Stock Exchange was stopped for 30 minutes after the benchmark slid 8% soon after the opening bell. The rupiah weakened towards record lows against the US dollar.
 
-The fall leaves the index down close to 40% this year, the worst performance of any market in the region and its lowest level in six years. It came on a day when most of Asia was recovering. The MSCI Asia Pacific index rose 1.1% as investors went back into technology shares that had been sold off earlier in the week.
+The fall leaves the index down close to **40%** this year, the worst performance of any market in the region and its lowest level in six years. It came on a day when most of Asia was recovering. The MSCI Asia Pacific index rose 1.1% as investors went back into technology shares that had been sold off earlier in the week.
 
 ## What MSCI wants to do
 
@@ -77,6 +77,6 @@ Both Moody's and Fitch have already cut their outlook on Indonesia's credit rati
 
 The stock exchange said the proposal was not final. Its chief executive, Jeffrey Hendrik, has sought clarification from MSCI.
 
-Indonesian authorities have announced a series of reforms in recent months. They include disclosure of every shareholder holding more than 1% of a company, more detailed reporting of investor types, reporting under the High Shareholding Concentration framework, and a road map towards a minimum free float of 15%.
+Indonesian authorities have announced a series of reforms in recent months. They include disclosure of every shareholder holding more than **1%** of a company, more detailed reporting of investor types, reporting under the High Shareholding Concentration framework, and a road map towards a minimum free float of 15%.
 
 MSCI had warned after its June review that it would consider a consultation if there was not enough progress by its November 2026 review. Investors, it said, want to see the rules applied consistently and evidence that they are working.

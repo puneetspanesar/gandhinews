@@ -37,7 +37,7 @@ verification:
     - "No ECI response to Monday's hearing found."
 ---
 
-The Supreme Court said on Monday that it has neither approved nor rejected the Election Commission's new Form 6 for voter registration, because the form did not exist when it decided the Bihar Special Intensive Revision (SIR) case in May.
+The Supreme Court said on Monday that it has neither approved nor rejected the Election Commission's **new Form 6** for voter registration, because the form did not exist when it decided the Bihar Special Intensive Revision (SIR) case in May.
 
 "There is no adjudication on the new Form 6. That is all we have said," Justice Joymalya Bagchi said. "We will examine it."
 

@@ -47,7 +47,7 @@ sources:
 
 Ukraine launched more than 1,000 drones at Russia overnight into Sunday, setting fire to an oil export terminal in St Petersburg in one of the largest aerial attacks Kyiv has mounted since the full-scale war began.
 
-Alexander Beglov, governor of Russia's second city, said one person was killed and five were wounded. Fires broke out at the Petersburg Oil Terminal and at the city's Ruchi oil depot, a large fuel storage site. Russia's defence ministry said its forces destroyed 1,015 Ukrainian drones over 15 Russian regions, annexed Crimea and the Black Sea.
+Alexander Beglov, governor of Russia's second city, said one person was killed and five were wounded. Fires broke out at the Petersburg Oil Terminal and at the city's Ruchi oil depot, a large fuel storage site. Russia's defence ministry said its forces destroyed **1,015 Ukrainian drones** over 15 Russian regions, annexed Crimea and the Black Sea.
 
 ## A night of disruption
 
@@ -61,7 +61,7 @@ In Ukraine, Russian attacks on Zaporizhzhia killed a woman and wounded at least 
 
 The strikes deepen the collapse of the "energy ceasefire" that President Donald Trump announced on October 11 without giving details. Kyiv reported Russian attacks on its power grid soon afterwards, and on Thursday Ukraine confirmed it had resumed strikes on Russian oil facilities after a three-day pause. Trump has criticised those strikes, adding to the strain between Kyiv and Washington.
 
-President Volodymyr Zelenskyy said on Sunday that Russia had attacked Ukraine's energy, oil and gas sectors 76 times in the week since the announcement. Energy facilities in four regions were hit overnight, he said, leaving tens of thousands of families without power, and he accused Moscow of trying to cause a blackout.
+President Volodymyr Zelenskyy said on Sunday that Russia had attacked Ukraine's energy, oil and gas sectors **76 times** in the week since the announcement. Energy facilities in four regions were hit overnight, he said, leaving tens of thousands of families without power, and he accused Moscow of trying to cause a blackout.
 
 "America should see that Russia is not taking any reciprocal steps in response to sanctions relief or agreements," Zelenskyy wrote. "It is Russia that must face pressure for peace to have a chance."
 

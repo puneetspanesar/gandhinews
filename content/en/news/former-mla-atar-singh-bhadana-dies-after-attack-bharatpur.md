@@ -54,7 +54,7 @@ verification:
     - "PTI full text could not be read in full (Deccan Herald page truncated); CO Neeraj Bhardwaj's remark is paraphrased."
 ---
 
-Atar Singh Bhadana, a former BJP MLA in Rajasthan, has died after he was attacked with sticks and stones during a clash over a disputed stone crusher in Bharatpur district.
+Atar Singh Bhadana, a former BJP MLA in Rajasthan, has died after he was attacked with sticks and stones during a clash over a **disputed stone crusher** in Bharatpur district.
 
 Bhadana, 68, was hurt on Sunday evening at the crusher site in Bhonda village, in the Weir police station area. He was taken to a hospital in Weir and then referred to Sawai Man Singh (SMS) Hospital in Jaipur, where he died during treatment. His associate Gagan Sharma was also seriously injured and was referred to Bharatpur.
 
@@ -64,9 +64,9 @@ Neeraj Bhardwaj, the Circle Officer of Bhusawar, said both men were attacked wit
 
 Villagers in Bhonda had opposed the crusher unit for about two years. They accused Bhadana of illegal mining and of encroaching on grazing land and the access road to the site. The unit had been shut for about a year, and the effort to restart it reopened the dispute.
 
-Residents said they had been holding a sit-in for 10 to 15 days. According to the villagers, Bhadana arrived on Sunday with 40 to 50 people to end the protest, and an argument turned into stone-pelting and a fight.
+Residents said they had been holding a sit-in for 10 to **15 days**. According to the villagers, Bhadana arrived on Sunday with 40 to 50 people to end the protest, and an argument turned into stone-pelting and a fight.
 
-His wife, Kamlesh Singh, gave a different account. She said he reached the lease site at around 6:30 pm and that 70 to 80 people attacked him and others there. She said locals had cut the plant's power, damaged its water pump and threatened employees over a long period.
+His wife, Kamlesh Singh, gave a different account. She said he reached the lease site at around 6:30 pm and that 70 to **80 people** attacked him and others there. She said locals had cut the plant's power, damaged its water pump and threatened employees over a long period.
 
 > These incidents were constantly reported to the police and administration, but no effective action was taken.
 >
@@ -78,7 +78,7 @@ She also said her husband had been shot. Police said their initial investigation
 
 Bharatpur Superintendent of Police Rajesh Meena said teams were identifying those involved and some suspects had been detained for questioning. The site was secured and a forensic team was called in. Furniture and an office near the crusher were damaged.
 
-Arun Chaudhary, the officer in charge of Nadbai police station, said the family had named about 35 to 40 people in its complaint. Both sides accuse each other of assault. Extra police have been deployed in the village.
+Arun Chaudhary, the officer in charge of Nadbai police station, said the family had named about 35 to **40 people** in its complaint. Both sides accuse each other of assault. Extra police have been deployed in the village.
 
 ## Reactions
 

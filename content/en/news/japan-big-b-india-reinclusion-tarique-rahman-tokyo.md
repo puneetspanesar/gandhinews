@@ -52,13 +52,13 @@ That vision stalled after the fall of Sheikh Hasina's Awami League government on
 
 ## Why India matters to Tokyo
 
-By February 2024, Japan had provided about 385 billion yen in development assistance to northeast India, much of it for roads and other connectivity, according to the Embassy of Japan in India. Dhaka and Tokyo, officials said, have kept the door open for India to join when conditions allow.
+By February 2024, Japan had provided about **385 billion yen** in development assistance to northeast India, much of it for roads and other connectivity, according to the Embassy of Japan in India. Dhaka and Tokyo, officials said, have kept the door open for India to join when conditions allow.
 
 For New Delhi, a working link from the northeast through Bangladesh to a deep-water port on the Bay of Bengal would cut the long haul around the narrow Siliguri corridor, a goal that has driven Indian interest in Bangladeshi ports for years.
 
 ## A bigger partnership
 
-Tarique Rahman will be in Japan from October 26 to 29 at the invitation of Prime Minister Sanae Takaichi. Officials involved in the preparations said the two sides are expected to raise their relationship to a comprehensive strategic partnership, a tier Japan currently shares with ASEAN, the Philippines, Vietnam and Laos. Japan's foreign ministry said on Tuesday the visit should strengthen ties and coordination towards an updated vision of a Free and Open Indo-Pacific.
+Tarique Rahman will be in Japan from October 26 to 29 at the invitation of Prime Minister Sanae Takaichi. Officials involved in the preparations said the two sides are expected to raise their relationship to a **comprehensive strategic partnership**, a tier Japan currently shares with ASEAN, the Philippines, Vietnam and Laos. Japan's foreign ministry said on Tuesday the visit should strengthen ties and coordination towards an updated vision of a Free and Open Indo-Pacific.
 
 Dhaka is keeping its own counsel on Matarbari's regional role. Asked about Japan's idea of turning the port into a subregional hub, Foreign Secretary Asad Alam Siam said Bangladesh's ports must first meet the country's own needs. "If the port can handle more after meeting our demands, then we will think about it," he said.
 

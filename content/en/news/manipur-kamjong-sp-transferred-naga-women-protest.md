@@ -39,9 +39,9 @@ verification:
 
 The Manipur government on Sunday transferred the Superintendent of Police of Kamjong district, a day after suspected militants attacked Chassad, a Kuki village in the Naga-majority border district, killing a 36-year-old civilian and injuring four others.
 
-The order, issued by the Department of Personnel and Administrative Reforms, moved Manipur Police Service officer Tholu Rocky out of Kamjong "with immediate effect until further orders". He will become additional director of the Manipur Police Training College. Jay Barrage, an IPS officer who was additional SP (Law and Order) in Imphal West, takes charge as SP (in-charge) of Kamjong.
+The order, issued by the Department of Personnel and Administrative Reforms, moved Manipur Police Service officer **Tholu Rocky** out of Kamjong "with immediate effect until further orders". He will become additional director of the Manipur Police Training College. Jay Barrage, an IPS officer who was additional SP (Law and Order) in Imphal West, takes charge as SP (in-charge) of Kamjong.
 
-Officials said the attackers also set fire to 15 houses in Chassad on Saturday night.
+Officials said the attackers also set fire to **15 houses** in Chassad on Saturday night.
 
 ## Protest at the district headquarters
 

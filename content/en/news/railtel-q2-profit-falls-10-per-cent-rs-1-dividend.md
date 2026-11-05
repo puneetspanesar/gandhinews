@@ -48,17 +48,17 @@ verification:
     - "H1 total income ₹2,058.66 crore, H1 profit ₹134.34 crore: Whalesbook only. No management quotes found. Share price reaction will come Monday."
 ---
 
-RailTel Corporation of India, the state-owned telecom and IT infrastructure company of the railways, reported a 10% fall in quarterly profit on Sunday even as its revenue grew by a fifth, and declared an interim dividend of ₹1 a share.
+RailTel Corporation of India, the state-owned telecom and IT infrastructure company of the railways, reported a 10% fall in quarterly profit on Sunday even as its revenue grew by a fifth, and declared an interim dividend of **₹1 a share**.
 
-Profit for the quarter to September 30 came to ₹68.6 crore, down from ₹76.1 crore a year earlier. Revenue from operations rose 20.5% to ₹1,146 crore from ₹951.4 crore. The board met on a Sunday to approve the numbers.
+Profit for the quarter to September 30 came to ₹68.6 crore, down from ₹76.1 crore a year earlier. Revenue from operations rose **20.5% to ₹1,146 crore** from ₹951.4 crore. The board met on a Sunday to approve the numbers.
 
-An exceptional charge of ₹32.2 crore did much of the damage. Profit before tax fell to ₹92.3 crore from ₹105.3 crore, even though earnings before interest, tax, depreciation and amortisation rose 13.9% to ₹176 crore. The operating margin slipped to 15.4% from 16.2%.
+An exceptional charge of **₹32.2 crore** did much of the damage. Profit before tax fell to ₹92.3 crore from ₹105.3 crore, even though earnings before interest, tax, depreciation and amortisation rose 13.9% to ₹176 crore. The operating margin slipped to 15.4% from 16.2%.
 
 ## Projects outpace telecom
 
-Most of the growth came from project work services, the larger of RailTel's two segments, which brought in ₹749.2 crore, up from ₹583.8 crore a year ago. Telecom services rose more slowly, to ₹396.9 crore from ₹367.5 crore.
+Most of the growth came from project work services, the larger of RailTel's two segments, which brought in **₹749.2 crore**, up from ₹583.8 crore a year ago. Telecom services rose more slowly, to ₹396.9 crore from ₹367.5 crore.
 
-For the first half of the year, RailTel's total income was ₹2,058.66 crore and its profit ₹134.34 crore.
+For the first half of the year, RailTel's total income was **₹2,058.66 crore** and its profit ₹134.34 crore.
 
 ## The dividend
 

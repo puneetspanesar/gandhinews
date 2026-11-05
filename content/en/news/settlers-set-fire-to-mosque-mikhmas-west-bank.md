@@ -46,4 +46,4 @@ The Israeli military said soldiers were sent to the village after reports of gra
 
 Rouhi Fattouh, president of the Palestinian National Council, called the attack "a barbaric act and a dangerous escalation in settler terrorism".
 
-In recent weeks villagers in Mikhmas have set up night-watch patrols, afraid that settlers will torch homes, especially on the edges of the village.
+In recent weeks villagers in Mikhmas have set up **night-watch patrols**, afraid that settlers will torch homes, especially on the edges of the village.

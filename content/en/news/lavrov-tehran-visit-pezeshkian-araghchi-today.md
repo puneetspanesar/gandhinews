@@ -46,7 +46,7 @@ verification:
     - "No time of arrival or outcomes known; written as preview."
 ---
 
-Russian Foreign Minister Sergey Lavrov travels to Tehran on Monday for talks with his Iranian counterpart Abbas Araghchi and a meeting with President Masoud Pezeshkian, as Moscow tries to position itself as a broker in the standoff over the Strait of Hormuz.
+Russian Foreign Minister Sergey Lavrov travels to Tehran on Monday for talks with his Iranian counterpart Abbas Araghchi and a meeting with **President Masoud Pezeshkian**, as Moscow tries to position itself as a broker in the standoff over the Strait of Hormuz.
 
 "On October 19, Russian Foreign Minister Sergey Lavrov will pay a working visit to Tehran," the Russian Foreign Ministry said. Spokesperson Maria Zakharova said the two sides would discuss "current international and regional problems with a focus on the situation around Iran," including steps Russia is taking to de-escalate tensions in the region.
 

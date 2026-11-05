@@ -43,12 +43,12 @@ verification:
 
 Kimi Antonelli arrives in Texas this weekend with the Formula 1 world championship within reach. The 20-year-old Mercedes driver can wrap up the title at Sunday's United States Grand Prix in Austin, and in doing so become the youngest champion in the sport's history.
 
-He will need a perfect weekend. Antonelli has 340 points, 102 ahead of team-mate George Russell on 238 and 111 clear of Lewis Hamilton on 229, with six races left including Austin. To clinch, he must leave Austin at least 125 points ahead of both, which he can only do by winning the race.
+He will need a perfect weekend. Antonelli has **340 points**, 102 ahead of team-mate George Russell on 238 and 111 clear of Lewis Hamilton on 229, with six races left including Austin. To clinch, he must leave Austin at least 125 points ahead of both, which he can only do by winning the race.
 
-A victory would put him on 365 points and end the hopes of Max Verstappen, Charles Leclerc and Lando Norris. The rest depends on his rivals. If Russell finishes eighth or higher, the fight goes on. If he finishes ninth, he would be exactly 125 points behind with five races left, and Antonelli would take the title on countback, with nine wins to Russell's maximum of eight. For Hamilton, fourth place keeps him alive, while fifth or lower hands Antonelli the crown.
+A victory would put him on **365 points** and end the hopes of Max Verstappen, Charles Leclerc and Lando Norris. The rest depends on his rivals. If Russell finishes eighth or higher, the fight goes on. If he finishes ninth, he would be exactly 125 points behind with five races left, and Antonelli would take the title on countback, with nine wins to Russell's maximum of eight. For Hamilton, fourth place keeps him alive, while fifth or lower hands Antonelli the crown.
 
 Anything less than a win, and the title fight goes on to the next race at the earliest.
 
 Antonelli's season has been built on more than raw speed. He won his home race at Monza from 19th on the grid, then deliberately eased off in Baku two races later to finish fifth, before back-to-back podiums in Malaysia and Singapore, where Verstappen won.
 
-A title would make him the first Italian world champion since Alberto Ascari in 1953.
+A title would make him the **first Italian** world champion since Alberto Ascari in 1953.

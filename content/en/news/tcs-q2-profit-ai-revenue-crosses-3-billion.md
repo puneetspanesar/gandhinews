@@ -121,17 +121,17 @@ verification:
     - "Fact-check Oct 12: AI revenue was given as '$3.1 billion' (Business Today, Upstox, NiftyTrader) or 'crossed/exceeding $3 billion' (Outlook Business; COO quote in YourStory). 'Crossed $3.1 billion' overstated it; changed to 'reached $3.1 billion' in keyPoints, body and SEO (EN and HI). Best Buy GCC now in two sources (Outlook Business: TCS will take over the centre and turn it into an AI capability centre; YourStory), so hedge removed. Re-checked against BT, Upstox, YourStory, Outlook, NiftyTrader: profit, revenue, 11.2%/1.3%/0.5% growth, chart values for Q2 FY26 and Q1 FY27, segment/geography CC QoQ, 24% margin, ₹14,190 cr cash (102.2%), TCV, headcount, 13.3% attrition, dividend dates and CEO quotes all match. HCLTech results Oct 12 with third interim dividend (Multibagg) and Wipro Oct 15 (Wipro press release) confirmed. Chart values for Q3 and Q4 FY26 not re-checked."
 ---
 
-Tata Consultancy Services earned a net profit of ₹13,884 crore in July-September 2026, about 15% more than the ₹12,075 crore it made a year earlier. Revenue rose 11.2% to ₹73,188 crore. The company announced the results on October 8.
+Tata Consultancy Services earned a net profit of ₹13,884 crore in July-September 2026, **about 15%** more than the ₹12,075 crore it made a year earlier. Revenue rose 11.2% to ₹73,188 crore. The company announced the results on October 8.
 
-Annualised revenue from artificial intelligence work reached $3.1 billion, more than 10% of TCS's total revenue. Chief executive K Krithivasan described two of the quarter's deals, with Porsche and Best Buy, as a new category of transformation partnerships.
+Annualised revenue from artificial intelligence work reached **$3.1 billion**, more than 10% of TCS's total revenue. Chief executive K Krithivasan described two of the quarter's deals, with Porsche and Best Buy, as a new category of transformation partnerships.
 
 ## Profit against the June quarter
 
-Against the June quarter, profit rose about 4% from ₹13,349 crore. That earlier figure included a one-time loss on a legal claim settlement. Leaving that out, profit was almost flat.
+Against the June quarter, profit rose about **4%** from ₹13,349 crore. That earlier figure included a one-time loss on a legal claim settlement. Leaving that out, profit was almost flat.
 
-Growth also looks smaller once currency is stripped out. Revenue rose 1.3% from the June quarter in rupees, but only 0.5% in constant currency. A weaker rupee lifts the rupee value of dollar and euro earnings, and the rupee has been close to 97 to the dollar this month.
+Growth also looks smaller once currency is stripped out. Revenue rose **1.3%** from the June quarter in rupees, but only 0.5% in constant currency. A weaker rupee lifts the rupee value of dollar and euro earnings, and the rupee has been close to 97 to the dollar this month.
 
-The operating margin was 24%, level with the previous quarter. Net cash from operations was ₹14,190 crore, about 102% of net income.
+The operating margin was **24%**, level with the previous quarter. Net cash from operations was ₹14,190 crore, about 102% of net income.
 
 ```chart
 {"type":"vbar","title":"TCS quarterly revenue","subtitle":"Revenue from operations (₹ crore)","unit":"₹ crore","data":[{"label":"Jul-Sep 2025","value":65799},{"label":"Oct-Dec 2025","value":67087},{"label":"Jan-Mar 2026","value":70698},{"label":"Apr-Jun 2026","value":72275},{"label":"Jul-Sep 2026","value":73188,"highlight":true}]}

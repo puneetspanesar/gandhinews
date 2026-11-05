@@ -58,7 +58,7 @@ verification:
     - "Hero: English Wikipedia title for Adm. Cooper assumed to be 'Brad Cooper (admiral)'; check."
 ---
 
-The commander of US forces in the Middle East said on Sunday that more than 3,000 commercial ships have passed through the Strait of Hormuz with American military support over the past six months, and that the shipping lanes have been swept clear of Iranian mines.
+The commander of US forces in the Middle East said on Sunday that **more than 3,000** commercial ships have passed through the Strait of Hormuz with American military support over the past six months, and that the shipping lanes have been swept clear of Iranian mines.
 
 Admiral Brad Cooper, head of US Central Command (CENTCOM), flew over the strait to underline US backing for Gulf oil exports. CENTCOM said the US had helped its Gulf allies ship "more than 1.5 billion barrels" since the summer, and that its forces had "successfully cleared" the lanes of sea mines laid by Iran's Islamic Revolutionary Guard Corps.
 

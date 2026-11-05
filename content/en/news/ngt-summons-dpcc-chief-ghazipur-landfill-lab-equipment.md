@@ -36,13 +36,13 @@ verification:
     - "Case described as the Ghazipur landfill fire case, taken up on the basis of a news report (suo motu application); date of the fire not given."
 ---
 
-The National Green Tribunal on Friday told the member secretary of the Delhi Pollution Control Committee (DPCC) to appear before it and explain whether the city's pollution watchdog has a working laboratory, after the committee admitted it did not have the equipment to test groundwater near the Ghazipur landfill.
+The National Green Tribunal on Friday told the **member secretary** of the Delhi Pollution Control Committee (DPCC) to appear before it and explain whether the city's pollution watchdog has a working laboratory, after the committee admitted it did not have the equipment to test groundwater near the Ghazipur landfill.
 
 A bench of NGT chairperson Justice Prakash Shrivastava and expert member Dr Afroz Ahmad was hearing a case it took up on the basis of a news report about a fire at the landfill in east Delhi.
 
-In an earlier order, the tribunal had asked the DPCC to collect groundwater samples from at least 20 places within the prescribed radius of the landfill, later widened to 1.5 km, and test them under the Solid Waste Management Rules, 2026. It wanted a report on the results.
+In an earlier order, the tribunal had asked the DPCC to collect groundwater samples from at **least 20** places within the prescribed radius of the landfill, later widened to 1.5 km, and test them under the Solid Waste Management Rules, 2026. It wanted a report on the results.
 
-On Friday, the DPCC's counsel told the bench that the committee did not have the equipment needed for groundwater testing. A tender had been floated on the Government e-Marketplace (GeM) portal, the counsel said, and testing would begin once the equipment arrived.
+On Friday, the DPCC's counsel told the bench that the committee did not have the equipment needed for **groundwater testing**. A tender had been floated on the Government e-Marketplace (GeM) portal, the counsel said, and testing would begin once the equipment arrived.
 
 The bench said the DPCC was expected to have a fully equipped laboratory. It directed the committee's member secretary to appear virtually at the next hearing and set out the state of the lab and the equipment it has.
 

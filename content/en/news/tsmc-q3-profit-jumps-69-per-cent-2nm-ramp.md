@@ -49,21 +49,21 @@ verification:
     - "Release time on Oct 15 not confirmed; published time set to Thursday afternoon IST."
 ---
 
-Taiwan Semiconductor Manufacturing Company (TSMC) said on Thursday that its net income rose 68.7% from a year earlier in the July to September quarter, on the back of strong demand for its most advanced manufacturing processes.
+Taiwan Semiconductor Manufacturing Company (TSMC) said on Thursday that its net income rose **68.7%** from a year earlier in the July to September quarter, on the back of strong demand for its most advanced manufacturing processes.
 
-TSMC earned NT$763.06 billion in the third quarter, against NT$452.30 billion a year earlier. Revenue rose 50.9% to NT$1,494.24 billion, or $46.72 billion, and was up 17.6% on the previous quarter.
+TSMC earned NT$763.06 billion in the third quarter, against NT$452.30 billion a year earlier. Revenue rose **50.9%** to NT$1,494.24 billion, or $46.72 billion, and was up 17.6% on the previous quarter.
 
 "Our business in the third quarter was supported by strong demand for our leading-edge process technologies," said Wendell Huang, TSMC's senior vice-president and chief financial officer.
 
 ## Smaller chips, fatter margins
 
-The quarter showed how quickly TSMC's newest manufacturing process is spreading. Chips made on its 2nm technology accounted for 8% of wafer revenue. The 3nm process brought in 33%, up from 23% a year ago, and 5nm a further 28%. Taken together, processes of 7nm and below made up 79% of what the company earned from wafers.
+The quarter showed how quickly TSMC's newest manufacturing process is spreading. Chips made on its 2nm technology accounted for **8%** of wafer revenue. The 3nm process brought in 33%, up from 23% a year ago, and 5nm a further 28%. Taken together, processes of 7nm and below made up 79% of what the company earned from wafers.
 
-Those advanced chips sell at a premium. TSMC's gross margin rose to 66.4%, from 59.5% a year earlier, and its operating margin was 58.7%. More than half of every dollar of revenue, 51.1%, ended up as profit.
+Those advanced chips sell at a premium. TSMC's gross margin rose to **66.4%**, from 59.5% a year earlier, and its operating margin was 58.7%. More than half of every dollar of revenue, 51.1%, ended up as profit.
 
 ## A bigger quarter ahead
 
-TSMC expects the run to continue. It forecast fourth-quarter revenue of $52.3 billion to $54.3 billion, about 14% more than in the third quarter at the midpoint, with a gross margin between 65% and 67%. The guidance assumes an exchange rate of 31.8 Taiwan dollars to the US dollar.
+TSMC expects the run to continue. It forecast fourth-quarter revenue of **$52.3 billion to $54.3 billion**, about 14% more than in the third quarter at the midpoint, with a gross margin between 65% and 67%. The guidance assumes an exchange rate of 31.8 Taiwan dollars to the US dollar.
 
 In July the company raised this year's capital spending budget to between $60 billion and $64 billion, saying demand for AI and high-performance computing was stronger than it had expected.
 

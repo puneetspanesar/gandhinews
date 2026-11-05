@@ -58,21 +58,21 @@ verification:
     - "Fiscal tax and subsidy growth rates rest on Deccan Chronicle's report of ICRA analysis; the CGA release itself could not be read."
 ---
 
-The Reserve Bank of India raised its repo rate by 25 basis points to 5.50% on October 7. It was the first increase since February 2023, and it came barely ten months after the last cut. Some will call it a reversal. We think it was the right call, made at the right size.
+The Reserve Bank of India raised its repo rate by 25 basis points to **5.50%** on October 7. It was the first increase since February 2023, and it came barely ten months after the last cut. Some will call it a reversal. We think it was the right call, made at the right size.
 
 ## The case for moving now
 
-Inflation has risen every month this year, from 2.74% in January to 4.82% in August. Food inflation is at 5.95%. The RBI found that about 37% of the consumer basket by weight was rising faster than 4%, which suggests the pressure is no longer confined to a few items.
+Inflation has risen every month this year, from **2.74%** in January to 4.82% in August. Food inflation is at 5.95%. The RBI found that about 37% of the consumer basket by weight was rising faster than 4%, which suggests the pressure is no longer confined to a few items.
 
-The outlook is worse than the present. The RBI expects inflation to reach 6.0% in October-December, the top of its tolerance band, and to average almost 5.8% over the next three quarters. A deficient monsoon and strong El Niño conditions threaten the rabi crop. Brent crude is still above $100 a barrel, and the rupee is close to 97 to the dollar, which makes every imported barrel dearer.
+The outlook is worse than the present. The RBI expects inflation to reach **6.0%** in October-December, the top of its tolerance band, and to average almost 5.8% over the next three quarters. A deficient monsoon and strong El Niño conditions threaten the rabi crop. Brent crude is still above $100 a barrel, and the rupee is close to 97 to the dollar, which makes every imported barrel dearer.
 
 A central bank that waits for inflation to arrive before acting usually has to act harder later. Moving by 25 basis points now, while growth is strong, is the cheaper option.
 
 ## The other side's best argument
 
-There is a serious case against the hike. This is largely a supply shock from oil and the weather, and higher interest rates do not lower the price of crude or make it rain. Core inflation excluding precious metals was only 2.9% in August. Two of the six MPC members, Dr Nagesh Kumar and Prof. Ram Singh, voted for the hike but wanted to keep the stance neutral. Borrowers with repo-linked loans will pay more within a quarter.
+There is a serious case against the hike. This is largely a supply shock from oil and the weather, and higher interest rates do not lower the price of crude or make it rain. Core inflation excluding precious metals was only **2.9%** in August. Two of the six MPC members, Dr Nagesh Kumar and Prof. Ram Singh, voted for the hike but wanted to keep the stance neutral. Borrowers with repo-linked loans will pay more within a quarter.
 
-These points deserve weight. But the RBI's mandate is to keep inflation near 4%, and its own projection has it near 6% within months. Supply shocks become a monetary problem when they feed into wages, rents and expectations, and the RBI has flagged elevated inflation expectations. As for growth, the economy expanded 7.8% in April-June and the RBI still projects 7.1% for the year. If there is a time to absorb a small increase, it is now.
+These points deserve weight. But the RBI's mandate is to keep inflation near **4%**, and its own projection has it near 6% within months. Supply shocks become a monetary problem when they feed into wages, rents and expectations, and the RBI has flagged elevated inflation expectations. As for growth, the economy expanded 7.8% in April-June and the RBI still projects 7.1% for the year. If there is a time to absorb a small increase, it is now.
 
 ## Now the fiscal side
 

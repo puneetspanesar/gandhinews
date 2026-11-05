@@ -55,9 +55,9 @@ verification:
     - "Number injured: WION says three people with minor burns; other reports do not give a number."
 ---
 
-Five people, three of them children, were killed on Friday evening when firecrackers being made inside a house in Alampur village in Bihar's Siwan district caught fire and set off a chain of explosions that went on for about two hours.
+Five people, three of them children, were killed on Friday evening when firecrackers being made inside a house in **Alampur village** in Bihar's Siwan district caught fire and set off a chain of explosions that went on for about two hours.
 
-The blast happened at about 5:30 pm at the home of Mohd Amiruddin Mian, 65, who was reported to have been in the firecracker trade for years. He died along with his two granddaughters, aged 14 and 8, and a 10-year-old boy from the neighbourhood. The fifth victim had not been identified by late night. Three others suffered minor burns.
+The blast happened at about 5:30 pm at the home of Mohd Amiruddin Mian, 65, who was reported to have been in the firecracker trade for years. He died along with his two **granddaughters, aged 14 and 8**, and a 10-year-old boy from the neighbourhood. The fifth victim had not been identified by late night. Three others suffered minor burns.
 
 Superintendent of Police Bharat Soni confirmed the toll. "Based on the assessment by the medical team, the Civil Surgeon has confirmed that five dead bodies have been recovered," he said. A medical team said there might be another body under the debris, and the search of the house continued after the fire was put out.
 
@@ -73,7 +73,7 @@ Soni suspended the station house officer of Jamo Bazar, Dhiraj Kumar, and the lo
 
 "We will register an FIR and investigate where the firecrackers were sourced," Soni said. "A special police team under the leadership of the SDPO Maharajganj, Aman Kumar, has been formed." The circle inspector of Maharajganj has been named investigating officer.
 
-Neighbours said the family held a licence connected to the firecracker trade and had worked in it for about 20 years. Police said they would check whether a licence existed and whether any verification had been skipped.
+Neighbours said the family held a licence connected to the firecracker trade and had worked in it for about **20 years**. Police said they would check whether a licence existed and whether any verification had been skipped.
 
 ## Before the festive season
 

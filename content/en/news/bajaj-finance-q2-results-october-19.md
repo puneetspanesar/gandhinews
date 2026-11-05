@@ -48,19 +48,19 @@ verification:
     - "Consensus ₹6,383 crore is from our Oct 19 preview (average of five brokerages)."
 ---
 
-Bajaj Finance, India's largest consumer lender, reported a 29% rise in quarterly profit on Monday and raised its forecast for loan growth this year, even as it braced for higher borrowing costs after the Reserve Bank's first rate increase in four years.
+Bajaj Finance, India's largest consumer lender, reported a **29%** rise in quarterly profit on Monday and raised its forecast for loan growth this year, even as it braced for higher borrowing costs after the Reserve Bank's first rate increase in four years.
 
-Consolidated net profit for July-September rose 28.7% to ₹6,366.57 crore from ₹4,947.76 crore a year earlier, a shade below the ₹6,383 crore that brokerages had expected on average. Net interest income, what the Pune-based company earns on loans after paying for its funds, grew 24% to ₹13,335 crore.
+Consolidated net profit for July-September rose **28.7% to ₹6,366.57 crore** from ₹4,947.76 crore a year earlier, a shade below the ₹6,383 crore that brokerages had expected on average. Net interest income, what the Pune-based company earns on loans after paying for its funds, grew 24% to ₹13,335 crore.
 
-Assets under management rose 26% to ₹5.85 lakh crore, with ₹37,680 crore added during the quarter. The company booked 1.345 crore new loans, 11% more than a year earlier, added 44.2 lakh customers and ended September with 12.89 crore customers in all. Deposits reached ₹69,754 crore, about 14% of its borrowings.
+Assets under management rose **26%** to ₹5.85 lakh crore, with ₹37,680 crore added during the quarter. The company booked 1.345 crore new loans, 11% more than a year earlier, added 44.2 lakh customers and ended September with 12.89 crore customers in all. Deposits reached ₹69,754 crore, about 14% of its borrowings.
 
-The numbers came after the close of trading. Shares had fallen 2.52% to ₹957.35 on the NSE during Monday's sell-off, and with exchanges shut on Tuesday for Dussehra, investors will get their first chance to react on Wednesday.
+The numbers came after the close of trading. Shares had fallen **2.52%** to ₹957.35 on the NSE during Monday's sell-off, and with exchanges shut on Tuesday for Dussehra, investors will get their first chance to react on Wednesday.
 
 ## A higher target
 
 The biggest change was to guidance. Rajeev Jain, the vice chairman and managing director, told analysts the lender now expects assets under management to grow 26-27% in 2026-27, up from the 23-25% it had forecast. "I would say probably between 26%, 27% growth, we should deliver now on a full year basis," he said. Over the medium term, he said, the company would stick to 23-25%.
 
-He also said the company was assuming two more rate rises this year and would build in "a marginal additional compression" in margins compared with what it had guided at the start of the year. The RBI raised its repo rate to 5.5% this month. The company lowered its leverage range to 5-5.5 times from 5.5-6 times and said it plans to raise capital. "It's pretty much for growth that we are looking to raise capital as we move forward," Jain said.
+He also said the company was assuming two more rate rises this year and would build in "a marginal additional compression" in margins compared with what it had guided at the start of the year. The RBI raised its repo rate to **5.5%** this month. The company lowered its leverage range to 5-5.5 times from 5.5-6 times and said it plans to raise capital. "It's pretty much for growth that we are looking to raise capital as we move forward," Jain said.
 
 ## Bad loans ease, but a buffer goes in
 

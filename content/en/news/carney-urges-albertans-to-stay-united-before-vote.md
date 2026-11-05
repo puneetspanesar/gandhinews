@@ -62,7 +62,7 @@ The video was filmed at his former high school in Edmonton, where Carney grew up
 
 On October 19 Albertans will answer 10 referendum questions. The one drawing attention asks whether Alberta should remain a province of Canada or whether its government should begin the legal process towards a binding provincial referendum on separation. The vote itself is not binding, but a win for the second option would set that process in motion.
 
-Polling suggests most Albertans would rather stay. The worry for unity campaigners is turnout. Former premier Jason Kenney has warned that a low turnout could favour the separatists, and attention is on "soft separatists" who may not want independence but want to send Ottawa a message.
+Polling suggests most Albertans would rather stay. The worry for unity campaigners is turnout. Former premier Jason Kenney has warned that a **low turnout** could favour the separatists, and attention is on "soft separatists" who may not want independence but want to send Ottawa a message.
 
 ## Both campaigns make their case
 

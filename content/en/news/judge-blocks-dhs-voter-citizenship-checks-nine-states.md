@@ -40,7 +40,7 @@ verification:
     - "Ruling issued Wednesday, Oct 21 (US time); Blanche remarks Thursday. States list and effective time agree across Washington Post syndication and Westfair. Court district not stated in sources read (Martínez-Olguín sits in N.D. California per general knowledge, not used)."
 ---
 
-A federal judge has ordered the Department of Homeland Security to stop field operations aimed at people it has reason to believe are US citizens in its drive to find noncitizen voters in nine states, less than two weeks before the midterm elections.
+A federal judge has ordered the Department of Homeland Security to stop field operations aimed at people it has reason to believe are US citizens in its drive to find noncitizen voters in **nine states**, less than two weeks before the midterm elections.
 
 US District Judge Araceli Martínez-Olguín ruled that the plaintiffs were likely to succeed in arguing that the initiative breaks the Voting Rights Act's ban on intimidating people who help or mobilise voters. Her order covers California, Connecticut, Georgia, Missouri, Nevada, New York, Pennsylvania, Washington and Wisconsin.
 

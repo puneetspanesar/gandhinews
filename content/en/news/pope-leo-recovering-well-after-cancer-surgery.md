@@ -35,7 +35,7 @@ verification:
     - "Breakfast and lunch detail and 'normal post-operative' wording are from the doctors' note as carried by Al Jazeera."
 ---
 
-Pope Leo XIV is out of bed, walking and eating normally a day after surgery to remove part of his right lung, his doctors said on Wednesday.
+Pope Leo XIV is **out of bed**, walking and eating normally a day after surgery to remove part of his right lung, his doctors said on Wednesday.
 
 In a medical note released by the Vatican, his personal physician, Luigi Carbone, and Stefano Margaritora, a member of his medical team, said a blood test and a chest X-ray showed "normal post-operative" progress, with readings "within the expected range for the type of procedure performed". The 71-year-old pontiff has also begun respiratory physiotherapy and went back to his usual diet, eating both breakfast and lunch.
 

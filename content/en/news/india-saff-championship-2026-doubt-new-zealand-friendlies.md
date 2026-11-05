@@ -44,7 +44,7 @@ The tournament is scheduled for Dhaka from November 5 to 17. India are due to op
 
 ## A crowded November
 
-The senior team is booked for two friendlies in New Zealand on November 12 and 15, marking 100 years of sporting relations between the two countries. It would be India's first match against New Zealand on their home soil, against a side that played at the 2026 FIFA World Cup.
+The senior team is booked for **two friendlies in New Zealand** on November 12 and 15, marking 100 years of sporting relations between the two countries. It would be India's first match against New Zealand on their home soil, against a side that played at the 2026 FIFA World Cup.
 
 The federation's plan had been to send an under-23 squad to the SAFF Championship and the senior side to New Zealand. That plan is still in place, but has not been confirmed.
 

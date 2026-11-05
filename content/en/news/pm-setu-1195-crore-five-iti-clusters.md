@@ -53,17 +53,17 @@ verification:
     - "Overall PM-SETU outlay not stated in sources; left out. Amounts sum to ₹1,194.92 crore (241 + 238.01 + 240.50 + 240 + 235.41)."
 ---
 
-The Centre has approved investment plans worth ₹1,194.92 crore to upgrade 25 Industrial Training Institutes (ITIs) in Maharashtra, Odisha and Jammu and Kashmir under its PM-SETU scheme.
+The Centre has approved investment plans worth **₹1,194.92 crore** to upgrade 25 Industrial Training Institutes (ITIs) in Maharashtra, Odisha and Jammu and Kashmir under its PM-SETU scheme.
 
-The approvals came at the sixth meeting of the scheme's National Steering Committee in New Delhi on Friday, chaired by Debashree Mukherjee, Secretary in the Ministry of Skill Development and Entrepreneurship. With them, investment cleared under PM-SETU so far has reached ₹3,687 crore.
+The approvals came at the sixth meeting of the scheme's National Steering Committee in New Delhi on Friday, chaired by Debashree Mukherjee, Secretary in the Ministry of Skill Development and Entrepreneurship. With them, investment cleared under PM-SETU so far has reached **₹3,687 crore**.
 
 "The approvals given by the National Steering Committee are an important step in implementing PM-SETU. They will help strengthen ITIs, improve training and increase industry participation," Mukherjee said.
 
 ## Five clusters, five partners
 
-Each cluster has a government hub ITI linked to four spoke ITIs, with an industry partner on board. The Pune cluster, built around ITI Aundh, gets ₹241 crore with BVG India. Chhatrapati Sambhajinagar gets ₹238.01 crore with Belrise Industries. In Odisha, the Kataka cluster, which includes ITIs at Choudwar, Paradeep, Jajpur and Dhenkanal, gets ₹240.50 crore with the Tata Steel Foundation.
+Each cluster has a government hub ITI linked to four spoke ITIs, with an industry partner on board. The Pune cluster, built around ITI Aundh, gets **₹241 crore** with BVG India. Chhatrapati Sambhajinagar gets ₹238.01 crore with Belrise Industries. In Odisha, the Kataka cluster, which includes ITIs at Choudwar, Paradeep, Jajpur and Dhenkanal, gets ₹240.50 crore with the Tata Steel Foundation.
 
-In Jammu and Kashmir, the Jammu cluster, with spokes at R S Pura, Nowshera, Samba and Kathua, gets ₹240 crore with Eagle Infra India. The Srinagar cluster, covering Ganderbal, Kangan, Budgam and Charar-i-Sharief, gets ₹235.41 crore with Inderdeep Infra India.
+In Jammu and Kashmir, the Jammu cluster, with spokes at R S Pura, Nowshera, Samba and Kathua, gets **₹240 crore** with Eagle Infra India. The Srinagar cluster, covering Ganderbal, Kangan, Budgam and Charar-i-Sharief, gets ₹235.41 crore with Inderdeep Infra India.
 
 The money will go into buildings and equipment, new courses designed with industry, and better-trained instructors.
 

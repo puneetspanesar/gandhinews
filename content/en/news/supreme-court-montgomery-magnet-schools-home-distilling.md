@@ -62,7 +62,7 @@ verification:
     - "Wilcox denial was without explanation; NLRB 3-1 Republican majority per National Law Review."
 ---
 
-The US Supreme Court on Monday agreed to decide a challenge by Asian-American parents to admissions at Maryland's selective magnet middle schools, putting race and school admissions back before the justices for the first time since they declined two similar cases in 2024.
+The US Supreme Court on Monday agreed to decide a challenge by **Asian-American parents** to admissions at Maryland's selective magnet middle schools, putting race and school admissions back before the justices for the first time since they declined two similar cases in 2024.
 
 In the same set of orders, from their October 16 conference, the justices also took up the federal government's defence of a ban on home distilleries dating to 1868, and turned away two closely watched appeals: one by a former labour board member fired by President Donald Trump, the other by Google.
 
@@ -86,4 +86,4 @@ The suit was filed in 2023 by the Hobby Distillers Association and some of its m
 
 Without comment, the court declined to hear Gwynne Wilcox, a National Labor Relations Board member nominated by President Joe Biden whom Trump removed in 2025. Her case had largely been settled by the court's June ruling in Trump v. Slaughter, which struck down removal protections for Federal Trade Commission members. The refusal leaves the board with a 3-1 Republican majority.
 
-The justices also rejected Google's challenge to a US Patent and Trademark Office policy that makes it harder to seek reviews of patents in force for more than six years. Google had argued that "the PTO (Patent and Trademark Office) has no authority to create a limitations period where Congress did not." The patent board took up 37% of review requests in 2026, down from 65% under the previous director, Kathi Vidal.
+The justices also rejected Google's challenge to a US Patent and Trademark Office policy that makes it harder to seek reviews of patents in force for more than six years. Google had argued that "the PTO (Patent and Trademark Office) has no authority to create a limitations period where Congress did not." The patent board took up **37%** of review requests in 2026, down from 65% under the previous director, Kathi Vidal.

@@ -59,7 +59,7 @@ Iran's offer to reopen the Strait of Hormuz within a week is still on the table,
 
 Speaking to Iranian media in Baghdad, where he had arrived for a meeting of Organisation of Islamic Cooperation foreign ministers, Araghchi said: "Our situation is clear and based on the seven-days proposal presented to the US." He said "the way to reopening the Strait of Hormuz is obvious," but questioned Washington's good faith, "if there is any honesty on the US part, which there isn't."
 
-Under the plan, he said, the strait would open within six days if the United States accepted Tehran's conditions, and talks between the two countries would resume on the seventh. Iran put the proposal forward in mid-September after an interim ceasefire collapsed. Its security chief said last week that talks had stalled because Washington had not addressed all seven of Iran's conditions.
+Under the plan, he said, the strait would open **within six days** if the United States accepted Tehran's conditions, and talks between the two countries would resume on the seventh. Iran put the proposal forward in mid-September after an interim ceasefire collapsed. Its security chief said last week that talks had stalled because Washington had not addressed all seven of Iran's conditions.
 
 ## Two tankers, two fires
 
@@ -81,4 +81,4 @@ Diplomacy moves to Tehran on Monday, when Russian Foreign Minister Sergey Lavrov
 
 ## The India angle
 
-The disruption has fed straight into India's fuel costs: the country's crude import bill rose to $90.6 billion in April-September, up 46.3 per cent, on barely changed volumes. Two Indian crew of the tanker MT Petro Dolphin, Bir Bahadur Yadav and Amit Singh, have been missing since a drone hit the ship off Oman a week ago.
+The disruption has fed straight into India's fuel costs: the country's crude import bill rose to **$90.6 billion** in April-September, up 46.3 per cent, on barely changed volumes. Two Indian crew of the tanker MT Petro Dolphin, Bir Bahadur Yadav and Amit Singh, have been missing since a drone hit the ship off Oman a week ago.

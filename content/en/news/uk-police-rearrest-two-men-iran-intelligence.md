@@ -43,11 +43,11 @@ verification:
 
 British counter-terrorism police on Tuesday re-arrested two men on suspicion of helping Iran's intelligence service, as they push on with their investigation into a suspected plot against RAF Fairford, the US-run air base in western England.
 
-Counter Terrorism Policing said the men, a 24-year-old British national and a 25-year-old dual British and Iranian national, were held under the National Security Act. Both had been arrested earlier in the inquiry and released on bail. Five other men arrested before them remain on bail, and no one has been charged.
+Counter Terrorism Policing said the men, a 24-year-old British national and a 25-year-old dual British and Iranian national, were held under the National Security Act. Both had been arrested earlier in the inquiry and released on bail. Five other men arrested before them remain on bail, and **no one has been charged**.
 
 Laurence Taylor, head of National Counter Terrorism Policing, said detectives were pursuing "many lines of enquiry involved in this hugely complex investigation". "We consider it highly likely that there is Iranian state involvement," he said, adding that investigators were examining "what that level of involvement was and the ambition behind it."
 
-The case centres on September 27, when armed police and army bomb disposal teams swarmed the rural area around the base and scores of residents were moved out of nearby homes. Police later said they had found a quantity of petrol, an accelerant, in three vans at the site, but no explosives.
+The case centres on September 27, when armed police and army bomb disposal teams swarmed the rural area around the base and scores of residents were moved out of nearby homes. Police later said they had found a quantity of petrol, an accelerant, in **three vans** at the site, but no explosives.
 
 RAF Fairford has been used by American bombers to strike Iran during this year's war. After British authorities linked Tehran to the incident, the US Air Force pulled all of its bombers out of the base earlier this month.
 

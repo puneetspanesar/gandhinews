@@ -37,11 +37,11 @@ verification:
     - "Minimums of 5.50% CET1 and 11.50% total CRAR are as stated in the disclosure."
 ---
 
-The Reserve Bank of India has found that Indian Overseas Bank understated the risk on parts of its loan book, and the central bank's calculation cuts the state-owned lender's capital adequacy ratio by about 0.7 percentage points, the bank has told the stock exchanges.
+The Reserve Bank of India has found that Indian Overseas Bank understated the risk on parts of its loan book, and the central bank's calculation cuts the state-owned lender's capital adequacy ratio by about **0.7 percentage points**, the bank has told the stock exchanges.
 
-The findings came from the RBI's Inspection for Supervisory Evaluation for 2026 and relate to the bank's books as of March 31, 2026. On the RBI's assessment, IOB's risk-weighted assets were ₹2,05,323.69 crore, against the bank's own figure of ₹1,97,931.60 crore, a difference of about ₹7,392 crore.
+The findings came from the RBI's Inspection for Supervisory Evaluation for 2026 and relate to the bank's books as of March 31, 2026. On the RBI's assessment, IOB's risk-weighted assets were ₹2,05,323.69 crore, against the bank's own figure of ₹1,97,931.60 crore, a difference of about **₹7,392 crore**.
 
-That pushes the total capital to risk-weighted assets ratio down to 19.06% from 19.78%. The core equity ratio falls to 16.32% from 16.94%, and the leverage ratio edges down to 6.58% from 6.60%. Capital itself is reduced by just ₹10 crore.
+That pushes the total capital to risk-weighted assets ratio down to **19.06% from 19.78%**. The core equity ratio falls to 16.32% from 16.94%, and the leverage ratio edges down to 6.58% from 6.60%. Capital itself is reduced by just ₹10 crore.
 
 ## Where the risk was missed
 
@@ -51,6 +51,6 @@ The third covers loans bought under secondary syndication arrangements from bank
 
 ## The bank's response
 
-IOB said the RBI's assessment has no impact on the net profit it reported for the year to March 2026. Its core equity and total capital ratios remain well above the regulatory minimums of 5.50% and 11.50%.
+IOB said the RBI's assessment has no impact on the net profit it reported for the year to March 2026. Its core equity and total capital ratios remain well above the regulatory minimums of **5.50%** and 11.50%.
 
 The bank added that it has already built the RBI's observations into its risk-weighted assets and capital ratios for the quarter that ended on September 30, 2026.

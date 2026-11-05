@@ -49,7 +49,7 @@ The elections to Mandal Parishad Territorial Constituencies (MPTCs) and Zilla Pa
 
 ## Chittoor and Tirupati
 
-The most prominent name on the party's list was K Narayana Swamy, a former Deputy Chief Minister. The YSRCP said cadres of the ruling Telugu Desam Party (TDP) attacked him near the Zilla Parishad chairman's office in Chittoor as he arrived to help a candidate file a ZPTC nomination from Penumuru.
+The most prominent name on the party's list was K Narayana Swamy, a **former Deputy Chief Minister**. The YSRCP said cadres of the ruling Telugu Desam Party (TDP) attacked him near the Zilla Parishad chairman's office in Chittoor as he arrived to help a candidate file a ZPTC nomination from Penumuru.
 
 In Chandragiri, in Tirupati district, the party said former MPTC member Madan Reddy and two supporters, Ramu and Lokesh, suffered serious head injuries and were taken to a government hospital. It alleged that the attack happened in the presence of Pulivarthi Vineel, son of the TDP MLA Pulivarthi Nani, and accused him of bringing in outsiders from Tamil Nadu.
 
@@ -57,7 +57,7 @@ Near the mandal development office in Srikalahasti, a YSRCP supporter's two-whee
 
 ## Detentions in Palnadu
 
-In Palnadu district, the party said police placed former MLA Brahmanaidu under house arrest in Narasaraopet, stopping him from accompanying candidates. In Piduguralla mandal, police arrested Kommineni Venkateswarlu, a member of the YSRCP state executive council and its observer for Macherla constituency, as he arrived to support MPTC candidates.
+In Palnadu district, the party said police placed former MLA Brahmanaidu under house arrest in Narasaraopet, stopping him from accompanying candidates. In Piduguralla mandal, police arrested **Kommineni Venkateswarlu**, a member of the YSRCP state executive council and its observer for Macherla constituency, as he arrived to support MPTC candidates.
 
 At the Macherla mandal office, the YSRCP alleged, TDP cadres attacked its candidates and snatched their nomination papers. The party described the day as part of "the continuing obstruction faced by YSRCP candidates during the MPTC and ZPTC nomination process".
 

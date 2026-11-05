@@ -59,21 +59,21 @@ verification:
     - "Next MPC meeting December 2-4 from the economy dashboard (RBI)."
 ---
 
-Wholesale prices in India rose at their fastest pace in the current series in September, as costlier fuel spread through food and factory goods. Inflation measured by the wholesale price index (WPI) climbed to 11.39% from 9.92% in August, provisional data from the commerce ministry showed on Wednesday.
+Wholesale prices in India rose at their fastest pace in the current series in September, as costlier fuel spread through food and factory goods. Inflation measured by the wholesale price index (WPI) climbed to **11.39%** from 9.92% in August, provisional data from the commerce ministry showed on Wednesday.
 
-The figure is the highest since the index moved to its new 2022-23 base, and it came in well above forecasts. After the August print, India Ratings and Research had pencilled in 10.2% for September and ICRA a range of 9.5% to 10%. The index itself rose to 112.5 from 110.8 a month earlier.
+The figure is the highest since the index moved to its new 2022-23 base, and it came in well above forecasts. After the August print, India Ratings and Research had pencilled in **10.2%** for September and ICRA a range of 9.5% to 10%. The index itself rose to 112.5 from 110.8 a month earlier.
 
 ## Fuel leads the climb
 
-Fuel and power prices were 25.85% higher than a year earlier, up from 22.93% in August. Within the group, crude petroleum and natural gas jumped 57.32%, from 34.41% the month before, and mineral oils, the refined fuels group, rose 40.02%. Coal and lignite inflation rose to 9.31% from 1.57%. Electricity was the only part of the group still cheaper than a year ago, down 0.43%.
+Fuel and power prices were **25.85%** higher than a year earlier, up from 22.93% in August. Within the group, crude petroleum and natural gas jumped 57.32%, from 34.41% the month before, and mineral oils, the refined fuels group, rose 40.02%. Coal and lignite inflation rose to 9.31% from 1.57%. Electricity was the only part of the group still cheaper than a year ago, down 0.43%.
 
 The pressure tracks the West Asia war. Brent crude was trading at about $106 a barrel on Wednesday, after weeks of tanker strikes in and around the Strait of Hormuz.
 
 ## Food and factory goods
 
-Food also got dearer. The WPI food index rose 8.66% from 7.05%, and food articles, the raw produce sold in wholesale markets, rose 8.14%, a 21-month high, from 5.67%. Manufactured food products eased slightly to 9.44%.
+Food also got dearer. The WPI food index rose **8.66%** from 7.05%, and food articles, the raw produce sold in wholesale markets, rose 8.14%, a 21-month high, from 5.67%. Manufactured food products eased slightly to 9.44%.
 
-The bigger worry for economists is the factory floor. Manufactured products, which carry 63.1% of the index weight, rose 9.76%, up from 8.37% and the highest in the series. Basic metals were up 16.96%, chemicals 16.74%, textiles 13.85% and rubber and plastic products 13.47%. Even computers and electronics turned positive at 4% after several months of falling prices.
+The bigger worry for economists is the factory floor. Manufactured products, which carry **63.1%** of the index weight, rose 9.76%, up from 8.37% and the highest in the series. Basic metals were up 16.96%, chemicals 16.74%, textiles 13.85% and rubber and plastic products 13.47%. Even computers and electronics turned positive at 4% after several months of falling prices.
 
 ```chart
 {"type":"hbar","title":"Wholesale inflation by group, September 2026","unit":"%","data":[{"label":"Fuel and power","value":25.85,"highlight":true},{"label":"Basic metals","value":16.96},{"label":"Chemicals","value":16.74},{"label":"Textiles","value":13.85},{"label":"Manufactured products","value":9.76},{"label":"Primary articles","value":8.67},{"label":"Food index","value":8.66},{"label":"All commodities","value":11.39,"highlight":true}]}

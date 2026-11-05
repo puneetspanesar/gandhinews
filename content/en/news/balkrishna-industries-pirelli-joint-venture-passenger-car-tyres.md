@@ -35,7 +35,7 @@ verification:
     - "Single source (Kotak Neo, 12:22 pm), summarising BKT's exchange filing; filing itself not read. Share move given as 'more than 2%' in body and 1.9% at day's peak of Rs 2,077.90; written as 'about 2%'. No investment amount or capacity disclosed. No direct quotes available."
 ---
 
-Balkrishna Industries, the Mumbai-based maker of tyres for tractors, mining trucks and other off-highway vehicles, has signed a framework agreement with Italy's Pirelli to explore a joint venture making passenger car tyres in India.
+Balkrishna Industries, the Mumbai-based maker of tyres for tractors, mining trucks and other off-highway vehicles, has signed a framework agreement with Italy's Pirelli to explore a **joint venture** making passenger car tyres in India.
 
 The two companies plan an equal partnership. The venture's board would have four directors, two from each side, with the chair rotating between them, and manufacturing capacity would be split equally.
 
@@ -45,4 +45,4 @@ Pirelli will also test and provide technical services for BKT's own SUV, car and
 
 The definitive joint venture agreement is to be signed later, with the company to be incorporated by December 31, 2030. Until it is running, the offtake deal continues, up to December 31, 2031, unless extended. No investment figure or capacity has been disclosed. The companies said they expect the arrangement to create opportunities in domestic and overseas markets.
 
-The deal gives BKT a foothold in the car tyre market, where it has had little presence. Its shares rose about 2% to a day's high of ₹2,077.90, recovering a little of a fall of nearly 12% over the past year.
+The deal gives BKT a foothold in the car tyre market, where it has had little presence. Its shares rose about **2%** to a day's high of ₹2,077.90, recovering a little of a fall of nearly 12% over the past year.

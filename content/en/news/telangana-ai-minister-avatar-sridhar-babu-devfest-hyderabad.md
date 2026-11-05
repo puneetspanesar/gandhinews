@@ -37,14 +37,14 @@ verification:
     - "Durishetty's USD 1 trillion by 2034 ambition paraphrased as in source."
 ---
 
-Telangana has put a digital version of its IT minister on stage. At the close of DevFest 2026, organised by Google Developer Group (GDG) Hyderabad, the state unveiled an "AI Minister", an avatar of IT and Electronics Minister D Sridhar Babu that took questions from young attendees in English and Telugu about the state's plans and priorities.
+Telangana has put a digital version of its IT minister on stage. At the close of DevFest 2026, organised by Google Developer Group (GDG) Hyderabad, the state unveiled an "AI Minister", an avatar of IT and Electronics Minister D Sridhar Babu that took questions from young attendees in **English and Telugu** about the state's plans and priorities.
 
-The organisers billed it as the first live, on-stage outing for the avatar, which they described as "pre-AGI". It was built on TensorGo's HumAIn platform under the guidance of Sai Krishna, IT adviser to the minister. This first phase was only the public launch. In the next, the state wants citizens to be able to talk to the avatar, send in feedback and grievances, and give the minister a clearer picture of problems on the ground.
+The organisers billed it as the first live, on-stage outing for the avatar, which they described as "pre-AGI". It was built on TensorGo's HumAIn platform under the guidance of Sai Krishna, IT adviser to the minister. This first phase was only the public launch. In the next, the state wants citizens to be able to talk to the avatar, send in **feedback and grievances**, and give the minister a clearer picture of problems on the ground.
 
 More than 3,300 developers, students, engineers and founders attended the event, themed "Build, Secure, Scale: Developers and Builders in the Agentic Era".
 
 Sridhar Babu himself joined by video for a keynote titled "Innovation at Scale". "As Telangana works towards becoming a global AI hub, we want our young innovators to be at the centre of that journey," he said.
 
-Anudeep Durishetty, Joint Secretary in the state's IT, Electronics and Communications Department, said the government wants AI to move beyond pilot projects. He pointed to the planned AI City, the AIKAM initiative, global capability centres and a Quantum District as part of the state's aim of building a $1 trillion economy by 2034.
+Anudeep Durishetty, Joint Secretary in the state's IT, Electronics and Communications Department, said the government wants AI to move beyond pilot projects. He pointed to the planned AI City, the AIKAM initiative, global capability centres and a Quantum District as part of the state's aim of building a **$1 trillion** economy by 2034.
 
-Srini Chilukuri, founder of TensorGo Software, said work was shifting towards AI teammates that can see, hear, understand and act alongside people. GDG Hyderabad, which has run for 13 years, has more than 23,000 developers in its community.
+Srini Chilukuri, founder of TensorGo Software, said work was shifting towards AI teammates that can see, hear, understand and act alongside people. GDG Hyderabad, which has run for **13 years**, has more than 23,000 developers in its community.

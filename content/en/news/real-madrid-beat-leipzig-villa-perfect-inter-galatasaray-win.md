@@ -56,7 +56,7 @@ The game opened up in the closing stages. Mbappe made it 3-0 in the 83rd minute 
 
 ## Around the grounds
 
-Aston Villa kept up their perfect start, beating Viking 3-1 for nine points from three matches. Inter edged Shakhtar Donetsk 1-0 in Milan, with Augusto scoring the only goal.
+Aston Villa kept up their perfect start, beating Viking 3-1 for **nine points** from three matches. Inter edged Shakhtar Donetsk 1-0 in Milan, with Augusto scoring the only goal.
 
 Galatasaray won 4-2 away at Lille, and LASK beat Sporting 3-2 in Lisbon. Club Brugge beat Lens 3-0 and Real Betis edged Feyenoord 1-0.
 

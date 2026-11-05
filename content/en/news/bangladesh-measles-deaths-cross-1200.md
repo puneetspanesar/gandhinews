@@ -40,7 +40,7 @@ Two more children have died with measles-like symptoms in Bangladesh, taking the
 
 Both deaths, recorded in the 24 hours to 8 am on Friday, were classed as suspected measles deaths. That takes suspected deaths to 1,103 this year. Laboratory-confirmed deaths stand unchanged at 104.
 
-The spread shows little sign of slowing. Health officials logged 995 new suspected cases in the same 24 hours, bringing the total since the start of the year to 2,17,760. Another 36 cases were confirmed in the laboratory, for a cumulative 23,248 confirmed cases.
+The spread shows little sign of slowing. Health officials logged **995 new suspected cases** in the same 24 hours, bringing the total since the start of the year to 2,17,760. Another 36 cases were confirmed in the laboratory, for a cumulative 23,248 confirmed cases.
 
 Hospitals have carried much of the load. Since March 15, 1,93,608 suspected measles patients have been admitted across the country, the DGHS said, and 1,85,927 of them have recovered and gone home. The gap of 7,681 covers both patients still under treatment and those who did not survive. Hospitals have now been admitting suspected measles patients in large numbers for more than seven months.
 

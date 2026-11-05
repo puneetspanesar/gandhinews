@@ -52,14 +52,14 @@ verification:
     - "Cause of this collapse not reported. Time of day not reported; collapse reported Monday, Oct 19 local time."
 ---
 
-A landslide at an illegal gold mine in south-western Colombia has killed 14 people and injured seven, in the second deadly mine collapse in the department of Nariño in two months.
+A landslide at an illegal gold mine in south-western Colombia has killed **14 people** and injured seven, in the second deadly mine collapse in the department of Nariño in two months.
 
-The informal open-pit mine lies in the rural Chambero area of Santa Bárbara de Iscuandé, a municipality on the Pacific coast set in dense rainforest and reachable only by boat or light aircraft. Local officials reported the collapse on Monday.
+The informal open-pit mine lies in the rural Chambero area of **Santa Bárbara de Iscuandé**, a municipality on the Pacific coast set in dense rainforest and reachable only by boat or light aircraft. Local officials reported the collapse on Monday.
 
-Early reports put the toll at six, and Jorge Tovar Castillo, a disaster response official, said 12 to 15 miners were unaccounted for as rescuers dug through the earth. The final count stood at 14 dead.
+Early reports put the toll at six, and Jorge Tovar Castillo, a disaster response official, said 12 to 15 miners were unaccounted for as rescuers dug through the earth. The final count stood at **14 dead**.
 
 Nariño's governor, Luis Alfonso Escobar, said the rescue operation had ended. In a post on X he described the site as an informal mine and said the priority had been saving lives. Officials have not said what caused the collapse.
 
-In August, 13 workers were killed when a landslide buried another mine in Nariño, at Policarpa, a disaster local officials blamed on improper extraction of ore.
+In August, **13 workers** were killed when a landslide buried another mine in Nariño, at Policarpa, a disaster local officials blamed on improper extraction of ore.
 
 Informal and illegal gold mining is widespread in Colombia's remote Pacific regions, where pits are often dug with little engineering and heavy rain loosens the ground. With gold prices at record highs, the pull of the pits has only grown.

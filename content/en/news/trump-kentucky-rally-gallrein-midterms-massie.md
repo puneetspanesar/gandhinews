@@ -49,7 +49,7 @@ President Donald Trump told supporters in Northern Kentucky on Saturday to treat
 
 Trump warned that a Democratic win would bring a depression and repeated a promise that a Republican Congress would give every adult American $5,000. Such a payment would need Congress's approval and has been estimated to cost more than $1 trillion. He also said the war with Iran would end soon and that petrol prices would keep falling, and promised that the Defence Department would help revive a drug manufacturing plant in Kentucky if Republicans won.
 
-He brought Ed Gallrein, a former Navy SEAL and farmer, on stage. Gallrein beat Representative Thomas Massie in the Republican primary for the state's 4th district after Massie pushed for the release of the Jeffrey Epstein files and opposed the Iran war. Trump called Massie a "jerk" and a "loser". The jibes drew a mixed response, with part of the arena applauding and part staying silent.
+He brought **Ed Gallrein**, a former Navy SEAL and farmer, on stage. Gallrein beat Representative Thomas Massie in the Republican primary for the state's 4th district after Massie pushed for the release of the Jeffrey Epstein files and opposed the Iran war. Trump called Massie a "jerk" and a "loser". The jibes drew a mixed response, with part of the arena applauding and part staying silent.
 
 In a wandering speech, Trump also claimed credit for renaming the Gulf of Mexico the Gulf of America and said, without basis, that he had renamed Lake Ontario "Lake America".
 

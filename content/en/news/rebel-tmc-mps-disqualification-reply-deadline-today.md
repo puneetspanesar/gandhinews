@@ -52,4 +52,4 @@ Parliamentary records still list the 20 as Trinamool members, although they were
 
 Abhishek Banerjee has also gone to the Supreme Court over the delay. On September 25 the court observed that the Speaker should dispose of the petitions "expeditiously". The court returns from its Dussehra break on October 26.
 
-Whether the MPs file their replies on Tuesday or seek more time, the next move rests with the Speaker. The numbers matter beyond Bengal: the bloc's 20 votes affect the NDA's strength in the Lok Sabha, with talk that the government may bring back its delimitation bill.
+Whether the MPs file their replies on Tuesday or seek more time, the next move rests with the Speaker. The numbers matter beyond Bengal: the bloc's **20 votes** affect the NDA's strength in the Lok Sabha, with talk that the government may bring back its delimitation bill.

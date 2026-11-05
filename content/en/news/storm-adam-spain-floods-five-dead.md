@@ -64,15 +64,15 @@ The storm that drowned towns along Spain's eastern coast began to ease on Tuesda
 
 Prime Minister Pedro Sánchez was due to visit Oliva, on the Valencian coast, at about midday, accompanied by the regional president Juanfran Pérez Llorca and ministers Sara Aagesen, Fernando Grande-Marlaska and Diana Morant. He is expected to address the media at the emergency command post set up in the town.
 
-Storm Adam dumped 600 litres of rain per square metre on Oliva in 24 hours. L'Atzúvia, in Alicante province, recorded 713 litres over the whole episode, and nearby Pego took 632 litres in 36 hours, 430 of them in just six. The state weather agency Aemet called the rainfall in the counties of La Safor and Marina Alta "exceptional". Only two events in Spain have exceeded it: Oliva itself in 1987, with 817 litres in a day, and Turís during the catastrophic floods of 2024.
+Storm Adam dumped **600 litres of rain per square metre** on Oliva in 24 hours. L'Atzúvia, in Alicante province, recorded 713 litres over the whole episode, and nearby Pego took 632 litres in 36 hours, 430 of them in just six. The state weather agency Aemet called the rainfall in the counties of La Safor and Marina Alta "exceptional". Only two events in Spain have exceeded it: Oliva itself in 1987, with 817 litres in a day, and Turís during the catastrophic floods of 2024.
 
 ## Rooftops and campsites
 
-The Girona and Vernisa rivers and the Beniopa ravine burst their banks. In Oliva, streets went under and residents climbed to upper floors and rooftops to wait for rescue. About 2,000 people were moved out of seven campsites in the town. A woman was found dead inside a flooded property there, and a 64-year-old man suffered a fatal heart attack at a flooded campsite. Over the weekend, a woman was swept away near Cabrera de Mar, north of Barcelona, and another woman's body was recovered near Sagunto.
+The Girona and Vernisa rivers and the Beniopa ravine burst their banks. In Oliva, streets went under and residents climbed to upper floors and rooftops to wait for rescue. About **2,000 people** were moved out of seven campsites in the town. A woman was found dead inside a flooded property there, and a 64-year-old man suffered a fatal heart attack at a flooded campsite. Over the weekend, a woman was swept away near Cabrera de Mar, north of Barcelona, and another woman's body was recovered near Sagunto.
 
 On Tuesday rescuers also found the body of a farmer in the Pego-Oliva marshland. Officials are investigating whether his death is linked to the storm.
 
-The Civil Guard says it has evacuated more than 2,100 people in the Valencia region and rescued almost 500 since the storm began, deploying more than 1,300 officers with helicopters, boats and specialist water and mountain rescue teams. Around 400 people spent Monday night at Oliva's municipal centre.
+The Civil Guard says it has evacuated **more than 2,100 people** in the Valencia region and rescued almost 500 since the storm began, deploying more than 1,300 officers with helicopters, boats and specialist water and mountain rescue teams. Around 400 people spent Monday night at Oliva's municipal centre.
 
 The streets of Oliva remain covered in water and mud, and most rural roads are still cut off, though power and phone lines have been restored. A wall has collapsed at the town's Gabriel Císcar secondary school.
 

@@ -69,9 +69,9 @@ Other big cities were far cleaner: Mumbai was at 188, Kolkata 169, Ahmedabad 160
 
 ## Why the air is bad
 
-The slide began after Dussehra, with emissions from firecrackers and burning effigies adding to the usual load from traffic and construction dust. Cooler nights and slow winds are trapping pollutants close to the ground. The Indian Institute of Tropical Meteorology's Decision Support System estimated on Wednesday that transport accounted for about 21% of Delhi's PM2.5 and stubble burning in neighbouring states for about 4%. Forecasters expect the farm-fire share to grow.
+The slide began after Dussehra, with emissions from firecrackers and burning effigies adding to the usual load from traffic and construction dust. Cooler nights and slow winds are trapping pollutants close to the ground. The Indian Institute of Tropical Meteorology's Decision Support System estimated on Wednesday that transport accounted for about **21%** of Delhi's PM2.5 and stubble burning in neighbouring states for about 4%. Forecasters expect the farm-fire share to grow.
 
-The weather offers little help for now. Safdarjung recorded a minimum of 19°C, 1.8 degrees above normal, and the India Meteorological Department expects a maximum of around 32°C under mainly clear skies. A western disturbance due over the western Himalayas around October 24 could bring clouds to Delhi as well.
+The weather offers little help for now. Safdarjung recorded a minimum of 19°C, **1.8 degrees** above normal, and the India Meteorological Department expects a maximum of around 32°C under mainly clear skies. A western disturbance due over the western Himalayas around October 24 could bring clouds to Delhi as well.
 
 ## On the roads
 

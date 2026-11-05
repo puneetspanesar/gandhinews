@@ -91,7 +91,7 @@ verification:
     - "Not included: reports that some TVK leaders floated Vijay as a 2029 PM candidate (single sources, unnamed leaders) and claims about Congress ministers in the state cabinet (removed earlier from the bypoll story as unconfirmed)."
 ---
 
-Congress leader Rahul Gandhi had lunch with Tamil Nadu Chief Minister C. Joseph Vijay at Vijay's home in Neelankarai, Chennai, on Saturday. The two later went to a café in Palavakkam for coffee. A day later, Vijay was at the airport to receive Prime Minister Narendra Modi and rode the new Chennai Metro stretch with him.
+Congress leader Rahul Gandhi had lunch with Tamil Nadu **Chief Minister C. Joseph Vijay** at Vijay's home in Neelankarai, Chennai, on Saturday. The two later went to a café in Palavakkam for coffee. A day later, Vijay was at the airport to receive Prime Minister Narendra Modi and rode the new Chennai Metro stretch with him.
 
 Gandhi, the Leader of the Opposition in the Lok Sabha, was accompanied by Ghulam Ahmad Mir, the Congress general secretary in charge of Tamil Nadu and Puducherry, and state Congress president Manickam Tagore. Party sources put the talks at about an hour.
 

@@ -52,13 +52,13 @@ verification:
 
 Eternal, the company behind Zomato and the quick-commerce app Blinkit, said on Wednesday that its quarterly profit nearly doubled, as the rapid expansion of Blinkit lifted sales and kept the quick-commerce arm profitable.
 
-Net profit for July-September rose 92% to ₹125 crore, from ₹65 crore a year earlier and ₹92 crore in the June quarter. Revenue jumped 78% to ₹24,138 crore. Adjusted EBITDA, a measure of operating profit, nearly tripled to ₹666 crore.
+Net profit for July-September rose 92% to **₹125 crore**, from ₹65 crore a year earlier and ₹92 crore in the June quarter. Revenue jumped 78% to ₹24,138 crore. Adjusted EBITDA, a measure of operating profit, nearly tripled to ₹666 crore.
 
-The results came after the market closed. Eternal's shares had fallen as much as 5% during the day before ending 2.71% lower at ₹311.75 on the BSE.
+The results came after the market closed. Eternal's shares had fallen as much as **5%** during the day before ending 2.71% lower at ₹311.75 on the BSE.
 
 ## Blinkit carries the quarter
 
-Blinkit is now the bigger part of the business by a distance. The value of orders on the app rose 79% from a year earlier to ₹20,940 crore, and its revenue grew 94% to ₹19,152 crore. Adjusted EBITDA reached ₹184 crore, up from ₹102 crore in the June quarter. Blinkit first broke even, with ₹4 crore, in the October-December quarter of last year.
+Blinkit is now the bigger part of the business by a distance. The value of orders on the app rose **79%** from a year earlier to ₹20,940 crore, and its revenue grew 94% to ₹19,152 crore. Adjusted EBITDA reached ₹184 crore, up from ₹102 crore in the June quarter. Blinkit first broke even, with ₹4 crore, in the October-December quarter of last year.
 
 The company opened 308 dark stores, the small warehouses that make 10-minute deliveries possible, taking the total to 2,751. It now expects to cross 3,500 by March 2027, against an earlier target of 3,000, and to have about 5,000 by March 2028.
 
@@ -66,11 +66,11 @@ The company opened 308 dark stores, the small warehouses that make 10-minute del
 
 ## Food delivery steadies
 
-Zomato's food delivery business grew more slowly but more profitably. Order value rose 21.5% to ₹11,445 crore and adjusted EBITDA climbed 25% to ₹627 crore. Monthly transacting customers rose to 28 million from 27.2 million in the June quarter.
+Zomato's food delivery business grew more slowly but more profitably. Order value rose **21.5%** to ₹11,445 crore and adjusted EBITDA climbed 25% to ₹627 crore. Monthly transacting customers rose to 28 million from 27.2 million in the June quarter.
 
 "Our long-term expectation for food delivery has always been over 20 per cent annual growth," founder Deepinder Goyal said.
 
-The going-out business, which sells tickets for events and restaurant bookings, grew order value 58% to ₹3,259 crore. Hyperpure, which supplies restaurants, had revenue of ₹1,154 crore, up 12.8%.
+The going-out business, which sells tickets for events and restaurant bookings, grew order value **58%** to ₹3,259 crore. Hyperpure, which supplies restaurants, had revenue of ₹1,154 crore, up 12.8%.
 
 ## Cash and deals
 

@@ -53,7 +53,7 @@ verification:
     - "Tesla North does not mention India. Economy desk covers the results numbers; this piece leads on autonomy and robots."
 ---
 
-Tesla will take its Cybercab robotaxi service to Dallas next month, the company's executives said on Wednesday, as they tried to keep investors' attention on driverless cars and robots in a quarter when profit fell sharply.
+Tesla will take its Cybercab robotaxi service to **Dallas next month**, the company's executives said on Wednesday, as they tried to keep investors' attention on driverless cars and robots in a quarter when profit fell sharply.
 
 "In fact, next month we'll be launching in Dallas," Ashok Elluswamy, who leads Tesla's self-driving software work, told analysts on the call after the results. He said the same software would scale to other cities. The Cybercab, a purpose-built two-seat robotaxi, joined Tesla's fleet in Austin about a month ago, and Tesla says its robotaxis have covered nearly 2 million miles without a safety driver.
 
@@ -65,7 +65,7 @@ For people who already own a Tesla, the timeline is longer. Elluswamy said the c
 
 Lars Moravy, who runs vehicle engineering, said Tesla was "trying to get Cybercabs to customers by the end of this year, 2026". Elon Musk, though, said he expected most of them to stay with Tesla. "The vast majority of the Cybercab stuff will be essentially Tesla-owned and transport as a service," he said.
 
-Paid Full Self-Driving subscriptions, which count upfront purchases, rose 67% from a year earlier to 1.74 million.
+Paid Full Self-Driving subscriptions, which count upfront purchases, rose **67%** from a year earlier to 1.74 million.
 
 ## Optimus line in Fremont
 
@@ -73,8 +73,8 @@ Musk said "the vast majority of a million unit production line" for the Optimus 
 
 ## The cost of the push
 
-All of this is expensive. Research and development spending rose 69% to $2.76 billion, driven by Optimus, the Cybercab and Tesla's AI work. Net profit fell 43% to $787 million on revenue of $28.05 billion, flat on a year ago. Operating margin was just 2.6%.
+All of this is expensive. Research and development spending rose **69%** to $2.76 billion, driven by Optimus, the Cybercab and Tesla's AI work. Net profit fell 43% to $787 million on revenue of $28.05 billion, flat on a year ago. Operating margin was just 2.6%.
 
-There were brighter spots in the car business. Margins on vehicle sales, excluding regulatory credits, improved to 18.1%, and deliveries of 486,532 were better than analysts had expected. Tesla said in its shareholder letter that "battery availability continued to be the limiting factor in increasing auto volumes in the quarter", and that it ended the quarter with "the largest backlog for our passenger vehicles in four years".
+There were brighter spots in the car business. Margins on vehicle sales, excluding regulatory credits, improved to **18.1%**, and deliveries of 486,532 were better than analysts had expected. Tesla said in its shareholder letter that "battery availability continued to be the limiting factor in increasing auto volumes in the quarter", and that it ended the quarter with "the largest backlog for our passenger vehicles in four years".
 
-Tesla expects to spend more than $25 billion on capital projects this year. Its shares moved little in after-hours trading.
+Tesla expects to spend more than **$25 billion** on capital projects this year. Its shares moved little in after-hours trading.

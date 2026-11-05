@@ -54,4 +54,4 @@ In the women's singles, Unnati Hooda came close against China's Han Qianxi befor
 
 The results add to a grim week for India at the Super 750 event, where PV Sindhu and Lakshya Sen lost in the first round on Tuesday.
 
-Kidambi Srikanth, the 2017 champion, is now India's only man left in the singles draw and faces France's seventh seed Alex Lanier next. Tanvi Sharma meets Germany's Yvonne Li, who knocked out Sindhu. Ashmita Chaliha and Devika Sihag in the women's singles, and the women's doubles pairs of Treesa Jolly and Gayatri Gopichand and Rutaparna and Swetaparna Panda, were still to play their opening matches.
+**Kidambi Srikanth**, the 2017 champion, is now India's only man left in the singles draw and faces France's seventh seed Alex Lanier next. Tanvi Sharma meets Germany's Yvonne Li, who knocked out Sindhu. Ashmita Chaliha and Devika Sihag in the women's singles, and the women's doubles pairs of Treesa Jolly and Gayatri Gopichand and Rutaparna and Swetaparna Panda, were still to play their opening matches.

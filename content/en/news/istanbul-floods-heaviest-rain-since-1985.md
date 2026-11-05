@@ -51,9 +51,9 @@ Two people died and much of Istanbul ground to a halt after the city's heaviest 
 
 A 14-year-old boy was electrocuted when he stepped into a puddle in Cukurbostan Park in Balat, in the Fatih district. He was taken to hospital unconscious and could not be saved. The governor's office has opened an investigation, and the source of the current has not been found. In Sariyer, a 34-year-old man lost his footing crossing a flooded road, struck his head on a kerb and died in hospital.
 
-The Istanbul Metropolitan Municipality said some areas had their highest rainfall since 1985. Beykoz, on the Asian side, recorded 242 mm, with Eyupsultan at 190.5 mm and Sariyer at 187.9 mm.
+The Istanbul Metropolitan Municipality said some areas had their highest rainfall since 1985. Beykoz, on the Asian side, recorded **242 mm**, with Eyupsultan at 190.5 mm and Sariyer at 187.9 mm.
 
-The governor's office counted 1,277 floods, 15 landslides and 47 cases of people stranded on Wednesday. Roads gave way in Eyupsultan and Gaziosmanpasa, water poured through the ceiling of Haciosman metro station, and bystanders in Esenyurt pulled out a woman swept away by the current. The Kagithane stream burst its banks and flooded the prayer hall of the historic Sadabad Mosque.
+The governor's office counted **1,277 floods**, 15 landslides and 47 cases of people stranded on Wednesday. Roads gave way in Eyupsultan and Gaziosmanpasa, water poured through the ceiling of Haciosman metro station, and bystanders in Esenyurt pulled out a woman swept away by the current. The Kagithane stream burst its banks and flooded the prayer hall of the historic Sadabad Mosque.
 
 Forty-three flights that could not land at Istanbul Airport were diverted, four of them abroad, the Transport Ministry said. Strong winds briefly halted operations at Sabiha Gokcen Airport until 10:02 pm on Wednesday.
 

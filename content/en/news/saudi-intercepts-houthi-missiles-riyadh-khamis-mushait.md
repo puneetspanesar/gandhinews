@@ -44,7 +44,7 @@ verification:
 
 The Saudi-led coalition fighting Yemen's Houthis said on Sunday it had shot down a fresh wave of missiles and drones fired at Saudi cities, including the capital.
 
-Coalition spokesman Turki al-Maliki said air defences destroyed a ballistic missile and two drones launched towards Riyadh early in the day. Hours later he reported a second attack, this time on Khamis Mushait, a city in the southwest close to the Yemeni border. "A cruise missile launched by the Houthi militia toward Khamis Mushait was intercepted and destroyed," al-Maliki wrote on X.
+Coalition spokesman Turki al-Maliki said air defences destroyed a **ballistic missile and two drones** launched towards Riyadh early in the day. Hours later he reported a second attack, this time on Khamis Mushait, a city in the southwest close to the Yemeni border. "A cruise missile launched by the Houthi militia toward Khamis Mushait was intercepted and destroyed," al-Maliki wrote on X.
 
 There were no reports of casualties or damage, and the Houthis had not commented on the launches by Sunday afternoon.
 

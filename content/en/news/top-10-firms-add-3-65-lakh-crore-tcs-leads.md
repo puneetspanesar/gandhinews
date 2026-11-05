@@ -40,15 +40,15 @@ verification:
     - "All figures from PTI copy (Business Standard, 12:11 pm). Tribune and other syndications carry the same headline figures (search snippets only)."
 ---
 
-India's ten most valuable listed companies added about ₹3.65 lakh crore to their combined market value last week, as a rally in technology shares lifted the Sensex 3.11%. Nine of the ten gained.
+India's ten most valuable listed companies added about **₹3.65 lakh crore** to their combined market value last week, as a rally in technology shares lifted the Sensex 3.11%. Nine of the ten gained.
 
-Tata Consultancy Services led by a distance. Its market value rose by ₹1,08,542.63 crore to ₹8,91,134.96 crore in a week when strong September-quarter results from IT companies lifted the Nifty IT index 11.7%. Infosys, which reports on Friday, added ₹55,893.05 crore to reach ₹4,71,409.41 crore.
+Tata Consultancy Services led by a distance. Its market value rose by **₹1,08,542.63 crore** to ₹8,91,134.96 crore in a week when strong September-quarter results from IT companies lifted the Nifty IT index 11.7%. Infosys, which reports on Friday, added ₹55,893.05 crore to reach ₹4,71,409.41 crore.
 
-Bharti Airtel gained ₹61,406.53 crore, taking its value to ₹11,88,815.45 crore. Reliance Industries, still the country's most valuable company, added ₹53,047.56 crore to ₹16,37,437.19 crore, ahead of the share sale by its digital arm Jio Platforms that opens on Wednesday.
+Bharti Airtel gained **₹61,406.53 crore**, taking its value to ₹11,88,815.45 crore. Reliance Industries, still the country's most valuable company, added ₹53,047.56 crore to ₹16,37,437.19 crore, ahead of the share sale by its digital arm Jio Platforms that opens on Wednesday.
 
-Among the banks, HDFC Bank rose by ₹32,379.05 crore to ₹11,22,628.07 crore and ICICI Bank by ₹30,769.95 crore to ₹10,02,871.44 crore. State Bank of India added ₹3,323.07 crore. Bajaj Finance gained ₹14,786.65 crore and LIC ₹4,933.50 crore.
+Among the banks, HDFC Bank rose by **₹32,379.05 crore** to ₹11,22,628.07 crore and ICICI Bank by ₹30,769.95 crore to ₹10,02,871.44 crore. State Bank of India added ₹3,323.07 crore. Bajaj Finance gained ₹14,786.65 crore and LIC ₹4,933.50 crore.
 
-Larsen & Toubro was the only one of the ten to lose value, slipping ₹9,232.26 crore to ₹4,99,725.06 crore.
+Larsen & Toubro was the only one of the ten to lose value, slipping **₹9,232.26 crore** to ₹4,99,725.06 crore.
 
 "Indian equity markets extended their recovery during the week," said Ponmudi R, chief executive of Enrich Money, who credited mainly the rebound in IT stocks after strong quarterly numbers.
 

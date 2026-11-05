@@ -44,15 +44,15 @@ verification:
     - "Week's IPO list (five issues, ₹2,636 crore), market falls, FPI October total and Jio subscription restated from the desk's Oct 24-25 stories."
 ---
 
-EAAA India Alternatives, the alternative investment arm of the Edelweiss group, opens its ₹1,200 crore initial public offering on Monday after drawing a long list of global and Indian institutions to its anchor book.
+EAAA India Alternatives, the alternative investment arm of the Edelweiss group, opens its **₹1,200 crore** initial public offering on Monday after drawing a long list of global and Indian institutions to its anchor book.
 
-The company raised about ₹360 crore from anchor investors, allotting 21,62,161 shares at ₹1,665 each, the top of its price band of ₹1,585 to ₹1,665. Norway's Government Pension Fund Global, managed by Norges Bank Investment Management, and Schroders were among the foreign names, alongside Goldman Sachs, BNP Paribas Financial Markets and Hornbill Capital Advisors.
+The company raised about **₹360 crore** from anchor investors, allotting 21,62,161 shares at ₹1,665 each, the top of its price band of ₹1,585 to ₹1,665. Norway's Government Pension Fund Global, managed by Norges Bank Investment Management, and Schroders were among the foreign names, alongside Goldman Sachs, BNP Paribas Financial Markets and Hornbill Capital Advisors.
 
-Ten mutual funds took 61% of the anchor allocation, including all five of the country's largest fund houses: HDFC, ICICI Prudential, SBI, Nippon India and Kotak Mahindra. Bandhan, HSBC, 360 ONE, Abakkus and Trust mutual funds also took part, as did the Indian asset managers Carnelian, Unifi and Nuvama.
+Ten mutual funds took **61%** of the anchor allocation, including all five of the country's largest fund houses: HDFC, ICICI Prudential, SBI, Nippon India and Kotak Mahindra. Bandhan, HSBC, 360 ONE, Abakkus and Trust mutual funds also took part, as did the Indian asset managers Carnelian, Unifi and Nuvama.
 
 ## A sale by the promoter
 
-The issue is entirely an offer for sale. Edelweiss Securities and Investments, the promoter, is selling 72.07 lakh shares, and the company will receive none of the proceeds. That makes it a partial exit for the parent rather than a capital raise for the business.
+The issue is entirely an offer for sale. Edelweiss Securities and Investments, the promoter, is selling **72.07 lakh shares**, and the company will receive none of the proceeds. That makes it a partial exit for the parent rather than a capital raise for the business.
 
 Retail investors can bid for a minimum of nine shares, or ₹14,985 at the upper end of the band. Bidding closes on Wednesday, October 28. Allotment is expected on Thursday, and the shares are tentatively due to list on BSE and NSE on Monday, November 2.
 
@@ -62,7 +62,7 @@ Axis Capital, Jefferies India, Motilal Oswal Investment Advisors and Nuvama Weal
 
 EAAA describes itself as an alternative investment management platform focused on India's real assets and private credit markets. Its real assets business invests in infrastructure, commercial real estate, energy transition and perpetual capital through equity, quasi-equity and debt. Its private credit side covers performing credit, special situations, real estate credit and investment-grade credit, and it also runs portfolio management services for co-investment.
 
-Its clients are institutions, wealthy individuals and family offices. The company managed assets of ₹95,344.8 crore as of June 2026.
+Its clients are institutions, wealthy individuals and family offices. The company managed assets of **₹95,344.8 crore** as of June 2026.
 
 ## A crowded week for new issues
 

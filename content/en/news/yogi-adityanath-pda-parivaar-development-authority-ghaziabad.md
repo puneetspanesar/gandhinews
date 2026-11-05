@@ -46,8 +46,8 @@ Uttar Pradesh Chief Minister Yogi Adityanath turned the Samajwadi Party's favour
 
 He went after the SP's picks in the recent Rajya Sabha polls. "They gave the first ticket to their 'chacha-jaan'," he said, in what was taken as a reference to Ram Gopal Yadav. "And for the second ticket, they essentially mortgaged the ticket to a wealthy tycoon from Mumbai."
 
-The meeting was part of the BJP's campaign for the Legislative Council. "Elections are being held for 11 MLC seats in the state, and the results are expected to be even better than that of the Rajya Sabha polls," Adityanath said. In the Rajya Sabha contest for 10 seats, he said, "the BJP won 8 seats, while 2 seats went to the SP."
+The meeting was part of the BJP's campaign for the Legislative Council. "Elections are being held for 11 MLC seats in the state, and the results are expected to be even better than that of the Rajya Sabha polls," Adityanath said. In the Rajya Sabha contest for **10 seats**, he said, "the BJP won 8 seats, while 2 seats went to the SP."
 
-He accused the SP of scaring off investors and neglecting young people. "Had the Samajwadi Party been in power, riots would have already broken out," he said. He also promised that an elevated route would let pilgrims visit the Maa Shakambhari shrine in any season, and said 4.5 crore kanwariyas travel between Ghaziabad and Haridwar.
+He accused the SP of scaring off investors and neglecting young people. "Had the Samajwadi Party been in power, riots would have already broken out," he said. He also promised that an elevated route would let pilgrims visit the Maa Shakambhari shrine in any season, and said **4.5 crore** kanwariyas travel between Ghaziabad and Haridwar.
 
 The SP had not responded by the time of publishing. Earlier this week it asked the Election Commission to act against Adityanath over his role in the council campaign.

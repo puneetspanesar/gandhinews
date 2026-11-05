@@ -37,7 +37,7 @@ verification:
     - "Hero search term is the board's likely Wikipedia title; may need adjusting."
 ---
 
-About 2.7 lakh students in Kashmir and the winter zone of Jammu will sit their annual board exams from Monday, the Jammu and Kashmir Board of School Education said, with papers spread over 2,402 centres.
+About **2.7 lakh students** in Kashmir and the winter zone of Jammu will sit their annual board exams from Monday, the Jammu and Kashmir Board of School Education said, with papers spread over 2,402 centres.
 
 "In total, we have 2,70,000 students enrolled for exams in all three classes," JKBOSE chairman Ghulam Hassan Sheikh told reporters in Srinagar on Friday.
 
@@ -49,4 +49,4 @@ Superintendents, deputy superintendents and supervisors have been drawn from the
 
 "Safeguarding the integrity of the exam is a priority for us," Sheikh said.
 
-For the first time this year the board has set up a grievance monitoring cell, with two landline numbers and email addresses for complaints. Of the Class 10 papers, Sheikh said: "The papers are also normal."
+For the first time this year the board has set up a **grievance monitoring cell**, with two landline numbers and email addresses for complaints. Of the Class 10 papers, Sheikh said: "The papers are also normal."

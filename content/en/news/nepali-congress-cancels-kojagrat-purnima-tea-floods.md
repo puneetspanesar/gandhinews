@@ -43,6 +43,6 @@ The party said festivities were suspended in solidarity with families who lost r
 
 The reception has been held since 1977, when the party's founding leader BP Koirala started it.
 
-The decision comes as Nepal empties out for Dashain, the country's biggest festival. About 4.96 lakh passengers left the Kathmandu Valley by public transport between Ghatasthapana and Saturday, though the outflow slowed from the previous two days. The health authorities have moved the first phase of the national vitamin A and deworming campaign for young children to November 3 and 4, instead of October 19 and 20, so that it does not clash with the festival.
+The decision comes as Nepal empties out for Dashain, the country's biggest festival. About **4.96 lakh passengers** left the Kathmandu Valley by public transport between Ghatasthapana and Saturday, though the outflow slowed from the previous two days. The health authorities have moved the first phase of the national vitamin A and deworming campaign for young children to November 3 and 4, instead of October 19 and 20, so that it does not clash with the festival.
 
 On the Indian frontier, the Armed Police Force has opened a canine unit at the Gaddachauki border point in Kanchanpur district, the first in Sudurpashchim Province and the fifth in the country. Its two dogs, Delta, a German Shepherd trained to find firearms and explosives, and Alpha, a Labrador that sniffs out narcotics, are meant to help curb cross-border crime on the open Nepal-India border.

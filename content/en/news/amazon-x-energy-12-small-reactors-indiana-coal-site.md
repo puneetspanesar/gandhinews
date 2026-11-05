@@ -39,8 +39,8 @@ Amazon will pay to develop a nuclear power plant made up of 12 small modular rea
 
 The plant would use the Xe-100 reactor designed by X-energy and have a capacity of 960 megawatts, close to one gigawatt. The utility American Electric Power (AEP) would operate it, and Amazon would be its first customer. The power would go into the public grid, and Amazon says it would also serve its data centres.
 
-It is the second commercial agreement between Amazon and X-energy and three times the size of the first, announced in 2024. Amazon led a $700 million funding round in X-energy that October. The two companies have set a goal of 5 gigawatts of new nuclear capacity in the US by 2039.
+It is the second commercial agreement between Amazon and X-energy and **three times the size** of the first, announced in 2024. Amazon led a $700 million funding round in X-energy that October. The two companies have set a goal of 5 gigawatts of new nuclear capacity in the US by 2039.
 
 Much depends on what happens in Texas. X-energy's first plant, at a Dow Chemical site in Seadrift, has not broken ground, though its construction permit is in the final stages of review by the Nuclear Regulatory Commission. Amazon did not disclose what the Indiana plant would cost.
 
-X-energy went public in April at $23 a share. Its stock rose 27% on its first day but has since lost nearly two-thirds of its value. The shares climbed about 10% before the market opened on Monday after the announcement, but were down slightly later in the day.
+X-energy went public in April at $23 a share. Its stock rose **27%** on its first day but has since lost nearly two-thirds of its value. The shares climbed about 10% before the market opened on Monday after the announcement, but were down slightly later in the day.

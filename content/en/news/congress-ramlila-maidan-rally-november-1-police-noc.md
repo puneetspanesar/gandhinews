@@ -43,7 +43,7 @@ verification:
 
 Delhi Police have given the Congress permission to hold a large rally at Ramlila Maidan on November 1, the party's biggest planned show of strength in the capital since the protests against the Election Commission began.
 
-Rohit Rajbir Singh, Deputy Commissioner of Police (Central), said on Saturday that the Congress had approached the police for a no-objection certificate. "An NOC has been issued for the period from October 25 to November 3 to hold the rally at the designated protest site," he said.
+Rohit Rajbir Singh, Deputy Commissioner of Police (Central), said on Saturday that the Congress had approached the police for a **no-objection certificate**. "An NOC has been issued for the period from October 25 to November 3 to hold the rally at the designated protest site," he said.
 
 Police said they were in constant touch with the organisers, the traffic police and other agencies to keep order and manage traffic around the ground.
 

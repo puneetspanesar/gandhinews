@@ -72,7 +72,7 @@ The Leh Apex Body (LAB) and the Kargil Democratic Alliance (KDA) turned the draf
 
 ## What the Centre offered
 
-The Home Ministry handed over the framework on October 16, a day after its officials held talks with Ladakh's representatives in Leh. It sets out two stages: a constitutional amendment inserting a new Article 371-K for Ladakh, followed by a regulation under Article 240 of the Constitution. It proposes a directly elected body for the whole Union Territory, with safeguards on land, natural resources and culture.
+The Home Ministry handed over the framework on October 16, a day after its officials held talks with Ladakh's representatives in Leh. It sets out two stages: a constitutional amendment inserting a new Article 371-K for Ladakh, followed by a **regulation under Article 240** of the Constitution. It proposes a directly elected body for the whole Union Territory, with safeguards on land, natural resources and culture.
 
 Kundra said the paper was a basis for discussion, not a finished law. Much was left open: what the body would be called and who would sit on it, how members would be elected and by which authority, seats for women and under-represented communities, nominated and ex officio members, delimitation, electoral rolls and tenure, and how the new body would work alongside the hill councils, panchayats and municipalities.
 

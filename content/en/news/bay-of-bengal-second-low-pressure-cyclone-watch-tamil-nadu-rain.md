@@ -59,11 +59,11 @@ verification:
     - "Pradeep John quotes verbatim from The Week."
 ---
 
-Tamil Nadu is in for several more days of heavy rain, with one low-pressure area already over the Bay of Bengal and a second expected to take shape from Friday that forecasters say could strengthen into a cyclone.
+Tamil Nadu is in for several more days of heavy rain, with one **low-pressure area** already over the Bay of Bengal and a second expected to take shape from Friday that forecasters say could strengthen into a cyclone.
 
 A fresh low-pressure area formed over the southwest Bay of Bengal, off the Tamil Nadu coast, on Wednesday. Another system is likely to form around October 23 and has the potential to intensify into a cyclone. Heavy to very heavy showers are expected to continue across the state until October 26, including the Cauvery delta districts that feed much of the state's paddy crop.
 
-The Regional Meteorological Centre in Chennai has warned of heavy to very heavy rain at isolated places in Chennai, Thiruvallur, Chengalpattu, Cuddalore, Villupuram, Thanjavur, Thiruvarur, Nagapattinam, Mayiladuthurai and Ramanathapuram, as well as Puducherry and Karaikal. In the far south, Tirunelveli and Thoothukudi were reported to be under an orange alert for up to 20 cm of rain on Wednesday and Thursday.
+The Regional Meteorological Centre in Chennai has warned of heavy to very heavy rain at isolated places in Chennai, Thiruvallur, Chengalpattu, Cuddalore, Villupuram, Thanjavur, Thiruvarur, Nagapattinam, Mayiladuthurai and Ramanathapuram, as well as Puducherry and Karaikal. In the far south, Tirunelveli and Thoothukudi were reported to be under an orange alert for up to **20 cm** of rain on Wednesday and Thursday.
 
 ## A wet week for Chennai
 

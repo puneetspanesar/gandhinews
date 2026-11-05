@@ -51,7 +51,7 @@ Josh Hazlewood, whose six wickets settled the first Test in Durban, believes Sco
 
 Boland, who averages 18.58 in Test cricket, sat out in Durban, where Australia picked Nathan Lyon alongside Pat Cummins, Mitchell Starc and Hazlewood. "He'll play a part in this series," Hazlewood said, calling his fellow seamer "a class act".
 
-Australia won by 214 runs, with Hazlewood taking 6 for 49 as South Africa were bowled out for 206 in their second innings, and they can wrap up the three-match series at St George's Park before it moves to Cape Town. Hazlewood said what helps him most in these conditions is a little reverse swing with a fairly hard ball, rather than heavy reverse swing.
+Australia won by **214 runs**, with Hazlewood taking 6 for 49 as South Africa were bowled out for 206 in their second innings, and they can wrap up the three-match series at St George's Park before it moves to Cape Town. Hazlewood said what helps him most in these conditions is a little reverse swing with a fairly hard ball, rather than heavy reverse swing.
 
 ## South Africa's keeper question
 

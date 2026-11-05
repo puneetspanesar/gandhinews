@@ -46,7 +46,7 @@ Under Article 1, the signatories commit to use "all necessary means" to remove t
 
 Article 2 is the heart of the pact. If one party faces an armed attack, the others "shall immediately provide assistance to the party under attack", according to the draft. The clause resembles NATO's Article 5, though each country "will decide on the scope and nature of the support to be provided" after assessing what is needed, drawing on its available resources, including military ones.
 
-Articles 3 to 6 cover defence industry cooperation, intelligence sharing, logistics, joint training and fighting "all means of terrorism". The pact also provides for joint research in advanced technology and a defence committee made up of the three countries' foreign and defence ministers. Other states may join, but only if all three founding members agree. It runs for 10 years, after which any member may withdraw.
+Articles 3 to 6 cover defence industry cooperation, intelligence sharing, logistics, joint training and fighting "all means of terrorism". The pact also provides for joint research in advanced technology and a defence committee made up of the three countries' foreign and defence ministers. Other states may join, but only if all three founding members agree. It runs for **10 years**, after which any member may withdraw.
 
 ## Next steps
 

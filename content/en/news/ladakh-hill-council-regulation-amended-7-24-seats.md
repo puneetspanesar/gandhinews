@@ -46,7 +46,7 @@ The Centre has amended the rules that govern Ladakh's autonomous hill developmen
 
 The Ladakh Autonomous Hill Development Councils (Amendment) Regulation brings the councils' structure, terminology and election provisions in line with the Jammu and Kashmir Reorganisation Act, 2019, under which Ladakh became a Union Territory.
 
-Under the new rules, the administration can nominate up to four members from among women and unrepresented communities, subject to a population-based limit. Each council will have a five-year term from the date fixed for its first meeting, unless it is dissolved earlier. That term can be extended if holding elections is considered impracticable.
+Under the new rules, the administration can nominate up to **four members** from among women and unrepresented communities, subject to a population-based limit. Each council will have a five-year term from the date fixed for its first meeting, unless it is dissolved earlier. That term can be extended if holding elections is considered impracticable.
 
 The sitting Lok Sabha MP for Ladakh becomes an ex officio member of the council in each district. References to the "State" in the old text are replaced with "Union territory of Ladakh", and references to the "Governor" with "Administrator".
 

@@ -77,13 +77,13 @@ verification:
 
 Indian shares open on Monday with some relief from overnight markets and a fresh test at home. Brent crude eased from its highest close in six months in early Asian trade and US stock futures pointed higher, but the session will be the first since Infosys cut its revenue forecast, and foreign investors have been selling for ten weeks.
 
-Brent, the benchmark for most of the oil India buys, fell about 0.7% to $115.92 a barrel by 4:55 am IST, having dropped as far as $115 earlier in the morning. It had settled at $116.72 on Friday, its highest close since April 29. West Texas Intermediate slipped 0.9% to $102.33.
+Brent, the benchmark for most of the oil India buys, fell about **0.7% to $115.92 a barrel** by 4:55 am IST, having dropped as far as $115 earlier in the morning. It had settled at $116.72 on Friday, its highest close since April 29. West Texas Intermediate slipped 0.9% to $102.33.
 
-When US trading reopened on Sunday evening, Nasdaq 100 futures rose 0.6% and S&P 500 futures 0.4%, a partial bounce after Friday's losses on Wall Street. Asian markets were set for a mixed start. In Sydney, the ASX 200 was down 0.7% at 8,734 by mid-morning.
+When US trading reopened on Sunday evening, Nasdaq 100 futures rose **0.6%** and S&P 500 futures 0.4%, a partial bounce after Friday's losses on Wall Street. Asian markets were set for a mixed start. In Sydney, the ASX 200 was down 0.7% at 8,734 by mid-morning.
 
 ## Iran is still the swing factor
 
-The easing in oil is small against a week in which Brent rose 6.2%, and the risk that drove it has not gone away. President Donald Trump said it was "getting to be decision time" on whether to reach a deal with Tehran or resume attacks.
+The easing in oil is small against a week in which Brent rose **6.2%**, and the risk that drove it has not gone away. President Donald Trump said it was "getting to be decision time" on whether to reach a deal with Tehran or resume attacks.
 
 "All indications point to a resumption of war and a major bombing campaign, although the timing remains uncertain," said Asli Aydintasbas, a Middle East expert at the Brookings Institution.
 
@@ -93,13 +93,13 @@ Gold, which has fallen as markets bet on higher US interest rates, was flat at $
 
 ## Infosys and the home market
 
-The first stock test is in technology. Infosys's US-listed shares fell 6.3% in pre-market trade on Friday after the company cut its forecast for revenue growth this year to 1% to 2% in constant currency, from 1.5% to 3%. Profit for the quarter came in at ₹7,823 crore, a little below analysts' estimates, even as large deal wins rose to $5.2 billion.
+The first stock test is in technology. Infosys's US-listed shares fell **6.3%** in pre-market trade on Friday after the company cut its forecast for revenue growth this year to 1% to 2% in constant currency, from 1.5% to 3%. Profit for the quarter came in at ₹7,823 crore, a little below analysts' estimates, even as large deal wins rose to $5.2 billion.
 
 The Nifty ended Friday at 22,600, its fourth losing session in a row, and the Sensex at 73,123.83. The last Gift Nifty reading widely reported, 22,603 in Friday afternoon trade, pointed to a flat start, but it came before the late fall in New York and the jump in oil. Technical analysts see immediate support for the Nifty near 22,372 and a hurdle in the 22,744 to 22,840 zone.
 
 ## Foreign money and the rupee
 
-Foreign portfolio investors have taken a net ₹53,337 crore out of Indian shares so far in October, although the pace slowed last week. Provisional exchange data show foreign institutions sold ₹2,697.37 crore over the four trading days to Friday, while domestic institutions bought ₹10,942.19 crore.
+Foreign portfolio investors have taken a net **₹53,337 crore** out of Indian shares so far in October, although the pace slowed last week. Provisional exchange data show foreign institutions sold ₹2,697.37 crore over the four trading days to Friday, while domestic institutions bought ₹10,942.19 crore.
 
 The rupee ended Friday at a provisional 94.93 to the dollar. A slight dip in crude and a steady dollar give it little room to move on its own; the larger tests come later in the week.
 

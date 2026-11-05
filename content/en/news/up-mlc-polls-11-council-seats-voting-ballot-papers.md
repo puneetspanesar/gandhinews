@@ -54,15 +54,15 @@ verification:
     - "Overall turnout figures not found as of writing."
 ---
 
-Graduates and teachers across 72 districts of Uttar Pradesh voted on Friday to fill 11 seats in the state Legislative Council, after a fresh round of complaints about the voter lists.
+Graduates and teachers across **72 districts** of Uttar Pradesh voted on Friday to fill 11 seats in the state Legislative Council, after a fresh round of complaints about the voter lists.
 
-Polling ran from 8 am to 4 pm on ballot papers, not electronic voting machines, at 2,697 polling stations. There are 152 candidates and nearly 15 lakh registered voters. Five seats are graduates' constituencies (Lucknow, Varanasi, Agra, Meerut and Allahabad-Jhansi) and six are teachers' constituencies (Lucknow, Varanasi, Agra, Meerut, Bareilly-Moradabad and Gorakhpur-Faizabad). Votes will be counted on October 27.
+Polling ran from 8 am to 4 pm on ballot papers, not electronic voting machines, at 2,697 polling stations. There are 152 candidates and nearly **15 lakh** registered voters. Five seats are graduates' constituencies (Lucknow, Varanasi, Agra, Meerut and Allahabad-Jhansi) and six are teachers' constituencies (Lucknow, Varanasi, Agra, Meerut, Bareilly-Moradabad and Gorakhpur-Faizabad). Votes will be counted on October 27.
 
 ## Turnout and tempers
 
-In the Gorakhpur-Faizabad teachers' constituency, which has 54,910 voters spread over 17 districts and 200 polling stations, 35.07% had voted by noon. At one Gorakhpur polling centre, Samajwadi Party candidate Sanjay Tripathi was briefly caught in a heated argument with BJP mandal in-charge Ashish Gupta, who objected to Tripathi speaking to reporters inside the premises. Voting was not disrupted.
+In the Gorakhpur-Faizabad teachers' constituency, which has 54,910 voters spread over 17 districts and 200 polling stations, **35.07%** had voted by noon. At one Gorakhpur polling centre, Samajwadi Party candidate Sanjay Tripathi was briefly caught in a heated argument with BJP mandal in-charge Ashish Gupta, who objected to Tripathi speaking to reporters inside the premises. Voting was not disrupted.
 
-Liquor shops were shut in districts under dry-day orders. In Gorakhpur, District Magistrate Deepak Meena ordered bars and liquor shops within 8 km of the polling and counting venue closed until counting is over.
+Liquor shops were shut in districts under dry-day orders. In Gorakhpur, District Magistrate Deepak Meena ordered bars and liquor shops within **8 km** of the polling and counting venue closed until counting is over.
 
 ## A row over voter slips
 

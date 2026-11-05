@@ -37,11 +37,11 @@ verification:
     - "No statement from the arrested men, Congress or BRS found."
 ---
 
-Police in Telangana's Siddipet district have arrested five men for setting fire to flex banners that showed Chief Minister A Revanth Reddy and BC Welfare Minister Ponnam Prabhakar dressed as Ravana during Dasara celebrations.
+Police in Telangana's Siddipet district have arrested five men for setting fire to flex banners that showed **Chief Minister A Revanth Reddy** and BC Welfare Minister Ponnam Prabhakar dressed as Ravana during Dasara celebrations.
 
 The burning took place on Tuesday night in Dharma Sagar Pally village, under Koheda police station limits, while villages across the state were setting traditional Ravana effigies alight to mark the festival. Videos of the banners going up in flames spread widely on social media.
 
-The arrests followed a complaint from the village sarpanch, K Chandra Reddy. Police named those held as P Rakesh, L Harish, M Srikanth, G Ajay Kumar and B Abhisekh. They also registered a case against MD Arif, who owns the flex-printing shop where the banners were made, and said further investigation was under way.
+The arrests followed a complaint from the village sarpanch, K Chandra Reddy. Police named those held as P Rakesh, L Harish, M Srikanth, G Ajay Kumar and B Abhisekh. They also registered a case against MD Arif, who owns the **flex-printing shop** where the banners were made, and said further investigation was under way.
 
 Police have not said under which sections the five were booked, and there was no word by Wednesday evening on whether they had been granted bail. No comment from the Chief Minister's office or from the minister had been reported.
 

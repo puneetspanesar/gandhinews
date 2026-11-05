@@ -53,7 +53,7 @@ verification:
     - "Agenda list for the rescheduled meeting: Sportsdanka; original agenda: Business Standard and Daily Jagran."
 ---
 
-The BCCI has put on hold the IPL stakeholders' meeting that was due to bring franchise owners, broadcasters and state associations together in Mumbai on Thursday evening, leaving decisions on the 2027 season, including the future of the Impact Player rule, for another day.
+The BCCI has **put on hold** the IPL stakeholders' meeting that was due to bring franchise owners, broadcasters and state associations together in Mumbai on Thursday evening, leaving decisions on the 2027 season, including the future of the Impact Player rule, for another day.
 
 The conclave was to be held at the Taj Santacruz. In a memo, BCCI secretary Devajit Saikia gave two reasons. The first was Prime Minister Narendra Modi's felicitation of the Asian Games teams in New Delhi on the same day. "Accordingly, BCCI officials will be required to attend the felicitation ceremony," the memo said.
 

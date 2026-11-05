@@ -41,15 +41,15 @@ verification:
     - "No management quotes available. ICRA outlook upgrade to Positive (AA reaffirmed) and appointments of Anil Agarwal and Amol Padhye from TaxGuru."
 ---
 
-AU Small Finance Bank reported a 53% rise in net profit for the July-September quarter on Saturday, helped by wider lending margins and cleaner books.
+AU Small Finance Bank reported a **53%** rise in net profit for the July-September quarter on Saturday, helped by wider lending margins and cleaner books.
 
-Profit rose to ₹858 crore from about ₹561 crore a year earlier, according to the bank's filing. For the first half of the financial year, profit was ₹1,654 crore, up 45%.
+Profit rose to **₹858 crore** from about ₹561 crore a year earlier, according to the bank's filing. For the first half of the financial year, profit was ₹1,654 crore, up 45%.
 
-Net interest income grew 32% to ₹2,820 crore. The net interest margin widened to 5.8% from 5.5% a year ago as the bank's cost of funds fell by 43 basis points to 6.41%. Core operating profit before provisions rose 31% to ₹1,480 crore.
+Net interest income grew **32%** to ₹2,820 crore. The net interest margin widened to 5.8% from 5.5% a year ago as the bank's cost of funds fell by 43 basis points to 6.41%. Core operating profit before provisions rose 31% to ₹1,480 crore.
 
-The balance sheet kept growing quickly. Deposits rose about 29% to ₹1,70,460 crore and the gross loan portfolio 25.1% to ₹1,53,769 crore.
+The balance sheet kept growing quickly. Deposits rose about **29%** to ₹1,70,460 crore and the gross loan portfolio 25.1% to ₹1,53,769 crore.
 
-Asset quality improved. Gross bad loans fell by 42 basis points to 1.99% of loans, and net bad loans were 0.81%. For the half year, the bank's return on assets was 1.7% and its return on equity 15.8%.
+Asset quality improved. Gross bad loans fell by 42 basis points to **1.99%** of loans, and net bad loans were 0.81%. For the half year, the bank's return on assets was 1.7% and its return on equity 15.8%.
 
 The lender also said ICRA had raised the outlook on its long-term rating to positive while reaffirming the AA rating. It named Anil Agarwal as senior executive group head for commercial and institutional banking and Amol Padhye as chief risk officer.
 

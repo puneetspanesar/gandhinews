@@ -82,9 +82,9 @@ Jio Platforms allots shares on Monday and is due to list on Wednesday, while fiv
 
 ## The US data that matters for India
 
-On Thursday at 6 pm IST, the US Commerce Department releases its advance estimate of growth for July to September, together with September's personal consumption expenditures price index, the Fed's preferred inflation measure. Economists expect growth to quicken to about 3% at an annualised rate from 2.2% in the previous quarter, helped by spending on artificial intelligence and by consumers.
+On Thursday at 6 pm IST, the US Commerce Department releases its advance estimate of growth for July to September, together with September's personal consumption expenditures price index, the Fed's preferred inflation measure. Economists expect growth to quicken to about **3%** at an annualised rate from 2.2% in the previous quarter, helped by spending on artificial intelligence and by consumers.
 
-The inflation figure may be less welcome. Headline PCE prices are forecast to rise about 0.5% in the month, the largest gain since March, with the core measure up about 0.3%. A strong reading would keep alive talk of a Fed rate rise in December, which in turn bears on the dollar, US bond yields and the flow of foreign money into Indian shares.
+The inflation figure may be less welcome. Headline PCE prices are forecast to rise about **0.5%** in the month, the largest gain since March, with the core measure up about 0.3%. A strong reading would keep alive talk of a Fed rate rise in December, which in turn bears on the dollar, US bond yields and the flow of foreign money into Indian shares.
 
 The Fed's own decision comes the night before, at 11:30 pm IST on Wednesday.
 
@@ -92,8 +92,8 @@ The Fed's own decision comes the night before, at 11:30 pm IST on Wednesday.
 
 Microsoft, Alphabet and Amazon all report this week, with Visa, Mastercard, ExxonMobil, Eli Lilly, Intel and Boeing also on the US list. Their spending plans will be watched closely by Indian software shares, which open the week reacting to Infosys's forecast cut. Samsung Electronics reports in Seoul, and HSBC and TotalEnergies in Europe.
 
-China's Communist Party holds the fifth plenary session of its 20th Central Committee from Monday to Thursday, with September industrial profits and October manufacturing surveys also due. The eurozone publishes a first estimate of third-quarter growth on Friday, forecast at 1.1% a year.
+China's Communist Party holds the fifth plenary session of its 20th Central Committee from Monday to Thursday, with September industrial profits and October manufacturing surveys also due. The eurozone publishes a first estimate of third-quarter growth on Friday, forecast at **1.1%** a year.
 
 ## At home
 
-India's industrial output figures for September are due, with economists expecting growth of about 7.4% after 8% in August. The Reserve Bank publishes foreign exchange reserves for the week to October 23 on Friday, after six straight weekly falls took them to $721.02 billion.
+India's industrial output figures for September are due, with economists expecting growth of about **7.4%** after 8% in August. The Reserve Bank publishes foreign exchange reserves for the week to October 23 on Friday, after six straight weekly falls took them to $721.02 billion.

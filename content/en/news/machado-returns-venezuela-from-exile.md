@@ -44,7 +44,7 @@ verification:
     - "Publish time estimated; announcement was Sunday, hour not given."
 ---
 
-María Corina Machado, the Venezuelan opposition leader and Nobel Peace Prize laureate, returned to Venezuela on Sunday after more than 10 months abroad, raising the pressure on the interim government to set a date for elections.
+María Corina Machado, the Venezuelan opposition leader and Nobel Peace Prize laureate, returned to Venezuela on Sunday after **more than 10 months** abroad, raising the pressure on the interim government to set a date for elections.
 
 "I am here. With you," she wrote on social media. Footage shared by the political group Comando Con Venezuela showed her arriving at a church in Lara state, where supporters gathered to greet her. Her team did not say how she had travelled or where she was staying.
 
@@ -52,6 +52,6 @@ Edmundo González, the opposition's candidate in the disputed 2024 presidential 
 
 Machado dropped out of public view after a brief arrest in January 2025 and left the country covertly in December to collect the Nobel prize in Norway. Her team said she made several failed attempts to come back in September.
 
-Venezuela has been run since January by Delcy Rodríguez as acting president, after US forces seized Nicolás Maduro in Caracas. Rodríguez has served beyond the 90 days she was authorised to and has not called an election, although she promised one at the UN General Assembly in September. On October 22 thousands marched across the country to demand a vote. The government considers Machado a fugitive and has not commented on her return.
+Venezuela has been run since January by Delcy Rodríguez as acting president, after US forces seized Nicolás Maduro in Caracas. Rodríguez has served beyond the 90 days she was authorised to and has **not called an election**, although she promised one at the UN General Assembly in September. On October 22 thousands marched across the country to demand a vote. The government considers Machado a fugitive and has not commented on her return.
 
 US Secretary of State Marco Rubio said the conditions for her safe return came out of reconciliation talks backed by Washington, which have freed hundreds of political prisoners. President Donald Trump said he did not "know anything about it" but called her "a very nice woman", adding: "I hope she's safe."

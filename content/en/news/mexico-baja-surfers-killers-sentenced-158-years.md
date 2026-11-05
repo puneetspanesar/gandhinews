@@ -54,17 +54,17 @@ verification:
     - "Family quotes are from the Oct 9 closing day (AP) and Oct 12 verdict (The Inertia)."
 ---
 
-A court in Mexico has sentenced three men to 158 years in prison each for the murders of two Australian brothers and their American friend, who were shot dead on a surfing trip on the Baja California coast in 2024.
+A court in Mexico has sentenced three men to **158 years in prison each** for the murders of two Australian brothers and their American friend, who were shot dead on a surfing trip on the Baja California coast in 2024.
 
 Sentencing had been set for Friday, October 16, after a judge in Ensenada convicted the men earlier this month of murder, armed robbery and armed carjacking. They are Jesús Gerardo García, known as "El Kekas", Irineo Francisco and Ángel Jesús. Their surnames are withheld under Mexican law.
 
-Callum and Jake Robinson and Carter Rhoad went missing on April 28, 2024, while camping at Punta San José, south of Ensenada. Their bodies were found on May 3 in a well near the campsite.
+**Callum and Jake Robinson** and Carter Rhoad went missing on April 28, 2024, while camping at Punta San José, south of Ensenada. Their bodies were found on May 3 in a well near the campsite.
 
 ## What the court heard
 
 Prosecutors said García tried to steal the tyres and other parts from the men's pickup truck, and shot them when they resisted. Baja California's Attorney General, María Elena Andrade Ramírez, said early in the case that the three were not targeted because they were tourists.
 
-The key witness was García's former partner, Ary Gisell Silva Raya. She pleaded guilty last year to aggravated robbery and violent vehicle theft and was sentenced to 20 years. She testified that García approached the surfers' tent with a 9 mm handgun, that they handed over their belongings, and that one of them begged for his life before he was killed.
+The key witness was García's former partner, Ary Gisell Silva Raya. She pleaded guilty last year to aggravated robbery and violent vehicle theft and was sentenced to **20 years**. She testified that García approached the surfers' tent with a 9 mm handgun, that they handed over their belongings, and that one of them begged for his life before he was killed.
 
 ## A family's long wait
 

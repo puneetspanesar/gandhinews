@@ -51,7 +51,7 @@ verification:
 
 The Supreme Court on Wednesday told Andhra Pradesh's State Election Commission to hold back the final list of candidates for the urban local body elections and to decide quickly whether nominations should reopen in places where the YSR Congress Party says its candidates were kept away by force.
 
-A vacation bench of Justices Joymalya Bagchi and V Mohana said the list, which was due on Wednesday, can be published by October 25. In the meantime the commission must examine complaints of violence or obstruction at nomination centres case by case, and where it finds them genuine, give candidates at least 48 more hours to file from the time its decision is published.
+A vacation bench of Justices Joymalya Bagchi and V Mohana said the list, which was due on Wednesday, can be published by October 25. In the meantime the commission must examine complaints of violence or obstruction at nomination centres case by case, and where it finds them genuine, give candidates at **least 48** more hours to file from the time its decision is published.
 
 "Free and fair election is a basic structure of the Constitution," the bench said. "Instilling confidence in the election process is vital for the maintenance of constitutional democracy."
 

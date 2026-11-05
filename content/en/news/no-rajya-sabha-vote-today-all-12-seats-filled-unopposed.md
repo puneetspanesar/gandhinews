@@ -37,7 +37,7 @@ verification:
     - "Story is a poll-day brief; the results themselves were known on October 9 and are not presented as new."
 ---
 
-Friday was meant to be polling day for 12 Rajya Sabha seats in Uttar Pradesh, Uttarakhand and West Bengal. No MLA will vote. Every seat was settled a week ago, when no contest remained in any of the three states.
+Friday was meant to be polling day for **12 Rajya Sabha seats** in Uttar Pradesh, Uttarakhand and West Bengal. No MLA will vote. Every seat was settled a week ago, when no contest remained in any of the three states.
 
 In Uttar Pradesh, the BJP's eight candidates and the Samajwadi Party's two were declared elected unopposed on October 9 after the nominations of two independents were rejected at scrutiny. Returning Officer Ajit Kumar Verma handed over the certificates that day. With that, the October 16 poll was no longer needed.
 

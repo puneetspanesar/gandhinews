@@ -75,7 +75,7 @@ A petition now before the Supreme Court, filed by advocate Swaty Singh, puts the
 
 ## The fair objection
 
-The other side has a real case. Connaught Place is a market as well as a landmark. A vendor at Palika Bazar went to the Delhi High Court this week fearing for his festival trade, and the government spoke for about 15 lakh traders whose business suffers when the area is shut down. Earlier marches this month saw stone-pelting and injured police. No city can let every protest go wherever it likes, whenever it likes.
+The other side has a real case. Connaught Place is a market as well as a landmark. A vendor at Palika Bazar went to the Delhi High Court this week fearing for his festival trade, and the government spoke for about **15 lakh** traders whose business suffers when the area is shut down. Earlier marches this month saw stone-pelting and injured police. No city can let every protest go wherever it likes, whenever it likes.
 
 That is exactly why designated sites matter. They are the bargain a city strikes: protesters accept limits on place and time, and in return the state guarantees a place where they will be seen and heard. When the state redraws the map in the middle of a quarrel, the bargain stops meaning anything, and people drift back to the streets.
 

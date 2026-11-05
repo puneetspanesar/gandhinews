@@ -62,7 +62,7 @@ verification:
     - "Nitin Sardesai's 'first phase, more before Dussehra' is paraphrased by Daijiworld, not a direct quote."
 ---
 
-Raj Thackeray's Maharashtra Navnirman Sena on Monday began a signature campaign across Maharashtra demanding the resignation of Chief Election Commissioner Gyanesh Kumar, taking the opposition's fight over the electoral rolls from Delhi to the streets of Mumbai and Pune.
+Raj Thackeray's Maharashtra Navnirman Sena on Monday began a **signature campaign across Maharashtra** demanding the resignation of Chief Election Commissioner Gyanesh Kumar, taking the opposition's fight over the electoral rolls from Delhi to the streets of Mumbai and Pune.
 
 The party called it a "Statewide Signature Campaign to Protect Democracy". Its demands go beyond Kumar's exit: complete cancellation of the Special Intensive Revision (SIR) in Maharashtra, ballot papers as an alternative to EVMs, clean electoral rolls, and an election process run in consultation with all parties.
 
@@ -72,6 +72,6 @@ Tables went up at Shivaji Park in Dadar, outside Vashi station in Navi Mumbai an
 
 The drive did not run everywhere. MNS leader Mahesh Bhanushali said Sakinaka police stopped it in the Chandivali constituency and removed the party's banners. "We were conducting a signature campaign against Chief Election Commissioner Gyanesh Kumar," he said, suggesting the ruling party had leaned on the police.
 
-Mumbai Police on Monday booked 25 people, including Shiv Sena (UBT) leader Aaditya Thackeray and MNS leader Amit Thackeray, over Sunday's protest outside Shivaji Park police station, where the two had demanded the release of detained protesters. The case alleges unlawful assembly and disobeying prohibitory orders.
+Mumbai Police on Monday booked **25 people, including** Shiv Sena (UBT) leader Aaditya Thackeray and MNS leader Amit Thackeray, over Sunday's protest outside Shivaji Park police station, where the two had demanded the release of detained protesters. The case alleges unlawful assembly and disobeying prohibitory orders.
 
 "The BJP government is scared of Indian people, Indian citizens," Aaditya Thackeray said on Sunday.

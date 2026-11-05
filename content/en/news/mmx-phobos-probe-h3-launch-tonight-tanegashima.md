@@ -54,7 +54,7 @@ The Japan Aerospace Exploration Agency (JAXA) leads the mission with NASA, the E
 
 ## What the mission will do
 
-MMX should reach Mars orbit in August 2027 and move into orbit around Phobos, the larger of Mars's two moons, the following month. It will drop a 25 kg French-German rover named Idefix on the surface, then in 2030 collect at least 10 grams of material from two sites.
+MMX should reach Mars orbit in August 2027 and move into orbit around Phobos, the larger of Mars's two moons, the following month. It will drop a 25 kg French-German rover named Idefix on the surface, then in 2030 collect at **least 10 grams** of material from two sites.
 
 On the way home its return module will fly past Deimos, the smaller moon, and study Mars itself. A sample capsule is due to land in the Woomera Prohibited Area in Australia in 2031, where the material will be recovered and shared with scientists.
 

@@ -55,15 +55,15 @@ verification:
 
 JSW Steel's profit more than tripled in the July-September quarter as it sold a record amount of steel, and its board used the same day to approve two big capacity additions in Odisha.
 
-The company's consolidated net profit rose to ₹5,359 crore from ₹1,646 crore a year earlier, according to results filed on Friday. Revenue from operations grew 20.7% to ₹54,486 crore and EBITDA, or operating profit, rose 42.2% to ₹10,120 crore. The operating margin widened to 18.6% from 15.8%.
+The company's consolidated net profit rose to **₹5,359 crore** from ₹1,646 crore a year earlier, according to results filed on Friday. Revenue from operations grew 20.7% to ₹54,486 crore and EBITDA, or operating profit, rose 42.2% to ₹10,120 crore. The operating margin widened to 18.6% from 15.8%.
 
-All four numbers came in above the estimates of analysts polled by a business channel, which had expected a profit of about ₹4,752 crore. The shares still fell 2.6% to ₹1,187 on Friday, a day when metal stocks were among the worst hit in a broad market sell-off.
+All four numbers came in above the estimates of analysts polled by a business channel, which had expected a profit of about **₹4,752 crore**. The shares still fell 2.6% to ₹1,187 on Friday, a day when metal stocks were among the worst hit in a broad market sell-off.
 
 ## Record volumes
 
-Volumes did most of the work. Consolidated crude steel production rose 5% from a year earlier to a record 7.27 million tonnes, and sales of saleable steel climbed 13% to a record 7.46 million tonnes. Domestic sales reached 6.29 million tonnes, also a record, and exports were 0.98 million tonnes.
+Volumes did most of the work. Consolidated crude steel production rose **5%** from a year earlier to a record 7.27 million tonnes, and sales of saleable steel climbed 13% to a record 7.46 million tonnes. Domestic sales reached 6.29 million tonnes, also a record, and exports were 0.98 million tonnes.
 
-Sales to carmakers and other automotive customers were the highest ever, up 36% from a year earlier. The company said its operating profit rose on "higher volumes, partly offset by higher coking coal prices and lower realisations."
+Sales to carmakers and other automotive customers were the highest ever, up **36%** from a year earlier. The company said its operating profit rose on "higher volumes, partly offset by higher coking coal prices and lower realisations."
 
 Debt came down. Net debt fell by about ₹1,675 crore during the quarter to roughly ₹44,482 crore, and the ratio of net debt to EBITDA eased to 1.28 times from 1.46 times.
 
@@ -73,7 +73,7 @@ The board approved a 5 million tonnes a year (MTPA) expansion at JSW JFE Steel, 
 
 "The board and our joint venture partner, JFE Steel, have approved a 5 MTPA expansion at JSW JFE Steel Ltd," JSW Steel said. The equity needed is about ₹7,500 crore, with each partner putting in ₹3,750 crore. Work is expected to begin in April 2027, subject to statutory and environmental approvals, and to take about three and a half years, with commissioning planned by FY31.
 
-Separately, the board cleared a second phase at JSW Utkal in Odisha with a capital outlay of ₹16,150 crore. It would add 5 MTPA of steelmaking capacity, with commissioning targeted for the first quarter of FY31.
+Separately, the board cleared a second phase at JSW Utkal in Odisha with a capital outlay of **₹16,150 crore**. It would add 5 MTPA of steelmaking capacity, with commissioning targeted for the first quarter of FY31.
 
 Other approvals included a 1.8 MTPA cold rolling mill complex and a 1.2 MTPA metal coating line at Vasind, targeted for Q2 FY30, an 8 MTPA pellet plant at Vijayanagar, and expansion of the MdR coking coal mine in Mozambique, bought in March 2026, to 9 MTPA, with production from 2028.
 

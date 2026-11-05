@@ -49,7 +49,7 @@ verification:
     - "India medicines angle: Tribune headline and Gandhi News Oct 23 MEA story."
 ---
 
-Iran told the United States, through Pakistan, that it was ready to reopen the Strait of Hormuz if Washington lifted its naval blockade of Iranian ports, Tehran's ambassador in Islamabad said on Saturday night. President Donald Trump, he said, said no.
+Iran told the United States, through Pakistan, that it was ready to **reopen the Strait of Hormuz** if Washington lifted its naval blockade of Iranian ports, Tehran's ambassador in Islamabad said on Saturday night. President Donald Trump, he said, said no.
 
 Reza Amiri Moghadam told a seminar in the Pakistani capital that the offer was conveyed during the recent visit to Tehran of Field Marshal Asim Munir, Pakistan's Chief of Defence Forces, on the condition that the blockade end. He accused Trump of rejecting it by insisting the blockade of Iranian ports would continue.
 

@@ -57,11 +57,11 @@ Israel has kept the Rafah crossing closed for a second week running to Gaza pati
 
 The ministry did not say how many patients were waiting to cross into Egypt.
 
-Israeli strikes killed four Palestinians and sent nine others to hospital on Thursday, Palestinian health officials said, despite the ceasefire that is meant to be in force. "Every single day there are bombings, and people get displaced," said Mahmoud al-Naqla, a resident of Gaza City.
+Israeli strikes **killed four Palestinians** and sent nine others to hospital on Thursday, Palestinian health officials said, despite the ceasefire that is meant to be in force. "Every single day there are bombings, and people get displaced," said Mahmoud al-Naqla, a resident of Gaza City.
 
 On Wednesday, a toddler, Maryam Ghanem, was treated for burns after her mother was killed in a fire started by an Israeli air strike on their home in Gaza City. In the city's Sheikh Radwan neighbourhood, a family house partly collapsed. No one was hurt.
 
-In Washington, Israel signed a Pentagon deal to buy 12 Apache attack helicopters from Boeing, worth about $1 billion. Defence Minister Israel Katz called the purchase "a critical step". Deliveries are expected early in the next decade.
+In Washington, Israel signed a Pentagon deal to buy **12 Apache** attack helicopters from Boeing, worth about $1 billion. Defence Minister Israel Katz called the purchase "a critical step". Deliveries are expected early in the next decade.
 
 US Senator Bernie Sanders condemned what he called Israel's "collective punishment" of Gaza and urged an end to American military aid.
 

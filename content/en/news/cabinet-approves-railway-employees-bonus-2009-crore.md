@@ -43,9 +43,9 @@ verification:
     - "No minister named in the source as announcing the decision, so none named. Last year's bonus not compared (no source read)."
 ---
 
-The Union Cabinet on Wednesday approved a productivity-linked bonus equal to 78 days' wages for non-gazetted railway employees, a payment made every year before the Durga Puja and Dussehra holidays.
+The Union Cabinet on Wednesday approved a productivity-linked bonus equal to **78 days**' wages for non-gazetted railway employees, a payment made every year before the Durga Puja and Dussehra holidays.
 
-The bonus will go to 11,40,770 employees and will cost the government ₹2,009.61 crore. The maximum an eligible employee can receive is ₹17,951.
+The bonus will go to 11,40,770 employees and will cost the government **₹2,009.61 crore**. The maximum an eligible employee can receive is ₹17,951.
 
 ## Who gets it
 
@@ -53,11 +53,11 @@ The payment covers track maintainers, loco pilots, train managers (guards), stat
 
 The government said the bonus recognises the railways' performance in 2025-26 and is meant to "incentivise employees to improve the performance of Indian Railways."
 
-Along with the decision, the government pointed to the railways' numbers for 2025-26, when the network carried a record 1,670 million tonnes of freight and close to 741 crore passengers.
+Along with the decision, the government pointed to the railways' numbers for 2025-26, when the network carried a record 1,670 million tonnes of freight and close to **741 crore** passengers.
 
 ## Social assistance scheme extended and renamed
 
-The Cabinet also approved the continuation of the National Social Assistance Programme for five years, from 2026-27 to 2030-31, with an outlay of ₹53,428 crore. The programme, which pays pensions to about 3.2 crore poor elderly people, widows and people with disabilities across all states and Union Territories, will be renamed the Pradhan Mantri Samajik Sahayata Yojana.
+The Cabinet also approved the continuation of the **National Social Assistance Programme** for five years, from 2026-27 to 2030-31, with an outlay of ₹53,428 crore. The programme, which pays pensions to about 3.2 crore poor elderly people, widows and people with disabilities across all states and Union Territories, will be renamed the Pradhan Mantri Samajik Sahayata Yojana.
 
 Its pension schemes, which carry Indira Gandhi's name, will also be renamed: the old age, widow and disability pensions become the Pradhan Mantri Vridhavastha, Vidhawa and Divyangjan Pension Yojanas.
 

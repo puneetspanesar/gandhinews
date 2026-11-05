@@ -38,12 +38,12 @@ verification:
 
 A man who had been brought to a military recruitment office in Kyiv on suspicion of dodging the draft pulled out a weapon and opened fire on Monday evening, wounding six people, Kyiv police and draft officials said.
 
-The shooting happened at about 7 pm local time at a Territorial Recruitment Centre in the capital's Pechersk district. Three police officers and three military personnel were hurt and taken away by ambulance for treatment. The gunman was detained, and police have opened an investigation. He has not been named.
+The shooting happened at about 7 pm local time at a Territorial Recruitment Centre in the capital's Pechersk district. **Three police officers and three military personnel** were hurt and taken away by ambulance for treatment. The gunman was detained, and police have opened an investigation. He has not been named.
 
 The attack is the latest in a series of violent clashes over mobilisation, one of the most divisive issues in Ukraine after more than four and a half years of full-scale war. Dozens of attacks on enlistment officers have been reported since February 2022, and the number has grown this year.
 
 In August a draft officer in Lviv was stabbed to death and four recruiters in Odesa were wounded in a shooting. In September an explosion at a recruitment centre in Lviv led to a terrorism investigation. Many of the officers targeted are former front-line soldiers moved to recruitment work after being wounded.
 
-Kyrylo Budanov, head of the Presidential Office, said on August 28 that Ukraine needs to mobilise at least 30,000 people a month to sustain its defence. Reports of recruiters forcibly detaining men on the street have become more common, and Ukrainian officials say Russian disinformation campaigns amplify them.
+Kyrylo Budanov, head of the Presidential Office, said on August 28 that Ukraine needs to mobilise at least **30,000 people** a month to sustain its defence. Reports of recruiters forcibly detaining men on the street have become more common, and Ukrainian officials say Russian disinformation campaigns amplify them.
 
 The shooting came at the end of a day in which Russia struck 28 energy facilities around the country and a drone attack on a park in the Kharkiv region killed six people.

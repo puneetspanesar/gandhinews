@@ -53,7 +53,7 @@ verification:
     - "The government's productivity figures (19% Lok Sabha, 39% Rajya Sabha) differ from PRS's; the editorial uses PRS and names the government figure once."
 ---
 
-For 19 days this summer, both Houses of Parliament met. For most of that time, they did not work. The Lok Sabha functioned for 15% of its scheduled time in the Monsoon Session, PRS Legislative Research found. The government puts the figure at 19%. On either count, the House that holds the government to account spent the session mostly adjourned.
+For 19 days this summer, both Houses of Parliament met. For most of that time, they did not work. The Lok Sabha functioned for **15%** of its scheduled time in the Monsoon Session, PRS Legislative Research found. The government puts the figure at 19%. On either count, the House that holds the government to account spent the session mostly adjourned.
 
 What it passed in that time is the bigger worry. Nine of the 11 Bills the Lok Sabha passed went through with no MP other than the minister speaking. A Bill to enlarge the Supreme Court took four minutes. Question Hour, the time set aside for ministers to answer MPs' questions, lasted nine minutes across the entire session.
 
@@ -63,13 +63,13 @@ Parliamentary Affairs Minister Kiren Rijiju called it "a very successful session
 
 The government sets the agenda, and it chose to pass Bills through a disrupted House rather than wait for order or settle terms for a debate. Some of these Bills had to pass: two replaced ordinances. That explains urgency. It does not explain why nine Bills needed no Lok Sabha debate at all, when the Rajya Sabha found time to discuss each of them.
 
-The habit predates this session. The 18th Lok Sabha has sent 21% of its Bills to parliamentary committees, PRS says, against 16% in the 17th. Committees are where MPs of all parties examine a Bill in detail, in closed-door meetings. The Lok Sabha has also had no Deputy Speaker for more than seven years, since the 17th Lok Sabha first met in June 2019, PRS notes, with a Supreme Court case on the delay still pending.
+The habit predates this session. The 18th Lok Sabha has sent **21%** of its Bills to parliamentary committees, PRS says, against 16% in the 17th. Committees are where MPs of all parties examine a Bill in detail, in closed-door meetings. The Lok Sabha has also had no Deputy Speaker for more than seven years, since the 17th Lok Sabha first met in June 2019, PRS notes, with a Supreme Court case on the delay still pending.
 
 ## Where the Opposition falls short
 
 The Opposition's grievance was real. Its MPs wanted a discussion on the NEET-UG paper leak and a statement from the Home Minister. A national exam paper leak deserved the House's time.
 
-But disruption cost the Opposition its own best tools. In the Rajya Sabha, 16 of 285 starred questions were taken up. Each lost question was a lost chance to put a minister on record, on NEET or anything else. And when the House did debate the exam-cheating Bill, 48 Lok Sabha MPs spoke over nearly 11 hours. Debate was possible when both sides wanted it.
+But disruption cost the Opposition its own best tools. In the Rajya Sabha, 16 of 285 starred questions were taken up. Each lost question was a lost chance to put a minister on record, on NEET or anything else. And when the House did debate the exam-cheating Bill, 48 Lok Sabha MPs spoke over nearly **11 hours**. Debate was possible when both sides wanted it.
 
 ## What should change before the Winter Session
 

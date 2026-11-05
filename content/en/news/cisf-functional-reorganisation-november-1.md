@@ -52,7 +52,7 @@ Three sectors are untouched: the one for the Department of Atomic Energy and the
 
 ## A model already tested
 
-The force is not starting from scratch. Airports, nuclear installations and space centres have been guarded on functional lines for about 25 years, and the CISF said that experience shaped the decision. It consulted its field formations, headquarters branches and senior officers before sending the proposal to the Home Ministry.
+The force is not starting from scratch. Airports, nuclear installations and space centres have been guarded on functional lines for **about 25 years**, and the CISF said that experience shaped the decision. It consulted its field formations, headquarters branches and senior officers before sending the proposal to the Home Ministry.
 
 The CISF guards much of India's critical infrastructure, from airports and the Delhi Metro to refineries, power plants and atomic sites. Its role has grown in recent years. It is the recognised security organisation for port facilities under the international ISPS Code, it has taken on security at high-security prisons in Jammu and Kashmir, and it is the nodal agency for protecting critical infrastructure from aerial threats.
 

@@ -73,7 +73,7 @@ Work stopped at several Albert Heijn distribution centres. In a message to suppl
 
 The disruption reached the group's American chains too. Food Lion staff were told in an internal memo that stores "may be unable to shop, stage, or hand off orders", and some Stop & Shop employees said they had trouble reaching their schedules and pay slips. In Belgium, Delhaize cannot take new orders this week.
 
-Ahold Delhaize runs more than 9,400 stores in Europe, the US and Indonesia, employs nearly 4 lakh people and serves about 60 million customers a week. Its shares closed at €31.38 in Amsterdam on Monday, 3.15% below where they opened.
+Ahold Delhaize runs more than 9,400 stores in Europe, the US and Indonesia, employs nearly **4 lakh people** and serves about 60 million customers a week. Its shares closed at €31.38 in Amsterdam on Monday, 3.15% below where they opened.
 
 ## What is not known
 
@@ -81,4 +81,4 @@ The company has not said what kind of attack it faces, who is behind it, or whet
 
 Taking systems offline quickly can stop an attack spreading. When British retailers Marks & Spencer and Co-op were hit in 2025, Co-op reportedly kept ransomware from being deployed by doing just that. "The short-term pain of a planned shutdown is almost always preferable to an uncontrolled one," said Muhammad Yahya Patel, a cybersecurity adviser at Huntress.
 
-This is not the group's first breach. In November 2024, the INC Ransom gang stole personal, financial and health data of more than 22 lakh people from Ahold Delhaize's US systems.
+This is not the group's first breach. In November 2024, the INC Ransom gang stole personal, financial and health data of more than **22 lakh people** from Ahold Delhaize's US systems.

@@ -52,13 +52,13 @@ verification:
     - "Bavuma's record (12 Tests as captain since 2023, 11 wins, one draw) is from Dawn only."
 ---
 
-Matt Renshaw has had the kind of Test most batters only imagine. After a career-best 190 in the first innings at Kingsmead, the Australian opener made 82 in the second, then took his first Test wicket, South Africa's captain Temba Bavuma. By the close of day four on Monday, South Africa were 102 for 4, chasing 421, and Australia were six wickets from victory.
+Matt Renshaw has had the kind of Test most batters only imagine. After a career-best 190 in the first innings at Kingsmead, the Australian opener made 82 in the second, then took his first Test wicket, South Africa's captain Temba Bavuma. By the close of day four on Monday, South Africa were **102 for 4**, chasing 421, and Australia were six wickets from victory.
 
 ## Australia push on
 
 Leading by 106 on first innings after making 390 to South Africa's 284, Australia batted with urgency on Monday. Renshaw was the anchor again until Keshav Maharaj held a sharp return catch to end his innings. Nic Maddinson, out for a duck in the first innings, made 48 off 38 balls, and Marnus Labuschagne made 37 for the second time in the match.
 
-Steve Smith was hit on the helmet by a bouncer from Anrich Nortje and was checked for concussion. He made 27 before falling to Simon Harmer, and did not take the field afterwards. Pat Cummins then hit four sixes in an unbeaten 32 off 12 balls, Beau Webster finished on 39 not out, and Australia declared on 314 for 6 just before tea.
+Steve Smith was hit on the helmet by a bouncer from Anrich Nortje and was checked for concussion. He made 27 before falling to Simon Harmer, and did not take the field afterwards. Pat Cummins then hit four sixes in an unbeaten 32 off 12 balls, Beau Webster finished on 39 not out, and Australia declared on **314 for 6** just before tea.
 
 ## South Africa lose their way
 

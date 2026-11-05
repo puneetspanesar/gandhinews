@@ -37,7 +37,7 @@ verification:
 
 Punjab FC snatched a point from Mumbai City in the Indian Super League on Monday night, substitute Gurkirat Singh heading in a 90th-minute equaliser to make it 1-1 at the Jawaharlal Nehru Stadium in New Delhi.
 
-Mumbai City had looked set for the win after Leandro Otormin scored from the penalty spot in the 63rd minute. The penalty was awarded when Bijoy Varghese fouled PN Noufal in the box.
+Mumbai City had looked set for the win after Leandro Otormin scored from the penalty spot in the **63rd minute**. The penalty was awarded when Bijoy Varghese fouled PN Noufal in the box.
 
 Punjab kept pushing and the changes paid off. Sanathoi Meitei, one of their second-half substitutes, swung in a cross and Gurkirat, who had come on for Vishal Yadav, found space in the box and directed his header into the net.
 

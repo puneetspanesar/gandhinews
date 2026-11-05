@@ -35,11 +35,11 @@ verification:
     - "Single source (ANI via NewKerala, updated 11:21 on Oct 21). Official is unnamed in the source; no budget, timeline start date or ministry order given, so none stated."
 ---
 
-The Wildlife Institute of India (WII) is to estimate the populations of all four bear species found in the country, beginning with the sloth bear and its frequent run-ins with people in and around protected areas.
+The Wildlife Institute of India (WII) is to estimate the populations of **all four bear species** found in the country, beginning with the sloth bear and its frequent run-ins with people in and around protected areas.
 
 The Dehradun-based institute, which works under the Union environment ministry, will cover the Himalayan brown bear, the Asiatic black bear, the sloth bear and the sun bear, an official said on Wednesday. The first study will look at conflict between people and sloth bears in protected areas across India, with proposals for the other three species to follow.
 
-The count will take time. Final population figures are expected only after about five years, the official said.
+The count will take time. Final population figures are expected only after **about five years**, the official said.
 
 The choice of starting point reflects where the pressure is greatest. Conflict between people and sloth bears is particularly high across most of India, while encounters with sun bears are rare.
 

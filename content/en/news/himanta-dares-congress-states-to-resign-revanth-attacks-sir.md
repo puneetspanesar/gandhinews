@@ -51,9 +51,9 @@ Speaking at a press conference in Guwahati, Sarma answered the Congress charge o
 
 ## The case for SIR
 
-Sarma said SIR was necessary because illegal infiltration had changed the demographics of Assam, West Bengal and Jharkhand, and called for the revision to be held every five years.
+Sarma said SIR was necessary because illegal infiltration had changed the demographics of Assam, West Bengal and Jharkhand, and called for the revision to be held **every five years**.
 
-He accused Rahul Gandhi and the Congress of acting on the instructions of foreign forces and of trying to weaken democratic institutions. He said only 2,000 to 3,000 people were taking part in the Congress protest in Delhi, and called the protesters "brain Naxals" who did not want India to progress.
+He accused Rahul Gandhi and the Congress of acting on the instructions of foreign forces and of trying to weaken democratic institutions. He said only 2,000 to **3,000 people** were taking part in the Congress protest in Delhi, and called the protesters "brain Naxals" who did not want India to progress.
 
 ## Revanth Reddy in Delhi
 
@@ -61,6 +61,6 @@ Telangana Chief Minister Revanth Reddy, who had travelled to Delhi for the oppos
 
 He said the BJP had used the Enforcement Directorate and the Income Tax department to hold power and was now using SIR, removing opposition voters because it expected to lose the next elections. He alleged that Gyanesh Kumar had been tasked with removing anti-BJP voters, mainly Dalits, Adivasis, the young, the unemployed and the poor, and that the other two Election Commissioners had objected to errors in the exercise.
 
-Reddy said the BJP had lost in states without SIR and won in Bihar and West Bengal, where it was held. He claimed India's voter count had fallen from 97 crore to 81 crore even as the population grew, and asked what objection Prime Minister Narendra Modi had to removing the CEC.
+Reddy said the BJP had lost in states without SIR and won in Bihar and West Bengal, where it was held. He claimed India's voter count had fallen from **97 crore** to 81 crore even as the population grew, and asked what objection Prime Minister Narendra Modi had to removing the CEC.
 
 He compared the campaign started by Rahul Gandhi to the "Simon Go Back" protests of the freedom movement. "The Gyanesh Kumar Go Back movement will save the country," he said.

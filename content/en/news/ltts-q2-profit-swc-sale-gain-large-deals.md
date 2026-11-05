@@ -36,11 +36,11 @@ verification:
     - "Release time not stated; published time estimated at 7:30 pm IST. SWC = smart world and communication business (abbreviation as in source; expansion not given in source, so copy says only 'a business')."
 ---
 
-L&T Technology Services, the engineering services arm of the Larsen & Toubro group, reported a 66.8% jump in quarterly profit on Monday, lifted by a one-time gain from selling part of its business, and said AI work now makes up more than half of its big new contracts.
+L&T Technology Services, the engineering services arm of the Larsen & Toubro group, reported a **66.8%** jump in quarterly profit on Monday, lifted by a one-time gain from selling part of its business, and said AI work now makes up more than half of its big new contracts.
 
-Net profit for July-September rose to about ₹548 crore, including a gain of about ₹165 crore from the sale of its SWC business. Revenue grew 12.1% from a year earlier to about ₹3,040 crore, and 3.4% from the previous quarter. In dollars, revenue was $317.1 million, up 3.3% from a year earlier. In constant currency, which strips out exchange rate moves, it grew 4.8% from a year earlier and 2.7% from the June quarter.
+Net profit for July-September rose to **about ₹548 crore**, including a gain of about ₹165 crore from the sale of its SWC business. Revenue grew 12.1% from a year earlier to about ₹3,040 crore, and 3.4% from the previous quarter. In dollars, revenue was $317.1 million, up 3.3% from a year earlier. In constant currency, which strips out exchange rate moves, it grew 4.8% from a year earlier and 2.7% from the June quarter.
 
-The operating margin improved to 16.3%, up 2.2 percentage points from a year earlier and 0.6 point from the previous quarter.
+The operating margin improved to **16.3%**, up 2.2 percentage points from a year earlier and 0.6 point from the previous quarter.
 
 ## Bigger deals, more AI
 
@@ -48,6 +48,6 @@ The company signed large deals with a total contract value of more than $200 mil
 
 Amit Chadha, the chief executive and managing director, credited the company's investments in what it calls Engineering Intelligence, and its spread of businesses, for "accelerated sequential growth across revenue, profitability, large deals and AI revenue". He said he expects "revenue momentum to strengthen further in the second half of the fiscal year" while keeping margins healthy.
 
-The board declared an interim dividend of ₹20 a share, with October 27 as the record date. The company had 24,035 employees at the end of September.
+The board declared an **interim dividend of ₹20 a share**, with October 27 as the record date. The company had 24,035 employees at the end of September.
 
-The numbers follow a strong run of results from larger IT companies such as TCS and Tech Mahindra that drove the Nifty IT index to its best week in nearly 18 years. LTTS shares will react on Wednesday, after Tuesday's Dussehra holiday.
+The numbers follow a strong run of results from larger IT companies such as TCS and Tech Mahindra that drove the Nifty IT index to its best week in nearly **18 years**. LTTS shares will react on Wednesday, after Tuesday's Dussehra holiday.

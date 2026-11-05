@@ -48,9 +48,9 @@ The reading kept the city in the 'moderate' band, a clear step back from the 184
 
 ## The chill arrives
 
-The India Meteorological Department said the minimum at Safdarjung, the city's main weather station, fell to 17.1 degrees Celsius, 1.3 degrees below the seasonal average. An IMD official said it was the coldest night in the capital this month, a full degree and a half lower than the 18.6 degrees logged the night before.
+The India Meteorological Department said the minimum at Safdarjung, the city's main weather station, fell to **17.1 degrees Celsius**, 1.3 degrees below the seasonal average. An IMD official said it was the coldest night in the capital this month, a full degree and a half lower than the 18.6 degrees logged the night before.
 
-The weather office expects mainly clear and dry days over the coming week, with minimums of 18 to 20 degrees and afternoons still warm at 31 to 35 degrees.
+The weather office expects mainly clear and dry days over the coming week, with minimums of 18 to **20 degrees** and afternoons still warm at 31 to 35 degrees.
 
 ## Worse days ahead
 

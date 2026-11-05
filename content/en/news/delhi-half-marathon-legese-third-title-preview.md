@@ -38,7 +38,7 @@ verification:
     - "Elite start times (5:18 am men, 5:20 am women) and JLN Stadium start/finish from our Oct 14 story."
 ---
 
-Birhanu Legese will be chasing a third Delhi Half Marathon title when the elite fields set off from the Jawaharlal Nehru Stadium early on Sunday, and the Ethiopian sounded at ease on the eve of the race.
+**Birhanu Legese** will be chasing a third Delhi Half Marathon title when the elite fields set off from the Jawaharlal Nehru Stadium early on Sunday, and the Ethiopian sounded at ease on the eve of the race.
 
 "I am in good shape and have trained well, and we will see on Sunday," Legese said. "I like Delhi; it is almost like a second home."
 
@@ -56,4 +56,4 @@ Kiran Matre, who ran a personal best of 1:04:57 last year and was the second Ind
 
 Lily Das, the 2024 Indian elite women's champion who was fourth last year, expects a tough race. "I think it's getting very competitive," she said. Ankita Dhyani, fifth on her half marathon debut last year, is also in the field.
 
-The elite winners will each take $27,000 from a total purse of $275,732, with a $12,000 bonus for a course record. The top three Indian elite men and women earn ₹3.5 lakh, ₹2.5 lakh and ₹1.5 lakh, and an Indian elite record is worth another ₹1 lakh. The elite men start at 5:18 am and the women two minutes later.
+The elite winners will each take $27,000 from a total purse of $275,732, with a $12,000 bonus for a course record. The top three Indian elite men and women earn **₹3.5 lakh**, ₹2.5 lakh and ₹1.5 lakh, and an Indian elite record is worth another ₹1 lakh. The elite men start at 5:18 am and the women two minutes later.

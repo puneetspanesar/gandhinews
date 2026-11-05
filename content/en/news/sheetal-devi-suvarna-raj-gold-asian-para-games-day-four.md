@@ -54,7 +54,7 @@ The Indian pair led by a point after the first end and stretched the gap to four
 
 ## Suvarna Raj's winning fifth throw
 
-The second Indian gold of the day came in the stadium, where Suvarna Raj won the women's F54 discus. Her fifth attempt, measured at 15.66 metres, was the best of the competition, ahead of Iran's Shahla Hadidi on 15.45 metres and Vietnam's Nguyen Thi Ngoc Thuy, who threw 14.65 metres for bronze.
+The second Indian gold of the day came in the stadium, where Suvarna Raj won the women's F54 discus. Her fifth attempt, measured at **15.66 metres**, was the best of the competition, ahead of Iran's Shahla Hadidi on 15.45 metres and Vietnam's Nguyen Thi Ngoc Thuy, who threw 14.65 metres for bronze.
 
 ## A first silver for Swati
 

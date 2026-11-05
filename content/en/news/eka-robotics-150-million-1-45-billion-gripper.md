@@ -35,7 +35,7 @@ verification:
     - "Anonymous roboticist's remarks left out (no anonymous quotes)."
 ---
 
-A robotics start-up that teaches machines to feel what they are holding is now worth $1.45 billion. Eka Robotics has closed a $150 million Series A round, led by the venture firms a16z and F-Prime, for a system that pairs a force-sensitive gripper with a new kind of deep-learning model.
+A robotics start-up that teaches machines to feel what they are holding is now worth **$1.45 billion**. Eka Robotics has closed a $150 million Series A round, led by the venture firms a16z and F-Prime, for a system that pairs a force-sensitive gripper with a new kind of deep-learning model.
 
 Eka was founded by Pulkit Agrawal, a professor at the Massachusetts Institute of Technology, and Tuomas Haarnoja, a former researcher at Google DeepMind. The two met as graduate students at the University of California, Berkeley.
 
@@ -49,7 +49,7 @@ The robotics pioneer Rodney Brooks has made a similar argument from the outside,
 
 ## What the robot can do
 
-Eka says its arm can pick up about 1,500 objects an hour, each weighing up to a kilogram, compared with about 600 for a human worker, and that it gets a reliable grip more than 95% of the time. The arm moves fast enough that it can damage itself.
+Eka says its arm can pick up about **1,500 objects an hour**, each weighing up to a kilogram, compared with about 600 for a human worker, and that it gets a reliable grip more than 95% of the time. The arm moves fast enough that it can damage itself.
 
 The gripper hardware costs under $1,000 and is rated for five million duty cycles. The company is aiming for 20 million, the usual standard for industrial arms. It trains its model in a physics simulator using reinforcement learning, which Eka says can produce thousands of hours of robot experience in minutes.
 

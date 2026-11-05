@@ -59,11 +59,11 @@ verification:
     - "Article 91(2), two-thirds rule: Daily Beirut, Newscord (Anadolu), Al Jazeera."
 ---
 
-Algeria's parliament on Sunday approved sending army units to neighbouring Niger, clearing the way for the country's first military mission abroad since the 1973 Arab-Israeli war.
+Algeria's parliament on Sunday approved sending army units to neighbouring Niger, clearing the way for the country's **first military mission abroad since the 1973** Arab-Israeli war.
 
 Both chambers met in emergency session to consider President Abdelmadjid Tebboune's notification of the deployment. The upper house, the Council of the Nation, approved it unanimously, with all 148 members taking part voting in favour. The lower house, the People's National Assembly, followed later on Sunday. Algeria's constitution, under Article 91, allows the president to send military units abroad only if each chamber approves by a two-thirds majority.
 
-The troops are expected to guard oil and energy facilities in Niger, including oil projects of Algeria's Sonatrach, at the request of the government in Niamey. Neither the size of the force nor a date for its departure has been announced. Foreign Minister Ahmed Attaf presented the proposal to lawmakers.
+The troops are expected to guard **oil and energy facilities** in Niger, including oil projects of Algeria's Sonatrach, at the request of the government in Niamey. Neither the size of the force nor a date for its departure has been announced. Foreign Minister Ahmed Attaf presented the proposal to lawmakers.
 
 The vote follows a visit to Algiers last week by Niger's defence minister, General Salifou Modi, who held talks with Tebboune and with the army chief of staff, General Saïd Chanegriha. The two sides signed a military cooperation protocol whose details have not been made public.
 

@@ -45,6 +45,6 @@ The paper will seek views from citizens, industry, experts and other stakeholder
 
 He stressed that AI must stay under human control, with safeguards for systems that behave unpredictably, including a way to stop one that goes out of control. "The race towards innovation has to be moderated by the safety of human beings," he said. He also called for international cooperation, since AI systems cross borders.
 
-On October 8, Vaishnaw had said the consultation paper would be out within a month, with a focus on safety and on the harm done by deepfakes.
+On October 8, Vaishnaw had said the **consultation paper** would be out within a month, with a focus on safety and on the harm done by deepfakes.
 
-Until now, India has dealt with AI through changes to existing rules. In February, the government amended the IT Intermediary Guidelines and Digital Media Ethics Code Rules, 2021, to cover AI-generated and synthetic content, including deepfakes. Platforms must now take down flagged content within three hours of a direction from a court or competent authority, down from 36 hours earlier.
+Until now, India has dealt with AI through changes to existing rules. In February, the government amended the IT Intermediary Guidelines and Digital Media Ethics Code Rules, 2021, to cover AI-generated and synthetic content, including deepfakes. Platforms must now take down flagged content within **three hours** of a direction from a court or competent authority, down from 36 hours earlier.

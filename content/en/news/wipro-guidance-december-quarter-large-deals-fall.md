@@ -60,17 +60,17 @@ verification:
     - "Headcount and dividend not in the release or sources; left out."
 ---
 
-Wipro expects its main IT services business to bring in between $2,571 million and $2,625 million in the October to December quarter, a range that allows for revenue to shrink. In constant currency terms, the forecast works out to anything from a 1.5% fall to a 0.5% rise from the September quarter.
+Wipro expects its main IT services business to bring in between $2,571 million and $2,625 million in the October to December quarter, a range that allows for revenue to shrink. In constant currency terms, the forecast works out to anything from a **1.5%** fall to a 0.5% rise from the September quarter.
 
-The midpoint of the range, about $2.598 billion, was below the analyst consensus of $2.608 billion. Wipro's American depositary shares fell in pre-market trade in New York on Thursday after the release and were still about 1% lower after the open.
+The midpoint of the range, about **$2.598 billion**, was below the analyst consensus of $2.608 billion. Wipro's American depositary shares fell in pre-market trade in New York on Thursday after the release and were still about 1% lower after the open.
 
-The forecast came with the full results the Bengaluru company released on Thursday, after it reported a 1.4% fall in net profit to ₹3,200.6 crore in the afternoon.
+The forecast came with the full results the Bengaluru company released on Thursday, after it reported a **1.4%** fall in net profit to ₹3,200.6 crore in the afternoon.
 
 ## A standstill quarter
 
-IT services revenue for July to September was $2,611.5 million, down 0.1% from the June quarter and up just 0.3% from a year earlier. In constant currency it was flat on the quarter and up 0.6% on the year.
+IT services revenue for July to September was $2,611.5 million, down **0.1%** from the June quarter and up just 0.3% from a year earlier. In constant currency it was flat on the quarter and up 0.6% on the year.
 
-Profitability held up better. The operating margin of the IT services business rose 0.5 percentage points from the June quarter to 16.5%, and operating cash flow jumped 61.3% to ₹5,300 crore, equal to 165.8% of net income. Voluntary attrition over twelve months was 13.8%.
+Profitability held up better. The operating margin of the IT services business rose 0.5 percentage points from the June quarter to **16.5%**, and operating cash flow jumped 61.3% to ₹5,300 crore, equal to 165.8% of net income. Voluntary attrition over twelve months was 13.8%.
 
 "Our operating margin for the quarter was 16.5%, an expansion of 0.5% sequentially," said Aparna Iyer, chief financial officer.
 

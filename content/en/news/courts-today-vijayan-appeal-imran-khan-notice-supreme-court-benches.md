@@ -67,7 +67,7 @@ Three courts have political cases on their boards on Monday, as the Supreme Cour
 
 ## Vijayan family in the Keralam High Court
 
-A division bench of the Keralam High Court is due to hear appeals by former chief minister Pinarayi Vijayan, his daughter Veena T and his son-in-law, former minister P A Mohamed Riyas, in the CMRL-Exalogic case.
+A division bench of the Keralam High Court is due to hear appeals by former chief minister **Pinarayi Vijayan, his daughter** Veena T and his son-in-law, former minister P A Mohamed Riyas, in the CMRL-Exalogic case.
 
 They are challenging a single-judge order that directed the Vigilance and Anti-Corruption Bureau to register a case under the Prevention of Corruption Act against them, based on information passed on by the Enforcement Directorate. The single judge also held that the state government's choice to hold a preliminary enquiry without an FIR was illegal in the circumstances, and set aside the special investigation team it had formed for that enquiry.
 
@@ -85,6 +85,6 @@ Khan was detained by Mumbai Police on October 10 at August Kranti Maidan, where 
 
 ## The Supreme Court
 
-In Delhi, the Supreme Court's cause list for Monday has 15 benches, led by Chief Justice Surya Kant sitting with Justices Joymalya Bagchi and V Mohana. A separate list of about 270 chamber matters has been put up for the week to October 30, to be taken on short notice.
+In Delhi, the Supreme Court's cause list for Monday has **15 benches**, led by Chief Justice Surya Kant sitting with Justices Joymalya Bagchi and V Mohana. A separate list of about 270 chamber matters has been put up for the week to October 30, to be taken on short notice.
 
 Among the political cases waiting is the plea by Connaught Place traders against the New Delhi Municipal Council's shutdown of Central Park during the Cockroach Janta Party's Tiranga protest. When it was mentioned on October 16, the court said it would come up on 26 or October 27.

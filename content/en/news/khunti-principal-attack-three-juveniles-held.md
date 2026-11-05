@@ -38,13 +38,13 @@ verification:
     - "Case described in source headline as attempted murder; sections not given."
 ---
 
-Police in Jharkhand's Khunti district have detained three boys, aged 13, 14 and 15, over a brutal attack on the principal of a Catholic school earlier this week, and are looking for a fourth. All four are former pupils.
+Police in Jharkhand's Khunti district have detained three boys, aged **13, 14 and 15**, over a brutal attack on the principal of a Catholic school earlier this week, and are looking for a fourth. All four are former pupils.
 
 Superintendent of Police Rishabh Garg told reporters on Friday that the boys had passed Class 7 at RC Boys Middle School, which is linked to St Michael's Church in Khunti, and had lived in its hostel. He said they went back to the school at about 8:30 pm on October 20 to steal money to spend at a local fair.
 
 The principal, Father Benedict Barla, came upon them unexpectedly. Police said he was struck on the forehead and temple with a small hoe-like tool. The attack lasted about half an hour. He was found unconscious on the campus the next morning, and police were told at about 8:45 am on October 21. He is still being treated at a hospital in Ranchi.
 
-A special investigation team traced the boys using CCTV footage, mobile tower data and questioning. Police recovered ₹85,747 in cash, mobile phones and items bought with the stolen money. Some of the cash and phones had been buried in a forest.
+A special investigation team traced the boys using CCTV footage, mobile tower data and questioning. Police recovered **₹85,747** in cash, mobile phones and items bought with the stolen money. Some of the cash and phones had been buried in a forest.
 
 The age and role of the fourth accused are not yet known.
 

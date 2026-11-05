@@ -53,7 +53,7 @@ On Tuesday Singapore's air quality index stood at 199 and Kuala Lumpur's at 183,
 
 Firefly, a low-cost subsidiary of Malaysia Aviation Group, has extended its suspension of flights between Subang airport near Kuala Lumpur and Singapore's Seletar Airport through Wednesday, citing "weather and haze conditions". It called the move a "proactive safety measure" and is putting passengers on Malaysia Airlines flights to Changi where seats are available.
 
-The fires, mostly on Sumatra and Borneo, are Indonesia's most intense in 11 years, fed by a strong El Niño. Indonesia has deployed about 60,000 personnel, but thick smoke has grounded 34 aircraft and cloud seeding is not possible without suitable clouds.
+The fires, mostly on Sumatra and Borneo, are Indonesia's **most intense in 11 years**, fed by a strong El Niño. Indonesia has deployed about 60,000 personnel, but thick smoke has grounded 34 aircraft and cloud seeding is not possible without suitable clouds.
 
 Singapore has brought back subsidised treatment for haze-related illness for the first time since 2015. Malaysian schools reopened in most states on Tuesday, but remain shut in three states, a federal territory and several districts.
 

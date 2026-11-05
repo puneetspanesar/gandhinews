@@ -114,7 +114,7 @@ A bench of Justices Joymalya Bagchi and V Mohana, at a special Sunday sitting, s
 
 The Cockroach Janta Party (CJP), a youth movement that began online in May, had called a march to Jantar Mantar to demand the CEC's resignation over the Special Intensive Revision (SIR) of electoral rolls. Delhi Police refused permission, saying the request came too late and that the CJP had broken undertakings given at earlier protests.
 
-Police barricaded central Delhi, closed Metro station gates and set up temporary detention centres, including stadiums. Mobile internet was suspended within 4 km of the protest site until Saturday night. Those detained during the day included Arvind Kejriwal, Mamata Banerjee and Pinarayi Vijayan, student leader Neha Bora, Yogendra Yadav and YouTuber Dhruv Rathee, along with several lawyers and journalists.
+Police barricaded central Delhi, closed Metro station gates and set up temporary detention centres, including stadiums. Mobile internet was suspended within **4 km** of the protest site until Saturday night. Those detained during the day included Arvind Kejriwal, Mamata Banerjee and Pinarayi Vijayan, student leader Neha Bora, Yogendra Yadav and YouTuber Dhruv Rathee, along with several lawyers and journalists.
 
 How many people were held is disputed. Delhi Police sources have put the figure at about 1,000, a Home Ministry official at about 2,000, and the CJP says more than 15,000 people were detained or stopped. No official count has been released.
 
@@ -124,7 +124,7 @@ Police reported stone-pelting near Akashvani Bhawan and Connaught Place, and mor
 
 CJP founder Abhijeet Dipke and leaders Saurav Das and Ashutosh Ranka were detained on board their flight after it landed in Delhi from Mumbai. Delhi Police said on X: "Preventive arrest u/s 126/170 BNSS of Sh. Abhijeet Dipke, Sh. Ashutosh Ranka and Sh. Saurav Das was done on 10.10.2026."
 
-On Sunday morning an Executive Magistrate at Delhi Cantonment police station released all three on a ₹50,000 surety bond to keep the peace for one year, the police said. CJP legal head Ratna Singh wrote on X: "Condition: no breach of peace for one year."
+On Sunday morning an Executive Magistrate at Delhi Cantonment police station released all three on a **₹50,000** surety bond to keep the peace for one year, the police said. CJP legal head Ratna Singh wrote on X: "Condition: no breach of peace for one year."
 
 ```facts
 {"title":"The weekend in numbers","items":[{"value":"45 of 303","label":"Metro stations with entry restricted on October 10, per the Solicitor General"},{"value":"20","label":"FIRs registered by Delhi Police over the protest"},{"value":"₹50,000","label":"surety bond for each of the three CJP leaders"}]}

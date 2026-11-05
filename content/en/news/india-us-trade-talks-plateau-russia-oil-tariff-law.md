@@ -92,15 +92,15 @@ verification:
     - "Dropped from research: Upstox figure of about $141 billion bilateral trade in 2025 (broker site, not official); India Briefing's 'committed' vs 'intends' wording change on the $500 billion pledge (not confirmed against the official text); Indian Express analysts' waiver expectations (article not opened)."
 ---
 
-Finance Minister Nirmala Sitharaman said on October 5 that trade talks with the United States had reached a plateau, where further concessions would be "very, very difficult" for both sides. The two countries have been working on a deal since February 2025.
+Finance Minister Nirmala Sitharaman said on October 5 that trade talks with the United States had **reached a plateau**, where further concessions would be "very, very difficult" for both sides. The two countries have been working on a deal since February 2025.
 
-Her remarks followed US Trade Representative Jamieson Greer's statement the previous week that an agreement was not imminent. They also came 17 days after President Donald Trump signed a law that lets him impose tariffs of up to 100% on the largest buyers of Russian oil and gas, a group that includes India.
+Her remarks followed US Trade Representative Jamieson Greer's statement the previous week that an agreement was not imminent. They also came 17 days after President Donald Trump signed a law that lets him impose **tariffs of up to 100%** on the largest buyers of Russian oil and gas, a group that includes India.
 
 ## Where the talks stand
 
-India and the US announced a framework in February 2026. A US fact sheet dated February 10 said the US would cut its reciprocal tariff on India from 25% to 18% and that the President had removed an additional 25% tariff linked to India's purchases of Russian oil. The fact sheet said India "intends to buy more American products and purchase over $500 billion of U.S. energy, information and communication technology, coal, and other products".
+India and the US announced a framework in February 2026. A US fact sheet dated February 10 said the US would cut its reciprocal tariff on India from 25% to **18%** and that the President had removed an additional 25% tariff linked to India's purchases of Russian oil. The fact sheet said India "intends to buy more American products and purchase over $500 billion of U.S. energy, information and communication technology, coal, and other products".
 
-The 18% rate never took effect. On February 20, the US Supreme Court struck down the reciprocal tariffs imposed under the International Emergency Economic Powers Act. Washington replaced them with a temporary 10% duty under Section 122 of the Trade Act of 1974, which applied from February 24.
+The 18% rate **never took effect**. On February 20, the US Supreme Court struck down the reciprocal tariffs imposed under the International Emergency Economic Powers Act. Washington replaced them with a temporary 10% duty under Section 122 of the Trade Act of 1974, which applied from February 24.
 
 On July 29, Commerce Minister Piyush Goyal said the first tranche of the deal had been finalised but would come into operation "as soon as the United States is able to ensure that India gets a comparative advantage over its competitors". He referred to countries in India's neighbourhood and in ASEAN.
 
@@ -112,7 +112,7 @@ Sitharaman said the trade balance favours India and criticised the growing use o
 {"title":"US tariffs on Indian goods: status as of October 11, 2026","items":[{"value":"10%","label":"Section 301 duty on Indian goods since July 24, 2026, on top of normal duties, with exclusions (in force)","source":"USTR notice, via ELP and Outlook Business"},{"value":"18%","label":"reciprocal rate in the February 2026 framework (never took effect)","source":"Business Today, Feb 21, 2026"},{"value":"Up to 100%","label":"tariff the Russia sanctions law allows on top Russian oil buyers (authorised, not imposed)","source":"Outlook India; Reuters"},{"value":"$42.79 bn","label":"Indian goods exports to the US, April-August 2026, up from $40.39 bn a year earlier","source":"Reuters, Oct 5, 2026"}]}
 ```
 
-The 10% Section 301 duty came out of a US investigation into forced labour. The US Trade Representative had proposed 12.5% for India in June, then set it at 10% after India amended its foreign trade policy on June 14 to bar imports made with forced labour. Goods already under Section 232 duties, such as steel, aluminium and some auto parts, are exempt from the Section 301 duty, according to the ELP law firm's summary of the US notice. In February the Section 232 rates were 50% on steel and aluminium and 25% on certain auto parts.
+The 10% **Section 301 duty** came out of a US investigation into forced labour. The US Trade Representative had proposed 12.5% for India in June, then set it at 10% after India amended its foreign trade policy on June 14 to bar imports made with forced labour. Goods already under Section 232 duties, such as steel, aluminium and some auto parts, are exempt from the Section 301 duty, according to the ELP law firm's summary of the US notice. In February the Section 232 rates were 50% on steel and aluminium and 25% on certain auto parts.
 
 ## What the Russia oil law does
 

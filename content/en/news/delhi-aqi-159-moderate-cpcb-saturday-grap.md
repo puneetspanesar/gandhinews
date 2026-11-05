@@ -57,6 +57,6 @@ On the CPCB scale, 101 to 200 is "moderate" and 201 to 300 is "poor". Under the 
 
 ## Warm days, clear skies
 
-The city also grew slightly warmer. Safdarjung, the city's reference station, recorded a maximum of 32.6 degrees Celsius, 0.6 degrees below normal and 0.8 degrees up on Friday. The minimum was 20 degrees, 0.4 degrees above normal. Palam touched 29.5 degrees, while Lodhi Road and Ayanagar recorded minimums of 19.3 and 19.1 degrees.
+The city also grew slightly warmer. Safdarjung, the city's reference station, recorded a maximum of **32.6 degrees** Celsius, 0.6 degrees below normal and 0.8 degrees up on Friday. The minimum was 20 degrees, 0.4 degrees above normal. Palam touched 29.5 degrees, while Lodhi Road and Ayanagar recorded minimums of 19.3 and 19.1 degrees.
 
-The India Meteorological Department has forecast a maximum of 31 to 33 degrees and a minimum of 19 to 21 degrees for Sunday. "Mostly clear skies are expected to persist for the next few days," an IMD official said.
+The India Meteorological Department has forecast a maximum of 31 to **33 degrees** and a minimum of 19 to 21 degrees for Sunday. "Mostly clear skies are expected to persist for the next few days," an IMD official said.

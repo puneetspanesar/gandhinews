@@ -45,6 +45,6 @@ The main contests pit the ruling Congress against the BJP and the JD(S). In the 
 
 Voting was brisk in the Bengaluru Teachers' seat, where Bengaluru Rural district alone has 2,863 registered teacher voters, 1,411 men and 1,452 women, across six polling stations. Raichur has 16 polling stations for the North-East Teachers' seat.
 
-The day was not entirely calm. Congress and BJP workers clashed near a polling station at Ambedkar College in Nagarabhavi, in western Bengaluru, and police stepped in and put up barricades to keep the two sides apart.
+The day was not entirely calm. Congress and BJP workers clashed near a polling station at **Ambedkar College** in Nagarabhavi, in western Bengaluru, and police stepped in and put up barricades to keep the two sides apart.
 
 The Council has 75 members, and five seats are now vacant. Turnout figures are expected after polling closes.

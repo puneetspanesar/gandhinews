@@ -38,7 +38,7 @@ verification:
 
 A special National Investigation Agency (NIA) court in Delhi has framed a charge under the Unlawful Activities (Prevention) Act against Inderpal Singh Gaba over the pro-Khalistan protest at the High Commission of India in London in March 2023.
 
-Special Judge Vikas Dhull, in an order dated October 8, charged Gaba under Section 13(1) of the Act, which deals with taking part in unlawful activity. "There is a strong suspicion that the accused has committed the offence of participating in the unlawful activity," the court said.
+Special Judge Vikas Dhull, in an order dated October 8, charged Gaba under **Section 13(1)** of the Act, which deals with taking part in unlawful activity. "There is a strong suspicion that the accused has committed the offence of participating in the unlawful activity," the court said.
 
 The judge discharged him under Section 2 of the Prevention of Insults to National Honours Act, 1971.
 

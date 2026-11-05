@@ -45,7 +45,7 @@ Prime Minister Narendra Modi spoke to his Canadian counterpart Mark Carney on Tu
 
 The conversation came on the day Canada's Foreign Minister Anita Anand began a four-day trip to India and the United Arab Emirates, which includes talks with External Affairs Minister S. Jaishankar in New Delhi.
 
-Modi described the call as warm and productive in a post on X.
+Modi described the call as **warm and productive** in a post on X.
 
 > "We agreed to build on the positive momentum in India-Canada ties and work towards concrete outcomes across key areas of our Strategic Partnership, including trade, energy, technology, security and people-to-people ties."
 >
@@ -55,6 +55,6 @@ He added: "Together, India and Canada are contributing towards a more stable and
 
 ## A thaw that has picked up speed
 
-Relations froze in 2023 and have been rebuilt step by step since. Carney visited India from February 27 to March 2 this year, the first bilateral visit by a Canadian prime minister in eight years. The two governments agreed then to negotiate a Comprehensive Economic Partnership Agreement and set a target of concluding it by the end of 2026.
+Relations froze in 2023 and have been rebuilt step by step since. Carney visited India from February 27 to March 2 this year, the first bilateral visit by a Canadian prime minister in eight years. The two governments agreed then to negotiate a Comprehensive Economic Partnership Agreement and set a target of concluding it by the **end of 2026**.
 
 Two-way trade between the countries was worth C$30.4 billion in 2025, according to Ottawa. Anand's visit, her 11th meeting with Jaishankar since September 2025, is meant to move forward a shared roadmap on trade, energy, security and people-to-people ties.

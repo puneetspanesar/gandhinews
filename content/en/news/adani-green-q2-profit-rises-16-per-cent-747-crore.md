@@ -48,18 +48,18 @@ verification:
     - "Capacity 20.8 GW / 20,763 MW up 24% (Angel One, Khanna); capacity added 4,083 MW YoY (PTI)."
 ---
 
-Adani Green Energy reported a 16% rise in consolidated net profit to ₹747 crore for the July-September quarter on Wednesday, helped by a year of rapid additions to its solar and wind fleet.
+Adani Green Energy reported a 16% rise in consolidated net profit to **₹747 crore** for the July-September quarter on Wednesday, helped by a year of rapid additions to its solar and wind fleet.
 
-Total income rose 39% to ₹4,520 crore from ₹3,249 crore a year earlier. Income from selling power grew 45% to ₹4,019 crore. For the first half of the year, net profit rose 17.8% to ₹1,730 crore.
+Total income rose **39% to ₹4,520 crore** from ₹3,249 crore a year earlier. Income from selling power grew 45% to ₹4,019 crore. For the first half of the year, net profit rose 17.8% to ₹1,730 crore.
 
 "The growth in revenue and Ebitda is driven by consistent capacity expansion," the company said.
 
-Adani Green's operating renewable capacity stood at about 20.8 GW, up 24% from a year earlier. It added 4,083 MW over the year: 2,957 MW of solar, 805 MW of wind and 321 MW of hybrid projects that combine the two. Power sales in the first half rose 32% to 25,747 million units.
+Adani Green's operating renewable capacity stood at about 20.8 GW, up **24%** from a year earlier. It added 4,083 MW over the year: 2,957 MW of solar, 805 MW of wind and 321 MW of hybrid projects that combine the two. Power sales in the first half rose 32% to 25,747 million units.
 
-Much of the growth is at Khavda in Gujarat's Kutch district, where the company's renewable energy park has reached 10.8 GW. In the September quarter it commissioned 3,081 MWh of battery storage there, a site the company calls the world's largest single-location battery installation, and said it was likely to exceed its target of 10 GWh of storage for the year.
+Much of the growth is at Khavda in Gujarat's Kutch district, where the company's renewable energy park has reached 10.8 GW. In the September quarter it commissioned **3,081 MWh of battery storage** there, a site the company calls the world's largest single-location battery installation, and said it was likely to exceed its target of 10 GWh of storage for the year.
 
 "As India's largest renewable energy company, we take pride in driving the sector's momentum," chief executive Ashish Khanna said.
 
-Capital spending in the first half rose 38% to about ₹17,160 crore.
+Capital spending in the first half rose **38%** to about ₹17,160 crore.
 
 The results were released during trading hours. Adani Green shares were 3.41% lower at ₹1,251 on the National Stock Exchange at 3 pm.

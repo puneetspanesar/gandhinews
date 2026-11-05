@@ -48,20 +48,20 @@ verification:
     - "Sitharaman 'plateau' remark appears in the report as background from the Munich Security Conference; date not given, so not used."
 ---
 
-Shipments of American crude oil, liquefied natural gas and cooking gas to India fell 43% in September, as soaring freight costs and a revival of supplies from the Gulf pushed Indian refiners back to their traditional sources.
+Shipments of American crude oil, liquefied natural gas and cooking gas to India fell **43%** in September, as soaring freight costs and a revival of supplies from the Gulf pushed Indian refiners back to their traditional sources.
 
 India took in 1.22 million tonnes of US crude, LNG and LPG last month, down from 2.13 million tonnes in August and the lowest since April, according to ship-tracking data. That is less than half the two-year high of 2.86 million tonnes reached in October 2025.
 
-Imports of oil and gas from West Asia, meanwhile, rose 67% to 13.56 million tonnes. Gulf oil exports recovered to about 16.5 million barrels a day in September, close to pre-war levels, though only 60% of that crossed the Strait of Hormuz, against 83% before the war.
+Imports of oil and gas from West Asia, meanwhile, rose **67%** to 13.56 million tonnes. Gulf oil exports recovered to about 16.5 million barrels a day in September, close to pre-war levels, though only 60% of that crossed the Strait of Hormuz, against 83% before the war.
 
 ## Why US barrels lost out
 
-The cost of moving oil has exploded since the West Asia conflict began. Hire rates for very large crude carriers have risen more than twentyfold to nearly $1.5 million a day, and freight and insurance now account for 20% to 25% of a crude cargo's value, compared with under 5% before the war. Voyages from the US take more than 45 days as ships go around the Horn of Africa to avoid Houthi attacks.
+The cost of moving oil has exploded since the West Asia conflict began. Hire rates for very large crude carriers have risen more than twentyfold to nearly $1.5 million a day, and freight and insurance now account for 20% to **25%** of a crude cargo's value, compared with under 5% before the war. Voyages from the US take more than 45 days as ships go around the Horn of Africa to avoid Houthi attacks.
 
-The US has little of the medium, sour crude that suits India's complex refineries, which makes its light, sweet oil less attractive than Russian barrels, and West Asian supplies of the heavier grades have surged again. US crude imports in October have fallen about 30% so far to 91,000 barrels a day, data from Kpler showed.
+The US has little of the medium, sour crude that suits India's complex refineries, which makes its light, sweet oil less attractive than Russian barrels, and West Asian supplies of the heavier grades have surged again. US crude imports in October have fallen about **30%** so far to 91,000 barrels a day, data from Kpler showed.
 
 ## Prices stay high
 
-Brent crude futures were trading at $106.37 a barrel on Wednesday evening, up 0.64%. Kaynat Chainwala, assistant vice-president for commodity research at Kotak Neo, said the market was still pricing in risk from a record ten tanker strikes in a week in and around Hormuz, and the attacks on Saudi airports and an Aramco building in Dhahran.
+Brent crude futures were trading at $106.37 a barrel on Wednesday evening, up **0.64%**. Kaynat Chainwala, assistant vice-president for commodity research at Kotak Neo, said the market was still pricing in risk from a record ten tanker strikes in a week in and around Hormuz, and the attacks on Saudi airports and an Aramco building in Dhahran.
 
 "The near-term risk balance remains skewed to the upside," Chainwala said, adding that a move past $110 would depend on how intense and sustained the attacks become.

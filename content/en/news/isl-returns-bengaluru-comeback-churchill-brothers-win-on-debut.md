@@ -115,7 +115,7 @@ Martinez equalised in the 75th minute from Mihailo Perovic's pass, his second go
 
 ## Churchill Brothers arrive
 
-Churchill Brothers, who have replaced Jamshedpur FC in this season's league, needed 57 minutes to score their first ISL goal. Substitute Gaurav Bora headed in Anil Gaonkar's cross after a short corner. "It's for the badge, it's for the people!" Bora said of the goal.
+Churchill Brothers, who have replaced Jamshedpur FC in this season's league, needed 57 minutes to score their **first ISL** goal. Substitute Gaurav Bora headed in Anil Gaonkar's cross after a short corner. "It's for the badge, it's for the people!" Bora said of the goal.
 
 Sebastian Gutierrez made it 2-0 in the 86th minute from Stendley Fernandes' pass. Sergio Llamas pulled one back for Mumbai City from the penalty spot in stoppage time, but the Goan side held on.
 

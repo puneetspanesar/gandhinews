@@ -60,7 +60,7 @@ verification:
     - "pib.gov.in and mea.gov.in not reachable this run."
 ---
 
-US Secretary of State Marco Rubio arrived in Mumbai on Tuesday afternoon for a three-day visit to India, bringing with him the clearest signal yet from Washington that a long-delayed trade agreement is close.
+US Secretary of State Marco Rubio arrived in Mumbai on Tuesday afternoon for a **three-day visit to India**, bringing with him the clearest signal yet from Washington that a long-delayed trade agreement is close.
 
 "We're trying to finalise a trade deal with India right now. We're very close to doing that," Rubio said in Uzbekistan before flying in. External Affairs Minister S Jaishankar said a few days ago that the negotiations were nearing a "landing point".
 

@@ -37,9 +37,9 @@ verification:
 
 Police in Bangladesh have arrested two men accused of belonging to a trafficking network that lured local men to Russia with promises of well-paid jobs and then handed them to the Russian army to fight in Ukraine.
 
-Mohammad Asaduzzaman, commander of the police's elite Special Response Battalion, said on Wednesday that the suspects, Mizanur Rahman and Abu Taher, had helped send at least 30 people to Russia. Once there, the men had their passports and phones taken from them and were passed to the military.
+Mohammad Asaduzzaman, commander of the police's elite Special Response Battalion, said on Wednesday that the suspects, **Mizanur Rahman and Abu Taher**, had helped send at least 30 people to Russia. Once there, the men had their passports and phones taken from them and were passed to the military.
 
-The toll has been heavy. About 17 of the recruits, who reached Russia in early May, were killed on their first day of deployment after minimal training, police said. Twenty Bangladeshis have been confirmed dead in all. "Bangladeshis were used as bait to locate enemy positions," Asaduzzaman said.
+The toll has been heavy. About 17 of the recruits, who reached Russia in early May, were **killed on their first day** of deployment after minimal training, police said. Twenty Bangladeshis have been confirmed dead in all. "Bangladeshis were used as bait to locate enemy positions," Asaduzzaman said.
 
 A survivor who made it home has said two others are in hospital in Moscow and six are still at the front. The victims were reported to have paid about $8,000 each for jobs that did not exist.
 

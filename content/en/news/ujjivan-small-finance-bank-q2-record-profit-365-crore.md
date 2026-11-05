@@ -36,17 +36,17 @@ verification:
     - "Reasons for the profit jump (e.g. lower credit costs) not given in the source, so none stated. Head office photo suggestion relies on desk knowledge that it is in Bengaluru."
 ---
 
-Ujjivan Small Finance Bank reported its highest-ever quarterly profit on Friday, with net profit of ₹365 crore for the July-September quarter. That was up 199.9% from a year earlier, when it earned roughly ₹122 crore, and 15.3% from the June quarter. The results came on the same evening as Urban Company's and a day before HDFC Bank, ICICI Bank and Axis Bank reported.
+Ujjivan Small Finance Bank reported its highest-ever quarterly profit on Friday, with net profit of **₹365 crore** for the July-September quarter. That was up 199.9% from a year earlier, when it earned roughly ₹122 crore, and 15.3% from the June quarter. The results came on the same evening as Urban Company's and a day before HDFC Bank, ICICI Bank and Axis Bank reported.
 
-Net interest income, the bank's earnings from lending after paying depositors, rose 35% to ₹1,244 crore, also a record.
+Net interest income, the bank's earnings from lending after paying depositors, rose **35%** to ₹1,244 crore, also a record.
 
 ## Bigger and cleaner
 
-Deposits crossed ₹50,000 crore for the first time, reaching ₹50,643 crore, up 29.2% from a year earlier and 5.2% from June. Current and savings account deposits grew 22.2% to ₹13,176 crore, a CASA ratio of 26%.
+Deposits crossed **₹50,000 crore** for the first time, reaching ₹50,643 crore, up 29.2% from a year earlier and 5.2% from June. Current and savings account deposits grew 22.2% to ₹13,176 crore, a CASA ratio of 26%.
 
-The gross loan book grew 32.1% to ₹45,699 crore, and disbursements in the quarter rose 32.3% to ₹10,495 crore.
+The gross loan book grew **32.1%** to ₹45,699 crore, and disbursements in the quarter rose 32.3% to ₹10,495 crore.
 
-Asset quality improved. The gross non-performing assets ratio fell to 2.10% from 2.45% a year earlier, and net NPAs more than halved to 0.31% from 0.67%.
+Asset quality improved. The gross non-performing assets ratio fell to **2.10%** from 2.45% a year earlier, and net NPAs more than halved to 0.31% from 0.67%.
 
 ## Fresh capital
 

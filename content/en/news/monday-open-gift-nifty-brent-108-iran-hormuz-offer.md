@@ -57,7 +57,7 @@ verification:
 
 Indian shares go into Monday's session with oil a little calmer than it looked on Friday night, but with little else to settle nerves after a weekend of threats and counter-offers over the Strait of Hormuz.
 
-When oil futures reopened after the weekend, Brent crude eased to about $108.4 a barrel, roughly 1.3% below Friday's settlement of $109.86, its highest close since May. US crude slipped to about $100.8. The moves were modest, and Brent kept most of a weekly gain of almost 5%.
+When oil futures reopened after the weekend, Brent crude eased to about **$108.4 a barrel**, roughly 1.3% below Friday's settlement of $109.86, its highest close since May. US crude slipped to about $100.8. The moves were modest, and Brent kept most of a weekly gain of almost 5%.
 
 ## Iran's offer, America's warning
 
@@ -69,14 +69,14 @@ Analysts at Goldman Sachs have sketched both ends of the risk: crude climbing to
 
 ## What it means for Indian shares
 
-The Nifty closed on Friday at 23,146.15 after gaining 2.8% last week, its best week in months, led by IT companies. GIFT Nifty, the dollar-denominated contract traded in Gandhinagar, last changed hands at 23,085 in the early hours of Saturday, about 60 points below that close, which points to a slightly softer start. It resumes trading at 6:30 am.
+The Nifty closed on Friday at 23,146.15 after gaining **2.8%** last week, its best week in months, led by IT companies. GIFT Nifty, the dollar-denominated contract traded in Gandhinagar, last changed hands at 23,085 in the early hours of Saturday, about 60 points below that close, which points to a slightly softer start. It resumes trading at 6:30 am.
 
-Foreign money remains the weak spot. Foreign institutional investors sold a net ₹15,440 crore of Indian shares in the week to October 16, almost all of it absorbed by ₹14,792 crore of buying from domestic funds. Their October outflow stands at about ₹52,100 crore, although they turned small net buyers on Friday as US bond yields eased from above 5.3% to about 5.1%.
+Foreign money remains the weak spot. Foreign institutional investors sold a net **₹15,440 crore** of Indian shares in the week to October 16, almost all of it absorbed by ₹14,792 crore of buying from domestic funds. Their October outflow stands at about ₹52,100 crore, although they turned small net buyers on Friday as US bond yields eased from above 5.3% to about 5.1%.
 
-The rupee strengthened for six straight sessions last week to close at 94.89 to the dollar, helped by the RBI and by a dip in oil earlier in the week. A Brent price that stays above $105 would test that recovery, since India imports most of its crude. Foreign exchange reserves have fallen to $726.03 billion as the central bank has defended the currency.
+The rupee strengthened for six straight sessions last week to close at 94.89 to the dollar, helped by the RBI and by a dip in oil earlier in the week. A Brent price that stays above $105 would test that recovery, since India imports most of its crude. Foreign exchange reserves have fallen to **$726.03 billion** as the central bank has defended the currency.
 
 ## A short, crowded week
 
-Exchanges are closed on Tuesday for Dussehra, so the week has four sessions. Monday brings results from Bajaj Finance, UltraTech Cement, Hindustan Zinc and Union Bank of India, and traders will react first to Saturday's numbers from ICICI Bank, Axis Bank and HDFC Bank. The ₹30,200 crore Jio Platforms share sale opens on Wednesday.
+Exchanges are closed on Tuesday for Dussehra, so the week has four sessions. Monday brings results from Bajaj Finance, UltraTech Cement, Hindustan Zinc and Union Bank of India, and traders will react first to Saturday's numbers from ICICI Bank, Axis Bank and HDFC Bank. The **₹30,200 crore** Jio Platforms share sale opens on Wednesday.
 
 Analysts see support for the Nifty around 22,800. Overseas, US results from Netflix, Tesla and Meta and the Federal Reserve's meeting on October 27-28 will shape the mood in technology stocks after the Nasdaq's worst week since June.

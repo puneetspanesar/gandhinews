@@ -37,9 +37,9 @@ verification:
     - "Name written as in release: 'Amina Nasreen A.S.'."
 ---
 
-An Indian high school student, Amina Nasreen A.S., has won the Global Youth Institute award at the World Food Prize Foundation's annual gathering in Des Moines, Iowa, the agriculture ministry said on Friday.
+An Indian high school student, Amina Nasreen A.S., has won the **Global Youth Institute award** at the World Food Prize Foundation's annual gathering in Des Moines, Iowa, the agriculture ministry said on Friday.
 
-She was one of seven Indian high school students chosen through a joint selection process run by the National Academy of Agricultural Sciences (NAAS) in New Delhi and the foundation. The students presented research papers on food security at the 2026 Norman E. Borlaug International Dialogue, held from October 20 to 22 under the theme "Before Hunger Wins". The award carries a cash prize of US$500.
+She was one of **seven Indian high school students** chosen through a joint selection process run by the National Academy of Agricultural Sciences (NAAS) in New Delhi and the foundation. The students presented research papers on food security at the 2026 Norman E. Borlaug International Dialogue, held from October 20 to 22 under the theme "Before Hunger Wins". The award carries a cash prize of US$500.
 
 ## India's academy at the dialogue
 

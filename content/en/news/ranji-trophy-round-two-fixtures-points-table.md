@@ -44,7 +44,7 @@ verification:
 
 The Ranji Trophy's second round of Elite group matches runs from Sunday, October 18, to Wednesday, October 21, with four sides already carrying the maximum seven points from the opening week.
 
-Uttar Pradesh and Baroda lead Group A after innings wins over Bihar and Goa. Hyderabad top Group B after beating Tripura by an innings, Gujarat lead Group C after a ten-wicket win over Odisha, and Mumbai head Group D after thrashing Chandigarh by an innings and 155 runs.
+Uttar Pradesh and Baroda lead Group A after innings wins over Bihar and Goa. Hyderabad top Group B after beating Tripura by an innings, Gujarat lead Group C after a ten-wicket win over Odisha, and Mumbai head Group D after thrashing Chandigarh by an innings and **155 runs**.
 
 ## The games to watch
 
@@ -54,7 +54,7 @@ In Group D, Mumbai take on Himachal Pradesh, who lost to Haryana by seven wicket
 
 Group B pits Karnataka against Saurashtra after both were held to draws. Karnataka needed Karun Nair's unbeaten 155 to save their match against Andhra, who now play Hyderabad.
 
-Defending champions Jammu and Kashmir, seven down and hanging on against Madhya Pradesh in Srinagar, meet Vidarbha, who beat Puducherry by 160 runs.
+Defending champions **Jammu and Kashmir**, seven down and hanging on against Madhya Pradesh in Srinagar, meet Vidarbha, who beat Puducherry by 160 runs.
 
 ## What is at stake
 

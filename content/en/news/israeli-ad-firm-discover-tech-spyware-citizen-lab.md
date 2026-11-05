@@ -40,7 +40,7 @@ An Israeli digital advertising agency used ordinary-looking online adverts for p
 
 Citizen Lab, the Canadian cyber watchdog, and Confiant, a New York advertising security firm, published separate reports on Discover-Tech, an agency founded in 2020. They said its services gave the Israeli spyware maker Candiru, blacklisted by the US in 2021, and other Israeli surveillance firms access to advertising platforms run by Google, Comcast and Russia's Yandex.
 
-The ads did not need to be clicked. Simply loading one on a website or app could identify and track the user, and in some cases the firm tried to pull phone numbers from smartphones. A small share of the ads helped plant Candiru spyware. Citizen Lab said a powerful form of that spyware, delivered this way, compromised 45 Windows devices at Al Jazeera between 2024 and 2025.
+The ads did not need to be clicked. Simply loading one on a website or app could identify and track the user, and in some cases the firm tried to pull phone numbers from smartphones. A small share of the ads helped plant Candiru spyware. Citizen Lab said a powerful form of that spyware, delivered this way, compromised **45 Windows devices** at Al Jazeera between 2024 and 2025.
 
 ## How far it reached
 

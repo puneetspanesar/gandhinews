@@ -101,6 +101,6 @@ Virgil van Dijk agreed the dismissal changed the match. "Unfortunately, the red 
 
 ## Where it leaves them
 
-City have won all six league games under Maresca, equalling the best start to a managerial reign in Premier League history, a record he shares with Pep Guardiola, Carlo Ancelotti and Ole Gunnar Solskjaer. They have 18 points and lead Arsenal by three. It was also their fourth win in a row over Liverpool.
+City have won all six league games under Maresca, equalling the best start to a managerial reign in Premier League history, a record he shares with Pep Guardiola, Carlo Ancelotti and Ole Gunnar Solskjaer. They have **18 points** and lead Arsenal by three. It was also their fourth win in a row over Liverpool.
 
-For Liverpool, watched by 60,338 at Anfield, it was the first defeat of the season. Gravenberch is suspended for the league trip to Brentford, and Iraola said the squad faces four games in 10 days, including a flight to Austria this week. City host Paris Saint-Germain in the Champions League next.
+For Liverpool, watched by 60,338 at Anfield, it was the first defeat of the season. Gravenberch is suspended for the league trip to Brentford, and Iraola said the squad faces four games in **10 days**, including a flight to Austria this week. City host Paris Saint-Germain in the Champions League next.

@@ -49,7 +49,7 @@ verification:
     - "Records (17th win, partnership marks, Shafali's 922 runs) from Asianet/IANS only."
 ---
 
-India wrapped up their T20I series against Zimbabwe with a game to spare on Sunday night, chasing 103 in 8.5 overs in Raipur to win by nine wickets. Shafali Verma hit 55 off 25 balls and captain Smriti Mandhana finished unbeaten on 47 off 25 as the hosts went 2-0 up.
+India wrapped up their T20I series against Zimbabwe with a game to spare on Sunday night, chasing 103 in 8.5 overs in Raipur to win by nine wickets. Shafali Verma hit **55 off 25 balls** and captain Smriti Mandhana finished unbeaten on 47 off 25 as the hosts went 2-0 up.
 
 It was a far cleaner evening than the opener on Friday, when India's top four all fell for single figures and they needed Deepti Sharma and Niki Prasad to rescue a four-wicket win. This time the openers put on 96 and the chase lasted only 53 balls. It was also Mandhana's first win as India's full-time captain.
 

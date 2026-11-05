@@ -62,7 +62,7 @@ verification:
     - "Tsitsipas article title in sources is descriptive; actual headline not captured."
 ---
 
-Zizou Bergs beat Carlos Alcaraz 7-5, 7-6(4) at the Shanghai Masters on Monday, the biggest win of the Belgian's career. The world No. 39's victory over the second seed also settled the year-end rankings: Alexander Zverev is now certain to finish 2026 as world No. 1, the first German man to do so.
+Zizou Bergs beat Carlos Alcaraz **7-5, 7-6(4)** at the Shanghai Masters on Monday, the biggest win of the Belgian's career. The world No. 39's victory over the second seed also settled the year-end rankings: Alexander Zverev is now certain to finish 2026 as world No. 1, the first German man to do so.
 
 ## How Bergs did it
 
@@ -86,7 +86,7 @@ The world No. 1, Jannik Sinner, has ended his season early with a knee injury. Z
 
 ## Tsitsipas gets there at the fourth attempt
 
-Stefanos Tsitsipas came from a set down to beat 11th seed Taylor Fritz 3-6, 7-5, 6-3. Serving for the match, he missed three match points in a strange game in which the ball fell out of Fritz's pocket on consecutive points, forcing replays. Fritz called one let on himself. Tsitsipas took his fourth chance.
+Stefanos Tsitsipas came from a set down to beat 11th seed Taylor Fritz 3-6, 7-5, 6-3. Serving for the match, he missed **three match points** in a strange game in which the ball fell out of Fritz's pocket on consecutive points, forcing replays. Fritz called one let on himself. Tsitsipas took his fourth chance.
 
 "I was manifesting today's match and trying to put myself in a victorious situation," the Greek said. He meets fifth seed Daniil Medvedev, who beat qualifier Dalibor Svrčina 6-2, 6-3.
 

@@ -40,12 +40,12 @@ verification:
 
 The Samajwadi Party says it has settled how it will share seats for the 2027 Uttar Pradesh Assembly election. Its main ally, the Congress, says talks are only getting under way.
 
-SP MP Ramashankar Rajbhar said in Lucknow on Saturday that the party had finalised its seat-sharing formula and would announce the details soon. He also said the SP would release its manifesto on November 26.
+SP MP Ramashankar Rajbhar said in Lucknow on Saturday that the party had **finalised its seat-sharing formula** and would announce the details soon. He also said the SP would release its manifesto on November 26.
 
 Congress, which fought the 2024 Lok Sabha election with the SP in the INDIA bloc, has described the process differently. Its Uttar Pradesh in-charge, Rajendra Pal Gautam, told a press conference in Lucknow on Wednesday that seat-sharing talks within the alliance had formally begun and that Congress had asked for certain seats. He indicated that a committee would handle the discussions.
 
 "Discussions have now begun, and as we stated earlier, the agreement will be honourable," Gautam said, adding that "the outcome will be communicated in due time."
 
-He also made the case for a bigger share. "The Congress party is actively building its organisation on the ground, and it is growing significantly stronger," he said. He credited Rahul Gandhi's influence for the INDIA bloc's 43 seats in Uttar Pradesh in 2024.
+He also made the case for a bigger share. "The Congress party is actively building its organisation on the ground, and it is growing significantly stronger," he said. He credited Rahul Gandhi's influence for the INDIA bloc's **43 seats** in Uttar Pradesh in 2024.
 
 Neither party has said how many of the state's 403 Assembly seats each expects to contest. In this month's Legislative Council elections, the SP has accused Chief Minister Yogi Adityanath of breaking the rules. Votes for two council seats polled on Friday will be counted on October 27.

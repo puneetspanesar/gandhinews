@@ -40,7 +40,7 @@ verification:
 
 The Keralam High Court on Friday turned down a request from former chief minister Pinarayi Vijayan's lawyers to hear his family's appeal in the CMRL-Exalogic case the same day, and posted it for Monday, October 26.
 
-The appeal will go before the original division bench of Justices K Natarajan and Johnson John. That bench had earlier dismissed the family's applications for leave to appeal, a decision the Supreme Court set aside on Wednesday.
+The appeal will go before the original division bench of **Justices K Natarajan and Johnson John**. That bench had earlier dismissed the family's applications for leave to appeal, a decision the Supreme Court set aside on Wednesday.
 
 Vijayan, his daughter Veena T and his son-in-law P A Mohamed Riyas are challenging a single-judge order of October 9 by Justice A Badharudeen, which led the Vigilance and Anti-Corruption Bureau to register an FIR naming them. The case rests on material the Enforcement Directorate passed to the state police under Section 66(2) of the money laundering law, flagging suspected offences under the Prevention of Corruption Act. The ED is separately looking at possible money laundering.
 

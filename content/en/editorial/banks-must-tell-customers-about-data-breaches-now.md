@@ -83,7 +83,7 @@ The person whose name, mobile number, date of birth and home address are now in 
 
 The leaked SBI records are not passwords or balances, and the bank is right to say that funds are safe. But the details that did leak are exactly what a fraudster needs to sound like a bank official on the phone: a name, a branch, a loan application, a date of birth. The Internet Freedom Foundation made the point sharply when it noted that the filing to investors "does not say whether a single affected customer has been told". A customer who has been warned can hang up on that call. One who has not is easy prey.
 
-The scale is also uncertain. SBI has identified 3,897 records with personal details out of the roughly 3.75 lakh rows it examined. The person who posted the data claims to hold 2,722 PDF documents as well, including loan and account opening forms. SBI has not yet said how the data left the bank, or how old it is.
+The scale is also uncertain. SBI has identified 3,897 records with personal details out of the roughly **3.75 lakh** rows it examined. The person who posted the data claims to hold 2,722 PDF documents as well, including loan and account opening forms. SBI has not yet said how the data left the bank, or how old it is.
 
 ## The fair objection
 
@@ -93,7 +93,7 @@ That is reasonable, up to a point. It argues for a short, defined window after a
 
 ## What should change
 
-First, the RBI should turn its March advisory into a binding direction. Once a bank confirms that a customer's personal data has been exposed, it should be required to tell that customer directly, in their language, within 72 hours.
+First, the RBI should turn its March advisory into a binding direction. Once a bank confirms that a customer's personal data has been exposed, it should be required to tell that customer directly, in their language, **within 72 hours**.
 
 Second, the notice should say what leaked, what the customer should watch for, and how to reach a dedicated helpline. A line advising people never to share OTPs is not enough.
 

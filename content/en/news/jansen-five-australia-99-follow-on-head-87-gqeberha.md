@@ -55,9 +55,9 @@ verification:
     - "No direct quotes found in any report."
 ---
 
-South Africa need six wickets on the final day to level the series against Australia, after a remarkable fourth day at St George's Park on Wednesday in which 13 wickets fell and the visitors were made to follow on.
+South Africa need six wickets on the final day to level the series against Australia, after a remarkable fourth day at St George's Park on Wednesday in which **13 wickets** fell and the visitors were made to follow on.
 
-Australia were bowled out for 99 in reply to South Africa's 425 for 9 declared. Temba Bavuma enforced the follow-on with a lead of 326, and by stumps Australia had reached 156 for 4, still 170 runs behind. Travis Head was unbeaten on 87, and Scott Boland had again come in as nightwatchman and survived.
+Australia were bowled out for 99 in reply to South Africa's 425 for 9 declared. Temba Bavuma enforced the follow-on with a **lead of 326**, and by stumps Australia had reached 156 for 4, still 170 runs behind. Travis Head was unbeaten on 87, and Scott Boland had again come in as nightwatchman and survived.
 
 ## Jansen's morning
 
@@ -77,4 +77,4 @@ Head played with unusual restraint, making his slowest Test fifty in three years
 
 ## What happens on Thursday
 
-Australia lead the three-match series 1-0 after winning the first Test in Durban by 214 runs. Rain cost large parts of the first two days here, but South Africa now have a full day to take six wickets. Australia must bat through it to take their lead to the final Test at Newlands in Cape Town, which begins on October 27.
+Australia lead the three-match series 1-0 after winning the first Test in Durban by **214 runs**. Rain cost large parts of the first two days here, but South Africa now have a full day to take six wickets. Australia must bat through it to take their lead to the final Test at Newlands in Cape Town, which begins on October 27.

@@ -53,7 +53,7 @@ The meeting, chaired by Chief Minister Pushkar Singh Dhami, was held at the Mela
 
 ## Agniveers and flood zones
 
-The Horizontal Reservation Rules, 2026, replace the rules issued in 2025, which gave discharged Agniveers 10% horizontal reservation, a relaxation in the upper age limit and an exemption from the physical efficiency test. The new rules add relief in both the written exam and the physical standards test, and were drafted in line with new central government guidelines.
+The Horizontal Reservation Rules, 2026, replace the rules issued in 2025, which gave discharged Agniveers **10%** horizontal reservation, a relaxation in the upper age limit and an exemption from the physical efficiency test. The new rules add relief in both the written exam and the physical standards test, and were drafted in line with new central government guidelines.
 
 The cabinet also approved the Uttarakhand Flood Plain Zoning Rules, 2026, framed under a 2012 law. They set the procedures and standards for regulating construction and land use in flood-prone areas, with the aim of keeping natural flood channels clear and protecting lives, property and infrastructure.
 

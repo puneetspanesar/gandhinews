@@ -86,19 +86,19 @@ Source: [PTI via ThePrint, August 7, 2026](https://theprint.in/india/e20-policy-
 
 ### 2. The E20 target was set in 2021
 
-NITI Aayog's "Roadmap for Ethanol Blending in India 2020-25", published in June 2021 by an expert committee, proposed a phased rollout "to achieve the target by 2025". Its capacity tables plan for 20% blending by 2025-26.
+NITI Aayog's "Roadmap for Ethanol Blending in India 2020-25", published in June 2021 by an expert committee, proposed a phased rollout "to achieve the target by 2025". Its capacity tables plan for **20%** blending by 2025-26.
 
 Source: [NITI Aayog, June 2021](https://www.niti.gov.in/index.php/node/329)
 
 ### 3. The government says blending ethanol is domestic
 
-On August 6, 2026, a day before the Goa remarks, the Commerce Ministry said: "No concessions or commitments relating to the import of ethanol for fuel blending from the U.S. have been made in the India-US trade discussions." It added that "any suggestion of a policy change to permit large-scale imports of fuel ethanol from the US is misleading". It said blending ethanol is "sourced entirely from domestic producers". The same report put ethanol production capacity at about 19 to 19.9 billion litres a year and E20 demand this ethanol year at about 11 billion litres.
+On August 6, 2026, a day before the Goa remarks, the Commerce Ministry said: "No concessions or commitments relating to the import of ethanol for fuel blending from the U.S. have been made in the India-US trade discussions." It added that "any suggestion of a policy change to permit large-scale imports of fuel ethanol from the US is misleading". It said blending ethanol is "sourced entirely from domestic producers". The same report put ethanol production capacity at about 19 to **19.9 billion** litres a year and E20 demand this ethanol year at about 11 billion litres.
 
 Source: [PTI via Business Standard, August 6, 2026](https://www.business-standard.com/economy/news/no-commitments-relating-to-ethanol-import-from-us-under-fta-talks-govt-126080601771_1.html)
 
 ### 4. US export data show smaller volumes
 
-The US Energy Information Administration records 4,471 thousand barrels of ethanol exported to India in 2025, about 71 crore litres, and 1,055 thousand barrels from February to July 2026, about 17 crore litres. A USDA report on India covering 2022 forecast about 635 million litres of imports driven by industrial-grade demand, "nearly all from the United States".
+The US Energy Information Administration records 4,471 thousand barrels of ethanol exported to India in 2025, about **71 crore** litres, and 1,055 thousand barrels from February to July 2026, about 17 crore litres. A USDA report on India covering 2022 forecast about 635 million litres of imports driven by industrial-grade demand, "nearly all from the United States".
 
 Sources: [EIA annual data](https://www.eia.gov/dnav/pet/pet_move_expc_a_EPOOXE_EEX_mbbl_a.htm); [EIA monthly data](https://www.eia.gov/dnav/pet/pet_move_expc_a_EPOOXE_EEX_mbbl_m.htm); [USDA FAS, IN2022-0056](https://www.fas.usda.gov/data/india-biofuels-annual-7)
 

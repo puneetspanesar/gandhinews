@@ -71,7 +71,7 @@ The pair have been held since climbing the gate of Jantar Mantar with the Tricol
 
 ## The vacation bench
 
-A special bench of Justices Joymalya Bagchi and V Mohana will hear the YSR Congress Party's challenge to an Andhra Pradesh High Court order of October 18 that refused to extend the deadline for nominations in the state's urban local body elections. The party says violence kept its candidates away from nomination centres and wants police protection, more time and more centres.
+A special bench of **Justices Joymalya Bagchi and V Mohana** will hear the YSR Congress Party's challenge to an Andhra Pradesh High Court order of October 18 that refused to extend the deadline for nominations in the state's urban local body elections. The party says violence kept its candidates away from nomination centres and wants police protection, more time and more centres.
 
 The same bench takes up the pleas of former Keralam chief minister Pinarayi Vijayan, his daughter Veena T and P A Mohammed Riyas against the High Court orders that led to a vigilance case in the CMRL-Exalogic matter. Arguing for an early hearing last week, senior advocate Siddharth Luthra told the court: "It is a matter of liberty."
 

@@ -41,7 +41,7 @@ verification:
     - "Mandaviya's quotes are fragments as given in the report; quoted as such."
 ---
 
-Indian Oil Corporation will invest ₹40 crore over the next two years in Indian boxing, under an agreement with the National Sports Development Fund and the Sports Authority of India announced on Wednesday.
+Indian Oil Corporation will invest ₹40 crore over the next two years in Indian boxing, under an agreement with the **National Sports Development Fund** and the Sports Authority of India announced on Wednesday.
 
 The money is meant to cover the whole pathway: spotting talent, training and coaching, sports science, boxing academies, and trips abroad so that Indian boxers get more international competition. Part of it will go to building up coaches, referees and technical officials.
 

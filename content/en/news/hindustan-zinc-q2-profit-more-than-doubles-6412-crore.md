@@ -42,13 +42,13 @@ verification:
 
 Hindustan Zinc, the Vedanta group's zinc and silver miner, more than doubled its quarterly profit on Monday as higher metal prices, record mining output and lower costs fed straight into its earnings.
 
-Consolidated net profit for July-September rose 142% to ₹6,412 crore from ₹2,649 crore a year earlier. Revenue from operations climbed 77% to a record ₹15,093 crore, and operating profit (EBITDA) more than doubled to a record ₹9,285 crore. The operating margin widened to 62% from 52%.
+Consolidated net profit for July-September rose **142% to ₹6,412 crore** from ₹2,649 crore a year earlier. Revenue from operations climbed 77% to a record ₹15,093 crore, and operating profit (EBITDA) more than doubled to a record ₹9,285 crore. The operating margin widened to 62% from 52%.
 
-The company credited higher metal prices, more production, better earnings from by-products, a stronger dollar and lower costs. Its cost of producing a tonne of zinc, excluding royalty, fell 29% to $703 from $994.
+The company credited higher metal prices, more production, better earnings from by-products, a stronger dollar and lower costs. Its cost of producing a tonne of zinc, excluding royalty, fell **29%** to $703 from $994.
 
-Mined metal output reached a record 271 kilotonnes, up 5%, and refined metal rose 7% to 264 kilotonnes, its best September quarter. Silver production rose 20% to 173 tonnes, a significant gain at a time when silver trades above $57 an ounce.
+Mined metal output reached a record 271 kilotonnes, up **5%**, and refined metal rose 7% to 264 kilotonnes, its best September quarter. Silver production rose 20% to 173 tonnes, a significant gain at a time when silver trades above $57 an ounce.
 
-For the first half of the year, net profit rose 143% to ₹11,881 crore on revenue of ₹28,840 crore. Free cash flow before growth spending was ₹11,642 crore. At the end of September the company held ₹17,439 crore in investments and cash against borrowings of ₹6,171 crore. Renewable sources supplied 27% of the power it used in the quarter.
+For the first half of the year, net profit rose **143%** to ₹11,881 crore on revenue of ₹28,840 crore. Free cash flow before growth spending was ₹11,642 crore. At the end of September the company held ₹17,439 crore in investments and cash against borrowings of ₹6,171 crore. Renewable sources supplied 27% of the power it used in the quarter.
 
 "I am honored to lead Hindustan Zinc at this pivotal stage," said Amarendu Prakash, the chief executive.
 

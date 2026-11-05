@@ -35,7 +35,7 @@ verification:
     - "Single source (ANI via NewKerala, updated 15:15 on Oct 21). Show timing on Oct 25 not given; no IAF press release checked."
 ---
 
-The Indian Air Force's Sarang helicopter display team was in the air over the Ganga at Varanasi on Wednesday, rehearsing for an aerial display at Namo Ghat on Sunday, October 25, to mark the force's 94th anniversary.
+The Indian Air Force's Sarang helicopter display team was in the air over the Ganga at Varanasi on Wednesday, rehearsing for an aerial display at **Namo Ghat** on Sunday, October 25, to mark the force's 94th anniversary.
 
 The Air Force Day Aerial Display 2026 carries the theme "Wings Over Ganges". Alongside Sarang, the Surya Kiran Aerobatic Team will perform, and the line-up includes the Tejas fighter, the Light Combat Helicopter Prachand, Su-30MKI and Rafale jets, and IL-76, IL-78, C-295 and AN-32 transport and tanker aircraft. Aircraft from the Navy and the Army are also due to take part.
 

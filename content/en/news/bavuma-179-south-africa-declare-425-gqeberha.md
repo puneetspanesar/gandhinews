@@ -46,7 +46,7 @@ verification:
 
 Temba Bavuma batted for almost the whole of day three at St George's Park on Tuesday, and by the end of it South Africa had turned the second Test against Australia upside down. The captain made 179, the best score of his Test career, as the hosts went from 110 for 6 to 425 for 9 declared.
 
-Australia then had four awkward overs to survive before stumps and did not get through them intact. Kagiso Rabada had Nic Maddinson caught by Simon Harmer for a four-ball duck, and Australia closed on 3 for 1, still 422 behind, with Travis Head and nightwatchman Scott Boland at the crease.
+Australia then had four awkward overs to survive before stumps and did not get through them intact. Kagiso Rabada had Nic Maddinson caught by Simon Harmer for a four-ball duck, and Australia closed on **3 for 1**, still 422 behind, with Travis Head and nightwatchman Scott Boland at the crease.
 
 ## The captain's innings
 
@@ -62,4 +62,4 @@ Boland was the pick of Australia's attack with 5 for 81 from 29 overs, his third
 
 ## Where the Test stands
 
-Australia lead the three-match series 1-0 after winning in Durban. Rain wiped out much of the first two days here, so time remains South Africa's main opponent. They need 20 wickets in two days to level the series, and Australia need to bat long to make sure they head to the final Test still in front.
+Australia lead the three-match series 1-0 after winning in Durban. Rain wiped out much of the first two days here, so time remains South Africa's main opponent. They need **20 wickets** in two days to level the series, and Australia need to bat long to make sure they head to the final Test still in front.

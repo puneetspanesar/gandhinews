@@ -48,9 +48,9 @@ France will impose new curfews on Tuesday night wherever the situation demands, 
 
 Paris, Bordeaux, Nice and several other cities brought in partial curfews on Monday. The Paris order covered only Monday night, while those in Bordeaux and Nice are set to run for several days. In the capital, a police helicopter swept Place de la République with a searchlight to enforce it. Police said the night passed without major incidents across the country.
 
-In Lyon, about 500 people gathered on Monday evening outside a tourism office that had been set on fire, defying a ban on demonstrations, according to organisers. A banner called on the city's Green mayor, Grégory Doucet, to resign.
+In Lyon, about **500 people** gathered on Monday evening outside a tourism office that had been set on fire, defying a ban on demonstrations, according to organisers. A banner called on the city's Green mayor, Grégory Doucet, to resign.
 
-The unrest grew out of weeks of student protests over conditions in high schools and swelled at the weekend into demonstrations over soaring prices, with shops looted and public buildings set alight. The business lobby Medef says preliminary estimates show at least 3,000 businesses were hit. Its president, Patrick Martin, said on Tuesday that the state had "failed".
+The unrest grew out of weeks of student protests over conditions in high schools and swelled at the weekend into demonstrations over soaring prices, with shops looted and public buildings set alight. The business lobby Medef says preliminary estimates show at **least 3,000 businesses** were hit. Its president, Patrick Martin, said on Tuesday that the state had "failed".
 
 Finance Minister Roland Lescure has promised support for shopkeepers and craftspeople. The government is holding emergency meetings on Tuesday, including talks with representatives of the big social media platforms.
 

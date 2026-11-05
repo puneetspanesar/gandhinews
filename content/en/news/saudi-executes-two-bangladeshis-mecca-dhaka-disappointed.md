@@ -43,7 +43,7 @@ verification:
   - 'Names Nazrul Islam Abdul Basir and Siti Akhtar from UNB via Dhaka Tribune only. Execution date unclear: AP caption says Monday, while Dhaka raised it with the Saudi ambassador on Sunday, so date left out. Second state minister''s name spelled inconsistently in UNB (Shama Obaed Islam / Shama Obaid), used ''Shama Obaed''. Daily Star article was not fetched (permission timeout).'
 ---
 
-Saudi Arabia has executed two Bangladeshi nationals, a man and a woman, who were convicted of committing "indecent acts" inside a mosque in Mecca, drawing an unusually blunt complaint from Dhaka, which says it was not told before the sentences were carried out.
+Saudi Arabia has executed **two Bangladeshi nationals**, a man and a woman, who were convicted of committing "indecent acts" inside a mosque in Mecca, drawing an unusually blunt complaint from Dhaka, which says it was not told before the sentences were carried out.
 
 The Saudi Interior Ministry said the pair were put to death because of "the gravity and seriousness of their actions in violating the sanctity of both time and place". It gave no further detail. They were named as Nazrul Islam Abdul Basir and Siti Akhtar.
 

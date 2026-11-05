@@ -47,7 +47,7 @@ verification:
     - "No diagnosis or availability update for Smith or Nortje found; no statements from Cricket Australia or CSA. No quotes."
 ---
 
-Steve Smith reached 11,000 runs in Test cricket on Wednesday, but the milestone came on a painful day for him and for Australia at St George's Park.
+Steve Smith reached **11,000 runs** in Test cricket on Wednesday, but the milestone came on a painful day for him and for Australia at St George's Park.
 
 Smith was troubled by his neck throughout his first innings against South Africa, needing several visits from the medical staff during a stay of 88 balls. He made 28, the top score in Australia's 99 all out, before he fell to Wiaan Mulder.
 
@@ -57,6 +57,6 @@ His absence leaves Australia a batter short as they try to save the second Test 
 
 ## Nortje hurt too
 
-South Africa have a fitness concern of their own. Anrich Nortje, who took the wicket of Marnus Labuschagne in the first innings, left the field with a right groin injury, which could leave Temba Bavuma a fast bowler short as his side chase six more wickets on Thursday.
+South Africa have a fitness concern of their own. Anrich Nortje, who took the wicket of Marnus Labuschagne in the first innings, left the field with a **right groin injury**, which could leave Temba Bavuma a fast bowler short as his side chase six more wickets on Thursday.
 
 Both teams will want answers quickly. Australia lead the three-match series 1-0, and the final Test starts at Newlands in Cape Town on October 27, leaving little time for either player to recover.

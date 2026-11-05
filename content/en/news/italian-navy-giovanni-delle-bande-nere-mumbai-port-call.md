@@ -37,13 +37,13 @@ verification:
     - "No Indian Navy statement or exercise with the Indian Navy found."
 ---
 
-The Italian Navy's multi-purpose combat ship ITS Giovanni Delle Bande Nere is in Mumbai for a five-day port call from Sunday, October 18, to Thursday, October 22, as part of a long deployment to the Indo-Pacific.
+The Italian Navy's multi-purpose combat ship **ITS Giovanni Delle Bande Nere** is in Mumbai for a five-day port call from Sunday, October 18, to Thursday, October 22, as part of a long deployment to the Indo-Pacific.
 
 An Indian Navy representative is to greet the ship on arrival. The Italian Navy has lined up naval diplomacy and cooperation events during the stay, and on October 21 the ship will host a presentation on the Italian defence industry on board.
 
 ## A long voyage east
 
-The ship sailed from the southern Italian port of Taranto on May 3 and plans ten port calls on the deployment. The Italian Navy says the voyage is meant to showcase the "Italian System" in technology, industry and culture, and ties it to protecting sea lanes and freedom of navigation.
+The ship sailed from the southern Italian port of Taranto on May 3 and plans **ten port calls** on the deployment. The Italian Navy says the voyage is meant to showcase the "Italian System" in technology, industry and culture, and ties it to protecting sea lanes and freedom of navigation.
 
 ## An earlier exchange
 

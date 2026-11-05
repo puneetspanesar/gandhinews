@@ -67,9 +67,9 @@ The machinery built to respond, the Graded Response Action Plan, is designed to 
 
 ## Where the stubble numbers are going
 
-There is some good news. Between September 15 and October 12 farm fires fell by 53.3% in Haryana and by about a third in Uttar Pradesh. But the Centre's own review last week found that fires had risen in Madhya Pradesh and Rajasthan, states that have rarely been at the centre of the debate. By Monday Madhya Pradesh had recorded 370 incidents since mid-September, slightly more than Punjab's 368. Most of the paddy crop is still to be cut.
+There is some good news. Between September 15 and October 12 farm fires fell by **53.3%** in Haryana and by about a third in Uttar Pradesh. But the Centre's own review last week found that fires had risen in Madhya Pradesh and Rajasthan, states that have rarely been at the centre of the debate. By Monday Madhya Pradesh had recorded 370 incidents since mid-September, slightly more than Punjab's 368. Most of the paddy crop is still to be cut.
 
-The Centre has given states more than 3.54 lakh crop residue machines, 26,109 of them this year. Agriculture Minister Shivraj Singh Chouhan himself said the machines must work in the fields and not merely exist on paper, and the review noted that states were slow to spend what they had been given. Environment Minister Bhupender Yadav pointed to a quieter weakness: there are no satellite passes after 3 pm, so fires lit late in the afternoon can go uncounted unless people on the ground see them.
+The Centre has given states more than **3.54 lakh** crop residue machines, 26,109 of them this year. Agriculture Minister Shivraj Singh Chouhan himself said the machines must work in the fields and not merely exist on paper, and the review noted that states were slow to spend what they had been given. Environment Minister Bhupender Yadav pointed to a quieter weakness: there are no satellite passes after 3 pm, so fires lit late in the afternoon can go uncounted unless people on the ground see them.
 
 ## The fair objection
 

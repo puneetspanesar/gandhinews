@@ -62,6 +62,6 @@ He said there was suddenly "a scrambling around the government corridors" over h
 
 At the same forum, Pragya Misra, who leads public policy and strategy for OpenAI in India, said companies had moved past pilots. "The next phase... for AI is really going to be not experiments but actually driving outcomes," she said, describing results that firms can "put down in your shareholder report".
 
-She said the used-car platform Cars24 runs nearly a million conversation minutes a month through an OpenAI-powered agent that helps sellers list cars, and that about 12% of sellers it had lost are now coming back. An Indian healthcare company, she said, built its own customer management system after a three-week trial of OpenAI's Codex coding tool, instead of buying one that would have cost it "close to 80 lakhs of rupees".
+She said the used-car platform Cars24 runs **nearly a million conversation minutes a month** through an OpenAI-powered agent that helps sellers list cars, and that about 12% of sellers it had lost are now coming back. An Indian healthcare company, she said, built its own customer management system after a three-week trial of OpenAI's Codex coding tool, instead of buying one that would have cost it "close to 80 lakhs of rupees".
 
 Misra said OpenAI now offers data residency and local processing in India. "We want AI to be as much as we use electricity today, where intelligence should be available really to everyone," she said.

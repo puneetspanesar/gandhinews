@@ -62,7 +62,7 @@ This year a 28-year-old man from Alur, Potaraju, did not come down. More than 10
 
 ## A death that was expected
 
-Nobody who follows the Banni Utsav can call this a surprise. Last year two people died and 90 were injured, despite drones, 1,000 police and 32 awareness campaigns in 16 villages. In 2023 two people were killed when a tree branch, overloaded with spectators who had climbed it to escape a thrown torch, gave way beneath them. In 2022 a teenager from Karnataka died. Every year the injured number in the dozens, and every year the officials say the arrangements were adequate.
+Nobody who follows the Banni Utsav can call this a surprise. Last year two people died and 90 were injured, despite drones, 1,000 police and 32 awareness campaigns in **16 villages**. In 2023 two people were killed when a tree branch, overloaded with spectators who had climbed it to escape a thrown torch, gave way beneath them. In 2022 a teenager from Karnataka died. Every year the injured number in the dozens, and every year the officials say the arrangements were adequate.
 
 The authorities have also tried simply forbidding it. In 2020, with Covid at its height, the festival was cancelled and prohibitory orders imposed. "It has been cancelled," the district police chief said. Thousands came anyway, about 50 were injured, and because no medical camp had been set up, treating them was harder than usual.
 

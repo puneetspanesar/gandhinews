@@ -76,7 +76,7 @@ verification:
 
 ## What we found
 
-Nirmala Sitharaman's claim is mostly true. Under the framework NPCI announced on September 15, the new 0.4% merchant discount rate (MDR) on UPI payments above ₹2,000 is paid by merchants, person-to-person transfers stay free, and merchants may not pass the fee on to customers.
+Nirmala Sitharaman's claim is mostly true. Under the framework NPCI announced on September 15, the new **0.4%** merchant discount rate (MDR) on UPI payments above ₹2,000 is paid by merchants, person-to-person transfers stay free, and merchants may not pass the fee on to customers.
 
 Two caveats apply. The legal bar on charging users now covers only UPI payments up to ₹2,000, so above that line consumer protection rests on NPCI's rules. And a cost borne by large merchants could still reach shoppers through prices.
 

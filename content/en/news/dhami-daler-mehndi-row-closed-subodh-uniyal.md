@@ -37,9 +37,9 @@ verification:
 
 Uttarakhand Chief Minister Pushkar Singh Dhami on Thursday tried to put an end to the row over singer Daler Mehndi's performance at a fair in the hills, saying it was time for everyone to move on.
 
-The trouble began at the Siddhpeeth Maa Kunjapuri Tourism and Development Fair in Narendra Nagar, near New Tehri, where Cabinet Minister Subodh Uniyal interrupted Mehndi on stage. In a video that went viral, Uniyal is heard questioning whether Mehndi could perform, reminding him that he had been invited to entertain the audience and telling him to respect his reputation as a well-known artist.
+The trouble began at the Siddhpeeth Maa Kunjapuri Tourism and Development Fair in Narendra Nagar, near New Tehri, where Cabinet Minister **Subodh Uniyal** interrupted Mehndi on stage. In a video that went viral, Uniyal is heard questioning whether Mehndi could perform, reminding him that he had been invited to entertain the audience and telling him to respect his reputation as a well-known artist.
 
-Uniyal later said he believed Mehndi had been lip-syncing rather than singing live. He said the singer had been paid ₹35 lakh and that he was unhappy with how the show was run.
+Uniyal later said he believed Mehndi had been lip-syncing rather than singing live. He said the singer had been paid **₹35 lakh** and that he was unhappy with how the show was run.
 
 The episode drew sharp reactions from the music world. Several singers, including Mika Singh, Mehndi's brother, and Badshah, came out in his support.
 

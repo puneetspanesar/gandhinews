@@ -40,9 +40,9 @@ Nearly two in every three sanctioned posts at Karnataka's Bandipur Tiger Reserve
 
 A supervisory report prepared by Shivakumar C.M., Inspector General of Forests at the NTCA's regional office in Bengaluru, found that only 228 of the reserve's 630 sanctioned posts were filled. The 402 vacancies amount to 63.81%.
 
-The gaps are worst on the ground. Just 12 of 206 forest watcher posts are filled, leaving 94.17% vacant, and 56.59% of beat forester posts are empty. These are the staff who walk the forest beats, track animals and are usually the first to spot snares or intruders.
+The gaps are worst on the ground. Just 12 of 206 forest watcher posts are filled, leaving **94.17%** vacant, and 56.59% of beat forester posts are empty. These are the staff who walk the forest beats, track animals and are usually the first to spot snares or intruders.
 
-The reserve's Special Tiger Protection Force is working at about 16% of its sanctioned strength. Karnataka was among the first states cleared to raise such a force, in 2011, but the authority says persistent shortages have kept it from doing the job it was set up for. The state "should take immediate steps to fill the vacant STPF posts" to restore its capacity, the report says.
+The reserve's **Special Tiger Protection Force** is working at about 16% of its sanctioned strength. Karnataka was among the first states cleared to raise such a force, in 2011, but the authority says persistent shortages have kept it from doing the job it was set up for. The state "should take immediate steps to fill the vacant STPF posts" to restore its capacity, the report says.
 
 The NTCA also flagged tourist night-stay facilities located inside the reserve's core area and recommended that they be phased out and moved outside, in line with Supreme Court directions.
 

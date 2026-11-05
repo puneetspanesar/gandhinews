@@ -54,11 +54,11 @@ verification:
     - "Navratri timing per IANS. Published time set before PTI's 3:29 pm update; story was running from early morning."
 ---
 
-At least 14 people were killed and 28 injured when a speeding truck ran into devotees outside the Sheetla Mata temple in Gwalior in the early hours of Sunday, crashed through roadside shops and brought down part of the temple wall on those queuing at its gate.
+At least **14 people were killed** and 28 injured when a speeding truck ran into devotees outside the Sheetla Mata temple in Gwalior in the early hours of Sunday, crashed through roadside shops and brought down part of the temple wall on those queuing at its gate.
 
 The truck, loaded with paddy and carrying a Punjab registration, came down a slope on Chinor Road at about 1:30 am, went into an area closed to heavy vehicles and hit the temple's entrance gate. People were trapped under the debris of the wall. Two police personnel on duty were among the injured, and seven people were in a critical condition, according to the state government.
 
-Chief Minister Mohan Yadav removed Gwalior's City Superintendent of Police and suspended eight police personnel: three station house officers, a traffic inspector, a head constable and three constables.
+Chief Minister Mohan Yadav removed Gwalior's City Superintendent of Police and **suspended eight police personnel**: three station house officers, a traffic inspector, a head constable and three constables.
 
 "The accident occurred because the truck entered a prohibited area," Yadav said. "No negligence will be tolerated at any level in public safety."
 
@@ -78,7 +78,7 @@ Eleven of the 14 dead had been identified by Sunday afternoon.
 
 ## Aid and inquiry
 
-The Madhya Pradesh government will pay ₹4 lakh to the family of each person killed, ₹2 lakh to the seriously injured and ₹50,000 to those with minor injuries, and will meet the cost of treatment. Prime Minister Narendra Modi announced ₹2 lakh from the PM's National Relief Fund for the next of kin of each of the dead and ₹50,000 for each injured person.
+The Madhya Pradesh government will pay **₹4 lakh** to the family of each person killed, ₹2 lakh to the seriously injured and ₹50,000 to those with minor injuries, and will meet the cost of treatment. Prime Minister Narendra Modi announced ₹2 lakh from the PM's National Relief Fund for the next of kin of each of the dead and ₹50,000 for each injured person.
 
 "Distressed to learn about the loss of lives due to a mishap in Gwalior, Madhya Pradesh," the Prime Minister's Office said. Union Home Minister Amit Shah said the accident was "deeply tragic" and that "all possible medical assistance is being provided to the injured."
 

@@ -50,9 +50,9 @@ verification:
 
 Vice-President C P Radhakrishnan begins a two-day visit to Andhra Pradesh on Monday, with a university anniversary in Vijayawada and temple visits in the Tirupati region on his programme.
 
-In Vijayawada he is to be chief guest at the 40th anniversary celebrations of Dr NTR University of Health Sciences. The two-day trip runs on October 26 and 27 according to the Vice-President's Secretariat.
+In Vijayawada he is to be chief guest at the **40th anniversary** celebrations of Dr NTR University of Health Sciences. The two-day trip runs on October 26 and 27 according to the Vice-President's Secretariat.
 
-He will also offer prayers at the Sri Venkateswara Swamy Temple in Tirupati and at the Sri Padmavathi Ammavari Temple in Tiruchanur.
+He will also offer prayers at the **Sri Venkateswara Swamy Temple** in Tirupati and at the Sri Padmavathi Ammavari Temple in Tiruchanur.
 
 The trip was announced on Sunday by the Vice-President's Secretariat, which has not released a detailed timetable or said which engagement falls on which day. No other dignitaries have been named for the Vijayawada function.
 

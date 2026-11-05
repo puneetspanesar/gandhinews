@@ -39,9 +39,9 @@ Coastal states have until March 2027 to bring every port under a single set of p
 
 Ports, Shipping and Waterways Minister Sarbananda Sonowal chaired the council's 21st meeting, its first since the Indian Ports Act, 2025 turned it into a statutory advisory body in May. Gujarat Finance Minister Kanubhai Desai, Goa Ports Minister Digambar Kamat, Maharashtra Fisheries and Ports Minister Nitesh Rane and Puducherry's Malladi Krishna Rao attended, along with maritime boards, major port chairpersons, the Navy and the Coast Guard.
 
-The council agreed that the One Nation One Port Process reforms, which standardise documents and procedures, will be in place at all ports by March 2027, and that every port will join the Maritime Single Window, Sagar Setu, by the same date. Port tariffs will have to be published electronically.
+The council agreed that the **One Nation One Port Process** reforms, which standardise documents and procedures, will be in place at all ports by March 2027, and that every port will join the Maritime Single Window, Sagar Setu, by the same date. Port tariffs will have to be published electronically.
 
-States and their maritime boards were asked to prepare master plans for non-major ports on the template used by the major ports, and to notify subordinate rules under Section 77 of the Act within three months. The council also approved draft regulations and guidelines on port data and tariff transparency.
+States and their maritime boards were asked to prepare master plans for non-major ports on the template used by the major ports, and to notify subordinate rules under Section 77 of the Act **within three months**. The council also approved draft regulations and guidelines on port data and tariff transparency.
 
 Sonowal said the new law had given the council a legal footing and called the gathering a "Team India" meeting. He released a ready reckoner to help ports carry out the reforms and launched two credit insurance products for shipyards: one from ECGC for export orders and one from New India Assurance for domestic projects, with the government subsidising premiums. He said they would give shipbuilders real protection.
 

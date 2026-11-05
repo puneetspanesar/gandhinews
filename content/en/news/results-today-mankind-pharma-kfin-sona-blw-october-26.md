@@ -78,18 +78,18 @@ Mankind Pharma has brought its earnings call forward by an hour, to 5 pm, citing
 
 ## A late change from Tata Steel
 
-One large name has dropped out of the week. Tata Steel told the exchanges on Saturday that its board meeting to approve the quarter's results, set for Tuesday, October 27, has been postponed to Saturday, November 7, because of "unavoidable circumstances." Its trading window for insiders, shut since September 24, stays closed until 48 hours after the results are out.
+One large name has dropped out of the week. Tata Steel told the exchanges on Saturday that its board meeting to approve the quarter's results, set for Tuesday, October 27, has been postponed to Saturday, November 7, because of "unavoidable circumstances." Its trading window for insiders, shut since September 24, stays closed until **48 hours** after the results are out.
 
 That leaves Tuesday to Larsen & Toubro, Maruti Suzuki, Bajaj Auto, Cipla, ACC, Tata Capital, Indus Towers, Syngene International, Indoco Remedies, Transport Corporation of India and AWL Agri Business. L&T's order book is the number most investors will look for as a read on capital spending. Hindustan Unilever, Adani Ports and Hero MotoCorp follow on Wednesday, and Asian Paints and Trent on Thursday.
 
 ## Money markets and new listings
 
-The Reserve Bank of India is due to hold a four-day variable rate repo auction on Monday, one of the tools it uses to lend short-term cash to banks. Jio Platforms finalises the allotment of its ₹30,213 crore issue on Monday and is due to list on Wednesday. EAAA India Alternatives opens its ₹1,200 crore IPO on Monday.
+The Reserve Bank of India is due to hold a four-day variable rate repo auction on Monday, one of the tools it uses to lend short-term cash to banks. Jio Platforms finalises the allotment of its **₹30,213 crore** issue on Monday and is due to list on Wednesday. EAAA India Alternatives opens its ₹1,200 crore IPO on Monday.
 
 ## Five central banks in four days
 
-The global calendar is crowded. The Reserve Bank of New Zealand goes first, early on Wednesday India time, and is widely expected to raise its rate to 3%. The Bank of Canada follows on Wednesday evening.
+The global calendar is crowded. The Reserve Bank of New Zealand goes first, early on Wednesday India time, and is widely expected to raise its rate to **3%**. The Bank of Canada follows on Wednesday evening.
 
 The US Federal Reserve announces its decision at 11:30 pm IST on Wednesday. Markets expect it to hold, after September's rise, but price a December increase as likely. On Thursday the US publishes its first estimate of July to September growth, alongside September's PCE price index, at 6 pm IST. The European Central Bank decides on Thursday at 6:45 pm IST and the Bank of Japan on Friday, both expected to hold.
 
-The Reserve Bank of Australia meets the following Tuesday, with markets putting the chance of a rise at more than 60%. At home, the RBI publishes foreign exchange reserves for the week to October 23 on Friday.
+The Reserve Bank of Australia meets the following Tuesday, with markets putting the chance of a rise at more than **60%**. At home, the RBI publishes foreign exchange reserves for the week to October 23 on Friday.

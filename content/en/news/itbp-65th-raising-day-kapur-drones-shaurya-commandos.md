@@ -47,7 +47,7 @@ verification:
     - "Successor to Kapur not reported."
 ---
 
-The Indo-Tibetan Border Police, which guards the frontier with China, marks its 65th Raising Day on Saturday with its outgoing chief pressing for a force built around drones and commandos.
+The Indo-Tibetan Border Police, which guards the frontier with China, marks its **65th Raising Day** on Saturday with its outgoing chief pressing for a force built around drones and commandos.
 
 Director General Shatrujeet Singh Kapur, who retires on October 31, set out his plans to personnel at the force's base in Alwar, Rajasthan, on Thursday. The same speech made headlines for his remark that face-offs with Chinese troops were continuing at several places in Arunachal Pradesh.
 
@@ -57,6 +57,6 @@ Kapur acknowledged that China had invested heavily in the People's Liberation Ar
 
 Drone platoons have already been raised in all of the ITBP's border units, he said, and the force has started a new "Strike" course to prepare troops for close-quarter clashes of the kind seen at Galwan in 2020.
 
-He spoke of a push for drone and counter-drone technology, a full battalion of "Shaurya" commandos and a specialised high-altitude mountain fighting force, separate from the Army. Strike training is to reach the whole force by the end of 2027, and underground infrastructure along the front line is to be strengthened.
+He spoke of a push for drone and counter-drone technology, a full battalion of "Shaurya" commandos and a specialised high-altitude mountain fighting force, separate from the Army. Strike training is to reach the whole force by the **end of 2027**, and underground infrastructure along the front line is to be strengthened.
 
 "In the past few days, a situation arose where a face-off happened at several locations in Arunachal, and it continues," Kapur said, a remark the Ministry of External Affairs addressed on Friday, saying the border is disturbed from time to time when Chinese forces deviate from established patrol patterns.

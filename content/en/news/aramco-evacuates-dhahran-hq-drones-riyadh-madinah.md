@@ -57,7 +57,7 @@ Earlier this month a Houthi strike on the same Dhahran headquarters set several 
 
 ## Indians among the casualties
 
-The Dammam airport attack on Wednesday evening killed two people, a Saudi citizen and an Indian national, and wounded eight. Saudi authorities said the injured included two Indians, two Yemenis, two Bangladeshis, a Saudi and a Nepali. The General Authority of Civil Aviation said on Thursday that flights at Dammam had resumed and traffic was back to normal.
+The Dammam airport attack on Wednesday evening killed two people, a Saudi citizen and an **Indian national**, and wounded eight. Saudi authorities said the injured included two Indians, two Yemenis, two Bangladeshis, a Saudi and a Nepali. The General Authority of Civil Aviation said on Thursday that flights at Dammam had resumed and traffic was back to normal.
 
 Separately, the Energy Ministry said debris from an intercepted drone fell near an Aramco refinery at the Shaybah oilfield, killing two people, a Filipino and a Nepali, and wounding two others, including an Indian. The ministry said the incident happened outside the facility's boundaries and did not affect operations.
 
@@ -65,6 +65,6 @@ Saree also said the Houthis were rescuing a boat carrying 14 Indians that had be
 
 ## Markets on edge
 
-Saudi Arabia's benchmark TASI index fell 2.5% on Thursday. Brent crude rose more than $3 to $111.88 a barrel by mid-afternoon in London, after touching $112.55, its highest since May 18.
+Saudi Arabia's benchmark TASI index fell **2.5%** on Thursday. Brent crude rose more than $3 to $111.88 a barrel by mid-afternoon in London, after touching $112.55, its highest since May 18.
 
 The fighting between the Houthis and the Saudi-led coalition resumed in July and ended a truce brokered by the UN in 2022. On Wednesday the US State Department ordered some diplomats and their families to leave its missions in Saudi Arabia.

@@ -61,9 +61,9 @@ verification:
     - "Renshaw's post-match quote about batting position left out because his batting position in this match is unclear across sources."
 ---
 
-Josh Hazlewood took the second new ball at Kingsmead on Tuesday and finished the first Test before tea. South Africa lost their last four wickets for five runs and were all out for 206, chasing 421, and Australia won by 214 runs to lead the three-match series 1-0.
+Josh Hazlewood took the second new ball at Kingsmead on Tuesday and finished the first Test before tea. South Africa lost their last four wickets for five runs and were all out for 206, chasing 421, and Australia won by **214 runs** to lead the three-match series 1-0.
 
-Hazlewood finished with 6 for 49, the best figures of his Test career, and eight wickets in the match. Matt Renshaw, whose 190 and 82 shaped the game, was named player of the match.
+Hazlewood finished with **6 for 49**, the best figures of his Test career, and eight wickets in the match. Matt Renshaw, whose 190 and 82 shaped the game, was named player of the match.
 
 ## How the last day went
 

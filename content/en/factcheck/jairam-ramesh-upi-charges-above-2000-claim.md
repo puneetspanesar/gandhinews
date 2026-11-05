@@ -77,7 +77,7 @@ verification:
 
 ## What we found
 
-Jairam Ramesh's claim is mostly true. Parliament amended the Payment and Settlement Systems Act in August 2026 so that the Centre decides by notification which payments are shielded from charges. The September 14 notification shielded only UPI payments up to ₹2,000 and RuPay debit card payments. The next day NPCI set a 0.4% merchant discount rate (MDR) on merchant payments above ₹2,000 from October 15.
+Jairam Ramesh's claim is mostly true. Parliament amended the Payment and Settlement Systems Act in August 2026 so that the Centre decides by notification which payments are shielded from charges. The September 14 notification shielded only UPI payments up to ₹2,000 and RuPay debit card payments. The next day NPCI set a **0.4%** merchant discount rate (MDR) on merchant payments above ₹2,000 from October 15.
 
 The claim leaves out who pays. The fee falls on merchants, person-to-person transfers stay free at any value, and NPCI's FAQ bars merchants from passing the fee on to customers.
 
@@ -101,7 +101,7 @@ Sources: [PRS Legislative Research](https://prsindia.org/billtrack/the-taxation-
 
 ### 3. Only payments up to ₹2,000 kept protection
 
-The Finance Ministry's Department of Financial Services issued notification S.O. 5067(E) on September 14, 2026, naming RuPay debit cards and UPI payments up to ₹2,000. It quoted the notification: "No bank or system provider shall impose, whether directly or indirectly, any charge upon a person". The bar covers both payer and payee.
+The Finance Ministry's Department of Financial Services issued notification S.O. 5067(E) on September 14, 2026, naming RuPay debit cards and UPI payments up to **₹2,000**. It quoted the notification: "No bank or system provider shall impose, whether directly or indirectly, any charge upon a person". The bar covers both payer and payee.
 
 Sources: [LiveLaw, September 15, 2026](https://www.livelaw.in/top-stories/centre-prohibits-charges-on-upi-transactions-up-to-rs-2000-rupay-debit-card-550015); [News On AIR, September 15, 2026](https://newsonair.gov.in/upi-payments-of-up-to-2000-rupees-to-remain-free-of-bank-charges/)
 

@@ -41,9 +41,9 @@ verification:
     - "Settlement around midnight-1 am IST; published time 1:45 am IST."
 ---
 
-Oil prices stayed close to $110 a barrel on Monday, as fresh claims of attacks on Saudi Arabia's oil industry and shrinking traffic through the Strait of Hormuz outweighed a US move to let more Russian energy onto world markets.
+Oil prices stayed close to **$110** a barrel on Monday, as fresh claims of attacks on Saudi Arabia's oil industry and shrinking traffic through the Strait of Hormuz outweighed a US move to let more Russian energy onto world markets.
 
-Brent crude, the global benchmark, settled 31 cents lower at $109.55 a barrel, having fallen more than $3 earlier as traders took profits after last week's climb to a five-month high. US crude for November delivery rose $2.25, or 2.2%, to $103.66, its highest settlement since September 15, in thin trade before the contract expires. The more heavily traded December contract slipped 0.5% to $98.54.
+Brent crude, the global benchmark, settled 31 cents lower at **$109.55** a barrel, having fallen more than $3 earlier as traders took profits after last week's climb to a five-month high. US crude for November delivery rose $2.25, or 2.2%, to $103.66, its highest settlement since September 15, in thin trade before the contract expires. The more heavily traded December contract slipped 0.5% to $98.54.
 
 Yemen's Houthis said they had struck Saudi energy, airport and military targets, including an Aramco facility at the Red Sea port of Yanbu and the Shaybah oilfield. Saudi authorities did not confirm the claims. An oil tanker was also reported to have hit a naval mine in the southern part of the Strait of Hormuz. The analytics firm Kpler said crude flows through the region had fallen to about 8.5 million barrels a day, from more than 20 million the previous week.
 

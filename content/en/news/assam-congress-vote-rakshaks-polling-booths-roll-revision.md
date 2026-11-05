@@ -38,9 +38,9 @@ verification:
     - "Quotes reached through a fetch tool capped at 125 characters; some may be the opening part of longer sentences."
 ---
 
-The Congress in Assam will station a party worker it calls a "Vote Rakshak" at each of the state's 31,486 polling booths and 669 municipal wards to keep watch on the latest revision of the voter list, party leaders said in Guwahati on Saturday.
+The Congress in Assam will station a party worker it calls a "Vote Rakshak" at each of the state's **31,486 polling booths** and 669 municipal wards to keep watch on the latest revision of the voter list, party leaders said in Guwahati on Saturday.
 
-The move is part of a "Vote Bachao, Desh Bachao" campaign the party says will reach all 35 districts and 301 blocks. The AICC has deputed seven senior observers, and state Congress president Gaurav Gogoi has appointed 102 more.
+The move is part of a "Vote Bachao, Desh Bachao" campaign the party says will reach all **35 districts** and 301 blocks. The AICC has deputed seven senior observers, and state Congress president Gaurav Gogoi has appointed 102 more.
 
 Assam published a draft roll on February 5. About eight months later the Election Commission ordered a second Special Summary Revision, and the final list is now due in November 2026.
 
@@ -56,7 +56,7 @@ Kalita also turned on the state's Special Investigation Team, saying of a case i
 
 Bipul Gogoi, the Assam Pradesh Congress Committee's general secretary (administration), said the party had pressed for wider publicity, asking for at least 10 hoardings per constituency. According to the leaders, the Commission cited budget limits and has kept its outreach to press meets and social media.
 
-They pointed to two other changes in this round. Any one person can now file complaints or objections against no more than 10 people. And the revision is being run from the District Commissioner's office rather than by Circle Officers, as before.
+They pointed to two other changes in this round. Any one person can now file complaints or objections against no more than **10 people**. And the revision is being run from the District Commissioner's office rather than by Circle Officers, as before.
 
 "The Election Commission of India is a constitutional and independent body. There should be no outside interference," Bipul Gogoi said. Recalling a former CEC, he added: "Only a strong and impartial figure like TN Seshan can uphold the dignity of the Election Commission."
 

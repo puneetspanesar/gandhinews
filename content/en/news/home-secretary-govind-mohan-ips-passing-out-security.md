@@ -42,9 +42,9 @@ verification:
     - "Red Fort blast reference is Mohan's, as reported by Business Standard; date of the blast not given, so not stated."
 ---
 
-The forces that once shaped India's internal security have largely faded and been replaced by drugs, cybercrime and illegal immigration, Union Home Secretary Govind Mohan told newly trained police officers in Hyderabad on Saturday.
+The forces that once shaped India's internal security have largely faded and been replaced by drugs, **cybercrime and illegal immigration**, Union Home Secretary Govind Mohan told newly trained police officers in Hyderabad on Saturday.
 
-"The conventional internal security landscape has changed irrevocably," Mohan said at the Dikshant Parade of the 78th Regular Recruit batch of the Indian Police Service at the Sardar Vallabhbhai Patel National Police Academy. The parade marked the end of the first phase of training for 151 officer trainees, among them 37 women and 16 officers from neighbouring countries.
+"The conventional internal security landscape has changed irrevocably," Mohan said at the Dikshant Parade of the 78th Regular Recruit batch of the Indian Police Service at the Sardar Vallabhbhai Patel National Police Academy. The parade marked the end of the first phase of training for **151 officer trainees**, among them 37 women and 16 officers from neighbouring countries.
 
 Mohan said militant Naxalism had largely ended and insurgency in the North East had shrunk to minuscule levels. "What is happening in certain parts of the North East is not insurgency. It is largely ethnic conflict," he said. "Homegrown terrorism has also come to, more or less, an end," he added, though he cited the Red Fort blast in Delhi as a sign that the threat had not gone away.
 

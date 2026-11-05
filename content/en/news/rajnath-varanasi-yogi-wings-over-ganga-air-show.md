@@ -47,9 +47,9 @@ verification:
     - "Army Commanders' Conference quote from ANI (22:44 IST)."
 ---
 
-Defence Minister Rajnath Singh spent Saturday in Varanasi, offering prayers at three of the city's best-known temples and meeting Uttar Pradesh Chief Minister Yogi Adityanath, a day before Prime Minister Narendra Modi arrives for the Indian Air Force's display over the Ganga.
+Defence Minister Rajnath Singh spent Saturday in Varanasi, offering prayers at three of the city's best-known temples and meeting Uttar Pradesh Chief Minister **Yogi Adityanath**, a day before Prime Minister Narendra Modi arrives for the Indian Air Force's display over the Ganga.
 
-Singh visited the Kashi Vishwanath, Sankat Mochan and Kaal Bhairav temples before his meeting with Adityanath. Neither side said what the two discussed.
+Singh visited the **Kashi Vishwanath, Sankat Mochan and Kaal Bhairav** temples before his meeting with Adityanath. Neither side said what the two discussed.
 
 Adityanath was in the city too. He inspected Namo Ghat, the venue for Sunday's show, prayed at Kaal Bhairav and Kashi Vishwanath, and from the Varanasi Commissionerate chaired a video-conference on the Preliminary Eligibility Test (PET) being held on Sunday.
 

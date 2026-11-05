@@ -87,7 +87,7 @@ The bandh had little effect early in the day in parts of the Malwa region, and b
 
 ## First action against police
 
-Mansa Senior Superintendent of Police Vaibhav Chaudhary suspended Inspector Beant Kaur, the station house officer of City-2 police station. Deputy Superintendent of Police Harjinder Singh Gill has been recommended for departmental action, and Chaudhary said a decision on him would be taken at police headquarters.
+Mansa Senior Superintendent of Police Vaibhav Chaudhary suspended Inspector **Beant Kaur**, the station house officer of City-2 police station. Deputy Superintendent of Police Harjinder Singh Gill has been recommended for departmental action, and Chaudhary said a decision on him would be taken at police headquarters.
 
 Ashwani Kumar, the chemist accused of shooting Jhota during a livestreamed argument at his medical store, was arrested in Rajasthan late on Tuesday. His wife, Neelam Rani, has been taken into custody on the charge of helping him escape. Bathinda Range DIG Harjeet Singh said both would be produced in court soon. "We are ensuring that emergency services are not affected," he said.
 

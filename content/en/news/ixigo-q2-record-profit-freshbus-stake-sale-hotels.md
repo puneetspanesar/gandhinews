@@ -39,17 +39,17 @@ verification:
 
 Le Travenues Technology, which runs the travel booking platform Ixigo, reported its highest-ever quarterly profit on Saturday, lifted by a one-off gain from selling part of its stake in the bus operator Freshbus.
 
-Profit after tax for July-September was ₹63.42 crore. Revenue from operations rose 13% to ₹320.96 crore from ₹284.2 crore a year earlier.
+Profit after tax for July-September was **₹63.42 crore**. Revenue from operations rose 13% to ₹320.96 crore from ₹284.2 crore a year earlier.
 
-The underlying business grew faster than revenue. Gross transaction value, the total value of tickets and rooms booked through the platform, rose 22% to ₹5,304.47 crore. Flights grew 37% and buses 32%.
+The underlying business grew faster than revenue. Gross transaction value, the total value of tickets and rooms booked through the platform, rose **22%** to ₹5,304.47 crore. Flights grew 37% and buses 32%.
 
 "Our PAT was an all-time high aided by our partial sale of stake in Freshbus," the company's leadership said in a statement issued by group chief executive Aloke Bajpai, group co-CEO Rajnish Kumar and group chief financial officer Saurabh Devendra Singh.
 
 ## Hotels, the new bet
 
-For the first time Ixigo disclosed hotels as a separate business. Hotel bookings were worth ₹111 crore, 2.6 times the level of a year earlier, with revenue from the business up more than 500%. The company said it earned a gross take rate of more than 12% on those bookings.
+For the first time Ixigo disclosed hotels as a separate business. Hotel bookings were worth **₹111 crore**, 2.6 times the level of a year earlier, with revenue from the business up more than 500%. The company said it earned a gross take rate of more than 12% on those bookings.
 
-That expansion is costing money. Adjusted EBITDA, a measure of operating profit that adds back stock option costs and leaves out other income, fell 17% to ₹23.58 crore from ₹28.48 crore.
+That expansion is costing money. Adjusted EBITDA, a measure of operating profit that adds back stock option costs and leaves out other income, fell **17% to ₹23.58 crore** from ₹28.48 crore.
 
 "We continue to invest in Hotels and AI as key drivers of our long-term growth," the statement said.
 

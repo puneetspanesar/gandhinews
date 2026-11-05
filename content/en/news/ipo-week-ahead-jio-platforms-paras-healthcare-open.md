@@ -62,16 +62,16 @@ verification:
 
 Four companies take their last bids on Monday, October 19, in a crowded week for share sales that ends with Jio Platforms' offer, which could be India's biggest IPO.
 
-Zetwerk Manufacturing's ₹5,012 crore issue, priced at ₹143-151 a share, had been subscribed only 0.31 times by Friday's close. Bonfiglioli Transmissions' ₹2,534 crore offer, at ₹558-586, was just short of fully covered at 0.99 times, and Sahajanand Medical Technologies' ₹475 crore issue, at ₹327-344, about 0.8 times. Tonbo Imaging India, an ₹852 crore issue priced at ₹665-700, has drawn by far the strongest demand, at 7.78 times.
+Zetwerk Manufacturing's **₹5,012 crore** issue, priced at ₹143-151 a share, had been subscribed only 0.31 times by Friday's close. Bonfiglioli Transmissions' ₹2,534 crore offer, at ₹558-586, was just short of fully covered at 0.99 times, and Sahajanand Medical Technologies' ₹475 crore issue, at ₹327-344, about 0.8 times. Tonbo Imaging India, an ₹852 crore issue priced at ₹665-700, has drawn by far the strongest demand, at 7.78 times.
 
-Together the four are seeking about ₹8,870 crore. Shellz India's ₹60 crore offer on the BSE SME platform also closes on Monday.
+Together the four are seeking about **₹8,870 crore**. Shellz India's ₹60 crore offer on the BSE SME platform also closes on Monday.
 
 ## Jio and Paras on Wednesday
 
-Jio Platforms opens its initial public offering on Wednesday, October 21, and closes it on October 23. At ₹1,065-1,119 a share, the issue is worth about ₹30,200 crore at the top of the band. Investors will be watching whether it pulls money away from the rest of the market.
+Jio Platforms opens its initial public offering on Wednesday, October 21, and closes it on October 23. At **₹1,065-1,119 a share**, the issue is worth about ₹30,200 crore at the top of the band. Investors will be watching whether it pulls money away from the rest of the market.
 
-Paras Healthcare, the hospital chain, opens its ₹1,450 crore offer the same day, at ₹660-693 a share.
+Paras Healthcare, the hospital chain, opens its **₹1,450 crore** offer the same day, at ₹660-693 a share.
 
 ## Listings
 
-HD Fire Protect, whose ₹712 crore issue was bid about 131 times, is due to list on October 21. Fusion CX, the customer experience company whose ₹702 crore offer was subscribed more than four times, gets its allotment on Monday and lists on October 22. Zetwerk, Tonbo and Sahajanand Medical are scheduled to list on October 23.
+HD Fire Protect, whose ₹712 crore issue was bid **about 131 times**, is due to list on October 21. Fusion CX, the customer experience company whose ₹702 crore offer was subscribed more than four times, gets its allotment on Monday and lists on October 22. Zetwerk, Tonbo and Sahajanand Medical are scheduled to list on October 23.

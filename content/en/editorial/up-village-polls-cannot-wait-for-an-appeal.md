@@ -46,13 +46,13 @@ verification:
 
 On May 25 the five-year terms of Uttar Pradesh's gram pradhans ran out. No elections had been held to replace them. Instead, the state government made the outgoing pradhans administrators of their own villages, and in July did the same for block pramukhs and zila panchayat chairpersons. Nearly five months later, the people of rural Uttar Pradesh still have no say in who runs their village councils.
 
-On Wednesday the Allahabad High Court said enough. A bench of Justices Ajit Kumar and Garima Prasad ordered the state and the State Election Commission to complete the three-tier panchayat polls within three months, using the existing 27% reservation for Other Backward Classes. "Temporary administrative arrangements cannot become a permanent substitute for elected local government," the court said.
+On Wednesday the Allahabad High Court said enough. A bench of Justices Ajit Kumar and Garima Prasad ordered the state and the State Election Commission to complete the three-tier panchayat polls within three months, using the existing **27%** reservation for Other Backward Classes. "Temporary administrative arrangements cannot become a permanent substitute for elected local government," the court said.
 
 The government is now reported to be weighing an appeal to the Supreme Court. It should not.
 
 ## What the Constitution says
 
-Article 243E is plain. A panchayat lasts five years from its first meeting, and the election to constitute a new one must be completed before that period ends. The 73rd Amendment put this into the Constitution precisely because states had for decades let local bodies lapse whenever elections were inconvenient.
+Article 243E is plain. A panchayat lasts **five years** from its first meeting, and the election to constitute a new one must be completed before that period ends. The 73rd Amendment put this into the Constitution precisely because states had for decades let local bodies lapse whenever elections were inconvenient.
 
 The High Court was generous to the state. It upheld the administrator arrangement as a stopgap and refused to strike down the law that allows it. What it would not accept was an open-ended stopgap.
 

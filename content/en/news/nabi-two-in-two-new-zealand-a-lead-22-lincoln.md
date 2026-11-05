@@ -46,11 +46,11 @@ verification:
     - "Day two was under way or about to start at publication; no day-two score read. Bowling figures beyond wicket counts not available."
 ---
 
-Auqib Nabi gave India A something to hold on to at the end of a difficult first day of the opening unofficial Test against New Zealand A at the Bert Sutcliffe Oval in Lincoln, with two wickets in two balls just as the hosts threatened to run away with the match.
+Auqib Nabi gave India A something to hold on to at the end of a difficult first day of the opening unofficial Test against New Zealand A at the Bert Sutcliffe Oval in Lincoln, with **two wickets in two balls** just as the hosts threatened to run away with the match.
 
 New Zealand A closed on 135 for three, a lead of 22 over India A's 113, ahead of the second day on Sunday.
 
-For most of the day it was one-way traffic. Rhys Mariu, the New Zealand A captain, and Curtis Heaphy put on 132 for the first wicket. Mariu made 76 off 117 balls with 12 boundaries before Mukesh Choudhary had him caught in the 39th over.
+For most of the day it was one-way traffic. Rhys Mariu, the New Zealand A captain, and Curtis Heaphy put on 132 for the first wicket. Mariu made **76 off 117 balls** with 12 boundaries before Mukesh Choudhary had him caught in the 39th over.
 
 Nabi then removed Jayden Lennox and Tim Robinson with consecutive deliveries, and in the space of a few balls the hosts went from 132 without loss to 132 for three. Heaphy was unbeaten on 37 at stumps, with Matthew Boyle on 1.
 

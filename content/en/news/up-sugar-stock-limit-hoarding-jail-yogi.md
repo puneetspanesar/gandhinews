@@ -44,12 +44,12 @@ verification:
 
 Uttar Pradesh has put a ceiling on how much sugar traders can hold and warned that anyone caught hoarding will be sent to jail, as prices rise in the run-up to Diwali.
 
-Under the order, which applies from October 15 to November 30, a sugar dealer may hold no more than 1,000 quintals, a limit set by the central government. No dealer anywhere in the state may keep sugar for more than 15 days from the day it arrives, and those holding more than the limit must clear the excess within 15 days. Stockists of every kind, from large retail chains and processors to traders, wholesalers and retailers, must declare their holdings every Friday on the Centre's portal.
+Under the order, which applies from October 15 to November 30, a sugar dealer may hold **no more than 1,000 quintals**, a limit set by the central government. No dealer anywhere in the state may keep sugar for more than 15 days from the day it arrives, and those holding more than the limit must clear the excess within 15 days. Stockists of every kind, from large retail chains and processors to traders, wholesalers and retailers, must declare their holdings every Friday on the Centre's portal.
 
-The order was issued by Ravi Shankar Mishra, Additional Commissioner in the state Food Department. Divisional commissioners, district magistrates, the director of the Mandi Parishad and divisional food controllers have been told to enforce it. Hoarders can be booked and jailed under the Essential Commodities Act, 1955.
+The order was issued by Ravi Shankar Mishra, Additional Commissioner in the state Food Department. Divisional commissioners, district magistrates, the director of the Mandi Parishad and divisional food controllers have been told to enforce it. Hoarders can be booked and jailed under the **Essential Commodities Act, 1955**.
 
 In Bareilly, sugar has reached ₹60 a kilo.
 
 Chief Minister Yogi Adityanath tried to calm buyers. "There is adequate stock of sugar in the state," he said. "There is no shortage anywhere, so people of the state should not pay attention to any rumours." He said there would be enough sugar through the festivals.
 
-State warehouses hold 70.64 lakh quintals: 13.40 lakh quintals with cooperative mills, 2.93 lakh with state corporation mills and more than 54.3 lakh with private mills. Mills are expected to start running in the last week of October, and sugar from the 2026-27 season should reach shops in November.
+State warehouses hold **70.64 lakh quintals**: 13.40 lakh quintals with cooperative mills, 2.93 lakh with state corporation mills and more than 54.3 lakh with private mills. Mills are expected to start running in the last week of October, and sugar from the 2026-27 season should reach shops in November.

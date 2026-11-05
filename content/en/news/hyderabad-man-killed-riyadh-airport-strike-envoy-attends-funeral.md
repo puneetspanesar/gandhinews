@@ -58,7 +58,7 @@ verification:
     - "Ambassador is named 'Vipul' (single name) in ANI copy."
 ---
 
-India's Ambassador to Saudi Arabia, Vipul, attended the funeral of Mohammed Yusuf Ali, the Indian national killed in Saturday's missile attack on King Khalid International Airport in Riyadh, the Indian Embassy said on Monday.
+India's Ambassador to Saudi Arabia, Vipul, **attended the funeral of Mohammed Yusuf Ali**, the Indian national killed in Saturday's missile attack on King Khalid International Airport in Riyadh, the Indian Embassy said on Monday.
 
 "Ambassador conveyed his heartfelt condolences to the bereaved family and prayed for the eternal peace of the departed soul," the embassy said. Embassy officials attended with him.
 

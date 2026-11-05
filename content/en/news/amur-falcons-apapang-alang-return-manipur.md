@@ -35,14 +35,14 @@ verification:
   - Single source (News On AIR, Oct 23 1:18 pm) paraphrasing Union Environment Minister Bhupender Yadav's social media post; no direct quotes available. Arrival was 'yesterday' per his post, likely Oct 22; story says 'this week'.
 ---
 
-Two satellite-tagged Amur falcons, Apapang and Alang, have arrived back in Manipur after a migration that has taken them through 23 countries across Asia and Africa, Union Environment Minister Bhupender Yadav said this week.
+Two satellite-tagged Amur falcons, **Apapang and Alang**, have arrived back in Manipur after a migration that has taken them through 23 countries across Asia and Africa, Union Environment Minister Bhupender Yadav said this week.
 
-Scientists from the Wildlife Institute of India fitted the birds with satellite tags in November 2025 and have tracked them for nearly a year. The two falcons left their breeding grounds in north-eastern China 11 days before reaching Manipur, the minister said in a social media post. Their return closes a full year-long circuit recorded by the tags, from last November's tagging through 23 countries to this week's return to Manipur.
+Scientists from the Wildlife Institute of India fitted the birds with satellite tags in November 2025 and have tracked them for nearly a year. The two falcons left their breeding grounds in north-eastern China **11 days** before reaching Manipur, the minister said in a social media post. Their return closes a full year-long circuit recorded by the tags, from last November's tagging through 23 countries to this week's return to Manipur.
 
 They are expected to spend two to three weeks at stopover sites in the hills of Tamenglong district, feeding on termites and building up the fat reserves they will need for the hardest stretch of their journey.
 
 ## The long jump to Africa
 
-From Manipur, Apapang and Alang are expected to make a six-day non-stop flight of nearly 6,000 km to Somalia. Around 3,000 km of that route lies over the open Arabian Sea, where there is nowhere to land and feed.
+From Manipur, Apapang and Alang are expected to make a six-day non-stop flight of nearly **6,000 km to Somalia**. Around 3,000 km of that route lies over the open Arabian Sea, where there is nowhere to land and feed.
 
 Following individual birds such as Apapang and Alang for a full year shows researchers exactly where the falcons stop, how long they stay and which routes they take. Their tags will now show whether both make it across the Arabian Sea.

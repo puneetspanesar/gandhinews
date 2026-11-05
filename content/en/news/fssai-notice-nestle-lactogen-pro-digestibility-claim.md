@@ -61,7 +61,7 @@ verification:
 
 The Food Safety and Standards Authority of India (FSSAI) has asked Nestle India to back up its claim that the whey protein in its Lactogen Pro 1 infant formula is "easy to digest", one of a fresh round of notices the regulator sent on Wednesday to infant food makers and a social media influencer.
 
-The notice asks the company to submit scientific substantiation within the stipulated period and to explain why action should not be taken against it under the Food Safety and Standards Act, 2006. Food businesses, the regulator said, must support every claim on a label, a pack or an advertisement with adequate scientific evidence.
+The notice asks the company to submit scientific substantiation within the stipulated period and to explain why action should not be taken against it under the Food Safety and Standards Act, 2006. Food businesses, the regulator said, must support every claim on a label, a pack or an advertisement with adequate **scientific evidence**.
 
 Nestle India had not publicly responded to the notice by Wednesday night.
 
@@ -71,7 +71,7 @@ The Lactogen notice was one of several. In another, FSSAI took issue with a clai
 
 An individual influencer was also served notice over Instagram posts that credited recommended infant formula products with balanced nutrition, stronger immunity, brain development and easy digestion. "The promotion of infant milk substitutes was alleged to violate the Infant Milk Substitutes Act, 1992, as amended in 2003," the regulator said. That law bars the advertising and promotion of infant milk substitutes. The notices also cite the advertising and promotion rules in the Food Safety and Standards (Foods for Infant Nutrition) Regulations, 2020.
 
-FSSAI chief executive Rajit Punhani has said that more than 150 food and beverage makers have received notices in recent months. Products such as Complan and Nestle's Nan Excella Pro Stage 1 have drawn similar action.
+FSSAI chief executive Rajit Punhani has said that **more than 150 food and beverage makers** have received notices in recent months. Products such as Complan and Nestle's Nan Excella Pro Stage 1 have drawn similar action.
 
 ## Second time for the same claim
 

@@ -43,7 +43,7 @@ verification:
     - "State Election Commission notification not checked (no budget)."
 ---
 
-Voters in 16 districts of Rajasthan go to the polls on Thursday in the first phase of elections to zila parishads and panchayat samitis, the district and block tiers of the state's rural local government.
+Voters in **16 districts** of Rajasthan go to the polls on Thursday in the first phase of elections to zila parishads and panchayat samitis, the district and block tiers of the state's rural local government.
 
 Polling runs from 7 am to 6 pm across 2,392 wards. The districts voting in this phase are Ajmer, Alwar, Barmer, Bhilwara, Bikaner, Dungarpur, Jaipur, Jhalawar, Jodhpur, Phalodi, Kota, Nagaur, Pali, Rajsamand, Sirohi and Udaipur. Campaigning ended on Tuesday, and polling parties set out for their villages on Wednesday. Staff will stay on in the villages for five days and nights to run the gram panchayat polls that follow.
 

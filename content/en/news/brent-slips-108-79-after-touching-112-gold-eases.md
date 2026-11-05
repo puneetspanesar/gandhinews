@@ -48,10 +48,10 @@ verification:
 
 Oil prices climbed close to $112 a barrel on Tuesday before sliding back, as reports of fresh attacks on tankers in the Strait of Hormuz kept traders on edge but sellers took profits late in the session.
 
-Brent crude for December delivery settled 0.69% lower at $108.79 a barrel after reaching $111.99 during the day, its highest in five months. US crude for December ended 0.26% lower at $98.28. Earlier in the day Brent had pushed above $110 in European trading.
+Brent crude for December delivery settled **0.69% lower at $108.79** a barrel after reaching $111.99 during the day, its highest in five months. US crude for December ended 0.26% lower at $98.28. Earlier in the day Brent had pushed above $110 in European trading.
 
 Reports of Iranian attacks on tankers in Hormuz, through which much of the Gulf's oil normally passes, kept the risk of supply losses in focus even as prices eased. On Monday, the analytics firm Kpler had estimated that crude flows through the region had fallen to about 8.5 million barrels a day, from more than 20 million a week earlier.
 
-Gold for December delivery fell 0.42% to about $4,143 an ounce. The dollar index, which tracks the US currency against six others, slipped 0.26% to 101.71 as US Treasury yields fell after weak housing data. Bitcoin rose about 0.9% to around $82,800.
+Gold for December delivery fell **0.42% to about $4,143** an ounce. The dollar index, which tracks the US currency against six others, slipped 0.26% to 101.71 as US Treasury yields fell after weak housing data. Bitcoin rose about 0.9% to around $82,800.
 
 For India, which buys most of its crude abroad, Brent near $109 keeps up pressure on the import bill, inflation and the rupee. Domestic currency and commodity markets were shut for Dussehra on Tuesday, apart from the evening session on the MCX, so Wednesday will be the first full day for Indian traders to react.

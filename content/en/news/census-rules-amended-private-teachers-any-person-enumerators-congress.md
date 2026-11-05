@@ -48,7 +48,7 @@ verification:
     - "No government response to Ramesh found by publication. Whether the amendment is meant to answer the HC cases: not stated by the government; not claimed in copy."
 ---
 
-The Centre has widened the pool of people who can be drafted to count India's population, amending the Census Rules, 1990 so that states and Union territories can appoint teachers of private schools, clerks of banks and companies, and "any person" they consider suitable as enumerators for Census 2027.
+The Centre has widened the pool of people who can be drafted to count India's population, amending the Census Rules, 1990 so that states and Union territories can appoint **teachers of private schools**, clerks of banks and companies, and "any person" they consider suitable as enumerators for Census 2027.
 
 The notification, issued on Friday by Registrar General of India Mrityunjay Kumar Narayan, sets out three groups who can be made census officers to work as enumerators. The first is "teachers of any educational institution of the government, local authority, aided or unaided private bodies, societies or trusts". The second covers clerks or officials of the central and state governments, local authorities, public sector undertakings, statutory bodies, banks, companies, institutions, societies and trusts. The third is "any person, as the state government or the Union territory administration may consider suitable".
 
@@ -58,7 +58,7 @@ The change follows a run of High Court orders keeping private school teachers ou
 
 Earlier this month, Justice Harpreet Singh Brar of the Punjab and Haryana High Court stayed two Haryana government letters, dated September 1 and 7, that sought details of teachers for census duty, to the extent they applied to private unaided schools. The petitioners, the Haryana Progressive Schools Conference, argued that neither the Census Act, 1948 nor its rules allowed the state to requisition private unaided school teachers, and that Section 4A of the Act covers only the staff of local authorities. The case is next listed on April 29, 2027.
 
-In May, the Bombay High Court restrained Maharashtra from deploying teachers of private unaided and minority schools, granting interim relief to more than 500 schools. The court said the deployment disrupted academics and appeared to lack backing in the Census Act.
+In May, the Bombay High Court restrained Maharashtra from deploying **teachers of private** unaided and minority schools, granting interim relief to more than 500 schools. The court said the deployment disrupted academics and appeared to lack backing in the Census Act.
 
 ## Congress alleges 'mischief'
 

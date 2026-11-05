@@ -40,7 +40,7 @@ verification:
 
 India has accused Pakistan of hypocrisy at the United Nations, reminding a debate on funeral rights that Pakistan refused to take back the bodies of its own soldiers killed in the 1999 Kargil war.
 
-Bhavika Mangalanandan, First Secretary at India's Permanent Mission to the UN, spoke on Thursday at an interactive dialogue with Nazila Ghanea, the Special Rapporteur on freedom of religion or belief, on funeral rights in exceptional circumstances.
+**Bhavika Mangalanandan**, First Secretary at India's Permanent Mission to the UN, spoke on Thursday at an interactive dialogue with Nazila Ghanea, the Special Rapporteur on freedom of religion or belief, on funeral rights in exceptional circumstances.
 
 "It is deeply ironic that a State that did not even accept the bodies of its own soldiers" should raise the issue, she said. Pakistan had declined to acknowledge that its army personnel were fighting in Kargil, she said, and the Indian Army recovered and buried the dead Pakistani soldiers, including with Islamic rites.
 

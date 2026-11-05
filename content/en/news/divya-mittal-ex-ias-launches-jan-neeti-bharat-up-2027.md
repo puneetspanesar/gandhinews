@@ -39,13 +39,13 @@ verification:
 
 Divya Mittal, an IAS officer who left the service a month ago after a career spent largely in Uttar Pradesh's districts, has started her own political party and says it will fight the state's 2027 assembly election.
 
-Mittal announced Jan Neeti Bharat in an eight-and-a-half-minute video posted on social media. She has indicated that she may contest Mirzapur Sadar, a seat now held by the BJP, and the party is expected to begin in Mirzapur, Sant Kabir Nagar and Deoria, the districts where she served as district magistrate, before spreading across the state.
+Mittal announced Jan Neeti Bharat in an eight-and-a-half-minute video posted on social media. She has indicated that she may contest **Mirzapur Sadar**, a seat now held by the BJP, and the party is expected to begin in Mirzapur, Sant Kabir Nagar and Deoria, the districts where she served as district magistrate, before spreading across the state.
 
 "The problem is that people are not being heard," Mittal said. In her telling, Uttar Pradesh is short of representation, not of parties. "Politics rules over you, in Jan Neeti, you will be in charge," she said.
 
 ## From the collectorate
 
-Mittal belongs to the 2013 batch of the IAS and spent about 13 years in government. She studied at IIT Delhi and IIM Bengaluru and worked abroad before taking the civil services examination.
+Mittal belongs to the 2013 batch of the IAS and spent about **13 years** in government. She studied at IIT Delhi and IIM Bengaluru and worked abroad before taking the civil services examination.
 
 As district magistrate of Mirzapur she drew attention for a piped-water project in Lahuriyadah village, and she was moved out of the district not long after. She announced her resignation on August 30, citing personal and family reasons, and it took effect on September 15.
 

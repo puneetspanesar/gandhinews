@@ -51,7 +51,7 @@ The idea would replace one set of obligations for every broker with rules tied t
 
 Much of the speech was about making markets deeper. Sebi is working on a market-making framework "to lift secondary trading in corporate bonds", Pandey said, a long-standing gap in a market where most bonds are bought by institutions and held to maturity.
 
-He also set out the next step for Demat 2.0, the regulator's digital securities project. "In the next phase of Demat 2.0, tokenised corporate bonds will trade in the secondary market," he said, promising "better liquidity, lower settlement risk, and faster access to funds."
+He also set out the next step for **Demat 2.0**, the regulator's digital securities project. "In the next phase of Demat 2.0, tokenised corporate bonds will trade in the secondary market," he said, promising "better liquidity, lower settlement risk, and faster access to funds."
 
 The regulator is reviewing short selling and the securities lending and borrowing mechanism "to improve liquidity and price discovery", and reworking the rules for depository participants "for simpler compliance and stronger defences against fraud," he said.
 
@@ -65,4 +65,4 @@ Pandey summed up the regulator's agenda in four parts. "Our roadmap has four par
 
 ## Why it matters now
 
-The speech came at the end of a rough week for small investors. Smallcap and midcap shares slid nearly 4% on Friday as margin calls forced leveraged traders to sell, and earlier this month Sebi proposed fines and promoter account freezes to police the use of IPO money, along with a market value test for small-company listings. Graded compliance, if it goes ahead, would change how much the regulator asks of each of the firms that handle those investors' trades.
+The speech came at the end of a rough week for small investors. Smallcap and midcap shares slid nearly **4%** on Friday as margin calls forced leveraged traders to sell, and earlier this month Sebi proposed fines and promoter account freezes to police the use of IPO money, along with a market value test for small-company listings. Graded compliance, if it goes ahead, would change how much the regulator asks of each of the firms that handle those investors' trades.

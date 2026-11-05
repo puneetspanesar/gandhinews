@@ -39,9 +39,9 @@ verification:
 
 Castrol India's profit fell by almost a quarter in the July-September quarter even as its sales rose sharply, as higher costs squeezed margins at the lubricant maker.
 
-Profit after tax came to ₹176 crore, against ₹228 crore a year earlier and ₹348 crore in April-June, the company said on Saturday. Revenue from operations rose 27% to ₹1,735 crore from ₹1,363 crore. Earnings before interest, tax, depreciation and amortisation fell 19% from a year earlier to ₹262 crore, and profit before tax to ₹243 crore from ₹308 crore.
+Profit after tax came to ₹176 crore, against ₹228 crore a year earlier and ₹348 crore in April-June, the company said on Saturday. Revenue from operations rose **27% to ₹1,735 crore** from ₹1,363 crore. Earnings before interest, tax, depreciation and amortisation fell 19% from a year earlier to ₹262 crore, and profit before tax to ₹243 crore from ₹308 crore.
 
-Castrol India follows the calendar year, so the July-September period is its third quarter. Over the first nine months of 2026, revenue rose 20% to ₹5,151 crore, EBITDA 11% to ₹1,086 crore and profit after tax to ₹766 crore from ₹705 crore.
+Castrol India follows the calendar year, so the July-September period is its third quarter. Over the first nine months of 2026, revenue rose **20%** to ₹5,151 crore, EBITDA 11% to ₹1,086 crore and profit after tax to ₹766 crore from ₹705 crore.
 
 Managing director Saugata Basuray said "Castrol delivered a resilient performance", crediting price increases made early in the year with limiting the hit to margins. The company's industrial business recorded double-digit volume growth in the quarter.
 

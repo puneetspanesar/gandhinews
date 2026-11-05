@@ -65,6 +65,6 @@ Jammu and Kashmir Chief Minister Omar Abdullah condemned the attack and urged Ch
 
 His party, the National Conference, went further. Spokesperson Imran Nabi Dar called it a hate crime, said an elderly Kashmiri man was among those hurt and asked Haryana Police to identify and punish everyone involved.
 
-The highway through Haryana and Punjab is the main road link for private buses carrying Kashmiri traders, students and workers between Delhi and the Valley. A second incident within 24 hours on the same route is likely to sharpen the demand from Srinagar for protection for travellers, even as Haryana insists the first was a roadside quarrel.
+The highway through Haryana and Punjab is the main road link for private buses carrying Kashmiri traders, students and workers between Delhi and the Valley. A second incident within **24 hours** on the same route is likely to sharpen the demand from Srinagar for protection for travellers, even as Haryana insists the first was a roadside quarrel.
 
 Punjab Police have not yet said whether they have registered a case over the Ludhiana stoning.

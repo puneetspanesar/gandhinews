@@ -62,7 +62,7 @@ He replaces Mahela Jayawardene, whose departure the franchise confirmed on Octob
 
 ## One of their own
 
-Pollard, now 39, joined Mumbai as a player in 2010 and stayed for his entire IPL career. He played 189 matches for them, scoring 3,412 runs and taking 69 wickets, and was part of all five title wins, in 2013, 2015, 2017, 2019 and 2020. When he retired as a player in November 2022, he moved straight into the batting coach's role while continuing to play for MI Emirates in the UAE.
+Pollard, now 39, joined Mumbai as a player in 2010 and stayed for his entire IPL career. He played 189 matches for them, scoring **3,412 runs** and taking 69 wickets, and was part of all five title wins, in 2013, 2015, 2017, 2019 and 2020. When he retired as a player in November 2022, he moved straight into the batting coach's role while continuing to play for MI Emirates in the UAE.
 
 "It is an honour to take on the role of Head Coach of Mumbai Indians," Pollard said. "MI has been a huge part of my life and career." He said he was looking forward to "working closely with the players and support staff".
 

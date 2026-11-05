@@ -42,7 +42,7 @@ verification:
     - "Hero suggestion is a scheme name; photo team may need a generic PMJDY image."
 ---
 
-Banks began holding camps in 2.70 lakh gram panchayats and urban local bodies on Wednesday, as the Finance Ministry opened a drive to bring every eligible person into its main financial inclusion schemes.
+Banks began holding camps in **2.70 lakh gram panchayats and urban local** bodies on Wednesday, as the Finance Ministry opened a drive to bring every eligible person into its main financial inclusion schemes.
 
 The Saturation Campaign of Financial Inclusion Schemes, organised by the ministry's Department of Financial Services, runs until December 31. The ministry said it reflected the government's commitment to "empowering citizens at the last mile" and to bringing the unbanked into the formal financial system.
 
@@ -54,6 +54,6 @@ There will also be awareness sessions on unclaimed money in banks and other fina
 
 ## A push for farm credit
 
-The camps carry a farm component timed for the rabi sowing season. Banks are to collect Kisan Credit Card applications so that every eligible PM-Kisan beneficiary is covered, and to enrol farmers in the Pradhan Mantri Fasal Bima Yojana crop insurance scheme alongside.
+The camps carry a farm component timed for the rabi sowing season. Banks are to collect **Kisan Credit** Card applications so that every eligible PM-Kisan beneficiary is covered, and to enrol farmers in the Pradhan Mantri Fasal Bima Yojana crop insurance scheme alongside.
 
 The ministry has not given targets for enrolments or the number of camps to be held.

@@ -63,7 +63,7 @@ In Gqeberha, the second Test between South Africa and Australia reaches its fina
 
 ## Badminton: second round in Paris
 
-At the French Open, P V Sindhu plays Japan's Riko Gunji for a place in the quarter-finals, a day after she held off Supanida Katethong 23-21 in the decider. Ayush Shetty, who knocked out Kidambi Srikanth, takes on Japan's sixth seed Kodai Naraoka, who reached the second round when Lakshya Sen withdrew. Tanvi Sharma and Ashmita Chaliha are also in second-round action.
+At the French Open, P V Sindhu plays Japan's **Riko Gunji** for a place in the quarter-finals, a day after she held off Supanida Katethong 23-21 in the decider. Ayush Shetty, who knocked out Kidambi Srikanth, takes on Japan's sixth seed Kodai Naraoka, who reached the second round when Lakshya Sen withdrew. Tanvi Sharma and Ashmita Chaliha are also in second-round action.
 
 ## Para Games: day four in Nagoya
 

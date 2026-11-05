@@ -41,13 +41,13 @@ verification:
     - "Case: Bipin Satish Chandra Agrwal v State of Maharashtra & Ors; Justices A S Gadkari and Kamal Khata. Quote verbatim from Bar & Bench."
 ---
 
-The Bombay High Court has ordered the Maharashtra government to pay ₹5 lakh to a Mumbai businessman who was arrested illegally in an extortion case in 2017, and directed action against the police officer and scrutiny of the magistrate who kept him in custody.
+The Bombay High Court has ordered the Maharashtra government to pay **₹5 lakh** to a Mumbai businessman who was arrested illegally in an extortion case in 2017, and directed action against the police officer and scrutiny of the magistrate who kept him in custody.
 
 "Clearly this is a case of sheer abuse of process by the developer in collusion with the police," a bench of Justices A S Gadkari and Kamal Khata said in a judgment delivered on Thursday and made public on Friday.
 
-Bipin Satish Chandra Agrwal was acting as power of attorney holder for his elderly mother-in-law in talks with Seth and Sonal Developers over the redevelopment of her housing society. After the developers paid an advance of ₹2 lakh, Azad Maidan police arrested him and registered an extortion case under Section 384 of the Indian Penal Code.
+Bipin Satish Chandra Agrwal was acting as power of attorney holder for his elderly mother-in-law in talks with Seth and Sonal Developers over the redevelopment of her housing society. After the developers paid an advance of **₹2 lakh**, Azad Maidan police arrested him and registered an extortion case under Section 384 of the Indian Penal Code.
 
-The court found that the FIR was registered after the arrest, that dates on the arrest memo had been overwritten, and that a notice under Section 41A of the Code of Criminal Procedure was served only after he had been detained. Police records described him as a habitual offender likely to abscond, although he had a clean record, and the bench said the police had no material to portray him as a gangster or extortionist. The 64th Metropolitan Magistrate had sent him to police and judicial custody for a total of 26 days.
+The court found that the FIR was registered after the arrest, that dates on the arrest memo had been overwritten, and that a notice under Section 41A of the Code of Criminal Procedure was served only after he had been detained. Police records described him as a habitual offender likely to abscond, although he had a clean record, and the bench said the police had no material to portray him as a gangster or extortionist. The 64th Metropolitan Magistrate had sent him to police and judicial custody for a total of **26 days**.
 
 The bench repeated that police cannot arrest a person simply to question him and must record why custody is necessary.
 

@@ -48,7 +48,7 @@ verification:
     - "Tamil Nadu win already covered in our 3:55 pm story; mentioned only in passing."
 ---
 
-Bengal finished off Services at the Air Force ground in Palam on Tuesday afternoon, bowling them out for 148 to win their Ranji Trophy Group C match by 60 runs with a day to spare.
+Bengal finished off Services at the Air Force ground in Palam on Tuesday afternoon, bowling them out for 148 to win their Ranji Trophy Group C match by **60 runs** with a day to spare.
 
 Services, set 209, had reached 121 for 5 by the middle session but could not find a partner for Nitin Tanwar, who top-scored with 49. Pradipta Pramanik took 4 for 48 and Shahbaz Ahmed 3 for 44, giving the all-rounder seven wickets in the match on his return from injury. Bengal, who won without Mohammed Shami, took six points.
 
@@ -60,8 +60,8 @@ Ravikumar Samarth's 143 had earned Vidarbha a first-innings lead, and Bhute had 
 
 ## UP and Tamil Nadu complete wins
 
-Uttar Pradesh beat Goa by 68 runs in Kanpur. Chasing 236, Goa were all out for 167 despite Suyash Prabhudessai's 72, with Kartik Yadav taking 5 for 37 and Vaibhav Chaudhary 3 for 33. Rinku Singh, whose unbeaten 118 rescued UP on the first day, was player of the match.
+Uttar Pradesh beat Goa by **68 runs** in Kanpur. Chasing 236, Goa were all out for 167 despite Suyash Prabhudessai's 72, with Kartik Yadav taking 5 for 37 and Vaibhav Chaudhary 3 for 33. Rinku Singh, whose unbeaten 118 rescued UP on the first day, was player of the match.
 
-Tamil Nadu had earlier beaten Uttarakhand by an innings and 66 runs in Chennai, with R Sai Kishore finishing with 10 wickets in the match and Pradosh Ranjan Paul named player of the match for his 136.
+Tamil Nadu had earlier beaten Uttarakhand by an innings and **66 runs** in Chennai, with R Sai Kishore finishing with 10 wickets in the match and Pradosh Ranjan Paul named player of the match for his 136.
 
 The other matches in the round finish on Wednesday.

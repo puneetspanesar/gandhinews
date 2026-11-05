@@ -38,13 +38,13 @@ verification:
     - "Para chess, canoeing and rowing absent from 2026 programme per source (blind chess, para-rowing, para-canoeing dropped)."
 ---
 
-India's record haul at the Asian Para Games in Aichi-Nagoya came from a far smaller team than the one that set the old mark. The country sent 168 athletes, 112 men and 56 women, against about 300 in Hangzhou three years ago, and still finished with 114 medals: 30 gold, 35 silver and 49 bronze. In 2023 the count was 111, with 29 gold, 31 silver and 51 bronze. India finished fourth in the medal table.
+India's record haul at the Asian Para Games in Aichi-Nagoya came from a far smaller team than the one that set the old mark. The country sent 168 athletes, 112 men and 56 women, against about 300 in Hangzhou three years ago, and still finished with 114 medals: **30 gold, 35 silver and 49 bronze**. In 2023 the count was 111, with 29 gold, 31 silver and 51 bronze. India finished fourth in the medal table.
 
 The squad shrank mainly because several sports in which India had won medals in Hangzhou were dropped from the programme, among them blind chess, para rowing and para canoeing, and because quota rules were tighter. Chess alone had brought eight medals in 2023 and canoeing four.
 
 ## Where the medals came from
 
-Para athletics carried the team. Its 65 medals, 22 of them gold, were 10 more than in Hangzhou and accounted for more than half of India's total. Sumit Antil, Haney, Pranav Soorma and Sandeep were among the gold medallists, some with world or Games records.
+Para athletics carried the team. Its **65 medals**, 22 of them gold, were 10 more than in Hangzhou and accounted for more than half of India's total. Sumit Antil, Haney, Pranav Soorma and Sandeep were among the gold medallists, some with world or Games records.
 
 The biggest jumps came in the pool and at the table. Para swimming went from a single bronze in 2023 to 11 medals, three silver and eight bronze, and para table tennis from two bronze to seven.
 

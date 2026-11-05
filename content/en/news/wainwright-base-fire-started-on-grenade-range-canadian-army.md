@@ -39,13 +39,13 @@ verification:
 
 A fire that killed four soldiers at a Canadian army base in Alberta last weekend was started by an exercise with live grenades, the head of Canada's military police said on Thursday.
 
-Brigadier-General Vanessa Hanrahan, commander of the Canadian Forces Military Police Group, told reporters that the blaze broke out on a grenade launcher range at the Wainwright base during exercises on Saturday. High winds then carried it across the base and into a training area where other troops were working.
+Brigadier-General Vanessa Hanrahan, commander of the Canadian Forces Military Police Group, told reporters that the blaze broke out on a **grenade launcher range** at the Wainwright base during exercises on Saturday. High winds then carried it across the base and into a training area where other troops were working.
 
 A change in wind direction and speed "significantly increased the fire's intensity", she said.
 
 Firefighters could not attack the flames directly at first, because the fire was burning in the range's "permanent danger area", ground that may hold unexploded ordnance.
 
-About 84 soldiers from Charlie Company, 3rd Battalion, Princess Patricia's Canadian Light Infantry, were on the exercise, split between the grenade range and an area where they were rehearsing a simulated attack. The fire swept into the second group.
+About **84 soldiers** from Charlie Company, 3rd Battalion, Princess Patricia's Canadian Light Infantry, were on the exercise, split between the grenade range and an area where they were rehearsing a simulated attack. The fire swept into the second group.
 
 Four soldiers were killed and 39 injured, 27 of whom needed hospital treatment. The regular soldiers and reservists had been preparing for a planned deployment to Latvia, where Canada leads a NATO brigade on the alliance's eastern flank.
 

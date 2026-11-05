@@ -37,7 +37,7 @@ verification:
 
 The Union Law Ministry has asked the country's national law universities to help clear the mountain of pending criminal cases in the districts where courts are most overloaded.
 
-At a video conference on Wednesday, Law Minister Arjun Ram Meghwal met vice-chancellors of 19 national law universities (NLUs) from 16 states to launch what the ministry called a nationwide, research-based mission aimed at the 100 judicial districts with the highest pendency. More than 5.8 crore cases are pending in courts across India, most of them in district and subordinate courts, and these 100 districts account for more than half of the district court backlog.
+At a video conference on Wednesday, Law Minister Arjun Ram Meghwal met vice-chancellors of 19 national law universities (NLUs) from 16 states to launch what the ministry called a nationwide, research-based mission aimed at the 100 judicial districts with the highest pendency. More **than 5.8 crore** cases are pending in courts across India, most of them in district and subordinate courts, and these 100 districts account for more than half of the district court backlog.
 
 ## Students in the courts
 
@@ -47,4 +47,4 @@ The meeting discussed weeding out cases that no longer serve any purpose, mappin
 
 According to the ministry, all the vice-chancellors promised to take part. Meghwal tied the effort to the government's goal of a developed India by 2047 and said the country needs a justice system that is "accessible, efficient, affordable, fair, speedy and accountable".
 
-The ministry has not yet named the 100 districts or the universities involved, or set a timeline.
+The ministry has not yet named the **100 districts** or the universities involved, or set a timeline.

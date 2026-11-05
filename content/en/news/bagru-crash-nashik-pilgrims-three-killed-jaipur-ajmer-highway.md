@@ -55,7 +55,7 @@ Three people died on the spot. Between 18 and 25 others were injured. They were 
 
 Chandrabhan, the station house officer at Bagru police station, said the van had collided with the trailer truck. Police have not yet said what caused the crash and have opened an investigation.
 
-Injured passengers said the driver lost control while trying to overtake the truck. Some of them alleged that he had been drinking, a claim police have not confirmed. The driver has not been named.
+Injured passengers said the driver lost control while trying to overtake the truck. Some of them alleged that **he had been drinking**, a claim police have not confirmed. The driver has not been named.
 
 One of the injured, Pravin, said the group had not wanted to travel through the night. "We had asked the driver not to travel at night, but he did not listen," he said.
 

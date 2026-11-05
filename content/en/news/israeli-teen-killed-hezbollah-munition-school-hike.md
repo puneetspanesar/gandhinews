@@ -52,7 +52,7 @@ verification:
     - "Ceasefire detail (late June, US-brokered) from CNN only."
 ---
 
-A 14-year-old boy was killed and 24 people were wounded on Monday when an unexploded munition, thought to be a Hezbollah cluster bomblet left over from the war, blew up during a school hike near Israel's border with Lebanon.
+A **14-year-old boy was killed** and 24 people were wounded on Monday when an unexploded munition, thought to be a Hezbollah cluster bomblet left over from the war, blew up during a school hike near Israel's border with Lebanon.
 
 The students and teachers, from ORT Ma'alot school, were walking a scenic route through the Naftali Mountains forest on the Ramim Ridge in the Upper Galilee when the blast went off at about 3:30 pm. A preliminary police and army inquiry found that a student had picked up the device and put it in his backpack, where it exploded a few minutes later.
 
@@ -68,7 +68,7 @@ The Israeli military said the device "was likely a cluster bomb belonging to the
 
 ## Questions over the route
 
-The trip had been approved, and Education Minister Yoav Kisch said a preliminary review showed the route had been vetted and that briefings had warned about unexploded ordnance. A forestry sign in the area, however, warned hikers away because of "war damage". Kisch ordered a halt to school trips along the northern border and a 48-hour suspension of activity in the zone while it is checked.
+The trip had been approved, and Education Minister Yoav Kisch said a preliminary review showed the route had been vetted and that briefings had warned about unexploded ordnance. A forestry sign in the area, however, warned hikers away because of "war damage". Kisch ordered a **halt to school trips along the northern** border and a 48-hour suspension of activity in the zone while it is checked.
 
 Police Commissioner Danny Levy called it a "very serious incident, in which children who went on a field trip were hurt, to our sorrow", and said he would limit hikes in the area for several days. Army chief Eyal Zamir ordered Northern Command to investigate.
 

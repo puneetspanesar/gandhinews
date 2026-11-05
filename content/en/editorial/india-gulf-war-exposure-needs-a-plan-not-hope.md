@@ -48,17 +48,17 @@ The same day, two merchant ships lay on the seabed near the Strait of Hormuz, Ir
 
 ## Where India is exposed
 
-The first channel is energy. Gulf oil exports recovered to near pre-war levels in September, but only 60% of them now pass through Hormuz, against 83% before the war. Freight and insurance, which used to be under 5% of a crude cargo's value, now make up 20% to 25%. India has gone back to its traditional Gulf suppliers anyway, raising imports from West Asia by 67% in September, because their heavier crudes suit its refineries. That makes sense for refiners, and it also concentrates risk on one route.
+The first channel is energy. Gulf oil exports recovered to near pre-war levels in September, but only **60%** of them now pass through Hormuz, against 83% before the war. Freight and insurance, which used to be under 5% of a crude cargo's value, now make up 20% to 25%. India has gone back to its traditional Gulf suppliers anyway, raising imports from West Asia by 67% in September, because their heavier crudes suit its refineries. That makes sense for refiners, and it also concentrates risk on one route.
 
 The second is food. Before the war roughly a third of the world's urea moved through the strait. A UN official warned this week that parts of Asia and Africa could face a food crisis if fertiliser does not move before the planting season. South Asian farmers already face soaring costs and short supply.
 
-The third is people. In 2023-24 the Gulf countries sent 38% of India's $118.7 billion in remittances. Behind that number are millions of workers and the families they support at home. An IMF forecast of a 3.3% contraction in Saudi Arabia is, for them, a forecast about jobs.
+The third is people. In 2023-24 the Gulf countries sent **38%** of India's $118.7 billion in remittances. Behind that number are millions of workers and the families they support at home. An IMF forecast of a 3.3% contraction in Saudi Arabia is, for them, a forecast about jobs.
 
 The fourth is the sailors, whose risk we have written about before.
 
 ## The case for calm
 
-There is a reasonable view that India is coping. Exports rose 23% in September, the trade deficit narrowed, and the RBI has acted on both the currency and inflation. Brent at around $104 is painful but not unprecedented. A government that panics can do more damage than a war at a distance.
+There is a reasonable view that India is coping. Exports rose **23%** in September, the trade deficit narrowed, and the RBI has acted on both the currency and inflation. Brent at around $104 is painful but not unprecedented. A government that panics can do more damage than a war at a distance.
 
 We agree that calm is a virtue. But coping month to month is different from preparing for a war that could last into next year, and both the IMF and the shipping market are now pricing in a longer disruption.
 

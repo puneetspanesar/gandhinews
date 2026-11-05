@@ -50,7 +50,7 @@ Kabaddi's first Commonwealth Championship got under way in Ahmedabad on Friday, 
 
 Thirteen nations are taking part in the inaugural edition at the Veer Savarkar Sports Complex, with 23 squads playing 62 matches over nine days under the slogan "One Breath. One Raid. One Commonwealth." Pakistan were among the nations first announced but withdrew because of tensions between the two countries.
 
-India's women go first, against Malaysia at 6:45 pm. They are led by Nidhi Sharma with Ritu as vice-captain. The men's side is captained by Surjeet Singh, with Naveen Kumar as his deputy, and includes Sachin Tanwar, Pankaj Mohite, Neeraj Narwal and Bharat Hooda.
+India's women go first, against Malaysia at 6:45 pm. They are led by Nidhi Sharma with Ritu as vice-captain. The men's side is captained by **Surjeet Singh**, with Naveen Kumar as his deputy, and includes Sachin Tanwar, Pankaj Mohite, Neeraj Narwal and Bharat Hooda.
 
 The men are in a seven-team Group A with Nigeria, Malaysia, Uganda, England, Tanzania and Sri Lanka, while Bangladesh, Kenya, Canada, Australia, Scotland and Singapore make up Group B. The women's Group A has India, Singapore, Nigeria, Uganda and Malaysia. Teams play everyone in their group once, and the top two in each group reach the semi-finals, where group winners meet the other group's runners-up.
 

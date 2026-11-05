@@ -72,9 +72,9 @@ verification:
 
 North Korea fired several ballistic missiles towards the sea off its east coast on Monday morning, its second launch in nine days and its first since South Korea showed off a hypersonic weapon of its own last week.
 
-South Korea's Joint Chiefs of Staff (JCS) said the missiles were launched from the Pyongyang area at about 9:20 am local time and that one of them flew more than 900 km. JCS spokesperson Jang Do-young said missiles of "various types" were fired, and that the launch was probably meant to advance the North's missile technology and possibly to respond to the South's test.
+South Korea's Joint Chiefs of Staff (JCS) said the missiles were launched from the Pyongyang area at about 9:20 am local time and that one of them flew more than **900 km**. JCS spokesperson Jang Do-young said missiles of "various types" were fired, and that the launch was probably meant to advance the North's missile technology and possibly to respond to the South's test.
 
-Japan's defence ministry said it detected at least two missiles, fired 17 minutes apart. The first flew about 220 km at a peak altitude of about 20 km. The second travelled more than 910 km, peaking at about 70 km. Both fell outside Japan's exclusive economic zone, and Japan reported no damage.
+Japan's defence ministry said it detected at least two missiles, fired 17 minutes apart. The first flew about **220 km** at a peak altitude of about 20 km. The second travelled more than 910 km, peaking at about 70 km. Both fell outside Japan's exclusive economic zone, and Japan reported no damage.
 
 ## A possible hypersonic weapon
 
@@ -86,7 +86,7 @@ In Seoul, the presidential National Security Office called an emergency meeting 
 
 ## Rival tests
 
-The launch follows a busy fortnight. On October 3 North Korea fired a missile from the Wonsan area that flew more than 700 km. Its state media described it as a hypersonic intermediate-range missile and said leader Kim Jong Un attended the test.
+The launch follows a busy fortnight. On October 3 North Korea fired a missile from the Wonsan area that flew more than **700 km**. Its state media described it as a hypersonic intermediate-range missile and said leader Kim Jong Un attended the test.
 
 On Thursday South Korea announced its first test launch of a domestically developed hypersonic glide vehicle, fired from an offshore barge at the Agency for Defense Development's Anheung test site. President Lee Jae Myung watched the test. His office said the weapon would help the South strike key targets by surprise once it is fully developed.
 

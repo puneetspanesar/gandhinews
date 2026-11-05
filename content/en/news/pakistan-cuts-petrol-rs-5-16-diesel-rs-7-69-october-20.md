@@ -44,8 +44,8 @@ The Petroleum Division's notification, issued on Monday, sets petrol at Rs 381.1
 
 Islamabad switched from weekly to daily fuel price reviews on July 17, citing renewed tension between the United States and Iran and volatile global markets. Pakistan imports most of its petroleum, so swings in crude prices feed quickly into what motorists pay.
 
-Relief at the pump is still limited. Brent crude rose 0.15% to $110.03 a barrel on Monday after falling more than $3 earlier in the session, and it touched a five-month high last week. Houthi attacks on Saudi energy and airport facilities and a tanker explosion in the Strait of Hormuz are keeping prices high. "Flows remaining below pre-conflict levels continue to support prices," said Giovanni Staunovo, an analyst at UBS.
+Relief at the pump is still limited. Brent crude rose **0.15%** to $110.03 a barrel on Monday after falling more than $3 earlier in the session, and it touched a five-month high last week. Houthi attacks on Saudi energy and airport facilities and a tanker explosion in the Strait of Hormuz are keeping prices high. "Flows remaining below pre-conflict levels continue to support prices," said Giovanni Staunovo, an analyst at UBS.
 
-The government is also running a targeted subsidy announced by Prime Minister Shehbaz Sharif on September 13, which takes Rs 100 a litre off petrol for motorcycles, three-wheelers and cars with engines up to 800cc. About 1.18 crore people are expected to benefit, with monthly caps of Rs 2,000 for two- and three-wheelers and Rs 3,000 for small cars.
+The government is also running a targeted subsidy announced by Prime Minister Shehbaz Sharif on September 13, which takes Rs 100 a litre off petrol for motorcycles, three-wheelers and cars with engines up to 800cc. About **1.18 crore people** are expected to benefit, with monthly caps of Rs 2,000 for two- and three-wheelers and Rs 3,000 for small cars.
 
 Austerity rules introduced on September 17 also remain in force: shops, markets and malls must close by 9 pm and wedding halls by 10 pm, while restaurants may stay open until 11 pm.

@@ -60,7 +60,7 @@ Ukraine told Europe's main security body on Thursday that it would stop striking
 
 "We are ready to stop strikes on Russian oil refineries provided that Russia stops attacking" Ukraine's energy system, Yurii Vitrenko, Ukraine's permanent representative to the international organisations in Vienna, told the OSCE Permanent Council.
 
-Vitrenko said Russia had carried out more than 200 strikes on electricity generation and transmission facilities in the past week, along with 17 attacks on gas and oil infrastructure. He said a missile attack on Kyiv, the Kyiv region and the Kharkiv region on October 14 damaged 30 energy facilities and left about 600,000 people without power.
+Vitrenko said Russia had carried out **more than 200 strikes** on electricity generation and transmission facilities in the past week, along with 17 attacks on gas and oil infrastructure. He said a missile attack on Kyiv, the Kyiv region and the Kharkiv region on October 14 damaged 30 energy facilities and left about 600,000 people without power.
 
 Russia kept up those attacks, he said, after President Donald Trump announced his "energy truce" initiative on October 11. Without reciprocal steps from Moscow, "there can be no meaningful progress toward a ceasefire," Vitrenko said. "The only obstacle remains Russia's refusal to halt its attacks and engage meaningfully in de-escalation."
 
@@ -70,7 +70,7 @@ The attacks went on as he spoke. Ukraine's air force said Russia launched 138 at
 
 By the evening President Volodymyr Zelenskyy, in Brussels for the EU summit, put the day's toll at 52 injured across the country. "The Russians are using Shaheds almost constantly," he said, listing a shop, a pharmaceutical plant and logistics sites among the targets.
 
-Later strikes hit energy sites in two regions. Zelenskyy said almost 15,000 people in Volyn lost electricity and parts of Kyiv were partly without power, and that repair crews in some areas could not start work because of the threat of repeat strikes on the same spot.
+Later strikes hit energy sites in two regions. Zelenskyy said almost **15,000 people** in Volyn lost electricity and parts of Kyiv were partly without power, and that repair crews in some areas could not start work because of the threat of repeat strikes on the same spot.
 
 ## Europe backs the oil pressure
 

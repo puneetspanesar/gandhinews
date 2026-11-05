@@ -52,9 +52,9 @@ verification:
     - "Alaska DOJ suit from The Hill live blog, Friday; written briefly."
 ---
 
-President Donald Trump and the first lady, Melania Trump, will vote early and in person in Palm Beach County, Florida, on Saturday, a White House official said, as early voting opens in Florida and Michigan with ten days to go before the midterms.
+President Donald Trump and the first lady, Melania Trump, will **vote early** and in person in Palm Beach County, Florida, on Saturday, a White House official said, as early voting opens in Florida and Michigan with ten days to go before the midterms.
 
-Saturday is the first day that early voting is mandatory in all 67 Florida counties, running until Halloween. Trump is registered in Palm Beach, home to his Mar-a-Lago estate, and has long said he prefers to vote on election day while criticising widespread postal voting. He has voted by mail in recent elections. Asked what he would do on November 3 itself, he did not say.
+Saturday is the first day that early voting is mandatory in **all 67 Florida counties**, running until Halloween. Trump is registered in Palm Beach, home to his Mar-a-Lago estate, and has long said he prefers to vote on election day while criticising widespread postal voting. He has voted by mail in recent elections. Asked what he would do on November 3 itself, he did not say.
 
 On Friday he rallied in Fort Myers for Representative Byron Donalds, the Republican nominee for governor, and Senator Ashley Moody, who is seeking a full term. "In 11 days from now, the people of Florida are going to elect Byron Donalds," Trump told the crowd, urging a big turnout.
 

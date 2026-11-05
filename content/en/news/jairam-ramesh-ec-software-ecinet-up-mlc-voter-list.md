@@ -49,7 +49,7 @@ Ramesh was responding to an election officer's explanation that a software fault
 
 ## Pilibhit and the SIR
 
-Ramesh said details of 10,470 voters in Pilibhit had been changed through Form 8, the form used to correct or shift entries, without records to support the changes. He said most of the affected voters belong to one community.
+Ramesh said details of **10,470 voters in Pilibhit** had been changed through Form 8, the form used to correct or shift entries, without records to support the changes. He said most of the affected voters belong to one community.
 
 He also listed problems since the special intensive revision (SIR) of the rolls: names missing, and wrong details turning up when voters search by their EPIC number. The Commission has still not given Congress and Rahul Gandhi the machine-readable voter data they asked for, he said.
 

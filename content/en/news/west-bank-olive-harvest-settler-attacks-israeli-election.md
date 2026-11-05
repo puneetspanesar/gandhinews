@@ -38,7 +38,7 @@ verification:
 
 Palestinian farmers began the olive harvest in the occupied West Bank on Thursday braced for violence, after a season of settler raids that they fear will get worse in the run-up to Israel's general election on October 27.
 
-The Palestinian Authority's agriculture ministry has recorded 300 settler-related incidents involving olive groves this autumn, before picking had officially started. The Israeli rights group Yesh Din has counted 100 thefts and found that a quarter of incidents took place with the Israeli military present. Olives account for an estimated 15% of the West Bank's agricultural output.
+The Palestinian Authority's agriculture ministry has recorded **300 settler-related incidents** involving olive groves this autumn, before picking had officially started. The Israeli rights group Yesh Din has counted 100 thefts and found that a quarter of incidents took place with the Israeli military present. Olives account for an estimated 15% of the West Bank's agricultural output.
 
 ## A death under the trees
 

@@ -47,7 +47,7 @@ verification:
 
 SpaceX is due to launch its fifth Bandwagon rideshare mission from Florida on Monday, the first of four launches planned around the world over the next few days, including Japan's attempt to bring back soil from a moon of Mars.
 
-A Falcon 9 rocket is scheduled to lift off from Space Launch Complex 40 at Cape Canaveral Space Force Station in a one-hour window opening at 6:30 am local time (4 pm IST). The flight lists 31 payloads bound for low Earth orbit, though launch schedules do not list them individually. If Monday's attempt slips, SpaceX has a backup opportunity on Tuesday.
+A Falcon 9 rocket is scheduled to lift off from Space Launch Complex 40 at Cape Canaveral Space Force Station in a one-hour window opening at 6:30 am local time (4 pm IST). The flight lists **31 payloads** bound for low Earth orbit, though launch schedules do not list them individually. If Monday's attempt slips, SpaceX has a backup opportunity on Tuesday.
 
 The first stage, booster B1085, will fly a south-easterly trajectory. It will be SpaceX's 115th Falcon 9 mission of 2026.
 

@@ -53,19 +53,19 @@ verification:
     - "Nav-Trinjan / Kheti Virasat Mission and Heval river: ANI."
 ---
 
-Prime Minister Narendra Modi used the 139th edition of his monthly radio address on Sunday to call Mann Ki Baat "no less than a pilgrimage", a programme that he said lets him understand people's efforts and honour them. It began on Vijayadashami 12 years ago, he recalled, and "since then, our journey has continued uninterrupted."
+Prime Minister Narendra Modi used the 139th edition of his monthly radio address on Sunday to call Mann Ki Baat "no less than a pilgrimage", a programme that he said lets him understand people's efforts and honour them. It began on Vijayadashami **12 years** ago, he recalled, and "since then, our journey has continued uninterrupted."
 
 The broadcast ran through the usual mix of health, science, farming and local enterprise, and ended with a call to mark Sardar Vallabhbhai Patel's birth anniversary on October 31.
 
 ## Health and science
 
-Modi said the government's e-Sanjeevani telemedicine service had reached people across the country. "It gives me great satisfaction to see that, through this, about 50 crore tele-consultations have been conducted so far," he said. He added that about 1.9 lakh Ayushman Arogya Mandirs now provide primary care at the panchayat level and are turning into local wellness centres.
+Modi said the government's e-Sanjeevani telemedicine service had reached people across the country. "It gives me great satisfaction to see that, through this, about 50 crore tele-consultations have been conducted so far," he said. He added that about **1.9 lakh** Ayushman Arogya Mandirs now provide primary care at the panchayat level and are turning into local wellness centres.
 
 He spoke at length about the Sudha Gopalakrishnan Brain Centre at IIT Madras, which is building a brain imaging platform that produces high-resolution 3D images with the help of the Param Shakti supercomputer. "Their aim is to do 3D mapping of 100 human brains and study them in detail in the coming days," he said, crediting industry, government and the institute's alumni.
 
 ## A river and a field
 
-In Uttarakhand's Tehri Garhwal district, Modi said, the Heval river had been shrinking and springs nearby were drying up. The district administration and villagers responded with rainwater harvesting, groundwater recharge and tree planting on a large scale. The river has been revived, he said, and dozens of natural water sources restored.
+In Uttarakhand's Tehri Garhwal district, Modi said, the **Heval river** had been shrinking and springs nearby were drying up. The district administration and villagers responded with rainwater harvesting, groundwater recharge and tree planting on a large scale. The river has been revived, he said, and dozens of natural water sources restored.
 
 He praised the Nav-Trinjan initiative of the Kheti Virasat Mission in Punjab's Malwa region, which grows organic and naturally coloured cotton without chemicals and runs a weaving school that the Prime Minister said had changed the lives of many women.
 

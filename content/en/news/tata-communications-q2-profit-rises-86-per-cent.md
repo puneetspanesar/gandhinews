@@ -46,19 +46,19 @@ verification:
     - "'Highest EBITDA' is the company's claim as reported by Business Today."
 ---
 
-Shares of Tata Communications jumped more than 10% on Thursday after the Tata group's telecom and digital services company reported an 86% rise in quarterly profit and its highest ever operating profit.
+Shares of Tata Communications jumped **more than 10%** on Thursday after the Tata group's telecom and digital services company reported an 86% rise in quarterly profit and its highest ever operating profit.
 
-Consolidated net profit for the July to September quarter came to ₹341 crore, up from ₹183 crore a year earlier. Revenue from operations rose 9.6% to ₹6,688 crore from ₹6,100 crore.
+Consolidated net profit for the July to September quarter came to **₹341 crore**, up from ₹183 crore a year earlier. Revenue from operations rose 9.6% to ₹6,688 crore from ₹6,100 crore.
 
-EBITDA, or earnings before interest, tax, depreciation and amortisation, rose 21% to ₹1,422 crore, which the company said was its highest ever. The EBITDA margin improved to 21.3% from 19.2%, and the net profit margin rose to 5.1% from 3%.
+EBITDA, or earnings before interest, tax, depreciation and amortisation, rose **21%** to ₹1,422 crore, which the company said was its highest ever. The EBITDA margin improved to 21.3% from 19.2%, and the net profit margin rose to 5.1% from 3%.
 
 "Absolute EBITDA growth is a clear sign that our discipline and focus are paying off," said Ganesh Lakshminarayanan, managing director and chief executive.
 
 ## Digital business narrows losses
 
-Revenue from the company's digital platforms rose 18.6% from a year earlier, and its core data business grew 12.2%. Losses in the digital business roughly halved from the June quarter, with the segment's margin at minus 3.6%.
+Revenue from the company's digital platforms rose **18.6%** from a year earlier, and its core data business grew 12.2%. Losses in the digital business roughly halved from the June quarter, with the segment's margin at minus 3.6%.
 
-For the first half of the year, net profit rose 27% to ₹475 crore and revenue 10% to ₹13,271 crore.
+For the first half of the year, net profit rose **27%** to ₹475 crore and revenue 10% to ₹13,271 crore.
 
 The board also approved moving the company's shareholding in Kaleyra, Inc. to a wholly owned subsidiary in the Netherlands. The company said the change does not alter its ultimate ownership or economic interest.
 

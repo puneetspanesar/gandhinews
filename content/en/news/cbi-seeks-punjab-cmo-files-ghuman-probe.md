@@ -37,7 +37,7 @@ verification:
 
 The CBI has asked the Punjab government for original files on transfers, appointments in the Chief Minister's Office and a string of other official decisions, as it investigates corruption allegations against Rajbir Singh Ghuman, officer on special duty to Chief Minister Bhagwant Mann.
 
-In a letter dated October 12 to the Chief Secretary, the agency listed 20 categories of decisions whose files, noting sheets and drafts it wants to see. They include transfer policies and transfers, appointments in the CMO, changes to distributorships in the Animal Husbandry Department, recruitment of assistant town planners, housing projects in Zirakpur, hospital licence renewals, procurement by Verka, and arms licence applications involving nine people.
+In a letter dated October 12 to the Chief Secretary, the agency listed **20 categories of decisions** whose files, noting sheets and drafts it wants to see. They include transfer policies and transfers, appointments in the CMO, changes to distributorships in the Animal Husbandry Department, recruitment of assistant town planners, housing projects in Zirakpur, hospital licence renewals, procurement by Verka, and arms licence applications involving nine people.
 
 "The aforesaid files and details are urgently required for investigation," the CBI wrote. The letter names Jitin Kumar Goyal, also known as Raja, a production manager in the CMO, and seeks arms licence records relating to Gagandeep Singh Ahluwalia, chairman of the Punjab Khadi and Village Industries Board, and Dr Romi Raja Mahajan.
 

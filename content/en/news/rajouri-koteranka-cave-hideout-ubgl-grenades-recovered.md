@@ -37,7 +37,7 @@ verification:
 
 Security forces busted a militant hideout in a forest cave in Jammu and Kashmir's Rajouri district on Monday and recovered nine under-barrel grenade launcher (UBGL) grenades along with rifle ammunition, officials said.
 
-A joint team of security forces moved into the Panch Gabbar forest area of Koteranka tehsil, which falls under the Kandi police station, after receiving what officials described as specific inputs. The cache was concealed inside a cave.
+A joint team of security forces moved into the Panch Gabbar forest area of Koteranka tehsil, which falls under the Kandi police station, after receiving what officials described as **specific inputs**. The cache was concealed inside a cave.
 
 Besides the grenades, which are fired from a launcher fitted under an assault rifle, the team recovered an AK-47 magazine and 18 rounds of AK ammunition. Officials said the search of the surrounding forest was still under way on Monday evening.
 

@@ -48,20 +48,20 @@ verification:
     - "Which earlier rake went where is not stated in sources."
 ---
 
-The first Kanda Express to Tripura, carrying about 440 tonnes of onions from the Centre's buffer stock, is due to reach Agartala by October 18, the Department of Consumer Affairs said on Friday.
+The first Kanda Express to Tripura, carrying about **440 tonnes** of onions from the Centre's buffer stock, is due to reach Agartala by October 18, the Department of Consumer Affairs said on Friday.
 
 The onions will be sold in seven of the state's eight districts: Dhalai, South Tripura, Khowai, Unakoti, West Tripura, Gomati and Sepahijala. The department said the aim was to keep prices affordable ahead of the festive season.
 
 ## Rail and road into the Northeast
 
-The supplies are being released under the Price Stabilisation Fund. Two earlier Kanda Express rakes carried 840 tonnes and 452 tonnes of onions to the region, and 44 truck consignments carried another 1,513.46 tonnes. Buffer onions have so far reached Kamrup and Guwahati in Assam, Gomati and Sepahijala in Tripura, and Dimapur, Kohima, Niuland and Chumoukedima in Nagaland.
+The supplies are being released under the Price Stabilisation Fund. Two earlier Kanda Express rakes carried **840 tonnes** and 452 tonnes of onions to the region, and 44 truck consignments carried another 1,513.46 tonnes. Buffer onions have so far reached Kamrup and Guwahati in Assam, Gomati and Sepahijala in Tripura, and Dimapur, Kohima, Niuland and Chumoukedima in Nagaland.
 
 The ministry said the mix of rail and road movement would widen last-mile delivery, and that further releases from the buffer would be considered as needed.
 
 ## Prices easing
 
-Retail onion prices have fallen by ₹1 to ₹13 a kg across 211 cities over the past two weeks, according to the ministry, with about 12 centres in Assam recording drops of ₹1 to ₹8 a kg.
+Retail onion prices have fallen by ₹1 to **₹13** a kg across 211 cities over the past two weeks, according to the ministry, with about 12 centres in Assam recording drops of ₹1 to ₹8 a kg.
 
-Assam's average retail price now stands at ₹54.30 a kg, against an all-India average of ₹53.07. Two years ago the gap was ₹7.83, with Assam at ₹61.96 and the country at ₹54.13. The all-India average mandi price has dropped from about ₹3,600 a quintal in September to about ₹3,300 in October as the kharif crop arrives.
+Assam's average retail price now stands at **₹54.30 a kg**, against an all-India average of ₹53.07. Two years ago the gap was ₹7.83, with Assam at ₹61.96 and the country at ₹54.13. The all-India average mandi price has dropped from about ₹3,600 a quintal in September to about ₹3,300 in October as the kharif crop arrives.
 
 The government said it was keeping a close watch on onion prices, market arrivals and supply.

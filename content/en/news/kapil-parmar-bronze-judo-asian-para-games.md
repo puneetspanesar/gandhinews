@@ -46,7 +46,7 @@ verification:
     - "No quotes found."
 ---
 
-Kapil Parmar won India a judo bronze at the Asian Para Games on Monday, needing only 69 seconds to throw Indonesia's Rafli Ahnaf Shidqi for ippon in the men's J1 -70kg medal bout in Aichi.
+Kapil Parmar won India a judo bronze at the Asian Para Games on Monday, needing only 69 seconds to throw Indonesia's Rafli Ahnaf Shidqi for ippon in the men's **J1 -70kg** medal bout in Aichi.
 
 It was a swift response to disappointment. Earlier in the day Parmar, who won bronze at the Paris 2024 Paralympics, had lost his semi-final by ippon to another Indonesian, Junaedi, ending his hopes of gold.
 

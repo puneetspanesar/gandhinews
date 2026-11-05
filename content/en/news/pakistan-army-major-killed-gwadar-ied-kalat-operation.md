@@ -38,7 +38,7 @@ verification:
     - "Balochistan, Gwadar/CPEC background paragraph is general context, not from the day's source."
 ---
 
-A Pakistan Army major was killed by a roadside bomb in Balochistan's Gwadar district, the military said on Monday, as it reported killing four militants in a separate operation in Kalat.
+A Pakistan Army major was killed by a roadside bomb in Balochistan's Gwadar district, the military said on Monday, as it reported killing **four militants** in a separate operation in Kalat.
 
 Major Wajahat Waheed, 34, from Lahore, was leading a force on a clearance operation at Shadi Kaur in Pasni tehsil when the improvised explosive device went off, the military's media wing, Inter-Services Public Relations (ISPR), said. It said he "embraced shahadat", the term the army uses for soldiers killed in action.
 

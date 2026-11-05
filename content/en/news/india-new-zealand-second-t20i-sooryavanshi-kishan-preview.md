@@ -63,7 +63,7 @@ Abhishek arrives as the format's most destructive opener on paper, with a strike
 
 ## The bowling question
 
-The batting is not where India's problems lie. They have conceded 200 or more in each of their last four completed games, and New Zealand's 225 for four on Thursday was the hosts' highest T20I total at home. Glenn Phillips hammered 82 not out off 40 balls, and India gave away 94 runs in the powerplay.
+The batting is not where India's problems lie. They have conceded **200 or more** in each of their last four completed games, and New Zealand's 225 for four on Thursday was the hosts' highest T20I total at home. Glenn Phillips hammered 82 not out off 40 balls, and India gave away 94 runs in the powerplay.
 
 That has raised the prospect of Varun Chakravarthy coming in for one of the seamers, Arshdeep Singh or Mayank Yadav. New Zealand's spinners did well in the second innings on Thursday, with captain Mitchell Santner and Michael Bracewell taking two wickets each, and the mystery spinner would give Iyer a different kind of option through the middle overs.
 

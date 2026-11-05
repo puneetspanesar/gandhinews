@@ -89,7 +89,7 @@ India Data Law, which checks the Board's status monthly, says it "cannot receive
 
 ## Why it matters before May 2027
 
-From May 13, 2027, the Board's powers to inquire into breaches and impose penalties take effect, India Data Law says. Under the Act, failure to keep reasonable security safeguards can draw a penalty of up to ₹250 crore, and failure to report a breach or meet obligations on children's data up to ₹200 crore, according to the PIB backgrounder.
+From May 13, 2027, the Board's powers to inquire into breaches and impose penalties take effect, India Data Law says. Under the Act, failure to keep reasonable security safeguards can draw a penalty of up to **₹250 crore**, and failure to report a breach or meet obligations on children's data up to ₹200 crore, according to the PIB backgrounder.
 
 Companies must also report personal data breaches to the Board. Appeals against the Board's decisions go to the Telecom Disputes Settlement and Appellate Tribunal.
 

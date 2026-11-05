@@ -35,11 +35,11 @@ verification:
     - "Cabinet meeting is scheduled for Thursday evening; written as a preview."
 ---
 
-Telangana's Chief Secretary, Sanjay Jaju, said on Thursday that the effect of El Nino on the state was very severe and would reach its peak by February 2027, and told officials to make sure drinking water reaches homes in Hyderabad and four districts before anything else.
+Telangana's Chief Secretary, Sanjay Jaju, said on Thursday that the effect of El Nino on the state was **very severe** and would reach its peak by February 2027, and told officials to make sure drinking water reaches homes in Hyderabad and four districts before anything else.
 
 Jaju was in Sangareddy district to inspect water levels at the Singur and Manjira reservoirs, which supply Hyderabad. He then reviewed contingency plans with senior officials for drinking water in Hyderabad and the districts of Sangareddy, Kamareddy, Nizamabad and Medak.
 
-Speaking to reporters after the visit, he said temperatures had risen by 2 to 3°C, the monsoon had been badly affected and groundwater levels had fallen sharply. The next 15 to 20 days, he said, would be critical for standing crops.
+Speaking to reporters after the visit, he said temperatures had risen by 2 to 3°C, the monsoon had been badly affected and groundwater levels had fallen sharply. The next 15 to **20 days**, he said, would be critical for standing crops.
 
 ## Water before power
 
@@ -47,4 +47,4 @@ Jaju warned that water may not be available even where electricity is supplied, 
 
 He told the Electricity Department to ensure uninterrupted power for agriculture and asked the agriculture, power and irrigation departments to work together, taking weather and water availability into account. Nodal officers will be posted in every district, and under each District Collector, power and agriculture officials are to be available to farmers. He asked officers to visit villages themselves, talk to farmers and residents and tell people what the government is doing.
 
-The issue will come up at the state cabinet meeting on Thursday evening.
+The issue will come up at the state cabinet **meeting on Thursday evening**.

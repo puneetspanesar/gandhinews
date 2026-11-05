@@ -47,18 +47,18 @@ verification:
     - "Deal win ranges are broker estimates."
 ---
 
-Wipro and Tech Mahindra will close out the first round of IT earnings on Thursday, after TCS and HCLTech reported last week and on Monday. Investors bid up IT shares on Wednesday ahead of the numbers, with the Nifty IT index rising 1.14%.
+Wipro and Tech Mahindra will close out the first round of IT earnings on Thursday, after TCS and HCLTech reported last week and on Monday. Investors bid up IT shares on Wednesday ahead of the numbers, with the Nifty IT index rising **1.14%**.
 
 ## Wipro: slow growth, margins in focus
 
-Brokers expect Bengaluru-based Wipro to post another quiet quarter. Axis Direct estimates revenue for July to September at ₹24,601 crore, up 8.4% from ₹22,697 crore a year earlier but only about 1% higher than the previous quarter. It sees net profit of ₹3,445 crore, 2.6% higher than in April to June, and said "delayed deal ramp-ups and client-specific issues are expected to be partially offset."
+Brokers expect Bengaluru-based Wipro to post another quiet quarter. Axis Direct estimates revenue for July to September at **₹24,601 crore**, up 8.4% from ₹22,697 crore a year earlier but only about 1% higher than the previous quarter. It sees net profit of ₹3,445 crore, 2.6% higher than in April to June, and said "delayed deal ramp-ups and client-specific issues are expected to be partially offset."
 
-PL Capital expects IT services revenue to slip 0.5% in constant currency terms from the previous quarter, with the operating margin improving to 16.4%, helped by currency movements and cost savings. It puts new deal wins at $2.7 billion to $2.8 billion. Analysts will also watch what Wipro says about its revenue outlook for the December quarter.
+PL Capital expects IT services revenue to slip **0.5%** in constant currency terms from the previous quarter, with the operating margin improving to 16.4%, helped by currency movements and cost savings. It puts new deal wins at $2.7 billion to $2.8 billion. Analysts will also watch what Wipro says about its revenue outlook for the December quarter.
 
 ## Tech Mahindra: profit jump and a bonus
 
-Tech Mahindra is expected to show a much bigger jump in profit as margins improve. Axis Direct forecasts revenue of ₹15,948 crore, up 14% from a year earlier, and net profit of ₹1,563 crore, up 30.1% from ₹1,202 crore. It expects the operating margin to widen by 240 basis points to 14.5%. Kotak Institutional Equities has a similar call, with adjusted profit up 30.4%.
+Tech Mahindra is expected to show a much bigger jump in profit as margins improve. Axis Direct forecasts revenue of **₹15,948 crore**, up 14% from a year earlier, and net profit of ₹1,563 crore, up 30.1% from ₹1,202 crore. It expects the operating margin to widen by 240 basis points to 14.5%. Kotak Institutional Equities has a similar call, with adjusted profit up 30.4%.
 
-New deals are the weak spot. Brokers see wins of $0.8 billion to $1 billion, which would likely be a four-quarter low.
+New deals are the weak spot. Brokers see wins of $0.8 billion to **$1 billion**, which would likely be a four-quarter low.
 
 The company's board will also consider a dividend and a bonus issue at Thursday's meeting. If approved, it would be Tech Mahindra's first bonus share issue in 11 years.

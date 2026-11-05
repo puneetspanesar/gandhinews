@@ -47,14 +47,14 @@ verification:
     - "OPHI rounds poor share to 18.9%; Dawn gives South Asia 19.3%."
 ---
 
-The number of people living in multidimensional poverty has risen for the first time since 2010, to 1.2 billion, according to the 2026 Global Multidimensional Poverty Index released on Monday by the UN Development Programme and the Oxford Poverty and Human Development Initiative.
+The number of people living in multidimensional poverty has risen for the first time since 2010, to **1.2 billion**, according to the 2026 Global Multidimensional Poverty Index released on Monday by the UN Development Programme and the Oxford Poverty and Human Development Initiative.
 
-The index measures poverty through deprivations in health, education and living standards, from nutrition and child mortality to schooling, sanitation, drinking water, electricity, housing and household assets. This year's edition covers 108 countries home to 6.3 billion people, and finds 18.9% of them poor. The total is 51.5 million higher than in the previous update. More than half of the poor, 617 million, are children, and 83% live in rural areas.
+The index measures poverty through deprivations in health, education and living standards, from nutrition and child mortality to schooling, sanitation, drinking water, electricity, housing and household assets. This year's edition covers 108 countries home to **6.3 billion people**, and finds 18.9% of them poor. The total is 51.5 million higher than in the previous update. More than half of the poor, 617 million, are children, and 83% live in rural areas.
 
 "The rise in poverty should be a wake-up call for the world," said UNDP Administrator Alexander De Croo. "Behind these figures are 1.2 billion people facing hardships that reinforce one another: hunger, missed schooling and a lack of clean water or electricity. This is unacceptable."
 
 ## South Asia's numbers
 
-About 19.3% of South Asia's people are multidimensionally poor and another 18.4% are vulnerable to falling into poverty. The region accounts for at least a third of the world's deprivations in nutrition, housing and years of schooling. Some 150 million poor people in the region live in households where a school-age child is not in school.
+About **19.3%** of South Asia's people are multidimensionally poor and another 18.4% are vulnerable to falling into poverty. The region accounts for at least a third of the world's deprivations in nutrition, housing and years of schooling. Some 150 million poor people in the region live in households where a school-age child is not in school.
 
-The index puts India's poverty rate at 16.4% and Bangladesh's at 14.9%. Pakistan's is 38.3%, with a further 12.9% of its people vulnerable. The country estimates rest on household surveys carried out in different years, so they are not strictly comparable. India, Pakistan and Bangladesh are not among the 13 countries whose figures were updated this year. In the region, only Nepal's estimate draws on new data, from 2024-25.
+The index puts India's poverty rate at **16.4%** and Bangladesh's at 14.9%. Pakistan's is 38.3%, with a further 12.9% of its people vulnerable. The country estimates rest on household surveys carried out in different years, so they are not strictly comparable. India, Pakistan and Bangladesh are not among the 13 countries whose figures were updated this year. In the region, only Nepal's estimate draws on new data, from 2024-25.

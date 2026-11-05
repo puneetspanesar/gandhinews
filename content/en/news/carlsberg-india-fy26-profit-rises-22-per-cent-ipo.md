@@ -37,15 +37,15 @@ verification:
     - "Published time set to Sunday afternoon after the PTI report; outside the run's usual 4 pm window by about five hours but not yet on the site."
 ---
 
-Carlsberg India, the local arm of the Danish brewer, increased its profit by 22% in 2025-26 even as its sales slipped, according to its latest financial statements, as the company moves towards a listing on Indian exchanges.
+Carlsberg India, the local arm of the Danish brewer, increased its profit by **22%** in 2025-26 even as its sales slipped, according to its latest financial statements, as the company moves towards a listing on Indian exchanges.
 
-Profit for the year to March 2026 rose to ₹534.51 crore from ₹437.94 crore. Revenue from operations fell about 2.2% to ₹8,708.8 crore from ₹8,906.5 crore, and total income, including other income, was ₹8,814.96 crore.
+Profit for the year to March 2026 rose to **₹534.51 crore** from ₹437.94 crore. Revenue from operations fell about 2.2% to ₹8,708.8 crore from ₹8,906.5 crore, and total income, including other income, was ₹8,814.96 crore.
 
-The gap between flat sales and higher profit came largely from tax. The company paid ₹4,816.83 crore in excise duty, about 12% less than the ₹5,468.24 crore of the previous year, and total expenses fell 4% to ₹8,090.81 crore.
+The gap between flat sales and higher profit came largely from tax. The company paid **₹4,816.83 crore** in excise duty, about 12% less than the ₹5,468.24 crore of the previous year, and total expenses fell 4% to ₹8,090.81 crore.
 
 ## More spent on selling beer
 
-Spending on sales promotion rose sharply, by 42.6% to ₹848.71 crore from ₹595.07 crore, while marketing and publicity costs fell 2.2% to ₹69.22 crore. Royalty paid to the parent group went up 13.2% to ₹90.01 crore.
+Spending on sales promotion rose sharply, by **42.6%** to ₹848.71 crore from ₹595.07 crore, while marketing and publicity costs fell 2.2% to ₹69.22 crore. Royalty paid to the parent group went up 13.2% to ₹90.01 crore.
 
 Carlsberg India sells Tuborg, Carlsberg Elephant and Kronenbourg 1664 Blanc. It is wholly owned by South Asian Breweries of Singapore, a subsidiary of Carlsberg South Asia, the holding company for the group's business in the region.
 

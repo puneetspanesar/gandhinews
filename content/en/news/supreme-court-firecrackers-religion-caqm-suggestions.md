@@ -42,7 +42,7 @@ The Supreme Court on Monday began weighing how far to restrict firecrackers in t
 
 ## The amicus and the traders
 
-Senior Advocate Aparajita Singh, assisting the court as amicus curiae, said the religious argument came up every year. "Gods would be aghast if they knew that children were suffering and getting sick in their name," she said. "Year after year, we see the same playbook getting repeated." Time limits of one or two hours "sound nice" but were not enforced, she said, and asked the court to refer the issue to the Commission for Air Quality Management (CAQM).
+Senior Advocate Aparajita Singh, assisting the court as amicus curiae, said the religious argument came up every year. "Gods would be aghast if they knew that children were suffering and getting sick in their name," she said. "Year after year, we see the same playbook getting repeated." Time limits of one or two hours "sound nice" but were not enforced, she said, and asked the court to refer the issue to the **Commission for Air Quality Management** (CAQM).
 
 Senior Advocate J. Sai Deepak, for a federation of fireworks traders, pointed to the ban already in place. Additional Solicitor General Aishwarya Bhati said that in Delhi, crackers had been allowed on two days within fixed hours.
 

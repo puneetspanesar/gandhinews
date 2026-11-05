@@ -42,7 +42,7 @@ verification:
     - "data-protection topic used loosely for personal digital data seizure."
 ---
 
-The Supreme Court on Wednesday quashed a notice from Ghaziabad police asking X for months of data on journalist Abhishek Upadhyay's account, and ordered that nothing gathered through it may be used against him.
+The Supreme Court on Wednesday quashed a notice from Ghaziabad police asking X for months of data on journalist Abhishek Upadhyay's account, and ordered that nothing gathered through it may **be used against** him.
 
 "Seizing data of 3 months prior to date of alleged incident seems to be an overkill," Justice Joymalya Bagchi said during the hearing before a bench led by Chief Justice Surya Kant.
 
@@ -54,6 +54,6 @@ Police then wrote to X seeking his login and logout IP addresses, email ID, IMEI
 
 ## What the court ordered
 
-The bench held that no confidential or personal information can be sought for the period before the alleged incident, and that even for the period after the FIR it may be sought only if other means are inadequate. It made absolute the protection from coercive action granted on August 25, as long as Upadhyay cooperates with the investigation, and directed police to release his seized vehicle within two days.
+The bench held that no confidential or personal information can be sought for the period before the alleged incident, and that even for the period after the FIR it may be sought only if other means are inadequate. It **made absolute** the protection from coercive action granted on August 25, as long as Upadhyay cooperates with the investigation, and directed police to release his seized vehicle within two days.
 
 The court did not rule on the FIR itself, leaving Upadhyay free to challenge it before the High Court. Senior advocate Pradeep Rai, appearing for him, had also sought guidelines on how police seize digital data. The bench said that question should be raised in a suitable petition, with the Union government made a party.

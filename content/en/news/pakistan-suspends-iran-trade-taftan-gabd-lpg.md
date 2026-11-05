@@ -66,12 +66,12 @@ Passengers are still being allowed through at Rimdan-Gabd, but cargo has stopped
 
 The impact was felt quickly. The Quetta Chamber of Commerce and Industry told its members that trade had been suspended at all Pakistan-Iran crossings and advised them to stop placing new import and export orders until further notice.
 
-More than 4,000 tonnes of liquefied petroleum gas are reported to enter Pakistan every day through Gabd-Rimdan, and traders warned that the halt could worsen LPG shortages in Karachi and push up open-market prices. Rice exports to Iran have surged in recent months. Jiand Hoot, president of the Gwadar Chamber of Commerce, said trade through the smaller Panjgur and Mand-Radig routes was virtually non-existent because of poor roads and repeated arson attacks on vehicles.
+More than **4,000 tonnes** of liquefied petroleum gas are reported to enter Pakistan every day through Gabd-Rimdan, and traders warned that the halt could worsen LPG shortages in Karachi and push up open-market prices. Rice exports to Iran have surged in recent months. Jiand Hoot, president of the Gwadar Chamber of Commerce, said trade through the smaller Panjgur and Mand-Radig routes was virtually non-existent because of poor roads and repeated arson attacks on vehicles.
 
 The move reverses months of easing. Since March, with the US-Iran war raging next door, the two countries have relaxed border trade rules, made Taftan a formal customs station and notified new transit routes. In August, Iran's Trade and Industry Minister Mohammad Atabak led a delegation to Islamabad, where both sides agreed to keep the crossings open round the clock. The Taftan route had already been disrupted by unrest in Balochistan.
 
 ## Fire on the Afghan front
 
-Pakistan's western frontier with Afghanistan is also tense. Pakistani state media, citing security sources, said troops answered "unprovoked" fire from Afghan Taliban forces in the Taidah and Ghuzgarhi areas of Upper Kurram on Saturday, destroying Taliban posts at Topsar and Shipola. Several Taliban fighters were reported killed. Pakistan says the Taliban fired to help militants slip across the border.
+Pakistan's western frontier with Afghanistan is also tense. Pakistani state media, citing security sources, said troops answered "unprovoked" fire from Afghan Taliban forces in the Taidah and Ghuzgarhi areas of **Upper Kurram** on Saturday, destroying Taliban posts at Topsar and Shipola. Several Taliban fighters were reported killed. Pakistan says the Taliban fired to help militants slip across the border.
 
 On the Afghan side, local residents in Paktia province's Dand Patan district said rockets fired from Pakistan hit homes. The Taliban administration issued no statement. Foreign Office spokesperson Sajjad Haider Khan said Pakistan was not avoiding dialogue with Afghan representatives, but has said talks cannot be unconditional.

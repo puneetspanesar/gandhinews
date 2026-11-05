@@ -48,9 +48,9 @@ He chaired a review at the Integrated State Command and Control Centre in the Gr
 
 ## A night of heavy rain
 
-The worst of it fell on Saturday night. North Chennai received between 6 cm and 10 cm of rain in less than an hour, and waterlogging was reported at 35 places in the city, with traffic held up in several localities. Parrys Corner, Kathivakkam, Manali and Ennore were among the wettest areas.
+The worst of it fell on Saturday night. North Chennai received between 6 cm and **10 cm** of rain in less than an hour, and waterlogging was reported at 35 places in the city, with traffic held up in several localities. Parrys Corner, Kathivakkam, Manali and Ennore were among the wettest areas.
 
-Elsewhere in the state, Uthiramerur in Kancheepuram district recorded 15 cm and Manalurpet in Kallakurichi 12 cm in the 24 hours up to 5:30 pm on Saturday. The Regional Meteorological Centre and the India Meteorological Department said the northeast monsoon had entered an active phase.
+Elsewhere in the state, Uthiramerur in Kancheepuram district recorded **15 cm** and Manalurpet in Kallakurichi 12 cm in the 24 hours up to 5:30 pm on Saturday. The Regional Meteorological Centre and the India Meteorological Department said the northeast monsoon had entered an active phase.
 
 Forecasters linked the rain to an upper-air cyclonic circulation over north Tamil Nadu and coastal Andhra Pradesh and a trough running from Lakshadweep to the southwest Bay of Bengal.
 
@@ -58,7 +58,7 @@ Forecasters linked the rain to an upper-air cyclonic circulation over north Tami
 
 Vijay praised corporation staff and allied departments for their quick response overnight. He then asked departments to work in close coordination and to carry out relief measures diligently, since more warnings of heavy rain were expected. Officials were told to follow the response protocols laid down for flood situations and to hurry precautionary work in Chennai and other parts of the state.
 
-The government's concern is the run of wet days ahead. The IMD has a yellow alert, which signals heavy rain of 6 cm to 11 cm, in force until October 23 for 17 districts, including Chennai, Tiruvallur, Chengalpattu, Kancheepuram, Cuddalore and Tiruchi.
+The government's concern is the run of wet days ahead. The IMD has a yellow alert, which signals heavy rain of 6 cm to **11 cm**, in force until October 23 for 17 districts, including Chennai, Tiruvallur, Chengalpattu, Kancheepuram, Cuddalore and Tiruchi.
 
 Widespread rain is also forecast across the delta and the south, from Nagapattinam, Thanjavur and Tiruvarur to Ramanathapuram, Thoothukudi and Tirunelveli, as well as in the Nilgiris and Coimbatore. Puducherry and Karaikal are expected to get rain too.
 

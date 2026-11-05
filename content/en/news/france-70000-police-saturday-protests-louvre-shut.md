@@ -42,7 +42,7 @@ verification:
     - "Nuñez quotes from both Euronews and AP/Africanews."
 ---
 
-France is putting about 70,000 police officers and gendarmes on the streets on Saturday as cost-of-living protests return for a second weekend, a week after demonstrations ended in looting, fires and clashes with police in the worst unrest France has seen in years.
+France is putting **about 70,000 police** officers and gendarmes on the streets on Saturday as cost-of-living protests return for a second weekend, a week after demonstrations ended in looting, fires and clashes with police in the worst unrest France has seen in years.
 
 Interior Minister Laurent Nuñez said helicopters, armoured vehicles and water cannon would back up the officers, with elite units guarding city halls and other public buildings. "We will be absolutely uncompromising" with anyone who turns to violence, he told reporters, promising "a very firm approach" to arrests.
 
@@ -56,7 +56,7 @@ Authorities have banned some marches in Lyon, Nice and Montpellier, and moved ro
 
 ## March on Le Pen's congress
 
-In Orléans, about 110 km south of Paris, some 50 unions, left-wing parties, student and anti-racism groups have called a protest against the two-day congress of Marine Le Pen's Rassemblement National, which opens on Saturday. Loiret prefect Hugues Moutouh expects 20,000 to 30,000 people.
+In Orléans, about 110 km south of Paris, some 50 unions, left-wing parties, student and anti-racism groups have called a protest against the two-day congress of Marine Le Pen's Rassemblement National, which opens on Saturday. Loiret prefect Hugues Moutouh expects **20,000 to 30,000** people.
 
 Le Pen, the front-runner in polls for next spring's presidential election, accused the left of trying to "disrupt a political party's democratic congress" and said she had "no concerns" about security.
 

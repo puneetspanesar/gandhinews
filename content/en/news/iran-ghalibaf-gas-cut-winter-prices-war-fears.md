@@ -47,11 +47,11 @@ verification:
     - "Public worry over elections in Israel and the US: AP round-up."
 ---
 
-Iran's Parliament Speaker, Mohammad Bagher Ghalibaf, has asked Iranians to cut their use of natural gas by at least 10% before winter, and said households that manage it would be paid for the savings directly into their bank accounts.
+Iran's Parliament Speaker, Mohammad Bagher Ghalibaf, has asked Iranians to cut their use of natural gas by at **least 10%** before winter, and said households that manage it would be paid for the savings directly into their bank accounts.
 
 The appeal on Sunday is a sign of how hard the war, now nearing its eighth month, is pressing on daily life. A US naval blockade is restricting Iran's oil exports.
 
-Prices have climbed steeply. Rice is more than 60% dearer than when the war began in February, and beef more than 150% dearer. Medicines are in short supply. President Masoud Pezeshkian acknowledged on Saturday that many Iranians are struggling to buy food.
+Prices have climbed steeply. Rice is more than **60%** dearer than when the war began in February, and beef more than 150% dearer. Medicines are in short supply. President Masoud Pezeshkian acknowledged on Saturday that many Iranians are struggling to buy food.
 
 Many people also fear that the worst is yet to come, with elections in Israel on Tuesday and in the United States on November 3. Sasan Karimi, a former official who teaches at the University of Tehran, said Iran's leaders expect President Donald Trump to order new strikes whatever the result of the midterms.
 

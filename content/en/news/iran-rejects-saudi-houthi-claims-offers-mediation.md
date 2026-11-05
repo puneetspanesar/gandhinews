@@ -53,7 +53,7 @@ verification:
 
 Iran on Saturday denied Saudi accusations that it is behind the Houthi missile and drone campaign against the kingdom, and offered to act as a go-between to end the fighting.
 
-Foreign Ministry spokesman Esmaeil Baqaei said late on Friday that Tehran "rejects any claim that Iran has played a role in Yemeni (Houthi) operations". On Saturday he went further, saying Iran was ready to help resolve the dispute between Saudi Arabia and Yemen by peaceful means if both sides asked it to.
+Foreign Ministry spokesman Esmaeil Baqaei said late on Friday that Tehran "rejects any claim that Iran has played a role in Yemeni (Houthi) operations". On Saturday he went further, saying Iran was **ready to help** resolve the dispute between Saudi Arabia and Yemen by peaceful means if both sides asked it to.
 
 The offer came after Riyadh accused Tehran this week of arming and encouraging the Houthis, and called their strikes on Saudi airports war crimes.
 
@@ -65,7 +65,7 @@ On the ground, the Yemeni army said on Saturday that it had pushed forward in Ma
 
 ## Prisoners freed
 
-The Houthis released 159 pro-government fighters under an amnesty. Abdelqader al-Murtada, a Houthi official, said the men had "voluntarily surrendered themselves without fighting". The International Committee of the Red Cross confirmed the release. The Houthis say 323 prisoners were freed under the same amnesty last month.
+The Houthis released **159 pro-government fighters** under an amnesty. Abdelqader al-Murtada, a Houthi official, said the men had "voluntarily surrendered themselves without fighting". The International Committee of the Red Cross confirmed the release. The Houthis say 323 prisoners were freed under the same amnesty last month.
 
 Saudi Arabia's interior ministry said on Saturday it had executed five Saudi nationals convicted of terrorism-related offences.
 

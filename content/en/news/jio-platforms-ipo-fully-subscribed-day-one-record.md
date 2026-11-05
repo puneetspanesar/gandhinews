@@ -46,13 +46,13 @@ verification:
     - "Lot size 12 shares and fresh issue of up to 27 crore shares from Kotak Neo."
 ---
 
-Jio Platforms' share sale, the largest ever attempted in India, was fully subscribed within 100 minutes of opening on Wednesday, the fastest any Indian initial public offering has filled its book.
+Jio Platforms' share sale, the largest ever attempted in India, was **fully subscribed within 100 minutes** of opening on Wednesday, the fastest any Indian initial public offering has filled its book.
 
-Qualified institutional buyers filled their portion in the first ten minutes and had bid for about twice their quota within half an hour. By 2:40 pm the issue as a whole had drawn bids for 2.22 times the shares on offer. Institutions had subscribed 6.72 times their portion, non-institutional investors 0.86 times and retail investors 0.57 times.
+Qualified institutional buyers filled their portion in the first ten minutes and had bid for about twice their quota within half an hour. By 2:40 pm the issue as a whole had drawn bids for 2.22 times the shares on offer. Institutions had subscribed **6.72 times** their portion, non-institutional investors 0.86 times and retail investors 0.57 times.
 
-The Reliance Industries unit is selling up to 27 crore new shares at ₹1,065 to ₹1,119 each, in lots of 12 shares. There is no sale by existing shareholders. At the top of the band the company is valued at about $108 billion, and the offer would overtake Hyundai Motor India's ₹27,870 crore issue of 2024 as the country's biggest.
+The Reliance Industries unit is selling up to **27 crore** new shares at ₹1,065 to ₹1,119 each, in lots of 12 shares. There is no sale by existing shareholders. At the top of the band the company is valued at about $108 billion, and the offer would overtake Hyundai Motor India's ₹27,870 crore issue of 2024 as the country's biggest.
 
-Demand had been signalled on Monday, when the company allotted about ₹8,110 crore of shares to 212 anchor investors at ₹1,119 after receiving bids worth more than ₹2.5 lakh crore.
+Demand had been signalled on Monday, when the company allotted about **₹8,110 crore** of shares to 212 anchor investors at ₹1,119 after receiving bids worth more than ₹2.5 lakh crore.
 
 Jio serves 533.3 million customers. Managing director Akash Ambani has pitched the company as more than a telecom operator. "There is no either-or at Jio: the network is our technology," he said, adding, "Digital services, AI and cloud are what we are layering on top of it now."
 

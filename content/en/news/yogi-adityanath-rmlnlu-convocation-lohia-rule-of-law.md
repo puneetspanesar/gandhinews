@@ -53,6 +53,6 @@ Adityanath said the state had left behind the "rule of the mafia" for a settled 
 
 He cited the Emergency of June 25, 1975, and Justice H R Khanna's dissent, and said the state had a roadmap to a one-trillion-dollar economy by 2029-30.
 
-On artificial intelligence, he said final decisions must rest with human judgment. He said the state had cyber police stations in all 75 districts and cyber help desks in 1,583 police stations.
+On artificial intelligence, he said final decisions must rest with human judgment. He said the state had cyber police stations in all **75 districts** and cyber help desks in 1,583 police stations.
 
 Supreme Court judge Justice Vikram Nath and Allahabad High Court Chief Justice Arun Bhansali also addressed the graduates, and Adityanath presented medals to the top students.

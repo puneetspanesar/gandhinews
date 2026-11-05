@@ -42,7 +42,7 @@ verification:
     - "12:30 pm UK kick-off (5 pm IST) per Football Web Pages."
 ---
 
-Pedro Neto scored twice as Chelsea won 2-0 at Everton on Saturday, but the afternoon at the Hill Dickinson Stadium ended with worry over goalkeeper Emiliano Martinez, who was taken to hospital with a head injury.
+Pedro Neto scored twice as Chelsea won 2-0 at Everton on Saturday, but the afternoon at the Hill Dickinson Stadium ended with worry over goalkeeper Emiliano Martinez, who was **taken to hospital with a head injury**.
 
 Martinez was hurt in a collision with Everton defender Jarrad Branthwaite. There was no word on his condition by the end of the match, and Chelsea will be waiting on the hospital's assessment before deciding who keeps goal in their next games.
 

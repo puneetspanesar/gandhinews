@@ -76,7 +76,7 @@ The UAE minister's visit comes days after Jaishankar met him in Abu Dhabi at the
 Announcing the visit last week, MEA spokesperson Randhir Jaiswal said: "They will naturally have a detailed exchange of views on the situation in West Asia."
 ## Rubio arrives with energy on the table
 
-Rubio began his trip in Samarkand, Uzbekistan, for the C5+1 ministerial meeting with the five Central Asian states, the US State Department said. His India leg takes in Mumbai and Jamnagar in Gujarat, home to Reliance Industries' refinery complex. He will not visit New Delhi.
+Rubio began his trip in Samarkand, Uzbekistan, for the **C5+1 ministerial** meeting with the five Central Asian states, the US State Department said. His India leg takes in Mumbai and Jamnagar in Gujarat, home to Reliance Industries' refinery complex. He will not visit New Delhi.
 
 "On October 20, the External Affairs Minister will hold talks with US Secretary of State Marco Rubio," Jaiswal said. The State Department has said the visit is meant "to strengthen the US-India strategic partnership" and to "discuss prospects for enhanced energy cooperation". A delegation of more than 200 business leaders is travelling with him. It is his second visit to India since May, when he attended the Quad foreign ministers' meeting in New Delhi.
 

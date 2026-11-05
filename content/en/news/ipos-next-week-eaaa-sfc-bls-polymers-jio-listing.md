@@ -42,16 +42,16 @@ verification:
     - "Company prospectuses (RHPs) not read; dates can change."
 ---
 
-Five companies open share sales on the main board this week, seeking about ₹2,636 crore between them, as the market waits for Jio Platforms' debut on Wednesday.
+Five companies open share sales on the main board this week, seeking about **₹2,636 crore** between them, as the market waits for Jio Platforms' debut on Wednesday.
 
-The largest is EAAA India Alternatives, an alternative investment platform that runs real-asset and private-credit funds. Its ₹1,200 crore issue opens on Monday, October 26, and closes on Wednesday. It is entirely an offer for sale of 72.07 lakh shares by its promoter, Edelweiss Securities and Investments, so the company will raise no new money. The price band is ₹1,585 to ₹1,665 a share, with a minimum bid of nine shares.
+The largest is EAAA India Alternatives, an alternative investment platform that runs real-asset and private-credit funds. Its **₹1,200 crore** issue opens on Monday, October 26, and closes on Wednesday. It is entirely an offer for sale of 72.07 lakh shares by its promoter, Edelweiss Securities and Investments, so the company will raise no new money. The price band is ₹1,585 to ₹1,665 a share, with a minimum bid of nine shares.
 
-SFC Environmental Technologies, which makes wastewater treatment systems, opens on Tuesday at ₹313 to ₹330 a share for a ₹668 crore issue, of which ₹50 crore is fresh capital. BLS Polymers, a maker of polymer compounds for cables, wires and underground pipes, also opens on Tuesday with a ₹255 crore fresh issue priced at ₹142 to ₹150, and is due to list on November 3.
+SFC Environmental Technologies, which makes wastewater treatment systems, opens on Tuesday at **₹313** to ₹330 a share for a ₹668 crore issue, of which ₹50 crore is fresh capital. BLS Polymers, a maker of polymer compounds for cables, wires and underground pipes, also opens on Tuesday with a ₹255 crore fresh issue priced at ₹142 to ₹150, and is due to list on November 3.
 
-MK Sons Fine Jewels, a gold, diamond and cubic zirconia jeweller, seeks ₹330.48 crore from Wednesday to Friday, and Bombay Coated and Special Steels a ₹183.1 crore fresh issue at ₹78 to ₹82 a share from Thursday to November 2.
+MK Sons Fine Jewels, a gold, diamond and cubic zirconia jeweller, seeks **₹330.48 crore** from Wednesday to Friday, and Bombay Coated and Special Steels a ₹183.1 crore fresh issue at ₹78 to ₹82 a share from Thursday to November 2.
 
 ## Jio's turn
 
-Jio Platforms, whose ₹30,213 crore issue drew bids for 22.19 times the shares on offer, finalises allotment on Monday. Refunds and credits to demat accounts follow on Tuesday, and the shares are due to start trading on BSE and NSE on Wednesday, October 28. Paras Healthcare is also scheduled to list that day, and Core4 Engineers on Friday.
+Jio Platforms, whose **₹30,213 crore** issue drew bids for 22.19 times the shares on offer, finalises allotment on Monday. Refunds and credits to demat accounts follow on Tuesday, and the shares are due to start trading on BSE and NSE on Wednesday, October 28. Paras Healthcare is also scheduled to list that day, and Core4 Engineers on Friday.
 
 Among smaller companies, Wiscon Industries opens on the SME platform on Tuesday at ₹194 to ₹204 a share, and Carver Roboweld on Wednesday.

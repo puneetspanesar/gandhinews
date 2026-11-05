@@ -56,7 +56,7 @@ verification:
     - "Changed: standfirst said 'Eleven months' (it is just under 11) and 'workers' rights in most states still wait on state rules', which overstated the sourced position; reworded."
 ---
 
-The Union government wants every state and Union Territory to have rules under the four labour codes in place by October 31, 2026. Labour Secretary Chandra Bhushan Kumar said on September 24 that ten states had published final rules and the rest had put out drafts for consultation.
+The Union government wants every state and Union Territory to have rules under the four labour codes in place by October 31, 2026. Labour Secretary Chandra Bhushan Kumar said on September 24 that **ten states had published final rules** and the rest had put out drafts for consultation.
 
 > we are hoping we will have the rules at the state level by October 31.
 >
@@ -66,13 +66,13 @@ Kumar called state rule-making "a major, major exercise", because state governme
 
 ## Why state rules matter
 
-The four codes, the Code on Wages, the Industrial Relations Code, the Code on Social Security and the Occupational Safety, Health and Working Conditions Code, replaced 29 central labour laws. They came into force on November 21, 2025. The Centre notified its own rules under all four on May 8, 2026, along with Model Standing Orders, according to the law firm Shardul Amarchand Mangaldas.
+The four codes, the Code on Wages, the Industrial Relations Code, the Code on Social Security and the Occupational Safety, Health and Working Conditions Code, replaced 29 central labour laws. They came into force on November 21, 2025. The Centre notified its own **rules under all four** on May 8, 2026, along with Model Standing Orders, according to the law firm Shardul Amarchand Mangaldas.
 
 Labour is on the concurrent list, so both Parliament and state legislatures can make laws on it. With states as the appropriate government in most cases, many of the codes' procedures and conditions depend on what each state notifies.
 
 ## Where the states stand
 
-The Labour Ministry has not named the ten states with final rules. Gujarat, Arunachal Pradesh and Bihar are reported to have final rules under all four codes, both in July reports and in the Shardul Amarchand Mangaldas employment law newsletter for October 2026.
+The Labour Ministry has not named the ten states with final rules. Gujarat, Arunachal Pradesh and Bihar are reported to have **final rules under all four codes**, both in July reports and in the Shardul Amarchand Mangaldas employment law newsletter for October 2026.
 
 In July, Kerala was reported to have sought more time to study the codes, and West Bengal had not published draft rules. Gandhi News could not confirm whether either state has moved since.
 

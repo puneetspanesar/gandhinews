@@ -43,12 +43,12 @@ Kenya confirmed a second death from Ebola on Friday, a 65-year-old woman who dev
 
 The woman was a close relative of the Kenyan man who became the country's first case. He had travelled from the Democratic Republic of Congo and died at a hospital in Nairobi on October 5.
 
-The ministry said Kenya now has nine confirmed cases, including the two deaths. Seven patients are being treated at two isolation centres. All 135 people traced as contacts have been placed in quarantine. The cases sit within "one cluster, with no evidence of community spread", the ministry said.
+The ministry said Kenya now has **nine confirmed cases**, including the two deaths. Seven patients are being treated at two isolation centres. All 135 people traced as contacts have been placed in quarantine. The cases sit within "one cluster, with no evidence of community spread", the ministry said.
 
 ## Link to Nigeria
 
 The outbreak began in the DRC, which declared its 17th Ebola outbreak in May and has since reported more than 9,000 cases and more than 4,600 deaths. It has now reached four countries across eastern, central and western Africa, the widest spread of any Ebola outbreak on the continent.
 
-Nigeria became the fourth country to report a case on Tuesday. On Friday, Health Minister Muhammad Ali Pate said analysis showed the Nigerian case was closely related to the virus found in Kenya's index patient.
+Nigeria became the fourth country to report a case on Tuesday. On Friday, Health Minister Muhammad Ali Pate said analysis showed the Nigerian case was **closely related** to the virus found in Kenya's index patient.
 
 Uganda, which recorded 20 infections and two deaths and was declared Ebola-free in August, has barred travellers who have been to the DRC from passing through the country. Over the past 50 years, Ebola has killed more than 15,000 people in Africa.

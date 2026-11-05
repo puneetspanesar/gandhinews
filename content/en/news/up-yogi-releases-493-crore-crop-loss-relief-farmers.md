@@ -47,22 +47,22 @@ verification:
     - "The national-politics desk has claimed a separate story on Adityanath's attack on Congress at the same Gorakhpur event; this story keeps to the relief payments."
 ---
 
-Uttar Pradesh Chief Minister Yogi Adityanath on Monday transferred ₹493 crore into the bank accounts of 9,18,091 farmers whose crops were damaged by floods, excessive rain, hailstorms and cyclones.
+Uttar Pradesh Chief Minister Yogi Adityanath on Monday transferred **₹493 crore** into the bank accounts of 9,18,091 farmers whose crops were damaged by floods, excessive rain, hailstorms and cyclones.
 
-The money, an agricultural input subsidy, was paid by direct benefit transfer at an event in Gorakhpur. Officials handed out symbolic cheques on stage, though the funds had already reached accounts. The Chief Minister said the payments were based on digital crop survey reports sent in by districts.
+The money, an agricultural input subsidy, was paid by direct benefit transfer at an event in Gorakhpur. Officials handed out symbolic cheques on stage, though the funds had already reached accounts. The Chief Minister said the payments were based on **digital crop survey reports** sent in by districts.
 
 "Today, Rs. 493 crore is being transferred directly to the bank accounts of 9,18,091 farmers in the state," he said. "No middleman can siphon off any money in between."
 
 ## Help for homes and families
 
-Adityanath said heavy rain, hail, cyclones and floods over the previous week had damaged crops widely and killed people and animals. He said the state had so far given about ₹1,000 crore this monsoon to affected farmers and residents.
+Adityanath said heavy rain, hail, cyclones and floods over the previous week had damaged crops widely and killed people and animals. He said the state had so far given about **₹1,000 crore** this monsoon to affected farmers and residents.
 
-Families whose houses were damaged or destroyed will get ₹1.20 lakh under the Mukhyamantri Awas Yojana, separate from the crop subsidy. The families of those killed in such disasters get ₹4 lakh within 24 hours, he said, and the government compensates crop, house and livestock losses through the Disaster Relief Fund within eight to ten days.
+Families whose houses were damaged or destroyed will get **₹1.20 lakh** under the Mukhyamantri Awas Yojana, separate from the crop subsidy. The families of those killed in such disasters get ₹4 lakh within 24 hours, he said, and the government compensates crop, house and livestock losses through the Disaster Relief Fund within eight to ten days.
 
 He told officials to carry out relief work wherever floods were still eroding land, to repair damaged roads as soon as the weather cleared, and to expand early warning systems that send lightning alerts by SMS and phone calls.
 
 ## Insurance payouts
 
-Agriculture Minister Surya Pratap Shahi, speaking at the same event, said ₹812.76 crore had been paid to 7.31 lakh disaster-hit farmers under the Pradhan Mantri Fasal Bima Yojana in 2025-26. The Chief Minister directed officials to speed up surveys and compensation under the crop insurance scheme.
+Agriculture Minister Surya Pratap Shahi, speaking at the same event, said **₹812.76 crore** had been paid to 7.31 lakh disaster-hit farmers under the Pradhan Mantri Fasal Bima Yojana in 2025-26. The Chief Minister directed officials to speed up surveys and compensation under the crop insurance scheme.
 
 Adityanath also used the occasion to attack earlier Congress and Samajwadi Party governments, saying relief money in their time was lost to middlemen.

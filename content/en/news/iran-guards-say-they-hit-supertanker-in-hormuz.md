@@ -48,6 +48,6 @@ Iran's deputy navy commander, Rear Admiral Faramarz Bemani, told state televisio
 
 Deputy Foreign Minister Kazem Gharibabadi said Tehran was "finalising its response to US considerations on a proposal submitted by Iran during the UN General Assembly", and remained ready for both diplomacy and military confrontation.
 
-Oil prices rose. Brent crude climbed about 2% to $106.76 a barrel on Monday.
+Oil prices rose. Brent crude climbed about **2%** to $106.76 a barrel on Monday.
 
 The strike comes a day after two tankers with Indian crew were hit off Oman and in the strait, leaving two Indian seafarers missing.

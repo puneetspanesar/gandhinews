@@ -63,7 +63,7 @@ It has been a series of big totals and quick swings. Iyer's unbeaten 102 set up 
 
 ## The squad India have
 
-The squad has changed since the selectors named it on September 16. Naman Dhir replaced Washington Sundar for the T20Is, and Dhir has made his mark: two wickets in Indore, including Shimron Hetmyer and Kamil Pooran.
+The squad has changed since the selectors named it on September 16. Naman Dhir **replaced Washington Sundar** for the T20Is, and Dhir has made his mark: two wickets in Indore, including Shimron Hetmyer and Kamil Pooran.
 
 India's 15 are Iyer (captain), Tilak Varma (vice-captain), Abhishek, Vaibhav Sooryavanshi, Ishan Kishan, Sanju Samson, Dhir, Shivam Dube, Kuldeep Yadav, Axar Patel, Ravi Bishnoi, Nitish Kumar Reddy, Arshdeep, Prince Yadav and Mayank Yadav.
 

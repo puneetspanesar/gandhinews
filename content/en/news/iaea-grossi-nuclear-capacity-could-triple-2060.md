@@ -47,6 +47,6 @@ The address was not only about power stations. Grossi raised concerns about the 
 
 He also pointed to reports that other countries are considering acquiring nuclear weapons.
 
-On Iran, Grossi said the necessary technical groundwork for a diplomatic agreement had been completed. That leaves the next move with the governments involved.
+On Iran, Grossi said the necessary **technical groundwork** for a diplomatic agreement had been completed. That leaves the next move with the governments involved.
 
 The projection of a tripling by 2060 rests on the same forces Grossi described: more of the world's energy use shifting to electricity, and a technology industry whose appetite for round-the-clock clean power is growing with every new AI data centre.

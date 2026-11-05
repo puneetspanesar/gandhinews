@@ -38,7 +38,7 @@ verification:
 
 Delhi's air quality index stood at 189 at 9 am on Sunday, in the 'moderate' category but close to its upper limit, according to the Central Pollution Control Board's Sameer app.
 
-The reading was 30 points worse than the board's 24-hour average of 159 recorded at 4 pm on Saturday, and continues the slide that began after midweek rain briefly cleared the city's air.
+The reading was **30 points** worse than the board's 24-hour average of 159 recorded at 4 pm on Saturday, and continues the slide that began after midweek rain briefly cleared the city's air.
 
 On the CPCB scale, an AQI from 0 to 50 is 'good', 51 to 100 'satisfactory', 101 to 200 'moderate', 201 to 300 'poor', 301 to 400 'very poor' and 401 to 500 'severe'.
 

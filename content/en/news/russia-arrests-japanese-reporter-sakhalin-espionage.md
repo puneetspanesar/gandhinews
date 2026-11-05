@@ -37,14 +37,14 @@ verification:
     - "Date of arrest not given; announced Tuesday, Oct 13."
 ---
 
-Russia's Federal Security Service (FSB) has arrested a Japanese newspaper reporter on Sakhalin Island and accused him of spying for Japanese intelligence, a charge that carries up to 20 years in prison.
+Russia's Federal Security Service (FSB) has arrested a Japanese newspaper reporter on Sakhalin Island and accused him of spying for Japanese intelligence, a charge that carries up to **20 years** in prison.
 
 The FSB said on Tuesday that the journalist had been detained in Yuzhno-Sakhalinsk, the island's main city, as he was preparing to leave Russia. It said he was believed to have been gathering information on Russia's defence capabilities. Russia's Foreign Ministry named him as Imai Yuki and said he worked for the Japanese newspaper Hokkaido Shimbun.
 
-He was flown to Moscow, where a court ordered him held for nearly two months while the investigation goes on. A video attributed to the FSB shows masked officers apparently handcuffing him in a hotel room and later escorting him onto a plane.
+He was flown to Moscow, where a court ordered him held for **nearly two months** while the investigation goes on. A video attributed to the FSB shows masked officers apparently handcuffing him in a hotel room and later escorting him onto a plane.
 
 An official at Japan's embassy in Moscow said the government was trying to verify the reports of his detention.
 
 The arrest comes as relations between the two neighbours have soured further over President Vladimir Putin's visit in August to the Kuril Islands. Russia controls the chain, and Japan claims the four southernmost islands as its Northern Territories. The dispute is the main reason the two countries never signed a peace treaty after the Second World War.
 
-Russia has detained a number of foreigners on spying charges since its full-scale invasion of Ukraine in 2022. The best known was Wall Street Journal reporter Evan Gershkovich, arrested in 2023 and sentenced to 16 years, who was freed in a prisoner exchange in August 2024.
+Russia has detained a number of foreigners on spying charges since its full-scale invasion of Ukraine in 2022. The best known was Wall Street Journal reporter Evan Gershkovich, arrested in 2023 and sentenced to **16 years**, who was freed in a prisoner exchange in August 2024.

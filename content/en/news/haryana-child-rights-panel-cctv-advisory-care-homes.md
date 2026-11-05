@@ -41,7 +41,7 @@ verification:
     - "No specific institution or district where the personal-device links were found was named in either report."
 ---
 
-Haryana's child rights commission has ordered child care institutions across the state to stop linking their CCTV systems to staff members' personal mobile phones and laptops, after finding that several homes had done exactly that.
+Haryana's child rights commission has ordered child care institutions across the state to stop linking their CCTV systems to staff members' **personal mobile phones** and laptops, after finding that several homes had done exactly that.
 
 The Haryana State Commission for Protection of Child Rights, chaired by Tripti Sheoran, issued the statutory advisory on Thursday under the Commissions for Protection of Child Rights Act, 2005. The commission said such links left live footage of children open to unauthorised remote access.
 
@@ -55,4 +55,4 @@ The commission said the sole purpose of CCTV surveillance "should be to ensure i
 
 ## Fifteen days to report back
 
-The Department of Women and Child Development, every deputy commissioner and every district child protection officer has been told to send compliance reports within 15 days. Institutions that break the rules face strict administrative action, the commission said.
+The Department of Women and Child Development, every deputy commissioner and every district child protection officer has been told to send **compliance reports within 15 days**. Institutions that break the rules face strict administrative action, the commission said.

@@ -42,7 +42,7 @@ He was opening the 13th Sustainable Mountain Development Summit, organised by SK
 
 ## Less snow, more extremes
 
-Abdullah said reduced and delayed snowfall had contributed to water shortages in spring, and that dry spells were often followed by cloudbursts and floods. He blamed unscientific hill cutting during road construction for landslides and for roads in remote areas being damaged again and again.
+Abdullah said reduced and delayed snowfall had contributed to water shortages in spring, and that dry spells were often followed by cloudbursts and floods. He blamed **unscientific hill cutting** during road construction for landslides and for roads in remote areas being damaged again and again.
 
 "We cannot stop global warming on our own, nor can we reverse it," he said, while urging people to stop littering.
 

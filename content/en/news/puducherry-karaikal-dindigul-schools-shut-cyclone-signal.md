@@ -47,9 +47,9 @@ verification:
     - "Storm position and track from IMD Amaravati via Deccan Chronicle; Tamil Nadu/Puducherry heavy rain outlook via Dynamite News."
 ---
 
-Schools and colleges in Puducherry and Karaikal are closed on Monday, and schools in Tamil Nadu's Dindigul district have been given the day off, as heavy rain linked to the deepening system in the Bay of Bengal continues over the south.
+Schools and colleges in **Puducherry and Karaikal** are closed on Monday, and schools in Tamil Nadu's Dindigul district have been given the day off, as heavy rain linked to the deepening system in the Bay of Bengal continues over the south.
 
-Cyclone Warning Signal No. 1 was hoisted at Puducherry port on Sunday. It is a distant warning, telling ports and fishermen that a storm has formed far out at sea that could affect them. Other districts may also declare holidays for Monday depending on local conditions, and parents have been advised to follow announcements from their district administrations.
+**Cyclone Warning Signal No. 1** was hoisted at Puducherry port on Sunday. It is a distant warning, telling ports and fishermen that a storm has formed far out at sea that could affect them. Other districts may also declare holidays for Monday depending on local conditions, and parents have been advised to follow announcements from their district administrations.
 
 ## The storm offshore
 

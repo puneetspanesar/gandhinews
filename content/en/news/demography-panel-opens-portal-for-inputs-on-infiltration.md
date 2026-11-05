@@ -43,7 +43,7 @@ verification:
 
 A committee set up by the Union Home Ministry to study demographic change and illegal immigration has opened a public web portal and invited submissions from governments, organisations and ordinary citizens.
 
-Justice Prakash Prabhakar Naolekar, a retired Supreme Court judge who chairs the High-Level Committee on Demographic Changes, launched the portal at demography.mha.gov.in in New Delhi on Wednesday. Central ministries, state and Union Territory governments, NGOs, institutions and individuals can use it to send data and information on what the ministry calls "unnatural" demographic changes, their causes and abnormal settlement patterns.
+Justice Prakash Prabhakar Naolekar, a retired Supreme Court judge who chairs the High-Level Committee on Demographic Changes, launched the **portal at demography.mha.gov.in** in New Delhi on Wednesday. Central ministries, state and Union Territory governments, NGOs, institutions and individuals can use it to send data and information on what the ministry calls "unnatural" demographic changes, their causes and abnormal settlement patterns.
 
 ## What the committee is asked to do
 

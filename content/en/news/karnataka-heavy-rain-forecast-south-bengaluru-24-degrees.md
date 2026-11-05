@@ -40,7 +40,7 @@ Karnataka is in for several wet days. The weather department expects heavy rain 
 
 The rain is being fed by a low-pressure system over the Bay of Bengal that is expected to strengthen into a cyclone and approach the Andhra Pradesh coast. Parts of the state have already had showers over the past week, a welcome change after the northeast monsoon got off to a weak start.
 
-Bengaluru should see partly cloudy skies in the afternoon or evening, with a maximum of 24 degrees Celsius and a minimum of 19. Mysuru and Mandya are forecast to reach 25 degrees, and the coffee hills are cooler still, with Chikkamagaluru at 23 and Madikeri and Hassan at 25.
+Bengaluru should see partly cloudy skies in the afternoon or evening, with a maximum of **24 degrees Celsius** and a minimum of 19. Mysuru and Mandya are forecast to reach 25 degrees, and the coffee hills are cooler still, with Chikkamagaluru at 23 and Madikeri and Hassan at 25.
 
 The coast and the north are warmer. Mangaluru and Karwar are expected to touch 31 degrees and Udupi 32, while Raichur and Yadgir in the north-east could reach 34. Across the central districts, Shivamogga, Chitradurga and Davanagere are expected to stay between 28 and 30 degrees, and Belagavi and Hubballi around 30 to 31.
 

@@ -101,7 +101,7 @@ No court challenge had been filed by Monday, though any petition is likely to go
 
 ## Who runs the province now
 
-Governor Faisal Karim Kundi, a leader of Zardari's Pakistan Peoples Party, now holds executive power under federal direction. He has an 11-member advisory council, and Muhammad Fakhr Alam Irfan has been named chief secretary. A separate secretariat will run administration, security and development in 12 districts, including Bannu, Bajaur, Kurram and North Waziristan.
+Governor Faisal Karim Kundi, a leader of Zardari's Pakistan Peoples Party, now holds executive power under federal direction. He has an 11-member advisory council, and Muhammad Fakhr Alam Irfan has been named chief secretary. A separate secretariat will run administration, security and development in **12 districts**, including Bannu, Bajaur, Kurram and North Waziristan.
 
 Under the constitution, governor's rule must be put before a joint sitting of Parliament and lapses after two months unless extended, up to a limit of six months.
 

@@ -41,9 +41,9 @@ Lok Sabha Leader of the Opposition Rahul Gandhi on Sunday called the Uttarakhand
 
 "Investments exist only on paper; jobs exist only in slogans," Gandhi wrote on X, calling the summit "yet another example of the BJP's 'double-engine' model".
 
-He said the summit had announced 1,779 memorandums of understanding worth ₹3.56 lakh crore, with about ₹100 crore of public money spent on roadshows, and that the government now claims ₹1 lakh crore has been realised on the ground. Of that, he said, ₹35,279 crore, or 35%, came from state-owned power companies.
+He said the summit had announced 1,779 memorandums of understanding worth ₹3.56 lakh crore, with about ₹100 crore of public money spent on roadshows, and that the government now claims **₹1 lakh crore** has been realised on the ground. Of that, he said, ₹35,279 crore, or 35%, came from state-owned power companies.
 
-Citing an online news investigation, Gandhi said flour mills, fertiliser and seed shops and small clinics had been counted as investors, some without knowing it. A school run on CSR funds and donations was listed as investing ₹24.49 crore, he said, and one "investor" credited with ₹1,200 crore had earned nothing for four years and listed no employees. He said ₹27,975 crore was claimed from roadshows in Dubai and London, yet none of the companies from those cities appear on the list of investors on the ground.
+Citing an online news investigation, Gandhi said flour mills, fertiliser and seed shops and small clinics had been counted as investors, some without knowing it. A school run on CSR funds and donations was listed as investing **₹24.49 crore**, he said, and one "investor" credited with ₹1,200 crore had earned nothing for four years and listed no employees. He said ₹27,975 crore was claimed from roadshows in Dubai and London, yet none of the companies from those cities appear on the list of investors on the ground.
 
 He alleged that the definition of "investment" was diluted on December 1, 2023, seven days before the summit. "Change the rules first, then present the figures," he wrote.
 

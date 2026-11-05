@@ -45,8 +45,8 @@ Domestic Cricket South Africa called it "an extraordinary performance that will 
 
 ## Not enough for victory
 
-The record did not bring a win. Chasing 205, KZN Inland reached 183 for 6, with Laycock himself unbeaten on 31 off 25 balls, and lost by 21 runs. The Titans are now unbeaten in six matches in the competition and remain top of the table.
+The record did not bring a win. Chasing 205, KZN Inland reached 183 for 6, with Laycock himself unbeaten on 31 off 25 balls, and lost by **21 runs**. The Titans are now unbeaten in six matches in the competition and remain top of the table.
 
-Laycock is only the fourth bowler to take five wickets in an over in men's T20 cricket, after Bangladesh's Al-Amin Hossain in 2013, India's Abhimanyu Mithun in 2019 and Indonesia's Gede Priandana in 2025. Priandana's feat remains the only one in a T20 international.
+Laycock is only the **fourth bowler** to take five wickets in an over in men's T20 cricket, after Bangladesh's Al-Amin Hossain in 2013, India's Abhimanyu Mithun in 2019 and Indonesia's Gede Priandana in 2025. Priandana's feat remains the only one in a T20 international.
 
 Laycock made his T20 debut in November 2024. He can bat too: his highest scores are an unbeaten 108 in first-class cricket and 99 not out in List A matches.

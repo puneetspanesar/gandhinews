@@ -55,7 +55,7 @@ verification:
 
 The field for the first round of Rajasthan's village and district council elections was settled on Thursday afternoon, when the window for withdrawals closed at 3 pm. Voting for zila parishad and panchayat samiti members in that phase is on October 22.
 
-The state is electing its rural tiers in four phases between October 22 and November 16. On the ballot are 41 zila parishads, 457 panchayat samitis and 14,403 gram panchayats, about 1.55 lakh posts in all, with more than 4.03 crore people eligible to vote. Polling for the first three phases was brought forward by a day after concerns that the original dates clashed with Dhanteras.
+The state is electing its rural tiers in four phases between October 22 and November 16. On the ballot are 41 zila parishads, 457 panchayat samitis and 14,403 gram panchayats, about **1.55 lakh posts** in all, with more than 4.03 crore people eligible to vote. Polling for the first three phases was brought forward by a day after concerns that the original dates clashed with Dhanteras.
 
 ## Struck out in Jodhpur
 

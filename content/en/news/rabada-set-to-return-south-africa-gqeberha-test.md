@@ -59,7 +59,7 @@ Rabada has not played since the IPL in May. He missed the first Test while recov
 >
 > Source: Temba Bavuma, South Africa captain, October 14, 2026
 
-Bavuma said Rabada "looks good" and has been bowling in the nets. Who makes way is less clear. One option is to leave out Simon Harmer; the other is to drop Anrich Nortje, despite his successful return to Test cricket at Kingsmead. The squad is due to be named on Thursday.
+Bavuma said Rabada "looks good" and has been bowling in the nets. Who makes way is less clear. One option is to leave out Simon Harmer; the other is to drop Anrich Nortje, despite his successful return to Test cricket at Kingsmead. The squad is due to be **named on Thursday**.
 
 Coach Shukri Conrad refused to panic over the Durban result, in which Matt Renshaw's 190 and 82 and Josh Hazlewood's 6 for 49 gave Australia a 1-0 lead in the three-match series.
 

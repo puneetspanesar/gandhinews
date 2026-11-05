@@ -35,10 +35,10 @@ verification:
     - "Sector description 'Pocket 3 of Sectors G-2 to G-6' as reported; Pocket 6 sector not specified."
 ---
 
-Registration opens on Wednesday for 2,516 low-income group (LIG) flats that the Delhi Development Authority (DDA) is selling in Narela at a 25% discount, under its DDA Housing Investment Scheme 2026.
+Registration opens on Wednesday for 2,516 low-income group (LIG) flats that the Delhi Development Authority (DDA) is selling in Narela at a **25%** discount, under its DDA Housing Investment Scheme 2026.
 
-The flats are in two lots. Pocket 3, in Sectors G-2 to G-6, has 1,020 flats with an estimated starting price of ₹15.01 lakh. Pocket 6 has 1,496 flats from an estimated ₹14.95 lakh. Both types have an estimated plinth area of 49.90 square metres.
+The flats are in two lots. Pocket 3, in Sectors G-2 to G-6, has 1,020 flats with an estimated starting price of ₹15.01 lakh. Pocket 6 has 1,496 flats from an estimated **₹14.95 lakh**. Both types have an estimated plinth area of 49.90 square metres.
 
-The DDA has cautioned that the advertised price is only an estimate. The final cost will depend on each flat's actual plinth area and does not include maintenance charges, water connection charges or, where they apply, conversion charges. The number of flats on offer may also go up or down, the DDA said. That means a flat in Pocket 3 is likely to cost a little more than ₹15 lakh once every charge is added, even before any change in area.
+The DDA has cautioned that the advertised price is only an estimate. The final cost will depend on each flat's actual plinth area and does not include maintenance charges, water connection charges or, where they apply, conversion charges. The number of flats on offer may also go up or down, the DDA said. That means a flat in Pocket 3 is likely to cost a little more than **₹15 lakh** once every charge is added, even before any change in area.
 
-Buyers must pay a non-refundable registration fee of ₹2,500 and a ₹1 lakh deposit to book a flat. People already registered on the DDA housing portal do not need to sign up again. The brochure was released at noon on Tuesday, and booking opens on the portal at noon on October 20.
+Buyers must pay a non-refundable registration fee of **₹2,500** and a ₹1 lakh deposit to book a flat. People already registered on the DDA housing portal do not need to sign up again. The brochure was released at noon on Tuesday, and booking opens on the portal at noon on October 20.

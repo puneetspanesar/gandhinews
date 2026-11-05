@@ -55,7 +55,7 @@ India announced in April 2025 that it was placing the treaty "in abeyance" after
 
 ## Why it is flaring now
 
-Islamabad accuses India of pressing ahead with reservoir, expansion and diversion projects on the treaty rivers, though it has not set out which ones it means. Pakistani officials have also reported unusual fluctuations in river flows recently. For a country whose farms rely so heavily on the western rivers, any sign of change upstream is treated as a security matter, not just a technical one.
+Islamabad accuses India of pressing ahead with reservoir, expansion and diversion projects on the treaty rivers, though it has not set out which ones it means. Pakistani officials have also reported **unusual fluctuations in river flows** recently. For a country whose farms rely so heavily on the western rivers, any sign of change upstream is treated as a security matter, not just a technical one.
 
 Sharif's warning came at a busy diplomatic moment for Pakistan. Its army chief, Field Marshal Asim Munir, was in Tehran on Tuesday as Islamabad tries to mediate between Iran and the United States. On the same day as Sharif's remarks, Pakistan signed a defence industry agreement with Turkiye, Qatar and Indonesia in Doha.
 

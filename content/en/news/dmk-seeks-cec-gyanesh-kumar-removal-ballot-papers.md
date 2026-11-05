@@ -63,4 +63,4 @@ It said actor-politician Vijay's TVK had neither publicly demanded Kumar's remov
 
 Stalin has been raising the issue since July 2025, when he spoke out about voter deletions in Bihar and joined the Voter Adhikar Yatra there with Kanimozhi Karunanidhi. After the 2025 Bihar Assembly results he criticised problems within the opposition alliance but said they did not excuse the Election Commission's alleged failures.
 
-The SIR has led to at least 13 crore names being deleted from draft rolls. The Supreme Court, which this week issued notice on a petition by Rahul Gandhi, Mallikarjun Kharge and other INDIA bloc leaders alleging that Kumar acted without the other two commissioners, will hear the challenges to his decisions on October 27.
+The SIR has led to at least **13 crore names** being deleted from draft rolls. The Supreme Court, which this week issued notice on a petition by Rahul Gandhi, Mallikarjun Kharge and other INDIA bloc leaders alleging that Kumar acted without the other two commissioners, will hear the challenges to his decisions on October 27.

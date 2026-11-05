@@ -37,7 +37,7 @@ verification:
     - "Kannepalli pump house protest threat and Revanth's El Nino warning are background from the same ANI story."
 ---
 
-The Bharat Rashtra Samithi on Sunday accused Telangana Chief Minister Revanth Reddy of leaving the state unprepared for power cuts and a deepening water shortage, and of turning on former Chief Minister K Chandrashekar Rao to draw attention away from his government's failures.
+The Bharat Rashtra Samithi on Sunday accused Telangana Chief Minister Revanth Reddy of leaving the state unprepared for **power cuts** and a deepening water shortage, and of turning on former Chief Minister K Chandrashekar Rao to draw attention away from his government's failures.
 
 BRS leader Manne Krishank, a former corporation chairman, said in Hyderabad that the state had been hit by "massive power cuts" because the government had failed to buy electricity to support farming. He also alleged that Congress ministers had told farmers not to take up cultivation because the government could not supply them water.
 

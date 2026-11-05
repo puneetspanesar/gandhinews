@@ -48,17 +48,17 @@ verification:
     - "MoSPI does not explain why the personal care and miscellaneous division rose 15.17%. The RBI separately reports core inflation excluding precious metals at 2.9%, against 4.2% including them; we have not stated a cause."
 ---
 
-Retail inflation rose to 4.82% in August 2026 from 4.45% in July, according to provisional data released by the National Statistics Office on September 14. It was the seventh monthly rise in a row, from 2.74% in January.
+Retail inflation rose to **4.82%** in August 2026 from 4.45% in July, according to provisional data released by the National Statistics Office on September 14. It was the seventh monthly rise in a row, from 2.74% in January.
 
 The figures are from the new Consumer Price Index series with base year 2024=100, which replaced the 2012 series this year.
 
 ## Food drives the rise
 
-The Consumer Food Price Index rose 5.95% in August from a year earlier, up from 5.52% in July. The food and beverages division, a slightly broader measure, rose 5.66%.
+The Consumer Food Price Index rose **5.95%** in August from a year earlier, up from 5.52% in July. The food and beverages division, a slightly broader measure, rose 5.66%.
 
-Inflation was higher in villages than in towns. Rural CPI rose 5.23% and urban CPI 4.31%. Rural food inflation was 6.13%, against 5.64% in urban areas.
+Inflation was higher in villages than in towns. Rural CPI rose **5.23%** and urban CPI 4.31%. Rural food inflation was 6.13%, against 5.64% in urban areas.
 
-The gap has been building all year. In January the two were almost level, at 2.73% rural and 2.75% urban. Rural inflation has run ahead in every month since February, and the difference widened to almost a full percentage point by August. The all-India index stood at 108.74 in August, up from 107.95 in July.
+The gap has been building all year. In January the two were almost level, at **2.73%** rural and 2.75% urban. Rural inflation has run ahead in every month since February, and the difference widened to almost a full percentage point by August. The all-India index stood at 108.74 in August, up from 107.95 in July.
 
 ```chart
 {"type":"line","title":"CPI inflation, January to August 2026","subtitle":"All-India, year on year (%), base 2024=100","unit":"%","data":[{"label":"Jan","value":2.74},{"label":"Feb","value":3.21},{"label":"Mar","value":3.40},{"label":"Apr","value":3.48},{"label":"May","value":3.93},{"label":"Jun","value":4.38},{"label":"Jul","value":4.45},{"label":"Aug","value":4.82,"highlight":true}],"source":"MoSPI, Sep 14, 2026 (August provisional)"}
@@ -66,7 +66,7 @@ The gap has been building all year. In January the two were almost level, at 2.7
 
 ## What else rose
 
-The new series groups spending into 12 divisions. In August, the fastest increases were in personal care, social protection and miscellaneous goods and services (15.17%) and restaurants and accommodation services (8.38%).
+The new series groups spending into 12 divisions. In August, the fastest increases were in personal care, social protection and miscellaneous goods and services (**15.17%**) and restaurants and accommodation services (8.38%).
 
 Transport rose 4.60%. Within it, the cost of operating personal vehicles rose 7.40% and transport services for goods 14.64%. Electricity, gas and other fuels rose 3.09%, and house rents 2.27%.
 

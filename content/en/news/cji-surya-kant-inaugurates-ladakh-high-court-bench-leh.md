@@ -54,7 +54,7 @@ verification:
 
 For close to a century, people in Ladakh with a case before the high court had to cross the Great Himalayas to be heard. On Sunday, Chief Justice of India Surya Kant brought the court to them.
 
-Inaugurating the Ladakh Bench of the High Court of Jammu and Kashmir and Ladakh at Melongthang in Leh, the Chief Justice said the region's link to the country's top court would soon be shortened too. Once video-conferencing is set up at the new bench, lawyers from Leh and Kargil will be able to argue before the Supreme Court without leaving Ladakh, and all matters from the region will be listed on a single day and heard day to day.
+Inaugurating the **Ladakh Bench of the High Court** of Jammu and Kashmir and Ladakh at Melongthang in Leh, the Chief Justice said the region's link to the country's top court would soon be shortened too. Once video-conferencing is set up at the new bench, lawyers from Leh and Kargil will be able to argue before the Supreme Court without leaving Ladakh, and all matters from the region will be listed on a single day and heard day to day.
 
 "In this way, the distance will no longer stand between people of Ladakh and the highest Court of our country," he said.
 
@@ -76,4 +76,4 @@ The bench is designed as a paperless court, with an e-filing portal, a document 
 
 ## First cases this week
 
-The bench will sit for the first time from Wednesday, October 21, to Friday, October 23, under a high court notice issued on October 14, with 105 cases already on its list. Until now, litigants from Ladakh have had to travel to Srinagar or Jammu.
+The bench will sit for the first time from Wednesday, October 21, to Friday, October 23, under a high court notice issued on October 14, with **105 cases** already on its list. Until now, litigants from Ladakh have had to travel to Srinagar or Jammu.

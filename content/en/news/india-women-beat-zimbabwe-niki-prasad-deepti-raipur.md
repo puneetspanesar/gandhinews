@@ -55,13 +55,13 @@ verification:
 
 India won Smriti Mandhana's first match as captain by four wickets against Zimbabwe in Raipur on Friday night, but the margin hides an evening when the visitors had India's top order in real trouble.
 
-Chasing 115 at the Shaheed Veer Narayan Singh International Stadium, India slumped to 19 for 4. Mandhana was among the early wickets, dismissed by off-spinner Nyasha Gwanzura. From there, 20-year-old Niki Prasad, playing her first match for India, and the experienced Deepti Sharma took control and carried the side to 116 for 6 with 26 balls to spare.
+Chasing 115 at the Shaheed Veer Narayan Singh International Stadium, India slumped to **19 for 4**. Mandhana was among the early wickets, dismissed by off-spinner Nyasha Gwanzura. From there, 20-year-old Niki Prasad, playing her first match for India, and the experienced Deepti Sharma took control and carried the side to 116 for 6 with 26 balls to spare.
 
 Deepti was full of praise for her young partner afterwards. "It didn't feel like she was making her debut," she said of Prasad.
 
 ## Mayers holds Zimbabwe together
 
-Mandhana won the toss and chose to bowl. Zimbabwe, in their first bilateral series against India, built a platform through a 53-run stand for the second wicket between Kelis Ndhlovu and Modester Mupachikwa. Sharne Mayers then kept the innings moving with an unbeaten 43 off 33 balls, and Zimbabwe finished on 114 for 5 from their 20 overs.
+Mandhana won the toss and chose to bowl. Zimbabwe, in their first bilateral series against India, built a platform through a 53-run stand for the second wicket between Kelis Ndhlovu and Modester Mupachikwa. Sharne Mayers then kept the innings moving with an unbeaten **43 off 33 balls**, and Zimbabwe finished on 114 for 5 from their 20 overs.
 
 Arundhati Reddy took one wicket but went for 30 in her three overs. Zimbabwe lost only five wickets, but India's bowlers never let them break away.
 

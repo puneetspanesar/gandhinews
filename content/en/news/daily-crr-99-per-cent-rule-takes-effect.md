@@ -48,18 +48,18 @@ verification:
 
 A tighter rule on how much cash banks must keep with the Reserve Bank of India every day takes effect on Friday, the start of a new reporting fortnight.
 
-Banks have to hold a fixed share of their deposits with the RBI as the cash reserve ratio (CRR), currently 3%, and they earn no interest on it. The requirement is measured as an average over a fortnight. Until now, a bank could let its balance fall to 90% of the requirement on any given day, as long as the average held. From Friday, October 16, that daily floor is 99%.
+Banks have to hold a fixed share of their deposits with the RBI as the cash reserve ratio (CRR), currently **3%**, and they earn no interest on it. The requirement is measured as an average over a fortnight. Until now, a bank could let its balance fall to 90% of the requirement on any given day, as long as the average held. From Friday, October 16, that daily floor is 99%.
 
 ## Why it matters
 
-The change leaves banks with almost no room to run down their reserves on some days and lend that money out overnight. The RBI notified it on October 9, two days after the Monetary Policy Committee raised the repo rate by 25 basis points to 5.50%.
+The change leaves banks with almost no room to run down their reserves on some days and lend that money out overnight. The RBI notified it on October 9, two days after the Monetary Policy Committee raised the repo rate by 25 basis points to **5.50%**.
 
-The banking system has far more cash than it needs. Surplus funds parked with the RBI stood at ₹3.88 lakh crore on October 8, and that glut has kept the overnight call money rate below the repo rate. It was 5.31% on October 9. By locking more money away every day, the central bank wants short-term rates to rise closer to its policy rate so that the rate increase passes through.
+The banking system has far more cash than it needs. Surplus funds parked with the RBI stood at **₹3.88 lakh crore** on October 8, and that glut has kept the overnight call money rate below the repo rate. It was 5.31% on October 9. By locking more money away every day, the central bank wants short-term rates to rise closer to its policy rate so that the rate increase passes through.
 
 The RBI has also been selling government bonds and running reverse repo auctions to absorb cash.
 
 ## Done before
 
-The RBI last set the daily floor at 99% in July 2013, during turmoil in the foreign exchange market, before easing it to 95% and later to 90%.
+The RBI last set the daily floor at **99%** in July 2013, during turmoil in the foreign exchange market, before easing it to 95% and later to 90%.
 
-For borrowers, the effect is indirect. Several state-run banks had already raised their repo-linked lending rates by 25 basis points after the rate rise. The minutes of the October policy meeting are due on October 21, and the next meeting is on December 2 to 4.
+For borrowers, the effect is indirect. Several state-run banks had already raised their repo-linked lending rates by **25 basis points** after the rate rise. The minutes of the October policy meeting are due on October 21, and the next meeting is on December 2 to 4.

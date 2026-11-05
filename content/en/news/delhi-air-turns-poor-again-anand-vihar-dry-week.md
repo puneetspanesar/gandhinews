@@ -53,11 +53,11 @@ Delhi's brief spell of clean air is over. A day after rain and thunderstorms pus
 
 Hourly readings showed the index at about 102 on Friday afternoon, before it rose quickly through the evening to 198 by about 11:30 pm. By 10:30 am on Saturday it stood at 216, in the 201 to 300 range that the Central Pollution Control Board classes as poor. It eased to 165 in the afternoon.
 
-Anand Vihar in east Delhi was the worst of the monitoring stations on Saturday, at 348, in the "very poor" range. Mundka recorded 227 and Jahangirpuri 212, while Burari, at 91, and Badarpur, at 51, had the cleanest air.
+**Anand Vihar** in east Delhi was the worst of the monitoring stations on Saturday, at 348, in the "very poor" range. Mundka recorded 227 and Jahangirpuri 212, while Burari, at 91, and Badarpur, at 51, had the cleanest air.
 
 ## No rain to clear it
 
-The India Meteorological Department expects partly cloudy skies to give way to mainly clear weather from Sunday, with no rain over the next several days and maximum temperatures rising to 32 to 34 degrees Celsius by October 21 and 22. Without rain to wash out pollutants, vehicle exhaust, road dust and construction emissions build up.
+The India Meteorological Department expects partly cloudy skies to give way to mainly clear weather from Sunday, with no rain over the next several days and maximum temperatures rising to 32 to **34 degrees** Celsius by October 21 and 22. Without rain to wash out pollutants, vehicle exhaust, road dust and construction emissions build up.
 
 The Indian Institute of Tropical Meteorology's forecast puts Delhi's air in the "poor" category from October 19 for the rest of its six-day outlook.
 

@@ -42,7 +42,7 @@ verification:
     - "Indian Express August report on panel-linked allocations is carried via Inc42; phrased as a report and left without outlet name per house rule. Editor may want to cut or name it."
 ---
 
-The government has picked its first 19 fund managers under the ₹1 lakh crore Research, Development and Innovation (RDI) Fund, with commitments of ₹7,131 crore meant to flow into Indian companies building products from serious research.
+The government has picked its first 19 fund managers under the ₹1 lakh crore Research, Development and Innovation (RDI) Fund, with commitments of **₹7,131 crore** meant to flow into Indian companies building products from serious research.
 
 An Empowered Group of Secretaries under the Ministry of Science and Technology approved the cohort earlier this month. It includes 14 alternative investment funds and five focused research organisations, which act as second-level managers and invest the money in companies. The ministry has not yet named them. The group also approved five more technology areas for coverage, without listing them.
 
@@ -50,7 +50,7 @@ An Empowered Group of Secretaries under the Ministry of Science and Technology a
 
 The RDI scheme was launched in November 2025 and is run by an independent unit within the Anusandhan National Research Foundation, under the Department of Science and Technology. It backs firms whose technology has reached Technology Readiness Level 4 or above. Each fund manager is expected to raise private capital matching what it receives from the RDI Fund. The government says it will keep inviting applications and onboard more cohorts.
 
-The scheme has faced questions. In August, it was reported that nearly two-thirds of more than ₹2,000 crore allocated to deep-tech companies had gone to firms linked to members of the selection panel.
+The scheme has faced questions. In August, it was reported that nearly two-thirds of more than **₹2,000 crore** allocated to deep-tech companies had gone to firms linked to members of the selection panel.
 
 ## Money is moving
 

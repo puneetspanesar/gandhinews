@@ -49,9 +49,9 @@ verification:
     - "Shoukry's earlier roles not stated in source; left out. Modi's time of attendance not given."
 ---
 
-Lok Sabha Speaker Om Birla held talks on Sunday with Sameh Shoukry, the Egyptian MP leading his country's delegation, on the eve of the 12th BRICS Parliamentary Forum, which opens in New Delhi on Monday.
+Lok Sabha Speaker Om Birla held talks on Sunday with **Sameh Shoukry**, the Egyptian MP leading his country's delegation, on the eve of the 12th BRICS Parliamentary Forum, which opens in New Delhi on Monday.
 
-The two spoke of the long ties between India and Egypt as two ancient civilisations, and of what Birla called renewed momentum in relations. They looked at ways to deepen cooperation between the two parliaments through Parliamentary Friendship Groups, and at closer work in pharmaceuticals, chemicals and industry.
+The two spoke of the long ties between India and Egypt as two ancient civilisations, and of what Birla called renewed momentum in relations. They looked at ways to deepen cooperation between the two parliaments through **Parliamentary Friendship Groups**, and at closer work in pharmaceuticals, chemicals and industry.
 
 Birla thanked Egypt for its strong condemnation of the Pahalgam terror attack and said the world needed to act together against terrorism. He said he was confident that "stronger parliamentary ties will further enrich the longstanding partnership between the two countries."
 
@@ -59,6 +59,6 @@ Birla thanked Egypt for its strong condemnation of the Pahalgam terror attack an
 
 Birla chairs the two-day forum, and India is the host. Delegations from 11 BRICS member countries and 10 partner countries were invited. Prime Minister Narendra Modi is due to attend and meet the leaders of the visiting delegations.
 
-The programme is built around four high-level sessions on resilience, innovation, cooperation and sustainability, aimed at reaching decisions by consensus. A separate meeting brings together the chairs of the foreign affairs committees of the member and partner parliaments to talk about parliamentary diplomacy, capacity-building and good practice.
+The programme is built around **four high-level sessions** on resilience, innovation, cooperation and sustainability, aimed at reaching decisions by consensus. A separate meeting brings together the chairs of the foreign affairs committees of the member and partner parliaments to talk about parliamentary diplomacy, capacity-building and good practice.
 
 The Egyptian meeting was one of a series of bilateral talks Birla is holding with delegation leaders on the margins of the forum. Russia's State Duma Chairman Vyacheslav Volodin reached Delhi on Saturday, while Iran's Parliament Speaker Mohammad Bagher Ghalibaf has pulled out, though an Iranian delegation is still taking part.

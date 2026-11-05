@@ -52,7 +52,7 @@ Andhra Pradesh's local body elections were meant to settle who runs its towns an
 
 The first day of nominations, on Friday, set the tone. In Punganur, four SUVs in the convoy of YSRCP MP P V Midhun Reddy were flipped over and cars were burnt. In Rayachoti, vehicles near the YSRCP office were set alight. The two parties tell opposite stories. The YSRCP says Telugu Desam Party workers attacked its candidates while police watched. The police say the MP's convoy of more than 10 vehicles caused the trouble, and the TDP says its town president was assaulted.
 
-By Sunday, when nominations closed, the allegations had grown. YSRCP chief Y S Jagan Mohan Reddy says his candidates could not file papers at all in eight places, had them torn up in eight more, and that in his home town of Pulivendula only 19 nominations were filed for 36 wards. He has asked Governor S Abdul Nazeer for central forces and cameras in every booth.
+By Sunday, when nominations closed, the allegations had grown. YSRCP chief Y S Jagan Mohan Reddy says his candidates could **not file papers at all in eight** places, had them torn up in eight more, and that in his home town of Pulivendula only 19 nominations were filed for 36 wards. He has asked Governor S Abdul Nazeer for central forces and cameras in every booth.
 
 ## The fair objection
 

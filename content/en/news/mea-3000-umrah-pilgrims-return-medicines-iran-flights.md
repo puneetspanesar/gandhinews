@@ -51,7 +51,7 @@ verification:
 
 About 3,000 Indian Umrah pilgrims who had been stranded in Saudi Arabia by the widening war in the Gulf have returned home over the past week, the Ministry of External Affairs said on Friday.
 
-Spokesperson Randhir Jaiswal told his weekly briefing in New Delhi that more than 10,000 regular Umrah pilgrims who were booked on the flights still running had also come back. The Indian Embassy in Riyadh and the Consulate in Jeddah "remain actively engaged with concerned airlines and tour operators", he said, and arrangements were being discussed for the pilgrims still waiting.
+Spokesperson Randhir Jaiswal told his weekly briefing in New Delhi that more than **10,000 regular Umrah pilgrims** who were booked on the flights still running had also come back. The Indian Embassy in Riyadh and the Consulate in Jeddah "remain actively engaged with concerned airlines and tour operators", he said, and arrangements were being discussed for the pilgrims still waiting.
 
 Embassy and consulate staff were in touch with those stranded and were working with community volunteers to support them, Jaiswal said. Control rooms in Riyadh and Jeddah are running round the clock, and the missions are issuing regular advisories.
 

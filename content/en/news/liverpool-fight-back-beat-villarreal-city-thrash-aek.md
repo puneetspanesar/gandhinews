@@ -46,7 +46,7 @@ Liverpool made life very hard for themselves at Anfield on Tuesday night and sti
 
 Georges Mikautadze opened the scoring in the fifth minute after an error by Virgil van Dijk, and Sergi Cardona added a second in the 29th minute after another lapse at the back.
 
-The fightback started with an Alexis Mac Allister header, and Liverpool were level by half-time when Villarreal made a costly mistake of their own. In the second half Mac Allister scored again to complete the comeback, and Florian Wirtz made it 4-2. Villarreal pulled a goal back late on, but Liverpool held on.
+The fightback started with an **Alexis Mac Allister** header, and Liverpool were level by half-time when Villarreal made a costly mistake of their own. In the second half Mac Allister scored again to complete the comeback, and Florian Wirtz made it 4-2. Villarreal pulled a goal back late on, but Liverpool held on.
 
 ## City in control
 

@@ -39,11 +39,11 @@ verification:
 
 China publishes its economic growth figures for July to September on Monday, with economists expecting a small pick-up that still leaves the world's second-largest economy short of Beijing's goal.
 
-Gross domestic product is forecast to have grown 4.4 per cent from a year earlier, after 4.3 per cent in the April-June quarter, and 1.1 per cent from the previous quarter, up from 0.9 per cent. That would sit below the 4.5 to 5.0 per cent growth target that analysts at the markets service Newsquawk cite for this year.
+Gross domestic product is forecast to have grown **4.4 per cent** from a year earlier, after 4.3 per cent in the April-June quarter, and 1.1 per cent from the previous quarter, up from 0.9 per cent. That would sit below the 4.5 to 5.0 per cent growth target that analysts at the markets service Newsquawk cite for this year.
 
-The September numbers released alongside are expected to show a split economy. Industrial production is forecast to rise by between 5.3 and 5.5 per cent, against 5.2 per cent in August, helped by resilient factories and exports. Retail sales, by contrast, are expected to grow only 0.7 per cent, after 0.4 per cent, and fixed-asset investment is forecast to shrink 7.5 per cent, deeper than the 7.2 per cent fall last time.
+The September numbers released alongside are expected to show a split economy. Industrial production is forecast to rise by between 5.3 and **5.5 per cent**, against 5.2 per cent in August, helped by resilient factories and exports. Retail sales, by contrast, are expected to grow only 0.7 per cent, after 0.4 per cent, and fixed-asset investment is forecast to shrink 7.5 per cent, deeper than the 7.2 per cent fall last time.
 
-The data will shape expectations for Tuesday, when the People's Bank of China sets its benchmark loan prime rates. Both the one-year rate of 3.00 per cent and the five-year rate of 3.50 per cent are expected to stay unchanged for a 17th straight month, though a weak set of figures could raise bets on more support later in the quarter.
+The data will shape expectations for Tuesday, when the People's Bank of China sets its benchmark loan prime rates. Both the one-year rate of **3.00 per cent** and the five-year rate of 3.50 per cent are expected to stay unchanged for a 17th straight month, though a weak set of figures could raise bets on more support later in the quarter.
 
 Elsewhere in Asia, the Bank of Korea meets on Thursday and is expected to keep its base rate at 3.00 per cent after quarter-point rises in July and August. On Friday, Japan reports September consumer prices, forecast to jump to between 2.8 and 3.0 per cent from 1.9 per cent as energy subsidies fade. It is the last major inflation reading before the Bank of Japan's October meeting, and a strong number would add to expectations of further tightening.
 

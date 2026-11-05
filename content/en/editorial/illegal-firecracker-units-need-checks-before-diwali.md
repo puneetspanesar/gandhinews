@@ -55,17 +55,17 @@ verification:
 
 The fire at Mohd Amiruddin Mian's house in Alampur village began at about 5:30 on Friday evening. Firecrackers being made inside caught fire and kept exploding for about two hours, long enough for the front of the house to collapse onto the road. When it was over, five people were dead: the 65-year-old owner, his two granddaughters aged 14 and 8, a 10-year-old boy from the neighbourhood and one person not yet identified.
 
-Then came the familiar sequence. The Siwan police chief suspended the local station house officer and the village chowkidar for negligence. A special team was formed. And the district magistrate, Vijay Prakash Meena, said something that should trouble every official in the state: the administration had received information that firecrackers were being made at the house.
+Then came the familiar sequence. The Siwan police chief suspended the local station house officer and the village chowkidar for negligence. A special team was formed. And the district magistrate, Vijay Prakash Meena, said something that should trouble every official in the state: the administration **had received information** that firecrackers were being made at the house.
 
 ## A pattern, not an accident
 
-Siwan is the latest entry in a long list. In April last year a blast flattened a firecracker godown near Deesa in Gujarat and killed 21 people, all of them workers and their families from Harda and Dewas in Madhya Pradesh. The godown's licence was for storage only, it had expired on December 31, 2024, and its renewal had been put on hold because the unit lacked proper facilities. It went on working anyway. The police said it had been stocking crackers illegally. In the same fortnight, eight people of one family died in a home unit in West Bengal's South 24 Parganas and eight more in Anakapalle in Andhra Pradesh, where a unit had stored far more raw material than it was allowed. In February 2024 a factory blast at Harda itself killed 13.
+Siwan is the latest entry in a long list. In April last year a blast flattened a firecracker godown near Deesa in Gujarat and killed **21 people**, all of them workers and their families from Harda and Dewas in Madhya Pradesh. The godown's licence was for storage only, it had expired on December 31, 2024, and its renewal had been put on hold because the unit lacked proper facilities. It went on working anyway. The police said it had been stocking crackers illegally. In the same fortnight, eight people of one family died in a home unit in West Bengal's South 24 Parganas and eight more in Anakapalle in Andhra Pradesh, where a unit had stored far more raw material than it was allowed. In February 2024 a factory blast at Harda itself killed 13.
 
 In each case the unit was known to someone: a licensing office, a police station, neighbours. What was missing was anyone obliged to act before the explosion.
 
 ## The fair objection
 
-There is a livelihood here, and a large one. Sivakasi alone makes about 90% of India's firecrackers, and the trade employs poor workers who earn as little as ₹300 a day. Crackdowns before Diwali can drive small makers underground, into homes and back rooms, where conditions are worse. The regulator, the Petroleum and Explosives Safety Organisation, has been reported to have 106 officers against 137 sanctioned posts to watch about 3.7 lakh hazardous units. Nobody can inspect everything.
+There is a livelihood here, and a large one. Sivakasi alone makes about **90%** of India's firecrackers, and the trade employs poor workers who earn as little as ₹300 a day. Crackdowns before Diwali can drive small makers underground, into homes and back rooms, where conditions are worse. The regulator, the Petroleum and Explosives Safety Organisation, has been reported to have 106 officers against 137 sanctioned posts to watch about 3.7 lakh hazardous units. Nobody can inspect everything.
 
 That is an argument for inspecting the right things, not for inspecting nothing. Siwan did not need a national survey. It needed a police station to act on what it had been told.
 

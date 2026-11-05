@@ -61,7 +61,7 @@ His doctors, Luigi Carbone and Stefano Margaritora, said blood tests and a chest
 
 The 71-year-old Pope, who was found to have lung adenocarcinoma during Tuesday's operation, has been working from his hospital room. On Friday he spoke by phone with Russian President Vladimir Putin.
 
-The Vatican said he expressed deep concern about the humanitarian situation in Oleshky, a Russian-occupied town on the eastern bank of the Dnipro river in Ukraine's Kherson region, and called for a local ceasefire so that aid could reach residents and civilians could be evacuated. About 2,000 people are believed to be trapped there, short of food and medicine.
+The Vatican said he expressed deep concern about the humanitarian situation in Oleshky, a Russian-occupied town on the eastern bank of the Dnipro river in Ukraine's Kherson region, and called for a local ceasefire so that aid could reach residents and civilians could be evacuated. About **2,000 people** are believed to be trapped there, short of food and medicine.
 
 Russia's state news agency TASS said Putin "provided the pope with detailed explanations of the Kyiv regime's responsibility". It was the Pope's second known call with Putin since he was elected in May 2025.
 

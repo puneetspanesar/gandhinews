@@ -48,7 +48,7 @@ verification:
     - "Published time estimated from PIB listing; exact release time not shown."
 ---
 
-India will host the International Committee of Legal Metrology (CIML) for the first time when its 61st meeting opens in New Delhi on October 26, the Ministry of Consumer Affairs, Food and Public Distribution said on Monday.
+India will host the International Committee of Legal Metrology (CIML) for the **first time** when its 61st meeting opens in New Delhi on October 26, the Ministry of Consumer Affairs, Food and Public Distribution said on Monday.
 
 The committee is the governing body of the International Organization of Legal Metrology (OIML), the intergovernmental body that writes model rules for the measuring instruments used in trade, health, safety and the environment. Its recommendations shape how countries certify everything from petrol pumps and shop scales to medical thermometers and electricity meters. The meeting will run until October 28.
 

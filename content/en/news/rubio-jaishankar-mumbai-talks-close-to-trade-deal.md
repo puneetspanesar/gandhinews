@@ -52,9 +52,9 @@ verification:
 
 US Secretary of State Marco Rubio said on Tuesday that India and the United States were on the verge of signing their long-delayed trade agreement, after a day of talks in Mumbai with External Affairs Minister S Jaishankar.
 
-"We're very, very close. I would say we're about as close as you can be without having executed the agreement," Rubio told reporters in the city. He said a small number of items remained open and that the deal would probably be completed shortly.
+"We're very, very close. I would say we're about as close as you can be without having executed the agreement," Rubio told reporters in the city. He said a **small number of items** remained open and that the deal would probably be completed shortly.
 
-Jaishankar said the discussions had ranged over trade, energy, technology and defence, as well as developments in the region. The two men met at the Taj Mahal Palace hotel, at the start of Rubio's second visit to India this year.
+Jaishankar said the discussions had ranged over **trade, energy, technology and defence**, as well as developments in the region. The two men met at the Taj Mahal Palace hotel, at the start of Rubio's second visit to India this year.
 
 ## A three-way meeting with the UAE
 
@@ -62,7 +62,7 @@ Later, Rubio and Jaishankar were joined by Sheikh Abdullah bin Zayed Al Nahyan, 
 
 ## Why the deal has dragged on
 
-The talks have been stuck for months over American tariffs and India's purchases of discounted Russian crude. Washington imposed tariffs of up to 50 per cent on most Indian goods in August 2025 after negotiations broke down. A framework agreed in February brought the rate down to 18 per cent, but progress stalled after that.
+The talks have been stuck for months over American tariffs and India's purchases of discounted Russian crude. Washington imposed tariffs of up to **50 per cent** on most Indian goods in August 2025 after negotiations broke down. A framework agreed in February brought the rate down to 18 per cent, but progress stalled after that.
 
 Earlier this month, Finance Minister Nirmala Sitharaman described the talks as having "plateaued". Last week Commerce Minister Piyush Goyal said the first part of the deal was in its final stages. New Delhi wants its final tariff rate to be comparable with those of competitors such as Vietnam.
 

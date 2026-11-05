@@ -57,17 +57,17 @@ verification:
     - "Asian markets had not opened at time of writing (about 4 am IST); no GIFT Nifty figure used."
 ---
 
-Oil prices rose about 2% on Monday after the Houthi attack on King Khalid International Airport in Riyadh renewed fears of supply disruption in West Asia, while Wall Street ended mixed as a slide in chip stocks offset gains in energy shares.
+Oil prices rose about **2%** on Monday after the Houthi attack on King Khalid International Airport in Riyadh renewed fears of supply disruption in West Asia, while Wall Street ended mixed as a slide in chip stocks offset gains in energy shares.
 
-Brent crude settled 1.84% higher at $106.65 a barrel. West Texas Intermediate, the US benchmark, gained 2.06% to $93.74. Prices also climbed after Russia struck Ukrainian power plants, despite President Donald Trump's announcement that the two countries had agreed to stop targeting each other's energy infrastructure. Mr Trump said he was considering joining Saudi Arabia in action against the Houthis.
+Brent crude settled **1.84%** higher at $106.65 a barrel. West Texas Intermediate, the US benchmark, gained 2.06% to $93.74. Prices also climbed after Russia struck Ukrainian power plants, despite President Donald Trump's announcement that the two countries had agreed to stop targeting each other's energy infrastructure. Mr Trump said he was considering joining Saudi Arabia in action against the Houthis.
 
 ## Chips pull the Nasdaq down
 
-The Dow Jones Industrial Average rose 195.60 points, or 0.38%, to 51,850.55, the only major index to finish higher. The S&P 500 slipped 0.06% to 7,807.24 after a week of record highs, and the Nasdaq Composite fell 0.44% to 27,245.90.
+The Dow Jones Industrial Average rose 195.60 points, or **0.38%**, to 51,850.55, the only major index to finish higher. The S&P 500 slipped 0.06% to 7,807.24 after a week of record highs, and the Nasdaq Composite fell 0.44% to 27,245.90.
 
-Semiconductor shares fell after China's ChangXin Memory Technologies reported progress on a new memory architecture. The Philadelphia Semiconductor Index dropped 2.7% and Micron lost 3.9%. Energy stocks in the S&P 500 gained 1.5%.
+Semiconductor shares fell after China's ChangXin Memory Technologies reported progress on a new memory architecture. The Philadelphia Semiconductor Index dropped **2.7%** and Micron lost 3.9%. Energy stocks in the S&P 500 gained 1.5%.
 
-The 10-year US Treasury yield stayed near 5.24%, close to its highest level since 2002. Beth Hammack, president of the Federal Reserve Bank of Cleveland, said inflation was spreading across the economy.
+The 10-year US Treasury yield stayed near **5.24%**, close to its highest level since 2002. Beth Hammack, president of the Federal Reserve Bank of Cleveland, said inflation was spreading across the economy.
 
 > I see inflation pressures as relatively broad-based rather than concentrated in one component.
 >

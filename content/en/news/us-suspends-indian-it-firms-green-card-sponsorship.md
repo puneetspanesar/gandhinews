@@ -99,7 +99,7 @@ The ministry said Indian professionals in the US are "highly educated and skille
 
 TCS said it would comply with any Labor Department directive. "Our PERM applications were in single digits in the last two years and hence we do not expect the suspension of the program to impact our workforce strategy and customer engagements," the company said on October 9. It repeated a plan to hire 15,000 more people in the US over five years.
 
-Microsoft, Adobe, Cognizant, Infosys, HCL Technologies, Wipro and Capgemini did not immediately respond to requests for comment. Indian IT shares rose on October 9, with TCS up about 5% and the Nifty IT index up 2%.
+Microsoft, Adobe, Cognizant, Infosys, HCL Technologies, Wipro and Capgemini did not immediately respond to requests for comment. Indian IT shares rose on October 9, with TCS up about **5%** and the Nifty IT index up 2%.
 
 ## What else is pending
 

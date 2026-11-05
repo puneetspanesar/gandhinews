@@ -51,29 +51,29 @@ verification:
 
 Indian share markets go into a short and crowded week on Monday. Exchanges will be shut on Tuesday, October 20, for Dussehra, and the four remaining sessions carry India's largest share sale, results from Infosys and about 30 other big companies, and oil that is hovering near $110 a barrel.
 
-The market starts from a stronger place than it has for some time. The Sensex rose 2,256.94 points, or 3.11%, last week to close at 74,729, and the Nifty gained 2.77% to 23,146, its second weekly rise after eight straight weeks of losses. The Nifty IT index jumped 11.7%, its biggest weekly gain in nearly 18 years, after TCS, HCLTech and Tech Mahindra reported solid numbers.
+The market starts from a stronger place than it has for some time. The Sensex rose 2,256.94 points, or **3.11%**, last week to close at 74,729, and the Nifty gained 2.77% to 23,146, its second weekly rise after eight straight weeks of losses. The Nifty IT index jumped 11.7%, its biggest weekly gain in nearly 18 years, after TCS, HCLTech and Tech Mahindra reported solid numbers.
 
 "The sustainability of this move remains to be established," said Ponmudi R, chief executive of Enrich Money.
 
 ## Banks first, then Jio
 
-Monday's trading will be the first chance to react to Saturday's bank results. HDFC Bank's profit rose 4.7%, ICICI Bank's 20% and Axis Bank's 38%. "Banking stocks will be in focus following the weekend results from HDFC Bank, ICICI Bank and Axis Bank," said Siddhartha Khemka, head of research for wealth management at Motilal Oswal Financial Services.
+Monday's trading will be the first chance to react to Saturday's bank results. HDFC Bank's profit rose **4.7%**, ICICI Bank's 20% and Axis Bank's 38%. "Banking stocks will be in focus following the weekend results from HDFC Bank, ICICI Bank and Axis Bank," said Siddhartha Khemka, head of research for wealth management at Motilal Oswal Financial Services.
 
 Bajaj Finance, UltraTech Cement, Hindustan Zinc and Union Bank of India report on Monday, the same day bidding closes for the Tonbo Imaging, Zetwerk, Bonfiglioli Transmissions and Sahajanand Medical issues.
 
-On Wednesday the Jio Platforms offer opens at ₹1,065 to ₹1,119 a share. At the top of the range it would raise about ₹30,213 crore and value the company at about ₹10.3 lakh crore. "The RIL group, after Jio's listing, will be India's largest conglomerate, based on listed market cap," the veteran banker Uday Kotak said. Paras Healthcare opens the same day.
+On Wednesday the Jio Platforms offer opens at **₹1,065** to ₹1,119 a share. At the top of the range it would raise about ₹30,213 crore and value the company at about ₹10.3 lakh crore. "The RIL group, after Jio's listing, will be India's largest conglomerate, based on listed market cap," the veteran banker Uday Kotak said. Paras Healthcare opens the same day.
 
 Infosys, Dr Reddy's, JSW Steel, IndusInd Bank, Tata Motors and Coforge report on Friday, with Eternal on Wednesday and HPCL, Havells and Swiggy on Thursday.
 
 ## Data and the RBI
 
-The minutes of the Reserve Bank's October policy meeting, at which it raised the repo rate to 5.50%, are due on Wednesday. They will show how worried members are about inflation, which reached 5.54% at the retail level in September while wholesale prices rose 11.39%. India's flash purchasing managers' indices for October are due on Friday.
+The minutes of the Reserve Bank's October policy meeting, at which it raised the repo rate to **5.50%**, are due on Wednesday. They will show how worried members are about inflation, which reached 5.54% at the retail level in September while wholesale prices rose 11.39%. India's flash purchasing managers' indices for October are due on Friday.
 
 ## Where the levels are
 
 Analysts expect the index to hold its ground rather than surge. "Nifty is expected to consolidate with a gradual recovery, although intermittent volatility may persist in broader markets," Khemka said. Nagaraj Shetti, senior technical research analyst at HDFC Securities, said: "Any weakness is likely to find support around 22,800 level."
 
-The rally has been narrow. Only 32% of Nifty stocks were trading above their 50-day moving average on October 16, and mid- and small-cap indices lagged the large caps.
+The rally has been narrow. Only **32%** of Nifty stocks were trading above their 50-day moving average on October 16, and mid- and small-cap indices lagged the large caps.
 
 The rupee, which gained 2% last week and was the best-performing emerging-market currency, could strengthen further. Amit Pabari, managing director of CR Forex Advisors, said a decisive break lower in the dollar "could lead to a further 50 to 75 paise appreciation, bringing 94 into focus."
 

@@ -36,11 +36,11 @@ verification:
     - "Cursor acquisition by SpaceX for $60 billion in August and the xAI-SpaceX merger as stated in the Bloomberg copy."
 ---
 
-OpenAI has hired Graham Seamans, who ran sales at Elon Musk's artificial intelligence company xAI, to lead sales for its cybersecurity business, the latest in a run of hires from Musk's camp.
+OpenAI has hired Graham Seamans, who ran sales at Elon Musk's artificial intelligence company xAI, to lead sales for its **cybersecurity business**, the latest in a run of hires from Musk's camp.
 
 Seamans had headed xAI's sales team since August 2025 and was part of its renewed effort to sell the Grok chatbot to Wall Street firms. He said he was joining the maker of ChatGPT to work on its cyber team. Before xAI he spent about eight years at the database company MongoDB, according to his LinkedIn profile.
 
-Musk merged xAI into SpaceX, and Seamans is one of several commercial staff OpenAI has drawn from SpaceX's AI units. Since September, it has also hired Brian McCarthy and Ismail Elmas in Europe. Both had worked at Cursor, the coding automation startup that SpaceX bought for $60 billion in August. OpenAI has also brought in Uday Ruddarraju and Brent Mayo from SpaceX's AI compute team.
+Musk merged xAI into SpaceX, and Seamans is one of several commercial staff OpenAI has drawn from SpaceX's AI units. Since September, it has also hired Brian McCarthy and Ismail Elmas in Europe. Both had worked at Cursor, the coding automation startup that SpaceX bought for **$60 billion** in August. OpenAI has also brought in Uday Ruddarraju and Brent Mayo from SpaceX's AI compute team.
 
 The hires come as OpenAI tries to widen its commercial base before a possible stock market listing, selling more to large companies and building new income streams such as advertising.
 

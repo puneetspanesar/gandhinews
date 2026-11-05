@@ -41,7 +41,7 @@ The High Court in Kochi on Tuesday refused to stay an order directing the Vigila
 
 A Division Bench of Justices K Natarajan and Johnson John heard the family's appeals against a Single Bench order passed on Friday in the CMRL-Exalogic case. That order told the bureau to file an FIR under the Prevention of Corruption Act on the basis of information shared by the Enforcement Directorate, and quashed the state government's decision to set up a Special Investigation Team for a preliminary inquiry.
 
-By the time the appeals came up, the bureau had already registered two FIRs, which left little for an interim stay to hold back. The bench reserved its order on whether the appeals can be entertained at all.
+By the time the appeals came up, the bureau had already registered **two FIRs**, which left little for an interim stay to hold back. The bench reserved its order on whether the appeals can be entertained at all.
 
 Counsel for the family argued that the original writ petition was a public interest case in disguise and should not have been admitted, calling the petitioner a "meddlesome interloper" with no standing.
 

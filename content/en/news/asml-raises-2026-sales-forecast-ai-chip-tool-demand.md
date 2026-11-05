@@ -37,14 +37,14 @@ verification:
 
 ASML, the Dutch company whose machines are needed to make the most advanced computer chips, raised its sales forecast for 2026 on Wednesday and said demand driven by artificial intelligence will outrun what it can build for at least the next two years.
 
-The company now expects sales of €44 billion to €45 billion this year, lifting the bottom of the range from €43 billion. Third-quarter net sales came to €11.66 billion, close to the €11.7 billion analysts had expected on average. ASML sold 17 of its extreme ultraviolet (EUV) machines in the quarter, and revenue from servicing and upgrading installed tools rose 19% as chipmakers tried to squeeze more output from what they have.
+The company now expects sales of €44 billion to €45 billion this year, lifting the bottom of the range from €43 billion. Third-quarter net sales came to **€11.66 billion**, close to the €11.7 billion analysts had expected on average. ASML sold 17 of its extreme ultraviolet (EUV) machines in the quarter, and revenue from servicing and upgrading installed tools rose 19% as chipmakers tried to squeeze more output from what they have.
 
 "Customers are asking us every single day to get more tools," chief executive Christophe Fouquet said.
 
 ## Capacity still short
 
-ASML had already said it would raise capacity for its standard EUV machines by 30% next year, to about 85 units a year. Fouquet said that would not be the end of it. "We are investigating ways to increase capacity for 2028 beyond the 30% increase we previously communicated," he said. Even so, the company said its current plans will not fully meet demand in 2027 and 2028.
+ASML had already said it would raise capacity for its standard EUV machines by 30% next year, to about 85 units a year. Fouquet said that would not be the end of it. "We are investigating ways to increase capacity for 2028 beyond the 30% increase we previously communicated," he said. Even so, the company said its current plans **will not fully meet demand** in 2027 and 2028.
 
-Chief financial officer Roger Dassen put overall growth this year at 36% over 2025. "So the EUV business grows over 45% this year," he said.
+Chief financial officer Roger Dassen put overall growth this year at **36%** over 2025. "So the EUV business grows over 45% this year," he said.
 
-South Korea was ASML's biggest market for new systems in the quarter, followed by Taiwan and China. China is expected to make up about 20% of the company's revenue this year.
+South Korea was ASML's biggest market for new systems in the quarter, followed by Taiwan and China. China is expected to make up about **20%** of the company's revenue this year.

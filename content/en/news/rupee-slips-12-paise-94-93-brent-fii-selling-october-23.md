@@ -46,10 +46,10 @@ The rupee fell 12 paise to close at a provisional 94.93 against the US dollar on
 
 At the interbank foreign exchange market, the currency opened at 94.78 and touched a low of 94.98 during the session. It had closed at 94.81 on Thursday after a 43-paise fall. Over the week, the rupee ended almost where it started, 4 paise weaker than its close of 94.89 on October 16.
 
-Brent crude futures rose 1.01% to $114.31 a barrel during the day, as attacks in Saudi Arabia and the risk of a wider conflict involving Iran kept the oil market tense. India buys most of its oil abroad, so dearer crude raises demand for dollars from importers. The dollar index, which tracks the US currency against six major peers, was 0.12% higher at 101.73.
+Brent crude futures rose **1.01% to $114.31** a barrel during the day, as attacks in Saudi Arabia and the risk of a wider conflict involving Iran kept the oil market tense. India buys most of its oil abroad, so dearer crude raises demand for dollars from importers. The dollar index, which tracks the US currency against six major peers, was 0.12% higher at 101.73.
 
 "We expect the rupee to trade with a slight negative bias on elevated crude oil prices," said Anuj Choudhary, research analyst at Mirae Asset Sharekhan. "Selling FIIs may also pressurise the rupee," he added, putting the likely range at 94.65 to 95.25 to the dollar.
 
-Foreign institutional investors sold shares worth ₹3,458.70 crore on Thursday, according to exchange data. In the stock market on Friday, the Sensex fell 125.56 points to 73,123.83 and the Nifty 87.65 points to 22,600.
+Foreign institutional investors sold shares worth **₹3,458.70 crore** on Thursday, according to exchange data. In the stock market on Friday, the Sensex fell 125.56 points to 73,123.83 and the Nifty 87.65 points to 22,600.
 
 The Reserve Bank of India's weekly figures for foreign exchange reserves, which have been falling as the central bank supports the currency, are due later in the evening.

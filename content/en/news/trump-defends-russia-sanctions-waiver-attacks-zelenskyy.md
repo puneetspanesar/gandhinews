@@ -43,7 +43,7 @@ verification:
 
 US President Donald Trump has defended his decision to waive a raft of Russia sanctions days before they were due to take effect, and turned on Volodymyr Zelenskyy, saying the Ukrainian leader "doesn't want to end this war".
 
-In a post on Truth Social, Trump said he was negotiating peace and did not want to drive Moscow "foolishly" away "from the bargaining table". He pointed to Ukraine's drone strikes on Russian diesel refineries, which he said were hurting global diesel markets.
+In a post on Truth Social, Trump said he was negotiating peace and did not want to drive Moscow "foolishly" away "from the bargaining table". He pointed to Ukraine's drone **strikes on Russian diesel refineries**, which he said were hurting global diesel markets.
 
 The waivers, announced on Friday, followed Trump's October 9 announcement that Russia would supply more than 300,000 tonnes of diesel to US and world markets. Fuel prices have spiked since the US and Israel went to war with Iran in late February and Iran effectively closed the Strait of Hormuz.
 

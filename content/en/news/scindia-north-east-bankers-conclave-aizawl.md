@@ -35,7 +35,7 @@ verification:
     - "Figures (branches, ATMs, village coverage, ₹40,000 crore investment) are as stated by the minister/ministry; not independently checked."
 ---
 
-Banks in the North East lend only ₹47 for every ₹100 they collect in deposits, Union Minister for Development of North Eastern Region Jyotiraditya Scindia told bankers in Aizawl on Tuesday, urging them to put more of the region's savings to work locally.
+Banks in the North East lend only **₹47** for every ₹100 they collect in deposits, Union Minister for Development of North Eastern Region Jyotiraditya Scindia told bankers in Aizawl on Tuesday, urging them to put more of the region's savings to work locally.
 
 Opening the third North East Bankers' Conclave at Mizoram University, Scindia said the credit-deposit ratio should reflect lending for development, with wider access to credit for entrepreneurs, farmers, women and small businesses. He called for a credit-risk framework designed for the North East, with more flexible collateral rules because much land in the region is owned by communities rather than individuals.
 
@@ -45,6 +45,6 @@ Mizoram Chief Minister Lalduhoma attended, along with DoNER Secretary Srinivas K
 >
 > Source: Jyotiraditya Scindia, Union DoNER Minister, on X, October 13, 2026
 
-Scindia said about 73% of the targets set at the first conclave had been met over five years. He said 131 new bank branches and 126 ATMs had been opened, and that the region now has 6,674 branches and 5,823 ATMs. Banking touchpoints reach about 99.93% of villages, and the minimum population for opening a physical branch has been cut from 3,000 to 2,000.
+Scindia said about **73%** of the targets set at the first conclave had been met over five years. He said 131 new bank branches and 126 ATMs had been opened, and that the region now has 6,674 branches and 5,823 ATMs. Banking touchpoints reach about 99.93% of villages, and the minimum population for opening a physical branch has been cut from 3,000 to 2,000.
 
-Between April and June, the DoNER Secretary held talks with each state, which then set their own credit targets. Scindia asked bankers to "turn financial inclusion into an economic opportunity". He said this was his 35th visit to the North East in about 32 months as minister.
+Between April and June, the DoNER Secretary held talks with each state, which then set their own credit targets. Scindia asked bankers to "turn financial inclusion into an economic opportunity". He said this was his 35th visit to the North East in about **32 months** as minister.

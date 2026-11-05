@@ -56,6 +56,6 @@ Their advocate, Abhik Chimni, had argued that the magistrate's order of October 
 
 The pair have been held since October 13, when they climbed the gate of Jantar Mantar a day after it was struck off the list of protest sites. On Monday Special Executive Magistrate Ritu Raj refused their sureties and extended their custody to Wednesday, saying their conduct "shows no respect for law". The result of Wednesday afternoon's hearing had not been made public by about 3:45 pm.
 
-The same judge also agreed to hear urgently a plea by AISA president Neha Bora against a police notice asking her to show why she should not sign a ₹10,000 bond "for keeping peace". She was detained on October 16 on her way to the party's "Lehra Do Tiranga" march and released the next day.
+The same judge also agreed to hear urgently a plea by AISA president Neha Bora against a police notice asking her to show why she should not sign a **₹10,000** bond "for keeping peace". She was detained on October 16 on her way to the party's "Lehra Do Tiranga" march and released the next day.
 
 "Saurav and Ashutosh should not spend a single minute behind bars," CJP legal affairs head Ratna Singh wrote on X on Tuesday.

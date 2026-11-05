@@ -35,7 +35,7 @@ verification:
     - "Single source: PTI via ThePrint, 10:47 pm, based on a J&K Police spokesman's statement. No specific incident or threat cited as the reason for the meeting; none implied."
 ---
 
-The head of the police in Kashmir, Inspector General Sujit Kumar, on Saturday told his officers to step up intelligence-gathering and act firmly against overground workers (OGWs), hybrid terrorists and anyone else threatening peace in the valley, as he reviewed security arrangements ahead of the winter.
+The head of the police in Kashmir, Inspector General **Sujit Kumar**, on Saturday told his officers to step up intelligence-gathering and act firmly against overground workers (OGWs), hybrid terrorists and anyone else threatening peace in the valley, as he reviewed security arrangements ahead of the winter.
 
 The meeting, held in hybrid mode, was attended by all three range Deputy Inspectors General and the Senior Superintendents of Police of every district in the Kashmir Zone, a police spokesman said.
 
@@ -43,6 +43,6 @@ Kumar asked officers to make police nakas, or checkpoints, "more dynamic, effect
 
 On investigations, he told district chiefs to ensure the "timely investigation and disposal of cases within the stipulated 60/90-day timelines" laid down under the new criminal laws.
 
-With the cold months approaching, the IGP also asked officers to make sure that heating and other essential facilities were in place for personnel at police stations and other police establishments.
+With the cold months approaching, the IGP also asked officers to make sure that heating and other **essential facilities** were in place for personnel at police stations and other police establishments.
 
 The spokesman did not link the review to any particular incident. The meeting covered security preparedness and policing measures across the zone as a whole, rather than any single district.

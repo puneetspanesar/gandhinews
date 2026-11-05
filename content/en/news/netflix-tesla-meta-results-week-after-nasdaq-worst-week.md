@@ -53,12 +53,12 @@ Netflix goes first, on Tuesday, October 20, shortly after the market closes at a
 
 ## A nervous backdrop
 
-The results come after a week in which the Nasdaq Composite fell about 4.5%, dragged down by an eight-day slide in chip stocks and worries about how much debt is being used to fund AI data centres. Even so, the index is still up about 12.5% for the year, so expectations remain high.
+The results come after a week in which the Nasdaq Composite fell about **4.5%**, dragged down by an eight-day slide in chip stocks and worries about how much debt is being used to fund AI data centres. Even so, the index is still up about 12.5% for the year, so expectations remain high.
 
-Tesla has already said it delivered 486,532 vehicles in the July-September quarter. Its shares fell 2.1% on Friday after an early rise on its Roadster event faded.
+Tesla has already said it delivered 486,532 vehicles in the July-September quarter. Its shares fell **2.1%** on Friday after an early rise on its Roadster event faded.
 
 "Earnings are important, but the market is concerned that 2026 will mark the peak for earnings growth," said Michael O'Rourke, chief market strategist at Jones Trading.
 
-The season has started unevenly. Aluminium maker Alcoa rose 2.6% on Friday after better-than-expected quarterly profit, and Truist Financial gained after beating income forecasts.
+The season has started unevenly. Aluminium maker Alcoa rose **2.6%** on Friday after better-than-expected quarterly profit, and Truist Financial gained after beating income forecasts.
 
 For Indian markets, the timing means the US numbers will arrive overnight, before trading opens in Mumbai. A strong set of results could steady technology sentiment ahead of Infosys's report on Friday; a weak one would add to last week's pressure.

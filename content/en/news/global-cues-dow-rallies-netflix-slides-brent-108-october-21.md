@@ -64,19 +64,19 @@ verification:
 
 Wall Street ended Tuesday with a broad rally that left the biggest technology names behind, and Indian investors return from the Dussehra holiday on Wednesday to a mixed set of signals: firmer US shares and slightly cheaper oil, but a heavy sell-off in Asian chip stocks and a slide in Netflix after hours.
 
-The Dow Jones Industrial Average rose 529.85 points, or 1.02%, to 52,495.88, with 3M up 5.78%. The S&P 500 added 0.28% to 7,712.57. The Nasdaq Composite slipped 0.02% to 26,424.82, and the Russell 2000 index of smaller companies jumped 1.65% to 2,773.42. Health care, real estate, utilities and financial shares led the gains.
+The Dow Jones Industrial Average rose **529.85 points, or 1.02%, to 52,495.88**, with 3M up 5.78%. The S&P 500 added 0.28% to 7,712.57. The Nasdaq Composite slipped 0.02% to 26,424.82, and the Russell 2000 index of smaller companies jumped 1.65% to 2,773.42. Health care, real estate, utilities and financial shares led the gains.
 
 ## Why yields mattered
 
-The rally rested on lower borrowing costs. US housing starts fell 5.2% in September and pending home sales dropped 7.3%, and the 10-year Treasury yield eased three basis points to 5.12%. The 30-year yield fell six basis points to 5.42%. Shares that do well when rates fall, from property trusts to regional lenders, moved up the most.
+The rally rested on lower borrowing costs. US housing starts fell **5.2%** in September and pending home sales dropped 7.3%, and the 10-year Treasury yield eased three basis points to 5.12%. The 30-year yield fell six basis points to 5.42%. Shares that do well when rates fall, from property trusts to regional lenders, moved up the most.
 
-Technology did not join in. Chip-equipment makers Lam Research, KLA and Arm fell about 3% each, and Meta lost 1.59% for a fifth straight fall ahead of its results on Wednesday. Netflix closed 1.7% lower and then fell about 6% after hours when it cut its advertising revenue forecast and announced job cuts. Co-chief executive Greg Peters told investors: "We are currently a bit behind our aggressive target for the year."
+Technology did not join in. Chip-equipment makers Lam Research, KLA and Arm fell about 3% each, and Meta lost 1.59% for a fifth straight fall ahead of its results on Wednesday. Netflix closed 1.7% lower and then fell about **6% after hours** when it cut its advertising revenue forecast and announced job cuts. Co-chief executive Greg Peters told investors: "We are currently a bit behind our aggressive target for the year."
 
-Other results after the bell were stronger. Super Micro Computer rose about 12.7% after raising its revenue outlook, and SpaceX and Capital One gained more than 4%.
+Other results after the bell were stronger. Super Micro Computer rose about **12.7%** after raising its revenue outlook, and SpaceX and Capital One gained more than 4%.
 
 ## Oil, gold and the dollar
 
-Brent crude for December settled 0.69% lower at $108.79 a barrel after touching $111.99 during the day, as reports of Iranian attacks on tankers in the Strait of Hormuz kept traders nervous. US crude ended at $98.28. Gold for December eased 0.42% to about $4,143 an ounce, and the dollar index fell 0.26% to 101.71.
+Brent crude for December settled **0.69%** lower at $108.79 a barrel after touching $111.99 during the day, as reports of Iranian attacks on tankers in the Strait of Hormuz kept traders nervous. US crude ended at $98.28. Gold for December eased 0.42% to about $4,143 an ounce, and the dollar index fell 0.26% to 101.71.
 
 ## Asia this morning
 

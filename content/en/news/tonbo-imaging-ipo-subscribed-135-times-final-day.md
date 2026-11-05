@@ -44,12 +44,12 @@ verification:
 
 Tonbo Imaging, the Bengaluru maker of thermal cameras and weapon sights for the armed forces, drew bids for more than 135 times the shares on offer in its initial public offer, which closed on Monday.
 
-By 4:40 pm on the final day, the ₹852.18 crore issue had been subscribed 135.68 times. Demand was led by qualified institutional buyers, who bid for 293.56 times the shares reserved for them. Non-institutional investors, mostly wealthy individuals, bid 170.81 times their quota, retail investors 30.67 times and employees 53.82 times.
+By 4:40 pm on the final day, the ₹852.18 crore issue had been subscribed **135.68 times**. Demand was led by qualified institutional buyers, who bid for 293.56 times the shares reserved for them. Non-institutional investors, mostly wealthy individuals, bid 170.81 times their quota, retail investors 30.67 times and employees 53.82 times.
 
-The issue was priced at ₹665 to ₹700 a share and was entirely an offer for sale of about 1.22 crore shares by existing investors, so the company itself raises no new money. Its promoters are Ankit Kumar, Arvind Kondangi Lakshmikumar and Cecilia D'Souza. Founded in 2003, Tonbo designs and makes electro-optic and infrared systems, missile seekers and targeting equipment, and says it sells in 24 countries.
+The issue was priced at **₹665** to ₹700 a share and was entirely an offer for sale of about 1.22 crore shares by existing investors, so the company itself raises no new money. Its promoters are Ankit Kumar, Arvind Kondangi Lakshmikumar and Cecilia D'Souza. Founded in 2003, Tonbo designs and makes electro-optic and infrared systems, missile seekers and targeting equipment, and says it sells in 24 countries.
 
 Shares are due to be allotted on Wednesday, October 21, and to list on the BSE and NSE on Friday, October 23.
 
 Three other issues also closed on Monday. Bonfiglioli Transmissions, the gearbox maker, was subscribed 46.04 times on the final day, Sahajanand Medical Technologies, which makes heart stents, 14.21 times, and Zetwerk Manufacturing 3.10 times.
 
-The strong demand for Tonbo comes days before the ₹30,213 crore Jio Platforms offer opens on Wednesday, the largest share sale India has seen, which will test how much money investors have left for new issues.
+The strong demand for Tonbo comes days before the **₹30,213 crore** Jio Platforms offer opens on Wednesday, the largest share sale India has seen, which will test how much money investors have left for new issues.

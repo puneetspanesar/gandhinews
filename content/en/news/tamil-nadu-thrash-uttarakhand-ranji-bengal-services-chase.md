@@ -57,7 +57,7 @@ verification:
     - "Uttarakhand first-innings overs differ between Khel Now index and page; only totals used."
 ---
 
-Tamil Nadu wrapped up the first result of Tuesday in the Ranji Trophy, beating Uttarakhand by an innings and 66 runs in Chennai on the third day of round two. Off-spinner R Sai Kishore took 6 for 34 as Uttarakhand, made to follow on after being bowled out for 134, folded again for 113.
+Tamil Nadu wrapped up the first result of Tuesday in the Ranji Trophy, beating Uttarakhand by an innings and **66 runs** in Chennai on the third day of round two. Off-spinner R Sai Kishore took 6 for 34 as Uttarakhand, made to follow on after being bowled out for 134, folded again for 113.
 
 Captain S Ajith Ram backed him up with 4 for 33. Tamil Nadu had made 313 in their only innings at the MA Chidambaram Stadium, and the spinners did the rest.
 

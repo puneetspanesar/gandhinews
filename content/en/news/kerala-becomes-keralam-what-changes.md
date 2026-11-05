@@ -80,7 +80,7 @@ The Act changes the state's name in the First Schedule of the Constitution, acco
 
 ## How the name was changed
 
-Article 3 of the Constitution lets Parliament alter the name of a state by law. Such a Bill needs the President's recommendation, and the President must first refer it to the state legislature for its views, Onmanorama explained on August 26.
+**Article 3** of the Constitution lets Parliament alter the name of a state by law. Such a Bill needs the President's recommendation, and the President must first refer it to the state legislature for its views, Onmanorama explained on August 26.
 
 ```timeline
 {"title":"From Kerala to Keralam","items":[{"date":"Jun 24, 2024","text":"Kerala Assembly passes a resolution seeking the name Keralam; the state sends it to the Centre"},{"date":"2026","text":"President refers the Bill to the Kerala Assembly, which backs it unanimously (date not confirmed)"},{"date":"Aug 10, 2026","text":"Bill introduced in Lok Sabha by the Home Ministry"},{"date":"Aug 11, 2026","text":"Lok Sabha passes the Bill by voice vote"},{"date":"Aug 12, 2026","text":"Rajya Sabha passes the Bill by voice vote"},{"date":"By Aug 18, 2026","text":"President Droupadi Murmu gives assent"},{"date":"Aug 25, 2026","text":"Home Ministry notification brings the Act into force"}]}

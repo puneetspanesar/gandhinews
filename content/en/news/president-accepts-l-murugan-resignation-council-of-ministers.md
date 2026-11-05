@@ -53,7 +53,7 @@ President Droupadi Murmu has accepted the resignation of L Murugan from the Unio
 
 In a brief communique, the President's Secretariat said the President, "as advised by the Prime Minister", accepted the resignation with immediate effect under clause (2) of Article 75 of the Constitution.
 
-Murugan was Minister of State for Information and Broadcasting and for Parliamentary Affairs. No one has yet been named to take over either portfolio.
+Murugan was Minister of State for **Information and Broadcasting** and for Parliamentary Affairs. No one has yet been named to take over either portfolio.
 
 On Tuesday he wrote to Prime Minister Narendra Modi asking to be relieved from the government and from the Rajya Sabha so that he could work full-time for the BJP in Tamil Nadu ahead of the 2029 Lok Sabha election. "I want to strengthen our party by going to villages, streets and everywhere else," he told reporters. He called his time in government the greatest honour of his life and summed up his approach as "Nation First. Party Next. Self Last."
 

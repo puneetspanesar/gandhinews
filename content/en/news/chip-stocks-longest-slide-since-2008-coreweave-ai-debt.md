@@ -55,12 +55,12 @@ verification:
 
 Shares of chipmakers fell for an eighth straight session on Friday, their longest losing streak since October 2008, as investors grew more anxious about the debt being raised to pay for artificial intelligence.
 
-The Philadelphia Semiconductor Index, which tracks 30 of the biggest chip companies listed in the US, dropped 3.83%, and every one of its members ended the day lower. Over the week it lost 11.4%, its worst five days since early April 2025. The fall dragged the Nasdaq Composite to its worst week since late June.
+The Philadelphia Semiconductor Index, which tracks 30 of the biggest chip companies listed in the US, dropped **3.83%**, and every one of its members ended the day lower. Over the week it lost 11.4%, its worst five days since early April 2025. The fall dragged the Nasdaq Composite to its worst week since late June.
 
-Two worries fed the selling. The first is competition from China in memory chips, which flared up earlier in the week after ChangXin Memory Technologies reported progress on a new memory design. Memory makers took the heaviest losses: Micron fell 14.6% over the week, and in Seoul, Samsung Electronics lost 17.8% and SK Hynix 24.3%.
+Two worries fed the selling. The first is competition from China in memory chips, which flared up earlier in the week after ChangXin Memory Technologies reported progress on a new memory design. Memory makers took the heaviest losses: Micron fell **14.6%** over the week, and in Seoul, Samsung Electronics lost 17.8% and SK Hynix 24.3%.
 
-The second is how the AI build-out is being paid for. CoreWeave, which rents out computing power for AI, fell 11.91% to $61.39 on Friday, and its bonds sold off too. One of its notes due in 2032 was yielding about 14%, and the cost of insuring its debt against default rose sharply. Investors are asking whether data-centre spending financed by borrowing will earn enough to pay that debt back.
+The second is how the AI build-out is being paid for. CoreWeave, which rents out computing power for AI, fell **11.91%** to $61.39 on Friday, and its bonds sold off too. One of its notes due in 2032 was yielding about 14%, and the cost of insuring its debt against default rose sharply. Investors are asking whether data-centre spending financed by borrowing will earn enough to pay that debt back.
 
-Higher US interest rates add to the pressure. The 10-year Treasury yield is near 5.1%, and hot inflation figures last week revived talk of another increase by the Federal Reserve.
+Higher US interest rates add to the pressure. The 10-year Treasury yield is near **5.1%**, and hot inflation figures last week revived talk of another increase by the Federal Reserve.
 
 The slide matters for Asia when markets reopen on Monday. Seoul and Taipei have large chip stocks, and Indian IT shares, which rallied on Friday on strong results, trade partly on sentiment about global technology spending.
