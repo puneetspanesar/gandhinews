@@ -5,7 +5,7 @@ type: news
 section: economy
 format_label: "Economy / RBI"
 topics: [rbi-interest-rates]
-title: "RBI's tighter daily cash reserve rule for banks kicks in from today"
+title: "RBI's tighter daily cash reserve rule for banks kicks in from October 16"
 standfirst: "From the fortnight starting Friday, banks must keep at least 99% of their required CRR balance with the RBI every day, instead of 90%. The aim is to soak up surplus cash."
 published: 2026-10-16T07:00:00+05:30
 location: Mumbai
@@ -48,7 +48,7 @@ verification:
 
 A tighter rule on how much cash banks must keep with the Reserve Bank of India every day takes effect on Friday, the start of a new reporting fortnight.
 
-Banks have to hold a fixed share of their deposits with the RBI as the cash reserve ratio (CRR), currently 3%, and they earn no interest on it. The requirement is measured as an average over a fortnight. Until now, a bank could let its balance fall to 90% of the requirement on any given day, as long as the average held. From today, that daily floor is 99%.
+Banks have to hold a fixed share of their deposits with the RBI as the cash reserve ratio (CRR), currently 3%, and they earn no interest on it. The requirement is measured as an average over a fortnight. Until now, a bank could let its balance fall to 90% of the requirement on any given day, as long as the average held. From Friday, October 16, that daily floor is 99%.
 
 ## Why it matters
 

@@ -6,7 +6,7 @@ type: news
 section: politics
 format_label: "राजनीति / विपक्ष"
 topics: [election-commission, electoral-rolls-sir]
-title: "'वोट चोरी' के ख़िलाफ़ आज रामलीला मैदान में इंडिया गठबंधन, पुलिस ने रैली को मंज़ूरी दी, मार्च को नहीं"
+title: "'वोट चोरी' के ख़िलाफ़ 1 नवंबर को रामलीला मैदान में इंडिया गठबंधन, पुलिस ने रैली को मंज़ूरी दी, मार्च को नहीं"
 standfirst: "विपक्षी नेता मुख्य चुनाव आयुक्त ज्ञानेश कुमार के इस्तीफ़े की मांग को लेकर दोपहर 12 बजे कनॉट प्लेस से मैदान तक मार्च की तैयारी में हैं। 4,000 से ज़्यादा पुलिसकर्मी तैनात रहेंगे और मध्य दिल्ली में सुबह 10 से शाम 5 बजे तक रूट बदले जाएंगे।"
 published: 2026-11-01T05:40:00+05:30
 location: नई दिल्ली
@@ -20,7 +20,7 @@ hero:
   subjects: ["Rahul Gandhi", "Ramlila Maidan"]
   alt: "लोकसभा में नेता प्रतिपक्ष राहुल गांधी और नई दिल्ली का रामलीला मैदान"
   overlay:
-    value: "आज 'चलो दिल्ली'"
+    value: "'चलो दिल्ली' का दिन"
 related: [india-bloc-mock-parliament-impeaches-cec-gyanesh-kumar, congress-ramlila-maidan-rally-november-1-police-noc, rahul-gandhi-thanks-bjp-promoting-november-1-rally, sirsa-rahul-november-1-rally-1984-sikhs]
 seo:
   description: "सीईसी ज्ञानेश कुमार के ख़िलाफ़ इंडिया गठबंधन की रामलीला मैदान रैली 1 नवंबर को सुबह 10 से शाम 5 बजे तक। मिंटो रोड से दोपहर 12 बजे मार्च, 4,000 पुलिसकर्मी तैनात, मध्य दिल्ली में ट्रैफ़िक डायवर्जन।"

@@ -5,7 +5,7 @@ type: news
 section: economy
 format_label: "Economy / Markets"
 topics: [economy, rupee-forex]
-title: "Brent near $110 and a Nasdaq slide set a cautious tone for Indian shares on Monday"
+title: "Brent near $110 and a Nasdaq slide set a cautious tone for Indian shares on October 19"
 standfirst: "Oil jumped almost 4% on Friday after Indian markets had shut, and a sell-off in chip and AI stocks gave the Nasdaq its worst week since June. A weekend of tanker attacks in the Gulf adds to the risk."
 published: 2026-10-18T05:00:00+05:30
 location: Mumbai
@@ -19,7 +19,7 @@ hero:
   subjects: ["Nasdaq MarketSite"]
   alt: "The Nasdaq MarketSite building in Times Square, New York"
   overlay:
-    value: "Oil up, tech down, Monday on edge"
+    value: "Oil up, tech down, markets on edge"
 related: [sensex-nifty-it-rally-weekly-gain-october-16, gold-silver-crude-prices-october-16, irgc-supertanker-mine-fire-hormuz-closed, trump-waives-russia-sanctions-law-india-tariff-threat, rupee-sixth-gain-forex-reserves-fall-726-billion, hdfc-bank-q2-profit-rises-4-7-per-cent-jagdishan-last, icici-bank-q2-profit-rises-20-per-cent-loans-30]
 seo:
   description: "Brent crude closed at $109.86 and the Nasdaq had its worst week since June on Friday, setting a cautious tone for Sensex and Nifty when trading resumes on Monday."

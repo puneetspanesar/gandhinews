@@ -5,7 +5,7 @@ type: news
 section: states
 format_label: "States / Delhi"
 topics: [states]
-title: "Delhi's air reads AQI 189 on Sunday morning, at the top of the 'moderate' band"
+title: "Delhi's air reads AQI 189 on the morning of October 18, at the top of the 'moderate' band"
 standfirst: "The 9 am reading was 30 points worse than Saturday's 4 pm average and a short step from the 'poor' category."
 published: 2026-10-18T10:55:00+05:30
 location: New Delhi
@@ -19,7 +19,7 @@ hero:
   subjects: ["New Delhi"]
   alt: "A hazy morning over New Delhi"
   overlay:
-    value: "AQI 189 at 9 am"
+    value: "AQI 189 on October 18"
 related: [delhi-aqi-159-moderate-cpcb-saturday-grap, delhi-air-turns-poor-again-anand-vihar-dry-week]
 seo:
   description: "Delhi's AQI was 189 at 9 am on Sunday, October 18, in the upper end of the 'moderate' band and up from 159 on Saturday afternoon, per CPCB's Sameer app."

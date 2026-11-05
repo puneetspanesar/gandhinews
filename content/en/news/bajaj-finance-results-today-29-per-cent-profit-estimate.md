@@ -5,7 +5,7 @@ type: news
 section: economy
 format_label: "Economy / Results"
 topics: [economy]
-title: "Bajaj Finance is expected to report a 29% jump in profit today, but margins are the worry"
+title: "Bajaj Finance was expected to report a 29% jump in profit on October 19, with margins the worry"
 standfirst: "Brokerages see the consumer lender earning about ₹6,383 crore in the September quarter on loan growth above 25%. Higher borrowing costs after the RBI's rate rise could squeeze its margin."
 published: 2026-10-19T05:15:00+05:30
 location: Pune
@@ -22,7 +22,7 @@ hero:
     value: "Bajaj Finance: 29% profit rise expected"
 related: [bajaj-finance-ultratech-hindustan-zinc-results-monday, bajaj-housing-finance-q2-profit-rises-18-per-cent, results-week-ahead-infosys-kotak-bajaj-finance-jio-ipo, four-day-week-dussehra-nifty-outlook-jio-ipo-infosys, monday-open-gift-nifty-brent-108-iran-hormuz-offer]
 seo:
-  description: "Bajaj Finance Q2 FY27 results today: brokerages expect net profit of about ₹6,383 crore, up 29%, and NII up 24%. Margins, credit costs and Rajeev Jain's outlook are in focus."
+  description: "Bajaj Finance Q2 FY27 results on October 19, 2026: brokerages expect net profit of about ₹6,383 crore, up 29%, and NII up 24%. Margins, credit costs and Rajeev Jain's outlook are in focus."
 sources:
   - title: "Bajaj Finance Q2 preview: Profit may jump 29%, NII 24% as strong loan growth lifts earnings"
     publisher: "The Economic Times (via inkl)"

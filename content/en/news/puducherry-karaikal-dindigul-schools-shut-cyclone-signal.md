@@ -5,7 +5,7 @@ type: news
 section: states
 format_label: "States / Puducherry"
 topics: []
-title: "Schools shut in Puducherry, Karaikal and Dindigul on Monday as cyclone signal goes up"
+title: "Schools shut in Puducherry, Karaikal and Dindigul on October 26 as cyclone signal goes up"
 standfirst: "Distant warning signal No. 1 was hoisted at Puducherry port on Sunday as the Bay of Bengal system deepened, and more districts may close schools depending on the weather."
 published: 2026-10-25T21:20:00+05:30
 location: Puducherry

@@ -21,7 +21,7 @@ hero:
     value: "Gold near ₹1.5 lakh per 10 g"
 related: [oil-jumps-after-saudi-airport-attacks-wall-street-mixed, rupee-near-97-as-crude-stays-above-100, festive-ecommerce-sales-24000-crore-first-two-days]
 seo:
-  description: "Gold prices today: MCX gold slipped towards ₹1.5 lakh per 10 grams on October 12, 2026, ahead of US inflation data; 24K gold ₹1,50,700 in Delhi."
+  description: "Gold prices: MCX gold slipped towards ₹1.5 lakh per 10 grams on October 12, 2026, ahead of US inflation data; 24K gold ₹1,50,700 in Delhi."
 sources:
   - title: "Gold, silver gain globally on easing inflation fears, trade lower on MCX"
     publisher: "Business Standard"

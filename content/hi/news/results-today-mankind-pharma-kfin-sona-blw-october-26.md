@@ -6,7 +6,7 @@ type: news
 section: economy
 format_label: "अर्थव्यवस्था / नतीजे"
 topics: [economy]
-title: "आज मैनकाइंड फार्मा, केफिन और सोना बीएलडब्ल्यू के नतीजे, टाटा स्टील ने नतीजे नवंबर तक टाले"
+title: "26 अक्टूबर को मैनकाइंड फार्मा, केफिन और सोना बीएलडब्ल्यू के नतीजे, टाटा स्टील ने नतीजे नवंबर तक टाले"
 standfirst: "सोमवार को 16 कंपनियां नतीजे घोषित करेंगी, उसके बाद मंगलवार को एलएंडटी और मारुति सुज़ुकी जैसे बड़े नाम हैं। टाटा स्टील ने बोर्ड बैठक 27 अक्टूबर से हटाकर 7 नवंबर कर दी है, और अगले कुछ दिनों में पांच केंद्रीय बैंक फैसले सुनाएंगे।"
 published: 2026-10-26T05:10:00+05:30
 location: मुंबई
@@ -20,10 +20,10 @@ hero:
   subjects: ["Mankind Pharma"]
   alt: "मैनकाइंड फार्मा की एक इमारत"
   overlay:
-    value: "आज 16 नतीजे, कल एलएंडटी"
+    value: "16 नतीजे, फिर एलएंडटी"
 related: [week-ahead-results-data-calendar-october-26-30, central-bank-week-results-l-t-maruti-hul-us-gdp-iip, week-ahead-cues-brent-116-fed-ecb-boj-gift-nifty-flat, ipos-next-week-eaaa-sfc-bls-polymers-jio-listing, jio-platforms-ipo-subscribed-22-times-listing-october-28]
 seo:
-  description: "आज के Q2 नतीजे 26 अक्टूबर 2026: मैनकाइंड फार्मा, केफिन, सोना बीएलडब्ल्यू, आवास, फाइव-स्टार, तमिलनाड मर्केंटाइल बैंक। टाटा स्टील के नतीजे 7 नवंबर को; इस हफ्ते फेड, ईसीबी, बीओजे के फैसले।"
+  description: "Q2 नतीजे, 26 अक्टूबर 2026: मैनकाइंड फार्मा, केफिन, सोना बीएलडब्ल्यू, आवास, फाइव-स्टार, तमिलनाड मर्केंटाइल बैंक। टाटा स्टील के नतीजे 7 नवंबर को; इस हफ्ते फेड, ईसीबी, बीओजे के फैसले।"
 sources:
   - title: "Q2 Results October 26-27, 2026: L&T, Maruti Suzuki, Cipla and More"
     publisher: "Kalkine Media"

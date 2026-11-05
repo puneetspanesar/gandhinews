@@ -5,7 +5,7 @@ type: news
 section: sports
 format_label: "Sports / Cricket"
 topics: []
-title: "India women go for a 3-0 sweep of Zimbabwe in Raipur tonight"
+title: "India women go for a 3-0 sweep of Zimbabwe in Raipur on October 20"
 standfirst: "Smriti Mandhana's side have already sealed the series with two wins. The third and final T20I starts at 7 pm IST on Tuesday."
 published: 2026-10-20T05:25:00+05:30
 location: Raipur

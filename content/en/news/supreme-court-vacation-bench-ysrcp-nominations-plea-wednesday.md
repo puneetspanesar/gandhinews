@@ -5,7 +5,7 @@ type: news
 section: politics
 format_label: "Politics / Courts"
 topics: [supreme-court]
-title: "Supreme Court vacation bench to hear YSRCP plea on Andhra civic poll nominations on Wednesday"
+title: "Supreme Court vacation bench to hear YSRCP plea on Andhra civic poll nominations on October 21"
 standfirst: "The party is challenging the Andhra Pradesh High Court's refusal to extend the nomination deadline. Pinarayi Vijayan's plea against the CMRL FIR order is listed before the same bench."
 published: 2026-10-20T11:20:00+05:30
 location: New Delhi

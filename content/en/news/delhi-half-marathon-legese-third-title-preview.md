@@ -5,7 +5,7 @@ type: news
 section: sports
 format_label: "Sports / Athletics"
 topics: []
-title: "Birhanu Legese chases a third Delhi Half Marathon title on Sunday"
+title: "Birhanu Legese chases a third Delhi Half Marathon title on October 18"
 standfirst: "The Ethiopian calls the city 'almost like a second home', and faces Riga winner Charles Matata. Irine Cheptai, the 2022 champion, admits she is not at her best, while Lily Das leads the Indian women."
 published: 2026-10-17T15:40:00+05:30
 location: New Delhi

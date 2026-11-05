@@ -5,7 +5,7 @@ type: news
 section: politics
 format_label: "Politics / Courts"
 topics: [election-commission]
-title: "Actor Imran Khan to challenge order to leave India in Bombay High Court today"
+title: "Actor Imran Khan to challenge order to leave India in Bombay High Court on October 16"
 standfirst: "The FRRO told the US citizen and OCI cardholder to leave by October 28 after he joined a Mumbai protest against Chief Election Commissioner Gyanesh Kumar."
 published: 2026-10-16T07:30:00+05:30
 location: Mumbai

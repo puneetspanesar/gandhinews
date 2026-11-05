@@ -6,7 +6,7 @@ section: economy
 format_label: "Economy / Companies"
 topics: [economy, india-us-trade]
 title: "TCS profit rises 15% to ₹13,884 crore; annual AI revenue passes $3 billion"
-standfirst: "India's largest IT company grew revenue 0.5% in constant currency in July-September. HCLTech reports today, and Wipro and Tech Mahindra on Thursday."
+standfirst: "India's largest IT company grew revenue 0.5% in constant currency in July-September. HCLTech reports on October 12, and Wipro and Tech Mahindra on October 15."
 published: 2026-10-12T07:00:00+05:30
 location: Mumbai
 keyPoints:
@@ -167,7 +167,7 @@ The results came the same day the US Labor Department said it would stop process
 
 ## The week ahead for IT
 
-HCLTech is due to report its July-September results today, October 12, and its board will consider a third interim dividend. Wipro and Tech Mahindra are both due to report on October 15. Tech Mahindra's board will also consider an interim dividend and a bonus issue. Infosys reports on October 23.
+HCLTech is due to report its July-September results on October 12, and its board will consider a third interim dividend. Wipro and Tech Mahindra are both due to report on October 15. Tech Mahindra's board will also consider an interim dividend and a bonus issue. Infosys reports on October 23.
 
 ```timeline
 {"title":"IT results and dates to watch","items":[{"date":"Oct 12","text":"HCLTech July-September results"},{"date":"Oct 14","text":"Record date for TCS's ₹12 dividend"},{"date":"Oct 15","text":"Wipro and Tech Mahindra results"},{"date":"Oct 23","text":"Infosys results"},{"date":"Oct 30","text":"TCS dividend payment"}]}

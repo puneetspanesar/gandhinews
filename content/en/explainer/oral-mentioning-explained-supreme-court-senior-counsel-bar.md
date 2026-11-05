@@ -97,4 +97,4 @@ For anything else, the lawyer must file a mentioning proforma and a detailed let
 
 ## What does it mean for litigants?
 
-**Very little changes on paper, but the face at the lectern does.** A client who has hired a senior advocate will still have that lawyer argue the case. But the request for an early date will now come from a junior, and it will be judged on the urgency letter and the merits of the claim rather than on who is asking. Whether benches hold to that across the court, every morning, is what the bar will be watching from today.
+**Very little changes on paper, but the face at the lectern does.** A client who has hired a senior advocate will still have that lawyer argue the case. But the request for an early date will now come from a junior, and it will be judged on the urgency letter and the merits of the claim rather than on who is asking. Whether benches hold to that across the court, every morning, is what the bar will be watching from November 2.

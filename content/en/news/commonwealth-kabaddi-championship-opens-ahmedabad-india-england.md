@@ -46,7 +46,7 @@ verification:
     - "Wikipedia titles for Surjeet Singh and Naveen Kumar (kabaddi players) assumed; photo desk to confirm."
 ---
 
-Kabaddi's first Commonwealth Championship got under way in Ahmedabad on Friday, and hosts India begin their campaign under lights tonight with the men taking on England at 8:30 pm IST.
+Kabaddi's first Commonwealth Championship got under way in Ahmedabad on Friday, and hosts India begin their campaign under lights on Friday night, October 23, with the men taking on England at 8:30 pm IST.
 
 Thirteen nations are taking part in the inaugural edition at the Veer Savarkar Sports Complex, with 23 squads playing 62 matches over nine days under the slogan "One Breath. One Raid. One Commonwealth." Pakistan were among the nations first announced but withdrew amid tensions between the two countries.
 

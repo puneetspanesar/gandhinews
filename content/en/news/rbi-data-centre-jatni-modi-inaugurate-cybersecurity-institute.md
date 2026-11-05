@@ -6,7 +6,7 @@ section: economy
 format_label: "Economy / RBI"
 topics: [economy]
 title: "Modi to open RBI's ₹169-crore data centre at Jatni, its second after Navi Mumbai"
-standfirst: "The Odisha facility will host payment and settlement systems away from seismic zones and border areas. A cybersecurity training institute for the central bank opens alongside it this evening."
+standfirst: "The Odisha facility will host payment and settlement systems away from seismic zones and border areas. A cybersecurity training institute for the central bank opens alongside it on the evening of October 25."
 published: 2026-10-25T10:15:00+05:30
 location: Bhubaneswar
 keyPoints:

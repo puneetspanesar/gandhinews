@@ -5,7 +5,7 @@ type: news
 section: politics
 format_label: "Politics / Tamil Nadu"
 topics: []
-title: "Seeman's NTK to protest outside every Tamil Nadu collectorate on Saturday over arrest of its Dharapuram candidate"
+title: "Seeman's NTK to protest outside every Tamil Nadu collectorate on October 24 over arrest of its Dharapuram candidate"
 standfirst: "Naam Tamilar Katchi says the cases against M Karthiga, its Dharapuram candidate, and party colleagues are false. Police booked them over a banner, a police station gathering and the disruption of Chief Minister Vijay's roadshow."
 published: 2026-10-23T21:30:00+05:30
 location: Chennai

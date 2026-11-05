@@ -6,7 +6,7 @@ type: news
 section: politics
 format_label: "राजनीति / आज अदालतों में"
 topics: [supreme-court, election-commission]
-title: "आज अदालतों में: विजयन परिवार की सीएमआरएल अपील, इमरान खान का 'भारत छोड़ो' नोटिस, सुप्रीम कोर्ट की सभी पीठें"
+title: "26 अक्टूबर को अदालतों में: विजयन परिवार की सीएमआरएल अपील, इमरान खान का 'भारत छोड़ो' नोटिस, सुप्रीम कोर्ट की सभी पीठें"
 standfirst: "केरलम हाईकोर्ट पूर्व मुख्यमंत्री की विजिलेंस एफआईआर वाली चुनौती सुनेगा, बॉम्बे हाईकोर्ट अभिनेता की याचिका उनकी देश छोड़ने की समय-सीमा से दो दिन पहले सुनेगा, और सुप्रीम कोर्ट की सारी पीठें फिर बैठेंगी।"
 published: 2026-10-26T05:30:00+05:30
 location: नई दिल्ली
@@ -20,7 +20,7 @@ hero:
   subjects: ["Pinarayi Vijayan", "Imran Khan (Indian actor)"]
   alt: "केरल के पूर्व मुख्यमंत्री पिनराई विजयन और अभिनेता इमरान खान"
   overlay:
-    value: "तीन अदालतें, एक व्यस्त सोमवार"
+    value: "तीन अदालतें, एक व्यस्त दिन"
 related: [kerala-hc-declines-urgent-hearing-vijayan-cmrl-appeal-monday, supreme-court-stays-vijayan-cmrl-probe-seven-days, imran-khan-bombay-high-court-frro-leave-india-notice, supreme-court-traders-plea-central-park-shutdown-cjp, sc-cases-tracker]
 seo:
   description: "26 अक्टूबर को केरलम हाईकोर्ट में पिनराई विजयन की सीएमआरएल अपील, बॉम्बे हाईकोर्ट में इमरान खान की याचिका और सुप्रीम कोर्ट की सभी पीठों में सुनवाई।"

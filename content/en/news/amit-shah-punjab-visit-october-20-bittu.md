@@ -5,7 +5,7 @@ type: news
 section: policy
 format_label: "Policy / Home Affairs"
 topics: []
-title: "Amit Shah to visit Punjab on Tuesday as anger over Jhota killing simmers"
+title: "Amit Shah to visit Punjab on October 20 as anger over Jhota killing simmers"
 standfirst: "Ravneet Singh Bittu announced the Home Minister's second trip to the state in a month, framing it around the BJP's push for a drug-free Punjab."
 published: 2026-10-18T12:45:00+05:30
 location: Chandigarh
@@ -19,7 +19,7 @@ hero:
   subjects: ["Amit Shah", "Ravneet Singh Bittu"]
   alt: "Union Home Minister Amit Shah and BJP leader Ravneet Singh Bittu"
   overlay:
-    value: "Shah back in Punjab on Tuesday"
+    value: "Shah back in Punjab on October 20"
 related: [mansa-anti-drug-activist-parvinder-jhota-shot-dead, jhota-panel-gherao-aap-mlas-singla-heckled-mansa, jhota-accused-police-remand-wife-held-mann-phillaur-review, punjab-bandh-jhota-mansa-shutdown-response, jakhar-seeks-nia-ed-probe-punjab-prison-drug-network]
 seo:
   description: "Amit Shah will visit Punjab on October 20, 2026, Ravneet Singh Bittu said, his second trip in a month amid protests over anti-drug activist Parvinder Singh Jhota's killing in Mansa."

@@ -6,7 +6,7 @@ type: news
 section: economy
 format_label: "अर्थव्यवस्था / बाज़ार"
 topics: [economy]
-title: "आज एचपीसीएल, स्विगी, हैवेल्स और कोलगेट के नतीजे, जियो आईपीओ का दूसरा दिन"
+title: "22 अक्टूबर को एचपीसीएल, स्विगी, हैवेल्स और कोलगेट के नतीजे, जियो आईपीओ का दूसरा दिन"
 standfirst: "हिंदुस्तान पेट्रोलियम के आंकड़े दिखाएंगे कि ईंधन मार्जिन में सुधार ने जून तिमाही के रिकॉर्ड घाटे की कितनी भरपाई की। इटर्नल और इंडियन होटल्स के शेयर पहली बार नतीजों पर कारोबार करेंगे।"
 published: 2026-10-22T05:20:00+05:30
 location: मुंबई
@@ -20,10 +20,10 @@ hero:
   subjects: ["Hindustan Petroleum fuel station"]
   alt: "हिंदुस्तान पेट्रोलियम का एक पेट्रोल पंप"
   overlay:
-    value: "आज एचपीसीएल, स्विगी, हैवेल्स के नतीजे"
+    value: "एचपीसीएल, स्विगी, हैवेल्स के नतीजे"
 related: [eternal-q2-profit-doubles-125-crore-blinkit-3500-stores, ihcl-q2-profit-349-crore-700-hotels-fy27, jio-platforms-ipo-three-times-subscribed-day-one-qib, global-cues-wall-street-gains-brent-109-yields-october-22, rbi-mpc-minutes-rate-cuts-off-table-two-members-oppose-tightening]
 seo:
-  description: "आज के Q2 नतीजे, 22 अक्टूबर 2026: एचपीसीएल, स्विगी, हैवेल्स, कोलगेट-पामोलिव, सायंट, अदाणी टोटल गैस, चेन्नई पेट्रोलियम; जियो प्लेटफॉर्म्स आईपीओ का दूसरा दिन।"
+  description: "Q2 नतीजे, 22 अक्टूबर 2026: एचपीसीएल, स्विगी, हैवेल्स, कोलगेट-पामोलिव, सायंट, अदाणी टोटल गैस, चेन्नई पेट्रोलियम; जियो प्लेटफॉर्म्स आईपीओ का दूसरा दिन।"
 sources:
   - title: "Q2 Results October 22, 2026: HPCL, Havells, Swiggy and More"
     publisher: "Kalkine Media"

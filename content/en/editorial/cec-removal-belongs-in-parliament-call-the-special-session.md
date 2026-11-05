@@ -75,7 +75,7 @@ It is easy to dismiss the event as theatre, and the BJP did. But theatre is what
 
 The answer was given, perhaps without meaning it, by the Home Minister. Speaking in Lucknow on Friday, Amit Shah said: "I am ready to call a special session... But Rahul Baba will never agree." He called the charges against the Commission baseless and said the opposition preferred drama on the streets.
 
-**Mr Shah should be taken at his word.** And the opposition, which has spent weeks saying it is not allowed to be heard, should say yes before the offer cools. A debate on the floor of the House, with ministers answering and the record kept, is worth more than any number of mock sittings and rallies, including the one at Ramlila Maidan today.
+**Mr Shah should be taken at his word.** And the opposition, which has spent weeks saying it is not allowed to be heard, should say yes before the offer cools. A debate on the floor of the House, with ministers answering and the record kept, is worth more than any number of mock sittings and rallies, including the one at Ramlila Maidan on November 1.
 
 ```photo
 {"n":1,"subject":"Meira Kumar","caption":"Former Lok Sabha Speaker Meira Kumar, who presided over the INDIA bloc's mock Parliament on Saturday.","alt":"Former Lok Sabha Speaker Meira Kumar"}

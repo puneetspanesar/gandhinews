@@ -6,7 +6,7 @@ type: news
 section: policy
 format_label: "नीति / गृह मामले"
 topics: []
-title: "झोटा हत्याकांड पर नाराजगी के बीच मंगलवार को पंजाब आएंगे अमित शाह"
+title: "झोटा हत्याकांड पर नाराजगी के बीच 20 अक्टूबर को पंजाब आएंगे अमित शाह"
 standfirst: "रवनीत सिंह बिट्टू ने गृह मंत्री के एक महीने में दूसरे पंजाब दौरे का ऐलान किया और इसे भाजपा के नशामुक्त पंजाब अभियान से जोड़ा।"
 published: 2026-10-18T12:45:00+05:30
 location: चंडीगढ़
@@ -20,7 +20,7 @@ hero:
   subjects: ["Amit Shah", "Ravneet Singh Bittu"]
   alt: "केंद्रीय गृह मंत्री अमित शाह और भाजपा नेता रवनीत सिंह बिट्टू"
   overlay:
-    value: "मंगलवार को फिर पंजाब में शाह"
+    value: "20 अक्टूबर को फिर पंजाब में शाह"
 related: [mansa-anti-drug-activist-parvinder-jhota-shot-dead, jhota-panel-gherao-aap-mlas-singla-heckled-mansa, jhota-accused-police-remand-wife-held-mann-phillaur-review, punjab-bandh-jhota-mansa-shutdown-response, jakhar-seeks-nia-ed-probe-punjab-prison-drug-network]
 seo:
   description: "रवनीत सिंह बिट्टू ने बताया कि अमित शाह 20 अक्टूबर 2026 को पंजाब आएंगे। मानसा में नशा विरोधी कार्यकर्ता परविंदर सिंह झोटा की हत्या पर प्रदर्शनों के बीच यह एक महीने में उनका दूसरा दौरा है।"

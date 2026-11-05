@@ -5,7 +5,7 @@ type: news
 section: politics
 format_label: "Politics / Opposition"
 topics: [election-commission, electoral-rolls-sir]
-title: "INDIA bloc takes its 'vote chori' fight to Ramlila Maidan today; police clear the rally but not the march"
+title: "INDIA bloc takes its 'vote chori' fight to Ramlila Maidan on November 1; police clear the rally but not the march"
 standfirst: "Opposition leaders plan a noon march from Connaught Place to the ground to demand Chief Election Commissioner Gyanesh Kumar's resignation. More than 4,000 police will be on duty and central Delhi faces diversions from 10 am to 5 pm."
 published: 2026-11-01T05:40:00+05:30
 location: New Delhi

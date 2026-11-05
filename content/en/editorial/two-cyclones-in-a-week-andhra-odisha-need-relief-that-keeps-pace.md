@@ -6,7 +6,7 @@ section: policy
 format_label: "Editorial"
 topics: []
 title: "Two cyclones in one week: Andhra's farmers should not have to prove the same loss twice"
-standfirst: "Cyclone Murasu is due to cross the coast near Ongole tonight, six days after Arnab killed at least seven people and flattened lakhs of hectares of crops. Early warnings have saved lives. Relief now has to move as fast as the storms."
+standfirst: "Cyclone Murasu is due to cross the coast near Ongole on the night of November 2, six days after Arnab killed at least seven people and flattened lakhs of hectares of crops. Early warnings have saved lives. Relief now has to move as fast as the storms."
 published: 2026-11-02T06:20:00+05:30
 keyPoints:
   - "Arnab left a **preliminary loss of ₹4,600 crore** in Andhra Pradesh before Murasu formed."
@@ -60,7 +60,7 @@ verification:
     - "Recommendations are the desk's own."
 ---
 
-Some time between 11:30 tonight and 4 am on Tuesday, Cyclone Murasu is expected to **cross the Andhra Pradesh coast near Ongole** as a severe cyclonic storm, with winds of up to 120 km/h and a surge of up to one and a half metres over the tide. Red warnings cover Nellore, Prakasam, Bapatla, Guntur and Krishna.
+Some time between 11:30 pm on Monday, November 2, and 4 am on Tuesday, Cyclone Murasu is expected to **cross the Andhra Pradesh coast near Ongole** as a severe cyclonic storm, with winds of up to 120 km/h and a surge of up to one and a half metres over the tide. Red warnings cover Nellore, Prakasam, Bapatla, Guntur and Krishna.
 
 It arrives six days after Cyclone Arnab came ashore on the same coast on October 28. Arnab killed **at least seven people** in Andhra Pradesh and brought down at least 15,000 electricity poles. Chief Minister N Chandrababu Naidu put the preliminary loss at ₹4,600 crore and said it could rise.
 
@@ -68,7 +68,7 @@ It arrives six days after Cyclone Arnab came ashore on the same coast on October
 
 There is something to acknowledge first. For a very severe cyclonic storm, Arnab's toll was low, and that was not luck. The India Meteorological Department tracked it for days, boats were called back, and Odisha and Andhra Pradesh both set **zero casualties as the target**. The same machinery is moving again: six NDRF and seven SDRF teams are in place in Andhra Pradesh, fishermen have been told to stay ashore until Wednesday afternoon, and Odisha is moving people out of about 150 landslide-prone places in Gajapati.
 
-That work should not slacken tonight because people are tired. The IMD has asked families in **thatched and kutcha homes** along the coast to move to safety. Families still clearing up after Arnab will need persuading to leave home again, and the persuading has to happen in daylight.
+That work should not slacken on the night of the landfall because people are tired. The IMD has asked families in **thatched and kutcha homes** along the coast to move to safety. Families still clearing up after Arnab will need persuading to leave home again, and the persuading has to happen in daylight.
 
 ## The harder part is the money
 

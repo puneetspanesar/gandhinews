@@ -6,7 +6,7 @@ section: states
 format_label: "Editorial"
 topics: []
 title: "Seventy years of linguistic states proved the doubters wrong. Their lesson is that India holds together by consent"
-standfirst: "Karnataka and Keralam turn 70 today, born on the day the States Reorganisation Act came into force. The map drawn on language did not break India, as many feared. It still leaves unfinished business, and a lesson about how the Union should handle the next demand."
+standfirst: "Karnataka and Keralam turned 70 on November 1, born on the day the States Reorganisation Act came into force. The map drawn on language did not break India, as many feared. It still leaves unfinished business, and a lesson about how the Union should handle the next demand."
 published: 2026-11-01T18:00:00+05:30
 keyPoints:
   - "On **November 1, 1956** India was redrawn into 14 states and six Union Territories, largely along lines of language."
@@ -55,7 +55,7 @@ verification:
     - "Recommendations are the desk's own."
 ---
 
-Karnataka celebrates its 70th Rajyotsava today, and Keralam turns 70. Madhya Pradesh marks its foundation day too, and Haryana turns 60. The coincidence is not an accident of the calendar. On **November 1, 1956** the States Reorganisation Act came into force and India was redrawn into 14 states and six Union Territories, very largely along the lines of the languages people spoke.
+Karnataka celebrated its 70th Rajyotsava on November 1, and Keralam turned 70. Madhya Pradesh marks its foundation day too, and Haryana turns 60. The coincidence is not an accident of the calendar. On **November 1, 1956** the States Reorganisation Act came into force and India was redrawn into 14 states and six Union Territories, very largely along the lines of the languages people spoke.
 
 It is worth remembering how unwelcome that idea once was in New Delhi.
 

@@ -5,7 +5,7 @@ type: news
 section: politics
 format_label: "Politics / Supreme Court"
 topics: [supreme-court, election-commission, electoral-rolls-sir]
-title: "Delhi Metro chief apologises to Supreme Court as protest cases come up today"
+title: "Delhi Metro chief apologises to Supreme Court as protest cases come up on October 15"
 standfirst: "DMRC says only 45 of 303 stations were shut on October 10. Journalists and a lawyer have filed fresh pleas before Thursday's hearing on the detentions."
 published: 2026-10-15T06:30:00+05:30
 location: New Delhi

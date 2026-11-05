@@ -5,7 +5,7 @@ type: news
 section: world
 format_label: "World / Vatican"
 topics: []
-title: "Pope Leo cleared to leave hospital after lung surgery, will lead Angelus on Sunday"
+title: "Pope Leo cleared to leave hospital after lung surgery, will lead Angelus on October 18"
 standfirst: "Doctors said tests confirmed he was fit for discharge, four days after the operation. A day earlier he had called Vladimir Putin to ask for a ceasefire in occupied Oleshky."
 published: 2026-10-17T15:30:00+05:30
 location: Rome

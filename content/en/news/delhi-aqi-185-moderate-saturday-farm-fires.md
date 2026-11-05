@@ -5,7 +5,7 @@ type: news
 section: states
 format_label: "States / Delhi"
 topics: [states]
-title: "Delhi's air slips back to moderate, AQI 185 on Saturday morning after three poor days"
+title: "Delhi's air slips back to moderate, AQI 185 on the morning of October 24 after three poor days"
 standfirst: "The CPCB reading at 9 am ended a run of 'poor' days, though Narela, Jahangirpuri and RK Puram had come close to 300 overnight. Satellites have counted 545 farm fires in Punjab and Haryana this month."
 published: 2026-10-24T10:50:00+05:30
 location: New Delhi

@@ -6,7 +6,7 @@ section: states
 format_label: "States / Telangana"
 topics: [states, agriculture-msp]
 title: "Telangana warns El Nino impact will be severe and peak by February, orders drinking water plan"
-standfirst: "After checking water levels at the Singur and Manjira reservoirs, Chief Secretary Sanjay Jaju told officials to put Hyderabad's drinking water first. The state cabinet takes up the issue this evening."
+standfirst: "After checking water levels at the Singur and Manjira reservoirs, Chief Secretary Sanjay Jaju told officials to put Hyderabad's drinking water first. The state cabinet was to take up the issue on the evening of October 15."
 published: 2026-10-15T15:30:00+05:30
 location: Sangareddy
 keyPoints:

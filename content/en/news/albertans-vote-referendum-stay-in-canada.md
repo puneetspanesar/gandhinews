@@ -5,7 +5,7 @@ type: news
 section: world
 format_label: "World / Americas"
 topics: []
-title: "Alberta votes on Monday on whether to stay in Canada or move towards separation"
+title: "Alberta votes on October 19 on whether to stay in Canada or move towards separation"
 standfirst: "Albertans will choose between remaining a province and starting the legal process towards a binding separation referendum, alongside nine questions on immigration and the Constitution."
 published: 2026-10-19T15:10:00+05:30
 location: Edmonton

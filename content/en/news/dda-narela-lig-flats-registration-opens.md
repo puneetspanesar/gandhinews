@@ -5,7 +5,7 @@ type: news
 section: states
 format_label: "States / Delhi"
 topics: [states]
-title: "DDA opens registration today for 2,516 Narela flats priced around ₹15 lakh"
+title: "DDA opens registration on October 14 for 2,516 Narela flats priced around ₹15 lakh"
 standfirst: "The low-income group flats come with a 25% discount under the DDA Housing Investment Scheme 2026. Booking opens at noon on October 20."
 published: 2026-10-14T08:00:00+05:30
 location: New Delhi

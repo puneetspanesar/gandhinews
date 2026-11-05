@@ -5,7 +5,7 @@ type: news
 section: policy
 format_label: "Policy / Trade"
 topics: []
-title: "New Zealand trade pact in force: all Indian exports enter duty free from today"
+title: "New Zealand trade pact in force: all Indian exports enter duty free from October 20"
 standfirst: "The India-New Zealand free trade agreement took effect on Vijayadashami, removing duties on every New Zealand tariff line for Indian goods while India keeps dairy protected."
 published: 2026-10-20T06:45:00+05:30
 location: New Delhi
@@ -44,11 +44,11 @@ verification:
     - "Signing date April 27, 2026, per ANI; Bharat Mandapam per News On AIR."
 ---
 
-The free trade agreement between India and New Zealand came into force on Tuesday, Vijayadashami, giving every Indian product duty-free entry into the New Zealand market from today.
+The free trade agreement between India and New Zealand came into force on Tuesday, Vijayadashami, giving every Indian product duty-free entry into the New Zealand market from October 20.
 
 "100% of tariff lines are going to become zero from tomorrow onwards," Sampath Kumar, Additional Director General of Foreign Trade, said on Monday. Indian textiles, clothing, leather goods and footwear, which faced New Zealand duties of up to 10%, now go in duty free, as do pharmaceuticals, agricultural and marine products, plastics, chemicals and electrical goods that carried duties of up to 5%.
 
-India's side of the bargain is narrower. It has offered tariff liberalisation on about 70% of its tariff lines and kept protection for sensitive sectors, including dairy and certain agricultural products. The first Indian duty cuts, on goods such as New Zealand sheep meat and kiwi fruit, also take effect today.
+India's side of the bargain is narrower. It has offered tariff liberalisation on about 70% of its tariff lines and kept protection for sensitive sectors, including dairy and certain agricultural products. The first Indian duty cuts, on goods such as New Zealand sheep meat and kiwi fruit, also take effect on October 20.
 
 At a ceremony in New Delhi on Monday evening to mark the start of the pact, Commerce and Industry Minister Piyush Goyal said the agreement would "create employment opportunities" and was framed while "keeping farmers' welfare at the heart of the government's approach". He flagged off the first export of a JCB machine to New Zealand, one of a series of shipments planned across farm goods, gems and jewellery, engineering, sporting goods, footwear and leather.
 

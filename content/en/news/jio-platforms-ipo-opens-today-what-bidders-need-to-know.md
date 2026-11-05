@@ -5,7 +5,7 @@ type: news
 section: economy
 format_label: "Economy / IPOs"
 topics: [economy]
-title: "Jio Platforms IPO opens today: minimum bid ₹13,428 and a quota for Reliance shareholders"
+title: "Jio Platforms IPO opens on October 21: minimum bid ₹13,428 and a quota for Reliance shareholders"
 standfirst: "Retail investors can bid for a minimum of 12 shares in India's largest share sale until Friday, with a separate category for Reliance Industries shareholders and a discount for employees."
 published: 2026-10-21T05:20:00+05:30
 location: Mumbai

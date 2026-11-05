@@ -5,7 +5,7 @@ type: news
 section: politics
 format_label: "Politics / Congress"
 topics: [electoral-rolls-sir]
-title: "Kharge says he will set out SIR and delimitation concerns to Modi on Wednesday"
+title: "Kharge says he will set out SIR and delimitation concerns to Modi on October 21"
 standfirst: "Speaking in Kalaburagi a day after Kiren Rijiju's reply to his letter, the Congress president said the Prime Minister has two letters from him. Jairam Ramesh asked whether the government has a new delimitation plan at all."
 published: 2026-10-20T14:45:00+05:30
 location: Kalaburagi

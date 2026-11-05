@@ -5,7 +5,7 @@ type: news
 section: states
 format_label: "States / Madhya Pradesh"
 topics: [states]
-title: "Mohan Yadav opens Madhya Pradesh's semiconductor summit in Indore today"
+title: "Mohan Yadav opens Madhya Pradesh's semiconductor summit in Indore on October 23"
 standfirst: "More than 50 companies will exhibit at the two-day event, where the Chief Minister is due to pitch the state as a hub for chip packaging, testing and design."
 published: 2026-10-22T22:10:00+05:30
 location: Indore

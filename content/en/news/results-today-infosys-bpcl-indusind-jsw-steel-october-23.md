@@ -5,14 +5,14 @@ type: news
 section: economy
 format_label: "Economy / Results"
 topics: [economy]
-title: "Infosys, BPCL, IndusInd Bank and JSW Steel report today as Jio's record IPO closes"
+title: "Infosys, BPCL, IndusInd Bank and JSW Steel report on October 23 as Jio's record IPO closes"
 standfirst: "Friday brings one of the busiest results days of the season, led by Infosys after the market shuts. Jio Platforms' share sale ends with bids for more than five times the shares on offer, and RBI's weekly reserves data is due in the evening."
 published: 2026-10-23T05:40:00+05:30
 location: Mumbai
 keyPoints:
   - "Infosys reports **around 3:45 pm**, with analysts expecting profit of about ₹7,900 crore."
   - "BPCL, IndusInd Bank, JSW Steel, Dr Reddy's and Adani Power are also **due to report on Friday**."
-  - "Jio Platforms' IPO closes today after being subscribed **5.51 times** by Thursday evening."
+  - "Jio Platforms' IPO closed on October 23 after being subscribed **5.51 times** by Thursday evening."
 hero:
   need: "The Infosys campus in Mysuru, Karnataka"
   suggested_source: "Infosys Mysore campus"
@@ -22,7 +22,7 @@ hero:
     value: "Infosys after the bell"
 related: [results-week-ahead-infosys-kotak-bajaj-finance-jio-ipo, global-cues-nasdaq-slumps-ai-fears-brent-113-october-23, jio-ipo-5-51-times-day-two-close-final-day, results-today-hpcl-swiggy-havells-colgate-october-22]
 seo:
-  description: "Q2 results today, October 23, 2026: Infosys at 3:45 pm, BPCL, IndusInd Bank, JSW Steel, Dr Reddy's, Adani Power, Coforge, Torrent Pharma. Jio IPO final day; RBI forex reserves data."
+  description: "Q2 results on October 23, 2026: Infosys at 3:45 pm, BPCL, IndusInd Bank, JSW Steel, Dr Reddy's, Adani Power, Coforge, Torrent Pharma. Jio IPO final day; RBI forex reserves data."
 sources:
   - title: "Infosys Q2 results, dividend: Earnings expectations, timing, FY27 guidance & targets"
     publisher: "Business Today"

@@ -5,13 +5,13 @@ type: news
 section: states
 format_label: "States / Haryana"
 topics: [states]
-title: "Haryana turns 60; President Murmu is chief guest at Kurukshetra celebrations today"
+title: "Haryana turns 60; President Murmu is chief guest at Kurukshetra celebrations on November 1"
 standfirst: "The state-level Haryana Day function at Kurukshetra University marks six decades since the state was carved out in 1966. The President will also open the four-day Ratnavali festival."
 published: 2026-11-01T06:35:00+05:30
 location: Kurukshetra
 keyPoints:
   - "Haryana marks **60 years since its formation** on November 1, 1966."
-  - "President Droupadi Murmu is **chief guest at Kurukshetra University** today."
+  - "President Droupadi Murmu is **chief guest at Kurukshetra University** on November 1."
   - "The **Ratnavali festival runs from November 1 to 4**, opened by a President for the first time."
 hero:
   need: "Two-panel split: President Droupadi Murmu, chief guest, and Kurukshetra University, the venue"
@@ -48,7 +48,7 @@ verification:
     - "Swami Shraddhanand festival: AIR describes it as an annual festival marking the centenary of his sacrifice; venue and timing not given, written as AIR states."
 ---
 
-Haryana completes **60 years as a state** today, and President Droupadi Murmu is in Kurukshetra as chief guest at the state-level Haryana Day celebrations, the main function of the state's diamond jubilee.
+Haryana completed **60 years as a state** on November 1, and President Droupadi Murmu is in Kurukshetra as chief guest at the state-level Haryana Day celebrations, the main function of the state's diamond jubilee.
 
 The function is at **Kurukshetra University**, with Chief Minister Nayab Singh Saini alongside the President. About 2,000 people have been invited, among them young people, women, elected representatives, farmers, beneficiaries of government schemes, sportspersons, entrepreneurs, artists and healthcare workers. The start time has not been announced.
 
@@ -71,4 +71,4 @@ The Kurukshetra district administration has put a **two-day ban on drone flights
 
 "It is a matter of pride the President will visit Kurukshetra for the Haryana Day celebrations," Meena said.
 
-Haryana shares its birthday with several other states. Karnataka, Kerala, Madhya Pradesh and Chhattisgarh also mark their formation days today.
+Haryana shares its birthday with several other states. Karnataka, Kerala, Madhya Pradesh and Chhattisgarh also mark their formation days on November 1.

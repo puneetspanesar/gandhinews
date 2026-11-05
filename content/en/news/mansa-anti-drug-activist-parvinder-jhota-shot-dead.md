@@ -6,7 +6,7 @@ section: states
 format_label: "States / Punjab"
 topics: [states, elections-2027]
 title: "Anti-drug activist Parvinder Jhota shot dead in Mansa while confronting a chemist"
-standfirst: "Jhota was livestreaming an argument over alleged drug sales when the shopkeeper opened fire. Mansa shut down, the BJP is protesting across Punjab today and a bandh has been called for Thursday."
+standfirst: "Jhota was livestreaming an argument over alleged drug sales when the shopkeeper opened fire. Mansa shut down, the BJP protested across Punjab on October 14 and a bandh has been called for Thursday."
 published: 2026-10-14T07:30:00+05:30
 location: Mansa
 keyPoints:

@@ -99,4 +99,4 @@ West Indies levelled the series with a 24-run win in Hyderabad, piling up 247 fo
 
 ## What comes next
 
-There is little time to recover whatever happens. India's five-match T20I series in New Zealand begins in Christchurch on October 22, and Arshdeep is in that squad as well, a reason for the selectors to tread carefully with him tonight.
+There is little time to recover whatever happens. India's five-match T20I series in New Zealand begins in Christchurch on October 22, and Arshdeep is in that squad as well, a reason for the selectors to tread carefully with him in the October 17 decider.

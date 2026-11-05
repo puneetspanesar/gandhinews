@@ -5,7 +5,7 @@ type: news
 section: states
 format_label: "States / Delhi"
 topics: []
-title: "Delhi breathes easier on Monday with AQI 139, but forecasters see 'poor' air from Wednesday"
+title: "Delhi breathes easier on October 19 with AQI 139, but forecasters see 'poor' air from October 21"
 standfirst: "The capital's daily air quality average improved to 139 as the city logged its coldest October night yet at 17.1 degrees Celsius. The early warning system expects the air to slip into the 'poor' band on October 21."
 published: 2026-10-19T21:20:00+05:30
 location: New Delhi
@@ -19,7 +19,7 @@ hero:
   subjects: ["Pusa, New Delhi"]
   alt: "The Pusa campus in New Delhi, home to the monitoring station that logged the city's highest AQI on Monday"
   overlay:
-    value: "AQI 139 now, 'poor' by Wednesday"
+    value: "AQI 139, 'poor' due by October 21"
 related: [delhi-aqi-184-sunday-evening-moderate, delhi-aqi-189-sunday-morning-moderate, delhi-aqi-159-moderate-cpcb-saturday-grap]
 seo:
   description: "Delhi's 24-hour AQI was 139 ('moderate') at 4 pm on October 19 per CPCB; the minimum fell to 17.1°C, and the air is forecast to turn 'poor' from October 21."

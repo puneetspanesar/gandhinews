@@ -5,7 +5,7 @@ type: news
 section: world
 format_label: "World / East Asia"
 topics: []
-title: "China's third-quarter growth figures due today, with 4.4% expected"
+title: "China's third-quarter growth figures due on October 19, with 4.4% expected"
 standfirst: "Beijing publishes GDP and September activity data on Monday, the start of a busy week for Asian economies that also brings China's lending rates, a Bank of Korea decision and Japanese inflation."
 published: 2026-10-19T05:20:00+05:30
 location: Beijing

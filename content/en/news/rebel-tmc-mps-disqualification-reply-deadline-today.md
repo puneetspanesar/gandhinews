@@ -5,7 +5,7 @@ type: news
 section: politics
 format_label: "Politics / Parliament"
 topics: [parliament]
-title: "Rebel Trinamool MPs face Speaker's deadline today on disqualification pleas"
+title: "Rebel Trinamool MPs face Speaker's deadline on October 20 on disqualification pleas"
 standfirst: "The 20 MPs who broke away to the Nationalist Citizens Party of India must answer Abhishek Banerjee's anti-defection petitions by Tuesday, after three extensions and a Supreme Court nudge."
 published: 2026-10-20T05:20:00+05:30
 location: New Delhi

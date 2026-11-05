@@ -43,7 +43,7 @@ verification:
     - "Rajyotsava awards and Governor's programme not found in sources read; left out."
 ---
 
-Karnataka celebrates its **70th Kannada Rajyotsava** today, with schoolchildren at the centre of the state-level celebration. The Department of Public Instruction is holding the state-level programme at Kanteerava Stadium in Bengaluru, with **Chief Minister Siddaramaiah as chief guest**.
+Karnataka celebrates its **70th Kannada Rajyotsava** on November 1, with schoolchildren at the centre of the state-level celebration. The Department of Public Instruction is holding the state-level programme at Kanteerava Stadium in Bengaluru, with **Chief Minister Siddaramaiah as chief guest**.
 
 More than 20,000 pupils are expected, arriving in **300 to 400 school buses**. The day marks November 1, 1956, when the Kannada-speaking regions were brought together in what was then Mysore State. The state took the name Karnataka in 1973.
 
@@ -63,4 +63,4 @@ Bengaluru Traffic Police expect heavy congestion around the stadium and have ann
 {"n":2,"subject":"Hudson Memorial Church, Bangalore","caption":"Hudson Memorial Church at Hudson Junction, on the diversion route set for traffic around Kanteerava Stadium.","alt":"Hudson Memorial Church at Hudson Circle in Bengaluru"}
 ```
 
-Karnataka shares the date with Keralam, which turns 70 today, as well as Madhya Pradesh, Chhattisgarh and Haryana.
+Karnataka shares the date with Keralam, which turned 70 the same day, as well as Madhya Pradesh, Chhattisgarh and Haryana.

@@ -5,7 +5,7 @@ type: news
 section: science
 format_label: "Science & Tech / Gadgets"
 topics: []
-title: "Apple's first foldable, the iPhone Duo, goes on sale in India on Friday from ₹2.99 lakh"
+title: "Apple's first foldable, the iPhone Duo, goes on sale in India on October 23 from ₹2.99 lakh"
 standfirst: "The top 2TB model of Apple's book-style foldable costs ₹4.49 lakh, putting it at the very top of India's premium phone market."
 published: 2026-10-22T19:10:00+05:30
 location: New Delhi

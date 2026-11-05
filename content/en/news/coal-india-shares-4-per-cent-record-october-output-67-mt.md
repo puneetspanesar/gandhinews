@@ -22,7 +22,7 @@ hero:
     value: "Coal India up 4% on record output"
 related: [sensex-holds-924-points-midday-nifty-23360-reliance-8-per-cent, sensex-1030-points-nifty-23330-day-high-reliance-quarter-of-gains]
 seo:
-  description: "Coal India share price today, November 2, 2026: stock up 4.22% at ₹405.40 at noon after record October 2026 coal production of 67.2 MT and supply of 70.3 MT, both all-time monthly highs."
+  description: "Coal India share price on November 2, 2026: stock up 4.22% at ₹405.40 at noon after record October 2026 coal production of 67.2 MT and supply of 70.3 MT, both all-time monthly highs."
 cover:
   template: business
   label: "Coal India"

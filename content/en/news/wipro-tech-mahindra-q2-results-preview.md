@@ -5,7 +5,7 @@ type: news
 section: economy
 format_label: "Economy / Companies"
 topics: [economy]
-title: "Wipro and Tech Mahindra report on Thursday, with a possible bonus issue at Tech Mahindra"
+title: "Wipro and Tech Mahindra report on October 15, with a possible bonus issue at Tech Mahindra"
 standfirst: "Brokers expect modest growth at Wipro and a profit jump of about 30% at Tech Mahindra, whose board will also consider its first bonus issue in 11 years."
 published: 2026-10-15T06:30:00+05:30
 location: Bengaluru

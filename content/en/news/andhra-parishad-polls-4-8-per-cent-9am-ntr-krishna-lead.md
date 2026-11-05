@@ -5,7 +5,7 @@ type: news
 section: states
 format_label: "States / Andhra Pradesh"
 topics: []
-title: "Andhra parishad polls: 4.8% statewide by 9 am, NTR and Krishna cross 14% as queues build"
+title: "Andhra parishad polls open with 4.8% turnout in the first two hours, NTR and Krishna cross 14% as queues build"
 standfirst: "Turnout in Andhra Pradesh's mandal and zilla parishad elections picked up through Thursday morning, with Anantapur leading the early count and voters in the Krishna delta complaining of missing voter slips."
 published: 2026-11-05T11:05:00+05:30
 location: Vijayawada
@@ -19,15 +19,15 @@ hero:
   subjects: ["Polling station Andhra Pradesh", "Voters queue India election"]
   alt: "Voters queue at a polling station in Andhra Pradesh"
   overlay:
-    value: "4.8% by 9 am, then the queues"
+    value: "4.8% in two hours, then the queues"
 cover:
   template: event
   label: "Parishad polls"
-  headline: "4.8% by 9 am; NTR, Krishna cross 14%"
+  headline: "4.8% in two hours; NTR, Krishna cross 14%"
   bg: "Polling station Andhra Pradesh"
 infographic:
   kicker: "Andhra parishad polls"
-  headline: "Turnout 4.8% statewide by 9 am"
+  headline: "Turnout 4.8% statewide in the first two hours"
   dek: "Anantapur leads the early count; Bapatla slowest"
   motif: check-square
   stats:

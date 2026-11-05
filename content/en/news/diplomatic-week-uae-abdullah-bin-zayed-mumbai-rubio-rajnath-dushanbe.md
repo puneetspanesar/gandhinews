@@ -5,7 +5,7 @@ type: news
 section: policy
 format_label: "Policy / Diplomacy"
 topics: [india-us-trade]
-title: "Jaishankar hosts UAE's Abdullah bin Zayed in Mumbai today, with Rubio due on Tuesday"
+title: "Jaishankar hosts UAE's Abdullah bin Zayed in Mumbai on October 19, with Rubio due on October 20"
 standfirst: "West Asia will dominate two days of talks in Mumbai before the US Secretary of State arrives, while Rajnath Singh represents India at the SCO heads of government meeting in Dushanbe."
 published: 2026-10-19T05:15:00+05:30
 location: Mumbai

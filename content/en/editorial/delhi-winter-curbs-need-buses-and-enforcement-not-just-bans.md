@@ -6,7 +6,7 @@ section: policy
 format_label: "Editorial"
 topics: []
 title: "Delhi has finally acted before the smog. Now the curbs must be fair, enforced and backed by buses"
-standfirst: "From today older vehicles from outside the city are barred, offices run at half strength and parking costs double. Acting on the calendar is the right instinct. But a ban that reads the number plate rather than the exhaust, and asks commuters to give up their cars without saying what replaces them, will not last the winter."
+standfirst: "From November 1 older vehicles from outside the city are barred, offices run at half strength and parking costs double. Acting on the calendar is the right instinct. But a ban that reads the number plate rather than the exhaust, and asks commuters to give up their cars without saying what replaces them, will not last the winter."
 published: 2026-11-01T07:05:00+05:30
 keyPoints:
   - "Vehicles from outside Delhi **below BS-VI are barred until January 31**, while Delhi's own older vehicles keep running."

@@ -5,7 +5,7 @@ type: news
 section: sports
 format_label: "Sports / Football"
 topics: []
-title: "PSG host Barcelona in a meeting of the Champions League's top two tonight"
+title: "PSG host Barcelona in a meeting of the Champions League's top two on October 20"
 standfirst: "Both clubs have won their first two league-phase games. Liverpool, Manchester City and Napoli are also at home in a nine-match Tuesday programme that ends early on Wednesday morning in India."
 published: 2026-10-20T14:30:00+05:30
 location: Paris

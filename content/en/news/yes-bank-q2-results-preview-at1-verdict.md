@@ -5,7 +5,7 @@ type: news
 section: economy
 format_label: "Economy / Banking"
 topics: [economy]
-title: "YES Bank reports on Saturday with investors watching for the AT-1 bond hit"
+title: "YES Bank reports on October 17 with investors watching for the AT-1 bond hit"
 standfirst: "Brokerages expect profit to rise sharply on strong loan growth. The bigger question is what the Supreme Court's revival of ₹8,415 crore of written-off bonds means for the bank's capital."
 published: 2026-10-16T20:45:00+05:30
 location: Mumbai

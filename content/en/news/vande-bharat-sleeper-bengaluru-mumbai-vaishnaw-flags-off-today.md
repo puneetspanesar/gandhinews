@@ -5,7 +5,7 @@ type: news
 section: policy
 format_label: "Policy / Railways"
 topics: []
-title: "Vaishnaw to flag off Bengaluru-Mumbai Vande Bharat sleeper train today"
+title: "Vaishnaw to flag off Bengaluru-Mumbai Vande Bharat sleeper train on November 1"
 standfirst: "The overnight service from Bengaluru's SMVT terminal to Mumbai CSMT will take a little over 16 hours, with stops in Andhra Pradesh, Karnataka and Maharashtra. The inaugural run leaves at 12:15 pm."
 published: 2026-11-01T09:15:00+05:30
 location: Bengaluru

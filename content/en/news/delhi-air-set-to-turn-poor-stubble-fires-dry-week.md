@@ -5,7 +5,7 @@ type: news
 section: states
 format_label: "States / Delhi"
 topics: [states]
-title: "Delhi's air expected to slip into 'poor' from today as winds drop and farm fires rise"
+title: "Delhi's air expected to slip into 'poor' from October 21 as winds drop and farm fires rise"
 standfirst: "The early warning system expects the season's first spell of poor air on Wednesday and Thursday, with no rain in sight and the Diwali run-up ahead. Monday's 4 pm average was 139."
 published: 2026-10-21T05:30:00+05:30
 location: New Delhi
@@ -19,7 +19,7 @@ hero:
   subjects: ["Pusa, New Delhi"]
   alt: "A road in Pusa, New Delhi (file photo)"
   overlay:
-    value: "Poor air due from today"
+    value: "Poor air due from October 21"
 related: [delhi-aqi-161-dussehra-morning-moderate, delhi-air-needs-year-round-plan-not-grap-reflex]
 seo:
   description: "Delhi's air quality is forecast to turn poor on October 21 and 22 as dry weather and weak winds trap pollutants; Monday's CPCB 4 pm average AQI was 139."

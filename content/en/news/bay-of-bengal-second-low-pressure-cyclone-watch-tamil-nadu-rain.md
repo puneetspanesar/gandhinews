@@ -5,7 +5,7 @@ type: news
 section: states
 format_label: "States / Weather"
 topics: [states]
-title: "Second Bay of Bengal system due on Friday as Tamil Nadu braces for rain till October 26"
+title: "Second Bay of Bengal system due on October 23 as Tamil Nadu braces for rain till October 26"
 standfirst: "A fresh low-pressure area formed off the Tamil Nadu coast on Wednesday, another is expected from October 23 with the potential to become a cyclone, and Odisha and Andhra Pradesh are watching its track."
 published: 2026-10-22T05:10:00+05:30
 location: Chennai

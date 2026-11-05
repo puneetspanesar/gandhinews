@@ -21,7 +21,7 @@ hero:
     value: "Brent above $106"
 related: [saudi-arabia-vows-serious-response-riyadh-airport-stays-shut, rupee-near-97-as-crude-stays-above-100, sensex-falls-as-bond-yields-climb-rupee-best-day-since-april, trump-announces-russia-ukraine-energy-ceasefire]
 seo:
-  description: "Brent crude rose 1.84% to $106.65 after the Houthi attack on Riyadh airport. The Dow rose, the Nasdaq fell on chip stocks. What it means for Indian markets today."
+  description: "Brent crude rose 1.84% to $106.65 after the Houthi attack on Riyadh airport. The Dow rose, the Nasdaq fell on chip stocks. What it means for Indian markets on October 13."
 sources:
   - title: "Oil Surges After Saudi Airport Attack; New York Stocks Mixed Amid Semiconductor Weakness"
     publisher: "BigGo Finance"
@@ -77,7 +77,7 @@ The Fed next meets on October 27-28. JPMorgan, Goldman Sachs and Citi report res
 
 "Persistent geopolitical risk and uncertainty about global monetary policy continue to plague the market," said Kyle Rodda, senior financial market analyst at Capital.com.
 
-## What it means for India today
+## What it meant for India on October 13
 
 Indian shares open on Tuesday after a weak Monday, when the Nifty fell 0.70% and the Sensex lost 548 points as bond yields climbed. A Brent price above $106 raises India's import bill and adds to pressure on the rupee, which closed near 97 to the dollar last week. From Monday, the Reserve Bank of India is selling dollars directly to Indian Oil, HPCL and BPCL to meet their daily needs.
 

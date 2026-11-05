@@ -5,7 +5,7 @@ type: news
 section: politics
 format_label: "Politics / Rajya Sabha"
 topics: [parliament]
-title: "No Rajya Sabha vote on Friday: all 12 seats from UP, Uttarakhand and Bengal went unopposed"
+title: "No Rajya Sabha vote on October 16: all 12 seats from UP, Uttarakhand and Bengal went unopposed"
 standfirst: "Friday was polling day for 11 biennial seats and a Bengal bypoll. With no contest anywhere, the BJP takes 10 seats, the SP two, and the BSP loses its last UP member in the House."
 published: 2026-10-16T07:15:00+05:30
 location: New Delhi

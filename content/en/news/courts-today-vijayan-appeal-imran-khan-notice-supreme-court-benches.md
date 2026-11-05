@@ -5,13 +5,13 @@ type: news
 section: politics
 format_label: "Politics / Courts today"
 topics: [supreme-court, election-commission]
-title: "Courts today: Vijayan family's CMRL appeal, Imran Khan's leave-India notice, a full Supreme Court"
+title: "Courts on October 26: Vijayan family's CMRL appeal, Imran Khan's leave-India notice, a full Supreme Court"
 standfirst: "The Keralam High Court takes up the former chief minister's challenge to a vigilance FIR, the Bombay High Court hears the actor two days before his deadline to leave, and all of the Supreme Court's benches sit again."
 published: 2026-10-26T05:30:00+05:30
 location: New Delhi
 keyPoints:
   - "The Keralam High Court is due to hear **appeals by Pinarayi Vijayan, his daughter and son-in-law** against the order that led to a vigilance FIR."
-  - "Actor Imran Khan has been told to leave India **on or before October 28**; the Bombay High Court hears his plea today."
+  - "Actor Imran Khan has been told to leave India **on or before October 28**; the Bombay High Court was to hear his plea on October 26."
   - "The Supreme Court has **15 benches** listed, led by Chief Justice Surya Kant's court."
 hero:
   need: "Two-panel split: former Kerala chief minister Pinarayi Vijayan, and actor Imran Khan"
@@ -19,7 +19,7 @@ hero:
   subjects: ["Pinarayi Vijayan", "Imran Khan (Indian actor)"]
   alt: "Former Kerala chief minister Pinarayi Vijayan and actor Imran Khan"
   overlay:
-    value: "Three courts, one busy Monday"
+    value: "Three courts, one busy day"
 related: [kerala-hc-declines-urgent-hearing-vijayan-cmrl-appeal-monday, supreme-court-stays-vijayan-cmrl-probe-seven-days, imran-khan-bombay-high-court-frro-leave-india-notice, supreme-court-traders-plea-central-park-shutdown-cjp, sc-cases-tracker]
 seo:
   description: "On October 26 the Keralam High Court hears Pinarayi Vijayan's CMRL appeal, the Bombay High Court takes Imran Khan's leave-India plea, and Supreme Court benches sit."

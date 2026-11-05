@@ -23,7 +23,7 @@ hero:
     value: "दिन के ऊंचे स्तर पर सेंसेक्स 1,030 अंक ऊपर"
 related: [sensex-jumps-970-nifty-23313-oil-reliance-open-november-2, reliance-shares-jump-6-per-cent-q2-profit-o2c-jio, oil-slips-monday-brent-111-iran-qatar-talks-november-2, sensex-nifty-week-october-30-pharma-fii-return, india-manufacturing-pmi-october-final-54-7-export-orders, muthoot-finance-rebounds-9-per-cent-52-week-low-q2-profit]
 seo:
-  description: "शेयर बाज़ार आज, 2 नवंबर 2026: सेंसेक्स 1,030 अंक उछलकर दिन के ऊंचे स्तर 75,489.70 पर, निफ्टी 23,330.70 पर। रिलायंस इंडस्ट्रीज़ का करीब 400 अंक का योगदान, मेटल सबसे आगे, सिर्फ फार्मा लाल निशान में।"
+  description: "शेयर बाज़ार, 2 नवंबर 2026: सेंसेक्स 1,030 अंक उछलकर दिन के ऊंचे स्तर 75,489.70 पर, निफ्टी 23,330.70 पर। रिलायंस इंडस्ट्रीज़ का करीब 400 अंक का योगदान, मेटल सबसे आगे, सिर्फ फार्मा लाल निशान में।"
 cover:
   template: business
   label: "बाज़ार"

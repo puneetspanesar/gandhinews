@@ -5,7 +5,7 @@ type: news
 section: world
 format_label: "World / Middle East"
 topics: []
-title: "Lavrov in Tehran today for talks with Pezeshkian and Araghchi"
+title: "Lavrov in Tehran on October 19 for talks with Pezeshkian and Araghchi"
 standfirst: "Russia's foreign minister arrives on a working visit as the Hormuz standoff deepens. Moscow says the talks will focus on the situation around Iran and on Russian steps to cool tensions, alongside trade and energy projects."
 published: 2026-10-19T00:05:00+05:30
 location: Moscow

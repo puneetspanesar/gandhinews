@@ -5,7 +5,7 @@ type: news
 section: politics
 format_label: "Politics / Judiciary"
 topics: [supreme-court]
-title: "CJI Surya Kant in Deoghar today for Baba Baidyanath prayers and state legal services camp"
+title: "CJI Surya Kant in Deoghar on November 2 for Baba Baidyanath prayers and state legal services camp"
 standfirst: "The Chief Justice of India will offer prayers at the Baidyanath temple before he heads a state-level legal services and empowerment camp at the Deoghar Civil Court."
 published: 2026-11-02T09:20:00+05:30
 location: Deoghar

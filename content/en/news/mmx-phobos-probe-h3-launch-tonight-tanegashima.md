@@ -5,7 +5,7 @@ type: news
 section: science
 format_label: "Science & Tech / Space"
 topics: []
-title: "Japan's Phobos sample-return probe MMX due to lift off just after 1 am IST"
+title: "Japan's Phobos sample-return probe MMX set for launch early on October 20, India time"
 standfirst: "An H3 rocket is scheduled to launch the Martian Moons eXploration spacecraft from Tanegashima early on Tuesday, opening a five-year round trip to bring home the first pieces of a moon of Mars."
 published: 2026-10-19T12:30:00+05:30
 location: Tanegashima, Japan

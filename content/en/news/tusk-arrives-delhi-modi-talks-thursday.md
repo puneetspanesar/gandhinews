@@ -5,7 +5,7 @@ type: news
 section: policy
 format_label: "Policy / Diplomacy"
 topics: []
-title: "Donald Tusk lands in Delhi as Modi talks at Hyderabad House set for Thursday"
+title: "Donald Tusk lands in Delhi as Modi talks at Hyderabad House set for October 22"
 standfirst: "The Polish Prime Minister arrived on Wednesday night with his finance minister and a large business delegation. Rajghat, Hyderabad House and a business forum fill his day before he flies to Bengaluru."
 published: 2026-10-22T00:45:00+05:30
 location: New Delhi
@@ -19,7 +19,7 @@ hero:
   subjects: ["Donald Tusk", "Narendra Modi"]
   alt: "Polish Prime Minister Donald Tusk and Prime Minister Narendra Modi"
   overlay:
-    value: "Tusk in Delhi, Modi talks today"
+    value: "Tusk in Delhi for talks with Modi"
 related: [tusk-india-visit-october-21-modi-bengaluru]
 seo:
   description: "Polish PM Donald Tusk arrived in New Delhi on October 21. He meets Jaishankar, visits Rajghat and holds talks with Narendra Modi at Hyderabad House on Thursday."

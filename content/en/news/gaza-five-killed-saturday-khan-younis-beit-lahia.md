@@ -5,7 +5,7 @@ type: news
 section: world
 format_label: "World / Middle East"
 topics: []
-title: "Girl and woman among five killed by Israeli fire across Gaza on Saturday"
+title: "Girl and woman among five killed by Israeli fire across Gaza on October 24"
 standfirst: "Deaths were reported from Beit Lahia in the north to Khan Younis in the south. Gaza's health ministry says 1,547 people have now been killed since the October 2025 ceasefire."
 published: 2026-10-24T22:50:00+05:30
 location: Gaza City

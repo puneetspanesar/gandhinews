@@ -5,7 +5,7 @@ type: news
 section: politics
 format_label: "Politics / Diplomacy"
 topics: []
-title: "Misri heads to Kathmandu today as India offers Balendra Shah three dates after Diwali"
+title: "Misri heads to Kathmandu on November 4 as India offers Balendra Shah three dates after Diwali"
 standfirst: "The Foreign Secretary's two-day visit is meant to fix the date and the agenda for the Nepali Prime Minister's first trip to New Delhi."
 published: 2026-11-04T06:05:00+05:30
 location: New Delhi

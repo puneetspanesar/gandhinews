@@ -5,7 +5,7 @@ type: news
 section: economy
 format_label: "Economy / Results"
 topics: [economy]
-title: "Mankind Pharma, KFin and Sona BLW report today as Tata Steel pushes its results to November"
+title: "Mankind Pharma, KFin and Sona BLW report on October 26 as Tata Steel pushes its results to November"
 standfirst: "Sixteen companies are due to report on Monday, ahead of a heavy Tuesday led by L&T and Maruti Suzuki. Tata Steel has moved its board meeting from October 27 to November 7, and five central banks decide in the days after."
 published: 2026-10-26T05:10:00+05:30
 location: Mumbai
@@ -19,10 +19,10 @@ hero:
   subjects: ["Mankind Pharma"]
   alt: "A Mankind Pharma building"
   overlay:
-    value: "16 results today, L&T tomorrow"
+    value: "16 results, then L&T"
 related: [week-ahead-results-data-calendar-october-26-30, central-bank-week-results-l-t-maruti-hul-us-gdp-iip, week-ahead-cues-brent-116-fed-ecb-boj-gift-nifty-flat, ipos-next-week-eaaa-sfc-bls-polymers-jio-listing, jio-platforms-ipo-subscribed-22-times-listing-october-28]
 seo:
-  description: "Q2 results today October 26, 2026: Mankind Pharma, KFin Technologies, Sona BLW, Aavas, Five-Star, Tamilnad Mercantile Bank. Tata Steel moves results to November 7; Fed, ECB, BoJ decide this week."
+  description: "Q2 results on October 26, 2026: Mankind Pharma, KFin Technologies, Sona BLW, Aavas, Five-Star, Tamilnad Mercantile Bank. Tata Steel moves results to November 7; Fed, ECB, BoJ decide this week."
 sources:
   - title: "Q2 Results October 26-27, 2026: L&T, Maruti Suzuki, Cipla and More"
     publisher: "Kalkine Media"

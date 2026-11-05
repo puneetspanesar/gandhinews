@@ -5,7 +5,7 @@ type: news
 section: economy
 format_label: "Economy / Inflation"
 topics: [inflation, economy]
-title: "Wholesale inflation may cross 10% in September data due on Wednesday"
+title: "Wholesale inflation may cross 10% in September data due on October 14"
 standfirst: "Fuel and power prices have been rising at more than 20% a year at the factory gate, and economists expect the headline wholesale rate to break into double digits."
 published: 2026-10-13T04:00:00+05:30
 location: New Delhi

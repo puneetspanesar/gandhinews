@@ -6,8 +6,8 @@ type: news
 section: sports
 format_label: "खेल / फुटबॉल"
 topics: []
-title: "चैंपियंस लीग में आज बायर्न के सामने आर्सेनल, मैनचेस्टर यूनाइटेड कोमो के मैदान पर"
-standfirst: "मैचडे तीन का दूसरा हिस्सा आज रात 10:15 बजे शुरू होगा। खिताब के दो दावेदारों बायर्न म्यूनिख और आर्सेनल का मुकाबला गुरुवार रात 12:30 बजे शुरू होगा।"
+title: "चैंपियंस लीग में 21 अक्टूबर को बायर्न के सामने आर्सेनल, मैनचेस्टर यूनाइटेड कोमो के मैदान पर"
+standfirst: "मैचडे तीन का दूसरा हिस्सा 21 अक्टूबर को रात 10:15 बजे शुरू हुआ। खिताब के दो दावेदारों बायर्न म्यूनिख और आर्सेनल का मुकाबला गुरुवार रात 12:30 बजे शुरू होगा।"
 published: 2026-10-21T05:25:00+05:30
 location: म्यूनिख
 keyPoints:
@@ -20,7 +20,7 @@ hero:
   subjects: ["Allianz Arena"]
   alt: "म्यूनिख का अलियांज़ एरीना"
   overlay:
-    value: "आज रात बायर्न बनाम आर्सेनल"
+    value: "21 अक्टूबर: बायर्न बनाम आर्सेनल"
 related: [psg-beat-barcelona-4-2-vitinha-fabian-ruiz-late-goals, liverpool-fight-back-beat-villarreal-city-thrash-aek, roma-hit-four-psv-win-porto-atletico-held-stuttgart, psg-barcelona-champions-league-matchday-three-preview]
 seo:
   description: "चैंपियंस लीग बुधवार: बायर्न म्यूनिख बनाम आर्सेनल रात 12:30 बजे, रियल मैड्रिड बनाम आरबी लाइपज़िग, एस्टन विला बनाम वाइकिंग, इंटर बनाम शाख्तार, कोमो बनाम मैनचेस्टर यूनाइटेड।"

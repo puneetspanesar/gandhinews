@@ -23,7 +23,7 @@ hero:
     value: "सेंसेक्स दिन के शिखर से 500 अंक नीचे"
 related: [sensex-holds-924-points-midday-nifty-23360-reliance-8-per-cent, sensex-1030-points-nifty-23330-day-high-reliance-quarter-of-gains, sensex-jumps-970-nifty-23313-oil-reliance-open-november-2, reliance-shares-jump-6-per-cent-q2-profit-o2c-jio, bank-of-baroda-shares-5-per-cent-record-q2-profit]
 seo:
-  description: "शेयर बाज़ार आज, 2 नवंबर 2026: दोपहर 2 बजे सेंसेक्स 652 अंक ऊपर 75,111.79 और निफ्टी 194 अंक ऊपर 23,247.40 पर। आईटी शेयर गिरे, डिक्सन, एनटीपीसी और एसबीआई चढ़े।"
+  description: "शेयर बाज़ार, 2 नवंबर 2026: दोपहर 2 बजे सेंसेक्स 652 अंक ऊपर 75,111.79 और निफ्टी 194 अंक ऊपर 23,247.40 पर। आईटी शेयर गिरे, डिक्सन, एनटीपीसी और एसबीआई चढ़े।"
 cover:
   template: business
   label: "बाज़ार"

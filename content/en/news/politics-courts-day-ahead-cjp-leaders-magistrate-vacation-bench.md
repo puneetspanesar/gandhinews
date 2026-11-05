@@ -5,7 +5,7 @@ type: news
 section: politics
 format_label: "Politics / Courts"
 topics: [supreme-court, electoral-rolls-sir]
-title: "Day ahead: CJP leaders back before magistrate as Supreme Court vacation bench takes up YSRCP and Vijayan pleas"
+title: "Courts on October 21: CJP leaders back before magistrate as Supreme Court vacation bench takes up YSRCP and Vijayan pleas"
 standfirst: "Saurav Das and Ashutosh Ranka, who have gone to the Delhi High Court against their extended custody, are due before a magistrate at 2 pm on Wednesday. Mallikarjun Kharge has promised to set out his SIR concerns to the Prime Minister."
 published: 2026-10-21T05:30:00+05:30
 location: New Delhi
@@ -19,7 +19,7 @@ hero:
   subjects: ["Joymalya Bagchi"]
   alt: "Justice Joymalya Bagchi of the Supreme Court of India (file photo)"
   overlay:
-    value: "A busy Wednesday in court"
+    value: "A busy day in court"
 related: [cjp-das-ranka-custody-extended-till-october-21, supreme-court-vacation-bench-ysrcp-nominations-plea-wednesday, supreme-court-pinarayi-vijayan-cmrl-plea-wednesday, kharge-to-explain-sir-harm-to-modi-tomorrow-kalaburagi, dipke-rejects-nepal-bangladesh-parallels-satyagraha, politics-courts-week-ahead-speaker-tmc-anti-sir-protests]
 seo:
   description: "On October 21, CJP leaders Saurav Das and Ashutosh Ranka return before a Delhi magistrate, and a Supreme Court vacation bench hears the YSRCP and Pinarayi Vijayan pleas."

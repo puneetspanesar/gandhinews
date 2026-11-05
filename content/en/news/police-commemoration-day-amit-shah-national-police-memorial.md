@@ -5,7 +5,7 @@ type: news
 section: policy
 format_label: "Policy / Home Affairs"
 topics: []
-title: "Amit Shah leads Police Commemoration Day tribute at National Police Memorial today"
+title: "Amit Shah leads Police Commemoration Day tribute at National Police Memorial on October 21"
 standfirst: "The Home Minister will review a joint parade of the central armed police forces and Delhi Police, lay a wreath for the Hot Springs martyrs of 1959 and flag off a 90-rider motorcycle rally against drugs."
 published: 2026-10-21T05:20:00+05:30
 location: New Delhi

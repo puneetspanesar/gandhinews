@@ -26,7 +26,7 @@ related:
 - rupee-near-97-as-crude-stays-above-100
 - festive-ecommerce-sales-24000-crore-first-two-days
 seo:
-  description: 'आज सोने का भाव: 12 अक्टूबर 2026 को अमेरिकी महंगाई आंकड़ों से पहले एमसीएक्स सोना ₹1.5 लाख प्रति 10 ग्राम के करीब फिसला, दिल्ली में 24 कैरेट ₹1,50,700।'
+  description: 'सोने का भाव: 12 अक्टूबर 2026 को अमेरिकी महंगाई आंकड़ों से पहले एमसीएक्स सोना ₹1.5 लाख प्रति 10 ग्राम के करीब फिसला, दिल्ली में 24 कैरेट ₹1,50,700।'
 sources:
 - title: Gold, silver gain globally on easing inflation fears, trade lower on MCX
   publisher: Business Standard

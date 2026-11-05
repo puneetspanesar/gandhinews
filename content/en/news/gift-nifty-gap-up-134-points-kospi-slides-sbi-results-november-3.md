@@ -12,7 +12,7 @@ location: Mumbai
 keyPoints:
   - "GIFT Nifty traded at **23,537, up 134 points**, shortly before 8 am."
   - "Seoul's Kospi **fell as much as 3.8%** as chip selling returned; Tokyo is shut for a holiday."
-  - "About 80 companies, including **State Bank of India**, report September-quarter results today."
+  - "About 80 companies, including **State Bank of India**, report September-quarter results on November 3."
 hero:
   need: "GIFT City in Gandhinagar, Gujarat, home of the GIFT Nifty contract"
   suggested_source: "GIFT City Gandhinagar"
@@ -22,7 +22,7 @@ hero:
     value: "GIFT Nifty up 134 before the bell"
 related: [sensex-nifty-close-november-2, wall-street-close-dow-214-nasdaq-1-per-cent-marvell-oracle, us-strikes-qeshm-island-hormuz-oil-rises-midterms-eve, markets-week-ahead-us-midterms-itc-sbi-results-november-2, apple-record-september-quarter-114-5-billion-ternus, reliance-shares-jump-6-per-cent-q2-profit-o2c-jio]
 seo:
-  description: "Stock market today, November 3, 2026: GIFT Nifty up 134 points at 23,537 signals a gap-up open for Nifty and Sensex; Kospi falls, Brent near $104.4, SBI Q2 results due."
+  description: "Stock market on November 3, 2026: GIFT Nifty up 134 points at 23,537 signals a gap-up open for Nifty and Sensex; Kospi falls, Brent near $104.4, SBI Q2 results due."
 cover:
   template: business
   label: "Pre-open"

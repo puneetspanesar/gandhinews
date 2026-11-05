@@ -5,7 +5,7 @@ type: news
 section: states
 format_label: "States / Andhra Pradesh"
 topics: []
-title: "Cyclone Murasu turns severe, set to cross Andhra coast near Ongole tonight"
+title: "Cyclone Murasu turns severe, set to cross Andhra coast near Ongole on the night of November 2"
 standfirst: "The IMD's overnight bulletin puts the crossing between 11:30 pm on Monday and 4 am on Tuesday, with a storm surge of up to 1.5 metres on the south Andhra coast."
 published: 2026-11-02T02:25:00+05:30
 location: Amaravati
@@ -19,11 +19,11 @@ hero:
   subjects: ["Ongole"]
   alt: "A view of Ongole in Andhra Pradesh"
   overlay:
-    value: "Murasu due near Ongole tonight"
+    value: "Murasu due near Ongole on November 2"
 cover:
   template: breaking
   label: "Cyclone Murasu"
-  headline: "Murasu to cross near Ongole tonight"
+  headline: "Murasu to cross near Ongole on November 2"
 related: [naidu-cyclone-murasu-review-cancels-delhi-visit, murmu-mayurbhanj-visit-postponed-cyclone-november-4, cyclone-arnab-deep-depression-imd-landfall-bapatla-visakhapatnam]
 seo:
   description: "Cyclone Murasu is set to strengthen into a severe cyclonic storm and cross the Andhra Pradesh coast near Ongole between 11:30 pm Monday and 4 am Tuesday, IMD said."
@@ -52,7 +52,7 @@ verification:
     - "Naidu's office had said the storm would cross near Bapatla; IMD now names Ongole. Both are in the Nellore to Narsapur stretch."
 ---
 
-Cyclone Murasu was set to **strengthen into a severe cyclonic storm** in the early hours of Monday as it moved towards the south Andhra Pradesh coast, and is now expected to cross land close to Ongole late tonight.
+Cyclone Murasu was set to **strengthen into a severe cyclonic storm** in the early hours of Monday as it moved towards the south Andhra Pradesh coast, and was then expected to cross land close to Ongole late on Monday, November 2.
 
 In its 2 am bulletin, the India Meteorological Department (IMD) said that at 11:30 pm on Sunday the storm lay about 400 km south-east of Ongole, moving west-northwest at about 23 km/h with winds of 85 to 95 km/h gusting to 110 km/h. It expected the system to become a severe cyclonic storm by about 2:30 am.
 

@@ -5,7 +5,7 @@ type: news
 section: policy
 format_label: "Policy / Diplomacy"
 topics: []
-title: "Liechtenstein's Hereditary Prince Alois begins state visit, with Vadodara today and Modi talks on Tuesday"
+title: "Liechtenstein's Hereditary Prince Alois begins state visit, with Vadodara on October 26 and Modi talks on October 27"
 standfirst: "Liechtenstein's acting head of state was due in Mumbai on Sunday night for a four-day visit that the MEA links to the India-EFTA trade pact now in force."
 published: 2026-10-25T20:00:00+05:30
 updated: 2026-10-26T05:20:00+05:30

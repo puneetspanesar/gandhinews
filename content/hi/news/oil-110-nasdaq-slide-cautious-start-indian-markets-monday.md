@@ -6,7 +6,7 @@ type: news
 section: economy
 format_label: "अर्थव्यवस्था / बाज़ार"
 topics: [economy, rupee-forex]
-title: "110 डॉलर के करीब ब्रेंट और नैस्डैक की गिरावट, सोमवार को सतर्क रह सकता है भारतीय शेयर बाज़ार"
+title: "110 डॉलर के करीब ब्रेंट और नैस्डैक की गिरावट, 19 अक्टूबर को सतर्क रह सकता है भारतीय शेयर बाज़ार"
 standfirst: "भारतीय बाज़ार बंद होने के बाद शुक्रवार को कच्चा तेल करीब 4% उछला, और चिप व एआई शेयरों में बिकवाली से नैस्डैक का जून के बाद सबसे खराब हफ्ता रहा। खाड़ी में सप्ताहांत के टैंकर हमलों ने जोखिम और बढ़ाया है।"
 published: 2026-10-18T05:00:00+05:30
 location: मुंबई
@@ -20,7 +20,7 @@ hero:
   subjects: ["Nasdaq MarketSite"]
   alt: "न्यूयॉर्क के टाइम्स स्क्वायर में नैस्डैक मार्केटसाइट इमारत"
   overlay:
-    value: "तेल ऊपर, टेक नीचे, सोमवार पर नज़र"
+    value: "तेल ऊपर, टेक नीचे, बाज़ार सतर्क"
 related: [sensex-nifty-it-rally-weekly-gain-october-16, gold-silver-crude-prices-october-16, irgc-supertanker-mine-fire-hormuz-closed, trump-waives-russia-sanctions-law-india-tariff-threat, rupee-sixth-gain-forex-reserves-fall-726-billion, hdfc-bank-q2-profit-rises-4-7-per-cent-jagdishan-last, icici-bank-q2-profit-rises-20-per-cent-loans-30]
 seo:
   description: "शुक्रवार को ब्रेंट क्रूड 109.86 डॉलर पर बंद हुआ और नैस्डैक का जून के बाद सबसे खराब हफ्ता रहा। सोमवार को सेंसेक्स-निफ्टी के लिए ये संकेत सतर्कता वाले हैं।"

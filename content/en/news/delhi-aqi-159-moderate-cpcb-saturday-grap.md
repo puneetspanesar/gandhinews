@@ -5,7 +5,7 @@ type: news
 section: states
 format_label: "States / Delhi"
 topics: [states]
-title: "Delhi's air ends Saturday at AQI 159, 'moderate' but well up on Friday"
+title: "Delhi's air ends October 17 at AQI 159, 'moderate' but well up on the day before"
 standfirst: "The Central Pollution Control Board's 4 pm average was close to double Friday's reading. It stays below the band at which the first stage of GRAP curbs applies."
 published: 2026-10-17T19:55:00+05:30
 location: New Delhi

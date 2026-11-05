@@ -5,8 +5,8 @@ type: news
 section: sports
 format_label: "Sports / Football"
 topics: []
-title: "Bayern host Arsenal and Manchester United visit Como on Champions League Wednesday"
-standfirst: "Tonight's second half of matchday three starts at 10:15 pm IST. Bayern Munich against Arsenal, a meeting of two title contenders, kicks off at 12:30 am on Thursday."
+title: "Bayern host Arsenal and Manchester United visit Como in the Champions League on October 21"
+standfirst: "The second half of matchday three started at 10:15 pm IST on October 21. Bayern Munich against Arsenal, a meeting of two title contenders, kicks off at 12:30 am on Thursday."
 published: 2026-10-21T05:25:00+05:30
 location: Munich
 keyPoints:
@@ -19,7 +19,7 @@ hero:
   subjects: ["Allianz Arena"]
   alt: "The Allianz Arena in Munich"
   overlay:
-    value: "Bayern v Arsenal tonight"
+    value: "Bayern v Arsenal, October 21"
 related: [psg-beat-barcelona-4-2-vitinha-fabian-ruiz-late-goals, liverpool-fight-back-beat-villarreal-city-thrash-aek, roma-hit-four-psv-win-porto-atletico-held-stuttgart, psg-barcelona-champions-league-matchday-three-preview]
 seo:
   description: "Champions League Wednesday preview: Bayern Munich v Arsenal at 12:30 am IST, Real Madrid v RB Leipzig, Aston Villa v Viking, Inter v Shakhtar, Como v Manchester United."

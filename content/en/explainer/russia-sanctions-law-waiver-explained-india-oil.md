@@ -68,7 +68,7 @@ The second is sanctions: blocking orders on much of Russia's political leadershi
 
 **Because it is one of the biggest buyers of Russian oil.**
 
-India imported about 2.08 million barrels a day of Russian crude in August, roughly 45% of its crude imports, according to the shipping data firm Kpler. That puts it among the top five importers alongside China. The penalties were due to bite on purchases made on or after October 18, which is today.
+India imported about 2.08 million barrels a day of Russian crude in August, roughly 45% of its crude imports, according to the shipping data firm Kpler. That puts it among the top five importers alongside China. The penalties were due to bite on purchases made on or after October 18, the day this explainer was published.
 
 New Delhi pushed back when the law passed. The Ministry of External Affairs said on September 17 that India remained "firmly committed to ensuring energy security for its 1.4 billion people". External Affairs Minister S Jaishankar raised the law with US Secretary of State Marco Rubio in New York on September 23.
 

@@ -5,7 +5,7 @@ type: news
 section: policy
 format_label: "Policy / Energy"
 topics: []
-title: "Rubio visits Reliance's Jamnagar refinery today with Venezuelan oil on the table"
+title: "Rubio visits Reliance's Jamnagar refinery on October 21 with Venezuelan oil on the table"
 standfirst: "The US Secretary of State says Washington will talk to Reliance Industries about refining more Venezuelan crude and producing oil in Venezuela, as he tours the world's largest refining complex."
 published: 2026-10-21T05:35:00+05:30
 location: Jamnagar

@@ -53,4 +53,4 @@ He called the state "the maternal home of Lord Shri Ram, the sacred land of Moth
 Sai asked people to come together "under the leadership of the Honourable Prime Minister Shri Narendra Modi Ji" to strengthen the resolve for the **Chhattisgarh Anjor Vision 2047**, the state's long-term development plan.
 
 
-The state's three-day Rajyotsav opens in Nava Raipur later today.
+The state's three-day Rajyotsav opened in Nava Raipur later on November 1.

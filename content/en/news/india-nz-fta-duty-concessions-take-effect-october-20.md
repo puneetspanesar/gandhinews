@@ -5,7 +5,7 @@ type: news
 section: policy
 format_label: "Policy / Trade"
 topics: []
-title: "India's first duty cuts under New Zealand trade pact take effect on Tuesday"
+title: "India's first duty cuts under New Zealand trade pact take effect on October 20"
 standfirst: "Sheep meat comes in duty free and kiwi fruit priced above $2.50 a kg pays 15%, under a Finance Ministry notification that opens the first stage of the India-New Zealand free trade agreement."
 published: 2026-10-18T17:20:00+05:30
 location: New Delhi

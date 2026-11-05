@@ -5,7 +5,7 @@ type: news
 section: politics
 format_label: "Politics / Courts"
 topics: [supreme-court]
-title: "Senior advocates can no longer orally mention cases in Supreme Court from today"
+title: "Senior advocates can no longer orally mention cases in Supreme Court from November 2"
 standfirst: "A registry circular that takes effect on Monday bars senior counsel from mentioning matters before any bench and asks that younger lawyers be given the chance instead."
 published: 2026-11-02T05:40:00+05:30
 location: New Delhi

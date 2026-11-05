@@ -5,7 +5,7 @@ type: news
 section: economy
 format_label: "Economy / IPOs"
 topics: [economy]
-title: "Four IPOs close on Monday before Jio Platforms and Paras Healthcare open"
+title: "Four IPOs close on October 19 before Jio Platforms and Paras Healthcare open"
 standfirst: "Zetwerk, Tonbo Imaging, Bonfiglioli and Sahajanand Medical take their last bids on October 19. The ₹30,000 crore Jio offer follows on Wednesday, with three listings due in the same week."
 published: 2026-10-17T12:10:00+05:30
 location: Mumbai

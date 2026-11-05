@@ -6,7 +6,7 @@ type: news
 section: economy
 format_label: "अर्थव्यवस्था / नतीजे"
 topics: [economy]
-title: "बजाज फाइनेंस के मुनाफे में आज 29% उछाल की उम्मीद, पर मार्जिन पर चिंता"
+title: "बजाज फाइनेंस के मुनाफे में 19 अक्टूबर को 29% उछाल की उम्मीद, पर मार्जिन पर चिंता"
 standfirst: "ब्रोकरेज फर्मों का अनुमान है कि 25% से ज़्यादा की लोन ग्रोथ के दम पर कंपनी सितंबर तिमाही में करीब ₹6,383 करोड़ कमाएगी। आरबीआई की दर बढ़ोतरी के बाद महंगा कर्ज़ उसके मार्जिन को दबा सकता है।"
 published: 2026-10-19T05:15:00+05:30
 location: पुणे
@@ -23,7 +23,7 @@ hero:
     value: "बजाज फाइनेंस: 29% मुनाफे का अनुमान"
 related: [bajaj-finance-ultratech-hindustan-zinc-results-monday, bajaj-housing-finance-q2-profit-rises-18-per-cent, results-week-ahead-infosys-kotak-bajaj-finance-jio-ipo, four-day-week-dussehra-nifty-outlook-jio-ipo-infosys, monday-open-gift-nifty-brent-108-iran-hormuz-offer]
 seo:
-  description: "बजाज फाइनेंस के दूसरी तिमाही के नतीजे आज: ब्रोकरेज फर्मों को करीब ₹6,383 करोड़ के मुनाफे (29% बढ़त) और ब्याज आय में 24% बढ़त की उम्मीद। मार्जिन, क्रेडिट कॉस्ट और राजीव जैन के अनुमान पर नज़र।"
+  description: "बजाज फाइनेंस के दूसरी तिमाही के नतीजे 19 अक्टूबर 2026 को: ब्रोकरेज फर्मों को करीब ₹6,383 करोड़ के मुनाफे (29% बढ़त) और ब्याज आय में 24% बढ़त की उम्मीद। मार्जिन, क्रेडिट कॉस्ट और राजीव जैन के अनुमान पर नज़र।"
 sources:
   - title: "Bajaj Finance Q2 preview: Profit may jump 29%, NII 24% as strong loan growth lifts earnings"
     publisher: "The Economic Times (via inkl)"

@@ -6,7 +6,7 @@ section: policy
 format_label: "Editorial"
 topics: []
 title: "Delhi's bad air arrives on schedule every October. The response should not wait for the alarm"
-standfirst: "Forecasters say the capital's air turns 'poor' from today, as it does every year at this time. Farm fires are rising in states that were not watched closely, machines sit idle and satellites go blind after 3 pm. The fixes are known; what is missing is the habit of acting before the haze."
+standfirst: "Forecasters say the capital's air turns 'poor' from October 21, as it does every year at this time. Farm fires are rising in states that were not watched closely, machines sit idle and satellites go blind after 3 pm. The fixes are known; what is missing is the habit of acting before the haze."
 published: 2026-10-21T05:45:00+05:30
 keyPoints:
   - "Delhi's air is forecast to slip to **'poor' on October 21 and 22** and stay there through the following week."
@@ -55,7 +55,7 @@ verification:
     - "Recommendations are the desk's own."
 ---
 
-The forecast for Delhi this morning reads like a page torn from last year's calendar. The Air Quality Early Warning System expects the capital's air to slip into the "poor" band today and tomorrow and to stay there through the following week. Winds are dropping, nights are cooling, and forecasters warned on Monday that "unfavourable weather conditions could prevent pollutants from dispersing effectively".
+The forecast for Delhi on October 21 read like a page torn from last year's calendar. The Air Quality Early Warning System expects the capital's air to slip into the "poor" band on October 21 and 22 and to stay there through the following week. Winds are dropping, nights are cooling, and forecasters warned on Monday that "unfavourable weather conditions could prevent pollutants from dispersing effectively".
 
 None of this is a surprise. That is precisely the problem.
 

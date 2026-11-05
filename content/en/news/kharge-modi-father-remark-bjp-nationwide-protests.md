@@ -6,7 +6,7 @@ section: politics
 format_label: "Politics / Congress vs BJP"
 topics: [electoral-rolls-sir, election-commission]
 title: "Kharge's 'Modi ka baap bhi jayega' jibe in Patna sets off BJP protests across the country"
-standfirst: "The Congress president's retort to a man in the crowd drew condemnation from Amit Shah, Nitin Nabin and Rajnath Singh. The BJP will protest at every state headquarters on Monday."
+standfirst: "The Congress president's retort to a man in the crowd drew condemnation from Amit Shah, Nitin Nabin and Rajnath Singh. The BJP will protest at every state headquarters on Monday, October 26."
 published: 2026-10-25T20:40:00+05:30
 location: Patna
 keyPoints:

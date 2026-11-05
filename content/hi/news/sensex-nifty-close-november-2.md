@@ -23,7 +23,7 @@ hero:
     value: "सेंसेक्स +1,233, निफ्टी 23,440 पर"
 related: [sensex-500-points-off-high-afternoon-it-drags-nifty-23247, reliance-shares-jump-6-per-cent-q2-profit-o2c-jio, oil-slips-monday-brent-111-iran-qatar-talks-november-2, maruti-suzuki-record-october-sales-276120, markets-week-ahead-us-midterms-itc-sbi-results-november-2]
 seo:
-  description: "शेयर बाज़ार आज, 2 नवंबर 2026: सेंसेक्स 1,233 अंक चढ़कर 75,692.78 और निफ्टी 23,440.80 पर बंद। रिलायंस 11.6% उछला, तेल और धातु शेयरों में तेज़ी।"
+  description: "शेयर बाज़ार, 2 नवंबर 2026: सेंसेक्स 1,233 अंक चढ़कर 75,692.78 और निफ्टी 23,440.80 पर बंद। रिलायंस 11.6% उछला, तेल और धातु शेयरों में तेज़ी।"
 cover:
   template: business
   label: "बाज़ार"

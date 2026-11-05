@@ -5,8 +5,8 @@ type: news
 section: states
 format_label: "States / Rajasthan"
 topics: [states]
-title: "Rajasthan votes today in first phase of zila parishad and panchayat samiti polls"
-standfirst: "Polling runs from 7 am to 6 pm across 16 districts and 2,392 wards. Gram panchayats vote on Saturday, but the results of today's contest will not be known until November 20."
+title: "Rajasthan votes on October 22 in first phase of zila parishad and panchayat samiti polls"
+standfirst: "Polling runs from 7 am to 6 pm across 16 districts and 2,392 wards. Gram panchayats vote on Saturday, but the results of the October 22 contest will not be known until November 20."
 published: 2026-10-22T05:25:00+05:30
 location: Jaipur
 keyPoints:

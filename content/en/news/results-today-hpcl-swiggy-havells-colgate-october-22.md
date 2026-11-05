@@ -5,7 +5,7 @@ type: news
 section: economy
 format_label: "Economy / Markets"
 topics: [economy]
-title: "HPCL, Swiggy, Havells and Colgate report today as Jio IPO enters day two"
+title: "HPCL, Swiggy, Havells and Colgate report on October 22 as Jio IPO enters day two"
 standfirst: "Hindustan Petroleum's numbers will show how far a recovery in fuel margins has repaired a record June-quarter loss. Eternal and Indian Hotels trade on their results for the first time."
 published: 2026-10-22T05:20:00+05:30
 location: Mumbai
@@ -19,10 +19,10 @@ hero:
   subjects: ["Hindustan Petroleum fuel station"]
   alt: "A Hindustan Petroleum fuel station"
   overlay:
-    value: "HPCL, Swiggy, Havells report today"
+    value: "HPCL, Swiggy, Havells report"
 related: [eternal-q2-profit-doubles-125-crore-blinkit-3500-stores, ihcl-q2-profit-349-crore-700-hotels-fy27, jio-platforms-ipo-three-times-subscribed-day-one-qib, global-cues-wall-street-gains-brent-109-yields-october-22, rbi-mpc-minutes-rate-cuts-off-table-two-members-oppose-tightening]
 seo:
-  description: "Q2 results today, October 22, 2026: HPCL, Swiggy, Havells, Colgate-Palmolive, Cyient, Adani Total Gas, Chennai Petroleum report; Jio Platforms IPO day two."
+  description: "Q2 results on October 22, 2026: HPCL, Swiggy, Havells, Colgate-Palmolive, Cyient, Adani Total Gas, Chennai Petroleum report; Jio Platforms IPO day two."
 sources:
   - title: "Q2 Results October 22, 2026: HPCL, Havells, Swiggy and More"
     publisher: "Kalkine Media"

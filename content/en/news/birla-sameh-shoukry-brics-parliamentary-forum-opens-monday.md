@@ -5,7 +5,7 @@ type: news
 section: parliament
 format_label: "Parliament / BRICS"
 topics: [parliament]
-title: "Birla meets Egypt's Sameh Shoukry on eve of BRICS Parliamentary Forum, which opens on Monday"
+title: "Birla meets Egypt's Sameh Shoukry on eve of BRICS Parliamentary Forum, which opens on October 26"
 standfirst: "The Lok Sabha Speaker thanked Egypt for condemning the Pahalgam attack. Delegations from 11 BRICS members and 10 partner countries were invited to the two-day forum in New Delhi."
 published: 2026-10-25T22:10:00+05:30
 location: New Delhi

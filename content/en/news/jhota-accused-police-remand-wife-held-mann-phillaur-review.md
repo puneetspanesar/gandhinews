@@ -6,7 +6,7 @@ section: states
 format_label: "States / Punjab"
 topics: [states, elections-2027]
 title: "Jhota's accused killer sent to police custody as his wife and an aide are arrested"
-standfirst: "Ashwani Kumar faces a week of questioning over the Mansa shooting. The activist's family still refuses to cremate him, and Bhagwant Mann meets district police chiefs at Phillaur today."
+standfirst: "Ashwani Kumar faces a week of questioning over the Mansa shooting. The activist's family still refuses to cremate him, and Bhagwant Mann was due to meet district police chiefs at Phillaur on October 16."
 published: 2026-10-16T07:15:00+05:30
 location: Mansa
 keyPoints:

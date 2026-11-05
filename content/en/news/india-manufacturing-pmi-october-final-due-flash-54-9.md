@@ -5,7 +5,7 @@ type: news
 section: economy
 format_label: "Economy / Industry"
 topics: [economy]
-title: "Factory PMI for October due today after flash reading showed growth easing to 54.9"
+title: "Factory PMI for October due on November 2 after flash reading showed growth easing to 54.9"
 standfirst: "The final HSBC manufacturing survey comes out on Monday. Early figures pointed to slightly slower factory growth and weak hiring, but the fastest rise in export orders in more than a year and the softest price increases in almost four years."
 published: 2026-11-02T07:10:00+05:30
 location: Mumbai

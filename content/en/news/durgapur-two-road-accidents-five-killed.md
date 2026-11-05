@@ -5,7 +5,7 @@ type: news
 section: states
 format_label: "States / West Bengal"
 topics: [states]
-title: "Five killed in two crashes on NH-19 in Durgapur on Sunday morning"
+title: "Five killed in two crashes on NH-19 in Durgapur on the morning of October 18"
 standfirst: "Three people on one motorcycle died after hitting a truck near Bhiringi, and two died when a car rammed a bus at Andal crossing."
 published: 2026-10-18T13:15:00+05:30
 location: Durgapur

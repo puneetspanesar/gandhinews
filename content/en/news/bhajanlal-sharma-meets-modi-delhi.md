@@ -6,7 +6,7 @@ section: states
 format_label: "States / Rajasthan"
 topics: [states]
 title: "Bhajanlal Sharma calls on Modi a day after Rajasthan cabinet's tribute resolution"
-standfirst: "The Rajasthan Chief Minister spent about 20 minutes with the Prime Minister in New Delhi and is due to meet Union Minister Pralhad Joshi this afternoon, ahead of panchayat elections in the state."
+standfirst: "The Rajasthan Chief Minister spent about 20 minutes with the Prime Minister in New Delhi and was due to meet Union Minister Pralhad Joshi on the afternoon of October 15, ahead of panchayat elections in the state."
 published: 2026-10-15T15:35:00+05:30
 location: New Delhi
 keyPoints:
