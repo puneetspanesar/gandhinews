@@ -61,8 +61,4 @@ The external members include **Ananth Narayan, a former Sebi whole-time member**
 
 The panel will look at how well the markets work, how liquid and resilient they are, and how to **deepen and broaden them**. It will review how RBI measures are carried out on the ground and flag any unintended frictions, and it will cover trading, clearing, settlement and reporting, along with new products and emerging risks at home and abroad.
 
-```photo
-{"n":2,"subject":"Clearing Corporation of India","caption":"The Clearing Corporation of India, whose managing director sits on the panel.","alt":"Clearing Corporation of India"}
-```
-
 Market participants said the RBI had already been consulting them informally, and the committee **formalises that process**.

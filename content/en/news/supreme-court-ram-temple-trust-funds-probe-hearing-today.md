@@ -56,19 +56,11 @@ The cases are listed before a bench of Chief Justice of India Surya Kant and Jus
 
 There are four petitions. Advocate Narendra Kumar Goswami has filed a writ petition, Ajay Kumar Rai is arguing his criminal writ petition in person, and Rashtriya Janata Dal MP Sudhakar Singh and the Hindu Dharma Parishad have filed separate pleas.
 
-```photo
-{"n":1,"subject":"Surya Kant","caption":"Chief Justice of India Surya Kant heads the bench hearing the petitions on the Ram Temple Trust's finances.","alt":"Chief Justice of India Surya Kant"}
-```
-
 ## What the state has told the court
 
 When the cases were last heard on September 21, the Uttar Pradesh government said a Special Investigation Team had **substantially completed its probe** and would file a charge sheet within two days. Solicitor General Tushar Mehta, appearing for the Centre and the state, said a status report had been handed over in a sealed cover and that the deadline for the charge sheet ran out on September 25. Whether it has since been filed has not been made public.
 
 The status report said an analysis of CCTV footage had found **105 incidents of theft of donations** at the temple. It said receipts for valuable offerings were generated through software and that the valuables were kept in State Bank of India lockers. The bench allowed the sessions judge concerned to pass orders in line with the law.
-
-```photo
-{"n":2,"subject":"Tushar Mehta","caption":"Solicitor General Tushar Mehta represents the Centre and the Uttar Pradesh government in the case.","alt":"Solicitor General Tushar Mehta"}
-```
 
 ## A reshaped SIT
 
