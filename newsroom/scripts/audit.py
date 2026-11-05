@@ -257,6 +257,11 @@ def check_photos(root, S, scope):
         for f in need_files(sid, e):
             if not os.path.exists(f'{root}/public{f}'): fail(G, f'photos.map.json[{sid}]', f'file {f} does not exist')
         if not str(e.get('alt') or '').strip(): fail(G, f'photos.map.json[{sid}]', 'empty English alt text')
+        if e.get('graphic') and fm.get('infographic'):
+            import sys as _s; _s.path.insert(0, os.path.join(root, 'newsroom/scripts')); from gnrules import ihash
+            hi = (S.get('hi') or {}).get(sid) or {}
+            h = ihash({'en': fm['infographic'], 'hi': hi.get('infographic') or fm['infographic']})
+            if e.get('ihash') and e['ihash'] != h: fail(G, f'photos.map.json[{sid}]', 'the infographic block changed after the graphic was drawn: run make_infographic.py ' + sid)
         if not re.search(r'[\u0900-\u097F]', str(e.get('alt_hi') or '')): fail(G, f'photos.map.json[{sid}]', 'Hindi alt text missing or not in Hindi')
         for k in ('alt', 'alt_hi'):
             a = str(e.get(k) or '')
