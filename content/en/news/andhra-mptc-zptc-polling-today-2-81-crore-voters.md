@@ -6,7 +6,7 @@ section: states
 format_label: "States / Andhra Pradesh"
 topics: []
 title: "Andhra Pradesh votes today for mandal and zilla parishads after a two-day delay"
-standfirst: "About 2.81 crore rural voters can cast their ballots from 7 am to 5 pm in the MPTC and ZPTC elections, which were pushed back from 3 November. Counting is on Saturday."
+standfirst: "About 2.61 crore rural voters can cast their ballots from 7 am to 5 pm in the MPTC and ZPTC elections, which were pushed back from 3 November. Counting is on Saturday."
 published: 2026-11-05T05:40:00+05:30
 location: Vijayawada
 keyPoints:
@@ -19,14 +19,14 @@ hero:
   subjects: ["Andhra Pradesh local body elections", "Polling station Andhra Pradesh"]
   alt: "Voters at a polling station in Andhra Pradesh"
   overlay:
-    value: "2.81 crore rural voters, one day"
+    value: "2.61 crore rural voters, one day"
 infographic:
   kicker: "Andhra rural polls"
   headline: "Mandal and zilla parishads go to the polls"
   dek: "Polling moved from 3 November to 5 November"
   motif: check-square
   stats:
-    - {icon: users, value: "2.81 crore", label: "eligible voters"}
+    - {icon: users, value: "2.61 crore", label: "eligible voters"}
     - {icon: map-pin, value: "9,829", label: "MPTC constituencies listed for election"}
     - {icon: buildings, value: "35,333", label: "polling stations set up"}
   timeline:
@@ -37,7 +37,7 @@ infographic:
   source: "Andhra Pradesh State Election Commission, October 2026"
 related: [naveen-patnaik-writes-majhi-kotia-andhra-elections, andhra-mptc-zptc-nominations-ysrcp-alleges-attacks, andhra-parishad-nominations-close-clashes-ysrcp-high-court, supreme-court-andhra-sec-hold-candidate-list-ysrcp-nominations]
 seo:
-  description: "Andhra Pradesh holds MPTC and ZPTC polls on 5 November 2026 from 7 am to 5 pm, with about 2.81 crore voters; counting on 7 November."
+  description: "Andhra Pradesh holds MPTC and ZPTC polls on 5 November 2026 from 7 am to 5 pm, with about 2.61 crore voters; counting on 7 November."
 sources:
   - title: "AP MPTC, ZPTC poll schedule revised: Polling on 5 November, counting on 7 November"
     publisher: "South First"
@@ -71,7 +71,7 @@ verification:
 
 Rural Andhra Pradesh goes to the polls on Thursday to elect **members of its mandal and zilla parishads**, two days later than first planned. Voting in the Mandal Parishad Territorial Constituency (MPTC) and Zilla Parishad Territorial Constituency (ZPTC) elections runs from 7 am to 5 pm.
 
-When State Election Commissioner Anil Chandra Punetha announced the schedule in Vijayawada on 19 October, **659 of the state's 663 ZPTC seats** and 9,829 of its 9,858 MPTC seats were listed for election. About 2.81 crore voters are eligible, and the commission set up 35,333 polling stations. It classed 9,966 of them as sensitive and 9,186 as very sensitive, with webcasting at mandal and district level. Some seats were settled before polling day, when returning officers declared unopposed winners on 27 October.
+When State Election Commissioner Anil Chandra Punetha announced the schedule in Vijayawada on 19 October, **659 of the state's 663 ZPTC seats** and 9,829 of its 9,858 MPTC seats were listed for election. About 2.61 crore voters are eligible, and the commission set up 35,333 polling stations. It classed 9,966 of them as sensitive and 9,186 as very sensitive, with webcasting at mandal and district level. Some seats were settled before polling day, when returning officers declared unopposed winners on 27 October.
 
 After scrutiny, **50,815 nominations were found valid**, 46,045 of them for MPTC seats and 4,770 for ZPTC seats.
 
