@@ -82,9 +82,6 @@ A review can improve the rules. It can also become the place where they quietly 
 
 The UGC (Promotion of Equity in Higher Education Institutions) Regulations, 2026 were notified on 13 January to replace a 2012 notification. They grew out of a public interest petition filed in 2019 by the mothers of **Rohith Vemula and Payal Tadvi**, two students whose families say caste discrimination drove them to take their own lives. The new rules require every college and university to set up Equal Opportunity Centres and Equity Committees and to inquire into complaints.
 
-```photo
-{"n":1,"subject":"University of Hyderabad","caption":"The University of Hyderabad, where Rohith Vemula was a research scholar; his mother's petition led to the new equity rules.","alt":"The campus of the University of Hyderabad"}
-```
 
 Sixteen days later the court **kept the regulations in abeyance**, calling them prima facie "vague" and "capable of misuse" and warning that they risked "dividing the society". The 2012 rules, which the families had gone to court because they found them too weak, continue in the meantime.
 
