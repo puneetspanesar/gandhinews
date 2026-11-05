@@ -39,7 +39,7 @@ The United States says its naval blockade and military strikes have squeezed Ira
 
 Admiral Brad Cooper, head of US Central Command, said the attacks and the blockade of Iran's southern ports had "dealt severe blows" to the country. "The financial strain on Iran's military has become so significant" that allied militias may be holding back their fighters' pay to send money to the Islamic Revolutionary Guard Corps, which he said was itself not paying its troops.
 
-Washington says it has stopped at least $25 billion of Iranian crude exports and helped freeze about $350 million in cryptocurrency. The World Bank expects Iran's economy, home to about 90 million people, to shrink by 7.7% in 2026–27.
+Washington says it has stopped at least $25 billion of Iranian crude exports and helped freeze about $350 million in cryptocurrency. The World Bank expects Iran's economy, home to about 90 million people, to shrink by 7.7% in 2026-27.
 
 Tehran rejects the picture of a state near breaking point. Abdolnaser Hemmati, the central bank governor, said the economy "has demonstrated very good resilience" and that talk of collapse was "nothing more than an illusion".
 

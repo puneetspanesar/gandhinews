@@ -13,10 +13,10 @@ keyPoints:
   - "The plan promises more electric buses and Metro links but **gives no numbers or dates**."
   - "The government should publish **a monthly enforcement report** alongside air quality readings."
 hero:
-  need: "Morning traffic on the Delhi–Gurgaon Expressway at the Delhi border, the main commuter route affected by the ban on outside vehicles"
+  need: "Morning traffic on the Delhi-Gurgaon Expressway at the Delhi border, the main commuter route affected by the ban on outside vehicles"
   suggested_source: "Delhi Gurgaon Expressway"
   subjects: ["Delhi–Gurgaon Expressway"]
-  alt: "Traffic on the Delhi–Gurgaon Expressway"
+  alt: "Traffic on the Delhi-Gurgaon Expressway"
   overlay:
     kicker: "Our view"
     value: "Ban the smoke, not the address"

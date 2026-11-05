@@ -39,7 +39,7 @@ sources:
     date: 2026-10-24
     url: "https://blog.liquide.life/weekly-review-indian-stock-market-prediction-oct-26th-oct-30th-2026/"
     primary: false
-  - title: "Q2 Results October 26–27, 2026: L&T, Maruti Suzuki, Cipla and More"
+  - title: "Q2 Results October 26-27, 2026: L&T, Maruti Suzuki, Cipla and More"
     publisher: "Kalkine Media"
     date: 2026-10-15
     url: "https://www.kalkine.co.in/article/earnings/q2-results-on-october-2627-lt-maruti-suzuki-bajaj-auto-and-33-other-stocks-in-focus"

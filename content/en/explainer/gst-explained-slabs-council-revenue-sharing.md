@@ -111,7 +111,7 @@ The 57th meeting left the slabs unchanged. It made a few item-level decisions, s
 
 **Both the Centre and the states levy GST on sales within a state, while the Centre collects GST on inter-state trade and shares it out.** Article 246A of the Constitution gives Parliament and every state legislature the power to make laws on GST. Under Article 269A, GST on inter-state supplies is "levied and collected" by the Government of India and "apportioned between the Union and the States" in a manner Parliament sets by law on the Council's recommendation.
 
-The Centre's tax revenue is then shared again through the Finance Commission. The 16th Finance Commission, whose report was tabled on February 1, 2026, kept the states' share of the divisible pool of central taxes at 41% for 2026–31, according to PRS Legislative Research. The divisible pool leaves out cesses, surcharges and the cost of collection.
+The Centre's tax revenue is then shared again through the Finance Commission. The 16th Finance Commission, whose report was tabled on February 1, 2026, kept the states' share of the divisible pool of central taxes at 41% for 2026-31, according to PRS Legislative Research. The divisible pool leaves out cesses, surcharges and the cost of collection.
 
 ## How much does GST raise?
 

@@ -23,7 +23,7 @@ related: [india-us-trade-talks-plateau-russia-oil-tariff-law]
 seo:
   description: "India and the UK held their 16th JETCO in New Delhi, agreed annual data sharing on the CETA trade pact, and Piyush Goyal set a goal of doubling trade by 2030."
 sources:
-  - title: "Joint Statement of 16th Meeting of the India–UK JETCO"
+  - title: "Joint Statement of 16th Meeting of the India-UK JETCO"
     publisher: "GOV.UK (Department for Business and Trade)"
     date: 2026-10-12
     url: "https://www.gov.uk/government/news/joint-statement-of-16th-meeting-of-the-india-uk-jetco"

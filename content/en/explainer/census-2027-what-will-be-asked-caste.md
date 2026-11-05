@@ -96,7 +96,7 @@ How the Registrar General will group millions of written answers into categories
 **Most of India will be counted in February 2027, but some areas go earlier.** Each schedule has its own reference date, the moment at which the population is counted.
 
 ```timeline
-{"title":"Population count schedule","items":[{"date":"Sep 2026","text":"Ladakh and snow-bound areas of J&K, Himachal Pradesh and Uttarakhand; reference date Oct 1, 2026"},{"date":"Nov 16-30, 2026","text":"Self-enumeration in Uttar Pradesh, Punjab, Goa and non-snow-bound Uttarakhand"},{"date":"Dec 1, 2026–Jan 4, 2027","text":"Door-to-door count in those four states; revisional round Jan 5-9; reference date Jan 5, 2027"},{"date":"Feb 2027","text":"Rest of India; reference date Mar 1, 2027"}]}
+{"title":"Population count schedule","items":[{"date":"Sep 2026","text":"Ladakh and snow-bound areas of J&K, Himachal Pradesh and Uttarakhand; reference date Oct 1, 2026"},{"date":"Nov 16-30, 2026","text":"Self-enumeration in Uttar Pradesh, Punjab, Goa and non-snow-bound Uttarakhand"},{"date":"Dec 1, 2026 to Jan 4, 2027","text":"Door-to-door count in those four states; revisional round Jan 5-9; reference date Jan 5, 2027"},{"date":"Feb 2027","text":"Rest of India; reference date Mar 1, 2027"}]}
 ```
 
 The four states counted early all have assembly terms ending between March and May 2027. Business Standard linked the earlier schedule to those polls; the notification itself gives no reason.

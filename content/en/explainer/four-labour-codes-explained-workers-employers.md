@@ -105,5 +105,5 @@ Rules on women's night shifts also vary. Some states' rules allow women to work 
 The ministry is also building a "Labour Stack", a single platform linking worker databases and welfare schemes, aimed at unorganised, gig and platform workers. On September 24, Kumar said a pilot was expected within about 15 days.
 
 ```timeline
-{"title":"Labour codes: key dates","items":[{"date":"2019–2020","text":"Parliament passes the four codes"},{"date":"Nov 21, 2025","text":"Codes come into force, replacing 29 central laws"},{"date":"Feb 2026","text":"Parliament passes the Industrial Relations Code (Amendment) Bill, 2026"},{"date":"May 8, 2026","text":"Central rules notified under all four codes"},{"date":"Sep 24, 2026","text":"Ten states have final rules, says Labour Secretary"},{"date":"Oct 31, 2026","text":"Centre's target for all state rules"}]}
+{"title":"Labour codes: key dates","items":[{"date":"2019-2020","text":"Parliament passes the four codes"},{"date":"Nov 21, 2025","text":"Codes come into force, replacing 29 central laws"},{"date":"Feb 2026","text":"Parliament passes the Industrial Relations Code (Amendment) Bill, 2026"},{"date":"May 8, 2026","text":"Central rules notified under all four codes"},{"date":"Sep 24, 2026","text":"Ten states have final rules, says Labour Secretary"},{"date":"Oct 31, 2026","text":"Centre's target for all state rules"}]}
 ```

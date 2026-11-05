@@ -58,4 +58,4 @@ The panel can consult farmer groups, mill associations, state governments and ex
 
 ## Behind the move
 
-The decision follows weeks of agitation in north Karnataka. At a protest in Hubballi on September 29, farmer unions demanded a cane price of ₹5,500 a tonne for 2026–27 and a higher selling price for sugar. Food Minister Pralhad Joshi had invited them to Delhi, writing on X: "If you come to Delhi, we will hold discussions with you." He has pointed out that the Centre raised the fair and remunerative price to ₹365 a quintal in May.
+The decision follows weeks of agitation in north Karnataka. At a protest in Hubballi on September 29, farmer unions demanded a cane price of ₹5,500 a tonne for 2026-27 and a higher selling price for sugar. Food Minister Pralhad Joshi had invited them to Delhi, writing on X: "If you come to Delhi, we will hold discussions with you." He has pointed out that the Centre raised the fair and remunerative price to ₹365 a quintal in May.

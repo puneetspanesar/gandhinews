@@ -75,6 +75,6 @@ Analysts expect the index to hold its ground rather than surge. "Nifty is expect
 
 The rally has been narrow. Only 32% of Nifty stocks were trading above their 50-day moving average on October 16, and mid- and small-cap indices lagged the large caps.
 
-The rupee, which gained 2% last week and was the best-performing emerging-market currency, could strengthen further. Amit Pabari, managing director of CR Forex Advisors, said a decisive break lower in the dollar "could lead to a further 50–75 paise appreciation, bringing 94 into focus."
+The rupee, which gained 2% last week and was the best-performing emerging-market currency, could strengthen further. Amit Pabari, managing director of CR Forex Advisors, said a decisive break lower in the dollar "could lead to a further 50 to 75 paise appreciation, bringing 94 into focus."
 
 The main risks lie abroad. Ajit Mishra, senior vice president of research at Religare Broking, said "movements in US Treasury yields, crude oil prices and geopolitical developments will remain important market drivers". The Nasdaq had its worst week since June on Friday, and Brent rose almost 5% for the week to about $109.86.

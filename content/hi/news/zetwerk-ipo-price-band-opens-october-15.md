@@ -32,7 +32,7 @@ sources:
   date: 2026-10-12
   url: https://upstox.com/news/market-news/ipo/upcoming-ipo-zetwerk-s-5-012-crore-issue-to-open-on-oct-15-check-price-band/article-201661/
   primary: false
-- title: Zetwerk Sets ₹143–151 IPO Price Band, ₹5,012 Crore Issue Opens October 15
+- title: Zetwerk Sets ₹143-151 IPO Price Band, ₹5,012 Crore Issue Opens October 15
   publisher: Free Press Journal
   date: 2026-10-12
   url: https://www.freepressjournal.in/business/zetwerk-sets-143151-ipo-price-band-5012-crore-issue-opens-october-15

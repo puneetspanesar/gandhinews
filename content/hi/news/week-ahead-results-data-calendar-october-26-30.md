@@ -25,7 +25,7 @@ related: [results-week-ahead-infosys-kotak-bajaj-finance-jio-ipo, global-cues-we
 seo:
   description: "26-30 अक्टूबर 2026 का हफ्ता: एलएंडटी, मारुति, बजाज ऑटो, सिप्ला, एचयूएल, अदाणी पोर्ट्स, एशियन पेंट्स, ट्रेंट के नतीजे; 28 अक्टूबर को जियो की लिस्टिंग; फेड का फैसला; अमेरिकी जीडीपी।"
 sources:
-  - title: "Q2 Results October 26–27, 2026: L&T, Maruti Suzuki, Cipla and More"
+  - title: "Q2 Results October 26-27, 2026: L&T, Maruti Suzuki, Cipla and More"
     publisher: "Kalkine Media"
     date: 2026-10-15
     url: "https://www.kalkine.co.in/article/earnings/q2-results-on-october-2627-lt-maruti-suzuki-bajaj-auto-and-33-other-stocks-in-focus"

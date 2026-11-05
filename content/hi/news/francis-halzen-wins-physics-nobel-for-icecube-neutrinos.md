@@ -28,8 +28,8 @@ sources:
     date: 2026-10-06
     url: "https://www.aip.org/aip/aip-congratulates-2026-nobel-prize-winner-in-physics"
     primary: true
-  - title: "University of Wisconsin–Madison Professor Francis Halzen named 2026 Nobel laureate in physics"
-    publisher: "University of Wisconsin–Madison"
+  - title: "University of Wisconsin-Madison Professor Francis Halzen named 2026 Nobel laureate in physics"
+    publisher: "University of Wisconsin-Madison"
     date: 2026-10-06
     url: "https://news.wisc.edu/university-of-wisconsin-madison-professor-francis-halzen-named-2026-nobel-laureate-in-physics/"
     primary: true
@@ -58,12 +58,12 @@ verification:
   notes:
     - "nobelprize.org (summary and press release) could not be fetched. The full citation is from the AIP release; Physics World and IceCube give the opening words only, and they match."
     - "Halzen's first reaction: AP (via PBS) has 'It was a great surprise, and I obviously didn't expect it'; Physics World has 'It was a great surprise and I didn't expect it.' AP wording used."
-    - "PBS/AP page text says 'Tuesday, October 5'; the Tuesday was 6 October, which UW–Madison, IceCube and AIP all give. 6 October used."
-    - "Depth: UW–Madison says 'almost a mile of ice'; AIP says 2 km beneath the ice. Neither figure used; the story says 'deep in the ice'."
-    - "Blazar date: UW–Madison dates the neutrino to September 2017; Physics World dates the link to TXS 0506+056 to 2018 (when the results were published). Timeline says 2018 with the 2017 detection mentioned."
+    - "PBS/AP page text says 'Tuesday, October 5'; the Tuesday was 6 October, which UW-Madison, IceCube and AIP all give. 6 October used."
+    - "Depth: UW-Madison says 'almost a mile of ice'; AIP says 2 km beneath the ice. Neither figure used; the story says 'deep in the ice'."
+    - "Blazar date: UW-Madison dates the neutrino to September 2017; Physics World dates the link to TXS 0506+056 to 2018 (when the results were published). Timeline says 2018 with the 2017 detection mentioned."
     - "Construction 'about six years' and the $279 million cost are from AIP only."
     - "Mark Pearce is described by Physics World as chair of the Nobel Committee; Eva Olsson as a committee member by AP. Not cross-checked on nobelprize.org."
-    - "IceCube-Gen2 '8 times the volume' is from the IceCube release. First science data from the 2025–26 upgrade 'expected later in 2026' is from the same release."
+    - "IceCube-Gen2 '8 times the volume' is from the IceCube release. First science data from the 2025-26 upgrade 'expected later in 2026' is from the same release."
 ---
 
 बेल्जियम में जन्मे भौतिक विज्ञानी फ्रांसिस हालज़ेन, जिन्होंने दशकों लगाकर अंटार्कटिका की बर्फ के एक विशाल टुकड़े को टेलीस्कोप में बदल दिया, को 2026 का भौतिकी का नोबेल पुरस्कार मिला है। रॉयल स्वीडिश एकेडमी ऑफ साइंसेज ने 6 अक्टूबर को घोषणा की कि यूनिवर्सिटी ऑफ विस्कॉन्सिन-मैडिसन के 82 वर्षीय हालज़ेन को यह सम्मान "आइसक्यूब न्यूट्रिनो वेधशाला में निर्णायक योगदान और खगोलीय स्रोतों से आने वाले उच्च ऊर्जा वाले न्यूट्रिनो की खोज के लिए" दिया जा रहा है।

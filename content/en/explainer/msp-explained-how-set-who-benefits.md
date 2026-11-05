@@ -65,39 +65,39 @@ MSPs are announced separately for kharif crops and rabi crops. The Cabinet Commi
 
 ## How is the MSP calculated?
 
-**Since 2018–19, the government says it fixes MSP at no less than 1.5 times the all-India weighted average cost of production.** The PIB release on the 2027–28 rabi MSPs says the new prices follow that Budget commitment.
+**Since 2018-19, the government says it fixes MSP at no less than 1.5 times the all-India weighted average cost of production.** The PIB release on the 2027-28 rabi MSPs says the new prices follow that Budget commitment.
 
 The cost it uses includes paid-out costs such as hired labour, rent for leased land, inputs, irrigation, depreciation and interest on working capital, plus an imputed value for the farmer's own family labour. PRS lists the factors considered as the costs of cultivation and production, productivity of crops and market prices.
 
 Because the formula sets only a floor, actual margins vary widely by crop.
 
 ```chart
-{"type":"hbar","title":"Rabi MSP 2027–28: margin over cost of production","subtitle":"MSP above all-India weighted average cost (%)","unit":"%","data":[{"label":"Wheat","value":106,"highlight":true},{"label":"Rapeseed & mustard","value":96},{"label":"Masoor (lentil)","value":92},{"label":"Gram","value":59},{"label":"Barley","value":58},{"label":"Safflower","value":50}],"source":"PIB, Sep 30, 2026"}
+{"type":"hbar","title":"Rabi MSP 2027-28: margin over cost of production","subtitle":"MSP above all-India weighted average cost (%)","unit":"%","data":[{"label":"Wheat","value":106,"highlight":true},{"label":"Rapeseed & mustard","value":96},{"label":"Masoor (lentil)","value":92},{"label":"Gram","value":59},{"label":"Barley","value":58},{"label":"Safflower","value":50}],"source":"PIB, Sep 30, 2026"}
 ```
 
 ## What are the current MSPs?
 
-**For the 2027–28 rabi season, wheat is ₹2,610 a quintal, and for the 2026–27 kharif season, common paddy is ₹2,441.** The rabi MSPs were approved on September 30, 2026. Wheat rose by ₹25, while safflower rose by ₹675, rapeseed-mustard by ₹413 and masoor by ₹390.
+**For the 2027-28 rabi season, wheat is ₹2,610 a quintal, and for the 2026-27 kharif season, common paddy is ₹2,441.** The rabi MSPs were approved on September 30, 2026. Wheat rose by ₹25, while safflower rose by ₹675, rapeseed-mustard by ₹413 and masoor by ₹390.
 
-The kharif MSPs for 2026–27 were approved in May 2026 for 14 crops. Paddy rose by ₹72, and sunflower seed got the largest increase, ₹622 to ₹8,343 a quintal, according to a PTI report.
+The kharif MSPs for 2026-27 were approved in May 2026 for 14 crops. Paddy rose by ₹72, and sunflower seed got the largest increase, ₹622 to ₹8,343 a quintal, according to a PTI report.
 
 ```facts
-{"title":"Selected MSPs (₹ per quintal)","items":[{"value":"₹2,610","label":"wheat, rabi 2027–28","source":"PIB"},{"value":"₹2,441","label":"common paddy, kharif 2026–27","source":"PTI via DT Next"},{"value":"₹6,613","label":"rapeseed and mustard, rabi 2027–28","source":"PIB"},{"value":"₹8,450","label":"tur (arhar), kharif 2026–27","source":"PTI via DT Next"}]}
+{"title":"Selected MSPs (₹ per quintal)","items":[{"value":"₹2,610","label":"wheat, rabi 2027-28","source":"PIB"},{"value":"₹2,441","label":"common paddy, kharif 2026-27","source":"PTI via DT Next"},{"value":"₹6,613","label":"rapeseed and mustard, rabi 2027-28","source":"PIB"},{"value":"₹8,450","label":"tur (arhar), kharif 2026-27","source":"PTI via DT Next"}]}
 ```
 
 ## How much is spent buying crops at MSP?
 
-**The government says MSP payments for the six rabi crops came to ₹8.36 lakh crore between 2014–15 and 2025–26.** That compares with ₹2.65 lakh crore between 2004–05 and 2013–14, according to the PIB release on rabi MSPs. The later period covers 12 years and the earlier one 10, and neither figure is adjusted for inflation.
+**The government says MSP payments for the six rabi crops came to ₹8.36 lakh crore between 2014-15 and 2025-26.** That compares with ₹2.65 lakh crore between 2004-05 and 2013-14, according to the PIB release on rabi MSPs. The later period covers 12 years and the earlier one 10, and neither figure is adjusted for inflation.
 
-Procurement volumes rose too. The government bought 3,921 lakh tonnes of the six rabi crops in 2014–15 to 2025–26, against 2,302 lakh tonnes in the earlier decade.
+Procurement volumes rose too. The government bought 3,921 lakh tonnes of the six rabi crops in 2014-15 to 2025-26, against 2,302 lakh tonnes in the earlier decade.
 
-For the 2027–28 rabi season alone, Outlook India puts the estimated financial implication of the new MSPs at ₹90,962 crore. The PIB release does not give a figure.
+For the 2027-28 rabi season alone, Outlook India puts the estimated financial implication of the new MSPs at ₹90,962 crore. The PIB release does not give a figure.
 
 ## Does the government buy every crop at MSP?
 
-**No, government buying is concentrated in a few crops and a few states.** PRS notes that procurement "mainly happens for wheat, rice, sugarcane and cotton, in a few states". In 2015–16, the central government procured 33% of the wheat and 30% of the rice produced in India, according to the PRS report, which uses data up to early 2017.
+**No, government buying is concentrated in a few crops and a few states.** PRS notes that procurement "mainly happens for wheat, rice, sugarcane and cotton, in a few states". In 2015-16, the central government procured 33% of the wheat and 30% of the rice produced in India, according to the PRS report, which uses data up to early 2017.
 
-The government's own figures for rabi crops show the same pattern. Of the 3,921 lakh tonnes of the six rabi crops procured between 2014–15 and 2025–26, wheat accounted for 3,715 lakh tonnes, or about 95%, by our calculation from the PIB release. Wheat farmers received ₹7.31 lakh crore of the ₹8.36 lakh crore paid at MSP for those crops, about 87%.
+The government's own figures for rabi crops show the same pattern. Of the 3,921 lakh tonnes of the six rabi crops procured between 2014-15 and 2025-26, wheat accounted for 3,715 lakh tonnes, or about 95%, by our calculation from the PIB release. Wheat farmers received ₹7.31 lakh crore of the ₹8.36 lakh crore paid at MSP for those crops, about 87%.
 
 ## So who actually benefits?
 
@@ -111,4 +111,4 @@ Awareness is another limit. A NITI Aayog study cited by PRS found that only 10% 
 
 **The government says it wants farmers to diversify away from cereals.** The PIB release on rabi MSPs says it has been promoting crops other than cereals, such as pulses and oilseeds, through higher MSPs. PRS notes that procurement focused on a few crops has pushed farmers toward them and away from pulses and oilseeds.
 
-The 2027–28 rabi increases follow that pattern: largest for safflower, mustard and masoor, and smallest for wheat.
+The 2027-28 rabi increases follow that pattern: largest for safflower, mustard and masoor, and smallest for wheat.

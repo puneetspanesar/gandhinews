@@ -29,7 +29,7 @@ sources:
     date: 2026-10-22
     url: "https://www.businesstoday.in/markets/stocks/story/infosys-q2-results-dividend-earnings-expectations-timing-fy27-guidance-targets-563068-2026-10-22"
     primary: false
-  - title: "Q2 Results October 23–24, 2026: Infosys, BPCL, IndusInd Bank and more"
+  - title: "Q2 Results October 23-24, 2026: Infosys, BPCL, IndusInd Bank and more"
     publisher: "Kalkine Media"
     date: 2026-10-15
     url: "https://www.kalkine.co.in/article/earnings/q2-results-on-october-2324-infosys-bpcl-indusind-bank-and-39-other-stocks-in-focus"

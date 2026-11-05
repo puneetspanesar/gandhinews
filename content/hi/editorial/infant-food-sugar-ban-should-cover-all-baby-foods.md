@@ -45,7 +45,7 @@ sources:
     date: 2024-04-19
     url: "https://thesouthfirst.com/health/ccpa-asks-fssai-to-probe-into-reports-on-cerelac-reduced-sugar-by-30-in-baby-foods-claims-nestle/"
     primary: false
-  - title: "WHO guideline for complementary feeding of infants and young children 6–23 months of age"
+  - title: "WHO guideline for complementary feeding of infants and young children 6-23 months of age"
     publisher: "Emergency Nutrition Network"
     date: 2024-04-11
     url: "https://ennonline.net/fex/72/who-guideline-for-complementary-feeding-of-infants-and-young-children"

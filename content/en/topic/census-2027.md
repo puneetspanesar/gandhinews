@@ -55,7 +55,7 @@ Ladakh and the snow-bound areas of Jammu and Kashmir, Himachal Pradesh and Uttar
 The questions also include new items such as particulars of parents and spouse, digital literacy and where a person received a Covid-19 vaccine. The notification does not include a pre-set list of castes, so answers are to be recorded as given. How the Registrar General will group those answers, and when caste tables will be published, has not been announced.
 
 ```timeline
-{"title":"Key dates","items":[{"date":"Apr–Sep 2026","text":"House listing and housing phase"},{"date":"Aug 14, 2026","text":"40 population questions notified, including caste"},{"date":"Sep 5, 2026","text":"Count advanced in four poll-bound states"},{"date":"Dec 1, 2026–Jan 4, 2027","text":"Count in UP, Punjab, Goa and non-snow-bound Uttarakhand"},{"date":"Feb 2027","text":"Count in the rest of India"},{"date":"Mar 1, 2027","text":"Reference date for most of India"}]}
+{"title":"Key dates","items":[{"date":"Apr-Sep 2026","text":"House listing and housing phase"},{"date":"Aug 14, 2026","text":"40 population questions notified, including caste"},{"date":"Sep 5, 2026","text":"Count advanced in four poll-bound states"},{"date":"Dec 1, 2026 to Jan 4, 2027","text":"Count in UP, Punjab, Goa and non-snow-bound Uttarakhand"},{"date":"Feb 2027","text":"Count in the rest of India"},{"date":"Mar 1, 2027","text":"Reference date for most of India"}]}
 ```
 
 ```facts

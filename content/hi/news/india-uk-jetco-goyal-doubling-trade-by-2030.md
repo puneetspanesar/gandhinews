@@ -24,7 +24,7 @@ related: [india-us-trade-talks-plateau-russia-oil-tariff-law]
 seo:
   description: "भारत-ब्रिटेन जेटको की 16वीं बैठक नई दिल्ली में हुई। सीईटीए के इस्तेमाल पर सालाना डेटा साझा करने पर सहमति, पीयूष गोयल ने 2030 तक व्यापार दोगुना करने को कहा।"
 sources:
-  - title: "Joint Statement of 16th Meeting of the India–UK JETCO"
+  - title: "Joint Statement of 16th Meeting of the India-UK JETCO"
     publisher: "GOV.UK (Department for Business and Trade)"
     date: 2026-10-12
     url: "https://www.gov.uk/government/news/joint-statement-of-16th-meeting-of-the-india-uk-jetco"

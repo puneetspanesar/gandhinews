@@ -69,7 +69,7 @@ Beyond the big-ticket sectors, the leaders agreed to build partnerships drawing 
 
 "Our relationship in the domains of IT and cybersecurity is already robust," Modi said.
 
-Jaishankar, after his morning meeting, wrote on X that he "appreciated his sharing thoughts on deepening India - Poland cooperation across a wide range of domains."
+Jaishankar, after his morning meeting, wrote on X that he "appreciated his sharing thoughts on deepening India-Poland cooperation across a wide range of domains."
 
 ## What comes next
 

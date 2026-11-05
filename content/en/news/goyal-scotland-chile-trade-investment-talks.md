@@ -38,7 +38,7 @@ verification:
 
 Commerce and Industry Minister Piyush Goyal held separate meetings on Wednesday with Scotland's First Minister, John Swinney, and a Chilean delegation led by former President Eduardo Frei, as India works to make use of its new trade agreements and close new ones.
 
-With Swinney, the talks centred on what the India-UK Comprehensive Economic and Trade Agreement (CETA) opens up, particularly in semiconductors, renewable energy, data centres and other technology-led sectors. "We held productive discussions on advancing the India–Scotland economic and trade partnership," Goyal wrote on X afterwards. The two also discussed higher education, science, space, tourism and links between industries in both countries.
+With Swinney, the talks centred on what the India-UK Comprehensive Economic and Trade Agreement (CETA) opens up, particularly in semiconductors, renewable energy, data centres and other technology-led sectors. "We held productive discussions on advancing the India-Scotland economic and trade partnership," Goyal wrote on X afterwards. The two also discussed higher education, science, space, tourism and links between industries in both countries.
 
 The CETA came into force on July 15, 2026. The Commerce Ministry says it gives nearly 99% of India's exports zero-duty access to the British market.
 

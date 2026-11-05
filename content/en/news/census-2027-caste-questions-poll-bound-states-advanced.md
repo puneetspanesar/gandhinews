@@ -102,7 +102,7 @@ In Uttar Pradesh, Punjab, Goa and non-snow-bound Uttarakhand, residents can coun
 Business Standard linked the change to assembly elections: the terms of the Goa, Punjab and Uttarakhand assemblies end in March 2027 and Uttar Pradesh's in May 2027. The notification itself gives no reason.
 
 ```timeline
-{"title":"Census 2027: the schedule","items":[{"date":"Apr–Sep 2026","text":"Phase 1: house listing and housing census, state by state"},{"date":"Aug 14, 2026","text":"40 population enumeration questions notified, including caste"},{"date":"Sep 2026","text":"Population count in Ladakh and snow-bound areas of J&K, Himachal Pradesh and Uttarakhand (reference date Oct 1, 2026)"},{"date":"Nov 16-30, 2026","text":"Self-enumeration in UP, Punjab, Goa and non-snow-bound Uttarakhand"},{"date":"Dec 1, 2026–Jan 4, 2027","text":"Door-to-door count in those four states (reference date Jan 5, 2027)"},{"date":"Feb 2027","text":"Population count in the rest of India (reference date Mar 1, 2027)"}]}
+{"title":"Census 2027: the schedule","items":[{"date":"Apr-Sep 2026","text":"Phase 1: house listing and housing census, state by state"},{"date":"Aug 14, 2026","text":"40 population enumeration questions notified, including caste"},{"date":"Sep 2026","text":"Population count in Ladakh and snow-bound areas of J&K, Himachal Pradesh and Uttarakhand (reference date Oct 1, 2026)"},{"date":"Nov 16-30, 2026","text":"Self-enumeration in UP, Punjab, Goa and non-snow-bound Uttarakhand"},{"date":"Dec 1, 2026 to Jan 4, 2027","text":"Door-to-door count in those four states (reference date Jan 5, 2027)"},{"date":"Feb 2027","text":"Population count in the rest of India (reference date Mar 1, 2027)"}]}
 ```
 
 ## The rest of India

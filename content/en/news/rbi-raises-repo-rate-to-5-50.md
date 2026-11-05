@@ -76,7 +76,7 @@ The six-member MPC, chaired by Governor Sanjay Malhotra, met from October 5 to 7
 
 All six members voted for the 25 basis point increase. The members are Governor Malhotra, Dr Poonam Gupta, Indranil Bhattacharyya, and the three external members, Dr Nagesh Kumar, Saugata Bhattacharya and Prof. Ram Singh.
 
-The stance change was not unanimous. The resolution says: "Two members - Dr. Nagesh Kumar and Prof. Ram Singh - were of the view that the stance be retained at neutral."
+The stance change was not unanimous. The resolution says: "Two members, Dr. Nagesh Kumar and Prof. Ram Singh, were of the view that the stance be retained at neutral."
 
 The committee said rate cuts are "off the table in the near term", which leaves either another increase or a pause as the next move.
 

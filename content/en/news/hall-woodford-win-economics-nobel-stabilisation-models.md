@@ -76,7 +76,7 @@ Woodford built on that idea. In 2003 he set out a complete "New Keynesian" model
 
 ## Why central banks care
 
-The model gave central banks a way to steer the economy through interest rates rather than the money supply, and a reason to say clearly where rates are heading. That practice, known as forward guidance, became vital during the 2008–09 financial crisis, when rates were already near zero.
+The model gave central banks a way to steer the economy through interest rates rather than the money supply, and a reason to say clearly where rates are heading. That practice, known as forward guidance, became vital during the 2008-09 financial crisis, when rates were already near zero.
 
 "With them, we are better equipped to deal with shocks in the economy, such as energy crises or sudden changes in how much households consume," said John Hassler, who chairs the prize committee. He said the laureates had given "a stable theoretical foundation for the models that are now used by central banks and governments around the world".
 
