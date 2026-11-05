@@ -77,10 +77,6 @@ Financial shares carried the rally. **ICICI Bank alone added 119.19 points** to 
 
 Nifty Auto was the best-performing sector, **up 4.14%**, while realty and IT also gained. InterGlobe Aviation, which runs IndiGo and gains most when jet fuel gets cheaper, rose 5.43%, and Asian Paints 4.36%. Shriram Finance was also among the leading gainers.
 
-```photo
-{"n":2,"subject":"IndiGo Airbus A320neo","caption":"An IndiGo aircraft. Shares of InterGlobe Aviation rose 5.43% as falling crude promised cheaper jet fuel.","alt":"An IndiGo Airbus A320neo aircraft"}
-```
-
 The few drags were Bharti Airtel, which cost the Nifty 7.30 points ahead of its September-quarter results, NTPC and Apollo Hospitals. Pharma, healthcare, media and energy lagged the market.
 
 ## Broad buying

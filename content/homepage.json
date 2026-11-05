@@ -17,15 +17,15 @@
     },
     "dataBox": [],
     "relatedBelow": [
+      "andhra-parishad-polls-30-50-per-cent-1pm-kadapa-highest-bapatla-lowest",
       "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest",
-      "andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula",
-      "andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead"
+      "andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula"
     ],
     "relatedBeside": [
-      "sensex-nifty-afternoon-rally-november-5",
-      "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears",
-      "supreme-court-sends-azam-khan-ed-arrest-plea-allahabad-hc-november-16",
-      "us-midterms-schumer-lower-costs-with-or-without-trump",
+      "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
+      "sensex-nifty-close-november-5-rally",
+      "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
+      "siraj-to-join-india-odi-squad-wellington-missed-auckland",
       "us-midterms-alaska-sullivan-peltola-too-close-to-call"
     ],
     "live": {
@@ -38,32 +38,43 @@
   "briefing": {
     "items": [
       {
-        "link": "sensex-nifty-afternoon-rally-november-5",
+        "link": "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
+        "lead": {
+          "en": "Courts:",
+          "hi": "अदालत:"
+        },
+        "text": {
+          "en": "Centre tells Supreme Court it may set up panel to revisit UGC caste discrimination rules",
+          "hi": "यूजीसी के जातिगत भेदभाव नियमों की समीक्षा के लिए समिति बना सकती है सरकार, केंद्र ने सुप्रीम कोर्ट से कहा"
+        }
+      },
+      {
+        "link": "sensex-nifty-close-november-5-rally",
         "lead": {
           "en": "Markets:",
           "hi": "बाजार:"
         },
         "text": {
-          "en": "Sensex up 1,855 points and Nifty near 24,500 as Dalal Street extends rally into the afternoon",
-          "hi": "दोपहर तक सेंसेक्स 1,855 अंक चढ़ा, निफ्टी 24,500 के करीब; दलाल स्ट्रीट पर तेजी जारी"
+          "en": "Sensex soars 2,009 points to 79,310, Nifty ends at 24,537 as banks and autos power sixth straight gain",
+          "hi": "सेंसेक्स 2,009 अंक उछलकर 79,310 पर बंद, निफ्टी 24,537 पर; बैंक और ऑटो शेयरों से लगातार छठे दिन तेजी"
         }
       },
       {
-        "link": "andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri",
+        "link": "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
         "lead": {
-          "en": "Andhra:",
-          "hi": "आंध्र:"
+          "en": "Tirupati:",
+          "hi": "तिरुपति:"
         },
         "text": {
-          "en": "SEC says parishad polling is smooth as ballot boxes are thrown down in a Marutla booth clash",
-          "hi": "राज्य चुनाव आयुक्त बोले मतदान सुचारु, मारुतला बूथ झड़प में मतपेटियां फेंकी गईं"
+          "en": "Supreme Court refuses to move Tirupati laddu ghee trial out of Andhra Pradesh",
+          "hi": "तिरुपति लड्डू घी मामले का मुकदमा आंध्र से बाहर ले जाने से सुप्रीम कोर्ट का इनकार"
         }
       },
       {
         "link": "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears",
         "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
+          "en": "Punjab:",
+          "hi": "पंजाब:"
         },
         "text": {
           "en": "Supreme Court halts criminal contempt case against Punjab Chief Secretary over DA arrears",
@@ -71,25 +82,14 @@
         }
       },
       {
-        "link": "supreme-court-sends-azam-khan-ed-arrest-plea-allahabad-hc-november-16",
+        "link": "ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent",
         "lead": {
-          "en": "Azam Khan:",
-          "hi": "आजम खान:"
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
         },
         "text": {
-          "en": "Supreme Court sends Azam Khan's plea against ED arrest to Allahabad High Court",
-          "hi": "ईडी की गिरफ्तारी के खिलाफ आजम खान की याचिका सुप्रीम कोर्ट ने इलाहाबाद हाईकोर्ट भेजी"
-        }
-      },
-      {
-        "link": "cabinet-fast-track-special-courts-2031-850-courts",
-        "lead": {
-          "en": "Cabinet:",
-          "hi": "कैबिनेट:"
-        },
-        "text": {
-          "en": "Cabinet extends fast-track courts for rape and POCSO trials till 2031, network to grow to 850",
-          "hi": "दुष्कर्म और पॉक्सो मामलों की फास्ट ट्रैक अदालतें 2031 तक जारी रहेंगी, संख्या बढ़कर 850 होगी"
+          "en": "YSRCP alleges agents blocked and voters stopped in Pulivendula as Palnadu logs 12% by 9 am",
+          "hi": "वाईएसआरसीपी का आरोप, पुलिवेंदुला में एजेंट रोके गए और मतदाता लौटाए गए; पलनाडु में 9 बजे तक 12% मतदान"
         }
       },
       {
@@ -194,15 +194,15 @@
       "also": []
     },
     "list": [
+      "us-midterms-schumer-lower-costs-with-or-without-trump",
+      "naveen-patnaik-writes-majhi-kotia-andhra-elections",
       "alcaraz-beats-michelsen-fils-machac-paris-masters-last-16",
-      "mahindra-q2-profit-rises-13-per-cent-revenue-27-suv",
-      "cabinet-fast-track-special-courts-2031-850-courts",
-      "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action",
-      "supreme-court-24-hour-production-runs-from-detention-not-arrest"
+      "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears",
+      "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action"
     ],
     "also": [
-      "siraj-to-join-india-odi-squad-wellington-missed-auckland",
-      "como-nine-at-lens-city-arsenal-win-champions-league"
+      "cabinet-fast-track-special-courts-2031-850-courts",
+      "hijikata-stuns-djokovic-paris-masters-turin-hopes-end"
     ]
   },
   "startHere": [
@@ -378,15 +378,15 @@
         "article": "bypoll-results-ruling-parties-win-all-six-seats"
       },
       "list": [
+        "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears",
         "supreme-court-sends-azam-khan-ed-arrest-plea-allahabad-hc-november-16",
-        "supreme-court-24-hour-production-runs-from-detention-not-arrest",
-        "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action"
+        "supreme-court-24-hour-production-runs-from-detention-not-arrest"
       ],
-      "lead": "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears"
+      "lead": "supreme-court-ugc-equity-regulations-centre-mulls-review-panel"
     },
     {
       "section": "economy",
-      "lead": "irb-infrastructure-q2-profit-rises-85-per-cent-260-crore",
+      "lead": "sensex-nifty-close-november-5-rally",
       "module": {
         "type": "markets",
         "indicators": [
@@ -397,19 +397,19 @@
         ]
       },
       "list": [
+        "irb-infrastructure-q2-profit-rises-85-per-cent-260-crore",
         "sensex-nifty-afternoon-rally-november-5",
         "mahindra-q2-profit-rises-13-per-cent-revenue-27-suv",
-        "rupee-opens-29-paise-94-35-fifth-gain-brent-93",
-        "sensex-1553-points-bse-market-cap-500-lakh-crore-10am"
+        "rupee-opens-29-paise-94-35-fifth-gain-brent-93"
       ]
     },
     {
       "section": "states",
-      "lead": "andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri",
+      "lead": "andhra-parishad-polls-30-50-per-cent-1pm-kadapa-highest-bapatla-lowest",
       "list": [
+        "andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri",
         "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest",
-        "andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula",
-        "andhra-parishad-polls-4-8-per-cent-9am-ntr-krishna-lead"
+        "andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula"
       ]
     },
     {
