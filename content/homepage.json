@@ -22,11 +22,11 @@
       "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest"
     ],
     "relatedBeside": [
+      "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears",
+      "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
       "fii-buy-14975-crore-november-5-dii-sell-10445",
-      "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
-      "modi-meets-asian-para-games-medallists-delhi",
-      "us-midterms-schumer-lower-costs-with-or-without-trump",
-      "como-nine-at-lens-city-arsenal-win-champions-league"
+      "jagan-parishad-polls-selections-naidu-hijacked",
+      "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore"
     ],
     "live": {
       "title": {
@@ -37,6 +37,28 @@
   },
   "briefing": {
     "items": [
+      {
+        "link": "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears",
+        "lead": {
+          "en": "Courts:",
+          "hi": "अदालत:"
+        },
+        "text": {
+          "en": "Supreme Court halts contempt case against Punjab Chief Secretary, asks for DA payment plan",
+          "hi": "पंजाब के मुख्य सचिव पर अवमानना केस रुका, सुप्रीम कोर्ट ने डीए भुगतान की योजना मांगी"
+        }
+      },
+      {
+        "link": "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
+        "lead": {
+          "en": "Tamil Nadu:",
+          "hi": "तमिलनाडु:"
+        },
+        "text": {
+          "en": "Bodies of missing Kasimedu fishermen found on Andhra coast, Vijay announces ₹7 lakh aid",
+          "hi": "लापता कासिमेडु मछुआरों के शव आंध्र तट पर मिले, विजय ने ₹7 लाख मदद का ऐलान किया"
+        }
+      },
       {
         "link": "fii-buy-14975-crore-november-5-dii-sell-10445",
         "lead": {
@@ -60,14 +82,14 @@
         }
       },
       {
-        "link": "us-midterms-schumer-lower-costs-with-or-without-trump",
+        "link": "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
         "lead": {
-          "en": "United States:",
-          "hi": "अमेरिका:"
+          "en": "Companies:",
+          "hi": "कंपनियां:"
         },
         "text": {
-          "en": "Schumer says Democrats will drive costs down 'with the president or without him'",
-          "hi": "शूमर बोले, डेमोक्रेट्स 'राष्ट्रपति के साथ या उनके बिना' महंगाई घटाएंगे"
+          "en": "Fortis Healthcare's Q2 revenue rises 17% to ₹2,735 crore, profit steady at ₹320 crore",
+          "hi": "फ़ोर्टिस हेल्थकेयर की दूसरी तिमाही की आय 17% बढ़कर ₹2,735 करोड़, मुनाफ़ा ₹320 करोड़ पर स्थिर"
         }
       },
       {
@@ -90,28 +112,6 @@
         "text": {
           "en": "Centre tells Supreme Court it may set up panel to revisit UGC caste discrimination rules",
           "hi": "यूजीसी के जातिगत भेदभाव नियमों की समीक्षा के लिए समिति बना सकती है सरकार, केंद्र ने सुप्रीम कोर्ट से कहा"
-        }
-      },
-      {
-        "link": "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
-        "lead": {
-          "en": "Tirupati:",
-          "hi": "तिरुपति:"
-        },
-        "text": {
-          "en": "Supreme Court refuses to move Tirupati laddu ghee trial out of Andhra Pradesh",
-          "hi": "तिरुपति लड्डू घी मामले का मुकदमा आंध्र से बाहर नहीं जाएगा, सुप्रीम कोर्ट ने याचिका खारिज की"
-        }
-      },
-      {
-        "link": "ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent",
-        "lead": {
-          "en": "Andhra Pradesh:",
-          "hi": "आंध्र प्रदेश:"
-        },
-        "text": {
-          "en": "YSRCP alleges agents blocked and voters stopped in Pulivendula as Palnadu logs 12% in the first two hours",
-          "hi": "वाईएसआरसीपी का आरोप, पुलिवेंदुला में एजेंट रोके गए और मतदाता लौटाए गए; पलनाडु में पहले दो घंटों में 12% मतदान"
         }
       },
       {
@@ -190,17 +190,20 @@
   },
   "topStories": {
     "big": {
-      "id": "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
+      "id": "modi-meets-asian-para-games-medallists-delhi",
       "also": []
     },
     "list": [
-      "jagan-parishad-polls-selections-naidu-hijacked",
-      "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
-      "fenerbahce-3-2-liverpool-muriqi-valverde-real-madrid-aek",
+      "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
+      "india-japan-asian-champions-trophy-final-mohali-preview",
       "alcaraz-beats-michelsen-fils-machac-paris-masters-last-16",
-      "hijikata-stuns-djokovic-paris-masters-turin-hopes-end"
+      "como-nine-at-lens-city-arsenal-win-champions-league",
+      "fenerbahce-3-2-liverpool-muriqi-valverde-real-madrid-aek"
     ],
-    "also": []
+    "also": [
+      "us-midterms-schumer-lower-costs-with-or-without-trump",
+      "hijikata-stuns-djokovic-paris-masters-turin-hopes-end"
+    ]
   },
   "startHere": [
     "24-hour-rule-explained-article-22-detention-arrest",
@@ -402,10 +405,10 @@
     },
     {
       "section": "states",
-      "lead": "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7",
+      "lead": "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
       "list": [
+        "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7",
         "jagan-parishad-polls-selections-naidu-hijacked",
-        "andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6",
         "andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri"
       ]
     },
