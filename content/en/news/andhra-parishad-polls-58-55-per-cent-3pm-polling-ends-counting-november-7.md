@@ -5,13 +5,14 @@ type: news
 section: states
 format_label: "States / Andhra Pradesh"
 topics: []
-title: "Andhra parishad polling ends with 58.55% turnout at 3 pm; counting on November 7"
+title: "Andhra parishad polling ends; officials estimate 65% to 68% turnout, counting on November 7"
 standfirst: "Voting for mandal and zilla parishads closed at 5 pm after a slow, rain-hit morning and a busy afternoon. Officials expect the final figure to land between 65% and 68%."
 published: 2026-11-05T20:09:11+05:30
+updated: 2026-11-05T20:20:00+05:30
 location: Vijayawada
 keyPoints:
-  - "Statewide turnout in the MPTC and ZPTC polls had reached **58.55% by 3 pm**, election officials said."
-  - "Officials put their preliminary estimate for the close at **65% to 68%**; the final figure is still awaited."
+  - "Officials put their preliminary estimate for the close of the MPTC and ZPTC polls at **65% to 68%**; the final figure is still awaited."
+  - "Turnout had **nearly doubled in the afternoon**, from 30.50% at 1 pm to 58.55% two hours later."
   - "Ballot boxes are in strong rooms and **votes will be counted on November 7**."
 hero:
   need: "Voters at a polling station during rural local body elections in Andhra Pradesh"
@@ -19,11 +20,11 @@ hero:
   subjects: ["Polling station Andhra Pradesh", "Ballot box India"]
   alt: "Voters at a polling station in Andhra Pradesh (file photo)"
   overlay:
-    value: "58.55% by 3 pm, count on Nov 7"
+    value: "65% to 68% estimated, count on Nov 7"
 infographic:
   kicker: "Andhra parishad polls"
-  headline: "Turnout climbs to 58.55% by 3 pm"
-  dek: "Officials estimate 65% to 68% at the close"
+  headline: "Officials estimate 65% to 68% turnout"
+  dek: "Polling closed at 5 pm; counting on November 7"
   motif: check-square
   stats:
     - {icon: percent, value: "58.55%", label: "statewide turnout at 3 pm"}
@@ -32,7 +33,7 @@ infographic:
   source: "Election officials, Andhra Pradesh, November 5, 2026"
 related: [andhra-parishad-polls-30-50-per-cent-1pm-kadapa-highest-bapatla-lowest, jagan-parishad-polls-selections-naidu-hijacked, andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri, andhra-parishad-polls-7767-mptc-582-zptc-seats-2128-unanimous]
 seo:
-  description: "Andhra Pradesh MPTC and ZPTC polls ended at 5 pm on November 5, 2026 with 58.55% turnout recorded by 3 pm; officials estimate 65-68% at close. Counting on November 7."
+  description: "Andhra Pradesh MPTC and ZPTC polls ended at 5 pm on November 5, 2026, with 58.55% turnout recorded by 3 pm; officials estimate 65-68% at close. Counting on November 7."
 sources:
   - title: "Polling for MPTC and ZPTC elections concludes in AP; counting and results on the 7th"
     publisher: "Namasthe Telangana"
@@ -57,14 +58,14 @@ verification:
     - "Unopposed 77 ZPTC + 2,051 MPTC = 2,128, matching earlier stories. Re-poll possibility on Nov 6 and MPP/ZP chair elections on Nov 11 and 12 from ap7am and Namasthe Telangana. SEC and Eenadu pages blocked or not reached."
 ---
 
-Polling in Andhra Pradesh's mandal and zilla parishad elections closed at 5 pm on Thursday, November 5, 2026, with statewide turnout at **58.55% by 3 pm**, election officials said. Voters still standing in line at closing time were allowed to cast their ballots.
+Polling in Andhra Pradesh's mandal and zilla parishad elections closed at 5 pm on Thursday, November 5, 2026, and election officials put the **likely final turnout at 65% to 68%**, though the official figure is still awaited. Statewide turnout had reached 58.55% in the afternoon count. Voters still standing in line at closing time were allowed to cast their ballots.
 
 The afternoon changed the day. Rain held voters back in many villages in the morning, and turnout stood at only 30.50% at 1 pm. Over the next two hours **turnout nearly doubled** as people crowded into polling stations once the weather eased.
 
 Officials have not yet released a final figure. Their **preliminary estimate is 65% to 68%** for the full day. They said voting was strong in parts of Rayalaseema and coastal Andhra, and somewhat lower in some tribal and coastal areas.
 
 ```photo
-{"n":1,"subject":"Ballot box India","caption":"Ballot boxes from Thursday's vote were sealed before polling agents and moved to guarded strong rooms (file photo).","alt":"Ballot boxes at an Indian counting centre (file photo)"}
+{"n":1,"subject":"Ballot box India","caption":"Ballot boxes from Thursday's vote were sealed and moved to guarded strong rooms; here, officials carry a ballot box at a counting centre (file photo).","alt":"Election officials carry a ballot box at a counting centre (file photo)"}
 ```
 
 The day was not free of trouble. Supporters of the YSRCP and the ruling TDP **clashed at some polling stations** in Palnadu, Anantapur, Chandragiri and NTR districts, with shoving, sticks and stones and, in a few places, petrol bombs. Police moved in quickly and polling was not seriously disrupted, officials said.

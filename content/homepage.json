@@ -1,14 +1,14 @@
 {
   "lead": {
-    "id": "jagan-parishad-polls-selections-naidu-hijacked",
+    "id": "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7",
     "overlay": {
       "kicker": {
         "en": "States / Andhra Pradesh",
         "hi": "राज्य / आंध्र प्रदेश"
       },
       "value": {
-        "en": "'A scar on the face of democracy'",
-        "hi": "'लोकतंत्र के चेहरे पर दाग'"
+        "en": "65% to 68% estimated, count on Nov 7",
+        "hi": "65% से 68% का अनुमान, गिनती 7 नवंबर"
       },
       "text": {
         "en": "",
@@ -18,14 +18,15 @@
     "dataBox": [],
     "relatedBelow": [
       "andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri",
+      "andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
       "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest"
     ],
     "relatedBeside": [
-      "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
-      "modi-meets-asian-para-games-medallists-delhi",
-      "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8",
+      "fii-buy-14975-crore-november-5-dii-sell-10445",
       "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
-      "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra"
+      "modi-meets-asian-para-games-medallists-delhi",
+      "us-midterms-schumer-lower-costs-with-or-without-trump",
+      "como-nine-at-lens-city-arsenal-win-champions-league"
     ],
     "live": {
       "title": {
@@ -37,14 +38,36 @@
   "briefing": {
     "items": [
       {
-        "link": "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
+        "link": "fii-buy-14975-crore-november-5-dii-sell-10445",
         "lead": {
-          "en": "Companies:",
-          "hi": "कंपनियां:"
+          "en": "Markets:",
+          "hi": "बाज़ार:"
         },
         "text": {
-          "en": "Fortis Healthcare's Q2 revenue rises 17% to ₹2,735 crore, profit steady at ₹320 crore",
-          "hi": "फ़ोर्टिस हेल्थकेयर की दूसरी तिमाही की आय 17% बढ़कर ₹2,735 करोड़, मुनाफ़ा ₹320 करोड़ पर स्थिर"
+          "en": "Foreign investors buy ₹14,975 crore of Indian shares on Sensex's 2,009-point day",
+          "hi": "सेंसेक्स की 2,009 अंकों की छलांग वाले दिन विदेशी निवेशकों ने ₹14,975 करोड़ के शेयर खरीदे"
+        }
+      },
+      {
+        "link": "jagan-parishad-polls-selections-naidu-hijacked",
+        "lead": {
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
+        },
+        "text": {
+          "en": "Jagan says parishad polls were 'neither free nor fair', accuses Naidu government of hijacking vote",
+          "hi": "जगन बोले, परिषद चुनाव 'न स्वतंत्र थे न निष्पक्ष'; नायडू सरकार पर चुनाव हथियाने का आरोप"
+        }
+      },
+      {
+        "link": "us-midterms-schumer-lower-costs-with-or-without-trump",
+        "lead": {
+          "en": "United States:",
+          "hi": "अमेरिका:"
+        },
+        "text": {
+          "en": "Schumer says Democrats will drive costs down 'with the president or without him'",
+          "hi": "शूमर बोले, डेमोक्रेट्स 'राष्ट्रपति के साथ या उनके बिना' महंगाई घटाएंगे"
         }
       },
       {
@@ -56,17 +79,6 @@
         "text": {
           "en": "Modi tells record Asian Para Games team they 'filled the entire nation with immense pride'",
           "hi": "रिकॉर्ड पैरा दल से मोदी बोले, 'आपने पूरे देश को गर्व से भर दिया'"
-        }
-      },
-      {
-        "link": "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8",
-        "lead": {
-          "en": "Companies:",
-          "hi": "कंपनियां:"
-        },
-        "text": {
-          "en": "ONGC Q2 profit jumps 57% to ₹15,489 crore, ₹8 interim dividend declared",
-          "hi": "ONGC का दूसरी तिमाही का मुनाफ़ा 57% बढ़कर ₹15,489 करोड़, ₹8 का अंतरिम लाभांश"
         }
       },
       {
@@ -83,8 +95,8 @@
       {
         "link": "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
         "lead": {
-          "en": "Courts:",
-          "hi": "अदालत:"
+          "en": "Tirupati:",
+          "hi": "तिरुपति:"
         },
         "text": {
           "en": "Supreme Court refuses to move Tirupati laddu ghee trial out of Andhra Pradesh",
@@ -111,17 +123,6 @@
         "text": {
           "en": "India chase sixth Asian Champions Trophy title against Japan in Mohali final tonight",
           "hi": "एशियन चैंपियंस ट्रॉफी: छठे खिताब के लिए आज रात मोहाली में जापान से भिड़ेगा भारत"
-        }
-      },
-      {
-        "link": "us-midterms-schumer-lower-costs-with-or-without-trump",
-        "lead": {
-          "en": "US midterms:",
-          "hi": "अमेरिकी मध्यावधि चुनाव:"
-        },
-        "text": {
-          "en": "Schumer says Democrats will drive costs down 'with the president or without him'",
-          "hi": "शूमर बोले, डेमोक्रेट्स 'राष्ट्रपति के साथ या उनके बिना' महंगाई घटाएंगे"
         }
       }
     ]
@@ -189,15 +190,15 @@
   },
   "topStories": {
     "big": {
-      "id": "ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent",
+      "id": "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
       "also": []
     },
     "list": [
-      "india-japan-asian-champions-trophy-final-mohali-preview",
-      "us-midterms-schumer-lower-costs-with-or-without-trump",
-      "hijikata-stuns-djokovic-paris-masters-turin-hopes-end",
-      "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action",
-      "wall-street-jumps-dow-1131-democrats-win-congress"
+      "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
+      "jagan-parishad-polls-selections-naidu-hijacked",
+      "fenerbahce-3-2-liverpool-muriqi-valverde-real-madrid-aek",
+      "alcaraz-beats-michelsen-fils-machac-paris-masters-last-16",
+      "hijikata-stuns-djokovic-paris-masters-turin-hopes-end"
     ],
     "also": []
   },
@@ -382,7 +383,7 @@
     },
     {
       "section": "economy",
-      "lead": "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
+      "lead": "fii-buy-14975-crore-november-5-dii-sell-10445",
       "module": {
         "type": "markets",
         "indicators": [
@@ -393,19 +394,19 @@
         ]
       },
       "list": [
+        "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
         "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8",
         "glenmark-pharma-q2-profit-falls-57-per-cent-264-crore",
-        "titan-q2-standalone-profit-doubles-2393-crore",
-        "bharti-airtel-q2-profit-31-per-cent-8888-crore-arpu-271"
+        "titan-q2-standalone-profit-doubles-2393-crore"
       ]
     },
     {
       "section": "states",
-      "lead": "jagan-parishad-polls-selections-naidu-hijacked",
+      "lead": "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7",
       "list": [
+        "jagan-parishad-polls-selections-naidu-hijacked",
         "andhra-parishad-polls-30-50-per-cent-1pm-kadapa-highest-bapatla-lowest",
-        "andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri",
-        "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest"
+        "andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri"
       ]
     },
     {

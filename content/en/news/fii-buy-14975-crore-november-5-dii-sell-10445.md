@@ -6,7 +6,7 @@ section: economy
 format_label: "Economy / Markets"
 topics: []
 title: "Foreign investors buy ₹14,975 crore of Indian shares on Sensex's 2,009-point day"
-standfirst: "Provisional exchange data out on Thursday evening show foreign institutions doubling their buying for the third day in four, while domestic funds sold ₹10,445 crore into the rally."
+standfirst: "Provisional exchange data out on Thursday evening show foreign institutions roughly doubling Wednesday's buying on their fourth straight buying day, while domestic funds sold ₹10,445 crore into the rally."
 published: 2026-11-05T20:09:48+05:30
 location: Mumbai
 keyPoints:
@@ -57,7 +57,7 @@ sources:
 verification:
   status: approved
   notes:
-    - "Nov 5 figures (FII +14,975 cr, DII -10,445 cr, net only) from NiftyTrader page 'Updated 05 Nov 2026', no clock time; fetched about 8:10 pm IST. Gross buy/sell for Nov 5 not available, not used."
+    - "Nov 5 figures (FII +14,975 cr, DII -10,445 cr, net only) from NiftyTrader page 'Updated Nov 5, 2026', no clock time; fetched about 8:10 pm IST. Gross buy/sell for Nov 5 not available, not used."
     - "Cross-check: 5paisa month-to-date to Nov 4 (FII +17,235.5, DII -7,783.2) plus Nov 5 equals NiftyTrader November totals (FII +32,210, DII -18,228). Nov 2 to 4 daily figures from 5paisa; Nov 4 also matches Trendlyne (+7,284.03 / -3,712.23)."
     - "NiftyTrader also gives a five-session FII buying streak totalling +35,809 cr; not used because the Oct 30 figure was not seen. Copy says only that FIIs bought in every November session."
     - "Sensex/Nifty close figures from our own close story (DSIJ). Rupee 94.77 Wednesday and Brent about $100 from Bloomberg Nov 4."
@@ -71,9 +71,6 @@ The buying came on the day the Sensex **jumped 2,009 points to 79,310** and the 
 
 ## A month of foreign money
 
-```photo
-{"n":1,"subject":"National Stock Exchange of India Exchange Plaza","caption":"Exchange Plaza in Mumbai, home of the National Stock Exchange, whose cash market carried most of Thursday's trading.","alt":"Exchange Plaza, the National Stock Exchange building in Bandra Kurla Complex, Mumbai (file photo)"}
-```
 
 The flows mark a sharp turn from October, when foreign investors were steady sellers of Indian equities. In November they have bought in every session so far: ₹3,115 crore on Monday, ₹6,837 crore on Tuesday and ₹7,284 crore on Wednesday. That brings their purchases this month to **₹32,210 crore** in four sessions.
 

@@ -1,0 +1,16 @@
+{
+ "run": "hourly-20",
+ "start": "2026-11-05T20:05:26+05:30",
+ "end": "2026-11-05T20:39:21+05:30",
+ "summary": "2 stories (Andhra polls close lead, Nov 5 FII/DII flows), 0 held; editor homepage FAIL partly fixed; hockey final result for next run",
+ "new": [
+  "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7",
+  "fii-buy-14975-crore-november-5-dii-sell-10445"
+ ],
+ "held": [],
+ "editor": "FAIL",
+ "editor_fail": [],
+ "fixed_by_run": null,
+ "breaches": [],
+ "lead": "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7"
+}

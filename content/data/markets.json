@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-05T17:15:00+05:30",
+  "as_of": "2026-11-05T20:15:00+05:30",
   "status": "closed",
   "session_date": "2026-11-05",
   "chart": "nifty-50",
@@ -345,11 +345,11 @@
   ],
   "sectors_source": "https://insights.dsij.in/dsijarticledetail/closing-bell-sensex-surges-2009-points-nifty-reclaims-24500-mark-on-thursday-60324 (Nov 5 close; other sector percentages not given)",
   "flows": {
-    "date": "2026-11-04",
-    "fii": 7284.03,
-    "dii": -3712.23,
+    "date": "2026-11-05",
+    "fii": 14975.0,
+    "dii": -10445.0,
     "unit": "₹ crore",
-    "source": "https://trendlyne.com/macro-data/fii-dii/latest/cash-pastmonth/"
+    "source": "https://www.niftytrader.in/fii-dii-data"
   },
   "notes": [
     "4 Nov, read 19:28 IST (hourly 19:00): no Nov 4 FII/DII provisional figure found in a source read; Nov 3 flows kept. Closing values unchanged.",
