@@ -32,6 +32,7 @@ infographic:
     - {icon: trend-up, value: "24,286", label: "GIFT Nifty at 7:50 am IST"}
     - {icon: trend-down, value: "-5%", label: "Kospi's slide by mid-morning in Seoul"}
     - {icon: currency-inr, value: "₹7,284 cr", label: "net foreign buying of Indian shares on 4 November"}
+  chart: {type: bars, title: "Seoul on Thursday morning, % fall", unit: "%", highlight: -1, items: [{label: "Kosdaq", value: 4, display: "-4%"}, {label: "Kospi", value: 5, display: "-5%"}, {label: "Samsung", value: 6, display: "-6%"}, {label: "SK Hynix", value: 9, display: "-9%"}]}
   source: "Korea Exchange, NSE provisional data, 5 November 2026"
 sources:
   - title: "Seoul shares open lower on Democratic Party victory in US midterm elections"
@@ -73,10 +74,6 @@ GIFT Nifty futures were trading near **24,286 at 7:50 am IST**, about 325 points
 ## Seoul's sell-off
 
 The mood in Korea was very different. The Kospi opened about 2% lower and the fall gathered pace as programme selling cascaded through large chip stocks. At 10:16 am in Seoul, 6:46 am IST, the exchange **triggered a sell-side circuit breaker**, suspending programme sell orders, with Kospi 200 futures down 5.25%. The index slid to the 5,400 level, about 5% down.
-
-```photo
-{"n":1,"subject":"SK Hynix","caption":"SK Hynix, the memory chipmaker whose shares fell about 9% in Seoul on Thursday morning.","alt":"SK Hynix (file photo)"}
-```
 
 Samsung Electronics fell about 6% and **SK Hynix about 9%**. Investors fear that a Democrat-led Congress will tighten rules on AI data centres, hurting demand for memory chips. Overnight the Philadelphia chip index dropped 3.1% to a six-month low, even as the Dow **jumped 3% to 53,356.12** on Wednesday.
 

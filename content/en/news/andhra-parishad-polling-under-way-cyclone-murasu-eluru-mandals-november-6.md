@@ -29,7 +29,6 @@ infographic:
   kicker: "Andhra parishad polls"
   headline: "Rural Andhra votes, four mandals wait a day"
   dek: "Cyclone Murasu rain forces a delay in Eluru district"
-  motif: check-square
   stats:
     - {icon: users, value: "2.61 crore", label: "eligible voters"}
     - {icon: map-pin, value: "7,767", label: "MPTC seats going to the polls"}
@@ -78,10 +77,6 @@ Rural Andhra Pradesh began voting at 7 am on Thursday to choose **members of its
 
 Elsewhere, polling stations opened on time for **582 ZPTC and 7,767 MPTC seats**, the ones left after 77 zilla parishad and 2,051 mandal parishad seats were decided unopposed. There are 2,169 candidates in the ZPTC contests and nearly 19,000 for MPTC seats. Voting ends at 5 pm.
 
-```photo
-{"n":1,"subject":"Cyclone Murasu","caption":"Rain left by Cyclone Murasu forced the election commission to postpone polling in four mandals of Eluru district.","alt":"Rain and flooding from Cyclone Murasu in Andhra Pradesh"}
-```
-
 About 2.61 crore people are eligible to vote, among them roughly 1.32 crore women, 1.28 crore men and 1,282 voters of other genders. Some 2.52 lakh election staff are on duty at about 31,500 polling stations, and the police have deployed **as many as 40,000 personnel**, with surveillance cameras installed at booths to watch for trouble.
 
 ## Long walks and crowded buses
@@ -89,9 +84,5 @@ About 2.61 crore people are eligible to vote, among them roughly 1.32 crore wome
 In the Paderu agency area of Alluri Sitarama Raju district, about 30 families of Moolapeta gram panchayat used the morning to demand a proper road. They said they were **"forced to carry elderly people on palanquins for nearly 20 km"** to reach their polling station.
 
 Many voters had a long journey of a different kind. On Wednesday night the MGBS and LB Nagar bus stations in Hyderabad were packed with people from Andhra heading home to vote, some of them **waiting till midnight for a bus** in the rush of Diwali travel.
-
-```photo
-{"n":2,"subject":"Paderu","caption":"Families in the Paderu agency area said they had to carry elderly voters nearly 20 km to reach a polling station.","alt":"Hills and villages around Paderu in Alluri Sitarama Raju district"}
-```
 
 The vote follows a tense run-up, with the YSR Congress Party alleging attacks on its candidates during nominations. No turnout figure had been released by 8 am. **Counting is on Saturday**, 7 November.
