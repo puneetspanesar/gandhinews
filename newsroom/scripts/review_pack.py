@@ -54,13 +54,14 @@ js = f"""
 const {{chromium}} = require('playwright');
 (async () => {{
   const b = await chromium.launch();
+  const prep = async (pg) => {{ await pg.evaluate(async () => {{ try {{ localStorage.setItem('lv-cookies', 'declined'); }} catch (e) {{}} for (let y = 0; y < document.body.scrollHeight; y += 600) {{ window.scrollTo(0, y); await new Promise(r => setTimeout(r, 120)); }} window.scrollTo(0, 0); }}); await pg.reload({{waitUntil: 'networkidle'}}); await pg.evaluate(async () => {{ for (let y = 0; y < document.body.scrollHeight; y += 600) {{ window.scrollTo(0, y); await new Promise(r => setTimeout(r, 120)); }} window.scrollTo(0, 0); }}); await pg.waitForTimeout(500); }};
   const p = await b.newPage({{viewport: {{width: 1440, height: 1100}}}});
-  await p.goto('http://localhost:{port}/', {{waitUntil: 'networkidle'}});
+  await p.goto('http://localhost:{port}/', {{waitUntil: 'networkidle'}}); await prep(p);
   await p.screenshot({{path: '{OUT}home-desktop-1.png'}});
   await p.evaluate(() => window.scrollTo(0, 1050)); await p.waitForTimeout(400);
   await p.screenshot({{path: '{OUT}home-desktop-2.png'}});
   const m = await b.newPage({{viewport: {{width: 390, height: 844}}, deviceScaleFactor: 2}});
-  await m.goto('http://localhost:{port}/', {{waitUntil: 'networkidle'}});
+  await m.goto('http://localhost:{port}/', {{waitUntil: 'networkidle'}}); await prep(m);
   await m.screenshot({{path: '{OUT}home-mobile.png', clip: {{x: 0, y: 0, width: 390, height: 1700}}, fullPage: true}});
   await b.close();
 }})();
