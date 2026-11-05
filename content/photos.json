@@ -47168,5 +47168,27 @@
   "page": "https://commons.wikimedia.org/wiki/File:RBI_Bhubaneswar.jpg",
   "id": "r-rupee-opens-29-paise-94-35-fifth-gain-brent-93",
   "articleId": "rupee-opens-29-paise-94-35-fifth-gain-brent-93"
+ },
+ {
+  "id": "cx-supreme-court-24-hour-production-runs-from-detention-not--0",
+  "articleId": "part:supreme-court-24-hour-production-runs-from-detention-not-arrest:0",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Supreme_Court_of_India_front_view_06.jpg/1600px-Supreme_Court_of_India_front_view_06.jpg",
+  "credit": "Pinakpani",
+  "licence": "CC BY-SA 4.0",
+  "alt": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_front_view_06.jpg"
+ },
+ {
+  "id": "x-supreme-court-24-hour-production-runs-from-detention-not-arr",
+  "articleId": "supreme-court-24-hour-production-runs-from-detention-not-arrest",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Supreme_Court_of_India_front_view_06.jpg/1600px-Supreme_Court_of_India_front_view_06.jpg",
+  "credit": "Photo: Pinakpani / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Supreme Court judge Justice Ujjal Bhuyan (file photo)",
+  "alt_hi": "सुप्रीम कोर्ट के न्यायाधीश जस्टिस उज्ज्वल भुइयां (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_front_view_06.jpg",
+  "composite": [
+   "cx-supreme-court-24-hour-production-runs-from-detention-not--0"
+  ]
  }
 ]
