@@ -18,11 +18,11 @@
   "dataBox": [],
   "relatedBelow": [],
   "relatedBeside": [
+   "andhra-mptc-zptc-polling-today-2-81-crore-voters",
    "us-midterms-schumer-lower-costs-with-or-without-trump",
-   "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action",
    "hijikata-stuns-djokovic-paris-masters-turin-hopes-end",
-   "india-beat-south-korea-8-1-asian-champions-trophy-semi-final-mohali",
-   "jaishankar-chogm-antigua-dpi-ftas-executive-session"
+   "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action",
+   "india-beat-south-korea-8-1-asian-champions-trophy-semi-final-mohali"
   ],
   "live": {
    "title": {
@@ -33,6 +33,17 @@
  },
  "briefing": {
   "items": [
+   {
+    "link": "andhra-mptc-zptc-polling-today-2-81-crore-voters",
+    "lead": {
+     "en": "Andhra Pradesh:",
+     "hi": "आंध्र प्रदेश:"
+    },
+    "text": {
+     "en": "Andhra Pradesh votes today for mandal and zilla parishads after a two-day delay",
+     "hi": "आंध्र प्रदेश में आज मंडल और जिला परिषद चुनाव, दो दिन की देरी से हो रहा मतदान"
+    }
+   },
    {
     "link": "us-midterms-schumer-lower-costs-with-or-without-trump",
     "lead": {
@@ -109,17 +120,6 @@
      "en": "Naveen Patnaik urges Majhi to take up Kotia at 'highest level' before Andhra polls",
      "hi": "आंध्र के चुनाव से पहले नवीन पटनायक ने माझी से कहा, कोटिया का मुद्दा 'सर्वोच्च स्तर' पर उठाएं"
     }
-   },
-   {
-    "link": "nykaa-physicswallah-q2-profit-nearly-triples-doubles",
-    "lead": {
-     "en": "Companies:",
-     "hi": "कंपनियां:"
-    },
-    "text": {
-     "en": "Nykaa's profit nearly triples and PhysicsWallah's doubles in the September quarter",
-     "hi": "सितंबर तिमाही में नायका का मुनाफा करीब तिगुना, फिजिक्सवाला का दोगुना"
-    }
    }
   ]
  },
@@ -186,19 +186,19 @@
  },
  "topStories": {
   "big": {
-   "id": "naveen-patnaik-writes-majhi-kotia-andhra-elections",
+   "id": "wall-street-jumps-dow-1131-democrats-win-congress",
    "also": []
   },
   "list": [
+   "us-midterms-alaska-sullivan-peltola-too-close-to-call",
+   "naveen-patnaik-writes-majhi-kotia-andhra-elections",
    "nykaa-physicswallah-q2-profit-nearly-triples-doubles",
    "jairam-ramesh-vb-g-ram-g-grievance-rules-jumla",
-   "supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board",
-   "siraj-to-join-india-odi-squad-wellington-missed-auckland",
-   "nadda-bhopal-loktantra-bachao-march-emergency-rahul"
+   "bse-q2-profit-45-per-cent-809-crore-bkc-plot-mmrda"
   ],
   "also": [
-   "himanta-purnea-rally-rahul-bangladesh-seemanchal-sir",
-   "modi-meet-asian-para-games-contingent-thursday"
+   "siraj-to-join-india-odi-squad-wellington-missed-auckland",
+   "dabur-q2-profit-12-per-cent-revenue-3563-crore-interim-dividend"
   ]
  },
  "startHere": [
@@ -401,12 +401,12 @@
   },
   {
    "section": "states",
-   "lead": "naveen-patnaik-writes-majhi-kotia-andhra-elections",
+   "lead": "andhra-mptc-zptc-polling-today-2-81-crore-voters",
    "list": [
+    "naveen-patnaik-writes-majhi-kotia-andhra-elections",
     "dewas-inspector-dilip-puri-accused-shot-leg-custody",
     "goa-supreme-court-st-seat-reservation-hc-stay-sawaikar",
-    "delhi-aqi-331-jahangirpuri-499-grap-stage-two",
-    "brothers-arrested-cheetah-shot-dead-madhya-pradesh"
+    "delhi-aqi-331-jahangirpuri-499-grap-stage-two"
    ]
   },
   {
