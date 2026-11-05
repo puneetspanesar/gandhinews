@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "सुप्रीम कोर्ट के बड़े मामलों का ट्रैकर",
-    "as_of": "2026-11-04",
+    "as_of": "2026-11-05",
     "compiled_by": "गांधी न्यूज़ संपादकीय डेस्क",
     "status_values": [
       "pending",
@@ -604,6 +604,35 @@
       "notes": "स्रोतों में स्पीकर का नाम नहीं। याचिका औपचारिक रूप से निपटाई गई या नहीं, यह नहीं बताया गया; 'तय' अंतिम निर्देश के आधार पर।",
       "case_hi": "उमंग सिंघार बनाम मध्य प्रदेश राज्य (डायरी संख्या 60436/2026)",
       "status_hi": "तय"
+    },
+    {
+      "id": "chidambaram-nataraja-temple-board",
+      "case": "Podhu Dikshitars' appeal against the Madras High Court judgment of 30 October 2026 on the Chidambaram Nataraja (Sri Sabanayagar) temple",
+      "issue": "क्या मद्रास हाईकोर्ट वंशानुगत पोधु दीक्षितरों के हाथ में चल रहे चिदंबरम नटराज मंदिर का प्रशासन कथित कुप्रबंधन के आधार पर अदालत की बनाई प्रबंधन बोर्ड को सौंप सकता था, और क्या इससे अनुच्छेद 26 के तहत एक धार्मिक संप्रदाय के रूप में दीक्षितरों के अधिकारों का उल्लंघन होता है।",
+      "bench_size": 2,
+      "bench": "जस्टिस अरविंद कुमार और जस्टिस विपुल पंचोली",
+      "status": "pending",
+      "status_text": "हाईकोर्ट के अधिग्रहण आदेश पर रोक; नोटिस जारी",
+      "last_date": "2026-11-04",
+      "last_event": "कोर्ट ने दीक्षितरों की अपील पर नोटिस जारी किया और हाईकोर्ट के 30 अक्टूबर के फैसले पर रोक लगा दी। पीठ ने कहा कि \"the impugned judgment deserves to be stayed\"। हाईकोर्ट ने मंदिर चलाने के लिए सेवानिवृत्त जज जस्टिस वी. भारतीदासन की अध्यक्षता में पांच सदस्यों का प्रबंधन बोर्ड बनाया था, जबकि रोज़ के अनुष्ठान और उत्सव दीक्षितरों के पास ही रहने थे।",
+      "next_step": "अगली सुनवाई की तारीख नहीं बताई गई।",
+      "sources": [
+        {
+          "title": "SC stays Madras HC order constituting board for administration of Lord Nataraja temple (PTI)",
+          "publisher": "ThePrint / PTI",
+          "date": "2026-11-04",
+          "url": "https://theprint.in/india/sc-stays-madras-hc-order-constituting-board-for-administration-of-lord-nataraja-temple/3090492/"
+        },
+        {
+          "title": "Supreme Court Stays Madras HC Order Forming Panel To Take Over Chidambaram Nataraja Temple Administration From Podhu Dikshitars",
+          "publisher": "LiveLaw",
+          "date": "2026-11-04",
+          "url": "https://www.livelaw.in/top-stories/supreme-court-stays-madras-hc-order-forming-panel-to-take-over-chidambaram-nataraja-temple-administration-from-podhu-dikshitars-557315"
+        }
+      ],
+      "notes": "पीटीआई ने केस संख्या नहीं दी। गांधी न्यूज़ की पिछली खबर में लाइवलॉ के हवाले से T.R. Ramesh v State of Tamil Nadu, SLP(C) 39005/2026 लिखा है, जो दीक्षितरों के याचिकाकर्ता होने से मेल नहीं खाता, इसलिए केस का नाम विवरण के रूप में दिया गया। नोटिस किसे जारी हुआ, यह नहीं बताया गया।",
+      "case_hi": "मद्रास हाईकोर्ट के 30 अक्टूबर 2026 के फैसले के खिलाफ चिदंबरम नटराज (श्री सभानायगर) मंदिर पर पोधु दीक्षितरों की अपील",
+      "status_hi": "लंबित"
     }
   ]
 }

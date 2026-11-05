@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Big Supreme Court cases tracker",
-    "as_of": "2026-11-04",
+    "as_of": "2026-11-05",
     "compiled_by": "Gandhi News editorial desk",
     "status_values": [
       "pending",
@@ -557,6 +557,33 @@
         }
       ],
       "notes": "Speaker not named in sources. Whether the SLP was formally disposed is not stated; 'decided' reflects the final direction reported."
+    },
+    {
+      "id": "chidambaram-nataraja-temple-board",
+      "case": "Podhu Dikshitars' appeal against the Madras High Court judgment of 30 October 2026 on the Chidambaram Nataraja (Sri Sabanayagar) temple",
+      "issue": "Whether the Madras High Court could hand the administration of the Chidambaram Nataraja temple, run by the hereditary Podhu Dikshitars, to a court-appointed board of management over alleged maladministration, and whether that breaches the Dikshitars' rights as a religious denomination under Article 26.",
+      "bench_size": 2,
+      "bench": "Justices Aravind Kumar and Vipul Pancholi",
+      "status": "pending",
+      "status_text": "High Court takeover order stayed; notice issued",
+      "last_date": "2026-11-04",
+      "last_event": "The Court issued notice on the Dikshitars' appeal and stayed the High Court's 30 October judgment, saying \"the impugned judgment deserves to be stayed\". The High Court had set up a five-member board of management chaired by retired judge Justice V. Bharathidasan to run the temple, while leaving daily rituals and festivals with the Dikshitars.",
+      "next_step": "Next hearing date not reported.",
+      "sources": [
+        {
+          "title": "SC stays Madras HC order constituting board for administration of Lord Nataraja temple (PTI)",
+          "publisher": "ThePrint / PTI",
+          "date": "2026-11-04",
+          "url": "https://theprint.in/india/sc-stays-madras-hc-order-constituting-board-for-administration-of-lord-nataraja-temple/3090492/"
+        },
+        {
+          "title": "Supreme Court Stays Madras HC Order Forming Panel To Take Over Chidambaram Nataraja Temple Administration From Podhu Dikshitars",
+          "publisher": "LiveLaw",
+          "date": "2026-11-04",
+          "url": "https://www.livelaw.in/top-stories/supreme-court-stays-madras-hc-order-forming-panel-to-take-over-chidambaram-nataraja-temple-administration-from-podhu-dikshitars-557315"
+        }
+      ],
+      "notes": "Case number not given by PTI; LiveLaw's listing (not opened by the desk this run, link from search) is reported in an earlier Gandhi News story as T.R. Ramesh v State of Tamil Nadu, SLP(C) 39005/2026, which does not match the Dikshitars as petitioners, so the case title is descriptive. Party to whom notice issued not stated."
     }
   ]
 }
