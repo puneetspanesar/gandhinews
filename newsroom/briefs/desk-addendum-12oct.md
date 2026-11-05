@@ -1,8 +1,8 @@
 # Desk addendum (overrides content-spec.md where they differ)
 
 - The site is **Gandhi News** (gandhinews.com).
-- Today is **Monday 12 October 2026, about 7:00 am IST**. Write as of now. Events later today have NOT happened: write them as planned ("is due to", "will"), never as done.
-- **Own voice.** In the body text, do NOT attribute to media outlets ("PTI reported", "according to The Hindu", "told ANI"). Attribute claims to the people or bodies who made them ("the MEA said", "Congress general secretary K C Venugopal said on 10 October"). Facts that rest on media reports are stated plainly if two sources agree, or hedged ("police were reported to have...") if only one; record which outlet in `verification.notes`.
+- The current date and time come from `TZ=Asia/Kolkata date` at the start of the run. Write as of now. Events later today have NOT happened: write them as planned ("is due to", "will"), never as done.
+- **Own voice.** In the body text, do NOT attribute to media outlets ("PTI reported", "according to The Hindu", "told ANI"). Attribute claims to the people or bodies who made them ("the MEA said", "Congress general secretary K C Venugopal said on October 10"). Facts that rest on media reports are stated plainly if two sources agree, or hedged ("police were reported to have...") if only one; record which outlet in `verification.notes`.
 - Fact boxes, charts, timelines: NO "source" field shown. Omit the `source` key in chart/facts JSON.
 - `sources` frontmatter: list everything you used (internal record). Mark official documents (PIB, ministry, RBI, court orders, company filings to BSE/NSE, MEA statements on mea.gov.in) `primary: true`; media `primary: false`.
 - `keyPoints`: 3-4 bullets, each with exactly ONE key fact wrapped in `**bold**` (rendered red).

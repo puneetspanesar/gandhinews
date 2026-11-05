@@ -49,7 +49,7 @@ The people are hero.subjects (speaker or actor first). Never invent a quote, a f
 - Accuracy: every name, number, date and quote must come from a source you actually read (WebSearch / WebFetch). If you can't confirm it, leave it out. Note doubts in `verification.notes` (internal only).
 - Own voice: never attribute to media outlets in the body text ("Reuters reported", "told ANI"). Attribute to people and bodies.
 - No em dashes anywhere. Indian English spellings. ₹, lakh/crore for Indian money; for foreign money use $ or the local currency as reported.
-- Today is Saturday 17 October 2026, about 6 pm IST. Cover news from late Friday night and Saturday that is not on the site yet. Anything scheduled for Sunday 18 October or later is a preview.
+- The current date and time come from `TZ=Asia/Kolkata date`. Cover news inside the run's window that is not on the site yet; anything scheduled later is a preview.
 - Frontmatter as in content-spec.md, with: `type: news`, `verification.status: approved`, `hero` with `need`, `suggested_source` (a Wikimedia Commons search term likely to find a freely licensed photo), `alt`, and `overlay: { value: "max ~40 characters" }`. No sources field shown to readers is needed beyond the frontmatter list (official documents `primary: true`, media `primary: false`).
 - Sections: `world` (global news), `science` (science and technology), `sports`. format_label like "World / Middle East", "Science & Tech / Space", "Sports / Cricket"; Hindi: "दुनिया / पश्चिम एशिया", "विज्ञान-तकनीक / अंतरिक्ष", "खेल / क्रिकेट".
 - `topics: []` is fine. `related`: only ids that exist (ls /home/claude/gandhinews/content/en/*/).
