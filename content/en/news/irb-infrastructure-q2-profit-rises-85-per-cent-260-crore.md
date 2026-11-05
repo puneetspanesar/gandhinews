@@ -68,10 +68,6 @@ IRB Infrastructure Developers on Thursday reported a **near doubling of consolid
 
 The toll road developer's board also declared a **second interim dividend of ₹0.05 a share** for the current financial year. The record date, which decides which shareholders get the payout, is November 12.
 
-```photo
-{"n":1,"subject":"Khalapur toll plaza","caption":"Toll plazas on highways like this one are where IRB earns most of its income.","alt":"A toll plaza on the Mumbai-Pune Expressway"}
-```
-
 The September quarter profit is lower than the **₹306 crore the company earned in April-June**, but the year-on-year jump continues a run of strong growth. A year ago the company's second-quarter profit had risen 41%.
 
 The company builds and runs highways, mostly under toll contracts, and its earnings move with traffic and toll rates on its roads. It did not give revenue figures in the update reported so far.

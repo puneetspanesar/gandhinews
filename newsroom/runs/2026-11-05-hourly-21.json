@@ -1,0 +1,30 @@
+{
+ "run": "hourly-21",
+ "start": "2026-11-05T21:06:03+05:30",
+ "end": "2026-11-05T21:50:54+05:30",
+ "summary": "Punjab DA contempt stay updated, Kasimedu fishermen; hockey final held for picture",
+ "new": [
+  "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh"
+ ],
+ "held": [
+  "india-beat-japan-4-1-asian-champions-trophy-final"
+ ],
+ "editor": "FAIL",
+ "editor_fail": [
+  {
+   "id": "india-beat-japan-4-1-asian-champions-trophy-final",
+   "kind": "picture",
+   "why": "Main picture and both covers are Gandhi News infographics (crossed sticks, '6 titles') for a story about named, well-known players. Captain Harmanpreet Singh's side won, and the story's own hero brief asks for Harmanpreet Singh and Kazumasa Matsumoto. Rule 8 does not allow an infographic for well-known people.",
+   "fix": "Replace the main picture with a photo of Harmanpreet Singh, ideally celebrating with the trophy or team in Mohali tonight, or the brief's two-panel Harmanpreet / Matsumoto split. Use quick_photo.py or the finder and do not reuse the photo from this morning's preview. Rebuild the en and hi covers as photo covers with the face clear of the headline."
+  }
+ ],
+ "fixed_by_run": [
+  {
+   "id": "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
+   "why": "Main picture is a silhouetted boat on a calm, golden sunrise sea off Chennai. It looks like stock, it shows neither the subject (Chief Minister Vijay announcing aid, or the Kasimedu harbour, families or search) nor the cyclone, and its serene tone is wrong for a story about fishermen found dead. It is not even the Kasimedu harbour photo the hero brief asked for. On the story sheet the headline's rupee sign also renders as an empty box ('[]7 lakh').",
+   "done": "Main picture swapped to fishing boats moored at a Chennai harbour under a grey sky (file photo, Vkraja, Commons); the rupee box is only the review sheet's font, the site renders the sign"
+  }
+ ],
+ "breaches": [],
+ "lead": "andhra-parishad-polls-58-55-per-cent-3pm-polling-ends-counting-november-7"
+}

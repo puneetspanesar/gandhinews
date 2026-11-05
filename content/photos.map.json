@@ -27697,18 +27697,6 @@
   "alt_hi": "मुंबई-पुणे एक्सप्रेसवे (फ़ाइल फ़ोटो)",
   "page": null
  },
- "irb-infrastructure-q2-profit-rises-85-per-cent-260-crore--p1": {
-  "id": "v-irb-infrastructure-q2-profit-rises-85-per-cent-260-cror-p1",
-  "src": "/photos/v-irb-infrastructure-q2-profit-rises-85-per-cent-260-cror-p1-1280.jpg",
-  "src800": "/photos/v-irb-infrastructure-q2-profit-rises-85-per-cent-260-cror-p1-640.jpg",
-  "width": 1280,
-  "height": 960,
-  "credit": "Photo: shivvir / Wikimedia Commons",
-  "licence": "CC BY 2.0",
-  "alt": "A toll plaza on the Yamuna Expressway (file photo)",
-  "alt_hi": "यमुना एक्सप्रेसवे पर एक टोल प्लाज़ा (फ़ाइल फ़ोटो)",
-  "page": null
- },
  "irb-infrastructure-q2-profit-rises-85-per-cent-260-crore--p2": {
   "id": "v-irb-infrastructure-q2-profit-rises-85-per-cent-260-cror-p2",
   "src": "/photos/v-irb-infrastructure-q2-profit-rises-85-per-cent-260-cror-p2-1280.jpg",
@@ -28723,6 +28711,60 @@
    "hi": {
     "src": "/photos/i-fii-buy-14975-crore-november-5-dii-sell-10445-hi-1280.jpg",
     "src800": "/photos/i-fii-buy-14975-crore-november-5-dii-sell-10445-hi-640.jpg"
+   }
+  }
+ },
+ "kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh": {
+  "id": "o-kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh",
+  "src": "/photos/o-kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh-1280.jpg",
+  "src800": "/photos/o-kasimedu-fishermen-bodies-andhra-coast-vijay-7-lakh-640.jpg",
+  "width": 1280,
+  "height": 720,
+  "credit": "Photo: Vkraja / Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "alt": "Fishing boats moored at a harbour in Chennai under a grey sky (file photo)",
+  "alt_hi": "चेन्नई के एक बंदरगाह पर बादलों के बीच खड़ी मछली पकड़ने वाली नावें (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:CHENNAI_SEA_.jpg"
+ },
+ "india-beat-japan-4-1-asian-champions-trophy-final": {
+  "id": "i-india-beat-japan-4-1-asian-champions-trophy-final",
+  "src": "/photos/i-india-beat-japan-4-1-asian-champions-trophy-final-en-3x2-1280.jpg",
+  "src800": "/photos/i-india-beat-japan-4-1-asian-champions-trophy-final-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: India fight back to beat Japan 4-1",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: पिछड़ने के बाद भारत ने जापान को 4-1 से हराया",
+  "page": null,
+  "ihash": "79d5f35ae56e",
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-india-beat-japan-4-1-asian-champions-trophy-final-hi-3x2-1280.jpg",
+    "src800": "/photos/i-india-beat-japan-4-1-asian-champions-trophy-final-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-india-beat-japan-4-1-asian-champions-trophy-final-en-t-1280.jpg",
+    "src800": "/photos/i-india-beat-japan-4-1-asian-champions-trophy-final-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-india-beat-japan-4-1-asian-champions-trophy-final-hi-t-1280.jpg",
+    "src800": "/photos/i-india-beat-japan-4-1-asian-champions-trophy-final-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-india-beat-japan-4-1-asian-champions-trophy-final-en-1280.jpg",
+    "src800": "/photos/i-india-beat-japan-4-1-asian-champions-trophy-final-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-india-beat-japan-4-1-asian-champions-trophy-final-hi-1280.jpg",
+    "src800": "/photos/i-india-beat-japan-4-1-asian-champions-trophy-final-hi-640.jpg"
    }
   }
  }

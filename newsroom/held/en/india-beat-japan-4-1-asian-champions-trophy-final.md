@@ -71,19 +71,11 @@ Japan, still chasing a first title, made the better start. In the first quarter 
 
 India looked rattled, repeatedly giving the ball away under Japanese pressure. A referral for a penalty corner was turned down, Hardik Singh had a shot saved, and Japan's defence held firm to **lead 1-0 at half-time**. Even India's first penalty corner, in the 33rd minute, came to nothing when Harmanpreet's drag flick went straight at the Japanese goalkeeper.
 
-```photo
-{"n":1,"subject":"Kazumasa Matsumoto","caption":"Kazumasa Matsumoto gave Japan an early lead with a reverse flick from a tight angle.","alt":"Japan hockey player Kazumasa Matsumoto (file photo)"}
-```
-
 ## How the match turned
 
 The equaliser came from a set piece. From back-to-back penalty corners, Harmanpreet chose a variation instead of his usual flick, and **Shilanand Lakra slotted in the equaliser**. The goal stood after a video referral for a dangerous ball.
 
 India then took over. **Dilpreet Singh put them ahead** with a turn and shot after a driving run by Hardik Singh. Jugraj Singh then **drag-flicked a penalty corner high into the net** for 3-1, with Abhishek making the injection. Vivek Sagar Prasad finished the job, reacting first to a rebound at the edge of the circle and firing low through the goalkeeper's legs.
-
-```photo
-{"n":2,"subject":"Shilanand Lakra","caption":"Shilanand Lakra scored India's equaliser from a penalty corner routine.","alt":"India hockey player Shilanand Lakra (file photo)"}
-```
 
 ## A night for the hosts
 

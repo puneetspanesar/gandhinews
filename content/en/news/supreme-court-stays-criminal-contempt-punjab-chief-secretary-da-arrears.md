@@ -73,7 +73,7 @@ verification:
   notes:
     - "event: Nov 5, order around midday; LawBeat 13:20 IST, LawChakra 1:12 pm, PTI via ThePrint 2:46 pm IST. Updated 9:10 pm IST with payment-plan direction, Dec 1 date and bench remarks."
     - "₹22,818 crore DA/DR arrears: UNI text and The Statesman headline (Statesman page could not be fetched). UNI also gives total employee and pensioner liabilities of ₹32,418 crore; left out, single source."
-    - "Dec 1 next hearing: PTI. LawChakra says only 'December'. March 31, 2027 question: PTI; LawChakra 'on or before March 2027'."
+    - "Dec 1 next hearing: PTI. LawChakra says only 'December'. March 31, 2027, question: PTI; LawChakra 'on or before March 2027'."
     - "Quotes 'You have got a breather...' and 'Why are you interested...' from PTI; LawChakra has a slightly different wording of the breather remark. Oral remarks, not part of the written order."
     - "₹5,000 crore paid (Vikas Singh) from LawBeat; ₹13,000 crore legacy arrears claim (state) from PTI."
     - "HC dates: compliance affidavit by Nov 13, appearance Nov 17; effect of stay on these not reported, written cautiously."

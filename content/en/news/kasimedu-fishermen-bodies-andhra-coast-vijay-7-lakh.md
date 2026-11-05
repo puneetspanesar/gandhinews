@@ -70,10 +70,6 @@ The bodies of S Mohan, A Murugan and S Vijayakanth were recovered and **identifi
 
 As Cyclone Murasu approached, fishermen at sea were told to return. Several Kasimedu boats took shelter off Andhra Pradesh, at Ramayapatnam and Nizampatnam. Fishermen in Chennai said contact with the missing crew was lost on November 3, and families had pleaded with fisheries officials and the Coast Guard for a quick rescue.
 
-```photo
-{"n":1,"subject":"Vijay (actor)","caption":"Tamil Nadu Chief Minister Vijay, who announced aid for the families of the fishermen.","alt":"Tamil Nadu Chief Minister Vijay"}
-```
-
 Vijay said he was deeply saddened by the news and offered his condolences to the families. Of the ₹7 lakh, **₹2 lakh will be paid at once**. The bodies will be brought back to Tamil Nadu at government expense and handed to the families.
 
 He also ordered officials to speed up identification and the search for the remaining fishermen. The state Fisheries Department has asked Chennai and Andhra Pradesh fishing boats and Indian Coast Guard ships to join the search, and its officials are working with the Andhra Pradesh authorities.
