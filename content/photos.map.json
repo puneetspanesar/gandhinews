@@ -29554,51 +29554,116 @@
   "page": null
  },
  "andhra-parishad-polling-day-sec-owes-voters-an-honest-account": {
-  "id": "x-andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
-  "src": "/photos/x-andhra-parishad-polling-day-sec-owes-voters-an-honest-account-1280.jpg",
-  "src800": "/photos/x-andhra-parishad-polling-day-sec-owes-voters-an-honest-account-640.jpg",
+  "id": "i-andhra-parishad-polling-day-sec-owes-voters-an-honest-account",
+  "src": "/photos/i-andhra-parishad-polling-day-sec-owes-voters-an-honest-account-en-3x2-1280.jpg",
+  "src800": "/photos/i-andhra-parishad-polling-day-sec-owes-voters-an-honest-account-en-3x2-640.jpg",
   "width": 1280,
-  "height": 801,
-  "credit": "Photo: Election Commission of India / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Women voters queue at a polling station in Vijayawada, Andhra Pradesh (file photo)",
-  "alt_hi": "आंध्र प्रदेश के विजयवाड़ा में मतदान केंद्र पर कतार में खड़ी महिला मतदाता (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:The_women_voters_in_a_large_queue_to_cast_their_vote_in_the_Jagiyahpet_assembly_and_Vijayawada_parliamentary_constituency,_in_Andhra_Pradesh_during_the_2nd_Phase_of_General_Election-2009_on_April_23,_2009.jpg"
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Andhra's poll body owes voters an account",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: आंध्र का चुनाव आयोग मतदाताओं को हिसाब दे",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-andhra-parishad-polling-day-sec-owes-voters-an-honest-account-hi-3x2-1280.jpg",
+    "src800": "/photos/i-andhra-parishad-polling-day-sec-owes-voters-an-honest-account-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-andhra-parishad-polling-day-sec-owes-voters-an-honest-account-en-t-1280.jpg",
+    "src800": "/photos/i-andhra-parishad-polling-day-sec-owes-voters-an-honest-account-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-andhra-parishad-polling-day-sec-owes-voters-an-honest-account-hi-t-1280.jpg",
+    "src800": "/photos/i-andhra-parishad-polling-day-sec-owes-voters-an-honest-account-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-andhra-parishad-polling-day-sec-owes-voters-an-honest-account-en-1280.jpg",
+    "src800": "/photos/i-andhra-parishad-polling-day-sec-owes-voters-an-honest-account-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-andhra-parishad-polling-day-sec-owes-voters-an-honest-account-hi-1280.jpg",
+    "src800": "/photos/i-andhra-parishad-polling-day-sec-owes-voters-an-honest-account-hi-640.jpg"
+   }
+  }
  },
  "24-hour-rule-explained-article-22-detention-arrest": {
-  "id": "r-24-hour-rule-explained-article-22-detention-arrest",
-  "src": "/photos/r-24-hour-rule-explained-article-22-detention-arrest-1280.jpg",
-  "src800": "/photos/r-24-hour-rule-explained-article-22-detention-arrest-640.jpg",
+  "id": "v-24-hour-rule-explained-article-22-detention-arrest",
+  "src": "/photos/v-24-hour-rule-explained-article-22-detention-arrest-1280.jpg",
+  "src800": "/photos/v-24-hour-rule-explained-article-22-detention-arrest-640.jpg",
   "width": 1280,
   "height": 960,
-  "credit": "Photo: Jaypee / Wikimedia Commons",
+  "credit": "Photo: Pinakpani / Wikimedia Commons",
   "licence": "CC BY-SA 4.0",
   "alt": "The Supreme Court of India in New Delhi (file photo)",
   "alt_hi": "नई दिल्ली में भारत का सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Bhagwant.jpg"
+  "page": null
  },
  "ugc-equity-regulations-explained-caste-discrimination-campuses": {
-  "id": "x-ugc-equity-regulations-explained-caste-discrimination-campuses",
-  "src": "/photos/x-ugc-equity-regulations-explained-caste-discrimination-campuses-1280.jpg",
-  "src800": "/photos/x-ugc-equity-regulations-explained-caste-discrimination-campuses-640.jpg",
+  "id": "v-ugc-equity-regulations-explained-caste-discrimination-campus",
+  "src": "/photos/v-ugc-equity-regulations-explained-caste-discrimination-campus-1280.jpg",
+  "src800": "/photos/v-ugc-equity-regulations-explained-caste-discrimination-campus-640.jpg",
   "width": 1280,
-  "height": 720,
-  "credit": "Photo: Kuber Patel, Rosehub / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "The main gate of Banaras Hindu University in Varanasi (file photo)",
-  "alt_hi": "वाराणसी में काशी हिंदू विश्वविद्यालय का मुख्य द्वार (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:BHU_Main_Gate,_Banaras_Hindu_University.jpg"
+  "height": 960,
+  "credit": "Photo: Mohammad Anees Qamar / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "The University of Hyderabad, where Rohith Vemula was a research scholar (file photo)",
+  "alt_hi": "हैदराबाद विश्वविद्यालय, जहां रोहित वेमुला शोध छात्र थे (फ़ाइल फ़ोटो)",
+  "page": null
  },
  "ugc-equity-rules-revise-them-do-not-bury-them": {
-  "id": "x-ugc-equity-rules-revise-them-do-not-bury-them",
-  "src": "/photos/x-ugc-equity-rules-revise-them-do-not-bury-them-1280.jpg",
-  "src800": "/photos/x-ugc-equity-rules-revise-them-do-not-bury-them-640.jpg",
+  "id": "v-ugc-equity-rules-revise-them-do-not-bury-them",
+  "src": "/photos/v-ugc-equity-rules-revise-them-do-not-bury-them-1280.jpg",
+  "src800": "/photos/v-ugc-equity-rules-revise-them-do-not-bury-them-640.jpg",
   "width": 1280,
-  "height": 720,
-  "credit": "Photo: Bhaskaranaidu / Wikimedia Commons",
-  "licence": "CC BY-SA 4.0",
-  "alt": "Posters at a gate of Jadavpur University in Kolkata (file photo)",
-  "alt_hi": "कोलकाता में जादवपुर विश्वविद्यालय के एक गेट पर लगे पोस्टर (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Jadavpur_university_in_Kolkata.jpg"
+  "height": 960,
+  "credit": "Photo: Inter-Pacific Bar Association (IPBA) / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Solicitor General Tushar Mehta (file photo)",
+  "alt_hi": "सॉलिसिटर जनरल तुषार मेहता (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "24-hour-rule-explained-article-22-detention-arrest--p1": {
+  "id": "v-24-hour-rule-explained-article-22-detention-arrest-p1",
+  "src": "/photos/v-24-hour-rule-explained-article-22-detention-arrest-p1-1280.jpg",
+  "src800": "/photos/v-24-hour-rule-explained-article-22-detention-arrest-p1-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Supreme Court of India / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Supreme Court judge Justice Ujjal Bhuyan (file photo)",
+  "alt_hi": "सुप्रीम कोर्ट के न्यायाधीश न्यायमूर्ति उज्ज्वल भुइयां (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "ugc-equity-regulations-explained-caste-discrimination-campuses--p2": {
+  "id": "v-ugc-equity-regulations-explained-caste-discrimination-c-p2",
+  "src": "/photos/v-ugc-equity-regulations-explained-caste-discrimination-c-p2-1280.jpg",
+  "src800": "/photos/v-ugc-equity-regulations-explained-caste-discrimination-c-p2-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Supreme Court of India / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Chief Justice of India Surya Kant (file photo)",
+  "alt_hi": "भारत के मुख्य न्यायाधीश सूर्यकांत (फाइल फोटो) (फ़ाइल फ़ोटो)",
+  "page": null
+ },
+ "ugc-equity-rules-revise-them-do-not-bury-them--p1": {
+  "id": "v-ugc-equity-rules-revise-them-do-not-bury-them-p1",
+  "src": "/photos/v-ugc-equity-rules-revise-them-do-not-bury-them-p1-1280.jpg",
+  "src800": "/photos/v-ugc-equity-rules-revise-them-do-not-bury-them-p1-640.jpg",
+  "width": 1280,
+  "height": 960,
+  "credit": "Photo: Y Sai Kumar / Wikimedia Commons",
+  "licence": "CC BY 4.0",
+  "alt": "The campus of the University of Hyderabad (file photo)",
+  "alt_hi": "हैदराबाद विश्वविद्यालय का परिसर (फ़ाइल फ़ोटो)",
+  "page": null
  }
 }
