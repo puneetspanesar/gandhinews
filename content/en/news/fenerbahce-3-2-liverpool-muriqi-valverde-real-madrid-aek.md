@@ -6,7 +6,7 @@ section: sports
 format_label: "Sports / Football"
 topics: []
 title: "Fenerbahce come from behind twice to beat Liverpool 3-2 as Valverde rescues Real Madrid in Athens"
-standfirst: "Vedat Muriqi's late header ended Liverpool's perfect Champions League start in Istanbul, while Federico Valverde struck in stoppage time to give Jose Mourinho's Madrid a 3-2 win over AEK."
+standfirst: "Vedat Muriqi's late header ended Liverpool's perfect Champions League start in Istanbul, while Federico Valverde struck in stoppage time to give Real Madrid a 3-2 win over AEK."
 published: 2026-11-05T01:15:00+05:30
 location: Istanbul
 keyPoints:
@@ -93,9 +93,5 @@ Isak came on in the second half and **headed Liverpool back in front** with his 
 In Athens, Real Madrid needed another late comeback. Aboubakary Koita gave AEK an early lead and Jude Bellingham levelled with a backheel that was first ruled out for offside and then allowed after a VAR review.
 
 Stavro Pilo put AEK ahead again late in the second half, but Kylian Mbappe equalised within minutes from Denzel Dumfries's pass. Then, in the second minute of stoppage time, **Federico Valverde struck from long range** to win it 3-2 and keep Madrid's record perfect.
-
-```photo
-{"n":2,"subject":"Federico Valverde","caption":"Federico Valverde, whose stoppage-time goal gave Real Madrid a 3-2 win at AEK Athens.","alt":"Federico Valverde"}
-```
 
 Jose Mourinho had warned before the game that his side had to "approach this seriously" in Greece. They came close to paying for a slow night, as they nearly did last month when Antonio Rudiger's 90th-minute goal sealed **a 4-3 win over Roma**.
