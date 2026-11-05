@@ -16,29 +16,42 @@ def mv(a, b):
     tracked = subprocess.run(['git', 'ls-files', '--error-unmatch', a], capture_output=True).returncode == 0
     subprocess.run(['git', 'mv', '-f', a, b], check=True) if tracked else shutil.move(a, b)
 def info(i):
-    try: return json.load(open(f'{H}/{i}.json'))
-    except OSError: return {'why': '?', 'kind': 'other', 'held_at': dt.datetime.fromtimestamp(os.path.getmtime(f'{H}/en/{i}.md'), IST).isoformat()}
+    try: d = json.load(open(f'{H}/{i}.json'))
+    except (OSError, ValueError): d = {'why': '?', 'kind': 'other', 'held_at': dt.datetime.fromtimestamp(os.path.getmtime(f'{H}/en/{i}.md'), IST).isoformat()}
+    t = dt.datetime.fromisoformat(d['held_at'])
+    d['held_at'] = (t if t.tzinfo else t.replace(tzinfo=IST)).isoformat()
+    return d
+def fixed_picture(i, d):
+    """A picture hold is fixed only by a DIFFERENT main picture than the one it was held with."""
+    e = json.load(open('content/photos.map.json')).get(i)
+    return bool(e) and e.get('id') != d.get('picture_at_hold')
 cmd = sys.argv[1] if len(sys.argv) > 1 else 'list'
 if cmd == 'list':
     ids = sorted(os.path.basename(f)[:-3] for f in glob.glob(f'{H}/en/*.md'))
     for i in ids:
         d = info(i); age = (now - dt.datetime.fromisoformat(d['held_at'])).total_seconds() / 3600
-        pic = json.load(open('content/photos.map.json')).get(i)
-        print(f"{i} | {d['kind']} | {age:.1f}h | {d['why']}" + (' | picture now exists: republish' if d['kind'] == 'picture' and pic else ''))
+        print(f"{i} | {d['kind']} | {age:.1f}h | {d['why']}" + (' | a new picture exists: republish' if d['kind'] == 'picture' and fixed_picture(i, d) else ''))
     print(f'{len(ids)} held')
 elif cmd == 'hold':
     i, kind, why = sys.argv[2], sys.argv[3], sys.argv[4]
-    assert kind in ('picture', 'facts', 'other')
+    if kind not in ('picture', 'facts', 'other'): sys.exit(f'kind must be picture, facts or other, not {kind}')
+    if not glob.glob(f'content/en/*/{i}.md'): sys.exit(f'{i}: no such published story (check the id); nothing held')
+    os.makedirs(f'{H}/en', exist_ok=True); os.makedirs(f'{H}/hi', exist_ok=True)
+    pic = json.load(open('content/photos.map.json')).get(i) or {}
     n = 0
     for lang in ('en', 'hi'):
         for f in glob.glob(f'content/{lang}/*/{i}.md'):
             mv(f, f'{H}/{lang}/{i}.md'); n += 1
             open(f'{H}/{i}.type', 'w').write(f.split('/')[2])
-    json.dump({'why': why, 'kind': kind, 'held_at': now.isoformat(timespec='minutes')}, open(f'{H}/{i}.json', 'w'), ensure_ascii=False)
+    json.dump({'why': why, 'kind': kind, 'held_at': now.isoformat(timespec='minutes'), 'picture_at_hold': pic.get('id')}, open(f'{H}/{i}.json', 'w'), ensure_ascii=False)
+    home = open('content/homepage.json').read()
+    if f'"{i}"' in home: print(f'  {i} is on the homepage: run refresh_home.py, then check_fresh.py (it fails on any id still pointing at it)')
     print(f'held {i} ({n} files): {why}')
 elif cmd == 'republish':
-    i = sys.argv[2]; d = info(i)
-    if d['kind'] == 'picture' and i not in json.load(open('content/photos.map.json')): sys.exit(f'{i}: still no main picture')
+    i = sys.argv[2]
+    if not os.path.exists(f'{H}/en/{i}.md'): sys.exit(f'{i}: not held')
+    d = info(i)
+    if d['kind'] == 'picture' and not fixed_picture(i, d): sys.exit(f'{i}: still no new main picture (it was held with {d.get("picture_at_hold")})')
     if d['kind'] != 'picture' and '--fixed' not in sys.argv: sys.exit(f'{i}: held for {d["kind"]} ({d["why"]}); republish only with --fixed after fixing it and a new editor PASS')
     typ = open(f'{H}/{i}.type').read().strip() if os.path.exists(f'{H}/{i}.type') else 'news'
     for lang in ('en', 'hi'): mv(f'{H}/{lang}/{i}.md', f'content/{lang}/{typ}/{i}.md')

@@ -16,12 +16,14 @@ Then run check_fresh.py and the build as usual.
 import json, glob, re, sys, argparse, datetime as dt
 import yaml, os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from gnrules import MKT, words, stale_clock
+from gnrules import MKT, words, stale_clock, is_markets, same_subject
 
 IST = dt.timezone(dt.timedelta(hours=5, minutes=30))
 now = dt.datetime.now(IST)
 ap = argparse.ArgumentParser(); ap.add_argument('--lead'); ap.add_argument('--pin', nargs='*', default=[])
 a = ap.parse_args()
+import os as _o
+if sys.argv[1:]: open((_o.environ.get('GN_WORK') or '/home/claude/gn-work/') + 'home_args', 'w').write(' '.join(sys.argv[1:]))  # publish.sh re-applies these after a merge
 
 PIC = json.load(open('content/photos.map.json'))
 A = {}
@@ -42,7 +44,8 @@ def clocked(i):
         when = d.get('updated') or d.get('published')
         if not isinstance(when, dt.datetime): continue
         when = when if when.tzinfo else when.replace(tzinfo=IST)
-        if any(stale_clock(str(d.get(f) or ''), lang, when, now) for f in ('title', 'standfirst')): return True
+        txts = [str(d.get('title') or ''), str(d.get('standfirst') or ''), str((d.get('keyPoints') or [''])[0]), str(((d.get('hero') or {}).get('overlay') or {}).get('value') or '')]
+        if any(stale_clock(t, lang, when, now) for t in txts): return True
     return False
 age = lambda i: (now - A[i]['_t']).total_seconds() / 3600
 newest = lambda pred: sorted([i for i in A if ok(i) and pred(A[i])], key=lambda i: A[i]['_t'], reverse=True)
@@ -55,7 +58,7 @@ _pending_lead = False
 if a.lead:
     assert ok(a.lead), f'{a.lead}: not published, or no picture, or no Hindi twin'
     if a.lead != L['id']:
-        assert not MKT.search(a.lead), f'{a.lead}: a markets story never leads'
+        assert not is_markets(a.lead, A.get(a.lead)), f'{a.lead}: a markets story never leads'
         L['id'] = a.lead; L['dataBox'] = []; L['relatedBelow'] = []
         _pending_lead = True
 def set_lead(i):
@@ -66,8 +69,12 @@ def set_lead(i):
     L['dataBox'] = []; L['relatedBelow'] = []
 if _pending_lead: set_lead(a.lead)
 lead = L['id']
-fresh_photo = lambda d: d['type'] == 'news' and (now - d['_t']).total_seconds() < 8 * 3600 and not MKT.search(d['id']) and not PIC[d['id']].get('graphic') and not clocked(d['id'])
-bad = (not ok(lead)) and 'held or unpublished' or (MKT.search(lead) and 'a markets story') or (clocked(lead) and 'pinned to a stale clock figure') or (A[lead]['type'] == 'news' and age(lead) > 8 and f'{age(lead):.0f} hours old')
+fresh_photo = lambda d: d['type'] == 'news' and (now - d['_t']).total_seconds() < 8 * 3600 and not is_markets(d['id'], d) and not PIC[d['id']].get('graphic') and not clocked(d['id'])
+bad = (not ok(lead)) and 'held or unpublished' or (is_markets(lead, A.get(lead)) and 'a markets story') or (clocked(lead) and 'pinned to a stale clock figure') or (A[lead]['type'] == 'news' and age(lead) > 8 and f'{age(lead):.0f} hours old')
+if not bad and not a.lead and PIC.get(lead, {}).get('graphic'):
+    # Rule 13: the lead has a real photo. Swap to the newest fresh story of the SAME running story that has one.
+    same = [i for i in newest(fresh_photo) if i != lead and (len(words(i) & words(lead)) >= 2 or (set(A[i].get('topics') or []) & set(A[lead].get('topics') or []) and A[i]['section'] == A[lead]['section']))]
+    if same: print(f'lead {lead} is an infographic; {same[0]} (same story, real photo) leads instead'); set_lead(same[0]); lead = same[0]
 if bad and not a.lead:
     # Owner's rule: the lead is under 8 hours old and never a markets story. Pick the replacement mechanically.
     cand = newest(fresh_photo)
@@ -79,10 +86,10 @@ if bad and not a.lead:
 
 # ---- live band: still-fresh items, topped up with the newest stories sharing a topic or subject words with the lead
 lt, lw = set(A[lead].get('topics') or []), words(lead)
-rel = [i for i in (L.get('relatedBelow') or []) if ok(i) and not MKT.search(i) and not clocked(i) and (A[i]['type'] != 'news' or age(i) <= 24)]
+rel = [i for i in (L.get('relatedBelow') or []) if ok(i) and not is_markets(i, A.get(i)) and not clocked(i) and (A[i]['type'] != 'news' or age(i) <= 24)]
 for i in newest(lambda d: d['id'] != lead and (d['type'] != 'news' or (now - d['_t']).total_seconds() < 86400)):
     if len(rel) >= 3: break
-    if i in rel or MKT.search(i) or clocked(i): continue
+    if i in rel or is_markets(i, A.get(i)) or clocked(i): continue
     if len(lw & words(i)) >= 2 or (lt & set(A[i].get('topics') or []) and A[i]['section'] == A[lead]['section']): rel.append(i)
 L['relatedBelow'] = rel[:3]
 
@@ -91,11 +98,11 @@ pool = [i for i in a.pin if ok(i) and age(i) < 24] + newest(lambda d: d['type'] 
 taken, secs, mk, used_words = [], {}, 0, set(words(lead))
 for i in pool:
     if i == lead or i in taken or i in rel or clocked(i): continue
-    if MKT.search(i) and mk >= 1: continue
+    if is_markets(i, A.get(i)) and mk >= 1: continue
     s = A[i]['section']
     if len(taken) < 8 and secs.get(s, 0) >= 2: continue
-    if len(words(i) & used_words) >= 2: continue
-    taken.append(i); secs[s] = secs.get(s, 0) + 1; used_words |= words(i); mk += bool(MKT.search(i))
+    if len(words(i) & used_words) >= 2 or (taken and same_subject(i, taken[-1], A.get(i), A.get(taken[-1]))) or (not taken and same_subject(i, lead, A.get(i), A.get(lead))): continue
+    taken.append(i); secs[s] = secs.get(s, 0) + 1; used_words |= words(i); mk += bool(is_markets(i, A.get(i)))
     if len(taken) >= 16: break
 nb = len(L.get('relatedBeside') or []) or 4
 L['relatedBeside'] = taken[:nb]

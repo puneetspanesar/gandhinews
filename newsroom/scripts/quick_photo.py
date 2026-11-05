@@ -40,12 +40,16 @@ for p in P:
 byid = {}
 for art, e in M.items(): byid.setdefault(e.get('id'), e)
 
+BL = {l.strip().lower() for l in open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'blocklist.txt')) if l.strip() and not l.startswith('#')}
+import fcntl
+_lk = open(R + 'content/.photos.lock', 'w'); fcntl.flock(_lk, fcntl.LOCK_EX)
 words = subject.lower()
 cands = []
 for p in P:
     alt = str(p.get('alt', ''))
     if p.get('composite') or words not in alt.lower(): continue
     if re.search(r'\band\b|,\s*(and|with)\b|\bwith\b', alt.split('(')[0]) and not re.search(r'\b(building|stadium|ground|office|house|bhavan)\b', alt.lower()): continue  # one subject only
+    if fileof(p.get('sourceUrl', '')) in BL: continue
     e = byid.get(p['id'])
     if not e: continue
     if str(e.get('alt', '')).split(' (file')[0].strip() != alt.split(' (file')[0].strip(): continue  # the file shows something else (a split or a later crop)

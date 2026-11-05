@@ -66,8 +66,5 @@ The dispute goes back to the High Court's **August 3 order** directing Punjab to
 
 Appearing for the state, senior advocate Vikas Singh said Punjab had **already paid about ₹5,000 crore** under a plan to clear the dues. The state argued that criminal contempt could not be used to bypass the procedure for enforcing payment. A separate civil contempt petition over the arrears is still pending in the High Court.
 
-```photo
-{"n":2,"subject":"Supreme Court of India","caption":"The Supreme Court of India, where the Punjab government challenged the contempt notice.","alt":"The Supreme Court of India in New Delhi"}
-```
 
 The High Court had told Sinha to file a compliance affidavit by November 13 and to appear in person on November 17.

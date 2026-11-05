@@ -11,6 +11,7 @@ Warnings never fail the gate; they are printed so a person can look.
 
 Needs: Python 3.10+, PyYAML, Pillow (optional, for image checks), Playwright + Chromium (for the style group).
 """
+import sys as _sys, os as _os; _sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__))); import gnrules as GR
 import argparse, datetime as dt, glob, hashlib, html, json, os, re, subprocess, sys, threading, http.server, socketserver, functools
 from collections import Counter, defaultdict
 
@@ -122,13 +123,19 @@ DAY_MONTH_HI = re.compile(rf'(?<![\d,.])(\d{{1,2}})\s+({HI_MONTHS})(?:\s+(\d{{4}
 NUM_RE = re.compile(r'(?<![\w.])\d[\d,]*(?:\.\d+)?')
 DEV_DIGITS = str.maketrans('०१२३४५६७८९', '0123456789')
 
+UNIT = [(r'(?:lakh|लाख)', 1e5), (r'(?:crore|करोड़)', 1e7), (r'(?:million|मिलियन)', 1e6), (r'(?:billion|बिलियन|अरब)', 1e9), (r'(?:thousand|हज़ार|हजार)', 1e3), (r'(?:trillion|ट्रिलियन)', 1e12)]
 def numbers(text):
+    """Figures of 10 and more, as values: '1.2 million' and '12 लाख' are the same number, so a twin that converts
+    units (as Hindi does) is not reported as different."""
     out = set()
-    for n in NUM_RE.findall(text.translate(DEV_DIGITS)):
-        n = n.replace(',', '').rstrip('.')
-        try:
-            if float(n) >= 10: out.add(n.rstrip('0').rstrip('.') if '.' in n else n)
-        except ValueError: pass
+    t = text.translate(DEV_DIGITS)
+    for m in re.finditer(r'(\d[\d,]*(?:\.\d+)?)\s*(lakh|लाख|crore|करोड़|million|मिलियन|billion|बिलियन|अरब|thousand|हज़ार|हजार|trillion|ट्रिलियन)?', t):
+        n = m.group(1).replace(',', '').rstrip('.')
+        try: v = float(n)
+        except ValueError: continue
+        mult = next((k for pat, k in UNIT if m.group(2) and re.fullmatch(pat, m.group(2))), 1)
+        val = v * mult
+        if v >= 10 or mult > 1: out.add(f'{val:.6g}')
     return out
 
 def lint_story(lang, sid, fm, twin):
@@ -197,19 +204,15 @@ def lint_story(lang, sid, fm, twin):
         for b in bolds:
             if len(b.split()) > 14: fail(G, f'{rel}:{line_of(raw, b[:30])}', f'bold runs a whole sentence ("{b[:50]}...")'); break
         if not fm.get('keyPoints'): fail(G, rel, 'news story has no keyPoints')
-    # Headline pinned to a clock time (recent stories only)
+    # Figures pinned to a clock time (recent stories only): the one shared rule in gnrules.stale_clock
     when = fm['_upd'] or fm['_pub']
-    if when and NOW - when < dt.timedelta(hours=30):
-        for field in ('title', 'standfirst'):
-            t = str(fm.get(field) or '')
-            for m in CLOCK_EN.finditer(t):
-                hh = int(m.group(1)) % 12 + (12 if m.group(3).lower().startswith('p') else 0)
-                tt = when.replace(hour=hh, minute=int(m.group(2) or 0), second=0, microsecond=0)
-                if NOW - tt > dt.timedelta(hours=2): fail(G, rel, f'{field} pins a figure to "{m.group(0)}", now {NOW:%-I:%M %p}: update the figure or move the story off the top')
-            for m in CLOCK_HI.finditer(t):
-                hh = int(m.group(2)) % 12 + (12 if m.group(1) in ('दोपहर', 'शाम', 'रात') and int(m.group(2)) < 12 else 0)
-                tt = when.replace(hour=hh, minute=int(m.group(3) or 0), second=0, microsecond=0)
-                if NOW - tt > dt.timedelta(hours=2): fail(G, rel, f'{field} pins a figure to "{m.group(0)}", more than 2 hours ago')
+    if when and NOW - when < dt.timedelta(hours=30) and fm.get('id') in TOP_IDS():   # only the top of the homepage: an article's own history is fine
+        lang_ = 'hi' if '/hi/' in rel else 'en'
+        fields = [('title', fm.get('title')), ('standfirst', fm.get('standfirst')), ('first key point', (fm.get('keyPoints') or [''])[0]),
+                  ('picture overlay', ((fm.get('hero') or {}).get('overlay') or {}).get('value'))]
+        for field, t in fields:
+            for m, hrs in GR.stale_clock(str(t or ''), lang_, when, NOW):
+                fail(G, rel, f'{field} pins a figure to "{m}", now {NOW:%-I:%M %p}: update the figure or move the story off the top')
     # Code blocks must be valid JSON; forbidden icons
     for m in re.finditer(r'```(chart|facts|timeline|infographic|compare|photo)\n(.*?)\n```', fm.get('_body', ''), re.S):
         try: json.loads(m.group(2))
@@ -233,6 +236,17 @@ def ahash(path):
         return int(''.join('1' if p > avg else '0' for p in px), 2)
     except Exception:
         return None
+
+_TOP = None
+def TOP_IDS():
+    """The ids at the top of the homepage (lead, live band, beside the lead, top stories, briefing), as check_fresh sees them."""
+    global _TOP
+    if _TOP is None:
+        try:
+            h = json.load(open('content/homepage.json')); L = h.get('lead') or {}; ts = h.get('topStories') or {}
+            _TOP = {L.get('id')} | set(L.get('relatedBelow') or []) | set(L.get('relatedBeside') or []) | {(ts.get('big') or {}).get('id')} | set(ts.get('list') or []) | set(ts.get('also') or []) | {i.get('link') for i in (h.get('briefing') or {}).get('items') or []}
+        except (OSError, ValueError): _TOP = set()
+    return _TOP
 
 def check_photos(root, S, scope):
     G = 'photos'
@@ -283,7 +297,7 @@ def check_photos(root, S, scope):
         if str(p.get('articleId', '')).startswith('portrait:') or p.get('composite'): continue
         by_src[file_of(p.get('sourceUrl'))].add(story_of(p.get('articleId')))
     for src, stories in by_src.items():
-        ss = sorted(s for s in stories if s in pub)
+        ss = sorted(s for s in stories if s in pub and (S['en'].get(s) or {}).get('type') in ('news', 'explainer', 'editorial', 'factcheck'))  # same story types as check-photos
         for i in range(len(ss)):
             for j in range(i + 1, len(ss)):
                 if (ss[i] in scope or ss[j] in scope) and abs((pub[ss[i]] - pub[ss[j]]).total_seconds()) < 7 * 86400:
@@ -342,25 +356,20 @@ def check_home(root, dist, S, M):
         a = age_h(fmf(lead))
         if fmf(lead).get('type') != 'news': fail(G, L, f'lead "{lead}" is not a news story')
         if a is None or a > 8: fail(G, L, f'lead "{lead}" is {a and round(a, 1)} hours old (limit 8)')
-        if MARKETS_RE.search(lead) or 'markets' in str(fmf(lead).get('format_label', '')).lower(): fail(G, L, f'lead "{lead}" is a markets story')
+        if GR.is_markets(lead, fmf(lead)): fail(G, L, f'lead "{lead}" is a markets story')
         # Freshness of everything at the top
         for i in tops + live_ids:
             a = age_h(fmf(i))
             if fmf(i).get('type') == 'news' and (a is None or a > 24): fail(G, L, f'"{i}" at the top is {a and round(a)} hours old (limit 24)')
         # Balance
-        mk = [i for i in [lead] + tops if MARKETS_RE.search(i) or 'markets' in str(fmf(i).get('format_label', '')).lower()]
+        mk = [i for i in [lead] + tops if GR.is_markets(i, fmf(i))]
         if len(mk) > 1: fail(G, L, f'{len(mk)} markets stories in the top headlines (max 1): {", ".join(mk)}')
         for sec, n in Counter(fmf(i).get('section') for i in tops).items():
             if n > 2: fail(G, L, f'{n} {sec} stories in the top eight (max 2)')
-        stop = {'supreme', 'minister', 'government', 'november', 'october', 'december', 'police', 'india', 'indian', 'explained', 'crore',
-                'points', 'percent', 'record', 'series', 'states', 'centre', 'congress', 'after', 'before', 'against'}
-        words = lambda i: {w for w in i.split('-') if len(w) >= 5 and w not in stop}
         order = [lead] + tops
         for x, y in zip(order, order[1:]):
-            shared = words(x) & words(y)
-            tx, ty = set(fmf(x).get('topics') or []), set(fmf(y).get('topics') or [])
-            if shared or (tx & ty):
-                fail(G, L, f'"{x}" and "{y}" sit next to each other and share a subject ({", ".join(sorted(shared or (tx & ty)))})')
+            if GR.same_subject(x, y, fmf(x), fmf(y)): fail(G, L, f'"{x}" and "{y}" sit next to each other and are on the same subject')
+        words = GR.words
         # Running story takes the lead or one slot: lead's subject must not reappear in the eight
         for i in tops:
             if len(words(lead) & words(i)) >= 2: fail(G, L, f'running story "{lead}" also takes headline slot "{i}"')
@@ -581,6 +590,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--root', default='.'); ap.add_argument('--dist', default=None)
     ap.add_argument('--hours', type=float, default=48); ap.add_argument('--all', action='store_true')
+    ap.add_argument('--new', action='store_true', help='only the story files this run added or changed (no homepage stories): the desk check')
     ap.add_argument('--changed', action='store_true', help='lint only stories this run changed (git diff against origin/main) + the homepage')
     ap.add_argument('--skip', action='append', default=[], help='groups to skip, comma separated: content,photos,home,site,style')
     ap.add_argument('--max', type=int, default=60, help='failures printed per group')
@@ -597,12 +607,12 @@ def main():
         return []
     on_home = set(ids_in(H))
     recent = {sid for sid, fm in S['en'].items() if a.all or any(t and NOW - t < dt.timedelta(hours=a.hours) for t in (fm['_pub'], fm['_upd']))}
-    if a.changed:
-        d = subprocess.run(['git', '-C', root, 'diff', '--name-only', 'origin/main', '--', 'content/en', 'content/hi'], capture_output=True, text=True)
+    if a.changed or a.new:
+        d = subprocess.run(['git', '-C', root, 'diff', '--name-only', '--diff-filter=AMR', 'origin/main', '--', 'content/en', 'content/hi'], capture_output=True, text=True)
         u = subprocess.run(['git', '-C', root, 'ls-files', '--others', '--exclude-standard', 'content/en', 'content/hi'], capture_output=True, text=True)
         if d.returncode != 0: print(f'audit: --changed needs git and origin/main: {d.stderr.strip()}'); sys.exit(2)
         recent = {os.path.basename(f)[:-3] for f in (d.stdout + u.stdout).split() if f.endswith('.md')}
-    scope = recent | on_home
+    scope = recent if a.new else recent | on_home
     for lang in ('en', 'hi'):
         for sid in on_home:
             if sid not in S[lang]: fail('content', 'content/homepage.json', f'homepage id "{sid}" has no {lang} story file')

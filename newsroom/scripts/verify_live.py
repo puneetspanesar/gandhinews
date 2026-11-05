@@ -1,5 +1,7 @@
 """Counter check of the LIVE site, run by the stall check (and at the end of every run). Never trusts a run's own report.
-  python3 newsroom/scripts/verify_live.py            prints every problem, exit 1 if any
+  python3 newsroom/scripts/verify_live.py                 prints every problem, exit 1 if any
+  python3 newsroom/scripts/verify_live.py --expect <sha>  after a push: waits (up to 12 minutes) until the live site
+                                                          runs that commit, then checks; exit 1 if it never arrives
 Checks:
   deploy     the live /build.json commit is main's newest commit (allowing 15 minutes for Cloudflare); if not, whether the
              Cloudflare build for main failed (then the build gate's message is reproduced with a local build)
@@ -21,10 +23,18 @@ def get(url):
 sh('git', 'fetch', '-q', 'origin', '+refs/heads/main:refs/remotes/origin/main')
 main = sh('git', 'rev-parse', 'origin/main').stdout.strip()
 main_t = dt.datetime.fromtimestamp(int(sh('git', 'log', '-1', '--format=%ct', main).stdout.strip()), IST)
-try:
-    live = json.loads(get('https://gandhinews.com/build.json'))
-except Exception as e:
-    live = {}; bad.append(f'deploy: /build.json unreadable ({e})')
+expect = sys.argv[sys.argv.index('--expect') + 1] if '--expect' in sys.argv else None
+if expect: expect = sh('git', 'rev-parse', expect).stdout.strip() or expect
+live = {}
+for _ in range(25 if expect else 1):
+    try: live = json.loads(get('https://gandhinews.com/build.json'))
+    except Exception as e: live = {'error': str(e)}
+    if not expect or live.get('sha') == expect or sh('git', 'merge-base', '--is-ancestor', expect, live.get('sha') or 'x').returncode == 0: break
+    time.sleep(30)
+if live.get('error'): bad.append(f"deploy: /build.json unreadable ({live['error']})")
+if expect and live.get('sha') != expect and sh('git', 'merge-base', '--is-ancestor', expect, live.get('sha') or 'x').returncode != 0:
+    runs = sh('gh', 'api', f'repos/puneetspanesar/gandhinews/commits/{expect}/check-runs', '--jq', '.check_runs[]|.status+" "+(.conclusion//"")').stdout.strip()
+    bad.append(f"deploy: {expect[:7]} is not live after 12 minutes (live {str(live.get('sha'))[:7]}); Cloudflare: {runs or 'no build found'}")
 if live.get('sha') and live['sha'] != main:
     behind = sh('git', 'rev-list', '--count', f"{live['sha']}..{main}").stdout.strip()
     if (now - main_t).total_seconds() > 15 * 60:
@@ -49,7 +59,8 @@ for lang, url in (('en', 'https://gandhinews.com/'), ('hi', 'https://gandhinews.
     try: html = get(url)
     except Exception as e: bad.append(f'homepage {lang}: unreachable ({e})'); continue
     p = f'content/{lang}/news/{lead}.md'
-    title = re.search(r'^title:\s*"?(.*?)"?\s*$', open(p).read(), re.M).group(1) if os.path.exists(p) else None
+    import yaml
+    title = (yaml.safe_load(open(p).read().split('---')[1]) or {}).get('title') if os.path.exists(p) else None
     txt = html.replace('&#39;', "'").replace('&quot;', '"').replace('&amp;', '&')
     if live.get('sha') == main and title and title not in txt: bad.append(f'homepage {lang}: live page does not show the lead "{title[:60]}"')
     n = len(re.findall(r'class="[^"]*\bcam\b', html))

@@ -48000,28 +48000,6 @@
   ]
  },
  {
-  "id": "cx-supreme-court-stays-criminal-contempt-punjab-chief-secret-0bb",
-  "articleId": "part:supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears--p2:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Supreme_Court_of_India_-_200705.jpg/1600px-Supreme_Court_of_India_-_200705.jpg",
-  "credit": "Legaleagle86 at English Wikipedia.",
-  "licence": "CC BY-SA 3.0",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_-_200705.jpg"
- },
- {
-  "id": "x-supreme-court-stays-criminal-contempt-punjab-chief-secretarybb",
-  "articleId": "supreme-court-stays-criminal-contempt-punjab-chief-secretary-da-arrears--p2",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Supreme_Court_of_India_-_200705.jpg/1600px-Supreme_Court_of_India_-_200705.jpg",
-  "credit": "Photo: Legaleagle86 at English Wikipedia. / Wikimedia Commons",
-  "licence": "CC BY-SA 3.0",
-  "alt": "The Supreme Court of India in New Delhi (file photo)",
-  "alt_hi": "नई दिल्ली में भारत का सुप्रीम कोर्ट (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_-_200705.jpg",
-  "composite": [
-   "cx-supreme-court-stays-criminal-contempt-punjab-chief-secret-0bb"
-  ]
- },
- {
   "id": "cx-supreme-court-two-child-norm-javed-larger-bench--p2-0",
   "articleId": "part:supreme-court-two-child-norm-javed-larger-bench--p2:0",
   "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Supreme_Court_of_India_front_view_02.jpg/1600px-Supreme_Court_of_India_front_view_02.jpg",
@@ -48283,28 +48261,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:Jawaharlal_Nehru_Port_(JNPT).jpg",
   "composite": [
    "cx-coastal-freight-goal-for-2047-needs-milestones-this-decad-0"
-  ]
- },
- {
-  "id": "cx-modi-meet-asian-para-games-contingent-thursday-0",
-  "articleId": "part:modi-meet-asian-para-games-contingent-thursday:0",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Indian_para-athletics_contigent_for_2024_Paris_Paralympics_with_PM_Modi_in_September_2024.jpg/1600px-Indian_para-athletics_contigent_for_2024_Paris_Paralympics_with_PM_Modi_in_September_2024.jpg",
-  "credit": "Prime Minister's Office",
-  "licence": "GODL-India",
-  "alt": "",
-  "page": "https://commons.wikimedia.org/wiki/File:Indian_para-athletics_contigent_for_2024_Paris_Paralympics_with_PM_Modi_in_September_2024.jpg"
- },
- {
-  "id": "x-modi-meet-asian-para-games-contingent-thursday",
-  "articleId": "modi-meet-asian-para-games-contingent-thursday",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Indian_para-athletics_contigent_for_2024_Paris_Paralympics_with_PM_Modi_in_September_2024.jpg/1600px-Indian_para-athletics_contigent_for_2024_Paris_Paralympics_with_PM_Modi_in_September_2024.jpg",
-  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
-  "licence": "GODL-India",
-  "alt": "Prime Minister Narendra Modi with India's para-athletes in 2024 (file photo)",
-  "alt_hi": "2024 में भारत के पैरा एथलीटों के साथ प्रधानमंत्री नरेंद्र मोदी (फ़ाइल फ़ोटो)",
-  "page": "https://commons.wikimedia.org/wiki/File:Indian_para-athletics_contigent_for_2024_Paris_Paralympics_with_PM_Modi_in_September_2024.jpg",
-  "composite": [
-   "cx-modi-meet-asian-para-games-contingent-thursday-0"
   ]
  },
  {
@@ -48740,5 +48696,15 @@
   "alt": "YSRCP chief Y. S. Jagan Mohan Reddy (file photo)",
   "alt_hi": "वाईएसआरसीपी प्रमुख वाई. एस. जगन मोहन रेड्डी (फाइल फोटो)",
   "page": "https://commons.wikimedia.org/wiki/File:Srinubabu_Gedela_provided_Rs_1_crore_donation_to_AP_CM_Jagan_Mohan_Reddy.jpg"
+ },
+ {
+  "id": "o-modi-meet-asian-para-games-contingent-thursday",
+  "articleId": "modi-meet-asian-para-games-contingent-thursday",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Praveen_Kumar_with_PM_Modi_in_September_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "Photo: Prime Minister's Office / Wikimedia Commons",
+  "licence": "GODL-India",
+  "alt": "Prime Minister Narendra Modi with Paralympic high jump champion Praveen Kumar in 2024 (file photo)",
+  "alt_hi": "2024 में पैरालंपिक ऊंची कूद चैंपियन प्रवीण कुमार के साथ प्रधानमंत्री नरेंद्र मोदी (फ़ाइल फ़ोटो)",
+  "page": "https://commons.wikimedia.org/wiki/File:Praveen_Kumar_with_PM_Modi_in_September_2024.jpg"
  }
 ]

@@ -10,18 +10,19 @@ os.chdir(GN_ROOT)
 IST = dt.timezone(dt.timedelta(hours=5, minutes=30)); now = dt.datetime.now(IST)
 os.makedirs('newsroom/runs', exist_ok=True)
 if sys.argv[1] == 'last':
-    f = sorted(glob.glob('newsroom/runs/*.json'), key=os.path.getmtime)
+    f = sorted(glob.glob('newsroom/runs/*.json'), key=lambda x: json.load(open(x)).get('end', ''))
     print(open(f[-1]).read() if f else 'no run records'); sys.exit()
 run, summary = sys.argv[2], sys.argv[3]
 diff = subprocess.run(['git', 'diff', '--name-status', 'origin/main', '--', 'content/en', 'newsroom/held/en'], capture_output=True, text=True).stdout.split('\n')
 added = [l.split('\t')[-1].split('/')[-1][:-3] for l in diff if l.startswith('A') and l.endswith('.md') and 'content/en' in l.split('\t')[-1]]
-held = [l.split('\t')[-1].split('/')[-1][:-3] for l in diff if l.split('\t')[-1].startswith('newsroom/held/en')]
+held = [l.split('\t')[-1].split('/')[-1][:-3] for l in diff if l[:1] in 'AR' and l.split('\t')[-1].startswith('newsroom/held/en')]
 try: start = json.load(open(W + 'run.json'))['start']
 except Exception: start = None
 try: ed = json.load(open(W + 'editor.json'))
 except Exception: ed = None
 rec = {'run': run, 'start': start, 'end': now.isoformat(timespec='seconds'), 'summary': summary, 'new': added, 'held': held,
-       'editor': ed and ed.get('verdict'), 'editor_fail': ed and ed.get('fail'), 'lead': json.load(open('content/homepage.json'))['lead']['id']}
+       'editor': ed and ed.get('verdict'), 'editor_fail': ed and ed.get('fail'), 'fixed_by_run': ed and ed.get('fixed'),
+       'breaches': open(W + 'breaches.txt').read().split('\n')[:-1] if os.path.exists(W + 'breaches.txt') else [], 'lead': json.load(open('content/homepage.json'))['lead']['id']}
 p = f'newsroom/runs/{now:%Y-%m-%d}-{run}.json'
 json.dump(rec, open(p, 'w'), ensure_ascii=False, indent=1)
 for old in glob.glob('newsroom/runs/*.json'):

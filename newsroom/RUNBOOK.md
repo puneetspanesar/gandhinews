@@ -1,6 +1,6 @@
 # Gandhi News: the rules and the shared procedures
 
-Every scheduled run (hourly, long-form, stall check) follows this file plus its own runbook. Work alone: nobody is watching, so never stop to ask a question. Decide, write the decision in the run record, carry on. Where anything else (an old brief, editor-notes.md, a memory of "how it was done before") disagrees with this file, this file wins.
+Every scheduled run (hourly, long-form, stall check) follows this file plus its own runbook (RUNBOOK-HOURLY.md, RUNBOOK-LONGFORM.md, RUNBOOK-STALL.md). Work alone: nobody is watching, so never stop to ask a question. Decide, write the decision in the run record, carry on. Where anything else (an old brief, editor-notes.md, a memory of "how it was done before") disagrees with this file, this file wins.
 
 The site is Astro in the private repo puneetspanesar/gandhinews. Cloudflare deploys every push to main, but only if `npm run build` passes: the build ends with scripts/check-links.mjs and scripts/gate.mjs, so a build that breaks a hard rule is never deployed and the last good site stays live.
 
@@ -33,43 +33,34 @@ Run discipline
 19. The owner hears only about problems a run could not fix (a held story, a broken build it could not repair). A normal run sends nothing.
 
 ## B. Setup (first thing in every run)
+Every shell call starts fresh (variables do not carry over), so commands below use full paths: the work folder is /home/claude/gn-work/ and the Python with OpenCV is /tmp/claude-0/cvenv/bin/python.
 ```
-cd /home/claude/gandhinews 2>/dev/null || cd /home/claude
 [ -f /home/claude/gandhinews/newsroom/scripts/setup.sh ] || gh repo clone puneetspanesar/gandhinews /home/claude/gandhinews
-source /home/claude/gandhinews/newsroom/scripts/setup.sh <run-name>     # hourly-HH, longform-m, longform-e
-bash newsroom/scripts/lock.sh take <run-name> <minutes>                  # hourly 50, long-form 80
+source /home/claude/gandhinews/newsroom/scripts/setup.sh <run-name>     # hourly-HH, longform-m, longform-e, stall-HH
 ```
-lock.sh exit 3 means another run holds the lock: `bash newsroom/scripts/lock.sh wait <run-name> <minutes>` waits until it is free or stale (a hold past its time is stale and is taken over). Release it at the very end, also after a failure: `bash newsroom/scripts/lock.sh release <run-name>`.
-Then the held stories: `python3 newsroom/scripts/held.py expire`, `python3 newsroom/scripts/held.py list`, and `held.py republish <id>` for each picture hold whose picture now exists (then set its `published:` to now only if the news is still current; otherwise leave the time and let it sit below the top).
+Note the start time setup.sh prints. There is no lock to take now: the lock covers only the pull, build and push inside publish.sh (section E), so runs never block each other's work.
+Then the held stories: `python3 newsroom/scripts/held.py expire`, `python3 newsroom/scripts/held.py list`, and `held.py republish <id>` for each picture hold that list marks "a new picture exists" (a hold is fixed only by a different picture from the one it was held with). Set a republished story's `published:` to now only if the news is still current.
 
 ## C. Pictures (in this order, for every new story)
 1. INSTANT, photos we already have: `python3 newsroom/scripts/quick_photo.py <id> "<subject>" --list`, look at the candidates, then `--pick <photo-id>`. Subject = the person as Wikipedia names them, or the place. Seconds.
-2. FINDER for every story still without a correct picture, all in ONE call per run: write queries to $GN_WORK/q-<tag>.json (`{"k1": "Rahul Gandhi||8", "k2": "Chennai floods||8"}`), then `python3 newsroom/scripts/photos_gh.py find <tag> $GN_WORK/q-<tag>.json` (about 2 minutes). Look at the thumbnails (make one contact sheet and Read it), pick by eye, then for each pick `python3 newsroom/scripts/one_photo.py <id> $GN_WORK/pcv<tag> <key> <n> "<English alt>" "<Hindi alt>"` (downloads, crops, registers; about 1 minute). Alt text names what is shown; "(file photo)" when it is not from this event.
-   Two-person splits and covers: the long procedure in newsroom/PHOTOS-COMPOSITE.md, only when there is time.
+2. FINDER for every story still without a correct picture, all in ONE call per run: write the queries to /home/claude/gn-work/q-<tag>.json (`{"k1": "Rahul Gandhi||8", "k2": "Chennai floods||8"}`), then `python3 newsroom/scripts/photos_gh.py find <tag> /home/claude/gn-work/q-<tag>.json` (usually 2 minutes; give up at 6 and fall back to step 3 or a hold). Make one contact sheet of /home/claude/gn-work/pcv<tag>/photo-candidates/thumbs and Read it, pick by eye, then per pick `python3 newsroom/scripts/one_photo.py <id> /home/claude/gn-work/pcv<tag> <key> <n> "<English alt>" "<Hindi alt>"` (downloads, crops, registers; usually 1 minute; run them one after another, never in parallel). Alt text names what is shown, with "(file photo)" when it is not from this event.
+   Two-person splits and covers: newsroom/PHOTOS-COMPOSITE.md, only when there is time.
 3. INFOGRAPHIC, last resort, only under rule 11: `python3 newsroom/scripts/make_infographic.py <id> ...`.
 4. No correct picture by the picture deadline: `python3 newsroom/scripts/held.py hold <id> picture "no correct photo of <subject>"`. Never a wrong or generic photo.
 In-story ```photo blocks whose photo did not arrive are deleted from both language files; the story still goes.
-Wrong picks go into newsroom/scripts/blocklist.txt (file name, lower case) so no later run picks them again.
+Wrong picks go into newsroom/scripts/blocklist.txt (file name, lower case); pick.py, quick_photo.py and one_photo.py never use them again.
 
-## D. The gate (every run, in this order, nothing skipped)
+## D. The gate (every run, nothing skipped)
 ```
-python3 newsroom/scripts/fix_dates.py $(git diff --name-only origin/main -- content/en | grep '\.md$')   # day-month dates to month day
-python3 newsroom/scripts/refresh_home.py [--lead <id>] [--pin <id> ...]
-python3 newsroom/scripts/check_fresh.py              # must print OK
-npm run -s check:photos                               # must print OK
-npm run build > $GN_WORK/build.log 2>&1; echo build=$?   # must be 0: it includes check-links and the build gate
-python3 newsroom/scripts/audit.py --changed           # content, photos, home, site, style on what this run changed
-node newsroom/scripts/check_layout.cjs                # desktop, phone, Hindi: no empty space, no unloaded pictures
+python3 newsroom/scripts/refresh_home.py [--lead <id>] [--pin <id> ...]   # its arguments are saved and re-applied by publish.sh
+bash newsroom/scripts/gate.sh
 ```
-Never pipe the build into grep or tail before reading its exit code. Fix every failure at its cause (the story, the picture, homepage.json), then run the whole gate again from the top. A story that cannot be fixed in 5 minutes is held with held.py and the gate is run again.
-Then the editor's check: `python3 newsroom/scripts/review_pack.py <ids of this run's stories>`, then ONE fresh agent (general-purpose, it did none of this run's work) with the prompt `Read /home/claude/gandhinews/newsroom/briefs/editor-check.md and follow it exactly.` It writes $GN_WORK/editor.json. A FIX you can make in 5 minutes without new research (drop an in-story photo, swap in a photo already checked, fix a word or a figure the editor quoted) you may make first: then move that entry from `fail` to a `fixed` list in editor.json with what you did (`{"id", "why", "done"}`), so the record shows it. Then `python3 newsroom/scripts/apply_verdict.py`: it holds every failed story (with its reason) and refreshes the homepage. Exit 1 means the homepage itself failed: fix it and ask a NEW editor agent once more. After apply_verdict, run the gate's first four lines again (refresh_home, check_fresh, check:photos, build).
+gate.sh runs, in order and reading every exit code: fix_dates on this run's English files, check_fresh, check:photos, the build, check-links, the build gate (gate.mjs), audit.py --changed and check_layout. It ends with one line: `GATE: PASS`, `GATE: PASS WITH BREACHES` (only check_fresh's exit 2: an infographic lead when no fresh story of the running story has a photo, or no new story in 3 hours; publish, they go in the run record, the next run clears them) or `GATE: FAIL` with each failing check's output. Fix every failure at its cause (the story, the picture, homepage.json) and run gate.sh again. A story that cannot be fixed in 5 minutes is held with held.py, then refresh_home and gate.sh again.
+Then the editor's check: `python3 newsroom/scripts/review_pack.py <ids of this run's stories>` (it writes /home/claude/gn-work/review/ with a NONCE line in list.txt), then ONE fresh agent (general-purpose, it did none of this run's work) with the prompt `Read /home/claude/gandhinews/newsroom/briefs/editor-check.md and follow it exactly.` It writes /home/claude/gn-work/editor.json with that nonce. A FIX you can make in 5 minutes without new research (drop an in-story photo, swap in a photo already checked, fix a word or a figure the editor quoted) you may make first; then move that entry from `fail` to a `fixed` list in editor.json with what you did (`{"id", "why", "done"}`). Then `python3 newsroom/scripts/apply_verdict.py`: it holds every failed story with its reason and refreshes the homepage. Exit 1: the homepage failed, or a FAIL listed nothing; fix it and ask a NEW editor agent once. Exit 2: editor.json missing or not from this review pack. Exit 3: a hold failed (wrong id); fix and rerun. If apply_verdict held or fixed anything, run gate.sh once more.
 
 ## E. Publish (only after D passes)
+Write /home/claude/gn-work/commit.txt: first line "Hourly HH:00 IST: ..." or "Long-form morning|evening: ..." or "Stall fix HH:MM IST: ...", then the stories, holds, breaches and the editor verdict, then the attribution lines from the session's system reminder. Then:
 ```
-python3 newsroom/scripts/run_record.py write <run-name> "<one-line summary>"   # newsroom/runs/<date>-<run>.json
-git add -A content public/photos newsroom && git commit -q -F $GN_WORK/commit.txt
-git pull -q origin main && npm run build > $GN_WORK/build.log 2>&1 && git push -q origin HEAD:main; echo push=$?
-bash newsroom/scripts/lock.sh release <run-name>
+bash newsroom/scripts/publish.sh <run-name> "<one-line summary>"
 ```
-The commit message starts "Hourly HH:00 IST:" or "Long-form morning|evening:", lists the stories, holds and the editor verdict, and ends with the attribution lines. If the pull merged anything, the rebuild after it is the gate on the merged result; a failure there is fixed before pushing.
-Then wait for the deploy: `python3 newsroom/scripts/verify_live.py` (poll every minute for up to 10 minutes until the deploy line clears). If it still fails, fix what it says now; whatever is left goes in the run record for the stall check. Then `npm run -s indexnow -- 2`.
+publish.sh writes the run record (newsroom/runs/), commits, takes the lock only for the pull, build and push, re-applies this run's homepage picks if the pull merged another run's work (and stops if check_fresh then fails), runs the full build with its build gate, pushes, releases the lock, and waits until the live site runs the pushed commit (verify_live.py --expect). Exit 0: live. Exit 1: not pushed; fix what it printed and run it again. Exit 4: pushed but not live after 12 minutes; read verify_live's output, fix the cause (usually the build gate on Cloudflare) and publish again. Then `npm run -s indexnow -- 2`.

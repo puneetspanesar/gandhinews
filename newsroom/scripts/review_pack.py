@@ -17,7 +17,7 @@ import yaml
 from PIL import Image, ImageDraw, ImageFont
 
 R = GN_ROOT + ''
-OUT = '/home/claude/gn-work/review/'
+OUT = (os.environ.get('GN_WORK') or '/home/claude/gn-work/') + 'review/'
 FONT = R + 'newsroom/fonts/GoogleSans-700.ttf'
 FONT_R = R + 'newsroom/fonts/GoogleSans-500.ttf'
 IST = dt.timezone(dt.timedelta(hours=5, minutes=30))
@@ -45,7 +45,7 @@ if not ids:
             if (now - t).total_seconds() < 3 * 3600: ids.append(d['id'])
 
 # ---- Homepage screenshots from the built site
-port = 4391
+sk = socket.socket(); sk.bind(('localhost', 0)); port = sk.getsockname()[1]; sk.close()  # a free port, so two runs never collide
 srv = subprocess.Popen(['python3', '-m', 'http.server', str(port), '-d', R + 'dist'], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
 for _ in range(40):
     try: socket.create_connection(('localhost', port), 0.5).close(); break
@@ -95,7 +95,7 @@ lines = []
 for n, sid in enumerate(ids, 1):
     d, raw = fm(sid)
     W = 1500
-    sheet = Image.new('RGB', (W, 2400), 'white'); dr = ImageDraw.Draw(sheet); y = 24
+    sheet = Image.new('RGB', (W, 6000), 'white'); dr = ImageDraw.Draw(sheet); y = 24
     dr.text((24, y), f"{d.get('section', '')} | {d.get('format_label', '')} | {str(d.get('published', ''))[:16]}", font=f_c, fill=(204, 0, 0)); y += 30
     for l in wrap(dr, d.get('title', sid), f_h, W - 48): dr.text((24, y), l, font=f_h, fill='black'); y += 38
     for l in wrap(dr, d.get('standfirst', ''), f_s, W - 48): dr.text((24, y), l, font=f_s, fill='black'); y += 26
@@ -122,7 +122,6 @@ for n, sid in enumerate(ids, 1):
         except Exception: continue
         e = M.get(f"{sid}--p{b.get('n')}")
         im = img(e['src'], 460) if e else None
-        if y + 420 > sheet.height: break
         if im is None:
             dr.text((24, y), f"IN-STORY PHOTO {b.get('n')}: NOT FOUND (block will be dropped): {b.get('subject')}", font=f_c, fill=(204, 0, 0)); y += 30; continue
         sheet.paste(im, (24, y))
@@ -131,6 +130,9 @@ for n, sid in enumerate(ids, 1):
         y += im.height + 20
     sheet = sheet.crop((0, 0, W, min(sheet.height, y + 20)))
     out = f'{OUT}story-{n:02d}.jpg'; sheet.save(out, quality=82)
-    lines.append(f'story-{n:02d}.jpg  {sid}')
-open(OUT + 'list.txt', 'w').write('\n'.join(lines) + '\n')
+    paths = [f'{R}content/{lg}/{d.get("type", "news")}/{sid}.md' for lg in ('en', 'hi')]
+    lines.append(f'story-{n:02d}.jpg  {sid}  text: {paths[0]}  {paths[1]}')
+import secrets
+nonce = secrets.token_hex(4)
+open(OUT + 'list.txt', 'w').write('\n'.join(lines) + f'\nNONCE {nonce}\n(copy this nonce into editor.json as "nonce")\n')
 print(f'{len(ids)} story sheets and 3 homepage screenshots in {OUT}')

@@ -23,8 +23,8 @@
     "relatedBeside": [
       "fortis-healthcare-q2-revenue-17-per-cent-profit-320-crore",
       "modi-meets-asian-para-games-medallists-delhi",
-      "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
       "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8",
+      "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
       "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra"
     ],
     "live": {
@@ -61,8 +61,8 @@
       {
         "link": "ongc-q2-profit-rises-57-per-cent-15489-crore-dividend-8",
         "lead": {
-          "en": "Oil and gas:",
-          "hi": "तेल और गैस:"
+          "en": "Companies:",
+          "hi": "कंपनियां:"
         },
         "text": {
           "en": "ONGC Q2 profit jumps 57% to ₹15,489 crore, ₹8 interim dividend declared",
@@ -83,12 +83,23 @@
       {
         "link": "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
         "lead": {
-          "en": "Tirupati:",
-          "hi": "तिरुपति:"
+          "en": "Courts:",
+          "hi": "अदालत:"
         },
         "text": {
           "en": "Supreme Court refuses to move Tirupati laddu ghee trial out of Andhra Pradesh",
           "hi": "तिरुपति लड्डू घी मामले का मुकदमा आंध्र से बाहर नहीं जाएगा, सुप्रीम कोर्ट ने याचिका खारिज की"
+        }
+      },
+      {
+        "link": "ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent",
+        "lead": {
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
+        },
+        "text": {
+          "en": "YSRCP alleges agents blocked and voters stopped in Pulivendula as Palnadu logs 12% in the first two hours",
+          "hi": "वाईएसआरसीपी का आरोप, पुलिवेंदुला में एजेंट रोके गए और मतदाता लौटाए गए; पलनाडु में पहले दो घंटों में 12% मतदान"
         }
       },
       {
@@ -178,11 +189,15 @@
   },
   "topStories": {
     "big": {
-      "id": "india-japan-asian-champions-trophy-final-mohali-preview",
+      "id": "ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent",
       "also": []
     },
     "list": [
-      "us-midterms-schumer-lower-costs-with-or-without-trump"
+      "india-japan-asian-champions-trophy-final-mohali-preview",
+      "us-midterms-schumer-lower-costs-with-or-without-trump",
+      "hijikata-stuns-djokovic-paris-masters-turin-hopes-end",
+      "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action",
+      "wall-street-jumps-dow-1131-democrats-win-congress"
     ],
     "also": []
   },
@@ -388,9 +403,9 @@
       "section": "states",
       "lead": "jagan-parishad-polls-selections-naidu-hijacked",
       "list": [
+        "andhra-parishad-polls-30-50-per-cent-1pm-kadapa-highest-bapatla-lowest",
         "andhra-parishad-polls-sec-punetha-marutla-ballot-boxes-chandragiri",
-        "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest",
-        "ysrcp-alleges-polling-day-obstruction-pulivendula-palnadu-12-per-cent"
+        "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest"
       ]
     },
     {

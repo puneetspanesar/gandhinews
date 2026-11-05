@@ -36,9 +36,13 @@ for p in P:
     if fileof(p.get('sourceUrl')) == fileof(c['url']):
         s = re.sub(r'--(p\d+|bg|in|c)$', '', str(p.get('articleId', '')).replace('part:', '').split(':')[0])
         if s in pub and (now - pub[s]).days < 7: sys.exit(f'this photo was used by {s} on {pub[s]:%B %d}: the 7-day rule')
+BL = {l.strip().lower() for l in open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'blocklist.txt')) if l.strip() and not l.startswith('#')}
+if fileof(c['url']) in BL or fileof(c['url']).replace(' ', '_') in BL: sys.exit(f'{fileof(c["url"])} is on the blocklist (a wrong person or place before)')
 pid = f'o-{sid}'[:90]  # o- = one_photo; x-, v-, c-, i-, r- belong to other tools
 credit = clean_credit(c.get('author') or '') or 'Wikimedia Commons contributor'
-P = [p for p in P if p['id'] != pid] + [{'id': pid, 'articleId': sid, 'sourceUrl': c['url'], 'credit': f'Photo: {credit} / Wikimedia Commons',
+# the story's old main picture entries go, so check:photos does not count a picture the story no longer shows
+main_of = lambda aid: str(aid).replace('part:', '').split(':')[0]
+P = [p for p in P if p['id'] != pid and main_of(p.get('articleId')) != sid] + [{'id': pid, 'articleId': sid, 'sourceUrl': c['url'], 'credit': f'Photo: {credit} / Wikimedia Commons',
      'licence': lic, 'alt': alt, 'alt_hi': alt_hi, 'page': c['page']}]
 json.dump(P, open('content/photos.json', 'w'), ensure_ascii=False, indent=1); open('content/photos.json', 'a').write('\n')
 tag = re.sub(r'[^a-z0-9]', '', sid)[:12] + now.strftime('%H%M')

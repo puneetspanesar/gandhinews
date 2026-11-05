@@ -16,6 +16,7 @@ def fix_line(s):
         return f"{m['m']} {m['d1']}{sep}{m['d2']}{y}"
     s = RANGE.sub(rr, s)
     def rs(m):
+        if m['m'] == 'May' and not m['y'] and not re.search(r'\b(on|from|till|until|by|since|before|after|of|to)\s+$', s[:m.start()]): return m.group(0)  # "Section 3 May apply"
         wd = f"{m['wd']}, " if m['wd'] else ''
         y = f", {m['y']}" if m['y'] else ''
         return f"{wd}{m['m']} {int(m['d'])}{y}"
@@ -25,7 +26,9 @@ def fix_line(s):
     return out
 dry = '--dry' in sys.argv
 n_files = n_changes = 0
+import os
 for p in [a for a in sys.argv[1:] if not a.startswith('--')]:
+    if not os.path.exists(p): continue   # deleted or held in this run
     lines = open(p, encoding='utf-8').read().split('\n')
     in_src = False; changed = 0
     for i, l in enumerate(lines):
@@ -35,6 +38,7 @@ for p in [a for a in sys.argv[1:] if not a.startswith('--')]:
                 if re.match(r'^\S', l) and not l.startswith('- '): in_src = False
                 else: continue
         elif in_src: in_src = False
+        if l.lstrip().startswith('{"n"') or '"subject"' in l: continue   # photo blocks: subject keys must match photos.map.json
         if 'http' in l and re.search(r'https?://\S*\d{1,2}[-_ ](?:' + M + ')', l): continue
         nl = fix_line(l)
         if nl != l:

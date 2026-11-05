@@ -17,14 +17,14 @@ Today's date and time: take them from `TZ=Asia/Kolkata date` at the start of the
 
 ## 2. Writing style
 - Human, plain, confident Indian English (programme, organisation, labour, per cent as "%"). Short paragraphs (2-4 sentences). Lead with the news or the answer.
-- NO em dashes anywhere (use commas, colons, full stops or brackets). No en dash as a sentence pause either; en dash only in ranges like 2026–27.
+- NO em dashes anywhere (use commas, colons, full stops or brackets). No en dashes at all: ranges are written "2026-27" or "50 to 75".
 - Avoid AI-sounding patterns: no "it's not X, it's Y" / "not just X but Y" contrasts, no "In a world where", "delve", "landscape", "navigate", "pivotal", "crucial", "underscores", "a testament to", "amid growing", "in today's", no repetitive parallel structures ("On X... On Y..."), no rhetorical questions in news, no summary paragraph starting "In conclusion" or "Overall".
 - Numbers: Indian system (lakh, crore). ₹ symbol before figures (₹2.04 lakh crore). Percentages with "%". Dates in English always month day, year: "October 11, 2026", "Oct 7" in tables. In Hindi: "11 अक्टूबर 2026". Times as "9:30 am IST".
 - Headlines: sentence case, specific, factual, under 90 characters, no clickbait, no colons unless needed.
 - Standfirst: one or two sentences (under 220 characters) that add to the headline.
 
 ## 3. Formats and lengths
-- news: 450-750 words. keyPoints (3-4 bullets, each one sentence) in frontmatter. At least one chart or fact box when data exists. Sections with H2 subheads.
+- news: briefs 220-380 words, leads 400-650 (window.txt gives the run's limits). keyPoints (3-4 bullets, each one sentence) in frontmatter. At least one chart or fact box when data exists. Sections with H2 subheads.
 - explainer: 700-1,100 words. `shortAnswer` (2-3 sentences) in frontmatter. Body is a series of H2 QUESTIONS (5-8), each answered with a direct first sentence in bold, then detail. Include at least one chart, timeline or fact box. These are evergreen: write so they stay true for months, and note "as of <month> <year>" where figures will change.
 - factcheck: 450-700 words. Frontmatter `factcheck` block. Body: "What we found" paragraph, then numbered evidence H3 sections each citing a source, then "Why this claim spread" (only sourced context). Verdict scale: True / Mostly true / Misleading / False.
 - editorial: 500-700 words, the desk's argued view, evidence-based, fair to the other side's best argument, ends with a concrete recommendation. Include a "The reporting behind this view" facts block (3 numbers with sources). Frontmatter `verification.status: needs-editor-approval`.
