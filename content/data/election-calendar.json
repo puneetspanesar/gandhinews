@@ -1,8 +1,8 @@
 {
   "id": "election-calendar",
   "title": "Election calendar, October 2026 to December 2027",
-  "updated": "2026-11-04T06:45:00+05:30",
-  "coverage": "Lok Sabha and assembly bypolls, Rajya Sabha elections, state assembly general elections and the presidential election held, announced or expected between 1 October 2026 and 31 December 2027. Only items confirmed in at least one reputable source are listed.",
+  "updated": "2026-11-05T18:00:00+05:30",
+  "coverage": "Lok Sabha and assembly bypolls, Rajya Sabha elections, state assembly general elections and the presidential election, plus major state election commission rural local body polls, held, announced or expected between 1 October 2026 and 31 December 2027. Only items confirmed in at least one reputable source are listed.",
   "status_values": [
     "announced",
     "expected",
@@ -154,6 +154,22 @@
       "notes": "Result confirmed by IANS (Hans India) and DD News (9 Oct 2026, https://ddindia.co.in/2026/10/bjp-wins-eight-sp-two-of-ups-10-rajya-sabha-seats-unopposed/). Vacancy caused by Mallick's own resignation on 16 Jul 2026 as a TMC member (IANS). Poll had been scheduled for 16 October."
     },
     {
+      "id": "andhra-pradesh-mptc-zptc-2026",
+      "name": "Andhra Pradesh Mandal and Zilla Parishad (MPTC and ZPTC) elections",
+      "state": "Andhra Pradesh",
+      "house": "Mandal and Zilla Parishads",
+      "seats": 8349,
+      "date": "2026-11-05",
+      "counting_date": "2026-11-07",
+      "expected_window": null,
+      "status": "held",
+      "term_end": null,
+      "result": null,
+      "source_url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/polling-for-zptc-mptc-begins-in-ap-amid-tight-security-2001867",
+      "source_publisher": "Deccan Chronicle, citing the State Election Commission",
+      "notes": "Local body poll run by the Andhra Pradesh State Election Commission (not the ECI), listed because it is the largest rural vote of the period. seats = 7,767 MPTC + 582 ZPTC seats contested; a further 2,051 MPTC and 77 ZPTC seats were decided unopposed, and three MPTC seats have no valid candidate (SEC figures via The Hans India). Polling was moved from 3 Nov to 5 Nov (South First, https://thesouthfirst.com/andhrapradesh/ap-mptc-zptc-poll-schedule-revised-polling-on-5-november-counting-on-7-november/) and held from 7 am to 5 pm on 5 Nov, with about 2.61 crore voters. Because of heavy rain from Cyclone Murasu, the SEC put off polling in four Eluru district mandals (Buttaigudem, Jeelugumilli, Velerupadu and Polavaram) to Friday 6 Nov. SEC turnout: 30.50% at 1 pm (Andhra Jyothy, Namasthe Telangana); final figure not yet published at this update. YSRCP alleged booth capturing and obstruction of voters in places including Dhulipalla and Pulivendula. Counting from 8 am on Saturday 7 Nov."
+    },
+    {
       "id": "rajya-sabha-madhya-pradesh-bypoll-2026",
       "name": "Rajya Sabha bypoll, Madhya Pradesh",
       "state": "Madhya Pradesh",
@@ -167,7 +183,7 @@
       "result": null,
       "source_url": "https://www.etvbharat.com/en/bharat/election-commission-announces-bypoll-for-rajya-sabha-seat-in-madhya-pradesh-voting-on-november-12-enn26102202451",
       "source_publisher": "ETV Bharat, citing the Election Commission schedule",
-      "notes": "Seat vacated by L. Murugan, who resigned from the Rajya Sabha and the Union Council of Ministers on 14 Oct 2026; term_end is the end of his term, which the winner serves out. Schedule (ECI, announced 22 Oct): notification 26 Oct, last date for nominations 2 Nov, scrutiny 3 Nov, withdrawal by 5 Nov, poll 12 Nov (9 am to 4 pm) if contested, counting from 5 pm the same day, process to be completed by 16 Nov. BJP named Union Petroleum Minister Hardeep Singh Puri as its candidate on 28 Oct (Outlook, https://www.outlookindia.com/national/after-up-omission-bjp-fields-hardeep-puri-for-madhya-pradesh-rajya-sabha-seat). Outlook gave 16 Nov as the counting date; ETV Bharat's account of the ECI schedule says counting is on 12 Nov and 16 Nov is the completion date. Puri filed his nomination papers at the State Assembly building in Bhopal on 31 Oct, accompanied by Chief Minister Mohan Yadav and BJP state president Hemant Khandelwal; police detained Congress leaders ahead of planned protests against his candidature (The Pioneer, https://dailypioneer.com/india/hardeep-puri-files-nomination-for-mp-rajya-sabha-bypoll-congress-leaders-detained-ahead-of-protests). No other nomination was reported in sources read; whether he is elected unopposed will be known after withdrawals close on 5 Nov."
+      "notes": "Seat vacated by L. Murugan, who resigned from the Rajya Sabha and the Union Council of Ministers on 14 Oct 2026; term_end is the end of his term, which the winner serves out. Schedule (ECI, announced 22 Oct): notification 26 Oct, last date for nominations 2 Nov, scrutiny 3 Nov, withdrawal by 5 Nov, poll 12 Nov (9 am to 4 pm) if contested, counting from 5 pm the same day, process to be completed by 16 Nov. BJP named Union Petroleum Minister Hardeep Singh Puri as its candidate on 28 Oct (Outlook, https://www.outlookindia.com/national/after-up-omission-bjp-fields-hardeep-puri-for-madhya-pradesh-rajya-sabha-seat). Outlook gave 16 Nov as the counting date; ETV Bharat's account of the ECI schedule says counting is on 12 Nov and 16 Nov is the completion date. Puri filed his nomination papers at the State Assembly building in Bhopal on 31 Oct, accompanied by Chief Minister Mohan Yadav and BJP state president Hemant Khandelwal; police detained Congress leaders ahead of planned protests against his candidature (The Pioneer, https://dailypioneer.com/india/hardeep-puri-files-nomination-for-mp-rajya-sabha-bypoll-congress-leaders-detained-ahead-of-protests). No other nomination was reported in sources read; whether he is elected unopposed will be known after withdrawals close on 5 Nov. Congress fielded independent Raj Kumar Lohani against Puri; he filed his papers before the returning officer in Bhopal on 2 Nov (Deccan Chronicle, https://www.deccanchronicle.com/amp/nation/congress-fields-independent-candidate-for-rs-by-election-in-mp-against-puri-2001243), so a poll on 12 Nov is likely unless he withdrew by the 5 Nov deadline; outcome of scrutiny and withdrawals not confirmed at this update."
     },
     {
       "id": "manipur-assembly-2027",

@@ -633,6 +633,145 @@
       "notes": "पीटीआई ने केस संख्या नहीं दी। गांधी न्यूज़ की पिछली खबर में लाइवलॉ के हवाले से T.R. Ramesh v State of Tamil Nadu, SLP(C) 39005/2026 लिखा है, जो दीक्षितरों के याचिकाकर्ता होने से मेल नहीं खाता, इसलिए केस का नाम विवरण के रूप में दिया गया। नोटिस किसे जारी हुआ, यह नहीं बताया गया।",
       "case_hi": "मद्रास हाईकोर्ट के 30 अक्टूबर 2026 के फैसले के खिलाफ चिदंबरम नटराज (श्री सभानायगर) मंदिर पर पोधु दीक्षितरों की अपील",
       "status_hi": "लंबित"
+    },
+    {
+      "id": "production-clock-from-detention",
+      "case": "Appeals by four accused against the Tripura High Court's refusal of bail in an NDPS Act case (case title not reported)",
+      "issue": "क्या संविधान के अनुच्छेद 22(2) के तहत गिरफ्तार व्यक्ति को 24 घंटे में मजिस्ट्रेट के सामने पेश करने की समय सीमा असल हिरासत के पल से शुरू होती है, या तब से जब पुलिस औपचारिक रूप से गिरफ्तारी दर्ज करती है।",
+      "bench_size": 2,
+      "bench": "जस्टिस उज्ज्वल भुइयां और जस्टिस अतुल एस. चांदुरकर",
+      "status": "decided",
+      "status_text": "24 घंटे हिरासत से गिने जाएंगे; ज़मानत मंज़ूर",
+      "last_date": "2026-11-05",
+      "last_event": "कोर्ट ने कहा कि 24 घंटे की समय सीमा असल हिरासत से शुरू होती है और \"any attempt to draw an artificial distinction between detention and arrest is constitutionally unsustainable\"। सिर्फ मजिस्ट्रेट तक पहुंचने के सफर का समय घटाया जा सकता है। चारों लोगों को 29 सितंबर 2025 को दोपहर 2 बजे हिरासत में लिया गया था, लेकिन गिरफ्तारी अगले दिन सुबह 11 बजे दिखाई गई। पीठ ने त्रिपुरा हाईकोर्ट का फैसला रद्द कर उन्हें ज़मानत पर रिहा करने का आदेश दिया, और कहा कि मजिस्ट्रेट को यह दर्ज करना होगा कि आज़ादी असल में कब छीनी गई, और हिरासत अनुचित हो तो वे बीएनएसएस की धारा 58 के तहत रिमांड से इनकार कर सकते हैं।",
+      "next_step": "ज़मानत की शर्तें स्पेशल कोर्ट तय करेगी। यह फैसला देश भर के मजिस्ट्रेटों पर लागू होता है।",
+      "sources": [
+        {
+          "title": "No Difference Between Arrest And Detention: SC Says 24-Hour Clock Starts When Liberty Is Curtailed",
+          "publisher": "ETV Bharat",
+          "date": "2026-11-05",
+          "url": "https://www.etvbharat.com/en/bharat/no-difference-between-arrest-detention-sc-says-24-hour-clock-starts-when-liberty-is-curtailed-enn26110502192"
+        },
+        {
+          "title": "24-hour deadline to produce accused before Magistrate runs from actual detention, not formal arrest: SC",
+          "publisher": "Punjab Kesari (IANS)",
+          "date": "2026-11-05",
+          "url": "https://english.punjabkesari.com/india/24-hour-deadline-to-produce-accused-before-magistrate-runs-from-actual-detention-not-formal-arrest-sc"
+        }
+      ],
+      "notes": "स्रोतों में अपीलकर्ताओं के नाम और केस संख्या नहीं। उद्धरण ईटीवी भारत और आईएएनएस से।",
+      "case_hi": "एनडीपीएस कानून के एक मामले में त्रिपुरा हाईकोर्ट से ज़मानत न मिलने के खिलाफ चार आरोपियों की अपीलें (केस का नाम नहीं बताया गया)",
+      "status_hi": "तय"
+    },
+    {
+      "id": "azam-khan-ed-arrest",
+      "case": "Mohd Azam Khan v. Directorate of Enforcement",
+      "issue": "मोहम्मद अली जौहर ट्रस्ट से जुड़े मनी लॉन्ड्रिंग मामले में ईडी द्वारा गिरफ्तारी और उन्हें न्यायिक हिरासत में भेजने वाले 1 नवंबर 2026 के स्पेशल कोर्ट के आदेश के खिलाफ समाजवादी पार्टी नेता आज़म खान की याचिका।",
+      "bench_size": null,
+      "bench": "मुख्य न्यायाधीश सूर्यकांत की अगुवाई वाली पीठ",
+      "status": "disposed",
+      "status_text": "इलाहाबाद हाईकोर्ट भेजा गया",
+      "last_date": "2026-11-05",
+      "last_event": "कोर्ट ने खुद याचिका सुनने से इनकार किया और इसे इलाहाबाद हाईकोर्ट भेज दिया। रजिस्ट्रार को निर्देश दिया गया कि याचिका हाईकोर्ट के मुख्य न्यायाधीश के सामने रखी जाए ताकि 16 नवंबर 2026 को सूचीबद्ध हो, जब हाईकोर्ट अंतरिम राहत की उनकी मांग पर फैसला करेगा। वरिष्ठ वकील कपिल सिब्बल ने दलील दी कि पीएमएलए गलत तरीके से लगाया गया: \"They are saying goats, cows are proceeds of crime, how can that be?\"",
+      "next_step": "इलाहाबाद हाईकोर्ट 16 नवंबर 2026 को अंतरिम राहत पर सुनवाई करेगा। ईडी मामले में खान न्यायिक हिरासत में रहेंगे।",
+      "sources": [
+        {
+          "title": "LiveLaw Breaking News Alerts: 05 November 2026",
+          "publisher": "LiveLaw",
+          "date": "2026-11-05",
+          "url": "https://www.livelaw.in/top-stories/livelaw-breaking-news-alerts-05-november-2026-557408"
+        },
+        {
+          "title": "Supreme Court Refuses Azam Khan's Plea Against ED Arrest; Transfers Petition To Allahabad High Court",
+          "publisher": "LawBeat",
+          "date": "2026-11-05",
+          "url": "https://lawbeat.in/top-stories/supreme-court-refuses-azam-khans-plea-against-ed-arrest-transfers-petition-to-allahabad-high-court-1649222"
+        }
+      ],
+      "notes": "पीठ के दूसरे सदस्य की पुष्टि नहीं। गिरफ्तारी की तारीख पर स्रोतों में मतभेद (29 अक्टूबर बनाम 31 अक्टूबर), इसलिए नहीं दी गई।",
+      "case_hi": "मोहम्मद आज़म खान बनाम प्रवर्तन निदेशालय",
+      "status_hi": "निपटाया गया"
+    },
+    {
+      "id": "tirupati-laddu-trial-transfer",
+      "case": "Machindra Shantaram Lanke and M/s Malganga Milk and Agro Products v. State of Andhra Pradesh (criminal transfer petition)",
+      "issue": "क्या तिरुपति लड्डू घी मिलावट मामले का मुकदमा आंध्र प्रदेश से बाहर ले जाया जाए, क्योंकि याचिकाकर्ताओं के अनुसार मुख्यमंत्री चंद्रबाबू नायडू और उपमुख्यमंत्री पवन कल्याण के बयानों से निष्पक्ष सुनवाई पर असर पड़ा।",
+      "bench_size": 2,
+      "bench": "मुख्य न्यायाधीश सूर्यकांत और जस्टिस जॉयमाल्य बागची",
+      "status": "disposed",
+      "status_text": "मुकदमा बाहर ले जाने की याचिका खारिज",
+      "last_date": "2026-11-05",
+      "last_event": "पीठ ने कहा, \"We are not inclined to transfer the trial. Dismissed.\" उसने कहा कि कई गवाह राज्य के ही हैं और जांच सुप्रीम कोर्ट की बनाई विशेष जांच टीम ने की है (सीबीआई निदेशक की निगरानी में सीबीआई के दो, आंध्र प्रदेश पुलिस के दो अधिकारी और एफएसएसएआई का एक अधिकारी)। ऐसी समस्या फिर आए तो याचिकाकर्ता दोबारा कोर्ट आ सकते हैं।",
+      "next_step": "मुकदमा आंध्र प्रदेश में ही चलेगा।",
+      "sources": [
+        {
+          "title": "Supreme Court Refuses to Transfer Tirupati Laddu Case Outside AP",
+          "publisher": "The Hans India",
+          "date": "2026-11-05",
+          "url": "https://www.thehansindia.com/news/cities/tirupathi/supreme-court-refuses-to-transfer-tirupati-laddu-case-outside-ap-1139512"
+        },
+        {
+          "title": "SC rejects plea to shift Tirupati laddu ghee case trial out of Andhra Pradesh",
+          "publisher": "IBTimes India",
+          "date": "2026-11-05",
+          "url": "https://www.ibtimes.co.in/sc-rejects-plea-shift-tirupati-laddu-ghee-case-trial-out-andhra-pradesh-908129"
+        }
+      ],
+      "notes": "प्रतिवादी का नाम विवरण के रूप में; ब्योरा द हंस इंडिया से (समाचार डेस्क ने पढ़ा), नतीजे की पुष्टि आईबीटाइम्स के शीर्षक से।",
+      "case_hi": "मछिंद्र शांताराम लंके और मेसर्स मलगंगा मिल्क एंड एग्रो प्रोडक्ट्स बनाम आंध्र प्रदेश राज्य (आपराधिक स्थानांतरण याचिका)",
+      "status_hi": "निपटाया गया"
+    },
+    {
+      "id": "punjab-da-arrears-contempt",
+      "case": "State of Punjab's challenge to the Punjab and Haryana High Court's criminal contempt proceedings against Chief Secretary KAP Sinha (DA arrears)",
+      "issue": "क्या हाईकोर्ट राज्य के एक हलफनामे में कथित गलत बयान को लेकर पंजाब के मुख्य सचिव के खिलाफ आपराधिक अवमानना शुरू कर सकता था। विवाद 3 अगस्त 2026 के आदेश के बावजूद महंगाई भत्ते और महंगाई राहत के बकाये के भुगतान में राज्य की देरी का है।",
+      "bench_size": 2,
+      "bench": "जस्टिस बी.वी. नागरत्ना और जस्टिस आर. महादेवन",
+      "status": "pending",
+      "status_text": "आपराधिक अवमानना पर रोक",
+      "last_date": "2026-11-05",
+      "last_event": "कोर्ट ने आपराधिक अवमानना पर हाईकोर्ट के 12 अक्टूबर 2026 के कारण बताओ आदेश और उस मामले की आगे की पूरी कार्यवाही पर \"till further orders\" रोक लगा दी। वरिष्ठ वकील विकास सिंह ने कहा कि पंजाब बकाया चुकाने की योजना के तहत करीब ₹5,000 करोड़ दे चुका है। बकाये पर अलग सिविल अवमानना याचिका हाईकोर्ट में लंबित है।",
+      "next_step": "सुप्रीम कोर्ट में अगली तारीख नहीं बताई गई। हाईकोर्ट ने सिन्हा से 13 नवंबर तक अनुपालन हलफनामा देने और 17 नवंबर को पेश होने को कहा था; रोक का इन तारीखों पर क्या असर होगा, यह नहीं बताया गया।",
+      "sources": [
+        {
+          "title": "Supreme Court Stays Criminal Contempt Case Against Punjab Chief Secretary Over DA Arrears",
+          "publisher": "LawBeat",
+          "date": "2026-11-05",
+          "url": "https://lawbeat.in/top-stories/supreme-court-stays-criminal-contempt-case-against-punjab-chief-secretary-over-da-arrears-1649260"
+        }
+      ],
+      "notes": "ब्योरे का एक ही स्रोत (लॉबीट)। केस संख्या नहीं बताई गई।",
+      "case_hi": "डीए बकाये पर मुख्य सचिव केएपी सिन्हा के खिलाफ पंजाब और हरियाणा हाईकोर्ट की आपराधिक अवमानना कार्यवाही को पंजाब सरकार की चुनौती",
+      "status_hi": "लंबित"
+    },
+    {
+      "id": "ugc-equity-regulations",
+      "case": "Challenges to the UGC (Promotion of Equity in Higher Education Institutions) Regulations, 2026",
+      "issue": "क्या 13 जनवरी 2026 को अधिसूचित यूजीसी के भेदभाव-विरोधी नियम इसलिए अवैध हैं कि उनकी शिकायत व्यवस्था सिर्फ एससी, एसटी और ओबीसी छात्रों को सुरक्षा देती है और सामान्य वर्ग के छात्रों को छोड़ देती है।",
+      "bench_size": 2,
+      "bench": "मुख्य न्यायाधीश सूर्यकांत और जस्टिस जॉयमाल्य बागची",
+      "status": "pending",
+      "status_text": "केंद्र समीक्षा समिति पर विचार कर रहा; नियम स्थगित",
+      "last_date": "2026-11-05",
+      "last_event": "पीठ ने पूछा, \"Why don't you revisit the UGC Regulations?\" सॉलिसिटर जनरल तुषार मेहता ने कहा कि सरकार नियमों की समीक्षा के लिए समिति बनाने पर विचार कर रही है ताकि कोई वर्ग असंतुष्ट न रहे, और कहा: \"The government has taken a decision that every student should be taken care of.\" पीठ ने उनका बयान दर्ज कर सुनवाई टाल दी। कोर्ट ने 2026 की शुरुआत से ये नियम स्थगित रखे हैं।",
+      "next_step": "अगली सुनवाई की तारीख नहीं बताई गई; केंद्र बताएगा कि समीक्षा समिति बनती है या नहीं।",
+      "sources": [
+        {
+          "title": "Centre Mulls Panel To Revisit UGC Regulations On Caste Discrimination, Tells SC",
+          "publisher": "ETV Bharat",
+          "date": "2026-11-05",
+          "url": "https://www.etvbharat.com/en/bharat/centre-mulls-panel-to-revisit-ugc-regulations-on-caste-discrimination-tells-sc-enn26110503788"
+        },
+        {
+          "title": "Supreme Court Flags Concerns Over UGC Caste Rules, Asks Centre To Consider Expert Panel",
+          "publisher": "Oneindia",
+          "date": "2026-11-05",
+          "url": "https://www.oneindia.com/india/supreme-court-flags-concerns-over-ugc-caste-rules-asks-centre-to-consider-expert-panel-8251757.html"
+        }
+      ],
+      "notes": "स्रोतों में मुख्य केस का नाम नहीं। स्थगन आदेश की तारीख नहीं दी गई।",
+      "case_hi": "यूजीसी (उच्च शिक्षा संस्थानों में समानता को बढ़ावा) विनियम, 2026 को चुनौती",
+      "status_hi": "लंबित"
     }
   ]
 }
