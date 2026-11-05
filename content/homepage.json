@@ -22,11 +22,11 @@
       "andhra-mptc-zptc-polling-today-2-81-crore-voters"
     ],
     "relatedBeside": [
-      "gift-nifty-gap-up-kospi-circuit-breaker-chips-november-5",
+      "sensex-1623-points-pre-open-nifty-24378-brent-below-100",
       "india-japan-asian-champions-trophy-final-mohali-preview",
       "alcaraz-beats-michelsen-fils-machac-paris-masters-last-16",
-      "supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board",
-      "naveen-patnaik-writes-majhi-kotia-andhra-elections"
+      "us-midterms-schumer-lower-costs-with-or-without-trump",
+      "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action"
     ],
     "live": {
       "title": {
@@ -38,14 +38,14 @@
   "briefing": {
     "items": [
       {
-        "link": "gift-nifty-gap-up-kospi-circuit-breaker-chips-november-5",
+        "link": "sensex-1623-points-pre-open-nifty-24378-brent-below-100",
         "lead": {
           "en": "Markets:",
-          "hi": "बाज़ार:"
+          "hi": "बाजार:"
         },
         "text": {
-          "en": "GIFT Nifty points to strong start as Kospi chip rout trips circuit breaker",
-          "hi": "गिफ्ट निफ्टी से तेज़ शुरुआत के संकेत, चिप शेयरों की बिकवाली से कोस्पी में सर्किट ब्रेकर"
+          "en": "Sensex jumps 1,623 points in pre-open as Brent slips below $100",
+          "hi": "प्री-ओपन में सेंसेक्स 1,623 अंक उछला, ब्रेंट 100 डॉलर से नीचे"
         }
       },
       {
@@ -104,14 +104,14 @@
         }
       },
       {
-        "link": "us-midterms-alaska-sullivan-peltola-too-close-to-call",
+        "link": "supreme-court-stays-madras-hc-chidambaram-nataraja-temple-board",
         "lead": {
-          "en": "US midterms:",
-          "hi": "अमेरिकी मध्यावधि चुनाव:"
+          "en": "Supreme Court:",
+          "hi": "सुप्रीम कोर्ट:"
         },
         "text": {
-          "en": "Dan Sullivan edges ahead of Mary Peltola as Alaska's Senate race stays too close to call",
-          "hi": "अलास्का सीनेट सीट पर कांटे की टक्कर, डैन सुलिवन मैरी पेल्टोला से मामूली अंतर से आगे"
+          "en": "Court stays Madras High Court order on a five-member board for the Chidambaram Nataraja temple",
+          "hi": "चिदंबरम नटराज मंदिर के लिए पांच सदस्यीय बोर्ड बनाने के मद्रास हाईकोर्ट के आदेश पर रोक"
         }
       },
       {
@@ -194,15 +194,15 @@
       "also": []
     },
     "list": [
-      "us-midterms-schumer-lower-costs-with-or-without-trump",
-      "jitin-prasada-warsaw-wb-group-creotech-india-poland-ties",
-      "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action",
+      "naveen-patnaik-writes-majhi-kotia-andhra-elections",
+      "nykaa-physicswallah-q2-profit-nearly-triples-doubles",
+      "supreme-court-child-labour-special-cell-centre",
       "jairam-ramesh-vb-g-ram-g-grievance-rules-jumla",
-      "rahul-gandhi-sangrur-insaaf-rally-moosewala-mann-drugs"
+      "supreme-court-two-child-norm-javed-larger-bench"
     ],
     "also": [
       "siraj-to-join-india-odi-squad-wellington-missed-auckland",
-      "fenerbahce-3-2-liverpool-muriqi-valverde-real-madrid-aek"
+      "supreme-court-mp-speaker-two-months-nirmala-sapre-disqualification"
     ]
   },
   "startHere": [
@@ -386,7 +386,7 @@
     },
     {
       "section": "economy",
-      "lead": "gift-nifty-gap-up-kospi-circuit-breaker-chips-november-5",
+      "lead": "sensex-1623-points-pre-open-nifty-24378-brent-below-100",
       "module": {
         "type": "markets",
         "indicators": [
@@ -397,10 +397,10 @@
         ]
       },
       "list": [
+        "gift-nifty-gap-up-kospi-circuit-breaker-chips-november-5",
         "wall-street-dow-1569-best-day-since-april-2025-democrats-congress-oil",
         "wall-street-jumps-dow-1131-democrats-win-congress",
-        "nykaa-physicswallah-q2-profit-nearly-triples-doubles",
-        "bse-q2-profit-45-per-cent-809-crore-bkc-plot-mmrda"
+        "nykaa-physicswallah-q2-profit-nearly-triples-doubles"
       ]
     },
     {

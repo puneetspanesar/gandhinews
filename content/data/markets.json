@@ -1,16 +1,16 @@
 {
-  "as_of": "2026-11-04T22:25:00+05:30",
-  "status": "closed",
-  "session_date": "2026-11-04",
+  "as_of": "2026-11-05T09:10:00+05:30",
+  "status": "open",
+  "session_date": "2026-11-05",
   "chart": "nifty-50",
   "indices": [
     {
       "id": "sensex",
       "name": "Sensex",
       "name_hi": "सेंसेक्स",
-      "value": 77301.4,
-      "change": 383.55,
-      "pct": 0.5,
+      "value": 78925.0,
+      "change": 1623.6,
+      "pct": 2.1,
       "history": [
         {
           "date": "2026-09-30",
@@ -97,15 +97,15 @@
           "close": 77301.4
         }
       ],
-      "source": "https://upstox.com/news/market-news/stocks/market-wrap-nov-4-sensex-rises-383-pts-nifty-50-ends-at-23-960-nifty-smallcap-100-jumps-2-bel-top-gainer/article-202977/"
+      "source": "https://www.business-standard.com/markets/news/stock-market-live-november-5-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-126110500085_1.html"
     },
     {
       "id": "nifty-50",
       "name": "Nifty 50",
       "name_hi": "निफ्टी 50",
-      "value": 23960.6,
-      "change": 149.7,
-      "pct": 0.63,
+      "value": 24378.0,
+      "change": 417.4,
+      "pct": 1.74,
       "history": [
         {
           "date": "2026-09-30",
@@ -196,7 +196,7 @@
           "close": 23960.6
         }
       ],
-      "source": "https://upstox.com/news/market-news/stocks/market-wrap-nov-4-sensex-rises-383-pts-nifty-50-ends-at-23-960-nifty-smallcap-100-jumps-2-bel-top-gainer/article-202977/"
+      "source": "https://www.business-standard.com/markets/news/stock-market-live-november-5-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-126110500085_1.html"
     },
     {
       "id": "nifty-bank",
@@ -249,12 +249,12 @@
       "id": "usd-inr",
       "name": "Rupee per dollar",
       "name_hi": "रुपया प्रति डॉलर",
-      "value": 94.64,
-      "change": -0.1,
-      "pct": -0.11,
+      "value": 94.36,
+      "change": -0.29,
+      "pct": -0.31,
       "decimals": 2,
       "unit": "",
-      "source": "https://www.5paisa.com/blog/post-market-update-nifty-gains-5th-day-two-month-high-smallcap-jumps-november-4-2026"
+      "source": "https://www.business-standard.com/markets/news/stock-market-live-november-5-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-126110500085_1.html"
     },
     {
       "id": "brent",
@@ -418,6 +418,7 @@
     "Nov 4 close, read 17:13 IST: Sensex/Nifty 50 from Upstox wrap. Nifty Bank from Liquide (page calls it a market snapshot, published 16:44 IST). Nifty Midcap 100 level and pct from 5paisa (no point change given); tile switched from Midcap 150 and Nifty IT tile replaced by Nifty Bank per format. India VIX 15.23 is HDFC Sky's 15:44 IST reading, not labelled official close. Rupee close 94.64 (prev 94.74) from 5paisa. Brent ($102.55, Jan futures) and MCX gold/silver are Kotak Neo intraday reads at about 15:35 IST; Brent pct not given. Movers from HDFC Sky close report. FII/DII flows still Nov 3: no Nov 4 NSE provisional figures found; 10-year G-sec not refreshed.",
     "4 Nov, read 19:28 IST (hourly 19:00): no Nov 4 FII/DII provisional figure found in a source read; Nov 3 flows kept. Closing values unchanged.",
     "4 Nov 22:25 IST: Nov 4 provisional FII/DII cash flows from Trendlyne (matches 5paisa to within Rs 0.03 crore). Other values unchanged.",
-    "5 Nov 06:35 IST (hourly 06:00): markets closed. Finwire says US crude and Brent futures both fell more than 8% on 4 Nov after Democrats won Congress; no settle level found, so the Brent tile keeps its 4 Nov 15:35 IST reading. Other values unchanged."
+    "5 Nov 06:35 IST (hourly 06:00): markets closed. Finwire says US crude and Brent futures both fell more than 8% on 4 Nov after Democrats won Congress; no settle level found, so the Brent tile keeps its 4 Nov 15:35 IST reading. Other values unchanged.",
+    "5 Nov 09:10 IST (hourly 09:00): Sensex 78,925 (+1,623, 2.10%), Nifty 50 24,378 (+417, 1.74%) and rupee 94.36 (from 94.65) are pre-open readings from the Business Standard live blog; 9:15 open not yet read. Brent below $100 per the same blog but no level, so the Brent tile keeps its 4 Nov reading. Other values unchanged."
   ]
 }

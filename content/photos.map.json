@@ -28817,5 +28817,46 @@
     "src800": "/photos/i-andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6-hi-640.jpg"
    }
   }
+ },
+ "sensex-1623-points-pre-open-nifty-24378-brent-below-100": {
+  "id": "i-sensex-1623-points-pre-open-nifty-24378-brent-below-100",
+  "src": "/photos/i-sensex-1623-points-pre-open-nifty-24378-brent-below-100-en-3x2-1280.jpg",
+  "src800": "/photos/i-sensex-1623-points-pre-open-nifty-24378-brent-below-100-en-3x2-640.jpg",
+  "width": 1280,
+  "height": 853,
+  "credit": "Graphic: Gandhi News",
+  "licence": "",
+  "graphic": true,
+  "alt": "Gandhi News graphic: Sensex up 1,623 points before the bell",
+  "alt_hi": "गांधी न्यूज़ ग्राफ़िक: घंटी से पहले सेंसेक्स 1,623 अंक ऊपर",
+  "page": null,
+  "byLang": {
+   "hi": {
+    "src": "/photos/i-sensex-1623-points-pre-open-nifty-24378-brent-below-100-hi-3x2-1280.jpg",
+    "src800": "/photos/i-sensex-1623-points-pre-open-nifty-24378-brent-below-100-hi-3x2-640.jpg"
+   }
+  },
+  "thumb": {
+   "en": {
+    "src": "/photos/i-sensex-1623-points-pre-open-nifty-24378-brent-below-100-en-t-1280.jpg",
+    "src800": "/photos/i-sensex-1623-points-pre-open-nifty-24378-brent-below-100-en-t-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-sensex-1623-points-pre-open-nifty-24378-brent-below-100-hi-t-1280.jpg",
+    "src800": "/photos/i-sensex-1623-points-pre-open-nifty-24378-brent-below-100-hi-t-640.jpg"
+   }
+  },
+  "cover": {
+   "width": 1280,
+   "height": 720,
+   "en": {
+    "src": "/photos/i-sensex-1623-points-pre-open-nifty-24378-brent-below-100-en-1280.jpg",
+    "src800": "/photos/i-sensex-1623-points-pre-open-nifty-24378-brent-below-100-en-640.jpg"
+   },
+   "hi": {
+    "src": "/photos/i-sensex-1623-points-pre-open-nifty-24378-brent-below-100-hi-1280.jpg",
+    "src800": "/photos/i-sensex-1623-points-pre-open-nifty-24378-brent-below-100-hi-640.jpg"
+   }
+  }
  }
 }
