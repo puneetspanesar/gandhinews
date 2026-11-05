@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-05T15:41:00+05:30",
+  "as_of": "2026-11-05T16:00:00+05:30",
   "status": "closed",
   "session_date": "2026-11-05",
   "chart": "nifty-50",
@@ -225,16 +225,20 @@
       "id": "nifty-midcap-100",
       "name": "Nifty Midcap 100",
       "name_hi": "निफ्टी मिडकैप 100",
-      "value": 59505.5,
+      "value": 60620.9,
       "change": null,
-      "pct": 1.55,
+      "pct": 1.87,
       "history": [
         {
           "date": "2026-11-04",
           "close": 59505.5
+        },
+        {
+          "date": "2026-11-05",
+          "close": 60620.9
         }
       ],
-      "source": "https://www.5paisa.com/blog/post-market-update-nifty-gains-5th-day-two-month-high-smallcap-jumps-november-4-2026"
+      "source": "https://insights.dsij.in/dsijarticledetail/closing-bell-sensex-surges-2009-points-nifty-reclaims-24500-mark-on-thursday-60324"
     },
     {
       "id": "india-vix",
@@ -316,104 +320,30 @@
   "movers": {
     "gainers": [
       {
-        "name": "BEL",
-        "pct": 4.71
+        "name": "InterGlobe Aviation",
+        "pct": 5.43
       },
       {
-        "name": "Adani Enterprises",
-        "pct": 4.47
-      },
-      {
-        "name": "Titan",
-        "pct": 4.22
-      },
-      {
-        "name": "Jio Financial",
-        "pct": 3.73
-      },
-      {
-        "name": "Max Healthcare",
-        "pct": 3.53
+        "name": "Asian Paints",
+        "pct": 4.36
       }
     ],
-    "losers": [
-      {
-        "name": "TCS",
-        "pct": -2.52
-      },
-      {
-        "name": "HCL Tech",
-        "pct": -2.37
-      },
-      {
-        "name": "Coal India",
-        "pct": -2.05
-      },
-      {
-        "name": "Infosys",
-        "pct": -1.73
-      }
-    ],
-    "source": "https://hdfcsky.com/news/market-close-report-today-november-4-2026-diwali-party-continues-as-democrats-seize-congress-in-blow-for-trump"
+    "losers": [],
+    "source": "https://insights.dsij.in/dsijarticledetail/closing-bell-sensex-surges-2009-points-nifty-reclaims-24500-mark-on-thursday-60324"
   },
   "sectors": [
     {
-      "name": "Media",
-      "name_hi": "मीडिया",
-      "pct": 5.15
-    },
-    {
-      "name": "Realty",
-      "name_hi": "रियल्टी",
-      "pct": 2.85
-    },
-    {
-      "name": "Metal",
-      "name_hi": "मेटल",
-      "pct": 2.8
-    },
-    {
-      "name": "Energy",
-      "name_hi": "एनर्जी",
-      "pct": 2.17
-    },
-    {
-      "name": "Consumer Durables",
-      "name_hi": "कंज्यूमर ड्यूरेबल्स",
-      "pct": 2.04
-    },
-    {
-      "name": "FMCG",
-      "name_hi": "एफएमसीजी",
-      "pct": 1.5
-    },
-    {
       "name": "Auto",
       "name_hi": "ऑटो",
-      "pct": 1.16
+      "pct": 4.14
     },
     {
       "name": "Financial Services",
       "name_hi": "वित्तीय सेवाएं",
-      "pct": 0.88
-    },
-    {
-      "name": "Bank",
-      "name_hi": "बैंक",
-      "pct": 0.67
-    },
-    {
-      "name": "Pharma",
-      "name_hi": "फार्मा",
-      "pct": 0.42
-    },
-    {
-      "name": "IT",
-      "name_hi": "आईटी",
-      "pct": -1.5
+      "pct": 3.99
     }
   ],
-  "sectors_source": "https://www.5paisa.com/blog/post-market-update-nifty-gains-5th-day-two-month-high-smallcap-jumps-november-4-2026 (Media, Realty, Metal, Energy, FMCG, Auto, IT); https://blog.liquide.life/share-market-today-nifty-reclaims-23-950-sensex-gains-383-points-as-metal-realty-and-energy-stocks-lead-rally/ (Consumer Durables, Financial Services, Bank, Pharma)",
+  "sectors_source": "https://insights.dsij.in/dsijarticledetail/closing-bell-sensex-surges-2009-points-nifty-reclaims-24500-mark-on-thursday-60324 (Nov 5 close; other sector percentages not given)",
   "flows": {
     "date": "2026-11-04",
     "fii": 7284.03,
@@ -432,6 +362,7 @@
     "5 Nov 13:20 IST (hourly 13:00): no index, rupee, Brent or gold figure dated after 10:10 IST found in a source read this run (Business Standard and ETV Bharat fetches refused); values kept from the 10:00 to 10:10 IST reads.",
     "5 Nov 14:30 IST (hourly 14:00): no index, rupee, Brent or gold figure dated after 10:10 IST found in a source read this run (Business Standard fetch not answered; search returned only older pages); values kept from the 10:00 to 10:10 IST reads.",
     "5 Nov 15:20 IST (hourly 15:00): Sensex 79,156.24 (+1,854.94) and Nifty 50 24,489.30 (+528.70) from ETV Bharat/PTI page last updated 13:30 IST (pct worked out against the Nov 4 close). Other indices, rupee, Brent and gold kept from the 10:00 to 10:10 IST reads (no newer dated figure found). Close not yet read.",
-    "5 Nov 16:05 IST (stall fix): Nov 5 close from ChiniMandi wrap published 15:41 IST: Sensex 79,310.01 (+2,008.61), Nifty 50 24,536.60 (+576.00), pct worked out against the Nov 4 close; matches Business Standard close headline (Sensex +2,009, Nifty 24,537). India VIX 15.62 (+2.83%, point change not given). Rupee close 94.47 vs 94.64. Closes appended to Sensex and Nifty 50 history. Nifty Bank (page says up about 3%, no level) and Midcap (up 1.8%, no level) keep their earlier reads; Brent, gold, silver, movers and sectors not refreshed (no percentages given); FII/DII flows still Nov 4."
+    "5 Nov 16:05 IST (stall fix): Nov 5 close from ChiniMandi wrap published 15:41 IST: Sensex 79,310.01 (+2,008.61), Nifty 50 24,536.60 (+576.00), pct worked out against the Nov 4 close; matches Business Standard close headline (Sensex +2,009, Nifty 24,537). India VIX 15.62 (+2.83%, point change not given). Rupee close 94.47 vs 94.64. Closes appended to Sensex and Nifty 50 history. Nifty Bank (page says up about 3%, no level) and Midcap (up 1.8%, no level) keep their earlier reads; Brent, gold, silver, movers and sectors not refreshed (no percentages given); FII/DII flows still Nov 4.",
+    "Nov 5 close, read 16:25 IST: Nifty Midcap 100 (60,620.90, +1.87%), top Nifty gainers and the Auto and Financial Services sector moves from the DSIJ closing bell (4:00 pm). Losers' percentages not given (only index-point drags: Bharti Airtel, NTPC, Apollo Hospitals), so the losers list is empty. Nifty Bank level not given for the close (only 'up over 3%'), kept at the earlier reading. VIX, rupee close and Nov 5 FII/DII not confirmed; old values kept."
   ]
 }
