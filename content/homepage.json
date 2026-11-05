@@ -17,16 +17,16 @@
     },
     "dataBox": [],
     "relatedBelow": [
-      "andhra-parishad-polls-30-50-per-cent-1pm-kadapa-highest-bapatla-lowest",
       "andhra-parishad-polls-dhulipalla-booth-capture-row-byreddy-house-arrest",
-      "andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula"
+      "andhra-parishad-polls-11-71-per-cent-10am-petrol-bombs-erripalle-pulivendula",
+      "andhra-parishad-polling-under-way-cyclone-murasu-eluru-mandals-november-6"
     ],
     "relatedBeside": [
       "bharti-airtel-q2-profit-31-per-cent-8888-crore-arpu-271",
       "supreme-court-ugc-equity-regulations-centre-mulls-review-panel",
       "sensex-nifty-close-november-5-rally",
       "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
-      "us-midterms-alaska-sullivan-peltola-too-close-to-call"
+      "india-japan-asian-champions-trophy-final-mohali-preview"
     ],
     "live": {
       "title": {
@@ -73,23 +73,12 @@
       {
         "link": "supreme-court-refuses-shift-tirupati-laddu-ghee-trial-out-of-andhra",
         "lead": {
-          "en": "Tirupati:",
-          "hi": "तिरुपति:"
+          "en": "Courts:",
+          "hi": "अदालत:"
         },
         "text": {
           "en": "Supreme Court refuses to move Tirupati laddu ghee trial out of Andhra Pradesh",
           "hi": "तिरुपति लड्डू घी मामले का मुकदमा आंध्र से बाहर नहीं जाएगा, सुप्रीम कोर्ट ने याचिका खारिज की"
-        }
-      },
-      {
-        "link": "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action",
-        "lead": {
-          "en": "Karnataka:",
-          "hi": "कर्नाटक:"
-        },
-        "text": {
-          "en": "Priyank Kharge warns Vijayendra and Narayanaswamy of legal action over remarks on Congress workers",
-          "hi": "प्रियांक खड़गे की विजयेंद्र और नारायणस्वामी को चेतावनी, कांग्रेस कार्यकर्ताओं पर टिप्पणी जारी रही तो कानूनी कार्रवाई"
         }
       },
       {
@@ -101,6 +90,17 @@
         "text": {
           "en": "India chase sixth Asian Champions Trophy title against Japan in Mohali final tonight",
           "hi": "एशियन चैंपियंस ट्रॉफी: छठे खिताब के लिए आज रात मोहाली में जापान से भिड़ेगा भारत"
+        }
+      },
+      {
+        "link": "andhra-mptc-zptc-polling-today-2-81-crore-voters",
+        "lead": {
+          "en": "Andhra Pradesh:",
+          "hi": "आंध्र प्रदेश:"
+        },
+        "text": {
+          "en": "Andhra Pradesh votes today for mandal and zilla parishads after a two-day delay",
+          "hi": "आंध्र प्रदेश में आज मंडल और जिला परिषद चुनाव, दो दिन की देरी से हो रहा मतदान"
         }
       },
       {
@@ -190,17 +190,20 @@
   },
   "topStories": {
     "big": {
-      "id": "india-japan-asian-champions-trophy-final-mohali-preview",
+      "id": "andhra-mptc-zptc-polling-today-2-81-crore-voters",
       "also": []
     },
     "list": [
       "alcaraz-beats-michelsen-fils-machac-paris-masters-last-16",
-      "naveen-patnaik-writes-majhi-kotia-andhra-elections",
-      "cabinet-fast-track-special-courts-2031-850-courts",
+      "us-midterms-schumer-lower-costs-with-or-without-trump",
+      "hijikata-stuns-djokovic-paris-masters-turin-hopes-end",
       "priyank-kharge-warns-vijayendra-narayanaswamy-legal-action",
-      "hijikata-stuns-djokovic-paris-masters-turin-hopes-end"
+      "cabinet-fast-track-special-courts-2031-850-courts"
     ],
-    "also": []
+    "also": [
+      "modi-meet-asian-para-games-contingent-thursday",
+      "us-midterms-alaska-sullivan-peltola-too-close-to-call"
+    ]
   },
   "startHere": [
     "andhra-mandal-zilla-parishad-polls-explained-mptc-zptc",
